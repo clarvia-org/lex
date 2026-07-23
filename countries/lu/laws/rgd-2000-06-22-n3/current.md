@@ -33,11 +33,11 @@ Catégories de navires
 
 Les navires sont classés en trois catégories:
 
-1. Navire pratiquant la navigation maritime ou la pêche en mer, sans limitation de parages.
+- Navire pratiquant la navigation maritime ou la pêche en mer, sans limitation de parages.
 
-2. Navire pratiquant la navigation maritime ou la pêche en mer dans des parages limités à moins de 150 milles marins du port le plus proche médicalement équipé de façon adéquate.
+- Navire pratiquant la navigation maritime ou la pêche en mer dans des parages limités à moins de 150 milles marins du port le plus proche médicalement équipé de façon adéquate.
 
-3. Navire pratiquant la navigation portuaire, les bateaux et les embarcations restant très près des côtes ou ne disposant pas d'emménagements autres qu'une timonerie.
+- Navire pratiquant la navigation portuaire, les bateaux et les embarcations restant très près des côtes ou ne disposant pas d'emménagements autres qu'une timonerie.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -121,19 +121,19 @@ Formation médicale du capitaine et des travailleurs désignés
 
 Le capitaine ou son délégué doit avoir reçu une formation adéquate qui est à actualiser périodiquement et qui doit suivre les orientations générales ci-jointes:
 
-1.
+-
 
-1. Acquisition de connaissances de base en physiologie, séméiologie et thérapeutique.
+  - Acquisition de connaissances de base en physiologie, séméiologie et thérapeutique.
 
-2. Acquisition d'éléments de prévention sanitaire, notamment en matière d'hygiène individuelle et collective, et d'éléments ayant trait à d'éventuelles mesures prophylactiques.
+  - Acquisition d'éléments de prévention sanitaire, notamment en matière d'hygiène individuelle et collective, et d'éléments ayant trait à d'éventuelles mesures prophylactiques.
 
-3. Acquisition d'un savoir-faire pratique concernant les gestes thérapeutiques essentiels et les modalités de l'évacuation sanitaire. Pour les responsables des soins à bord des navires de la catégorie A, la formation pratique devra se faire, si possible, en milieu hospitalier.
+  - Acquisition d'un savoir-faire pratique concernant les gestes thérapeutiques essentiels et les modalités de l'évacuation sanitaire. Pour les responsables des soins à bord des navires de la catégorie A, la formation pratique devra se faire, si possible, en milieu hospitalier.
 
-4. Acquisition d'une bonne connaissance des modalités d'utilisation des moyens de consultation médicale à distance.
+  - Acquisition d'une bonne connaissance des modalités d'utilisation des moyens de consultation médicale à distance.
 
-2. La formation médicale doit tenir compte des programmes définis par les textes internationaux récents généralement reconnus.
+- La formation médicale doit tenir compte des programmes définis par les textes internationaux récents généralement reconnus.
 
-3. Le capitaine et le personnel médical compétent à bord et à terre font usage du modèle de rapport médical dont le modèle est inclus dans le Guide médical international de bord établi par l’Organisation mondiale de la santé ou tout autre modèle de rapport équivalent à destination du capitaine ou des gens de mer. Ce rapport a un caractère confidentiel et sert exclusivement à faciliter le traitement des gens de mer.
+- Le capitaine et le personnel médical compétent à bord et à terre font usage du modèle de rapport médical dont le modèle est inclus dans le Guide médical international de bord établi par l’Organisation mondiale de la santé ou tout autre modèle de rapport équivalent à destination du capitaine ou des gens de mer. Ce rapport a un caractère confidentiel et sert exclusivement à faciliter le traitement des gens de mer.
 
 <a id="art-6"></a>
 ## Art. 6.

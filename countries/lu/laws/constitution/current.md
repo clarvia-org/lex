@@ -601,13 +601,13 @@ Le vote est obligatoire et secret. Ses modalités sont déterminées par la loi.
 
 Le pays est divisé en quatre circonscriptions électorales :
 
-1. le Sud avec les cantons d’Esch-sur-Alzette et Capellen ;
+- le Sud avec les cantons d’Esch-sur-Alzette et Capellen ;
 
-2. le Centre avec les cantons de Luxembourg et Mersch ;
+- le Centre avec les cantons de Luxembourg et Mersch ;
 
-3. le Nord avec les cantons de Diekirch, Redange, Wiltz, Clervaux et Vianden ;
+- le Nord avec les cantons de Diekirch, Redange, Wiltz, Clervaux et Vianden ;
 
-4. l’Est avec les cantons de Grevenmacher, Remich et Echternach.
+- l’Est avec les cantons de Grevenmacher, Remich et Echternach.
 
 Une loi adoptée à la majorité qualifiée fixe le nombre des députés à élire dans chacune des circonscriptions.
 
@@ -729,13 +729,13 @@ Les membres du Gouvernement ont entrée dans la Chambre des Députés et doivent
 
 Aux fins d’exercer les missions prévues à l’article 62, la Chambre des Députés peut :
 
-1. demander la présence d’un ou de plusieurs membres du Gouvernement ;
+- demander la présence d’un ou de plusieurs membres du Gouvernement ;
 
-2. adresser au Gouvernement des questions et interpellations auxquelles le Gouvernement est tenu de répondre ;
+- adresser au Gouvernement des questions et interpellations auxquelles le Gouvernement est tenu de répondre ;
 
-3. requérir de la part du Gouvernement tous informations et documents ;
+- requérir de la part du Gouvernement tous informations et documents ;
 
-4. adopter une motion de confiance ou de censure à l’égard du Gouvernement.
+- adopter une motion de confiance ou de censure à l’égard du Gouvernement.
 
 L’exercice de ces prérogatives est organisé par le Règlement de la Chambre des Députés.
 
@@ -1064,13 +1064,13 @@ Les attributions de la Cour Constitutionnelle peuvent être élargies par une lo
 
 La Cour Constitutionnelle est composée :
 
-1. de neuf membres effectifs :
+- de neuf membres effectifs :
 
-1. le Président de la Cour Supérieure de Justice et le Président de la Cour administrative ;
+  - le Président de la Cour Supérieure de Justice et le Président de la Cour administrative ;
 
-2. deux conseillers à la Cour de Cassation et cinq magistrats nommés par le Grand-Duc, sur l’avis conforme de la Cour Supérieure de Justice et de la Cour administrative ;
+  - deux conseillers à la Cour de Cassation et cinq magistrats nommés par le Grand-Duc, sur l’avis conforme de la Cour Supérieure de Justice et de la Cour administrative ;
 
-2. de sept membres suppléants nommés par le Grand-Duc, sur l’avis conforme de la Cour Supérieure de Justice et de la Cour administrative.
+- de sept membres suppléants nommés par le Grand-Duc, sur l’avis conforme de la Cour Supérieure de Justice et de la Cour administrative.
 
 (6)
 

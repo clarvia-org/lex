@@ -82,6 +82,8 @@ Le cadre du personnel comprend des fonctionnaires des différentes catégories d
 
 Le directeur et le secrétaire assistent aux réunions du conseil administratif avec voix consultative.
 
+Dispositions transitoires
+
 <a id="art-9"></a>
 ## Art. 9.
 

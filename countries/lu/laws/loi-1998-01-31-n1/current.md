@@ -45,11 +45,11 @@ Le Ministre de la Famille, sur avis du Ministre de la Justice, peut donner l’a
 
 Pour pouvoir obtenir l’agrément, les personnes morales visées à l’article premier remplissent les conditions suivantes :
 
-1. justifier dans le chef de la personne physique dûment autorisée à gérer les affaires de la personne morale une qualification documentée soit par un diplôme d’enseignement postsecondaire en sciences juridiques, médicales, pédagogiques, psychologiques ou sociales ou par un diplôme étranger équivalent au sens des directives européennes 89/48/CEE du Conseil, du 21 décembre 1988 relative à un système général de reconnaissance des diplômes d’enseignement supérieur qui sanctionnent des formations professionnelles d’une durée minimale de trois ans ou 92/51/CEE du Conseil, du 18 juin 1992, relative à un deuxième système général de reconnaissance des formations professionnelles, qui complète la directive 89/48/CEE et d’une expérience de six mois dans le domaine de l’adoption, soit par une expérience acquise dans le domaine de l’adoption sur une période d’au moins cinq ans ; le départ de cette personne entraîne la caducité de l’agrément, si dans un délai de trois mois il n’a pas été pourvu à son remplacement par une personne remplissant les conditions de l’article 3 et c) ;
+- justifier dans le chef de la personne physique dûment autorisée à gérer les affaires de la personne morale une qualification documentée soit par un diplôme d’enseignement postsecondaire en sciences juridiques, médicales, pédagogiques, psychologiques ou sociales ou par un diplôme étranger équivalent au sens des directives européennes 89/48/CEE du Conseil, du 21 décembre 1988 relative à un système général de reconnaissance des diplômes d’enseignement supérieur qui sanctionnent des formations professionnelles d’une durée minimale de trois ans ou 92/51/CEE du Conseil, du 18 juin 1992, relative à un deuxième système général de reconnaissance des formations professionnelles, qui complète la directive 89/48/CEE et d’une expérience de six mois dans le domaine de l’adoption, soit par une expérience acquise dans le domaine de l’adoption sur une période d’au moins cinq ans ; le départ de cette personne entraîne la caducité de l’agrément, si dans un délai de trois mois il n’a pas été pourvu à son remplacement par une personne remplissant les conditions de l’article 3 et c) ;
 
-2. prouver la collaboration d’une équipe pluridisciplinaire comprenant au moins un assistant social ou un assistant d’hygiène sociale, un psychologue, un médecin et un juriste ;
+- prouver la collaboration d’une équipe pluridisciplinaire comprenant au moins un assistant social ou un assistant d’hygiène sociale, un psychologue, un médecin et un juriste ;
 
-3. établir que tous les représentants de la personne morale et la personne physique dûment autorisée à gérer les affaires de la personne morale fournissent les garanties nécessaires d’honorabilité à l’exercice des fonctions et missions qui leur incombent.
+- établir que tous les représentants de la personne morale et la personne physique dûment autorisée à gérer les affaires de la personne morale fournissent les garanties nécessaires d’honorabilité à l’exercice des fonctions et missions qui leur incombent.
 
 Toutes les modifications dans la composition des organes de la personne morale doivent être signalées au Ministre de la Famille endéans le délai d’un mois sous peine de caducité de l’agrément.
 
@@ -63,11 +63,11 @@ L’enquête administrative contient l’avis du procureur général d’État. 
 
 Pour l’élaboration de son avis, le procureur général d’État ne tient compte que des faits :
 
-1. incriminés en tant que crime ou délit par la loi ;
+- incriminés en tant que crime ou délit par la loi ;
 
-2. visés à l’article 563, point 3°, du Code pénal relatif aux voies de fait et violences légères
+- visés à l’article 563, point 3°, du Code pénal relatif aux voies de fait et violences légères
 
-3. ayant motivé une procédure d’expulsion sur base de l’article I er de la loi modifiée du 8 septembre 2003 sur la violence domestique.
+- ayant motivé une procédure d’expulsion sur base de l’article I er de la loi modifiée du 8 septembre 2003 sur la violence domestique.
 
 L’alinéa 1er ne s’applique pas aux faits qui, bien que relevant des points 1° à 2°, ont fait l’objet d’un acquittement, d’une réhabilitation judiciaire ou légale, ou sont prescrits.
 
@@ -84,29 +84,29 @@ L’avis du procureur général d’État est détruit six mois après une déci
 
 Les personnes morales visées à l’article premier doivent satisfaire aux obligations suivantes:
 
-1. fournir aux candidats adoptants les informations préliminaires nécessaires relatives à la nature, aux conditions et aux effets de l’adoption;
+- fournir aux candidats adoptants les informations préliminaires nécessaires relatives à la nature, aux conditions et aux effets de l’adoption;
 
-2. s’assurer que les personnes et les institutions dont le consentement est requis pour l’adoption ont été entourées des conseils nécessaires et dûment informées sur les conséquences de leur consentement, en particulier sur le maintien ou la rupture, en raison d’une adoption, des liens de droit entre l’enfant et sa famille d’origine;
+- s’assurer que les personnes et les institutions dont le consentement est requis pour l’adoption ont été entourées des conseils nécessaires et dûment informées sur les conséquences de leur consentement, en particulier sur le maintien ou la rupture, en raison d’une adoption, des liens de droit entre l’enfant et sa famille d’origine;
 
-3. constituer sur les adoptants un dossier comprenant au moins:
+- constituer sur les adoptants un dossier comprenant au moins:
 
-1. les renseignements utiles d’état civil;
+  - les renseignements utiles d’état civil;
 
-2. un extrait du casier judiciaire;
+  - un extrait du casier judiciaire;
 
-3. une enquête sociale qui porte notamment sur les éléments suivants: la personnalité, la santé et la situation économique de l’adoptant, sa vie de famille, son aptitude à éduquer l’enfant;
+  - une enquête sociale qui porte notamment sur les éléments suivants: la personnalité, la santé et la situation économique de l’adoptant, sa vie de famille, son aptitude à éduquer l’enfant;
 
-4. une évaluation du dossier faite par l’équipe pluridisciplinaire.
+  - une évaluation du dossier faite par l’équipe pluridisciplinaire.
 
-4. en cas d’adoption internationale, fournir aux adoptants une notice biographique accompagnée de toutes pièces justificatives, précisant:
+- en cas d’adoption internationale, fournir aux adoptants une notice biographique accompagnée de toutes pièces justificatives, précisant:
 
-- l’identité des institutions ou organismes auprès desquels sont recueillis les enfants susceptibles d’être adoptés;
+  - l’identité des institutions ou organismes auprès desquels sont recueillis les enfants susceptibles d’être adoptés;
 
-- l’agrément des institutions et organismes ci-avant indiqués, pour autant qu’une procédure d’agrément est prévue et requise dans lesdits pays.
+  - l’agrément des institutions et organismes ci-avant indiqués, pour autant qu’une procédure d’agrément est prévue et requise dans lesdits pays.
 
-5. constituer sur chacun des mineurs à adopter un dossier comprenant les résultats d’un examen médical approfondi et le cas échéant d’un bilan psychologique;
+- constituer sur chacun des mineurs à adopter un dossier comprenant les résultats d’un examen médical approfondi et le cas échéant d’un bilan psychologique;
 
-6. dresser une convention écrite avec les candidats adoptants, spécifiant la procédure, la durée probable, le coût et les services garantis.
+- dresser une convention écrite avec les candidats adoptants, spécifiant la procédure, la durée probable, le coût et les services garantis.
 
 <a id="art-5"></a>
 ## Art. 5.

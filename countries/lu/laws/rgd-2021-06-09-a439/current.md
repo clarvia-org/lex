@@ -33,28 +33,28 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Dans le but de promouvoir l’amélioration de la performance énergétique des bâtiments, le présent règlement fixe :
 
-1. la méthode de calcul de la performance énergétique intégrée des bâtiments ;
+- la méthode de calcul de la performance énergétique intégrée des bâtiments ;
 
-2. les exigences en matière de performance énergétique pour les bâtiments neufs et pour les bâtiments qui font l’objet de travaux d’extension, de modification ou de transformation substantielle et qui, après ces travaux, sont des bâtiments ;
+- les exigences en matière de performance énergétique pour les bâtiments neufs et pour les bâtiments qui font l’objet de travaux d’extension, de modification ou de transformation substantielle et qui, après ces travaux, sont des bâtiments ;
 
-3. la certification de la performance énergétique des bâtiments.
+- la certification de la performance énergétique des bâtiments.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 Le présent règlement ne s’applique pas :
 
-1. aux bâtiments érigés à titre provisoire dont l’utilisation prévisible ne dépasse pas deux années ;
+- aux bâtiments érigés à titre provisoire dont l’utilisation prévisible ne dépasse pas deux années ;
 
-2. aux ateliers et bâtiments agricoles qui présentent une faible demande d’énergie. Un bâtiment présente une faible demande d’énergie si son utilisation exige un chauffage qui ne dépasse pas 12 degrés Celsius et n’exige pas de climatisation ;
+- aux ateliers et bâtiments agricoles qui présentent une faible demande d’énergie. Un bâtiment présente une faible demande d’énergie si son utilisation exige un chauffage qui ne dépasse pas 12 degrés Celsius et n’exige pas de climatisation ;
 
-3. aux bâtiments dont la destination exige une ouverture large et permanente vers l’extérieur ;
+- aux bâtiments dont la destination exige une ouverture large et permanente vers l’extérieur ;
 
-4. aux bâtiments dans lesquels l’énergie est utilisée exclusivement dans les procédés de production ;
+- aux bâtiments dans lesquels l’énergie est utilisée exclusivement dans les procédés de production ;
 
-5. aux bâtiments servant de lieux de culte et destinés à l’exécution de pratiques religieuses ;
+- aux bâtiments servant de lieux de culte et destinés à l’exécution de pratiques religieuses ;
 
-6. aux bâtiments indépendants dont la surface de référence énergétique A n est inférieure à cinquante mètres carrés.
+- aux bâtiments indépendants dont la surface de référence énergétique A n est inférieure à cinquante mètres carrés.
 
 ##### Section 2 Définitions
 
@@ -71,9 +71,9 @@ Aux fins du présent règlement, on entend par :
 
 « bâtiment d’habitation » : bâtiment pris dans son ensemble dans lequel au moins 90 pour cent de la surface est destinée à des fins d’habitation. La surface du bâtiment est calculée :
 
-1. sur base de la surface de référence énergétique A n pour les bâtiments qui ne sont pas soumis au statut de la copropriété ou qui sont soumis au statut de la copropriété, mais encore sans état descriptif de division en conformité avec le règlement grand-ducal du 22 juin 1988 concernant la publicité en matière de copropriété. Dans le deuxième cas, il est fait abstraction des parties communes. Les parties privatives à prendre en considération et la destination des parties privatives à des fins d’habitation ou à des fins autres que l’habitation sont arrêtées et publiées par le ministre ;
+- sur base de la surface de référence énergétique A n pour les bâtiments qui ne sont pas soumis au statut de la copropriété ou qui sont soumis au statut de la copropriété, mais encore sans état descriptif de division en conformité avec le règlement grand-ducal du 22 juin 1988 concernant la publicité en matière de copropriété. Dans le deuxième cas, il est fait abstraction des parties communes. Les parties privatives à prendre en considération et la destination des parties privatives à des fins d’habitation ou à des fins autres que l’habitation sont arrêtées et publiées par le ministre ;
 
-2. sur base de la surface utile des différents lots privatifs pour les bâtiments soumis au statut de la copropriété et disposant d’un état descriptif de division en conformité avec le règlement grand-ducal du 22 juin 1988 concernant la publicité en matière de copropriété. Les lots privatifs à prendre en considération et la destination de ces lots privatifs à des fins d’habitation ou à des fins autres que l’habitation sont arrêtés et publiés par le ministre ;
+- sur base de la surface utile des différents lots privatifs pour les bâtiments soumis au statut de la copropriété et disposant d’un état descriptif de division en conformité avec le règlement grand-ducal du 22 juin 1988 concernant la publicité en matière de copropriété. Les lots privatifs à prendre en considération et la destination de ces lots privatifs à des fins d’habitation ou à des fins autres que l’habitation sont arrêtés et publiés par le ministre ;
 
 (3)
 
@@ -198,9 +198,9 @@ Les personnes visées aux paragraphes 8 et 9 ayant suivi avec succès au moins u
 
 Un nouveau calcul de performance énergétique et un nouveau certificat de performance énergétique qui reflètent le bâtiment comme il a été construit (« as-built ») réellement doivent être établis et remis à titre informationnel au bourgmestre endéans le délai de deux mois à partir de celui des événements suivants qui se produit en premier :
 
-1. la réception définitive du bâtiment ou des travaux concernés ;
+- la réception définitive du bâtiment ou des travaux concernés ;
 
-2. le début de l’utilisation du bâtiment ou des parties concernées.
+- le début de l’utilisation du bâtiment ou des parties concernées.
 
 (13)
 
@@ -245,15 +245,15 @@ Le calcul de performance énergétique de bâtiments neufs et l’établissement
 
 Le propriétaire de tout bâtiment neuf fait établir une étude de faisabilité couvrant des aspects techniques, environnementaux et économiques. Cette étude englobe :
 
-1. les systèmes d’approvisionnement en énergie décentralisés faisant appel aux énergies renouvelables ;
+- les systèmes d’approvisionnement en énergie décentralisés faisant appel aux énergies renouvelables ;
 
-2. la production combinée de chaleur et d’électricité ;
+- la production combinée de chaleur et d’électricité ;
 
-3. les systèmes de chauffage ou de refroidissement urbains ou collectifs, s’ils existent ;
+- les systèmes de chauffage ou de refroidissement urbains ou collectifs, s’ils existent ;
 
-4. les pompes à chaleur ;
+- les pompes à chaleur ;
 
-5. tout autre système d’approvisionnement basé sur les énergies renouvelables ou répondant à des critères d’utilisation rationnelle de l’énergie.
+- tout autre système d’approvisionnement basé sur les énergies renouvelables ou répondant à des critères d’utilisation rationnelle de l’énergie.
 
 ##### Section 3 Extensions de bâtiments
 
@@ -340,21 +340,21 @@ Le certificat de performance énergétique doit être établi pour la totalité 
 
 L’établissement du certificat de performance énergétique prévu à l’article 10, paragraphe 2, et l’article 11, paragraphe 2, n’est pas obligatoire lorsque les travaux concernent :
 
-1. moins de 10 pour cent de la surface des éléments de même fonctionnalité de la surface de l’enveloppe thermique A, ou
+- moins de 10 pour cent de la surface des éléments de même fonctionnalité de la surface de l’enveloppe thermique A, ou
 
-2. les installations techniques, si le coût de ces travaux est inférieur à 1.500 euros pour un bâtiment unifamilial et 3.000 euros pour un bâtiment multifamilial ou fonctionnel sur base d’un devis estimatif.
+- les installations techniques, si le coût de ces travaux est inférieur à 1.500 euros pour un bâtiment unifamilial et 3.000 euros pour un bâtiment multifamilial ou fonctionnel sur base d’un devis estimatif.
 
 (2)
 
 Le respect des exigences de l’annexe I, chapitre 1.7, pour les bâtiments d’habitation et les exigences de l’annexe II, chapitre 1.11, pour les bâtiments fonctionnels n’est pas obligatoire lorsque :
 
-1. les travaux concernent moins que, ou exactement 25 pour cent de la surface de l’enveloppe thermique A, ou
+- les travaux concernent moins que, ou exactement 25 pour cent de la surface de l’enveloppe thermique A, ou
 
-2. le coût total des travaux qui concernent l’enveloppe thermique du bâtiment ou les systèmes techniques du bâtiment est inférieur ou égal à 25 pour cent de la valeur du bâtiment, à l’exclusion de la valeur du terrain sur lequel il se trouve, ou
+- le coût total des travaux qui concernent l’enveloppe thermique du bâtiment ou les systèmes techniques du bâtiment est inférieur ou égal à 25 pour cent de la valeur du bâtiment, à l’exclusion de la valeur du terrain sur lequel il se trouve, ou
 
-3. pour les emplacements de stationnement intérieurs, les travaux ne concernent pas les emplacements de stationnement mêmes ou l’infrastructure électrique du bâtiment, ou
+- pour les emplacements de stationnement intérieurs, les travaux ne concernent pas les emplacements de stationnement mêmes ou l’infrastructure électrique du bâtiment, ou
 
-4. pour les emplacements de stationnement extérieurs jouxtant le bâtiment, les travaux ne concernent pas les emplacements de stationnement mêmes ou l’infrastructure électrique des emplacements de stationnement.
+- pour les emplacements de stationnement extérieurs jouxtant le bâtiment, les travaux ne concernent pas les emplacements de stationnement mêmes ou l’infrastructure électrique des emplacements de stationnement.
 
 (3)
 
@@ -369,17 +369,17 @@ Le respect des exigences de l’annexe I, chapitre 1.8, pour les bâtiments d’
 
 Le bourgmestre peut accorder, sur demande motivée et sur base d’une documentation complète à introduire avec la demande d’autorisation de construire, des dérogations au niveau du respect des exigences visées à l’annexe I, chapitres 1er et 2, ainsi qu’à l’annexe II, chapitres 1er et 2 :
 
-1. dans les cas où les travaux à entreprendre changeraient le caractère ou l’apparence des bâtiments de façon à mettre en cause leur statut de :
+- dans les cas où les travaux à entreprendre changeraient le caractère ou l’apparence des bâtiments de façon à mettre en cause leur statut de :
 
-1. bâtiment ou monument dont la conservation présente un intérêt public et qui est officiellement protégé en totalité ou en partie en vertu de la loi du 18 juillet 1983 concernant la conservation et la protection des sites et monuments nationaux, ou
+  - bâtiment ou monument dont la conservation présente un intérêt public et qui est officiellement protégé en totalité ou en partie en vertu de la loi du 18 juillet 1983 concernant la conservation et la protection des sites et monuments nationaux, ou
 
-2. bâtiment ou monument dont la conservation présente un intérêt public et qui est classé conformément à l’article 32 du règlement grand-ducal du 8 mars 2017 concernant le contenu du plan d’aménagement général d’une commune ;
+  - bâtiment ou monument dont la conservation présente un intérêt public et qui est classé conformément à l’article 32 du règlement grand-ducal du 8 mars 2017 concernant le contenu du plan d’aménagement général d’une commune ;
 
-2. dans les cas où les travaux à entreprendre mèneraient à une violation d’une autre disposition légale ou réglementaire dans le domaine de la bâtisse ;
+- dans les cas où les travaux à entreprendre mèneraient à une violation d’une autre disposition légale ou réglementaire dans le domaine de la bâtisse ;
 
-3. en cas d’impossibilité technique ;
+- en cas d’impossibilité technique ;
 
-4. en cas de rigueur excessive. Il s’agit ici des cas où les coûts engendrés par les travaux pour le respect des exigences en matière de performance énergétique ne seraient pas rentables d’un point de vue économique. Dans ce cas, les exigences doivent être adaptées à un niveau de rentabilité économiquement défendable. La rigueur excessive doit être contrôlée et certifiée par une des personnes visées à l’article 4, paragraphe 8, différente de celle qui a introduit la demande d’autorisation de construire. Le ministre peut déterminer la méthode et les paramètres du calcul de rentabilité et du niveau de rentabilité économiquement défendable.
+- en cas de rigueur excessive. Il s’agit ici des cas où les coûts engendrés par les travaux pour le respect des exigences en matière de performance énergétique ne seraient pas rentables d’un point de vue économique. Dans ce cas, les exigences doivent être adaptées à un niveau de rentabilité économiquement défendable. La rigueur excessive doit être contrôlée et certifiée par une des personnes visées à l’article 4, paragraphe 8, différente de celle qui a introduit la demande d’autorisation de construire. Le ministre peut déterminer la méthode et les paramètres du calcul de rentabilité et du niveau de rentabilité économiquement défendable.
 
 (2)
 
@@ -404,31 +404,31 @@ Un certificat de performance énergétique doit être conforme aux dispositions 
 
 L’établissement d’un certificat de performance énergétique pour un bâtiment est demandé :
 
-1. lors de la construction d’un bâtiment neuf soumise à une demande d’autorisation de construire ;
+- lors de la construction d’un bâtiment neuf soumise à une demande d’autorisation de construire ;
 
-2. lors de l’extension d’un bâtiment ;
+- lors de l’extension d’un bâtiment ;
 
-3. lors de la modification d’un bâtiment ;
+- lors de la modification d’un bâtiment ;
 
-4. lors de la transformation substantielle d’un bâtiment ;
+- lors de la transformation substantielle d’un bâtiment ;
 
-5. lors d’un changement de propriétaire d’un bâtiment existant ou d’une partie de bâtiment dans un bâtiment existant dans le cas d’une vente, si le bâtiment en question ne dispose pas déjà d’un certificat de performance énergétique valide. L’établissement du certificat de performance énergétique n’est pas obligatoire si la vente est faite à des fins de démolition ou s’il s’agit d’une vente publique par voie parée, saisie immobilière ou licitation publique ;
+- lors d’un changement de propriétaire d’un bâtiment existant ou d’une partie de bâtiment dans un bâtiment existant dans le cas d’une vente, si le bâtiment en question ne dispose pas déjà d’un certificat de performance énergétique valide. L’établissement du certificat de performance énergétique n’est pas obligatoire si la vente est faite à des fins de démolition ou s’il s’agit d’une vente publique par voie parée, saisie immobilière ou licitation publique ;
 
-6. lors d’un changement de locataire d’un bâtiment existant ou d’une partie de bâtiment dans un bâtiment existant, si le bâtiment en question ne dispose pas déjà d’un certificat de performance énergétique valide ;
+- lors d’un changement de locataire d’un bâtiment existant ou d’une partie de bâtiment dans un bâtiment existant, si le bâtiment en question ne dispose pas déjà d’un certificat de performance énergétique valide ;
 
-7. lorsqu’il s’agit d’un bâtiment dans lequel une surface de référence énergétique A n supérieure à 250 mètres carrés est occupée par une autorité publique et fréquemment visitée par le public, si le bâtiment en question ne dispose pas encore d’un certificat de performance énergétique valide.
+- lorsqu’il s’agit d’un bâtiment dans lequel une surface de référence énergétique A n supérieure à 250 mètres carrés est occupée par une autorité publique et fréquemment visitée par le public, si le bâtiment en question ne dispose pas encore d’un certificat de performance énergétique valide.
 
 (4)
 
 Le certificat de performance énergétique doit être commandé auprès d’une personne définie à l’article 4, paragraphe 8 :
 
-1. dans le cas de la construction d’un bâtiment neuf, par le promoteur du projet, et à défaut, par le futur propriétaire ou le syndicat des copropriétaires du bâtiment ;
+- dans le cas de la construction d’un bâtiment neuf, par le promoteur du projet, et à défaut, par le futur propriétaire ou le syndicat des copropriétaires du bâtiment ;
 
-2. dans le cas d’une extension, d’une modification ou d’une transformation substantielle d’un bâtiment par le propriétaire ou syndicat des copropriétaires du bâtiment ;
+- dans le cas d’une extension, d’une modification ou d’une transformation substantielle d’un bâtiment par le propriétaire ou syndicat des copropriétaires du bâtiment ;
 
-3. dans le cas d’un changement de propriétaire : par l’ancien propriétaire ou le syndicat des copropriétaires du bâtiment ;
+- dans le cas d’un changement de propriétaire : par l’ancien propriétaire ou le syndicat des copropriétaires du bâtiment ;
 
-4. dans le cas d’un changement de locataire : par le propriétaire ou le syndicat des copropriétaires du bâtiment.
+- dans le cas d’un changement de locataire : par le propriétaire ou le syndicat des copropriétaires du bâtiment.
 
 (5)
 
@@ -491,11 +491,11 @@ Au cas où dans un bâtiment fonctionnel pris dans son ensemble, une partie du b
 
 L’établissement du certificat de performance énergétique additionnel prévu au paragraphe 1er est déclenché lors de la construction d’un bâtiment fonctionnel neuf et dans les cas visés à l’article 14, paragraphe 3, points 1 à 6. Le caractère déterminant des différents certificats de performance énergétique en fonction des parties concernées est réglé comme suit :
 
-1. pour la partie du bâtiment fonctionnel qui est destinée à des fins d’habitation, le certificat de performance énergétique prévu au paragraphe 1 er est déterminant notamment en ce qui concerne les cas visés à l’article 17, paragraphes 2 et 3 ;
+- pour la partie du bâtiment fonctionnel qui est destinée à des fins d’habitation, le certificat de performance énergétique prévu au paragraphe 1 er est déterminant notamment en ce qui concerne les cas visés à l’article 17, paragraphes 2 et 3 ;
 
-2. pour la partie du bâtiment fonctionnel qui est destinée à des fins autres que l’habitation, seul le certificat de performance énergétique prévu à l’article 14, paragraphes 2 et 3, est déterminant notamment en ce qui concerne les cas visés à l’article 17, paragraphes 2 et 3 ;
+- pour la partie du bâtiment fonctionnel qui est destinée à des fins autres que l’habitation, seul le certificat de performance énergétique prévu à l’article 14, paragraphes 2 et 3, est déterminant notamment en ce qui concerne les cas visés à l’article 17, paragraphes 2 et 3 ;
 
-3. en matière d’autorisation de construire ou d’établissements classés , seul le certificat de performance énergétique établi conformément à l’article 14, paragraphes 2 et 3, est déterminant.
+- en matière d’autorisation de construire ou d’établissements classés , seul le certificat de performance énergétique établi conformément à l’article 14, paragraphes 2 et 3, est déterminant.
 
 ##### Section 3 Classification
 
@@ -539,9 +539,9 @@ Pour une partie d’un bâtiment fonctionnel destinée à des fins d’habitatio
 
 Les certificats de performance énergétique établis :
 
-1. conformément à l’article 14, paragraphe 3, point 7, ou
+- conformément à l’article 14, paragraphe 3, point 7, ou
 
-2. conformément à l’article 14, paragraphe 3, points 1 à 6, lorsqu’il s’agit d’un bâtiment dans lequel une surface de référence énergétique A n supérieure à 500 mètres carrés est fréquemment visitée par le public doivent être affichés à un emplacement et d’une manière clairement visible pour le public. Le ministre peut préciser les modalités de l’affichage du certificat de performance énergétique.
+- conformément à l’article 14, paragraphe 3, points 1 à 6, lorsqu’il s’agit d’un bâtiment dans lequel une surface de référence énergétique A n supérieure à 500 mètres carrés est fréquemment visitée par le public doivent être affichés à un emplacement et d’une manière clairement visible pour le public. Le ministre peut préciser les modalités de l’affichage du certificat de performance énergétique.
 
 ##### Section 5 Validité du certificat de performance énergétique
 
@@ -574,11 +574,11 @@ Le ministre sélectionne de manière aléatoire au moins un pourcentage statisti
 
 La vérification se fonde sur les mesures énoncées ci-après ou sur des mesures équivalentes et se base sur les données employées pour l’établissement du calcul du certificat de performance énergétique ainsi que pour l’établissement du certificat de performance énergétique :
 
-1. vérification de la validité des données d’entrée du bâtiment employées pour établir le certificat de performance énergétique et des résultats figurant dans le certificat ;
+- vérification de la validité des données d’entrée du bâtiment employées pour établir le certificat de performance énergétique et des résultats figurant dans le certificat ;
 
-2. vérification des données d’entrée employées pour établir le certificat de performance énergétique et de ses résultats, y compris les recommandations émises ;
+- vérification des données d’entrée employées pour établir le certificat de performance énergétique et de ses résultats, y compris les recommandations émises ;
 
-3. vérification complète des données d’entrée du bâtiment, employées pour établir le certificat de performance énergétique, vérification complète des résultats figurant dans le certificat, y compris les recommandations émises, et examen sur place du bâtiment, si possible, afin de vérifier la concordance entre les informations fournies dans le certificat de performance énergétique et le bâtiment certifié.
+- vérification complète des données d’entrée du bâtiment, employées pour établir le certificat de performance énergétique, vérification complète des résultats figurant dans le certificat, y compris les recommandations émises, et examen sur place du bâtiment, si possible, afin de vérifier la concordance entre les informations fournies dans le certificat de performance énergétique et le bâtiment certifié.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -638,7 +638,7 @@ Si le nouveau calcul de performance énergétique et le nouveau certificat de pe
 
 (2)
 
-Pour les bâtiments fonctionnels neufs ou pour les extensions ou modifications de tels bâtiments fonctionnels pour lesquels l’autorisation de construire a été délivrée avant l’entrée en vigueur du présent règlement ou a été demandée avant le 1er juillet 2022 et dont la réception définitive ou le début de l’utilisation du bâtiment a lieu postérieurement au 31 décembre 2023, le nouveau calcul de performance énergétique et le nouveau certificat de performance énergétique visés à l’article 4, paragraphe 12, du présent règlement doivent être établis, sans préjudice des droits acquis résultant de l’autorisation de construire, selon la méthodologie règlement grand-ducal modifié du 31 août 2010 concernant la performance énergétique des bâtiments fonctionnels et selon la méthodologie prévue par le présent règlement.
+Pour les bâtiments fonctionnels neufs ou pour les extensions ou modifications de tels bâtiments fonctionnels pour lesquels l’autorisation de construire a été délivrée avant l’entrée en vigueur du présent règlement ou a été demandée avant le 1er juillet 2022 et dont la réception définitive ou le début de l’utilisation du bâtiment a lieu postérieurement au 31 décembre 2023 , le nouveau calcul de performance énergétique et le nouveau certificat de performance énergétique visés à l’article 4, paragraphe 12, du présent règlement doivent être établis, sans préjudice des droits acquis résultant de l’autorisation de construire, selon la méthodologie règlement grand-ducal modifié du 31 août 2010 concernant la performance énergétique des bâtiments fonctionnels et selon la méthodologie prévue par le présent règlement.
 
 <a id="art-27"></a>
 ## Art. 27.

@@ -98,13 +98,13 @@ La reconnaissance des diplômes obtenus à l'étranger est de la compétence du 
 
 La reconnaissance est accordée:
 
-1. pour les professions pour lesquelles un diplôme luxembourgeois est délivré, aux titulaires d'un diplôme sanctionnant une formation équivalente à l'étranger, sans préjudice des dispositions du paragraphe 3 ci-après;
+- pour les professions pour lesquelles un diplôme luxembourgeois est délivré, aux titulaires d'un diplôme sanctionnant une formation équivalente à l'étranger, sans préjudice des dispositions du paragraphe 3 ci-après;
 
-2. pour les professions tombant sous l'application d'une directive communautaire instituant un système général de reconnaissance des diplômes, aux titulaires d'un des diplômes répondant aux exigences de la directive en question;
+- pour les professions tombant sous l'application d'une directive communautaire instituant un système général de reconnaissance des diplômes, aux titulaires d'un des diplômes répondant aux exigences de la directive en question;
 
-3. aux titulaires d'un diplôme délivré conformément à une convention internationale ou à un accord de réciprocité conclus par le Luxembourg;
+- aux titulaires d'un diplôme délivré conformément à une convention internationale ou à un accord de réciprocité conclus par le Luxembourg;
 
-4. pour les ressortissants d'un pays tiers, si les études qui ont conduit à la délivrance du diplôme, certificat ou titre, répondent aux exigences fixées par la présente loi.
+- pour les ressortissants d'un pays tiers, si les études qui ont conduit à la délivrance du diplôme, certificat ou titre, répondent aux exigences fixées par la présente loi.
 
 Cette reconnaissance est soumise au paiement d’une taxe dont le montant est fixé à 75 euros.
 
@@ -211,9 +211,9 @@ L'engagement au service de l'État résultant de la disposition qui précède se
 
 Sont abrogées toutes les dispositions légales contraires à la présente loi et notamment:
 
-1. la loi modifiée du 6 août 1990 portant organisation des études éducatives et sociales;
+- la loi modifiée du 6 août 1990 portant organisation des études éducatives et sociales;
 
-2. l'article 65bis de la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue.
+- l'article 65bis de la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue.
 
 Toutefois, dans la mesure où ils ne sont pas contraires aux dispositions de la présente loi, les règlements grandducaux existants, pris en exécution de la loi modifiée du 6 août 1990 portant organisation des études éducatives et sociales, restent en vigueur jusqu'à l'entrée en vigueur des règlements grand-ducaux qui seront pris en exécution de la présente loi.
 

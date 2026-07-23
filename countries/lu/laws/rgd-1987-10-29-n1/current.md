@@ -56,13 +56,13 @@ Les exploitants qui ont acquis à titre gratuit ou par une transmission assimil�
 
 Les contribuables qui désirent bénéficier de la bonification prévue au paragraphe 7 de l'article 152bis de la loi doivent joindre à leur déclaration d'impôt un relevé indiquant pour chaque bien faisant partie des investissements susceptibles de bénéficier de la bonification:
 
-1. sa dénomination et sa fonction dans l'entreprise;
+- sa dénomination et sa fonction dans l'entreprise;
 
-2. son prix d'acquisition ou de revient diminué des subventions éventuellement accordées par l'Etat ou une autre collectivité publique pour l'acquisition ou la constitution du bien;
+- son prix d'acquisition ou de revient diminué des subventions éventuellement accordées par l'Etat ou une autre collectivité publique pour l'acquisition ou la constitution du bien;
 
-3. sa durée normale d'utilisation ;
+- sa durée normale d'utilisation ;
 
-4. s’il s’agit d’un logiciel, outre les indications mentionnées ci-dessus, son nom, sa version et son fabricant ou producteur.
+- s’il s’agit d’un logiciel, outre les indications mentionnées ci-dessus, son nom, sa version et son fabricant ou producteur.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -71,11 +71,11 @@ Les contribuables qui désirent bénéficier de la bonification prévue au parag
 
 Les contribuables qui désirent bénéficier de la bonification prévue au paragraphe 7 de l'article 152bis de la loi du chef d'investissement visés à l'alinéa 1er, n° 2 de ce paragraphe doivent en outre remettre au bureau compétent pour leur imposition avant le commencement des travaux:
 
-1. un plan de construction du bâtiment hôtelier;
+- un plan de construction du bâtiment hôtelier;
 
-2. un état indiquant la surface et l'affectation des locaux et faisant ressortir spécialement les locaux tels que les salles à manger, les salles de séjour ou de réunion et les débits de boissons qui ne servent pas exclusivement aux clients hôteliers ainsi que les locaux affectés à des fins étrangères au service hôtelier;
+- un état indiquant la surface et l'affectation des locaux et faisant ressortir spécialement les locaux tels que les salles à manger, les salles de séjour ou de réunion et les débits de boissons qui ne servent pas exclusivement aux clients hôteliers ainsi que les locaux affectés à des fins étrangères au service hôtelier;
 
-3. un relevé indiquant par local les appareils sanitaires et de chauffage incorporés.
+- un relevé indiquant par local les appareils sanitaires et de chauffage incorporés.
 
 (2)
 

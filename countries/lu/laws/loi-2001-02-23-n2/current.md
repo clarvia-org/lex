@@ -57,27 +57,27 @@ Les syndicats de communes sont des établissements publics investis de la person
 
 Les statuts du syndicat font partie intégrante de l'arrêté d'institution et doivent mentionner au moins:
 
-1. la dénomination du syndicat;
+- la dénomination du syndicat;
 
-2. la définition précise de son objet ou de ses objets;
+- la définition précise de son objet ou de ses objets;
 
-3. son siège social, qui est établi dans une des communes membres;
+- son siège social, qui est établi dans une des communes membres;
 
-4. sa durée;
+- sa durée;
 
-5. la désignation des communes membres;
+- la désignation des communes membres;
 
-6. la composition des organes du syndicat;
+- la composition des organes du syndicat;
 
-7. le nombre des délégués des communes membres au sein des organes du syndicat, ainsi que la pondération éventuelle des votes de chaque commune membre;
+- le nombre des délégués des communes membres au sein des organes du syndicat, ainsi que la pondération éventuelle des votes de chaque commune membre;
 
-8. la détermination des apports et des engagements;
+- la détermination des apports et des engagements;
 
-9. les conditions de retrait du syndicat par une commune membre;
+- les conditions de retrait du syndicat par une commune membre;
 
-10. l'affectation des excédents d'exploitation éventuels réalisés par le syndicat;
+- l'affectation des excédents d'exploitation éventuels réalisés par le syndicat;
 
-11. l'affectation de l'actif et du passif en cas de dissolution du syndicat.
+- l'affectation de l'actif et du passif en cas de dissolution du syndicat.
 
 Toute modification des statuts doit être approuvée par toutes les communes membres et suivre la même procédure que celle prévue à l'article 1er pour la création du syndicat de communes.
 
@@ -253,17 +253,17 @@ Le budget du syndicat pourvoit aux dépenses de création et de fonctionnement d
 
 Les recettes de ce budget comprennent:
 
-1. la contribution des communes membres constituée par les apports et engagements fixés dans les délibérations initiales des conseils communaux telles qu'elles ont été le cas échéant modifiées par la suite. Cette contribution est obligatoire pour lesdites communes pendant la durée de l'association et dans la limite des nécessités du service commun, telle que les délibérations des conseils communaux l'ont déterminée;
+- la contribution des communes membres constituée par les apports et engagements fixés dans les délibérations initiales des conseils communaux telles qu'elles ont été le cas échéant modifiées par la suite. Cette contribution est obligatoire pour lesdites communes pendant la durée de l'association et dans la limite des nécessités du service commun, telle que les délibérations des conseils communaux l'ont déterminée;
 
-2. le revenu des biens meubles et immeubles du syndicat;
+- le revenu des biens meubles et immeubles du syndicat;
 
-3. les sommes qu'il reçoit en échange d'un service rendu ainsi que toute autre recette en rapport avec les activités du syndicat;
+- les sommes qu'il reçoit en échange d'un service rendu ainsi que toute autre recette en rapport avec les activités du syndicat;
 
-4. les subventions de l'Etat et des communes;
+- les subventions de l'Etat et des communes;
 
-5. les produits des dons ou legs;
+- les produits des dons ou legs;
 
-6. les produits des emprunts en ce qui concerne les syndicats de communes visés à l'article 23.
+- les produits des emprunts en ce qui concerne les syndicats de communes visés à l'article 23.
 
 <a id="art-21"></a>
 ## Art. 21.

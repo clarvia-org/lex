@@ -41,13 +41,13 @@ L’École a pour mission l’éducation et l’enseignement communs d’élève
 
 L’offre scolaire comporte:
 
-1. le cycle de deux années de l’enseignement « early education » européen ;
+- le cycle de deux années de l’enseignement « early education » européen ;
 
-2. le cycle de cinq années de l’enseignement primaire européen;
+- le cycle de cinq années de l’enseignement primaire européen;
 
-3. le cycle de sept années de l’enseignement secondaire européen;
+- le cycle de sept années de l’enseignement secondaire européen;
 
-4. les classes du régime préparatoire de l’enseignement secondaire général, les classes d’accueil et les classes de la formation professionnelle.
+- les classes du régime préparatoire de l’enseignement secondaire général, les classes d’accueil et les classes de la formation professionnelle.
 
 Il est offert au moins deux sections linguistiques choisies parmi la section anglophone, la section francophone et la section germanophone. Un règlement grand-ducal peut élargir l’offre des sections linguistiques à d’autres sections prévues par l’annexe II de la Convention portant statut des Écoles Européennes, signée à Luxembourg, le 21 juin 1994 et approuvée par la loi du 23 décembre 1998.
 
@@ -73,13 +73,13 @@ L’organisation des études, les contenus et les modalités des classes de l’
 
 Les nouvelles admissions à l’École sont réglées comme suit:
 
-1. Les élèves sont admis à la première année de l’enseignement primaire européen à la fin du cycle 1.2 de l’enseignement fondamental luxembourgeois.
+- Les élèves sont admis à la première année de l’enseignement primaire européen à la fin du cycle 1.2 de l’enseignement fondamental luxembourgeois.
 
-2. Les élèves qui ont suivi l’enseignement fondamental luxembourgeois sont admis à la première année de l’enseignement secondaire européen en fonction de la décision d’orientation leur délivrée à la fin du cycle 4.2 de l’enseignement fondamental luxembourgeois et les admettant à une classe de 7e de l’enseignement secondaire luxembourgeois.
+- Les élèves qui ont suivi l’enseignement fondamental luxembourgeois sont admis à la première année de l’enseignement secondaire européen en fonction de la décision d’orientation leur délivrée à la fin du cycle 4.2 de l’enseignement fondamental luxembourgeois et les admettant à une classe de 7e de l’enseignement secondaire luxembourgeois.
 
-3. L’admission à une classe du régime préparatoire ou à une classe d’accueil suit les mêmes règles que celles relatives à l’inscription à une telle classe dans un autre lycée luxembourgeois.
+- L’admission à une classe du régime préparatoire ou à une classe d’accueil suit les mêmes règles que celles relatives à l’inscription à une telle classe dans un autre lycée luxembourgeois.
 
-4. Les élèves sont admis à la première année de l’enseignement « early education » européen s’ils ont l’âge de quatre ans révolus au 1er septembre.
+- Les élèves sont admis à la première année de l’enseignement « early education » européen s’ils ont l’âge de quatre ans révolus au 1er septembre.
 
 À l’exception des classes du régime préparatoire et des classes d’accueil, l’École n’est pas soumise à la disposition de l’inscription prioritaire telle que définie à l’article 37 de la loi modifiée du 25 juin 2004 portant organisation des lycées.
 
@@ -100,11 +100,11 @@ L’enseignement peut être assuré par des enseignants d’autres établissemen
 
 Le cadre prévu au paragraphe 1er peut être complété par des employés enseignants suivant les besoins du service et dans les limites des crédits budgétaires, sous les conditions suivantes:
 
-1. avoir eu accès à la fonction enseignante ou d’encadrement socio-éducatif ou psycho-social dans un pays membre de l’Union européenne ou de l’Association européenne de libre-échange ;
+- avoir eu accès à la fonction enseignante ou d’encadrement socio-éducatif ou psycho-social dans un pays membre de l’Union européenne ou de l’Association européenne de libre-échange ;
 
-2. se prévaloir d’une expérience professionnelle d’au moins cinq ans dans la fonction enseignante;
+- se prévaloir d’une expérience professionnelle d’au moins cinq ans dans la fonction enseignante;
 
-3. prouver par des certificats qu’ils ont atteint le niveau B2 du cadre européen commun de référence des langues dans au moins une des langues administratives définies par la loi du 24 février 1984 sur le régime des langues.
+- prouver par des certificats qu’ils ont atteint le niveau B2 du cadre européen commun de référence des langues dans au moins une des langues administratives définies par la loi du 24 février 1984 sur le régime des langues.
 
 Pour bénéficier d’un classement dans la catégorie A, groupe d’indemnité A1, sous-groupe de l’enseignement tel que prévu à l’article 43, paragraphe 4 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, l’employé doit remplir les conditions de diplôme pour l’admission au concours de recrutement pour une fonction enseignante du groupe de traitement correspondant du régime de traitement des fonctionnaires de l’État ou pour l’admission au stage de cette fonction.
 

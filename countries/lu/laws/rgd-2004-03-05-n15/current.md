@@ -47,25 +47,25 @@ Dans le présent texte on entend par:
 
 Le médecin est chargé en ce qui concerne les agents des institutions assujetties à la loi:
 
-1. d’identifier et d’évaluer les risques d’atteinte à la santé sur les lieux de travail, d’aider à éviter ces risques et à les combattre à la source;
+- d’identifier et d’évaluer les risques d’atteinte à la santé sur les lieux de travail, d’aider à éviter ces risques et à les combattre à la source;
 
-2. de surveiller les facteurs du milieu de travail susceptibles d’affecter la santé de l’agent;
+- de surveiller les facteurs du milieu de travail susceptibles d’affecter la santé de l’agent;
 
-3. de donner des conseils sur la planification des postes de travail, notamment quant à l’aménagement des lieux de travail et le choix des équipements de travail, ainsi que quant à l’utilisation de substances ou de préparations chimiques pouvant constituer un risque pour la santé des agents;
+- de donner des conseils sur la planification des postes de travail, notamment quant à l’aménagement des lieux de travail et le choix des équipements de travail, ainsi que quant à l’utilisation de substances ou de préparations chimiques pouvant constituer un risque pour la santé des agents;
 
-4. de promouvoir l’adaptation du travail à l’homme, en particulier en ce qui concerne la conception des postes de travail;
+- de promouvoir l’adaptation du travail à l’homme, en particulier en ce qui concerne la conception des postes de travail;
 
-5. de surveiller la santé des agents en relation avec l’exercice de leurs fonctions et d’effectuer à cet effet les examens médicaux prévus par le présent règlement grand-ducal; il en est de même des examens attribués au médecin du travail par toute autre disposition légale ou réglementaire dès lors qu’un agent est concerné;
+- de surveiller la santé des agents en relation avec l’exercice de leurs fonctions et d’effectuer à cet effet les examens médicaux prévus par le présent règlement grand-ducal; il en est de même des examens attribués au médecin du travail par toute autre disposition légale ou réglementaire dès lors qu’un agent est concerné;
 
-6. de donner des conseils dans les domaines de l’hygiène, de l’ergonomie, de l’éducation à la santé et de la réadaptation professionnelle;
+- de donner des conseils dans les domaines de l’hygiène, de l’ergonomie, de l’éducation à la santé et de la réadaptation professionnelle;
 
-7. de coopérer avec le responsable, le délégué et avec la représentation du personnel;
+- de coopérer avec le responsable, le délégué et avec la représentation du personnel;
 
-8. d’organiser les premiers secours;
+- d’organiser les premiers secours;
 
-9. d’effectuer les examens médicaux des candidats à un emploi dans la fonction publique;
+- d’effectuer les examens médicaux des candidats à un emploi dans la fonction publique;
 
-10. d’organiser et de mettre en vigueur un programme de prévention et d’aide contre l’abus de substances susceptibles de créer une dépendance sur le lieu de travail.
+- d’organiser et de mettre en vigueur un programme de prévention et d’aide contre l’abus de substances susceptibles de créer une dépendance sur le lieu de travail.
 
 En cas d’urgence dûment constatée par le ministre ayant la fonction publique dans ses attributions, l’examen médical des candidats à un emploi dans la fonction publique visé au point 9 ci-dessus peut être effectué, dans les conditions et suivant les modalités prévues au présent règlement, par un médecin-généraliste du secteur privé, à choisir par le candidat sur une liste fournie par le ministre. Les droits et obligations incombant aux médecins figurant sur cette liste sont consignés dans une convention établie entre le ministre et les médecins concernés.
 
@@ -121,11 +121,11 @@ En cas de congés sans traitement dépassant la durée d’un an, l’agent est 
 
 Sans préjudice des autres obligations légales ou réglementaires régissant les examens périodiques prescrits sur la base des statuts par respectivement les ministres et les collèges des Bourgmestre et échevins compétents, chaque agent d’une institution assujettie à la loi a droit à un examen de sa santé en relation avec son travail effectué par le médecin, et notamment dans les cas suivants:
 
-1. sur la demande écrite de l’agent transmise par voie hiérarchique au médecin;
+- sur la demande écrite de l’agent transmise par voie hiérarchique au médecin;
 
-2. sur demande du médecin,
+- sur demande du médecin,
 
-3. sur demande motivée du responsable compétent.
+- sur demande motivée du responsable compétent.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -185,13 +185,13 @@ Si le deuxième avis conclut également à l’inaptitude totale et définitive 
 
 Le médecin est chargé en ce qui concerne les agents des institutions assujetties à la loi:
 
-1. d’effectuer les contrôles des incapacités de travail pendant les périodes de congés de maladie, sur demande du chef de l’administration ou de son délégué à laquelle est affecté l’agent en congé de maladie. Dans l’exécution de cette mission, il ne peut s’immiscer dans les rapports de l’agent avec le médecin traitant. Le médecin doit s’abstenir de formuler devant l’agent un diagnostic ou une appréciation sur le traitement. Les médecins traitants sont tenus de fournir sous pli fermé au médecin toutes indications concernant le diagnostic et le traitement; toutes les fois qu’il le juge utile, le médecin doit entrer en rapport avec le médecin traitant, toutes les précautions étant prises pour que le secret professionnel soit respecté; le médecin peut prendre l’avis d’hommes de l’art toutes les fois qu’il le juge nécessaire;
+- d’effectuer les contrôles des incapacités de travail pendant les périodes de congés de maladie, sur demande du chef de l’administration ou de son délégué à laquelle est affecté l’agent en congé de maladie. Dans l’exécution de cette mission, il ne peut s’immiscer dans les rapports de l’agent avec le médecin traitant. Le médecin doit s’abstenir de formuler devant l’agent un diagnostic ou une appréciation sur le traitement. Les médecins traitants sont tenus de fournir sous pli fermé au médecin toutes indications concernant le diagnostic et le traitement; toutes les fois qu’il le juge utile, le médecin doit entrer en rapport avec le médecin traitant, toutes les précautions étant prises pour que le secret professionnel soit respecté; le médecin peut prendre l’avis d’hommes de l’art toutes les fois qu’il le juge nécessaire;
 
-2. d’effectuer sur demande du ministre du ressort les examens médicaux prévus à l’article 2.IV. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat et à l’article 67.IV. de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société Nationale des Chemins de Fer luxembourgeois;
+- d’effectuer sur demande du ministre du ressort les examens médicaux prévus à l’article 2.IV. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat et à l’article 67.IV. de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société Nationale des Chemins de Fer luxembourgeois;
 
-3. d’effectuer les examens médicaux, sur demande de la Commission des pensions prévue au titre VI de la loi modifiée du 26 mai 1954 précitée, ainsi qu’aux articles 68-74 de la loi modifiée du 3 août 1998 précitée;
+- d’effectuer les examens médicaux, sur demande de la Commission des pensions prévue au titre VI de la loi modifiée du 26 mai 1954 précitée, ainsi qu’aux articles 68-74 de la loi modifiée du 3 août 1998 précitée;
 
-4. de procéder à un examen médical complémentaire des candidats à un emploi du secteur public, déclarés inaptes par le médecin ayant procédé à l’examen médical requis au recrutement. Le médecin en est saisi par la partie intéressée dans les huit jours qui suivent la réception du certificat médical par le ministre ayant la Fonction publique dans ses attributions. Il dispose à son tour d’un délai de huit jours pour procéder à l’examen en question et avertir le ministre du ressort respectivement le Collège des Bourgmestre et échevins du résultat. L’avis du médecin de contrôle décide de l’aptitude ou de l’inaptitude définitive du candidat.
+- de procéder à un examen médical complémentaire des candidats à un emploi du secteur public, déclarés inaptes par le médecin ayant procédé à l’examen médical requis au recrutement. Le médecin en est saisi par la partie intéressée dans les huit jours qui suivent la réception du certificat médical par le ministre ayant la Fonction publique dans ses attributions. Il dispose à son tour d’un délai de huit jours pour procéder à l’examen en question et avertir le ministre du ressort respectivement le Collège des Bourgmestre et échevins du résultat. L’avis du médecin de contrôle décide de l’aptitude ou de l’inaptitude définitive du candidat.
 
 #### Chapitre III. Mesures de protection contre les émanations résultant de la consommation de tabac d’autrui
 

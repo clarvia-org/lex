@@ -43,25 +43,25 @@ La reconnaissance d’équivalence est prononcée de cas en cas par un arrêté 
 
 A la demande d’équivalence doivent être joints les documents suivants:
 
-1. l’acte de naissance ou un autre document d’identité du postulant;
+- l’acte de naissance ou un autre document d’identité du postulant;
 
-2. le diplôme pour lequel la reconnaissance d’équivalence est demandée;
+- le diplôme pour lequel la reconnaissance d’équivalence est demandée;
 
-3. le curriculum scolaire du postulant, exposant avec précision les études accomplies par lui jusqu’à l’obtention du diplôme en cause;
+- le curriculum scolaire du postulant, exposant avec précision les études accomplies par lui jusqu’à l’obtention du diplôme en cause;
 
-4.
+-
 
-- soit un diplôme délivré par un institut d’enseignement supérieur reconnu et situé dans un Etat membre de l’Union Européenne sanctionnant un cycle d’études supérieures d’une durée d’au moins 3 années;
+  - soit un diplôme délivré par un institut d’enseignement supérieur reconnu et situé dans un Etat membre de l’Union Européenne sanctionnant un cycle d’études supérieures d’une durée d’au moins 3 années;
 
-- soit un certificat d’inscription à des études supérieures émanant des autorités nationales ou académiques d’un Etat membre de l’Union Européenne complété par le tableau des matières d’examen et le tableau des matières d’enseignement obligatoires et facultatives figurant au programme de l’année d’études précédant l’examen à l’issue duquel le diplôme à reconnaître équivalent a été délivré.
+  - soit un certificat d’inscription à des études supérieures émanant des autorités nationales ou académiques d’un Etat membre de l’Union Européenne complété par le tableau des matières d’examen et le tableau des matières d’enseignement obligatoires et facultatives figurant au programme de l’année d’études précédant l’examen à l’issue duquel le diplôme à reconnaître équivalent a été délivré.
 
-- soit un diplôme délivré par un institut d’enseignement supérieur reconnu par un État tiers, sanctionnant un cycle d’études supérieures d’une durée d’au moins 3 années et accompagné soit
+  - soit un diplôme délivré par un institut d’enseignement supérieur reconnu par un État tiers, sanctionnant un cycle d’études supérieures d’une durée d’au moins 3 années et accompagné soit
 
-1. d’un certificat de langues d’un niveau B2 dans le cadre européen commun de référence pour les langues, pour la langue luxembourgeoise, française ou allemande, soit
+    - d’un certificat de langues d’un niveau B2 dans le cadre européen commun de référence pour les langues, pour la langue luxembourgeoise, française ou allemande, soit
 
-2. d’une preuve qu’il a accompli au cours de sa scolarité 3 années d’études d’une des trois langues précitées, soit
+    - d’une preuve qu’il a accompli au cours de sa scolarité 3 années d’études d’une des trois langues précitées, soit
 
-3. d’une pièce attestant que l’une des trois langues précitées a été passée à l’examen de fin d’études.
+    - d’une pièce attestant que l’une des trois langues précitées a été passée à l’examen de fin d’études.
 
 La demande et le curriculum scolaire doivent être rédigés en français, en allemand ou en anglais. Au cas où les pièces énumérées ci-dessus sous 1, 2 et 4 ne seraient pas établies en français, allemand ou anglais, il devra être joint de chacune d’elles une traduction dans une de ces langues, certifiée fidèle par un traducteur agréé auprès des tribunaux luxembourgeois.
 
@@ -74,25 +74,25 @@ Toutefois, le Ministre ayant l’Éducation nationale dans ses attributions ou l
 
 L’équivalence au diplôme luxembourgeois de fin d’études secondaires ou de fin d’études secondaires techniques ou de technicien ne sera reconnue aux diplômes visés à l’article 1er que dans les deux cas suivants:
 
-1. si le postulant est détenteur d’un diplôme délivré par un institut d’enseignement supérieur reconnu et situé dans un Etat membre de l’Union Européenne sanctionnant un cycle d’études supérieures d’une durée d’au moins 3 années,
+- si le postulant est détenteur d’un diplôme délivré par un institut d’enseignement supérieur reconnu et situé dans un Etat membre de l’Union Européenne sanctionnant un cycle d’études supérieures d’une durée d’au moins 3 années,
 
-2. si le postulant peut se prévaloir d’une inscription à des études supérieures dans un Etat membre de l’Union Européenne et si le diplôme répond aux critères suivants:
+- si le postulant peut se prévaloir d’une inscription à des études supérieures dans un Etat membre de l’Union Européenne et si le diplôme répond aux critères suivants:
 
-- les épreuves d’examen du diplôme doivent porter sur 2 langues dont le français ou l’allemand, ainsi que sur des branches appartenant à 3 au moins des domaines suivants:
+  - les épreuves d’examen du diplôme doivent porter sur 2 langues dont le français ou l’allemand, ainsi que sur des branches appartenant à 3 au moins des domaines suivants:
 
-- sciences humaines et sociales
+    - sciences humaines et sociales
 
-- sciences naturelles
+    - sciences naturelles
 
-- mathématiques
+    - mathématiques
 
-- technologie
+    - technologie
 
-- beaux-arts et musique;
+    - beaux-arts et musique;
 
-- le diplôme doit se situer au terme d’une scolarité s’étendant sur au moins 12 années d’études primaires et secondaires progressives.
+  - le diplôme doit se situer au terme d’une scolarité s’étendant sur au moins 12 années d’études primaires et secondaires progressives.
 
-3. si le postulant est détenteur d’un diplôme délivré par un institut d’enseignement supérieur reconnu par un État tiers, sanctionnant un cycle d’études supérieures d’une durée d’au moins 3 années et s’il peut se prévaloir d’un certificat de langues d’un niveau B2 dans le cadre européen commun de référence pour les langues, pour la langue luxembourgeoise ou française ou allemande ou bien d’une preuve qu’il a accompli au cours de sa scolarité 3 années d’études d’une des trois langues précitées ou bien d’une pièce attestant que l’une des trois langues précitées a été passée à l’examen de fin d’études.
+- si le postulant est détenteur d’un diplôme délivré par un institut d’enseignement supérieur reconnu par un État tiers, sanctionnant un cycle d’études supérieures d’une durée d’au moins 3 années et s’il peut se prévaloir d’un certificat de langues d’un niveau B2 dans le cadre européen commun de référence pour les langues, pour la langue luxembourgeoise ou française ou allemande ou bien d’une preuve qu’il a accompli au cours de sa scolarité 3 années d’études d’une des trois langues précitées ou bien d’une pièce attestant que l’une des trois langues précitées a été passée à l’examen de fin d’études.
 
 <a id="art-5"></a>
 ## Art. 5.

@@ -224,19 +224,19 @@ Le Directeur des Régies et Infrastructures est responsable de la coordination e
 
 Il est créé un Comité de coordination chargé des missions suivantes :
 
-1. le suivi du bon fonctionnement de la Maison du Grand-Duc dans l’esprit du présent arrêté ;
+- le suivi du bon fonctionnement de la Maison du Grand-Duc dans l’esprit du présent arrêté ;
 
-2. la coordination des relations entre le Grand-Duc et le Gouvernement ;
+- la coordination des relations entre le Grand-Duc et le Gouvernement ;
 
-3. l’approbation de l’avant-projet de budget de la Maison du Grand-Duc ;
+- l’approbation de l’avant-projet de budget de la Maison du Grand-Duc ;
 
-4. l’approbation de l’organigramme fonctionnel et personnel de la Maison du Grand-Duc, y inclus les éventuels amendements, tels que proposés par le Maréchal ;
+- l’approbation de l’organigramme fonctionnel et personnel de la Maison du Grand-Duc, y inclus les éventuels amendements, tels que proposés par le Maréchal ;
 
-5. l’exercice, à l’égard du personnel de la Maison du Grand-Duc, des pouvoirs conférés au Ministre du ressort par la législation applicable aux agents de l’État ;
+- l’exercice, à l’égard du personnel de la Maison du Grand-Duc, des pouvoirs conférés au Ministre du ressort par la législation applicable aux agents de l’État ;
 
-6. l’approbation de la publication des communications d’ordre institutionnel de la Maison du Grand-Duc ;
+- l’approbation de la publication des communications d’ordre institutionnel de la Maison du Grand-Duc ;
 
-7. l’établissement d’un inventaire des biens, propriété des Membres de la Famille grand-ducale, qui contribuent à l’exercice de la fonction du Chef de l’État et pour lesquels l’État prend en charge les frais d’entretien, de réparation et de rénovation.
+- l’établissement d’un inventaire des biens, propriété des Membres de la Famille grand-ducale, qui contribuent à l’exercice de la fonction du Chef de l’État et pour lesquels l’État prend en charge les frais d’entretien, de réparation et de rénovation.
 
 <a id="art-15"></a>
 ## Art. 15.

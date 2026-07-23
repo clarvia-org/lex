@@ -39,65 +39,65 @@ Le responsable doit être établi dans la Communauté. La désignation d’un re
 
 A cette demande doivent être jointes les renseignements et les documents suivants, présentés conformément à l’annexe I de la directive 2001/83/CE du Parlement Européen et du Conseil du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain, telle qu’elle a été ou sera modifiée:
 
-1. Nom ou raison sociale et domicile ou siège social du responsable de la mise sur le marché et, le cas échéant, du fabricant.
+- Nom ou raison sociale et domicile ou siège social du responsable de la mise sur le marché et, le cas échéant, du fabricant.
 
-2. Nom du médicament (nom de fantaisie, ou dénomination commune assortie d’une marque ou du nom du fabricant, ou dénomination scientifique assortie d’une marque ou du nom du fabricant).
+- Nom du médicament (nom de fantaisie, ou dénomination commune assortie d’une marque ou du nom du fabricant, ou dénomination scientifique assortie d’une marque ou du nom du fabricant).
 
-3. Composition qualitative et quantitative de tous les composants du médicament comprenant la mention de sa dénomination commune internationale (DCI) recommandée par l’Organisation mondiale de la santé, dans le cas où une telle dénomination existe, ou la mention de la dénomination chimique.
+- Composition qualitative et quantitative de tous les composants du médicament comprenant la mention de sa dénomination commune internationale (DCI) recommandée par l’Organisation mondiale de la santé, dans le cas où une telle dénomination existe, ou la mention de la dénomination chimique.
 
-4. Evaluation des risques que le médicament pourrait présenter pour l’environnement. Cet impact est étudié et, au cas par cas, des dispositions particulières visant à le limiter sont envisagées.
+- Evaluation des risques que le médicament pourrait présenter pour l’environnement. Cet impact est étudié et, au cas par cas, des dispositions particulières visant à le limiter sont envisagées.
 
-5. Description sommaire du mode de préparation.
+- Description sommaire du mode de préparation.
 
-6. Indications thérapeutiques, contre-indications et effets secondaires.
+- Indications thérapeutiques, contre-indications et effets secondaires.
 
-7. Posologie, forme pharmaceutique, méthode et voie d’administration et durée présumée de stabilité.
+- Posologie, forme pharmaceutique, méthode et voie d’administration et durée présumée de stabilité.
 
-8. Explications sur les mesures de précaution et de sécurité à prendre lors du stockage du médicament, de son administration au patient et de l’élimination des déchets, ainsi qu’indication des risques potentiels que le médicament pourrait présenter pour l’environnement.
+- Explications sur les mesures de précaution et de sécurité à prendre lors du stockage du médicament, de son administration au patient et de l’élimination des déchets, ainsi qu’indication des risques potentiels que le médicament pourrait présenter pour l’environnement.
 
-9. Description des méthodes de contrôle utilisées par le fabricant.
+- Description des méthodes de contrôle utilisées par le fabricant.
 
-10. Une confirmation écrite attestant que le fabricant du médicament a vérifié que le fabricant de la substance active a respecté les principes et lignes directrices de bonnes pratiques de fabrication en effectuant des audits, conformément à l’article 11, paragraphe 1 er , alinéa 2 du règlement grand-ducal modifié du 19 novembre 2004 concernant la fabrication de médicaments, les bonnes pratiques de fabrication de médicaments et les bonnes pratiques de fabrication de médicaments expérimentaux à usage humain. Cette confirmation écrite mentionne la date de l’audit et inclut une déclaration attestant que les résultats obtenus permettent d’affirmer que la fabrication est conforme aux principes et lignes directrices de bonnes pratiques de fabrication.
+- Une confirmation écrite attestant que le fabricant du médicament a vérifié que le fabricant de la substance active a respecté les principes et lignes directrices de bonnes pratiques de fabrication en effectuant des audits, conformément à l’article 11, paragraphe 1 er , alinéa 2 du règlement grand-ducal modifié du 19 novembre 2004 concernant la fabrication de médicaments, les bonnes pratiques de fabrication de médicaments et les bonnes pratiques de fabrication de médicaments expérimentaux à usage humain. Cette confirmation écrite mentionne la date de l’audit et inclut une déclaration attestant que les résultats obtenus permettent d’affirmer que la fabrication est conforme aux principes et lignes directrices de bonnes pratiques de fabrication.
 
-11. Résultat des essais: Les documents et renseignements relatifs aux études des essais pharmaceutiques, précliniques et cliniques doivent être accompagnés de résumés détaillés. Le demandeur veille à ce que les résumés détaillés soient établis et signés par des personnes possédant les qualifications techniques ou professionnelles nécessaires, mentionnées dans un bref curriculum vitae.
+- Résultat des essais: Les documents et renseignements relatifs aux études des essais pharmaceutiques, précliniques et cliniques doivent être accompagnés de résumés détaillés. Le demandeur veille à ce que les résumés détaillés soient établis et signés par des personnes possédant les qualifications techniques ou professionnelles nécessaires, mentionnées dans un bref curriculum vitae.
 
-- pharmaceutiques (physico-chimiques, biologiques ou micro-biologiques),
+  - pharmaceutiques (physico-chimiques, biologiques ou micro-biologiques),
 
-- précliniques (toxicologiques et pharmacologiques),
+  - précliniques (toxicologiques et pharmacologiques),
 
-- cliniques.
+  - cliniques.
 
-12. un résumé décrivant le système de pharmacovigilance du demandeur et comprenant les éléments suivants:
+- un résumé décrivant le système de pharmacovigilance du demandeur et comprenant les éléments suivants:
 
-- une preuve établissant que le demandeur dispose d’une personne qualifiée responsable en matière de pharmacovigilance,
+  - une preuve établissant que le demandeur dispose d’une personne qualifiée responsable en matière de pharmacovigilance,
 
-- l’indication des États membres où la personne qualifiée réside et exerce ses activités,
+  - l’indication des États membres où la personne qualifiée réside et exerce ses activités,
 
-- les coordonnées de la personne qualifiée,
+  - les coordonnées de la personne qualifiée,
 
-- une déclaration signée par le demandeur par laquelle il atteste qu’il dispose des moyens nécessaires pour s’acquitter des tâches et des responsabilités énoncées au chapitre 5-1,
+  - une déclaration signée par le demandeur par laquelle il atteste qu’il dispose des moyens nécessaires pour s’acquitter des tâches et des responsabilités énoncées au chapitre 5-1,
 
-- l’adresse du lieu où le dossier permanent du système de pharmacovigilance correspondant au médicament concerné est conservé;
+  - l’adresse du lieu où le dossier permanent du système de pharmacovigilance correspondant au médicament concerné est conservé;
 
-13. Le plan de gestion des risques décrivant le système de gestion des risques que le demandeur mettra en place pour le médicament concerné, accompagné de son résumé;
+- Le plan de gestion des risques décrivant le système de gestion des risques que le demandeur mettra en place pour le médicament concerné, accompagné de son résumé;
 
-14. Une déclaration attestant que les essais cliniques effectués en dehors de l’Union européenne répondent aux exigences de la directive 2001/20/CE .
+- Une déclaration attestant que les essais cliniques effectués en dehors de l’Union européenne répondent aux exigences de la directive 2001/20/CE .
 
-15. Un résumé des caractéristiques du produit, conforme à l’article 2 ci-après, une maquette de l’emballage extérieur comportant les mentions prévues à l’article 10 et du conditionnement primaire du médicament comportant les mentions prévues à l’article 11 ainsi que la notice conformément à l’article 14.
+- Un résumé des caractéristiques du produit, conforme à l’article 2 ci-après, une maquette de l’emballage extérieur comportant les mentions prévues à l’article 10 et du conditionnement primaire du médicament comportant les mentions prévues à l’article 11 ainsi que la notice conformément à l’article 14.
 
-16. Un document duquel il ressort que le fabricant est autorisé dans son pays à produire des médicaments.
+- Un document duquel il ressort que le fabricant est autorisé dans son pays à produire des médicaments.
 
-17. des copies des documents suivants:
+- des copies des documents suivants:
 
-- toute autorisation de mise sur le marché obtenue pour le médicament dans un autre État membre ou dans un pays tiers, un résumé des informations de sécurité comprenant les données qui figurent dans les rapports périodiques actualisés de sécurité, lorsqu’ils sont disponibles, et les notifications d’effets indésirables suspectés, avec la liste des États membres où la demande d’autorisation soumise en conformité avec la directive 2010/84/UE est à l’examen,
+  - toute autorisation de mise sur le marché obtenue pour le médicament dans un autre État membre ou dans un pays tiers, un résumé des informations de sécurité comprenant les données qui figurent dans les rapports périodiques actualisés de sécurité, lorsqu’ils sont disponibles, et les notifications d’effets indésirables suspectés, avec la liste des États membres où la demande d’autorisation soumise en conformité avec la directive 2010/84/UE est à l’examen,
 
-- le résumé des caractéristiques du produit proposé par le demandeur en vertu de l’article 2 qui suit ou approuvé par l’autorité compétente de l’Etat membre en vertu de l’article 3.
+  - le résumé des caractéristiques du produit proposé par le demandeur en vertu de l’article 2 qui suit ou approuvé par l’autorité compétente de l’Etat membre en vertu de l’article 3.
 
-- la notice proposée conformément à l’article 14 ou approuvée par l’autorité compétente de l’Etat membre conformément à l’article 61 de la directive 2001/83/CE .,
+  - la notice proposée conformément à l’article 14 ou approuvée par l’autorité compétente de l’Etat membre conformément à l’article 61 de la directive 2001/83/CE .,
 
-- les détails de toute décision de refus d’autorisation, que ce soit dans l’Union ou dans un pays tiers, et les motifs de cette décision;
+  - les détails de toute décision de refus d’autorisation, que ce soit dans l’Union ou dans un pays tiers, et les motifs de cette décision;
 
-18. Une copie de toute désignation du médicament en tant que médicament orphelin au sens du règlement communautaire (CE) no 141/2000 , accompagné d’une copie de l’avis correspondant de l’Agence européenne des médicaments instituée par le règlement communautaire 726/2004/CE , ci-après dénommée «Agence».
+- Une copie de toute désignation du médicament en tant que médicament orphelin au sens du règlement communautaire (CE) no 141/2000 , accompagné d’une copie de l’avis correspondant de l’Agence européenne des médicaments instituée par le règlement communautaire 726/2004/CE , ci-après dénommée «Agence».
 
 Après la délivrance de l’autorisation de mise sur le marché, le titulaire de cette autorisation peut consentir à ce qu’il soit fait recours à la documentation pharmaceutique, préclinique et clinique figurant au dossier du médicament en vue de l’examen d’une demande subséquente relative à d’autres médicaments ayant la même composition qualitative et quantitative en substances actives et la même forme pharmaceutique.
 
@@ -124,9 +124,9 @@ La période de dix ans visée au premier alinéa est portée à onze ans au maxi
 
 Aux fins du présent article, on entend par:
 
-1. «médicament de référence», un médicament disposant d’une autorisation de mise sur le marché, accordée sur base d’une demande complète présentée conformément à l’article 1 ci-avant;
+- «médicament de référence», un médicament disposant d’une autorisation de mise sur le marché, accordée sur base d’une demande complète présentée conformément à l’article 1 ci-avant;
 
-2. «médicament générique», un médicament qui a la même composition qualitative et quantitative en substances actives et la même forme pharmaceutique que le médicament de référence et dont la bioéquivalence avec le médicament de référence a été démontrée par des études appropriées de biodisponibilité. Les différents sels, esters, éthers, isomères, mélanges d’isomères, complexes ou dérivés d’une substance active sont considérés comme une même substance active, à moins qu’ils ne présentent des propriétés sensiblement différentes au regard de la sécurité et/ou de l’efficacité. Dans ce cas, des informations supplémentaires fournissant la preuve de la sécurité et/ou de l’efficacité des différents sels, esters ou dérivés d’une substance active autorisée doivent être données par le demandeur. Les différentes formes pharmaceutiques orales à libération immédiate sont considérées comme une même forme pharmaceutique. Le demandeur peut être dispensé des études de biodisponibilité s’il peut prouver que le médicament générique satisfait aux critères pertinents figurant dans les lignes directrices européennes détaillées applicables.
+- «médicament générique», un médicament qui a la même composition qualitative et quantitative en substances actives et la même forme pharmaceutique que le médicament de référence et dont la bioéquivalence avec le médicament de référence a été démontrée par des études appropriées de biodisponibilité. Les différents sels, esters, éthers, isomères, mélanges d’isomères, complexes ou dérivés d’une substance active sont considérés comme une même substance active, à moins qu’ils ne présentent des propriétés sensiblement différentes au regard de la sécurité et/ou de l’efficacité. Dans ce cas, des informations supplémentaires fournissant la preuve de la sécurité et/ou de l’efficacité des différents sels, esters ou dérivés d’une substance active autorisée doivent être données par le demandeur. Les différentes formes pharmaceutiques orales à libération immédiate sont considérées comme une même forme pharmaceutique. Le demandeur peut être dispensé des études de biodisponibilité s’il peut prouver que le médicament générique satisfait aux critères pertinents figurant dans les lignes directrices européennes détaillées applicables.
 
 3.
 
@@ -167,17 +167,17 @@ Lorsqu’un médicament contient des substances actives entrant dans la composit
 
 Autorisation d’office.
 
-1. En l’absence d’autorisation de mise sur le marché ou de demande en instance pour un médicament autorisé dans un autre Etat membre, le ministre peut, pour des raisons de santé publique justifiées, autoriser d’office la mise sur le marché de ce médicament.
+- En l’absence d’autorisation de mise sur le marché ou de demande en instance pour un médicament autorisé dans un autre Etat membre, le ministre peut, pour des raisons de santé publique justifiées, autoriser d’office la mise sur le marché de ce médicament.
 
-2. Lorsqu’il recourt à cette possibilité, il adopte les mesures nécessaires pour garantir que les exigences du présent règlement soient remplies.
+- Lorsqu’il recourt à cette possibilité, il adopte les mesures nécessaires pour garantir que les exigences du présent règlement soient remplies.
 
-3. Avant d’accorder une telle autorisation d’office, le ministre:
+- Avant d’accorder une telle autorisation d’office, le ministre:
 
-1. notifie au titulaire de l’autorisation de mise sur le marché, dans l’État membre dans lequel le médicament concerné est autorisé, la proposition d’accorder une autorisation de mise sur le marché en application du présent article pour le médicament en question;
+  - notifie au titulaire de l’autorisation de mise sur le marché, dans l’État membre dans lequel le médicament concerné est autorisé, la proposition d’accorder une autorisation de mise sur le marché en application du présent article pour le médicament en question;
 
-2. peut demander à l’autorité compétente de l’État membre concerné de fournir des copies du rapport d’évaluation et de l’autorisation de mise sur le marché valable pour le médicament concerné. Si la demande lui en est faite, l’autorité compétente de cet État membre fournit, dans les trente jours à compter de la réception de la demande, une copie du rapport d’évaluation et de l’autorisation de mise sur le marché pour le médicament concerné.
+  - peut demander à l’autorité compétente de l’État membre concerné de fournir des copies du rapport d’évaluation et de l’autorisation de mise sur le marché valable pour le médicament concerné. Si la demande lui en est faite, l’autorité compétente de cet État membre fournit, dans les trente jours à compter de la réception de la demande, une copie du rapport d’évaluation et de l’autorisation de mise sur le marché pour le médicament concerné.
 
-4. Le ministre notifie à la Commission toute autorisation de mise sur le marché d’un médicament, ou toute suspension de cette autorisation, au titre du paragraphe 1, y compris le nom ou la raison sociale et l’adresse permanente du titulaire de l’autorisation, aux fins de son inclusion dans un registre public des médicaments ainsi autorisés, qui peut être consulté sur le site web de la Commission.
+- Le ministre notifie à la Commission toute autorisation de mise sur le marché d’un médicament, ou toute suspension de cette autorisation, au titre du paragraphe 1, y compris le nom ou la raison sociale et l’adresse permanente du titulaire de l’autorisation, aux fins de son inclusion dans un registre public des médicaments ainsi autorisés, qui peut être consulté sur le site web de la Commission.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -186,65 +186,65 @@ Résumé des caractéristiques.
 
 Le résumé des caractéristiques du produit, visé à l’article 1er point 9, comporte les renseignements suivants:
 
-1. nom du médicament suivi du dosage et de la forme pharmaceutique;
+- nom du médicament suivi du dosage et de la forme pharmaceutique;
 
-2. composition qualitative et quantitative en substances actives et en composants de l’excipient, dont la connaissance est nécessaire à une bonne administration du médicament. Sont employées les dénominations communes ou les dénominations chimiques;
+- composition qualitative et quantitative en substances actives et en composants de l’excipient, dont la connaissance est nécessaire à une bonne administration du médicament. Sont employées les dénominations communes ou les dénominations chimiques;
 
-3. forme pharmaceutique;
+- forme pharmaceutique;
 
-4. informations cliniques:
+- informations cliniques:
 
-1. indications thérapeutiques;
+  - indications thérapeutiques;
 
-2. posologie et mode d’administration pour les adultes et, dans la mesure où cela est nécessaire, pour les enfants;
+  - posologie et mode d’administration pour les adultes et, dans la mesure où cela est nécessaire, pour les enfants;
 
-3. contre-indications;
+  - contre-indications;
 
-4. mises en garde spéciales et précautions particulières d’emploi et, pour les médicaments immunologiques, précautions particulières devant être prises par les personnes qui manipulent le médicament immunologique et qui l’administrent aux patients, et précautions devant éventuellement être prises par le patient;
+  - mises en garde spéciales et précautions particulières d’emploi et, pour les médicaments immunologiques, précautions particulières devant être prises par les personnes qui manipulent le médicament immunologique et qui l’administrent aux patients, et précautions devant éventuellement être prises par le patient;
 
-5. interactions médicamenteuses et autres;
+  - interactions médicamenteuses et autres;
 
-6. utilisation en cas de grossesse et d’allaitement;
+  - utilisation en cas de grossesse et d’allaitement;
 
-7. effets sur la capacité de conduite et d’usage de machines;
+  - effets sur la capacité de conduite et d’usage de machines;
 
-8. effets indésirables;
+  - effets indésirables;
 
-9. surdosage (symptômes, conduites d’urgence, antidotes);
+  - surdosage (symptômes, conduites d’urgence, antidotes);
 
-5. propriétés pharmacologiques:
+- propriétés pharmacologiques:
 
-1. propriétés pharmacodynamiques;
+  - propriétés pharmacodynamiques;
 
-2. propriétés pharmacocinétiques;
+  - propriétés pharmacocinétiques;
 
-3. données de sécurité précliniques;
+  - données de sécurité précliniques;
 
-6. informations pharmacologiques:
+- informations pharmacologiques:
 
-1. liste des excipients;
+  - liste des excipients;
 
-2. incompatibilités majeures;
+  - incompatibilités majeures;
 
-3. durée de conservation, si nécessaire après reconstitution du médicament ou lorsque le conditionnement primaire est ouvert pour la première fois;
+  - durée de conservation, si nécessaire après reconstitution du médicament ou lorsque le conditionnement primaire est ouvert pour la première fois;
 
-4. précautions particulières de conservation;
+  - précautions particulières de conservation;
 
-5. nature et contenu du conditionnement primaire;
+  - nature et contenu du conditionnement primaire;
 
-6. précautions particulières d’élimination des médicaments utilisés ou des déchets dérivés de ces médicaments, s’il y a lieu;
+  - précautions particulières d’élimination des médicaments utilisés ou des déchets dérivés de ces médicaments, s’il y a lieu;
 
-7. titulaire de l’autorisation de mise sur le marché;
+- titulaire de l’autorisation de mise sur le marché;
 
-8. numéro(s) d’autorisation de mise sur le marché;
+- numéro(s) d’autorisation de mise sur le marché;
 
-9. date de première autorisation ou de renouvellement de l’autorisation;
+- date de première autorisation ou de renouvellement de l’autorisation;
 
-10. date de mise à jour du texte;
+- date de mise à jour du texte;
 
-11. pour les médicaments radiopharmaceutiques, détails complets sur la dosimétrie interne des rayonnements;
+- pour les médicaments radiopharmaceutiques, détails complets sur la dosimétrie interne des rayonnements;
 
-12. pour les médicaments radiopharmaceutiques, instructions supplémentaires détaillées pour la préparation extemporanée et le contrôle de qualité de cette préparation et, le cas échéant, période maximale de stockage durant laquelle toute préparation intermédiaire, telle que l’éluat ou le médicament radiopharmaceutique prêt à l’emploi, répond aux spécifications prévues.
+- pour les médicaments radiopharmaceutiques, instructions supplémentaires détaillées pour la préparation extemporanée et le contrôle de qualité de cette préparation et, le cas échéant, période maximale de stockage durant laquelle toute préparation intermédiaire, telle que l’éluat ou le médicament radiopharmaceutique prêt à l’emploi, répond aux spécifications prévues.
 
 Pour les génériques autorisés au titre de l’article 1-1, ne doivent pas être incluses les parties du résumé des caractéristiques du produit d’un médicament de référence renvoyant à des indications ou à des formes de dosage qui étaient encore protégées par le droit des brevets au moment où le médicament générique a été mis sur le marché.
 
@@ -408,17 +408,17 @@ Autorisation conditionnelle
 
 Le ministre de la Santé peut assortir l’autorisation de mise sur le marché d’une ou de plusieurs des conditions suivantes:
 
-1. certaines mesures garantissant l’utilisation sûre du médicament à inclure dans le système de gestion des risques;
+- certaines mesures garantissant l’utilisation sûre du médicament à inclure dans le système de gestion des risques;
 
-2. la réalisation d’études de sécurité postautorisation;
+- la réalisation d’études de sécurité postautorisation;
 
-3. le respect d’obligations plus rigoureuses que celles énoncées au titre IX en matière d’enregistrement ou de notification des effets indésirables suspectés;
+- le respect d’obligations plus rigoureuses que celles énoncées au titre IX en matière d’enregistrement ou de notification des effets indésirables suspectés;
 
-4. toute autre condition ou restriction destinée à garantir une utilisation sûre et efficace du médicament;
+- toute autre condition ou restriction destinée à garantir une utilisation sûre et efficace du médicament;
 
-5. l’existence d’un système de pharmacovigilance adéquat;
+- l’existence d’un système de pharmacovigilance adéquat;
 
-6. la réalisation d’études d’efficacité postautorisation lorsque certains aspects de l’efficacité du médicament soulèvent des questions qui ne peuvent recevoir de réponse qu’après la mise sur le marché du médicament. L’obligation d’effectuer de telles études se base sur les actes délégués pris conformément à l’article 22ter de la directive 2001/83/CE , compte tenu des lignes directrices scientifiques publiées le cas échéant par la Commission.
+- la réalisation d’études d’efficacité postautorisation lorsque certains aspects de l’efficacité du médicament soulèvent des questions qui ne peuvent recevoir de réponse qu’après la mise sur le marché du médicament. L’obligation d’effectuer de telles études se base sur les actes délégués pris conformément à l’article 22ter de la directive 2001/83/CE , compte tenu des lignes directrices scientifiques publiées le cas échéant par la Commission.
 
 L’autorisation de mise sur le marché précise, le cas échéant, dans quels délais ces conditions doivent être remplies.
 
@@ -439,9 +439,9 @@ Obligations postautorisation
 
 Après avoir délivré l’autorisation de mise sur le marché, le ministre de la Santé peut imposer l’obligation à son titulaire:
 
-1. d’effectuer une étude de sécurité postautorisation s’il existe des craintes quant aux risques de sécurité posés par un médicament autorisé. Lorsque le même souci de sécurité concerne plusieurs médicaments, le ministre de la Santé, après consultation du comité pour l’évaluation des risques en matière de pharmacovigilance, encourage les titulaires d’autorisations de mise sur le marché concernés à effectuer une étude de sécurité postautorisation conjointe;
+- d’effectuer une étude de sécurité postautorisation s’il existe des craintes quant aux risques de sécurité posés par un médicament autorisé. Lorsque le même souci de sécurité concerne plusieurs médicaments, le ministre de la Santé, après consultation du comité pour l’évaluation des risques en matière de pharmacovigilance, encourage les titulaires d’autorisations de mise sur le marché concernés à effectuer une étude de sécurité postautorisation conjointe;
 
-2. d’effectuer une étude d’efficacité postautorisation lorsque la compréhension de la maladie ou la méthodologie clinique indique que les évaluations d’efficacité antérieures pourraient devoir être revues de manière significative. L’obligation de réaliser cette étude d’efficacité postautorisation est basée sur les actes délégués pris conformément à l’article 22ter de la directive 2001/83/CE , compte tenu des lignes directrices scientifiques visées à l’article 108bis de la directive 2001/83/CE .
+- d’effectuer une étude d’efficacité postautorisation lorsque la compréhension de la maladie ou la méthodologie clinique indique que les évaluations d’efficacité antérieures pourraient devoir être revues de manière significative. L’obligation de réaliser cette étude d’efficacité postautorisation est basée sur les actes délégués pris conformément à l’article 22ter de la directive 2001/83/CE , compte tenu des lignes directrices scientifiques visées à l’article 108bis de la directive 2001/83/CE .
 
 L’imposition de pareille obligation est dûment justifiée, notifiée par écrit, et elle spécifie les objectifs et les délais pour la réalisation et la soumission de l’étude.
 
@@ -530,45 +530,45 @@ Aux fins du présent chapitre, on entend par:
 
 Etiquetage.
 
-1. L’emballage extérieur ou, à défaut d’emballage extérieur, le conditionnement primaire de tout médicament doit porter les mentions suivantes: ainsi qu’un dispositif permettant de vérifier si l’emballage extérieur a fait l’objet d’une effraction.
+- L’emballage extérieur ou, à défaut d’emballage extérieur, le conditionnement primaire de tout médicament doit porter les mentions suivantes: ainsi qu’un dispositif permettant de vérifier si l’emballage extérieur a fait l’objet d’une effraction.
 
-1. le nom du médicament suivi de son dosage et de sa forme pharmaceutique et, le cas échéant, de la mention du destinataire (nourrissons, enfants ou adultes); lorsque le médicament contient jusqu’à trois substances actives, la dénomination commune internationale (DCI) ou, si celle-ci n’existe pas, la dénomination commune;
+  - le nom du médicament suivi de son dosage et de sa forme pharmaceutique et, le cas échéant, de la mention du destinataire (nourrissons, enfants ou adultes); lorsque le médicament contient jusqu’à trois substances actives, la dénomination commune internationale (DCI) ou, si celle-ci n’existe pas, la dénomination commune;
 
-2. la composition qualitative et quantitative en principes actifs par unités de prise ou, selon la forme d’administration, pour un volume ou un poids déterminé, en utilisant les dénominations communes;
+  - la composition qualitative et quantitative en principes actifs par unités de prise ou, selon la forme d’administration, pour un volume ou un poids déterminé, en utilisant les dénominations communes;
 
-3. la forme pharmaceutique et le contenu en poids, en volume ou en unités de prises;
+  - la forme pharmaceutique et le contenu en poids, en volume ou en unités de prises;
 
-4. une liste des excipients qui ont une action ou un effet notoire et qui sont prévus dans les lignes directrices publiées le cas échéant par la Commission des Communautés. Toutefois, s’il s’agit d’un produit injectable, d’une préparation topique ou d’un collyre, tous les excipients doivent être mentionnés;
+  - une liste des excipients qui ont une action ou un effet notoire et qui sont prévus dans les lignes directrices publiées le cas échéant par la Commission des Communautés. Toutefois, s’il s’agit d’un produit injectable, d’une préparation topique ou d’un collyre, tous les excipients doivent être mentionnés;
 
-5. le mode d’administration et, si nécessaire, la voie d’administration. Un espace est prévu pour indiquer la posologie prescrite;
+  - le mode d’administration et, si nécessaire, la voie d’administration. Un espace est prévu pour indiquer la posologie prescrite;
 
-6. une mise en garde spéciale selon laquelle le médicament doit être maintenu hors de portée et de la vue des enfants;
+  - une mise en garde spéciale selon laquelle le médicament doit être maintenu hors de portée et de la vue des enfants;
 
-7. une mise en garde spéciale, si elle s’impose pour ce médicament;
+  - une mise en garde spéciale, si elle s’impose pour ce médicament;
 
-8. la date de péremption en clair (mois/année);
+  - la date de péremption en clair (mois/année);
 
-9. les précautions particulières de conservation, s’il y a lieu;
+  - les précautions particulières de conservation, s’il y a lieu;
 
-10. les précautions particulières relatives à l’élimination des médicaments non utilisés ou des déchets dérivés de médicaments, le cas échéant, ainsi qu’une référence à tout système de collecte approprié mis en place;
+  - les précautions particulières relatives à l’élimination des médicaments non utilisés ou des déchets dérivés de médicaments, le cas échéant, ainsi qu’une référence à tout système de collecte approprié mis en place;
 
-11. le nom et l’adresse du titulaire de l’autorisation de mise sur le marché et, le cas échéant, le nom du représentant du titulaire désigné par ce dernier;
+  - le nom et l’adresse du titulaire de l’autorisation de mise sur le marché et, le cas échéant, le nom du représentant du titulaire désigné par ce dernier;
 
-12. le numéro de l’autorisation de mise sur le marché;
+  - le numéro de l’autorisation de mise sur le marché;
 
-13. le numéro du lot de fabrication;
+  - le numéro du lot de fabrication;
 
-14. pour les médicaments non soumis à prescription, l’indication d’utilisation;
+  - pour les médicaments non soumis à prescription, l’indication d’utilisation;
 
-15. pour les médicaments autres que les médicaments radiopharmaceutiques, les dispositifs de sécurité permettant aux grossistes et aux personnes autorisées ou habilitées à délivrer des médicaments au public:
+  - pour les médicaments autres que les médicaments radiopharmaceutiques, les dispositifs de sécurité permettant aux grossistes et aux personnes autorisées ou habilitées à délivrer des médicaments au public:
 
-- de vérifier l’authenticité du médicament, et
+    - de vérifier l’authenticité du médicament, et
 
-- d’identifier les boîtes individuelles de médicaments,
+    - d’identifier les boîtes individuelles de médicaments,
 
-2. L’emballage extérieur peut comporter des signes ou des pictogrammes visant à expliciter certaines des informations visées au paragraphe 1 ainsi que d’autres informations compatibles avec le résumé des caractéristiques du produit, utiles pour l’éducation sanitaire, à l’exclusion de tout élément pouvant présenter un caractère promotionnel.
+- L’emballage extérieur peut comporter des signes ou des pictogrammes visant à expliciter certaines des informations visées au paragraphe 1 ainsi que d’autres informations compatibles avec le résumé des caractéristiques du produit, utiles pour l’éducation sanitaire, à l’exclusion de tout élément pouvant présenter un caractère promotionnel.
 
-3. Il n’est pas dérogé aux dispositions légales, réglementaires et conventionnelles en vigueur en matière de sécurité sociale et relatives à l’indication du prix sur l’étiquetage.
+- Il n’est pas dérogé aux dispositions légales, réglementaires et conventionnelles en vigueur en matière de sécurité sociale et relatives à l’indication du prix sur l’étiquetage.
 
 <a id="art10bis"></a>
 ## Art.10bis.
@@ -585,15 +585,15 @@ Les médicaments non soumis à prescription ou figurant sur la liste établie à
 
 Le ministre de la Santé notifie à la Commission européenne les médicaments non soumis à prescription pour lesquels il estime qu’il existe un risque de falsification, conformément aux critères suivants :
 
-1. le prix et le volume des ventes du médicament ;
+- le prix et le volume des ventes du médicament ;
 
-2. le nombre et la fréquence des précédents cas de médicaments falsifiés enregistrés dans l’Union européenne et dans des pays tiers ainsi que l’évolution du nombre et de la fréquence de ces précédents ;
+- le nombre et la fréquence des précédents cas de médicaments falsifiés enregistrés dans l’Union européenne et dans des pays tiers ainsi que l’évolution du nombre et de la fréquence de ces précédents ;
 
-3. les caractéristiques spécifiques des médicaments concernés ;
+- les caractéristiques spécifiques des médicaments concernés ;
 
-4. la gravité des affections à traiter ;
+- la gravité des affections à traiter ;
 
-5. les autres risques potentiels pour la santé publique.
+- les autres risques potentiels pour la santé publique.
 
 4.
 
@@ -614,33 +614,33 @@ L’autorisation visée par les paragraphes 4 et 5 peut être également prise p
 
 Les dispositifs de sécurité visés à l’article 10, paragraphe 1er, lettre o), ne sont ni retirés ni recouverts, partiellement ou totalement, sauf dans le cas où les conditions ci-après sont remplies :
 
-1. le titulaire de l’autorisation de fabrication vérifie, avant de retirer ou de recouvrir partiellement ou totalement ces dispositifs de sécurité que le médicament concerné est authentique et qu’il n’a pas subi de manipulation illicite ;
+- le titulaire de l’autorisation de fabrication vérifie, avant de retirer ou de recouvrir partiellement ou totalement ces dispositifs de sécurité que le médicament concerné est authentique et qu’il n’a pas subi de manipulation illicite ;
 
-2. le titulaire de l’autorisation de fabrication respecte l’article 10, paragraphe 1 er , lettre o), en remplaçant ces dispositifs de sécurité par des dispositifs de sécurité équivalents pour ce qui est de la possibilité de vérifier l’authenticité, d’identifier et d’apporter la preuve de manipulation illicite du médicament. Ce remplacement est effectué sans ouvrir le conditionnement primaire ;
+- le titulaire de l’autorisation de fabrication respecte l’article 10, paragraphe 1 er , lettre o), en remplaçant ces dispositifs de sécurité par des dispositifs de sécurité équivalents pour ce qui est de la possibilité de vérifier l’authenticité, d’identifier et d’apporter la preuve de manipulation illicite du médicament. Ce remplacement est effectué sans ouvrir le conditionnement primaire ;
 
-3. le remplacement des dispositifs de sécurité est effectué conformément aux bonnes pratiques de fabrication applicables aux médicaments ;
+- le remplacement des dispositifs de sécurité est effectué conformément aux bonnes pratiques de fabrication applicables aux médicaments ;
 
-4. le remplacement des dispositifs de sécurité est soumis au contrôle du ministre de la Santé de la Santé.
+- le remplacement des dispositifs de sécurité est soumis au contrôle du ministre de la Santé de la Santé.
 
 Les dispositifs de sécurité sont considérés comme équivalents au sens du point b) si :
 
-1. ils répondent aux exigences fixées dans le règlement délégué (UE) 2016/161 de la Commission du 2 octobre 2015 complétant la directive 2001/83/CE du Parlement européen et du Conseil en fixant les modalités des dispositifs de sécurité figurant sur l’emballage des médicaments à usage humain ; et
+- ils répondent aux exigences fixées dans le règlement délégué (UE) 2016/161 de la Commission du 2 octobre 2015 complétant la directive 2001/83/CE du Parlement européen et du Conseil en fixant les modalités des dispositifs de sécurité figurant sur l’emballage des médicaments à usage humain ; et
 
-2. ils permettent de vérifier l’authenticité et d’identifier les médicaments, avec la même efficacité, et d’apporter la preuve de manipulation illicite des médicaments.
+- ils permettent de vérifier l’authenticité et d’identifier les médicaments, avec la même efficacité, et d’apporter la preuve de manipulation illicite des médicaments.
 
 2.
 
 Par dérogation aux dispositions du paragraphe 1er, le ministre de la Santé peut pour les raisons de santé publique et pour assurer la continuité de l’approvisionnement du marché, autoriser l’apposition de l’identifiant unique sur le conditionnement primaire ou l’emballage extérieur au moyen d’autocollant à condition que :
 
-1. cet autocollant soit placé sur le produit par un fabricant selon les bonnes pratiques de fabrication ;
+- cet autocollant soit placé sur le produit par un fabricant selon les bonnes pratiques de fabrication ;
 
-2. l’identifiant unique placé sur cet autocollant soit intransférable sur un autre conditionnement primaire ou l’emballage extérieur ;
+- l’identifiant unique placé sur cet autocollant soit intransférable sur un autre conditionnement primaire ou l’emballage extérieur ;
 
-3. les spécifications techniques de l’identifiant unique placé sur cet autocollant respectent les dispositions du chapitre II du règlement délégué (UE) 2016/161 de la Commission du 2 octobre 2015 complétant la directive 2001/83/CE du Parlement européen et du Conseil en fixant les modalités des dispositifs de sécurité figurant sur l’emballage des médicaments à usage humain ;
+- les spécifications techniques de l’identifiant unique placé sur cet autocollant respectent les dispositions du chapitre II du règlement délégué (UE) 2016/161 de la Commission du 2 octobre 2015 complétant la directive 2001/83/CE du Parlement européen et du Conseil en fixant les modalités des dispositifs de sécurité figurant sur l’emballage des médicaments à usage humain ;
 
-4. les autres éléments relatifs à l’étiquetage ne soient pas impactés ;
+- les autres éléments relatifs à l’étiquetage ne soient pas impactés ;
 
-5. cet autocollant ne soit pas placé sur un produit disposant déjà d’un autre autocollant.
+- cet autocollant ne soit pas placé sur un produit disposant déjà d’un autre autocollant.
 
 3.
 
@@ -656,44 +656,44 @@ Les fabricants, les grossistes et les personnes autorisées ou habilitées à d�
 
 Nonobstant l’article 25 du règlement délégué (UE) 2016/161 de la Commission du 2 octobre 2015 complétant la directive 2001/83/CE du Parlement européen et du Conseil en fixant les modalités des dispositifs de sécurité figurant sur l’emballage des médicaments à l’usage humain, le ministre de la Santé peut, sur demande dûment justifiée, dispenser une personne autorisée ou habilitée à délivrer des médicaments au public, qui exerce son activité dans un établissement de santé, des obligations de vérification et de désactivation de l’identifiant unique, pour autant que les conditions suivantes soient remplies :
 
-1. la personne autorisée ou habilitée à délivrer des médicaments au public a obtenu le médicament portant l’identifiant unique par l’intermédiaire d’un grossiste appartenant à la même entité légale que l’établissement de santé ;
+- la personne autorisée ou habilitée à délivrer des médicaments au public a obtenu le médicament portant l’identifiant unique par l’intermédiaire d’un grossiste appartenant à la même entité légale que l’établissement de santé ;
 
-2. la vérification et la désactivation de l’identifiant unique sont effectuées par le grossiste qui fournit le produit à l’établissement de santé conformément à l’article 22quinquies, lettre d) du règlement grand-ducal modifié du 19 novembre 2004 relatif à la fabrication, la distribution et le courtage de médicaments ;
+- la vérification et la désactivation de l’identifiant unique sont effectuées par le grossiste qui fournit le produit à l’établissement de santé conformément à l’article 22quinquies, lettre d) du règlement grand-ducal modifié du 19 novembre 2004 relatif à la fabrication, la distribution et le courtage de médicaments ;
 
-3. aucune vente du médicament n’a lieu entre le grossiste qui fournit le produit et l’établissement de santé ;
+- aucune vente du médicament n’a lieu entre le grossiste qui fournit le produit et l’établissement de santé ;
 
-4. le médicament est délivré au public au sein de cet établissement de santé.
+- le médicament est délivré au public au sein de cet établissement de santé.
 
 <a id="art-11"></a>
 ## Art. 11.
 
 Conditionnements primaires.
 
-1. Les conditionnements primaires autres que ceux visés aux paragraphes 2 et 3 doivent porter les mentions prévues à l’article 10.
+- Les conditionnements primaires autres que ceux visés aux paragraphes 2 et 3 doivent porter les mentions prévues à l’article 10.
 
-2. Lorsqu’ils sont contenus dans un emballage extérieur conforme aux prescriptions de l’article 10, les conditionnements primaires qui se présentent sous forme de blister doivent porter au moins les mentions suivantes:
+- Lorsqu’ils sont contenus dans un emballage extérieur conforme aux prescriptions de l’article 10, les conditionnements primaires qui se présentent sous forme de blister doivent porter au moins les mentions suivantes:
 
-- le nom du médicament tel que prévu à l’article 10 sous 1. a),
+  - le nom du médicament tel que prévu à l’article 10 sous 1. a),
 
-- le nom du titulaire de la mise sur le marché,
+  - le nom du titulaire de la mise sur le marché,
 
-- la date de péremption,
+  - la date de péremption,
 
-- le numéro du lot de fabrication.
+  - le numéro du lot de fabrication.
 
-3. Les petits conditionnements primaires sur lesquels il est impossible de mentionner les indications prévues à l’article 10 doivent porter au moins les mentions suivantes:
+- Les petits conditionnements primaires sur lesquels il est impossible de mentionner les indications prévues à l’article 10 doivent porter au moins les mentions suivantes:
 
-- le nom du médicament tel que prévu à l’article 10 sous 1. a), et, si nécessaire, le dosage et la voie d’administration,
+  - le nom du médicament tel que prévu à l’article 10 sous 1. a), et, si nécessaire, le dosage et la voie d’administration,
 
-- le mode d’administration,
+  - le mode d’administration,
 
-- la date de péremption,
+  - la date de péremption,
 
-- le numéro du lot de fabrication,
+  - le numéro du lot de fabrication,
 
-- le contenu en poids, en volume ou en unités.
+  - le contenu en poids, en volume ou en unités.
 
-4. Le nom du médicament visé à l’article 10 sous 1. a), doit également figurer en braille sur l’emballage. Le détenteur de l’autorisation de mise sur le marché veille à ce que la notice d’information soit disponible, sur demande des organisations de patients, dans des formats appropriés pour les aveugles et les mal-voyants.
+- Le nom du médicament visé à l’article 10 sous 1. a), doit également figurer en braille sur l’emballage. Le détenteur de l’autorisation de mise sur le marché veille à ce que la notice d’information soit disponible, sur demande des organisations de patients, dans des formats appropriés pour les aveugles et les mal-voyants.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -724,73 +724,73 @@ Contenu de la notice.
 
 La notice est établie en conformité avec le résumé des caractéristiques du produit; elle doit comporter, dans cet ordre:
 
-1. pour l’identification du médicament:
+- pour l’identification du médicament:
 
-1. le nom du médicament, suivi du dosage et de la forme pharmaceutique et, le cas échéant, de la mention du destinataire (nourrissons, enfants ou adultes); la dénomination commune doit figurer lorsque le médicament ne contient qu’une seule substance active et que sa dénomination est un nom de fantaisie;
+  - le nom du médicament, suivi du dosage et de la forme pharmaceutique et, le cas échéant, de la mention du destinataire (nourrissons, enfants ou adultes); la dénomination commune doit figurer lorsque le médicament ne contient qu’une seule substance active et que sa dénomination est un nom de fantaisie;
 
-2. la catégorie pharmaco-thérapeutique ou le type d’activité dans des termes aisément compréhensibles pour le patient;
+  - la catégorie pharmaco-thérapeutique ou le type d’activité dans des termes aisément compréhensibles pour le patient;
 
-2. les indications thérapeutiques;
+- les indications thérapeutiques;
 
-3. une liste des informations nécessaires avant la prise du médicament:
+- une liste des informations nécessaires avant la prise du médicament:
 
-1. contre-indications;
+  - contre-indications;
 
-2. précautions d’emploi appropriées;
+  - précautions d’emploi appropriées;
 
-3. interactions médicamenteuses et autres interactions (par exemple alcool, tabac, aliments), susceptibles d’affecter l’action du médicament;
+  - interactions médicamenteuses et autres interactions (par exemple alcool, tabac, aliments), susceptibles d’affecter l’action du médicament;
 
-4. mises en garde spéciales;
+  - mises en garde spéciales;
 
-4. les instructions nécessaires et habituelles pour une bonne utilisation, en particulier: et, le cas échéant, selon la nature du produit:
+- les instructions nécessaires et habituelles pour une bonne utilisation, en particulier: et, le cas échéant, selon la nature du produit:
 
-1. la posologie;
+  - la posologie;
 
-2. le mode et, si nécessaire, la voie d’administration;
+  - le mode et, si nécessaire, la voie d’administration;
 
-3. la fréquence de l’administration, en précisant, si nécessaire, le moment auquel le médicament peut ou doit être administré;
+  - la fréquence de l’administration, en précisant, si nécessaire, le moment auquel le médicament peut ou doit être administré;
 
-1. la durée du traitement, lorsqu’elle doit être limitée;
+  - la durée du traitement, lorsqu’elle doit être limitée;
 
-2. l’action à entreprendre en cas de surdosage (par exemple symptômes, conduites d’urgence);
+  - l’action à entreprendre en cas de surdosage (par exemple symptômes, conduites d’urgence);
 
-3. l’attitude à adopter au cas où la prise d’une ou plusieurs doses a été omise;
+  - l’attitude à adopter au cas où la prise d’une ou plusieurs doses a été omise;
 
-4. l’indication, si nécessaire, du risque d’un syndrome de sevrage;
+  - l’indication, si nécessaire, du risque d’un syndrome de sevrage;
 
-5. la recommandation spécifique à consulter le médecin ou le pharmacien pour tout éclaircissement concernant l’utilisation du produit;
+  - la recommandation spécifique à consulter le médecin ou le pharmacien pour tout éclaircissement concernant l’utilisation du produit;
 
-5. une description des effets indésirables pouvant être observés lors de l’utilisation normale du médicament et, le cas échéant, l’action à entreprendre en pareil cas;
+- une description des effets indésirables pouvant être observés lors de l’utilisation normale du médicament et, le cas échéant, l’action à entreprendre en pareil cas;
 
-6. un renvoi à la date de péremption figurant sur l’emballage, avec:
+- un renvoi à la date de péremption figurant sur l’emballage, avec:
 
-1. une mise en garde contre la prise du médicament au-delà de cette date;
+  - une mise en garde contre la prise du médicament au-delà de cette date;
 
-2. s’il y a lieu, les précautions particulières de conservation;
+  - s’il y a lieu, les précautions particulières de conservation;
 
-3. si nécessaire, une mise en garde contre certains signes visibles de détérioration;
+  - si nécessaire, une mise en garde contre certains signes visibles de détérioration;
 
-4. la composition qualitative complète (en substances actives et excipients) ainsi que la composition quantitative en substances actives, en utilisant les dénominations communes, pour chaque présentation du médicament;
+  - la composition qualitative complète (en substances actives et excipients) ainsi que la composition quantitative en substances actives, en utilisant les dénominations communes, pour chaque présentation du médicament;
 
-5. la forme pharmaceutique et le contenu en poids, en volume, ou en unités de prise, pour chaque présentation du médicament;
+  - la forme pharmaceutique et le contenu en poids, en volume, ou en unités de prise, pour chaque présentation du médicament;
 
-6. le nom et l’adresse du titulaire de l’autorisation de mise sur le marché et, le cas échéant, le nom de ses représentants désignés dans les États membres;
+  - le nom et l’adresse du titulaire de l’autorisation de mise sur le marché et, le cas échéant, le nom de ses représentants désignés dans les États membres;
 
-7. le nom et l’adresse du fabricant;
+  - le nom et l’adresse du fabricant;
 
-7. lorsque le médicament est autorisé conformément aux articles 28 à 39 sous des noms différents dans les États membres concernés, une liste des noms autorisés dans chacun des Etats membres;
+- lorsque le médicament est autorisé conformément aux articles 28 à 39 sous des noms différents dans les États membres concernés, une liste des noms autorisés dans chacun des Etats membres;
 
-8. la date à laquelle la notice a été révisée pour la dernière fois.
+- la date à laquelle la notice a été révisée pour la dernière fois.
 
 2.
 
 L’énumération prévue au paragraphe 1, point c), doit:
 
-1. tenir compte de la situation particulière de certaines catégories d’utilisateurs (enfants, femmes enceintes ou allaitantes, personnes âgées, personnes présentant certaines pathologies spécifiques);
+- tenir compte de la situation particulière de certaines catégories d’utilisateurs (enfants, femmes enceintes ou allaitantes, personnes âgées, personnes présentant certaines pathologies spécifiques);
 
-2. mentionner, s’il y a lieu, les effets possibles du traitement sur la capacité à conduire un véhicule ou à manipuler des machines;
+- mentionner, s’il y a lieu, les effets possibles du traitement sur la capacité à conduire un véhicule ou à manipuler des machines;
 
-3. inclure la liste des excipients dont la connaissance est importante pour une utilisation sûre et efficace du médicament et qui est prévue dans les indications détaillées publiées en application de l’article 65.
+- inclure la liste des excipients dont la connaissance est importante pour une utilisation sûre et efficace du médicament et qui est prévue dans les indications détaillées publiées en application de l’article 65.
 
 3.
 
@@ -814,11 +814,11 @@ Le premier alinéa ne fait pas obstacle à ce que la notice soit rédigée en pl
 
 Echantillon de l’emballage.
 
-1. Une ou plusieurs maquettes de l’emballage extérieur et du conditionnement primaire du médicament, ainsi que le projet de notice, sont soumis lors de la demande d’autorisation de mise sur le marché. Sont, par ailleurs, fournis les résultats des évaluations réalisées en coopération avec des groupes cibles de patients.
+- Une ou plusieurs maquettes de l’emballage extérieur et du conditionnement primaire du médicament, ainsi que le projet de notice, sont soumis lors de la demande d’autorisation de mise sur le marché. Sont, par ailleurs, fournis les résultats des évaluations réalisées en coopération avec des groupes cibles de patients.
 
-2. Tout projet de modification d’un élément relatif à l’étiquetage ou à la notice couvert par le présent règlement et non lié au résumé des caractéristiques du produit est soumis au ministre de la Santé. Si le ministre ne s’est pas prononcé contre le projet de modification dans un délai de 90 jours suivant l’introduction de la demande, le demandeur peut procéder à la mise en oeuvre des modifications.
+- Tout projet de modification d’un élément relatif à l’étiquetage ou à la notice couvert par le présent règlement et non lié au résumé des caractéristiques du produit est soumis au ministre de la Santé. Si le ministre ne s’est pas prononcé contre le projet de modification dans un délai de 90 jours suivant l’introduction de la demande, le demandeur peut procéder à la mise en oeuvre des modifications.
 
-3. Sur demande le ministre de la Santé peut dispenser de l’obligation de faire figurer certaines mentions sur les étiquettes et les notices de médicaments spécifiques, et de rédiger la notice dans une des langues reconnues, lorsque le médicament n’est pas destiné à être fourni au patient en vue de son automédication.
+- Sur demande le ministre de la Santé peut dispenser de l’obligation de faire figurer certaines mentions sur les étiquettes et les notices de médicaments spécifiques, et de rédiger la notice dans une des langues reconnues, lorsque le médicament n’est pas destiné à être fourni au patient en vue de son automédication.
 
 <a id="art-16bis"></a>
 ## Art. 16bis.
@@ -834,151 +834,151 @@ Lorsque le médicament n’est pas destiné à être délivré directement au pa
 <a id="art-17"></a>
 ## Art. 17.
 
-1. Aux fins du présent chapitre, on entend par «publicité pour des médicaments» toute forme de démarchage d’information, de prospection ou d’incitation qui vise à promouvoir la prescription, la délivrance, la vente ou la consommation de médicaments; elle comprend en particulier:
+- Aux fins du présent chapitre, on entend par «publicité pour des médicaments» toute forme de démarchage d’information, de prospection ou d’incitation qui vise à promouvoir la prescription, la délivrance, la vente ou la consommation de médicaments; elle comprend en particulier:
 
-- la publicité pour les médicaments auprès du public,
+  - la publicité pour les médicaments auprès du public,
 
-- la publicité pour les médicaments auprès des personnes habilitées à les prescrire ou à les délivrer,
+  - la publicité pour les médicaments auprès des personnes habilitées à les prescrire ou à les délivrer,
 
-- la visite des délégués auprès de personnes habilitées à prescrire ou à délivrer des médicaments,
+  - la visite des délégués auprès de personnes habilitées à prescrire ou à délivrer des médicaments,
 
-- la fourniture d’échantillons,
+  - la fourniture d’échantillons,
 
-- les incitations à prescrire ou à délivrer des médicaments par l’octroi, l’offre ou la promesse d’avantages, pécuniaires ou en nature, sauf lorsque leur valeur intrinsèque est minime,
+  - les incitations à prescrire ou à délivrer des médicaments par l’octroi, l’offre ou la promesse d’avantages, pécuniaires ou en nature, sauf lorsque leur valeur intrinsèque est minime,
 
-- le parrainage de réunions promotionnelles auxquelles assistent des personnes habilitées à prescrire ou à délivrer des médicaments,
+  - le parrainage de réunions promotionnelles auxquelles assistent des personnes habilitées à prescrire ou à délivrer des médicaments,
 
-- le parrainage des congrès scientifiques auxquels participent des personnes habilitées à prescrire ou à délivrer des médicaments, et notamment la prise en charge de leurs frais de déplacement et de séjour à cette occasion.
+  - le parrainage des congrès scientifiques auxquels participent des personnes habilitées à prescrire ou à délivrer des médicaments, et notamment la prise en charge de leurs frais de déplacement et de séjour à cette occasion.
 
-2. Ne sont pas couverts par le présent chapitre:
+- Ne sont pas couverts par le présent chapitre:
 
-- l’étiquetage et la notice des médicaments, qui sont soumis aux dispositions du chapitre qui précède,
+  - l’étiquetage et la notice des médicaments, qui sont soumis aux dispositions du chapitre qui précède,
 
-- la correspondance, accompagnée le cas échéant de tout document non publicitaire, nécessaire pour répondre à une question précise sur un médicament particulier,
+  - la correspondance, accompagnée le cas échéant de tout document non publicitaire, nécessaire pour répondre à une question précise sur un médicament particulier,
 
-- les informations concrètes et les documents de référence relatifs, par exemple, aux changements d’emballages, aux mises en garde concernant les effets indésirables dans le cadre de la pharmacovigilance, ainsi qu’aux catalogues de vente et aux listes de prix pour autant que n’y figure aucune information sur le médicament,
+  - les informations concrètes et les documents de référence relatifs, par exemple, aux changements d’emballages, aux mises en garde concernant les effets indésirables dans le cadre de la pharmacovigilance, ainsi qu’aux catalogues de vente et aux listes de prix pour autant que n’y figure aucune information sur le médicament,
 
-- les informations relatives à la santé humaine ou à des maladies humaines, pour autant qu’il n’y ait pas de référence, même indirecte, à un médicament.
+  - les informations relatives à la santé humaine ou à des maladies humaines, pour autant qu’il n’y ait pas de référence, même indirecte, à un médicament.
 
 <a id="art-18"></a>
 ## Art. 18.
 
-1. Toute publicité faite à l’égard d’un médicament pour lequel une autorisation de mise sur le marché n’a pas été délivrée par le ministre de la Santé est interdite.
+- Toute publicité faite à l’égard d’un médicament pour lequel une autorisation de mise sur le marché n’a pas été délivrée par le ministre de la Santé est interdite.
 
-2. Tous les éléments de la publicité d’un médicament doivent être conformes aux renseignements figurant dans le résumé des caractéristiques du produit.
+- Tous les éléments de la publicité d’un médicament doivent être conformes aux renseignements figurant dans le résumé des caractéristiques du produit.
 
-3. La publicité faite à l’égard d’un médicament:
+- La publicité faite à l’égard d’un médicament:
 
-- doit favoriser l’usage rationnel du médicament, en le présentant de façon objective et sans en exagérer les propriétés,
+  - doit favoriser l’usage rationnel du médicament, en le présentant de façon objective et sans en exagérer les propriétés,
 
-- ne peut être trompeuse.
+  - ne peut être trompeuse.
 
 ##### Section 2.- La publicité auprès du public
 
 <a id="art-19"></a>
 ## Art. 19.
 
-1. Est interdite la publicité auprès du public faite à l’égard des médicaments:
+- Est interdite la publicité auprès du public faite à l’égard des médicaments:
 
-1. qui ne peuvent être délivrés que sur prescription médicale,
+  - qui ne peuvent être délivrés que sur prescription médicale,
 
-2. qui contiennent des substances psychotropes ou des stupéfiants,
+  - qui contiennent des substances psychotropes ou des stupéfiants,
 
-3. qui sont remboursables au titre des assurances sociales.
+  - qui sont remboursables au titre des assurances sociales.
 
-2. Toutefois les médicaments qui, par leur composition et leur objectif, sont destinés à être utilisés sans intervention d’un médecin pour le diagnostic, la prescription ou la surveillance du traitement, au besoin avec le conseil du pharmacien, et conçus dans cette optique, peuvent toujours faire l’objet d’une publicité auprès du grand public.
+- Toutefois les médicaments qui, par leur composition et leur objectif, sont destinés à être utilisés sans intervention d’un médecin pour le diagnostic, la prescription ou la surveillance du traitement, au besoin avec le conseil du pharmacien, et conçus dans cette optique, peuvent toujours faire l’objet d’une publicité auprès du grand public.
 
-3. L’interdiction visée au paragraphe 1 ne s’applique pas aux campagnes de vaccination faites par l’industrie et approuvées par le ministre.
+- L’interdiction visée au paragraphe 1 ne s’applique pas aux campagnes de vaccination faites par l’industrie et approuvées par le ministre.
 
-4. L’interdiction visée au paragraphe 1 s’applique sans préjudice de l’article 14 de la directive 89/552/CEE du 3 octobre 1989, visant la coordination de certaines dispositions législatives, réglementaires et administratives des Etats membres relatives à l’exercice d’activité de radiodiffusion télévisuelle.
+- L’interdiction visée au paragraphe 1 s’applique sans préjudice de l’article 14 de la directive 89/552/CEE du 3 octobre 1989, visant la coordination de certaines dispositions législatives, réglementaires et administratives des Etats membres relatives à l’exercice d’activité de radiodiffusion télévisuelle.
 
-5. Est interdite la distribution directe de médicaments au public à des fins promotionnelles par l’industrie.
+- Est interdite la distribution directe de médicaments au public à des fins promotionnelles par l’industrie.
 
 <a id="art-20"></a>
 ## Art. 20.
 
 Sans préjudice de l’article 19, toute publicité auprès du public faite à l’égard d’un médicament doit:
 
-1. être conçue de façon à ce que le caractère publicitaire du message soit évident et que le produit soit clairement identifié comme médicament;
+- être conçue de façon à ce que le caractère publicitaire du message soit évident et que le produit soit clairement identifié comme médicament;
 
-2. comporter au moins:
+- comporter au moins:
 
-- le nom du médicament, ainsi que la dénomination commune lorsque le médicament ne contient qu’une seule substance active,
+  - le nom du médicament, ainsi que la dénomination commune lorsque le médicament ne contient qu’une seule substance active,
 
-- les informations indispensables pour un bon usage du médicament,
+  - les informations indispensables pour un bon usage du médicament,
 
-- une invitation expresse et lisible à lire attentivement les instructions figurant sur la notice ou sur l’emballage extérieur, selon le cas.
+  - une invitation expresse et lisible à lire attentivement les instructions figurant sur la notice ou sur l’emballage extérieur, selon le cas.
 
 <a id="art-21"></a>
 ## Art. 21.
 
 La publicité auprès du public faite à l’égard d’un médicament ne peut comporter aucun élément qui:
 
-1. ferait apparaître la consultation médicale ou l’intervention chirurgicale comme superflue, en particulier en offrant un diagnostic ou en préconisant un traitement par correspondance;
+- ferait apparaître la consultation médicale ou l’intervention chirurgicale comme superflue, en particulier en offrant un diagnostic ou en préconisant un traitement par correspondance;
 
-2. suggérerait que l’effet du médicament est assuré, sans effets secondaires, supérieur ou égal à celui d’un autre traitement ou d’un autre médicament;
+- suggérerait que l’effet du médicament est assuré, sans effets secondaires, supérieur ou égal à celui d’un autre traitement ou d’un autre médicament;
 
-3. suggérerait que la bonne santé normale du sujet puisse être améliorée par l’utilisation du médicament;
+- suggérerait que la bonne santé normale du sujet puisse être améliorée par l’utilisation du médicament;
 
-4. suggérerait que la bonne santé normale du sujet puisse être affectée en cas de non-utilisation du médicament; cette interdiction ne s’applique pas aux campagnes de vaccination visées à l’article 19 paragraphe 4;
+- suggérerait que la bonne santé normale du sujet puisse être affectée en cas de non-utilisation du médicament; cette interdiction ne s’applique pas aux campagnes de vaccination visées à l’article 19 paragraphe 4;
 
-5. s’adresserait exclusivement ou principalement aux enfants;
+- s’adresserait exclusivement ou principalement aux enfants;
 
-6. se référerait à une recommandation émanant de scientifiques, de professionnels de la santé ou de personnes qui, bien que n’étant ni des scientifiques ni des professionnels de la santé, peuvent, de par leur notoriété, inciter à la consommation de médicaments;
+- se référerait à une recommandation émanant de scientifiques, de professionnels de la santé ou de personnes qui, bien que n’étant ni des scientifiques ni des professionnels de la santé, peuvent, de par leur notoriété, inciter à la consommation de médicaments;
 
-7. assimilerait le médicament à une denrée alimentaire, à un produit cosmétique ou à un autre produit de consommation;
+- assimilerait le médicament à une denrée alimentaire, à un produit cosmétique ou à un autre produit de consommation;
 
-8. suggérerait que la sécurité ou l’efficacité du médicament est due au fait qu’il s’agit d’une substance naturelle;
+- suggérerait que la sécurité ou l’efficacité du médicament est due au fait qu’il s’agit d’une substance naturelle;
 
-9. pourrait induire, par une description ou une figuration détaillée de l’anamnèse à un faux autodiagnostic;
+- pourrait induire, par une description ou une figuration détaillée de l’anamnèse à un faux autodiagnostic;
 
-10. se référerait de manière abusive, effrayante ou trompeuse à des attestations de guérison;
+- se référerait de manière abusive, effrayante ou trompeuse à des attestations de guérison;
 
-11. utiliserait de manière abusive, effrayante ou trompeuse des représentations visuelles des altérations du corps humain dues à des maladies ou à des lésions, ou l’action d’un médicament dans le corps humain ou des parties de celui-ci;
+- utiliserait de manière abusive, effrayante ou trompeuse des représentations visuelles des altérations du corps humain dues à des maladies ou à des lésions, ou l’action d’un médicament dans le corps humain ou des parties de celui-ci;
 
-12. mentionnerait que le médicament a reçu une autorisation de mise sur le marché.
+- mentionnerait que le médicament a reçu une autorisation de mise sur le marché.
 
 ##### Section 3.- La publicité auprès des professionnels de la santé
 
 <a id="art-22"></a>
 ## Art. 22.
 
-1. Toute publicité faite à l’égard d’un médicament auprès des personnes habilitées à le prescrire ou à le délivrer doit comporter:
+- Toute publicité faite à l’égard d’un médicament auprès des personnes habilitées à le prescrire ou à le délivrer doit comporter:
 
-- les informations essentielles compatibles avec le résumé des caractéristiques du produit,
+  - les informations essentielles compatibles avec le résumé des caractéristiques du produit,
 
-- la classification du médicament en matière de délivrance.
+  - la classification du médicament en matière de délivrance.
 
-2. La publicité faite à l’égard d’un médicament auprès des personnes habilitées à le prescrire ou à le délivrer peut, par dérogation au paragraphe 1, ne comporter que le nom du médicament, sa dénomination commune internationale, lorsqu’elle existe, ou la marque du médicament, lorsqu’elle a pour objet exclusif de rappeler celle-ci.
+- La publicité faite à l’égard d’un médicament auprès des personnes habilitées à le prescrire ou à le délivrer peut, par dérogation au paragraphe 1, ne comporter que le nom du médicament, sa dénomination commune internationale, lorsqu’elle existe, ou la marque du médicament, lorsqu’elle a pour objet exclusif de rappeler celle-ci.
 
 <a id="art-23"></a>
 ## Art. 23.
 
-1. Toute documentation relative à un médicament, qui est communiquée dans le cadre de la promotion de ce médicament auprès des personnes habilitées à le prescrire ou à le délivrer, doit inclure au moins les informations visées à l’article 22 paragraphe 1 et préciser la date à laquelle elle a été établie ou révisée en dernier lieu.
+- Toute documentation relative à un médicament, qui est communiquée dans le cadre de la promotion de ce médicament auprès des personnes habilitées à le prescrire ou à le délivrer, doit inclure au moins les informations visées à l’article 22 paragraphe 1 et préciser la date à laquelle elle a été établie ou révisée en dernier lieu.
 
-2. Toutes les informations contenues dans la documentation visée au paragraphe 1 doivent être exactes, actuelles, vérifiables et suffisamment complètes pour permettre au destinataire de se faire une idée personnelle de la valeur thérapeutique du médicament.
+- Toutes les informations contenues dans la documentation visée au paragraphe 1 doivent être exactes, actuelles, vérifiables et suffisamment complètes pour permettre au destinataire de se faire une idée personnelle de la valeur thérapeutique du médicament.
 
-3. Les citations, tableaux et autres illustrations empruntées à des revues médicales ou à des ouvrages scientifiques, qui sont utilisés dans la documentation visée au paragraphe 1, doivent être reproduits fidèlement et la source exacte doit être précisée.
+- Les citations, tableaux et autres illustrations empruntées à des revues médicales ou à des ouvrages scientifiques, qui sont utilisés dans la documentation visée au paragraphe 1, doivent être reproduits fidèlement et la source exacte doit être précisée.
 
 <a id="art-24"></a>
 ## Art. 24.
 
-1. Les délégués médicaux doivent être formés par la firme qui les emploie de façon adéquate et posséder des connaissances scientifiques suffisantes pour donner des renseignements précis et aussi complets que possible sur les médicaments qu’ils présentent.
+- Les délégués médicaux doivent être formés par la firme qui les emploie de façon adéquate et posséder des connaissances scientifiques suffisantes pour donner des renseignements précis et aussi complets que possible sur les médicaments qu’ils présentent.
 
-2. Lors de chaque visite, les délégués médicaux sont tenus de remettre à la personne visitée ou de tenir à sa disposition, pour chacun des médicaments qu’ils présentent, le résumé des caractéristiques du produit.
+- Lors de chaque visite, les délégués médicaux sont tenus de remettre à la personne visitée ou de tenir à sa disposition, pour chacun des médicaments qu’ils présentent, le résumé des caractéristiques du produit.
 
-3. Les délégués médicaux sont tenus de rapporter au service scientifique visé à l’article 29 paragraphe 1 toutes les informations relatives à l’utilisation des médicaments dont ils assurent la publicité, en particulier en ce qui concerne les effets indésirables qui leur sont communiqués par les personnes visitées.
+- Les délégués médicaux sont tenus de rapporter au service scientifique visé à l’article 29 paragraphe 1 toutes les informations relatives à l’utilisation des médicaments dont ils assurent la publicité, en particulier en ce qui concerne les effets indésirables qui leur sont communiqués par les personnes visitées.
 
 <a id="art-25"></a>
 ## Art. 25.
 
-1. Dans le cadre de la promotion des médicaments auprès des personnes habilitées à les prescrire ou à les délivrer, il est interdit d’octroyer, d’offrir ou de promettre à ces personnes une prime, un avantage pécuniaire ou un avantage en nature à moins que ceux-ci ne soient de valeur négligeable et n’aient trait à l’exercice de la médecine ou de la pharmacie.
+- Dans le cadre de la promotion des médicaments auprès des personnes habilitées à les prescrire ou à les délivrer, il est interdit d’octroyer, d’offrir ou de promettre à ces personnes une prime, un avantage pécuniaire ou un avantage en nature à moins que ceux-ci ne soient de valeur négligeable et n’aient trait à l’exercice de la médecine ou de la pharmacie.
 
-2. L’hospitalité offerte, lors de manifestations de promotion de médicaments, doit toujours être strictement limitée à leur objectif principal; elle ne doit pas être étendue à des personnes autres que les professionnels de santé.
+- L’hospitalité offerte, lors de manifestations de promotion de médicaments, doit toujours être strictement limitée à leur objectif principal; elle ne doit pas être étendue à des personnes autres que les professionnels de santé.
 
-3. Les personnes habilitées à prescrire ou à délivrer des médicaments ne peuvent solliciter ou accepter aucune des incitations interdites en vertu du paragraphe 1 ou contraires aux dispositions du paragraphe 2.
+- Les personnes habilitées à prescrire ou à délivrer des médicaments ne peuvent solliciter ou accepter aucune des incitations interdites en vertu du paragraphe 1 ou contraires aux dispositions du paragraphe 2.
 
-4. Les mesures ou pratiques commerciales existantes entre le commerce de gros et le commerce de détail en matière de prix, de marges et de remises ne sont pas affectées par le présent article.
+- Les mesures ou pratiques commerciales existantes entre le commerce de gros et le commerce de détail en matière de prix, de marges et de remises ne sont pas affectées par le présent article.
 
 <a id="art-26"></a>
 ## Art. 26.
@@ -990,19 +990,19 @@ Les dispositions de l’article 25, paragraphe 1, ne font pas obstacle à l’ho
 
 Des échantillons gratuits ne peuvent être remis à titre exceptionnel qu’aux personnes habilitées à prescrire et dans les conditions suivantes:
 
-1. un nombre limité d’échantillons pour chaque médicament par an et par prescripteur;
+- un nombre limité d’échantillons pour chaque médicament par an et par prescripteur;
 
-2. chaque fourniture d’échantillon doit répondre à une demande écrite, datée et signée, émanant du destinataire;
+- chaque fourniture d’échantillon doit répondre à une demande écrite, datée et signée, émanant du destinataire;
 
-3. il doit exister, chez les personnes remettant des échantillons, un système approprié de contrôle et de responsabilité;
+- il doit exister, chez les personnes remettant des échantillons, un système approprié de contrôle et de responsabilité;
 
-4. aucun échantillon ne doit être plus grand que le plus petit conditionnement commercialisé;
+- aucun échantillon ne doit être plus grand que le plus petit conditionnement commercialisé;
 
-5. chaque échantillon doit porter la mention «échantillon médical gratuit - ne peut être vendu» ou toute autre indication de signification analogue;
+- chaque échantillon doit porter la mention «échantillon médical gratuit - ne peut être vendu» ou toute autre indication de signification analogue;
 
-6. chaque échantillon doit être accompagné d’une copie du résumé des caractéristiques du produit;
+- chaque échantillon doit être accompagné d’une copie du résumé des caractéristiques du produit;
 
-7. aucun échantillon de médicaments contenant des psychotropes ou des stupéfiants, au sens des conventions internationales, ne peut être délivré.
+- aucun échantillon de médicaments contenant des psychotropes ou des stupéfiants, au sens des conventions internationales, ne peut être délivré.
 
 ##### Section 4.- Le contrôle de la publicité
 
@@ -1014,19 +1014,19 @@ La Division de la Pharmacie et des Médicaments de la Direction de la Santé est
 <a id="art-29"></a>
 ## Art. 29.
 
-1. Le responsable de la mise sur le marché établit au sein de son entreprise un service scientifique chargé de l’information relative aux médicaments qu’il met sur le marché.
+- Le responsable de la mise sur le marché établit au sein de son entreprise un service scientifique chargé de l’information relative aux médicaments qu’il met sur le marché.
 
-2. Le responsable de la mise sur le marché:
+- Le responsable de la mise sur le marché:
 
-- tient à la disposition des autorités ou organes chargés du contrôle de la publicité pharmaceutique ou leur communique un exemplaire de toute publicité émise par son entreprise, accompagné d’une fiche indiquant les destinataires, le mode de diffusion et la date de première diffusion,
+  - tient à la disposition des autorités ou organes chargés du contrôle de la publicité pharmaceutique ou leur communique un exemplaire de toute publicité émise par son entreprise, accompagné d’une fiche indiquant les destinataires, le mode de diffusion et la date de première diffusion,
 
-- s’assure que la publicité pharmaceutique faite par son entreprise est conforme aux prescriptions du présent règlement,
+  - s’assure que la publicité pharmaceutique faite par son entreprise est conforme aux prescriptions du présent règlement,
 
-- vérifie que les délégués médicaux employés par son entreprise sont formés de façon adéquate et respectent les obligations qui leur incombent en vertu de l’article 24 paragraphes 2 et 3,
+  - vérifie que les délégués médicaux employés par son entreprise sont formés de façon adéquate et respectent les obligations qui leur incombent en vertu de l’article 24 paragraphes 2 et 3,
 
-- fournit aux autorités ou organes chargés du contrôle de la publicité pharmaceutique l’information et l’assistance que ceux-ci requièrent dans l’exercice de leurs compétences,
+  - fournit aux autorités ou organes chargés du contrôle de la publicité pharmaceutique l’information et l’assistance que ceux-ci requièrent dans l’exercice de leurs compétences,
 
-- veille à ce que les décisions prises par les autorités ou organes chargés du contrôle de la publicité pharmaceutique soient immédiatement et complètement respectées.
+  - veille à ce que les décisions prises par les autorités ou organes chargés du contrôle de la publicité pharmaceutique soient immédiatement et complètement respectées.
 
 #### Chapitre 4.- Classification des médicaments
 
@@ -1048,65 +1048,65 @@ Il applique à cette fin les critères énumérés à l’article 31 paragraphe 
 
 Médicaments soumis à prescription médicale.
 
-1. Les médicaments sont soumis à prescription médicale lorsqu’ils:
+- Les médicaments sont soumis à prescription médicale lorsqu’ils:
 
-- sont susceptibles de présenter un danger, directement ou indirectement, même dans les conditions normales d’emploi, s’ils sont utilisés sans surveillance médicale, ou
+  - sont susceptibles de présenter un danger, directement ou indirectement, même dans les conditions normales d’emploi, s’ils sont utilisés sans surveillance médicale, ou
 
-- sont utilisés souvent, et dans une très large mesure, dans des conditions anormales d’emploi et que cela risque de mettre en danger directement ou indirectement la santé, ou
+  - sont utilisés souvent, et dans une très large mesure, dans des conditions anormales d’emploi et que cela risque de mettre en danger directement ou indirectement la santé, ou
 
-- contiennent des substances ou des préparations à base de ces substances, dont il est indispensable d’approfondir l’activité et/ou les effets secondaires, ou
+  - contiennent des substances ou des préparations à base de ces substances, dont il est indispensable d’approfondir l’activité et/ou les effets secondaires, ou
 
-- sont, sauf exception, destinés à être administrés par voie parentérale.
+  - sont, sauf exception, destinés à être administrés par voie parentérale.
 
-2. Les médicaments soumis à prescription médicale sont classés dans une ou plusieurs des catégories suivantes:
+- Les médicaments soumis à prescription médicale sont classés dans une ou plusieurs des catégories suivantes:
 
-1. Les médicaments sur prescription médicale renouvelable, caractérisés par le signe «R». Le renouvellement de la délivrance d’un médicament soumis à prescription médicale renouvelable est autorisé, même sans mention apportée par le prescripteur, à condition que celui-ci ne l’ait pas défendu expressément et que les quantités délivrées lors des renouvellements et leurs fréquences soient en adéquation avec les données médicales et pharmaceutiques. Toutefois le renouvellement non mentionné par le prescripteur ne peut avoir pour effet de prolonger le traitement au-delà de trois mois à partir de la date d’émission de l’ordonnance.
+  - Les médicaments sur prescription médicale renouvelable, caractérisés par le signe «R». Le renouvellement de la délivrance d’un médicament soumis à prescription médicale renouvelable est autorisé, même sans mention apportée par le prescripteur, à condition que celui-ci ne l’ait pas défendu expressément et que les quantités délivrées lors des renouvellements et leurs fréquences soient en adéquation avec les données médicales et pharmaceutiques. Toutefois le renouvellement non mentionné par le prescripteur ne peut avoir pour effet de prolonger le traitement au-delà de trois mois à partir de la date d’émission de l’ordonnance.
 
-2. Les médicaments sur prescription médicale non renouvelable, caractérisés par le signe «RR». Le renouvellement de la délivrance d’un médicament soumis à prescription médicale non renouvelable n’est autorisé que dans la mesure ou le prescripteur en a fait mention expresse sur l’ordonnance.
+  - Les médicaments sur prescription médicale non renouvelable, caractérisés par le signe «RR». Le renouvellement de la délivrance d’un médicament soumis à prescription médicale non renouvelable n’est autorisé que dans la mesure ou le prescripteur en a fait mention expresse sur l’ordonnance.
 
-3. Les médicaments sur prescription médicale spéciale, caractérisés par le signe «S». Sont classés comme médicaments sur prescription médicale spéciale les médicaments visés à l’article 7 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie et aux règlements grand-ducaux pris en son exécution. Le renouvellement de la délivrance de ces médicaments n’est pas autorisé.
+  - Les médicaments sur prescription médicale spéciale, caractérisés par le signe «S». Sont classés comme médicaments sur prescription médicale spéciale les médicaments visés à l’article 7 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie et aux règlements grand-ducaux pris en son exécution. Le renouvellement de la délivrance de ces médicaments n’est pas autorisé.
 
-4. Les médicaments soumis à prescription médicale restreinte. Sont classés dans cette catégorie, les médicaments réservés à certains milieux spécialisés dont question au point 3. ci-après.
+  - Les médicaments soumis à prescription médicale restreinte. Sont classés dans cette catégorie, les médicaments réservés à certains milieux spécialisés dont question au point 3. ci-après.
 
-3. Les médicaments soumis à prescription médicale restreinte sont classés dans une ou plusieurs des souscatégories de médicaments suivantes:
+- Les médicaments soumis à prescription médicale restreinte sont classés dans une ou plusieurs des souscatégories de médicaments suivantes:
 
-- médicaments réservés à l’usage hospitalier;
+  - médicaments réservés à l’usage hospitalier;
 
-- médicaments à délivrance exclusivement hospitalière;
+  - médicaments à délivrance exclusivement hospitalière;
 
-- médicaments à prescription initiale hospitalière;
+  - médicaments à prescription initiale hospitalière;
 
-- médicaments à prescription réservée à certains médecins spécialisés dans le domaine requis;
+  - médicaments à prescription réservée à certains médecins spécialisés dans le domaine requis;
 
-- médicaments à prescription initiale réservée à certains médecins spécialisés dans le domaine requis;
+  - médicaments à prescription initiale réservée à certains médecins spécialisés dans le domaine requis;
 
-- médicaments réservés à l’usage professionnel;
+  - médicaments réservés à l’usage professionnel;
 
-- médicaments nécessitant une surveillance particulière pendant le traitement.
+  - médicaments nécessitant une surveillance particulière pendant le traitement.
 
-1. Les médicaments réservés à l’usage hospitalier, caractérisés par le signe «H»
+  - Les médicaments réservés à l’usage hospitalier, caractérisés par le signe «H»
 
-1. Sont classés dans cette sous-catégorie les médicaments qui, du fait de leurs caractéristiques pharmacologiques, de leur degré d’innovation, ou pour un autre motif de santé publique, sont réservés à des traitements qui ne peuvent être effectués qu’en milieu hospitalier.
+    - Sont classés dans cette sous-catégorie les médicaments qui, du fait de leurs caractéristiques pharmacologiques, de leur degré d’innovation, ou pour un autre motif de santé publique, sont réservés à des traitements qui ne peuvent être effectués qu’en milieu hospitalier.
 
-2. La prescription se fait en milieu hospitalier. La délivrance est réservée aux pharmacies hospitalières. L’administration est faite en milieu hospitalier.
+    - La prescription se fait en milieu hospitalier. La délivrance est réservée aux pharmacies hospitalières. L’administration est faite en milieu hospitalier.
 
-3. A titre exceptionnel et sans préjudice du point 3.1.4., la délivrance à des patients ne séjournant pas en milieu hospitalier peut être faite sur avis positif du directeur de la Santé ou de son délégué. Le médecin traitant précise dans sa demande d’avis les raisons exceptionnelles motivant la demande, ainsi que les mesures de précaution particulières prises pour assurer la sécurité de la délivrance à des patients ne séjournant pas en milieu hospitalier. L’avis positif du directeur de la Santé ou de son délégué ne dégage pas le médecin-traitant de sa responsabilité.
+    - A titre exceptionnel et sans préjudice du point 3.1.4., la délivrance à des patients ne séjournant pas en milieu hospitalier peut être faite sur avis positif du directeur de la Santé ou de son délégué. Le médecin traitant précise dans sa demande d’avis les raisons exceptionnelles motivant la demande, ainsi que les mesures de précaution particulières prises pour assurer la sécurité de la délivrance à des patients ne séjournant pas en milieu hospitalier. L’avis positif du directeur de la Santé ou de son délégué ne dégage pas le médecin-traitant de sa responsabilité.
 
-4. Par dérogation aux dispositions des points 3.1.1. à 3.1.3., les médicaments destinés aux soins palliatifs ou aux soins urgents des personnes hébergées peuvent être dispensés dans une structure d’hébergement pour personnes âgées au sens de la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées, à condition de disposer d’un dépôt de médicaments établi conformément aux dispositions de l’article 4 de la loi modifiée du 25 novembre 1975 concernant la délivrance au public des médicaments. La prescription des médicaments visés à l’alinéa 1er est réalisée par un médecin autorisé à exercer sa profession au Luxembourg.
+    - Par dérogation aux dispositions des points 3.1.1. à 3.1.3., les médicaments destinés aux soins palliatifs ou aux soins urgents des personnes hébergées peuvent être dispensés dans une structure d’hébergement pour personnes âgées au sens de la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées, à condition de disposer d’un dépôt de médicaments établi conformément aux dispositions de l’article 4 de la loi modifiée du 25 novembre 1975 concernant la délivrance au public des médicaments. La prescription des médicaments visés à l’alinéa 1er est réalisée par un médecin autorisé à exercer sa profession au Luxembourg.
 
-2. Les médicaments à prescription initiale hospitalière, caractérisés par le signe «I» Sont classés dans cette sous-catégorie les médicaments qui sont utilisés dans le traitement de maladies qui sont habituellement diagnostiquées en un milieu hospitalier disposant de moyens de diagnostic adéquats, mais dont l’administration et le suivi peuvent se faire hors de l’hôpital. La prescription initiale est réservée aux médecins attachés à un hôpital ou y agréés. La prescription subséquente peut avoir lieu par tout prescripteur, à condition que celle-ci soit accompagnée d’une copie de la prescription initiale. La délivrance est faite après vérification par le pharmacien que le prescripteur initial est attaché à un hôpital ou y agréé. L’autorisation de mise sur le marché peut fixer un délai maximal de renouvellement au terme duquel la prescription initiale devient caduque et ne peut plus être renouvelée. Le prolongement du traitement nécessite l’établissement d’une nouvelle prescription initiale par un médecin attaché à un hôpital ou y agréé.
+  - Les médicaments à prescription initiale hospitalière, caractérisés par le signe «I» Sont classés dans cette sous-catégorie les médicaments qui sont utilisés dans le traitement de maladies qui sont habituellement diagnostiquées en un milieu hospitalier disposant de moyens de diagnostic adéquats, mais dont l’administration et le suivi peuvent se faire hors de l’hôpital. La prescription initiale est réservée aux médecins attachés à un hôpital ou y agréés. La prescription subséquente peut avoir lieu par tout prescripteur, à condition que celle-ci soit accompagnée d’une copie de la prescription initiale. La délivrance est faite après vérification par le pharmacien que le prescripteur initial est attaché à un hôpital ou y agréé. L’autorisation de mise sur le marché peut fixer un délai maximal de renouvellement au terme duquel la prescription initiale devient caduque et ne peut plus être renouvelée. Le prolongement du traitement nécessite l’établissement d’une nouvelle prescription initiale par un médecin attaché à un hôpital ou y agréé.
 
-3. Les médicaments à délivrance exclusivement hospitalière, caractérisés par le signe «D» Sont classés dans cette sous-catégorie les médicaments dont la délivrance exclusivement hospitalière se justifie par les caractéristiques pharmacologiques et le degré d’innovation du médicament ou par un autre motif de santé publique. La délivrance, réservée aux pharmacies hospitalières, peut être faite à des patients ne séjournant pas en milieu hospitalier.
+  - Les médicaments à délivrance exclusivement hospitalière, caractérisés par le signe «D» Sont classés dans cette sous-catégorie les médicaments dont la délivrance exclusivement hospitalière se justifie par les caractéristiques pharmacologiques et le degré d’innovation du médicament ou par un autre motif de santé publique. La délivrance, réservée aux pharmacies hospitalières, peut être faite à des patients ne séjournant pas en milieu hospitalier.
 
-4. Les médicaments à prescription réservée à certains médecins spécialisés dans le domaine requis, caractérisés par le signe «C» Sont classés dans cette sous-catégorie les médicaments dont la prescription réservée à certains médecins spécialisés dans le domaine requis se justifie par des contraintes particulières de mise en œuvre du traitement, eu égard à la spécificité de la pathologie pour laquelle ils sont indiqués et aux caractéristiques pharmacologiques du médicament, à ses effets indésirables très graves, à son degré d’innovation, à la mise en place d’une mesure de surveillance particulière ou eu égard à un autre motif de santé publique. Lorsque le cercle des médecins spécialisés dans le domaine requis correspond à une spécialité médicale déterminée, la délivrance ne peut avoir lieu qu’après vérification par le pharmacien que le prescripteur relève de la spécialité médicale correspondante.
+  - Les médicaments à prescription réservée à certains médecins spécialisés dans le domaine requis, caractérisés par le signe «C» Sont classés dans cette sous-catégorie les médicaments dont la prescription réservée à certains médecins spécialisés dans le domaine requis se justifie par des contraintes particulières de mise en œuvre du traitement, eu égard à la spécificité de la pathologie pour laquelle ils sont indiqués et aux caractéristiques pharmacologiques du médicament, à ses effets indésirables très graves, à son degré d’innovation, à la mise en place d’une mesure de surveillance particulière ou eu égard à un autre motif de santé publique. Lorsque le cercle des médecins spécialisés dans le domaine requis correspond à une spécialité médicale déterminée, la délivrance ne peut avoir lieu qu’après vérification par le pharmacien que le prescripteur relève de la spécialité médicale correspondante.
 
-5. Les médicaments à prescription initiale réservée à certains médecins spécialisés dans le domaine requis, caractérisés par le signe «F» Sont classés dans cette sous-catégorie les médicaments dont la prescription initiale réservée à certains médecins spécialisés dans le domaine requis se justifie par des contraintes particulières de mise en œuvre du traitement, eu égard à la spécificité de la pathologie pour laquelle ils sont indiqués et aux caractéristiques pharmacologiques du médicament, à ses effets indésirables très graves, à son degré d’innovation, à la mise en place d’une mesure de surveillance particulière ou eu égard à un autre motif de santé publique. La prescription subséquente peut être établie par tout prescripteur, à condition que celle-ci soit accompagnée d’une copie de la prescription initiale. Lorsque le cercle des médecins spécialisés dans le domaine requis correspond à une spécialité médicale déterminée, la délivrance ne peut avoir lieu qu’après vérification par le pharmacien que le prescripteur initial relève de la spécialité médicale correspondante. L’autorisation de mise sur le marché peut fixer un délai maximal de renouvellement au terme duquel la prescription initiale devient caduque et ne peut plus être renouvelée sans l’élaboration d’une nouvelle prescription initiale par un médecin spécialisé dans le domaine requis.
+  - Les médicaments à prescription initiale réservée à certains médecins spécialisés dans le domaine requis, caractérisés par le signe «F» Sont classés dans cette sous-catégorie les médicaments dont la prescription initiale réservée à certains médecins spécialisés dans le domaine requis se justifie par des contraintes particulières de mise en œuvre du traitement, eu égard à la spécificité de la pathologie pour laquelle ils sont indiqués et aux caractéristiques pharmacologiques du médicament, à ses effets indésirables très graves, à son degré d’innovation, à la mise en place d’une mesure de surveillance particulière ou eu égard à un autre motif de santé publique. La prescription subséquente peut être établie par tout prescripteur, à condition que celle-ci soit accompagnée d’une copie de la prescription initiale. Lorsque le cercle des médecins spécialisés dans le domaine requis correspond à une spécialité médicale déterminée, la délivrance ne peut avoir lieu qu’après vérification par le pharmacien que le prescripteur initial relève de la spécialité médicale correspondante. L’autorisation de mise sur le marché peut fixer un délai maximal de renouvellement au terme duquel la prescription initiale devient caduque et ne peut plus être renouvelée sans l’élaboration d’une nouvelle prescription initiale par un médecin spécialisé dans le domaine requis.
 
-6. Les médicaments réservés à l’usage professionnel, caractérisés par le signe «P» Sont classés dans la catégorie des médicaments réservés à l’usage professionnel, les médicaments nécessaires à l’exécution d’un acte médical ou au diagnostic d’une maladie.
+  - Les médicaments réservés à l’usage professionnel, caractérisés par le signe «P» Sont classés dans la catégorie des médicaments réservés à l’usage professionnel, les médicaments nécessaires à l’exécution d’un acte médical ou au diagnostic d’une maladie.
 
-7. Les médicaments nécessitant une surveillance particulière pendant le traitement, caractérisés par le signe «V» Sont classés dans la catégorie des médicaments à surveillance particulière, les médicaments dont l’emploi peut provoquer des effets indésirables graves et dont la prescription doit en conséquence être subordonnée à la réalisation d’examens périodiques auxquels le patient doit se soumettre conformément au résumé des caractéristiques du produit. L’autorisation de mise sur le marché peut prévoir que, lorsqu’il prescrit le médicament, le prescripteur doit mentionner sur l’ordonnance que les examens ont été effectués et que les conditions sont respectées. Elle peut aussi lui imposer d’indiquer sur l’ordonnance la date de réalisation de ces examens et le délai au terme duquel l’ordonnance, en l’absence de réalisation des examens requis, devient caduque. Enfin, elle peut subordonner la mise sur le marché du médicament, eu égard à la surveillance dont il doit faire l’objet, à ce qu’un support d’information ou de suivi du traitement soit mis à la disposition des prescripteurs, des pharmaciens ou des patients par le titulaire de l’autorisation de mise sur le marché.
+  - Les médicaments nécessitant une surveillance particulière pendant le traitement, caractérisés par le signe «V» Sont classés dans la catégorie des médicaments à surveillance particulière, les médicaments dont l’emploi peut provoquer des effets indésirables graves et dont la prescription doit en conséquence être subordonnée à la réalisation d’examens périodiques auxquels le patient doit se soumettre conformément au résumé des caractéristiques du produit. L’autorisation de mise sur le marché peut prévoir que, lorsqu’il prescrit le médicament, le prescripteur doit mentionner sur l’ordonnance que les examens ont été effectués et que les conditions sont respectées. Elle peut aussi lui imposer d’indiquer sur l’ordonnance la date de réalisation de ces examens et le délai au terme duquel l’ordonnance, en l’absence de réalisation des examens requis, devient caduque. Enfin, elle peut subordonner la mise sur le marché du médicament, eu égard à la surveillance dont il doit faire l’objet, à ce qu’un support d’information ou de suivi du traitement soit mis à la disposition des prescripteurs, des pharmaciens ou des patients par le titulaire de l’autorisation de mise sur le marché.
 
-4. La durée maximale du traitement prescrit L’autorisation de mise sur le marché peut définir une durée maximale de traitement prescriptible par ordonnance. Aucune ordonnance ne peut excéder cette durée.
+- La durée maximale du traitement prescrit L’autorisation de mise sur le marché peut définir une durée maximale de traitement prescriptible par ordonnance. Aucune ordonnance ne peut excéder cette durée.
 
 <a id="art-32"></a>
 ## Art. 32.
@@ -1120,18 +1120,18 @@ Les médicaments non soumis à prescription sont ceux qui ne répondent pas aux 
 
 Liste de médicaments soumis à prescription.
 
-1. Le ministre de la Santé établit la liste des médicaments dont la délivrance est soumise à l’obligation de prescription médicale, en précisant la catégorie de classement. Il met à jour cette liste annuellement.
+- Le ministre de la Santé établit la liste des médicaments dont la délivrance est soumise à l’obligation de prescription médicale, en précisant la catégorie de classement. Il met à jour cette liste annuellement.
 
-2. A l’occasion du renouvellement quinquennal de l’autorisation de mise sur le marché, ou lorsque des éléments nouveaux sont portés à la connaissance du ministre, celui-ci réexamine et, le cas échéant, modifie la classification d’un médicament, en appliquant les critères énumérés à l’article 31.
+- A l’occasion du renouvellement quinquennal de l’autorisation de mise sur le marché, ou lorsque des éléments nouveaux sont portés à la connaissance du ministre, celui-ci réexamine et, le cas échéant, modifie la classification d’un médicament, en appliquant les critères énumérés à l’article 31.
 
 <a id="art-34"></a>
 ## Art. 34.
 
 Communications.
 
-1. Le ministre communique à la Commission et, à leur demande, aux autres Etats membres la liste visée à l’article 33 paragraphe 1.
+- Le ministre communique à la Commission et, à leur demande, aux autres Etats membres la liste visée à l’article 33 paragraphe 1.
 
-2. Chaque année, le ministre communique à la Commission et aux autres Etats membres les modifications apportées à la liste visée au paragraphe 1.
+- Chaque année, le ministre communique à la Commission et aux autres Etats membres les modifications apportées à la liste visée au paragraphe 1.
 
 #### Chapitre 5.- Catégories spéciales de médicaments
 
@@ -1140,22 +1140,22 @@ Communications.
 <a id="art-35"></a>
 ## Art. 35.
 
-1. Les dispositions du présent règlement s’appliquent aux médicaments immunologiques à usage humain consistant en vaccins, toxines, sérums ou allergènes, sous réserve des dispositions particulières ci-après.
+- Les dispositions du présent règlement s’appliquent aux médicaments immunologiques à usage humain consistant en vaccins, toxines, sérums ou allergènes, sous réserve des dispositions particulières ci-après.
 
-2. Pour l’application de la présente section on entend par:
+- Pour l’application de la présente section on entend par:
 
-- «produit allergène», tout produit destiné à identifier ou provoquer une modification spécifique et acquise de la réponse immunologique à un agent allergisant;
+  - «produit allergène», tout produit destiné à identifier ou provoquer une modification spécifique et acquise de la réponse immunologique à un agent allergisant;
 
-- «vaccins, toxines et sérums», les vaccins, toxines et sérums tels que définis à l’annexe de la directive 75/319/CEE .
+  - «vaccins, toxines et sérums», les vaccins, toxines et sérums tels que définis à l’annexe de la directive 75/319/CEE .
 
 <a id="art-36"></a>
 ## Art. 36.
 
-1. La description quantitative d’un médicament immunologique doit être exprimée en masse, en unités internationales, en unités d’activités biologique ou en contenu protéique spécifique dans la mesure du possible et ce, en fonction du produit concerné.
+- La description quantitative d’un médicament immunologique doit être exprimée en masse, en unités internationales, en unités d’activités biologique ou en contenu protéique spécifique dans la mesure du possible et ce, en fonction du produit concerné.
 
-2. Pour les produits immunologique l’expression «description qualitative et quantitative des composants» porte sur la description relative à l’activité biologique ou au contenu protéique et «la composition qualitative et quantitative» désigne la composition du produit exprimée en termes d’activité biologique ou de contenu protéique.
+- Pour les produits immunologique l’expression «description qualitative et quantitative des composants» porte sur la description relative à l’activité biologique ou au contenu protéique et «la composition qualitative et quantitative» désigne la composition du produit exprimée en termes d’activité biologique ou de contenu protéique.
 
-3. La dénomination du médicament immunologique doit toujours être accompagnée de la dénomination commune ou scientifique des composants actifs.
+- La dénomination du médicament immunologique doit toujours être accompagnée de la dénomination commune ou scientifique des composants actifs.
 
 <a id="art-37"></a>
 ## Art. 37.
@@ -1169,19 +1169,19 @@ Pour les médicaments immunologiques, outre les renseignements prévus à l’ar
 <a id="art-38"></a>
 ## Art. 38.
 
-1. Les dispositions du présent règlement s’appliquent aux médicaments radiopharmaceutiques à usage humain, à l’exclusion des radionucléides utilisés sous forme scellée, sous réserve des dispositions particulières ci-après.
+- Les dispositions du présent règlement s’appliquent aux médicaments radiopharmaceutiques à usage humain, à l’exclusion des radionucléides utilisés sous forme scellée, sous réserve des dispositions particulières ci-après.
 
-2. Aux fins du présent règlement, on entend par:
+- Aux fins du présent règlement, on entend par:
 
-- «médicament radiopharmaceutique», tout médicament qui, lorsqu’il est prêt à l’emploi, contient un ou plusieurs radionucléides (isotopes radioactifs), incorporés à des fins médicales,
+  - «médicament radiopharmaceutique», tout médicament qui, lorsqu’il est prêt à l’emploi, contient un ou plusieurs radionucléides (isotopes radioactifs), incorporés à des fins médicales,
 
-- «générateur», tout système contenant un radionucléide parent déterminé servant à la production d’un radionucléide de filiation obtenu par élution ou par toute autre méthode et utilisé dans un médicament radiopharmaceutique,
+  - «générateur», tout système contenant un radionucléide parent déterminé servant à la production d’un radionucléide de filiation obtenu par élution ou par toute autre méthode et utilisé dans un médicament radiopharmaceutique,
 
-- «trousse», toute préparation qui doit être reconstituée ou combinée avec des radionucléides dans le produit radiopharmaceutique final, généralement avant son administration,
+  - «trousse», toute préparation qui doit être reconstituée ou combinée avec des radionucléides dans le produit radiopharmaceutique final, généralement avant son administration,
 
-- «précurseur», tout autre radionucléide produit pour le marquage radioactif d’une autre substance avant administration.
+  - «précurseur», tout autre radionucléide produit pour le marquage radioactif d’une autre substance avant administration.
 
-3. Il n’est pas dérogé aux dispositions légales et réglementaires relatives à la protection radiologique des personnes soumises à des examens ou traitements médicaux,ni à celles fixant les normes de base relatives à la protection sanitaire de la population et des travailleurs contre les dangers résultant des rayonnements ionisants.
+- Il n’est pas dérogé aux dispositions légales et réglementaires relatives à la protection radiologique des personnes soumises à des examens ou traitements médicaux,ni à celles fixant les normes de base relatives à la protection sanitaire de la population et des travailleurs contre les dangers résultant des rayonnements ionisants.
 
 <a id="art-39"></a>
 ## Art. 39.
@@ -1204,28 +1204,28 @@ Outre les exigences figurant à l’article 1er du présent règlement une deman
 
 Pour les médicaments radiopharmaceutiques, outre les informations mentionnées à l’article 2 du présent règlement, le résumé des caractéristiques du produit cité à l’article 1er point 9 doit contenir les points 7 et 8 supplémentaires suivants:
 
-1. Détails complets sur la dosimétie interne des rayonnements.
+- Détails complets sur la dosimétie interne des rayonnements.
 
-2. Instructions supplémentaires détaillées pour la préparation extemporanée et le contrôle de qualité de cette préparation et, le cas échéant, période maximum de stockage durant laquelle toute préparation intermédiaire, telle que l’éluat ou le produit radiopharmaceutique prêt à l’emploi, répond aux spécifications prévues.
+- Instructions supplémentaires détaillées pour la préparation extemporanée et le contrôle de qualité de cette préparation et, le cas échéant, période maximum de stockage durant laquelle toute préparation intermédiaire, telle que l’éluat ou le produit radiopharmaceutique prêt à l’emploi, répond aux spécifications prévues.
 
 <a id="art-42"></a>
 ## Art. 42.
 
 L’emballage extérieur et le récipient de médicaments contenant des radionucléides doivent être étiquetés conformément aux réglementations de l’Agence internationale de l’énergie atomique sur la sécurité du transport des matériaux radioactifs.De plus, l’étiquetage doit répondre aux dispositions énoncées ci-après:
 
-1. l’étiquetage du blindage de protection doit comporter les renseignements mentionnés à l’article 10 du présent règlement. En outre, l’étiquetage du blindage de protection doit fournir toutes les explications relatives aux codes utilisés sur le flacon et, pour une heure et date données, indiquer s’il y a lieu la quantité totale ou unitaire de radioactivité et le nombre de capsules ou, pour les liquides, le nombre de millilitres contenus dans le récipient;
+- l’étiquetage du blindage de protection doit comporter les renseignements mentionnés à l’article 10 du présent règlement. En outre, l’étiquetage du blindage de protection doit fournir toutes les explications relatives aux codes utilisés sur le flacon et, pour une heure et date données, indiquer s’il y a lieu la quantité totale ou unitaire de radioactivité et le nombre de capsules ou, pour les liquides, le nombre de millilitres contenus dans le récipient;
 
-2. l’étiquetage du flacon doit comporter les renseignements suivants:
+- l’étiquetage du flacon doit comporter les renseignements suivants:
 
-- le nom ou code du médicament, y compris le nom ou symbole chimique du radionucléide;
+  - le nom ou code du médicament, y compris le nom ou symbole chimique du radionucléide;
 
-- l’identification du lot et la date de péremption;
+  - l’identification du lot et la date de péremption;
 
-- le symbole international de la radioactivité;
+  - le symbole international de la radioactivité;
 
-- le nom et l’adresse du fabricant;
+  - le nom et l’adresse du fabricant;
 
-- la quantité de radioactivité comme spécifié au point a).
+  - la quantité de radioactivité comme spécifié au point a).
 
 <a id="art-43"></a>
 ## Art. 43.
@@ -1237,18 +1237,18 @@ Une notice d’instructions détaillées doit être jointe au conditionnement de
 <a id="art-44"></a>
 ## Art. 44.
 
-1. Les dispositions du présent règlement s’appliquent aux médicaments à base de composants de sang préparés industriellement par des établissements publics ou privés, ci-après dénommés «médicaments dérivés du sang ou du plasma humains» sous réserve des dispositions particulières ci-après. Ces médicaments comprennent notamment l’albumine, les facteurs de coagulation et les immunoglobulines d’origine humaine.
+- Les dispositions du présent règlement s’appliquent aux médicaments à base de composants de sang préparés industriellement par des établissements publics ou privés, ci-après dénommés «médicaments dérivés du sang ou du plasma humains» sous réserve des dispositions particulières ci-après. Ces médicaments comprennent notamment l’albumine, les facteurs de coagulation et les immunoglobulines d’origine humaine.
 
-2. Le présent règlement ne s’applique pas au sang total, au plasma, ni aux cellules sanguines d’origine humaine.
+- Le présent règlement ne s’applique pas au sang total, au plasma, ni aux cellules sanguines d’origine humaine.
 
 <a id="art-45"></a>
 ## Art. 45.
 
-1. La description quantitative d’un médicament dérivé du sang ou du plasma humains doit être exprimée en masse, en unités internationales ou en unités d’activité biologique, et ce en fonction du produit concerné.
+- La description quantitative d’un médicament dérivé du sang ou du plasma humains doit être exprimée en masse, en unités internationales ou en unités d’activité biologique, et ce en fonction du produit concerné.
 
-2. Pour l’application du chapitre 1 er l’expression «description qualitative et quantitative des composants» désigne la description relative à l’activité biologique, et l’expression «la composition qualitative et quantitative» désigne la composition du produit exprimé en termes d’activité biologique.
+- Pour l’application du chapitre 1 er l’expression «description qualitative et quantitative des composants» désigne la description relative à l’activité biologique, et l’expression «la composition qualitative et quantitative» désigne la composition du produit exprimé en termes d’activité biologique.
 
-3. Dans tout document établi aux fins du présent règlement où figure la dénomination d’un médicament dérivé du sang ou du plasma humains, la dénomination commune ou scientifique des composants actifs doit être indiquée au moins une fois; elle peut être abrégée dans les autres mentions.
+- Dans tout document établi aux fins du présent règlement où figure la dénomination d’un médicament dérivé du sang ou du plasma humains, la dénomination commune ou scientifique des composants actifs doit être indiquée au moins une fois; elle peut être abrégée dans les autres mentions.
 
 #### Chapitre 5-1.- Pharmacovigilance
 
@@ -1273,17 +1273,17 @@ La direction de la Santé veille à ce que les informations appropriées recueil
 
 Est mis en place un portail web national sur les médicaments, en liaison avec le portail web européen des médicaments institué conformément à l’article 26 du règlement (CE) n° 726/2004. Sont rendus publics via ce portail notamment les éléments suivants:
 
-1. les rapports publics d’évaluation, ainsi qu’une synthèse desdits rapports;
+- les rapports publics d’évaluation, ainsi qu’une synthèse desdits rapports;
 
-2. les résumés des caractéristiques des produits et les notices;
+- les résumés des caractéristiques des produits et les notices;
 
-3. des synthèses des plans de gestion des risques relatifs à des médicaments autorisés conformément à la présente directive;
+- des synthèses des plans de gestion des risques relatifs à des médicaments autorisés conformément à la présente directive;
 
-4. la liste des médicaments visée à l’article 23 du règlement (CE) n° 726/2004 ;
+- la liste des médicaments visée à l’article 23 du règlement (CE) n° 726/2004 ;
 
-5. des informations relatives aux différents modes de notification des effets indésirables suspectés des médicaments aux autorités nationales compétentes par les professionnels de la santé et les patients, dont les formulaires structurés mis en ligne visés à l’article 25 du règlement (CE) n° 726/2004 ;
+- des informations relatives aux différents modes de notification des effets indésirables suspectés des médicaments aux autorités nationales compétentes par les professionnels de la santé et les patients, dont les formulaires structurés mis en ligne visés à l’article 25 du règlement (CE) n° 726/2004 ;
 
-6. les informations importantes relatives aux questions de pharmacovigilance liées à l’utilisation d’un médicament.
+- les informations importantes relatives aux questions de pharmacovigilance liées à l’utilisation d’un médicament.
 
 Ce portail est placé sous la gestion administrative de la direction de la Santé. Cette tâche peut être déléguée à un centre de pharmacovigilance national ou régional.
 
@@ -1307,36 +1307,36 @@ En dehors de l’hypothèse de l’évaluation unique visée à l’article 107s
 
 En collaboration avec l’Agence, la direction de la Santé:
 
-1. surveille les résultats des mesures de réduction des risques prévues dans les plans de gestion des risques, ainsi que des conditions visées à l’article 8.-2;
+- surveille les résultats des mesures de réduction des risques prévues dans les plans de gestion des risques, ainsi que des conditions visées à l’article 8.-2;
 
-2. évalue les mises à jour du système de gestion des risques;
+- évalue les mises à jour du système de gestion des risques;
 
-3. surveille les informations consignées dans la base de données Eudravigilance en vue de déterminer si des risques nouveaux sont apparus, si les risques existants ont changé et si ces risques ont une incidence sur le rapport bénéfice/ risque des médicaments.
+- surveille les informations consignées dans la base de données Eudravigilance en vue de déterminer si des risques nouveaux sont apparus, si les risques existants ont changé et si ces risques ont une incidence sur le rapport bénéfice/ risque des médicaments.
 
 <a id="art-45-2"></a>
 ## Art. 45-2.
 
 Définitions
 
-1. «effet indésirable»: une réaction nocive et non voulue à un médicament;
+- «effet indésirable»: une réaction nocive et non voulue à un médicament;
 
-2. «effet indésirable grave»: un effet indésirable qui entraîne la mort, met en danger la vie du patient, nécessite une hospitalisation, ou la prolongation de l’hospitalisation, provoque un handicap ou une incapacité importants ou durables ou se traduit par une anomalie/malformation congénitale;
+- «effet indésirable grave»: un effet indésirable qui entraîne la mort, met en danger la vie du patient, nécessite une hospitalisation, ou la prolongation de l’hospitalisation, provoque un handicap ou une incapacité importants ou durables ou se traduit par une anomalie/malformation congénitale;
 
-3. «effet indésirable inattendu»: un effet indésirable dont la nature, la gravité ou l’effet ne concorde pas avec le résumé des caractéristiques du produit;
+- «effet indésirable inattendu»: un effet indésirable dont la nature, la gravité ou l’effet ne concorde pas avec le résumé des caractéristiques du produit;
 
-4. «étude de sécurité postautorisation»: toute étude portant sur un médicament autorisé et visant à identifier, décrire ou quantifier un risque de sécurité, à confirmer le profil de sécurité du médicament ou à mesurer l’efficacité des mesures de gestion des risques;
+- «étude de sécurité postautorisation»: toute étude portant sur un médicament autorisé et visant à identifier, décrire ou quantifier un risque de sécurité, à confirmer le profil de sécurité du médicament ou à mesurer l’efficacité des mesures de gestion des risques;
 
-5. «abus» de médicaments, un usage excessif intentionnel, persistant ou sporadique de médicaments accompagné de réactions physiques ou psychologiques nocives;
+- «abus» de médicaments, un usage excessif intentionnel, persistant ou sporadique de médicaments accompagné de réactions physiques ou psychologiques nocives;
 
-6. «autorité compétente», la direction de la Santé, division de la pharmacie et des médicaments,
+- «autorité compétente», la direction de la Santé, division de la pharmacie et des médicaments,
 
-7. «système de gestion des risques»: un ensemble d’activités et d’interventions de pharmacovigilance ayant pour but d’identifier, de décrire, de prévenir ou de réduire au minimum les risques liés à un médicament, y compris l’évaluation de l’efficacité desdites activités et interventions;
+- «système de gestion des risques»: un ensemble d’activités et d’interventions de pharmacovigilance ayant pour but d’identifier, de décrire, de prévenir ou de réduire au minimum les risques liés à un médicament, y compris l’évaluation de l’efficacité desdites activités et interventions;
 
-8. «plan de gestion des risques»: une description détaillée du système de gestion des risques;
+- «plan de gestion des risques»: une description détaillée du système de gestion des risques;
 
-9. «système de pharmacovigilance»: un système utilisé par le titulaire de l’autorisation de mise sur le marché et par les États membres afin de s’acquitter des tâches et des responsabilités leur incombant en application du chapitre IX de la directive 2001/83/CE instituant un code communautaire relatif aux médicaments à usage humain et qui vise à surveiller la sécurité des médicaments autorisés et à repérer toute modification de leur rapport bénéfice/risque;
+- «système de pharmacovigilance»: un système utilisé par le titulaire de l’autorisation de mise sur le marché et par les États membres afin de s’acquitter des tâches et des responsabilités leur incombant en application du chapitre IX de la directive 2001/83/CE instituant un code communautaire relatif aux médicaments à usage humain et qui vise à surveiller la sécurité des médicaments autorisés et à repérer toute modification de leur rapport bénéfice/risque;
 
-10. «dossier permanent du système de pharmacovigilance»: une description détaillée du système de pharmacovigilance employé par le titulaire de l’autorisation de mise sur le marché concernant un ou plusieurs médicaments autorisés.
+- «dossier permanent du système de pharmacovigilance»: une description détaillée du système de pharmacovigilance employé par le titulaire de l’autorisation de mise sur le marché concernant un ou plusieurs médicaments autorisés.
 
 Pour l’interprétation des définitions et principes énoncés dans le présent chapitre, le titulaire de l’autorisation de mise sur le marché et les autorités compétentes se réfèrent aux lignes directrices visées à l’article 45-7 ci-après.
 
@@ -1357,15 +1357,15 @@ Le titulaire de l’autorisation de mise sur le marché procède à l’évaluat
 
 Dans le cadre du système de pharmacovigilance, le titulaire de l’autorisation de mise sur le marché:
 
-1. a de façon permanente et continue à sa disposition une personne possédant les qualifications appropriées, responsable pour la pharmacovigilance;
+- a de façon permanente et continue à sa disposition une personne possédant les qualifications appropriées, responsable pour la pharmacovigilance;
 
-2. gère et met à disposition, sur demande, un dossier permanent du système de pharmacovigilance;
+- gère et met à disposition, sur demande, un dossier permanent du système de pharmacovigilance;
 
-3. met en oeuvre un système de gestion des risques pour chaque médicament;
+- met en oeuvre un système de gestion des risques pour chaque médicament;
 
-4. surveille les résultats des mesures de réduction des risques qui sont prévues dans le plan de gestion des risques ou qui correspondent à des conditions dont est assortie l’autorisation de mise sur le marché;
+- surveille les résultats des mesures de réduction des risques qui sont prévues dans le plan de gestion des risques ou qui correspondent à des conditions dont est assortie l’autorisation de mise sur le marché;
 
-5. tient à jour le système de gestion des risques et surveille les données de pharmacovigilance afin de repérer des risques nouveaux, des changements des risques existants ou une modification du rapport bénéfice/risque des médicaments.
+- tient à jour le système de gestion des risques et surveille les données de pharmacovigilance afin de repérer des risques nouveaux, des changements des risques existants ou une modification du rapport bénéfice/risque des médicaments.
 
 La personne qualifiée visée au premier alinéa, point a), réside et exerce ses activités dans l’Union et est responsable de la mise en place et de la gestion du système de pharmacovigilance. Le titulaire de l’autorisation de mise sur le marché communique à la direction de la Santé et à l’Agence le nom et les coordonnées de la personne qualifiée, ainsi que de la personne de référence en matière de pharmacovigilance au niveau national rattachée à la personne qualifiée responsable pour les activités de pharmacovigilance.
 
@@ -1395,51 +1395,51 @@ Il veille à ce que les informations destinées au grand public soient présent�
 
 Le titulaire d’une autorisation de mise sur le marché soumet à l’Agence des rapports périodiques actualisés de sécurité contenant:
 
-1. des résumés des informations en rapport avec les bénéfices et les risques du médicament, y compris les résultats de toutes les études tenant compte de leur impact potentiel sur l’autorisation de mise sur le marché;
+- des résumés des informations en rapport avec les bénéfices et les risques du médicament, y compris les résultats de toutes les études tenant compte de leur impact potentiel sur l’autorisation de mise sur le marché;
 
-2. une évaluation scientifique du rapport bénéfice/risque du médicament;
+- une évaluation scientifique du rapport bénéfice/risque du médicament;
 
-3. toutes les informations relatives au volume des ventes du médicament ainsi que toute information que possède le titulaire de l’autorisation de mise sur le marché concernant le volume des prescriptions, y compris une estimation de la population exposée au médicament. L’évaluation visée au point b) est effectuée sur la base de toutes les informations disponibles, y compris celles résultant d’essais cliniques réalisés pour des indications et des populations non autorisées. Les rapports périodiques actualisés de sécurité sont soumis par voie électronique.
+- toutes les informations relatives au volume des ventes du médicament ainsi que toute information que possède le titulaire de l’autorisation de mise sur le marché concernant le volume des prescriptions, y compris une estimation de la population exposée au médicament. L’évaluation visée au point b) est effectuée sur la base de toutes les informations disponibles, y compris celles résultant d’essais cliniques réalisés pour des indications et des populations non autorisées. Les rapports périodiques actualisés de sécurité sont soumis par voie électronique.
 
 8.
 
 Par dérogation aux dispositions du paragraphe 7 du présent article, le titulaire d’une autorisation de mise sur le marché correspondant à des médicaments visés à l’article 1.-1 ou à l’article 1.-2, ainsi que le titulaire d’enregistrements correspondant à des médicaments visés aux chapitres 6 et 6.-1 soumettent des rapports périodiques actualisés de sécurité pour ces médicaments dans les cas suivants:
 
-1. cette obligation est une condition dont l’autorisation de mise sur le marché est assortie conformément à l’article 8.-2; ou
+- cette obligation est une condition dont l’autorisation de mise sur le marché est assortie conformément à l’article 8.-2; ou
 
-2. à la demande d’une autorité compétente sur la base de préoccupations relatives aux données de pharmacovigilance ou à défaut de rapports périodiques actualisés de sécurité sur une substance active après l’octroi de l’autorisation de mise sur le marché. Les rapports d’évaluation des rapports périodiques actualisés de sécurité sont communiqués au comité pour l’évaluation des risques en matière de pharmacovigilance, qui estime si un rapport d’évaluation unique pour toutes les autorisations de mise sur le marché pour les médicaments contenant la même substance active est nécessaire et informe en conséquence le groupe de coordination ou le comité des médicaments à usage humain afin d’appliquer les procédures visées à l’article 45.-3, paragraphe 9 point iv), et à l’article 107sexies de la directive 2001/83/CE .
+- à la demande d’une autorité compétente sur la base de préoccupations relatives aux données de pharmacovigilance ou à défaut de rapports périodiques actualisés de sécurité sur une substance active après l’octroi de l’autorisation de mise sur le marché. Les rapports d’évaluation des rapports périodiques actualisés de sécurité sont communiqués au comité pour l’évaluation des risques en matière de pharmacovigilance, qui estime si un rapport d’évaluation unique pour toutes les autorisations de mise sur le marché pour les médicaments contenant la même substance active est nécessaire et informe en conséquence le groupe de coordination ou le comité des médicaments à usage humain afin d’appliquer les procédures visées à l’article 45.-3, paragraphe 9 point iv), et à l’article 107sexies de la directive 2001/83/CE .
 
-1. La fréquence de transmission des rapports périodiques actualisés de sécurité est précisée dans l’autorisation de mise sur le marché. Les dates de transmission conformes à ladite fréquence sont calculées à partir de la date de délivrance de l’autorisation.
+  - La fréquence de transmission des rapports périodiques actualisés de sécurité est précisée dans l’autorisation de mise sur le marché. Les dates de transmission conformes à ladite fréquence sont calculées à partir de la date de délivrance de l’autorisation.
 
-2. S’agissant des autorisations de mise sur le marché délivrées avant le 21 juillet 2012, et qui ne sont pas assorties d’une condition spécifique concernant la fréquence et les dates de soumission des rapports périodiques actualisés de sécurité, leurs titulaires communiquent lesdits rapports selon les dispositions du deuxième alinéa du présent paragraphe jusqu’à ce qu’une autre fréquence ou d’autres dates de transmission soient fixées dans l’autorisation de mise sur le marché ou déterminées en application des points iv), v) ou vi). Les rapports périodiques actualisés de sécurité sont transmis immédiatement aux autorités compétentes lorsque celles-ci en font la demande ou dans le respect des dispositions suivantes:
+  - S’agissant des autorisations de mise sur le marché délivrées avant le 21 juillet 2012, et qui ne sont pas assorties d’une condition spécifique concernant la fréquence et les dates de soumission des rapports périodiques actualisés de sécurité, leurs titulaires communiquent lesdits rapports selon les dispositions du deuxième alinéa du présent paragraphe jusqu’à ce qu’une autre fréquence ou d’autres dates de transmission soient fixées dans l’autorisation de mise sur le marché ou déterminées en application des points iv), v) ou vi). Les rapports périodiques actualisés de sécurité sont transmis immédiatement aux autorités compétentes lorsque celles-ci en font la demande ou dans le respect des dispositions suivantes:
 
-- si le médicament n’a pas encore été mis sur le marché, au moins tous les six mois après l’autorisation et jusqu’à la mise sur le marché;
+    - si le médicament n’a pas encore été mis sur le marché, au moins tous les six mois après l’autorisation et jusqu’à la mise sur le marché;
 
-- si le médicament a été mis sur le marché, au moins tous les six mois durant les deux premières années suivant la première mise sur le marché, une fois par an durant les deux années suivantes et tous les trois ans par la suite.
+    - si le médicament a été mis sur le marché, au moins tous les six mois durant les deux premières années suivant la première mise sur le marché, une fois par an durant les deux années suivantes et tous les trois ans par la suite.
 
-3. Le point ii) s’applique également aux médicaments qui ne sont autorisés que dans un État membre et auxquels le point iv) ne s’applique pas.
+  - Le point ii) s’applique également aux médicaments qui ne sont autorisés que dans un État membre et auxquels le point iv) ne s’applique pas.
 
-4. Lorsque des médicaments qui font l’objet d’autorisations de mise sur le marché différentes contiennent la même substance active ou la même combinaison de substances actives, la fréquence et les dates de soumission des rapports périodiques actualisés de sécurité, définies conformément aux points i) et ii), peuvent être modifiées et harmonisées en vue de permettre une évaluation unique dans le cadre d’une procédure de partage des tâches pour le rapport périodique actualisé de sécurité, et de fournir une date de référence pour l’Union à partir de laquelle les dates de soumission sont calculées. La fréquence harmonisée de soumission des rapports et la date de référence pour l’Union peuvent être fixées, après consultation du comité pour l’évaluation des risques en matière de pharmacovigilance, par l’un des organismes suivants:
+  - Lorsque des médicaments qui font l’objet d’autorisations de mise sur le marché différentes contiennent la même substance active ou la même combinaison de substances actives, la fréquence et les dates de soumission des rapports périodiques actualisés de sécurité, définies conformément aux points i) et ii), peuvent être modifiées et harmonisées en vue de permettre une évaluation unique dans le cadre d’une procédure de partage des tâches pour le rapport périodique actualisé de sécurité, et de fournir une date de référence pour l’Union à partir de laquelle les dates de soumission sont calculées. La fréquence harmonisée de soumission des rapports et la date de référence pour l’Union peuvent être fixées, après consultation du comité pour l’évaluation des risques en matière de pharmacovigilance, par l’un des organismes suivants:
 
-- le comité des médicaments à usage humain, lorsqu’au moins une des autorisations de mise sur le marché relatives aux médicaments contenant la substance active concernée a été octroyée selon la procédure centralisée prévue au titre II, chapitre 1 er , du règlement (CE) n° 726/2004 ;
+    - le comité des médicaments à usage humain, lorsqu’au moins une des autorisations de mise sur le marché relatives aux médicaments contenant la substance active concernée a été octroyée selon la procédure centralisée prévue au titre II, chapitre 1 er , du règlement (CE) n° 726/2004 ;
 
-- le groupe de coordination, dans tous les autres cas que celui visé au tiret qui précède. La fréquence harmonisée pour la soumission des rapports déterminée conformément aux alinéas 1 et 2 est rendue publique par l’Agence. Les titulaires d’une autorisation de mise sur le marché transmettent en conséquence une demande de modification de l’autorisation de mise sur le marché.
+    - le groupe de coordination, dans tous les autres cas que celui visé au tiret qui précède. La fréquence harmonisée pour la soumission des rapports déterminée conformément aux alinéas 1 et 2 est rendue publique par l’Agence. Les titulaires d’une autorisation de mise sur le marché transmettent en conséquence une demande de modification de l’autorisation de mise sur le marché.
 
-5. Aux fins de l’application point iv), la date de référence pour l’Union applicable aux médicaments contenant la même substance active ou la même combinaison de substances actives correspond à l’une des dates suivantes:
+  - Aux fins de l’application point iv), la date de référence pour l’Union applicable aux médicaments contenant la même substance active ou la même combinaison de substances actives correspond à l’une des dates suivantes:
 
-- la date de la première autorisation de mise sur le marché, dans l’Union, d’un médicament contenant cette substance active ou cette même combinaison de substances actives;
+    - la date de la première autorisation de mise sur le marché, dans l’Union, d’un médicament contenant cette substance active ou cette même combinaison de substances actives;
 
-- si la date visée au tiret qui précède ne peut être établie avec certitude, la plus ancienne des dates connues des autorisations de mise sur le marché pour un médicament contenant cette substance active ou cette même combinaison de substances actives.
+    - si la date visée au tiret qui précède ne peut être établie avec certitude, la plus ancienne des dates connues des autorisations de mise sur le marché pour un médicament contenant cette substance active ou cette même combinaison de substances actives.
 
-6. Les titulaires d’une autorisation de mise sur le marché peuvent saisir le comité des médicaments à usage humain ou, selon le cas, le groupe de coordination pour demander la fixation de dates de référence pour l’Union ou une modification de la fréquence de soumission des rapports périodiques actualisés de sécurité, pour l’un des motifs suivants: Les demandes, dûment motivées, sont présentées par écrit. Le comité des médicaments à usage humain ou le groupe de coordination, après consultation du comité pour l’évaluation des risques en matière de pharmacovigilance, approuve ou rejette ces demandes. Toute modification des dates ou de la fréquence de soumission des rapports périodiques actualisés de sécurité est rendue publique par l’Agence. Les titulaires de l’autorisation de mise sur le marché transmettent en conséquence une demande de modification de l’autorisation de mise sur le marché.
+  - Les titulaires d’une autorisation de mise sur le marché peuvent saisir le comité des médicaments à usage humain ou, selon le cas, le groupe de coordination pour demander la fixation de dates de référence pour l’Union ou une modification de la fréquence de soumission des rapports périodiques actualisés de sécurité, pour l’un des motifs suivants: Les demandes, dûment motivées, sont présentées par écrit. Le comité des médicaments à usage humain ou le groupe de coordination, après consultation du comité pour l’évaluation des risques en matière de pharmacovigilance, approuve ou rejette ces demandes. Toute modification des dates ou de la fréquence de soumission des rapports périodiques actualisés de sécurité est rendue publique par l’Agence. Les titulaires de l’autorisation de mise sur le marché transmettent en conséquence une demande de modification de l’autorisation de mise sur le marché.
 
-- pour des raisons de santé publique;
+    - pour des raisons de santé publique;
 
-- pour éviter la duplication d’évaluations;
+    - pour éviter la duplication d’évaluations;
 
-- par souci d’harmonisation internationale.
+    - par souci d’harmonisation internationale.
 
-7. L’Agence publie une liste des dates de référence pour l’Union et des fréquences de soumission des rapports périodiques actualisés de sécurité par l’intermédiaire du portail web européen sur les médicaments. Toute modification des dates et de la fréquence de soumission des rapports périodiques actualisés de sécurité mentionnées dans l’autorisation de mise sur le marché, résultant de l’application des points iv), v) et vi), prend effet six mois après la date d’une telle publication.
+  - L’Agence publie une liste des dates de référence pour l’Union et des fréquences de soumission des rapports périodiques actualisés de sécurité par l’intermédiaire du portail web européen sur les médicaments. Toute modification des dates et de la fréquence de soumission des rapports périodiques actualisés de sécurité mentionnées dans l’autorisation de mise sur le marché, résultant de l’application des points iv), v) et vi), prend effet six mois après la date d’une telle publication.
 
 <a id="art-45-4"></a>
 ## Art. 45-4.
@@ -1523,15 +1523,15 @@ Avant la réalisation d’une étude, le titulaire de l’autorisation de mise s
 
 Dans les soixante jours à compter de la soumission du projet de protocole, le ministre de la Santé ou le comité pour l’évaluation des risques en matière de pharmacovigilance, selon le cas, émet:
 
-1. une lettre approuvant le projet de protocole;
+- une lettre approuvant le projet de protocole;
 
-2. une lettre de contestation motivée de manière circonstanciée, si l’autorité nationale compétente ou le comité estime:
+- une lettre de contestation motivée de manière circonstanciée, si l’autorité nationale compétente ou le comité estime:
 
-1. que la conduite de l’étude promeut l’usage d’un médicament,
+  - que la conduite de l’étude promeut l’usage d’un médicament,
 
-2. que la manière dont l’étude est conçue ne respecte pas les objectifs qu’elle poursuit;
+  - que la manière dont l’étude est conçue ne respecte pas les objectifs qu’elle poursuit;
 
-3. une lettre indiquant au titulaire de l’autorisation de mise sur le marché que l’étude constitue un essai clinique relevant de la directive 2001/20/CE .
+- une lettre indiquant au titulaire de l’autorisation de mise sur le marché que l’étude constitue un essai clinique relevant de la directive 2001/20/CE .
 
 11.
 
@@ -1569,9 +1569,9 @@ A cette fin un système de déclaration en ligne est mis en place. Par ailleurs 
 
 Diffusion de notifications reçues
 
-1. A l’aide du réseau mis en place par l’Agence européenne pour l’évaluation des médicaments l’autorité compétente assure que les notifications d’effets indésirables graves présumés, survenus sur son territoire, sont mises aussitôt à la disposition de l’Agence et des autres Etats membres, au plus tard dans les quinze jours suivant leur notification.
+- A l’aide du réseau mis en place par l’Agence européenne pour l’évaluation des médicaments l’autorité compétente assure que les notifications d’effets indésirables graves présumés, survenus sur son territoire, sont mises aussitôt à la disposition de l’Agence et des autres Etats membres, au plus tard dans les quinze jours suivant leur notification.
 
-2. L’autorité compétente assure que les notifications d’effets indésirables graves présumés, survenus au Luxembourg, sont mises aussitôt à la disposition du titulaire de l’autorisation de mise sur le marché, au plus tard dans les quinze jours suivant leur notification.
+- L’autorité compétente assure que les notifications d’effets indésirables graves présumés, survenus au Luxembourg, sont mises aussitôt à la disposition du titulaire de l’autorisation de mise sur le marché, au plus tard dans les quinze jours suivant leur notification.
 
 <a id="art-45-7"></a>
 ## Art. 45-7.
@@ -1589,11 +1589,11 @@ Suites éventuelles des notifications
 
 Le ministre de la Santé peut décider de suspendre, retirer ou modifier l’autorisation de mise sur le marché:
 
-1. lorsque l’opportunité de telles mesures découle de l’évaluation de données sur la pharmacovigilance;
+- lorsque l’opportunité de telles mesures découle de l’évaluation de données sur la pharmacovigilance;
 
-2. lorsqu’il est considéré que le médicament est nocif dans les conditions normales d’emploi ou que l’effet thérapeutique fait défaut ou que le rapport bénéfice/risque n’est pas favorable dans les conditions normales d’emploi ou enfin que le médicament n’a pas la composition qualitative et quantitative déclarée. L’effet thérapeutique fait défaut lorsqu’il est considéré que le médicament ne permet pas d’obtenir de résultats thérapeutiques;
+- lorsqu’il est considéré que le médicament est nocif dans les conditions normales d’emploi ou que l’effet thérapeutique fait défaut ou que le rapport bénéfice/risque n’est pas favorable dans les conditions normales d’emploi ou enfin que le médicament n’a pas la composition qualitative et quantitative déclarée. L’effet thérapeutique fait défaut lorsqu’il est considéré que le médicament ne permet pas d’obtenir de résultats thérapeutiques;
 
-3. lorsque les renseignements figurant dans le dossier en vertu de l’article 1 er et des articles 1.-1, 1.-2, 1.-3, 10quater et 2 sont erronés ou n’ont pas été modifiés conformément à l’article 12, ou lorsque les contrôles visés à l’article 6 n’ont pas été effectués.
+- lorsque les renseignements figurant dans le dossier en vertu de l’article 1 er et des articles 1.-1, 1.-2, 1.-3, 10quater et 2 sont erronés ou n’ont pas été modifiés conformément à l’article 12, ou lorsque les contrôles visés à l’article 6 n’ont pas été effectués.
 
 2.
 
@@ -1603,15 +1603,15 @@ En cas d’urgence, le ministre peut suspendre l’autorisation de mise sur le m
 
 Sur base des inquiétudes résultant de l’évaluation des données issues des activités de pharmacovigilance, le ministre initie la procédure d’urgence prévue au présent article, en informant les autres Etats membres, l’Agence et la Commission lorsqu’il:
 
-1. envisage de suspendre ou de retirer une autorisation de mise sur le marché;
+- envisage de suspendre ou de retirer une autorisation de mise sur le marché;
 
-2. envisage d’interdire la délivrance d’un médicament;
+- envisage d’interdire la délivrance d’un médicament;
 
-3. envisage de refuser le renouvellement d’une autorisation de mise sur le marché;
+- envisage de refuser le renouvellement d’une autorisation de mise sur le marché;
 
-4. est informé par le titulaire d’une autorisation de mise sur le marché qu’en raison d’inquiétudes concernant la sécurité d’un médicament, ledit titulaire a interrompu la mise sur le marché du médicament ou a pris des mesures pour faire retirer l’autorisation de mise sur le marché, ou qu’il envisage de le faire ou qu’il n’a pas demandé le renouvellement de l’autorisation de mise sur le marché;
+- est informé par le titulaire d’une autorisation de mise sur le marché qu’en raison d’inquiétudes concernant la sécurité d’un médicament, ledit titulaire a interrompu la mise sur le marché du médicament ou a pris des mesures pour faire retirer l’autorisation de mise sur le marché, ou qu’il envisage de le faire ou qu’il n’a pas demandé le renouvellement de l’autorisation de mise sur le marché;
 
-5. estime nécessaire de signaler une nouvelle contre-indication, de réduire le dosage recommandé ou de restreindre les indications d’un médicament. Cette information expose l’action envisagée et les raisons qui la motivent.
+- estime nécessaire de signaler une nouvelle contre-indication, de réduire le dosage recommandé ou de restreindre les indications d’un médicament. Cette information expose l’action envisagée et les raisons qui la motivent.
 
 Le cas échéant, il complète la communication de ces informations en mettant à la disposition de l’Agence toute information scientifique pertinente qu’il détient, ainsi que toute évaluation réalisée par ses soins.
 
@@ -1637,11 +1637,11 @@ Définition.
 
 Aux fins du présent chapitre, on entend par «médicament falsifié» tout médicament comportant une fausse présentation de:
 
-1. son identité, y compris de son emballage et de son étiquetage, de sa dénomination ou de sa composition s’agissant de n’importe lequel de ses composants, y compris les excipients, et du dosage de ces composants;
+- son identité, y compris de son emballage et de son étiquetage, de sa dénomination ou de sa composition s’agissant de n’importe lequel de ses composants, y compris les excipients, et du dosage de ces composants;
 
-2. sa source, y compris de son fabricant, de son pays de fabrication, de son pays d’origine ou du titulaire de son autorisation de mise sur le marché; ou
+- sa source, y compris de son fabricant, de son pays de fabrication, de son pays d’origine ou du titulaire de son autorisation de mise sur le marché; ou
 
-3. son historique, y compris des enregistrements et des documents relatifs aux circuits de distribution utilisés.
+- son historique, y compris des enregistrements et des documents relatifs aux circuits de distribution utilisés.
 
 La présente définition n’inclut pas les défauts de qualité non intentionnels et s’entend sans préjudice des violations des droits de propriété intellectuelle.
 
@@ -1796,15 +1796,15 @@ Aux fins du présent chapitre, on entend par:
 
 Sont enregistrés suivant une procédure d’enregistrement simplifiée, ci-après dénommée «enregistrement de l’usage traditionnel», les médicaments à base de plantes qui répondent à l’ensemble des critères suivants:
 
-1. ils ont des indications exclusivement appropriées à des médicaments traditionnels à base de plantes qui, de par leur composition et leur destination, sont conçus pour et destinés à être utilisés sans la surveillance d’un médecin à des fins de diagnostic, de prescription ou de suivi du traitement;
+- ils ont des indications exclusivement appropriées à des médicaments traditionnels à base de plantes qui, de par leur composition et leur destination, sont conçus pour et destinés à être utilisés sans la surveillance d’un médecin à des fins de diagnostic, de prescription ou de suivi du traitement;
 
-2. ils sont exclusivement destinés à être administrés selon un dosage et une posologie spécifiés;
+- ils sont exclusivement destinés à être administrés selon un dosage et une posologie spécifiés;
 
-3. il s’agit de préparations administrées par voie orale, externe et/ou par inhalation;
+- il s’agit de préparations administrées par voie orale, externe et/ou par inhalation;
 
-4. la durée d’usage traditionnel visée à l’article 45 quinquies, paragraphe 1, point c), est écoulée;
+- la durée d’usage traditionnel visée à l’article 45 quinquies, paragraphe 1, point c), est écoulée;
 
-5. les données sur l’usage traditionnel du médicament sont suffisantes; en particulier, l’innocuité du produit est démontrée dans les conditions d’emploi spécifiées et les effets pharmacologiques ou l’efficacité du médicament sont plausibles du fait de l’ancienneté de l’usage et de l’expérience.
+- les données sur l’usage traditionnel du médicament sont suffisantes; en particulier, l’innocuité du produit est démontrée dans les conditions d’emploi spécifiées et les effets pharmacologiques ou l’efficacité du médicament sont plausibles du fait de l’ancienneté de l’usage et de l’expérience.
 
 2.
 
@@ -1832,21 +1832,21 @@ En vue de l’enregistrement de l’usage traditionnel, le demandeur introduit u
 
 A la demande sont joints:
 
-1. les renseignements et documents: L’annexe I de la la directive 2001/83/CE précitée du parlement européen et du conseil du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain, telle que modifiée, s’applique par analogie à ces renseignements et documents.
+- les renseignements et documents: L’annexe I de la la directive 2001/83/CE précitée du parlement européen et du conseil du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain, telle que modifiée, s’applique par analogie à ces renseignements et documents.
 
-1. visés à l’alinéa 4 de l’article 1, sous 1. à 7., 9. et 10.; i
+  - visés à l’alinéa 4 de l’article 1, sous 1. à 7., 9. et 10.; i
 
-2. les résultats des essais pharmaceutiques visés à l’alinéa 4 de l’article 1, sous 8., second tiret;
+  - les résultats des essais pharmaceutiques visés à l’alinéa 4 de l’article 1, sous 8., second tiret;
 
-3. le résumé des caractéristiques du produit sans les données visées à l’article 2, paragraphe 4;
+  - le résumé des caractéristiques du produit sans les données visées à l’article 2, paragraphe 4;
 
-4. en ce qui concerne les associations d’une ou de plusieurs substances végétales ou préparations à base de plantes ou préparation visée à l’article 52-2, paragraphe 2, les données visées à l’article 25-2, paragraphe 1, point e), relatives à l’association en tant que telle; les données doivent également se référer aux diverses substances actives si elles ne sont pas suffisamment connues;
+  - en ce qui concerne les associations d’une ou de plusieurs substances végétales ou préparations à base de plantes ou préparation visée à l’article 52-2, paragraphe 2, les données visées à l’article 25-2, paragraphe 1, point e), relatives à l’association en tant que telle; les données doivent également se référer aux diverses substances actives si elles ne sont pas suffisamment connues;
 
-2. toute autorisation ou tout enregistrement déjà délivré(e) au demandeur dans un autre État membre ou dans un pays tiers en vue de la mise sur le marché du médicament et les données relatives aux décisions de refus d’autorisation ou d’enregistrement rendues dans la Communauté ou dans un pays tiers, et les motifs de ces décisions;
+- toute autorisation ou tout enregistrement déjà délivré(e) au demandeur dans un autre État membre ou dans un pays tiers en vue de la mise sur le marché du médicament et les données relatives aux décisions de refus d’autorisation ou d’enregistrement rendues dans la Communauté ou dans un pays tiers, et les motifs de ces décisions;
 
-3. les éléments bibliographiques ou rapports d’expert établissant que le médicament ou un produit équivalent est d’un usage médical au moins trentenaire avant la date de la demande, dont au moins quinze ans dans la Communauté. Le ministre peut saisir le comité communautaire des médicaments à base de plantes institué par la directive 2001/83/CE , telle que modifiée. Le comité émet un avis sur la validité des preuves attestant l’ancienneté de l’usage du produit ou du produit équivalent, sur base des pièces pertinentes lui soumises à l’appui du dossier.
+- les éléments bibliographiques ou rapports d’expert établissant que le médicament ou un produit équivalent est d’un usage médical au moins trentenaire avant la date de la demande, dont au moins quinze ans dans la Communauté. Le ministre peut saisir le comité communautaire des médicaments à base de plantes institué par la directive 2001/83/CE , telle que modifiée. Le comité émet un avis sur la validité des preuves attestant l’ancienneté de l’usage du produit ou du produit équivalent, sur base des pièces pertinentes lui soumises à l’appui du dossier.
 
-4. une étude bibliographique des données de sécurité accompagnée d’un rapport d’expert ainsi que, en cas de demande complémentaire de l’autorité compétente, les données nécessaires à l’évaluation de la sécurité du médicament.
+- une étude bibliographique des données de sécurité accompagnée d’un rapport d’expert ainsi que, en cas de demande complémentaire de l’autorité compétente, les données nécessaires à l’évaluation de la sécurité du médicament.
 
 2.
 
@@ -1871,9 +1871,9 @@ Le comité examine si les autres critères d’enregistrement simplifié visés 
 
 Sans préjudice de l’article 52-9, paragraphe 1, l’article 5-1 s’applique par analogie aux enregistrements délivrés conformément à l’article 52-2, à condition:
 
-1. qu’une monographie communautaire des plantes médicinales ait été établie par le comité des médicaments à base de plantes, ou
+- qu’une monographie communautaire des plantes médicinales ait été établie par le comité des médicaments à base de plantes, ou
 
-2. que le médicament à base de plantes soit composé de substances végétales, de préparations à base de plantes ou d’associations de celles-ci inscrites sur la liste visée à l’article 52-7 ci-après.
+- que le médicament à base de plantes soit composé de substances végétales, de préparations à base de plantes ou d’associations de celles-ci inscrites sur la liste visée à l’article 52-7 ci-après.
 
 2.
 
@@ -1886,15 +1886,15 @@ Pour les autres médicaments à base de plantes visés à l’article 52-2, le m
 
 L’enregistrement de l’usage traditionnel est refusé si la demande n’est pas conforme aux articles 52-2, 52-3 ou 52-4 ou si au moins l’une des conditions suivantes est remplie:
 
-1. la composition qualitative et/ou quantitative ne correspond pas à celle qui est déclarée;
+- la composition qualitative et/ou quantitative ne correspond pas à celle qui est déclarée;
 
-2. les indications ne sont pas conformes aux conditions établies à l’article 52-2;
+- les indications ne sont pas conformes aux conditions établies à l’article 52-2;
 
-3. le produit pourrait être nocif dans les conditions normales d’emploi;
+- le produit pourrait être nocif dans les conditions normales d’emploi;
 
-4. les données sur l’usage traditionnel sont insuffisantes, en particulier si les effets pharmacologiques ou l’efficacité ne sont pas plausibles du fait de l’ancienneté de l’usage et de l’expérience;
+- les données sur l’usage traditionnel sont insuffisantes, en particulier si les effets pharmacologiques ou l’efficacité ne sont pas plausibles du fait de l’ancienneté de l’usage et de l’expérience;
 
-5. la qualité pharmaceutique n’est pas démontrée de manière satisfaisante.
+- la qualité pharmaceutique n’est pas démontrée de manière satisfaisante.
 
 2.
 
@@ -1926,9 +1926,9 @@ L’article 1er, alinéas 1 et 2, l’article 5, les articles 7, 8.-1, 8.-3, 30 
 
 Outre ce qui est exigé au chapitre 2 ci-avant, l’étiquetage et la notice contiennent une mention indiquant:
 
-1. que le produit est un médicament traditionnel à base de plantes ayant une ou des indication(s) spécifiée(s) sur la base exclusive de l’ancienneté de l’usage, et
+- que le produit est un médicament traditionnel à base de plantes ayant une ou des indication(s) spécifiée(s) sur la base exclusive de l’ancienneté de l’usage, et
 
-2. que l’utilisateur est invité à consulter un médecin ou un professionnel de la santé qualifié si les symptômes persistent pendant l’utilisation du médicament ou si des effets indésirables non mentionnés sur la notice se produisent.
+- que l’utilisateur est invité à consulter un médecin ou un professionnel de la santé qualifié si les symptômes persistent pendant l’utilisation du médicament ou si des effets indésirables non mentionnés sur la notice se produisent.
 
 L’étiquetage et la notice peuvent mentionner également la nature de la tradition en question.
 
@@ -1943,19 +1943,19 @@ Outre ce qui est exigé au chapitre 3, toute publicité pour un médicament enre
 
 Exceptions.
 
-1. Les dispositions du présent règlement ne s’appliquent pas
+- Les dispositions du présent règlement ne s’appliquent pas
 
-- aux médicaments préparés selon une formule magistrale ou officinale;
+  - aux médicaments préparés selon une formule magistrale ou officinale;
 
-- aux médicaments destinés aux essais de recherche et de développement;
+  - aux médicaments destinés aux essais de recherche et de développement;
 
-- aux produits intermédiaires destinés à une transformation ultérieure par un fabricant autorisé.
+  - aux produits intermédiaires destinés à une transformation ultérieure par un fabricant autorisé.
 
-2. Au sens du présent article on entend par:
+- Au sens du présent article on entend par:
 
-- formule magistrale: tout médicament préparé en pharmacie selon une prescription destinée à un malade déterminé.
+  - formule magistrale: tout médicament préparé en pharmacie selon une prescription destinée à un malade déterminé.
 
-- formule officinale: tout médicament préparé en pharmacie selon les indications d’une pharmacopée et destiné à être délivré directement aux patients approvisionnés par cette pharmacie.
+  - formule officinale: tout médicament préparé en pharmacie selon les indications d’une pharmacopée et destiné à être délivré directement aux patients approvisionnés par cette pharmacie.
 
 <a id="art-55"></a>
 ## Art. 55.

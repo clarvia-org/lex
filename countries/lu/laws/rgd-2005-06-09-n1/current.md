@@ -115,21 +115,21 @@ Elle a pour mission de donner dans le mois son avis sur le plan de gestion annue
 
 La commission comprend, comme représentants de la population locale, un habitant de chaque commune membre du syndicat ayant la qualité d’électeur dans la commune qu’il représente. La commission comprend, comme délégués des groupements d’intérêts locaux ou régionaux
 
-1. un délégué d’un groupement agissant dans le domaine de l’agriculture;
+- un délégué d’un groupement agissant dans le domaine de l’agriculture;
 
-2. un délégué d’un groupement agissant dans le domaine de la sylviculture;
+- un délégué d’un groupement agissant dans le domaine de la sylviculture;
 
-3. un délégué d’un groupement agissant dans le domaine du tourisme;
+- un délégué d’un groupement agissant dans le domaine du tourisme;
 
-4. un délégué d’un groupement agissant dans le domaine des petites et moyennes entreprises (PME);
+- un délégué d’un groupement agissant dans le domaine des petites et moyennes entreprises (PME);
 
-5. un délégué d’un groupement agissant dans le domaine de la nature et de l’environnement humain;
+- un délégué d’un groupement agissant dans le domaine de la nature et de l’environnement humain;
 
-6. un délégué d’un groupement agissant dans le domaine de la culture;
+- un délégué d’un groupement agissant dans le domaine de la culture;
 
-7. un délégué d’un groupement agissant dans le domaine de l’urbanisme;
+- un délégué d’un groupement agissant dans le domaine de l’urbanisme;
 
-8. un délégué d’un groupement agissant dans le domaine de l’énergie.
+- un délégué d’un groupement agissant dans le domaine de l’énergie.
 
 A chaque délégué est associé un suppléant qui peut remplacer le délégué en cas d’absence.
 
@@ -183,15 +183,15 @@ Le syndicat veille à la réalisation des objectifs fixés à l’article 2 de l
 
 Le syndicat peut assumer toutes les missions nécessaires pour la mise en oeuvre des objectifs du Parc naturel et
 
-1. assume une mission de promotion et de sensibilisation dans la région;
+- assume une mission de promotion et de sensibilisation dans la région;
 
-2. aide à coordonner l’action de l’Etat et des communes au niveau du Parc naturel;
+- aide à coordonner l’action de l’Etat et des communes au niveau du Parc naturel;
 
-3. travaille en étroite coopération avec les instances régionales et nationales;
+- travaille en étroite coopération avec les instances régionales et nationales;
 
-4. instaure une plateforme de communication avec les acteurs oeuvrant dans l’intérêt poursuivi par le Parc naturel tels que les agriculteurs, les sylviculteurs, les producteurs régionaux, les entreprises ou les organisations travaillant dans le domaine du tourisme et de l’environnement;
+- instaure une plateforme de communication avec les acteurs oeuvrant dans l’intérêt poursuivi par le Parc naturel tels que les agriculteurs, les sylviculteurs, les producteurs régionaux, les entreprises ou les organisations travaillant dans le domaine du tourisme et de l’environnement;
 
-5. intègre à sa démarche également les initiatives privées qui constituent un apport au Parc naturel.
+- intègre à sa démarche également les initiatives privées qui constituent un apport au Parc naturel.
 
 #### Chapitre 5 Modifications à apporter aux plans d'aménagement communaux
 

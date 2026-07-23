@@ -35,41 +35,41 @@ Le présent règlement s’applique aux dispositifs médicaux implantables actif
 
 Aux fins du présent règlement on entend par:
 
-1. dispositif médical: tout instrument, appareil, équipement, logiciel, matière ou autre article, utilisé seul ou en association, ainsi que tout accessoire, y compris le logiciel destiné par le fabricant à être utilisé spécifiquement à des fins diagnostique et/ou thérapeutique, et nécessaire au bon fonctionnement de celui-ci, destiné par le fabricant à être utilisé chez l’homme à des fins:
+- dispositif médical: tout instrument, appareil, équipement, logiciel, matière ou autre article, utilisé seul ou en association, ainsi que tout accessoire, y compris le logiciel destiné par le fabricant à être utilisé spécifiquement à des fins diagnostique et/ou thérapeutique, et nécessaire au bon fonctionnement de celui-ci, destiné par le fabricant à être utilisé chez l’homme à des fins:
 
-- de diagnostic, de prévention, de contrôle, de traitement ou d’atténuation d’une maladie,
+  - de diagnostic, de prévention, de contrôle, de traitement ou d’atténuation d’une maladie,
 
-- de diagnostic, de contrôle, de traitement, d’atténuation ou de compensation d’une blessure ou d’un handicap,
+  - de diagnostic, de contrôle, de traitement, d’atténuation ou de compensation d’une blessure ou d’un handicap,
 
-- d’étude, de remplacement ou de modification de l’anatomie ou d’un processus physiologique,
+  - d’étude, de remplacement ou de modification de l’anatomie ou d’un processus physiologique,
 
-- de maîtrise de la conception, et dont l’action principale voulue dans ou sur le corps humain n’est pas obtenue par des moyens pharmacologiques ou immunologiques ni par métabolisme, mais dont la fonction peut être assistée par de tels moyens;
+  - de maîtrise de la conception, et dont l’action principale voulue dans ou sur le corps humain n’est pas obtenue par des moyens pharmacologiques ou immunologiques ni par métabolisme, mais dont la fonction peut être assistée par de tels moyens;
 
-2. dispositif médical actif: tout dispositif médical dépendant pour son fonctionnement d’une source d’énergie électrique ou de toute autre source d’énergie que celle générée directement par le corps humain ou la pesanteur;
+- dispositif médical actif: tout dispositif médical dépendant pour son fonctionnement d’une source d’énergie électrique ou de toute autre source d’énergie que celle générée directement par le corps humain ou la pesanteur;
 
-3. dispositif médical implantable actif: tout dispositif médical actif qui est conçu pour être implanté en totalité ou en partie, par une intervention chirurgicale ou médicale, dans le corps humain ou, par une intervention médicale, dans un orifice naturel et qui est destiné à rester après l’intervention;
+- dispositif médical implantable actif: tout dispositif médical actif qui est conçu pour être implanté en totalité ou en partie, par une intervention chirurgicale ou médicale, dans le corps humain ou, par une intervention médicale, dans un orifice naturel et qui est destiné à rester après l’intervention;
 
-4. dispositif sur mesure: tout dispositif fabriqué spécifiquement suivant la prescription écrite d’un praticien dûment qualifié indiquant, sous la responsabilité de ce dernier, les caractéristiques de conception spécifiques et destiné à n’être utilisé que pour un patient déterminé. Les dispositifs fabriqués suivant des méthodes de fabrication continue ou en série qui nécessitent une adaptation pour répondre à des besoins spécifiques du médecin ou d’un autre utilisateur professionnel ne doivent pas être considérés comme des dispositifs sur mesure;
+- dispositif sur mesure: tout dispositif fabriqué spécifiquement suivant la prescription écrite d’un praticien dûment qualifié indiquant, sous la responsabilité de ce dernier, les caractéristiques de conception spécifiques et destiné à n’être utilisé que pour un patient déterminé. Les dispositifs fabriqués suivant des méthodes de fabrication continue ou en série qui nécessitent une adaptation pour répondre à des besoins spécifiques du médecin ou d’un autre utilisateur professionnel ne doivent pas être considérés comme des dispositifs sur mesure;
 
-5. dispositif destiné à des investigations cliniques: tout dispositif destiné à être mis à la disposition d’un médecin dûment qualifié en vue de faire l’objet des investigations cliniques visées à l’annexe VII, point 2.1, et effectuées dans un environnement clinique humain adéquat. Aux fins de la réalisation des investigations cliniques, est assimilée au médecin dûment qualifié toute autre personne qui, en vertu de ses qualifications professionnelles, est autorisée à effectuer ces investigations;
+- dispositif destiné à des investigations cliniques: tout dispositif destiné à être mis à la disposition d’un médecin dûment qualifié en vue de faire l’objet des investigations cliniques visées à l’annexe VII, point 2.1, et effectuées dans un environnement clinique humain adéquat. Aux fins de la réalisation des investigations cliniques, est assimilée au médecin dûment qualifié toute autre personne qui, en vertu de ses qualifications professionnelles, est autorisée à effectuer ces investigations;
 
-6. destination: l’utilisation à laquelle le dispositif est destiné d’après les indications fournies par le fabricant dans l’étiquetage, la notice d’instruction et/ou les matériels promotionnels;
+- destination: l’utilisation à laquelle le dispositif est destiné d’après les indications fournies par le fabricant dans l’étiquetage, la notice d’instruction et/ou les matériels promotionnels;
 
-7. mise en service: la mise à la disposition du corps médical pour implantation.
+- mise en service: la mise à la disposition du corps médical pour implantation.
 
-8. mise sur le marché: première mise à disposition à titre onéreux ou gratuit d’un dispositif, autre que celui destiné à des investigations cliniques, en vue de sa distribution et/ou utilisation sur le marché, qu’il s’agisse d’un dispositif neuf ou remis à neuf;
+- mise sur le marché: première mise à disposition à titre onéreux ou gratuit d’un dispositif, autre que celui destiné à des investigations cliniques, en vue de sa distribution et/ou utilisation sur le marché, qu’il s’agisse d’un dispositif neuf ou remis à neuf;
 
-9. fabricant: la personne physique ou morale responsable de la conception, de la fabrication, du conditionnement et de l’étiquetage d’un dispositif en vue de la mise sur le marché en son propre nom, que ces opérations soient effectuées par cette même personne ou pour son compte par une tierce personne; Les obligations du présent règlement qui s’imposent aux fabricants s’appliquent également à la personne physique ou morale qui assemble, conditionne, traite, remet à neuf et/ou étiquette un ou plusieurs produits préfabriqués et/ou leur assigne la destination d’un dispositif en vue de sa mise sur le marché en son nom propre. Cela ne s’applique pas à la personne qui, sans être fabricant aux termes du premier alinéa, assemble ou adapte conformément à leur destination des dispositifs déjà mis sur le marché, pour un patient individuel.
+- fabricant: la personne physique ou morale responsable de la conception, de la fabrication, du conditionnement et de l’étiquetage d’un dispositif en vue de la mise sur le marché en son propre nom, que ces opérations soient effectuées par cette même personne ou pour son compte par une tierce personne; Les obligations du présent règlement qui s’imposent aux fabricants s’appliquent également à la personne physique ou morale qui assemble, conditionne, traite, remet à neuf et/ou étiquette un ou plusieurs produits préfabriqués et/ou leur assigne la destination d’un dispositif en vue de sa mise sur le marché en son nom propre. Cela ne s’applique pas à la personne qui, sans être fabricant aux termes du premier alinéa, assemble ou adapte conformément à leur destination des dispositifs déjà mis sur le marché, pour un patient individuel.
 
-10. mandataire: toute personne physique ou morale établie dans la Communauté qui, après avoir été expressément désignée par le fabricant, agit et peut être contactée par le ministre et le directeur de la Santé et les instances dans la Communauté en lieu et place du fabricant en ce qui concerne les obligations que le présent règlement impose à ce dernier;
+- mandataire: toute personne physique ou morale établie dans la Communauté qui, après avoir été expressément désignée par le fabricant, agit et peut être contactée par le ministre et le directeur de la Santé et les instances dans la Communauté en lieu et place du fabricant en ce qui concerne les obligations que le présent règlement impose à ce dernier;
 
-11. données cliniques: informations relatives à la sécurité et aux performances obtenues dans le cadre de l’utilisation d’un dispositif. Les données cliniques proviennent:
+- données cliniques: informations relatives à la sécurité et aux performances obtenues dans le cadre de l’utilisation d’un dispositif. Les données cliniques proviennent:
 
-- des investigation(s) clinique(s) du dispositif concerné, ou
+  - des investigation(s) clinique(s) du dispositif concerné, ou
 
-- des investigation(s) clinique(s), ou d’autres études citées dans la littérature scientifique, d’un dispositif similaire pour lequel l’équivalence avec le dispositif concerné peut être démontrée, ou
+  - des investigation(s) clinique(s), ou d’autres études citées dans la littérature scientifique, d’un dispositif similaire pour lequel l’équivalence avec le dispositif concerné peut être démontrée, ou
 
-- des rapports, publiés ou non, relatifs à une autre expérience clinique acquise sur le dispositif ou un dispositif similaire pour lequel l’équivalence avec le dispositif concerné peut être démontrée.
+  - des rapports, publiés ou non, relatifs à une autre expérience clinique acquise sur le dispositif ou un dispositif similaire pour lequel l’équivalence avec le dispositif concerné peut être démontrée.
 
 3.
 
@@ -87,13 +87,13 @@ Lorsqu’un dispositif incorpore comme partie intégrante une substance qui, si 
 
 Le présent règlement ne s’applique pas:
 
-1. aux médicaments relevant de la directive 2001/83/CE . Pour décider si un produit relève de ladite directive ou du présent règlement, il est tenu compte tout particulièrement du mode d’action principal du produit;
+- aux médicaments relevant de la directive 2001/83/CE . Pour décider si un produit relève de ladite directive ou du présent règlement, il est tenu compte tout particulièrement du mode d’action principal du produit;
 
-2. au sang humain, aux produits sanguins, au plasma, aux cellules sanguines d’origine humaine ou aux dispositifs qui contiennent au moment de leur mise sur le marché des produits sanguins, du plasma ou des cellules d’origine humaine, à l’exception des dispositifs visés au paragraphe 5;
+- au sang humain, aux produits sanguins, au plasma, aux cellules sanguines d’origine humaine ou aux dispositifs qui contiennent au moment de leur mise sur le marché des produits sanguins, du plasma ou des cellules d’origine humaine, à l’exception des dispositifs visés au paragraphe 5;
 
-3. aux organes, tissus ou cellules d’origine humaine ni aux produits incorporant des tissus ou cellules d’origine humaine, ou qui en sont dérivés, à l’exception des dispositifs visés au paragraphe 5;
+- aux organes, tissus ou cellules d’origine humaine ni aux produits incorporant des tissus ou cellules d’origine humaine, ou qui en sont dérivés, à l’exception des dispositifs visés au paragraphe 5;
 
-4. aux organes, tissus ou cellules d’origine animale, sauf si le dispositif est fabriqué en utilisant du tissu d’origine animale rendu non viable ou des produits non viables dérivés de tissus d’origine animale.
+- aux organes, tissus ou cellules d’origine animale, sauf si le dispositif est fabriqué en utilisant du tissu d’origine animale rendu non viable ou des produits non viables dérivés de tissus d’origine animale.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -172,9 +172,9 @@ Lorsqu’un dispositif non conforme est muni de la marquage CE , le ministre de 
 
 Le directeur de la Santé est chargé de recevoir, d’enregistrer et d’évaluer toutes les informations concernant les incidents mentionnés ci-après et qui sont liés à un dispositif:
 
-1. tout dysfonctionnement ou toute détérioration des caractéristiques et des performances d’un dispositif, et toute inadéquation au niveau de l’étiquetage ou de la notice d’utilisation susceptibles d’entraîner ou d’avoir entraîné la mort d’un patient ou d’un utilisateur, ou une atteinte grave à son état de santé;
+- tout dysfonctionnement ou toute détérioration des caractéristiques et des performances d’un dispositif, et toute inadéquation au niveau de l’étiquetage ou de la notice d’utilisation susceptibles d’entraîner ou d’avoir entraîné la mort d’un patient ou d’un utilisateur, ou une atteinte grave à son état de santé;
 
-2. toute cause technique ou médicale liée aux caractéristiques ou aux performances d’un dispositif pour les raisons visées au point a), ayant entraîné le retrait systématique, par le fabricant, de dispositifs du même type.
+- toute cause technique ou médicale liée aux caractéristiques ou aux performances d’un dispositif pour les raisons visées au point a), ayant entraîné le retrait systématique, par le fabricant, de dispositifs du même type.
 
 2.
 
@@ -187,13 +187,13 @@ Le directeur de la Santé informe le ministre de la Santé des incidents rapport
 
 Pour les dispositifs autres que ceux sur mesure et ceux destinés à des investigations cliniques, le fabricant doit, aux fins de l’apposition de la marquage CE , à son choix:
 
-1. suivre la procédure relative à la déclaration CE de conformité visée à l’annexe II, ou
+- suivre la procédure relative à la déclaration CE de conformité visée à l’annexe II, ou
 
-2. suivre la procédure relative à l’examen CE de type visée à l’annexe III en combinaison:
+- suivre la procédure relative à l’examen CE de type visée à l’annexe III en combinaison:
 
-1. soit avec la procédure relative à la vérification CE visée à l’annexe IV,
+  - soit avec la procédure relative à la vérification CE visée à l’annexe IV,
 
-2. soit avec la procédure relative à la déclaration CE de conformité au type visée à l’annexe V.
+  - soit avec la procédure relative à la déclaration CE de conformité au type visée à l’annexe V.
 
 2.
 
@@ -335,18 +335,18 @@ Il est interdit d’apposer des marquages susceptibles de tromper les tiers sur 
 
 Sans préjudice de l’article 7:
 
-1. tout constat par le ministre de la Santé de l’apposition indue du marquage CE ou de son absence, en violation du présent règlement, entraîne pour le fabricant ou son mandataire établi dans la Communauté l’obligation de faire cesser l’infraction dans les conditions fixées par le ministre;
+- tout constat par le ministre de la Santé de l’apposition indue du marquage CE ou de son absence, en violation du présent règlement, entraîne pour le fabricant ou son mandataire établi dans la Communauté l’obligation de faire cesser l’infraction dans les conditions fixées par le ministre;
 
-2. si la non-conformité persiste, le ministre restreint ou interdit la mise sur le marché du produit en cause ou le fait retirer du marché selon les procédures prévues à l’article 7. Ces dispositions s’appliquent également lorsque le marquage CE a été apposé conformément aux procédures prévues par le présent règlement, mais de manière inappropriée sur des produits qui ne relèvent pas de son champ d’application.
+- si la non-conformité persiste, le ministre restreint ou interdit la mise sur le marché du produit en cause ou le fait retirer du marché selon les procédures prévues à l’article 7. Ces dispositions s’appliquent également lorsque le marquage CE a été apposé conformément aux procédures prévues par le présent règlement, mais de manière inappropriée sur des produits qui ne relèvent pas de son champ d’application.
 
 <a id="art-14"></a>
 ## Art. 14.
 
 Toute décision prise en application du présent règlement:
 
-1. consistant à refuser ou à restreindre la mise sur le marché, la mise en service d’un dispositif ou la conduite des investigations cliniques, ou
+- consistant à refuser ou à restreindre la mise sur le marché, la mise en service d’un dispositif ou la conduite des investigations cliniques, ou
 
-2. imposant le retrait des dispositifs du marché
+- imposant le retrait des dispositifs du marché
 
 est motivée de façon précise. Elle est notifiée à l’intéressé, dans les meilleurs délais, avec l’indication des voies de recours ouvertes et des délais dans lesquels ces recours doivent être introduits.
 
@@ -365,11 +365,11 @@ Cela n’affecte pas les obligations du gouvernement et des organismes notifiés
 
 Ne sont pas considérées comme confidentielles, les informations suivantes:
 
-1. informations relatives à l’enregistrement des personnes responsables pour la mise de dispositifs sur le marché, conformément à l’article 10-1;
+- informations relatives à l’enregistrement des personnes responsables pour la mise de dispositifs sur le marché, conformément à l’article 10-1;
 
-2. informations aux utilisateurs établies par le fabricant, son mandataire ou un distributeur concernant une mesure conformément à l’article 8;
+- informations aux utilisateurs établies par le fabricant, son mandataire ou un distributeur concernant une mesure conformément à l’article 8;
 
-3. informations contenues dans les certificats délivrés, modifiés, complétés, suspendus ou retirés.
+- informations contenues dans les certificats délivrés, modifiés, complétés, suspendus ou retirés.
 
 <a id="art-15-1"></a>
 ## Art. 15-1.

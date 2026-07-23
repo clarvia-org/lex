@@ -109,9 +109,9 @@ La publication électronique sur le portail des avis, des documents de marché e
 
 Le traitement des données à caractère personnel, au sens du règlement général sur la protection des données règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), notamment celles visées aux articles 6 et 7 ainsi que d’autres données à caractère personnel collectées au moyen du portail, est réalisé :
 
-1. sous la responsabilité du ministre ayant les Travaux publics dans ses attributions, ci-après, « ministre », pour les finalités de gestion du portail et des services souscrits par les personnes concernées au moyen du portail; ces traitements portent au moins sur l’historique des actions et transactions réalisées sur ou au moyen du portail, la conservation des documents échangés au moyen du portail et celle des messages échangés au moyen de la messagerie intégrée du portail; ces traitements sont réalisés selon les modalités fixées par le règlement ministériel visé à l’article 270, paragraphe 1 er du règlement grand-ducal d’exécution du 8 avril 2018 de la loi du 8 avril 2018 sur les marchés publics; et
+- sous la responsabilité du ministre ayant les Travaux publics dans ses attributions, ci-après, « ministre », pour les finalités de gestion du portail et des services souscrits par les personnes concernées au moyen du portail; ces traitements portent au moins sur l’historique des actions et transactions réalisées sur ou au moyen du portail, la conservation des documents échangés au moyen du portail et celle des messages échangés au moyen de la messagerie intégrée du portail; ces traitements sont réalisés selon les modalités fixées par le règlement ministériel visé à l’article 270, paragraphe 1 er du règlement grand-ducal d’exécution du 8 avril 2018 de la loi du 8 avril 2018 sur les marchés publics; et
 
-2. sous la responsabilité de chaque pouvoir adjudicateur ou entité adjudicatrice concerné, pour les finalités de l’administration des offres et des demandes de participation qui les concernent, la gestion des soumissions y relatives et des registres visés à l’article 7, ainsi que la communication avec les opérateurs économiques.
+- sous la responsabilité de chaque pouvoir adjudicateur ou entité adjudicatrice concerné, pour les finalités de l’administration des offres et des demandes de participation qui les concernent, la gestion des soumissions y relatives et des registres visés à l’article 7, ainsi que la communication avec les opérateurs économiques.
 
 ##### CHAPITRE 2. DISPOSITIONS RELATIVES À LA REMISE ÉLECTRONIQUE DES OFFRES ET DES DEMANDES DE PARTICIPATION
 
@@ -157,9 +157,9 @@ L’opérateur économique qui effectue à la fois une transmission au moyen du 
 
 La copie de sauvegarde est ouverte :
 
-1. Lorsque les documents transmis au moyen du portail sont endommagés ou corrompus, en particulier lorsqu'un programme informatique malveillant est détecté, lors de la séance d’ouverture, dans les documents transmis par voie électronique, la trace du problème technique étant conservée.
+- Lorsque les documents transmis au moyen du portail sont endommagés ou corrompus, en particulier lorsqu'un programme informatique malveillant est détecté, lors de la séance d’ouverture, dans les documents transmis par voie électronique, la trace du problème technique étant conservée.
 
-2. Lorsqu’une demande de participation ou une offre a été transmise au moyen du portail et n’a pu être ouverte, sous réserve que la copie de sauvegarde soit parvenue dans les délais.
+- Lorsqu’une demande de participation ou une offre a été transmise au moyen du portail et n’a pu être ouverte, sous réserve que la copie de sauvegarde soit parvenue dans les délais.
 
 La copie de sauvegarde n’est valable que si elle respecte les dispositions du présent article et n’est ouverte que dans les deux cas susmentionnés. Si la copie de sauvegarde n’est pas valable ou n’a pas été ouverte, elle est détruite à l’issue de la procédure.
 
@@ -195,9 +195,9 @@ Un livre journal documente le fonctionnement du portail et le déroulement des p
 
 Le règlement grand-ducal du 3 août 2009 portant exécution de la loi modifiée du 25 juin 2009 sur les marchés publics et portant modification du seuil prévu à l'article 106 point 10° de la loi communale modifiée du 13 décembre est modifié comme suit:
 
-1. Dans l'article 38, paragraphe (1) et paragraphe (4), les mots «site «internet»» sont remplacés par ceux de «portail des marchés publics».
+- Dans l'article 38, paragraphe (1) et paragraphe (4), les mots «site «internet»» sont remplacés par ceux de «portail des marchés publics».
 
-2. L'article 42 est remplacé par le libellé suivant: Art. 42. Les pièces de la soumission sont délivrées jusqu'au jour et à l'heure fixés pour la remise des offres, à moins de disposition contraire dans les bordereaux ou les avis de marchés publics. Leur mise à disposition devra en tout état de cause être garantie au moins jusqu'à 7 jours avant la date fixée pour la remise des soumissions.
+- L'article 42 est remplacé par le libellé suivant: Art. 42. Les pièces de la soumission sont délivrées jusqu'au jour et à l'heure fixés pour la remise des offres, à moins de disposition contraire dans les bordereaux ou les avis de marchés publics. Leur mise à disposition devra en tout état de cause être garantie au moins jusqu'à 7 jours avant la date fixée pour la remise des soumissions.
 
 <a id="art-20"></a>
 ## Art. 20.

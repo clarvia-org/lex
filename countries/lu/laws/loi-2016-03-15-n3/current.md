@@ -89,15 +89,15 @@ Aux fins de l’application du règlement (UE) n° 648/2012 et du règlement (UE
 
 Les pouvoirs de la CSSF incluent le droit:
 
-1. d’avoir accès à tout document sous quelque forme que ce soit et d’en recevoir copie;
+- d’avoir accès à tout document sous quelque forme que ce soit et d’en recevoir copie;
 
-2. de demander des informations aux contreparties financières soumises à sa surveillance en application de l’article 1 er , paragraphe 2 , aux contreparties non financières, aux contreparties centrales et aux plateformes de négociation, y compris les personnes qui interviennent successivement dans la transmission des ordres ou dans l’exécution des opérations en cause ainsi qu’aux mandants de celles-ci, et, si nécessaire, de convoquer une personne et de l’entendre;
+- de demander des informations aux contreparties financières soumises à sa surveillance en application de l’article 1 er , paragraphe 2 , aux contreparties non financières, aux contreparties centrales et aux plateformes de négociation, y compris les personnes qui interviennent successivement dans la transmission des ordres ou dans l’exécution des opérations en cause ainsi qu’aux mandants de celles-ci, et, si nécessaire, de convoquer une personne et de l’entendre;
 
-3. de procéder à des inspections sur place et des enquêtes auprès des contreparties financières soumises à sa surveillance en application de l’article 1 er , paragraphe 2 , auprès des contreparties centrales et auprès des plateformes de négociation;
+- de procéder à des inspections sur place et des enquêtes auprès des contreparties financières soumises à sa surveillance en application de l’article 1 er , paragraphe 2 , auprès des contreparties centrales et auprès des plateformes de négociation;
 
-4. d’exiger des contreparties financières soumises à sa surveillance en application de l’article 1 er , paragraphe 2 , des contreparties non financières, des contreparties centrales et des plateformes de négociation la communication des enregistrements téléphoniques et informatiques existants;
+- d’exiger des contreparties financières soumises à sa surveillance en application de l’article 1 er , paragraphe 2 , des contreparties non financières, des contreparties centrales et des plateformes de négociation la communication des enregistrements téléphoniques et informatiques existants;
 
-5. d’enjoindre aux contreparties financières soumises à sa surveillance en application de l’article 1 er , paragraphe 2 , aux contreparties non financières, aux contreparties centrales et aux plateformes de négociation de cesser toute pratique contraire au règlement (UE) n° 648/2012 .
+- d’enjoindre aux contreparties financières soumises à sa surveillance en application de l’article 1 er , paragraphe 2 , aux contreparties non financières, aux contreparties centrales et aux plateformes de négociation de cesser toute pratique contraire au règlement (UE) n° 648/2012 .
 
 (2)
 
@@ -105,15 +105,15 @@ Aux fins de l’application du règlement (UE) n° 648/2012, le Commissariat aux
 
 Les pouvoirs du Commissariat aux assurances incluent le droit:
 
-1. d’avoir accès à tout document sous quelque forme que ce soit et d’en recevoir copie;
+- d’avoir accès à tout document sous quelque forme que ce soit et d’en recevoir copie;
 
-2. de demander des informations aux contreparties financières soumises à sa surveillance, y compris les personnes qui interviennent successivement dans la transmission des ordres ou dans l’exécution des opérations en cause ainsi qu’aux mandants de celles-ci, et, si nécessaire, de convoquer une personne et de l’entendre;
+- de demander des informations aux contreparties financières soumises à sa surveillance, y compris les personnes qui interviennent successivement dans la transmission des ordres ou dans l’exécution des opérations en cause ainsi qu’aux mandants de celles-ci, et, si nécessaire, de convoquer une personne et de l’entendre;
 
-3. de procéder à des inspections sur place et des enquêtes auprès des contreparties financières soumises à sa surveillance;
+- de procéder à des inspections sur place et des enquêtes auprès des contreparties financières soumises à sa surveillance;
 
-4. d’exiger des contreparties financières soumises à sa surveillance la communication des enregistrements téléphoniques et informatiques existants;
+- d’exiger des contreparties financières soumises à sa surveillance la communication des enregistrements téléphoniques et informatiques existants;
 
-5. d’enjoindre aux contreparties financières soumises à sa surveillance de cesser toute pratique contraire au règlement (UE) n° 648/2012 .
+- d’enjoindre aux contreparties financières soumises à sa surveillance de cesser toute pratique contraire au règlement (UE) n° 648/2012 .
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -122,65 +122,65 @@ Les pouvoirs du Commissariat aux assurances incluent le droit:
 
 La CSSF peut sanctionner:
 
-1. les contreparties financières soumises à sa surveillance en application de l’article 1 er , paragraphe 2 et les contreparties non financières au cas où elles ne respectent pas les dispositions prévues par l’article 4, 4 bis , 5, 7 bis , paragraphes 1 er à 6, 7 ter , paragraphes 1 er et 2, 9, 10 ou 11 du règlement (UE) n° 648/2012 ou par les mesures prises en exécution de ces articles;
+- les contreparties financières soumises à sa surveillance en application de l’article 1 er , paragraphe 2 et les contreparties non financières au cas où elles ne respectent pas les dispositions prévues par l’article 4, 4 bis , 5, 7 bis , paragraphes 1 er à 6, 7 ter , paragraphes 1 er et 2, 9, 10 ou 11 du règlement (UE) n° 648/2012 ou par les mesures prises en exécution de ces articles;
 
-2. les contreparties centrales au cas où elles ne respectent pas les dispositions prévues par l’article 7, 7 sexies , paragraphe 1 er , alinéa 1 er , 9, 15, 16, 26 à 31 ou 33 à 53 du règlement (UE) n° 648/2012 ou par les mesures prises en exécution de ces articles;
+- les contreparties centrales au cas où elles ne respectent pas les dispositions prévues par l’article 7, 7 sexies , paragraphe 1 er , alinéa 1 er , 9, 15, 16, 26 à 31 ou 33 à 53 du règlement (UE) n° 648/2012 ou par les mesures prises en exécution de ces articles;
 
-3. les plateformes de négociation au cas où elles ne respectent pas les dispositions prévues par l’article 8 du règlement (UE) n° 648/2012 ou par les mesures prises en exécution de cet article;
+- les plateformes de négociation au cas où elles ne respectent pas les dispositions prévues par l’article 8 du règlement (UE) n° 648/2012 ou par les mesures prises en exécution de cet article;
 
-4. les contreparties financières soumises à sa surveillance en application de l’article 1 er , paragraphe 2 , les contreparties non financières, les contreparties centrales et les plateformes de négociation au cas où, dans le cadre ou en application des dispositions du règlement (UE) n° 648/2012 ou des mesures prises en exécution de ce règlement:
+- les contreparties financières soumises à sa surveillance en application de l’article 1 er , paragraphe 2 , les contreparties non financières, les contreparties centrales et les plateformes de négociation au cas où, dans le cadre ou en application des dispositions du règlement (UE) n° 648/2012 ou des mesures prises en exécution de ce règlement:
 
-1. elles publient des informations qui se révèlent être incomplètes, inexactes ou fausses;
+  - elles publient des informations qui se révèlent être incomplètes, inexactes ou fausses;
 
-2. elles refusent de fournir les documents ou autres renseignements demandés nécessaires à la CSSF pour les besoins de l’application du règlement (UE) n° 648/2012 ;
+  - elles refusent de fournir les documents ou autres renseignements demandés nécessaires à la CSSF pour les besoins de l’application du règlement (UE) n° 648/2012 ;
 
-3. elles ont fourni des documents ou autres renseignements qui se révèlent être incomplets, inexacts ou faux;
+  - elles ont fourni des documents ou autres renseignements qui se révèlent être incomplets, inexacts ou faux;
 
-4. elles font obstacle à l’exercice des pouvoirs de surveillance, d’intervention et, selon le cas, d’inspection et d’enquête de la CSSF;
+  - elles font obstacle à l’exercice des pouvoirs de surveillance, d’intervention et, selon le cas, d’inspection et d’enquête de la CSSF;
 
-5. elles ne donnent pas suite aux injonctions de la CSSF prononcées en vertu de l’article 2, paragraphe 1 er , point 5 ;
+  - elles ne donnent pas suite aux injonctions de la CSSF prononcées en vertu de l’article 2, paragraphe 1 er , point 5 ;
 
-5. 4bis. les prestataires de services de réduction des risques post-négociation visés à l’article 4 ter , paragraphe 4, du règlement (UE) n° 648/2012 soumis à sa surveillance en application de la loi modifiée du 30 mai 2018 relative aux marchés d’instruments financiers, en cas de manquement au paragraphe 4 dudit article ;
+- 4bis. les prestataires de services de réduction des risques post-négociation visés à l’article 4 ter , paragraphe 4, du règlement (UE) n° 648/2012 soumis à sa surveillance en application de la loi modifiée du 30 mai 2018 relative aux marchés d’instruments financiers, en cas de manquement au paragraphe 4 dudit article ;
 
-6. 4ter. les membres compensateurs et les clients, tels que définis à l’article 2, points 14) et 15), du règlement (UE) n° 648/2012 , en cas de manquement à l’article 7 quater , paragraphes 1 er à 3, ou à l’article 7 quinquies , paragraphe 1 er , alinéas 1 er et 2, du règlement (UE) n° 648/2012 ;
+- 4ter. les membres compensateurs et les clients, tels que définis à l’article 2, points 14) et 15), du règlement (UE) n° 648/2012 , en cas de manquement à l’article 7 quater , paragraphes 1 er à 3, ou à l’article 7 quinquies , paragraphe 1 er , alinéas 1 er et 2, du règlement (UE) n° 648/2012 ;
 
-7. les contreparties centrales, ainsi que les membres de leur organe de direction, leurs dirigeants effectifs, ou toute autre personne physique responsable de la violation, en cas de manquement :
+- les contreparties centrales, ainsi que les membres de leur organe de direction, leurs dirigeants effectifs, ou toute autre personne physique responsable de la violation, en cas de manquement :
 
-1. aux obligations énoncées à l’article 9 paragraphes 1 er à 4, paragraphe 6, paragraphe 7, alinéa 1 er , paragraphes 9 à 11, paragraphe 13, paragraphe 14 et paragraphes 16 à 21, du règlement (UE) 2021/23 ;
+  - aux obligations énoncées à l’article 9 paragraphes 1 er à 4, paragraphe 6, paragraphe 7, alinéa 1 er , paragraphes 9 à 11, paragraphe 13, paragraphe 14 et paragraphes 16 à 21, du règlement (UE) 2021/23 ;
 
-2. à l’obligation de soumettre le plan de redressement à la CSSF, visée à l’article 10, paragraphe 1 er , du règlement (UE) 2021/23 ; ou
+  - à l’obligation de soumettre le plan de redressement à la CSSF, visée à l’article 10, paragraphe 1 er , du règlement (UE) 2021/23 ; ou
 
-3. à l’obligation de la contrepartie centrale de maintenir à tout moment un nombre suffisant de titres de propriété, visée à l’article 35, paragraphe 1 er ;
+  - à l’obligation de la contrepartie centrale de maintenir à tout moment un nombre suffisant de titres de propriété, visée à l’article 35, paragraphe 1 er ;
 
-8. les membres compensateurs soumis à sa surveillance, ainsi que les membres de leur organe de direction, leurs dirigeants effectifs, ou toute autre personne physique responsable de la violation, en cas de manquement à l’article 9, paragraphe 23, du règlement (UE) 2021/23 .
+- les membres compensateurs soumis à sa surveillance, ainsi que les membres de leur organe de direction, leurs dirigeants effectifs, ou toute autre personne physique responsable de la violation, en cas de manquement à l’article 9, paragraphe 23, du règlement (UE) 2021/23 .
 
 (2)
 
 Le Commissariat aux assurances peut sanctionner les contreparties financières soumises à sa surveillance au cas où:
 
-1. elles ne respectent pas les dispositions prévues par les articles 4, 5, 7 bis , paragraphes 1 er à 6, 7 ter , paragraphes 1 er et 2, 9, 10 ou 11 du règlement (UE) n° 648/2012 ou par les mesures prises en exécution de ces articles;
+- elles ne respectent pas les dispositions prévues par les articles 4, 5, 7 bis , paragraphes 1 er à 6, 7 ter , paragraphes 1 er et 2, 9, 10 ou 11 du règlement (UE) n° 648/2012 ou par les mesures prises en exécution de ces articles;
 
-2. dans le cadre ou en application des dispositions du règlement (UE) n° 648/2012 ou des mesures prises en exécution de ce règlement, elles publient des informations qui se révèlent être incomplètes, inexactes ou fausses;
+- dans le cadre ou en application des dispositions du règlement (UE) n° 648/2012 ou des mesures prises en exécution de ce règlement, elles publient des informations qui se révèlent être incomplètes, inexactes ou fausses;
 
-3. dans le cadre ou en application des dispositions du règlement (UE) n° 648/2012 ou des mesures prises en exécution de ce règlement, elles refusent de fournir les documents ou autres renseignements demandés nécessaires au Commissariat aux assurances pour les besoins de l’application du règlement (UE) n° 648/2012;
+- dans le cadre ou en application des dispositions du règlement (UE) n° 648/2012 ou des mesures prises en exécution de ce règlement, elles refusent de fournir les documents ou autres renseignements demandés nécessaires au Commissariat aux assurances pour les besoins de l’application du règlement (UE) n° 648/2012;
 
-4. dans le cadre ou en application des dispositions du règlement (UE) n° 648/2012 ou des mesures prises en exécution de ce règlement, elles ont fourni des documents ou autres renseignements qui se révèlent être incomplets, inexacts ou faux;
+- dans le cadre ou en application des dispositions du règlement (UE) n° 648/2012 ou des mesures prises en exécution de ce règlement, elles ont fourni des documents ou autres renseignements qui se révèlent être incomplets, inexacts ou faux;
 
-5. dans le cadre ou en application des dispositions du règlement (UE) n° 648/2012 ou des mesures prises en exécution de ce règlement, elles font obstacle à l’exercice des pouvoirs de surveillance, d’intervention, d’inspection et d’enquête du Commissariat aux assurances;
+- dans le cadre ou en application des dispositions du règlement (UE) n° 648/2012 ou des mesures prises en exécution de ce règlement, elles font obstacle à l’exercice des pouvoirs de surveillance, d’intervention, d’inspection et d’enquête du Commissariat aux assurances;
 
-6. dans le cadre ou en application des dispositions du règlement (UE) n° 648/2012 ou des mesures prises en exécution de ce règlement, elles ne donnent pas suite aux injonctions du Commissariat aux assurances prononcées en vertu de l’article 2, paragraphe 2, point 5.
+- dans le cadre ou en application des dispositions du règlement (UE) n° 648/2012 ou des mesures prises en exécution de ce règlement, elles ne donnent pas suite aux injonctions du Commissariat aux assurances prononcées en vertu de l’article 2, paragraphe 2, point 5.
 
 (3)
 
-Pour les violations visées au paragraphe 1er, points 1 à 4, 4bis et 4ter, et au paragraphe 2 , peuvent être prononcés par la CSSF et le Commissariat aux assurances, classés par ordre de gravité:
+Pour les violations visées au paragraphe 1er, points 1 à 4 , 4bis et 4ter, et au paragraphe 2 , peuvent être prononcés par la CSSF et le Commissariat aux assurances, classés par ordre de gravité:
 
-1. un avertissement;
+- un avertissement;
 
-2. un blâme;
+- un blâme;
 
-3. une amende administrative dont le montant ne peut être ni inférieur à 125 euros, ni supérieur à 1.500.000 euros, ou si l’infraction a procuré un avantage patrimonial, direct ou indirect, aux personnes visées au présent article, une amende dont le montant ne peut être ni inférieur au montant du profit réalisé, ni supérieur au quintuple de ce montant;
+- une amende administrative dont le montant ne peut être ni inférieur à 125 euros, ni supérieur à 1.500.000 euros, ou si l’infraction a procuré un avantage patrimonial, direct ou indirect, aux personnes visées au présent article, une amende dont le montant ne peut être ni inférieur au montant du profit réalisé, ni supérieur au quintuple de ce montant;
 
-4. l’interdiction limitée dans le temps ou définitive d’effectuer une ou plusieurs activités ou une ou plusieurs opérations sur une catégorie d’instruments financiers ou de prester certains services.
+- l’interdiction limitée dans le temps ou définitive d’effectuer une ou plusieurs activités ou une ou plusieurs opérations sur une catégorie d’instruments financiers ou de prester certains services.
 
 Dans le prononcé de la sanction, la CSSF et le Commissariat aux assurances tiennent compte de la nature, de la durée et de la gravité de l’infraction, de la conduite et des antécédents de la personne physique ou morale à sanctionner, du préjudice causé aux tierces personnes et des avantages ou gains potentiels ou effectivement tirés de l’infraction.
 
@@ -188,21 +188,21 @@ Dans le prononcé de la sanction, la CSSF et le Commissariat aux assurances tien
 
 Pour les violations visées au paragraphe 1er, points 5 et 6, la CSSF peut prononcer :
 
-1. un avertissement ou un blâme ;
+- un avertissement ou un blâme ;
 
-2. une déclaration publique indiquant la personne physique, la contrepartie centrale, ou toute autre personne morale responsable, et la nature de la violation ;
+- une déclaration publique indiquant la personne physique, la contrepartie centrale, ou toute autre personne morale responsable, et la nature de la violation ;
 
-3. une injonction ordonnant à la personne physique ou morale responsable de mettre un terme au comportement en cause et de s’abstenir de le réitérer ;
+- une injonction ordonnant à la personne physique ou morale responsable de mettre un terme au comportement en cause et de s’abstenir de le réitérer ;
 
-4. une interdiction temporaire d’exercer des fonctions dans une contrepartie centrale, à l’encontre de tout membre de l’organe de direction ou de la direction autorisée de la contrepartie centrale ou de toute autre personne physique qui est tenue pour responsable ;
+- une interdiction temporaire d’exercer des fonctions dans une contrepartie centrale, à l’encontre de tout membre de l’organe de direction ou de la direction autorisée de la contrepartie centrale ou de toute autre personne physique qui est tenue pour responsable ;
 
-5. la suspension de l’exercice des droits de vote attachés aux actions ou parts détenues par les actionnaires ou associés tenus pour responsables des violations visées au paragraphe 1 er , points 5 et 6 ;
+- la suspension de l’exercice des droits de vote attachés aux actions ou parts détenues par les actionnaires ou associés tenus pour responsables des violations visées au paragraphe 1 er , points 5 et 6 ;
 
-6. dans le cas d’une personne morale, des amendes administratives d’un montant maximal de 5.000.000 euros ou jusqu’à 10 pour cent de son chiffre d’affaires annuel net total pour l’exercice précédent. Lorsque la personne morale est une filiale d’une entreprise mère, le chiffre d’affaires à prendre en considération est celui qui ressort des comptes consolidés de l’entreprise mère ultime pour l’exercice précédent ;
+- dans le cas d’une personne morale, des amendes administratives d’un montant maximal de 5.000.000 euros ou jusqu’à 10 pour cent de son chiffre d’affaires annuel net total pour l’exercice précédent. Lorsque la personne morale est une filiale d’une entreprise mère, le chiffre d’affaires à prendre en considération est celui qui ressort des comptes consolidés de l’entreprise mère ultime pour l’exercice précédent ;
 
-7. dans le cas d’une personne physique, des amendes administratives d’un montant maximal de 5.000.000 euros ;
+- dans le cas d’une personne physique, des amendes administratives d’un montant maximal de 5.000.000 euros ;
 
-8. des amendes administratives atteignant au maximum deux fois le montant de l’avantage retiré de la violation, lorsqu’il est possible de le déterminer.
+- des amendes administratives atteignant au maximum deux fois le montant de l’avantage retiré de la violation, lorsqu’il est possible de le déterminer.
 
 Lorsque la CSSF détermine le type de sanctions administratives ou autres mesures administratives et le niveau des amendes administratives, elle tient compte de toutes les circonstances prévues à l’article 85 du règlement (UE) 2021/23.
 
@@ -263,29 +263,29 @@ Sanctions et autres mesures administratives
 
 Dans le cadre de ses attributions, le conseil de résolution peut imposer les sanctions administratives et autres mesures administratives visées au paragraphe 2 :
 
-1. aux contreparties centrales, aux membres de l’organe de direction, ainsi qu’aux autres personnes physiques responsables de la violation, en cas de violation de l’article 13, de l’article 15, paragraphe 3, de l’article 16, paragraphes 3, 6 et 7, de l’article 27, paragraphe 6, alinéa 1 er , de l’article 29, paragraphe 3, alinéa 1 er , de l’article 39, de l’article 70, paragraphe 1 er , et de l’article 75, paragraphe 2, du règlement (UE) 2021/23 ;
+- aux contreparties centrales, aux membres de l’organe de direction, ainsi qu’aux autres personnes physiques responsables de la violation, en cas de violation de l’article 13, de l’article 15, paragraphe 3, de l’article 16, paragraphes 3, 6 et 7, de l’article 27, paragraphe 6, alinéa 1 er , de l’article 29, paragraphe 3, alinéa 1 er , de l’article 39, de l’article 70, paragraphe 1 er , et de l’article 75, paragraphe 2, du règlement (UE) 2021/23 ;
 
-2. aux membres compensateurs, aux membres de l’organe de direction, ainsi qu’aux autres personnes physiques responsables de la violation, en cas de violation de l’article 15, paragraphe 3, lettre b), de l’article 29, paragraphe 3, alinéa 2, de l’article 31, paragraphe 1 er , et de l’article 51, paragraphe 1 er .
+- aux membres compensateurs, aux membres de l’organe de direction, ainsi qu’aux autres personnes physiques responsables de la violation, en cas de violation de l’article 15, paragraphe 3, lettre b), de l’article 29, paragraphe 3, alinéa 2, de l’article 31, paragraphe 1 er , et de l’article 51, paragraphe 1 er .
 
 (2)
 
 Le conseil de résolution peut prononcer une ou plusieurs des sanctions et mesures suivantes :
 
-1. un avertissement ou un blâme ;
+- un avertissement ou un blâme ;
 
-2. une déclaration publique indiquant la personne physique, la contrepartie centrale, ou toute autre personne morale responsable, et la nature de la violation ;
+- une déclaration publique indiquant la personne physique, la contrepartie centrale, ou toute autre personne morale responsable, et la nature de la violation ;
 
-3. une injonction ordonnant à la personne physique ou morale responsable de mettre un terme au comportement en cause et de s’abstenir de le réitérer ;
+- une injonction ordonnant à la personne physique ou morale responsable de mettre un terme au comportement en cause et de s’abstenir de le réitérer ;
 
-4. une interdiction temporaire d’exercer des fonctions dans une contrepartie centrale, à l’encontre de tout membre de l’organe de direction ou de la direction autorisée de la contrepartie centrale ou de toute autre personne physique qui est tenue pour responsable ;
+- une interdiction temporaire d’exercer des fonctions dans une contrepartie centrale, à l’encontre de tout membre de l’organe de direction ou de la direction autorisée de la contrepartie centrale ou de toute autre personne physique qui est tenue pour responsable ;
 
-5. la suspension de l’exercice des droits de vote attachés aux actions ou parts détenues par les actionnaires ou associés tenus pour responsables des violations visées au paragraphe 1 er ;
+- la suspension de l’exercice des droits de vote attachés aux actions ou parts détenues par les actionnaires ou associés tenus pour responsables des violations visées au paragraphe 1 er ;
 
-6. dans le cas d’une personne morale, des amendes administratives d’un montant maximal de 5.000.000 euros ou jusqu’à 10 pour cent de son chiffre d’affaires annuel net total pour l’exercice précédent. Lorsque la personne morale est une filiale d’une entreprise mère, le chiffre d’affaires à prendre en considération est celui qui ressort des comptes consolidés de l’entreprise mère ultime pour l’exercice précédent ;
+- dans le cas d’une personne morale, des amendes administratives d’un montant maximal de 5.000.000 euros ou jusqu’à 10 pour cent de son chiffre d’affaires annuel net total pour l’exercice précédent. Lorsque la personne morale est une filiale d’une entreprise mère, le chiffre d’affaires à prendre en considération est celui qui ressort des comptes consolidés de l’entreprise mère ultime pour l’exercice précédent ;
 
-7. dans le cas d’une personne physique, des amendes administratives d’un montant maximal de 5.000.000 euros ;
+- dans le cas d’une personne physique, des amendes administratives d’un montant maximal de 5.000.000 euros ;
 
-8. des amendes administratives atteignant au maximum deux fois le montant de l’avantage retiré de la violation, lorsqu’il est possible de le déterminer.
+- des amendes administratives atteignant au maximum deux fois le montant de l’avantage retiré de la violation, lorsqu’il est possible de le déterminer.
 
 Lorsque le conseil de résolution détermine le type de sanctions administratives ou autres mesures administratives et le niveau des amendes administratives, il tient compte de toutes les circonstances prévues à l’article 85 du règlement (UE) 2021/23.
 
@@ -345,9 +345,9 @@ Restrictions relatives au droit des sociétés
 
 Par dérogation à la loi modifiée du 10 août 1915 concernant les sociétés commerciales :
 
-1. l’article 420-10, paragraphes 2 à 4, l’article 420-22, l’article 420-23, l’article 420-26, le renvoi dans l’article 420-6 à l’article 420-7, l’article 450-4, l’article 450-5, alinéas 1 er à 3, l’article 450-7 et l’article 480-2 de ladite loi ne sont pas applicables en cas d’utilisation d’instruments, de pouvoirs et de mécanismes de résolution prévus au titre V du règlement (UE) 2021/23 , et
+- l’article 420-10, paragraphes 2 à 4, l’article 420-22, l’article 420-23, l’article 420-26, le renvoi dans l’article 420-6 à l’article 420-7, l’article 450-4, l’article 450-5, alinéas 1 er à 3, l’article 450-7 et l’article 480-2 de ladite loi ne sont pas applicables en cas d’utilisation d’instruments, de pouvoirs et de mécanismes de résolution prévus au titre V du règlement (UE) 2021/23 , et
 
-2. les articles 1020-1 à 1024-1 de ladite loi , sauf dans la mesure où ces dispositions régissent soit la constitution d’une société européenne par la voie de la fusion conformément à l’article 420-2, paragraphe 1 er de ladite loi , soit la constitution d’une société coopérative européenne par voie de fusions conformément aux articles 832-1 à 832-4 de ladite loi , et les articles 1030-1 à 1031-18 de ladite loi , ne s’appliquent pas aux sociétés qui font l’objet de l’utilisation d’instruments, de pouvoirs et de mécanismes de résolution prévus au titre V du règlement (UE) 2021/23 .
+- les articles 1020-1 à 1024-1 de ladite loi , sauf dans la mesure où ces dispositions régissent soit la constitution d’une société européenne par la voie de la fusion conformément à l’article 420-2, paragraphe 1 er de ladite loi , soit la constitution d’une société coopérative européenne par voie de fusions conformément aux articles 832-1 à 832-4 de ladite loi , et les articles 1030-1 à 1031-18 de ladite loi , ne s’appliquent pas aux sociétés qui font l’objet de l’utilisation d’instruments, de pouvoirs et de mécanismes de résolution prévus au titre V du règlement (UE) 2021/23 .
 
 ##### Chapitre 2 Dispositions modificatives
 
@@ -356,72 +356,72 @@ Par dérogation à la loi modifiée du 10 août 1915 concernant les sociétés c
 
 L’article 2-1 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier est modifié comme suit:
 
-1. Il est inséré un paragraphe 1 bis libellé comme suit: «(1bis) Pour les établissements de crédit, les entreprises d’investissement, les sociétés de gestion, les sociétés d’investissement, les gestionnaires de fonds d’investissement alternatifs et les contreparties centrales tels que définis dans le règlement précité, établis au Luxembourg et tombant sous la surveillance de la CSSF, cette dernière, en tenant compte de la nature, de l’ampleur et de la complexité des activités de ces entités, surveille l’adéquation de leurs processus d’évaluation du risque de crédit, évalue le recours à des références contractuelles aux notations de crédit et, le cas échéant, les encourage à atténuer les effets de telles références, en vue de réduire le recours exclusif et mécanique aux notations de crédit, en ligne avec la législation spécifique qui leur est applicable.»;
+- Il est inséré un paragraphe 1 bis libellé comme suit: «(1bis) Pour les établissements de crédit, les entreprises d’investissement, les sociétés de gestion, les sociétés d’investissement, les gestionnaires de fonds d’investissement alternatifs et les contreparties centrales tels que définis dans le règlement précité, établis au Luxembourg et tombant sous la surveillance de la CSSF, cette dernière, en tenant compte de la nature, de l’ampleur et de la complexité des activités de ces entités, surveille l’adéquation de leurs processus d’évaluation du risque de crédit, évalue le recours à des références contractuelles aux notations de crédit et, le cas échéant, les encourage à atténuer les effets de telles références, en vue de réduire le recours exclusif et mécanique aux notations de crédit, en ligne avec la législation spécifique qui leur est applicable.»;
 
-2. Au paragraphe 2 les termes l’article 4, paragraphe (1) sont remplacés par les termes l’article 4, paragraphe 1er ou l’article 5bis, 8ter, 8quater ou 8quinquies .
+- Au paragraphe 2 les termes l’article 4, paragraphe (1) sont remplacés par les termes l’article 4, paragraphe 1er ou l’article 5bis, 8ter, 8quater ou 8quinquies .
 
 <a id="art-6"></a>
 ## Art. 6.
 
 La loi modifiée du 13 juillet 2005 relative aux institutions de retraite professionnelle sous forme de société d’épargne-pension à capital variable (sepcav) et d’association d’épargne-pension (assep) est modifiée comme suit:
 
-1. A l’article 77, le paragraphe 2 est remplacé par le paragraphe suivant: «(2) Le montant des actifs de couverture supplémentaires détenus doit être au moins égal au montant résultant de l’application des règles fixées en vertu de l’article 303 de la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice (solvabilité II).»;
+- A l’article 77, le paragraphe 2 est remplacé par le paragraphe suivant: «(2) Le montant des actifs de couverture supplémentaires détenus doit être au moins égal au montant résultant de l’application des règles fixées en vertu de l’article 303 de la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice (solvabilité II).»;
 
-2. A l’article 78, il est inséré à la fin de l’article un nouvel alinéa libellé comme suit: «La CSSF, en tenant compte de la nature, de l’ampleur et de la complexité des activités des fonds de pension, surveille l’adéquation des processus d’évaluation du crédit des fonds de pension, évalue l’utilisation de références à des notations de crédit émises par des agences de notation de crédit au sens de l’article 3, paragraphe 1er, point b), du règlement (CE) n° 1060/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur les agences de notation de crédit dans leurs politiques d’investissement et, le cas échéant, encourage l’atténuation des effets de telles références, en vue de réduire le recours exclusif et mécanique à de telles notations de crédit.».
+- A l’article 78, il est inséré à la fin de l’article un nouvel alinéa libellé comme suit: «La CSSF, en tenant compte de la nature, de l’ampleur et de la complexité des activités des fonds de pension, surveille l’adéquation des processus d’évaluation du crédit des fonds de pension, évalue l’utilisation de références à des notations de crédit émises par des agences de notation de crédit au sens de l’article 3, paragraphe 1er, point b), du règlement (CE) n° 1060/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur les agences de notation de crédit dans leurs politiques d’investissement et, le cas échéant, encourage l’atténuation des effets de telles références, en vue de réduire le recours exclusif et mécanique à de telles notations de crédit.».
 
 <a id="art-7"></a>
 ## Art. 7.
 
 La loi modifiée du 10 novembre 2009 relative aux services de paiement est modifiée comme suit:
 
-1. A l’article 14, paragraphe 1 er , point a), dernière phrase, le mot luxembourgeois est supprimé;
+- A l’article 14, paragraphe 1 er , point a), dernière phrase, le mot luxembourgeois est supprimé;
 
-2. A l’article 24-10, paragraphe 1 er , point a), dernière phrase, le mot luxembourgeois est supprimé;
+- A l’article 24-10, paragraphe 1 er , point a), dernière phrase, le mot luxembourgeois est supprimé;
 
-3. A l’article 58, paragraphe 2, les mots , des dispositions du règlement (UE) n° 260/2012 du Parlement européen et du Conseil du 14 mars 2012 établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et modifiant le règlement (CE) n° 924/2009 sont insérés après les mots le règlement (CE) No. 2560/2001 et l’abréviation No. est remplacée par l’abréviation n° à trois reprises;
+- A l’article 58, paragraphe 2, les mots , des dispositions du règlement (UE) n° 260/2012 du Parlement européen et du Conseil du 14 mars 2012 établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et modifiant le règlement (CE) n° 924/2009 sont insérés après les mots le règlement (CE) No. 2560/2001 et l’abréviation No. est remplacée par l’abréviation n° à trois reprises;
 
-4. L’article 111 est remplacé par le texte suivant: «Art. 111. Le caractère définitif du règlement dans les systèmes visés à l’article 108 (1) Même en cas de procédure d’insolvabilité à l’encontre d’un participant, les ordres de transfert et la compensation dans les systèmes visés à l’article 108 produisent leurs effets en droit entre parties et sont opposables aux tiers à condition que les ordres de transfert aient été introduits dans le système avant le moment de l’ouverture d’une procédure d’insolvabilité. Ceci vaut même dans le cas où la procédure d’insolvabilité a été ouverte à l’encontre d’un participant au système concerné ou à un système interopérable ou à l’encontre de l’opérateur d’un système interopérable qui n’est pas un participant au système concerné. Les ordres de transfert introduits dans un système après le moment de l’ouverture d’une procédure d’insolvabilité et exécutés le jour ouvrable, tel que défini par les règles de fonctionnement du système, au cours duquel cette procédure est ouverte, ne produisent leurs effets en droit et ne sont opposables aux tiers qu’à condition que l’opérateur du système puisse prouver que, au moment où ces ordres de transfert sont devenus irrévocables, il n’avait pas connaissance ni n’aurait dû avoir connaissance de l’ouverture de la procédure d’insolvabilité. De même, à partir du moment d’introduction dans un système, la compensation ne peut plus être remise en cause pour quelque raison que ce soit, nonobstant toute disposition législative, réglementaire, contractuelle ou usuelle qui prévoit l’annulation des contrats et des transactions conclus avant le moment d’ouverture d’une procédure d’insolvabilité. Le moment de l’introduction d’un ordre de transfert dans un système visé à l’article 108 est défini par les règles de fonctionnement dudit système. Dans le cas de systèmes interopérables, l’opérateur du système agréé au Luxembourg se concerte avec les opérateurs des autres systèmes concernés en vue de convenir, dans la mesure du possible, de règles communes relatives au moment de l’introduction d’un ordre de transfert dans les systèmes interopérables. Sauf disposition contraire expresse des règles de l’ensemble des systèmes parties aux systèmes interopérables, les règles de fonctionnement d’un système agréé au Luxembourg définissant le moment de l’introduction d’un ordre de transfert dans ledit système ne sont affectées par aucune règle des autres systèmes avec lesquels il est interopérable. (2) Un ordre de transfert ne peut plus être révoqué par un participant d’un système visé à l’article 108 ou par un tiers à partir du moment fixé par les règles de fonctionnement de ce système. Dans le cas de systèmes interopérables, l’opérateur du système agréé au Luxembourg se concerte avec les opérateurs des autres systèmes concernés en vue de convenir, dans la mesure du possible, de règles communes relatives au moment d’irrévocabilité d’un ordre de transfert dans les systèmes interopérables. Sauf disposition contraire expresse des règles de l’ensemble des systèmes parties aux systèmes interopérables, les règles de fonctionnement d’un système agréé au Luxembourg définissant le moment de l’irrévocabilité d’un ordre de transfert dans ledit système ne sont affectées par aucune règle des autres systèmes avec lesquels il est interopérable. (3) L’ouverture d’une procédure d’insolvabilité à l’encontre d’un participant ou d’un opérateur de système interopérable n’empêche pas l’utilisation des fonds ou titres disponibles sur le compte de règlement propre dudit participant pour l’exécution des obligations de ce participant dans le système ou dans un système interopérable au jour ouvrable de l’ouverture de la procédure d’insolvabilité. Toute facilité de crédit dudit participant liée au système peut être utilisée moyennant une garantie existante et disponible pour l’exécution des obligations de ce participant dans le système ou dans un système interopérable. (4) Une procédure d’insolvabilité ne peut avoir, sur les droits et obligations d’un participant qui découlent de sa participation à un système ou qui sont liés à cette participation, d’effet rétroactif par rapport au moment d’ouverture d’une procédure d’insolvabilité. Ceci vaut pour, entre autres, les droits et obligations d’un participant à un système interopérable ou d’un opérateur de système interopérable qui n’est pas un participant. (5) Tout compte de règlements auprès d’un opérateur de système ou d’un organe de règlement, de même que tout transfert, via un établissement de crédit de droit luxembourgeois ou étranger, à porter à un tel compte de règlement, ne peut être saisi, mis sous séquestre ou bloqué d’une manière quelconque par un participant (autre que l’opérateur du système ou l’organe de règlement), une contrepartie ou un tiers.»;
+- L’article 111 est remplacé par le texte suivant: «Art. 111. Le caractère définitif du règlement dans les systèmes visés à l’article 108 (1) Même en cas de procédure d’insolvabilité à l’encontre d’un participant, les ordres de transfert et la compensation dans les systèmes visés à l’article 108 produisent leurs effets en droit entre parties et sont opposables aux tiers à condition que les ordres de transfert aient été introduits dans le système avant le moment de l’ouverture d’une procédure d’insolvabilité. Ceci vaut même dans le cas où la procédure d’insolvabilité a été ouverte à l’encontre d’un participant au système concerné ou à un système interopérable ou à l’encontre de l’opérateur d’un système interopérable qui n’est pas un participant au système concerné. Les ordres de transfert introduits dans un système après le moment de l’ouverture d’une procédure d’insolvabilité et exécutés le jour ouvrable, tel que défini par les règles de fonctionnement du système, au cours duquel cette procédure est ouverte, ne produisent leurs effets en droit et ne sont opposables aux tiers qu’à condition que l’opérateur du système puisse prouver que, au moment où ces ordres de transfert sont devenus irrévocables, il n’avait pas connaissance ni n’aurait dû avoir connaissance de l’ouverture de la procédure d’insolvabilité. De même, à partir du moment d’introduction dans un système, la compensation ne peut plus être remise en cause pour quelque raison que ce soit, nonobstant toute disposition législative, réglementaire, contractuelle ou usuelle qui prévoit l’annulation des contrats et des transactions conclus avant le moment d’ouverture d’une procédure d’insolvabilité. Le moment de l’introduction d’un ordre de transfert dans un système visé à l’article 108 est défini par les règles de fonctionnement dudit système. Dans le cas de systèmes interopérables, l’opérateur du système agréé au Luxembourg se concerte avec les opérateurs des autres systèmes concernés en vue de convenir, dans la mesure du possible, de règles communes relatives au moment de l’introduction d’un ordre de transfert dans les systèmes interopérables. Sauf disposition contraire expresse des règles de l’ensemble des systèmes parties aux systèmes interopérables, les règles de fonctionnement d’un système agréé au Luxembourg définissant le moment de l’introduction d’un ordre de transfert dans ledit système ne sont affectées par aucune règle des autres systèmes avec lesquels il est interopérable. (2) Un ordre de transfert ne peut plus être révoqué par un participant d’un système visé à l’article 108 ou par un tiers à partir du moment fixé par les règles de fonctionnement de ce système. Dans le cas de systèmes interopérables, l’opérateur du système agréé au Luxembourg se concerte avec les opérateurs des autres systèmes concernés en vue de convenir, dans la mesure du possible, de règles communes relatives au moment d’irrévocabilité d’un ordre de transfert dans les systèmes interopérables. Sauf disposition contraire expresse des règles de l’ensemble des systèmes parties aux systèmes interopérables, les règles de fonctionnement d’un système agréé au Luxembourg définissant le moment de l’irrévocabilité d’un ordre de transfert dans ledit système ne sont affectées par aucune règle des autres systèmes avec lesquels il est interopérable. (3) L’ouverture d’une procédure d’insolvabilité à l’encontre d’un participant ou d’un opérateur de système interopérable n’empêche pas l’utilisation des fonds ou titres disponibles sur le compte de règlement propre dudit participant pour l’exécution des obligations de ce participant dans le système ou dans un système interopérable au jour ouvrable de l’ouverture de la procédure d’insolvabilité. Toute facilité de crédit dudit participant liée au système peut être utilisée moyennant une garantie existante et disponible pour l’exécution des obligations de ce participant dans le système ou dans un système interopérable. (4) Une procédure d’insolvabilité ne peut avoir, sur les droits et obligations d’un participant qui découlent de sa participation à un système ou qui sont liés à cette participation, d’effet rétroactif par rapport au moment d’ouverture d’une procédure d’insolvabilité. Ceci vaut pour, entre autres, les droits et obligations d’un participant à un système interopérable ou d’un opérateur de système interopérable qui n’est pas un participant. (5) Tout compte de règlements auprès d’un opérateur de système ou d’un organe de règlement, de même que tout transfert, via un établissement de crédit de droit luxembourgeois ou étranger, à porter à un tel compte de règlement, ne peut être saisi, mis sous séquestre ou bloqué d’une manière quelconque par un participant (autre que l’opérateur du système ou l’organe de règlement), une contrepartie ou un tiers.»;
 
-5. Un alinéa de la teneur suivante est inséré à la fin de l’article 112, paragraphe 2: «Lorsqu’un opérateur de système a fourni une garantie à un autre opérateur de système en rapport avec un système interopérable, ses droits à l’égard de la garantie qu’il a fournie ne sont pas affectés par les poursuites pour insolvabilité intentées contre l’opérateur de système qui les a reçues.».
+- Un alinéa de la teneur suivante est inséré à la fin de l’article 112, paragraphe 2: «Lorsqu’un opérateur de système a fourni une garantie à un autre opérateur de système en rapport avec un système interopérable, ses droits à l’égard de la garantie qu’il a fournie ne sont pas affectés par les poursuites pour insolvabilité intentées contre l’opérateur de système qui les a reçues.».
 
 <a id="art-8"></a>
 ## Art. 8.
 
 La loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif est modifiée comme suit:
 
-1. L’article 42 est modifié comme suit:
+- L’article 42 est modifié comme suit:
 
-1. Le paragraphe 1 er est remplacé par le texte suivant: «(1) Une société de gestion ayant son siège statutaire au Luxembourg doit employer une méthode de gestion des risques qui lui permet de contrôler et de mesurer à tout moment le risque associé aux positions et la contribution de celles-ci au profil de risque général du portefeuille d’un OPCVM. En particulier, elle ne doit pas recourir exclusivement ou mécaniquement à des notations de crédit émises par des agences de notation de crédit au sens de l’article 3, paragraphe 1er, point b), du règlement (CE) n° 1060/2009 du 16 septembre 2009 sur les agences de notation de crédit pour évaluer la qualité de crédit des actifs de l’OPCVM. Elle doit employer une méthode permettant une évaluation précise et indépendante de la valeur des instruments dérivés de gré à gré. Elle doit communiquer régulièrement à la CSSF, pour chaque OPCVM qu’elle gère, selon les règles détaillées définies par cette dernière, les types d’instruments dérivés, les risques sous-jacents, les limites quantitatives ainsi que les méthodes choisies pour estimer les risques associés aux transactions sur instruments dérivés. La même obligation incombe à une société d’investissement ayant son siège statutaire au Luxembourg.»;
+  - Le paragraphe 1 er est remplacé par le texte suivant: «(1) Une société de gestion ayant son siège statutaire au Luxembourg doit employer une méthode de gestion des risques qui lui permet de contrôler et de mesurer à tout moment le risque associé aux positions et la contribution de celles-ci au profil de risque général du portefeuille d’un OPCVM. En particulier, elle ne doit pas recourir exclusivement ou mécaniquement à des notations de crédit émises par des agences de notation de crédit au sens de l’article 3, paragraphe 1er, point b), du règlement (CE) n° 1060/2009 du 16 septembre 2009 sur les agences de notation de crédit pour évaluer la qualité de crédit des actifs de l’OPCVM. Elle doit employer une méthode permettant une évaluation précise et indépendante de la valeur des instruments dérivés de gré à gré. Elle doit communiquer régulièrement à la CSSF, pour chaque OPCVM qu’elle gère, selon les règles détaillées définies par cette dernière, les types d’instruments dérivés, les risques sous-jacents, les limites quantitatives ainsi que les méthodes choisies pour estimer les risques associés aux transactions sur instruments dérivés. La même obligation incombe à une société d’investissement ayant son siège statutaire au Luxembourg.»;
 
-2. Il est inséré un paragraphe 3 bis libellé comme suit: «(3bis) La CSSF, en tenant compte de la nature, de l’ampleur, et de la complexité des activités des OPCVM, surveille l’adéquation des processus d’évaluation du crédit des sociétés de gestion ou d’investissement ayant leur siège statutaire au Luxembourg, évalue l’utilisation de références à des notations de crédit, telles qu’elles sont visées au paragraphe 1er, deuxième phrase, dans les politiques d’investissement des OPCVM et, le cas échéant, encourage l’atténuation des effets de telles références, en vue de réduire le recours exclusif et mécanique à de telles notations de crédit.»;
+  - Il est inséré un paragraphe 3 bis libellé comme suit: «(3bis) La CSSF, en tenant compte de la nature, de l’ampleur, et de la complexité des activités des OPCVM, surveille l’adéquation des processus d’évaluation du crédit des sociétés de gestion ou d’investissement ayant leur siège statutaire au Luxembourg, évalue l’utilisation de références à des notations de crédit, telles qu’elles sont visées au paragraphe 1er, deuxième phrase, dans les politiques d’investissement des OPCVM et, le cas échéant, encourage l’atténuation des effets de telles références, en vue de réduire le recours exclusif et mécanique à de telles notations de crédit.»;
 
-2. Dans la Partie IV, chapitre 15, il est inséré à la suite du titre D:
+- Dans la Partie IV, chapitre 15, il est inséré à la suite du titre D:
 
-1. Un titre E, intitulé: «Titre E. – Des sociétés de gestion appartenant à un conglomérat financier»;
+  - Un titre E, intitulé: «Titre E. – Des sociétés de gestion appartenant à un conglomérat financier»;
 
-2. Dans ce Titre E il est inséré un article unique 124-1, libellé comme suit: «Art. 124-1. Sans préjudice des dispositions en matière de surveillance prévues par la présente loi, lorsqu’une société de gestion agréée au titre du présent chapitre fait partie d’un conglomérat financier au sens de l’article 2, point 14, de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre 2002 relative à la surveillance complémentaire des établissements de crédit, des entreprises d’assurance et des entreprises d’investissement appartenant à un conglomérat financier, et modifiant les directives 73/239/CEE, 79/267/ CEE, 92/49/CEE, 92/96/CEE, 93/6/CEE et 93/22/CEE du Conseil et les directives 98/78/CE et 2000/12/CE du Parlement européen et du Conseil, elle est également soumise à la surveillance complémentaire exercée par la CSSF selon les modalités prévues à la Partie II, Chapitre 3ter, de la loi modifiée du 5 avril 1993 relative au secteur financier.».
+  - Dans ce Titre E il est inséré un article unique 124-1, libellé comme suit: «Art. 124-1. Sans préjudice des dispositions en matière de surveillance prévues par la présente loi, lorsqu’une société de gestion agréée au titre du présent chapitre fait partie d’un conglomérat financier au sens de l’article 2, point 14, de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre 2002 relative à la surveillance complémentaire des établissements de crédit, des entreprises d’assurance et des entreprises d’investissement appartenant à un conglomérat financier, et modifiant les directives 73/239/CEE, 79/267/ CEE, 92/49/CEE, 92/96/CEE, 93/6/CEE et 93/22/CEE du Conseil et les directives 98/78/CE et 2000/12/CE du Parlement européen et du Conseil, elle est également soumise à la surveillance complémentaire exercée par la CSSF selon les modalités prévues à la Partie II, Chapitre 3ter, de la loi modifiée du 5 avril 1993 relative au secteur financier.».
 
 <a id="art-9"></a>
 ## Art. 9.
 
 L’article 1er de la loi du 28 octobre 2011 mettant en oeuvre le règlement (CE) n° 1060/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur les agences de notation de crédit est modifié comme suit:
 
-1. L’alinéa 1 er est abrogé;
+- L’alinéa 1 er est abrogé;
 
-2. Il est ajouté un nouvel alinéa de la teneur suivante à la fin de l’article: «Pour les personnes visées à l’article 4, paragraphe 1er, alinéa 1 du règlement (CE) n° 1060/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur les agences de notation de crédit, qui sont soumises à sa surveillance, le Commissariat aux assurances, en tenant compte de la nature, de l’ampleur et de la complexité des activités de ces entités, surveille l’adéquation de leurs processus d’évaluation du risque de crédit, évalue le recours à des références contractuelles aux notations de crédit et, le cas échéant, les encourage à atténuer les effets de telles références, en vue de réduire le recours exclusif et mécanique aux notations de crédit, en ligne avec la législation spécifique qui leur est applicable.».
+- Il est ajouté un nouvel alinéa de la teneur suivante à la fin de l’article: «Pour les personnes visées à l’article 4, paragraphe 1er, alinéa 1 du règlement (CE) n° 1060/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur les agences de notation de crédit, qui sont soumises à sa surveillance, le Commissariat aux assurances, en tenant compte de la nature, de l’ampleur et de la complexité des activités de ces entités, surveille l’adéquation de leurs processus d’évaluation du risque de crédit, évalue le recours à des références contractuelles aux notations de crédit et, le cas échéant, les encourage à atténuer les effets de telles références, en vue de réduire le recours exclusif et mécanique aux notations de crédit, en ligne avec la législation spécifique qui leur est applicable.».
 
 <a id="art-10"></a>
 ## Art. 10.
 
 La loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs est modifiée comme suit:
 
-1. A l’article 2, paragraphe 1 er , il est ajouté un alinéa 5 libellé comme suit: «Sans préjudice des dispositions en matière de surveillance prévues par la présente loi, lorsqu’ils font partie d’un conglomérat financier au sens de l’article 2, point 14, de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre 2002 relative à la surveillance complémentaire des établissements de crédit, des entreprises d’assurance et des entreprises d’investissement appartenant à un conglomérat financier, et modifiant les directives 73/239/CEE, 79/267/CEE, 92/49/CEE, 92/96/CEE, 93/6/CEE et 93/22/CEE du Conseil et les directives 98/78/CE et 2000/12/CE du Parlement européen et du Conseil, les gestionnaires visés au présent paragraphe sont également soumis à la surveillance complémentaire exercée par la CSSF selon les modalités prévues au Chapitre 3ter de la Partie II de la loi modifiée du 5 avril 1993 relative au secteur financier.»;
+- A l’article 2, paragraphe 1 er , il est ajouté un alinéa 5 libellé comme suit: «Sans préjudice des dispositions en matière de surveillance prévues par la présente loi, lorsqu’ils font partie d’un conglomérat financier au sens de l’article 2, point 14, de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre 2002 relative à la surveillance complémentaire des établissements de crédit, des entreprises d’assurance et des entreprises d’investissement appartenant à un conglomérat financier, et modifiant les directives 73/239/CEE, 79/267/CEE, 92/49/CEE, 92/96/CEE, 93/6/CEE et 93/22/CEE du Conseil et les directives 98/78/CE et 2000/12/CE du Parlement européen et du Conseil, les gestionnaires visés au présent paragraphe sont également soumis à la surveillance complémentaire exercée par la CSSF selon les modalités prévues au Chapitre 3ter de la Partie II de la loi modifiée du 5 avril 1993 relative au secteur financier.»;
 
-2. L’article 14 est modifié comme suit:
+- L’article 14 est modifié comme suit:
 
-1. Le paragraphe 2 est remplacé par le texte suivant: «(2) Les gestionnaires sont obligés de mettre en oeuvre des systèmes appropriés de gestion des risques afin de détecter, mesurer, gérer et suivre de manière appropriée tous les risques relevant de chaque stratégie d’investissement des FIA et auxquels chaque FIA est exposé ou susceptible d’être exposé. En particulier, les gestionnaires ne doivent pas recourir exclusivement ou mécaniquement à des notations de crédit émises par des agences de notation de crédit au sens de l’article 3, paragraphe 1er, point b), du règlement (CE) n° 1060/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur les agences de notation de crédit pour évaluer la qualité de crédit des actifs des FIA. Les gestionnaires examinent avec une fréquence appropriée, au moins une fois par an, les systèmes de gestion des risques et les adaptent si nécessaire.»;
+  - Le paragraphe 2 est remplacé par le texte suivant: «(2) Les gestionnaires sont obligés de mettre en oeuvre des systèmes appropriés de gestion des risques afin de détecter, mesurer, gérer et suivre de manière appropriée tous les risques relevant de chaque stratégie d’investissement des FIA et auxquels chaque FIA est exposé ou susceptible d’être exposé. En particulier, les gestionnaires ne doivent pas recourir exclusivement ou mécaniquement à des notations de crédit émises par des agences de notation de crédit au sens de l’article 3, paragraphe 1er, point b), du règlement (CE) n° 1060/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur les agences de notation de crédit pour évaluer la qualité de crédit des actifs des FIA. Les gestionnaires examinent avec une fréquence appropriée, au moins une fois par an, les systèmes de gestion des risques et les adaptent si nécessaire.»;
 
-2. Il est inséré un paragraphe 3 bis libellé comme suit: «(3bis) La CSSF, en tenant compte de la nature, de l’ampleur et de la complexité des activités des FIA, surveille l’adéquation des processus d’évaluation du crédit des gestionnaires de FIA, évalue l’utilisation de références à des notations de crédit, telles qu’elles sont visées au paragraphe 2, alinéa 1, dans les politiques d’investissement des FIA et, le cas échéant, encourage l’atténuation des effets de telles références, en vue de réduire le recours exclusif et mécanique à de telles notations de crédit.».
+  - Il est inséré un paragraphe 3 bis libellé comme suit: «(3bis) La CSSF, en tenant compte de la nature, de l’ampleur et de la complexité des activités des FIA, surveille l’adéquation des processus d’évaluation du crédit des gestionnaires de FIA, évalue l’utilisation de références à des notations de crédit, telles qu’elles sont visées au paragraphe 2, alinéa 1, dans les politiques d’investissement des FIA et, le cas échéant, encourage l’atténuation des effets de telles références, en vue de réduire le recours exclusif et mécanique à de telles notations de crédit.».
 
 ##### Chapitre 3 Dispositions transitoires et finales
 
@@ -430,9 +430,9 @@ La loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d’inve
 
 La CSSF peut accorder les exemptions suivantes :
 
-1. que, jusqu’au 3 janvier 2021, l’obligation de compensation énoncée à l’article 4 du règlement (UE) n ° 648/2012 et les techniques d’atténuation des risques énoncées à l’article 11, paragraphe 3, dudit règlement ne s’appliquent pas aux contrats dérivés sur l’énergie C.6 tels que définis à l’article 1 er , point 8, de la loi du 30 mai 2018 relative aux marchés d’instruments financiers (ci-après, les « contrats dérivés sur l’énergie C.6 ») conclus par des contreparties non financières qui répondent aux conditions prévues à l’article 10, paragraphe 1 er , du règlement (UE) n° 648/2012 ou par des contreparties non financières qui seront agréées pour la première fois en tant qu’entreprises d’investissement à compter du 3 janvier 2018 ; et
+- que, jusqu’au 3 janvier 2021, l’obligation de compensation énoncée à l’article 4 du règlement (UE) n ° 648/2012 et les techniques d’atténuation des risques énoncées à l’article 11, paragraphe 3, dudit règlement ne s’appliquent pas aux contrats dérivés sur l’énergie C.6 tels que définis à l’article 1 er , point 8, de la loi du 30 mai 2018 relative aux marchés d’instruments financiers (ci-après, les « contrats dérivés sur l’énergie C.6 ») conclus par des contreparties non financières qui répondent aux conditions prévues à l’article 10, paragraphe 1 er , du règlement (UE) n° 648/2012 ou par des contreparties non financières qui seront agréées pour la première fois en tant qu’entreprises d’investissement à compter du 3 janvier 2018 ; et
 
-2. que, jusqu’au 3 janvier 2021, ces contrats dérivés sur l’énergie C.6 ne sont pas considérés comme des contrats de dérivés de gré à gré aux fins du seuil de compensation établi à l’article 10 du règlement (UE) n° 648/2012 .
+- que, jusqu’au 3 janvier 2021, ces contrats dérivés sur l’énergie C.6 ne sont pas considérés comme des contrats de dérivés de gré à gré aux fins du seuil de compensation établi à l’article 10 du règlement (UE) n° 648/2012 .
 
 Les contrats dérivés sur l’énergie C.6 qui bénéficient du régime transitoire énoncé à l’alinéa 1er sont soumis à toutes les autres exigences prévues dans le règlement (UE) n° 648/2012.
 

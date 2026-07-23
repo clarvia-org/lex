@@ -38,13 +38,13 @@ Conformément à l'article 1er de la loi modifiée du 28 décembre 1988 régleme
 
 Les activités de gardiennage et de surveillance visées par la présente loi comprennent:
 
-1. la surveillance de biens mobiliers et immobiliers;
+- la surveillance de biens mobiliers et immobiliers;
 
-2. la gestion de centres d'alarmes;
+- la gestion de centres d'alarmes;
 
-3. le transport de fonds ou de valeurs;
+- le transport de fonds ou de valeurs;
 
-4. la protection de personnes.
+- la protection de personnes.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -58,19 +58,19 @@ Par dérogation à l'alinéa précédent les personnes, qui se sont vu délivrer
 
 Les demandes d'autorisation sont à adresser au ministre de la Justice et doivent indiquer:
 
-1. les noms, prénoms, lieu et date de naissance, nationalité, profession et domicile du requérant, ou s'il s'agit d'une société, la dénomination ou la raison sociale, la forme de la société et son siège social, ainsi que les noms, prénoms, lieu et date de naissance, nationalité, profession et domicile des directeurs, gérants et administrateurs;
+- les noms, prénoms, lieu et date de naissance, nationalité, profession et domicile du requérant, ou s'il s'agit d'une société, la dénomination ou la raison sociale, la forme de la société et son siège social, ainsi que les noms, prénoms, lieu et date de naissance, nationalité, profession et domicile des directeurs, gérants et administrateurs;
 
-2. une description précise des activités projetées;
+- une description précise des activités projetées;
 
-3. les moyens techniques dont dispose le requérant;
+- les moyens techniques dont dispose le requérant;
 
-4. la liste du personnel engagé;
+- la liste du personnel engagé;
 
-5. l'aspect détaillé de l'uniforme porté par le personnel;
+- l'aspect détaillé de l'uniforme porté par le personnel;
 
-6. le spécimen de la carte de légitimation portée par le personnel;
+- le spécimen de la carte de légitimation portée par le personnel;
 
-7. le règlement de service.
+- le règlement de service.
 
 La demande introduite par une société doit être accompagnée d'une copie des statuts coordonnés, d'un extrait récent du registre de commerce ainsi que d'une copie de l'autorisation délivrée par le ministre ayant dans ses attributions les autorisations d'établissement. La liste du personnel engagé visée au point 4. ci-dessus comprend l'indication des nom, prénoms, date et lieu de naissance, nationalité et domicile des personnes concernées, en y joignant un curriculum vitae, un extrait récent du casier judiciaire, une copie de l'examen médical d'embauchage, selon les prescriptions de la loi modifiée du 17 juin 1994 concernant les services de santé au travail, et une copie de la carte d'identité. La production de ces documents est, hormis la copie de l'examen médical d'embauchage, également requise pour les directeurs, gérants et administrateurs visés au point 1. ci-dessus. L'aspect de l'uniforme visé au point 5. ci-dessus est à documenter par une description détaillée des différentes pièces le composant et des photos couleurs y afférentes. L'uniforme doit être conçu de façon à ne pas pouvoir être confondu avec l'uniforme porté par les forces de l'ordre.
 
@@ -100,11 +100,11 @@ L'engagement du personnel chargé des missions énumérées à l'article 2 de la
 
 L'autorisation d'engager est refusée si:
 
-1. l'agent est âgé de moins de dix-huit ans;
+- l'agent est âgé de moins de dix-huit ans;
 
-2. l'agent ne remplit pas les conditions d'honorabilité nécessaires;
+- l'agent ne remplit pas les conditions d'honorabilité nécessaires;
 
-3. l'agent exerce des activités jugées incompatibles avec ses missions.
+- l'agent exerce des activités jugées incompatibles avec ses missions.
 
 <a id="art-8bis"></a>
 ## Art. 8bis.
@@ -123,11 +123,11 @@ Les informations concernant les faits visés à l’alinéa 1er, sont communiqu�
 
 Le procureur d’État et la Police grand-ducale ne communiquent des informations au ministre de la Justice, conformément au présent article, que pour des faits :
 
-1. incriminés en tant que crime ou délit par la loi ;
+- incriminés en tant que crime ou délit par la loi ;
 
-2. visés à l’article 563, point 3°, du Code pénal relatif aux voies de fait et violences légères ;
+- visés à l’article 563, point 3°, du Code pénal relatif aux voies de fait et violences légères ;
 
-3. ayant motivé une procédure d’expulsion sur base de l’article I er de la loi modifiée du 8 septembre 2003 sur la violence domestique.
+- ayant motivé une procédure d’expulsion sur base de l’article I er de la loi modifiée du 8 septembre 2003 sur la violence domestique.
 
 L’alinéa 1er ne s’applique pas aux faits qui, bien que relevant des points 1° et 2°, ont fait l’objet d’un acquittement, d’une réhabilitation judiciaire ou légale, ou sont prescrits.
 
@@ -165,21 +165,21 @@ Le règlement de service visé à l'article 4 point 7° est un document qui cont
 
 Ce document contient, entre autres, obligatoirement les dispositions suivantes:
 
-1. les obligations découlant du secret professionnel;
+- les obligations découlant du secret professionnel;
 
-2. les principes de la légitime défense;
+- les principes de la légitime défense;
 
-3. le comportement de l'agent durant son service;
+- le comportement de l'agent durant son service;
 
-4. l'organisation interne du service et la désignation des chefs hiérarchiques;
+- l'organisation interne du service et la désignation des chefs hiérarchiques;
 
-5. les personnes de référence en cas de difficultés;
+- les personnes de référence en cas de difficultés;
 
-6. les instructions relatives à l'octroi et au port de l'uniforme et de la carte de légitimation;
+- les instructions relatives à l'octroi et au port de l'uniforme et de la carte de légitimation;
 
-7. l'obligation d'informer les forces de l'ordre en cas de constatation d'une infraction pénale ayant trait aux activités de gardiennage et de surveillance;
+- l'obligation d'informer les forces de l'ordre en cas de constatation d'une infraction pénale ayant trait aux activités de gardiennage et de surveillance;
 
-8. en cas de port d'armes, les instructions relatives à l'octroi, à l'utilisation et au dépôt de ces armes, ainsi que l'obligation de participer régulièrement à des exercices de tir.
+- en cas de port d'armes, les instructions relatives à l'octroi, à l'utilisation et au dépôt de ces armes, ainsi que l'obligation de participer régulièrement à des exercices de tir.
 
 Le règlement de service doit être agréé par le ministre de la Justice qui peut exiger l'insertion de toute autre disposition qu'il juge nécessaire à l'exécution des activités projetées.
 
@@ -342,13 +342,13 @@ Par protection des personnes au sens de la présente loi, on entend les activit�
 
 Toute personne, physique ou morale, qui prend régulièrement recours à des transporteurs de fonds ou de valeurs au sens de l'article 22 pour recevoir ou expédier des fonds ou valeurs, est tenue d'assurer au moins les réalisations suivantes:
 
-1. mise à disposition d'un endroit de stationnement réservé pour le véhicule assurant le transport de fonds ou de valeurs à proximité maximale de l'entrée des locaux desservis;
+- mise à disposition d'un endroit de stationnement réservé pour le véhicule assurant le transport de fonds ou de valeurs à proximité maximale de l'entrée des locaux desservis;
 
-2. aménagement d'un local sécurisé, permettant le dépôt et la collecte de fonds ou de valeurs, à atteindre dans la mesure du possible à l'abri de la vue du public;
+- aménagement d'un local sécurisé, permettant le dépôt et la collecte de fonds ou de valeurs, à atteindre dans la mesure du possible à l'abri de la vue du public;
 
-3. réalisation d'un système de surveillance qui couvre l'endroit de stationnement, le cheminement du convoyeur et le local sécurisé;
+- réalisation d'un système de surveillance qui couvre l'endroit de stationnement, le cheminement du convoyeur et le local sécurisé;
 
-4. réalisation d'un moyen de communication ou d'un système d'alarme permettant d'avertir la société de transports de fonds ou de valeurs de tout risque d'agression.
+- réalisation d'un moyen de communication ou d'un système d'alarme permettant d'avertir la société de transports de fonds ou de valeurs de tout risque d'agression.
 
 Avant la mise en service des équipements prévus au présent article, la police grand-ducale doit être avisée pour lui permettre de prendre inspection des aménagements. Par décision du ministre de la Justice, les transporteurs de fonds ou de valeurs peuvent se voir interdire de desservir une personne, tenue d'assurer les réalisations dont question à l'alinéa premier, si cette personne reste en défaut d'y satisfaire, malgré l'injonction qui lui a été adressée par le ministre de la Justice, moyennant lettre recommandée avec avis de réception, de se conformer à la loi dans un délai déterminé.
 
@@ -366,11 +366,11 @@ Est puni des peines prévues par l'alinéa 1 le fait d'effectuer un transport de
 
 Sont punis d’une amende de 1.250 euros à 125.000 euros les sociétés exerçant des activités privées de gardiennage et de surveillance, les membres de l’organe de direction, les dirigeants effectifs ou les autres personnes responsables d’une infraction de ces sociétés, lorsqu’ils ont manqué à l’obligation :
 
-1. de s’assurer de l’authenticité des billets et pièces en euros qu’ils reçoivent et entendent remettre en circulation et de veiller à la détection des contrefaçons.
+- de s’assurer de l’authenticité des billets et pièces en euros qu’ils reçoivent et entendent remettre en circulation et de veiller à la détection des contrefaçons.
 
-2. de retirer de la circulation tous les billets et pièces en euros qu’ils ont reçus et dont ils savent ou au sujet desquels ils ont des raisons suffisantes de penser qu’ils sont faux ;
+- de retirer de la circulation tous les billets et pièces en euros qu’ils ont reçus et dont ils savent ou au sujet desquels ils ont des raisons suffisantes de penser qu’ils sont faux ;
 
-3. de remettre les signes monétaires sous forme de billets et pièces en euros visés au point 2 aux autorités compétentes.
+- de remettre les signes monétaires sous forme de billets et pièces en euros visés au point 2 aux autorités compétentes.
 
 ##### Section VIII dispositions transitoires et abrogatoires
 

@@ -115,17 +115,17 @@ Les associations-gérantes des centres visés à l´article 5 ci-dessus sont hab
 
 Avant la fin de la 12e semaine de grossesse ou avant la fin de la 14e semaine d’aménorrhée, une interruption volontaire de grossesse peut être pratiquée lorsque la femme enceinte la demande, à condition:
 
-1. que la femme enceinte ait consulté un médecin spécialiste en gynécologie et obstétrique avant que ne soit pratiquée l’interruption volontaire de grossesse qui lui fournit :
+- que la femme enceinte ait consulté un médecin spécialiste en gynécologie et obstétrique avant que ne soit pratiquée l’interruption volontaire de grossesse qui lui fournit :
 
-1. une attestation de grossesse datée qui renseigne sur le siège et l’âge exact de la grossesse qui sera remise au médecin qui réalise l’interruption volontaire de grossesse;
+  - une attestation de grossesse datée qui renseigne sur le siège et l’âge exact de la grossesse qui sera remise au médecin qui réalise l’interruption volontaire de grossesse;
 
-2. des informations médicales sur les différentes méthodes d’interruption volontaire de grossesse existantes, ainsi que sur les risques médicaux et les effets secondaires potentiels de ces méthodes;
+  - des informations médicales sur les différentes méthodes d’interruption volontaire de grossesse existantes, ainsi que sur les risques médicaux et les effets secondaires potentiels de ces méthodes;
 
-3. une liste des établissements agréés pour pratiquer une interruption volontaire de grossesse selon les modalités prévues au présent article, qui est mise à disposition par le ministre ayant la Santé dans ses attributions, lorsque le médecin, pour une raison quelconque, n’est pas en mesure de pratiquer lui-même une telle intervention; et
+  - une liste des établissements agréés pour pratiquer une interruption volontaire de grossesse selon les modalités prévues au présent article, qui est mise à disposition par le ministre ayant la Santé dans ses attributions, lorsque le médecin, pour une raison quelconque, n’est pas en mesure de pratiquer lui-même une telle intervention; et
 
-4. une documentation qui est mise à disposition par le ministre ayant la Santé dans ses attributions, informant sur les droits de la femme enceinte, les aides aux enfants et familles, et les différents choix qui s’offrent dans la situation où elle se trouve, ainsi que leurs conséquences. Cette documentation comprend une liste des services d’assistance psychosociale dont question au paragraphe 2;
+  - une documentation qui est mise à disposition par le ministre ayant la Santé dans ses attributions, informant sur les droits de la femme enceinte, les aides aux enfants et familles, et les différents choix qui s’offrent dans la situation où elle se trouve, ainsi que leurs conséquences. Cette documentation comprend une liste des services d’assistance psychosociale dont question au paragraphe 2;
 
-2. que l’interruption volontaire de grossesse soit réalisée par un médecin spécialiste en gynécologie et obstétrique autorisé à pratiquer l’art de guérir au Grand-Duché de Luxembourg et pratiquée dans un établissement hospitalier ou tout autre établissement agréé à cette fin par arrêté du ministre ayant la Santé dans ses attributions. L’interruption de grossesse réalisée par moyens médicamenteux peut également être réalisée par un médecin, autorisé à pratiquer l’art de guérir au Grand-Duché de Luxembourg, qui n’est pas spécialiste en gynécologie et obstétrique. Elle peut être pratiquée par le médecin en cabinet médical s’il le juge possible, à condition qu’il ait passé une convention avec un établissement hospitalier disposant d’un service de gynécologie-obstétrique qui assure un service d’urgence permanent.
+- que l’interruption volontaire de grossesse soit réalisée par un médecin spécialiste en gynécologie et obstétrique autorisé à pratiquer l’art de guérir au Grand-Duché de Luxembourg et pratiquée dans un établissement hospitalier ou tout autre établissement agréé à cette fin par arrêté du ministre ayant la Santé dans ses attributions. L’interruption de grossesse réalisée par moyens médicamenteux peut également être réalisée par un médecin, autorisé à pratiquer l’art de guérir au Grand-Duché de Luxembourg, qui n’est pas spécialiste en gynécologie et obstétrique. Elle peut être pratiquée par le médecin en cabinet médical s’il le juge possible, à condition qu’il ait passé une convention avec un établissement hospitalier disposant d’un service de gynécologie-obstétrique qui assure un service d’urgence permanent.
 
 (2)
 
@@ -137,9 +137,9 @@ Si la femme enceinte est une mineure non émancipée, elle doit consulter un ser
 
 La femme mineure non émancipée doit par ailleurs confirmer par écrit:
 
-1. être déterminée à faire procéder à une interruption volontaire de grossesse;
+- être déterminée à faire procéder à une interruption volontaire de grossesse;
 
-2. consentir à l’intervention prévue après avoir obtenu de la part du médecin les informations mentionnées au point 1 du paragraphe 1er.
+- consentir à l’intervention prévue après avoir obtenu de la part du médecin les informations mentionnées au point 1 du paragraphe 1er.
 
 La confirmation écrite est versée au dossier médical et doit être contresignée soit par l’un des titulaires de l’autorité parentale ou par le représentant légal, soit par la personne de confiance ci-avant désignée.
 

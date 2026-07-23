@@ -31,29 +31,29 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement on entend
 
-1. par L.I.R. la loi du 4 décembre 1967 concernant l'impôt sur le revenu;
+- par L.I.R. la loi du 4 décembre 1967 concernant l'impôt sur le revenu;
 
-2. par retenue d'impôt forfaitaire la retenue d'impôt telle qu'elle est prévue par l'article 3 du présent règlement;
+- par retenue d'impôt forfaitaire la retenue d'impôt telle qu'elle est prévue par l'article 3 du présent règlement;
 
-3. par salaires
+- par salaires
 
-1. les rémunérations touchées par le personnel salarié occupé pour le compte d’une entreprise maritime agréée à bord d’un navire exploité en trafic international,
+  - les rémunérations touchées par le personnel salarié occupé pour le compte d’une entreprise maritime agréée à bord d’un navire exploité en trafic international,
 
-2. les prestations pécuniaires de maladie versées à ces salariés;
+  - les prestations pécuniaires de maladie versées à ces salariés;
 
-4. par salariés les membres du personnel salarié occupé pour le compte d’une entreprise maritime agréée à bord d’un navire exploité en trafic international;
+- par salariés les membres du personnel salarié occupé pour le compte d’une entreprise maritime agréée à bord d’un navire exploité en trafic international;
 
-5. par employeur
+- par employeur
 
-1. l’entreprise maritime agréée opérant en trafic international,
+  - l’entreprise maritime agréée opérant en trafic international,
 
-2. l'organisme de la sécurité sociale allouant les prestations pécuniaires de maladie;
+  - l'organisme de la sécurité sociale allouant les prestations pécuniaires de maladie;
 
-6. par établissement
+- par établissement
 
-1. le siège de direction des entreprises maritimes visées sub 5a ci-dessus,
+  - le siège de direction des entreprises maritimes visées sub 5a ci-dessus,
 
-2. le siège de l'organisme de la sécurité sociale visé sous 5 o b ci-dessus.
+  - le siège de l'organisme de la sécurité sociale visé sous 5 o b ci-dessus.
 
 ##### Section 2. La retenue d'impôt forfaitaire
 
@@ -65,7 +65,7 @@ Les salaires au sens des articles 95 et 95a L.I.R. touchés par les salariés no
 <a id="art-3"></a>
 ## Art. 3.
 
-La retenue d'impôt est fixée à 10 % du montant brut du salaire diminué de 10 % et d'un abattement s'élevant à 1.800 euros par mois ou 72 euros par jour , sans prise en considération de la classe d'impôt à retenir si le salaire n'était pas imposé forfaitairement.
+La retenue d'impôt est fixée à 10 % du montant brut du salaire diminué de 10 % et d'un abattement s'élevant à 1. 800 euros par mois ou 72 euros par jour , sans prise en considération de la classe d'impôt à retenir si le salaire n'était pas imposé forfaitairement.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -97,11 +97,11 @@ Les salariés soumis à l'imposition forfaitaire du présent règlement sont dis
 
 L'employeur doit tenir au lieu de l'établissement un relevé documentant, par salarié,
 
-1. le salaire brut alloué, ventilé, suivant le cas, d'après ses différentes composantes;
+- le salaire brut alloué, ventilé, suivant le cas, d'après ses différentes composantes;
 
-2. la période pour laquelle le salaire est alloué;
+- la période pour laquelle le salaire est alloué;
 
-3. la retenue d'impôt dégagée par application des dispositions de l'article 3.
+- la retenue d'impôt dégagée par application des dispositions de l'article 3.
 
 (2)
 
@@ -126,11 +126,11 @@ Une déclaration et, le cas échéant, un versement doivent intervenir au titre 
 
 La période de déclaration et de versement correspond
 
-1. au mois lorsque la somme des retenues du mois en cause s'élève à au moins 750 euros ;
+- au mois lorsque la somme des retenues du mois en cause s'élève à au moins 750 euros ;
 
-2. au trimestre lorsque la somme des retenues du mois en cause s'élève à au moins 75 euros , tout en restant inférieure à 750 euros ;
+- au trimestre lorsque la somme des retenues du mois en cause s'élève à au moins 75 euros , tout en restant inférieure à 750 euros ;
 
-3. à l'année lorsque la somme des retenues du mois en cause est inférieure à 75 euros .
+- à l'année lorsque la somme des retenues du mois en cause est inférieure à 75 euros .
 
 Lorsqu'une période de déclaration et de versement plus courte se substitue à une période de déclaration et de versement plus longue, cette dernière se transforme à son tour en une nouvelle période plus courte pour laquelle les retenues en souffrance sont à déclarer distinctement et à verser dans les mêmes délais que ceux applicables à la première période.
 
@@ -193,9 +193,9 @@ La revision a essentiellement pour but de constater si tous les salariés et tou
 
 Les employeurs sont tenus, lorsqu'ils en sont requis par un reviseur de l'administration justifiant de sa qualité par la présentation de la carte d'identité de service
 
-1. d'autoriser ce reviseur à pénétrer dans les locaux de l'établissement durant les heures usuelles de service,
+- d'autoriser ce reviseur à pénétrer dans les locaux de l'établissement durant les heures usuelles de service,
 
-2. de mettre à sa disposition un local approprié et les installations nécessaires pour l'accomplissement de sa mission.
+- de mettre à sa disposition un local approprié et les installations nécessaires pour l'accomplissement de sa mission.
 
 (2)
 
@@ -205,9 +205,9 @@ Les employeurs ainsi que leurs employés sont tenus de communiquer au reviseur l
 
 Les employeurs sont, par ailleurs, tenus
 
-1. de fournir au reviseur toutes explications permettant d'interpréter de façon exacte les écritures comptables,
+- de fournir au reviseur toutes explications permettant d'interpréter de façon exacte les écritures comptables,
 
-2. de donner, sur demande du reviseur, tous renseignements nécessaires pour l'appréciation de la situation fiscale des personnes dont la qualité de salarié dans l'établissement est douteuse.
+- de donner, sur demande du reviseur, tous renseignements nécessaires pour l'appréciation de la situation fiscale des personnes dont la qualité de salarié dans l'établissement est douteuse.
 
 (4)
 
@@ -240,15 +240,15 @@ A défaut de déclaration ou en cas de détermination inexacte de la retenue l'i
 
 Le bulletin de la retenue d'impôt sur les salaires et les pensions doit contenir:
 
-1. le montant de l'impôt à verser;
+- le montant de l'impôt à verser;
 
-2. les éléments de la détermination de l'impôt à verser, pour autant qu'ils n'ont pas été communiqués au destinataire du bulletin;
+- les éléments de la détermination de l'impôt à verser, pour autant qu'ils n'ont pas été communiqués au destinataire du bulletin;
 
-3. l'indication que la fixation est complémentaire si elle ne porte pas sur l'ensemble des retenues dues au titre de la période de fixation;
+- l'indication que la fixation est complémentaire si elle ne porte pas sur l'ensemble des retenues dues au titre de la période de fixation;
 
-4. l'indication des modalités de versement de l'impôt;
+- l'indication des modalités de versement de l'impôt;
 
-5. une instruction relative aux voies et moyens de recours.
+- une instruction relative aux voies et moyens de recours.
 
 (3)
 

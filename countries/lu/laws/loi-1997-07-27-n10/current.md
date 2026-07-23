@@ -37,55 +37,55 @@ Définitions
 
 Au sens de la présente loi, on entend par:
 
-1. Contrat d'assurance: un contrat en vertu duquel, moyennant le paiement d'une prime fixe ou variable, une partie, l'assureur, s'engage envers une autre partie, le preneur d'assurance, à fournir une prestation stipulée dans le contrat au cas où: Est considéré comme contrat d'assurance un contrat nominatif basé sur les techniques des opérations de capitalisation et comportant une clause d'attribution bénéficiaire.
+- Contrat d'assurance: un contrat en vertu duquel, moyennant le paiement d'une prime fixe ou variable, une partie, l'assureur, s'engage envers une autre partie, le preneur d'assurance, à fournir une prestation stipulée dans le contrat au cas où: Est considéré comme contrat d'assurance un contrat nominatif basé sur les techniques des opérations de capitalisation et comportant une clause d'attribution bénéficiaire.
 
-- dans l'assurance de dommages survient un événement incertain que l'assuré a intérêt à ne pas voir se réaliser;
+  - dans l'assurance de dommages survient un événement incertain que l'assuré a intérêt à ne pas voir se réaliser;
 
-- dans l'assurance de personnes survient un événement incertain qui affecte la vie, l'intégrité physique ou la situation familiale de l'assuré.
+  - dans l'assurance de personnes survient un événement incertain qui affecte la vie, l'intégrité physique ou la situation familiale de l'assuré.
 
-2. Opération de capitalisation: un contrat au porteur comportant l'engagement, en échange de versements uniques ou périodiques, de fournir une prestation fixée dans le contrat ou liée à l'évolution de la valeur ou du rendement des actifs auxquels le contrat est adossé.
+- Opération de capitalisation: un contrat au porteur comportant l'engagement, en échange de versements uniques ou périodiques, de fournir une prestation fixée dans le contrat ou liée à l'évolution de la valeur ou du rendement des actifs auxquels le contrat est adossé.
 
-3. Preneur ou preneur d'assurance: la personne qui souscrit le contrat d'assurance ou de capitalisation.
+- Preneur ou preneur d'assurance: la personne qui souscrit le contrat d'assurance ou de capitalisation.
 
-4. Assuré:
+- Assuré:
 
-1. dans une assurance de dommages: la personne garantie par l'assurance contre les pertes patrimoniales;
+  - dans une assurance de dommages: la personne garantie par l'assurance contre les pertes patrimoniales;
 
-2. dans une assurance de personnes: la personne sur la tête de laquelle repose le risque de survenance de l'événement assuré.
+  - dans une assurance de personnes: la personne sur la tête de laquelle repose le risque de survenance de l'événement assuré.
 
-5. Bénéficiaire: la personne en faveur de laquelle sont stipulées des prestations d'assurance.
+- Bénéficiaire: la personne en faveur de laquelle sont stipulées des prestations d'assurance.
 
-6. Personne lésée: dans une assurance de responsabilité, la personne victime d'un dommage dont l'assuré est responsable.
+- Personne lésée: dans une assurance de responsabilité, la personne victime d'un dommage dont l'assuré est responsable.
 
-7. Prime: toute espèce de rémunération demandée par l'assureur en contrepartie de ses engagements.
+- Prime: toute espèce de rémunération demandée par l'assureur en contrepartie de ses engagements.
 
-8. Prestation d'assurance: le montant payable ou le service à fournir par l'assureur en exécution du contrat d'assurance.
+- Prestation d'assurance: le montant payable ou le service à fournir par l'assureur en exécution du contrat d'assurance.
 
-9. Assurance de dommages: celle dans laquelle la prestation d'assurance dépend d'un événement incertain qui cause un dommage au patrimoine d'une personne.
+- Assurance de dommages: celle dans laquelle la prestation d'assurance dépend d'un événement incertain qui cause un dommage au patrimoine d'une personne.
 
-10. Assurance de personnes: celle dans laquelle la prestation d'assurance ou la prime dépend d'un événement incertain qui affecte la vie, l'intégrité physique ou la situation familiale d'une personne.
+- Assurance de personnes: celle dans laquelle la prestation d'assurance ou la prime dépend d'un événement incertain qui affecte la vie, l'intégrité physique ou la situation familiale d'une personne.
 
-11. Assurance à caractère indemnitaire: celle dans laquelle l'assureur s'engage à fournir la prestation nécessaire pour réparer tout ou partie d'un dommage subi par l'assuré ou dont celui-ci est responsable.
+- Assurance à caractère indemnitaire: celle dans laquelle l'assureur s'engage à fournir la prestation nécessaire pour réparer tout ou partie d'un dommage subi par l'assuré ou dont celui-ci est responsable.
 
-12. Assurance à caractère forfaitaire: celle dans laquelle la prestation de l'assureur ne dépend pas de l'importance du dommage.
+- Assurance à caractère forfaitaire: celle dans laquelle la prestation de l'assureur ne dépend pas de l'importance du dommage.
 
-13. Note de couverture: un document émanant de l'assureur par lequel celui-ci prend le risque en charge provisoirement, à la demande du preneur d'assurance.
+- Note de couverture: un document émanant de l'assureur par lequel celui-ci prend le risque en charge provisoirement, à la demande du preneur d'assurance.
 
-14. Proposition d'assurance: un formulaire émanant de l'assureur, rempli et signé par le preneur, et destiné à éclairer l'assureur sur la nature de l'opération et sur les faits et circonstances qui constituent pour lui des éléments d'appréciation du risque.
+- Proposition d'assurance: un formulaire émanant de l'assureur, rempli et signé par le preneur, et destiné à éclairer l'assureur sur la nature de l'opération et sur les faits et circonstances qui constituent pour lui des éléments d'appréciation du risque.
 
-15. Police présignée: une police d'assurance signée préalablement par l'assureur et contenant une offre non sollicitée par le preneur de contracter aux conditions qui y sont décrites, éventuellement complétées par les spécifications que le preneur d'assurance mentionne aux endroits prévus à cet effet.
+- Police présignée: une police d'assurance signée préalablement par l'assureur et contenant une offre non sollicitée par le preneur de contracter aux conditions qui y sont décrites, éventuellement complétées par les spécifications que le preneur d'assurance mentionne aux endroits prévus à cet effet.
 
-16. Réduction en assurance à caractère indemnitaire: sanction consistant pour l'assureur à diminuer sa prestation, eu égard au manquement, par le preneur d'assurance ou l'assuré, à l'une des obligations découlant du contrat d'assurance.
+- Réduction en assurance à caractère indemnitaire: sanction consistant pour l'assureur à diminuer sa prestation, eu égard au manquement, par le preneur d'assurance ou l'assuré, à l'une des obligations découlant du contrat d'assurance.
 
-17. Contrat d’assurance à distance: tout contrat d’assurance conclu entre un assureur et un preneur d’assurance dans le cadre d’un système de vente ou de prestations de services à distance organisé par l’assureur, qui, pour ce contrat, utilise exclusivement une ou plusieurs techniques de communication à distance jusqu’à, et y compris, la conclusion du contrat d’assurance.
+- Contrat d’assurance à distance: tout contrat d’assurance conclu entre un assureur et un preneur d’assurance dans le cadre d’un système de vente ou de prestations de services à distance organisé par l’assureur, qui, pour ce contrat, utilise exclusivement une ou plusieurs techniques de communication à distance jusqu’à, et y compris, la conclusion du contrat d’assurance.
 
-18. Technique de communication à distance: tout moyen qui, sans qu’il y ait présence physique et simultanée de l’assureur et du preneur d’assurance, peut être utilisé pour la commercialisation à distance d’un contrat d’assurance entre ces parties.
+- Technique de communication à distance: tout moyen qui, sans qu’il y ait présence physique et simultanée de l’assureur et du preneur d’assurance, peut être utilisé pour la commercialisation à distance d’un contrat d’assurance entre ces parties.
 
-19. Support durable: tout instrument permettant au preneur d’assurance de stocker des informations qui lui sont adressées personnellement d’une manière permettant de s’y reporter aisément à l’avenir pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l’identique des informations stockées.
+- Support durable: tout instrument permettant au preneur d’assurance de stocker des informations qui lui sont adressées personnellement d’une manière permettant de s’y reporter aisément à l’avenir pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l’identique des informations stockées.
 
-20. Opérateur ou fournisseur d’une technique de communication à distance: toute personne physique ou morale, publique ou privée, dont l’activité commerciale ou professionnelle consiste à mettre à la disposition des assureurs une ou plusieurs techniques de communication à distance.
+- Opérateur ou fournisseur d’une technique de communication à distance: toute personne physique ou morale, publique ou privée, dont l’activité commerciale ou professionnelle consiste à mettre à la disposition des assureurs une ou plusieurs techniques de communication à distance.
 
-21. Loi sur le secteur des assurances: la loi du 7 décembre 2015 sur le secteur des assurances.
+- Loi sur le secteur des assurances: la loi du 7 décembre 2015 sur le secteur des assurances.
 
 <a id="art-2"></a>
 ## Article 2
@@ -256,55 +256,55 @@ Information du preneur d'assurance avant la conclusion du contrat
 
 Avant la conclusion du contrat d’assurance, le preneur d’assurance doit recevoir en temps utile de l’entreprise d’assurances la communication des informations suivantes:
 
-1. la dénomination ou raison sociale et la forme juridique de l’entreprise d’assurances,
+- la dénomination ou raison sociale et la forme juridique de l’entreprise d’assurances,
 
-2. le nom de l’Etat membre où est établi le siège social, et le cas échéant, l’agence ou la succursale avec lequel le contrat sera conclu,
+- le nom de l’Etat membre où est établi le siège social, et le cas échéant, l’agence ou la succursale avec lequel le contrat sera conclu,
 
-3. l’adresse du siège social et le numéro d’immatriculation au registre de commerce et des sociétés de l’entreprise d’assurances ou de tout registre étranger équivalent et, le cas échéant, l’adresse et le numéro d’immatriculation de l’agence ou de la succursale avec lequel le contrat sera conclu,
+- l’adresse du siège social et le numéro d’immatriculation au registre de commerce et des sociétés de l’entreprise d’assurances ou de tout registre étranger équivalent et, le cas échéant, l’adresse et le numéro d’immatriculation de l’agence ou de la succursale avec lequel le contrat sera conclu,
 
-4. si le preneur a des relations commerciales avec un professionnel autre que ceux visés à la lettre c) ci-dessus, l’identité de ce professionnel, le titre auquel il agit à l’égard du preneur et l’adresse géographique à prendre en compte dans les relations entre le preneur et le professionnel,
+- si le preneur a des relations commerciales avec un professionnel autre que ceux visés à la lettre c) ci-dessus, l’identité de ce professionnel, le titre auquel il agit à l’égard du preneur et l’adresse géographique à prendre en compte dans les relations entre le preneur et le professionnel,
 
-5. les coordonnées des autorités de surveillance compétentes à l’égard des entités et personnes visées aux lettres c) et, le cas échéant, d),
+- les coordonnées des autorités de surveillance compétentes à l’égard des entités et personnes visées aux lettres c) et, le cas échéant, d),
 
-6. la définition de chaque garantie et option ainsi que toute limitation ou exclusion apportées à ces garanties,
+- la définition de chaque garantie et option ainsi que toute limitation ou exclusion apportées à ces garanties,
 
-7. la durée du contrat,
+- la durée du contrat,
 
-8. les modalités d’exercice du droit de résiliation, y compris les éventuelles pénalités imposées par le contrat en cas de résiliation,
+- les modalités d’exercice du droit de résiliation, y compris les éventuelles pénalités imposées par le contrat en cas de résiliation,
 
-9. l’existence ou l’absence d’un droit de rétractation et si ce droit existe, sa durée et les modalités de son exercice, y compris des informations sur le montant que le preneur peut être tenu de payer, ainsi que sur les conséquences découlant de l’absence d’exercice de ce droit, ainsi que des instructions pratiques pour l’exercice du droit de rétractation indiquant, entre autres, l’adresse à laquelle la notification doit être envoyée,
+- l’existence ou l’absence d’un droit de rétractation et si ce droit existe, sa durée et les modalités de son exercice, y compris des informations sur le montant que le preneur peut être tenu de payer, ainsi que sur les conséquences découlant de l’absence d’exercice de ce droit, ainsi que des instructions pratiques pour l’exercice du droit de rétractation indiquant, entre autres, l’adresse à laquelle la notification doit être envoyée,
 
-10. les modalités et la durée de versement des primes,
+- les modalités et la durée de versement des primes,
 
-11. les informations sur tous les frais accessoires et les taxes occasionnés par la conclusion du contrat,
+- les informations sur tous les frais accessoires et les taxes occasionnés par la conclusion du contrat,
 
-12. les informations sur les primes relatives à chaque garantie, qu’elle soit principale ou complémentaire, lorsque de telles informations s’avèrent appropriées,
+- les informations sur les primes relatives à chaque garantie, qu’elle soit principale ou complémentaire, lorsque de telles informations s’avèrent appropriées,
 
-13. la loi qui sera applicable au contrat au cas où les parties n’auraient pas de liberté de choix ou, si les parties ont la liberté de choisir la loi applicable, la loi que l’assureur propose,
+- la loi qui sera applicable au contrat au cas où les parties n’auraient pas de liberté de choix ou, si les parties ont la liberté de choisir la loi applicable, la loi que l’assureur propose,
 
-14. la juridiction compétente pour connaître des litiges nés du contrat,
+- la juridiction compétente pour connaître des litiges nés du contrat,
 
-15. les dispositions relatives à l’examen des réclamations des preneurs d’assurance au sujet du contrat, y compris, le cas échéant, l’existence ou l’absence d’une instance chargée d’examiner les réclamations et, si une telle instance existe, les modalités d’accès à cette dernière, sans préjudice de la possibilité pour le preneur d’assurance d’intenter une action en justice,
+- les dispositions relatives à l’examen des réclamations des preneurs d’assurance au sujet du contrat, y compris, le cas échéant, l’existence ou l’absence d’une instance chargée d’examiner les réclamations et, si une telle instance existe, les modalités d’accès à cette dernière, sans préjudice de la possibilité pour le preneur d’assurance d’intenter une action en justice,
 
-16. la langue ou les langues dans laquelle/lesquelles sont communiquées les conditions générales et spéciales ainsi que l’information visée au présent point et à l’article 62-2, point 1, et, en outre, la langue ou les langues dans laquelle ou lesquelles l’assureur s’engage, en accord avec le preneur, à communiquer pendant la durée du contrat,
+- la langue ou les langues dans laquelle/lesquelles sont communiquées les conditions générales et spéciales ainsi que l’information visée au présent point et à l’article 62-2, point 1, et, en outre, la langue ou les langues dans laquelle ou lesquelles l’assureur s’engage, en accord avec le preneur, à communiquer pendant la durée du contrat,
 
-17. toute limitation de la durée pendant laquelle les informations fournies sont valables,
+- toute limitation de la durée pendant laquelle les informations fournies sont valables,
 
-18. le cas échéant, une notification indiquant que le contrat d’assurance est lié à des instruments qui impliquent des risques particuliers du fait de leurs spécificités ou des opérations à exécuter ou dont le prix dépend de fluctuations des marchés financiers sur lesquelles l’assureur n’a aucune influence et que les performances passées ne laissent pas présager les performances futures,
+- le cas échéant, une notification indiquant que le contrat d’assurance est lié à des instruments qui impliquent des risques particuliers du fait de leurs spécificités ou des opérations à exécuter ou dont le prix dépend de fluctuations des marchés financiers sur lesquelles l’assureur n’a aucune influence et que les performances passées ne laissent pas présager les performances futures,
 
 et en outre pour l’assurance sur la vie:
 
-1. dans le cas d’un contrat émis par une entreprise d’assurance de l’Espace économique européen, une référence concrète au rapport sur la solvabilité et la situation financière prévu à l’article 82 de la loi sur le secteur des assurances , qui permet au preneur d’assurance d’accéder facilement à ces informations; dans le cas d’un contrat émis par une entreprise d’assurance hors de l’Espace économique européen, des indications sur leur solvabilité au regard de la réglementation prudentielle qui leur est applicable, et en outre pour l’assurance sur la vie,
+- dans le cas d’un contrat émis par une entreprise d’assurance de l’Espace économique européen, une référence concrète au rapport sur la solvabilité et la situation financière prévu à l’article 82 de la loi sur le secteur des assurances , qui permet au preneur d’assurance d’accéder facilement à ces informations; dans le cas d’un contrat émis par une entreprise d’assurance hors de l’Espace économique européen, des indications sur leur solvabilité au regard de la réglementation prudentielle qui leur est applicable, et en outre pour l’assurance sur la vie,
 
-2. les modalités de calcul et d’attribution des participations aux bénéfices,
+- les modalités de calcul et d’attribution des participations aux bénéfices,
 
-3. les indications des valeurs de rachat et de réduction et la nature des garanties y afférentes,
+- les indications des valeurs de rachat et de réduction et la nature des garanties y afférentes,
 
-4. une énumération des valeurs de référence utilisées (unités de compte) dans les contrats à capital variable,
+- une énumération des valeurs de référence utilisées (unités de compte) dans les contrats à capital variable,
 
-5. des indications sur la nature des actifs représentatifs des contrats à capital variable,
+- des indications sur la nature des actifs représentatifs des contrats à capital variable,
 
-6. des indications générales relatives au régime fiscal applicable au type de police.
+- des indications générales relatives au régime fiscal applicable au type de police.
 
 Dans le cas où l’entreprise d’assurance, en rapport avec l’offre ou la conclusion d’un contrat d’assurance vie, indique des chiffres relatifs au montant de possibles prestations en sus et au-delà des prestations convenues par contrat, elle fournit au preneur un exemple de calcul dans lequel le possible versement à échéance est exposé, en appliquant la base de calcul ayant servi à la détermination des primes, à trois taux d’intérêt différents. Ceci ne s’applique pas aux assurances et contrats à terme. L’assureur informe le preneur, de manière claire et compréhensible, que cet exemple de calcul n’est que l’application d’un modèle fondé sur de pures hypothèses et que le preneur ne tire de cet exemple de calcul aucun droit contractuel.
 
@@ -676,11 +676,11 @@ Si un sinistre survient avant que la modification du contrat ou la résiliation 
 
 Si un sinistre survient et que le preneur d'assurance n'ait pas rempli l'obligation visée au point 1 du présent article:
 
-1. l'assureur est tenu d'effectuer la prestation convenue lorsque le défaut de déclaration ne peut être reproché au preneur;
+- l'assureur est tenu d'effectuer la prestation convenue lorsque le défaut de déclaration ne peut être reproché au preneur;
 
-2. l'assureur n'est tenu d'effectuer sa prestation que selon le rapport entre la prime payée et la prime que le preneur aurait dû payer si l'aggravation avait été prise en considération, lorsque le défaut de déclaration peut être reproché au preneur. Toutefois, si l'assureur apporte la preuve qu'il n'aurait en aucun cas assuré le risque aggravé, sa prestation en cas de sinistre est limitée au remboursement des primes payées relatives à la période postérieure à la survenance de l'aggravation;
+- l'assureur n'est tenu d'effectuer sa prestation que selon le rapport entre la prime payée et la prime que le preneur aurait dû payer si l'aggravation avait été prise en considération, lorsque le défaut de déclaration peut être reproché au preneur. Toutefois, si l'assureur apporte la preuve qu'il n'aurait en aucun cas assuré le risque aggravé, sa prestation en cas de sinistre est limitée au remboursement des primes payées relatives à la période postérieure à la survenance de l'aggravation;
 
-3. si le preneur d'assurance a agi dans une intention frauduleuse, l'assureur peut refuser sa garantie. Les primes échues jusqu'au moment où l'assureur a eu connaissance de la fraude lui sont dues à titre de dommage et intérêts.
+- si le preneur d'assurance a agi dans une intention frauduleuse, l'assureur peut refuser sa garantie. Les primes échues jusqu'au moment où l'assureur a eu connaissance de la fraude lui sont dues à titre de dommage et intérêts.
 
 4.
 
@@ -961,11 +961,11 @@ Sauf en cas de fraude, aucun des assureurs ne peut se prévaloir de l'existence 
 
 Sauf accord entre les assureurs au sujet d'un autre mode de répartition, la charge du sinistre se répartit comme suit:
 
-1. si la valeur de l'intérêt assurable est déterminable, la répartition s'effectue entre les assureurs proportionnellement à leurs obligations respectives;
+- si la valeur de l'intérêt assurable est déterminable, la répartition s'effectue entre les assureurs proportionnellement à leurs obligations respectives;
 
-2. si la valeur de l'intérêt assurable n'est pas déterminable, la répartition s'effectue par parts égales entre tous les contrats jusqu'à concurrence du montant maximum commun assuré par l'ensemble des contrats; sans qu'il ne soit plus tenu compte des contrats dont la garantie effectivement accordée atteint ce dernier montant, le solde éventuel de l'indemnité se répartit de la même manière entre les autres contrats, cette technique de répartition étant reproduite par tranches successives jusqu'à la hauteur du montant total de l'indemnité ou des garanties effectivement accordées par l'ensemble des contrats;
+- si la valeur de l'intérêt assurable n'est pas déterminable, la répartition s'effectue par parts égales entre tous les contrats jusqu'à concurrence du montant maximum commun assuré par l'ensemble des contrats; sans qu'il ne soit plus tenu compte des contrats dont la garantie effectivement accordée atteint ce dernier montant, le solde éventuel de l'indemnité se répartit de la même manière entre les autres contrats, cette technique de répartition étant reproduite par tranches successives jusqu'à la hauteur du montant total de l'indemnité ou des garanties effectivement accordées par l'ensemble des contrats;
 
-3. lorsqu'un ou plusieurs assureurs ne peuvent payer tout ou partie de leur quote-part, celle-ci est répartie entre les autres assureurs de la manière prévue à la lettre b), sans toutefois que le montant assuré par chacun puisse être dépassé.
+- lorsqu'un ou plusieurs assureurs ne peuvent payer tout ou partie de leur quote-part, celle-ci est répartie entre les autres assureurs de la manière prévue à la lettre b), sans toutefois que le montant assuré par chacun puisse être dépassé.
 
 3.
 
@@ -1074,17 +1074,17 @@ Informations précontractuelles
 
 Outre les informations prévues à l’article 10 point 1 le preneur d’assurance reçoit en temps utile avant qu’il ne soit lié par un contrat d’assurance à distance ou par une offre les informations suivantes:
 
-1. les conditions générales et spéciales,
+- les conditions générales et spéciales,
 
-2. en sus des informations visées à l’article 10, point 1, lettres f) et g), une description des principales caractéristiques du contrat,
+- en sus des informations visées à l’article 10, point 1, lettres f) et g), une description des principales caractéristiques du contrat,
 
-3. les modes de paiement et d’exécution,
+- les modes de paiement et d’exécution,
 
-4. tout coût supplémentaire spécifique pour le preneur d’assurance afférent à l’utilisation de la technique de communication à distance, lorsque ce coût supplémentaire est facturé,
+- tout coût supplémentaire spécifique pour le preneur d’assurance afférent à l’utilisation de la technique de communication à distance, lorsque ce coût supplémentaire est facturé,
 
-5. le ou les Etats membres sur la législation duquel/desquels l’assureur se fonde pour établir les relations avec le preneur d’assurance avant la conclusion du contrat d’assurance à distance,
+- le ou les Etats membres sur la législation duquel/desquels l’assureur se fonde pour établir les relations avec le preneur d’assurance avant la conclusion du contrat d’assurance à distance,
 
-6. l’existence ou l’absence d’un fonds de garantie ou d’un autre mécanisme d’indemnisation.
+- l’existence ou l’absence d’un fonds de garantie ou d’un autre mécanisme d’indemnisation.
 
 2.
 
@@ -1094,19 +1094,19 @@ Les informations visées à l’article 10 point 1 ainsi qu’au présent articl
 
 En cas de communication par téléphonie vocale:
 
-1. l’identité de l’assureur et le but commercial de l’appel dont l’assureur a pris l’initiative sont indiqués sans équivoque au début de toute conversation avec le preneur d’assurance;
+- l’identité de l’assureur et le but commercial de l’appel dont l’assureur a pris l’initiative sont indiqués sans équivoque au début de toute conversation avec le preneur d’assurance;
 
-2. par dérogation à l’article 10 point 1 et au point 1 du présent article et sous réserve de l’accord formel du preneur d’assurance, seules les informations ci-après doivent être fournies lors de la communication téléphonique:
+- par dérogation à l’article 10 point 1 et au point 1 du présent article et sous réserve de l’accord formel du preneur d’assurance, seules les informations ci-après doivent être fournies lors de la communication téléphonique:
 
-- l’identité de la personne en contact avec le preneur d’assurance et le lien de cette personne avec l’assureur,
+  - l’identité de la personne en contact avec le preneur d’assurance et le lien de cette personne avec l’assureur,
 
-- une description des principales caractéristiques du contrat d’assurance,
+  - une description des principales caractéristiques du contrat d’assurance,
 
-- le prix total dû par le preneur d’assurance à l’assureur pour le contrat d’assurance, qui comprend toutes les taxes acquittées par l’intermédiaire de l’assureur ou, lorsqu’un prix exact ne peut être indiqué, la base de calcul du prix, permettant au preneur d’assurance de vérifier ce dernier,
+  - le prix total dû par le preneur d’assurance à l’assureur pour le contrat d’assurance, qui comprend toutes les taxes acquittées par l’intermédiaire de l’assureur ou, lorsqu’un prix exact ne peut être indiqué, la base de calcul du prix, permettant au preneur d’assurance de vérifier ce dernier,
 
-- l’indication de l’existence éventuelle d’autres taxes et/ou frais qui ne sont pas acquittés par l’intermédiaire de l’assureur ou facturés par lui,
+  - l’indication de l’existence éventuelle d’autres taxes et/ou frais qui ne sont pas acquittés par l’intermédiaire de l’assureur ou facturés par lui,
 
-- l’existence ou l’absence du droit de rétractation prévu à l’article 62-3, et si ce droit existe, sa durée et les modalités de son exercice, y compris des informations sur le montant que le preneur d’assurance peut être tenu de payer sur la base des articles 100-1 et 62-3, point 4.
+  - l’existence ou l’absence du droit de rétractation prévu à l’article 62-3, et si ce droit existe, sa durée et les modalités de son exercice, y compris des informations sur le montant que le preneur d’assurance peut être tenu de payer sur la base des articles 100-1 et 62-3, point 4.
 
 Lors de la communication téléphonique l’assureur informe le preneur d’assurance sur, d’une part, le fait que d’autres informations peuvent être fournies sur demande et, d’autre part, la nature des ces informations. En tout état de cause, l’assureur fournit des informations complètes lorsqu’il remplit ses obligations des points 5 et 6 ci-après.
 
@@ -1135,17 +1135,17 @@ Sans préjudice du délai plus long prévu à l’article 100, le preneur d’as
 
 Le délai pendant lequel peut s’exercer le droit de rétractation commence à courir
 
-1. soit à compter du jour où le contrat d’assurance à distance est conclu,
+- soit à compter du jour où le contrat d’assurance à distance est conclu,
 
-2. soit à compter du jour où le preneur d’assurance reçoit les conditions générales et spéciales et les informations, conformément à l’article 62-2, point 5, si cette dernière date est postérieure à celle visée sous a).
+- soit à compter du jour où le preneur d’assurance reçoit les conditions générales et spéciales et les informations, conformément à l’article 62-2, point 5, si cette dernière date est postérieure à celle visée sous a).
 
 2.
 
 Le droit de rétractation ne s’applique pas:
 
-1. aux contrats d’assurance de voyage ou de bagages ou aux contrats d’assurance similaires à court terme d’une durée inférieure à un mois;
+- aux contrats d’assurance de voyage ou de bagages ou aux contrats d’assurance similaires à court terme d’une durée inférieure à un mois;
 
-2. aux contrats d’assurance exécutés intégralement par les deux parties à la demande expresse du preneur d’assurance avant que ce dernier n’exerce son droit de rétractation.
+- aux contrats d’assurance exécutés intégralement par les deux parties à la demande expresse du preneur d’assurance avant que ce dernier n’exerce son droit de rétractation.
 
 3.
 
@@ -1164,9 +1164,9 @@ Services non demandés
 
 Sans préjudice des dispositions de l’article 38 relatif à la durée de la reconduction tacite:
 
-1. il est interdit de fournir des contrats d’assurance à un preneur d’assurance sans demande préalable de celui-ci, lorsque cette fourniture comporte une demande de paiement immédiat ou différé;
+- il est interdit de fournir des contrats d’assurance à un preneur d’assurance sans demande préalable de celui-ci, lorsque cette fourniture comporte une demande de paiement immédiat ou différé;
 
-2. le preneur d’assurance est dispensé de toute obligation en cas de fourniture non demandée, l’absence de réponse ne valant pas consentement.
+- le preneur d’assurance est dispensé de toute obligation en cas de fourniture non demandée, l’absence de réponse ne valant pas consentement.
 
 <a id="art-62-5"></a>
 ## Article 62-5
@@ -1191,11 +1191,11 @@ Les techniques de communication à distance autres que celles visées au point 1
 
 La communication commerciale doit respecter les conditions suivantes:
 
-1. la communication commerciale doit être clairement identifiable en tant que telle;
+- la communication commerciale doit être clairement identifiable en tant que telle;
 
-2. l’assureur pour le compte duquel la communication est faite doit être clairement identifiable;
+- l’assureur pour le compte duquel la communication est faite doit être clairement identifiable;
 
-3. les concours, offres ou jeux promotionnels doivent être clairement identifiables comme tels et leurs conditions de participation doivent être aisément accessibles et présentées de manière précise et non équivoque.
+- les concours, offres ou jeux promotionnels doivent être clairement identifiables comme tels et leurs conditions de participation doivent être aisément accessibles et présentées de manière précise et non équivoque.
 
 La communication commerciale non sollicitée par courrier électronique doit être identifiée en tant que telle, d’une manière claire et non équivoque, dès sa réception par le preneur d’assurance.
 
@@ -1216,19 +1216,19 @@ Informations techniques préalables à fournir par l’assureur en cas de contra
 
 Sans préjudice des autres obligations d’information prévues par la présente loi, l’assureur qui offre des contrats d’assurance à distance par voie électronique doit permettre aux preneurs d’assurance et aux autorités compétentes un accès facile, direct et permanent aux informations suivantes:
 
-1. son nom;
+- son nom;
 
-2. l’adresse géographique où il est établi;
+- l’adresse géographique où il est établi;
 
-3. les coordonnées permettant de le contacter rapidement et de communiquer directement et effectivement avec lui, y compris son adresse de courrier électronique;
+- les coordonnées permettant de le contacter rapidement et de communiquer directement et effectivement avec lui, y compris son adresse de courrier électronique;
 
-4. le cas échéant, son numéro d’immatriculation au registre de commerce, son numéro d’identification à la TVA et l’autorisation dont il bénéficie pour exercer son activité ainsi que les coordonnées de l’autorité ayant donné cette autorisation;
+- le cas échéant, son numéro d’immatriculation au registre de commerce, son numéro d’identification à la TVA et l’autorisation dont il bénéficie pour exercer son activité ainsi que les coordonnées de l’autorité ayant donné cette autorisation;
 
-5. le titre professionnel et l’Etat membre dans lequel il a été accordé;
+- le titre professionnel et l’Etat membre dans lequel il a été accordé;
 
-6. les références de l’ordre professionnel auquel il adhère;
+- les références de l’ordre professionnel auquel il adhère;
 
-7. une référence aux règles professionnelles applicables et aux moyens d’y avoir accès.
+- une référence aux règles professionnelles applicables et aux moyens d’y avoir accès.
 
 On entend par contrat d’assurance par voie électronique tout contrat d’assurance envoyé à l’origine et reçu à destination au moyen d’équipements électroniques de traitement (y compris la compression numérique) et de stockage de données, et qui est entièrement transmis, acheminé et reçu par fils, par radio, par moyens optiques ou par d’autres moyens électromagnétiques.
 
@@ -1236,11 +1236,11 @@ On entend par contrat d’assurance par voie électronique tout contrat d’assu
 
 Outre l’obligation d’information prévue à l’article 10, point 1, à l’article 62-2, points 1, 2 et 4 et à l’article 62-6, point 1, des informations sur les modalités techniques de formation d’un contrat d’assurance par voie électronique doivent être transmises par l’assureur de manière claire et non équivoque et préalablement à la conclusion du contrat. Ces informations doivent porter sur:
 
-1. les différentes étapes techniques à suivre pour conclure le contrat;
+- les différentes étapes techniques à suivre pour conclure le contrat;
 
-2. le fait si le contrat une fois conclu est archivé ou non par l’assureur et s’il est accessible ou non;
+- le fait si le contrat une fois conclu est archivé ou non par l’assureur et s’il est accessible ou non;
 
-3. les moyens techniques pour identifier et corriger les erreurs commises dans la saisie des données avant que le contrat ne soit conclu.
+- les moyens techniques pour identifier et corriger les erreurs commises dans la saisie des données avant que le contrat ne soit conclu.
 
 3.
 
@@ -1670,23 +1670,23 @@ Champ d'application
 
 Les articles 93-1 à 97-1 s’appliquent à l’assurance protection juridique, par laquelle une entreprise d’assurance s’engage, moyennant le paiement d’une prime, à prendre en charge des frais de procédure judiciaire et à fournir d’autres services directement liés à la couverture d’assurance, notamment en vue:
 
-1. d’obtenir une indemnisation pour un dommage subi par l’assuré, à l’amiable ou dans une procédure civile ou pénale;
+- d’obtenir une indemnisation pour un dommage subi par l’assuré, à l’amiable ou dans une procédure civile ou pénale;
 
-2. de défendre ou de représenter l’assuré dans une procédure civile, pénale, administrative ou autre, ou contre une réclamation dont il est l’objet.
+- de défendre ou de représenter l’assuré dans une procédure civile, pénale, administrative ou autre, ou contre une réclamation dont il est l’objet.
 
 2.
 
 Les articles 93-1 à 97-1 ne s’appliquent pas:
 
-1. à l’assurance protection juridique lorsque celle-ci concerne des litiges ou des risques qui résultent de l’utilisation de navires de mer ou qui sont en rapport avec cette utilisation;
+- à l’assurance protection juridique lorsque celle-ci concerne des litiges ou des risques qui résultent de l’utilisation de navires de mer ou qui sont en rapport avec cette utilisation;
 
-2. à l’activité exercée par une entreprise d’assurance couvrant la responsabilité civile en vue de défendre ou de représenter son assuré dans toute procédure judiciaire ou administrative, lorsque cette activité est exercée en même temps dans le propre intérêt de cette entreprise d’assurance au titre de cette couverture;
+- à l’activité exercée par une entreprise d’assurance couvrant la responsabilité civile en vue de défendre ou de représenter son assuré dans toute procédure judiciaire ou administrative, lorsque cette activité est exercée en même temps dans le propre intérêt de cette entreprise d’assurance au titre de cette couverture;
 
-3. à l’activité d’assurance protection juridique déployée par un assureur en matière d’assistance qui remplit les conditions suivantes:
+- à l’activité d’assurance protection juridique déployée par un assureur en matière d’assistance qui remplit les conditions suivantes:
 
-- l’activité est effectuée dans un Etat membre autre que celui où l’assuré a sa résidence habituelle;
+  - l’activité est effectuée dans un Etat membre autre que celui où l’assuré a sa résidence habituelle;
 
-- l’activité fait partie d’un contrat qui ne concerne que l’assistance fournie aux personnes en difficulté au cours de déplacements, d’absences de leur domicile ou de leur résidence habituelle. Aux fins du premier alinéa, point c), le contrat indique de façon claire que la couverture en question est limitée aux circonstances visées à ce point et qu’elle est accessoire à l’assistance.
+  - l’activité fait partie d’un contrat qui ne concerne que l’assistance fournie aux personnes en difficulté au cours de déplacements, d’absences de leur domicile ou de leur résidence habituelle. Aux fins du premier alinéa, point c), le contrat indique de façon claire que la couverture en question est limitée aux circonstances visées à ce point et qu’elle est accessoire à l’assistance.
 
 <a id="art-93-1"></a>
 ## Article 93-1
@@ -1848,9 +1848,9 @@ Les règles du point 1 s'appliquent également en cas d'augmentation des garanti
 
 Sauf convention contraire, l'assureur ne garantit pas le décès de l'assuré:
 
-1. lorsque ce décès procède de l'exécution d'une condamnation judiciaire à la peine capitale;
+- lorsque ce décès procède de l'exécution d'une condamnation judiciaire à la peine capitale;
 
-2. lorsqu'il a pour cause immédiate et directe un crime ou un délit intentionnel dont l'assuré est auteur ou coauteur et dont il a pu prévoir les conséquences.
+- lorsqu'il a pour cause immédiate et directe un crime ou un délit intentionnel dont l'assuré est auteur ou coauteur et dont il a pu prévoir les conséquences.
 
 <a id="art-104"></a>
 ## Article 104

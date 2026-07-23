@@ -37,13 +37,13 @@ Il est institué auprès du ministre ayant le Haut-Commissariat à la protection
 
 Le comité a pour missions :
 
-1. de veiller à la cohérence des actions et initiatives nationales dans les domaines de la cyberprévention et de la cybersécurité, notamment dans le cadre de l’élaboration et de l’implémentation de la Stratégie nationale de cybersécurité ;
+- de veiller à la cohérence des actions et initiatives nationales dans les domaines de la cyberprévention et de la cybersécurité, notamment dans le cadre de l’élaboration et de l’implémentation de la Stratégie nationale de cybersécurité ;
 
-2. de coordonner et de suivre la mise en œuvre des initiatives lancées et des politiques et mesures décidées aux niveaux européen et international en matière de cyberprévention et de cybersécurité ;
+- de coordonner et de suivre la mise en œuvre des initiatives lancées et des politiques et mesures décidées aux niveaux européen et international en matière de cyberprévention et de cybersécurité ;
 
-3. de conseiller le Gouvernement en matière de cyberprévention et de cybersécurité, en identifiant les sujets et priorités à approfondir dans ce domaine, ainsi que les acteurs chargés de leur mise en œuvre ;
+- de conseiller le Gouvernement en matière de cyberprévention et de cybersécurité, en identifiant les sujets et priorités à approfondir dans ce domaine, ainsi que les acteurs chargés de leur mise en œuvre ;
 
-4. de discuter les positions à adopter par les représentants nationaux dans les enceintes européennes et internationales en matière de cyberprévention et de cybersécurité.
+- de discuter les positions à adopter par les représentants nationaux dans les enceintes européennes et internationales en matière de cyberprévention et de cybersécurité.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -52,37 +52,37 @@ Le comité a pour missions :
 
 Le comité se compose des membres effectifs suivants :
 
-1. le Haut-Commissaire à la protection nationale, qui préside le comité ;
+- le Haut-Commissaire à la protection nationale, qui préside le comité ;
 
-2. un représentant désigné par le ministre ayant l’Économie dans ses attributions ;
+- un représentant désigné par le ministre ayant l’Économie dans ses attributions ;
 
-3. un représentant désigné par le ministre ayant la Sécurité intérieure dans ses attributions ;
+- un représentant désigné par le ministre ayant la Sécurité intérieure dans ses attributions ;
 
-4. un représentant désigné par le ministre ayant les Affaires communales dans ses attributions ;
+- un représentant désigné par le ministre ayant les Affaires communales dans ses attributions ;
 
-5. un représentant désigné par le ministre ayant la Justice dans ses attributions ;
+- un représentant désigné par le ministre ayant la Justice dans ses attributions ;
 
-6. un représentant désigné par le ministre ayant la Digitalisation dans ses attributions ;
+- un représentant désigné par le ministre ayant la Digitalisation dans ses attributions ;
 
-7. un représentant désigné par le ministre ayant les Affaires étrangères et européennes dans ses attributions ;
+- un représentant désigné par le ministre ayant les Affaires étrangères et européennes dans ses attributions ;
 
-8. un représentant désigné par le ministre ayant la Défense dans ses attributions ;
+- un représentant désigné par le ministre ayant la Défense dans ses attributions ;
 
-9. un représentant du Haut-Commissariat à la protection nationale désigné par le ministre ayant le Haut-Commissariat à la protection nationale dans ses attributions ;
+- un représentant du Haut-Commissariat à la protection nationale désigné par le ministre ayant le Haut-Commissariat à la protection nationale dans ses attributions ;
 
-10. un représentant du Service des médias, de la connectivité et de la politique numérique désigné par le ministre ayant les Médias et la Connectivité dans ses attributions ;
+- un représentant du Service des médias, de la connectivité et de la politique numérique désigné par le ministre ayant les Médias et la Connectivité dans ses attributions ;
 
-11. un représentant du Service de renseignement de l’État désigné par le ministre ayant le Service de renseignement de l’État dans ses attributions ;
+- un représentant du Service de renseignement de l’État désigné par le ministre ayant le Service de renseignement de l’État dans ses attributions ;
 
-12. un représentant du Centre des technologies de l’information de l’État désigné par le ministre ayant le Centre des technologies et de l’information de l’État dans ses attributions ;
+- un représentant du Centre des technologies de l’information de l’État désigné par le ministre ayant le Centre des technologies et de l’information de l’État dans ses attributions ;
 
-13. un représentant de l’Institut luxembourgeois de régulation désigné par le ministre ayant les relations avec l’Institut luxembourgeois de régulation dans ses attributions ;
+- un représentant de l’Institut luxembourgeois de régulation désigné par le ministre ayant les relations avec l’Institut luxembourgeois de régulation dans ses attributions ;
 
-14. un représentant de la Commission de surveillance du secteur financier désigné par le ministre ayant les relations avec la Commission de surveillance du secteur financier dans ses attributions ;
+- un représentant de la Commission de surveillance du secteur financier désigné par le ministre ayant les relations avec la Commission de surveillance du secteur financier dans ses attributions ;
 
-15. un représentant de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services désigné par le ministre ayant l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services dans ses attributions ;
+- un représentant de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services désigné par le ministre ayant l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services dans ses attributions ;
 
-16. un représentant du Luxembourg House of Cybersecurity.
+- un représentant du Luxembourg House of Cybersecurity.
 
 (2)
 

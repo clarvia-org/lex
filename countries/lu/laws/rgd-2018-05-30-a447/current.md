@@ -60,11 +60,11 @@ Aux fins du présent règlement grand-ducal, on entend par « opération de fina
 
 Aux fins du présent règlement grand-ducal, on entend par « fonds du marché monétaire éligible » un organisme de placement collectif agréé en vertu de la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) (refonte), ou soumis à surveillance et, le cas échéant, agréé par une autorité conformément au droit national de l’État membre délivrant l’agrément, et qui satisfait à l’ensemble des conditions suivantes :
 
-1. son principal objectif d’investissement est de maintenir la valeur nette d’inventaire de l’organisme soit constamment au pair après déduction des gains, soit à la valeur du capital initial investi plus les gains ;
+- son principal objectif d’investissement est de maintenir la valeur nette d’inventaire de l’organisme soit constamment au pair après déduction des gains, soit à la valeur du capital initial investi plus les gains ;
 
-2. pour réaliser son principal objectif d’investissement, il est tenu de réaliser ses placements uniquement dans des instruments de qualité élevée du marché monétaire dont l’échéance ou la durée résiduelle n’est pas supérieure à 397 jours, ou pour lesquels des ajustements réguliers du rendement en accord avec cette échéance sont effectués, et dont l'échéance moyenne pondérée est de 60 jours. Il peut également atteindre cet objectif en investissant à titre auxiliaire dans des dépôts auprès d’établissements de crédit ; et
+- pour réaliser son principal objectif d’investissement, il est tenu de réaliser ses placements uniquement dans des instruments de qualité élevée du marché monétaire dont l’échéance ou la durée résiduelle n’est pas supérieure à 397 jours, ou pour lesquels des ajustements réguliers du rendement en accord avec cette échéance sont effectués, et dont l'échéance moyenne pondérée est de 60 jours. Il peut également atteindre cet objectif en investissant à titre auxiliaire dans des dépôts auprès d’établissements de crédit ; et
 
-3. il assure la liquidité moyennant un règlement quotidien ou à J+1.
+- il assure la liquidité moyennant un règlement quotidien ou à J+1.
 
 Aux fins du point 2, un instrument du marché monétaire est considéré comme de qualité élevée si la société de gestion ou la société d'investissement a effectué sa propre évaluation documentée de la qualité de crédit des instruments du marché monétaire et que celle-ci lui permet de considérer l’instrument en question comme de qualité élevée. Lorsqu’une ou plusieurs agences de notation de crédit enregistrées et surveillées par l’Autorité européenne des marchés financiers ont noté l’instrument, l’évaluation interne effectuée par la société de gestion ou la société d’investissement tient compte, entre autres, de ces notations de crédit.
 
@@ -83,17 +83,17 @@ Protection des instruments financiers et des fonds des clients
 
 Les établissements de crédit et les entreprises d’investissement répondent aux exigences suivantes :
 
-1. tenir des registres et des comptes leur permettant de distinguer à tout moment et immédiatement les avoirs détenus pour compte d’un client donné de ceux détenus pour d'autres clients et de leurs propres actifs ;
+- tenir des registres et des comptes leur permettant de distinguer à tout moment et immédiatement les avoirs détenus pour compte d’un client donné de ceux détenus pour d'autres clients et de leurs propres actifs ;
 
-2. tenir leurs registres et leurs comptes d’une manière assurant leur fidélité, et en particulier leur correspondance avec les instruments financiers et, en ce qui concerne les entreprises d’investissement, les fonds détenus pour compte des clients, et permettant de les utiliser comme piste d’audit ;
+- tenir leurs registres et leurs comptes d’une manière assurant leur fidélité, et en particulier leur correspondance avec les instruments financiers et, en ce qui concerne les entreprises d’investissement, les fonds détenus pour compte des clients, et permettant de les utiliser comme piste d’audit ;
 
-3. effectuer régulièrement des rapprochements entre leurs comptes et registres internes et ceux de tout tiers détenant ces avoirs ;
+- effectuer régulièrement des rapprochements entre leurs comptes et registres internes et ceux de tout tiers détenant ces avoirs ;
 
-4. prendre les mesures nécessaires pour s’assurer que tous les instruments financiers de clients qui ont été déposés auprès d’un tiers, conformément à l’article 3, peuvent être distingués de leurs propres instruments financiers et des instruments financiers appartenant à ce tiers grâce à des comptes aux libellés différents dans les livres de ce tiers ou à d’autres mesures équivalentes assurant le même degré de protection ;
+- prendre les mesures nécessaires pour s’assurer que tous les instruments financiers de clients qui ont été déposés auprès d’un tiers, conformément à l’article 3, peuvent être distingués de leurs propres instruments financiers et des instruments financiers appartenant à ce tiers grâce à des comptes aux libellés différents dans les livres de ce tiers ou à d’autres mesures équivalentes assurant le même degré de protection ;
 
-5. en ce qui concerne les entreprises d’investissement, prendre les mesures nécessaires pour s’assurer que les fonds de clients, qui, conformément à l’article 4, sont déposés auprès d’une banque centrale, d’un établissement de crédit agréé dans un État membre ou dans un pays tiers ou sont placés dans un fonds du marché monétaire éligible, soient inscrits sur un compte ou des comptes distincts de tout autre compte utilisé pour détenir des fonds appartenant à l’entreprise d’investissement ;
+- en ce qui concerne les entreprises d’investissement, prendre les mesures nécessaires pour s’assurer que les fonds de clients, qui, conformément à l’article 4, sont déposés auprès d’une banque centrale, d’un établissement de crédit agréé dans un État membre ou dans un pays tiers ou sont placés dans un fonds du marché monétaire éligible, soient inscrits sur un compte ou des comptes distincts de tout autre compte utilisé pour détenir des fonds appartenant à l’entreprise d’investissement ;
 
-6. prendre des dispositions organisationnelles appropriées pour minimiser le risque de perte ou de dépréciation des avoirs des clients ou des droits liés à ces avoirs, du fait d’abus ou de fraudes concernant ces avoirs, d’une gestion déficiente, d’une comptabilité déficiente ou de négligences.
+- prendre des dispositions organisationnelles appropriées pour minimiser le risque de perte ou de dépréciation des avoirs des clients ou des droits liés à ces avoirs, du fait d’abus ou de fraudes concernant ces avoirs, d’une gestion déficiente, d’une comptabilité déficiente ou de négligences.
 
 (2)
 
@@ -115,17 +115,17 @@ Lorsque des sûretés, des créances privilégiées ou des droits à compensatio
 
 Les établissements de crédit et les entreprises d’investissement rendent les informations relatives aux instruments financiers et aux fonds des clients rapidement accessibles aux autorités compétentes, aux autorités de résolution, au Fonds de garantie des dépôts Luxembourg, au Système d’indemnisation des investisseurs Luxembourg, ainsi qu’aux personnes qui sont nommées, employées ou mandatées à un titre quelconque dans le cadre d’une procédure de liquidation. Les informations à mettre à disposition comprennent :
 
-1. les comptes et registres internes liés qui permettent d’identifier facilement les soldes des fonds et instruments financiers détenus pour le compte de chaque client ;
+- les comptes et registres internes liés qui permettent d’identifier facilement les soldes des fonds et instruments financiers détenus pour le compte de chaque client ;
 
-2. lorsque les fonds des clients sont détenus par l’établissement de crédit ou l’entreprise d’investissement conformément à l’article 4, des informations détaillées sur les comptes sur lesquels les fonds des clients sont détenus et sur les accords pertinents conclus avec cet établissement de crédit ou cette entreprise d’investissement ;
+- lorsque les fonds des clients sont détenus par l’établissement de crédit ou l’entreprise d’investissement conformément à l’article 4, des informations détaillées sur les comptes sur lesquels les fonds des clients sont détenus et sur les accords pertinents conclus avec cet établissement de crédit ou cette entreprise d’investissement ;
 
-3. lorsque les instruments financiers sont détenus par l’établissement de crédit ou l’entreprise d’investissement conformément à l’article 3, des informations détaillées sur les comptes ouverts auprès de tiers et sur les accords pertinents conclus avec ces tiers ainsi que des informations détaillées sur les accords pertinents conclus avec cet établissement de crédit ou cette entreprise d’investissement ;
+- lorsque les instruments financiers sont détenus par l’établissement de crédit ou l’entreprise d’investissement conformément à l’article 3, des informations détaillées sur les comptes ouverts auprès de tiers et sur les accords pertinents conclus avec ces tiers ainsi que des informations détaillées sur les accords pertinents conclus avec cet établissement de crédit ou cette entreprise d’investissement ;
 
-4. les coordonnées des tiers qui effectuent toute tâche externalisée liée et le détail de toute tâche externalisée ;
+- les coordonnées des tiers qui effectuent toute tâche externalisée liée et le détail de toute tâche externalisée ;
 
-5. les personnes clés qui participent aux processus liés dans les établissements de crédit et les entreprises d’investissement, y compris les personnes responsables du contrôle du respect, par ceux-ci, des exigences en matière de protection des avoirs des clients ; et
+- les personnes clés qui participent aux processus liés dans les établissements de crédit et les entreprises d’investissement, y compris les personnes responsables du contrôle du respect, par ceux-ci, des exigences en matière de protection des avoirs des clients ; et
 
-6. les accords pertinents pour établir les droits de propriété des clients sur les avoirs.
+- les accords pertinents pour établir les droits de propriété des clients sur les avoirs.
 
 (6)
 
@@ -150,9 +150,9 @@ Lorsqu’un établissement de crédit ou une entreprise d’investissement se pr
 
 Les établissements de crédit et les entreprises d’investissement ne sont autorisés à déposer des instruments financiers détenus pour compte de leurs clients auprès d’un tiers dans un pays tiers dans lequel il n’existe pas de réglementation régissant la détention et la conservation d’instruments financiers pour le compte d’une autre personne, que si l’une des conditions suivantes est remplie :
 
-1. la nature des instruments financiers ou des services d’investissement liés à ces instruments financiers exige de les déposer auprès d’un tiers dans ce pays tiers ;
+- la nature des instruments financiers ou des services d’investissement liés à ces instruments financiers exige de les déposer auprès d’un tiers dans ce pays tiers ;
 
-2. lorsque les instruments financiers sont détenus pour compte d’un client professionnel, ce client a demandé par écrit à l’établissement de crédit ou à l’entreprise d’investissement de les déposer auprès d’un tiers dans ce pays tiers.
+- lorsque les instruments financiers sont détenus pour compte d’un client professionnel, ce client a demandé par écrit à l’établissement de crédit ou à l’entreprise d’investissement de les déposer auprès d’un tiers dans ce pays tiers.
 
 (4)
 
@@ -167,13 +167,13 @@ Dépôt des fonds des clients
 
 Les entreprises d’investissement placent sans délai tous les fonds de leurs clients, dès leur réception, sur un ou plusieurs comptes ouverts auprès de l’une ou l’autre des entités suivantes :
 
-1. une banque centrale ;
+- une banque centrale ;
 
-2. un établissement de crédit agréé dans un État membre ;
+- un établissement de crédit agréé dans un État membre ;
 
-3. un établissement de crédit agréé dans un pays tiers ;
+- un établissement de crédit agréé dans un pays tiers ;
 
-4. un fonds du marché monétaire éligible.
+- un fonds du marché monétaire éligible.
 
 (2)
 
@@ -198,17 +198,17 @@ Utilisation des instruments financiers des clients
 
 Il est interdit aux établissements de crédit et aux entreprises d’investissement de s’engager dans des opérations de financement sur titres en utilisant les instruments financiers détenus pour compte d’un client ou de les utiliser de quelque autre manière que ce soit pour leur propre compte ou le compte de toute autre personne ou de tout autre de leurs clients, à moins que les conditions suivantes ne soient remplies :
 
-1. le client a donné au préalable son consentement exprès à l’utilisation des instruments financiers à des conditions spécifiées, par écrit, avec confirmation par sa signature ou par un autre mécanisme équivalent ; et
+- le client a donné au préalable son consentement exprès à l’utilisation des instruments financiers à des conditions spécifiées, par écrit, avec confirmation par sa signature ou par un autre mécanisme équivalent ; et
 
-2. l’utilisation des instruments financiers de ce client est limitée aux conditions précises auxquelles ce client a consenti.
+- l’utilisation des instruments financiers de ce client est limitée aux conditions précises auxquelles ce client a consenti.
 
 (2)
 
 Il est interdit aux établissements de crédit et aux entreprises d’investissement de s’engager dans des opérations de financement sur titres en utilisant les instruments financiers détenus pour compte d’un client sur un compte global détenu auprès d’un tiers ou d’utiliser de quelque autre manière des instruments financiers détenus sur ce type de compte pour leur propre compte ou le compte de toute autre personne, à moins que, en sus des conditions énoncées au paragraphe 1er, au moins l’une des conditions suivantes ne soit remplie :
 
-1. le client dont les instruments financiers sont détenus sur un compte global a au préalable donné son consentement exprès conformément au paragraphe 1 er , point 1 ; ou
+- le client dont les instruments financiers sont détenus sur un compte global a au préalable donné son consentement exprès conformément au paragraphe 1 er , point 1 ; ou
 
-2. l’établissement de crédit ou l’entreprise d’investissement a mis en place des systèmes et des contrôles lui permettant de s’assurer que seuls les instruments financiers appartenant à des clients qui ont au préalable donné leur consentement exprès conformément au paragraphe 1 er , point 1, seront utilisés de la sorte.
+- l’établissement de crédit ou l’entreprise d’investissement a mis en place des systèmes et des contrôles lui permettant de s’assurer que seuls les instruments financiers appartenant à des clients qui ont au préalable donné leur consentement exprès conformément au paragraphe 1 er , point 1, seront utilisés de la sorte.
 
 Les informations enregistrées par l’établissement de crédit ou l’entreprise d’investissement incluent les coordonnées du client dont les instructions sont à l’origine de l’utilisation des instruments financiers et le nombre d’instruments financiers utilisés appartenant à chaque client ayant donné son consentement, de façon à permettre une répartition correcte des pertes éventuelles.
 
@@ -216,11 +216,11 @@ Les informations enregistrées par l’établissement de crédit ou l’entrepri
 
 Les établissements de crédit et les entreprises d’investissement prennent des mesures appropriées pour empêcher l’utilisation non autorisée d’instruments financiers de clients pour leur propre compte ou le compte de toute autre personne, notamment :
 
-1. la conclusion d’accords avec les clients sur les mesures à prendre par l’établissement de crédit ou l’entreprise d’investissement au cas où un client ne dispose pas d’une provision suffisante sur son compte à la date de règlement, par exemple l’emprunt de valeurs mobilières correspondantes au nom du client ou le dénouement de la position ;
+- la conclusion d’accords avec les clients sur les mesures à prendre par l’établissement de crédit ou l’entreprise d’investissement au cas où un client ne dispose pas d’une provision suffisante sur son compte à la date de règlement, par exemple l’emprunt de valeurs mobilières correspondantes au nom du client ou le dénouement de la position ;
 
-2. la surveillance étroite, par l’établissement de crédit ou l’entreprise d’investissement, de sa capacité prévue de livrer à la date de règlement et, à défaut de cette capacité, la mise en place de mesures correctives ; et
+- la surveillance étroite, par l’établissement de crédit ou l’entreprise d’investissement, de sa capacité prévue de livrer à la date de règlement et, à défaut de cette capacité, la mise en place de mesures correctives ; et
 
-3. la surveillance étroite et la demande rapide des valeurs mobilières non livrées à la date de règlement et au-delà.
+- la surveillance étroite et la demande rapide des valeurs mobilières non livrées à la date de règlement et au-delà.
 
 (4)
 
@@ -271,9 +271,9 @@ Les établissements de crédit et entreprises d’investissement établissent, m
 
 Les établissements de crédit et les entreprises d’investissement analysent les conflits d’intérêts potentiels chaque fois qu’un instrument financier est produit. En particulier, les établissements de crédit et les entreprises d’investissement évaluent si l’instrument financier crée une situation susceptible d’avoir une incidence négative sur les clients finaux si ceux-ci prennent :
 
-1. une exposition inverse de celle précédemment détenue par cet établissement de crédit ou cette entreprise d’investissement ; ou
+- une exposition inverse de celle précédemment détenue par cet établissement de crédit ou cette entreprise d’investissement ; ou
 
-2. une exposition inverse de celle que l’établissement de crédit ou l’entreprise d’investissement veut détenir après la vente du produit.
+- une exposition inverse de celle que l’établissement de crédit ou l’entreprise d’investissement veut détenir après la vente du produit.
 
 (4)
 
@@ -305,33 +305,33 @@ Les établissements de crédit et les entreprises d’investissement qui produis
 
 Les établissements de crédit et les entreprises d’investissement effectuent une analyse de scénario de leurs instruments financiers évaluant le risque que le produit donne de mauvais résultats pour les clients finaux, et dans quelles circonstances ces résultats peuvent survenir. Les établissements de crédit et les entreprises d’investissement évaluent les conséquences qu’auraient sur l’instrument financier des situations négatives, telles que notamment :
 
-1. l’environnement de marché se détériore ;
+- l’environnement de marché se détériore ;
 
-2. le producteur ou un tiers participant à la production ou au fonctionnement de l’instrument financier connaît des difficultés financières, ou un autre risque de contrepartie se matérialise ;
+- le producteur ou un tiers participant à la production ou au fonctionnement de l’instrument financier connaît des difficultés financières, ou un autre risque de contrepartie se matérialise ;
 
-3. l’instrument financier ne devient jamais commercialement viable ; ou
+- l’instrument financier ne devient jamais commercialement viable ; ou
 
-4. la demande à l’égard de l’instrument financier est beaucoup plus élevée que prévu, grevant les ressources de l’établissement de crédit ou de l’entreprise d’investissement, ou créant des tensions sur le marché de l’instrument sous-jacent.
+- la demande à l’égard de l’instrument financier est beaucoup plus élevée que prévu, grevant les ressources de l’établissement de crédit ou de l’entreprise d’investissement, ou créant des tensions sur le marché de l’instrument sous-jacent.
 
 (11)
 
 Les établissements de crédit et les entreprises d’investissement déterminent si un instrument financier répond aux besoins, caractéristiques et objectifs identifiés du marché cible, y compris en examinant les éléments suivants :
 
-1. si le profil « risque/rémunération » de l’instrument financier est compatible avec le marché cible ; et
+- si le profil « risque/rémunération » de l’instrument financier est compatible avec le marché cible ; et
 
-2. si les caractéristiques de l’instrument financier sont conçues de manière à bénéficier au client et ne sont pas fondées sur un modèle économique qui nécessite, pour être rentable, que les résultats soient défavorables au client ; et
+- si les caractéristiques de l’instrument financier sont conçues de manière à bénéficier au client et ne sont pas fondées sur un modèle économique qui nécessite, pour être rentable, que les résultats soient défavorables au client ; et
 
-3. si les facteurs de durabilité de l’instrument financier, le cas échéant, sont compatibles avec le marché cible.
+- si les facteurs de durabilité de l’instrument financier, le cas échéant, sont compatibles avec le marché cible.
 
 (12)
 
 Les établissements de crédit et les entreprises d’investissement examinent la structure tarifaire proposée pour l’instrument financier, et notamment les aspects suivants :
 
-1. si les coûts et frais de l’instrument financier sont compatibles avec les besoins, objectifs et caractéristiques du marché cible ;
+- si les coûts et frais de l’instrument financier sont compatibles avec les besoins, objectifs et caractéristiques du marché cible ;
 
-2. si les frais ne compromettent pas la rémunération attendue de l’instrument financier, notamment si les coûts et frais de l’instrument sont d’un montant presque égal, égal ou supérieur à celui de ses avantages fiscaux attendus ; et
+- si les frais ne compromettent pas la rémunération attendue de l’instrument financier, notamment si les coûts et frais de l’instrument sont d’un montant presque égal, égal ou supérieur à celui de ses avantages fiscaux attendus ; et
 
-3. si la structure tarifaire de l’instrument financier est suffisamment transparente pour le marché cible et ne camoufle pas les frais ni ne les rend trop difficiles à comprendre.
+- si la structure tarifaire de l’instrument financier est suffisamment transparente pour le marché cible et ne camoufle pas les frais ni ne les rend trop difficiles à comprendre.
 
 (13)
 
@@ -341,33 +341,33 @@ Les facteurs de durabilité de l’instrument financier sont présentés de mani
 
 (14)
 
-Les établissements de crédit et les entreprises d’investissement réexaminent régulièrement les instruments financiers qu’ils produisent en tenant compte de tout événement susceptible d’avoir une incidence sensible sur le risque potentiel pour le marché cible défini. Les établissements de crédit et les entreprises d’investissement examinent si l’instrument financier reste compatible avec les besoins, caractéristiques et objectifs, y compris les éventuels objectifs en matière de durabilité, du marché cible et s’il est distribué auprès de son marché cible, ou s’il atteint des clients avec les besoins, caractéristiques et objectifs desquels il est incompatible.
+Les établissements de crédit et les entreprises d’investissement réexaminent régulièrement les instruments financiers qu’ils produisent en tenant compte de tout événement susceptible d’avoir une incidence sensible sur le risque potentiel pour le marché cible défini. Les établissements de crédit et les entreprises d’investissement examinent si l’instrument financier reste compatible avec les besoins, caractéristiques et objectifs , y compris les éventuels objectifs en matière de durabilité, du marché cible et s’il est distribué auprès de son marché cible, ou s’il atteint des clients avec les besoins, caractéristiques et objectifs desquels il est incompatible.
 
 (15)
 
 Les établissements de crédit et les entreprises d’investissement réexaminent les instruments financiers avant toute nouvelle émission ou réémission s’ils ont connaissance de tout événement susceptible d’avoir une incidence sensible sur le risque potentiel pour les investisseurs et évaluent à intervalles réguliers si les instruments fonctionnent de la façon prévue. Les établissements de crédit et les entreprises d’investissement se fondent sur des facteurs pertinents pour déterminer la fréquence du réexamen de leurs instruments financiers, notamment la complexité ou le caractère innovant des stratégies d’investissement poursuivies. Les établissements de crédit et les entreprises d’investissement identifient également les événements essentiels susceptibles d’avoir une incidence sur le risque potentiel ou la rémunération attendue de l’instrument financier, tels que :
 
-1. le dépassement d’un seuil qui affectera le profil de rémunération de l’instrument financier ; ou
+- le dépassement d’un seuil qui affectera le profil de rémunération de l’instrument financier ; ou
 
-2. la solvabilité de certains émetteurs dont les valeurs mobilières ou les garanties sont susceptibles d’avoir une incidence sur la performance de l’instrument financier.
+- la solvabilité de certains émetteurs dont les valeurs mobilières ou les garanties sont susceptibles d’avoir une incidence sur la performance de l’instrument financier.
 
 Lorsque de tels événements se produisent, l’établissement de crédit ou l’entreprise d’investissement prend des mesures appropriées, qui peuvent consister à :
 
-1. communiquer toute information utile sur l’événement et ses conséquences sur l’instrument financier aux clients ou, si l’établissement de crédit ou l’entreprise d’investissement n’offre ou ne vend pas directement l’instrument financier aux clients, au distributeur de l’instrument financier ;
+- communiquer toute information utile sur l’événement et ses conséquences sur l’instrument financier aux clients ou, si l’établissement de crédit ou l’entreprise d’investissement n’offre ou ne vend pas directement l’instrument financier aux clients, au distributeur de l’instrument financier ;
 
-2. changer la procédure d’approbation du produit ;
+- changer la procédure d’approbation du produit ;
 
-3. cesser l’émission de l’instrument financier ;
+- cesser l’émission de l’instrument financier ;
 
-4. modifier l’instrument financier pour éviter les clauses contractuelles abusives ;
+- modifier l’instrument financier pour éviter les clauses contractuelles abusives ;
 
-5. déterminer si les canaux de distribution par lesquels l’instrument financier est vendu sont adaptés, lorsque l’établissement de crédit ou l’entreprise d’investissement constate que l’instrument financier n’est pas vendu comme prévu ;
+- déterminer si les canaux de distribution par lesquels l’instrument financier est vendu sont adaptés, lorsque l’établissement de crédit ou l’entreprise d’investissement constate que l’instrument financier n’est pas vendu comme prévu ;
 
-6. contacter le distributeur pour discuter d’un changement du processus de distribution ;
+- contacter le distributeur pour discuter d’un changement du processus de distribution ;
 
-7. mettre fin à la relation avec le distributeur ; ou
+- mettre fin à la relation avec le distributeur ; ou
 
-8. informer la CSSF.
+- informer la CSSF.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -384,7 +384,7 @@ Les établissements de crédit et les entreprises d’investissement déterminen
 
 (2)
 
-Les établissements de crédit et les entreprises d’investissement mettent en place des dispositifs de gouvernance des produits adéquats, qui assurent que les produits et services qu’ils entendent proposer ou recommander sont compatibles avec les besoins, caractéristiques et objectifs, y compris les éventuels objectifs en matière de durabilité, du marché cible défini et que la stratégie de distribution prévue est compatible avec ce marché cible. Les établissements de crédit et les entreprises d’investissement identifient et évaluent la situation et les besoins des clients qu’ils entendent viser d’une manière qui leur permette de garantir que les intérêts desdits clients ne seront pas compromis à la suite de pressions commerciales ou de financement. Au cours de ce processus, les établissements de crédit et les entreprises d’investissement identifient le ou les groupes de clients avec les besoins, les caractéristiques et les objectifs desquels le produit ou le service n’est pas compatible, sauf si cet instrument tient compte de facteurs de durabilité .
+Les établissements de crédit et les entreprises d’investissement mettent en place des dispositifs de gouvernance des produits adéquats, qui assurent que les produits et services qu’ils entendent proposer ou recommander sont compatibles avec les besoins, caractéristiques et objectifs , y compris les éventuels objectifs en matière de durabilité, du marché cible défini et que la stratégie de distribution prévue est compatible avec ce marché cible. Les établissements de crédit et les entreprises d’investissement identifient et évaluent la situation et les besoins des clients qu’ils entendent viser d’une manière qui leur permette de garantir que les intérêts desdits clients ne seront pas compromis à la suite de pressions commerciales ou de financement. Au cours de ce processus, les établissements de crédit et les entreprises d’investissement identifient le ou les groupes de clients avec les besoins, les caractéristiques et les objectifs desquels le produit ou le service n’est pas compatible , sauf si cet instrument tient compte de facteurs de durabilité .
 
 Les établissements de crédit et les entreprises d’investissement obtiennent des producteurs relevant de la directive 2014/65/UE des informations leur permettant de comprendre et de connaître suffisamment les produits qu’ils entendent recommander ou vendre pour que ceux-ci soient distribués conformément aux besoins, caractéristiques et objectifs du marché cible défini.
 
@@ -402,7 +402,7 @@ Les établissements de crédit et les entreprises d’investissement réexaminen
 
 (5)
 
-Les établissements de crédit et les entreprises d’investissement réexaminent régulièrement les produits d’investissement qu’ils proposent ou recommandent et les services qu’ils fournissent, en tenant compte de tout événement susceptible d’avoir une incidence sensible sur le risque potentiel pour le marché cible défini. Les établissements de crédit et les entreprises d’investissement évaluent au minimum si le produit ou service reste compatible avec les besoins, caractéristiques et objectifs, y compris les éventuels objectifs en matière de durabilité, du marché cible défini et si la stratégie de distribution prévue reste appropriée. Les établissements de crédit et les entreprises d’investissement reconsidèrent le marché cible ou mettent à jour leurs dispositifs de gouvernance des produits ou les deux, lorsqu’ils constatent qu’ils ont mal défini le marché cible pour ce produit ou service ou que celui-ci ne répond plus aux conditions du marché cible défini, notamment si le produit devient illiquide ou très volatil du fait de variations du marché.
+Les établissements de crédit et les entreprises d’investissement réexaminent régulièrement les produits d’investissement qu’ils proposent ou recommandent et les services qu’ils fournissent, en tenant compte de tout événement susceptible d’avoir une incidence sensible sur le risque potentiel pour le marché cible défini. Les établissements de crédit et les entreprises d’investissement évaluent au minimum si le produit ou service reste compatible avec les besoins, caractéristiques et objectifs , y compris les éventuels objectifs en matière de durabilité, du marché cible défini et si la stratégie de distribution prévue reste appropriée. Les établissements de crédit et les entreprises d’investissement reconsidèrent le marché cible ou mettent à jour leurs dispositifs de gouvernance des produits ou les deux, lorsqu’ils constatent qu’ils ont mal défini le marché cible pour ce produit ou service ou que celui-ci ne répond plus aux conditions du marché cible défini, notamment si le produit devient illiquide ou très volatil du fait de variations du marché.
 
 (6)
 
@@ -424,11 +424,11 @@ Les distributeurs fournissent aux producteurs des informations sur les ventes et
 
 Lorsque plusieurs établissements de crédit ou entreprises d’investissement coopèrent pour distribuer un produit ou un service, la responsabilité du respect des obligations en matière de gouvernance des produits prévues dans le présent article incombe à l’établissement de crédit ou l’entreprise d’investissement qui a une relation directe avec la clientèle. Toutefois, les établissements de crédit et les entreprises d’investissement intermédiaires :
 
-1. veillent à ce que les informations pertinentes sur le produit soient transmises du producteur au distributeur final de la chaîne ;
+- veillent à ce que les informations pertinentes sur le produit soient transmises du producteur au distributeur final de la chaîne ;
 
-2. permettent au producteur qui demande des renseignements sur les ventes d’un produit en vue d’assurer le respect de ses propres obligations en matière de gouvernance des produits d’obtenir ces informations ; et
+- permettent au producteur qui demande des renseignements sur les ventes d’un produit en vue d’assurer le respect de ses propres obligations en matière de gouvernance des produits d’obtenir ces informations ; et
 
-3. respectent, en relation avec les services qu’elles fournissent, les obligations de gouvernance des produits applicables aux producteurs.
+- respectent, en relation avec les services qu’elles fournissent, les obligations de gouvernance des produits applicables aux producteurs.
 
 ##### Section 4 Incitations
 
@@ -445,17 +445,17 @@ Les établissements de crédit et les entreprises d’investissement qui versent
 
 Une rémunération, une commission ou un avantage non monétaire est réputé avoir pour objet d’améliorer la qualité du service concerné au client si toutes les conditions suivantes sont remplies :
 
-1. l’incitation est justifiée par la fourniture d’un service supplémentaire ou de niveau plus élevé au client, proportionnel à l’incitation reçue, tel que :
+- l’incitation est justifiée par la fourniture d’un service supplémentaire ou de niveau plus élevé au client, proportionnel à l’incitation reçue, tel que :
 
-1. la fourniture de conseils en investissement non indépendants sur un vaste éventail d’instruments financiers appropriés et l’accès à ces instruments, y compris un nombre approprié d’instruments de fournisseurs de produits tiers sans lien étroit avec l’établissement de crédit ou l’entreprise d’investissement ;
+  - la fourniture de conseils en investissement non indépendants sur un vaste éventail d’instruments financiers appropriés et l’accès à ces instruments, y compris un nombre approprié d’instruments de fournisseurs de produits tiers sans lien étroit avec l’établissement de crédit ou l’entreprise d’investissement ;
 
-2. la fourniture de conseils en investissement non indépendants combinée à soit une offre faite au client d’évaluer, au moins annuellement, si les instruments financiers dans lesquels il a investi continuent à lui convenir, soit un autre service continu susceptible d’être utile au client, par exemple des conseils sur l’allocation optimale suggérée de ses avoirs ; ou
+  - la fourniture de conseils en investissement non indépendants combinée à soit une offre faite au client d’évaluer, au moins annuellement, si les instruments financiers dans lesquels il a investi continuent à lui convenir, soit un autre service continu susceptible d’être utile au client, par exemple des conseils sur l’allocation optimale suggérée de ses avoirs ; ou
 
-3. la fourniture d’un accès, à un prix compétitif, à un large éventail d’instruments financiers susceptibles de répondre aux besoins du client, y compris un nombre approprié d’instruments de fournisseurs de produits tiers sans lien étroit avec l’établissement de crédit ou l’entreprise d’investissement, complétée soit par la fourniture d’outils à valeur ajoutée, tels que des outils d’information objective aidant le client à prendre des décisions d’investissement ou lui permettant de suivre, d’évaluer et d’adapter l’éventail des instruments financiers dans lesquels il a investi, soit par la fourniture de rapports périodiques sur les performances des instruments financiers et sur les coûts et les frais qui y sont associés ;
+  - la fourniture d’un accès, à un prix compétitif, à un large éventail d’instruments financiers susceptibles de répondre aux besoins du client, y compris un nombre approprié d’instruments de fournisseurs de produits tiers sans lien étroit avec l’établissement de crédit ou l’entreprise d’investissement, complétée soit par la fourniture d’outils à valeur ajoutée, tels que des outils d’information objective aidant le client à prendre des décisions d’investissement ou lui permettant de suivre, d’évaluer et d’adapter l’éventail des instruments financiers dans lesquels il a investi, soit par la fourniture de rapports périodiques sur les performances des instruments financiers et sur les coûts et les frais qui y sont associés ;
 
-2. elle ne bénéficie pas directement à l’établissement de crédit ou l’entreprise d’investissement, à ses actionnaires ou aux membres de son personnel sans que le client n’en retire de bénéfice tangible ; et
+- elle ne bénéficie pas directement à l’établissement de crédit ou l’entreprise d’investissement, à ses actionnaires ou aux membres de son personnel sans que le client n’en retire de bénéfice tangible ; et
 
-3. elle est justifiée par la fourniture d’une prestation continue au client en rapport avec une incitation continue.
+- elle est justifiée par la fourniture d’une prestation continue au client en rapport avec une incitation continue.
 
 Une rémunération, une commission ou un avantage non monétaire n’est pas acceptable s’il se traduit par une distorsion des services fournis au client.
 
@@ -467,19 +467,19 @@ Les établissements de crédit et les entreprises d’investissement respectent 
 
 Les établissements de crédit et les entreprises d’investissement tiennent à disposition des justificatifs montrant que les rémunérations, commissions et avantages non monétaires versés ou perçus par l’établissement de crédit ou l’entreprise d’investissement visent à renforcer la qualité du service concerné au client :
 
-1. en conservant une liste interne de toutes les rémunérations, commissions et avantages non monétaires reçus de tiers par l’établissement de crédit ou l’entreprise d’investissement en lien avec la fourniture de services d’investissement ou auxiliaires ; et
+- en conservant une liste interne de toutes les rémunérations, commissions et avantages non monétaires reçus de tiers par l’établissement de crédit ou l’entreprise d’investissement en lien avec la fourniture de services d’investissement ou auxiliaires ; et
 
-2. en enregistrant comment les rémunérations, commissions et avantages non monétaires versés ou perçus par l’établissement de crédit ou l’entreprise d’investissement, ou qu’il entend utiliser, améliorent la qualité des services fournis aux clients concernés, ainsi que les mesures prises pour ne pas nuire au respect, par l’établissement de crédit ou l’entreprise d’investissement, de son obligation d’agir d’une manière honnête, équitable et professionnelle au mieux des intérêts de ses clients.
+- en enregistrant comment les rémunérations, commissions et avantages non monétaires versés ou perçus par l’établissement de crédit ou l’entreprise d’investissement, ou qu’il entend utiliser, améliorent la qualité des services fournis aux clients concernés, ainsi que les mesures prises pour ne pas nuire au respect, par l’établissement de crédit ou l’entreprise d’investissement, de son obligation d’agir d’une manière honnête, équitable et professionnelle au mieux des intérêts de ses clients.
 
 (5)
 
 En ce qui concerne les paiements et avantages reçus de tiers ou versés à des tiers, les établissements de crédit et les entreprises d’investissement fournissent au client les informations suivantes :
 
-1. avant la fourniture du service d’investissement ou auxiliaire, l’établissement de crédit ou l’entreprise d’investissement communique au client des informations sur le paiement ou l’avantage concerné conformément à l’article 37-3, paragraphe 3 quinquies , de la loi modifiée du 5 avril 1993 relative au secteur financier. Les avantages non monétaires mineurs peuvent être décrits de façon générique. Les autres avantages non monétaires versés ou reçus par l’établissement de crédit ou l’entreprise d’investissement en lien avec le service d’investissement fourni au client sont décrits séparément et leur tarification est fournie séparément ;
+- avant la fourniture du service d’investissement ou auxiliaire, l’établissement de crédit ou l’entreprise d’investissement communique au client des informations sur le paiement ou l’avantage concerné conformément à l’article 37-3, paragraphe 3 quinquies , de la loi modifiée du 5 avril 1993 relative au secteur financier. Les avantages non monétaires mineurs peuvent être décrits de façon générique. Les autres avantages non monétaires versés ou reçus par l’établissement de crédit ou l’entreprise d’investissement en lien avec le service d’investissement fourni au client sont décrits séparément et leur tarification est fournie séparément ;
 
-2. lorsqu’un établissement de crédit ou une entreprise d’investissement communique à son client le mode de calcul du montant d’un paiement ou d’un avantage à verser ou à recevoir au lieu du montant exact parce qu’il n’est pas en mesure d’établir ce montant a priori, il fournit ce montant exact à son client a posteriori ; et
+- lorsqu’un établissement de crédit ou une entreprise d’investissement communique à son client le mode de calcul du montant d’un paiement ou d’un avantage à verser ou à recevoir au lieu du montant exact parce qu’il n’est pas en mesure d’établir ce montant a priori, il fournit ce montant exact à son client a posteriori ; et
 
-3. au moins une fois par an, tant que l’établissement de crédit ou l’entreprise d’investissement reçoit des incitations continues en lien avec des services d’investissement fournis aux clients, il informe ceux-ci individuellement du montant réel des paiements ou avantages reçus ou versés. Les avantages non monétaires mineurs peuvent être décrits de façon générique.
+- au moins une fois par an, tant que l’établissement de crédit ou l’entreprise d’investissement reçoit des incitations continues en lien avec des services d’investissement fournis aux clients, il informe ceux-ci individuellement du montant réel des paiements ou avantages reçus ou versés. Les avantages non monétaires mineurs peuvent être décrits de façon générique.
 
 Lorsqu’ils mettent en œuvre ces exigences, les établissements de crédit et les entreprises d’investissement tiennent compte des règles en matière de coûts et de frais énoncées à l’article 37-3, paragraphe 3, alinéa 4, de la loi modifiée du 5 avril 1993 relative au secteur financier et à l’article 50 du règlement délégué (UE) 2017/565 de la Commission du 25 avril 2016 complétant la directive 2014/65/UE du Parlement européen et du Conseil en ce qui concerne les exigences organisationnelles et les conditions d’exercice applicables aux entreprises d’investissement et la définition de certains termes aux fins de ladite directive.
 
@@ -506,15 +506,15 @@ Les établissements de crédit et les entreprises d’investissement qui fournis
 
 Les avantages suivants sont considérés comme des avantages non monétaires mineurs acceptables uniquement s’il s’agit :
 
-1. d’informations ou de documents relatifs à un instrument financier ou à un service d’investissement qui sont de nature générique ou personnalisés selon la situation d’un client particulier ;
+- d’informations ou de documents relatifs à un instrument financier ou à un service d’investissement qui sont de nature générique ou personnalisés selon la situation d’un client particulier ;
 
-2. de documents écrits provenant de tiers, commandés et payés par une société émettrice ou une société émettrice potentielle pour promouvoir une nouvelle émission que celle-ci réalise ou entend réaliser, ou de tiers contractuellement engagés et rémunérés par la société émettrice pour produire de manière continue de tels documents, à condition que cette relation figure clairement dans les documents et que ceux-ci soient mis à la disposition en même temps de tous les établissements de crédit et entreprises d’investissement souhaitant les recevoir ou du grand public ;
+- de documents écrits provenant de tiers, commandés et payés par une société émettrice ou une société émettrice potentielle pour promouvoir une nouvelle émission que celle-ci réalise ou entend réaliser, ou de tiers contractuellement engagés et rémunérés par la société émettrice pour produire de manière continue de tels documents, à condition que cette relation figure clairement dans les documents et que ceux-ci soient mis à la disposition en même temps de tous les établissements de crédit et entreprises d’investissement souhaitant les recevoir ou du grand public ;
 
-3. de participations à des conférences, séminaires et autres événements informatifs sur les avantages et les caractéristiques d’un instrument financier ou d’un service d’investissement donné ;
+- de participations à des conférences, séminaires et autres événements informatifs sur les avantages et les caractéristiques d’un instrument financier ou d’un service d’investissement donné ;
 
-4. de frais de réception de montant faible et raisonnable, tels que ceux liés aux repas et boissons au cours de réunions ou conférences d’affaires, de séminaires ou d’événements informatifs tels que visés au point 3 ; et
+- de frais de réception de montant faible et raisonnable, tels que ceux liés aux repas et boissons au cours de réunions ou conférences d’affaires, de séminaires ou d’événements informatifs tels que visés au point 3 ; et
 
-5. d’autres avantages non monétaires mineurs pouvant améliorer la qualité du service fourni à un client et, eu égard au niveau global des avantages fournis par une entité ou un groupe d’entités, étant d’une ampleur et d’une nature telles qu’ils sont peu susceptibles d’empêcher l’établissement de crédit ou l’entreprise d’investissement de se conformer à son obligation d’agir dans le meilleur intérêt du client.
+- d’autres avantages non monétaires mineurs pouvant améliorer la qualité du service fourni à un client et, eu égard au niveau global des avantages fournis par une entité ou un groupe d’entités, étant d’une ampleur et d’une nature telles qu’ils sont peu susceptibles d’empêcher l’établissement de crédit ou l’entreprise d’investissement de se conformer à son obligation d’agir dans le meilleur intérêt du client.
 
 Les avantages non monétaires mineurs acceptables sont raisonnables et proportionnés et d’une ampleur telle qu’il est peu probable qu’ils influencent le comportement de l’établissement de crédit ou l’entreprise d’investissement d’une manière qui porte préjudice aux intérêts du client.
 
@@ -529,31 +529,31 @@ Incitations en lien avec la recherche
 
 La fourniture de travaux de recherche par des tiers aux établissements de crédit et aux entreprises d’investissement qui fournissent des services de gestion de portefeuille ou d’autres services d’investissement ou auxiliaires à des clients n’est pas considérée comme une incitation si ces travaux sont reçus en contrepartie de l’un des éléments suivants :
 
-1. des paiements directs issus des ressources propres de l’établissement de crédit ou de l’entreprise d’investissement ;
+- des paiements directs issus des ressources propres de l’établissement de crédit ou de l’entreprise d’investissement ;
 
-2. des paiements issus d’un compte de frais de recherche distinct contrôlé par l’établissement de crédit ou l’entreprise d’investissement, pour autant que les conditions suivantes relatives au fonctionnement de ce compte soient satisfaites :
+- des paiements issus d’un compte de frais de recherche distinct contrôlé par l’établissement de crédit ou l’entreprise d’investissement, pour autant que les conditions suivantes relatives au fonctionnement de ce compte soient satisfaites :
 
-1. le compte de frais de recherche est approvisionné par des frais de recherche spécifiques facturés au client ;
+  - le compte de frais de recherche est approvisionné par des frais de recherche spécifiques facturés au client ;
 
-2. lorsqu’il établit un compte de frais de recherche et qu’il convient du montant des frais de recherche financés par ses clients, l’établissement de crédit ou l’entreprise d’investissement établit et évalue régulièrement le montant du budget de recherche en tant que mesure administrative interne ;
+  - lorsqu’il établit un compte de frais de recherche et qu’il convient du montant des frais de recherche financés par ses clients, l’établissement de crédit ou l’entreprise d’investissement établit et évalue régulièrement le montant du budget de recherche en tant que mesure administrative interne ;
 
-3. l’établissement de crédit ou l’entreprise d’investissement est responsable du compte de frais de recherche ;
+  - l’établissement de crédit ou l’entreprise d’investissement est responsable du compte de frais de recherche ;
 
-4. l’établissement de crédit ou l’entreprise d’investissement évalue régulièrement la qualité des travaux de recherche achetés en se fondant sur des critères de qualité solides et sur la capacité de ces travaux à contribuer à de meilleures décisions d’investissement.
+  - l’établissement de crédit ou l’entreprise d’investissement évalue régulièrement la qualité des travaux de recherche achetés en se fondant sur des critères de qualité solides et sur la capacité de ces travaux à contribuer à de meilleures décisions d’investissement.
 
 En ce qui concerne l’alinéa 1er, point 2, lorsqu’un établissement de crédit ou une entreprise d’investissement recourt au compte de frais de recherche, il fournit les informations suivantes à ses clients :
 
-1. avant de fournir un service d’investissement à ses clients, l’information sur le budget prévu pour la recherche et le montant des frais de recherche estimés pour chacun d’eux ;
+- avant de fournir un service d’investissement à ses clients, l’information sur le budget prévu pour la recherche et le montant des frais de recherche estimés pour chacun d’eux ;
 
-2. des informations annuelles sur les coûts totaux que chacun d’eux a encourus pour la recherche tierce.
+- des informations annuelles sur les coûts totaux que chacun d’eux a encourus pour la recherche tierce.
 
 (2)
 
 Lorsqu’un établissement de crédit ou une entreprise d’investissement exploite un compte de frais de recherche, il est également tenu, à la demande de ses clients ou de la CSSF, de fournir une synthèse indiquant les prestataires rémunérés par ce compte, le montant total versé à ces prestataires au cours d’une période donnée, les avantages et services reçus par l’établissement de crédit ou l’entreprise d’investissement et une comparaison entre le montant total payé depuis le compte et le budget fixé par l’établissement de crédit ou l’entreprise d’investissement pour cette période, en signalant toute remise et tout report s’il reste des fonds sur ce compte. Aux fins du paragraphe 1er, alinéa 1er, point 2, lettre a), les frais de recherche spécifiques :
 
-1. ne sont fondés que sur un budget de recherche fixé par l’établissement de crédit ou l’entreprise d’investissement aux fins d’établir la nécessité de recherche tierce relative à des services d’investissement fournis à ses clients ; et
+- ne sont fondés que sur un budget de recherche fixé par l’établissement de crédit ou l’entreprise d’investissement aux fins d’établir la nécessité de recherche tierce relative à des services d’investissement fournis à ses clients ; et
 
-2. sont sans lien avec le volume ou la valeur des transactions exécutées pour le compte des clients.
+- sont sans lien avec le volume ou la valeur des transactions exécutées pour le compte des clients.
 
 (3)
 
@@ -590,51 +590,51 @@ Un établissement de crédit ou une entreprise d’investissement fournissant de
 
 Les intitulés des chapitres du règlement-grand-ducal du 13 juillet 2007 relatif à la tenue d’une cote officielle pour instruments financiers sont modifiés comme suit :
 
-1. À l’intitulé des chapitres 1 er , 3 et 4, les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation ;
+- À l’intitulé des chapitres 1 er , 3 et 4, les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation ;
 
-2. À l’intitulé du chapitre 2, les mots marché d’instruments financiers sont remplacés par les mots marché réglementé ou d’un MTF .
+- À l’intitulé du chapitre 2, les mots marché d’instruments financiers sont remplacés par les mots marché réglementé ou d’un MTF .
 
 <a id="art-14"></a>
 ## Art. 14.
 
 L’article 1er du même règlement grand-ducal est modifié comme suit :
 
-1. La lettre a) prend la teneur suivante : « a) « exploitant d’une plate-forme de négociation » : l’opérateur d’un marché réglementé agréé au Luxembourg, l’opérateur de marché exploitant un MTF ou un OTF au Luxembourg, l’établissement de crédit exploitant un MTF ou un OTF au Luxembourg ou l’entreprise d’investissement exploitant un MTF ou un OTF au Luxembourg ; » ;
+- La lettre a) prend la teneur suivante : « a) « exploitant d’une plate-forme de négociation » : l’opérateur d’un marché réglementé agréé au Luxembourg, l’opérateur de marché exploitant un MTF ou un OTF au Luxembourg, l’établissement de crédit exploitant un MTF ou un OTF au Luxembourg ou l’entreprise d’investissement exploitant un MTF ou un OTF au Luxembourg ; » ;
 
-2. À la lettre b), les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation ;
+- À la lettre b), les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation ;
 
-3. À la lettre d), point ii), les mots parts admis à la négociation sur un marché réglementé sont remplacés par les mots parts en bourse ;
+- À la lettre d), point ii), les mots parts admis à la négociation sur un marché réglementé sont remplacés par les mots parts en bourse ;
 
-4. Le point final à la fin de la lettre e) est remplacé par un point-virgule, et il est inséré une nouvelle lettre f) libellée comme suit : « f) « plate-forme de négociation » : un marché réglementé, un MTF ou un OTF. ».
+- Le point final à la fin de la lettre e) est remplacé par un point-virgule, et il est inséré une nouvelle lettre f) libellée comme suit : « f) « plate-forme de négociation » : un marché réglementé, un MTF ou un OTF. ».
 
 <a id="art-15"></a>
 ## Art. 15.
 
 L’article 2 du même règlement grand-ducal est modifié comme suit :
 
-1. Le paragraphe 1 er prend la teneur suivante : « (1) Les chapitres 1 à 4 déterminent les règles relatives à l’admission d’instruments financiers à la cote officielle de l’exploitant d’une plate-forme de négociation ainsi que les règles relatives à leur suspension ou à leur retrait de la cote officielle. » ;
+- Le paragraphe 1 er prend la teneur suivante : « (1) Les chapitres 1 à 4 déterminent les règles relatives à l’admission d’instruments financiers à la cote officielle de l’exploitant d’une plate-forme de négociation ainsi que les règles relatives à leur suspension ou à leur retrait de la cote officielle. » ;
 
-2. Au paragraphe 2, les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation .
+- Au paragraphe 2, les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation .
 
 <a id="art-16"></a>
 ## Art. 16.
 
 L’article 3 du même règlement grand-ducal est modifié comme suit :
 
-1. Au paragraphe 5, alinéa 2, les mots marché d’instruments financiers sont remplacés par les mots marché réglementé ou du MTF ;
+- Au paragraphe 5, alinéa 2, les mots marché d’instruments financiers sont remplacés par les mots marché réglementé ou du MTF ;
 
-2. Le paragraphe 7 est abrogé.
+- Le paragraphe 7 est abrogé.
 
 <a id="art-17"></a>
 ## Art. 17.
 
 L’article 4 du même règlement grand-ducal est modifié comme suit :
 
-1. Aux paragraphes 1 er , 4, 5 et 6, les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation ;
+- Aux paragraphes 1 er , 4, 5 et 6, les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation ;
 
-2. Au paragraphe 7, alinéa 1 er , les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation , et les mots du marché d’instruments financiers sont remplacés par les mots de la plate-forme de négociation ;
+- Au paragraphe 7, alinéa 1 er , les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation , et les mots du marché d’instruments financiers sont remplacés par les mots de la plate-forme de négociation ;
 
-3. Le paragraphe 8 prend la teneur suivante : « (8) Sans préjudice du droit de la CSSF d’exiger la suspension ou le retrait d’un instrument financier de la cote officielle conformément à l’article 45 de la loi du 30 mai 2018 relative aux marchés d’instruments financiers, l’exploitant d’une plate-forme de négociation peut suspendre ou retirer de la cote officielle un instrument financier qui ne respecte plus les règles de la plate-forme de négociation. ».
+- Le paragraphe 8 prend la teneur suivante : « (8) Sans préjudice du droit de la CSSF d’exiger la suspension ou le retrait d’un instrument financier de la cote officielle conformément à l’article 45 de la loi du 30 mai 2018 relative aux marchés d’instruments financiers, l’exploitant d’une plate-forme de négociation peut suspendre ou retirer de la cote officielle un instrument financier qui ne respecte plus les règles de la plate-forme de négociation. ».
 
 <a id="art-18"></a>
 ## Art. 18.

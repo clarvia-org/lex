@@ -95,7 +95,7 @@ Il appartient à la chambre patronale compétente d’autoriser les frais de mat
 <a id="art-5"></a>
 ## Art. 5.
 
-Pour certaines formations, le ministre peut désigner un ou plusieurs groupes d’experts techniques chargés d’examiner, pour chaque épreuve, les sujets ou questions proposés et de soumettre leurs observations au commissaire. Les indemnités des experts techniques qui peuvent être nommés pour aviser des questionnaires, sont fixées à 96,13 € par expert pour toute vacation allant jusqu’à deux heures. Pour toute vacation dépassant deux heures, le taux est augmenté de 48,07 par heure d’expertise supplémentaire entamée. Les experts techniques sont convoqués par le commissaire du Gouvernement.
+Pour certaines formations, le ministre peut désigner un ou plusieurs groupes d’ experts techniques chargés d’examiner, pour chaque épreuve, les sujets ou questions proposés et de soumettre leurs observations au commissaire. Les indemnités des experts techniques qui peuvent être nommés pour aviser des questionnaires, sont fixées à 96,13 € par expert pour toute vacation allant jusqu’à deux heures. Pour toute vacation dépassant deux heures, le taux est augmenté de 48,07 par heure d’expertise supplémentaire entamée. Les experts techniques sont convoqués par le commissaire du Gouvernement.
 
 <a id="art-6"></a>
 ## Art. 6.

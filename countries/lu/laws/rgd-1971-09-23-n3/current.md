@@ -395,9 +395,9 @@ Les extincteurs sont à fixer aux piliers ou aux murs à proximité des portes e
 
 L'établissement doit disposer:
 
-1. de deux extincteurs portatifs au moins pour une surface jusqu'à 100 m 2
+- de deux extincteurs portatifs au moins pour une surface jusqu'à 100 m 2
 
-2. d'un extincteur supplémentaire pour chaque unité ou fraction de 200 m 2
+- d'un extincteur supplémentaire pour chaque unité ou fraction de 200 m 2
 
 Ces extincteurs doivent être appropriés aux risques et être de capacités suffisantes.
 

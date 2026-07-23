@@ -33,50 +33,50 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le Conseil national de la justice, dénommé ci-après « Conseil », est composé de neuf membres effectifs, c’est-à-dire :
 
-1. six magistrats, à élire dans les conditions prescrites à l’article 3, c’est-à-dire :
+- six magistrats, à élire dans les conditions prescrites à l’article 3, c’est-à-dire :
 
-1. un magistrat de la Cour supérieure de justice ;
+  - un magistrat de la Cour supérieure de justice ;
 
-2. un magistrat des tribunaux d’arrondissement, des justices de paix et du pool de complément des magistrats du siège ;
+  - un magistrat des tribunaux d’arrondissement, des justices de paix et du pool de complément des magistrats du siège ;
 
-3. un magistrat du Parquet général ;
+  - un magistrat du Parquet général ;
 
-4. un magistrat des parquets, du pool de complément des magistrats du parquet et de la Cellule de renseignement financier ;
+  - un magistrat des parquets, du pool de complément des magistrats du parquet et de la Cellule de renseignement financier ;
 
-5. un magistrat de la Cour administrative ;
+  - un magistrat de la Cour administrative ;
 
-6. un magistrat du Tribunal administratif ;
+  - un magistrat du Tribunal administratif ;
 
-2. trois personnalités extérieures à la magistrature, c’est-à-dire :
+- trois personnalités extérieures à la magistrature, c’est-à-dire :
 
-1. un avocat, à désigner dans les conditions déterminées par l’article 4 ;
+  - un avocat, à désigner dans les conditions déterminées par l’article 4 ;
 
-2. deux personnalités qualifiées en raison de leur formation et de leur expérience professionnelle, à désigner par la Chambre des députés à la majorité des deux tiers des suffrages de ses membres.
+  - deux personnalités qualifiées en raison de leur formation et de leur expérience professionnelle, à désigner par la Chambre des députés à la majorité des deux tiers des suffrages de ses membres.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 Le Conseil se complète par neuf membres suppléants, c’est-à-dire :
 
-1. six magistrats, à élire dans les conditions prescrites à l’article 3, c’est-à-dire :
+- six magistrats, à élire dans les conditions prescrites à l’article 3, c’est-à-dire :
 
-1. un magistrat de la Cour supérieure de justice ;
+  - un magistrat de la Cour supérieure de justice ;
 
-2. un magistrat des tribunaux d’arrondissement, des justices de paix et du pool de complément des magistrats du siège ;
+  - un magistrat des tribunaux d’arrondissement, des justices de paix et du pool de complément des magistrats du siège ;
 
-3. un magistrat du Parquet général ;
+  - un magistrat du Parquet général ;
 
-4. un magistrat des parquets, du pool de complément des magistrats du parquet et de la Cellule de renseignement financier ;
+  - un magistrat des parquets, du pool de complément des magistrats du parquet et de la Cellule de renseignement financier ;
 
-5. un magistrat de la Cour administrative ;
+  - un magistrat de la Cour administrative ;
 
-6. un magistrat du Tribunal administratif ;
+  - un magistrat du Tribunal administratif ;
 
-2. trois personnalités extérieures à la magistrature, c’est-à-dire :
+- trois personnalités extérieures à la magistrature, c’est-à-dire :
 
-1. un avocat, à désigner dans les conditions déterminées par l’article 4 ;
+  - un avocat, à désigner dans les conditions déterminées par l’article 4 ;
 
-2. deux personnalités qualifiées en raison de leur formation et de leur expérience professionnelle, à désigner par la Chambre des députés à la majorité des deux tiers des suffrages de ses membres.
+  - deux personnalités qualifiées en raison de leur formation et de leur expérience professionnelle, à désigner par la Chambre des députés à la majorité des deux tiers des suffrages de ses membres.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -85,17 +85,17 @@ Le Conseil se complète par neuf membres suppléants, c’est-à-dire :
 
 Il y a six collèges électoraux, c’est-à-dire :
 
-1. le collège électoral des magistrats de la Cour supérieure de justice ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre a), et le membre suppléant visé à l’article 2, point 1°, lettre a) ;
+- le collège électoral des magistrats de la Cour supérieure de justice ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre a), et le membre suppléant visé à l’article 2, point 1°, lettre a) ;
 
-2. le collège électoral des magistrats des tribunaux d’arrondissement, des justices de paix et du pool de complément des magistrats du siège ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre b), et le membre suppléant visé à l’article 2, point 1°, lettre b) ;
+- le collège électoral des magistrats des tribunaux d’arrondissement, des justices de paix et du pool de complément des magistrats du siège ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre b), et le membre suppléant visé à l’article 2, point 1°, lettre b) ;
 
-3. le collège électoral des magistrats du Parquet général ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre c), et le membre suppléant visé à l’article 2, point 1°, lettre c) ;
+- le collège électoral des magistrats du Parquet général ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre c), et le membre suppléant visé à l’article 2, point 1°, lettre c) ;
 
-4. le collège électoral des magistrats des parquets, du pool de complément des magistrats du parquet et de la Cellule de renseignement financier ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre d), et le membre suppléant visé à l’article 2, point 1°, lettre d) ;
+- le collège électoral des magistrats des parquets, du pool de complément des magistrats du parquet et de la Cellule de renseignement financier ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre d), et le membre suppléant visé à l’article 2, point 1°, lettre d) ;
 
-5. le collège électoral des magistrats de la Cour administrative ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre e), et le membre suppléant visé à l’article 2, point 1°, lettre e) ;
+- le collège électoral des magistrats de la Cour administrative ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre e), et le membre suppléant visé à l’article 2, point 1°, lettre e) ;
 
-6. le collège électoral des magistrats du Tribunal administratif ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre f), et le membre suppléant visé à l’article 2, point 1°, lettre f).
+- le collège électoral des magistrats du Tribunal administratif ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre f), et le membre suppléant visé à l’article 2, point 1°, lettre f).
 
 (2)
 
@@ -145,11 +145,11 @@ En cas de cessation de la fonction de bâtonnier ou de bâtonnier sortant après
 
 Pour pouvoir siéger au Conseil, il faut :
 
-1. être de nationalité luxembourgeoise ;
+- être de nationalité luxembourgeoise ;
 
-2. jouir des droits civils et politiques ;
+- jouir des droits civils et politiques ;
 
-3. présenter toutes les garanties d’honorabilité.
+- présenter toutes les garanties d’honorabilité.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -162,11 +162,11 @@ La Chambre des députés apprécie l’honorabilité des candidats aux postes va
 
 Le procureur général d’État fait état dans son avis des :
 
-1. inscriptions au bulletin N° 2 du casier judiciaire ;
+- inscriptions au bulletin N° 2 du casier judiciaire ;
 
-2. informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;
+- informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;
 
-3. informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.
+- informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.
 
 (3)
 
@@ -178,9 +178,9 @@ Le procureur général d’État fait état dans son avis des informations issue
 
 Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :
 
-1. le nom, les prénoms, la date et le lieu de naissance du candidat ainsi que son numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
+- le nom, les prénoms, la date et le lieu de naissance du candidat ainsi que son numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
 
-2. la qualification juridique des faits reprochés.
+- la qualification juridique des faits reprochés.
 
 (5)
 
@@ -191,19 +191,19 @@ L’avis du procureur général d’État est détruit endéans les six mois à 
 
 Ne peuvent être membres du Conseil :
 
-1. les membres de la Chambre des députés, du Gouvernement et du Conseil d’État ;
+- les membres de la Chambre des députés, du Gouvernement et du Conseil d’État ;
 
-2. les bourgmestres, échevins et conseillers communaux ;
+- les bourgmestres, échevins et conseillers communaux ;
 
-3. les membres du Parlement européen, de la Commission européenne et de la Cour des comptes de l’Union européenne ;
+- les membres du Parlement européen, de la Commission européenne et de la Cour des comptes de l’Union européenne ;
 
-4. les magistrats suivants :
+- les magistrats suivants :
 
-1. les juges de la Cour de justice de l’Union européenne, du Tribunal de l’Union européenne, de la Cour européenne des droits de l’homme et de la Cour pénale internationale ;
+  - les juges de la Cour de justice de l’Union européenne, du Tribunal de l’Union européenne, de la Cour européenne des droits de l’homme et de la Cour pénale internationale ;
 
-2. les membres du collège du Parquet européen et les procureurs européens délégués ;
+  - les membres du collège du Parquet européen et les procureurs européens délégués ;
 
-3. les membres du Tribunal disciplinaire des magistrats et de la Cour disciplinaire des magistrats.
+  - les membres du Tribunal disciplinaire des magistrats et de la Cour disciplinaire des magistrats.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -238,13 +238,13 @@ En cas de fin prématurée d’un mandat, le nouveau membre achève le mandat de
 
 Il est mis fin de plein droit au mandat de membre du Conseil dans les cas suivants :
 
-1. la cessation de la fonction ou de la qualité en vertu de laquelle le membre siège au Conseil ;
+- la cessation de la fonction ou de la qualité en vertu de laquelle le membre siège au Conseil ;
 
-2. la démission présentée par le membre ;
+- la démission présentée par le membre ;
 
-3. la survenance d’une incompatibilité au sens de l’article 7 en cours de mandat ;
+- la survenance d’une incompatibilité au sens de l’article 7 en cours de mandat ;
 
-4. la condamnation à une peine privative de liberté avec ou sans sursis, du chef d’une infraction intentionnelle.
+- la condamnation à une peine privative de liberté avec ou sans sursis, du chef d’une infraction intentionnelle.
 
 (2)
 
@@ -346,19 +346,19 @@ Toute personne peut adresser au Conseil une doléance relative au fonctionnement
 
 Sous peine d’irrecevabilité, la doléance contient :
 
-1. l’identité, l’adresse et la signature de son auteur ;
+- l’identité, l’adresse et la signature de son auteur ;
 
-2. l’indication sommaire des faits et griefs allégués.
+- l’indication sommaire des faits et griefs allégués.
 
 (3)
 
 Sont irrecevables les doléances :
 
-1. portant sur le contenu d’une décision de justice ;
+- portant sur le contenu d’une décision de justice ;
 
-2. dont l’objet peut ou pouvait être atteint par l’exercice des voies de recours ordinaires ou extraordinaires ;
+- dont l’objet peut ou pouvait être atteint par l’exercice des voies de recours ordinaires ou extraordinaires ;
 
-3. déjà traitées et ne contenant aucun élément nouveau.
+- déjà traitées et ne contenant aucun élément nouveau.
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -371,21 +371,21 @@ Lorsque le justiciable estime qu’à l’occasion d’une procédure juridictio
 
 La plainte disciplinaire indique sous peine d’irrecevabilité :
 
-1. l’identité, l’adresse et la signature de son auteur ;
+- l’identité, l’adresse et la signature de son auteur ;
 
-2. les éléments permettant d’identifier la procédure en cause ;
+- les éléments permettant d’identifier la procédure en cause ;
 
-3. de manière sommaire les faits et griefs allégués.
+- de manière sommaire les faits et griefs allégués.
 
 (3)
 
 Sous peine d’irrecevabilité, la plainte disciplinaire :
 
-1. ne peut être dirigée contre un magistrat du ministère public lorsque le parquet auquel il appartient demeure chargé de la procédure ;
+- ne peut être dirigée contre un magistrat du ministère public lorsque le parquet auquel il appartient demeure chargé de la procédure ;
 
-2. ne peut être dirigée contre un magistrat du siège qui demeure saisi de la procédure ;
+- ne peut être dirigée contre un magistrat du siège qui demeure saisi de la procédure ;
 
-3. ne peut être présentée après l’expiration d’un délai d’une année suivant une décision irrévocable mettant fin à la procédure.
+- ne peut être présentée après l’expiration d’un délai d’une année suivant une décision irrévocable mettant fin à la procédure.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -403,17 +403,17 @@ L’Ombudsman n’a aucune compétence à l’égard du Conseil.
 
 Le Conseil peut :
 
-1. soit procéder au classement du dossier lorsque la doléance ou la plainte disciplinaire est irrecevable ;
+- soit procéder au classement du dossier lorsque la doléance ou la plainte disciplinaire est irrecevable ;
 
-2. soit faire les actes suivants :
+- soit faire les actes suivants :
 
-1. la réalisation d’une enquête ;
+  - la réalisation d’une enquête ;
 
-2. la présentation d’une recommandation ;
+  - la présentation d’une recommandation ;
 
-3. l’introduction d’une procédure disciplinaire contre un magistrat ;
+  - l’introduction d’une procédure disciplinaire contre un magistrat ;
 
-4. le renvoi au chef d’administration aux fins qu’il juge utiles.
+  - le renvoi au chef d’administration aux fins qu’il juge utiles.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -422,9 +422,9 @@ Le Conseil peut :
 
 Le Conseil informe :
 
-1. l’auteur des suites réservées à sa doléance ou sa plainte disciplinaire ;
+- l’auteur des suites réservées à sa doléance ou sa plainte disciplinaire ;
 
-2. le magistrat concerné par une doléance des suites réservées à celle-ci.
+- le magistrat concerné par une doléance des suites réservées à celle-ci.
 
 L’information doit être sommairement motivée en droit et en fait.
 
@@ -449,11 +449,11 @@ Il désigne, parmi ses membres, un ou plusieurs enquêteurs.
 
 L’enquêteur peut :
 
-1. descendre sur les lieux afin de faire toutes les constatations utiles, sans toutefois procéder à une perquisition ;
+- descendre sur les lieux afin de faire toutes les constatations utiles, sans toutefois procéder à une perquisition ;
 
-2. consulter et se faire produire, sans déplacement, pour en prendre connaissance, des dossiers et documents ; l’enquêteur peut faire des copies d’extraits de pièces sans frais ;
+- consulter et se faire produire, sans déplacement, pour en prendre connaissance, des dossiers et documents ; l’enquêteur peut faire des copies d’extraits de pièces sans frais ;
 
-3. entendre, à titre d’information et, le cas échéant, sous serment, des magistrats et agents de l’État affectés aux services de la justice ainsi que toute autre personne dont l’audition est utile à l’enquête ; la personne entendue est autorisée à faire des déclarations qui sont couvertes par le secret professionnel.
+- entendre, à titre d’information et, le cas échéant, sous serment, des magistrats et agents de l’État affectés aux services de la justice ainsi que toute autre personne dont l’audition est utile à l’enquête ; la personne entendue est autorisée à faire des déclarations qui sont couvertes par le secret professionnel.
 
 (3)
 
@@ -466,15 +466,15 @@ Le rapport d’enquête est communiqué au président du Conseil.
 
 Sur base du rapport d’enquête, le Conseil peut :
 
-1. soit procéder au classement du dossier ;
+- soit procéder au classement du dossier ;
 
-2. soit faire les actes suivants :
+- soit faire les actes suivants :
 
-1. la présentation d’une recommandation en vue d’améliorer le fonctionnement de la justice ;
+  - la présentation d’une recommandation en vue d’améliorer le fonctionnement de la justice ;
 
-2. l’introduction d’une procédure disciplinaire contre un magistrat ;
+  - l’introduction d’une procédure disciplinaire contre un magistrat ;
 
-3. le renvoi au chef d’administration aux fins qu’il juge utiles.
+  - le renvoi au chef d’administration aux fins qu’il juge utiles.
 
 ##### Section 5. Du rôle consultatif
 
@@ -488,11 +488,11 @@ Le Conseil peut adresser aux chefs de corps et responsables de service des recom
 
 Le Conseil peut présenter à la Chambre des députés et au ministre de la justice, soit de sa propre initiative, soit à la demande de ces derniers, des recommandations visant :
 
-1. l’organisation et le fonctionnement de la justice ;
+- l’organisation et le fonctionnement de la justice ;
 
-2. l’organisation et le fonctionnement du Conseil ;
+- l’organisation et le fonctionnement du Conseil ;
 
-3. le statut des magistrats, attachés de justice et référendaires de justice ainsi que du personnel de justice.
+- le statut des magistrats, attachés de justice et référendaires de justice ainsi que du personnel de justice.
 
 ##### Section 6. De la communication
 
@@ -582,9 +582,9 @@ Avant d’entrer en fonctions, le secrétaire général et les fonctionnaires é
 
 Pour pouvoir être nommé à la fonction de secrétaire général du Conseil, il faut :
 
-1. remplir les conditions prescrites à l’article 5 ;
+- remplir les conditions prescrites à l’article 5 ;
 
-2. être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent.
+- être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent.
 
 (2)
 
@@ -640,11 +640,11 @@ En cas d’égalité des voix, celle du membre qui préside le Conseil est déte
 
 Le procès-verbal indique :
 
-1. le nombre et le nom des membres qui ont participé au vote ;
+- le nombre et le nom des membres qui ont participé au vote ;
 
-2. le nombre de membres qui ont voté pour l’acte ;
+- le nombre de membres qui ont voté pour l’acte ;
 
-3. le nombre de membres qui ont voté contre l’acte.
+- le nombre de membres qui ont voté contre l’acte.
 
 <a id="art-35"></a>
 ## Art. 35.
@@ -716,11 +716,11 @@ Les membres de la commission des comptes élisent le président de celle-ci.
 
 Il est accordé une indemnité de :
 
-1. cent soixante points indiciaires par mois au président du Conseil ;
+- cent soixante points indiciaires par mois au président du Conseil ;
 
-2. cent trente points indiciaires par mois aux vice-présidents du Conseil ;
+- cent trente points indiciaires par mois aux vice-présidents du Conseil ;
 
-3. cent points indiciaires par mois aux autres membres effectifs du Conseil.
+- cent points indiciaires par mois aux autres membres effectifs du Conseil.
 
 (2)
 
@@ -742,13 +742,13 @@ Est qualifié faute disciplinaire tout acte commis dans l’exercice ou hors de 
 
 Selon la gravité de la faute, les sanctions suivantes peuvent être prononcées :
 
-1. l’avertissement ;
+- l’avertissement ;
 
-2. la réprimande ;
+- la réprimande ;
 
-3. l’exclusion temporaire des fonctions, avec privation de l’indemnité pour une période de six mois au maximum ;
+- l’exclusion temporaire des fonctions, avec privation de l’indemnité pour une période de six mois au maximum ;
 
-4. la révocation, qui emporte la perte du titre.
+- la révocation, qui emporte la perte du titre.
 
 <a id="art-45"></a>
 ## Art. 45.
@@ -821,9 +821,9 @@ Si le président du Conseil est visé par la procédure disciplinaire, la prési
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
 
-1. À l’article 12, paragraphe 1 er , alinéa 7, le point 16° prend la teneur suivante : Les fonctions de secrétaire général du Conseil d’État, de secrétaire général du Conseil économique et social ainsi que de secrétaire général du Conseil national de la justice sont classées au grade 17.
+- À l’article 12, paragraphe 1 er , alinéa 7, le point 16° prend la teneur suivante : Les fonctions de secrétaire général du Conseil d’État, de secrétaire général du Conseil économique et social ainsi que de secrétaire général du Conseil national de la justice sont classées au grade 17.
 
-2. À l’article 17, alinéa 1 er , la lettre b) prend la teneur suivante : Pour les fonctionnaires énumérés ci-après, la valeur des différents échelons de leurs grades respectifs est augmentée de 25 points indiciaires : « directeurs généraux, directeurs généraux adjoints, directeurs, premier conseiller de légation, présidents, ministres plénipotentiaires, administrateurs généraux, commissaires, commissaire du Gouvernement adjoint chargé de l’instruction disciplinaire, colonel-chef d’état-major, inspecteur général adjoint de la sécurité dans la Fonction publique, inspecteur général de la sécurité dans la Fonction publique, Haut-Commissaire à la Protection nationale, lieutenant-colonel/chef d’état-major adjoint, lieutenant-colonel/commandant du centre militaire, vice-présidents, directeurs adjoints, inspecteur général de la Police, inspecteur général adjoint de la police, directeurs centraux de la police, médecins directeurs, représentant permanent auprès de l’Union européenne, secrétaire du Grand-Duc, secrétaire général du Conseil d’État, secrétaire général du Conseil économique et social, secrétaire général du Conseil national de la justice, secrétaire général du département des affaires étrangères, Ombudsman fir Kanner a Jugendlecher. Bénéficient de la même mesure le médecin dirigeant chargé de la direction de la division de la santé au travail du secteur public et le médecin dirigeant de la division de la médecine de contrôle du secteur public, ainsi que les fonctionnaires classés aux grades M5, M6, M7 et S1. »
+- À l’article 17, alinéa 1 er , la lettre b) prend la teneur suivante : Pour les fonctionnaires énumérés ci-après, la valeur des différents échelons de leurs grades respectifs est augmentée de 25 points indiciaires : « directeurs généraux, directeurs généraux adjoints, directeurs, premier conseiller de légation, présidents, ministres plénipotentiaires, administrateurs généraux, commissaires, commissaire du Gouvernement adjoint chargé de l’instruction disciplinaire, colonel-chef d’état-major, inspecteur général adjoint de la sécurité dans la Fonction publique, inspecteur général de la sécurité dans la Fonction publique, Haut-Commissaire à la Protection nationale, lieutenant-colonel/chef d’état-major adjoint, lieutenant-colonel/commandant du centre militaire, vice-présidents, directeurs adjoints, inspecteur général de la Police, inspecteur général adjoint de la police, directeurs centraux de la police, médecins directeurs, représentant permanent auprès de l’Union européenne, secrétaire du Grand-Duc, secrétaire général du Conseil d’État, secrétaire général du Conseil économique et social, secrétaire général du Conseil national de la justice, secrétaire général du département des affaires étrangères, Ombudsman fir Kanner a Jugendlecher. Bénéficient de la même mesure le médecin dirigeant chargé de la direction de la division de la santé au travail du secteur public et le médecin dirigeant de la division de la médecine de contrôle du secteur public, ainsi que les fonctionnaires classés aux grades M5, M6, M7 et S1. »
 
 #### Chapitre 5. Dispositions transitoires
 
@@ -834,15 +834,15 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 
 Avant l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, les membres du Conseil :
 
-1. sont désignés et élus dans les conditions suivantes :
+- sont désignés et élus dans les conditions suivantes :
 
-1. la Chambre des députés désigne deux membres effectifs et deux membres suppléants dans les conditions prescrites à l’article 1 er , point 2°, lettre b), et de l’article 2, point 2°, lettre b) ;
+  - la Chambre des députés désigne deux membres effectifs et deux membres suppléants dans les conditions prescrites à l’article 1 er , point 2°, lettre b), et de l’article 2, point 2°, lettre b) ;
 
-2. les collèges électoraux des magistrats procèdent à l’élection de six membres effectifs et de six membres suppléants dans les conditions prescrites à l’article 3 ;
+  - les collèges électoraux des magistrats procèdent à l’élection de six membres effectifs et de six membres suppléants dans les conditions prescrites à l’article 3 ;
 
-3. les conseils réunis de l’Ordre des avocats du Barreau de Luxembourg et de l’Ordre des avocats du Barreau de Diekirch désignent un membre effectif et un membre suppléant dans les conditions prescrites à l’article 4 ;
+  - les conseils réunis de l’Ordre des avocats du Barreau de Luxembourg et de l’Ordre des avocats du Barreau de Diekirch désignent un membre effectif et un membre suppléant dans les conditions prescrites à l’article 4 ;
 
-2. sont nommés et assermentés dans les conditions prescrites aux articles 14 et 15.
+- sont nommés et assermentés dans les conditions prescrites aux articles 14 et 15.
 
 (2)
 
@@ -855,9 +855,9 @@ Le mandat de membre du Conseil prend effet le premier jour de l’entrée en vig
 
 Avant l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, le président et les vice-présidents du Conseil :
 
-1. sont élus dans les conditions déterminées par l’article 11 ;
+- sont élus dans les conditions déterminées par l’article 11 ;
 
-2. sont nommés et assermentés dans les conditions déterminées par les articles 14 et 15.
+- sont nommés et assermentés dans les conditions déterminées par les articles 14 et 15.
 
 (2)
 
@@ -870,9 +870,9 @@ Les mandats de président et de vice-président du Conseil prennent effet le pre
 
 Il est institué un comité chargé d’entamer, avant l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, le processus de recrutement :
 
-1. du secrétaire général du Conseil dans les conditions déterminées par le paragraphe 2 ;
+- du secrétaire général du Conseil dans les conditions déterminées par le paragraphe 2 ;
 
-2. des autres agents du secrétariat du Conseil.
+- des autres agents du secrétariat du Conseil.
 
 Ce comité est composé des membres nommés en application de l’article 52.
 
@@ -880,15 +880,15 @@ Ce comité est composé des membres nommés en application de l’article 52.
 
 Par dérogation aux dispositions de l’article 32, le comité est chargé :
 
-1. de déterminer le profil de la fonction de secrétaire général du Conseil ;
+- de déterminer le profil de la fonction de secrétaire général du Conseil ;
 
-2. de faire publier l’appel à candidatures ;
+- de faire publier l’appel à candidatures ;
 
-3. d’organiser des entretiens individuels avec les candidats ;
+- d’organiser des entretiens individuels avec les candidats ;
 
-4. de sélectionner les candidats en tenant compte de leur adéquation au profil recherché ;
+- de sélectionner les candidats en tenant compte de leur adéquation au profil recherché ;
 
-5. de proposer la nomination d’un candidat au Grand-Duc.
+- de proposer la nomination d’un candidat au Grand-Duc.
 
 (3)
 

@@ -85,15 +85,15 @@ Le fonctionnaire soumis à astreinte à domicile bénéficie d’un congé de co
 
 A) Permanences de nuit
 
-1. pour les astreintes aux jours ouvrables (à partir de 19.00 heures jusqu’à 7.00 heures): 1,24 euros (n.i. 100);
+- pour les astreintes aux jours ouvrables (à partir de 19.00 heures jusqu’à 7.00 heures): 1,24 euros (n.i. 100);
 
-2. pour les astreintes aux samedis, dimanches et jours fériés, respectivement jours fériés de rechange (à partir de 19.00 heures jusqu’à 7.00 heures): 2,48 euros (n.i. 100);
+- pour les astreintes aux samedis, dimanches et jours fériés, respectivement jours fériés de rechange (à partir de 19.00 heures jusqu’à 7.00 heures): 2,48 euros (n.i. 100);
 
 B) Permanence de jour
 
-1. pour les astreintes aux jours ouvrables (à partir de 7.00 heures jusqu’à 19.00 heures): 1,24 euros (n.i. 100);
+- pour les astreintes aux jours ouvrables (à partir de 7.00 heures jusqu’à 19.00 heures): 1,24 euros (n.i. 100);
 
-2. pour les astreintes aux samedis, dimanches et jours fériés, respectivement jours fériés de rechange (à partir de 7.00 heures jusqu’à 19.00 heures): 2,48 euros (n.i. 100);
+- pour les astreintes aux samedis, dimanches et jours fériés, respectivement jours fériés de rechange (à partir de 7.00 heures jusqu’à 19.00 heures): 2,48 euros (n.i. 100);
 
 #### Chapitre V.
 

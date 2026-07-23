@@ -167,25 +167,25 @@ Pour la fixation de la carrière, à condition d’avoir réussi à l’examen s
 
 Le Gouvernement est autorisé à procéder aux engagements de renforcements à titre permanent suivants au profit de l’administration:
 
-1. 3 ingénieurs;
+- 3 ingénieurs;
 
-2. 1 attaché de gouvernement;
+- 1 attaché de gouvernement;
 
-3. 1 chimiste;
+- 1 chimiste;
 
-4. 1 ingénieur technicien;
+- 1 ingénieur technicien;
 
-5. 1 informaticien diplômé;
+- 1 informaticien diplômé;
 
-6. 2 expéditionnaires techniques;
+- 2 expéditionnaires techniques;
 
-7. 2 expéditionnaires-informaticiens;
+- 2 expéditionnaires-informaticiens;
 
-8. 1 expéditionnaire administratif;
+- 1 expéditionnaire administratif;
 
-9. 2 artisans;
+- 2 artisans;
 
-10. 11 ouvriers de l’Etat.
+- 11 ouvriers de l’Etat.
 
 Les engagements définitifs au service de l’Etat résultant des dispositions du présent article se font par dépassement de l’effectif total du personnel et en dehors du nombre des engagements de renforcements déterminés dans la loi concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 2010 et dans les lois budgétaires pour les exercices futurs.
 

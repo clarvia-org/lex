@@ -41,21 +41,21 @@ Définitions
 
 Aux fins du présent règlement grand-ducal, on entend par :
 
-1. «agents biologiques», les micro-organismes, y compris les micro-organismes génétiquement modifiés, les cultures cellulaires et les endoparasites humains qui sont susceptibles de provoquer une infection, une allergie ou une intoxication;
+- «agents biologiques», les micro-organismes, y compris les micro-organismes génétiquement modifiés, les cultures cellulaires et les endoparasites humains qui sont susceptibles de provoquer une infection, une allergie ou une intoxication;
 
-2. «micro-organisme», une entité microbiologique, cellulaire ou non, capable de se reproduire ou de transférer du matériel génétique;
+- «micro-organisme», une entité microbiologique, cellulaire ou non, capable de se reproduire ou de transférer du matériel génétique;
 
-3. «culture cellulaire», le résultat de la croissance in vitro de cellules isolées d’organismes multicellulaires;
+- «culture cellulaire», le résultat de la croissance in vitro de cellules isolées d’organismes multicellulaires;
 
-4. les agents biologiques sont classés en quatre groupes de risque en fonction de l’importance du risque d’infection qu’ils présentent:
+- les agents biologiques sont classés en quatre groupes de risque en fonction de l’importance du risque d’infection qu’ils présentent:
 
-1. un agent biologique du groupe 1 n’est pas susceptible de provoquer une maladie chez l’homme;
+  - un agent biologique du groupe 1 n’est pas susceptible de provoquer une maladie chez l’homme;
 
-2. un agent biologique du groupe 2 peut provoquer une maladie chez l’homme et constituer un danger pour les travailleurs; sa propagation dans la collectivité est improbable; il existe généralement une prophylaxie ou un traitement efficace;
+  - un agent biologique du groupe 2 peut provoquer une maladie chez l’homme et constituer un danger pour les travailleurs; sa propagation dans la collectivité est improbable; il existe généralement une prophylaxie ou un traitement efficace;
 
-3. un agent biologique du groupe 3 peut provoquer une maladie grave chez l’homme et constituer un danger sérieux pour les travailleurs; il peut présenter un risque de propagation dans la collectivité, mais il existe généralement une prophylaxie ou un traitement efficace;
+  - un agent biologique du groupe 3 peut provoquer une maladie grave chez l’homme et constituer un danger sérieux pour les travailleurs; il peut présenter un risque de propagation dans la collectivité, mais il existe généralement une prophylaxie ou un traitement efficace;
 
-4. un agent biologique du groupe 4 provoque des maladies graves chez l’homme et constitue un danger sérieux pour les travailleurs; il peut présenter un risque élevé de propagation dans la collectivité; il n’existe généralement pas de prophylaxie ni de traitement efficace.
+  - un agent biologique du groupe 4 provoque des maladies graves chez l’homme et constitue un danger sérieux pour les travailleurs; il peut présenter un risque élevé de propagation dans la collectivité; il n’existe généralement pas de prophylaxie ni de traitement efficace.
 
 <a id="article-3"></a>
 ## Article 3
@@ -68,13 +68,13 @@ Le présent règlement est applicable aux activités dans lesquelles les travail
 
 2.
 
-1. Pour toute activité susceptible de présenter un risque d’exposition à des agents biologiques, la nature, le degré et la durée de l’exposition des travailleurs doivent être déterminés afin de pouvoir évaluer tout risque pour la santé ou la sécurité des travailleurs et de pouvoir déterminer les mesures à prendre.
+- Pour toute activité susceptible de présenter un risque d’exposition à des agents biologiques, la nature, le degré et la durée de l’exposition des travailleurs doivent être déterminés afin de pouvoir évaluer tout risque pour la santé ou la sécurité des travailleurs et de pouvoir déterminer les mesures à prendre.
 
-2. Pour les activités impliquant une exposition à des agents biologiques appartenant à plusieurs groupes, les risques sont évalués sur la base du danger présenté par tous les agents biologiques dangereux présents.
+- Pour les activités impliquant une exposition à des agents biologiques appartenant à plusieurs groupes, les risques sont évalués sur la base du danger présenté par tous les agents biologiques dangereux présents.
 
-3. Cette évaluation doit être renouvelée régulièrement et, en tout cas, lors de tout changement des conditions pouvant affecter l’exposition des travailleurs à des agents biologiques.
+- Cette évaluation doit être renouvelée régulièrement et, en tout cas, lors de tout changement des conditions pouvant affecter l’exposition des travailleurs à des agents biologiques.
 
-4. L’employeur doit fournir à l’Inspection du travail et des mines, à leur demande, les éléments ayant servi à cette évaluation.
+- L’employeur doit fournir à l’Inspection du travail et des mines, à leur demande, les éléments ayant servi à cette évaluation.
 
 3.
 
@@ -127,23 +127,23 @@ Si les résultats de l’évaluation visée à l’article 3 révèlent l’exis
 
 Quand cela n’est pas techniquement faisable compte tenu de l’activité et de l’évaluation du risque visée à l’article 3, le risque d’exposition doit être réduit à un niveau suffisamment bas pour protéger de manière adéquate la santé et la sécurité des travailleurs concernés, en particulier par l’application, à la lumière du résultat de l’évaluation visée à l’article 3, des mesures suivantes:
 
-1. la limitation, au niveau le plus bas possible du nombre de travailleurs exposés ou susceptibles de l’être;
+- la limitation, au niveau le plus bas possible du nombre de travailleurs exposés ou susceptibles de l’être;
 
-2. une conception des processus de travail et des mesures de contrôle technique visant à éviter ou à minimiser la dissémination d’agents biologiques sur le lieu de travail;
+- une conception des processus de travail et des mesures de contrôle technique visant à éviter ou à minimiser la dissémination d’agents biologiques sur le lieu de travail;
 
-3. des mesures de protection collective et/ou, lorsque l’exposition ne peut être évitée par d’autres moyens, des mesures de protection individuelle;
+- des mesures de protection collective et/ou, lorsque l’exposition ne peut être évitée par d’autres moyens, des mesures de protection individuelle;
 
-4. des mesures d’hygiène compatibles avec l’objectif de prévention ou de réduction du transport ou du rejet accidentel d’un agent biologique hors du lieu de travail;
+- des mesures d’hygiène compatibles avec l’objectif de prévention ou de réduction du transport ou du rejet accidentel d’un agent biologique hors du lieu de travail;
 
-5. l’utilisation des panneaux signalant les risques biologiques décrits à l’annexe II et d’autres signaux avertisseurs pertinents;
+- l’utilisation des panneaux signalant les risques biologiques décrits à l’annexe II et d’autres signaux avertisseurs pertinents;
 
-6. l’établissement de plans à mettre en oeuvre en cas d’accidents mettant en jeu des agents biologiques;
+- l’établissement de plans à mettre en oeuvre en cas d’accidents mettant en jeu des agents biologiques;
 
-7. la détection, si elle est nécessaire et techniquement possible, de la présence, en dehors du confinement physique primaire, d’agents biologiques utilisés au travail;
+- la détection, si elle est nécessaire et techniquement possible, de la présence, en dehors du confinement physique primaire, d’agents biologiques utilisés au travail;
 
-8. les moyens permettant, en toute sécurité et, le cas échéant, après un traitement approprié, la collecte, le stockage et l’élimination des déchets par les travailleurs, y compris l’utilisation de récipients sûrs et identifiables;
+- les moyens permettant, en toute sécurité et, le cas échéant, après un traitement approprié, la collecte, le stockage et l’élimination des déchets par les travailleurs, y compris l’utilisation de récipients sûrs et identifiables;
 
-9. des mesures permettant, sur le lieu de travail, de manipuler et de transporter sans risque des agents biologiques.
+- des mesures permettant, sur le lieu de travail, de manipuler et de transporter sans risque des agents biologiques.
 
 <a id="article-7"></a>
 ## Article 7
@@ -183,27 +183,27 @@ Mesures d’hygiène et de protection individuelle
 
 L’employeur est tenu, pour toutes les activités mettant en jeu des agents biologiques qui constituent un risque pour la sécurité ou la santé des travailleurs, de prendre des mesures appropriées aux fins suivantes:
 
-1. faire en sorte que les travailleurs ne mangent ni ne boivent dans les zones de travail ou existe un risque de contamination par des agents biologiques;
+- faire en sorte que les travailleurs ne mangent ni ne boivent dans les zones de travail ou existe un risque de contamination par des agents biologiques;
 
-2. fournir aux travailleurs des vêtements de protection appropriés ou d’autres vêtements particuliers appropriés;
+- fournir aux travailleurs des vêtements de protection appropriés ou d’autres vêtements particuliers appropriés;
 
-3. mettre à la disposition des travailleurs des salles d’eau et des sanitaires appropriés et adéquates, pouvant comprendre des gouttes pour les yeux et/ou des antiseptiques pour la peau;
+- mettre à la disposition des travailleurs des salles d’eau et des sanitaires appropriés et adéquates, pouvant comprendre des gouttes pour les yeux et/ou des antiseptiques pour la peau;
 
-4. faire en sorte que tout équipement de protection nécessaire soit
+- faire en sorte que tout équipement de protection nécessaire soit
 
-- placé correctement dans un endroit déterminé,
+  - placé correctement dans un endroit déterminé,
 
-- vérifié et nettoyé si possible avant et, en tout cas, après chaque utilisation,
+  - vérifié et nettoyé si possible avant et, en tout cas, après chaque utilisation,
 
-- réparé ou remplacé avant une nouvelle utilisation, s’il est défectueux;
+  - réparé ou remplacé avant une nouvelle utilisation, s’il est défectueux;
 
-5. mettre au point des procédures concernant la prise, la manipulation et le traitement d’échantillons d’origine humaine ou animale.
+- mettre au point des procédures concernant la prise, la manipulation et le traitement d’échantillons d’origine humaine ou animale.
 
 2.
 
-1. Les vêtements de travail et les équipements de protection, y compris les vêtements de protection visés au paragraphe 1, qui peuvent être contaminés par des agents biologiques doivent être enlevés lorsque le travailleur quitte la zone de travail et, avant que les mesures prévues au point b) ne soient prises, rangés à l’écart des autres vêtements.
+- Les vêtements de travail et les équipements de protection, y compris les vêtements de protection visés au paragraphe 1, qui peuvent être contaminés par des agents biologiques doivent être enlevés lorsque le travailleur quitte la zone de travail et, avant que les mesures prévues au point b) ne soient prises, rangés à l’écart des autres vêtements.
 
-2. L’employeur doit veiller à ce que ces vêtements et ces équipements de protection soient désinfectés et nettoyés ou, au besoin, détruits.
+- L’employeur doit veiller à ce que ces vêtements et ces équipements de protection soient désinfectés et nettoyés ou, au besoin, détruits.
 
 3.
 
@@ -218,15 +218,15 @@ Information et formation des travailleurs
 
 L’employeur prend les mesures appropriées pour que les travailleurs et/ou leurs représentants dans l’entreprise ou l’établissement reçcoivent, notamment sous forme d’informations et d’instructions, une formation suffisante et adéquate, se fondant sur tous les renseignements disponibles, concernant:
 
-1. les risques éventuels pour la santé,
+- les risques éventuels pour la santé,
 
-2. les précautions à prendre pour éviter l’exposition,
+- les précautions à prendre pour éviter l’exposition,
 
-3. les prescriptions en matière d’hygiène,
+- les prescriptions en matière d’hygiène,
 
-4. le port et l’emploi des équipements et des vêtements de protection,
+- le port et l’emploi des équipements et des vêtements de protection,
 
-5. les mesures que les travailleurs doivent prendre en cas d’incident et pour prévenir les incidents.
+- les mesures que les travailleurs doivent prendre en cas d’incident et pour prévenir les incidents.
 
 2.
 
@@ -342,15 +342,15 @@ Une nouvelle notification doit être effectuée chaque fois que les procédés e
 
 La notification visée au présent article contient:
 
-1. le nom et l’adresse de l’entreprise et/ou de l’établissement;
+- le nom et l’adresse de l’entreprise et/ou de l’établissement;
 
-2. le nom et les compétences de la personne responsable de la sécurité et de la santé sur le lieu de travail;
+- le nom et les compétences de la personne responsable de la sécurité et de la santé sur le lieu de travail;
 
-3. le résultat de l’évaluation visée à l’article 3;
+- le résultat de l’évaluation visée à l’article 3;
 
-4. l’espèce de l’agent biologique;
+- l’espèce de l’agent biologique;
 
-5. les mesures de protection et de prévention envisagées.
+- les mesures de protection et de prévention envisagées.
 
 ##### SECTION III DISPOSITIONS DIVERSES
 
@@ -420,11 +420,11 @@ Services médicaux et services vétérinaires autres que les laboratoires de dia
 
 Aux fins de l’évaluation visée à l’article 3, une attention particulière doit être accordée aux points suivants:
 
-1. les incertitudes quant à la présence d’agents biologiques dans l’organisme des patients humains ou des animaux et dans les échantillons et déchets qui en proviennent;
+- les incertitudes quant à la présence d’agents biologiques dans l’organisme des patients humains ou des animaux et dans les échantillons et déchets qui en proviennent;
 
-2. le danger que constituent les agents biologiques qui sont ou seraient présents dans l’organisme des patients humains ou des animaux et dans les échantillons et prélèvements effectués sur eux;
+- le danger que constituent les agents biologiques qui sont ou seraient présents dans l’organisme des patients humains ou des animaux et dans les échantillons et prélèvements effectués sur eux;
 
-3. les risques inhérents à la nature de l’activité.
+- les risques inhérents à la nature de l’activité.
 
 2.
 
@@ -432,9 +432,9 @@ Des mesures appropriées devront être prises dans les services médicaux et vé
 
 Les mesures à prendre comprennent notamment:
 
-1. la spécification de procédés appropriés de décontamination et de désinfection, et
+- la spécification de procédés appropriés de décontamination et de désinfection, et
 
-2. la mise en oeuvre de procédés permettant de manipuler et d’éliminer sans risques les déchets contaminés.
+- la mise en oeuvre de procédés permettant de manipuler et d’éliminer sans risques les déchets contaminés.
 
 3.
 
@@ -449,9 +449,9 @@ Mesures spéciales applicables aux procédés industriels, aux laboratoires et a
 
 Dans les laboratoires, y compris les laboratoires de diagnostic et les locaux destinés aux animaux de laboratoire délibérément contaminés par des agents biologiques des groupes 2, 3 ou 4 ou qui sont ou seraient porteurs de ces agents, les mesures suivantes doivent être prises:
 
-1. les laboratoires entreprenant des travaux qui impliquent la manipulation des agents biologiques des groupes 2, 3 ou 4 à des fins de recherche, de développement, d’enseignement ou de diagnostic devront déterminer les mesures de confinement conformément à l’annexe V, afin de réduire au minimum le risque d’infection;
+- les laboratoires entreprenant des travaux qui impliquent la manipulation des agents biologiques des groupes 2, 3 ou 4 à des fins de recherche, de développement, d’enseignement ou de diagnostic devront déterminer les mesures de confinement conformément à l’annexe V, afin de réduire au minimum le risque d’infection;
 
-2. à la suite de l’évaluation visée à l’article 3, des mesures devront être déterminées conformément à l’annexe V, après que le niveau de confinement physique requis pour les agents biologiques aura été fixé en fonction du degré du risque.
+- à la suite de l’évaluation visée à l’article 3, des mesures devront être déterminées conformément à l’annexe V, après que le niveau de confinement physique requis pour les agents biologiques aura été fixé en fonction du degré du risque.
 
 Les activités comportant la manipulation d’un agent biologique doivent être exécutées:
 
@@ -461,17 +461,17 @@ Les activités comportant la manipulation d’un agent biologique doivent être 
 
 - uniquement dans des zones de travail correspondant au moins au niveau de confinement numéro 4, pour un agent biologique du groupe 4;
 
-1. les laboratoires manipulant des matières au sujet desquelles il existe des incertitudes quant à la présence d’agents biologiques pouvant occasionner une maladie chez l’homme mais qui n’ont pas pour objectif de travailler avec des agents biologiques en tant que tels (c’est-à-dire de les cultiver ou de les concentrer) doivent adopter le niveau de confinement numéro 2 au moins. Les niveaux de confinement numéros 3 ou 4 doivent être utilisés, s’il y a lieu, lorsque l’on sait ou que l’on soupçconne qu’ils sont nécessaires,sauf lorsque des lignes directrices fournies par l’Inspection du travail et des mines indiquent que, dans certains cas, un niveau de confinement moins élevé convient.
+- les laboratoires manipulant des matières au sujet desquelles il existe des incertitudes quant à la présence d’agents biologiques pouvant occasionner une maladie chez l’homme mais qui n’ont pas pour objectif de travailler avec des agents biologiques en tant que tels (c’est-à-dire de les cultiver ou de les concentrer) doivent adopter le niveau de confinement numéro 2 au moins. Les niveaux de confinement numéros 3 ou 4 doivent être utilisés, s’il y a lieu, lorsque l’on sait ou que l’on soupçconne qu’ils sont nécessaires,sauf lorsque des lignes directrices fournies par l’Inspection du travail et des mines indiquent que, dans certains cas, un niveau de confinement moins élevé convient.
 
 2.
 
 Les mesures suivantes concernant les procédés industriels utilisant des agents biologiques des groupes 2, 3 ou 4 doivent être prises:
 
-1. les principes en matière de confinement exposés au paragraphe 1 point b) deuxième alinéa doivent également s’appliquer aux procédés industriels sur la base des mesures pratiques et des procédés appropriés indiqués à l’annexeVI;
+- les principes en matière de confinement exposés au paragraphe 1 point b) deuxième alinéa doivent également s’appliquer aux procédés industriels sur la base des mesures pratiques et des procédés appropriés indiqués à l’annexeVI;
 
-2. en fonction de l’évaluation du risque lié à l’emploi d’agents biologiques des groupes 2, 3 ou 4, l’Inspection du travail et des mines peut décider de mesures appropriées devant s’appliquer à la mise en oeuvre industrielle de ces agents biologiques;
+- en fonction de l’évaluation du risque lié à l’emploi d’agents biologiques des groupes 2, 3 ou 4, l’Inspection du travail et des mines peut décider de mesures appropriées devant s’appliquer à la mise en oeuvre industrielle de ces agents biologiques;
 
-3. pour toutes les activités couvertes par le présent article où il n’a pas été possible de procéder à une évaluation concluante d’un agent biologique, mais dont il semble que l’utilisation envisagée pourrait comporter un risque grave pour la santé des travailleurs, les activités ne pourront se dérouler que dans les locaux de travail dont le niveau de confinement correspond au moins au niveau 3.
+- pour toutes les activités couvertes par le présent article où il n’a pas été possible de procéder à une évaluation concluante d’un agent biologique, mais dont il semble que l’utilisation envisagée pourrait comporter un risque grave pour la santé des travailleurs, les activités ne pourront se dérouler que dans les locaux de travail dont le niveau de confinement correspond au moins au niveau 3.
 
 <a id="article-17"></a>
 ## Article 17

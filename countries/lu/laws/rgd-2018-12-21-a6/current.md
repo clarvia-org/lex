@@ -755,35 +755,35 @@ Les projets sont susceptibles d’une dispense ministérielle concernant l’obl
 
 Les taux maxima de la participation étatique en faveur des projets des communes et des syndicats de communes, tels que listés au tableau 1.1. de l’article 1er, sont les suivants :
 
-1. 50 pour cent des frais d’études et d’infrastructures pour les projets de logements destinés à la vente ;
+- 50 pour cent des frais d’études et d’infrastructures pour les projets de logements destinés à la vente ;
 
-2. 50 pour cent des frais d’acquisition de terrains cédés par emphytéose pour les projets de logements destinés à la vente ;
+- 50 pour cent des frais d’acquisition de terrains cédés par emphytéose pour les projets de logements destinés à la vente ;
 
-3. 70 pour cent des frais de préfinancement pendant vingt-quatre mois pour les projets de logements destinés à la vente ;
+- 70 pour cent des frais de préfinancement pendant vingt-quatre mois pour les projets de logements destinés à la vente ;
 
-4. 70 pour cent du coût résultant de l’aménagement des places de jeux et d’espaces verts pour les projets de logements destinés à la vente ;
+- 70 pour cent du coût résultant de l’aménagement des places de jeux et d’espaces verts pour les projets de logements destinés à la vente ;
 
-5. 75 pour cent du coût d’acquisition, d’études, de construction ou de rénovation pour les logements locatifs ;
+- 75 pour cent du coût d’acquisition, d’études, de construction ou de rénovation pour les logements locatifs ;
 
-6. 70 pour cent du coût d’acquisition, d’études, de construction ou de rénovation et de premier équipement pour les logements destinés aux étudiants ;
+- 70 pour cent du coût d’acquisition, d’études, de construction ou de rénovation et de premier équipement pour les logements destinés aux étudiants ;
 
-7. 100 pour cent du coût d’acquisition, d’études, de construction ou de rénovation et de premier équipement pour les logements destinés aux demandeurs de protection internationale.
+- 100 pour cent du coût d’acquisition, d’études, de construction ou de rénovation et de premier équipement pour les logements destinés aux demandeurs de protection internationale.
 
 Les taux maxima de la participation étatique en faveur de la Société Nationale des Habitations à Bon Marché, du Fonds du Logement et du Fonds d’assainissement de la Cité Syrdall tels que listés aux tableaux 1.2., 1.3. et 1.4. de l’article 1er, sont les suivants :
 
-1. 50 pour cent des frais d’études et d’infrastructures pour les projets de logements destinés à la vente ;
+- 50 pour cent des frais d’études et d’infrastructures pour les projets de logements destinés à la vente ;
 
-2. 50 pour cent des frais d’acquisition de terrains cédés par emphytéose pour les projets de logements destinés à la vente ;
+- 50 pour cent des frais d’acquisition de terrains cédés par emphytéose pour les projets de logements destinés à la vente ;
 
-3. 70 pour cent des frais de préfinancement pendant vingt-quatre mois pour les projets de logements destinés à la vente ;
+- 70 pour cent des frais de préfinancement pendant vingt-quatre mois pour les projets de logements destinés à la vente ;
 
-4. 70 pour cent du coût résultant de l’aménagement des places de jeux et d’espaces verts pour les projets de logements destinés à la vente ;
+- 70 pour cent du coût résultant de l’aménagement des places de jeux et d’espaces verts pour les projets de logements destinés à la vente ;
 
-5. 70 pour cent du coût d’acquisition, d’études, de construction ou de rénovation pour les logements locatifs ;
+- 70 pour cent du coût d’acquisition, d’études, de construction ou de rénovation pour les logements locatifs ;
 
-6. 70 pour cent du coût d’acquisition, d’études, de construction ou de rénovation et de premier équipement pour les logements destinés aux étudiants ;
+- 70 pour cent du coût d’acquisition, d’études, de construction ou de rénovation et de premier équipement pour les logements destinés aux étudiants ;
 
-7. 100 pour cent du coût d’acquisition, d’études, de construction ou de rénovation et de premier équipement pour les logements destinés aux demandeurs de protection internationale.
+- 100 pour cent du coût d’acquisition, d’études, de construction ou de rénovation et de premier équipement pour les logements destinés aux demandeurs de protection internationale.
 
 Le taux maximum de la participation étatique en faveur des projets des associations sans but lucratif, des fondations, le fonds de gestion des édifices religieux et autres biens relevant du culte catholique, des communautés religieuses ayant conclu une convention avec le Gouvernement, des hospices civils ou des offices sociaux, tels que listés aux tableauxFeulen 2.1. et 2.2. est le suivant : 75 pour cent du coût d’acquisition, d’études, de construction ou de rénovation pour les logements locatifs.
 

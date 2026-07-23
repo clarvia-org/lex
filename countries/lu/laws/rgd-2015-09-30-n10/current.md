@@ -56,9 +56,9 @@ Dispositions spécifiques aux agents de la catégorie A (groupes A1 et A2)
 
 Dans la catégorie de traitement ou d’indemnité A, groupes de traitement ou d’indemnité A1 et A2, la période de stage est réduite d’une durée d’un an:
 
-1. pour le stagiaire ayant passé l’examen de fin de stage judiciaire;
+- pour le stagiaire ayant passé l’examen de fin de stage judiciaire;
 
-2. pour le stagiaire qui, en dehors des diplômes requis pour l’admission au service de l’Etat, est titulaire d’un diplôme universitaire supplémentaire dans une matière qui concerne spécialement la fonction ou l’emploi occupé.
+- pour le stagiaire qui, en dehors des diplômes requis pour l’admission au service de l’Etat, est titulaire d’un diplôme universitaire supplémentaire dans une matière qui concerne spécialement la fonction ou l’emploi occupé.
 
 Pour le stagiaire qui a acquis une formation pratique par une activité professionnelle correspondant à sa formation universitaire, autre que le stage judiciaire, la réduction de stage est calculée à raison d’un mois de réduction pour quatre mois d’activité professionnelle accomplis. Ne sont pas prises en compte les périodes de service inférieures à quatre mois.
 

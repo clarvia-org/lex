@@ -60,11 +60,11 @@ En application des règles relatives à la computation des délais contenues dan
 
 Pendant la durée de l’état de crise, telle que fixée par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19, sont suspendus :
 
-1. les délais prévus à l’article 43, paragraphe 6, et à l’article 44, paragraphe 6, de la loi modifiée du 8 avril 2018 sur les marchés publics ;
+- les délais prévus à l’article 43, paragraphe 6, et à l’article 44, paragraphe 6, de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
-2. les délais prévus aux articles 102 et 117 du règlement grand-ducal du 3 août 2009 portant exécution de la loi du 25 juin 2009 sur les marchés publics et portant modification du seuil prévu à l’article 106 point 10° de la loi communale modifiée du 13 décembre 1988 ; et
+- les délais prévus aux articles 102 et 117 du règlement grand-ducal du 3 août 2009 portant exécution de la loi du 25 juin 2009 sur les marchés publics et portant modification du seuil prévu à l’article 106 point 10° de la loi communale modifiée du 13 décembre 1988 ; et
 
-3. les délais prévus aux articles 102 et 117 du règlement grand-ducal du 7 juillet 2003 portant exécution de la loi du 30 juin 2003 sur les marchés publics et portant modification du seuil prévu à l’article 106 point 10° de la loi communale du 13 décembre 1988 .
+- les délais prévus aux articles 102 et 117 du règlement grand-ducal du 7 juillet 2003 portant exécution de la loi du 30 juin 2003 sur les marchés publics et portant modification du seuil prévu à l’article 106 point 10° de la loi communale du 13 décembre 1988 .
 
 (2)
 

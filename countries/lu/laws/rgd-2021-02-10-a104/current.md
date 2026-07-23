@@ -33,9 +33,9 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement, on entend par :
 
-1. « prélèvement », le prélèvement nasopharyngé, oropharyngé, buccal ou salivaire à des fins de dépistage ou diagnostiques du virus SARS-CoV-2 ;
+- « prélèvement », le prélèvement nasopharyngé, oropharyngé, buccal ou salivaire à des fins de dépistage ou diagnostiques du virus SARS-CoV-2 ;
 
-2. « test rapide », un test manuel à orientation diagnostique de l’infection au virus SARS-CoV-2 et utilisant une technique d’analyse simplifiée consistant en un prélèvement qui sera ensuite déposé sur une bandelette ou un tube contenant un réactif.
+- « test rapide », un test manuel à orientation diagnostique de l’infection au virus SARS-CoV-2 et utilisant une technique d’analyse simplifiée consistant en un prélèvement qui sera ensuite déposé sur une bandelette ou un tube contenant un réactif.
 
 Le présent règlement ne s’applique pas aux dispositifs d’autodiagnostic servant au dépistage du SARS-CoV-2 et que le fabriquant destine à être utilisés par une personne profane.
 
@@ -53,17 +53,17 @@ L’information visée à l’alinéa 1er porte sur l’objectif et le déroulem
 
 Sont autorisés à réaliser un prélèvement au sens de l’article 1er, point 1°, nécessaire pour réaliser l’examen de détection du génome du SARS-CoV-2 par le test RT-PCR :
 
-1. les médecins ;
+- les médecins ;
 
-2. les personnes exerçant une profession de santé telle que visée par la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé ;
+- les personnes exerçant une profession de santé telle que visée par la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé ;
 
-3. les pharmaciens ;
+- les pharmaciens ;
 
-4. les psychothérapeutes ;
+- les psychothérapeutes ;
 
-5. les psychologues ;
+- les psychologues ;
 
-6. les pompiers volontaires ou professionnels affectés au Corps grand-ducal d’incendie et de secours.
+- les pompiers volontaires ou professionnels affectés au Corps grand-ducal d’incendie et de secours.
 
 (2)
 
@@ -90,15 +90,15 @@ Les tests rapides au sens de l’article 1er, point 2°, sont des tests nominati
 
 Toute personne qui, lors de la réalisation d’un test rapide au sens de l’article 1er, point 2°, constate un résultat positif, est tenue d’en faire la déclaration le jour même au directeur de la santé ou à son délégué. Cette déclaration comprend au moins les données individuelles suivantes :
 
-1. nom, prénom et adresse du patient ;
+- nom, prénom et adresse du patient ;
 
-2. date de naissance du patient ;
+- date de naissance du patient ;
 
-3. date du test ;
+- date du test ;
 
-4. date des premiers symptômes ;
+- date des premiers symptômes ;
 
-5. source d’infection, si celle-ci est connue.
+- source d’infection, si celle-ci est connue.
 
 <a id="art-5"></a>
 ## Art. 5.

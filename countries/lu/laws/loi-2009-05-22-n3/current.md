@@ -49,27 +49,27 @@ L'Œuvre est placée sous la tutelle du Premier Ministre, Ministre d'Etat.
 
 L'Œuvre a pour missions:
 
-1. de venir en aide aux Luxembourgeois victimes de la guerre 1940-1945;
+- de venir en aide aux Luxembourgeois victimes de la guerre 1940-1945;
 
-2. de soutenir des organismes œuvrant dans le domaine social en vue de réaliser les objectifs que ces organismes se sont fixés dans leurs statuts;
+- de soutenir des organismes œuvrant dans le domaine social en vue de réaliser les objectifs que ces organismes se sont fixés dans leurs statuts;
 
-3. de soutenir des organismes œuvrant au niveau national dans les domaines de la culture, du sport et de la protection de l'environnement;
+- de soutenir des organismes œuvrant au niveau national dans les domaines de la culture, du sport et de la protection de l'environnement;
 
-4. de participer aux dépenses des offices sociaux communaux et du Fonds national de solidarité dans les limites à préciser par règlement grand-ducal;
+- de participer aux dépenses des offices sociaux communaux et du Fonds national de solidarité dans les limites à préciser par règlement grand-ducal;
 
-5. d'organiser et de gérer la Loterie Nationale.
+- d'organiser et de gérer la Loterie Nationale.
 
 (2)
 
 En vue de réaliser ses missions, l'Œuvre peut:
 
-1. octroyer des subsides, prix, récompenses et autres soutiens financiers;
+- octroyer des subsides, prix, récompenses et autres soutiens financiers;
 
-2. lancer des appels à projets;
+- lancer des appels à projets;
 
-3. promouvoir des études, recherches et autres activités scientifiques;
+- promouvoir des études, recherches et autres activités scientifiques;
 
-4. créer d'autres sociétés, organismes, fondations, associations ou groupements ou participer à de telles entités.
+- créer d'autres sociétés, organismes, fondations, associations ou groupements ou participer à de telles entités.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -107,29 +107,29 @@ Les résolutions sont prises à la majorité des voix. En cas de partage des voi
 
 Il appartient notamment au conseil d'administration:
 
-1. d'établir le budget et d'arrêter les comptes annuels;
+- d'établir le budget et d'arrêter les comptes annuels;
 
-2. de statuer au sujet des aides à accorder en vertu de l'article 2;
+- de statuer au sujet des aides à accorder en vertu de l'article 2;
 
-3. de statuer sur l'acceptation des dons et des legs;
+- de statuer sur l'acceptation des dons et des legs;
 
-4. de fixer la grille des emplois et leur classification ainsi que le niveau de rémunération du personnel.
+- de fixer la grille des emplois et leur classification ainsi que le niveau de rémunération du personnel.
 
-5. d'arrêter un règlement d'ordre intérieur en vue de l'organisation interne de l'Œuvre, y compris les attributions et le mode de fonctionnement de la direction ;
+- d'arrêter un règlement d'ordre intérieur en vue de l'organisation interne de l'Œuvre, y compris les attributions et le mode de fonctionnement de la direction ;
 
-6. de statuer sur le placement de la fortune de l'Œuvre;
+- de statuer sur le placement de la fortune de l'Œuvre;
 
-7. de statuer sur l'acquisition et l'aliénation d'immeubles et sur la constitution de charges sur ces immeubles;
+- de statuer sur l'acquisition et l'aliénation d'immeubles et sur la constitution de charges sur ces immeubles;
 
-8. de statuer sur la création d'autres sociétés, organismes, fondations, associations ou groupements ou la participation à de telles entités;
+- de statuer sur la création d'autres sociétés, organismes, fondations, associations ou groupements ou la participation à de telles entités;
 
-9. de statuer sur les produits développés et distribués par la Loterie Nationale.
+- de statuer sur les produits développés et distribués par la Loterie Nationale.
 
-10. d’engager et de licencier les directeurs et de contrôler les actes de la gestion courante de ceux-ci ;
+- d’engager et de licencier les directeurs et de contrôler les actes de la gestion courante de ceux-ci ;
 
-11. de décider quant aux actions judiciaires à intenter par l’Œuvre et des transactions à conclure ;
+- de décider quant aux actions judiciaires à intenter par l’Œuvre et des transactions à conclure ;
 
-12. de déterminer la politique générale de l’Œuvre.
+- de déterminer la politique générale de l’Œuvre.
 
 (4)
 
@@ -163,21 +163,21 @@ Les directeurs assistent aux réunions du conseil d’administration avec voix c
 
 Dans le cadre de la tutelle que le Premier Ministre, Ministre d'Etat exerce sur l'Œuvre, le conseil d'administration soumet les points suivants à son approbation:
 
-1. la politique générale de l'Œuvre;
+- la politique générale de l'Œuvre;
 
-2. le budget et les comptes annuels;
+- le budget et les comptes annuels;
 
-3. les acquisitions et ventes d'immeubles;
+- les acquisitions et ventes d'immeubles;
 
-4. la création d'autres sociétés, organismes, fondations, associations ou groupements ou la participation à de telles entités;
+- la création d'autres sociétés, organismes, fondations, associations ou groupements ou la participation à de telles entités;
 
-5. l'acceptation de dons et de legs dont la valeur excède le montant de 30.000 euros, l'article 910 du Code civil n'étant pas applicable;
+- l'acceptation de dons et de legs dont la valeur excède le montant de 30.000 euros, l'article 910 du Code civil n'étant pas applicable;
 
-6. les emprunts et les garanties;
+- les emprunts et les garanties;
 
-7. l'organigramme, la grille des emplois ainsi que les conditions et modalités de rémunération du personnel;
+- l'organigramme, la grille des emplois ainsi que les conditions et modalités de rémunération du personnel;
 
-8. la désignation d'un réviseur d'entreprises.
+- la désignation d'un réviseur d'entreprises.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -186,17 +186,17 @@ Dans le cadre de la tutelle que le Premier Ministre, Ministre d'Etat exerce sur 
 
 Pour faire face à ses engagements, l'Œuvre dispose des moyens financiers suivants:
 
-1. les ressources provenant de la Loterie Nationale;
+- les ressources provenant de la Loterie Nationale;
 
-2. les dons et legs;
+- les dons et legs;
 
-3. les subsides et subventions;
+- les subsides et subventions;
 
-4. les prélèvements sur toutes sortes de loteries et de paris relatifs aux épreuves sportives au profit de l'Œuvre fixés par le ministre ayant la réglementation des jeux de hasard et des paris relatifs aux épreuves sportives dans ses attributions;
+- les prélèvements sur toutes sortes de loteries et de paris relatifs aux épreuves sportives au profit de l'Œuvre fixés par le ministre ayant la réglementation des jeux de hasard et des paris relatifs aux épreuves sportives dans ses attributions;
 
-5. les revenus propres;
+- les revenus propres;
 
-6. les revenus divers.
+- les revenus divers.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -253,19 +253,19 @@ L'organisation de la Loterie Nationale est confiée à l'Œuvre.
 
 La Loterie Nationale:
 
-1. organise, selon des méthodes commerciales, toutes formes de loteries et de paris relatifs aux épreuves sportives en conformité avec la législation applicable;
+- organise, selon des méthodes commerciales, toutes formes de loteries et de paris relatifs aux épreuves sportives en conformité avec la législation applicable;
 
-2. opère un réseau commercial de distribution de produits de toute forme de loteries et de paris relatifs aux épreuves sportives, y compris par recours aux outils de la société de l'information.
+- opère un réseau commercial de distribution de produits de toute forme de loteries et de paris relatifs aux épreuves sportives, y compris par recours aux outils de la société de l'information.
 
 (2)
 
 Parallèlement au développement de méthodes commerciales visant à promouvoir les loteries et paris relatifs aux épreuves sportives dont elle assure l'organisation ou la commercialisation, la Loterie Nationale veille:
 
-1. à informer clairement le public des chances réelles de gain pour chaque type de produit proposé;
+- à informer clairement le public des chances réelles de gain pour chaque type de produit proposé;
 
-2. à organiser des campagnes d'information sur les risques économiques, sociaux et psychologiques liés à la dépendance au jeu;
+- à organiser des campagnes d'information sur les risques économiques, sociaux et psychologiques liés à la dépendance au jeu;
 
-3. à collaborer avec les autorités compétentes et les diverses associations œuvrant dans le secteur à une politique active et coordonnée de prévention et d'assistance en matière de dépendance au jeu.
+- à collaborer avec les autorités compétentes et les diverses associations œuvrant dans le secteur à une politique active et coordonnée de prévention et d'assistance en matière de dépendance au jeu.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -274,13 +274,13 @@ Parallèlement au développement de méthodes commerciales visant à promouvoir 
 
 La loi modifiée du 20 avril 1977 relative à l'exploitation des jeux de hasard et des paris relatifs aux épreuves sportives est modifiée comme suit:
 
-1. Il est ajouté à l'article 1er un alinéa 2 nouveau, libellé comme suit: Ne tombent pas dans le champ d'application de la présente loi: les loteries, jeux-concours et tombolas publicitaires visés à l'article 21 de la loi du 30 juillet 2002 réglementant certaines pratiques commerciales, sanctionnant la concurrence déloyale et transposant la directive 97/55/CE du Parlement européen et du Conseil modifiant la directive 84/550/CEE sur la publicité trompeuse afin d'y inclure la publicité comparative, et les loteries et paris relatifs aux épreuves sportives organisés par la Loterie Nationale.»
+- Il est ajouté à l'article 1er un alinéa 2 nouveau, libellé comme suit: Ne tombent pas dans le champ d'application de la présente loi: les loteries, jeux-concours et tombolas publicitaires visés à l'article 21 de la loi du 30 juillet 2002 réglementant certaines pratiques commerciales, sanctionnant la concurrence déloyale et transposant la directive 97/55/CE du Parlement européen et du Conseil modifiant la directive 84/550/CEE sur la publicité trompeuse afin d'y inclure la publicité comparative, et les loteries et paris relatifs aux épreuves sportives organisés par la Loterie Nationale.»
 
-2. L'intitulé de la section I est remplacé comme suit: I.- Des loteries
+- L'intitulé de la section I est remplacé comme suit: I.- Des loteries
 
-3. L'article 2 est remplacé comme suit: Art. 2. (1) Par dérogation à l'article 1er, alinéa 1er, les loteries et tombolas destinées entièrement ou partiellement à un but d'intérêt général à caractère philanthropique, religieux, scientifique, artistique, pédagogique, social, sportif ou touristique peuvent être autorisées: par le collège des bourgmestre et échevins de la commune du principal lieu de l'émission des billets, lorsque la valeur des billets à émettre est inférieure ou égale à 12.500 euros, ou par le ministre ayant les jeux de hasard dans ses attributions, si la valeur des billets à émettre dépasse la somme de 12.500 euros. (2) Dans l'intérêt de la protection des participants, le ministre et le collège des bourgmestre et échevins peuvent assortir leurs autorisations visées au paragraphe (1) des conditions nécessaires relatives à l'organisation, aux opérations de tirage et au contrôle des loteries autorisées. (3) Par dérogation aux articles 14 à 17, les contrevenants au présent article seront punis, selon les cas, des peines prévues par les articles 302 et 303 du code pénal.»
+- L'article 2 est remplacé comme suit: Art. 2. (1) Par dérogation à l'article 1er, alinéa 1er, les loteries et tombolas destinées entièrement ou partiellement à un but d'intérêt général à caractère philanthropique, religieux, scientifique, artistique, pédagogique, social, sportif ou touristique peuvent être autorisées: par le collège des bourgmestre et échevins de la commune du principal lieu de l'émission des billets, lorsque la valeur des billets à émettre est inférieure ou égale à 12.500 euros, ou par le ministre ayant les jeux de hasard dans ses attributions, si la valeur des billets à émettre dépasse la somme de 12.500 euros. (2) Dans l'intérêt de la protection des participants, le ministre et le collège des bourgmestre et échevins peuvent assortir leurs autorisations visées au paragraphe (1) des conditions nécessaires relatives à l'organisation, aux opérations de tirage et au contrôle des loteries autorisées. (3) Par dérogation aux articles 14 à 17, les contrevenants au présent article seront punis, selon les cas, des peines prévues par les articles 302 et 303 du code pénal.»
 
-4. Au liminaire de l'article 6 , les mots «et sur avis de la Commission de Travail de la Chambre des Députés» sont supprimés.
+- Au liminaire de l'article 6 , les mots «et sur avis de la Commission de Travail de la Chambre des Députés» sont supprimés.
 
 <a id="art-11"></a>
 ## Art. 11.

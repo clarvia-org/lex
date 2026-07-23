@@ -37,19 +37,19 @@ Le personnel psycho-socio-éducatif du service psycho-social et d’accompagneme
 
 Le Centre est le centre de ressources en matière de l’accompagnement psycho-social des élèves, de l’éducation non- formelle et de l’offre périscolaire et de la participation des élèves, dans le contexte de la démarche des lycées, tels que définis à l’article 3ter, points 3°, 7° et 8° de la loi modifiée du 25 juin 2004 portant organisation des lycées, il assure les missions suivantes :
 
-1. élaborer les cadres de référence relatifs à l’accompagnement psycho-social des élèves, à l’éducation non-formelle et à l’offre périscolaire, ainsi qu’à la participation des élèves, tels que prévus à l’article 3ter de la loi modifiée du 25 juin 2004 portant organisation des lycées et accompagne les lycées dans l’auto-évaluation ;
+- élaborer les cadres de référence relatifs à l’accompagnement psycho-social des élèves, à l’éducation non-formelle et à l’offre périscolaire, ainsi qu’à la participation des élèves, tels que prévus à l’article 3ter de la loi modifiée du 25 juin 2004 portant organisation des lycées et accompagne les lycées dans l’auto-évaluation ;
 
-2. rédiger un rapport annuel sur l’accompagnement psycho-social des élèves, l’éducation non-formelle et l’offre périscolaire, ainsi que sur la participation des élèves, sur base des données fournies par les lycées ;
+- rédiger un rapport annuel sur l’accompagnement psycho-social des élèves, l’éducation non-formelle et l’offre périscolaire, ainsi que sur la participation des élèves, sur base des données fournies par les lycées ;
 
-3. contribuer à l’élaboration des lignes directrices ministérielles en matière du bien-être, de la santé mentale, de l’éducation non-formelle, de l’offre périscolaire et de la participation des élèves et être en charge du suivi et de la documentation de leur mise en œuvre ;
+- contribuer à l’élaboration des lignes directrices ministérielles en matière du bien-être, de la santé mentale, de l’éducation non-formelle, de l’offre périscolaire et de la participation des élèves et être en charge du suivi et de la documentation de leur mise en œuvre ;
 
-4. contribuer à l’élaboration de recommandations en matière de gestion du personnel éducatif et psycho-social ;
+- contribuer à l’élaboration de recommandations en matière de gestion du personnel éducatif et psycho-social ;
 
-5. élaborer des recommandations à l’attention du ministre et des lycées dans le contexte du contrôle et du développement de la qualité des services ;
+- élaborer des recommandations à l’attention du ministre et des lycées dans le contexte du contrôle et du développement de la qualité des services ;
 
-6. organiser des réunions de concertation avec les directeurs des lycées et les services ;
+- organiser des réunions de concertation avec les directeurs des lycées et les services ;
 
-7. contribuer à l’offre de formation initiale et continue, ainsi qu’à la définition des stratégies de formation du personnel éducatif et psycho-social des services et des enseignants y détachés, en collaboration avec l’Institut de formation de l’éducation nationale.
+- contribuer à l’offre de formation initiale et continue, ainsi qu’à la définition des stratégies de formation du personnel éducatif et psycho-social des services et des enseignants y détachés, en collaboration avec l’Institut de formation de l’éducation nationale.
 
 (3)
 
@@ -90,17 +90,17 @@ La demande de subvention est à introduire auprès du service psycho-social et d
 
 Une subvention de maintien scolaire est accordée par le ministre aux élèves ayant atteint la majorité :
 
-1. inscrits à plein temps ou en formation concomitante dans un établissement de l’enseignement secondaire public luxembourgeois, ainsi que les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois ;
+- inscrits à plein temps ou en formation concomitante dans un établissement de l’enseignement secondaire public luxembourgeois, ainsi que les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois ;
 
-2. âgés de moins de 30 ans à la date de la demande ;
+- âgés de moins de 30 ans à la date de la demande ;
 
-3. vivant seuls ;
+- vivant seuls ;
 
-4. en situation de détresse psycho-sociale ;
+- en situation de détresse psycho-sociale ;
 
-5. suivis par un service psycho-social et d’accompagnement scolaires ou le Centre ;
+- suivis par un service psycho-social et d’accompagnement scolaires ou le Centre ;
 
-6. et ayant un loyer à payer.
+- et ayant un loyer à payer.
 
 La subvention de maintien scolaire a comme objectif de permettre à l’élève de poursuivre la scolarité jusqu’à l’obtention d’un diplôme de fin d’études secondaires, d’un diplôme de technicien, d’un diplôme d’aptitude professionnelle ou d’un certificat de capacité professionnelle.
 

@@ -32,17 +32,17 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 L´article 155 de la loi concernant l´impôt sur le revenu introduisant un intérêt de retard en cas de défaut de paiement de l´impôt à son échéance est étendu aux impôts, droits et taxes ci-après:
 
-1. l´impôt sur la fortune,
+- l´impôt sur la fortune,
 
-2. l'impôt commercial,
+- l'impôt commercial,
 
-3. la retenue à la source libératoire sur certains intérêts produits par l'épargne mobilière,
+- la retenue à la source libératoire sur certains intérêts produits par l'épargne mobilière,
 
-4. la retenue à la source visée par la loi modifiée du 21 juin 2005 transposant en droit luxembourgeois la directive 2003/48/CE du 3 juin 2003 du Conseil de l'Union européenne en matière de fiscalité des revenus de l'épargne sous forme de paiement d'intérêts,
+- la retenue à la source visée par la loi modifiée du 21 juin 2005 transposant en droit luxembourgeois la directive 2003/48/CE du 3 juin 2003 du Conseil de l'Union européenne en matière de fiscalité des revenus de l'épargne sous forme de paiement d'intérêts,
 
-5. la taxe et le prélèvement sur les paris relatifs aux épreuves sportives, sur le loto, ainsi que sur le produit des jeux de casino ;
+- la taxe et le prélèvement sur les paris relatifs aux épreuves sportives, sur le loto, ainsi que sur le produit des jeux de casino ;
 
-6. le prélèvement immobilier visé par l’article 4 de la loi du 19 décembre 2020 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2021.
+- le prélèvement immobilier visé par l’article 4 de la loi du 19 décembre 2020 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2021.
 
 (2)
 
@@ -89,9 +89,9 @@ Sous réserve de ce qui est dit à l´alinéa 2, le sursis de paiement accordé 
 
 Pour autant que la demande en obtention du sursis concerne l´impôt sur le revenu des personnes physiques ou des collectivités fixé par voie d´assiette, l´impôt sur la fortune ou l´impôt commercial et est déposée avant la date d´échéance de la cote d´impôt ou partie de cote qu´elle concerne, le paiement de l´impôt en question peut être différé ou étalé durant une période prenant cours au début du mois qui suit celui de l´échéance dans les conditions suivantes:
 
-1. sans intérêt si le délai ne dépasse pas quatre mois,
+- sans intérêt si le délai ne dépasse pas quatre mois,
 
-2. sous mise en compte d´un intérêt global forfaitaire de 0,1% par mois, si le délai est de cinq mois au moins et douze mois au plus, et de 0,2% par mois, si le délai dépasse douze mois sans dépasser trois ans, l´intérêt forfaitaire étant calculé sur la cote ou partie de cote précitée et ajouté à la première échéance.
+- sous mise en compte d´un intérêt global forfaitaire de 0,1% par mois, si le délai est de cinq mois au moins et douze mois au plus, et de 0,2% par mois, si le délai dépasse douze mois sans dépasser trois ans, l´intérêt forfaitaire étant calculé sur la cote ou partie de cote précitée et ajouté à la première échéance.
 
 L´inobservation d´une échéance du délai rend exigible, à partir de la date de cette échéance, l´intérêt de retard normal sur le solde encore dû, l´intérêt forfaitaire versé ou à verser restant acquis ou dû au trésor.
 
@@ -120,18 +120,18 @@ Les dispositions des articles 5 et 6 ne portent pas atteinte à celles du paragr
 
 En ce qui concerne les impôts, droits et taxes visés à l´article 1er et à la loi du 4 décembre 1967 concernant l´impôt sur le revenu
 
-1. le supplément de retard cessera d´être appliqué aux cotes venant à échéance après le 31 décembre 1968;
+- le supplément de retard cessera d´être appliqué aux cotes venant à échéance après le 31 décembre 1968;
 
-2. les cotes dues au 1er janvier 1969, à l´exclusion des suppléments de retard y relatifs, porteront intérêt à partir de cette date.
+- les cotes dues au 1er janvier 1969, à l´exclusion des suppléments de retard y relatifs, porteront intérêt à partir de cette date.
 
 <a id="art-10-20210101"></a>
 ## Art. 10.
 
 En ce qui concerne les cotes d´impôts dues au 1er janvier 1969 et versées intégralement en principal et accessoires avant le 1er juillet 1969
 
-1. l´intérêt de retard exigible est réduit de moitié;
+- l´intérêt de retard exigible est réduit de moitié;
 
-2. le supplément de retard est réduit de moitié pour autant que l´échéance remonte à un des mois d´octobre et de novembre 1968 et supprimé pour autant que l´échéance remonte au mois de décembre 1968.
+- le supplément de retard est réduit de moitié pour autant que l´échéance remonte à un des mois d´octobre et de novembre 1968 et supprimé pour autant que l´échéance remonte au mois de décembre 1968.
 
 <a id="art-11-20210101"></a>
 ## Art. 11.

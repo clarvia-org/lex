@@ -53,41 +53,41 @@ Définitions.
 
 Aux fins du présent règlement, on entend par :
 
-1. «essai clinique»: toute investigation menée chez l’homme, afin de déterminer ou de confirmer les effets cliniques, pharmacologiques et/ou les autres effets pharmacodynamiques d’un ou de plusieurs médicaments expérimentaux, et/ou de mettre en évidence tout effet indésirable d’un ou de plusieurs médicaments expérimentaux, et/ou d’étudier l’absorption, la distribution, le métabolisme et l’élimination d’un ou de plusieurs médicaments expérimentaux, dans le but de s’assurer de leur innocuité et/ou efficacité. Sont compris les essais cliniques réalisés sur un site unique ou sur des sites multiples au Luxembourg ou dans un ou plusieurs autres Etats membres de la Communauté européenne.
+- «essai clinique»: toute investigation menée chez l’homme, afin de déterminer ou de confirmer les effets cliniques, pharmacologiques et/ou les autres effets pharmacodynamiques d’un ou de plusieurs médicaments expérimentaux, et/ou de mettre en évidence tout effet indésirable d’un ou de plusieurs médicaments expérimentaux, et/ou d’étudier l’absorption, la distribution, le métabolisme et l’élimination d’un ou de plusieurs médicaments expérimentaux, dans le but de s’assurer de leur innocuité et/ou efficacité. Sont compris les essais cliniques réalisés sur un site unique ou sur des sites multiples au Luxembourg ou dans un ou plusieurs autres Etats membres de la Communauté européenne.
 
-2. «essai clinique multicentrique»: essai clinique réalisé selon un même protocole, émis sur des sites différents et donc par plusieurs investigateurs, les sites de l’essai pouvant se trouver exclusivement au Luxembourg ou dans un ou plusieurs autres pays.
+- «essai clinique multicentrique»: essai clinique réalisé selon un même protocole, émis sur des sites différents et donc par plusieurs investigateurs, les sites de l’essai pouvant se trouver exclusivement au Luxembourg ou dans un ou plusieurs autres pays.
 
-3. «essai non interventionnel»: étude dans le cadre de laquelle le ou les médicaments sont prescrits de la manière habituelle conformément aux conditions fixées dans l’autorisation de mise sur le marché. L’affectation du patient à une stratégie thérapeutique donnée n’est pas fixée à l’avance par un protocole d’essai, elle relève de la pratique courante et la décision de prescrire le médicament est clairement dissociée de celle d’inclure le patient dans l’étude. Aucune procédure supplémentaire de diagnostic ou de surveillance ne doit être appliquée aux patients et des méthodes épidémiologiques sont utilisées pour analyser les données recueillies;
+- «essai non interventionnel»: étude dans le cadre de laquelle le ou les médicaments sont prescrits de la manière habituelle conformément aux conditions fixées dans l’autorisation de mise sur le marché. L’affectation du patient à une stratégie thérapeutique donnée n’est pas fixée à l’avance par un protocole d’essai, elle relève de la pratique courante et la décision de prescrire le médicament est clairement dissociée de celle d’inclure le patient dans l’étude. Aucune procédure supplémentaire de diagnostic ou de surveillance ne doit être appliquée aux patients et des méthodes épidémiologiques sont utilisées pour analyser les données recueillies;
 
-4. «médicament expérimental»: principe actif sous forme pharmaceutique ou placebo expérimenté ou utilisé comme référence dans un essai clinique, y compris les produits bénéficiant déjà d’une autorisation de mise sur le marché, mais utilisés ou formulés (présentation ou conditionnement) différemment de la forme autorisée, ou utilisés pour une indication non autorisée ou en vue d’obtenir de plus amples informations sur la forme autorisée;
+- «médicament expérimental»: principe actif sous forme pharmaceutique ou placebo expérimenté ou utilisé comme référence dans un essai clinique, y compris les produits bénéficiant déjà d’une autorisation de mise sur le marché, mais utilisés ou formulés (présentation ou conditionnement) différemment de la forme autorisée, ou utilisés pour une indication non autorisée ou en vue d’obtenir de plus amples informations sur la forme autorisée;
 
-5. «promoteur»: personne, entreprise, institut ou organisme responsable du lancement, de la gestion et/ou du financement d’un essai clinique; Le promoteur peut déléguer une partie ou la totalité de ses fonctions liées à l’essai à un particulier, une société, une institution ou un organisme. Toutefois le promoteur demeure personnellement responsable de la conformité des essais réalisés et des données finales obtenues.
+- «promoteur»: personne, entreprise, institut ou organisme responsable du lancement, de la gestion et/ou du financement d’un essai clinique; Le promoteur peut déléguer une partie ou la totalité de ses fonctions liées à l’essai à un particulier, une société, une institution ou un organisme. Toutefois le promoteur demeure personnellement responsable de la conformité des essais réalisés et des données finales obtenues.
 
-6. «investigateur»: un médecin ou une personne exerçant une profession agréée au Luxembourg aux fins de travaux d’investigation en raison des connaissances scientifiques et de l’expérience dans le domaine des soins aux patients qu’elle requiert. L’investigateur est responsable de la conduite de l’essai clinique sur un site. Si, sur un site, l’essai est réalisé par une équipe, l’investigateur est le responsable de l’équipe et peut être appelé investigateur principal; L’investigateur et le promoteur peuvent être une même personne.
+- «investigateur»: un médecin ou une personne exerçant une profession agréée au Luxembourg aux fins de travaux d’investigation en raison des connaissances scientifiques et de l’expérience dans le domaine des soins aux patients qu’elle requiert. L’investigateur est responsable de la conduite de l’essai clinique sur un site. Si, sur un site, l’essai est réalisé par une équipe, l’investigateur est le responsable de l’équipe et peut être appelé investigateur principal; L’investigateur et le promoteur peuvent être une même personne.
 
-7. «brochure pour l’investigateur»: ensemble des données cliniques ou non concernant le ou les médicaments expérimentaux, et qui sont pertinentes pour l’étude de ce(s) produit(s) chez l’homme. Ces informations sont validées et actualisées par le promoteur au moins une fois par an. Ces informations sont présentées sous une forme concise, simple, objective, équilibrée et non promotionnelle, de telle sorte qu’un médecin ou un investigateur éventuel puisse les comprendre et effectuer sa propre évaluation impartiale du bien-fondé de l’essai clinique proposé en se basant essentiellement sur le rapport risque/bénéfice. Il doit en rester de même après toute mise à jour de la brochure de l’investigateur. Si le médicament expérimental fait l’objet d’une autorisation de mise sur le marché, le résumé des caractéristiques du produit peut être utilisé en lieu et place de la brochure de l’investigateur.
+- «brochure pour l’investigateur»: ensemble des données cliniques ou non concernant le ou les médicaments expérimentaux, et qui sont pertinentes pour l’étude de ce(s) produit(s) chez l’homme. Ces informations sont validées et actualisées par le promoteur au moins une fois par an. Ces informations sont présentées sous une forme concise, simple, objective, équilibrée et non promotionnelle, de telle sorte qu’un médecin ou un investigateur éventuel puisse les comprendre et effectuer sa propre évaluation impartiale du bien-fondé de l’essai clinique proposé en se basant essentiellement sur le rapport risque/bénéfice. Il doit en rester de même après toute mise à jour de la brochure de l’investigateur. Si le médicament expérimental fait l’objet d’une autorisation de mise sur le marché, le résumé des caractéristiques du produit peut être utilisé en lieu et place de la brochure de l’investigateur.
 
-8. «protocole»: document décrivant le ou les objectifs, la conception, la méthode, les aspects statistiques et l’organisation d’un essai. Le terme protocole recouvre le protocole, ses versions successives et ses modifications;
+- «protocole»: document décrivant le ou les objectifs, la conception, la méthode, les aspects statistiques et l’organisation d’un essai. Le terme protocole recouvre le protocole, ses versions successives et ses modifications;
 
-9. «participant»: personne qui participe à un essai clinique, qu’elle reçoive le médicament expérimental ou serve de témoin;
+- «participant»: personne qui participe à un essai clinique, qu’elle reçoive le médicament expérimental ou serve de témoin;
 
-10. «consentement éclairé»: décision, qui doit être écrite, datée et signée, de participer à un essai clinique, prise de plein gré après avoir été dûment informé de la nature, de la portée, des conséquences et des risques et avoir reçu une documentation appropriée, par une personne capable de donner son consentement ou, s’il s’agit d’une personne qui n’est pas en mesure de le faire, par son représentant légal ; si la personne concernée n’est pas en mesure d’écrire, elle peut donner, dans des cas exceptionnels prévus par la loi, son consentement oral en présence d’au moins un témoin;
+- «consentement éclairé»: décision, qui doit être écrite, datée et signée, de participer à un essai clinique, prise de plein gré après avoir été dûment informé de la nature, de la portée, des conséquences et des risques et avoir reçu une documentation appropriée, par une personne capable de donner son consentement ou, s’il s’agit d’une personne qui n’est pas en mesure de le faire, par son représentant légal ; si la personne concernée n’est pas en mesure d’écrire, elle peut donner, dans des cas exceptionnels prévus par la loi, son consentement oral en présence d’au moins un témoin;
 
-11. « comité d’éthique » ou « comité d’éthique de recherche » : ces termes se réfèrent au Comité national d’éthique de recherche au sens de l’article 27 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière ;
+- « comité d’éthique » ou « comité d’éthique de recherche » : ces termes se réfèrent au Comité national d’éthique de recherche au sens de l’article 27 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière ;
 
-12. «inspection»: activité menée par les pharmaciens-inspecteurs de la Direction de la Santé et consistant à procéder à l’examen officiel des documents, installations, enregistrements, systèmes d’assurance qualité et de tout autre élément qui, de l’avis des inspecteurs, ont trait à l’essai clinique et qui peuvent se trouver sur le site de l’essai, dans les locaux du promoteur et/ou de l’organisme de recherche sous-traitant ou dans tout autre établissement que les inspecteurs jugent nécessaire d’inspecter;
+- «inspection»: activité menée par les pharmaciens-inspecteurs de la Direction de la Santé et consistant à procéder à l’examen officiel des documents, installations, enregistrements, systèmes d’assurance qualité et de tout autre élément qui, de l’avis des inspecteurs, ont trait à l’essai clinique et qui peuvent se trouver sur le site de l’essai, dans les locaux du promoteur et/ou de l’organisme de recherche sous-traitant ou dans tout autre établissement que les inspecteurs jugent nécessaire d’inspecter;
 
-13. «événement indésirable»: toute manifestation nocive chez un patient ou un participant à un essai clinique traité par un médicament, et qui n’est pas nécessairement liée à ce traitement;
+- «événement indésirable»: toute manifestation nocive chez un patient ou un participant à un essai clinique traité par un médicament, et qui n’est pas nécessairement liée à ce traitement;
 
-14. «effet indésirable»: toute réaction nocive et non désirée à un médicament expérimental, quelle que soit la dose administrée;
+- «effet indésirable»: toute réaction nocive et non désirée à un médicament expérimental, quelle que soit la dose administrée;
 
-15. «événement indésirable grave ou effet indésirable grave»: événement indésirable ou effet indésirable qui, quelle que soit la dose, entraîne la mort, met en danger la vie du participant, nécessite une hospitalisation ou la prolongation de l’hospitalisation, provoque un handicap ou une incapacité importants ou durables, ou bien se traduit par une anomalie ou une malformation congénitales;
+- «événement indésirable grave ou effet indésirable grave»: événement indésirable ou effet indésirable qui, quelle que soit la dose, entraîne la mort, met en danger la vie du participant, nécessite une hospitalisation ou la prolongation de l’hospitalisation, provoque un handicap ou une incapacité importants ou durables, ou bien se traduit par une anomalie ou une malformation congénitales;
 
-16. «effet indésirable inattendu»: effet indésirable dont la nature ou la gravité ne concorde pas avec les informations relatives au produit (par exemple: la brochure pour l’investigateur pour un produit expérimental non autorisé ou, dans le cas d’un produit autorisé, la notice jointe au résumé des caractéristiques du produit);
+- «effet indésirable inattendu»: effet indésirable dont la nature ou la gravité ne concorde pas avec les informations relatives au produit (par exemple: la brochure pour l’investigateur pour un produit expérimental non autorisé ou, dans le cas d’un produit autorisé, la notice jointe au résumé des caractéristiques du produit);
 
-17. «le ministre»: le ministre de la Santé;
+- «le ministre»: le ministre de la Santé;
 
-18. «Agence»: l’Agence européenne du médicament.
+- «Agence»: l’Agence européenne du médicament.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -98,17 +98,17 @@ Protection des participants aux essais cliniques.
 
 Un essai clinique ne peut être entrepris que si, notamment :
 
-1. les risques et inconvénients prévisibles ont été pesés au regard du bénéfice attendu pour le sujet participant à l’essai et pour d’autres patients actuels et futurs. Un essai clinique ne peut commencer que si le ministre conclut que les bénéfices attendus sur le plan thérapeutique et en matière de santé publique justifient les risques et ne peut se poursuivre que si le respect de cette exigence est constamment surveillé;
+- les risques et inconvénients prévisibles ont été pesés au regard du bénéfice attendu pour le sujet participant à l’essai et pour d’autres patients actuels et futurs. Un essai clinique ne peut commencer que si le ministre conclut que les bénéfices attendus sur le plan thérapeutique et en matière de santé publique justifient les risques et ne peut se poursuivre que si le respect de cette exigence est constamment surveillé;
 
-2. le sujet participant à l’essai ou, lorsque cette personne n’est pas en mesure de donner son consentement éclairé, son représentant légal, a eu la possibilité, par le biais d’un entretien préalable avec l’investigateur ou un membre de l’équipe d’investigation, de comprendre les objectifs de l’essai, ses risques et ses inconvénients, ainsi que les conditions dans lesquelles il sera réalisé, et a, en outre, été informé de son droit de se retirer des essais à tout moment;
+- le sujet participant à l’essai ou, lorsque cette personne n’est pas en mesure de donner son consentement éclairé, son représentant légal, a eu la possibilité, par le biais d’un entretien préalable avec l’investigateur ou un membre de l’équipe d’investigation, de comprendre les objectifs de l’essai, ses risques et ses inconvénients, ainsi que les conditions dans lesquelles il sera réalisé, et a, en outre, été informé de son droit de se retirer des essais à tout moment;
 
-3. sont garantis le droit du participant au respect de son intégrité physique et mentale tout comme le droit du participant à la vie privée, ainsi qu’à la protection des données le concernant selon la réglementation en la matière;
+- sont garantis le droit du participant au respect de son intégrité physique et mentale tout comme le droit du participant à la vie privée, ainsi qu’à la protection des données le concernant selon la réglementation en la matière;
 
-4. le sujet participant à l’essai ou, lorsque cette personne n’est pas en mesure de donner son consentement éclairé, son représentant légal, a donné son consentement écrit après avoir été informé de la nature, de la portée, des conséquences et des risques de l’essai clinique ; si la personne concernée n’est pas en mesure d’écrire, elle peut, dans des cas exceptionnels prévus par la loi, donner son consentement oral en présence d’au moins un témoin;
+- le sujet participant à l’essai ou, lorsque cette personne n’est pas en mesure de donner son consentement éclairé, son représentant légal, a donné son consentement écrit après avoir été informé de la nature, de la portée, des conséquences et des risques de l’essai clinique ; si la personne concernée n’est pas en mesure d’écrire, elle peut, dans des cas exceptionnels prévus par la loi, donner son consentement oral en présence d’au moins un témoin;
 
-5. le participant peut, à tout moment et sans qu’il n’encoure aucun préjudice de ce fait, se retirer de l’essai clinique du fait de la révocation de son consentement éclairé;
+- le participant peut, à tout moment et sans qu’il n’encoure aucun préjudice de ce fait, se retirer de l’essai clinique du fait de la révocation de son consentement éclairé;
 
-6. il existe des dispositions relatives à l’assurance ou à l’indemnité couvrant la responsabilité de l’investigateur et du promoteur.
+- il existe des dispositions relatives à l’assurance ou à l’indemnité couvrant la responsabilité de l’investigateur et du promoteur.
 
 (2)
 
@@ -125,23 +125,23 @@ Essais cliniques sur les mineurs.
 
 Outre toute autre restriction pertinente, un essai clinique sur des mineurs ne peut être entrepris que si:
 
-1. le consentement éclairé des parents ou du représentant légal a été obtenu ; ce consentement doit exprimer la volonté présumée du mineur et peut être annulé à tout moment sans que ce dernier en pâtisse;
+- le consentement éclairé des parents ou du représentant légal a été obtenu ; ce consentement doit exprimer la volonté présumée du mineur et peut être annulé à tout moment sans que ce dernier en pâtisse;
 
-2. le mineur a reçu des informations, en fonction de sa capacité de compréhension, de la part d’un personnel pédagogiquement qualifié, au sujet de l’essai, des risques et des bénéfices;
+- le mineur a reçu des informations, en fonction de sa capacité de compréhension, de la part d’un personnel pédagogiquement qualifié, au sujet de l’essai, des risques et des bénéfices;
 
-3. le souhait explicite d’un mineur, capable de se former une opinion et d’évaluer ces informations, de refuser de participer à l’essai clinique ou d’en être retiré à tout moment est examiné par l’investigateur ou, le cas échéant, l’investigateur principal;
+- le souhait explicite d’un mineur, capable de se former une opinion et d’évaluer ces informations, de refuser de participer à l’essai clinique ou d’en être retiré à tout moment est examiné par l’investigateur ou, le cas échéant, l’investigateur principal;
 
-4. aucun encouragement ni avantage financier n’est accordé hormis des compensations ;
+- aucun encouragement ni avantage financier n’est accordé hormis des compensations ;
 
-5. certains avantages directs résultant de l’essai clinique sont obtenus pour le groupe de patients, et seulement dans le cas où cette recherche est essentielle, pour valider des données obtenues dans des essais cliniques sur des personnes capables de donner leur consentement éclairé ou par d’autres méthodes de recherche ; en outre, cette recherche doit soit se rapporter directement à un condition clinique dont le mineur concerné souffre, soit être telle qu’elle ne puisse être conduite que sur des mineurs ;
+- certains avantages directs résultant de l’essai clinique sont obtenus pour le groupe de patients, et seulement dans le cas où cette recherche est essentielle, pour valider des données obtenues dans des essais cliniques sur des personnes capables de donner leur consentement éclairé ou par d’autres méthodes de recherche ; en outre, cette recherche doit soit se rapporter directement à un condition clinique dont le mineur concerné souffre, soit être telle qu’elle ne puisse être conduite que sur des mineurs ;
 
-6. les orientations scientifiques correspondantes de l’Agence ont été suivies ;
+- les orientations scientifiques correspondantes de l’Agence ont été suivies ;
 
-7. les essais cliniques ont été conçus pour minimiser la douleur, les désagréments, la peur et tout autre risque prévisible lié à la maladie et au niveau de développement ; le seuil de risque et le degré d’atteinte doivent être expressément définis et constamment réexaminés ;
+- les essais cliniques ont été conçus pour minimiser la douleur, les désagréments, la peur et tout autre risque prévisible lié à la maladie et au niveau de développement ; le seuil de risque et le degré d’atteinte doivent être expressément définis et constamment réexaminés ;
 
-8. le protocole a été adopté par le comité d’éthique après consultation sur des problèmes cliniques, éthiques et psychosociaux liés à la pédiatrie ;
+- le protocole a été adopté par le comité d’éthique après consultation sur des problèmes cliniques, éthiques et psychosociaux liés à la pédiatrie ;
 
-9. les intérêts du patient priment toujours ceux de la science et de la société.
+- les intérêts du patient priment toujours ceux de la science et de la société.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -150,23 +150,23 @@ Essais cliniques sur les incapables majeurs non en mesure de donner leur consent
 
 Toutes les exigences énumérées pour les personnes capables de donner leur consentement éclairé légal s’appliquent à d’autres personnes qui ne sont pas en mesure de donner un tel consentement. Outre ces exigences, la participation à un essai clinique des incapables majeurs qui n’ont pas donné ou pas refusé de donner leur consentement éclairé avant le début de leur incapacité n’est possible que si:
 
-1. le consentement éclairé du représentant légal a été obtenu; ce consentement doit exprimer la volonté présumée du patient et peut être annulé à tout moment sans que ce dernier en pâtisse;
+- le consentement éclairé du représentant légal a été obtenu; ce consentement doit exprimer la volonté présumée du patient et peut être annulé à tout moment sans que ce dernier en pâtisse;
 
-2. la personne qui n’est pas en mesure de donner un consentement éclairé légal a reçu des informations, en fonction de sa capacité de compréhension, au sujet de l’essai, des risques et des bénéfices;
+- la personne qui n’est pas en mesure de donner un consentement éclairé légal a reçu des informations, en fonction de sa capacité de compréhension, au sujet de l’essai, des risques et des bénéfices;
 
-3. le souhait explicite d’un sujet, capable de se former une opinion et d’évaluer ces informations, de refuser de participer à l’essai clinique ou d’en être retiré à tout moment est examiné par l’investigateur ou, le cas échéant, l’investigateur principal;
+- le souhait explicite d’un sujet, capable de se former une opinion et d’évaluer ces informations, de refuser de participer à l’essai clinique ou d’en être retiré à tout moment est examiné par l’investigateur ou, le cas échéant, l’investigateur principal;
 
-4. aucun encouragement ni avantage financier n’est accordé hormis des compensations;
+- aucun encouragement ni avantage financier n’est accordé hormis des compensations;
 
-5. cette recherche est essentielle pour valider des données obtenues dans des essais cliniques sur des personnes capables de donner leur consentement éclairé ou par d’autres méthodes de recherche et elle se rapporte directement à une condition clinique mettant la vie en danger, ou débilitante dont souffre l’incapable majeur concerné;
+- cette recherche est essentielle pour valider des données obtenues dans des essais cliniques sur des personnes capables de donner leur consentement éclairé ou par d’autres méthodes de recherche et elle se rapporte directement à une condition clinique mettant la vie en danger, ou débilitante dont souffre l’incapable majeur concerné;
 
-6. les essais cliniques ont été conçus pour minimiser la douleur, les désagréments, la peur et tout autre risque prévisible lié à la maladie et au niveau de développement; le seuil de risque et le degré d’atteinte sont expressément définis et constamment réexaminés;
+- les essais cliniques ont été conçus pour minimiser la douleur, les désagréments, la peur et tout autre risque prévisible lié à la maladie et au niveau de développement; le seuil de risque et le degré d’atteinte sont expressément définis et constamment réexaminés;
 
-7. le protocole a été adopté par le comité d’éthique après consultation sur des problèmes cliniques, éthiques et psychosociaux liés à la maladie et à la population concernées;
+- le protocole a été adopté par le comité d’éthique après consultation sur des problèmes cliniques, éthiques et psychosociaux liés à la maladie et à la population concernées;
 
-8. les intérêts du patient priment toujours ceux de la science et de la société;
+- les intérêts du patient priment toujours ceux de la science et de la société;
 
-9. il existe un espoir justifié que l’administration du médicament à tester offre un bénéfice plus grand que le risque pour le patient concerné ou ne présente aucun risque.
+- il existe un espoir justifié que l’administration du médicament à tester offre un bénéfice plus grand que le risque pour le patient concerné ou ne présente aucun risque.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -185,27 +185,27 @@ Si l’essai, l’étude ou l’expérimentation est pratiqué sur un mineur d�
 
 Le comité d’éthique formule son avis en prenant en compte, notamment, les éléments suivants:
 
-1. la pertinence de l’essai clinique et de sa conception;
+- la pertinence de l’essai clinique et de sa conception;
 
-2. le caractère satisfaisant de l’évaluation des bénéfices et des risques attendus, telle que prévue à l’article 3 (1) point a), et le bien-fondé des conclusions;
+- le caractère satisfaisant de l’évaluation des bénéfices et des risques attendus, telle que prévue à l’article 3 (1) point a), et le bien-fondé des conclusions;
 
-3. le protocole;
+- le protocole;
 
-4. l’aptitude de l’investigateur et de ses collaborateurs;
+- l’aptitude de l’investigateur et de ses collaborateurs;
 
-5. la brochure pour l’investigateur;
+- la brochure pour l’investigateur;
 
-6. la qualité des installations;
+- la qualité des installations;
 
-7. l’adéquation et l’exhaustivité des informations écrites à fournir ainsi que la procédure à suivre pour obtenir le consentement éclairé, et la justification de la recherche sur des personnes incapables de donner leur consentement éclairé en ce qui concerne les restrictions spécifiques visées à l’article 3;
+- l’adéquation et l’exhaustivité des informations écrites à fournir ainsi que la procédure à suivre pour obtenir le consentement éclairé, et la justification de la recherche sur des personnes incapables de donner leur consentement éclairé en ce qui concerne les restrictions spécifiques visées à l’article 3;
 
-8. les dispositions prévues en vue de la réparation ou de l’indemnisation en cas de dommages ou de décès imputables à l’essai clinique;
+- les dispositions prévues en vue de la réparation ou de l’indemnisation en cas de dommages ou de décès imputables à l’essai clinique;
 
-9. toutes assurances ou indemnités couvrant la responsabilité de l’investigateur et du promoteur;
+- toutes assurances ou indemnités couvrant la responsabilité de l’investigateur et du promoteur;
 
-10. les montants et les modalités de rétribution ou d’indemnisation éventuelles des investigateurs et des participants à l’essai clinique et les éléments pertinents de tout contrat prévu entre le promoteur et le site;
+- les montants et les modalités de rétribution ou d’indemnisation éventuelles des investigateurs et des participants à l’essai clinique et les éléments pertinents de tout contrat prévu entre le promoteur et le site;
 
-11. les modalités de recrutement des participants.
+- les modalités de recrutement des participants.
 
 (4)
 
@@ -310,11 +310,11 @@ Conduite d’un essai clinique.
 
 La conduite d’un essai clinique peut être modifiée selon les modalités suivantes:
 
-1. après le commencement de l’essai clinique, le promoteur peut apporter des modifications au protocole. Lorsque ces modifications sont substantielles et de nature à avoir des incidences sur la sécurité des participants ou à changer l’interprétation des pièces scientifiques qui viennent appuyer le déroulement de l’essai, ou si elles sont significatives de quelque autre point de vue que ce soit, le promoteur notifie les raisons et le contenu de ces modifications au ministre et en informe le comité d’éthique. Sur la base des éléments visés à l’article 6 (3), le comité d’éthique rend un avis dans un délai maximum de 35 jours à compter de la date de la réception de la proposition de modification en bonne et due forme. Si cet avis n’est pas favorable, le promoteur ne peut pas mettre en œuvre la modification du protocole Si l’avis du comité d’éthique est favorable, et si le ministre n’a pas émis d’objections motivées à l’encontre de ces modifications substantielles, le promoteur poursuit la conduite de l’essai clinique en suivant le protocole modifié. Dans le cas contraire, soit le promoteur tient compte de ces objections et adapte, en conséquence, la modification envisagée du protocole, soit il retire sa proposition de modification;
+- après le commencement de l’essai clinique, le promoteur peut apporter des modifications au protocole. Lorsque ces modifications sont substantielles et de nature à avoir des incidences sur la sécurité des participants ou à changer l’interprétation des pièces scientifiques qui viennent appuyer le déroulement de l’essai, ou si elles sont significatives de quelque autre point de vue que ce soit, le promoteur notifie les raisons et le contenu de ces modifications au ministre et en informe le comité d’éthique. Sur la base des éléments visés à l’article 6 (3), le comité d’éthique rend un avis dans un délai maximum de 35 jours à compter de la date de la réception de la proposition de modification en bonne et due forme. Si cet avis n’est pas favorable, le promoteur ne peut pas mettre en œuvre la modification du protocole Si l’avis du comité d’éthique est favorable, et si le ministre n’a pas émis d’objections motivées à l’encontre de ces modifications substantielles, le promoteur poursuit la conduite de l’essai clinique en suivant le protocole modifié. Dans le cas contraire, soit le promoteur tient compte de ces objections et adapte, en conséquence, la modification envisagée du protocole, soit il retire sa proposition de modification;
 
-2. sans préjudice du point a), et selon les circonstances, notamment la survenue de tout fait nouveau concernant le déroulement de l’essai ou le développement du médicament expérimental lorsque ce fait nouveau est susceptible de porter atteinte à la sécurité des participants de l’essai, le promoteur ainsi que l’investigateur prennent les mesures urgentes de sécurité appropriées afin de protéger les participants contre un danger immédiat. Le promoteur informe sans délai les autorités compétentes de ces faits nouveaux et des mesures prises et s’assure que le comité d’éthique est informé simultanément;
+- sans préjudice du point a), et selon les circonstances, notamment la survenue de tout fait nouveau concernant le déroulement de l’essai ou le développement du médicament expérimental lorsque ce fait nouveau est susceptible de porter atteinte à la sécurité des participants de l’essai, le promoteur ainsi que l’investigateur prennent les mesures urgentes de sécurité appropriées afin de protéger les participants contre un danger immédiat. Le promoteur informe sans délai les autorités compétentes de ces faits nouveaux et des mesures prises et s’assure que le comité d’éthique est informé simultanément;
 
-3. dans un délai de 90 jours suivant la fin d’un essai clinique, le promoteur avise le ministre ainsi que le comité d’éthique que l’essai clinique est terminé. Lorsque l’arrêt de l’essai clinique doit être anticipé, ce délai est ramené à 15 jours et les raisons qui le motivent sont clairement exposées.
+- dans un délai de 90 jours suivant la fin d’un essai clinique, le promoteur avise le ministre ainsi que le comité d’éthique que l’essai clinique est terminé. Lorsque l’arrêt de l’essai clinique doit être anticipé, ce délai est ramené à 15 jours et les raisons qui le motivent sont clairement exposées.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -325,17 +325,17 @@ Echange d’informations.
 
 Le ministre introduit dans une base européenne de données accessible uniquement aux autorités compétentes des Etats membres, à l’Agence et à la Commission:
 
-1. des données extraites de la demande d’autorisation visée à l’article 8 (2),
+- des données extraites de la demande d’autorisation visée à l’article 8 (2),
 
-2. d’éventuelles modifications apportées à cette demande, conformément à l’article 8 (3),
+- d’éventuelles modifications apportées à cette demande, conformément à l’article 8 (3),
 
-3. d’éventuelles modifications apportées au protocole, conformément à l’article 9, point a),
+- d’éventuelles modifications apportées au protocole, conformément à l’article 9, point a),
 
-4. l’avis favorable du comité d’éthique,
+- l’avis favorable du comité d’éthique,
 
-5. la déclaration de fin de l’essai clinique,
+- la déclaration de fin de l’essai clinique,
 
-6. la mention des inspections réalisées sur la conformité aux bonnes pratiques cliniques.
+- la mention des inspections réalisées sur la conformité aux bonnes pratiques cliniques.
 
 (2)
 
@@ -462,13 +462,13 @@ Notification des effets indésirables graves.
 
 (1)
 
-1. Le promoteur s’assure que toutes les informations importantes concernant les suspicions d’effets indésirables graves inattendus ayant entraîné ou pouvant entraîner la mort sont enregistrées et notifiées le plus rapidement possible au ministre ainsi qu’au comité d’éthique, en tout état de cause, dans un délai maximum de 7 jours à compter du moment où le promoteur a eu connaissance de ce cas, et que des informations pertinentes concernant les suites soient ensuite communiquées dans un nouveau délai de 8 jours.
+- Le promoteur s’assure que toutes les informations importantes concernant les suspicions d’effets indésirables graves inattendus ayant entraîné ou pouvant entraîner la mort sont enregistrées et notifiées le plus rapidement possible au ministre ainsi qu’au comité d’éthique, en tout état de cause, dans un délai maximum de 7 jours à compter du moment où le promoteur a eu connaissance de ce cas, et que des informations pertinentes concernant les suites soient ensuite communiquées dans un nouveau délai de 8 jours.
 
-2. Toutes les suspicions d’autres effets indésirables graves inattendus sont notifiées au ministre ainsi qu’au comité d’éthique le plus rapidement possible, mais au plus tard dans un délai maximum de 15 jours à compter du jour où le promoteur en a eu connaissance pour la première fois.
+- Toutes les suspicions d’autres effets indésirables graves inattendus sont notifiées au ministre ainsi qu’au comité d’éthique le plus rapidement possible, mais au plus tard dans un délai maximum de 15 jours à compter du jour où le promoteur en a eu connaissance pour la première fois.
 
-3. Le ministre assure l’enregistrement de toutes les suspicions d’effets indésirables graves inattendus d’un médicament expérimental qui ont été portées à sa connaissance.
+- Le ministre assure l’enregistrement de toutes les suspicions d’effets indésirables graves inattendus d’un médicament expérimental qui ont été portées à sa connaissance.
 
-4. Le promoteur informe également les autres investigateurs.
+- Le promoteur informe également les autres investigateurs.
 
 (2)
 

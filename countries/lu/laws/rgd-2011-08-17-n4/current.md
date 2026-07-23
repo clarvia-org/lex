@@ -45,25 +45,25 @@ L’agrément s’entend sans préjudice des autorisations à solliciter en vert
 
 Au sens de l’article 11, points a), c), d), h), i), j), k), et l) de la loi modifiée du 16 décembre 2008 relative à l’aide à l’enfance et à la famille et pour l’application du présent règlement grand-ducal, on entend par :
 
-1. «Accueil socio-éducatif en institution, de jour et de nuit, d’enfants ou de jeunes adultes», l’exercice non occasionnel, à titre principal ou accessoire et contre rémunération, de façon permanente ou temporaire, d’un accueil de jour et de nuit de plus de trois enfants ou jeunes adultes simultanément; ledit accueil socio-éducatif institutionnel comprend six formules. Les trois formules de l’accueil de base, orthopédagogique et psychothérapeutique suffisent toutes aux objectifs généraux suivants: et comprennent les prestations de base suivantes:
+- «Accueil socio-éducatif en institution, de jour et de nuit, d’enfants ou de jeunes adultes», l’exercice non occasionnel, à titre principal ou accessoire et contre rémunération, de façon permanente ou temporaire, d’un accueil de jour et de nuit de plus de trois enfants ou jeunes adultes simultanément; ledit accueil socio-éducatif institutionnel comprend six formules. Les trois formules de l’accueil de base, orthopédagogique et psychothérapeutique suffisent toutes aux objectifs généraux suivants: et comprennent les prestations de base suivantes:
 
-1. accueillir des enfants ou jeunes adultes en conformité avec le projet d’intervention validé par l’Office National de l’Enfance, pour une durée limitée dans un cadre de vie structuré et structurant, adapté à leurs besoins et respectant leur singularité afin de créer, à travers une prise de distance temporaire par rapport au milieu familial, les conditions propices pour un travail dans l’intérêt de l’enfant;
+  - accueillir des enfants ou jeunes adultes en conformité avec le projet d’intervention validé par l’Office National de l’Enfance, pour une durée limitée dans un cadre de vie structuré et structurant, adapté à leurs besoins et respectant leur singularité afin de créer, à travers une prise de distance temporaire par rapport au milieu familial, les conditions propices pour un travail dans l’intérêt de l’enfant;
 
-2. accompagner, pendant la période de cet accueil, le développement des personnes et soutenir plus particulièrement le développement des compétences sociales et relationnelles, ainsi que des ressources émotionnelles et socio-affectives des enfants ou jeunes adultes;
+  - accompagner, pendant la période de cet accueil, le développement des personnes et soutenir plus particulièrement le développement des compétences sociales et relationnelles, ainsi que des ressources émotionnelles et socio-affectives des enfants ou jeunes adultes;
 
-3. préparer pour autant que possible les enfants ou jeunes adultes à un retour dans leur milieu familial.
+  - préparer pour autant que possible les enfants ou jeunes adultes à un retour dans leur milieu familial.
 
-- offrir un lieu de vie adéquat, une éducation et des soins appropriés aux enfants et jeunes adultes accueillis;
+  - offrir un lieu de vie adéquat, une éducation et des soins appropriés aux enfants et jeunes adultes accueillis;
 
-- soutenir le bon développement global des enfants et jeunes adultes, le cas échéant en garantissant les aides spécifiques requises;
+  - soutenir le bon développement global des enfants et jeunes adultes, le cas échéant en garantissant les aides spécifiques requises;
 
-- soutenir la progression scolaire respectivement œuvrer vers la réintégration scolaire des enfants et soutenir les jeunes adultes en vue de l’obtention de la formation professionnelle correspondante à leurs aspirations et aptitudes;
+  - soutenir la progression scolaire respectivement œuvrer vers la réintégration scolaire des enfants et soutenir les jeunes adultes en vue de l’obtention de la formation professionnelle correspondante à leurs aspirations et aptitudes;
 
-- soutenir les enfants et les jeunes adultes dans l’élaboration progressive d’un projet de vie réaliste et personnalisé;
+  - soutenir les enfants et les jeunes adultes dans l’élaboration progressive d’un projet de vie réaliste et personnalisé;
 
-- garantir pendant la période de l’accueil et dans une mesure bénéfique à l’enfant ou au jeune adulte respectivement dans le respect d’éventuelles décisions des autorités judiciaires compétentes, l’information, l’échange et la coopération régulière avec les parents afin de favoriser la réintégration ultérieure dans le milieu familial;
+  - garantir pendant la période de l’accueil et dans une mesure bénéfique à l’enfant ou au jeune adulte respectivement dans le respect d’éventuelles décisions des autorités judiciaires compétentes, l’information, l’échange et la coopération régulière avec les parents afin de favoriser la réintégration ultérieure dans le milieu familial;
 
-- assurer au terme de l’accueil socio-éducatif la relève de l’accompagnement des enfants ou jeunes adultes et de leurs familles par un service ambulatoire si nécessaire.
+  - assurer au terme de l’accueil socio-éducatif la relève de l’accompagnement des enfants ou jeunes adultes et de leurs familles par un service ambulatoire si nécessaire.
 
 Ces trois formules d’accueil socio-éducatif institutionnel se distinguent de la manière suivante:
 
@@ -127,11 +127,11 @@ L’accueil urgent en situation de crise psychosociale aiguë
 
 Est considérée comme accueil urgent en situation de crise psychosociale aiguë, la mesure d’aide qui suffit aux objectifs suivants:
 
-1. accueillir des enfants ou jeunes adultes pour une durée limitée de 3 mois, reconductible en cas de besoin dûment constaté pour une nouvelle période de 3 mois, dans un cadre de vie structuré et structurant, adapté à leurs besoins et respectant leur singularité, dans des situations de crise psychosociale aiguë où leur maintien dans le milieu familial est temporairement contre-indiqué ou impossible.
+- accueillir des enfants ou jeunes adultes pour une durée limitée de 3 mois, reconductible en cas de besoin dûment constaté pour une nouvelle période de 3 mois, dans un cadre de vie structuré et structurant, adapté à leurs besoins et respectant leur singularité, dans des situations de crise psychosociale aiguë où leur maintien dans le milieu familial est temporairement contre-indiqué ou impossible.
 
-2. permettre le cas échéant une évaluation différenciée et approfondie de la situation personnelle et familiale de l’enfant ou du jeune adulte, afin de déterminer les besoins d’aide éventuels de l’enfant/du jeune et/ou de la famille et d’élaborer sur base de cette évaluation un projet d’intervention sociopédagogique.
+- permettre le cas échéant une évaluation différenciée et approfondie de la situation personnelle et familiale de l’enfant ou du jeune adulte, afin de déterminer les besoins d’aide éventuels de l’enfant/du jeune et/ou de la famille et d’élaborer sur base de cette évaluation un projet d’intervention sociopédagogique.
 
-3. préparer les enfants ou jeunes adultes à un retour dans leur milieu familial respectivement à un séjour prolongé en institution d’accueil.
+- préparer les enfants ou jeunes adultes à un retour dans leur milieu familial respectivement à un séjour prolongé en institution d’accueil.
 
 L’accueil urgent en situation de crise psychosociale aiguë s’adresse à une population cible d’enfants, adolescents et jeunes adultes:
 
@@ -161,11 +161,11 @@ L’accueil d’enfants de moins de trois ans
 
 Est considérée comme activité d’accueil d’enfants de moins de trois ans, la mesure d’aide qui suffit aux objectifs suivants:
 
-1. accueillir des enfants en conformité avec le projet d’intervention validé par l’Office National de l’Enfance, pour une durée limitée dans un cadre de vie structuré et structurant, adapté à leurs besoins et respectant leur singularité afin de permettre une prise de distance temporaire par rapport au milieu familial;
+- accueillir des enfants en conformité avec le projet d’intervention validé par l’Office National de l’Enfance, pour une durée limitée dans un cadre de vie structuré et structurant, adapté à leurs besoins et respectant leur singularité afin de permettre une prise de distance temporaire par rapport au milieu familial;
 
-2. favoriser pendant la période de cet accueil, le développement des compétences globales des enfants;
+- favoriser pendant la période de cet accueil, le développement des compétences globales des enfants;
 
-3. préparer les enfants à un retour dans leur milieu familial, respectivement à un accueil prolongé en centre ou en famille d’accueil.
+- préparer les enfants à un retour dans leur milieu familial, respectivement à un accueil prolongé en centre ou en famille d’accueil.
 
 L’accueil d’enfants de moins de trois ans s’adresse à une population cible d’enfants en dessous de l’âge de trois ans dont les parents ne sont temporairement pas en mesure d’assurer la garde, l’éducation et les besoins primaires.
 
@@ -495,13 +495,13 @@ Pour l’accueil d’enfants de moins de trois ans, le nombre minimal d’agents
 
 Pour l’accueil en formule de logement encadré, les effectifs de personnel d’encadrement varient en fonction des besoins des enfants, jeunes et familles en détresse et en fonction des objectifs de la prise en charge.
 
-1. L’accueil socio-éducatif de jour d’enfants ou de jeunes adultes dans un foyer orthopédagogique ou psychothérapeutique Pour l’activité de l’accueil socio-éducatif de jour dans un foyer orthopédagogique, le nombre minimal d’agents d’encadrement est de 0,24 poste à temps plein par usager pendant huit heures d’encadrement. Pour l’activité de l’accueil socio-éducatif de jour dans un foyer psychothérapeutique, le nombre minimal d’agents d’encadrement est de 0,47 poste à temps plein par usager pendant huit heures d’encadrement. Pour toutes les formules de l’accueil socio-éducatif en institution de jour et de nuit, définies aux points 1.1 à 1.6 de l’article 2 ci-avant, le nombre minimal d’agents d’encadrement, tel que défini aux alinéas précédents, peut être diminué de 10% pour une période ne pouvant dépasser 20 jours consécutifs. Sur l’année entière cette diminution de la norme minimale d’encadrement ne peut être appliquée pour plus de 80 journées.
+- L’accueil socio-éducatif de jour d’enfants ou de jeunes adultes dans un foyer orthopédagogique ou psychothérapeutique Pour l’activité de l’accueil socio-éducatif de jour dans un foyer orthopédagogique, le nombre minimal d’agents d’encadrement est de 0,24 poste à temps plein par usager pendant huit heures d’encadrement. Pour l’activité de l’accueil socio-éducatif de jour dans un foyer psychothérapeutique, le nombre minimal d’agents d’encadrement est de 0,47 poste à temps plein par usager pendant huit heures d’encadrement. Pour toutes les formules de l’accueil socio-éducatif en institution de jour et de nuit, définies aux points 1.1 à 1.6 de l’article 2 ci-avant, le nombre minimal d’agents d’encadrement, tel que défini aux alinéas précédents, peut être diminué de 10% pour une période ne pouvant dépasser 20 jours consécutifs. Sur l’année entière cette diminution de la norme minimale d’encadrement ne peut être appliquée pour plus de 80 journées.
 
-2. L’aide sociofamiliale en famille Pour l’activité de l’aide socio-familiale en famille, les effectifs de personnel d’encadrement varient en fonction du volume et de l’intensité des mesures d’aide dont le gestionnaire est chargé.
+- L’aide sociofamiliale en famille Pour l’activité de l’aide socio-familiale en famille, les effectifs de personnel d’encadrement varient en fonction du volume et de l’intensité des mesures d’aide dont le gestionnaire est chargé.
 
-3. L’assistance psychique, sociale ou éducative en famille, l’intervention orthopédagogique précoce, le soutien psychosocial par la psychomotricité et le soutien psychosocial par l’orthophonie. Pour les activités d’assistance psychique, sociale ou éducative en famille, d’intervention orthopédagogique précoce, de soutien psychosocial par la psychomotricité, et de soutien psychosocial par l’orthophonie, les effectifs de personnel d’encadrement varient en fonction du volume et de l’intensité des mesures d’aide dont le gestionnaire est chargé.
+- L’assistance psychique, sociale ou éducative en famille, l’intervention orthopédagogique précoce, le soutien psychosocial par la psychomotricité et le soutien psychosocial par l’orthophonie. Pour les activités d’assistance psychique, sociale ou éducative en famille, d’intervention orthopédagogique précoce, de soutien psychosocial par la psychomotricité, et de soutien psychosocial par l’orthophonie, les effectifs de personnel d’encadrement varient en fonction du volume et de l’intensité des mesures d’aide dont le gestionnaire est chargé.
 
-4. L’insertion socioprofessionnelle Pour l’activité d’insertion socioprofessionnelle, le nombre minimal d’agents d’encadrement est de 0,18 poste à temps plein par usager pendant huit heures d’encadrement.
+- L’insertion socioprofessionnelle Pour l’activité d’insertion socioprofessionnelle, le nombre minimal d’agents d’encadrement est de 0,18 poste à temps plein par usager pendant huit heures d’encadrement.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -593,15 +593,15 @@ L’agrément pour l’exercice de l’activité d’accueil socio-éducatif en 
 
 Toute personne majeure, résidente au Grand-Duché, obtient sur demande un agrément pour l’exercice de l’activité d’accueil socio-éducatif en famille d’accueil si elle satisfait aux conditions suivantes :
 
-1. avoir suivi la séance d’information présentée par le ministre ayant l’Enfance dans ses attributions ;
+- avoir suivi la séance d’information présentée par le ministre ayant l’Enfance dans ses attributions ;
 
-2. avoir accompli, le cas échéant avec sa famille, une procédure de sélection et de préparation en vue de l’obtention d’un certificat de sélection reconnu par le ministre ayant l’Enfance dans ses attributions ;
+- avoir accompli, le cas échéant avec sa famille, une procédure de sélection et de préparation en vue de l’obtention d’un certificat de sélection reconnu par le ministre ayant l’Enfance dans ses attributions ;
 
-3. avoir suivi la formation de base pour familles d’accueil de 54 heures organisée sous la tutelle du ministre ayant l’Enfance dans ses attributions ;
+- avoir suivi la formation de base pour familles d’accueil de 54 heures organisée sous la tutelle du ministre ayant l’Enfance dans ses attributions ;
 
-4. comprend et peut s’exprimer dans au moins une des trois langues prévues par la loi du 24 février 1984 sur le régime des langues ;
+- comprend et peut s’exprimer dans au moins une des trois langues prévues par la loi du 24 février 1984 sur le régime des langues ;
 
-5. s’engage à suivre pendant 12 heures par an au moins des séances de formation continue et/ou de supervision, pour autant que l’enfant accueilli n’atteint pas sa majorité au cours de l’année civile.
+- s’engage à suivre pendant 12 heures par an au moins des séances de formation continue et/ou de supervision, pour autant que l’enfant accueilli n’atteint pas sa majorité au cours de l’année civile.
 
 Tout organisme œuvrant dans les domaines social, familiale et thérapeutique obtient sur demande un agrément pour l’exercice de l’activité d’accueil socio-éducatif en famille d’accueil s’il dispose pour cette activité de salariés qui satisfont aux conditions de l’alinéa précédent.
 

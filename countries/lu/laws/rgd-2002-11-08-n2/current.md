@@ -41,9 +41,9 @@ Le présent règlement couvre les émissions de toutes les sources des polluants
 
 Il ne couvre pas
 
-1. les émissions provenant du trafic maritime international;
+- les émissions provenant du trafic maritime international;
 
-2. les émissions des aéronefs au-delà du cycle d’atterrissage et de décollage.
+- les émissions des aéronefs au-delà du cycle d’atterrissage et de décollage.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -52,31 +52,31 @@ Définitions
 
 Aux fins du présent règlement, on entend par:
 
-1. «AOT40»: la somme des différences entre des concentrations horaires d’ozone au sol supérieures à 80 μg/m 3 (= 40 ppb) et 80 μg/m 3 accumulées de jour de mai à juillet chaque année;
+- «AOT40»: la somme des différences entre des concentrations horaires d’ozone au sol supérieures à 80 μg/m 3 (= 40 ppb) et 80 μg/m 3 accumulées de jour de mai à juillet chaque année;
 
-2. «AOT60»: la somme des différences entre des concentrations horaires d’ozone au sol supérieures à 120 μg/m 3 (= 60 ppb) et 120 μg/m 3 accumulées tout au long de l’année;
+- «AOT60»: la somme des différences entre des concentrations horaires d’ozone au sol supérieures à 120 μg/m 3 (= 60 ppb) et 120 μg/m 3 accumulées tout au long de l’année;
 
-3. «charge critique»: l’estimation quantitative d’une exposition à un ou plusieurs polluants en dessous de laquelle il n’existe aucun effet nuisible notable, dans l’état actuel des connaissances, sur des éléments déterminés et sensibles de l’environnement;
+- «charge critique»: l’estimation quantitative d’une exposition à un ou plusieurs polluants en dessous de laquelle il n’existe aucun effet nuisible notable, dans l’état actuel des connaissances, sur des éléments déterminés et sensibles de l’environnement;
 
-4. «niveau critique»: la concentration de polluants dans l’atmosphère au-dessus de laquelle des effets nuisibles directs sur des récepteurs comme les êtres humains, les plantes, les écosystèmes ou les matériaux peuvent se produire, dans l’état actuel des connaissances;
+- «niveau critique»: la concentration de polluants dans l’atmosphère au-dessus de laquelle des effets nuisibles directs sur des récepteurs comme les êtres humains, les plantes, les écosystèmes ou les matériaux peuvent se produire, dans l’état actuel des connaissances;
 
-5. «émission»: le rejet d’une substance dans l’atmosphère à partir d’une source ponctuelle ou diffuse;
+- «émission»: le rejet d’une substance dans l’atmosphère à partir d’une source ponctuelle ou diffuse;
 
-6. «cellule de la grille»: un carré de 150 km sur 150 km, ce qui correspond à la résolution utilisée pour la cartographie des charges critiques à l’échelle européenne ainsi que pour la surveillance des émissions et des dépôts de polluants atmosphériques par le programme de coopération pour la surveillance continue et l’évaluation du transport à longue distance des polluants atmosphériques en Europe (EMEP);
+- «cellule de la grille»: un carré de 150 km sur 150 km, ce qui correspond à la résolution utilisée pour la cartographie des charges critiques à l’échelle européenne ainsi que pour la surveillance des émissions et des dépôts de polluants atmosphériques par le programme de coopération pour la surveillance continue et l’évaluation du transport à longue distance des polluants atmosphériques en Europe (EMEP);
 
-7. «cycle d’atterrissage et de décollage»: un cycle représenté par le temps suivant pour chaque mode opératoire: approche 4,0 minutes; phase de circulation et de ralenti au sol 26,0 minutes, décollage 0,7 minute; montée 2,2 minutes;
+- «cycle d’atterrissage et de décollage»: un cycle représenté par le temps suivant pour chaque mode opératoire: approche 4,0 minutes; phase de circulation et de ralenti au sol 26,0 minutes, décollage 0,7 minute; montée 2,2 minutes;
 
-8. «plafond d’émission national»: la quantité maximale d’une substance, exprimée en kilotonnes, qui peut être émise au cours d’une année civile;
+- «plafond d’émission national»: la quantité maximale d’une substance, exprimée en kilotonnes, qui peut être émise au cours d’une année civile;
 
-9. «oxydes d’azote» et «NOx »: l’oxyde nitrique et le dioxyde d’azote, exprimés en dioxyde d’azote;
+- «oxydes d’azote» et «NOx »: l’oxyde nitrique et le dioxyde d’azote, exprimés en dioxyde d’azote;
 
-10. «ozone au sol»: ozone dans la partie la plus basse de la troposphère;
+- «ozone au sol»: ozone dans la partie la plus basse de la troposphère;
 
-11. «composés organiques volatils» et «COV»: tous les composés organiques découlant des activités humaines, autres que le méthane, qui sont capables de produire des oxydants photochimiques par réaction avec des oxydes d’azote en présence de la lumière solaire;
+- «composés organiques volatils» et «COV»: tous les composés organiques découlant des activités humaines, autres que le méthane, qui sont capables de produire des oxydants photochimiques par réaction avec des oxydes d’azote en présence de la lumière solaire;
 
-12. «Ministre»: le membre du Gouvernement ayant l’environnement dans ses attributions;
+- «Ministre»: le membre du Gouvernement ayant l’environnement dans ses attributions;
 
-13. «administration»: l’administration de l’Environnement.
+- «administration»: l’administration de l’Environnement.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -108,13 +108,13 @@ Les plafonds d’émission fixés à l’annexe I ne doivent pas être dépassé
 
 Objectifs environnementaux intermédiaires
 
-Les plafonds d’émission nationaux indiqués à l’annexe I ont pour objectif d’atteindre, d’ici à 2010 pour l’ensemble de «l’Union européenne», l’essentiel des objectifs environnementaux intermédiaires ci-après:
+Les plafonds d’émission nationaux indiqués à l’annexe I ont pour objectif d’atteindre, d’ici à 2010 pour l’ensemble de «l’Union européenne» , l’essentiel des objectifs environnementaux intermédiaires ci-après:
 
-1. Acidification Les zones présentant un dépassement des charges critiques doivent être réduites d’au moins 50% (dans chaque cellule de la grille) par rapport à la situation de 1990.
+- Acidification Les zones présentant un dépassement des charges critiques doivent être réduites d’au moins 50% (dans chaque cellule de la grille) par rapport à la situation de 1990.
 
-2. Exposition à l’ozone au sol en rapport avec la santé La charge d’ozone au sol dépassant le niveau critique pour la santé humaine (AOT60=0) est réduite de deux tiers dans toutes les cellules de la grille par rapport à la situation de 1990. En outre, la charge d’ozone au sol ne doit dépasser la limite absolue de 2,9 ppm.h dans aucune des cellules de la grille.
+- Exposition à l’ozone au sol en rapport avec la santé La charge d’ozone au sol dépassant le niveau critique pour la santé humaine (AOT60=0) est réduite de deux tiers dans toutes les cellules de la grille par rapport à la situation de 1990. En outre, la charge d’ozone au sol ne doit dépasser la limite absolue de 2,9 ppm.h dans aucune des cellules de la grille.
 
-3. Exposition à l’ozone au sol en rapport avec la végétation La charge d’ozone au sol dépassant le seuil critique pour les cultures et la végétation semi-naturelle (AOT40=3 ppm.h) est réduite d’un tiers dans toutes les cellules de la grille par rapport à la situation de 1990. En outre, la charge d’ozone au sol ne dépasse la limite absolue de 10 ppm.h, qui représente un excédent du niveau critique de 3 ppm.h, dans aucune des cellules de la grille.
+- Exposition à l’ozone au sol en rapport avec la végétation La charge d’ozone au sol dépassant le seuil critique pour les cultures et la végétation semi-naturelle (AOT40=3 ppm.h) est réduite d’un tiers dans toutes les cellules de la grille par rapport à la situation de 1990. En outre, la charge d’ozone au sol ne dépasse la limite absolue de 10 ppm.h, qui représente un excédent du niveau critique de 3 ppm.h, dans aucune des cellules de la grille.
 
 <a id="art-7"></a>
 ## Art. 7.

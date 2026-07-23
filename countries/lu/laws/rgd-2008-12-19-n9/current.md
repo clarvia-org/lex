@@ -35,31 +35,31 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement, on entend:
 
-1. par la loi, la loi du 4 décembre 1967 concernant l’impôt sur le revenu, telle qu’elle a été modifiée par la suite;
+- par la loi, la loi du 4 décembre 1967 concernant l’impôt sur le revenu, telle qu’elle a été modifiée par la suite;
 
-2. par excédent de frais de déplacement, la tranche des frais de déplacement de l’année d’imposition qui, en ce qui concerne les traitements et salaires, dépasse le minimum forfaitaire prévu par l’article 107bis de la loi (code FD);
+- par excédent de frais de déplacement, la tranche des frais de déplacement de l’année d’imposition qui, en ce qui concerne les traitements et salaires, dépasse le minimum forfaitaire prévu par l’article 107bis de la loi (code FD);
 
-3. par excédent de frais d’obtention, autres que les frais de déplacement, la tranche des frais d’obtention de l’année d’imposition qui, en ce qui concerne la catégorie considérée de revenu, dépasse le minimum forfaitaire prévu par l’article 107 de la loi (code FO);
+- par excédent de frais d’obtention, autres que les frais de déplacement, la tranche des frais d’obtention de l’année d’imposition qui, en ce qui concerne la catégorie considérée de revenu, dépasse le minimum forfaitaire prévu par l’article 107 de la loi (code FO);
 
-4. par excédent de dépenses spéciales (code DS), la somme des dépenses suivantes faites durant l’année d’imposition:
+- par excédent de dépenses spéciales (code DS), la somme des dépenses suivantes faites durant l’année d’imposition:
 
-1. celles des cotisations visées à l’article 3 qui ne peuvent être déduites d’office conformément aux prescriptions dudit article;
+  - celles des cotisations visées à l’article 3 qui ne peuvent être déduites d’office conformément aux prescriptions dudit article;
 
-2. dans le chef des contribuables résidents et pour autant qu’elles dépassent le minimum forfaitaire prévu par l’article 113 de la loi , les dépenses spéciales au sens de l’article 109 de la loi autres que celles visées ci-dessus, à l’exception des dons en espèces dont question à l’article 1 er du règlement grand-ducal portant exécution de l’article 112, alinéa 2 de la loi ;
+  - dans le chef des contribuables résidents et pour autant qu’elles dépassent le minimum forfaitaire prévu par l’article 113 de la loi , les dépenses spéciales au sens de l’article 109 de la loi autres que celles visées ci-dessus, à l’exception des dons en espèces dont question à l’article 1 er du règlement grand-ducal portant exécution de l’article 112, alinéa 2 de la loi ;
 
-5. par abattement pour charges extraordinaires (code CE):
+- par abattement pour charges extraordinaires (code CE):
 
-1. l’abattement pour charges extraordinaires résultant du régime normal de l’article 127 de la loi , ainsi que les abattements forfaitaires pour charges extraordinaires résultant de l’article 127, alinéas 4a et 6 de la loi ;
+  - l’abattement pour charges extraordinaires résultant du régime normal de l’article 127 de la loi , ainsi que les abattements forfaitaires pour charges extraordinaires résultant de l’article 127, alinéas 4a et 6 de la loi ;
 
-2. l’abattement forfaitaire pour charges d’enfants visé à l’article 127bis de la loi ;
+  - l’abattement forfaitaire pour charges d’enfants visé à l’article 127bis de la loi ;
 
-6. E bis. par abattement de maintien dans la vie professionnelle (MVP), l’abattement visé à l’article 129g de la loi ;
+- E bis. par abattement de maintien dans la vie professionnelle (MVP), l’abattement visé à l’article 129g de la loi ;
 
-7. par crédits d’impôt, le crédit d’impôt pour salariés (code CIS) visé à l’article 154 quater de la loi , le crédit d’impôt pour pensionnés (code CIP) visé à l’article 154 quinquies de la loi et le crédit d’impôt monoparental visé à l’article 154ter de la loi (code CIM);
+- par crédits d’impôt, le crédit d’impôt pour salariés (code CIS) visé à l’article 154 quater de la loi , le crédit d’impôt pour pensionnés (code CIP) visé à l’article 154 quinquies de la loi et le crédit d’impôt monoparental visé à l’article 154ter de la loi (code CIM);
 
-8. par administration communale compétente, l’administration communale qui aux termes du règlement grand-ducal portant exécution de l’article 143 de la loi est compétente pour l’établissement et, le cas échéant, la modification des fiches de retenue d’impôt des salariés et pensionnés résidents;
+- par administration communale compétente, l’administration communale qui aux termes du règlement grand-ducal portant exécution de l’article 143 de la loi est compétente pour l’établissement et, le cas échéant, la modification des fiches de retenue d’impôt des salariés et pensionnés résidents;
 
-9. par bureau RTS, respectivement le bureau régional de la retenue d’impôt ou, en ce qui concerne les salariés non résidents, le bureau de la retenue d’impôt Luxembourg Non-résidents. Toutefois, en ce qui concerne les déductions à inscrire sur les fiches de retenue d’impôt des époux salariés ou pensionnés résidents qui vivent en fait séparés, sans qu’ils bénéficient en matière de cohabitation d’une dispense de la loi ou de l’autorité judiciaire, le terme de «bureau RTS» désigne le bureau RTS de Luxembourg 3.
+- par bureau RTS, respectivement le bureau régional de la retenue d’impôt ou, en ce qui concerne les salariés non résidents, le bureau de la retenue d’impôt Luxembourg Non-résidents. Toutefois, en ce qui concerne les déductions à inscrire sur les fiches de retenue d’impôt des époux salariés ou pensionnés résidents qui vivent en fait séparés, sans qu’ils bénéficient en matière de cohabitation d’une dispense de la loi ou de l’autorité judiciaire, le terme de «bureau RTS» désigne le bureau RTS de Luxembourg 3.
 
 (2)
 
@@ -87,13 +87,15 @@ Les inscriptions pour crédits d’impôt imputables après la détermination de
 
 L’employeur ou la caisse de pension porte d’office en déduction du revenu dans lequel elles sont comprises:
 
-1. les prélèvements et cotisation versées en raison de l’affiliation obligatoire des salariés au titre de l’assurance maladie et de l’assurance pension visés à l’article 110, numéro 1 de la loi ,
+- les prélèvements et cotisation versées en raison de l’affiliation obligatoire des salariés au titre de l’assurance maladie et de l’assurance pension visés à l’article 110, numéro 1 de la loi ,
 
-2. les cotisations personnelles opérées sur les rénumérations des salariés en raison de l’existence d’un régime complémentaire de pension instauré conformément à la loi du 8 juin 1999 relative aux régimes complémentaires de pension, jusqu’à concurrence d’un montant de 1.200 euros par an.
+- les cotisations personnelles opérées sur les rénumérations des salariés en raison de l’existence d’un régime complémentaire de pension instauré conformément à la loi du 8 juin 1999 relative aux régimes complémentaires de pension, jusqu’à concurrence d’un montant de 1.200 euros par an.
 
 #### Chapitre 3 Déduction de l’excédent de frais de déplacement, de frais d’obtention autres que frais de déplacement, de dépenses spéciales, de l’abattement pour charges extraordinaires, ainsi que de l’inscription des crédits d’impôt
 
 ## 1 . Principe
+
+- Déduction d’office de l’excédent de frais de déplacement
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -106,20 +108,24 @@ Le bureau RTS compétent porte d’office sur les fiches de retenue d’impôt l
 
 Les dispositions de l’alinéa 1er ne sont pas applicables dans les cas suivants:
 
-1. cumul par le salarié d’emplois auprès de différents employeurs;
+- cumul par le salarié d’emplois auprès de différents employeurs;
 
-2. simultanéité de différents lieux de travail par un salarié auprès d’un même employeur;
+- simultanéité de différents lieux de travail par un salarié auprès d’un même employeur;
 
-3. situations spéciales où, notamment par suite de données insuffisantes, le bureau RTS n’est pas en mesure de déterminer d’office l’excédent pour frais de déplacement. En vue de l’application de la phrase qui précède dans le chef d’époux salariés imposés collectivement, les cas visés sub 1, 2 et 3 sont à considérer individuellement pour chaque époux.
+- situations spéciales où, notamment par suite de données insuffisantes, le bureau RTS n’est pas en mesure de déterminer d’office l’excédent pour frais de déplacement. En vue de l’application de la phrase qui précède dans le chef d’époux salariés imposés collectivement, les cas visés sub 1, 2 et 3 sont à considérer individuellement pour chaque époux.
 
 (3)
 
 Dans les cas visés à l’alinéa 2 l’excédent pour frais de déplacement est pris en considération comme il est précisé à l’article 5 ci-après.
 
+- Déduction sur demande de l’excédent pour frais de déplacement, de frais d’obtention autres que frais de déplacement, de dépenses spéciales et de l’abattement pour charges extraordinaires
+
 <a id="art-5"></a>
 ## Art. 5.
 
 Le salarié ou le pensionné qui fait valoir un excédent pour frais de déplacement au sens de l’article 4, alinéa 2, de frais d’obtention autres que frais de déplacement, de dépenses spéciales ou qui demande un abattement pour charges extraordinaires, doit en demander la prise en considération auprès du bureau RTS compétent.
+
+- Fonctions des déductions inscrites sur la fiche de retenue d’impôt
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -160,6 +166,8 @@ Si, lors de la demande, le montant définitif des frais, dépenses et charges en
 (6)
 
 Le contribuable est tenu de prouver ou de rendre au moins crédible la réalité des frais, charges et dépenses exposés.
+
+- Excédent pour frais de déplacement
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -210,6 +218,8 @@ Les frais de déplacement font l’objet, sur la fiche de retenue, d’une inscr
 
 En cas de modification de la situation du contribuable par suite de changement de son domicile ou de son lieu de travail, la nouvelle situation n’est prise en considération que s’il en résulte un accroissement du nombre des unités d’éloignement. Dans ce cas, la modification de la déduction forfaitaire prend effet à partir du début du mois où intervient l’événement de changement de la situation.
 
+- Déduction applicable aux salariés invalides et infirmes bénéficiant d’un forfait majoré pour frais d’obtention
+
 <a id="art-9"></a>
 ## Art. 9.
 
@@ -217,13 +227,15 @@ En cas de modification de la situation du contribuable par suite de changement d
 
 Les salariés invalides ou infirmes qui ont droit au minimum forfaitaire majoré prévu par le règlement grand-ducal portant exécution de l’article 107, alinéa 7 de la loi, obtiennent sur demande et dans les conditions fixées au règlement précité, l’inscription, sur leur fiche de retenue, d’une déduction pour frais d’obtention (code FO) correspondant, selon les tableaux ci-après au degré de leur incapacité de travail:
 
-1. Salariés autres que ceux sub 2° ci-dessous Degré d’incapacité de travail Déduction en euros par an par mois par jour de 25% à moins de 35% 105 8,75 0,35 de 35% à moins de 45% 135 11,25 0,45 de 45% à moins de 55% 240 20,00 0,80 de 55% à moins de 65% 285 23,75 0,95 de 65% à moins de 75% 345 28,75 1,15 de 75% à moins de 85% 390 32,50 1,30 de 85% à moins de 95% 420 35,00 1,40 de 95% à 100% 480 40,00 1,60
+- Salariés autres que ceux sub 2° ci-dessous Degré d’incapacité de travail Déduction en euros par an par mois par jour de 25% à moins de 35% 105 8,75 0,35 de 35% à moins de 45% 135 11,25 0,45 de 45% à moins de 55% 240 20,00 0,80 de 55% à moins de 65% 285 23,75 0,95 de 65% à moins de 75% 345 28,75 1,15 de 75% à moins de 85% 390 32,50 1,30 de 85% à moins de 95% 420 35,00 1,40 de 95% à 100% 480 40,00 1,60
 
-2. Salariés dont la vision centrale est nulle ou inférieure à 1/20 e de la normale ou qui se trouvent dans un état d’impotence tel qu’ils ne peuvent subsister sans l’assistance et les soins d’autrui. Déduction en euros par an par mois par jour 975 81,25 3,25
+- Salariés dont la vision centrale est nulle ou inférieure à 1/20 e de la normale ou qui se trouvent dans un état d’impotence tel qu’ils ne peuvent subsister sans l’assistance et les soins d’autrui. Déduction en euros par an par mois par jour 975 81,25 3,25
 
 (2)
 
 La déduction suivant les tableaux qui précèdent exclut toute autre mise en compte de frais d’obtention en rapport direct avec l’état d’invalidité ou d’infirmité. Elle peut toutefois être cumulée avec un excédent de frais d’obtention lorsque ces derniers ne sont pas en rapport direct avec l’état d’invalidité ou d’infirmité.
+
+- Excédent pour dépenses spéciales
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -232,22 +244,26 @@ La déduction suivant les tableaux qui précèdent exclut toute autre mise en co
 
 Le salarié ou le pensionné obtient sur demande et dans les conditions fixées par les dispositions légales, une déduction pour excédent de dépenses spéciales (code DS), dans la mesure où les dépenses mentionnées ci-après dépassent le minimum forfaitaire prévu à ce titre par l’article 113 de la loi:
 
-1. les arrérages de rentes et de charges permanentes visés à l’article 109, alinéa 1 er , numéro 1 de la loi ;
+- les arrérages de rentes et de charges permanentes visés à l’article 109, alinéa 1 er , numéro 1 de la loi ;
 
-2. les intérêts débiteurs visés à l’article 109, alinéa 1 er , numéro 1a de la loi ;
+- les intérêts débiteurs visés à l’article 109, alinéa 1 er , numéro 1a de la loi ;
 
-3. les cotisations et primes d’assurances visées à l’article 109, alinéa 1 er , numéro 2 de la loi , dans la mesure où les cotisations en cause ne sont pas déjà prises en compte par l’employeur ou la caisse de pension en vertu de l’article 3 du présent règlement. En ce qui concerne les primes versées au titre d’un contrat de prévoyance-vieillesse au sens de l’article 111bis L.I.R. , elles ne sont prises en considération que sur présentation des pièces justificatives;
+- les cotisations et primes d’assurances visées à l’article 109, alinéa 1 er , numéro 2 de la loi , dans la mesure où les cotisations en cause ne sont pas déjà prises en compte par l’employeur ou la caisse de pension en vertu de l’article 3 du présent règlement. En ce qui concerne les primes versées au titre d’un contrat de prévoyance-vieillesse au sens de l’article 111bis L.I.R. , elles ne sont prises en considération que sur présentation des pièces justificatives;
 
-4. les rentes versées au conjoint divorcé visées à l’article 109bis de la loi .
+- les rentes versées au conjoint divorcé visées à l’article 109bis de la loi .
 
 (2)
 
 En application de l’article 2 du règlement grand-ducal portant exécution de l’article 112, alinéa 2 de la loi, les dons en espèces visés aux numéros 1er et 2 de l’alinéa 1er dudit article, ne sont pris en considération que dans le cadre du décompte annuel prévu par l’article 145 de la loi.
 
+- c bis) Abattement de maintien dans la vie professionnelle
+
 <a id="art-10bis"></a>
 ## Art. 10bis.
 
 Les salariés obtiennent sur demande et dans les conditions fixées par les dispositions légales un abattement de maintien dans la vie professionnelle (code MVP) en application de l’article 129g de la loi .
+
+- Abattement pour charges extraordinaires
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -272,13 +288,15 @@ Pour la détermination de l’abattement pour charges extraordinaires du chef de
 
 Le salarié ou pensionné invalide ou infirme qui a droit à l’abattement forfaitaire prévu par le règlement grand-ducal portant exécution de l’article 127, alinéa 6 de la loi, obtient sur demande et dans les conditions fixées au règlement précité, l’inscription, sur sa fiche de retenue, d’une déduction correspondant, selon les tableaux ci-après au degré de son incapacité de travail et à la catégorie de revenu auquel elle s’applique:
 
-1. Salariés et pensionnés résidents, à l’exclusion de ceux visés sub 2° Degré d’incapacité de travail Déduction en euros par an par mois par jour de 25% à moins de 35% 150 12,50 0,50 de 35% à moins de 45% 225 18,75 0,75 de 45% à moins de 55% 375 31,25 1,25 de 55% à moins de 65% 450 37,50 1,50 de 65% à moins de 75% 525 43,75 1,75 de 75% à moins de 85% 585 48,75 1,95 de 85% à moins de 95% 645 53,75 2,15 de 95% à 100% 735 61,25 2,45
+- Salariés et pensionnés résidents, à l’exclusion de ceux visés sub 2° Degré d’incapacité de travail Déduction en euros par an par mois par jour de 25% à moins de 35% 150 12,50 0,50 de 35% à moins de 45% 225 18,75 0,75 de 45% à moins de 55% 375 31,25 1,25 de 55% à moins de 65% 450 37,50 1,50 de 65% à moins de 75% 525 43,75 1,75 de 75% à moins de 85% 585 48,75 1,95 de 85% à moins de 95% 645 53,75 2,15 de 95% à 100% 735 61,25 2,45
 
-2. Salariés et pensionnés résidents dont la vision centrale est nulle ou inférieure à 1/20 e de la normale ou qui se trouvent dans un état d’impotence tel qu’ils ne peuvent subsister sans l’assistance et les soins d’autrui Déduction en euros par an par mois par jour 1.455 131,25 4,85
+- Salariés et pensionnés résidents dont la vision centrale est nulle ou inférieure à 1/20 e de la normale ou qui se trouvent dans un état d’impotence tel qu’ils ne peuvent subsister sans l’assistance et les soins d’autrui Déduction en euros par an par mois par jour 1.455 131,25 4,85
 
 (6)
 
 Les déductions des tableaux qui précèdent excluent toute autre mise en compte de charges extraordinaires en rapport direct avec l’état d’invalidité ou d’infirmité. Elles peuvent toutefois être cumulées avec un abattement pour charges extraordinaires, lorsque ces dernières ne sont pas en rapport direct avec l’état d’invalidité ou d’infirmité.
+
+- Inscription et imputation des crédits d’impôt
 
 <a id="art-12"></a>
 ## Art. 12.

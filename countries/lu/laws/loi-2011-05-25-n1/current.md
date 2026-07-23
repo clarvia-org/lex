@@ -48,17 +48,17 @@ Le droit de chasse est un accessoire indissociable du droit de propriété porta
 
 Pour l'application de la présente loi, l'on entend par:
 
-1. administration: l'Administration de la nature et des forêts;
+- administration: l'Administration de la nature et des forêts;
 
-2. agents de l'administration: les fonctionnaires de l'administration de la carrière de l'ingénieur, du préposé de la nature et des forêts et du cantonnier;
+- agents de l'administration: les fonctionnaires de l'administration de la carrière de l'ingénieur, du préposé de la nature et des forêts et du cantonnier;
 
-3. caution: notion collective qui couvre à la fois la caution, le cautionnement ou la garantie établi par un établissement bancaire agréé sur le territoire communautaire, fourni en application de l'article 34 par le locataire en garantie du paiement du loyer et du droit spécial;
+- caution: notion collective qui couvre à la fois la caution, le cautionnement ou la garantie établi par un établissement bancaire agréé sur le territoire communautaire, fourni en application de l'article 34 par le locataire en garantie du paiement du loyer et du droit spécial;
 
-4. fonds non bâti: propriété non bâtie, rurale ou forestière;
+- fonds non bâti: propriété non bâtie, rurale ou forestière;
 
-5. fonds retiré: fonds non bâti appartenant à un propriétaire opposant éthique à la pratique de la chasse qui a notifié sa décision de ne pas faire partie du syndicat de chasse et sur les fonds duquel l'exercice du droit de chasse est suspendu pendant la durée du bail de chasse;
+- fonds retiré: fonds non bâti appartenant à un propriétaire opposant éthique à la pratique de la chasse qui a notifié sa décision de ne pas faire partie du syndicat de chasse et sur les fonds duquel l'exercice du droit de chasse est suspendu pendant la durée du bail de chasse;
 
-6. ministre: le membre du gouvernement ayant dans ses attributions la chasse.
+- ministre: le membre du gouvernement ayant dans ses attributions la chasse.
 
 ##### Chapitre 3. L'exercice du droit de chasse
 
@@ -85,11 +85,11 @@ Le droit de chasse ne peut être exercé que sur les fonds où le détenteur du 
 
 L'exercice du droit de chasse est interdit:
 
-1. dans les enclos à gibier, sans préjudice des dispositions réglementaires autorisant l'abattage par leur détenteur d'animaux classés gibier, lorsque cette détention a été autorisée conformément à la législation afférente;
+- dans les enclos à gibier, sans préjudice des dispositions réglementaires autorisant l'abattage par leur détenteur d'animaux classés gibier, lorsque cette détention a été autorisée conformément à la législation afférente;
 
-2. dans les parcs, jardins et potagers attenant aux immeubles habités de façon permanente, ainsi que dans les infrastructures de sport;
+- dans les parcs, jardins et potagers attenant aux immeubles habités de façon permanente, ainsi que dans les infrastructures de sport;
 
-3. sur les routes nationales, la voirie reprise par l'Etat et les voies ferrées.
+- sur les routes nationales, la voirie reprise par l'Etat et les voies ferrées.
 
 L'exercice du droit de chasse est suspendu sur les fonds appartenant à des personnes qui pour des convictions éthiques personnelles sont opposées à la pratique de la chasse et qui ont notifié une déclaration écrite et motivée conformément aux dispositions de l'article 24 de la présente loi.
 
@@ -355,11 +355,11 @@ Le collège des syndics signe le contrat de location avec le locataire et veille
 
 Pour pouvoir se porter locataire d'un lot de chasse, soit par adjudication publique, soit par prorogation du bail de chasse en cours, il faut remplir les conditions suivantes:
 
-1. être une personne physique;
+- être une personne physique;
 
-2. posséder un permis de chasser annuel luxembourgeois valable;
+- posséder un permis de chasser annuel luxembourgeois valable;
 
-3. fournir caution pour garantir le paiement du loyer et du droit spécial pour toute la durée du bail.
+- fournir caution pour garantir le paiement du loyer et du droit spécial pour toute la durée du bail.
 
 La caution est tenue solidairement avec le locataire de l'exécution de toutes les clauses, conditions et charges du contrat de location.
 
@@ -609,20 +609,20 @@ Un règlement grand-ducal fixe les matières et les modalités de l'organisation
 
 Le ministre peut assimiler au certificat luxembourgeois d'aptitude à la chasse nécessaire à la délivrance d'un permis annuel luxembourgeois conformément à l'article 63, les certificats délivrés par une autorité étrangère si les conditions suivantes sont réalisées:
 
-1. le détenteur du certificat étranger s'est soumis à des épreuves similaires à celles que comporte l'examen luxembourgeois;
+- le détenteur du certificat étranger s'est soumis à des épreuves similaires à celles que comporte l'examen luxembourgeois;
 
-2. le pays qui a délivré le certificat reconnaît l'équivalence du certificat luxembourgeois d'aptitude à la chasse, certificat donnant droit à la délivrance d'un permis de chasser dans ce pays.
+- le pays qui a délivré le certificat reconnaît l'équivalence du certificat luxembourgeois d'aptitude à la chasse, certificat donnant droit à la délivrance d'un permis de chasser dans ce pays.
 
 <a id="art-61"></a>
 ## Art. 61.
 
 Il y a trois catégories de permis de chasser, à savoir:
 
-1. le permis annuel
+- le permis annuel
 
-2. le permis de trois jours, appelé permis d'invité
+- le permis de trois jours, appelé permis d'invité
 
-3. le permis de service.
+- le permis de service.
 
 <a id="art-62"></a>
 ## Art. 62.
@@ -640,11 +640,11 @@ Le permis d'invité est valable pour trois jours consécutifs.
 
 Le permis annuel est délivré sur production:
 
-1. d'un extrait récent du casier judiciaire;
+- d'un extrait récent du casier judiciaire;
 
-2. d'une attestation d'assurance conforme aux dispositions de l'article 66;
+- d'une attestation d'assurance conforme aux dispositions de l'article 66;
 
-3. d'une quittance attestant le paiement entre les mains d'un receveur de l'administration de l'enregistrement et des domaines des droits prévus par les lois et règlements en vigueur, et notamment par l'article 67.
+- d'une quittance attestant le paiement entre les mains d'un receveur de l'administration de l'enregistrement et des domaines des droits prévus par les lois et règlements en vigueur, et notamment par l'article 67.
 
 A la demande du premier permis annuel, doit en outre être joint un certificat d'aptitude à la chasse valable délivré conformément à l'article 59 ou une justification d'équivalence conformément à l'article 60.
 
@@ -657,11 +657,11 @@ Sur demande écrite d'une personne résidant à l'étranger et détentrice d'un 
 
 Le permis d'invité est délivré sur production:
 
-1. d'une attestation d'assurance par la compagnie d'assurance du demandeur qui doit avoir son siège social dans un Etat membre de l'Union européenne conforme aux dispositions de l'article 66 et couvrant le territoire national;
+- d'une attestation d'assurance par la compagnie d'assurance du demandeur qui doit avoir son siège social dans un Etat membre de l'Union européenne conforme aux dispositions de l'article 66 et couvrant le territoire national;
 
-2. d'une quittance attestant le paiement entre les mains d'un receveur de l'administration de l'enregistrement et des domaines des droits prévus par les lois et règlements en vigueur, et notamment par l'article 67; et
+- d'une quittance attestant le paiement entre les mains d'un receveur de l'administration de l'enregistrement et des domaines des droits prévus par les lois et règlements en vigueur, et notamment par l'article 67; et
 
-3. d'une copie conforme du permis de chasser étranger valide de l'invité pour la période pour laquelle le permis d'invité est demandé.
+- d'une copie conforme du permis de chasser étranger valide de l'invité pour la période pour laquelle le permis d'invité est demandé.
 
 Les permis d'invité sont valables sur tout le territoire du pays pour les lots de chasse où l'intéressé est invité à chasser. Par année cynégétique, la durée maximale des permis d'invité délivrés à la même personne résidant à l'étranger ne peut dépasser les douze jours. Pour un même lot de chasse, il ne peut être demandé plus de dix permis d'invité par année cynégétique.
 
@@ -705,30 +705,30 @@ Les montants du droit d'enregistrement et du droit supplémentaire sont fixés p
 
 Le ministre refuse ou retire le permis:
 
-1. à toute personne à laquelle l'autorisation de port d'arme a été refusée ou retirée;
+- à toute personne à laquelle l'autorisation de port d'arme a été refusée ou retirée;
 
-2. à toute personne condamnée irrévocablement à une peine de prison de neuf mois au moins pour une infraction à la présente loi, pour une infraction à la législation concernant la protection de la nature, la protection des bois, la protection des oiseaux ou la protection de la vie et du bien-être des animaux;
+- à toute personne condamnée irrévocablement à une peine de prison de neuf mois au moins pour une infraction à la présente loi, pour une infraction à la législation concernant la protection de la nature, la protection des bois, la protection des oiseaux ou la protection de la vie et du bien-être des animaux;
 
-3. à toute personne qui n'a pas exécuté les condamnations définitivement prononcées contre elle pour un des délits prévus par la présente loi;
+- à toute personne qui n'a pas exécuté les condamnations définitivement prononcées contre elle pour un des délits prévus par la présente loi;
 
-4. à toute personne qui pour des convictions éthiques personnelles a demandé le retrait du syndicat de chasse.
+- à toute personne qui pour des convictions éthiques personnelles a demandé le retrait du syndicat de chasse.
 
 <a id="art-69"></a>
 ## Art. 69.
 
 Le ministre peut encore refuser ou retirer le permis:
 
-1. à toute personne condamnée irrévocablement à une peine correctionnelle pour infraction à la présente loi et ses règlements d'exécution;
+- à toute personne condamnée irrévocablement à une peine correctionnelle pour infraction à la présente loi et ses règlements d'exécution;
 
-2. à toute personne qui a refusé de présenter son permis de chasser aux agents assermentés chargés de la police de la chasse;
+- à toute personne qui a refusé de présenter son permis de chasser aux agents assermentés chargés de la police de la chasse;
 
-3. à toute personne qui a tiré ou blessé des animaux non classés gibier, qui a chassé pendant la période de fermeture de la chasse ou qui a chassé avec une arme sur des terrains où elle n'a pas le droit de chasser;
+- à toute personne qui a tiré ou blessé des animaux non classés gibier, qui a chassé pendant la période de fermeture de la chasse ou qui a chassé avec une arme sur des terrains où elle n'a pas le droit de chasser;
 
-4. à toute personne qui s'est approprié, a mis en vente, recelé, acquis, détenu ou aidé à écouler des animaux braconnés ou tués pendant une période où la chasse était fermée;
+- à toute personne qui s'est approprié, a mis en vente, recelé, acquis, détenu ou aidé à écouler des animaux braconnés ou tués pendant une période où la chasse était fermée;
 
-5. à toute personne qui a exercé la chasse selon un mode ou à l'aide d'un procédé de chasse prohibé;
+- à toute personne qui a exercé la chasse selon un mode ou à l'aide d'un procédé de chasse prohibé;
 
-6. à toute personne dont la mauvaise conduite, l'état mental ou les antécédents laissent supposer qu'elle fera un mauvais usage de son arme.
+- à toute personne dont la mauvaise conduite, l'état mental ou les antécédents laissent supposer qu'elle fera un mauvais usage de son arme.
 
 <a id="art-70"></a>
 ## Art. 70.
@@ -785,30 +785,30 @@ Est puni d'une peine d'emprisonnement de huit jours à six mois et d'une amende 
 
 Ces peines peuvent être portées jusqu'à un emprisonnement de deux ans et jusqu'à une amende de 30.000 euros lorsque les infractions ont été commises dans une des circonstances suivantes:
 
-1. pendant la nuit en temps prohibé;
+- pendant la nuit en temps prohibé;
 
-2. sur un terrain sur lequel l'exercice de la chasse est interdit ou suspendu, lorsque ce terrain est immédiatement attenant à une maison habitée ou servant d'habitation;
+- sur un terrain sur lequel l'exercice de la chasse est interdit ou suspendu, lorsque ce terrain est immédiatement attenant à une maison habitée ou servant d'habitation;
 
-3. à l'aide d'engins et d'instruments prohibés ou d'autres moyens que ceux autorisés ou en employant des drogues et appâts de nature à enivrer le gibier ou à le détruire;
+- à l'aide d'engins et d'instruments prohibés ou d'autres moyens que ceux autorisés ou en employant des drogues et appâts de nature à enivrer le gibier ou à le détruire;
 
-4. lorsque l'auteur de l'infraction était masqué;
+- lorsque l'auteur de l'infraction était masqué;
 
-5. lorsque l'auteur de l'infraction a pris une fausse identité.
+- lorsque l'auteur de l'infraction a pris une fausse identité.
 
 <a id="art-75"></a>
 ## Art. 75.
 
 Est puni d'une amende de 25 à 250 euros:
 
-1. toute personne qui n'est pas en mesure d'exhiber son permis de chasser ou autorisation de port d'armes aux agents chargés du contrôle de la chasse;
+- toute personne qui n'est pas en mesure d'exhiber son permis de chasser ou autorisation de port d'armes aux agents chargés du contrôle de la chasse;
 
-2. sans préjudice des dispositions de l'article 14, toute personne qui, munie d'une arme, a traversé autrement que par la voie publique des terrains où elle n'a pas le droit de chasse;
+- sans préjudice des dispositions de l'article 14, toute personne qui, munie d'une arme, a traversé autrement que par la voie publique des terrains où elle n'a pas le droit de chasse;
 
-3. le locataire qui reste en défaut de prouver la disponibilité d'un chien de sang en application de l'article 14;
+- le locataire qui reste en défaut de prouver la disponibilité d'un chien de sang en application de l'article 14;
 
-4. toute personne qui enfreint l'article 12 et son règlement d'exécution;
+- toute personne qui enfreint l'article 12 et son règlement d'exécution;
 
-5. toute personne qui enfreint les dispositions du règlement grand-ducal pris en exécution de l'article 10, alinéa 4 visant l'emploi du chien de chasse.
+- toute personne qui enfreint les dispositions du règlement grand-ducal pris en exécution de l'article 10, alinéa 4 visant l'emploi du chien de chasse.
 
 <a id="art-76"></a>
 ## Art. 76.
@@ -859,13 +859,13 @@ En aucun cas, les associations agréées ne peuvent poursuivre l'exécution du j
 
 Il est institué un conseil supérieur de la chasse qui a pour mission:
 
-1. d'adresser de son initiative des propositions au ministre en matière de chasse;
+- d'adresser de son initiative des propositions au ministre en matière de chasse;
 
-2. de donner son avis sur toutes les questions et tous les projets que le ministre juge utile de lui soumettre;
+- de donner son avis sur toutes les questions et tous les projets que le ministre juge utile de lui soumettre;
 
-3. de donner son avis sur tous les problèmes ayant trait à la chasse qui lui sont présentés par son président ou par la majorité de ses membres;
+- de donner son avis sur tous les problèmes ayant trait à la chasse qui lui sont présentés par son président ou par la majorité de ses membres;
 
-4. d'étudier les mesures législatives et réglementaires à prendre pour améliorer les conditions d'exercice de la chasse.
+- d'étudier les mesures législatives et réglementaires à prendre pour améliorer les conditions d'exercice de la chasse.
 
 Le conseil supérieur est composé comme suit:
 
@@ -977,9 +977,9 @@ Les plans pour la chasse aux espèces cerf et chevreuil arrêtés par le ministr
 
 (3)
 
-1. Par dérogation à l'article 22, les propriétaires des fonds non bâtis et non retirés sis dans un district de chasse tel que défini à l'article 1 er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier restent constitués en syndicat de chasse jusqu'à ce que les dispositions sous (8) prennent effet. Les collèges des syndics élus avant l'entrée en vigueur de la présente loi restent en fonction jusqu'à l'expiration normale de leur mandat.
+- Par dérogation à l'article 22, les propriétaires des fonds non bâtis et non retirés sis dans un district de chasse tel que défini à l'article 1 er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier restent constitués en syndicat de chasse jusqu'à ce que les dispositions sous (8) prennent effet. Les collèges des syndics élus avant l'entrée en vigueur de la présente loi restent en fonction jusqu'à l'expiration normale de leur mandat.
 
-2. Par dérogation à l'article 21, les lots de chasse actuels, tels qu'ils ont été délimités avant l'entrée en vigueur de la présente loi, sont maintenus pour la prochaine période de location du droit de chasse, quelque soit leur contenance. En cas de relotissement avant la prochaine période de location, la procédure prévue à l'article 1 er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier reste applicable. Néanmoins, les fonds exclus du district de chasse conformément à l'article 2, alinéa 1 er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier au moment de l'entrée en vigueur de la présente loi seront incorporés aux lots de chasse, à l'intérieur desquels ils se trouvent, et ce à partir de la prochaine période de location du droit de chasse.
+- Par dérogation à l'article 21, les lots de chasse actuels, tels qu'ils ont été délimités avant l'entrée en vigueur de la présente loi, sont maintenus pour la prochaine période de location du droit de chasse, quelque soit leur contenance. En cas de relotissement avant la prochaine période de location, la procédure prévue à l'article 1 er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier reste applicable. Néanmoins, les fonds exclus du district de chasse conformément à l'article 2, alinéa 1 er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier au moment de l'entrée en vigueur de la présente loi seront incorporés aux lots de chasse, à l'intérieur desquels ils se trouvent, et ce à partir de la prochaine période de location du droit de chasse.
 
 (4)
 
@@ -1003,25 +1003,25 @@ Par dérogation à l'article 26, le mandat du prochain collège des syndics comm
 
 Les dispositions suivantes s'appliquent pour la première fois à partir de la procédure de convocation des prochaines assemblées générales décidant sur le mode de location du droit de chasse:
 
-1. formalités de convocation de l'assemblée générale selon l'article 23, sans préjudice du délai de la tenue de l'assemblée générale tel que fixé au paragraphe (5) du présent article;
+- formalités de convocation de l'assemblée générale selon l'article 23, sans préjudice du délai de la tenue de l'assemblée générale tel que fixé au paragraphe (5) du présent article;
 
-2. exercice du droit de vote, objet du vote lors de l'assemblée générale selon les dispositions des articles 25 et 30, sans préjudice de la durée de la location telle que fixée par le paragraphe (4) du présent article;
+- exercice du droit de vote, objet du vote lors de l'assemblée générale selon les dispositions des articles 25 et 30, sans préjudice de la durée de la location telle que fixée par le paragraphe (4) du présent article;
 
-3. élections, mode de fonctionnement et pouvoir du collège des syndics selon les dispositions des articles 27, 28, 29 et 33 ainsi que des articles 31 et 32 alinéa 1 er , sans préjudice des dispositions transitoires s'appliquant aux délais visant la cession du droit de chasse par le collège des syndics;
+- élections, mode de fonctionnement et pouvoir du collège des syndics selon les dispositions des articles 27, 28, 29 et 33 ainsi que des articles 31 et 32 alinéa 1 er , sans préjudice des dispositions transitoires s'appliquant aux délais visant la cession du droit de chasse par le collège des syndics;
 
-4. les conditions nécessaires pour devenir locataire ou colocataire de chasse selon les dispositions des articles 34 et 36 à 41;
+- les conditions nécessaires pour devenir locataire ou colocataire de chasse selon les dispositions des articles 34 et 36 à 41;
 
-5. le paiement par le locataire et la répartition aux propriétaires intéressés du prix de location, ainsi que le contrôle y afférent selon les dispositions des articles 42 et 43;
+- le paiement par le locataire et la répartition aux propriétaires intéressés du prix de location, ainsi que le contrôle y afférent selon les dispositions des articles 42 et 43;
 
-6. la location d'un lot par l'Etat et les communes en application de l'article 35.
+- la location d'un lot par l'Etat et les communes en application de l'article 35.
 
 (8)
 
 Les baux qui seront conclus pour la période allant du 1er avril 2021 au 31 mars 2030 doivent passer par une adjudication publique. Les dispositions suivantes sont applicables:
 
-1. par dérogation à l'article 23, la convocation à la première assemblée générale des syndicats nouvellement constitués selon l'article 22 se fera par l'administration;
+- par dérogation à l'article 23, la convocation à la première assemblée générale des syndicats nouvellement constitués selon l'article 22 se fera par l'administration;
 
-2. les anciens syndicats composés des propriétaires des fonds non bâtis et non retirés sis dans un district de chasse tel que défini à l'article 1 er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier sont dissous avec effet au 31 mars 2021. Les collèges des syndics représentant les anciens syndicats et dont le mandat se termine le 31 mars 2021 conformément à l'article 88(6) agissent comme liquidateurs. Le boni de liquidation sera versé au fonds spécial d'indemnisation des dégâts causés par le gibier au plus tard le 31 décembre 2021. Le rapport de liquidation fera l'objet d'une publication conformément à l'article 43. Une copie du rapport sera notifiée au commissaire de district. Les dispositions visant le contrôle et les recours prévus à l'article 43 s'appliqueront le cas échéant.
+- les anciens syndicats composés des propriétaires des fonds non bâtis et non retirés sis dans un district de chasse tel que défini à l'article 1 er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier sont dissous avec effet au 31 mars 2021. Les collèges des syndics représentant les anciens syndicats et dont le mandat se termine le 31 mars 2021 conformément à l'article 88(6) agissent comme liquidateurs. Le boni de liquidation sera versé au fonds spécial d'indemnisation des dégâts causés par le gibier au plus tard le 31 décembre 2021. Le rapport de liquidation fera l'objet d'une publication conformément à l'article 43. Une copie du rapport sera notifiée au commissaire de district. Les dispositions visant le contrôle et les recours prévus à l'article 43 s'appliqueront le cas échéant.
 
 (9)
 

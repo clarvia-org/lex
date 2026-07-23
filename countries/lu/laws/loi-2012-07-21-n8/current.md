@@ -64,17 +64,17 @@ Il est institué un comité de coordination au Sportlycée.
 
 Il a pour mission:
 
-1. de proposer les orientations spécifiques du Sportlycée;
+- de proposer les orientations spécifiques du Sportlycée;
 
-2. d'émettre des avis et de réaliser des études sur le fonctionnement et le développement du Sportlycée soit à sa propre initiative, soit à la demande d'un des ministres ayant respectivement l'Éducation nationale ou le Sport dans leurs attributions;
+- d'émettre des avis et de réaliser des études sur le fonctionnement et le développement du Sportlycée soit à sa propre initiative, soit à la demande d'un des ministres ayant respectivement l'Éducation nationale ou le Sport dans leurs attributions;
 
-3. d'aviser les conventions à conclure avec les fédérations sportives et de veiller à leur respect;
+- d'aviser les conventions à conclure avec les fédérations sportives et de veiller à leur respect;
 
-4. de procéder à l'inscription des élèves au Sportlycée conformément aux dispositions prévues à l'article 11 ci-dessous;
+- de procéder à l'inscription des élèves au Sportlycée conformément aux dispositions prévues à l'article 11 ci-dessous;
 
-5. de suivre la charge globale des élèves, comprenant la charge scolaire et la charge sportive;
+- de suivre la charge globale des élèves, comprenant la charge scolaire et la charge sportive;
 
-6. d'aviser les coopérations visées à l'article 5.
+- d'aviser les coopérations visées à l'article 5.
 
 (2)
 
@@ -100,9 +100,9 @@ Pour l'accomplissement des missions du Sportlycée, des conventions peuvent êtr
 
 L'offre scolaire comporte:
 
-1. le cycle inférieur de l'enseignement secondaire technique;
+- le cycle inférieur de l'enseignement secondaire technique;
 
-2. la division inférieure et la division supérieure de l'enseignement secondaire.
+- la division inférieure et la division supérieure de l'enseignement secondaire.
 
 Une coopération est mise en place avec un ou plusieurs lycées pour le cycle moyen et supérieur de l'enseignement secondaire technique.
 
@@ -111,17 +111,17 @@ Une coopération est mise en place avec un ou plusieurs lycées pour le cycle mo
 
 L'organisation scolaire comprend:
 
-1. des unités d'enseignement, y compris des unités d'éducation physique;
+- des unités d'enseignement, y compris des unités d'éducation physique;
 
-2. des plages horaires réservées à la préparation physique générale et à la préparation motrice générale;
+- des plages horaires réservées à la préparation physique générale et à la préparation motrice générale;
 
-3. des plages horaires réservées à l'entraînement fédéral;
+- des plages horaires réservées à l'entraînement fédéral;
 
-4. des plages horaires réservées aux études surveillées, aux cours d'appui et aux séances de rattrapage;
+- des plages horaires réservées aux études surveillées, aux cours d'appui et aux séances de rattrapage;
 
-5. un dispositif pédagogique qui prend en charge l'élève avant, pendant et après ses déplacements sportifs;
+- un dispositif pédagogique qui prend en charge l'élève avant, pendant et après ses déplacements sportifs;
 
-6. un tutorat des élèves.
+- un tutorat des élèves.
 
 L'organisation du volet enseignement est établie conformément aux dispositions de la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques, à l'exception des dispositions de l'article 37 concernant l'inscription.
 
@@ -132,28 +132,28 @@ L'organisation du volet enseignement est établie conformément aux dispositions
 
 L'organisation du volet sports comprend:
 
-1. la coordination du programme sportif prévu à l'article 9 de la présente loi qui est adapté aux besoins et capacités des élèves;
+- la coordination du programme sportif prévu à l'article 9 de la présente loi qui est adapté aux besoins et capacités des élèves;
 
-2. la coordination des centres de formation fédéraux en collaboration avec l'École nationale de l'Éducation physique et des Sports;
+- la coordination des centres de formation fédéraux en collaboration avec l'École nationale de l'Éducation physique et des Sports;
 
-3. la coordination de la charge sportive des élèves du Sportlycée et des élèves des centres de formation fédéraux en concertation avec l'organisme central du sport et les fédérations sportives concernées;
+- la coordination de la charge sportive des élèves du Sportlycée et des élèves des centres de formation fédéraux en concertation avec l'organisme central du sport et les fédérations sportives concernées;
 
-4. la planification de stages interfédéraux.
+- la planification de stages interfédéraux.
 
 <a id="art-9"></a>
 ## Art. 9.
 
 Le programme sportif se compose:
 
-1. de séances d'éducation physique et sportive;
+- de séances d'éducation physique et sportive;
 
-2. de cours de préparation physique générale et de préparation motrice générale;
+- de cours de préparation physique générale et de préparation motrice générale;
 
-3. de séances d'entraînement spécifiques;
+- de séances d'entraînement spécifiques;
 
-4. de compétitions et stages d'entraînement;
+- de compétitions et stages d'entraînement;
 
-5. d'un programme d'entraînement mental.
+- d'un programme d'entraînement mental.
 
 Les séances d'entraînement spécifiques ont lieu pendant des plages horaires réservées aux fédérations sportives. Elles se déroulent sous la responsabilité de celles-ci. Les entraîneurs fédéraux sont responsables de la gestion des programmes d'entraînement spécifique, des compétitions et des stages d'entraînement en concertation avec tous les autres intervenants.
 
@@ -162,17 +162,17 @@ Les séances d'entraînement spécifiques ont lieu pendant des plages horaires r
 
 Le Sportlycée organise et coordonne un dispositif de suivi individualisé de l'élève-sportif axé notamment sur:
 
-1. un encadrement médical et paramédical;
+- un encadrement médical et paramédical;
 
-2. la prévention des blessures et la réathlétisation;
+- la prévention des blessures et la réathlétisation;
 
-3. les valeurs éthiques, éducatives et psychosociales;
+- les valeurs éthiques, éducatives et psychosociales;
 
-4. la lutte antidopage;
+- la lutte antidopage;
 
-5. la mise en place d'un projet de vie pour chaque élève-sportif;
+- la mise en place d'un projet de vie pour chaque élève-sportif;
 
-6. la nutrition du sportif.
+- la nutrition du sportif.
 
 #### Chapitre IV. L'admission au Sportlycée
 
@@ -190,51 +190,51 @@ L'élève qui ne satisfait plus aux critères d'admission peut être obligé de 
 
 Le Gouvernement est autorisé à procéder aux engagements de renforcement à titre permanent suivants:
 
-1. Administration
+- Administration
 
-1. 1 rédacteur ou employé de l'État de la carrière D;
+  - 1 rédacteur ou employé de l'État de la carrière D;
 
-2. 1 bibliothécaire documentaliste;
+  - 1 bibliothécaire documentaliste;
 
-3. 2 éducateurs gradués;
+  - 2 éducateurs gradués;
 
-4. 1 éducateur;
+  - 1 éducateur;
 
-5. 1 concierge;
+  - 1 concierge;
 
-6. 1 garçon de salle;
+  - 1 garçon de salle;
 
-7. 1 expéditionnaire technique;
+  - 1 expéditionnaire technique;
 
-8. 2 ouvriers artisans;
+  - 2 ouvriers artisans;
 
-9. 2 aide-ouvriers.
+  - 2 aide-ouvriers.
 
-2. Internat
+- Internat
 
-1. 1 employé de l'État de la carrière D;
+  - 1 employé de l'État de la carrière D;
 
-2. 2 éducateurs gradués;
+  - 2 éducateurs gradués;
 
-3. 2 éducateurs;
+  - 2 éducateurs;
 
-4. 1 aide-ouvrier.
+  - 1 aide-ouvrier.
 
-3. Restaurant
+- Restaurant
 
-1. 2 cuisiniers;
+  - 2 cuisiniers;
 
-2. 2 aide-cuisiniers;
+  - 2 aide-cuisiniers;
 
-3. 4 aide-ouvriers.
+  - 4 aide-ouvriers.
 
-4. Pour les besoins spécifiques du volet sports
+- Pour les besoins spécifiques du volet sports
 
-1. 1 rédacteur ou employé de l'État de la carrière D;
+  - 1 rédacteur ou employé de l'État de la carrière D;
 
-2. 3 employés de l'État de la carrière S;
+  - 3 employés de l'État de la carrière S;
 
-3. 1 psychologue.
+  - 1 psychologue.
 
 Les engagements définitifs au service de l'État, résultant des dispositions du présent article, se font par dépassement de l'effectif total du personnel et en dehors du nombre des engagements de renforcement déterminé dans la loi du 17 décembre 2010 concernant le budget des recettes et des dépenses de l'État pour l'année 2011 et dans les lois budgétaires pour les exercices suivants.
 

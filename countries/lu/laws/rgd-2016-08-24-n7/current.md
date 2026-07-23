@@ -33,31 +33,31 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le personnel de la Caisse nationale de santé comprend:
 
-1. les titulaires de la fonction de président et de la fonction de premier conseiller de direction auprès de la Caisse nationale de santé qui en vertu de l'article 404 du Code de la sécurité sociale ont la qualité de fonctionnaire de l'Etat; les nominations à ces fonctions sont faites par le Grand-Duc. Leur situation est régie par les lois et les règlements concernant les fonctionnaires de l'Etat, ainsi que par l'article 4 du présent règlement;
+- les titulaires de la fonction de président et de la fonction de premier conseiller de direction auprès de la Caisse nationale de santé qui en vertu de l'article 404 du Code de la sécurité sociale ont la qualité de fonctionnaire de l'Etat; les nominations à ces fonctions sont faites par le Grand-Duc. Leur situation est régie par les lois et les règlements concernant les fonctionnaires de l'Etat, ainsi que par l'article 4 du présent règlement;
 
-2. les fonctionnaires assimilés aux fonctionnaires de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des fonctionnaires de l'Etat;
+- les fonctionnaires assimilés aux fonctionnaires de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des fonctionnaires de l'Etat;
 
-3. les employés assimilés aux employés de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des employés de l'Etat et
+- les employés assimilés aux employés de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des employés de l'Etat et
 
-4. les salariés assimilés aux salariés de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur situation est régie par le contrat collectif applicable aux salariés de l'Etat.
+- les salariés assimilés aux salariés de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur situation est régie par le contrat collectif applicable aux salariés de l'Etat.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 Le personnel de la Caisse de maladie des fonctionnaires et employés publics comprend:
 
-1. les fonctionnaires assimilés aux fonctionnaires de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des fonctionnaires de l'Etat et
+- les fonctionnaires assimilés aux fonctionnaires de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des fonctionnaires de l'Etat et
 
-2. les employés assimilés aux employés de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des employés de l'Etat.
+- les employés assimilés aux employés de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des employés de l'Etat.
 
 <a id="art-3"></a>
 ## Art. 3.
 
 Le personnel de la Caisse de maladie des fonctionnaires et employés communaux comprend:
 
-1. les fonctionnaires assimilés aux fonctionnaires de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des fonctionnaires de l'Etat et
+- les fonctionnaires assimilés aux fonctionnaires de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des fonctionnaires de l'Etat et
 
-2. les employés assimilés aux employés de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des employés de l'Etat.
+- les employés assimilés aux employés de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des employés de l'Etat.
 
 ##### Chapitre 2 Cadre du personnel
 
@@ -141,35 +141,35 @@ Pour l'application de l'article 16 de la loi modifiée du 25 mars 2015 fixant le
 
 L'application au personnel de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux des dispositions légales et réglementaires applicables au personnel des administrations et services de l'Etat se fait conformément aux dispositions suivantes:
 
-1. le terme «administration» désigne les institutions visées par le présent règlement;
+- le terme «administration» désigne les institutions visées par le présent règlement;
 
-2. les termes «au service de l'Etat» sont à remplacer par les termes «au service des institutions visées par le présent règlement»;
+- les termes «au service de l'Etat» sont à remplacer par les termes «au service des institutions visées par le présent règlement»;
 
-3. les termes «Etat luxembourgeois» sont à remplacer par les termes «une des institutions visées par le présent règlement»;
+- les termes «Etat luxembourgeois» sont à remplacer par les termes «une des institutions visées par le présent règlement»;
 
-4. les termes «fonctionnaires de l'Etat» sont à remplacer par les termes «fonctionnaires assimilés aux fonctionnaires de l'Etat»;
+- les termes «fonctionnaires de l'Etat» sont à remplacer par les termes «fonctionnaires assimilés aux fonctionnaires de l'Etat»;
 
-5. les termes «stagiaires-fonctionnaires» sont à remplacer par les termes «stagiaires-fonctionnaires assimilés aux fonctionnaires de l'Etat»;
+- les termes «stagiaires-fonctionnaires» sont à remplacer par les termes «stagiaires-fonctionnaires assimilés aux fonctionnaires de l'Etat»;
 
-6. les termes «employés de l'Etat» sont à remplacer par les termes «employés assimilés aux employés de l'Etat»;
+- les termes «employés de l'Etat» sont à remplacer par les termes «employés assimilés aux employés de l'Etat»;
 
-7. les termes «salariés de l'Etat» sont à remplacer par les termes «salariés assimilés aux salariés de l'Etat»;
+- les termes «salariés de l'Etat» sont à remplacer par les termes «salariés assimilés aux salariés de l'Etat»;
 
-8. sans préjudice des dispositions de l'article 1 er , point a) et des dispositions du présent article, les compétences dévolues au Grand-Duc, au Gouvernement, au Conseil de Gouvernement, au ministre du ressort et à l'autorité investie du pouvoir de nomination sont exercées par le comité directeur de l'institution concernée;
+- sans préjudice des dispositions de l'article 1 er , point a) et des dispositions du présent article, les compétences dévolues au Grand-Duc, au Gouvernement, au Conseil de Gouvernement, au ministre du ressort et à l'autorité investie du pouvoir de nomination sont exercées par le comité directeur de l'institution concernée;
 
-9. les compétences dévolues au ministre ayant dans ses attributions la Fonction publique par la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l'Etat, excepté celles concernant la commission d'appréciation des performances professionnelles, sont exercées par le comité directeur de l'institution concernée, l'avis du ministre du ressort n'étant pas requis;
+- les compétences dévolues au ministre ayant dans ses attributions la Fonction publique par la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l'Etat, excepté celles concernant la commission d'appréciation des performances professionnelles, sont exercées par le comité directeur de l'institution concernée, l'avis du ministre du ressort n'étant pas requis;
 
-10. les compétences dévolues au ministre ayant dans ses attributions la Fonction publique, autres que celles visées au point 9 concernant les employés de l'Etat et excepté celles concernant les examens-concours pour l'admission au stage, le changement d'administration et la commission d'appréciation des performances professionnelles, sont exercées par le ministre ayant dans ses attributions la Sécurité sociale;
+- les compétences dévolues au ministre ayant dans ses attributions la Fonction publique, autres que celles visées au point 9 concernant les employés de l'Etat et excepté celles concernant les examens-concours pour l'admission au stage, le changement d'administration et la commission d'appréciation des performances professionnelles, sont exercées par le ministre ayant dans ses attributions la Sécurité sociale;
 
-11. les attributions dévolues au chef d'administration sont exercées par le président de chacune des institutions visées par le présent règlement;
+- les attributions dévolues au chef d'administration sont exercées par le président de chacune des institutions visées par le présent règlement;
 
-12. pour l'application de la loi du 25 mars 2015 fixant les conditions et les modalités de l'accès du fonctionnaire à un groupe de traitement supérieur au sien et de l'employé de l'Etat à un groupe d'indemnité supérieur au sien, la commission de contrôle est instituée par le comité directeur auquel incombe la décision à intervenir;
+- pour l'application de la loi du 25 mars 2015 fixant les conditions et les modalités de l'accès du fonctionnaire à un groupe de traitement supérieur au sien et de l'employé de l'Etat à un groupe d'indemnité supérieur au sien, la commission de contrôle est instituée par le comité directeur auquel incombe la décision à intervenir;
 
-13. les compétences dévolues au membre du Gouvernement pour la saisine du commissaire du Gouvernement chargé de l'instruction disciplinaire conformément au paragraphe 2 de l'article 56 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat, sont exercées par le président de chacune des institutions visées par le présent règlement;
+- les compétences dévolues au membre du Gouvernement pour la saisine du commissaire du Gouvernement chargé de l'instruction disciplinaire conformément au paragraphe 2 de l'article 56 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat, sont exercées par le président de chacune des institutions visées par le présent règlement;
 
-14. par dérogation au point 10°, les fonctionnaires assimilés aux fonctionnaires de l'Etat adressent leur demande de changement d'administration, lorsque celle-ci a pour objet le changement d'une institution de sécurité sociale vers une autre institution de sécurité sociale, aux ministres du ressort des deux institutions concernées, qui accordent ou refusent le changement sur avis des présidents des deux institutions concernées;
+- par dérogation au point 10°, les fonctionnaires assimilés aux fonctionnaires de l'Etat adressent leur demande de changement d'administration, lorsque celle-ci a pour objet le changement d'une institution de sécurité sociale vers une autre institution de sécurité sociale, aux ministres du ressort des deux institutions concernées, qui accordent ou refusent le changement sur avis des présidents des deux institutions concernées;
 
-15. les compétences dévolues à l'Administration du personnel de l'Etat par l'article 76 de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois sont exercées par le comité directeur.
+- les compétences dévolues à l'Administration du personnel de l'Etat par l'article 76 de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois sont exercées par le comité directeur.
 
 ##### Chapitre 4 Engagement, avancements et cessation des fonctions
 
@@ -199,107 +199,107 @@ Pour chacun des examens visés par le présent règlement et afin de représente
 
 Les examens de fin de stage sanctionnant la formation spéciale des fonctionnaires assimilés aux fonctionnaires de l'Etat relevant des groupes de traitement A1 et A2 de la catégorie de traitement A portent sur les matières suivantes:
 
-1. Connaissances générales en matière de sécurité sociale, l'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (80 points);
+- Connaissances générales en matière de sécurité sociale, l'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (80 points);
 
-2. Travail de réflexion sur un sujet fixé par la commission d'examen (160 points).
+- Travail de réflexion sur un sujet fixé par la commission d'examen (160 points).
 
 <a id="art-12"></a>
 ## Art. 12.
 
 Les examens des fonctionnaires assimilés aux fonctionnaires de l'Etat relevant de la catégorie de traitement B, groupe de traitement B1 portent sur les matières suivantes:
 
-1. Examen de fin de stage sanctionnant la formation spéciale:
+- Examen de fin de stage sanctionnant la formation spéciale:
 
-1. Connaissances générales en matière de sécurité sociale (60 points);
+  - Connaissances générales en matière de sécurité sociale (60 points);
 
-2. L'organisation, les missions, les attributions et la gestion de Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (120 points);
+  - L'organisation, les missions, les attributions et la gestion de Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (120 points);
 
-3. Travail de rédaction administrative (60 points).
+  - Travail de rédaction administrative (60 points).
 
-2. Examen de promotion:
+- Examen de promotion:
 
-1. Travail de rédaction administrative (160 points);
+  - Travail de rédaction administrative (160 points);
 
-2. Gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (80 points).
+  - Gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (80 points).
 
 <a id="art-13"></a>
 ## Art. 13.
 
 Les examens des fonctionnaires assimilés aux fonctionnaires de l'Etat relevant de la catégorie de traitement C, groupe de traitement C1 portent sur les matières suivantes:
 
-1. Examen de fin de stage sanctionnant la formation spéciale:
+- Examen de fin de stage sanctionnant la formation spéciale:
 
-1. Connaissances générales en matière de sécurité sociale (80 points);
+  - Connaissances générales en matière de sécurité sociale (80 points);
 
-2. L'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (160 points).
+  - L'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (160 points).
 
-2. Examen de promotion:
+- Examen de promotion:
 
-1. L'organisation, les missions et les attributions de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (120 points);
+  - L'organisation, les missions et les attributions de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (120 points);
 
-2. La gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
+  - La gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
 
-3. Travail de rédaction administrative (60 points).
+  - Travail de rédaction administrative (60 points).
 
 <a id="art-14"></a>
 ## Art. 14.
 
 Les examens des fonctionnaires assimilés aux fonctionnaires de l'Etat relevant de la catégorie de traitement D portent sur les matières suivantes:
 
-1. Examen de fin de stage sanctionnant la formation spéciale dans le sous-groupe administratif du groupe de traitement D2:
+- Examen de fin de stage sanctionnant la formation spéciale dans le sous-groupe administratif du groupe de traitement D2:
 
-1. L'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
+  - L'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
 
-2. Sujet en relation avec les missions des candidats (60 points).
+  - Sujet en relation avec les missions des candidats (60 points).
 
-2. Examen de promotion dans le sous-groupe administratif du groupe de traitement D2:
+- Examen de promotion dans le sous-groupe administratif du groupe de traitement D2:
 
-1. L'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
+  - L'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
 
-2. Sujet en relation avec les missions des candidats (60 points).
+  - Sujet en relation avec les missions des candidats (60 points).
 
-3. Examen de fin de stage sanctionnant la formation spéciale dans le sous-groupe administratif du groupe de traitement D3:
+- Examen de fin de stage sanctionnant la formation spéciale dans le sous-groupe administratif du groupe de traitement D3:
 
-1. L'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
+  - L'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
 
-2. Sujet en relation avec les missions des candidats (60 points).
+  - Sujet en relation avec les missions des candidats (60 points).
 
-4. Examen de promotion dans le sous-groupe administratif du groupe de traitement D3:
+- Examen de promotion dans le sous-groupe administratif du groupe de traitement D3:
 
-1. L'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
+  - L'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
 
-2. Sujet en relation avec les missions des candidats (60 points).
+  - Sujet en relation avec les missions des candidats (60 points).
 
 <a id="art-15"></a>
 ## Art. 15.
 
 Les examens de carrière des employés assimilés aux employés de l'Etat relevant de la catégorie d'indemnité B, groupe d'indemnité B1, portent sur les matières suivantes:
 
-1. Connaissances générales en matière de sécurité sociale (60 points);
+- Connaissances générales en matière de sécurité sociale (60 points);
 
-2. L'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (120 points);
+- L'organisation, les missions, les attributions et la gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (120 points);
 
-3. Travail de rédaction administrative (60 points).
+- Travail de rédaction administrative (60 points).
 
 <a id="art-16"></a>
 ## Art. 16.
 
 Les examens de carrière des employés assimilés aux employés de l'Etat relevant de la catégorie d'indemnité C, groupe d'indemnité C1, portent sur les matières suivantes:
 
-1. L'organisation, les missions et les attributions de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux ( 120 points);
+- L'organisation, les missions et les attributions de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux ( 120 points);
 
-2. La gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
+- La gestion de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
 
-3. Travail de rédaction administrative (60 points).
+- Travail de rédaction administrative (60 points).
 
 <a id="art-17"></a>
 ## Art. 17.
 
 Les examens de carrière des employés assimilés aux employés de l'Etat relevant de la catégorie d'indemnité D, groupes d'indemnité D1, D2 et D3 portent sur les matières suivantes:
 
-1. L'organisation, les missions et les attributions de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
+- L'organisation, les missions et les attributions de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés communaux (60 points);
 
-2. Sujet en relation avec les missions des candidats (60 points).
+- Sujet en relation avec les missions des candidats (60 points).
 
 ##### Chapitre 6 Disposition abrogatoire
 

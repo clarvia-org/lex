@@ -47,19 +47,19 @@ Définitions
 
 Au sens de la présente loi on entend par
 
-1. «organisme»: toute entité biologique non cellulaire, cellulaire ou multicellulaire capable de se reproduire ou de transférer du matériel génétique; cette définition englobe les micro-organismes;
+- «organisme»: toute entité biologique non cellulaire, cellulaire ou multicellulaire capable de se reproduire ou de transférer du matériel génétique; cette définition englobe les micro-organismes;
 
-2. «organisme génétiquement modifié» (OGM): un organisme, à l’exception des êtres humains, dont le matériel génétique a été modifié d’une manière qui ne s’effectue pas naturellement par multiplication et/ou recombinaison naturelle;
+- «organisme génétiquement modifié» (OGM): un organisme, à l’exception des êtres humains, dont le matériel génétique a été modifié d’une manière qui ne s’effectue pas naturellement par multiplication et/ou recombinaison naturelle;
 
-3. «micro-organisme»: toute entité microbiologique, cellulaire ou non, capable de se reproduire ou de transférer du matériel génétique, y compris les virus, les viroïdes et les cultures de cellules végétales et animales;
+- «micro-organisme»: toute entité microbiologique, cellulaire ou non, capable de se reproduire ou de transférer du matériel génétique, y compris les virus, les viroïdes et les cultures de cellules végétales et animales;
 
-4. «utilisation confinée»: toute opération dans laquelle des micro-organismes sont génétiquement modifiés ou dans laquelle des OGM sont cultivés, stockés, transportés, détruits, éliminés ou utilisés de toute autre manière et pour laquelle des mesures de confinement spécifiques sont prises pour limiter le contact de ces microorganismes avec l’ensemble de la population et l’environnement ainsi que pour assurer à ces derniers un niveau élevé de sécurité;
+- «utilisation confinée»: toute opération dans laquelle des micro-organismes sont génétiquement modifiés ou dans laquelle des OGM sont cultivés, stockés, transportés, détruits, éliminés ou utilisés de toute autre manière et pour laquelle des mesures de confinement spécifiques sont prises pour limiter le contact de ces microorganismes avec l’ensemble de la population et l’environnement ainsi que pour assurer à ces derniers un niveau élevé de sécurité;
 
-5. «dissémination volontaire»: toute introduction intentionnelle dans l’environnement d’un OGM ou d’une combinaison d’OGM pour laquelle aucune mesure de confinement spécifique n’est prise pour limiter leur contact avec l’ensemble de la population et l’environnement et pour assurer à ces derniers un niveau élevé de sécurité;
+- «dissémination volontaire»: toute introduction intentionnelle dans l’environnement d’un OGM ou d’une combinaison d’OGM pour laquelle aucune mesure de confinement spécifique n’est prise pour limiter leur contact avec l’ensemble de la population et l’environnement et pour assurer à ces derniers un niveau élevé de sécurité;
 
-6. «mise sur le marché»: la mise à la disposition de tiers, moyennant paiement ou gratuitement;
+- «mise sur le marché»: la mise à la disposition de tiers, moyennant paiement ou gratuitement;
 
-7. «produit»: une préparation consistant en un OGM ou une combinaison d’OGM, ou en contenant, mise sur le marché.
+- «produit»: une préparation consistant en un OGM ou une combinaison d’OGM, ou en contenant, mise sur le marché.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -70,21 +70,21 @@ Techniques de modification génétique
 
 Les techniques de modification génétique visées par la présente loi comprennent notamment:
 
-1. les techniques de recombinaison de l’acide nucléique, dont l’acide désoxyribonucléique (ADN) impliquant la formation de nouvelles combinaisons de matériel génétique par l’insertion de molécules d’acide nucléique produites de n’importe quelle façon hors d’un organisme, à l’intérieur de tout virus, plasmide bactérien ou autre système vecteur et leur incorporation dans un organisme hôte à l’intérieur duquel elles n’apparaissent pas de façon naturelle, mais où elles peuvent se multiplier de façon continue;
+- les techniques de recombinaison de l’acide nucléique, dont l’acide désoxyribonucléique (ADN) impliquant la formation de nouvelles combinaisons de matériel génétique par l’insertion de molécules d’acide nucléique produites de n’importe quelle façon hors d’un organisme, à l’intérieur de tout virus, plasmide bactérien ou autre système vecteur et leur incorporation dans un organisme hôte à l’intérieur duquel elles n’apparaissent pas de façon naturelle, mais où elles peuvent se multiplier de façon continue;
 
-2. les techniques impliquant l’incorporation directe dans un organisme, dont un micro-organisme, de matériel héréditaire préparé à l’extérieur de cet organisme, y compris la micro-injection, la macro-injection et la microencapsulation;
+- les techniques impliquant l’incorporation directe dans un organisme, dont un micro-organisme, de matériel héréditaire préparé à l’extérieur de cet organisme, y compris la micro-injection, la macro-injection et la microencapsulation;
 
-3. les techniques de fusion cellulaire, y compris la fusion de protoplastes, ou d’hybridation dans lesquelles des cellules vivantes présentant de nouvelles combinaisons de matériel héréditaire sont constituées par la fusion de deux ou plusieurs cellules au moyen de méthodes ne survenant pas de façon naturelle.
+- les techniques de fusion cellulaire, y compris la fusion de protoplastes, ou d’hybridation dans lesquelles des cellules vivantes présentant de nouvelles combinaisons de matériel héréditaire sont constituées par la fusion de deux ou plusieurs cellules au moyen de méthodes ne survenant pas de façon naturelle.
 
 (2)
 
 Les techniques suivantes ne sont pas considérées comme entraînant une modification génétique, à condition qu’elles n’utilisent pas des molécules d’acide nucléique recombinant ou des OGM issus des techniques ou méthodes autres que celles exclues au titre de l’article 5 de la présente loi:
 
-1. la fécondation in vitro;
+- la fécondation in vitro;
 
-2. des processus naturels comme la conjugaison, la transduction, la transformation;
+- des processus naturels comme la conjugaison, la transduction, la transformation;
 
-3. l’induction polyploïde.
+- l’induction polyploïde.
 
 <a id="art-4"></a>
 ## Art. 4.-
@@ -120,13 +120,13 @@ Exclusions
 
 Sont exclues du champ d’application du présent titre les techniques ou méthodes de modification génétique suivantes, à condition qu’elles n’impliquent pas l’utilisation de molécules d’acide nucléique recombinant ou d’OGM, autres que ceux qui sont issus d’une ou de plusieurs de ces techniques ou méthodes:
 
-1. la mutagenèse;
+- la mutagenèse;
 
-2. la fusion cellulaire (y compris la fusion des protoplastes) d’espèces procaryotes qui échangent du matériel génétique par le biais de processus physiologiques connus;
+- la fusion cellulaire (y compris la fusion des protoplastes) d’espèces procaryotes qui échangent du matériel génétique par le biais de processus physiologiques connus;
 
-3. la fusion cellulaire (y compris la fusion des protoplastes) de cellules de n’importe quelle espèce eucaryote, y compris la production d’hybridomes et les fusions de cellules végétales;
+- la fusion cellulaire (y compris la fusion des protoplastes) de cellules de n’importe quelle espèce eucaryote, y compris la production d’hybridomes et les fusions de cellules végétales;
 
-4. l’autoclonage, qui consiste en la suppression de séquences de l’acide nucléique dans une cellule d’un organisme, suivie ou non de la réinsertion de tout ou partie de cet acide nucléique (ou d’un équivalent synthétique), avec ou sans étapes mécaniques ou enzymatiques préalables, dans des cellules de la même espèce ou dans des cellules d’espèces étroitement liées du point de vue phylogénétique qui peuvent échanger du matériel génétique par le biais de processus physiologiques naturels, si le micro-organisme, qui en résulte ne risque pas de causer des maladies pouvant affecter l’homme, les animaux ou les végétaux.
+- l’autoclonage, qui consiste en la suppression de séquences de l’acide nucléique dans une cellule d’un organisme, suivie ou non de la réinsertion de tout ou partie de cet acide nucléique (ou d’un équivalent synthétique), avec ou sans étapes mécaniques ou enzymatiques préalables, dans des cellules de la même espèce ou dans des cellules d’espèces étroitement liées du point de vue phylogénétique qui peuvent échanger du matériel génétique par le biais de processus physiologiques naturels, si le micro-organisme, qui en résulte ne risque pas de causer des maladies pouvant affecter l’homme, les animaux ou les végétaux.
 
 L’autoclonage peut comporter l’utilisation des vecteurs recombinants dont une longue expérience a montré que leur utilisation dans les micro-organismes concernés était sans danger.
 
@@ -299,11 +299,11 @@ Modification de l’utilisation confinée
 
 Si de nouveaux éléments d’information sont devenus disponibles au sujet de ces risques, soit pendant que le ministre examine la demande, soit après qu’il a accordé l’autorisation, l’exploitant du laboratoire doit immédiatement:
 
-1. revoir les informations spécifiées dans la demande;
+- revoir les informations spécifiées dans la demande;
 
-2. informer le ministre de la modification;
+- informer le ministre de la modification;
 
-3. prendre les mesures nécessaires pour protéger la santé humaine et l’environnement.
+- prendre les mesures nécessaires pour protéger la santé humaine et l’environnement.
 
 (2)
 
@@ -354,9 +354,9 @@ Exclusions
 
 Sont exclues du présent titre les techniques et méthodes de modification génétique produisant des organismes, à condition qu’elles n’impliquent pas l’utilisation de molécules d’acide nucléique recombinant ou d’OGM autres que ceux qui sont issus d’une ou plusieurs des techniques ou méthodes énumérées ci-après:
 
-1. la mutagenèse;
+- la mutagenèse;
 
-2. la fusion cellulaire (y compris la fusion de protoplastes) de cellules végétales d’organismes qui peuvent échanger du matériel génétique par des méthodes de sélection traditionnelles.
+- la fusion cellulaire (y compris la fusion de protoplastes) de cellules végétales d’organismes qui peuvent échanger du matériel génétique par des méthodes de sélection traditionnelles.
 
 (2)
 
@@ -403,21 +403,21 @@ Demande d’autorisation
 
 La demande d’autorisation est établie par l’exploitant du site, responsable de la dissémination. Elle contient:
 
-1. un dossier technique comportant les informations nécessaires à l’évaluation des risques prévisibles, immédiats ou différés, que l’OGM ou la combinaison d’OGM peuvent présenter pour la santé humaine ou l’environnement, ainsi que les méthodes utilisées et leurs références bibliographiques, et notamment:
+- un dossier technique comportant les informations nécessaires à l’évaluation des risques prévisibles, immédiats ou différés, que l’OGM ou la combinaison d’OGM peuvent présenter pour la santé humaine ou l’environnement, ainsi que les méthodes utilisées et leurs références bibliographiques, et notamment:
 
-1. des informations d’ordre général, y compris des informations sur le personnel et sa formation;
+  - des informations d’ordre général, y compris des informations sur le personnel et sa formation;
 
-2. des informations sur les OGM;
+  - des informations sur les OGM;
 
-3. des informations sur les conditions de la dissémination et sur l’environnement récepteur;
+  - des informations sur les conditions de la dissémination et sur l’environnement récepteur;
 
-4. des informations sur les interactions entre les OGM et l’environnement;
+  - des informations sur les interactions entre les OGM et l’environnement;
 
-5. des informations sur les plans de suivi, de contrôle et de traitement des déchets et sur les plans d’intervention d’urgence.
+  - des informations sur les plans de suivi, de contrôle et de traitement des déchets et sur les plans d’intervention d’urgence.
 
 Ces informations sont précisées ou complétées par règlement grand-ducal.
 
-1. une déclaration évaluant l’impact et les risques que les utilisations envisagées des OGM comportent pour la santé humaine et l’environnement.
+- une déclaration évaluant l’impact et les risques que les utilisations envisagées des OGM comportent pour la santé humaine et l’environnement.
 
 (2)
 
@@ -461,9 +461,9 @@ Après avoir reçu la demande et en avoir accusé réception, le ministre
 
 Le ministre, après avoir, le cas échéant, pris en considération toute observation faite par les autres Etats membres conformément à l’article 21, répond par écrit au demandeur dans un délai de quatre-vingt-dix jours à compter de la réception de la demande, jugée complète:
 
-1. soit en indiquant qu’il s’est assuré de la conformité de la demande à la présente loi et que la dissémination peut avoir lieu;
+- soit en indiquant qu’il s’est assuré de la conformité de la demande à la présente loi et que la dissémination peut avoir lieu;
 
-2. soit en indiquant que la dissémination ne remplit pas les conditions énoncées dans la présente loi et qu’en conséquence la demande est rejetée.
+- soit en indiquant que la dissémination ne remplit pas les conditions énoncées dans la présente loi et qu’en conséquence la demande est rejetée.
 
 (3)
 
@@ -485,11 +485,11 @@ Si, par la suite, le ministre obtient des éléments d’information susceptible
 
 Dans le cas où une modification est apportée à la dissémination volontaire d’OGM ou de combinaisons d’OGM qui pourrait avoir des conséquences du point de vue des risques pour la santé humaine ou l’environnement, ou si de nouveaux éléments d’information sont devenus disponibles au sujet de ces risques, soit pendant que le ministre examine la demande, soit après qu’il a accordé l’autorisation, le demandeur doit immédiatement:
 
-1. revoir les mesures spécifiées dans la demande;
+- revoir les mesures spécifiées dans la demande;
 
-2. informer le ministre de la modification, par avance ou dès que les nouveaux éléments d’information sont disponibles;
+- informer le ministre de la modification, par avance ou dès que les nouveaux éléments d’information sont disponibles;
 
-3. prendre les mesures nécessaires pour protéger la santé humaine et l’environnement.
+- prendre les mesures nécessaires pour protéger la santé humaine et l’environnement.
 
 <a id="art-20"></a>
 ## Art. 20.-
@@ -594,9 +594,9 @@ Dans le cas prévu au paragraphe (3) point b), au plus tôt quinze jours après 
 
 Le rapport d’évaluation indique:
 
-1. si le ou les OGM concernés peuvent être mis sur le marché et dans quelles conditions, ou
+- si le ou les OGM concernés peuvent être mis sur le marché et dans quelles conditions, ou
 
-2. si ce ou ces OGM ne doivent pas être mis sur le marché.
+- si ce ou ces OGM ne doivent pas être mis sur le marché.
 
 Les rapports d’évaluation sont établis conformément aux orientations définies par règlement grand-ducal.
 
@@ -700,13 +700,13 @@ L’autorisation visée à l’article 25 peut être renouvelée suivant une pro
 
 Au plus tard neuf mois avant la date d’échéance de l’autorisation le titulaire de l’autorisation adresse au ministre une demande, qui comprend:
 
-1. une copie de l’autorisation de mise sur le marché des OGM;
+- une copie de l’autorisation de mise sur le marché des OGM;
 
-2. un rapport sur les résultats de la surveillance effectuée conformément à l’article 25 bis;
+- un rapport sur les résultats de la surveillance effectuée conformément à l’article 25 bis;
 
-3. toute autre nouvelle information devenue disponible sur les risques du produit pour la santé humaine et/ou l’environnement et,
+- toute autre nouvelle information devenue disponible sur les risques du produit pour la santé humaine et/ou l’environnement et,
 
-4. s’il y a lieu, une proposition visant à modifier ou à compléter les conditions de l’autorisation initiale, c’est-à-dire les conditions relatives à la surveillance future et à la durée de validité de l’autorisation.
+- s’il y a lieu, une proposition visant à modifier ou à compléter les conditions de l’autorisation initiale, c’est-à-dire les conditions relatives à la surveillance future et à la durée de validité de l’autorisation.
 
 Le ministre accuse réception de la demande et prend acte de la date de réception de celle-ci; lorsque la demande est conforme au présent paragraphe, le ministre en transmet sans tarder une copie avec son rapport d’évaluation à la Commission.
 
@@ -714,9 +714,9 @@ Le ministre accuse réception de la demande et prend acte de la date de récepti
 
 Le rapport d’évaluation précise:
 
-1. si le ou les OGM doivent rester sur le marché et à quelles conditions, ou
+- si le ou les OGM doivent rester sur le marché et à quelles conditions, ou
 
-2. si le ou les OGM ne doivent pas rester sur le marché.
+- si le ou les OGM ne doivent pas rester sur le marché.
 
 (4)
 
@@ -1002,17 +1002,17 @@ Sanctions pénales
 
 Sera puni d’un emprisonnement de huit jours à six mois et d’une amende de dix mille et un à cinq millions de francs ou d’une de ces peines seulement quiconque contrevient à la présente loi ou à ses règlements d’exécution, et notamment celui qui:
 
-1. exploite une installation utilisant des OGM à des fins de recherche, de développement ou d’enseignement sans l’autorisation requise en application des dispositions du titre II de la présente loi, ou en violation des conditions auxquelles cette autorisation est subordonnée;
+- exploite une installation utilisant des OGM à des fins de recherche, de développement ou d’enseignement sans l’autorisation requise en application des dispositions du titre II de la présente loi, ou en violation des conditions auxquelles cette autorisation est subordonnée;
 
-2. procède à la dissémination volontaire d’OGM dans l’environnement à des fins autres que leur mise sur le marché, qui n’aurait pas été autorisée conformément aux dispositions de la présente loi, ou qui aurait été faite sans que les conditions déterminées à l’autorisation aient été observées;
+- procède à la dissémination volontaire d’OGM dans l’environnement à des fins autres que leur mise sur le marché, qui n’aurait pas été autorisée conformément aux dispositions de la présente loi, ou qui aurait été faite sans que les conditions déterminées à l’autorisation aient été observées;
 
-3. met sur le marché, importe, transporte ou détient en vue de la mise sur le marché, un produit consistant en OGM ou en contenant non couvert par une autorisation nationale accordée en vertu de la présente loi ou une autorisation accordée par une autorité compétente d’un autre Etat membre de l’Union européenne dans le respect de la réglementation communautaire afférente, ou qui auraient fait l’objet d’une des mesures énoncées au paragraphe (1) de l’article 27;
+- met sur le marché, importe, transporte ou détient en vue de la mise sur le marché, un produit consistant en OGM ou en contenant non couvert par une autorisation nationale accordée en vertu de la présente loi ou une autorisation accordée par une autorité compétente d’un autre Etat membre de l’Union européenne dans le respect de la réglementation communautaire afférente, ou qui auraient fait l’objet d’une des mesures énoncées au paragraphe (1) de l’article 27;
 
-4. met sur le marché, importe, transporte et détient en vue de la mise sur le marché des produits consistant en OGM ou en contenant dont l’étiquetage ou l’emballage ne correspond pas à celui spécifié dans l’autorisation;
+- met sur le marché, importe, transporte et détient en vue de la mise sur le marché des produits consistant en OGM ou en contenant dont l’étiquetage ou l’emballage ne correspond pas à celui spécifié dans l’autorisation;
 
-5. omet sciemment ou par négligence des éléments d’information importants lors d’une demande présentée en vertu de la présente loi;
+- omet sciemment ou par négligence des éléments d’information importants lors d’une demande présentée en vertu de la présente loi;
 
-6. ne respecte pas une mesure de suspension ou de retrait prise en application de l’article 37.
+- ne respecte pas une mesure de suspension ou de retrait prise en application de l’article 37.
 
 Les mêmes sanctions s’appliquent en cas d’entrave apportée aux activités de contrôle des personnes visées à l’article 39 ci-dessus.
 
@@ -1028,11 +1028,11 @@ Indépendamment des règles de droit commun en matière de saisie, prévues au c
 
 La mainlevée de la saisie validée par ordonnance du juge d’instruction peut être demandée en tout état de cause, à savoir:
 
-1. à la chambre du conseil du tribunal d’arrondissement aussi longtemps qu’aucune juridiction de jugement ne se trouve saisie;
+- à la chambre du conseil du tribunal d’arrondissement aussi longtemps qu’aucune juridiction de jugement ne se trouve saisie;
 
-2. à la chambre correctionnelle du tribunal d’arrondissement lorsque celle-ci se trouve saisie par l’ordonnance de renvoi ou par la citation directe;
+- à la chambre correctionnelle du tribunal d’arrondissement lorsque celle-ci se trouve saisie par l’ordonnance de renvoi ou par la citation directe;
 
-3. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté ou s’il a été formé un pourvoi en cassation.
+- à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté ou s’il a été formé un pourvoi en cassation.
 
 La requête sera déposée au greffe de la juridiction appelée à statuer. Il y sera statué d’urgence et au plus tard dans les trois jours du dépôt, le ministère public et la personne inculpée ou prévenue ou son défenseur entendus en leurs explications orales ou dûment appelés.
 

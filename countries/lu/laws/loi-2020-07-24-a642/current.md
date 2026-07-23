@@ -35,33 +35,33 @@ L’État, représenté par le ministre ayant les Classes moyennes dans ses attr
 
 Aux fins de la présente loi, on entend par :
 
-1. « commerce de détail » : l’ensemble des activités consistant en l’achat de marchandises pour les revendre directement au consommateur final. Les activités reprises à l’annexe sont assimilées au commerce de détail pour l’application de la présente loi ;
+- « commerce de détail » : l’ensemble des activités consistant en l’achat de marchandises pour les revendre directement au consommateur final. Les activités reprises à l’annexe sont assimilées au commerce de détail pour l’application de la présente loi ;
 
-2. « commercialisation de produits agricoles » : la détention ou l’exposition en vue de la vente, de la mise en vente, de la livraison ou de toute autre forme de mise sur le marché, à l’exception de la première vente par un producteur primaire à des revendeurs ou à des transformateurs et de toute activité consistant à préparer un produit en vue de cette vente. La vente par un producteur primaire à des consommateurs finaux est considérée comme une commercialisation si elle a lieu dans des locaux distincts réservés à cette activité ;
+- « commercialisation de produits agricoles » : la détention ou l’exposition en vue de la vente, de la mise en vente, de la livraison ou de toute autre forme de mise sur le marché, à l’exception de la première vente par un producteur primaire à des revendeurs ou à des transformateurs et de toute activité consistant à préparer un produit en vue de cette vente. La vente par un producteur primaire à des consommateurs finaux est considérée comme une commercialisation si elle a lieu dans des locaux distincts réservés à cette activité ;
 
-3. « entreprise unique » : toutes entreprises qui entretiennent entre elles au moins l’une des relations suivantes : Les entreprises qui entretiennent au moins une des relations visées au présent point à travers une ou plusieurs autres entreprises sont également considérées comme une entreprise unique ;
+- « entreprise unique » : toutes entreprises qui entretiennent entre elles au moins l’une des relations suivantes : Les entreprises qui entretiennent au moins une des relations visées au présent point à travers une ou plusieurs autres entreprises sont également considérées comme une entreprise unique ;
 
-1. une entreprise a la majorité des droits de vote des actionnaires ou associés d’une autre entreprise ;
+  - une entreprise a la majorité des droits de vote des actionnaires ou associés d’une autre entreprise ;
 
-2. une entreprise a le droit de nommer ou de révoquer la majorité des membres de l’organe d’ad­ministration, de direction ou de surveillance d’une autre entreprise ;
+  - une entreprise a le droit de nommer ou de révoquer la majorité des membres de l’organe d’ad­ministration, de direction ou de surveillance d’une autre entreprise ;
 
-3. une entreprise a le droit d’exercer une influence dominante sur une autre entreprise en vertu d’un contrat conclu avec celle-ci ou en vertu d’une clause des statuts de celle-ci ;
+  - une entreprise a le droit d’exercer une influence dominante sur une autre entreprise en vertu d’un contrat conclu avec celle-ci ou en vertu d’une clause des statuts de celle-ci ;
 
-4. une entreprise actionnaire ou associée d’une autre entreprise contrôle seule, en vertu d’un accord conclu avec d’autres actionnaires ou associés de cette autre entreprise, la majorité des droits de vote des actionnaires ou associés de celle-ci.
+  - une entreprise actionnaire ou associée d’une autre entreprise contrôle seule, en vertu d’un accord conclu avec d’autres actionnaires ou associés de cette autre entreprise, la majorité des droits de vote des actionnaires ou associés de celle-ci.
 
-4. « magasin » : un local de vente physique librement accessible au public où est exercée l’activité de commerce de détail ou l’activité reprise à l’annexe ;
+- « magasin » : un local de vente physique librement accessible au public où est exercée l’activité de commerce de détail ou l’activité reprise à l’annexe ;
 
-5. « microentreprise » : toute entreprise qui occupe moins de dix personnes et dont le chiffre d’affaires annuel ou le total du bilan annuel n’excède pas 2 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
+- « microentreprise » : toute entreprise qui occupe moins de dix personnes et dont le chiffre d’affaires annuel ou le total du bilan annuel n’excède pas 2 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
-6. « moyenne entreprise » : toute entreprise qui occupe moins de deux-cent cinquante personnes et dont le chiffre d’affaires annuel n’excède pas 50 000 000 euros ou dont le total du bilan annuel n’excède pas 43 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
+- « moyenne entreprise » : toute entreprise qui occupe moins de deux-cent cinquante personnes et dont le chiffre d’affaires annuel n’excède pas 50 000 000 euros ou dont le total du bilan annuel n’excède pas 43 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
-7. « petite entreprise » : toute entreprise répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
+- « petite entreprise » : toute entreprise répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
-8. « produits agricoles » : les produits énumérés à l’annexe I du traité sur le fonctionnement de l’Union européenne , à l’exclusion des produits de la pêche et de l’aquaculture qui relèvent du règlement (UE) 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013, portant organi­sation commune des marchés dans le secteur des produits de la pêche et de l’aquaculture, modifiant les règlements (CE) n° 1184/2006 et (CE) n° 1224/2009 du Conseil et abrogeant le règlement (CE) n° 104/2000 du Conseil ;
+- « produits agricoles » : les produits énumérés à l’annexe I du traité sur le fonctionnement de l’Union européenne , à l’exclusion des produits de la pêche et de l’aquaculture qui relèvent du règlement (UE) 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013, portant organi­sation commune des marchés dans le secteur des produits de la pêche et de l’aquaculture, modifiant les règlements (CE) n° 1184/2006 et (CE) n° 1224/2009 du Conseil et abrogeant le règlement (CE) n° 104/2000 du Conseil ;
 
-9. « transformation de produits agricoles » : toute opération portant sur un produit agricole qui aboutit à un produit qui est aussi un produit agricole, à l’exception des activités réalisées dans l’exploitation agricole qui sont nécessaires à la préparation d’un produit animal ou végétal destiné à la première vente ;
+- « transformation de produits agricoles » : toute opération portant sur un produit agricole qui aboutit à un produit qui est aussi un produit agricole, à l’exception des activités réalisées dans l’exploitation agricole qui sont nécessaires à la préparation d’un produit animal ou végétal destiné à la première vente ;
 
-10. « travailleur indépendant » : la personne physique qui, soit exerce une activité de commerce de détail ou une activité reprise à l’annexe en nom propre, soit détient plus de vingt-cinq pour cent des parts d’une société en nom collectif, d’une société en commandite simple ou d’une société à responsabilité limitée exerçant une telle activité, soit est administrateur, commandité ou mandataire et délégué à la gestion journalière d’une société anonyme, d’une société en commandite par actions ou d’une société coopérative exerçant une telle activité et sur laquelle repose l’autorisation d’établissement visée à l’article 4.
+- « travailleur indépendant » : la personne physique qui, soit exerce une activité de commerce de détail ou une activité reprise à l’annexe en nom propre, soit détient plus de vingt-cinq pour cent des parts d’une société en nom collectif, d’une société en commandite simple ou d’une société à responsabilité limitée exerçant une telle activité, soit est administrateur, commandité ou mandataire et délégué à la gestion journalière d’une société anonyme, d’une société en commandite par actions ou d’une société coopérative exerçant une telle activité et sur laquelle repose l’autorisation d’établissement visée à l’article 4.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -91,23 +91,23 @@ Lorsqu’une entreprise exerce à la fois une activité de commerce de détail o
 
 Une aide peut être accordée aux entreprises remplissant les conditions suivantes :
 
-1. elles constituent une microentreprise, une petite entreprise ou une moyenne entreprise ;
+- elles constituent une microentreprise, une petite entreprise ou une moyenne entreprise ;
 
-2. elles exerçaient déjà l’activité de commerce de détail en magasin avant le 15 mars 2020 ;
+- elles exerçaient déjà l’activité de commerce de détail en magasin avant le 15 mars 2020 ;
 
-3. elles disposent d’une autorisation d’établissement pour l’exercice d’une activité commerciale ou d’une des activités visées en annexe, délivrée en application de la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales ;
+- elles disposent d’une autorisation d’établissement pour l’exercice d’une activité commerciale ou d’une des activités visées en annexe, délivrée en application de la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales ;
 
-4. si elles emploient du personnel, la preuve de l’affiliation de l’entreprise au Centre commun de la sécurité sociale ;
+- si elles emploient du personnel, la preuve de l’affiliation de l’entreprise au Centre commun de la sécurité sociale ;
 
-5. leur chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros. Pour les entreprises créées au cours de l’année fiscale 2019 ou 2020, le montant de 15 000 euros est adapté au prorata de la durée effective pendant laquelle l’entreprise a été en activité avant le 15 mars 2020 ;
+- leur chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros. Pour les entreprises créées au cours de l’année fiscale 2019 ou 2020, le montant de 15 000 euros est adapté au prorata de la durée effective pendant laquelle l’entreprise a été en activité avant le 15 mars 2020 ;
 
-6. elles ont été obligées d’arrêter leurs activités en application du règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 ou elles ont subi une perte du chiffre d’affaires mensuel moyen ou mensuel d’au moins 50 pour cent durant la période comprise entre le 15 mars 2020 et le 15 mai 2020. La perte du chiffre d’affaires est appréciée par rapport au chiffre d’affaires mensuel moyen de l’année 2019 ou du chiffre d’affaires de la même période de l’année 2019 et, pour les entreprises créées après le 15 mars 2019, au chiffre d’affaires mensuel moyen sur la période comprise entre la date de création de l’entreprise et le 14 mars 2020 ;
+- elles ont été obligées d’arrêter leurs activités en application du règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 ou elles ont subi une perte du chiffre d’affaires mensuel moyen ou mensuel d’au moins 50 pour cent durant la période comprise entre le 15 mars 2020 et le 15 mai 2020. La perte du chiffre d’affaires est appréciée par rapport au chiffre d’affaires mensuel moyen de l’année 2019 ou du chiffre d’affaires de la même période de l’année 2019 et, pour les entreprises créées après le 15 mars 2019, au chiffre d’affaires mensuel moyen sur la période comprise entre la date de création de l’entreprise et le 14 mars 2020 ;
 
-7. elles ont repris l’activité visée à l’article 1 er dans l’ensemble de leurs magasins à la date du 1 er juin 2020 au plus tard et ne l’ont pas cessée par la suite ;
+- elles ont repris l’activité visée à l’article 1 er dans l’ensemble de leurs magasins à la date du 1 er juin 2020 au plus tard et ne l’ont pas cessée par la suite ;
 
-8. elles ne perçoivent pas de subventions destinées à l’indemnisation des chômeurs partiels telles que prévues à la section 2 du livre 5, titre premier, chapitre premier du Code du travail pour le mois pour lequel elles demandent une aide ;
+- elles ne perçoivent pas de subventions destinées à l’indemnisation des chômeurs partiels telles que prévues à la section 2 du livre 5, titre premier, chapitre premier du Code du travail pour le mois pour lequel elles demandent une aide ;
 
-9. elles n’ont pas procédé au cours du mois pour lequel l’aide est demandée ou des mois éligibles précédents à des licenciements pour des motifs non inhérents à la personne du salarié.
+- elles n’ont pas procédé au cours du mois pour lequel l’aide est demandée ou des mois éligibles précédents à des licenciements pour des motifs non inhérents à la personne du salarié.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -122,11 +122,11 @@ L’aide est exempte d’impôts.
 
 Le montant de l’aide est calculé en multipliant le nombre des salariés à temps plein et le nombre de travailleurs indépendants de l’entreprise par les montants suivants :
 
-1. 1 000 euros pour le mois de juillet 2020 ;
+- 1 000 euros pour le mois de juillet 2020 ;
 
-2. 750 euros pour le mois d’août 2020 ;
+- 750 euros pour le mois d’août 2020 ;
 
-3. 500 euros pour le mois de septembre 2020.
+- 500 euros pour le mois de septembre 2020.
 
 En cas d’occupation à temps partiel, les montants prévus à l’alinéa 1er sont proratisés.
 
@@ -140,7 +140,7 @@ Pour le calcul des montants prévus au paragraphe 2, le travailleur indépendant
 
 (4)
 
-Aucune aide ne peut être octroyée sur base de la présente loi après le 30 juin 2021.
+Aucune aide ne peut être octroyée sur base de la présente loi après le 30 juin 2021 .
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -149,23 +149,23 @@ Une demande doit être soumise au ministre sous forme écrite pour chaque mois v
 
 La demande doit parvenir au ministre au plus tard le 15 février 2021 et contenir toutes les informations suivantes :
 
-1. le nom de l’entreprise requérante et les éventuelles relations formant une entreprise unique ;
+- le nom de l’entreprise requérante et les éventuelles relations formant une entreprise unique ;
 
-2. la taille de l’entreprise requérante, y compris les pièces justificatives, conformément à l’annexe du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
+- la taille de l’entreprise requérante, y compris les pièces justificatives, conformément à l’annexe du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
-3. le numéro d’immatriculation de l’entreprise auprès du Centre commun de la sécurité sociale, le certificat d’affiliation des travailleurs indépendants et le taux d’occupation visé à l’article 5, paragraphe 3 ;
+- le numéro d’immatriculation de l’entreprise auprès du Centre commun de la sécurité sociale, le certificat d’affiliation des travailleurs indépendants et le taux d’occupation visé à l’article 5, paragraphe 3 ;
 
-4. la situation de l’entreprise au regard des dispositions de l’article 4, point 6 et, le cas échéant, une pièce démontrant la perte du chiffre d’affaires ou, si l’entreprise n’est pas en mesure de produire une telle pièce, une estimation du montant de la perte du chiffre d’affaires ;
+- la situation de l’entreprise au regard des dispositions de l’article 4, point 6 et, le cas échéant, une pièce démontrant la perte du chiffre d’affaires ou, si l’entreprise n’est pas en mesure de produire une telle pièce, une estimation du montant de la perte du chiffre d’affaires ;
 
-5. une déclaration attestant le respect des conditions prévues à l’article 4, points 7° à 9° ;
+- une déclaration attestant le respect des conditions prévues à l’article 4, points 7° à 9° ;
 
-6. une déclaration attestant de l’absence de condamnation visée à l’article 3, paragraphe 2 et l’absence des causes d’exclusion visées à l’article 3, paragraphe 1 er ;
+- une déclaration attestant de l’absence de condamnation visée à l’article 3, paragraphe 2 et l’absence des causes d’exclusion visées à l’article 3, paragraphe 1 er ;
 
-7. un relevé du personnel de l’entreprise avec indication des numéros d’identification nationaux et du taux d’occupation ou, dans le cas visé à l’article 5, paragraphe 2, alinéa 3, un relevé des salariés affectés à l’activité de commerce de détail avec indication des numéros d’identification nationaux et du taux d’occupation ;
+- un relevé du personnel de l’entreprise avec indication des numéros d’identification nationaux et du taux d’occupation ou, dans le cas visé à l’article 5, paragraphe 2, alinéa 3, un relevé des salariés affectés à l’activité de commerce de détail avec indication des numéros d’identification nationaux et du taux d’occupation ;
 
-8. les comptes annuels de l’exercice fiscal 2019, ou, le cas échéant, toutes autres données financières disponibles, telle que la comptabilité en double partie ou la déclaration pour l’impôt sur le revenu ;
+- les comptes annuels de l’exercice fiscal 2019, ou, le cas échéant, toutes autres données financières disponibles, telle que la comptabilité en double partie ou la déclaration pour l’impôt sur le revenu ;
 
-9. le cas échéant, une déclaration des autres aides de minimis éventuelles que l’entreprise unique a reçues au cours des deux exercices fiscaux précédents et de l’exercice fiscal en cours.
+- le cas échéant, une déclaration des autres aides de minimis éventuelles que l’entreprise unique a reçues au cours des deux exercices fiscaux précédents et de l’exercice fiscal en cours.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -179,13 +179,13 @@ Les aides accordées conformément au règlement UE n°1407/2013 précité sont 
 
 L’aide prévue par la présente loi est cumulable avec :
 
-1. des aides de minimis pour autant que les plafonds prévus au règlement (UE) n° 1407/2013 précité demeurent respectés ;
+- des aides de minimis pour autant que les plafonds prévus au règlement (UE) n° 1407/2013 précité demeurent respectés ;
 
-2. les avances remboursables prévues par la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire, pour autant que le cumul des deux aides ne dépasse pas le plafond maximal de 800 000 euros par entreprise unique et que les chiffres utilisés sont des montants bruts, signifiant avant impôts ou autres prélèvements ;
+- les avances remboursables prévues par la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire, pour autant que le cumul des deux aides ne dépasse pas le plafond maximal de 800 000 euros par entreprise unique et que les chiffres utilisés sont des montants bruts, signifiant avant impôts ou autres prélèvements ;
 
-3. toute autre régime d’aides qui fait l’objet d’une décision de la Commission européenne reposant sur la section 3.1 de la Communication n° 2020/C 91 I/01 du 20 mars 2020 de la Commission intitulée « Encadrement temporaire des mesures d’aide d’État visant à soutenir l’économie dans le contexte actuel de la flambée de COVID-19 », pour autant que le cumul des deux aides ne dépasse pas le plafond maximal de 800 000 euros par entreprise unique et que les chiffres utilisés sont des montants bruts, signifiant avant impôts ou autres prélèvements ;
+- toute autre régime d’aides qui fait l’objet d’une décision de la Commission européenne reposant sur la section 3.1 de la Communication n° 2020/C 91 I/01 du 20 mars 2020 de la Commission intitulée « Encadrement temporaire des mesures d’aide d’État visant à soutenir l’économie dans le contexte actuel de la flambée de COVID-19 », pour autant que le cumul des deux aides ne dépasse pas le plafond maximal de 800 000 euros par entreprise unique et que les chiffres utilisés sont des montants bruts, signifiant avant impôts ou autres prélèvements ;
 
-4. les aides prévues par la loi du 18 avril 2020 visant à mettre en place un régime de garantie en faveur de l’économie luxembourgeoise dans le cadre de la pandémie du Covid-19.
+- les aides prévues par la loi du 18 avril 2020 visant à mettre en place un régime de garantie en faveur de l’économie luxembourgeoise dans le cadre de la pandémie du Covid-19.
 
 <a id="art-9"></a>
 ## Art. 9.

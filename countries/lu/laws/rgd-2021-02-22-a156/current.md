@@ -34,13 +34,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La formation spéciale des stagiaires des catégories de traitement suivantes :
 
-1. catégorie de traitement A, groupe de traitement A1, sous-groupe administratif, sous-groupe scientifique et technique, sous-groupe éducatif et psycho-social, ainsi que sous-groupe à attributions particulières ;
+- catégorie de traitement A, groupe de traitement A1, sous-groupe administratif, sous-groupe scientifique et technique, sous-groupe éducatif et psycho-social, ainsi que sous-groupe à attributions particulières ;
 
-2. catégorie de traitement A, groupe de traitement A2, sous-groupe administratif, sous-groupe scientifique et technique, ainsi que sous-groupe éducatif et psycho-social ;
+- catégorie de traitement A, groupe de traitement A2, sous-groupe administratif, sous-groupe scientifique et technique, ainsi que sous-groupe éducatif et psycho-social ;
 
-3. catégorie de traitement C, groupe de traitement C1, sous-groupes administratif et technique ;
+- catégorie de traitement C, groupe de traitement C1, sous-groupes administratif et technique ;
 
-4. catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, groupe de traitement D2, sous-groupes administratif et technique, ainsi que sous-groupe à attributions particulières, groupe de traitement D3, sous-groupe administratif ;
+- catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, groupe de traitement D2, sous-groupes administratif et technique, ainsi que sous-groupe à attributions particulières, groupe de traitement D3, sous-groupe administratif ;
 
 a une durée totale fixée à soixante heures et comprend des modules dont la durée est fixée comme suit :
 
@@ -280,15 +280,15 @@ Les décisions d’admission à l’examen de promotion sont prises conformémen
 
 Les épreuves de l’examen de promotion sont fixées comme suit :
 
-1. Organisation, missions et attributions de l’administration ;
+- Organisation, missions et attributions de l’administration ;
 
-2. Gestion des procédures internes ;
+- Gestion des procédures internes ;
 
-3. Outils de travail, bureautique et sécurité informatique ;
+- Outils de travail, bureautique et sécurité informatique ;
 
-4. Protection des données et archivage ;
+- Protection des données et archivage ;
 
-5. Travail de promotion, pour la catégorie de traitement B uniquement.
+- Travail de promotion, pour la catégorie de traitement B uniquement.
 
 (2)
 

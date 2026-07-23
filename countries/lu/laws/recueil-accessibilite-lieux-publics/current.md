@@ -37,23 +37,23 @@ Aux fins de la présente loi, on entend par :
 
 Sont assimilés à des lieux ouverts au public :
 
-1. les lieux dans lesquels les professions libérales prestent leurs services ;
+- les lieux dans lesquels les professions libérales prestent leurs services ;
 
-2. tout bâtiment et toute installation destinés à l’exercice des activités soumises à un agrément au sens de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes oeuvrant dans les domaines social, familial et thérapeutique ;
+- tout bâtiment et toute installation destinés à l’exercice des activités soumises à un agrément au sens de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes oeuvrant dans les domaines social, familial et thérapeutique ;
 
-3. les hôtels visés par la loi modifiée du 17 juillet 1960 portant institution d’un statut de l’Hôtellerie ;
+- les hôtels visés par la loi modifiée du 17 juillet 1960 portant institution d’un statut de l’Hôtellerie ;
 
-4. les motels, pensions de famille et auberges visés par la loi modifiée du 17 juillet 1960 portant institution d’un statut de l’Hôtellerie qui disposent d’au moins dix chambres à coucher destinées aux voyageurs ;
+- les motels, pensions de famille et auberges visés par la loi modifiée du 17 juillet 1960 portant institution d’un statut de l’Hôtellerie qui disposent d’au moins dix chambres à coucher destinées aux voyageurs ;
 
-5. les structures d’hébergement pour élèves et étudiants.
+- les structures d’hébergement pour élèves et étudiants.
 
 Ne sont pas considérés comme des lieux ouverts au public :
 
-1. les structures d’hébergement gérées par l’Office national de l’accueil ;
+- les structures d’hébergement gérées par l’Office national de l’accueil ;
 
-2. les installations et constructions temporaires implantées pour une durée n’excédant pas un mois ;
+- les installations et constructions temporaires implantées pour une durée n’excédant pas un mois ;
 
-3. les bâtiments d’habitation collectifs.
+- les bâtiments d’habitation collectifs.
 
 Sont considérées comme faisant partie du public toutes les personnes admises dans l’établissement à quelque titre que ce soit en plus du personnel.
 
@@ -89,17 +89,17 @@ Les structures d’hébergement gérées par l’Office national de l’accueil 
 
 Les critères permettant de déterminer une charge disproportionnée sont :
 
-1. le coût estimé des travaux ;
+- le coût estimé des travaux ;
 
-2. l’effet discriminatoire pour la personne handicapée que peut avoir le refus de réaliser les travaux ;
+- l’effet discriminatoire pour la personne handicapée que peut avoir le refus de réaliser les travaux ;
 
-3. la possibilité de compenser la charge par des aides publiques ;
+- la possibilité de compenser la charge par des aides publiques ;
 
-4. l’utilité estimée pour les personnes handicapées, d’un manière générale, compte tenu de la fréquence et de la durée d’utilisation des lieux et services concernés ;
+- l’utilité estimée pour les personnes handicapées, d’un manière générale, compte tenu de la fréquence et de la durée d’utilisation des lieux et services concernés ;
 
-5. la durée de vie des bâtiments, installations et locaux ainsi que des équipements qui sont utilisés pour fournir un service ;
+- la durée de vie des bâtiments, installations et locaux ainsi que des équipements qui sont utilisés pour fournir un service ;
 
-6. l’impossibilité dûment justifiée, par des pièces comptables et financières, par la personne à qui incombe la charge des travaux d’accessibilité, de faire face aux frais engendrés par ces travaux.
+- l’impossibilité dûment justifiée, par des pièces comptables et financières, par la personne à qui incombe la charge des travaux d’accessibilité, de faire face aux frais engendrés par ces travaux.
 
 9°
 
@@ -227,21 +227,21 @@ Nouvelles constructions et transformations importantes des voies publiques
 
 Concernant les nouvelles constructions et transformations importantes des voies publiques, les exigences d’accessibilité s’appliquent aux :
 
-1. passages et gués pour piétons ;
+- passages et gués pour piétons ;
 
-2. passages et gués pour piétons et cyclistes ;
+- passages et gués pour piétons et cyclistes ;
 
-3. trottoirs et chemins pour piétons ;
+- trottoirs et chemins pour piétons ;
 
-4. bandes de stationnement automobile et places de parcage ;
+- bandes de stationnement automobile et places de parcage ;
 
-5. quais d’embarquement et de débarquement des autobus et des tramways ;
+- quais d’embarquement et de débarquement des autobus et des tramways ;
 
-6. zones piétonnes, résidentielles et de rencontre ;
+- zones piétonnes, résidentielles et de rencontre ;
 
-7. places publiques ;
+- places publiques ;
 
-8. équipements et mobiliers sur les voies publiques.
+- équipements et mobiliers sur les voies publiques.
 
 Un règlement grand-ducal précise les exigences d’accessibilité des voies publiques.
 
@@ -558,6 +558,24 @@ Disposition finale
 
 La présente loi entre en vigueur le premier jour du dix-huitième mois qui suit celui de sa publication au Journal officiel du Grand-Duché de Luxembourg, à l’exception des dispositions de l’article 3, paragraphe 1er, relatives aux lieux ouverts au public existants ou situés dans un cadre bâti existant qui entrent en vigueur le premier jour du cent-vingtième mois qui suit celui de sa publication au Journal officiel du Grand-Duché de Luxembourg.
 
+*
+
+ANNEXE A
+
+Contenu des formations complémentaires requises au sens de l’article 10, paragraphe 1er, point 1
+
+1° Convention relative aux droits des personnes handicapées des Nations Unies
+
+2° Législation et réglementation nationales sur l’accessibilité
+
+3° Les différents types de handicap selon la classification internationale du fonctionnement, du handicap et de la santé de l’OMS
+
+4° Modalités pratiques d’application des textes
+
+5° Échange de pratiques
+
+6° Rôle, responsabilités, compétences et pratiques professionnelles du « contrôleur technique en accessibilité »
+
 ## Loi du 22 juillet 2008 relative à l'accessibilité des lieux ouverts au public aux personnes handicapées accompagnées de chiens d'assistance.
 
 <a id="art-n1097e"></a>
@@ -621,11 +639,11 @@ L'avertissement taxé est subordonné à la condition soit que le contrevenant c
 
 L'avertissement taxé est remplacé par un procès-verbal ordinaire:
 
-1. si le contrevenant n'a pas payé dans le délai imparti;
+- si le contrevenant n'a pas payé dans le délai imparti;
 
-2. si le contrevenant déclare ne pas vouloir ou ne pas pouvoir payer la ou les taxes;
+- si le contrevenant déclare ne pas vouloir ou ne pas pouvoir payer la ou les taxes;
 
-3. si le contrevenant a été mineur au moment des faits.
+- si le contrevenant a été mineur au moment des faits.
 
 Les frais de rappel éventuels font partie intégrante de la taxe.
 
@@ -668,11 +686,11 @@ Elle est fixée au collier respectivement au harnais de l'animal.
 
 La demande en obtention d'une médaille de chien d'assistance est à introduire par écrit sur un formulaire établi par le Ministère de la Famille et de l'Intégration et est accompagnée des pièces justificatives suivantes:
 
-1. du document officiel attestant de la formation du chien en tant que chien d'assistance dûment homologué par le ministre ayant la famille dans ses attributions;
+- du document officiel attestant de la formation du chien en tant que chien d'assistance dûment homologué par le ministre ayant la famille dans ses attributions;
 
-2. du numéro d'identité électronique du chien ou, le cas échéant, du numéro de tatouage du chien;
+- du numéro d'identité électronique du chien ou, le cas échéant, du numéro de tatouage du chien;
 
-3. d'une copie conforme de la carte d'identité du demandeur.
+- d'une copie conforme de la carte d'identité du demandeur.
 
 (2)
 
@@ -740,11 +758,11 @@ La validité des médailles de chien d'assistance en formation est de deux ans. 
 
 La demande en obtention d'une médaille de chien d'assistance en formation est à introduire par écrit sur un formulaire établi par le Ministère de la Famille et de l'Intégration et est accompagnée des pièces justificatives suivantes:
 
-1. d'un certificat, identifiant le chien en tant que chien d'assistance en formation, émanant d'un service de formation dûment agréé par une autorité compétente d'un État membre de l'Union européenne;
+- d'un certificat, identifiant le chien en tant que chien d'assistance en formation, émanant d'un service de formation dûment agréé par une autorité compétente d'un État membre de l'Union européenne;
 
-2. du numéro d'identité électronique du chien ou, le cas échéant, du numéro de tatouage du chien;
+- du numéro d'identité électronique du chien ou, le cas échéant, du numéro de tatouage du chien;
 
-3. d'une copie conforme de la carte d'identité du demandeur.
+- d'une copie conforme de la carte d'identité du demandeur.
 
 (2)
 
@@ -857,15 +875,15 @@ Définitions
 
 Aux fins du présent règlement, on entend par :
 
-1. « rez-de-chaussée » : le niveau d’un bâtiment qui se trouve au ras du sol ;
+- « rez-de-chaussée » : le niveau d’un bâtiment qui se trouve au ras du sol ;
 
-2. « niveau » : tout niveau, y compris les niveaux partiels ;
+- « niveau » : tout niveau, y compris les niveaux partiels ;
 
-3. « cm » : centimètre ;
+- « cm » : centimètre ;
 
-4. « N » : newton ;
+- « N » : newton ;
 
-5. « Nm » : newton-mètre.
+- « Nm » : newton-mètre.
 
 <a id="art-n10da9"></a>
 ## Art. 2.
@@ -886,55 +904,55 @@ Lorsque les caractéristiques du terrain ne permettent pas la réalisation d’u
 
 Les cheminements extérieurs accessibles répondent aux dispositions suivantes :
 
-1. repérage et guidage :
+- repérage et guidage :
 
-1. une signalisation adaptée est mise en place à l’entrée du site, à proximité des places de stationnement pour les visiteurs, ainsi qu’en chaque point du cheminement accessible où un choix d’itinéraire est donné à l’usager. Les éléments de signalisation répondent aux exigences définies à l’article 14 ;
+  - une signalisation adaptée est mise en place à l’entrée du site, à proximité des places de stationnement pour les visiteurs, ainsi qu’en chaque point du cheminement accessible où un choix d’itinéraire est donné à l’usager. Les éléments de signalisation répondent aux exigences définies à l’article 14 ;
 
-2. le revêtement du cheminement accessible présente sur toute sa longueur un contraste visuel et tactile par rapport à son environnement. À défaut, le cheminement comporte sur toute sa longueur un repère tactile continu pour le guidage à l’aide d’une canne blanche, et visuellement contrasté par rapport à son environnement pour faciliter le guidage des personnes malvoyantes.
+  - le revêtement du cheminement accessible présente sur toute sa longueur un contraste visuel et tactile par rapport à son environnement. À défaut, le cheminement comporte sur toute sa longueur un repère tactile continu pour le guidage à l’aide d’une canne blanche, et visuellement contrasté par rapport à son environnement pour faciliter le guidage des personnes malvoyantes.
 
-2. caractéristiques dimensionnelles :
+- caractéristiques dimensionnelles :
 
-1. profil en long :
+  - profil en long :
 
-1. le cheminement accessible est horizontal et sans ressaut ;
+    - le cheminement accessible est horizontal et sans ressaut ;
 
-2. les escaliers à pas d’âne sont interdits ;
+    - les escaliers à pas d’âne sont interdits ;
 
-3. lorsqu’une dénivellation ou une pente supérieure à 3 pour cent ne peut être évitée, un plan incliné conforme aux caractéristiques définies à l’article 3 ou un ascenseur conforme aux caractéristiques définies à l’article 8 est à mettre en place.
+    - lorsqu’une dénivellation ou une pente supérieure à 3 pour cent ne peut être évitée, un plan incliné conforme aux caractéristiques définies à l’article 3 ou un ascenseur conforme aux caractéristiques définies à l’article 8 est à mettre en place.
 
-2. profil en travers :
+  - profil en travers :
 
-1. à l’exception des chemins donnant uniquement sur un escalier dépourvu d’un espace d’attente sécurisé, la largeur du chemin est supérieure ou égale à 120 cm pour une longueur de chemin inférieure ou égale à 600 cm avec une aire de manœuvre de 150 cm x 150 cm présente au début et à la fin du chemin. Pour des longueurs supérieures, la largeur est supérieure ou égale à 150 cm et des aires de manœuvre de 180 cm x 180 cm sont à prévoir après au maximum 1500 cm de chemin ;
+    - à l’exception des chemins donnant uniquement sur un escalier dépourvu d’un espace d’attente sécurisé, la largeur du chemin est supérieure ou égale à 120 cm pour une longueur de chemin inférieure ou égale à 600 cm avec une aire de manœuvre de 150 cm x 150 cm présente au début et à la fin du chemin. Pour des longueurs supérieures, la largeur est supérieure ou égale à 150 cm et des aires de manœuvre de 180 cm x 180 cm sont à prévoir après au maximum 1500 cm de chemin ;
 
-2. lorsqu’un rétrécissement ponctuel ne peut être évité, la largeur minimale du cheminement peut être ramenée à 100 cm ;
+    - lorsqu’un rétrécissement ponctuel ne peut être évité, la largeur minimale du cheminement peut être ramenée à 100 cm ;
 
-3. le cheminement est conçu et mis en œuvre de manière à éviter la stagnation d’eau. Lorsqu’un dévers est nécessaire, il est inférieur ou égal à 2 pour cent.
+    - le cheminement est conçu et mis en œuvre de manière à éviter la stagnation d’eau. Lorsqu’un dévers est nécessaire, il est inférieur ou égal à 2 pour cent.
 
-3. espaces de manœuvre de porte et d’usage pour les utilisateurs de fauteuil roulant :
+  - espaces de manœuvre de porte et d’usage pour les utilisateurs de fauteuil roulant :
 
-1. un espace de manœuvre de porte, répondant aux exigences définies à l’article 11, est nécessaire de part et d’autre de chaque porte ou portillon situés le long du cheminement, à l’exception de ceux ouvrant uniquement sur un escalier dépourvu d’un espace d’attente sécurisé ;
+    - un espace de manœuvre de porte, répondant aux exigences définies à l’article 11, est nécessaire de part et d’autre de chaque porte ou portillon situés le long du cheminement, à l’exception de ceux ouvrant uniquement sur un escalier dépourvu d’un espace d’attente sécurisé ;
 
-2. un espace d’usage est nécessaire devant chaque équipement ou aménagement situé le long du cheminement afin d’en permettre l’atteinte et l’usage. Les caractéristiques dimensionnelles de ces différents espaces sont définies à l’article 12, paragraphe 2, point 2°, lettre b).
+    - un espace d’usage est nécessaire devant chaque équipement ou aménagement situé le long du cheminement afin d’en permettre l’atteinte et l’usage. Les caractéristiques dimensionnelles de ces différents espaces sont définies à l’article 12, paragraphe 2, point 2°, lettre b).
 
-3. sécurité d’usage :
+- sécurité d’usage :
 
-1. de façon générale, le revêtement de sol est dur, non glissant, non éblouissant, dépourvu de trous ou de fentes d’une largeur ou d’un diamètre supérieur à 2 cm et répond aux exigences définies à l’article 9 ;
+  - de façon générale, le revêtement de sol est dur, non glissant, non éblouissant, dépourvu de trous ou de fentes d’une largeur ou d’un diamètre supérieur à 2 cm et répond aux exigences définies à l’article 9 ;
 
-2. le cheminement accessible est libre de tout obstacle. Afin d’être repérables, les éléments éventuels qui ne peuvent pas être mis en dehors du cheminement répondent aux exigences suivantes :
+  - le cheminement accessible est libre de tout obstacle. Afin d’être repérables, les éléments éventuels qui ne peuvent pas être mis en dehors du cheminement répondent aux exigences suivantes :
 
-1. s’ils sont suspendus au-dessus du cheminement, un passage libre d’au moins 220 cm de hauteur au-dessus du sol est à garantir ;
+    - s’ils sont suspendus au-dessus du cheminement, un passage libre d’au moins 220 cm de hauteur au-dessus du sol est à garantir ;
 
-2. s’ils sont implantés en saillie latérale de plus de 15 cm sur le cheminement et à une hauteur inférieure à 220 cm, un élément de contraste visuel par rapport à leur environnement immédiat et un rappel tactile ou un prolongement au sol est à appliquer ;
+    - s’ils sont implantés en saillie latérale de plus de 15 cm sur le cheminement et à une hauteur inférieure à 220 cm, un élément de contraste visuel par rapport à leur environnement immédiat et un rappel tactile ou un prolongement au sol est à appliquer ;
 
-3. lorsqu’un escalier est situé dans un espace de circulation, la partie située en dessous de 220 cm, si elle n’est pas fermée, est visuellement contrastée, comporte un rappel tactile au sol et est réalisée de manière à prévenir les dangers de chocs ;
+  - lorsqu’un escalier est situé dans un espace de circulation, la partie située en dessous de 220 cm, si elle n’est pas fermée, est visuellement contrastée, comporte un rappel tactile au sol et est réalisée de manière à prévenir les dangers de chocs ;
 
-4. les parois et portes vitrées transparentes situées perpendiculairement au sens de la marche sur les cheminements sont repérables à l’aide d’éléments visuels contrastés par rapport à l’environnement immédiat. Les éléments contrastés collés, peints, gravés ou incrustés dans les vitrages se situent à une hauteur du sol comprise entre 40 cm et 70 cm et entre 120 cm et 160 cm. Les parois vitrées disposant d’un socle d’une hauteur supérieure à 30 cm sont exemptées de l’élément contrasté présent en partie basse. Ces éléments contrastés, d’une hauteur d’au moins 8 cm, sont pleins, à défaut, les espaces entre éléments pleins ne peuvent pas dépasser 5 cm ;
+  - les parois et portes vitrées transparentes situées perpendiculairement au sens de la marche sur les cheminements sont repérables à l’aide d’éléments visuels contrastés par rapport à l’environnement immédiat. Les éléments contrastés collés, peints, gravés ou incrustés dans les vitrages se situent à une hauteur du sol comprise entre 40 cm et 70 cm et entre 120 cm et 160 cm. Les parois vitrées disposant d’un socle d’une hauteur supérieure à 30 cm sont exemptées de l’élément contrasté présent en partie basse. Ces éléments contrastés, d’une hauteur d’au moins 8 cm, sont pleins, à défaut, les espaces entre éléments pleins ne peuvent pas dépasser 5 cm ;
 
-5. toute volée d’escalier répond aux exigences applicables aux escaliers des parties communes visées à l’article 7, à l’exception de la disposition concernant l’éclairage ;
+  - toute volée d’escalier répond aux exigences applicables aux escaliers des parties communes visées à l’article 7, à l’exception de la disposition concernant l’éclairage ;
 
-6. lorsqu’un cheminement accessible croise un itinéraire emprunté par des véhicules, il comporte un élément visuel et tactile permettant l’éveil de la vigilance des piétons au droit de ce croisement. Un marquage au sol et une signalisation indiquent également aux conducteurs des véhicules qu’ils croisent un cheminement pour piétons ;
+  - lorsqu’un cheminement accessible croise un itinéraire emprunté par des véhicules, il comporte un élément visuel et tactile permettant l’éveil de la vigilance des piétons au droit de ce croisement. Un marquage au sol et une signalisation indiquent également aux conducteurs des véhicules qu’ils croisent un cheminement pour piétons ;
 
-7. le cheminement comporte un dispositif d’éclairage répondant aux exigences définies à l’article 13.
+  - le cheminement comporte un dispositif d’éclairage répondant aux exigences définies à l’article 13.
 
 <a id="art-n10e62"></a>
 ## Art. 3.
@@ -945,7 +963,7 @@ Plans inclinés
 
 La pente maximale est de 6 pour cent et le dévers est nul. La longueur maximale du plan incliné entre paliers, ci-après appelée « L », est calculée en fonction de sa pente, ci-après appelée « P » :
 
-L=14-43*P avec 3≤P(%)≤6 et L(m)≤10.
+L = 14 - 4 3 * P avec 3 ≤ P ( % ) ≤ 6 et L ( m ) ≤ 10 .
 
 Une délimitation de 10 cm de hauteur au moins est réalisée de part et d’autre du plan incliné sur toute sa longueur.
 
@@ -953,25 +971,25 @@ La largeur du plan incliné entre mains courantes est de 150 cm. Elle peut être
 
 Un palier est à prévoir en haut et en bas de chaque plan incliné, quelle qu’en soit la longueur. Il dispose des caractéristiques suivantes :
 
-1. il mesure 150 cm x 150 cm ;
+- il mesure 150 cm x 150 cm ;
 
-2. un dévers ou une pente inférieure ou égale à 2 pour cent.
+- un dévers ou une pente inférieure ou égale à 2 pour cent.
 
 (2)
 
 Une main courante double est installée de chaque côté du plan incliné ainsi qu’aux paliers de repos intermédiaires et répond aux dispositions suivantes :
 
-1. la main courante supérieure se situe à une hauteur comprise entre 85 cm et 90 cm, celle inférieure à une hauteur comprise entre 70 cm et 75 cm ;
+- la main courante supérieure se situe à une hauteur comprise entre 85 cm et 90 cm, celle inférieure à une hauteur comprise entre 70 cm et 75 cm ;
 
-2. elle est de forme ronde ovale ou à coins arrondis et s’inscrit dans un cercle de 3 cm à 4,5 cm de diamètre ;
+- elle est de forme ronde ovale ou à coins arrondis et s’inscrit dans un cercle de 3 cm à 4,5 cm de diamètre ;
 
-3. l’espace libre autour de la main courante est d’au moins 4 cm ;
+- l’espace libre autour de la main courante est d’au moins 4 cm ;
 
-4. les points de fixation se trouvent sur la partie inférieure de la main courante et sont inscrits dans un arc maximal de 90 degrés ;
+- les points de fixation se trouvent sur la partie inférieure de la main courante et sont inscrits dans un arc maximal de 90 degrés ;
 
-5. les extrémités de la main courante sont recourbées vers le bas ou vers la paroi ;
+- les extrémités de la main courante sont recourbées vers le bas ou vers la paroi ;
 
-6. la main courante est différenciée de son environnement grâce à un éclairage particulier ou à un contraste visuel.
+- la main courante est différenciée de son environnement grâce à un éclairage particulier ou à un contraste visuel.
 
 (3)
 
@@ -994,21 +1012,21 @@ Les places adaptées sont attribuées en priorité aux personnes handicapées oc
 
 Les places adaptées répondent aux dispositions suivantes :
 
-1. nombre :
+- nombre :
 
-1. au moins une place adaptée par bloc entamé de vingt places est à prévoir ;
+  - au moins une place adaptée par bloc entamé de vingt places est à prévoir ;
 
-2. au-delà de cent places, une place adaptée supplémentaire est à prévoir par bloc de cent places.
+  - au-delà de cent places, une place adaptée supplémentaire est à prévoir par bloc de cent places.
 
-2. concernant le repérage, en présence de places de stationnement destinées aux visiteurs, un marquage au sol signale chaque place adaptée destinée aux visiteurs ;
+- concernant le repérage, en présence de places de stationnement destinées aux visiteurs, un marquage au sol signale chaque place adaptée destinée aux visiteurs ;
 
-3. caractéristiques dimensionnelles :
+- caractéristiques dimensionnelles :
 
-1. une place adaptée correspond à un espace horizontal au dévers près, inférieur ou égal à 2 pour cent. Le revêtement est sans trous ni fentes, dur et antidérapant, il est libre de tout obstacle ;
+  - une place adaptée correspond à un espace horizontal au dévers près, inférieur ou égal à 2 pour cent. Le revêtement est sans trous ni fentes, dur et antidérapant, il est libre de tout obstacle ;
 
-2. la largeur minimale des places adaptées est de 350 cm. Elle se compose de l’emplacement de stationnement d’au moins 230 cm et de l’aire de transfert d’au moins 120 cm. En présence de plus de trois places adaptées, l’aire de transfert peut être commune à deux places adaptées adjacentes. Dans ce cas, la largeur minimale de l’aire de transfert est de 150 cm et l’aire de transfert est signalée par un marquage spécifique sur toute la surface. L’aire de transfert se situe en dehors du cheminement et de la circulation ;
+  - la largeur minimale des places adaptées est de 350 cm. Elle se compose de l’emplacement de stationnement d’au moins 230 cm et de l’aire de transfert d’au moins 120 cm. En présence de plus de trois places adaptées, l’aire de transfert peut être commune à deux places adaptées adjacentes. Dans ce cas, la largeur minimale de l’aire de transfert est de 150 cm et l’aire de transfert est signalée par un marquage spécifique sur toute la surface. L’aire de transfert se situe en dehors du cheminement et de la circulation ;
 
-3. la profondeur minimale des places adaptées est de 500 cm.
+  - la profondeur minimale des places adaptées est de 500 cm.
 
 <a id="art-n10fa8"></a>
 ## Art. 5.
@@ -1029,31 +1047,31 @@ Lorsqu’un dispositif permet une communication entre visiteur et occupant, il p
 
 L’accès au bâtiment répond aux dispositions suivantes :
 
-1. repérage :
+- repérage :
 
-1. les entrées principales du bâtiment sont facilement repérables par des éléments architecturaux ou par un traitement utilisant des matériaux différents ou visuellement contrastés ;
+  - les entrées principales du bâtiment sont facilement repérables par des éléments architecturaux ou par un traitement utilisant des matériaux différents ou visuellement contrastés ;
 
-2. tout dispositif visant à permettre ou restreindre l’accès au bâtiment ou à se signaler à un occupant ou au portier du bâtiment, est facilement repérable par un contraste visuel ou une signalétique répondant aux exigences définies à l’article 14, et n’est pas situé dans une zone sombre.
+  - tout dispositif visant à permettre ou restreindre l’accès au bâtiment ou à se signaler à un occupant ou au portier du bâtiment, est facilement repérable par un contraste visuel ou une signalétique répondant aux exigences définies à l’article 14, et n’est pas situé dans une zone sombre.
 
-2. atteinte et usage :
+- atteinte et usage :
 
-1. les systèmes de contrôle d’accès ou de communication entre visiteurs et occupants ainsi que les dispositifs de commande manuelle répondent aux exigences suivantes :
+  - les systèmes de contrôle d’accès ou de communication entre visiteurs et occupants ainsi que les dispositifs de commande manuelle répondent aux exigences suivantes :
 
-1. être situés à plus de 50 cm d’un angle rentrant de parois ou de tout autre obstacle à l’approche d’un fauteuil roulant ;
+    - être situés à plus de 50 cm d’un angle rentrant de parois ou de tout autre obstacle à l’approche d’un fauteuil roulant ;
 
-2. être situés à une hauteur comprise entre 85 cm et 110 cm.
+    - être situés à une hauteur comprise entre 85 cm et 110 cm.
 
-2. le système d’ouverture des portes est utilisable en position « debout » comme en position « assise » ;
+  - le système d’ouverture des portes est utilisable en position « debout » comme en position « assise » ;
 
-3. lorsqu’il existe un dispositif de déverrouillage automatique, il permet à une personne à mobilité réduite d’atteindre la porte et d’entamer la manœuvre d’ouverture avant que la porte ne soit à nouveau verrouillée ;
+  - lorsqu’il existe un dispositif de déverrouillage automatique, il permet à une personne à mobilité réduite d’atteindre la porte et d’entamer la manœuvre d’ouverture avant que la porte ne soit à nouveau verrouillée ;
 
-4. tout signal lié au fonctionnement des dispositifs d’accès est sonore et visuel ;
+  - tout signal lié au fonctionnement des dispositifs d’accès est sonore et visuel ;
 
-5. les appareils d’interphonie sont munis d’un système permettant à un occupant de visualiser ses visiteurs ;
+  - les appareils d’interphonie sont munis d’un système permettant à un occupant de visualiser ses visiteurs ;
 
-6. les appareils à menu déroulant permettent l’appel direct par un code ;
+  - les appareils à menu déroulant permettent l’appel direct par un code ;
 
-7. afin d’être lisible par une personne malvoyante, toute information répond aux exigences définies à l’article 14.
+  - afin d’être lisible par une personne malvoyante, toute information répond aux exigences définies à l’article 14.
 
 <a id="art-n11029"></a>
 ## Art. 6.
@@ -1077,55 +1095,55 @@ Les escaliers situés dans les parties communes peuvent être utilisés en sécu
 
 À cette fin, ces escaliers répondent aux dispositions suivantes, que le bâtiment comporte ou non un ascenseur :
 
-1. caractéristiques dimensionnelles :
+- caractéristiques dimensionnelles :
 
-1. la largeur minimale entre mains courantes est de 120 cm sur toute la longueur de l’escalier, y compris sur les paliers ;
+  - la largeur minimale entre mains courantes est de 120 cm sur toute la longueur de l’escalier, y compris sur les paliers ;
 
-2. les marches répondent aux exigences suivantes :
+  - les marches répondent aux exigences suivantes :
 
-1. la hauteur maximale des marches est égale à 16 cm avec une tolérance de 10 pour cent ;
+    - la hauteur maximale des marches est égale à 16 cm avec une tolérance de 10 pour cent ;
 
-2. la profondeur des marches est adaptée à la hauteur des marches de façon à ce que la formule, 2h + p = 60 cm à 65 cm, soit respectée, h désignant la hauteur et p la profondeur de la marche en cm ;
+    - la profondeur des marches est adaptée à la hauteur des marches de façon à ce que la formule, 2h + p = 60 cm à 65 cm, soit respectée, h désignant la hauteur et p la profondeur de la marche en cm ;
 
-3. la hauteur et la profondeur des marches sont identiques dans la volée d’un même escalier.
+    - la hauteur et la profondeur des marches sont identiques dans la volée d’un même escalier.
 
-3. une volée d’escalier compte au maximum seize marches. Au-delà, elles sont recoupées par des paliers dont la profondeur est au moins égale à 120 cm entre mains courantes.
+  - une volée d’escalier compte au maximum seize marches. Au-delà, elles sont recoupées par des paliers dont la profondeur est au moins égale à 120 cm entre mains courantes.
 
-2. sécurité d’usage :
+- sécurité d’usage :
 
-1. les nez de marches répondent aux exigences suivantes :
+  - les nez de marches répondent aux exigences suivantes :
 
-1. être non glissants ;
+    - être non glissants ;
 
-2. être non saillants ;
+    - être non saillants ;
 
-3. le nez de la première et de la dernière marche d’une volée d’escalier disposent d’une bande contrastée de la largeur de la marche et d’une profondeur supérieure ou égale à 4 cm. Si l’escalier comporte moins de quatre marches, elles sont toutes signalées par cette bande contrastée.
+    - le nez de la première et de la dernière marche d’une volée d’escalier disposent d’une bande contrastée de la largeur de la marche et d’une profondeur supérieure ou égale à 4 cm. Si l’escalier comporte moins de quatre marches, elles sont toutes signalées par cette bande contrastée.
 
-2. les escaliers, à l’exception des escaliers de secours extérieurs, disposent de contremarches pleines. La contremarche peut être inclinée d’au maximum 2,5 cm vers l’intérieur ;
+  - les escaliers, à l’exception des escaliers de secours extérieurs, disposent de contremarches pleines. La contremarche peut être inclinée d’au maximum 2,5 cm vers l’intérieur ;
 
-3. l’escalier comporte un dispositif d’éclairage répondant aux exigences définies à l’article 13.
+  - l’escalier comporte un dispositif d’éclairage répondant aux exigences définies à l’article 13.
 
-3. atteinte et usage :
+- atteinte et usage :
 
-1. l’escalier et les paliers, quelle que soit leur conception, comportent une main courante de chaque côté ;
+  - l’escalier et les paliers, quelle que soit leur conception, comportent une main courante de chaque côté ;
 
-2. toute main courante répond aux exigences suivantes :
+  - toute main courante répond aux exigences suivantes :
 
-1. être installée à une hauteur comprise entre 85 cm et 90 cm mesurée sur le nez de marche ;
+    - être installée à une hauteur comprise entre 85 cm et 90 cm mesurée sur le nez de marche ;
 
-2. se prolonger de 30 cm au-delà de la première et de la dernière marche de chaque volée sans empiéter de plus de 15 cm sur la zone de circulation ;
+    - se prolonger de 30 cm au-delà de la première et de la dernière marche de chaque volée sans empiéter de plus de 15 cm sur la zone de circulation ;
 
-3. ne pas être interrompue sauf si des moyens alternatifs de guidance et de soutien sont présents ;
+    - ne pas être interrompue sauf si des moyens alternatifs de guidance et de soutien sont présents ;
 
-4. être de forme ronde, ovale ou à coins arrondis et s’inscrire dans un cercle de 3 cm à 4,5 cm de diamètre ;
+    - être de forme ronde, ovale ou à coins arrondis et s’inscrire dans un cercle de 3 cm à 4,5 cm de diamètre ;
 
-5. disposer d’un espace libre pour la main d’au moins 4 cm ;
+    - disposer d’un espace libre pour la main d’au moins 4 cm ;
 
-6. avoir les points de fixation sur la partie inférieure de la main courante inscrits dans un arc maximal de 90 degrés ;
+    - avoir les points de fixation sur la partie inférieure de la main courante inscrits dans un arc maximal de 90 degrés ;
 
-7. avoir les extrémités recourbées vers le bas ou vers la paroi ;
+    - avoir les extrémités recourbées vers le bas ou vers la paroi ;
 
-8. être différenciée de la paroi support grâce à un éclairage particulier ou à un contraste visuel.
+    - être différenciée de la paroi support grâce à un éclairage particulier ou à un contraste visuel.
 
 <a id="art-n110e1"></a>
 ## Art. 8.
@@ -1154,61 +1172,61 @@ Les caractéristiques et la disposition des commandes extérieures et intérieur
 
 Tout ascenseur répond aux dispositions suivantes :
 
-1. caractéristiques dimensionnelles :
+- caractéristiques dimensionnelles :
 
-1. la cabine a une largeur intérieure minimale de 110 cm et une profondeur intérieure minimale de 140 cm ;
+  - la cabine a une largeur intérieure minimale de 110 cm et une profondeur intérieure minimale de 140 cm ;
 
-2. les portes de cabines sont placées sur le petit côté de la cabine. Si une porte est prévue sur deux côtés adjacents, la surface au sol minimale de la cabine est de 140 cm x 140 cm ;
+  - les portes de cabines sont placées sur le petit côté de la cabine. Si une porte est prévue sur deux côtés adjacents, la surface au sol minimale de la cabine est de 140 cm x 140 cm ;
 
-3. la largeur libre du passage des portes de cabine et palières est au moins de 90 cm.
+  - la largeur libre du passage des portes de cabine et palières est au moins de 90 cm.
 
-2. équipement et signalisation en cabine :
+- équipement et signalisation en cabine :
 
-1. une main courante est installée selon les exigences suivantes :
+  - une main courante est installée selon les exigences suivantes :
 
-1. elle est installée sur au moins une des parois latérales de la cabine ;
+    - elle est installée sur au moins une des parois latérales de la cabine ;
 
-2. la section de la partie à saisir de cette main courante a des dimensions comprises entre 3 cm et 4,5 cm ;
+    - la section de la partie à saisir de cette main courante a des dimensions comprises entre 3 cm et 4,5 cm ;
 
-3. l’espace libre entre la paroi et la main courante est au moins de 3,5 cm ;
+    - l’espace libre entre la paroi et la main courante est au moins de 3,5 cm ;
 
-4. le point le plus haut de la main courante est situé à une hauteur de 90 cm du sol de la cabine ;
+    - le point le plus haut de la main courante est situé à une hauteur de 90 cm du sol de la cabine ;
 
-5. la main courante peut être interrompue à l’emplacement du panneau de commande en cabine pour ne pas faire obstacle aux boutons ou commandes ;
+    - la main courante peut être interrompue à l’emplacement du panneau de commande en cabine pour ne pas faire obstacle aux boutons ou commandes ;
 
-6. les extrémités de la main courante sont recourbées vers le bas ou vers la paroi pour éviter le risque de blessure.
+    - les extrémités de la main courante sont recourbées vers le bas ou vers la paroi pour éviter le risque de blessure.
 
-2. le dispositif de demande de secours est équipé de signalisations visuelle et sonore, consistant en :
+  - le dispositif de demande de secours est équipé de signalisations visuelle et sonore, consistant en :
 
-1. un pictogramme illuminé jaune en complément du signal sonore de transmission de la demande, pour indiquer que la demande de secours a été émise ;
+    - un pictogramme illuminé jaune en complément du signal sonore de transmission de la demande, pour indiquer que la demande de secours a été émise ;
 
-2. un pictogramme illuminé vert en complément du signal sonore avec liaison téléphonique, pour indiquer que la demande de secours a été enregistrée ;
+    - un pictogramme illuminé vert en complément du signal sonore avec liaison téléphonique, pour indiquer que la demande de secours a été enregistrée ;
 
-3. une liaison téléphonique qui a un niveau sonore adapté aux conditions du site.
+    - une liaison téléphonique qui a un niveau sonore adapté aux conditions du site.
 
-3. commandes aux paliers et en cabine :
+- commandes aux paliers et en cabine :
 
-1. les boutons de commande ont un diamètre d’au moins 5 cm avec une distance d’au moins 1 cm entre boutons. Ils sont en relief et bien contrastés. Lorsqu’il est impossible d’intégrer dans l’espace prévu à la lettre b) le nombre de boutons de commande nécessaires pour desservir tous les étages, le diamètre minimal des boutons de commande est d’au moins 2 cm. Ils sont placés à une distance minimale de 50 cm de tout coin ou paroi adjacente. L’information indiquée sur les boutons est identifiable visuellement et tactilement ;
+  - les boutons de commande ont un diamètre d’au moins 5 cm avec une distance d’au moins 1 cm entre boutons. Ils sont en relief et bien contrastés. Lorsqu’il est impossible d’intégrer dans l’espace prévu à la lettre b) le nombre de boutons de commande nécessaires pour desservir tous les étages, le diamètre minimal des boutons de commande est d’au moins 2 cm. Ils sont placés à une distance minimale de 50 cm de tout coin ou paroi adjacente. L’information indiquée sur les boutons est identifiable visuellement et tactilement ;
 
-2. les dispositifs de commande sont installés à une hauteur située entre 85 cm et 110 cm ;
+  - les dispositifs de commande sont installés à une hauteur située entre 85 cm et 110 cm ;
 
-3. les boutons d’étages sont disposés en ordre chronologique de bas en haut ou de gauche à droite ;
+  - les boutons d’étages sont disposés en ordre chronologique de bas en haut ou de gauche à droite ;
 
-4. les boutons de réouverture de porte et d’alarme sont disposés en bas pour un agencement vertical ou sur la gauche pour un agencement horizontal. Le bouton d’alarme est placé au-dessus du bouton de réouverture de porte ;
+  - les boutons de réouverture de porte et d’alarme sont disposés en bas pour un agencement vertical ou sur la gauche pour un agencement horizontal. Le bouton d’alarme est placé au-dessus du bouton de réouverture de porte ;
 
-5. un bouton de fermeture de porte permet de réduire manuellement le temps d’ouverture des portes.
+  - un bouton de fermeture de porte permet de réduire manuellement le temps d’ouverture des portes.
 
-4. atteinte et usage :
+- atteinte et usage :
 
-1. les portes de cabine et palières sont de type automatique ;
+  - les portes de cabine et palières sont de type automatique ;
 
-2. une aire de manœuvre de porte de 150 cm x 150 cm est aménagée devant les ascenseurs. Les aires de manœuvre de porte sont sans pente, ni dévers, sauf pour les aires de manœuvre situées à l’extérieur, qui peuvent avoir une pente maximale de 2 pour cent ;
+  - une aire de manœuvre de porte de 150 cm x 150 cm est aménagée devant les ascenseurs. Les aires de manœuvre de porte sont sans pente, ni dévers, sauf pour les aires de manœuvre situées à l’extérieur, qui peuvent avoir une pente maximale de 2 pour cent ;
 
-3. tout escalier descendant et toute marche descendante disposés devant ou latéralement à l’aire de manœuvre d’un ascenseur sont situés à une distance de sécurité supplémentaire de 90 cm de l’aire de manœuvre ;
+  - tout escalier descendant et toute marche descendante disposés devant ou latéralement à l’aire de manœuvre d’un ascenseur sont situés à une distance de sécurité supplémentaire de 90 cm de l’aire de manœuvre ;
 
-4. le fond de la cabine est muni d’un miroir couvrant toute sa hauteur à installer à maximum 35 cm du sol. Sont dispensés de cette exigence les ascenseurs dont les cabines disposent d’une aire de manœuvre d’un diamètre d’au moins 150 cm et en cas de portes opposées ;
+  - le fond de la cabine est muni d’un miroir couvrant toute sa hauteur à installer à maximum 35 cm du sol. Sont dispensés de cette exigence les ascenseurs dont les cabines disposent d’une aire de manœuvre d’un diamètre d’au moins 150 cm et en cas de portes opposées ;
 
-5. l’ascenseur est équipé d’un système qui permet d’ajuster le temps d’ouverture des portes. Ce temps est à ajuster en fonction des conditions d’utilisation de l’ascenseur. Un dispositif automatique évite tout contact physique entre l’usager et le vantail menant de la porte.
+  - l’ascenseur est équipé d’un système qui permet d’ajuster le temps d’ouverture des portes. Ce temps est à ajuster en fonction des conditions d’utilisation de l’ascenseur. Un dispositif automatique évite tout contact physique entre l’usager et le vantail menant de la porte.
 
 <a id="art-n111c6"></a>
 ## Art. 9.
@@ -1236,33 +1254,33 @@ Par dérogation à l’alinéa 1er, lorsqu’un dispositif rendu nécessaire du 
 
 Pour satisfaire aux exigences du paragraphe 1er, les portes répondent aux dispositions suivantes :
 
-1. caractéristiques dimensionnelles :
+- caractéristiques dimensionnelles :
 
-1. les portes présentent un passage libre d’une largeur minimale de 90 cm et d’une hauteur libre minimale de 205 cm ;
+  - les portes présentent un passage libre d’une largeur minimale de 90 cm et d’une hauteur libre minimale de 205 cm ;
 
-2. les portes sont sans seuil ;
+  - les portes sont sans seuil ;
 
-3. un espace de manœuvre de porte dont les caractéristiques dimensionnelles sont définies à l’article 11 est nécessaire devant chaque porte, à l’exception de celles s’ouvrant uniquement sur un escalier dépourvu d’un espace d’attente sécurisé.
+  - un espace de manœuvre de porte dont les caractéristiques dimensionnelles sont définies à l’article 11 est nécessaire devant chaque porte, à l’exception de celles s’ouvrant uniquement sur un escalier dépourvu d’un espace d’attente sécurisé.
 
-2. atteinte et usage :
+- atteinte et usage :
 
-1. les poignées de porte sont facilement préhensibles et manœuvrables en position « debout » comme en position « assise », ainsi que par une personne ayant des difficultés à saisir et à faire un geste de rotation du poignet. Elles sont de couleur contrastée par rapport à la feuille de porte ;
+  - les poignées de porte sont facilement préhensibles et manœuvrables en position « debout » comme en position « assise », ainsi que par une personne ayant des difficultés à saisir et à faire un geste de rotation du poignet. Elles sont de couleur contrastée par rapport à la feuille de porte ;
 
-2. les poignées se situent à une hauteur comprise entre 85 cm et 110 cm. Les portes coulissantes à ouverture manuelle sont munies de part et d’autre de la porte d’un tirant vertical d’une longueur minimale de 40 cm axé à une hauteur de 105 cm. En position ouverte ou fermée, la distance entre le chambranle et le tirant est d’au moins 4 cm ;
+  - les poignées se situent à une hauteur comprise entre 85 cm et 110 cm. Les portes coulissantes à ouverture manuelle sont munies de part et d’autre de la porte d’un tirant vertical d’une longueur minimale de 40 cm axé à une hauteur de 105 cm. En position ouverte ou fermée, la distance entre le chambranle et le tirant est d’au moins 4 cm ;
 
-3. à défaut d’un espace libre latéralement à la porte du côté de la poignée décrit à l’article 11, la porte est à ouverture automatique.
+  - à défaut d’un espace libre latéralement à la porte du côté de la poignée décrit à l’article 11, la porte est à ouverture automatique.
 
-3. sécurité d’usage :
+- sécurité d’usage :
 
-1. toute porte à ouverture automatique est à signaler en tant que telle, à moins d’être coulissante. La durée d’ouverture de la porte permet le passage de toute personne et elle ne peut pas se refermer, tant qu’une personne se trouve dans son débattement ;
+  - toute porte à ouverture automatique est à signaler en tant que telle, à moins d’être coulissante. La durée d’ouverture de la porte permet le passage de toute personne et elle ne peut pas se refermer, tant qu’une personne se trouve dans son débattement ;
 
-2. les portes comportant une partie vitrée importante sont repérables en position ouverte ou fermée à l’aide d’éléments visuels contrastés par rapport à l’environnement immédiat définis à l’article 2, paragraphe 2, point 3°, lettre d) ;
+  - les portes comportant une partie vitrée importante sont repérables en position ouverte ou fermée à l’aide d’éléments visuels contrastés par rapport à l’environnement immédiat définis à l’article 2, paragraphe 2, point 3°, lettre d) ;
 
-3. la force d’ouverture maximale des portes est de 25 N. Pour les portes munies d’un ferme-porte, le moment de force maximal d’ouverture de la porte est de 50 Nm. Si ces valeurs maximales sont dépassées, la porte est à ouverture automatique. Pour les portes coupe-feu munies d’un système de fermeture automatique asservi au système de détection d’incendie, une force d’ouverture plus importante est tolérée pour des besoins de sécurité ;
+  - la force d’ouverture maximale des portes est de 25 N. Pour les portes munies d’un ferme-porte, le moment de force maximal d’ouverture de la porte est de 50 Nm. Si ces valeurs maximales sont dépassées, la porte est à ouverture automatique. Pour les portes coupe-feu munies d’un système de fermeture automatique asservi au système de détection d’incendie, une force d’ouverture plus importante est tolérée pour des besoins de sécurité ;
 
-4. en présence d’une porte d’entrée battante automatique, une bande d’éveil à la vigilance constituée de plots est à prévoir du côté et devant le débattement de la porte. Elle est installée à une distance de 30 cm du débattement de la porte. Sa profondeur est de 60 cm et sa largeur couvre toute la largeur de la porte ;
+  - en présence d’une porte d’entrée battante automatique, une bande d’éveil à la vigilance constituée de plots est à prévoir du côté et devant le débattement de la porte. Elle est installée à une distance de 30 cm du débattement de la porte. Sa profondeur est de 60 cm et sa largeur couvre toute la largeur de la porte ;
 
-5. le battant mobile des portes coupe-feu à deux vantaux est signalé afin que celui-ci soit facilement repérable et utilisable.
+  - le battant mobile des portes coupe-feu à deux vantaux est signalé afin que celui-ci soit facilement repérable et utilisable.
 
 <a id="art-n11264"></a>
 ## Art. 11.
@@ -1279,57 +1297,57 @@ L’espace de manœuvre est de forme rectangulaire.
 
 Pour les portes battantes, situées dans le cheminement, à :
 
-1. accès frontal :
+- accès frontal :
 
-1. la largeur de l’espace de manœuvre de la porte est composée d’une partie de 50 cm située latéralement à la porte du côté de la poignée et d’une partie de 100 cm située du côté opposé ;
+  - la largeur de l’espace de manœuvre de la porte est composée d’une partie de 50 cm située latéralement à la porte du côté de la poignée et d’une partie de 100 cm située du côté opposé ;
 
-2. la profondeur est définie comme suit :
+  - la profondeur est définie comme suit :
 
-1. lorsque l’ouverture se fait en poussant, la profondeur de l’espace de manœuvre est de 150 cm ;
+    - lorsque l’ouverture se fait en poussant, la profondeur de l’espace de manœuvre est de 150 cm ;
 
-2. lorsque l’ouverture se fait en tirant, la profondeur de l’espace de manœuvre est de 120 cm en plus du débattement de la porte.
+    - lorsque l’ouverture se fait en tirant, la profondeur de l’espace de manœuvre est de 120 cm en plus du débattement de la porte.
 
-2. accès latéral :
+- accès latéral :
 
-1. la largeur de l’espace de manœuvre de la porte est définie comme suit :
+  - la largeur de l’espace de manœuvre de la porte est définie comme suit :
 
-1. lorsque l’ouverture se fait en poussant, la largeur de l’espace de manœuvre est de 120 cm ;
+    - lorsque l’ouverture se fait en poussant, la largeur de l’espace de manœuvre est de 120 cm ;
 
-2. lorsque l’ouverture se fait en tirant, la largeur de l’espace de manœuvre est de 150 cm.
+    - lorsque l’ouverture se fait en tirant, la largeur de l’espace de manœuvre est de 150 cm.
 
-2. la profondeur est définie comme suit :
+  - la profondeur est définie comme suit :
 
-1. lorsque l’ouverture se fait en poussant, la profondeur de l’espace de manœuvre est composée d’une partie de 50 cm située latéralement à la porte du côté de la poignée et d’une partie de 120 cm située du côté opposé ;
+    - lorsque l’ouverture se fait en poussant, la profondeur de l’espace de manœuvre est composée d’une partie de 50 cm située latéralement à la porte du côté de la poignée et d’une partie de 120 cm située du côté opposé ;
 
-2. lorsque l’ouverture se fait en tirant, la profondeur de l’espace de manœuvre est composée de la largeur de la porte prolongée de 120 cm du côté de la poignée.
+    - lorsque l’ouverture se fait en tirant, la profondeur de l’espace de manœuvre est composée de la largeur de la porte prolongée de 120 cm du côté de la poignée.
 
 (3)
 
 Pour les portes coulissantes, situées dans le cheminement, à :
 
-1. accès frontal :
+- accès frontal :
 
-1. la largeur de l’espace de manœuvre est composée d’une partie de 25 cm située latéralement à la porte du côté de la poignée et d’une partie de 100 cm située du côté opposé ;
+  - la largeur de l’espace de manœuvre est composée d’une partie de 25 cm située latéralement à la porte du côté de la poignée et d’une partie de 100 cm située du côté opposé ;
 
-2. la profondeur est de 150 cm.
+  - la profondeur est de 150 cm.
 
-2. accès latéral :
+- accès latéral :
 
-1. la largeur de l’espace de manœuvre est composée d’une partie de 25 cm située latéralement à la porte du côté de la poignée et d’une partie de 120 cm située du côté opposé ;
+  - la largeur de l’espace de manœuvre est composée d’une partie de 25 cm située latéralement à la porte du côté de la poignée et d’une partie de 120 cm située du côté opposé ;
 
-2. la profondeur est de 120 cm.
+  - la profondeur est de 120 cm.
 
 (4)
 
 Pour les portes intérieures à une pièce :
 
-1. la largeur de l’espace de manœuvre de la porte est composée d’une partie de 50 cm située latéralement à la porte du côté de la poignée et d’une partie de 100 cm située du côté opposé. La partie située latéralement à la porte du côté de la poignée peut être réduite à 25 cm pour une porte coulissante ;
+- la largeur de l’espace de manœuvre de la porte est composée d’une partie de 50 cm située latéralement à la porte du côté de la poignée et d’une partie de 100 cm située du côté opposé. La partie située latéralement à la porte du côté de la poignée peut être réduite à 25 cm pour une porte coulissante ;
 
-2. la profondeur de l’espace de manœuvre est définie comme suit :
+- la profondeur de l’espace de manœuvre est définie comme suit :
 
-1. pour les portes coulissantes ou lorsque l’ouverture se fait en poussant, la profondeur est de 120 cm ;
+  - pour les portes coulissantes ou lorsque l’ouverture se fait en poussant, la profondeur est de 120 cm ;
 
-2. lorsque l’ouverture se fait en tirant, la profondeur est de 150 cm.
+  - lorsque l’ouverture se fait en tirant, la profondeur est de 150 cm.
 
 <a id="art-n11331"></a>
 ## Art. 12.
@@ -1346,23 +1364,23 @@ La disposition des équipements ne crée pas d’obstacle ou de danger pour les 
 
 Les équipements et dispositifs destinés à l’usage des occupants ou des visiteurs, y compris les boîtes aux lettres et les commandes d’éclairage, répondent aux dispositions suivantes :
 
-1. repérage :
+- repérage :
 
-1. les équipements et dispositifs sont repérables grâce à un éclairage particulier ou à un contraste visuel ;
+  - les équipements et dispositifs sont repérables grâce à un éclairage particulier ou à un contraste visuel ;
 
-2. les commandes d’éclairages sont visibles de jour comme de nuit.
+  - les commandes d’éclairages sont visibles de jour comme de nuit.
 
-2. atteinte et usage :
+- atteinte et usage :
 
-1. les équipements et dispositifs sont situés :
+  - les équipements et dispositifs sont situés :
 
-1. à plus de 50 cm d’un angle rentrant de parois ou de tout autre obstacle ;
+    - à plus de 50 cm d’un angle rentrant de parois ou de tout autre obstacle ;
 
-2. à une hauteur comprise entre 85 cm et 110 cm.
+    - à une hauteur comprise entre 85 cm et 110 cm.
 
-2. un espace d’usage permet le positionnement d’un fauteuil roulant ou d’une personne avec une ou deux cannes pour utiliser un équipement ou un dispositif de commande ou de service. L’espace d’usage est situé à l’aplomb de l’équipement, du dispositif de commande ou de service et correspond à un rectangle de dimensions minimales de 90 cm x 120 cm ;
+  - un espace d’usage permet le positionnement d’un fauteuil roulant ou d’une personne avec une ou deux cannes pour utiliser un équipement ou un dispositif de commande ou de service. L’espace d’usage est situé à l’aplomb de l’équipement, du dispositif de commande ou de service et correspond à un rectangle de dimensions minimales de 90 cm x 120 cm ;
 
-3. toutefois, s’agissant des boîtes aux lettres normalisées, les obligations prévues aux lettres a) et b) ne concernent qu’une boîte par bloc entamé de cinq boîtes.
+  - toutefois, s’agissant des boîtes aux lettres normalisées, les obligations prévues aux lettres a) et b) ne concernent qu’une boîte par bloc entamé de cinq boîtes.
 
 <a id="art-n11396"></a>
 ## Art. 13.
@@ -1390,61 +1408,61 @@ Les éléments d’information et de signalisation permanents fournis aux visite
 
 Concernant la visibilité des informations :
 
-1. les informations sont regroupées ;
+- les informations sont regroupées ;
 
-2. au moins un support d’information répond aux exigences suivantes :
+- au moins un support d’information répond aux exigences suivantes :
 
-1. être contrasté par rapport à son environnement immédiat ;
+  - être contrasté par rapport à son environnement immédiat ;
 
-2. permettre une vision et une lecture en position « debout » comme en position « assise » ;
+  - permettre une vision et une lecture en position « debout » comme en position « assise » ;
 
-3. être choisi, positionné et orienté de façon à éviter tout effet d’éblouissement, de reflet ou de contre-jour dû à l’éclairage naturel ou artificiel ;
+  - être choisi, positionné et orienté de façon à éviter tout effet d’éblouissement, de reflet ou de contre-jour dû à l’éclairage naturel ou artificiel ;
 
-4. s’il est situé à une hauteur inférieure à 160 cm, permettre de s’en approcher à moins de 100 cm.
+  - s’il est situé à une hauteur inférieure à 160 cm, permettre de s’en approcher à moins de 100 cm.
 
 (3)
 
 Concernant la lisibilité, les informations données sur ces supports répondent aux exigences suivantes :
 
-1. être fortement contrastées par rapport au fond du support ;
+- être fortement contrastées par rapport au fond du support ;
 
-2. la hauteur des caractères d’écriture est proportionnée aux circonstances. Elle dépend de l’importance de l’information délivrée, des dimensions du local et de la distance de lecture de référence fixée en fonction de ces éléments. La taille minimale est de 1 cm pour une distance de lecture de 40 cm ou proportionnelle à la distance de la lecture ;
+- la hauteur des caractères d’écriture est proportionnée aux circonstances. Elle dépend de l’importance de l’information délivrée, des dimensions du local et de la distance de lecture de référence fixée en fonction de ces éléments. La taille minimale est de 1 cm pour une distance de lecture de 40 cm ou proportionnelle à la distance de la lecture ;
 
-3. les caractères sont déliés, sans sérif, ne présentent aucune ligature et ne sont pas en italique ;
+- les caractères sont déliés, sans sérif, ne présentent aucune ligature et ne sont pas en italique ;
 
-4. les textes sont en caractères majuscules et minuscules ;
+- les textes sont en caractères majuscules et minuscules ;
 
-5. les inscriptions sont éclairées convenablement.
+- les inscriptions sont éclairées convenablement.
 
 (4)
 
 Concernant la compréhension des informations par tous les visiteurs, y compris par les personnes avec un handicap mental ou intellectuel :
 
-1. la signalisation recourt autant que possible à des icônes ou à des pictogrammes ;
+- la signalisation recourt autant que possible à des icônes ou à des pictogrammes ;
 
-2. lorsqu’ils existent, le recours aux pictogrammes normalisés s’impose.
+- lorsqu’ils existent, le recours aux pictogrammes normalisés s’impose.
 
 (5)
 
 Concernant la couleur :
 
-1. elle peut aider à améliorer la perceptibilité de la signalisation ;
+- elle peut aider à améliorer la perceptibilité de la signalisation ;
 
-2. toutefois les différences de teinte ou d’intensité des couleurs seules ne fournissent pas un contraste visuel adapté ;
+- toutefois les différences de teinte ou d’intensité des couleurs seules ne fournissent pas un contraste visuel adapté ;
 
-3. elle ne véhicule pas d’information, à l’exception des couleurs qui indiquent un danger.
+- elle ne véhicule pas d’information, à l’exception des couleurs qui indiquent un danger.
 
 (6)
 
 Concernant l’information tactile écrite :
 
-1. lorsque l’information est fournie sous forme tactile, elle est délivrée en code du braille littéraire luxembourgeois et en relief ;
+- lorsque l’information est fournie sous forme tactile, elle est délivrée en code du braille littéraire luxembourgeois et en relief ;
 
-2. l’écriture en relief a une hauteur comprise entre 0,1 cm et 0,15 cm ;
+- l’écriture en relief a une hauteur comprise entre 0,1 cm et 0,15 cm ;
 
-3. les caractères et autres symboles sont de préférence de forme conique ;
+- les caractères et autres symboles sont de préférence de forme conique ;
 
-4. la taille des caractères est d’au moins 1,5 cm.
+- la taille des caractères est d’au moins 1,5 cm.
 
 <a id="art-n11493"></a>
 ## Art. 15.
@@ -1460,13 +1478,13 @@ Exigences d’accessibilité des logements
 
 Tous les logements présentent les exigences d’accessibilité suivantes :
 
-1. la porte d’entrée présente un passage libre d’une largeur minimale de 90 cm et d’une hauteur libre minimale de 205 cm ;
+- la porte d’entrée présente un passage libre d’une largeur minimale de 90 cm et d’une hauteur libre minimale de 205 cm ;
 
-2. les portes intérieures présentent un passage libre d’une largeur minimale de 80 cm ;
+- les portes intérieures présentent un passage libre d’une largeur minimale de 80 cm ;
 
-3. la largeur minimale des circulations intérieures est de 90 cm ;
+- la largeur minimale des circulations intérieures est de 90 cm ;
 
-4. à l’intérieur du logement, il existe devant la porte d’entrée un espace de manœuvre de porte dont les caractéristiques dimensionnelles sont définies à l’article 11, paragraphe 4.
+- à l’intérieur du logement, il existe devant la porte d’entrée un espace de manœuvre de porte dont les caractéristiques dimensionnelles sont définies à l’article 11, paragraphe 4.
 
 <a id="art-n114d1"></a>
 ## Art. 17.
@@ -1479,37 +1497,37 @@ En plus des exigences d’accessibilité décrites à l’article 16, 10 pour ce
 
 Ces logements présentent les exigences d’accessibilité suivantes :
 
-1. l’unité de vie des logements est réalisée sur un seul niveau ;
+- l’unité de vie des logements est réalisée sur un seul niveau ;
 
-2. les exigences dimensionnelles suivantes sont à respecter dès la construction :
+- les exigences dimensionnelles suivantes sont à respecter dès la construction :
 
-1. les portes intérieures présentent un passage libre d’une largeur minimale de 90 cm ;
+  - les portes intérieures présentent un passage libre d’une largeur minimale de 90 cm ;
 
-2. la largeur minimale des circulations intérieures est de 120 cm ;
+  - la largeur minimale des circulations intérieures est de 120 cm ;
 
-3. la cuisine, ou la partie du studio aménagée en cuisine, offre un passage d’une largeur minimale de 150 cm devant les appareils ménagers installés ou prévisibles compte tenu des possibilités de branchement et d’évacuation, les meubles fixes et les parois, et ce hors du débattement de la porte ;
+  - la cuisine, ou la partie du studio aménagée en cuisine, offre un passage d’une largeur minimale de 150 cm devant les appareils ménagers installés ou prévisibles compte tenu des possibilités de branchement et d’évacuation, les meubles fixes et les parois, et ce hors du débattement de la porte ;
 
-4. une chambre au moins offre, en dehors du débattement de la porte et de l’emprise d’un lit de 160 cm x 200 cm :
+  - une chambre au moins offre, en dehors du débattement de la porte et de l’emprise d’un lit de 160 cm x 200 cm :
 
-1. un espace libre d’au moins 150 cm de diamètre ;
+    - un espace libre d’au moins 150 cm de diamètre ;
 
-2. un passage d’au moins 90 cm sur les deux grands côtés du lit et un passage d’au moins 120 cm sur le petit côté libre du lit, ou un passage d’au moins 120 cm sur les deux grands côtés du lit et un passage d’au moins 90 cm sur le petit côté libre du lit.
+    - un passage d’au moins 90 cm sur les deux grands côtés du lit et un passage d’au moins 120 cm sur le petit côté libre du lit, ou un passage d’au moins 120 cm sur les deux grands côtés du lit et un passage d’au moins 90 cm sur le petit côté libre du lit.
 
-5. dans le cas d’un logement ne comportant qu’une pièce principale, le passage de 90 cm n’est exigé que sur un grand côté, le lit pouvant être accolé à une paroi ;
+  - dans le cas d’un logement ne comportant qu’une pièce principale, le passage de 90 cm n’est exigé que sur un grand côté, le lit pouvant être accolé à une paroi ;
 
-6. une salle d’eau au moins comporte une douche de plain-pied accessible d’une largeur minimale de 90 cm et d’une longueur minimale de 120 cm. Cette pièce offre un espace libre de tout obstacle d’au moins 150 cm de diamètre. La porte de la pièce ne peut pas s’ouvrir vers l’intérieur ;
+  - une salle d’eau au moins comporte une douche de plain-pied accessible d’une largeur minimale de 90 cm et d’une longueur minimale de 120 cm. Cette pièce offre un espace libre de tout obstacle d’au moins 150 cm de diamètre. La porte de la pièce ne peut pas s’ouvrir vers l’intérieur ;
 
-7. un local WC au moins offre un espace libre accessible à une personne à mobilité réduite. L’espace de transfert de la cuvette pris depuis son axe est large d’au moins 110 cm d’un côté et de 43 cm de l’autre, et s’étend d’au moins 120 cm devant celle-ci. Aucun autre équipement fixe ne peut venir empiéter sur cet espace. La porte de la pièce ne peut pas s’ouvrir vers l’intérieur. À la livraison, cet espace peut être utilisé à d’autres fins, sous réserve que les travaux de réintégration de l’espace dans la toilette soient des travaux simples.
+  - un local WC au moins offre un espace libre accessible à une personne à mobilité réduite. L’espace de transfert de la cuvette pris depuis son axe est large d’au moins 110 cm d’un côté et de 43 cm de l’autre, et s’étend d’au moins 120 cm devant celle-ci. Aucun autre équipement fixe ne peut venir empiéter sur cet espace. La porte de la pièce ne peut pas s’ouvrir vers l’intérieur. À la livraison, cet espace peut être utilisé à d’autres fins, sous réserve que les travaux de réintégration de l’espace dans la toilette soient des travaux simples.
 
 (2)
 
 Tout balcon, loggia ou terrasse possède au moins un accès depuis une pièce de vie respectant les dispositions suivantes :
 
-1. l’accès présente un passage libre d’une largeur minimale de 90 cm ;
+- l’accès présente un passage libre d’une largeur minimale de 90 cm ;
 
-2. afin de minimiser le ressaut dû au seuil de la porte-fenêtre, la hauteur du seuil de la menuiserie est inférieure ou égale à 2 cm ;
+- afin de minimiser le ressaut dû au seuil de la porte-fenêtre, la hauteur du seuil de la menuiserie est inférieure ou égale à 2 cm ;
 
-3. afin de limiter le ressaut du côté extérieur à une hauteur inférieure ou égale à 2 cm, un dispositif de mise à niveau du plancher, tel qu’un caillebotis, des dalles sur plots ou tout autre système équivalent, est installé dès la livraison. Pour le respect des règles de sécurité en vigueur, la hauteur du garde-corps est mesurée par rapport à la surface accessible.
+- afin de limiter le ressaut du côté extérieur à une hauteur inférieure ou égale à 2 cm, un dispositif de mise à niveau du plancher, tel qu’un caillebotis, des dalles sur plots ou tout autre système équivalent, est installé dès la livraison. Pour le respect des règles de sécurité en vigueur, la hauteur du garde-corps est mesurée par rapport à la surface accessible.
 
 <a id="art-n11547"></a>
 ## Art. 18.
@@ -1543,37 +1561,37 @@ Composition du Conseil
 
 Le Conseil consultatif de l’accessibilité, ci-après « Conseil », se compose des membres suivants :
 
-1. un représentant du ministre ayant la Politique pour personnes handicapées dans ses attributions, ci - après « ministre » ;
+- un représentant du ministre ayant la Politique pour personnes handicapées dans ses attributions, ci - après « ministre » ;
 
-2. un représentant du ministre ayant les Travaux publics dans ses attributions ;
+- un représentant du ministre ayant les Travaux publics dans ses attributions ;
 
-3. un représentant du ministre ayant la Protection du patrimoine culturel dans ses attributions ;
+- un représentant du ministre ayant la Protection du patrimoine culturel dans ses attributions ;
 
-4. un représentant du ministre ayant le Logement dans ses attributions ;
+- un représentant du ministre ayant le Logement dans ses attributions ;
 
-5. un représentant du ministre ayant le Service national de la sécurité dans la fonction publique dans ses attributions ;
+- un représentant du ministre ayant le Service national de la sécurité dans la fonction publique dans ses attributions ;
 
-6. un représentant du ministre ayant la Santé dans ses attributions ;
+- un représentant du ministre ayant la Santé dans ses attributions ;
 
-7. un représentant du ministre ayant l’Éducation nationale dans ses attributions ;
+- un représentant du ministre ayant l’Éducation nationale dans ses attributions ;
 
-8. un représentant du ministre ayant l’Enfance et la Jeunesse dans ses attributions ;
+- un représentant du ministre ayant l’Enfance et la Jeunesse dans ses attributions ;
 
-9. un représentant du ministre ayant l’Intérieur dans ses attributions ;
+- un représentant du ministre ayant l’Intérieur dans ses attributions ;
 
-10. un expert national agréé par l’État pour l’accessibilité des bâtiments ;
+- un expert national agréé par l’État pour l’accessibilité des bâtiments ;
 
-11. un représentant du Conseil supérieur des personnes handicapées ;
+- un représentant du Conseil supérieur des personnes handicapées ;
 
-12. un représentant de l’Ordre des architectes et des ingénieurs-conseils ;
+- un représentant de l’Ordre des architectes et des ingénieurs-conseils ;
 
-13. un représentant de l’Inspection du travail et des mines ;
+- un représentant de l’Inspection du travail et des mines ;
 
-14. un représentant de l’Inspection générale des finances ;
+- un représentant de l’Inspection générale des finances ;
 
-15. un représentant du Centre national d’information et de rencontre du handicap ;
+- un représentant du Centre national d’information et de rencontre du handicap ;
 
-16. un représentant d’un organisme représentatif des villes et des communes luxembourgeoises.
+- un représentant d’un organisme représentatif des villes et des communes luxembourgeoises.
 
 (2)
 
@@ -1610,13 +1628,13 @@ En cas d’empêchement à la fois du président et de son suppléant, les attri
 
 Les trois secrétaires du Conseil et des commissions, désignés par le ministre, exercent essentiellement les attributions suivantes :
 
-1. l’envoi des convocations et des dossiers de travail ;
+- l’envoi des convocations et des dossiers de travail ;
 
-2. la rédaction des procès-verbaux des réunions ;
+- la rédaction des procès-verbaux des réunions ;
 
-3. l’accompagnement rédactionnel et logistique des rapports, des avis et leur suivi ;
+- l’accompagnement rédactionnel et logistique des rapports, des avis et leur suivi ;
 
-4. autres tâches administratives relatives aux travaux du Conseil et des commissions.
+- autres tâches administratives relatives aux travaux du Conseil et des commissions.
 
 <a id="art-n1168f"></a>
 ## Art. 3.
@@ -1746,19 +1764,19 @@ Définitions
 
 Aux fins du présent règlement, on entend par :
 
-1. « niveau » : tout niveau, y compris les niveaux partiels ;
+- « niveau » : tout niveau, y compris les niveaux partiels ;
 
-2. « cm » : centimètre ;
+- « cm » : centimètre ;
 
-3. « m² » : mètre carré ;
+- « m² » : mètre carré ;
 
-4. « N » : newton ;
+- « N » : newton ;
 
-5. « Nm » : newton-mètre ;
+- « Nm » : newton-mètre ;
 
-6. « kN » : kilo newton ;
+- « kN » : kilo newton ;
 
-7. « Hz » : hertz.
+- « Hz » : hertz.
 
 #### Chapitre 2 Lieux ouverts au public
 
@@ -1779,55 +1797,55 @@ Lorsqu’il existe plusieurs cheminements dans un lieu ouvert au public, les che
 
 Les cheminements extérieurs accessibles d’un lieu ouvert au public répondent aux dispositions suivantes :
 
-1. repérage et guidage :
+- repérage et guidage :
 
-1. une signalisation adaptée est mise en place à l’entrée du site, à proximité des places de stationnement pour le public ainsi qu’en chaque point du cheminement accessible où un choix d’itinéraire est donné à l’usager. Les éléments de signalisation répondent aux exigences définies à l’article 20 ;
+  - une signalisation adaptée est mise en place à l’entrée du site, à proximité des places de stationnement pour le public ainsi qu’en chaque point du cheminement accessible où un choix d’itinéraire est donné à l’usager. Les éléments de signalisation répondent aux exigences définies à l’article 20 ;
 
-2. le revêtement du cheminement accessible présente sur toute sa longueur un contraste visuel et tactile par rapport à son environnement. À défaut, le cheminement comporte sur toute sa longueur un système de guidage tactile, défini à l’article 22, pour le guidage à l’aide d’une canne blanche, et visuellement contrasté par rapport à son environnement pour faciliter le guidage des personnes malvoyantes.
+  - le revêtement du cheminement accessible présente sur toute sa longueur un contraste visuel et tactile par rapport à son environnement. À défaut, le cheminement comporte sur toute sa longueur un système de guidage tactile, défini à l’article 22, pour le guidage à l’aide d’une canne blanche, et visuellement contrasté par rapport à son environnement pour faciliter le guidage des personnes malvoyantes.
 
-2. caractéristiques dimensionnelles :
+- caractéristiques dimensionnelles :
 
-1. profil en long :
+  - profil en long :
 
-1. le cheminement accessible est horizontal et sans ressaut ;
+    - le cheminement accessible est horizontal et sans ressaut ;
 
-2. les escaliers à pas d’âne sont interdits ;
+    - les escaliers à pas d’âne sont interdits ;
 
-3. lorsqu’une dénivellation ou une pente supérieure à 3 pour cent ne peut être évitée, un plan incliné de caractéristiques définies à l’article 3 ou un ascenseur conforme aux caractéristiques définies à l’article 10 est à mettre en place.
+    - lorsqu’une dénivellation ou une pente supérieure à 3 pour cent ne peut être évitée, un plan incliné de caractéristiques définies à l’article 3 ou un ascenseur conforme aux caractéristiques définies à l’article 10 est à mettre en place.
 
-2. profil en travers :
+  - profil en travers :
 
-1. à l’exception des chemins donnant uniquement sur un escalier dépourvu d’un espace d’attente sécurisé, la largeur du chemin est supérieure ou égale à 120 cm pour une longueur de chemin inférieure ou égale à 600 cm avec une aire de manœuvre de 150 cm x 150 cm présente au début et à la fin du chemin. Pour des longueurs supérieures, la largeur est supérieure ou égale à 150 cm et des aires de manœuvre de 180 cm x 180 cm sont à prévoir après au maximum 1500 cm de chemin ;
+    - à l’exception des chemins donnant uniquement sur un escalier dépourvu d’un espace d’attente sécurisé, la largeur du chemin est supérieure ou égale à 120 cm pour une longueur de chemin inférieure ou égale à 600 cm avec une aire de manœuvre de 150 cm x 150 cm présente au début et à la fin du chemin. Pour des longueurs supérieures, la largeur est supérieure ou égale à 150 cm et des aires de manœuvre de 180 cm x 180 cm sont à prévoir après au maximum 1500 cm de chemin ;
 
-2. lorsqu’un rétrécissement ponctuel ne peut être évité, la largeur minimale du cheminement peut être ramenée à 100 cm ;
+    - lorsqu’un rétrécissement ponctuel ne peut être évité, la largeur minimale du cheminement peut être ramenée à 100 cm ;
 
-3. le cheminement est conçu et mis en œuvre de manière à éviter la stagnation d’eau. Lorsqu’un dévers est nécessaire, il est inférieur ou égal à 2 pour cent.
+    - le cheminement est conçu et mis en œuvre de manière à éviter la stagnation d’eau. Lorsqu’un dévers est nécessaire, il est inférieur ou égal à 2 pour cent.
 
-3. espaces de manœuvre de porte et d’usage pour les utilisateurs de fauteuil roulant :
+  - espaces de manœuvre de porte et d’usage pour les utilisateurs de fauteuil roulant :
 
-1. un espace de manœuvre de porte, répondant aux exigences définies à l’article 14, est nécessaire de part et d’autre de chaque porte ou portillon situés le long du cheminement à l’exception de ceux ouvrant uniquement sur un escalier dépourvu d’un espace d’attente sécurisé ;
+    - un espace de manœuvre de porte, répondant aux exigences définies à l’article 14, est nécessaire de part et d’autre de chaque porte ou portillon situés le long du cheminement à l’exception de ceux ouvrant uniquement sur un escalier dépourvu d’un espace d’attente sécurisé ;
 
-2. un espace d’usage se trouve devant chaque équipement ou aménagement situé le long du cheminement afin d’en permettre l’atteinte et l’usage. Les caractéristiques dimensionnelles de ces différents espaces sont définies à l’article 19, point 4°.
+    - un espace d’usage se trouve devant chaque équipement ou aménagement situé le long du cheminement afin d’en permettre l’atteinte et l’usage. Les caractéristiques dimensionnelles de ces différents espaces sont définies à l’article 19, point 4°.
 
-3. sécurité d’usage :
+- sécurité d’usage :
 
-1. de façon générale, le revêtement de sol est dur, non glissant, non éblouissant et dépourvu de trous ou de fentes d’une largeur ou d’un diamètre supérieur à 2 cm et répond aux exigences définies à l’article 12 ;
+  - de façon générale, le revêtement de sol est dur, non glissant, non éblouissant et dépourvu de trous ou de fentes d’une largeur ou d’un diamètre supérieur à 2 cm et répond aux exigences définies à l’article 12 ;
 
-2. le cheminement accessible est libre de tout obstacle. Pour être repérables, les éléments éventuels qui ne peuvent pas être mis en dehors du cheminement répondent aux exigences suivantes :
+  - le cheminement accessible est libre de tout obstacle. Pour être repérables, les éléments éventuels qui ne peuvent pas être mis en dehors du cheminement répondent aux exigences suivantes :
 
-1. s’ils sont suspendus au-dessus du cheminement, laisser un passage libre d’au moins 220 cm de hauteur au-dessus du sol ;
+    - s’ils sont suspendus au-dessus du cheminement, laisser un passage libre d’au moins 220 cm de hauteur au-dessus du sol ;
 
-2. s’ils sont implantés en saillie latérale de plus de 15 cm sur le cheminement et à une hauteur inférieure à 220 cm, comporter un élément de contraste visuel par rapport à leur environnement immédiat et un rappel tactile ou un prolongement au sol.
+    - s’ils sont implantés en saillie latérale de plus de 15 cm sur le cheminement et à une hauteur inférieure à 220 cm, comporter un élément de contraste visuel par rapport à leur environnement immédiat et un rappel tactile ou un prolongement au sol.
 
-3. lorsqu’un escalier est situé dans un espace de circulation, la partie située en dessous de 220 cm, si elle n’est pas fermée, est visuellement contrastée, comporte un rappel tactile au sol et est réalisée de manière à prévenir les dangers de chocs ;
+  - lorsqu’un escalier est situé dans un espace de circulation, la partie située en dessous de 220 cm, si elle n’est pas fermée, est visuellement contrastée, comporte un rappel tactile au sol et est réalisée de manière à prévenir les dangers de chocs ;
 
-4. les parois et portes vitrées transparentes situées perpendiculairement au sens de la marche sur les cheminements sont repérables à l’aide d’éléments visuels contrastés par rapport à l’environnement immédiat décrit à l’article 21. Les éléments contrastés collés, peints, gravés ou incrustés dans les vitrages sont présents dans un espace d’une hauteur de sol comprise entre 40 cm et 70 cm et entre 120 cm et 160 cm. Les parois vitrées disposant d’un socle d’une hauteur supérieure à 30 cm sont exemptées de l’élément contrasté présent en partie basse. Cette bande contrastée d’une hauteur d’au moins 8 cm est pleine, à défaut, les espaces entre éléments pleins ne peuvent pas dépasser 5 cm ;
+  - les parois et portes vitrées transparentes situées perpendiculairement au sens de la marche sur les cheminements sont repérables à l’aide d’éléments visuels contrastés par rapport à l’environnement immédiat décrit à l’article 21. Les éléments contrastés collés, peints, gravés ou incrustés dans les vitrages sont présents dans un espace d’une hauteur de sol comprise entre 40 cm et 70 cm et entre 120 cm et 160 cm. Les parois vitrées disposant d’un socle d’une hauteur supérieure à 30 cm sont exemptées de l’élément contrasté présent en partie basse. Cette bande contrastée d’une hauteur d’au moins 8 cm est pleine, à défaut, les espaces entre éléments pleins ne peuvent pas dépasser 5 cm ;
 
-5. toute volée d’escalier répond aux exigences applicables aux escaliers visées à l’article 9, à l’exception de la disposition concernant l’éclairage ;
+  - toute volée d’escalier répond aux exigences applicables aux escaliers visées à l’article 9, à l’exception de la disposition concernant l’éclairage ;
 
-6. lorsqu’un cheminement accessible croise un itinéraire emprunté par des véhicules, il comporte un élément visuel et tactile permettant l’éveil de la vigilance des piétons au droit de ce croisement, défini à l’article 22. Un marquage au sol et une signalisation indiquent également aux conducteurs des véhicules qu’ils croisent un cheminement pour piétons ;
+  - lorsqu’un cheminement accessible croise un itinéraire emprunté par des véhicules, il comporte un élément visuel et tactile permettant l’éveil de la vigilance des piétons au droit de ce croisement, défini à l’article 22. Un marquage au sol et une signalisation indiquent également aux conducteurs des véhicules qu’ils croisent un cheminement pour piétons ;
 
-7. le cheminement comporte un dispositif d’éclairage répondant aux exigences définies à l’article 18.
+  - le cheminement comporte un dispositif d’éclairage répondant aux exigences définies à l’article 18.
 
 <a id="art-n11967"></a>
 ## Art. 3.
@@ -1836,7 +1854,7 @@ Plans inclinés
 
 (1)
 
-La pente maximale est de 6 pour cent et le dévers est nul. La longueur maximale du plan incliné entre paliers, ci-après appelée « L », est calculée en fonction de sa pente, ci-après appelé « P » : L=14 – 43*P avec 3 ≤ P(%) ≤ 6 et L(m) ≤ 10.
+La pente maximale est de 6 pour cent et le dévers est nul. La longueur maximale du plan incliné entre paliers, ci-après appelée « L », est calculée en fonction de sa pente, ci-après appelé « P » : L = 14 – 4 3 * P avec 3 ≤ P(%) ≤ 6 et L(m) ≤ 10.
 
 Une délimitation de 10 cm de hauteur au moins est réalisée de part et d’autre du plan incliné sur toute sa longueur.
 
@@ -1844,25 +1862,25 @@ La largeur du plan incliné entre mains courantes est de 150 cm. Elle peut être
 
 Un palier est à prévoir en haut et en bas de chaque plan incliné. Il dispose des caractéristiques suivantes :
 
-1. il mesure 150 cm x 150 cm ;
+- il mesure 150 cm x 150 cm ;
 
-2. le dévers ou la pente est inférieur ou égal à 2 pour cent.
+- le dévers ou la pente est inférieur ou égal à 2 pour cent.
 
 (2)
 
 Une main courante double est installée de chaque côté du plan incliné ainsi qu’aux paliers de repos intermédiaires et répond aux dispositions suivantes :
 
-1. la main courante supérieure se situe à une hauteur comprise entre 85 cm et 90 cm, celle inférieure à une hauteur comprise entre 70 cm et 75 cm ;
+- la main courante supérieure se situe à une hauteur comprise entre 85 cm et 90 cm, celle inférieure à une hauteur comprise entre 70 cm et 75 cm ;
 
-2. elle est de forme ronde, ovale ou à coins arrondis et s’inscrit dans un cercle de 3 cm à 4,5 cm de diamètre ;
+- elle est de forme ronde, ovale ou à coins arrondis et s’inscrit dans un cercle de 3 cm à 4,5 cm de diamètre ;
 
-3. l’espace libre autour de la main courante est d’au moins 4 cm ;
+- l’espace libre autour de la main courante est d’au moins 4 cm ;
 
-4. les points de fixation se trouvent sur la partie inférieure de la main courante et sont inscrits dans un arc maximal de 90 degrés ;
+- les points de fixation se trouvent sur la partie inférieure de la main courante et sont inscrits dans un arc maximal de 90 degrés ;
 
-5. les extrémités de la main courante sont recourbées vers le bas ou vers la paroi ;
+- les extrémités de la main courante sont recourbées vers le bas ou vers la paroi ;
 
-6. la main courante est différenciée de son environnement grâce à un éclairage particulier ou à un contraste visuel.
+- la main courante est différenciée de son environnement grâce à un éclairage particulier ou à un contraste visuel.
 
 (3)
 
@@ -1885,33 +1903,33 @@ Les places adaptées et réservées sont signalées en tant que telles.
 
 Les places des parcs de stationnement automobile adaptées pour les personnes handicapées répondent aux dispositions suivantes :
 
-1. nombre :
+- nombre :
 
-1. au moins une place adaptée par bloc entamé de vingt places est à prévoir ;
+  - au moins une place adaptée par bloc entamé de vingt places est à prévoir ;
 
-2. au-delà de cent places, une place adaptée supplémentaire est à prévoir par bloc de cent places.
+  - au-delà de cent places, une place adaptée supplémentaire est à prévoir par bloc de cent places.
 
-2. repérage :
+- repérage :
 
-1. les places adaptées sont repérées par un marquage au sol ainsi que par une signalisation verticale ;
+  - les places adaptées sont repérées par un marquage au sol ainsi que par une signalisation verticale ;
 
-2. l’emplacement des places adaptées est indiqué au niveau de l’accès au site.
+  - l’emplacement des places adaptées est indiqué au niveau de l’accès au site.
 
-3. caractéristiques dimensionnelles : La profondeur minimale des places adaptées est de 500 cm.
+- caractéristiques dimensionnelles : La profondeur minimale des places adaptées est de 500 cm.
 
-1. une place de stationnement adaptée correspond à un espace horizontal au dévers près, inférieur ou égal à 2 pour cent. Le revêtement est sans trous ni fentes, dur et antidérapant, il est libre de tout obstacle ;
+  - une place de stationnement adaptée correspond à un espace horizontal au dévers près, inférieur ou égal à 2 pour cent. Le revêtement est sans trous ni fentes, dur et antidérapant, il est libre de tout obstacle ;
 
-2. la largeur minimale des places adaptées est de 350 cm. Elle se compose de l’emplacement de stationnement d’au moins 230 cm et de l’aire de transfert d’au moins 120 cm. En présence de plus de trois places adaptées, l’aire de transfert peut être commune à deux places adaptées adjacentes. Dans ce cas, la largeur minimale de l’aire de transfert est de 150 cm et l’aire de transfert est signalée par un marquage spécifique sur toute la surface. L’aire de transfert se situe en dehors du cheminement et de la circulation.
+  - la largeur minimale des places adaptées est de 350 cm. Elle se compose de l’emplacement de stationnement d’au moins 230 cm et de l’aire de transfert d’au moins 120 cm. En présence de plus de trois places adaptées, l’aire de transfert peut être commune à deux places adaptées adjacentes. Dans ce cas, la largeur minimale de l’aire de transfert est de 150 cm et l’aire de transfert est signalée par un marquage spécifique sur toute la surface. L’aire de transfert se situe en dehors du cheminement et de la circulation.
 
-4. atteinte et usage :
+- atteinte et usage :
 
-1. s’il existe un contrôle d’accès ou de sortie du parc de stationnement, le système permet à des personnes sourdes, malentendantes ou privées de l’usage de la parole de signaler leur présence au personnel, et d’être informées de la prise en compte de leur appel. En l’absence d’une vision directe de ces accès ou sorties par le personnel :
+  - s’il existe un contrôle d’accès ou de sortie du parc de stationnement, le système permet à des personnes sourdes, malentendantes ou privées de l’usage de la parole de signaler leur présence au personnel, et d’être informées de la prise en compte de leur appel. En l’absence d’une vision directe de ces accès ou sorties par le personnel :
 
-1. tout signal lié au fonctionnement du dispositif d’accès est sonore et visuel ;
+    - tout signal lié au fonctionnement du dispositif d’accès est sonore et visuel ;
 
-2. les appareils d’interphonie sont munis d’un système permettant au personnel de l’établissement de visualiser le conducteur.
+    - les appareils d’interphonie sont munis d’un système permettant au personnel de l’établissement de visualiser le conducteur.
 
-2. les automates de paiement sont situés à proximité des ascenseurs ou des sorties. Au moins un automate est accessible et répond aux exigences relatives aux dispositifs de commande définies à l’article 15.
+  - les automates de paiement sont situés à proximité des ascenseurs ou des sorties. Au moins un automate est accessible et répond aux exigences relatives aux dispositifs de commande définies à l’article 15.
 
 <a id="art-n11a89"></a>
 ## Art. 5.
@@ -1928,29 +1946,29 @@ Tout dispositif visant à permettre ou restreindre l’accès à un lieu ouvert 
 
 L’accès à un lieu ouvert au public répond aux dispositions suivantes :
 
-1. repérage :
+- repérage :
 
-1. les entrées principales du lieu ouvert au public sont facilement repérables par des éléments architecturaux ou par un traitement utilisant des matériaux différents ou visuellement contrastés ;
+  - les entrées principales du lieu ouvert au public sont facilement repérables par des éléments architecturaux ou par un traitement utilisant des matériaux différents ou visuellement contrastés ;
 
-2. tout dispositif visant à permettre ou restreindre l’accès au lieu ouvert au public ou à se signaler au personnel est facilement repérable par un contraste visuel ou une signalétique répondant aux exigences définies à l’article 20, et n’est pas situé dans une zone sombre.
+  - tout dispositif visant à permettre ou restreindre l’accès au lieu ouvert au public ou à se signaler au personnel est facilement repérable par un contraste visuel ou une signalétique répondant aux exigences définies à l’article 20, et n’est pas situé dans une zone sombre.
 
-2. atteinte et usage :
+- atteinte et usage :
 
-1. les systèmes de contrôle d’accès ou de communication entre le public et le personnel ainsi que les dispositifs de commande manuelle mis à la disposition du public répondent aux exigences suivantes :
+  - les systèmes de contrôle d’accès ou de communication entre le public et le personnel ainsi que les dispositifs de commande manuelle mis à la disposition du public répondent aux exigences suivantes :
 
-1. être situés à plus de 50 cm d’un angle rentrant de parois ou de tout autre obstacle à l’approche d’un fauteuil roulant ;
+    - être situés à plus de 50 cm d’un angle rentrant de parois ou de tout autre obstacle à l’approche d’un fauteuil roulant ;
 
-2. être situés à une hauteur comprise entre 85 cm et 110 cm.
+    - être situés à une hauteur comprise entre 85 cm et 110 cm.
 
-2. le système d’ouverture des portes est utilisable en position « debout » comme en position « assise » ;
+  - le système d’ouverture des portes est utilisable en position « debout » comme en position « assise » ;
 
-3. lorsqu’il existe un dispositif de déverrouillage automatique, il permet à une personne à mobilité réduite d’atteindre la porte et d’entamer la manœuvre d’ouverture avant que la porte ne soit à nouveau verrouillée ;
+  - lorsqu’il existe un dispositif de déverrouillage automatique, il permet à une personne à mobilité réduite d’atteindre la porte et d’entamer la manœuvre d’ouverture avant que la porte ne soit à nouveau verrouillée ;
 
-4. les éléments d’information relatifs à l’orientation dans un lieu ouvert au public répondent aux exigences définies à l’article 20 ;
+  - les éléments d’information relatifs à l’orientation dans un lieu ouvert au public répondent aux exigences définies à l’article 20 ;
 
-5. tout signal lié au fonctionnement d’un dispositif d’accès est sonore et visuel ;
+  - tout signal lié au fonctionnement d’un dispositif d’accès est sonore et visuel ;
 
-6. s’il existe un contrôle d’accès au lieu ouvert au public, le système permet à des personnes sourdes, malentendantes ou privées de l’usage de la parole de signaler leur présence au personnel et d’être informées de la prise en compte de leur appel. En l’absence d’une vision directe de ces accès par le personnel, les appareils d’interphonie sont munis d’un système permettant au personnel du lieu ouvert au public de visualiser le visiteur.
+  - s’il existe un contrôle d’accès au lieu ouvert au public, le système permet à des personnes sourdes, malentendantes ou privées de l’usage de la parole de signaler leur présence au personnel et d’être informées de la prise en compte de leur appel. En l’absence d’une vision directe de ces accès par le personnel, les appareils d’interphonie sont munis d’un système permettant au personnel du lieu ouvert au public de visualiser le visiteur.
 
 <a id="art-n11af7"></a>
 ## Art. 6.
@@ -1969,23 +1987,23 @@ Les espaces ou équipements destinés à la communication font l’objet d’une
 
 Les aménagements et équipements accessibles destinés à l’accueil du public répondent aux dispositions suivantes :
 
-1. le repérage de l’accueil et le guidage depuis l’entrée jusqu’à l’accueil de toute personne y compris d’une personne malvoyante ou aveugle est à assurer par des éléments architecturaux ou à défaut par un système de guidage tactile conforme à l’article 22 ;
+- le repérage de l’accueil et le guidage depuis l’entrée jusqu’à l’accueil de toute personne y compris d’une personne malvoyante ou aveugle est à assurer par des éléments architecturaux ou à défaut par un système de guidage tactile conforme à l’article 22 ;
 
-2. les guichets d’accueil sont utilisables par une personne en position « debout » comme en position « assise » et permettent la communication visuelle entre les usagers et le personnel ;
+- les guichets d’accueil sont utilisables par une personne en position « debout » comme en position « assise » et permettent la communication visuelle entre les usagers et le personnel ;
 
-3. lorsque des activités, y compris de lecture, d’écriture et d’utilisation d’un clavier sont requises, une partie au moins de l’équipement présente les caractéristiques suivantes :
+- lorsque des activités, y compris de lecture, d’écriture et d’utilisation d’un clavier sont requises, une partie au moins de l’équipement présente les caractéristiques suivantes :
 
-1. avoir une hauteur comprise entre 80 cm et 85 cm ;
+  - avoir une hauteur comprise entre 80 cm et 85 cm ;
 
-2. présenter un vide dans la partie inférieure du guichet d’au moins 60 cm de profondeur, 90 cm de largeur et 70 cm de hauteur permettant le passage des pieds et des genoux d’une personne assise.
+  - présenter un vide dans la partie inférieure du guichet d’au moins 60 cm de profondeur, 90 cm de largeur et 70 cm de hauteur permettant le passage des pieds et des genoux d’une personne assise.
 
-4. lorsque l’accueil est sonorisé, il est équipé d’un système de transmission du signal acoustique adapté aux besoins des personnes malentendantes signalé par un pictogramme ;
+- lorsque l’accueil est sonorisé, il est équipé d’un système de transmission du signal acoustique adapté aux besoins des personnes malentendantes signalé par un pictogramme ;
 
-5. lorsque le guichet est muni d’une vitre, l’éclairage naturel et artificiel est tel qu’il évite des réflexions sur la vitre qui empêchent de voir clairement le guichetier ;
+- lorsque le guichet est muni d’une vitre, l’éclairage naturel et artificiel est tel qu’il évite des réflexions sur la vitre qui empêchent de voir clairement le guichetier ;
 
-6. en présence d’un distributeur de tickets qui définit l’ordre de passage des personnes, celui-ci soit est adapté pour une utilisation par des personnes malvoyantes ou aveugles, soit permet l’appel d’une assistance humaine ;
+- en présence d’un distributeur de tickets qui définit l’ordre de passage des personnes, celui-ci soit est adapté pour une utilisation par des personnes malvoyantes ou aveugles, soit permet l’appel d’une assistance humaine ;
 
-7. les postes d’accueil comportent un dispositif d’éclairage répondant aux exigences définies à l’article 18.
+- les postes d’accueil comportent un dispositif d’éclairage répondant aux exigences définies à l’article 18.
 
 <a id="art-n11b5b"></a>
 ## Art. 7.
@@ -2005,11 +2023,11 @@ Circulations intérieures verticales
 
 Les circulations intérieures verticales répondent aux dispositions suivantes :
 
-1. toute dénivellation est considérée comme un niveau ;
+- toute dénivellation est considérée comme un niveau ;
 
-2. tous les niveaux comportant des lieux ouverts au public sont desservis par un ascenseur répondant aux exigences définies à l’article 10 ou par un plan incliné répondant aux exigences définies à l’article 3 ;
+- tous les niveaux comportant des lieux ouverts au public sont desservis par un ascenseur répondant aux exigences définies à l’article 10 ou par un plan incliné répondant aux exigences définies à l’article 3 ;
 
-3. lorsque l’ascenseur, l’escalier ou l’équipement mobile n’est pas visible depuis l’entrée ou le hall du niveau principal d’accès du lieu ouvert au public, il peut être repéré au moyen d’une signalisation adaptée répondant aux exigences définies à l’article 20. Lorsqu’il existe plusieurs ascenseurs, escaliers ou équipements desservant de façon sélective les différents niveaux, cette signalisation aide l’usager à choisir l’ascenseur, l’escalier ou l’équipement mobile qui lui convient. Pour les ascenseurs, cette information figure également à proximité des commandes d’appel.
+- lorsque l’ascenseur, l’escalier ou l’équipement mobile n’est pas visible depuis l’entrée ou le hall du niveau principal d’accès du lieu ouvert au public, il peut être repéré au moyen d’une signalisation adaptée répondant aux exigences définies à l’article 20. Lorsqu’il existe plusieurs ascenseurs, escaliers ou équipements desservant de façon sélective les différents niveaux, cette signalisation aide l’usager à choisir l’ascenseur, l’escalier ou l’équipement mobile qui lui convient. Pour les ascenseurs, cette information figure également à proximité des commandes d’appel.
 
 <a id="art-n11ba7"></a>
 ## Art. 9.
@@ -2024,57 +2042,57 @@ Les escaliers peuvent être utilisés en sécurité par toute personne, y compri
 
 À cette fin, les escaliers ouverts au public, que le lieu ouvert au public comporte ou non un ascenseur, répondent aux dispositions suivantes :
 
-1. caractéristiques dimensionnelles :
+- caractéristiques dimensionnelles :
 
-1. la largeur minimale entre mains courantes est de 120 cm sur toute la longueur de l’escalier, y compris sur les paliers ;
+  - la largeur minimale entre mains courantes est de 120 cm sur toute la longueur de l’escalier, y compris sur les paliers ;
 
-2. les marches répondent aux exigences suivantes :
+  - les marches répondent aux exigences suivantes :
 
-1. la hauteur maximale des marches est de 16 cm avec une tolérance de 10 pour cent ;
+    - la hauteur maximale des marches est de 16 cm avec une tolérance de 10 pour cent ;
 
-2. la profondeur des marches est adaptée à la hauteur des marches de façon à ce que l’équation 2h + p = 60 cm à 65 cm soit respectée, h désignant la hauteur et p la profondeur de la marche en cm ;
+    - la profondeur des marches est adaptée à la hauteur des marches de façon à ce que l’équation 2h + p = 60 cm à 65 cm soit respectée, h désignant la hauteur et p la profondeur de la marche en cm ;
 
-3. la hauteur et la profondeur des marches sont identiques dans la volée d’un même escalier.
+    - la hauteur et la profondeur des marches sont identiques dans la volée d’un même escalier.
 
-3. une volée d’escalier compte au maximum seize marches. Au-delà elles sont recoupées par des paliers dont la profondeur est au moins égale à 120 cm entre mains courantes.
+  - une volée d’escalier compte au maximum seize marches. Au-delà elles sont recoupées par des paliers dont la profondeur est au moins égale à 120 cm entre mains courantes.
 
-2. sécurité d’usage :
+- sécurité d’usage :
 
-1. les bandes d’éveil à la vigilance, définies à l’article 22, point 5°, signalent la présence d’un escalier ;
+  - les bandes d’éveil à la vigilance, définies à l’article 22, point 5°, signalent la présence d’un escalier ;
 
-2. les nez de marches répondent aux exigences suivantes :
+  - les nez de marches répondent aux exigences suivantes :
 
-1. être non glissants ;
+    - être non glissants ;
 
-2. être non saillants ;
+    - être non saillants ;
 
-3. les nez de la première et de la dernière marche d’une volée d’escalier disposent d’une bande contrastée de la largeur de la marche et d’une profondeur supérieure ou égale à 4 cm. Si l’escalier comporte moins de quatre marches, elles sont toutes signalées par cette bande contrastée.
+    - les nez de la première et de la dernière marche d’une volée d’escalier disposent d’une bande contrastée de la largeur de la marche et d’une profondeur supérieure ou égale à 4 cm. Si l’escalier comporte moins de quatre marches, elles sont toutes signalées par cette bande contrastée.
 
-3. les escaliers, à l’exception des escaliers de secours extérieurs, disposent de contremarches pleines. La contremarche peut être inclinée de maximum 2,5 cm vers l’intérieur ;
+  - les escaliers, à l’exception des escaliers de secours extérieurs, disposent de contremarches pleines. La contremarche peut être inclinée de maximum 2,5 cm vers l’intérieur ;
 
-4. l’escalier comporte un dispositif d’éclairage répondant aux exigences définies à l’article 18.
+  - l’escalier comporte un dispositif d’éclairage répondant aux exigences définies à l’article 18.
 
-3. atteinte et usage :
+- atteinte et usage :
 
-1. l’escalier et les paliers, quelle que soit leur conception, comportent une main courante de chaque côté ;
+  - l’escalier et les paliers, quelle que soit leur conception, comportent une main courante de chaque côté ;
 
-2. toute main courante répond aux exigences suivantes :
+  - toute main courante répond aux exigences suivantes :
 
-1. être installée à une hauteur comprise entre 85 cm et 90 cm mesurée sur le nez de marche ;
+    - être installée à une hauteur comprise entre 85 cm et 90 cm mesurée sur le nez de marche ;
 
-2. se prolonger de 30 cm au-delà de la première et de la dernière marche de chaque volée, sans empiéter de plus de 15 cm sur la zone de circulation ;
+    - se prolonger de 30 cm au-delà de la première et de la dernière marche de chaque volée, sans empiéter de plus de 15 cm sur la zone de circulation ;
 
-3. ne pas être interrompue, sauf si des moyens alternatifs de guidance et de soutien sont présents ;
+    - ne pas être interrompue, sauf si des moyens alternatifs de guidance et de soutien sont présents ;
 
-4. être de forme ronde, ovale ou à coins arrondis et s’inscrire dans un cercle de 3 cm à 4,5 cm de diamètre ;
+    - être de forme ronde, ovale ou à coins arrondis et s’inscrire dans un cercle de 3 cm à 4,5 cm de diamètre ;
 
-5. disposer d’un espace libre pour la main d’au moins 4 cm ;
+    - disposer d’un espace libre pour la main d’au moins 4 cm ;
 
-6. avoir les points de fixation sur la partie inférieure de la main courante inscrits dans un arc maximal de 90 degrés ;
+    - avoir les points de fixation sur la partie inférieure de la main courante inscrits dans un arc maximal de 90 degrés ;
 
-7. avoir les extrémités recourbées vers le bas ou vers la paroi ;
+    - avoir les extrémités recourbées vers le bas ou vers la paroi ;
 
-8. être différenciée de la paroi support grâce à un éclairage particulier ou à un contraste visuel.
+    - être différenciée de la paroi support grâce à un éclairage particulier ou à un contraste visuel.
 
 <a id="art-n11c45"></a>
 ## Art. 10.
@@ -2095,63 +2113,63 @@ Aucun obstacle n’est présent devant les portes palières.
 
 Tout ascenseur répond aux dispositions suivantes :
 
-1. caractéristiques dimensionnelles :
+- caractéristiques dimensionnelles :
 
-1. la cabine a une largeur intérieure minimale de 110 cm et une profondeur intérieure minimale de 140 cm ;
+  - la cabine a une largeur intérieure minimale de 110 cm et une profondeur intérieure minimale de 140 cm ;
 
-2. les portes de cabine sont placées sur le petit côté de la cabine. Si une porte est prévue sur deux côtés adjacents, la surface au sol minimale de la cabine est de 140 cm x 140 cm ;
+  - les portes de cabine sont placées sur le petit côté de la cabine. Si une porte est prévue sur deux côtés adjacents, la surface au sol minimale de la cabine est de 140 cm x 140 cm ;
 
-3. la largeur libre du passage des portes de cabine et palières est au moins de 90 cm.
+  - la largeur libre du passage des portes de cabine et palières est au moins de 90 cm.
 
-2. équipement et signalisation en cabine et sur palier :
+- équipement et signalisation en cabine et sur palier :
 
-1. une main courante est installée selon les exigences suivantes :
+  - une main courante est installée selon les exigences suivantes :
 
-1. elle est installée sur au moins une des parois latérales de la cabine ;
+    - elle est installée sur au moins une des parois latérales de la cabine ;
 
-2. la section de la partie à saisir de cette main courante a des dimensions comprises entre 3 cm et 4,5 cm ;
+    - la section de la partie à saisir de cette main courante a des dimensions comprises entre 3 cm et 4,5 cm ;
 
-3. l’espace libre entre la paroi et la main courante est au moins de 3,5 cm ;
+    - l’espace libre entre la paroi et la main courante est au moins de 3,5 cm ;
 
-4. le point le plus haut de la main courante est situé à une hauteur de 90 cm du sol de la cabine ;
+    - le point le plus haut de la main courante est situé à une hauteur de 90 cm du sol de la cabine ;
 
-5. la main courante peut être interrompue à l’emplacement du panneau de commande en cabine pour ne pas faire obstacle aux boutons ou commandes ;
+    - la main courante peut être interrompue à l’emplacement du panneau de commande en cabine pour ne pas faire obstacle aux boutons ou commandes ;
 
-6. les extrémités de la main courante sont recourbées vers la paroi pour éviter le risque de blessure.
+    - les extrémités de la main courante sont recourbées vers la paroi pour éviter le risque de blessure.
 
-2. en cabine, la position de l’ascenseur est annoncée à l’arrêt de la cabine par un message vocal. Sur le palier un message vocal ou un signal sonore distinct pour la montée et la descente accompagne l’illumination des flèches de direction de l’ascenseur ;
+  - en cabine, la position de l’ascenseur est annoncée à l’arrêt de la cabine par un message vocal. Sur le palier un message vocal ou un signal sonore distinct pour la montée et la descente accompagne l’illumination des flèches de direction de l’ascenseur ;
 
-3. le dispositif de demande de secours est équipé de signalisations visuelle et sonore, consistant en :
+  - le dispositif de demande de secours est équipé de signalisations visuelle et sonore, consistant en :
 
-1. un pictogramme illuminé jaune en complément du signal sonore de transmission de la demande, pour indiquer que la demande de secours a été émise ;
+    - un pictogramme illuminé jaune en complément du signal sonore de transmission de la demande, pour indiquer que la demande de secours a été émise ;
 
-2. un pictogramme illuminé vert en complément du signal sonore avec liaison téléphonique pour indiquer que la demande de secours a été enregistrée ;
+    - un pictogramme illuminé vert en complément du signal sonore avec liaison téléphonique pour indiquer que la demande de secours a été enregistrée ;
 
-3. une liaison téléphonique qui a un niveau sonore adapté aux conditions du site.
+    - une liaison téléphonique qui a un niveau sonore adapté aux conditions du site.
 
-3. commandes aux paliers et en cabine :
+- commandes aux paliers et en cabine :
 
-1. les boutons de commande ont un diamètre d’au moins 5 cm et un espace d’au moins 1 cm entre boutons. Ils sont en relief et bien contrastés. Lorsqu’il est impossible d’intégrer dans l’espace prévu à la lettre b) le nombre de boutons de commande nécessaires pour desservir tous les étages, le diamètre minimal des boutons de commande est d’au moins 2 cm. Ils sont placés à une distance minimale de 50 cm de tout coin ou paroi adjacents. L’information indiquée sur les boutons est identifiable visuellement et tactilement ;
+  - les boutons de commande ont un diamètre d’au moins 5 cm et un espace d’au moins 1 cm entre boutons. Ils sont en relief et bien contrastés. Lorsqu’il est impossible d’intégrer dans l’espace prévu à la lettre b) le nombre de boutons de commande nécessaires pour desservir tous les étages, le diamètre minimal des boutons de commande est d’au moins 2 cm. Ils sont placés à une distance minimale de 50 cm de tout coin ou paroi adjacents. L’information indiquée sur les boutons est identifiable visuellement et tactilement ;
 
-2. les dispositifs de commande sont installés à une hauteur située entre 85 cm et 110 cm ;
+  - les dispositifs de commande sont installés à une hauteur située entre 85 cm et 110 cm ;
 
-3. les boutons d’étages sont disposés en ordre chronologique de bas en haut ou de gauche à droite ;
+  - les boutons d’étages sont disposés en ordre chronologique de bas en haut ou de gauche à droite ;
 
-4. les boutons de réouverture de porte et d’alarme sont disposés en bas pour un agencement vertical ou sur la gauche pour un agencement horizontal. Le bouton d’alarme est placé au-dessus du bouton de réouverture de porte ;
+  - les boutons de réouverture de porte et d’alarme sont disposés en bas pour un agencement vertical ou sur la gauche pour un agencement horizontal. Le bouton d’alarme est placé au-dessus du bouton de réouverture de porte ;
 
-5. un bouton de fermeture de porte permet de réduire manuellement le temps d’ouverture des portes.
+  - un bouton de fermeture de porte permet de réduire manuellement le temps d’ouverture des portes.
 
-4. atteinte et usage :
+- atteinte et usage :
 
-1. les portes de cabine et palières sont de type automatique ;
+  - les portes de cabine et palières sont de type automatique ;
 
-2. une aire de manœuvre de porte de 150 cm x 150 cm est aménagée devant les ascenseurs. Les aires de manœuvre de porte sont sans pente, ni dévers, sauf pour les aires de manœuvre situées à l’extérieur, qui peuvent avoir une pente maximale de 2 pour cent ;
+  - une aire de manœuvre de porte de 150 cm x 150 cm est aménagée devant les ascenseurs. Les aires de manœuvre de porte sont sans pente, ni dévers, sauf pour les aires de manœuvre situées à l’extérieur, qui peuvent avoir une pente maximale de 2 pour cent ;
 
-3. tout escalier descendant ou marche descendante disposé devant ou latéralement à l’aire de manœuvre d’un ascenseur est situé à une distance de sécurité supplémentaire de 90 cm de l’aire de manœuvre ;
+  - tout escalier descendant ou marche descendante disposé devant ou latéralement à l’aire de manœuvre d’un ascenseur est situé à une distance de sécurité supplémentaire de 90 cm de l’aire de manœuvre ;
 
-4. le fond de la cabine est muni d’un miroir couvrant toute sa hauteur à installer à maximum 35 cm du sol. Sont dispensés de cette exigence les ascenseurs dont les cabines disposent d’une aire de manœuvre d’un diamètre d’au moins 150 cm et en cas de portes opposées ;
+  - le fond de la cabine est muni d’un miroir couvrant toute sa hauteur à installer à maximum 35 cm du sol. Sont dispensés de cette exigence les ascenseurs dont les cabines disposent d’une aire de manœuvre d’un diamètre d’au moins 150 cm et en cas de portes opposées ;
 
-5. l’ascenseur est équipé d’un système qui permet d’ajuster le temps d’ouverture des portes. Ce temps est à ajuster en fonction des conditions d’utilisation de l’ascenseur. Un dispositif automatique évite tout contact physique entre l’usager et le vantail menant de la porte.
+  - l’ascenseur est équipé d’un système qui permet d’ajuster le temps d’ouverture des portes. Ce temps est à ajuster en fonction des conditions d’utilisation de l’ascenseur. Un dispositif automatique évite tout contact physique entre l’usager et le vantail menant de la porte.
 
 <a id="art-n11d07"></a>
 ## Art. 11.
@@ -2168,21 +2186,21 @@ Un tapis roulant, un escalier mécanique ou un plan incliné mécanique est doub
 
 Ces équipements répondent aux dispositions suivantes :
 
-1. repérage :
+- repérage :
 
-1. une signalisation adaptée répondant aux exigences définies à l’article 20 est installée ;
+  - une signalisation adaptée répondant aux exigences définies à l’article 20 est installée ;
 
-2. la signalisation permet à un usager de choisir entre l’équipement mobile et un autre cheminement accessible.
+  - la signalisation permet à un usager de choisir entre l’équipement mobile et un autre cheminement accessible.
 
-2. atteinte et usage :
+- atteinte et usage :
 
-1. les mains courantes situées de part et d’autre de l’équipement accompagnent le déplacement et dépassent d’au moins 30 cm le départ et l’arrivée de la partie en mouvement ;
+  - les mains courantes situées de part et d’autre de l’équipement accompagnent le déplacement et dépassent d’au moins 30 cm le départ et l’arrivée de la partie en mouvement ;
 
-2. la commande d’arrêt d’urgence est facilement repérable, accessible et manœuvrable en position « debout » comme en position « assise » ;
+  - la commande d’arrêt d’urgence est facilement repérable, accessible et manœuvrable en position « debout » comme en position « assise » ;
 
-3. l’équipement comporte un dispositif d’éclairage répondant aux exigences définies à l’article 18 ;
+  - l’équipement comporte un dispositif d’éclairage répondant aux exigences définies à l’article 18 ;
 
-4. le peigne ainsi que le départ et l’arrivée des parties en mouvement sont mis en évidence par un contraste de couleur ou de lumière. L’indication du sens de marche est obligatoire.
+  - le peigne ainsi que le départ et l’arrivée des parties en mouvement sont mis en évidence par un contraste de couleur ou de lumière. L’indication du sens de marche est obligatoire.
 
 <a id="art-n11d64"></a>
 ## Art. 12.
@@ -2220,43 +2238,43 @@ Par dérogation à l’alinéa 1er, lorsqu’un dispositif rendu nécessaire du 
 
 Les portes répondent aux dispositions suivantes :
 
-1. caractéristiques dimensionnelles :
+- caractéristiques dimensionnelles :
 
-1. les portes présentent un passage libre d’une largeur minimale de 90 cm et d’une hauteur libre minimale de 205 cm ;
+  - les portes présentent un passage libre d’une largeur minimale de 90 cm et d’une hauteur libre minimale de 205 cm ;
 
-2. les portes sont sans seuil ;
+  - les portes sont sans seuil ;
 
-3. les portes des WC, des douches et des cabines d’essayage ou de déshabillage non adaptées ont un passage libre minimal de 80 cm ;
+  - les portes des WC, des douches et des cabines d’essayage ou de déshabillage non adaptées ont un passage libre minimal de 80 cm ;
 
-4. les portiques de sécurité présentent un passage libre d’une largeur minimale de 90 cm ou présentent un passage alternatif à proximité ;
+  - les portiques de sécurité présentent un passage libre d’une largeur minimale de 90 cm ou présentent un passage alternatif à proximité ;
 
-5. côté poignée, sur une largeur de 50 cm, la profondeur de la niche entre la poignée et la surface de la paroi ne peut pas être supérieure à 25 cm ;
+  - côté poignée, sur une largeur de 50 cm, la profondeur de la niche entre la poignée et la surface de la paroi ne peut pas être supérieure à 25 cm ;
 
-6. un espace de manœuvre de porte dont les caractéristiques dimensionnelles sont définies à l’article 14 est nécessaire devant chaque porte, à l’exception de celles s’ouvrant uniquement sur un escalier dépourvu d’un espace d’attente sécurisée, et à l’exception des portes des WC, douches et cabines d’essayage ou de déshabillage non adaptés.
+  - un espace de manœuvre de porte dont les caractéristiques dimensionnelles sont définies à l’article 14 est nécessaire devant chaque porte, à l’exception de celles s’ouvrant uniquement sur un escalier dépourvu d’un espace d’attente sécurisée, et à l’exception des portes des WC, douches et cabines d’essayage ou de déshabillage non adaptés.
 
-2. atteinte et usage :
+- atteinte et usage :
 
-1. les poignées de porte sont facilement préhensibles et manœuvrables en position « debout » comme en position « assise », ainsi que par une personne ayant des difficultés à saisir et à faire un geste de rotation du poignet. Elles sont de couleur contrastée par rapport à la feuille de porte ;
+  - les poignées de porte sont facilement préhensibles et manœuvrables en position « debout » comme en position « assise », ainsi que par une personne ayant des difficultés à saisir et à faire un geste de rotation du poignet. Elles sont de couleur contrastée par rapport à la feuille de porte ;
 
-2. les poignées se situent à une hauteur comprise entre 85 cm et 110 cm. Les portes coulissantes à ouverture manuelle sont munies de part et d’autre de la porte d’un tirant vertical d’une longueur minimale de 40 cm axé à une hauteur de 105 cm. En position ouverte ou fermée, la distance entre le chambranle et le tirant est d’au moins 4 cm ;
+  - les poignées se situent à une hauteur comprise entre 85 cm et 110 cm. Les portes coulissantes à ouverture manuelle sont munies de part et d’autre de la porte d’un tirant vertical d’une longueur minimale de 40 cm axé à une hauteur de 105 cm. En position ouverte ou fermée, la distance entre le chambranle et le tirant est d’au moins 4 cm ;
 
-3. s’il n’y a pas d’espace libre latéralement à la porte du côté de la poignée décrit à l’article 14, la porte est à ouverture automatique ou la porte est ouverte en permanence pendant les heures d’ouverture au public et ne se referme qu’en cas d’incendie.
+  - s’il n’y a pas d’espace libre latéralement à la porte du côté de la poignée décrit à l’article 14, la porte est à ouverture automatique ou la porte est ouverte en permanence pendant les heures d’ouverture au public et ne se referme qu’en cas d’incendie.
 
-3. sécurité d’usage :
+- sécurité d’usage :
 
-1. les portes à ouverture automatique autres que coulissantes sont signalées en tant que telles. La durée d’ouverture de la porte permet le passage de toute personne et elle ne peut pas se refermer tant qu’une personne se trouve dans son débattement. En présence d’une porte battante automatique, une bande d’éveil à la vigilance est à implanter devant l’aire de débattement conformément aux dispositions prévues à l’article 22, point 5°;
+  - les portes à ouverture automatique autres que coulissantes sont signalées en tant que telles. La durée d’ouverture de la porte permet le passage de toute personne et elle ne peut pas se refermer tant qu’une personne se trouve dans son débattement. En présence d’une porte battante automatique, une bande d’éveil à la vigilance est à implanter devant l’aire de débattement conformément aux dispositions prévues à l’article 22, point 5°;
 
-2. les portes comportant une partie vitrée importante sont repérables en position ouverte ou fermée à l’aide d’éléments visuels contrastés par rapport à l’environnement immédiat défini à l’article 2, paragraphe 3, point 3°, lettre d) ;
+  - les portes comportant une partie vitrée importante sont repérables en position ouverte ou fermée à l’aide d’éléments visuels contrastés par rapport à l’environnement immédiat défini à l’article 2, paragraphe 3, point 3°, lettre d) ;
 
-3. les portes de type va et vient ne sont pas autorisées à moins d’être équipées d’un dispositif pour éviter que la porte n’oscille au-delà de la fermeture. Elles sont à équiper d’une partie transparente définie à l’article 2, paragraphe 3, point 3°, lettre d) ;
+  - les portes de type va et vient ne sont pas autorisées à moins d’être équipées d’un dispositif pour éviter que la porte n’oscille au-delà de la fermeture. Elles sont à équiper d’une partie transparente définie à l’article 2, paragraphe 3, point 3°, lettre d) ;
 
-4. la force d’ouverture maximale des portes est de 25 N. Pour les portes munies d’un ferme-porte, le moment de force maximal d’ouverture de la porte autorisé est de 50 Nm. Si ces valeurs maximales sont dépassées, la porte est à ouverture automatique. Pour les portes coupe-feu munies d’un système de fermeture automatique asservi au système de détection d’incendie, une force d’ouverture plus importante est tolérée pour des besoins de sécurité ;
+  - la force d’ouverture maximale des portes est de 25 N. Pour les portes munies d’un ferme-porte, le moment de force maximal d’ouverture de la porte autorisé est de 50 Nm. Si ces valeurs maximales sont dépassées, la porte est à ouverture automatique. Pour les portes coupe-feu munies d’un système de fermeture automatique asservi au système de détection d’incendie, une force d’ouverture plus importante est tolérée pour des besoins de sécurité ;
 
-5. les portes entre deux zones de circulation comportent une partie transparente, dont la partie basse se situe à une hauteur inférieure ou égale à 60 cm du sol fini et le bord supérieur se situe à une hauteur supérieure ou égale à 160 cm du sol fini et présente une largeur minimale de 15 cm ;
+  - les portes entre deux zones de circulation comportent une partie transparente, dont la partie basse se situe à une hauteur inférieure ou égale à 60 cm du sol fini et le bord supérieur se situe à une hauteur supérieure ou égale à 160 cm du sol fini et présente une largeur minimale de 15 cm ;
 
-6. l’angle d’ouverture des portes en position ouverte est de sorte à ne pas présenter la tranche de la porte dans le cheminement ;
+  - l’angle d’ouverture des portes en position ouverte est de sorte à ne pas présenter la tranche de la porte dans le cheminement ;
 
-7. le battant mobile des portes coupe-feu à deux vantaux est signalé afin que celui-ci soit facilement repérable et utilisable.
+  - le battant mobile des portes coupe-feu à deux vantaux est signalé afin que celui-ci soit facilement repérable et utilisable.
 
 <a id="art-n11e3b"></a>
 ## Art. 14.
@@ -2273,57 +2291,57 @@ L’espace de manœuvre est de forme rectangulaire.
 
 Pour les portes battantes, situées dans le cheminement, à :
 
-1. accès frontal :
+- accès frontal :
 
-1. la largeur de l’espace de manœuvre de la porte est composée d’une partie de 50 cm située latéralement à la porte du côté de la poignée et d’une partie de 100 cm située du côté opposé ;
+  - la largeur de l’espace de manœuvre de la porte est composée d’une partie de 50 cm située latéralement à la porte du côté de la poignée et d’une partie de 100 cm située du côté opposé ;
 
-2. la profondeur est définie comme suit :
+  - la profondeur est définie comme suit :
 
-1. lorsque l’ouverture se fait en poussant, la profondeur de l’espace de manœuvre est de 150 cm ;
+    - lorsque l’ouverture se fait en poussant, la profondeur de l’espace de manœuvre est de 150 cm ;
 
-2. lorsque l’ouverture se fait en tirant, la profondeur de l’espace de manœuvre est de 120 cm en plus du débattement de la porte.
+    - lorsque l’ouverture se fait en tirant, la profondeur de l’espace de manœuvre est de 120 cm en plus du débattement de la porte.
 
-2. accès latéral :
+- accès latéral :
 
-1. la largeur de l’espace de manœuvre de la porte est définie comme suit :
+  - la largeur de l’espace de manœuvre de la porte est définie comme suit :
 
-1. lorsque l’ouverture se fait en poussant, la largeur de l’espace de manœuvre est de 120 cm ;
+    - lorsque l’ouverture se fait en poussant, la largeur de l’espace de manœuvre est de 120 cm ;
 
-2. lorsque l’ouverture se fait en tirant, la largeur de l’espace de manœuvre est de 150 cm.
+    - lorsque l’ouverture se fait en tirant, la largeur de l’espace de manœuvre est de 150 cm.
 
-2. la profondeur est définie comme suit :
+  - la profondeur est définie comme suit :
 
-1. lorsque l’ouverture se fait en poussant, la profondeur de l’espace de manœuvre est composée d’une partie de 50 cm située latéralement à la porte du côté de la poignée et d’une partie de 120 cm située du côté opposé ;
+    - lorsque l’ouverture se fait en poussant, la profondeur de l’espace de manœuvre est composée d’une partie de 50 cm située latéralement à la porte du côté de la poignée et d’une partie de 120 cm située du côté opposé ;
 
-2. lorsque l’ouverture se fait en tirant, la profondeur de l’espace de manœuvre est composée de la largeur de la porte prolongée de 120 cm du côté de la poignée.
+    - lorsque l’ouverture se fait en tirant, la profondeur de l’espace de manœuvre est composée de la largeur de la porte prolongée de 120 cm du côté de la poignée.
 
 (3)
 
 Pour les portes coulissantes, situées dans le cheminement, à :
 
-1. accès frontal :
+- accès frontal :
 
-1. la largeur de l’espace de manœuvre de porte est composée d’une partie de 25 cm située latéralement à la porte du côté de la poignée et d’une partie de 100 cm située du côté opposé ;
+  - la largeur de l’espace de manœuvre de porte est composée d’une partie de 25 cm située latéralement à la porte du côté de la poignée et d’une partie de 100 cm située du côté opposé ;
 
-2. la profondeur est de 150 cm.
+  - la profondeur est de 150 cm.
 
-2. accès latéral :
+- accès latéral :
 
-1. la largeur de l’espace de manœuvre est composée d’une partie de 25 cm située latéralement à la porte du côté de la poignée et d’une partie de 120 cm située du côté opposé ;
+  - la largeur de l’espace de manœuvre est composée d’une partie de 25 cm située latéralement à la porte du côté de la poignée et d’une partie de 120 cm située du côté opposé ;
 
-2. la profondeur est de 120 cm.
+  - la profondeur est de 120 cm.
 
 (4)
 
 Pour les portes intérieures à une pièce :
 
-1. la largeur de l’espace de manœuvre de la porte est composée d’une partie de 50 cm située latéralement à la porte du côté de la poignée et d’une partie de 100 cm située du côté opposé. La partie située latéralement à la porte du côté de la poignée peut être réduite à 25 cm pour une porte coulissante ;
+- la largeur de l’espace de manœuvre de la porte est composée d’une partie de 50 cm située latéralement à la porte du côté de la poignée et d’une partie de 100 cm située du côté opposé. La partie située latéralement à la porte du côté de la poignée peut être réduite à 25 cm pour une porte coulissante ;
 
-2. la profondeur de l’espace de manœuvre est définie comme suit :
+- la profondeur de l’espace de manœuvre est définie comme suit :
 
-1. pour les portes coulissantes ou lorsque l’ouverture se fait en poussant, la profondeur est de 120 cm ;
+  - pour les portes coulissantes ou lorsque l’ouverture se fait en poussant, la profondeur est de 120 cm ;
 
-2. lorsque l’ouverture se fait en tirant, la profondeur est de 150 cm.
+  - lorsque l’ouverture se fait en tirant, la profondeur est de 150 cm.
 
 <a id="art-n11f0c"></a>
 ## Art. 15.
@@ -2342,25 +2360,25 @@ Lorsque plusieurs équipements ou éléments de mobilier ayant la même fonction
 
 Les équipements, le mobilier ainsi que les dispositifs de commande, de service et d’information fixes destinés au public, qu’ils soient situés à l’intérieur ou à l’extérieur, respectent les dispositions suivantes :
 
-1. repérage :
+- repérage :
 
-1. les équipements et le mobilier sont repérables grâce à un éclairage particulier ou à un contraste visuel ;
+  - les équipements et le mobilier sont repérables grâce à un éclairage particulier ou à un contraste visuel ;
 
-2. les informations fournies par les équipements et dispositifs de commande sont perçues par au moins deux des trois sens suivants : visuel, tactile ou acoustique.
+  - les informations fournies par les équipements et dispositifs de commande sont perçues par au moins deux des trois sens suivants : visuel, tactile ou acoustique.
 
-2. atteinte et usage :
+- atteinte et usage :
 
-1. au droit de tout équipement, mobilier, dispositif de commande et de service existe un espace d’usage dont les caractéristiques dimensionnelles sont définies à l’article 19 ;
+  - au droit de tout équipement, mobilier, dispositif de commande et de service existe un espace d’usage dont les caractéristiques dimensionnelles sont définies à l’article 19 ;
 
-2. un équipement ou un élément de mobilier au moins par groupe d’équipements ou d’éléments de mobilier est utilisable par une personne en position « debout » comme en position « assise ». À cette fin, il présente les caractéristiques suivantes :
+  - un équipement ou un élément de mobilier au moins par groupe d’équipements ou d’éléments de mobilier est utilisable par une personne en position « debout » comme en position « assise ». À cette fin, il présente les caractéristiques suivantes :
 
-1. la hauteur est comprise entre 85 cm et 110 cm pour une commande manuelle ou lorsque l’utilisation de l’équipement nécessite de voir, de lire, d’entendre ou de parler. Dans ce cas, la distance entre un élément de commande et un coin de mur est d’au moins 50 cm. En présence d’une commande à effleurement, le système est complémenté par un dispositif actionné par un autre sens. L’activation est clairement signalée et perceptible par au moins deux sens ;
+    - la hauteur est comprise entre 85 cm et 110 cm pour une commande manuelle ou lorsque l’utilisation de l’équipement nécessite de voir, de lire, d’entendre ou de parler. Dans ce cas, la distance entre un élément de commande et un coin de mur est d’au moins 50 cm. En présence d’une commande à effleurement, le système est complémenté par un dispositif actionné par un autre sens. L’activation est clairement signalée et perceptible par au moins deux sens ;
 
-2. la hauteur est comprise entre 80 cm et 85 cm lorsqu’un élément de mobilier permet de lire, d’écrire ou d’utiliser un document. Dans ce cas, il est prévu un vide en partie inférieure d’au moins 60 cm de profondeur, 90 cm de largeur et 70 cm de hauteur permettant le passage des pieds et des genoux d’un utilisateur de fauteuil roulant.
+    - la hauteur est comprise entre 80 cm et 85 cm lorsqu’un élément de mobilier permet de lire, d’écrire ou d’utiliser un document. Dans ce cas, il est prévu un vide en partie inférieure d’au moins 60 cm de profondeur, 90 cm de largeur et 70 cm de hauteur permettant le passage des pieds et des genoux d’un utilisateur de fauteuil roulant.
 
-3. dans le cas de guichets d’information ou de vente manuelle, lorsque la communication avec le personnel est sonorisée, le dispositif de sonorisation est équipé d’un système de transmission du signal acoustique adapté aux personnes malentendantes signalé par un pictogramme ;
+  - dans le cas de guichets d’information ou de vente manuelle, lorsque la communication avec le personnel est sonorisée, le dispositif de sonorisation est équipé d’un système de transmission du signal acoustique adapté aux personnes malentendantes signalé par un pictogramme ;
 
-4. les éléments de signalisation et d’information répondent aux exigences définies à l’article 20. Lorsqu’il existe un ou plusieurs points d’affichage instantané, toute information visuelle peut être doublée par une information sonore ou transmise sur un autre support accessible.
+  - les éléments de signalisation et d’information répondent aux exigences définies à l’article 20. Lorsqu’il existe un ou plusieurs points d’affichage instantané, toute information visuelle peut être doublée par une information sonore ou transmise sur un autre support accessible.
 
 <a id="art-n11f7d"></a>
 ## Art. 16.
@@ -2377,53 +2395,53 @@ Un lavabo au moins par groupe de lavabos ainsi que les divers aménagements, y c
 
 Un WC aménagé répond aux caractéristiques dimensionnelles suivantes :
 
-1. la pièce comporte une surface de manœuvre de diamètre supérieur ou égal à 150 cm libre de tout obstacle. Cette surface ne peut pas empiéter sur les différents équipements sanitaires ;
+- la pièce comporte une surface de manœuvre de diamètre supérieur ou égal à 150 cm libre de tout obstacle. Cette surface ne peut pas empiéter sur les différents équipements sanitaires ;
 
-2. la cuvette de WC est accessible latéralement des deux côtés, en oblique ou de face. Si l’espace à disposition n’est pas suffisant pour un transfert des deux côtés, des locaux comportant une cuvette de WC avec transfert à gauche et une cuvette de WC avec transfert à droite sont à prévoir en alternance.
+- la cuvette de WC est accessible latéralement des deux côtés, en oblique ou de face. Si l’espace à disposition n’est pas suffisant pour un transfert des deux côtés, des locaux comportant une cuvette de WC avec transfert à gauche et une cuvette de WC avec transfert à droite sont à prévoir en alternance.
 
 (3)
 
 Un WC aménagé respecte les dispositions ci-après par rapport à l’atteinte et l’usage :
 
-1. il comporte un passage de porte libre d’au moins 90 cm. La porte est de type coulissant, battant ou à encombrement réduit. La porte battante s’ouvre vers l’extérieur. Le système de verrouillage à l’intérieur est facile à saisir et à manipuler ;
+- il comporte un passage de porte libre d’au moins 90 cm. La porte est de type coulissant, battant ou à encombrement réduit. La porte battante s’ouvre vers l’extérieur. Le système de verrouillage à l’intérieur est facile à saisir et à manipuler ;
 
-2. il comporte un lavabo et un miroir utilisables en position « debout » comme en position « assise » répondant aux exigences suivantes :
+- il comporte un lavabo et un miroir utilisables en position « debout » comme en position « assise » répondant aux exigences suivantes :
 
-1. la profondeur du lavabo est d’au moins 50 cm ;
+  - la profondeur du lavabo est d’au moins 50 cm ;
 
-2. un espace d’usage conforme à l’article 19 de dimensions minimales de 90 cm x 120 cm est à prévoir ;
+  - un espace d’usage conforme à l’article 19 de dimensions minimales de 90 cm x 120 cm est à prévoir ;
 
-3. le siphon est encastré dans le mur ou déporté vers l’arrière permettant le passage des pieds et des genoux d’une personne en position assise ;
+  - le siphon est encastré dans le mur ou déporté vers l’arrière permettant le passage des pieds et des genoux d’une personne en position assise ;
 
-4. le bord avant du lavabo se situe à une hauteur comprise entre 80 cm et 85 cm ;
+  - le bord avant du lavabo se situe à une hauteur comprise entre 80 cm et 85 cm ;
 
-5. l’espace libre en dessous du lavabo est d’une hauteur supérieure à 67 cm sur les premiers 30 cm mesurés à partir du bord avant et d’une largeur d’au moins 90 cm ;
+  - l’espace libre en dessous du lavabo est d’une hauteur supérieure à 67 cm sur les premiers 30 cm mesurés à partir du bord avant et d’une largeur d’au moins 90 cm ;
 
-6. le mitigeur est à levier unique ou à commande automatique. La température de l’eau est limitée à 40 degrés Celsius ;
+  - le mitigeur est à levier unique ou à commande automatique. La température de l’eau est limitée à 40 degrés Celsius ;
 
-7. le miroir est fixe. Il est posé directement au-dessus du lavabo. La partie basse du miroir se situe à une hauteur inférieure à 95 cm du sol ;
+  - le miroir est fixe. Il est posé directement au-dessus du lavabo. La partie basse du miroir se situe à une hauteur inférieure à 95 cm du sol ;
 
-8. les distributeurs de savon, de papier et les sèches mains, entre autres, sont actionnables à une main ou à déclenchement automatique. Les éléments de commande ou les hauteurs d’atteinte sont disposés à une hauteur comprise entre 85 cm et 110 cm du sol et à portée de main ;
+  - les distributeurs de savon, de papier et les sèches mains, entre autres, sont actionnables à une main ou à déclenchement automatique. Les éléments de commande ou les hauteurs d’atteinte sont disposés à une hauteur comprise entre 85 cm et 110 cm du sol et à portée de main ;
 
-9. une utilisation par une population spécifique peut requérir une adaptation des hauteurs des équipements.
+  - une utilisation par une population spécifique peut requérir une adaptation des hauteurs des équipements.
 
-3. il comporte une cuvette de WC répondant aux exigences suivantes :
+- il comporte une cuvette de WC répondant aux exigences suivantes :
 
-1. la hauteur est telle qu’elle facilite le transfert d’un fauteuil roulant et le transfert assis-debout. La hauteur d’assise, lunette baissée, est comprise entre 46 cm et 48 cm ;
+  - la hauteur est telle qu’elle facilite le transfert d’un fauteuil roulant et le transfert assis-debout. La hauteur d’assise, lunette baissée, est comprise entre 46 cm et 48 cm ;
 
-2. l’espace de transfert de la cuvette de WC pris depuis son axe est large d’au moins 110 cm de chaque côté et s’étend d’au moins 120 cm devant celle-ci. Si la cuvette de WC ne permet qu’un accès d’un seul côté, la distance entre le mur et l’axe de la cuvette de WC ne peut être inférieure à 43 cm. Aucun autre équipement ne peut venir empiéter sur cet espace, excepté le lavabo qui peut être installé latéralement au WC en gardant une distance d’au moins 90 cm de la cuvette de WC ;
+  - l’espace de transfert de la cuvette de WC pris depuis son axe est large d’au moins 110 cm de chaque côté et s’étend d’au moins 120 cm devant celle-ci. Si la cuvette de WC ne permet qu’un accès d’un seul côté, la distance entre le mur et l’axe de la cuvette de WC ne peut être inférieure à 43 cm. Aucun autre équipement ne peut venir empiéter sur cet espace, excepté le lavabo qui peut être installé latéralement au WC en gardant une distance d’au moins 90 cm de la cuvette de WC ;
 
-3. la distance entre le mur arrière et l’avant de la cuvette de WC est supérieure à 65 cm. Cela est réalisable soit avec une cuvette de WC de type long, soit avec une cuvette de WC de type normal avec réservoir ou un bâti-support posé devant le mur. La largeur du réservoir, ou du bâti-support qui n’est pas encastré, n’entrave pas le placement de barres d’appui. La cuvette de WC de type long est munie d’un dossier qui se trouve à une distance de 55 cm de l’avant de la cuvette de WC et ne comporte pas de couvercle ;
+  - la distance entre le mur arrière et l’avant de la cuvette de WC est supérieure à 65 cm. Cela est réalisable soit avec une cuvette de WC de type long, soit avec une cuvette de WC de type normal avec réservoir ou un bâti-support posé devant le mur. La largeur du réservoir, ou du bâti-support qui n’est pas encastré, n’entrave pas le placement de barres d’appui. La cuvette de WC de type long est munie d’un dossier qui se trouve à une distance de 55 cm de l’avant de la cuvette de WC et ne comporte pas de couvercle ;
 
-4. une barre d’appui est installée de chaque côté de la cuvette de WC, permettant le transfert d’une personne depuis un fauteuil roulant ou apportant une aide au relevage. Elles sont situées à une hauteur comprise entre 75 cm et 80 cm et sont axées à une distance de 35 cm de l’axe de la cuvette de WC. Elles dépassent de 10 cm à 15 cm l’avant de la cuvette de WC. Lorsque la cuvette de WC ne permet l’accès que d’un côté, la barre fixée au mur adjacent à la cuvette de WC est en forme de « L ». Les barres droites sont relevables. Les barres résistent à une force d’au moins 1 kN appliquée à l’avant de la barre ;
+  - une barre d’appui est installée de chaque côté de la cuvette de WC, permettant le transfert d’une personne depuis un fauteuil roulant ou apportant une aide au relevage. Elles sont situées à une hauteur comprise entre 75 cm et 80 cm et sont axées à une distance de 35 cm de l’axe de la cuvette de WC. Elles dépassent de 10 cm à 15 cm l’avant de la cuvette de WC. Lorsque la cuvette de WC ne permet l’accès que d’un côté, la barre fixée au mur adjacent à la cuvette de WC est en forme de « L ». Les barres droites sont relevables. Les barres résistent à une force d’au moins 1 kN appliquée à l’avant de la barre ;
 
-5. le porte-papier est monté sur une barre d’appui ou fixé sur le mur adjacent à portée de main ;
+  - le porte-papier est monté sur une barre d’appui ou fixé sur le mur adjacent à portée de main ;
 
-6. une utilisation par une population spécifique peut requérir une adaptation des hauteurs des équipements.
+  - une utilisation par une population spécifique peut requérir une adaptation des hauteurs des équipements.
 
-4. il comporte un support pour béquilles disposé à côté de la cuvette et du lavabo ainsi qu’un crochet pour habits disposé à une hauteur comprise entre 110 cm et 130 cm ;
+- il comporte un support pour béquilles disposé à côté de la cuvette et du lavabo ainsi qu’un crochet pour habits disposé à une hauteur comprise entre 110 cm et 130 cm ;
 
-5. il comporte un système d’appel d’aide relié à l’accueil ou à une permanence. Le système d’appel est activé par une corde qui descend jusqu’au niveau du sol à côté du WC et du lavabo.
+- il comporte un système d’appel d’aide relié à l’accueil ou à une permanence. Le système d’appel est activé par une corde qui descend jusqu’au niveau du sol à côté du WC et du lavabo.
 
 <a id="art-n12019"></a>
 ## Art. 17.
@@ -2432,9 +2450,9 @@ Sorties
 
 Les sorties principales peuvent être aisément repérées, atteintes et utilisées par toute personne. À cette fin, les sorties principales correspondant à un usage normal du bâtiment respectent les dispositions suivantes :
 
-1. la sortie est repérable de tout point où le public est admis, soit directement, soit par l’intermédiaire d’une signalisation adaptée répondant aux exigences définies à l’article 20 ;
+- la sortie est repérable de tout point où le public est admis, soit directement, soit par l’intermédiaire d’une signalisation adaptée répondant aux exigences définies à l’article 20 ;
 
-2. la signalisation indiquant la sortie ne présente aucun risque de confusion avec le repérage des issues de secours.
+- la signalisation indiquant la sortie ne présente aucun risque de confusion avec le repérage des issues de secours.
 
 <a id="art-n1203a"></a>
 ## Art. 18.
@@ -2454,13 +2472,13 @@ Besoins d’espaces libres de tout obstacle
 
 Pour que les personnes à mobilité réduite puissent se reposer, effectuer une manœuvre ou utiliser un équipement ou un dispositif quelconque, des espaces libres de tout obstacle sont prévus qui répondent aux caractéristiques suivantes :
 
-1. les espaces sont horizontaux au dévers près, inférieur ou égal à 2 pour cent, sauf contre-indication ;
+- les espaces sont horizontaux au dévers près, inférieur ou égal à 2 pour cent, sauf contre-indication ;
 
-2. le palier de repos permet à une personne debout ou en fauteuil roulant de se reprendre et de souffler. Le palier de repos s’insère en intégralité dans le cheminement. Il correspond à une surface carrée de dimensions minimales de 150 cm x 150 cm. Il peut être réduit à un cercle d’un diamètre de 150 cm en cas de contraintes techniques ;
+- le palier de repos permet à une personne debout ou en fauteuil roulant de se reprendre et de souffler. Le palier de repos s’insère en intégralité dans le cheminement. Il correspond à une surface carrée de dimensions minimales de 150 cm x 150 cm. Il peut être réduit à un cercle d’un diamètre de 150 cm en cas de contraintes techniques ;
 
-3. l’espace de manœuvre permet la manœuvre du fauteuil roulant. Il permet de s’orienter différemment ou de faire demi-tour. L’espace de manœuvre reste lié au cheminement. Il correspond à une surface carrée de 150 cm x 150 cm ;
+- l’espace de manœuvre permet la manœuvre du fauteuil roulant. Il permet de s’orienter différemment ou de faire demi-tour. L’espace de manœuvre reste lié au cheminement. Il correspond à une surface carrée de 150 cm x 150 cm ;
 
-4. l’espace d’usage permet le positionnement du fauteuil roulant pour utiliser un équipement ou un dispositif de commande ou de service. L’espace d’usage est situé à l’aplomb de l’équipement, du dispositif de commande ou de service et correspond à un rectangle de dimensions minimales de 90 cm x 120 cm.
+- l’espace d’usage permet le positionnement du fauteuil roulant pour utiliser un équipement ou un dispositif de commande ou de service. L’espace d’usage est situé à l’aplomb de l’équipement, du dispositif de commande ou de service et correspond à un rectangle de dimensions minimales de 90 cm x 120 cm.
 
 <a id="art-n12089"></a>
 ## Art. 20.
@@ -2477,69 +2495,69 @@ Les éléments d’information et de signalisation permanents fournis aux visite
 
 Concernant la visibilité :
 
-1. les informations sont regroupées ;
+- les informations sont regroupées ;
 
-2. au moins un support d’information répond aux exigences suivantes :
+- au moins un support d’information répond aux exigences suivantes :
 
-1. être contrasté par rapport à son environnement immédiat défini à l’article 21 ;
+  - être contrasté par rapport à son environnement immédiat défini à l’article 21 ;
 
-2. permettre une vision et une lecture en position « debout » comme en position « assise » ;
+  - permettre une vision et une lecture en position « debout » comme en position « assise » ;
 
-3. être choisi, positionné et orienté de façon à éviter tout effet d’éblouissement, de reflet ou de contre-jour dû à l’éclairage naturel ou artificiel ;
+  - être choisi, positionné et orienté de façon à éviter tout effet d’éblouissement, de reflet ou de contre-jour dû à l’éclairage naturel ou artificiel ;
 
-4. s’il est situé à une hauteur inférieure à 160 cm, permettre de s’en approcher à moins de 100 cm.
+  - s’il est situé à une hauteur inférieure à 160 cm, permettre de s’en approcher à moins de 100 cm.
 
 (3)
 
 Concernant la lisibilité, les informations données sur ces supports répondent aux exigences suivantes :
 
-1. être fortement contrastées par rapport au fond du support, conformément à l’article 21 ;
+- être fortement contrastées par rapport au fond du support, conformément à l’article 21 ;
 
-2. la hauteur des caractères d’écriture est proportionnée aux circonstances. Elle dépend de l’importance de l’information délivrée, des dimensions du local et de la distance de lecture de référence fixée en fonction de ces éléments. La taille minimale est de 1 cm pour une distance de lecture de 40 cm ou proportionnelle à la distance de lecture ;
+- la hauteur des caractères d’écriture est proportionnée aux circonstances. Elle dépend de l’importance de l’information délivrée, des dimensions du local et de la distance de lecture de référence fixée en fonction de ces éléments. La taille minimale est de 1 cm pour une distance de lecture de 40 cm ou proportionnelle à la distance de lecture ;
 
-3. les caractères sont déliés, sans sérif, ne présentent aucune ligature et ne sont pas en italique ;
+- les caractères sont déliés, sans sérif, ne présentent aucune ligature et ne sont pas en italique ;
 
-4. les textes sont en caractères majuscules et minuscules ;
+- les textes sont en caractères majuscules et minuscules ;
 
-5. les inscriptions sont à éclairer convenablement.
+- les inscriptions sont à éclairer convenablement.
 
 (4)
 
 Concernant la compréhension :
 
-1. la signalisation recourt autant que possible à des icônes ou à des pictogrammes ;
+- la signalisation recourt autant que possible à des icônes ou à des pictogrammes ;
 
-2. lorsqu’ils existent, le recours aux pictogrammes normalisés s’impose.
+- lorsqu’ils existent, le recours aux pictogrammes normalisés s’impose.
 
 (5)
 
 Concernant les couleurs :
 
-1. les couleurs peuvent aider à améliorer la perceptibilité de la signalisation ;
+- les couleurs peuvent aider à améliorer la perceptibilité de la signalisation ;
 
-2. toutefois les différences de teinte ou d’intensité des couleurs seules ne fournissent pas un contraste visuel adapté ;
+- toutefois les différences de teinte ou d’intensité des couleurs seules ne fournissent pas un contraste visuel adapté ;
 
-3. la couleur ne véhicule pas d’information à l’exception des couleurs qui indiquent un danger.
+- la couleur ne véhicule pas d’information à l’exception des couleurs qui indiquent un danger.
 
 (6)
 
 Concernant l’information tactile écrite :
 
-1. lorsque l’information est fournie sous forme tactile, elle est délivrée en code du braille littéraire luxembourgeois et en relief ;
+- lorsque l’information est fournie sous forme tactile, elle est délivrée en code du braille littéraire luxembourgeois et en relief ;
 
-2. l’écriture en relief a une hauteur comprise entre 0,1 cm et 0,15 cm ;
+- l’écriture en relief a une hauteur comprise entre 0,1 cm et 0,15 cm ;
 
-3. les caractères et autres symboles sont de préférence de forme conique ;
+- les caractères et autres symboles sont de préférence de forme conique ;
 
-4. la taille des caractères est d’au moins 1,5 cm.
+- la taille des caractères est d’au moins 1,5 cm.
 
 (7)
 
 Concernant la signalisation d’obstacles au sol :
 
-1. les potelets ou autres objets posés sur le sol le long du cheminement peuvent être détectés par une personne ayant un handicap visuel ;
+- les potelets ou autres objets posés sur le sol le long du cheminement peuvent être détectés par une personne ayant un handicap visuel ;
 
-2. ils se distinguent de leur environnement par leur couleur. À défaut, une bande de couleur contrastée d’une hauteur de 10 cm est apposée sur leur partie haute.
+- ils se distinguent de leur environnement par leur couleur. À défaut, une bande de couleur contrastée d’une hauteur de 10 cm est apposée sur leur partie haute.
 
 <a id="art-n1217f"></a>
 ## Art. 21.
@@ -2562,15 +2580,15 @@ La différence minimale de la VRL entre deux surfaces est supérieure à 30 poin
 
 Le contraste pour les systèmes de guidage tactile des infrastructures de transport en commun, ci-après appelé « k », est calculé avec la formule de Michelson :
 
-k = |VRL O − VRL EVRL O + VRL E|
+k = | VRL O − VRL E VRL O + VRL E |
 
 où VRL O est la valeur de réflectance à la lumière de l’objet et VRL E la valeur de réflectance à la lumière de son environnement.
 
 Les valeurs absolues de contraste suivantes sont à respecter :
 
-1. une valeur de k ≥ 0,4 est indispensable ;
+- une valeur de k ≥ 0,4 est indispensable ;
 
-2. la surface la plus claire présente une VRL d’au moins 50 points.
+- la surface la plus claire présente une VRL d’au moins 50 points.
 
 <a id="art-n1220d"></a>
 ## Art. 22.
@@ -2579,25 +2597,25 @@ Système de guidage tactile
 
 En cas d’installation d’un système de guidage tactile pour permettre aux personnes malvoyantes et aveugles de se guider, de s’orienter, de s’informer et d’être averties d’un danger, le système répond aux caractéristiques suivantes :
 
-1. il est composé de plots ou de stries d’une hauteur de 0,4 cm à 0,5 cm. En général, les stries indiquent une direction. Les plots sont utilisés aux endroits demandant une attention particulière. Le système de guidage est contrasté visuellement et tactilement par rapport au revêtement environnant. La valeur de contraste minimale est définie conformément à l’article 21 ;
+- il est composé de plots ou de stries d’une hauteur de 0,4 cm à 0,5 cm. En général, les stries indiquent une direction. Les plots sont utilisés aux endroits demandant une attention particulière. Le système de guidage est contrasté visuellement et tactilement par rapport au revêtement environnant. La valeur de contraste minimale est définie conformément à l’article 21 ;
 
-2. la ligne de guidage tactile d’une largeur de 30 cm indique la direction à suivre et est composée de stries. Celles-ci sont orientées parallèlement à la ligne de guidage. La ligne de guidage est libre de tout obstacle de part et d’autre de celle-ci sur une largeur de 60 cm mesurée depuis son bord ;
+- la ligne de guidage tactile d’une largeur de 30 cm indique la direction à suivre et est composée de stries. Celles-ci sont orientées parallèlement à la ligne de guidage. La ligne de guidage est libre de tout obstacle de part et d’autre de celle-ci sur une largeur de 60 cm mesurée depuis son bord ;
 
-3. les changements de direction le long de la ligne de guidage sont réalisés de préférence en angle droit. Tout changement de direction d’un angle supérieur à 45 degrés est signalé avec un carré constitué de plots et ayant des dimensions minimales de 90 cm x 90 cm. Le champ de carré est disposé de manière excentrée sur la ligne de guidage tactile pour que le côté du carré qui déborde de celle-ci indique la direction du branchement. Dans une bifurcation, le carré est centré par rapport à la ligne de guidage qui le sépare ;
+- les changements de direction le long de la ligne de guidage sont réalisés de préférence en angle droit. Tout changement de direction d’un angle supérieur à 45 degrés est signalé avec un carré constitué de plots et ayant des dimensions minimales de 90 cm x 90 cm. Le champ de carré est disposé de manière excentrée sur la ligne de guidage tactile pour que le côté du carré qui déborde de celle-ci indique la direction du branchement. Dans une bifurcation, le carré est centré par rapport à la ligne de guidage qui le sépare ;
 
-4. le début et la fin d’une ligne de guidage sont composés d’un carré de 90 cm x 90 cm réalisé avec des plots. Le champ de carré est flanqué d’un champ de stries posées dans le sens de la circulation piétonne ;
+- le début et la fin d’une ligne de guidage sont composés d’un carré de 90 cm x 90 cm réalisé avec des plots. Le champ de carré est flanqué d’un champ de stries posées dans le sens de la circulation piétonne ;
 
-5. les bandes d’éveil à la vigilance constituées de plots signalent la présence d’un escalier descendant, d’un plan incliné de pente supérieure à 6 pour cent, ou d’un obstacle dangereux au sol se trouvant sur le cheminement accessible. Elles sont profondes de 90 cm et s’étendent sur toute la largeur de l’obstacle. En présence d’une ligne de guidage menant à l’escalier, une bande d’éveil à la vigilance est aussi à prévoir en bas de l’escalier. La profondeur peut être réduite à 60 cm en cas de manque d’espace. En général, elles sont placées au plus près de l’obstacle. Lorsque la ligne de guidage donne sur un escalier d’une largeur inférieure ou égale à 300 cm, la ligne est centrée par rapport à la bande d’éveil à la vigilance qui se trouve devant l’escalier. Dans le cas contraire, une ligne de guidage mène à chaque extrémité de la bande d’éveil à la vigilance à une distance latérale de 60 cm de la main courante ;
+- les bandes d’éveil à la vigilance constituées de plots signalent la présence d’un escalier descendant, d’un plan incliné de pente supérieure à 6 pour cent, ou d’un obstacle dangereux au sol se trouvant sur le cheminement accessible. Elles sont profondes de 90 cm et s’étendent sur toute la largeur de l’obstacle. En présence d’une ligne de guidage menant à l’escalier, une bande d’éveil à la vigilance est aussi à prévoir en bas de l’escalier. La profondeur peut être réduite à 60 cm en cas de manque d’espace. En général, elles sont placées au plus près de l’obstacle. Lorsque la ligne de guidage donne sur un escalier d’une largeur inférieure ou égale à 300 cm, la ligne est centrée par rapport à la bande d’éveil à la vigilance qui se trouve devant l’escalier. Dans le cas contraire, une ligne de guidage mène à chaque extrémité de la bande d’éveil à la vigilance à une distance latérale de 60 cm de la main courante ;
 
-6. une bande d’éveil à la vigilance constituée de plots est à prévoir devant une porte battante à ouverture automatique du côté du débattement ou devant une porte tournante du côté de l’ouverture de la porte. Elle est installée à une distance de 30 cm du débattement de la porte. Sa profondeur est de 60 cm et sa largeur couvre toute la largeur de la porte ;
+- une bande d’éveil à la vigilance constituée de plots est à prévoir devant une porte battante à ouverture automatique du côté du débattement ou devant une porte tournante du côté de l’ouverture de la porte. Elle est installée à une distance de 30 cm du débattement de la porte. Sa profondeur est de 60 cm et sa largeur couvre toute la largeur de la porte ;
 
-7. lorsque la ligne de guidage indique la présence d’un ascenseur, elle est dirigée vers le bouton d’appel ;
+- lorsque la ligne de guidage indique la présence d’un ascenseur, elle est dirigée vers le bouton d’appel ;
 
-8. un point d’intérêt le long de la ligne de guidage peut être signalé par la présence d’un carré composé de plots et de dimensions de 90 cm x 90 cm. S’il est suivi d’un champ de stries qui sont parallèles à la ligne de guidage, il indique un point d’information accessible ;
+- un point d’intérêt le long de la ligne de guidage peut être signalé par la présence d’un carré composé de plots et de dimensions de 90 cm x 90 cm. S’il est suivi d’un champ de stries qui sont parallèles à la ligne de guidage, il indique un point d’information accessible ;
 
-9. à l’extérieur, les stries sont larges de 0,5 cm à 1,5 cm, et elles sont espacées de 2,5 cm à 3,5 cm. Les plots, posés en quinconce, sont ronds avec un diamètre de 2 cm à 3 cm et avec un espacement orthogonal de 3 cm à 5 cm ;
+- à l’extérieur, les stries sont larges de 0,5 cm à 1,5 cm, et elles sont espacées de 2,5 cm à 3,5 cm. Les plots, posés en quinconce, sont ronds avec un diamètre de 2 cm à 3 cm et avec un espacement orthogonal de 3 cm à 5 cm ;
 
-10. à l’intérieur des bâtiments, les caractéristiques et dimensions du système de guidage décrites dans le présent article peuvent être adaptées dès lors que leur perceptibilité visuelle ou tactile est équivalente.
+- à l’intérieur des bâtiments, les caractéristiques et dimensions du système de guidage décrites dans le présent article peuvent être adaptées dès lors que leur perceptibilité visuelle ou tactile est équivalente.
 
 <a id="art-n12246"></a>
 ## Art. 23.
@@ -2616,9 +2634,9 @@ Une stratégie d’évacuation des personnes handicapées est établie et docume
 
 Par dérogation au paragraphe 1er, les lieux ou parties des lieux ouverts au public visés à l’article 1er, point 1°, de la loi du 7 janvier 2022 portant sur l’accessibilité à tous des lieux ouverts au public, des voies publiques et des bâtiments d’habitation collectifs, qui relèvent des dispositions de la loi modifiée du 10 juin 1999 relative aux établissements classés sont soumis en ce qui concerne les conditions d’évacuation :
 
-1. aux prescriptions fixées par voie d’arrêtés d’autorisation délivrés par le ministre ayant le Travail dans ses attributions et ;
+- aux prescriptions fixées par voie d’arrêtés d’autorisation délivrés par le ministre ayant le Travail dans ses attributions et ;
 
-2. aux dispositions prévues par le règlement grand-ducal modifié du 13 juin 1979 concernant les directives en matière de sécurité dans la fonction publique s’il s’agit d’établissements classés visés par la loi modifiée du 19 mars 1988 concernant la sécurité dans les administrations et services de l’État, dans les établissements publics et dans les écoles.
+- aux dispositions prévues par le règlement grand-ducal modifié du 13 juin 1979 concernant les directives en matière de sécurité dans la fonction publique s’il s’agit d’établissements classés visés par la loi modifiée du 19 mars 1988 concernant la sécurité dans les administrations et services de l’État, dans les établissements publics et dans les écoles.
 
 <a id="art-n122ae"></a>
 ## Art. 24.
@@ -2633,21 +2651,21 @@ Tout établissement ou installation accueillant du public assis doit pouvoir rec
 
 Les places accessibles aux utilisateurs de fauteuil roulant dans les établissements et installations recevant du public assis répondent aux exigences suivantes :
 
-1. nombre :
+- nombre :
 
-1. au moins une place accessible par bloc de vingt jusqu’à cent places ;
+  - au moins une place accessible par bloc de vingt jusqu’à cent places ;
 
-2. au-delà de cent places, une place accessible supplémentaire par bloc de cent places.
+  - au-delà de cent places, une place accessible supplémentaire par bloc de cent places.
 
-2. caractéristiques dimensionnelles :
+- caractéristiques dimensionnelles :
 
-1. les dimensions minimales d’un emplacement sont de 90 cm de large et de 120 cm de long ;
+  - les dimensions minimales d’un emplacement sont de 90 cm de large et de 120 cm de long ;
 
-2. le cheminement d’accès à ces places présente les mêmes caractéristiques que les circulations intérieures ;
+  - le cheminement d’accès à ces places présente les mêmes caractéristiques que les circulations intérieures ;
 
-3. un siège pour l’accompagnateur est à prévoir à proximité de cette place.
+  - un siège pour l’accompagnateur est à prévoir à proximité de cette place.
 
-3. en ce qui concerne la répartition, lorsque plusieurs places s’imposent et que la nature des prestations offertes par l’établissement présente des différences importantes selon l’endroit où le public est admis, les places adaptées sont réparties en fonction des différentes catégories de places offertes au public.
+- en ce qui concerne la répartition, lorsque plusieurs places s’imposent et que la nature des prestations offertes par l’établissement présente des différences importantes selon l’endroit où le public est admis, les places adaptées sont réparties en fonction des différentes catégories de places offertes au public.
 
 <a id="art-n12302"></a>
 ## Art. 25.
@@ -2665,67 +2683,67 @@ Lieux ouverts au public définis à l’article 1er, point 1°, lettres b) à e)
 
 Le nombre minimal de chambres accessibles pouvant être occupées par des personnes en situation de handicap dans les lieux ouverts au public définis à l’article 1er, point 1°, lettres b) à e), de la loi du 7 janvier 2022 portant sur l’accessibilité à tous des lieux ouverts au public, des voies publiques et des bâtiments d’habitation collectifs s’élève à :
 
-1. une chambre, si le lieu compte entre dix et vingt chambres ;
+- une chambre, si le lieu compte entre dix et vingt chambres ;
 
-2. deux chambres, si le lieu compte entre vingt-et-une et cinquante chambres ;
+- deux chambres, si le lieu compte entre vingt-et-une et cinquante chambres ;
 
-3. une chambre supplémentaire par tranche ou fraction de cinquante chambres supplémentaires, si le lieu compte plus de cinquante chambres.
+- une chambre supplémentaire par tranche ou fraction de cinquante chambres supplémentaires, si le lieu compte plus de cinquante chambres.
 
 (2)
 
 Les chambres accessibles dans les lieux ouverts au public visés au paragraphe 1er sont soumises aux conditions ci-après :
 
-1. elles sont réparties entre les différents niveaux desservis par ascenseur ;
+- elles sont réparties entre les différents niveaux desservis par ascenseur ;
 
-2. le numéro de la chambre accessible figure en relief sur ou à côté de la porte côté poignée ;
+- le numéro de la chambre accessible figure en relief sur ou à côté de la porte côté poignée ;
 
-3. elles comportent en dehors du débattement de porte éventuel et de l’emprise d’un lit :
+- elles comportent en dehors du débattement de porte éventuel et de l’emprise d’un lit :
 
-1. un espace libre d’au moins 150 cm de diamètre ;
+  - un espace libre d’au moins 150 cm de diamètre ;
 
-2. un passage d’au moins 90 cm sur les deux grands côtés du lit et un passage d’au moins 120 cm sur le petit côté libre du lit, ou un passage d’au moins 120 cm sur les deux grands côtés du lit et un passage d’au moins 90 cm sur le petit côté libre du lit ;
+  - un passage d’au moins 90 cm sur les deux grands côtés du lit et un passage d’au moins 120 cm sur le petit côté libre du lit, ou un passage d’au moins 120 cm sur les deux grands côtés du lit et un passage d’au moins 90 cm sur le petit côté libre du lit ;
 
-4. elles comportent ou sont situées à proximité d’un WC accessible. En présence d’un WC, celui-ci respecte les caractéristiques définies à l’article 16. Toutefois, si le WC se trouve dans la chambre, un seul accès latéral à la cuvette du WC est suffisant ;
+- elles comportent ou sont situées à proximité d’un WC accessible. En présence d’un WC, celui-ci respecte les caractéristiques définies à l’article 16. Toutefois, si le WC se trouve dans la chambre, un seul accès latéral à la cuvette du WC est suffisant ;
 
-5. elles comportent ou sont situées à proximité d’une salle d’eau accessible qui répond aux critères suivants :
+- elles comportent ou sont situées à proximité d’une salle d’eau accessible qui répond aux critères suivants :
 
-1. en présence d’un WC, celui-ci respecte les caractéristiques définies à l’article 16. Toutefois, par dérogation à l’article 16, paragraphe 2, point 2°, un seul accès latéral à la cuvette du WC est suffisant ;
+  - en présence d’un WC, celui-ci respecte les caractéristiques définies à l’article 16. Toutefois, par dérogation à l’article 16, paragraphe 2, point 2°, un seul accès latéral à la cuvette du WC est suffisant ;
 
-2. la salle d’eau comporte une porte de type coulissant, battant ou à encombrement réduit s’ouvrant vers l’extérieur de la pièce ;
+  - la salle d’eau comporte une porte de type coulissant, battant ou à encombrement réduit s’ouvrant vers l’extérieur de la pièce ;
 
-3. elle est équipée d’un lavabo avec miroir et équipements conformes aux prescriptions énumérées à l’article 16 ;
+  - elle est équipée d’un lavabo avec miroir et équipements conformes aux prescriptions énumérées à l’article 16 ;
 
-4. elle comporte une douche accessible qui respecte les conditions suivantes :
+  - elle comporte une douche accessible qui respecte les conditions suivantes :
 
-1. la douche est de plain-pied et sans seuil ;
+    - la douche est de plain-pied et sans seuil ;
 
-2. la surface du receveur est supérieure à 1,25 m², dont aucun côté ne peut avoir une longueur inférieure à 90 cm ;
+    - la surface du receveur est supérieure à 1,25 m², dont aucun côté ne peut avoir une longueur inférieure à 90 cm ;
 
-3. il n’y a pas de retombées ni de saillies ;
+    - il n’y a pas de retombées ni de saillies ;
 
-4. le receveur est réalisé dans un matériau antidérapant ;
+    - le receveur est réalisé dans un matériau antidérapant ;
 
-5. si le receveur est installé en niche, il a une largeur d’au moins 150 cm et une profondeur d’au moins 90 cm ;
+    - si le receveur est installé en niche, il a une largeur d’au moins 150 cm et une profondeur d’au moins 90 cm ;
 
-6. la pente vers le siphon ne dépasse pas 2 pour cent ;
+    - la pente vers le siphon ne dépasse pas 2 pour cent ;
 
-7. une barre d’appui horizontale d’une longueur d’au moins 70 cm est disposée à une hauteur comprise entre 80 cm et 90 cm du sol d’un côté du receveur ;
+    - une barre d’appui horizontale d’une longueur d’au moins 70 cm est disposée à une hauteur comprise entre 80 cm et 90 cm du sol d’un côté du receveur ;
 
-8. une barre verticale, le long de laquelle coulisse le pommeau de douche, d’une longueur d’au moins 100 cm est posée à partir d’une hauteur de 90 cm du sol de ce même côté ;
+    - une barre verticale, le long de laquelle coulisse le pommeau de douche, d’une longueur d’au moins 100 cm est posée à partir d’une hauteur de 90 cm du sol de ce même côté ;
 
-9. la douche comporte un équipement fixe ou mobile permettant de s’asseoir. L’assise du siège, réalisée en matériau antidérapant, a une hauteur comprise entre 46 cm et 48 cm, une profondeur d’au moins 40 cm et est munie d’accoudoirs ou de barres d’appui relevables. Si l’équipement est fixe, l’assise et les accoudoirs sont relevables. Un espace d’usage de 90 cm x 120 cm est prévu à côté du siège ;
+    - la douche comporte un équipement fixe ou mobile permettant de s’asseoir. L’assise du siège, réalisée en matériau antidérapant, a une hauteur comprise entre 46 cm et 48 cm, une profondeur d’au moins 40 cm et est munie d’accoudoirs ou de barres d’appui relevables. Si l’équipement est fixe, l’assise et les accoudoirs sont relevables. Un espace d’usage de 90 cm x 120 cm est prévu à côté du siège ;
 
-10. en présence de parois de douche, celles-ci n’entravent pas l’accès au siège pour permettre au besoin un transfert vers le siège.
+    - en présence de parois de douche, celles-ci n’entravent pas l’accès au siège pour permettre au besoin un transfert vers le siège.
 
-5. Elle comporte un système d’appel d’aide relié à l’accueil ou à une permanence conformément à l’article 16, point 5°.
+  - Elle comporte un système d’appel d’aide relié à l’accueil ou à une permanence conformément à l’article 16, point 5°.
 
 (3)
 
 Par dérogation au paragraphe 1er, toutes les chambres sont accessibles conformément aux dispositions du paragraphe 2 dans les projets de nouvelles constructions de lieux ouverts au public suivants :
 
-1. les services d’hébergement destinés à l’accueil de personnes handicapées, définis à l’article 3, point 3°, du règlement grand-ducal modifié du 23 avril 2004 concernant l’agrément gouvernemental à accorder aux gestionnaires de services pour personnes handicapées et portant exécution de la loi du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ;
+- les services d’hébergement destinés à l’accueil de personnes handicapées, définis à l’article 3, point 3°, du règlement grand-ducal modifié du 23 avril 2004 concernant l’agrément gouvernemental à accorder aux gestionnaires de services pour personnes handicapées et portant exécution de la loi du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ;
 
-2. les maisons de soins, les centres intégrés pour personnes âgées et les logements encadrés pour personnes âgées, définis au règlement grand-ducal modifié du 8 décembre 1999 concernant l’agrément à accorder aux gestionnaires de services pour personnes âgées.
+- les maisons de soins, les centres intégrés pour personnes âgées et les logements encadrés pour personnes âgées, définis au règlement grand-ducal modifié du 8 décembre 1999 concernant l’agrément à accorder aux gestionnaires de services pour personnes âgées.
 
 <a id="art-n123e8"></a>
 ## Art. 27.
@@ -2746,19 +2764,19 @@ En présence de cabines ou de douches séparées pour chaque sexe, au moins une 
 
 Les cabines aménagées dans les établissements et installations comportant des douches, des cabines d’essayage, d’habillage ou de déshabillage, respectent les dispositions suivantes :
 
-1. les cabines aménagées comportent :
+- les cabines aménagées comportent :
 
-1. un espace de manœuvre avec possibilité de demi-tour dont les caractéristiques dimensionnelles sont définies à l’article 19, point 3° ;
+  - un espace de manœuvre avec possibilité de demi-tour dont les caractéristiques dimensionnelles sont définies à l’article 19, point 3° ;
 
-2. une banquette d’une hauteur d’assise comprise entre 46 cm et 48 cm, d’une profondeur d’au moins 45 cm et d’une longueur d’au moins 60 cm ;
+  - une banquette d’une hauteur d’assise comprise entre 46 cm et 48 cm, d’une profondeur d’au moins 45 cm et d’une longueur d’au moins 60 cm ;
 
-3. une barre d’appui horizontale située à une hauteur comprise entre 80 cm et 90 cm ;
+  - une barre d’appui horizontale située à une hauteur comprise entre 80 cm et 90 cm ;
 
-4. un rideau ou une porte qui s’ouvre vers l’extérieur.
+  - un rideau ou une porte qui s’ouvre vers l’extérieur.
 
-2. les douches aménagées sont soumises aux prescriptions de l’article 26, paragraphe 2, point 5°, lettre d) ;
+- les douches aménagées sont soumises aux prescriptions de l’article 26, paragraphe 2, point 5°, lettre d) ;
 
-3. les receveurs de douche des lieux ouverts au public, tels que piscines et halls de sport, ont des dimensions d’au moins 150 cm x 150 cm.
+- les receveurs de douche des lieux ouverts au public, tels que piscines et halls de sport, ont des dimensions d’au moins 150 cm x 150 cm.
 
 <a id="art-n1244f"></a>
 ## Art. 28.
@@ -2822,37 +2840,37 @@ Passages et gués
 
 Les passages et gués pour piétons respectent les exigences suivantes :
 
-1. les passages et gués disposant d’une bordure de hauteur différenciée avec d’un côté un abaissement pour les utilisateurs de fauteuil roulant et autres utilisateurs de moyens de déplacement roulants et de l’autre côté une bordure suffisamment haute pour être perceptible par les piétons aveugles ou malvoyants répondent aux caractéristiques suivantes :
+- les passages et gués disposant d’une bordure de hauteur différenciée avec d’un côté un abaissement pour les utilisateurs de fauteuil roulant et autres utilisateurs de moyens de déplacement roulants et de l’autre côté une bordure suffisamment haute pour être perceptible par les piétons aveugles ou malvoyants répondent aux caractéristiques suivantes :
 
-1. des éléments podotactiles, dont les caractéristiques sont définies à l’article 22, sont implantés pour avertir les personnes malvoyantes ou aveugles ;
+  - des éléments podotactiles, dont les caractéristiques sont définies à l’article 22, sont implantés pour avertir les personnes malvoyantes ou aveugles ;
 
-2. d’un côté de l’axe de la traversée, le trottoir dispose d’une bordure d’une hauteur de 3 cm à 6 cm. Accolés à cet axe, des éléments podotactiles annoncent la présence du passage et indiquent la direction de la traversée avec les aménagements suivants :
+  - d’un côté de l’axe de la traversée, le trottoir dispose d’une bordure d’une hauteur de 3 cm à 6 cm. Accolés à cet axe, des éléments podotactiles annoncent la présence du passage et indiquent la direction de la traversée avec les aménagements suivants :
 
-1. une bande de direction de traversée large de 90 cm et profonde d’au moins 60 cm est présente en bordure du trottoir. Elle est constituée de stries indiquant la direction de la traversée ;
+    - une bande de direction de traversée large de 90 cm et profonde d’au moins 60 cm est présente en bordure du trottoir. Elle est constituée de stries indiquant la direction de la traversée ;
 
-2. une bande de repérage large de 90 cm, située dans la continuité de la bande de direction de traversée, est présente sur toute la largeur restante du trottoir. Elle forme à son début un angle droit avec le bord intérieur du trottoir. Elle est constituée de plots ;
+    - une bande de repérage large de 90 cm, située dans la continuité de la bande de direction de traversée, est présente sur toute la largeur restante du trottoir. Elle forme à son début un angle droit avec le bord intérieur du trottoir. Elle est constituée de plots ;
 
-3. en présence d’un poteau pour signaux colorés lumineux, ce dernier se situe dans l’axe central de la traversée à hauteur de la bande de direction de traversée et de la bande de repérage.
+    - en présence d’un poteau pour signaux colorés lumineux, ce dernier se situe dans l’axe central de la traversée à hauteur de la bande de direction de traversée et de la bande de repérage.
 
-3. de l’autre côté de l’axe central de la traversée, à 50 cm de cet axe central, la bordure du trottoir est abaissée à une hauteur inférieure ou égale à 0,5 cm sur une largeur de 100 cm à 120 cm. Une bande de barrage constituée d’éléments podotactiles avertit les personnes malvoyantes ou aveugles de l’absence de bordure repérable. Cette bande de barrage présente les caractéristiques suivantes :
+  - de l’autre côté de l’axe central de la traversée, à 50 cm de cet axe central, la bordure du trottoir est abaissée à une hauteur inférieure ou égale à 0,5 cm sur une largeur de 100 cm à 120 cm. Une bande de barrage constituée d’éléments podotactiles avertit les personnes malvoyantes ou aveugles de l’absence de bordure repérable. Cette bande de barrage présente les caractéristiques suivantes :
 
-1. elle est installée sur toute la longueur du passage abaissé et prolongée de chaque côté du passage sur la longueur où la bordure présente une hauteur inférieure à 3 cm ;
+    - elle est installée sur toute la longueur du passage abaissé et prolongée de chaque côté du passage sur la longueur où la bordure présente une hauteur inférieure à 3 cm ;
 
-2. cette bande est profonde de 60 cm et est composée de stries parallèles à la bordure ;
+    - cette bande est profonde de 60 cm et est composée de stries parallèles à la bordure ;
 
-3. en présence d’un poteau pour signaux colorés lumineux, la prolongation de la bande de barrage peut être omise à la hauteur du poteau.
+    - en présence d’un poteau pour signaux colorés lumineux, la prolongation de la bande de barrage peut être omise à la hauteur du poteau.
 
-2. les passages et gués pour piétons à bordure de hauteur constante répondent aux caractéristiques suivantes :
+- les passages et gués pour piétons à bordure de hauteur constante répondent aux caractéristiques suivantes :
 
-1. la bordure a une hauteur inférieure ou égale à 3 cm sur toute la largeur du passage ;
+  - la bordure a une hauteur inférieure ou égale à 3 cm sur toute la largeur du passage ;
 
-2. pour avertir les personnes malvoyantes ou aveugles, des éléments podotactiles, au sens de l’article 22, sont implantés de la manière suivante :
+  - pour avertir les personnes malvoyantes ou aveugles, des éléments podotactiles, au sens de l’article 22, sont implantés de la manière suivante :
 
-1. une bande de direction de traversée profonde d’au moins 60 cm est installée sur toute la largeur du passage contre la bordure. Elle est constituée de stries indiquant la direction de la traversée ;
+    - une bande de direction de traversée profonde d’au moins 60 cm est installée sur toute la largeur du passage contre la bordure. Elle est constituée de stries indiquant la direction de la traversée ;
 
-2. une bande de repérage large de 90 cm, située au centre du passage, est présente sur toute la largeur restante du trottoir. Elle forme à son début un angle droit avec le bord intérieur du trottoir. Elle est constituée de plots. Quand le passage se trouve dans l’axe du cheminement, la bande de repérage est remplacée par une bande d’éveil à la vigilance posée contre la bande de direction de traversée sur toute la largeur du passage. Elle a une profondeur de 60 cm. Elle est constituée de plots ;
+    - une bande de repérage large de 90 cm, située au centre du passage, est présente sur toute la largeur restante du trottoir. Elle forme à son début un angle droit avec le bord intérieur du trottoir. Elle est constituée de plots. Quand le passage se trouve dans l’axe du cheminement, la bande de repérage est remplacée par une bande d’éveil à la vigilance posée contre la bande de direction de traversée sur toute la largeur du passage. Elle a une profondeur de 60 cm. Elle est constituée de plots ;
 
-3. en présence de signaux colorés lumineux, ceux-ci se situent à côté de la bande de repérage.
+    - en présence de signaux colorés lumineux, ceux-ci se situent à côté de la bande de repérage.
 
 (2)
 
@@ -2862,9 +2880,9 @@ Les gués sont signalés avec une bande de direction. Pour différencier les pas
 
 En présence d’une traversée pour cyclistes juxtaposée à une traversée pour piétons, la traversée pour cyclistes répond aux caractéristiques suivantes :
 
-1. elle se situe du côté abaissé de la bordure lorsque les passages et gués pour piétons disposent d’une bordure de hauteur différenciée conformément au paragraphe 1 er , point 1° ;
+- elle se situe du côté abaissé de la bordure lorsque les passages et gués pour piétons disposent d’une bordure de hauteur différenciée conformément au paragraphe 1 er , point 1° ;
 
-2. en présence d’une bordure de hauteur inférieure ou égale à 3 cm, une bande de barrage est installée sur toute sa largeur. Cette bande a une profondeur de 60 cm et est composée de stries parallèles à la bordure.
+- en présence d’une bordure de hauteur inférieure ou égale à 3 cm, une bande de barrage est installée sur toute sa largeur. Cette bande a une profondeur de 60 cm et est composée de stries parallèles à la bordure.
 
 (4)
 
@@ -2889,9 +2907,9 @@ Les quais disposent d’une signalétique tactile et visuelle au sol, dont les c
 
 Quand l’emplacement de l’accès à l’autobus ou au tramway est précisément défini, des éléments podotactiles se présentent de la manière suivante :
 
-1. une bande d’entrée longue de 120 cm et profonde de 90 cm indique l’emplacement de la première porte d’entrée de l’autobus ou du tramway. Elle est posée à 30 cm du bord extérieur du quai et est composée de stries parallèles à la bordure ;
+- une bande d’entrée longue de 120 cm et profonde de 90 cm indique l’emplacement de la première porte d’entrée de l’autobus ou du tramway. Elle est posée à 30 cm du bord extérieur du quai et est composée de stries parallèles à la bordure ;
 
-2. une bande de repérage composée de stries parallèles à la bordure mène vers la bande d’entrée. Elle est posée contre la bande d’entrée et dans l’axe central de celle-ci. Elle est large de 90 cm et posée sur toute la largeur restante du trottoir. Quand un quai compte plusieurs bandes d’entrées reliées entre elles avec une ligne de guidage, les bandes de repérage autres que celles situées à la première bande d’entrée peuvent être omises.
+- une bande de repérage composée de stries parallèles à la bordure mène vers la bande d’entrée. Elle est posée contre la bande d’entrée et dans l’axe central de celle-ci. Elle est large de 90 cm et posée sur toute la largeur restante du trottoir. Quand un quai compte plusieurs bandes d’entrées reliées entre elles avec une ligne de guidage, les bandes de repérage autres que celles situées à la première bande d’entrée peuvent être omises.
 
 Une ligne de guidage parcourt toute la longueur de l’arrêt. Elle démarre à partir de la bande d’entrée de l’autobus ou du tramway et se situe à au moins 60 cm du bord extérieur du quai.
 

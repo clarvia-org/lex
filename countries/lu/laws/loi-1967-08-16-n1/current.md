@@ -132,29 +132,29 @@ En outre, des emplacements peuvent être aménagés afin d'être loués dans l'i
 
 Le programme des contournements d’agglomérations et tronçons de route reliant un échangeur à la voirie normale de l’État est le suivant :
 
-1. le contournement de Bous sur la N2 entre les P.K. 18,500 et 19,570 ;
+- le contournement de Bous sur la N2 entre les P.K. 18,500 et 19,570 ;
 
-2. le contournement de Sandweiler sur la N2 entre son intersection avec le CR234 à l’ouest de Sandweiler et son intersection avec la N28 à l’est de Sandweiler et sur la N28 entre les P.K. 0,000 et 0,800 ;
+- le contournement de Sandweiler sur la N2 entre son intersection avec le CR234 à l’ouest de Sandweiler et son intersection avec la N28 à l’est de Sandweiler et sur la N28 entre les P.K. 0,000 et 0,800 ;
 
-3. le contournement de Junglinster sur la N11 entre le P.K. 12,200 et le P.K. 15,100 ;
+- le contournement de Junglinster sur la N11 entre le P.K. 12,200 et le P.K. 15,100 ;
 
-4. le contournement de Dippach-Gare sur la N13 entre le P.K. 9,200 et le P.K. 11,200 ;
+- le contournement de Dippach-Gare sur la N13 entre le P.K. 9,200 et le P.K. 11,200 ;
 
-5. la transversale de Clervaux sur la N18 entre la N7 au P.K. 60,260 et la N18 au P.K. 7,320 ;
+- la transversale de Clervaux sur la N18 entre la N7 au P.K. 60,260 et la N18 au P.K. 7,320 ;
 
-6. le contournement de Pétange et de Rodange sur la N31 entre son intersection avec la N5 au lieu-dit « Biff » et le P.K. 33,180 ;
+- le contournement de Pétange et de Rodange sur la N31 entre son intersection avec la N5 au lieu-dit « Biff » et le P.K. 33,180 ;
 
-7. la N32 entre le CR178 au P.K. 6,400 au lieu-dit « Uerschterhaff » et le CR174 au P.K. 4,205 à Differdange ;
+- la N32 entre le CR178 au P.K. 6,400 au lieu-dit « Uerschterhaff » et le CR174 au P.K. 4,205 à Differdange ;
 
-8. la N34 entre ses intersections avec la N6 au lieu-dit « Tossebierg » et la N5 au lieu-dit « Helfenterbruck » ;
+- la N34 entre ses intersections avec la N6 au lieu-dit « Tossebierg » et la N5 au lieu-dit « Helfenterbruck » ;
 
-9. la N34A entre ses intersections avec la N34 au lieu-dit « Bourmicht » et le CR230 au P.K. 2,880 ;
+- la N34A entre ses intersections avec la N34 au lieu-dit « Bourmicht » et le CR230 au P.K. 2,880 ;
 
-10. le contournement de Bertrange sur la N35 entre ses intersections avec la N5 au lieu-dit « Greivelserbarrière » et la N34 ;
+- le contournement de Bertrange sur la N35 entre ses intersections avec la N5 au lieu-dit « Greivelserbarrière » et la N34 ;
 
-11. le contournement sud de Bridel sur le CR181 entre le P.K. 6,400 et l’intersection avec le CR215 au lieu-dit « Biergerkräiz » ;
+- le contournement sud de Bridel sur le CR181 entre le P.K. 6,400 et l’intersection avec le CR215 au lieu-dit « Biergerkräiz » ;
 
-12. le contournement de Bascharage entre le P.K. 14.250 sur la N5 et sa jonction avec l’A13.
+- le contournement de Bascharage entre le P.K. 14.250 sur la N5 et sa jonction avec l’A13.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -285,13 +285,13 @@ Le Ministre des Travaux Publics ordonnance les montants versés au Fonds des rou
 
 Le Fonds des routes est alimenté:
 
-1. par des dotations budgétaires;
+- par des dotations budgétaires;
 
-2. par des recettes d'emprunts;
+- par des recettes d'emprunts;
 
-3. par le produit de la vente d'immeubles acquis dans le cadre du programme précité et rendus disponibles après l'établissement de la grande voirie;
+- par le produit de la vente d'immeubles acquis dans le cadre du programme précité et rendus disponibles après l'établissement de la grande voirie;
 
-4. par les remboursements effectués par la République fédérale d'Allemagne conformément à l'article 7 de la convention entre le Grand-Duché de Luxembourg et la République fédérale d'Allemagne concernant la jonction des autoroutes et la construction d'un pont frontalier sur la Moselle dans la région de Perl et de Schengen signée à Luxembourg, le 18 avril 1994, et approuvée par la loi du 18 août 1995 .
+- par les remboursements effectués par la République fédérale d'Allemagne conformément à l'article 7 de la convention entre le Grand-Duché de Luxembourg et la République fédérale d'Allemagne concernant la jonction des autoroutes et la construction d'un pont frontalier sur la Moselle dans la région de Perl et de Schengen signée à Luxembourg, le 18 avril 1994, et approuvée par la loi du 18 août 1995 .
 
 Les sommes dont question sub b), c) et d) de l'alinéa qui précède sont portées directement en recette au Fonds des routes.
 
@@ -336,9 +336,9 @@ L'état des emprunts contractés est publié annuellement sous un titre particul
 
 Aux fins visées par l'article 7, le Gouvernement joint chaque année au projet de loi concernant le budget des recettes et des dépenses de l'Etat:
 
-1. un relevé récapitulatif des programmes exécutés pendant les divers exercices clos, ainsi qu'un compte rendu des recettes et des dépenses y relatives imputées au Fonds des routes au cours des mêmes exercices;
+- un relevé récapitulatif des programmes exécutés pendant les divers exercices clos, ainsi qu'un compte rendu des recettes et des dépenses y relatives imputées au Fonds des routes au cours des mêmes exercices;
 
-2. un exposé des programmes exécutés pendant l'exercice courant et projetés pour l'exercice suivant, ainsi qu'un état estimatif des dépenses occasionnées par l'exécution de ces programmes annuels et des recettes nécessaires à leur financement.
+- un exposé des programmes exécutés pendant l'exercice courant et projetés pour l'exercice suivant, ainsi qu'un état estimatif des dépenses occasionnées par l'exécution de ces programmes annuels et des recettes nécessaires à leur financement.
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -453,11 +453,11 @@ Le jour même du dépôt, le ou les experts envoient à l´expropriant, par lett
 
 Après avoir signifié par exploit d´huissier à toutes parties défenderesses et intervenantes une copie certifiée conforme
 
-1. du jugement fixant le montant de l´indemnité provisionnelle,
+- du jugement fixant le montant de l´indemnité provisionnelle,
 
-2. du certificat de dépôt de l´indemnité provisionnelle à la caisse des consignations,
+- du certificat de dépôt de l´indemnité provisionnelle à la caisse des consignations,
 
-3. de l´état descriptif des lieux,
+- de l´état descriptif des lieux,
 
 l´expropriant peut se faire envoyer en possession du bien exproprié par ordonnance du président du tribunal.
 
@@ -499,9 +499,9 @@ Si le montant de l´indemnité excède celui de l´indemnité provisionnelle, l�
 
 Dans les dix jours qui suivent le dépôt, il signifie par exploit d´huissier aux parties défenderesses et intervenantes une copie certifiée conforme:
 
-1. du jugement fixant le montant de l´indemnité;
+- du jugement fixant le montant de l´indemnité;
 
-2. du certificat de dépôt à la caisse des consignations du supplément d´indemnité.
+- du certificat de dépôt à la caisse des consignations du supplément d´indemnité.
 
 A défaut, l´exproprié peut, en vertu du même jugement, exiger que l´expropriant suspende l´occupation des immeubles.
 

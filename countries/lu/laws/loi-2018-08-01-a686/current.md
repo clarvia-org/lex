@@ -71,13 +71,13 @@ Son siège est fixé par règlement grand-ducal.
 
 La CNPD est chargée de contrôler et de vérifier si les données soumises à un traitement sont traitées en conformité avec les dispositions :
 
-1. du règlement (UE) 2016/679 ;
+- du règlement (UE) 2016/679 ;
 
-2. de la présente loi ;
+- de la présente loi ;
 
-3. de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
+- de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
 
-4. des textes légaux prévoyant des dispositions spécifiques en matière de protection des données à caractère personnel.
+- des textes légaux prévoyant des dispositions spécifiques en matière de protection des données à caractère personnel.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -105,29 +105,29 @@ La CNPD exerce les missions dont elle est investie en vertu de l’article 57 du
 
 Dans le cadre de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, la CNPD :
 
-1. contrôle l'application des dispositions et des mesures d'exécution et veille au respect de celles-ci ;
+- contrôle l'application des dispositions et des mesures d'exécution et veille au respect de celles-ci ;
 
-2. favorise la sensibilisation du public et sa compréhension des risques, des règles, des garanties et des droits relatifs au traitement des données personnelles ;
+- favorise la sensibilisation du public et sa compréhension des risques, des règles, des garanties et des droits relatifs au traitement des données personnelles ;
 
-3. conseille la Chambre des députés, le Gouvernement et d'autres institutions et organismes au sujet des mesures législatives et administratives relatives à la protection des droits et libertés des personnes physiques à l'égard du traitement des données personnelles ;
+- conseille la Chambre des députés, le Gouvernement et d'autres institutions et organismes au sujet des mesures législatives et administratives relatives à la protection des droits et libertés des personnes physiques à l'égard du traitement des données personnelles ;
 
-4. encourage la sensibilisation des responsables du traitement et des sous-traitants aux obligations qui leur incombent ;
+- encourage la sensibilisation des responsables du traitement et des sous-traitants aux obligations qui leur incombent ;
 
-5. fournit, sur demande, à toute personne concernée, des informations sur l'exercice de ses droits et, le cas échéant, coopère à cette fin avec les autorités de contrôle d'autres États membres ;
+- fournit, sur demande, à toute personne concernée, des informations sur l'exercice de ses droits et, le cas échéant, coopère à cette fin avec les autorités de contrôle d'autres États membres ;
 
-6. traite les réclamations introduites par une personne concernée ou par un organisme, une organisation ou une association conformément à l'article 44 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, enquête sur l'objet de la réclamation, dans la mesure nécessaire, et informe l'auteur de la réclamation de l'état d'avancement et de l'issue de l'enquête dans un délai raisonnable, notamment si un complément d'enquête ou une coordination avec une autre autorité de contrôle est nécessaire ;
+- traite les réclamations introduites par une personne concernée ou par un organisme, une organisation ou une association conformément à l'article 44 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, enquête sur l'objet de la réclamation, dans la mesure nécessaire, et informe l'auteur de la réclamation de l'état d'avancement et de l'issue de l'enquête dans un délai raisonnable, notamment si un complément d'enquête ou une coordination avec une autre autorité de contrôle est nécessaire ;
 
-7. vérifie la licéité du traitement, et informe la personne concernée dans un délai raisonnable de l'issue de la vérification, conformément à l’article 16, paragraphe 3, de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, ou des motifs ayant empêché sa réalisation ;
+- vérifie la licéité du traitement, et informe la personne concernée dans un délai raisonnable de l'issue de la vérification, conformément à l’article 16, paragraphe 3, de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, ou des motifs ayant empêché sa réalisation ;
 
-8. met en place des mécanismes efficaces pour encourager le signalement confidentiel des violations des traitements de données à caractère personnel ;
+- met en place des mécanismes efficaces pour encourager le signalement confidentiel des violations des traitements de données à caractère personnel ;
 
-9. coopère avec d'autres autorités de contrôle, y compris en partageant des informations, et leur fournit une assistance mutuelle dans ce cadre en vue d'assurer une application cohérente de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale et des mesures prises pour en assurer le respect ;
+- coopère avec d'autres autorités de contrôle, y compris en partageant des informations, et leur fournit une assistance mutuelle dans ce cadre en vue d'assurer une application cohérente de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale et des mesures prises pour en assurer le respect ;
 
-10. effectue des enquêtes sur l'application de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, y compris sur la base d'informations reçues d'une autre autorité de contrôle ou d'une autre autorité publique ;
+- effectue des enquêtes sur l'application de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, y compris sur la base d'informations reçues d'une autre autorité de contrôle ou d'une autre autorité publique ;
 
-11. suit les évolutions pertinentes, dans la mesure où elles ont une incidence sur la protection des données à caractère personnel, notamment dans le domaine des technologies de l'information et de la communication ;
+- suit les évolutions pertinentes, dans la mesure où elles ont une incidence sur la protection des données à caractère personnel, notamment dans le domaine des technologies de l'information et de la communication ;
 
-12. fournit des conseils sur les opérations de traitement visées à l'article 27 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+- fournit des conseils sur les opérations de traitement visées à l'article 27 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -165,17 +165,17 @@ La CNPD a le pouvoir de porter toute violation du règlement (UE) 2016/679, de l
 
 Dans le cadre des missions de l’article 8, la CNPD dispose des pouvoirs suivants :
 
-1. obtenir du responsable du traitement ou du sous-traitant l'accès à toutes les données à caractère personnel qui sont traitées et à toutes les informations nécessaires à l'exercice de ses missions ;
+- obtenir du responsable du traitement ou du sous-traitant l'accès à toutes les données à caractère personnel qui sont traitées et à toutes les informations nécessaires à l'exercice de ses missions ;
 
-2. avertir un responsable du traitement ou un sous-traitant du fait que les opérations de traitement envisagées sont susceptibles de violer les dispositions adoptées en vertu de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
+- avertir un responsable du traitement ou un sous-traitant du fait que les opérations de traitement envisagées sont susceptibles de violer les dispositions adoptées en vertu de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
 
-3. ordonner au responsable du traitement ou au sous-traitant de mettre les opérations de traitement en conformité avec les dispositions adoptées en vertu de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, le cas échéant, de manière spécifique et dans un délai déterminé, en particulier en ordonnant la rectification ou l'effacement de données à caractère personnel ou la limitation du traitement en application de l'article 15 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
+- ordonner au responsable du traitement ou au sous-traitant de mettre les opérations de traitement en conformité avec les dispositions adoptées en vertu de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, le cas échéant, de manière spécifique et dans un délai déterminé, en particulier en ordonnant la rectification ou l'effacement de données à caractère personnel ou la limitation du traitement en application de l'article 15 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
 
-4. limiter temporairement ou définitivement, y compris d’interdire, un traitement ;
+- limiter temporairement ou définitivement, y compris d’interdire, un traitement ;
 
-5. conseiller le responsable du traitement conformément à la procédure de consultation préalable visée à l'article 27 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
+- conseiller le responsable du traitement conformément à la procédure de consultation préalable visée à l'article 27 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
 
-6. émettre, de sa propre initiative ou sur demande, des avis à l'attention de la Chambre des députés et de son Gouvernement ou d'autres institutions et organismes ainsi que du public, sur toute question relative à la protection des données à caractère personnel.
+- émettre, de sa propre initiative ou sur demande, des avis à l'attention de la Chambre des députés et de son Gouvernement ou d'autres institutions et organismes ainsi que du public, sur toute question relative à la protection des données à caractère personnel.
 
 ##### Section V Certification
 
@@ -308,11 +308,11 @@ Le collège peut déléguer des compétences de nature technique ou administrati
 
 Sous réserve des dispositions de la présente loi et sans préjudice des textes cités à l’article 4, le règlement d’ordre intérieur fixe :
 
-1. les conditions de fonctionnement de la CNPD ;
+- les conditions de fonctionnement de la CNPD ;
 
-2. l’organisation des services de la CNPD ;
+- l’organisation des services de la CNPD ;
 
-3. les modalités de la convocation des membres du collège et la tenue des réunions collégiales.
+- les modalités de la convocation des membres du collège et la tenue des réunions collégiales.
 
 <a id="art-34"></a>
 ## Art. 34.
@@ -416,9 +416,9 @@ Dans le cadre d’une violation de l’article 10 du règlement (UE) 2016/679 pa
 
 La CNPD peut, par voie de décision, infliger au responsable de traitement ou sous-traitant, à l’exception de l’État et des communes, des astreintes jusqu’à concurrence de 5 pour cent du chiffre d’affaires journalier moyen réalisé au cours de l’exercice social précédent, ou au cours du dernier exercice social clos, par jour de retard à compter de la date qu’il fixe dans sa décision, pour le contraindre :
 
-1. à communiquer toute information que la CNPD a demandée en application de l’article 58, paragraphe 1 er , lettre a) du règlement (UE) 2016/679 ;
+- à communiquer toute information que la CNPD a demandée en application de l’article 58, paragraphe 1 er , lettre a) du règlement (UE) 2016/679 ;
 
-2. à respecter une mesure correctrice que la CNPD a adoptée en vertu de l’article 58, paragraphe 2, lettres c), d), e), f), g), h) et j) du règlement (UE) 2016/679 .
+- à respecter une mesure correctrice que la CNPD a adoptée en vertu de l’article 58, paragraphe 2, lettres c), d), e), f), g), h) et j) du règlement (UE) 2016/679 .
 
 Pour les besoins de l’application du présent paragraphe, les agents de l’Administration de l’enregistrement et des domaines sont tenus de communiquer à la CNPD tous renseignements qu’ils détiennent et qui sont nécessaires à la fixation des astreintes.
 
@@ -441,9 +441,9 @@ Quiconque empêche ou entrave sciemment, de quelque manière que ce soit, l’ac
 
 La CNPD peut ordonner, aux frais de la personne sanctionnée, la publication intégrale ou par extraits de ses décisions à l’exception des décisions relatives au prononcé d’astreintes, et sous réserve que :
 
-1. les voies de recours contre la décision sont épuisées ; et
+- les voies de recours contre la décision sont épuisées ; et
 
-2. la publication ne risque pas de causer un préjudice disproportionné aux parties en cause.
+- la publication ne risque pas de causer un préjudice disproportionné aux parties en cause.
 
 ##### Section XII Prescriptions
 
@@ -485,9 +485,9 @@ La prescription court à compter du jour où la décision est devenue définitiv
 
 La prescription de l’exécution de la décision est interrompue :
 
-1. par la notification d’une décision modifiant le montant initial de l’amende ou de l’astreinte ou rejetant une demande tendant à obtenir une telle modification ;
+- par la notification d’une décision modifiant le montant initial de l’amende ou de l’astreinte ou rejetant une demande tendant à obtenir une telle modification ;
 
-2. par tout acte de l’Administration de l’enregistrement et des domaines visant au recouvrement forcé de l’amende ou de l’astreinte.
+- par tout acte de l’Administration de l’enregistrement et des domaines visant au recouvrement forcé de l’amende ou de l’astreinte.
 
 (4)
 
@@ -497,9 +497,9 @@ La prescription court à nouveau à partir de chaque interruption.
 
 La prescription de l’exécution de la décision est suspendue :
 
-1. aussi longtemps qu’un délai de paiement est accordé ;
+- aussi longtemps qu’un délai de paiement est accordé ;
 
-2. aussi longtemps que l’exécution forcée du paiement est suspendue en vertu d’une décision juridictionnelle.
+- aussi longtemps que l’exécution forcée du paiement est suspendue en vertu d’une décision juridictionnelle.
 
 ##### Section XIII Recours contre les décisions de la CNPD
 
@@ -540,21 +540,21 @@ La désignation est notifiée au Commissariat.
 
 Le Commissariat a pour mission :
 
-1. de développer la protection des données à caractère personnel au sein de l’administration étatique ;
+- de développer la protection des données à caractère personnel au sein de l’administration étatique ;
 
-2. de promouvoir les bonnes pratiques à travers l’administration étatique et de stimuler la sensibilisation des agents ;
+- de promouvoir les bonnes pratiques à travers l’administration étatique et de stimuler la sensibilisation des agents ;
 
-3. de contribuer à une mise en œuvre cohérente des politiques dans ce domaine :
+- de contribuer à une mise en œuvre cohérente des politiques dans ce domaine :
 
-1. en proposant au Gouvernement un programme de gestion de la conformité des activités de traitement de données des entités de l’administration étatique avec la législation applicable, en guidant et accompagnant les chefs d’administration compétents dans la mise en place des mesures appropriées, de procédures et lignes de conduite pour les agents de l’État ;
+  - en proposant au Gouvernement un programme de gestion de la conformité des activités de traitement de données des entités de l’administration étatique avec la législation applicable, en guidant et accompagnant les chefs d’administration compétents dans la mise en place des mesures appropriées, de procédures et lignes de conduite pour les agents de l’État ;
 
-2. en assistant les délégués à la protection des données de l’administration étatique ;
+  - en assistant les délégués à la protection des données de l’administration étatique ;
 
-3. en conseillant, sur demande, les membres du Gouvernement ;
+  - en conseillant, sur demande, les membres du Gouvernement ;
 
-4. d’assurer, en cas d’application de l’article 57, alinéa 2, la fonction de délégué à la protection des données telle que définie à l’article 38 du règlement (UE) 2016/679 avec les missions décrites à l’article 39 du règlement (UE) 2016/679 ;
+- d’assurer, en cas d’application de l’article 57, alinéa 2, la fonction de délégué à la protection des données telle que définie à l’article 38 du règlement (UE) 2016/679 avec les missions décrites à l’article 39 du règlement (UE) 2016/679 ;
 
-5. de collaborer étroitement avec le ministre ayant la Protection des données dans ses attributions.
+- de collaborer étroitement avec le ministre ayant la Protection des données dans ses attributions.
 
 <a id="art-60"></a>
 ## Art. 60.
@@ -585,19 +585,19 @@ Les candidats aux fonctions de commissaire du Gouvernement à la protection des 
 
 Le traitement mis en œuvre aux seules fins de journalisme ou d’expression universitaire, artistique ou littéraire n’est pas soumis :
 
-1. lorsque le traitement se rapporte à des données rendues manifestement publiques par la personne concernée ou à des données qui sont en rapport direct avec la vie publique de la personne concernée ou avec le fait dans lequel elle est impliquée de façon volontaire ;
+- lorsque le traitement se rapporte à des données rendues manifestement publiques par la personne concernée ou à des données qui sont en rapport direct avec la vie publique de la personne concernée ou avec le fait dans lequel elle est impliquée de façon volontaire ;
 
-1. à la prohibition de traiter les catégories particulières de données telle que prévue à l’article 9, paragraphe 1 er , du règlement (UE) 2016/679 ;
+  - à la prohibition de traiter les catégories particulières de données telle que prévue à l’article 9, paragraphe 1 er , du règlement (UE) 2016/679 ;
 
-2. aux limitations concernant le traitement de données judiciaires prévues à l’article 10 du règlement (UE) 2016/679 ;
+  - aux limitations concernant le traitement de données judiciaires prévues à l’article 10 du règlement (UE) 2016/679 ;
 
-2. au chapitre V relatif aux transferts vers des pays tiers ou à des organisations internationales du règlement (UE) 2016/679 ;
+- au chapitre V relatif aux transferts vers des pays tiers ou à des organisations internationales du règlement (UE) 2016/679 ;
 
-3. à l’obligation d’information de l’article 13 du règlement (UE) 2016/679 , lorsque son application compromettrait la collecte des données auprès de la personne concernée ;
+- à l’obligation d’information de l’article 13 du règlement (UE) 2016/679 , lorsque son application compromettrait la collecte des données auprès de la personne concernée ;
 
-4. à l’obligation d’information de l’article 14 du règlement (UE) 2016/679 , lorsque son application compromettrait soit la collecte des données, soit une publication en projet, soit la mise à disposition du public, de quelque manière que ce soit de ces données ou fournirait des indications permettant d’identifier les sources d’information ;
+- à l’obligation d’information de l’article 14 du règlement (UE) 2016/679 , lorsque son application compromettrait soit la collecte des données, soit une publication en projet, soit la mise à disposition du public, de quelque manière que ce soit de ces données ou fournirait des indications permettant d’identifier les sources d’information ;
 
-5. au droit d’accès de la personne concernée qui est différé et limité en ce qu’il ne peut pas porter sur des informations relatives à l’origine des données et qui permettraient d’identifier une source. Sous cette réserve l’accès doit être exercé par l’intermédiaire de la CNPD en présence du président du Conseil de presse ou de son représentant, ou le président du Conseil de presse dûment appelé.
+- au droit d’accès de la personne concernée qui est différé et limité en ce qu’il ne peut pas porter sur des informations relatives à l’origine des données et qui permettraient d’identifier une source. Sous cette réserve l’accès doit être exercé par l’intermédiaire de la CNPD en présence du président du Conseil de presse ou de son représentant, ou le président du Conseil de presse dûment appelé.
 
 #### Chapitre 2 Traitement à des fins de recherche scientifique ou historique ou à des fins statistiques
 
@@ -616,29 +616,29 @@ Le traitement de catégories particulières de données à caractère personnel 
 
 Compte tenu de la nature, de la portée, du contexte et des finalités du traitement ainsi que des risques, dont le degré de probabilité et de gravité varie, pour les droits et libertés des personnes physiques, le responsable d’un traitement mis en œuvre à des fins de recherche scientifique ou historique, ou à des fins statistiques, doit mettre en œuvre les mesures appropriées additionnelles suivantes :
 
-1. la désignation d’un délégué à la protection des données ;
+- la désignation d’un délégué à la protection des données ;
 
-2. la réalisation d’une analyse de l’impact des opérations de traitement envisagées sur la protection des données à caractère personnel ;
+- la réalisation d’une analyse de l’impact des opérations de traitement envisagées sur la protection des données à caractère personnel ;
 
-3. l’anonymisation, la pseudonymisation au sens de l’article 4, paragraphe 5, du règlement (UE) 2016/679 ou d’autres mesures de séparation fonctionnelle garantissant que les données collectées à des fins de recherche scientifique ou historique, ou à des fins statistiques, ne puissent être utilisées pour prendre des décisions ou des actions à l’égard des personnes concernées ;
+- l’anonymisation, la pseudonymisation au sens de l’article 4, paragraphe 5, du règlement (UE) 2016/679 ou d’autres mesures de séparation fonctionnelle garantissant que les données collectées à des fins de recherche scientifique ou historique, ou à des fins statistiques, ne puissent être utilisées pour prendre des décisions ou des actions à l’égard des personnes concernées ;
 
-4. le recours à un tiers de confiance fonctionnellement indépendant du responsable du traitement pour l’anonymisation ou la pseudonymisation des données ;
+- le recours à un tiers de confiance fonctionnellement indépendant du responsable du traitement pour l’anonymisation ou la pseudonymisation des données ;
 
-5. le chiffrement des données à caractère personnel en transit et au repos, ainsi qu’une gestion des clés conformes à l’état de l’art ;
+- le chiffrement des données à caractère personnel en transit et au repos, ainsi qu’une gestion des clés conformes à l’état de l’art ;
 
-6. l’utilisation de technologies renforçant la protection de la vie privée des personnes concernées ;
+- l’utilisation de technologies renforçant la protection de la vie privée des personnes concernées ;
 
-7. la mise en place de restrictions de l’accès aux données à caractère personnel au sein du responsable du traitement ;
+- la mise en place de restrictions de l’accès aux données à caractère personnel au sein du responsable du traitement ;
 
-8. des fichiers de journalisation qui permettent d’établir le motif, la date et l’heure de la consultation et l’identification de la personne qui a collecté, modifié ou supprimé les données à caractère personnel ;
+- des fichiers de journalisation qui permettent d’établir le motif, la date et l’heure de la consultation et l’identification de la personne qui a collecté, modifié ou supprimé les données à caractère personnel ;
 
-9. la sensibilisation du personnel participant au traitement des données à caractère personnel et au secret professionnel ;
+- la sensibilisation du personnel participant au traitement des données à caractère personnel et au secret professionnel ;
 
-10. l’évaluation régulière de l’efficacité des mesures techniques et organisationnelles mises en place à travers un audit indépendant ;
+- l’évaluation régulière de l’efficacité des mesures techniques et organisationnelles mises en place à travers un audit indépendant ;
 
-11. l’établissement au préalable d’un plan de gestion des données ;
+- l’établissement au préalable d’un plan de gestion des données ;
 
-12. l’adoption de codes de conduite sectoriels tels que prévus à l’article 40 du règlement (UE) 2016/679 approuvés par la Commission européenne en vertu de l’article 40, paragraphe 9, du règlement (UE) 2016/679 .
+- l’adoption de codes de conduite sectoriels tels que prévus à l’article 40 du règlement (UE) 2016/679 approuvés par la Commission européenne en vertu de l’article 40, paragraphe 9, du règlement (UE) 2016/679 .
 
 Le responsable de traitement doit documenter et justifier pour chaque projet à des fins de recherche scientifique ou historique ou à des fins statistiques l’exclusion, le cas échéant, d’une ou plusieurs des mesures énumérées à cet article.
 
@@ -684,41 +684,76 @@ Toute référence à la loi modifiée du 2 août 2002 relative à la protection 
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État est complétée comme suit :
 
-1. L’article 12 est modifié comme suit :
+- L’article 12 est modifié comme suit :
 
-1. Au paragraphe 1 er , point 8° la mention de membre effectif de la Commission nationale pour la protection des données est supprimée et les termes de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, sont ajoutés après les termes de commissaire du Gouvernement adjoint du commissariat chargé de l’instruction disciplinaire, ;
+  - Au paragraphe 1 er , point 8° la mention de membre effectif de la Commission nationale pour la protection des données est supprimée et les termes de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, sont ajoutés après les termes de commissaire du Gouvernement adjoint du commissariat chargé de l’instruction disciplinaire, ;
 
-2. Au paragraphe 1 er , point 9° la mention de et de commissaire du Gouvernement à la protection des données auprès de l’État est ajoutée après celle de commissaire du Gouvernement chargé de l’instruction disciplinaire ;
+  - Au paragraphe 1 er , point 9° la mention de et de commissaire du Gouvernement à la protection des données auprès de l’État est ajoutée après celle de commissaire du Gouvernement chargé de l’instruction disciplinaire ;
 
-3. Au paragraphe 1 er , point 16° la mention président de la Commission nationale pour la protection des données est remplacée par commissaire à la protection des données ;
+  - Au paragraphe 1 er , point 16° la mention président de la Commission nationale pour la protection des données est remplacée par commissaire à la protection des données ;
 
-4. Au paragraphe 1 er , point 23° la mention , de président de la Commission nationale pour la protection des données est ajoutée après de président de l’association d’assurance contre les accidents .
+  - Au paragraphe 1 er , point 23° la mention , de président de la Commission nationale pour la protection des données est ajoutée après de président de l’association d’assurance contre les accidents .
 
-2. L’article 16, paragraphe 3, lettre g), est supprimé.
+- L’article 16, paragraphe 3, lettre g), est supprimé.
 
-3. L’annexe A - Classification des fonctions - est modifiée comme suit :
+- L’annexe A - Classification des fonctions - est modifiée comme suit :
 
-1. au grade 16, la fonction de membre effectif de la Commission nationale pour la protection des données est supprimée et la fonction de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, est ajoutée après celle de commissaire du Gouvernement adjoint du commissariat du Gouvernement chargé de l’instruction disciplinaire, ;
+  - au grade 16, la fonction de membre effectif de la Commission nationale pour la protection des données est supprimée et la fonction de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, est ajoutée après celle de commissaire du Gouvernement adjoint du commissariat du Gouvernement chargé de l’instruction disciplinaire, ;
 
-2. au grade 17, la fonction de président de la Commission nationale pour la protection des données est remplacée par commissaires à la protection des données et la fonction de commissaire du Gouvernement à la protection des données auprès de l’État, est ajoutée après celle de commissaire du Gouvernement chargé de l’instruction disciplinaire, ;
+  - au grade 17, la fonction de président de la Commission nationale pour la protection des données est remplacée par commissaires à la protection des données et la fonction de commissaire du Gouvernement à la protection des données auprès de l’État, est ajoutée après celle de commissaire du Gouvernement chargé de l’instruction disciplinaire, ;
 
-3. au grade 18, la fonction de président de la Commission nationale pour la protection des données est ajoutée.
+  - au grade 18, la fonction de président de la Commission nationale pour la protection des données est ajoutée.
 
-4. L’Annexe B - B2) Allongements - est modifiée comme suit :
+- L’Annexe B - B2) Allongements - est modifiée comme suit :
 
-1. au paragraphe 1 er , les termes de membre effectif de la Commission nationale pour la protection des données sont supprimés ;
+  - au paragraphe 1 er , les termes de membre effectif de la Commission nationale pour la protection des données sont supprimés ;
 
-2. au paragraphe 1 er , les termes de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, sont ajoutés après de commissaire du Gouvernement adjoint du commissariat du Gouvernement chargé de l’instruction disciplinaire, et les termes , de membre effectif de la Commission nationale pour la protection des données sont supprimés.
+  - au paragraphe 1 er , les termes de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, sont ajoutés après de commissaire du Gouvernement adjoint du commissariat du Gouvernement chargé de l’instruction disciplinaire, et les termes , de membre effectif de la Commission nationale pour la protection des données sont supprimés.
 
 <a id="art-70"></a>
 ## Art. 70.
 
-L’intitulé du titre VI du livre II du Code du travail prend la teneur suivante : Titre VI Traitement de données à caractère personnel à des fins de surveillance dans le cadre des relations de travail.
+L’intitulé du titre VI du livre II du Code du travail prend la teneur suivante :
+
+### Titre VI Traitement de données à caractère personnel à des fins de surveillance dans le cadre des relations de travail.
 
 <a id="art-71"></a>
 ## Art. 71.
 
-L’article L.261-1 du Code du travail prend la teneur suivante : L. 261-1. (1) Le traitement de données à caractère personnel à des fins de surveillance des salariés dans le cadre des relations de travail ne peut être mis en œuvre par l’employeur que dans les cas visés à l’article 6, paragraphe 1er, lettres a) à f), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données), et conformément aux dispositions du présent article. (2) Sans préjudice du droit à l’information de la personne concernée, sont informés préalablement par l’employeur : pour les personnes tombant sous l’empire de la législation sur le contrat de droit privé : le comité mixte ou, à défaut, la délégation du personnel ou, à défaut encore, l’inspection du travail et des mines ; pour les personnes tombant sous l’empire d’un régime statutaire : les organismes de représentation du personnel tels que prévus par les lois et règlements afférents. Cette information préalable contient une description détaillée de la finalité du traitement envisagé, ainsi que des modalités de mise en œuvre du système de surveillance et, le cas échéant, la durée ou les critères de conservation des données, de même qu’un engagement formel de l’employeur de la non-utilisation des données collectées à une finalité autre que celle prévue explicitement dans l’information préalable. (3) Lorsque le traitement des données à caractère personnel prévu au paragraphe 1er est mis en œuvre : pour les besoins de sécurité et de santé des salariés, pour le contrôle de production ou des prestations du salarié, lorsqu’une telle mesure est le seul moyen pour déterminer le salaire exact, ou dans le cadre d’une organisation de travail selon l’horaire mobile conformément aux dispositions du présent code, les dispositions prévues aux articles L.211-8, L.414-9 et L.423-1 s’appliquent, sauf lorsque le traitement répond à une obligation légale ou réglementaire. (4) Pour les projets des traitements visés au paragraphe 1er, la délégation du personnel, ou à défaut, les salariés concernés, peuvent, dans les quinze jours suivant l’information préalable, soumettre une demande d’avis préalable relative à la conformité du projet de traitement à des fins de surveillance du salarié dans le cadre des relations de travail à la Commission nationale pour la protection des données, qui doit rendre son avis dans le mois de la saisine. Cette demande a un effet suspensif pendant ce délai. (5) Les salariés concernés ont le droit d’introduire une réclamation auprès de la Commission nationale pour la protection des données. Une telle réclamation ne constitue ni un motif grave, ni un motif légitime de licenciement.
+L’article L.261-1 du Code du travail prend la teneur suivante :
+
+<a id="l-261-1"></a>
+## L. 261-1.
+
+(1)
+
+Le traitement de données à caractère personnel à des fins de surveillance des salariés dans le cadre des relations de travail ne peut être mis en œuvre par l’employeur que dans les cas visés à l’article 6, paragraphe 1er, lettres a) à f), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données), et conformément aux dispositions du présent article.
+
+(2)
+
+Sans préjudice du droit à l’information de la personne concernée, sont informés préalablement par l’employeur : pour les personnes tombant sous l’empire de la législation sur le contrat de droit privé : le comité mixte ou, à défaut, la délégation du personnel ou, à défaut encore, l’inspection du travail et des mines ; pour les personnes tombant sous l’empire d’un régime statutaire : les organismes de représentation du personnel tels que prévus par les lois et règlements afférents.
+
+Cette information préalable contient une description détaillée de la finalité du traitement envisagé, ainsi que des modalités de mise en œuvre du système de surveillance et, le cas échéant, la durée ou les critères de conservation des données, de même qu’un engagement formel de l’employeur de la non-utilisation des données collectées à une finalité autre que celle prévue explicitement dans l’information préalable.
+
+(3)
+
+Lorsque le traitement des données à caractère personnel prévu au paragraphe 1er est mis en œuvre :
+
+- pour les besoins de sécurité et de santé des salariés,
+
+- pour le contrôle de production ou des prestations du salarié, lorsqu’une telle mesure est le seul moyen pour déterminer le salaire exact, ou
+
+- dans le cadre d’une organisation de travail selon l’horaire mobile conformément aux dispositions du présent code,
+
+les dispositions prévues aux articles L.211-8, L.414-9 et L.423-1 s’appliquent, sauf lorsque le traitement répond à une obligation légale ou réglementaire.
+
+(4)
+
+Pour les projets des traitements visés au paragraphe 1er, la délégation du personnel, ou à défaut, les salariés concernés, peuvent, dans les quinze jours suivant l’information préalable, soumettre une demande d’avis préalable relative à la conformité du projet de traitement à des fins de surveillance du salarié dans le cadre des relations de travail à la Commission nationale pour la protection des données, qui doit rendre son avis dans le mois de la saisine. Cette demande a un effet suspensif pendant ce délai.
+
+(5)
+
+Les salariés concernés ont le droit d’introduire une réclamation auprès de la Commission nationale pour la protection des données. Une telle réclamation ne constitue ni un motif grave, ni un motif légitime de licenciement.
 
 #### Chapitre 2 Disposition abrogatoire
 

@@ -37,13 +37,13 @@ L’État met en place un régime d’aides sous forme de garantie sur les prêt
 
 Sont exclus du champ d’application de la présente loi les entreprises suivantes :
 
-1. les entreprises qui font l’objet d’une procédure collective d’insolvabilité en vertu du droit national qui leur est applicable ;
+- les entreprises qui font l’objet d’une procédure collective d’insolvabilité en vertu du droit national qui leur est applicable ;
 
-2. les entreprises dont l’activité principale consiste dans la promotion, la détention, la location et le négoce d’immeubles ;
+- les entreprises dont l’activité principale consiste dans la promotion, la détention, la location et le négoce d’immeubles ;
 
-3. les entreprises dont l’activité principale est la détention de participations dans d’autres sociétés ;
+- les entreprises dont l’activité principale est la détention de participations dans d’autres sociétés ;
 
-4. les employeurs qui ont été condamnés à au moins deux reprises pour contraventions aux dispositions interdisant le travail clandestin ou aux dispositions interdisant l’emploi des ressortissants de pays tiers en séjour irrégulier, au cours des quatre dernières années précédant le jugement de la juridiction compétente, sont exclus du bénéfice de la présente loi pendant une durée de trois années à compter de la date de ce jugement.
+- les employeurs qui ont été condamnés à au moins deux reprises pour contraventions aux dispositions interdisant le travail clandestin ou aux dispositions interdisant l’emploi des ressortissants de pays tiers en séjour irrégulier, au cours des quatre dernières années précédant le jugement de la juridiction compétente, sont exclus du bénéfice de la présente loi pendant une durée de trois années à compter de la date de ce jugement.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -52,21 +52,21 @@ Définitions
 
 Aux fins de la présente loi, on entend par :
 
-1. « entreprise » :
+- « entreprise » :
 
-1. les entreprises commerciales, artisanales ou industrielles disposant d’une autorisation d’établissement délivrée en application de la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales ;
+  - les entreprises commerciales, artisanales ou industrielles disposant d’une autorisation d’établissement délivrée en application de la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales ;
 
-2. les personnes physiques ou morales établies au Grand-Duché de Luxembourg qui exercent à titre principal et d’une façon indépendante une des activités visées à l’article 91, alinéa 1 er , numéro 1, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
+  - les personnes physiques ou morales établies au Grand-Duché de Luxembourg qui exercent à titre principal et d’une façon indépendante une des activités visées à l’article 91, alinéa 1 er , numéro 1, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
 
-2. « établissement de crédit » : tout établissement de crédit de droit luxembourgeois au sens de l’article 1 er , point 12), de la loi modifiée du 5 avril 1993 relative au secteur financier ;
+- « établissement de crédit » : tout établissement de crédit de droit luxembourgeois au sens de l’article 1 er , point 12), de la loi modifiée du 5 avril 1993 relative au secteur financier ;
 
-3. « grande entreprise » : toute entreprise ne remplissant pas les critères énoncés à l’annexe I du règlement (UE) n° 651/2014 du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
+- « grande entreprise » : toute entreprise ne remplissant pas les critères énoncés à l’annexe I du règlement (UE) n° 651/2014 du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
-4. « moyenne entreprise » : toute entreprise qui occupe moins de 250 personnes et dont le chiffre d’affaires annuel n’excède pas 50 000 000 euros ou dont le total du bilan annuel n’excède pas 43 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- « moyenne entreprise » : toute entreprise qui occupe moins de 250 personnes et dont le chiffre d’affaires annuel n’excède pas 50 000 000 euros ou dont le total du bilan annuel n’excède pas 43 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-5. « petite entreprise » : toute entreprise qui occupe moins de 50 personnes et dont le chiffre d’affaires annuel ou le total du bilan annuel n’excède pas 10 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- « petite entreprise » : toute entreprise qui occupe moins de 50 personnes et dont le chiffre d’affaires annuel ou le total du bilan annuel n’excède pas 10 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-6. « prêt » : toute ligne de crédit, crédit d’investissement ou facilité de caisse.
+- « prêt » : toute ligne de crédit, crédit d’investissement ou facilité de caisse.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -85,9 +85,9 @@ La garantie de l’État porte sur des prêts aux investissements et des prêts 
 
 Le montant maximal des prêts éligibles à la garantie de l’État s’élève à :
 
-1. 15 pour cent du chiffre d’affaires annuel total moyen réalisé par l’entreprise au cours des trois derniers exercices clôturés ; ou
+- 15 pour cent du chiffre d’affaires annuel total moyen réalisé par l’entreprise au cours des trois derniers exercices clôturés ; ou
 
-2. 50 pour cent des coûts de l’énergie de l’entreprise au cours des douze mois précédant le mois pendant lequel la notification est effectuée à la Trésorerie de l’État en application de l’article 4, paragraphe 1 er .
+- 50 pour cent des coûts de l’énergie de l’entreprise au cours des douze mois précédant le mois pendant lequel la notification est effectuée à la Trésorerie de l’État en application de l’article 4, paragraphe 1 er .
 
 Lorsque la requérante est, respectivement, en existence depuis moins de trois ans ou douze mois, les seuils figurant à l’alinéa 1er sont calculés sur la base de sa durée d’existence au moment de la notification à la Trésorerie de l’État en application de l’article 4, paragraphe 1er.
 
@@ -111,9 +111,9 @@ Le montant indemnisable, auquel s’applique la quotité garantie pour détermin
 
 Pour le calcul de ce montant indemnisable :
 
-1. dans le cadre d’une restructuration, dans un cadre judiciaire ou amiable, de la créance garantie donnant lieu à une perte actuarielle, il est tenu compte, le cas échéant, de la valeur des créances détenues par l’établissement de crédit postérieurement à la restructuration de la créance ;
+- dans le cadre d’une restructuration, dans un cadre judiciaire ou amiable, de la créance garantie donnant lieu à une perte actuarielle, il est tenu compte, le cas échéant, de la valeur des créances détenues par l’établissement de crédit postérieurement à la restructuration de la créance ;
 
-2. dans le cadre d’une procédure collective, le montant indemnisable est calculé à la clôture de ladite procédure en déduisant les sommes recouvrées par l’établissement de crédit.
+- dans le cadre d’une procédure collective, le montant indemnisable est calculé à la clôture de ladite procédure en déduisant les sommes recouvrées par l’établissement de crédit.
 
 (8)
 
@@ -125,19 +125,19 @@ La garantie est rémunérée selon un barème qui dépend de la taille de l’en
 
 Pour les petites et moyennes entreprises, la prime de garantie est fixée à :
 
-1. 25 points de base pour une maturité maximale d’un an ;
+- 25 points de base pour une maturité maximale d’un an ;
 
-2. 50 points de base pour une maturité maximale de trois ans ;
+- 50 points de base pour une maturité maximale de trois ans ;
 
-3. 100 points de base pour une maturité maximale de six ans.
+- 100 points de base pour une maturité maximale de six ans.
 
 Pour les grandes entreprises, la prime de garanties est fixée à :
 
-1. 50 points de base pour une maturité maximale d’un an ;
+- 50 points de base pour une maturité maximale d’un an ;
 
-2. 100 points de base pour une maturité maximale de trois ans ;
+- 100 points de base pour une maturité maximale de trois ans ;
 
-3. 200 points de base pour une maturité maximale de six ans.
+- 200 points de base pour une maturité maximale de six ans.
 
 Les commissions de garantie, supportées par l’emprunteur, sont perçues pour la quotité garantie par la Trésorerie de l’État auprès de l’établissement prêteur, une première fois à l’octroi de la garantie, et une seconde fois, le cas échéant, lors de l’exercice par l’emprunteur d’une éventuelle clause permettant d’amortir le prêt sur une période additionnelle calculée en nombre d’années, dans la limite d’une durée totale de six ans.
 
@@ -149,11 +149,11 @@ L’établissement de crédit doit démontrer, en cas de demande de mise en jeu 
 
 Aucune garantie au titre de la présente loi n’est octroyée à des entreprises faisant l’objet de mesures restrictives de l’Union européenne adoptées par les actes juridiques visés à l’article 1er, point 2°, de la loi du 19 décembre 2020 relative à la mise en œuvre de mesures restrictives en matière financière et l’article 19, paragraphe 1er, point 2, de la loi du 27 juin 2018 relative au contrôle des exportations, y inclus :
 
-1. les personnes, entités ou organismes spécifiquement désignés dans les actes juridiques instituant ces mesures restrictives ;
+- les personnes, entités ou organismes spécifiquement désignés dans les actes juridiques instituant ces mesures restrictives ;
 
-2. les entreprises détenues ou contrôlées par des personnes, entités ou organismes ciblées par les mesures restrictives adoptées par l’Union européenne ;
+- les entreprises détenues ou contrôlées par des personnes, entités ou organismes ciblées par les mesures restrictives adoptées par l’Union européenne ;
 
-3. les entreprises présentes dans des secteurs ciblés par les mesures restrictives adoptées par l’Union européenne, dans la mesure où l’aide porterait atteinte aux objectifs des mesures restrictives pertinentes.
+- les entreprises présentes dans des secteurs ciblés par les mesures restrictives adoptées par l’Union européenne, dans la mesure où l’aide porterait atteinte aux objectifs des mesures restrictives pertinentes.
 
 <a id="art-4"></a>
 ## Art. 4.

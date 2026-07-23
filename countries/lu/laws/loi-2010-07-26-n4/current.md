@@ -46,29 +46,29 @@ Aux fins de la présente loi, on entend par:
 
 1) «infrastructure luxembourgeoise de données géographiques (ILDG)», des métadonnées, des séries de données géographiques et des services de données géographiques; des services et des technologies en réseau; des accords sur le partage, l’accès et l’utilisation; et des mécanismes, des processus et des procédures de coordination et de suivi établis, exploités ou mis à disposition conformément à la présente loi;
 
-1. «donnée géographique», toute donnée faisant directement ou indirectement référence à un lieu ou une zone géographique spécifique;
+- «donnée géographique», toute donnée faisant directement ou indirectement référence à un lieu ou une zone géographique spécifique;
 
-2. «série de données géographiques», une compilation identifiable de données géographiques;
+- «série de données géographiques», une compilation identifiable de données géographiques;
 
-3. «services de données géographiques», les opérations qui peuvent être exécutées à l’aide d’une application informatique sur les données géographiques contenues dans des séries de données géographiques ou sur les métadonnées qui s’y rattachent;
+- «services de données géographiques», les opérations qui peuvent être exécutées à l’aide d’une application informatique sur les données géographiques contenues dans des séries de données géographiques ou sur les métadonnées qui s’y rattachent;
 
-4. «objet géographique», une représentation abstraite d’un phénomène réel lié à un lieu ou à une zone géographique spécifique;
+- «objet géographique», une représentation abstraite d’un phénomène réel lié à un lieu ou à une zone géographique spécifique;
 
-5. «métadonnée», l’information décrivant les séries et services de données géographiques et rendant possible leur recherche, leur inventaire et leur utilisation;
+- «métadonnée», l’information décrivant les séries et services de données géographiques et rendant possible leur recherche, leur inventaire et leur utilisation;
 
-6. «interopérabilité», la possibilité d’une combinaison de séries de données géographiques et d’une interaction des services, sans intervention manuelle répétitive de telle façon que le résultat soit cohérent et la valeur ajoutée des séries et des services de données renforcée;
+- «interopérabilité», la possibilité d’une combinaison de séries de données géographiques et d’une interaction des services, sans intervention manuelle répétitive de telle façon que le résultat soit cohérent et la valeur ajoutée des séries et des services de données renforcée;
 
-7. «autorité publique»:
+- «autorité publique»:
 
-1. le gouvernement ou toute autre administration publique, y compris les organes publics consultatifs, aux niveaux national ou communal;
+  - le gouvernement ou toute autre administration publique, y compris les organes publics consultatifs, aux niveaux national ou communal;
 
-2. toute personne physique ou morale exerçant des fonctions d’administration publique, en ce compris des tâches, des activités ou des services spécifiques en rapport avec l’environnement;
+  - toute personne physique ou morale exerçant des fonctions d’administration publique, en ce compris des tâches, des activités ou des services spécifiques en rapport avec l’environnement;
 
-3. toute personne physique ou morale ayant des responsabilités ou des fonctions publiques, ou fournissant des services publics en rapport avec l’environnement sous le contrôle d’un organisme ou d’une personne visés au point a) ou b);
+  - toute personne physique ou morale ayant des responsabilités ou des fonctions publiques, ou fournissant des services publics en rapport avec l’environnement sous le contrôle d’un organisme ou d’une personne visés au point a) ou b);
 
-8. «tiers», toute personne physique ou morale autre qu’une autorité publique;
+- «tiers», toute personne physique ou morale autre qu’une autorité publique;
 
-9. «directive», la directive 2007/2/CE du Parlement européen et du Conseil du 14 mars 2007 établissant une infrastructure d’information géographique dans la Communauté européenne (INSPIRE).
+- «directive», la directive 2007/2/CE du Parlement européen et du Conseil du 14 mars 2007 établissant une infrastructure d’information géographique dans la Communauté européenne (INSPIRE).
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -79,13 +79,13 @@ Champ d'application
 
 La loi s’applique
 
-1. aux séries de données géographiques concernant un des domaines énoncés aux annexes I, II et III, qui sont liées au territoire du Grand-Duché de Luxembourg, qui existent sous format électronique et qui sont détenues par l’une des entités ci-après ou en son nom:
+- aux séries de données géographiques concernant un des domaines énoncés aux annexes I, II et III, qui sont liées au territoire du Grand-Duché de Luxembourg, qui existent sous format électronique et qui sont détenues par l’une des entités ci-après ou en son nom:
 
-1. une autorité publique, après qu’elle les a produites elle-même ou qu’elle les a reçues d’une autre autorité publique, qui les a produites ou que les données sont gérées ou mises à jour par une autre autorité publique, les données en question rentrant dans le champ d’application de ses missions publiques;
+  - une autorité publique, après qu’elle les a produites elle-même ou qu’elle les a reçues d’une autre autorité publique, qui les a produites ou que les données sont gérées ou mises à jour par une autre autorité publique, les données en question rentrant dans le champ d’application de ses missions publiques;
 
-2. un tiers à la disposition duquel le réseau a été mis conformément à l’article 6;
+  - un tiers à la disposition duquel le réseau a été mis conformément à l’article 6;
 
-2. aux opérations qui peuvent être exécutées à l’aide d’une application informatique sur ces séries de données ou sur les métadonnées qui s’y rattachent.
+- aux opérations qui peuvent être exécutées à l’aide d’une application informatique sur ces séries de données ou sur les métadonnées qui s’y rattachent.
 
 Lorsque plusieurs copies identiques d’une même série de données géographiques sont détenues par plusieurs autorités publiques ou en leur nom, la présente loi s’applique uniquement à la version de référence dont sont tirées les différentes copies.
 
@@ -111,15 +111,15 @@ Les autorités publiques qui détiennent ou gèrent des données visées à l'ar
 
 Les métadonnées comprennent des informations relatives
 
-1. à l'interopérabilité des séries et services de données;
+- à l'interopérabilité des séries et services de données;
 
-2. aux conditions d'accès et à l'utilisation des séries et services de données et, le cas échéant, les frais correspondants;
+- aux conditions d'accès et à l'utilisation des séries et services de données et, le cas échéant, les frais correspondants;
 
-3. à la qualité et la validité des séries de données;
+- à la qualité et la validité des séries de données;
 
-4. les autorités publiques chargées de l'établissement, de la gestion, de la maintenance et de la diffusion des séries et des services de données géographiques.
+- les autorités publiques chargées de l'établissement, de la gestion, de la maintenance et de la diffusion des séries et des services de données géographiques.
 
-5. aux restrictions à l’accès public et les raisons de ces restrictions.
+- aux restrictions à l’accès public et les raisons de ces restrictions.
 
 La structure du catalogue des métadonnées sera fixée par règlement grand-ducal en conformité aux prescriptions européennes prises en exécution de la directive.
 
@@ -132,31 +132,31 @@ Réseau de services
 
 Les autorités publiques mettent à disposition du public les données visées à l'article 3 pour lesquelles des métadonnées ont été créées conformément à la présente loi, par le biais d'un réseau de services offrant les fonctionnalités suivantes:
 
-1. un service de recherche permettant d'identifier les séries et services de données géographiques sur la base du contenu des métadonnées correspondantes et d'afficher le contenu de ces métadonnées;
+- un service de recherche permettant d'identifier les séries et services de données géographiques sur la base du contenu des métadonnées correspondantes et d'afficher le contenu de ces métadonnées;
 
-2. un service de consultation permettant d'afficher des données, de naviguer, de changer d'échelle, d'opter pour une vue panoramique ou de superposer plusieurs séries de données consultables et d'afficher les légendes et les métadonnées;
+- un service de consultation permettant d'afficher des données, de naviguer, de changer d'échelle, d'opter pour une vue panoramique ou de superposer plusieurs séries de données consultables et d'afficher les légendes et les métadonnées;
 
-3. un service de téléchargement de données géographiques;
+- un service de téléchargement de données géographiques;
 
-4. un service de transformation géodésique de données;
+- un service de transformation géodésique de données;
 
-5. un service d'accès direct aux données géographiques moyennant des services web interopérables. Ces services sont accessibles par internet moyennant un portail, appelé Géoportail National du Grand-Duché de Luxembourg.
+- un service d'accès direct aux données géographiques moyennant des services web interopérables. Ces services sont accessibles par internet moyennant un portail, appelé Géoportail National du Grand-Duché de Luxembourg.
 
 La fonction de recherche permet d'effectuer une recherche à partir des critères suivants:
 
-1. les mots-clés;
+- les mots-clés;
 
-2. la classification thématique des services et des séries de données géographiques;
+- la classification thématique des services et des séries de données géographiques;
 
-3. la qualité et la validité des données géographiques;
+- la qualité et la validité des données géographiques;
 
-4. le degré de conformité par rapport aux règles de mise en oeuvre déterminées par les normes européennes;
+- le degré de conformité par rapport aux règles de mise en oeuvre déterminées par les normes européennes;
 
-5. la localisation géographique;
+- la localisation géographique;
 
-6. les conditions d'accès et d'utilisation des séries et services de données;
+- les conditions d'accès et d'utilisation des séries et services de données;
 
-7. les autorités publiques chargées de l'établissement, de la gestion, de la maintenance et de la diffusion des séries et des services de données géographiques.
+- les autorités publiques chargées de l'établissement, de la gestion, de la maintenance et de la diffusion des séries et des services de données géographiques.
 
 Les tiers détenant des séries et services de données géographiques remplissant les critères de l'article 3 et respectant les règles de mise en oeuvre concernant les obligations relatives aux métadonnées, aux services en réseau et à l'interopérabilité peuvent relier leurs séries et services de données au réseau visé à l'alinéa premier.
 
@@ -169,9 +169,9 @@ Dans le cadre de l'ILDG, les séries et services de données sont mis à disposi
 
 L'alinéa premier est applicable dans les délais suivants:
 
-1. pour les séries de données nouvellement collectées et restructurées et les services de données correspondants, dans un délai de deux ans à compter de l'adoption des normes européennes;
+- pour les séries de données nouvellement collectées et restructurées et les services de données correspondants, dans un délai de deux ans à compter de l'adoption des normes européennes;
 
-2. pour les autres séries et services de données, dans un délai de sept ans à compter de l'adoption des normes européennes.
+- pour les autres séries et services de données, dans un délai de sept ans à compter de l'adoption des normes européennes.
 
 L'accès aux services et données mentionnés à l'article 3 est ouvert par le biais du portail de la Commission européenne.
 
@@ -191,11 +191,11 @@ Coordination
 
 Il est institué auprès du ministre ayant l'Administration du cadastre et de la topographie dans ses attributions, ci-après «le ministre», un comité de coordination de l'ILDG (CC-ILDG), qui a pour mission:
 
-1. d'émettre des avis au ministre relatifs aux données géographiques qui font objet de la présente loi;
+- d'émettre des avis au ministre relatifs aux données géographiques qui font objet de la présente loi;
 
-2. de donner son avis sur toutes les questions que le ministre lui soumet en la matière;
+- de donner son avis sur toutes les questions que le ministre lui soumet en la matière;
 
-3. de coordonner les contributions à l'ILDG.
+- de coordonner les contributions à l'ILDG.
 
 L'organisation, le mode de fonctionnement, la composition et les attributions du CC-ILDG sont déterminés par règlement grand-ducal.
 
@@ -229,27 +229,27 @@ Les autorités publiques ou le CC-ILDG peuvent restreindre l'accès public aux s
 
 Les autorités publiques peuvent restreindre l'accès public aux séries et services de données géographiques par les services visés à l'article 6 de la présente loi, autres que les services de recherche, lorsqu'un tel accès porterait atteinte:
 
-1. à la confidentialité des travaux des autorités publiques, lorsque cette confidentialité est prévue par la loi;
+- à la confidentialité des travaux des autorités publiques, lorsque cette confidentialité est prévue par la loi;
 
-2. aux relations internationales, à la sécurité publique ou l'ordre public ou à la défense nationale;
+- aux relations internationales, à la sécurité publique ou l'ordre public ou à la défense nationale;
 
-3. à la bonne marche de la justice;
+- à la bonne marche de la justice;
 
-4. à la capacité d'une autorité publique de mener une enquête disciplinaire ou une instruction judiciaire;
+- à la capacité d'une autorité publique de mener une enquête disciplinaire ou une instruction judiciaire;
 
-5. à la possibilité pour toute personne d'avoir un procès équitable;
+- à la possibilité pour toute personne d'avoir un procès équitable;
 
-6. à la confidentialité des informations commerciales ou industrielles et artisanales, afin de protéger un intérêt économique légitime;
+- à la confidentialité des informations commerciales ou industrielles et artisanales, afin de protéger un intérêt économique légitime;
 
-7. à la confidentialité des statistiques et du secret fiscal;
+- à la confidentialité des statistiques et du secret fiscal;
 
-8. à la confidentialité des données à caractère personnel ou de fichiers concernant une personne physique, à moins que celle-ci n'ait donné son accord à la divulgation de ces données;
+- à la confidentialité des données à caractère personnel ou de fichiers concernant une personne physique, à moins que celle-ci n'ait donné son accord à la divulgation de ces données;
 
-9. aux intérêts ou à la protection de toute personne qui a fourni les informations demandées sur base volontaire sans y être obligée par la loi ou en vertu de la loi à moins que celle-ci n'ait librement consenti à la divulgation de ces données;
+- aux intérêts ou à la protection de toute personne qui a fourni les informations demandées sur base volontaire sans y être obligée par la loi ou en vertu de la loi à moins que celle-ci n'ait librement consenti à la divulgation de ces données;
 
-10. à la protection de l'environnement auquel ces informations ont trait;
+- à la protection de l'environnement auquel ces informations ont trait;
 
-11. aux droits de propriété intellectuelle.
+- aux droits de propriété intellectuelle.
 
 Les motifs de refus visés ci-dessus sont interprétés de manière restrictive, en tenant compte dans chaque cas de l'intérêt que présenterait pour le public l'accès à ces informations. Dans chaque cas, il convient d'apprécier l'intérêt que présenterait pour le public la divulgation par rapport à celui que présenterait un accès limité ou soumis à conditions.
 
@@ -270,12 +270,12 @@ Un règlement grand-ducal établira le montant et le mode de perception des droi
 
 Les autorités publiques ou le CC-ILDG peuvent limiter le partage visé à l'alinéa premier, lorsqu'un tel partage est susceptible de porter atteinte:
 
-1. aux relations internationales, à la sécurité publique ou l'ordre public ou à la défense nationale;
+- aux relations internationales, à la sécurité publique ou l'ordre public ou à la défense nationale;
 
-2. à la bonne marche de la justice;
+- à la bonne marche de la justice;
 
-3. à la capacité d'une autorité publique de mener une enquête disciplinaire ou une instruction judiciaire;
+- à la capacité d'une autorité publique de mener une enquête disciplinaire ou une instruction judiciaire;
 
-4. à la possibilité pour toute personne d'avoir un procès équitable.
+- à la possibilité pour toute personne d'avoir un procès équitable.
 
 Les données partagées ne peuvent être utilisées par les bénéficiaires que pour les objectifs et dans les conditions fixés par la directive et dans le respect des droits de propriété intellectuelle.

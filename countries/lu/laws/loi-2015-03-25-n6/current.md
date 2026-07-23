@@ -132,21 +132,21 @@ La demande est adressée directement au ministre ayant la Fonction publique dans
 
 Le fonctionnaire de l’Etat qui désire changer de groupe de traitement peut se présenter à tout emploi du groupe de traitement immédiatement supérieur à son groupe de traitement initial d’une administration de l’Etat déclaré vacant, s’il remplit les conditions suivantes:
 
-1. avoir au moins dix années de service depuis la date de sa nomination;
+- avoir au moins dix années de service depuis la date de sa nomination;
 
-2. avoir réussi à l’examen de promotion de son sous-groupe de traitement initial, si un tel examen y est prévu;
+- avoir réussi à l’examen de promotion de son sous-groupe de traitement initial, si un tel examen y est prévu;
 
-3. avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire au groupe de traitement et d’indemnité supérieur organisés par l’Institut national d’administration publique ou par l’Institut de formation de l’éducation nationale. Le fonctionnaire de l’État du groupe de traitement B1, qui a accédé au groupe de traitement A2 en application des dispositions de la présente loi et qui désire ensuite accéder au groupe de traitement A1 conformément à la présente loi, est dispensé de la condition d’avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire y relatif.
+- avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire au groupe de traitement et d’indemnité supérieur organisés par l’Institut national d’administration publique ou par l’Institut de formation de l’éducation nationale. Le fonctionnaire de l’État du groupe de traitement B1, qui a accédé au groupe de traitement A2 en application des dispositions de la présente loi et qui désire ensuite accéder au groupe de traitement A1 conformément à la présente loi, est dispensé de la condition d’avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire y relatif.
 
 (2)
 
 L’employé de l’Etat qui désire changer de groupe d’indemnité peut se présenter à tout emploi du groupe d’indemnité immédiatement supérieur à son groupe d’indemnité initial d’une administration de l’Etat déclaré vacant, s’il remplit les conditions suivantes:
 
-1. avoir au moins dix années de service depuis son début de carrière;
+- avoir au moins dix années de service depuis son début de carrière;
 
-2. avoir réussi à l’examen de carrière de son sous-groupe d’indemnité initial, si un tel examen y est prévu;
+- avoir réussi à l’examen de carrière de son sous-groupe d’indemnité initial, si un tel examen y est prévu;
 
-3. avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire au groupe de traitement et d’indemnité supérieur organisés par l’Institut national d’administration publique. L’employé de l’État du groupe d’indemnité B1, qui a accédé au groupe d’indemnité A2 en application des dispositions de la présente loi et qui désire ensuite accéder au groupe d’indemnité A1 conformément à la présente loi, est dispensé de la condition d’avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire y relatif.
+- avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire au groupe de traitement et d’indemnité supérieur organisés par l’Institut national d’administration publique. L’employé de l’État du groupe d’indemnité B1, qui a accédé au groupe d’indemnité A2 en application des dispositions de la présente loi et qui désire ensuite accéder au groupe d’indemnité A1 conformément à la présente loi, est dispensé de la condition d’avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire y relatif.
 
 (3)
 

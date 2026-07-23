@@ -36,74 +36,74 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La présente loi a pour objectifs :
 
-1. la protection du patrimoine culturel comme un élément majeur du développement durable, de la diversité culturelle et de la création contemporaine ;
+- la protection du patrimoine culturel comme un élément majeur du développement durable, de la diversité culturelle et de la création contemporaine ;
 
-2. la valorisation du patrimoine culturel à travers son identification, son étude, son interprétation, sa sauvegarde, sa conservation et sa protection ;
+- la valorisation du patrimoine culturel à travers son identification, son étude, son interprétation, sa sauvegarde, sa conservation et sa protection ;
 
-3. de renforcer la cohésion sociale en favorisant le sens de responsabilité partagée envers l’espace de vie commun.
+- de renforcer la cohésion sociale en favorisant le sens de responsabilité partagée envers l’espace de vie commun.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 Au sens de la présente loi, l’on entend par :
 
-1. « patrimoine culturel » : un ensemble de ressources héritées du passé que des personnes considèrent, par-delà le régime de la propriété des biens, comme un reflet et une expression de leurs valeurs, croyances, savoirs et traditions en continuelle évolution. Il inclut les biens meubles et immeubles, matériels, immatériels, audiovisuels et numériques, dont la sauvegarde, la conservation et la protection présentent un intérêt public national d’un point de vue historique, archéologique, architectural, artistique, artisanal, paléontologique, minéralogique, géologique, scientifique, social, technique, vernaculaire, urbanistique, industriel, naturel, paysager, religieux, militaire, politique ou ethnologique. En tant que tel le patrimoine culturel englobe le patrimoine archéologique, le patrimoine architectural, le patrimoine mobilier et le patrimoine immatériel ;
+- « patrimoine culturel » : un ensemble de ressources héritées du passé que des personnes considèrent, par-delà le régime de la propriété des biens, comme un reflet et une expression de leurs valeurs, croyances, savoirs et traditions en continuelle évolution. Il inclut les biens meubles et immeubles, matériels, immatériels, audiovisuels et numériques, dont la sauvegarde, la conservation et la protection présentent un intérêt public national d’un point de vue historique, archéologique, architectural, artistique, artisanal, paléontologique, minéralogique, géologique, scientifique, social, technique, vernaculaire, urbanistique, industriel, naturel, paysager, religieux, militaire, politique ou ethnologique. En tant que tel le patrimoine culturel englobe le patrimoine archéologique, le patrimoine architectural, le patrimoine mobilier et le patrimoine immatériel ;
 
-2. « conservation » : toute mesure d’identification, de description, d’étude, de recherche scientifique, de documentation, de numérisation, d’entretien, de gestion, de consolidation, de sécurisation, de préservation, de réparation, de réfection, de restauration ou de mise en valeur exercée sur un bien appartenant au patrimoine culturel ;
+- « conservation » : toute mesure d’identification, de description, d’étude, de recherche scientifique, de documentation, de numérisation, d’entretien, de gestion, de consolidation, de sécurisation, de préservation, de réparation, de réfection, de restauration ou de mise en valeur exercée sur un bien appartenant au patrimoine culturel ;
 
-3. « protection » : l’acte administratif réglementaire ou individuel qui confère à un bien appartenant au patrimoine culturel un statut juridique qui affirme son intérêt public national et qui a comme effet d’assurer la pérennité ou la mise en valeur de ce bien ;
+- « protection » : l’acte administratif réglementaire ou individuel qui confère à un bien appartenant au patrimoine culturel un statut juridique qui affirme son intérêt public national et qui a comme effet d’assurer la pérennité ou la mise en valeur de ce bien ;
 
-4. « patrimoine culturel national » : tout bien immeuble nu ou bâti et bien mobilier faisant partie du patrimoine culturel et qui bénéficie par la voie d’un classement d’une protection au sens de la présente loi ;
+- « patrimoine culturel national » : tout bien immeuble nu ou bâti et bien mobilier faisant partie du patrimoine culturel et qui bénéficie par la voie d’un classement d’une protection au sens de la présente loi ;
 
-5. « patrimoine archéologique » : les vestiges, biens meubles et immeubles, et autres traces de l’existence de l’humanité dans le passé dont la conservation et la protection présentent un intérêt public national d’un point de vue énuméré au point 1 et dont l’étude permet de retracer le développement de la vie, l’histoire de l’humanité et leur relation avec l’environnement naturel. Sont inclus dans le patrimoine archéologique : les structures, constructions, ensembles architecturaux, sites aménagés, témoins mobiliers, y compris ceux de nature paléontologique, minéralogique et géologique, monuments d’autre nature, ainsi que leur contexte, qu’ils soient situés sur le sol, dans le sous-sol ou sous les eaux ;
+- « patrimoine archéologique » : les vestiges, biens meubles et immeubles, et autres traces de l’existence de l’humanité dans le passé dont la conservation et la protection présentent un intérêt public national d’un point de vue énuméré au point 1 et dont l’étude permet de retracer le développement de la vie, l’histoire de l’humanité et leur relation avec l’environnement naturel. Sont inclus dans le patrimoine archéologique : les structures, constructions, ensembles architecturaux, sites aménagés, témoins mobiliers, y compris ceux de nature paléontologique, minéralogique et géologique, monuments d’autre nature, ainsi que leur contexte, qu’ils soient situés sur le sol, dans le sous-sol ou sous les eaux ;
 
-6. « patrimoine architectural » : les biens immeubles dont la conservation et la protection présentent un intérêt public national d’un point de vue énuméré au point 1. En font partie des constructions réalisées par l’homme, des ensembles architecturaux et des sites mixtes ;
+- « patrimoine architectural » : les biens immeubles dont la conservation et la protection présentent un intérêt public national d’un point de vue énuméré au point 1. En font partie des constructions réalisées par l’homme, des ensembles architecturaux et des sites mixtes ;
 
-7. « patrimoine mobilier » : les biens culturels, soit meubles proprement dits, soit immeubles par destination, dont la conservation et la protection présentent un intérêt public national d’un point de vue énuméré au point 1 ;
+- « patrimoine mobilier » : les biens culturels, soit meubles proprement dits, soit immeubles par destination, dont la conservation et la protection présentent un intérêt public national d’un point de vue énuméré au point 1 ;
 
-8. « patrimoine immatériel » : les pratiques, représentations, expressions, connaissances et savoir-faire de communautés, groupes ou individus, ainsi que les instruments, objets, artefacts et espaces culturels qui leur sont associés, dont la sauvegarde présente un intérêt public national d’un point de vue énuméré au point 1. Le patrimoine culturel immatériel ou patrimoine vivant se manifeste notamment dans les traditions et expressions orales, y compris la langue comme vecteur du patrimoine culturel immatériel, les arts du spectacle, les pratiques sociales, rituels et événements festifs, les connaissances et pratiques concernant la nature et l’univers et les savoir-faire liés à l’artisanat traditionnel ;
+- « patrimoine immatériel » : les pratiques, représentations, expressions, connaissances et savoir-faire de communautés, groupes ou individus, ainsi que les instruments, objets, artefacts et espaces culturels qui leur sont associés, dont la sauvegarde présente un intérêt public national d’un point de vue énuméré au point 1. Le patrimoine culturel immatériel ou patrimoine vivant se manifeste notamment dans les traditions et expressions orales, y compris la langue comme vecteur du patrimoine culturel immatériel, les arts du spectacle, les pratiques sociales, rituels et événements festifs, les connaissances et pratiques concernant la nature et l’univers et les savoir-faire liés à l’artisanat traditionnel ;
 
-9. « zone d’observation archéologique » : zone territoriale qui comprend ou est susceptible de comprendre des éléments faisant partie du patrimoine archéologique. Dans la zone d’observation archéologique, on distingue les zones dans lesquelles des éléments faisant partie du patrimoine archéologique ont déjà été détectés et les zones qui n’ont pas encore fait l’objet d’une opération archéologique et pour lesquelles il n’existe pas encore de données permettant d’exclure toute potentialité archéologique, regroupées dans la « sous-zone » ;
+- « zone d’observation archéologique » : zone territoriale qui comprend ou est susceptible de comprendre des éléments faisant partie du patrimoine archéologique. Dans la zone d’observation archéologique, on distingue les zones dans lesquelles des éléments faisant partie du patrimoine archéologique ont déjà été détectés et les zones qui n’ont pas encore fait l’objet d’une opération archéologique et pour lesquelles il n’existe pas encore de données permettant d’exclure toute potentialité archéologique, regroupées dans la « sous-zone » ;
 
-10. « sous-zone » : zone territoriale pour laquelle il n’existe pas encore de données permettant d’exclure toute potentialité archéologique ;
+- « sous-zone » : zone territoriale pour laquelle il n’existe pas encore de données permettant d’exclure toute potentialité archéologique ;
 
-11. « site archéologique » : les terrains sur ou sous lesquels se situent ou sont susceptibles de se situer des éléments du patrimoine archéologique ou leur trace ;
+- « site archéologique » : les terrains sur ou sous lesquels se situent ou sont susceptibles de se situer des éléments du patrimoine archéologique ou leur trace ;
 
-12. « potentialité archéologique » : la probabilité que des éléments du patrimoine archéologique soient conservés dans un terrain. L’évaluation de la potentialité archéologique prend en compte l’utilisation du terrain au présent et dans le passé, la topographie, la géologie du sous-sol, le contexte archéologique, la surface du terrain, les sources historiques ainsi que tout autre indice scientifique ;
+- « potentialité archéologique » : la probabilité que des éléments du patrimoine archéologique soient conservés dans un terrain. L’évaluation de la potentialité archéologique prend en compte l’utilisation du terrain au présent et dans le passé, la topographie, la géologie du sous-sol, le contexte archéologique, la surface du terrain, les sources historiques ainsi que tout autre indice scientifique ;
 
-13. « opération d’archéologie préventive » : un ensemble d’opérations scientifiques de terrain qui visent à détecter dans des délais raisonnables, documenter, sauvegarder ou conserver par des recherches scientifiques des éléments du patrimoine archéologique susceptibles d’être affectés par des travaux de construction, de démolition ou de remblai et de déblai et qui sont initiées par ces travaux. Ces opérations peuvent prendre la forme d’opération de diagnostic archéologique ou de fouilles archéologiques ;
+- « opération d’archéologie préventive » : un ensemble d’opérations scientifiques de terrain qui visent à détecter dans des délais raisonnables, documenter, sauvegarder ou conserver par des recherches scientifiques des éléments du patrimoine archéologique susceptibles d’être affectés par des travaux de construction, de démolition ou de remblai et de déblai et qui sont initiées par ces travaux. Ces opérations peuvent prendre la forme d’opération de diagnostic archéologique ou de fouilles archéologiques ;
 
-14. « opération d’archéologie programmée » : un ensemble d’opérations scientifiques de terrain qui visent à détecter, documenter, sauvegarder ou conserver par des recherches scientifiques des éléments du patrimoine archéologique et qui ne sont pas initiées par des travaux de construction, de démolition ou de remblai et de déblai. Ces opérations peuvent prendre la forme d’opération de diagnostic archéologique ou de fouilles archéologiques ;
+- « opération d’archéologie programmée » : un ensemble d’opérations scientifiques de terrain qui visent à détecter, documenter, sauvegarder ou conserver par des recherches scientifiques des éléments du patrimoine archéologique et qui ne sont pas initiées par des travaux de construction, de démolition ou de remblai et de déblai. Ces opérations peuvent prendre la forme d’opération de diagnostic archéologique ou de fouilles archéologiques ;
 
-15. « opération de diagnostic archéologique » : une opération scientifique de terrain qui vise à détecter, délimiter ou évaluer des éléments du patrimoine archéologique non encore découverts ou mal connus et qui s’achève par la rédaction d’un rapport final d’opération de diagnostic ;
+- « opération de diagnostic archéologique » : une opération scientifique de terrain qui vise à détecter, délimiter ou évaluer des éléments du patrimoine archéologique non encore découverts ou mal connus et qui s’achève par la rédaction d’un rapport final d’opération de diagnostic ;
 
-16. « fouilles archéologiques » : une opération scientifique de terrain qui vise à documenter, sauvegarder ou conserver par des recherches scientifiques des éléments du patrimoine archéologique et qui comprend les analyses scientifiques post-fouilles et la rédaction du rapport final de fouilles ;
+- « fouilles archéologiques » : une opération scientifique de terrain qui vise à documenter, sauvegarder ou conserver par des recherches scientifiques des éléments du patrimoine archéologique et qui comprend les analyses scientifiques post-fouilles et la rédaction du rapport final de fouilles ;
 
-17. « travaux de construction, de démolition ou de remblai et de déblai » : les travaux publics ou privés ayant un impact sur le sol ou le sous-sol, y compris ceux destinés à l’exploitation des ressources du sol ou du sous-sol ;
+- « travaux de construction, de démolition ou de remblai et de déblai » : les travaux publics ou privés ayant un impact sur le sol ou le sous-sol, y compris ceux destinés à l’exploitation des ressources du sol ou du sous-sol ;
 
-18. « opérateur archéologique » : toute personne morale, de droit public ou privé, agréée à effectuer des opérations d’archéologie préventive ;
+- « opérateur archéologique » : toute personne morale, de droit public ou privé, agréée à effectuer des opérations d’archéologie préventive ;
 
-19. « maître d’ouvrage » : toute personne physique ou morale, de droit public ou privé, projetant d’exécuter des travaux de construction, de démolition ou de remblai et de déblai ;
+- « maître d’ouvrage » : toute personne physique ou morale, de droit public ou privé, projetant d’exécuter des travaux de construction, de démolition ou de remblai et de déblai ;
 
-20. « ensembles architecturaux » : des groupements homogènes de biens immeubles suffisamment cohérents, d’un point de vue historique, fonctionnel ou social, pour faire l’objet d’une délimitation topographique ;
+- « ensembles architecturaux » : des groupements homogènes de biens immeubles suffisamment cohérents, d’un point de vue historique, fonctionnel ou social, pour faire l’objet d’une délimitation topographique ;
 
-21. « sites mixtes » : des œuvres combinées de l’homme et de la nature partiellement construites et constituant des espaces suffisamment cohérents et homogènes pour faire l’objet d’une délimitation topographique ;
+- « sites mixtes » : des œuvres combinées de l’homme et de la nature partiellement construites et constituant des espaces suffisamment cohérents et homogènes pour faire l’objet d’une délimitation topographique ;
 
-22. « secteur protégé d’intérêt national » : une zone qui regroupe des parties du territoire en vue de mettre en valeur un ou plusieurs biens immeubles classés comme patrimoine culturel national, de permettre un aménagement adéquat des alentours de ces biens immeubles et de créer, rétablir ou sauvegarder la cohérence architecturale, urbanistique et paysagère des espaces visés ;
+- « secteur protégé d’intérêt national » : une zone qui regroupe des parties du territoire en vue de mettre en valeur un ou plusieurs biens immeubles classés comme patrimoine culturel national, de permettre un aménagement adéquat des alentours de ces biens immeubles et de créer, rétablir ou sauvegarder la cohérence architecturale, urbanistique et paysagère des espaces visés ;
 
-23. « biens culturels » : les biens qui, à titre religieux ou profane, revêtent de l’importance pour l’archéologie, la préhistoire, l’histoire, la littérature, l’art, ou la science et qui font partie de l’une des catégories prévues à l’article 1 er de la Convention concernant les mesures à prendre pour interdire et empêcher l’importation, l’exportation et le transfert de propriété illicites des biens culturels, adoptée par la Conférence générale de l’UNESCO à sa seizième session, à Paris, le 14 novembre 1970, et approuvée par la loi du 17 décembre 2014 , ci-après « Convention de l’UNESCO » ;
+- « biens culturels » : les biens qui, à titre religieux ou profane, revêtent de l’importance pour l’archéologie, la préhistoire, l’histoire, la littérature, l’art, ou la science et qui font partie de l’une des catégories prévues à l’article 1 er de la Convention concernant les mesures à prendre pour interdire et empêcher l’importation, l’exportation et le transfert de propriété illicites des biens culturels, adoptée par la Conférence générale de l’UNESCO à sa seizième session, à Paris, le 14 novembre 1970, et approuvée par la loi du 17 décembre 2014 , ci-après « Convention de l’UNESCO » ;
 
-24. « collections publiques » : les biens culturels appartenant à l’État, aux instituts culturels de l’État tels que définis par la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État, aux établissements publics de droit luxembourgeois à vocation culturelle, ainsi qu’à la Fondation Musée d’Art moderne Grand-Duc Jean ;
+- « collections publiques » : les biens culturels appartenant à l’État, aux instituts culturels de l’État tels que définis par la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État, aux établissements publics de droit luxembourgeois à vocation culturelle, ainsi qu’à la Fondation Musée d’Art moderne Grand-Duc Jean ;
 
-25. « transfert de biens culturels » : les mouvements de biens culturels à l’intérieur du territoire douanier de l’Union européenne tel que défini à l’article 4 du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union ;
+- « transfert de biens culturels » : les mouvements de biens culturels à l’intérieur du territoire douanier de l’Union européenne tel que défini à l’article 4 du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union ;
 
-26. « introduction de biens culturels » : le mouvement de biens culturels tel que défini à l’article 2, paragraphe 2, du règlement (UE) n° 2019/880 du Parlement européen et du Conseil du 17 avril 2019 concernant l’introduction et l’importation de biens culturels, ci-après « règlement (UE) 2019/880 » ;
+- « introduction de biens culturels » : le mouvement de biens culturels tel que défini à l’article 2, paragraphe 2, du règlement (UE) n° 2019/880 du Parlement européen et du Conseil du 17 avril 2019 concernant l’introduction et l’importation de biens culturels, ci-après « règlement (UE) 2019/880 » ;
 
-27. « importation de biens culturels » : le mouvement de biens culturels tel que défini à l’article 2, paragraphe 3, du règlement (UE) 2019/880 ;
+- « importation de biens culturels » : le mouvement de biens culturels tel que défini à l’article 2, paragraphe 3, du règlement (UE) 2019/880 ;
 
-28. « exportation de biens culturels » : la sortie de biens culturels hors du territoire douanier de l’Union européenne ;
+- « exportation de biens culturels » : la sortie de biens culturels hors du territoire douanier de l’Union européenne ;
 
-29. « État membre d’expédition » : l’État membre à partir duquel est transféré le bien culturel vers le Grand-Duché de Luxembourg. »
+- « État membre d’expédition » : l’État membre à partir duquel est transféré le bien culturel vers le Grand-Duché de Luxembourg. »
 
 #### Chapitre 2 Patrimoine archéologique
 
@@ -131,29 +131,29 @@ Sous réserve des paragraphes 2 et 3, tous les travaux de construction, de démo
 
 Ne font pas partie de la zone d’observation archéologique :
 
-1. les sites archéologiques classés conformément à l’article 19 ;
+- les sites archéologiques classés conformément à l’article 19 ;
 
-2. les sites archéologiques entièrement détruits suite à des fouilles archéologiques ;
+- les sites archéologiques entièrement détruits suite à des fouilles archéologiques ;
 
-3. les terrains déjà aménagés au point où plus aucun élément du patrimoine ne peut être sauvegardé.
+- les terrains déjà aménagés au point où plus aucun élément du patrimoine ne peut être sauvegardé.
 
 (2)
 
 Dans la zone d’observation archéologique sont dispensés de l’évaluation de leurs incidences sur le patrimoine archéologique :
 
-1. les projets de travaux de construction, de démolition ou de remblai et de déblai exécutant un plan d’aménagement particulier « quartier existant » qui présentent une superficie au sol inférieure à 100 mètres carrés et une profondeur inférieure à 0,25 mètre ;
+- les projets de travaux de construction, de démolition ou de remblai et de déblai exécutant un plan d’aménagement particulier « quartier existant » qui présentent une superficie au sol inférieure à 100 mètres carrés et une profondeur inférieure à 0,25 mètre ;
 
-2. les travaux d’infrastructure urgents.
+- les travaux d’infrastructure urgents.
 
 (3)
 
 La zone d’observation archéologique comprend une sous-zone dans laquelle sont dispensés de l’évaluation de leurs incidences sur le patrimoine archéologique :
 
-1. les projets de travaux de construction, de démolition ou de remblai et de déblai exécutant un plan d’aménagement particulier « quartier existant » qui présentent une emprise au sol inférieure à 0,3 hectare et une profondeur inférieure à 0,25 mètre ;
+- les projets de travaux de construction, de démolition ou de remblai et de déblai exécutant un plan d’aménagement particulier « quartier existant » qui présentent une emprise au sol inférieure à 0,3 hectare et une profondeur inférieure à 0,25 mètre ;
 
-2. les projets de travaux de construction, de démolition ou de remblai et de déblai exécutant un plan d’aménagement particulier « nouveau quartier » qui couvre une surface inférieure à 1 hectare ;
+- les projets de travaux de construction, de démolition ou de remblai et de déblai exécutant un plan d’aménagement particulier « nouveau quartier » qui couvre une surface inférieure à 1 hectare ;
 
-3. les travaux de voirie existante.
+- les travaux de voirie existante.
 
 (4)
 
@@ -174,11 +174,11 @@ La zone d’observation archéologique fait partie intégrante en tant que zone 
 
 Pour tous les travaux de construction, de démolition ou de remblai et de déblai lui soumis pour évaluation, le ministre prescrit, en fonction de la potentialité archéologique du terrain :
 
-1. une opération de diagnostic archéologique sur des terrains ayant une haute potentialité archéologique. Cette prescription est motivée et délivrée dans un délai de trente jours ouvrés à compter de la réception du dossier complet de la demande d’évaluation ; ou
+- une opération de diagnostic archéologique sur des terrains ayant une haute potentialité archéologique. Cette prescription est motivée et délivrée dans un délai de trente jours ouvrés à compter de la réception du dossier complet de la demande d’évaluation ; ou
 
-2. une opération de fouille d’archéologie préventive qui peut être prescrite soit à la suite d’une opération de diagnostic archéologique, soit directement à la suite d’une demande d’évaluation de terrain lorsque ces terrains contiennent des sites archéologiques connus. Cette prescription est motivée et délivrée dans un délai de trente jours ouvrés à compter de la réception du rapport final d’opération de diagnostic ou de la demande d’évaluation ;
+- une opération de fouille d’archéologie préventive qui peut être prescrite soit à la suite d’une opération de diagnostic archéologique, soit directement à la suite d’une demande d’évaluation de terrain lorsque ces terrains contiennent des sites archéologiques connus. Cette prescription est motivée et délivrée dans un délai de trente jours ouvrés à compter de la réception du rapport final d’opération de diagnostic ou de la demande d’évaluation ;
 
-3. une levée de contrainte archéologique sur des terrains ayant une faible potentialité archéologique.
+- une levée de contrainte archéologique sur des terrains ayant une faible potentialité archéologique.
 
 En l’absence de prescriptions par le ministre dans les délais, il est réputé y avoir renoncé et le terrain bénéficie d’une levée de contrainte archéologique pour le projet en question.
 
@@ -193,13 +193,13 @@ La durée de réalisation d’une opération d’archéologie préventive peut �
 
 En cas de découverte exceptionnelle d’éléments faisant partie du patrimoine archéologique pendant une opération de fouilles archéologiques, sur avis de la commission pour le patrimoine culturel instituée à l’article 109, ci-après « commission », le ministre peut prolonger la durée de réalisation de l’opération des fouilles archéologiques sans pour autant faire dépasser la durée totale de l’opération de fouilles archéologiques de cinq ans. Par découverte exceptionnelle d’éléments faisant partie du patrimoine archéologique, il y a lieu d’entendre des éléments archéologiques qui :
 
-1. soit représentent des vestiges exceptionnellement bien conservés ;
+- soit représentent des vestiges exceptionnellement bien conservés ;
 
-2. soit révèlent d’un caractère de rareté par rapport à la fréquence de découverte de ce genre d’éléments faisant partie du patrimoine archéologique ;
+- soit révèlent d’un caractère de rareté par rapport à la fréquence de découverte de ce genre d’éléments faisant partie du patrimoine archéologique ;
 
-3. soit sont d’une complexité inhabituelle ou d’une abondance extraordinairement nombreuse ;
+- soit sont d’une complexité inhabituelle ou d’une abondance extraordinairement nombreuse ;
 
-4. soit sont extraordinairement difficiles à fouiller et documenter lors d’une fouille archéologique et nécessitent la mise en place de moyens techniques spéciaux.
+- soit sont extraordinairement difficiles à fouiller et documenter lors d’une fouille archéologique et nécessitent la mise en place de moyens techniques spéciaux.
 
 Le propriétaire du terrain sur lequel la découverte exceptionnelle d’éléments faisant partie du patrimoine archéologique est effectuée a droit au paiement d’une indemnité destinée à compenser le dommage qui peut lui être occasionné par le retard dans les travaux causés par la décision du ministre de prolonger la durée de réalisation des opérations de fouilles archéologiques. La demande d’indemnité est adressée au ministre. À défaut d’accord sur le montant de l’indemnité, celle-ci est fixée par les tribunaux de l’ordre judiciaire. Le droit de demander une indemnisation représentative du préjudice devant les tribunaux de l’ordre judiciaire se prescrit cinq ans après l’achèvement des opérations de fouilles archéologiques correspondant à la date du rapport final de fouilles.
 
@@ -217,19 +217,19 @@ Le ministre établit un cahier des charges sur les procédures scientifiques et 
 
 Le cahier des charges contient :
 
-1. le type d’opération d’archéologie préventive ;
+- le type d’opération d’archéologie préventive ;
 
-2. les objectifs scientifiques de l’opération d’archéologie préventive ;
+- les objectifs scientifiques de l’opération d’archéologie préventive ;
 
-3. les moyens techniques à mettre en place par l’opérateur archéologique ;
+- les moyens techniques à mettre en place par l’opérateur archéologique ;
 
-4. la composition indicative de l’équipe ainsi que la qualification et l’expérience professionnelle requise pour le personnel ;
+- la composition indicative de l’équipe ainsi que la qualification et l’expérience professionnelle requise pour le personnel ;
 
-5. les principes méthodologiques et techniques à mettre en place par l’opérateur archéologique ;
+- les principes méthodologiques et techniques à mettre en place par l’opérateur archéologique ;
 
-6. la durée minimale de l’opération d’archéologie préventive en jours de travail par personne ;
+- la durée minimale de l’opération d’archéologie préventive en jours de travail par personne ;
 
-7. le cas échéant, des prescriptions spécifiques pour le projet en question.
+- le cas échéant, des prescriptions spécifiques pour le projet en question.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -240,17 +240,17 @@ Les opérations d’archéologie préventive sont effectuées par l’Institut n
 
 L’agrément est attribué par décision du ministre à l’opérateur archéologique qui remplit les conditions suivantes :
 
-1. disposer du personnel nécessaire pour accomplir des tâches administratives, scientifiques et techniques ;
+- disposer du personnel nécessaire pour accomplir des tâches administratives, scientifiques et techniques ;
 
-2. justifier d’une connaissance satisfaisante des méthodes archéologiques et d’une expérience professionnelle ;
+- justifier d’une connaissance satisfaisante des méthodes archéologiques et d’une expérience professionnelle ;
 
-3. disposer des moyens techniques appropriés ;
+- disposer des moyens techniques appropriés ;
 
-4. avoir accès au matériel et aux informations nécessaires pour accomplir convenablement leur mission ;
+- avoir accès au matériel et aux informations nécessaires pour accomplir convenablement leur mission ;
 
-5. avoir l’aptitude requise pour rédiger les rapports dans une des langues officielles du Luxembourg et les moyens nécessaires pour élaborer la documentation de l’opération archéologique ;
+- avoir l’aptitude requise pour rédiger les rapports dans une des langues officielles du Luxembourg et les moyens nécessaires pour élaborer la documentation de l’opération archéologique ;
 
-6. jouir de l’indépendance morale, technique et financière nécessaire.
+- jouir de l’indépendance morale, technique et financière nécessaire.
 
 Le ministre peut limiter l’agrément à des époques archéologiques spécifiques, à des tâches techniques ou scientifiques déterminées ou à un projet spécifique.
 
@@ -258,11 +258,11 @@ L’agrément est accordé pour une durée maximale de trois ans et est renouvel
 
 Le ministre peut à tout moment suspendre ou retirer l’agrément lorsque son titulaire :
 
-1. ne satisfait plus aux conditions prévues à l’alinéa 2, points 1° à 6° ; ou
+- ne satisfait plus aux conditions prévues à l’alinéa 2, points 1° à 6° ; ou
 
-2. ne respecte pas ou plus les conditions particulières de l’agrément ; ou
+- ne respecte pas ou plus les conditions particulières de l’agrément ; ou
 
-3. ne respecte pas les prescriptions émises dans le cahier des charges, l’autorisation ministérielle pour l’opération archéologique ou les recommandations données par les agents de l’État.
+- ne respecte pas les prescriptions émises dans le cahier des charges, l’autorisation ministérielle pour l’opération archéologique ou les recommandations données par les agents de l’État.
 
 Les modalités de la demande et de la délivrance de l’agrément peuvent être précisées par voie de règlement grand-ducal.
 
@@ -299,11 +299,11 @@ L’emploi de détecteurs de métaux et de tout autre équipement de détection 
 
 L’autorisation ministérielle est délivrée à condition pour le demandeur :
 
-1. d’avoir suivi une formation de base auprès de l’Institut national de recherches archéologiques ou une formation par un institut étranger reconnue équivalente par l’Institut national de recherches archéologiques sanctionnée par un certificat ;
+- d’avoir suivi une formation de base auprès de l’Institut national de recherches archéologiques ou une formation par un institut étranger reconnue équivalente par l’Institut national de recherches archéologiques sanctionnée par un certificat ;
 
-2. d’effectuer la recherche dans un but scientifique ;
+- d’effectuer la recherche dans un but scientifique ;
 
-3. de procéder à la recherche en étroite collaboration avec l’Institut national de recherches archéologiques.
+- de procéder à la recherche en étroite collaboration avec l’Institut national de recherches archéologiques.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -353,9 +353,9 @@ Lorsque par suite de travaux ou de tout autre fait quelconque des éléments du 
 
 Par conservation provisoire au sens de l’alinéa qui précède, on entend :
 
-1. l’arrêt immédiat des travaux sur le terrain concerné ;
+- l’arrêt immédiat des travaux sur le terrain concerné ;
 
-2. le maintien en l’état sans déplacement de tout élément du patrimoine archéologique découvert.
+- le maintien en l’état sans déplacement de tout élément du patrimoine archéologique découvert.
 
 Par auteur au sens de l’alinéa qui précède, on entend toute personne physique ou morale, de droit public ou privé, qui découvre des éléments du patrimoine archéologique lors de travaux de construction, de démolition ou de remblai et de déblai ou de tout autre fait quelconque.
 
@@ -377,15 +377,15 @@ La procédure de classement comme patrimoine culturel national d’un bien immeu
 
 Une demande de protection peut être adressée au ministre par :
 
-1. les propriétaires d’un bien immeuble relevant du patrimoine archéologique ;
+- les propriétaires d’un bien immeuble relevant du patrimoine archéologique ;
 
-2. la commune sur le territoire de laquelle le bien immeuble est situé ;
+- la commune sur le territoire de laquelle le bien immeuble est situé ;
 
-3. une association sans but lucratif qui a pour objet social la sauvegarde du patrimoine culturel ;
+- une association sans but lucratif qui a pour objet social la sauvegarde du patrimoine culturel ;
 
-4. tout particulier ;
+- tout particulier ;
 
-5. la commission.
+- la commission.
 
 Un règlement grand-ducal détermine les modalités de saisine et les documents à joindre à la demande de protection.
 
@@ -450,13 +450,13 @@ Un bien immeuble classé comme patrimoine culturel national peut, après avis de
 
 La procédure de déclassement peut être entamée à la demande :
 
-1. du ministre ;
+- du ministre ;
 
-2. des propriétaires ;
+- des propriétaires ;
 
-3. de la commission ;
+- de la commission ;
 
-4. de la commune sur le territoire de laquelle le bien immeuble est situé.
+- de la commune sur le territoire de laquelle le bien immeuble est situé.
 
 (3)
 
@@ -480,33 +480,33 @@ L’Institut national pour le patrimoine architectural établit et tient à jour
 
 Pour pouvoir être inventorié comme bien immeuble susceptible de faire l’objet d’un classement comme patrimoine culturel national, un bien immeuble doit être authentique pour avoir connu peu de modifications et avoir gardé des éléments de son époque. Outre ce critère d’authenticité, un bien immeuble doit être représentatif et significatif au vu d’au moins un des critères suivants :
 
-1. Histoire de l’architecture, de l’art ou de l’ingénierie : biens représentant de façon exemplaire une certaine époque, un certain courant ou en illustrent l’apogée ;
+- Histoire de l’architecture, de l’art ou de l’ingénierie : biens représentant de façon exemplaire une certaine époque, un certain courant ou en illustrent l’apogée ;
 
-2. Genre : biens à fonction et destination initiales reconnaissables ;
+- Genre : biens à fonction et destination initiales reconnaissables ;
 
-3. Typologie : biens se caractérisant par leur composition et constitution spécifiques ;
+- Typologie : biens se caractérisant par leur composition et constitution spécifiques ;
 
-4. Rareté : biens ayant été réalisés en nombre restreint ou qui sont devenus peu nombreux au fil du temps ;
+- Rareté : biens ayant été réalisés en nombre restreint ou qui sont devenus peu nombreux au fil du temps ;
 
-5. Période de réalisation : biens ayant repris et transposé le style artistique ou l’esprit de l’époque de leur réalisation ;
+- Période de réalisation : biens ayant repris et transposé le style artistique ou l’esprit de l’époque de leur réalisation ;
 
-6. Histoire industrielle, artisanale, économique ou scientifique : biens témoignant du développement technique de leur époque de réalisation ou qui sont représentatifs du développement d’un lieu ou d’une région ;
+- Histoire industrielle, artisanale, économique ou scientifique : biens témoignant du développement technique de leur époque de réalisation ou qui sont représentatifs du développement d’un lieu ou d’une région ;
 
-7. Lieu de mémoire : biens rappelant une personnalité ou un évènement important pour l’histoire du pays ;
+- Lieu de mémoire : biens rappelant une personnalité ou un évènement important pour l’histoire du pays ;
 
-8. Histoire politique et institutionnelle, nationale ou européenne : biens témoignant de l’organisation et de l’exercice du pouvoir et des institutions politiques tant au niveau national qu’international ;
+- Histoire politique et institutionnelle, nationale ou européenne : biens témoignant de l’organisation et de l’exercice du pouvoir et des institutions politiques tant au niveau national qu’international ;
 
-9. Histoire militaire : biens rappelant des actions de défense, des faits de guerre ou représentant l’évolution des techniques militaires ;
+- Histoire militaire : biens rappelant des actions de défense, des faits de guerre ou représentant l’évolution des techniques militaires ;
 
-10. Histoire sociale ou des cultes : biens illustrant la vie, le travail ou la vie spirituelle et religieuse ainsi que les traditions et les coutumes de différentes époques ;
+- Histoire sociale ou des cultes : biens illustrant la vie, le travail ou la vie spirituelle et religieuse ainsi que les traditions et les coutumes de différentes époques ;
 
-11. Œuvre architecturale, artistique ou technique : biens ayant été conçus par un ou plusieurs créateurs reconnus pour la qualité de leur œuvre ;
+- Œuvre architecturale, artistique ou technique : biens ayant été conçus par un ou plusieurs créateurs reconnus pour la qualité de leur œuvre ;
 
-12. Typicité du lieu ou du paysage : biens typiques pour une partie du territoire national, en fonction des spécificités géographique et géologique des lieux ;
+- Typicité du lieu ou du paysage : biens typiques pour une partie du territoire national, en fonction des spécificités géographique et géologique des lieux ;
 
-13. Histoire locale, de l’habitat ou de l’urbanisation : biens témoignant des caractéristiques spécifiques d’un lieu ou d’une région et qui sont significatifs du point de vue de la composition urbaine ou rurale ;
+- Histoire locale, de l’habitat ou de l’urbanisation : biens témoignant des caractéristiques spécifiques d’un lieu ou d’une région et qui sont significatifs du point de vue de la composition urbaine ou rurale ;
 
-14. Évolution et développement des objets et sites : biens ayant connu des transformations au cours du temps et qui témoignent de l’évolution du bâti en affichant des unités stratigraphiques, caractéristiques pour différentes époques.
+- Évolution et développement des objets et sites : biens ayant connu des transformations au cours du temps et qui témoignent de l’évolution du bâti en affichant des unités stratigraphiques, caractéristiques pour différentes époques.
 
 Les critères énumérés aux points de l’alinéa 2 peuvent s’appliquer de manière cumulative et le poids de chaque critère peut varier selon l’objet inventorié.
 
@@ -533,15 +533,15 @@ Le classement comme patrimoine culturel national des biens immeubles figurant à
 
 Si le ministre propose la création de secteurs protégés d’intérêt national, il joint à l’inventaire du patrimoine architectural un dossier qui a trait à la création de secteurs protégés d’intérêt national et qui comprend pour chaque secteur protégé d’intérêt national :
 
-1. une note indiquant l’objet, les motifs et la portée de l’opération ;
+- une note indiquant l’objet, les motifs et la portée de l’opération ;
 
-2. le nom de la commune ou des communes sur le territoire desquelles le secteur se greffe avec l’indication de sections cadastrales correspondantes ;
+- le nom de la commune ou des communes sur le territoire desquelles le secteur se greffe avec l’indication de sections cadastrales correspondantes ;
 
-3. une carte topographique à l’échelle pouvant être 1/2.500 jusqu’à 1/10.000 qui sera reproduite en format réduit, la carte pouvant être consultée en original au ministère ayant la Culture dans ses attributions et sa reproduction numérique pouvant être accessible sur un site électronique du ministère ayant la Culture dans ses attributions et de l’Institut national pour le patrimoine architectural ; cette carte comporte le tracé des limites du secteur à protéger ; seule la carte déposée au ministère ayant la Culture dans ses attributions fait foi ;
+- une carte topographique à l’échelle pouvant être 1/2.500 jusqu’à 1/10.000 qui sera reproduite en format réduit, la carte pouvant être consultée en original au ministère ayant la Culture dans ses attributions et sa reproduction numérique pouvant être accessible sur un site électronique du ministère ayant la Culture dans ses attributions et de l’Institut national pour le patrimoine architectural ; cette carte comporte le tracé des limites du secteur à protéger ; seule la carte déposée au ministère ayant la Culture dans ses attributions fait foi ;
 
-4. un projet de plan de gestion sommaire établissant les objectifs à long terme concernant la conservation des alentours du patrimoine architectural et les mesures de gestion proposées ;
+- un projet de plan de gestion sommaire établissant les objectifs à long terme concernant la conservation des alentours du patrimoine architectural et les mesures de gestion proposées ;
 
-5. les charges éventuelles imposées aux propriétaires et détenteurs d’immeubles situés dans le secteur protégé d’intérêt national conformément à l’article 27.
+- les charges éventuelles imposées aux propriétaires et détenteurs d’immeubles situés dans le secteur protégé d’intérêt national conformément à l’article 27.
 
 (3)
 
@@ -578,15 +578,15 @@ Le classement comme patrimoine culturel national des biens immeubles figurant su
 
 Le règlement grand-ducal créant un secteur protégé d’intérêt national peut soumettre à autorisation du ministre les travaux suivants :
 
-1. construction nouvelle ;
+- construction nouvelle ;
 
-2. démolition ;
+- démolition ;
 
-3. déboisement autre que l’entretien ;
+- déboisement autre que l’entretien ;
 
-4. transformation ou modification de nature à affecter l’aspect d’un ou de plusieurs biens immeubles classés comme patrimoine culturel national que le secteur protégé d’intérêt national a pour objet de mettre en valeur ;
+- transformation ou modification de nature à affecter l’aspect d’un ou de plusieurs biens immeubles classés comme patrimoine culturel national que le secteur protégé d’intérêt national a pour objet de mettre en valeur ;
 
-5. modification du contexte optique ou visuel des immeubles classés comme patrimoine national notamment par l’apposition d’une publicité au sens de l’article 43 sur un immeuble situé dans un secteur protégé d’intérêt national.
+- modification du contexte optique ou visuel des immeubles classés comme patrimoine national notamment par l’apposition d’une publicité au sens de l’article 43 sur un immeuble situé dans un secteur protégé d’intérêt national.
 
 (2)
 
@@ -699,11 +699,11 @@ Les travaux doivent contribuer à la conservation ou à la restauration de l’a
 
 Les travaux éligibles peuvent être subventionnés comme suit :
 
-1. jusqu’à 25 % des frais encourus lorsqu’il s’agit d’un immeuble protégé au niveau communal, non classé patrimoine culturel national, ou intégré dans un secteur protégé d’intérêt national ;
+- jusqu’à 25 % des frais encourus lorsqu’il s’agit d’un immeuble protégé au niveau communal, non classé patrimoine culturel national, ou intégré dans un secteur protégé d’intérêt national ;
 
-2. jusqu’à 50 % des frais encourus lorsqu’il s’agit d’un immeuble classé patrimoine culturel national ;
+- jusqu’à 50 % des frais encourus lorsqu’il s’agit d’un immeuble classé patrimoine culturel national ;
 
-3. au-delà de 50 % des frais encourus lorsqu’il s’agit d’un immeuble classé patrimoine culturel national et au vu d’un avis de la commission pour le patrimoine culturel.
+- au-delà de 50 % des frais encourus lorsqu’il s’agit d’un immeuble classé patrimoine culturel national et au vu d’un avis de la commission pour le patrimoine culturel.
 
 (4)
 
@@ -778,13 +778,13 @@ Un bien immeuble classé comme patrimoine culturel national peut, après avis de
 
 La procédure de déclassement peut être entamée à la demande :
 
-1. du ministre ;
+- du ministre ;
 
-2. des propriétaires ;
+- des propriétaires ;
 
-3. de la commission ;
+- de la commission ;
 
-4. de la commune sur le territoire de laquelle le bien immeuble est situé.
+- de la commune sur le territoire de laquelle le bien immeuble est situé.
 
 ##### Section 4 Publicité
 
@@ -833,55 +833,55 @@ Les biens culturels relevant du patrimoine mobilier peuvent être classés comme
 
 Peuvent être classés comme patrimoine culturel national :
 
-1. les biens culturels créés par un artiste ou artisan d’art luxembourgeois ou avec la participation importante d’un artiste ou artisan d’art luxembourgeois ;
+- les biens culturels créés par un artiste ou artisan d’art luxembourgeois ou avec la participation importante d’un artiste ou artisan d’art luxembourgeois ;
 
-2. les biens culturels créés sur le territoire de l’actuel Grand-Duché de Luxembourg ;
+- les biens culturels créés sur le territoire de l’actuel Grand-Duché de Luxembourg ;
 
-3. les biens culturels créés pour être exposés ou installés ab initio dans l’espace public ou dans un édifice luxembourgeois ;
+- les biens culturels créés pour être exposés ou installés ab initio dans l’espace public ou dans un édifice luxembourgeois ;
 
-4. les biens culturels qui comportent la représentation d’un motif luxembourgeois ;
+- les biens culturels qui comportent la représentation d’un motif luxembourgeois ;
 
-5. les biens culturels qui témoignent d’aspects importants de l’histoire et de l’histoire de l’art du Grand-Duché de Luxembourg ;
+- les biens culturels qui témoignent d’aspects importants de l’histoire et de l’histoire de l’art du Grand-Duché de Luxembourg ;
 
-6. les collections de biens culturels rassemblées ou utilisées par une personne physique ou une personne morale luxembourgeoises ;
+- les collections de biens culturels rassemblées ou utilisées par une personne physique ou une personne morale luxembourgeoises ;
 
-7. les biens culturels créés ou commandés par une personne morale de droit public du Grand-Duché de Luxembourg ou d’un organisme étatique l’ayant précédé ;
+- les biens culturels créés ou commandés par une personne morale de droit public du Grand-Duché de Luxembourg ou d’un organisme étatique l’ayant précédé ;
 
-8. les biens culturels créés par une manufacture ou entreprise privée luxembourgeoise et ayant plus de cinquante ans d’âge ;
+- les biens culturels créés par une manufacture ou entreprise privée luxembourgeoise et ayant plus de cinquante ans d’âge ;
 
-9. les biens culturels ayant séjourné depuis plus de cent ans au Luxembourg ;
+- les biens culturels ayant séjourné depuis plus de cent ans au Luxembourg ;
 
-10. les archives privées au sens de la loi du 17 août 2018 relative à l’archivage ;
+- les archives privées au sens de la loi du 17 août 2018 relative à l’archivage ;
 
-11. la monnaie ou tout objet monétiforme issu de fouilles archéologiques sur le territoire du Grand-Duché de Luxembourg ;
+- la monnaie ou tout objet monétiforme issu de fouilles archéologiques sur le territoire du Grand-Duché de Luxembourg ;
 
-12. la monnaie frappée sur le territoire du Comté, du Duché ou du Grand-Duché de Luxembourg avant 1839 ;
+- la monnaie frappée sur le territoire du Comté, du Duché ou du Grand-Duché de Luxembourg avant 1839 ;
 
-13. la monnaie et le billet de banque émis par les autorités luxembourgeoises ou par une institution privée dont le siège est ou était sur le territoire du Grand-Duché de Luxembourg ;
+- la monnaie et le billet de banque émis par les autorités luxembourgeoises ou par une institution privée dont le siège est ou était sur le territoire du Grand-Duché de Luxembourg ;
 
-14. la monnaie ayant appartenu à une collection ou à un ensemble constitué sur le territoire du Grand-Duché de Luxembourg ;
+- la monnaie ayant appartenu à une collection ou à un ensemble constitué sur le territoire du Grand-Duché de Luxembourg ;
 
-15. la médaille réalisée soit par un artiste luxembourgeois soit à l’occasion d’un évènement au Luxembourg, soit décernée à une personne de nationalité luxembourgeoise ou résidant sur le territoire du Grand-Duché de Luxembourg ;
+- la médaille réalisée soit par un artiste luxembourgeois soit à l’occasion d’un évènement au Luxembourg, soit décernée à une personne de nationalité luxembourgeoise ou résidant sur le territoire du Grand-Duché de Luxembourg ;
 
-16. la médaille ayant appartenu à une collection constituée sur le territoire du Grand-Duché de Luxembourg ;
+- la médaille ayant appartenu à une collection constituée sur le territoire du Grand-Duché de Luxembourg ;
 
-17. la décoration officielle du Grand-Duché de Luxembourg ;
+- la décoration officielle du Grand-Duché de Luxembourg ;
 
-18. la médaille ou décoration décernée à une personnalité luxembourgeoise dans le cadre d’une fonction officielle, sauf celles qui continuent à appartenir aux États étrangers ;
+- la médaille ou décoration décernée à une personnalité luxembourgeoise dans le cadre d’une fonction officielle, sauf celles qui continuent à appartenir aux États étrangers ;
 
-19. les éléments mobiliers du patrimoine archéologique issus de fouilles ou découvertes isolées sur le territoire du Grand-Duché de Luxembourg, y compris les éléments paléontologique, minéralogique, géologique, scientifique et naturel.
+- les éléments mobiliers du patrimoine archéologique issus de fouilles ou découvertes isolées sur le territoire du Grand-Duché de Luxembourg, y compris les éléments paléontologique, minéralogique, géologique, scientifique et naturel.
 
 (2bis)
 
 Pour pouvoir être classés comme patrimoine culturel national, les biens culturels relevant des catégories prévues au paragraphe 2 doivent répondre aux critères cumulatifs suivants :
 
-1. Authenticité et intégrité : le bien culturel n’a subi que peu ou pas de modifications substantielles, c’est-à-dire qu’il est resté fidèle à ses origines et aux intentions de ses auteurs originaux et a gardé de manière significative ses éléments essentiels ;
+- Authenticité et intégrité : le bien culturel n’a subi que peu ou pas de modifications substantielles, c’est-à-dire qu’il est resté fidèle à ses origines et aux intentions de ses auteurs originaux et a gardé de manière significative ses éléments essentiels ;
 
-2. Exemplarité : le bien culturel représente de manière exceptionnelle ou emblématique un style artistique, une technique, une époque ou période historique ou une tradition culturelle ;
+- Exemplarité : le bien culturel représente de manière exceptionnelle ou emblématique un style artistique, une technique, une époque ou période historique ou une tradition culturelle ;
 
-3. Rareté : le bien culturel a été réalisé une seule fois ou en nombre restreint ou est devenu peu nombreux au fil du temps ;
+- Rareté : le bien culturel a été réalisé une seule fois ou en nombre restreint ou est devenu peu nombreux au fil du temps ;
 
-4. État de conservation : le bien culturel n’est pas dans un état de vétusté ou de détérioration tellement avancé qu’une restauration s’avèrerait excessivement onéreuse ou difficile.
+- État de conservation : le bien culturel n’est pas dans un état de vétusté ou de détérioration tellement avancé qu’une restauration s’avèrerait excessivement onéreuse ou difficile.
 
 (3)
 
@@ -894,15 +894,15 @@ La procédure de classement comme patrimoine culturel national d’un bien cultu
 
 Une demande de protection peut être adressée au ministre par :
 
-1. les propriétaires d’un bien culturel ;
+- les propriétaires d’un bien culturel ;
 
-2. une fondation ou une association sans but lucratif qui a pour objet social la sauvegarde du patrimoine ;
+- une fondation ou une association sans but lucratif qui a pour objet social la sauvegarde du patrimoine ;
 
-3. une commune ;
+- une commune ;
 
-4. tout particulier ;
+- tout particulier ;
 
-5. la commission.
+- la commission.
 
 Un règlement grand-ducal détermine les modalités de saisine et les documents à joindre à la demande de protection.
 
@@ -1033,13 +1033,13 @@ Des subventions peuvent être allouées à toute personne physique ou morale pou
 
 Les travaux éligibles peuvent être subventionnés jusqu’à 50 % des frais encourus. Le montant de la subvention est accordé selon les critères suivants :
 
-1. l’utilité des actes et travaux entrepris ou techniques choisies au regard de l’objectif de conservation du bien culturel ;
+- l’utilité des actes et travaux entrepris ou techniques choisies au regard de l’objectif de conservation du bien culturel ;
 
-2. la présentation ou non au public du bien culturel ;
+- la présentation ou non au public du bien culturel ;
 
-3. la cause ou l’origine de la nécessité des actes et travaux envisagés et s’ils sont la conséquence de la négligence du bénéficiaire ;
+- la cause ou l’origine de la nécessité des actes et travaux envisagés et s’ils sont la conséquence de la négligence du bénéficiaire ;
 
-4. les prix habituellement pratiqués pour ce type d’actes et travaux.
+- les prix habituellement pratiqués pour ce type d’actes et travaux.
 
 Les critères énumérés peuvent s’appliquer de manière cumulative.
 
@@ -1117,13 +1117,13 @@ Un bien culturel classé comme patrimoine culturel national peut, après avis de
 
 La procédure de déclassement peut être entamée à la demande :
 
-1. du ministre ;
+- du ministre ;
 
-2. des propriétaires ;
+- des propriétaires ;
 
-3. des communes ;
+- des communes ;
 
-4. de la commission.
+- de la commission.
 
 (3)
 
@@ -1146,15 +1146,15 @@ La procédure d’inscription à la liste des biens culturels d’intérêt patr
 
 Une demande d’inscription peut être adressée au ministre par :
 
-1. les propriétaires d’un bien culturel ;
+- les propriétaires d’un bien culturel ;
 
-2. une fondation ou une association sans but lucratif qui a pour objet social la sauvegarde du patrimoine ;
+- une fondation ou une association sans but lucratif qui a pour objet social la sauvegarde du patrimoine ;
 
-3. une commune ;
+- une commune ;
 
-4. tout particulier ;
+- tout particulier ;
 
-5. la commission.
+- la commission.
 
 Un règlement grand-ducal détermine les modalités de saisine et les documents à joindre à la demande.
 
@@ -1202,13 +1202,13 @@ Un bien culturel inscrit sur la liste peut en être retiré par arrêté du mini
 
 Le retrait de la liste peut être entamé à la demande :
 
-1. du ministre ;
+- du ministre ;
 
-2. des propriétaires ;
+- des propriétaires ;
 
-3. des communes ;
+- des communes ;
 
-4. de la commission.
+- de la commission.
 
 (9)
 
@@ -1227,7 +1227,7 @@ L’avis précise la date, l’heure et le lieu de la cession publique.
 
 (2)
 
-Au cas où l’État a connaissance que des biens culturels classés comme patrimoine culturel national ou pour lesquels une procédure de classement comme patrimoine culturel national a été entamée, ainsi que des biens culturels inscrits sur la liste des biens culturels d’intérêt patrimonial ou pour lesquels une procédure d’inscription a été entamée, sont mis en vente, l’État exerce, s’il l’estime nécessaire à la protection du patrimoine mobilier, un droit de préemption par l’effet duquel il se trouve subrogé à l’acheteur.
+Au cas où l’État a connaissance que des biens culturels classés comme patrimoine culturel national ou pour lesquels une procédure de classement comme patrimoine culturel national a été entamée , ainsi que des biens culturels inscrits sur la liste des biens culturels d’intérêt patrimonial ou pour lesquels une procédure d’inscription a été entamée, sont mis en vente, l’État exerce, s’il l’estime nécessaire à la protection du patrimoine mobilier, un droit de préemption par l’effet duquel il se trouve subrogé à l’acheteur.
 
 La décision de l’État d’user de son droit de préemption intervient, sous peine de nullité, auprès de l’acquéreur dans un délai de quinze jours à compter de la cession.
 
@@ -1238,21 +1238,21 @@ La décision de l’État d’user de son droit de préemption intervient, sous 
 
 Un bien culturel ne peut faire l’objet d’une cession que si la personne qui cède ce bien culturel a vérifié que celui-ci ne correspond pas à un des cas de figure suivants :
 
-1. avoir été illégalement soustrait à son propriétaire ;
+- avoir été illégalement soustrait à son propriétaire ;
 
-2. avoir été introduit ou importé illégalement ;
+- avoir été introduit ou importé illégalement ;
 
-3. être issu de fouilles illégales ;
+- être issu de fouilles illégales ;
 
-4. avoir été exporté illicitement du territoire d’un État en vertu des dispositions applicables dans l’État de provenance de ce bien.
+- avoir été exporté illicitement du territoire d’un État en vertu des dispositions applicables dans l’État de provenance de ce bien.
 
 (2)
 
 Un bien culturel est présumé tomber dans un des cas de figure énumérés au paragraphe 1er si, lors d’une transaction antérieure du bien culturel :
 
-1. un prix anormalement bas a été exigé sans autre justification ; ou
+- un prix anormalement bas a été exigé sans autre justification ; ou
 
-2. le vendeur a exigé un paiement en espèces dans le cas d’un prix d’achat supérieur à 5 000 euros.
+- le vendeur a exigé un paiement en espèces dans le cas d’un prix d’achat supérieur à 5 000 euros.
 
 (3)
 
@@ -1263,15 +1263,15 @@ L’obligation de vérification visée au paragraphe 1er comprend l’examen d�
 
 Les personnes dont l’activité professionnelle comprend le commerce de biens culturels, y compris les personnes pratiquant la vente aux enchères sont, en plus des vérifications de l’article 64, tenues pour des biens culturels qu’ils évaluent à une valeur supérieure à 2 500 euros :
 
-1. d’informer l’acquéreur sur les règles d’importation et d’exportation en vigueur au Grand-Duché de Luxembourg ;
+- d’informer l’acquéreur sur les règles d’importation et d’exportation en vigueur au Grand-Duché de Luxembourg ;
 
-2. d’établir l’identité du propriétaire et du vendeur du bien culturel ;
+- d’établir l’identité du propriétaire et du vendeur du bien culturel ;
 
-3. de mettre en œuvre tous les moyens à leur disposition pour s’assurer de la légalité de la provenance d’un bien culturel avant de proposer ce bien à la cession, y compris la vérification d’un éventuel certificat d’exportation délivré par l’État de provenance et la consultation des registres de biens volés ou exportés illicitement ou des autres registres publics ;
+- de mettre en œuvre tous les moyens à leur disposition pour s’assurer de la légalité de la provenance d’un bien culturel avant de proposer ce bien à la cession, y compris la vérification d’un éventuel certificat d’exportation délivré par l’État de provenance et la consultation des registres de biens volés ou exportés illicitement ou des autres registres publics ;
 
-4. de tenir un registre des acquisitions et cessions de biens culturels mentionnant l’origine du bien culturel, le nom et les coordonnées du fournisseur ou vendeur et de l’acquéreur et le prix d’achat ou de vente du bien culturel ;
+- de tenir un registre des acquisitions et cessions de biens culturels mentionnant l’origine du bien culturel, le nom et les coordonnées du fournisseur ou vendeur et de l’acquéreur et le prix d’achat ou de vente du bien culturel ;
 
-5. de fournir au ministre, sur sa demande, tous les renseignements nécessaires concernant l’accomplissement du devoir de diligence.
+- de fournir au ministre, sur sa demande, tous les renseignements nécessaires concernant l’accomplissement du devoir de diligence.
 
 <a id="art-66"></a>
 ## Art. 66.
@@ -1293,6 +1293,8 @@ Pour toutes les questions relevant du transfert, de l’introduction, de l’imp
 
 ###### Sous-Section 1 Transfert de biens culturels
 
+Transfert de biens culturels vers un autre État membre de l’Union européenne
+
 <a id="art-68"></a>
 ## Art. 68.
 
@@ -1300,9 +1302,9 @@ Le transfert définitif vers un autre État membre de l’Union européenne d’
 
 Le certificat de transfert définitif est refusé :
 
-1. aux biens culturels classés comme patrimoine culturel national ou pour lesquels une procédure de classement a été entamée et aux biens culturels inscrits sur la liste des biens culturels d’intérêt patrimonial ou pour lesquels une procédure d’inscription a été entamée ;
+- aux biens culturels classés comme patrimoine culturel national ou pour lesquels une procédure de classement a été entamée et aux biens culturels inscrits sur la liste des biens culturels d’intérêt patrimonial ou pour lesquels une procédure d’inscription a été entamée ;
 
-2. aux biens culturels illicitement importés.
+- aux biens culturels illicitement importés.
 
 Aucune indemnité n’est due du fait du refus de délivrance du certificat.
 
@@ -1327,6 +1329,8 @@ L’autorisation du ministre indique la durée de validité et peut définir des
 
 Toute personne qui sort à titre temporaire un bien culturel classé ou transfère à titre définitif du Grand- Duché de Luxembourg un bien culturel entrant dans une des catégories visées par l’article 44, paragraphe 2, et remplissant les conditions de valeur et d’ancienneté définies à l’annexe I doit être en mesure de présenter l’autorisation de sortie temporaire ou le certificat de transfert obtenue pour ce bien culturel.
 
+Transfert de biens culturels vers le Grand-Duché de Luxembourg depuis un autre État membre de l’Union européenne
+
 <a id="art-72"></a>
 ## Art. 72.
 
@@ -1340,6 +1344,8 @@ Au moment du transfert de biens culturels sur le territoire du Grand-Duché de L
 
 ###### Sous-Section 2 Introduction, importation et exportation de biens culturels
 
+Introduction et importation de biens culturels depuis un pays tiers
+
 <a id="art-73"></a>
 ## Art. 73.
 
@@ -1352,11 +1358,11 @@ Le ministre est l’autorité compétente en vertu de l’article 2, point 5°, 
 
 Les fonctionnaires de l’Administration des douanes et accises peuvent, pour une période de 90 jours suspendre la mainlevée de biens culturels visés par le règlement (UE) 2019/880, lorsqu’ils estiment :
 
-1. qu’il existe des motifs raisonnables que les biens culturels ont été exportés d’un pays tiers de manière illicite ou acquis de manière illicite ;
+- qu’il existe des motifs raisonnables que les biens culturels ont été exportés d’un pays tiers de manière illicite ou acquis de manière illicite ;
 
-2. que la licence d’importation visée à l’article 4 du règlement (UE) 2019/880 n’est pas présentée ;
+- que la licence d’importation visée à l’article 4 du règlement (UE) 2019/880 n’est pas présentée ;
 
-3. que la déclaration de l’importateur visée à l’article 5 du règlement (UE) 2019/880 n’est pas présentée.
+- que la déclaration de l’importateur visée à l’article 5 du règlement (UE) 2019/880 n’est pas présentée.
 
 Les fonctionnaires de l’Administration des douanes et accises avertissent sans délai le ministre.
 
@@ -1373,6 +1379,8 @@ En cas de refus de la demande de licence d’importation, le ministre en informe
 (4)
 
 Si aucune décision n’est prise dans le délai visé au paragraphe 1er, les biens culturels sont réexportés au pays d’exportation.
+
+Exportation de biens culturels vers un pays tiers
 
 <a id="art-75"></a>
 ## Art. 75.
@@ -1409,25 +1417,25 @@ Si aucune décision n’est prise dans le délai visé au paragraphe 1er, l’ex
 
 Aux fins de la présente sous-section, on entend par :
 
-1. « bien culturel » : un bien classé ou défini par un État membre, avant ou après avoir quitté illicitement le territoire de cet État membre, comme faisant partie des « trésors nationaux ayant une valeur artistique, historique ou archéologique » conformément à la législation ou aux procédures administratives nationales au sens de l’article 32 du traité sur le fonctionnement de l’Union européenne ;
+- « bien culturel » : un bien classé ou défini par un État membre, avant ou après avoir quitté illicitement le territoire de cet État membre, comme faisant partie des « trésors nationaux ayant une valeur artistique, historique ou archéologique » conformément à la législation ou aux procédures administratives nationales au sens de l’article 32 du traité sur le fonctionnement de l’Union européenne ;
 
-2. « bien ayant quitté illicitement le territoire d’un État membre » :
+- « bien ayant quitté illicitement le territoire d’un État membre » :
 
-1. un bien ayant quitté le territoire d’un État membre en violation de la législation de cet État membre en matière de protection des trésors nationaux ou en violation du règlement CE n° 116/2009 ;
+  - un bien ayant quitté le territoire d’un État membre en violation de la législation de cet État membre en matière de protection des trésors nationaux ou en violation du règlement CE n° 116/2009 ;
 
-2. un bien non restitué à la fin d’une période de sortie temporaire légale ou pour lequel l’une des autres conditions de cette sortie temporaire a été violée ;
+  - un bien non restitué à la fin d’une période de sortie temporaire légale ou pour lequel l’une des autres conditions de cette sortie temporaire a été violée ;
 
-3. « État membre requérant » : l’État membre de l’Union européenne dont le bien culturel a quitté illicitement le territoire ;
+- « État membre requérant » : l’État membre de l’Union européenne dont le bien culturel a quitté illicitement le territoire ;
 
-4. « État membre requis » : État membre de l’Union européenne sur le territoire duquel se trouve un bien culturel ayant quitté illicitement le territoire d’un autre État membre de l’Union européenne ;
+- « État membre requis » : État membre de l’Union européenne sur le territoire duquel se trouve un bien culturel ayant quitté illicitement le territoire d’un autre État membre de l’Union européenne ;
 
-5. « restitution » : le retour matériel du bien culturel sur le territoire de l’État membre requérant ;
+- « restitution » : le retour matériel du bien culturel sur le territoire de l’État membre requérant ;
 
-6. « possesseur » : la personne qui a la détention matérielle du bien culturel pour son propre compte ;
+- « possesseur » : la personne qui a la détention matérielle du bien culturel pour son propre compte ;
 
-7. « détenteur » : la personne qui a la détention matérielle du bien culturel pour compte d’autrui ;
+- « détenteur » : la personne qui a la détention matérielle du bien culturel pour compte d’autrui ;
 
-8. « collections publiques » : les collections, définies comme publiques conformément à la législation d’un État membre, qui sont la propriété dudit État membre, d’une autorité locale ou régionale dans ledit État membre, ou d’une institution située sur le territoire dudit État membre, à condition qu’une telle institution soit la propriété de cet État membre ou d’une autorité locale ou régionale, ou qu’elle soit financée de façon significative par cet État membre ou cette autorité locale ou régionale.
+- « collections publiques » : les collections, définies comme publiques conformément à la législation d’un État membre, qui sont la propriété dudit État membre, d’une autorité locale ou régionale dans ledit État membre, ou d’une institution située sur le territoire dudit État membre, à condition qu’une telle institution soit la propriété de cet État membre ou d’une autorité locale ou régionale, ou qu’elle soit financée de façon significative par cet État membre ou cette autorité locale ou régionale.
 
 <a id="art-78"></a>
 ## Art. 78.
@@ -1444,17 +1452,17 @@ Le ministre est l’autorité centrale compétente pour exercer les fonctions pr
 
 Le ministre coopère avec les autorités centrales des autres États membres et favorise la consultation entre les autorités compétentes des États membres. Elle assure notamment les tâches suivantes :
 
-1. rechercher, à la demande de l’État membre requérant, un bien culturel déterminé ayant quitté illicitement le territoire et l’identité du possesseur ou détenteur. Cette demande comprend toutes les informations nécessaires pour faciliter cette recherche, notamment sur la localisation effective ou présumée du bien ;
+- rechercher, à la demande de l’État membre requérant, un bien culturel déterminé ayant quitté illicitement le territoire et l’identité du possesseur ou détenteur. Cette demande comprend toutes les informations nécessaires pour faciliter cette recherche, notamment sur la localisation effective ou présumée du bien ;
 
-2. notifier aux États membres concernés, la découverte de biens culturels sur son territoire et s’il y a des motifs raisonnables de présumer que lesdits biens ont quitté illicitement le territoire d’un autre État membre de la Communauté européenne ;
+- notifier aux États membres concernés, la découverte de biens culturels sur son territoire et s’il y a des motifs raisonnables de présumer que lesdits biens ont quitté illicitement le territoire d’un autre État membre de la Communauté européenne ;
 
-3. permettre aux autorités compétentes de l’État membre requérant de vérifier si le bien en question constitue un bien culturel, à condition que la vérification soit effectuée au cours des six mois suivant la notification prévue au point 2. Si cette vérification n’est pas effectuée dans le délai prévu, les points 4 et 5 ne s’appliquent plus ;
+- permettre aux autorités compétentes de l’État membre requérant de vérifier si le bien en question constitue un bien culturel, à condition que la vérification soit effectuée au cours des six mois suivant la notification prévue au point 2. Si cette vérification n’est pas effectuée dans le délai prévu, les points 4 et 5 ne s’appliquent plus ;
 
-4. prendre, en coopération avec l’État membre concerné, toutes les mesures nécessaires à la conservation matérielle du bien culturel ;
+- prendre, en coopération avec l’État membre concerné, toutes les mesures nécessaires à la conservation matérielle du bien culturel ;
 
-5. prévenir, par des mesures provisoires nécessaires, que le bien culturel soit soustrait à la procédure de restitution ;
+- prévenir, par des mesures provisoires nécessaires, que le bien culturel soit soustrait à la procédure de restitution ;
 
-6. remplir le rôle d’intermédiaire entre le possesseur ou le détenteur et l’État membre requérant pour ce qui concerne la restitution. À cet effet, le ministre peut, sans préjudice de l’article 84, faciliter dans un premier temps la mise en œuvre d’une procédure d’arbitrage, conformément à la législation luxembourgeoise en vigueur, et à condition que l’État membre requérant et le possesseur ou le détenteur donnent formellement leur accord. Les autorités centrales des États membres de l’Union européenne coopèrent et se consultent en utilisant un module du système d’information du marché intérieur, ci-après « IMI », établi par le règlement (UE) n° 1024/2012 du Parlement européen et du Conseil du 25 octobre 2012 concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur et abrogeant la décision 2008/49/CE de la Commission (« règlement IMI »).
+- remplir le rôle d’intermédiaire entre le possesseur ou le détenteur et l’État membre requérant pour ce qui concerne la restitution. À cet effet, le ministre peut, sans préjudice de l’article 84, faciliter dans un premier temps la mise en œuvre d’une procédure d’arbitrage, conformément à la législation luxembourgeoise en vigueur, et à condition que l’État membre requérant et le possesseur ou le détenteur donnent formellement leur accord. Les autorités centrales des États membres de l’Union européenne coopèrent et se consultent en utilisant un module du système d’information du marché intérieur, ci-après « IMI », établi par le règlement (UE) n° 1024/2012 du Parlement européen et du Conseil du 25 octobre 2012 concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur et abrogeant la décision 2008/49/CE de la Commission (« règlement IMI »).
 
 <a id="art-81"></a>
 ## Art. 81.
@@ -1468,9 +1476,9 @@ Afin de permettre la vérification prévue à l’article 80, point 1, ils sont 
 
 Le ministre peut assigner le possesseur ou détenteur d’un bien culturel réclamé par un État à comparaître devant le président du tribunal d’arrondissement siégeant comme juge des référés, compétent suivant le lieu où le bien a été trouvé, aux fins
 
-1. d’ordonner toute mesure nécessaire en vue d’assurer la conservation matérielle de ce bien et d’éviter qu’il soit soustrait à la procédure de restitution et, le cas échéant,
+- d’ordonner toute mesure nécessaire en vue d’assurer la conservation matérielle de ce bien et d’éviter qu’il soit soustrait à la procédure de restitution et, le cas échéant,
 
-2. d’interdire au possesseur ou détenteur de ce bien de le déplacer ou d’en disposer et de désigner un gardien pour la durée de la procédure en restitution.
+- d’interdire au possesseur ou détenteur de ce bien de le déplacer ou d’en disposer et de désigner un gardien pour la durée de la procédure en restitution.
 
 <a id="art-83"></a>
 ## Art. 83.
@@ -1481,9 +1489,9 @@ L’acte introductif de l’action en restitution précise « sous peine de null
 
 Pour être recevable, l’acte introductif de l’action en restitution est accompagné :
 
-1. d’un document décrivant le bien faisant l’objet de la demande et déclarant que celui-ci est un bien culturel,
+- d’un document décrivant le bien faisant l’objet de la demande et déclarant que celui-ci est un bien culturel,
 
-2. d’une déclaration des autorités compétentes de l’État membre requérant selon laquelle le bien culturel a quitté illicitement son territoire.
+- d’une déclaration des autorités compétentes de l’État membre requérant selon laquelle le bien culturel a quitté illicitement son territoire.
 
 <a id="art-84"></a>
 ## Art. 84.
@@ -1580,11 +1588,11 @@ Un bien culturel qui a été importé, après le 13 juillet 1961 et ce en applic
 
 Une garantie d’État peut être accordée par le ministre sur avis du ministre ayant les Finances dans ses attributions :
 
-1. aux instituts culturels de l’État tels que définis par la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État ;
+- aux instituts culturels de l’État tels que définis par la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État ;
 
-2. aux établissements publics de droit luxembourgeois à vocation culturelle ; ainsi que,
+- aux établissements publics de droit luxembourgeois à vocation culturelle ; ainsi que,
 
-3. aux personnes morales de droit privé établies sur le territoire du Grand-Duché de Luxembourg qui jouent un rôle porteur dans le domaine culturel et bénéficient à ce titre d’un soutien financier annuel de la part de l’État (ci-après individuellement « emprunteur » ou « bénéficiaire de la garantie »),
+- aux personnes morales de droit privé établies sur le territoire du Grand-Duché de Luxembourg qui jouent un rôle porteur dans le domaine culturel et bénéficient à ce titre d’un soutien financier annuel de la part de l’État (ci-après individuellement « emprunteur » ou « bénéficiaire de la garantie »),
 
 pour la responsabilité qu’ils encourent dans le cadre de leurs contrats de prêt à usage de biens culturels à des fins d’exposition, d’expertise, de recherche ou de restauration.
 
@@ -1612,11 +1620,11 @@ La demande de garantie d’État est adressée au ministre au plus tard deux moi
 
 La demande de garantie d’État contient :
 
-1. une description du projet et des modalités d’organisation d’exposition, de restauration, d’expertise des biens culturels ;
+- une description du projet et des modalités d’organisation d’exposition, de restauration, d’expertise des biens culturels ;
 
-2. une copie du contrat de prêt ;
+- une copie du contrat de prêt ;
 
-3. la liste des biens culturels faisant l’objet du contrat de prêt ainsi que leur prix ou valeur respectifs et la valeur d’assurance agréée par le propriétaire et le bénéficiaire de la garantie des biens culturels.
+- la liste des biens culturels faisant l’objet du contrat de prêt ainsi que leur prix ou valeur respectifs et la valeur d’assurance agréée par le propriétaire et le bénéficiaire de la garantie des biens culturels.
 
 <a id="art-99"></a>
 ## Art. 99.
@@ -1625,9 +1633,9 @@ La garantie d’État est accordée par arrêté du ministre sur avis du ministr
 
 La commission de circulation des biens culturels instituée à l’article 110 est entendue en son avis lorsque :
 
-1. les biens culturels faisant l’objet de la garantie d’État ont une valeur supérieure à 100 000 euros, ce montant étant établi sur base de la valeur 814,40 de la cote d’application de l’échelle mobile des salaires et variant en fonction de l’évolution de celle-ci, et que le bénéficiaire de la garantie est une entité au sens de l’article 96, paragraphe 1 er , alinéa 1 er , point 2° ou 3° ;
+- les biens culturels faisant l’objet de la garantie d’État ont une valeur supérieure à 100 000 euros, ce montant étant établi sur base de la valeur 814,40 de la cote d’application de l’échelle mobile des salaires et variant en fonction de l’évolution de celle-ci, et que le bénéficiaire de la garantie est une entité au sens de l’article 96, paragraphe 1 er , alinéa 1 er , point 2° ou 3° ;
 
-2. le bénéficiaire de la garantie est une entité au sens de l’article 96, paragraphe 1 er , alinéa 2 .
+- le bénéficiaire de la garantie est une entité au sens de l’article 96, paragraphe 1 er , alinéa 2 .
 
 L’avis de la commission de circulation des biens culturels est produit dans un délai d’un mois à partir de la réception de la demande de garantie d’État. Passé ce délai la demande de garantie est censée être agréée.
 
@@ -1645,11 +1653,11 @@ La garantie d’État devient caduque si le sinistre susceptible d’engager la 
 
 Une garantie de restitution peut être délivrée par le ministre sur avis du ministre ayant les Affaires étrangères dans ses attributions à des entités étatiques étrangères dans le cadre de contrats de prêt à usage de biens culturels en provenance de l’étranger et prêtés à des fins d’exposition, d’expertise, de recherche ou de restauration sur le territoire luxembourgeois :
 
-1. aux instituts culturels de l’État tels que définis par la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État ;
+- aux instituts culturels de l’État tels que définis par la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État ;
 
-2. aux établissements publics à vocation culturelle ; ou
+- aux établissements publics à vocation culturelle ; ou
 
-3. aux personnes morales de droit privé qui jouent un rôle porteur dans le domaine culturel et bénéficient à ce titre d’un soutien financier annuel de la part de l’État.
+- aux personnes morales de droit privé qui jouent un rôle porteur dans le domaine culturel et bénéficient à ce titre d’un soutien financier annuel de la part de l’État.
 
 <a id="art-102"></a>
 ## Art. 102.
@@ -1662,13 +1670,13 @@ La demande de garantie de restitution est adressée au ministre au plus tard tro
 
 La demande de garantie de restitution contient :
 
-1. une description du projet et des modalités d’organisation d’exposition, de restauration, d’expertise des biens culturels prêtés ;
+- une description du projet et des modalités d’organisation d’exposition, de restauration, d’expertise des biens culturels prêtés ;
 
-2. une copie du projet de contrat de prêt à conclure avec le prêteur ;
+- une copie du projet de contrat de prêt à conclure avec le prêteur ;
 
-3. la liste détaillée des biens culturels prêtés avec leur description précise et leur provenance ;
+- la liste détaillée des biens culturels prêtés avec leur description précise et leur provenance ;
 
-4. l’identité du bénéficiaire de la garantie de restitution.
+- l’identité du bénéficiaire de la garantie de restitution.
 
 La demande est publiée par le ministre par tous les moyens appropriés. La publication contient une description sommaire du projet à la base de la demande et une description précise du bien culturel et de sa provenance.
 
@@ -1680,11 +1688,11 @@ La demande de garantie de restitution adressée au ministre est immédiatement t
 
 La garantie de restitution est délivrée par arrêté du ministre sur avis du ministre ayant les Affaires étrangères dans ses attributions aux conditions suivantes :
 
-1. personne n’a fait opposition en se prévalant d’un titre de propriété sur le bien culturel dans le mois qui suit la publication de la demande ;
+- personne n’a fait opposition en se prévalant d’un titre de propriété sur le bien culturel dans le mois qui suit la publication de la demande ;
 
-2. l’importation du bien culturel n’est pas illicite ;
+- l’importation du bien culturel n’est pas illicite ;
 
-3. la durée de la garantie ne peut être supérieure à deux ans.
+- la durée de la garantie ne peut être supérieure à deux ans.
 
 La garantie de restitution fait l’objet d’une publication au Journal officiel du Grand-Duché de Luxembourg.
 
@@ -1693,13 +1701,13 @@ La garantie de restitution fait l’objet d’une publication au Journal officie
 
 Pendant toute la durée de la garantie de restitution, la garantie a pour effet que :
 
-1. les actions en justice des tiers à l’égard des biens culturels sont irrecevables ;
+- les actions en justice des tiers à l’égard des biens culturels sont irrecevables ;
 
-2. aucune procédure de classement des biens culturels ne peut être entamée ;
+- aucune procédure de classement des biens culturels ne peut être entamée ;
 
-3. les demandes de mesures conservatoires ainsi que les demandes de saisies des biens culturels sont irrecevables ;
+- les demandes de mesures conservatoires ainsi que les demandes de saisies des biens culturels sont irrecevables ;
 
-4. le retour des biens culturels prêtés n’est pas soumis aux dispositions relatives à l’exportation des biens culturels.
+- le retour des biens culturels prêtés n’est pas soumis aux dispositions relatives à l’exportation des biens culturels.
 
 La garantie de restitution ne peut pas être annulée ni retirée.
 
@@ -1724,25 +1732,25 @@ L’inscription sur l’inventaire national du patrimoine immatériel du Grand-D
 
 Pour être inscrit à l’inventaire national du patrimoine immatériel, l’élément doit répondre aux critères suivants :
 
-1. l’élément est vivant et de nature à faire partie des pratiques, représentations, expressions, connaissances et savoir-faire – ainsi que des instruments, objets, artefacts et espaces culturels qui leur sont associés – que le groupe de personnes ou l’association sans but lucratif qui a pour objet la sauvegarde du patrimoine immatériel reconnaît comme faisant partie de son patrimoine immatériel, et que le demandeur à l’inscription à l’inventaire national du patrimoine immatériel est effectivement mandaté et soutenu par un ensemble représentatif de ces personnes ;
+- l’élément est vivant et de nature à faire partie des pratiques, représentations, expressions, connaissances et savoir-faire – ainsi que des instruments, objets, artefacts et espaces culturels qui leur sont associés – que le groupe de personnes ou l’association sans but lucratif qui a pour objet la sauvegarde du patrimoine immatériel reconnaît comme faisant partie de son patrimoine immatériel, et que le demandeur à l’inscription à l’inventaire national du patrimoine immatériel est effectivement mandaté et soutenu par un ensemble représentatif de ces personnes ;
 
-2. l’élément est transmis de génération en génération sur le territoire du Grand-Duché de Luxembourg et recréé en permanence par le groupe de personnes demandeur en fonction de leur milieu, de leur interaction avec la nature et de leur histoire ;
+- l’élément est transmis de génération en génération sur le territoire du Grand-Duché de Luxembourg et recréé en permanence par le groupe de personnes demandeur en fonction de leur milieu, de leur interaction avec la nature et de leur histoire ;
 
-3. l’élément procure au groupe de personnes demandeur un sentiment d’identité et de continuité ;
+- l’élément procure au groupe de personnes demandeur un sentiment d’identité et de continuité ;
 
-4. l’élément contribue à promouvoir le respect de la diversité culturelle et la créativité humaine ;
+- l’élément contribue à promouvoir le respect de la diversité culturelle et la créativité humaine ;
 
-5. l’élément est conforme aux instruments internationaux existants relatifs aux droits de l’homme ainsi qu’à l’exigence du respect mutuel entre communautés, groupes et individus, et d’un développement durable ;
+- l’élément est conforme aux instruments internationaux existants relatifs aux droits de l’homme ainsi qu’à l’exigence du respect mutuel entre communautés, groupes et individus, et d’un développement durable ;
 
-6. l’élément fait l’objet d’un plan de sauvegarde établi par le demandeur.
+- l’élément fait l’objet d’un plan de sauvegarde établi par le demandeur.
 
 (4)
 
 Un élément inscrit à l’inventaire national du patrimoine immatériel peut, après avis de la commission, être rayé de l’inventaire par décision du ministre :
 
-1. de sa propre initiative, s’il constate que l’élément ne répond plus aux critères de recevabilité prévus au paragraphe 3, alinéa 2, pour l’inscription sur l’inventaire, le groupe de personnes ou l’association sans but lucratif qui a pour objet la sauvegarde du patrimoine immatériel, ayant demandé l’inscription sur l’inventaire national du patrimoine immatériel demandés en leur avis ;
+- de sa propre initiative, s’il constate que l’élément ne répond plus aux critères de recevabilité prévus au paragraphe 3, alinéa 2, pour l’inscription sur l’inventaire, le groupe de personnes ou l’association sans but lucratif qui a pour objet la sauvegarde du patrimoine immatériel, ayant demandé l’inscription sur l’inventaire national du patrimoine immatériel demandés en leur avis ;
 
-2. à la demande écrite, motivée et dûment représentative d’un groupe de personnes ou de l’association sans but lucratif qui a pour objet la sauvegarde du patrimoine immatériel et ayant demandé l’inscription sur l’inventaire national du patrimoine immatériel. Les avis de la commission et du groupe de personnes ou de l’association sans but lucratif qui a pour objet la sauvegarde du patrimoine immatériel et ayant demandé l’inscription sur l’inventaire national du patrimoine immatériel sont produits dans un délai de trois mois à partir de la notification de l’intention de radiation de l’inventaire du patrimoine immatériel par le ministre. Passé ce délai, l’intention est censée être agréée.
+- à la demande écrite, motivée et dûment représentative d’un groupe de personnes ou de l’association sans but lucratif qui a pour objet la sauvegarde du patrimoine immatériel et ayant demandé l’inscription sur l’inventaire national du patrimoine immatériel. Les avis de la commission et du groupe de personnes ou de l’association sans but lucratif qui a pour objet la sauvegarde du patrimoine immatériel et ayant demandé l’inscription sur l’inventaire national du patrimoine immatériel sont produits dans un délai de trois mois à partir de la notification de l’intention de radiation de l’inventaire du patrimoine immatériel par le ministre. Passé ce délai, l’intention est censée être agréée.
 
 (5)
 
@@ -1757,20 +1765,20 @@ L’inventaire du patrimoine immatériel est mis à jour après chaque nouvelle 
 
 Le ministre prend toute mesure propre à assurer la sauvegarde, la reconnaissance, le respect et la mise en valeur du patrimoine immatériel dans la société, en particulier grâce à :
 
-1. des programmes éducatifs, de sensibilisation et de diffusion d’informations à l’intention du public, notamment des jeunes ;
+- des programmes éducatifs, de sensibilisation et de diffusion d’informations à l’intention du public, notamment des jeunes ;
 
-2. des programmes éducatifs et de formation spécifiques au sein des communautés et des groupes concernés ;
+- des programmes éducatifs et de formation spécifiques au sein des communautés et des groupes concernés ;
 
-3. des activités de renforcement des capacités en matière de sauvegarde du patrimoine culturel immatériel et en particulier de gestion et de recherche scientifique ; et
+- des activités de renforcement des capacités en matière de sauvegarde du patrimoine culturel immatériel et en particulier de gestion et de recherche scientifique ; et
 
-4. des moyens non formels de transmission des savoirs.
+- des moyens non formels de transmission des savoirs.
 
 #### Chapitre 6 Autorisations et voies de recours judiciaires
 
 <a id="art-106"></a>
 ## Art. 106.
 
-L’autorisation prévue aux articles 10, 19, 23, 39, 46, 60, 62bis et 131 est accordée par le président du tribunal d’arrondissement qui est saisi par simple requête déposée au greffe. Les parties sont convoquées par le greffe par lettre recommandée. Une copie de la requête est jointe en tant qu’annexe à la convocation adressée au propriétaire. La convocation contient une reproduction de l’article 80 du Nouveau Code de procédure civile.
+L’autorisation prévue aux articles 10, 19, 23, 39, 46, 60 , 62bis et 131 est accordée par le président du tribunal d’arrondissement qui est saisi par simple requête déposée au greffe. Les parties sont convoquées par le greffe par lettre recommandée. Une copie de la requête est jointe en tant qu’annexe à la convocation adressée au propriétaire. La convocation contient une reproduction de l’article 80 du Nouveau Code de procédure civile.
 
 L’ordonnance peut être frappée d’appel dans un délai de quinze jours à partir de la notification.
 
@@ -1823,24 +1831,24 @@ Il est institué un fonds spécial dénommé « Fonds pour le patrimoine archite
 
 Le Fonds pour le patrimoine architectural a pour objet de contribuer par la participation financière à :
 
-1. la protection et la conservation des éléments du patrimoine architectural ;
+- la protection et la conservation des éléments du patrimoine architectural ;
 
-2. la valorisation et la sensibilisation quant aux éléments du patrimoine architectural.
+- la valorisation et la sensibilisation quant aux éléments du patrimoine architectural.
 
 <a id="art-112"></a>
 ## Art. 112.
 
 Le ministre est autorisé à y imputer :
 
-1. les dépenses en relation avec l’acquisition de biens immeubles du patrimoine architectural ;
+- les dépenses en relation avec l’acquisition de biens immeubles du patrimoine architectural ;
 
-2. les dépenses d’investissement à réaliser par l’État dans l’intérêt de la conservation des biens immeubles du patrimoine architectural appartenant à l’État ;
+- les dépenses d’investissement à réaliser par l’État dans l’intérêt de la conservation des biens immeubles du patrimoine architectural appartenant à l’État ;
 
-3. les dépenses d’investissement et d’acquisition à réaliser par l’État dans l’intérêt de la conservation des biens mobiliers appartenant au patrimoine industriel et religieux, ce dernier devant meubler les édifices religieux.
+- les dépenses d’investissement et d’acquisition à réaliser par l’État dans l’intérêt de la conservation des biens mobiliers appartenant au patrimoine industriel et religieux, ce dernier devant meubler les édifices religieux.
 
-4. les subventions en capital allouées par l’État conformément aux articles 34 à 36 à toute personne morale ou physique qui procède comme propriétaire ou maître d’ouvrage à la conservation des biens immeubles classés ou pour lesquels une procédure de classement a été entamée ou encore des biens immeubles faisant partie d’un secteur protégé d’intérêt national ;
+- les subventions en capital allouées par l’État conformément aux articles 34 à 36 à toute personne morale ou physique qui procède comme propriétaire ou maître d’ouvrage à la conservation des biens immeubles classés ou pour lesquels une procédure de classement a été entamée ou encore des biens immeubles faisant partie d’un secteur protégé d’intérêt national ;
 
-5. les subventions en capital allouées par l’État à toute personne morale ou physique qui procède comme propriétaire ou maître d’ouvrage à la conservation des biens immeubles qui bénéficient d’une protection communale. On entend par mesure de protection communale le fait de faire figurer un bien immeuble en tant que bâtiment à conserver dans un secteur protégé d’intérêt communal par le plan d’aménagement général d’une commune, ceci en vertu des dispositions de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain et de ses règlements grand-ducaux d’exécution.
+- les subventions en capital allouées par l’État à toute personne morale ou physique qui procède comme propriétaire ou maître d’ouvrage à la conservation des biens immeubles qui bénéficient d’une protection communale. On entend par mesure de protection communale le fait de faire figurer un bien immeuble en tant que bâtiment à conserver dans un secteur protégé d’intérêt communal par le plan d’aménagement général d’une commune, ceci en vertu des dispositions de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain et de ses règlements grand-ducaux d’exécution.
 
 <a id="art-113"></a>
 ## Art. 113.
@@ -1849,13 +1857,13 @@ Le ministre est autorisé à y imputer :
 
 Le Fonds pour le patrimoine architectural est géré par l’Institut national pour le patrimoine architectural qui a pour mission :
 
-1. d’établir une planification pluriannuelle des dépenses du Fonds pour le patrimoine architectural ;
+- d’établir une planification pluriannuelle des dépenses du Fonds pour le patrimoine architectural ;
 
-2. d’ajuster le rythme des dépenses du Fonds pour le patrimoine architectural aux disponibilités financières de ce fonds ;
+- d’ajuster le rythme des dépenses du Fonds pour le patrimoine architectural aux disponibilités financières de ce fonds ;
 
-3. d’assurer la maîtrise d’ouvrage des projets d’investissement réalisés directement par l’État dans l’intérêt des biens dont il est propriétaire ;
+- d’assurer la maîtrise d’ouvrage des projets d’investissement réalisés directement par l’État dans l’intérêt des biens dont il est propriétaire ;
 
-4. de conseiller les maîtres d’ouvrage de projets de restauration qui ne sont pas directement effectués par l’État.
+- de conseiller les maîtres d’ouvrage de projets de restauration qui ne sont pas directement effectués par l’État.
 
 (2)
 
@@ -1911,87 +1919,87 @@ L’article 458 du Code pénal est applicable aux agents visés au paragraphe 4.
 
 Sans préjudice des peines prévues par d’autres dispositions légales, est punie d’une amende de 500 à 1 000 000 euros :
 
-1. toute personne qui par infraction à l’article 4, paragraphe 1 er , alinéa 2, planifie des travaux de construction, de démolition ou de remblai et de déblai sur un terrain situé dans la zone d’observation archéologique sans les soumettre au ministre à des fins d’évaluation au plus tard au moment de l’introduction de la demande de l’autorisation de construire ou de démolir ;
+- toute personne qui par infraction à l’article 4, paragraphe 1 er , alinéa 2, planifie des travaux de construction, de démolition ou de remblai et de déblai sur un terrain situé dans la zone d’observation archéologique sans les soumettre au ministre à des fins d’évaluation au plus tard au moment de l’introduction de la demande de l’autorisation de construire ou de démolir ;
 
-2. toute personne qui par infraction à l’article 9, paragraphe 1 er , alinéa 1 er , effectue des opérations d’archéologie préventive sans agrément ministériel ;
+- toute personne qui par infraction à l’article 9, paragraphe 1 er , alinéa 1 er , effectue des opérations d’archéologie préventive sans agrément ministériel ;
 
-3. toute personne qui par infraction à l’article 11, alinéa 1 er , procède à des recherches archéologiques de terrain sans autorisation ministérielle ;
+- toute personne qui par infraction à l’article 11, alinéa 1 er , procède à des recherches archéologiques de terrain sans autorisation ministérielle ;
 
-4. toute personne qui par infraction à l’article 12, alinéa 1 er , procède à l’emploi de détecteurs de métaux et de tout autre équipement de détection électronique et magnétique en vue de la recherche des éléments du patrimoine archéologique sans autorisation ministérielle ;
+- toute personne qui par infraction à l’article 12, alinéa 1 er , procède à l’emploi de détecteurs de métaux et de tout autre équipement de détection électronique et magnétique en vue de la recherche des éléments du patrimoine archéologique sans autorisation ministérielle ;
 
-5. toute personne qui par infraction à l’article 13 procède à la vente, à l’annonce de publicités ou à la fabrication de détecteurs de métaux sans insérer le libellé de l’article 12 dans la notice d’utilisation, la publicité ou toute autre documentation décrivant ou faisant publicité pour le produit assorti de la mention suivante : « Toute personne qui par infraction à l’article 12, alinéa 1 er , de la loi du 25 février 2022 relative au patrimoine culturel procède à l’emploi de détecteurs de métaux et de tout autre équipement de détection électronique et magnétique en vue de la recherche des éléments du patrimoine archéologique sans autorisation ministérielle est punie d’une amende de 500 à 1 000 000 euros conformément à l’article 117, point 4 de ladite loi. » ;
+- toute personne qui par infraction à l’article 13 procède à la vente, à l’annonce de publicités ou à la fabrication de détecteurs de métaux sans insérer le libellé de l’article 12 dans la notice d’utilisation, la publicité ou toute autre documentation décrivant ou faisant publicité pour le produit assorti de la mention suivante : « Toute personne qui par infraction à l’article 12, alinéa 1 er , de la loi du 25 février 2022 relative au patrimoine culturel procède à l’emploi de détecteurs de métaux et de tout autre équipement de détection électronique et magnétique en vue de la recherche des éléments du patrimoine archéologique sans autorisation ministérielle est punie d’une amende de 500 à 1 000 000 euros conformément à l’article 117, point 4 de ladite loi. » ;
 
-6. toute personne, ayant découvert des éléments du patrimoine archéologique lors de travaux de construction, de démolition ou de remblai et de déblai ou de tout autre fait quelconque ou étant propriétaire d’un terrain sur lequel la découverte a été faite, qui par infraction à l’article 16, alinéa 1 er ,
+- toute personne, ayant découvert des éléments du patrimoine archéologique lors de travaux de construction, de démolition ou de remblai et de déblai ou de tout autre fait quelconque ou étant propriétaire d’un terrain sur lequel la découverte a été faite, qui par infraction à l’article 16, alinéa 1 er ,
 
-1. ne veille pas à l’arrêt immédiat des travaux sur le terrain concerné et au maintien en l’état sans déplacement de tout élément du patrimoine archéologique découvert ;
+  - ne veille pas à l’arrêt immédiat des travaux sur le terrain concerné et au maintien en l’état sans déplacement de tout élément du patrimoine archéologique découvert ;
 
-2. n’informe pas l’Institut national de recherches archéologiques au plus tard le jour ouvré qui suit la découverte en indiquant l’endroit précis des découvertes ;
+  - n’informe pas l’Institut national de recherches archéologiques au plus tard le jour ouvré qui suit la découverte en indiquant l’endroit précis des découvertes ;
 
-7. toute personne qui par infraction à l’article 17, alinéa 1 er , déplace tout élément du patrimoine archéologique découvert sans l’accord écrit préalable du ministre ;
+- toute personne qui par infraction à l’article 17, alinéa 1 er , déplace tout élément du patrimoine archéologique découvert sans l’accord écrit préalable du ministre ;
 
-8. toute personne qui par infraction à l’article 27, paragraphe 1 er , dans un secteur protégé d’intérêt national, procède, sans autorisation ministérielle, à des travaux soumis à une telle autorisation ;
+- toute personne qui par infraction à l’article 27, paragraphe 1 er , dans un secteur protégé d’intérêt national, procède, sans autorisation ministérielle, à des travaux soumis à une telle autorisation ;
 
-9. toute personne qui par infraction à l’article 28 procède, sans autorisation ministérielle, à des travaux sur des immeubles figurant à l’inventaire du patrimoine architectural entre la publication prévue à l’article 25, paragraphe 1 er , et l’entrée en vigueur du règlement grand-ducal de classement ;
+- toute personne qui par infraction à l’article 28 procède, sans autorisation ministérielle, à des travaux sur des immeubles figurant à l’inventaire du patrimoine architectural entre la publication prévue à l’article 25, paragraphe 1 er , et l’entrée en vigueur du règlement grand-ducal de classement ;
 
-10. toute personne qui par infraction à l’article 30, paragraphes 1 er , 2 et 3, alinéa 1 er , procède à :
+- toute personne qui par infraction à l’article 30, paragraphes 1 er , 2 et 3, alinéa 1 er , procède à :
 
-1. un travail de réparation, de restauration ou de modification quelconque, autres que l’entretien, à faire réaliser à l’extérieur et à l’intérieur de l’immeuble classé comme patrimoine culturel national sans une autorisation ministérielle ;
+  - un travail de réparation, de restauration ou de modification quelconque, autres que l’entretien, à faire réaliser à l’extérieur et à l’intérieur de l’immeuble classé comme patrimoine culturel national sans une autorisation ministérielle ;
 
-2. un adossement d’une construction nouvelle sur un immeuble classé comme patrimoine culturel national sans une autorisation ministérielle ;
+  - un adossement d’une construction nouvelle sur un immeuble classé comme patrimoine culturel national sans une autorisation ministérielle ;
 
-11. toute personne qui par infraction à l’article 43, paragraphe 1 er , fait installer une publicité sur un bien immeuble classé comme patrimoine culturel national sans l’autorisation ministérielle préalable ;
+- toute personne qui par infraction à l’article 43, paragraphe 1 er , fait installer une publicité sur un bien immeuble classé comme patrimoine culturel national sans l’autorisation ministérielle préalable ;
 
-12. toute personne qui par infraction à l’article 51, paragraphe 2, procède à la modification, la réparation ou la restauration d’un bien culturel classé comme patrimoine culturel national sans une autorisation écrite du ministre ;
+- toute personne qui par infraction à l’article 51, paragraphe 2, procède à la modification, la réparation ou la restauration d’un bien culturel classé comme patrimoine culturel national sans une autorisation écrite du ministre ;
 
-13. toute personne qui par infraction à l’article 51, paragraphe 4, transfère à titre définitif un bien culturel classé comme patrimoine culturel national hors du territoire national ;
+- toute personne qui par infraction à l’article 51, paragraphe 4, transfère à titre définitif un bien culturel classé comme patrimoine culturel national hors du territoire national ;
 
-14. toute personne qui par infraction à l’article 52, paragraphe 1 er , cède un bien culturel classé comme patrimoine culturel national ou inscrit sur la liste des biens culturels d’intérêt patrimonial sans informer l’acquéreur de l’existence du classement ;
+- toute personne qui par infraction à l’article 52, paragraphe 1 er , cède un bien culturel classé comme patrimoine culturel national ou inscrit sur la liste des biens culturels d’intérêt patrimonial sans informer l’acquéreur de l’existence du classement ;
 
-15. toute personne qui par infraction à l’article 52, paragraphe 2, omet de notifier au ministre toute dépossession involontaire ou disparition d’un bien culturel classé comme patrimoine culturel dès sa découverte ;
+- toute personne qui par infraction à l’article 52, paragraphe 2, omet de notifier au ministre toute dépossession involontaire ou disparition d’un bien culturel classé comme patrimoine culturel dès sa découverte ;
 
-16. toute personne propriétaire d’un bien culturel classé comme patrimoine culturel national qui, par infraction à l’article 53, paragraphe 1 er , procède à la cession du bien culturel sans notification préalable au ministre au moins un mois avant la cession ;
+- toute personne propriétaire d’un bien culturel classé comme patrimoine culturel national qui, par infraction à l’article 53, paragraphe 1 er , procède à la cession du bien culturel sans notification préalable au ministre au moins un mois avant la cession ;
 
-17. toute personne qui, par infraction à l’article 54, procède à l’aliénation d’un bien culturel classé comme patrimoine culturel national appartenant à l’État ;
+- toute personne qui, par infraction à l’article 54, procède à l’aliénation d’un bien culturel classé comme patrimoine culturel national appartenant à l’État ;
 
-18. toute personne qui, par infraction à l’article 55, procède à la cession d’un bien culturel classé comme patrimoine culturel national appartenant à une commune ou à un établissement public sans une autorisation ministérielle ;
+- toute personne qui, par infraction à l’article 55, procède à la cession d’un bien culturel classé comme patrimoine culturel national appartenant à une commune ou à un établissement public sans une autorisation ministérielle ;
 
-19. toute personne ayant la qualité d’officier public ou habilitée à organiser une cession par vente publique de biens culturels visés par l’article 44, paragraphe 2, qui, par infraction à l’article 63, paragraphe 1 er , procède à la cession par vente publique d’un tel bien culturel et omet d’aviser le ministre au moins quinze jours avant la communication de cette vente au public et d’accompagner cet avis de toutes informations utiles sur ces biens ;
+- toute personne ayant la qualité d’officier public ou habilitée à organiser une cession par vente publique de biens culturels visés par l’article 44, paragraphe 2, qui, par infraction à l’article 63, paragraphe 1 er , procède à la cession par vente publique d’un tel bien culturel et omet d’aviser le ministre au moins quinze jours avant la communication de cette vente au public et d’accompagner cet avis de toutes informations utiles sur ces biens ;
 
-20. toute personne qui, par infraction à l’article 64, paragraphe 1 er , procède à la cession d’un bien culturel et omet de vérifier que celui-ci ne correspond pas à un des cas de figure prévus par cette disposition et toute personne qui, par infraction à l’article 64, paragraphe 1 er , procède à la cession d’un bien culturel après avoir constaté que celui-ci correspond à un des cas de figure prévus par cette disposition ;
+- toute personne qui, par infraction à l’article 64, paragraphe 1 er , procède à la cession d’un bien culturel et omet de vérifier que celui-ci ne correspond pas à un des cas de figure prévus par cette disposition et toute personne qui, par infraction à l’article 64, paragraphe 1 er , procède à la cession d’un bien culturel après avoir constaté que celui-ci correspond à un des cas de figure prévus par cette disposition ;
 
-21. toute personne dont l’activité professionnelle comprend le commerce de biens culturels, y compris les personnes pratiquant la vente aux enchères, qui, par infraction à l’article 65, omet, en plus des vérifications de l’article 64 :
+- toute personne dont l’activité professionnelle comprend le commerce de biens culturels, y compris les personnes pratiquant la vente aux enchères, qui, par infraction à l’article 65, omet, en plus des vérifications de l’article 64 :
 
-1. d’informer l’acquéreur sur les règles d’importation et d’exportation en vigueur au Grand-Duché de Luxembourg ;
+  - d’informer l’acquéreur sur les règles d’importation et d’exportation en vigueur au Grand-Duché de Luxembourg ;
 
-2. d’établir l’identité du propriétaire et du vendeur du bien culturel ;
+  - d’établir l’identité du propriétaire et du vendeur du bien culturel ;
 
-3. de mettre en œuvre tous les moyens à leur disposition pour s’assurer de la légalité de la provenance d’un bien culturel avant de proposer ce bien à la cession, y compris la vérification d’un éventuel certificat d’exportation délivré par l’État de provenance et la consultation des registres de biens volés ou exportés illicitement ou des autres registres publics ;
+  - de mettre en œuvre tous les moyens à leur disposition pour s’assurer de la légalité de la provenance d’un bien culturel avant de proposer ce bien à la cession, y compris la vérification d’un éventuel certificat d’exportation délivré par l’État de provenance et la consultation des registres de biens volés ou exportés illicitement ou des autres registres publics ;
 
-4. de tenir un registre des acquisitions et cessions de biens culturels mentionnant l’origine du bien culturel, le nom et les coordonnées du fournisseur ou vendeur et de l’acquéreur et le prix d’achat ou de vente du bien culturel ;
+  - de tenir un registre des acquisitions et cessions de biens culturels mentionnant l’origine du bien culturel, le nom et les coordonnées du fournisseur ou vendeur et de l’acquéreur et le prix d’achat ou de vente du bien culturel ;
 
-5. de fournir au ministre, sur sa demande, tous les renseignements nécessaires concernant l’accomplissement du devoir de diligence ;
+  - de fournir au ministre, sur sa demande, tous les renseignements nécessaires concernant l’accomplissement du devoir de diligence ;
 
-22. toute personne qui, par infraction à l’article 66, paragraphe 1 er , procède à l’aliénation d’un bien culturel relevant des collections publiques ;
+- toute personne qui, par infraction à l’article 66, paragraphe 1 er , procède à l’aliénation d’un bien culturel relevant des collections publiques ;
 
-23. toute personne qui, par infraction à l’article 68, alinéa 1 er , procède au transfert définitif vers un autre État membre de l’Union européenne d’un bien culturel visé par l’article 44, paragraphe 2, et remplissant les conditions de valeur et d’ancienneté en Annexe I et qui omet d’accompagner ce bien culturel d’un certificat de transfert définitif délivré par le ministre ;
+- toute personne qui, par infraction à l’article 68, alinéa 1 er , procède au transfert définitif vers un autre État membre de l’Union européenne d’un bien culturel visé par l’article 44, paragraphe 2, et remplissant les conditions de valeur et d’ancienneté en Annexe I et qui omet d’accompagner ce bien culturel d’un certificat de transfert définitif délivré par le ministre ;
 
-24. toute personne qui, par infraction à l’article 70, alinéa 3, omet de procéder immédiatement et à ses frais au retour au Grand-Duché de Luxembourg du bien culturel dont l’autorisation de sortie temporaire est devenue caduque ;
+- toute personne qui, par infraction à l’article 70, alinéa 3, omet de procéder immédiatement et à ses frais au retour au Grand-Duché de Luxembourg du bien culturel dont l’autorisation de sortie temporaire est devenue caduque ;
 
-25. toute personne qui, par infraction à l’article 72, paragraphe 1 er , transfère au Grand-Duché de Luxembourg un bien culturel ayant quitté illicitement le territoire national d’un État membre de l’Union européenne en violation de la législation de cet État membre en matière de protection des trésors nationaux ;
+- toute personne qui, par infraction à l’article 72, paragraphe 1 er , transfère au Grand-Duché de Luxembourg un bien culturel ayant quitté illicitement le territoire national d’un État membre de l’Union européenne en violation de la législation de cet État membre en matière de protection des trésors nationaux ;
 
-26. toute personne qui, par infraction à l’article 115 continue les travaux contraires à la loi ou à une décision ministérielle prise en vertu de la loi et qui font l’objet d’une interdiction ministérielle affichée par les soins de l’Institut national de recherches archéologiques ou de l’Institut national pour le patrimoine architectural aux abords du lieu des travaux ;
+- toute personne qui, par infraction à l’article 115 continue les travaux contraires à la loi ou à une décision ministérielle prise en vertu de la loi et qui font l’objet d’une interdiction ministérielle affichée par les soins de l’Institut national de recherches archéologiques ou de l’Institut national pour le patrimoine architectural aux abords du lieu des travaux ;
 
-27. toute personne propriétaire d’un bien immeuble retenu au jour de l’entrée en vigueur de la loi comme construction à conserver par un plan d’aménagement général d’une commune, qui, par infraction à l’article 129, paragraphe 1 er , omet d’informer le ministre de tout projet de démolition, totale ou partielle, et de la transformation de la construction à conserver, cela au plus tard au moment de l’introduction de la demande de construire ou de démolir ;
+- toute personne propriétaire d’un bien immeuble retenu au jour de l’entrée en vigueur de la loi comme construction à conserver par un plan d’aménagement général d’une commune, qui, par infraction à l’article 129, paragraphe 1 er , omet d’informer le ministre de tout projet de démolition, totale ou partielle, et de la transformation de la construction à conserver, cela au plus tard au moment de l’introduction de la demande de construire ou de démolir ;
 
-28. toute personne qui, par infraction aux articles 2, point 1, et 4, du règlement (CE) 116/2009 , procède à l’exportation de biens culturels hors du territoire douanier de la l’Union européenne et omet de présenter une autorisation d’exportation à l’appui de la déclaration d’exportation lors de l’accomplissement des formalités douanières d’exportation auprès du bureau de douane compétent pour l’acceptation de ladite déclaration ;
+- toute personne qui, par infraction aux articles 2, point 1, et 4, du règlement (CE) 116/2009 , procède à l’exportation de biens culturels hors du territoire douanier de la l’Union européenne et omet de présenter une autorisation d’exportation à l’appui de la déclaration d’exportation lors de l’accomplissement des formalités douanières d’exportation auprès du bureau de douane compétent pour l’acceptation de ladite déclaration ;
 
-29. toute personne qui, par infraction à l’article 3, point 1 du règlement (UE) 2019/880 procède à l’introduction de biens culturels visés à la partie A de l’annexe du règlement (UE) 2019/880 et qui ont été sortis du territoire du pays dans lequel ils ont été créés ou découverts en violation des dispositions législatives et réglementaires de ce pays ;
+- toute personne qui, par infraction à l’article 3, point 1 du règlement (UE) 2019/880 procède à l’introduction de biens culturels visés à la partie A de l’annexe du règlement (UE) 2019/880 et qui ont été sortis du territoire du pays dans lequel ils ont été créés ou découverts en violation des dispositions législatives et réglementaires de ce pays ;
 
-30. toute personne qui, par infraction à l’article 3, point 2, du règlement (UE) 2019/880 procède à l’importation de biens culturels énumérés aux parties B et C de l’annexe du règlement (UE) 2019/880 et omet de présenter soit :
+- toute personne qui, par infraction à l’article 3, point 2, du règlement (UE) 2019/880 procède à l’importation de biens culturels énumérés aux parties B et C de l’annexe du règlement (UE) 2019/880 et omet de présenter soit :
 
-1. une licence d’importation délivrée conformément à l’article 4 du règlement (UE) 2019/880 ; soit
+  - une licence d’importation délivrée conformément à l’article 4 du règlement (UE) 2019/880 ; soit
 
-2. une déclaration de l’importateur présentée conformément à l’article 5 du règlement (UE) 2019/880 .
+  - une déclaration de l’importateur présentée conformément à l’article 5 du règlement (UE) 2019/880 .
 
 La tentative est punissable d’une amende de 251 à 500 000 euros.
 
@@ -2024,24 +2032,28 @@ Les articles 17-1 à 17-4 de la loi modifiée du 4 mars 1982 a) portant créatio
 
 La loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État est modifiée comme suit :
 
-1. Les termes Service des sites et monuments nationaux sont remplacés par les termes Institut national pour le patrimoine architectural et les termes Centre national de recherche archéologique sont remplacés par Institut national de recherches archéologiques ;
+- Les termes Service des sites et monuments nationaux sont remplacés par les termes Institut national pour le patrimoine architectural et les termes Centre national de recherche archéologique sont remplacés par Institut national de recherches archéologiques ;
 
-2. L’article 1 er est remplacé comme suit : « Art. 1er. Les instituts culturels de l’État comprennent les Archives nationales, la Bibliothèque nationale, le Musée national d’histoire et d’art, le Musée national d’histoire naturelle, l’Institut national pour le patrimoine architectural, le Centre national de l’audiovisuel, le Centre national de littérature et l’Institut national de recherches archéologiques » ;
+- L’article 1 er est remplacé comme suit : « Art. 1er. Les instituts culturels de l’État comprennent les Archives nationales, la Bibliothèque nationale, le Musée national d’histoire et d’art, le Musée national d’histoire naturelle, l’Institut national pour le patrimoine architectural, le Centre national de l’audiovisuel, le Centre national de littérature et l’Institut national de recherches archéologiques » ;
 
-3. À l’article 3 est inséré une dernière phrase qui se lit comme suit : Les instituts culturels de l’État établissent et tiennent à jour un inventaire de leurs collections publiques au sens de la loi du 25 février 2022 relative au patrimoine culturel ;
+- À l’article 3 est inséré une dernière phrase qui se lit comme suit : Les instituts culturels de l’État établissent et tiennent à jour un inventaire de leurs collections publiques au sens de la loi du 25 février 2022 relative au patrimoine culturel ;
 
-4. Le chapitre 2, point III, est modifié comme suit : « III. Musée national d’histoire et d’art Art. 12. Le Musée national d’histoire et d’art a pour missions : de réunir, d’étudier, de conserver et d’exposer des collections archéologiques, historiques et artistiques nationales et internationales ; de réunir et de conserver des documents iconographiques ainsi qu’une bibliothèque thématique qui sont en rapport avec ses activités ; d’organiser des expositions temporaires, des colloques, des conférences ainsi que des activités pédagogiques qui sont en rapport avec ses activités ; de gérer des dépendances scientifiques, muséales, éducatives et techniques dont notamment le Musée de la Villa romaine d’Echternach et le Musée Draï Eechelen – Forteresse, Histoire, Identités ; de collaborer à la création et à la gestion de musées régionaux et locaux d’histoire, d’archéologie et d’art ; de coopérer avec la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels. » ;
+- Le chapitre 2, point III, est modifié comme suit : « III. Musée national d’histoire et d’art Art. 12. Le Musée national d’histoire et d’art a pour missions : de réunir, d’étudier, de conserver et d’exposer des collections archéologiques, historiques et artistiques nationales et internationales ; de réunir et de conserver des documents iconographiques ainsi qu’une bibliothèque thématique qui sont en rapport avec ses activités ; d’organiser des expositions temporaires, des colloques, des conférences ainsi que des activités pédagogiques qui sont en rapport avec ses activités ; de gérer des dépendances scientifiques, muséales, éducatives et techniques dont notamment le Musée de la Villa romaine d’Echternach et le Musée Draï Eechelen – Forteresse, Histoire, Identités ; de collaborer à la création et à la gestion de musées régionaux et locaux d’histoire, d’archéologie et d’art ; de coopérer avec la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels. » ;
 
-5. L’article 13 est modifié comme suit : « Le Musée national d’histoire et d’art comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement, les départements suivants : Département « Collections nationales d’archéologie, d’histoire et d’art » les collections d’archéologie préhistorique, les collections d’archéologie protohistorique, les collections d’archéologie gallo-romaine, les collections d’archéologie médiévale et postmédiévale, la section d’histoire luxembourgeoise, la section des arts décoratifs et populaires, la section des beaux-arts, la section d’art contemporain, le cabinet des médailles, le cabinet des estampes, le centre de documentation sur la forteresse de Luxembourg. Département « Services spéciaux » le service de la restauration et des ateliers, le service des publics, le service de la bibliothèque et des archives le service de la régie et de la gestion des dépôts, le service informatique, le service des relations publiques, le service des publications, le service de la numérisation et de l’inventaire. » ;
+- L’article 13 est modifié comme suit : « Le Musée national d’histoire et d’art comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement, les départements suivants : Département « Collections nationales d’archéologie, d’histoire et d’art » les collections d’archéologie préhistorique, les collections d’archéologie protohistorique, les collections d’archéologie gallo-romaine, les collections d’archéologie médiévale et postmédiévale, la section d’histoire luxembourgeoise, la section des arts décoratifs et populaires, la section des beaux-arts, la section d’art contemporain, le cabinet des médailles, le cabinet des estampes, le centre de documentation sur la forteresse de Luxembourg. Département « Services spéciaux » le service de la restauration et des ateliers, le service des publics, le service de la bibliothèque et des archives le service de la régie et de la gestion des dépôts, le service informatique, le service des relations publiques, le service des publications, le service de la numérisation et de l’inventaire. » ;
 
-6. Le chapitre V est modifié comme suit : V. Institut national pour le patrimoine architectural Art. 16. L’Institut national pour le patrimoine architectural a pour missions : l’étude, la conservation, la protection et la mise en valeur du patrimoine architectural et du patrimoine industriel mobilier et des biens culturels meublant les édifices religieux ; l’établissement et la tenue à jour d’un inventaire du patrimoine architectural au sens de l’article 23 de la loi du 25 février 2022 relative au patrimoine culturel ; de proposer la création des secteurs protégés d’intérêt national ; de surveiller l’exécution des travaux réalisés sur des immeubles classés comme patrimoine culturel national et de conseiller et d’assister les maîtres d’ouvrages ; d’organiser des campagnes de sensibilisation, des expositions et des conférences sur le patrimoine architectural ; de coordonner et de surveiller les initiatives publiques en matière de restauration du patrimoine architectural ; Art. 17. L’Institut national pour le patrimoine architectural comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement un service de l’inventaire scientifique et un service pédagogique ;
+- Le chapitre V est modifié comme suit : V. Institut national pour le patrimoine architectural Art. 16. L’Institut national pour le patrimoine architectural a pour missions : l’étude, la conservation, la protection et la mise en valeur du patrimoine architectural et du patrimoine industriel mobilier et des biens culturels meublant les édifices religieux ; l’établissement et la tenue à jour d’un inventaire du patrimoine architectural au sens de l’article 23 de la loi du 25 février 2022 relative au patrimoine culturel ; de proposer la création des secteurs protégés d’intérêt national ; de surveiller l’exécution des travaux réalisés sur des immeubles classés comme patrimoine culturel national et de conseiller et d’assister les maîtres d’ouvrages ; d’organiser des campagnes de sensibilisation, des expositions et des conférences sur le patrimoine architectural ; de coordonner et de surveiller les initiatives publiques en matière de restauration du patrimoine architectural ; Art. 17. L’Institut national pour le patrimoine architectural comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement un service de l’inventaire scientifique et un service pédagogique ;
 
-7. Après l’article 24, il est introduit un article 24 bis précédé de l’intitulé « VIII. –Institut national de recherches archéologiques », qui prend la teneur suivante : « Art. 24bis. (1) L’Institut national de recherches archéologiques a pour missions : d’étudier, de protéger, de conserver et de valoriser le patrimoine archéologique national ; d’organiser et de promouvoir toutes formes de recherches scientifiques en archéologie ; de traiter les dossiers relatifs à l’archéologie préventive et les demandes d’évaluation archéologique qui lui sont adressées dans le cadre de la loi du 25 février 2022 relative au patrimoine culturel ; d’aviser le ministre dans l’exécution des articles 5 et 6 de la loi du 25 février 2022 relative au patrimoine culturel; d’entreprendre des recherches, des prospections et des fouilles archéologiques ; d’assurer le contrôle scientifique et technique d’organismes privés agréés et publics effectuant des opérations ou recherches archéologiques ; de veiller à la protection, à l’entretien et à la mise en valeur des sites archéologiques conservés antérieurs à l’époque médiévale, et de conseiller l’Institut national pour le patrimoine architectural ce qui concerne l’entretien et la mise en valeur des sites archéologiques d’époque médiévale et moderne ; d’instruire les demandes d’autorisation de recherche archéologique préventive et programmée adressées au ministre ; de réaliser un inventaire du patrimoine archéologique, de gérer et actualiser le recensement cartographié du patrimoine archéologique ; d’assurer les analyses post-fouilles, la gestion et la conservation du mobilier archéologique issu de toutes investigations archéologiques ; de soutenir et conseiller les initiatives bénévoles et associatives visant à promouvoir et protéger le patrimoine archéologique ; de gérer des dépendances scientifiques, didactiques et techniques en relation avec le patrimoine archéologique et de collaborer à la création et à la gestion d’infrastructures régionales et locales concernant le patrimoine archéologique ; de coopérer avec le Musée national d’histoire et d’art et plus particulièrement en ce qui concerne les collections archéologiques ; de coopérer avec l’Institut national pour le patrimoine architectural et la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels au cas où leurs activités concerneraient aussi le patrimoine archéologique ; de coopérer avec le Musée national d’histoire naturelle pour la sauvegarde et la valorisation du patrimoine qu’il a en charge et toutes autres entités chargées de l’archéologie nationale (2) L’Institut national de recherches archéologiques comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement, dont un service de comptabilité, les deux départements suivants : Département « Archéologie territoriale » ; Département « Recherche archéologique ».
+- Après l’article 24, il est introduit un article 24 bis précédé de l’intitulé « VIII. –Institut national de recherches archéologiques », qui prend la teneur suivante : « Art. 24bis. (1) L’Institut national de recherches archéologiques a pour missions : d’étudier, de protéger, de conserver et de valoriser le patrimoine archéologique national ; d’organiser et de promouvoir toutes formes de recherches scientifiques en archéologie ; de traiter les dossiers relatifs à l’archéologie préventive et les demandes d’évaluation archéologique qui lui sont adressées dans le cadre de la loi du 25 février 2022 relative au patrimoine culturel ; d’aviser le ministre dans l’exécution des articles 5 et 6 de la loi du 25 février 2022 relative au patrimoine culturel; d’entreprendre des recherches, des prospections et des fouilles archéologiques ; d’assurer le contrôle scientifique et technique d’organismes privés agréés et publics effectuant des opérations ou recherches archéologiques ; de veiller à la protection, à l’entretien et à la mise en valeur des sites archéologiques conservés antérieurs à l’époque médiévale, et de conseiller l’Institut national pour le patrimoine architectural ce qui concerne l’entretien et la mise en valeur des sites archéologiques d’époque médiévale et moderne ; d’instruire les demandes d’autorisation de recherche archéologique préventive et programmée adressées au ministre ; de réaliser un inventaire du patrimoine archéologique, de gérer et actualiser le recensement cartographié du patrimoine archéologique ; d’assurer les analyses post-fouilles, la gestion et la conservation du mobilier archéologique issu de toutes investigations archéologiques ; de soutenir et conseiller les initiatives bénévoles et associatives visant à promouvoir et protéger le patrimoine archéologique ; de gérer des dépendances scientifiques, didactiques et techniques en relation avec le patrimoine archéologique et de collaborer à la création et à la gestion d’infrastructures régionales et locales concernant le patrimoine archéologique ; de coopérer avec le Musée national d’histoire et d’art et plus particulièrement en ce qui concerne les collections archéologiques ; de coopérer avec l’Institut national pour le patrimoine architectural et la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels au cas où leurs activités concerneraient aussi le patrimoine archéologique ; de coopérer avec le Musée national d’histoire naturelle pour la sauvegarde et la valorisation du patrimoine qu’il a en charge et toutes autres entités chargées de l’archéologie nationale (2) L’Institut national de recherches archéologiques comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement, dont un service de comptabilité, les deux départements suivants : Département « Archéologie territoriale » ; Département « Recherche archéologique ».
 
 <a id="art-123"></a>
 ## Art. 123.
 
-L’article 7, paragraphe 7, de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles est modifié comme suit : (7) Lorsqu’une construction existante dans la zone verte fait l’objet d’un classement comme patrimoine culturel national ou fait partie d’un secteur protégé d’intérêt national par application de loi du 25 février 2022 relative au patrimoine culturel, le ministre peut déroger au présent article
+L’article 7, paragraphe 7, de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles est modifié comme suit :
+
+(7)
+
+Lorsqu’une construction existante dans la zone verte fait l’objet d’un classement comme patrimoine culturel national ou fait partie d’un secteur protégé d’intérêt national par application de loi du 25 février 2022 relative au patrimoine culturel, le ministre peut déroger au présent article
 
 <a id="art-124"></a>
 ## Art. 124.
@@ -2055,11 +2067,11 @@ Les articles 12, 14 et 15 de la loi du 17 août 2018 relative à l’archivage s
 
 Sont abrogées :
 
-1. la loi du 21 mars 1966 concernant a) les fouilles d’intérêt historique, préhistorique, paléontologique ou autrement scientifique ; b) la sauvegarde du patrimoine culturel mobilier ;
+- la loi du 21 mars 1966 concernant a) les fouilles d’intérêt historique, préhistorique, paléontologique ou autrement scientifique ; b) la sauvegarde du patrimoine culturel mobilier ;
 
-2. la loi modifiée du 18 juillet 1983 concernant la conservation et la protection des sites et monuments nationaux ;
+- la loi modifiée du 18 juillet 1983 concernant la conservation et la protection des sites et monuments nationaux ;
 
-3. loi modifiée du 9 janvier 1998 portant transposition de la directive 93/7/CEE du 15 mars 1993 relative à la restitution des biens culturels ayant quitté illicitement le territoire d’un État membre de l’Union européenne.
+- loi modifiée du 9 janvier 1998 portant transposition de la directive 93/7/CEE du 15 mars 1993 relative à la restitution des biens culturels ayant quitté illicitement le territoire d’un État membre de l’Union européenne.
 
 #### Chapitre 13 Dispositions transitoires
 
@@ -2098,15 +2110,15 @@ Tant que le classement comme patrimoine culturel national des biens immeubles fi
 
 La procédure de classement d’un bien immeuble comme patrimoine culturel national peut être entamée par le ministre sur demande lui adressée par :
 
-1. les propriétaires d’un bien immeuble relevant du patrimoine architectural ;
+- les propriétaires d’un bien immeuble relevant du patrimoine architectural ;
 
-2. la commune sur le territoire de laquelle le bien immeuble est situé ;
+- la commune sur le territoire de laquelle le bien immeuble est situé ;
 
-3. tout particulier ;
+- tout particulier ;
 
-4. une association sans but lucratif qui a pour objet social la sauvegarde du patrimoine respectivement la promotion de la culture du bâti ;
+- une association sans but lucratif qui a pour objet social la sauvegarde du patrimoine respectivement la promotion de la culture du bâti ;
 
-5. la commission.
+- la commission.
 
 Un règlement grand-ducal détermine les modalités de saisine et les documents à joindre à la demande de protection.
 
@@ -2175,13 +2187,13 @@ Un bien immeuble classé comme patrimoine culturel national en application des a
 
 La procédure de déclassement peut être entamée à la demande :
 
-1. du ministre ;
+- du ministre ;
 
-2. des propriétaires ;
+- des propriétaires ;
 
-3. de la commission ;
+- de la commission ;
 
-4. de la commune sur le territoire de laquelle le bien immeuble est situé.
+- de la commune sur le territoire de laquelle le bien immeuble est situé.
 
 (3)
 

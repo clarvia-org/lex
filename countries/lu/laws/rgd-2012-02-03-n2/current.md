@@ -165,13 +165,13 @@ Sauf les dérogations prévues par le présent article et nonobstant indication 
 
 Par dérogation au paragraphe 2, l’agent peut s’éloigner de son domicile ou du lieu de séjour indiqué dans les cas suivants :
 
-1. à partir du premier jour d’incapacité de travail :
+- à partir du premier jour d’incapacité de travail :
 
-1. pour les sorties indispensables pour donner suite aux convocations auprès du médecin de contrôle, pour l’obtention de soins, d’actes diagnostiques, de médicaments ou de dispositifs médicaux, à condition que l’agent concerné puisse en justifier, par tous les moyens de preuve, sur demande du chef d’administration ou de son délégué ;
+  - pour les sorties indispensables pour donner suite aux convocations auprès du médecin de contrôle, pour l’obtention de soins, d’actes diagnostiques, de médicaments ou de dispositifs médicaux, à condition que l’agent concerné puisse en justifier, par tous les moyens de preuve, sur demande du chef d’administration ou de son délégué ;
 
-2. pour les sorties nécessaires pour la prise d’un repas ;
+  - pour les sorties nécessaires pour la prise d’un repas ;
 
-2. à partir du cinquième jour révolu du congé pour raisons de santé dépassant en continu cinq jours de service, pour les sorties non médicalement contre-indiquées d’après le certificat médical d’incapacité de travail, uniquement entre 10.00 et 12.00 heures et entre 14.00 et 18.00 heures.
+- à partir du cinquième jour révolu du congé pour raisons de santé dépassant en continu cinq jours de service, pour les sorties non médicalement contre-indiquées d’après le certificat médical d’incapacité de travail, uniquement entre 10.00 et 12.00 heures et entre 14.00 et 18.00 heures.
 
 4.
 

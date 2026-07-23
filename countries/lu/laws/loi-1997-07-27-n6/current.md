@@ -60,9 +60,9 @@ La Cour Constitutionnelle statue également sur les recours introduits sur la ba
 
 La Cour Constitutionnelle est composée de :
 
-1. neuf membres effectifs, à savoir d’un président, d’un vice-président et de sept conseillers ;
+- neuf membres effectifs, à savoir d’un président, d’un vice-président et de sept conseillers ;
 
-2. sept membres suppléants, qui portent le titre de conseiller suppléant.
+- sept membres suppléants, qui portent le titre de conseiller suppléant.
 
 (2)
 
@@ -117,11 +117,11 @@ Lorsqu’une partie soulève une question relative à la conformité d’une loi
 
 Une juridiction est dispensée de saisir la Cour Constitutionnelle lorsqu’elle estime que:
 
-1. une décision sur la question soulevée n’est pas nécessaire pour rendre son jugement;
+- une décision sur la question soulevée n’est pas nécessaire pour rendre son jugement;
 
-2. la question de constitutionnalité est dénuée de tout fondement;
+- la question de constitutionnalité est dénuée de tout fondement;
 
-3. la Cour Constitutionnelle a déjà statué sur une question ayant le même objet.
+- la Cour Constitutionnelle a déjà statué sur une question ayant le même objet.
 
 Si une juridiction estime qu’une question de conformité d’une loi à la Constitution se pose et qu’une décision sur ce point est nécessaire pour rendre son jugement, elle doit la soulever d’office après avoir invité au préalable les parties à présenter leurs observations.
 
@@ -230,13 +230,13 @@ Avant d’entrer en fonctions, les membres de la Cour prêtent le serment suivan
 
 Il est tenu une liste de rang sur laquelle les membres de la Cour Constitutionnelle sont inscrits dans l’ordre qui suit :
 
-1. le président ;
+- le président ;
 
-2. le vice-président ;
+- le vice-président ;
 
-3. les conseillers, dans l’ordre de leur nomination ;
+- les conseillers, dans l’ordre de leur nomination ;
 
-4. les conseillers suppléants, dans l’ordre de leur nomination.
+- les conseillers suppléants, dans l’ordre de leur nomination.
 
 Les conseillers et les conseillers suppléants sont portés sur cette liste dans l’ordre que suivent les arrêtés de nomination, ou dans celui de leur inscription dans l’arrêté de nomination simultanée.
 
@@ -275,13 +275,13 @@ Toute affaire disciplinaire est initiée, instruite et poursuivie par le présid
 
 Les peines disciplinaires sont:
 
-1. l’avertissement;
+- l’avertissement;
 
-2. la réprimande;
+- la réprimande;
 
-3. la suspension des fonctions pour une durée qui ne peut dépasser six mois;
+- la suspension des fonctions pour une durée qui ne peut dépasser six mois;
 
-4. la révocation.
+- la révocation.
 
 <a id="art-23"></a>
 ## Art. 23.
@@ -327,15 +327,15 @@ Celui-ci est publié au Journal officiel du Grand-Duché de Luxembourg.
 <a id="art-29"></a>
 ## Art. 29.
 
-1. Une indemnité mensuelle est accordée :
+- Une indemnité mensuelle est accordée :
 
-1. aux membres effectifs de la Cour Constitutionnelle, dont le taux est de soixante points indiciaires ;
+  - aux membres effectifs de la Cour Constitutionnelle, dont le taux est de soixante points indiciaires ;
 
-2. au greffier de la Cour Constitutionnelle, dont le taux est de trente points indiciaires.
+  - au greffier de la Cour Constitutionnelle, dont le taux est de trente points indiciaires.
 
-2. Les membres suppléants de la Cour Constitutionnelle bénéficient d’une indemnité de vacation, dont le taux est de quarante points indiciaires par affaire dans laquelle ils siègent.
+- Les membres suppléants de la Cour Constitutionnelle bénéficient d’une indemnité de vacation, dont le taux est de quarante points indiciaires par affaire dans laquelle ils siègent.
 
-3. Les indemnités visées aux paragraphes 1er et 2 sont non pensionnables.
+- Les indemnités visées aux paragraphes 1er et 2 sont non pensionnables.
 
 <a id="art-30"></a>
 ## Art. 30.

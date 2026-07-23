@@ -25,6 +25,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 01/01/2002 : Ordonnance de simplification du 31 mars 1943 (Verordnung über die Erhebung der Gewerbesteuer in vereinfachter Form).
 
+Auf Grund der Verordnung zur Vereinfachung der Gewerbebesteuerung vom 19. März 1943 wird verordnet:
+
 #### Abschnitt I. Festsetzung, Erhebung und Verteilung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital
 
 <a id="art-p-1"></a>
@@ -38,9 +40,9 @@ Die Festsetzung und die Erhebung der Gewerbesteuer nach dem Gewerbeertrag und de
 
 Den Gemeindebehörden obliegen für Erhebungszeiträume (§14 Absatz 2 des Gewerbesteuergesetzes), die vor dem 1. April 1943 enden, auch nach dem 31. März 1943 noch die Festsetzung und die Erhebung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital:
 
-1. bei erstmaliger Festsetzung des einheitlichen Steuermessbetrags (§ 14 Absatz 1 des Gewerbesteuergesetzes) oder des Zerlegungsanteils (§28 Absatz 1 des Gewerbesteuergesetzes),
+- bei erstmaliger Festsetzung des einheitlichen Steuermessbetrags (§ 14 Absatz 1 des Gewerbesteuergesetzes) oder des Zerlegungsanteils (§28 Absatz 1 des Gewerbesteuergesetzes),
 
-2. bei einer Änderung des einheitlichen Steuermessbetrags oder des Zerlegungsanteils, wenn die Änderung vor dem 1. April 1943 durchgeführt worden ist. Die Gemeindebehörde hat den Steuerbescheid, der der Änderung entspricht, spätestens am 15. Mai 1943 dem Steuerschuldner bekanntzugeben.
+- bei einer Änderung des einheitlichen Steuermessbetrags oder des Zerlegungsanteils, wenn die Änderung vor dem 1. April 1943 durchgeführt worden ist. Die Gemeindebehörde hat den Steuerbescheid, der der Änderung entspricht, spätestens am 15. Mai 1943 dem Steuerschuldner bekanntzugeben.
 
 <a id="art-p-2"></a>
 ## § 2
@@ -76,9 +78,9 @@ Gewogener Durchschnitt im Sinn des Absatzes 3 ist der Durchschnitt der Hebesätz
 
 Beteiligte Gemeinden im Sinn des Absatzes 4 sind:
 
-1. wenn der einheitliche Steuermessbetrag für das Rechnungsjahr 1942 nach den Vorschriften des Gewerbesteuergesetzes zu zerlegen war: die Gemeinden, die an dieser Zerlegung zu beteiligen waren;
+- wenn der einheitliche Steuermessbetrag für das Rechnungsjahr 1942 nach den Vorschriften des Gewerbesteuergesetzes zu zerlegen war: die Gemeinden, die an dieser Zerlegung zu beteiligen waren;
 
-2. in allen anderen Fällen: die Gemeinden, in denen am Ende des Erhebungszeitraums (§ 2 Absatz 1) Betriebstätten sich befinden oder auf die an diesem Zeitpunkt eine Betriebstätte sich erstreckt. Massgebend ist der Erhebungzeitraum, in dem diese Voraussetzung erstmals erfüllt ist.
+- in allen anderen Fällen: die Gemeinden, in denen am Ende des Erhebungszeitraums (§ 2 Absatz 1) Betriebstätten sich befinden oder auf die an diesem Zeitpunkt eine Betriebstätte sich erstreckt. Massgebend ist der Erhebungzeitraum, in dem diese Voraussetzung erstmals erfüllt ist.
 
 <a id="art-p-4"></a>
 ## § 4

@@ -139,7 +139,7 @@ Les examinateurs présentent au président, sous pli fermé ou par voie électro
 
 4.
 
-Le secret relatif aux sujets et questions présentés doit être observé jusqu’au début de l’épreuve concernée.
+Le secret relatif aux sujets et questions présentés doit être observé jusqu’au début de l’épreuve concernée .
 
 5.
 

@@ -36,35 +36,35 @@ Définitions et champ d’application
 
 Au sens de la présente loi, on entend par :
 
-1. « artiste » : toute personne majeure qui pratique à titre habituel, en tant que créateur ou exécutant, un art ou une discipline artistique dans les domaines des arts graphiques, plastiques et visuels, des arts de la scène, de la littérature et de la musique ;
+- « artiste » : toute personne majeure qui pratique à titre habituel, en tant que créateur ou exécutant, un art ou une discipline artistique dans les domaines des arts graphiques, plastiques et visuels, des arts de la scène, de la littérature et de la musique ;
 
-2. « artiste professionnel » : toute personne qui pratique régulièrement un art ou une discipline artistique qu’elle exerce moyennant rémunération et dans un but lucratif et qui participe activement à la vie artistique du Grand-Duché de Luxembourg dans son domaine artistique du fait de son engagement au niveau local, régional ou national et de sa collaboration avec des institutions culturelles et des acteurs culturels luxembourgeois, de manière que son parcours artistique fait preuve d’une continuité ;
+- « artiste professionnel » : toute personne qui pratique régulièrement un art ou une discipline artistique qu’elle exerce moyennant rémunération et dans un but lucratif et qui participe activement à la vie artistique du Grand-Duché de Luxembourg dans son domaine artistique du fait de son engagement au niveau local, régional ou national et de sa collaboration avec des institutions culturelles et des acteurs culturels luxembourgeois, de manière que son parcours artistique fait preuve d’une continuité ;
 
-3. « artiste créateur » : toute personne qui pratique un art ou une discipline artistique par le biais de la création d’œuvres ;
+- « artiste créateur » : toute personne qui pratique un art ou une discipline artistique par le biais de la création d’œuvres ;
 
-4. « artiste exécutant » ou « artiste interprète » : toute personne qui pratique un art ou une discipline artistique par le biais de l’exécution d’œuvres créées par autrui ;
+- « artiste exécutant » ou « artiste interprète » : toute personne qui pratique un art ou une discipline artistique par le biais de l’exécution d’œuvres créées par autrui ;
 
-5. « technicien de scène » : toute personne qui se sert de techniques sonores, audiovisuelles, d’éclairage ou de toute autre technologie de pointe, numériques ou autres, actuelles ou à venir, pour assurer le bon fonctionnement d’un spectacle ;
+- « technicien de scène » : toute personne qui se sert de techniques sonores, audiovisuelles, d’éclairage ou de toute autre technologie de pointe, numériques ou autres, actuelles ou à venir, pour assurer le bon fonctionnement d’un spectacle ;
 
-6. « artiste professionnel indépendant » : la personne qui, en dehors de tout lien de subordination, détermine elle-même les conditions dans lesquelles elle pratique un art ou une discipline artistique et qui est affiliée en tant que travailleur indépendant auprès d’un régime d’assurance pension au sens de l’article 1 er , alinéa 1 er , point 4, première phrase, du Code de la sécurité sociale ;
+- « artiste professionnel indépendant » : la personne qui, en dehors de tout lien de subordination, détermine elle-même les conditions dans lesquelles elle pratique un art ou une discipline artistique et qui est affiliée en tant que travailleur indépendant auprès d’un régime d’assurance pension au sens de l’article 1 er , alinéa 1 er , point 4, première phrase, du Code de la sécurité sociale ;
 
-7. « intermittent du spectacle » : l’artiste, créateur ou exécutant, le technicien de scène ou tout autre professionnel intervenant dans le cadre d’un projet ou d’une production cinématographique, audiovisuelle, musicale, des arts de la scène, des arts graphiques, plastiques, visuels ou littéraires, que ce soit au stade de la préparation, de la création, de l’exécution, de la diffusion ou de la promotion, qui travaille principalement de manière temporaire dans le cadre de projets individuels et limités dans la durée, de sorte qu’il alterne des périodes d’activités et des périodes d’inactivités. L’intermittent du spectacle exerce son activité principalement soit pour le compte d’entreprises ou organisateurs du spectacle vivant ou du secteur de la production cinématographique, audiovisuelle et musicale soit dans le cadre d’une production de spectacle vivant et offre ses services à autrui moyennant salaire, honoraires ou cachet sur base d’un contrat de travail à durée déterminée ou d’un contrat d’entreprise.
+- « intermittent du spectacle » : l’artiste, créateur ou exécutant, le technicien de scène ou tout autre professionnel intervenant dans le cadre d’un projet ou d’une production cinématographique, audiovisuelle, musicale, des arts de la scène, des arts graphiques, plastiques, visuels ou littéraires, que ce soit au stade de la préparation, de la création, de l’exécution, de la diffusion ou de la promotion, qui travaille principalement de manière temporaire dans le cadre de projets individuels et limités dans la durée, de sorte qu’il alterne des périodes d’activités et des périodes d’inactivités. L’intermittent du spectacle exerce son activité principalement soit pour le compte d’entreprises ou organisateurs du spectacle vivant ou du secteur de la production cinématographique, audiovisuelle et musicale soit dans le cadre d’une production de spectacle vivant et offre ses services à autrui moyennant salaire, honoraires ou cachet sur base d’un contrat de travail à durée déterminée ou d’un contrat d’entreprise.
 
 (1)
 
 La présente loi s’applique:
 
-1. aux artistes créateurs et interprètes dans les domaines des arts graphiques et plastiques, des arts de la scène, de la littérature, de la musique; ainsi que
+- aux artistes créateurs et interprètes dans les domaines des arts graphiques et plastiques, des arts de la scène, de la littérature, de la musique; ainsi que
 
-2. aux créateurs et aux réalisateurs d’oeuvres d’art et techniciens de scène qui se servent de techniques photographiques, cinématographiques, sonores, audiovisuelles ou de toutes autres technologies de pointe, numériques ou autres, actuelles ou à venir.
+- aux créateurs et aux réalisateurs d’oeuvres d’art et techniciens de scène qui se servent de techniques photographiques, cinématographiques, sonores, audiovisuelles ou de toutes autres technologies de pointe, numériques ou autres, actuelles ou à venir.
 
 (2)
 
 Les dispositions de la présente loi ne s’appliquent pas aux personnes qui ont pour activité la création:
 
-1. d’oeuvres pornographiques, incitatrices à la violence ou la haine raciale, apologétique de crimes contre l’humanité et, de manière générale, contrevenant à l’ordre public et aux bonnes moeurs;
+- d’oeuvres pornographiques, incitatrices à la violence ou la haine raciale, apologétique de crimes contre l’humanité et, de manière générale, contrevenant à l’ordre public et aux bonnes moeurs;
 
-2. d’oeuvres destinées ou utilisées à des fins purement commerciales ou de publicité.
+- d’oeuvres destinées ou utilisées à des fins purement commerciales ou de publicité.
 
 (3)
 
@@ -104,7 +104,7 @@ Au sens de la présente loi, l’intermittent du spectacle peut également exerc
 
 Commission consultative
 
-Il est institué auprès du ministre ayant la Culture dans ses attributions (ci-après dénommé «ministre») une commission consultative chargée de conseiller le ministre au sujet des demandes en admission au bénéfice des aides telles que prévues au chapitre 2 de la présente loi et des demandes en obtention d’aides à la création artistique et au développement professionnel des artistes telles que prévues à l’article 9 de la présente loi (ci-après dénommée «commission consultative»).
+Il est institué auprès du ministre ayant la Culture dans ses attributions (ci-après dénommé «ministre») une commission consultative chargée de conseiller le ministre au sujet des demandes en admission au bénéfice des aides telles que prévues au chapitre 2 de la présente loi et des demandes en obtention d’ aides à la création artistique et au développement professionnel des artistes telles que prévues à l’article 9 de la présente loi (ci-après dénommée «commission consultative»).
 
 La composition et le fonctionnement de la commission consultative ainsi que l’indemnisation de ses membres sont déterminés par règlement grand-ducal.
 
@@ -119,17 +119,17 @@ Aides en faveur des artistes professionnels indépendants
 
 Les artistes professionnels indépendants au sens de la présente loi, sur demande écrite adressée au ministre, sont admis au bénéfice des aides en faveur des artistes professionnels indépendants à condition :
 
-1. de remplir la condition prévue à l’article 1 er , paragraphe 3 ;
+- de remplir la condition prévue à l’article 1 er , paragraphe 3 ;
 
-2. de répondre aux critères de la définition prévue à l’article 1 er , paragraphe 1-0, point 6, depuis au moins deux ans précédant immédiatement la demande ;
+- de répondre aux critères de la définition prévue à l’article 1 er , paragraphe 1-0, point 6, depuis au moins deux ans précédant immédiatement la demande ;
 
-3. que leur activité artistique ait généré un revenu moyen annuel d’au moins quatre fois le salaire social minimum mensuel pour travailleurs non qualifiés sur les deux années précédant immédiatement la demande ;
+- que leur activité artistique ait généré un revenu moyen annuel d’au moins quatre fois le salaire social minimum mensuel pour travailleurs non qualifiés sur les deux années précédant immédiatement la demande ;
 
-4. de ne pas être admis au bénéfice de l’indemnisation en cas d’inactivité involontaire prévue à l’article 6 ;
+- de ne pas être admis au bénéfice de l’indemnisation en cas d’inactivité involontaire prévue à l’article 6 ;
 
-5. de ne pas toucher un revenu de remplacement au titre de la législation luxembourgeoise ou étrangère ;
+- de ne pas toucher un revenu de remplacement au titre de la législation luxembourgeoise ou étrangère ;
 
-6. de ne pas exercer une activité principale régie par la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales et les règlements y relatifs.
+- de ne pas exercer une activité principale régie par la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales et les règlements y relatifs.
 
 Les personnes qui peuvent se prévaloir d’un diplôme de niveau universitaire sanctionnant un cycle complet d’au moins trois années, délivré à la suite d’études spécialisées dans une des disciplines artistiques visées par la présente loi et inscrit au registre des titres de formation prévu par la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles sont dispensées des conditions énumérées aux points 2 et 3.
 
@@ -155,9 +155,9 @@ Pour la détermination des ressources mensuelles de l’artiste sont pris en com
 
 Aucune aide au titre de la présente loi ne peut être perçue pour les mois pendant lesquels l’artiste professionnel indépendant :
 
-1. est admis au bénéfice de l’indemnisation en cas d’inactivité involontaire prévue à l’article 6 ; ou
+- est admis au bénéfice de l’indemnisation en cas d’inactivité involontaire prévue à l’article 6 ; ou
 
-2. touche un revenu de remplacement au titre de la législation luxembourgeoise ou étrangère.
+- touche un revenu de remplacement au titre de la législation luxembourgeoise ou étrangère.
 
 Les modalités relatives à la demande en obtention des aides sont déterminées par règlement grand-ducal.
 
@@ -165,11 +165,11 @@ Les modalités relatives à la demande en obtention des aides sont déterminées
 
 Les artistes professionnels indépendants admis au bénéfice des aides bénéficient, sur demande, mensuellement d’un montant supplémentaire par rapport à ce qui est prévu par le paragraphe 3 ne pouvant dépasser la moitié du salaire social minimum pour travailleurs qualifiés de la part du Fonds social culturel , la somme des ressources mensuelles propres et de l’aide de soutien mensuelle ne pouvant dépasser 1,5 fois le salaire social minimum pour travailleurs qualifiés, et ce :
 
-1. pendant une période au cours de laquelle a lieu un événement imprévisible rendant impossible l’exercice normal des activités tombant sous le champ d’application de la présente loi ;
+- pendant une période au cours de laquelle a lieu un événement imprévisible rendant impossible l’exercice normal des activités tombant sous le champ d’application de la présente loi ;
 
-2. lorsque l’artiste professionnel indépendant établit qu’il rencontre des difficultés temporaires à effectuer ses prestations artistiques pendant l’événement imprévisible ;
+- lorsque l’artiste professionnel indépendant établit qu’il rencontre des difficultés temporaires à effectuer ses prestations artistiques pendant l’événement imprévisible ;
 
-3. s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à effectuer ses prestations artistiques.
+- s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à effectuer ses prestations artistiques.
 
 Pour être admise au bénéfice des aides, l’activité artistique doit, par dérogation au paragraphe 1er, alinéa 1er, point 3, avoir généré un revenu moyen annuel d’au moins quatre fois le salaire social minimum mensuel pour travailleurs non qualifiés sur les deux années précédant immédiatement la demande, réduit d’un montant équivalent au tiers du salaire social minimum pour travailleurs non qualifiés pour chaque mois pendant lequel perdure l’événement imprévisible.
 
@@ -184,27 +184,27 @@ Aides en cas d’inactivité des intermittents du spectacle
 
 Le bénéfice d’une indemnisation en cas d’inactivité involontaire est accordé aux intermittents du spectacle au sens de l’article 1er, paragraphe 1-0, point 7, de la présente loi, à condition:
 
-1. qu’ils justifient d’une période d’activité comptant quatre-vingt jours au moins et pendant lesquels une activité rémunérée principale a été exercée de manière temporaire soit pour le compte d’entreprises ou organisateurs du spectacle vivant ou du secteur de la production cinématographique, audiovisuelle et musicale, soit dans le cadre d’une production de spectacle vivant, ceci endéans la période de 365 jours de calendrier précédant la demande d’ouverture des droits en indemnisation ;
+- qu’ils justifient d’une période d’activité comptant quatre-vingt jours au moins et pendant lesquels une activité rémunérée principale a été exercée de manière temporaire soit pour le compte d’entreprises ou organisateurs du spectacle vivant ou du secteur de la production cinématographique, audiovisuelle et musicale, soit dans le cadre d’une production de spectacle vivant, ceci endéans la période de 365 jours de calendrier précédant la demande d’ouverture des droits en indemnisation ;
 
-2. que cette activité ait généré un revenu au moins égal à quatre fois le salaire social minimum mensuel pour travailleurs non qualifiés au cours de l’année précédant immédiatement la demande;
+- que cette activité ait généré un revenu au moins égal à quatre fois le salaire social minimum mensuel pour travailleurs non qualifiés au cours de l’année précédant immédiatement la demande;
 
-3. que cette activité ait donné lieu à affiliation auprès d’un régime d’assurance pension;
+- que cette activité ait donné lieu à affiliation auprès d’un régime d’assurance pension;
 
-4. qu’ils remplissent la condition prévue à l’article 1 er , paragraphe 3;
+- qu’ils remplissent la condition prévue à l’article 1 er , paragraphe 3;
 
-5. qu’ils ne soient pas admis au bénéfice des aides en faveur des artistes professionnels indépendants;
+- qu’ils ne soient pas admis au bénéfice des aides en faveur des artistes professionnels indépendants;
 
-6. qu’ils ne soient pas admis au bénéfice de l’indemnité de chômage prévue par le titre II du livre V du Code du travail ;
+- qu’ils ne soient pas admis au bénéfice de l’indemnité de chômage prévue par le titre II du livre V du Code du travail ;
 
-7. qu’ils ne soient pas admis au bénéfice du revenu d’inclusion sociale prévu par la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale.
+- qu’ils ne soient pas admis au bénéfice du revenu d’inclusion sociale prévu par la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale.
 
 (1bis)
 
 Sont considérées comme période d’activités au sens du présent article, à concurrence d‘un maximum de 10 jours sur les 80 jours d’activités, les activités occasionnelles suivantes :
 
-1. les participations à des formations en rapport avec l’exercice de l’activité d’intermittent du spectacle ;
+- les participations à des formations en rapport avec l’exercice de l’activité d’intermittent du spectacle ;
 
-2. la tenue d’activités pédagogiques ou de leçons dans un contexte éducatif et toute autre activité de médiation culturelle à condition d’être liée à l’activité d’intermittent du spectacle et d’être rémunérée.
+- la tenue d’activités pédagogiques ou de leçons dans un contexte éducatif et toute autre activité de médiation culturelle à condition d’être liée à l’activité d’intermittent du spectacle et d’être rémunérée.
 
 La période d’activités minimale prévue au paragraphe 1er, point 1, est ramenée à soixante jours pour l’intermittent du spectacle ayant atteint l’âge de cinquante ans à condition qu’il s’agisse au moins de sa huitième admission au bénéfice d’indemnisation en cas d’inactivité involontaire consécutive.
 
@@ -222,11 +222,11 @@ L’admission au bénéfice de l’indemnisation en cas d’inactivité involont
 
 L’intermittent du spectacle admis au bénéfice de l’indemnisation en cas d’inactivité involontaire peut toucher jusqu’à vingt indemnités journalières par mois supplémentaires en cas d’inactivité involontaire par rapport aux cent vingt et une ou cent trente et une indemnités journalières prévues à l’alinéa 1er, et ce :
 
-1. pendant une période au cours de laquelle a lieu un événement imprévisible au sens de l’article 5, paragraphe 4, rendant impossible l’exercice normal des activités tombant sous le champ d’application de la présente loi
+- pendant une période au cours de laquelle a lieu un événement imprévisible au sens de l’article 5, paragraphe 4, rendant impossible l’exercice normal des activités tombant sous le champ d’application de la présente loi
 
-2. lorsque l’intermittent du spectacle établit qu’il rencontre des difficultés temporaires à offrir ses services tels que prévus par l’article 3 de la présente loi pendant l’événement imprévisible ; et
+- lorsque l’intermittent du spectacle établit qu’il rencontre des difficultés temporaires à offrir ses services tels que prévus par l’article 3 de la présente loi pendant l’événement imprévisible ; et
 
-3. s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à effectuer ses services.
+- s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à effectuer ses services.
 
 Pour être admis au bénéfice des aides , l’intermittent du spectacle doit, par dérogation à l’article 6, paragraphe 1er, point 1, justifier d’une période comptant quatre-vingt jours au moins, réduite de 7 jours pour chaque mois pendant la période déterminée par règlement grand-ducal, ceci endéans la période de 365 jours de calendrier précédant la demande d’ouverture des droits en indemnisation.
 
@@ -306,9 +306,9 @@ Bourse de relève
 
 Une bourse de relève pour une durée maximale de six mois peut être attribuée aux artistes professionnels qui peuvent se prévaloir d’un diplôme de niveau universitaire sanctionnant un cycle complet d’au moins trois années, délivré à la suite d’études spécialisées dans une des disciplines artistiques visées par la présente loi et inscrit au registre des titres de formation prévu par la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles et qui soumettent leur demande dans l’année qui suit l’obtention de leur diplôme, à condition :
 
-1. d’être affiliées en tant que travailleur indépendant au sens de l’article 1 er , alinéa 1 er , point 4, première phrase, du Code de la sécurité sociale ;
+- d’être affiliées en tant que travailleur indépendant au sens de l’article 1 er , alinéa 1 er , point 4, première phrase, du Code de la sécurité sociale ;
 
-2. de faire preuve d’un engagement dans la scène artistique et culturelle luxembourgeoise et de fournir une motivation écrite concernant leurs activités artistiques prévues.
+- de faire preuve d’un engagement dans la scène artistique et culturelle luxembourgeoise et de fournir une motivation écrite concernant leurs activités artistiques prévues.
 
 La bourse d’un montant mensuel égal au cinquième du salaire social minimum mensuel pour travailleurs qualifiés est attribuée par décision du ministre, l’avis de la commission consultative demandé.
 
@@ -336,9 +336,9 @@ Exemptions
 
 Sont exemptés de l’impôt sur le revenu dans le chef des artistes professionnels ou non:
 
-1. les prix artistiques et académiques attribués par les collectivités de droit public luxembourgeoises ou étrangères ou par des organismes internationaux dont fait partie le Grand-Duché de Luxembourg, dans la mesure où ils ne constituent pas la rémunération d’une prestation économique;
+- les prix artistiques et académiques attribués par les collectivités de droit public luxembourgeoises ou étrangères ou par des organismes internationaux dont fait partie le Grand-Duché de Luxembourg, dans la mesure où ils ne constituent pas la rémunération d’une prestation économique;
 
-2. l’aide prévue à l’article 9 de la présente loi.
+- l’aide prévue à l’article 9 de la présente loi.
 
 <a id="art-12"></a>
 ## Art. 12.

@@ -54,13 +54,13 @@ Les indices allant de 100 à 120 déterminent le volume des leçons attribuées 
 
 - soit sur la base de données socio-économiques relevant des ménages ayant au moins un enfant scolarisé dans l’école publique luxembourgeoise. Dans ce cas la procédure de transmission des fichiers nécessaires à l’établissement des indices entre les administrations concernées est la suivante:
 
-1. l’inspection générale de la sécurité sociale (IGSS) anonymise sous forme de numéros les matricules des responsables d’éducation et les transmet à l’administration du ministère de l’éducation nationale;
+  - l’inspection générale de la sécurité sociale (IGSS) anonymise sous forme de numéros les matricules des responsables d’éducation et les transmet à l’administration du ministère de l’éducation nationale;
 
-2. l’administration du ministère de l’éducation nationale y attache les informations permettant d’attribuer les numéros aux communes et les transmet au Centre d’Études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS);
+  - l’administration du ministère de l’éducation nationale y attache les informations permettant d’attribuer les numéros aux communes et les transmet au Centre d’Études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS);
 
-3. l’inspection générale de la sécurité sociale (IGSS) transmet les numéros avec les données socio-économiques nécessaires à l’établissement des indices au Centre d’Études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS);
+  - l’inspection générale de la sécurité sociale (IGSS) transmet les numéros avec les données socio-économiques nécessaires à l’établissement des indices au Centre d’Études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS);
 
-4. le Centre d’Études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS) recoupe les deux fichiers contenant des données anonymisées.
+  - le Centre d’Études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS) recoupe les deux fichiers contenant des données anonymisées.
 
 - soit sur la base de données socio-économiques relevant de la population résidante constituée des ménages ayant au moins un enfant entre 3 et 12 ans telles que transmises au Centre d’Études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS) par l’inspection générale de la sécurité sociale (IGSS) sous forme de données anonymisées.
 

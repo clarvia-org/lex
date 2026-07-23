@@ -35,11 +35,11 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le Conseil d’État donne son avis sur tout projet ou proposition de loi ainsi que sur tout amendement afférent et sur tout projet de règlement grand-ducal pris pour l’exécution des lois et des traités.
 
-Si la Chambre des Députés a procédé au vote article par article conformément à l’article 78, paragraphe 3, de la Constitution, sans que les dispositions votées ou une partie de ces dispositions aient été avisées par le Conseil d’État, celui-ci rend son avis sur les dispositions votées dans un délai de trois mois au plus à partir de la date de la communication par la Chambre des Députés au Conseil d’État des dispositions votées. Faute d’avis dans ce délai, la Chambre peut passer au vote sur l’ensemble de la loi.
+Si la Chambre des Députés a procédé au vote article par article conformément à l’ article 78, paragraphe 3, de la Constitution, sans que les dispositions votées ou une partie de ces dispositions aient été avisées par le Conseil d’État, celui-ci rend son avis sur les dispositions votées dans un délai de trois mois au plus à partir de la date de la communication par la Chambre des Députés au Conseil d’État des dispositions votées. Faute d’avis dans ce délai, la Chambre peut passer au vote sur l’ensemble de la loi.
 
 Sauf le cas d’urgence à apprécier par le Grand-Duc si la loi n’en dispose pas autrement, aucun règlement pour l’exécution des lois et des traités ne peut être pris par le Grand-Duc qu’après que le Conseil d’État a été entendu en son avis.
 
-Dans les matières réservées à la loi par la Constitution, le Conseil d’État peut demander au Gouvernement de le saisir des projets des règlements visés à l’article 45, paragraphes 2 et 3, alinéa 2, de la Constitution avant de donner son avis sur un projet de loi qui prévoit l’adoption de ces règlements.
+Dans les matières réservées à la loi par la Constitution, le Conseil d’État peut demander au Gouvernement de le saisir des projets des règlements visés à l’ article 45, paragraphes 2 et 3, alinéa 2, de la Constitution avant de donner son avis sur un projet de loi qui prévoit l’adoption de ces règlements.
 
 (2)
 
@@ -57,7 +57,7 @@ La Chambre des Députés et le Gouvernement peuvent soumettre au Conseil d’Ét
 <a id="art-3"></a>
 ## Art. 3.
 
-Conformément à l’article 78, paragraphe 4, de la Constitution, le Conseil d’État se prononce sur la dispense du second vote constitutionnel.
+Conformément à l’ article 78, paragraphe 4, de la Constitution, le Conseil d’État se prononce sur la dispense du second vote constitutionnel.
 
 #### Chapitre 2 Composition, nomination et fin de mandat
 
@@ -87,38 +87,38 @@ Les membres du Conseil d’État portent le titre de conseiller d’État.
 
 Pour être membre du Conseil d’État, il faut:
 
-1. être de nationalité luxembourgeoise;
+- être de nationalité luxembourgeoise;
 
-2. jouir des droits civils et politiques;
+- jouir des droits civils et politiques;
 
-3. résider au Grand-Duché de Luxembourg;
+- résider au Grand-Duché de Luxembourg;
 
-4. être âgé de trente ans accomplis.
+- être âgé de trente ans accomplis.
 
 (2)
 
 Les fonctions de membre du Conseil d’État sont compatibles avec toute fonction et toute profession à l’exception:
 
-1. des fonctions de membre du Gouvernement;
+- des fonctions de membre du Gouvernement;
 
-2. du mandat de député;
+- du mandat de député;
 
-3. du mandat de membre du Parlement européen;
+- du mandat de membre du Parlement européen;
 
-4. des fonctions énumérées à l’article 34;
+- des fonctions énumérées à l’article 34;
 
-5. des fonctions de membre du Comité de déontologie, tel que prévu à l’article 26.
+- des fonctions de membre du Comité de déontologie, tel que prévu à l’article 26.
 
 <a id="art-6"></a>
 ## Art. 6.
 
 Lorsqu’il s’agit de pourvoir à la vacance d’un siège, le membre du Conseil d’État est nommé par le Grand-Duc, alternativement et dans l’ordre suivant:
 
-1. sur proposition d’un candidat par le Gouvernement;
+- sur proposition d’un candidat par le Gouvernement;
 
-2. sur proposition d’un candidat par la Chambre des Députés;
+- sur proposition d’un candidat par la Chambre des Députés;
 
-3. sur proposition d’un candidat par le Conseil d’État.
+- sur proposition d’un candidat par le Conseil d’État.
 
 Par dérogation à l’alinéa qui précède, le Grand-Duc héritier est désigné par nomination directe du Grand-Duc.
 
@@ -129,9 +129,9 @@ Dans les cas visés aux points a) et b), le Conseil d’État soumet à l’auto
 
 Lors de la désignation du candidat, l’autorité investie du pouvoir de proposition:
 
-1. veille à ce que la composition du Conseil d’État tienne compte des partis politiques représentés à la Chambre des Députés à condition d’avoir obtenu au moins trois sièges au cours de chacune des deux dernières élections législatives;
+- veille à ce que la composition du Conseil d’État tienne compte des partis politiques représentés à la Chambre des Députés à condition d’avoir obtenu au moins trois sièges au cours de chacune des deux dernières élections législatives;
 
-2. tend à assurer une représentation équilibrée des femmes et des hommes dans la composition du Conseil d’État. Le nombre du sexe sous-représenté ne peut être inférieur à sept.
+- tend à assurer une représentation équilibrée des femmes et des hommes dans la composition du Conseil d’État. Le nombre du sexe sous-représenté ne peut être inférieur à sept.
 
 Le Conseil d’État est valablement composé même si, pendant une vacance de siège, le nombre requis de conseillers d’État du sexe sous-représenté n’est plus atteint.
 
@@ -142,11 +142,11 @@ Les règles fixées au présent article ne s’appliquent pas à la nomination d
 
 En cas de renouvellement intégral du Conseil d’État, le Grand-Duc nomme dans l’ordre suivant:
 
-1. sept membres proposés par le Gouvernement;
+- sept membres proposés par le Gouvernement;
 
-2. sept membres proposés par la Chambre des Députés;
+- sept membres proposés par la Chambre des Députés;
 
-3. sept membres proposés par le Conseil d’État, composé selon les prescriptions des points a) et b) qui précèdent.
+- sept membres proposés par le Conseil d’État, composé selon les prescriptions des points a) et b) qui précèdent.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -164,11 +164,11 @@ En cas de renouvellement intégral du Conseil d’État, la prestation de sermen
 
 Les fonctions de membre du Conseil d’État prennent fin de plein droit
 
-1. après une période continue ou discontinue de douze ans;
+- après une période continue ou discontinue de douze ans;
 
-2. au moment où l’intéressé a atteint l’âge de soixante-douze ans; ou
+- au moment où l’intéressé a atteint l’âge de soixante-douze ans; ou
 
-3. lorsqu’il accepte l’un des mandats ou l’une des fonctions énumérés à l’article 5, paragraphe 2.
+- lorsqu’il accepte l’un des mandats ou l’une des fonctions énumérés à l’article 5, paragraphe 2.
 
 (2)
 
@@ -324,13 +324,13 @@ Est qualifié faute disciplinaire tout acte commis dans l’exercice ou hors de 
 
 Selon la gravité de la faute, les sanctions suivantes peuvent être prononcées:
 
-1. l’avertissement;
+- l’avertissement;
 
-2. la réprimande;
+- la réprimande;
 
-3. l’exclusion temporaire des fonctions, avec privation de l’indemnité pour une période de six mois au maximum;
+- l’exclusion temporaire des fonctions, avec privation de l’indemnité pour une période de six mois au maximum;
 
-4. la révocation, qui emporte la perte du titre.
+- la révocation, qui emporte la perte du titre.
 
 <a id="art-26"></a>
 ## Art. 26.

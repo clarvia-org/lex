@@ -97,11 +97,11 @@ Par dérogation au paragraphe précédent, sont applicables les dispositions ci-
 
 Les conducteurs de véhicules affectés au transport de voyageurs par des services réguliers dont le parcours de la ligne ne dépasse pas 50 kilomètres doivent respecter les dispositions prévues aux articles 6 à 9 et 12 du règlement (CE) n° 561/2006 précité avec les dérogations suivantes, les définitions de l’article 4 de ce règlement étant d’application :
 
-1. les pauses prévues à l’horaire de service doivent être d’au moins huit minutes ;
+- les pauses prévues à l’horaire de service doivent être d’au moins huit minutes ;
 
-2. l’ensemble de ces pauses doit égaler au moins un sixième de la durée de conduite journalière prévue par l’horaire de service ;
+- l’ensemble de ces pauses doit égaler au moins un sixième de la durée de conduite journalière prévue par l’horaire de service ;
 
-3. en cas de conduite ininterrompue de quatre heures et demie, le conducteur doit prendre une pause d’au moins quarante-cinq minutes.
+- en cas de conduite ininterrompue de quatre heures et demie, le conducteur doit prendre une pause d’au moins quarante-cinq minutes.
 
 Aux fins de ce qui précède, l’entreprise de transport établit un horaire de service pour chaque conducteur indiquant le nom, le point d’attache, les lignes à conduire, les véhicules prévus, les périodes de conduite, les autres tâches, les pauses et les moments de disponibilité.
 
@@ -125,19 +125,19 @@ L’article 12 du présent règlement est applicable dans ce cas.
 
 En application de l’article 13 du règlement (CE) n° 561/2006 précité, les articles 6 à 9 de ce même règlement ne sont pas applicables aux transports nationaux effectués par les véhicules suivants :
 
-1. tracteurs agricoles ou forestiers utilisés pour des activités agricoles ou forestières, dans un rayon de 100 kilomètres autour du lieu de l’établissement de l’entreprise qui est propriétaire du véhicule, qui le loue ou le prend en leasing ;
+- tracteurs agricoles ou forestiers utilisés pour des activités agricoles ou forestières, dans un rayon de 100 kilomètres autour du lieu de l’établissement de l’entreprise qui est propriétaire du véhicule, qui le loue ou le prend en leasing ;
 
-2. véhicules ou combinaison de véhicules d’une masse maximale admissible n’excédant pas 7,5 tonnes utilisés par des prestataires du service universel tels que définis à l’article 2, point 13), de la directive 97/67/CE du Parlement européen et du Conseil du 15 décembre 1997 concernant des règles communes pour le développement du marché intérieur des services postaux de la Communauté et l’amélioration de la qualité du service pour livrer des envois dans le cadre du service universel. Ces véhicules ne doivent être utilisés que dans un rayon de 100 kilomètres autour du lieu d’établissement de l’entreprise et à condition que la conduite du véhicule ne constitue pas l’activité principale du conducteur ;
+- véhicules ou combinaison de véhicules d’une masse maximale admissible n’excédant pas 7,5 tonnes utilisés par des prestataires du service universel tels que définis à l’article 2, point 13), de la directive 97/67/CE du Parlement européen et du Conseil du 15 décembre 1997 concernant des règles communes pour le développement du marché intérieur des services postaux de la Communauté et l’amélioration de la qualité du service pour livrer des envois dans le cadre du service universel. Ces véhicules ne doivent être utilisés que dans un rayon de 100 kilomètres autour du lieu d’établissement de l’entreprise et à condition que la conduite du véhicule ne constitue pas l’activité principale du conducteur ;
 
-3. véhicules utilisés pour des cours et des examens de conduite préparant à l’obtention du permis de conduire ou d’un certificat d’aptitude professionnelle pour autant qu’ils ne soient pas utilisés pour le transport de marchandises ou de voyageurs à des fins commerciales ;
+- véhicules utilisés pour des cours et des examens de conduite préparant à l’obtention du permis de conduire ou d’un certificat d’aptitude professionnelle pour autant qu’ils ne soient pas utilisés pour le transport de marchandises ou de voyageurs à des fins commerciales ;
 
-4. véhicules utilisés dans le cadre des activités liées à l’évacuation des eaux usées, à la protection contre les inondations, ou au service des eaux, du gaz et de l’électricité, à l’entretien et à la surveillance de la voirie, à la collecte et l’élimination en porte-à-porte des déchets ménagers, aux services du télégraphe et du téléphone, à la radio et à la télédiffusion, et à la détection des postes émetteurs ou récepteurs de radio ou de télévision ;
+- véhicules utilisés dans le cadre des activités liées à l’évacuation des eaux usées, à la protection contre les inondations, ou au service des eaux, du gaz et de l’électricité, à l’entretien et à la surveillance de la voirie, à la collecte et l’élimination en porte-à-porte des déchets ménagers, aux services du télégraphe et du téléphone, à la radio et à la télédiffusion, et à la détection des postes émetteurs ou récepteurs de radio ou de télévision ;
 
-5. véhicules spécialisés transportant du matériel de cirque ou de fêtes foraines ;
+- véhicules spécialisés transportant du matériel de cirque ou de fêtes foraines ;
 
-6. véhicules utilisés pour la collecte du lait dans les fermes ou ramenant aux fermes des bidons à lait ou des produits laitiers destinés à l’alimentation du bétail ;
+- véhicules utilisés pour la collecte du lait dans les fermes ou ramenant aux fermes des bidons à lait ou des produits laitiers destinés à l’alimentation du bétail ;
 
-7. véhicules utilisés pour le transport d’animaux vivants des fermes aux marchés locaux et vice-versa, ou des marchés aux abattoirs locaux dans un rayon d’au plus 100 kilomètres.
+- véhicules utilisés pour le transport d’animaux vivants des fermes aux marchés locaux et vice-versa, ou des marchés aux abattoirs locaux dans un rayon d’au plus 100 kilomètres.
 
 En application de l’article 3, paragraphe 2, du règlement (UE) n° 165/2014 précité, les véhicules cités sous a), b), d), e), f) et g) à l’alinéa précédent ne doivent pas être équipés d’un tachygraphe lorsqu’ils effectuent des transports nationaux au Luxembourg.
 
@@ -146,19 +146,19 @@ En application de l’article 3, paragraphe 2, du règlement (UE) n° 165/2014 p
 
 La Société nationale de circulation automobile , désignée ci-après par le sigle SNCA , est chargée de l’émission et de la délivrance des cartes de tachygraphe définies à l’article 7. Cette tâche comporte notamment:
 
-1. la vérification fiable et sans équivoque de l’identité du titulaire de chaque carte;
+- la vérification fiable et sans équivoque de l’identité du titulaire de chaque carte;
 
-2. l’émission, le renouvellement, le remplacement et l’échange de cartes;
+- l’émission, le renouvellement, le remplacement et l’échange de cartes;
 
-3. la personnalisation des cartes, la génération de leurs certificats électroniques et l’intégration sécurisée de ceux-ci dans les cartes;
+- la personnalisation des cartes, la génération de leurs certificats électroniques et l’intégration sécurisée de ceux-ci dans les cartes;
 
-4. la mise à jour de la base de données des cartes délivrées, de leurs titulaires et de leurs certificats électroniques;
+- la mise à jour de la base de données des cartes délivrées, de leurs titulaires et de leurs certificats électroniques;
 
-5. la délivrance sécurisée des cartes et, le cas échéant, du code d’identification personnel requis pour l’accès à la carte;
+- la délivrance sécurisée des cartes et, le cas échéant, du code d’identification personnel requis pour l’accès à la carte;
 
-6. l’échange des informations inhérentes à l’émission, au renouvellement, au remplacement et à l’échange des cartes avec les autorités compétentes étrangères, y inclus les informations relatives aux déclarations de perte, de vol ou de mauvais fonctionnement de cartes émises soit par la SNCA , soit par des autorités étrangères;
+- l’échange des informations inhérentes à l’émission, au renouvellement, au remplacement et à l’échange des cartes avec les autorités compétentes étrangères, y inclus les informations relatives aux déclarations de perte, de vol ou de mauvais fonctionnement de cartes émises soit par la SNCA , soit par des autorités étrangères;
 
-7. la définition et la publication des lignes de conduite applicables au processus de génération des certificats électroniques, en accord avec les lignes de conduites émises, sous la responsabilité de la Commission Européenne, par l’organisme de certification européen.
+- la définition et la publication des lignes de conduite applicables au processus de génération des certificats électroniques, en accord avec les lignes de conduites émises, sous la responsabilité de la Commission Européenne, par l’organisme de certification européen.
 
 Les tâches désignées sous c) sont susceptibles d’être sous-traitées.
 
@@ -236,15 +236,15 @@ En vue de l’obtention d’une carte de conducteur, l’intéressé est tenu de
 
 La demande doit être appuyée par les éléments suivants:
 
-1. une copie d’un document d’identité du requérant, en cours de validité;
+- une copie d’un document d’identité du requérant, en cours de validité;
 
-2. une copie du permis de conduire du requérant, valable pour la conduite d’un véhicule tombant sous l’application du présent règlement;
+- une copie du permis de conduire du requérant, valable pour la conduite d’un véhicule tombant sous l’application du présent règlement;
 
-3. une déclaration de l’intéressé attestant qu’il n’est pas encore ni déjà titulaire d’une carte de conducteur en cours de validité, ayant été émise par une autorité étrangère;
+- une déclaration de l’intéressé attestant qu’il n’est pas encore ni déjà titulaire d’une carte de conducteur en cours de validité, ayant été émise par une autorité étrangère;
 
-4. deux photographies récentes identiques, établies sur papier souple, d’une largeur de 35 mm et d’une hauteur de 45 mm, la tête de l’intéressé - prise de face devant un fond clair - ayant au moins 20 mm de hauteur;
+- deux photographies récentes identiques, établies sur papier souple, d’une largeur de 35 mm et d’une hauteur de 45 mm, la tête de l’intéressé - prise de face devant un fond clair - ayant au moins 20 mm de hauteur;
 
-5. un certificat de résidence datant de moins d’un mois, attestant que l’intéressé a sa résidence normale au Grand-Duché de Luxembourg.
+- un certificat de résidence datant de moins d’un mois, attestant que l’intéressé a sa résidence normale au Grand-Duché de Luxembourg.
 
 La durée de validité maximale d’une carte de conducteur est de cinq ans.
 
@@ -335,13 +335,13 @@ En vue de l’obtention d’une carte d’atelier, le mandataire de l’atelier 
 
 La demande doit être appuyée par les éléments suivants:
 
-1. une copie d’un document d’identité du candidat-titulaire, en cours de validité;
+- une copie d’un document d’identité du candidat-titulaire, en cours de validité;
 
-2. un document attestant les relations professionnelles entre l’atelier et le candidat-titulaire;
+- un document attestant les relations professionnelles entre l’atelier et le candidat-titulaire;
 
-3. une photographie récente du candidat-titulaire, établie sur papier souple, d’une largeur de 35 mm et d’une hauteur de 45 mm, la tête du candidat-titulaire - prise de face devant un fond clair - ayant au moins 20 mm de hauteur;
+- une photographie récente du candidat-titulaire, établie sur papier souple, d’une largeur de 35 mm et d’une hauteur de 45 mm, la tête du candidat-titulaire - prise de face devant un fond clair - ayant au moins 20 mm de hauteur;
 
-4. une attestation, datant de moins de 24 mois, relative à la participation du candidat-titulaire avec succès à un cours de formation technique d’au moins cinq jours auprès d’un fabricant de tachygraphes.
+- une attestation, datant de moins de 24 mois, relative à la participation du candidat-titulaire avec succès à un cours de formation technique d’au moins cinq jours auprès d’un fabricant de tachygraphes.
 
 La durée de validité maximale d’une carte d’atelier est d’un an.
 

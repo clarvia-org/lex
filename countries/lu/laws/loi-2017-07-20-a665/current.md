@@ -32,41 +32,41 @@ Définitions.
 
 Aux fins de la présente loi, on entend par:
 
-1. Actifs corporels: les actifs consistant en des terrains, des bâtiments, des machines et des équipements.
+- Actifs corporels: les actifs consistant en des terrains, des bâtiments, des machines et des équipements.
 
-2. Actifs incorporels: les actifs n’ayant aucune forme physique ni financière tels que les brevets, les licences, le savoir-faire ou d’autres types de propriété intellectuelle.
+- Actifs incorporels: les actifs n’ayant aucune forme physique ni financière tels que les brevets, les licences, le savoir-faire ou d’autres types de propriété intellectuelle.
 
-3. Activité identique ou similaire: toute activité relevant de la même catégorie de la nomenclature statistique des activités économiques NACE.
+- Activité identique ou similaire: toute activité relevant de la même catégorie de la nomenclature statistique des activités économiques NACE.
 
-4. Début des travaux: soit le début des travaux de construction liés à l’investissement, soit le premier engagement juridiquement contraignant de commande d’équipement ou tout autre engagement rendant l’investissement irréversible, selon l’évènement qui se produit en premier. L’achat de terrains et les préparatifs tels que l’obtention d’autorisations et la réalisation d’études de faisabilité ne sont pas considérés comme le début des travaux. Dans le cas des rachats, il s’agit du moment de l’acquisition des actifs directement liés à l’établissement acquis.
+- Début des travaux: soit le début des travaux de construction liés à l’investissement, soit le premier engagement juridiquement contraignant de commande d’équipement ou tout autre engagement rendant l’investissement irréversible, selon l’évènement qui se produit en premier. L’achat de terrains et les préparatifs tels que l’obtention d’autorisations et la réalisation d’études de faisabilité ne sont pas considérés comme le début des travaux. Dans le cas des rachats, il s’agit du moment de l’acquisition des actifs directement liés à l’établissement acquis.
 
-5. 4bis Délocalisation : un transfert, en tout ou en partie, d’une activité identique ou similaire d’un établissement situé sur le territoire d’une partie contractante à l’accord Espace économique européen vers l’établissement dans lequel est effectué l’investissement bénéficiant d’une aide sur le territoire d’une autre partie contractante à l’accord Espace économique européen. Il y a transfert si le produit ou le service dans l’établissement initial et l’établissement bénéficiant de l’aide a au moins en partie les mêmes finalités et répond aux demandes ou aux besoins du même type de consommateurs et que des emplois sont supprimés dans une activité identique ou similaire dans un des établissements initiaux du bénéficiaire dans l’Espace économique européen.
+- 4bis Délocalisation : un transfert, en tout ou en partie, d’une activité identique ou similaire d’un établissement situé sur le territoire d’une partie contractante à l’accord Espace économique européen vers l’établissement dans lequel est effectué l’investissement bénéficiant d’une aide sur le territoire d’une autre partie contractante à l’accord Espace économique européen. Il y a transfert si le produit ou le service dans l’établissement initial et l’établissement bénéficiant de l’aide a au moins en partie les mêmes finalités et répond aux demandes ou aux besoins du même type de consommateurs et que des emplois sont supprimés dans une activité identique ou similaire dans un des établissements initiaux du bénéficiaire dans l’Espace économique européen.
 
-6. Etablissement: toute entreprise:
+- Etablissement: toute entreprise:
 
-1. de production ou de transformation de biens ou;
+  - de production ou de transformation de biens ou;
 
-2. de prestation de services relevant d’une branche d’activité reconnue comme ayant une influence motrice sur le développement économique ou;
+  - de prestation de services relevant d’une branche d’activité reconnue comme ayant une influence motrice sur le développement économique ou;
 
-3. ayant des activités de recherche.
+  - ayant des activités de recherche.
 
-7. Grande entreprise: toute entreprise ne remplissant pas les critères d’une petite ou moyenne entreprise.
+- Grande entreprise: toute entreprise ne remplissant pas les critères d’une petite ou moyenne entreprise.
 
-8. Investissement initial:
+- Investissement initial:
 
-1. tout investissement dans des actifs corporels et incorporels se rapportant:
+  - tout investissement dans des actifs corporels et incorporels se rapportant:
 
-- à la création d’un établissement ou;
+    - à la création d’un établissement ou;
 
-- à l’extension des capacités d’un établissement existant ou;
+    - à l’extension des capacités d’un établissement existant ou;
 
-- à la diversification de la production d’un établissement vers des produits qu’il ne produisait pas auparavant ou;
+    - à la diversification de la production d’un établissement vers des produits qu’il ne produisait pas auparavant ou;
 
-- à un changement fondamental de l’ensemble du processus de production d’un établissement existant;
+    - à un changement fondamental de l’ensemble du processus de production d’un établissement existant;
 
-2. toute acquisition d’actifs appartenant à un établissement qui a fermé, ou aurait fermé sans cette acquisition, et qui est racheté par un investisseur non lié au vendeur. La simple acquisition des parts d’une entreprise n’est pas considérée comme un investissement initial.
+  - toute acquisition d’actifs appartenant à un établissement qui a fermé, ou aurait fermé sans cette acquisition, et qui est racheté par un investisseur non lié au vendeur. La simple acquisition des parts d’une entreprise n’est pas considérée comme un investissement initial.
 
-9. Petite ou moyenne entreprise: toute entreprise remplissant les critères énoncés à l’annexe I du règlement (UE) n° 651/20 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
+- Petite ou moyenne entreprise: toute entreprise remplissant les critères énoncés à l’annexe I du règlement (UE) n° 651/20 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -77,51 +77,51 @@ Champ d’application.
 
 L’Etat peut accorder à un établissement une aide à l’investissement à finalité régionale en faveur d’un investissement initial à réaliser dans l’une des régions citées à l’article 3 et qui:
 
-1. présente un intérêt régional spécifique, ou;
+- présente un intérêt régional spécifique, ou;
 
-2. a une influence motrice sur le développement économique de la région dans laquelle il est mis en œuvre, ou;
+- a une influence motrice sur le développement économique de la région dans laquelle il est mis en œuvre, ou;
 
-3. contribue à une meilleure répartition géographique des activités économiques.
+- contribue à une meilleure répartition géographique des activités économiques.
 
 (2)
 
 Le régime d’aides à l’investissement à finalité régionale mis en place par la présente loi n’est pas applicable aux établissements relevant:
 
-1. du secteur de la sidérurgie;
+- du secteur de la sidérurgie;
 
-2. du secteur du charbon;
+- du secteur du charbon;
 
-3. du secteur des fibres synthétiques;
+- du secteur des fibres synthétiques;
 
-4. du secteur de la construction navale;
+- du secteur de la construction navale;
 
-5. des transports et des infrastructures correspondantes;
+- des transports et des infrastructures correspondantes;
 
-6. du secteur de la production et de la distribution d’énergie et des infrastructures énergétiques;
+- du secteur de la production et de la distribution d’énergie et des infrastructures énergétiques;
 
-7. du secteur de la pêche et de l’aquaculture;
+- du secteur de la pêche et de l’aquaculture;
 
-8. du secteur de l’agriculture.
+- du secteur de l’agriculture.
 
 (3)
 
 Ne peuvent pas bénéficier des aides à l’investissement à finalité régionale:
 
-1. les entreprises en difficulté. Une entreprise en difficulté est une entreprise remplissant au moins une des conditions suivantes:
+- les entreprises en difficulté. Une entreprise en difficulté est une entreprise remplissant au moins une des conditions suivantes:
 
-1. s’il s’agit d’une société anonyme, d’une société à responsabilité limitée ou d’une société en commandite par actions, autre qu’une PME en existence depuis moins de trois ans, lorsque plus de la moitié de son capital social souscrit a disparu en raison des pertes accumulées. Tel est le cas lorsque la déduction des pertes accumulées des réserves (et de tous les autres éléments généralement considérés comme relevant des fonds propres de la société) conduit à un montant cumulé négatif qui excède la moitié du capital social souscrit. Le capital social comprend, le cas échéant, les primes d’émission;
+  - s’il s’agit d’une société anonyme, d’une société à responsabilité limitée ou d’une société en commandite par actions, autre qu’une PME en existence depuis moins de trois ans, lorsque plus de la moitié de son capital social souscrit a disparu en raison des pertes accumulées. Tel est le cas lorsque la déduction des pertes accumulées des réserves (et de tous les autres éléments généralement considérés comme relevant des fonds propres de la société) conduit à un montant cumulé négatif qui excède la moitié du capital social souscrit. Le capital social comprend, le cas échéant, les primes d’émission;
 
-2. s’il s’agit d’une société en nom collectif ou d’une société en commandite simple, autre qu’une PME en existence depuis moins de trois ans, lorsque plus de la moitié des fonds propres, tels qu’ils sont inscrits dans les comptes de la société, a disparu en raison des pertes accumulées;
+  - s’il s’agit d’une société en nom collectif ou d’une société en commandite simple, autre qu’une PME en existence depuis moins de trois ans, lorsque plus de la moitié des fonds propres, tels qu’ils sont inscrits dans les comptes de la société, a disparu en raison des pertes accumulées;
 
-3. lorsque l’entreprise fait l’objet d’une procédure collective d’insolvabilité ou remplit les conditions de soumission à une procédure collective d’insolvabilité à la demande de ses créanciers;
+  - lorsque l’entreprise fait l’objet d’une procédure collective d’insolvabilité ou remplit les conditions de soumission à une procédure collective d’insolvabilité à la demande de ses créanciers;
 
-4. lorsque l’entreprise a bénéficié d’une aide au sauvetage et n’a pas encore remboursé le prêt ou mis fin à la garantie, ou a bénéficié d’une aide à la restructuration et est toujours soumise à un plan de restructuration;
+  - lorsque l’entreprise a bénéficié d’une aide au sauvetage et n’a pas encore remboursé le prêt ou mis fin à la garantie, ou a bénéficié d’une aide à la restructuration et est toujours soumise à un plan de restructuration;
 
-5. dans le cas d’une entreprise autre qu’une PME, lorsque depuis les deux exercices précédents le ratio emprunts/capitaux propres de l’entreprise est supérieur à 7,5 et le ratio de couverture des intérêts de l’entreprise, calculé sur la base de l’EBITDA, est inférieur à 1,0;
+  - dans le cas d’une entreprise autre qu’une PME, lorsque depuis les deux exercices précédents le ratio emprunts/capitaux propres de l’entreprise est supérieur à 7,5 et le ratio de couverture des intérêts de l’entreprise, calculé sur la base de l’EBITDA, est inférieur à 1,0;
 
-2. 2. les entreprises faisant l’objet d’une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur ;
+- 2. les entreprises faisant l’objet d’une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur ;
 
-3. 3. les bénéficiaires ayant cessé une activité identique ou similaire dans l’Espace économique européen dans les deux ans qui précèdent la demande d’aide à l’investissement à finalité régionale ou qui, au moment de la demande d’aide à l’investissement à finalité régionale, envisagent concrètement de cesser une telle activité dans les deux ans suivant l’achèvement de l’investissement initial pour lequel l’aide est demandée .
+- 3. les bénéficiaires ayant cessé une activité identique ou similaire dans l’Espace économique européen dans les deux ans qui précèdent la demande d’aide à l’investissement à finalité régionale ou qui, au moment de la demande d’aide à l’investissement à finalité régionale, envisagent concrètement de cesser une telle activité dans les deux ans suivant l’achèvement de l’investissement initial pour lequel l’aide est demandée .
 
 Du 1er janvier 2020 au 30 juin 2021, par dérogation à l’alinéa 1er, les entreprises en difficulté qui n’étaient pas en difficulté au 31 décembre 2019 peuvent bénéficier des aides à l’investissement à finalité régionale, pour autant qu’elles ne fassent pas l’objet d’une procédure collective d’insolvabilité ou ne remplissent pas, selon le droit national qui leur est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de leurs créanciers.
 
@@ -131,9 +131,9 @@ Les grandes entreprises ne peuvent bénéficier des aides à l’investissement 
 
 Un investissement initial en faveur d’une nouvelle activité économique se définit comme :
 
-1. tout investissement dans des actifs corporels et incorporels se rapportant à la création d’un établissement ou à la diversification de l’activité d’un établissement, à la condition que la nouvelle activité ne soit pas identique ni similaire à celle exercée précédemment au sein de l’établissement;
+- tout investissement dans des actifs corporels et incorporels se rapportant à la création d’un établissement ou à la diversification de l’activité d’un établissement, à la condition que la nouvelle activité ne soit pas identique ni similaire à celle exercée précédemment au sein de l’établissement;
 
-2. l’acquisition des actifs appartenant à un établissement qui a fermé, ou aurait fermé sans cette acquisition, et qui est racheté par un investisseur non lié au vendeur, à la condition que la nouvelle activité exercée grâce aux actifs acquis ne soit pas identique ni similaire à celle exercée au sein de l’établissement avant l’acquisition.
+- l’acquisition des actifs appartenant à un établissement qui a fermé, ou aurait fermé sans cette acquisition, et qui est racheté par un investisseur non lié au vendeur, à la condition que la nouvelle activité exercée grâce aux actifs acquis ne soit pas identique ni similaire à celle exercée au sein de l’établissement avant l’acquisition.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -148,15 +148,15 @@ L’aide à l’investissement à finalité régionale doit avoir un effet incit
 
 La demande d’aide doit contenir au moins les informations suivantes:
 
-1. nom et taille de l’entreprise;
+- nom et taille de l’entreprise;
 
-2. description du projet, y compris date de début et de fin;
+- description du projet, y compris date de début et de fin;
 
-3. localisation du projet;
+- localisation du projet;
 
-4. liste des coûts du projet;
+- liste des coûts du projet;
 
-5. subvention publique nécessaire pour le projet.
+- subvention publique nécessaire pour le projet.
 
 (3)
 
@@ -171,13 +171,13 @@ Dé limitation des régions.
 
 Afin de pouvoir bénéficier d’une aide à l’investissement à finalité régionale, l’investissement initial est réalisé :
 
-1. en ce qui concerne les aides octroyées jusqu’au 31 décembre 2021, sur le territoire d’une des régions suivantes :
+- en ce qui concerne les aides octroyées jusqu’au 31 décembre 2021, sur le territoire d’une des régions suivantes :
 
-1. la région « Sud-Est » comprenant la commune de Dudelange ;
+  - la région « Sud-Est » comprenant la commune de Dudelange ;
 
-2. la région « Sud-Ouest » comprenant la commune de Differdange ;
+  - la région « Sud-Ouest » comprenant la commune de Differdange ;
 
-2. en ce qui concerne les aides octroyées après le 31 décembre 2021, sur les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité sur le fonctionnement de l’Union européenne pour la période allant du 1 er janvier 2022 au 31 décembre 2027.
+- en ce qui concerne les aides octroyées après le 31 décembre 2021, sur les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité sur le fonctionnement de l’Union européenne pour la période allant du 1 er janvier 2022 au 31 décembre 2027.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -257,11 +257,11 @@ Coûts admissibles.
 
 Les coûts admissibles sont:
 
-1. 1. le coût des investissements en actifs corporels et en actifs incorporels relatifs à l’investissement initial ou en faveur d’une nouvelle activité économique, ou ;
+- 1. le coût des investissements en actifs corporels et en actifs incorporels relatifs à l’investissement initial ou en faveur d’une nouvelle activité économique, ou ;
 
-2. les coûts salariaux estimés liés à la création d’emplois à la suite de l’investissement initial, calculés sur une période de deux ans, ou;
+- les coûts salariaux estimés liés à la création d’emplois à la suite de l’investissement initial, calculés sur une période de deux ans, ou;
 
-3. une combinaison des coûts visés aux points 1. et 2., pour autant que le montant cumulé n’excède pas le montant le plus élevé des deux.
+- une combinaison des coûts visés aux points 1. et 2., pour autant que le montant cumulé n’excède pas le montant le plus élevé des deux.
 
 (2)
 
@@ -271,39 +271,39 @@ On entend par coûts salariaux les montants totaux effectivement à la charge du
 
 Les conditions dans le cas des coûts éligibles calculés sur base des coûts d’investissement en actifs corporels et en actifs incorporels sont les suivantes:
 
-1. les actifs acquis doivent être neufs, excepté lorsqu’ils sont acquis par une petite ou moyenne entreprise ou lorsqu’il s’agit de l’acquisition d’un établissement existant;
+- les actifs acquis doivent être neufs, excepté lorsqu’ils sont acquis par une petite ou moyenne entreprise ou lorsqu’il s’agit de l’acquisition d’un établissement existant;
 
-2. en cas d’acquisition des actifs d’un établissement, seuls les coûts d’acquisition des actifs n’ayant pas déjà bénéficié d’une aide et acquis aux conditions de marché auprès d’un tiers non lié à l’acheteur sont pris en considération;
+- en cas d’acquisition des actifs d’un établissement, seuls les coûts d’acquisition des actifs n’ayant pas déjà bénéficié d’une aide et acquis aux conditions de marché auprès d’un tiers non lié à l’acheteur sont pris en considération;
 
-3. les coûts liés à l’acquisition d’actifs corporels sous forme de crédit-bail sont pris en compte à condition que le contrat de crédit-bail prévoie l’obligation pour le bénéficiaire de l’aide d’acheter le bien à l’expiration du contrat de bail;
+- les coûts liés à l’acquisition d’actifs corporels sous forme de crédit-bail sont pris en compte à condition que le contrat de crédit-bail prévoie l’obligation pour le bénéficiaire de l’aide d’acheter le bien à l’expiration du contrat de bail;
 
-4. les actifs incorporels doivent remplir les conditions suivantes:
+- les actifs incorporels doivent remplir les conditions suivantes:
 
-1. être exploités uniquement dans l’établissement bénéficiaire de l’aide;
+  - être exploités uniquement dans l’établissement bénéficiaire de l’aide;
 
-2. être amortissables;
+  - être amortissables;
 
-3. être acquis au prix du marché auprès d’un tiers non lié à l’acheteur;
+  - être acquis au prix du marché auprès d’un tiers non lié à l’acheteur;
 
-4. être inclus dans les actifs du bénéficiaire et rester associés au projet pour lequel l’aide est octroyée pendant au moins cinq ans, ou trois ans pour les petites ou moyennes entreprises ;
+  - être inclus dans les actifs du bénéficiaire et rester associés au projet pour lequel l’aide est octroyée pendant au moins cinq ans, ou trois ans pour les petites ou moyennes entreprises ;
 
-5. avoir un contenu directement technologique. Des actifs incorporels tels que marques, modèles ou « goodwill » qui n’ont pas de contenu directement technologique sont exclus des coûts admissibles.
+  - avoir un contenu directement technologique. Des actifs incorporels tels que marques, modèles ou « goodwill » qui n’ont pas de contenu directement technologique sont exclus des coûts admissibles.
 
-5. les investissements de simple remplacement et les dépenses de fonctionnement ne sont pas des coûts admissibles;
+- les investissements de simple remplacement et les dépenses de fonctionnement ne sont pas des coûts admissibles;
 
-6. dans le cas des aides à l’investissement à finalité régionale accordées pour un changement fondamental dans le processus de production, les coûts admissibles doivent excéder l’amortissement cumulé au cours des trois exercices précédents pour les actifs liés à l’activité à moderniser;
+- dans le cas des aides à l’investissement à finalité régionale accordées pour un changement fondamental dans le processus de production, les coûts admissibles doivent excéder l’amortissement cumulé au cours des trois exercices précédents pour les actifs liés à l’activité à moderniser;
 
-7. dans le cas des aides à l’investissement à finalité régionale accordées en vue de la diversification des activités d’un établissement existant, les coûts admissibles doivent excéder d’au moins 200 pour cent la valeur comptable des actifs réutilisés, telle qu’enregistrée au cours de l’exercice précédant le début des travaux.
+- dans le cas des aides à l’investissement à finalité régionale accordées en vue de la diversification des activités d’un établissement existant, les coûts admissibles doivent excéder d’au moins 200 pour cent la valeur comptable des actifs réutilisés, telle qu’enregistrée au cours de l’exercice précédant le début des travaux.
 
 (4)
 
 Les coûts salariaux estimés sont admissibles s’ils remplissent les conditions suivantes:
 
-1. le projet d’investissement initial doit conduire à une augmentation nette du nombre de salariés dans l’établissement. On entend par augmentation nette du nombre de salariés toute augmentation nette du nombre de salariés dans l’établissement concerné par rapport à la moyenne au cours d’une période de douze mois. Tout poste supprimé au cours de cette période est à déduire et le nombre de personnes employées à temps plein, à temps partiel et sous contrat saisonnier est à prendre en compte selon les fractions d’unités de travail annuel;
+- le projet d’investissement initial doit conduire à une augmentation nette du nombre de salariés dans l’établissement. On entend par augmentation nette du nombre de salariés toute augmentation nette du nombre de salariés dans l’établissement concerné par rapport à la moyenne au cours d’une période de douze mois. Tout poste supprimé au cours de cette période est à déduire et le nombre de personnes employées à temps plein, à temps partiel et sous contrat saisonnier est à prendre en compte selon les fractions d’unités de travail annuel;
 
-2. chaque poste est pourvu dans un délai de trois ans à compter de l’achèvement des travaux;
+- chaque poste est pourvu dans un délai de trois ans à compter de l’achèvement des travaux;
 
-3. chaque emploi créé grâce à l’investissement est maintenu dans la région concernée pendant une période minimale de cinq ans à compter de la date à laquelle le poste a été pourvu pour la première fois, ou pendant une période de trois ans dans le cas de petites ou moyennes entreprises.
+- chaque emploi créé grâce à l’investissement est maintenu dans la région concernée pendant une période minimale de cinq ans à compter de la date à laquelle le poste a été pourvu pour la première fois, ou pendant une période de trois ans dans le cas de petites ou moyennes entreprises.
 
 <a id="art-9"></a>
 ## Art. 9.

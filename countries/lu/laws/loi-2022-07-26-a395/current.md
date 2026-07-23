@@ -38,11 +38,11 @@ Dans les limites budgétaires, le ministre ayant l’Économie dans ses attribut
 
 Sont exclues du champ d’application de la présente loi :
 
-1. les entreprises qui ne sont pas régulièrement établies sur le territoire du Grand-Duché de Luxembourg ;
+- les entreprises qui ne sont pas régulièrement établies sur le territoire du Grand-Duché de Luxembourg ;
 
-2. les entreprises en difficulté ;
+- les entreprises en difficulté ;
 
-3. les entreprises faisant l’objet d’une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission européenne déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur.
+- les entreprises faisant l’objet d’une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission européenne déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -51,105 +51,105 @@ Définitions
 
 Pour l’application de la présente loi, on entend par :
 
-1. « borne de charge » : une station de recharge au sens de l’article 2, point 52), du règlement (UE) 2023/1804 ;
+- « borne de charge » : une station de recharge au sens de l’article 2, point 52), du règlement (UE) 2023/1804 ;
 
-2. « borne de charge publique existante » : une borne de charge qui fait partie de l’infrastructure de charge publique et qui a été installée au 31 décembre de l’année précédant l’entrée en vigueur de la présente loi au plus tard ;
+- « borne de charge publique existante » : une borne de charge qui fait partie de l’infrastructure de charge publique et qui a été installée au 31 décembre de l’année précédant l’entrée en vigueur de la présente loi au plus tard ;
 
-3. « borne de charge publique future » : une borne de charge qui fait partie de l’infrastructure de charge publique et qui est ou a été installée après le 31 décembre de l’année précédant l’entrée en vigueur de la présente loi ;
+- « borne de charge publique future » : une borne de charge qui fait partie de l’infrastructure de charge publique et qui est ou a été installée après le 31 décembre de l’année précédant l’entrée en vigueur de la présente loi ;
 
-4. « capacité de charge » : la puissance électrique, exprimée en kilowatts, qui peut être mise à disposition par une infrastructure de charge. Pour les infrastructures de charge consistant de bornes de charge en courant alternatif, est considérée comme capacité de charge, la somme des puissances nominales des points de charge. Pour les infrastructures de charge consistant de bornes de charge en courant continu, est considérée comme capacité de charge, la somme des puissances maximales pouvant être mises à disposition simultanément pendant une durée minimale d’une heure par les points de charge de l’infrastructure de charge à une tension de charge de 400 volts ;
+- « capacité de charge » : la puissance électrique, exprimée en kilowatts, qui peut être mise à disposition par une infrastructure de charge. Pour les infrastructures de charge consistant de bornes de charge en courant alternatif, est considérée comme capacité de charge, la somme des puissances nominales des points de charge. Pour les infrastructures de charge consistant de bornes de charge en courant continu, est considérée comme capacité de charge, la somme des puissances maximales pouvant être mises à disposition simultanément pendant une durée minimale d’une heure par les points de charge de l’infrastructure de charge à une tension de charge de 400 volts ;
 
-5. 4bis° « capacité de ravitaillement » : le débit d’hydrogène, exprimé en kilogramme par jour, qui peut être mis à disposition par une infrastructure de ravitaillement ;
+- 4bis° « capacité de ravitaillement » : le débit d’hydrogène, exprimé en kilogramme par jour, qui peut être mis à disposition par une infrastructure de ravitaillement ;
 
-6. « charge intelligente » : une recharge intelligente au sens de l’article 2, point 65), du règlement (UE) 2023/1804 ;
+- « charge intelligente » : une recharge intelligente au sens de l’article 2, point 65), du règlement (UE) 2023/1804 ;
 
-7. « coûts admissibles » : Les coûts d’investissement relatifs aux bâtiments, terrains, véhicules ou matériels roulants ainsi que les coûts d’exploitation ne sont pas admissibles. Il en est de même des coûts visant à se conformer aux dispositions législatives, réglementaires ou administratives en vigueur. Les coûts admissibles s’entendent sans impôts ou autres prélèvements ;
+- « coûts admissibles » : Les coûts d’investissement relatifs aux bâtiments, terrains, véhicules ou matériels roulants ainsi que les coûts d’exploitation ne sont pas admissibles. Il en est de même des coûts visant à se conformer aux dispositions législatives, réglementaires ou administratives en vigueur. Les coûts admissibles s’entendent sans impôts ou autres prélèvements ;
 
-1. en ce qui concerne les investissements dans des infrastructures de charge, les coûts relatifs à la création ou à l’augmentation de la capacité de charge d’une infrastructure de charge, à l’exception des composants d’occasion ;
+  - en ce qui concerne les investissements dans des infrastructures de charge, les coûts relatifs à la création ou à l’augmentation de la capacité de charge d’une infrastructure de charge, à l’exception des composants d’occasion ;
 
-2. en ce qui concerne les investissements dans des infrastructures de ravitaillement, les coûts relatifs à la création ou à l’augmentation de la capacité de ravitaillement d’une infrastructure de ravitaillement, à l’exception des composants d’occasion.
+  - en ce qui concerne les investissements dans des infrastructures de ravitaillement, les coûts relatifs à la création ou à l’augmentation de la capacité de ravitaillement d’une infrastructure de ravitaillement, à l’exception des composants d’occasion.
 
-8. « date d’octroi de l’aide » : la date à laquelle le droit de recevoir l’aide est conféré au bénéficiaire en vertu de la présente loi ;
+- « date d’octroi de l’aide » : la date à laquelle le droit de recevoir l’aide est conféré au bénéficiaire en vertu de la présente loi ;
 
-9. « début des travaux » : soit le début des travaux de construction liés à l’investissement, soit le premier engagement juridiquement contraignant de commande d’équipement ou tout autre engagement rendant l’investissement irréversible, selon l’événement qui se produit en premier. L’achat de terrains et les préparatifs tels que l’obtention d’autorisations et la réalisation d’études de faisabilité ne sont pas considérés comme le début des travaux ;
+- « début des travaux » : soit le début des travaux de construction liés à l’investissement, soit le premier engagement juridiquement contraignant de commande d’équipement ou tout autre engagement rendant l’investissement irréversible, selon l’événement qui se produit en premier. L’achat de terrains et les préparatifs tels que l’obtention d’autorisations et la réalisation d’études de faisabilité ne sont pas considérés comme le début des travaux ;
 
-10. « degré d’accessibilité » : la proportion de temps durant lequel les infrastructures sont accessibles au public. Par degré d’accessibilité décroissant, se classent :
+- « degré d’accessibilité » : la proportion de temps durant lequel les infrastructures sont accessibles au public. Par degré d’accessibilité décroissant, se classent :
 
-1. les infrastructures accessibles au public dont les bornes de charge ou les points de ravitaillement sont physiquement accessibles vingt-quatre heures sur vingt-quatre, sept jours sur sept, douze mois par année de manière continue ;
+  - les infrastructures accessibles au public dont les bornes de charge ou les points de ravitaillement sont physiquement accessibles vingt-quatre heures sur vingt-quatre, sept jours sur sept, douze mois par année de manière continue ;
 
-2. les infrastructures accessibles au public dont les bornes de charge ou les points de ravitaillement sont physiquement accessibles au moins dix heures sur vingt-quatre, cinq jours sur sept, douze mois par année ;
+  - les infrastructures accessibles au public dont les bornes de charge ou les points de ravitaillement sont physiquement accessibles au moins dix heures sur vingt-quatre, cinq jours sur sept, douze mois par année ;
 
-3. les infrastructures privées ;
+  - les infrastructures privées ;
 
-11. « entreprise » : toute entité, indépendamment de sa forme juridique et de sa source de financement, exerçant une activité économique. Lorsque plusieurs personnes morales forment une entité économique unique du fait de l’existence de participations de contrôle de l’une des personnes morales dans l’autre ou d’autres liens fonctionnels, économiques et organiques entre elles, notamment par l’intermédiaire d’une ou de plusieurs personnes physiques agissant de concert, c’est cette entité économique unique qui se qualifie d’entreprise au sens de la présente loi ;
+- « entreprise » : toute entité, indépendamment de sa forme juridique et de sa source de financement, exerçant une activité économique. Lorsque plusieurs personnes morales forment une entité économique unique du fait de l’existence de participations de contrôle de l’une des personnes morales dans l’autre ou d’autres liens fonctionnels, économiques et organiques entre elles, notamment par l’intermédiaire d’une ou de plusieurs personnes physiques agissant de concert, c’est cette entité économique unique qui se qualifie d’entreprise au sens de la présente loi ;
 
-12. « entreprise en difficulté » : une entreprise remplissant au moins une des conditions suivantes :
+- « entreprise en difficulté » : une entreprise remplissant au moins une des conditions suivantes :
 
-1. s’il s’agit d’une société à responsabilité limitée, autre qu’une petite ou moyenne entreprise en existence depuis moins de trois ans, lorsque plus de la moitié de son capital social souscrit a disparu en raison des pertes accumulées. Tel est le cas lorsque la déduction des pertes accumulées des réserves, et de tous les autres éléments généralement considérés comme relevant des fonds propres de la société, conduit à un montant cumulé négatif qui excède la moitié du capital social souscrit. Aux fins de la présente disposition, on entend par « société à responsabilité limitée » notamment les types d’entreprises mentionnés à l’annexe I de la directive (UE) n° 2013/34 du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil et le « capital social » comprend, le cas échéant, les primes d’émission ;
+  - s’il s’agit d’une société à responsabilité limitée, autre qu’une petite ou moyenne entreprise en existence depuis moins de trois ans, lorsque plus de la moitié de son capital social souscrit a disparu en raison des pertes accumulées. Tel est le cas lorsque la déduction des pertes accumulées des réserves, et de tous les autres éléments généralement considérés comme relevant des fonds propres de la société, conduit à un montant cumulé négatif qui excède la moitié du capital social souscrit. Aux fins de la présente disposition, on entend par « société à responsabilité limitée » notamment les types d’entreprises mentionnés à l’annexe I de la directive (UE) n° 2013/34 du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil et le « capital social » comprend, le cas échéant, les primes d’émission ;
 
-2. s’il s’agit d’une société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société, autre qu’une petite ou moyenne entreprise en existence depuis moins de trois ans ou, lorsque plus de la moitié des fonds propres, tels qu’ils sont inscrits dans les comptes de la société, a disparu en raison des pertes accumulées. Aux fins de la présente disposition, on entend par « société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société » en particulier les types de sociétés mentionnés à l’annexe II de la directive (UE) n° 2013/34 ;
+  - s’il s’agit d’une société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société, autre qu’une petite ou moyenne entreprise en existence depuis moins de trois ans ou, lorsque plus de la moitié des fonds propres, tels qu’ils sont inscrits dans les comptes de la société, a disparu en raison des pertes accumulées. Aux fins de la présente disposition, on entend par « société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société » en particulier les types de sociétés mentionnés à l’annexe II de la directive (UE) n° 2013/34 ;
 
-3. lorsque l’entreprise fait l’objet d’une procédure collective d’insolvabilité ou remplit, selon le droit national qui lui est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de ses créanciers ;
+  - lorsque l’entreprise fait l’objet d’une procédure collective d’insolvabilité ou remplit, selon le droit national qui lui est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de ses créanciers ;
 
-4. lorsque l’entreprise a bénéficié d’une aide au sauvetage et n’a pas encore remboursé le prêt ou mis fin à la garantie, ou a bénéficié d’une aide à la restructuration et est toujours soumise à un plan de restructuration ;
+  - lorsque l’entreprise a bénéficié d’une aide au sauvetage et n’a pas encore remboursé le prêt ou mis fin à la garantie, ou a bénéficié d’une aide à la restructuration et est toujours soumise à un plan de restructuration ;
 
-5. dans le cas d’une entreprise autre qu’une petite ou moyenne entreprise, lorsque depuis les deux exercices précédents :
+  - dans le cas d’une entreprise autre qu’une petite ou moyenne entreprise, lorsque depuis les deux exercices précédents :
 
-1. le ratio emprunts/capitaux propres de l’entreprise est supérieur à 7,5 ; et
+    - le ratio emprunts/capitaux propres de l’entreprise est supérieur à 7,5 ; et
 
-2. le ratio de couverture des intérêts de l’entreprise, calculé sur la base de l’EBITDA, est inférieur à 1,0 ;
+    - le ratio de couverture des intérêts de l’entreprise, calculé sur la base de l’EBITDA, est inférieur à 1,0 ;
 
-13. 11bis° « hydrogène renouvelable » : l’hydrogène produit à partir de sources d’énergie renouvelables suivant les critères et règles définis au règlement délégué (UE) 2023/1185 de la Commission du 10 février 2023 complétant la directive (UE) 2018/2001 du Parlement européen et du Conseil en établissant un seuil minimal de réduction des émissions de gaz à effet de serre pour les carburants à base de carbone recyclé et en précisant la méthode d’évaluation des réductions des émissions de gaz à effet de serre réalisées grâce aux carburants liquides et gazeux renouvelables destinés aux transports, d’origine non biologique, et aux carburants à base de carbone recyclé et au règlement délégué (UE) 2023/1184 de la Commission du 10 février 2023 complétant la directive (UE) 2018/2001 du Parlement européen et du Conseil en établissant une méthodologie de l’Union définissant des règles détaillées pour la production de carburants renouvelables d’origine non biologique ;
+- 11bis° « hydrogène renouvelable » : l’hydrogène produit à partir de sources d’énergie renouvelables suivant les critères et règles définis au règlement délégué (UE) 2023/1185 de la Commission du 10 février 2023 complétant la directive (UE) 2018/2001 du Parlement européen et du Conseil en établissant un seuil minimal de réduction des émissions de gaz à effet de serre pour les carburants à base de carbone recyclé et en précisant la méthode d’évaluation des réductions des émissions de gaz à effet de serre réalisées grâce aux carburants liquides et gazeux renouvelables destinés aux transports, d’origine non biologique, et aux carburants à base de carbone recyclé et au règlement délégué (UE) 2023/1184 de la Commission du 10 février 2023 complétant la directive (UE) 2018/2001 du Parlement européen et du Conseil en établissant une méthodologie de l’Union définissant des règles détaillées pour la production de carburants renouvelables d’origine non biologique ;
 
-14. « infrastructure de charge » : une borne ou un ensemble de bornes de charge raccordées à un même point de fourniture et exploitées par un seul opérateur, ainsi que toutes les installations nécessaires au bon fonctionnement de ces bornes de charge, dont l’installation de raccordement au réseau, et le cas échéant un système collectif de gestion intelligente de charge, une unité de stockage locale de l’électricité renouvelable et les dispositifs permettant la transmission de données, le contrôle des bornes de charge, le paiement et la signalisation du site ;
+- « infrastructure de charge » : une borne ou un ensemble de bornes de charge raccordées à un même point de fourniture et exploitées par un seul opérateur, ainsi que toutes les installations nécessaires au bon fonctionnement de ces bornes de charge, dont l’installation de raccordement au réseau, et le cas échéant un système collectif de gestion intelligente de charge, une unité de stockage locale de l’électricité renouvelable et les dispositifs permettant la transmission de données, le contrôle des bornes de charge, le paiement et la signalisation du site ;
 
-15. 12bis° « infrastructure de ravitaillement » : un point ou un ensemble de points de ravitaillement en un lieu spécifique exploités par un seul opérateur ainsi que toutes les installations nécessaires au bon fonctionnement de ces points de ravitaillement, dont l’unité de stockage locale de l’hydrogène, et le cas échéant le raccordement au réseau et les dispositifs permettant la transmission de données, le contrôle de l’infrastructure de ravitaillement, le paiement et la signalisation du site ;
+- 12bis° « infrastructure de ravitaillement » : un point ou un ensemble de points de ravitaillement en un lieu spécifique exploités par un seul opérateur ainsi que toutes les installations nécessaires au bon fonctionnement de ces points de ravitaillement, dont l’unité de stockage locale de l’hydrogène, et le cas échéant le raccordement au réseau et les dispositifs permettant la transmission de données, le contrôle de l’infrastructure de ravitaillement, le paiement et la signalisation du site ;
 
-16. 12ter° « infrastructure pour véhicules à carburants alternatifs » ou « infrastructure » : une infrastructure de charge ou une infrastructure de ravitaillement destinée aux véhicules à carburants alternatifs ;
+- 12ter° « infrastructure pour véhicules à carburants alternatifs » ou « infrastructure » : une infrastructure de charge ou une infrastructure de ravitaillement destinée aux véhicules à carburants alternatifs ;
 
-17. « infrastructure accessible au public » : une infrastructure répondant aux critères de l’article 2, paragraphe 1 er , point 45), du règlement (UE) 2023/1804 ;
+- « infrastructure accessible au public » : une infrastructure répondant aux critères de l’article 2, paragraphe 1 er , point 45), du règlement (UE) 2023/1804 ;
 
-18. « infrastructure privée » : une infrastructure qui est utilisée par un cercle de personnes déterminé par l’entreprise bénéficiaire de l’aide dans le cadre de son activité économique, y inclus pour recharger ou pour ravitailler son parc automobile et les véhicules à carburants alternatifs de ses employés ;
+- « infrastructure privée » : une infrastructure qui est utilisée par un cercle de personnes déterminé par l’entreprise bénéficiaire de l’aide dans le cadre de son activité économique, y inclus pour recharger ou pour ravitailler son parc automobile et les véhicules à carburants alternatifs de ses employés ;
 
-19. « infrastructure de charge publique » : l’infrastructure de charge publique au sens de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
+- « infrastructure de charge publique » : l’infrastructure de charge publique au sens de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
 
-20. 15bis° « installation de raccordement » : l’installation de raccordement au sens de l’article 1 er , point (27), de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
+- 15bis° « installation de raccordement » : l’installation de raccordement au sens de l’article 1 er , point (27), de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
 
-21. « intensité de l’aide » : le montant brut de l’aide exprimé en pourcentage des coûts admissibles, avant impôts ou autres prélèvements ;
+- « intensité de l’aide » : le montant brut de l’aide exprimé en pourcentage des coûts admissibles, avant impôts ou autres prélèvements ;
 
-22. « mise en service » : première utilisation de l’infrastructure ayant bénéficié d’une aide par un utilisateur final aux fins de la charge ou du ravitaillement de son véhicule à carburant alternatif. En ce qui concerne les infrastructures accessibles au public, est visée la première utilisation commerciale ;
+- « mise en service » : première utilisation de l’infrastructure ayant bénéficié d’une aide par un utilisateur final aux fins de la charge ou du ravitaillement de son véhicule à carburant alternatif. En ce qui concerne les infrastructures accessibles au public, est visée la première utilisation commerciale ;
 
-23. « moyenne entreprise » : toute entreprise qui occupe moins de 250 personnes et dont le chiffre d’affaires annuel n’excède pas 50 000 000 euros ou dont le total du bilan annuel n’excède pas 43 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité , tel que modifié ;
+- « moyenne entreprise » : toute entreprise qui occupe moins de 250 personnes et dont le chiffre d’affaires annuel n’excède pas 50 000 000 euros ou dont le total du bilan annuel n’excède pas 43 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité , tel que modifié ;
 
-24. « petite entreprise » : toute entreprise qui occupe moins de 50 personnes et dont le chiffre d’affaires annuel ou le total du bilan annuel n’excède pas 10 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- « petite entreprise » : toute entreprise qui occupe moins de 50 personnes et dont le chiffre d’affaires annuel ou le total du bilan annuel n’excède pas 10 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-25. « point d’accès national » : une interface numérique qui donne accès à certaines données statiques et dynamiques en vue de leur réutilisation par les utilisateurs des données, telle qu’implémentée en vertu de l’article 3 du règlement délégué (UE) n° 2015/962 de la Commission du 18 décembre 2014 complétant la directive (UE) n° 2010/40 du Parlement européen et du Conseil en ce qui concerne la mise à disposition, dans l’ensemble de l’Union, de services d’informations en temps réel sur la circulation ;
+- « point d’accès national » : une interface numérique qui donne accès à certaines données statiques et dynamiques en vue de leur réutilisation par les utilisateurs des données, telle qu’implémentée en vertu de l’article 3 du règlement délégué (UE) n° 2015/962 de la Commission du 18 décembre 2014 complétant la directive (UE) n° 2010/40 du Parlement européen et du Conseil en ce qui concerne la mise à disposition, dans l’ensemble de l’Union, de services d’informations en temps réel sur la circulation ;
 
-26. « point de charge » : un point de recharge au sens de l’article 2, paragraphe 1 er , point 48), du règlement (UE) 2023/1804 ;
+- « point de charge » : un point de recharge au sens de l’article 2, paragraphe 1 er , point 48), du règlement (UE) 2023/1804 ;
 
-27. « point de charge connecté » : un point de recharge connecté au sens de l’article 2, paragraphe 1 er , point 17), du règlement (UE) 2023/1804 ;
+- « point de charge connecté » : un point de recharge connecté au sens de l’article 2, paragraphe 1 er , point 17), du règlement (UE) 2023/1804 ;
 
-28. « point de fourniture » : un point de fourniture au sens de l’article 1 er , paragraphe 36, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
+- « point de fourniture » : un point de fourniture au sens de l’article 1 er , paragraphe 36, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
 
-29. 23bis° « point de ravitaillement » : une installation de ravitaillement permettant l’approvisionnement en hydrogène par l’intermédiaire d’une installation fixe ou mobile, qui n’est capable de ravitailler qu’un seul véhicule à hydrogène à la fois ;
+- 23bis° « point de ravitaillement » : une installation de ravitaillement permettant l’approvisionnement en hydrogène par l’intermédiaire d’une installation fixe ou mobile, qui n’est capable de ravitailler qu’un seul véhicule à hydrogène à la fois ;
 
-30. « projet » : tout investissement visant à créer une ou plusieurs nouvelles infrastructures de charge ou à augmenter la capacité de charge d’une ou de plusieurs infrastructures de charge existantes ;
+- « projet » : tout investissement visant à créer une ou plusieurs nouvelles infrastructures de charge ou à augmenter la capacité de charge d’une ou de plusieurs infrastructures de charge existantes ;
 
-31. 24bis° « ravitaillement ad hoc » : le ravitaillement ad hoc au sens de l’article 2, paragraphe 1 er , point 55), du règlement (UE) 2023/1804 ;
+- 24bis° « ravitaillement ad hoc » : le ravitaillement ad hoc au sens de l’article 2, paragraphe 1 er , point 55), du règlement (UE) 2023/1804 ;
 
-32. « recharge avec paiement à l’acte » : la recharge à l’acte au sens de l’article 2, paragraphe 1 er , point 47), du règlement (UE) 2023/1804 ;
+- « recharge avec paiement à l’acte » : la recharge à l’acte au sens de l’article 2, paragraphe 1 er , point 47), du règlement (UE) 2023/1804 ;
 
-33. 25bis° « règlement (UE) 2023/1804 » : le règlement (UE) 2023/1804 du Parlement européen et du Conseil du 13 septembre 2023 sur le déploiement d’une infrastructure pour carburants alternatifs et abrogeant la directive 2014/94/UE ;
+- 25bis° « règlement (UE) 2023/1804 » : le règlement (UE) 2023/1804 du Parlement européen et du Conseil du 13 septembre 2023 sur le déploiement d’une infrastructure pour carburants alternatifs et abrogeant la directive 2014/94/UE ;
 
-34. « taux d’indisponibilité » : le pourcentage de temps durant lequel le point ou l’infrastructure de charge ou le point ou l’infrastructure de ravitaillement est hors-service pendant les heures d’ouverture. Ne sont pas considérées pour le calcul du taux d’indisponibilité les périodes pendant lesquelles l’infrastructure de charge est hors-service pour des raisons étrangères à l’opérateur de l’infrastructure de charge dûment justifiées. Le taux d’indisponibilité est calculé pour chaque année calendaire ;
+- « taux d’indisponibilité » : le pourcentage de temps durant lequel le point ou l’infrastructure de charge ou le point ou l’infrastructure de ravitaillement est hors-service pendant les heures d’ouverture. Ne sont pas considérées pour le calcul du taux d’indisponibilité les périodes pendant lesquelles l’infrastructure de charge est hors-service pour des raisons étrangères à l’opérateur de l’infrastructure de charge dûment justifiées. Le taux d’indisponibilité est calculé pour chaque année calendaire ;
 
-35. « valeur résiduelle » : la valeur de l’actif de l’infrastructure de charge publique au 31 décembre de l’année précédant l’entrée en vigueur de la présente loi. Si la mission d’opérateur de l’infrastructure de charge publique est assurée par les gestionnaires de réseau de distribution, cette valeur est déterminée par décision du régulateur au sens de l’article 1 er , paragraphe 42, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité. Dans tous les autres cas, la valeur résiduelle est à certifier par un réviseur d’entreprise agréé ;
+- « valeur résiduelle » : la valeur de l’actif de l’infrastructure de charge publique au 31 décembre de l’année précédant l’entrée en vigueur de la présente loi. Si la mission d’opérateur de l’infrastructure de charge publique est assurée par les gestionnaires de réseau de distribution, cette valeur est déterminée par décision du régulateur au sens de l’article 1 er , paragraphe 42, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité. Dans tous les autres cas, la valeur résiduelle est à certifier par un réviseur d’entreprise agréé ;
 
-36. 27bis° véhicule à carburant alternatif » : un véhicule à hydrogène ou un véhicule électrique ;
+- 27bis° véhicule à carburant alternatif » : un véhicule à hydrogène ou un véhicule électrique ;
 
-37. 27ter° « véhicule à hydrogène » : un véhicule fonctionnant à l’hydrogène au sens de l’article 3, alinéa 2, point 16), du règlement (UE) 2019/2144 du Parlement européen et du Conseil du 27 novembre 2019 relatif aux prescriptions applicables à la réception par type des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, en ce qui concerne leur sécurité générale et la protection des occupants des véhicules et des usagers vulnérables de la route, modifiant le règlement (UE) 2018/858 du Parlement européen et du Conseil et abrogeant les règlements (CE) n° 78/2009 , (CE) n° 79/2009 et (CE) n° 661/2009 du Parlement européen et du Conseil et les règlements (CE) n° 631/2009 , (UE) n° 406/2010 , (UE) n° 672/2010 , (UE) n° 1003/2010 , (UE) n° 1005/2010 , (UE) n° 1008/2010 , (UE) n° 1009/2010 , (UE) n° 19/2011 , (UE) n° 109/2011 , (UE) n° 458/2011 , (UE) n° 65/2012 , (UE) n° 130/2012 , (UE) n° 347/2012 , (UE) n° 351/2012 , (UE) n° 1230/2012 et (UE) 2015/166 de la Commission ;
+- 27ter° « véhicule à hydrogène » : un véhicule fonctionnant à l’hydrogène au sens de l’article 3, alinéa 2, point 16), du règlement (UE) 2019/2144 du Parlement européen et du Conseil du 27 novembre 2019 relatif aux prescriptions applicables à la réception par type des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, en ce qui concerne leur sécurité générale et la protection des occupants des véhicules et des usagers vulnérables de la route, modifiant le règlement (UE) 2018/858 du Parlement européen et du Conseil et abrogeant les règlements (CE) n° 78/2009 , (CE) n° 79/2009 et (CE) n° 661/2009 du Parlement européen et du Conseil et les règlements (CE) n° 631/2009 , (UE) n° 406/2010 , (UE) n° 672/2010 , (UE) n° 1003/2010 , (UE) n° 1005/2010 , (UE) n° 1008/2010 , (UE) n° 1009/2010 , (UE) n° 19/2011 , (UE) n° 109/2011 , (UE) n° 458/2011 , (UE) n° 65/2012 , (UE) n° 130/2012 , (UE) n° 347/2012 , (UE) n° 351/2012 , (UE) n° 1230/2012 et (UE) 2015/166 de la Commission ;
 
-38. « véhicule électrique » : un véhicule électrique au sens de l’article 2, paragraphe 1 er , point 22), du règlement (UE) 2023/1804 .
+- « véhicule électrique » : un véhicule électrique au sens de l’article 2, paragraphe 1 er , point 22), du règlement (UE) 2023/1804 .
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -160,31 +160,31 @@ Critères d’éligibilité généraux
 
 Les aides prévues aux articles 4 à 5bis peuvent être octroyées lorsque les conditions suivantes sont cumulativement remplies :
 
-1. l’entreprise porte un ou plusieurs projets visant à installer des infrastructures de charge sur le territoire du Grand-Duché de Luxembourg ;
+- l’entreprise porte un ou plusieurs projets visant à installer des infrastructures de charge sur le territoire du Grand-Duché de Luxembourg ;
 
-2. l’aide a un effet incitatif. C’est le cas lorsque l’aide entraîne une modification du comportement de l’entreprise de manière à ce qu’elle réalise un projet qu’elle ne réaliserait pas sans l’aide ou qu’elle réaliserait de manière restreinte ou différente. L’aide ne peut servir à soutenir les coûts d’un projet que l’entreprise aurait réalisé en tout état de cause. L’effet incitatif est présumé lorsque l’entreprise a soumis son projet ou présenté sa demande d’aide selon les modalités prescrites par la présente loi avant le début des travaux liés au projet en question. Toutefois, cette présomption peut être renversée lorsqu’il ressort de la soumission ou de la demande d’aide que l’aide n’entraîne pas la modification escomptée du comportement de l’entreprise ;
+- l’aide a un effet incitatif. C’est le cas lorsque l’aide entraîne une modification du comportement de l’entreprise de manière à ce qu’elle réalise un projet qu’elle ne réaliserait pas sans l’aide ou qu’elle réaliserait de manière restreinte ou différente. L’aide ne peut servir à soutenir les coûts d’un projet que l’entreprise aurait réalisé en tout état de cause. L’effet incitatif est présumé lorsque l’entreprise a soumis son projet ou présenté sa demande d’aide selon les modalités prescrites par la présente loi avant le début des travaux liés au projet en question. Toutefois, cette présomption peut être renversée lorsqu’il ressort de la soumission ou de la demande d’aide que l’aide n’entraîne pas la modification escomptée du comportement de l’entreprise ;
 
-3. les infrastructures :
+- les infrastructures :
 
-1. sont exploitées durant au moins cinq ans à compter de leur mise en service ;
+  - sont exploitées durant au moins cinq ans à compter de leur mise en service ;
 
-2. sont mises en service endéans un délai de :
+  - sont mises en service endéans un délai de :
 
-1. dix-huit mois en ce qui concerne les infrastructures de charge ;
+    - dix-huit mois en ce qui concerne les infrastructures de charge ;
 
-2. trente mois en ce qui concerne les infrastructures de ravitaillement à compter de l’octroi de l’aide. Si ce délai ne peut pas être respecté pour des raisons étrangères à l’entreprise dûment justifiées, un délai supplémentaire de maximum dix-huit mois peut être accordé sur demande écrite au ministre ;
+    - trente mois en ce qui concerne les infrastructures de ravitaillement à compter de l’octroi de l’aide. Si ce délai ne peut pas être respecté pour des raisons étrangères à l’entreprise dûment justifiées, un délai supplémentaire de maximum dix-huit mois peut être accordé sur demande écrite au ministre ;
 
-3. ne sont pas destinées à la revente ou à la location, exception faite des crédits-bails qui prévoient que le crédit-preneur acquière l’infrastructure de charge à la fin du contrat sous les conditions du paragraphe 2 ;
+  - ne sont pas destinées à la revente ou à la location, exception faite des crédits-bails qui prévoient que le crédit-preneur acquière l’infrastructure de charge à la fin du contrat sous les conditions du paragraphe 2 ;
 
-4. s’il s’agit d’infrastructures de charge, celles-ci sont alimentées à 100 pour cent par de l’électricité renouvelable telle que définie à l’article 1 er , point (13 bis ), de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
+- s’il s’agit d’infrastructures de charge, celles-ci sont alimentées à 100 pour cent par de l’électricité renouvelable telle que définie à l’article 1 er , point (13 bis ), de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
 
-5. s’il s’agit d’infrastructures de ravitaillement, celles-ci fournissent exclusivement de l’hydrogène renouvelable au plus tard au 31 décembre 2035 ;
+- s’il s’agit d’infrastructures de ravitaillement, celles-ci fournissent exclusivement de l’hydrogène renouvelable au plus tard au 31 décembre 2035 ;
 
-6. s’il s’agit d’infrastructures de charge composées de bornes de charges ayant une capacité inférieure ou égale à 22 kilowatts, celles-ci reposent sur un système de charge intelligent ;
+- s’il s’agit d’infrastructures de charge composées de bornes de charges ayant une capacité inférieure ou égale à 22 kilowatts, celles-ci reposent sur un système de charge intelligent ;
 
-7. aucune différence n’est faite entre les fournisseurs de services de mobilité par l’opérateur offrant ou autorisant des paiements contractuels sur ses infrastructures, à travers l’application de conditions d’accès préférentielles ou d’une différentiation tarifaire sans justification objective ;
+- aucune différence n’est faite entre les fournisseurs de services de mobilité par l’opérateur offrant ou autorisant des paiements contractuels sur ses infrastructures, à travers l’application de conditions d’accès préférentielles ou d’une différentiation tarifaire sans justification objective ;
 
-8. si l’exploitation de l’infrastructure est confiée à un tiers sur la base d’une concession ou de toute autre forme de mandat, cette attribution a lieu sur une base concurrentielle, transparente et non discriminatoire, dans le respect des règles applicables en matière de passation des marchés publics.
+- si l’exploitation de l’infrastructure est confiée à un tiers sur la base d’une concession ou de toute autre forme de mandat, cette attribution a lieu sur une base concurrentielle, transparente et non discriminatoire, dans le respect des règles applicables en matière de passation des marchés publics.
 
 En cas d’augmentation de capacité d’une infrastructure, les conditions énoncées aux points 4° et 5° visent la capacité de charge ou de ravitaillement supplémentaire.
 
@@ -192,11 +192,11 @@ En cas d’augmentation de capacité d’une infrastructure, les conditions éno
 
 Lorsque les conditions suivantes sont réunies, les aides prévues aux articles 4 à 5bis peuvent être octroyées aux entreprises visées au paragraphe 1er, point 1°, par l’intermédiaire d’un crédit-bailleur :
 
-1. Le crédit-preneur donne mandat au crédit-bailleur pour demander l’aide prévue à l’article 4, 5 ou 5 bis et en obtenir le paiement au nom et pour le compte du crédit-preneur ;
+- Le crédit-preneur donne mandat au crédit-bailleur pour demander l’aide prévue à l’article 4, 5 ou 5 bis et en obtenir le paiement au nom et pour le compte du crédit-preneur ;
 
-2. L’aide prévue à l’article 4, 5 ou 5 bis est entièrement transférée au crédit-preneur qui en est le seul bénéficiaire à travers une réduction du prix du crédit-bail. À cet effet, le contrat de crédit-bail indique clairement la base légale et le montant de l’aide octroyée au crédit-preneur ainsi que le montant des versements échelonnés dus par le crédit-preneur avec et sans l’aide ;
+- L’aide prévue à l’article 4, 5 ou 5 bis est entièrement transférée au crédit-preneur qui en est le seul bénéficiaire à travers une réduction du prix du crédit-bail. À cet effet, le contrat de crédit-bail indique clairement la base légale et le montant de l’aide octroyée au crédit-preneur ainsi que le montant des versements échelonnés dus par le crédit-preneur avec et sans l’aide ;
 
-3. Le crédit-preneur acquière la propriété de la ou des infrastructures de charge subventionnées à la fin du contrat de crédit-bail.
+- Le crédit-preneur acquière la propriété de la ou des infrastructures de charge subventionnées à la fin du contrat de crédit-bail.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -211,15 +211,15 @@ Une aide en faveur des entreprises investissant dans des infrastructures de char
 
 Sans préjudice de l’article 3, paragraphe 1er, les infrastructures de charge accessibles au public :
 
-1. sont conformes aux dispositions de l’article 5 du règlement (UE) 2023/1804 ;
+- sont conformes aux dispositions de l’article 5 du règlement (UE) 2023/1804 ;
 
-2. ont un taux d’indisponibilité ne dépassant pas :
+- ont un taux d’indisponibilité ne dépassant pas :
 
-1. 5 pour cent au niveau du point de charge ;
+  - 5 pour cent au niveau du point de charge ;
 
-2. 1,5 pour cent au niveau de l’infrastructure de charge en ce qui concerne celles contenant quatre points de charge ou plus ;
+  - 1,5 pour cent au niveau de l’infrastructure de charge en ce qui concerne celles contenant quatre points de charge ou plus ;
 
-3. partagent les données statiques et dynamiques concernant le point de charge à travers le point d’accès national selon les modalités prévues à l’article 20, paragraphes 2 à 4, du règlement (UE) 2023/1804 .
+- partagent les données statiques et dynamiques concernant le point de charge à travers le point d’accès national selon les modalités prévues à l’article 20, paragraphes 2 à 4, du règlement (UE) 2023/1804 .
 
 (3)
 
@@ -229,11 +229,11 @@ La capacité de charge du projet ne peut être inférieure à 175 kilowatts.
 
 L’intensité maximale de l’aide par projet ne peut dépasser :
 
-1. 50 pour cent des coûts admissibles pour les infrastructures de charge accessibles au public dont les bornes de charge sont physiquement accessibles vingt-quatre heures sur vingt-quatre, sept jours sur sept, douze mois par année ;
+- 50 pour cent des coûts admissibles pour les infrastructures de charge accessibles au public dont les bornes de charge sont physiquement accessibles vingt-quatre heures sur vingt-quatre, sept jours sur sept, douze mois par année ;
 
-2. 40 pour cent des coûts admissibles pour les infrastructures de charge accessibles au public dont les bornes de charge sont physiquement accessibles au moins dix heures sur vingt-quatre, cinq jours sur sept, douze mois par année ;
+- 40 pour cent des coûts admissibles pour les infrastructures de charge accessibles au public dont les bornes de charge sont physiquement accessibles au moins dix heures sur vingt-quatre, cinq jours sur sept, douze mois par année ;
 
-3. 30 pour cent des coûts admissibles pour les infrastructures de charge privées.
+- 30 pour cent des coûts admissibles pour les infrastructures de charge privées.
 
 Le montant maximal d’aide octroyé à une même entreprise dans le cadre d’un même appel à projets s’élève à 40 pour cent du budget alloué à celui-ci.
 
@@ -245,13 +245,13 @@ La sélection des projets se fait au moyen d’un ou de plusieurs appels à proj
 
 Ces appels à projets peuvent être limités à des infrastructures de charge :
 
-1. situées dans certaines zones géographiques ;
+- situées dans certaines zones géographiques ;
 
-2. accessibles au public ou privées ;
+- accessibles au public ou privées ;
 
-3. dédiées à certaines catégories de véhicules au sens de l’article 4 du règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE , de l’article 4 du règlement (UE) 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, ou de l’article 4 du règlement (UE) 167/2013 du Parlement européen et du Conseil du 5 février 2013 relatif à la réception et à la surveillance du marché des véhicules agricoles et forestiers ;
+- dédiées à certaines catégories de véhicules au sens de l’article 4 du règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE , de l’article 4 du règlement (UE) 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, ou de l’article 4 du règlement (UE) 167/2013 du Parlement européen et du Conseil du 5 février 2013 relatif à la réception et à la surveillance du marché des véhicules agricoles et forestiers ;
 
-4. dédiées à certaines catégories de capacité de charge.
+- dédiées à certaines catégories de capacité de charge.
 
 Le budget maximal par appel à projets ne peut dépasser 7 000 000 euros.
 
@@ -259,31 +259,31 @@ Le budget maximal par appel à projets ne peut dépasser 7 000 000 euros.
 
 Sous peine d’irrecevabilité et sans préjudice des informations supplémentaires exigées dans l’appel à projets, les projets soumis par les entreprises contiennent les informations suivantes :
 
-1. le nom et la taille de l’entreprise, conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- le nom et la taille de l’entreprise, conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-2. les comptes annuels du dernier exercice comptable clôturé ;
+- les comptes annuels du dernier exercice comptable clôturé ;
 
-3. les dates de début des travaux et de mise en service des infrastructures de charge ;
+- les dates de début des travaux et de mise en service des infrastructures de charge ;
 
-4. le degré d’accessibilité de chaque infrastructure de charge et une description des types d’utilisateurs visés ;
+- le degré d’accessibilité de chaque infrastructure de charge et une description des types d’utilisateurs visés ;
 
-5. le nombre de bornes de charge, la puissance nominale des bornes ainsi que la capacité de charge des infrastructures ;
+- le nombre de bornes de charge, la puissance nominale des bornes ainsi que la capacité de charge des infrastructures ;
 
-6. en cas d’augmentation de la capacité de charge d’une infrastructure de charge existante, le nombre et la puissance nominale des bornes de charge existantes ainsi que la capacité de charge de l’infrastructure existante ;
+- en cas d’augmentation de la capacité de charge d’une infrastructure de charge existante, le nombre et la puissance nominale des bornes de charge existantes ainsi que la capacité de charge de l’infrastructure existante ;
 
-7. une liste des coûts admissibles ;
+- une liste des coûts admissibles ;
 
-8. le montant et l’intensité de l’aide nécessaire pour réaliser le projet ;
+- le montant et l’intensité de l’aide nécessaire pour réaliser le projet ;
 
-9. les coordonnées de géolocalisation ainsi que, le cas échéant, le numéro de la parcelle cadastrale des infrastructures de charge lorsque celle-ci sont composées de points de charge fixes ;
+- les coordonnées de géolocalisation ainsi que, le cas échéant, le numéro de la parcelle cadastrale des infrastructures de charge lorsque celle-ci sont composées de points de charge fixes ;
 
-10. en cas de crédit-bail, le nom du crédit-bailleur et le mandat autorisant celui-ci à demander l’aide et en obtenir le paiement au nom et pour le compte du crédit-preneur ;
+- en cas de crédit-bail, le nom du crédit-bailleur et le mandat autorisant celui-ci à demander l’aide et en obtenir le paiement au nom et pour le compte du crédit-preneur ;
 
-11. lorsque l’entreprise n’est pas le propriétaire du terrain, un accord de principe conditionné à l’octroi de l’aide portant sur l’utilisation du terrain pour exploiter l’infrastructure de charge lorsque celle-ci est composée de points de charge fixes .
+- lorsque l’entreprise n’est pas le propriétaire du terrain, un accord de principe conditionné à l’octroi de l’aide portant sur l’utilisation du terrain pour exploiter l’infrastructure de charge lorsque celle-ci est composée de points de charge fixes .
 
-12. lorsque les infrastructures de charge sont composées de points de charge mobiles, un concept de déploiement pour les douze mois suivant la mise en service ;
+- lorsque les infrastructures de charge sont composées de points de charge mobiles, un concept de déploiement pour les douze mois suivant la mise en service ;
 
-13. une pièce démontrant que les infrastructures de charge sont alimentées à 100 pour cent par de l’électricité renouvelable.
+- une pièce démontrant que les infrastructures de charge sont alimentées à 100 pour cent par de l’électricité renouvelable.
 
 Une entreprise peut soumettre plusieurs projets par appel à projets.
 
@@ -320,9 +320,9 @@ Une aide en faveur des petites et moyennes entreprises investissant dans des inf
 
 L’intensité maximale de l’aide par projet ne peut dépasser :
 
-1. 40 pour cent des coûts admissibles pour une moyenne entreprise ;
+- 40 pour cent des coûts admissibles pour une moyenne entreprise ;
 
-2. 50 pour cent des coûts admissibles pour une petite entreprise.
+- 50 pour cent des coûts admissibles pour une petite entreprise.
 
 Une majoration de 10 points de pourcentage peut être appliquée lorsque l’infrastructure de charge composée d’au moins quatre points de charge repose sur un système de charge intelligent.
 
@@ -336,29 +336,29 @@ Le montant absolu de l’aide par entreprise ne peut pas dépasser 100 000 euros
 
 Chaque entreprise peut soumettre une seule demande d’aide portant sur un projet par an sous forme écrite au ministre au plus tard le 30 septembre 2026 . Sous peine d’irrecevabilité, la demande contient les informations suivantes :
 
-1. le nom et la taille de l’entreprise, conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- le nom et la taille de l’entreprise, conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-2. les comptes annuels du dernier exercice comptable clôturé ;
+- les comptes annuels du dernier exercice comptable clôturé ;
 
-3. les dates de début des travaux et de mise en service des infrastructures de charge ;
+- les dates de début des travaux et de mise en service des infrastructures de charge ;
 
-4. le nombre de bornes de charge, la puissance nominale des bornes de charge ainsi que la capacité de charge des infrastructures de charge, et si celles-ci contiennent un système de charge intelligent ;
+- le nombre de bornes de charge, la puissance nominale des bornes de charge ainsi que la capacité de charge des infrastructures de charge, et si celles-ci contiennent un système de charge intelligent ;
 
-5. en cas d’augmentation de la capacité de charge d’une infrastructure de charge existante, le nombre et la puissance nominale des bornes de charge existantes ainsi que la capacité de charge de l’infrastructure de charge existante ;
+- en cas d’augmentation de la capacité de charge d’une infrastructure de charge existante, le nombre et la puissance nominale des bornes de charge existantes ainsi que la capacité de charge de l’infrastructure de charge existante ;
 
-6. la liste des coûts admissibles ;
+- la liste des coûts admissibles ;
 
-7. le montant et l’intensité de l’aide nécessaire pour réaliser le projet ;
+- le montant et l’intensité de l’aide nécessaire pour réaliser le projet ;
 
-8. l’adresse à laquelle sont situées les infrastructures de charge lorsque celles-ci sont composées de points de charge fixes ;
+- l’adresse à laquelle sont situées les infrastructures de charge lorsque celles-ci sont composées de points de charge fixes ;
 
-9. en cas de crédit-bail, le nom du crédit-bailleur et le mandat autorisant celui-ci à demander l’aide et en obtenir le paiement au nom et pour le compte du crédit-preneur.
+- en cas de crédit-bail, le nom du crédit-bailleur et le mandat autorisant celui-ci à demander l’aide et en obtenir le paiement au nom et pour le compte du crédit-preneur.
 
-10. lorsque l’entreprise n’est pas le propriétaire du terrain, un accord de principe conditionné à l’octroi de l’aide portant sur l’utilisation du terrain pour exploiter l’infrastructure de charge lorsque celle-ci est composée de points de charge fixes ;
+- lorsque l’entreprise n’est pas le propriétaire du terrain, un accord de principe conditionné à l’octroi de l’aide portant sur l’utilisation du terrain pour exploiter l’infrastructure de charge lorsque celle-ci est composée de points de charge fixes ;
 
-11. lorsque les infrastructures de charge sont composées de points de charge mobiles, un concept de déploiement pour les douze mois suivant la mise en service ;
+- lorsque les infrastructures de charge sont composées de points de charge mobiles, un concept de déploiement pour les douze mois suivant la mise en service ;
 
-12. une pièce démontrant que les infrastructures de charge sont alimentées à 100 pour cent par de l’électricité renouvelable.
+- une pièce démontrant que les infrastructures de charge sont alimentées à 100 pour cent par de l’électricité renouvelable.
 
 (5)
 
@@ -379,25 +379,25 @@ Une aide en faveur des entreprises investissant dans des infrastructures de ravi
 
 Sans préjudice de l’article 3, paragraphe 1er, les stations de ravitaillement accessibles au public :
 
-1. sont conformes aux dispositions de l’article 7 du règlement (UE) 2023/1804 ;
+- sont conformes aux dispositions de l’article 7 du règlement (UE) 2023/1804 ;
 
-2. ont une capacité de ravitaillement d’au moins 300 kilogrammes par jour et sont conçues pour pouvoir en délivrer 1 tonne par jour ;
+- ont une capacité de ravitaillement d’au moins 300 kilogrammes par jour et sont conçues pour pouvoir en délivrer 1 tonne par jour ;
 
-3. sont équipées d’un distributeur de 350 bars et d’un distributeur d’au moins 700 bars ;
+- sont équipées d’un distributeur de 350 bars et d’un distributeur d’au moins 700 bars ;
 
-4. ont un taux d’indisponibilité ne dépassant pas 5 pour cent au niveau de l’infrastructure de ravitaillement ;
+- ont un taux d’indisponibilité ne dépassant pas 5 pour cent au niveau de l’infrastructure de ravitaillement ;
 
-5. partagent les données statiques et dynamiques concernant le point de ravitaillement à travers le point d’accès national selon les modalités prévues à l’article 20, paragraphes 2 à 4, du règlement (UE) 2023/1804 .
+- partagent les données statiques et dynamiques concernant le point de ravitaillement à travers le point d’accès national selon les modalités prévues à l’article 20, paragraphes 2 à 4, du règlement (UE) 2023/1804 .
 
 (3)
 
 L’intensité maximale de l’aide par projet ne peut pas dépasser :
 
-1. 50 pour cent des coûts admissibles pour les infrastructures de ravitaillement accessibles au public dont les points de ravitaillement sont physiquement accessibles vingt-quatre heures sur vingt-quatre, sept jours sur sept, douze mois par année ;
+- 50 pour cent des coûts admissibles pour les infrastructures de ravitaillement accessibles au public dont les points de ravitaillement sont physiquement accessibles vingt-quatre heures sur vingt-quatre, sept jours sur sept, douze mois par année ;
 
-2. 40 pour cent des coûts admissibles pour les infrastructures de ravitaillement accessibles au public dont les points de ravitaillement sont physiquement accessibles au moins dix heures sur vingt-quatre, cinq jours sur sept, douze mois par année ;
+- 40 pour cent des coûts admissibles pour les infrastructures de ravitaillement accessibles au public dont les points de ravitaillement sont physiquement accessibles au moins dix heures sur vingt-quatre, cinq jours sur sept, douze mois par année ;
 
-3. 30 pour cent des coûts admissibles pour les infrastructures de ravitaillement privées.
+- 30 pour cent des coûts admissibles pour les infrastructures de ravitaillement privées.
 
 Dans les cas prévus au paragraphe 4, alinéa 2, l’intensité maximale de l’aide peut être augmentée jusqu’à 90 pour cent des coûts admissibles.
 
@@ -407,15 +407,15 @@ La sélection des projets se fait au moyen d’appels à projets ouverts, transp
 
 Ces appels à projets peuvent être limités à des infrastructures de ravitaillement :
 
-1. situées dans certaines zones géographiques ;
+- situées dans certaines zones géographiques ;
 
-2. accessibles au public ou privées ;
+- accessibles au public ou privées ;
 
-3. dédiées à certaines catégories de véhicules au sens de l’article 4 du règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE , de l’article 4 du règlement (UE) n° 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, ou de l’article 4 du règlement (UE) n° 167/2013 du Parlement européen et du Conseil du 5 février 2013 relatif à la réception et à la surveillance du marché des véhicules agricoles et forestiers ;
+- dédiées à certaines catégories de véhicules au sens de l’article 4 du règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE , de l’article 4 du règlement (UE) n° 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, ou de l’article 4 du règlement (UE) n° 167/2013 du Parlement européen et du Conseil du 5 février 2013 relatif à la réception et à la surveillance du marché des véhicules agricoles et forestiers ;
 
-4. ayant une certaine capacité de ravitaillement, sans préjudice du paragraphe 3, alinéa 1 er , point 2° ;
+- ayant une certaine capacité de ravitaillement, sans préjudice du paragraphe 3, alinéa 1 er , point 2° ;
 
-5. fournissant exclusivement de l’hydrogène renouvelable.
+- fournissant exclusivement de l’hydrogène renouvelable.
 
 Le budget maximal par appel à projets ne peut pas dépasser 7 000 000 euros.
 
@@ -423,33 +423,33 @@ Le budget maximal par appel à projets ne peut pas dépasser 7 000 000 euros.
 
 Sous peine d’irrecevabilité et sans préjudice des informations supplémentaires exigées dans l’appel à projets, les projets soumis par les entreprises contiennent les informations suivantes :
 
-1. le nom et la taille de l’entreprise, conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- le nom et la taille de l’entreprise, conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-2. les comptes annuels du dernier exercice comptable clôturé ;
+- les comptes annuels du dernier exercice comptable clôturé ;
 
-3. les dates de début des travaux et de mise en service de l’infrastructure de ravitaillement ;
+- les dates de début des travaux et de mise en service de l’infrastructure de ravitaillement ;
 
-4. le degré d’accessibilité de chaque infrastructure de ravitaillement et une description des types d’utilisateurs visés ;
+- le degré d’accessibilité de chaque infrastructure de ravitaillement et une description des types d’utilisateurs visés ;
 
-5. le nombre de points de ravitaillement, la pression nominale ainsi que la capacité de ravitaillement de l’infrastructure de ravitaillement ;
+- le nombre de points de ravitaillement, la pression nominale ainsi que la capacité de ravitaillement de l’infrastructure de ravitaillement ;
 
-6. un plan de l’infrastructure de ravitaillement et le concept de développement pour atteindre la capacité de ravitaillement pour laquelle l’infrastructure est conçue ;
+- un plan de l’infrastructure de ravitaillement et le concept de développement pour atteindre la capacité de ravitaillement pour laquelle l’infrastructure est conçue ;
 
-7. en cas d’augmentation de capacité de ravitaillement d’une infrastructure de ravitaillement, le nombre de points de ravitaillement et la capacité de ravitaillement de l’infrastructure existante ;
+- en cas d’augmentation de capacité de ravitaillement d’une infrastructure de ravitaillement, le nombre de points de ravitaillement et la capacité de ravitaillement de l’infrastructure existante ;
 
-8. l’engagement de l’entreprise qu’au 31 décembre 2035 au plus tard, les infrastructures de ravitaillement fournissent exclusivement de l’hydrogène renouvelable ;
+- l’engagement de l’entreprise qu’au 31 décembre 2035 au plus tard, les infrastructures de ravitaillement fournissent exclusivement de l’hydrogène renouvelable ;
 
-9. une liste des coûts admissibles ;
+- une liste des coûts admissibles ;
 
-10. le montant et l’intensité de l’aide nécessaires pour réaliser le projet ;
+- le montant et l’intensité de l’aide nécessaires pour réaliser le projet ;
 
-11. les coordonnées de géolocalisation ainsi que, le cas échéant, le numéro de la parcelle cadastrale de l’infrastructure de ravitaillement lorsque celle-ci est composée de points de ravitaillement fixes ;
+- les coordonnées de géolocalisation ainsi que, le cas échéant, le numéro de la parcelle cadastrale de l’infrastructure de ravitaillement lorsque celle-ci est composée de points de ravitaillement fixes ;
 
-12. en cas de crédit-bail, le nom du crédit-bailleur et le mandat autorisant celui-ci à demander l’aide et en obtenir le paiement au nom et pour le compte du crédit-preneur ;
+- en cas de crédit-bail, le nom du crédit-bailleur et le mandat autorisant celui-ci à demander l’aide et en obtenir le paiement au nom et pour le compte du crédit-preneur ;
 
-13. lorsque l’entreprise n’est pas le propriétaire du terrain, un accord de principe conditionné à l’octroi de l’aide portant sur l’utilisation du terrain pour exploiter l’infrastructure de ravitaillement lorsque celle-ci est composée de points de ravitaillement fixes ;
+- lorsque l’entreprise n’est pas le propriétaire du terrain, un accord de principe conditionné à l’octroi de l’aide portant sur l’utilisation du terrain pour exploiter l’infrastructure de ravitaillement lorsque celle-ci est composée de points de ravitaillement fixes ;
 
-14. lorsque l’infrastructure de ravitaillement est composée de points de ravitaillement mobiles, un concept de déploiement pour les douze mois suivant la mise en service.
+- lorsque l’infrastructure de ravitaillement est composée de points de ravitaillement mobiles, un concept de déploiement pour les douze mois suivant la mise en service.
 
 Une entreprise peut soumettre plusieurs projets par appel à projets.
 
@@ -530,15 +530,15 @@ L’intensité maximale de l’aide s’élève à 70 pour cent du cumul de la v
 
 En vue de l’obtention de l’aide, chaque propriétaire de l’infrastructure de charge publique soumet une demande d’aide sous forme écrite aux ministres au plus tard trois mois après l’entrée en vigueur de la présente loi. Sous peine d’irrecevabilité, toute demande doit contenir les informations suivantes :
 
-1. le nom et la taille de l’entreprise, conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- le nom et la taille de l’entreprise, conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-2. les comptes annuels du dernier exercice comptable clôturé ;
+- les comptes annuels du dernier exercice comptable clôturé ;
 
-3. pour chaque borne de charge publique existante détenue par l’entreprise concernée, la puissance nominale, la date de mise en service, les coordonnées de géolocalisation ainsi que la valeur résiduelle ;
+- pour chaque borne de charge publique existante détenue par l’entreprise concernée, la puissance nominale, la date de mise en service, les coordonnées de géolocalisation ainsi que la valeur résiduelle ;
 
-4. pour chaque borne de charge publique future planifiée par l’entreprise concernée, la puissance nominale, la date prévisionnelle de début et de finalisation des travaux ainsi que les montants prévisionnels des investissements futurs ;
+- pour chaque borne de charge publique future planifiée par l’entreprise concernée, la puissance nominale, la date prévisionnelle de début et de finalisation des travaux ainsi que les montants prévisionnels des investissements futurs ;
 
-5. le montant et l’intensité de l’aide.
+- le montant et l’intensité de l’aide.
 
 (4)
 

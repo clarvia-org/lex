@@ -107,31 +107,31 @@ Le Comité instruit les demandes et évalue les projets en considérant:
 
 - les critères artistiques, culturels, techniques, tels que:
 
-- la valeur du scénario: histoire et sujet, genre, originalité du contenu, personnages et dialogues, structure narrative, style (vision cinématographique, atmosphère globale),
+  - la valeur du scénario: histoire et sujet, genre, originalité du contenu, personnages et dialogues, structure narrative, style (vision cinématographique, atmosphère globale),
 
-- la contribution de l'équipe de création: auteur, scénariste, réalisateur, artistes, acteurs,
+  - la contribution de l'équipe de création: auteur, scénariste, réalisateur, artistes, acteurs,
 
-- la contribution de l'équipe technique: techniciens, studio de production, studio de postproduction,
+  - la contribution de l'équipe technique: techniciens, studio de production, studio de postproduction,
 
-- la contribution de l'équipe de production et administrative;
+  - la contribution de l'équipe de production et administrative;
 
 - les critères de production et d'impact sur la croissance du secteur, tels que:
 
-- la stratégie de production (coopération artistique et technique),
+  - la stratégie de production (coopération artistique et technique),
 
-- le budget et le financement: cohérence du budget et niveau de financement confirmé,
+  - le budget et le financement: cohérence du budget et niveau de financement confirmé,
 
-- les capacités et compétences de la société de production requérante;
+  - les capacités et compétences de la société de production requérante;
 
 - les perspectives de distribution, de diffusion et d'exploitation, tels que:
 
-- l'accès aux recettes (acquisition de droits effectifs) et le potentiel commercial,
+  - l'accès aux recettes (acquisition de droits effectifs) et le potentiel commercial,
 
-- le potentiel de circulation, de distribution et de diffusion, la stratégie d'exploitation et de marketing défini en fonction du projet, de son contenu et de son public cible (festivals, exploitation, distribution);
+  - le potentiel de circulation, de distribution et de diffusion, la stratégie d'exploitation et de marketing défini en fonction du projet, de son contenu et de son public cible (festivals, exploitation, distribution);
 
 - les critères concernant la promotion du Grand-Duché de Luxembourg, tels que:
 
-- l'intérêt du projet pour le rayonnement de l'image de marque du pays et la promotion de son patrimoine socio-culturel, son histoire, ses sites historiques et touristiques, sa langue.
+  - l'intérêt du projet pour le rayonnement de l'image de marque du pays et la promotion de son patrimoine socio-culturel, son histoire, ses sites historiques et touristiques, sa langue.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -162,9 +162,9 @@ Catégories de dépenses
 
 Dans le cadre de la détermination des coûts exposés:
 
-1. Les émoluments du producteur et des éventuels coproducteurs ne peuvent être supérieurs à 10% du total des coûts exposés. Ces émoluments peuvent être facturés sous la forme d'un (de) forfait(s). Par émoluments du producteur - coproducteur, on entend la rémunération ainsi que tous les avantages fixes ou variables qui reviennent à l'ensemble des personnes assumant des fonctions de producteur, à savoir le producteur délégué, ou le coproducteur, et le producteur associé. Par ailleurs, les émoluments du producteur de la société bénéficiaire ne peuvent dépasser 10% de sa participation financière aux coûts de production. La société bénéficiaire est tenue de réinvestir dans des productions futures une partie raisonnable des émoluments facturés. La société bénéficiaire tient une comptabilité qui doit permettre le suivi de ce réinvestissement qui est vérifié annuellement par le Fonds.
+- Les émoluments du producteur et des éventuels coproducteurs ne peuvent être supérieurs à 10% du total des coûts exposés. Ces émoluments peuvent être facturés sous la forme d'un (de) forfait(s). Par émoluments du producteur - coproducteur, on entend la rémunération ainsi que tous les avantages fixes ou variables qui reviennent à l'ensemble des personnes assumant des fonctions de producteur, à savoir le producteur délégué, ou le coproducteur, et le producteur associé. Par ailleurs, les émoluments du producteur de la société bénéficiaire ne peuvent dépasser 10% de sa participation financière aux coûts de production. La société bénéficiaire est tenue de réinvestir dans des productions futures une partie raisonnable des émoluments facturés. La société bénéficiaire tient une comptabilité qui doit permettre le suivi de ce réinvestissement qui est vérifié annuellement par le Fonds.
 
-2. Les frais généraux du producteur et des éventuels coproducteurs sont facturés sous la forme d'un forfait qui ne peut être supérieur à 7,5% du total des coûts exposés. Par frais généraux, on entend les frais se rapportant à la structure administrative permanente de la société de production - de coproduction. Ils représentent les frais que la société de production - de coproduction engage sans qu'ils soient directement occasionnés ou imputables à la production d'une oeuvre audiovisuelle précise. Les frais généraux de la société bénéficiaire ne peuvent dépasser 7,5% de sa participation financière aux coûts de production. Le cas échéant, la différence financière entre le forfait facturé à la production de l'oeuvre par la société bénéficiaire et les frais généraux qui figurent dans sa comptabilité générale, doit être réinvestie dans une production future. La société bénéficiaire tient une comptabilité qui doit permettre le suivi de ce réinvestissement qui est vérifié annuellement par le Fonds.
+- Les frais généraux du producteur et des éventuels coproducteurs sont facturés sous la forme d'un forfait qui ne peut être supérieur à 7,5% du total des coûts exposés. Par frais généraux, on entend les frais se rapportant à la structure administrative permanente de la société de production - de coproduction. Ils représentent les frais que la société de production - de coproduction engage sans qu'ils soient directement occasionnés ou imputables à la production d'une oeuvre audiovisuelle précise. Les frais généraux de la société bénéficiaire ne peuvent dépasser 7,5% de sa participation financière aux coûts de production. Le cas échéant, la différence financière entre le forfait facturé à la production de l'oeuvre par la société bénéficiaire et les frais généraux qui figurent dans sa comptabilité générale, doit être réinvestie dans une production future. La société bénéficiaire tient une comptabilité qui doit permettre le suivi de ce réinvestissement qui est vérifié annuellement par le Fonds.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -240,9 +240,9 @@ Le Fonds renonce toutefois à la restitution du ou des versement(s) qui ont déj
 
 À cet effet, la société de production doit soumettre au Fonds :
 
-1. la liste du ou des versement(s) effectué(s) à la société bénéficiaire pour la production de l’œuvre qui sont irrécupérables et non couvert(s) par une assurance de bonne fin ;
+- la liste du ou des versement(s) effectué(s) à la société bénéficiaire pour la production de l’œuvre qui sont irrécupérables et non couvert(s) par une assurance de bonne fin ;
 
-2. la description des raisons indépendantes de la volonté de la société de production requérante qui sont à la base de la non-concrétisation de l’œuvre audiovisuelle ou cinématographique ainsi que leur lien de causalité direct avec celle-ci.
+- la description des raisons indépendantes de la volonté de la société de production requérante qui sont à la base de la non-concrétisation de l’œuvre audiovisuelle ou cinématographique ainsi que leur lien de causalité direct avec celle-ci.
 
 <a id="art-13"></a>
 ## Art. 13.

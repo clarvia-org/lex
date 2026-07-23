@@ -50,9 +50,9 @@ Dans le cadre de son objet, elle peut sous quelque forme que ce soit, soutenir, 
 
 Sont obligatoirement ressortissants de la Chambre des Métiers:
 
-1. toutes les personnes physiques ou morales établies à titre principal ou accessoire comme artisan, conformément à la législation en matière d'établissement;
+- toutes les personnes physiques ou morales établies à titre principal ou accessoire comme artisan, conformément à la législation en matière d'établissement;
 
-2. toutes les succursales établies à titre principal ou accessoire comme artisan, à l'initiative de personnes physiques ou morales relevant du droit d'un autre Etat, conformément à la législation en matière d'établissement.
+- toutes les succursales établies à titre principal ou accessoire comme artisan, à l'initiative de personnes physiques ou morales relevant du droit d'un autre Etat, conformément à la législation en matière d'établissement.
 
 (2)
 
@@ -105,21 +105,21 @@ La Chambre des Métiers peut créer ou subventionner, le cas échéant, tous ét
 
 Les activités de la Chambre des Métiers consistent notamment à:
 
-1. promouvoir un cadre législatif et réglementaire favorable au développement de l'artisanat et de ses ressortissants,
+- promouvoir un cadre législatif et réglementaire favorable au développement de l'artisanat et de ses ressortissants,
 
-2. promouvoir l'esprit d'entreprise et l'assistance et le conseil dans le cadre de la création et de la transmission d'entreprise,
+- promouvoir l'esprit d'entreprise et l'assistance et le conseil dans le cadre de la création et de la transmission d'entreprise,
 
-3. assister et conseiller ses ressortissants au niveau économique, technologique, juridique et de l'innovation, ainsi que dans leurs efforts d'internationalisation,
+- assister et conseiller ses ressortissants au niveau économique, technologique, juridique et de l'innovation, ainsi que dans leurs efforts d'internationalisation,
 
-4. établir des statistiques concernant l'artisanat et réaliser des études et des analyses sur l'artisanat et les petites et moyennes entreprises,
+- établir des statistiques concernant l'artisanat et réaliser des études et des analyses sur l'artisanat et les petites et moyennes entreprises,
 
-5. promouvoir la formation professionnelle initiale et continue, de même que l'assistance et le conseil y afférent,
+- promouvoir la formation professionnelle initiale et continue, de même que l'assistance et le conseil y afférent,
 
-6. participer à la formation et au perfectionnement professionnels des jeunes et des adultes dans le cadre des dispositions légales concernant la formation professionnelle initiale et le brevet de maîtrise,
+- participer à la formation et au perfectionnement professionnels des jeunes et des adultes dans le cadre des dispositions légales concernant la formation professionnelle initiale et le brevet de maîtrise,
 
-7. exécuter des missions spécifiques qui lui sont déléguées sur base d'une loi ou d'une convention,
+- exécuter des missions spécifiques qui lui sont déléguées sur base d'une loi ou d'une convention,
 
-8. informer et sensibiliser à l'observation de la législation concernant l'artisanat et les petites et moyennes entreprises.
+- informer et sensibiliser à l'observation de la législation concernant l'artisanat et les petites et moyennes entreprises.
 
 ##### Chapitre 3 Composition et organisation
 
@@ -171,17 +171,17 @@ Le directeur général de la Chambre des Métiers établit pour chaque séance d
 
 Les membres élus de la Chambre des Métiers se regroupent en six sections, issues des six groupes électoraux, à savoir:
 
-1. La section Alimentation
+- La section Alimentation
 
-2. La section Mode, Santé, Hygiène
+- La section Mode, Santé, Hygiène
 
-3. La section Mécanique
+- La section Mécanique
 
-4. La section Construction – Gros œuvre – Parachèvement
+- La section Construction – Gros œuvre – Parachèvement
 
-5. La section Construction – Equipement technique
+- La section Construction – Equipement technique
 
-6. La section Communication, Multimédia, Art et autres activités.
+- La section Communication, Multimédia, Art et autres activités.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -238,9 +238,9 @@ Depuis le jour de la dissolution de l'assemblée plénière de la Chambre des M�
 
 Pour faire face à ses dépenses, la Chambre des Métiers est autorisée à percevoir :
 
-1. une cotisation annuelle de tous ses ressortissants,
+- une cotisation annuelle de tous ses ressortissants,
 
-2. des droits ou rétributions en rémunération des services qu’elle rend.
+- des droits ou rétributions en rémunération des services qu’elle rend.
 
 (2)
 
@@ -305,13 +305,13 @@ Lors d'une élection, nul ne peut être électeur et candidat dans plus d'un gro
 
 Sont exclus de l'électorat et de l'éligibilité:
 
-1. les condamnés à des peines criminelles;
+- les condamnés à des peines criminelles;
 
-2. ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;
+- ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;
 
-3. ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;
+- ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;
 
-4. les majeurs en tutelle.
+- les majeurs en tutelle.
 
 Lorsque l'électeur est une personne morale ou une succursale, celle-ci est exclue du vote si son représentant tombe sous l'un des cas mentionnés ci-dessus.
 
@@ -320,9 +320,9 @@ Lorsque l'électeur est une personne morale ou une succursale, celle-ci est excl
 
 Ne peuvent se présenter en tant que candidats aux élections :
 
-1. les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;
+- les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;
 
-2. les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.
+- les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.
 
 <a id="art-28"></a>
 ## Art. 28.
@@ -473,15 +473,15 @@ Deux des scrutateurs font le recensement des suffrages et en tiennent note, chac
 
 Sont nuls :
 
-1. les bulletins autres que ceux envoyés ou remis aux électeurs par le bureau électoral ;
+- les bulletins autres que ceux envoyés ou remis aux électeurs par le bureau électoral ;
 
-2. les bulletins ne contenant l’expression d’aucun suffrage ;
+- les bulletins ne contenant l’expression d’aucun suffrage ;
 
-3. les bulletins contenant plus de suffrages qu’il n’y a de membres à élire ;
+- les bulletins contenant plus de suffrages qu’il n’y a de membres à élire ;
 
-4. les bulletins sur lesquels le votant se sera fait connaître et notamment ceux portant une marque ou un signe distinctif quelconque, ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président ;
+- les bulletins sur lesquels le votant se sera fait connaître et notamment ceux portant une marque ou un signe distinctif quelconque, ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président ;
 
-5. les enveloppes électorales contenant plusieurs bulletins.
+- les enveloppes électorales contenant plusieurs bulletins.
 
 <a id="art-33-15"></a>
 ## Art. 33-15.
@@ -558,19 +558,19 @@ L'organisation des élections et la procédure électorale sont fixées par règ
 
 Seront punis d'une amende de 251 à 5.000 euros:
 
-1. quiconque, pour se faire inscrire sur la liste d'électeurs, aura produit des actes ou pièces qu'il savait être simulés; celui qui aura pratiqué les mêmes manœuvres dans le but de faire inscrire un citoyen sur cette liste ou de l'en faire rayer;
+- quiconque, pour se faire inscrire sur la liste d'électeurs, aura produit des actes ou pièces qu'il savait être simulés; celui qui aura pratiqué les mêmes manœuvres dans le but de faire inscrire un citoyen sur cette liste ou de l'en faire rayer;
 
-2. celui qui, sous prétexte d'indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d'argent ou des valeurs ou un avantage quelconques; ceux qui, à l'occasion d'une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l'argent, soit des valeurs ou avantages quelconques sous la condition d'obtenir en sa faveur ou en faveur d'un tiers, un suffrage, l'abstention de voter ou la remise d'un bulletin de vote nul; les électeurs qui auront accepté des dons, offres ou promesses;
+- celui qui, sous prétexte d'indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d'argent ou des valeurs ou un avantage quelconques; ceux qui, à l'occasion d'une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l'argent, soit des valeurs ou avantages quelconques sous la condition d'obtenir en sa faveur ou en faveur d'un tiers, un suffrage, l'abstention de voter ou la remise d'un bulletin de vote nul; les électeurs qui auront accepté des dons, offres ou promesses;
 
-3. quiconque, pour déterminer un électeur à s'abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l'empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d'exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d'intimider les électeurs ou de troubler l'ordre;
+- quiconque, pour déterminer un électeur à s'abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l'empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d'exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d'intimider les électeurs ou de troubler l'ordre;
 
-4. toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d'entraver les opérations électorales; si le scrutin a été violé, de même que si les coupables étaient porteurs d'armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;
+- toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d'entraver les opérations électorales; si le scrutin a été violé, de même que si les coupables étaient porteurs d'armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;
 
-5. ceux qui ont résisté à l'ordre d'expulsion rendu contre eux par le bureau de vote ou qui seront rentrés dans le local qu'ils avaient été obligés d'évacuer; quiconque, pendant la réunion d'un collège électoral, se sera rendu coupable d'outrages ou de violences, soit envers le bureau soit envers l'un de ses membres; les membres d'un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;
+- ceux qui ont résisté à l'ordre d'expulsion rendu contre eux par le bureau de vote ou qui seront rentrés dans le local qu'ils avaient été obligés d'évacuer; quiconque, pendant la réunion d'un collège électoral, se sera rendu coupable d'outrages ou de violences, soit envers le bureau soit envers l'un de ses membres; les membres d'un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;
 
-6. tout président, scrutateur ou secrétaire d'un bureau ou tout témoin de candidat qui aura révélé le secret d'un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d'un bulletin contrefait; tout membre ou secrétaire d'un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu'il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d'un autre électeur et celui qui, d'une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;
+- tout président, scrutateur ou secrétaire d'un bureau ou tout témoin de candidat qui aura révélé le secret d'un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d'un bulletin contrefait; tout membre ou secrétaire d'un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu'il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d'un autre électeur et celui qui, d'une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;
 
-7. les citoyens qui, invités à remplir au jour de l'élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n'auront pas fait connaître, dans les quarante-huit heures leurs motifs d'empêchement à celui dont l'invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu'à la clôture définitive des procès-verbaux.
+- les citoyens qui, invités à remplir au jour de l'élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n'auront pas fait connaître, dans les quarante-huit heures leurs motifs d'empêchement à celui dont l'invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu'à la clôture définitive des procès-verbaux.
 
 <a id="art-39"></a>
 ## Art. 39.
@@ -586,17 +586,17 @@ L'action publique et l'action civile résultant des infractions prévues par la 
 
 L'article 2 de la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce est modifié comme suit:
 
-1. Un point j) est ajouté au paragraphe 4 et prend la teneur suivante: l'établissement de statistiques et la réalisation d'études et d'analyses en matière commerciale, industrielle et financière et notamment celles concernant les petites et moyennes entreprises.
+- Un point j) est ajouté au paragraphe 4 et prend la teneur suivante: l'établissement de statistiques et la réalisation d'études et d'analyses en matière commerciale, industrielle et financière et notamment celles concernant les petites et moyennes entreprises.
 
-2. Un sixième paragraphe est ajouté et prend la teneur suivante: En vue de permettre à la Chambre de Commerce la réalisation d'études statistiques au sens du paragraphe 4, point j), le Centre Commun de la Sécurité Sociale est autorisé à lui transmettre les données relatives à l'emploi de ses ressortissants.
+- Un sixième paragraphe est ajouté et prend la teneur suivante: En vue de permettre à la Chambre de Commerce la réalisation d'études statistiques au sens du paragraphe 4, point j), le Centre Commun de la Sécurité Sociale est autorisé à lui transmettre les données relatives à l'emploi de ses ressortissants.
 
 (2)
 
 L'article 4 de la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce est modifié comme suit:
 
-1. Le paragraphe 2 prend la teneur suivante: (2) Ne sont pas ressortissants de la Chambre de Commerce toutes les personnes physiques ou morales, ainsi que toutes les succursales de sociétés étrangères qui sont ressortissantes de la Chambre des Métiers au sens de l'article 3 de la loi portant réorganisation de la Chambre des Métiers.
+- Le paragraphe 2 prend la teneur suivante: (2) Ne sont pas ressortissants de la Chambre de Commerce toutes les personnes physiques ou morales, ainsi que toutes les succursales de sociétés étrangères qui sont ressortissantes de la Chambre des Métiers au sens de l'article 3 de la loi portant réorganisation de la Chambre des Métiers.
 
-2. Le paragraphe 3 prend la teneur suivante: (3) Cependant, dans les deux cas exceptionnels énumérés ci-après, il y aura double affiliation à la Chambre des Métiers et à la Chambre de Commerce: s'il est établi qu'un ressortissant de la Chambre des Métiers, titulaire d'une autorisation ministérielle en qualité de commerçant, exerce de façon effective une activité commerciale sans aucun rapport avec son activité artisanale, s'il est établi qu'un ressortissant de la Chambre des Métiers exerce en outre une activité industrielle.
+- Le paragraphe 3 prend la teneur suivante: (3) Cependant, dans les deux cas exceptionnels énumérés ci-après, il y aura double affiliation à la Chambre des Métiers et à la Chambre de Commerce: s'il est établi qu'un ressortissant de la Chambre des Métiers, titulaire d'une autorisation ministérielle en qualité de commerçant, exerce de façon effective une activité commerciale sans aucun rapport avec son activité artisanale, s'il est établi qu'un ressortissant de la Chambre des Métiers exerce en outre une activité industrielle.
 
 (3)
 

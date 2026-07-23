@@ -74,9 +74,9 @@ L’annexe B précise les caractéristiques et l’équipement des locaux visés
 
 Ne peuvent pas entrer dans la composition des produits de tatouage :
 
-1. Les substances énumérées à l’annexe XVII du règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances ;
+- Les substances énumérées à l’annexe XVII du règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances ;
 
-2. Les substances listées dans le règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges.
+- Les substances listées dans le règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges.
 
 <a id="art-5"></a>
 ## Art. 5.

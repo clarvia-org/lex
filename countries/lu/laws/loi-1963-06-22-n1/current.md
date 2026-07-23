@@ -203,9 +203,9 @@ Lorsqu’un fonctionnaire obtient, après l’âge fictif de début de carrière
 
 Cette différence lui est bonifiée comme ancienneté de service:
 
-1. pour la totalité du temps passé au service de l’Etat à tâche complète, avant la nomination définitive;
+- pour la totalité du temps passé au service de l’Etat à tâche complète, avant la nomination définitive;
 
-2. pour la moitié du temps passé ailleurs qu’au service de l’Etat, avant la nomination définitive.
+- pour la moitié du temps passé ailleurs qu’au service de l’Etat, avant la nomination définitive.
 
 Pour l’application des dispositions qui précèdent, est assimilé au temps passé au service de l’Etat, le temps passé à tâche complète au service de la Couronne, des communes, des syndicats de communes, des établissements publics et de la société nationale des chemins de fer luxembourgeois, ainsi que le temps de formation à l’Institut pédagogique. Il en est de même pour les périodes passées à tâche complète au service d’une institution auprès d’un Etat membre de l’Union Européenne identique ou similaire à une de celles énumérées ci-avant.
 
@@ -274,17 +274,17 @@ IV.
 
 Le fonctionnaire qui a obtenu une première promotion ainsi que celui qui dans les conditions et suivant les modalités de la section I ci-dessus, a obtenu un avancement en traitement, bénéficie d’un second avancement en traitement, pareil au premier, dans les conditions suivantes:
 
-1. La carrière du fonctionnaire doit être une carrière inférieure ou moyenne au sens de l’annexe D de la présente loi.
+- La carrière du fonctionnaire doit être une carrière inférieure ou moyenne au sens de l’annexe D de la présente loi.
 
-2. Elle doit s’étendre sur plus de deux grades.
+- Elle doit s’étendre sur plus de deux grades.
 
-3. Le fonctionnaire doit avoir passé avec succès un examen de promotion; l’examen auquel est subordonnée la nomination à la fonction de conducteur des ponts et chaussées, des bâtiments publics, des services techniques de l’agriculture et de rédacteur de l’administration judiciaire est considérée également comme examen de promotion pour l’application des dispositions du présent paragraphe.
+- Le fonctionnaire doit avoir passé avec succès un examen de promotion; l’examen auquel est subordonnée la nomination à la fonction de conducteur des ponts et chaussées, des bâtiments publics, des services techniques de l’agriculture et de rédacteur de l’administration judiciaire est considérée également comme examen de promotion pour l’application des dispositions du présent paragraphe.
 
 Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise lorsque le fonctionnaire est âgé de 50 ans au moins.
 
-1. Le fonctionnaire doit compter six ans de bons et loyaux services depuis sa première nomination dans sa carrière sans avoir obtenu de deuxième promotion.
+- Le fonctionnaire doit compter six ans de bons et loyaux services depuis sa première nomination dans sa carrière sans avoir obtenu de deuxième promotion.
 
-2. La première promotion ne doit pas avoir eu pour effet de classer le fonctionnaire à un grade plus élevé que le grade qui est immédiatement supérieur à son grade de début de carrière suivant sa première nomination dans sa carrière et d’après les tableaux indiciaires repris à l’annexe C de la présente loi sous les rubriques I «Administration générale» et III «Force publique». Cette disposition ne s’applique pas aux fonctionnaires énumérés à l’article 22, I ci-après.
+- La première promotion ne doit pas avoir eu pour effet de classer le fonctionnaire à un grade plus élevé que le grade qui est immédiatement supérieur à son grade de début de carrière suivant sa première nomination dans sa carrière et d’après les tableaux indiciaires repris à l’annexe C de la présente loi sous les rubriques I «Administration générale» et III «Force publique». Cette disposition ne s’applique pas aux fonctionnaires énumérés à l’article 22, I ci-après.
 
 Le second avancement en traitement peut avoir l’effet d’une reconstitution de carrière pour les fonctionnaires qui, en cas de réorganisation des cadres, ont été dispensés de l’examen de promotion nouvellement introduit ou en auraient normalement pu être dispensés.
 
@@ -325,13 +325,13 @@ Pour les fonctionnaires bénéficiant d’un service à temps partiel, l’alloc
 
 A droit à l’allocation de famille:
 
-1. le fonctionnaire marié, non séparé de corps, ou le fonctionnaire partenaire au sens de l’article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats;
+- le fonctionnaire marié, non séparé de corps, ou le fonctionnaire partenaire au sens de l’article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats;
 
-2. le fonctionnaire veuf, séparé de corps judiciairement ou divorcé ainsi que le fonctionnaire célibataire ou celui dont le partenariat au sens de l’article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats a cessé
+- le fonctionnaire veuf, séparé de corps judiciairement ou divorcé ainsi que le fonctionnaire célibataire ou celui dont le partenariat au sens de l’article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats a cessé
 
-- s’il a ou s’il a eu un ou plusieurs enfants à charge. Est considéré comme enfant à charge au sens de la présente disposition l’enfant légitime, l’enfant naturel reconnu ou l’enfant adoptif du fonctionnaire, pour lesquels il touche ou a touché des allocations familiales;
+  - s’il a ou s’il a eu un ou plusieurs enfants à charge. Est considéré comme enfant à charge au sens de la présente disposition l’enfant légitime, l’enfant naturel reconnu ou l’enfant adoptif du fonctionnaire, pour lesquels il touche ou a touché des allocations familiales;
 
-- s’il contribue d’une façon appréciable à l’entretien d’un parent ou allié jusqu’au quatrième degré inclusivement vivant avec lui en communauté domestique ou s’il est tenu au paiement d’une pension alimentaire en vertu d’une décision judiciaire, sauf si l’allocation revient à l’autre conjoint ou partenaire en exécution de la disposition qui précède.
+  - s’il contribue d’une façon appréciable à l’entretien d’un parent ou allié jusqu’au quatrième degré inclusivement vivant avec lui en communauté domestique ou s’il est tenu au paiement d’une pension alimentaire en vertu d’une décision judiciaire, sauf si l’allocation revient à l’autre conjoint ou partenaire en exécution de la disposition qui précède.
 
 4.
 
@@ -458,13 +458,13 @@ Si le fonctionnaire décède au cours du mois de l’entrée en fonctions ou de 
 <a id="art-13"></a>
 ## Art. 13.
 
-17. Il est créé la fonction de garçon de bureau principal et celle de concierge surveillant. Les conditions d’avancement et le nombre des emplois de ces fonctions seront fixés par règlement grand-ducal.
+- Il est créé la fonction de garçon de bureau principal et celle de concierge surveillant. Les conditions d’avancement et le nombre des emplois de ces fonctions seront fixés par règlement grand-ducal.
 
-24. La nouvelle nomenclature de l’annexe B de la présente loi remplace les anciennes désignations dans les législations portant organisation des cadres des différentes administrations.
+- La nouvelle nomenclature de l’annexe B de la présente loi remplace les anciennes désignations dans les législations portant organisation des cadres des différentes administrations.
 
-26.
+-
 
-7. l’ancienne nomenclature est remplacée comme suit: Ancienne nomenclature Nouvelle nomenclature surveillant principal des travaux surveillant sous-chef de brigade chaîneur principal surveillant chef de brigade chaîneur chef de brigade surveillant principal sous-chef de brigade sous-chef de brigade chef de brigade chef de brigade
+  - l’ancienne nomenclature est remplacée comme suit: Ancienne nomenclature Nouvelle nomenclature surveillant principal des travaux surveillant sous-chef de brigade chaîneur principal surveillant chef de brigade chaîneur chef de brigade surveillant principal sous-chef de brigade sous-chef de brigade chef de brigade chef de brigade
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -540,300 +540,300 @@ Un règlement grand-ducal détermine les conditions et les modalités de la mise
 <a id="art-17"></a>
 ## Art. 17.
 
-1.
+-
 
-1. La carrière de l’expéditionnaire comprend les fonctions suivantes:
+  - La carrière de l’expéditionnaire comprend les fonctions suivantes:
 
-1. expéditionnaire,
+    - expéditionnaire,
 
-2. commis adjoint,
+    - commis adjoint,
 
-3. commis,
+    - commis,
 
-4. commis principal,
+    - commis principal,
 
-5. premier commis principal.
+    - premier commis principal.
 
-2. La carrière de l’expéditionnaire-informaticien comprend les fonctions suivantes:
+  - La carrière de l’expéditionnaire-informaticien comprend les fonctions suivantes:
 
-1. expéditionnaire-informaticien,
+    - expéditionnaire-informaticien,
 
-2. commis-informaticien adjoint,
+    - commis-informaticien adjoint,
 
-3. commis-informaticien,
+    - commis-informaticien,
 
-4. commis-informaticien principal,
+    - commis-informaticien principal,
 
-5. premier commis-informaticien principal.
+    - premier commis-informaticien principal.
 
-3. La carrière de l’expéditionnaire technique comprend les fonctions suivantes:
+  - La carrière de l’expéditionnaire technique comprend les fonctions suivantes:
 
-1. expéditionnaire technique,
+    - expéditionnaire technique,
 
-2. commis technique adjoint,
+    - commis technique adjoint,
 
-3. commis technique,
+    - commis technique,
 
-4. commis technique principal,
+    - commis technique principal,
 
-5. premier commis technique principal.
+    - premier commis technique principal.
 
-4. Les conditions et la forme des nominations aux emplois des carrières visées aux paragraphes 1 er , 2 et 3 ci-dessus, ainsi que les modalités des examens auxquels sera subordonnée la promotion aux fonctions supérieures à celles de commis adjoint, de commis-informaticien adjoint et de commis technique adjoint, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
+  - Les conditions et la forme des nominations aux emplois des carrières visées aux paragraphes 1 er , 2 et 3 ci-dessus, ainsi que les modalités des examens auxquels sera subordonnée la promotion aux fonctions supérieures à celles de commis adjoint, de commis-informaticien adjoint et de commis technique adjoint, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
 
-5. Les fonctionnaires de la carrière de l’expéditionnaire, de celle de l’expéditionnaire-informaticien et de celle de l’expéditionnaire technique, détachés de leur administration d’origine à un autre service de l’Etat pourront être nommés hors cadre; il avanceront alors par dépassement des pourcentages fixés à l’article 5 de la loi du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat, parallèlement à leurs collègues de l’administration d’origine de rang égal ou immédiatement inférieur, au moment où ces derniers bénéficient d’une promotion.
+  - Les fonctionnaires de la carrière de l’expéditionnaire, de celle de l’expéditionnaire-informaticien et de celle de l’expéditionnaire technique, détachés de leur administration d’origine à un autre service de l’Etat pourront être nommés hors cadre; il avanceront alors par dépassement des pourcentages fixés à l’article 5 de la loi du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat, parallèlement à leurs collègues de l’administration d’origine de rang égal ou immédiatement inférieur, au moment où ces derniers bénéficient d’une promotion.
 
-2.
+-
 
-1. La carrière de l’artisan comprend les fonctions suivantes:
+  - La carrière de l’artisan comprend les fonctions suivantes:
 
-1. artisan,
+    - artisan,
 
-2. premier artisan,
+    - premier artisan,
 
-3. artisan principal,
+    - artisan principal,
 
-4. premier artisan principal,
+    - premier artisan principal,
 
-5. artisan dirigeant.
+    - artisan dirigeant.
 
-2. Les conditions et la forme des nominations aux emplois de la carrière de l’artisan visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celle de premier artisan, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
+  - Les conditions et la forme des nominations aux emplois de la carrière de l’artisan visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celle de premier artisan, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
 
-3. L’artisan principal, le premier artisan principal et l’artisan dirigeant des différentes administrations, classés respectivement aux grades 6, 7 et 7bis de l’annexe A, rubrique «I. - Administration générale» de la présente loi peuvent être nommés aux fonctions de commis technique, de commis technique principal et de premier commis technique principal de la carrière de l’expéditionnaire technique à condition qu’ils réussissent à l’examen de promotion de cette carrière et qu’il existe une vacance de poste au niveau des fonctions énumérées ci-dessus.
+  - L’artisan principal, le premier artisan principal et l’artisan dirigeant des différentes administrations, classés respectivement aux grades 6, 7 et 7bis de l’annexe A, rubrique «I. - Administration générale» de la présente loi peuvent être nommés aux fonctions de commis technique, de commis technique principal et de premier commis technique principal de la carrière de l’expéditionnaire technique à condition qu’ils réussissent à l’examen de promotion de cette carrière et qu’il existe une vacance de poste au niveau des fonctions énumérées ci-dessus.
 
-4. L’ancienne nomenclature d’artisan contremaître et de chef-mécanicien est remplacée respectivement par celle d’artisan principal et de premier artisan principal.
+  - L’ancienne nomenclature d’artisan contremaître et de chef-mécanicien est remplacée respectivement par celle d’artisan principal et de premier artisan principal.
 
-3.
+-
 
-1. La carrière du cantonnier comprend les fonctions suivantes:
+  - La carrière du cantonnier comprend les fonctions suivantes:
 
-- surveillant des travaux, cantonnier, chaîneur, garde-chasse adjoint, garde-pêche adjoint,
+    - surveillant des travaux, cantonnier, chaîneur, garde-chasse adjoint, garde-pêche adjoint,
 
-- surveillant principal, chef-cantonnier, chef-chaîneur, garde-chasse, garde-pêche,
+    - surveillant principal, chef-cantonnier, chef-chaîneur, garde-chasse, garde-pêche,
 
-- sous-chef de brigade,
+    - sous-chef de brigade,
 
-- chef de brigade,
+    - chef de brigade,
 
-- chef de brigade principal,
+    - chef de brigade principal,
 
-- chef de brigade dirigeant.
+    - chef de brigade dirigeant.
 
-2. Les conditions et la forme des nominations aux emplois de la carrière du cantonnier visée ci-dessus seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires. La promotion aux fonctions supérieures à celles de surveillant principal, chef-cantonnier, chef-chaîneur, gardechasse, garde-pêche est subordonnée à un examen de promotion, la promotion aux fonctions de chef de brigade principal et de chef de brigade dirigeant est subordonnée à un deuxième examen de promotion portant sur des problèmes spécifiques. Les modalités de ces examens sont également fixées par règlement grand-ducal.
+  - Les conditions et la forme des nominations aux emplois de la carrière du cantonnier visée ci-dessus seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires. La promotion aux fonctions supérieures à celles de surveillant principal, chef-cantonnier, chef-chaîneur, gardechasse, garde-pêche est subordonnée à un examen de promotion, la promotion aux fonctions de chef de brigade principal et de chef de brigade dirigeant est subordonnée à un deuxième examen de promotion portant sur des problèmes spécifiques. Les modalités de ces examens sont également fixées par règlement grand-ducal.
 
-4.
+-
 
-1. La carrière de l’aide-soignant comprend la fonction suivante: aide-soignant.
+  - La carrière de l’aide-soignant comprend la fonction suivante: aide-soignant.
 
-2. La carrière de l’agent sanitaire comprend les fonctions suivantes:
+  - La carrière de l’agent sanitaire comprend les fonctions suivantes:
 
-1. agent sanitaire,
+    - agent sanitaire,
 
-2. agent sanitaire principal,
+    - agent sanitaire principal,
 
-3. agent sanitaire en chef,
+    - agent sanitaire en chef,
 
-4. agent sanitaire dirigeant adjoint,
+    - agent sanitaire dirigeant adjoint,
 
-5. agent sanitaire dirigeant.
+    - agent sanitaire dirigeant.
 
-3. La carrière de l’infirmier comprend les fonctions suivantes:
+  - La carrière de l’infirmier comprend les fonctions suivantes:
 
-1. infirmier,
+    - infirmier,
 
-2. infirmier principal,
+    - infirmier principal,
 
-3. infirmier en chef,
+    - infirmier en chef,
 
-4. infirmier dirigeant adjoint,
+    - infirmier dirigeant adjoint,
 
-5. infirmier dirigeant.
+    - infirmier dirigeant.
 
-4. La carrière de l’infirmier psychiatrique comprend les fonctions suivantes:
+  - La carrière de l’infirmier psychiatrique comprend les fonctions suivantes:
 
-1. infirmier psychiatrique,
+    - infirmier psychiatrique,
 
-2. infirmier psychiatrique principal,
+    - infirmier psychiatrique principal,
 
-3. infirmier psychiatrique en chef,
+    - infirmier psychiatrique en chef,
 
-4. infirmier psychiatrique dirigeant adjoint,
+    - infirmier psychiatrique dirigeant adjoint,
 
-5. infirmier psychiatrique dirigeant.
+    - infirmier psychiatrique dirigeant.
 
-5. La carrière de l’infirmier chargé des services d’ergothérapie ou d’éducation physique comprend les fonctions suivantes:
+  - La carrière de l’infirmier chargé des services d’ergothérapie ou d’éducation physique comprend les fonctions suivantes:
 
-1. infirmier chargé des services d’ergothérapie ou d’éducation physique,
+    - infirmier chargé des services d’ergothérapie ou d’éducation physique,
 
-2. infirmier principal chargé des services d’ergothérapie ou d’éducation physique,
+    - infirmier principal chargé des services d’ergothérapie ou d’éducation physique,
 
-3. infirmier en chef chargé des services d’ergothérapie ou d’éducation physique,
+    - infirmier en chef chargé des services d’ergothérapie ou d’éducation physique,
 
-4. infirmier dirigeant adjoint chargé des services d’ergothérapie ou d’éducation physique,
+    - infirmier dirigeant adjoint chargé des services d’ergothérapie ou d’éducation physique,
 
-5. infirmier dirigeant chargé des services d’ergothérapie ou d’éducation physique.
+    - infirmier dirigeant chargé des services d’ergothérapie ou d’éducation physique.
 
-6. La carrière de l’infirmier anesthésiste comprend les fonctions suivantes:
+  - La carrière de l’infirmier anesthésiste comprend les fonctions suivantes:
 
-1. infirmier anesthésiste,
+    - infirmier anesthésiste,
 
-2. infirmier anesthésiste principal,
+    - infirmier anesthésiste principal,
 
-3. infirmier anesthésiste en chef,
+    - infirmier anesthésiste en chef,
 
-4. infirmier anesthésiste dirigeant adjoint,
+    - infirmier anesthésiste dirigeant adjoint,
 
-5. infirmier anesthésiste dirigeant.
+    - infirmier anesthésiste dirigeant.
 
-7. La carrière de puériculteur comprend les fonctions suivantes:
+  - La carrière de puériculteur comprend les fonctions suivantes:
 
-1. puériculteur,
+    - puériculteur,
 
-2. puériculteur principal,
+    - puériculteur principal,
 
-3. puériculteur en chef,
+    - puériculteur en chef,
 
-4. puériculteur dirigeant adjoint,
+    - puériculteur dirigeant adjoint,
 
-5. puériculteur dirigeant.
+    - puériculteur dirigeant.
 
-8. La carrière de l’assistant technique médical comprend les fonctions suivantes:
+  - La carrière de l’assistant technique médical comprend les fonctions suivantes:
 
-1. assistant technique médical,
+    - assistant technique médical,
 
-2. assistant technique médical principal,
+    - assistant technique médical principal,
 
-3. assistant technique médical en chef,
+    - assistant technique médical en chef,
 
-4. assistant technique médical dirigeant adjoint,
+    - assistant technique médical dirigeant adjoint,
 
-5. assistant technique médical dirigeant.
+    - assistant technique médical dirigeant.
 
-9. La carrière du masseur comprend les fonctions suivantes:
+  - La carrière du masseur comprend les fonctions suivantes:
 
-1. masseur,
+    - masseur,
 
-2. masseur principal,
+    - masseur principal,
 
-3. masseur en chef,
+    - masseur en chef,
 
-4. masseur dirigeant adjoint,
+    - masseur dirigeant adjoint,
 
-5. masseur dirigeant.
+    - masseur dirigeant.
 
-10. La carrière de la sage-femme comprend les fonctions suivantes:
+  - La carrière de la sage-femme comprend les fonctions suivantes:
 
-1. sage-femme,
+    - sage-femme,
 
-2. sage-femme dirigeante adjointe,
+    - sage-femme dirigeante adjointe,
 
-3. sage-femme dirigeante.
+    - sage-femme dirigeante.
 
-11. La carrière du laborantin, du masseur-kinésithérapeute, de l’infirmier hospitalier gradué, de l’assistant social, de l’assistant d’hygiène sociale, de l’orthophoniste, de l’ergothérapeute et de l’orthoptiste comprend les fonctions suivantes: laborantin, masseur-kinésithérapeute, infirmier hospitalier gradué, assistant social, assistant d’hygiène sociale, orthophoniste, ergothérapeute, orthoptiste.
+  - La carrière du laborantin, du masseur-kinésithérapeute, de l’infirmier hospitalier gradué, de l’assistant social, de l’assistant d’hygiène sociale, de l’orthophoniste, de l’ergothérapeute et de l’orthoptiste comprend les fonctions suivantes: laborantin, masseur-kinésithérapeute, infirmier hospitalier gradué, assistant social, assistant d’hygiène sociale, orthophoniste, ergothérapeute, orthoptiste.
 
-12. Les conditions et la forme des nominations aux emplois des carrières visées aux paragraphes 1 à 11 ci-dessus, ainsi que les modalités des examens auxquels sera subordonnée la promotion aux fonctions supérieures à celles d’infirmier principal, d’infirmier psychiatrique principal, d’infirmier principal chargé des services d’ergothérapie ou d’éducation physique, d’agent sanitaire principal, de puériculteur principal, d’assistant technique médical principal, de masseur principal, d’infirmier anesthésiste principal et de sage-femme, seront déterminées par règlement grandducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
+  - Les conditions et la forme des nominations aux emplois des carrières visées aux paragraphes 1 à 11 ci-dessus, ainsi que les modalités des examens auxquels sera subordonnée la promotion aux fonctions supérieures à celles d’infirmier principal, d’infirmier psychiatrique principal, d’infirmier principal chargé des services d’ergothérapie ou d’éducation physique, d’agent sanitaire principal, de puériculteur principal, d’assistant technique médical principal, de masseur principal, d’infirmier anesthésiste principal et de sage-femme, seront déterminées par règlement grandducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
 
-13. Le nombre des emplois des différentes fonctions paramédicales des carrières définies aux paragraphes 1, 10 et 11 ci-dessus des différentes administrations et services de l’Etat est fixé par les lois organiques des administrations et services intéressés.
+  - Le nombre des emplois des différentes fonctions paramédicales des carrières définies aux paragraphes 1, 10 et 11 ci-dessus des différentes administrations et services de l’Etat est fixé par les lois organiques des administrations et services intéressés.
 
-5.
+-
 
-1. La carrière du préposé forestier comprend les fonctions suivantes:
+  - La carrière du préposé forestier comprend les fonctions suivantes:
 
-1. garde forestier,
+    - garde forestier,
 
-2. brigadier forestier,
+    - brigadier forestier,
 
-3. chef-brigadier forestier,
+    - chef-brigadier forestier,
 
-4. brigadier forestier principal,
+    - brigadier forestier principal,
 
-5. premier brigadier forestier principal.
+    - premier brigadier forestier principal.
 
-2. Les conditions et la forme des nominations aux emplois de la carrière du préposé forestier visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celle de brigadier forestier, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales au statut des fonctionnaires.
+  - Les conditions et la forme des nominations aux emplois de la carrière du préposé forestier visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celle de brigadier forestier, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales au statut des fonctionnaires.
 
-6.
+-
 
-1. La carrière de l’huissier comprend les fonctions suivantes:
+  - La carrière de l’huissier comprend les fonctions suivantes:
 
-1. huissier de salle,
+    - huissier de salle,
 
-2. huissier-chef,
+    - huissier-chef,
 
-3. huissier principal,
+    - huissier principal,
 
-4. premier huissier principal,
+    - premier huissier principal,
 
-5. huissier dirigeant,
+    - huissier dirigeant,
 
-6. premier huissier dirigeant.
+    - premier huissier dirigeant.
 
-2. Les conditions et la forme des nominations aux emplois de la carrière de l’huissier, visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celle de huissier de salle seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
+  - Les conditions et la forme des nominations aux emplois de la carrière de l’huissier, visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celle de huissier de salle seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
 
-7.
+-
 
-1. La carrière du concierge comprend les fonctions suivantes:
+  - La carrière du concierge comprend les fonctions suivantes:
 
-1. concierge,
+    - concierge,
 
-2. concierge surveillant,
+    - concierge surveillant,
 
-3. concierge surveillant principal.
+    - concierge surveillant principal.
 
-2. Les conditions et la forme des nominations aux emplois de la carrière du concierge, visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celle de concierge seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
+  - Les conditions et la forme des nominations aux emplois de la carrière du concierge, visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celle de concierge seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
 
-8.
+-
 
-1. La carrière du technicien comprend les fonctions suivantes:
+  - La carrière du technicien comprend les fonctions suivantes:
 
-1. technicien,
+    - technicien,
 
-2. technicien principal,
+    - technicien principal,
 
-3. technicien en chef,
+    - technicien en chef,
 
-4. technicien dirigeant adjoint,
+    - technicien dirigeant adjoint,
 
-5. technicien dirigeant,
+    - technicien dirigeant,
 
-6. premier technicien dirigeant,
+    - premier technicien dirigeant,
 
-7. technicien inspecteur.
+    - technicien inspecteur.
 
-2. Les conditions et la forme des nominations aux emplois de la carrière du technicien visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celles de technicien principal, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
+  - Les conditions et la forme des nominations aux emplois de la carrière du technicien visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celles de technicien principal, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
 
 <a id="art-18"></a>
 ## Art. 18.
 
-1. Les fonctionnaires qui occupent les emplois de chef d’atelier ou de magasinier créés par les lois organiques des différentes administrations de l’Etat, sont classés suivant l’importance de leur tâche en raison des dimensions et des aménagements de l’installation. Les décisions y relatives sont prises par le Gouvernement en conseil suivant les principes ci-après:
+- Les fonctionnaires qui occupent les emplois de chef d’atelier ou de magasinier créés par les lois organiques des différentes administrations de l’Etat, sont classés suivant l’importance de leur tâche en raison des dimensions et des aménagements de l’installation. Les décisions y relatives sont prises par le Gouvernement en conseil suivant les principes ci-après:
 
-1. Quant aux chefs d’atelier: Les fonctionnaires qui, en raison de leurs études et examens, appartiennent à la carrière:
+  - Quant aux chefs d’atelier: Les fonctionnaires qui, en raison de leurs études et examens, appartiennent à la carrière:
 
-1. de l’ingénieur-technicien, peuvent être nommés: ingénieur-technicien, ingénieur-technicien principal, ingénieur-technicien inspecteur, ingénieur technicien inspecteur principal et ingénieur technicien inspecteur principal premier en rang;
+    - de l’ingénieur-technicien, peuvent être nommés: ingénieur-technicien, ingénieur-technicien principal, ingénieur-technicien inspecteur, ingénieur technicien inspecteur principal et ingénieur technicien inspecteur principal premier en rang;
 
-2. du technicien diplômé, peuvent être nommés technicien diplômé, technicien principal, chef de bureau technique adjoint, chef de bureau technique, inspecteur technique, inspecteur technique principal et inspecteur technique principal premier en rang;
+    - du technicien diplômé, peuvent être nommés technicien diplômé, technicien principal, chef de bureau technique adjoint, chef de bureau technique, inspecteur technique, inspecteur technique principal et inspecteur technique principal premier en rang;
 
-3. du technicien, peuvent être nommés technicien, technicien principal, technicien en chef, technicien dirigeant adjoint, technicien dirigeant, premier technicien dirigeant et technicien inspecteur;
+    - du technicien, peuvent être nommés technicien, technicien principal, technicien en chef, technicien dirigeant adjoint, technicien dirigeant, premier technicien dirigeant et technicien inspecteur;
 
-4. de l’expéditionnaire technique ou de l’artisan peuvent être nommés: commis technique adjoint, commis technique, commis technique principal et premier commis technique principal.
+    - de l’expéditionnaire technique ou de l’artisan peuvent être nommés: commis technique adjoint, commis technique, commis technique principal et premier commis technique principal.
 
-2. Quant aux magasiniers: Les fonctionnaires qui, en raison de leurs études et examens, appartiennent à la carrière:
+  - Quant aux magasiniers: Les fonctionnaires qui, en raison de leurs études et examens, appartiennent à la carrière:
 
-1. de l’expéditionnaire, peuvent être nommés: commis adjoint, commis, commis principal et premier commis principal;
+    - de l’expéditionnaire, peuvent être nommés: commis adjoint, commis, commis principal et premier commis principal;
 
-2. de l’expéditionnaire technique, peuvent être nommés commis technique adjoint, commis technique principal et premier commis technique principal;
+    - de l’expéditionnaire technique, peuvent être nommés commis technique adjoint, commis technique principal et premier commis technique principal;
 
-3. de l’artisan, peuvent être nommés premier artisan, artisan principal, premier artisan principal et artisan dirigeant. Le Gouvernement en conseil pourra fixer les grades de début et de fin de carrière visés sous 1° et 2°.
+    - de l’artisan, peuvent être nommés premier artisan, artisan principal, premier artisan principal et artisan dirigeant. Le Gouvernement en conseil pourra fixer les grades de début et de fin de carrière visés sous 1° et 2°.
 
-2. Les éducateurs instructeurs de l’éducation différenciée et du centre de logopédie sont classés par décision du Gouvernement en conseil suivant les principes ci-après: Les fonctionnaires qui, en raison de leurs études et examens, appartiennent à la carrière: Les candidats à la carrière de l’expéditionnaire technique dans le cadre de l’éducation différenciée peuvent se recruter parmi les détenteurs soit du certificat d’aptitude technique et professionnelle soit d’un certificat y assimilé en vertu de l’article 46 de la loi modifiée du 21 mai 1979 portant 1. organisation de la formation professionnelle et de l’enseignement secondaire technique, 2. organisation de la formation professionnelle continue, soit d’un certificat d’études étranger reconnu équivalent par le ministre ayant dans ses attributions la fonction publique. Ils subissent un examen d’admission commun. Le Gouvernement en conseil peut fixer les grades de début et de fin de carrière. L’éducateur instructeur, détenteur d’un brevet de maîtrise, ou qui obtient ce brevet en cours de carrière, bénéficie, à partir du premier jour du mois qui suit celui pendant lequel a eu lieu son obtention, d’une prime annuelle correspondant à vingt points indiciaires.
+- Les éducateurs instructeurs de l’éducation différenciée et du centre de logopédie sont classés par décision du Gouvernement en conseil suivant les principes ci-après: Les fonctionnaires qui, en raison de leurs études et examens, appartiennent à la carrière: Les candidats à la carrière de l’expéditionnaire technique dans le cadre de l’éducation différenciée peuvent se recruter parmi les détenteurs soit du certificat d’aptitude technique et professionnelle soit d’un certificat y assimilé en vertu de l’article 46 de la loi modifiée du 21 mai 1979 portant 1. organisation de la formation professionnelle et de l’enseignement secondaire technique, 2. organisation de la formation professionnelle continue, soit d’un certificat d’études étranger reconnu équivalent par le ministre ayant dans ses attributions la fonction publique. Ils subissent un examen d’admission commun. Le Gouvernement en conseil peut fixer les grades de début et de fin de carrière. L’éducateur instructeur, détenteur d’un brevet de maîtrise, ou qui obtient ce brevet en cours de carrière, bénéficie, à partir du premier jour du mois qui suit celui pendant lequel a eu lieu son obtention, d’une prime annuelle correspondant à vingt points indiciaires.
 
-1. de l’ingénieur-technicien, peuvent être nommés: ingénieur-technicien, ingénieur-technicien principal, ingénieur-technicien inspecteur, ingénieur technicien inspecteur principal et ingénieur technicien inspecteur principal premier en rang;
+  - de l’ingénieur-technicien, peuvent être nommés: ingénieur-technicien, ingénieur-technicien principal, ingénieur-technicien inspecteur, ingénieur technicien inspecteur principal et ingénieur technicien inspecteur principal premier en rang;
 
-2. du technicien diplômé, peuvent être nommés: technicien diplômé, technicien principal, chef de bureau technique adjoint, chef de bureau technique, inspecteur technique;
+  - du technicien diplômé, peuvent être nommés: technicien diplômé, technicien principal, chef de bureau technique adjoint, chef de bureau technique, inspecteur technique;
 
-3. du technicien, peuvent être nommés: technicien, technicien principal, technicien en chef, technicien dirigeant adjoint, technicien dirigeant, premier technicien dirigeant et technicien-inspecteur;
+  - du technicien, peuvent être nommés: technicien, technicien principal, technicien en chef, technicien dirigeant adjoint, technicien dirigeant, premier technicien dirigeant et technicien-inspecteur;
 
-4. de l’expéditionnaire technique, peuvent être nommés: expéditionnaire technique, commis technique adjoint, commis technique, commis technique principal et premier commis technique principal.
+  - de l’expéditionnaire technique, peuvent être nommés: expéditionnaire technique, commis technique adjoint, commis technique, commis technique principal et premier commis technique principal.
 
-3. Le préposé du sport-loisir est classé par décision du gouvernement en conseil suivant son degré d’études dans la carrière correspondant à sa formation.
+- Le préposé du sport-loisir est classé par décision du gouvernement en conseil suivant son degré d’études dans la carrière correspondant à sa formation.
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -1094,69 +1094,69 @@ VI.
 
 1) Sur demande du fonctionnaire et sur avis du chef d’administration, le fonctionnaire peut bénéficier des allongements de grades ci-après à la condition d’avoir accompli, au cours de sa carrière, au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique:
 
-1. Pour le garçon de bureau et le garçon de salle, le grade 3 est allongé d’un treizième et d’un quatorzième échelon ayant respectivement les indices 216 et 222. Pour le concierge, le grade 5 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 244 et 249.
+- Pour le garçon de bureau et le garçon de salle, le grade 3 est allongé d’un treizième et d’un quatorzième échelon ayant respectivement les indices 216 et 222. Pour le concierge, le grade 5 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 244 et 249.
 
-2. Pour l’aide soignant et le garde des domaines, le grade 4 allongé est allongé d’un treizième et d’un quatorzième échelon ayant respectivement les indices 240 et 246. Pour le garde des domaines, le grade 6 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 253 et 262.
+- Pour l’aide soignant et le garde des domaines, le grade 4 allongé est allongé d’un treizième et d’un quatorzième échelon ayant respectivement les indices 240 et 246. Pour le garde des domaines, le grade 6 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 253 et 262.
 
-3. Pour l’huissier, le grade 5 est allongé d’un onzième échelon ayant l’indice 244 et le grade 6 est allongé d’un onzième échelon ayant l’indice 253. Le grade 7 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 266 et 272.
+- Pour l’huissier, le grade 5 est allongé d’un onzième échelon ayant l’indice 244 et le grade 6 est allongé d’un onzième échelon ayant l’indice 253. Le grade 7 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 266 et 272.
 
-4. Pour le cantonnier, le surveillant des travaux, le chaîneur et le facteur le grade 5 est allongé d’un onzième échelon ayant l’indice 244, le grade 6 est allongé d’un onzième échelon ayant l’indice 253 et le grade 7 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 266 et 272. Pour le facteur comptable principal, le grade 7 est allongé d’un treizième échelon ayant l’indice 281.
+- Pour le cantonnier, le surveillant des travaux, le chaîneur et le facteur le grade 5 est allongé d’un onzième échelon ayant l’indice 244, le grade 6 est allongé d’un onzième échelon ayant l’indice 253 et le grade 7 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 266 et 272. Pour le facteur comptable principal, le grade 7 est allongé d’un treizième échelon ayant l’indice 281.
 
-5. Pour les agents pénitentiaires, le grade 8 est allongé d’un douzième échelon ayant l’indice 311 et le grade 8bis est allongé d’un treizième et quatorzième échelon ayant respectivement les indices 332 et 339.
+- Pour les agents pénitentiaires, le grade 8 est allongé d’un douzième échelon ayant l’indice 311 et le grade 8bis est allongé d’un treizième et quatorzième échelon ayant respectivement les indices 332 et 339.
 
-6. Pour l’artisan, le grade 7 allongé est allongé d’un douzième échelon ayant l’indice 275 et le grade 7bis allongé est allongé d’un quatorzième et d’un quinzième échelon ayant respectivement les indices 314 et 320.
+- Pour l’artisan, le grade 7 allongé est allongé d’un douzième échelon ayant l’indice 275 et le grade 7bis allongé est allongé d’un quatorzième et d’un quinzième échelon ayant respectivement les indices 314 et 320.
 
-8. Pour l’expéditionnaire administratif, l’expéditionnaire technique, l’expéditionnaire informaticien, le préposé forestier, l’infirmier, l’agent sanitaire, l’assistant technique médical, l’infirmier anesthésiste, l’infirmier psychiatrique, l’infirmier chargé des services d’ergothérapie ou d’éducation physique, le masseur, le puériculteur et le préposé du service d’urgence, le grade 8 est allongé d’un douzième échelon ayant l’indice 311 et le grade 8bis est allongé d’un treizième et d’un quatorzième échelon ayant respectivement les indices 332 et 339. Toutefois, pour l’expéditionnaire technique visé à l’article 22 IV - 12° ci-dessus, le grade 8bis allongé est allongé d’un quatorzième et quinzième échelon ayant respectivement les indices 338 et 345.
+- Pour l’expéditionnaire administratif, l’expéditionnaire technique, l’expéditionnaire informaticien, le préposé forestier, l’infirmier, l’agent sanitaire, l’assistant technique médical, l’infirmier anesthésiste, l’infirmier psychiatrique, l’infirmier chargé des services d’ergothérapie ou d’éducation physique, le masseur, le puériculteur et le préposé du service d’urgence, le grade 8 est allongé d’un douzième échelon ayant l’indice 311 et le grade 8bis est allongé d’un treizième et d’un quatorzième échelon ayant respectivement les indices 332 et 339. Toutefois, pour l’expéditionnaire technique visé à l’article 22 IV - 12° ci-dessus, le grade 8bis allongé est allongé d’un quatorzième et quinzième échelon ayant respectivement les indices 338 et 345.
 
-9. Pour le moniteur, l’audiométriste de la Santé, l’éducateur, le grade 8bis est allongé d’un treizième et d’un quatorzième échelon ayant respectivement les indices 332 et 339.
+- Pour le moniteur, l’audiométriste de la Santé, l’éducateur, le grade 8bis est allongé d’un treizième et d’un quatorzième échelon ayant respectivement les indices 332 et 339.
 
-10. Pour la sage-femme, le grade 9 est allongé d’un dixième échelon ayant l’indice 326 et le grade 9bis est allongé d’un onzième et douzième échelon ayant respectivement les indices 341 et 352.
+- Pour la sage-femme, le grade 9 est allongé d’un dixième échelon ayant l’indice 326 et le grade 9bis est allongé d’un onzième et douzième échelon ayant respectivement les indices 341 et 352.
 
-11. Pour le technicien, le grade 10 est allongé d’un dixième échelon ayant l’indice 350, le grade 11 est allongé d’un onzième échelon ayant l’indice 395 et le grade 12 est allongé d’un neuvième et dixième échelon ayant respectivement les indices 425 et 435.
+- Pour le technicien, le grade 10 est allongé d’un dixième échelon ayant l’indice 350, le grade 11 est allongé d’un onzième échelon ayant l’indice 395 et le grade 12 est allongé d’un neuvième et dixième échelon ayant respectivement les indices 425 et 435.
 
-12. Pour le technicien diplômé, le rédacteur, l’informaticien diplômé et l’ingénieur technicien le grade 11 est allongé d’un onzième échelon ayant l’indice 395, le grade 12 est allongé d’un neuvième échelon ayant l’indice 425 et le grade 13 est allongé d’un neuvième et d’un dixième échelon ayant respectivement les indices 455 et 466. Pour le receveur principal, le grade 12 est allongé d’un neuvième échelon ayant l’indice 425.
+- Pour le technicien diplômé, le rédacteur, l’informaticien diplômé et l’ingénieur technicien le grade 11 est allongé d’un onzième échelon ayant l’indice 395, le grade 12 est allongé d’un neuvième échelon ayant l’indice 425 et le grade 13 est allongé d’un neuvième et d’un dixième échelon ayant respectivement les indices 455 et 466. Pour le receveur principal, le grade 12 est allongé d’un neuvième échelon ayant l’indice 425.
 
-13. Pour l’archiviste, le bibliothécaire et l’assistant scientifique, le grade 13 est allongé d’un neuvième et d’un dixième échelon ayant respectivement les indices 455 et 466.
+- Pour l’archiviste, le bibliothécaire et l’assistant scientifique, le grade 13 est allongé d’un neuvième et d’un dixième échelon ayant respectivement les indices 455 et 466.
 
-14. Pour le bibliothécaire-documentaliste, le grade 11 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 395 et 403, et le grade 13 est allongé d’un neuvième et d’un dixième échelon ayant respectivement les indices 455 et 466.
+- Pour le bibliothécaire-documentaliste, le grade 11 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 395 et 403, et le grade 13 est allongé d’un neuvième et d’un dixième échelon ayant respectivement les indices 455 et 466.
 
-16. Pour le secrétaire des établissements scolaires, le grade 10 est allongé d’un dixième et d’un onzième échelon ayant respectivement les indices 350 et 358. Pour le secrétaire, détenteur d’un diplôme de fin d’études secondaires, le grade 11 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 395 et 403.
+- Pour le secrétaire des établissements scolaires, le grade 10 est allongé d’un dixième et d’un onzième échelon ayant respectivement les indices 350 et 358. Pour le secrétaire, détenteur d’un diplôme de fin d’études secondaires, le grade 11 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 395 et 403.
 
-17. Pour l’éducateur, l’éducateur sanitaire, le cytotechnicien et l’éducateur gradué, le grade 13 est allongé d’un neuvième et d’un dixième échelon ayant respectivement les indices 455 et 466.
+- Pour l’éducateur, l’éducateur sanitaire, le cytotechnicien et l’éducateur gradué, le grade 13 est allongé d’un neuvième et d’un dixième échelon ayant respectivement les indices 455 et 466.
 
-18. Pour le conducteur, le grade 11 est allongé d’un onzième échelon ayant l’indice 395, le grade 12 est allongé d’un neuvième échelon ayant l’indice 425 et le grade 13 allongé est allongé d’un onzième et douzième échelon ayant respectivement les indices 485 et 500. Pour le conducteur visé à l’article 19 paragraphe 6 ci-dessus, le grade 12 est allongé d’un neuvième échelon ayant l’indice 425 et le grade 13 allongé est allongé d’un onzième et douzième échelon ayant respectivement les indices 485 et 500.
+- Pour le conducteur, le grade 11 est allongé d’un onzième échelon ayant l’indice 395, le grade 12 est allongé d’un neuvième échelon ayant l’indice 425 et le grade 13 allongé est allongé d’un onzième et douzième échelon ayant respectivement les indices 485 et 500. Pour le conducteur visé à l’article 19 paragraphe 6 ci-dessus, le grade 12 est allongé d’un neuvième échelon ayant l’indice 425 et le grade 13 allongé est allongé d’un onzième et douzième échelon ayant respectivement les indices 485 et 500.
 
-19. Pour l’agent de probation, l’assistant social, l’assistant d’hygiène sociale, l’infirmier gradué, le laborantin, le masseur kinésithérapeute, l’orthophoniste, le chimiste, l’ergothérapeute, l’orthoptiste, le diététicien, le psychorééducateur, le pédagogue curatif et l’assistant technique viticole, le grade 13 est allongé d’un neuvième échelon ayant l’indice 455 et le grade 14 est allongé d’un neuvième et dixième échelon ayant respectivement les indices 485 et 498.
+- Pour l’agent de probation, l’assistant social, l’assistant d’hygiène sociale, l’infirmier gradué, le laborantin, le masseur kinésithérapeute, l’orthophoniste, le chimiste, l’ergothérapeute, l’orthoptiste, le diététicien, le psychorééducateur, le pédagogue curatif et l’assistant technique viticole, le grade 13 est allongé d’un neuvième échelon ayant l’indice 455 et le grade 14 est allongé d’un neuvième et dixième échelon ayant respectivement les indices 485 et 498.
 
-20. Pour le conservateur, le chef de services spéciaux, le psychologue, l’expert en sciences hospitalières, l’administrateur de l’hôpital neuro-psychiatrique, le sociologue et le pédagogue, le criminologue, le grade 15 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 530 et 546.
+- Pour le conservateur, le chef de services spéciaux, le psychologue, l’expert en sciences hospitalières, l’administrateur de l’hôpital neuro-psychiatrique, le sociologue et le pédagogue, le criminologue, le grade 15 est allongé d’un onzième et d’un douzième échelon ayant respectivement les indices 530 et 546.
 
-21. Pour l’architecte, le secrétaire du Conseil d’Etat, l’attaché de direction, l’attaché de Gouvernement, attaché du secrétariat du médiateur, l’attaché de la Cour des comptes, le secrétaire de légation, le chargé d’études, le chargé d’études-informaticien, l’ingénieur, l’inspecteur des finances et l’inspecteur de la sécurité sociale le grade 15, ainsi que pour le commissionnaire divisionnaire le grade P11 et pour le major de l’armée le grade A11, sont allongés d’un onzième échelon ayant l’indice 530. Pour le premier commissaire divisionnaire et pour le lieutenantcolonel de l’armée, les grades P12 respectivement A12 sont allongés par un douzième échelon ayant l’indice 568.
+- Pour l’architecte, le secrétaire du Conseil d’Etat, l’attaché de direction, l’attaché de Gouvernement, attaché du secrétariat du médiateur, l’attaché de la Cour des comptes, le secrétaire de légation, le chargé d’études, le chargé d’études-informaticien, l’ingénieur, l’inspecteur des finances et l’inspecteur de la sécurité sociale le grade 15, ainsi que pour le commissionnaire divisionnaire le grade P11 et pour le major de l’armée le grade A11, sont allongés d’un onzième échelon ayant l’indice 530. Pour le premier commissaire divisionnaire et pour le lieutenantcolonel de l’armée, les grades P12 respectivement A12 sont allongés par un douzième échelon ayant l’indice 568.
 
-22. Pour le secrétaire du Conseil d’Etat, l’architecte, l’attaché de direction à l’Agence pour le développement de l’emploi, le chargé d’études, l’attaché de la Cour des comptes, le chargé d’études-informaticien, l’ingénieur, l’inspecteur des finances, l’inspecteur de la sécurité sociale, l’expert en radioprotection, le pharmacien-inspecteur, l’ingénieur-nucléaire, le conseiller de direction au Commissariat aux Assurances, le conseiller de direction première classe à l’Institut Luxembourgeois de Régulation, le médecin-conseil des administrations et juridictions de la sécurité sociale, le grade 16 est allongé d’un douzième et d’un treizième échelon ayant respectivement les indices 575 et 594.
+- Pour le secrétaire du Conseil d’Etat, l’architecte, l’attaché de direction à l’Agence pour le développement de l’emploi, le chargé d’études, l’attaché de la Cour des comptes, le chargé d’études-informaticien, l’ingénieur, l’inspecteur des finances, l’inspecteur de la sécurité sociale, l’expert en radioprotection, le pharmacien-inspecteur, l’ingénieur-nucléaire, le conseiller de direction au Commissariat aux Assurances, le conseiller de direction première classe à l’Institut Luxembourgeois de Régulation, le médecin-conseil des administrations et juridictions de la sécurité sociale, le grade 16 est allongé d’un douzième et d’un treizième échelon ayant respectivement les indices 575 et 594.
 
-23. Pour l’inspecteur de la sécurité sociale, l’inspecteur des finances, le conseiller de direction au Commissariat aux Assurances, le premier conseiller de direction à l’Institut Luxembourgeois de Régulation, le grade 17 est allongé d’un dixième et d’un onzième échelon ayant respectivement les indices 610 et 625.
+- Pour l’inspecteur de la sécurité sociale, l’inspecteur des finances, le conseiller de direction au Commissariat aux Assurances, le premier conseiller de direction à l’Institut Luxembourgeois de Régulation, le grade 17 est allongé d’un dixième et d’un onzième échelon ayant respectivement les indices 610 et 625.
 
-24. Pour le capitaine, qui remplit dans son chef les conditions requises pour obtenir une nomination à la fonction de major, le grade A10 est allongé d’un neuvième échelon ayant l’indice 485.
+- Pour le capitaine, qui remplit dans son chef les conditions requises pour obtenir une nomination à la fonction de major, le grade A10 est allongé d’un neuvième échelon ayant l’indice 485.
 
 2) Sans préjudice de l’application des dispositions légales et réglementaires existantes concernant la promotion des fonctionnaires, les fonctionnaires remplissant les conditions visées au paragraphe 1er alinéa 1er de la présente section, peuvent bénéficier des promotions suivantes:
 
-1. L’ingénieur-conducteur peut être promu au grade 14.
+- L’ingénieur-conducteur peut être promu au grade 14.
 
-2. L’attaché de Gouvernement et le secrétaire de légation peuvent être promus au grade 16. Les conditions et modalités d’application de la présente section sont fixées par règlement grand-ducal.
+- L’attaché de Gouvernement et le secrétaire de légation peuvent être promus au grade 16. Les conditions et modalités d’application de la présente section sont fixées par règlement grand-ducal.
 
 VII.
 
-1. Pour les carrières du cantonnier, de l’huissier et du préposé du service d’urgence, le grade 7quater peut être substitué au grade 7.Pour la carrière de l’artisan, le grade 7ter peut être substitué au grade 7bis.Pour les carrières du préposé forestier, de l’expéditionnaire administratif, de l’expéditionnaire informaticien, de l’expéditionnaire technique, de l’agent pénitentiaire , de l’infirmier, de l’infirmier anesthésiste, de l’infirmier psychiatrique, de l’infirmier chargé des services d’ergothérapie ou d’éducation physique, de l’agent sanitaire, de l’assistant technique médical, du masseur et du puériculteur, le grade 8ter peut être substitué au grade 8bis.Pour la carrière du technicien, le grade 12bis peut être substitué au grade 12.Pour les carrières du technicien diplômé, du rédacteur, de l’informaticien diplômé, de l’ingénieur-technicien et du conducteur, le grade 13bis peut être substitué au grade 13.Pour la carrière du rédacteur des douanes, le grade D14bis peut être substitué au grade D14.Pour les carrières de l’agent de probation, de l’assistant social, de l’assistant d’hygiène sociale, de l’infirmier gradué, du laborantin, du masseur kinésithérapeute, de l’orthophoniste, du chimiste, de l’ergothérapeute, de l’orthoptiste de la santé, du pédagogue curatif, du diététicien, du psychorééducateur et de l’assistant technique viticole, le grade 14bis peut être substitué au grade 14.Pour les carrières de l’ingénieur-conducteur, le grade 14ter peut être substitué au grade 14.Pour les carrières du chef de services spéciaux et du conservateur, de l’administrateur de l’Hôpital neuro-psychiatrique de l’Etat, de l’expert en sciences hospitalières, de l’ingénieur de la nature et des forêts et de l’Institut viti-vinicole, du psychologue, du pédagogue et du sociologue, le criminologue, le grade 15bis peut être substitué au grade 15.Pour les carrières de l’architecte, du conseiller de Gouvernement, du secrétaire du Conseil d’Etat, de l’attaché de direction, de l’attaché de Gouvernement, attaché du secrétariat du médiateur, de l’attaché de la Cour des comptes, du secrétaire de légation, du chargé d’études, du chargé d’études-informaticien, de l’ingénieur, de l’expert en radioprotection, du pharmacien, de l’ingénieur nucléaire, du médecin de l’Hôpital neuro-psychiatrique, du médecin vétérinaire, du médecin de la Maison de Soins et du médecin-dentiste, du juge auprès du conseil arbitral des assurances sociales, du directeur du Service Central d’Assistance Sociale, membre effectif de la Commission nationale pour la protection des données le grade 16bis peut être substitué au grade 16.Pour les carrières du conseiller de Gouvernement, de l’inspecteur des finances, de l’inspecteur de la sécurité sociale, du médecin du Laboratoire national de santé, du médecin de la Santé, du médecin des administrations et juridictions de la sécurité sociale, du médecin-chef de division du contrôle médico-sportif, du conseiller de direction au Commissariat aux Assurances, du médecin-inspecteur chef de service de l’Inspection du travail et des mines, du médecin-inspecteur chef de division de l’Inspection du travail et des mines, du premier conseiller de direction à l’Institut Luxembourgeois de Régulation, du premier conseiller de direction auprés d’une institution de la sécurité sociale, du médecin de l’administration pénitentiaire, président de la Commission nationale pour la protection des données, le grade 17bis peut être substitué au grade 17.Pour les carrières classées aux grades M2, M3 et M4, les grades M2bis, M3bis et M4bis peuvent être substitués respectivement aux grades M2, M3 et M4.Pour les carrières classées aux grades E5, E6 et E7, les grades E5bis, E6bis et E7bis peuvent être substitués respectivement aux grades E5, E6 et E7.Pour la carrière du sous-officier de l’Armée et la carrière de l’inspecteur de police, le grade A7bis respectivement P7bis peut être substitué au grade A7 respectivement P7.Pour la carrière de l’officier de l’Armée et du membre du cadre supérieur de la Police, le grade A12bis respectivement P12bis peut être substitué au grade A12 respectivement P12.Pour le lieutenant des douanes, le grade D6bis est substitué au grade D6.Pour le receveur D, le receveur adjoint, le vérificateur adjoint et le lieutenant des douanes qui remplit les conditions de la section I - 1° alinéa 3 du présent article, le grade D7bis est substitué au grade D7.
+- Pour les carrières du cantonnier, de l’huissier et du préposé du service d’urgence, le grade 7quater peut être substitué au grade 7.Pour la carrière de l’artisan, le grade 7ter peut être substitué au grade 7bis.Pour les carrières du préposé forestier, de l’expéditionnaire administratif, de l’expéditionnaire informaticien, de l’expéditionnaire technique, de l’agent pénitentiaire , de l’infirmier, de l’infirmier anesthésiste, de l’infirmier psychiatrique, de l’infirmier chargé des services d’ergothérapie ou d’éducation physique, de l’agent sanitaire, de l’assistant technique médical, du masseur et du puériculteur, le grade 8ter peut être substitué au grade 8bis.Pour la carrière du technicien, le grade 12bis peut être substitué au grade 12.Pour les carrières du technicien diplômé, du rédacteur, de l’informaticien diplômé, de l’ingénieur-technicien et du conducteur, le grade 13bis peut être substitué au grade 13.Pour la carrière du rédacteur des douanes, le grade D14bis peut être substitué au grade D14.Pour les carrières de l’agent de probation, de l’assistant social, de l’assistant d’hygiène sociale, de l’infirmier gradué, du laborantin, du masseur kinésithérapeute, de l’orthophoniste, du chimiste, de l’ergothérapeute, de l’orthoptiste de la santé, du pédagogue curatif, du diététicien, du psychorééducateur et de l’assistant technique viticole, le grade 14bis peut être substitué au grade 14.Pour les carrières de l’ingénieur-conducteur, le grade 14ter peut être substitué au grade 14.Pour les carrières du chef de services spéciaux et du conservateur, de l’administrateur de l’Hôpital neuro-psychiatrique de l’Etat, de l’expert en sciences hospitalières, de l’ingénieur de la nature et des forêts et de l’Institut viti-vinicole, du psychologue, du pédagogue et du sociologue, le criminologue, le grade 15bis peut être substitué au grade 15.Pour les carrières de l’architecte, du conseiller de Gouvernement, du secrétaire du Conseil d’Etat, de l’attaché de direction, de l’attaché de Gouvernement, attaché du secrétariat du médiateur, de l’attaché de la Cour des comptes, du secrétaire de légation, du chargé d’études, du chargé d’études-informaticien, de l’ingénieur, de l’expert en radioprotection, du pharmacien, de l’ingénieur nucléaire, du médecin de l’Hôpital neuro-psychiatrique, du médecin vétérinaire, du médecin de la Maison de Soins et du médecin-dentiste, du juge auprès du conseil arbitral des assurances sociales, du directeur du Service Central d’Assistance Sociale, membre effectif de la Commission nationale pour la protection des données le grade 16bis peut être substitué au grade 16.Pour les carrières du conseiller de Gouvernement, de l’inspecteur des finances, de l’inspecteur de la sécurité sociale, du médecin du Laboratoire national de santé, du médecin de la Santé, du médecin des administrations et juridictions de la sécurité sociale, du médecin-chef de division du contrôle médico-sportif, du conseiller de direction au Commissariat aux Assurances, du médecin-inspecteur chef de service de l’Inspection du travail et des mines, du médecin-inspecteur chef de division de l’Inspection du travail et des mines, du premier conseiller de direction à l’Institut Luxembourgeois de Régulation, du premier conseiller de direction auprés d’une institution de la sécurité sociale, du médecin de l’administration pénitentiaire, président de la Commission nationale pour la protection des données, le grade 17bis peut être substitué au grade 17.Pour les carrières classées aux grades M2, M3 et M4, les grades M2bis, M3bis et M4bis peuvent être substitués respectivement aux grades M2, M3 et M4.Pour les carrières classées aux grades E5, E6 et E7, les grades E5bis, E6bis et E7bis peuvent être substitués respectivement aux grades E5, E6 et E7.Pour la carrière du sous-officier de l’Armée et la carrière de l’inspecteur de police, le grade A7bis respectivement P7bis peut être substitué au grade A7 respectivement P7.Pour la carrière de l’officier de l’Armée et du membre du cadre supérieur de la Police, le grade A12bis respectivement P12bis peut être substitué au grade A12 respectivement P12.Pour le lieutenant des douanes, le grade D6bis est substitué au grade D6.Pour le receveur D, le receveur adjoint, le vérificateur adjoint et le lieutenant des douanes qui remplit les conditions de la section I - 1° alinéa 3 du présent article, le grade D7bis est substitué au grade D7.
 
-2. Les substitutions prévues à la présente section sont obtenues en remplaçant l’indice du grade actuel du tableau indiciaire en cause de l’annexe C par l’indice du nouveau grade correspondant au même numéro d’échelon. Les substitutions se font dans les conditions et suivant les modalités à fixer par règlement grand-ducal sans que pour autant le nombre de bénéficiaires puisse dépasser 10% de l’effectif de chaque carrière. L’alinéa qui précède ne s’applique pas aux fonctionnaires visés aux trois derniers alinéas du paragraphe a) de la présente section. Tout fonctionnaire de la carrière supérieure de l’enseignement qui, à l’âge de 55 ans, n’a pas accédé au grade de substitution bien qu’y étant admissible, pourra y accéder par dépassement du contingent des 10% de l’effectif total. Le fonctionnaire de la carrière supérieure de l’enseignement ayant accédé au grade de substitution par application de cette disposition sera compris dans le cadre des 10% au fur et à mesure des vacances qui s’y produiront. Si par application de la disposition de l’alinéa 2 du présent paragraphe, des titulaires d’emplois à attributions particulières de caractère technique ou des fonctionnaires placés hors cadre sur la base d’une disposition légale rentrent dans le contingent des 10%, celui-ci est augmenté en conséquence, sans que pour autant le nombre de ces agents puisse dépasser 5% de l’effectif total.
+- Les substitutions prévues à la présente section sont obtenues en remplaçant l’indice du grade actuel du tableau indiciaire en cause de l’annexe C par l’indice du nouveau grade correspondant au même numéro d’échelon. Les substitutions se font dans les conditions et suivant les modalités à fixer par règlement grand-ducal sans que pour autant le nombre de bénéficiaires puisse dépasser 10% de l’effectif de chaque carrière. L’alinéa qui précède ne s’applique pas aux fonctionnaires visés aux trois derniers alinéas du paragraphe a) de la présente section. Tout fonctionnaire de la carrière supérieure de l’enseignement qui, à l’âge de 55 ans, n’a pas accédé au grade de substitution bien qu’y étant admissible, pourra y accéder par dépassement du contingent des 10% de l’effectif total. Le fonctionnaire de la carrière supérieure de l’enseignement ayant accédé au grade de substitution par application de cette disposition sera compris dans le cadre des 10% au fur et à mesure des vacances qui s’y produiront. Si par application de la disposition de l’alinéa 2 du présent paragraphe, des titulaires d’emplois à attributions particulières de caractère technique ou des fonctionnaires placés hors cadre sur la base d’une disposition légale rentrent dans le contingent des 10%, celui-ci est augmenté en conséquence, sans que pour autant le nombre de ces agents puisse dépasser 5% de l’effectif total.
 
-3. Pour les fonctionnaires bénéficiant conjointement de l’application des dispositions de l’article 22 section IV ou VI et de celles de la présente section, les indices prévus à l’article 22 section IV ou VI sont augmentés dans les grades de substitution des valeurs suivantes: 10 p.i. pour les artisans, cantonniers, huissiers et préposés du service d’urgence; 15 p.i. pour les préposés forestiers, expéditionnaires, expéditionnaires techniques, expéditionnaires informaticiens, infirmiers, infirmiers anesthésistes, infirmiers psychiatriques, infirmiers chargés des services d’ergothérapie ou d’éducation physique, agents sanitaires, assistants techniques médicaux, masseurs, puériculteurs,agents pénitentiaires et techniciens; 20 p.i. pour les rédacteurs, techniciens diplômés, ingénieurs-techniciens, informaticiens diplômés, conducteurs, agents de probation, assistants sociaux, assistants d’hygiène sociale, infirmiers gradués, laborantins, masseurs kinésithérapeutes, orthophonistes, chimistes, ergothérapeutes, orthoptistes de la santé, pédagogues curatifs, diététiciens, psychorééducateurs et assistants techniques viticoles; 25 p.i. pour les fonctionnaires de la carrière supérieure.
+- Pour les fonctionnaires bénéficiant conjointement de l’application des dispositions de l’article 22 section IV ou VI et de celles de la présente section, les indices prévus à l’article 22 section IV ou VI sont augmentés dans les grades de substitution des valeurs suivantes: 10 p.i. pour les artisans, cantonniers, huissiers et préposés du service d’urgence; 15 p.i. pour les préposés forestiers, expéditionnaires, expéditionnaires techniques, expéditionnaires informaticiens, infirmiers, infirmiers anesthésistes, infirmiers psychiatriques, infirmiers chargés des services d’ergothérapie ou d’éducation physique, agents sanitaires, assistants techniques médicaux, masseurs, puériculteurs,agents pénitentiaires et techniciens; 20 p.i. pour les rédacteurs, techniciens diplômés, ingénieurs-techniciens, informaticiens diplômés, conducteurs, agents de probation, assistants sociaux, assistants d’hygiène sociale, infirmiers gradués, laborantins, masseurs kinésithérapeutes, orthophonistes, chimistes, ergothérapeutes, orthoptistes de la santé, pédagogues curatifs, diététiciens, psychorééducateurs et assistants techniques viticoles; 25 p.i. pour les fonctionnaires de la carrière supérieure.
 
 VIII.
 
-1. Pour , le commissaire à l’immigration et le secrétaire général au Ravitaillement, la valeur des différents échelons du grade 13, y compris ceux figurant à la section IV du présent article, est augmentée de 20 points indiciaires.
+- Pour , le commissaire à l’immigration et le secrétaire général au Ravitaillement, la valeur des différents échelons du grade 13, y compris ceux figurant à la section IV du présent article, est augmentée de 20 points indiciaires.
 
-2. Pour les fonctionnaires énumérés ci-après, la valeur des différents échelons de leurs grades respectifs est augmentée de 25 points indiciaires: directeurs généraux, directeurs généraux adjoints, directeurs, présidents, ministres plénipotentiaires, administrateurs généraux, commissaires, commissaire du Gouvernement adjoint chargé de l’instruction disciplinaire commandants, colonel, chef d’état-major, lieutenant-colonel, chef d’état major adjoint, vice-présidents, directeurs adjoints, sous-directeurs, commandants adjoints, inspecteur général de la sécurité dans la fonction publique, inspecteur de l’enseignement fondamental en charge d’un arrondissement, inspecteur de l’enseignement primaire en charge d’un arrondissement, inspecteur-attaché inspecteur général adjoint de la sécurité dans la fonction publique, inspecteur général de la Police secrétaire du Grand-Duc, Secrétaire général du Conseil d’Etat, Secrétaire général du Conseil économique et social, médecins-directeurs, médecin-chef de division de l’Administration des Services médicaux du Secteur public telles que ces fonctions sont énumérées aux rubriques I, III et IV de l’annexe A de la présente loi. Bénéficient de la même mesure les fonctionnaires classés aux grades M5, M6, M7 et S1.
+- Pour les fonctionnaires énumérés ci-après, la valeur des différents échelons de leurs grades respectifs est augmentée de 25 points indiciaires: directeurs généraux, directeurs généraux adjoints, directeurs, présidents, ministres plénipotentiaires, administrateurs généraux, commissaires, commissaire du Gouvernement adjoint chargé de l’instruction disciplinaire commandants, colonel, chef d’état-major, lieutenant-colonel, chef d’état major adjoint, vice-présidents, directeurs adjoints, sous-directeurs, commandants adjoints, inspecteur général de la sécurité dans la fonction publique, inspecteur de l’enseignement fondamental en charge d’un arrondissement, inspecteur de l’enseignement primaire en charge d’un arrondissement, inspecteur-attaché inspecteur général adjoint de la sécurité dans la fonction publique, inspecteur général de la Police secrétaire du Grand-Duc, Secrétaire général du Conseil d’Etat, Secrétaire général du Conseil économique et social, médecins-directeurs, médecin-chef de division de l’Administration des Services médicaux du Secteur public telles que ces fonctions sont énumérées aux rubriques I, III et IV de l’annexe A de la présente loi. Bénéficient de la même mesure les fonctionnaires classés aux grades M5, M6, M7 et S1.
 
 ## Dispositions additionnelles
 
@@ -1374,11 +1374,11 @@ Le bénéficiaire de l’indemnité de préretraite conserve le droit au complé
 
 Les droits du fonctionnaire à l’indemnité de préretraite cessent de plein droit:
 
-1. à partir de la mise à la retraite du fonctionnaire avec droit à une pension de vieillesse;
+- à partir de la mise à la retraite du fonctionnaire avec droit à une pension de vieillesse;
 
-2. à partir du mois qui suit celui du décès du fonctionnaire;
+- à partir du mois qui suit celui du décès du fonctionnaire;
 
-3. à partir du mois qui suit celui dans lequel le fonctionnaire exerce une activité rémunérée du secteur privé autre que celle déterminée à l’article 14. 2. alinéa 2 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat; dans cette hypothèse, l’intéressé est démis d’office de ses fonctions avec droit à une pension dans les conditions des articles 3 et 6 de la loi sur les pensions.
+- à partir du mois qui suit celui dans lequel le fonctionnaire exerce une activité rémunérée du secteur privé autre que celle déterminée à l’article 14. 2. alinéa 2 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat; dans cette hypothèse, l’intéressé est démis d’office de ses fonctions avec droit à une pension dans les conditions des articles 3 et 6 de la loi sur les pensions.
 
 Le fonctionnaire admis à la préretraite est obligé d’informer immédiatement le Centre de gestion du personnel et de l'organisation de l'Etat de toute modification de sa situation personnelle susceptible d’influer sur ses droits à indemnisation. - S’il est constaté que l’indemnité a été accordée par suite d’une erreur matérielle, elle est relevée, réduite ou supprimée. - Les indemnités indûment touchées sont à restituer par le fonctionnaire.
 
@@ -1489,11 +1489,11 @@ Sont applicables les dispositions de l’article 1er sous A) de la loi modifiée
 
 Le traitement d’attente cesse:
 
-1. si le membre du Gouvernement refuse l’emploi qu’il occupait avant l’entrée au Gouvernement ou un emploi égal ou supérieur en rang, et, dans le cas où il n’occupait pas antérieurement des fonctions publiques, s’il refuse celles de chef d’administration, de conseiller à la Cour supérieure de justice ou des fonctions judiciaires égales ou supérieures à celles de conseiller à cette Cour;
+- si le membre du Gouvernement refuse l’emploi qu’il occupait avant l’entrée au Gouvernement ou un emploi égal ou supérieur en rang, et, dans le cas où il n’occupait pas antérieurement des fonctions publiques, s’il refuse celles de chef d’administration, de conseiller à la Cour supérieure de justice ou des fonctions judiciaires égales ou supérieures à celles de conseiller à cette Cour;
 
-2. si le bénéficiaire entre en jouissance de la pension prévue par l’article 54. 1. e) de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat respectivement par la législation relative au régime de pension spécial des fonctionnaires de l’Etat;
+- si le bénéficiaire entre en jouissance de la pension prévue par l’article 54. 1. e) de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat respectivement par la législation relative au régime de pension spécial des fonctionnaires de l’Etat;
 
-3. après deux années de jouissance.
+- après deux années de jouissance.
 
 <a id="art-29sexties"></a>
 ## Art. 29sexties.
@@ -1563,9 +1563,9 @@ Ces dispositions s’appliquent également aux survivants bénéficiaires d’un
 
 Le fonctionnaire en activité de service peut bénéficier d’un redressement du résultat obtenu par la procédure de la reconstitution de la carrière dans les conditions suivantes:
 
-1. L’indice de son traitement de base doit être, après la reconstitution de sa carrière, inférieur à celui d’un collègue qui lui est égal ou inférieur en rang dans la même administration et dans la même carrière au jour de l’entrée en vigueur de la présente loi.
+- L’indice de son traitement de base doit être, après la reconstitution de sa carrière, inférieur à celui d’un collègue qui lui est égal ou inférieur en rang dans la même administration et dans la même carrière au jour de l’entrée en vigueur de la présente loi.
 
-2. Le dépassement doit être dû au fait que, d’une part, le fonctionnaire qui a dépassé son collègue, a bénéficié, avant sa promotion à la fonction immédiatement supérieure, d’un avancement en traitement à un grade qui ne correspond pas au grade dans lequel la fonction de promotion immédiatement supérieure est classée, tandis que, d’autre part, le fonctionnaire dépassé a obtenu la promotion, sans passer par le grade intermédiaire prévu pour l’avancement en traitement; la partie du dépassement résultant de l’application des dispositions concernant la bonification d’ancienneté de service pour le calcul du traitement initial n’est pas prise en considération. Le bénéfice du redressement, prévu au présent paragraphe, est calculé de la manière suivante: la carrière du fonctionnaire dépassé est reconstituée comme s’il avait obtenu la promotion à la même date que son collègue qui l’a dépassé en traitement. Les dispositions du présent paragraphe ne s’appliquent que si elles sont favorables au fonctionnaire.
+- Le dépassement doit être dû au fait que, d’une part, le fonctionnaire qui a dépassé son collègue, a bénéficié, avant sa promotion à la fonction immédiatement supérieure, d’un avancement en traitement à un grade qui ne correspond pas au grade dans lequel la fonction de promotion immédiatement supérieure est classée, tandis que, d’autre part, le fonctionnaire dépassé a obtenu la promotion, sans passer par le grade intermédiaire prévu pour l’avancement en traitement; la partie du dépassement résultant de l’application des dispositions concernant la bonification d’ancienneté de service pour le calcul du traitement initial n’est pas prise en considération. Le bénéfice du redressement, prévu au présent paragraphe, est calculé de la manière suivante: la carrière du fonctionnaire dépassé est reconstituée comme s’il avait obtenu la promotion à la même date que son collègue qui l’a dépassé en traitement. Les dispositions du présent paragraphe ne s’appliquent que si elles sont favorables au fonctionnaire.
 
 3.
 
@@ -1596,32 +1596,32 @@ Les dispositions du présent article ne se laissent cumuler ni avec l’article 
 <a id="art-35"></a>
 ## Art. 35.
 
-1. Les titulaires actuels des fonctions de chef de bureau des musées de l’Etat et de chef de bureau du contrôle de la comptabilité communale sont classés, à titre personnel, au grade 11 de l’annexe A, rubrique I «administration générale», de la présente loi. Pour le titulaire actuel de la fonction de conservateur des musées de l’Etat, le grade 14 est allongé d’un neuvième échelon ayant l’indice 455. Pour le titulaire actuel de la fonction de directeur des musées de l’Etat, le grade 15 est allongé d’un neuvième échelon ayant l’indice 485.
+- Les titulaires actuels des fonctions de chef de bureau des musées de l’Etat et de chef de bureau du contrôle de la comptabilité communale sont classés, à titre personnel, au grade 11 de l’annexe A, rubrique I «administration générale», de la présente loi. Pour le titulaire actuel de la fonction de conservateur des musées de l’Etat, le grade 14 est allongé d’un neuvième échelon ayant l’indice 455. Pour le titulaire actuel de la fonction de directeur des musées de l’Etat, le grade 15 est allongé d’un neuvième échelon ayant l’indice 485.
 
-2.
+-
 
-1. Les titulaires des fonctions de:
+  - Les titulaires des fonctions de:
 
-1. instituteur d’enseignement général à l’école professionnelle d’Esch-sur-Alzette,
+    - instituteur d’enseignement général à l’école professionnelle d’Esch-sur-Alzette,
 
-2. instituteur d’enseignement général aux centres d’enseignement professionnel,
+    - instituteur d’enseignement général aux centres d’enseignement professionnel,
 
-3. professeur à l’école des arts et métiers,
+    - professeur à l’école des arts et métiers,
 
-4. professeur à l’école professionnelle d’Esch-sur-Alzette,
+    - professeur à l’école professionnelle d’Esch-sur-Alzette,
 
-5. professeur aux centres d’enseignement professionnel, en activité de service ou pensionnés le jour de la promulgation de la présente loi, sont classés au grade E3 avec le titre d’instituteur d’enseignement professionnel.
+    - professeur aux centres d’enseignement professionnel, en activité de service ou pensionnés le jour de la promulgation de la présente loi, sont classés au grade E3 avec le titre d’instituteur d’enseignement professionnel.
 
-2. Les fonctionnaires en activité de service, visés par le paragraphe 1 er ci-dessus, peuvent, dans les trois mois qui suivent la promulgation de la présente loi, obtenir une nomination de professeur d’enseignement professionnel, grade E4, s’ils remplissent les conditions d’études et d’examen prescrites pour la fonction de professeur à l’école des arts et métiers. Pour les professeurs qui remplissaient ces conditions lors de leur nomination antérieure de professeur, la reconstitution de leur carrière en tiendra compte et le payement rétroactif pourra être accordé, le cas échéant, à partir de l’entrée en vigueur de la présente loi. Les professeurs dont le titre a été changé par la présente loi en celui d’instituteur d’enseignement professionnel, pourront porter, à titre personnel, le titre de professeur.
+  - Les fonctionnaires en activité de service, visés par le paragraphe 1 er ci-dessus, peuvent, dans les trois mois qui suivent la promulgation de la présente loi, obtenir une nomination de professeur d’enseignement professionnel, grade E4, s’ils remplissent les conditions d’études et d’examen prescrites pour la fonction de professeur à l’école des arts et métiers. Pour les professeurs qui remplissaient ces conditions lors de leur nomination antérieure de professeur, la reconstitution de leur carrière en tiendra compte et le payement rétroactif pourra être accordé, le cas échéant, à partir de l’entrée en vigueur de la présente loi. Les professeurs dont le titre a été changé par la présente loi en celui d’instituteur d’enseignement professionnel, pourront porter, à titre personnel, le titre de professeur.
 
-3. Les fonctionnaires pensionnés, anciens titulaires des fonctions énumérées au paragraphe 1 er ci-dessus, pourront également être classés au grade E4 s’ils remplissent les conditions d’études prescrites pour la fonction de professeur à l’école des arts et métiers.
+  - Les fonctionnaires pensionnés, anciens titulaires des fonctions énumérées au paragraphe 1 er ci-dessus, pourront également être classés au grade E4 s’ils remplissent les conditions d’études prescrites pour la fonction de professeur à l’école des arts et métiers.
 
-4. Les décisions à intervenir pour l’application des dispositions des paragraphes 2 et 3 ci-dessus, sont prises par le ministre du ressort, sur avis conforme du ministre de la Fonction Publique et de la Réforme administrative.
+  - Les décisions à intervenir pour l’application des dispositions des paragraphes 2 et 3 ci-dessus, sont prises par le ministre du ressort, sur avis conforme du ministre de la Fonction Publique et de la Réforme administrative.
 
 <a id="art-36"></a>
 ## Art. 36.
 
-3. Le règlement grand-ducal prévu à l’article 17, I, 4 pourra prévoir des examens à programme réduit en faveur des candidats ayant passé l’examen de commis aux écritures ou de commis technicien et de ceux qui ont atteint un certain âge au moment de l’entrée en vigueur de la présente loi. De toute façon, les fonctionnaires ayant passé l’examen de commis aux écritures ou de commis technicien et ceux qui en auront été dispensés, sont considérés comme remplissant les conditions prévues à l’article 8, section IV, 3° ci-dessus pour le deuxième avancement en traitement.
+- Le règlement grand-ducal prévu à l’article 17, I, 4 pourra prévoir des examens à programme réduit en faveur des candidats ayant passé l’examen de commis aux écritures ou de commis technicien et de ceux qui ont atteint un certain âge au moment de l’entrée en vigueur de la présente loi. De toute façon, les fonctionnaires ayant passé l’examen de commis aux écritures ou de commis technicien et ceux qui en auront été dispensés, sont considérés comme remplissant les conditions prévues à l’article 8, section IV, 3° ci-dessus pour le deuxième avancement en traitement.
 
 <a id="art-37"></a>
 ## Art. 37.

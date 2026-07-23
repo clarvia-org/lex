@@ -35,53 +35,53 @@ Champ d’application
 
 La présente loi s’applique aux produits ci-après :
 
-1. systèmes informatiques matériels à usage général du grand public et systèmes d’exploitation relatifs à ces systèmes matériels ;
+- systèmes informatiques matériels à usage général du grand public et systèmes d’exploitation relatifs à ces systèmes matériels ;
 
-2. terminaux en libre-service ci-après :
+- terminaux en libre-service ci-après :
 
-1. terminaux de paiement ;
+  - terminaux de paiement ;
 
-2. terminaux en libre-service ci-après, destinés à la fourniture de services relevant de la présente loi :
+  - terminaux en libre-service ci-après, destinés à la fourniture de services relevant de la présente loi :
 
-1. guichets de banque automatiques ;
+    - guichets de banque automatiques ;
 
-2. distributeurs automatiques de titres de transport ;
+    - distributeurs automatiques de titres de transport ;
 
-3. bornes d’enregistrement automatiques ;
+    - bornes d’enregistrement automatiques ;
 
-4. terminaux en libre-service interactifs fournissant des informations, à l’exclusion des terminaux installés en tant que parties intégrantes de véhicules, d’aéronefs, de navires ou de matériel roulant ;
+    - terminaux en libre-service interactifs fournissant des informations, à l’exclusion des terminaux installés en tant que parties intégrantes de véhicules, d’aéronefs, de navires ou de matériel roulant ;
 
-3. équipements terminaux grand public avec des capacités informatiques interactives, utilisés pour les services de communications électroniques ;
+- équipements terminaux grand public avec des capacités informatiques interactives, utilisés pour les services de communications électroniques ;
 
-4. équipements terminaux grand public avec des capacités informatiques interactives, utilisés pour accéder à des services de médias audiovisuels ;
+- équipements terminaux grand public avec des capacités informatiques interactives, utilisés pour accéder à des services de médias audiovisuels ;
 
-5. liseuses numériques.
+- liseuses numériques.
 
 (2)
 
 La présente loi s’applique aux services ci-après :
 
-1. services de communications électroniques, à l’exception des services de transmission utilisés pour la fourniture de services de machine à machine ;
+- services de communications électroniques, à l’exception des services de transmission utilisés pour la fourniture de services de machine à machine ;
 
-2. services fournissant un accès à des services de médias audiovisuels ;
+- services fournissant un accès à des services de médias audiovisuels ;
 
-3. éléments ci-après de services de transport aérien, ferroviaire, par voie de navigation intérieure et par autobus de voyageurs et de passagers , à l’exception des services de transport urbains, suburbains et régionaux, pour lesquels seuls les éléments visés à la lettre e) s’appliquent :
+- éléments ci-après de services de transport aérien, ferroviaire, par voie de navigation intérieure et par autobus de voyageurs et de passagers , à l’exception des services de transport urbains, suburbains et régionaux, pour lesquels seuls les éléments visés à la lettre e) s’appliquent :
 
-1. sites internet ;
+  - sites internet ;
 
-2. services intégrés sur appareils mobiles, y compris les applications mobiles ;
+  - services intégrés sur appareils mobiles, y compris les applications mobiles ;
 
-3. billets électroniques et services de billetterie électronique ;
+  - billets électroniques et services de billetterie électronique ;
 
-4. fourniture d’informations sur les services de transport, y compris d’informations en temps réel sur le voyage. En ce qui concerne les écrans d’information, ne sont concernés que les écrans interactifs situés sur le territoire de l’Union européenne ;
+  - fourniture d’informations sur les services de transport, y compris d’informations en temps réel sur le voyage. En ce qui concerne les écrans d’information, ne sont concernés que les écrans interactifs situés sur le territoire de l’Union européenne ;
 
-5. terminaux en libre-service interactifs situés sur le territoire de l’Union européenne, à l’exception de ceux installés en tant que parties intégrantes de véhicules, d’aéronefs, de navires et de matériel roulant utilisés pour fournir tout élément de ces services de transport de voyageurs et de passagers ;
+  - terminaux en libre-service interactifs situés sur le territoire de l’Union européenne, à l’exception de ceux installés en tant que parties intégrantes de véhicules, d’aéronefs, de navires et de matériel roulant utilisés pour fournir tout élément de ces services de transport de voyageurs et de passagers ;
 
-4. services bancaires aux consommateurs ;
+- services bancaires aux consommateurs ;
 
-5. livres numériques et logiciels spécialisés ;
+- livres numériques et logiciels spécialisés ;
 
-6. commerce électronique.
+- commerce électronique.
 
 (3)
 
@@ -91,19 +91,19 @@ La présente loi s’applique à la réception des communications d’urgence di
 
 La présente loi s’applique aux contenus suivants des sites internet et des applications mobiles :
 
-1. médias temporels préenregistrés publiés ;
+- médias temporels préenregistrés publiés ;
 
-2. formats de fichiers bureautiques publiés.
+- formats de fichiers bureautiques publiés.
 
 (5)
 
 La présente loi ne s’applique pas aux contenus suivants des sites internet et des applications mobiles :
 
-1. cartes et services de cartographie en ligne, si les informations essentielles sont fournies sous une forme numérique accessible pour ce qui concerne les cartes destinées à la navigation ;
+- cartes et services de cartographie en ligne, si les informations essentielles sont fournies sous une forme numérique accessible pour ce qui concerne les cartes destinées à la navigation ;
 
-2. contenus de tiers qui ne sont ni financés ni développés par l’opérateur économique concerné, et qui ne sont pas sous le contrôle de cet opérateur ;
+- contenus de tiers qui ne sont ni financés ni développés par l’opérateur économique concerné, et qui ne sont pas sous le contrôle de cet opérateur ;
 
-3. contenus des sites internet et des applications mobiles qui sont considérés comme des archives, à savoir qu’ils ne présentent que des contenus qui ne sont pas actualisés ou modifiés après la date d’entrée en vigueur de la présente loi.
+- contenus des sites internet et des applications mobiles qui sont considérés comme des archives, à savoir qu’ils ne présentent que des contenus qui ne sont pas actualisés ou modifiés après la date d’entrée en vigueur de la présente loi.
 
 (6)
 
@@ -120,125 +120,125 @@ Définitions
 
 Aux fins de la présente loi, on entend par :
 
-1. « billet électronique » : tout système dans lequel un droit de voyager, sous la forme de titres de transport simples ou multiples, d’abonnements ou de crédit de voyage, est stocké sous forme électronique sur une carte de transport physique ou un autre dispositif, au lieu d’être imprimé sur papier ;
+- « billet électronique » : tout système dans lequel un droit de voyager, sous la forme de titres de transport simples ou multiples, d’abonnements ou de crédit de voyage, est stocké sous forme électronique sur une carte de transport physique ou un autre dispositif, au lieu d’être imprimé sur papier ;
 
-2. « capacité informatique interactive » : une fonctionnalité facilitant l’interaction entre l’utilisateur et l’appareil qui permet le traitement et la transmission de données, de la voix ou de la vidéo ou toute combinaison de celles-ci ;
+- « capacité informatique interactive » : une fonctionnalité facilitant l’interaction entre l’utilisateur et l’appareil qui permet le traitement et la transmission de données, de la voix ou de la vidéo ou toute combinaison de celles-ci ;
 
-3. « centre de réception des appels d’urgence » ou « PSAP » : un lieu physique où est réceptionnée initialement une communication d’urgence sous la responsabilité d’une autorité publique ou d’un organisme privé reconnu ;
+- « centre de réception des appels d’urgence » ou « PSAP » : un lieu physique où est réceptionnée initialement une communication d’urgence sous la responsabilité d’une autorité publique ou d’un organisme privé reconnu ;
 
-4. « charge disproportionnée » : une charge organisationnelle ou financière supplémentaire excessive imposée à un opérateur économique sur la base des critères pertinents énoncés à l’annexe VI de la directive (UE) 2019/882 du Parlement européen et du Conseil du 17 avril 2019 relative aux exigences en matière d’accessibilité applicables aux produits et services, dénommée ci-après « directive (UE) 2019/882 », telle que modifiée par les actes de la Commission européenne pris en conformité avec l’article 26 de cette directive, compte tenu néanmoins des bénéfices probables susceptibles d’en résulter pour les personnes handicapées ;
+- « charge disproportionnée » : une charge organisationnelle ou financière supplémentaire excessive imposée à un opérateur économique sur la base des critères pertinents énoncés à l’annexe VI de la directive (UE) 2019/882 du Parlement européen et du Conseil du 17 avril 2019 relative aux exigences en matière d’accessibilité applicables aux produits et services, dénommée ci-après « directive (UE) 2019/882 », telle que modifiée par les actes de la Commission européenne pris en conformité avec l’article 26 de cette directive, compte tenu néanmoins des bénéfices probables susceptibles d’en résulter pour les personnes handicapées ;
 
-5. « communication d’urgence » : une communication effectuée au moyen de services de communications interpersonnelles, entre un utilisateur final et le PSAP, dont le but est de demander et de recevoir des secours d’urgence de la part de services d’urgence ;
+- « communication d’urgence » : une communication effectuée au moyen de services de communications interpersonnelles, entre un utilisateur final et le PSAP, dont le but est de demander et de recevoir des secours d’urgence de la part de services d’urgence ;
 
-6. « consommateur » : toute personne physique qui agit à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale ;
+- « consommateur » : toute personne physique qui agit à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale ;
 
-7. « distributeur » : toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un produit à disposition sur le marché ;
+- « distributeur » : toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un produit à disposition sur le marché ;
 
-8. « équipement terminal grand public avec des capacités informatiques interactives utilisé pour accéder à des services de médias audiovisuels » : tout équipement dont la finalité principale est de fournir un accès à des services de médias audiovisuels ;
+- « équipement terminal grand public avec des capacités informatiques interactives utilisé pour accéder à des services de médias audiovisuels » : tout équipement dont la finalité principale est de fournir un accès à des services de médias audiovisuels ;
 
-9. « fabricant » : toute personne physique ou morale qui fabrique, ou fait concevoir ou fabriquer un produit, et le commercialise sous son propre nom ou sa propre marque ;
+- « fabricant » : toute personne physique ou morale qui fabrique, ou fait concevoir ou fabriquer un produit, et le commercialise sous son propre nom ou sa propre marque ;
 
-10. « importateur » : toute personne physique ou morale établie dans l’Union européenne qui met un produit provenant d’un pays tiers sur le marché de l’Union européenne ;
+- « importateur » : toute personne physique ou morale établie dans l’Union européenne qui met un produit provenant d’un pays tiers sur le marché de l’Union européenne ;
 
-11. « liseuse numérique » : un équipement spécialisé, comprenant tant le matériel que le logiciel, utilisé pour accéder à des fichiers de livres numériques, naviguer à l’intérieur de ceux-ci, les lire et les utiliser ;
+- « liseuse numérique » : un équipement spécialisé, comprenant tant le matériel que le logiciel, utilisé pour accéder à des fichiers de livres numériques, naviguer à l’intérieur de ceux-ci, les lire et les utiliser ;
 
-12. « livre numérique et logiciel spécialisé » : un service consistant à fournir des fichiers numériques transmettant une version électronique d’un livre, auquel l’utilisateur peut avoir accès, dans lequel il peut naviguer et qu’il peut lire et utiliser, ainsi que le logiciel, y compris les services intégrés sur appareils mobiles, y compris les applications mobiles, spécialisé pour l’accès à ces fichiers numériques, la navigation à l’intérieur de ceux-ci, leur lecture et leur utilisation, à l’exclusion des logiciels visés dans la définition figurant au point 11° ;
+- « livre numérique et logiciel spécialisé » : un service consistant à fournir des fichiers numériques transmettant une version électronique d’un livre, auquel l’utilisateur peut avoir accès, dans lequel il peut naviguer et qu’il peut lire et utiliser, ainsi que le logiciel, y compris les services intégrés sur appareils mobiles, y compris les applications mobiles, spécialisé pour l’accès à ces fichiers numériques, la navigation à l’intérieur de ceux-ci, leur lecture et leur utilisation, à l’exclusion des logiciels visés dans la définition figurant au point 11° ;
 
-13. « mandataire » : toute personne physique ou morale établie dans l’Union européenne ayant reçu un mandat écrit du fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées ;
+- « mandataire » : toute personne physique ou morale établie dans l’Union européenne ayant reçu un mandat écrit du fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées ;
 
-14. « microentreprise » : une entreprise qui emploie moins de dix personnes et dont le chiffre d’affaires annuel n’excède pas 2 000 000 euros ou dont le total du bilan annuel n’excède pas 2 000 000 euros ;
+- « microentreprise » : une entreprise qui emploie moins de dix personnes et dont le chiffre d’affaires annuel n’excède pas 2 000 000 euros ou dont le total du bilan annuel n’excède pas 2 000 000 euros ;
 
-15. « mise à disposition sur le marché » : toute fourniture d’un produit destiné à être distribué, consommé ou utilisé sur le marché de l’Union européenne dans le cadre d’une activité commerciale, à titre onéreux ou gratuit ;
+- « mise à disposition sur le marché » : toute fourniture d’un produit destiné à être distribué, consommé ou utilisé sur le marché de l’Union européenne dans le cadre d’une activité commerciale, à titre onéreux ou gratuit ;
 
-16. « mise sur le marché » : la première mise à disposition d’un produit sur le marché de l’Union européenne ;
+- « mise sur le marché » : la première mise à disposition d’un produit sur le marché de l’Union européenne ;
 
-17. « norme harmonisée » : une norme européenne adoptée sur la base d’une demande formulée par la Commission européenne pour l’application de la législation d’harmonisation de l’Union européenne ;
+- « norme harmonisée » : une norme européenne adoptée sur la base d’une demande formulée par la Commission européenne pour l’application de la législation d’harmonisation de l’Union européenne ;
 
-18. « opérateur économique » : le fabricant, le mandataire, l’importateur, le distributeur ou le prestataire de services ;
+- « opérateur économique » : le fabricant, le mandataire, l’importateur, le distributeur ou le prestataire de services ;
 
-19. « personnes handicapées » : les personnes qui présentent une incapacité physique, mentale, intellectuelle ou sensorielle durable dont l’interaction avec diverses barrières peut faire obstacle à leur pleine et effective participation à la société sur la base de l’égalité avec les autres ;
+- « personnes handicapées » : les personnes qui présentent une incapacité physique, mentale, intellectuelle ou sensorielle durable dont l’interaction avec diverses barrières peut faire obstacle à leur pleine et effective participation à la société sur la base de l’égalité avec les autres ;
 
-20. « personnes présentant des limitations fonctionnelles » : les personnes qui présentent des incapacités physiques, mentales, intellectuelles ou sensorielles, des incapacités liées à l’âge ou toute autre limitation des performances du corps humain, permanente ou temporaire, dont l’interaction avec divers obstacles peut limiter l’accès à des produits et services et conduire à une situation nécessitant une adaptation desdits produits et services à leurs besoins particuliers, telles que les personnes âgées, les femmes enceintes et les personnes voyageant avec des bagages ;
+- « personnes présentant des limitations fonctionnelles » : les personnes qui présentent des incapacités physiques, mentales, intellectuelles ou sensorielles, des incapacités liées à l’âge ou toute autre limitation des performances du corps humain, permanente ou temporaire, dont l’interaction avec divers obstacles peut limiter l’accès à des produits et services et conduire à une situation nécessitant une adaptation desdits produits et services à leurs besoins particuliers, telles que les personnes âgées, les femmes enceintes et les personnes voyageant avec des bagages ;
 
-21. « petites et moyennes entreprises » ou « PME » : les entreprises qui emploient moins de 250 personnes et dont le chiffre d’affaires annuel n’excède pas 50 000 000 euros ou dont le total du bilan annuel n’excède pas 43 000 000 euros, à l’exclusion des microentreprises ;
+- « petites et moyennes entreprises » ou « PME » : les entreprises qui emploient moins de 250 personnes et dont le chiffre d’affaires annuel n’excède pas 50 000 000 euros ou dont le total du bilan annuel n’excède pas 43 000 000 euros, à l’exclusion des microentreprises ;
 
-22. « prestataire de services » : toute personne physique ou morale qui fournit un service sur le marché de l’Union européenne ou propose de fournir un service aux consommateurs dans l’Union européenne ;
+- « prestataire de services » : toute personne physique ou morale qui fournit un service sur le marché de l’Union européenne ou propose de fournir un service aux consommateurs dans l’Union européenne ;
 
-23. « produit » : une substance, une préparation ou une marchandise produite par un procédé de fabrication, à l’exclusion des denrées alimentaires, des aliments pour animaux, des plantes et animaux vivants, des produits d’origine humaine et des produits de plantes et d’animaux se rapportant directement à leur reproduction future ;
+- « produit » : une substance, une préparation ou une marchandise produite par un procédé de fabrication, à l’exclusion des denrées alimentaires, des aliments pour animaux, des plantes et animaux vivants, des produits d’origine humaine et des produits de plantes et d’animaux se rapportant directement à leur reproduction future ;
 
-24. « PSAP le plus approprié » : un PSAP établi par les autorités compétentes pour prendre en charge les communications d’urgence provenant d’une certaine zone ou les communications d’urgence d’un certain type ;
+- « PSAP le plus approprié » : un PSAP établi par les autorités compétentes pour prendre en charge les communications d’urgence provenant d’une certaine zone ou les communications d’urgence d’un certain type ;
 
-25. « retrait » : toute mesure visant à empêcher la mise à disposition sur le marché d’un produit présent dans la chaîne d’approvisionnement ;
+- « retrait » : toute mesure visant à empêcher la mise à disposition sur le marché d’un produit présent dans la chaîne d’approvisionnement ;
 
-26. « service » : toute activité économique non salariée, exercée normalement contre rémunération, visée à l’article 57 du Traité sur le fonctionnement de l’Union européenne ;
+- « service » : toute activité économique non salariée, exercée normalement contre rémunération, visée à l’article 57 du Traité sur le fonctionnement de l’Union européenne ;
 
-27. « service de communications électroniques » : le service fourni normalement contre rémunération via des réseaux de communications électroniques qui, à l’exception des services consistant à fournir des contenus transmis à l’aide de réseaux et de services de communications électroniques ou à exercer une responsabilité éditoriale sur ces contenus, comprend les types de services suivants :
+- « service de communications électroniques » : le service fourni normalement contre rémunération via des réseaux de communications électroniques qui, à l’exception des services consistant à fournir des contenus transmis à l’aide de réseaux et de services de communications électroniques ou à exercer une responsabilité éditoriale sur ces contenus, comprend les types de services suivants :
 
-1. un service d’accès à l’internet défini à l’article 2, alinéa 2, point 2, du règlement (UE) 2015/2120 du Parlement européen et du Conseil du 25 novembre 2015 établissant des mesures relatives à l’accès à un internet ouvert et modifiant la directive 2002/22/CE concernant le service universel et les droits des utilisateurs au regard des réseaux et services de communications électroniques et le règlement (UE) n° 531/2012 concernant l’itinérance sur les réseaux publics de communications mobiles à l’intérieur de l’Union ;
+  - un service d’accès à l’internet défini à l’article 2, alinéa 2, point 2, du règlement (UE) 2015/2120 du Parlement européen et du Conseil du 25 novembre 2015 établissant des mesures relatives à l’accès à un internet ouvert et modifiant la directive 2002/22/CE concernant le service universel et les droits des utilisateurs au regard des réseaux et services de communications électroniques et le règlement (UE) n° 531/2012 concernant l’itinérance sur les réseaux publics de communications mobiles à l’intérieur de l’Union ;
 
-2. un service de communications interpersonnelles ;
+  - un service de communications interpersonnelles ;
 
-3. des services consistant entièrement ou principalement en la transmission de signaux tels que les services de transmission utilisés pour la fourniture de services de machine à machine et pour la radiodiffusion ;
+  - des services consistant entièrement ou principalement en la transmission de signaux tels que les services de transmission utilisés pour la fourniture de services de machine à machine et pour la radiodiffusion ;
 
-28. « service de conversation totale » : un service multimédia de conversation en temps réel assurant la transmission symétrique et bidirectionnelle en temps réel de vidéos animées, de texte en temps réel et de voix entre des utilisateurs situés dans deux lieux différents ou plus ;
+- « service de conversation totale » : un service multimédia de conversation en temps réel assurant la transmission symétrique et bidirectionnelle en temps réel de vidéos animées, de texte en temps réel et de voix entre des utilisateurs situés dans deux lieux différents ou plus ;
 
-29. « services bancaires aux consommateurs » : la fourniture aux consommateurs des services bancaires et financiers ci-après :
+- « services bancaires aux consommateurs » : la fourniture aux consommateurs des services bancaires et financiers ci-après :
 
-1. les contrats de crédit : les contrats de crédit aux consommateurs visés au livre 2, titre 2, chapitre 4 du Code de la consommation et les contrats de crédit immobilier visés au livre 2, titre 2, chapitre 6 dudit code ;
+  - les contrats de crédit : les contrats de crédit aux consommateurs visés au livre 2, titre 2, chapitre 4 du Code de la consommation et les contrats de crédit immobilier visés au livre 2, titre 2, chapitre 6 dudit code ;
 
-2. la monnaie électronique définie à l’article 1 er , point 29), de la loi modifiée du 10 novembre 2009 relative aux services de paiement ;
+  - la monnaie électronique définie à l’article 1 er , point 29), de la loi modifiée du 10 novembre 2009 relative aux services de paiement ;
 
-3. les services de paiement : toute activité exercée à titre professionnel énumérée dans l’annexe de la loi modifiée du 10 novembre 2009 relative aux services de paiement ;
+  - les services de paiement : toute activité exercée à titre professionnel énumérée dans l’annexe de la loi modifiée du 10 novembre 2009 relative aux services de paiement ;
 
-4. les services définis aux points 1, 2, 4 et 5 de la section A et aux points 1, 2, 4 et 5 de la section C de l’annexe II de la loi modifiée du 5 avril 1993 relative au secteur financier ;
+  - les services définis aux points 1, 2, 4 et 5 de la section A et aux points 1, 2, 4 et 5 de la section C de l’annexe II de la loi modifiée du 5 avril 1993 relative au secteur financier ;
 
-5. les services liés aux comptes de paiement définis à l’article 1 er , point 26, de la loi du 13 juin 2017 relative aux comptes de paiement ;
+  - les services liés aux comptes de paiement définis à l’article 1 er , point 26, de la loi du 13 juin 2017 relative aux comptes de paiement ;
 
-30. « services de billetterie électronique » : tout système dans lequel des titres de transport de voyageurs et de passagers sont achetés en ligne, au moyen d’un appareil doté de capacités informatiques interactives, et fournis à l’acheteur sous forme électronique, pour leur permettre d’être imprimés sur papier ou affichés pendant le voyage sur un appareil mobile doté de capacités informatiques interactives ;
+- « services de billetterie électronique » : tout système dans lequel des titres de transport de voyageurs et de passagers sont achetés en ligne, au moyen d’un appareil doté de capacités informatiques interactives, et fournis à l’acheteur sous forme électronique, pour leur permettre d’être imprimés sur papier ou affichés pendant le voyage sur un appareil mobile doté de capacités informatiques interactives ;
 
-31. « services de commerce électronique » : des services fournis à distance, via des sites internet, des services intégrés sur des appareils mobiles, par voie électronique et à la demande individuelle d’un consommateur, en vue de conclure un contrat de consommation ;
+- « services de commerce électronique » : des services fournis à distance, via des sites internet, des services intégrés sur des appareils mobiles, par voie électronique et à la demande individuelle d’un consommateur, en vue de conclure un contrat de consommation ;
 
-32. « services de médias audiovisuels » :
+- « services de médias audiovisuels » :
 
-1. un service, pour lequel l’objet principal du service proprement dit ou d’une partie dissociable de ce service est la fourniture de programmes au grand public, sous la responsabilité éditoriale d’un fournisseur de services de médias, dans le but d’informer, de divertir ou d’éduquer, par le biais de réseaux de communications ; un tel service de médias audiovisuels est soit un service de télévision, soit un service de médias audiovisuels à la demande ;
+  - un service, pour lequel l’objet principal du service proprement dit ou d’une partie dissociable de ce service est la fourniture de programmes au grand public, sous la responsabilité éditoriale d’un fournisseur de services de médias, dans le but d’informer, de divertir ou d’éduquer, par le biais de réseaux de communications ; un tel service de médias audiovisuels est soit un service de télévision, soit un service de médias audiovisuels à la demande ;
 
-2. une communication commerciale audiovisuelle ;
+  - une communication commerciale audiovisuelle ;
 
-33. « services de transport aérien de passagers » : un service de transport de passagers par voie aérienne, assuré par un transporteur aérien sur un vol régulier ou non régulier et proposé au grand public contre rétribution, qu’il s’agisse d’un transport seul ou d’un transport faisant partie d’un voyage à forfait, au départ d’un aéroport, en transit par un aéroport ou à l’arrivée dans un aéroport, lorsque celui-ci est situé sur le territoire d’un État membre, y compris les vols au départ d’un aéroport situé dans un pays tiers à destination d’un aéroport situé sur le territoire d’un État membre lorsque les services sont assurés par des transporteurs aériens de l’Union européenne ;
+- « services de transport aérien de passagers » : un service de transport de passagers par voie aérienne, assuré par un transporteur aérien sur un vol régulier ou non régulier et proposé au grand public contre rétribution, qu’il s’agisse d’un transport seul ou d’un transport faisant partie d’un voyage à forfait, au départ d’un aéroport, en transit par un aéroport ou à l’arrivée dans un aéroport, lorsque celui-ci est situé sur le territoire d’un État membre, y compris les vols au départ d’un aéroport situé dans un pays tiers à destination d’un aéroport situé sur le territoire d’un État membre lorsque les services sont assurés par des transporteurs aériens de l’Union européenne ;
 
-34. « services de transport de passagers par autobus » : les services relevant de l’article 2, paragraphes 1 er et 2, du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004 , ci-après « règlement (UE) n° 181/2011 » ;
+- « services de transport de passagers par autobus » : les services relevant de l’article 2, paragraphes 1 er et 2, du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004 , ci-après « règlement (UE) n° 181/2011 » ;
 
-35. « services de transport de passagers par voie de navigation intérieure » : les services de transport de passagers relevant de l’article 2, paragraphe 1 er , du règlement (UE) n° 1177/2010 du Parlement européen et du Conseil du 24 novembre 2010 concernant les droits des passagers voyageant par mer ou par voie de navigation intérieure et modifiant le règlement (CE) n° 2006/2004 , ci-après « règlement (UE) n° 1177/2010 », à l’exception des services visés à l’article 2, paragraphe 2, dudit règlement ;
+- « services de transport de passagers par voie de navigation intérieure » : les services de transport de passagers relevant de l’article 2, paragraphe 1 er , du règlement (UE) n° 1177/2010 du Parlement européen et du Conseil du 24 novembre 2010 concernant les droits des passagers voyageant par mer ou par voie de navigation intérieure et modifiant le règlement (CE) n° 2006/2004 , ci-après « règlement (UE) n° 1177/2010 », à l’exception des services visés à l’article 2, paragraphe 2, dudit règlement ;
 
-36. « services de transport ferroviaire de voyageurs » : tous les services de transport ferroviaire de voyageurs visés à l’article 2, paragraphe 1 er , du règlement (CE) n° 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires, ci-après « règlement (CE) n° 1371/2007 », à l’exception des services visés à l’article 2, paragraphe 2, dudit règlement ;
+- « services de transport ferroviaire de voyageurs » : tous les services de transport ferroviaire de voyageurs visés à l’article 2, paragraphe 1 er , du règlement (CE) n° 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires, ci-après « règlement (CE) n° 1371/2007 », à l’exception des services visés à l’article 2, paragraphe 2, dudit règlement ;
 
-37. « services de transport régionaux » : les services de transport par chemin de fer, autobus et autocar, métro, tramway et trolleybus dont l’objet principal est de répondre aux besoins de transports d’une région, y compris d’une région transfrontalière ;
+- « services de transport régionaux » : les services de transport par chemin de fer, autobus et autocar, métro, tramway et trolleybus dont l’objet principal est de répondre aux besoins de transports d’une région, y compris d’une région transfrontalière ;
 
-38. « services de transport urbains et suburbains » : les services de transport par chemin de fer, autobus et autocar, métro, tramway et trolleybus dont l’objet principal est de répondre aux besoins de transports d’un centre urbain ou d’une agglomération, y compris d’une agglomération transfrontalière, ainsi qu’aux besoins de transports entre ce centre ou cette agglomération et ses banlieues ;
+- « services de transport urbains et suburbains » : les services de transport par chemin de fer, autobus et autocar, métro, tramway et trolleybus dont l’objet principal est de répondre aux besoins de transports d’un centre urbain ou d’une agglomération, y compris d’une agglomération transfrontalière, ainsi qu’aux besoins de transports entre ce centre ou cette agglomération et ses banlieues ;
 
-39. « service d’urgence » : un service, reconnu comme tel par l’État membre, qui fournit une assistance immédiate et rapide en cas de risque direct pour la vie ou l’intégrité physique de personnes, pour la santé ou la sûreté publique ou individuelle, pour la propriété privée ou publique ou pour l’environnement, conformément au droit national ;
+- « service d’urgence » : un service, reconnu comme tel par l’État membre, qui fournit une assistance immédiate et rapide en cas de risque direct pour la vie ou l’intégrité physique de personnes, pour la santé ou la sûreté publique ou individuelle, pour la propriété privée ou publique ou pour l’environnement, conformément au droit national ;
 
-40. « services fournissant un accès à des services de médias audiovisuels » : les services transmis au moyen de réseaux de communications électroniques qui sont utilisés pour identifier et sélectionner les services de médias audiovisuels, recevoir des informations sur ces services et consulter ces services et tous les éléments fournis, tels que le sous-titrage pour les personnes sourdes ou malentendantes, l’audiodescription, le sous-titrage audio et l’interprétation en langue des signes, découlant de la mise en œuvre des mesures destinées à rendre ces services accessibles prévues à l’article 27 quater de la loi modifiée du 27 juillet 1991 sur les médias électroniques, et cela inclut les guides électroniques de programme, ci-après « GEP » ;
+- « services fournissant un accès à des services de médias audiovisuels » : les services transmis au moyen de réseaux de communications électroniques qui sont utilisés pour identifier et sélectionner les services de médias audiovisuels, recevoir des informations sur ces services et consulter ces services et tous les éléments fournis, tels que le sous-titrage pour les personnes sourdes ou malentendantes, l’audiodescription, le sous-titrage audio et l’interprétation en langue des signes, découlant de la mise en œuvre des mesures destinées à rendre ces services accessibles prévues à l’article 27 quater de la loi modifiée du 27 juillet 1991 sur les médias électroniques, et cela inclut les guides électroniques de programme, ci-après « GEP » ;
 
-41. « spécification technique » : un document qui prescrit les exigences techniques à respecter par un produit, un processus, un service ou un système et qui définit un ou plusieurs des éléments suivants :
+- « spécification technique » : un document qui prescrit les exigences techniques à respecter par un produit, un processus, un service ou un système et qui définit un ou plusieurs des éléments suivants :
 
-1. les caractéristiques requises d’un produit, dont les niveaux de qualité, de performance, d’interopérabilité, de protection de l’environnement, de santé, de sécurité ou les dimensions, y compris les prescriptions applicables au produit en ce qui concerne la dénomination de vente, la terminologie, les symboles, les essais et les méthodes d’essai, l’emballage, le marquage ou l’étiquetage et les procédures d’évaluation de la conformité ;
+  - les caractéristiques requises d’un produit, dont les niveaux de qualité, de performance, d’interopérabilité, de protection de l’environnement, de santé, de sécurité ou les dimensions, y compris les prescriptions applicables au produit en ce qui concerne la dénomination de vente, la terminologie, les symboles, les essais et les méthodes d’essai, l’emballage, le marquage ou l’étiquetage et les procédures d’évaluation de la conformité ;
 
-2. les méthodes et les procédés de production relatifs aux produits agricoles tels que définis à l’article 38, paragraphe 1 er , du Traité sur le fonctionnement de l’Union européenne , aux produits destinés à l’alimentation humaine et animale, ainsi qu’aux médicaments, de même que les méthodes et procédés de production relatifs aux autres produits, dès lors qu’ils ont une incidence sur les caractéristiques de ces derniers ;
+  - les méthodes et les procédés de production relatifs aux produits agricoles tels que définis à l’article 38, paragraphe 1 er , du Traité sur le fonctionnement de l’Union européenne , aux produits destinés à l’alimentation humaine et animale, ainsi qu’aux médicaments, de même que les méthodes et procédés de production relatifs aux autres produits, dès lors qu’ils ont une incidence sur les caractéristiques de ces derniers ;
 
-3. les caractéristiques requises d’un service, dont les niveaux de qualité, de performance, d’interopérabilité, de protection de l’environnement, de santé ou de sécurité, y compris les exigences applicables aux prestataires en ce qui concerne les informations à fournir au destinataire, conformément à l’article 22, paragraphes 1 er à 3, de la directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur ;
+  - les caractéristiques requises d’un service, dont les niveaux de qualité, de performance, d’interopérabilité, de protection de l’environnement, de santé ou de sécurité, y compris les exigences applicables aux prestataires en ce qui concerne les informations à fournir au destinataire, conformément à l’article 22, paragraphes 1 er à 3, de la directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur ;
 
-4. les méthodes et les critères d’évaluation des performances des produits de construction, tels que définis à l’article 2, point 1), du règlement (UE) n° 305/2011 du Parlement européen et du Conseil du 9 mars 2011 établissant des conditions harmonisées de commercialisation pour les produits de construction et abrogeant la directive 89/106/CEE du Conseil, en ce qui concerne leurs caractéristiques essentielles ;
+  - les méthodes et les critères d’évaluation des performances des produits de construction, tels que définis à l’article 2, point 1), du règlement (UE) n° 305/2011 du Parlement européen et du Conseil du 9 mars 2011 établissant des conditions harmonisées de commercialisation pour les produits de construction et abrogeant la directive 89/106/CEE du Conseil, en ce qui concerne leurs caractéristiques essentielles ;
 
-42. « système d’exploitation » : un logiciel qui gère l’interface du matériel périphérique, planifie des tâches, alloue de l’espace de stockage et présente une interface par défaut à l’utilisateur lorsque aucun programme d’application ne s’exécute, y compris une interface utilisateur graphique, que ce logiciel fasse partie intégrante d’un matériel informatique à usage général du grand public ou soit un logiciel autonome destiné à être exécuté sur un matériel informatique à usage général du grand public, mais à l’exclusion des chargeurs de systèmes d’exploitation, des systèmes d’entrée-sortie de base ou d’autres micrologiciels nécessaires au moment du démarrage ou lors de l’installation du système d’exploitation ;
+- « système d’exploitation » : un logiciel qui gère l’interface du matériel périphérique, planifie des tâches, alloue de l’espace de stockage et présente une interface par défaut à l’utilisateur lorsque aucun programme d’application ne s’exécute, y compris une interface utilisateur graphique, que ce logiciel fasse partie intégrante d’un matériel informatique à usage général du grand public ou soit un logiciel autonome destiné à être exécuté sur un matériel informatique à usage général du grand public, mais à l’exclusion des chargeurs de systèmes d’exploitation, des systèmes d’entrée-sortie de base ou d’autres micrologiciels nécessaires au moment du démarrage ou lors de l’installation du système d’exploitation ;
 
-43. « système informatique matériel à usage général du grand public » : la combinaison de matériels formant un ordinateur complet, qui se caractérise par sa nature polyvalente et sa capacité à réaliser, avec les logiciels appropriés, la plupart des opérations informatiques courantes demandées par les consommateurs et qui est destinée à être utilisée par les consommateurs, y compris les ordinateurs individuels, en particulier les ordinateurs de bureau, les ordinateurs portables, les smartphones et les tablettes ;
+- « système informatique matériel à usage général du grand public » : la combinaison de matériels formant un ordinateur complet, qui se caractérise par sa nature polyvalente et sa capacité à réaliser, avec les logiciels appropriés, la plupart des opérations informatiques courantes demandées par les consommateurs et qui est destinée à être utilisée par les consommateurs, y compris les ordinateurs individuels, en particulier les ordinateurs de bureau, les ordinateurs portables, les smartphones et les tablettes ;
 
-44. « technologies d’assistance » : tout objet, pièce d’équipement, service ou système produit, y compris un logiciel, qui sert à accroître, à préserver, à remplacer ou à améliorer les capacités fonctionnelles des personnes handicapées, ou à atténuer et compenser les déficiences, les limitations d’activité ou les restrictions de participation ;
+- « technologies d’assistance » : tout objet, pièce d’équipement, service ou système produit, y compris un logiciel, qui sert à accroître, à préserver, à remplacer ou à améliorer les capacités fonctionnelles des personnes handicapées, ou à atténuer et compenser les déficiences, les limitations d’activité ou les restrictions de participation ;
 
-45. « terminal de paiement » : un appareil dont la finalité principale est de permettre de faire des paiements au moyen d’instruments de paiement, définis à l’article 1 er , point 26), de la loi modifiée du 10 novembre 2009 relative aux services de paiement, dans un point de vente physique et non dans un environnement virtuel ;
+- « terminal de paiement » : un appareil dont la finalité principale est de permettre de faire des paiements au moyen d’instruments de paiement, définis à l’article 1 er , point 26), de la loi modifiée du 10 novembre 2009 relative aux services de paiement, dans un point de vente physique et non dans un environnement virtuel ;
 
-46. « texte en temps réel » : une forme de conversation textuelle point-à-point ou multipoint où le texte qui est saisi est transmis caractère par caractère, de sorte que la communication est perçue par l’utilisateur comme continue.
+- « texte en temps réel » : une forme de conversation textuelle point-à-point ou multipoint où le texte qui est saisi est transmis caractère par caractère, de sorte que la communication est perçue par l’utilisateur comme continue.
 
 #### Chapitre 2 Office de la surveillance de l’accessibilité des produits et services
 
@@ -276,19 +276,19 @@ Missions de l’Office de la surveillance de l’accessibilité des produits et 
 
 Les missions de l’OSAPS consistent à :
 
-1. effectuer la surveillance des produits et la conformité des services sur le marché du territoire luxembourgeois, énoncés à l’article 1 er , paragraphes 1 er et 2, y inclus la vérification des conditions du marquage CE et de la déclaration UE de conformité prévues par la présente loi, ce par rapport aux exigences applicables en matière d’accessibilité définies par la présente loi et en collaboration avec les autorités ayant des responsabilités spécifiques relatives aux produits et services visés à l’article 1 er , paragraphes 1 er et 2, et les autorités nationales de la surveillance du marché compétentes ;
+- effectuer la surveillance des produits et la conformité des services sur le marché du territoire luxembourgeois, énoncés à l’article 1 er , paragraphes 1 er et 2, y inclus la vérification des conditions du marquage CE et de la déclaration UE de conformité prévues par la présente loi, ce par rapport aux exigences applicables en matière d’accessibilité définies par la présente loi et en collaboration avec les autorités ayant des responsabilités spécifiques relatives aux produits et services visés à l’article 1 er , paragraphes 1 er et 2, et les autorités nationales de la surveillance du marché compétentes ;
 
-2. mettre en place des mécanismes de contrôle appropriés afin de vérifier que les dérogations à l’application des exigences en matière d’accessibilité, prévues par la présente loi, sont justifiées ;
+- mettre en place des mécanismes de contrôle appropriés afin de vérifier que les dérogations à l’application des exigences en matière d’accessibilité, prévues par la présente loi, sont justifiées ;
 
-3. assurer les missions prévues aux chapitres 9, 10, 12 et 13 ;
+- assurer les missions prévues aux chapitres 9, 10, 12 et 13 ;
 
-4. fournir des lignes directrices et des outils aux microentreprises tel que prévu à l’article 6, paragraphe 5 ;
+- fournir des lignes directrices et des outils aux microentreprises tel que prévu à l’article 6, paragraphe 5 ;
 
-5. informer et sensibiliser le public au sujet de l’existence de l’OSAPS, de ses responsabilités, de ses décisions, de l’identité des autorités nationales de la surveillance du marché et des moyens de prendre contact avec elles, et mettre ces informations à disposition sur demande dans des formats appropriés ;
+- informer et sensibiliser le public au sujet de l’existence de l’OSAPS, de ses responsabilités, de ses décisions, de l’identité des autorités nationales de la surveillance du marché et des moyens de prendre contact avec elles, et mettre ces informations à disposition sur demande dans des formats appropriés ;
 
-6. recueillir, en collaboration avec les entités nationales compétentes, les données nécessaires à des fins d’études statistiques en lien avec les besoins des personnes handicapées et des personnes présentant des limitations fonctionnelles en matière d’accessibilité des produits et services visés par la loi en vue de développer les connaissances sur le marché et de pouvoir répondre aux besoins du public cible et de favoriser la mise en œuvre de l’article 31 de la Convention des Nations Unies relative aux droits des personnes handicapées ;
+- recueillir, en collaboration avec les entités nationales compétentes, les données nécessaires à des fins d’études statistiques en lien avec les besoins des personnes handicapées et des personnes présentant des limitations fonctionnelles en matière d’accessibilité des produits et services visés par la loi en vue de développer les connaissances sur le marché et de pouvoir répondre aux besoins du public cible et de favoriser la mise en œuvre de l’article 31 de la Convention des Nations Unies relative aux droits des personnes handicapées ;
 
-7. transmettre les informations nécessaires au département de la surveillance du marché de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services, dénommé ci-après « ILNAS », en vue de l’établissement et de la mise à jour du programme général de surveillance du marché, qui regroupe les programmes sectoriels de surveillance du marché, prévu à l’article 8, paragraphe 1 er , de la loi modifiée du 4 juillet 2014 portant réorganisation de l’ILNAS.
+- transmettre les informations nécessaires au département de la surveillance du marché de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services, dénommé ci-après « ILNAS », en vue de l’établissement et de la mise à jour du programme général de surveillance du marché, qui regroupe les programmes sectoriels de surveillance du marché, prévu à l’article 8, paragraphe 1 er , de la loi modifiée du 4 juillet 2014 portant réorganisation de l’ILNAS.
 
 (2)
 
@@ -416,11 +416,11 @@ Les obligations prévues à l’article 9, paragraphe 1er, et l’établissement
 
 Le mandataire exécute les tâches indiquées dans le mandat reçu du fabricant. Le mandat autorise au minimum le mandataire :
 
-1. à tenir la déclaration UE de conformité et la documentation technique à la disposition de l’OSAPS, de l’Administration des douanes et accises et de la Police grand-ducale pendant cinq ans ;
+- à tenir la déclaration UE de conformité et la documentation technique à la disposition de l’OSAPS, de l’Administration des douanes et accises et de la Police grand-ducale pendant cinq ans ;
 
-2. sur demande motivée de l’OSAPS, de l’Administration des douanes et accises et de la Police grand-ducale à leur communiquer toutes les informations et tous les documents nécessaires pour démontrer la conformité du produit ;
+- sur demande motivée de l’OSAPS, de l’Administration des douanes et accises et de la Police grand-ducale à leur communiquer toutes les informations et tous les documents nécessaires pour démontrer la conformité du produit ;
 
-3. à coopérer avec l’OSAPS, à la demande de celui-ci, à toute mesure prise en vue d’éliminer la non-conformité avec les exigences applicables en matière d’accessibilité des produits relevant de son mandat.
+- à coopérer avec l’OSAPS, à la demande de celui-ci, à toute mesure prise en vue d’éliminer la non-conformité avec les exigences applicables en matière d’accessibilité des produits relevant de son mandat.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -508,9 +508,9 @@ Identification des opérateurs économiques dans le secteur des produits
 
 Sur demande de l’OSAPS, les opérateurs économiques visés aux articles 9 à 12 identifient :
 
-1. tout autre opérateur économique qui leur a fourni un produit ;
+- tout autre opérateur économique qui leur a fourni un produit ;
 
-2. tout autre opérateur économique auquel ils ont fourni un produit.
+- tout autre opérateur économique auquel ils ont fourni un produit.
 
 (2)
 
@@ -554,9 +554,9 @@ Modification fondamentale et charge disproportionnée
 
 Les exigences en matière d’accessibilité visées à l’article 6 s’appliquent uniquement dans la mesure où la conformité :
 
-1. n’exige pas de modification significative d’un produit ou d’un service qui entraîne une modification fondamentale de la nature de celui-ci ;
+- n’exige pas de modification significative d’un produit ou d’un service qui entraîne une modification fondamentale de la nature de celui-ci ;
 
-2. n’entraîne pas l’imposition d’une charge disproportionnée aux opérateurs économiques concernés.
+- n’entraîne pas l’imposition d’une charge disproportionnée aux opérateurs économiques concernés.
 
 (2)
 
@@ -574,11 +574,11 @@ Par dérogation au paragraphe 3, les microentreprises exerçant leur activité d
 
 Les prestataires de services qui invoquent le paragraphe 1er, point 2°, renouvellent, pour chaque catégorie ou type de service, l’évaluation du caractère disproportionné ou non de la charge :
 
-1. lorsque le service proposé est modifié ; ou
+- lorsque le service proposé est modifié ; ou
 
-2. à la demande de l’OSAPS ; et
+- à la demande de l’OSAPS ; et
 
-3. en tout état de cause, au moins tous les cinq ans.
+- en tout état de cause, au moins tous les cinq ans.
 
 (6)
 
@@ -663,11 +663,11 @@ S’appliquent aux produits l’article 2, paragraphe 3, l’article 10, paragra
 
 Lorsqu’il effectue la surveillance d’un produit sur le marché et lorsque l’opérateur économique a invoqué l’article 16, l’OSAPS :
 
-1. vérifie si l’évaluation visée à l’article 16 a été effectuée par l’opérateur économique ;
+- vérifie si l’évaluation visée à l’article 16 a été effectuée par l’opérateur économique ;
 
-2. examine cette évaluation et ses résultats, y compris l’utilisation correcte des critères énoncés à l’annexe VI de la directive (UE) 2019/882 , telle que modifiée par les actes de la Commission européenne pris en conformité avec l’article 26 de cette directive ;
+- examine cette évaluation et ses résultats, y compris l’utilisation correcte des critères énoncés à l’annexe VI de la directive (UE) 2019/882 , telle que modifiée par les actes de la Commission européenne pris en conformité avec l’article 26 de cette directive ;
 
-3. contrôle la conformité avec les exigences applicables en matière d’accessibilité.
+- contrôle la conformité avec les exigences applicables en matière d’accessibilité.
 
 (3)
 
@@ -706,9 +706,9 @@ L’OSAPS en informe sans retard la Commission européenne et les autres États 
 
 Les informations visées au paragraphe 4, alinéa 2, contiennent tous les détails disponibles, y compris en ce qui concerne les données nécessaires pour identifier le produit non conforme, son origine, la nature de la non-conformité alléguée et les exigences en matière d’accessibilité auxquelles le produit n’est pas conforme, ainsi que la nature et la durée des mesures nationales prises et les arguments avancés par l’opérateur économique en cause. En particulier, l’OSAPS indique si la non-conformité est imputable à l’un des éléments suivants :
 
-1. non-conformité du produit avec les exigences applicables en matière d’accessibilité ;
+- non-conformité du produit avec les exigences applicables en matière d’accessibilité ;
 
-2. lacunes dans les normes harmonisées ou dans les spécifications techniques visées à l’article 17, qui confèrent une présomption de conformité.
+- lacunes dans les normes harmonisées ou dans les spécifications techniques visées à l’article 17, qui confèrent une présomption de conformité.
 
 (6)
 
@@ -734,19 +734,19 @@ Non-conformité formelle
 
 Sans préjudice de l’article 22, lorsque l’OSAPS, l’Administration des douanes et accises ou la Police grand-ducale font l’une des constatations ci-après, l’OSAPS invite l’opérateur économique en cause à mettre un terme à la non-conformité en question :
 
-1. le marquage CE a été apposé en violation de l’article 30 du règlement (CE) n° 765/2008 ou de l’article 20 de la présente loi ;
+- le marquage CE a été apposé en violation de l’article 30 du règlement (CE) n° 765/2008 ou de l’article 20 de la présente loi ;
 
-2. le marquage CE n’a pas été apposé ;
+- le marquage CE n’a pas été apposé ;
 
-3. la déclaration UE de conformité n’a pas été établie ;
+- la déclaration UE de conformité n’a pas été établie ;
 
-4. la déclaration UE de conformité n’a pas été établie correctement ;
+- la déclaration UE de conformité n’a pas été établie correctement ;
 
-5. la documentation technique n’est pas disponible ou n’est pas complète ;
+- la documentation technique n’est pas disponible ou n’est pas complète ;
 
-6. les informations visées à l’article 9, paragraphe 6, ou à l’article 11, paragraphe 4, sont absentes, fausses ou incomplètes ;
+- les informations visées à l’article 9, paragraphe 6, ou à l’article 11, paragraphe 4, sont absentes, fausses ou incomplètes ;
 
-7. une autre obligation administrative prévue à l’article 9 ou à l’article 11 n’est pas respectée.
+- une autre obligation administrative prévue à l’article 9 ou à l’article 11 n’est pas respectée.
 
 (2)
 
@@ -763,11 +763,11 @@ Conformité des services
 
 L’OSAPS, en collaboration avec les autorités ayant des responsabilités spécifiques relatives aux services visés à l’article 1er, paragraphe 2, établit, applique et met à jour régulièrement des procédures appropriées, conformément aux articles 28 à 30, en vue :
 
-1. de vérifier la conformité des services avec les exigences de la présente loi, y compris l’évaluation visée à l’article 16, à laquelle l’article 21, paragraphe 2, s’applique mutatis mutandis ;
+- de vérifier la conformité des services avec les exigences de la présente loi, y compris l’évaluation visée à l’article 16, à laquelle l’article 21, paragraphe 2, s’applique mutatis mutandis ;
 
-2. d’assurer le suivi des plaintes ou des rapports sur des aspects liés à la non-conformité de services avec les exigences en matière d’accessibilité énoncées dans la présente loi ;
+- d’assurer le suivi des plaintes ou des rapports sur des aspects liés à la non-conformité de services avec les exigences en matière d’accessibilité énoncées dans la présente loi ;
 
-3. de vérifier que l’opérateur économique a pris les mesures correctives nécessaires.
+- de vérifier que l’opérateur économique a pris les mesures correctives nécessaires.
 
 (2)
 
@@ -812,13 +812,13 @@ L’OSAPS, l’Administration des douanes et accises et la Police grand-ducale s
 
 Suite à ces contrôles, l’OSAPS :
 
-1. interdit ou restreint la mise à disposition sur le marché d’un produit qui n’est pas conforme aux conditions prévues dans la présente loi, et prend les mesures d’accompagnement requises pour assurer le respect de cette interdiction ;
+- interdit ou restreint la mise à disposition sur le marché d’un produit qui n’est pas conforme aux conditions prévues dans la présente loi, et prend les mesures d’accompagnement requises pour assurer le respect de cette interdiction ;
 
-2. interdit temporairement, pendant la période nécessaire aux différents contrôles, de fournir, de proposer de fournir un produit ou d’exposer un produit lorsqu’il existe des indices précis et convergents concernant leur non-conformité aux dispositions légales visées à l’alinéa 1 er ;
+- interdit temporairement, pendant la période nécessaire aux différents contrôles, de fournir, de proposer de fournir un produit ou d’exposer un produit lorsqu’il existe des indices précis et convergents concernant leur non-conformité aux dispositions légales visées à l’alinéa 1 er ;
 
-3. ordonne, coordonne ou organise avec les opérateurs économiques le rappel, le retrait ou la modification d’un produit non conforme du marché luxembourgeois ou auprès des consommateurs et sa destruction dans les conditions adéquates ;
+- ordonne, coordonne ou organise avec les opérateurs économiques le rappel, le retrait ou la modification d’un produit non conforme du marché luxembourgeois ou auprès des consommateurs et sa destruction dans les conditions adéquates ;
 
-4. interdit de mettre en vente un produit ou de fournir un service qui induit ou risque d’induire en erreur sur ses caractéristiques réelles.
+- interdit de mettre en vente un produit ou de fournir un service qui induit ou risque d’induire en erreur sur ses caractéristiques réelles.
 
 (2)
 
@@ -826,25 +826,25 @@ L’OSAPS et la Police grand-ducale sont chargés des contrôles de conformité 
 
 Suite à ces contrôles, l’OSAPS :
 
-1. interdit ou restreint la fourniture d’un service qui n’est pas conforme aux conditions prévues dans la présente loi, et prend les mesures d’accompagnement requises pour assurer le respect de cette interdiction ;
+- interdit ou restreint la fourniture d’un service qui n’est pas conforme aux conditions prévues dans la présente loi, et prend les mesures d’accompagnement requises pour assurer le respect de cette interdiction ;
 
-2. interdit temporairement, pendant la période nécessaire aux différents contrôles, de fournir ou de proposer de fournir un service lorsqu’il existe des indices précis et convergents concernant leur non-conformité aux dispositions légales visées à l’alinéa 1 er ;
+- interdit temporairement, pendant la période nécessaire aux différents contrôles, de fournir ou de proposer de fournir un service lorsqu’il existe des indices précis et convergents concernant leur non-conformité aux dispositions légales visées à l’alinéa 1 er ;
 
-3. ordonne, coordonne ou organise avec les opérateurs économiques le rappel, le retrait ou la modification du produit utilisé dans la fourniture d’un service non conforme du marché luxembourgeois ou auprès des consommateurs et sa destruction dans les conditions adéquates.
+- ordonne, coordonne ou organise avec les opérateurs économiques le rappel, le retrait ou la modification du produit utilisé dans la fourniture d’un service non conforme du marché luxembourgeois ou auprès des consommateurs et sa destruction dans les conditions adéquates.
 
 (3)
 
 Les décisions intervenues en exécution des paragraphes 1er et 2 sont adressées selon le cas :
 
-1. au fabricant ou à son mandataire ;
+- au fabricant ou à son mandataire ;
 
-2. à l’importateur ;
+- à l’importateur ;
 
-3. au prestataire de services ;
+- au prestataire de services ;
 
-4. dans les limites de leurs activités respectives, aux distributeurs, y compris au responsable de la première distribution sur le marché luxembourgeois ;
+- dans les limites de leurs activités respectives, aux distributeurs, y compris au responsable de la première distribution sur le marché luxembourgeois ;
 
-5. à toute autre personne ou autorité, lorsque ceci s’avère nécessaire, en vue de la collaboration aux actions engagées pour éviter des risques découlant d’un produit.
+- à toute autre personne ou autorité, lorsque ceci s’avère nécessaire, en vue de la collaboration aux actions engagées pour éviter des risques découlant d’un produit.
 
 (4)
 
@@ -884,13 +884,13 @@ Toutefois, et sans préjudice de l’article 33 du Code de procédure pénale, s
 
 Dans les mêmes conditions, les membres de la Police grand-ducale visés à l’article 10 du Code de procédure pénale et les personnes visées à l’article 29 sont autorisés à :
 
-1. procéder ou à faire procéder à des essais d’appareils ou de dispositifs des produits ou des produits utilisés dans la fourniture des services pouvant comporter une non-conformité aux dispositions de la présente loi ;
+- procéder ou à faire procéder à des essais d’appareils ou de dispositifs des produits ou des produits utilisés dans la fourniture des services pouvant comporter une non-conformité aux dispositions de la présente loi ;
 
-2. demander communication de tous livres, registres et fichiers relatifs à une installation, activité, produit ou service au sens de la présente loi, en vue d’en vérifier la conformité, et à les copier ou à établir des extraits ;
+- demander communication de tous livres, registres et fichiers relatifs à une installation, activité, produit ou service au sens de la présente loi, en vue d’en vérifier la conformité, et à les copier ou à établir des extraits ;
 
-3. prélever ou à faire prélever, aux fins d’examen ou d’analyse, des échantillons de produits, matières ou substances fabriqués, utilisés, manipulés, stockés, déposés ou extraits, comportant ou étant susceptibles de comporter une non-conformité aux dispositions de la présente loi ;
+- prélever ou à faire prélever, aux fins d’examen ou d’analyse, des échantillons de produits, matières ou substances fabriqués, utilisés, manipulés, stockés, déposés ou extraits, comportant ou étant susceptibles de comporter une non-conformité aux dispositions de la présente loi ;
 
-4. saisir et, au besoin, à mettre sous séquestre les appareils, dispositifs, produits, matières ou substances qui sont de nature à comporter une non-conformité aux dispositions de la présente loi.
+- saisir et, au besoin, à mettre sous séquestre les appareils, dispositifs, produits, matières ou substances qui sont de nature à comporter une non-conformité aux dispositions de la présente loi.
 
 Les échantillons prélevés conformément au point 3° font l’objet d’une remise ou de l’apposition d’un procès-verbal constatant les prélèvements effectués. Un échantillon, cacheté et scellé, est remis à l’opérateur économique concerné, à moins que celui-ci ne soit pas présent ou y renonce expressément ou que des raisons techniques ne s’y opposent.
 
@@ -898,11 +898,11 @@ Les échantillons prélevés conformément au point 3° font l’objet d’une r
 
 Les membres de la Police grand-ducale visés à l’article 10 du Code de procédure pénale et les personnes visées à l’article 29 ne sont pas tenus de signaler leur présence lors de vérifications effectuées dans les parties librement accessibles au public d’un établissement de vente lors :
 
-1. de la recherche de produits ou services non conformes ;
+- de la recherche de produits ou services non conformes ;
 
-2. de la vérification des marquages sur les produits ou leurs emballages, sans pour autant les désemballer ;
+- de la vérification des marquages sur les produits ou leurs emballages, sans pour autant les désemballer ;
 
-3. du contrôle à l’œil nu de critères de conformité facilement perceptibles sans altération, destruction ou démontage du produit.
+- du contrôle à l’œil nu de critères de conformité facilement perceptibles sans altération, destruction ou démontage du produit.
 
 Lorsque le résultat des contrôles donne lieu à au moins une remarque, ils dressent un procès-verbal relatif aux vérifications et contrôles opérés. Une copie de ce procès-verbal est remise à l’opérateur économique concerné par les installations, locaux, terrains, documents, appareils, dispositifs, produits, services, matières ou substances contrôlés ou à son représentant ou en cas d’absence de celui-ci au responsable du local, de l’installation ou du site ou à celui qui le remplace.
 
@@ -936,9 +936,9 @@ Sanctions administratives
 
 L’OSAPS peut infliger une amende de 250 euros à 15 000 euros à tout opérateur économique qui :
 
-1. refuse de fournir les documents et informations ou autres renseignements demandés dans le cadre de la surveillance du marché et dans le cadre de la conformité des services ;
+- refuse de fournir les documents et informations ou autres renseignements demandés dans le cadre de la surveillance du marché et dans le cadre de la conformité des services ;
 
-2. fait obstacle à l’exercice de la surveillance du marché et de la conformité des services.
+- fait obstacle à l’exercice de la surveillance du marché et de la conformité des services.
 
 (2)
 

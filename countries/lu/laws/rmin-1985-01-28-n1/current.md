@@ -100,13 +100,13 @@ Dans ce certificat le vétérinaire doit attester qu´il a vacciné le chien ou 
 
 Le certificat doit mentionner en outre:
 
-1. la date de la vaccination, le type de vaccin utilisé et sa date de péremption, le nom de l´organisme producteur et le numéro du lot de fabrication;
+- la date de la vaccination, le type de vaccin utilisé et sa date de péremption, le nom de l´organisme producteur et le numéro du lot de fabrication;
 
-2. la date limite de validité du certificat à indiquer par l´inspecteur mentionné ci-dessus;
+- la date limite de validité du certificat à indiquer par l´inspecteur mentionné ci-dessus;
 
-3. le signalement de l´animal en cause, comprenant son sexe, son âge, sa race, sa couleur, le genre et les taches de son pelage;
+- le signalement de l´animal en cause, comprenant son sexe, son âge, sa race, sa couleur, le genre et les taches de son pelage;
 
-4. le nom du propriétaire de l´animal en cause.
+- le nom du propriétaire de l´animal en cause.
 
 Le certificat doit comporter au moins les indications du modèle ci-annexé.
 

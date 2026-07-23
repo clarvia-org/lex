@@ -44,17 +44,17 @@ Partie I : Matières certifiées par une attestation de présence
 
 |  | Matière | Contenu | Durée |
 | --- | --- | --- | --- |
-| a) | Organisation et culture de l’Administration d’évaluation et de contrôle de l’assurance dépendance | Organisation, fonctionnement et processus de l’administration | 58heures |
-| b) | Accompagnement de la rédaction du travail de réflexion en étroite relation avec le champ d’activité professionnel du fonctionnaire stagiaire |  | 10heures |
+| a) | Organisation et culture de l’Administration d’évaluation et de contrôle de l’assurance dépendance | Organisation, fonctionnement et processus de l’administration | 58 heures |
+| b) | Accompagnement de la rédaction du travail de réflexion en étroite relation avec le champ d’activité professionnel du fonctionnaire stagiaire |  | 10 heures |
 
 Partie II : Matières sanctionnées par un examen
 
 |  | Matière | Contenu | Durée | Points |
 | --- | --- | --- | --- | --- |
-| c) | Les missions et les attributions de l’Administration d’évaluation et de contrôle de l’assurance dépendance | Stratégies et règles pratiques, documentation et procédures pour l’exécution des missions | 12heures | 60points |
-| d) | Connaissances législatives | Législation et règlementation applicable dans le cadre de l’exécution des missions | 30heures | 60points |
-| e) | Travail de réflexion en étroite relation avec le champ d’activité professionnel du fonctionnaire stagiaire | Entre 7000 et 11000 mots, avec un maximum de 50 pages, illustrations et annexes comprises |  | 60points |
-| f) | Présentation orale du travail de réflexion |  |  | 60points |
+| c) | Les missions et les attributions de l’Administration d’évaluation et de contrôle de l’assurance dépendance | Stratégies et règles pratiques, documentation et procédures pour l’exécution des missions | 12 heures | 60 points |
+| d) | Connaissances législatives | Législation et règlementation applicable dans le cadre de l’exécution des missions | 30 heures | 60 points |
+| e) | Travail de réflexion en étroite relation avec le champ d’activité professionnel du fonctionnaire stagiaire | Entre 7000 et 11000 mots, avec un maximum de 50 pages, illustrations et annexes comprises |  | 60 points |
+| f) | Présentation orale du travail de réflexion |  |  | 60 points |
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -67,14 +67,14 @@ Partie I : Matières certifiées par une attestation de présence
 
 |  | Matière | Contenu | Durée |
 | --- | --- | --- | --- |
-| a) | Organisation et culture de l’Administration d’évaluation et de contrôle de l’assurance dépendance | Organisation, fonctionnement et processus de l’administration | 58heures |
+| a) | Organisation et culture de l’Administration d’évaluation et de contrôle de l’assurance dépendance | Organisation, fonctionnement et processus de l’administration | 58 heures |
 
 Partie II : Matières sanctionnées par un examen
 
 |  | Matière | Contenu | Durée | Points |
 | --- | --- | --- | --- | --- |
-| b) | Les missions et les attributions de l’Administration d’évaluation et de contrôle de l’assurance dépendance | Stratégies et règles pratiques, documentation et procédures pour l’exécution des missions | 12heures | 60points |
-| c) | Connaissances législatives | Législation et règlementation applicable dans le cadre de l’exécution des missions | 30heures | 60points |
+| b) | Les missions et les attributions de l’Administration d’évaluation et de contrôle de l’assurance dépendance | Stratégies et règles pratiques, documentation et procédures pour l’exécution des missions | 12 heures | 60 points |
+| c) | Connaissances législatives | Législation et règlementation applicable dans le cadre de l’exécution des missions | 30 heures | 60 points |
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -87,14 +87,14 @@ Partie I : Matières certifiées par une attestation de présence
 
 |  | Matière | Contenu | Durée |
 | --- | --- | --- | --- |
-| a) | Organisation et culture de l’Administration d’évaluation et de contrôle de l’assurance dépendance | Organisation, fonctionnement et processus de l’administration | 58heures |
+| a) | Organisation et culture de l’Administration d’évaluation et de contrôle de l’assurance dépendance | Organisation, fonctionnement et processus de l’administration | 58 heures |
 
 Partie II : Matières sanctionnées par un examen
 
 |  | Matière | Contenu | Durée | Points |
 | --- | --- | --- | --- | --- |
-| b) | Les missions et les attributions de l’Administration d’évaluation et de contrôle de l’assurance dépendance | Stratégies et règles pratiques, documentation et procédures pour l’exécution des missions | 12heures | 60points |
-| c) | Connaissances législatives | Législation et règlementation applicable dans le cadre de l’exécution des missions | 30heures | 60points |
+| b) | Les missions et les attributions de l’Administration d’évaluation et de contrôle de l’assurance dépendance | Stratégies et règles pratiques, documentation et procédures pour l’exécution des missions | 12 heures | 60 points |
+| c) | Connaissances législatives | Législation et règlementation applicable dans le cadre de l’exécution des missions | 30 heures | 60 points |
 
 <a id="art-4"></a>
 ## Art. 4.

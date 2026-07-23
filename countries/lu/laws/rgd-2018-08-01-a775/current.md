@@ -36,35 +36,35 @@ Par évaluation régulière, on entend une évaluation effectuée pour chaque ha
 
 L’état de conservation au niveau national est évalué et classé dans une des catégories suivantes :
 
-1. Favorable (FV) ;
+- Favorable (FV) ;
 
-2. Non favorable inadéquat (U1) ;
+- Non favorable inadéquat (U1) ;
 
-3. Non favorable mauvais (U2) ;
+- Non favorable mauvais (U2) ;
 
-4. Inconnu (XX) ;
+- Inconnu (XX) ;
 
 L’état de conservation inconnu est à considérer par défaut comme non favorable.
 
 L’évaluation de l’état de conservation de chaque habitat d’intérêt communautaire repose sur l’évaluation des paramètres suivants :
 
-1. l’aire de répartition nationale de l’habitat d’intérêt communautaire ;
+- l’aire de répartition nationale de l’habitat d’intérêt communautaire ;
 
-2. la surface totale occupée par l’habitat d’intérêt communautaire ;
+- la surface totale occupée par l’habitat d’intérêt communautaire ;
 
-3. les structures et fonctionnement spécifiques, incluant les espèces caractéristiques ;
+- les structures et fonctionnement spécifiques, incluant les espèces caractéristiques ;
 
-4. les perspectives futures.
+- les perspectives futures.
 
 L’évaluation de l’état de conservation de chaque espèce d’intérêt communautaire repose sur l’évaluation des paramètres suivants :
 
-1. l’aire de répartition nationale de l’espèce d’intérêt communautaire ;
+- l’aire de répartition nationale de l’espèce d’intérêt communautaire ;
 
-2. l’effectif total des populations de l’espèce d’intérêt communautaire ;
+- l’effectif total des populations de l’espèce d’intérêt communautaire ;
 
-3. l’habitat de l’espèce ;
+- l’habitat de l’espèce ;
 
-4. les perspectives futures.
+- les perspectives futures.
 
 L’évaluation de l’état de conservation repose sur une procédure et des critères méthodologiques harmonisés au sein de l’Union européenne et communiqués par la Commission européenne.
 

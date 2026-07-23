@@ -34,15 +34,15 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La commission consultative d’évaluation de l’intérêt supérieur des mineurs non accompagnés, ci-après la « commission », se compose de cinq membres effectifs, à savoir :
 
-1. un représentant du ministre ayant l’Immigration et l’Asile dans ses attributions ;
+- un représentant du ministre ayant l’Immigration et l’Asile dans ses attributions ;
 
-2. un représentant de l’Office national de l’accueil ;
+- un représentant de l’Office national de l’accueil ;
 
-3. un représentant de l’Office national de l’enfance ;
+- un représentant de l’Office national de l’enfance ;
 
-4. un magistrat du Parquet de Luxembourg ou du Parquet de Diekirch.
+- un magistrat du Parquet de Luxembourg ou du Parquet de Diekirch.
 
-5. 5° un représentant d’un acteur issu de la société civile.
+- 5° un représentant d’un acteur issu de la société civile.
 
 (1bis)
 

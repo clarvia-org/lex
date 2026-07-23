@@ -38,15 +38,15 @@ La présente loi vise la production, la transformation, la distribution et l'uti
 
 Les principaux objectifs de la présente loi sont les suivants:
 
-1. la garantie d'un approvisionnement énergétique suffisant, sûr, diversifié et économiquement satisfaisant;
+- la garantie d'un approvisionnement énergétique suffisant, sûr, diversifié et économiquement satisfaisant;
 
-2. la promotion des économies d'énergie et l'utilisation rationnelle de l'énergie dans tous les secteurs;
+- la promotion des économies d'énergie et l'utilisation rationnelle de l'énergie dans tous les secteurs;
 
-3. la réduction de la dépendance des énergies classiques par la promotion de l'utilisation des énergies nouvelles et renouvelables, l'utilisation des installations de cogénération et la production autonome d'énergie primaire et secondaire;
+- la réduction de la dépendance des énergies classiques par la promotion de l'utilisation des énergies nouvelles et renouvelables, l'utilisation des installations de cogénération et la production autonome d'énergie primaire et secondaire;
 
-4. la contribution à l'amélioration de l'environnement, notamment par la réduction des émissions de CO2;
+- la contribution à l'amélioration de l'environnement, notamment par la réduction des émissions de CO2;
 
-5. la coordination des actions entreprises dans ce contexte au niveau communautaire.
+- la coordination des actions entreprises dans ce contexte au niveau communautaire.
 
 ### Titre III Définitions
 
@@ -91,13 +91,13 @@ Quiconque utilise des installations énergétiques à des fins de chauffage, de 
 
 Des règlements grand-ducaux à prendre sur avis obligatoire du Conseil d'État et avec l'assentiment de la Conférence des Présidents de la Chambre des Députés peuvent notamment
 
-1. imposer des normes d'isolation pour les constructions nouvelles;
+- imposer des normes d'isolation pour les constructions nouvelles;
 
-2. fixer des normes et spécifications techniques se rapportant à la sécurité, à l'efficacité et à la qualité des installations énergétiques;
+- fixer des normes et spécifications techniques se rapportant à la sécurité, à l'efficacité et à la qualité des installations énergétiques;
 
-3. introduire la réalisation obligatoire de bilans énergétiques et d'études du potentiel d'économies d'énergie pour les bâtiments des secteurs résidentiel, tertiaire et public.
+- introduire la réalisation obligatoire de bilans énergétiques et d'études du potentiel d'économies d'énergie pour les bâtiments des secteurs résidentiel, tertiaire et public.
 
-4. introduire des mécanismes d'aides pour promouvoir les économies d'énergie et l'utilisation rationnelle de l'énergie.
+- introduire des mécanismes d'aides pour promouvoir les économies d'énergie et l'utilisation rationnelle de l'énergie.
 
 3.
 
@@ -147,13 +147,13 @@ En vue d'assurer un contrôle ponctuel du respect de l'obligation visée au para
 
 Les audits énergétiques doivent:
 
-1. se fonder sur des données opérationnelles actualisées, mesurées et traçables concernant la consommation d'énergie et, pour l'électricité, les profils de charge;
+- se fonder sur des données opérationnelles actualisées, mesurées et traçables concernant la consommation d'énergie et, pour l'électricité, les profils de charge;
 
-2. comporter un examen détaillé du profil de consommation énergétique des bâtiments ou groupes de bâtiments, ainsi que des opérations ou installations industrielles, notamment le transport;
+- comporter un examen détaillé du profil de consommation énergétique des bâtiments ou groupes de bâtiments, ainsi que des opérations ou installations industrielles, notamment le transport;
 
-3. s'appuyer, dans la mesure du possible, sur une analyse du coût du cycle de vie plutôt que sur de simples délais d'amortissement pour tenir compte des économies à long terme, des valeurs résiduelles des investissements à long terme et des taux d'actualisation;
+- s'appuyer, dans la mesure du possible, sur une analyse du coût du cycle de vie plutôt que sur de simples délais d'amortissement pour tenir compte des économies à long terme, des valeurs résiduelles des investissements à long terme et des taux d'actualisation;
 
-4. être proportionnés et suffisamment représentatifs pour permettre de dresser une image fiable de la performance énergé- tique globale et de recenser de manière sûre les possibilités d'amélioration les plus significatives.
+- être proportionnés et suffisamment représentatifs pour permettre de dresser une image fiable de la performance énergé- tique globale et de recenser de manière sûre les possibilités d'amélioration les plus significatives.
 
 7.
 
@@ -178,9 +178,9 @@ Un règlement grand-ducal détermine les critères minimaux transparents et non 
 
 Le ministre peut agréer des personnes physiques ou morales de droit privé ou public, autres que l'État, qui sont appelées à accomplir des tâches techniques d'étude ou de contrôle dans le domaine de l'énergie et tout particulièrement:
 
-1. réaliser des audits énergétiques;
+- réaliser des audits énergétiques;
 
-2. calculer la performance énergétique d'un bâtiment et établir des certificats de performance énergétique d'un bâtiment.
+- calculer la performance énergétique d'un bâtiment et établir des certificats de performance énergétique d'un bâtiment.
 
 En outre, le ministre peut agréer des personnes physiques pour réaliser des audits énergétiques internes.
 
@@ -190,57 +190,57 @@ Les experts et auditeurs agréés ou certifiés dans un autre État membre peuve
 
 Les personnes physiques ainsi que les responsables des personnes morales de droit privé ou public, autres que l'État, peuvent être agréés s'ils remplissent les conditions suivantes:
 
-1. justifier soit d'un diplôme sanctionnant une formation du niveau d'enseignement post-secondaire d'une durée minimale de trois ans soit d'une expérience professionnelle d'au moins cinq ans, dans le domaine concerné;
+- justifier soit d'un diplôme sanctionnant une formation du niveau d'enseignement post-secondaire d'une durée minimale de trois ans soit d'une expérience professionnelle d'au moins cinq ans, dans le domaine concerné;
 
-2. pour le domaine visé au paragraphe 1er, point b), peuvent être considérés comme équivalent au diplôme de formation requise les cours de formation théorique et pratique dans les domaines concernés d'une durée minimale de deux cents heures et d'une durée maximale de quatre cents heures sanctionnés par une ou des épreuves;
+- pour le domaine visé au paragraphe 1er, point b), peuvent être considérés comme équivalent au diplôme de formation requise les cours de formation théorique et pratique dans les domaines concernés d'une durée minimale de deux cents heures et d'une durée maximale de quatre cents heures sanctionnés par une ou des épreuves;
 
-3. disposer des moyens techniques appropriés et, le cas échéant, du personnel nécessaire pour accomplir, de façon adé- quate, les tâches techniques liées à leur mission;
+- disposer des moyens techniques appropriés et, le cas échéant, du personnel nécessaire pour accomplir, de façon adé- quate, les tâches techniques liées à leur mission;
 
-4. avoir accès au matériel et aux informations nécessaires pour accomplir convenablement leur mission;
+- avoir accès au matériel et aux informations nécessaires pour accomplir convenablement leur mission;
 
-5. avoir l'aptitude requise pour rédiger les attestations, procès-verbaux et autres documents qui constituent la matérialisation des études et vérifications effectuées;
+- avoir l'aptitude requise pour rédiger les attestations, procès-verbaux et autres documents qui constituent la matérialisation des études et vérifications effectuées;
 
-6. jouir, par rapport à la mission qui leur sera confiée, de l'indépendance morale, technique et financière nécessaire pour l'accomplissement de cette mission;
+- jouir, par rapport à la mission qui leur sera confiée, de l'indépendance morale, technique et financière nécessaire pour l'accomplissement de cette mission;
 
-7. souscrire une assurance de responsabilité civile contractuelle et extra-contractuelle appropriée au regard de la nature et de l'étendue du risque.
+- souscrire une assurance de responsabilité civile contractuelle et extra-contractuelle appropriée au regard de la nature et de l'étendue du risque.
 
 3.
 
 Ne peuvent se faire agréer, sauf disposition légale ou réglementaire contraire, les personnes physiques ou morales de droit privé ou public qui sont:
 
-1. le concepteur, le fournisseur, le réalisateur ou l'exploitant du projet;
+- le concepteur, le fournisseur, le réalisateur ou l'exploitant du projet;
 
-2. le mandataire d'une des personnes dénommées ci-avant.
+- le mandataire d'une des personnes dénommées ci-avant.
 
 4.
 
 L'agrément est délivré par le ministre pour une durée de cinq ans après instruction administrative. L'agrément peut être renouvelé. Les modalités de l'instruction administrative sont déterminées par règlement grand-ducal qui précise:
 
-1. les différentes catégories d'agrément en fonction des domaines visés au paragraphe 1er et en fonction des différents types de bâtiments;
+- les différentes catégories d'agrément en fonction des domaines visés au paragraphe 1er et en fonction des différents types de bâtiments;
 
-2. le contenu et la durée des formations liées aux différentes catégories d'agrément visés au paragraphe 2, point a);
+- le contenu et la durée des formations liées aux différentes catégories d'agrément visés au paragraphe 2, point a);
 
-3. le contenu et la durée de l'expérience professionnelle exigée suivant les différentes catégories d'agrément visés au paragraphe 2, point a);
+- le contenu et la durée de l'expérience professionnelle exigée suivant les différentes catégories d'agrément visés au paragraphe 2, point a);
 
-4. les équivalences en termes de formation visées au paragraphe 2, point b);
+- les équivalences en termes de formation visées au paragraphe 2, point b);
 
-5. le type d'assurance professionnelle requise ainsi que le type et le montant des risques assurés;
+- le type d'assurance professionnelle requise ainsi que le type et le montant des risques assurés;
 
-6. le contenu des dossiers de demande, y compris la nature des pièces à joindre au dossier;
+- le contenu des dossiers de demande, y compris la nature des pièces à joindre au dossier;
 
-7. la procédure de délivrance et de renouvellement de l'agrément;
+- la procédure de délivrance et de renouvellement de l'agrément;
 
-8. les formalités de retrait de l'agrément.
+- les formalités de retrait de l'agrément.
 
 5.
 
 Le ministre peut à tout moment suspendre ou retirer l'agrément lorsque son titulaire:
 
-1. ne satisfait plus aux critères de formation et d'expérience prévus au paragraphe 2;
+- ne satisfait plus aux critères de formation et d'expérience prévus au paragraphe 2;
 
-2. ne respecte pas ou plus les conditions particulières de l'agrément; ou
+- ne respecte pas ou plus les conditions particulières de l'agrément; ou
 
-3. contrevient aux dispositions légales ou règlementaires applicables.
+- contrevient aux dispositions légales ou règlementaires applicables.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -273,9 +273,9 @@ Le recours à l'utilisation des énergies renouvelables ou à la cogénération 
 
 Des règlements grand-ducaux à prendre sur avis obligatoire du Conseil d'État et avec l'assentiment de la Conférence des Présidents de la Chambre des Députés peuvent
 
-1. fixer l'obligation d'étudier le recours aux énergies renouvelables ou à la cogénération dans les bâtiments dépassant un certain besoin énergétique et dans le secteur industriel.
+- fixer l'obligation d'étudier le recours aux énergies renouvelables ou à la cogénération dans les bâtiments dépassant un certain besoin énergétique et dans le secteur industriel.
 
-2. introduire un système d'aide pour promouvoir la réalisation des études mentionnées sous 2.a) ainsi que l'utilisation des énergies renouvelables et de la cogénération dans les secteurs privé et industriel.
+- introduire un système d'aide pour promouvoir la réalisation des études mentionnées sous 2.a) ainsi que l'utilisation des énergies renouvelables et de la cogénération dans les secteurs privé et industriel.
 
 <a id="art-14bis"></a>
 ## Art. 14bis.
@@ -284,13 +284,13 @@ Des règlements grand-ducaux à prendre sur avis obligatoire du Conseil d'État 
 
 Une analyse coûts-avantages est réalisée, conformément aux dispositions du paragraphe 6, lorsque:
 
-1. une nouvelle installation de production d'électricité thermique dont la puissance thermique totale est supérieure à 20 MW est planifiée, afin d'évaluer les coûts et les avantages d'une mise en service de l'installation en tant qu'installation de cogénération à haut rendement;
+- une nouvelle installation de production d'électricité thermique dont la puissance thermique totale est supérieure à 20 MW est planifiée, afin d'évaluer les coûts et les avantages d'une mise en service de l'installation en tant qu'installation de cogénération à haut rendement;
 
-2. une installation existante de production d'électricité thermique d'une puissance thermique totale supérieure à 20 MW fait l'objet d'une rénovation substantielle, afin d'évaluer les coûts et les avantages d'une conversion de cette installation en installation de cogénération à haut rendement;
+- une installation existante de production d'électricité thermique d'une puissance thermique totale supérieure à 20 MW fait l'objet d'une rénovation substantielle, afin d'évaluer les coûts et les avantages d'une conversion de cette installation en installation de cogénération à haut rendement;
 
-3. une installation industrielle d'une puissance thermique totale supérieure à 20 MW génératrice de chaleur fatale à un niveau de température utile est planifiée ou fait l'objet d'une rénovation substantielle, afin d'évaluer les coûts et avantages d'une valorisation de la chaleur fatale en vue de satisfaire une demande justifiée du point de vue économique, y compris par la cogénération, et du raccordement de cette installation à un réseau de chaleur et de froid;
+- une installation industrielle d'une puissance thermique totale supérieure à 20 MW génératrice de chaleur fatale à un niveau de température utile est planifiée ou fait l'objet d'une rénovation substantielle, afin d'évaluer les coûts et avantages d'une valorisation de la chaleur fatale en vue de satisfaire une demande justifiée du point de vue économique, y compris par la cogénération, et du raccordement de cette installation à un réseau de chaleur et de froid;
 
-4. un nouveau réseau de chaleur et de froid est planifié, ou, dans un réseau de chaleur et de froid existant, une nouvelle installation de production d'énergie d'une puissance supérieure à 20 MW est planifiée ou une telle installation fait l'objet d'une rénovation substantielle, afin d'évaluer les coûts et les avantages d'une valorisation de la chaleur fatale provenant des installations industrielles situées à proximité.
+- un nouveau réseau de chaleur et de froid est planifié, ou, dans un réseau de chaleur et de froid existant, une nouvelle installation de production d'énergie d'une puissance supérieure à 20 MW est planifiée ou une telle installation fait l'objet d'une rénovation substantielle, afin d'évaluer les coûts et les avantages d'une valorisation de la chaleur fatale provenant des installations industrielles situées à proximité.
 
 L'analyse coûts-avantages doit être réalisée antérieurement au dépôt de la demande d'autorisation visée dans la loi modifiée du 10 juin 1999 relative aux établissements classés. L'analyse coûts-avantages est à adresser au ministre pour contrôle et avis. Le ministre rend son avis dans les trois mois dès la réception de l'analyse coûts-avantages. L'avis du ministre est à joindre au dossier de demande d'autorisation en vertu de la loi modifiée du 10 juin 1999 relative aux établissements classés.
 
@@ -308,9 +308,9 @@ L'analyse coûts-avantages visée aux points c) et d) du paragraphe 1er est réa
 
 Sont exemptées de cette analyse coûts-avantages:
 
-1. les installations de production d'électricité utilisées dans les périodes de pointe de charge ou de secours qui sont conçues pour fonctionner moins de 1.500 heures d'exploitation par an en moyenne mobile calculée sur une période de cinq ans;
+- les installations de production d'électricité utilisées dans les périodes de pointe de charge ou de secours qui sont conçues pour fonctionner moins de 1.500 heures d'exploitation par an en moyenne mobile calculée sur une période de cinq ans;
 
-2. les installations qui doivent être placées à proximité d'un site de stockage géologique autorisé au titre de la loi du 27 août 2012 relative au stockage géologique du dioxyde de carbone.
+- les installations qui doivent être placées à proximité d'un site de stockage géologique autorisé au titre de la loi du 27 août 2012 relative au stockage géologique du dioxyde de carbone.
 
 5.
 

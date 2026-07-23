@@ -55,127 +55,127 @@ Définitions
 
 Pour l’application de la présente loi, on entend par :
 
-1. « actifs corporels » : les actifs consistant en des terrains, bâtiments, machines et équipements ;
+- « actifs corporels » : les actifs consistant en des terrains, bâtiments, machines et équipements ;
 
-2. « actifs incorporels » : les actifs n'ayant aucune forme physique ni financière tels que les brevets, les licences, le savoir-faire ou d'autres types de propriété intellectuelle ;
+- « actifs incorporels » : les actifs n'ayant aucune forme physique ni financière tels que les brevets, les licences, le savoir-faire ou d'autres types de propriété intellectuelle ;
 
-3. « avance récupérable » : un prêt en faveur d'un projet versé en une ou plusieurs tranches et dont les conditions de remboursement dépendent de l'issue du projet ;
+- « avance récupérable » : un prêt en faveur d'un projet versé en une ou plusieurs tranches et dont les conditions de remboursement dépendent de l'issue du projet ;
 
-4. « date d'octroi de l'aide » : la date à laquelle le droit de recevoir l'aide est conféré au bénéficiaire en vertu de la présente loi ;
+- « date d'octroi de l'aide » : la date à laquelle le droit de recevoir l'aide est conféré au bénéficiaire en vertu de la présente loi ;
 
-5. « début des travaux» : soit le début des travaux de construction liés à l'investissement, soit le premier engagement juridiquement contraignant de commande d'équipement ou tout autre engagement rendant l'investissement irréversible, selon l'événement qui se produit en premier. L'achat de terrains et les préparatifs tels que l'obtention d'autorisations et la réalisation d'études de faisabilité ne sont pas considérés comme le début des travaux. Dans le cas des rachats, le «début des travaux» est le moment de l'acquisition des actifs directement liés à l'établissement acquis ;
+- « début des travaux» : soit le début des travaux de construction liés à l'investissement, soit le premier engagement juridiquement contraignant de commande d'équipement ou tout autre engagement rendant l'investissement irréversible, selon l'événement qui se produit en premier. L'achat de terrains et les préparatifs tels que l'obtention d'autorisations et la réalisation d'études de faisabilité ne sont pas considérés comme le début des travaux. Dans le cas des rachats, le «début des travaux» est le moment de l'acquisition des actifs directement liés à l'établissement acquis ;
 
-6. « efficacité énergétique » : la quantité d'énergie économisée, déterminée en mesurant et/ou en estimant la consommation avant et après la mise en œuvre d'une mesure visant à améliorer l'efficacité énergétique, les conditions externes qui ont une incidence sur la consommation d'énergie faisant l'objet d'une normalisation ;
+- « efficacité énergétique » : la quantité d'énergie économisée, déterminée en mesurant et/ou en estimant la consommation avant et après la mise en œuvre d'une mesure visant à améliorer l'efficacité énergétique, les conditions externes qui ont une incidence sur la consommation d'énergie faisant l'objet d'une normalisation ;
 
-7. « énergie produite à partir de sources d’énergie renouvelables » : l’énergie produite par des installations utilisant exclusivement des sources d’énergie renouvelables ainsi que la part, en termes calorifiques, d’énergie produite à partir de sources d’énergie renouvelables dans les installations hybrides utilisant également des sources d’énergie classiques ; elle inclut l’électricité renouvelable utilisée pour remplir les systèmes de stockage mais elle exclut l’électricité produite à partir de ces systèmes ;
+- « énergie produite à partir de sources d’énergie renouvelables » : l’énergie produite par des installations utilisant exclusivement des sources d’énergie renouvelables ainsi que la part, en termes calorifiques, d’énergie produite à partir de sources d’énergie renouvelables dans les installations hybrides utilisant également des sources d’énergie classiques ; elle inclut l’électricité renouvelable utilisée pour remplir les systèmes de stockage mais elle exclut l’électricité produite à partir de ces systèmes ;
 
-8. « entreprise » : toute personne physique ou morale qui exerce, à titre principal ou accessoire, une activité économique ;
+- « entreprise » : toute personne physique ou morale qui exerce, à titre principal ou accessoire, une activité économique ;
 
-9. « entreprise en difficulté » : une entreprise remplissant au moins une des conditions suivantes :
+- « entreprise en difficulté » : une entreprise remplissant au moins une des conditions suivantes :
 
-1. s'il s'agit d'une société à responsabilité limitée (autre qu'une PME en existence depuis moins de trois ans ou, aux fins de l'admissibilité au bénéfice des aides au financement des risques, une PME exerçant ses activités depuis moins de sept ans après sa première vente commerciale et qui peut bénéficier d'investissements en faveur du financement des risques au terme du contrôle préalable effectué par l'intermédiaire financier sélectionné), lorsque plus de la moitié de son capital social souscrit a disparu en raison des pertes accumulées. Tel est le cas lorsque la déduction des pertes accumulées des réserves (et de tous les autres éléments généralement considérés comme relevant des fonds propres de la société) conduit à un montant cumulé négatif qui excède la moitié du capital social souscrit. Aux fins de la présente disposition, on entend par « société à responsabilité limitée » notamment les types d'entreprises mentionnés à l'annexe I de la directive 2013/34/UE du Parlement européen et du Conseil et le « capital social » comprend, le cas échéant, les primes d'émission ;
+  - s'il s'agit d'une société à responsabilité limitée (autre qu'une PME en existence depuis moins de trois ans ou, aux fins de l'admissibilité au bénéfice des aides au financement des risques, une PME exerçant ses activités depuis moins de sept ans après sa première vente commerciale et qui peut bénéficier d'investissements en faveur du financement des risques au terme du contrôle préalable effectué par l'intermédiaire financier sélectionné), lorsque plus de la moitié de son capital social souscrit a disparu en raison des pertes accumulées. Tel est le cas lorsque la déduction des pertes accumulées des réserves (et de tous les autres éléments généralement considérés comme relevant des fonds propres de la société) conduit à un montant cumulé négatif qui excède la moitié du capital social souscrit. Aux fins de la présente disposition, on entend par « société à responsabilité limitée » notamment les types d'entreprises mentionnés à l'annexe I de la directive 2013/34/UE du Parlement européen et du Conseil et le « capital social » comprend, le cas échéant, les primes d'émission ;
 
-2. s'il s'agit d'une société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société (autre qu'une PME en existence depuis moins de trois ans ou, aux fins de l'admissibilité au bénéfice des aides au financement des risques, une PME exerçant ses activités depuis moins de sept ans après sa première vente commerciale et qui peut bénéficier d'investissements en faveur du financement des risques au terme du contrôle préalable effectué par l'intermédiaire financier sélectionné), lorsque plus de la moitié des fonds propres, tels qu'ils sont inscrits dans les comptes de la société, a disparu en raison des pertes accumulées. Aux fins de la présente disposition, on entend par « société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société » en particulier les types de sociétés mentionnés à l'annexe II de la directive 2013/34/UE ,
+  - s'il s'agit d'une société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société (autre qu'une PME en existence depuis moins de trois ans ou, aux fins de l'admissibilité au bénéfice des aides au financement des risques, une PME exerçant ses activités depuis moins de sept ans après sa première vente commerciale et qui peut bénéficier d'investissements en faveur du financement des risques au terme du contrôle préalable effectué par l'intermédiaire financier sélectionné), lorsque plus de la moitié des fonds propres, tels qu'ils sont inscrits dans les comptes de la société, a disparu en raison des pertes accumulées. Aux fins de la présente disposition, on entend par « société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société » en particulier les types de sociétés mentionnés à l'annexe II de la directive 2013/34/UE ,
 
-3. lorsque l'entreprise fait l'objet d'une procédure collective d'insolvabilité ou remplit, selon le droit national qui lui est applicable, les conditions de soumission à une procédure collective d'insolvabilité à la demande de ses créanciers,
+  - lorsque l'entreprise fait l'objet d'une procédure collective d'insolvabilité ou remplit, selon le droit national qui lui est applicable, les conditions de soumission à une procédure collective d'insolvabilité à la demande de ses créanciers,
 
-4. lorsque l'entreprise a bénéficié d'une aide au sauvetage et n'a pas encore remboursé le prêt ou mis fin à la garantie, ou a bénéficié d'une aide à la restructuration et est toujours soumise à un plan de restructuration,
+  - lorsque l'entreprise a bénéficié d'une aide au sauvetage et n'a pas encore remboursé le prêt ou mis fin à la garantie, ou a bénéficié d'une aide à la restructuration et est toujours soumise à un plan de restructuration,
 
-5. dans le cas d'une entreprise autre qu'une PME, lorsque depuis les deux exercices précédents :
+  - dans le cas d'une entreprise autre qu'une PME, lorsque depuis les deux exercices précédents :
 
-1. le ratio emprunts/capitaux propres de l'entreprise est supérieur à 7,5 ; et
+    - le ratio emprunts/capitaux propres de l'entreprise est supérieur à 7,5 ; et
 
-2. le ratio de couverture des intérêts de l'entreprise, calculé sur la base de l'EBITDA, est inférieur à 1,0 ;
+    - le ratio de couverture des intérêts de l'entreprise, calculé sur la base de l'EBITDA, est inférieur à 1,0 ;
 
-10. « équivalent-subvention brut » : le montant auquel s'élèverait l'aide si elle avait été fournie au bénéficiaire sous la forme d'une subvention, avant impôts ou autres prélèvements ;
+- « équivalent-subvention brut » : le montant auquel s'élèverait l'aide si elle avait été fournie au bénéficiaire sous la forme d'une subvention, avant impôts ou autres prélèvements ;
 
-11. « état de la technique » : un procédé dans lequel le réemploi d'un déchet en vue de la fabrication d'un produit fini constitue une pratique courante et économiquement rentable. Il y a lieu, le cas échéant, d'interpréter cette notion d'« état de la technique » sous l'angle du marché intérieur et de technologies à l'échelle de l'Union ;
+- « état de la technique » : un procédé dans lequel le réemploi d'un déchet en vue de la fabrication d'un produit fini constitue une pratique courante et économiquement rentable. Il y a lieu, le cas échéant, d'interpréter cette notion d'« état de la technique » sous l'angle du marché intérieur et de technologies à l'échelle de l'Union ;
 
-12. « fonds pour la promotion de l'efficacité énergétique, ci-après « FEE » » : un instrument d'investissement spécialisé créé en vue d'investir dans des projets visant à promouvoir l'efficacité énergétique des bâtiments dans les secteurs aussi bien résidentiel que non résidentiel. Les FEE sont gérés par un gestionnaire de fonds pour la promotion de l'efficacité énergétique ;
+- « fonds pour la promotion de l'efficacité énergétique, ci-après « FEE » » : un instrument d'investissement spécialisé créé en vue d'investir dans des projets visant à promouvoir l'efficacité énergétique des bâtiments dans les secteurs aussi bien résidentiel que non résidentiel. Les FEE sont gérés par un gestionnaire de fonds pour la promotion de l'efficacité énergétique ;
 
-13. « gestionnaire de fonds pour la promotion de l'efficacité énergétique » : une société de gestion professionnelle possédant la personnalité juridique, sélectionnant et réalisant des investissements dans des projets promouvant l'efficacité énergétique admissibles ;
+- « gestionnaire de fonds pour la promotion de l'efficacité énergétique » : une société de gestion professionnelle possédant la personnalité juridique, sélectionnant et réalisant des investissements dans des projets promouvant l'efficacité énergétique admissibles ;
 
-14. « grande entreprise » : toute entreprise ne remplissant pas les critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne, ci-après le « traité » ;
+- « grande entreprise » : toute entreprise ne remplissant pas les critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne, ci-après le « traité » ;
 
-15. « infrastructure énergétique » : tout équipement matériel ou toute installation situés dans l'Union ou qui relient l'Union à un ou plusieurs pays tiers et relevant des catégories suivantes :
+- « infrastructure énergétique » : tout équipement matériel ou toute installation situés dans l'Union ou qui relient l'Union à un ou plusieurs pays tiers et relevant des catégories suivantes :
 
-1. en ce qui concerne l'électricité :
+  - en ce qui concerne l'électricité :
 
-1. les infrastructures de transport, au sens de l'article 1 er , point 50, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité,
+    - les infrastructures de transport, au sens de l'article 1 er , point 50, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité,
 
-2. les infrastructures de distribution, au sens de l'article 1 er , point 12, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité,
+    - les infrastructures de distribution, au sens de l'article 1 er , point 12, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité,
 
-3. le stockage d'électricité, défini comme les installations de stockage utilisées pour stocker l'électricité de manière permanente ou temporaire dans des infrastructures situées en surface ou en sous-sol ou dans des sites géologiques, pour autant qu'elles soient directement raccordées à des lignes de transport à haute tension conçues pour une tension d'au moins 110 kV,
+    - le stockage d'électricité, défini comme les installations de stockage utilisées pour stocker l'électricité de manière permanente ou temporaire dans des infrastructures situées en surface ou en sous-sol ou dans des sites géologiques, pour autant qu'elles soient directement raccordées à des lignes de transport à haute tension conçues pour une tension d'au moins 110 kV,
 
-4. les équipements ou installations indispensables pour assurer la sécurité, la sûreté et l'efficacité du fonctionnement des systèmes visés aux points i) à iii), notamment les systèmes de protection, de surveillance et de contrôle pour toutes les tensions et les sous-stations, et
+    - les équipements ou installations indispensables pour assurer la sécurité, la sûreté et l'efficacité du fonctionnement des systèmes visés aux points i) à iii), notamment les systèmes de protection, de surveillance et de contrôle pour toutes les tensions et les sous-stations, et
 
-5. les réseaux intelligents, définis comme tout équipement, toute ligne, tout câble ou toute installation, utilisés tant pour le transport que pour la distribution à basse et moyenne tension, permettant une communication numérique bidirectionnelle, en temps réel ou quasi réel, la surveillance et la gestion interactives et intelligentes de la production, du transport, de la distribution et de la consommation d'électricité au sein d'un réseau, en vue de développer un réseau intégrant efficacement les comportements et actions de tous les utilisateurs raccordés (producteurs, consommateurs et producteurs-consommateurs) de façon à mettre en place un système électrique durable et présentant un bon rapport coût-efficacité, limitant les pertes, offrant des niveaux élevés de qualité et de sécurité d'approvisionnement, et garantissant la sûreté,
+    - les réseaux intelligents, définis comme tout équipement, toute ligne, tout câble ou toute installation, utilisés tant pour le transport que pour la distribution à basse et moyenne tension, permettant une communication numérique bidirectionnelle, en temps réel ou quasi réel, la surveillance et la gestion interactives et intelligentes de la production, du transport, de la distribution et de la consommation d'électricité au sein d'un réseau, en vue de développer un réseau intégrant efficacement les comportements et actions de tous les utilisateurs raccordés (producteurs, consommateurs et producteurs-consommateurs) de façon à mettre en place un système électrique durable et présentant un bon rapport coût-efficacité, limitant les pertes, offrant des niveaux élevés de qualité et de sécurité d'approvisionnement, et garantissant la sûreté,
 
-2. en ce qui concerne le gaz :
+  - en ce qui concerne le gaz :
 
-1. les canalisations de transport et de distribution de gaz naturel et de biogaz qui font partie d'un réseau, à l'exclusion des gazoducs à haute pression utilisés en amont pour la distribution de gaz naturel,
+    - les canalisations de transport et de distribution de gaz naturel et de biogaz qui font partie d'un réseau, à l'exclusion des gazoducs à haute pression utilisés en amont pour la distribution de gaz naturel,
 
-2. les installations souterraines de stockage raccordées aux gazoducs à haute pression visés au point i),
+    - les installations souterraines de stockage raccordées aux gazoducs à haute pression visés au point i),
 
-3. les installations de réception, de stockage et de regazéification ou de décompression du gaz naturel liquéfié ou du gaz naturel comprimé, et
+    - les installations de réception, de stockage et de regazéification ou de décompression du gaz naturel liquéfié ou du gaz naturel comprimé, et
 
-4. les équipements ou installations indispensables pour assurer la sécurité, la sûreté et l'efficacité du fonctionnement du système ou pour mettre en place une capacité bidirectionnelle, y compris les stations de compression,
+    - les équipements ou installations indispensables pour assurer la sécurité, la sûreté et l'efficacité du fonctionnement du système ou pour mettre en place une capacité bidirectionnelle, y compris les stations de compression,
 
-3. en ce qui concerne le pétrole :
+  - en ce qui concerne le pétrole :
 
-1. les oléoducs utilisés pour le transport de pétrole brut,
+    - les oléoducs utilisés pour le transport de pétrole brut,
 
-2. les stations de pompage et les installations de stockage nécessaires à l'exploitation des oléoducs de pétrole brut, et
+    - les stations de pompage et les installations de stockage nécessaires à l'exploitation des oléoducs de pétrole brut, et
 
-3. les équipements ou installations indispensables pour assurer le fonctionnement correct, sûr et efficace du système considéré, y compris les systèmes de protection, de surveillance et de contrôle et les dispositifs d'inversion de flux,
+    - les équipements ou installations indispensables pour assurer le fonctionnement correct, sûr et efficace du système considéré, y compris les systèmes de protection, de surveillance et de contrôle et les dispositifs d'inversion de flux,
 
-4. en ce qui concerne le CO 2 : les réseaux de pipelines y compris les stations de compression associées, destinés à transporter le CO 2 vers des sites de stockage, dans le but de l'injecter dans des formations géologiques souterraines appropriées en vue d'un stockage permanent ;
+  - en ce qui concerne le CO 2 : les réseaux de pipelines y compris les stations de compression associées, destinés à transporter le CO 2 vers des sites de stockage, dans le but de l'injecter dans des formations géologiques souterraines appropriées en vue d'un stockage permanent ;
 
-16. « intensité de l’aide » : le montant brut de l’aide exprimé en pourcentage des coûts admissibles, avant impôts ou autres prélèvements ;
+- « intensité de l’aide » : le montant brut de l’aide exprimé en pourcentage des coûts admissibles, avant impôts ou autres prélèvements ;
 
-17. « intermédiaire financier » : tout établissement financier, quelle que soit sa forme ou sa structure de propriété, y compris les fonds de fonds, les fonds de capital-investissement privés, les fonds de placement publics, les banques, les établissements de microfinancement et les sociétés de garantie ;
+- « intermédiaire financier » : tout établissement financier, quelle que soit sa forme ou sa structure de propriété, y compris les fonds de fonds, les fonds de capital-investissement privés, les fonds de placement publics, les banques, les établissements de microfinancement et les sociétés de garantie ;
 
-18. « marge d'exploitation » : la différence entre les revenus actualisés et les coûts d'exploitation actualisés sur la durée de vie économique de l'investissement, lorsque cette différence est positive. Les coûts d'exploitation comprennent les coûts tels que ceux liés au personnel, aux matériaux, aux services contractés, aux communications, à l'énergie, à la maintenance, aux locations, à l'administration, mais ne comprennent pas, aux fins du présent règlement, les charges d'amortissement ni les coûts de financement si ceux-ci ont été couverts par une aide à l'investissement. L’actualisation des revenus et des coûts d’exploitation au moyen d’un taux d’actualisation approprié permet la réalisation d’un bénéfice raisonnable ;
+- « marge d'exploitation » : la différence entre les revenus actualisés et les coûts d'exploitation actualisés sur la durée de vie économique de l'investissement, lorsque cette différence est positive. Les coûts d'exploitation comprennent les coûts tels que ceux liés au personnel, aux matériaux, aux services contractés, aux communications, à l'énergie, à la maintenance, aux locations, à l'administration, mais ne comprennent pas, aux fins du présent règlement, les charges d'amortissement ni les coûts de financement si ceux-ci ont été couverts par une aide à l'investissement. L’actualisation des revenus et des coûts d’exploitation au moyen d’un taux d’actualisation approprié permet la réalisation d’un bénéfice raisonnable ;
 
-19. « moyenne entreprise » : toute entreprise qui occupe moins de 250 personnes et dont le chiffre d'affaires annuel n'excède pas 50 millions euros ou dont le total du bilan annuel n'excède pas 43 millions euros et qui répond aux critères énoncés à l’annexe 1 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
+- « moyenne entreprise » : toute entreprise qui occupe moins de 250 personnes et dont le chiffre d'affaires annuel n'excède pas 50 millions euros ou dont le total du bilan annuel n'excède pas 43 millions euros et qui répond aux critères énoncés à l’annexe 1 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
-20. « norme de l'Union » :
+- « norme de l'Union » :
 
-1. une norme de l'Union européenne obligatoire fixant les niveaux à atteindre par chaque entreprise en matière d'environnement, ou
+  - une norme de l'Union européenne obligatoire fixant les niveaux à atteindre par chaque entreprise en matière d'environnement, ou
 
-2. l'obligation, prévue par la loi du 9 mai 2014 relative aux émissions industrielles ou toute législation ultérieure la remplaçant en tout ou en partie, d'appliquer les meilleures techniques disponibles, ci-après « MTD », et de garantir que les niveaux d'émission de substances polluantes ne dépassent pas les niveaux qui seraient atteints en appliquant les MTD. Lorsqu’ils sont exprimés sous forme de fourchettes, la valeur limite atteinte d'abord par la MTD est applicable ;
+  - l'obligation, prévue par la loi du 9 mai 2014 relative aux émissions industrielles ou toute législation ultérieure la remplaçant en tout ou en partie, d'appliquer les meilleures techniques disponibles, ci-après « MTD », et de garantir que les niveaux d'émission de substances polluantes ne dépassent pas les niveaux qui seraient atteints en appliquant les MTD. Lorsqu’ils sont exprimés sous forme de fourchettes, la valeur limite atteinte d'abord par la MTD est applicable ;
 
-21. « petite entreprise » : toute entreprise qui occupe moins de 50 personnes et dont le chiffre d'affaires annuel ou le total du bilan annuel n'excède pas 10 millions euros et qui répond aux critères énoncés à l’annexe 1 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
+- « petite entreprise » : toute entreprise qui occupe moins de 50 personnes et dont le chiffre d'affaires annuel ou le total du bilan annuel n'excède pas 10 millions euros et qui répond aux critères énoncés à l’annexe 1 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
-22. « pollueur » : celui qui dégrade directement ou indirectement l'environnement ou qui crée des conditions aboutissant à sa dégradation ;
+- « pollueur » : celui qui dégrade directement ou indirectement l'environnement ou qui crée des conditions aboutissant à sa dégradation ;
 
-23. « pollution » : le dommage causé par un pollueur qui dégrade directement ou indirectement l'environnement ou crée des conditions aboutissant à la dégradation du milieu physique ou des ressources naturelles ;
+- « pollution » : le dommage causé par un pollueur qui dégrade directement ou indirectement l'environnement ou crée des conditions aboutissant à la dégradation du milieu physique ou des ressources naturelles ;
 
-24. « principe du pollueur-payeur » ou « PPP » : principe selon lequel les coûts de la lutte contre la pollution devraient être supportés par le pollueur qui la provoque ;
+- « principe du pollueur-payeur » ou « PPP » : principe selon lequel les coûts de la lutte contre la pollution devraient être supportés par le pollueur qui la provoque ;
 
-25. « produits agricoles » :
+- « produits agricoles » :
 
-1. les produits énumérés à l’annexe I du traité CE, à l’exclusion des produits de la pêche et de l’aquaculture relevant du règlement (CE) n° 104/2000 ;
+  - les produits énumérés à l’annexe I du traité CE, à l’exclusion des produits de la pêche et de l’aquaculture relevant du règlement (CE) n° 104/2000 ;
 
-2. les produits relevant des codes NC 4502, 4503 et 4504, soit les articles en liège ;
+  - les produits relevant des codes NC 4502, 4503 et 4504, soit les articles en liège ;
 
-3. les produits destinés à imiter ou à remplacer le lait et les produits laitiers visés par le règlement (CE) n° 1234/2007 du Conseil du 22 octobre 2007 portant organisation commune des marchés dans le secteur agricole et les dispositions spécifiques en ce qui concerne certains produits de ce secteur ;
+  - les produits destinés à imiter ou à remplacer le lait et les produits laitiers visés par le règlement (CE) n° 1234/2007 du Conseil du 22 octobre 2007 portant organisation commune des marchés dans le secteur agricole et les dispositions spécifiques en ce qui concerne certains produits de ce secteur ;
 
-26. « protection de l’environnement » : toute action visant à réparer ou à prévenir une atteinte au milieu physique ou aux ressources naturelles par les propres activités du bénéficiaire, à réduire le risque de telles atteintes ou à entraîner une utilisation plus rationnelle des ressources naturelles, notamment par des mesures en faveur des économies d’énergie et le recours à des sources d’énergie renouvelables ;
+- « protection de l’environnement » : toute action visant à réparer ou à prévenir une atteinte au milieu physique ou aux ressources naturelles par les propres activités du bénéficiaire, à réduire le risque de telles atteintes ou à entraîner une utilisation plus rationnelle des ressources naturelles, notamment par des mesures en faveur des économies d’énergie et le recours à des sources d’énergie renouvelables ;
 
-27. « recyclage » : toute opération de valorisation par laquelle les déchets sont retraités en produits, matières ou substances aux fins de leur fonction initiale ou à d'autres fins. Cela inclut le retraitement des matières organiques, mais n'inclut pas la valorisation énergétique, la conversion pour l'utilisation comme combustible ou pour des opérations de remblayage ;
+- « recyclage » : toute opération de valorisation par laquelle les déchets sont retraités en produits, matières ou substances aux fins de leur fonction initiale ou à d'autres fins. Cela inclut le retraitement des matières organiques, mais n'inclut pas la valorisation énergétique, la conversion pour l'utilisation comme combustible ou pour des opérations de remblayage ;
 
-28. « réemploi » : toute opération par laquelle des produits ou des composants qui ne sont pas des déchets sont utilisés de nouveau pour un usage identique à celui pour lequel ils avaient été conçus ;
+- « réemploi » : toute opération par laquelle des produits ou des composants qui ne sont pas des déchets sont utilisés de nouveau pour un usage identique à celui pour lequel ils avaient été conçus ;
 
-29. « réseau de chaleur et de froid efficace » : un réseau de chaleur ou de froid utilisant au moins 50 pour cent d'énergie renouvelable, 50 pour cent de chaleur fatale, 75 pour cent de chaleur issue de la cogénération ou 50 pour cent d’une combinaison de ces types d'énergie ou de chaleur. Cette définition inclut les installations de production de chaleur/de froid et le réseau (y compris les installations connexes) nécessaire pour distribuer la chaleur/le froid depuis les unités de production jusqu'aux locaux du client ;
+- « réseau de chaleur et de froid efficace » : un réseau de chaleur ou de froid utilisant au moins 50 pour cent d'énergie renouvelable, 50 pour cent de chaleur fatale, 75 pour cent de chaleur issue de la cogénération ou 50 pour cent d’une combinaison de ces types d'énergie ou de chaleur. Cette définition inclut les installations de production de chaleur/de froid et le réseau (y compris les installations connexes) nécessaire pour distribuer la chaleur/le froid depuis les unités de production jusqu'aux locaux du client ;
 
-30. « site contaminé » : site sur lequel a été confirmée la présence de substances dangereuses découlant de l'activité humaine, dans des concentrations telles qu'elles présentent un risque important pour la santé humaine ou pour l'environnement compte tenu de l'utilisation effective des terrains et de leur utilisation future autorisée ;
+- « site contaminé » : site sur lequel a été confirmée la présence de substances dangereuses découlant de l'activité humaine, dans des concentrations telles qu'elles présentent un risque important pour la santé humaine ou pour l'environnement compte tenu de l'utilisation effective des terrains et de leur utilisation future autorisée ;
 
-31. « sources d’énergie renouvelables » : les sources d’énergie non fossiles renouvelables suivantes : énergie éolienne, solaire, géothermique, hydrothermique, océanique et hydroélectrique, biomasse, gaz de décharge, gaz des stations d’épuration d’eaux usées et biogaz ;
+- « sources d’énergie renouvelables » : les sources d’énergie non fossiles renouvelables suivantes : énergie éolienne, solaire, géothermique, hydrothermique, océanique et hydroélectrique, biomasse, gaz de décharge, gaz des stations d’épuration d’eaux usées et biogaz ;
 
-32. « taux de rendement équitable » : le taux de rendement escompté équivalant à un taux d'actualisation ajusté pour tenir compte du niveau de risque lié à un projet et prenant en considération la nature et le volume des capitaux que les investisseurs privés projettent d'investir ;
+- « taux de rendement équitable » : le taux de rendement escompté équivalant à un taux d'actualisation ajusté pour tenir compte du niveau de risque lié à un projet et prenant en considération la nature et le volume des capitaux que les investisseurs privés projettent d'investir ;
 
-33. « zone assistée » : les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1 er juillet 2014 au 31 décembre 2021 en ce qui concerne les aides à finalité régionale octroyées jusqu’au 31 décembre 2021 et les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1 er janvier 2022 au 31 décembre 2027 en ce qui concerne les aides à finalité régionale octroyées après le 31 décembre 2021.
+- « zone assistée » : les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1 er juillet 2014 au 31 décembre 2021 en ce qui concerne les aides à finalité régionale octroyées jusqu’au 31 décembre 2021 et les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1 er janvier 2022 au 31 décembre 2027 en ce qui concerne les aides à finalité régionale octroyées après le 31 décembre 2021.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -190,25 +190,25 @@ Sont visées par la présente loi les aides en faveur de toutes les entreprises 
 
 Sont toutefois exclues du champ d’application de la présente loi :
 
-1. les aides octroyées dans le secteur de la pêche et de l'aquaculture, qui relève du règlement (UE) n° 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant organisation commune des marchés dans le secteur des produits de la pêche et de l'aquaculture, modifiant les règlements (CE) n° 1184/2006 et (CE) n° 1224/2009 du Conseil et abrogeant le règlement (CE) n° 104/2000 du Conseil ;
+- les aides octroyées dans le secteur de la pêche et de l'aquaculture, qui relève du règlement (UE) n° 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant organisation commune des marchés dans le secteur des produits de la pêche et de l'aquaculture, modifiant les règlements (CE) n° 1184/2006 et (CE) n° 1224/2009 du Conseil et abrogeant le règlement (CE) n° 104/2000 du Conseil ;
 
-2. les aides octroyées dans le secteur de la transformation et de la commercialisation de produits agricoles, dans les cas suivants :
+- les aides octroyées dans le secteur de la transformation et de la commercialisation de produits agricoles, dans les cas suivants :
 
-1. lorsque le montant d'aide est fixé sur la base du prix ou de la quantité des produits de ce type achetés à des producteurs primaires ou mis sur le marché par les entreprises concernées, ou
+  - lorsque le montant d'aide est fixé sur la base du prix ou de la quantité des produits de ce type achetés à des producteurs primaires ou mis sur le marché par les entreprises concernées, ou
 
-2. lorsque l'aide est conditionnée au fait d'être partiellement ou entièrement cédée à des producteurs primaires ;
+  - lorsque l'aide est conditionnée au fait d'être partiellement ou entièrement cédée à des producteurs primaires ;
 
-3. les aides en faveur d’activités liées à l’exportation vers des pays tiers ou des États membres, c’est à dire les aides directement liées aux quantités exportées, et les aides servant à financer la mise en place et le fonctionnement d’un réseau de distribution ou d’autres dépenses courantes liées à l’activité d’exportation ;
+- les aides en faveur d’activités liées à l’exportation vers des pays tiers ou des États membres, c’est à dire les aides directement liées aux quantités exportées, et les aides servant à financer la mise en place et le fonctionnement d’un réseau de distribution ou d’autres dépenses courantes liées à l’activité d’exportation ;
 
-4. les aides subordonnées à l’utilisation de produits nationaux de préférence aux produits importés ;
+- les aides subordonnées à l’utilisation de produits nationaux de préférence aux produits importés ;
 
-5. les aides aux entreprises en difficulté, exception faite :
+- les aides aux entreprises en difficulté, exception faite :
 
-1. des aides destinées à remédier aux dommages causés par certaines calamités naturelles, pour autant que ces aides n’ont pas pour effet de traiter les entreprises en difficulté plus favorablement que les autres entreprises, et
+  - des aides destinées à remédier aux dommages causés par certaines calamités naturelles, pour autant que ces aides n’ont pas pour effet de traiter les entreprises en difficulté plus favorablement que les autres entreprises, et
 
-2. pour la période comprise entre le 1 er janvier 2020 et le 30 juin 2021, des aides aux entreprises en difficulté qui n’étaient pas en difficulté au 31 décembre 2019, pour autant qu’elles ne fassent pas l’objet d’une procédure collective d’insolvabilité ou ne remplissent pas, selon le droit national qui leur est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de leurs créanciers.
+  - pour la période comprise entre le 1 er janvier 2020 et le 30 juin 2021, des aides aux entreprises en difficulté qui n’étaient pas en difficulté au 31 décembre 2019, pour autant qu’elles ne fassent pas l’objet d’une procédure collective d’insolvabilité ou ne remplissent pas, selon le droit national qui leur est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de leurs créanciers.
 
-6. les aides individuelles ou ad hoc en faveur d'une entreprise faisant l'objet d'une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur, ou en faveur d’entreprises en difficulté, exception faite des régimes d'aides destinés à remédier aux dommages causés par certaines calamités naturelles.
+- les aides individuelles ou ad hoc en faveur d'une entreprise faisant l'objet d'une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur, ou en faveur d’entreprises en difficulté, exception faite des régimes d'aides destinés à remédier aux dommages causés par certaines calamités naturelles.
 
 #### Chapitre 2 Régimes d’aides
 
@@ -221,9 +221,9 @@ Aides à l’investissement permettant aux entreprises d'aller au-delà des norm
 
 Des aides à l’investissement peuvent être accordées lorsque les conditions énoncées aux paragraphes suivants sont remplies et que ledit investissement satisfait à l’une des conditions suivantes :
 
-1. il permet au bénéficiaire d’aller au-delà des normes de l’Union applicables, indépendamment de l’existence ou non de normes nationales obligatoires plus strictes que les normes de l’Union ;
+- il permet au bénéficiaire d’aller au-delà des normes de l’Union applicables, indépendamment de l’existence ou non de normes nationales obligatoires plus strictes que les normes de l’Union ;
 
-2. il permet au bénéficiaire d’augmenter le niveau de protection de l’environnement découlant de ses activités en l’absence de normes de l’Union.
+- il permet au bénéficiaire d’augmenter le niveau de protection de l’environnement découlant de ses activités en l’absence de normes de l’Union.
 
 (2)
 
@@ -233,9 +233,9 @@ Sans préjudice de l’article 5, aucune aide ne peut être accordée lorsque le
 
 Par dérogation au paragraphe 2, une aide peut être octroyée aux fins suivantes :
 
-1. l'acquisition de nouveaux véhicules de transport routier, ferroviaire, fluvial et maritime conformes aux normes de l'Union adoptées, sous réserve que celles-ci ne soient pas entrées en vigueur avant la date d'acquisition des véhicules et qu'une fois obligatoires, elles ne s'appliquent pas à des véhicules déjà acquis ;
+- l'acquisition de nouveaux véhicules de transport routier, ferroviaire, fluvial et maritime conformes aux normes de l'Union adoptées, sous réserve que celles-ci ne soient pas entrées en vigueur avant la date d'acquisition des véhicules et qu'une fois obligatoires, elles ne s'appliquent pas à des véhicules déjà acquis ;
 
-2. le post-équipement de véhicules existants destinés au transport routier, ferroviaire, fluvial et maritime, sous réserve que les normes de l'Union ne soient pas entrées en vigueur avant la date de mise en service de ces véhicules et qu'une fois devenues obligatoires, elles ne s'appliquent pas à ces derniers de façon rétroactive.
+- le post-équipement de véhicules existants destinés au transport routier, ferroviaire, fluvial et maritime, sous réserve que les normes de l'Union ne soient pas entrées en vigueur avant la date de mise en service de ces véhicules et qu'une fois devenues obligatoires, elles ne s'appliquent pas à ces derniers de façon rétroactive.
 
 (4)
 
@@ -251,9 +251,9 @@ Les coûts admissibles sont limités aux coûts d’investissement supplémentai
 
 Ils sont déterminés comme suit :
 
-1. si les coûts de l'investissement dans la protection de l'environnement peuvent être identifiés comme investissement distinct dans les coûts d'investissement totaux, ces coûts liés à la protection de l'environnement constituent les coûts admissibles ;
+- si les coûts de l'investissement dans la protection de l'environnement peuvent être identifiés comme investissement distinct dans les coûts d'investissement totaux, ces coûts liés à la protection de l'environnement constituent les coûts admissibles ;
 
-2. dans tous les autres cas, les coûts de l'investissement dans la protection de l'environnement sont déterminés par référence à un investissement similaire, moins respectueux de l'environnement, qui aurait été plausible en l'absence d'aide. La différence entre les coûts des deux investissements représente les coûts liés à la protection de l'environnement et constitue les coûts admissibles.
+- dans tous les autres cas, les coûts de l'investissement dans la protection de l'environnement sont déterminés par référence à un investissement similaire, moins respectueux de l'environnement, qui aurait été plausible en l'absence d'aide. La différence entre les coûts des deux investissements représente les coûts liés à la protection de l'environnement et constitue les coûts admissibles.
 
 (6)
 
@@ -276,9 +276,9 @@ Les normes de l'Union ont été adoptées et l'investissement est mis en œuvre 
 
 Les coûts admissibles sont les coûts d'investissement supplémentaires nécessaires pour aller au-delà des normes applicables de l'Union. Ils sont déterminés comme suit :
 
-1. si les coûts de l'investissement dans la protection de l'environnement peuvent être identifiés comme investissement distinct dans les coûts d'investissement totaux, ces coûts liés à la protection de l'environnement constituent les coûts admissibles ;
+- si les coûts de l'investissement dans la protection de l'environnement peuvent être identifiés comme investissement distinct dans les coûts d'investissement totaux, ces coûts liés à la protection de l'environnement constituent les coûts admissibles ;
 
-2. dans tous les autres cas, les coûts de l'investissement dans la protection de l'environnement sont déterminés par référence à un investissement similaire, moins respectueux de l'environnement, qui aurait été plausible en l'absence d'aide. La différence entre les coûts des deux investissements représente les coûts liés à la protection de l'environnement et constitue les coûts admissibles.
+- dans tous les autres cas, les coûts de l'investissement dans la protection de l'environnement sont déterminés par référence à un investissement similaire, moins respectueux de l'environnement, qui aurait été plausible en l'absence d'aide. La différence entre les coûts des deux investissements représente les coûts liés à la protection de l'environnement et constitue les coûts admissibles.
 
 Les coûts non directement liés à une augmentation du niveau de protection de l'environnement ne sont pas admissibles.
 
@@ -286,9 +286,9 @@ Les coûts non directement liés à une augmentation du niveau de protection de 
 
 L'intensité de l'aide n'excède pas :
 
-1. 20 pour cent des coûts admissibles pour les petites entreprises, 15 pour cent des coûts admissibles pour les moyennes entreprises et 10 pour cent des coûts admissibles pour les grandes entreprises si l'investissement est mis en œuvre et achevé plus de trois ans avant la date d'entrée en vigueur de la norme de l'Union ;
+- 20 pour cent des coûts admissibles pour les petites entreprises, 15 pour cent des coûts admissibles pour les moyennes entreprises et 10 pour cent des coûts admissibles pour les grandes entreprises si l'investissement est mis en œuvre et achevé plus de trois ans avant la date d'entrée en vigueur de la norme de l'Union ;
 
-2. 15 pour cent des coûts admissibles pour les petites entreprises, 10 pour cent des coûts admissibles pour les moyennes entreprises et 5 pour cent des coûts admissibles pour les grandes entreprises si l'investissement est mis en œuvre et achevé entre un et trois ans avant la date d'entrée en vigueur de la nouvelle norme de l'Union ;
+- 15 pour cent des coûts admissibles pour les petites entreprises, 10 pour cent des coûts admissibles pour les moyennes entreprises et 5 pour cent des coûts admissibles pour les grandes entreprises si l'investissement est mis en œuvre et achevé entre un et trois ans avant la date d'entrée en vigueur de la nouvelle norme de l'Union ;
 
 (5)
 
@@ -311,9 +311,9 @@ Les aides ne sont pas autorisées au titre du présent article lorsque les amél
 
 Les coûts admissibles sont les coûts d'investissement supplémentaires nécessaires pour parvenir à un niveau d'efficacité énergétique supérieur. Ils sont déterminés comme suit :
 
-1. si les coûts de l'investissement dans l'efficacité énergétique peuvent être identifiés comme investissement distinct dans les coûts d'investissement totaux, ces coûts liés à l'efficacité énergétique constituent les coûts admissibles ;
+- si les coûts de l'investissement dans l'efficacité énergétique peuvent être identifiés comme investissement distinct dans les coûts d'investissement totaux, ces coûts liés à l'efficacité énergétique constituent les coûts admissibles ;
 
-2. dans tous les autres cas, les coûts de l'investissement dans l'efficacité énergétique sont déterminés par référence à un investissement similaire, favorisant moins l'efficacité énergétique, qui aurait été plausible en l'absence d'aide. La différence entre les coûts des deux investissements représente les coûts liés à l'efficacité énergétique et constitue les coûts admissibles.
+- dans tous les autres cas, les coûts de l'investissement dans l'efficacité énergétique sont déterminés par référence à un investissement similaire, favorisant moins l'efficacité énergétique, qui aurait été plausible en l'absence d'aide. La différence entre les coûts des deux investissements représente les coûts liés à l'efficacité énergétique et constitue les coûts admissibles.
 
 Les coûts non directement liés à l'augmentation du niveau d'efficacité énergétique ne sont pas admissibles.
 
@@ -368,31 +368,31 @@ Lorsque l'aide est fournie par un fonds pour la promotion de l'efficacité éner
 
 L’établissement d’un fonds pour la promotion de l'efficacité énergétique et/ou le recours à un intermédiaire financier lorsqu'il fournit des aides en faveur de l'efficacité énergétique requiert le respect des conditions suivantes :
 
-1. les gestionnaires des intermédiaires financiers, ainsi que les gestionnaires de fonds pour la promotion de l'efficacité énergétique, sont sélectionnés au moyen d'une procédure ouverte, transparente et non discriminatoire, conformément au droit national et de l'Union applicables. En particulier, aucune discrimination n'est opérée sur la base de leur lieu d'établissement ou d'enregistrement. Les intermédiaires financiers et les gestionnaires de fonds pour la promotion de l'efficacité énergétique peuvent être tenus de remplir des critères prédéfinis se justifiant objectivement par la nature des investissements ;
+- les gestionnaires des intermédiaires financiers, ainsi que les gestionnaires de fonds pour la promotion de l'efficacité énergétique, sont sélectionnés au moyen d'une procédure ouverte, transparente et non discriminatoire, conformément au droit national et de l'Union applicables. En particulier, aucune discrimination n'est opérée sur la base de leur lieu d'établissement ou d'enregistrement. Les intermédiaires financiers et les gestionnaires de fonds pour la promotion de l'efficacité énergétique peuvent être tenus de remplir des critères prédéfinis se justifiant objectivement par la nature des investissements ;
 
-2. les investisseurs privés indépendants sont sélectionnés au moyen d'une procédure ouverte, transparente et non discriminatoire, conformément au droit national et de l'Union applicables, visant à établir des modalités appropriées de partage des risques et de la rémunération, de telle sorte que, pour les investissements autres que les garanties, le partage inégal des profits aura la préférence sur la protection contre le risque de pertes. Si les investisseurs privés ne sont pas sélectionnés au moyen d'une telle procédure, le taux de rendement équitable pour les investisseurs privés est établi par un expert indépendant sélectionné au moyen d'une procédure ouverte, transparente et non discriminatoire ;
+- les investisseurs privés indépendants sont sélectionnés au moyen d'une procédure ouverte, transparente et non discriminatoire, conformément au droit national et de l'Union applicables, visant à établir des modalités appropriées de partage des risques et de la rémunération, de telle sorte que, pour les investissements autres que les garanties, le partage inégal des profits aura la préférence sur la protection contre le risque de pertes. Si les investisseurs privés ne sont pas sélectionnés au moyen d'une telle procédure, le taux de rendement équitable pour les investisseurs privés est établi par un expert indépendant sélectionné au moyen d'une procédure ouverte, transparente et non discriminatoire ;
 
-3. en cas de partage inégal des pertes entre les investisseurs publics et les investisseurs privés, la première perte subie par l'investisseur public est plafonnée à 25 pour cent de l'investissement total ;
+- en cas de partage inégal des pertes entre les investisseurs publics et les investisseurs privés, la première perte subie par l'investisseur public est plafonnée à 25 pour cent de l'investissement total ;
 
-4. dans le cas des garanties, le taux de garantie est limité à 80 pour cent et les pertes totales supportées par un État membre sont plafonnées à 25 pour cent du portefeuille sous-jacent garanti. Seules les garanties couvrant les pertes anticipées du portefeuille sous-jacent garanti peuvent être fournies gratuitement. Lorsqu'une garantie comprend également la couverture de pertes non anticipées, l'intermédiaire financier verse, pour la part de la garantie couvrant ces pertes, une prime de garantie conforme au marché ;
+- dans le cas des garanties, le taux de garantie est limité à 80 pour cent et les pertes totales supportées par un État membre sont plafonnées à 25 pour cent du portefeuille sous-jacent garanti. Seules les garanties couvrant les pertes anticipées du portefeuille sous-jacent garanti peuvent être fournies gratuitement. Lorsqu'une garantie comprend également la couverture de pertes non anticipées, l'intermédiaire financier verse, pour la part de la garantie couvrant ces pertes, une prime de garantie conforme au marché ;
 
-5. les investisseurs sont autorisés à être représentés dans les organes de gouvernance du fonds pour la promotion de l'efficacité énergétique ou de l'intermédiaire financier, tels que le conseil de surveillance ou le comité consultatif ;
+- les investisseurs sont autorisés à être représentés dans les organes de gouvernance du fonds pour la promotion de l'efficacité énergétique ou de l'intermédiaire financier, tels que le conseil de surveillance ou le comité consultatif ;
 
-6. le fonds pour la promotion de l'efficacité énergétique ou l'intermédiaire financier est établi conformément au droit national en vigueur : un processus de contrôle préalable est mis en place afin de garantir une stratégie d'investissement commercialement saine aux fins de la mise en œuvre de la mesure d'aide en faveur de l'efficacité énergétique.
+- le fonds pour la promotion de l'efficacité énergétique ou l'intermédiaire financier est établi conformément au droit national en vigueur : un processus de contrôle préalable est mis en place afin de garantir une stratégie d'investissement commercialement saine aux fins de la mise en œuvre de la mesure d'aide en faveur de l'efficacité énergétique.
 
 (9)
 
 Les intermédiaires financiers, y compris les fonds pour la promotion de l'efficacité énergétique, sont gérés dans une optique commerciale et garantissent que les décisions de financement sont motivées par la recherche d'un profit. Il est estimé que c'est le cas lorsque l'intermédiaire financier et, le cas échéant, les gestionnaires du fonds pour la promotion de l'efficacité énergétique, remplissent les conditions suivantes :
 
-1. ils sont tenus, légalement ou contractuellement, d'agir avec la diligence d'un gestionnaire professionnel et de bonne foi, ainsi que d'éviter les conflits d'intérêts; ils se conforment aux bonnes pratiques et font l'objet d'une surveillance prudentielle ;
+- ils sont tenus, légalement ou contractuellement, d'agir avec la diligence d'un gestionnaire professionnel et de bonne foi, ainsi que d'éviter les conflits d'intérêts; ils se conforment aux bonnes pratiques et font l'objet d'une surveillance prudentielle ;
 
-2. leur rémunération est conforme aux pratiques du marché. Cette exigence est considérée comme satisfaite lorsque le gestionnaire est sélectionné au moyen d'une procédure ouverte, transparente et non discriminatoire, fondée sur des critères objectifs liés à l'expérience, à l'expertise et à la capacité opérationnelle et financière;
+- leur rémunération est conforme aux pratiques du marché. Cette exigence est considérée comme satisfaite lorsque le gestionnaire est sélectionné au moyen d'une procédure ouverte, transparente et non discriminatoire, fondée sur des critères objectifs liés à l'expérience, à l'expertise et à la capacité opérationnelle et financière;
 
-3. ils perçoivent une rémunération liée à leurs résultats, ou partagent une partie des risques d'investissement en coinvestissant au moyen de leurs propres ressources de sorte que leurs intérêts correspondent à tout moment à ceux de l'investisseur public ;
+- ils perçoivent une rémunération liée à leurs résultats, ou partagent une partie des risques d'investissement en coinvestissant au moyen de leurs propres ressources de sorte que leurs intérêts correspondent à tout moment à ceux de l'investisseur public ;
 
-4. ils présentent une stratégie d'investissement, des critères et une proposition de calendrier des investissements dans des projets promouvant l'efficacité énergétique, établissant la viabilité financière ex ante, ainsi que leurs effets attendus sur l'efficacité énergétique ;
+- ils présentent une stratégie d'investissement, des critères et une proposition de calendrier des investissements dans des projets promouvant l'efficacité énergétique, établissant la viabilité financière ex ante, ainsi que leurs effets attendus sur l'efficacité énergétique ;
 
-5. il existe une stratégie de désengagement claire et réaliste pour les fonds publics investis dans le fonds pour la promotion de l'efficacité énergétique ou octroyés à l'intermédiaire financier, permettant au marché de financer des projets promouvant l'efficacité énergétique lorsqu'il est prêt à le faire.
+- il existe une stratégie de désengagement claire et réaliste pour les fonds publics investis dans le fonds pour la promotion de l'efficacité énergétique ou octroyés à l'intermédiaire financier, permettant au marché de financer des projets promouvant l'efficacité énergétique lorsqu'il est prêt à le faire.
 
 (10)
 
@@ -456,11 +456,11 @@ Les aides à l'investissement sont octroyées uniquement aux nouvelles installat
 
 Les coûts admissibles sont les coûts d'investissement supplémentaires nécessaires pour promouvoir la production d'énergie à partir de sources renouvelables. Ils sont déterminés comme suit :
 
-1. si les coûts de l'investissement dans la production d'énergie à partir de sources renouvelables peuvent être identifiés comme investissement distinct dans les coûts d'investissement totaux, par exemple parce qu'ils peuvent être rattachés à un élément aisément identifiable rajouté à une installation préexistante, ces coûts liés à des sources d'énergie renouvelables constituent les coûts admissibles ;
+- si les coûts de l'investissement dans la production d'énergie à partir de sources renouvelables peuvent être identifiés comme investissement distinct dans les coûts d'investissement totaux, par exemple parce qu'ils peuvent être rattachés à un élément aisément identifiable rajouté à une installation préexistante, ces coûts liés à des sources d'énergie renouvelables constituent les coûts admissibles ;
 
-2. si les coûts de l'investissement dans la production d'énergie à partir de sources renouvelables peuvent être déterminés par référence à un investissement similaire, moins respectueux de l'environnement, qui aurait été plausible en l'absence d'aide, la différence entre les coûts des deux investissements représente les coûts liés à l'utilisation d'énergies renouvelables et constitue les coûts admissibles ;
+- si les coûts de l'investissement dans la production d'énergie à partir de sources renouvelables peuvent être déterminés par référence à un investissement similaire, moins respectueux de l'environnement, qui aurait été plausible en l'absence d'aide, la différence entre les coûts des deux investissements représente les coûts liés à l'utilisation d'énergies renouvelables et constitue les coûts admissibles ;
 
-3. dans le cas de certaines petites installations pour lesquelles il est impossible d'imaginer un investissement moins respectueux de l'environnement du fait qu'il n'existe pas d'installations de taille limitée, les coûts d'investissement totaux supportés pour atteindre un niveau supérieur de protection de l'environnement constituent les coûts admissibles.
+- dans le cas de certaines petites installations pour lesquelles il est impossible d'imaginer un investissement moins respectueux de l'environnement du fait qu'il n'existe pas d'installations de taille limitée, les coûts d'investissement totaux supportés pour atteindre un niveau supérieur de protection de l'environnement constituent les coûts admissibles.
 
 Les coûts non directement liés à une augmentation du niveau de protection de l'environnement ne sont pas admissibles.
 
@@ -480,9 +480,9 @@ Les aides en faveur d'installations hydroélectriques non conformes à la loi mo
 
 L'intensité de l'aide n'excède pas :
 
-1. 45 pour cent des coûts admissibles si ces derniers sont calculés sur la base du paragraphe 3, point a) ou b) ;
+- 45 pour cent des coûts admissibles si ces derniers sont calculés sur la base du paragraphe 3, point a) ou b) ;
 
-2. 30 pour cent des coûts admissibles si ces derniers sont calculés sur la base du paragraphe 3, point c).
+- 30 pour cent des coûts admissibles si ces derniers sont calculés sur la base du paragraphe 3, point c).
 
 (8)
 
@@ -620,15 +620,15 @@ Les aides sont octroyées pour des infrastructures énergétiques situées dans 
 
 Les infrastructures énergétiques sont pleinement soumises à la régulation en matière de tarifs et d'accès conformément :
 
-1. à la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
+- à la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
 
-2. à la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
+- à la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
 
-3. au règlement (CE) n° 713/2009 du Parlement européen et du Conseil du 13 juillet 2009 instituant une agence de coopération des régulateurs de l'énergie ;
+- au règlement (CE) n° 713/2009 du Parlement européen et du Conseil du 13 juillet 2009 instituant une agence de coopération des régulateurs de l'énergie ;
 
-4. au règlement (CE) n° 714/2009 du Parlement européen et du Conseil du 13 juillet 2009 sur les conditions d'accès au réseau pour les échanges transfrontaliers d'électricité ; et
+- au règlement (CE) n° 714/2009 du Parlement européen et du Conseil du 13 juillet 2009 sur les conditions d'accès au réseau pour les échanges transfrontaliers d'électricité ; et
 
-5. au règlement (CE) n° 715/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les conditions d'accès aux réseaux de transport de gaz naturel.
+- au règlement (CE) n° 715/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les conditions d'accès aux réseaux de transport de gaz naturel.
 
 (4)
 
@@ -713,31 +713,31 @@ Les demandes d’aide doivent être présentées au ministre ayant l’Économie
 
 Une aide est réputée avoir un effet incitatif si le bénéficiaire a présenté une demande d'aide écrite avant le début des travaux liés au projet ou à l'activité en question. La demande d'aide contient au moins les informations suivantes :
 
-1. le nom et la taille de l'entreprise ;
+- le nom et la taille de l'entreprise ;
 
-2. une description du projet d’investissement de protection de l’environnement et du bénéficiaire, y compris ses dates de début et de fin ;
+- une description du projet d’investissement de protection de l’environnement et du bénéficiaire, y compris ses dates de début et de fin ;
 
-3. une appréciation de l’impact escompté du projet sur la protection de l’environnement ;
+- une appréciation de l’impact escompté du projet sur la protection de l’environnement ;
 
-4. une description des modalités d’exploitation du projet d’investissement et du potentiel économique ;
+- une description des modalités d’exploitation du projet d’investissement et du potentiel économique ;
 
-5. la localisation du projet ;
+- la localisation du projet ;
 
-6. le coût total du projet ;
+- le coût total du projet ;
 
-7. une liste des coûts admissibles du projet suivant le régime visé ;
+- une liste des coûts admissibles du projet suivant le régime visé ;
 
-8. les bénéfices et coûts d’exploitation, s’il y a lieu ;
+- les bénéfices et coûts d’exploitation, s’il y a lieu ;
 
-9. un plan de financement ;
+- un plan de financement ;
 
-10. la forme de l’aide et le montant du financement public nécessaire pour le projet ;
+- la forme de l’aide et le montant du financement public nécessaire pour le projet ;
 
-11. pour les grandes entreprises, des indications étayant l’effet incitatif de l’aide demandée ;
+- pour les grandes entreprises, des indications étayant l’effet incitatif de l’aide demandée ;
 
-12. une description du potentiel technologique et du caractère novateur du projet, s’il y a lieu ;
+- une description du potentiel technologique et du caractère novateur du projet, s’il y a lieu ;
 
-13. tout élément pertinent permettant d’apprécier les qualités ou spécificités du projet ou programme et son effet incitatif ainsi que les critères énoncés à l’article 19.
+- tout élément pertinent permettant d’apprécier les qualités ou spécificités du projet ou programme et son effet incitatif ainsi que les critères énoncés à l’article 19.
 
 (4)
 
@@ -752,13 +752,13 @@ Procédure d’octroi
 
 Les ministres compétents examinent la demande et déterminent l’intensité de l’aide en fonction :
 
-1. de l’impact escompté du projet sur la protection de l’environnement et du potentiel technologique et de sa contribution au développement économique ;
+- de l’impact escompté du projet sur la protection de l’environnement et du potentiel technologique et de sa contribution au développement économique ;
 
-2. du caractère novateur du projet ;
+- du caractère novateur du projet ;
 
-3. de l’envergure financière du projet par rapport à la taille de l’entreprise ;
+- de l’envergure financière du projet par rapport à la taille de l’entreprise ;
 
-4. pour les investissements en faveur des projets promouvant l'efficacité énergétique des bâtiments et pour la production d’énergie à partir de sources d’énergie renouvelables, des orientations en matière de politique énergétique arrêtées par le Gouvernement.
+- pour les investissements en faveur des projets promouvant l'efficacité énergétique des bâtiments et pour la production d’énergie à partir de sources d’énergie renouvelables, des orientations en matière de politique énergétique arrêtées par le Gouvernement.
 
 (2)
 
@@ -781,9 +781,9 @@ Cumul d’aides
 
 Les aides aux coûts admissibles identifiables octroyées en vertu de la présente loi peuvent être cumulées avec :
 
-1. toute autre aide compatible avec le marché intérieur tant que cette aide porte sur des coûts admissibles identifiables différents ;
+- toute autre aide compatible avec le marché intérieur tant que cette aide porte sur des coûts admissibles identifiables différents ;
 
-2. toute autre aide compatible avec le marché intérieur portant sur les mêmes coûts admissibles, se chevauchant en partie ou totalement, uniquement dans les cas où ce cumul ne conduit pas à un dépassement de l'intensité ou du montant d'aide les plus élevés applicables à ces aides en vertu de la présente loi.
+- toute autre aide compatible avec le marché intérieur portant sur les mêmes coûts admissibles, se chevauchant en partie ou totalement, uniquement dans les cas où ce cumul ne conduit pas à un dépassement de l'intensité ou du montant d'aide les plus élevés applicables à ces aides en vertu de la présente loi.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -831,23 +831,23 @@ Dispositions modificatives
 
 La loi du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation est modifiée comme suit :
 
-1. L’article 2, paragraphe 3, prend la teneur suivante : (3)Est exclu le versement d'aides individuelles en faveur d'une entreprise faisant l'objet d'une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission européenne déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur, ou en faveur d’entreprises en difficulté, exception faite des aides en faveur des jeunes entreprises innovantes, pour autant que ces aides ne traitent pas les entreprises en difficulté plus favorablement que les autres entreprises.
+- L’article 2, paragraphe 3, prend la teneur suivante : (3) Est exclu le versement d'aides individuelles en faveur d'une entreprise faisant l'objet d'une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission européenne déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur, ou en faveur d’entreprises en difficulté, exception faite des aides en faveur des jeunes entreprises innovantes, pour autant que ces aides ne traitent pas les entreprises en difficulté plus favorablement que les autres entreprises.
 
-2. L’article 8, point a), prend la teneur suivante : Le bénéficiaire est une petite entreprise non cotée ou un organisme de recherche privé répondant aux critères de petite entreprise non cotée, enregistrée depuis un maximum de cinq ans, et remplit les conditions suivantes :n’a pas repris l’activité d’une autre entreprise ;n’a pas encore distribué de bénéfices ; etn’est pas issu d’une concentration.Pour les entreprises admissibles dont l'enregistrement n'est pas obligatoire, la période d'admissibilité de cinq ans peut être considérée comme débutant soit au moment où l'entreprise démarre son activité économique soit au moment où elle est assujettie à l'impôt pour l'activité économique qu'elle exerce.Par dérogation au point a), 3., de l’alinéa 1er du présent article, les entreprises issues d’une concentration entre des entreprises admissibles au bénéfice d’une aide au titre du présent article sont également considérées comme des entreprises admissibles pendant une période maximale de cinq ans à compter de la date d’enregistrement de la plus ancienne entreprise participant à la concentration.
+- L’article 8, point a), prend la teneur suivante : Le bénéficiaire est une petite entreprise non cotée ou un organisme de recherche privé répondant aux critères de petite entreprise non cotée, enregistrée depuis un maximum de cinq ans, et remplit les conditions suivantes : n’a pas repris l’activité d’une autre entreprise ; n’a pas encore distribué de bénéfices ; et n’est pas issu d’une concentration. Pour les entreprises admissibles dont l'enregistrement n'est pas obligatoire, la période d'admissibilité de cinq ans peut être considérée comme débutant soit au moment où l'entreprise démarre son activité économique soit au moment où elle est assujettie à l'impôt pour l'activité économique qu'elle exerce. Par dérogation au point a), 3., de l’alinéa 1er du présent article, les entreprises issues d’une concentration entre des entreprises admissibles au bénéfice d’une aide au titre du présent article sont également considérées comme des entreprises admissibles pendant une période maximale de cinq ans à compter de la date d’enregistrement de la plus ancienne entreprise participant à la concentration.
 
 (2)
 
 La loi du 20 juillet 2017 ayant comme objet la mise en place d’un régime d’aide à l’investissement à finalité régionale est modifiée comme suit :
 
-1. À l’article 1 er est inséré un nouveau paragraphe 4 bis libellé comme suit : 4bis Délocalisation : un transfert, en tout ou en partie, d’une activité identique ou similaire d’un établissement situé sur le territoire d’une partie contractante à l’accord Espace économique européen vers l’établissement dans lequel est effectué l’investissement bénéficiant d’une aide sur le territoire d’une autre partie contractante à l’accord Espace économique européen. Il y a transfert si le produit ou le service dans l’établissement initial et l’établissement bénéficiant de l’aide a au moins en partie les mêmes finalités et répond aux demandes ou aux besoins du même type de consommateurs et que des emplois sont supprimés dans une activité identique ou similaire dans un des établissements initiaux du bénéficiaire dans l’Espace économique européen.
+- À l’article 1 er est inséré un nouveau paragraphe 4 bis libellé comme suit : 4bis Délocalisation : un transfert, en tout ou en partie, d’une activité identique ou similaire d’un établissement situé sur le territoire d’une partie contractante à l’accord Espace économique européen vers l’établissement dans lequel est effectué l’investissement bénéficiant d’une aide sur le territoire d’une autre partie contractante à l’accord Espace économique européen. Il y a transfert si le produit ou le service dans l’établissement initial et l’établissement bénéficiant de l’aide a au moins en partie les mêmes finalités et répond aux demandes ou aux besoins du même type de consommateurs et que des emplois sont supprimés dans une activité identique ou similaire dans un des établissements initiaux du bénéficiaire dans l’Espace économique européen.
 
-2. À l’article 2, paragraphe 3, le point 2, est modifié comme suit : 2. les entreprises faisant l’objet d’une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur ;
+- À l’article 2, paragraphe 3, le point 2, est modifié comme suit : 2. les entreprises faisant l’objet d’une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur ;
 
-3. À l’article 2, paragraphe 3, le point 3, libellé comme suit, est abrogé : 3. les bénéficiaires ayant cessé une activité identique ou similaire dans l’Espace économique européen dans les deux ans qui précèdent la demande d’aide à l’investissement à finalité régionale ou qui, au moment de la demande d’aide à l’investissement à finalité régionale, envisagent concrètement de cesser une telle activité dans les deux ans suivant l’achèvement de l’investissement initial pour lequel l’aide est demandée.
+- À l’article 2, paragraphe 3, le point 3, libellé comme suit, est abrogé : 3. les bénéficiaires ayant cessé une activité identique ou similaire dans l’Espace économique européen dans les deux ans qui précèdent la demande d’aide à l’investissement à finalité régionale ou qui, au moment de la demande d’aide à l’investissement à finalité régionale, envisagent concrètement de cesser une telle activité dans les deux ans suivant l’achèvement de l’investissement initial pour lequel l’aide est demandée.
 
-4. À l’article 3, il est inséré un nouveau paragraphe 3 libellé comme suit : (3)Le bénéficiaire doit confirmer qu’il n’a pas procédé à une délocalisation vers l’établissement dans lequel doit avoir lieu l’investissement initial pour lequel l’aide est demandée, dans les deux années précédant la demande d’aide, et doit s’engager à ne pas le faire dans les deux ans à compter de l’achèvement de l’investissement initial pour lequel l’aide est demandée.
+- À l’article 3, il est inséré un nouveau paragraphe 3 libellé comme suit : (3) Le bénéficiaire doit confirmer qu’il n’a pas procédé à une délocalisation vers l’établissement dans lequel doit avoir lieu l’investissement initial pour lequel l’aide est demandée, dans les deux années précédant la demande d’aide, et doit s’engager à ne pas le faire dans les deux ans à compter de l’achèvement de l’investissement initial pour lequel l’aide est demandée.
 
-5. L’article 8, paragraphe 1 er , point 1, prend la teneur suivante : « 1. le coût des investissements en actifs corporels et en actifs incorporels relatifs à l’investissement initial ou en faveur d’une nouvelle activité économique, ou ; ».
+- L’article 8, paragraphe 1 er , point 1, prend la teneur suivante : « 1. le coût des investissements en actifs corporels et en actifs incorporels relatifs à l’investissement initial ou en faveur d’une nouvelle activité économique, ou ; ».
 
 <a id="art-24"></a>
 ## Art. 24.

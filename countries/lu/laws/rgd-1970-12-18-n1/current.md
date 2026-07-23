@@ -88,30 +88,30 @@ La demande en homologation est introduite par requête adressée au Ministre de 
 
 Le postulant spécifiera en outre dans sa requête:
 
-1. s'il demande l'homologation sans nouvel examen ni avis de la commission, par application de l'article 4, alinéa 3 de la loi du 18 juin 1969 , auquel cas il indiquera la date de l'arrêté ministériel dispensant la décision d'homologation de son diplôme ou titre de l'avis préalable de la commission;
+- s'il demande l'homologation sans nouvel examen ni avis de la commission, par application de l'article 4, alinéa 3 de la loi du 18 juin 1969 , auquel cas il indiquera la date de l'arrêté ministériel dispensant la décision d'homologation de son diplôme ou titre de l'avis préalable de la commission;
 
-2. s'il demande la mention de l'homologation sur le document ou titre produit, conformément à l'article 6 de la loi ; cette demande peut néanmoins encore être formée par une requête ultérieure.
+- s'il demande la mention de l'homologation sur le document ou titre produit, conformément à l'article 6 de la loi ; cette demande peut néanmoins encore être formée par une requête ultérieure.
 
 <a id="art-8"></a>
 ## Art. 8.
 
 Toute demande en homologation doit être accompagnée des pièces suivantes:
 
-1. l'acte de naissance du postulant;
+- l'acte de naissance du postulant;
 
-2. le certificat de fin d'études secondaires luxembourgeois ou étranger et, dans ce dernier cas, le document dont résulte la reconnaissance officielle luxembourgeoise de l'équivalence;
+- le certificat de fin d'études secondaires luxembourgeois ou étranger et, dans ce dernier cas, le document dont résulte la reconnaissance officielle luxembourgeoise de l'équivalence;
 
-3. le certificat ou titre d'admission à l'université, à l'école ou à l'établissement d'enseignement supérieur, ou une pièce attestant officiellement la date du début du cycle des études supérieures;
+- le certificat ou titre d'admission à l'université, à l'école ou à l'établissement d'enseignement supérieur, ou une pièce attestant officiellement la date du début du cycle des études supérieures;
 
-4. dans la mesure où le pays étranger en délivre, les certificats d'études, titres d'examen ou diplômes intermédiaires;
+- dans la mesure où le pays étranger en délivre, les certificats d'études, titres d'examen ou diplômes intermédiaires;
 
-5. les certificats d'équivalence étrangers et les certificats relatifs aux travaux pratiques et aux stages;
+- les certificats d'équivalence étrangers et les certificats relatifs aux travaux pratiques et aux stages;
 
-6. le diplôme ou titre d'examen final d'enseignement supérieur à homologuer ou, à défaut, une attestation délivrée par les autorités compétentes étrangères, certifiant que toutes les conditions pour l'obtention et la délivrance du diplôme ou titre d'examen final sont remplies;
+- le diplôme ou titre d'examen final d'enseignement supérieur à homologuer ou, à défaut, une attestation délivrée par les autorités compétentes étrangères, certifiant que toutes les conditions pour l'obtention et la délivrance du diplôme ou titre d'examen final sont remplies;
 
-7. un curriculum vitae précis et sincère.
+- un curriculum vitae précis et sincère.
 
-8. Un inventaire de toutes les pièces jointes à la requête.
+- Un inventaire de toutes les pièces jointes à la requête.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -136,13 +136,13 @@ Toutes les pièces requises doivent être produites sous forme d'une copie ou ph
 
 La demande sera aussitôt datée et enregistrée avec un numéro d'ordre dans un registre spécial tenu par ordre chronologique au Ministère de l'Education Nationale. L'enregistrement consiste:
 
-1. dans la transcription des nom, prénoms, lieu et date de naissance, nationalité, domicile réel ou élu, ou résidence du postulant;
+- dans la transcription des nom, prénoms, lieu et date de naissance, nationalité, domicile réel ou élu, ou résidence du postulant;
 
-2. dans la spécification de la nature, de l'origine et de la date du diplôme présenté à l'homologation;
+- dans la spécification de la nature, de l'origine et de la date du diplôme présenté à l'homologation;
 
-3. dans la mention de la circonstance que le bénéfice de l'article 4, alinéa 3 de la loi est invoqué;
+- dans la mention de la circonstance que le bénéfice de l'article 4, alinéa 3 de la loi est invoqué;
 
-4. dans la mention de la date de la requête et de celle de son entrée au Ministère.
+- dans la mention de la date de la requête et de celle de son entrée au Ministère.
 
 (2)
 
@@ -314,9 +314,9 @@ Le même devoir incombe au greffier par rapport à la décision définitive inte
 
 Donnent lieu à mention marginale:
 
-1. l'exercice d'un recours à l'encontre d'une décision ministérielle ainsi que la décision intervenue sur le recours;
+- l'exercice d'un recours à l'encontre d'une décision ministérielle ainsi que la décision intervenue sur le recours;
 
-2. l'exercice de l'action publique et les décisions définitives intervenues sur cette action.
+- l'exercice de l'action publique et les décisions définitives intervenues sur cette action.
 
 <a id="art-26"></a>
 ## Art. 26.

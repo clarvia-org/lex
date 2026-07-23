@@ -26,6 +26,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 01/07/2022 : Règlement grand-ducal du 5 mai 2011 fixant les mesures d'exécution relatives aux aides individuelles au logement promouvant l'accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l'aide au logement.
 
+Abrogé par le règlement grand-ducal du 7 août 2023 mais reste applicable pour les subventions d’intérêt et bonifications d’intérêt accordées avant le 1er septembre 2023 jusqu’à la date du prochain réexamen des dossiers relatifs à ces aides.
+
 #### Chapitre 3 Aides en intérêt
 
 ##### Section 1. Subvention d'intérêt
@@ -35,13 +37,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La subvention d’intérêt prévue à l’article 14 de la loi est accordée au demandeur qui remplit les conditions suivantes:
 
-1. avoir contracté un prêt hypothécaire en vue de la construction, de l’acquisition, de l’amélioration ou de l’assainissement énergétique d’un logement auprès d’un établissement de crédit, agréé dans l’Union Européenne et dans l’Espace Economique Européen, ou auprès d’un organisme de pension relevant de la sécurité sociale,
+- avoir contracté un prêt hypothécaire en vue de la construction, de l’acquisition, de l’amélioration ou de l’assainissement énergétique d’un logement auprès d’un établissement de crédit, agréé dans l’Union Européenne et dans l’Espace Economique Européen, ou auprès d’un organisme de pension relevant de la sécurité sociale,
 
-2. remplir les conditions prévues aux articles 2 à 16,
+- remplir les conditions prévues aux articles 2 à 16,
 
-3. produire un certificat du bordereau d’inscription hypothécaire dûment enregistré, sur première demande, et
+- produire un certificat du bordereau d’inscription hypothécaire dûment enregistré, sur première demande, et
 
-4. être titulaire unique dudit prêt, sauf dans l’hypothèse prévue par l’article 44, alinéa 3.
+- être titulaire unique dudit prêt, sauf dans l’hypothèse prévue par l’article 44, alinéa 3.
 
 <a id="art-39"></a>
 ## Art. 39.
@@ -99,17 +101,17 @@ La subvention d’intérêt est calculée sur base des intérêts à échoir en 
 
 La bonification d’intérêt prévue à l’article 14bis de la loi est accordée au demandeur qui remplit les conditions suivantes:
 
-1. habiter le logement pour lequel la bonification est demandée, et avoir au moins un enfant à charge;
+- habiter le logement pour lequel la bonification est demandée, et avoir au moins un enfant à charge;
 
-2. avoir contracté auprès d’un établissement de crédit, agréé dans l’Union Européenne et dans l’Espace Economique Européen ou auprès des organismes de pension relevant de la sécurité sociale, un prêt hypothécaire en vue de la construction, de l’acquisition ou de l’amélioration d’un logement sis sur le territoire du Grand-Duché de Luxembourg et occupé d’une façon effective et permanente par le demandeur;
+- avoir contracté auprès d’un établissement de crédit, agréé dans l’Union Européenne et dans l’Espace Economique Européen ou auprès des organismes de pension relevant de la sécurité sociale, un prêt hypothécaire en vue de la construction, de l’acquisition ou de l’amélioration d’un logement sis sur le territoire du Grand-Duché de Luxembourg et occupé d’une façon effective et permanente par le demandeur;
 
-3. ne pas être propriétaire, copropriétaire ou usufruitier d’un autre logement;
+- ne pas être propriétaire, copropriétaire ou usufruitier d’un autre logement;
 
-4. produire un certificat du bordereau d’inscription hypothécaire dûment enregistré, sur première demande;
+- produire un certificat du bordereau d’inscription hypothécaire dûment enregistré, sur première demande;
 
-5. fournir la preuve qu’il est propriétaire du logement, qu’en cas de construction ou d’amélioration les travaux de construction ou d’amélioration ont commencé et que le prêt hypothécaire est utilisé;
+- fournir la preuve qu’il est propriétaire du logement, qu’en cas de construction ou d’amélioration les travaux de construction ou d’amélioration ont commencé et que le prêt hypothécaire est utilisé;
 
-6. être titulaire unique du prêt.
+- être titulaire unique du prêt.
 
 Pour l’octroi, le maintien, la modification, la suppression ou la restitution de la bonification d’intérêt, les conditions prévues par les articles 2, 6, 8 paragraphe (1) alinéas 3 et 4, 9 paragraphe (2), 10, 12, 13, 14, 15 et 16 s’appliquent.
 
@@ -147,10 +149,10 @@ Les frais de transfert de l’aide opérés par l’organisme prêteur sont à c
 
 La bonification d’intérêt n’est plus due si le bénéficiaire:
 
-1. n’habite plus le logement pour lequel la bonification est payée; dans ce cas, que ce soit pour cause de divorce, de séparation ou pour toute autre cause, le ministre peut, sur demande motivée, accorder au bénéficiaire restant dans le logement une continuation provisoire de la bonification d’intérêt pour une durée maximale de 2 ans; le bénéficiaire continuant à habiter dans le logement après ce délai de 2 ans et ayant repris à lui seul le prêt hypothécaire peut introduire une demande en obtention d’une continuation de la bonification d’intérêt; dans ce cas, le demandeur doit avoir la pleine et exclusive propriété du logement;
+- n’habite plus le logement pour lequel la bonification est payée; dans ce cas, que ce soit pour cause de divorce, de séparation ou pour toute autre cause, le ministre peut, sur demande motivée, accorder au bénéficiaire restant dans le logement une continuation provisoire de la bonification d’intérêt pour une durée maximale de 2 ans; le bénéficiaire continuant à habiter dans le logement après ce délai de 2 ans et ayant repris à lui seul le prêt hypothécaire peut introduire une demande en obtention d’une continuation de la bonification d’intérêt; dans ce cas, le demandeur doit avoir la pleine et exclusive propriété du logement;
 
-2. a remboursé intégralement le prêt hypothécaire concerné;
+- a remboursé intégralement le prêt hypothécaire concerné;
 
-3. ne remplit plus une des conditions prévues à l’article 46.
+- ne remplit plus une des conditions prévues à l’article 46.
 
 Si un bénéficiaire a indûment touché une bonification d’intérêt, il doit la rembourser à l’Etat, avec effet rétroactif.

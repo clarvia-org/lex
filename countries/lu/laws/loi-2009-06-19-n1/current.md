@@ -46,11 +46,11 @@ L'enseignement supérieur de type court comprend un cycle qui mène à un niveau
 
 L'enseignement supérieur luxembourgeois comprend
 
-1. les formations dispensées dans le cadre de la loi du 12 août 2003 portant création de l'Université du Luxembourg,
+- les formations dispensées dans le cadre de la loi du 12 août 2003 portant création de l'Université du Luxembourg,
 
-2. les formations dispensées dans l'enseignement supérieur de type court,
+- les formations dispensées dans l'enseignement supérieur de type court,
 
-3. les formations diplômantes organisées par des établissements d'enseignement supérieur étrangers, publics ou privés, soit sous leur seule responsabilité par le biais de la création d'une filiale au Grand-Duché de Luxembourg, soit en partenariat avec un organisme luxembourgeois.
+- les formations diplômantes organisées par des établissements d'enseignement supérieur étrangers, publics ou privés, soit sous leur seule responsabilité par le biais de la création d'une filiale au Grand-Duché de Luxembourg, soit en partenariat avec un organisme luxembourgeois.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -448,21 +448,21 @@ Pendant toute la durée du stage l'étudiant stagiaire bénéficie de la couvert
 
 A l'égard des étudiants, il est engagé une procédure disciplinaire pour les infractions suivantes:
 
-1. l'insulte grave, la menace, les voies de fait et les actes de violence commis à l'égard d'un membre de la communauté scolaire;
+- l'insulte grave, la menace, les voies de fait et les actes de violence commis à l'égard d'un membre de la communauté scolaire;
 
-2. le port d'armes;
+- le port d'armes;
 
-3. le refus d'observer les mesures de sécurité;
+- le refus d'observer les mesures de sécurité;
 
-4. la dégradation ou la destruction de propriétés au détriment soit de l'Etat soit de particuliers;
+- la dégradation ou la destruction de propriétés au détriment soit de l'Etat soit de particuliers;
 
-5. l'atteinte aux bonnes mœurs;
+- l'atteinte aux bonnes mœurs;
 
-6. la consommation d'alcool dans l'enceinte du lycée;
+- la consommation d'alcool dans l'enceinte du lycée;
 
-7. la consommation et le trafic de stupéfiants prohibés;
+- la consommation et le trafic de stupéfiants prohibés;
 
-8. l'incitation à la haine raciale, à la xénophobie et à l'intolérance religieuse.
+- l'incitation à la haine raciale, à la xénophobie et à l'intolérance religieuse.
 
 <a id="art-26ter"></a>
 ## Art. 26ter.
@@ -471,15 +471,15 @@ A l'égard des étudiants, il est engagé une procédure disciplinaire pour les 
 
 Les sanctions qui peuvent être prononcées à l'encontre des étudiants sont les suivantes:
 
-1. le blâme;
+- le blâme;
 
-2. l'avertissement;
+- l'avertissement;
 
-3. l'exclusion temporaire des cours, séminaires et travaux pratiques. La durée de cette exclusion ne peut excéder huit jours;
+- l'exclusion temporaire des cours, séminaires et travaux pratiques. La durée de cette exclusion ne peut excéder huit jours;
 
-4. l'exclusion temporaire de l'établissement ou de l'un de ses services annexes. La durée de cette exclusion ne peut excéder huit jours;
+- l'exclusion temporaire de l'établissement ou de l'un de ses services annexes. La durée de cette exclusion ne peut excéder huit jours;
 
-5. l'exclusion définitive de l'établissement ou de l'un de ses services annexes. Les sanctions sous 1 et 2 sont des sanctions mineures, les sanctions sous 3, 4, et 5 sont des sanctions majeures.
+- l'exclusion définitive de l'établissement ou de l'un de ses services annexes. Les sanctions sous 1 et 2 sont des sanctions mineures, les sanctions sous 3, 4, et 5 sont des sanctions majeures.
 
 (2)
 
@@ -585,11 +585,11 @@ Le diplôme d'études supérieures générales est un diplôme national qui atte
 
 Le diplôme d'études supérieures générales peut comporter trois filières:
 
-1. la filière économique et commerciale;
+- la filière économique et commerciale;
 
-2. la filière scientifique;
+- la filière scientifique;
 
-3. la filière littéraire.
+- la filière littéraire.
 
 #### Chapitre 2. Organisation du cycle d'études
 
@@ -672,17 +672,17 @@ A la fin de la première année d'études, le jury défini à l'article 26decies
 
 Les mentions sont les suivantes:
 
-1. mention A correspondant à «excellent» et à une moyenne annuelle supérieure ou égale à 17 points sur 20;
+- mention A correspondant à «excellent» et à une moyenne annuelle supérieure ou égale à 17 points sur 20;
 
-2. mention B correspondant à «très bien» et à une moyenne annuelle supérieure ou égale à 14 et inférieure à 17 points sur 20;
+- mention B correspondant à «très bien» et à une moyenne annuelle supérieure ou égale à 14 et inférieure à 17 points sur 20;
 
-3. mention C correspondant à «bien» et à une moyenne annuelle supérieure ou égale à 12 et inférieure à 14 points sur 20;
+- mention C correspondant à «bien» et à une moyenne annuelle supérieure ou égale à 12 et inférieure à 14 points sur 20;
 
-4. mention D correspondant à «assez bien» et à une moyenne annuelle supérieure ou égale à 10 et inférieure à 12 points sur 20;
+- mention D correspondant à «assez bien» et à une moyenne annuelle supérieure ou égale à 10 et inférieure à 12 points sur 20;
 
-5. mention E correspondant à «satisfaisant» et à une moyenne annuelle supérieure ou égale à 8 et inférieure à 10 points sur 20;
+- mention E correspondant à «satisfaisant» et à une moyenne annuelle supérieure ou égale à 8 et inférieure à 10 points sur 20;
 
-6. mention F correspondant à «insuffisant» et à une moyenne annuelle inférieure à 8 points sur 20.
+- mention F correspondant à «insuffisant» et à une moyenne annuelle inférieure à 8 points sur 20.
 
 L'étudiant à temps plein doit avoir validé 25 crédits ECTS. A défaut, l'étudiant est exclu du programme de formation.
 
@@ -701,13 +701,13 @@ Le jury attribue une mention globale au diplôme d'études supérieures généra
 
 La mention globale décernée est:
 
-1. «excellent» si toutes les mentions finales sauf une valent A;
+- «excellent» si toutes les mentions finales sauf une valent A;
 
-2. «très bien» si toutes les mentions finales sauf une valent au moins B;
+- «très bien» si toutes les mentions finales sauf une valent au moins B;
 
-3. «bien» si toutes les mentions finales sauf une valent au moins C;
+- «bien» si toutes les mentions finales sauf une valent au moins C;
 
-4. «assez bien» si toutes les mentions finales sauf une valent au moins D.
+- «assez bien» si toutes les mentions finales sauf une valent au moins D.
 
 Le diplôme d'études supérieures générales indique la filière choisie et la mention attribuée.
 
@@ -754,23 +754,23 @@ L'accréditation d'un programme d'études est soumise à l'accréditation conjoi
 
 Une institution d'enseignement supérieur peut être accréditée dans une des deux catégories suivantes:
 
-1. université ou filiale d'une université,
+- université ou filiale d'une université,
 
-2. établissement d'enseignement supérieur spécialisé ou filiale d'un établissement d'ensiegement supérieur spécialisé.
+- établissement d'enseignement supérieur spécialisé ou filiale d'un établissement d'ensiegement supérieur spécialisé.
 
 (3)
 
 Peuvent être accrédités comme programmes d'études:
 
-1. les programmes d'études du brevet de technicien supérieur,
+- les programmes d'études du brevet de technicien supérieur,
 
-2. les programmes d'études du diplôme d'études supérieures générales.
+- les programmes d'études du diplôme d'études supérieures générales.
 
-3. les programmes d'études de bachelor,
+- les programmes d'études de bachelor,
 
-4. les programmes d'études de master,
+- les programmes d'études de master,
 
-5. les programmes d'études de doctorat.
+- les programmes d'études de doctorat.
 
 L'accréditation d'un programme d'études de doctorat est soumise à l'accréditation conjointe de l'institution concernée en tant qu'université ou filiale d'une université.
 
@@ -785,17 +785,17 @@ Les formations sanctionnées par ces diplômes et grades sont reconnues au Grand
 
 Peut être accréditée comme université ou filiale de cette université, l'institution d'enseignement supérieur qui
 
-1. dispense régulièrement un enseignement menant à la délivrance des grades, et de bachelor, et de master, et de doctorat dans un éventail approprié de domaines scientifiques;
+- dispense régulièrement un enseignement menant à la délivrance des grades, et de bachelor, et de master, et de doctorat dans un éventail approprié de domaines scientifiques;
 
-2. emploie des collaborateurs équivalent plein temps au nombre d'au moins 30 dont au moins un tiers sont au rang de professeur, le professeur étant un enseignant chercheur titulaire d'un doctorat et auteur de travaux de recherche d'après thèse validés par des publications dans des ouvrages reconnus ou titulaire d'une autorisation à diriger des recherches et consacrant au moins 30% de son temps de travail à une activité de recherche.
+- emploie des collaborateurs équivalent plein temps au nombre d'au moins 30 dont au moins un tiers sont au rang de professeur, le professeur étant un enseignant chercheur titulaire d'un doctorat et auteur de travaux de recherche d'après thèse validés par des publications dans des ouvrages reconnus ou titulaire d'une autorisation à diriger des recherches et consacrant au moins 30% de son temps de travail à une activité de recherche.
 
 (2)
 
 Peut être accréditée comme établissement d'enseignement supérieur spécialisé ou filiale d'un tel établissement, l'institution d'enseignement supérieur qui
 
-1. dispense régulièrement, hors université, un enseignement supérieur menant à la délivrance du brevet de technicien supérieur, ou du grade de bachelor, ou du grade de master, ou des deux grades de bachelor et de master;
+- dispense régulièrement, hors université, un enseignement supérieur menant à la délivrance du brevet de technicien supérieur, ou du grade de bachelor, ou du grade de master, ou des deux grades de bachelor et de master;
 
-2. emploie des collaborateurs équivalent plein temps au nombre d'au moins 15 dont la qualification professionnelle est au moins égale à celle du niveau d'études pour lequel le diplôme final est émis et dont l'enseignement s'appuie sur les résultats récents de la recherche scientifique.
+- emploie des collaborateurs équivalent plein temps au nombre d'au moins 15 dont la qualification professionnelle est au moins égale à celle du niveau d'études pour lequel le diplôme final est émis et dont l'enseignement s'appuie sur les résultats récents de la recherche scientifique.
 
 (3)
 
@@ -814,13 +814,13 @@ La preuve de paiement est à joindre à la demande et constitue une pièce oblig
 
 Les demandes d'accréditation sont considérées comme recevables si l'institution d'enseignement supérieur étrangère souhaitant dispenser un ou plusieurs programmes d'études soit par le biais de la création d'une filiale au Grand-Duché de Luxembourg, soit dans le cadre d'un partenariat avec un organisme luxembourgeois remplit les conditions suivantes:
 
-1. elle jouit de la personnalité juridique et propose des formations relevant de l'enseignement supérieur;
+- elle jouit de la personnalité juridique et propose des formations relevant de l'enseignement supérieur;
 
-2. elle mène des activités d'enseignement et de recherche;
+- elle mène des activités d'enseignement et de recherche;
 
-3. elle est dotée des ressources en personnel, en locaux et en équipement adaptées à l'enseignement supérieur et à la recherche;
+- elle est dotée des ressources en personnel, en locaux et en équipement adaptées à l'enseignement supérieur et à la recherche;
 
-4. elle présente un plan d'activité et de fonctionnement portant sur la durée prévue de l'accréditation, ainsi qu'une étude d'impact portant sur l'opportunité de la formation.
+- elle présente un plan d'activité et de fonctionnement portant sur la durée prévue de l'accréditation, ainsi qu'une étude d'impact portant sur l'opportunité de la formation.
 
 <a id="art-30"></a>
 ## Art. 30.

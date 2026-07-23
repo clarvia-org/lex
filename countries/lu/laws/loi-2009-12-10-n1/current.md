@@ -96,15 +96,15 @@ Sans préjudice des dispositions des articles 43 et 44 ci-après, le traitement 
 
 Une personne ne peut être admise et le directeur de l’établissement ne peut l’admettre que sur une demande écrite d’admission à présenter par une des personnes ou autorités suivantes :
 
-1. le tuteur ou curateur d’un incapable majeur ;
+- le tuteur ou curateur d’un incapable majeur ;
 
-2. un membre de la famille de la personne à admettre ou toute autre personne intéressée. La demande indique le degré de parenté ou bien la nature des relations qui existent entre l’auteur de la demande et la personne concernée ;
+- un membre de la famille de la personne à admettre ou toute autre personne intéressée. La demande indique le degré de parenté ou bien la nature des relations qui existent entre l’auteur de la demande et la personne concernée ;
 
-3. le bourgmestre de la commune sur le territoire de laquelle se trouve la personne concernée ou celui qui le remplace ;
+- le bourgmestre de la commune sur le territoire de laquelle se trouve la personne concernée ou celui qui le remplace ;
 
-4. les chefs des commissariats de la Police grand-ducale et, en leur absence, un officier de police administrative ;
+- les chefs des commissariats de la Police grand-ducale et, en leur absence, un officier de police administrative ;
 
-5. le procureur d’État de l’arrondissement judiciaire dans lequel se trouve la personne concernée.
+- le procureur d’État de l’arrondissement judiciaire dans lequel se trouve la personne concernée.
 
 Les autorités visées sous 3., 4. et 5. ci-dessus ne peuvent intervenir que si la personne compromet l’ordre ou la sécurité publics. Cette condition est légalement présumée remplie dès lors que la personne à placer est détenue dans un centre pénitentiaire.
 

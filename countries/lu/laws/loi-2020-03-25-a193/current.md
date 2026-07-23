@@ -53,35 +53,35 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 On entend aux fins du présent titre par :
 
-1. « autorités nationales » : les autorités, administrations et entités suivantes :
+- « autorités nationales » : les autorités, administrations et entités suivantes :
 
-1. le procureur général d’État, les procureurs d’État ainsi que les membres de leurs parquets ;
+  - le procureur général d’État, les procureurs d’État ainsi que les membres de leurs parquets ;
 
-2. les juges d’instruction ;
+  - les juges d’instruction ;
 
-3. la Cellule de renseignement financier, ci-après « CRF » ;
+  - la Cellule de renseignement financier, ci-après « CRF » ;
 
-4. les agents de police judiciaire et officiers de police judiciaire affectés au Service de police judiciaire, ainsi que les officiers de police judiciaire visés à l’article 10 du Code de procédure pénale et agréés par le directeur général de la Police grand-ducale ;
+  - les agents de police judiciaire et officiers de police judiciaire affectés au Service de police judiciaire, ainsi que les officiers de police judiciaire visés à l’article 10 du Code de procédure pénale et agréés par le directeur général de la Police grand-ducale ;
 
-5. la Commission de surveillance du secteur financier, ci-après « CSSF » ;
+  - la Commission de surveillance du secteur financier, ci-après « CSSF » ;
 
-6. le Commissariat aux assurances, ci-après « CAA » ;
+  - le Commissariat aux assurances, ci-après « CAA » ;
 
-7. l’Administration de l’enregistrement, des domaines et de la TVA, ci-après « AED » ;
+  - l’Administration de l’enregistrement, des domaines et de la TVA, ci-après « AED » ;
 
-8. le Service de renseignement de l’État ;
+  - le Service de renseignement de l’État ;
 
-9. le Bureau de recouvrement des avoirs, ci-après « BRA ».
+  - le Bureau de recouvrement des avoirs, ci-après « BRA ».
 
-2. « bénéficiaire effectif » : le bénéficiaire effectif tel que défini à l’article 1 er , paragraphe 7, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ;
+- « bénéficiaire effectif » : le bénéficiaire effectif tel que défini à l’article 1 er , paragraphe 7, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ;
 
-3. « établissement de crédit » : tout établissement de crédit au sens de l’article 1 er , point 12) , de la loi modifiée du 5 avril 1993 relative au secteur financier établi au Luxembourg, y compris les succursales au Luxembourg, au sens de l’article 1 er , point 32) , de ladite loi, de tout établissement de crédit luxembourgeois ou dont le siège social est situé dans un État membre ou dans un pays tiers ;
+- « établissement de crédit » : tout établissement de crédit au sens de l’article 1 er , point 12) , de la loi modifiée du 5 avril 1993 relative au secteur financier établi au Luxembourg, y compris les succursales au Luxembourg, au sens de l’article 1 er , point 32) , de ladite loi, de tout établissement de crédit luxembourgeois ou dont le siège social est situé dans un État membre ou dans un pays tiers ;
 
-4. « État membre » : un État membre de l’Union européenne. Sont assimilés aux États membres de l’Union européenne les États parties à l’Accord sur l’Espace économique européen autres que les États membres de l’Union européenne, dans les limites définies par cet accord et les actes y afférents ;
+- « État membre » : un État membre de l’Union européenne. Sont assimilés aux États membres de l’Union européenne les États parties à l’Accord sur l’Espace économique européen autres que les États membres de l’Union européenne, dans les limites définies par cet accord et les actes y afférents ;
 
-5. « organismes d’autorégulation » : les organismes visés à l’article 1 er , point 21, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ;
+- « organismes d’autorégulation » : les organismes visés à l’article 1 er , point 21, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ;
 
-6. « professionnels » : toute personne établie au Luxembourg, y compris les succursales établies au Luxembourg, proposant des services de tenue de comptes de paiement ou de comptes bancaires identifiés par un numéro IBAN, au sens du règlement (UE) n° 260/2012 du Parlement européen et du Conseil du 14 mars 2012 établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et modifiant le règlement (CE) n° 924/2009 , dénommé ci- après « règlement (UE) n° 260/2012 », ainsi que tout établissement de crédit tenant des coffres-forts au Luxembourg.
+- « professionnels » : toute personne établie au Luxembourg, y compris les succursales établies au Luxembourg, proposant des services de tenue de comptes de paiement ou de comptes bancaires identifiés par un numéro IBAN, au sens du règlement (UE) n° 260/2012 du Parlement européen et du Conseil du 14 mars 2012 établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et modifiant le règlement (CE) n° 924/2009 , dénommé ci- après « règlement (UE) n° 260/2012 », ainsi que tout établissement de crédit tenant des coffres-forts au Luxembourg.
 
 #### Chapitre 2 Création par les professionnels d’un fichier de données et conservation de données sur les titulaires de comptes bancaires, comptes de paiement ou coffres-forts
 
@@ -94,13 +94,13 @@ Les professionnels mettent en place un fichier de données permettant l’identi
 
 Ce fichier comprend les données suivantes :
 
-1. les données relatives à tout titulaire d’un compte client et toute personne prétendant agir au nom du client, à savoir le nom, complété par les autres données d’identification requises au titre de l’article 3, paragraphe 2, alinéa 1 er , lettre a), de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ;
+- les données relatives à tout titulaire d’un compte client et toute personne prétendant agir au nom du client, à savoir le nom, complété par les autres données d’identification requises au titre de l’article 3, paragraphe 2, alinéa 1 er , lettre a), de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ;
 
-2. les données relatives au bénéficiaire effectif du titulaire d’un compte client, à savoir le nom, complété par les autres données d’identification requises au titre de l’article 3, paragraphe 2, alinéa 1 er , lettre b), de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ;
+- les données relatives au bénéficiaire effectif du titulaire d’un compte client, à savoir le nom, complété par les autres données d’identification requises au titre de l’article 3, paragraphe 2, alinéa 1 er , lettre b), de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ;
 
-3. les données relatives au compte bancaire ou au compte de paiement, à savoir le numéro IBAN et la date d’ouverture et de clôture du compte ; et
+- les données relatives au compte bancaire ou au compte de paiement, à savoir le numéro IBAN et la date d’ouverture et de clôture du compte ; et
 
-4. les données relatives au coffre-fort, à savoir le nom du locataire, complété par les autres données d’identification requises au titre de l’article 3, paragraphe 2, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme, ainsi que la durée de la période de location.
+- les données relatives au coffre-fort, à savoir le nom du locataire, complété par les autres données d’identification requises au titre de l’article 3, paragraphe 2, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme, ainsi que la durée de la période de location.
 
 Ces données peuvent être complétées par un numéro d’identification unique.
 
@@ -122,13 +122,13 @@ Le professionnel veille à la complète confidentialité en ce qui concerne l’
 
 Le professionnel met en place, à ses frais, toutes les mesures nécessaires pour assurer à la CSSF un accès permanent, automatisé et confidentiel, conformément à l’article 7, au fichier de données visé au paragraphe 1er qui est sous la responsabilité du professionnel. Celles-ci comprennent, dans chaque cas et conformément à la procédure arrêtée par la CSSF :
 
-1. l’acquisition et la mise à jour du matériel nécessaire et la mise en place de l’infrastructure nécessaire pour assurer la confidentialité ;
+- l’acquisition et la mise à jour du matériel nécessaire et la mise en place de l’infrastructure nécessaire pour assurer la confidentialité ;
 
-2. la sauvegarde du secret professionnel ainsi que la protection contre les accès non autorisés ;
+- la sauvegarde du secret professionnel ainsi que la protection contre les accès non autorisés ;
 
-3. l’installation d’une liaison de télécommunication adéquate et la participation au système utilisateur fermé, et
+- l’installation d’une liaison de télécommunication adéquate et la participation au système utilisateur fermé, et
 
-4. la fourniture continue desdits services au moyen de ces installations.
+- la fourniture continue desdits services au moyen de ces installations.
 
 (5)
 
@@ -154,13 +154,13 @@ Aux fins d’application du présent chapitre, la CSSF est investie de tous les 
 
 Les pouvoirs de la CSSF sont les suivants :
 
-1. d’avoir accès à tout document et à toute donnée sous quelque forme que ce soit et d’en recevoir ou prendre copie ;
+- d’avoir accès à tout document et à toute donnée sous quelque forme que ce soit et d’en recevoir ou prendre copie ;
 
-2. de demander des informations à tout professionnel et, si nécessaire, de convoquer tout professionnel et de l’entendre afin d’obtenir des informations ;
+- de demander des informations à tout professionnel et, si nécessaire, de convoquer tout professionnel et de l’entendre afin d’obtenir des informations ;
 
-3. de procéder à des inspections sur place ou des enquêtes, y compris de saisir tout document, fichier électronique ou autre chose qui paraît utile à la manifestation de la vérité, auprès des professionnels ou, le cas échéant, auprès du sous-traitant visé à l’article 2, paragraphe 5 ;
+- de procéder à des inspections sur place ou des enquêtes, y compris de saisir tout document, fichier électronique ou autre chose qui paraît utile à la manifestation de la vérité, auprès des professionnels ou, le cas échéant, auprès du sous-traitant visé à l’article 2, paragraphe 5 ;
 
-4. d’enjoindre aux professionnels ou, le cas échéant, au sous-traitant visé à l’article 2, paragraphe 5, de mettre un terme à toute pratique contraire aux dispositions visées à l’article 2, et de s’abstenir de la réitérer, dans le délai qu’elle fixe.
+- d’enjoindre aux professionnels ou, le cas échéant, au sous-traitant visé à l’article 2, paragraphe 5, de mettre un terme à toute pratique contraire aux dispositions visées à l’article 2, et de s’abstenir de la réitérer, dans le délai qu’elle fixe.
 
 (2)
 
@@ -177,23 +177,23 @@ Lorsqu’elle prononce l’injonction prévue au paragraphe 1er, lettre d), ou a
 
 La CSSF a le pouvoir d’infliger les sanctions administratives et de prendre les autres mesures administratives prévues au paragraphe 2 à l’égard des professionnels ainsi que, le cas échéant, à l’égard des membres de leurs organes de direction, de leurs dirigeants effectifs ou des autres personnes responsables du non-respect des obligations, lorsque ces professionnels manquent à leurs obligations :
 
-1. de mettre en place le fichier de données et d’y conserver les données conformément à l’article 2, paragraphe 1 er , ainsi que d’assurer que ces données sont adéquates, exactes, actuelles et mises à jour conformément à l’article 2, paragraphe 2 ;
+- de mettre en place le fichier de données et d’y conserver les données conformément à l’article 2, paragraphe 1 er , ainsi que d’assurer que ces données sont adéquates, exactes, actuelles et mises à jour conformément à l’article 2, paragraphe 2 ;
 
-2. de fournir un accès aux données à la CSSF, conformément à l’article 2, paragraphe 4, alinéa 1 er , ou lorsque les professionnels fournissent sciemment accès à la CSSF à des données qui sont incomplètes, inexactes ou fausses ;
+- de fournir un accès aux données à la CSSF, conformément à l’article 2, paragraphe 4, alinéa 1 er , ou lorsque les professionnels fournissent sciemment accès à la CSSF à des données qui sont incomplètes, inexactes ou fausses ;
 
-3. d’assurer la complète confidentialité en ce qui concerne l’accès par la CSSF conformément à l’article 7 au fichier de données visé à l’article 2, paragraphe 1 er.
+- d’assurer la complète confidentialité en ce qui concerne l’accès par la CSSF conformément à l’article 7 au fichier de données visé à l’article 2, paragraphe 1 er.
 
 (2)
 
 Dans les cas visés au paragraphe 1er, la CSSF a le pouvoir d’infliger les sanctions administratives suivantes et de prendre les mesures administratives suivantes :
 
-1. un avertissement ;
+- un avertissement ;
 
-2. un blâme ;
+- un blâme ;
 
-3. une déclaration publique qui précise l’identité de la personne physique ou morale et la nature de la violation ; ou
+- une déclaration publique qui précise l’identité de la personne physique ou morale et la nature de la violation ; ou
 
-4. des amendes administratives de 1 250 euros à 1 250 000 euros ou d’un montant maximal de deux fois le montant de l’avantage tiré de la violation, lorsqu’il est possible de déterminer celui-ci.
+- des amendes administratives de 1 250 euros à 1 250 000 euros ou d’un montant maximal de deux fois le montant de l’avantage tiré de la violation, lorsqu’il est possible de déterminer celui-ci.
 
 (3)
 
@@ -203,19 +203,19 @@ La CSSF peut prononcer une amende d’ordre de 250 à 250 000 euros à l’égar
 
 Au moment de déterminer le type et le niveau des sanctions administratives, la CSSF tient compte de toutes les circonstances pertinentes, y compris, le cas échéant :
 
-1. de la gravité et de la durée de la violation ;
+- de la gravité et de la durée de la violation ;
 
-2. du degré de responsabilité de la personne physique ou morale tenue pour responsable de la violation ;
+- du degré de responsabilité de la personne physique ou morale tenue pour responsable de la violation ;
 
-3. de la situation financière de la personne physique ou morale tenue pour responsable de la violation, par exemple telle qu’elle ressort du chiffre d’affaires total de la personne morale tenue pour responsable ou des revenus annuels de la personne physique tenue pour responsable ;
+- de la situation financière de la personne physique ou morale tenue pour responsable de la violation, par exemple telle qu’elle ressort du chiffre d’affaires total de la personne morale tenue pour responsable ou des revenus annuels de la personne physique tenue pour responsable ;
 
-4. de l’avantage tiré de la violation par la personne physique ou morale tenue pour responsable, dans la mesure où il est possible de le déterminer ;
+- de l’avantage tiré de la violation par la personne physique ou morale tenue pour responsable, dans la mesure où il est possible de le déterminer ;
 
-5. des préjudices subis par des tiers du fait de la violation, dans la mesure où il est possible de les déterminer ;
+- des préjudices subis par des tiers du fait de la violation, dans la mesure où il est possible de les déterminer ;
 
-6. du degré de coopération de la personne physique ou morale tenue pour responsable de la violation avec la CSSF ;
+- du degré de coopération de la personne physique ou morale tenue pour responsable de la violation avec la CSSF ;
 
-7. des violations antérieures commises par la personne physique ou morale tenue pour responsable.
+- des violations antérieures commises par la personne physique ou morale tenue pour responsable.
 
 (5)
 
@@ -227,15 +227,15 @@ La CSSF publie toute décision qui a acquis force de chose décidée ou force de
 
 La CSSF évalue au cas par cas le caractère proportionné de la publication de l’identité des personnes responsables visées à l’alinéa 1er ou des données à caractère personnel de ces personnes. Lorsqu’elle juge cette publication disproportionnée ou lorsque cette publication compromet la stabilité des marchés financiers ou une enquête en cours, la CSSF :
 
-1. retarde la publication de la décision d’imposer une sanction ou une mesure administrative jusqu’au moment où les raisons de ne pas la publier cessent d’exister ;
+- retarde la publication de la décision d’imposer une sanction ou une mesure administrative jusqu’au moment où les raisons de ne pas la publier cessent d’exister ;
 
-2. publie la décision d’imposer une sanction ou une mesure administrative sur la base de l’anonymat si cette publication anonyme garantit une protection effective des données à caractère personnel concernées ; s’il est décidé de publier une sanction ou une mesure administrative sur la base de l’anonymat, la publication des données concernées peut être reportée pendant un délai raisonnable si l’on prévoit qu’à l’issue de ce délai les raisons d’une publication anonyme auront cessé d’exister ;
+- publie la décision d’imposer une sanction ou une mesure administrative sur la base de l’anonymat si cette publication anonyme garantit une protection effective des données à caractère personnel concernées ; s’il est décidé de publier une sanction ou une mesure administrative sur la base de l’anonymat, la publication des données concernées peut être reportée pendant un délai raisonnable si l’on prévoit qu’à l’issue de ce délai les raisons d’une publication anonyme auront cessé d’exister ;
 
-3. ne publie pas la décision d’imposer une sanction ou une mesure administrative, lorsque les options envisagées aux lettres a) et b) sont jugées insuffisantes :
+- ne publie pas la décision d’imposer une sanction ou une mesure administrative, lorsque les options envisagées aux lettres a) et b) sont jugées insuffisantes :
 
-1. pour éviter que la stabilité des marchés financiers ne soit compromise ; ou
+  - pour éviter que la stabilité des marchés financiers ne soit compromise ; ou
 
-2. pour garantir la proportionnalité de la publication de la décision, lorsque les mesures concernées sont jugées mineures.
+  - pour garantir la proportionnalité de la publication de la décision, lorsque les mesures concernées sont jugées mineures.
 
 La CSSF veille à ce que tout document publié conformément au présent paragraphe demeure sur leur site internet officiel pendant cinq ans après sa publication. Toutefois, les données à caractère personnel mentionnées dans le document publié ne sont conservées sur le site internet officiel de l’autorité de contrôle que pendant une durée maximale de douze mois.
 
@@ -305,31 +305,31 @@ La CSSF met en place, conformément à des normes technologiques élevées, des 
 
 La CSSF veille à ce que chaque accès en vertu de l’article 8, paragraphes 1er et 1bis , aux données accessibles par le système électronique central de recherche de données et chaque recherche effectuée dans ces données soient consignés dans des registres. Les registres mentionnent notamment les éléments suivants :
 
-1. la référence du dossier ;
+- la référence du dossier ;
 
-2. la date et l’heure de la recherche ;
+- la date et l’heure de la recherche ;
 
-3. le type de données utilisées pour lancer la recherche ;
+- le type de données utilisées pour lancer la recherche ;
 
-4. l’identifiant unique des résultats ;
+- l’identifiant unique des résultats ;
 
-5. l’identifiant d’utilisateur unique de la personne habilitée qui a eu accès aux données accessibles par le système électronique central de recherche de données et qui a effectué la recherche et, le cas échéant, l’identifiant d’utilisateur unique du destinataire des résultats de la recherche.
+- l’identifiant d’utilisateur unique de la personne habilitée qui a eu accès aux données accessibles par le système électronique central de recherche de données et qui a effectué la recherche et, le cas échéant, l’identifiant d’utilisateur unique du destinataire des résultats de la recherche.
 
 (3)
 
 La CSSF veille à ce que chaque demande d’accès aux données accessibles par le système électronique central de recherche de données et chaque recherche effectuée dans ces données par le biais de la CSSF conformément à l’article 8, paragraphe 2 et 2bis , soient consignés dans des registres. Les registres mentionnent notamment les éléments suivants :
 
-1. la référence du dossier au niveau de l’autorité nationale ou de l’organisme d’autorégulation concerné ou du gestionnaire du Registre de commerce et des sociétés ;
+- la référence du dossier au niveau de l’autorité nationale ou de l’organisme d’autorégulation concerné ou du gestionnaire du Registre de commerce et des sociétés ;
 
-2. la date et l’heure de la requête ou de la recherche ;
+- la date et l’heure de la requête ou de la recherche ;
 
-3. le type de données utilisées pour demander de lancer la requête ou la recherche ;
+- le type de données utilisées pour demander de lancer la requête ou la recherche ;
 
-4. l’identifiant unique des résultats ;
+- l’identifiant unique des résultats ;
 
-5. le nom du demandeur ;
+- le nom du demandeur ;
 
-6. l’identifiant d’utilisateur unique de la personne habilitée qui a ordonné la requête ou la recherche et, le cas échéant, l’identifiant d’utilisateur unique du destinataire des résultats de la requête ou de la recherche.
+- l’identifiant d’utilisateur unique de la personne habilitée qui a ordonné la requête ou la recherche et, le cas échéant, l’identifiant d’utilisateur unique du destinataire des résultats de la requête ou de la recherche.
 
 #### Chapitre 5 Traitement des données à caractère personnel
 
@@ -351,31 +351,35 @@ Le traitement de données à caractère personnel sur base de la présente loi a
 
 La loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme est modifiée comme suit :
 
-1. Le chapitre 3 est complété par deux nouvelles sections 3 et 4, libellées comme suit : « Section 3 Dispositions particulières applicables aux prestataires de services d’actifs virtuels Art. 7-1. (1) Sans préjudice de l’article 4 de la loi modifiée du 10 novembre 2009 relative aux services de paiement, le présent article s’applique aux prestataires de services d’actifs virtuels qui exercent des activités autres que la prestation de services de paiement tels que visés à l’article 1er, point 38, de ladite loi. Sont visés les prestataires de services d’actifs virtuels établis ou qui fournissent des prestations de services au Luxembourg. (2) Les prestataires de services d’actifs virtuels visés au paragraphe 1er doivent s’enregistrer au registre des prestataires de services d’actifs virtuels établi par la CSSF. Ils adressent à la CSSF une demande d’enregistrement, accompagnée des informations suivantes : le nom du requérant ; l’adresse de l’administration centrale du requérant ; une description des activités exercées, en particulier, une liste des types de services d’actifs virtuels envisagés et leur qualification y afférente ; une description des risques de blanchiment et de financement du terrorisme auxquels le requérant sera exposé et des mécanismes de contrôle interne que le requérant met en place pour atténuer ces risques et se conformer aux obligations professionnelles définies dans la présente loi et dans le règlement (UE) 2015/847 du Parlement européen et du Conseil du 20 mai 2015 sur les informations accompagnant les transferts de fonds et abrogeant le règlement (CE) n° 1781/2006, ou dans les mesures prises pour leur exécution. La CSSF tient et met à jour le registre visé à l’alinéa 1er et le publie sur son site internet. (3) L’enregistrement est subordonné à la condition que les personnes qui exercent une fonction de direction au sein des entités visées au paragraphe 1er et les bénéficiaires effectifs desdites entités adressent à la CSSF les informations nécessaires pour justifier de leur honorabilité professionnelle. L’honorabilité s’apprécie sur base des antécédents judiciaires et de tous les éléments susceptibles d’établir que les personnes visées à l’alinéa 1er jouissent d’une bonne réputation et présentent toutes les garanties d’une activité irréprochable. Les personnes chargées de la gestion du prestataire de services d’actifs virtuels doivent être au moins au nombre de deux et doivent être habilitées à déterminer effectivement l’orientation de l’activité. Elles doivent posséder une expérience professionnelle adéquate. Toute modification dans le chef des personnes visées aux alinéas 1er à 3 doit être notifiée à la CSSF et approuvée au préalable par celle-ci. La CSSF s’oppose au changement envisagé si ces personnes ne jouissent pas d’une honorabilité professionnelle adéquate et, le cas échéant, d’une expérience professionnelle adéquate. La CSSF peut demander tous renseignements nécessaires sur les personnes susceptibles de devoir remplir les conditions légales d’honorabilité ou d’expérience professionnelles. (4) Lorsque les conditions énoncées au paragraphe (3) ne sont plus remplies ou si les prestataires de services d’actifs virtuels visés au présent article ne respectent pas les obligations prévues par les articles 2-2, 3, 3-1, 3-2, 3-3, 4, 4-1, 5 et 8-3, paragraphe (3), la CSSF peut rayer les prestataires de services d’actifs virtuels du registre visé au paragraphe (2). (5) Toute décision prise par la CSSF en vertu du présent article peut être déférée dans le délai d’un mois, sous peine de forclusion, au tribunal administratif qui statue comme juge du fond. (6) Le fait qu’un prestataire de services d’actifs virtuels est inscrit sur le registre visé au paragraphe (2) ne doit en aucun cas et sous quelque forme que ce soit, être décrit comme une appréciation positive faite par la CSSF de la qualité des services offerts. Section 4 Dispositions particulières applicables aux prestataires de services aux sociétés et fiducies Art. 7-2. (1) Les prestataires de services aux sociétés et fiducies doivent s’enregistrer auprès de l’autorité de contrôle ou l’organisme d’autorégulation dont ils relèvent en vertu de l’article 2-1. La demande d’enregistrement est accompagnée des informations suivantes : dans le cas d’une personne physique requérante : le nom et le ou les prénoms ; l’adresse privée précise ou l’adresse professionnelle précise mentionnant : pour les adresses au Grand-Duché de Luxembourg, la résidence habituelle figurant dans le registre national des personnes physiques ou, pour les adresses professionnelles, la localité, la rue et le numéro d’immeuble figurant au registre national des localités et des rues, tel que prévu par l’article 2, lettre g), de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie, ainsi que le code postal ; pour les adresses à l’étranger, la localité, la rue et le numéro d’immeuble à l’étranger, le code postal et le pays ; pour les personnes inscrites au registre national des personnes physiques, le numéro d’identification tel que prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ; pour les personnes non résidentes non inscrites au registre national des personnes physiques, un numéro d’identification étranger ; le ou les services prestés qui correspondent à un ou plusieurs des services visés à l’article 1er, paragraphe (8). dans le cas d’une personne morale requérante : la dénomination de la personne morale et, le cas échéant, l’abréviation et l’enseigne commerciale utilisée ; l’adresse précise du siège de la personne morale ; s’il s’agit d’une personne morale immatriculée auprès du registre de commerce et des sociétés de Luxembourg, le numéro d’immatriculation ; d’une personne morale non immatriculée auprès du registre de commerce et des sociétés de Luxembourg, le cas échéant, le nom du registre auquel la personne morale est immatriculée et le numéro d’immatriculation au registre, si la législation de l’État dont elle relève prévoit un tel numéro ; le ou les services prestés qui correspondent à un ou plusieurs des services visés à l’article 1er, paragraphe (8). (2) Les autorités de contrôle peuvent dispenser des obligations visées au paragraphe 1er les prestataires de services aux sociétés et fiducies qui relèvent de leur surveillance prudentielle et qui sont déjà agréés ou autorisés à exercer l’activité de prestataire de services aux sociétés et fiducies. (3) Les autorités de contrôle et les organismes d’autorégulation se coordonnent afin d’établir et de tenir à jour une liste des prestataires de services aux sociétés et fiducies pour lesquels ils sont compétents en vertu de l’article 2-1. Cette liste indique pour chaque prestataire de services aux sociétés et fiducies, l’autorité de contrôle ou l’organisme d’autorégulation concerné ainsi que toute dispense accordée en vertu du paragraphe (2). (4) En ce qui concerne les prestataires de services aux sociétés et fiducies soumis au pouvoir de surveillance d’un organisme d’autorégulation, les obligations prévues au paragraphe 1er sont considérées comme des obligations professionnelles découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme au sens des articles 71, point 1bis , et 100-1 de la loi modifiée du 9 décembre 1976 relative à l’organisation du notariat, des articles 32, point 4) et 46-1 de la loi modifiée du 4 décembre 1990 portant organisation du service des huissiers de justice, des articles 17, 19, point 6, et 30-1 de la loi modifiée du 10 août 1991 sur la profession d’avocat, des articles 11, lettre f), et 38-1 de la loi modifiée du 10 juin 1999 portant organisation de la profession d’expert-comptable et des articles 62, lettre d), et 78, paragraphe 1er, lettre c), de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit. » ;
+- Le chapitre 3 est complété par deux nouvelles sections 3 et 4, libellées comme suit : « Section 3 Dispositions particulières applicables aux prestataires de services d’actifs virtuels Art. 7-1. (1) Sans préjudice de l’article 4 de la loi modifiée du 10 novembre 2009 relative aux services de paiement, le présent article s’applique aux prestataires de services d’actifs virtuels qui exercent des activités autres que la prestation de services de paiement tels que visés à l’article 1er, point 38, de ladite loi. Sont visés les prestataires de services d’actifs virtuels établis ou qui fournissent des prestations de services au Luxembourg. (2) Les prestataires de services d’actifs virtuels visés au paragraphe 1er doivent s’enregistrer au registre des prestataires de services d’actifs virtuels établi par la CSSF. Ils adressent à la CSSF une demande d’enregistrement, accompagnée des informations suivantes : le nom du requérant ; l’adresse de l’administration centrale du requérant ; une description des activités exercées, en particulier, une liste des types de services d’actifs virtuels envisagés et leur qualification y afférente ; une description des risques de blanchiment et de financement du terrorisme auxquels le requérant sera exposé et des mécanismes de contrôle interne que le requérant met en place pour atténuer ces risques et se conformer aux obligations professionnelles définies dans la présente loi et dans le règlement (UE) 2015/847 du Parlement européen et du Conseil du 20 mai 2015 sur les informations accompagnant les transferts de fonds et abrogeant le règlement (CE) n° 1781/2006, ou dans les mesures prises pour leur exécution. La CSSF tient et met à jour le registre visé à l’alinéa 1er et le publie sur son site internet. (3) L’enregistrement est subordonné à la condition que les personnes qui exercent une fonction de direction au sein des entités visées au paragraphe 1er et les bénéficiaires effectifs desdites entités adressent à la CSSF les informations nécessaires pour justifier de leur honorabilité professionnelle. L’honorabilité s’apprécie sur base des antécédents judiciaires et de tous les éléments susceptibles d’établir que les personnes visées à l’alinéa 1er jouissent d’une bonne réputation et présentent toutes les garanties d’une activité irréprochable. Les personnes chargées de la gestion du prestataire de services d’actifs virtuels doivent être au moins au nombre de deux et doivent être habilitées à déterminer effectivement l’orientation de l’activité. Elles doivent posséder une expérience professionnelle adéquate. Toute modification dans le chef des personnes visées aux alinéas 1er à 3 doit être notifiée à la CSSF et approuvée au préalable par celle-ci. La CSSF s’oppose au changement envisagé si ces personnes ne jouissent pas d’une honorabilité professionnelle adéquate et, le cas échéant, d’une expérience professionnelle adéquate. La CSSF peut demander tous renseignements nécessaires sur les personnes susceptibles de devoir remplir les conditions légales d’honorabilité ou d’expérience professionnelles. (4) Lorsque les conditions énoncées au paragraphe (3) ne sont plus remplies ou si les prestataires de services d’actifs virtuels visés au présent article ne respectent pas les obligations prévues par les articles 2-2, 3, 3-1, 3-2, 3-3, 4, 4-1, 5 et 8-3, paragraphe (3), la CSSF peut rayer les prestataires de services d’actifs virtuels du registre visé au paragraphe (2). (5) Toute décision prise par la CSSF en vertu du présent article peut être déférée dans le délai d’un mois, sous peine de forclusion, au tribunal administratif qui statue comme juge du fond. (6) Le fait qu’un prestataire de services d’actifs virtuels est inscrit sur le registre visé au paragraphe (2) ne doit en aucun cas et sous quelque forme que ce soit, être décrit comme une appréciation positive faite par la CSSF de la qualité des services offerts. Section 4 Dispositions particulières applicables aux prestataires de services aux sociétés et fiducies Art. 7-2. (1) Les prestataires de services aux sociétés et fiducies doivent s’enregistrer auprès de l’autorité de contrôle ou l’organisme d’autorégulation dont ils relèvent en vertu de l’article 2-1. La demande d’enregistrement est accompagnée des informations suivantes : dans le cas d’une personne physique requérante : le nom et le ou les prénoms ; l’adresse privée précise ou l’adresse professionnelle précise mentionnant : pour les adresses au Grand-Duché de Luxembourg, la résidence habituelle figurant dans le registre national des personnes physiques ou, pour les adresses professionnelles, la localité, la rue et le numéro d’immeuble figurant au registre national des localités et des rues, tel que prévu par l’article 2, lettre g), de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie, ainsi que le code postal ; pour les adresses à l’étranger, la localité, la rue et le numéro d’immeuble à l’étranger, le code postal et le pays ; pour les personnes inscrites au registre national des personnes physiques, le numéro d’identification tel que prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ; pour les personnes non résidentes non inscrites au registre national des personnes physiques, un numéro d’identification étranger ; le ou les services prestés qui correspondent à un ou plusieurs des services visés à l’article 1er, paragraphe (8). dans le cas d’une personne morale requérante : la dénomination de la personne morale et, le cas échéant, l’abréviation et l’enseigne commerciale utilisée ; l’adresse précise du siège de la personne morale ; s’il s’agit d’une personne morale immatriculée auprès du registre de commerce et des sociétés de Luxembourg, le numéro d’immatriculation ; d’une personne morale non immatriculée auprès du registre de commerce et des sociétés de Luxembourg, le cas échéant, le nom du registre auquel la personne morale est immatriculée et le numéro d’immatriculation au registre, si la législation de l’État dont elle relève prévoit un tel numéro ; le ou les services prestés qui correspondent à un ou plusieurs des services visés à l’article 1er, paragraphe (8). (2) Les autorités de contrôle peuvent dispenser des obligations visées au paragraphe 1er les prestataires de services aux sociétés et fiducies qui relèvent de leur surveillance prudentielle et qui sont déjà agréés ou autorisés à exercer l’activité de prestataire de services aux sociétés et fiducies. (3) Les autorités de contrôle et les organismes d’autorégulation se coordonnent afin d’établir et de tenir à jour une liste des prestataires de services aux sociétés et fiducies pour lesquels ils sont compétents en vertu de l’article 2-1. Cette liste indique pour chaque prestataire de services aux sociétés et fiducies, l’autorité de contrôle ou l’organisme d’autorégulation concerné ainsi que toute dispense accordée en vertu du paragraphe (2). (4) En ce qui concerne les prestataires de services aux sociétés et fiducies soumis au pouvoir de surveillance d’un organisme d’autorégulation, les obligations prévues au paragraphe 1er sont considérées comme des obligations professionnelles découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme au sens des articles 71, point 1bis , et 100-1 de la loi modifiée du 9 décembre 1976 relative à l’organisation du notariat, des articles 32, point 4) et 46-1 de la loi modifiée du 4 décembre 1990 portant organisation du service des huissiers de justice, des articles 17, 19, point 6, et 30-1 de la loi modifiée du 10 août 1991 sur la profession d’avocat, des articles 11, lettre f), et 38-1 de la loi modifiée du 10 juin 1999 portant organisation de la profession d’expert-comptable et des articles 62, lettre d), et 78, paragraphe 1er, lettre c), de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit. » ;
 
-2. À l’article 8-4, paragraphe 1 er , de la même loi , les mots , 7-1, paragraphes (2) et (6), et 7-2, paragraphe (1) sont ajoutés après les mots 4-1 et 5 ;
+- À l’article 8-4, paragraphe 1 er , de la même loi , les mots , 7-1, paragraphes (2) et (6), et 7-2, paragraphe (1) sont ajoutés après les mots 4-1 et 5 ;
 
-3. À l’article 9 de la même loi , le mot et est remplacé par une virgule et les mots , 7-1, paragraphes (2) et (6), et 7-2, paragraphe (1) sont ajoutés après la lettre 5 ;
+- À l’article 9 de la même loi , le mot et est remplacé par une virgule et les mots , 7-1, paragraphes (2) et (6), et 7-2, paragraphe (1) sont ajoutés après la lettre 5 ;
 
-4. L’article 9-2 de la même loi est modifié comme suit :
+- L’article 9-2 de la même loi est modifié comme suit :
 
-1. À l’alinéa 1 er , les mots peuvent fournir sont remplacés par fournissent ;
+  - À l’alinéa 1 er , les mots peuvent fournir sont remplacés par fournissent ;
 
-2. L’article est complété par un alinéa 3 libellé comme suit : « Lorsque dans le cadre de sa surveillance prudentielle d’un établissement CRR au sens de l’article 1er, paragraphe (11bis), de la loi modifiée du 5 avril 1993 relative au secteur financier, un contrôle, en particulier l’évaluation des dispositifs de gouvernance, du modèle d’entreprise et des activités de cet établissement, donne à la CSSF des motifs raisonnables de soupçonner que, en lien avec cet établissement, une opération ou une tentative de blanchiment de capitaux ou de financement du terrorisme est en cours ou a eu lieu ou que le risque d’une telle opération ou tentative est renforcé, la CSSF informe immédiatement l’Autorité bancaire européenne. En cas de risque renforcé de blanchiment de capitaux ou de financement du terrorisme, la CSSF communique immédiatement son évaluation à l’Autorité bancaire européenne. Cet alinéa est sans préjudice des autres mesures prises par la CSSF dans le cadre des missions qui lui incombent en matière de surveillance prudentielle. Aux fins du présent alinéa, la CSSF veille à ce que les services en charge de la surveillance prudentielle et en charge de la lutte contre le blanchiment et contre le financement du terrorisme coopèrent et s’informent mutuellement conformément à l’article 9-1bis. De même, la CSSF se concerte conformément à l’article 9-2ter avec la Banque centrale européenne agissant conformément au règlement (UE) n° 1024/2013 du Conseil du 15 octobre 2013 confiant à la Banque centrale européenne des missions spécifiques ayant trait aux politiques en matière de surveillance prudentielle des établissements de crédit. Elles communiquent immédiatement leur évaluation commune à l’Autorité bancaire européenne. ».
+  - L’article est complété par un alinéa 3 libellé comme suit : « Lorsque dans le cadre de sa surveillance prudentielle d’un établissement CRR au sens de l’article 1er, paragraphe (11bis), de la loi modifiée du 5 avril 1993 relative au secteur financier, un contrôle, en particulier l’évaluation des dispositifs de gouvernance, du modèle d’entreprise et des activités de cet établissement, donne à la CSSF des motifs raisonnables de soupçonner que, en lien avec cet établissement, une opération ou une tentative de blanchiment de capitaux ou de financement du terrorisme est en cours ou a eu lieu ou que le risque d’une telle opération ou tentative est renforcé, la CSSF informe immédiatement l’Autorité bancaire européenne. En cas de risque renforcé de blanchiment de capitaux ou de financement du terrorisme, la CSSF communique immédiatement son évaluation à l’Autorité bancaire européenne. Cet alinéa est sans préjudice des autres mesures prises par la CSSF dans le cadre des missions qui lui incombent en matière de surveillance prudentielle. Aux fins du présent alinéa, la CSSF veille à ce que les services en charge de la surveillance prudentielle et en charge de la lutte contre le blanchiment et contre le financement du terrorisme coopèrent et s’informent mutuellement conformément à l’article 9-1bis. De même, la CSSF se concerte conformément à l’article 9-2ter avec la Banque centrale européenne agissant conformément au règlement (UE) n° 1024/2013 du Conseil du 15 octobre 2013 confiant à la Banque centrale européenne des missions spécifiques ayant trait aux politiques en matière de surveillance prudentielle des établissements de crédit. Elles communiquent immédiatement leur évaluation commune à l’Autorité bancaire européenne. ».
 
 ### Titre III Modification de la loi modifiée du 5 juillet 2016 portant réorganisation du Service de renseignement de l’État
 
 <a id="art-12"></a>
 ## Art. 12.
 
-À l’article 8, paragraphe 1er, de la loi modifiée du 5 juillet 2016 portant réorganisation du Service de renseignement de l’État, il est introduit un point a) ayant la teneur suivante : demander à la CSSF, selon la procédure arrêtée par la CSSF et selon les conditions de l’article 8, paragraphe 3, de la loi du 25 mars 2020 instituant un système électronique central de recherche de données concernant des comptes IBAN et des coffres-forts, de recevoir sans délai les données visées à l’article 2, paragraphe 1er, de cette loi ; ».
+À l’article 8, paragraphe 1er, de la loi modifiée du 5 juillet 2016 portant réorganisation du Service de renseignement de l’État, il est introduit un point a) ayant la teneur suivante :
+
+- demander à la CSSF, selon la procédure arrêtée par la CSSF et selon les conditions de l’article 8, paragraphe 3, de la loi du 25 mars 2020 instituant un système électronique central de recherche de données concernant des comptes IBAN et des coffres-forts, de recevoir sans délai les données visées à l’article 2, paragraphe 1 er , de cette loi ; ».
 
 ### Titre IV Modification de la loi du 30 mai 2018 relative aux marchés d’instruments financiers
 
 <a id="art-13"></a>
 ## Art. 13.
 
-À l’article 8, paragraphe 1er, de la loi du 30 mai 2018 relative aux marchés d’instruments financiers, il est ajouté après la première phrase, une deuxième phrase, qui prend la teneur suivante : « L’application des pas de cotation n’empêche pas les marchés réglementés d’apparier des ordres d’une taille élevée au point médian entre les prix actuels acheteurs et vendeurs. ».
+À l’article 8, paragraphe 1er, de la loi du 30 mai 2018 relative aux marchés d’instruments financiers, il est ajouté après la première phrase, une deuxième phrase, qui prend la teneur suivante :
+
+« L’application des pas de cotation n’empêche pas les marchés réglementés d’apparier des ordres d’une taille élevée au point médian entre les prix actuels acheteurs et vendeurs. ».
 
 ### Titre V Modification de la loi du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs
 

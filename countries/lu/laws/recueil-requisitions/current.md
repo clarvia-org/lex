@@ -52,9 +52,9 @@ Le Gouvernement en conseil assure la coordination des mesures de réquisition.
 
 Les autorités ou personnes mentionnées à l’article 2 peuvent, dans les circonstances définies aux articles 1er et 2,
 
-1. requérir les personnes, les biens et les services;
+- requérir les personnes, les biens et les services;
 
-2. soumettre à contrôle et à répartition la main-d’oeuvre, les ressources en énergie, matières premières, denrées et marchandises ainsi que toutes autres ressources du pays.
+- soumettre à contrôle et à répartition la main-d’oeuvre, les ressources en énergie, matières premières, denrées et marchandises ainsi que toutes autres ressources du pays.
 
 <a id="art-n10174"></a>
 ## Art. 5.
@@ -76,21 +76,21 @@ Toute prestation en matière de réquisition donne droit à indemnisation.
 <a id="art-n10219"></a>
 ## Art. 8.
 
-1. Dans les cas prévus à l’article 1 er , toute personne physique ou morale, luxembourgeois ou étrangère, résidant ou établie au Grand-Duché, peut être requise en vue de l’exécution de tâches d’intérêt public. Peut encore être requise toute entreprise exerçant une activité au Grand-Duché de Luxembourg.
+- Dans les cas prévus à l’article 1 er , toute personne physique ou morale, luxembourgeois ou étrangère, résidant ou établie au Grand-Duché, peut être requise en vue de l’exécution de tâches d’intérêt public. Peut encore être requise toute entreprise exerçant une activité au Grand-Duché de Luxembourg.
 
-2. Sont exemptés:
+- Sont exemptés:
 
-1. les membres de l’armée,
+  - les membres de l’armée,
 
-2. les membres de la gendarmerie et de la police, pour des prestations autres que celles prévues dans les lois et règlements régissant ces corps,
+  - les membres de la gendarmerie et de la police, pour des prestations autres que celles prévues dans les lois et règlements régissant ces corps,
 
-3. les étrangers, dans la mesure où des traités ou d’autres règles de droit international leur accordent des exemptions,
+  - les étrangers, dans la mesure où des traités ou d’autres règles de droit international leur accordent des exemptions,
 
-4. les ressortissants luxembourgeois occupés d’une manière militaire dont le Grand-Duché fait partie, sauf l’accord de cette organisation.
+  - les ressortissants luxembourgeois occupés d’une manière militaire dont le Grand-Duché fait partie, sauf l’accord de cette organisation.
 
-5. Les agents du Haut-Commissariat à la Protection nationale
+  - Les agents du Haut-Commissariat à la Protection nationale
 
-6. les membres du Corps grand-ducal d’incendie et de secours, pour des prestations autres que celles prévues dans les lois et règlements régissant ce corps.
+  - les membres du Corps grand-ducal d’incendie et de secours, pour des prestations autres que celles prévues dans les lois et règlements régissant ce corps.
 
 <a id="art-n10288"></a>
 ## Art. 9.
@@ -197,11 +197,11 @@ Ces accords ne peuvent stipuler en faveur des prestataires une indemnité supér
 
 L’autorité requérante fait adresser directement des réquisitions aux prestataires:
 
-1. en cas d’urgence,
+- en cas d’urgence,
 
-2. si l’ordre de réquisition ne peut être notifié à l’autorité communale,
+- si l’ordre de réquisition ne peut être notifié à l’autorité communale,
 
-3. si le collège des bourgmestre et échevins refuse ou néglige de faire exécuter la réquisition.
+- si le collège des bourgmestre et échevins refuse ou néglige de faire exécuter la réquisition.
 
 <a id="art-n1067f"></a>
 ## Art. 28.
@@ -292,13 +292,13 @@ Les présentes dispositions sont pareillement applicables lorsque les faites dom
 
 Est à considérer comme réquisition au sens des présentes dispositions:
 
-1. la prtésence imposée ou autorisée dans une installation de l’autorité auyant prononcé l’ordre de réquisition ou en tout autre lieu de service pendant la période de réquisition;
+- la prtésence imposée ou autorisée dans une installation de l’autorité auyant prononcé l’ordre de réquisition ou en tout autre lieu de service pendant la période de réquisition;
 
-2. la présence en tout autre lieu si elle a été organisée par l’autorité requérante;
+- la présence en tout autre lieu si elle a été organisée par l’autorité requérante;
 
-3. la comparution, sur convocation, devant cette autorité;
+- la comparution, sur convocation, devant cette autorité;
 
-4. le trajet effectué dans l’un ou l’autre sens, soit du domicile ou de la résidence habituelle au lieu de service, soit de ce dernier au lieu imposé par l’autorité requérante: Toutefois la présence dans un intérêt privé en dehors d’un lieu de service n’est pas couverte par la présente disposition. L’accident de trajet survenu aux requis à l’occasion de la permission de sortir n’impliquant pas de destination précise donne lieu à indemnisation s’il se situe au parcours effectué dans le rayon de circulation autorisé, soit entre le lieu de service et le lieu où le parcours est interrompu dans un intérêt privé, soit entre le lieu où l’activité privée du requis a pris fin et le lieu de service.
+- le trajet effectué dans l’un ou l’autre sens, soit du domicile ou de la résidence habituelle au lieu de service, soit de ce dernier au lieu imposé par l’autorité requérante: Toutefois la présence dans un intérêt privé en dehors d’un lieu de service n’est pas couverte par la présente disposition. L’accident de trajet survenu aux requis à l’occasion de la permission de sortir n’impliquant pas de destination précise donne lieu à indemnisation s’il se situe au parcours effectué dans le rayon de circulation autorisé, soit entre le lieu de service et le lieu où le parcours est interrompu dans un intérêt privé, soit entre le lieu où l’activité privée du requis a pris fin et le lieu de service.
 
 <a id="art-n1098f"></a>
 ## Art. 41.
@@ -372,32 +372,32 @@ Le livre Ier du code pénal ainsi que la loi du 18 juin 1879 portant attribution
 
 Ne peuvent être requis:
 
-1. les biens meubles et immeubles appartenant à la Maison grand-ducale et ceux parmis par l'Etat à la disposition du Grand-Duc pour l'exercice de ses fonctions;
+- les biens meubles et immeubles appartenant à la Maison grand-ducale et ceux parmis par l'Etat à la disposition du Grand-Duc pour l'exercice de ses fonctions;
 
-2. les biens appartenant aux agents de nationalité étrangère du service diplomatique accrédités au Grand-Duché de Luxembourg;
+- les biens appartenant aux agents de nationalité étrangère du service diplomatique accrédités au Grand-Duché de Luxembourg;
 
-3. les biens que possèdent, au lieu de leur résidence officielle, les agents du service consulaire étranger, nationaux du pays qui les nomme;
+- les biens que possèdent, au lieu de leur résidence officielle, les agents du service consulaire étranger, nationaux du pays qui les nomme;
 
-4. les biens indispensables aux services des administrations publiques.
+- les biens indispensables aux services des administrations publiques.
 
 <a id="art-n10c03"></a>
 ## Art. 2.
 
 Ne peuvent être requis:
 
-1. les vivres nécessaires, pendant quinze jours, à une personne vivant seule ou aux membres d'une famille vivant sous le même toit;
+- les vivres nécessaires, pendant quinze jours, à une personne vivant seule ou aux membres d'une famille vivant sous le même toit;
 
-2. les vêtements et sous-vêtements ainsi que les chambres, objets de couchage et de première nécessité indispensables à une personne vivant seule ou aux membres d'une famille vivant sous le même toit;
+- les vêtements et sous-vêtements ainsi que les chambres, objets de couchage et de première nécessité indispensables à une personne vivant seule ou aux membres d'une famille vivant sous le même toit;
 
-3. les moyens de se chauffer et de s'éclairer pendant un mois;
+- les moyens de se chauffer et de s'éclairer pendant un mois;
 
-4. les outils, instruments, machines, engins, véhicules et tous appareils meubles ou immeubles indispensables à l'exercice d'une profession ou à l'exploitation d'un établissement industriel, commercial, artisanal ou agricole à l'exception des véhicules indispensables à l'évacuation de personnes;
+- les outils, instruments, machines, engins, véhicules et tous appareils meubles ou immeubles indispensables à l'exercice d'une profession ou à l'exploitation d'un établissement industriel, commercial, artisanal ou agricole à l'exception des véhicules indispensables à l'évacuation de personnes;
 
-5. les pailles et fourrages nécessaires, pendant trente jours, aux animaux du détenteur;
+- les pailles et fourrages nécessaires, pendant trente jours, aux animaux du détenteur;
 
-6. les ambulances ainsi que les autres véhicules indispensables aux services d'urgence, notamment ceux affectés aux services des cliniques et hôpitaux, de la protection civile, des pompiers et des pompes funèbres;
+- les ambulances ainsi que les autres véhicules indispensables aux services d'urgence, notamment ceux affectés aux services des cliniques et hôpitaux, de la protection civile, des pompiers et des pompes funèbres;
 
-7. les véhicules dont les médecins ont besoin pour l'exercice de leur profession, à raison d'un véhicule par médecin.
+- les véhicules dont les médecins ont besoin pour l'exercice de leur profession, à raison d'un véhicule par médecin.
 
 <a id="art-n10c2c"></a>
 ## Art. 3.
@@ -411,9 +411,9 @@ Des prestations de logement ne peuvent être requises des habitants qu'au cas o�
 
 Il est interdit de requérir des prestations de logement:
 
-1. dans les maisons dans lesquelles se trouvent une ou plusieurs personnes atteintes d'une maladie grave ou contagieuse, à l'exception des dépendances, écuries, granges et remises de ces maisons;
+- dans les maisons dans lesquelles se trouvent une ou plusieurs personnes atteintes d'une maladie grave ou contagieuse, à l'exception des dépendances, écuries, granges et remises de ces maisons;
 
-2. les bâtiments réservés à l'hospitalisation des malades et des blessés.
+- les bâtiments réservés à l'hospitalisation des malades et des blessés.
 
 <a id="art-n10c59"></a>
 ## Art. 5.
@@ -436,11 +436,11 @@ L'ordre de réquisition est libellé conformément à la formule 1 annexée au p
 
 Il indique:
 
-1. les nom, prénoms et qualité de l'agent requérant, l'administration ou le service dont il fait partie, l'autorité requérante et la date à laquelle cette autorité a délégué l'agent de procéder à la réquisition;
+- les nom, prénoms et qualité de l'agent requérant, l'administration ou le service dont il fait partie, l'autorité requérante et la date à laquelle cette autorité a délégué l'agent de procéder à la réquisition;
 
-2. la commune qui doit fournir les prestations exigées et, en cas de réquisition directe, les nom, prénoms et adresse de la personne qui doit fournir les prestations;
+- la commune qui doit fournir les prestations exigées et, en cas de réquisition directe, les nom, prénoms et adresse de la personne qui doit fournir les prestations;
 
-3. le lieu, le jour et l'heure fixés pour la fourniture des prestations, ainsi que la nature et la quantité de celles-ci.
+- le lieu, le jour et l'heure fixés pour la fourniture des prestations, ainsi que la nature et la quantité de celles-ci.
 
 L'ordre de réquisition est daté et signé par l'agent requérant qui y appose le cachet de l'administration ou du service dont il fait partie.
 
@@ -463,13 +463,13 @@ Le billet de réquisition est libellé conformément à la formule 2 annexée au
 
 Il indique:
 
-1. la commune requérante et le district dont cette commune fait partie;
+- la commune requérante et le district dont cette commune fait partie;
 
-2. les nom, prénoms et adresse de la personne qui doit fournir les prestations;
+- les nom, prénoms et adresse de la personne qui doit fournir les prestations;
 
-3. le numéro et la date de l'ordre de réquisition en exécution duquel le billet est établi et l'autorité requérante;
+- le numéro et la date de l'ordre de réquisition en exécution duquel le billet est établi et l'autorité requérante;
 
-4. le lieu, le jour et l'heure fixés pour la fourniture des prestations, ainsi que la nature et la quantité de celles-ci.
+- le lieu, le jour et l'heure fixés pour la fourniture des prestations, ainsi que la nature et la quantité de celles-ci.
 
 Le billet de réquisition est daté et signé par le délégué du collège des bourgmestre et échevins qui y appose le cachet de la commune.
 
@@ -483,15 +483,15 @@ Aux lieu, date et heure indiqués sur les billets de réquisition, les agents de
 
 Le reçu des prestations fournies indique:
 
-1. la commune requérante et le district dont cette commune fait partie;
+- la commune requérante et le district dont cette commune fait partie;
 
-2. le numéro et la date du billet de réquisition;
+- le numéro et la date du billet de réquisition;
 
-3. les nom et prénoms du délégué du collège des bourgmestre et échevins qui a reçu les prestations;
+- les nom et prénoms du délégué du collège des bourgmestre et échevins qui a reçu les prestations;
 
-4. les nom,prénoms et adresse de la personne qui a fourni les prestations ainsi que les lieu, jour et heure de la fourniture des prestations;
+- les nom,prénoms et adresse de la personne qui a fourni les prestations ainsi que les lieu, jour et heure de la fourniture des prestations;
 
-5. la nature et la quantité des prestations effectivement fournies.
+- la nature et la quantité des prestations effectivement fournies.
 
 Au cas où les prestations fournies ne correspondent pas par leur nature ou par la quantité à celles mentionnées sur le billet de réquisition, le reçu énonce les différences et les raisons pouvant justifier celles-ci.
 
@@ -504,13 +504,13 @@ Lorsque l'administration communale a reçu les prestations requises, le collège
 
 Cet état indique:
 
-1. la commune et le district dont elle fait partie;
+- la commune et le district dont elle fait partie;
 
-2. le numéro et la date de l'ordre de réquisition;
+- le numéro et la date de l'ordre de réquisition;
 
-3. les nom et prénoms des prestataires, la nature et la quantité des prestations fournies, ainsi que les lieu, jour et heure de la réception des prestations;
+- les nom et prénoms des prestataires, la nature et la quantité des prestations fournies, ainsi que les lieu, jour et heure de la réception des prestations;
 
-4. les nom et prénoms du délégué du collège des bourgmestre et échevins qui a reçu les prestations requises.
+- les nom et prénoms du délégué du collège des bourgmestre et échevins qui a reçu les prestations requises.
 
 Au cas où les prestations fournies ne correspondent pas par leur nature ou par leur quantité à celles mentionnées sur l'ordre de réquisition, l'état indique les différences et les raisons pouvant justifier celles-ci.
 
@@ -526,15 +526,15 @@ L'autorité requérante reçoit les prestations exigées en présence d'un dél�
 
 Le reçu des prestations fournies à l'autorité requérante indique:
 
-1. l'autorité requérante;
+- l'autorité requérante;
 
-2. le numéro et la date de l'ordre de réquisition;
+- le numéro et la date de l'ordre de réquisition;
 
-3. les nom, prénoms et qualité de l'agent qui reçoit les prestations, ainsi que l'administration ou le service dont il fait partie;
+- les nom, prénoms et qualité de l'agent qui reçoit les prestations, ainsi que l'administration ou le service dont il fait partie;
 
-4. les nom, prénoms et adresse du délégué du collège des bourgmestre et échevins de la commune qui a délivré les prestations. En cas de réquisition directe, le reçu indique les nom, prénoms et adresse de la personne qui a fourni les prestations. Il est fait mention sur le reçu des circonstances qui ont déterminé la réquisition directe.
+- les nom, prénoms et adresse du délégué du collège des bourgmestre et échevins de la commune qui a délivré les prestations. En cas de réquisition directe, le reçu indique les nom, prénoms et adresse de la personne qui a fourni les prestations. Il est fait mention sur le reçu des circonstances qui ont déterminé la réquisition directe.
 
-5. la nature et la quantité des prestations fournies. Au cas où ces prestations ne correspondent pas par leur nature ou leur quantité à celles mentionnées sur l'ordre de réquisition, le reçu indique les différences et les raisons pouvant justifier celles-ci.
+- la nature et la quantité des prestations fournies. Au cas où ces prestations ne correspondent pas par leur nature ou leur quantité à celles mentionnées sur l'ordre de réquisition, le reçu indique les différences et les raisons pouvant justifier celles-ci.
 
 Le reçu est daté et signé par l'agent qui reçoit les prestations fournies, lequel y appose le cachet de l'administration ou du service dont il fait partie.
 

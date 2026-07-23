@@ -26,6 +26,12 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 ## LIVRE INTRODUCTIF
 
+Les conventions figurant à l’annexe 1 de la loi du 9 novembre 1990 portant approbation de certaines conventions internationales en matière maritime se rapportent au présent livre introductif.
+
+- Convention portant création de l’organisation maritime internationale, 6 mars 1948, telle que modifiée.
+
+- Convention visant à faciliter le trafic maritime international, 1965, telle qu’elle a été modifiée.
+
 ### Titre 1er Principes généraux applicables au registre
 
 <a id="art-0-1-0-1"></a>
@@ -52,19 +58,19 @@ Il est institué un Commissariat aux affaires maritimes dirigé par le commissai
 
 Le commissaire est nommé par le Grand-Duc, sur proposition du Gouvernement en conseil. Le commissaire figurera dans la carrière supérieure de l’Administration et son grade de computation de la bonification d’ancienneté est le grade 12. Le commissaire aura pour missions :
 
-1. d’instruire les demandes d’immatriculation et de délivrer les certificats nécessaires, s’il estime que la personne physique ou morale qui sollicite l’immatriculation offre les garanties nécessaires ;
+- d’instruire les demandes d’immatriculation et de délivrer les certificats nécessaires, s’il estime que la personne physique ou morale qui sollicite l’immatriculation offre les garanties nécessaires ;
 
-2. de contrôler que les personnes physiques ou morales chargées de la gestion de la société, sollicitant l’immatriculation, possèdent l’honorabilité professionnelle nécessaire et l’expérience adéquate pour l’exercice de leur fonction ;
+- de contrôler que les personnes physiques ou morales chargées de la gestion de la société, sollicitant l’immatriculation, possèdent l’honorabilité professionnelle nécessaire et l’expérience adéquate pour l’exercice de leur fonction ;
 
-3. de veiller à l’application des dispositions de la présente loi et des règlements qui en découlent sans préjudice des attributions des autres administrations ;
+- de veiller à l’application des dispositions de la présente loi et des règlements qui en découlent sans préjudice des attributions des autres administrations ;
 
-4. d’assurer la coordination de l’exécution de la présente loi et des règlements qui en découlent ;
+- d’assurer la coordination de l’exécution de la présente loi et des règlements qui en découlent ;
 
-5. de suivre l’évolution du droit international, notamment au sein de l’Union européenne, en matière d’immatriculation de navires de mer et de présenter au Gouvernement le cas échéant les suggestions susceptibles de maintenir ou d’accroître l’attrait du registre ;
+- de suivre l’évolution du droit international, notamment au sein de l’Union européenne, en matière d’immatriculation de navires de mer et de présenter au Gouvernement le cas échéant les suggestions susceptibles de maintenir ou d’accroître l’attrait du registre ;
 
-6. d’examiner toutes autres questions ayant trait au registre que le ministre lui soumettra ou pour lesquelles le ministre lui aurait fait une délégation de pouvoirs ;
+- d’examiner toutes autres questions ayant trait au registre que le ministre lui soumettra ou pour lesquelles le ministre lui aurait fait une délégation de pouvoirs ;
 
-7. de statuer sur les recours dirigés contre les décisions des capitaines en matière de discipline.
+- de statuer sur les recours dirigés contre les décisions des capitaines en matière de discipline.
 
 Le commissaire peut refuser d’immatriculer ou peut radier les navires appartenant à des personnes physiques ou morales qui ne remplissent pas les conditions exigées par la présente loi ou ses règlements d’application.
 
@@ -89,6 +95,10 @@ En application de l’article 2, paragraphe 1er, lettre f) de la loi modifiée d
 L’employé de l’État, travaillant au sein du Commissariat aux affaires maritimes, peut être admis au statut de fonctionnaire de l’État dans les conditions et suivant les modalités prévues à l’article 80 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État. Par dérogation à l’article 80, paragraphe 1er, lettre b), de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, l’employé de l’État exerçant les fonctions de conseiller technique ou de conseiller juridique auprès du Commissariat aux affaires maritimes peut choisir de remplacer soit la langue allemande soit la langue française par l’anglais. Il devra alors démontrer une connaissance de l’anglais équivalente à celle qui aurait été requise pour la langue remplacée.
 
 ## LIVRE 1. L’IMMATRICULATION DES NAVIRES ET LES HYPOTHEQUES
+
+La convention se rapportant au présent livre figure à l’annexe 2 de la loi du 9 novembre 1990 portant approbation de certaines conventions internationales en matière maritime.
+
+- Convention internationale pour l’unification de certaines règles relatives aux privilèges et hypothèques maritimes et Protocole de signature, Bruxelles, 10 avril 1926.
 
 ### Titre 1er. De l’immatriculation et du navire
 
@@ -130,11 +140,11 @@ Exploitant: Est considéré comme exploitant la personne physique ou morale qui 
 
 Peuvent être immatriculés au registre maritime luxembourgeois les navires :
 
-1. soit appartenant pour moitié au moins à des ressortissants d’un État Membre de l’Union européenne ou d’un État partie à l’Accord sur l’Espace économique européen sous réserve que tout ou du moins une partie significative de la gestion du navire soit effectuée à partir du Luxembourg ;
+- soit appartenant pour moitié au moins à des ressortissants d’un État Membre de l’Union européenne ou d’un État partie à l’Accord sur l’Espace économique européen sous réserve que tout ou du moins une partie significative de la gestion du navire soit effectuée à partir du Luxembourg ;
 
-2. soit appartenant pour moitié au moins à des sociétés ayant leur siège social ou leur principal établissement sur le territoire d’un État Membre de l’Union européenne ou d’un État partie à l’Accord sur l’Espace économique européen, sous réserve que tout ou du moins une partie significative de la gestion du navire soit effectuée à partir du Luxembourg ;
+- soit appartenant pour moitié au moins à des sociétés ayant leur siège social ou leur principal établissement sur le territoire d’un État Membre de l’Union européenne ou d’un État partie à l’Accord sur l’Espace économique européen, sous réserve que tout ou du moins une partie significative de la gestion du navire soit effectuée à partir du Luxembourg ;
 
-3. soit appartenant pour moitié au moins à des ressortissants d’un État Membre de l’Union européenne ou d’un État partie à l’Accord sur l’Espace économique européen et à des sociétés ayant leur siège social ou leur principal établissement sur le territoire d’un État Membre de l’Union européenne ou d’un État partie à l’Accord sur l’Espace économique européen, sous réserve que tout ou du moins une partie significative de la gestion du navire soit effectuée à partir du Luxembourg.
+- soit appartenant pour moitié au moins à des ressortissants d’un État Membre de l’Union européenne ou d’un État partie à l’Accord sur l’Espace économique européen et à des sociétés ayant leur siège social ou leur principal établissement sur le territoire d’un État Membre de l’Union européenne ou d’un État partie à l’Accord sur l’Espace économique européen, sous réserve que tout ou du moins une partie significative de la gestion du navire soit effectuée à partir du Luxembourg.
 
 (2)
 
@@ -189,27 +199,27 @@ L’immatriculation à l’étranger d’un navire immatriculé au registre mari
 
 De la pleine immatriculation
 
-1. La déclaration pour une pleine immatriculation indiquera:
+- La déclaration pour une pleine immatriculation indiquera:
 
-1. le nom actuel du navire et le nom proposé pour l’immatriculation du navire à Luxembourg;
+  - le nom actuel du navire et le nom proposé pour l’immatriculation du navire à Luxembourg;
 
-2. le numéro OMI du navire;
+  - le numéro OMI du navire;
 
-3. éventuellement les données relatives à l’immatriculation précédente, respectivement une attestation de radiation délivrée par l’autorité compétente du pays où le navire était immatriculé;
+  - éventuellement les données relatives à l’immatriculation précédente, respectivement une attestation de radiation délivrée par l’autorité compétente du pays où le navire était immatriculé;
 
-4. les noms et adresses des personnes ayant des droits sur le navire, la nature et la quotité des droits;
+  - les noms et adresses des personnes ayant des droits sur le navire, la nature et la quotité des droits;
 
-5. les noms et adresses de l’exploitant du navire et le lieu d’où l’exploitation du navire est dirigée;
+  - les noms et adresses de l’exploitant du navire et le lieu d’où l’exploitation du navire est dirigée;
 
-6. les noms et adresse du déclarant autorisé à immatriculer le navire.
+  - les noms et adresse du déclarant autorisé à immatriculer le navire.
 
-2. La déclaration sera complétée par les documents suivants:
+- La déclaration sera complétée par les documents suivants:
 
-1. la preuve de la nationalité des déclarants;
+  - la preuve de la nationalité des déclarants;
 
-2. l’acte constitutif, translatif ou déclaratif des droits de propriété ou d’usufruit si cet acte est sous seing privé ou d’une expédition s’il s’agit d’un acte authentique. Un double de l’acte sous seing privé ou une copie certifiée conforme de l’acte authentique restera déposée au bureau du conservateur des hypothèques;
+  - l’acte constitutif, translatif ou déclaratif des droits de propriété ou d’usufruit si cet acte est sous seing privé ou d’une expédition s’il s’agit d’un acte authentique. Un double de l’acte sous seing privé ou une copie certifiée conforme de l’acte authentique restera déposée au bureau du conservateur des hypothèques;
 
-3. le consentement des propriétaires relatif à l’immatriculation du navire au registre maritime luxembourgeois certifié par acte public.
+  - le consentement des propriétaires relatif à l’immatriculation du navire au registre maritime luxembourgeois certifié par acte public.
 
 Tant que l’attestation visée au paragraphe 1.c) fait défaut, l’immatriculation au registre maritime luxembourgeois portera une mention indiquant que les effets des inscriptions sont subordonnés à la condition que l’immatriculation antérieurement prise soit radiée et un certificat d’immatriculation provisoire pourra seulement être délivré.
 
@@ -226,23 +236,23 @@ En dehors des données à fournir pour la pleine immatriculation telles qu’én
 
 La déclaration d’immatriculation sera complétée par les documents suivants:
 
-1. la preuve de la nationalité de chacune des personnes et les statuts de chacune des sociétés commerciales qui ont affrété le navire;
+- la preuve de la nationalité de chacune des personnes et les statuts de chacune des sociétés commerciales qui ont affrété le navire;
 
-2. une copie certifiée conforme par un notaire de la charte-partie sous coque nue y compris toutes les annexes, ainsi que d’éventuelles chartes-parties de sous-affrètement;
+- une copie certifiée conforme par un notaire de la charte-partie sous coque nue y compris toutes les annexes, ainsi que d’éventuelles chartes-parties de sous-affrètement;
 
-3. le consentement des créanciers hypothécaires relatif à l’immatriculation du navire au registre maritime luxembourgeois certifié par acte public;
+- le consentement des créanciers hypothécaires relatif à l’immatriculation du navire au registre maritime luxembourgeois certifié par acte public;
 
-4. un certificat délivré par l’Etat de pavillon étranger constatant la propriété du navire et toute charge financière qui le grève le cas échéant;
+- un certificat délivré par l’Etat de pavillon étranger constatant la propriété du navire et toute charge financière qui le grève le cas échéant;
 
-5. le cas échéant l’autorisation des autorités étrangères pour fréter le navire coque nue, respectivement une déclaration qu’une telle autorisation n’est pas requise et que la législation de cet Etat autorise le frètement coque nue;
+- le cas échéant l’autorisation des autorités étrangères pour fréter le navire coque nue, respectivement une déclaration qu’une telle autorisation n’est pas requise et que la législation de cet Etat autorise le frètement coque nue;
 
-6. un engagement exprès de l’affréteur que:
+- un engagement exprès de l’affréteur que:
 
-1. le navire battra exclusivement pavillon luxembourgeois et affichera «Luxembourg» comme port d’attache aussi longtemps que le navire sera exploité sous affrètement coque nue;
+  - le navire battra exclusivement pavillon luxembourgeois et affichera «Luxembourg» comme port d’attache aussi longtemps que le navire sera exploité sous affrètement coque nue;
 
-2. l’affréteur informera le Commissariat aux affaires maritimes et le bureau de la conservation des hypothèques lorsque l’affrètement coque nue a pris fin pour quelque raison que ce soit ou lorsqu’un Etat de pavillon tiers a accordé le droit de battre son pavillon au navire;
+  - l’affréteur informera le Commissariat aux affaires maritimes et le bureau de la conservation des hypothèques lorsque l’affrètement coque nue a pris fin pour quelque raison que ce soit ou lorsqu’un Etat de pavillon tiers a accordé le droit de battre son pavillon au navire;
 
-3. la remise de tous les certificats délivrés par les autorités luxembourgeoises se fera endéans les trente jours à partir du moment où la charte-partie d’affrètement viendra à terme respectivement à partir de la radiation de l’immatriculation au Grand-Duché de Luxembourg.
+  - la remise de tous les certificats délivrés par les autorités luxembourgeoises se fera endéans les trente jours à partir du moment où la charte-partie d’affrètement viendra à terme respectivement à partir de la radiation de l’immatriculation au Grand-Duché de Luxembourg.
 
 Le règlement ministériel visé à l’article 1.1.1-3 complétera la liste des renseignements à fournir.
 
@@ -270,45 +280,45 @@ Le frètement coque nue d’un navire faisant l’objet d’une pleine immatricu
 
 La demande indiquera:
 
-1. le nom du navire;
+- le nom du navire;
 
-2. le numéro d’immatriculation du navire;
+- le numéro d’immatriculation du navire;
 
-3. les noms et adresse du déclarant;
+- les noms et adresse du déclarant;
 
-4. les noms et adresse de l’affréteur;
+- les noms et adresse de l’affréteur;
 
-5. les coordonnées du registre étranger où sera inscrit le navire.
+- les coordonnées du registre étranger où sera inscrit le navire.
 
 2.
 
 La demande sera accompagnée des documents suivants:
 
-1. une copie certifiée conforme par un notaire de la charte-partie coque nue, y compris toutes les annexes ainsi que d’éventuelles chartes-parties de sous-affrètement;
+- une copie certifiée conforme par un notaire de la charte-partie coque nue, y compris toutes les annexes ainsi que d’éventuelles chartes-parties de sous-affrètement;
 
-2. un extrait du registre matricule délivré par le conservateur des hypothèques maritimes constatant la propriété du navire et les hypothèques inscrites;
+- un extrait du registre matricule délivré par le conservateur des hypothèques maritimes constatant la propriété du navire et les hypothèques inscrites;
 
-3. une copie certifiée conforme par un notaire du consentement du propriétaire et des créanciers hypothécaires éventuels à l’immatriculation du navire coque nue dans un Etat de pavillon étranger;
+- une copie certifiée conforme par un notaire du consentement du propriétaire et des créanciers hypothécaires éventuels à l’immatriculation du navire coque nue dans un Etat de pavillon étranger;
 
-4. un engagement formel du propriétaire:
+- un engagement formel du propriétaire:
 
-1. de remettre au commissaire endéans les trente jours de l’autorisation de frètement, respectivement endéans trente jours après le commencement de ce frètement, tout certificat délivré par ou sous l’autorité du Luxembourg, ainsi qu’une copie certifiée conforme du certificat d’immatriculation délivré par l’Etat étranger;
+  - de remettre au commissaire endéans les trente jours de l’autorisation de frètement, respectivement endéans trente jours après le commencement de ce frètement, tout certificat délivré par ou sous l’autorité du Luxembourg, ainsi qu’une copie certifiée conforme du certificat d’immatriculation délivré par l’Etat étranger;
 
-2. d’informer le Commissariat aux affaires maritimes, qui transmettra au conservateur que la charte-partie de frètement coque nue est venue à terme, pour quelque raison que ce soit et que le propriétaire a repris le navire en charge;
+  - d’informer le Commissariat aux affaires maritimes, qui transmettra au conservateur que la charte-partie de frètement coque nue est venue à terme, pour quelque raison que ce soit et que le propriétaire a repris le navire en charge;
 
-5. une convention écrite entre le propriétaire et l’affréteur, stipulant expressément:
+- une convention écrite entre le propriétaire et l’affréteur, stipulant expressément:
 
-1. la renonciation à battre pavillon luxembourgeois et à afficher «Luxembourg» comme port d’attache pendant toute la durée que le navire se trouvera en frètement coque nue;
+  - la renonciation à battre pavillon luxembourgeois et à afficher «Luxembourg» comme port d’attache pendant toute la durée que le navire se trouvera en frètement coque nue;
 
-2. le maintien le plus strict de toutes les normes de sécurité technique imposées par la législation maritime luxembourgeoise, ou par les conventions internationales auxquelles le Luxembourg est partie pendant toute la durée du frètement ainsi que le maintien des standards sociaux luxembourgeois si le navire est frété avec équipage;
+  - le maintien le plus strict de toutes les normes de sécurité technique imposées par la législation maritime luxembourgeoise, ou par les conventions internationales auxquelles le Luxembourg est partie pendant toute la durée du frètement ainsi que le maintien des standards sociaux luxembourgeois si le navire est frété avec équipage;
 
-3. la suspension temporaire de tous les endossements pour homologation des certificats de bord, estampillés sous l’autorité du Luxembourg;
+  - la suspension temporaire de tous les endossements pour homologation des certificats de bord, estampillés sous l’autorité du Luxembourg;
 
-4. que s’il se produit en cours du frètement coque nue un accident majeur, résultant en la perte du navire, en de sérieux dégâts à des biens ou à l’environnement, le propriétaire et l’affréteur garantissent pleine coopération pour faciliter aux experts désignés par le commissaire les enquêtes et les interrogatoires du capitaine et de l’équipage s’avérant nécessaires;
+  - que s’il se produit en cours du frètement coque nue un accident majeur, résultant en la perte du navire, en de sérieux dégâts à des biens ou à l’environnement, le propriétaire et l’affréteur garantissent pleine coopération pour faciliter aux experts désignés par le commissaire les enquêtes et les interrogatoires du capitaine et de l’équipage s’avérant nécessaires;
 
-5. que tous modifications ou ajouts ultérieurs à la convention initiale entre parties ainsi que tout sous-affrètement subséquent devront être notifiés au Commissariat aux affaires maritimes avec indication quant à leur incidence sur la teneur de la convention de base. Ces modifications et/ou ajouts seront également sujets au consentement par écrit de la part des créanciers privilégiés ou hypothécaires dont les intérêts sont en cause.
+  - que tous modifications ou ajouts ultérieurs à la convention initiale entre parties ainsi que tout sous-affrètement subséquent devront être notifiés au Commissariat aux affaires maritimes avec indication quant à leur incidence sur la teneur de la convention de base. Ces modifications et/ou ajouts seront également sujets au consentement par écrit de la part des créanciers privilégiés ou hypothécaires dont les intérêts sont en cause.
 
-6. Une déclaration de principe des autorités étrangères que le navire peut être immatriculé en coque nue ainsi qu’une attestation que rien ne s’oppose à ce que les inscriptions relatives à la propriétê du navire et les droits réels le grevant restent inscrits au registre maritime luxembourgeois.
+- Une déclaration de principe des autorités étrangères que le navire peut être immatriculé en coque nue ainsi qu’une attestation que rien ne s’oppose à ce que les inscriptions relatives à la propriétê du navire et les droits réels le grevant restent inscrits au registre maritime luxembourgeois.
 
 Le règlement ministériel visé à l’article 1.1.1-3 complétera la liste des informations à fournir
 
@@ -336,35 +346,35 @@ Evénements entraînant la perte de la nationalité
 
 Le navire perd la nationalité:
 
-1. en cas de démolition ou de perte par naufrage;
+- en cas de démolition ou de perte par naufrage;
 
-2. en cas de non renouvellement du certificat d’immatriculation à l’expiration de celui-ci;
+- en cas de non renouvellement du certificat d’immatriculation à l’expiration de celui-ci;
 
-3. en cas de retrait de l’autorisation ministérielle prévue à l’article 1.1.1-4 ;
+- en cas de retrait de l’autorisation ministérielle prévue à l’article 1.1.1-4 ;
 
-4. lorsque les conditions de l’article 1.1.1-2 ne sont plus remplies.
+- lorsque les conditions de l’article 1.1.1-2 ne sont plus remplies.
 
 <a id="art-1-1-1-13"></a>
 ## Art. 1.1.1-13.
 
 Effets de la perte de nationalité
 
-1. La perte de la nationalité luxembourgeoise entraîne la radiation de l’immatriculation.Toutefois, la radiation laisse subsister les inscriptions relatives aux droits réels qui ont grevé le navire en pleine immatriculation et n’empêche pas la radiation, la réduction ou le renouvellement ultérieur de ces inscriptions.
+- La perte de la nationalité luxembourgeoise entraîne la radiation de l’immatriculation.Toutefois, la radiation laisse subsister les inscriptions relatives aux droits réels qui ont grevé le navire en pleine immatriculation et n’empêche pas la radiation, la réduction ou le renouvellement ultérieur de ces inscriptions.
 
-2. Aucune radiation des inscriptions relatives aux droits réels d’un navire ayant fait l’objet d’une pleine immatriculation ne peut être effectuée que trente jours après la date où tous les créanciers inscrits à la conservation des hypothèques maritimes et tous les tiers qui y ont fait inscrire un exploit de saisie, ont été avisés par le conservateur des hypothèques. Cette notification doit être faite par lettre recommandée à la poste, qui peut être adressée au domicile de l’inscrit.
+- Aucune radiation des inscriptions relatives aux droits réels d’un navire ayant fait l’objet d’une pleine immatriculation ne peut être effectuée que trente jours après la date où tous les créanciers inscrits à la conservation des hypothèques maritimes et tous les tiers qui y ont fait inscrire un exploit de saisie, ont été avisés par le conservateur des hypothèques. Cette notification doit être faite par lettre recommandée à la poste, qui peut être adressée au domicile de l’inscrit.
 
-3. La perte de la nationalité a pour effet la perte du droit d’arborer le pavillon luxembourgeois. Cette mesure prend effet avec la notification intervenant aux termes du paragraphe 1 ou 2 de l’article 1.1.1-14 .
+- La perte de la nationalité a pour effet la perte du droit d’arborer le pavillon luxembourgeois. Cette mesure prend effet avec la notification intervenant aux termes du paragraphe 1 ou 2 de l’article 1.1.1-14 .
 
 <a id="art-1-1-1-14"></a>
 ## Art. 1.1.1-14.
 
 Procédure de radiation
 
-1. Dans les cas où le navire perd la nationalité luxembourgeoise à la suite d’un événement autre que le retrait de l’autorisation ministérielle ou le non renouvellement du certificat d’immatriculation, cet événement est, dans les trente jours à compter de la date où il s’est produit, notifié au Commissaire aux affaires maritimes , par une des personnes au nom de qui le navire est immatriculé. La notification est accompagnée du document, dressé en double, constatant l’événement. S’il s’agit toutefois d’un acte authentique, une expédition de celui-ci accompagnée d’une copie certifiée conforme doit être produite. La notification agréée par le Commissaire aux affaires maritimes sera présentée avec les documents au conservateur des hypothèques aux fins d’inscription au registre matricule. Le double du document ou la copie certifiée conforme de l’acte authentique, et éventuellement les duplicata restent déposés au bureau du conservateur des hypothèques contre récépissé pour annulation. Sans préjudice des dispositions de l’article 1.1.1-13 paragraphe 2, le conservateur des hypothèques délivrera un certificat de radiation.
+- Dans les cas où le navire perd la nationalité luxembourgeoise à la suite d’un événement autre que le retrait de l’autorisation ministérielle ou le non renouvellement du certificat d’immatriculation, cet événement est, dans les trente jours à compter de la date où il s’est produit, notifié au Commissaire aux affaires maritimes , par une des personnes au nom de qui le navire est immatriculé. La notification est accompagnée du document, dressé en double, constatant l’événement. S’il s’agit toutefois d’un acte authentique, une expédition de celui-ci accompagnée d’une copie certifiée conforme doit être produite. La notification agréée par le Commissaire aux affaires maritimes sera présentée avec les documents au conservateur des hypothèques aux fins d’inscription au registre matricule. Le double du document ou la copie certifiée conforme de l’acte authentique, et éventuellement les duplicata restent déposés au bureau du conservateur des hypothèques contre récépissé pour annulation. Sans préjudice des dispositions de l’article 1.1.1-13 paragraphe 2, le conservateur des hypothèques délivrera un certificat de radiation.
 
-2. Dans le cas où la perte de la nationalité luxembourgeoise résulte du retrait de l’autorisation ministérielle, le ministre communique d’office au conservateur des hypothèques une copie certifiée conforme de sa décision.
+- Dans le cas où la perte de la nationalité luxembourgeoise résulte du retrait de l’autorisation ministérielle, le ministre communique d’office au conservateur des hypothèques une copie certifiée conforme de sa décision.
 
-3. Le certificat d’immatriculation, coupé diagonalement en deux ainsi que les certificats et autres documents prévus par les conventions internationales doivent être restitués au Commissariat aux affaires maritimes par lettre recommandée dans les trente jours de la notification prévue aux paragraphes précédents.
+- Le certificat d’immatriculation, coupé diagonalement en deux ainsi que les certificats et autres documents prévus par les conventions internationales doivent être restitués au Commissariat aux affaires maritimes par lettre recommandée dans les trente jours de la notification prévue aux paragraphes précédents.
 
 #### Chapitre 2 Dispositions relatives au navire
 
@@ -423,11 +433,11 @@ La législation en matière hypothécaire immobilière est applicable pour autan
 
 Un règlement grand-ducal détermine les conditions d’application de la présente loi et notamment :
 
-1. l’organisation et le fonctionnement du bureau de la conservation des hypothèques maritimes;
+- l’organisation et le fonctionnement du bureau de la conservation des hypothèques maritimes;
 
-2. le mode suivant lequel les registres sont tenus;
+- le mode suivant lequel les registres sont tenus;
 
-3. les rétributions à prélever pour l’examen de la déclaration ou de la demande, pour l’immatriculation de tous navires sous pavillon luxembourgeois,pour établir et délivrer les documents,pour conserver,prolonger ou radier l’immatriculation ou une inscription quelconque et pour en permettre la consultation ou pour fournir des informations.
+- les rétributions à prélever pour l’examen de la déclaration ou de la demande, pour l’immatriculation de tous navires sous pavillon luxembourgeois,pour établir et délivrer les documents,pour conserver,prolonger ou radier l’immatriculation ou une inscription quelconque et pour en permettre la consultation ou pour fournir des informations.
 
 Les rétributions à prélever pour l’immatriculation ou la prorogation de l’immatriculation se composent d’une taxe de base annuelle qui ne pourra être inférieure à 1000 ECUS ni supérieure à 3000 ECUS et d’une taxe de première immatriculation ou taxe annuelle qui ne pourra être inférieure à 0,25 ECU ni supérieure à 1,25 ECUS par tonne.
 
@@ -469,13 +479,13 @@ Si l’acte est sous seing privé, il est présenté en deux originaux dont l’
 
 Le conservateur des hypothèques mentionne sur le registre matricule:
 
-1. la date de l’acte;
+- la date de l’acte;
 
-2. la nature de l’acte et, s’il est authentique, la désignation de l’officier public ou du tribunal dont il émane;
+- la nature de l’acte et, s’il est authentique, la désignation de l’officier public ou du tribunal dont il émane;
 
-3. les nom, prénoms, profession et domicile des parties ;
+- les nom, prénoms, profession et domicile des parties ;
 
-4. la nature de la convention et ses éléments principaux.
+- la nature de la convention et ses éléments principaux.
 
 <a id="art-1-3-0-7"></a>
 ## Art. 1.3.0-7.
@@ -494,9 +504,9 @@ Cette formalité opère tous ses effets légaux à condition que dans les trois 
 
 L’inscription exigée par l’article 1.3.0-2 est faite au registre matricule sur la présentation au conservateur :
 
-1. s’il s’agit d’une demande en justice, de deux extraits contenant les nom, prénoms, profession et domicile des parties, les droits dont la constatation, la résolution, la révocation ou l’annulation est demandée et le tribunal qui doit connaître de l’action;
+- s’il s’agit d’une demande en justice, de deux extraits contenant les nom, prénoms, profession et domicile des parties, les droits dont la constatation, la résolution, la révocation ou l’annulation est demandée et le tribunal qui doit connaître de l’action;
 
-2. s’il s’agit d’un jugement, de deux extraits délivrés par le greffier, contenant les nom, prénoms, profession et domicile des parties, le dispositif de la décision et le tribunal ou la cour qui l’a rendue.
+- s’il s’agit d’un jugement, de deux extraits délivrés par le greffier, contenant les nom, prénoms, profession et domicile des parties, le dispositif de la décision et le tribunal ou la cour qui l’a rendue.
 
 Le conservateur remet au requérant un des extraits sur lequel il certifie que l’inscription a été faite.
 
@@ -539,25 +549,25 @@ Le changement de nationalité ne préjudicie pas aux droits existants sur le nav
 <a id="art-1-4-1-1"></a>
 ## Art. 1.4.1-1.
 
-1. Sont seuls privilégiés sur le navire,sur le fret du voyage pendant lequel est née la créance privilégiée et sur les accessoires du navire et du fret acquis depuis le début du voyage :
+- Sont seuls privilégiés sur le navire,sur le fret du voyage pendant lequel est née la créance privilégiée et sur les accessoires du navire et du fret acquis depuis le début du voyage :
 
-1. Les frais de justice dus à l’Etat et dépenses encourues dans l’intérêt commun des créanciers,pour la conservation du navire ou pour parvenir à la vente et à la distribution de son prix;les droits de tonnage,de phare ou de port et les autres taxes et impôts publics de mêmes espèces; les frais de pilotage, les frais de garde et de conservation depuis l’entrée du navire dans le dernier port;
+  - Les frais de justice dus à l’Etat et dépenses encourues dans l’intérêt commun des créanciers,pour la conservation du navire ou pour parvenir à la vente et à la distribution de son prix;les droits de tonnage,de phare ou de port et les autres taxes et impôts publics de mêmes espèces; les frais de pilotage, les frais de garde et de conservation depuis l’entrée du navire dans le dernier port;
 
-2. Les créances résultant du contrat d’engagement des gens de mer et de toutes personnes employées à bord ;
+  - Les créances résultant du contrat d’engagement des gens de mer et de toutes personnes employées à bord ;
 
-3. Les rémunérations dues pour sauvetage et assistance et la contribution du navire aux avaries communes;
+  - Les rémunérations dues pour sauvetage et assistance et la contribution du navire aux avaries communes;
 
-4. Les indemnités pour abordage ou autres accidents de navigation,ainsi que pour dommages causés aux ouvrages d’art des ports, docks et voies navigables; les indemnités pour lésions corporelles aux passagers et aux équipages; les indemnités pour pertes ou avaries de cargaison ou de bagages;
+  - Les indemnités pour abordage ou autres accidents de navigation,ainsi que pour dommages causés aux ouvrages d’art des ports, docks et voies navigables; les indemnités pour lésions corporelles aux passagers et aux équipages; les indemnités pour pertes ou avaries de cargaison ou de bagages;
 
-5. Les créances provenant des contrats passés ou d’opérations effectuées par le capitaine hors du port d’attache, en vertu de ses pouvoirs légaux, pour les besoins réels de la conservation du navire ou de la continuation du voyage, sans distinguer si le capitaine est ou non en même temps propriétaire du navire et si la créance est la sienne ou celle des fournisseurs, réparateurs, prêteurs ou autres contractants.
+  - Les créances provenant des contrats passés ou d’opérations effectuées par le capitaine hors du port d’attache, en vertu de ses pouvoirs légaux, pour les besoins réels de la conservation du navire ou de la continuation du voyage, sans distinguer si le capitaine est ou non en même temps propriétaire du navire et si la créance est la sienne ou celle des fournisseurs, réparateurs, prêteurs ou autres contractants.
 
-2. Les accessoires du navire et du fret visés sous (1) ci-dessus s’entendent :
+- Les accessoires du navire et du fret visés sous (1) ci-dessus s’entendent :
 
-1. Des indemnités dues au propriétaire à raison de dommages matériels subis par le navire et non réparés,ou pour pertes de fret;
+  - Des indemnités dues au propriétaire à raison de dommages matériels subis par le navire et non réparés,ou pour pertes de fret;
 
-2. Des indemnités dues au propriétaire pour avaries communes, en tant que celles-ci constituent soit des dommages matériels subis par le navire et non réparés, soit des pertes de fret;
+  - Des indemnités dues au propriétaire pour avaries communes, en tant que celles-ci constituent soit des dommages matériels subis par le navire et non réparés, soit des pertes de fret;
 
-3. Des rémunérations dues au propriétaire pour assistance prêtée ou sauvetage effectué jusqu’à la fin du voyage, déduction faite des sommes allouées aux capitaine et autres personnes au service du navire.
+  - Des rémunérations dues au propriétaire pour assistance prêtée ou sauvetage effectué jusqu’à la fin du voyage, déduction faite des sommes allouées aux capitaine et autres personnes au service du navire.
 
 Le prix du passage est assimilé au fret.
 
@@ -568,15 +578,15 @@ Par dérogation à l’alinéa a) ci-dessus,le privilège prévu au profit des p
 <a id="art-1-4-1-2"></a>
 ## Art. 1.4.1-2.
 
-1. Les créances se rapportant à un même voyage sont privilégiées dans l’ordre où elles sont rangées au paragraphe 1 er de l’article 1.4.1-1 ci-dessus. Les créances comprises dans chacun des numéros viennent en concurrence et au marc le franc en cas d’insuffisance du prix. Les créances visées aux nos c) et e) sous (1) de l’article 1.4.1-1 , dans chacune de ces catégories, sont remboursées par préférence dans l’ordre inverse des dates où elles sont nées. Les créances se rattachant à un même événement sont réputées nées en même temps.
+- Les créances se rapportant à un même voyage sont privilégiées dans l’ordre où elles sont rangées au paragraphe 1 er de l’article 1.4.1-1 ci-dessus. Les créances comprises dans chacun des numéros viennent en concurrence et au marc le franc en cas d’insuffisance du prix. Les créances visées aux nos c) et e) sous (1) de l’article 1.4.1-1 , dans chacune de ces catégories, sont remboursées par préférence dans l’ordre inverse des dates où elles sont nées. Les créances se rattachant à un même événement sont réputées nées en même temps.
 
-2. Les créances privilégiées du dernier voyage sont préférées à celles des voyages précédents. Toutefois,les créances résultant d’un contrat unique d’engagement portant sur plusieurs voyages viennent toutes au même rang avec les créances du dernier voyage.
+- Les créances privilégiées du dernier voyage sont préférées à celles des voyages précédents. Toutefois,les créances résultant d’un contrat unique d’engagement portant sur plusieurs voyages viennent toutes au même rang avec les créances du dernier voyage.
 
-3. En vue de la distribution du prix de la vente des objets affectés par le privilège,les créanciers privilégiés ont la faculté de produire pour le montant intégral de leurs créances,sans déduction du chef des règles sur la limitation,mais sans que les dividendes leur revenant puissent dépasser la somme due en vertu desdites règles.
+- En vue de la distribution du prix de la vente des objets affectés par le privilège,les créanciers privilégiés ont la faculté de produire pour le montant intégral de leurs créances,sans déduction du chef des règles sur la limitation,mais sans que les dividendes leur revenant puissent dépasser la somme due en vertu desdites règles.
 
-4. Le privilège sur le fret peut être exercé tant que le fret est encore dû ou que le montant du fret se trouve encore entre les mains du capitaine ou de l’agent du propriétaire. Il en est de même du privilège sur les accessoires.
+- Le privilège sur le fret peut être exercé tant que le fret est encore dû ou que le montant du fret se trouve encore entre les mains du capitaine ou de l’agent du propriétaire. Il en est de même du privilège sur les accessoires.
 
-5. Les dispositions de l’article 1.4.1-1 ci-dessus ainsi que celles du présent article sont applicables aux navires exploités par un armateur non propriétaire ou par un affréteur principal, sauf lorsque le propriétaire s’est trouvé dessaisi par un acte illicite et quand, en outre, le créancier n’est pas de bonne foi.
+- Les dispositions de l’article 1.4.1-1 ci-dessus ainsi que celles du présent article sont applicables aux navires exploités par un armateur non propriétaire ou par un affréteur principal, sauf lorsque le propriétaire s’est trouvé dessaisi par un acte illicite et quand, en outre, le créancier n’est pas de bonne foi.
 
 #### Chapitre II De l’hypothèque maritime
 
@@ -624,11 +634,11 @@ Le titre constitutif de l’hypothèque contient élection de domicile par le cr
 
 Celui-ci mentionne sur le registre matricule, outre les énonciations prescrites par l’article 1.3.0-6 :
 
-1. le taux et l’échéance de l’intérêt ainsi que le terme du remboursement du capital;
+- le taux et l’échéance de l’intérêt ainsi que le terme du remboursement du capital;
 
-2. le cas échéant, la stipulation de voie parée;
+- le cas échéant, la stipulation de voie parée;
 
-3. l’élection de domicile.
+- l’élection de domicile.
 
 A défaut d’élection de domicile, toutes significations et notifications relatives et l’inscription pourront être faites au procureur.
 
@@ -685,13 +695,13 @@ Les demandes en radiation et en réduction sont régies par les articles 2159 et
 
 Les privilèges et hypothèques s’éteignent :
 
-1. par l’extinction de l’obligation principale;
+- par l’extinction de l’obligation principale;
 
-2. par la renonciation du créancier ;
+- par la renonciation du créancier ;
 
-3. par la vente forcée du navire grevé;
+- par la vente forcée du navire grevé;
 
-4. par l’aliénation volontaire du navire grevé, suivie de l’accomplissement des formalités et conditions prescrites ciaprès.
+- par l’aliénation volontaire du navire grevé, suivie de l’accomplissement des formalités et conditions prescrites ciaprès.
 
 En outre,les privilèges s’éteignent,en dehors des cas ci-dessus, à l’expiration du délai d’un an,sans que,pour les créances de fournitures visées au litt. e) paragraphe (1) de l’article 1.4.1-1 ci-dessus le délai puisse dépasser six mois.
 
@@ -706,11 +716,11 @@ Le fait que le navire grevé n’a pu être saisi dans les eaux territoriales de
 
 Les privilèges s’éteignent par l’aliénation volontaire sous les conditions suivantes :
 
-1. que l’acte d’aliénation soit inscrit conformément à l’article 1.3.0-1 ;
+- que l’acte d’aliénation soit inscrit conformément à l’article 1.3.0-1 ;
 
-2. que l’aliénation soit publiée au Mémorial et à deux reprises et à huit jours d’intervalle dans la presse maritime;
+- que l’aliénation soit publiée au Mémorial et à deux reprises et à huit jours d’intervalle dans la presse maritime;
 
-3. qu’aucune opposition ne soit notifiée par le créancier,tant à l’ancien qu’au nouveau propriétaire,dans le mois de l’inscription ou de la dernière publication.
+- qu’aucune opposition ne soit notifiée par le créancier,tant à l’ancien qu’au nouveau propriétaire,dans le mois de l’inscription ou de la dernière publication.
 
 Néanmoins, le droit de préférence du créancier subsiste sur le prix de vente, tant que celui-ci n’a pas été payé ou distribué.
 
@@ -719,11 +729,11 @@ Néanmoins, le droit de préférence du créancier subsiste sur le prix de vente
 
 Les hypothèques s’éteignent par l’aliénation volontaire sous la condition que, dans les six mois de l’inscription de son titre ou, en cas de poursuites endéans ces six mois, dans le délai de quinzaine à compter de la signification du commandement préalable à la saisie,le nouveau propriétaire notifie à tous les créanciers inscrits,aux domiciles par eux élus dans les inscriptions :
 
-1. un extrait de son titre contenant la date et la qualité de l’acte,la désignation des parties,le nom,l’espèce et le tonnage du navire,le prix et les charges faisant partie du prix,l’évaluation de la chose si elle a été donnée ou cédée à tout autre titre que celui de vente;
+- un extrait de son titre contenant la date et la qualité de l’acte,la désignation des parties,le nom,l’espèce et le tonnage du navire,le prix et les charges faisant partie du prix,l’évaluation de la chose si elle a été donnée ou cédée à tout autre titre que celui de vente;
 
-2. l’indication de la date de l’inscription de son titre;
+- l’indication de la date de l’inscription de son titre;
 
-3. un tableau sur trois colonnes dont la première contiendra la date des inscriptions,la seconde le nom des créanciers et la troisième le montant des créances inscrites.
+- un tableau sur trois colonnes dont la première contiendra la date des inscriptions,la seconde le nom des créanciers et la troisième le montant des créances inscrites.
 
 <a id="art-1-4-3-4"></a>
 ## Art. 1.4.3-4.
@@ -751,6 +761,26 @@ Dans les quinze jours de la notification faite à la requête du nouveau propri�
 La vente aux enchères a lieu à la diligence, soit du créancier qui l’a requise, soit de l’acquéreur, dans les formes établies pour les ventes sur saisie.
 
 ## LIVRE 2 LES CONDITIONS DE SECURITE
+
+Les conventions figurant à l’annexe 3 de la loi du 9 novembre 1990 portant approbation de certaines conventions internationales en matière maritime, énumérées ci-après, se rapportent au présent livre .
+
+- Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer telle que modifiée (Solas 1974) et Protocole de 1978 y relatif, tel que modifié (Solas Prot 1978) et Protocole de 1988 y relatif (Solas Prot 1988).
+
+- Convention sur le Règlement international de 1972 pour prévenir les abordages en mer, telle que modifiée (Colreg 1972).
+
+- Convention internationale de 1973 pour la prévention de la pollution par les navires (Marpol 1973) et Protocole de 1978 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires, tel que modifié (Marpol Prot 1978).
+
+- Convention internationale de 1966 sur les lignes de charge telle que modifiée (LL 1966) et Protocole de 1988 relatif à la Convention internationale de 1966 sur les lignes de charge (LL Prot 1988).
+
+- Convention internationale de 1969 sur le jaugeage des navires (Tonnage 1969).
+
+- Convention internationale sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures (CLC 1969) et Protocole y relatif de 1976 (CLC Prot 1976) et Protocole y relatif de 1984 (CLC Prot 1984).
+
+- Convention internationale de 1978 sur les normes de formation des gens de mer,de délivrance des brevets et de veille (STCW 1978).
+
+- Convention internationale de 1979 sur la recherche et le sauvetage maritimes (SAR 1979).
+
+- Convention sur la prévention de la pollution des mers résultant de l’immersion de déchets, 1972, telle que modifiée (LDC 1972).
 
 <a id="art-2-0-0-1"></a>
 ## Art. 2.0.0-1.
@@ -784,34 +814,34 @@ Le certificat doit être annexé au document de bord.
 
 Sont soumis à un régime spécial qui sera déterminé par règlement grand-ducal:
 
-1. les navires navigant exclusivement dans une zone de navigation restreinte le long d’une côte, en bornage d’estuaires. Mention de cette restriction à la navigation sera faite sur le certificat d’immatriculation délivré à cette catégorie de navires;
+- les navires navigant exclusivement dans une zone de navigation restreinte le long d’une côte, en bornage d’estuaires. Mention de cette restriction à la navigation sera faite sur le certificat d’immatriculation délivré à cette catégorie de navires;
 
-2. les navires, autres que les bâtiments de plaisance, qui entreprennent un voyage spécial.
+- les navires, autres que les bâtiments de plaisance, qui entreprennent un voyage spécial.
 
 <a id="art-2-0-0-5"></a>
 ## Art. 2.0.0-5.
 
 Pour autant que les conventions internationales en vigueur dûment ratifiées par le Luxembourg relatives aux conditions de sécurité des navires n’y pourvoient pas, un ou plusieurs règlements grand-ducaux déterminent les normes relatives à la sécurité des navires en fonction du service et de la navigation auxquels ils sont destinés et notamment les prescriptions relatives :
 
-1. à la construction et à l’état d’entretien de la coque;
+- à la construction et à l’état d’entretien de la coque;
 
-2. aux engins de sauvetage;
+- aux engins de sauvetage;
 
-3. aux agrès et apparaux, aux objets d’armement, y compris les moyens contre l’incendie et les pièces de rechange;
+- aux agrès et apparaux, aux objets d’armement, y compris les moyens contre l’incendie et les pièces de rechange;
 
-4. aux instruments nautiques, aux appareils de propulsion, aux appareils mécaniques et électriques, aux appareils de signalisation, à la radiotélégraphie et téléphonie;
+- aux instruments nautiques, aux appareils de propulsion, aux appareils mécaniques et électriques, aux appareils de signalisation, à la radiotélégraphie et téléphonie;
 
-5. aux aptitudes physiques,aux brevets,aux licences et aux autres attestations similaires qui peuvent être exigés du capitaine et de l’équipage, ainsi qu’au nombre des membres d’équipage;
+- aux aptitudes physiques,aux brevets,aux licences et aux autres attestations similaires qui peuvent être exigés du capitaine et de l’équipage, ainsi qu’au nombre des membres d’équipage;
 
-6. au nombre des passagers par catégorie qui peuvent être transportés;
+- au nombre des passagers par catégorie qui peuvent être transportés;
 
-7. à l’habitabilité des aménagements, à l’hygiène et à la salubrité;
+- à l’habitabilité des aménagements, à l’hygiène et à la salubrité;
 
-8. aux échelles de tirant d’eau et aux marques de franc-bord;
+- aux échelles de tirant d’eau et aux marques de franc-bord;
 
-9. à la stabilité, à l’arrimage et au lestage;
+- à la stabilité, à l’arrimage et au lestage;
 
-10. aux engins de levage.
+- aux engins de levage.
 
 Le commissaire aux affaires maritimes pourra, dans des cas exceptionnels, accorder des exemptions d’une ou de plusieurs de ces dispositions, en tenant compte des conventions internationales ratifiées par le Luxembourg.
 
@@ -861,15 +891,15 @@ Tout capitaine ou propriétaire d’un navire battant pavillon luxembourgeois es
 <a id="art-2-0-0-11"></a>
 ## Art. 2.0.0-11.
 
-1. Le commissaire aux affaires maritimes ou les agents dûment mandatés visés à l’article 2.0.0-6 ont le droit de faire arrêter tout navire qui ne répond pas aux conditions établies par la présente loi. Ils ont également le droit de faire arrêter tout navire ne battant pas pavillon luxembourgeois, s’il existe des présomptions graves que sa sécurité ou celle de son équipage ou de ses passagers soit compromise. Conformément aux conventions de l’organisation maritime internationale, le commissaire aux affaires maritimes n’exerce le droit, prévu au présent paragraphe, à l’égard de navires ou de bâtiments étrangers qu’après en avoir informé le Consul du pays dont le navire ou le bâtiment bat pavillon.Il indiquera les mesures à prendre et les motifs de l’intervention. Dans des cas urgents, cette information est faite sans délai après que les mesures ont été prises. Le navire ou le bâtiment peut repartir aussitôt que les conditions requises ont été remplies après avis favorable d’un inspecteur d’un organisme habilité . Notification des décisions prises en la matière est donnée aux autorités portuaires du lieu où se trouve le navire.
+- Le commissaire aux affaires maritimes ou les agents dûment mandatés visés à l’article 2.0.0-6 ont le droit de faire arrêter tout navire qui ne répond pas aux conditions établies par la présente loi. Ils ont également le droit de faire arrêter tout navire ne battant pas pavillon luxembourgeois, s’il existe des présomptions graves que sa sécurité ou celle de son équipage ou de ses passagers soit compromise. Conformément aux conventions de l’organisation maritime internationale, le commissaire aux affaires maritimes n’exerce le droit, prévu au présent paragraphe, à l’égard de navires ou de bâtiments étrangers qu’après en avoir informé le Consul du pays dont le navire ou le bâtiment bat pavillon.Il indiquera les mesures à prendre et les motifs de l’intervention. Dans des cas urgents, cette information est faite sans délai après que les mesures ont été prises. Le navire ou le bâtiment peut repartir aussitôt que les conditions requises ont été remplies après avis favorable d’un inspecteur d’un organisme habilité . Notification des décisions prises en la matière est donnée aux autorités portuaires du lieu où se trouve le navire.
 
-2. Le commissaire aux affaires maritimes ou les agents dûment mandatés visés à l’article 2.0.0-6 ont le droit d’interdire le départ d’un navire battant pavillon luxembourgeois :
+- Le commissaire aux affaires maritimes ou les agents dûment mandatés visés à l’article 2.0.0-6 ont le droit d’interdire le départ d’un navire battant pavillon luxembourgeois :
 
-1. si le navire ou le bâtiment n’est pas muni des certificats requis en cours de validité;
+  - si le navire ou le bâtiment n’est pas muni des certificats requis en cours de validité;
 
-2. si dans le cas prévu à l’article 2.0.0-8 , la surveillance effectuéearévélé que le navire ne satisfait pas aux conditions légales ou réglementaires requises;
+  - si dans le cas prévu à l’article 2.0.0-8 , la surveillance effectuéearévélé que le navire ne satisfait pas aux conditions légales ou réglementaires requises;
 
-3. s’il existe des présomptions que la non-observation des conditions prévues à l’article 2.0.0-5 compromet la sécurité de l’équipage ou des passagers.L’interdiction de départ est levée quand il est satisfait aux conditions légales et réglementaires.
+  - s’il existe des présomptions que la non-observation des conditions prévues à l’article 2.0.0-5 compromet la sécurité de l’équipage ou des passagers.L’interdiction de départ est levée quand il est satisfait aux conditions légales et réglementaires.
 
 <a id="art-2-0-0-12"></a>
 ## Art. 2.0.0-12.
@@ -885,31 +915,31 @@ L’équipage peut, en tout temps, s’adresser par requête motivée au commiss
 
 Aux fins du présent livre, on entend par :
 
-1. « armateur » : le propriétaire du navire ou toute autre entité ou personne, telle que le gérant, l’agent ou l’affréteur coque nue, à laquelle le propriétaire a confié la responsabilité de l’exploitation du navire et qui, en assumant cette responsabilité, a accepté de se charger des tâches et obligations incombant aux armateurs aux termes de la présente loi, indépendamment du fait que d’autres entités ou personnes s’acquittent en son nom de certaines de ces tâches ou responsabilités ;
+- « armateur » : le propriétaire du navire ou toute autre entité ou personne, telle que le gérant, l’agent ou l’affréteur coque nue, à laquelle le propriétaire a confié la responsabilité de l’exploitation du navire et qui, en assumant cette responsabilité, a accepté de se charger des tâches et obligations incombant aux armateurs aux termes de la présente loi, indépendamment du fait que d’autres entités ou personnes s’acquittent en son nom de certaines de ces tâches ou responsabilités ;
 
-2. « BIT » : le Bureau international du travail ;
+- « BIT » : le Bureau international du travail ;
 
-3. « certificat de travail maritime » : le certificat visé à l’article 3.4.0-3 ;
+- « certificat de travail maritime » : le certificat visé à l’article 3.4.0-3 ;
 
-4. « contrat d’engagement maritime » : le contrat tel que défini aux articles 3.1.2-1 et suivants de la présente loi ;
+- « contrat d’engagement maritime » : le contrat tel que défini aux articles 3.1.2-1 et suivants de la présente loi ;
 
-5. « déclaration de conformité du travail maritime » : la déclaration visée à l’article 3.4.0-3 ;
+- « déclaration de conformité du travail maritime » : la déclaration visée à l’article 3.4.0-3 ;
 
-6. « gens de mer ou marin » : les personnes employées ou engagées ou travaillant à quelque titre que ce soit à bord d’un navire auquel les dispositions de la présente loi s’appliquent ;
+- « gens de mer ou marin » : les personnes employées ou engagées ou travaillant à quelque titre que ce soit à bord d’un navire auquel les dispositions de la présente loi s’appliquent ;
 
-7. « navire » : tout bâtiment battant pavillon luxembourgeois ne naviguant pas exclusivement dans les eaux intérieures ou dans des eaux situées à l’intérieur ou au proche voisinage d’eaux abritées ou de zones où s’applique une réglementation portuaire ;
+- « navire » : tout bâtiment battant pavillon luxembourgeois ne naviguant pas exclusivement dans les eaux intérieures ou dans des eaux situées à l’intérieur ou au proche voisinage d’eaux abritées ou de zones où s’applique une réglementation portuaire ;
 
-8. « OIT » : l’Organisation internationale du travail ;
+- « OIT » : l’Organisation internationale du travail ;
 
-9. « OMS » : l’Organisation mondiale de la santé ;
+- « OMS » : l’Organisation mondiale de la santé ;
 
-10. « piraterie » : tout acte qualifié de piraterie au sens de la Convention des Nations Unies sur le droit de la mer de 1982 ;
+- « piraterie » : tout acte qualifié de piraterie au sens de la Convention des Nations Unies sur le droit de la mer de 1982 ;
 
-11. « service de recrutement et de placement des gens de mer » : toute personne, société, institution, agence ou autre organisation du secteur public ou du secteur privé s’occupant du recrutement de gens de mer pour le compte d’armateurs ou de leur placement auprès d’armateurs ;
+- « service de recrutement et de placement des gens de mer » : toute personne, société, institution, agence ou autre organisation du secteur public ou du secteur privé s’occupant du recrutement de gens de mer pour le compte d’armateurs ou de leur placement auprès d’armateurs ;
 
-12. « STCW » : la Convention internationale sur les normes de formation des gens de mer, de délivrance des brevets et de veille adoptée le 7 juillet 1978 ;
+- « STCW » : la Convention internationale sur les normes de formation des gens de mer, de délivrance des brevets et de veille adoptée le 7 juillet 1978 ;
 
-13. « vols à main armée » : tout acte illicite de violence, de détention ou déprédation, ou menace de tels actes, autre qu’un acte de piraterie, commis à des fins privées contre un navire ou contre des personnes ou des biens à son bord dans les eaux intérieures, les eaux archipélagiques ou la mer territoriale d’un État ou tout acte ayant pour but d’inciter à commettre un acte défini ci-dessus ou commis dans l’intention de le faciliter.
+- « vols à main armée » : tout acte illicite de violence, de détention ou déprédation, ou menace de tels actes, autre qu’un acte de piraterie, commis à des fins privées contre un navire ou contre des personnes ou des biens à son bord dans les eaux intérieures, les eaux archipélagiques ou la mer territoriale d’un État ou tout acte ayant pour but d’inciter à commettre un acte défini ci-dessus ou commis dans l’intention de le faciliter.
 
 <a id="art-3-0-0-2"></a>
 ## Art. 3.0.0-2.
@@ -936,15 +966,15 @@ Quelle que soit la loi applicable au contrat d’engagement, les conditions d’
 
 Sauf compétence spéciale déterminée en matière pénale, en matière de contestations relatives aux dispositions du présent livre qui s’élèvent entre l’armateur et le marin :
 
-1. l’action de l’armateur ne peut être portée que devant la juridiction du domicile du marin ;
+- l’action de l’armateur ne peut être portée que devant la juridiction du domicile du marin ;
 
-2. l’action du marin peut être portée :
+- l’action du marin peut être portée :
 
-1. devant la juridiction du domicile de l’armateur ;
+  - devant la juridiction du domicile de l’armateur ;
 
-2. devant la juridiction du lieu où s’accomplit habituellement le travail ; ou
+  - devant la juridiction du lieu où s’accomplit habituellement le travail ; ou
 
-3. devant la juridiction du lieu d’embauche.
+  - devant la juridiction du lieu d’embauche.
 
 <a id="art-3-0-0-5"></a>
 ## Art. 3.0.0-5.
@@ -1015,11 +1045,11 @@ Le présent titre s’applique sans préjudice de la STCW. Un certificat médica
 
 Le certificat médical est délivré au marin et aux frais de l’armateur par un praticien dûment autorisé dans son pays d’établissement suivant la réglementation qui y est applicable. Est considéré comme un praticien dûment autorisé :
 
-1. un médecin licencié ou certifié par un État membre de l’Union européenne ou de l’Association européenne du libre-échange selon les exigences de l’État en question ;
+- un médecin licencié ou certifié par un État membre de l’Union européenne ou de l’Association européenne du libre-échange selon les exigences de l’État en question ;
 
-2. un médecin licencié ou certifié par un État ayant ratifié la Convention du travail maritime, 2006, selon les exigences de l’État en question ;
+- un médecin licencié ou certifié par un État ayant ratifié la Convention du travail maritime, 2006, selon les exigences de l’État en question ;
 
-3. un médecin licencié ou certifié par un État figurant sur la liste blanche STCW selon les exigences de l’État en question.
+- un médecin licencié ou certifié par un État figurant sur la liste blanche STCW selon les exigences de l’État en question.
 
 Le médecin doit disposer d’une entière indépendance professionnelle en ce qui concerne les procédures d’examen médical.
 
@@ -1032,11 +1062,11 @@ Un certificat concernant uniquement la vue peut être délivré par une personne
 
 Le certificat médical doit obligatoirement indiquer que :
 
-1. l’ouïe et la vue de l’intéressé, ainsi que la perception des couleurs s’il s’agit d’une personne devant être employée à des tâches pour lesquelles l’aptitude au travail risque d’être diminuée par le daltonisme, sont toutes satisfaisantes ;
+- l’ouïe et la vue de l’intéressé, ainsi que la perception des couleurs s’il s’agit d’une personne devant être employée à des tâches pour lesquelles l’aptitude au travail risque d’être diminuée par le daltonisme, sont toutes satisfaisantes ;
 
-2. le marin est médicalement apte pour le travail qu’il doit effectuer ;
+- le marin est médicalement apte pour le travail qu’il doit effectuer ;
 
-3. l’intéressé n’est atteint d’aucun problème médical qui risque d’être aggravé par le service en mer, de le rendre inapte à ce service ou de mettre en danger la santé d’autres personnes à bord.
+- l’intéressé n’est atteint d’aucun problème médical qui risque d’être aggravé par le service en mer, de le rendre inapte à ce service ou de mettre en danger la santé d’autres personnes à bord.
 
 Le secret médical doit être strictement observé. La transmission du certificat médical entre armateurs ne peut se faire qu’avec l’accord du marin.
 
@@ -1047,27 +1077,27 @@ La forme du certificat médical pourra être précisée par règlement grand-duc
 
 À moins qu’une période plus courte ne soit prescrite en raison de la nature des fonctions que l’intéressé aura à exécuter ou en vertu de la STCW :
 
-1. un certificat médical reste valide pendant deux ans au maximum à compter de la date de son établissement ;
+- un certificat médical reste valide pendant deux ans au maximum à compter de la date de son établissement ;
 
-2. un certificat se rapportant à la perception des couleurs reste valide pendant six ans au maximum à compter de la date de son établissement.
+- un certificat se rapportant à la perception des couleurs reste valide pendant six ans au maximum à compter de la date de son établissement.
 
 <a id="art-3-1-1-9"></a>
 ## Art. 3.1.1-9.
 
 En cas de refus de délivrance d’un certificat ou de limitation imposée à l’aptitude au travail en termes notamment de durée, de domaine d’activité ou de zone géographique, les gens de mer peuvent, suivant la procédure applicable dans le pays de délivrance du certificat :
 
-1. soit se faire examiner par un autre médecin répondant aux exigences visées à l’article 3.1.1-6 ;
+- soit se faire examiner par un autre médecin répondant aux exigences visées à l’article 3.1.1-6 ;
 
-2. soit exercer un recours devant l’autorité médicale ou la juridiction compétente en cas de contestation de certificat médical constatant une inaptitude au travail.
+- soit exercer un recours devant l’autorité médicale ou la juridiction compétente en cas de contestation de certificat médical constatant une inaptitude au travail.
 
 <a id="art-3-1-1-10"></a>
 ## Art. 3.1.1-10.
 
 Dans les cas d’urgence, le commissaire peut, sur demande de l’armateur, autoriser un marin à travailler sans certificat médical valide jusqu’au prochain port d’escale où il pourra se faire délivrer un certificat médical par un praticien dûment autorisé, à condition que :
 
-1. la durée de validité de cette autorisation ne dépasse pas trois mois ;
+- la durée de validité de cette autorisation ne dépasse pas trois mois ;
 
-2. l’intéressé soit en possession d’un certificat médical d’une date récente périmé.
+- l’intéressé soit en possession d’un certificat médical d’une date récente périmé.
 
 <a id="art-3-1-1-11"></a>
 ## Art. 3.1.1-11.
@@ -1086,9 +1116,9 @@ En cas d’infraction aux articles 3.1.1-3 à 3.1.1-11, le commissaire ordonne l
 
 Est puni d’un emprisonnement de huit jours à six mois et d’une amende de 251 à 25 000 euros ou d’une de ces peines seulement :
 
-1. l’armateur ou le capitaine qui occupe un marin qui ne s’est pas soumis aux examens médicaux et ne dispose pas d’un certificat médical valide selon les conditions fixées aux articles 3.1.1-3 à 3.1.1-11 ;
+- l’armateur ou le capitaine qui occupe un marin qui ne s’est pas soumis aux examens médicaux et ne dispose pas d’un certificat médical valide selon les conditions fixées aux articles 3.1.1-3 à 3.1.1-11 ;
 
-2. tout armateur qui occupe un marin lorsque ce dernier a été déclaré inapte au travail ou à un poste de travail particulier.
+- tout armateur qui occupe un marin lorsque ce dernier a été déclaré inapte au travail ou à un poste de travail particulier.
 
 En cas de récidive dans les deux ans, ces peines peuvent être portées au double du maximum.
 
@@ -1118,11 +1148,11 @@ En cas d’infraction aux articles 3.1.1-14 à 3.1.1-16, et sauf si une dérogat
 
 Sauf si une dérogation est dûment accordée :
 
-1. est puni d’un emprisonnement de huit jours à deux ans et d’une amende de 750 à 25 000 euros ou d’une de ces peines seulement, le fait pour l’armateur ou le capitaine d’engager et d’autoriser à naviguer des gens de mer qui ne sont pas titulaires des titres ou autres certificats de formation correspondant aux fonctions qu’ils sont amenés à exercer à bord du navire conformes aux articles 3.1.1-14 et 3.1.1-16 ;
+- est puni d’un emprisonnement de huit jours à deux ans et d’une amende de 750 à 25 000 euros ou d’une de ces peines seulement, le fait pour l’armateur ou le capitaine d’engager et d’autoriser à naviguer des gens de mer qui ne sont pas titulaires des titres ou autres certificats de formation correspondant aux fonctions qu’ils sont amenés à exercer à bord du navire conformes aux articles 3.1.1-14 et 3.1.1-16 ;
 
-2. est puni d’un emprisonnement de huit jours à trois mois et d’une amende de 251 à 5 000 euros ou d’une de ces peines seulement le fait d’exercer le commandement du navire ou toute autre fonction du bord sans satisfaire aux exigences des dispositions des articles 3.1.1-14 et 3.1.1-16 ;
+- est puni d’un emprisonnement de huit jours à trois mois et d’une amende de 251 à 5 000 euros ou d’une de ces peines seulement le fait d’exercer le commandement du navire ou toute autre fonction du bord sans satisfaire aux exigences des dispositions des articles 3.1.1-14 et 3.1.1-16 ;
 
-3. quiconque obtient par tromperie ou fausses pièces un engagement est puni conformément à l’article 58 de la loi modifiée du 14 avril 1992 instituant un code disciplinaire et pénal pour la marine marchande.
+- quiconque obtient par tromperie ou fausses pièces un engagement est puni conformément à l’article 58 de la loi modifiée du 14 avril 1992 instituant un code disciplinaire et pénal pour la marine marchande.
 
 ##### Section 4 Équipage et équipage minimal
 
@@ -1180,11 +1210,11 @@ Nonobstant l’existence d’un contrat de mise à disposition, l’armateur res
 
 En cas de défaillance des services de placement et de recrutement, l’armateur assure notamment les conséquences financières :
 
-1. de la maladie, de l’accident ou du décès survenant en relation avec leur emploi ;
+- de la maladie, de l’accident ou du décès survenant en relation avec leur emploi ;
 
-2. du paiement des arriérés de salaires et, le cas échéant, des cotisations sociales liées aux périodes d’embarquement ;
+- du paiement des arriérés de salaires et, le cas échéant, des cotisations sociales liées aux périodes d’embarquement ;
 
-3. du rapatriement.
+- du rapatriement.
 
 Toute clause dans le contrat entre l’armateur et le service de placement et de recrutement qui a pour objet de faire échec aux dispositions du présent article est nulle.
 
@@ -1235,24 +1265,24 @@ Sans préjudice des règles régissant la libre circulation des travailleurs de 
 
 Les prescriptions suivantes sont applicables à bord des navires battant pavillon luxembourgeois :
 
-1. au plus tard au moment de l’entrée en service, les gens de mer doivent être en possession d’un contrat d’engagement maritime constaté par écrit et signé par le marin et l’armateur ou son représentant ou préposé, ou lorsqu’ils ne sont pas salariés, d’un document attestant l’existence d’un arrangement contractuel ou assimilable, leur garantissant des conditions de travail et de vie décentes à bord ainsi que l’exige la présente loi. Lorsque le marin est engagé par le représentant en ce compris une agence de placement telle que définie aux articles 3.1.1-21 et suivants de la présente loi, ledit représentant ou préposé doit faire clairement état de cette qualité dans le contrat d’engagement ;
+- au plus tard au moment de l’entrée en service, les gens de mer doivent être en possession d’un contrat d’engagement maritime constaté par écrit et signé par le marin et l’armateur ou son représentant ou préposé, ou lorsqu’ils ne sont pas salariés, d’un document attestant l’existence d’un arrangement contractuel ou assimilable, leur garantissant des conditions de travail et de vie décentes à bord ainsi que l’exige la présente loi. Lorsque le marin est engagé par le représentant en ce compris une agence de placement telle que définie aux articles 3.1.1-21 et suivants de la présente loi, ledit représentant ou préposé doit faire clairement état de cette qualité dans le contrat d’engagement ;
 
-2. le contrat d’engagement doit clairement mentionner que les gens de mer signant un tel contrat doivent disposer d’un délai suffisant afin de pouvoir l’examiner et de demander conseil avant de le signer et disposer de toute autre facilité propre à assurer qu’ils se lient librement en étant dûment informés de leurs droits et responsabilités ;
+- le contrat d’engagement doit clairement mentionner que les gens de mer signant un tel contrat doivent disposer d’un délai suffisant afin de pouvoir l’examiner et de demander conseil avant de le signer et disposer de toute autre facilité propre à assurer qu’ils se lient librement en étant dûment informés de leurs droits et responsabilités ;
 
-3. l’armateur et le marin détiennent l’un et l’autre un original signé du contrat d’engagement maritime ;
+- l’armateur et le marin détiennent l’un et l’autre un original signé du contrat d’engagement maritime ;
 
-4. le capitaine du navire tient à bord, à la disposition des autorités du pavillon ou des personnes agissant pour son compte et des autorités du port où le navire fait escale, le texte des dispositions légales en ce compris la Convention du travail maritime, 2006, une copie des contrats et des conventions collectives applicables. Le capitaine tient à bord, à la disposition du marin, le texte des dispositions légales ou conventionnelles qui régissent le contrat. L’accès peut être assuré par voie électronique ;
+- le capitaine du navire tient à bord, à la disposition des autorités du pavillon ou des personnes agissant pour son compte et des autorités du port où le navire fait escale, le texte des dispositions légales en ce compris la Convention du travail maritime, 2006, une copie des contrats et des conventions collectives applicables. Le capitaine tient à bord, à la disposition du marin, le texte des dispositions légales ou conventionnelles qui régissent le contrat. L’accès peut être assuré par voie électronique ;
 
-5. pour faciliter l’accès à un autre emploi ou pour satisfaire aux conditions de service en mer requises à des fins d’avancement ou de promotion, tout marin reçoit un document avec sa traduction en anglais mentionnant ses états de service à bord du navire, qui mentionne la date du début et de fin du contrat ainsi que la nature du travail effectué. Le certificat ne peut contenir aucune autre mention ou appréciation relative à la qualité du travail ou au salaire. Le livret de marin visé à l’article 3.1.1-20 peut, s’il satisfait aux différentes exigences, constituer un document suffisant pour établir les états de service du marin.
+- pour faciliter l’accès à un autre emploi ou pour satisfaire aux conditions de service en mer requises à des fins d’avancement ou de promotion, tout marin reçoit un document avec sa traduction en anglais mentionnant ses états de service à bord du navire, qui mentionne la date du début et de fin du contrat ainsi que la nature du travail effectué. Le certificat ne peut contenir aucune autre mention ou appréciation relative à la qualité du travail ou au salaire. Le livret de marin visé à l’article 3.1.1-20 peut, s’il satisfait aux différentes exigences, constituer un document suffisant pour établir les états de service du marin.
 
 <a id="art-3-1-2-4"></a>
 ## Art. 3.1.2-4.
 
 Lorsque le contrat d’engagement maritime et les conventions collectives applicables ne sont pas en anglais, les documents suivants sont tenus à disposition en anglais, sauf sur les navires affectés seulement à des trajets domestiques :
 
-1. un exemplaire d’un contrat-type ;
+- un exemplaire d’un contrat-type ;
 
-2. les parties de la convention collective qui donnent lieu à une inspection par l’État du port conformément aux dispositions de la règle 5.2 de la Convention du travail maritime, 2006.
+- les parties de la convention collective qui donnent lieu à une inspection par l’État du port conformément aux dispositions de la règle 5.2 de la Convention du travail maritime, 2006.
 
 <a id="art-3-1-2-5"></a>
 ## Art. 3.1.2-5.
@@ -1261,33 +1291,33 @@ Lorsque le contrat d’engagement maritime et les conventions collectives applic
 
 Le contrat d’engagement maritime soumis au droit luxembourgeois comprend les indications suivantes :
 
-1. le nom complet du marin, sa résidence habituelle, sa date de naissance ou son âge, son lieu de naissance ;
+- le nom complet du marin, sa résidence habituelle, sa date de naissance ou son âge, son lieu de naissance ;
 
-2. le nom, prénom et domicile de l’armateur ou si l’armateur est une personne morale, la raison sociale et le siège social et, le cas échéant, la dénomination sous laquelle l’armateur s’adresse au public ;
+- le nom, prénom et domicile de l’armateur ou si l’armateur est une personne morale, la raison sociale et le siège social et, le cas échéant, la dénomination sous laquelle l’armateur s’adresse au public ;
 
-3. le lieu et la date de la conclusion du contrat d’engagement maritime ;
+- le lieu et la date de la conclusion du contrat d’engagement maritime ;
 
-4. la fonction à laquelle le marin doit être affecté et, le cas échéant, la description de celle-ci ou des voyages à entreprendre ainsi que le lieu et la date de l’entrée en service ;
+- la fonction à laquelle le marin doit être affecté et, le cas échéant, la description de celle-ci ou des voyages à entreprendre ainsi que le lieu et la date de l’entrée en service ;
 
-5. le montant du salaire de base ou la formule éventuellement utilisée pour le calculer et, le cas échéant, les compléments de salaires, les accessoires de salaires, les gratifications ou participations convenues ;
+- le montant du salaire de base ou la formule éventuellement utilisée pour le calculer et, le cas échéant, les compléments de salaires, les accessoires de salaires, les gratifications ou participations convenues ;
 
-6. le congé payé annuel ou la formule éventuellement utilisée pour le calculer ;
+- le congé payé annuel ou la formule éventuellement utilisée pour le calculer ;
 
-7. le terme du contrat et les conditions de sa cessation, notamment :
+- le terme du contrat et les conditions de sa cessation, notamment :
 
-1. si le contrat est conclu pour une durée indéterminée, les conditions dans lesquelles chaque partie pourra le dénoncer ainsi que le délai de préavis,
+  - si le contrat est conclu pour une durée indéterminée, les conditions dans lesquelles chaque partie pourra le dénoncer ainsi que le délai de préavis,
 
-2. si le contrat est conclu pour une durée déterminée ou au voyage, les dispositions figurant à l’article 3.1.2-9 de la présente loi ;
+  - si le contrat est conclu pour une durée déterminée ou au voyage, les dispositions figurant à l’article 3.1.2-9 de la présente loi ;
 
-8. les prestations en matière de protection de la santé et de sécurité sociale qui doivent être assurées au marin par l’armateur ;
+- les prestations en matière de protection de la santé et de sécurité sociale qui doivent être assurées au marin par l’armateur ;
 
-9. la durée de la période d’essai éventuellement prévue ;
+- la durée de la période d’essai éventuellement prévue ;
 
-10. le droit du marin à un rapatriement ;
+- le droit du marin à un rapatriement ;
 
-11. le cas échéant, la mention des conventions collectives applicables ;
+- le cas échéant, la mention des conventions collectives applicables ;
 
-12. les clauses complémentaires dont les parties ont convenu.
+- les clauses complémentaires dont les parties ont convenu.
 
 Les précisions figurant à l’alinéa 1er peuvent résulter d’une référence aux dispositions législatives, réglementaires, administratives ou aux conventions collectives régissant les matières y visées.
 
@@ -1324,9 +1354,9 @@ La période d’essai débute lors de l’embarquement effectif du marin.
 
 La période d’essai convenue entre parties ne peut être inférieure à deux semaines et sa durée maximale ne peut être supérieure à :
 
-1. six mois pour les officiers ;
+- six mois pour les officiers ;
 
-2. deux mois pour les autres personnels.
+- deux mois pour les autres personnels.
 
 La période d’essai n’excédant pas un mois doit être exprimée en semaines entières. La période d’essai dépassant un mois doit être exprimée en mois entiers.
 
@@ -1340,9 +1370,9 @@ Il ne peut être mis fin au contrat à l’essai pendant la période d’essai m
 
 Sans préjudice des dispositions du paragraphe 4, l’armateur ou le marin peut mettre fin au contrat à l’essai dans les formes prévues à l’article 3.1.2-54, paragraphe 2. Dans ce cas, le contrat prend fin à l’expiration d’un délai de préavis qui ne peut être inférieur :
 
-1. à autant de jours que la durée de l’essai convenue au contrat compte de semaines ;
+- à autant de jours que la durée de l’essai convenue au contrat compte de semaines ;
 
-2. à quatre jours par mois d’essai convenu au contrat sans pouvoir être inférieur à quinze jours.
+- à quatre jours par mois d’essai convenu au contrat sans pouvoir être inférieur à quinze jours.
 
 Lorsqu’il est mis fin au contrat à l’essai par l’armateur, la rupture ne prend effet que dans un port d’embarquement ou de débarquement.
 
@@ -1371,13 +1401,13 @@ En matière maritime, les contrats d’engagement peuvent être à durée déter
 
 Sans préjudice des dispositions de l’article 3.1.2-5, paragraphe 1er, le contrat d’engagement maritime conclu pour une durée déterminée doit comporter, les indications suivantes :
 
-1. lorsqu’il est conclu pour une durée précise, la date d’échéance du terme ;
+- lorsqu’il est conclu pour une durée précise, la date d’échéance du terme ;
 
-2. lorsqu’il est conclu pour un voyage, la désignation nominative du port où le voyage prendra fin et le moment où les opérations commerciales et maritimes effectuées dans ce port seront réputées terminées. Au cas où la désignation de ce port ne permettrait pas d’apprécier la durée approximative du voyage, le contrat doit fixer une durée maximale après laquelle le marin pourra demander son débarquement au premier port d’escale même si le voyage, pour lequel le contrat a été conclu, n’est pas achevé ;
+- lorsqu’il est conclu pour un voyage, la désignation nominative du port où le voyage prendra fin et le moment où les opérations commerciales et maritimes effectuées dans ce port seront réputées terminées. Au cas où la désignation de ce port ne permettrait pas d’apprécier la durée approximative du voyage, le contrat doit fixer une durée maximale après laquelle le marin pourra demander son débarquement au premier port d’escale même si le voyage, pour lequel le contrat a été conclu, n’est pas achevé ;
 
-3. la durée de la période d’essai éventuellement prévue ;
+- la durée de la période d’essai éventuellement prévue ;
 
-4. le cas échéant, la clause de renouvellement visée à l’article 3.1.2-12.
+- le cas échéant, la clause de renouvellement visée à l’article 3.1.2-12.
 
 À défaut d’écrit ou d’écrit spécifiant que le contrat d’engagement maritime est conclu pour une durée déterminée, celui-ci est présumé conclu pour une durée indéterminée. La preuve contraire n’est pas admissible.
 
@@ -1390,9 +1420,9 @@ Le contrat conclu pour une durée déterminée doit comporter un terme fixé ave
 
 Il peut toutefois ne pas comporter un terme fixé avec précision, lorsqu’il est conclu dans les cas suivants :
 
-1. pour remplacer un marin temporairement absent ou dont le contrat de travail est suspendu pour un motif autre qu’un conflit collectif de travail, ou pour remplacer un marin dont le poste est devenu vacant avant l’entrée en service de son successeur ;
+- pour remplacer un marin temporairement absent ou dont le contrat de travail est suspendu pour un motif autre qu’un conflit collectif de travail, ou pour remplacer un marin dont le poste est devenu vacant avant l’entrée en service de son successeur ;
 
-2. pour les emplois à caractère saisonnier tel que visé à l’article L. 122-1, paragraphe 2, point 2, du Code du travail et du règlement grand-ducal pris en son exécution.
+- pour les emplois à caractère saisonnier tel que visé à l’article L. 122-1, paragraphe 2, point 2, du Code du travail et du règlement grand-ducal pris en son exécution.
 
 Lorsque dans ces cas, le contrat ne comporte pas de terme précis, il doit être conclu pour une durée minimale et il a pour terme la fin de l’empêchement du marin absent ou la réalisation de l’objet pour lequel il est conclu en cas d’emplois saisonniers.
 
@@ -1440,19 +1470,19 @@ Si le contrat d’engagement maritime se poursuit après l’échéance du terme
 
 Les dispositions du premier alinéa ne sont pas applicables :
 
-1. en cas de rupture anticipée due au fait du marin ;
+- en cas de rupture anticipée due au fait du marin ;
 
-2. en cas de refus par le marin de renouveler son contrat, lorsque ce dernier comporte une clause de renouvellement, pour la durée du contrat non renouvelé restant à courir ;
+- en cas de refus par le marin de renouveler son contrat, lorsque ce dernier comporte une clause de renouvellement, pour la durée du contrat non renouvelé restant à courir ;
 
-3. pour pourvoir des emplois saisonniers notamment dans le domaine du yachting ;
+- pour pourvoir des emplois saisonniers notamment dans le domaine du yachting ;
 
-4. aux contrats conclus pour permettre à des gens de mer de compléter leur formation professionnelle, d’accomplir le temps de navigation nécessaire pour poursuivre leurs études ou obtenir leur diplôme ;
+- aux contrats conclus pour permettre à des gens de mer de compléter leur formation professionnelle, d’accomplir le temps de navigation nécessaire pour poursuivre leurs études ou obtenir leur diplôme ;
 
-5. dans le cas où un marin est temporairement absent ou dont le contrat de travail a été suspendu ;
+- dans le cas où un marin est temporairement absent ou dont le contrat de travail a été suspendu ;
 
-6. en cas d’exécution de travaux urgents ;
+- en cas d’exécution de travaux urgents ;
 
-7. en cas de nouvelle absence du marin remplacé.
+- en cas de nouvelle absence du marin remplacé.
 
 <a id="art-3-1-2-15"></a>
 ## Art. 3.1.2-15.
@@ -1486,21 +1516,21 @@ En cas de recrutement sous contrat de travail à durée indéterminée à bord d
 
 Le contrat conclu pour une période déterminée peut prévoir une clause d’essai conforme aux dispositions de l’article 3.1.2-6 sous réserve de ce qui suit :
 
-1. la période d’essai ne peut être convenue dans le contrat dont la durée est inférieure à deux mois ;
+- la période d’essai ne peut être convenue dans le contrat dont la durée est inférieure à deux mois ;
 
-2. sauf convention collective prévoyant une durée moindre et dans les limites posées à l’article 3.1.2-6, paragraphe 3, relatives aux officiers et subalternes,
+- sauf convention collective prévoyant une durée moindre et dans les limites posées à l’article 3.1.2-6, paragraphe 3, relatives aux officiers et subalternes,
 
-1. pour les contrats dont la durée est supérieure ou égale à deux mois et inférieure à trois mois, la période d’essai ne peut être supérieure à trois semaines ;
+  - pour les contrats dont la durée est supérieure ou égale à deux mois et inférieure à trois mois, la période d’essai ne peut être supérieure à trois semaines ;
 
-2. pour les contrats dont la durée est supérieure ou égale à six mois et inférieure à neuf mois, la période d’essai ne peut être supérieure à deux mois ;
+  - pour les contrats dont la durée est supérieure ou égale à six mois et inférieure à neuf mois, la période d’essai ne peut être supérieure à deux mois ;
 
-3. pour les contrats dont la durée est supérieure ou égale à neuf mois et inférieure à douze mois, la période d’essai ne peut être supérieure à trois mois ;
+  - pour les contrats dont la durée est supérieure ou égale à neuf mois et inférieure à douze mois, la période d’essai ne peut être supérieure à trois mois ;
 
-4. pour les contrats dont la durée est supérieure ou égale à douze mois et inférieure à quinze mois, la période d’essai ne peut être supérieure à quatre mois ;
+  - pour les contrats dont la durée est supérieure ou égale à douze mois et inférieure à quinze mois, la période d’essai ne peut être supérieure à quatre mois ;
 
-5. pour les contrats dont la durée est supérieure ou égale à quinze mois et inférieure à dix-huit mois, la période d’essai ne peut être supérieure à cinq mois ;
+  - pour les contrats dont la durée est supérieure ou égale à quinze mois et inférieure à dix-huit mois, la période d’essai ne peut être supérieure à cinq mois ;
 
-6. pour les contrats dont la durée est supérieure ou égale à dix-huit mois, la période d’essai ne peut être supérieure à six mois.
+  - pour les contrats dont la durée est supérieure ou égale à dix-huit mois, la période d’essai ne peut être supérieure à six mois.
 
 En l’absence de terme précis, la période d’essai est calculée de la même façon, par rapport à la durée minimale du contrat.
 
@@ -1553,21 +1583,21 @@ L’inobservation par le marin des dispositions de l’alinéa premier ouvre dro
 
 L’armateur a l’obligation :
 
-1. d’assurer et d’observer le respect des convenances et des bonnes mœurs pendant l’exécution du contrat d’engagement ;
+- d’assurer et d’observer le respect des convenances et des bonnes mœurs pendant l’exécution du contrat d’engagement ;
 
-2. de faire travailler le marin dans les conditions, au temps et au lieu convenus et dans le respect de la présente loi, de ses règlements d’exécution et des conventions collectives de travail, règlements et usages en vigueur ;
+- de faire travailler le marin dans les conditions, au temps et au lieu convenus et dans le respect de la présente loi, de ses règlements d’exécution et des conventions collectives de travail, règlements et usages en vigueur ;
 
-3. de mettre à la disposition, s’il y échet et sauf stipulation contraire, l’aide, les instruments et les matières nécessaires à l’accomplissement du travail ;
+- de mettre à la disposition, s’il y échet et sauf stipulation contraire, l’aide, les instruments et les matières nécessaires à l’accomplissement du travail ;
 
-4. de veiller en bon père de famille à ce que le travail s’accomplisse dans des conditions convenables au point de vue de la sécurité et de la santé du marin et que les premiers secours soient assurés à celui-ci en cas d’accident ;
+- de veiller en bon père de famille à ce que le travail s’accomplisse dans des conditions convenables au point de vue de la sécurité et de la santé du marin et que les premiers secours soient assurés à celui-ci en cas d’accident ;
 
-5. de payer la rémunération conformément aux dispositions du chapitre 3 du titre 2 du présent livre ;
+- de payer la rémunération conformément aux dispositions du chapitre 3 du titre 2 du présent livre ;
 
-6. de fournir au marin, à bord du navire, un logement bien aménagé, proportionné au nombre d’occupants et exclusivement réservé à leur usage selon les modalités prévues au chapitre 4 du titre 2 du présent livre si applicables ;
+- de fournir au marin, à bord du navire, un logement bien aménagé, proportionné au nombre d’occupants et exclusivement réservé à leur usage selon les modalités prévues au chapitre 4 du titre 2 du présent livre si applicables ;
 
-7. de fournir, à sa charge, une nourriture saine et suffisante ainsi que des équipements sanitaires satisfaisants conformément aux dispositions du chapitre 4 du titre 2 du présent livre si applicables ;
+- de fournir, à sa charge, une nourriture saine et suffisante ainsi que des équipements sanitaires satisfaisants conformément aux dispositions du chapitre 4 du titre 2 du présent livre si applicables ;
 
-8. d’apporter les soins en bon père de famille à la conservation des instruments de travail appartenant au marin et des effets personnels que celui-ci doit mettre en dépôt, sans que l’armateur, son préposé ou le capitaine n’aient le droit de retenir ces instruments de travail ou ces effets.
+- d’apporter les soins en bon père de famille à la conservation des instruments de travail appartenant au marin et des effets personnels que celui-ci doit mettre en dépôt, sans que l’armateur, son préposé ou le capitaine n’aient le droit de retenir ces instruments de travail ou ces effets.
 
 <a id="art-3-1-2-22"></a>
 ## Art. 3.1.2-22.
@@ -1585,27 +1615,27 @@ Conformément à l’article 3.1.2-68, lorsque le contrat d’engagement prend f
 
 Les gens de mer ont le droit d’être rapatriés dans les cas suivants :
 
-1. lorsque le contrat d’engagement maritime conclu au voyage ou à durée déterminée vient à expiration à son échéance normale et que le marin se trouve dans un pays autre que son pays de résidence ;
+- lorsque le contrat d’engagement maritime conclu au voyage ou à durée déterminée vient à expiration à son échéance normale et que le marin se trouve dans un pays autre que son pays de résidence ;
 
-2. en cas de licenciement ou de débarquement pour motifs graves ou pour motifs disciplinaires au sens de la loi précitée du 14 avril 1992 ;
+- en cas de licenciement ou de débarquement pour motifs graves ou pour motifs disciplinaires au sens de la loi précitée du 14 avril 1992 ;
 
-3. en cas de licenciement avec préavis, y compris durant la période d’essai, à la fin de la période de préavis prévue à l’article 3.1.2-54, paragraphe 5, ou, en cas de dispense de prester le préavis, à la cessation des activités du marin ;
+- en cas de licenciement avec préavis, y compris durant la période d’essai, à la fin de la période de préavis prévue à l’article 3.1.2-54, paragraphe 5, ou, en cas de dispense de prester le préavis, à la cessation des activités du marin ;
 
-4. en cas de démission du marin pour motifs réels et sérieux ou pour motifs graves ;
+- en cas de démission du marin pour motifs réels et sérieux ou pour motifs graves ;
 
-5. lorsque le marin n’est plus en mesure d’exercer les fonctions prévues par le contrat d’engagement maritime ou qu’il n’est pas possible de lui demander de les exercer compte tenu de circonstances particulières à savoir :
+- lorsque le marin n’est plus en mesure d’exercer les fonctions prévues par le contrat d’engagement maritime ou qu’il n’est pas possible de lui demander de les exercer compte tenu de circonstances particulières à savoir :
 
-1. la maladie, l’accident ou toute autre raison d’ordre médical nécessitant son rapatriement quand le marin est reconnu médicalement en état de voyager ;
+  - la maladie, l’accident ou toute autre raison d’ordre médical nécessitant son rapatriement quand le marin est reconnu médicalement en état de voyager ;
 
-2. la dispense de travail de la femme enceinte préconisée par un médecin selon la procédure visée à l’article 3.3.4-11 ou rendue nécessaire pour des raisons techniques ou objectives ;
+  - la dispense de travail de la femme enceinte préconisée par un médecin selon la procédure visée à l’article 3.3.4-11 ou rendue nécessaire pour des raisons techniques ou objectives ;
 
-3. le naufrage ;
+  - le naufrage ;
 
-4. l’hypothèse où l’armateur n’est plus en mesure de remplir ses obligations légales ou contractuelles d’employeur pour cause d’ouverture d’une procédure collective, de changement d’immatriculation, de vente du navire ou toute autre raison analogue ;
+  - l’hypothèse où l’armateur n’est plus en mesure de remplir ses obligations légales ou contractuelles d’employeur pour cause d’ouverture d’une procédure collective, de changement d’immatriculation, de vente du navire ou toute autre raison analogue ;
 
-5. quand le navire fait route vers une zone de conflit armé, telle que définie par convention collective ou contrat d’engagement, où le marin refuse de se rendre ;
+  - quand le navire fait route vers une zone de conflit armé, telle que définie par convention collective ou contrat d’engagement, où le marin refuse de se rendre ;
 
-6. en cas de cessation ou de suspension du contrat d’engagement maritime conformément à la présente loi, à une convention collective ou en cas de cessation du contrat pour toute autre raison similaire.
+  - en cas de cessation ou de suspension du contrat d’engagement maritime conformément à la présente loi, à une convention collective ou en cas de cessation du contrat pour toute autre raison similaire.
 
 <a id="art-3-1-2-24"></a>
 ## Art. 3.1.2-24.
@@ -1638,15 +1668,15 @@ La prise en charge des frais de rapatriement du marin débarqué pour faute grav
 
 Sans préjudice des frais visés à l’article 3.1.2-36 en cas d’abandon du marin, les frais en cas de rapatriement doivent inclure au moins :
 
-1. le voyage jusqu’à la destination choisie pour le rapatriement par des moyens appropriés et rapides, normalement par avion ;
+- le voyage jusqu’à la destination choisie pour le rapatriement par des moyens appropriés et rapides, normalement par avion ;
 
-2. le logement et la nourriture du marin depuis le moment où il quitte le navire jusqu’à son arrivée à la destination de rapatriement ;
+- le logement et la nourriture du marin depuis le moment où il quitte le navire jusqu’à son arrivée à la destination de rapatriement ;
 
-3. la rémunération et les indemnités depuis le moment où le marin quitte le navire jusqu’à son arrivée à la destination de rapatriement ;
+- la rémunération et les indemnités depuis le moment où le marin quitte le navire jusqu’à son arrivée à la destination de rapatriement ;
 
-4. le transport de 30 kilogrammes de bagages personnels du marin jusqu’à la destination de rapatriement ;
+- le transport de 30 kilogrammes de bagages personnels du marin jusqu’à la destination de rapatriement ;
 
-5. le traitement médical, si nécessaire, en attendant que l’état de santé du marin lui permette de voyager jusqu’à sa destination de rapatriement.
+- le traitement médical, si nécessaire, en attendant que l’état de santé du marin lui permette de voyager jusqu’à sa destination de rapatriement.
 
 (5)
 
@@ -1663,13 +1693,13 @@ L’armateur a la responsabilité d’organiser le rapatriement par des moyens a
 
 Le rapatriement se fait au choix du marin vers une destination avec laquelle il est réputé avoir des attaches effectives, à savoir notamment :
 
-1. le lieu où il a accepté de s’engager ;
+- le lieu où il a accepté de s’engager ;
 
-2. le lieu stipulé par convention collective ;
+- le lieu stipulé par convention collective ;
 
-3. son pays de résidence ;
+- son pays de résidence ;
 
-4. le lieu convenu entre les parties au moment de l’engagement.
+- le lieu convenu entre les parties au moment de l’engagement.
 
 <a id="art-3-1-2-28"></a>
 ## Art. 3.1.2-28.
@@ -1692,11 +1722,11 @@ Dès que le commissaire a pris connaissance du manquement de l’armateur à ses
 
 En l’absence de réponse dans un délai de deux jours suivant mise en demeure, si l’armateur n’a pas procédé au rapatriement du marin :
 
-1. le commissaire organise son rapatriement. S’il omet de le faire, l’État à partir du territoire duquel le marin doit être rapatrié ou l’État dont il est ressortissant peut organiser le rapatriement et en recouvrer les frais auprès de l’État luxembourgeois ;
+- le commissaire organise son rapatriement. S’il omet de le faire, l’État à partir du territoire duquel le marin doit être rapatrié ou l’État dont il est ressortissant peut organiser le rapatriement et en recouvrer les frais auprès de l’État luxembourgeois ;
 
-2. l’État luxembourgeois pourra recouvrer auprès de l’armateur les frais encourus pour le rapatriement du marin ;
+- l’État luxembourgeois pourra recouvrer auprès de l’armateur les frais encourus pour le rapatriement du marin ;
 
-3. les frais de rapatriement ne doivent en aucun cas être à la charge du marin, sauf dans les conditions prévues à l’article 3.1.2-26, paragraphe 3.
+- les frais de rapatriement ne doivent en aucun cas être à la charge du marin, sauf dans les conditions prévues à l’article 3.1.2-26, paragraphe 3.
 
 <a id="art-3-1-2-31"></a>
 ## Art. 3.1.2-31.
@@ -1715,11 +1745,11 @@ Une copie des dispositions nationales applicables au rapatriement, y compris les
 
 Aux fins de la présente partie, tout marin travaillant à bord d’un navire battant pavillon luxembourgeois est considéré comme ayant été abandonné lorsque, en violation des prescriptions de la présente loi ou des termes du contrat d’engagement maritime, l’armateur :
 
-1. ne prend pas en charge les frais de rapatriement du marin ; ou
+- ne prend pas en charge les frais de rapatriement du marin ; ou
 
-2. laisse le marin sans l’entretien et le soutien nécessaires, ce qui comprend une insuffisance de nourriture ou d’eau potable ou de carburant nécessaire pour la survie à bord du navire, ou de soins médicaux, ou une inadéquation par rapport aux normes prescrites par la présente loi ; ou
+- laisse le marin sans l’entretien et le soutien nécessaires, ce qui comprend une insuffisance de nourriture ou d’eau potable ou de carburant nécessaire pour la survie à bord du navire, ou de soins médicaux, ou une inadéquation par rapport aux normes prescrites par la présente loi ; ou
 
-3. provoque une rupture des liens avec le marin et notamment ne verse pas les salaires contractuels tels que visés au chapitre 3 du titre 2 du présent livre durant une période d’au moins deux mois.
+- provoque une rupture des liens avec le marin et notamment ne verse pas les salaires contractuels tels que visés au chapitre 3 du titre 2 du présent livre durant une période d’au moins deux mois.
 
 <a id="art-3-1-2-34"></a>
 ## Art. 3.1.2-34.
@@ -1742,26 +1772,26 @@ En cas de contestation partielle de la demande du marin, celui-ci doit recevoir 
 
 Pour être acceptable, l’assistance fournie au titre de la garantie financière doit au moins couvrir, eu égard aux dispositions sur le paiement des salaires et sur le rapatriement :
 
-1. les salaires en suspens et autres prestations que l’armateur doit verser au marin comme prévu par son contrat d’engagement maritime, une convention collective ou la présente loi, le montant couvert pouvant être limité à quatre mois de retard pour les salaires accumulés et quatre mois de retard pour les droits en suspens ;
+- les salaires en suspens et autres prestations que l’armateur doit verser au marin comme prévu par son contrat d’engagement maritime, une convention collective ou la présente loi, le montant couvert pouvant être limité à quatre mois de retard pour les salaires accumulés et quatre mois de retard pour les droits en suspens ;
 
-2. les dépenses raisonnables engagées par le marin, y compris les frais de son rapatriement visés à l’article 3.1.2-37 ;
+- les dépenses raisonnables engagées par le marin, y compris les frais de son rapatriement visés à l’article 3.1.2-37 ;
 
-3. les besoins essentiels du marin qui comprennent une nourriture convenable, des vêtements lorsque nécessaire, un logement, l’approvisionnement en eau potable, le carburant nécessaire à la survie à bord du navire, les soins médicaux nécessaires et la prise en charge de tous autres frais ou dépenses raisonnables à partir de l’acte ou de l’omission constitutif de l’abandon jusqu’à l’arrivée du marin à son domicile.
+- les besoins essentiels du marin qui comprennent une nourriture convenable, des vêtements lorsque nécessaire, un logement, l’approvisionnement en eau potable, le carburant nécessaire à la survie à bord du navire, les soins médicaux nécessaires et la prise en charge de tous autres frais ou dépenses raisonnables à partir de l’acte ou de l’omission constitutif de l’abandon jusqu’à l’arrivée du marin à son domicile.
 
 <a id="art-3-1-2-37"></a>
 ## Art. 3.1.2-37.
 
 Les frais de rapatriement en cas d’abandon couvrent :
 
-1. le voyage jusqu’au domicile du marin par les moyens appropriés tels que définis à l’article 3.1.2-27, paragraphe 1 er ;
+- le voyage jusqu’au domicile du marin par les moyens appropriés tels que définis à l’article 3.1.2-27, paragraphe 1 er ;
 
-2. la fourniture de la nourriture et d’un logement au marin depuis son départ du navire jusqu’à l’arrivée à son domicile ;
+- la fourniture de la nourriture et d’un logement au marin depuis son départ du navire jusqu’à l’arrivée à son domicile ;
 
-3. les soins médicaux nécessaires ;
+- les soins médicaux nécessaires ;
 
-4. le passage et le transport des effets personnels ;
+- le passage et le transport des effets personnels ;
 
-5. tous autres frais ou dépenses raisonnables résultant de l’abandon.
+- tous autres frais ou dépenses raisonnables résultant de l’abandon.
 
 <a id="art-3-1-2-38"></a>
 ## Art. 3.1.2-38.
@@ -1835,11 +1865,11 @@ Les dispositions de l’article 3.1.2-45 sont sans préjudice des autres droits 
 
 Tout marin travaillant à bord d’un navire battant pavillon luxembourgeois a l’obligation :
 
-1. d’exécuter son travail avec soin, probité et conscience, au lieu, au temps et dans les conditions convenus et dans le respect de la présente loi et des conventions collectives de travail, des règlements en vigueur sur le navire où il est affecté et des coutumes du droit international maritime ;
+- d’exécuter son travail avec soin, probité et conscience, au lieu, au temps et dans les conditions convenus et dans le respect de la présente loi et des conventions collectives de travail, des règlements en vigueur sur le navire où il est affecté et des coutumes du droit international maritime ;
 
-2. d’agir conformément aux ordres et aux instructions de ses supérieurs hiérarchiques et d’avoir soin du navire et de la cargaison éventuelle ;
+- d’agir conformément aux ordres et aux instructions de ses supérieurs hiérarchiques et d’avoir soin du navire et de la cargaison éventuelle ;
 
-3. de restituer en bon état à l’armateur, à son préposé ou au capitaine les instruments de travail qui lui ont été confiés.
+- de restituer en bon état à l’armateur, à son préposé ou au capitaine les instruments de travail qui lui ont été confiés.
 
 <a id="art-3-1-2-48"></a>
 ## Art. 3.1.2-48.
@@ -1910,17 +1940,17 @@ Le contrat d’engagement maritime à durée indéterminée prend fin dans un po
 
 La notification du licenciement du marin doit être effectuée, sous peine d’irrégularité pour vice de forme, par l’armateur ou par son représentant muni d’un mandat spécial, par l’un des moyens suivants :
 
-1. si le marin se trouve à bord, par la remise en main propre d’un écrit contre récépissé signé par le marin ; ou
+- si le marin se trouve à bord, par la remise en main propre d’un écrit contre récépissé signé par le marin ; ou
 
-2. si le marin ne se trouve pas à bord, par lettre recommandée.
+- si le marin ne se trouve pas à bord, par lettre recommandée.
 
 (3)
 
 La notification de la démission du marin doit être effectuée par l’un des moyens suivants :
 
-1. par lettre recommandée adressée à l’armateur ou à son représentant ; ou
+- par lettre recommandée adressée à l’armateur ou à son représentant ; ou
 
-2. si le marin démissionnaire n’est pas le capitaine, par la remise en main propre d’un écrit contre récépissé signé par le capitaine.
+- si le marin démissionnaire n’est pas le capitaine, par la remise en main propre d’un écrit contre récépissé signé par le capitaine.
 
 (4)
 
@@ -1930,19 +1960,19 @@ Toute résiliation du contrat d’engagement maritime est portée sur le journal
 
 En cas de notification de la résiliation, le contrat d’engagement maritime prend fin :
 
-1. à l’expiration d’un délai de préavis d’une semaine, lorsque le marin justifie auprès du même armateur d’une ancienneté de services continus inférieure à trois mois ;
+- à l’expiration d’un délai de préavis d’une semaine, lorsque le marin justifie auprès du même armateur d’une ancienneté de services continus inférieure à trois mois ;
 
-2. à l’expiration d’un délai de préavis de deux semaines, lorsque le marin justifie auprès du même armateur d’une ancienneté de services continus supérieure ou égale à trois mois mais inférieure à trois ans ;
+- à l’expiration d’un délai de préavis de deux semaines, lorsque le marin justifie auprès du même armateur d’une ancienneté de services continus supérieure ou égale à trois mois mais inférieure à trois ans ;
 
-3. à l’expiration d’un délai de préavis de six semaines, lorsque le marin justifie auprès du même armateur d’une ancienneté de services continus de trois ans au moins.
+- à l’expiration d’un délai de préavis de six semaines, lorsque le marin justifie auprès du même armateur d’une ancienneté de services continus de trois ans au moins.
 
 (6)
 
 Les délais de préavis visés au paragraphe 5 prennent cours :
 
-1. le quinzième jour du mois de calendrier au cours duquel la résiliation a été notifiée, lorsque la notification est antérieure à ce jour ;
+- le quinzième jour du mois de calendrier au cours duquel la résiliation a été notifiée, lorsque la notification est antérieure à ce jour ;
 
-2. le premier jour du mois de calendrier qui suit celui au cours duquel la résiliation a été notifiée, lorsque la notification est postérieure au quatorzième jour du mois.
+- le premier jour du mois de calendrier qui suit celui au cours duquel la résiliation a été notifiée, lorsque la notification est postérieure au quatorzième jour du mois.
 
 <a id="art-3-1-2-55"></a>
 ## Art. 3.1.2-55.
@@ -1985,11 +2015,11 @@ L’ancienneté est appréciée à la date d’expiration du délai de préavis,
 
 L’indemnité de départ est égale à :
 
-1. une mensualité après une ancienneté de services continus de cinq années au moins auprès du même armateur ;
+- une mensualité après une ancienneté de services continus de cinq années au moins auprès du même armateur ;
 
-2. deux mensualités après une ancienneté de services continus de dix années au moins auprès du même armateur ;
+- deux mensualités après une ancienneté de services continus de dix années au moins auprès du même armateur ;
 
-3. trois mensualités après une ancienneté de services continus de quinze années au moins auprès du même armateur.
+- trois mensualités après une ancienneté de services continus de quinze années au moins auprès du même armateur.
 
 L’indemnité de départ ne se confond pas avec la réparation visée à l’article 3.1.2-60.
 
@@ -2131,11 +2161,11 @@ Le contrat d’engagement maritime prend fin par le décès du marin.
 
 Peuvent toutefois prétendre au maintien du salaire se rapportant à la fin du mois de la survenance de décès du marin et à l’attribution d’une indemnité égale à trois mensualités de salaire :
 
-1. le conjoint survivant contre lequel il n’existe pas de jugement de divorce ou de séparation de corps passé en force de chose jugée ou la personne survivante ayant vécu au moment du décès avec l’assuré en partenariat déclaré dans le respect des conditions prévues par la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ;
+- le conjoint survivant contre lequel il n’existe pas de jugement de divorce ou de séparation de corps passé en force de chose jugée ou la personne survivante ayant vécu au moment du décès avec l’assuré en partenariat déclaré dans le respect des conditions prévues par la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ;
 
-2. les enfants mineurs du marin décédé et les enfants majeurs dont il a assumé au moment de son décès l’entretien et l’éducation ; sinon
+- les enfants mineurs du marin décédé et les enfants majeurs dont il a assumé au moment de son décès l’entretien et l’éducation ; sinon
 
-3. les ascendants ayant vécu en communauté domestique avec le marin à condition que leur entretien fût à sa charge.
+- les ascendants ayant vécu en communauté domestique avec le marin à condition que leur entretien fût à sa charge.
 
 Si le marin décédé a eu la jouissance d’un logement gratuit à terre, l’armateur doit laisser ce logement gratuitement à la disposition des personnes visées à l’alinéa 2 jusqu’à l’expiration des trois mois qui suivent celui de la survenance du décès.
 
@@ -2156,13 +2186,13 @@ Le contrat d’engagement maritime cesse de plein droit le jour de l’attributi
 
 Quelle que soit sa nature, le contrat d’engagement maritime prend fin de plein droit :
 
-1. le jour de la décision portant attribution au marin d’une pension d’invalidité ; au cas où le marin continue à exercer ou reprend une activité professionnelle en conformité avec les dispositions légales régissant la pension d’invalidité, un nouveau contrat d’engagement maritime peut être conclu ;
+- le jour de la décision portant attribution au marin d’une pension d’invalidité ; au cas où le marin continue à exercer ou reprend une activité professionnelle en conformité avec les dispositions légales régissant la pension d’invalidité, un nouveau contrat d’engagement maritime peut être conclu ;
 
-2. le jour de l’épuisement des droits du marin à l’indemnité pécuniaire de maladie lui accordée conformément au Code de la sécurité sociale ;
+- le jour de l’épuisement des droits du marin à l’indemnité pécuniaire de maladie lui accordée conformément au Code de la sécurité sociale ;
 
-3. en cas de perte, de naufrage ou d’innavigabilité absolue dûment constatés du navire pour lequel le contrat d’engagement maritime a été conclu exclusivement ;
+- en cas de perte, de naufrage ou d’innavigabilité absolue dûment constatés du navire pour lequel le contrat d’engagement maritime a été conclu exclusivement ;
 
-4. par le refus du marin de naviguer vers une zone de conflit armé tel que défini par la convention collective.
+- par le refus du marin de naviguer vers une zone de conflit armé tel que défini par la convention collective.
 
 Dans ces cas, le délai de préavis visé à l’article 3.1.2-54 n’est pas applicable.
 
@@ -2288,9 +2318,9 @@ Les dispositions du présent chapitre sont applicables à tous les gens de mer t
 
 Aux fins du présent chapitre, on entend par :
 
-1. « heures de travail » : le temps durant lequel le marin est tenu d’effectuer un travail pour le navire et est à la disposition du capitaine hors des locaux qui lui servent d’habitation ;
+- « heures de travail » : le temps durant lequel le marin est tenu d’effectuer un travail pour le navire et est à la disposition du capitaine hors des locaux qui lui servent d’habitation ;
 
-2. « heures de repos » : le temps qui n’est pas compris dans la durée du travail et durant lequel le marin est en droit de séjourner dans les locaux qui lui servent d’habitation. Cette définition n’inclut pas les interruptions de courte durée.
+- « heures de repos » : le temps qui n’est pas compris dans la durée du travail et durant lequel le marin est en droit de séjourner dans les locaux qui lui servent d’habitation. Cette définition n’inclut pas les interruptions de courte durée.
 
 <a id="art-3-2-1-3"></a>
 ## Art. 3.2.1-3.
@@ -2311,9 +2341,9 @@ En tenant compte des dangers qu’entraîne une fatigue excessive des gens de me
 
 Le nombre minimal d’heures de repos des gens de mer ne peut pas être inférieur à :
 
-1. dix heures par période de vingt-quatre heures ; et
+- dix heures par période de vingt-quatre heures ; et
 
-2. soixante-dix-sept heures par période de sept jours.
+- soixante-dix-sept heures par période de sept jours.
 
 Les heures de repos ne peuvent être scindées en plus de deux périodes.
 
@@ -2328,13 +2358,13 @@ Dans ce cas, la convention collective doit déterminer, par type de navire, de n
 
 La convention collective prévoit :
 
-1. des mesures assurant le respect en toutes circonstances de l’obligation de veille ;
+- des mesures assurant le respect en toutes circonstances de l’obligation de veille ;
 
-2. l’octroi de périodes de repos consécutives pour prévenir toute fatigue ;
+- l’octroi de périodes de repos consécutives pour prévenir toute fatigue ;
 
-3. l’octroi de congés pour compenser les dérogations aux limites mentionnées précédemment ;
+- l’octroi de congés pour compenser les dérogations aux limites mentionnées précédemment ;
 
-4. des mesures de contrôle de la prise effective des repos à bord et de prévention de la fatigue.
+- des mesures de contrôle de la prise effective des repos à bord et de prévention de la fatigue.
 
 <a id="art-3-2-1-7"></a>
 ## Art. 3.2.1-7.
@@ -2377,9 +2407,9 @@ Un mode forfaitaire de rémunération du travail supplémentaire peut être fix�
 
 La durée maximale journalière du temps de travail peut être dépassée sans majoration de rémunération pour les travaux ci-après :
 
-1. les travaux que le capitaine estime nécessaires et urgents en vue de sauvegarder la sécurité du navire, de la cargaison ou des personnes embarquées ;
+- les travaux que le capitaine estime nécessaires et urgents en vue de sauvegarder la sécurité du navire, de la cargaison ou des personnes embarquées ;
 
-2. les travaux requis par le capitaine en vue de porter secours à d’autres navires ou à d’autres personnes en détresse.
+- les travaux requis par le capitaine en vue de porter secours à d’autres navires ou à d’autres personnes en détresse.
 
 Dès que cela est réalisable après le retour à une situation normale, le capitaine doit faire en sorte que tout marin ayant effectué un travail alors qu’il était en période de repos selon l’horaire normal bénéficie d’une période de repos adéquate.
 
@@ -2397,9 +2427,9 @@ Les pauses peuvent être subdivisées en périodes d’une durée d’au moins d
 
 Un tableau, établi selon un modèle normalisé par règlement grand-ducal dans la ou les langues de travail du navire ainsi qu’en anglais et précisant l’organisation du travail à bord, doit être affiché à un endroit facilement accessible et doit indiquer pour chaque fonction au moins :
 
-1. le programme du service à la mer et au port ;
+- le programme du service à la mer et au port ;
 
-2. le nombre minimal d’heures de repos prescrit par la législation nationale ou la convention collective applicable.
+- le nombre minimal d’heures de repos prescrit par la législation nationale ou la convention collective applicable.
 
 <a id="art-3-2-1-14"></a>
 ## Art. 3.2.1-14.
@@ -2418,9 +2448,9 @@ Toute clause ou accord contraire moins favorable aux dispositions du présent ti
 
 Est puni d’une peine d’emprisonnement de huit jours à six mois et d’une amende de 251 à 20 000 euros ou d’une de ces peines seulement, celui qui :
 
-1. a occupé des gens de mer sans respecter les heures de repos minimales fixées au présent titre ou aux règlements grand-ducaux d’exécution ou conventions collectives pris en son exécution ;
+- a occupé des gens de mer sans respecter les heures de repos minimales fixées au présent titre ou aux règlements grand-ducaux d’exécution ou conventions collectives pris en son exécution ;
 
-2. n’a pas observé les dispositions sur la tenue des registres et informations prévues à l’article 3.2.1-14.
+- n’a pas observé les dispositions sur la tenue des registres et informations prévues à l’article 3.2.1-14.
 
 Ces peines peuvent être portées au double des maxima en cas de récidive dans un délai de deux ans.
 
@@ -2466,9 +2496,9 @@ Au cas où le congé compensatoire visé au paragraphe 2 ne peut être accordé 
 
 Sans préjudice du salaire mensuel moyen, chaque jour férié travaillé sera compensé :
 
-1. par une période au moins équivalente d’exemption de service et de présence à bord ou par un congé compensatoire et par le salaire des heures effectivement prestées majoré d’au moins 25 pour cent ; ou
+- par une période au moins équivalente d’exemption de service et de présence à bord ou par un congé compensatoire et par le salaire des heures effectivement prestées majoré d’au moins 25 pour cent ; ou
 
-2. si le congé compensatoire visé au point 1° ne peut être accordé pour des nécessités de service, par le salaire correspondant à la durée dudit congé et par le salaire des heures effectivement prestées majoré d’au moins 25 pour cent.
+- si le congé compensatoire visé au point 1° ne peut être accordé pour des nécessités de service, par le salaire correspondant à la durée dudit congé et par le salaire des heures effectivement prestées majoré d’au moins 25 pour cent.
 
 (2)
 
@@ -2514,11 +2544,11 @@ Les dispositions des paragraphes 1er à 4 ne préjugent pas de l’application d
 
 Ne sont pas considérés comme portant atteinte à la règle du repos hebdomadaire tous travaux nécessités par :
 
-1. les circonstances de force majeure ;
+- les circonstances de force majeure ;
 
-2. les circonstances où le capitaine est en droit d’estimer que le salut des navires, des personnes embarquées, ou de la cargaison est en jeu ;
+- les circonstances où le capitaine est en droit d’estimer que le salut des navires, des personnes embarquées, ou de la cargaison est en jeu ;
 
-3. les travaux urgents dont l’exécution immédiate est nécessaire pour organiser des mesures d’assistance ou de sauvetage, pour prévenir les accidents imminents ou pour réparer des accidents survenus aux installations ou au navire lui-même.
+- les travaux urgents dont l’exécution immédiate est nécessaire pour organiser des mesures d’assistance ou de sauvetage, pour prévenir les accidents imminents ou pour réparer des accidents survenus aux installations ou au navire lui-même.
 
 Dès que cela est réalisable après le retour à une situation normale, le capitaine doit faire en sorte que tout marin ayant effectué un travail alors qu’il était en période de repos selon l’horaire normal bénéficie d’une période de repos adéquate.
 
@@ -2561,24 +2591,24 @@ Toute période de service effectuée en dehors du contrat d’engagement maritim
 
 Doivent également être considérées comme des absences justifiées et comptées dans la période de service :
 
-1. les absences au travail pour participer à un cours agréé de formation professionnelle maritime ;
+- les absences au travail pour participer à un cours agréé de formation professionnelle maritime ;
 
-2. les périodes d’incapacité de travail résultant des maladies ou d’accidents, ou pour cause de maternité.
+- les périodes d’incapacité de travail résultant des maladies ou d’accidents, ou pour cause de maternité.
 
 <a id="art-3-2-2-14"></a>
 ## Art. 3.2.2-14.
 
 Ne peuvent être imputées sur la durée du congé auquel le marin a droit :
 
-1. les absences prévues à l’article 3.2.2-13 ;
+- les absences prévues à l’article 3.2.2-13 ;
 
-2. les jours fériés officiels qu’ils se situent ou non dans la période de congé payé annuel ;
+- les jours fériés officiels qu’ils se situent ou non dans la période de congé payé annuel ;
 
-3. les permissions à terre temporaires accordées aux gens de mer pendant le contrat d’engagement ;
+- les permissions à terre temporaires accordées aux gens de mer pendant le contrat d’engagement ;
 
-4. les absences motivées par des cas de force majeure ou par des causes indépendantes de la volonté du marin, à l’exception des absences résultant d’une peine d’emprisonnement ;
+- les absences motivées par des cas de force majeure ou par des causes indépendantes de la volonté du marin, à l’exception des absences résultant d’une peine d’emprisonnement ;
 
-5. le temps passé dans l’attente du rapatriement et la durée du voyage.
+- le temps passé dans l’attente du rapatriement et la durée du voyage.
 
 Si, pendant le congé de récréation, le marin tombe malade de façon à ne plus pouvoir jouir de ce congé, les journées de maladie reconnues comme telles ne sont pas considérées comme jours de congé.
 
@@ -2669,15 +2699,15 @@ Sauf dispositions contraires, les dispositions du présent chapitre sont applica
 
 Aux fins du présent chapitre, on entend par :
 
-1. « matelot qualifié »: tout marin qui est jugé posséder la compétence professionnelle nécessaire pour remplir toute tâche dont l’exécution peut être exigée d’un matelot affecté au service du pont, autre que les tâches du personnel d’encadrement ou spécialisé, ou tout marin défini comme tel par une convention collective ;
+- « matelot qualifié »: tout marin qui est jugé posséder la compétence professionnelle nécessaire pour remplir toute tâche dont l’exécution peut être exigée d’un matelot affecté au service du pont, autre que les tâches du personnel d’encadrement ou spécialisé, ou tout marin défini comme tel par une convention collective ;
 
-2. « salaire ou solde de base » : la rémunération perçue, quels qu’en soient les éléments, pour une durée normale du travail, ce qui exclut le paiement des heures supplémentaires, des primes ou gratifications, allocations, congés payés et autres émoluments complémentaires ;
+- « salaire ou solde de base » : la rémunération perçue, quels qu’en soient les éléments, pour une durée normale du travail, ce qui exclut le paiement des heures supplémentaires, des primes ou gratifications, allocations, congés payés et autres émoluments complémentaires ;
 
-3. « salaire forfaitaire » : un salaire composé du salaire de base et d’autres prestations liées au salaire ; le salaire forfaitaire peut inclure la rémunération de toutes les heures supplémentaires effectuées et toutes autres prestations liées au salaire, ou il peut n’inclure que certaines prestations dans le cas d’un forfait partiel ;
+- « salaire forfaitaire » : un salaire composé du salaire de base et d’autres prestations liées au salaire ; le salaire forfaitaire peut inclure la rémunération de toutes les heures supplémentaires effectuées et toutes autres prestations liées au salaire, ou il peut n’inclure que certaines prestations dans le cas d’un forfait partiel ;
 
-4. « durée normale du travail » : la définition qui est donnée à l’article 3.2.1-3 est d’application ;
+- « durée normale du travail » : la définition qui est donnée à l’article 3.2.1-3 est d’application ;
 
-5. « heures supplémentaires » : la définition qui est donnée à l’article 3.2.1-10 est d’application.
+- « heures supplémentaires » : la définition qui est donnée à l’article 3.2.1-10 est d’application.
 
 ##### Section 2 Droit à la rémunération
 
@@ -2705,9 +2735,9 @@ L’armateur doit prendre des mesures nécessaires pour donner aux gens de mer l
 
 L’armateur doit notamment à ce titre :
 
-1. mettre en place un système permettant aux gens de mer de demander, au moment de prendre leurs fonctions ou en cours d’emploi, qu’une partie de leurs salaires soit régulièrement versée à leurs familles, par virement bancaire ou par des moyens analogues ;
+- mettre en place un système permettant aux gens de mer de demander, au moment de prendre leurs fonctions ou en cours d’emploi, qu’une partie de leurs salaires soit régulièrement versée à leurs familles, par virement bancaire ou par des moyens analogues ;
 
-2. s’assurer que ces virements soient effectués en temps voulu et directement à la personne ou aux personnes désignées par les gens de mer.
+- s’assurer que ces virements soient effectués en temps voulu et directement à la personne ou aux personnes désignées par les gens de mer.
 
 <a id="art-3-2-3-7"></a>
 ## Art. 3.2.3-7.
@@ -2738,34 +2768,34 @@ Pour les gens de mer qui reçoivent une rémunération séparée pour les heures
 
 Pour les gens de mer dont le salaire est intégralement ou partiellement forfaitaire en application de la convention collective :
 
-1. le contrat d’engagement maritime doit spécifier clairement, s’il y a lieu, le nombre d’heures de travail censées être effectuées par le marin pour la rémunération prévue, ainsi que toutes allocations supplémentaires qui pourraient lui être dues ;
+- le contrat d’engagement maritime doit spécifier clairement, s’il y a lieu, le nombre d’heures de travail censées être effectuées par le marin pour la rémunération prévue, ainsi que toutes allocations supplémentaires qui pourraient lui être dues ;
 
-2. lorsque des heures supplémentaires telles que définies à l’article 3.2.1-10 sont payables pour des heures de travail effectuées en sus des heures couvertes par le salaire forfaitaire, le taux horaire doit être supérieur d’au moins 25 pour cent au taux horaire de base correspondant à la durée normale du travail telle que définie à l’article 3.2.1-2. Le même principe est appliqué aux heures supplémentaires couvertes par le salaire forfaitaire ;
+- lorsque des heures supplémentaires telles que définies à l’article 3.2.1-10 sont payables pour des heures de travail effectuées en sus des heures couvertes par le salaire forfaitaire, le taux horaire doit être supérieur d’au moins 25 pour cent au taux horaire de base correspondant à la durée normale du travail telle que définie à l’article 3.2.1-2. Le même principe est appliqué aux heures supplémentaires couvertes par le salaire forfaitaire ;
 
-3. pour la partie du salaire intégralement ou partiellement forfaitaire qui correspond à la durée normale du travail, telle que définie à l’article 3.2.1-2, la rémunération ne doit pas être inférieure au salaire minimum applicable ;
+- pour la partie du salaire intégralement ou partiellement forfaitaire qui correspond à la durée normale du travail, telle que définie à l’article 3.2.1-2, la rémunération ne doit pas être inférieure au salaire minimum applicable ;
 
-4. pour les gens de mer dont le salaire est partiellement forfaitaire, des registres de toutes les heures supplémentaires effectuées doivent être tenus et émargés.
+- pour les gens de mer dont le salaire est partiellement forfaitaire, des registres de toutes les heures supplémentaires effectuées doivent être tenus et émargés.
 
 <a id="art-3-2-3-12"></a>
 ## Art. 3.2.3-12.
 
 Lors de la conclusion d’un contrat d’engagement maritime ou d’une convention collective, il doit être tenu compte des principes suivants :
 
-1. le principe d’une rémunération égale pour un travail de valeur égale doit être appliqué à tous les gens de mer travaillant sur le même navire, sans discrimination fondée sur la race, la couleur, le sexe, la religion, les opinions politiques, l’ascendance ;
+- le principe d’une rémunération égale pour un travail de valeur égale doit être appliqué à tous les gens de mer travaillant sur le même navire, sans discrimination fondée sur la race, la couleur, le sexe, la religion, les opinions politiques, l’ascendance ;
 
-2. le contrat d’engagement maritime spécifiant le montant ou le taux des salaires doit être disponible à bord ; il faut tenir à la disposition du marin des informations sur le montant des salaires ou leurs taux en lui remettant au moins une copie signée de l’information correspondante dans une langue qu’il comprenne, ou en plaçant une copie du contrat à un endroit accessible à l’équipage, ou par tout autre moyen approprié ;
+- le contrat d’engagement maritime spécifiant le montant ou le taux des salaires doit être disponible à bord ; il faut tenir à la disposition du marin des informations sur le montant des salaires ou leurs taux en lui remettant au moins une copie signée de l’information correspondante dans une langue qu’il comprenne, ou en plaçant une copie du contrat à un endroit accessible à l’équipage, ou par tout autre moyen approprié ;
 
-3. les salaires doivent être payés dans une monnaie ayant cours légal, le cas échéant par virement bancaire, chèque bancaire ou postal ou ordre de paiement ;
+- les salaires doivent être payés dans une monnaie ayant cours légal, le cas échéant par virement bancaire, chèque bancaire ou postal ou ordre de paiement ;
 
-4. à la fin de l’engagement, toute rémunération restant due est payée dans les cinq jours ;
+- à la fin de l’engagement, toute rémunération restant due est payée dans les cinq jours ;
 
-5. les salaires devraient être versés directement sur le compte bancaire désigné par le marin, sauf s’il a demandé par écrit qu’il en soit autrement ;
+- les salaires devraient être versés directement sur le compte bancaire désigné par le marin, sauf s’il a demandé par écrit qu’il en soit autrement ;
 
-6. sous réserve des dispositions du point 7°, l’armateur ne pourra restreindre d’aucune manière la liberté du marin de disposer de son salaire ;
+- sous réserve des dispositions du point 7°, l’armateur ne pourra restreindre d’aucune manière la liberté du marin de disposer de son salaire ;
 
-7. les retenues sur salaires ne sont autorisées que sur la base d’une disposition légale. Sont ainsi applicables les dispositions du livre II, titre II, chapitre IV, du Code du travail ;
+- les retenues sur salaires ne sont autorisées que sur la base d’une disposition légale. Sont ainsi applicables les dispositions du livre II, titre II, chapitre IV, du Code du travail ;
 
-8. le commissaire ou son délégué est habilité à inspecter les magasins et services disponibles à bord afin de s’assurer qu’ils pratiquent des prix justes et raisonnables dans l’intérêt des gens de mer concernés.
+- le commissaire ou son délégué est habilité à inspecter les magasins et services disponibles à bord afin de s’assurer qu’ils pratiquent des prix justes et raisonnables dans l’intérêt des gens de mer concernés.
 
 <a id="art-3-2-3-13"></a>
 ## Art. 3.2.3-13.
@@ -2825,29 +2855,29 @@ Les armateurs veillent à ce que les navires battant pavillon luxembourgeois fou
 
 Afin de garantir aux gens de mer que les logements et les lieux de loisirs à bord mis à leur disposition soient sûrs, décents et conformes aux dispositions du présent chapitre et tiennent compte des exigences relatives à la protection de la santé, de la sécurité et de la prévention des accidents, des normes minimales devront être respectées. À ce titre, un règlement grand-ducal précise les exigences relatives :
 
-1. à la taille des cabines et autres espaces de logement ;
+- à la taille des cabines et autres espaces de logement ;
 
-2. au chauffage et la ventilation ;
+- au chauffage et la ventilation ;
 
-3. au bruit et les vibrations ainsi qu’aux autres facteurs ambiants ;
+- au bruit et les vibrations ainsi qu’aux autres facteurs ambiants ;
 
-4. aux installations sanitaires ;
+- aux installations sanitaires ;
 
-5. à l’éclairage ;
+- à l’éclairage ;
 
-6. à l’infirmerie.
+- à l’infirmerie.
 
 (2)
 
 Après consultation des organisations d’armateurs et des gens de mer, et compte tenu de la taille du navire et du nombre de personnes à bord, le commissaire peut accorder des exemptions aux navires d’une jauge brute inférieure à 200, lorsque celles-ci sont raisonnables. Les exemptions concernent uniquement :
 
-1. la climatisation des logements à bord, du local radio et de tout poste central de commande des machines ;
+- la climatisation des logements à bord, du local radio et de tout poste central de commande des machines ;
 
-2. la présence obligatoire de lavabos alimentés d’eau douce chaude et froide dans chaque cabine ou dans un cabinet de toilette y attenant sur les navires autres que les navires à passagers ;
+- la présence obligatoire de lavabos alimentés d’eau douce chaude et froide dans chaque cabine ou dans un cabinet de toilette y attenant sur les navires autres que les navires à passagers ;
 
-3. des installations de blanchisserie ;
+- des installations de blanchisserie ;
 
-4. la superficie minimale des cabines.
+- la superficie minimale des cabines.
 
 <a id="art-3-2-4-4"></a>
 ## Art. 3.2.4-4.
@@ -2856,9 +2886,9 @@ Après consultation des organisations d’armateurs et des gens de mer, et compt
 
 Afin d’assurer le respect initial et permanent des dispositions de la présente section et du règlement grand-ducal pris en son exécution, tous les navires feront l’objet d’inspections telles que visées à l’article 3.4.0-2 et par les règlements grand-ducaux pris en son exécution qui doivent au moins avoir lieu :
 
-1. lors de la première immatriculation du navire ou lors d’une nouvelle immatriculation ;
+- lors de la première immatriculation du navire ou lors d’une nouvelle immatriculation ;
 
-2. en cas de modification substantielle du logement des gens de mer à bord du navire.
+- en cas de modification substantielle du logement des gens de mer à bord du navire.
 
 (2)
 
@@ -2898,9 +2928,9 @@ Les gens de mer à bord d’un navire sont nourris gratuitement jusqu’à la fi
 
 En complément des prescriptions de l’article 3.2.4-8, l’armateur est tenu de s’assurer :
 
-1. d’un aménagement et d’un équipement du service de cuisine et de table qui permettent de fournir aux gens de mer des repas convenables, variés et nutritifs, préparés et servis dans des conditions d’hygiène satisfaisantes ;
+- d’un aménagement et d’un équipement du service de cuisine et de table qui permettent de fournir aux gens de mer des repas convenables, variés et nutritifs, préparés et servis dans des conditions d’hygiène satisfaisantes ;
 
-2. d’un personnel de cuisine et de table convenablement formé ou ayant reçu l’instruction nécessaire.
+- d’un personnel de cuisine et de table convenablement formé ou ayant reçu l’instruction nécessaire.
 
 <a id="art-3-2-4-11"></a>
 ## Art. 3.2.4-11.
@@ -2913,9 +2943,9 @@ L’armateur veille à ce que les gens de mer engagés comme cuisiniers chargés
 
 Peuvent être engagés comme cuisiniers à bord des navires, les gens de mer qui répondent aux exigences suivantes :
 
-1. détenir un certificat de cuisinier obtenu à la suite d’une formation spécifique en la matière ou considérée comme équivalente par le commissaire et délivré par une institution agréée luxembourgeoise ou étrangère. Un règlement grand-ducal pourra préciser le type et le contenu de la formation. Un certificat de capacité de cuisinier de navire délivré par des États membres ayant ratifié la Convention de travail maritime, 2006, ou la Convention nº 69 sur le diplôme de capacité des cuisiniers de navire, 1946, ou par toute autre institution agréée est également accepté. Le certificat de capacité de cuisinier devra dans tous les cas faire l’objet d’une reconnaissance par le commissaire ;
+- détenir un certificat de cuisinier obtenu à la suite d’une formation spécifique en la matière ou considérée comme équivalente par le commissaire et délivré par une institution agréée luxembourgeoise ou étrangère. Un règlement grand-ducal pourra préciser le type et le contenu de la formation. Un certificat de capacité de cuisinier de navire délivré par des États membres ayant ratifié la Convention de travail maritime, 2006, ou la Convention nº 69 sur le diplôme de capacité des cuisiniers de navire, 1946, ou par toute autre institution agréée est également accepté. Le certificat de capacité de cuisinier devra dans tous les cas faire l’objet d’une reconnaissance par le commissaire ;
 
-2. avoir acquis au moins un mois de service à bord d’un ou plusieurs navires en tant que cuisinier de navire ou d’assistant cuisinier.
+- avoir acquis au moins un mois de service à bord d’un ou plusieurs navires en tant que cuisinier de navire ou d’assistant cuisinier.
 
 (3)
 
@@ -2943,11 +2973,11 @@ Le commissaire peut émettre des recommandations relatives à l’alimentation e
 
 L’armateur s’assure que le capitaine ou une personne agissant sous son autorité effectuent des inspections documentées et fréquentes, n’excédant pas sept jours, afin de vérifier :
 
-1. l’approvisionnement en vivres et en eau potable ;
+- l’approvisionnement en vivres et en eau potable ;
 
-2. de la conformité des locaux et équipements utilisés pour le stockage et la manipulation des vivres et de l’eau potable ;
+- de la conformité des locaux et équipements utilisés pour le stockage et la manipulation des vivres et de l’eau potable ;
 
-3. la cuisine et toute autre installation utilisée pour la préparation et le service des repas.
+- la cuisine et toute autre installation utilisée pour la préparation et le service des repas.
 
 Les résultats de chaque inspection doivent être consignés par écrit et doivent être disponibles pour consultation.
 
@@ -3022,22 +3052,22 @@ Sans préjudice d’autres moyens de droit à leur disposition, les gens de mer 
 
 Sans préjudice de l’article 3.3.2-5, l’armateur est responsable de la protection de la santé et des soins médicaux de tous les gens de mer travaillant à bord et doit prendre en charge :
 
-1. le coût de toute maladie et tout accident survenant entre la date stipulée pour le commencement du service et la date à laquelle les gens de mer sont censés avoir été dûment rapatriés ou résultant de leur emploi entre ces deux dates ;
+- le coût de toute maladie et tout accident survenant entre la date stipulée pour le commencement du service et la date à laquelle les gens de mer sont censés avoir été dûment rapatriés ou résultant de leur emploi entre ces deux dates ;
 
-2. les frais médicaux, y compris le traitement médical et la fourniture des médicaments et autres moyens thérapeutiques, ainsi que la nourriture et le logement du marin malade ou blessé tant qu’il se trouve hors de son domicile, jusqu’à sa guérison ou jusqu’à la constatation du caractère permanent de la maladie ou de l’incapacité ;
+- les frais médicaux, y compris le traitement médical et la fourniture des médicaments et autres moyens thérapeutiques, ainsi que la nourriture et le logement du marin malade ou blessé tant qu’il se trouve hors de son domicile, jusqu’à sa guérison ou jusqu’à la constatation du caractère permanent de la maladie ou de l’incapacité ;
 
-3. une couverture financière, telle que prévue par règlement grand-ducal, convention collective ou par le contrat d’engagement maritime, pour garantir une indemnisation des créances contractuelles, à savoir les préjudices subis par les gens de mer ou leurs ayants droit en cas de décès ou d’incapacité de longue durée de ces derniers résultant d’un accident du travail, d’une maladie professionnelle ou d’un risque professionnel, tels que prévus au Code de la sécurité sociale , déduction faite de l’indemnisation perçue auprès d’autres régimes d’assurance maladie ou régimes d’assurance accident légale obligatoire ;
+- une couverture financière, telle que prévue par règlement grand-ducal, convention collective ou par le contrat d’engagement maritime, pour garantir une indemnisation des créances contractuelles, à savoir les préjudices subis par les gens de mer ou leurs ayants droit en cas de décès ou d’incapacité de longue durée de ces derniers résultant d’un accident du travail, d’une maladie professionnelle ou d’un risque professionnel, tels que prévus au Code de la sécurité sociale , déduction faite de l’indemnisation perçue auprès d’autres régimes d’assurance maladie ou régimes d’assurance accident légale obligatoire ;
 
-4. les frais d’inhumation, si le décès survient à bord ou s’il se produit à terre pendant la période de service.
+- les frais d’inhumation, si le décès survient à bord ou s’il se produit à terre pendant la période de service.
 
 <a id="art-3-3-2-3"></a>
 ## Art. 3.3.2-3.
 
 Lorsque la maladie ou l’accident entraîne une incapacité de travail, l’armateur doit payer :
 
-1. la totalité du salaire tant que le malade ou le blessé demeure à bord ou jusqu’à ce qu’il ait été rapatrié ;
+- la totalité du salaire tant que le malade ou le blessé demeure à bord ou jusqu’à ce qu’il ait été rapatrié ;
 
-2. le salaire du marin débarqué ou rapatrié jusqu’à sa guérison ou, si l’éventualité se présente plus tôt, jusqu’à ce qu’il ait droit à des prestations en espèces.
+- le salaire du marin débarqué ou rapatrié jusqu’à sa guérison ou, si l’éventualité se présente plus tôt, jusqu’à ce qu’il ait droit à des prestations en espèces.
 
 <a id="art-3-3-2-4"></a>
 ## Art. 3.3.2-4.
@@ -3055,11 +3085,11 @@ Les obligations de l’armateur visées à l’article 3.3.2-2, point 2°, et à
 
 L’armateur est exempté de toute responsabilité dans les cas suivants :
 
-1. lorsque l’accident n’est pas survenu au service du navire ;
+- lorsque l’accident n’est pas survenu au service du navire ;
 
-2. lorsque l’accident ou la maladie est imputable à une faute intentionnelle du marin malade, blessé ou décédé ;
+- lorsque l’accident ou la maladie est imputable à une faute intentionnelle du marin malade, blessé ou décédé ;
 
-3. en cas de maladie ou d’infirmité dissimulée volontairement au moment de l’engagement.
+- en cas de maladie ou d’infirmité dissimulée volontairement au moment de l’engagement.
 
 <a id="art-3-3-2-6"></a>
 ## Art. 3.3.2-6.
@@ -3116,23 +3146,23 @@ Le respect des prescriptions des instruments internationaux applicables qui port
 
 L’armateur met en œuvre les mesures prévues à l’article 3.3.3-2, sur la base des principes généraux de prévention suivants :
 
-1. éviter les risques ;
+- éviter les risques ;
 
-2. évaluer les risques qui ne peuvent pas être évités ;
+- évaluer les risques qui ne peuvent pas être évités ;
 
-3. combattre les risques à la source ;
+- combattre les risques à la source ;
 
-4. adapter le travail à l’homme, en particulier en ce qui concerne la conception des postes de travail ainsi que le choix des équipements de travail et des méthodes de travail ;
+- adapter le travail à l’homme, en particulier en ce qui concerne la conception des postes de travail ainsi que le choix des équipements de travail et des méthodes de travail ;
 
-5. tenir compte de l’état d’évolution de la technique ;
+- tenir compte de l’état d’évolution de la technique ;
 
-6. remplacer ce qui est dangereux par ce qui n’est pas dangereux ou par ce qui est moins dangereux ;
+- remplacer ce qui est dangereux par ce qui n’est pas dangereux ou par ce qui est moins dangereux ;
 
-7. planifier la prévention en visant un ensemble cohérent qui intègre dans la prévention la technique, l’organisation du travail, les conditions de travail, les relations sociales et l’influence des facteurs ambiants au travail ;
+- planifier la prévention en visant un ensemble cohérent qui intègre dans la prévention la technique, l’organisation du travail, les conditions de travail, les relations sociales et l’influence des facteurs ambiants au travail ;
 
-8. prendre des mesures de protection collective par priorité à des mesures de protection individuelle ;
+- prendre des mesures de protection collective par priorité à des mesures de protection individuelle ;
 
-9. donner les instructions appropriées aux gens de mer.
+- donner les instructions appropriées aux gens de mer.
 
 (2)
 
@@ -3143,41 +3173,41 @@ Les mesures de prévention listées aux points 1°, 3°, 4° et 6° du paragraph
 
 Les mesures relatives à la gestion de la sécurité et de la santé au travail prises par les armateurs doivent respecter les principes généraux visés au présent chapitre et par le règlement grand-ducal pris en son exécution portant sur les points suivants :
 
-1. les dispositions générales et dispositions de base ;
+- les dispositions générales et dispositions de base ;
 
-2. les caractéristiques structurelles du navire, y compris les moyens d’accès et les risques liés à l’amiante ;
+- les caractéristiques structurelles du navire, y compris les moyens d’accès et les risques liés à l’amiante ;
 
-3. les machines ;
+- les machines ;
 
-4. les effets des températures extrêmement basses ou extrêmement élevées de toute surface avec laquelle les gens de mer peuvent être en contact ;
+- les effets des températures extrêmement basses ou extrêmement élevées de toute surface avec laquelle les gens de mer peuvent être en contact ;
 
-5. les effets du bruit auxquels sont soumis les gens de mer dans les postes de travail et les logements à bord ;
+- les effets du bruit auxquels sont soumis les gens de mer dans les postes de travail et les logements à bord ;
 
-6. les effets des vibrations auxquels sont soumis les gens de mer dans les postes de travail et les logements à bord ;
+- les effets des vibrations auxquels sont soumis les gens de mer dans les postes de travail et les logements à bord ;
 
-7. les effets des facteurs ambiants autres que ceux visés aux points 5° et 6° auxquels sont soumis les gens de mer dans les postes de travail et les logements à bord, y compris la fumée du tabac ;
+- les effets des facteurs ambiants autres que ceux visés aux points 5° et 6° auxquels sont soumis les gens de mer dans les postes de travail et les logements à bord, y compris la fumée du tabac ;
 
-8. les mesures spéciales de sécurité sur le pont et au-dessous ;
+- les mesures spéciales de sécurité sur le pont et au-dessous ;
 
-9. le matériel de chargement et de déchargement ;
+- le matériel de chargement et de déchargement ;
 
-10. la prévention et l’extinction des incendies ;
+- la prévention et l’extinction des incendies ;
 
-11. les ancres, chaînes et câbles ;
+- les ancres, chaînes et câbles ;
 
-12. les cargaisons dangereuses et lest ;
+- les cargaisons dangereuses et lest ;
 
-13. les équipements de protection individuelle des gens de mer ;
+- les équipements de protection individuelle des gens de mer ;
 
-14. le travail dans des espaces confinés ;
+- le travail dans des espaces confinés ;
 
-15. les effets physiques et mentaux de la fatigue ;
+- les effets physiques et mentaux de la fatigue ;
 
-16. les effets de la dépendance envers les drogues et l’alcool ;
+- les effets de la dépendance envers les drogues et l’alcool ;
 
-17. la protection et prévention relatives au VIH/SIDA ;
+- la protection et prévention relatives au VIH/SIDA ;
 
-18. la réponse aux urgences et aux accidents.
+- la réponse aux urgences et aux accidents.
 
 <a id="art-3-3-3-5"></a>
 ## Art. 3.3.3-5.
@@ -3239,17 +3269,17 @@ Pour tout navire à bord duquel se trouvent cinq marins ou plus, un comité de s
 
 Le comité de sécurité a pour missions principales :
 
-1. de prendre part à l’élaboration et à la révision des politiques et programmes en matière de protection de la sécurité et de la santé des gens de mer à bord du navire concerné ;
+- de prendre part à l’élaboration et à la révision des politiques et programmes en matière de protection de la sécurité et de la santé des gens de mer à bord du navire concerné ;
 
-2. de s’assurer que les exigences émanant soit des directives, normes et principes généraux, politiques et programmes au niveau national en matière de protection de la sécurité et de la santé des gens de mer, soit des politiques et programmes adoptés pour le navire concerné soient satisfaites ;
+- de s’assurer que les exigences émanant soit des directives, normes et principes généraux, politiques et programmes au niveau national en matière de protection de la sécurité et de la santé des gens de mer, soit des politiques et programmes adoptés pour le navire concerné soient satisfaites ;
 
-3. d’adresser des réclamations et des recommandations à l’armateur au nom des gens de mer en matière de protection de la sécurité et de la santé à bord ;
+- d’adresser des réclamations et des recommandations à l’armateur au nom des gens de mer en matière de protection de la sécurité et de la santé à bord ;
 
-4. d’examiner les questions intéressant les gens de mer en matière de sécurité et de santé et de prendre sur cette base les mesures qui s’imposent ;
+- d’examiner les questions intéressant les gens de mer en matière de sécurité et de santé et de prendre sur cette base les mesures qui s’imposent ;
 
-5. d’évaluer l’équipement de sécurité et de protection y compris les appareils de sauvetage ;
+- d’évaluer l’équipement de sécurité et de protection y compris les appareils de sauvetage ;
 
-6. d’étudier les rapports d’accidents.
+- d’étudier les rapports d’accidents.
 
 (3)
 
@@ -3264,11 +3294,11 @@ Le comité de sécurité a le droit de saisir le commissaire s’il estime que l
 
 Sans préjudice des autres dispositions du présent chapitre, l’armateur doit, compte tenu de la nature des activités du navire, consulter le comité de sécurité ou à défaut les représentants des gens de mer en matière de protection de la sécurité et de la santé à bord ou directement les gens de mer sur les sujets suivants :
 
-1. toute action, y compris la planification et l’introduction de nouvelles technologies, liées au choix des équipements, à l’aménagement des conditions de travail ou à l’impact des facteurs ambiants au travail, qui peut avoir des effets substantiels sur la sécurité et la santé des gens de mer ;
+- toute action, y compris la planification et l’introduction de nouvelles technologies, liées au choix des équipements, à l’aménagement des conditions de travail ou à l’impact des facteurs ambiants au travail, qui peut avoir des effets substantiels sur la sécurité et la santé des gens de mer ;
 
-2. les informations portant sur les articles 3.3.3-6, 3.3.3-7, 3.3.3-13, paragraphe 1 er , 3.3.3-14 et 3.3.3-19 à 3.3.3-21 ;
+- les informations portant sur les articles 3.3.3-6, 3.3.3-7, 3.3.3-13, paragraphe 1 er , 3.3.3-14 et 3.3.3-19 à 3.3.3-21 ;
 
-3. la conception et l’organisation de la formation prévue aux articles 3.3.3-15 et 3.3.3-16.
+- la conception et l’organisation de la formation prévue aux articles 3.3.3-15 et 3.3.3-16.
 
 <a id="art-3-3-3-12"></a>
 ## Art. 3.3.3-12.
@@ -3302,25 +3332,25 @@ Un règlement grand-ducal pourra définir les capacités et aptitudes nécessair
 
 Sans préjudice des autres dispositions du présent chapitre, l’armateur, en coopération avec le comité de sécurité, doit informer le marin engagé des risques qu’il encourt, compte tenu de la nature des activités du navire. Cette information doit notamment renseigner sur :
 
-1. les risques pour la sécurité et la santé à bord en précisant les risques majorés spécifiques éventuels relatifs à chaque type de poste de travail ou fonction ;
+- les risques pour la sécurité et la santé à bord en précisant les risques majorés spécifiques éventuels relatifs à chaque type de poste de travail ou fonction ;
 
-2. les programmes de protection et de prévention, pour la promotion de la sécurité et de la santé au travail ;
+- les programmes de protection et de prévention, pour la promotion de la sécurité et de la santé au travail ;
 
-3. les niveaux d’exposition maxima aux facteurs ambiants potentiellement nocifs et aux autres risques, y compris sur les dangers qu’une exposition prolongée à des niveaux de bruit élevés ou à des vibrations comporte pour l’ouïe et la santé ;
+- les niveaux d’exposition maxima aux facteurs ambiants potentiellement nocifs et aux autres risques, y compris sur les dangers qu’une exposition prolongée à des niveaux de bruit élevés ou à des vibrations comporte pour l’ouïe et la santé ;
 
-4. la qualification ou les aptitudes professionnelles particulières nécessaires.
+- la qualification ou les aptitudes professionnelles particulières nécessaires.
 
 (2)
 
 L’information visée au paragraphe 1er devra être continue et pourra prendre les formes suivantes ou toute autre forme fixée par règlement grand-ducal :
 
-1. matériel éducatif audiovisuel, tel que des films, à utiliser dans les centres de formation professionnelle des gens de mer et, si possible, présenté à bord des navires ;
+- matériel éducatif audiovisuel, tel que des films, à utiliser dans les centres de formation professionnelle des gens de mer et, si possible, présenté à bord des navires ;
 
-2. affiches apposées à bord des navires ;
+- affiches apposées à bord des navires ;
 
-3. insertion, dans les périodiques lus par les gens de mer, d’articles sur les risques professionnels maritimes et sur les mesures de protection en matière de sécurité et de santé au travail et de prévention des accidents ;
+- insertion, dans les périodiques lus par les gens de mer, d’articles sur les risques professionnels maritimes et sur les mesures de protection en matière de sécurité et de santé au travail et de prévention des accidents ;
 
-4. campagnes spéciales utilisant divers moyens d’information pour instruire les gens de mer, y compris des campagnes sur les méthodes de travail sûres.
+- campagnes spéciales utilisant divers moyens d’information pour instruire les gens de mer, y compris des campagnes sur les méthodes de travail sûres.
 
 (3)
 
@@ -3335,11 +3365,11 @@ L’article L. 334-1 du Code du travail est applicable aux gens de mer.
 
 L’armateur prend les mesures appropriées pour que les gens de mer désignés et les autres membres du comité de sécurité à bord, le cas échéant, aient accès pour l’accomplissement de leur fonction :
 
-1. à l’évaluation des risques prévue à l’article 3.3.3-7 ;
+- à l’évaluation des risques prévue à l’article 3.3.3-7 ;
 
-2. à la liste et aux rapports prévus à l’article 3.3.3-6, paragraphe 1 er ;
+- à la liste et aux rapports prévus à l’article 3.3.3-6, paragraphe 1 er ;
 
-3. à l’information provenant tant des activités et mesures de protection et de prévention que des services d’inspection ou d’organismes compétents pour la sécurité et la santé.
+- à l’information provenant tant des activités et mesures de protection et de prévention que des services d’inspection ou d’organismes compétents pour la sécurité et la santé.
 
 ###### Sous-section 6 Formation des gens de mer
 
@@ -3350,13 +3380,13 @@ L’armateur prend les mesures appropriées pour que les gens de mer désignés 
 
 Chaque marin reçoit, sous la responsabilité de l’armateur, une formation à la fois suffisante et adéquate à la sécurité et à la santé spécifiquement axée sur son poste de travail et sa fonction notamment sous forme d’informations et d’instructions à l’occasion :
 
-1. de son engagement ;
+- de son engagement ;
 
-2. d’un changement de poste ou fonction ;
+- d’un changement de poste ou fonction ;
 
-3. de l’introduction ou d’un changement d’un équipement ;
+- de l’introduction ou d’un changement d’un équipement ;
 
-4. de l’introduction d’une nouvelle technologie.
+- de l’introduction d’une nouvelle technologie.
 
 (2)
 
@@ -3443,15 +3473,15 @@ Le marin qui, en cas de danger grave et immédiat qui ne peut être évité, s�
 
 Les gens de mer et toute autre personne à bord, à l’exception des passagers, doivent :
 
-1. se conformer aux normes applicables ainsi qu’aux politiques et programmes applicables au navire en matière de sécurité et santé au travail ;
+- se conformer aux normes applicables ainsi qu’aux politiques et programmes applicables au navire en matière de sécurité et santé au travail ;
 
-2. utiliser correctement les machines, appareils, équipements, outils, substances dangereuses et autres moyens ;
+- utiliser correctement les machines, appareils, équipements, outils, substances dangereuses et autres moyens ;
 
-3. utiliser correctement l’équipement de protection individuelle mis à leur disposition et après utilisation le ranger à sa place ;
+- utiliser correctement l’équipement de protection individuelle mis à leur disposition et après utilisation le ranger à sa place ;
 
-4. ne pas mettre hors service, changer ou déplacer arbitrairement les dispositifs de sécurité propres notamment aux machines, appareils, équipements, outils, installations et utiliser de tels dispositifs de sécurité correctement ;
+- ne pas mettre hors service, changer ou déplacer arbitrairement les dispositifs de sécurité propres notamment aux machines, appareils, équipements, outils, installations et utiliser de tels dispositifs de sécurité correctement ;
 
-5. signaler immédiatement aux gens de mer désignés, aux membres du comité de sécurité sinon à l’armateur toute situation de travail dont ils ont un motif raisonnable de penser qu’elle présente un danger grave et immédiat pour la sécurité et la santé des personnes se trouvant à bord ainsi que toute défectuosité constatée dans les systèmes de protection.
+- signaler immédiatement aux gens de mer désignés, aux membres du comité de sécurité sinon à l’armateur toute situation de travail dont ils ont un motif raisonnable de penser qu’elle présente un danger grave et immédiat pour la sécurité et la santé des personnes se trouvant à bord ainsi que toute défectuosité constatée dans les systèmes de protection.
 
 <a id="art-3-3-3-25"></a>
 ## Art. 3.3.3-25.
@@ -3686,19 +3716,19 @@ L’efficacité du système d’inspection et de certification est périodiqueme
 
 Aux fins du présent titre, on entend par :
 
-1. « Certificat de travail maritime » : le certificat mentionné aux articles 3.4.3-1 et suivants qui atteste que les prescriptions en matière de conditions de vie, de travail et d’emploi sont respectées à bord du navire ;
+- « Certificat de travail maritime » : le certificat mentionné aux articles 3.4.3-1 et suivants qui atteste que les prescriptions en matière de conditions de vie, de travail et d’emploi sont respectées à bord du navire ;
 
-2. « Certification sociale » : procédure ayant pour objet de délivrer la partie I de la déclaration de conformité du travail maritime, de contrôler les engagements pris par l’armateur dans la partie II de la déclaration de conformité du travail maritime et de viser cette partie II, puis de délivrer, de viser et de renouveler le cas échéant le certificat de travail maritime, en application du chapitre 3 ;
+- « Certification sociale » : procédure ayant pour objet de délivrer la partie I de la déclaration de conformité du travail maritime, de contrôler les engagements pris par l’armateur dans la partie II de la déclaration de conformité du travail maritime et de viser cette partie II, puis de délivrer, de viser et de renouveler le cas échéant le certificat de travail maritime, en application du chapitre 3 ;
 
-3. « Déclaration de conformité du travail maritime » : document émis par le commissaire mentionnant les prescriptions nationales obligatoires concernant les conditions de travail et de vie des gens de mer et complété par un second document relatant les mesures adoptées par l’armateur pour assurer le respect desdites prescriptions ;
+- « Déclaration de conformité du travail maritime » : document émis par le commissaire mentionnant les prescriptions nationales obligatoires concernant les conditions de travail et de vie des gens de mer et complété par un second document relatant les mesures adoptées par l’armateur pour assurer le respect desdites prescriptions ;
 
-4. « Inspecteurs » : au titre du contrôle de l’État du pavillon, le commissaire ou un organisme autorisé et, par extension, tout employé de cet organisme affecté à des missions d’inspection en matière sociale ;
+- « Inspecteurs » : au titre du contrôle de l’État du pavillon, le commissaire ou un organisme autorisé et, par extension, tout employé de cet organisme affecté à des missions d’inspection en matière sociale ;
 
-5. « Inspections » : au titre du contrôle de l’État du pavillon, les inspections des navires luxembourgeois menées conformément aux articles 3.4.4-1 et suivants relatifs au respect des prescriptions en matière de conditions de vie, de travail et d’emploi et afférentes ou non à la délivrance, au visa ou au renouvellement du certificat de travail maritime et le cas échéant, à la suspension, restitution ou au retrait du certificat de travail maritime ;
+- « Inspections » : au titre du contrôle de l’État du pavillon, les inspections des navires luxembourgeois menées conformément aux articles 3.4.4-1 et suivants relatifs au respect des prescriptions en matière de conditions de vie, de travail et d’emploi et afférentes ou non à la délivrance, au visa ou au renouvellement du certificat de travail maritime et le cas échéant, à la suspension, restitution ou au retrait du certificat de travail maritime ;
 
-6. « Organisme » : toute personne physique ou morale, y compris d’un autre État membre de l’Union européenne, qui sollicite une reconnaissance en matière sociale ;
+- « Organisme » : toute personne physique ou morale, y compris d’un autre État membre de l’Union européenne, qui sollicite une reconnaissance en matière sociale ;
 
-7. « Organisme autorisé » : tout organisme autorisé sur base du chapitre 2 à procéder aux inspections en matière sociale ou à la certification sociale.
+- « Organisme autorisé » : tout organisme autorisé sur base du chapitre 2 à procéder aux inspections en matière sociale ou à la certification sociale.
 
 #### Chapitre 2 Procédure d’autorisation d’organismes en matière sociale
 
@@ -3721,43 +3751,43 @@ Seuls les organismes habilités visés au paragraphe 2 peuvent procéder aux mis
 
 Pour les inspections et certifications des navires d’une jauge brute de moins de 500, l’organisme, autre que celui visé au paragraphe 2, fait la démonstration, afin d’obtenir son autorisation, que, dans la mesure nécessaire à l’exercice des activités visées par l’autorisation :
 
-1. sa taille, sa structure, ses moyens et ressources correspondent au type et à la portée de l’autorisation ;
+- sa taille, sa structure, ses moyens et ressources correspondent au type et à la portée de l’autorisation ;
 
-2. il a la capacité d’entretenir et de réactualiser les compétences de ses inspecteurs ;
+- il a la capacité d’entretenir et de réactualiser les compétences de ses inspecteurs ;
 
-3. il satisfait aux exigences d’indépendance.
+- il satisfait aux exigences d’indépendance.
 
 Ses inspecteurs doivent posséder les connaissances théoriques et l’expérience pratique nécessaires concernant les navires et leur exploitation. Ils doivent avoir connaissance des prescriptions pertinentes en matière de droit du travail maritime et des procédures d’inspection applicables spécifiées par règlement grand-ducal. Leurs connaissances et compétences concernant le respect des obligations en matière de conditions de vie, de travail et d’emploi des gens de mer doivent avoir été obtenues dans le cadre de programmes de formation reconnus par le commissaire. Les inspecteurs doivent au minimum :
 
-1. d’une part :
+- d’une part :
 
-1. posséder les titres nécessaires délivrés par un institut marin ou nautique et avoir une expérience utile de service en mer en tant qu’officier de bord titulaire d’un brevet STCW II/2 ou III/2 valable, sans limitation concernant la zone d’exploitation, la puissance de propulsion ou le tonnage ; ou
+  - posséder les titres nécessaires délivrés par un institut marin ou nautique et avoir une expérience utile de service en mer en tant qu’officier de bord titulaire d’un brevet STCW II/2 ou III/2 valable, sans limitation concernant la zone d’exploitation, la puissance de propulsion ou le tonnage ; ou
 
-2. être titulaires d’un diplôme approprié de niveau universitaire ou équivalent et avoir un titre d’inspecteur et une formation portant sur :
+  - être titulaires d’un diplôme approprié de niveau universitaire ou équivalent et avoir un titre d’inspecteur et une formation portant sur :
 
-1. les conditions minimales exigées des gens de mer pour travailler à bord d’un navire ;
+    - les conditions minimales exigées des gens de mer pour travailler à bord d’un navire ;
 
-2. les conditions d’emploi, de logement et de loisirs ;
+    - les conditions d’emploi, de logement et de loisirs ;
 
-3. l’alimentation et le service de table ;
+    - l’alimentation et le service de table ;
 
-4. la prévention des accidents ;
+    - la prévention des accidents ;
 
-5. la protection de la santé, les soins médicaux, le bien-être et la protection en matière de sécurité sociale ;
+    - la protection de la santé, les soins médicaux, le bien-être et la protection en matière de sécurité sociale ;
 
-6. l’exploitation des navires ;
+    - l’exploitation des navires ;
 
-7. la conformité et la mise en place des dispositions y compris les procédures de plaintes ;
+    - la conformité et la mise en place des dispositions y compris les procédures de plaintes ;
 
-8. l’inspection des navires y compris les navires d’une jauge brute de moins de 500 et la certification en matière sociale ;
+    - l’inspection des navires y compris les navires d’une jauge brute de moins de 500 et la certification en matière sociale ;
 
-9. les inspections par l’État du port.
+    - les inspections par l’État du port.
 
-2. et, d’autre part :
+- et, d’autre part :
 
-1. avoir exercé pendant un an au moins les fonctions d’inspecteur en s’étant occupé soit des inspections en matière sociale et de la certification sociale conformément aux prescriptions pertinentes applicables en matière de droit du travail maritime, soit de la surveillance des activités des organismes autorisés auxquels des tâches réglementaires ont été confiées, ou
+  - avoir exercé pendant un an au moins les fonctions d’inspecteur en s’étant occupé soit des inspections en matière sociale et de la certification sociale conformément aux prescriptions pertinentes applicables en matière de droit du travail maritime, soit de la surveillance des activités des organismes autorisés auxquels des tâches réglementaires ont été confiées, ou
 
-2. avoir acquis un niveau de compétence équivalent après avoir suivi pendant un an au moins une formation sur le terrain consistant à participer à des inspections en matière sociale sous la direction d’agents expérimentés.
+  - avoir acquis un niveau de compétence équivalent après avoir suivi pendant un an au moins une formation sur le terrain consistant à participer à des inspections en matière sociale sous la direction d’agents expérimentés.
 
 Sont considérés comme ayant une expérience utile les inspecteurs qui ont acquis une expérience maritime d’au moins cinq ans, comprenant des périodes où ils ont exercé en mer les fonctions d’officier du service pont ou du service machines, selon le cas, ou les fonctions d’assistant d’inspecteur.
 
@@ -3822,9 +3852,9 @@ Le certificat de travail maritime et la déclaration de conformité du travail m
 
 La déclaration de conformité du travail maritime comprend deux parties :
 
-1. la partie I, établie par le commissaire résume les prescriptions qui doivent être respectées au regard des conditions de vie, de travail et d’emploi des gens de mer ;
+- la partie I, établie par le commissaire résume les prescriptions qui doivent être respectées au regard des conditions de vie, de travail et d’emploi des gens de mer ;
 
-2. la partie II, établie par l’armateur mentionne les mesures adoptées par celui-ci pour assurer le respect continu des différentes prescriptions relatives aux conditions de vie, de travail et d’emploi des gens de mer ainsi que les mesures proposées pour assurer une amélioration continue en ces domaines. Une fois établie, elle est certifiée par le commissaire ou un organisme autorisé.
+- la partie II, établie par l’armateur mentionne les mesures adoptées par celui-ci pour assurer le respect continu des différentes prescriptions relatives aux conditions de vie, de travail et d’emploi des gens de mer ainsi que les mesures proposées pour assurer une amélioration continue en ces domaines. Une fois établie, elle est certifiée par le commissaire ou un organisme autorisé.
 
 (2)
 
@@ -3883,15 +3913,15 @@ Lorsque l’inspection effectuée aux fins d’un renouvellement a eu lieu plus 
 
 Tous les certificats de travail maritime, y compris le certificat provisoire visé à l’article 3.4.3-10 perdent leur validité et sont retirés si :
 
-1. les inspections prescrites aux articles 3.4.3-5, 3.4.3-6 et 3.4.3-14 ne sont pas effectuées dans les délais fixés ;
+- les inspections prescrites aux articles 3.4.3-5, 3.4.3-6 et 3.4.3-14 ne sont pas effectuées dans les délais fixés ;
 
-2. le certificat et la déclaration de conformité du travail maritime, lorsqu’ils doivent l’être, n’ont pas été correctement visés par le commissaire ;
+- le certificat et la déclaration de conformité du travail maritime, lorsqu’ils doivent l’être, n’ont pas été correctement visés par le commissaire ;
 
-3. il y a changement de pavillon ;
+- il y a changement de pavillon ;
 
-4. un armateur cesse d’assumer la responsabilité de l’exploitation d’un navire ;
+- un armateur cesse d’assumer la responsabilité de l’exploitation d’un navire ;
 
-5. des modifications importantes ont été apportées à la structure du navire ou aux équipements visés au titre 3 de la Convention du travail maritime, 2006.
+- des modifications importantes ont été apportées à la structure du navire ou aux équipements visés au titre 3 de la Convention du travail maritime, 2006.
 
 (2)
 
@@ -3924,11 +3954,11 @@ En cas de retrait définitif, l’armateur est tenu de retourner l’original du
 
 Le commissaire, sinon un organisme autorisé, peut délivrer un certificat de travail maritime à titre provisoire :
 
-1. aux nouveaux navires, à la livraison ;
+- aux nouveaux navires, à la livraison ;
 
-2. lorsqu’un navire change de pavillon ;
+- lorsqu’un navire change de pavillon ;
 
-3. lorsqu’un armateur prend à son compte l’exploitation d’un navire qui est nouveau pour cet armateur.
+- lorsqu’un armateur prend à son compte l’exploitation d’un navire qui est nouveau pour cet armateur.
 
 Un règlement grand-ducal précise la forme que doit revêtir le certificat de travail maritime.
 
@@ -3937,13 +3967,13 @@ Un règlement grand-ducal précise la forme que doit revêtir le certificat de t
 
 Le certificat de travail maritime provisoire n’est délivré qu’une fois qu’il a été établi que :
 
-1. le navire a été inspecté, dans la mesure où cela est raisonnablement possible, au regard des prescriptions énumérées à l’annexe A5-1 de la Convention du travail maritime, 2006, en tenant compte de la vérification des éléments visés aux points 3° et 4° ;
+- le navire a été inspecté, dans la mesure où cela est raisonnablement possible, au regard des prescriptions énumérées à l’annexe A5-1 de la Convention du travail maritime, 2006, en tenant compte de la vérification des éléments visés aux points 3° et 4° ;
 
-2. l’armateur a démontré au commissaire ou à l’organisme autorisé que des procédures adéquates sont mises en œuvre à bord en vue d’assurer le respect des dispositions relatives aux conditions de vie, de travail et d’emploi à bord du navire ;
+- l’armateur a démontré au commissaire ou à l’organisme autorisé que des procédures adéquates sont mises en œuvre à bord en vue d’assurer le respect des dispositions relatives aux conditions de vie, de travail et d’emploi à bord du navire ;
 
-3. le capitaine connait les dispositions relatives aux conditions de vie, de travail et d’emploi à bord du navire et ses responsabilités en la matière ;
+- le capitaine connait les dispositions relatives aux conditions de vie, de travail et d’emploi à bord du navire et ses responsabilités en la matière ;
 
-4. les informations pertinentes requises ont été présentées au commissaire ou à l’organisme autorisé en vue de l’établissement d’une déclaration de conformité du travail maritime.
+- les informations pertinentes requises ont été présentées au commissaire ou à l’organisme autorisé en vue de l’établissement d’une déclaration de conformité du travail maritime.
 
 <a id="art-3-4-3-12"></a>
 ## Art. 3.4.3-12.
@@ -3989,24 +4019,24 @@ Lors de l’inspection initiale, l’inspecteur effectue une inspection approfon
 
 Sans préjudice des dispositions de l’article 3.4.4-2, une inspection spéciale des logements des gens de mer à bord d’un navire battant pavillon luxembourgeois est organisée impérativement :
 
-1. lors de la première immatriculation du navire ;
+- lors de la première immatriculation du navire ;
 
-2. lors d’une nouvelle immatriculation ;
+- lors d’une nouvelle immatriculation ;
 
-3. en cas de modification substantielle du logement des gens de mer à bord du navire.
+- en cas de modification substantielle du logement des gens de mer à bord du navire.
 
 <a id="art-3-4-4-4"></a>
 ## Art. 3.4.4-4.
 
 Nonobstant les dispositions des articles 3.4.4-2 et 3.4.4-3, dans une ou plusieurs circonstances exposées ci-dessous, le commissaire est autorisé à prendre toutes mesures qu’il estime nécessaires, y compris à diligenter une inspection supplémentaire, sans notification préalable :
 
-1. suite à une plainte, qui ne paraît pas manifestement infondée ;
+- suite à une plainte, qui ne paraît pas manifestement infondée ;
 
-2. suite à un accident ou à un incident grave ;
+- suite à un accident ou à un incident grave ;
 
-3. suite à la preuve qu’un navire ne se conforme pas aux prescriptions en matière de conditions de vie, de travail et d’emploi à bord, ou présente de sérieux manquements dans l’application des mesures énoncées dans sa déclaration de conformité du travail maritime ;
+- suite à la preuve qu’un navire ne se conforme pas aux prescriptions en matière de conditions de vie, de travail et d’emploi à bord, ou présente de sérieux manquements dans l’application des mesures énoncées dans sa déclaration de conformité du travail maritime ;
 
-4. suite à une détention ordonnée par l’autorité compétente de l’État du port.
+- suite à une détention ordonnée par l’autorité compétente de l’État du port.
 
 <a id="art-3-4-4-5"></a>
 ## Art. 3.4.4-5.
@@ -4050,9 +4080,9 @@ Tout inspecteur a la faculté de donner des conseils au lieu de recommander des 
 
 Dans les limites prévues à l’accord mentionné à l’article 3.4.2-3 avec l’organisme autorisé, tout inspecteur peut cumulativement ou non :
 
-1. exiger qu’il soit pris, dans un délai imparti, toute mesure corrective appropriée, afin de remédier aux manquements constatés constituant une infraction aux prescriptions en matière de conditions de vie, de travail et d’emploi ou représentant un danger pour la sécurité, la sûreté ou la santé des gens de mer. L’injonction prescrivant des corrections sera notifiée à l’armateur ou au capitaine par lettre recommandée ou par écrit dûment certifié par un récépissé ;
+- exiger qu’il soit pris, dans un délai imparti, toute mesure corrective appropriée, afin de remédier aux manquements constatés constituant une infraction aux prescriptions en matière de conditions de vie, de travail et d’emploi ou représentant un danger pour la sécurité, la sûreté ou la santé des gens de mer. L’injonction prescrivant des corrections sera notifiée à l’armateur ou au capitaine par lettre recommandée ou par écrit dûment certifié par un récépissé ;
 
-2. interdire à un navire de quitter le port et de continuer toute opération quelle qu’elle soit jusqu’à ce que les mesures nécessaires aient été prises lorsqu’il a des raisons de croire que les manquements constituent une infraction grave ou répétée aux prescriptions en matière de conditions de vie, d’emploi et de travail à bord ou représentent un grave danger pour la santé, la sécurité ou la sûreté des gens de mer. Il peut prendre à cet effet toute mesure appropriée et notamment requérir l’assistance des autorités compétentes auprès de l’État du port en vue de faire immobiliser le navire.
+- interdire à un navire de quitter le port et de continuer toute opération quelle qu’elle soit jusqu’à ce que les mesures nécessaires aient été prises lorsqu’il a des raisons de croire que les manquements constituent une infraction grave ou répétée aux prescriptions en matière de conditions de vie, d’emploi et de travail à bord ou représentent un grave danger pour la santé, la sécurité ou la sûreté des gens de mer. Il peut prendre à cet effet toute mesure appropriée et notamment requérir l’assistance des autorités compétentes auprès de l’État du port en vue de faire immobiliser le navire.
 
 <a id="art-3-4-4-7"></a>
 ## Art. 3.4.4-7.
@@ -4071,9 +4101,9 @@ Nonobstant les dispositions de l’article 3.4.4-6, paragraphe 2, point 2°, le 
 
 Sans préjudice de l’article 3.4.4-8, tout inspecteur informe sans délai :
 
-1. l’armateur et le capitaine des manquements constatés pouvant porter atteinte à la sûreté, la sécurité et à la santé des gens de mer ;
+- l’armateur et le capitaine des manquements constatés pouvant porter atteinte à la sûreté, la sécurité et à la santé des gens de mer ;
 
-2. le commissaire de tout accident de travail ou de toute maladie professionnelle affectant des gens de mer.
+- le commissaire de tout accident de travail ou de toute maladie professionnelle affectant des gens de mer.
 
 <a id="art-3-4-4-10"></a>
 ## Art. 3.4.4-10.
@@ -4104,9 +4134,9 @@ Tout marin peut formuler une plainte relative au non-respect des prescriptions d
 
 Au sens de l’alinéa 1er, on entend par plainte :
 
-1. une plainte introduite à bord du navire auprès des responsables à bord à savoir le capitaine ou le supérieur hiérarchique présent à bord ; ou
+- une plainte introduite à bord du navire auprès des responsables à bord à savoir le capitaine ou le supérieur hiérarchique présent à bord ; ou
 
-2. une plainte introduite auprès du commissaire.
+- une plainte introduite auprès du commissaire.
 
 <a id="art-3-4-5-2"></a>
 ## Art. 3.4.5-2.
@@ -4120,9 +4150,9 @@ En cas de représentation, l’identité du marin n’est communiquée qu’avec
 
 La plainte peut en tous les cas être formée par tout moyen. Elle indique, outre son objet :
 
-1. les nom, prénoms et fonction de son auteur ou ceux de la personne qui la dépose en son nom ;
+- les nom, prénoms et fonction de son auteur ou ceux de la personne qui la dépose en son nom ;
 
-2. le nom du navire et son numéro d’immatriculation.
+- le nom du navire et son numéro d’immatriculation.
 
 <a id="art-3-4-5-4"></a>
 ## Art. 3.4.5-4.
@@ -4184,6 +4214,12 @@ Est puni de la même peine, l’armateur dont le navire navigue sans certificat 
 
 ## LIVRE 4 LA PROTECTION SOCIALE DES GENS DE MER
 
+Les conventions figurant à l’annexe 5 de la loi du 9 novembre 1990 portant approbation de certaines conventions internationales en matière maritime, énumérées ci-après, se rapportent au présent livre .
+
+- La Convention no 55 concernant les obligations de l’armateur en cas de maladie,d’accident ou de décès des gens de mer, adoptée par la Conférence générale de l’Organisation internationale du travail, le 24 octobre 1936, dénommée Convention sur les obligations de l’armateur en cas de maladie ou d’accident des gens de mer, 1936.
+
+- La Convention no 56 concernant l’assurance maladie des gens de mer adoptée par la Conférence générale de l’Organisation internationale du travail,le 24 octobre 1936,dénommée Convention sur l’assurance maladie des gens de mer, 1936.
+
 <a id="art-4-0-0-1"></a>
 ## Art. 4.0.0-1.
 
@@ -4191,21 +4227,21 @@ Est puni de la même peine, l’armateur dont le navire navigue sans certificat 
 
 Le Code de la sécurité sociale est modifié comme suit:
 
-1. L’article 1 er sub 1) est complété par les termes «et les gens de mer luxembourgeois ou ressortissants d’un pays avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale ou résidants au Luxembourg occupés sur un navire battant pavillon luxembourgeois».
+- L’article 1 er sub 1) est complété par les termes «et les gens de mer luxembourgeois ou ressortissants d’un pays avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale ou résidants au Luxembourg occupés sur un navire battant pavillon luxembourgeois».
 
-2. Après l’alinéa 9 de l’article 8 il est inséré un alinéa 10 nouveau ayant la teneur suivante : «Le droit aux prestations en nature des gens de mer visés à l’article 1er est suspendu tant et pour autant que l’armateur est obligé d’en assumer la charge conformément à l’article 101 de la loi du 9 novembre 1990 ayant pour objet la création d’un registre public maritime luxembourgeois». Les alinéas 10 à 13 actuels deviennent les alinéas 11 à 14 nouveaux.
+- Après l’alinéa 9 de l’article 8 il est inséré un alinéa 10 nouveau ayant la teneur suivante : «Le droit aux prestations en nature des gens de mer visés à l’article 1er est suspendu tant et pour autant que l’armateur est obligé d’en assumer la charge conformément à l’article 101 de la loi du 9 novembre 1990 ayant pour objet la création d’un registre public maritime luxembourgeois». Les alinéas 10 à 13 actuels deviennent les alinéas 11 à 14 nouveaux.
 
-3. L’alinéa 1 de l’article 93 prend la teneur suivante : Art.93.- Sont assurés contre les accidents professionnels sous condition d’être occupés dans une des entreprises ou d’exercer une des professions ou activités visées à l’article 85, les ouvriers, aides, compagnons, apprentis, domestiques, employés de bureau, employés d’exploitation, contre-maîtres, employés techniques et les gens de mer luxembourgeois ou ressortissants d’un pays avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale ou résidants au Luxembourg occupés sur un navire battant pavillon luxembourgeois jusqu’à concurrence d’un montant égal au quadruple du salaire social minimum prévu pour un travailleur non qualifié,âgé de dix-huit ans au moins.
+- L’alinéa 1 de l’article 93 prend la teneur suivante : Art.93.- Sont assurés contre les accidents professionnels sous condition d’être occupés dans une des entreprises ou d’exercer une des professions ou activités visées à l’article 85, les ouvriers, aides, compagnons, apprentis, domestiques, employés de bureau, employés d’exploitation, contre-maîtres, employés techniques et les gens de mer luxembourgeois ou ressortissants d’un pays avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale ou résidants au Luxembourg occupés sur un navire battant pavillon luxembourgeois jusqu’à concurrence d’un montant égal au quadruple du salaire social minimum prévu pour un travailleur non qualifié,âgé de dix-huit ans au moins.
 
-4. Après l’alinéa 4 de l’article 97 il est inséré un alinéa 5 nouveau ayant la teneur suivante : «Le droit aux prestations en nature des gens de mer visés à l’article 93 est suspendu tant et pour autant que l’armateur est obligé d’en assumer la charge conformément à l’article 101 de la loi du 9 novembre 1990 ayant pour objet la création d’un registre public maritime luxembourgeois». Les alinéas 5 à 11 actuels deviennent les alinéas 6 à 12 nouveaux.
+- Après l’alinéa 4 de l’article 97 il est inséré un alinéa 5 nouveau ayant la teneur suivante : «Le droit aux prestations en nature des gens de mer visés à l’article 93 est suspendu tant et pour autant que l’armateur est obligé d’en assumer la charge conformément à l’article 101 de la loi du 9 novembre 1990 ayant pour objet la création d’un registre public maritime luxembourgeois». Les alinéas 5 à 11 actuels deviennent les alinéas 6 à 12 nouveaux.
 
-5. L’article 170 est complété par un alinéa 2 nouveau de la teneur suivante: «Est assimilée à une activité au Grand-Duché de Luxembourg, l’activité exercée en qualité de gens de mer sur un navire battant pavillon luxembourgeois par des ressortissants luxembourgeois ou d’un pays avec lequel le Luxembourgestlié par un instrument bi- ou multilatéral de sécurité sociale ou par des personnes résidant au Luxembourg».
+- L’article 170 est complété par un alinéa 2 nouveau de la teneur suivante: «Est assimilée à une activité au Grand-Duché de Luxembourg, l’activité exercée en qualité de gens de mer sur un navire battant pavillon luxembourgeois par des ressortissants luxembourgeois ou d’un pays avec lequel le Luxembourgestlié par un instrument bi- ou multilatéral de sécurité sociale ou par des personnes résidant au Luxembourg».
 
-6. L’alinéa 2 de l’article 335 est remplacé par le texte suivant : «Les personnes physiques et morales peuvent, au moment d’engager du personnel assujetti à la sécurité sociale, être tenues par le comité-directeur du centre soit au dépôt d’un cautionnement soit à la présentation d’une garantie bancaire servant à garantir l’exécution de leurs obligations légales et réglementaires. Le montant de la garantie à fournir correspond à la somme présumée de six mensualités de cotisations sans toutefois être inférieur à deux mille quatre cent soixante-dix-huit euros et quatre-vingt-quatorze cents.Ce montant peut être adapté tous les six mois.Le dépôt du cautionnement s’opère dans les conditions de la loi du 12 février 1872 et de l’arrêté grand-ducal du 9 juillet 1945 relatif aux consignations.La garantie bancaire exigible sur première demande du centre doit être fournie par une banque agréée au GrandDuché de Luxembourg.La libération soit des sommes consignées soit de la garantie bancaire s’effectue sur décision coulée en force à prendre par le comité-directeur du centre au moment de la cessation des activités de l’employeur et notamment en cas de liquidation de faillite ou de gestion contrôlée d’une entreprise. Le cautionnement y compris les intérêts est liquidé au profit du centre jusqu’à concurrence de ses créances.”
+- L’alinéa 2 de l’article 335 est remplacé par le texte suivant : «Les personnes physiques et morales peuvent, au moment d’engager du personnel assujetti à la sécurité sociale, être tenues par le comité-directeur du centre soit au dépôt d’un cautionnement soit à la présentation d’une garantie bancaire servant à garantir l’exécution de leurs obligations légales et réglementaires. Le montant de la garantie à fournir correspond à la somme présumée de six mensualités de cotisations sans toutefois être inférieur à deux mille quatre cent soixante-dix-huit euros et quatre-vingt-quatorze cents.Ce montant peut être adapté tous les six mois.Le dépôt du cautionnement s’opère dans les conditions de la loi du 12 février 1872 et de l’arrêté grand-ducal du 9 juillet 1945 relatif aux consignations. La garantie bancaire exigible sur première demande du centre doit être fournie par une banque agréée au GrandDuché de Luxembourg. La libération soit des sommes consignées soit de la garantie bancaire s’effectue sur décision coulée en force à prendre par le comité-directeur du centre au moment de la cessation des activités de l’employeur et notamment en cas de liquidation de faillite ou de gestion contrôlée d’une entreprise. Le cautionnement y compris les intérêts est liquidé au profit du centre jusqu’à concurrence de ses créances.”
 
-7. Il est ajouté un nouvel article libellé comme suit : «Article 340.- Un règlement grand-ducal peut prévoir des dispositions dérogatoires pour les gens de mer en ce qui concerne les modalités administratives relatives à l’affiliation, la perception des cotisations et le service des prestations.”
+- Il est ajouté un nouvel article libellé comme suit : «Article 340.- Un règlement grand-ducal peut prévoir des dispositions dérogatoires pour les gens de mer en ce qui concerne les modalités administratives relatives à l’affiliation, la perception des cotisations et le service des prestations.”
 
-8. Il est ajouté un alinéa 4 nouveau à l’article premier de la loi du 29 août 1951 concernant l’assurance-maladie des fonctionnaires et employés dont la teneur est la suivante : «Sont également considérés comme employés privés aux termes du point 9 de l’alinéa 1er du présent article, les gens de mer occupés sur un navire battant pavillon luxembourgeois et y exerçcant des fonctions de surveillance et de contrôle comportant la responsabilité au point de vue technique et économique, du travail d’autres personnes, sans participation prépondérante au travail manuel.”
+- Il est ajouté un alinéa 4 nouveau à l’article premier de la loi du 29 août 1951 concernant l’assurance-maladie des fonctionnaires et employés dont la teneur est la suivante : «Sont également considérés comme employés privés aux termes du point 9 de l’alinéa 1er du présent article, les gens de mer occupés sur un navire battant pavillon luxembourgeois et y exerçcant des fonctions de surveillance et de contrôle comportant la responsabilité au point de vue technique et économique, du travail d’autres personnes, sans participation prépondérante au travail manuel.”
 
 (2)
 
@@ -4230,7 +4266,9 @@ En outre, les dispositions des paragraphes 4, numéro 3, et 7, alinéa 2, numér
 <a id="art-5-0-0-2"></a>
 ## Art. 5.0.0-2.
 
-La dernière phrase du paragraphe 9 de l’article 152bis de la loi du 4 décembre 1967 concernant l’impôt sur le revenu est modifiée comme suit:De même, il n’aura pas droit aux bonifications d’impôts du chef de navires utilisés en trafic international.
+La dernière phrase du paragraphe 9 de l’article 152bis de la loi du 4 décembre 1967 concernant l’impôt sur le revenu est modifiée comme suit:
+
+De même, il n’aura pas droit aux bonifications d’impôts du chef de navires utilisés en trafic international.
 
 <a id="art-5-0-0-3"></a>
 ## Art. 5.0.0-3.
@@ -4240,17 +4278,17 @@ Les dispositions de la loi du 1er décembre 1936 concernant l’impôt commercia
 <a id="art-5-0-0-4"></a>
 ## Art. 5.0.0-4.
 
-1. Sous les conditions ci-après et par dérogation à l’article 157, alinéas 3 à 6 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu, un règlement grand-ducal pourra prévoir l’imposition forfaitaire des revenus provenant d’une occupation salariée exercée pour le compte d’une entreprise maritime agréée par des contribuables non résidents à bord d’un navire exploité en trafic international.
+- Sous les conditions ci-après et par dérogation à l’article 157, alinéas 3 à 6 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu, un règlement grand-ducal pourra prévoir l’imposition forfaitaire des revenus provenant d’une occupation salariée exercée pour le compte d’une entreprise maritime agréée par des contribuables non résidents à bord d’un navire exploité en trafic international.
 
-2. Le taux de l’imposition forfaitaire, qui pourra varier avec l’importance du revenu, ne peut pas être inférieur à 8% sans dépasser 10%.
+- Le taux de l’imposition forfaitaire, qui pourra varier avec l’importance du revenu, ne peut pas être inférieur à 8% sans dépasser 10%.
 
-3. Le règlement grand-ducal prévu à l’alinéa 1er pourra également prévoir
+- Le règlement grand-ducal prévu à l’alinéa 1er pourra également prévoir
 
-1. que les taux d’imposition prévus à l’alinéa 2 s’appliquent, par dérogation aux dispositions d’établissement du revenu imposable, du tarif de l’impôt et de la classe d’impôt, au montant brut des rémunérations diminué, le cas échéant, d’un abattement pouvant varier avec l’importance du revenu;
+  - que les taux d’imposition prévus à l’alinéa 2 s’appliquent, par dérogation aux dispositions d’établissement du revenu imposable, du tarif de l’impôt et de la classe d’impôt, au montant brut des rémunérations diminué, le cas échéant, d’un abattement pouvant varier avec l’importance du revenu;
 
-2. que la retenue d’impôt, non régularisée suivant l’article 145 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu, vaut imposition définitive et que les revenus imposés forfaitairement ne donnent pas lieu à imposition par voie d’assiette;
+  - que la retenue d’impôt, non régularisée suivant l’article 145 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu, vaut imposition définitive et que les revenus imposés forfaitairement ne donnent pas lieu à imposition par voie d’assiette;
 
-3. que la retenue d’impôt forfaitaire peut être percue, le cas échéant, par dérogation aux dispositions des articles 136 et 137 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu et aux dispositions d’exécution des articles en question.
+  - que la retenue d’impôt forfaitaire peut être percue, le cas échéant, par dérogation aux dispositions des articles 136 et 137 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu et aux dispositions d’exécution des articles en question.
 
 <a id="art-5-0-0-5"></a>
 ## Art. 5.0.0-5.
@@ -4258,6 +4296,24 @@ Les dispositions de la loi du 1er décembre 1936 concernant l’impôt commercia
 En cas d’aliénation par une entreprise maritime agréée d’immobilisations constituées par des navires exploités en trafic international et investis dans un établissement indigène, l’article 54 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu est applicable aux plus-values dégagées.
 
 ## LIVRE 6 DU COMMERCE MARITIME
+
+Les conventions se rapportant au présent livre , ainsi que les dispositions relatives aux avaries communes sont reproduites à l’annexe 6 de la loi du 9 novembre 1990 portant approbation de certaines conventions internationales en matière maritime.
+
+- Convention internationale pour l’unification de certaines règles en matière d’abordage et Protocole de signature, Bruxelles, 23 septembre 1910.
+
+- Convention internationale pour l’unification de certaines règles en matière d’assistance et de sauvetage maritimes et Protocole de signature, Bruxelles, 23 septembre 1910.
+
+- Convention internationale pour l’unification de certaines règles en matière de connaissement et Protocole de signature, Bruxelles, 25 août 1924 «Règles de La Haye”. Protocole portant modification de la Convention internationale pour l’unification de certaines règles en matière de connaissement signée à Bruxelles le 25 août 1924, (Bruxelles, 23 février 1968) «Règles deVisby». Protocole portant modification de la Convention internationale pour l’unification de certaines règles en matière de connaissement du 25 août 1924,telle qu’amendée par le Protocole de modification du 23 février 1968 (Bruxelles,21 décembre 1979).
+
+- Convention internationale pour l’unification de certaines règles concernant les immunités des navires d’Etat, Bruxelles, 10 avril 1926. Protocole additionnel à la Convention internationale pour l’unification de certaines règles concernant les immunités des navires d’Etat, Bruxelles, 10 avril 1926, (Bruxelles, 24 mai 1934).
+
+- Convention internationale pour l’unification de certaines règles relatives à la compétence civile en matière d’abordage, Bruxelles, 10 mai 1952.
+
+- Convention internationale pour l’unification de certaines règles sur la saisie conservatoire des navires de mer, Bruxelles, 10 mai 1952.
+
+- Convention internationale sur la limitation de la responsabilité des propriétaires de navires de mer et Protocole de signature, Bruxelles, 10 octobre 1957. Protocole portant modification de la Convention internationale sur la limitation de la responsabilité des propriétaires de navires de mer du 10 octobre 1957 (Bruxelles, 21 décembre 1979).
+
+- Convention d’Athènes de 1974 relative au transport par mer de passagers et de leurs bagages (PAL 1974) et Protocole portant modification de la Convention (Londres, 19 novembre 1976), (PAL Prot 1976).
 
 ### Titre 1er De l’abordage
 
@@ -4320,6 +4376,12 @@ Les avaries communes sont soumises aux Règles d’York et d’Anvers,même en l
 Les articles 190 à 331 et 397 à 436 du code de commerce sont abrogés.
 
 ## LIVRE 7 DISPOSITIONS PENALES ET DISCIPLINAIRES
+
+Les conventions se rapportant au présent livre figurent à l’annexe 7 de la loi du 9 novembre 1990 portant approbation de certaines conventions internationales en matière maritime.
+
+- Convention internationale pour l’unification de certaines règles relatives à la compétence pénale en matière d’abordage et autres événements de navigation (Bruxelles, 10 mai 1952).
+
+- Convention internationale sur les passagers clandestins (Bruxelles, 10 octobre 1957).
 
 <a id="art-7-0-0-1"></a>
 ## Art. 7.0.0-1.
@@ -4430,13 +4492,13 @@ Lorsque l’entreprise est constituée par une personne physique résidant au Gr
 
 L’autorisation perd sa validité en cas de :
 
-1. défaut d’utilisation pendant plus de deux ans à partir de la date d’octroi ;
+- défaut d’utilisation pendant plus de deux ans à partir de la date d’octroi ;
 
-2. cessation volontaire de l’activité pendant plus de deux ans ;
+- cessation volontaire de l’activité pendant plus de deux ans ;
 
-3. mise en liquidation judiciaire ;
+- mise en liquidation judiciaire ;
 
-4. jugement déclaratif de faillite.
+- jugement déclaratif de faillite.
 
 (3)
 
@@ -4478,13 +4540,13 @@ Un règlement grand-ducal précisera les modalités d’application du présent 
 
 Agrément du dirigeant d’entreprise maritime
 
-1. Pour être agréé comme dirigeant d’entreprise maritime, il faut être établi professionnellement au Luxembourg et justifier de garanties d’honorabilité et d’expérience professionnelle. L’honorabilité s’apprécie sur la base des antécédents judiciaires et de tous les éléments susceptibles d’établir que les personnes visées jouissent d’une bonne réputation et présentent toutes garanties d’une activité irréprochable. L’expérience professionnelle s’apprécie au regard du fait que ces personnes ont déjà exercé des activités analogues à un niveau élevé de responsabilité et d’autonomie.
+- Pour être agréé comme dirigeant d’entreprise maritime, il faut être établi professionnellement au Luxembourg et justifier de garanties d’honorabilité et d’expérience professionnelle. L’honorabilité s’apprécie sur la base des antécédents judiciaires et de tous les éléments susceptibles d’établir que les personnes visées jouissent d’une bonne réputation et présentent toutes garanties d’une activité irréprochable. L’expérience professionnelle s’apprécie au regard du fait que ces personnes ont déjà exercé des activités analogues à un niveau élevé de responsabilité et d’autonomie.
 
-2. Lorsque le dirigeant d’entreprise maritime est une personne morale, il sera exigé de ses organes dirigeants la preuve des qualités requises dans le chef des personnes physiques telles qu’énoncées sous le paragraphe 1) ci-dessus. En outre, la délivrance de l’agrément en faveur d’une personne morale désignée comme dirigeant d’entreprise maritime conformément à l’ article 8.0.0-2 paragraphe 3 de la présente loi est subordonnée à la condition qu’elle dispose au Luxembourg d’une organisation suffisante pour l’exercice correct de ses activités.
+- Lorsque le dirigeant d’entreprise maritime est une personne morale, il sera exigé de ses organes dirigeants la preuve des qualités requises dans le chef des personnes physiques telles qu’énoncées sous le paragraphe 1) ci-dessus. En outre, la délivrance de l’agrément en faveur d’une personne morale désignée comme dirigeant d’entreprise maritime conformément à l’ article 8.0.0-2 paragraphe 3 de la présente loi est subordonnée à la condition qu’elle dispose au Luxembourg d’une organisation suffisante pour l’exercice correct de ses activités.
 
-3. Un dirigeant d’entreprise maritime peut être désigné par plusieurs entreprises.
+- Un dirigeant d’entreprise maritime peut être désigné par plusieurs entreprises.
 
-4. L’agrément du dirigeant maritime est octroyé pour cinq ans et est renouvelé si le dirigeant démontre qu’il remplit toujours les conditions visées au paragraphe 1 er .
+- L’agrément du dirigeant maritime est octroyé pour cinq ans et est renouvelé si le dirigeant démontre qu’il remplit toujours les conditions visées au paragraphe 1 er .
 
 <a id="art-8-0-0-5"></a>
 ## Art. 8.0.0-5.
@@ -4525,13 +4587,13 @@ Un règlement grand-ducal détermine les pièces et autres documents qui doivent
 
 Surveillance des entreprises maritimes
 
-1. Le commissaire est chargé de veiller au respect des obligations incombant aux entreprises maritimes en vertu de la présente loi et de ses règlements d’exécution.
+- Le commissaire est chargé de veiller au respect des obligations incombant aux entreprises maritimes en vertu de la présente loi et de ses règlements d’exécution.
 
-2. Toute modification essentielle des statuts, tout changement de réviseur d’entreprise, tout changement de dirigeant maritime, ainsi que toute extension ou modification des activités de l’entreprise maritime doivent être portés à la connaissance du commissaire. La preuve du dépôt des comptes annuels et du rapport du réviseur d’entreprise des sociétés visées à l’article 69 de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises doit être communiquée au commissaire dans le mois du dépôt.
+- Toute modification essentielle des statuts, tout changement de réviseur d’entreprise, tout changement de dirigeant maritime, ainsi que toute extension ou modification des activités de l’entreprise maritime doivent être portés à la connaissance du commissaire. La preuve du dépôt des comptes annuels et du rapport du réviseur d’entreprise des sociétés visées à l’article 69 de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises doit être communiquée au commissaire dans le mois du dépôt.
 
-3. Le réviseur d’entreprise est tenu de fournir tous les renseignements ou certifications que le commissaire requiert sur les points dont le réviseur d’entreprise a ou doit avoir connaissance dans le cadre de l’exercice de sa mission. A ces fins le réviseur d’entreprise est délié de son secret professionnel à l’égard du commissaire . Les agents du Commissariat aux affaires maritimes sont soumis au secret professionnel quant aux renseignements recueillis dans l’exercice de leurs fonctions. Cette disposition n’est pas applicable aux cas où les agents du Commissariat aux affaires maritimes sont appelés à rendre témoignage en justice, et au cas où la loi les oblige ou les autorise à révéler certains faits.
+- Le réviseur d’entreprise est tenu de fournir tous les renseignements ou certifications que le commissaire requiert sur les points dont le réviseur d’entreprise a ou doit avoir connaissance dans le cadre de l’exercice de sa mission. A ces fins le réviseur d’entreprise est délié de son secret professionnel à l’égard du commissaire . Les agents du Commissariat aux affaires maritimes sont soumis au secret professionnel quant aux renseignements recueillis dans l’exercice de leurs fonctions. Cette disposition n’est pas applicable aux cas où les agents du Commissariat aux affaires maritimes sont appelés à rendre témoignage en justice, et au cas où la loi les oblige ou les autorise à révéler certains faits.
 
-4. Toute modification essentielle des statuts, tout changement de dirigeant et/ou de réviseur indépendants ainsi que toute autre extension d’activité doivent être immédiatement portés à la connaissance du commissaire .
+- Toute modification essentielle des statuts, tout changement de dirigeant et/ou de réviseur indépendants ainsi que toute autre extension d’activité doivent être immédiatement portés à la connaissance du commissaire .
 
 <a id="art-8-0-0-10"></a>
 ## Art. 8.0.0-10.

@@ -54,21 +54,21 @@ Inscription des candidats
 
 Le candidat pose sa candidature par voie électronique. A cet effet, il fournit une lettre de motivation pour le poste brigué et une notice biographique renseignant les informations suivantes:
 
-1. ses nom et prénom(s);
+- ses nom et prénom(s);
 
-2. son numéro d’identification;
+- son numéro d’identification;
 
-3. sa nationalité;
+- sa nationalité;
 
-4. son adresse électronique;
+- son adresse électronique;
 
-5. la liste des établissements d’enseignement fréquentés et leur pays d’implantation;
+- la liste des établissements d’enseignement fréquentés et leur pays d’implantation;
 
-6. ses diplômes;
+- ses diplômes;
 
-7. son expérience professionnelle et ses connaissances en langues parlées et écrites.
+- son expérience professionnelle et ses connaissances en langues parlées et écrites.
 
-8. ses connaissances en langues parlées et écrites.
+- ses connaissances en langues parlées et écrites.
 
 Les informations fournies doivent être complètes et véritables.
 
@@ -100,13 +100,13 @@ En vue de l’engagement et de l’affectation définitive du candidat, le minis
 
 Au moment de la conclusion du contrat de travail, le candidat retenu doit remplir les conditions prévues par le règlement grand-ducal modifié du 12 mai 2010 fixant les modalités du contrôle de la connaissance des trois langues administratives pour le recrutement des fonctionnaires et employés des administrations de l’Etat et des établissements publics et fournir au ministre les pièces suivantes :
 
-1. un extrait du casier judiciaire datant de moins de deux mois ;
+- un extrait du casier judiciaire datant de moins de deux mois ;
 
-2. une copie de la carte d’identité ;
+- une copie de la carte d’identité ;
 
-3. une copie des diplômes obtenus et, s’il y a lieu, une copie de la décision de reconnaissance de leur équivalence ;
+- une copie des diplômes obtenus et, s’il y a lieu, une copie de la décision de reconnaissance de leur équivalence ;
 
-4. s’il y a lieu, une copie de la décision d’inscription au registre des titres.
+- s’il y a lieu, une copie de la décision d’inscription au registre des titres.
 
 Le candidat n’a pas besoin de fournir une copie de sa carte d’identité lorsque les données concernant ses nom et prénom(s), sa date de naissance et sa nationalité sont qualifiées d’exactes dans le registre national des personnes physiques et s’il a sa résidence habituelle au Luxembourg.
 

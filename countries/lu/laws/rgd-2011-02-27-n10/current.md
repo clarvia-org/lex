@@ -52,29 +52,29 @@ I.
 
 Les épreuves préliminaires ont pour objet d’apprécier, sous forme d’épreuves de compréhension et d’expression orale, les connaissances du candidat dans les trois langues administratives selon des niveaux de compétences fixés conformément au Cadre européen commun de référence pour les langues.
 
-1. En ce qui concerne les épreuves préliminaires organisées pour la catégorie de traitement et d’indemnité A , les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale sont fixés comme suit:
+- En ce qui concerne les épreuves préliminaires organisées pour la catégorie de traitement et d’indemnité A , les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale sont fixés comme suit:
 
-- niveau C1 pour la première langue
+  - niveau C1 pour la première langue
 
-- niveau B2 pour la deuxième langue
+  - niveau B2 pour la deuxième langue
 
-- niveau B1 pour la troisième langue.
+  - niveau B1 pour la troisième langue.
 
-2. En ce qui concerne les épreuves préliminaires organisées pour la catégorie de traitement et d’indemnité B , les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
+- En ce qui concerne les épreuves préliminaires organisées pour la catégorie de traitement et d’indemnité B , les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
 
-- niveau B2 pour la première langue
+  - niveau B2 pour la première langue
 
-- niveau B1 pour la deuxième langue
+  - niveau B1 pour la deuxième langue
 
-- niveau A2 pour la troisième langue.
+  - niveau A2 pour la troisième langue.
 
-3. En ce qui concerne les épreuves préliminaires organisées pour les catégories de traitement et d’indemnité C et D , les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
+- En ce qui concerne les épreuves préliminaires organisées pour les catégories de traitement et d’indemnité C et D , les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
 
-- niveau B1 pour la première langue
+  - niveau B1 pour la première langue
 
-- niveau A2 pour la deuxième langue
+  - niveau A2 pour la deuxième langue
 
-- niveau A1 pour la troisième langue.
+  - niveau A1 pour la troisième langue.
 
 II.
 

@@ -53,59 +53,59 @@ Définitions
 
 Pour l’application du présent règlement ministériel, les abréviations et termes ci-dessous ont les significations suivantes :
 
-1. « ACC – Area control center » : centre de contrôle régional – un organisme chargé d’assurer le service du contrôle de la circulation aérienne pour les vols contrôlés dans les régions de contrôle relevant de son autorité ;
+- « ACC – Area control center » : centre de contrôle régional – un organisme chargé d’assurer le service du contrôle de la circulation aérienne pour les vols contrôlés dans les régions de contrôle relevant de son autorité ;
 
-2. « AMSL – above mean sea level » : distance verticale entre un aéronef et le niveau moyen de la mer ;
+- « AMSL – above mean sea level » : distance verticale entre un aéronef et le niveau moyen de la mer ;
 
-3. « AIP – Aeronautical information publication » : publication d’information aéronautique d’un État, ou éditée par décision d’un État, renfermant des informations aéronautiques de caractère durable et essentielles à la navigation aérienne ;
+- « AIP – Aeronautical information publication » : publication d’information aéronautique d’un État, ou éditée par décision d’un État, renfermant des informations aéronautiques de caractère durable et essentielles à la navigation aérienne ;
 
-4. « APP – Approach » : centre de contrôle d’approche – un organisme de la circulation aérienne chargé d’assurer les services de la circulation aérienne au bénéfice des aéronefs évoluant dans les espaces aériens aux alentours d’un aérodrome ;
+- « APP – Approach » : centre de contrôle d’approche – un organisme de la circulation aérienne chargé d’assurer les services de la circulation aérienne au bénéfice des aéronefs évoluant dans les espaces aériens aux alentours d’un aérodrome ;
 
-5. « ATS – Air traffic services » : services de la circulation aérienne – terme générique désignant, selon le cas, le service d’information de vol, le service d’alerte, le service consultatif de la circulation aérienne, le service du contrôle de la circulation aérienne (contrôle régional, contrôle d’approche ou contrôle d’aérodrome) ;
+- « ATS – Air traffic services » : services de la circulation aérienne – terme générique désignant, selon le cas, le service d’information de vol, le service d’alerte, le service consultatif de la circulation aérienne, le service du contrôle de la circulation aérienne (contrôle régional, contrôle d’approche ou contrôle d’aérodrome) ;
 
-6. « centre d’information de vol » : organisme chargé d’assurer le service d’information de vol et le service d’alerte ;
+- « centre d’information de vol » : organisme chargé d’assurer le service d’information de vol et le service d’alerte ;
 
-7. « classification des espaces aériens » : les classes d’espace aérien associent à des zones tridimensionnelles dans l’espace aérien un code, en l’occurrence les lettres A, B, C, D, E et G, qui détermine le niveau du service de la circulation aérienne rendu du contrôle aérien dans l’espace aérien en question ;
+- « classification des espaces aériens » : les classes d’espace aérien associent à des zones tridimensionnelles dans l’espace aérien un code, en l’occurrence les lettres A, B, C, D, E et G, qui détermine le niveau du service de la circulation aérienne rendu du contrôle aérien dans l’espace aérien en question ;
 
-8. « COMAO » : de l’anglais Composite air operations ;
+- « COMAO » : de l’anglais Composite air operations ;
 
-9. « espace aérien » : terme générique désignant une portion de l’atmosphère terrestre, sur terre ou sur l’eau, qui est règlementée par un pays en particulier ;
+- « espace aérien » : terme générique désignant une portion de l’atmosphère terrestre, sur terre ou sur l’eau, qui est règlementée par un pays en particulier ;
 
-10. « espace aérien contrôlé » : espace aérien, de dimensions définies, à l’intérieur duquel le service du contrôle de la circulation aérienne est assuré selon la classification des espaces aériens. Il s’agit des espaces aériens A, B, C, D et E ;
+- « espace aérien contrôlé » : espace aérien, de dimensions définies, à l’intérieur duquel le service du contrôle de la circulation aérienne est assuré selon la classification des espaces aériens. Il s’agit des espaces aériens A, B, C, D et E ;
 
-11. « FIR – Flight information region » : région d’information de vol – un espace aérien, de dimensions définies, à l’intérieur duquel le service d’information de vol et le service d’alerte sont assurés ;
+- « FIR – Flight information region » : région d’information de vol – un espace aérien, de dimensions définies, à l’intérieur duquel le service d’information de vol et le service d’alerte sont assurés ;
 
-12. « FL – flight level » : niveau de vol – une surface isobare, liée à une pression de référence spécifiée, soit 1.013,2 hectopascals (hPa), et séparée des autres surfaces analogues par des intervalles de pression spécifiés ;
+- « FL – flight level » : niveau de vol – une surface isobare, liée à une pression de référence spécifiée, soit 1.013,2 hectopascals (hPa), et séparée des autres surfaces analogues par des intervalles de pression spécifiés ;
 
-13. « ft – foot/feet » : unité de mesure de distance « pied/s », 1 pied étant égal à 0,30478 mètres ;
+- « ft – foot/feet » : unité de mesure de distance « pied/s », 1 pied étant égal à 0,30478 mètres ;
 
-14. « GND – ground » : surface terrestre ;
+- « GND – ground » : surface terrestre ;
 
-15. « AGL – above ground level » : distance verticale entre un aéronef et un point sol référence ;
+- « AGL – above ground level » : distance verticale entre un aéronef et un point sol référence ;
 
-16. « HJ – Sunrise to sunset » : du lever au coucher du soleil ;
+- « HJ – Sunrise to sunset » : du lever au coucher du soleil ;
 
-17. « HX – No specific working hours » : pas d’heures précises de fonctionnement ;
+- « HX – No specific working hours » : pas d’heures précises de fonctionnement ;
 
-18. « NM – nautical mile/s) » : unité de mesure de distance « mille/s marin/s », 1 mille marin étant égal à 1.852 mètres ;
+- « NM – nautical mile/s) » : unité de mesure de distance « mille/s marin/s », 1 mille marin étant égal à 1.852 mètres ;
 
-19. « NOTAM – notice to airmen » : messages aux navigants aériens – avis diffusé par télécommunication et donnant, sur l’établissement, l’état ou la modification d’une installation, d’un service ou d’une procédure aéronautiques, ou d’un danger pour la navigation aérienne, des renseignements qu’il est essentiel de communiquer à temps au personnel chargé des opérations aériennes ;
+- « NOTAM – notice to airmen » : messages aux navigants aériens – avis diffusé par télécommunication et donnant, sur l’établissement, l’état ou la modification d’une installation, d’un service ou d’une procédure aéronautiques, ou d’un danger pour la navigation aérienne, des renseignements qu’il est essentiel de communiquer à temps au personnel chargé des opérations aériennes ;
 
-20. « TMA – Terminal manoeuvring area » : région de contrôle terminale – région de contrôle établie, en principe, au carrefour de routes ATS aux environs d’un ou de plusieurs aérodromes importants ;
+- « TMA – Terminal manoeuvring area » : région de contrôle terminale – région de contrôle établie, en principe, au carrefour de routes ATS aux environs d’un ou de plusieurs aérodromes importants ;
 
-21. « TSA – Temporary segregated area » : zone de ségrégation temporaire – un espace aérien, de dimensions définies, réservé temporairement pour l’usage exclusif d’un utilisateur particulier ;
+- « TSA – Temporary segregated area » : zone de ségrégation temporaire – un espace aérien, de dimensions définies, réservé temporairement pour l’usage exclusif d’un utilisateur particulier ;
 
-22. « UAV – Unmanned aerial vehicle » : aéronef circulant sans personne à bord ;
+- « UAV – Unmanned aerial vehicle » : aéronef circulant sans personne à bord ;
 
-23. « VMC – visual meteorological conditions » : conditions météorologiques de vol à vue, exprimées en fonction de la visibilité, de la distance par rapport aux nuages et du plafond, égales ou supérieures aux minimums spécifiés aux points SERA.5001 du règlement (UE) n° 923/2012 ;
+- « VMC – visual meteorological conditions » : conditions météorologiques de vol à vue, exprimées en fonction de la visibilité, de la distance par rapport aux nuages et du plafond, égales ou supérieures aux minimums spécifiés aux points SERA.5001 du règlement (UE) n° 923/2012 ;
 
-24. « zone à activités aériennes sportives et récréatives » : espace aérien, de dimensions définies, dans les limites duquel des activités aériennes spécifiques sont autorisées sous certaines conditions, sans pour autant être exclusivement réservé à ces activités ;
+- « zone à activités aériennes sportives et récréatives » : espace aérien, de dimensions définies, dans les limites duquel des activités aériennes spécifiques sont autorisées sous certaines conditions, sans pour autant être exclusivement réservé à ces activités ;
 
-25. « zone à utilisation obligatoire de transpondeur – TMZ » : espace aérien, de dimensions définies, à l’intérieur duquel l’emport et l’utilisation de transpondeurs transmettant l’altitude-pression sont obligatoires ;
+- « zone à utilisation obligatoire de transpondeur – TMZ » : espace aérien, de dimensions définies, à l’intérieur duquel l’emport et l’utilisation de transpondeurs transmettant l’altitude-pression sont obligatoires ;
 
-26. « zone de contrôle – CTR » : un espace aérien contrôlé, de dimensions définies, s’étendant verticalement à partir de la surface jusqu’à une limite supérieure spécifiée ;
+- « zone de contrôle – CTR » : un espace aérien contrôlé, de dimensions définies, s’étendant verticalement à partir de la surface jusqu’à une limite supérieure spécifiée ;
 
-27. « zone interdite » : espace aérien, de dimensions définies, dans les limites duquel le vol des aéronefs est interdit (entry prohibited).
+- « zone interdite » : espace aérien, de dimensions définies, dans les limites duquel le vol des aéronefs est interdit (entry prohibited).
 
 (2)
 
@@ -133,9 +133,9 @@ Luxembourg TMA ONE A
 
 L’espace désigné « Luxembourg TMA ONE A » est un espace aérien contrôlé
 
-1. de classe D à partir de 2.500 ft AMSL jusqu’au FL 95 (inclus) et
+- de classe D à partir de 2.500 ft AMSL jusqu’au FL 95 (inclus) et
 
-2. de classe C à partir du FL 95 (exclu) jusqu’au FL 165.
+- de classe C à partir du FL 95 (exclu) jusqu’au FL 165.
 
 Cet espace aérien est une zone à utilisation obligatoire de transpondeur (TMZ).
 
@@ -155,9 +155,9 @@ Luxembourg TMA ONE B
 
 L’espace désigné « Luxembourg TMA ONE B » est un espace aérien contrôlé
 
-1. de classe D à partir de 3.500 ft AMSL jusqu’au FL 95 (inclus) et
+- de classe D à partir de 3.500 ft AMSL jusqu’au FL 95 (inclus) et
 
-2. de classe C à partir du FL 95 (exclu) jusqu’au FL 145.
+- de classe C à partir du FL 95 (exclu) jusqu’au FL 145.
 
 Cet espace aérien est une zone à utilisation obligatoire de transpondeur (TMZ).
 
@@ -177,9 +177,9 @@ Luxembourg TMA TWO A
 
 L’espace désigné « Luxembourg TMA TWO A », issu d’une délégation des services de la circulation aérienne du centre de contrôle régional de Langen au centre de contrôle d’approche de l’aéroport de Luxembourg, est un espace aérien contrôlé
 
-1. de classe E à partir de 2.500 ft AGL jusqu’au FL 100 (exclu) et
+- de classe E à partir de 2.500 ft AGL jusqu’au FL 100 (exclu) et
 
-2. de classe C à partir du FL 100 (inclus) jusqu’au FL 145.
+- de classe C à partir du FL 100 (inclus) jusqu’au FL 145.
 
 Ses limites latérales et verticales, ainsi que ses conditions d’utilisations sont précisées dans le tableau suivant :
 
@@ -197,11 +197,11 @@ Luxembourg TMA TWO B
 
 L’espace désigné « Luxembourg TMA TWO B », issu d’une délégation des services de la circulation aérienne du centre de contrôle régional de Langen au centre de contrôle d’approche de l’aéroport de Luxembourg, est un espace aérien contrôlé
 
-1. de classe E entre 1000 ft AGL et 5500 ft AMSL (exclu),
+- de classe E entre 1000 ft AGL et 5500 ft AMSL (exclu),
 
-2. de classe D entre 5500 ft AMSL (inclus) et FL 95 (inclus), et
+- de classe D entre 5500 ft AMSL (inclus) et FL 95 (inclus), et
 
-3. de classe C entre FL 95 (exclu) et FL 145.
+- de classe C entre FL 95 (exclu) et FL 145.
 
 Ses limites latérales et verticales, ainsi que ses conditions d’utilisations sont précisées dans le tableau suivant :
 
@@ -249,11 +249,11 @@ Luxembourg TMA TWO D
 
 L’espace désigné « Luxembourg TMA TWO D », issu d’une délégation des services de la circulation aérienne du centre de contrôle régional de Langen au centre de contrôle d’approche de l’aéroport de Luxembourg, est un espace aérien contrôlé
 
-1. de classe E entre 1000 ft AGL et 5500 ft AMSL (exclu),
+- de classe E entre 1000 ft AGL et 5500 ft AMSL (exclu),
 
-2. de classe D entre 5500 ft AMSL (inclus) et FL 95 (inclus), et
+- de classe D entre 5500 ft AMSL (inclus) et FL 95 (inclus), et
 
-3. de classe C entre FL 95 (exclu) et FL 165.
+- de classe C entre FL 95 (exclu) et FL 165.
 
 Ses limites latérales et verticales, ainsi que ses conditions d’utilisations sont précisées dans le tableau suivant :
 
@@ -271,9 +271,9 @@ Luxembourg TMA TWO E1
 
 L’espace désigné « Luxembourg TMA TWO E1 », issu d’une délégation des services de la circulation aérienne du centre de contrôle régional de Langen au centre de contrôle d’approche de l’aéroport de Luxembourg, est un espace aérien contrôlé
 
-1. de classe E entre 1000 ft AGL et 3500 ft AMSL (exclu), et
+- de classe E entre 1000 ft AGL et 3500 ft AMSL (exclu), et
 
-2. de classe D entre 3500 ft AMSL (inclus) et FL 95.
+- de classe D entre 3500 ft AMSL (inclus) et FL 95.
 
 Ses limites latérales et verticales, ainsi que ses conditions d’utilisations sont précisées dans le tableau suivant :
 
@@ -311,11 +311,11 @@ Luxembourg TMA TWO F1
 
 L’espace désigné « Luxembourg TMA TWO F1 », issu d’une délégation des services de la circulation aérienne du centre de contrôle régional de Langen au centre de contrôle d’approche de l’aéroport de Luxembourg, est un espace aérien contrôlé
 
-1. de classe E entre 1000 ft AGL et 3500 ft AMSL,
+- de classe E entre 1000 ft AGL et 3500 ft AMSL,
 
-2. de classe D entre 3500 ft AMSL (inclus) et FL 95 (inclus), et
+- de classe D entre 3500 ft AMSL (inclus) et FL 95 (inclus), et
 
-3. de classe C entre FL 95 (exclu) et FL 165.
+- de classe C entre FL 95 (exclu) et FL 165.
 
 Ses limites latérales et verticales, ainsi que ses conditions d’utilisations sont précisées dans le tableau suivant :
 
@@ -335,9 +335,9 @@ Luxembourg TMA TWO F2
 
 L’espace désigné « Luxembourg TMA TWO F2 », issu d’une délégation des services de la circulation aérienne du centre de contrôle régional de Langen au centre de contrôle d’approche de l’aéroport de Luxembourg, est un espace aérien contrôlé
 
-1. de classe E entre 1000 ft AGL et FL 95 (inclus), et
+- de classe E entre 1000 ft AGL et FL 95 (inclus), et
 
-2. de classe C entre FL 95 (exclu) et FL 165.
+- de classe C entre FL 95 (exclu) et FL 165.
 
 Ses limites latérales et verticales, ainsi que ses conditions d’utilisations sont précisées dans le tableau suivant :
 
@@ -393,9 +393,9 @@ Luxembourg TMA FIVE
 
 L’espace désigné « Luxembourg TMA FIVE », issu d’une délégation des services de la circulation aérienne du centre de contrôle régional de Bruxelles au centre de contrôle d’approche de l’aéroport de Luxembourg, est un espace aérien contrôlé
 
-1. de classe D à partir de 2.500 ft AMSL jusqu’au FL 95 (inclus) et
+- de classe D à partir de 2.500 ft AMSL jusqu’au FL 95 (inclus) et
 
-2. de classe C à partir du FL 95 (exclu) jusqu’au FL 165.
+- de classe C à partir du FL 95 (exclu) jusqu’au FL 165.
 
 Ses limites latérales et verticales, ainsi que ses conditions d’utilisations sont précisées dans le tableau suivant :
 
@@ -652,17 +652,17 @@ Opérations spéciales
 
 Les opérations spéciales suivantes effectuées dans l’intérêt public peuvent avoir lieu dans les TSA prévues aux articles 28 à 32 après coordination préalable avec l’Armée luxembourgeoise :
 
-1. missions policières et douanières ;
+- missions policières et douanières ;
 
-2. surveillance de la circulation et poursuites ;
+- surveillance de la circulation et poursuites ;
 
-3. recherche et sauvetage ;
+- recherche et sauvetage ;
 
-4. vols médicaux ;
+- vols médicaux ;
 
-5. évacuations ;
+- évacuations ;
 
-6. lutte contre les incendies.
+- lutte contre les incendies.
 
 #### Chapitre 3 Utilisation des espaces aériens
 

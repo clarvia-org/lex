@@ -92,6 +92,8 @@ La décision d'affectation est distincte de l'acte de nomination et peut être m
 
 ( abrogé )
 
+Dispositions additionnelles
+
 <a id="art-9"></a>
 ## Art. 9.
 
@@ -103,6 +105,8 @@ Les fonctionnaires du cadre supérieur à l'exclusion des conseillers qui sont a
 ## Art. 10.
 
 Le Gouvernement est habilité à prendre, par voie de règlement, toutes mesures ayant pour objet de modifier les attributions ou le rattachement hiérarchique des services et offices créés dans le cadre des départements ministériels par des dispositions légales ou par des dispositions réglementaires ayant force de loi.
+
+Dispositions transitoires
 
 <a id="art-11"></a>
 ## Art. 11.

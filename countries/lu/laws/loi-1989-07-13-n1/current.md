@@ -93,25 +93,25 @@ L’établissement est administré par un conseil d’administration, ci-après 
 
 il est composé comme suit:
 
-1. 8 fonctionnaires représentant respectivement:
+- 8 fonctionnaires représentant respectivement:
 
-- le ministre de l’Environnement
+  - le ministre de l’Environnement
 
-- le ministre du Tourisme
+  - le ministre du Tourisme
 
-- le ministre des Affaires culturelles
+  - le ministre des Affaires culturelles
 
-- le ministre de l’Education physique et des Sports
+  - le ministre de l’Education physique et des Sports
 
-- le ministre de l’Education nationale et de la Jeunesse
+  - le ministre de l’Education nationale et de la Jeunesse
 
-- le ministre de l’Intérieur
+  - le ministre de l’Intérieur
 
-- le ministre des Finances
+  - le ministre des Finances
 
-- le ministre des Travaux Publics.
+  - le ministre des Travaux Publics.
 
-2. le président du Syspolo (Syndicat intercommunal pour le sport et les loisirs
+- le président du Syspolo (Syndicat intercommunal pour le sport et les loisirs
 
 2.
 
@@ -156,25 +156,25 @@ Conseil d’administration: Attributions.
 
 Le conseil décide notamment sur:
 
-1. les orientations générales en matière d’administration et de gestion de l’établissement;
+- les orientations générales en matière d’administration et de gestion de l’établissement;
 
-2. les directives générales à appliquer en vue du déroulement des différentes activités de l’établissement;
+- les directives générales à appliquer en vue du déroulement des différentes activités de l’établissement;
 
-3. l’engagement et le licenciement des agents de l’établissement;
+- l’engagement et le licenciement des agents de l’établissement;
 
-4. la grille des emplois et leur classification ainsi que les conditions et modalités de rémunération du personnel;
+- la grille des emplois et leur classification ainsi que les conditions et modalités de rémunération du personnel;
 
-5. les acquisitions, aliénations, échange d’immeubles et leur affectation, à l’exception de ceux mis à la disposition de l’établissement, ainsi que les travaux de construction et de grosses réparations;
+- les acquisitions, aliénations, échange d’immeubles et leur affectation, à l’exception de ceux mis à la disposition de l’établissement, ainsi que les travaux de construction et de grosses réparations;
 
-6. l’acceptation et le refus de dons et legs;
+- l’acceptation et le refus de dons et legs;
 
-7. le budget d’investissement et d’exploitation et les comptes de fin d’exercice;
+- le budget d’investissement et d’exploitation et les comptes de fin d’exercice;
 
-8. le rapport général d’activités ainsi que le programme d’activité;
+- le rapport général d’activités ainsi que le programme d’activité;
 
-9. les actions judiciaires;
+- les actions judiciaires;
 
-10. les emprunts.
+- les emprunts.
 
 Les décisions ci-dessus visées sous 1., 2., 3., 4., 5., 6., 7., 9. et 10. sont soumises à l’approbation du ministre de tutelle et du ministre des Finances.
 
@@ -247,15 +247,15 @@ Ressources financières.
 
 L’établissement peut notamment disposer des ressources suivantes:
 
-1. les recettes pour prestations fournies;
+- les recettes pour prestations fournies;
 
-2. les loyers et redevances provenant de la location et de l’exploitation des installations et équipements de l’établissement par les tiers;
+- les loyers et redevances provenant de la location et de l’exploitation des installations et équipements de l’établissement par les tiers;
 
-3. les dons et legs en espèces et en nature;
+- les dons et legs en espèces et en nature;
 
-4. des contributions inscrites au budget de l’Etat au profit du département de tutelle et arrêtées sur la base du budget des recettes et des dépenses présenté par l’établissement, le tout sur avis conforme du ministre des Finances, quant à la justification et au montant des crédits budgétaires;
+- des contributions inscrites au budget de l’Etat au profit du département de tutelle et arrêtées sur la base du budget des recettes et des dépenses présenté par l’établissement, le tout sur avis conforme du ministre des Finances, quant à la justification et au montant des crédits budgétaires;
 
-5. des emprunts.
+- des emprunts.
 
 <a id="art-8"></a>
 ## Art. 8.

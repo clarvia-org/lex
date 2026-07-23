@@ -49,25 +49,25 @@ Données à caractère personnel traitées.
 
 Le fichier contient les données suivantes, par infraction constatée et enregistrée:
 
-1. les photos concernant le véhicule en infraction, son conducteur, son numéro d’immatriculation et éventuellement ses passagers;
+- les photos concernant le véhicule en infraction, son conducteur, son numéro d’immatriculation et éventuellement ses passagers;
 
-2. le code de l’infraction, la nature de l’infraction, les lieu, date et heure de la constatation et de l’enregistrement de l’infraction, les voies contrôlées, les moyens de constatation et d’enregistrement et l’identifiant de l’équipement utilisé ainsi que pour les équipements mobiles, les identifiants des membres de la Police grand-ducale ayant paramétré ces équipements;
+- le code de l’infraction, la nature de l’infraction, les lieu, date et heure de la constatation et de l’enregistrement de l’infraction, les voies contrôlées, les moyens de constatation et d’enregistrement et l’identifiant de l’équipement utilisé ainsi que pour les équipements mobiles, les identifiants des membres de la Police grand-ducale ayant paramétré ces équipements;
 
-3. les identifiants des membres de la Police grand-ducale ayant constaté l’infraction;
+- les identifiants des membres de la Police grand-ducale ayant constaté l’infraction;
 
-4. les nom(s), prénom(s), adresse, date et lieu de naissance des titulaire du certificat d’immatriculation, propriétaire, détenteur, conducteur désigné et représentants légaux des personnes morales figurant sur le certificat d’immatriculation comme titulaire, propriétaire ou détenteur, locataire et preneur du véhicule ayant servi à commettre une infraction, ainsi que la dénomination, la forme juridique et l’adresse du siège de ces personnes morales et, le cas échéant, les numéros d’identification du répertoire général des personnes physiques et morales créé par la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales ou du registre national des personnes physiques prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
+- les nom(s), prénom(s), adresse, date et lieu de naissance des titulaire du certificat d’immatriculation, propriétaire, détenteur, conducteur désigné et représentants légaux des personnes morales figurant sur le certificat d’immatriculation comme titulaire, propriétaire ou détenteur, locataire et preneur du véhicule ayant servi à commettre une infraction, ainsi que la dénomination, la forme juridique et l’adresse du siège de ces personnes morales et, le cas échéant, les numéros d’identification du répertoire général des personnes physiques et morales créé par la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales ou du registre national des personnes physiques prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
 
-5. Le numéro ainsi que le pays de délivrance du permis de conduire du titulaire du certificat d’immatriculation, propriétaire, détenteur, conducteur désigné, représentants légaux des personnes morales figurant sur le certificat d’immatriculation comme titulaire, propriétaire ou détenteur, locataire et preneur du véhicule ayant servi à commettre une infraction ;
+- Le numéro ainsi que le pays de délivrance du permis de conduire du titulaire du certificat d’immatriculation, propriétaire, détenteur, conducteur désigné, représentants légaux des personnes morales figurant sur le certificat d’immatriculation comme titulaire, propriétaire ou détenteur, locataire et preneur du véhicule ayant servi à commettre une infraction ;
 
-6. le montant de l’amende et, le cas échéant, la réduction du nombre de points affectés au permis de conduire;
+- le montant de l’amende et, le cas échéant, la réduction du nombre de points affectés au permis de conduire;
 
-7. les données renseignées sur le formulaire de contestation prévu aux annexes II-5, II-6 et II-7 du règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations pour contrevenants non résidents ainsi qu’aux mesures d’exécution de la législation en matière de mise en fourrière des véhicules et en matière de permis à points ;
+- les données renseignées sur le formulaire de contestation prévu aux annexes II-5, II-6 et II-7 du règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations pour contrevenants non résidents ainsi qu’aux mesures d’exécution de la législation en matière de mise en fourrière des véhicules et en matière de permis à points ;
 
-8. les données relatives aux avertissements taxés prévues aux annexes II-5 et II-6 du règlement grand-ducal précité du 26 août 1993 ainsi que les données relatives au paiement des avertissements taxés ;
+- les données relatives aux avertissements taxés prévues aux annexes II-5 et II-6 du règlement grand-ducal précité du 26 août 1993 ainsi que les données relatives au paiement des avertissements taxés ;
 
-9. les données relatives aux procès-verbaux prévues à l’annexe II-7 du règlement grand-ducal précité du 26 août 1993 ainsi que les données relatives aux suites y réservées ;
+- les données relatives aux procès-verbaux prévues à l’annexe II-7 du règlement grand-ducal précité du 26 août 1993 ainsi que les données relatives aux suites y réservées ;
 
-10. les données relatives à l’amende forfaitaire et à la réclamation prévues à l’article 6, paragraphe 3, de la loi modifiée du 25 juillet 2015 portant création du système de contrôle et de sanction automatisés.
+- les données relatives à l’amende forfaitaire et à la réclamation prévues à l’article 6, paragraphe 3, de la loi modifiée du 25 juillet 2015 portant création du système de contrôle et de sanction automatisés.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -116,9 +116,9 @@ Les traitements de données visés dans le présent règlement grand-ducal sont 
 
 En vue de la surveillance exercée par cette autorité de contrôle, le système informatique par lequel l’accès direct est opéré doit être aménagé de sorte que :
 
-1. les magistrats, les membres du personnel de l’administration judiciaire et les membres du Centre ayant la qualité d’officier de police judiciaire ou d’agent de police judiciaire ne puissent consulter les fichiers auxquels ils ont accès qu’en indiquant leur identifiant numérique personnel, et
+- les magistrats, les membres du personnel de l’administration judiciaire et les membres du Centre ayant la qualité d’officier de police judiciaire ou d’agent de police judiciaire ne puissent consulter les fichiers auxquels ils ont accès qu’en indiquant leur identifiant numérique personnel, et
 
-2. les informations relatives aux magistrats, aux membres du personnel de l’administration judiciaire et aux membres du Centre ayant la qualité d’officier de police judiciaire ou d’agent de police judiciaire ayant procédé à la consultation ainsi que les informations consultées, la date et l’heure de la consultation sont enregistrées et conservées pendant une durée de 3 ans, afin que le motif de la consultation puisse être retracé. Les données à caractère personnel consultées doivent avoir un lien direct avec les faits ayant motivé la consultation.
+- les informations relatives aux magistrats, aux membres du personnel de l’administration judiciaire et aux membres du Centre ayant la qualité d’officier de police judiciaire ou d’agent de police judiciaire ayant procédé à la consultation ainsi que les informations consultées, la date et l’heure de la consultation sont enregistrées et conservées pendant une durée de 3 ans, afin que le motif de la consultation puisse être retracé. Les données à caractère personnel consultées doivent avoir un lien direct avec les faits ayant motivé la consultation.
 
 Ces données ne sont accessibles, à des fins de contrôle, qu’aux membres de l’autorité de contrôle instituée en vertu de la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données, au directeur général de la Police grand-ducale ainsi qu’à l’inspecteur général de la Police grand-ducale ou aux agents nommément désignés par eux.
 

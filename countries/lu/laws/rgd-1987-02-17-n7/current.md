@@ -24,6 +24,26 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Règlement grand-ducal modifié du 17 février 1987 sur l'identification des «menues embarcations», - TEXTE COORDONNÉ
 
+(Mém. A - 34 du 20 mai 1987, p. 488)
+
+modifié par:
+
+Règlement grand-ducal du 10 août 1993
+
+(Mém. A - 77 du 22 septembre 1993, p. 1462)
+
+Règlement grand-ducal du 10 décembre 1997
+
+(Mém. A - 99 du 23 décembre 1997, p. 3237)
+
+Règlement grand-ducal du 16 mars 2012.
+
+(Mém. A - 69 du 10 avril 2012, p. 762)
+
+Texte coordonné au 10 avril 2012
+
+Version applicable à partir du 14 avril 2012
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
@@ -31,7 +51,7 @@ Définitions
 
 I.
 
-Une menue embarcation est tout bâtiment, dont la longueur maximale de la coque, gouvernail et beaupré non compris, est inférieure à 20 mètres ou dont le port en lourd ou le déplacement ne dépasse pas 20 tonnes «métriques», à l’exception:
+Une menue embarcation est tout bâtiment, dont la longueur maximale de la coque, gouvernail et beaupré non compris, est inférieure à 20 mètres ou dont le port en lourd ou le déplacement ne dépasse pas 20 tonnes «métriques» , à l’exception:
 
 - des bâtiments construits ou aménagés pour remorquer, pousser ou mener à couple des bâtiments autres que les menues embarcations;
 
@@ -65,7 +85,7 @@ Nature et apposition de la marque officielle d’identification
 
 La marque officielle d’identification se compose des lettres latines LG suivies d’un chiffre arabe. La séparation des lettres LG et du chiffre se fait moyennant un trait d’union.
 
-La marque d’identification attribuée est peinte ou attachée en lettres latines et chiffres arabes de couleur claire sur fond sombre ou de couleur sombre sur fond clair aux deux côtés du beaupré de la «menue embarcation». Les lettres et les chiffres doivent avoir une hauteur d’au moins 10 centimètres, la largeur des traits étant d’au moins 1 centimètre. Le propriétaire ou détenteur veille à ce que le signe distinctif reste parfaitement lisible. (…)
+La marque d’identification attribuée est peinte ou attachée en lettres latines et chiffres arabes de couleur claire sur fond sombre ou de couleur sombre sur fond clair aux deux côtés du beaupré de la «menue embarcation» . Les lettres et les chiffres doivent avoir une hauteur d’au moins 10 centimètres, la largeur des traits étant d’au moins 1 centimètre. Le propriétaire ou détenteur veille à ce que le signe distinctif reste parfaitement lisible. (…)
 
 La «menue embarcation» peut afficher en dehors de la marque officielle d’identification un nom ou une devise, sans que ces formules puissent donner lieu à confusion avec la marque officielle d’identification.
 
@@ -123,17 +143,17 @@ Cessation de validité de la marque d’identification
 
 La marque d’identification attribuée n’est plus valable:
 
-1. en cas de changement de propriétaire ou de détenteur de la «menue embarcation» ;
+- en cas de changement de propriétaire ou de détenteur de la «menue embarcation» ;
 
-2. en cas de vol, destruction, exportation ou mise hors usage de la «menue embarcation» ;
+- en cas de vol, destruction, exportation ou mise hors usage de la «menue embarcation» ;
 
-3. en cas de changement des caractéristiques techniques ou du nom ou de la devise de la «menue embarcation» ;
+- en cas de changement des caractéristiques techniques ou du nom ou de la devise de la «menue embarcation» ;
 
-4. en cas de changement de domicile du propriétaire ou du détenteur;
+- en cas de changement de domicile du propriétaire ou du détenteur;
 
-5. en cas de dépassement de la durée de validité ou de non-prorogation du certificat;
+- en cas de dépassement de la durée de validité ou de non-prorogation du certificat;
 
-6. si, à la suite d’une procédure administrative, le signe distinctif a été rayé d’office du registre.
+- si, à la suite d’une procédure administrative, le signe distinctif a été rayé d’office du registre.
 
 Dans ces cas le certificat d’identification est à retourner endéans le délai d’un mois et avec indication des motifs au (…) Service de la Navigation.
 
@@ -154,13 +174,13 @@ Les menues embarcations sont inscrites sur le registre sous un numéro d’ordre
 
 Les indications suivantes sont portées sur le registre:
 
-1. la marque officielle d’identification et le numéro d’ordre;
+- la marque officielle d’identification et le numéro d’ordre;
 
-2. les nom, prénoms, profession, date et lieu de naissance, domicile ou résidence du ou des propriétaires ou détenteurs de menues embarcations circulant sous le couvert d’une marque d’identification luxembourgeoise et, s’il s’agit d’une personne morale, le nom, le siège social et l’adresse de l’établissement ainsi que les nom, prénoms, domicile et résidence des personnes autorisées à engager la personne morale;
+- les nom, prénoms, profession, date et lieu de naissance, domicile ou résidence du ou des propriétaires ou détenteurs de menues embarcations circulant sous le couvert d’une marque d’identification luxembourgeoise et, s’il s’agit d’une personne morale, le nom, le siège social et l’adresse de l’établissement ainsi que les nom, prénoms, domicile et résidence des personnes autorisées à engager la personne morale;
 
-3. les caractéristiques techniques des menues embarcations;
+- les caractéristiques techniques des menues embarcations;
 
-4. les dates de l’identification, du renouvellement ou de la prorogation de la marque officielle d’identification.
+- les dates de l’identification, du renouvellement ou de la prorogation de la marque officielle d’identification.
 
 Les données relatives aux menues embarcations restent inscrites dans le registre pendant la durée de validité de la marque d’identification. Lorsque la validité de celle-ci cesse, conformément à l’article 7, la menue embarcation est radiée du registre et les données la concernant sont archivées pendant cinq ans. Le titulaire de la marque d’identification peut demander à tout moment et sans frais un extrait concernant l’inscription ou la radiation de son embarcation.
 
@@ -196,47 +216,47 @@ Assurance obligatoire
 
 Les contrats d’assurance garantissant la responsabilité civile de l’assuré du chef de dommages causés aux personnes et aux biens par la «menue embarcation» assurée, doivent satisfaire aux conditions minimales suivantes:
 
-1. La compagnie d’assurance assure le preneur d’assurance, le propriétaire, le détenteur ou toute personne dûment autorisée à conduire la «menue embarcation» ainsi que les passagers à titre gratuit, chaque fois qu’est engagé leur responsabilité civile, contre les conséquences pécuniaires de la responsabilité civile qu’ils peuvent encourir à raison de dommages corporels et matériels causés à des tiers.
+- La compagnie d’assurance assure le preneur d’assurance, le propriétaire, le détenteur ou toute personne dûment autorisée à conduire la «menue embarcation» ainsi que les passagers à titre gratuit, chaque fois qu’est engagé leur responsabilité civile, contre les conséquences pécuniaires de la responsabilité civile qu’ils peuvent encourir à raison de dommages corporels et matériels causés à des tiers.
 
-2. Par tiers au sens du point 1) précédent il faut entendre toute personne autre que: Toutefois l’exclusion ne s’applique pas pour les lésions corporelles, dans les cas prévus sous a), c) et d), lorsque la «menue embarcation» désignée est conduite par une personne qui n’est ni le conjoint, ni le parent ou l’allié en ligne directe de la personne lésée.
+- Par tiers au sens du point 1) précédent il faut entendre toute personne autre que: Toutefois l’exclusion ne s’applique pas pour les lésions corporelles, dans les cas prévus sous a), c) et d), lorsque la «menue embarcation» désignée est conduite par une personne qui n’est ni le conjoint, ni le parent ou l’allié en ligne directe de la personne lésée.
 
-1. le preneur d’assurance et le détenteur de la «menue embarcation» ayant occasionné le dommage;
+  - le preneur d’assurance et le détenteur de la «menue embarcation» ayant occasionné le dommage;
 
-2. la personne qui assume la conduite de la «menue embarcation» au moment où le dommage est causé ainsi que tout assuré dont la responsabilité est engagée dans la réparation du dommage;
+  - la personne qui assume la conduite de la «menue embarcation» au moment où le dommage est causé ainsi que tout assuré dont la responsabilité est engagée dans la réparation du dommage;
 
-3. le conjoint des personnes mentionnées sous a) et b);
+  - le conjoint des personnes mentionnées sous a) et b);
 
-4. les parents et alliés en ligne directe des personnes énumérées ci-dessus à la condition qu’ils habitent sous le toit de celles-ci et soient entretenues de leurs deniers.
+  - les parents et alliés en ligne directe des personnes énumérées ci-dessus à la condition qu’ils habitent sous le toit de celles-ci et soient entretenues de leurs deniers.
 
-3. La garantie minimum du contrat d’assurance doit être de «2.500.000 euros» par événement assuré avec limitation à «250.000 euros» pour les dégâts matériels. Elle peut être limitée à «50.000 euros» pour les dégâts matériels dus à des pollutions par hydrocarbures. Les pollutions non accidentelles sont exclues de l’assurance.
+- La garantie minimum du contrat d’assurance doit être de «2.500.000 euros» par événement assuré avec limitation à «250.000 euros» pour les dégâts matériels. Elle peut être limitée à «50.000 euros» pour les dégâts matériels dus à des pollutions par hydrocarbures. Les pollutions non accidentelles sont exclues de l’assurance.
 
-4. La garantie doit être valable pour tous les cours et plans d’eau du territoire du Grand-Duché de Luxembourg ouverts à la navigation.
+- La garantie doit être valable pour tous les cours et plans d’eau du territoire du Grand-Duché de Luxembourg ouverts à la navigation.
 
-5. Sont exclus de l’assurance, sauf convention contraire, les dommages causés lors de la participation de la «menue embarcation» à moteur assurée à des courses et concours de vitesse, de durée, d’adresse ou de régularité, ainsi qu’aux essais préparatifs de ces courses et concours.
+- Sont exclus de l’assurance, sauf convention contraire, les dommages causés lors de la participation de la «menue embarcation» à moteur assurée à des courses et concours de vitesse, de durée, d’adresse ou de régularité, ainsi qu’aux essais préparatifs de ces courses et concours.
 
-6. Toute expiration, annulation, résiliation, suspension du contrat ou de la garantie, quelle que soit leur cause, ne produit ses effets à l’encontre des personnes lésées que seize jours après réception par le «ministre» de la notification afférente à lui adressée par lettre recommandée de l’assureur. Cette notification par lettre recommandée peut être remplacée par un accusé de réception du «ministre» ou de son délégué.
+- Toute expiration, annulation, résiliation, suspension du contrat ou de la garantie, quelle que soit leur cause, ne produit ses effets à l’encontre des personnes lésées que seize jours après réception par le «ministre» de la notification afférente à lui adressée par lettre recommandée de l’assureur. Cette notification par lettre recommandée peut être remplacée par un accusé de réception du «ministre» ou de son délégué.
 
-7. L’attestation d’assurance à délivrer par l’assureur à la demande du preneur d’assurance doit porter les mentions suivantes:
+- L’attestation d’assurance à délivrer par l’assureur à la demande du preneur d’assurance doit porter les mentions suivantes:
 
-- Nom et prénom du propriétaire ou détenteur de la «menue embarcation»
+  - Nom et prénom du propriétaire ou détenteur de la «menue embarcation»
 
-- Son domicile
+  - Son domicile
 
-- Genre de l’embarcation
+  - Genre de l’embarcation
 
-- Constructeur/marque
+  - Constructeur/marque
 
-- Type
+  - Type
 
-- Puissance CV/KW
+  - Puissance CV/KW
 
-- Marque d’identification
+  - Marque d’identification
 
-- Période de validité de l’attestation d’assurance
+  - Période de validité de l’attestation d’assurance
 
-- Numéro de police
+  - Numéro de police
 
-- Référence au présent règlement grand-ducal».
+  - Référence au présent règlement grand-ducal».
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -250,7 +270,7 @@ Les infractions aux prescriptions du présent règlement grand-ducal sont punies
 
 Dispositions finales
 
-Les marques officielles d’identification non valables sont à enlever de la «menue embarcation». En cas de changement de propriétaire ou de détenteur, le Service de la Navigation peut attribuer, sur demande et à condition que l’ancien certificat ait été retourné, l’ancienne marque officielle d’identification.
+Les marques officielles d’identification non valables sont à enlever de la «menue embarcation» . En cas de changement de propriétaire ou de détenteur, le Service de la Navigation peut attribuer, sur demande et à condition que l’ancien certificat ait été retourné, l’ancienne marque officielle d’identification.
 
 Les «menues embarcations» circulant ou établies sur les cours et plans d’eau du Grand-Duché de Luxembourg et appartenant à des personnes domiciliées à l’étranger ne sont pas soumises aux dispositions du présent règlement, mais doivent satisfaire à la réglementation de leur pays d’origine ou être couvertes soit par un certificat international délivré par le Gouvernement de leur pays ou par un organisme agréé par ce Gouvernement, soit par une carte internationale établie par des organismes qualifiés du pays où il n’est pas délivré de certificat international. Toutefois l’article 10 du présent règlement leur reste applicable.
 

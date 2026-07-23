@@ -51,21 +51,21 @@ Le secrétariat général comporte un service juridique, qui est dirigé par un 
 
 Les attributions générales des huit directions, qui sont chacune dirigées par un directeur, sont les suivantes :
 
-1. première direction : les affaires politiques ;
+- première direction : les affaires politiques ;
 
-2. deuxième direction : les affaires européennes et les relations économiques internationales ;
+- deuxième direction : les affaires européennes et les relations économiques internationales ;
 
-3. troisième direction : le protocole et la chancellerie ;
+- troisième direction : le protocole et la chancellerie ;
 
-4. quatrième direction : les finances et les ressources humaines ;
+- quatrième direction : les finances et les ressources humaines ;
 
-5. cinquième direction : la coopération au développement et l’action humanitaire ;
+- cinquième direction : la coopération au développement et l’action humanitaire ;
 
-6. sixième direction : les affaires consulaires et les relations culturelles internationales ;
+- sixième direction : les affaires consulaires et les relations culturelles internationales ;
 
-7. septième direction : la défense ;
+- septième direction : la défense ;
 
-8. huitième direction : la promotion du commerce extérieur et des investissements.
+- huitième direction : la promotion du commerce extérieur et des investissements.
 
 (2)
 
@@ -91,9 +91,9 @@ Afin d’assurer une bonne coordination entre les directions du département, de
 
 Sont abrogés:
 
-1. le règlement grand-ducal du 29 juin 1998 déterminant le plan d’organisation de l’administration centrale du Ministère des Affaires étrangères et européennes, de la Défense, de la Coopération et du Commerce extérieur ;
+- le règlement grand-ducal du 29 juin 1998 déterminant le plan d’organisation de l’administration centrale du Ministère des Affaires étrangères et européennes, de la Défense, de la Coopération et du Commerce extérieur ;
 
-2. le règlement grand-ducal du 23 décembre 1998 déterminant les emplois à responsabilité particulière de la carrière du secrétaire de légation au Ministère des Affaires étrangères et européennes, de la Défense, de la Coopération et du Commerce extérieur .
+- le règlement grand-ducal du 23 décembre 1998 déterminant les emplois à responsabilité particulière de la carrière du secrétaire de légation au Ministère des Affaires étrangères et européennes, de la Défense, de la Coopération et du Commerce extérieur .
 
 <a id="art-8"></a>
 ## Art. 8.

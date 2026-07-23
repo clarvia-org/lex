@@ -35,73 +35,73 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La présente loi s'applique aux produits suivants:
 
-1. les machines;
+- les machines;
 
-2. les équipements interchangeables;
+- les équipements interchangeables;
 
-3. les composants de sécurité;
+- les composants de sécurité;
 
-4. les accessoires de levage;
+- les accessoires de levage;
 
-5. les chaînes, câbles et sangles;
+- les chaînes, câbles et sangles;
 
-6. les dispositifs amovibles de transmission mécanique;
+- les dispositifs amovibles de transmission mécanique;
 
-7. les quasi-machines.
+- les quasi-machines.
 
 (2)
 
 Sont exclus du champ d'application de la présente loi:
 
-1. les composants de sécurité destinés à être utilisés comme pièces de rechange pour remplacer des composants identiques et fournis par le fabricant de la machine d'origine;
+- les composants de sécurité destinés à être utilisés comme pièces de rechange pour remplacer des composants identiques et fournis par le fabricant de la machine d'origine;
 
-2. les matériels spécifiques pour fêtes foraines ainsi que parcs d'attraction;
+- les matériels spécifiques pour fêtes foraines ainsi que parcs d'attraction;
 
-3. les machines spécialement conçues ou mises en service en vue d'un usage nucléaire et dont la défaillance peut engendrer une émission de radioactivité;
+- les machines spécialement conçues ou mises en service en vue d'un usage nucléaire et dont la défaillance peut engendrer une émission de radioactivité;
 
-4. les armes, y compris les armes à feu;
+- les armes, y compris les armes à feu;
 
-5. les moyens de transport suivants:
+- les moyens de transport suivants:
 
-- les tracteurs agricoles ou forestiers pour les risques visés par la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques et les règlements pris en son exécution en vue de la transposition de la législation communautaire concernant la réception par type des tracteurs agricoles ou forestiers, de leurs remorques et de leurs engins interchangeables tractés, ainsi que des systèmes, composants et entités techniques de ces véhicules à l'exclusion des machines montées sur ces véhicules;
+  - les tracteurs agricoles ou forestiers pour les risques visés par la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques et les règlements pris en son exécution en vue de la transposition de la législation communautaire concernant la réception par type des tracteurs agricoles ou forestiers, de leurs remorques et de leurs engins interchangeables tractés, ainsi que des systèmes, composants et entités techniques de ces véhicules à l'exclusion des machines montées sur ces véhicules;
 
-- les véhicules à moteur et leurs remorques visés par la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques et les règlements pris en son exécution en vue de la transposition de la législation communautaire concernant le rapprochement des législations des États membres relatives à la réception des véhicules à moteur et de leurs remorques à l'exclusion des machines montées sur ces véhicules;
+  - les véhicules à moteur et leurs remorques visés par la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques et les règlements pris en son exécution en vue de la transposition de la législation communautaire concernant le rapprochement des législations des États membres relatives à la réception des véhicules à moteur et de leurs remorques à l'exclusion des machines montées sur ces véhicules;
 
-- les véhicules visés par la loi du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques et les règlements pris en son exécution en vue de la transposition de la législation communautaire relative à la réception des véhicules à moteur à deux ou trois roues, à l'exclusion des machines montées sur ces véhicules;
+  - les véhicules visés par la loi du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques et les règlements pris en son exécution en vue de la transposition de la législation communautaire relative à la réception des véhicules à moteur à deux ou trois roues, à l'exclusion des machines montées sur ces véhicules;
 
-- les véhicules à moteur destinés exclusivement à la compétition, et
+  - les véhicules à moteur destinés exclusivement à la compétition, et
 
-- les moyens de transport par air, par eau et par réseaux ferroviaires, à l'exclusion des machines montées sur ces moyens de transport;
+  - les moyens de transport par air, par eau et par réseaux ferroviaires, à l'exclusion des machines montées sur ces moyens de transport;
 
-6. les bateaux pour la navigation maritime et les unités mobiles off-shore ainsi que les machines installées à bord de ces bateaux ou unités;
+- les bateaux pour la navigation maritime et les unités mobiles off-shore ainsi que les machines installées à bord de ces bateaux ou unités;
 
-7. les machines spécialement conçues et construites à des fins militaires ou de maintien de l'ordre;
+- les machines spécialement conçues et construites à des fins militaires ou de maintien de l'ordre;
 
-8. les machines spécialement conçues et construites à des fins de recherche pour une utilisation temporaire en laboratoire;
+- les machines spécialement conçues et construites à des fins de recherche pour une utilisation temporaire en laboratoire;
 
-9. les ascenseurs équipant les puits de mine;
+- les ascenseurs équipant les puits de mine;
 
-10. les machines prévues pour déplacer des artistes pendant des représentations artistiques;
+- les machines prévues pour déplacer des artistes pendant des représentations artistiques;
 
-11. les produits électriques et électroniques ci-après, dans la mesure où ils sont visés par la loi modifiée du 9 août 1971 concernant l'exécution et la sanction des décisions et des directives ainsi que la sanction des règlements des Communautés européennes en matière économique, technique, agricole, forestière, sociale et en matière de transports et des règlements pris en son exécution en vue de la transposition de la législation communautaire concernant le rapprochement des législations des Etats membres relatives au matériel électrique destiné à être employé dans certaines limites de tension:
+- les produits électriques et électroniques ci-après, dans la mesure où ils sont visés par la loi modifiée du 9 août 1971 concernant l'exécution et la sanction des décisions et des directives ainsi que la sanction des règlements des Communautés européennes en matière économique, technique, agricole, forestière, sociale et en matière de transports et des règlements pris en son exécution en vue de la transposition de la législation communautaire concernant le rapprochement des législations des Etats membres relatives au matériel électrique destiné à être employé dans certaines limites de tension:
 
-- appareils électroménagers à usage domestique,
+  - appareils électroménagers à usage domestique,
 
-- équipements audio et vidéo,
+  - équipements audio et vidéo,
 
-- équipements informatiques,
+  - équipements informatiques,
 
-- machines de bureau courantes,
+  - machines de bureau courantes,
 
-- mécanismes de connexion et de contrôle basse tension,
+  - mécanismes de connexion et de contrôle basse tension,
 
-- moteurs électriques;
+  - moteurs électriques;
 
-12. les équipements électriques à haute tension suivants:
+- les équipements électriques à haute tension suivants:
 
-- appareillages de connexion et de commande,
+  - appareillages de connexion et de commande,
 
-- transformateurs.
+  - transformateurs.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -110,59 +110,59 @@ Aux fins de la présente loi, on entend par «machine», les produits énuméré
 
 Les définitions suivantes s’appliquent:
 
-1. «machine»:
+- «machine»:
 
-- ensemble équipé ou destiné à être équipé d’un système d’entraînement autre que la force humaine ou animale appliquée directement, composé de pièces ou d’organes liés entre eux dont au moins un est mobile et qui sont réunis de façon solidaire en vue d’une application définie,
+  - ensemble équipé ou destiné à être équipé d’un système d’entraînement autre que la force humaine ou animale appliquée directement, composé de pièces ou d’organes liés entre eux dont au moins un est mobile et qui sont réunis de façon solidaire en vue d’une application définie,
 
-- ensemble visé au premier tiret, auquel manquent seulement des organes de liaison au site d’utilisation ou de connexion aux sources d’énergie et de mouvement,
+  - ensemble visé au premier tiret, auquel manquent seulement des organes de liaison au site d’utilisation ou de connexion aux sources d’énergie et de mouvement,
 
-- ensemble visé au premier et au deuxième tiret prêt à être installé et qui ne peut fonctionner en l’état qu’après montage sur un moyen de transport ou installation dans un bâtiment ou une construction,
+  - ensemble visé au premier et au deuxième tiret prêt à être installé et qui ne peut fonctionner en l’état qu’après montage sur un moyen de transport ou installation dans un bâtiment ou une construction,
 
-- ensemble de machines visées au premier, au deuxième et au troisième tirets ou de quasi-machines visées au point g) du paragraphe 1 de l’article 1 er , ensemble de machines qui, afin de concourir à un même résultat, sont disposées et commandées de manière à être solidaires dans leur fonctionnement,
+  - ensemble de machines visées au premier, au deuxième et au troisième tirets ou de quasi-machines visées au point g) du paragraphe 1 de l’article 1 er , ensemble de machines qui, afin de concourir à un même résultat, sont disposées et commandées de manière à être solidaires dans leur fonctionnement,
 
-- ensemble de pièces ou d’organes liés entre eux, dont un au moins est mobile, qui sont réunis en vue de soulever des charges et dont la seule force motrice est une force humaine directement appliquée;
+  - ensemble de pièces ou d’organes liés entre eux, dont un au moins est mobile, qui sont réunis en vue de soulever des charges et dont la seule force motrice est une force humaine directement appliquée;
 
-2. «équipement interchangeable»: dispositif qui, après la mise en service d’une machine ou d’un tracteur, est assemblé à celle-ci ou à celui-ci par l’opérateur lui-même pour modifier sa fonction ou apporter une fonction nouvelle, dans la mesure où cet équipement n’est pas un outil;
+- «équipement interchangeable»: dispositif qui, après la mise en service d’une machine ou d’un tracteur, est assemblé à celle-ci ou à celui-ci par l’opérateur lui-même pour modifier sa fonction ou apporter une fonction nouvelle, dans la mesure où cet équipement n’est pas un outil;
 
-3. «composant de sécurité»: composant:
+- «composant de sécurité»: composant:
 
-- qui sert à assurer une fonction de sécurité,
+  - qui sert à assurer une fonction de sécurité,
 
-- qui est mis isolément sur le marché,
+  - qui est mis isolément sur le marché,
 
-- dont la défaillance ou le mauvais fonctionnement met en danger la sécurité des personnes respectivement une combinaison des deux, et
+  - dont la défaillance ou le mauvais fonctionnement met en danger la sécurité des personnes respectivement une combinaison des deux, et
 
-- qui n’est pas indispensable au fonctionnement de la machine ou qui peut être remplacé par d’autres composants permettant à la machine de fonctionner.
+  - qui n’est pas indispensable au fonctionnement de la machine ou qui peut être remplacé par d’autres composants permettant à la machine de fonctionner.
 
 L’annexe V comporte une liste indicative des composants de sécurité;
 
-1. «accessoire de levage»: composant ou équipement non lié à la machine de levage, permettant la préhension de la charge, qui est placé soit entre la machine et la charge, soit sur la charge elle-même, ou qui est destiné à faire partie intégrante de la charge et est mis isolément sur le marché; sont également considérés comme accessoires de levage les élingues et leurs composants;
+- «accessoire de levage»: composant ou équipement non lié à la machine de levage, permettant la préhension de la charge, qui est placé soit entre la machine et la charge, soit sur la charge elle-même, ou qui est destiné à faire partie intégrante de la charge et est mis isolément sur le marché; sont également considérés comme accessoires de levage les élingues et leurs composants;
 
-2. «chaînes, câbles et sangles»: chaînes, câbles et sangles conçus et fabriqués pour le levage et faisant partie de machines de levage ou d’accessoires de levage;
+- «chaînes, câbles et sangles»: chaînes, câbles et sangles conçus et fabriqués pour le levage et faisant partie de machines de levage ou d’accessoires de levage;
 
-3. «dispositif amovible de transmission mécanique»: composant amovible destiné à la transmission de puissance entre une machine automotrice ou un tracteur et une autre machine en les reliant au premier palier fixe. Lorsque ce dispositif est mis sur le marché avec le protecteur, l’ensemble est considéré comme constituant un seul produit;
+- «dispositif amovible de transmission mécanique»: composant amovible destiné à la transmission de puissance entre une machine automotrice ou un tracteur et une autre machine en les reliant au premier palier fixe. Lorsque ce dispositif est mis sur le marché avec le protecteur, l’ensemble est considéré comme constituant un seul produit;
 
-4. «quasi-machine»: ensemble qui constitue presque une machine, mais qui ne peut assurer à lui seul une application définie. Un système d’entraînement est une quasi-machine. La quasi-machine est uniquement destinée à être incorporée ou assemblée à d’autres machines ou à d’autres quasi-machines ou équipements en vue de constituer une machine à laquelle la présente loi s’applique;
+- «quasi-machine»: ensemble qui constitue presque une machine, mais qui ne peut assurer à lui seul une application définie. Un système d’entraînement est une quasi-machine. La quasi-machine est uniquement destinée à être incorporée ou assemblée à d’autres machines ou à d’autres quasi-machines ou équipements en vue de constituer une machine à laquelle la présente loi s’applique;
 
-5. «machine d’occasion»: un produit tel qu’énuméré à l’article 1 er , paragraphe 1, et qui a déjà été utilisé dans l’Union Européenne après sa mise sur le marché;
+- «machine d’occasion»: un produit tel qu’énuméré à l’article 1 er , paragraphe 1, et qui a déjà été utilisé dans l’Union Européenne après sa mise sur le marché;
 
-6. «mise sur le marché»: première mise à disposition dans l’Union Européenne, à titre onéreux ou gratuit, d’une machine ou quasi-machine en vue de sa distribution ou de son utilisation;
+- «mise sur le marché»: première mise à disposition dans l’Union Européenne, à titre onéreux ou gratuit, d’une machine ou quasi-machine en vue de sa distribution ou de son utilisation;
 
-7. «fabricant»: toute personne physique ou morale qui conçoit ou fabrique, respectivement qui conçoit et fabrique une machine ou quasi-machine à laquelle la présente loi s’applique et qui est responsable de la conformité de cette machine ou quasi-machine à la directive à base de la présente loi en vue de sa mise sur le marché en son nom ou sous sa marque propre, ou pour son propre usage. En l’absence d’un fabricant tel que défini ci-dessus, est considérée comme fabricant, toute personne physique ou morale qui met sur le marché ou met en service une machine ou quasi-machine à laquelle la directive à base de la présente loi s’applique;
+- «fabricant»: toute personne physique ou morale qui conçoit ou fabrique, respectivement qui conçoit et fabrique une machine ou quasi-machine à laquelle la présente loi s’applique et qui est responsable de la conformité de cette machine ou quasi-machine à la directive à base de la présente loi en vue de sa mise sur le marché en son nom ou sous sa marque propre, ou pour son propre usage. En l’absence d’un fabricant tel que défini ci-dessus, est considérée comme fabricant, toute personne physique ou morale qui met sur le marché ou met en service une machine ou quasi-machine à laquelle la directive à base de la présente loi s’applique;
 
-8. «mandataire»: toute personne physique ou morale établie dans l’Union Européenne ayant reçu un mandat écrit du fabricant pour accomplir en son nom tout ou partie des obligations et des formalités liées à présente loi;
+- «mandataire»: toute personne physique ou morale établie dans l’Union Européenne ayant reçu un mandat écrit du fabricant pour accomplir en son nom tout ou partie des obligations et des formalités liées à présente loi;
 
-9. «mise en service»: première utilisation, dans l’Union Européenne, conformément à sa destination, d’une machine à laquelle la présente loi s’applique;
+- «mise en service»: première utilisation, dans l’Union Européenne, conformément à sa destination, d’une machine à laquelle la présente loi s’applique;
 
-10. «norme harmonisée»: spécification technique adoptée par le Comité européen de normalisation (CEN), le Comité européen de normalisation électrotechnique (Cenelec) ou l’Institut européen des normes de télécommunications (ETSI) dans le cadre d’un mandat délivré par la Commission Européenne agissant en exécution de la législation européenne qui concerne le rapprochement des législations des Etats membres prévoyant une procédure d’information dans le domaine des normes et réglementations techniques et qui a été transposée sur base de la loi modifiée du 9 août 1971 concernant l’exécution et la sanction des décisions et des directives ainsi que la sanction des règlements des Communautés européennes en matière économique, technique, agricole, forestière, sociale et en matière de transports;
+- «norme harmonisée»: spécification technique adoptée par le Comité européen de normalisation (CEN), le Comité européen de normalisation électrotechnique (Cenelec) ou l’Institut européen des normes de télécommunications (ETSI) dans le cadre d’un mandat délivré par la Commission Européenne agissant en exécution de la législation européenne qui concerne le rapprochement des législations des Etats membres prévoyant une procédure d’information dans le domaine des normes et réglementations techniques et qui a été transposée sur base de la loi modifiée du 9 août 1971 concernant l’exécution et la sanction des décisions et des directives ainsi que la sanction des règlements des Communautés européennes en matière économique, technique, agricole, forestière, sociale et en matière de transports;
 
-11. «distributeur»: toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, qui met un produit à disposition sur le marché luxembourgeois;
+- «distributeur»: toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, qui met un produit à disposition sur le marché luxembourgeois;
 
-12. «importateur»: toute personne physique ou morale établie au Luxembourg qui met un produit provenant d’un pays tiers sur le marché communautaire;
+- «importateur»: toute personne physique ou morale établie au Luxembourg qui met un produit provenant d’un pays tiers sur le marché communautaire;
 
-13. «opérateur économique»: le fabricant, l’importateur, le distributeur et le mandataire.
+- «opérateur économique»: le fabricant, l’importateur, le distributeur et le mandataire.
 
-14. «exigences essentielles de santé et de sécurité»: dispositions obligatoires relatives à la conception et à la construction des produits couverts par la présente loi afin d’assurer un niveau élevé de protection de la santé et de la sécurité des personnes et, le cas échéant, des animaux domestiques et des biens et, s’il y a lieu, de l’environnement. Les exigences essentielles de santé et de sécurité sont définies à l’annexe I. Les exigences essentielles de santé et de sécurité relatives à la protection de l’environnement s’appliquent uniquement aux machines visées à la section 2.4 de ladite annexe.
+- «exigences essentielles de santé et de sécurité»: dispositions obligatoires relatives à la conception et à la construction des produits couverts par la présente loi afin d’assurer un niveau élevé de protection de la santé et de la sécurité des personnes et, le cas échéant, des animaux domestiques et des biens et, s’il y a lieu, de l’environnement. Les exigences essentielles de santé et de sécurité sont définies à l’annexe I. Les exigences essentielles de santé et de sécurité relatives à la protection de l’environnement s’appliquent uniquement aux machines visées à la section 2.4 de ladite annexe.
 
 ##### Section 2: Mise sur le marché de machines
 
@@ -195,17 +195,17 @@ Dans le cadre du présent paragraphe est à comprendre par «mise sur le marché
 
 Avant de mettre sur le marché respectivement avant de mettre en service une machine, le fabricant ou son mandataire:
 
-1. veille à ce que celle-ci satisfasse aux exigences essentielles de santé et de sécurité pertinentes énoncées à l'annexe I;
+- veille à ce que celle-ci satisfasse aux exigences essentielles de santé et de sécurité pertinentes énoncées à l'annexe I;
 
-2. veille à ce que le dossier technique visé à l'annexe VII, section A, soit disponible;
+- veille à ce que le dossier technique visé à l'annexe VII, section A, soit disponible;
 
-3. met à disposition, en particulier, les informations nécessaires, telles que la notice d'instructions;
+- met à disposition, en particulier, les informations nécessaires, telles que la notice d'instructions;
 
-4. applique les procédures d'évaluation de la conformité pertinentes conformément à l'article 11;
+- applique les procédures d'évaluation de la conformité pertinentes conformément à l'article 11;
 
-5. établit la déclaration CE de conformité conformément à l'annexe II, partie 1, section A, et veille à ce que celle-ci soit jointe à la machine;
+- établit la déclaration CE de conformité conformément à l'annexe II, partie 1, section A, et veille à ce que celle-ci soit jointe à la machine;
 
-6. appose le marquage «CE» conformément à l'article 15.
+- appose le marquage «CE» conformément à l'article 15.
 
 (2)
 
@@ -278,11 +278,11 @@ Lorsqu’une personne compétente en matière de surveillance du marché des pro
 
 L’ILNAS informe immédiatement la Commission Européenne et les autres Etats membres de l'Union Européenne d'une telle mesure et indique les raisons de sa décision, en précisant en particulier si la non-conformité résulte:
 
-1. du non-respect des exigences essentielles visées à l'article 5, paragraphe 1, point a);
+- du non-respect des exigences essentielles visées à l'article 5, paragraphe 1, point a);
 
-2. de l'application incorrecte des normes harmonisées visées à l'article 7, paragraphe 2;
+- de l'application incorrecte des normes harmonisées visées à l'article 7, paragraphe 2;
 
-3. d'une lacune des normes harmonisées visées à l'article 7, paragraphe 2, elles-mêmes.
+- d'une lacune des normes harmonisées visées à l'article 7, paragraphe 2, elles-mêmes.
 
 (3)
 
@@ -290,7 +290,7 @@ Lorsque les mesures visées au paragraphe 1 sont dues à une lacune des normes h
 
 (4)
 
-Lorsqu'une machine est non conforme et est munie du marquage «CE», l'agent de l'ILNAS compétent en matière de surveillance du marché prend les mesures appropriées à l'encontre de celui qui a apposé le marquage et en informe le ministre . Le directeur de l’ILNAS peut interdire la mise sur le marché respectivement la mise en service sur le territoire du Grand-Duché de Luxembourg d'une machine qui n'est pas conforme aux dispositions de la présente loi et qui est munie du marquage «CE». Cet arrêté est publié au Mémorial . Le directeur de l’ILNAS informe la Commission Européenne de sa décision.
+Lorsqu'une machine est non conforme et est munie du marquage «CE», l'agent de l' ILNAS compétent en matière de surveillance du marché prend les mesures appropriées à l'encontre de celui qui a apposé le marquage et en informe le ministre . Le directeur de l’ILNAS peut interdire la mise sur le marché respectivement la mise en service sur le territoire du Grand-Duché de Luxembourg d'une machine qui n'est pas conforme aux dispositions de la présente loi et qui est munie du marquage «CE». Cet arrêté est publié au Mémorial . Le directeur de l’ILNAS informe la Commission Européenne de sa décision.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -307,19 +307,19 @@ Lorsque la machine n'est pas visée à l'annexe IV, le fabricant ou son mandatai
 
 Lorsque la machine est visée à l'annexe IV et qu'elle est fabriquée conformément aux normes harmonisées visées à l'article 7, paragraphe 2, et pour autant que ces normes couvrent l'ensemble des exigences essentielles de santé et de sécurité pertinentes, le fabricant ou son mandataire applique l'une des procédures suivantes:
 
-1. la procédure d'évaluation de la conformité avec contrôle interne de la fabrication de machines, prévue à l'annexe VIII;
+- la procédure d'évaluation de la conformité avec contrôle interne de la fabrication de machines, prévue à l'annexe VIII;
 
-2. la procédure d'examen CE de type prévue à l'annexe IX, ainsi que le contrôle interne de la fabrication de machines prévu à l'annexe VIII, point 3;
+- la procédure d'examen CE de type prévue à l'annexe IX, ainsi que le contrôle interne de la fabrication de machines prévu à l'annexe VIII, point 3;
 
-3. la procédure d'assurance qualité complète prévue à l'annexe X.
+- la procédure d'assurance qualité complète prévue à l'annexe X.
 
 (4)
 
 Lorsque la machine est visée à l'annexe IV et qu'elle n'est pas fabriquée conformément aux normes harmonisées visées à l'article 7, paragraphe 2, ou seulement en partie, ou si les normes harmonisées ne couvrent pas l'ensemble des exigences essentielles de santé et de sécurité pertinentes, ou s'il n'existe pas de normes harmonisées pour la machine en question, le fabricant ou son mandataire applique l'une des procédures suivantes:
 
-1. la procédure d'examen CE de type prévue à l'annexe IX, ainsi que le contrôle interne de la fabrication de machines prévu à l'annexe VIII, point 3;
+- la procédure d'examen CE de type prévue à l'annexe IX, ainsi que le contrôle interne de la fabrication de machines prévu à l'annexe VIII, point 3;
 
-2. la procédure d'assurance qualité complète prévue à l'annexe X.
+- la procédure d'assurance qualité complète prévue à l'annexe X.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -328,11 +328,11 @@ Lorsque la machine est visée à l'annexe IV et qu'elle n'est pas fabriquée con
 
 Le fabricant d'une quasi-machine ou son mandataire veille, avant la mise sur le marché, à ce que:
 
-1. la documentation technique pertinente décrite à l'annexe VII, partie B, soit établie;
+- la documentation technique pertinente décrite à l'annexe VII, partie B, soit établie;
 
-2. la notice d'assemblage décrite à l'annexe VI soit établie;
+- la notice d'assemblage décrite à l'annexe VI soit établie;
 
-3. la déclaration d'incorporation, décrite à l'annexe II, partie 1, section B, ait été établie.
+- la déclaration d'incorporation, décrite à l'annexe II, partie 1, section B, ait été établie.
 
 (2)
 
@@ -359,11 +359,11 @@ Les organismes qui satisfont aux critères d'évaluation prévus dans les normes
 
 (5)
 
-Si un organisme notifié constate qu'un fabricant ne satisfait pas ou ne satisfait plus aux exigences pertinentes de la directive à base de la présente loi ou qu'une attestation d'examen CE de type n'aurait pas dû être délivrée, ou qu'un système d'assurance qualité n'aurait pas dû être approuvé, il suspend ou annule l'attestation ou l'approbation dans le respect du principe de proportionnalité ou impose des restrictions, qu'il motive de manière détaillée, sauf si le fabricant garantit, par des mesures correctives appropriées, la conformité à ces exigences. Si l'attestation ou l'approbation est suspendue ou annulée ou si des restrictions sont imposées, ou encore si une intervention de l'autorité compétente peut se révéler nécessaire, l'organisme notifié en saisit l'ILNAS .
+Si un organisme notifié constate qu'un fabricant ne satisfait pas ou ne satisfait plus aux exigences pertinentes de la directive à base de la présente loi ou qu'une attestation d'examen CE de type n'aurait pas dû être délivrée, ou qu'un système d'assurance qualité n'aurait pas dû être approuvé, il suspend ou annule l'attestation ou l'approbation dans le respect du principe de proportionnalité ou impose des restrictions, qu'il motive de manière détaillée, sauf si le fabricant garantit, par des mesures correctives appropriées, la conformité à ces exigences. Si l'attestation ou l'approbation est suspendue ou annulée ou si des restrictions sont imposées, ou encore si une intervention de l'autorité compétente peut se révéler nécessaire, l'organisme notifié en saisit l' ILNAS .
 
-L'ILNAS informe les autres Etats membres de l'Union Européenne et la Commission Européenne dans les meilleurs délais.
+L' ILNAS informe les autres Etats membres de l'Union Européenne et la Commission Européenne dans les meilleurs délais.
 
-Le fabricant pourra prendre recours auprès de l'ILNAS moyennant une lettre recommandée. L'ILNAS entre dès lors en consultation avec les parties concernées dans les meilleurs délais. À l'issue de cette consultation, l'ILNAS examine si les mesures prises par l'organisme notifié sont ou non justifiées et en informe le ministre. Le ministre communique sa décision au fabricant et à l'organisme notifié qui a pris lesdites mesures.
+Le fabricant pourra prendre recours auprès de l' ILNAS moyennant une lettre recommandée. L' ILNAS entre dès lors en consultation avec les parties concernées dans les meilleurs délais. À l'issue de cette consultation, l' ILNAS examine si les mesures prises par l'organisme notifié sont ou non justifiées et en informe le ministre. Le ministre communique sa décision au fabricant et à l'organisme notifié qui a pris lesdites mesures.
 
 (6)
 
@@ -408,11 +408,11 @@ Il est interdit d'apposer sur les machines des marquages, des signes ou des insc
 
 Est considéré comme marquage non conforme
 
-1. l'apposition du marquage «CE» au titre de la présente loi sur des produits auxquels celle-ci ne s'applique pas;
+- l'apposition du marquage «CE» au titre de la présente loi sur des produits auxquels celle-ci ne s'applique pas;
 
-2. l'absence du marquage «CE» ou de la déclaration CE de conformité pour une machine, respectivement la combinaison des deux cas;
+- l'absence du marquage «CE» ou de la déclaration CE de conformité pour une machine, respectivement la combinaison des deux cas;
 
-3. l'apposition, sur une machine, d'un marquage autre que le marquage «CE», interdit au titre de l'article 15, paragraphe 3.
+- l'apposition, sur une machine, d'un marquage autre que le marquage «CE», interdit au titre de l'article 15, paragraphe 3.
 
 (2)
 

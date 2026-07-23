@@ -133,26 +133,26 @@ Pendant la durée de l’état de crise tel que déclaré par le règlement gran
 
 Pendant la durée de l’état de crise, tel que déclaré par le règlement grand-ducal modifié du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19, les délais prévus à :
 
-1. l’article 7, paragraphe 3, alinéa 3, de la loi du 28 avril 2017 relative aux accidents majeurs impliquant des substances dangereuses ;
+- l’article 7, paragraphe 3, alinéa 3, de la loi du 28 avril 2017 relative aux accidents majeurs impliquant des substances dangereuses ;
 
-2. l’article 8 de la loi précitée du 28 avril 2017 ;
+- l’article 8 de la loi précitée du 28 avril 2017 ;
 
-3. l’article 12 de la loi précitée du 28 avril 2017 ;
+- l’article 12 de la loi précitée du 28 avril 2017 ;
 
-4. l’article 35, paragraphe 1 er , point 1, de la loi précitée du 28 avril 2017 sont suspendus à l’exception des délais en relation avec les activités de dépollution et les activités d’entretien nécessaires pour des raisons de sécurité dans le cadre d’activités de dépannage, de réparation, de déménagement et de dépollution ainsi que d’activités d’entretien.
+- l’article 35, paragraphe 1 er , point 1, de la loi précitée du 28 avril 2017 sont suspendus à l’exception des délais en relation avec les activités de dépollution et les activités d’entretien nécessaires pour des raisons de sécurité dans le cadre d’activités de dépannage, de réparation, de déménagement et de dépollution ainsi que d’activités d’entretien.
 
 <a id="art-19"></a>
 ## Art. 19.
 
 Le Code du travail est modifié comme suit :
 
-1. L’article L. 511-14 est remplacé comme suit : L. 511-14 (1) Les subventions accordées sur base de déclarations erronées sont à restituer. Les subventions accordées sur base de déclarations délibérément fausses et dès qu’il y a un manquement délibéré dans le versement des indemnités de compensation à un ou plusieurs salariés concernés ou que des subventions ont servi à des fins autres que le paiement des salaires, le bénéficiaire doit restituer la totalité des sommes perçues sur base de l’ensemble des demandes introduites et le bénéfice du chômage partiel est retiré avec effet immédiat à l’entreprise concernée. (2) Les infractions aux dispositions de l’alinéa 1er sont punies d’une amende de 251 à 5.000 euros. (3) Le présent article s’applique également pour les subventions accordées au titre de l’article L. 512-10.
+- L’article L. 511-14 est remplacé comme suit : L. 511-14 (1) Les subventions accordées sur base de déclarations erronées sont à restituer. Les subventions accordées sur base de déclarations délibérément fausses et dès qu’il y a un manquement délibéré dans le versement des indemnités de compensation à un ou plusieurs salariés concernés ou que des subventions ont servi à des fins autres que le paiement des salaires, le bénéficiaire doit restituer la totalité des sommes perçues sur base de l’ensemble des demandes introduites et le bénéfice du chômage partiel est retiré avec effet immédiat à l’entreprise concernée. (2) Les infractions aux dispositions de l’alinéa 1er sont punies d’une amende de 251 à 5.000 euros. (3) Le présent article s’applique également pour les subventions accordées au titre de l’article L. 512-10.
 
-2. L’article L. 621-3, paragraphe 1 er , est modifié comme suit :
+- L’article L. 621-3, paragraphe 1 er , est modifié comme suit :
 
-1. La lettre a) prend la teneur suivante : au fichier relatif aux affiliations des salariés et indépendants et aux salaires et rémunérations géré par le Centre commun de la sécurité sociale afin de vérifier l’existence des affiliations et des salaires déclarés dans le cadre de l’inscription et du suivi des demandeurs d’emploi, des indemnités de chômage complet, des indemnités de préretraite, de la garantie de créance en cas de faillite de l’employeur, des primes et aides à l’apprentissage, du congé de paternité ainsi que du chômage partiel ;
+  - La lettre a) prend la teneur suivante : au fichier relatif aux affiliations des salariés et indépendants et aux salaires et rémunérations géré par le Centre commun de la sécurité sociale afin de vérifier l’existence des affiliations et des salaires déclarés dans le cadre de l’inscription et du suivi des demandeurs d’emploi, des indemnités de chômage complet, des indemnités de préretraite, de la garantie de créance en cas de faillite de l’employeur, des primes et aides à l’apprentissage, du congé de paternité ainsi que du chômage partiel ;
 
-2. La lettre i) prend la teneur suivante : au fichier des bénéficiaires de prestations en espèces de la part de la Caisse nationale de santé et des périodes de maladie déclarées et acceptées par la Caisse nationale de santé afin de permettre l’application de la législation sur le reclassement, de la législation sur l’octroi des indemnités de chômage complet ainsi que de la législation sur le chômage partiel ;
+  - La lettre i) prend la teneur suivante : au fichier des bénéficiaires de prestations en espèces de la part de la Caisse nationale de santé et des périodes de maladie déclarées et acceptées par la Caisse nationale de santé afin de permettre l’application de la législation sur le reclassement, de la législation sur l’octroi des indemnités de chômage complet ainsi que de la législation sur le chômage partiel ;
 
 <a id="art-20"></a>
 ## Art. 20.

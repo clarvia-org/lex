@@ -34,57 +34,57 @@ Il est institué un Centre des technologies de l’information de l’Etat, dén
 
 Le centre a pour mission :
 
-1. la promotion et l’organisation de façon rationnelle et coordonnée de l’automatisation des administrations de l’Etat notamment en ce qui concerne la collecte, la transmission et le traitement des données ;
+- la promotion et l’organisation de façon rationnelle et coordonnée de l’automatisation des administrations de l’Etat notamment en ce qui concerne la collecte, la transmission et le traitement des données ;
 
-2. l’assistance des différentes administrations de l’Etat dans l’exécution des travaux courants d’informatique, ainsi que la gestion des systèmes de communication fixes et mobiles ;
+- l’assistance des différentes administrations de l’Etat dans l’exécution des travaux courants d’informatique, ainsi que la gestion des systèmes de communication fixes et mobiles ;
 
-3. la gestion des équipements électroniques, informatiques et de sécurité appropriés à l’accomplissement de ses attributions;
+- la gestion des équipements électroniques, informatiques et de sécurité appropriés à l’accomplissement de ses attributions;
 
-4. l’administration du réseau informatique commun et de la messagerie électronique de l’Etat ;
+- l’administration du réseau informatique commun et de la messagerie électronique de l’Etat ;
 
-5. la sécurité de l’informatique et le respect des dispositions de la loi relative à la protection des personnes à l’égard du traitement des données à caractère personnel, dans les limites de ses attributions ;
+- la sécurité de l’informatique et le respect des dispositions de la loi relative à la protection des personnes à l’égard du traitement des données à caractère personnel, dans les limites de ses attributions ;
 
-6. la production et la personnalisation de documents administratifs sécurisés et le traitement des données biométriques y relatives ;
+- la production et la personnalisation de documents administratifs sécurisés et le traitement des données biométriques y relatives ;
 
-7. l’acquisition et la gestion d’équipements informatiques et bureautiques et de machines de bureau pour les administrations de l’Etat ;
+- l’acquisition et la gestion d’équipements informatiques et bureautiques et de machines de bureau pour les administrations de l’Etat ;
 
-8. la gestion d’un centre de support destiné aux utilisateurs internes et externes des systèmes d’informations gérés par le centre ;
+- la gestion d’un centre de support destiné aux utilisateurs internes et externes des systèmes d’informations gérés par le centre ;
 
-9. l’élaboration et la tenue à jour d’une cartographie des processus des administrations de l’Etat et de leur interopérabilité ;
+- l’élaboration et la tenue à jour d’une cartographie des processus des administrations de l’Etat et de leur interopérabilité ;
 
-10. le support organisationnel des administrations de l’Etat et leur accompagnement dans leurs projets de réorganisation ;
+- le support organisationnel des administrations de l’Etat et leur accompagnement dans leurs projets de réorganisation ;
 
-11. la recherche de synergies entre les différentes administrations de l’Etat et l’optimisation de leurs échanges d’informations ;
+- la recherche de synergies entre les différentes administrations de l’Etat et l’optimisation de leurs échanges d’informations ;
 
-12. la coordination de la présence Internet des administrations de l’Etat ;
+- la coordination de la présence Internet des administrations de l’Etat ;
 
-13. la mise en place et l’exploitation des plateformes d’échange avec les citoyens et les entreprises ;
+- la mise en place et l’exploitation des plateformes d’échange avec les citoyens et les entreprises ;
 
-14. la mise en place et l’exploitation de plateformes de collaboration reliant l’ensemble des agents de l’Etat ;
+- la mise en place et l’exploitation de plateformes de collaboration reliant l’ensemble des agents de l’Etat ;
 
-15. la mise en place et la coordination d’un réseau de guichets physiques régionaux qui offrent aux citoyens un point de contact unique quelles que soient leurs démarches administratives ;
+- la mise en place et la coordination d’un réseau de guichets physiques régionaux qui offrent aux citoyens un point de contact unique quelles que soient leurs démarches administratives ;
 
-16. la mise à disposition d’une base de connaissances regroupant l’ensemble des attributions de l’Etat et accessible à travers les différents canaux de services publics ;
+- la mise à disposition d’une base de connaissances regroupant l’ensemble des attributions de l’Etat et accessible à travers les différents canaux de services publics ;
 
-17. l’acquisition, l’entreposage et la diffusion de fournitures de bureau, de manuels et publications scolaires et d’imprimés destinés aux administrations de l’Etat ;
+- l’acquisition, l’entreposage et la diffusion de fournitures de bureau, de manuels et publications scolaires et d’imprimés destinés aux administrations de l’Etat ;
 
-18. l’impression, l’entreposage et la diffusion des documents parlementaires et d’ouvrages publiés par les administrations de l’Etat,
+- l’impression, l’entreposage et la diffusion des documents parlementaires et d’ouvrages publiés par les administrations de l’Etat,
 
-19. la transmission des informations officielles entre les gouvernements, les organismes internationaux et les administrations de l’Etat, selon les directives de sécurité en vigueur ;
+- la transmission des informations officielles entre les gouvernements, les organismes internationaux et les administrations de l’Etat, selon les directives de sécurité en vigueur ;
 
-20. la planification, la mise en place, la gestion, l’exploitation et l’assurance de la disponibilité des systèmes de communication et d’information classifiés permettant la consultation politique et l’échange d’informations au profit du Gouvernement ;
+- la planification, la mise en place, la gestion, l’exploitation et l’assurance de la disponibilité des systèmes de communication et d’information classifiés permettant la consultation politique et l’échange d’informations au profit du Gouvernement ;
 
-21. l’exercice, dans le cadre de ces attributions, de la fonction d’Autorité nationale de distribution, responsable de la gestion du matériel cryptographique des organismes nationaux et internationaux ;
+- l’exercice, dans le cadre de ces attributions, de la fonction d’Autorité nationale de distribution, responsable de la gestion du matériel cryptographique des organismes nationaux et internationaux ;
 
-22. l’exercice de la fonction de Bureau d’ordre central qui est l’entité nationale responsable d’organiser la réception, la comptabilisation, la distribution et la destruction des pièces classifiées ;
+- l’exercice de la fonction de Bureau d’ordre central qui est l’entité nationale responsable d’organiser la réception, la comptabilisation, la distribution et la destruction des pièces classifiées ;
 
-23. la mise à la disposition du Gouvernement d’une infrastructure sécurisée et des ressources administratives, logistiques, de communications électroniques et de traitement de l’information nécessaires à la gestion de crises ;
+- la mise à la disposition du Gouvernement d’une infrastructure sécurisée et des ressources administratives, logistiques, de communications électroniques et de traitement de l’information nécessaires à la gestion de crises ;
 
-24. la mise à la disposition du Gouvernement d’un centre de conférences nationales et internationales ;
+- la mise à la disposition du Gouvernement d’un centre de conférences nationales et internationales ;
 
-25. l’opération du service courrier du Gouvernement ;
+- l’opération du service courrier du Gouvernement ;
 
-26. l’exercice, dans le cadre de ces attributions, de la fonction d’Autorité d’agrément cryptographique, chargée de veiller à ce que les produits cryptographiques soient conformes aux politiques de sécurité respectives en matière cryptographique ; d’évaluer et d’agréer les produits cryptographiques pour la protection des informations classifiées jusqu’à un certain niveau de classification dans leur environnement opérationnel; de conserver et de gérer les données techniques relatives aux produits cryptographiques.
+- l’exercice, dans le cadre de ces attributions, de la fonction d’Autorité d’agrément cryptographique, chargée de veiller à ce que les produits cryptographiques soient conformes aux politiques de sécurité respectives en matière cryptographique ; d’évaluer et d’agréer les produits cryptographiques pour la protection des informations classifiées jusqu’à un certain niveau de classification dans leur environnement opérationnel; de conserver et de gérer les données techniques relatives aux produits cryptographiques.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -120,11 +120,11 @@ Le Gouvernement en conseil détermine, sur avis du ministre, les administrations
 
 Sont soumis à l’autorisation du ministre, l’avis du centre ayant été demandé :
 
-1. tout projet ayant trait à l’engagement, à la formation et à la promotion du personnel informatique des services informatiques des administrations de l’Etat, pour autant que la matière informatique est concernée ;
+- tout projet ayant trait à l’engagement, à la formation et à la promotion du personnel informatique des services informatiques des administrations de l’Etat, pour autant que la matière informatique est concernée ;
 
-2. tout projet des administrations de l’Etat sur l’acquisition d’équipements informatiques ou sur un recours aux services ou équipements d’organismes ou d’experts informatiques extérieurs à l’administration ;
+- tout projet des administrations de l’Etat sur l’acquisition d’équipements informatiques ou sur un recours aux services ou équipements d’organismes ou d’experts informatiques extérieurs à l’administration ;
 
-3. les crédits à proposer au projet de budget annuel de l’Etat en ce qui concerne les personnel, équipements et services visés aux lettres a) et b).
+- les crédits à proposer au projet de budget annuel de l’Etat en ce qui concerne les personnel, équipements et services visés aux lettres a) et b).
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -133,19 +133,19 @@ Sont soumis à l’autorisation du ministre, l’avis du centre ayant été dema
 
 Il est créé un comité interministériel des technologies de l’information et des imprimés qui a pour mission notamment :
 
-1. de définir les plans directeurs en matière de gouvernance électronique ;
+- de définir les plans directeurs en matière de gouvernance électronique ;
 
-2. d’autoriser les projets d’automatisation des processus de l’administration ainsi que les projets en matière d’imprimés et d’en assurer le suivi ;
+- d’autoriser les projets d’automatisation des processus de l’administration ainsi que les projets en matière d’imprimés et d’en assurer le suivi ;
 
-3. de veiller à la création et à l’entretien dans l’administration d’un climat favorable à la réorganisation et à l’automatisation de ses processus ;
+- de veiller à la création et à l’entretien dans l’administration d’un climat favorable à la réorganisation et à l’automatisation de ses processus ;
 
-4. de constituer une liaison entre le centre et les différentes administrations de l’Etat en vue de prévenir ou d’aplanir toute difficulté en rapport avec leur informatisation ou en relation avec leur gestion et leurs besoins respectifs en matière d’imprimés ;
+- de constituer une liaison entre le centre et les différentes administrations de l’Etat en vue de prévenir ou d’aplanir toute difficulté en rapport avec leur informatisation ou en relation avec leur gestion et leurs besoins respectifs en matière d’imprimés ;
 
-5. de conseiller, d’office ou sur demande, tant le ministre d’Etat que les ministres des ressorts respectifs et le directeur du centre sur toute question relative à la (ré)organisation et l’automatisation de l’administration ;
+- de conseiller, d’office ou sur demande, tant le ministre d’Etat que les ministres des ressorts respectifs et le directeur du centre sur toute question relative à la (ré)organisation et l’automatisation de l’administration ;
 
-6. de conseiller le ministre, les ministres des ressorts respectifs et le directeur du centre sur toute question en matière d’imprimés ;
+- de conseiller le ministre, les ministres des ressorts respectifs et le directeur du centre sur toute question en matière d’imprimés ;
 
-7. d’émettre un avis sur les contestations pouvant s’élever en matière informatique ou en matière d’imprimés entre deux ou plusieurs administrations de l’Etat ou entre une administration de l’Etat et le centre.
+- d’émettre un avis sur les contestations pouvant s’élever en matière informatique ou en matière d’imprimés entre deux ou plusieurs administrations de l’Etat ou entre une administration de l’Etat et le centre.
 
 (2)
 
@@ -220,11 +220,11 @@ Les dispositions du présent article sont applicables tant aux fonctionnaires et
 
 La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifiée comme suit :
 
-1. A l’annexe A «Classification des fonctions», la rubrique «I. Administration générale» est complétée comme suit: au grade 16 est ajoutée la mention «Centre des technologies de l’information de l’Etat – directeur adjoint».
+- A l’annexe A «Classification des fonctions», la rubrique «I. Administration générale» est complétée comme suit: au grade 16 est ajoutée la mention «Centre des technologies de l’information de l’Etat – directeur adjoint».
 
-2. A l’annexe D, la rubrique «I. Administration générale», sous la dénomination de la carrière supérieure de l’administration; grade de computation de la bonification d’ancienneté 12, grade de début de carrière grade 16, est complétée derrière les termes de «de l’Administration de la gestion de l’eau» par la mention «du Centre des technologies de l’information de l’Etat».
+- A l’annexe D, la rubrique «I. Administration générale», sous la dénomination de la carrière supérieure de l’administration; grade de computation de la bonification d’ancienneté 12, grade de début de carrière grade 16, est complétée derrière les termes de «de l’Administration de la gestion de l’eau» par la mention «du Centre des technologies de l’information de l’Etat».
 
-3. A l’article 22, section IV, est ajoutée au premier alinéa du point 8° derrière les termes de «directeur du Service Central d’Assistance sociale» la mention «le directeur adjoint du Centre des technologies de l’information de l’Etat».
+- A l’article 22, section IV, est ajoutée au premier alinéa du point 8° derrière les termes de «directeur du Service Central d’Assistance sociale» la mention «le directeur adjoint du Centre des technologies de l’information de l’Etat».
 
 <a id="art-13"></a>
 ## Art. 13.

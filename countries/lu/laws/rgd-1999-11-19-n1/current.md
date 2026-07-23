@@ -33,17 +33,17 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La base de l’amortissement pour usure des immeubles et parties d’immeubles bâtis acquis à titre onéreux est fixée:
 
-1. au triple de la valeur unitaire au 1.1.1941 pour les immeubles acquis avant le 1.1.1941;
+- au triple de la valeur unitaire au 1.1.1941 pour les immeubles acquis avant le 1.1.1941;
 
-2. au prix d’acquisition ou de revient, diminué de la quote-part relative au terrain, pour les immeubles acquis après le 31.12.1940.
+- au prix d’acquisition ou de revient, diminué de la quote-part relative au terrain, pour les immeubles acquis après le 31.12.1940.
 
 (2)
 
 La base de l’amortissement pour usure des immeubles et parties d’immeubles bâtis acquis à titre gratuit est fixée comme s’il n’y avait pas eu de transmission, à savoir:
 
-1. au triple de la valeur unitaire au 1.1.1941 si le détenteur antérieur, ayant acquis l’immeuble en dernier lieu à titre onéreux, a acquis l’immeuble avant le 1.1.1941;
+- au triple de la valeur unitaire au 1.1.1941 si le détenteur antérieur, ayant acquis l’immeuble en dernier lieu à titre onéreux, a acquis l’immeuble avant le 1.1.1941;
 
-2. au prix d’acquisition ou de revient, diminué de la quote-part relative au terrain, payé après le 31.12.1940 par le détenteur antérieur ayant acquis l’immeuble en dernier lieu à titre onéreux.
+- au prix d’acquisition ou de revient, diminué de la quote-part relative au terrain, payé après le 31.12.1940 par le détenteur antérieur ayant acquis l’immeuble en dernier lieu à titre onéreux.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -92,9 +92,9 @@ Les taux d’amortissement prévus à l’article 2, alinéa 2, ne s’appliquen
 
 Par dérogation au numéro 4. du tableau de l’article 2, alinéa 2 :
 
-1. le taux d’amortissement d’immeubles ou parties d’immeubles bâtis, acquis ou constitués avant le 1 er janvier 2021 et affectés au logement locatif dont l’achèvement remonte au 1 er janvier de l’année d’imposition à moins de 6 ans est de 6 pour cent. Cette disposition est d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation achevée avant le 1 er janvier 2021 d’un logement ancien à condition qu’elles dépassent 20 pour cent du prix d’acquisition ou de revient du bâtiment ;
+- le taux d’amortissement d’immeubles ou parties d’immeubles bâtis, acquis ou constitués avant le 1 er janvier 2021 et affectés au logement locatif dont l’achèvement remonte au 1 er janvier de l’année d’imposition à moins de 6 ans est de 6 pour cent. Cette disposition est d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation achevée avant le 1 er janvier 2021 d’un logement ancien à condition qu’elles dépassent 20 pour cent du prix d’acquisition ou de revient du bâtiment ;
 
-2. le taux d’amortissement d’immeubles ou parties d’immeubles bâtis, acquis ou constitués après le 31 décembre 2020 et avant le 1 er janvier 2023 et affectés au logement locatif dont l’achèvement remonte au 1 er janvier de l’année d’imposition à moins de 5 ans est de 4 pour cent. Cette disposition est d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation achevée après le 31 décembre 2020 et avant le 1 er janvier 2023 d’un logement ancien à condition qu’elles dépassent 20 pour cent du prix d’acquisition ou de revient du bâtiment.
+- le taux d’amortissement d’immeubles ou parties d’immeubles bâtis, acquis ou constitués après le 31 décembre 2020 et avant le 1 er janvier 2023 et affectés au logement locatif dont l’achèvement remonte au 1 er janvier de l’année d’imposition à moins de 5 ans est de 4 pour cent. Cette disposition est d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation achevée après le 31 décembre 2020 et avant le 1 er janvier 2023 d’un logement ancien à condition qu’elles dépassent 20 pour cent du prix d’acquisition ou de revient du bâtiment.
 
 <a id="art-4"></a>
 ## Art. 4.

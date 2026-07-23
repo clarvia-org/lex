@@ -35,13 +35,13 @@ Champ d’application
 
 La présente loi s’applique à l’activité de conduite:
 
-1. des ressortissants d’un Etat membre de l’Union européenne, et
+- des ressortissants d’un Etat membre de l’Union européenne, et
 
-2. des ressortissants d’un pays tiers employés ou utilisés par une entreprise établie au Grand-Duché de Luxembourg, ci-après dénommés «conducteurs» effectuant des transports par route sur la voie publique du Grand-Duché de Luxembourg, au moyen de:
+- des ressortissants d’un pays tiers employés ou utilisés par une entreprise établie au Grand-Duché de Luxembourg, ci-après dénommés «conducteurs» effectuant des transports par route sur la voie publique du Grand-Duché de Luxembourg, au moyen de:
 
-- véhicules requérant la détention d’un permis de conduire d’une des catégories C1, C1E , C ou CE , telles que définies par la directive 2006/126/CE ou un permis reconnu comme équivalent;
+  - véhicules requérant la détention d’un permis de conduire d’une des catégories C1, C1E , C ou CE , telles que définies par la directive 2006/126/CE ou un permis reconnu comme équivalent;
 
-- véhicules requérant la détention d’un permis de conduire d’une des catégories D1, D1E , D ou DE , telles que définies par la directive 2006/126/CE ou un permis reconnu comme équivalent.
+  - véhicules requérant la détention d’un permis de conduire d’une des catégories D1, D1E , D ou DE , telles que définies par la directive 2006/126/CE ou un permis reconnu comme équivalent.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -52,21 +52,21 @@ Exemptions
 
 La présente loi ne s’applique pas aux conducteurs des véhicules :
 
-1. dont la vitesse maximale autorisée ne dépasse pas 45 km/h ;
+- dont la vitesse maximale autorisée ne dépasse pas 45 km/h ;
 
-2. affectés aux services de l’Armée, de la Police grand-ducale, du Corps grand-ducal d’incendie et de secours, ou placés sous le contrôle de ceux-ci, et des services de transport d’urgence en ambulance, lorsque le transport est effectué aux fins des tâches qui ont été assignées à ces services ;
+- affectés aux services de l’Armée, de la Police grand-ducale, du Corps grand-ducal d’incendie et de secours, ou placés sous le contrôle de ceux-ci, et des services de transport d’urgence en ambulance, lorsque le transport est effectué aux fins des tâches qui ont été assignées à ces services ;
 
-3. subissant des tests sur route à des fins d’amélioration technique, de réparation ou d’entretien, ou les conducteurs des véhicules neufs ou transformés non encore mis en circulation ;
+- subissant des tests sur route à des fins d’amélioration technique, de réparation ou d’entretien, ou les conducteurs des véhicules neufs ou transformés non encore mis en circulation ;
 
-4. pour lesquels un permis de conduire des catégories D ou D1 est exigé, qui sont conduits, sans passagers, par un agent de maintenance vers ou depuis un centre de maintenance situé à proximité de la plus proche base de maintenance utilisée par le transporteur, à condition que la conduite du véhicule ne constitue pas l’activité principale du conducteur ;
+- pour lesquels un permis de conduire des catégories D ou D1 est exigé, qui sont conduits, sans passagers, par un agent de maintenance vers ou depuis un centre de maintenance situé à proximité de la plus proche base de maintenance utilisée par le transporteur, à condition que la conduite du véhicule ne constitue pas l’activité principale du conducteur ;
 
-5. utilisés en cas d’urgence ou affectés à des missions de sauvetage, y compris les véhicules utilisés pour le transport non commercial d’aide humanitaire ;
+- utilisés en cas d’urgence ou affectés à des missions de sauvetage, y compris les véhicules utilisés pour le transport non commercial d’aide humanitaire ;
 
-6. utilisés pour l’apprentissage et de l’examen pratique de conduite en vue de l’obtention d’un permis de conduire ou dans le cadre des formations en vue de l’obtention du certificat de formation prévu à l’article 3, pour autant qu’ils ne soient pas utilisés pour le transport commercial de marchandises et de voyageurs ;
+- utilisés pour l’apprentissage et de l’examen pratique de conduite en vue de l’obtention d’un permis de conduire ou dans le cadre des formations en vue de l’obtention du certificat de formation prévu à l’article 3, pour autant qu’ils ne soient pas utilisés pour le transport commercial de marchandises et de voyageurs ;
 
-7. utilisés pour le transport non commercial de voyageurs ou de marchandises ;
+- utilisés pour le transport non commercial de voyageurs ou de marchandises ;
 
-8. transportant du matériel, de l’équipement ou des machines destinés à être utilisés par les conducteurs dans l’exercice de leurs fonctions, à condition que la conduite du véhicule ne constitue pas l’activité principale des conducteurs.
+- transportant du matériel, de l’équipement ou des machines destinés à être utilisés par les conducteurs dans l’exercice de leurs fonctions, à condition que la conduite du véhicule ne constitue pas l’activité principale des conducteurs.
 
 En ce qui concerne le point f), la loi ne s’applique pas aux personnes souhaitant obtenir un permis de conduire ou le certificat de formation prévu à l’article 3, lorsqu’elles suivent dans le cadre de leur emploi une formation supplémentaire à la conduite, à condition que ces personnes soient accompagnées par un tiers titulaire du certificat de formation prévu à l’article 3 ou par un instructeur de conduite, pour la catégorie du véhicule utilisé aux fins dudit point.
 
@@ -74,9 +74,9 @@ En ce qui concerne le point f), la loi ne s’applique pas aux personnes souhait
 
 La loi ne s’applique pas lorsque toutes les conditions suivantes sont remplies :
 
-1. la conduite des véhicules a lieu dans des zones rurales aux fins de l’approvisionnement de la propre entreprise du conducteur et que ce trajet n’excède pas dix kilomètres ;
+- la conduite des véhicules a lieu dans des zones rurales aux fins de l’approvisionnement de la propre entreprise du conducteur et que ce trajet n’excède pas dix kilomètres ;
 
-2. le conducteur ne propose pas de services de transport.
+- le conducteur ne propose pas de services de transport.
 
 (3)
 
@@ -132,9 +132,9 @@ Conducteurs exemptés de la qualification initiale
 
 Sont exemptés de l’obligation de qualification initiale, les conducteurs qui sont:
 
-1. titulaire d’un permis de conduire d’une des catégories D1, D1E , D ou DE ou d’un permis reconnu comme équivalent, délivré avant l’entrée en vigueur de la présente loi;
+- titulaire d’un permis de conduire d’une des catégories D1, D1E , D ou DE ou d’un permis reconnu comme équivalent, délivré avant l’entrée en vigueur de la présente loi;
 
-2. titulaire d’un permis de conduire d’une des catégories C1, C1E , C ou CE ou d’un permis reconnu comme équivalent, délivré avant l’entrée en vigueur de la présente loi.
+- titulaire d’un permis de conduire d’une des catégories C1, C1E , C ou CE ou d’un permis reconnu comme équivalent, délivré avant l’entrée en vigueur de la présente loi.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -231,11 +231,11 @@ Les informations relatives aux certificats de formation délivrés ou retirés p
 
 Dans la banque de données visée au paragraphe 1er figurent toutes les données nécessaires pour les finalités suivantes :
 
-1. permettre le contrôle du respect des dispositions de la directive 2003/59/CE relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs ainsi que de la présente loi et de ses règlements d’exécution ;
+- permettre le contrôle du respect des dispositions de la directive 2003/59/CE relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs ainsi que de la présente loi et de ses règlements d’exécution ;
 
-2. émission et gestion administrative des certificats de formation prévus à l’article 3 ;
+- émission et gestion administrative des certificats de formation prévus à l’article 3 ;
 
-3. échange d’informations relatif au certificats de formation prévus à l’article 3 avec les réseaux électroniques nationaux des autres États membres de l’Union européenne tel que prévue à l’article 10 bis de la directive 2003/59/CE précitée.
+- échange d’informations relatif au certificats de formation prévus à l’article 3 avec les réseaux électroniques nationaux des autres États membres de l’Union européenne tel que prévue à l’article 10 bis de la directive 2003/59/CE précitée.
 
 (3)
 
@@ -247,9 +247,9 @@ Le Centre des technologies de l’information de l’État, la Société nationa
 
 Les organismes de formation prévus à l’article 6 transmettent aux fins de la présente loi les informations suivantes au ministre :
 
-1. pour la formation prévue à l’article 3, points 1. et 2., le nom et le prénom du candidat, le numéro du permis de conduire du candidat, la date du cours, le type de cours et les notes d’examen du candidat ;
+- pour la formation prévue à l’article 3, points 1. et 2., le nom et le prénom du candidat, le numéro du permis de conduire du candidat, la date du cours, le type de cours et les notes d’examen du candidat ;
 
-2. pour la formation prévue à l’article 3, point 3., le nom et le prénom du candidat, le numéro du permis de conduire du candidat, la date du cours et le type de cours.
+- pour la formation prévue à l’article 3, point 3., le nom et le prénom du candidat, le numéro du permis de conduire du candidat, la date du cours et le type de cours.
 
 (5)
 
@@ -287,11 +287,11 @@ Dispositions transitoires
 
 Les conducteurs suivants doivent suivre une première formation continue:
 
-1. les titulaires d’un certificat de formation visé à l’article 3, sous 1. et 2., dans les cinq ans qui suivent la date de délivrance du certificat de formation;
+- les titulaires d’un certificat de formation visé à l’article 3, sous 1. et 2., dans les cinq ans qui suivent la date de délivrance du certificat de formation;
 
-2. les conducteurs visés à l'article 4, sous a), avant le 10 septembre 2015;
+- les conducteurs visés à l'article 4, sous a), avant le 10 septembre 2015;
 
-3. les conducteurs visés à l'article 4, sous b), avant le 10 septembre 2016.
+- les conducteurs visés à l'article 4, sous b), avant le 10 septembre 2016.
 
 <a id="art-9"></a>
 ## Art. 9.

@@ -41,11 +41,11 @@ Pour l'établissement, l'entretien et l'exploitation des canalisations et de tou
 
 La société aura le droit:
 
-1. d'installer les canalisations de gaz dans des terrains privés, non bâtis, qui ne sont pas entourés de murs ou d'autres clôtures équivalentes ;
+- d'installer les canalisations de gaz dans des terrains privés, non bâtis, qui ne sont pas entourés de murs ou d'autres clôtures équivalentes ;
 
-2. d'assurer la surveillance des canalisations;
+- d'assurer la surveillance des canalisations;
 
-3. de procéder aux travaux d'entretien et de réfection de ces canalisations.
+- de procéder aux travaux d'entretien et de réfection de ces canalisations.
 
 L'exécution des travaux prévus sous le numéro 1) ci-dessus doit être précédée d'une notification directe aux intéressés, et d'une enquête dont la procédure sera déterminée par arrêté grand-ducal; elle ne peut avoir lieu qu'après approbation du projet de détail des tracés par les ministres ayant dans leurs attributions l'Energie et l'Intérieur.
 

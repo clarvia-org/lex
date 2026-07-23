@@ -42,21 +42,21 @@ Aux fins de l'application de la présente loi, on entend par
 
 Les partis politiques, qui ont
 
-1. présenté une liste complète dans les quatre circonscriptions électorales lors des élections législatives et
+- présenté une liste complète dans les quatre circonscriptions électorales lors des élections législatives et
 
-2. obtenu au moins deux pour cent du total des suffrages dans les quatre circonscriptions électorales en moyenne nationale
+- obtenu au moins deux pour cent du total des suffrages dans les quatre circonscriptions électorales en moyenne nationale
 
 ont droit, en dehors de la dotation leur allouée en application du chapitre IX de la loi électorale modifiée du 18 février 2003, à une dotation annuelle à charge du budget de l’État, déterminée comme suit :
 
-1. un montant forfaitaire de 7 500 points indiciaires et
+- un montant forfaitaire de 7 500 points indiciaires et
 
-2. un montant supplémentaire de 800 points indiciaires pour chaque point de pour cent des suffrages recueilli en plus des deux pour cent du total des suffrages dans les quatre circonscriptions électorales en moyenne nationale lors des élections législatives.
+- un montant supplémentaire de 800 points indiciaires pour chaque point de pour cent des suffrages recueilli en plus des deux pour cent du total des suffrages dans les quatre circonscriptions électorales en moyenne nationale lors des élections législatives.
 
 Les partis politiques qui ont satisfait aux conditions fixées aux points 1 et 2 pour les élections législatives et qui ont :
 
-1. présenté une liste complète dans la circonscription nationale unique lors des élections européennes et
+- présenté une liste complète dans la circonscription nationale unique lors des élections européennes et
 
-2. obtenu au moins deux pour cent du total des suffrages dans la circonscription nationale unique pour les élections européennes
+- obtenu au moins deux pour cent du total des suffrages dans la circonscription nationale unique pour les élections européennes
 
 ont droit, en dehors de la dotation leur allouée en application du chapitre IX de la loi électorale modifiée du 18 février 2003, à une dotation annuelle à charge du budget de l’État, d’un montant supplémentaire de 800 points indiciaires pour chaque point de pour cent des suffrages supplémentaires recueilli lors des élections européennes.
 
@@ -132,11 +132,11 @@ Le versement s'effectue sur la base des données disponibles le premier jour du 
 
 Afin de bénéficier d'un financement public, le parti politique doit déposer auprès du Premier Ministre, Ministre d'Etat:
 
-1. ses statuts, une liste de ses dirigeants au niveau national du parti ainsi que toute modification des statuts et tout changement au niveau des dirigeants;
+- ses statuts, une liste de ses dirigeants au niveau national du parti ainsi que toute modification des statuts et tout changement au niveau des dirigeants;
 
-2. un relevé de ses donateurs et des dons conformément à l'article 9;
+- un relevé de ses donateurs et des dons conformément à l'article 9;
 
-3. ses comptes et bilans conformément à l'article 14.
+- ses comptes et bilans conformément à l'article 14.
 
 Une copie de ces pièces est transmise simultanément par le parti politique au Président de la Chambre des Députés. Ces données peuvent être consultées librement par toute personne intéressée auprès de l'administration parlementaire.
 
@@ -201,41 +201,41 @@ La structure centrale du parti politique est tenue d’arrêter chaque année, a
 
 Le compte des recettes comprend:
 
-1. les cotisations des membres;
+- les cotisations des membres;
 
-2. les contributions des mandataires;
+- les contributions des mandataires;
 
-3. les dons, donations ou legs;
+- les dons, donations ou legs;
 
-4. les recettes provenant du patrimoine mobilier ou immobilier;
+- les recettes provenant du patrimoine mobilier ou immobilier;
 
-5. les recettes provenant de manifestations et de publications;
+- les recettes provenant de manifestations et de publications;
 
-6. les prestations diverses ayant une valeur pécuniaire ou pouvant être exprimées en valeur pécuniaire;
+- les prestations diverses ayant une valeur pécuniaire ou pouvant être exprimées en valeur pécuniaire;
 
-7. les recettes diverses;
+- les recettes diverses;
 
-8. les contributions versées par les composantes du parti;
+- les contributions versées par les composantes du parti;
 
-9. les dotations publiques.
+- les dotations publiques.
 
 Le compte des dépenses comprend:
 
-1. les frais de fonctionnement;
+- les frais de fonctionnement;
 
-2. les frais de formation, d'études et de recherches;
+- les frais de formation, d'études et de recherches;
 
-3. les dépenses en rapport avec les manifestations et publications;
+- les dépenses en rapport avec les manifestations et publications;
 
-4. les dépenses électorales;
+- les dépenses électorales;
 
-5. les cotisations à des organisations et associations internationales;
+- les cotisations à des organisations et associations internationales;
 
-6. les dotations accordées aux autres composantes du parti;
+- les dotations accordées aux autres composantes du parti;
 
-7. les dépenses en rapport avec le patrimoine mobilier et immobilier;
+- les dépenses en rapport avec le patrimoine mobilier et immobilier;
 
-8. les dépenses diverses.
+- les dépenses diverses.
 
 Un règlement grand-ducal peut fixer un plan comptable uniforme, préciser la forme des comptes et bilans et déterminer les modalités de la tenue de la comptabilité.
 

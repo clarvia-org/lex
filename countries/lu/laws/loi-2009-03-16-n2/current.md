@@ -42,31 +42,31 @@ Par assistance au suicide il y a lieu d'entendre le fait qu'un médecin aide int
 
 N'est pas sanctionné pénalement et ne peut donner lieu à une action civile en dommages-intérêts le fait par un médecin de répondre à une demande d'euthanasie ou d'assistance au suicide, si les conditions de fond suivantes sont remplies:
 
-1. le patient est majeur capable et conscient au moment de sa demande;
+- le patient est majeur capable et conscient au moment de sa demande;
 
-2. la demande est formulée de manière volontaire, réfléchie et, le cas échéant, répétée, et elle ne résulte pas d'une pression extérieure;
+- la demande est formulée de manière volontaire, réfléchie et, le cas échéant, répétée, et elle ne résulte pas d'une pression extérieure;
 
-3. le patient se trouve dans une situation médicale sans issue et fait état d'une souffrance physique ou psychique constante et insupportable sans perspective d'amélioration, résultant d'une affection accidentelle ou pathologique;
+- le patient se trouve dans une situation médicale sans issue et fait état d'une souffrance physique ou psychique constante et insupportable sans perspective d'amélioration, résultant d'une affection accidentelle ou pathologique;
 
-4. la demande du patient d'avoir recours à une euthanasie ou une assistance au suicide est consignée par écrit.
+- la demande du patient d'avoir recours à une euthanasie ou une assistance au suicide est consignée par écrit.
 
 2.
 
 Le médecin doit dans tous les cas, avant de procéder à une euthanasie ou une aide au suicide, respecter les conditions de forme et de procédure suivantes:
 
-1. informer le patient de son état de santé et de son espérance de vie, se concerter avec le patient sur sa demande d'euthanasie ou d'assistance au suicide et évoquer avec lui les possibilités thérapeutiques encore envisageables ainsi que les possibilités qu'offrent les soins palliatifs et leurs conséquences. Il doit arriver à la conviction que la demande du patient est volontaire et qu'aux yeux du patient il n'y a aucune autre solution acceptable dans sa situation. Les entretiens sont consignés au dossier médical, la consignation valant preuve de l'information;
+- informer le patient de son état de santé et de son espérance de vie, se concerter avec le patient sur sa demande d'euthanasie ou d'assistance au suicide et évoquer avec lui les possibilités thérapeutiques encore envisageables ainsi que les possibilités qu'offrent les soins palliatifs et leurs conséquences. Il doit arriver à la conviction que la demande du patient est volontaire et qu'aux yeux du patient il n'y a aucune autre solution acceptable dans sa situation. Les entretiens sont consignés au dossier médical, la consignation valant preuve de l'information;
 
-2. s'assurer de la persistance de la souffrance physique ou psychique du patient et de sa volonté exprimée récemment respectivement réitérée. A cette fin, il mène avec le patient plusieurs entretiens, espacés d'un délai raisonnable au regard de l'évolution de l'état du patient;
+- s'assurer de la persistance de la souffrance physique ou psychique du patient et de sa volonté exprimée récemment respectivement réitérée. A cette fin, il mène avec le patient plusieurs entretiens, espacés d'un délai raisonnable au regard de l'évolution de l'état du patient;
 
-3. consulter un autre médecin quant au caractère grave et incurable de l'affection, en précisant les raisons de la consultation. Le médecin consulté prend connaissance du dossier médical, examine le patient et s'assure du caractère constant, insupportable et sans perspective d'amélioration de sa souffrance physique ou psychique. Il rédige un rapport concernant ses constatations. Le médecin consulté doit être impartial, tant à l'égard du patient qu'à l'égard du médecin traitant et être compétent quant à la pathologie concernée. Le médecin traitant informe le patient concernant les résultats de cette consultation;
+- consulter un autre médecin quant au caractère grave et incurable de l'affection, en précisant les raisons de la consultation. Le médecin consulté prend connaissance du dossier médical, examine le patient et s'assure du caractère constant, insupportable et sans perspective d'amélioration de sa souffrance physique ou psychique. Il rédige un rapport concernant ses constatations. Le médecin consulté doit être impartial, tant à l'égard du patient qu'à l'égard du médecin traitant et être compétent quant à la pathologie concernée. Le médecin traitant informe le patient concernant les résultats de cette consultation;
 
-4. sauf opposition du patient, s'entretenir de sa demande avec l'équipe soignante en contact régulier avec le patient ou des membres de celle-ci;
+- sauf opposition du patient, s'entretenir de sa demande avec l'équipe soignante en contact régulier avec le patient ou des membres de celle-ci;
 
-5. sauf opposition du patient, s'entretenir de sa demande avec la personne de confiance que celui-ci désigne dans ses dispositions de fin de vie ou au moment de sa demande d'euthanasie ou d'assistance au suicide;
+- sauf opposition du patient, s'entretenir de sa demande avec la personne de confiance que celui-ci désigne dans ses dispositions de fin de vie ou au moment de sa demande d'euthanasie ou d'assistance au suicide;
 
-6. s'assurer que le patient a eu l'occasion de s'entretenir de sa demande avec les personnes qu'il souhaitait rencontrer;
+- s'assurer que le patient a eu l'occasion de s'entretenir de sa demande avec les personnes qu'il souhaitait rencontrer;
 
-7. s'informer auprès de la Commission Nationale de Contrôle et d'Evaluation si des dispositions de fin de vie au nom du patient y sont enregistrées.
+- s'informer auprès de la Commission Nationale de Contrôle et d'Evaluation si des dispositions de fin de vie au nom du patient y sont enregistrées.
 
 La demande du patient doit être actée par écrit. Le document est rédigé, daté et signé par le patient lui-même. S'il se trouve dans l'impossibilité physique permanente de rédiger et de signer sa demande, cette dernière est actée par écrit par une personne majeure de son choix.
 
@@ -124,21 +124,21 @@ Ce règlement pourra proposer une formule de disposition de fin de vie dont les 
 
 N'est pas sanctionné pénalement et ne peut donner lieu à une action civile en dommages-intérêts, le fait par un médecin de répondre à une demande d'euthanasie à la suite de dispositions de fin de vie telles que prévues aux paragraphes 1er et 2, si le médecin constate:
 
-1. que le patient est atteint d'une affection accidentelle ou pathologique grave et incurable,
+- que le patient est atteint d'une affection accidentelle ou pathologique grave et incurable,
 
-2. qu'il est inconscient,
+- qu'il est inconscient,
 
-3. que cette situation est irréversible selon l'état actuel de la science.
+- que cette situation est irréversible selon l'état actuel de la science.
 
 Le médecin doit, dans tous les cas et avant de procéder à l'euthanasie, respecter les conditions de forme et de procédure suivantes:
 
-1. consulter un autre médecin quant à l'irréversibilité de la situation médicale du patient, en l'informant des raisons de cette consultation. Le médecin consulté prend connaissance du dossier médical et examine le patient. Il rédige un rapport de ses constatations. Si une personne de confiance est désignée dans les dispositions de fin de vie, le médecin traitant met cette personne de confiance au courant des résultats de cette consultation. Le médecin consulté doit être impartial à l'égard du patient ainsi qu'à l'égard du médecin traitant et être compétent quant à la pathologie concernée;
+- consulter un autre médecin quant à l'irréversibilité de la situation médicale du patient, en l'informant des raisons de cette consultation. Le médecin consulté prend connaissance du dossier médical et examine le patient. Il rédige un rapport de ses constatations. Si une personne de confiance est désignée dans les dispositions de fin de vie, le médecin traitant met cette personne de confiance au courant des résultats de cette consultation. Le médecin consulté doit être impartial à l'égard du patient ainsi qu'à l'égard du médecin traitant et être compétent quant à la pathologie concernée;
 
-2. s'il existe une équipe soignante en contact régulier avec le patient, s'entretenir du contenu des dispositions de fin de vie avec l'équipe soignante ou des membres de celle-ci;
+- s'il existe une équipe soignante en contact régulier avec le patient, s'entretenir du contenu des dispositions de fin de vie avec l'équipe soignante ou des membres de celle-ci;
 
-3. si les dispositions de fin de vie désignent une personne de confiance, s'entretenir avec elle de la volonté du patient;
+- si les dispositions de fin de vie désignent une personne de confiance, s'entretenir avec elle de la volonté du patient;
 
-4. si les dispositions de fin de vie désignent une personne de confiance, s'entretenir de la volonté du patient avec les proches du patient que la personne de confiance désigne.
+- si les dispositions de fin de vie désignent une personne de confiance, s'entretenir de la volonté du patient avec les proches du patient que la personne de confiance désigne.
 
 Les dispositions de fin de vie ainsi que l'ensemble des démarches du médecin traitant et leur résultat, y compris le rapport du médecin consulté, sont consignés dans le dossier médical du patient.
 
@@ -239,11 +239,11 @@ Lorsque, par décision prise à la majorité des voix de sept membres présents 
 
 La Commission établit à l'attention de la Chambre des Députés, la première fois endéans les deux ans de l'entrée en vigueur de la présente loi, et, par la suite, tous les deux ans:
 
-1. un rapport statistique basé sur les informations recueillies dans le second volet du document d'enregistrement que les médecins remettent complété en vertu de l'article 8;
+- un rapport statistique basé sur les informations recueillies dans le second volet du document d'enregistrement que les médecins remettent complété en vertu de l'article 8;
 
-2. un rapport contenant une description et une évaluation de l'application de la présente loi;
+- un rapport contenant une description et une évaluation de l'application de la présente loi;
 
-3. le cas échéant, des recommandations susceptibles de déboucher sur une initiative législative et/ou d'autres mesures concernant l'exécution de la présente loi.
+- le cas échéant, des recommandations susceptibles de déboucher sur une initiative législative et/ou d'autres mesures concernant l'exécution de la présente loi.
 
 Pour l'accomplissement de ces missions, la Commission peut recueillir toutes les informations utiles auprès des diverses autorités et institutions. Les renseignements recueillis par la Commission sont confidentiels.
 

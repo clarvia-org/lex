@@ -58,9 +58,9 @@ On entend par ministre au sens de la présente loi le ministre ayant dans ses at
 
 Peuvent prendre l’initiative de créer un parc naturel
 
-1. l’Etat
+- l’Etat
 
-2. une ou plusieurs communes, syndiquées ou non.
+- une ou plusieurs communes, syndiquées ou non.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -74,35 +74,35 @@ Le projet de parc naturel se compose d’une étude préparatoire et d’une ét
 
 L’étude préparatoire comprend:
 
-1. une note indiquant l’objet, les motifs et la portée de l’opération;
+- une note indiquant l’objet, les motifs et la portée de l’opération;
 
-2. la liste des communes concernées par le parc naturel avec l’indication, par commune, des sections cadastrales correspondantes;
+- la liste des communes concernées par le parc naturel avec l’indication, par commune, des sections cadastrales correspondantes;
 
-3. une carte topographique avec le tracé des limites du parc;
+- une carte topographique avec le tracé des limites du parc;
 
-4. les objectifs fondamentaux du projet, définis en fonction de l’article 2 de la présente loi.
+- les objectifs fondamentaux du projet, définis en fonction de l’article 2 de la présente loi.
 
 L’étude détaillée comprend:
 
-1. l’étude préparatoire complétée en fonction de la procédure prévue aux articles 7 et 8 de la présente loi.
+- l’étude préparatoire complétée en fonction de la procédure prévue aux articles 7 et 8 de la présente loi.
 
-2. les lignes directrices du projet détaillé intégrant:
+- les lignes directrices du projet détaillé intégrant:
 
-1. les objectifs poursuivis en ce qui concerne la protection de l’environnement, la conservation et la restauration du caractère et de la diversité du milieu naturel et du patrimoine culturel, l’aménagement du territoire, la sauvegarde des intérêts des acteurs économiques locaux, le développement rural, économique, socio-culturel et touristique du territoire concerné;
+  - les objectifs poursuivis en ce qui concerne la protection de l’environnement, la conservation et la restauration du caractère et de la diversité du milieu naturel et du patrimoine culturel, l’aménagement du territoire, la sauvegarde des intérêts des acteurs économiques locaux, le développement rural, économique, socio-culturel et touristique du territoire concerné;
 
-2. les mesures à prendre pour atteindre les objectifs poursuivis;
+  - les mesures à prendre pour atteindre les objectifs poursuivis;
 
-3. une description des moyens qui sont mis en oeuvre pour intéresser la population à la gestion du parc;
+  - une description des moyens qui sont mis en oeuvre pour intéresser la population à la gestion du parc;
 
-4. une estimation des dépenses de personnel, de fonctionnement et d’investissement nécessaires à la gestion du parc;
+  - une estimation des dépenses de personnel, de fonctionnement et d’investissement nécessaires à la gestion du parc;
 
-5. les modifications à apporter éventuellement aux plans d’aménagement communaux en rapport avec la création du parc naturel;
+  - les modifications à apporter éventuellement aux plans d’aménagement communaux en rapport avec la création du parc naturel;
 
-6. le programme des investissements à mettre en oeuvre en vue de promouvoir les objectifs poursuivis;
+  - le programme des investissements à mettre en oeuvre en vue de promouvoir les objectifs poursuivis;
 
-7. un plan de financement.
+  - un plan de financement.
 
-3. le statut, la composition, les missions et les règles de fonctionnement des organismes chargés de l’administration et de la gestion du parc.
+- le statut, la composition, les missions et les règles de fonctionnement des organismes chargés de l’administration et de la gestion du parc.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -123,17 +123,17 @@ Le ministre soumet le projet de parc naturel à l’avis du Conseil supérieur d
 
 Le projet de règlement grand-ducal comprend les éléments suivants:
 
-1. L’indication de l’objet, des motifs et de la portée de l’opération.
+- L’indication de l’objet, des motifs et de la portée de l’opération.
 
-2. La liste des communes concernées par le parc naturel avec indication, par commune, des sections cadastrales correspondantes.
+- La liste des communes concernées par le parc naturel avec indication, par commune, des sections cadastrales correspondantes.
 
-3. Une carte topographique avec le tracé des limites du parc.
+- Une carte topographique avec le tracé des limites du parc.
 
-4. Le statut, la composition, les missions et les règles de fonctionnement des organismes chargés de l’administration et de la gestion du parc.
+- Le statut, la composition, les missions et les règles de fonctionnement des organismes chargés de l’administration et de la gestion du parc.
 
-5. Les objectifs poursuivis en fonction de l’article 2 de la présente loi.
+- Les objectifs poursuivis en fonction de l’article 2 de la présente loi.
 
-6. Le cas échéant, les modifications à apporter aux plans d’aménagement communaux en rapport avec la création du parc naturel.
+- Le cas échéant, les modifications à apporter aux plans d’aménagement communaux en rapport avec la création du parc naturel.
 
 Le projet de règlement grand-ducal constitue, ensemble avec le projet de parc naturel, le dossier à soumettre à la procédure prévue aux articles 10 et 11 de la présente loi.
 
@@ -186,21 +186,21 @@ La moitié au moins des membres du comité du syndicat pour l’aménagement et 
 
 Le comité du syndicat a notamment pour mission:
 
-1. d’arrêter les directives générales à appliquer en vue du déroulement des différentes activités du parc naturel;
+- d’arrêter les directives générales à appliquer en vue du déroulement des différentes activités du parc naturel;
 
-2. d’arrêter le plan de gestion annuel comprenant notamment:
+- d’arrêter le plan de gestion annuel comprenant notamment:
 
-- l’engagement et le classement des agents à affecter, le cas échéant, au service du parc naturel prévu à l’article 17 de la présente loi;
+  - l’engagement et le classement des agents à affecter, le cas échéant, au service du parc naturel prévu à l’article 17 de la présente loi;
 
-- les acquisitions, aliénations, échanges d’immeubles et leur affectation ainsi que les travaux de construction et de grosses réparations;
+  - les acquisitions, aliénations, échanges d’immeubles et leur affectation ainsi que les travaux de construction et de grosses réparations;
 
-- les budgets d’investissement et d’exploitation et les comptes de fin d’exercice;
+  - les budgets d’investissement et d’exploitation et les comptes de fin d’exercice;
 
-3. d’accepter et de refuser des dons et legs;
+- d’accepter et de refuser des dons et legs;
 
-4. d’établir le rapport général d’activités ainsi que le programme d’activités;
+- d’établir le rapport général d’activités ainsi que le programme d’activités;
 
-5. de représenter le syndicat dans les actions judiciaires.
+- de représenter le syndicat dans les actions judiciaires.
 
 <a id="art-17"></a>
 ## Art. 17.

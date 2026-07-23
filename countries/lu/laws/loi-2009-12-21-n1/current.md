@@ -137,23 +137,23 @@ Ces conditions déterminent les critères d'aménagement de ces accès qui doive
 
 Par ordre d'importance croissante, on distingue les catégories d'accès suivantes:
 
-1. l'accès individuel vers une prairie, un champ, une forêt,
+- l'accès individuel vers une prairie, un champ, une forêt,
 
-2. le raccordement d'un chemin rural, forestier ou syndical,
+- le raccordement d'un chemin rural, forestier ou syndical,
 
-3. l'accès individuel vers une maison unifamiliale ou bifamiliale,
+- l'accès individuel vers une maison unifamiliale ou bifamiliale,
 
-4. l'accès individuel vers un immeuble comportant plus de deux habitations,
+- l'accès individuel vers un immeuble comportant plus de deux habitations,
 
-5. l'accès individuel vers un complexe industriel, commercial ou agricole,
+- l'accès individuel vers un complexe industriel, commercial ou agricole,
 
-6. l'accès individuel vers une station de service ou le ou les locaux exploités par le prestataire d'un service public,
+- l'accès individuel vers une station de service ou le ou les locaux exploités par le prestataire d'un service public,
 
-7. l'accès collectif vers un lotissement ou un parking public,
+- l'accès collectif vers un lotissement ou un parking public,
 
-8. l'accès collectif vers une zone commerciale, artisanale ou industrielle,
+- l'accès collectif vers une zone commerciale, artisanale ou industrielle,
 
-9. le raccordement d'un chemin communal.
+- le raccordement d'un chemin communal.
 
 Un accès ne peut servir qu'à la destination pour laquelle il est autorisé. Une permission de voirie ne peut être délivrée que pour une seule catégorie.
 
@@ -173,13 +173,13 @@ Des accès de la catégorie 6. peuvent être autorisés pour compte des établis
 
 Pour chaque plan d'aménagement particulier [PAP] établi en exécution la loi modifiée du 19 juillet 2004 concernant l'aménagement communal et le développement urbain une permission de voirie doit être établie en vue d'en définir les aménagements communs, à savoir:
 
-1. l'emplacement et les caractéristiques géométriques des accès collectifs ou des accès individuels;
+- l'emplacement et les caractéristiques géométriques des accès collectifs ou des accès individuels;
 
-2. les aménagements particuliers de la voie publique qui sont fonction de la conception de l'accès;
+- les aménagements particuliers de la voie publique qui sont fonction de la conception de l'accès;
 
-3. les emplacements de stationnement prévus en surface ou en souterrain;
+- les emplacements de stationnement prévus en surface ou en souterrain;
 
-4. la disposition des couloirs destinés à recevoir les infrastructures d'approche et les points de raccordement aux conduites existantes.
+- la disposition des couloirs destinés à recevoir les infrastructures d'approche et les points de raccordement aux conduites existantes.
 
 (6)
 

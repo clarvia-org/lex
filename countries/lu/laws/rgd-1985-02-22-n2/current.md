@@ -92,15 +92,15 @@ La documentation permettant de démontrer que les objets céramiques respectent 
 
 En ce qui concerne la méthode d’analyse permettant de déterminer la libération de plomb et de cadmium par les objets céramiques, les valeurs de migration peuvent être calculées ou estimées par l’exploitant qui met les objets sur le marché, tenant compte, le cas échéant, des éléments suivants :
 
-1. La composition des substances utilisées dans la fabrication des objets céramiques concernés, telles que fabriquées par le fabricant ou attestées par la documentation de ses fournisseurs ;
+- La composition des substances utilisées dans la fabrication des objets céramiques concernés, telles que fabriquées par le fabricant ou attestées par la documentation de ses fournisseurs ;
 
-2. L’utilisation ou non, dans la fabrication des objets céramiques en question, de substances contenant du plomb ou du cadmium, qui sont destinées à ou susceptibles d’entrer en contact avec des denrées alimentaires ou avec la bouche, ou leur utilisation dans une autre partie des objets céramiques, telle que l’intérieur, le sous-émail ou l’extérieur ;
+- L’utilisation ou non, dans la fabrication des objets céramiques en question, de substances contenant du plomb ou du cadmium, qui sont destinées à ou susceptibles d’entrer en contact avec des denrées alimentaires ou avec la bouche, ou leur utilisation dans une autre partie des objets céramiques, telle que l’intérieur, le sous-émail ou l’extérieur ;
 
-3. Documentation ou informations supplémentaires des fournisseurs, en ce compris des instructions sur les processus de fabrication pour les applications en contact avec les denrées alimentaires ;
+- Documentation ou informations supplémentaires des fournisseurs, en ce compris des instructions sur les processus de fabrication pour les applications en contact avec les denrées alimentaires ;
 
-4. Essais réalisés sur des matériaux ou des objets similaires, en ce compris des essais visant à déterminer la libération maximale par partie de surface lorsque certaines techniques de décoration ou certains matériaux sont utilisés, ou des essais sur un lot du même matériau ou objet ;
+- Essais réalisés sur des matériaux ou des objets similaires, en ce compris des essais visant à déterminer la libération maximale par partie de surface lorsque certaines techniques de décoration ou certains matériaux sont utilisés, ou des essais sur un lot du même matériau ou objet ;
 
-5. La possibilité lors du processus de fabrication de contrôler la qualité de l’objet céramique final, en ce compris le contrôle de la composition des substances utilisées dans sa fabrication, le contrôle du processus de fabrication, y compris les conditions d’émaillage ou de décoration et de cuisson, la possibilité de contrôler les variations entre les objets et les lots d’objets, ainsi que la possibilité d’éviter la contamination par des substances créées lors de la fabrication de matériaux ou d’objets non destinés à entrer en contact avec des denrées alimentaires.
+- La possibilité lors du processus de fabrication de contrôler la qualité de l’objet céramique final, en ce compris le contrôle de la composition des substances utilisées dans sa fabrication, le contrôle du processus de fabrication, y compris les conditions d’émaillage ou de décoration et de cuisson, la possibilité de contrôler les variations entre les objets et les lots d’objets, ainsi que la possibilité d’éviter la contamination par des substances créées lors de la fabrication de matériaux ou d’objets non destinés à entrer en contact avec des denrées alimentaires.
 
 2.
 
@@ -121,13 +121,13 @@ Il est interdit de fabriquer, d’importer, de détenir ou de transporter en vue
 
 Le ministre peut prononcer une amende administrative à l’encontre de l’exploitant agissant en violation des articles suivants du présent règlement, conformément à l’article 13, paragraphe 1er, de la loi du 2 avril 2026 relative aux denrées alimentaires et aux matériaux et objets destinés à entrer en contact avec des denrées alimentaires :
 
-1. l’article 3, paragraphe 4 ;
+- l’article 3, paragraphe 4 ;
 
-2. l’article 3 bis ;
+- l’article 3 bis ;
 
-3. l’article 3 ter ;
+- l’article 3 ter ;
 
-4. l’article 5.
+- l’article 5.
 
 <a id="art-6bis"></a>
 ## Art. 6bis.

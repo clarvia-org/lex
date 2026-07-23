@@ -57,31 +57,31 @@ Les épreuves de langues ont pour objet d’apprécier, sous forme d’épreuves
 
 En ce qui concerne les épreuves de langues organisées pour la catégorie de traitement et d’indemnité A, les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
 
-1. niveau C1 pour la première langue;
+- niveau C1 pour la première langue;
 
-2. niveau B2 pour la deuxième langue;
+- niveau B2 pour la deuxième langue;
 
-3. niveau B1 pour la troisième langue.
+- niveau B1 pour la troisième langue.
 
 2.
 
 En ce qui concerne les épreuves de langues organisées pour la catégorie de traitement et d’indemnité B, les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
 
-1. niveau B2 pour la première langue;
+- niveau B2 pour la première langue;
 
-2. niveau B1 pour la deuxième langue;
+- niveau B1 pour la deuxième langue;
 
-3. niveau A2 pour la troisième langue.
+- niveau A2 pour la troisième langue.
 
 3.
 
 En ce qui concerne les épreuves de langues organisées pour les catégories de traitement et d’indemnité C , les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
 
-1. niveau B1 pour la première langue;
+- niveau B1 pour la première langue;
 
-2. niveau A2 pour la deuxième langue;
+- niveau A2 pour la deuxième langue;
 
-3. niveau A1 pour la troisième langue.
+- niveau A1 pour la troisième langue.
 
 II.
 

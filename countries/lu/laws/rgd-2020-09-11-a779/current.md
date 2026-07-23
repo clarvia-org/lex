@@ -37,45 +37,45 @@ La formation définie à l’article 2 est organisée par l’Institut national 
 
 Le programme de formation professionnelle spéciale des agents de surveillance chargés de la recherche et de la constatation des infractions aux dispositions légales et réglementaires en matière de navigation fluviale et le nombre des heures afférentes sont fixés comme suit :
 
-1. Première partie (2 heures) :
+- Première partie (2 heures) :
 
-1. organisation judiciaire ;
+  - organisation judiciaire ;
 
-2. fonctionnement du Parquet ;
+  - fonctionnement du Parquet ;
 
-3. acheminement des dossiers ;
+  - acheminement des dossiers ;
 
-4. la fonction de juge d’instruction et la saisine du juge d’instruction ;
+  - la fonction de juge d’instruction et la saisine du juge d’instruction ;
 
-5. la saisine des juridictions de jugement et le déroulement des audiences ;
+  - la saisine des juridictions de jugement et le déroulement des audiences ;
 
-6. la recherche et la constatation des infractions.
+  - la recherche et la constatation des infractions.
 
-2. Deuxième partie (2 heures) :
+- Deuxième partie (2 heures) :
 
-1. droits et obligations de l’officier de police judiciaire ;
+  - droits et obligations de l’officier de police judiciaire ;
 
-2. valeur probante.
+  - valeur probante.
 
-3. Troisième partie (2 heures) :
+- Troisième partie (2 heures) :
 
-1. constatation des infractions ;
+  - constatation des infractions ;
 
-2. flagrant délit ;
+  - flagrant délit ;
 
-3. ordonnance de perquisition et de saisie.
+  - ordonnance de perquisition et de saisie.
 
-4. Quatrième partie (2 heures) :
+- Quatrième partie (2 heures) :
 
-1. les dispositions pénales de la loi du 1er mars 2019 fixant les prescriptions techniques des bateaux de navigation intérieure ;
+  - les dispositions pénales de la loi du 1er mars 2019 fixant les prescriptions techniques des bateaux de navigation intérieure ;
 
-2. les dispositions pénales de la loi modifiée du 23 décembre 2016 concernant la gestion du domaine public fluvial ;
+  - les dispositions pénales de la loi modifiée du 23 décembre 2016 concernant la gestion du domaine public fluvial ;
 
-3. les dispositions pénales de la loi du 23 septembre 1997 portant réglementation de la navigation de plaisance et portant modification de certaines autres dispositions légales ;
+  - les dispositions pénales de la loi du 23 septembre 1997 portant réglementation de la navigation de plaisance et portant modification de certaines autres dispositions légales ;
 
-4. les dispositions pénales de la loi modifiée du 28 juin 1984 portant réglementation de la police de la navigation intérieure, des sports nautiques, de la natation, des droits des passagers et du permis d’exploitation des bateaux à passagers.
+  - les dispositions pénales de la loi modifiée du 28 juin 1984 portant réglementation de la police de la navigation intérieure, des sports nautiques, de la natation, des droits des passagers et du permis d’exploitation des bateaux à passagers.
 
-5. les dispositions pénales de la loi du 7 décembre 2022 relative à la reconnaissance des qualifications professionnelles dans le domaine de la navigation intérieure.
+  - les dispositions pénales de la loi du 7 décembre 2022 relative à la reconnaissance des qualifications professionnelles dans le domaine de la navigation intérieure.
 
 En vue de son admission à l’examen prévu à l’article 3, le candidat doit justifier d’une présence aux cours correspondant à au moins 90 pour cent de la durée totale de la formation.
 

@@ -22,3 +22,9 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 ---
 
 # Version consolidée applicable au 01/07/2020 : Mutualité des employeurs - Statuts.
+
+Par arrêté ministériel du 18 décembre 2020, les modifications des statuts de la Mutualité des employeurs, arrêtées par le conseil d’administration de la Mutualité des employeurs en date du 20 novembre 2020, sont approuvées. Les modifications produisent leurs effets au 1er juillet 2020.
+
+Annexes
+
+Suivent les fichiers annexés

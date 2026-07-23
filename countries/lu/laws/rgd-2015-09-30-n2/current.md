@@ -32,23 +32,23 @@ Pour l’employé de la catégorie d’indemnité B, groupe d’indemnité B1, l
 
 Le programme comprend les matières suivantes:
 
-1. Partie générale (120 points)
+- Partie générale (120 points)
 
-1. Droit public luxembourgeois (30 points);
+  - Droit public luxembourgeois (30 points);
 
-2. Régime et indemnités des employés de l’Etat (30 points);
+  - Régime et indemnités des employés de l’Etat (30 points);
 
-3. Droits et devoirs des employés de l’Etat (30 points);
+  - Droits et devoirs des employés de l’Etat (30 points);
 
-4. Budget et comptabilité de l’Etat (30 points).
+  - Budget et comptabilité de l’Etat (30 points).
 
-2. Partie spécifique (180 points)
+- Partie spécifique (180 points)
 
-1. Législations et réglementations de l’administration (60 points);
+  - Législations et réglementations de l’administration (60 points);
 
-2. Epreuve d’aptitude professionnelle en relation avec les fonctions exercées et les compétences professionnelles du candidat (60 points);
+  - Epreuve d’aptitude professionnelle en relation avec les fonctions exercées et les compétences professionnelles du candidat (60 points);
 
-3. Travail de réflexion en relation avec les missions de l’administration (60 points).
+  - Travail de réflexion en relation avec les missions de l’administration (60 points).
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -57,21 +57,21 @@ Pour l’employé de la catégorie d’indemnité C, groupe d’indemnité C1, l
 
 Le programme comprend les matières suivantes:
 
-1. Partie générale (120 points)
+- Partie générale (120 points)
 
-1. Eléments de droit public luxembourgeois (30 points);
+  - Eléments de droit public luxembourgeois (30 points);
 
-2. Régime et indemnités des employés de l’Etat (30 points);
+  - Régime et indemnités des employés de l’Etat (30 points);
 
-3. Droits et devoirs des employés de l’Etat (30 points);
+  - Droits et devoirs des employés de l’Etat (30 points);
 
-4. Budget et comptabilité de l’Etat (30 points).
+  - Budget et comptabilité de l’Etat (30 points).
 
-2. Partie spécifique (120 points)
+- Partie spécifique (120 points)
 
-1. Législations et réglementations de l’administration (60 points);
+  - Législations et réglementations de l’administration (60 points);
 
-2. Epreuve d’aptitude professionnelle en relation avec les fonctions exercées et les compétences professionnelles du candidat (60 points).
+  - Epreuve d’aptitude professionnelle en relation avec les fonctions exercées et les compétences professionnelles du candidat (60 points).
 
 <a id="art-3-20250901"></a>
 ## Art. 3.
@@ -80,19 +80,19 @@ Pour l’employé de la catégorie d’indemnité D, groupe d’indemnité D1, l
 
 Le programme comprend les matières suivantes:
 
-1. Partie générale (90 points)
+- Partie générale (90 points)
 
-1. Eléments de droit public luxembourgeois (30 points);
+  - Eléments de droit public luxembourgeois (30 points);
 
-2. Régime et indemnités des employés de l’Etat (30 points);
+  - Régime et indemnités des employés de l’Etat (30 points);
 
-3. Droits et devoirs des employés de l’Etat (30 points).
+  - Droits et devoirs des employés de l’Etat (30 points).
 
-2. Partie spécifique (120 points)
+- Partie spécifique (120 points)
 
-1. Législations et réglementations de l’administration (60 points);
+  - Législations et réglementations de l’administration (60 points);
 
-2. Epreuve d’aptitude professionnelle en relation avec les fonctions exercées et les compétences professionnelles du candidat (60 points).
+  - Epreuve d’aptitude professionnelle en relation avec les fonctions exercées et les compétences professionnelles du candidat (60 points).
 
 <a id="art-4-20250901"></a>
 ## Art. 4.
@@ -101,19 +101,19 @@ Pour l’employé de la catégorie d’indemnité D, groupe d’indemnité D2, l
 
 Le programme comprend les matières suivantes:
 
-1. Partie générale (90 points)
+- Partie générale (90 points)
 
-1. Eléments de droit public luxembourgeois (30 points);
+  - Eléments de droit public luxembourgeois (30 points);
 
-2. Régime et indemnités des employés de l’Etat (30 points);
+  - Régime et indemnités des employés de l’Etat (30 points);
 
-3. Droits et devoirs des employés de l’Etat (30 points).
+  - Droits et devoirs des employés de l’Etat (30 points).
 
-2. Partie spécifique (90 points)
+- Partie spécifique (90 points)
 
-1. Notions sur l’organisation de l’administration (60 points);
+  - Notions sur l’organisation de l’administration (60 points);
 
-2. Epreuve sur un sujet en relation avec l’occupation quotidienne du candidat (30 points).
+  - Epreuve sur un sujet en relation avec l’occupation quotidienne du candidat (30 points).
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -122,13 +122,13 @@ Pour l’employé de la catégorie d’indemnité C, groupe d’indemnité C2 , 
 
 Le programme comprend les matières suivantes:
 
-1. Partie générale: Droits et devoirs des employés de l’Etat (30 points)
+- Partie générale: Droits et devoirs des employés de l’Etat (30 points)
 
-2. Partie spécifique (90 points)
+- Partie spécifique (90 points)
 
-1. Notions sur l’organisation de l’administration (60 points);
+  - Notions sur l’organisation de l’administration (60 points);
 
-2. Epreuve sur un sujet en relation avec l’occupation quotidienne du candidat (30 points).
+  - Epreuve sur un sujet en relation avec l’occupation quotidienne du candidat (30 points).
 
 <a id="art-6"></a>
 ## Art. 6.

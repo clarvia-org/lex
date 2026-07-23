@@ -152,17 +152,17 @@ Les opérations d'examen sont fixées et assurées par la commission selon les d
 
 L'examen de fin de stage comporte les épreuves suivantes qui sont notées chacune sur 60 points. Une note d'au moins 30 points est suffisante.
 
-1. La partie générale est évaluée par l'Institut national d'administration publique par une note finale transmise au ministre qui la communique au président de la commission.
+- La partie générale est évaluée par l'Institut national d'administration publique par une note finale transmise au ministre qui la communique au président de la commission.
 
-2. La partie spécifique est évaluée par la commission d'examen sur la base des épreuves suivantes:
+- La partie spécifique est évaluée par la commission d'examen sur la base des épreuves suivantes:
 
-- une épreuve écrite portant sur les notions générales de la législation scolaire et du droit de travail;
+  - une épreuve écrite portant sur les notions générales de la législation scolaire et du droit de travail;
 
-- le rapport du projet socio-éducatif prévu à l'article 6 ainsi que la discussion du rapport devant la commission d'examen;
+  - le rapport du projet socio-éducatif prévu à l'article 6 ainsi que la discussion du rapport devant la commission d'examen;
 
-- pour l'éducateur gradué: le mémoire prévu à l'article 7 ainsi que la soutenance et la discussion du mémoire devant la commission d'examen;
+  - pour l'éducateur gradué: le mémoire prévu à l'article 7 ainsi que la soutenance et la discussion du mémoire devant la commission d'examen;
 
-- pour l'éducateur: une épreuve écrite ou orale portant sur la préparation d'une activité socio-éducative à prévoir avec des élèves.
+  - pour l'éducateur: une épreuve écrite ou orale portant sur la préparation d'une activité socio-éducative à prévoir avec des élèves.
 
 Le programme relatif aux notions générales de la législation scolaire et du droit de travail est fixé par le ministre.
 

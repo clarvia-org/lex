@@ -39,19 +39,19 @@ Le présent règlement grand-ducal s’applique à tous les instruments de pesag
 
 Aux fins du présent règlement grand-ducal, on distingue les domaines d’utilisation des instruments de pesage à fonctionnement non automatique suivants:
 
-1. la détermination de la masse pour les transactions commerciales;
+- la détermination de la masse pour les transactions commerciales;
 
-2. la détermination de la masse pour le calcul d’un péage, d’un tarif, d’une taxe, d’une prime, d’une amende, d’une rémunération, d’une indemnité ou d’une redevance de type similaire;
+- la détermination de la masse pour le calcul d’un péage, d’un tarif, d’une taxe, d’une prime, d’une amende, d’une rémunération, d’une indemnité ou d’une redevance de type similaire;
 
-3. la détermination de la masse pour l’application d’une législation ou d’une réglementation ou pour des expertises judiciaires;
+- la détermination de la masse pour l’application d’une législation ou d’une réglementation ou pour des expertises judiciaires;
 
-4. la détermination de la masse dans la pratique médicale en ce qui concerne le pesage de patients pour des raisons de surveillance, de diagnostic et de traitements médicaux;
+- la détermination de la masse dans la pratique médicale en ce qui concerne le pesage de patients pour des raisons de surveillance, de diagnostic et de traitements médicaux;
 
-5. la détermination de la masse pour la fabrication de médicaments sur ordonnance en pharmacie et la détermination de la masse lors des analyses effectuées dans les laboratoires médicaux et pharmaceutiques;
+- la détermination de la masse pour la fabrication de médicaments sur ordonnance en pharmacie et la détermination de la masse lors des analyses effectuées dans les laboratoires médicaux et pharmaceutiques;
 
-6. la détermination du prix en fonction de la masse pour la vente directe au public et la confection de préemballages;
+- la détermination du prix en fonction de la masse pour la vente directe au public et la confection de préemballages;
 
-7. toutes les applications autres que celles énumérées aux lettres a) à f).
+- toutes les applications autres que celles énumérées aux lettres a) à f).
 
 <a id="art-2"></a>
 ## Art. 2 .
@@ -60,49 +60,49 @@ Définitions.
 
 Aux fins du présent règlement grand-ducal, on entend par:
 
-1. Accréditation: l’accréditation au sens de l’article 2, point 10) du règlement (CE) n° 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits;
+- Accréditation: l’accréditation au sens de l’article 2, point 10) du règlement (CE) n° 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits;
 
-2. Distributeur: toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un instrument à disposition sur le marché;
+- Distributeur: toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un instrument à disposition sur le marché;
 
-3. Evaluation de la conformité: le processus qui permet de démontrer si les exigences essentielles du présent règlement grand-ducal relatives à un instrument ont été respectées;
+- Evaluation de la conformité: le processus qui permet de démontrer si les exigences essentielles du présent règlement grand-ducal relatives à un instrument ont été respectées;
 
-4. Fabricant: toute personne physique ou morale qui fabrique un instrument ou fait concevoir ou fabriquer un instrument, et commercialise cet instrument sous son propre nom ou sa propre marque;
+- Fabricant: toute personne physique ou morale qui fabrique un instrument ou fait concevoir ou fabriquer un instrument, et commercialise cet instrument sous son propre nom ou sa propre marque;
 
-5. Instrument de pesage: un instrument de mesure servant à déterminer la masse d’un corps en utilisant l’action de la pesanteur sur ce corps. Un instrument de pesage peut, en outre, servir à déterminer d’autres grandeurs, quantités, paramètres ou caractéristiques liés à la masse;
+- Instrument de pesage: un instrument de mesure servant à déterminer la masse d’un corps en utilisant l’action de la pesanteur sur ce corps. Un instrument de pesage peut, en outre, servir à déterminer d’autres grandeurs, quantités, paramètres ou caractéristiques liés à la masse;
 
-6. Instrument de pesage à fonctionnement non automatique: un instrument de pesage nécessitant l’intervention d’un opérateur au cours de la pesée;
+- Instrument de pesage à fonctionnement non automatique: un instrument de pesage nécessitant l’intervention d’un opérateur au cours de la pesée;
 
-7. Importateur: toute personne physique ou morale établie dans l’Union européenne qui met un instrument provenant d’un pays tiers sur le marché de l’Union européenne;
+- Importateur: toute personne physique ou morale établie dans l’Union européenne qui met un instrument provenant d’un pays tiers sur le marché de l’Union européenne;
 
-8. Législation d’harmonisation de l’Union européenne: toute législation de l’Union européenne visant à harmoniser les conditions de commercialisation des produits;
+- Législation d’harmonisation de l’Union européenne: toute législation de l’Union européenne visant à harmoniser les conditions de commercialisation des produits;
 
-9. Mandataire: toute personne physique ou morale établie dans l’Union européenne ayant reçu mandat écrit du fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées;
+- Mandataire: toute personne physique ou morale établie dans l’Union européenne ayant reçu mandat écrit du fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées;
 
-10. Marquage CE: le marquage par lequel le fabricant indique que l’instrument est conforme aux exigences applicables de la législation d’harmonisation de l’Union européenne prévoyant son apposition;
+- Marquage CE: le marquage par lequel le fabricant indique que l’instrument est conforme aux exigences applicables de la législation d’harmonisation de l’Union européenne prévoyant son apposition;
 
-11. Mise à disposition sur le marché: toute fourniture d’un instrument destiné à être distribué ou utilisé sur le marché de l’Union européenne dans le cadre d’une activité commerciale, à titre onéreux ou gratuit;
+- Mise à disposition sur le marché: toute fourniture d’un instrument destiné à être distribué ou utilisé sur le marché de l’Union européenne dans le cadre d’une activité commerciale, à titre onéreux ou gratuit;
 
-12. Mise sur le marché: la première mise à disposition d’un instrument sur le marché de l’Union européenne;
+- Mise sur le marché: la première mise à disposition d’un instrument sur le marché de l’Union européenne;
 
-13. Norme harmonisée: une norme harmonisée au sens de l’article 2, point 1), lettre c), du règlement (UE) n° 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne;
+- Norme harmonisée: une norme harmonisée au sens de l’article 2, point 1), lettre c), du règlement (UE) n° 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne;
 
-14. Opérateurs économiques: le fabricant, le mandataire, l’importateur et le distributeur;
+- Opérateurs économiques: le fabricant, le mandataire, l’importateur et le distributeur;
 
-15. Organisme d’évaluation de la conformité: un organisme qui effectue des opérations d’évaluation de la conformité, y compris l’étalonnage, les essais, la certification et l’inspection;
+- Organisme d’évaluation de la conformité: un organisme qui effectue des opérations d’évaluation de la conformité, y compris l’étalonnage, les essais, la certification et l’inspection;
 
-16. Rappel: toute mesure visant à obtenir le retour d’un instrument qui a déjà été mis à la disposition de l’utilisateur final;
+- Rappel: toute mesure visant à obtenir le retour d’un instrument qui a déjà été mis à la disposition de l’utilisateur final;
 
-17. Retrait: toute mesure visant à empêcher la mise à disposition sur le marché d’un instrument présent dans la chaîne d’approvisionnement;
+- Retrait: toute mesure visant à empêcher la mise à disposition sur le marché d’un instrument présent dans la chaîne d’approvisionnement;
 
-18. Spécifications techniques: un document fixant les exigences techniques devant être respectées par un instrument.
+- Spécifications techniques: un document fixant les exigences techniques devant être respectées par un instrument.
 
-19. Vérification après transformation : une vérification d’un instrument qui a subi le remplacement d’un ou de plusieurs composants ayant une influence sur ses qualités métrologiques, par un ou plusieurs composants d’un autre type, un changement de ses performances métrologiques ou le changement de l’indicateur par un indicateur du même type, mais sans renouvellement du marquage de conformité CE et du marquage métrologique supplémentaire sur la plaque signalétique de l’indicateur ;
+- Vérification après transformation : une vérification d’un instrument qui a subi le remplacement d’un ou de plusieurs composants ayant une influence sur ses qualités métrologiques, par un ou plusieurs composants d’un autre type, un changement de ses performances métrologiques ou le changement de l’indicateur par un indicateur du même type, mais sans renouvellement du marquage de conformité CE et du marquage métrologique supplémentaire sur la plaque signalétique de l’indicateur ;
 
-20. Vérification après réparation : une vérification d’un instrument qui a fait l’objet d’un réglage, d’une réparation ou d’un remplacement d’un ou de plusieurs composants du même type ayant une influence sur ses qualités métrologiques sans que la conception de l’instrument change ;
+- Vérification après réparation : une vérification d’un instrument qui a fait l’objet d’un réglage, d’une réparation ou d’un remplacement d’un ou de plusieurs composants du même type ayant une influence sur ses qualités métrologiques sans que la conception de l’instrument change ;
 
-21. Vérification périodique : une vérification d’un instrument en usage, après la période définie à l’article 34, paragraphe 1 ;
+- Vérification périodique : une vérification d’un instrument en usage, après la période définie à l’article 34, paragraphe 1 ;
 
-22. Refus d’un instrument : une décision du Bureau luxembourgeois de métrologie de l’ILNAS en matière de métrologie légale, spécifiant que l’instrument en question ne répond pas aux exigences du présent règlement et qu’il est interdit, avec effet immédiat, de l’utiliser pour les applications de l’article 1 er , paragraphe 2, lettres a) à f) de ce règlement.
+- Refus d’un instrument : une décision du Bureau luxembourgeois de métrologie de l’ILNAS en matière de métrologie légale, spécifiant que l’instrument en question ne répond pas aux exigences du présent règlement et qu’il est interdit, avec effet immédiat, de l’utiliser pour les applications de l’article 1 er , paragraphe 2, lettres a) à f) de ce règlement.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -213,11 +213,11 @@ Le mandataire exécute les tâches indiquées dans le mandat reçu du fabricant.
 
 Le mandat doit au minimum autoriser le mandataire:
 
-1. à tenir la déclaration UE de conformité et la documentation technique à la disposition du département de la surveillance du marché pendant dix ans à partir de la mise sur le marché de l’instrument;
+- à tenir la déclaration UE de conformité et la documentation technique à la disposition du département de la surveillance du marché pendant dix ans à partir de la mise sur le marché de l’instrument;
 
-2. à la demande motivée du département de la surveillance du marché, à lui communiquer toutes les informations et tous les documents nécessaires pour démontrer la conformité de l’instrument;
+- à la demande motivée du département de la surveillance du marché, à lui communiquer toutes les informations et tous les documents nécessaires pour démontrer la conformité de l’instrument;
 
-3. à la demande du département de la surveillance du marché, à coopérer avec lui concernant toute mesure adoptée en vue d’éliminer les risques présentés par les instruments couverts par le mandat délivré au mandataire.
+- à la demande du département de la surveillance du marché, à coopérer avec lui concernant toute mesure adoptée en vue d’éliminer les risques présentés par les instruments couverts par le mandat délivré au mandataire.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -307,9 +307,9 @@ Identification des opérateurs économiques.
 
 En ce qui concerne les instruments destinés à être utilisés pour les applications énumérées à l’article 1er, paragraphe 2, lettres a) à f), les opérateurs économiques identifient, sur demande du département de la surveillance du marché:
 
-1. tout opérateur économique qui leur a fourni un instrument;
+- tout opérateur économique qui leur a fourni un instrument;
 
-2. tout opérateur économique auquel ils ont fourni un instrument.
+- tout opérateur économique auquel ils ont fourni un instrument.
 
 Les opérateurs économiques doivent être en mesure de communiquer les informations visées à l’alinéa 1 pendant dix ans à compter de la date à laquelle l’instrument leur a été fourni et pendant dix ans à compter de la date à laquelle ils ont fourni l’instrument.
 
@@ -331,9 +331,9 @@ Procédures d’évaluation de la conformité.
 
 La conformité des instruments avec les exigences essentielles énoncées à l’annexe I peut être établie au choix du fabricant par l’une ou l’autre des procédures d’évaluation de la conformité suivantes:
 
-1. le module B prévu à l’annexe II, point 1, suivi soit du module D prévu à l’annexe II, point 2, soit du module F prévu à l’annexe II, point 4. Toutefois, le module B n’est pas obligatoire pour les instruments qui n’utilisent pas des dispositifs électroniques et dont le dispositif mesureur de charge n’utilise pas de ressort pour équilibrer la charge. En ce qui concerne les instruments non soumis au module B, le module D1 prévu à l’annexe II, point 3, ou le module F1 prévu à l’annexe II, point 5, s’applique;
+- le module B prévu à l’annexe II, point 1, suivi soit du module D prévu à l’annexe II, point 2, soit du module F prévu à l’annexe II, point 4. Toutefois, le module B n’est pas obligatoire pour les instruments qui n’utilisent pas des dispositifs électroniques et dont le dispositif mesureur de charge n’utilise pas de ressort pour équilibrer la charge. En ce qui concerne les instruments non soumis au module B, le module D1 prévu à l’annexe II, point 3, ou le module F1 prévu à l’annexe II, point 5, s’applique;
 
-2. le module G prévu à l’annexe II, point 6.
+- le module G prévu à l’annexe II, point 6.
 
 (2)
 
@@ -429,17 +429,17 @@ Conformément à l’article 7 de la loi modifiée du 4 juillet 2014 portant ré
 
 L’OLAS:
 
-1. est établi de manière à éviter tout conflit d’intérêts avec les organismes d’évaluation de la conformité;
+- est établi de manière à éviter tout conflit d’intérêts avec les organismes d’évaluation de la conformité;
 
-2. est organisé et fonctionne de façon à garantir l’objectivité et l’impartialité de ses activités;
+- est organisé et fonctionne de façon à garantir l’objectivité et l’impartialité de ses activités;
 
-3. est organisé de telle sorte que chaque décision concernant la notification d’un organisme d’évaluation de la conformité est prise par des personnes compétentes différentes de celles qui ont réalisé l’évaluation;
+- est organisé de telle sorte que chaque décision concernant la notification d’un organisme d’évaluation de la conformité est prise par des personnes compétentes différentes de celles qui ont réalisé l’évaluation;
 
-4. ne propose ni ne fournit aucune des activités réalisées par les organismes d’évaluation de la conformité, ni aucun service de conseil sur une base commerciale ou concurrentielle;
+- ne propose ni ne fournit aucune des activités réalisées par les organismes d’évaluation de la conformité, ni aucun service de conseil sur une base commerciale ou concurrentielle;
 
-5. garantit la confidentialité des informations qu’il obtient;
+- garantit la confidentialité des informations qu’il obtient;
 
-6. dispose d’un personnel compétent en nombre suffisant pour la bonne exécution de ses tâches.
+- dispose d’un personnel compétent en nombre suffisant pour la bonne exécution de ses tâches.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -485,11 +485,11 @@ Un organisme d’évaluation de la conformité doit être capable d’exécuter 
 
 En toutes circonstances et pour chaque procédure d’évaluation de la conformité et tout type ou toute catégorie d’instruments pour lesquels il est notifié, l’organisme d’évaluation de la conformité doit disposer à suffisance:
 
-1. du personnel requis ayant les connaissances techniques et l’expérience suffisante et appropriée pour effectuer les tâches d’évaluation de la conformité;
+- du personnel requis ayant les connaissances techniques et l’expérience suffisante et appropriée pour effectuer les tâches d’évaluation de la conformité;
 
-2. de descriptions des procédures utilisées pour évaluer la conformité, garantissant la transparence et la capacité de reproduction de ces procédures; l’organisme dispose de politiques et de procédures appropriées faisant la distinction entre les tâches qu’il exécute en tant qu’organisme notifié et d’autres activités;
+- de descriptions des procédures utilisées pour évaluer la conformité, garantissant la transparence et la capacité de reproduction de ces procédures; l’organisme dispose de politiques et de procédures appropriées faisant la distinction entre les tâches qu’il exécute en tant qu’organisme notifié et d’autres activités;
 
-3. de procédures pour accomplir ses activités qui tiennent dûment compte de la taille des entreprises, du secteur dans lequel elles exercent leurs activités, de leur structure, du degré de complexité de la technologie de l’instrument en question et de la nature en masse, ou série, du processus de production.
+- de procédures pour accomplir ses activités qui tiennent dûment compte de la taille des entreprises, du secteur dans lequel elles exercent leurs activités, de leur structure, du degré de complexité de la technologie de l’instrument en question et de la nature en masse, ou série, du processus de production.
 
 Un organisme d’évaluation de la conformité doit se doter des moyens nécessaires à la bonne exécution des tâches techniques et administratives liées aux activités d’évaluation de la conformité et a accès à tous les équipements ou installations nécessaires.
 
@@ -497,13 +497,13 @@ Un organisme d’évaluation de la conformité doit se doter des moyens nécessa
 
 Le personnel chargé des tâches d’évaluation de la conformité doit posséder:
 
-1. une solide formation technique et professionnelle couvrant toutes les activités d’évaluation de la conformité pour lesquelles l’organisme d’évaluation de la conformité a été notifié;
+- une solide formation technique et professionnelle couvrant toutes les activités d’évaluation de la conformité pour lesquelles l’organisme d’évaluation de la conformité a été notifié;
 
-2. une connaissance satisfaisante des exigences applicables aux évaluations qu’il effectue et l’autorité nécessaire pour effectuer ces évaluations;
+- une connaissance satisfaisante des exigences applicables aux évaluations qu’il effectue et l’autorité nécessaire pour effectuer ces évaluations;
 
-3. une connaissance et une compréhension adéquates des exigences essentielles énoncées à l’annexe I, des normes harmonisées applicables ainsi que des dispositions pertinentes de la législation d’harmonisation de l’Union européenne et de la législation nationale;
+- une connaissance et une compréhension adéquates des exigences essentielles énoncées à l’annexe I, des normes harmonisées applicables ainsi que des dispositions pertinentes de la législation d’harmonisation de l’Union européenne et de la législation nationale;
 
-4. l’aptitude pour rédiger les certificats, procès-verbaux et rapports qui constituent la matérialisation des évaluations effectuées.
+- l’aptitude pour rédiger les certificats, procès-verbaux et rapports qui constituent la matérialisation des évaluations effectuées.
 
 (8)
 
@@ -640,13 +640,13 @@ Obligations des organismes notifiés en matière d’information.
 
 Les organismes notifiés communiquent à l’OLAS les éléments suivants:
 
-1. tout refus, restriction, suspension ou retrait d’un certificat;
+- tout refus, restriction, suspension ou retrait d’un certificat;
 
-2. toute circonstance influant sur la portée ou les conditions de la notification;
+- toute circonstance influant sur la portée ou les conditions de la notification;
 
-3. toute demande d’information reçue des autorités de surveillance du marché concernant des activités d’évaluation de la conformité;
+- toute demande d’information reçue des autorités de surveillance du marché concernant des activités d’évaluation de la conformité;
 
-4. sur demande, les activités d’évaluation de la conformité réalisées dans le cadre de leur notification et toute autre activité réalisée, y compris les activités et sous-traitances transfrontalières.
+- sur demande, les activités d’évaluation de la conformité réalisées dans le cadre de leur notification et toute autre activité réalisée, y compris les activités et sous-traitances transfrontalières.
 
 (2)
 
@@ -694,9 +694,9 @@ Le département de la surveillance du marché en informe sans tarder la Commissi
 
 Les informations visées au paragraphe 4, alinéa 2, contiennent toutes les précisions disponibles, notamment les données nécessaires pour identifier l’instrument non conforme, son origine, la nature de la non-conformité alléguée et du risque encouru, ainsi que la nature et la durée des mesures nationales adoptées et les arguments avancés par l’opérateur économique concerné. En particulier, le département de la surveillance du marché indique si la non- conformité découle d’une des causes suivantes:
 
-1. la non-conformité de l’instrument aux exigences liées à des questions relatives à la protection de l’intérêt public définies par le présent règlement grand-ducal; ou
+- la non-conformité de l’instrument aux exigences liées à des questions relatives à la protection de l’intérêt public définies par le présent règlement grand-ducal; ou
 
-2. des lacunes des normes harmonisées visées à l’article 12 qui confèrent une présomption de conformité.
+- des lacunes des normes harmonisées visées à l’article 12 qui confèrent une présomption de conformité.
 
 (6) Dans le cas où l’ILNAS n’est pas à l’origine de la procédure visée par le présent article, il informe sans tarder la Commission européenne et les autorités compétentes des autres États membres de l’Union européenne de toute mesure adoptée et de toute information supplémentaire dont il dispose à propos de la non-conformité de l’instrument concerné et, dans l’éventualité où il s’opposerait à la mesure nationale adoptée par une autorité compétente d’un autre État membre de l’Union européenne, de ses objections.
 
@@ -741,23 +741,23 @@ Non-conformité formelle.
 
 Sans préjudice de l’article 30, lorsque l’ILNAS fait l’une des constatations suivantes, il invite l’opérateur économique en cause à mettre un terme à la non-conformité en question:
 
-1. le marquage CE ou le marquage métrologique supplémentaire a été apposé en violation de l’article 30 du règlement (CE) n° 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits ou de l’article 17 du présent règlement grand-ducal;
+- le marquage CE ou le marquage métrologique supplémentaire a été apposé en violation de l’article 30 du règlement (CE) n° 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits ou de l’article 17 du présent règlement grand-ducal;
 
-2. le marquage CE ou le marquage métrologique supplémentaire n’a pas été apposé;
+- le marquage CE ou le marquage métrologique supplémentaire n’a pas été apposé;
 
-3. les inscriptions prévues à l’article 6, paragraphe 5, n’ont pas été apposées, ou l’ont été en violation de l’article 6, paragraphe 5;
+- les inscriptions prévues à l’article 6, paragraphe 5, n’ont pas été apposées, ou l’ont été en violation de l’article 6, paragraphe 5;
 
-4. le numéro d’identification de l’organisme notifié, lorsque celui-ci intervient dans la phase de contrôle de la production, a été apposé en violation de l’article 17 ou n’a pas été apposé;
+- le numéro d’identification de l’organisme notifié, lorsque celui-ci intervient dans la phase de contrôle de la production, a été apposé en violation de l’article 17 ou n’a pas été apposé;
 
-5. la déclaration UE de conformité n’a pas été établie;
+- la déclaration UE de conformité n’a pas été établie;
 
-6. la déclaration UE de conformité n’a pas été établie correctement;
+- la déclaration UE de conformité n’a pas été établie correctement;
 
-7. la documentation technique n’est pas disponible ou n’est pas complète;
+- la documentation technique n’est pas disponible ou n’est pas complète;
 
-8. les informations visées à l’article 6, paragraphe 6, ou à l’article 8, paragraphe 3, sont absentes, fausses ou incomplètes;
+- les informations visées à l’article 6, paragraphe 6, ou à l’article 8, paragraphe 3, sont absentes, fausses ou incomplètes;
 
-9. une autre prescription administrative prévue à l’article 6 ou à l’article 8 n’est pas remplie.
+- une autre prescription administrative prévue à l’article 6 ou à l’article 8 n’est pas remplie.
 
 (2)
 
@@ -806,11 +806,11 @@ En ce qui concerne les produits vendus en vrac ou préemballés en quantités va
 
 Les instruments suivants ne peuvent être utilisés pour les applications de l’article 1er, paragraphe 2, lettres a) à f) et ne peuvent être détenus dans un lieu public où se font des transactions au poids :
 
-1. les instruments n’ayant pas subi une des procédures d’évaluation de la conformité de l’article 13 ;
+- les instruments n’ayant pas subi une des procédures d’évaluation de la conformité de l’article 13 ;
 
-2. les instruments n’ayant pas subi une vérification après transformation, une vérification après réparation ou une vérification périodique ;
+- les instruments n’ayant pas subi une vérification après transformation, une vérification après réparation ou une vérification périodique ;
 
-3. les instruments réparés, modifiés dans leurs qualités métrologiques ou ayant fait l’objet d’un refus d’instrument.
+- les instruments réparés, modifiés dans leurs qualités métrologiques ou ayant fait l’objet d’un refus d’instrument.
 
 Il appartient, soit à l’installateur, soit au réparateur ou à l’utilisateur, d’informer dans un tel cas immédiatement le Bureau luxembourgeois de métrologie de l’ILNAS en matière de métrologie légale, afin de faire vérifier son instrument.
 

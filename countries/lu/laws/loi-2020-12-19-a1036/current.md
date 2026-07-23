@@ -30,13 +30,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 L’État, représenté par le ministre ayant les Classes moyennes dans ses attributions, ci-après « ministre », peut octroyer une aide sous forme de contribution aux coûts non couverts aux entreprises qui exercent :
 
-1. au moins une des activités économiques énumérées à l’annexe de la loi du 24 juillet 2020 visant à mettre en place un fonds de relance et de solidarité et un régime d’aides en faveur de certaines entreprises et portant modification de : 1° la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ; 2° la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020 ; 3° la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique ;
+- au moins une des activités économiques énumérées à l’annexe de la loi du 24 juillet 2020 visant à mettre en place un fonds de relance et de solidarité et un régime d’aides en faveur de certaines entreprises et portant modification de : 1° la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ; 2° la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020 ; 3° la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique ;
 
-2. l’activité de gestionnaire d’un organisme de formation professionnelle continue ;
+- l’activité de gestionnaire d’un organisme de formation professionnelle continue ;
 
-3. l’activité de commerce de détail en magasin au sens de la loi modifiée du 24 juillet 2020 ayant pour objet la mise en place d’un régime d’aide temporaire en faveur du commerce de détail en magasin ;
+- l’activité de commerce de détail en magasin au sens de la loi modifiée du 24 juillet 2020 ayant pour objet la mise en place d’un régime d’aide temporaire en faveur du commerce de détail en magasin ;
 
-4. l’activité de commerce de détail de voitures et de véhicules légers neufs.
+- l’activité de commerce de détail de voitures et de véhicules légers neufs.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -62,33 +62,33 @@ Les employeurs qui ont été condamnés à au moins deux reprises pour contraven
 
 Aux fins de la présente loi, on entend par :
 
-1. « commercialisation de produits agricoles » : la détention ou l’exposition en vue de la vente, de la mise en vente, de la livraison ou de toute autre forme de mise sur le marché, à l’exception de la première vente par un producteur primaire à des revendeurs ou à des transformateurs et de toute activité consistant à préparer un produit en vue de cette vente. La vente par un producteur primaire à des consommateurs finaux est considérée comme une commercialisation si elle a lieu dans des locaux distincts réservés à cette activité ;
+- « commercialisation de produits agricoles » : la détention ou l’exposition en vue de la vente, de la mise en vente, de la livraison ou de toute autre forme de mise sur le marché, à l’exception de la première vente par un producteur primaire à des revendeurs ou à des transformateurs et de toute activité consistant à préparer un produit en vue de cette vente. La vente par un producteur primaire à des consommateurs finaux est considérée comme une commercialisation si elle a lieu dans des locaux distincts réservés à cette activité ;
 
-2. « charges d’exploitation » : les charges relevant de la « Classe 6 : compte de charges » du plan comptable normalisé et énumérées à l’annexe du règlement grand-ducal du 12 septembre 2019 déterminant le contenu du plan comptable normalisé visé à l’article 12 du Code de commerce . Ne sont pas considérées comme charges d’exploitation, les dotations aux corrections de valeur et ajustements de juste valeur sur frais d’établissement, sur immobilisations incorporelles et corporelles et sur actifs circulants (hors valeurs mobilières) reprises au point 63 de l’annexe du règlement grand-ducal précité du 12 septembre 2019 ;
+- « charges d’exploitation » : les charges relevant de la « Classe 6 : compte de charges » du plan comptable normalisé et énumérées à l’annexe du règlement grand-ducal du 12 septembre 2019 déterminant le contenu du plan comptable normalisé visé à l’article 12 du Code de commerce . Ne sont pas considérées comme charges d’exploitation, les dotations aux corrections de valeur et ajustements de juste valeur sur frais d’établissement, sur immobilisations incorporelles et corporelles et sur actifs circulants (hors valeurs mobilières) reprises au point 63 de l’annexe du règlement grand-ducal précité du 12 septembre 2019 ;
 
-3. « coûts non couverts » : la différence négative entre, d’une part, le total des recettes relevant de la « Classe 7 : comptes de produits » et énumérées à l’annexe du règlement grand-ducal précité du 12 septembre 2019 , réalisées par l’entreprise au cours du mois pour lequel elle demande l’aide, et des subventions destinées à l’indemnisation des chômeurs partiels, des autres aides publiques et des indemnités d’assurance perçues pour le même mois et, d’autre part, le montant correspondant à 75 pour cent des charges d’exploitation encourues par l’entreprise au cours du même mois. Par dérogation à ce qui précède, un montant correspondant à 100 pour cent des charges d’exploitation est pris en compte pour les mois de novembre et décembre 2020 et les mois de janvier, février, mars, avril, mai et juin 2021 et pour le mois de décembre 2021 et pour les mois de janvier et février 2022 . ;
+- « coûts non couverts » : la différence négative entre, d’une part, le total des recettes relevant de la « Classe 7 : comptes de produits » et énumérées à l’annexe du règlement grand-ducal précité du 12 septembre 2019 , réalisées par l’entreprise au cours du mois pour lequel elle demande l’aide, et des subventions destinées à l’indemnisation des chômeurs partiels, des autres aides publiques et des indemnités d’assurance perçues pour le même mois et, d’autre part, le montant correspondant à 75 pour cent des charges d’exploitation encourues par l’entreprise au cours du même mois. Par dérogation à ce qui précède, un montant correspondant à 100 pour cent des charges d’exploitation est pris en compte pour les mois de novembre et décembre 2020 et les mois de janvier, février, mars, avril, mai et juin 2021 et pour le mois de décembre 2021 et pour les mois de janvier et février 2022 . ;
 
-4. « entreprise unique » : toutes entreprises qui entretiennent entre elles au moins l’une des relations suivantes : Les entreprises qui entretiennent au moins une des relations visées au présent point à travers une ou plusieurs autres entreprises sont également considérées comme une entreprise unique.
+- « entreprise unique » : toutes entreprises qui entretiennent entre elles au moins l’une des relations suivantes : Les entreprises qui entretiennent au moins une des relations visées au présent point à travers une ou plusieurs autres entreprises sont également considérées comme une entreprise unique.
 
-1. une entreprise a la majorité des droits de vote des actionnaires ou associés d’une autre entreprise ;
+  - une entreprise a la majorité des droits de vote des actionnaires ou associés d’une autre entreprise ;
 
-2. une entreprise a le droit de nommer ou de révoquer la majorité des membres de l’organe d’administration, de direction ou de surveillance d’une autre entreprise ;
+  - une entreprise a le droit de nommer ou de révoquer la majorité des membres de l’organe d’administration, de direction ou de surveillance d’une autre entreprise ;
 
-3. une entreprise a le droit d’exercer une influence dominante sur une autre entreprise en vertu d’un contrat conclu avec celle-ci ou en vertu d’une clause des statuts de celle-ci ;
+  - une entreprise a le droit d’exercer une influence dominante sur une autre entreprise en vertu d’un contrat conclu avec celle-ci ou en vertu d’une clause des statuts de celle-ci ;
 
-4. une entreprise actionnaire ou associée d’une autre entreprise contrôle seule, en vertu d’un accord conclu avec d’autres actionnaires ou associés de cette autre entreprise, la majorité des droits de vote des actionnaires ou associés de celle-ci.
+  - une entreprise actionnaire ou associée d’une autre entreprise contrôle seule, en vertu d’un accord conclu avec d’autres actionnaires ou associés de cette autre entreprise, la majorité des droits de vote des actionnaires ou associés de celle-ci.
 
-5. « grande entreprise » : toute entreprise ne remplissant pas les critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- « grande entreprise » : toute entreprise ne remplissant pas les critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-6. « microentreprise » : toute entreprise qui occupe moins de dix personnes et dont le chiffre d’affaires annuel ou le total du bilan annuel n’excède pas 2 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- « microentreprise » : toute entreprise qui occupe moins de dix personnes et dont le chiffre d’affaires annuel ou le total du bilan annuel n’excède pas 2 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-7. « moyenne entreprise » : toute entreprise qui occupe moins de deux-cent cinquante personnes et dont le chiffre d’affaires annuel n’excède pas 50 000 000 euros ou dont le total du bilan annuel n’excède pas 43 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- « moyenne entreprise » : toute entreprise qui occupe moins de deux-cent cinquante personnes et dont le chiffre d’affaires annuel n’excède pas 50 000 000 euros ou dont le total du bilan annuel n’excède pas 43 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-8. « petite entreprise » : toute entreprise qui occupe moins de cinquante personnes et dont le chiffre d’affaires annuel ou le total du bilan annuel n’excède pas 10 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- « petite entreprise » : toute entreprise qui occupe moins de cinquante personnes et dont le chiffre d’affaires annuel ou le total du bilan annuel n’excède pas 10 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-9. « produits agricoles » : les produits énumérés à l’annexe I du traité sur le fonctionnement de l’Union européenne, à l’exclusion des produits de la pêche et de l’aquaculture qui relèvent du règlement (UE) 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant organisation commune des marchés dans le secteur des produits de la pêche et de l’aquaculture, modifiant les règlements (CE) n° 1184/2006 et (CE) n° 1224/2009 du Conseil et abrogeant le règlement (CE) n° 104/2000 du Conseil ;
+- « produits agricoles » : les produits énumérés à l’annexe I du traité sur le fonctionnement de l’Union européenne, à l’exclusion des produits de la pêche et de l’aquaculture qui relèvent du règlement (UE) 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant organisation commune des marchés dans le secteur des produits de la pêche et de l’aquaculture, modifiant les règlements (CE) n° 1184/2006 et (CE) n° 1224/2009 du Conseil et abrogeant le règlement (CE) n° 104/2000 du Conseil ;
 
-10. « transformation de produits agricoles » : toute opération portant sur un produit agricole qui aboutit à un produit qui est aussi un produit agricole, à l’exception des activités réalisées dans l’exploitation agricole qui sont nécessaires à la préparation d’un produit animal ou végétal destiné à la première vente.
+- « transformation de produits agricoles » : toute opération portant sur un produit agricole qui aboutit à un produit qui est aussi un produit agricole, à l’exception des activités réalisées dans l’exploitation agricole qui sont nécessaires à la préparation d’un produit animal ou végétal destiné à la première vente.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -97,49 +97,49 @@ Aux fins de la présente loi, on entend par :
 
 Le ministre peut octroyer une aide pour les mois de novembre et décembre 2020 et le mois de janvier 2021 pour autant que les conditions énoncées ci-après soient remplies :
 
-1. l’entreprise dispose d’une autorisation d’établissement délivrée en application de la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales pour l’exercice de l’activité visée à l’article 1 er ;
+- l’entreprise dispose d’une autorisation d’établissement délivrée en application de la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales pour l’exercice de l’activité visée à l’article 1 er ;
 
-2. elle exerçait l’activité visée à l’article 1 er au 31 décembre 2019 , et l’exerce durant le mois pour lequel l’aide est sollicitée. Cette dernière condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19.
+- elle exerçait l’activité visée à l’article 1 er au 31 décembre 2019 , et l’exerce durant le mois pour lequel l’aide est sollicitée. Cette dernière condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19.
 
-3. si elle emploie du personnel, la preuve de l’affiliation de l’entreprise au Centre commun de la sécurité sociale ;
+- si elle emploie du personnel, la preuve de l’affiliation de l’entreprise au Centre commun de la sécurité sociale ;
 
-4. son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ;
+- son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ;
 
-5. pour les entreprises créées au cours de l’année fiscale 2019 , le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 15 mars 2020 ;
+- pour les entreprises créées au cours de l’année fiscale 2019 , le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 15 mars 2020 ;
 
-6. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins quarante pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019 ;
+- l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins quarante pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019 ;
 
-7. l’aide ne doit pas dépasser le plafond prévu sous la section 3.12. de la communication n° 2020/C 91 I/01 du 20 mars 2020 de la Commission intitulée « Encadrement temporaire des mesures d’aide d’État visant à soutenir l’économie dans le contexte actuel de la flambée de COVID-19. » ;
+- l’aide ne doit pas dépasser le plafond prévu sous la section 3.12. de la communication n° 2020/C 91 I/01 du 20 mars 2020 de la Commission intitulée « Encadrement temporaire des mesures d’aide d’État visant à soutenir l’économie dans le contexte actuel de la flambée de COVID-19. » ;
 
 (2)
 
 Une aide pour les mois de novembre et décembre 2020 et le mois de janvier 2021 peut être octroyée aux entreprises qui ont débuté l’activité visée à l’article 1er entre le 1er janvier 2020 et le 31 décembre 2020, pour autant que les conditions énoncées ci-après soient remplies :
 
-1. l’entreprise remplit les conditions prévues au paragraphe 1 er , points 1° et 3° ;
+- l’entreprise remplit les conditions prévues au paragraphe 1 er , points 1° et 3° ;
 
-2. elle exerce l’activité visée à l’article 1 er durant le mois pour lequel l’aide est sollicitée. Cette condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
+- elle exerce l’activité visée à l’article 1 er durant le mois pour lequel l’aide est sollicitée. Cette condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
 
-3. le chiffre d’affaires mensuel moyen de l’entreprise pour la durée effective pendant laquelle elle a été en activité avant le 1 er janvier 2021 est au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
+- le chiffre d’affaires mensuel moyen de l’entreprise pour la durée effective pendant laquelle elle a été en activité avant le 1 er janvier 2021 est au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
 
-4. l’entreprise unique a subi au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité ;
+- l’entreprise unique a subi au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité ;
 
-5. L’aide respecte les seuils et conditions fixés par le règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne aux aides de minimis. ;
+- L’aide respecte les seuils et conditions fixés par le règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne aux aides de minimis. ;
 
 (3)
 
 L’intensité des aides visées aux paragraphes 1er et 2 s’élève à :
 
-1. 70 pour cent des coûts non couverts pour les moyennes et grandes entreprises ;
+- 70 pour cent des coûts non couverts pour les moyennes et grandes entreprises ;
 
-2. 90 pour cent des coûts non couverts pour les microentreprises et les petites entreprises ;
+- 90 pour cent des coûts non couverts pour les microentreprises et les petites entreprises ;
 
 Le montant de l’aide ne peut pas dépasser les montants absolus suivants par entreprise unique :
 
-1. 20 000 euros par mois pour une microentreprise ;
+- 20 000 euros par mois pour une microentreprise ;
 
-2. 100 000 euros par mois pour une petite entreprise ;
+- 100 000 euros par mois pour une petite entreprise ;
 
-3. 200 000 euros par mois pour une moyenne et une grande entreprise.
+- 200 000 euros par mois pour une moyenne et une grande entreprise.
 
 Si l’entreprise est en difficulté au 31 décembre 2019, l’aide totale ne peut pas dépasser 200 000 euros sur trois exercices fiscaux par entreprise unique et sous réserve de respecter le règlement (UE) n° 1407/2013 précité. ».
 
@@ -148,22 +148,22 @@ Si l’entreprise est en difficulté au 31 décembre 2019, l’aide totale ne pe
 
 Une aide peut être accordée les mois de février, mars, avril, mai et juin 2021 pour autant que les conditions énoncées ci-après soient remplies :
 
-1. l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
+- l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
 
-2. elle exerçait l’activité visée à l’article 1 er au 31 décembre 2020 et l’exerce durant le mois pour lequel l’aide est sollicitée. Cette dernière condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
+- elle exerçait l’activité visée à l’article 1 er au 31 décembre 2020 et l’exerce durant le mois pour lequel l’aide est sollicitée. Cette dernière condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
 
-3. son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ; pour les entreprises créées au cours de l’année fiscale 2019, le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 31 décembre 2019. Si l’entreprise a commencé ses activités après le 31 décembre 2019, le chiffre d’affaires mensuel moyen pour la durée effective pendant laquelle elle a été en activité avant le 1 er janvier 2021 doit être au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
+- son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ; pour les entreprises créées au cours de l’année fiscale 2019, le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 31 décembre 2019. Si l’entreprise a commencé ses activités après le 31 décembre 2019, le chiffre d’affaires mensuel moyen pour la durée effective pendant laquelle elle a été en activité avant le 1 er janvier 2021 doit être au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
 
-4. l’entreprise a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019 ou, si l’entreprise a commencé ses activités après le 31 décembre 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.
+- l’entreprise a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019 ou, si l’entreprise a commencé ses activités après le 31 décembre 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.
 
 <a id="art-4ter"></a>
 ## Art. 4ter.
 
 Une aide peut être octroyée pour les mois de février, mars, avril, mai et juin 2021 aux entreprises qui, au cours de cette période, ont fait l’objet d’une obligation de fermeture en application de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19, pour la durée de la fermeture, pour autant que les conditions suivantes soient remplies :
 
-1. l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° et les conditions prévues à l’article 4 bis , points 3° et 4° ;
+- l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° et les conditions prévues à l’article 4 bis , points 3° et 4° ;
 
-2. elle exerçait l’activité visée à l’article 1 er au 31 décembre 2020.
+- elle exerçait l’activité visée à l’article 1 er au 31 décembre 2020.
 
 Par dérogation à l’article 3, point 3°, le chiffre d’affaires réalisé au moyen d’activités de livraison ou de retrait au cours du mois pour lequel l’aide est demandée est neutralisé jusqu’à concurrence de 25 pour cent du chiffre d’affaires réalisé au cours du même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, du chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019 ou, si l’entreprise a commencé ses activités après le 31 décembre 2019, du chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.
 
@@ -183,80 +183,80 @@ Une aide peut être octroyée pour les mois de février et mars 2021 aux entrepr
 <a id="art-4quinquies"></a>
 ## Art. 4quinquies.
 
-Une aide peut être accordée les mois de juillet, août, septembre, octobre, novembre, décembre 2021, janvier et février 2022 aux entreprises visées à l’article 1er, point 1°, pour autant que les conditions énoncées ci-après soient remplies :
+Une aide peut être accordée les mois de juillet, août, septembre , octobre, novembre , décembre 2021, janvier et février 2022 aux entreprises visées à l’article 1er, point 1°, pour autant que les conditions énoncées ci-après soient remplies :
 
-1. l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
+- l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
 
-2. elle exerçait l’activité visée à l’article 1 er , point 1°, au 31 décembre 2019 et l’exerce durant le mois pour lequel l’aide est sollicitée. Cette dernière condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
+- elle exerçait l’activité visée à l’article 1 er , point 1°, au 31 décembre 2019 et l’exerce durant le mois pour lequel l’aide est sollicitée. Cette dernière condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
 
-3. son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ; pour les entreprises créées au cours de l’année fiscale 2019, le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 31 décembre 2019 ;
+- son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ; pour les entreprises créées au cours de l’année fiscale 2019, le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 31 décembre 2019 ;
 
-4. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019.
+- l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019.
 
 <a id="art-4sexies"></a>
 ## Art. 4sexies.
 
-Une aide peut être accordée les mois de juillet, août, septembre, octobre, novembre, décembre 2021 et janvier et février 2022 aux entreprises qui ont commencé l’activité visée à l’article 1er, point 1°, entre le 1er janvier 2020 et le 31 mai 2021 pour autant que les conditions énoncées ci-après soient remplies :
+Une aide peut être accordée les mois de juillet, août, septembre , octobre, novembre , décembre 2021 et janvier et février 2022 aux entreprises qui ont commencé l’activité visée à l’article 1er, point 1°, entre le 1er janvier 2020 et le 31 mai 2021 pour autant que les conditions énoncées ci-après soient remplies :
 
-1. l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
+- l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
 
-2. elle exerce cette activité durant le mois pour lequel l’aide est sollicitée. Cette condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie ;
+- elle exerce cette activité durant le mois pour lequel l’aide est sollicitée. Cette condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie ;
 
-3. son chiffre d’affaires mensuel moyen pour la durée effective pendant laquelle elle a été en activité avant le 1 er juin 2021 doit être au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
+- son chiffre d’affaires mensuel moyen pour la durée effective pendant laquelle elle a été en activité avant le 1 er juin 2021 doit être au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
 
-4. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.
+- l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.
 
 <a id="art-4septies"></a>
 ## Art. 4septies.
 
 Une aide peut être accordée les mois de janvier et février 2022 aux entreprises visées à l’article 1er, point 4°, pour autant que les conditions énoncées ci-après soient remplies :
 
-1. l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
+- l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
 
-2. elle exerçait l’activité visée à l’article 1 er , point 4°, au 31 décembre 2019 et l’exerce durant le mois pour lequel l’aide est sollicitée. Cette dernière condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
+- elle exerçait l’activité visée à l’article 1 er , point 4°, au 31 décembre 2019 et l’exerce durant le mois pour lequel l’aide est sollicitée. Cette dernière condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
 
-3. son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ; pour les entreprises créées au cours de l’année fiscale 2019, le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 31 décembre 2019 ;
+- son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ; pour les entreprises créées au cours de l’année fiscale 2019, le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 31 décembre 2019 ;
 
-4. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019.
+- l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019.
 
 <a id="art-4octies"></a>
 ## Art. 4octies.
 
 Une aide peut être accordée les mois de janvier et février 2022 aux entreprises qui ont commencé l’activité visée à l’article 1er, point 4°, entre le 1er janvier 2020 et le 31 mai 2021 pour autant que les conditions énoncées ci-après soient remplies :
 
-1. l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
+- l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
 
-2. elle exerce cette activité durant le mois pour lequel l’aide est sollicitée. Cette condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
+- elle exerce cette activité durant le mois pour lequel l’aide est sollicitée. Cette condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
 
-3. son chiffre d’affaires mensuel moyen pour la durée effective pendant laquelle elle a été en activité avant le 1 er juin 2021 doit être au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
+- son chiffre d’affaires mensuel moyen pour la durée effective pendant laquelle elle a été en activité avant le 1 er juin 2021 doit être au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
 
-4. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.
+- l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.
 
 <a id="art-4nonies"></a>
 ## Art. 4nonies.
 
 Une aide peut être accordée les mois de mars, avril, mai et juin 2022 aux entreprises qui exercent une activité visée au point 1° de l’annexe de la loi modifiée du 24 juillet 2020 visant à mettre en place un fonds de relance et de solidarité et un régime d’aides en faveur de certaines entreprises et portant modification de : 1° la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ; 2° la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020 ; 3° la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique, pour autant que les conditions énoncées ci-après soient remplies :
 
-1. l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
+- l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
 
-2. elle exerçait cette activité au 31 décembre 2019 et l’exerce durant le mois pour lequel l’aide est sollicitée. Cette dernière condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
+- elle exerçait cette activité au 31 décembre 2019 et l’exerce durant le mois pour lequel l’aide est sollicitée. Cette dernière condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
 
-3. son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ; pour les entreprises créées au cours de l’année fiscale 2019, le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 31 décembre 2019 ;
+- son chiffre d’affaires pour l’année fiscale 2019 est au moins égal ou supérieur à 15 000 euros ; pour les entreprises créées au cours de l’année fiscale 2019, le montant de 15 000 euros est adapté au prorata en fonction de la durée effective pendant laquelle l’entreprise a été en activité avant le 31 décembre 2019 ;
 
-4. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019.
+- l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au même mois de l’année fiscale 2019 ou, si l’entreprise n’a pas encore été en activité au cours du même mois de l’année fiscale 2019, par rapport au chiffre d’affaires mensuel moyen réalisé au cours de l’année fiscale 2019.
 
 <a id="art-4decies"></a>
 ## Art. 4decies.
 
 Une aide peut être accordée les mois de mars, avril, mai et juin 2022 aux entreprises qui ont commencé l’activité visée au point 1° de l’annexe de la loi modifiée du 24 juillet 2020 visant à mettre en place un fonds de relance et de solidarité et un régime d’aides en faveur de certaines entreprises et portant modification de : 1° la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ; 2° la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020 ; 3° la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique entre le 1er janvier 2020 et le 31 mai 2021 pour autant que les conditions énoncées ci-après soient remplies :
 
-1. l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
+- l’entreprise remplit les conditions prévues à l’article 4, paragraphe 1 er , points 1° et 3° ;
 
-2. elle exerce cette activité durant le mois pour lequel l’aide est sollicitée. Cette condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
+- elle exerce cette activité durant le mois pour lequel l’aide est sollicitée. Cette condition ne s’applique pas dans l’hypothèse où l’entreprise se trouve dans l’impossibilité d’exercer l’activité en vertu des dispositions de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
 
-3. son chiffre d’affaires mensuel moyen pour la durée effective pendant laquelle elle a été en activité avant le 1 er juin 2021 doit être au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
+- son chiffre d’affaires mensuel moyen pour la durée effective pendant laquelle elle a été en activité avant le 1 er juin 2021 doit être au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
 
-4. l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.
+- l’entreprise unique a subi, au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 40 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -265,9 +265,9 @@ Une aide peut être accordée les mois de mars, avril, mai et juin 2022 aux entr
 
 L’intensité de l’aide pour les mois et les entreprises visés à l’article 4bis s’élève à :
 
-1. soixante-dix pour cent des coûts non couverts pour les moyennes et grandes entreprises ;
+- soixante-dix pour cent des coûts non couverts pour les moyennes et grandes entreprises ;
 
-2. quatre-vingt-dix pour cent des coûts non couverts pour les microentreprises et les petites entreprises.
+- quatre-vingt-dix pour cent des coûts non couverts pour les microentreprises et les petites entreprises.
 
 L’intensité de l’aide pour les mois et les entreprises visés aux articles 4ter et 4quater s’élève à 100 pour cent des coûts non couverts.
 
@@ -275,11 +275,11 @@ L’intensité de l’aide pour les mois et les entreprises visés aux articles 
 
 Le montant de l’aide ne peut pas dépasser les montants absolus suivants par entreprise unique :
 
-1. 30 000 euros par mois pour une microentreprise ;
+- 30 000 euros par mois pour une microentreprise ;
 
-2. 150 000 euros par mois pour une petite entreprise ;
+- 150 000 euros par mois pour une petite entreprise ;
 
-3. 300 000 euros par mois pour une moyenne et une grande entreprise.
+- 300 000 euros par mois pour une moyenne et une grande entreprise.
 
 (3)
 
@@ -294,19 +294,19 @@ Si l’entreprise est en difficulté au 31 décembre 2019, l’aide totale ne pe
 
 L’intensité de l’aide pour les mois et les entreprises visés aux articles 4quinquies, 4sexies, 4septies , 4octies, 4nonies et 4decies s’élève à :
 
-1. 70 pour cent des coûts non couverts pour les moyennes et grandes entreprises ;
+- 70 pour cent des coûts non couverts pour les moyennes et grandes entreprises ;
 
-2. 90 pour cent des coûts non couverts pour les microentreprises et les petites entreprises.
+- 90 pour cent des coûts non couverts pour les microentreprises et les petites entreprises.
 
 (2)
 
 Le montant de l’aide ne peut pas dépasser les montants absolus suivants par entreprise unique :
 
-1. 20 000 euros par mois pour une microentreprise ;
+- 20 000 euros par mois pour une microentreprise ;
 
-2. 100 000 euros par mois pour une petite entreprise ;
+- 100 000 euros par mois pour une petite entreprise ;
 
-3. 200 000 euros par mois pour une moyenne et une grande entreprise.
+- 200 000 euros par mois pour une moyenne et une grande entreprise.
 
 (3)
 
@@ -331,29 +331,29 @@ Une demande doit être soumise au ministre sous forme écrite pour chaque mois p
 
 Les demandes doivent parvenir au ministre au plus tard :
 
-1. le 15 septembre 2021 en ce qui concerne les aides pour les mois de novembre 2020 à juin 2021 ;
+- le 15 septembre 2021 en ce qui concerne les aides pour les mois de novembre 2020 à juin 2021 ;
 
-2. le 15 mai 2022 en ce qui concerne les aides pour les mois de juillet à décembre 2021, et les mois de janvier et février 2022 ;
+- le 15 mai 2022 en ce qui concerne les aides pour les mois de juillet à décembre 2021, et les mois de janvier et février 2022 ;
 
-3. le 15 juin 2022 en ce qui concerne les aides pour les mois de mars, avril, mai et juin 2022.
+- le 15 juin 2022 en ce qui concerne les aides pour les mois de mars, avril, mai et juin 2022.
 
 Les demandes doivent contenir :
 
-1. le nom de l’entreprise requérante et les éventuelles relations formant une entreprise unique ;
+- le nom de l’entreprise requérante et les éventuelles relations formant une entreprise unique ;
 
-2. la taille de l’entreprise, y compris les pièces justificatives, conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- la taille de l’entreprise, y compris les pièces justificatives, conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-3. le bilan de l’exercice fiscal 2019 déposé au registre de commerce et des sociétés ;
+- le bilan de l’exercice fiscal 2019 déposé au registre de commerce et des sociétés ;
 
-4. le compte de profits et pertes de l’exercice fiscal 2019 et le compte de profits et pertes pour le mois relatif à la demande et, pour les entreprises créées après le 31 décembre 2019, le compte de profits et pertes pour les mois pour lesquels elles ont été en activité ;
+- le compte de profits et pertes de l’exercice fiscal 2019 et le compte de profits et pertes pour le mois relatif à la demande et, pour les entreprises créées après le 31 décembre 2019, le compte de profits et pertes pour les mois pour lesquels elles ont été en activité ;
 
-5. la déclaration de la taxe sur la valeur ajoutée pour 2019 ainsi que la déclaration de la taxe sur la valeur ajoutée pour le mois correspondant de l’exercice fiscal 2019 ou, à défaut de déclaration mensuelle, la déclaration trimestrielle de la taxe sur la valeur ajoutée ;
+- la déclaration de la taxe sur la valeur ajoutée pour 2019 ainsi que la déclaration de la taxe sur la valeur ajoutée pour le mois correspondant de l’exercice fiscal 2019 ou, à défaut de déclaration mensuelle, la déclaration trimestrielle de la taxe sur la valeur ajoutée ;
 
-6. une déclaration renseignant le total des subventions destinées à l’indemnisation des chômeurs partiels perçues pour le mois relatif à la demande et le décompte des subventions destinées à l’indemnisation des chômeurs partiels du dernier mois disponible ;
+- une déclaration renseignant le total des subventions destinées à l’indemnisation des chômeurs partiels perçues pour le mois relatif à la demande et le décompte des subventions destinées à l’indemnisation des chômeurs partiels du dernier mois disponible ;
 
-7. une déclaration attestant l’absence de condamnation visée à l’article 2, paragraphe 3, et l’absence des causes d’exclusion visées à l’article 2, paragraphe 1 er ;
+- une déclaration attestant l’absence de condamnation visée à l’article 2, paragraphe 3, et l’absence des causes d’exclusion visées à l’article 2, paragraphe 1 er ;
 
-8. une déclaration, le cas échéant, des autres aides de minimis reçues au cours des deux exercices fiscaux précédents et de l’exercice fiscal en cours.
+- une déclaration, le cas échéant, des autres aides de minimis reçues au cours des deux exercices fiscaux précédents et de l’exercice fiscal en cours.
 
 La demande d’aide peut contenir toute autre pièce que l’entreprise requérante estime utile afin de permettre au ministre d’apprécier le bien-fondé de sa demande.
 
@@ -372,9 +372,9 @@ Après l’octroi de l’aide et dès que possible, l’entreprise transmet au m
 
 L’aide prend la forme d’une subvention en capital mensuelle et doit être octroyée avant :
 
-1. le 31 octobre 2021 en ce qui concerne les aides pour les mois de novembre 2020 à juin 2021 ;
+- le 31 octobre 2021 en ce qui concerne les aides pour les mois de novembre 2020 à juin 2021 ;
 
-2. le 30 juin 2022 en ce qui concerne les aides pour les mois de juillet 2021 à juin 2022.
+- le 30 juin 2022 en ce qui concerne les aides pour les mois de juillet 2021 à juin 2022.
 
 Elle est exempte d’impôts.
 
@@ -399,9 +399,9 @@ L’aide prévue par la présente loi est cumulable avec des aides de minimis po
 
 L’aide prévue par la présente loi ne peut pas être cumulée pour le même mois et pour les mêmes coûts avec :
 
-1. l’aide prévue par la loi du 24 juillet 2020 visant à mettre en place un fonds de relance et de solidarité et un régime d’aides en faveur de certaines entreprises et portant modification de : 1° la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ; 2° la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020 ; 3° la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique ;
+- l’aide prévue par la loi du 24 juillet 2020 visant à mettre en place un fonds de relance et de solidarité et un régime d’aides en faveur de certaines entreprises et portant modification de : 1° la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ; 2° la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020 ; 3° la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique ;
 
-2. l’aide prévue par la loi du 19 décembre 2020 ayant pour objet la mise en place d’une nouvelle aide de relance.
+- l’aide prévue par la loi du 19 décembre 2020 ayant pour objet la mise en place d’une nouvelle aide de relance.
 
 (3)
 

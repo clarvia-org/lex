@@ -63,9 +63,9 @@ L'article 8 du règlement grand-ducal modifié du 19 février 1974 portant exéc
 
 Les modifications suivantes sont apportées au règlement grand-ducal du 30 janvier 2002 déterminant les modalités du programme de traitement de la toxicomanie par substitution:
 
-1. L'article 5 est complété par un alinéa 2, rédigé comme suit: Le candidat est rendu attentif au fait que l'admission au programme comporte son accord avec la communication de données personnelles à des fins de règlement de frais en rapport avec la délivrance du produit de substitution.
+- L'article 5 est complété par un alinéa 2, rédigé comme suit: Le candidat est rendu attentif au fait que l'admission au programme comporte son accord avec la communication de données personnelles à des fins de règlement de frais en rapport avec la délivrance du produit de substitution.
 
-2. Un article 15bis nouveau, rédigé comme suit, est intercalé entre les articles 15 et 16: Art. 15bis: L'Union des caisses de maladie est chargée de faire l'avance aux pharmaciens de leurs prestations faites en vertu du présent règlement, comportant le prix du médicament ou de la substance et les honoraires de dispensation. L'Etat rembourse à l'Union des caisses de maladie le montant des prestations effectivement avancées.
+- Un article 15bis nouveau, rédigé comme suit, est intercalé entre les articles 15 et 16: Art. 15bis: L'Union des caisses de maladie est chargée de faire l'avance aux pharmaciens de leurs prestations faites en vertu du présent règlement, comportant le prix du médicament ou de la substance et les honoraires de dispensation. L'Etat rembourse à l'Union des caisses de maladie le montant des prestations effectivement avancées.
 
 <a id="art-7"></a>
 ## Art. 7.

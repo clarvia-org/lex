@@ -35,47 +35,47 @@ La présente loi a pour objet d'assurer la protection de la santé des travaille
 
 La réalisation de cet objectif incombe:
 
-1. aux services de santé au travail d'entreprise,
+- aux services de santé au travail d'entreprise,
 
-2. aux services de santé au travail interentreprises,
+- aux services de santé au travail interentreprises,
 
-3. au service de santé au travail multisectoriel.
+- au service de santé au travail multisectoriel.
 
 (3)
 
 La présente loi n'est pas applicable:
 
-1. aux travailleurs qui bénéficient de la protection visée à l'article 32 paragraphe 2 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat,
+- aux travailleurs qui bénéficient de la protection visée à l'article 32 paragraphe 2 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat,
 
-2. aux travailleurs bénéficiant de la protection visée à l'article 36 paragraphe 2 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux
+- aux travailleurs bénéficiant de la protection visée à l'article 36 paragraphe 2 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux
 
-3. aux travailleurs des institutions européennes établies à Luxembourg bénéficiant de la protection garantie par leur statut,
+- aux travailleurs des institutions européennes établies à Luxembourg bénéficiant de la protection garantie par leur statut,
 
-4. aux travailleurs bénéficiant de la protection visée à l'article 76 de la loi du 9 novembre 1990 ayant pour objet la création d'un registre public maritime luxembourgeois,
+- aux travailleurs bénéficiant de la protection visée à l'article 76 de la loi du 9 novembre 1990 ayant pour objet la création d'un registre public maritime luxembourgeois,
 
-5. aux pilotes de ligne.
+- aux pilotes de ligne.
 
 (4)
 
 Sont considérés comme travailleurs au sens de la présente loi, outre les salariés tels que définis à l'article 1er de la loi modifiée du 24 mai 1989 sur le contrat de travail et ceux définis à la loi du 19 mai 1994 portant réglementation du travail intérimaire et du prêt temporaire de main-d’œuvre:
 
-1. les stagiaires;
+- les stagiaires;
 
-2. les apprentis;
+- les apprentis;
 
-3. les chômeurs indemnisés bénéficiant d'une mise au travail;
+- les chômeurs indemnisés bénéficiant d'une mise au travail;
 
-4. les demandeurs d'emploi bénéficiant d'une formation-placement;
+- les demandeurs d'emploi bénéficiant d'une formation-placement;
 
-5. les jeunes demandeurs d'emploi sous contrat d'auxiliaire temporaire auprès de l'Etat, des communes, des syndicats de communes, des établissements publics, des établissements d'utilité publique ou de tout autre organisme, institution, association ou groupement de personnes poursuivant un but lucratif;
+- les jeunes demandeurs d'emploi sous contrat d'auxiliaire temporaire auprès de l'Etat, des communes, des syndicats de communes, des établissements publics, des établissements d'utilité publique ou de tout autre organisme, institution, association ou groupement de personnes poursuivant un but lucratif;
 
-6. les jeunes demandeurs d'emploi sous contrat d'auxiliaire temporaire auprès des employeurs du secteur privé;
+- les jeunes demandeurs d'emploi sous contrat d'auxiliaire temporaire auprès des employeurs du secteur privé;
 
-7. les jeunes demandeurs d'emploi bénéficiant d'un stage d'insertion;
+- les jeunes demandeurs d'emploi bénéficiant d'un stage d'insertion;
 
-8. les demandeurs d'emploi bénéficiant d'un stage de réinsertion professionnelle;
+- les demandeurs d'emploi bénéficiant d'un stage de réinsertion professionnelle;
 
-9. les bénéficiaires de l'indemnité d'insertion soumis aux activités d'insertion professionnelle prévues à l'article 10 de la loi du 29 avril 1999 portant création d'un droit à un revenu minimum garanti.
+- les bénéficiaires de l'indemnité d'insertion soumis aux activités d'insertion professionnelle prévues à l'article 10 de la loi du 29 avril 1999 portant création d'un droit à un revenu minimum garanti.
 
 (5)
 
@@ -93,36 +93,36 @@ Tout poste de travail occupé par un travailleur visé à l'article 1er est soum
 
 La santé au travail, la prévention des maladies professionnelles ainsi que la protection sanitaire sont organisées selon les modalités suivantes:
 
-1. Tout employeur occupant régulièrement plus de 5.000 travailleurs est tenu d'organiser à l'intérieur de son entreprise un service de santé au travail. Cette exigence est étendue à tout employeur occupant régulièrement plus de 3.000 travailleurs dont au moins 100 travailleurs occupés à un poste à risques visé à l'article 17-1 ci-après.
+- Tout employeur occupant régulièrement plus de 5.000 travailleurs est tenu d'organiser à l'intérieur de son entreprise un service de santé au travail. Cette exigence est étendue à tout employeur occupant régulièrement plus de 3.000 travailleurs dont au moins 100 travailleurs occupés à un poste à risques visé à l'article 17-1 ci-après.
 
-2. Tout employeur, non visé au paragraphe (1) qui précède, dispose des trois options suivantes, parmi lesquelles il doit choisir:
+- Tout employeur, non visé au paragraphe (1) qui précède, dispose des trois options suivantes, parmi lesquelles il doit choisir:
 
-- soit d'organiser à l'intérieur de son entreprise un service de santé au travail,
+  - soit d'organiser à l'intérieur de son entreprise un service de santé au travail,
 
-- soit de se réunir avec d'autres employeurs en une association d'entreprises organisant un service interentreprises de santé au travail pour l'ensemble des membres de l'association,
+  - soit de se réunir avec d'autres employeurs en une association d'entreprises organisant un service interentreprises de santé au travail pour l'ensemble des membres de l'association,
 
-- soit de recourir au service national de santé au travail.
+  - soit de recourir au service national de santé au travail.
 
 <a id="art-4-20060901"></a>
 ## Art. 4.
 
 Les services sont chargés, chacun auprès de l'employeur pour lequel il a compétence:
 
-1. d'identifier les risques d'atteinte à la santé sur les lieux de travail, d'aider à éviter ces risques et notamment à les combattre à la source, d'évaluer les risques qui ne peuvent pas être évités;
+- d'identifier les risques d'atteinte à la santé sur les lieux de travail, d'aider à éviter ces risques et notamment à les combattre à la source, d'évaluer les risques qui ne peuvent pas être évités;
 
-2. de surveiller les facteurs du milieu de travail susceptibles d'affecter la santé du travailleur;
+- de surveiller les facteurs du milieu de travail susceptibles d'affecter la santé du travailleur;
 
-3. de donner des conseils sur la planification des postes de travail, notamment quant à l'aménagement des lieux de travail et le choix des équipements de travail, ainsi que quant à l'utilisation de substances ou préparations chimiques pouvant constituer un risque pour la santé des travailleurs;
+- de donner des conseils sur la planification des postes de travail, notamment quant à l'aménagement des lieux de travail et le choix des équipements de travail, ainsi que quant à l'utilisation de substances ou préparations chimiques pouvant constituer un risque pour la santé des travailleurs;
 
-4. de promouvoir l'adaptation du travail à l'homme, en particulier en ce qui concerne la conception des postes de travail et le choix des méthodes de travail et de production, en vue notamment d'atténuer le travail monotone et le travail cadencé et d'en réduire les effets sur la santé;
+- de promouvoir l'adaptation du travail à l'homme, en particulier en ce qui concerne la conception des postes de travail et le choix des méthodes de travail et de production, en vue notamment d'atténuer le travail monotone et le travail cadencé et d'en réduire les effets sur la santé;
 
-5. de surveiller la santé des travailleurs en relation avec le travail et d'effectuer, à cet effet, les examens médicaux prévus par la présente loi;
+- de surveiller la santé des travailleurs en relation avec le travail et d'effectuer, à cet effet, les examens médicaux prévus par la présente loi;
 
-6. de donner à l'employeur et au salarié des conseils dans les domaines de l'hygiène, de l'ergonomie, de l'éducation à la santé et de la réadaptation professionnelle;
+- de donner à l'employeur et au salarié des conseils dans les domaines de l'hygiène, de l'ergonomie, de l'éducation à la santé et de la réadaptation professionnelle;
 
-7. de coopérer avec le comité mixte ou, à défaut, avec la délégation du personnel;
+- de coopérer avec le comité mixte ou, à défaut, avec la délégation du personnel;
 
-8. d'organiser les premiers secours.
+- d'organiser les premiers secours.
 
 La mission des services est essentiellement de nature préventive.
 
@@ -229,11 +229,11 @@ Toutes les autres missions dont question à l’article 4 ci-dessus sont assumé
 
 Il est créé une division de la santé au travail auprès de la direction de la santé. A cet effet, les modifications suivantes sont apportées à la loi modifiée du 21 novembre 1980 portant organisation de la direction de la santé:
 
-1. A l'article 3 il est ajouté un nouveau tiret rédigé comme suit: division de la santé au travail
+- A l'article 3 il est ajouté un nouveau tiret rédigé comme suit: division de la santé au travail
 
-2. A l'article 4 il est ajouté un nouveau paragraphe 8 rédigé comme suit: 8) La division de la santé au travail assure la coordination et le contrôle des services de santé au travail en ce qui concerne leur organisation et leur fonctionnement. La division de la santé au travail remplit sa mission en étroite collaboration avec l'inspection du travail et des mines qui peut requérir son avis dans le cadre de la loi du 9 mai 1990 relative aux établissements dangereux, insalubres ou incommodes, et la consulter en ce qui concerne la santé au travail. Elle examine, sur la base de données techniques recueillies par l'inspection du travail et des mines, l'impact des nuisances éventuelles sur la santé des travailleurs et informe les médecins du travail responsables de l'entreprise. Elle assure conjointement avec l'inspection du travail et des mines, chacune en ce qui la concerne, l'application des directives qui en découlent.
+- A l'article 4 il est ajouté un nouveau paragraphe 8 rédigé comme suit: 8) La division de la santé au travail assure la coordination et le contrôle des services de santé au travail en ce qui concerne leur organisation et leur fonctionnement. La division de la santé au travail remplit sa mission en étroite collaboration avec l'inspection du travail et des mines qui peut requérir son avis dans le cadre de la loi du 9 mai 1990 relative aux établissements dangereux, insalubres ou incommodes, et la consulter en ce qui concerne la santé au travail. Elle examine, sur la base de données techniques recueillies par l'inspection du travail et des mines, l'impact des nuisances éventuelles sur la santé des travailleurs et informe les médecins du travail responsables de l'entreprise. Elle assure conjointement avec l'inspection du travail et des mines, chacune en ce qui la concerne, l'application des directives qui en découlent.
 
-3. Le 3e tiret sous a) du paragraphe 1) de l'article 14 est remplacé par le texte suivant: cinq médecins chefs de division. Le deuxième paragraphe sous b) de l'article 14 est modifié comme suit: Le nombre total des emplois de la carrière supérieure ne pourra dépasser: dix-huit unités pour les médecins . . .
+- Le 3e tiret sous a) du paragraphe 1) de l'article 14 est remplacé par le texte suivant: cinq médecins chefs de division. Le deuxième paragraphe sous b) de l'article 14 est modifié comme suit: Le nombre total des emplois de la carrière supérieure ne pourra dépasser: dix-huit unités pour les médecins . . .
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -264,15 +264,15 @@ Le conseil supérieur est appelé à donner, soit d'office, soit à la demande d
 
 Ces avis portent notamment sur:
 
-1. les priorités d'intervention en matière de santé des travailleurs suivant les besoins spécifiques de différentes branches de l'économie et des particularités des postes de travail. Dans ce cadre il propose des règles de périodicité selon lesquelles les examens médicaux des travailleurs sont effectués;
+- les priorités d'intervention en matière de santé des travailleurs suivant les besoins spécifiques de différentes branches de l'économie et des particularités des postes de travail. Dans ce cadre il propose des règles de périodicité selon lesquelles les examens médicaux des travailleurs sont effectués;
 
-2. l'efficacité des interventions dans le domaine de la santé au travail;
+- l'efficacité des interventions dans le domaine de la santé au travail;
 
-3. les programmes d'information et, le cas échéant, de formation dans le domaine de la santé et de l'hygiène au travail ainsi que de l'ergonomie propres aux différentes branches de l'économie, à l'intention des employeurs et des travailleurs;
+- les programmes d'information et, le cas échéant, de formation dans le domaine de la santé et de l'hygiène au travail ainsi que de l'ergonomie propres aux différentes branches de l'économie, à l'intention des employeurs et des travailleurs;
 
-4. la liste des normes d'exposition aux nuisances;
+- la liste des normes d'exposition aux nuisances;
 
-5. le projet de budget pour l'exercice à venir.
+- le projet de budget pour l'exercice à venir.
 
 Le conseil supérieur coopère avec tout organisme poursuivant des objectifs de sécurité, de santé et d'hygiène au travail.
 
@@ -303,11 +303,11 @@ La fonction de médecin du travail est incompatible avec l'exercice libéral de 
 
 Le médecin du travail, pendant tout le temps qu'une activité professionnelle s'y exerce:
 
-1. a libre accès à tous les lieux de travail et aux installations fournies par l'entreprise aux travailleurs;
+- a libre accès à tous les lieux de travail et aux installations fournies par l'entreprise aux travailleurs;
 
-2. a accès aux informations ayant trait aux procédés, normes de travail, produits, matières et substances qui sont utilisés ou que l'on envisage d'utiliser, sous réserve que soit préservé le secret de toute information confidentielle qu'il pourrait recueillir;
+- a accès aux informations ayant trait aux procédés, normes de travail, produits, matières et substances qui sont utilisés ou que l'on envisage d'utiliser, sous réserve que soit préservé le secret de toute information confidentielle qu'il pourrait recueillir;
 
-3. peut prélever, aux fins d'analyse, des échantillons de produits, de matières ou de substances qui sont utilisés.
+- peut prélever, aux fins d'analyse, des échantillons de produits, de matières ou de substances qui sont utilisés.
 
 Le médecin du travail est consulté au sujet de tout changement envisagé concernant les procédés ou les conditions de travail susceptibles d'avoir des répercussions sur la santé ou la sécurité des travailleurs.
 
@@ -351,15 +351,15 @@ Si un travailleur change d'employeur, le médecin du travail compétent en vertu
 
 Sont soumis obligatoirement à des examens médicaux périodiques les travailleurs:
 
-1. âgés de moins de 21 ans;
+- âgés de moins de 21 ans;
 
-2. occupant un poste à risques visé à l'article 17-1 ci-après;
+- occupant un poste à risques visé à l'article 17-1 ci-après;
 
-3. occupant un poste de sécurité;
+- occupant un poste de sécurité;
 
-4. pour lesquels, lors de l'examen d'embauchage, le médecin du travail a jugé utile de procéder régulièrement à un examen médical.
+- pour lesquels, lors de l'examen d'embauchage, le médecin du travail a jugé utile de procéder régulièrement à un examen médical.
 
-5. les travailleurs de nuit tels que définis dans la loi modifiée du 9 décembre 1970 portant réduction et réglementation de la durée de travail des ouvriers occupés dans les secteurs public et privé de l’économie ainsi que dans la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de services des employés privés.
+- les travailleurs de nuit tels que définis dans la loi modifiée du 9 décembre 1970 portant réduction et réglementation de la durée de travail des ouvriers occupés dans les secteurs public et privé de l’économie ainsi que dans la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de services des employés privés.
 
 En cas de besoin cette liste peut être complétée par règlement grand-ducal à prendre sur avis du Conseil d'Etat et après consultation de la Commission de travail de la Chambre des Députés.
 
@@ -382,9 +382,9 @@ Est considéré comme poste à risques
 
 Sont considérés comme postes dont le travail comporte des risques particuliers ou des tensions physiques ou mentales importantes:
 
-1. les activités qui aggravent la diminution de vigilance du travailleur de nuit tels que les travaux qui impliquent la mise en œuvre de substances neurotoxiques, dans l’utilisation de substances organiques volatiles et des produits qui en contiennent, les tâches accomplies dans des conditions qui accroissent la monotonie et qui conduisent à l’hypovigilance, dans des tâches qui sollicitent une attention soutenue, ou qui sont répétitives ou peu variées;
+- les activités qui aggravent la diminution de vigilance du travailleur de nuit tels que les travaux qui impliquent la mise en œuvre de substances neurotoxiques, dans l’utilisation de substances organiques volatiles et des produits qui en contiennent, les tâches accomplies dans des conditions qui accroissent la monotonie et qui conduisent à l’hypovigilance, dans des tâches qui sollicitent une attention soutenue, ou qui sont répétitives ou peu variées;
 
-2. les activités qui exigent une augmentation de l’activation biologique du travailleur de nuit tels que les travaux exigeant des efforts importants et provoquant une charge de travail importante et les travaux exécutés dans une ambiance de chaud ou froid excessif.
+- les activités qui exigent une augmentation de l’activation biologique du travailleur de nuit tels que les travaux exigeant des efforts importants et provoquant une charge de travail importante et les travaux exécutés dans une ambiance de chaud ou froid excessif.
 
 (3)
 
@@ -486,17 +486,17 @@ Les conclusions des examens d'embauchage ne sont pas sujettes à recours.
 
 Sont punis d'un emprisonnement de 8 jours à 6 mois et d'une amende de 2.501.- à 1.000.000.- francs ou d'une de ces peines seulement:
 
-1. tout employeur qui occupe un travailleur qui ne s'est pas soumis à un des examens médicaux prévus aux articles 15 à 22 de la présente loi ou aux règlements grand-ducaux pris en leur exécution;
+- tout employeur qui occupe un travailleur qui ne s'est pas soumis à un des examens médicaux prévus aux articles 15 à 22 de la présente loi ou aux règlements grand-ducaux pris en leur exécution;
 
-2. tout employeur qui occupe un travailleur visé sous l'article 22 malgré l'interdiction qui lui en est faite en vertu de cet article;
+- tout employeur qui occupe un travailleur visé sous l'article 22 malgré l'interdiction qui lui en est faite en vertu de cet article;
 
-3. tout employeur dont le service n'est pas conforme aux exigences prévues à l'article 3 de la présente loi, et notamment tout employeur qui, bien qu'étant dans les conditions prévues à l'article 3, n'organise pas un service;
+- tout employeur dont le service n'est pas conforme aux exigences prévues à l'article 3 de la présente loi, et notamment tout employeur qui, bien qu'étant dans les conditions prévues à l'article 3, n'organise pas un service;
 
-4. t out employeur, membre d'une association d'entreprises, dont le service n'est pas conforme aux exigences prévues à l'article 3 de la présente loi;
+- t out employeur, membre d'une association d'entreprises, dont le service n'est pas conforme aux exigences prévues à l'article 3 de la présente loi;
 
-5. tout employeur qui refuse ou fait refuser au médecin du travail l'exécution des mesures inscrites à l'article 13;
+- tout employeur qui refuse ou fait refuser au médecin du travail l'exécution des mesures inscrites à l'article 13;
 
-6. tout employeur ou tout médecin du travail qui contrevient à l'article 17, dernier alinéa.
+- tout employeur ou tout médecin du travail qui contrevient à l'article 17, dernier alinéa.
 
 Les dispositions du livre 1er du code pénal et celles de la loi modifiée du 18 juin 1879 portant attribution aux cours et tribunaux de l'appréciation des circonstances atténuantes, sont applicables.
 

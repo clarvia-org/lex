@@ -78,21 +78,21 @@ Dans l'exercice de leurs missions, les experts peuvent se faire assister à leur
 
 Après avoir examiné les banques de données historiques inventoriées, les experts procèdent à leur classement en distinguant entre:
 
-1. les banques de données historiques appartenant à des services de renseignement étrangers qui restent la propriété juridique des États étrangers ou à des organisations internationales ou supranationales avec lesquelles le Luxembourg entretient des relations diplomatiques ou poursuit des objectifs communs sur base d'accords ou de conventions bilatérales respectivement multilatérales et qui sont soumises aux règles y afférentes;
+- les banques de données historiques appartenant à des services de renseignement étrangers qui restent la propriété juridique des États étrangers ou à des organisations internationales ou supranationales avec lesquelles le Luxembourg entretient des relations diplomatiques ou poursuit des objectifs communs sur base d'accords ou de conventions bilatérales respectivement multilatérales et qui sont soumises aux règles y afférentes;
 
-2. les banques de données historiques non classifiées et les banques de données historiques classifiées pouvant être déclassifiées conformément à l'article 5 de la loi du 15 juin 2004 relative à la classification des pièces et aux habilitations de sécurité et auxquels les experts attribuent un intérêt historique national;
+- les banques de données historiques non classifiées et les banques de données historiques classifiées pouvant être déclassifiées conformément à l'article 5 de la loi du 15 juin 2004 relative à la classification des pièces et aux habilitations de sécurité et auxquels les experts attribuent un intérêt historique national;
 
-3. les banques de données historiques non classifiées et les banques de données historiques classifiées pouvant être déclassifiées conformément à l'article 5 de la loi du 15 juin 2004 précitée et auxquels les experts n'attribuent pas d'intérêt historique national, et qui,
+- les banques de données historiques non classifiées et les banques de données historiques classifiées pouvant être déclassifiées conformément à l'article 5 de la loi du 15 juin 2004 précitée et auxquels les experts n'attribuent pas d'intérêt historique national, et qui,
 
-1. demeurent nécessaires à l'accomplissement des missions du Service de renseignement de l'État, ou qui
+  - demeurent nécessaires à l'accomplissement des missions du Service de renseignement de l'État, ou qui
 
-2. ne demeurent plus nécessaires à l'accomplissement des missions du Service de renseignement de l'État;
+  - ne demeurent plus nécessaires à l'accomplissement des missions du Service de renseignement de l'État;
 
-4. les banques de données historiques classifiées ne pouvant pas être déclassifiées conformément à l'article 5 de la loi du 15 juin 2004 précitée, et qui,
+- les banques de données historiques classifiées ne pouvant pas être déclassifiées conformément à l'article 5 de la loi du 15 juin 2004 précitée, et qui,
 
-1. demeurent nécessaires à l'accomplissement des missions du Service de renseignement de l'État, ou qui
+  - demeurent nécessaires à l'accomplissement des missions du Service de renseignement de l'État, ou qui
 
-2. ne demeurent plus nécessaires à l'accomplissement des missions du Service de renseignement de l'État et auxquels les experts n'attribuent pas d'intérêt historique national.
+  - ne demeurent plus nécessaires à l'accomplissement des missions du Service de renseignement de l'État et auxquels les experts n'attribuent pas d'intérêt historique national.
 
 (7)
 
@@ -147,11 +147,11 @@ Jusqu'à la date de signature du rapport final des experts, les banques de donn�
 
 Endéans les six mois qui suivent la date de signature du rapport final des experts le Service de renseignement de l'État doit, sous la responsabilité de son directeur, procéder à l'affectation définitive des banques de données historiques recensées par les experts en adoptant les mesures suivantes:
 
-1. les banques de données historiques recensées au sens de l'article 3, paragraphe 6, point 2, sont versées définitivement aux Archives nationales tel que prévu à l'article 7 de la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l'État et sous réserve des dispositions du règlement (UE) n° 2016/679 . Les Archives nationales deviennent responsables de traitement de ces données à partir de la date de versement définitif ;
+- les banques de données historiques recensées au sens de l'article 3, paragraphe 6, point 2, sont versées définitivement aux Archives nationales tel que prévu à l'article 7 de la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l'État et sous réserve des dispositions du règlement (UE) n° 2016/679 . Les Archives nationales deviennent responsables de traitement de ces données à partir de la date de versement définitif ;
 
-2. les banques de données historiques recensées au sens de l'article 3, paragraphe 6, point 3, lettre a), de l'article 3, paragraphe 6, point 4, lettre a) et de l'article 3, paragraphe 6, point 1 sont versées aux archives actuelles du Service de renseignement de l'État. Le Service de renseignement de l'État reste propriétaire et responsable de traitement de ces données classifiées;
+- les banques de données historiques recensées au sens de l'article 3, paragraphe 6, point 3, lettre a), de l'article 3, paragraphe 6, point 4, lettre a) et de l'article 3, paragraphe 6, point 1 sont versées aux archives actuelles du Service de renseignement de l'État. Le Service de renseignement de l'État reste propriétaire et responsable de traitement de ces données classifiées;
 
-3. les banques de données historiques recensées au sens de l'article 3, paragraphe 6, point 3, lettre b) et de l'article 3, paragraphe 6, point 4, lettre b) sont détruites par le Service de renseignement de l'État après avoir établi un certificat de destruction signé par un membre des Archives nationales et un membre du Service de renseignement de l'État.
+- les banques de données historiques recensées au sens de l'article 3, paragraphe 6, point 3, lettre b) et de l'article 3, paragraphe 6, point 4, lettre b) sont détruites par le Service de renseignement de l'État après avoir établi un certificat de destruction signé par un membre des Archives nationales et un membre du Service de renseignement de l'État.
 
 <a id="art-5"></a>
 ## Art. 5.

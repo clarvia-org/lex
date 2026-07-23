@@ -35,13 +35,13 @@ Les jetons de présence revenant aux présidents, secrétaires et secrétaires a
 
 Pour l'ensemble des opérations antérieures au jour des élections, les indemnités suivantes sont allouées:
 
-1. Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des circonscriptions ont droit à une indemnité forfaitaire de 30 euros et les présidents, secrétaires et secrétaires adjoints des bureaux principaux des autres communes à une indemnité forfaitaire de 15 euros.
+- Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des circonscriptions ont droit à une indemnité forfaitaire de 30 euros et les présidents, secrétaires et secrétaires adjoints des bureaux principaux des autres communes à une indemnité forfaitaire de 15 euros.
 
-2. Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des circonscriptions ont en outre droit pour les élections législatives ou européennes à une indemnité de 4,50 euros par commune de leur circonscription et à une indemnité de 3 euros par bureau de vote de la commune chef-lieu de circonscription, et pour les élections communales à une indemnité de 4,50 euros par bureau de vote de la commune chef-lieu de circonscription.
+- Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des circonscriptions ont en outre droit pour les élections législatives ou européennes à une indemnité de 4,50 euros par commune de leur circonscription et à une indemnité de 3 euros par bureau de vote de la commune chef-lieu de circonscription, et pour les élections communales à une indemnité de 4,50 euros par bureau de vote de la commune chef-lieu de circonscription.
 
-3. Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des autres communes ont en outre droit pour les élections législatives ou européennes à une indemnité de 3 euros par bureau de vote de leur commune et pour les élections communales à une indemnité de 4,50 euros par bureau de vote de leur commune.
+- Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des autres communes ont en outre droit pour les élections législatives ou européennes à une indemnité de 3 euros par bureau de vote de leur commune et pour les élections communales à une indemnité de 4,50 euros par bureau de vote de leur commune.
 
-4. Pour les élections européennes, le président du premier bureau de vote de la Ville de Luxembourg, qui fonctionne comme bureau principal de la circonscription unique, a droit à une indemnité de 9 euros par commune de la circonscription, et les secrétaire et secrétaire adjoint du même bureau ont droit à une indemnité de 4,50 euros par commune de la circonscription.
+- Pour les élections européennes, le président du premier bureau de vote de la Ville de Luxembourg, qui fonctionne comme bureau principal de la circonscription unique, a droit à une indemnité de 9 euros par commune de la circonscription, et les secrétaire et secrétaire adjoint du même bureau ont droit à une indemnité de 4,50 euros par commune de la circonscription.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -53,19 +53,19 @@ Les présidents, secrétaires, secrétaires adjoints, assesseurs et calculateurs
 
 En cas d'élections législatives et européennes simultanées, les jetons de présence et indemnités revenant aux personnes composant les bureaux de vote sont fixés comme suit:
 
-1. Pour les opérations électorales du jour des élections, les jetons de présence revenant aux présidents, secrétaires et secrétaires adjoints des bureaux de vote sont fixés forfaitairement à 60 euros, ceux revenant aux assesseurs et calculateurs à 50 euros.
+- Pour les opérations électorales du jour des élections, les jetons de présence revenant aux présidents, secrétaires et secrétaires adjoints des bureaux de vote sont fixés forfaitairement à 60 euros, ceux revenant aux assesseurs et calculateurs à 50 euros.
 
-2. Pour l'ensemble des opérations antérieures au jour des élections, les indemnités suivantes sont allouées:
+- Pour l'ensemble des opérations antérieures au jour des élections, les indemnités suivantes sont allouées:
 
-1. Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des circonscriptions ont droit à une indemnité forfaitaire de 45 euros et les présidents, secrétaires et secrétaires adjoints des bureaux principaux des autres communes à une indemnité forfaitaire de 25 euros;
+  - Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des circonscriptions ont droit à une indemnité forfaitaire de 45 euros et les présidents, secrétaires et secrétaires adjoints des bureaux principaux des autres communes à une indemnité forfaitaire de 25 euros;
 
-2. Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des circonscriptions ont en outre droit à une indemnité de 9 euros par commune de leur circonscription et à une indemnité de 6 euros par bureau de vote de la commune chef-lieu de circonscription.
+  - Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des circonscriptions ont en outre droit à une indemnité de 9 euros par commune de leur circonscription et à une indemnité de 6 euros par bureau de vote de la commune chef-lieu de circonscription.
 
-3. Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des autres communes ont en outre droit à une indemnité de 6 euros par bureau de vote de leur commune.
+  - Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des autres communes ont en outre droit à une indemnité de 6 euros par bureau de vote de leur commune.
 
-4. Pour les élections européennes, le président du premier bureau de vote de la Ville de Luxembourg, qui fonctionne comme bureau principal de la circonscription unique, a droit à une indemnité de 9 euros par commune de la circonscription, et les secrétaire et secrétaire adjoint du même bureau ont droit à une indemnité de 4,50 euros par commune de la circonscription.
+  - Pour les élections européennes, le président du premier bureau de vote de la Ville de Luxembourg, qui fonctionne comme bureau principal de la circonscription unique, a droit à une indemnité de 9 euros par commune de la circonscription, et les secrétaire et secrétaire adjoint du même bureau ont droit à une indemnité de 4,50 euros par commune de la circonscription.
 
-3. Les présidents, assesseurs, secrétaires, secrétaires adjoints et calculateurs des bureaux principaux appelés à procéder après le jour des élections au recensement général des votes et à l'attribution des sièges ont droit à des jetons de 6 euros pour chaque vacation d'une heure.
+- Les présidents, assesseurs, secrétaires, secrétaires adjoints et calculateurs des bureaux principaux appelés à procéder après le jour des élections au recensement général des votes et à l'attribution des sièges ont droit à des jetons de 6 euros pour chaque vacation d'une heure.
 
 <a id="art-5"></a>
 ## Art. 5.

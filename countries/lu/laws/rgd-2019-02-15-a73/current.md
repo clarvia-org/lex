@@ -77,11 +77,11 @@ Pour les entités immatriculées, qui sont dans l’impossibilité matérielle d
 
 Les pièces justificatives prévues à l’article 4, paragraphe 3, de la loi précitée du 13 janvier 2019 comprennent :
 
-1. pour les personnes physiques ne disposant pas d’un numéro d’identification tel que prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques , les pièces officielles permettant d’établir l’identité des bénéficiaires effectifs, accompagnées d’une traduction en langue française, allemande ou luxembourgeoise si les pièces officielles ne sont pas rédigées en caractères latins ;
+- pour les personnes physiques ne disposant pas d’un numéro d’identification tel que prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques , les pièces officielles permettant d’établir l’identité des bénéficiaires effectifs, accompagnées d’une traduction en langue française, allemande ou luxembourgeoise si les pièces officielles ne sont pas rédigées en caractères latins ;
 
-2. le cas échéant la demande de limitation d’accès aux informations telle que visée à l’article 15, paragraphe 1 er , de la loi précitée du 13 janvier 2019 ; et
+- le cas échéant la demande de limitation d’accès aux informations telle que visée à l’article 15, paragraphe 1 er , de la loi précitée du 13 janvier 2019 ; et
 
-3. le cas échéant, un document attestant que l’entité est une société dont les titres sont admis à la négociation sur un marché réglementé au Grand-Duché de Luxembourg ou dans un autre État partie à l’accord sur l’Espace économique européen ou dans un autre pays tiers imposant des obligations reconnues comme équivalentes par la Commission européenne au sens de la directive 2004/109/CE du Parlement européen et du Conseil du 15 décembre 2004 sur l'harmonisation des obligations de transparence concernant l'information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé et modifiant la directive 2001/34/CE .
+- le cas échéant, un document attestant que l’entité est une société dont les titres sont admis à la négociation sur un marché réglementé au Grand-Duché de Luxembourg ou dans un autre État partie à l’accord sur l’Espace économique européen ou dans un autre pays tiers imposant des obligations reconnues comme équivalentes par la Commission européenne au sens de la directive 2004/109/CE du Parlement européen et du Conseil du 15 décembre 2004 sur l'harmonisation des obligations de transparence concernant l'information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé et modifiant la directive 2001/34/CE .
 
 <a id="art-6"></a>
 ## Art. 6.

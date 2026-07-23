@@ -34,11 +34,11 @@ Tenue des réunions dans les sociétés et dans les autres personnes morales
 
 Une société peut, nonobstant toute disposition contraire des statuts, quel que soit le nombre prévu de participants à son assemblée générale, tenir toute assemblée générale sans réunion physique, et imposer à ses actionnaires ou associés et aux autres participants à l’assemblée de participer à l’assemblée et d’exercer leurs droits exclusivement :
 
-1. par un vote à distance par écrit ou sous forme électronique sous réserve que le texte intégral des résolutions ou décisions à prendre aura été publié ou leur aura été communiqué ;
+- par un vote à distance par écrit ou sous forme électronique sous réserve que le texte intégral des résolutions ou décisions à prendre aura été publié ou leur aura été communiqué ;
 
-2. par l’intermédiaire d’un mandataire désigné par la société ; ou
+- par l’intermédiaire d’un mandataire désigné par la société ; ou
 
-3. par visioconférence ou autre moyen de télécommunication permettant leur identification.
+- par visioconférence ou autre moyen de télécommunication permettant leur identification.
 
 Au cas où un actionnaire ou associé ou autre participant a désigné un mandataire autre que celui visé au point 2 ci-dessus conformément à l’article 8 de la loi modifiée du 24 mai 2011 concernant l’exercice de certains droits des actionnaires aux assemblées générales des sociétés cotées, ce mandataire pourra uniquement participer à l’assemblée dans les formes prévues aux points 1, 2 et 3, ci-dessus.
 
@@ -50,9 +50,9 @@ Ce paragraphe est applicable à l’assemblée des obligataires.
 
 Nonobstant toute disposition contraire des statuts, les autres organes de toute société peuvent tenir leurs réunions sans réunion physique :
 
-1. par résolutions circulaires écrites ; ou
+- par résolutions circulaires écrites ; ou
 
-2. par visioconférence ou autre moyen de télécommunication permettant l’identification des membres de l’organe participant à la réunion.
+- par visioconférence ou autre moyen de télécommunication permettant l’identification des membres de l’organe participant à la réunion.
 
 Les membres de ces organes qui participent par un tel moyen sont réputés présents pour le calcul du quorum et de la majorité.
 

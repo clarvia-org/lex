@@ -66,19 +66,19 @@ L’observatoire a pour mission:
 
 L’observatoire est composé comme suit :
 
-1. deux représentants du ministre ayant la Protection de la nature dans ses attributions ;
+- deux représentants du ministre ayant la Protection de la nature dans ses attributions ;
 
-2. deux représentants de l’Administration de la nature et des forêts ;
+- deux représentants de l’Administration de la nature et des forêts ;
 
-3. un représentant de l’Administration de la gestion de l’eau ;
+- un représentant de l’Administration de la gestion de l’eau ;
 
-4. deux représentants du Musée national d’histoire naturelle ;
+- deux représentants du Musée national d’histoire naturelle ;
 
-5. un représentant de l’Université du Luxembourg ;
+- un représentant de l’Université du Luxembourg ;
 
-6. quatre représentants appartenant aux organisations non gouvernementales en matière de protection de la nature ;
+- quatre représentants appartenant aux organisations non gouvernementales en matière de protection de la nature ;
 
-7. un représentant par syndicat.
+- un représentant par syndicat.
 
 Il est adjoint à chaque représentant un représentant suppléant qui le remplacera en cas d’absence.
 
@@ -112,13 +112,13 @@ Le Ministre est autorisé à passer des conventions relatives au partenariat en 
 
 Les conventions peuvent comporter les missions suivantes sur le plan local, communal et intercommunal:
 
-1. la collecte de données scientifiques et leur transmission aux autorités supérieures compétentes;
+- la collecte de données scientifiques et leur transmission aux autorités supérieures compétentes;
 
-2. l’élaboration et la mise en oeuvre de mesures de protection et de gestion de l’environnement naturel à partir des orientations de l’observatoire;
+- l’élaboration et la mise en oeuvre de mesures de protection et de gestion de l’environnement naturel à partir des orientations de l’observatoire;
 
-3. la promotion des programmes relatifs à la conservation de la diversité biologique;
+- la promotion des programmes relatifs à la conservation de la diversité biologique;
 
-4. la sensibilisation des communes membres et de leurs habitants.
+- la sensibilisation des communes membres et de leurs habitants.
 
 <a id="art-9"></a>
 ## Art. 9.

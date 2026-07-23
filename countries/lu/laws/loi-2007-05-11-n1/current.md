@@ -67,11 +67,11 @@ Il est interdit à la SPF de détenir des biens immobiliers à travers les organ
 
 Est un investisseur éligible au sens de la présente loi toute personne suivante,
 
-1. une personne physique agissant dans le cadre de la gestion de son patrimoine privé ou
+- une personne physique agissant dans le cadre de la gestion de son patrimoine privé ou
 
-2. une entité patrimoniale agissant exclusivement dans l’intérêt du patrimoine privé d’une ou de plusieurs personnes physiques ou
+- une entité patrimoniale agissant exclusivement dans l’intérêt du patrimoine privé d’une ou de plusieurs personnes physiques ou
 
-3. un intermédiaire agissant pour le compte d’investisseurs visés sub a) ou b) du présent paragraphe.
+- un intermédiaire agissant pour le compte d’investisseurs visés sub a) ou b) du présent paragraphe.
 
 Chaque investisseur doit déclarer par écrit cette qualité à l’attention du domiciliataire ou, à défaut, des dirigeants de la SPF.
 
@@ -107,13 +107,13 @@ La SPF est soumise à la taxe d’abonnement annuelle au taux de 0,25%, sans que
 
 La base d’imposition de la taxe d’abonnement due par la SPF est:
 
-1. le montant de son capital social libéré,
+- le montant de son capital social libéré,
 
-2. augmentée le cas échéant
+- augmentée le cas échéant
 
-1. des primes d’émission et ;
+  - des primes d’émission et ;
 
-2. de la partie des dettes, sous quelque forme que ce soit, qui excède l’octuple du capital social libéré et des primes d’émission, existant au premier jour de l’exercice social ou, pour l’année de sa constitution, existant à la date de constitution.
+  - de la partie des dettes, sous quelque forme que ce soit, qui excède l’octuple du capital social libéré et des primes d’émission, existant au premier jour de l’exercice social ou, pour l’année de sa constitution, existant à la date de constitution.
 
 (3)
 
@@ -182,17 +182,17 @@ La société ayant fait l’objet d’une telle décision ne peut plus faire ét
 
 Au moment de déterminer le montant des amendes administratives visées aux paragraphes 1er à 3, et après avoir invité la SPF à formuler ses observations relatives aux constats effectués par l’Administration de l’enregistrement, des domaines et de la TVA, le directeur tient compte de toutes les circonstances pertinentes, y compris, le cas échéant :
 
-1. de la gravité et de la durée du manquement ;
+- de la gravité et de la durée du manquement ;
 
-2. de la situation financière de la SPF ;
+- de la situation financière de la SPF ;
 
-3. de l’avantage tiré du manquement par la SPF, dans la mesure où il est possible de le déterminer ;
+- de l’avantage tiré du manquement par la SPF, dans la mesure où il est possible de le déterminer ;
 
-4. des préjudices subis par des tiers du fait du manquement, dans la mesure où il est possible de les déterminer ;
+- des préjudices subis par des tiers du fait du manquement, dans la mesure où il est possible de les déterminer ;
 
-5. du degré de coopération de la SPF ;
+- du degré de coopération de la SPF ;
 
-6. des manquements antérieurs commis par la SPF.
+- des manquements antérieurs commis par la SPF.
 
 Les poursuites en recouvrement des amendes visées aux paragraphes 1er à 3 ont lieu comme en matière d’enregistrement.
 

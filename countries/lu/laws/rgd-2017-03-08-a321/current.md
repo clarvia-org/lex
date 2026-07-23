@@ -44,9 +44,9 @@ Contenu
 
 La partie graphique comporte deux catégories de zones de base distinctes :
 
-1. les zones urbanisées ou destinées à être urbanisées ;
+- les zones urbanisées ou destinées à être urbanisées ;
 
-2. les zones destinées à rester libres.
+- les zones destinées à rester libres.
 
 Les zones de base peuvent être complétées par des dispositions relatives à l’exécution du plan d’aménagement général.
 
@@ -76,11 +76,11 @@ Echelles et fond de plan
 
 La partie graphique est dressée sur base des documents suivants :
 
-1. les fonds de plans à utiliser dans le référentiel national officiel sont la base de données topo-cartographiques (BD-L-TC) et le plan cadastral numérisé (PCN) tels que mis à disposition par l’Administration du cadastre et de la topographie ;
+- les fonds de plans à utiliser dans le référentiel national officiel sont la base de données topo-cartographiques (BD-L-TC) et le plan cadastral numérisé (PCN) tels que mis à disposition par l’Administration du cadastre et de la topographie ;
 
-2. un plan d’ensemble à l’échelle 1:10.000 dressé sur base du PCN, complété, le cas échéant, par des éléments de la BD-L-TC ;
+- un plan d’ensemble à l’échelle 1:10.000 dressé sur base du PCN, complété, le cas échéant, par des éléments de la BD-L-TC ;
 
-3. un plan par localité à l’échelle 1:2.500 ou 1:5.000 sur base du PCN. Pour des raisons de lisibilité, des plans à l’échelle 1:1.250 peuvent être établis pour l’ensemble d’une localité, voire pour une partie de localité.
+- un plan par localité à l’échelle 1:2.500 ou 1:5.000 sur base du PCN. Pour des raisons de lisibilité, des plans à l’échelle 1:1.250 peuvent être établis pour l’ensemble d’une localité, voire pour une partie de localité.
 
 Les banques de données topographiques urbaines, sous la gestion d’un géomètre officiel conformément aux dispositions de la loi modifiée du 25 juillet 2002 portant création et réglementation des professions de géomètre et de géomètre officiel, peuvent se substituer aux plans délivrés par l’Administration du cadastre et de la topographie.
 
@@ -134,9 +134,9 @@ De manière générale, y sont interdits les constructions et les établissement
 
 Les zones d’habitation sont subdivisées en fonction du type d’habitation en :
 
-1. zones d’habitation 1 [HAB-1] ;
+- zones d’habitation 1 [HAB-1] ;
 
-2. zones d’habitation 2 [HAB-2].
+- zones d’habitation 2 [HAB-2].
 
 (2)
 
@@ -159,13 +159,13 @@ Zones mixtes
 
 On distingue :
 
-1. la zone mixte urbaine centrale [MIX-c] ;
+- la zone mixte urbaine centrale [MIX-c] ;
 
-2. la zone mixte urbaine [MIX-u] ;
+- la zone mixte urbaine [MIX-u] ;
 
-3. la zone mixte villageoise [MIX-v] ;
+- la zone mixte villageoise [MIX-v] ;
 
-4. la zone mixte rurale [MIX-r] .
+- la zone mixte rurale [MIX-r] .
 
 (1)
 
@@ -219,17 +219,17 @@ Des activités de vente de détail et de prestation de services peuvent être au
 
 Des activités de prestation de services non liées à l’exercice d’une activité définie à l’alinéa 1er peuvent être autorisées :
 
-1. pour un immeuble bâti dans lequel est exercé une activité définie à l’alinéa 1 er , si la surface mise à disposition pour tout type d’activités de prestation de services confondus ne dépasse pas la moitié de la surface construite bâtie par immeuble bâti ou ;
+- pour un immeuble bâti dans lequel est exercé une activité définie à l’alinéa 1 er , si la surface mise à disposition pour tout type d’activités de prestation de services confondus ne dépasse pas la moitié de la surface construite bâtie par immeuble bâti ou ;
 
-2. si elles servent majoritairement les besoins de la zone ou le développement des activités définies à l’alinéa 1 er et sans qu’elles ne dépassent 3.500 m 2 de surface construite brute par immeuble bâti.
+- si elles servent majoritairement les besoins de la zone ou le développement des activités définies à l’alinéa 1 er et sans qu’elles ne dépassent 3.500 m 2 de surface construite brute par immeuble bâti.
 
 (2)
 
 Si les caractéristiques ou les particularités de la zone le permettent, peuvent être autorisées, outre les activités prévues au paragraphe 1er, des activités :
 
-1. industrielles de production, d’assemblage ou de transformation ;
+- industrielles de production, d’assemblage ou de transformation ;
 
-2. de vente de détail de produits de consommation non liées à l’exercice d’une activité définie au paragraphe 1 er , alinéa 1 er , limitées à 2.000 m 2 de surface construite brute par immeuble bâti, ou encore de produits énergétiques s’ils servent majoritairement les besoins de la zone ou le développement des activités définies au paragraphe 1 er , alinéa 1 er , ou au paragraphe 2, point 1°, limitées à 500 m 2 de surface construite brute par immeuble bâti.
+- de vente de détail de produits de consommation non liées à l’exercice d’une activité définie au paragraphe 1 er , alinéa 1 er , limitées à 2.000 m 2 de surface construite brute par immeuble bâti, ou encore de produits énergétiques s’ils servent majoritairement les besoins de la zone ou le développement des activités définies au paragraphe 1 er , alinéa 1 er , ou au paragraphe 2, point 1°, limitées à 500 m 2 de surface construite brute par immeuble bâti.
 
 (3)
 
@@ -273,13 +273,13 @@ Les zones d’activités économiques régionales sont gérées, au nom des comm
 
 Les zones d’activités économiques régionales sont principalement réservées aux activités :
 
-1. industrielles et industrielles légères, artisanales, de fabrication, de production, d’assemblage, de transformation, de préparation, de conditionnement ou de réparation de produits ;
+- industrielles et industrielles légères, artisanales, de fabrication, de production, d’assemblage, de transformation, de préparation, de conditionnement ou de réparation de produits ;
 
-2. de commerce de gros, de transport ou de logistique ;
+- de commerce de gros, de transport ou de logistique ;
 
-3. de recherche-développement-innovation au sens de l’article 1 er , point 28 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
+- de recherche-développement-innovation au sens de l’article 1 er , point 28 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
 
-4. d’hébergement ou d’incubateur d’entreprises si elles répondent à des objectifs régionaux ou nationaux de développement sectoriel ou à des besoins spécifiques d’importance régionale ou nationale.
+- d’hébergement ou d’incubateur d’entreprises si elles répondent à des objectifs régionaux ou nationaux de développement sectoriel ou à des besoins spécifiques d’importance régionale ou nationale.
 
 Y sont également admis les installations d’énergie renouvelable.
 
@@ -287,9 +287,9 @@ Des activités de vente de détail et de prestation de services peuvent être au
 
 Des activités de prestation de services non liées à l’exercice d’une activité définie à l’alinéa 1er peuvent être autorisées :
 
-1. pour un immeuble bâti dans lequel est exercé une activité définie à l’alinéa 1 er , si la surface mise à disposition pour tout type d’activités de prestation des services confondus ne dépasse pas la moitié de la surface construite bâtie par immeuble bâti ou ;
+- pour un immeuble bâti dans lequel est exercé une activité définie à l’alinéa 1 er , si la surface mise à disposition pour tout type d’activités de prestation des services confondus ne dépasse pas la moitié de la surface construite bâtie par immeuble bâti ou ;
 
-2. si elles servent majoritairement les besoins de la zone ou le développement des activités définies à l’alinéa 1 er et sans qu’elles ne dépassent 3.500 m 2 de surface construite brute par immeuble bâti.
+- si elles servent majoritairement les besoins de la zone ou le développement des activités définies à l’alinéa 1 er et sans qu’elles ne dépassent 3.500 m 2 de surface construite brute par immeuble bâti.
 
 (3)
 
@@ -320,11 +320,11 @@ Zones d’activités économiques nationales [ECO-n]
 
 Les zones d’activités économiques nationales sont principalement réservées aux activités :
 
-1. industrielles de fabrication, de production, d’assemblage, de transformation, de préparation ou de conditionnement de produits, ainsi que de prestation de services ayant une influence motrice sur le développement économique national ;
+- industrielles de fabrication, de production, d’assemblage, de transformation, de préparation ou de conditionnement de produits, ainsi que de prestation de services ayant une influence motrice sur le développement économique national ;
 
-2. de recherche-développement-innovation au sens de l’article 1 er , point 28 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
+- de recherche-développement-innovation au sens de l’article 1 er , point 28 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
 
-3. d’hébergement ou d’incubateur d’entreprises si elles répondent à des objectifs nationaux de développement sectoriel ou à des besoins spécifiques d’importance nationale.
+- d’hébergement ou d’incubateur d’entreprises si elles répondent à des objectifs nationaux de développement sectoriel ou à des besoins spécifiques d’importance nationale.
 
 Y sont également admis les installations d’énergie renouvelable.
 
@@ -347,11 +347,11 @@ Zones d’activités spécifiques nationales [SP-n]
 
 Les zones d’activités spécifiques nationales sont principalement réservées aux activités :
 
-1. répondant à des objectifs nationaux de développement sectoriel ou à des fonctions ou besoins spécifiques d’importance nationale ;
+- répondant à des objectifs nationaux de développement sectoriel ou à des fonctions ou besoins spécifiques d’importance nationale ;
 
-2. de recherche-développement-innovation au sens de l’article 1 er , point 28 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
+- de recherche-développement-innovation au sens de l’article 1 er , point 28 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
 
-3. d’hébergement ou d’incubateur d’entreprises si elles répondent à l’un des objectifs fixés au point 1°.
+- d’hébergement ou d’incubateur d’entreprises si elles répondent à l’un des objectifs fixés au point 1°.
 
 Y sont également admis les installations d’énergie renouvelable.
 
@@ -397,9 +397,9 @@ Zones portuaires [PORT]
 
 On distingue :
 
-1. la zone de port de marchandises [PORT – m];
+- la zone de port de marchandises [PORT – m];
 
-2. la zone de port de plaisance [PORT – p].
+- la zone de port de plaisance [PORT – p].
 
 La zone de port de marchandises est réservée à l’ensemble des bâtiments, infrastructures et installations destinés aux activités portuaires de transbordement de marchandises et aux activités économiques annexes.
 
@@ -484,17 +484,17 @@ Catégories
 
 La zone verte peut comporter :
 
-1. les zones agricoles ;
+- les zones agricoles ;
 
-2. les zones forestières ;
+- les zones forestières ;
 
-3. les zones viticoles ;
+- les zones viticoles ;
 
-4. les zones horticoles ;
+- les zones horticoles ;
 
-5. les zones de parc public ;
+- les zones de parc public ;
 
-6. les zones de verdure.
+- les zones de verdure.
 
 Seules sont autorisées des constructions telles que définies à l’article 5 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles. Les communes peuvent toutefois fixer des règles d’urbanisme pour les aménagements et les constructions à y prévoir.
 

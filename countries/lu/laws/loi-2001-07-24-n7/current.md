@@ -128,21 +128,21 @@ Le conseil d'administration ne peut valablement délibérer que si la majorité 
 
 Le conseil d'administration prend toutes les décisions en relation avec la gestion de l'établissement, sous réserve de l'approbation du ministre de tutelle pour ce qui est des points suivants:
 
-1. la politique générale de l'établissement dans l'accomplissement de sa mission;
+- la politique générale de l'établissement dans l'accomplissement de sa mission;
 
-2. l'engagement et le licenciement du directeur et du personnel dirigeant;
+- l'engagement et le licenciement du directeur et du personnel dirigeant;
 
-3. la grille des emplois et leur classification ainsi que le niveau de rémunération du personnel;
+- la grille des emplois et leur classification ainsi que le niveau de rémunération du personnel;
 
-4. l'acceptation et le refus des dons et legs;
+- l'acceptation et le refus des dons et legs;
 
-5. les budgets d'exploitation et d'investissement et les comptes de fin d'exercice;
+- les budgets d'exploitation et d'investissement et les comptes de fin d'exercice;
 
-6. les acquisitions, aliénations et échanges d'immeubles et leur affectation, les travaux de construction et les grosses réparations ainsi que les conditions de baux à contracter;
+- les acquisitions, aliénations et échanges d'immeubles et leur affectation, les travaux de construction et les grosses réparations ainsi que les conditions de baux à contracter;
 
-7. les conventions à conclure avec l'Etat;
+- les conventions à conclure avec l'Etat;
 
-8. les actions judiciaires qui sont intentées et défendues au nom de l'établissement par le président du conseil d'administration qui représente l'établissement dans tous les actes publics et privés.
+- les actions judiciaires qui sont intentées et défendues au nom de l'établissement par le président du conseil d'administration qui représente l'établissement dans tous les actes publics et privés.
 
 Le conseil d'administration élabore un règlement d'ordre intérieur déterminant les modalités de son fonctionnement. Ce règlement est soumis à l'approbation du ministre de tutelle.
 
@@ -177,13 +177,13 @@ Un rapport sur l’exécution de la convention pluriannuelle est adressé annuel
 
 Les ressources de l'établissement sont notamment:
 
-1. des recettes pour prestations et services fournis;
+- des recettes pour prestations et services fournis;
 
-2. des contributions financières, allouées à charge du budget de l'Etat, à titre de participation aux frais de fonctionnement de l'établissement;
+- des contributions financières, allouées à charge du budget de l'Etat, à titre de participation aux frais de fonctionnement de l'établissement;
 
-3. des dons et legs en espèce et en nature;
+- des dons et legs en espèce et en nature;
 
-4. des revenus provenant de la gestion de son patrimoine.
+- des revenus provenant de la gestion de son patrimoine.
 
 <a id="art-8"></a>
 ## Art. 8.

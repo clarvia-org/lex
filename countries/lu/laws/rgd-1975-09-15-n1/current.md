@@ -44,9 +44,9 @@ Le taux de l'indemnité de compensation est fixé à quatre-vingts pour cent (80
 
 Par salaire horaire normal au sens du présent règlement il faut entendre et compter séparément:
 
-1. le salaire de base la plus élevée qui fait partie de l'assiette appliquée au cours de l'un des trois mois de calendrier précédant le début de la période de chômage partiel;
+- le salaire de base la plus élevée qui fait partie de l'assiette appliquée au cours de l'un des trois mois de calendrier précédant le début de la période de chômage partiel;
 
-2. la moyenne des compléments et accessoires de salaire qui font partie des assiettes des douze mois de calendrier précédant le mois antérieur à la survenance du chômage partiel; si cette période de référence n'est pas entièrement couverte par une activité soumise à l'assurance, la moyenne est calculée sur base des mois de calendrier entièrement couverts.
+- la moyenne des compléments et accessoires de salaire qui font partie des assiettes des douze mois de calendrier précédant le mois antérieur à la survenance du chômage partiel; si cette période de référence n'est pas entièrement couverte par une activité soumise à l'assurance, la moyenne est calculée sur base des mois de calendrier entièrement couverts.
 
 A défaut d'un seul mois entièrement couvert, le salaire de base ainsi que les compléments et accessoires sont portés en compte suivant leur valeur convenue dans le contrat de travail.
 

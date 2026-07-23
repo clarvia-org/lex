@@ -34,23 +34,23 @@ Définitions
 
 Pour l’application de la présente loi, on entend par :
 
-1. « client final » : client final tel que défini à l’article 1 er , paragraphe 4, de la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
+- « client final » : client final tel que défini à l’article 1 er , paragraphe 4, de la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
 
-2. « fournisseur » : fournisseur tel que défini à l’article 1 er , paragraphe 14, de la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
+- « fournisseur » : fournisseur tel que défini à l’article 1 er , paragraphe 14, de la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
 
-3. « ministre » : le membre du Gouvernement ayant l’Énergie dans ses attributions ;
+- « ministre » : le membre du Gouvernement ayant l’Énergie dans ses attributions ;
 
-4. « offre de base » : l’offre de fourniture de gaz naturel d’un fournisseur souscrite par le plus grand nombre de ses clients finals disposant d’un compteur à gaz d’un flux horaire maximal inférieur à 65 mètres cubes ;
+- « offre de base » : l’offre de fourniture de gaz naturel d’un fournisseur souscrite par le plus grand nombre de ses clients finals disposant d’un compteur à gaz d’un flux horaire maximal inférieur à 65 mètres cubes ;
 
-5. « prix affiché » : le prix de fourniture, par mètre cube de gaz naturel consommé, hors frais d’utilisation du réseau et tous impôts et taxes, de l’offre souscrite par le client final telle qu’en vigueur le jour de facturation ;
+- « prix affiché » : le prix de fourniture, par mètre cube de gaz naturel consommé, hors frais d’utilisation du réseau et tous impôts et taxes, de l’offre souscrite par le client final telle qu’en vigueur le jour de facturation ;
 
-6. « prix final » : le prix par mètre cube de gaz naturel consommé hors frais d’utilisation du réseau et tous impôts et taxes finalement facturé au client final après déduction de la contribution financière de l’État ;
+- « prix final » : le prix par mètre cube de gaz naturel consommé hors frais d’utilisation du réseau et tous impôts et taxes finalement facturé au client final après déduction de la contribution financière de l’État ;
 
-7. « prix plafonné » : prix plafonné à 0,8325 euro par mètre cube de gaz naturel consommé, hors frais d’utilisation du réseau et tous impôts et taxes en vigueur au jour de la facturation ;
+- « prix plafonné » : prix plafonné à 0,8325 euro par mètre cube de gaz naturel consommé, hors frais d’utilisation du réseau et tous impôts et taxes en vigueur au jour de la facturation ;
 
-8. « régulateur » : régulateur tel que défini à l’article 1 er , paragraphe 1 ter , de la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
+- « régulateur » : régulateur tel que défini à l’article 1 er , paragraphe 1 ter , de la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
 
-9. « unité privative » : unité séparée qui est réservée à l’usage d’un occupant ou groupe d’occupants.
+- « unité privative » : unité séparée qui est réservée à l’usage d’un occupant ou groupe d’occupants.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -63,9 +63,9 @@ L’État accorde, dans les limites de l’article 7 et dans les conditions dév
 
 Les clients finals disposant d’un compteur à gaz d’un flux horaire maximal égal ou supérieur à 65 mètres cubes peuvent faire une demande auprès du ministre afin de bénéficier de la même contribution financière que celle visée à l’alinéa 1er. La demande est introduite moyennant un formulaire spécifique mis à disposition par le ministre et qui renseigne, à côté des coordonnées du demandeur, du bâtiment concerné et du fournisseur de gaz naturel, sur les informations suivantes :
 
-1. le nombre total d’unités privatives occupées de l’immeuble en cause ;
+- le nombre total d’unités privatives occupées de l’immeuble en cause ;
 
-2. le nombre des unités privatives occupées à des fins d’habitation.
+- le nombre des unités privatives occupées à des fins d’habitation.
 
 Le ministre accorde le bénéfice de la mesure visée à l’alinéa 1er aux demandeurs visés à l’alinéa 2 qui établissent qu’au moins 60 pour cent des unités privatives occupées de l’immeuble concerné sont utilisées à des fins d’habitation. Le ministre notifie sa décision dans les vingt jours après réception de la demande au demandeur et en transmet une copie au fournisseur concerné.
 
@@ -131,11 +131,11 @@ Sanctions
 
 Lorsque le régulateur constate une violation des obligations des fournisseurs prévues à l’article 5, il peut frapper le fournisseur concerné d’une ou de plusieurs des sanctions suivantes :
 
-1. un avertissement ;
+- un avertissement ;
 
-2. un blâme ;
+- un blâme ;
 
-3. une amende d’ordre de 1 000 euros à 1 000 000 euros.
+- une amende d’ordre de 1 000 euros à 1 000 000 euros.
 
 (2)
 
@@ -185,13 +185,13 @@ Dispositions modificatives
 
 L’article 1er de la loi du 17 mai 2022 portant prise en charge par l’État des frais engendrés par l’utilisation des réseaux de distribution de gaz naturel est modifié comme suit :
 
-1. le paragraphe 1 er est modifié comme suit :
+- le paragraphe 1 er est modifié comme suit :
 
-1. les termes 31 décembre 2022 sont remplacés par les termes 31 décembre 2023 ;
+  - les termes 31 décembre 2022 sont remplacés par les termes 31 décembre 2023 ;
 
-2. les termes 35 000 000 euros sont remplacés par les termes 115 000 000 euros ;
+  - les termes 35 000 000 euros sont remplacés par les termes 115 000 000 euros ;
 
-2. le paragraphe 2 est complété par les termes pour l’année civile 2022 et au plus tard le 30 juin 2024 pour l’année civile 2023 .
+- le paragraphe 2 est complété par les termes pour l’année civile 2022 et au plus tard le 30 juin 2024 pour l’année civile 2023 .
 
 <a id="art-9"></a>
 ## Art. 9.

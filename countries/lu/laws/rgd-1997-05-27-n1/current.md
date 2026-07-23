@@ -74,6 +74,38 @@ L’ancienneté du diplôme sera portée en compte à raison de trois points par
 
 L'occupation pharmaceutique.
 
+2.1
+
+La période pendant laquelle le candidat a exercé à plein temps une occupation pour l’exercice de laquelle le diplôme de pharmacien est exigé par la loi est portée en compte à raison de six points par année entière et d’un demi-point par mois entier. Est considérée comme plein temps pour les pharmaciens salariés une occupation correspondant au maximum de la durée normale de travail hebdomadaire prévue par la législation en vigueur en matière de louage de service des employés privés.
+
+2.2
+
+Dans l’hypothèse d’une occupation inférieure au plein temps tel que défini à l’alinéa qui précède, les points dont question audit alinéa sont réduits proportionnellement.
+
+2.3
+
+Pour l’occupation pharmaceutique passée dans un autre pays de l’Union Européenne le plein temps se détermine suivant les dispositions légales, réglementaires ou autres du pays en question en matière de durée hebdomadaire de travail des pharmaciens salariés, ou à défaut de la catégorie de salariés dont les pharmaciens salariés font partie. A défaut de dispositions afférentes le plein temps se détermine suivant les usages en la matière du pays en question.
+
+2.4
+
+Toute activité pharmaceutique accomplie au Luxembourg ou à l’étranger pour le compte de l’aide humanitaire dans le cadre d’une organisation de bienfaisance nationale ou internationale vaut occupation pharmaceutique au sens du présent paragraphe.
+
+2.5
+
+N’entrent en ligne de compte que les occupations ininterrompues d’au moins un mois et accomplies pendant le même laps de temps dans deux pharmacies au maximum ou auprès de deux patrons au maximum.
+
+2.6
+
+Au sens du présent paragraphe le pharmacien titulaire d’une pharmacie exerce une occupation à plein temps.
+
+2.7
+
+L’occupation pharmaceutique accomplie dans un pays tiers n’est pas considérée.
+
+2.8
+
+Le temps pendant lequel le candidat cesse toute activité professionnelle ou exerce une activité professionnelle réduite pour élever un ou plusieurs enfants à charge de moins de quinze ans vaut occupation pharmaceutique à plein temps pour la même durée que le congé sans traitement ou le congé pour travail à mi-temps obtenu pour le même motif par le fonctionnaire de l’Etat est considéré comme période d’activité de service intégrale pour les promotions, conformément à la législation fixant le statut général des fonctionnaires de l’Etat.
+
 3.
 
 Les titres scientifiques.

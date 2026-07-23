@@ -36,13 +36,13 @@ Il existe un Collège médical, qui regroupe les représentants élus des médec
 
 Le Collège médical est chargé:
 
-1. de veiller à la sauvegarde de l’honneur, de maintenir et de défendre les principes de dignité, de probité, de délicatesse et de compétence devant régir les professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute;
+- de veiller à la sauvegarde de l’honneur, de maintenir et de défendre les principes de dignité, de probité, de délicatesse et de compétence devant régir les professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute;
 
-2. de veiller à l’observation des règles déontologiques s’appliquant aux médecins, aux médecins-dentistes, aux pharmaciens et aux psychothérapeutes;
+- de veiller à l’observation des règles déontologiques s’appliquant aux médecins, aux médecins-dentistes, aux pharmaciens et aux psychothérapeutes;
 
-3. d'étudier toutes les questions relatives à l'art de guérir et à la santé dont il sera saisi par le ministre de la Santé, ou dont il jugera utile de se saisir;
+- d'étudier toutes les questions relatives à l'art de guérir et à la santé dont il sera saisi par le ministre de la Santé, ou dont il jugera utile de se saisir;
 
-4. d’émettre un avis sur tous les projets de loi et de règlement concernant les professions de médecin, de médecin-dentiste, de pharmacien, de psychothérapeute ou d’autres professions de santé, ou encore relatifs au secteur hospitalier.
+- d’émettre un avis sur tous les projets de loi et de règlement concernant les professions de médecin, de médecin-dentiste, de pharmacien, de psychothérapeute ou d’autres professions de santé, ou encore relatifs au secteur hospitalier.
 
 ##### Chapitre 2. Composition du Collège médical.
 
@@ -108,11 +108,11 @@ La liste des électeurs est arrêtée par le président du Collège médical tro
 
 Ne peuvent prendre part à l'élection des membres du Collège médical ni en faire partie:
 
-1. les personnes exerçant une profession principale pour laquelle le diplôme respectivement de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute n’est pas exigé par la loi.
+- les personnes exerçant une profession principale pour laquelle le diplôme respectivement de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute n’est pas exigé par la loi.
 
-2. les personnes condamnées à l'interdiction totale ou partielle, perpétuelle ou temporaire des droits énumérés à l'article 11 du Code pénal;
+- les personnes condamnées à l'interdiction totale ou partielle, perpétuelle ou temporaire des droits énumérés à l'article 11 du Code pénal;
 
-3. les personnes contre lesquelles la suspension du droit d'exercer la profession a été prononcée, pendant la durée de la suspension et pendant une durée de trois ans après la fin de la période de suspension.
+- les personnes contre lesquelles la suspension du droit d'exercer la profession a été prononcée, pendant la durée de la suspension et pendant une durée de trois ans après la fin de la période de suspension.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -125,15 +125,15 @@ Sont éligibles les médecins, médecins-dentistes, pharmaciens et psychothérap
 
 Ne sont pas éligibles.
 
-1. les médecins, médecins-dentistes, pharmaciens et psychothérapeutes assurant la direction d’un hôpital.
+- les médecins, médecins-dentistes, pharmaciens et psychothérapeutes assurant la direction d’un hôpital.
 
-2. le médecin-directeur de l'administration du contrôle médical de la sécurité sociale.
+- le médecin-directeur de l'administration du contrôle médical de la sécurité sociale.
 
-3. les médecins, médecins-dentistes et pharmaciens de la direction de la santé.
+- les médecins, médecins-dentistes et pharmaciens de la direction de la santé.
 
-4. les personnes énumérées à l'article 8 ci-dessus.
+- les personnes énumérées à l'article 8 ci-dessus.
 
-5. les membres effectifs et suppléants du Collège médical dont le mandat n'expire pas le 31 décembre qui suit la date des élections.
+- les membres effectifs et suppléants du Collège médical dont le mandat n'expire pas le 31 décembre qui suit la date des élections.
 
 Le Collège médical arrête la liste des candidats deux mois avant la date des élections.
 
@@ -246,11 +246,11 @@ Les membres du conseil qui veulent s'abstenir pour d'autres motifs sont tenus de
 
 Le conseil de discipline exerce le pouvoir de discipline sur toutes les personnes relevant de la présente loi pour:
 
-1. violation des prescriptions légales, réglementaires et déontologiques concernant l'exercice de la profession;
+- violation des prescriptions légales, réglementaires et déontologiques concernant l'exercice de la profession;
 
-2. fautes et négligences professionnelles graves;
+- fautes et négligences professionnelles graves;
 
-3. faits contraires à l'honorabilité et à la dignité professionnelles; le tout sans préjudice de l'action judiciaire et de l'action disciplinaire prévue par le statut général des fonctionnaires de l'Etat et celui des fonctionnaires communaux pouvant naître des mêmes faits.
+- faits contraires à l'honorabilité et à la dignité professionnelles; le tout sans préjudice de l'action judiciaire et de l'action disciplinaire prévue par le statut général des fonctionnaires de l'Etat et celui des fonctionnaires communaux pouvant naître des mêmes faits.
 
 L'action disciplinaire se prescrit par cinq ans à compter du jour où les faits ci-dessus visés se sont produits.
 
@@ -261,17 +261,17 @@ L'action disciplinaire se prescrit par cinq ans à compter du jour où les faits
 
 Les peines disciplinaires sont dans l'ordre de leur gravité:
 
-1. l'avertissement;
+- l'avertissement;
 
-2. la réprimande;
+- la réprimande;
 
-3. l'amende d'ordre de 5.001 à 100.000.- frs;
+- l'amende d'ordre de 5.001 à 100.000.- frs;
 
-4. la subordination de l'exercice de la profession à des conditions déterminées;
+- la subordination de l'exercice de la profession à des conditions déterminées;
 
-5. la suspension du droit d'exercer la profession pour un terme qui ne peut être inférieur à quinze jours ni excéder cinq ans;
+- la suspension du droit d'exercer la profession pour un terme qui ne peut être inférieur à quinze jours ni excéder cinq ans;
 
-6. l'interdiction à vie d'exercer la profession.
+- l'interdiction à vie d'exercer la profession.
 
 Les sanctions des catégories 5 et 6 ci-dessus comportent la privation, respectivement temporaire ou perpétuelle, du droit de vote et d'éligibilité pour le Collège médical.
 

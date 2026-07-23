@@ -30,11 +30,11 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Par dérogation à la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration :
 
-1. le délai de trois mois prévu à l’article 40, paragraphe 2 de la loi précitée du 29 août 2008 est porté à six mois pour le ressortissant de pays tiers qui a fait une déclaration d’arrivée conformément à l’article 40, paragraphe 1er de la loi précitée du 29 août 2008 entre le 1er janvier 2020 et le 31 juillet 2020 ;
+- le délai de trois mois prévu à l’article 40, paragraphe 2 de la loi précitée du 29 août 2008 est porté à six mois pour le ressortissant de pays tiers qui a fait une déclaration d’arrivée conformément à l’article 40, paragraphe 1er de la loi précitée du 29 août 2008 entre le 1er janvier 2020 et le 31 juillet 2020 ;
 
-2. pour les titres de séjour venus à échéance après le 1er mars 2020, la durée de validité est prorogée jusqu’au 31 août 2020 ;
+- pour les titres de séjour venus à échéance après le 1er mars 2020, la durée de validité est prorogée jusqu’au 31 août 2020 ;
 
-3. le séjour de ressortissants de pays tiers titulaires d’un visa de court séjour et de ceux non soumis à l’obligation de visa et dont le séjour vient de dépasser les 90 jours après le 1er mars 2020, est régulier jusqu’au 31 juillet 2020.
+- le séjour de ressortissants de pays tiers titulaires d’un visa de court séjour et de ceux non soumis à l’obligation de visa et dont le séjour vient de dépasser les 90 jours après le 1er mars 2020, est régulier jusqu’au 31 juillet 2020.
 
 <a id="art-2"></a>
 ## Art. 2.

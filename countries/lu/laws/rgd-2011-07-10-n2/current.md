@@ -30,126 +30,126 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Les disciplines reconnues comme spécialités en médecine sont les suivantes:
 
-1. Anesthésiologie
+- Anesthésiologie
 
-2. Allergologie
+- Allergologie
 
-3. Anatomie pathologique
+- Anatomie pathologique
 
-4. Biologie clinique
+- Biologie clinique
 
-5. Cardiologie
+- Cardiologie
 
-6. Chimie biologique
+- Chimie biologique
 
-7. 6bis. Chirurgie cardiaque
+- 6bis. Chirurgie cardiaque
 
-8. Chirurgie dentaire, orale et maxillo-faciale (formation médicale de base et formation dentaire)
+- Chirurgie dentaire, orale et maxillo-faciale (formation médicale de base et formation dentaire)
 
-9. Chirurgie des vaisseaux
+- Chirurgie des vaisseaux
 
-10. Chirurgie plastique
+- Chirurgie plastique
 
-11. Chirurgie gastro-entérologique
+- Chirurgie gastro-entérologique
 
-12. Chirurgie générale
+- Chirurgie générale
 
-13. Chirurgie maxillo-faciale (formation de base de médecine)
+- Chirurgie maxillo-faciale (formation de base de médecine)
 
-14. Chirurgie pédiatrique
+- Chirurgie pédiatrique
 
-15. Chirurgie thoracique
+- Chirurgie thoracique
 
-16. Dermatologie
+- Dermatologie
 
-17. Dermato-vénérologie
+- Dermato-vénérologie
 
-18. Endocrinologie
+- Endocrinologie
 
-19. Gastro-entérologie
+- Gastro-entérologie
 
-20. Gériatrie
+- Gériatrie
 
-21. Gynécologie et obstétrique
+- Gynécologie et obstétrique
 
-22. Hématologie biologique
+- Hématologie biologique
 
-23. Hématologie générale
+- Hématologie générale
 
-24. Immunologie
+- Immunologie
 
-25. Maladies contagieuses
+- Maladies contagieuses
 
-26. Médecine génétique
+- Médecine génétique
 
-27. Médecine interne
+- Médecine interne
 
-28. 26bis. Médecine du sport
+- 26bis. Médecine du sport
 
-29. Médecine du travail
+- Médecine du travail
 
-30. Médecine nucléaire
+- Médecine nucléaire
 
-31. Médecine physique et de réadaptation
+- Médecine physique et de réadaptation
 
-32. Médecine tropicale
+- Médecine tropicale
 
-33. Microbiologie-bactériologie
+- Microbiologie-bactériologie
 
-34. Néphrologie
+- Néphrologie
 
-35. Neurochirurgie
+- Neurochirurgie
 
-36. Neurologie
+- Neurologie
 
-37. Neurophysiologie clinique
+- Neurophysiologie clinique
 
-38. Neuropsychiatrie
+- Neuropsychiatrie
 
-39. Oncologie médicale
+- Oncologie médicale
 
-40. Ophtalmologie
+- Ophtalmologie
 
-41. Orthopédie
+- Orthopédie
 
-42. Oto-rhino-laryngologie
+- Oto-rhino-laryngologie
 
-43. Pédiatrie
+- Pédiatrie
 
-44. Pharmacologie
+- Pharmacologie
 
-45. Pneumologie
+- Pneumologie
 
-46. Psychiatrie
+- Psychiatrie
 
-47. Psychiatrie infantile
+- Psychiatrie infantile
 
-48. Radiodiagnostic
+- Radiodiagnostic
 
-49. Radiologie
+- Radiologie
 
-50. Radiothérapie
+- Radiothérapie
 
-51. Rhumatologie
+- Rhumatologie
 
-52. Santé publique et médecine sociale
+- Santé publique et médecine sociale
 
-53. Stomatologie
+- Stomatologie
 
-54. Médecine d’urgence
+- Médecine d’urgence
 
-55. Urologie
+- Urologie
 
-56. Vénérologie.
+- Vénérologie.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 Les disciplines reconnues comme spécialités en médecine dentaire sont les suivantes:
 
-1. Orthodontie
+- Orthodontie
 
-2. Chirurgie buccale.
+- Chirurgie buccale.
 
 <a id="art-3"></a>
 ## Art. 3.

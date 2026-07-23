@@ -38,23 +38,23 @@ Des règlements grand-ducaux, à prendre sur avis du Conseil d’Etat, fixent le
 
 Ces règlements peuvent
 
-1. interdire la production de certains bruits;
+- interdire la production de certains bruits;
 
-2. soumettre la production de certains bruits à des restrictions, entre autres, limiter le temps de la production de bruit;
+- soumettre la production de certains bruits à des restrictions, entre autres, limiter le temps de la production de bruit;
 
-3. réglementer ou interdire la fabrication, l’importation, l’exportation, le transit, le transport, l’offre en vente, la vente, la cession à titre onéreux ou gratuit, la distribution, l’installation et l’utilisation d’appareils, de dispositifs ou d’objets produisant ou susceptibles de produire certains bruits;
+- réglementer ou interdire la fabrication, l’importation, l’exportation, le transit, le transport, l’offre en vente, la vente, la cession à titre onéreux ou gratuit, la distribution, l’installation et l’utilisation d’appareils, de dispositifs ou d’objets produisant ou susceptibles de produire certains bruits;
 
-4. imposer et réglementer le placement et l’utilisation d’appareils ou de dispositifs destinés à réduire le bruit, à l’absorber ou à remédier à ses inconvénients;
+- imposer et réglementer le placement et l’utilisation d’appareils ou de dispositifs destinés à réduire le bruit, à l’absorber ou à remédier à ses inconvénients;
 
-5. créer des zones de protection et décréter des mesures spécifiques qui doivent être observées dans ces zones;
+- créer des zones de protection et décréter des mesures spécifiques qui doivent être observées dans ces zones;
 
-6. imposer des conditions techniques de construction et d’installation susceptibles d’atténuer les inconvénients du bruit et de sa propagation.
+- imposer des conditions techniques de construction et d’installation susceptibles d’atténuer les inconvénients du bruit et de sa propagation.
 
-7. Définir des valeurs limites en fonction d’indicateurs de bruit et établir des méthodes d’évaluation du bruit.
+- Définir des valeurs limites en fonction d’indicateurs de bruit et établir des méthodes d’évaluation du bruit.
 
-8. Fixer les conditions et modalités d’une cartographie stratégique du bruit et de plans d’action pour certaines zones d’intérêt particulier en concertation avec le public concerné, ainsi que déclarer ces derniers plans obligatoires sur avis du Conseil d’Etat.
+- Fixer les conditions et modalités d’une cartographie stratégique du bruit et de plans d’action pour certaines zones d’intérêt particulier en concertation avec le public concerné, ainsi que déclarer ces derniers plans obligatoires sur avis du Conseil d’Etat.
 
-9. Arrêter les modalités selon lesquelles la cartographie stratégique et les plans d’action sont accessibles et diffusés au public.
+- Arrêter les modalités selon lesquelles la cartographie stratégique et les plans d’action sont accessibles et diffusés au public.
 
 2.
 

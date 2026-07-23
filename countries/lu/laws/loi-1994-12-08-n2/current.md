@@ -117,9 +117,9 @@ Peuvent être regroupés
 
 - les sous-postes du compte de profits et pertes précédés d'une ou de plusieurs lettres minuscules à l'exception de ceux des postes I 1 et I 4 et II 1, II 5 et II 6 Les regroupements sous a) et b) ne peuvent être effectués que sur base d'un accord préalable du Commissariat aux assurances.
 
-1. lorsqu'ils ne présentent qu'un montant négligeable au regard de l'objectif de l'article point 3;
+  - lorsqu'ils ne présentent qu'un montant négligeable au regard de l'objectif de l'article point 3;
 
-2. lorsque le regroupement favorise la clarté, à condition que les postes regroupés soient présentés d'une façon distincte dans l'annexe.
+  - lorsque le regroupement favorise la clarté, à condition que les postes regroupés soient présentés d'une façon distincte dans l'annexe.
 
 3.
 
@@ -152,147 +152,147 @@ Pour la présentation du bilan, le schéma suivant est d'application:
 
 Actif
 
-1. Capital souscrit non versé dont: appelé
+- Capital souscrit non versé dont: appelé
 
-2. Actifs incorporels
+- Actifs incorporels
 
-3. Placements
+- Placements
 
-1. Terrains et constructions
+  - Terrains et constructions
 
-2. Placements dans des entreprises liées et participations
+  - Placements dans des entreprises liées et participations
 
-1. Parts dans des entreprises liées
+    - Parts dans des entreprises liées
 
-2. Bons et obligations émis par les entreprises liées et créances sur ces entreprises
+    - Bons et obligations émis par les entreprises liées et créances sur ces entreprises
 
-3. Participations
+    - Participations
 
-4. Bons et obligations émis par des entreprises avec lesquelles l'entreprise d'assurance a un lien de participation et créances sur ces entreprises
+    - Bons et obligations émis par des entreprises avec lesquelles l'entreprise d'assurance a un lien de participation et créances sur ces entreprises
 
-3. Autres placements financiers
+  - Autres placements financiers
 
-1. Actions et autres valeurs mobilières à revenu variable et parts dans des fonds communs de placement
+    - Actions et autres valeurs mobilières à revenu variable et parts dans des fonds communs de placement
 
-2. Obligations et autres valeurs mobilières à revenu fixe
+    - Obligations et autres valeurs mobilières à revenu fixe
 
-3. Parts dans des pools d'investissement
+    - Parts dans des pools d'investissement
 
-4. Prêts hypothécaires
+    - Prêts hypothécaires
 
-5. Autres prêts
+    - Autres prêts
 
-6. Dépôts auprès des établissements de crédit
+    - Dépôts auprès des établissements de crédit
 
-7. Autres
+    - Autres
 
-4. Dépôts auprès des entreprises cédantes
+  - Dépôts auprès des entreprises cédantes
 
-4. Placements pour le compte des preneurs d'une police d'assurance-vie dont le risque est supporté par eux.
+- Placements pour le compte des preneurs d'une police d'assurance-vie dont le risque est supporté par eux.
 
-5. Part des réassureurs dans les provisions techniques
+- Part des réassureurs dans les provisions techniques
 
-1. Provision pour primes non acquises
+  - Provision pour primes non acquises
 
-2. Provision d'assurance-vie
+  - Provision d'assurance-vie
 
-3. Provision pour sinistres
+  - Provision pour sinistres
 
-4. Provision pour participations aux bénéfices et ristournes
+  - Provision pour participations aux bénéfices et ristournes
 
-5. Autres provisions techniques
+  - Autres provisions techniques
 
-6. Provisions techniques relatives à l'assurance-vie lorsque le risque de placement est supporté par le preneur d'assurance
+  - Provisions techniques relatives à l'assurance-vie lorsque le risque de placement est supporté par le preneur d'assurance
 
-6. Créances
+- Créances
 
-1. Créances nées d'opérations d'assurance directe sur:
+  - Créances nées d'opérations d'assurance directe sur:
 
-1. les preneurs d'assurance
+    - les preneurs d'assurance
 
-2. les intermédiaires d'assurance
+    - les intermédiaires d'assurance
 
-2. Créances nées d'opérations de réassurance
+  - Créances nées d'opérations de réassurance
 
-3. Autres créances
+  - Autres créances
 
-7. Autres éléments d'actif
+- Autres éléments d'actif
 
-1. Actifs corporels et stocks
+  - Actifs corporels et stocks
 
-2. Avoirs en banque, avoirs en compte de chèques postaux, chèques et encaisse
+  - Avoirs en banque, avoirs en compte de chèques postaux, chèques et encaisse
 
-3. Actions propres ou parts propres
+  - Actions propres ou parts propres
 
-4. Autres actifs
+  - Autres actifs
 
-8. Comptes de régularisation
+- Comptes de régularisation
 
-1. Intérêts et loyers acquis non échus
+  - Intérêts et loyers acquis non échus
 
-2. Frais d'acquisition reportés
+  - Frais d'acquisition reportés
 
-3. Autres comptes de régularisation
+  - Autres comptes de régularisation
 
 TOTAL DE L'ACTIF
 
 Passif
 
-1. Capitaux propres
+- Capitaux propres
 
-1. Capital souscrit ou fonds équivalent
+  - Capital souscrit ou fonds équivalent
 
-2. Primes d'émission
+  - Primes d'émission
 
-3. Réserve de réévaluation
+  - Réserve de réévaluation
 
-4. Réserves
+  - Réserves
 
-5. Résultats reportés
+  - Résultats reportés
 
-6. Résultat de l'exercice
+  - Résultat de l'exercice
 
-2. Passifs subordonnés
+- Passifs subordonnés
 
-3. Provisions techniques
+- Provisions techniques
 
-1. Provision pour primes non acquises
+  - Provision pour primes non acquises
 
-2. Provision d'assurance-vie
+  - Provision d'assurance-vie
 
-3. Provision pour sinistres
+  - Provision pour sinistres
 
-4. Provision pour participations aux bénéfices et ristournes
+  - Provision pour participations aux bénéfices et ristournes
 
-5. Provision pour égalisation
+  - Provision pour égalisation
 
-6. Autres provisions techniques
+  - Autres provisions techniques
 
-4. Provisions techniques relatives à l'assurance-vie lorsque le risque de placement est supporté par le preneur d'assurance
+- Provisions techniques relatives à l'assurance-vie lorsque le risque de placement est supporté par le preneur d'assurance
 
-5. Provisions pour autres risques et charges
+- Provisions pour autres risques et charges
 
-1. Provisions pour pensions et obligations similaires
+  - Provisions pour pensions et obligations similaires
 
-2. Provisions pour impôts
+  - Provisions pour impôts
 
-3. Autres provisions
+  - Autres provisions
 
-6. Dépôts reçus des réassureurs
+- Dépôts reçus des réassureurs
 
-7. Dettes
+- Dettes
 
-1. Dettes nées d'opérations d'assurance directe
+  - Dettes nées d'opérations d'assurance directe
 
-2. Dettes nées d'opérations de réassurance
+  - Dettes nées d'opérations de réassurance
 
-3. Emprunts obligataires dont emprunts convertibles
+  - Emprunts obligataires dont emprunts convertibles
 
-4. Dettes envers les établissements de crédit
+  - Dettes envers les établissements de crédit
 
-5. Autres dettes, dont dettes fiscales et dettes au titre de la sécurité sociale
+  - Autres dettes, dont dettes fiscales et dettes au titre de la sécurité sociale
 
-8. Comptes de régularisation.
+- Comptes de régularisation.
 
 TOTAL DU PASSIF
 
@@ -323,19 +323,19 @@ Actif: poste B - Actifs incorporels
 
 Ce poste reprend de façon agrégée les postes suivants:
 
-1. Frais d'établissement
+- Frais d'établissement
 
-2. Frais de recherche et de développement
+- Frais de recherche et de développement
 
-3. Concessions, brevets, licences, marques ainsi que droits et valeurs similaires, s'ils ont été:
+- Concessions, brevets, licences, marques ainsi que droits et valeurs similaires, s'ils ont été:
 
-- acquis à titre onéreux sans faire partie des éléments d'un fonds de commerce
+  - acquis à titre onéreux sans faire partie des éléments d'un fonds de commerce
 
-- crées par l'entreprise elle-même
+  - crées par l'entreprise elle-même
 
-4. Fonds de commerce, dans la mesure où il a été acquis à titre onéreux
+- Fonds de commerce, dans la mesure où il a été acquis à titre onéreux
 
-5. Acomptes versés.
+- Acomptes versés.
 
 2.
 
@@ -455,21 +455,21 @@ Actif: poste G I - Actifs corporels et stocks
 
 Ce poste reprend de façon agrégée les postes suivants:
 
-1. Installations techniques et machines
+- Installations techniques et machines
 
-2. Autres installations, outillage et mobilier
+- Autres installations, outillage et mobilier
 
-3. Acomptes versés et immobilisations corporelles en cours, à l'exclusion des montants visés à l'article point 1
+- Acomptes versés et immobilisations corporelles en cours, à l'exclusion des montants visés à l'article point 1
 
-4. Stocks
+- Stocks
 
-1. matières premières et consommables
+  - matières premières et consommables
 
-2. produits en cours de fabrication
+  - produits en cours de fabrication
 
-3. produits finis et marchandises
+  - produits finis et marchandises
 
-4. acomptes versés
+  - acomptes versés
 
 <a id="article-23"></a>
 ## ARTICLE 23
@@ -538,13 +538,13 @@ Passif: poste A IV - Réserves
 
 Ce poste comporte les types de réserves suivantes:
 
-1. Réserve légale
+- Réserve légale
 
-2. Réserve pour actions propres ou parts propres
+- Réserve pour actions propres ou parts propres
 
-3. Réserves statutaires
+- Réserves statutaires
 
-4. Autres réserves.
+- Autres réserves.
 
 Ces différents types de réserves doivent être renseignés séparément en tant que sous-postes du poste A IV du passif, sauf la réserve de réévaluation qui figurera au poste A III du passif.
 
@@ -604,9 +604,9 @@ La provision pour participations aux bénéfices et ristournes comprend les mont
 
 Passif: poste C V - Provision pour égalisation
 
-1. La provision pour égalisation comprend tous les montants provisionnés conformément aux dispositions légales ou administratives permettant d'égaliser les fluctuations des taux de sinistres pour les années à venir ou de couvrir les risques spéciaux.
+- La provision pour égalisation comprend tous les montants provisionnés conformément aux dispositions légales ou administratives permettant d'égaliser les fluctuations des taux de sinistres pour les années à venir ou de couvrir les risques spéciaux.
 
-2. Lorsque, en l'absence de telles dispositions législatives ou administratives, des réserves au sens de l'article ont été constituées dans le même but, il doit en être fait mention dans l'annexe.
+- Lorsque, en l'absence de telles dispositions législatives ou administratives, des réserves au sens de l'article ont été constituées dans le même but, il doit en être fait mention dans l'annexe.
 
 <a id="article-40"></a>
 ## ARTICLE 40
@@ -689,189 +689,189 @@ Les entreprises dont l'activité consiste intégralement en opérations des réa
 
 Compte de profits et pertes
 
-1. Compte technique de l'assurance non vie
+- Compte technique de l'assurance non vie
 
-1. Primes acquises, nettes de réassurance:
+  - Primes acquises, nettes de réassurance:
 
-1. primes brutes émises
+    - primes brutes émises
 
-2. primes cédées aux réassureurs
+    - primes cédées aux réassureurs
 
-3. variation du montant brut de la provision pour primes non acquises
+    - variation du montant brut de la provision pour primes non acquises
 
-4. variation du montant de la provision pour primes non acquises, part des réassureurs
+    - variation du montant de la provision pour primes non acquises, part des réassureurs
 
-2. Produits des placements alloués transférés du compte non technique
+  - Produits des placements alloués transférés du compte non technique
 
-3. Autres produits techniques, nets de réassurance
+  - Autres produits techniques, nets de réassurance
 
-4. Charge des sinistres, nette de réassurance:
+  - Charge des sinistres, nette de réassurance:
 
-1. montants payés:
+    - montants payés:
 
-1. montants bruts
+      - montants bruts
 
-2. part des réassureurs
+      - part des réassureurs
 
-2. variation de la provision pour sinistres:
+    - variation de la provision pour sinistres:
 
-1. montant brut
+      - montant brut
 
-2. part des réassureurs
+      - part des réassureurs
 
-5. Variation des autres provisions techniques, nette de réassurance
+  - Variation des autres provisions techniques, nette de réassurance
 
-6. Participations aux bénéfices et ristournes, nettes de réassurance
+  - Participations aux bénéfices et ristournes, nettes de réassurance
 
-7. Frais d'exploitation nets:
+  - Frais d'exploitation nets:
 
-1. frais d'acquisition
+    - frais d'acquisition
 
-2. variation du montant des frais d'acquisition reportés
+    - variation du montant des frais d'acquisition reportés
 
-3. frais d'administration
+    - frais d'administration
 
-4. commissions reçues des réassureurs et participations aux bénéfices
+    - commissions reçues des réassureurs et participations aux bénéfices
 
-8. Autres charges techniques, nettes de réassurance
+  - Autres charges techniques, nettes de réassurance
 
-9. Variation de la provision pour égalisation
+  - Variation de la provision pour égalisation
 
-10. Résultat du compte technique de l'assurance non vie
+  - Résultat du compte technique de l'assurance non vie
 
-2. Compte technique de l'assurance-vie
+- Compte technique de l'assurance-vie
 
-1. Primes acquises, nettes de réassurance:
+  - Primes acquises, nettes de réassurance:
 
-1. primes brutes émises
+    - primes brutes émises
 
-2. primes cédées aux réassureurs
+    - primes cédées aux réassureurs
 
-3. variation du montant de la provision pour primes non acquises, nette de réassurance
+    - variation du montant de la provision pour primes non acquises, nette de réassurance
 
-2. Produits des placements:
+  - Produits des placements:
 
-1. produits des participations
+    - produits des participations
 
-2. produits des autres placements:
+    - produits des autres placements:
 
-1. produits provenant des terrains et constructions
+      - produits provenant des terrains et constructions
 
-2. produits provenant d'autres placements
+      - produits provenant d'autres placements
 
-3. reprises de corrections de valeur sur placements
+    - reprises de corrections de valeur sur placements
 
-4. profits provenant de la réalisation de placements
+    - profits provenant de la réalisation de placements
 
-3. Plus-values non réalisées sur placements
+  - Plus-values non réalisées sur placements
 
-4. Autres produits techniques, nets de réassurance
+  - Autres produits techniques, nets de réassurance
 
-5. Charge des sinistres, nette de réassurance:
+  - Charge des sinistres, nette de réassurance:
 
-1. montants payés:
+    - montants payés:
 
-1. montants bruts
+      - montants bruts
 
-2. part des réassureurs
+      - part des réassureurs
 
-2. variation de la provision pour sinistres:
+    - variation de la provision pour sinistres:
 
-1. montant brut
+      - montant brut
 
-2. part des réassureurs
+      - part des réassureurs
 
-6. Variation des autres provisions techniques, nette de réassurance:
+  - Variation des autres provisions techniques, nette de réassurance:
 
-1. provision d'assurance-vie:
+    - provision d'assurance-vie:
 
-1. montant brut
+      - montant brut
 
-2. part des réassureurs
+      - part des réassureurs
 
-2. autres provisions techniques, nettes de réassurance
+    - autres provisions techniques, nettes de réassurance
 
-7. Participations aux bénéfices et ristournes, nettes de réassurance
+  - Participations aux bénéfices et ristournes, nettes de réassurance
 
-8. Frais d'exploitation nets:
+  - Frais d'exploitation nets:
 
-1. frais d'acquisition
+    - frais d'acquisition
 
-2. variation du montant des frais d'acquisition reportés
+    - variation du montant des frais d'acquisition reportés
 
-3. frais d'administration
+    - frais d'administration
 
-4. commissions reçues des réassureurs et participations aux bénéfices
+    - commissions reçues des réassureurs et participations aux bénéfices
 
-9. Charges des placements:
+  - Charges des placements:
 
-1. charges de gestion des placements y compris les charges d'intérêt
+    - charges de gestion des placements y compris les charges d'intérêt
 
-2. corrections de valeurs sur placements
+    - corrections de valeurs sur placements
 
-3. pertes provenant de la réalisation des placements
+    - pertes provenant de la réalisation des placements
 
-10. Moins-values non réalisées sur placements
+  - Moins-values non réalisées sur placements
 
-11. Autres charges techniques, nettes de réassurance
+  - Autres charges techniques, nettes de réassurance
 
-12. Produits des placements alloués transférés au compte non technique
+  - Produits des placements alloués transférés au compte non technique
 
-13. Résultat du compte technique de l'assurance-vie
+  - Résultat du compte technique de l'assurance-vie
 
-3. Compte non technique
+- Compte non technique
 
-1. Résultat du compte technique de l'assurance non vie
+  - Résultat du compte technique de l'assurance non vie
 
-2. Résultat du compte technique de l'assurance-vie
+  - Résultat du compte technique de l'assurance-vie
 
-3. Produits des placements:
+  - Produits des placements:
 
-1. produits des participations
+    - produits des participations
 
-2. produits des autres placements:
+    - produits des autres placements:
 
-1. produits provenant des terrains et constructions
+      - produits provenant des terrains et constructions
 
-2. produits provenant d'autres placements
+      - produits provenant d'autres placements
 
-3. reprises de corrections de valeur sur placements
+    - reprises de corrections de valeur sur placements
 
-4. profits provenant de la réalisation de placements
+    - profits provenant de la réalisation de placements
 
-4. Produits des placements alloués transférés du compte technique de l'assurance-vie
+  - Produits des placements alloués transférés du compte technique de l'assurance-vie
 
-5. Charges des placements:
+  - Charges des placements:
 
-1. charges de gestion des placements y compris les charges d'intérêt
+    - charges de gestion des placements y compris les charges d'intérêt
 
-2. corrections de valeurs sur placements
+    - corrections de valeurs sur placements
 
-3. pertes provenant de la réalisation des placements
+    - pertes provenant de la réalisation des placements
 
-6. Produits des placements alloués transférés au compte technique de l'assurance non vie
+  - Produits des placements alloués transférés au compte technique de l'assurance non vie
 
-7. Autres produits
+  - Autres produits
 
-8. Autres charges y compris les corrections de valeur
+  - Autres charges y compris les corrections de valeur
 
-9. Impôts sur les résultats provenant des activités ordinaires
+  - Impôts sur les résultats provenant des activités ordinaires
 
-10. Résultat provenant des opérations ordinaires après impôts
+  - Résultat provenant des opérations ordinaires après impôts
 
-11. Produits exceptionnels
+  - Produits exceptionnels
 
-12. Charges exceptionnelles
+  - Charges exceptionnelles
 
-13. Résultat exceptionnel
+  - Résultat exceptionnel
 
-14. Impôts sur le résultat exceptionnel
+  - Impôts sur le résultat exceptionnel
 
-15. Résultat exceptionnel après impôts
+  - Résultat exceptionnel après impôts
 
-16. Autres impôts ne figurant pas sous les postes qui précèdent
+  - Autres impôts ne figurant pas sous les postes qui précèdent
 
-17. Résultat de l'exercice
+  - Résultat de l'exercice
 
 #### Chapitre 6 Dispositions particulières à certains postes du compte de profits et pertes
 
@@ -884,19 +884,19 @@ Primes brutes émises
 
 Les primes brutes émises comprennent tous les montants échus pendant l'exercice pour les contrats d'assurance, indépendamment du fait que ces montants se rapportent entièrement ou en partie à un exercice ultérieur, y compris notamment:
 
-1. les primes restant à émettre, lorsque le calcul de la prime ne peut s'effectuer qu'à la fin de l'année;
+- les primes restant à émettre, lorsque le calcul de la prime ne peut s'effectuer qu'à la fin de l'année;
 
-2. les primes uniques et les versements destinés à l'acquisition d'une rente annuelle;
+- les primes uniques et les versements destinés à l'acquisition d'une rente annuelle;
 
-3. les suppléments de prime dans le cas de versements semestriels, trimestriels ou mensuels et les prestations accessoires des assurés destinées à couvrir les frais de l'entreprise;
+- les suppléments de prime dans le cas de versements semestriels, trimestriels ou mensuels et les prestations accessoires des assurés destinées à couvrir les frais de l'entreprise;
 
-4. dans les cas de coassurance, la quote-part revenant à l'entreprise dans la totalité des primes;
+- dans les cas de coassurance, la quote-part revenant à l'entreprise dans la totalité des primes;
 
-5. les primes de réassurance en provenance d'entreprises d'assurance cédantes et rétrocédantes, y compris les entrées de portefeuille primes non acquises et risques en cours , après déduction:
+- les primes de réassurance en provenance d'entreprises d'assurance cédantes et rétrocédantes, y compris les entrées de portefeuille primes non acquises et risques en cours , après déduction:
 
-- des sorties de portefeuille pour primes non acquises et risques en cours en faveur d'entreprises d'assurance cédantes et rétrocédantes et
+  - des sorties de portefeuille pour primes non acquises et risques en cours en faveur d'entreprises d'assurance cédantes et rétrocédantes et
 
-- des annulations.
+  - des annulations.
 
 Les montants visés ci-avant ne comprennent pas les impôts ou taxes perçus avec les primes.
 
@@ -1096,23 +1096,23 @@ Lorsque cette dérogation est appliquée, les entreprises d'assurances doivent d
 
 Pour l'évaluation des postes figurant dans les comptes annuels il est fait application des principes généraux suivants:
 
-1. la société est présumée continuer ses activités;
+- la société est présumée continuer ses activités;
 
-2. les modes d'évaluation ne peuvent pas être modifiés d'un exercice à l'autre;
+- les modes d'évaluation ne peuvent pas être modifiés d'un exercice à l'autre;
 
-3. le principe de prudence doit en tout cas être observé et notamment:
+- le principe de prudence doit en tout cas être observé et notamment:
 
-- seuls les bénéfices réalisés à la date de clôture du bilan peuvent y être inscrits;
+  - seuls les bénéfices réalisés à la date de clôture du bilan peuvent y être inscrits;
 
-- « il doit être tenu compte de tous les risques qui ont pris naissance au cours de l'exercice ou d'un exercice antérieur, même si ces risques ne sont connus qu'entre la date de clôture du bilan et la date à laquelle il est établi; »16
+  - « il doit être tenu compte de tous les risques qui ont pris naissance au cours de l'exercice ou d'un exercice antérieur, même si ces risques ne sont connus qu'entre la date de clôture du bilan et la date à laquelle il est établi; »16
 
-- il doit être tenu compte des dépréciations, que l'exercice se solde par une perte ou par un bénéfice;
+  - il doit être tenu compte des dépréciations, que l'exercice se solde par une perte ou par un bénéfice;
 
-4. il doit être tenu compte des charges et produits afférents à l'exercice auquel les comptes se rapportent, sans considération de la date de paiement ou d'encaissement de ces charges ou produits;
+- il doit être tenu compte des charges et produits afférents à l'exercice auquel les comptes se rapportent, sans considération de la date de paiement ou d'encaissement de ces charges ou produits;
 
-5. les éléments des postes de l'actif et du passif doivent être évalués séparément;
+- les éléments des postes de l'actif et du passif doivent être évalués séparément;
 
-6. le bilan d'ouverture d'un exercice doit correspondre au bilan de clôture de l'exercice précédent.
+- le bilan d'ouverture d'un exercice doit correspondre au bilan de clôture de l'exercice précédent.
 
 2.
 
@@ -1120,19 +1120,19 @@ Outre les montants enregistrés conformément au point 1 c) tiret 2 ci-dessus, l
 
 3.
 
-1. Par dérogation aux dispositions du point 1 c) du présent article, lorsqu’un instrument financier est évalué sur la base de sa juste valeur, toute variation de cette valeur est portée au compte de profits et pertes.
+- Par dérogation aux dispositions du point 1 c) du présent article, lorsqu’un instrument financier est évalué sur la base de sa juste valeur, toute variation de cette valeur est portée au compte de profits et pertes.
 
-2. Toutefois, une telle variation est affectée directement à un compte de capitaux propres, dans une réserve de juste valeur, lorsque :
+- Toutefois, une telle variation est affectée directement à un compte de capitaux propres, dans une réserve de juste valeur, lorsque :
 
-- l’instrument comptabilisé est un instrument de couverture dans le cadre d’un système de comptabilité de couverture qui permet de ne pas inscrire tout ou partie de la variation de valeur dans le compte de profits et pertes, ou que
+  - l’instrument comptabilisé est un instrument de couverture dans le cadre d’un système de comptabilité de couverture qui permet de ne pas inscrire tout ou partie de la variation de valeur dans le compte de profits et pertes, ou que
 
-- la variation de valeur reflète une différence de change enregistrée sur un instrument monétaire faisant partie de l’investissement net d’une société dans une entité étrangère.
+  - la variation de valeur reflète une différence de change enregistrée sur un instrument monétaire faisant partie de l’investissement net d’une société dans une entité étrangère.
 
-3. Une variation de valeur d’un actif financier disponible à la vente, autre qu’un instrument financier dérivé, peut être directement portée au compte de capitaux propres, dans la réserve de juste valeur.
+- Une variation de valeur d’un actif financier disponible à la vente, autre qu’un instrument financier dérivé, peut être directement portée au compte de capitaux propres, dans la réserve de juste valeur.
 
-4. Lorsqu’un actif autre qu’un instrument financier est évalué sur la base de sa juste valeur, toute variation de cette valeur peut être portée au compte de profits et pertes ou être affectée directement à la réserve de juste valeur.
+- Lorsqu’un actif autre qu’un instrument financier est évalué sur la base de sa juste valeur, toute variation de cette valeur peut être portée au compte de profits et pertes ou être affectée directement à la réserve de juste valeur.
 
-5. La réserve de juste valeur est révisée lorsque les montants qui y sont inscrits ne sont plus nécessaires pour l’application des alinéas b), c) et d) ci-dessus.
+- La réserve de juste valeur est révisée lorsque les montants qui y sont inscrits ne sont plus nécessaires pour l’application des alinéas b), c) et d) ci-dessus.
 
 4.
 
@@ -1172,11 +1172,11 @@ En cas d’utilisation de la méthode de l’évaluation à la juste valeur conf
 
 Un règlement grand-ducal pourra, par dérogation à l'article , autoriser ou imposer pour toutes « les entreprises d'assurance et les fonds de pension visés à l’article 1er, point 1 » (loi du 8 août 2000)
 
-1. l'évaluation sur la base de la valeur de remplacement pour les actifs visés au poste G I de l'actif;
+- l'évaluation sur la base de la valeur de remplacement pour les actifs visés au poste G I de l'actif;
 
-2. l'évaluation des postes figurant dans les comptes annuels, y inclus les capitaux propres sur la base d'autres méthodes que celle prévue sous a), destinées à tenir compte de l'inflation;
+- l'évaluation des postes figurant dans les comptes annuels, y inclus les capitaux propres sur la base d'autres méthodes que celle prévue sous a), destinées à tenir compte de l'inflation;
 
-3. la réévaluation des immobilisations corporelles.
+- la réévaluation des immobilisations corporelles.
 
 Le règlement prévoyant les méthodes d'évaluation mentionnées sous a), b) ou c) en déterminera le contenu, les limites et les modalités d'application tout en respectant les dispositions de l'article 33 de la directive 78/660/CEE du 25 juillet 1978.
 
@@ -1191,9 +1191,9 @@ Un règlement grand-ducal pourra, par dérogation à l'article , autoriser pour 
 
 1.
 
-1. Les frais d'établissement doivent être amortis dans un délai maximal de cinq ans.
+- Les frais d'établissement doivent être amortis dans un délai maximal de cinq ans.
 
-2. Dans la mesure où les frais d'établissement n'ont pas été complètement amortis, toute distribution des résultats est interdite à moins que le montant des réserves disponibles à cet effet et des résultats reportés ne soit au moins égal au montant des frais non amortis.
+- Dans la mesure où les frais d'établissement n'ont pas été complètement amortis, toute distribution des résultats est interdite à moins que le montant des réserves disponibles à cet effet et des résultats reportés ne soit au moins égal au montant des frais non amortis.
 
 2.
 
@@ -1221,27 +1221,27 @@ L'article point 1 a) est applicable au poste "Fonds de commerce".
 
 Les actifs des postes B, C et les actifs immobilisés du poste G I sont à évaluer conformément aux principes qui suivent:
 
-1. Les actifs spécifiés ci-dessus doivent être évalués au prix d'acquisition ou au coût de revient sans préjudice des lettres b), c), d) et e) ci-après.
+- Les actifs spécifiés ci-dessus doivent être évalués au prix d'acquisition ou au coût de revient sans préjudice des lettres b), c), d) et e) ci-après.
 
-2. Le prix d'acquisition ou le coût de revient pour ceux de ces actifs dont l'utilisation est limitée dans le temps doit être diminué des corrections de valeur calculées de manière à amortir systématiquement la valeur de ces éléments pendant leur durée d'utilisation.
+- Le prix d'acquisition ou le coût de revient pour ceux de ces actifs dont l'utilisation est limitée dans le temps doit être diminué des corrections de valeur calculées de manière à amortir systématiquement la valeur de ces éléments pendant leur durée d'utilisation.
 
-3. aa) Les actifs des postes C II, III et IV peuvent faire l'objet de corrections de valeur afin de donner à ces éléments la valeur inférieure qui est à leur attribuer à la date de clôture du bilan.
+- aa) Les actifs des postes C II, III et IV peuvent faire l'objet de corrections de valeur afin de donner à ces éléments la valeur inférieure qui est à leur attribuer à la date de clôture du bilan.
 
-1. Que leur utilisation soit ou non limitée dans le temps, les actifs des postes B, C et les actifs immobilisés du poste G I doivent faire l'objet de corrections de valeur afin de donner à ces éléments la valeur inférieure qui est à attribuer à la date de clôture du bilan, si l'on prévoit que la dépréciation sera durable.
+  - Que leur utilisation soit ou non limitée dans le temps, les actifs des postes B, C et les actifs immobilisés du poste G I doivent faire l'objet de corrections de valeur afin de donner à ces éléments la valeur inférieure qui est à attribuer à la date de clôture du bilan, si l'on prévoit que la dépréciation sera durable.
 
-2. L'évaluation à la valeur inférieure visée sous aa) et bb) ne peut pas être maintenue lorsque les raisons qui ont motivé les corrections de valeur ont cessé d'exister.
+  - L'évaluation à la valeur inférieure visée sous aa) et bb) ne peut pas être maintenue lorsque les raisons qui ont motivé les corrections de valeur ont cessé d'exister.
 
-3. Les corrections de valeurs visées sub aa) et bb) ci-dessus doivent être portées au compte de profits et pertes et indiquées séparément dans l'annexe si elles ne sont pas indiquées séparément dans le compte de profits et pertes.
+  - Les corrections de valeurs visées sub aa) et bb) ci-dessus doivent être portées au compte de profits et pertes et indiquées séparément dans l'annexe si elles ne sont pas indiquées séparément dans le compte de profits et pertes.
 
-4.
+-
 
-1. Les obligations et autres valeurs mobilières à revenu fixe des postes C II et C III de l'actif sont évaluées soit à leur prix d'acquisition soit à leur prix de remboursement compte tenu de l'application des points bb) et cc) ci-après.
+  - Les obligations et autres valeurs mobilières à revenu fixe des postes C II et C III de l'actif sont évaluées soit à leur prix d'acquisition soit à leur prix de remboursement compte tenu de l'application des points bb) et cc) ci-après.
 
-2. Lorsque le prix d'acquisition des obligations et autres valeurs mobilières à revenu fixe dépasse leur prix de remboursement, la différence doit être prise en charge au compte de profits et pertes. Toutefois, il est permis que la différence soit amortie de manière échelonnée au plus tard au moment du remboursement de ces titres. La part non encore amortie de cette différence est à indiquer séparément dans le bilan ou dans l'annexe.
+  - Lorsque le prix d'acquisition des obligations et autres valeurs mobilières à revenu fixe dépasse leur prix de remboursement, la différence doit être prise en charge au compte de profits et pertes. Toutefois, il est permis que la différence soit amortie de manière échelonnée au plus tard au moment du remboursement de ces titres. La part non encore amortie de cette différence est à indiquer séparément dans le bilan ou dans l'annexe.
 
-3. Lorsque le prix d'acquisition des obligations et autres valeurs mobilières à revenu fixe est inférieur à leur prix de remboursement, il est permis que la différence soit portée en résultat de manière échelonnée pendant toute la période restant à courir jusqu'à l'échéance. Cette différence est à indiquer séparément dans le bilan ou dans l'annexe, avec indication des montants portés et non portés au compte de profits et pertes.
+  - Lorsque le prix d'acquisition des obligations et autres valeurs mobilières à revenu fixe est inférieur à leur prix de remboursement, il est permis que la différence soit portée en résultat de manière échelonnée pendant toute la période restant à courir jusqu'à l'échéance. Cette différence est à indiquer séparément dans le bilan ou dans l'annexe, avec indication des montants portés et non portés au compte de profits et pertes.
 
-5. Si les actifs visés au présent point font l'objet de corrections de valeur exceptionnelles pour la seule application de la législation fiscale, il y a lieu d'indiquer dans l'annexe le montant dûment motivé de ces corrections.
+- Si les actifs visés au présent point font l'objet de corrections de valeur exceptionnelles pour la seule application de la législation fiscale, il y a lieu d'indiquer dans l'annexe le montant dûment motivé de ces corrections.
 
 2.
 
@@ -1275,15 +1275,15 @@ Les actifs visés aux postes F et G II de l'actif sont à évaluer comme des act
 
 2.
 
-1. Les actifs circulants doivent être évalués au prix d'acquisition ou au coût de revient, sans préjudice des lettres b) et c).
+- Les actifs circulants doivent être évalués au prix d'acquisition ou au coût de revient, sans préjudice des lettres b) et c).
 
-2. Les actifs circulants font l'objet de corrections de valeur afin de donner à ces éléments la valeur inférieure du marché ou, dans des circonstances particulières, une autre valeur inférieure qui est à leur attribuer à la date de clôture du bilan.
+- Les actifs circulants font l'objet de corrections de valeur afin de donner à ces éléments la valeur inférieure du marché ou, dans des circonstances particulières, une autre valeur inférieure qui est à leur attribuer à la date de clôture du bilan.
 
-3. Des corrections de valeur exceptionnelles sont autorisées, si celles-ci sont nécessaires sur la base d'une appréciation commerciale raisonnable, pour éviter que, dans un proche avenir, l'évaluation de ces éléments ne doive être modifiée en raison de fluctuations de valeur. Le montant de ces corrections de valeur doit être indiqué séparément dans le compte de profits et pertes ou dans l'annexe.
+- Des corrections de valeur exceptionnelles sont autorisées, si celles-ci sont nécessaires sur la base d'une appréciation commerciale raisonnable, pour éviter que, dans un proche avenir, l'évaluation de ces éléments ne doive être modifiée en raison de fluctuations de valeur. Le montant de ces corrections de valeur doit être indiqué séparément dans le compte de profits et pertes ou dans l'annexe.
 
-4. L'évaluation à la valeur inférieure visée sous b) et c) ne peut pas être maintenue si les raisons qui ont motivé les corrections de valeur ont cessé d'exister.
+- L'évaluation à la valeur inférieure visée sous b) et c) ne peut pas être maintenue si les raisons qui ont motivé les corrections de valeur ont cessé d'exister.
 
-5. Si les actifs circulants font l'objet de corrections de valeur exceptionnelles pour la seule application de la législation fiscale, il y a lieu d'en indiquer dans l'annexe le montant dûment motivé.
+- Si les actifs circulants font l'objet de corrections de valeur exceptionnelles pour la seule application de la législation fiscale, il y a lieu d'en indiquer dans l'annexe le montant dûment motivé.
 
 3.
 
@@ -1355,43 +1355,43 @@ Le calcul est fait annuellement par un actuaire ou toute autre personne experte 
 
 3.
 
-1. Les provisions techniques d'assurance vie doivent être calculées selon une méthode actuarielle prospective suffisamment prudente, tenant compte de toutes les obligations futures conformément aux conditions établies pour chaque contrat en cours, et notamment:
+- Les provisions techniques d'assurance vie doivent être calculées selon une méthode actuarielle prospective suffisamment prudente, tenant compte de toutes les obligations futures conformément aux conditions établies pour chaque contrat en cours, et notamment:
 
-- de toutes les prestations garanties, y compris les valeurs de rachat garanties,
+  - de toutes les prestations garanties, y compris les valeurs de rachat garanties,
 
-- des participations aux bénéfices auxquels les assurés ont déjà collectivement ou individuellement droit, quelle que soit la qualification de ces participations, acquises, déclarées, ou allouées,
+  - des participations aux bénéfices auxquels les assurés ont déjà collectivement ou individuellement droit, quelle que soit la qualification de ces participations, acquises, déclarées, ou allouées,
 
-- de toutes les options auxquelles l'assuré a droit selon les conditions du contrat,
+  - de toutes les options auxquelles l'assuré a droit selon les conditions du contrat,
 
-- des frais de l'entreprise, y compris les commissions, tout en tenant compte des primes futures à recevoir.
+  - des frais de l'entreprise, y compris les commissions, tout en tenant compte des primes futures à recevoir.
 
-2. Une méthode rétrospective peut être utilisée si l'on peut démontrer que les provisions techniques issues de cette méthode ne sont pas inférieures à celles résultant d'une méthode prospective suffisamment prudente ou si une méthode prospective n'est pas possible pour le type de contrat concerné.
+- Une méthode rétrospective peut être utilisée si l'on peut démontrer que les provisions techniques issues de cette méthode ne sont pas inférieures à celles résultant d'une méthode prospective suffisamment prudente ou si une méthode prospective n'est pas possible pour le type de contrat concerné.
 
-3. Une évaluation prudente ne signifie pas une évaluation sur la base des hypothèses considérées les plus probables, mais doit tenir compte d'une marge raisonnable pour variations défavorables des différents facteurs en jeu.
+- Une évaluation prudente ne signifie pas une évaluation sur la base des hypothèses considérées les plus probables, mais doit tenir compte d'une marge raisonnable pour variations défavorables des différents facteurs en jeu.
 
-4. La méthode d'évaluation des provisions techniques doit être prudente non seulement en elle-même, mais également lorsqu'on prend en compte la méthode d'évaluation des actifs représentatifs de ces provisions.
+- La méthode d'évaluation des provisions techniques doit être prudente non seulement en elle-même, mais également lorsqu'on prend en compte la méthode d'évaluation des actifs représentatifs de ces provisions.
 
-5. Les provisions techniques doivent être calculées séparément pour chaque contrat. L'utilisation d'approximations raisonnables ou de généralisations est toutefois autorisée lorsqu'il y a lieu de supposer qu'elles donneront approximativement les mêmes résultats que des calculs individuels. L'utilisation de telles méthodes pour des branches d'assurances autre que la réassurance est subordonnée à l'autorisation du Commissariat. Le principe du calcul individuel n'empêche en rien la constitution de provisions supplémentaires pour risques généraux qui ne sont pas individualisés.
+- Les provisions techniques doivent être calculées séparément pour chaque contrat. L'utilisation d'approximations raisonnables ou de généralisations est toutefois autorisée lorsqu'il y a lieu de supposer qu'elles donneront approximativement les mêmes résultats que des calculs individuels. L'utilisation de telles méthodes pour des branches d'assurances autre que la réassurance est subordonnée à l'autorisation du Commissariat. Le principe du calcul individuel n'empêche en rien la constitution de provisions supplémentaires pour risques généraux qui ne sont pas individualisés.
 
-6. Lorsque la valeur de rachat d'un contrat est garantie, le montant des provisions mathématiques pour ce contrat doit être à tout moment au moins égal à la valeur garantie au même moment.
+- Lorsque la valeur de rachat d'un contrat est garantie, le montant des provisions mathématiques pour ce contrat doit être à tout moment au moins égal à la valeur garantie au même moment.
 
 4.
 
 Le taux d'intérêt utilisé doit être choisi prudemment. Pour les branches d’assurances autres que la réassurance, il est par ailleurs fixé selon les règles édictées par le Commissariat en application des principes suivants :
 
-1. Quand les contrats comprennent une garantie de taux d'intérêt, le Commissariat fixe un taux d'intérêt maximal unique. Ce taux peut être différent selon la devise dans laquelle est libellé le contrat, à condition de ne pas être supérieur à 60 % de celui des emprunts obligataires de l'Etat dans la devise duquel est libellé le contrat. S'il s'agit d'un contrat en écus, cette limite est fixée par référence aux emprunts obligataires des institutions communautaires, libellés en écus. Pour les contrats libellés dans une devise d'un Etat membre autre que le Grand-Duché de Luxembourg, le Commissariat consulte préalablement l'autorité compétente de l'Etat membre dans la devise duquel est libellé le contrat. Le règlement grand-ducal visé à l'article 61 point 2 peut apporter des dérogations à la règle de fixation du taux d'intérêt maximal.
+- Quand les contrats comprennent une garantie de taux d'intérêt, le Commissariat fixe un taux d'intérêt maximal unique. Ce taux peut être différent selon la devise dans laquelle est libellé le contrat, à condition de ne pas être supérieur à 60 % de celui des emprunts obligataires de l'Etat dans la devise duquel est libellé le contrat. S'il s'agit d'un contrat en écus, cette limite est fixée par référence aux emprunts obligataires des institutions communautaires, libellés en écus. Pour les contrats libellés dans une devise d'un Etat membre autre que le Grand-Duché de Luxembourg, le Commissariat consulte préalablement l'autorité compétente de l'Etat membre dans la devise duquel est libellé le contrat. Le règlement grand-ducal visé à l'article 61 point 2 peut apporter des dérogations à la règle de fixation du taux d'intérêt maximal.
 
-2. L'établissement d'un taux d'intérêt maximal n'implique pas que l'entreprise soit tenue d'utiliser un taux aussi élevé.
+- L'établissement d'un taux d'intérêt maximal n'implique pas que l'entreprise soit tenue d'utiliser un taux aussi élevé.
 
-3. Le point a) ne s'applique pas aux catégories de contrats suivants: Dans les cas visés au dernier tiret du premier alinéa, l'entreprise d'assurances peut, en choisissant un taux d'intérêt prudent, prendre en compte la monnaie dans laquelle le contrat est libellé et les actifs correspondants actuellement en portefeuille. En aucun cas, le taux d'intérêt utilisé ne peut être plus élevé que le rendement des actifs calculé selon les règles comptables luxembourgeoises, après une déduction appropriée.
+- Le point a) ne s'applique pas aux catégories de contrats suivants: Dans les cas visés au dernier tiret du premier alinéa, l'entreprise d'assurances peut, en choisissant un taux d'intérêt prudent, prendre en compte la monnaie dans laquelle le contrat est libellé et les actifs correspondants actuellement en portefeuille. En aucun cas, le taux d'intérêt utilisé ne peut être plus élevé que le rendement des actifs calculé selon les règles comptables luxembourgeoises, après une déduction appropriée.
 
-- aux contrats en unités de compte,
+  - aux contrats en unités de compte,
 
-- aux contrats à prime unique jusqu'à une durée de huit ans,
+  - aux contrats à prime unique jusqu'à une durée de huit ans,
 
-4. Lorsque le rendement actuel ou prévisible de l'actif de l'entreprise ne suffit pas à couvrir ses engagements de taux pris envers les assurés, l'entreprise doit constituer dans ses comptes une provision destinée à faire face à ces engagements.
+- Lorsque le rendement actuel ou prévisible de l'actif de l'entreprise ne suffit pas à couvrir ses engagements de taux pris envers les assurés, l'entreprise doit constituer dans ses comptes une provision destinée à faire face à ces engagements.
 
-5. Le Commissariat notifie les taux maximaux fixés en application du point a) à la Commission ainsi qu'aux autorités compétentes des Etats membres qui le demandent.
+- Le Commissariat notifie les taux maximaux fixés en application du point a) à la Commission ainsi qu'aux autorités compétentes des Etats membres qui le demandent.
 
 5.
 
@@ -1418,27 +1418,27 @@ Provision pour sinistres
 
 Assurance non vie
 
-1. Une provision est à constituer séparément pour chaque sinistre à concurrence du montant prévisible des charges futures. Des méthodes statistiques peuvent être utilisées pour autant que la provision constituée soit suffisante compte tenu de la nature des risques. L'utilisation de telles méthodes pour des branches d'assurances autres que la réassurance est subordonnée à l'autorisation du Commissariat aux assurances.
+- Une provision est à constituer séparément pour chaque sinistre à concurrence du montant prévisible des charges futures. Des méthodes statistiques peuvent être utilisées pour autant que la provision constituée soit suffisante compte tenu de la nature des risques. L'utilisation de telles méthodes pour des branches d'assurances autres que la réassurance est subordonnée à l'autorisation du Commissariat aux assurances.
 
-2. Cette provision doit tenir compte également des sinistres survenus mais non déclarés à la date de clôture du bilan; pour le calcul de cette provision, il est tenu compte de l'expérience du passé en ce qui concerne le nombre et le montant des sinistres déclarés après la clôture du bilan.
+- Cette provision doit tenir compte également des sinistres survenus mais non déclarés à la date de clôture du bilan; pour le calcul de cette provision, il est tenu compte de l'expérience du passé en ce qui concerne le nombre et le montant des sinistres déclarés après la clôture du bilan.
 
-3. Dans le calcul de la provision, il est tenu compte des frais de règlement des sinistres, quelle que soit leur origine.
+- Dans le calcul de la provision, il est tenu compte des frais de règlement des sinistres, quelle que soit leur origine.
 
-4. Les sommes récupérables provenant de l'acquisition des droits des assurés vis- à-vis des tiers (subrogation) ou de l'obtention de la propriété légale des biens assurés (sauvetage) sont inscrites à un poste D bis de l'actif libellé "Subrogations et sauvetages" et sont estimées avec prudence.
+- Les sommes récupérables provenant de l'acquisition des droits des assurés vis- à-vis des tiers (subrogation) ou de l'obtention de la propriété légale des biens assurés (sauvetage) sont inscrites à un poste D bis de l'actif libellé "Subrogations et sauvetages" et sont estimées avec prudence.
 
-5. Lorsque des indemnités au titre d'un sinistre doivent être payées sous forme d'annuité, les montants à provisionner à cette fin doivent être calculés sur la base de méthodes actuarielles reconnues.
+- Lorsque des indemnités au titre d'un sinistre doivent être payées sous forme d'annuité, les montants à provisionner à cette fin doivent être calculés sur la base de méthodes actuarielles reconnues.
 
-6. Toute déduction ou tout escompte, explicite ou implicite, qu'il résulte de l'évaluation de la provision pour un sinistre à régler à une valeur actuelle inférieure au montant prévisible du règlement qui sera effectué ultérieurement ou qu'il soit effectué autrement, est interdit.
+- Toute déduction ou tout escompte, explicite ou implicite, qu'il résulte de l'évaluation de la provision pour un sinistre à régler à une valeur actuelle inférieure au montant prévisible du règlement qui sera effectué ultérieurement ou qu'il soit effectué autrement, est interdit.
 
-7. Par dérogation au point 1 f) ci-dessus un règlement grand-ducal pourra prévoir qu'une déduction ou un escompte explicite peut être effectué par les entreprises ne pratiquant que la réassurance pour tenir compte des produits des placements. Ce règlement grand-ducal définit les familles de sinistres auxquelles les méthodes de déduction ou d'escompte peuvent être appliquées ainsi que les conditions auxquelles la déduction ou l'escompte pourra avoir lieu, ces conditions devant au moins être aussi restrictives que celles prévues à l'article 60 point 1 e) de la directive 91/674/CEE. Il peut en outre subordonner l'utilisation et les modalités des méthodes de déduction ou d'escompte à l'autorisation préalable du Commissariat aux assurances
+- Par dérogation au point 1 f) ci-dessus un règlement grand-ducal pourra prévoir qu'une déduction ou un escompte explicite peut être effectué par les entreprises ne pratiquant que la réassurance pour tenir compte des produits des placements. Ce règlement grand-ducal définit les familles de sinistres auxquelles les méthodes de déduction ou d'escompte peuvent être appliquées ainsi que les conditions auxquelles la déduction ou l'escompte pourra avoir lieu, ces conditions devant au moins être aussi restrictives que celles prévues à l'article 60 point 1 e) de la directive 91/674/CEE. Il peut en outre subordonner l'utilisation et les modalités des méthodes de déduction ou d'escompte à l'autorisation préalable du Commissariat aux assurances
 
 2.
 
 Assurance-vie
 
-1. Le montant de la provision pour sinistres est égal à la somme due aux bénéficiaires, augmentée des frais de règlement des sinistres. Il comprend la provision pour sinistres survenus mais non déclarés.
+- Le montant de la provision pour sinistres est égal à la somme due aux bénéficiaires, augmentée des frais de règlement des sinistres. Il comprend la provision pour sinistres survenus mais non déclarés.
 
-2. Les montants visés au point a) peuvent également être inscrits au poste C II du passif .
+- Les montants visés au point a) peuvent également être inscrits au poste C II du passif .
 
 <a id="article-74"></a>
 ## ARTICLE 74
@@ -1569,15 +1569,15 @@ Instruments financiers
 
 Sont considérés comme instruments financiers aux fins de l’évaluation à la juste valeur:
 
-1. les actifs des postes C.II. à C.IV, D, F, G.II et H.I de l’actif et les passifs des postes B, F et G du passif, y compris les dérivés ;
+- les actifs des postes C.II. à C.IV, D, F, G.II et H.I de l’actif et les passifs des postes B, F et G du passif, y compris les dérivés ;
 
-2. les instruments dérivés que constituent les contrats sur produits de base que chacune des parties est en droit de dénouer en numéraire ou au moyen d’un autre instrument financier, à l’exception de ceux qui :
+- les instruments dérivés que constituent les contrats sur produits de base que chacune des parties est en droit de dénouer en numéraire ou au moyen d’un autre instrument financier, à l’exception de ceux qui :
 
-- ont été passés et sont maintenus pour satisfaire les besoins escomptés de l’entreprise en matière d’achat, de vente ou d’utilisation du produit de base ;
+  - ont été passés et sont maintenus pour satisfaire les besoins escomptés de l’entreprise en matière d’achat, de vente ou d’utilisation du produit de base ;
 
-- ont été passés à cet effet dès le début, et
+  - ont été passés à cet effet dès le début, et
 
-- doivent être dénoués par la livraison du produit de base.
+  - doivent être dénoués par la livraison du produit de base.
 
 <a id="article-79-2"></a>
 ## ARTICLE 79-2
@@ -1588,19 +1588,19 @@ Instruments financiers non évalués à la juste valeur
 
 Les instruments financiers du passif ne peuvent être évalués à la juste valeur que s’ils sont :
 
-1. détenus en tant qu’éléments du portefeuille de négociation, ou
+- détenus en tant qu’éléments du portefeuille de négociation, ou
 
-2. des instruments financiers dérivés.
+- des instruments financiers dérivés.
 
 2.
 
 Ne peuvent pas être évalués à la juste valeur :
 
-1. les instruments financiers non dérivés conservés jusqu’à l’échéance ;
+- les instruments financiers non dérivés conservés jusqu’à l’échéance ;
 
-2. les prêts et les créances émis par l'entreprise et non détenus à des fins de négociations ;
+- les prêts et les créances émis par l'entreprise et non détenus à des fins de négociations ;
 
-3. les intérêts détenus dans des filiales, des entreprises associées et des coentreprises, les instruments de capitaux propres émis par l’entreprise, les contrats prévoyant une contrepartie éventuelle dans le cadre d’une opération de rapprochement entre sociétés, ni les autres instruments financiers présentant des spécificités telles que, conformément à ce qui est généralement admis, ils devraient être comptabilisés différemment des autres instruments financiers.
+- les intérêts détenus dans des filiales, des entreprises associées et des coentreprises, les instruments de capitaux propres émis par l’entreprise, les contrats prévoyant une contrepartie éventuelle dans le cadre d’une opération de rapprochement entre sociétés, ni les autres instruments financiers présentant des spécificités telles que, conformément à ce qui est généralement admis, ils devraient être comptabilisés différemment des autres instruments financiers.
 
 3.
 
@@ -1619,9 +1619,9 @@ Règles d’évaluation à la juste valeur
 
 La juste valeur est déterminée par référence à :
 
-1. une valeur de marché, dans le cas des actifs ou passifs pour lesquels un marché fiable est aisément identifiable. Lorsqu’une valeur de marché ne peut être aisément identifiée pour un actif ou passif donné, mais qu’elle peut l’être pour les éléments qui le composent ou pour un actif ou passif similaire, la valeur de marché peut être calculée à partir de ses composantes ou de l’actif ou passif similaire, ou
+- une valeur de marché, dans le cas des actifs ou passifs pour lesquels un marché fiable est aisément identifiable. Lorsqu’une valeur de marché ne peut être aisément identifiée pour un actif ou passif donné, mais qu’elle peut l’être pour les éléments qui le composent ou pour un actif ou passif similaire, la valeur de marché peut être calculée à partir de ses composantes ou de l’actif ou passif similaire, ou
 
-2. une valeur résultant de modèles et techniques d’évaluation généralement admis, dans le cas des actifs ou passifs pour lesquels un marché fiable ne peut être aisément identifié, à la condition que ces modèles et techniques d’évaluation garantissent une estimation raisonnable de la valeur de marché.
+- une valeur résultant de modèles et techniques d’évaluation généralement admis, dans le cas des actifs ou passifs pour lesquels un marché fiable ne peut être aisément identifié, à la condition que ces modèles et techniques d’évaluation garantissent une estimation raisonnable de la valeur de marché.
 
 2.
 
@@ -1638,204 +1638,204 @@ Les actifs ou passifs qui ne peuvent être mesurés de façon fiable par l’une
 
 Outre les mentions prescrites par d'autres dispositions de la présente loi, l'annexe contient les indications suivantes sur les postes de bilan tels qu'ils figurent au schéma repris à l'article de la présente loi:
 
-1.
+-
 
-1. Les mouvements des éléments d'actif suivants:
+  - Les mouvements des éléments d'actif suivants:
 
-- Actif poste B - Actifs incorporels
+    - Actif poste B - Actifs incorporels
 
-- Actif poste C I - Terrains et constructions
+    - Actif poste C I - Terrains et constructions
 
-- Actif poste C II - Placements dans des entreprises liées et participations dont: A cet effet, il y a lieu, en partant de la valeur inscrite au bilan au début d'exercice, de faire apparaître, pour chacun de ces postes, séparément, d'une part, les entrées et sorties ainsi que les transferts de l'exercice et, d'autre part, les corrections de valeur et les rectifications sur corrections de valeur d'exercices antérieurs effectuées pendant l'exercice.
+    - Actif poste C II - Placements dans des entreprises liées et participations dont: A cet effet, il y a lieu, en partant de la valeur inscrite au bilan au début d'exercice, de faire apparaître, pour chacun de ces postes, séparément, d'une part, les entrées et sorties ainsi que les transferts de l'exercice et, d'autre part, les corrections de valeur et les rectifications sur corrections de valeur d'exercices antérieurs effectuées pendant l'exercice.
 
-- Parts dans des entreprises liées.
+      - Parts dans des entreprises liées.
 
-- Bons et obligations émis par les entreprises liées et créances sur ces entreprises
+      - Bons et obligations émis par les entreprises liées et créances sur ces entreprises
 
-- Participations
+      - Participations
 
-- Bons et obligations émis par les entreprises avec lesquelles l'entreprise d'assurance a un lien de participation et créances sur ces entreprises
+      - Bons et obligations émis par les entreprises avec lesquelles l'entreprise d'assurance a un lien de participation et créances sur ces entreprises
 
-2. Lorsque, au moment de l'établissement des premiers comptes annuels conformément à la présente loi, le prix d'acquisition ou le coût de revient d'un élément d'actif visé à la lettre a) du présent point ne peut pas être déterminé sans frais ou délai injustifiés, la valeur résiduelle au début de l'exercice peut être considérée comme prix d'acquisition ou coût de revient. L'application de cette exception doit être mentionnée.
+  - Lorsque, au moment de l'établissement des premiers comptes annuels conformément à la présente loi, le prix d'acquisition ou le coût de revient d'un élément d'actif visé à la lettre a) du présent point ne peut pas être déterminé sans frais ou délai injustifiés, la valeur résiduelle au début de l'exercice peut être considérée comme prix d'acquisition ou coût de revient. L'application de cette exception doit être mentionnée.
 
-3. En cas d'application de l'article , les mouvements des divers éléments d'actif visés à la lettre a) du présent point sont indiqués en partant du prix d'acquisition ou du coût de revient réévalué.
+  - En cas d'application de l'article , les mouvements des divers éléments d'actif visés à la lettre a) du présent point sont indiqués en partant du prix d'acquisition ou du coût de revient réévalué.
 
-2. Pour les placements figurant au poste C de l’actif :
+- Pour les placements figurant au poste C de l’actif :
 
-1. si l’ensemble des placements est évalué suivant les dispositions de la section 1 du chapitre 7, leur valeur actuelle déterminée par application des dispositions de la section 2 du chapitre 7;
+  - si l’ensemble des placements est évalué suivant les dispositions de la section 1 du chapitre 7, leur valeur actuelle déterminée par application des dispositions de la section 2 du chapitre 7;
 
-2. si tout ou partie des placements est évalué suivant les dispositions de la section 3 du chapitre 7 :
+  - si tout ou partie des placements est évalué suivant les dispositions de la section 3 du chapitre 7 :
 
-- leur juste valeur déterminée par application des dispositions de la section 3 du chapitre 7 pour les placements évalués à leur valeur d’acquisition ;
+    - leur juste valeur déterminée par application des dispositions de la section 3 du chapitre 7 pour les placements évalués à leur valeur d’acquisition ;
 
-- leur valeur d’acquisition déterminée par application des dispositions de la section 1 du chapitre 7 pour les placements évalués à leur juste valeur;
+    - leur valeur d’acquisition déterminée par application des dispositions de la section 1 du chapitre 7 pour les placements évalués à leur juste valeur;
 
-3. Le nombre et la valeur nominale ou, à défaut de valeur nominale, le pair comptable des actions souscrites pendant l'exercice dans les limites d'un capital autorisé.
+- Le nombre et la valeur nominale ou, à défaut de valeur nominale, le pair comptable des actions souscrites pendant l'exercice dans les limites d'un capital autorisé.
 
-4. Lorsqu'il existe plusieurs catégories d'actions, le nombre et la valeur nominale ou, à défaut de valeur nominale, le pair comptable de chacune d'entre elles.
+- Lorsqu'il existe plusieurs catégories d'actions, le nombre et la valeur nominale ou, à défaut de valeur nominale, le pair comptable de chacune d'entre elles.
 
-5. L'existence de parts bénéficiaires, d'obligations convertibles et de titres ou droits similaires, avec indication de leur nombre et de l'étendue des droits qu'ils confèrent.
+- L'existence de parts bénéficiaires, d'obligations convertibles et de titres ou droits similaires, avec indication de leur nombre et de l'étendue des droits qu'ils confèrent.
 
-6. Le montant des dettes de l'entreprise dont la durée résiduelle est supérieure à cinq ans, ainsi que le montant de toutes les dettes de l'entreprise couvertes par des sûretés réelles données par l'entreprise, avec indication de leur nature et de leur forme. Ces indications doivent être données séparément pour chacun des postes G I à G V du passif.
+- Le montant des dettes de l'entreprise dont la durée résiduelle est supérieure à cinq ans, ainsi que le montant de toutes les dettes de l'entreprise couvertes par des sûretés réelles données par l'entreprise, avec indication de leur nature et de leur forme. Ces indications doivent être données séparément pour chacun des postes G I à G V du passif.
 
 <a id="article-81"></a>
 ## ARTICLE 81
 
 Les entreprises d'assurance indiquent soit dans le bilan soit dans l'annexe:
 
-1. Séparément pour chacun des postes considérés:
+- Séparément pour chacun des postes considérés:
 
-- les créances sur des entreprises liées et qui relèvent des postes F I à F III de l'actif,
+  - les créances sur des entreprises liées et qui relèvent des postes F I à F III de l'actif,
 
-- les créances sur des entreprises avec lesquelles l'entreprise d'assurances a un lien de participation et qui relèvent des postes F I à F III de l'actif,
+  - les créances sur des entreprises avec lesquelles l'entreprise d'assurances a un lien de participation et qui relèvent des postes F I à F III de l'actif,
 
-- les dettes envers des entreprises liées et qui relèvent des postes G I à G V du passif,
+  - les dettes envers des entreprises liées et qui relèvent des postes G I à G V du passif,
 
-- les dettes envers des entreprises avec lesquelles l'entreprise d'assurances a un lien de participation et qui relèvent des postes G I à G V du passif.
+  - les dettes envers des entreprises avec lesquelles l'entreprise d'assurances a un lien de participation et qui relèvent des postes G I à G V du passif.
 
-2. La ventilation des terrains et constructions du poste C I de l'actif suivant que ces terrains ou constructions sont utilisés ou non dans le cadre de l'activité propre de l'entreprise d'assurances.
+- La ventilation des terrains et constructions du poste C I de l'actif suivant que ces terrains ou constructions sont utilisés ou non dans le cadre de l'activité propre de l'entreprise d'assurances.
 
-3. Lorsqu'un élément d'actif ou de passif relève de plusieurs postes du schéma de l'article , son rapport avec d'autres postes lorsque cette indication est nécessaire à la compréhension des comptes annuels.
+- Lorsqu'un élément d'actif ou de passif relève de plusieurs postes du schéma de l'article , son rapport avec d'autres postes lorsque cette indication est nécessaire à la compréhension des comptes annuels.
 
-4. Les actions propres et les parts propres ainsi que les parts dans des entreprises liées ne peuvent figurer dans d'autres postes que ceux prévus à cette fin.
+- Les actions propres et les parts propres ainsi que les parts dans des entreprises liées ne peuvent figurer dans d'autres postes que ceux prévus à cette fin.
 
 <a id="article-82"></a>
 ## ARTICLE 82
 
 Outre les mentions prescrites par d'autres dispositions de la présente loi, l'annexe contient les indications suivantes sur les postes du compte de profits et pertes tels qu'ils figurent au schéma repris à l'article de la présente loi:
 
-1. En ce qui concerne l'assurance non vie, l'annexe doit indiquer: Ces montants sont ventilés en assurance directe et acceptations en réassurance lorsque ces acceptations représentent au moins 10 % du montant total des primes brutes émises et ensuite, à l'intérieur de l'assurance directe, entre les groupes de branches suivants: La ventilation par groupe de branches à l'intérieur de l'assurance directe n'est pas exigée lorsque le montant des primes brutes émises en assurance directe pour le groupe en question ne dépasse pas 9.915.740,99 millions d'euros. Néanmoins, les entreprises sont tenues, en tout état de cause, d'indiquer les montants relatifs aux trois groupes de branches les plus importants de leur activité.
+- En ce qui concerne l'assurance non vie, l'annexe doit indiquer: Ces montants sont ventilés en assurance directe et acceptations en réassurance lorsque ces acceptations représentent au moins 10 % du montant total des primes brutes émises et ensuite, à l'intérieur de l'assurance directe, entre les groupes de branches suivants: La ventilation par groupe de branches à l'intérieur de l'assurance directe n'est pas exigée lorsque le montant des primes brutes émises en assurance directe pour le groupe en question ne dépasse pas 9.915.740,99 millions d'euros. Néanmoins, les entreprises sont tenues, en tout état de cause, d'indiquer les montants relatifs aux trois groupes de branches les plus importants de leur activité.
 
-1. les primes brutes émises
+  - les primes brutes émises
 
-2. les primes brutes acquises
+  - les primes brutes acquises
 
-3. les charges des sinistres brutes
+  - les charges des sinistres brutes
 
-4. les frais d'exploitation bruts
+  - les frais d'exploitation bruts
 
-5. le solde de réassurance.
+  - le solde de réassurance.
 
-- accident et maladie
+  - accident et maladie
 
-- automobile, responsabilité civile
+  - automobile, responsabilité civile
 
-- automobile, autres branches
+  - automobile, autres branches
 
-- marine, aviation et transport
+  - marine, aviation et transport
 
-- incendie et autres dommages aux biens
+  - incendie et autres dommages aux biens
 
-- responsabilité civile
+  - responsabilité civile
 
-- crédit et caution
+  - crédit et caution
 
-- protection juridique
+  - protection juridique
 
-- assistance
+  - assistance
 
-- divers.
+  - divers.
 
-2. En ce qui concerne l'assurance-vie, l'annexe doit indiquer:
+- En ce qui concerne l'assurance-vie, l'annexe doit indiquer:
 
-- les primes brutes émises, ventilées en assurance directe et acceptions en réassurance lorsque ces acceptations représentent au moins 10 % du montant total des primes brutes et ensuite, à l'intérieur de l'assurance directe, entre les rubriques suivantes: L'indication d'un montant compris dans une des rubriques a), b) et c) n'est pas nécessaire lorsqu'il ne dépasse pas 10 % du montant total des primes brutes émises en assurance directe;
+  - les primes brutes émises, ventilées en assurance directe et acceptions en réassurance lorsque ces acceptations représentent au moins 10 % du montant total des primes brutes et ensuite, à l'intérieur de l'assurance directe, entre les rubriques suivantes: L'indication d'un montant compris dans une des rubriques a), b) et c) n'est pas nécessaire lorsqu'il ne dépasse pas 10 % du montant total des primes brutes émises en assurance directe;
 
-1.
+    -
 
-1. primes individuelles
+      - primes individuelles
 
-2. primes au titre de contrats de groupe
+      - primes au titre de contrats de groupe
 
-2.
+    -
 
-1. primes périodiques
+      - primes périodiques
 
-2. primes uniques
+      - primes uniques
 
-3.
+    -
 
-1. primes de contrats sans participation aux bénéfices
+      - primes de contrats sans participation aux bénéfices
 
-2. primes de contrats avec participation aux bénéfices
+      - primes de contrats avec participation aux bénéfices
 
-3. primes de contrats lorsque le risque de placement est supporté par les souscripteurs.
+      - primes de contrats lorsque le risque de placement est supporté par les souscripteurs.
 
-- le solde de réassurance.
+  - le solde de réassurance.
 
-3. Dans le cas visé à l'article point 4, l'annexe doit indiquer les primes brutes, ventilées en assurance-vie et assurance non vie.
+- Dans le cas visé à l'article point 4, l'annexe doit indiquer les primes brutes, ventilées en assurance-vie et assurance non vie.
 
-4. Dans tous les cas, l'annexe doit indiquer le montant total des primes brutes en assurance directe provenant de contrats conclus par l'entreprise d'assurance: étant entendu que l'indication des montants correspondants n'est pas nécessaire lorsqu'ils ne dépassent pas 5 % du montant total des primes brutes.
+- Dans tous les cas, l'annexe doit indiquer le montant total des primes brutes en assurance directe provenant de contrats conclus par l'entreprise d'assurance: étant entendu que l'indication des montants correspondants n'est pas nécessaire lorsqu'ils ne dépassent pas 5 % du montant total des primes brutes.
 
-- dans l'Etat membre de son siège
+  - dans l'Etat membre de son siège
 
-- dans les autres Etats membres
+  - dans les autres Etats membres
 
-- dans les autres pays,
+  - dans les autres pays,
 
-5. Les entreprises d'assurance doivent indiquer dans l'annexe le montant des commissions afférentes à l'assurance directe comptabilisées pendant l'exercice. Cette obligation concerne les commissions de toute nature, et notamment les commissions d'acquisition, de renouvellement, d'encaissement et de service après- vente.
+- Les entreprises d'assurance doivent indiquer dans l'annexe le montant des commissions afférentes à l'assurance directe comptabilisées pendant l'exercice. Cette obligation concerne les commissions de toute nature, et notamment les commissions d'acquisition, de renouvellement, d'encaissement et de service après- vente.
 
 <a id="article-83"></a>
 ## ARTICLE 83
 
 Les entreprises d'assurances fournissent en outre les indications suivantes dans l'annexe:
 
-1. Les modes d'évaluation appliqués aux divers postes des comptes annuels, et en particulier, dans l'assurance-vie, les bases et méthodes utilisées pour l'évaluation des provisions techniques, y compris le provisionne-ment des participations aux bénéfices, ainsi que les méthodes de calcul des corrections de valeur utilisées. Pour les éléments contenus dans les comptes annuels qui sont ou qui étaient à l'origine exprimés en monnaie étrangère, les bases de conversion utilisées pour leur expression dans la monnaie du capital doivent être indiquées. (loi du 27 avril 2006) L’annexe précise en outre pour chaque poste des placements la ou les méthodes d’évaluation appliquées ainsi que les montants obtenus.
+- Les modes d'évaluation appliqués aux divers postes des comptes annuels, et en particulier, dans l'assurance-vie, les bases et méthodes utilisées pour l'évaluation des provisions techniques, y compris le provisionne-ment des participations aux bénéfices, ainsi que les méthodes de calcul des corrections de valeur utilisées. Pour les éléments contenus dans les comptes annuels qui sont ou qui étaient à l'origine exprimés en monnaie étrangère, les bases de conversion utilisées pour leur expression dans la monnaie du capital doivent être indiquées. (loi du 27 avril 2006) L’annexe précise en outre pour chaque poste des placements la ou les méthodes d’évaluation appliquées ainsi que les montants obtenus.
 
-2. En cas d’utilisation de la méthode d’évaluation à la juste valeur pour les instruments financiers, l’annexe présente :
+- En cas d’utilisation de la méthode d’évaluation à la juste valeur pour les instruments financiers, l’annexe présente :
 
-1. les principales hypothèses sous-tendant les modèles et techniques d’évaluation utilisés, dans les cas où la juste valeur a été déterminée conformément à l’article 79-3, point 1 b) ;
+  - les principales hypothèses sous-tendant les modèles et techniques d’évaluation utilisés, dans les cas où la juste valeur a été déterminée conformément à l’article 79-3, point 1 b) ;
 
-2. pour chaque catégorie d’instruments financiers, la juste valeur, les variations de valeur inscrites directement dans le compte de pertes et profits ainsi que les variations portées dans la réserve de juste valeur ;
+  - pour chaque catégorie d’instruments financiers, la juste valeur, les variations de valeur inscrites directement dans le compte de pertes et profits ainsi que les variations portées dans la réserve de juste valeur ;
 
-3. pour chaque catégorie d’actifs ou passifs dérivés, des indications sur le volume et la nature des instruments, et notamment les principales modalités et conditions susceptibles d’influer sur le montant, le calendrier et le caractère certain des flux de trésorerie futurs ;
+  - pour chaque catégorie d’actifs ou passifs dérivés, des indications sur le volume et la nature des instruments, et notamment les principales modalités et conditions susceptibles d’influer sur le montant, le calendrier et le caractère certain des flux de trésorerie futurs ;
 
-4. un tableau indiquant les mouvements enregistrés dans la réserve de juste valeur au cours de l’exercice financier. »29
+  - un tableau indiquant les mouvements enregistrés dans la réserve de juste valeur au cours de l’exercice financier. »29
 
-3. Le nom et le siège des entreprises dans lesquelles l'entreprise d'assurances détient, soit elle-même, soit par une personne agissant en son nom, mais pour le compte de cette entreprise d'assurances, au moins vingt pour cent du capital, avec indication de la fraction du capital détenu ainsi que du montant des capitaux propres et de celui du résultat du dernier exercice de l'entreprise concernée pour lequel des comptes ont été arrêtés. Ces informations peuvent être omises lorsqu'elles ne sont que d'un intérêt négligeable au regard de l'objectif de l'article point 3. L'indication des capitaux propres et du résultat peut également être omise lorsque l'entreprise concernée ne publie pas son bilan et si elle est détenue à moins de 50%, directement ou indirectement, par l'entreprise d'assurances.
+- Le nom et le siège des entreprises dans lesquelles l'entreprise d'assurances détient, soit elle-même, soit par une personne agissant en son nom, mais pour le compte de cette entreprise d'assurances, au moins vingt pour cent du capital, avec indication de la fraction du capital détenu ainsi que du montant des capitaux propres et de celui du résultat du dernier exercice de l'entreprise concernée pour lequel des comptes ont été arrêtés. Ces informations peuvent être omises lorsqu'elles ne sont que d'un intérêt négligeable au regard de l'objectif de l'article point 3. L'indication des capitaux propres et du résultat peut également être omise lorsque l'entreprise concernée ne publie pas son bilan et si elle est détenue à moins de 50%, directement ou indirectement, par l'entreprise d'assurances.
 
-4. Le montant global des engagements financiers qui ne figurent pas dans le bilan, dans la mesure où son indication est utile à l'appréciation de la situation financière. Les engagements existant en matière de pensions ainsi que les engagements à l'égard d'entreprises liées doivent apparaître de façon distincte.
+- Le montant global des engagements financiers qui ne figurent pas dans le bilan, dans la mesure où son indication est utile à l'appréciation de la situation financière. Les engagements existant en matière de pensions ainsi que les engagements à l'égard d'entreprises liées doivent apparaître de façon distincte.
 
-5. La nature et l’objectif commercial des opérations non inscrites au bilan, ainsi que l’impact financier de ces opérations sur la société, à condition que les risques ou les avantages découlant de ces opérations soient significatifs et dans la mesure où la divulgation de ces risques ou avantages est nécessaire pour l’appréciation de la situation financière de la société.
+- La nature et l’objectif commercial des opérations non inscrites au bilan, ainsi que l’impact financier de ces opérations sur la société, à condition que les risques ou les avantages découlant de ces opérations soient significatifs et dans la mesure où la divulgation de ces risques ou avantages est nécessaire pour l’appréciation de la situation financière de la société.
 
-6. Les transactions effectuées par la société avec des parties liées, y compris le montant de ces transactions, la nature de la relation avec la partie liée ainsi que toute autre information sur les transactions nécessaire à l’appréciation de la situation financière de la société, si ces transactions présentent une importance significative et n’ont pas été conclues aux conditions normales du marché. Les informations sur les différentes transactions peuvent être agrégées en fonction de leur nature sauf lorsque des informations distinctes sont nécessaires pour comprendre les effets des transactions avec des parties liées sur la situation financière de la société. Sont exemptées les transactions effectuées entre deux ou plusieurs membres d’un groupe sous réserve que les filiales qui sont parties à la transaction soient détenues en totalité par un tel membre. Le terme «partie liée» a le même sens que dans les normes comptables internationales adoptées conformément au règlement (CE) N° 1606/2002.
+- Les transactions effectuées par la société avec des parties liées, y compris le montant de ces transactions, la nature de la relation avec la partie liée ainsi que toute autre information sur les transactions nécessaire à l’appréciation de la situation financière de la société, si ces transactions présentent une importance significative et n’ont pas été conclues aux conditions normales du marché. Les informations sur les différentes transactions peuvent être agrégées en fonction de leur nature sauf lorsque des informations distinctes sont nécessaires pour comprendre les effets des transactions avec des parties liées sur la situation financière de la société. Sont exemptées les transactions effectuées entre deux ou plusieurs membres d’un groupe sous réserve que les filiales qui sont parties à la transaction soient détenues en totalité par un tel membre. Le terme «partie liée» a le même sens que dans les normes comptables internationales adoptées conformément au règlement (CE) N° 1606/2002.
 
-7. Le nombre des membres du personnel employé en moyenne au cours de l'exercice, ventilé par catégorie, ainsi que les frais de personnel relatifs à l'exercice avec indication séparée:
+- Le nombre des membres du personnel employé en moyenne au cours de l'exercice, ventilé par catégorie, ainsi que les frais de personnel relatifs à l'exercice avec indication séparée:
 
-- des salaires et traitements
+  - des salaires et traitements
 
-- des charges sociales avec mention séparée de celles concernant les pensions.
+  - des charges sociales avec mention séparée de celles concernant les pensions.
 
-8. La proportion dans laquelle le calcul du résultat de l'exercice a été affecté par une évaluation des postes qui, en dérogeant aux principes du chapitre 7, a été effectuée pendant l'exercice ou un exercice antérieur en vue d'obtenir des allégements fiscaux. Lorsqu'une telle évaluation influence d'une façon non négligeable la charge fiscale future, des indications doivent être données.
+- La proportion dans laquelle le calcul du résultat de l'exercice a été affecté par une évaluation des postes qui, en dérogeant aux principes du chapitre 7, a été effectuée pendant l'exercice ou un exercice antérieur en vue d'obtenir des allégements fiscaux. Lorsqu'une telle évaluation influence d'une façon non négligeable la charge fiscale future, des indications doivent être données.
 
-9. La différence entre la charge fiscale imputée à l'exercice et aux exercices antérieurs et la charge fiscale déjà payée ou à payer au titre de ces exercices, dans la mesure où cette différence est d'un intérêt certain au regard de la charge fiscale future. Ce montant peut également figurer de façon cumulée dans le bilan sous un poste particulier à intitulé correspondant.
+- La différence entre la charge fiscale imputée à l'exercice et aux exercices antérieurs et la charge fiscale déjà payée ou à payer au titre de ces exercices, dans la mesure où cette différence est d'un intérêt certain au regard de la charge fiscale future. Ce montant peut également figurer de façon cumulée dans le bilan sous un poste particulier à intitulé correspondant.
 
-10. Le montant des rémunérations allouées au titre de l'exercice aux membres des organes d'administration, de direction ou de surveillance à raison de leurs fonctions, ainsi que les engagements nés ou contractés en matière de pensions de retraite à l'égard des anciens membres des organes précités. Ces informations doivent être données de façon globale pour chaque catégorie. Ces indications peuvent toutefois être omises lorsqu'elles permettent d'identifier la situation d'un membre déterminé de ces organes.
+- Le montant des rémunérations allouées au titre de l'exercice aux membres des organes d'administration, de direction ou de surveillance à raison de leurs fonctions, ainsi que les engagements nés ou contractés en matière de pensions de retraite à l'égard des anciens membres des organes précités. Ces informations doivent être données de façon globale pour chaque catégorie. Ces indications peuvent toutefois être omises lorsqu'elles permettent d'identifier la situation d'un membre déterminé de ces organes.
 
-11. Les montants des avances et crédits accordés aux membres de leurs organes d'administration, de direction ou de surveillance, avec indication du taux d'intérêt, des conditions essentielles et des montants éventuellement remboursés, ainsi que les engagements pris pour le compte de ces personnes au titre d'une garantie quelconque. Ces informations doivent être données de façon globale pour chaque catégorie.
+- Les montants des avances et crédits accordés aux membres de leurs organes d'administration, de direction ou de surveillance, avec indication du taux d'intérêt, des conditions essentielles et des montants éventuellement remboursés, ainsi que les engagements pris pour le compte de ces personnes au titre d'une garantie quelconque. Ces informations doivent être données de façon globale pour chaque catégorie.
 
-12.
+-
 
-1. Le nom et le siège de l'entreprise qui établit les comptes consolidés de l'ensemble le plus grand d'entreprises dont l'entreprise d'assurances fait partie en tant qu'entreprise filiale;
+  - Le nom et le siège de l'entreprise qui établit les comptes consolidés de l'ensemble le plus grand d'entreprises dont l'entreprise d'assurances fait partie en tant qu'entreprise filiale;
 
-2. Le nom et le siège de l'entreprise qui établit les comptes consolidés de l'ensemble le plus petit d'entreprises inclus dans l'ensemble d'entreprises visé au point a) dont l'entreprise d'assurances fait partie en tant qu'entreprise filiale.
+  - Le nom et le siège de l'entreprise qui établit les comptes consolidés de l'ensemble le plus petit d'entreprises inclus dans l'ensemble d'entreprises visé au point a) dont l'entreprise d'assurances fait partie en tant qu'entreprise filiale.
 
-3. Le lieu où les comptes consolidés visés aux points a) et b) peuvent être obtenus doit être mentionné, à moins qu'ils ne soient indisponibles.
+  - Le lieu où les comptes consolidés visés aux points a) et b) peuvent être obtenus doit être mentionné, à moins qu'ils ne soient indisponibles.
 
-13. En cas de non-utilisation de la méthode de l'évaluation à la juste valeur pour les instruments financiers:
+- En cas de non-utilisation de la méthode de l'évaluation à la juste valeur pour les instruments financiers:
 
-1. pour chaque catégorie d’instruments financiers dérivés:
+  - pour chaque catégorie d’instruments financiers dérivés:
 
-1. la juste valeur des instruments, si cette valeur peut être déterminée grâce à l'une des méthodes prescrites à l'article 79-3 point 1;
+    - la juste valeur des instruments, si cette valeur peut être déterminée grâce à l'une des méthodes prescrites à l'article 79-3 point 1;
 
-2. des indications sur le volume et la nature des instruments ;
+    - des indications sur le volume et la nature des instruments ;
 
-2. pour les immobilisations financières comptabilisées pour un montant supérieur à leur juste valeur et sans qu'il ait été fait usage de la possibilité d'en ajuster la valeur conformément à l'article 64 point 1 c) aa):
+  - pour les immobilisations financières comptabilisées pour un montant supérieur à leur juste valeur et sans qu'il ait été fait usage de la possibilité d'en ajuster la valeur conformément à l'article 64 point 1 c) aa):
 
-1. la valeur comptable et la juste valeur des actifs en question, pris isolément ou regroupés de manière adéquate;
+    - la valeur comptable et la juste valeur des actifs en question, pris isolément ou regroupés de manière adéquate;
 
-2. les raisons pour lesquelles la valeur comptable n'a pas été réduite, et notamment la nature des éléments qui permettent de penser que la valeur comptable sera récupérée.
+    - les raisons pour lesquelles la valeur comptable n'a pas été réduite, et notamment la nature des éléments qui permettent de penser que la valeur comptable sera récupérée.
 
-14. Séparément, le total des honoraires versés pendant l’exercice au contrôleur légal ou au cabinet d’audit pour le contrôle légal des comptes annuels, le total des honoraires versés pour les autres services de certification, le total des honoraires versés pour les services de conseil fiscal et le total des honoraires versés pour les autres services.
+- Séparément, le total des honoraires versés pendant l’exercice au contrôleur légal ou au cabinet d’audit pour le contrôle légal des comptes annuels, le total des honoraires versés pour les autres services de certification, le total des honoraires versés pour les services de conseil fiscal et le total des honoraires versés pour les autres services.
 
 <a id="article-84"></a>
 ## ARTICLE 84
@@ -1844,17 +1844,17 @@ Les entreprises d'assurances fournissent en outre les indications suivantes dans
 
 Il est permis que les indications prescrites à l'article point 2:
 
-1. prennent la forme d’un relevé déposé conformément à l’article 11bis § 3 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales et aux dispositions du chapitre Vbis du titre Ier de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.
+- prennent la forme d’un relevé déposé conformément à l’article 11bis § 3 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales et aux dispositions du chapitre Vbis du titre Ier de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.
 
-2. soient omises lorsqu'elles sont de nature à porter gravement préjudice à une des entreprises visées à l'article point 2. L'omission de ces indications doit être mentionnée dans l'annexe.
+- soient omises lorsqu'elles sont de nature à porter gravement préjudice à une des entreprises visées à l'article point 2. L'omission de ces indications doit être mentionnée dans l'annexe.
 
 2.
 
 Les informations visées à l'article point 2, 1ère phrase concernant le montant des capitaux propres et celui du résultat du dernier exercice concerné pour lequel des comptes ont été établis peuvent être omises:
 
-1. lorsque les entreprises concernées sont incluses dans les comptes consolidés établis par la société mère ou dans les comptes consolidés d'un ensemble plus grand d'entreprises visés à l'article point 2 de la présente loi ou
+- lorsque les entreprises concernées sont incluses dans les comptes consolidés établis par la société mère ou dans les comptes consolidés d'un ensemble plus grand d'entreprises visés à l'article point 2 de la présente loi ou
 
-2. lorsque les droits détenus dans leur capital sont traités par la société mère dans ses comptes annuels conformément à l'article ou dans les comptes consolidés que cette société mère établit conformément à l'article de la présente loi.
+- lorsque les droits détenus dans leur capital sont traités par la société mère dans ses comptes annuels conformément à l'article ou dans les comptes consolidés que cette société mère établit conformément à l'article de la présente loi.
 
 #### Chapitre 9 Contenu du rapport de gestion
 
@@ -1863,31 +1863,31 @@ Les informations visées à l'article point 2, 1ère phrase concernant le montan
 
 1.
 
-1. Le rapport de gestion doit contenir au moins un exposé fidèle sur l'évolution des affaires, les résultats et la situation de l’entreprise d’assurances, ainsi qu'une description des principaux risques et incertitudes auxquels elle est confrontée. Cet exposé consiste en une analyse équilibrée et exhaustive de l'évolution des affaires, des résultats et de la situation de l’entreprise d’assurances, en rapport avec le volume et la complexité de ces affaires.
+- Le rapport de gestion doit contenir au moins un exposé fidèle sur l'évolution des affaires, les résultats et la situation de l’entreprise d’assurances, ainsi qu'une description des principaux risques et incertitudes auxquels elle est confrontée. Cet exposé consiste en une analyse équilibrée et exhaustive de l'évolution des affaires, des résultats et de la situation de l’entreprise d’assurances, en rapport avec le volume et la complexité de ces affaires.
 
-2. Dans la mesure nécessaire à la compréhension de l'évolution des affaires, des résultats ou de la situation de l’entreprise, l'analyse comporte des indicateurs clés de performance de nature tant financière que, le cas échéant, non financière ayant trait à l'activité spécifique de l’entreprise, notamment des informations relatives aux questions d'environnement et de personnel.
+- Dans la mesure nécessaire à la compréhension de l'évolution des affaires, des résultats ou de la situation de l’entreprise, l'analyse comporte des indicateurs clés de performance de nature tant financière que, le cas échéant, non financière ayant trait à l'activité spécifique de l’entreprise, notamment des informations relatives aux questions d'environnement et de personnel.
 
-3. En donnant son analyse, le rapport de gestion contient le cas échéant des renvois aux montants indiqués dans les comptes annuels et des explications supplémentaires y afférentes.
+- En donnant son analyse, le rapport de gestion contient le cas échéant des renvois aux montants indiqués dans les comptes annuels et des explications supplémentaires y afférentes.
 
 2.
 
 Le rapport doit également comporter des indications sur:
 
-1. les événements importants survenus après la clôture de l'exercice
+- les événements importants survenus après la clôture de l'exercice
 
-2. l'évolution prévisible de la société
+- l'évolution prévisible de la société
 
-3. les activités en matière de recherche et de développement
+- les activités en matière de recherche et de développement
 
-4. en ce qui concerne les acquisitions d'actions propres, les indications visées à l'article 49-5 paragraphe (2) de la loi du 10 août 1915 concernant les sociétés commerciales.
+- en ce qui concerne les acquisitions d'actions propres, les indications visées à l'article 49-5 paragraphe (2) de la loi du 10 août 1915 concernant les sociétés commerciales.
 
-5. l’existence des succursales de l"entreprise d'assurances ;
+- l’existence des succursales de l"entreprise d'assurances ;
 
-6. en ce qui concerne l'utilisation des instruments financiers par l'entreprise et lorsque cela est pertinent pour l'évaluation de son actif, de son passif, de sa situation financière et de ses pertes ou profits:
+- en ce qui concerne l'utilisation des instruments financiers par l'entreprise et lorsque cela est pertinent pour l'évaluation de son actif, de son passif, de sa situation financière et de ses pertes ou profits:
 
-- les objectifs et la politique de l’entreprise d’assurances en matière de gestion des risques financiers, y compris sa politique concernant la couverture de chaque catégorie principale de transactions prévues pour lesquelles il est fait usage de la comptabilité de couverture, et
+  - les objectifs et la politique de l’entreprise d’assurances en matière de gestion des risques financiers, y compris sa politique concernant la couverture de chaque catégorie principale de transactions prévues pour lesquelles il est fait usage de la comptabilité de couverture, et
 
-- l'exposition de l’entreprise au risque de prix, au risque de crédit, au risque de liquidité et au risque de trésorerie.
+  - l'exposition de l’entreprise au risque de prix, au risque de crédit, au risque de liquidité et au risque de trésorerie.
 
 <a id="article-85-1"></a>
 ## ARTICLE 85-1
@@ -1898,25 +1898,25 @@ Toute entreprise d’assurances dont les titres sont admis à la négociation su
 
 Cette déclaration forme une section spécifique du rapport de gestion et contient au minimum les informations suivantes:
 
-1. la désignation: Lorsque les points i) et ii) s’appliquent, l’entreprise d’assurances indique également où les textes correspondants peuvent être consultés publiquement. Lorsque le point iii) s’applique, l’entreprise d’assurances rend publiques ses pratiques en matière de gouvernement d’entreprise;
+- la désignation: Lorsque les points i) et ii) s’appliquent, l’entreprise d’assurances indique également où les textes correspondants peuvent être consultés publiquement. Lorsque le point iii) s’applique, l’entreprise d’assurances rend publiques ses pratiques en matière de gouvernement d’entreprise;
 
-1. du code de gouvernement d’entreprise auquel l’entreprise d’assurances est soumise, et/ou
+  - du code de gouvernement d’entreprise auquel l’entreprise d’assurances est soumise, et/ou
 
-2. du code de gouvernement d’entreprise que l’entreprise d’assurances a décidé d’appliquer volontairement, et/ou
+  - du code de gouvernement d’entreprise que l’entreprise d’assurances a décidé d’appliquer volontairement, et/ou
 
-3. de toutes les informations pertinentes relatives aux pratiques de gouvernement d’entreprise appliquées allant au-delà des exigences requises par le droit national.
+  - de toutes les informations pertinentes relatives aux pratiques de gouvernement d’entreprise appliquées allant au-delà des exigences requises par le droit national.
 
-2. dans la mesure où une entreprise d’assurances, conformément à la législation nationale, déroge à un des codes de gouvernement d’entreprise visés au point a)i)ou ii), elle indique les parties de ce code auxquelles elle déroge et les raisons de cette dérogation. Si l’entreprise d’assurances a décidé de n’appliquer aucune disposition d’un code de gouvernement d’entreprise visé au point a) i)ou ii), elle en explique les raisons;
+- dans la mesure où une entreprise d’assurances, conformément à la législation nationale, déroge à un des codes de gouvernement d’entreprise visés au point a)i)ou ii), elle indique les parties de ce code auxquelles elle déroge et les raisons de cette dérogation. Si l’entreprise d’assurances a décidé de n’appliquer aucune disposition d’un code de gouvernement d’entreprise visé au point a) i)ou ii), elle en explique les raisons;
 
-3. une description des principales caractéristiques des systèmes de contrôle interne et de gestion des risques de l’entreprise d’assurances dans le cadre du processus d’établissement de l’information financière;
+- une description des principales caractéristiques des systèmes de contrôle interne et de gestion des risques de l’entreprise d’assurances dans le cadre du processus d’établissement de l’information financière;
 
-4. les informations exigées à l’article 10, paragraphe 1,points c), d), f), h) et i) de la directive 2004/25/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les offres publiques d’acquisition, lorsque l’entreprise d’assurances est visée par cette directive;
+- les informations exigées à l’article 10, paragraphe 1,points c), d), f), h) et i) de la directive 2004/25/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les offres publiques d’acquisition, lorsque l’entreprise d’assurances est visée par cette directive;
 
-5. à moins que les informations ne soient déjà contenues de façon détaillée dans les lois et règlements nationaux, le mode de fonctionnement et les principaux pouvoirs de l’assemblée générale des actionnaires, ainsi qu’une description des droits des actionnaires et des modalités de l’exercice de ces droits;
+- à moins que les informations ne soient déjà contenues de façon détaillée dans les lois et règlements nationaux, le mode de fonctionnement et les principaux pouvoirs de l’assemblée générale des actionnaires, ainsi qu’une description des droits des actionnaires et des modalités de l’exercice de ces droits;
 
-6. la composition et le mode de fonctionnement des organes administratifs, de gestion et de surveillance et de leurs comités.
+- la composition et le mode de fonctionnement des organes administratifs, de gestion et de surveillance et de leurs comités.
 
-7. une description de la politique de diversité appliquée aux organes d’administration, de gestion et de surveillance de l’entreprise au regard de critères tels que, par exemple, l’âge, le genre ou les qualifications et l’expérience professionnelles, ainsi qu’une description des objectifs de cette politique de diversité, de ses modalités de mise en œuvre et des résultats obtenus au cours de la période de référence. A défaut d’une telle politique, la déclaration comprend une explication des raisons le justifiant.
+- une description de la politique de diversité appliquée aux organes d’administration, de gestion et de surveillance de l’entreprise au regard de critères tels que, par exemple, l’âge, le genre ou les qualifications et l’expérience professionnelles, ainsi qu’une description des objectifs de cette politique de diversité, de ses modalités de mise en œuvre et des résultats obtenus au cours de la période de référence. A défaut d’une telle politique, la déclaration comprend une explication des raisons le justifiant.
 
 2.
 
@@ -1933,29 +1933,29 @@ Sont exemptées de l’application des dispositions visées au paragraphe 1, poi
 
 Le présent article vise les entreprises d’assurances qui:
 
-1. dépassent, à la date de clôture du bilan et pendant deux exercices consécutifs, les limites chiffrées d’au moins deux des trois critères suivants: et
+- dépassent, à la date de clôture du bilan et pendant deux exercices consécutifs, les limites chiffrées d’au moins deux des trois critères suivants: et
 
-- total du bilan: 17,5 millions d’euros
+  - total du bilan: 17,5 millions d’euros
 
-- primes brutes émises: 35 millions d’euros
+  - primes brutes émises: 35 millions d’euros
 
-- nombre de membres du personnel employé à plein temps et en moyenne au courant de l’exercice: 250
+  - nombre de membres du personnel employé à plein temps et en moyenne au courant de l’exercice: 250
 
-2. dépassent, à la date de clôture du bilan, le critère du nombre moyen de 500 salariés sur l’exercice.
+- dépassent, à la date de clôture du bilan, le critère du nombre moyen de 500 salariés sur l’exercice.
 
 2.
 
 Les entreprises d’assurances visées au paragraphe 1er incluent dans le rapport de gestion une déclaration non financière comprenant des informations, dans la mesure nécessaire à la compréhension de l’évolution des affaires, des performances, de la situation de l’entreprise et des incidences de son activité, relatives au moins aux questions environnementales, aux questions sociales et de personnel, de respect des droits de l’homme et de lutte contre la corruption, y compris:
 
-1. une brève description du modèle commercial de l’entreprise;
+- une brève description du modèle commercial de l’entreprise;
 
-2. une description des politiques appliquées par l’entreprise en ce qui concerne ces questions, y compris les procédures de diligence raisonnable mises en œuvre;
+- une description des politiques appliquées par l’entreprise en ce qui concerne ces questions, y compris les procédures de diligence raisonnable mises en œuvre;
 
-3. les résultats de ces politiques;
+- les résultats de ces politiques;
 
-4. les principaux risques liés à ces questions en rapport avec les activités de l’entreprise, y compris, lorsque cela s’avère pertinent et proportionné, les relations d’affaires, les produits ou les services de l’entreprise, qui sont susceptibles d’entraîner des incidences négatives dans ces domaines, et la manière dont l’entreprise gère ces risques;
+- les principaux risques liés à ces questions en rapport avec les activités de l’entreprise, y compris, lorsque cela s’avère pertinent et proportionné, les relations d’affaires, les produits ou les services de l’entreprise, qui sont susceptibles d’entraîner des incidences négatives dans ces domaines, et la manière dont l’entreprise gère ces risques;
 
-5. les indicateurs clés de performance de nature non financière concernant les activités en question. Lorsque l’entreprise d’assurances n’applique pas de politique en ce qui concerne l’une ou plusieurs de ces questions, la déclaration non financière comprend une explication claire et motivée des raisons le justifiant. La déclaration non financière visée au premier alinéa contient également, le cas échéant, des renvois aux montants indiqués dans les comptes annuels et des explications supplémentaires y afférentes. L’omission d’informations portant sur des évolutions imminentes ou des affaires en cours de négociation est autorisée dans des cas exceptionnels où, de l’avis dûment motivé des membres des organes d’administration, de gestion et de surveillance, agissant dans le cadre des compétences qui leur sont dévolues par la loi et au titre de leur obligation collective quant à cet avis, la communication de ces informations nuirait gravement à la position commerciale de l’entreprise, à condition que cette omission ne fasse pas obstacle à une compréhension juste et équilibrée de l’évolution des affaires, des performances, de la situation de l’entreprise et des incidences de son activité. Pour la publication des informations visées au premier alinéa, les entreprises d’assurances peuvent s’appuyer sur des cadres nationaux, de l’Union européenne ou internationaux. Les entreprises d’assurances indiquent les cadres sur lesquels elles se sont appuyées.
+- les indicateurs clés de performance de nature non financière concernant les activités en question. Lorsque l’entreprise d’assurances n’applique pas de politique en ce qui concerne l’une ou plusieurs de ces questions, la déclaration non financière comprend une explication claire et motivée des raisons le justifiant. La déclaration non financière visée au premier alinéa contient également, le cas échéant, des renvois aux montants indiqués dans les comptes annuels et des explications supplémentaires y afférentes. L’omission d’informations portant sur des évolutions imminentes ou des affaires en cours de négociation est autorisée dans des cas exceptionnels où, de l’avis dûment motivé des membres des organes d’administration, de gestion et de surveillance, agissant dans le cadre des compétences qui leur sont dévolues par la loi et au titre de leur obligation collective quant à cet avis, la communication de ces informations nuirait gravement à la position commerciale de l’entreprise, à condition que cette omission ne fasse pas obstacle à une compréhension juste et équilibrée de l’évolution des affaires, des performances, de la situation de l’entreprise et des incidences de son activité. Pour la publication des informations visées au premier alinéa, les entreprises d’assurances peuvent s’appuyer sur des cadres nationaux, de l’Union européenne ou internationaux. Les entreprises d’assurances indiquent les cadres sur lesquels elles se sont appuyées.
 
 3.
 
@@ -1969,9 +1969,9 @@ Une entreprise d’assurances qui est une filiale au sens de l’article 92, par
 
 Lorsqu’une entreprise d’assurances établit, en s’appuyant ou non sur des cadres nationaux, de l’Union européenne ou internationaux, un rapport distinct qui porte sur le même exercice et qui couvre les informations requises pour la déclaration non financière telles qu’elles sont prévues au paragraphe 2, cette entreprise est exemptée de l’obligation d’établir la déclaration non financière prévue au paragraphe 2 pour autant que ce rapport distinct:
 
-1. soit publié en même temps que le rapport de gestion, conformément à l’article 87; ou
+- soit publié en même temps que le rapport de gestion, conformément à l’article 87; ou
 
-2. soit mis à la disposition du public dans un délai raisonnable, et au plus tard six mois après la date de clôture du bilan, sur le site internet de l’entreprise, et soit visé dans le rapport de gestion.
+- soit mis à la disposition du public dans un délai raisonnable, et au plus tard six mois après la date de clôture du bilan, sur le site internet de l’entreprise, et soit visé dans le rapport de gestion.
 
 Le paragraphe 3 s’applique aux entreprises d’assurances qui préparent le rapport distinct visé au premier alinéa du présent paragraphe.
 
@@ -1994,15 +1994,15 @@ Le ou les réviseurs chargés du contrôle des comptes doivent donner aussi un a
 
 Le rapport des réviseurs d’entreprises agréés comprend les éléments suivants:
 
-1. une introduction, qui contient au moins l'identification des comptes annuels qui font l'objet du contrôle légal, ainsi que le cadre de présentation qui a été appliqué lors de leur établissement;
+- une introduction, qui contient au moins l'identification des comptes annuels qui font l'objet du contrôle légal, ainsi que le cadre de présentation qui a été appliqué lors de leur établissement;
 
-2. une description de l'étendue du contrôle légal, qui contient au moins l'indication des normes selon lesquelles le contrôle légal a été effectué;
+- une description de l'étendue du contrôle légal, qui contient au moins l'indication des normes selon lesquelles le contrôle légal a été effectué;
 
-3. une attestation qui exprime clairement les conclusions des réviseurs d’entreprises agréés chargés du contrôle des comptes quant à leur fidélité de l'image donnée par les comptes annuels et quant à la conformité de ces comptes avec le cadre de présentation retenu et quant au respect des exigences légales applicables. Elle peut prendre la forme d'une attestation sans réserve, d'une attestation nuancée par des réserves, d'une attestation négative, ou, si les réviseurs d’entreprises agréés sont dans l'incapacité de délivrer une attestation, d'une déclaration indiquant l'impossibilité de délivrer une attestation;
+- une attestation qui exprime clairement les conclusions des réviseurs d’entreprises agréés chargés du contrôle des comptes quant à leur fidélité de l'image donnée par les comptes annuels et quant à la conformité de ces comptes avec le cadre de présentation retenu et quant au respect des exigences légales applicables. Elle peut prendre la forme d'une attestation sans réserve, d'une attestation nuancée par des réserves, d'une attestation négative, ou, si les réviseurs d’entreprises agréés sont dans l'incapacité de délivrer une attestation, d'une déclaration indiquant l'impossibilité de délivrer une attestation;
 
-4. une référence à quelque question que ce soit sur laquelle les réviseurs d’entreprises agréés chargés du contrôle des comptes attirent
+- une référence à quelque question que ce soit sur laquelle les réviseurs d’entreprises agréés chargés du contrôle des comptes attirent
 
-5. une opinion indiquant si le rapport de gestion concorde ou non avec les comptes annuels pour le même exercice.
+- une opinion indiquant si le rapport de gestion concorde ou non avec les comptes annuels pour le même exercice.
 
 3.
 
@@ -2067,15 +2067,15 @@ Dans la mesure de leurs compétences respectives, les organes d’administration
 
 Les entreprises ayant exercé l’option prévue à l’article 1 paragraphe 4 ne peuvent pas distribuer ou utiliser à une autre fin:
 
-1. les produits et gains non réalisés inscrits au compte de profit et pertes, nets d’impôts y relatifs, autres que ceux relatifs à des actifs détenus en représentation de contrats pour lesquels le risque de placement est assumé par les preneurs d’assurance;
+- les produits et gains non réalisés inscrits au compte de profit et pertes, nets d’impôts y relatifs, autres que ceux relatifs à des actifs détenus en représentation de contrats pour lesquels le risque de placement est assumé par les preneurs d’assurance;
 
-2. les produits et gains non réalisés, nets d’impôts y relatifs, inscrits en capitaux propres ne transitant pas par le compte de profit et pertes, autres que ceux relatifs à des actifs détenus en représentation de contrats pour lesquels le risque de placement est assumé par les preneurs d’assurance;
+- les produits et gains non réalisés, nets d’impôts y relatifs, inscrits en capitaux propres ne transitant pas par le compte de profit et pertes, autres que ceux relatifs à des actifs détenus en représentation de contrats pour lesquels le risque de placement est assumé par les preneurs d’assurance;
 
-3. les produits et gains, nets d’impôts y relatifs, inscrits au compte de profit et pertes et résultant d’une évaluation des provisions techniques et de la part des réassureurs dans ces provisions techniques différant de celle, nette des frais d’acquisition reportés, résultant de l’application des articles 69 à 75;
+- les produits et gains, nets d’impôts y relatifs, inscrits au compte de profit et pertes et résultant d’une évaluation des provisions techniques et de la part des réassureurs dans ces provisions techniques différant de celle, nette des frais d’acquisition reportés, résultant de l’application des articles 69 à 75;
 
-4. les produits et gains, nets d’impôts y relatifs, inscrits en capitaux propres ne transitant pas par le compte de profit et pertes et résultant d’une évaluation des provisions techniques et de la part des réassureurs dans ces provisions techniques différant de celle, nette des frais d’acquisition reportés, résultant de l’application des articles 69 à 75;
+- les produits et gains, nets d’impôts y relatifs, inscrits en capitaux propres ne transitant pas par le compte de profit et pertes et résultant d’une évaluation des provisions techniques et de la part des réassureurs dans ces provisions techniques différant de celle, nette des frais d’acquisition reportés, résultant de l’application des articles 69 à 75;
 
-5. les variations de capitaux propres positives, nettes d’impôts y relatifs, constatées dans le bilan d’ouverture des premiers comptes annuels établis en application des articles 79-1 à 79-3 ou lors de la première application d’une norme comptable internationale adoptée conformément au règlement (CE) n° 1606/2002 à une catégorie ou à un élément d’actif ou de passif ou à un instrument de capitaux propres déterminé.
+- les variations de capitaux propres positives, nettes d’impôts y relatifs, constatées dans le bilan d’ouverture des premiers comptes annuels établis en application des articles 79-1 à 79-3 ou lors de la première application d’une norme comptable internationale adoptée conformément au règlement (CE) n° 1606/2002 à une catégorie ou à un élément d’actif ou de passif ou à un instrument de capitaux propres déterminé.
 
 Un règlement grand-ducal peut préciser les modalités d’application du présent paragraphe.
 
@@ -2085,27 +2085,27 @@ Les éléments mentionnés au paragraphe 1er ci-dessus doivent être affectés �
 
 Cette réserve indisponible ne peut pas faire l’objet d’une utilisation aux fins suivantes ou à des fins similaires:
 
-1. augmentation de capital par incorporation de réserves;
+- augmentation de capital par incorporation de réserves;
 
-2. dotation à la réserve légale;
+- dotation à la réserve légale;
 
-3. création de la réserve indisponible liée à l’acquisition d’actions propres;
+- création de la réserve indisponible liée à l’acquisition d’actions propres;
 
-4. création de la réserve indisponible liée à l’octroi d’aide financière en vue de l’acquisition des actions de l’entreprise par un tiers;
+- création de la réserve indisponible liée à l’octroi d’aide financière en vue de l’acquisition des actions de l’entreprise par un tiers;
 
-5. création de la réserve indisponible liée à l’émission d’actions rachetables;
+- création de la réserve indisponible liée à l’émission d’actions rachetables;
 
-6. détermination de la perte de la moitié ou des trois-quarts du capital social;
+- détermination de la perte de la moitié ou des trois-quarts du capital social;
 
-7. réserve spéciale constituée conformément au paragraphe 8a) de la loi modifiée du 16 octobre 1934 concernant l’impôt sur la fortune.
+- réserve spéciale constituée conformément au paragraphe 8a) de la loi modifiée du 16 octobre 1934 concernant l’impôt sur la fortune.
 
 3)
 
 Par dérogation aux dispositions des paragraphes 1 et 2 qui précèdent, les éléments suivants ne sont pas considérés comme indisponibles et peuvent par conséquent être distribués ou utilisés à une autre fin:
 
-1. les variations de capitaux propres visés au paragraphe 1er point e) relatives au rétablissement du prix d’acquisition ou du coût de revient historique des éléments de l’actif immobilisé ayant, précédemment à l’exercice de l’option visée à l’article 1 paragraphe 4, fait l’objet de corrections de valeurs calculées de manière à amortir systématiquement leur valeur durant leur durée d’utilisation et qui, en application des normes comptables internationales, ne sont plus soumis à de telles corrections de valeur;
+- les variations de capitaux propres visés au paragraphe 1er point e) relatives au rétablissement du prix d’acquisition ou du coût de revient historique des éléments de l’actif immobilisé ayant, précédemment à l’exercice de l’option visée à l’article 1 paragraphe 4, fait l’objet de corrections de valeurs calculées de manière à amortir systématiquement leur valeur durant leur durée d’utilisation et qui, en application des normes comptables internationales, ne sont plus soumis à de telles corrections de valeur;
 
-2. les variations de capitaux propres visées au paragraphe 1er point e) relatives aux reprises de provisions et corrections de valeurs ne pouvant être maintenues au bilan suite à l’exercice de l’option visée à l’article 1er paragraphe 4.
+- les variations de capitaux propres visées au paragraphe 1er point e) relatives aux reprises de provisions et corrections de valeurs ne pouvant être maintenues au bilan suite à l’exercice de l’option visée à l’article 1er paragraphe 4.
 
 4)
 
@@ -2132,9 +2132,9 @@ Les entreprises d'assurances peuvent inscrire au bilan les participations, au se
 
 Lors de la première application du présent article à une participation visée au point 1, celle-ci est inscrite au bilan:
 
-1. soit à sa valeur comptable évaluée conformément aux règles reprises au chapitre 7 de la partie ll de la présente loi. La différence entre cette valeur et le montant correspondant à la fraction des capitaux propres représentée par cette participation est mentionnée séparément dans le bilan ou dans l'annexe. Cette différence est calculée à la date à laquelle la méthode est appliquée pour la première fois;
+- soit à sa valeur comptable évaluée conformément aux règles reprises au chapitre 7 de la partie ll de la présente loi. La différence entre cette valeur et le montant correspondant à la fraction des capitaux propres représentée par cette participation est mentionnée séparément dans le bilan ou dans l'annexe. Cette différence est calculée à la date à laquelle la méthode est appliquée pour la première fois;
 
-2. soit pour le montant correspondant à la fraction des capitaux propres représentée par cette participation. La différence entre ce montant et la valeur comptable évaluée conformément aux règles d'évaluation requises au chapitre 7 de la partie ll de la présente loi, est mentionnée séparément dans le bilan ou dans l'annexe. Cette différence est calculée à la date à laquelle la méthode est appliquée pour la première fois.
+- soit pour le montant correspondant à la fraction des capitaux propres représentée par cette participation. La différence entre ce montant et la valeur comptable évaluée conformément aux règles d'évaluation requises au chapitre 7 de la partie ll de la présente loi, est mentionnée séparément dans le bilan ou dans l'annexe. Cette différence est calculée à la date à laquelle la méthode est appliquée pour la première fois.
 
 Le bilan ou l'annexe doit indiquer laquelle des lettres a) ou b) a été utilisée.
 
@@ -2177,17 +2177,17 @@ Lorsqu'une entreprise, dans laquelle une participation au sens du point 1 est d�
 
 Toute entreprise d'assurances visée à l'article premier de la présente loi est obligée d'établir des comptes consolidés et un rapport consolidé de gestion si cette entreprise:
 
-1. a la majorité des droits de vote des actionnaires ou associés d'une entreprise, ou
+- a la majorité des droits de vote des actionnaires ou associés d'une entreprise, ou
 
-2. a le droit de nommer ou de révoquer la majorité des membres de l'organe d'administration, de direction ou de surveillance d'une entreprise et est en même temps actionnaire ou associé de cette entreprise, ou
+- a le droit de nommer ou de révoquer la majorité des membres de l'organe d'administration, de direction ou de surveillance d'une entreprise et est en même temps actionnaire ou associé de cette entreprise, ou
 
-3. est actionnaire ou associée d'une entreprise et contrôle seule, en vertu d'un accord conclu avec d'autres actionnaires ou associés de cette entreprise, la majorité des droits de vote des actionnaires ou associés de celle-ci, ou
+- est actionnaire ou associée d'une entreprise et contrôle seule, en vertu d'un accord conclu avec d'autres actionnaires ou associés de cette entreprise, la majorité des droits de vote des actionnaires ou associés de celle-ci, ou
 
-4.
+-
 
-1. peut exercer ou exerce effectivement sur une autre entreprise une influence dominante ou un contrôle, ou
+  - peut exercer ou exerce effectivement sur une autre entreprise une influence dominante ou un contrôle, ou
 
-2. elle-même et une autre entreprise se trouvent placées sous une direction unique.
+  - elle-même et une autre entreprise se trouvent placées sous une direction unique.
 
 2.
 
@@ -2204,9 +2204,9 @@ Pour l'application de l'article point 1, lettres a), b) et c), les droits de vot
 
 Pour l'application de l'article point 1, lettres a), b) et c) les droits indiqués au point 1 du présent article doivent être réduits des droits:
 
-1. afférents aux actions ou parts détenues pour le compte d'une personne autre que l'entreprise mère ou une entreprise filiale ou
+- afférents aux actions ou parts détenues pour le compte d'une personne autre que l'entreprise mère ou une entreprise filiale ou
 
-2. afférents aux actions ou parts détenues en garantie à condition que ces droits soient exercés conformément aux instructions reçues, ou que la détention de ces actions ou parts soit pour l'entreprise détentrice une opération courante de ses activités en matière de prêts à condition que les droits de vote soient exercés dans l'intérêt du donneur de garantie.
+- afférents aux actions ou parts détenues en garantie à condition que ces droits soient exercés conformément aux instructions reçues, ou que la détention de ces actions ou parts soit pour l'entreprise détentrice une opération courante de ses activités en matière de prêts à condition que les droits de vote soient exercés dans l'intérêt du donneur de garantie.
 
 3.
 
@@ -2230,27 +2230,27 @@ Pour l'application du point 1, toute entreprise filiale d'une entreprise filiale
 
 Par dérogation à l'article est exemptée de l'obligation d'établir des comptes consolidés et un rapport consolidé de gestion toute entreprise mère qui est en même temps une entreprise filiale lorsque sa propre entreprise mère relève du droit d'un Etat membre de la Communauté Européenne dans les deux cas suivants:
 
-1. l'entreprise mère est titulaire de toutes les parts ou actions de cette entreprise exemptée. Les parts ou actions de cette entreprise détenues par des membres de ses organes d'administration, de direction ou de surveillance en vertu d'une obligation légale ou statutaire ne sont pas prises en considération;
+- l'entreprise mère est titulaire de toutes les parts ou actions de cette entreprise exemptée. Les parts ou actions de cette entreprise détenues par des membres de ses organes d'administration, de direction ou de surveillance en vertu d'une obligation légale ou statutaire ne sont pas prises en considération;
 
-2. l'entreprise mère détient 90% ou plus des parts ou actions de cette entreprise exemptée et les autres actionnaires ou associés de cette entreprise ont approuvé l'exemption.
+- l'entreprise mère détient 90% ou plus des parts ou actions de cette entreprise exemptée et les autres actionnaires ou associés de cette entreprise ont approuvé l'exemption.
 
 2.
 
 L'exemption est subordonnée à la réunion de toutes les conditions suivantes:
 
-1. l'entreprise exemptée ainsi que, sans préjudice « de l’article » (loi du 27 avril 2006), toutes ses entreprises filiales sont consolidées dans les comptes d'un ensemble plus grand d'entreprises dont l'entreprise mère relève du droit d'un Etat membre de la Communauté Européenne;
+- l'entreprise exemptée ainsi que, sans préjudice « de l’article » (loi du 27 avril 2006), toutes ses entreprises filiales sont consolidées dans les comptes d'un ensemble plus grand d'entreprises dont l'entreprise mère relève du droit d'un Etat membre de la Communauté Européenne;
 
-2.
+-
 
-1. les comptes consolidés visés à la lettre a) ainsi que le rapport consolidé de gestion de l'ensemble plus grand d'entreprises sont établis par l'entreprise mère de cet ensemble, et contrôlés, selon le droit de l'Etat membre dont celle- ci relève;
+  - les comptes consolidés visés à la lettre a) ainsi que le rapport consolidé de gestion de l'ensemble plus grand d'entreprises sont établis par l'entreprise mère de cet ensemble, et contrôlés, selon le droit de l'Etat membre dont celle- ci relève;
 
-2. les comptes consolidés visés à la lettre a) et le rapport consolidé de gestion visé à la lettre b) aa), ainsi que le rapport de la personne chargée du contrôle de ces comptes, font l'objet de la part de l'entreprise exemptée d'une publicité effectuée selon les modalités de l'article point 1;
+  - les comptes consolidés visés à la lettre a) et le rapport consolidé de gestion visé à la lettre b) aa), ainsi que le rapport de la personne chargée du contrôle de ces comptes, font l'objet de la part de l'entreprise exemptée d'une publicité effectuée selon les modalités de l'article point 1;
 
-3. l'annexe des comptes annuels de l'entreprise exemptée doit comporter:
+- l'annexe des comptes annuels de l'entreprise exemptée doit comporter:
 
-1. le nom et le siège de l'entreprise mère qui établit les comptes consolidés visés à la lettre a) et
+  - le nom et le siège de l'entreprise mère qui établit les comptes consolidés visés à la lettre a) et
 
-2. la mention de l'exemption de l'obligation d'établir des comptes consolidés et un rapport consolidé de gestion.
+  - la mention de l'exemption de l'obligation d'établir des comptes consolidés et un rapport consolidé de gestion.
 
 3.
 
@@ -2268,11 +2268,11 @@ Dans les cas autres que ceux prévus à l'article point 1 est exemptée de l'obl
 
 Par dérogation à l'article est exemptée de l'obligation d'établir des comptes consolidés et un rapport consolidé de gestion toute entreprise mère qui est en même temps une entreprise filiale lorsque sa propre entreprise mère ne relève pas du droit d'un Etat membre de la Communauté Européenne, si toutes les conditions suivantes sont remplies:
 
-1. l'entreprise exemptée ainsi que, sans préjudice « de l’article » 60, toutes ses entreprises filiales sont consolidées dans les comptes d'un ensemble plus grand d'entreprises;
+- l'entreprise exemptée ainsi que, sans préjudice « de l’article » 60, toutes ses entreprises filiales sont consolidées dans les comptes d'un ensemble plus grand d'entreprises;
 
-2. les comptes consolidés visés à la lettre a) et le cas échéant, le rapport consolidé de gestion sont établis en conformité avec les dispositions de la présente loi ou de façon équivalente;
+- les comptes consolidés visés à la lettre a) et le cas échéant, le rapport consolidé de gestion sont établis en conformité avec les dispositions de la présente loi ou de façon équivalente;
 
-3. les comptes consolidés visés à la lettre a) ont été contrôlés par une ou plusieurs personnes habilitées au contrôle des comptes en vertu du droit national dont relève l'entreprise qui a établi ces comptes.
+- les comptes consolidés visés à la lettre a) ont été contrôlés par une ou plusieurs personnes habilitées au contrôle des comptes en vertu du droit national dont relève l'entreprise qui a établi ces comptes.
 
 2.
 
@@ -2297,11 +2297,11 @@ Une entreprise mère dont toutes les entreprises filiales présentent, tant indi
 
 En outre, une entreprise peut être laissée en dehors de la consolidation lorsque:
 
-1. des restrictions sévères et durables entament substantiellement l'exercice par la société mère de ses droits visant le patrimoine ou la gestion de cette entreprise;
+- des restrictions sévères et durables entament substantiellement l'exercice par la société mère de ses droits visant le patrimoine ou la gestion de cette entreprise;
 
-2. les informations nécessaires pour établir les comptes consolidés conformément à la présente loi ne peuvent être obtenues sans frais disproportionnés ou sans délai injustifié;
+- les informations nécessaires pour établir les comptes consolidés conformément à la présente loi ne peuvent être obtenues sans frais disproportionnés ou sans délai injustifié;
 
-3. les actions ou parts de cette entreprise sont détenues exclusivement en vue de leur cession ultérieure.
+- les actions ou parts de cette entreprise sont détenues exclusivement en vue de leur cession ultérieure.
 
 <a id="article-99"></a>
 ## ARTICLE 99
@@ -2362,11 +2362,11 @@ Les éléments d'actif et de passif des entreprises comprises dans la consolidat
 
 Les valeurs comptables des actions ou parts dans le capital des entreprises comprises dans la consolidation sont compensées par la fraction des capitaux propres des entreprises dans la consolidation qu'elles représentent.
 
-1. Cette compensation se fait sur la base des valeurs comptables existant à la date à laquelle cette entreprise est incluse pour la première fois dans la consolidation. Les différences résultant de la compensation sont imputées, dans la mesure du possible, directement aux postes du bilan consolidé qui ont une valeur supérieure ou inférieure à leur valeur comptable.
+- Cette compensation se fait sur la base des valeurs comptables existant à la date à laquelle cette entreprise est incluse pour la première fois dans la consolidation. Les différences résultant de la compensation sont imputées, dans la mesure du possible, directement aux postes du bilan consolidé qui ont une valeur supérieure ou inférieure à leur valeur comptable.
 
-2. Cette compensation peut aussi s'effectuer sur la base de la valeur des éléments identifiables d'actif et de passif à la date d'acquisition des actions ou parts ou, lorsque l'acquisition a eu lieu en plusieurs fois, à la date à laquelle l'entreprise est devenue une entreprise filiale.
+- Cette compensation peut aussi s'effectuer sur la base de la valeur des éléments identifiables d'actif et de passif à la date d'acquisition des actions ou parts ou, lorsque l'acquisition a eu lieu en plusieurs fois, à la date à laquelle l'entreprise est devenue une entreprise filiale.
 
-3. La différence qui subsiste après application de la lettre a) ou celle qui résulte de l'application de la lettre b) est inscrite au bilan consolidé sous le poste intitulé "Différences de première consolidation". Ce poste est à faire figurer entre les postes B (Actifs incorporels) et C (Placements) à l'actif et entre les postes A IV (Réserves) et A V (Résultats reportés) au passif du schéma tel qu'il est défini à l'article de la présente loi. Ce poste, les méthodes appliquées et, si elles sont importantes, les modifications par rapport à l'exercice précédent doivent être commentés dans l'annexe. Les différences positive et négative peuvent être compensées sous condition que la ventilation de ces différences figure dans l'annexe.
+- La différence qui subsiste après application de la lettre a) ou celle qui résulte de l'application de la lettre b) est inscrite au bilan consolidé sous le poste intitulé "Différences de première consolidation". Ce poste est à faire figurer entre les postes B (Actifs incorporels) et C (Placements) à l'actif et entre les postes A IV (Réserves) et A V (Résultats reportés) au passif du schéma tel qu'il est défini à l'article de la présente loi. Ce poste, les méthodes appliquées et, si elles sont importantes, les modifications par rapport à l'exercice précédent doivent être commentés dans l'annexe. Les différences positive et négative peuvent être compensées sous condition que la ventilation de ces différences figure dans l'annexe.
 
 2.
 
@@ -2379,11 +2379,11 @@ Toutefois, le point 1 ne s'applique pas aux actions ou parts dans le capital de 
 
 Au lieu de la méthode prévue à l'article les sociétés consolidantes peuvent pratiquer la compensation entre les valeurs comptables des actions ou parts dans le capital d'une entreprise comprise dans la consolidation et la fraction correspondante du seul capital de cette entreprise à condition:
 
-1. que les actions ou parts détenues représentent au moins 90% de la valeur nominale ou, à défaut de valeur nominale, du pair comptable des actions ou parts de l'entreprise autres que celles auxquelles est attaché un droit limité de participation aux distributions ou au patrimoine social en cas de liquidation;
+- que les actions ou parts détenues représentent au moins 90% de la valeur nominale ou, à défaut de valeur nominale, du pair comptable des actions ou parts de l'entreprise autres que celles auxquelles est attaché un droit limité de participation aux distributions ou au patrimoine social en cas de liquidation;
 
-2. que la proportion visée à la lettre a) ait été atteinte en vertu d'un arrangement prévoyant l'émission d'actions ou parts par une entreprise comprise dans la consolidation;
+- que la proportion visée à la lettre a) ait été atteinte en vertu d'un arrangement prévoyant l'émission d'actions ou parts par une entreprise comprise dans la consolidation;
 
-3. que l'arrangement visé à la lettre b) ne prévoie pas un paiement au comptant supérieur à 10% de la valeur nominale ou, à défaut de valeur nominale, du pair comptable des actions ou parts émises.
+- que l'arrangement visé à la lettre b) ne prévoie pas un paiement au comptant supérieur à 10% de la valeur nominale ou, à défaut de valeur nominale, du pair comptable des actions ou parts émises.
 
 2.
 
@@ -2435,11 +2435,11 @@ Des dérogations au point 1 sont admises dans des cas exceptionnels. Lorsqu'il e
 
 Les comptes consolidés font apparaître le patrimoine, la situation financière et les résultats des entreprises comprises dans la consolidation comme s'il s'agissait d'une seule entreprise. Notamment,
 
-1. les dettes et créances entre les entreprises comprises dans la consolidation sont éliminées des comptes consolidés;
+- les dettes et créances entre les entreprises comprises dans la consolidation sont éliminées des comptes consolidés;
 
-2. les produits et charges afférents aux opérations effectuées entre des entreprises comprises dans la consolidation sont éliminés des comptes consolidés;
+- les produits et charges afférents aux opérations effectuées entre des entreprises comprises dans la consolidation sont éliminés des comptes consolidés;
 
-3. les profits et les pertes qui résultent d'opérations effectuées entre des entreprises comprises dans la consolidation et qui sont inclus dans la valeur comptable de l'actif, sont éliminés des comptes consolidés.
+- les profits et les pertes qui résultent d'opérations effectuées entre des entreprises comprises dans la consolidation et qui sont inclus dans la valeur comptable de l'actif, sont éliminés des comptes consolidés.
 
 Ces éliminations peuvent être faites proportionnellement à la fraction du capital détenue par l'entreprise mère dans chacune des entreprises filiales comprises dans la consolidation.
 
@@ -2447,9 +2447,9 @@ Ces éliminations peuvent être faites proportionnellement à la fraction du cap
 
 Il peut être dérogé au point 1 lettre c) lorsque l'opération est conclue conformément aux conditions normales du marché et que
 
-1. elle crée des droits en faveur des assurés ou
+- elle crée des droits en faveur des assurés ou
 
-2. l'élimination des profits ou des pertes risque d'entraîner des frais disproportionnés.
+- l'élimination des profits ou des pertes risque d'entraîner des frais disproportionnés.
 
 Les dérogations au principe sont signalées et, lorsqu'elles ont une influence non négligeable sur le patrimoine, la situation financière et les résultats de l'ensemble des entreprises comprises dans la consolidation, ce fait doit être mentionné dans l'annexe des comptes consolidés.
 
@@ -2488,9 +2488,9 @@ Les éléments d'actif et de passif compris dans la consolidation sont évalués
 
 2.
 
-1. L'entreprise qui établit les comptes consolidés doit appliquer les mêmes méthodes d'évaluation que celles appliquées à ses propres comptes annuels. Toutefois, d'autres méthodes d'évaluation conformes aux articles ci-avant indiqués peuvent être appliquées aux comptes consolidés.
+- L'entreprise qui établit les comptes consolidés doit appliquer les mêmes méthodes d'évaluation que celles appliquées à ses propres comptes annuels. Toutefois, d'autres méthodes d'évaluation conformes aux articles ci-avant indiqués peuvent être appliquées aux comptes consolidés.
 
-2. Lorsqu'il est fait usage de ces dérogations, celles-ci sont signalées dans l'annexe des comptes consolidés et dûment motivées.
+- Lorsqu'il est fait usage de ces dérogations, celles-ci sont signalées dans l'annexe des comptes consolidés et dûment motivées.
 
 3.
 
@@ -2524,9 +2524,9 @@ La différence positive de consolidation peut être déduite immédiatement de f
 
 La "différence de première consolidation" telle qu'elle résulte de l'application de l'article point 1 lettre c), si elle est négative, ne peut être portée au compte de profits et pertes consolidé que:
 
-1. lorsqu'elle correspond à la prévision, à la date d'acquisition, d'une évolution défavorable des résultats futurs de l'entreprise concernée ou à la prévision de charges qu'elle occasionnera et dans la mesure où cette prévision se réalise, ou
+- lorsqu'elle correspond à la prévision, à la date d'acquisition, d'une évolution défavorable des résultats futurs de l'entreprise concernée ou à la prévision de charges qu'elle occasionnera et dans la mesure où cette prévision se réalise, ou
 
-2. dans la mesure où elle correspond à une plus-value réalisée.
+- dans la mesure où elle correspond à une plus-value réalisée.
 
 <a id="article-116"></a>
 ## ARTICLE 116
@@ -2554,9 +2554,9 @@ Lorsqu'une entreprise comprise dans la consolidation exerce une influence notabl
 
 Lors de la première application du présent article à une participation visée au point 1 celle-ci est inscrite au bilan consolidé:
 
-1. soit à sa valeur comptable évaluée conformément aux règles d'évaluation prévues par la partie ll de la présente loi. La différence entre cette valeur et le montant correspondant à la fraction des capitaux propres représentée par cette participation est mentionnée séparément dans le bilan consolidé ou dans l'annexe. Cette différence est calculée à la date à laquelle la méthode est appliquée pour la première fois;
+- soit à sa valeur comptable évaluée conformément aux règles d'évaluation prévues par la partie ll de la présente loi. La différence entre cette valeur et le montant correspondant à la fraction des capitaux propres représentée par cette participation est mentionnée séparément dans le bilan consolidé ou dans l'annexe. Cette différence est calculée à la date à laquelle la méthode est appliquée pour la première fois;
 
-2. soit pour le montant correspondant à la fraction des capitaux propres de l'entreprise associée représentée par cette participation. La différence entre ce montant et la valeur comptable évaluée conformément aux règles d'évaluation prévues par la partie ll de la présente loi est mentionnée séparément dans le bilan consolidé ou dans l'annexe. Cette différence est calculée à la date à laquelle la méthode est appliquée pour la première fois.
+- soit pour le montant correspondant à la fraction des capitaux propres de l'entreprise associée représentée par cette participation. La différence entre ce montant et la valeur comptable évaluée conformément aux règles d'évaluation prévues par la partie ll de la présente loi est mentionnée séparément dans le bilan consolidé ou dans l'annexe. Cette différence est calculée à la date à laquelle la méthode est appliquée pour la première fois.
 
 Le bilan consolidé ou l'annexe doit indiquer laquelle des lettres a) ou b) a été utilisée. La différence obtenue par application de ces deux méthodes est comptabilisée dans un poste intitulé "Différence de mise en équivalence".
 
@@ -2620,69 +2620,69 @@ Outre les mentions prescrites par d'autres dispositions de la présente loi, l'a
 
 L'annexe aux comptes consolidés doit comporter en outre les indications suivantes:
 
-1. Les modes d'évaluation appliqués aux divers postes des comptes consolidés, ainsi que les méthodes de calcul des corrections de valeur utilisées. Pour les éléments contenus dans les comptes consolidés qui sont ou qui étaient à l'origine exprimés en monnaie étrangère, les bases de conversion utilisées pour leur expression dans la monnaie dans laquelle les comptes consolidés sont établis doivent être indiquées.
+- Les modes d'évaluation appliqués aux divers postes des comptes consolidés, ainsi que les méthodes de calcul des corrections de valeur utilisées. Pour les éléments contenus dans les comptes consolidés qui sont ou qui étaient à l'origine exprimés en monnaie étrangère, les bases de conversion utilisées pour leur expression dans la monnaie dans laquelle les comptes consolidés sont établis doivent être indiquées.
 
-2.
+-
 
-1. Le nom et le siège des entreprises comprises dans la consolidation; la fraction du capital détenue dans les entreprises comprises dans la consolidation autres que l'entreprise mère, par les entreprises comprises dans la consolidation ou par une personne agissant en son nom mais pour le compte de ces entreprises; celle des conditions visées à l'article et après l'application de l'article sur la base de laquelle la consolidation a été effectuée. Toutefois, cette dernière mention n'est pas nécessaire lorsque la consolidation a été effectuée sur la base de l'article point 1 lettre a) et que la fraction de capital et la proportion des droits de vote détenus coïncident.
+  - Le nom et le siège des entreprises comprises dans la consolidation; la fraction du capital détenue dans les entreprises comprises dans la consolidation autres que l'entreprise mère, par les entreprises comprises dans la consolidation ou par une personne agissant en son nom mais pour le compte de ces entreprises; celle des conditions visées à l'article et après l'application de l'article sur la base de laquelle la consolidation a été effectuée. Toutefois, cette dernière mention n'est pas nécessaire lorsque la consolidation a été effectuée sur la base de l'article point 1 lettre a) et que la fraction de capital et la proportion des droits de vote détenus coïncident.
 
-2. Les mêmes indications doivent être données sur les entreprises laissées en dehors de la consolidation au titre de l’article 98 ainsi que la motivation de l'exclusion de ces entreprises.
+  - Les mêmes indications doivent être données sur les entreprises laissées en dehors de la consolidation au titre de l’article 98 ainsi que la motivation de l'exclusion de ces entreprises.
 
-3.
+-
 
-1. Le nom et le siège des entreprises associées à une entreprise comprise dans la consolidation au titre de l'article point 1, avec indication de la fraction de leur capital détenue par des entreprises comprises dans la consolidation ou par une personne agissant en son nom mais pour le compte de ces entreprises.
+  - Le nom et le siège des entreprises associées à une entreprise comprise dans la consolidation au titre de l'article point 1, avec indication de la fraction de leur capital détenue par des entreprises comprises dans la consolidation ou par une personne agissant en son nom mais pour le compte de ces entreprises.
 
-2. Les mêmes indications doivent être données sur les entreprises associées visées à l'article point 9, ainsi que la motivation de l'application de cette disposition.
+  - Les mêmes indications doivent être données sur les entreprises associées visées à l'article point 9, ainsi que la motivation de l'application de cette disposition.
 
-4. Le nom et le siège des entreprises qui ont fait l'objet d'une consolidation proportionnelle en vertu de l'article , les éléments desquels résulte la direction conjointe, ainsi que la fraction de leur capital détenue par les entreprises comprises dans la consolidation ou par une personne agissant en son nom mais pour le compte de ces entreprises.
+- Le nom et le siège des entreprises qui ont fait l'objet d'une consolidation proportionnelle en vertu de l'article , les éléments desquels résulte la direction conjointe, ainsi que la fraction de leur capital détenue par les entreprises comprises dans la consolidation ou par une personne agissant en son nom mais pour le compte de ces entreprises.
 
-5. Le nom et le siège des entreprises autres que celles visées aux points 2, 3 et 4, dans lesquelles les entreprises comprises dans la consolidation (…) 66 détiennent, soit elles-mêmes, soit par une personne agissant en son nom mais pour le compte de ces entreprises, au moins vingt pour cent du capital, avec indication de la fraction du capital détenue ainsi que du montant des capitaux propres et de celui du résultat du dernier exercice de l'entreprise concernée pour lequel des comptes ont été arrêtés. Ces informations peuvent être omises lorsqu'elles ne sont que d'un intérêt négligeable au regard de l'objectif visé à l'article point 3. L'indication des capitaux propres et du résultat peut également être omise lorsque l'entreprise concernée ne publie pas son bilan et qu'elle est détenue à moins de 50%, directement ou indirectement, par les entreprises susmentionnées.
+- Le nom et le siège des entreprises autres que celles visées aux points 2, 3 et 4, dans lesquelles les entreprises comprises dans la consolidation (…) 66 détiennent, soit elles-mêmes, soit par une personne agissant en son nom mais pour le compte de ces entreprises, au moins vingt pour cent du capital, avec indication de la fraction du capital détenue ainsi que du montant des capitaux propres et de celui du résultat du dernier exercice de l'entreprise concernée pour lequel des comptes ont été arrêtés. Ces informations peuvent être omises lorsqu'elles ne sont que d'un intérêt négligeable au regard de l'objectif visé à l'article point 3. L'indication des capitaux propres et du résultat peut également être omise lorsque l'entreprise concernée ne publie pas son bilan et qu'elle est détenue à moins de 50%, directement ou indirectement, par les entreprises susmentionnées.
 
-6. Le montant global des engagements financiers qui ne figurent pas au bilan consolidé, dans la mesure où son indication est utile à l'appréciation de la situation financière de l'ensemble des entreprises comprises dans la consolidation. Les engagements en matière de pension, ainsi que les engagements à l'égard d'entreprises liées non comprises dans la consolidation doivent apparaître de façon distincte.
+- Le montant global des engagements financiers qui ne figurent pas au bilan consolidé, dans la mesure où son indication est utile à l'appréciation de la situation financière de l'ensemble des entreprises comprises dans la consolidation. Les engagements en matière de pension, ainsi que les engagements à l'égard d'entreprises liées non comprises dans la consolidation doivent apparaître de façon distincte.
 
-7. La nature et l’objectif commercial des opérations non inscrites au bilan, ainsi que l’impact financier de ces opérations, à condition que les risques ou les avantages découlant de ces opérations soient significatifs et dans la mesure où la divulgation de ces risques ou avantages est nécessaire pour l’appréciation de la situation financière des entreprises incluses dans le périmètre de consolidation.
+- La nature et l’objectif commercial des opérations non inscrites au bilan, ainsi que l’impact financier de ces opérations, à condition que les risques ou les avantages découlant de ces opérations soient significatifs et dans la mesure où la divulgation de ces risques ou avantages est nécessaire pour l’appréciation de la situation financière des entreprises incluses dans le périmètre de consolidation.
 
-8. Les transactions, à l’exception des transactions internes au groupe, effectuées par la société mère ou par toute autre société incluse dans le périmètre de consolidation, avec des parties liées, y compris les montants de ces transactions, la nature de la relation avec la partie liée ainsi que toute autre information sur les transactions nécessaire à l’appréciation de la situation financière des entreprises incluses dans le périmètre de consolidation, lorsque ces transactions présentent une importance significative et n’ont pas été conclues aux conditions normales du marché. Les informations sur les différentes transactions peuvent être agrégées en fonction de leur nature, sauf lorsque des informations distinctes sont nécessaires pour comprendre les effets des transactions avec des parties liées sur la situation financière des entreprises incluses dans le périmètre de consolidation. Le terme «partie liée» a le même sens que dans les normes comptables internationales adoptées conformément au règlement (CE) N° 1606/2002.
+- Les transactions, à l’exception des transactions internes au groupe, effectuées par la société mère ou par toute autre société incluse dans le périmètre de consolidation, avec des parties liées, y compris les montants de ces transactions, la nature de la relation avec la partie liée ainsi que toute autre information sur les transactions nécessaire à l’appréciation de la situation financière des entreprises incluses dans le périmètre de consolidation, lorsque ces transactions présentent une importance significative et n’ont pas été conclues aux conditions normales du marché. Les informations sur les différentes transactions peuvent être agrégées en fonction de leur nature, sauf lorsque des informations distinctes sont nécessaires pour comprendre les effets des transactions avec des parties liées sur la situation financière des entreprises incluses dans le périmètre de consolidation. Le terme «partie liée» a le même sens que dans les normes comptables internationales adoptées conformément au règlement (CE) N° 1606/2002.
 
-9.
+-
 
-1. Le nombre des membres du personnel employé en moyenne au cours de l'exercice par les entreprises comprises dans la consolidation, ventilé par catégorie, ainsi que les frais de personnel relatifs à l'exercice.
+  - Le nombre des membres du personnel employé en moyenne au cours de l'exercice par les entreprises comprises dans la consolidation, ventilé par catégorie, ainsi que les frais de personnel relatifs à l'exercice.
 
-2. Le nombre des membres du personnel employé en moyenne au cours de l'exercice par les entreprises auxquelles il est fait application de l'article est mentionné séparément.
+  - Le nombre des membres du personnel employé en moyenne au cours de l'exercice par les entreprises auxquelles il est fait application de l'article est mentionné séparément.
 
-10. La proportion dans laquelle le calcul du résultat consolidé de l'exercice a été affecté par une évaluation des postes qui, en dérogeant aux principes du chapitre 7 ainsi que de l'article point 5, a été effectuée pendant l'exercice ou un exercice antérieur en vue d'obtenir des allégements fiscaux. Lorsqu'une telle évaluation influence d'une façon non négligeable la charge fiscale future de l'ensemble des entreprises comprises dans la consolidation, des indications doivent être données.
+- La proportion dans laquelle le calcul du résultat consolidé de l'exercice a été affecté par une évaluation des postes qui, en dérogeant aux principes du chapitre 7 ainsi que de l'article point 5, a été effectuée pendant l'exercice ou un exercice antérieur en vue d'obtenir des allégements fiscaux. Lorsqu'une telle évaluation influence d'une façon non négligeable la charge fiscale future de l'ensemble des entreprises comprises dans la consolidation, des indications doivent être données.
 
-11. La différence entre la charge fiscale imputée aux comptes de profits et pertes consolidés de l'exercice et des exercices antérieurs et la charge fiscale déjà payée ou à payer au titre de ces exercices, dans la mesure où cette différence est d'un intérêt certain au regard de la charge fiscale future. Ce montant peut également figurer cumulativement dans le bilan sous un poste particulier à intitulé correspondant.
+- La différence entre la charge fiscale imputée aux comptes de profits et pertes consolidés de l'exercice et des exercices antérieurs et la charge fiscale déjà payée ou à payer au titre de ces exercices, dans la mesure où cette différence est d'un intérêt certain au regard de la charge fiscale future. Ce montant peut également figurer cumulativement dans le bilan sous un poste particulier à intitulé correspondant.
 
-12. Le montant des rémunérations allouées au titre de l'exercice aux membres des organes d'administration, de direction ou de surveillance de l'entreprise mère en raison de leurs fonctions dans l'entreprise mère et dans ses entreprises filiales, ainsi que le montant des engagements nés ou contractés dans les mêmes conditions en matière de pension de retraite à l'égard des anciens membres des organes précités. Ces indications doivent être données de façon globale pour chaque catégorie.
+- Le montant des rémunérations allouées au titre de l'exercice aux membres des organes d'administration, de direction ou de surveillance de l'entreprise mère en raison de leurs fonctions dans l'entreprise mère et dans ses entreprises filiales, ainsi que le montant des engagements nés ou contractés dans les mêmes conditions en matière de pension de retraite à l'égard des anciens membres des organes précités. Ces indications doivent être données de façon globale pour chaque catégorie.
 
-13. Les montants des avances et crédits accordés aux membres des organes d'administration, de direction ou de surveillance de l'entreprise mère par celle-ci ou par une entreprise filiale, avec indication du taux d'intérêt, des conditions essentielles et des montants éventuellement remboursés, ainsi que les engagements pris pour le compte de ces personnes au titre d'une garantie quelconque. Ces informations doivent être données de façon globale pour chaque catégorie.
+- Les montants des avances et crédits accordés aux membres des organes d'administration, de direction ou de surveillance de l'entreprise mère par celle-ci ou par une entreprise filiale, avec indication du taux d'intérêt, des conditions essentielles et des montants éventuellement remboursés, ainsi que les engagements pris pour le compte de ces personnes au titre d'une garantie quelconque. Ces informations doivent être données de façon globale pour chaque catégorie.
 
-14. En cas d’utilisation de la méthode de l’évaluation à la juste valeur pour les instruments financiers:
+- En cas d’utilisation de la méthode de l’évaluation à la juste valeur pour les instruments financiers:
 
-1. les principales hypothèses sous-tendant les modèles et techniques d’évaluation utilisés, dans les cas où la juste valeur a été déterminée conformément à l’article 79 -3, point 1 b) de la présente loi;
+  - les principales hypothèses sous-tendant les modèles et techniques d’évaluation utilisés, dans les cas où la juste valeur a été déterminée conformément à l’article 79 -3, point 1 b) de la présente loi;
 
-2. pour chaque catégorie d’instruments financiers, la juste valeur, les variations de valeur inscrites directement dans le compte de pertes et profits ainsi que les variations portées dans la réserve de juste valeur;
+  - pour chaque catégorie d’instruments financiers, la juste valeur, les variations de valeur inscrites directement dans le compte de pertes et profits ainsi que les variations portées dans la réserve de juste valeur;
 
-3. pour chaque catégorie d’actifs ou passifs dérivés, des indications sur le volume et la nature des instruments, et notamment les principales modalités et conditions susceptibles d’influer sur le montant, le calendrier et le caractère certain des flux de trésorerie futurs;
+  - pour chaque catégorie d’actifs ou passifs dérivés, des indications sur le volume et la nature des instruments, et notamment les principales modalités et conditions susceptibles d’influer sur le montant, le calendrier et le caractère certain des flux de trésorerie futurs;
 
-4. un tableau indiquant les mouvements enregistrés dans la réserve de juste valeur au cours de l’exercice financier.
+  - un tableau indiquant les mouvements enregistrés dans la réserve de juste valeur au cours de l’exercice financier.
 
-15. En cas de non-utilisation de la méthode de l’évaluation à la juste valeur pour les instruments financiers :
+- En cas de non-utilisation de la méthode de l’évaluation à la juste valeur pour les instruments financiers :
 
-1. pour chaque catégorie d’instruments financiers dérivés :
+  - pour chaque catégorie d’instruments financiers dérivés :
 
-1. la juste valeur des instruments, si cette valeur peut être déterminée grâce à l’une de méthodes prescrites à l’article 79-3, point 1 de la présente loi ;
+    - la juste valeur des instruments, si cette valeur peut être déterminée grâce à l’une de méthodes prescrites à l’article 79-3, point 1 de la présente loi ;
 
-2. les indications sur le volume et la nature des instruments;
+    - les indications sur le volume et la nature des instruments;
 
-2. pour les immobilisations financières comptabilisées pour un montant supérieur à leur juste valeur et sans qu’il ait été fait usage de la possibilité d’en ajuster la valeur conformément à l’article 64, point 1 c) aa) de la présente loi :
+  - pour les immobilisations financières comptabilisées pour un montant supérieur à leur juste valeur et sans qu’il ait été fait usage de la possibilité d’en ajuster la valeur conformément à l’article 64, point 1 c) aa) de la présente loi :
 
-1. la valeur comptable et la juste valeur des actifs en question, pris isolément ou regroupé de manière adéquate ;
+    - la valeur comptable et la juste valeur des actifs en question, pris isolément ou regroupé de manière adéquate ;
 
-2. les raisons pour lesquelles la valeur comptable n’a pas été réduite, et notamment la nature des éléments qui permettent de penser que la valeur comptable sera récupérée.
+    - les raisons pour lesquelles la valeur comptable n’a pas été réduite, et notamment la nature des éléments qui permettent de penser que la valeur comptable sera récupérée.
 
-16. Séparément, le total des honoraires versés pendant l’exercice au contrôleur légal ou au cabinet d’audit pour le contrôle légal des comptes consolidés, le total des honoraires versés pour les autres services d’assurance, le total des honoraires versés pour les services de conseil fiscal et le total des honoraires versés pour les autres services.
+- Séparément, le total des honoraires versés pendant l’exercice au contrôleur légal ou au cabinet d’audit pour le contrôle légal des comptes consolidés, le total des honoraires versés pour les autres services d’assurance, le total des honoraires versés pour les services de conseil fiscal et le total des honoraires versés pour les autres services.
 
 <a id="article-122"></a>
 ## ARTICLE 122
@@ -2691,9 +2691,9 @@ L'annexe aux comptes consolidés doit comporter en outre les indications suivant
 
 Il est permis que les indications prescrites à l'article points 2, 3, 4 et 5:
 
-1. prennent la forme d’un relevé déposé conformément à l’article 11bis § 3 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales et aux dispositions du chapitre Vbis du titre Ier de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.
+- prennent la forme d’un relevé déposé conformément à l’article 11bis § 3 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales et aux dispositions du chapitre Vbis du titre Ier de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.
 
-2. soient omises lorsqu'elles sont de nature à porter gravement préjudice à une des entreprises concernées par ces dispositions. L'omission de ces indications doit être mentionnée dans l'annexe.
+- soient omises lorsqu'elles sont de nature à porter gravement préjudice à une des entreprises concernées par ces dispositions. L'omission de ces indications doit être mentionnée dans l'annexe.
 
 2.
 
@@ -2719,31 +2719,31 @@ L'article et l'article point 2 s'appliquent.
 
 1.
 
-1. Le rapport consolidé de gestion contient au moins un exposé fidèle sur l'évolution des affaires, les résultats et la situation de l'ensemble des entreprises comprises dans la consolidation, ainsi qu'une description des principaux risques et incertitudes auxquels elles sont confrontées. Cet exposé consiste en une analyse équilibrée et exhaustive de l’évolution des affaires, des résultats et de la situation de l’ensemble des entreprises comprises dans la consolidation, en rapport avec le volume et la complexité de ces affaires.
+- Le rapport consolidé de gestion contient au moins un exposé fidèle sur l'évolution des affaires, les résultats et la situation de l'ensemble des entreprises comprises dans la consolidation, ainsi qu'une description des principaux risques et incertitudes auxquels elles sont confrontées. Cet exposé consiste en une analyse équilibrée et exhaustive de l’évolution des affaires, des résultats et de la situation de l’ensemble des entreprises comprises dans la consolidation, en rapport avec le volume et la complexité de ces affaires.
 
-2. Dans la mesure nécessaire à la compréhension de l’évolution des affaires, des résultats ou de la situation des entreprises, l’analyse comporte des indicateurs clés de performance de nature tant financière que, le cas échéant, non financière ayant trait à l’activité spécifique des entreprises, notamment des informations relatives aux questions d’environnement et de personnel.
+- Dans la mesure nécessaire à la compréhension de l’évolution des affaires, des résultats ou de la situation des entreprises, l’analyse comporte des indicateurs clés de performance de nature tant financière que, le cas échéant, non financière ayant trait à l’activité spécifique des entreprises, notamment des informations relatives aux questions d’environnement et de personnel.
 
-3. En donnant son analyse, le rapport consolidé de gestion contient, le cas échéant, des renvois aux montants indiqués dans les comptes consolidés et des explications supplémentaires y afférentes.
+- En donnant son analyse, le rapport consolidé de gestion contient, le cas échéant, des renvois aux montants indiqués dans les comptes consolidés et des explications supplémentaires y afférentes.
 
 2.
 
 En ce qui concerne ces entreprises, le rapport comporte également des indications sur:
 
-1. les événements importants survenus après la clôture de l'exercice;
+- les événements importants survenus après la clôture de l'exercice;
 
-2. l'évolution prévisible de l'ensemble de ces entreprises;
+- l'évolution prévisible de l'ensemble de ces entreprises;
 
-3. les activités de l'ensemble de ces entreprises en matière de recherche et de développement;
+- les activités de l'ensemble de ces entreprises en matière de recherche et de développement;
 
-4. le nombre et la valeur nominale ou, à défaut de valeur nominale, le pair comptable, de l'ensemble des actions ou parts de l'entreprise mère détenues par cette entreprise elle-même, par des entreprises filiales ou par une personne agissant en son nom mais pour le compte de ces entreprises.
+- le nombre et la valeur nominale ou, à défaut de valeur nominale, le pair comptable, de l'ensemble des actions ou parts de l'entreprise mère détenues par cette entreprise elle-même, par des entreprises filiales ou par une personne agissant en son nom mais pour le compte de ces entreprises.
 
-5. en ce qui concerne l’utilisation des instruments financiers par l’entreprise et lorsque cela est pertinent pour l’évaluation de son actif, de son passif, de sa situation financière et de ses pertes ou profits :
+- en ce qui concerne l’utilisation des instruments financiers par l’entreprise et lorsque cela est pertinent pour l’évaluation de son actif, de son passif, de sa situation financière et de ses pertes ou profits :
 
-- les objectifs et la politique de l’entreprise en matière de gestion des risques financiers, y compris sa politique concernant la couverture de chaque catégorie principale de transactions prévues pour lesquelles il est fait usage de la comptabilité de couverture, et
+  - les objectifs et la politique de l’entreprise en matière de gestion des risques financiers, y compris sa politique concernant la couverture de chaque catégorie principale de transactions prévues pour lesquelles il est fait usage de la comptabilité de couverture, et
 
-- l’exposition de l’entreprise au risque de prix, au risque de crédit, au risque de liquidité et au risque de trésorerie.
+  - l’exposition de l’entreprise au risque de prix, au risque de crédit, au risque de liquidité et au risque de trésorerie.
 
-6. au cas où une société a des titres admis à la négociation sur un marché réglementé au sens de l’article 4, paragraphe 1, point 14), de la directive 2004/39/CE, une description des principales caractéristiques des systèmes de contrôle interne et de gestion des risques du groupe en relation avec le processus d’établissement des comptes consolidés. Au cas où le rapport consolidé de gestion et le rapport de gestion sont présentés sous la forme d’un rapport unique, ces informations doivent figurer dans la section dudit rapport contenant la déclaration sur le gouvernement d’entreprise prévue à l’article 85- 1. Si les informations requises par le point 1 de l’article 85-1 sont présentées dans un rapport distinct publié conjointement avec le rapport de gestion, les informations communiquées en vertu du premier alinéa font également partie du rapport distinct. L’article 125 point 2 s’applique au rapport distinct.
+- au cas où une société a des titres admis à la négociation sur un marché réglementé au sens de l’article 4, paragraphe 1, point 14), de la directive 2004/39/CE, une description des principales caractéristiques des systèmes de contrôle interne et de gestion des risques du groupe en relation avec le processus d’établissement des comptes consolidés. Au cas où le rapport consolidé de gestion et le rapport de gestion sont présentés sous la forme d’un rapport unique, ces informations doivent figurer dans la section dudit rapport contenant la déclaration sur le gouvernement d’entreprise prévue à l’article 85- 1. Si les informations requises par le point 1 de l’article 85-1 sont présentées dans un rapport distinct publié conjointement avec le rapport de gestion, les informations communiquées en vertu du premier alinéa font également partie du rapport distinct. L’article 125 point 2 s’applique au rapport distinct.
 
 3.
 
@@ -2756,11 +2756,11 @@ Le rapport consolidé de gestion et le rapport de gestion peuvent être présent
 
 Le présent article vise les sociétés mères au sens de l’article 92, paragraphe 2:
 
-1. qui sont des entreprises d’assurances, et
+- qui sont des entreprises d’assurances, et
 
-2. qui, conjointement avec leurs entreprises filiales au sens de l’article 92, paragraphe 2, dépassent, à la date de clôture de leur bilan, sur une base consolidée, et pendant deux exercices consécutifs, les limites chiffrées d’au moins deux des trois critères de l’article 85-2, paragraphe 1er, point a), et
+- qui, conjointement avec leurs entreprises filiales au sens de l’article 92, paragraphe 2, dépassent, à la date de clôture de leur bilan, sur une base consolidée, et pendant deux exercices consécutifs, les limites chiffrées d’au moins deux des trois critères de l’article 85-2, paragraphe 1er, point a), et
 
-3. qui, conjointement avec leurs entreprises filiales au sens de l’article 92, paragraphe 2, dépassent, à la date de clôture de leur bilan, sur une base consolidée, le critère du nombre moyen de 500 salariés sur l’exercice.
+- qui, conjointement avec leurs entreprises filiales au sens de l’article 92, paragraphe 2, dépassent, à la date de clôture de leur bilan, sur une base consolidée, le critère du nombre moyen de 500 salariés sur l’exercice.
 
 Pour les besoins de la déclaration non financière, l’ensemble des entreprises comprises dans la consolidation est désigné par groupe.
 
@@ -2768,15 +2768,15 @@ Pour les besoins de la déclaration non financière, l’ensemble des entreprise
 
 Les sociétés mères visées au paragraphe 1er incluent dans le rapport consolidé de gestion une déclaration non financière consolidée comprenant des informations, dans la mesure nécessaire à la compréhension de l’évolution des affaires, des performances, de la situation du groupe et des incidences de son activité, relatives au moins aux questions environnementales, aux questions sociales et de personnel, de respect des droits de l’homme et de lutte contre la corruption, y compris:
 
-1. une brève description du modèle commercial du groupe;
+- une brève description du modèle commercial du groupe;
 
-2. une description des politiques appliquées par le groupe en ce qui concerne ces questions, y compris pour les procédures de diligence raisonnable mises en œuvre;
+- une description des politiques appliquées par le groupe en ce qui concerne ces questions, y compris pour les procédures de diligence raisonnable mises en œuvre;
 
-3. les résultats de ces politiques;
+- les résultats de ces politiques;
 
-4. les principaux risques liés à ces questions en rapport avec les activités du groupe, y compris, lorsque cela s’avère pertinent et proportionné, les relations d’affaires, les produits ou les services du groupe, qui sont susceptibles d’entraîner des incidences négatives dans ces domaines, et la manière dont le groupe gère ces risques;
+- les principaux risques liés à ces questions en rapport avec les activités du groupe, y compris, lorsque cela s’avère pertinent et proportionné, les relations d’affaires, les produits ou les services du groupe, qui sont susceptibles d’entraîner des incidences négatives dans ces domaines, et la manière dont le groupe gère ces risques;
 
-5. les indicateurs clés de performance de nature non financière concernant les activités en question.
+- les indicateurs clés de performance de nature non financière concernant les activités en question.
 
 Lorsque le groupe n’applique pas de politique concernant l’une ou plusieurs de ces questions, la déclaration non financière consolidée comprend une explication claire et motivée des raisons le justifiant.
 
@@ -2800,9 +2800,9 @@ Une société mère qui est également une filiale est exemptée de l’obligati
 
 Lorsqu’une société mère établit, en s’appuyant ou non sur des cadres nationaux, de l’Union européenne ou internationaux, un rapport distinct qui porte sur le même exercice et sur l’ensemble du groupe, et qui couvre les informations requises pour la déclaration non financière consolidée prévues au paragraphe 2, cette société mère est exemptée de l’obligation d’établir la déclaration non financière consolidée prévue au paragraphe 2 pour autant que ce rapport distinct:
 
-1. soit publié en même temps que le rapport consolidé de gestion, conformément à l’article 126; ou
+- soit publié en même temps que le rapport consolidé de gestion, conformément à l’article 126; ou
 
-2. soit mis à la disposition du public dans un délai raisonnable, et au plus tard six mois après la date de clôture du bilan, sur le site internet de la société mère, et soit visé dans le rapport consolidé de gestion.
+- soit mis à la disposition du public dans un délai raisonnable, et au plus tard six mois après la date de clôture du bilan, sur le site internet de la société mère, et soit visé dans le rapport consolidé de gestion.
 
 Le paragraphe 3 s’applique aux sociétés mères qui préparent le rapport distinct visé au premier alinéa du présent paragraphe.
 
@@ -2827,19 +2827,19 @@ Le rapport consolidé sur les paiements effectués au profit de gouvernements ne
 
 L’obligation d’établir le rapport consolidé visé au paragraphe 1er ne s’applique pas à:
 
-1. l’entreprise mère d’un groupe qui, à la date de clôture du bilan, ne dépasse pas les limites chiffrées d’au moins deux des trois critères de l’article 85-2, paragraphe 1er, point a), excepté lorsqu’une entité d’intérêt public figure parmi les entreprises liées;
+- l’entreprise mère d’un groupe qui, à la date de clôture du bilan, ne dépasse pas les limites chiffrées d’au moins deux des trois critères de l’article 85-2, paragraphe 1er, point a), excepté lorsqu’une entité d’intérêt public figure parmi les entreprises liées;
 
-2. l’entreprise mère relevant du droit d’un Etat membre qui est aussi une entreprise filiale, si sa propre entreprise mère relève du droit d’un Etat membre.
+- l’entreprise mère relevant du droit d’un Etat membre qui est aussi une entreprise filiale, si sa propre entreprise mère relève du droit d’un Etat membre.
 
 3.
 
 Une entreprise, y compris une entité d’intérêt public, ne doit pas être incluse dans un rapport consolidé sur les paiements effectués au profit de gouvernements lorsqu’au moins une des conditions suivantes est remplie:
 
-1. des restrictions sévères et durables entament substantiellement l’exercice par l’entreprise mère de ses droits sur le patrimoine ou la gestion de cette entreprise;
+- des restrictions sévères et durables entament substantiellement l’exercice par l’entreprise mère de ses droits sur le patrimoine ou la gestion de cette entreprise;
 
-2. dans des cas extrêmement rares où les informations nécessaires pour établir le rapport consolidé sur les paiements effectués au profit de gouvernements conformément à la section XVI, sous-section 4bis, de la loi modifiée du 10 août 1915 concernant les sociétés commerciales ne peuvent être obtenues sans frais disproportionnés ou sans délai injustifié;
+- dans des cas extrêmement rares où les informations nécessaires pour établir le rapport consolidé sur les paiements effectués au profit de gouvernements conformément à la section XVI, sous-section 4bis, de la loi modifiée du 10 août 1915 concernant les sociétés commerciales ne peuvent être obtenues sans frais disproportionnés ou sans délai injustifié;
 
-3. les actions ou parts de cette entreprise sont détenues exclusivement en vue de leur cession ultérieure.
+- les actions ou parts de cette entreprise sont détenues exclusivement en vue de leur cession ultérieure.
 
 Les dérogations susvisées ne sont applicables que si elles sont également appliquées aux fins des comptes consolidés.
 
@@ -2856,15 +2856,15 @@ Les comptes consolidés des entreprises doivent être contrôlés par le ou les 
 
 Le rapport des réviseurs d’entreprises agréés comprend les éléments suivants :
 
-1. une introduction, qui contient au moins l’identification des comptes consolidés qui font l’objet du contrôle légal, ainsi que le cadre de présentation qui a été appliqué lors de leur élaboration ;
+- une introduction, qui contient au moins l’identification des comptes consolidés qui font l’objet du contrôle légal, ainsi que le cadre de présentation qui a été appliqué lors de leur élaboration ;
 
-2. une description de l’étendue du contrôle légal, qui contient au moins l’indication des normes selon lesquelles le contrôle légal a été effectué ;
+- une description de l’étendue du contrôle légal, qui contient au moins l’indication des normes selon lesquelles le contrôle légal a été effectué ;
 
-3. une attestation, qui exprime clairement les conclusions des réviseurs d’entreprises agréés quant à la fidélité de l’image donnée par les comptes consolidés, quant à la conformité de ces comptes avec le cadre de présentation retenu et, le cas échéant, quant au respect des exigences légales applicables; l’attestation peut prendre la forme d’une attestation sans réserve, d’une attestation nuancée par des réserves, d’une attestation négative, ou, si les réviseurs d’entreprises agréés sont dans l’incapacité de délivrer une attestation, d’une abstention;;
+- une attestation, qui exprime clairement les conclusions des réviseurs d’entreprises agréés quant à la fidélité de l’image donnée par les comptes consolidés, quant à la conformité de ces comptes avec le cadre de présentation retenu et, le cas échéant, quant au respect des exigences légales applicables; l’attestation peut prendre la forme d’une attestation sans réserve, d’une attestation nuancée par des réserves, d’une attestation négative, ou, si les réviseurs d’entreprises agréés sont dans l’incapacité de délivrer une attestation, d’une abstention;;
 
-4. une référence à quelque question que ce soit sur laquelle les réviseurs d’entreprises agréés attirent spécialement l’attention sans pour autant inclure une réserve dans l’attestation;
+- une référence à quelque question que ce soit sur laquelle les réviseurs d’entreprises agréés attirent spécialement l’attention sans pour autant inclure une réserve dans l’attestation;
 
-5. une attestation indiquant si le rapport de gestion consolidé concorde ou non avec les comptes consolidés pour le même exercice.
+- une attestation indiquant si le rapport de gestion consolidé concorde ou non avec les comptes consolidés pour le même exercice.
 
 3.
 
@@ -2938,61 +2938,61 @@ Elles sont cependant tenues de joindre aux comptes à déposer conformément au 
 
 - «pour l'assurance non vie: L’annexe doit comporter en outre les informations visées à l’article 82, point 1, de la présente loi.
 
-1. primes brutes émises ( poste I 1 a) )
+  - primes brutes émises ( poste I 1 a) )
 
-2. autres produits techniques, nets de réassurance ( postes I 2 et I 3 )
+  - autres produits techniques, nets de réassurance ( postes I 2 et I 3 )
 
-3. charge des sinistres, brute de réassurance:
+  - charge des sinistres, brute de réassurance:
 
-- montants payés ( poste I 4 a) aa) )
+    - montants payés ( poste I 4 a) aa) )
 
-- variation de la provision pour sinistres ( poste I 4 b) aa) )
+    - variation de la provision pour sinistres ( poste I 4 b) aa) )
 
-1. provision pour sinistres en début d'exercice ( poste C III du bilan )
+      - provision pour sinistres en début d'exercice ( poste C III du bilan )
 
-2. provision pour sinistres en fin d'exercice ( poste C III du bilan )
+      - provision pour sinistres en fin d'exercice ( poste C III du bilan )
 
-4. variation des autres provisions techniques, nette de réassurance ( poste I 5 )
+  - variation des autres provisions techniques, nette de réassurance ( poste I 5 )
 
-5. participations aux bénéfices et ristournes, nettes de réassurance ( poste I 6 )
+  - participations aux bénéfices et ristournes, nettes de réassurance ( poste I 6 )
 
-6. frais d'exploitation bruts
+  - frais d'exploitation bruts
 
-- commissions ( frais visés par l'article 81, point 5 )
+    - commissions ( frais visés par l'article 81, point 5 )
 
-- autres frais d'exploitation bruts de réassurance ( poste I 7 a), b), c) moins les commissions )
+    - autres frais d'exploitation bruts de réassurance ( poste I 7 a), b), c) moins les commissions )
 
-7. autres charges techniques, nettes de réassurance ( poste I 8 )
+  - autres charges techniques, nettes de réassurance ( poste I 8 )
 
 - pour l'assurance-vie:
 
-1. primes brutes émises ( poste II 1 a) )
+  - primes brutes émises ( poste II 1 a) )
 
-2. produits des placements ( poste II 2 moins poste II 9 et moins poste II 12 )
+  - produits des placements ( poste II 2 moins poste II 9 et moins poste II 12 )
 
-3. autres produits techniques, nets de réassurance ( postes II 4 )
+  - autres produits techniques, nets de réassurance ( postes II 4 )
 
-4. charge des sinistres, brute de réassurance:
+  - charge des sinistres, brute de réassurance:
 
-- montants payés ( poste II 5 a) aa) )
+    - montants payés ( poste II 5 a) aa) )
 
-- variation de la provision pour sinistres ( poste II 5 b) aa) )
+    - variation de la provision pour sinistres ( poste II 5 b) aa) )
 
-5. variation de la provision d'assurance-vie, brute de réassurance ( poste II 6 )
+  - variation de la provision d'assurance-vie, brute de réassurance ( poste II 6 )
 
-1. provision d'assurance-vie en début d'exercice ( poste C II du bilan )
+    - provision d'assurance-vie en début d'exercice ( poste C II du bilan )
 
-2. provision d'assurance-vie en fin d'exercice ( poste C II du bilan )
+    - provision d'assurance-vie en fin d'exercice ( poste C II du bilan )
 
-6. participations aux bénéfices et ristournes, nettes de réassurance ( poste II 7 )
+  - participations aux bénéfices et ristournes, nettes de réassurance ( poste II 7 )
 
-7. frais d'exploitation bruts
+  - frais d'exploitation bruts
 
-- commissions ( frais visés par l'article 81 point 5 )
+    - commissions ( frais visés par l'article 81 point 5 )
 
-- autres frais d'exploitation bruts de réassurance ( poste II 8 a), b), c) moins les commissions )
+    - autres frais d'exploitation bruts de réassurance ( poste II 8 a), b), c) moins les commissions )
 
-8. autres charges techniques, nettes de réassurance ( poste II 11 )
+  - autres charges techniques, nettes de réassurance ( poste II 11 )
 
 #### Chapitre 2 Publicité des documents comptables à effectuer par les succursales d'entreprises d'assurances ayant leur siège social hors CEE
 
@@ -3030,19 +3030,19 @@ Les succursales visées par le présent article sont tenues de joindre aux compt
 
 Les informations satisfont aux exigences suivantes :
 
-1. elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
-2. elles sont accompagnées des métadonnées suivantes :
+- elles sont accompagnées des métadonnées suivantes :
 
-1. tous les noms du fonds de pension auquel les informations se rapportent ;
+  - tous les noms du fonds de pension auquel les informations se rapportent ;
 
-2. l’identifiant d’entité juridique du fonds de pension, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
+  - l’identifiant d’entité juridique du fonds de pension, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
 
-3. la taille du fonds de pension, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
+  - la taille du fonds de pension, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
 
-4. le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
+  - le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
 
-5. une mention précisant si les informations contiennent des données à caractère personnel.
+  - une mention précisant si les informations contiennent des données à caractère personnel.
 
 (3)
 
@@ -3065,9 +3065,9 @@ Le point 1 s'applique mutatis mutandis à l'évaluation des actions ou parts, ou
 
 Lorsque le poste particulier visé à l'article point 1, correspond à une différence positive de consolidation apparue antérieurement à la date d'établissement des premiers comptes consolidés conformément à la présente loi, il est permis que:
 
-1. pour l'application de l'article point 1, la période d'amortissement de cinq ans prévue à l'article point 2 soit calculée à partir de la date d'établissement des premiers comptes consolidés, conformément à la présente loi, et
+- pour l'application de l'article point 1, la période d'amortissement de cinq ans prévue à l'article point 2 soit calculée à partir de la date d'établissement des premiers comptes consolidés, conformément à la présente loi, et
 
-2. pour l'application de l'article point 2, la déduction se fasse des réserves à la date d'établissement des premiers comptes consolidés conformément à la présente loi.
+- pour l'application de l'article point 2, la déduction se fasse des réserves à la date d'établissement des premiers comptes consolidés conformément à la présente loi.
 
 <a id="article-130"></a>
 ## ARTICLE 130

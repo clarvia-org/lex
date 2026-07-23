@@ -44,11 +44,11 @@ Dans des situations exceptionnelles, la liste peut être complétée au niveau d
 
 Il existe deux modes de prises en charges :
 
-1. les aides techniques mises à disposition par voie de location sont déterminées sur la liste par la lettre «L»;
+- les aides techniques mises à disposition par voie de location sont déterminées sur la liste par la lettre «L»;
 
-2. les aides techniques pouvant être acquises à charge de l’assurance dépendance sont déterminées par la lettre «A». Pour tenir compte des besoins spécifiques du bénéficiaire, les aides techniques marquées simultanément des lettres «L» et «A» peuvent être prises en charge sous l’une ou l’autre forme;
+- les aides techniques pouvant être acquises à charge de l’assurance dépendance sont déterminées par la lettre «A». Pour tenir compte des besoins spécifiques du bénéficiaire, les aides techniques marquées simultanément des lettres «L» et «A» peuvent être prises en charge sous l’une ou l’autre forme;
 
-3. les aides techniques mises à disposition par acquisition avec rétrocession sont marquées des lettres «A» et «R».
+- les aides techniques mises à disposition par acquisition avec rétrocession sont marquées des lettres «A» et «R».
 
 La prise en charge des aides techniques diffère suivant le lieu de séjour du bénéficiaire. Elle est précisée par les lettres « D » pour domicile, « E » pour établissement d’aides et de soins et « LE » pour logement encadré tel que défini au règlement grand-ducal modifié du 8 décembre 1999 concernant l’agrément à accorder aux gestionnaires de services pour personnes âgées.
 
@@ -293,7 +293,7 @@ L’assurance dépendance ne prend en charge que le surcoût lié à la dépenda
 
 La Cellule d’évaluation et d’orientation réalise, le cas échéant, avec le concours des services spécialisés prévus à l’article 386, alinéa final du Code de la sécurité sociale, un cahier des charges détaillé des adaptations à entreprendre, tenant compte de la faisabilité juridique et technique des travaux.
 
-Le cahier des charges se compose d’un volet fonctionnel et d’un volet technique. Le volet fonctionnel est communiqué pour validation au demandeur, le cas échéant au syndicat de copropriété et au propriétaire du logement si le demandeur est locataire. Le volet technique est élaboré sur base du volet fonctionnel validé. Le volet technique comprend un devis estimatif permettant de comparer les offres de prix visées à l’article 27.
+Le cahier des charges se compose d’un volet fonctionnel et d’un volet technique. Le volet fonctionnel est communiqué pour validation au demandeur, le cas échéant au syndicat de copropriété et au propriétaire du logement si le demandeur est locataire . Le volet technique est élaboré sur base du volet fonctionnel validé . Le volet technique comprend un devis estimatif permettant de comparer les offres de prix visées à l’article 27.
 
 Le cahier des charges retient pour les adaptations, la solution la plus rationnelle du point de vue économique en tenant compte des besoins du demandeur ainsi que d’autres prestations et aides techniques accordées le cas échéant.
 

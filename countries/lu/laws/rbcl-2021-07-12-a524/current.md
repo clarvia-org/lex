@@ -41,13 +41,13 @@ La présente collecte s’adresse aux déclarants définis comme établissement 
 
 Sont considérés comme déclarants en vertu du présent règlement :
 
-1. Les établissements de crédit ;
+- Les établissements de crédit ;
 
-2. Les établissements de monnaie électronique ;
+- Les établissements de monnaie électronique ;
 
-3. Les établissements de paiement ;
+- Les établissements de paiement ;
 
-4. Post Luxembourg pour ses activités liées aux paiements.
+- Post Luxembourg pour ses activités liées aux paiements.
 
 Le présent règlement s’adresse aux déclarants qui sont des personnes morales de droit luxembourgeois ou des succursales luxembourgeoises d’établissements de crédit, d’établissements de monnaie électronique ou d’établissements de paiement agréés comme tels dans un autre État membre de l’Union Européenne ou dans un pays tiers.
 
@@ -186,3 +186,7 @@ Le présent règlement entre en vigueur le jour de sa publication.
 Les éléments de la collecte en matière de statistiques de paiement visées au règlement (UE) 2020/2011 sont à transmettre à partir de la période de référence de janvier 2022. La première transmission des données des opérations de paiements aura lieu en février 2022 et la première transmission des données des transactions de paiements frauduleuses aura lieu en avril 2022 pour les données de janvier 2022.
 
 Le présent règlement est publié au Journal officiel du Grand-Duché de Luxembourg et sur le site Internet de la BCL (www.bcl.lu).
+
+BANQUE CENTRALE DU LUXEMBOURG
+
+La Direction

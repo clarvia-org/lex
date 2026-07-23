@@ -45,9 +45,9 @@ Par dérogation aux dispositions des articles 28 à 36 et de l’article 60bis, 
 
 La taxe sur la valeur ajoutée est due :
 
-1. pour les tabacs fabriqués au Grand-Duché de Luxembourg, par le fabricant ;
+- pour les tabacs fabriqués au Grand-Duché de Luxembourg, par le fabricant ;
 
-2. pour les tabacs non fabriqués au Grand-Duché de Luxembourg, par la personne qui effectue, à l'intérieur du pays, une acquisition intracommunautaire ou une importation de ces tabacs fabriqués.
+- pour les tabacs non fabriqués au Grand-Duché de Luxembourg, par la personne qui effectue, à l'intérieur du pays, une acquisition intracommunautaire ou une importation de ces tabacs fabriqués.
 
 (2)
 

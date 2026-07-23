@@ -50,11 +50,11 @@ Grundbesitz
 
 Grundbesitz ist:
 
-1. das land- und forstwirtschaftliche Vermögen (§§ 28 bis 49 des Bewertungsgesetzes),
+- das land- und forstwirtschaftliche Vermögen (§§ 28 bis 49 des Bewertungsgesetzes),
 
-2. das Grundvermögen (§§ 50 bis 53 des Bewertungsgesetzes),
+- das Grundvermögen (§§ 50 bis 53 des Bewertungsgesetzes),
 
-3. das Betriebsvermögen, soweit es in Betriebsgrundstücken besteht (§ 57 des Bewertungsgesetzes).
+- das Betriebsvermögen, soweit es in Betriebsgrundstücken besteht (§ 57 des Bewertungsgesetzes).
 
 <a id="art-p-3"></a>
 ## § 3
@@ -63,9 +63,9 @@ Steuergegenstand
 
 Steuergegenstände sind, soweit sie sich auf das Inland erstrecken:
 
-1. die land- und forstwirtschaftlichen Betriebe (§§ 29, 45, 47, 48, 49 des Bewertungsgesetzes). Den land- und forstwirtschaftlichen Betrieben stehen im Sinn dieses Gesetzes die im § 57 Absatz 1 Ziffer 2 des Bewertungsgesetzes bezeichneten Betriebsgrundstücke gleich;
+- die land- und forstwirtschaftlichen Betriebe (§§ 29, 45, 47, 48, 49 des Bewertungsgesetzes). Den land- und forstwirtschaftlichen Betrieben stehen im Sinn dieses Gesetzes die im § 57 Absatz 1 Ziffer 2 des Bewertungsgesetzes bezeichneten Betriebsgrundstücke gleich;
 
-2. die Grundstücke (§ 50 des Bewertungsgesetzes). Den Grundstücken stehen im Sinn dieses Gesetzes die im § 57 Absatz 1 Ziffer 1 des Bewertungsgesetzes bezeichneten Betriebsgrundstücke gleich.
+- die Grundstücke (§ 50 des Bewertungsgesetzes). Den Grundstücken stehen im Sinn dieses Gesetzes die im § 57 Absatz 1 Ziffer 1 des Bewertungsgesetzes bezeichneten Betriebsgrundstücke gleich.
 
 <a id="art-p-4"></a>
 ## § 4
@@ -74,51 +74,51 @@ Befreiungen
 
 Von der Grundsteuer sind befreit:
 
-1. Grundbesitz
+- Grundbesitz
 
-1. des Staates, einer Gemeinde oder eines Gemeindeverbands, wenn der Grundbesitz von dem Eigentümer für einen öffentlichen Dienst oder Gebrauch benutzt wird; L’exonération s’applique également à la propriété foncière utilisée à ces mêmes fins par l’Etat lorsque cette propriété foncière dont l’Etat n’est pas le propriétaire juridique fait l’objet d’un contrat de location-vente conclu conformément aux dispositions de l’article 2 de la loi modifiée du 13 avril 1970 fixant les conditions suivant lesquelles le Gouvernement peut soit acquérir des immeubles présentant un intérêt public, soit garantir le rendement et les charges locatifs de tels immeubles. Cette disposition ne s’applique pas à l’entreprise des postes et télécommunications.
+  - des Staates, einer Gemeinde oder eines Gemeindeverbands, wenn der Grundbesitz von dem Eigentümer für einen öffentlichen Dienst oder Gebrauch benutzt wird; L’exonération s’applique également à la propriété foncière utilisée à ces mêmes fins par l’Etat lorsque cette propriété foncière dont l’Etat n’est pas le propriétaire juridique fait l’objet d’un contrat de location-vente conclu conformément aux dispositions de l’article 2 de la loi modifiée du 13 avril 1970 fixant les conditions suivant lesquelles le Gouvernement peut soit acquérir des immeubles présentant un intérêt public, soit garantir le rendement et les charges locatifs de tels immeubles. Cette disposition ne s’applique pas à l’entreprise des postes et télécommunications.
 
-2. Grundbesitz
+- Grundbesitz
 
-1. des Verbands für Jugendherbergen,
+  - des Verbands für Jugendherbergen,
 
-2. des Roten Kreuzes, wenn der Grundbesitz von dem Eigentümer für seine Aufgaben benutzt wird;
+  - des Roten Kreuzes, wenn der Grundbesitz von dem Eigentümer für seine Aufgaben benutzt wird;
 
-3. Grundbesitz
+- Grundbesitz
 
-1. des Staates, einer Gemeinde oder eines Gemeindeverbands,
+  - des Staates, einer Gemeinde oder eines Gemeindeverbands,
 
-2. einer Körperschaft, Personenvereinigung oder Vermögensmasse, die nach der Satzung, Stiftung oder sonstigen Verfassung und nach ihrer tatsächlichen Geschäftsführung ausschliesslich und unmittelbar mildtätigen Zwecken dient, wenn der Grundbesitz von dem Eigentümer für mildtätige Zwecke benutzt wird;
+  - einer Körperschaft, Personenvereinigung oder Vermögensmasse, die nach der Satzung, Stiftung oder sonstigen Verfassung und nach ihrer tatsächlichen Geschäftsführung ausschliesslich und unmittelbar mildtätigen Zwecken dient, wenn der Grundbesitz von dem Eigentümer für mildtätige Zwecke benutzt wird;
 
-4. Grundbesitz eines anerkannten Sportvereins, der von ihm für sportliche Zwecke benutzt wird, unter den Bedingungen, die der Finanzminister und der Innenminister bestimmen;
+- Grundbesitz eines anerkannten Sportvereins, der von ihm für sportliche Zwecke benutzt wird, unter den Bedingungen, die der Finanzminister und der Innenminister bestimmen;
 
-5.
+-
 
-1. Grundbesitz, der dem Gottesdienst einer öffentlich-rechtlichen Religionsgesellschaft gewidmet ist;
+  - Grundbesitz, der dem Gottesdienst einer öffentlich-rechtlichen Religionsgesellschaft gewidmet ist;
 
-2. Grundbesitz einer öffentlich-rechtlichen Religionsgesellschaft oder einer anderen Körperschaft des öffentlichen Rechts, der von der Religionsgesellschaft für Zwecke der religiösen Unterweisung benutzt wird;
+  - Grundbesitz einer öffentlich-rechtlichen Religionsgesellschaft oder einer anderen Körperschaft des öffentlichen Rechts, der von der Religionsgesellschaft für Zwecke der religiösen Unterweisung benutzt wird;
 
-3. Grundbesitz einer öffentlich-rechtlichen Religionsgesellschaft oder einer anderen Körperschaft des öffentlichen Rechts, der von der Religionsgesellschaft für ihre Verwaltungszwecke benutzt wird;
+  - Grundbesitz einer öffentlich-rechtlichen Religionsgesellschaft oder einer anderen Körperschaft des öffentlichen Rechts, der von der Religionsgesellschaft für ihre Verwaltungszwecke benutzt wird;
 
-6. Grundbesitz einer der unter den Ziffern 1 bis 5a genannten Körperschaften, Personenvereinigungen, Vermögensmassen oder Verbände, der von einer anderen derartigen Körperschaft, Personenvereinigung, Vermögensmasse oder einem anderen derartigen Verband für ihre nach den Ziffern 1 bis 5 begünstigten Zwecke benutzt wird; cette disposition ne s’applique pas à l’entreprise des postes et télécommunications.
+- Grundbesitz einer der unter den Ziffern 1 bis 5a genannten Körperschaften, Personenvereinigungen, Vermögensmassen oder Verbände, der von einer anderen derartigen Körperschaft, Personenvereinigung, Vermögensmasse oder einem anderen derartigen Verband für ihre nach den Ziffern 1 bis 5 begünstigten Zwecke benutzt wird; cette disposition ne s’applique pas à l’entreprise des postes et télécommunications.
 
-7. Grundbesitz, der für Zwecke der Wissenschaft, der Erziehung und des Unterrichts benutzt wird und nicht bereits nach den vorstehenden Vorschriften befreit ist, wenn anerkannt ist, dass der Benutzungszweck im Rahmen der staatlichen Aufgaben liegt. Der Finanzminister, der Innenminister und der für das Fachgebiet zuständige Minister sprechen die Anerkennung aus. Der Anerkennung bedarf es nicht bei Hochschulen und bei solchen Schulen oder Erziehungsanstalten, deren Träger der Staat, eine Gemeinde oder ein Gemeindeverband ist. Wird der Grundbesitz nicht von dem Eigentümer für die bezeichneten Zwecke benutzt, so tritt Befreiung nur ein, wenn der Eigentümer eine Körperschaft des öffentlichen Rechts ist;
+- Grundbesitz, der für Zwecke der Wissenschaft, der Erziehung und des Unterrichts benutzt wird und nicht bereits nach den vorstehenden Vorschriften befreit ist, wenn anerkannt ist, dass der Benutzungszweck im Rahmen der staatlichen Aufgaben liegt. Der Finanzminister, der Innenminister und der für das Fachgebiet zuständige Minister sprechen die Anerkennung aus. Der Anerkennung bedarf es nicht bei Hochschulen und bei solchen Schulen oder Erziehungsanstalten, deren Träger der Staat, eine Gemeinde oder ein Gemeindeverband ist. Wird der Grundbesitz nicht von dem Eigentümer für die bezeichneten Zwecke benutzt, so tritt Befreiung nur ein, wenn der Eigentümer eine Körperschaft des öffentlichen Rechts ist;
 
-8. Grundbesitz, der für die Zwecke einer Krankenanstalt benutzt wird und nicht bereits nach den vorstehenden Vorschriften befreit ist soweit die Anstalt Kranke zu Bedingungen aufnimmt, die der Finanzminister, der Innenminister und der Arbeitsminister bestimmen. Ziffer 7 Schlussatz gilt entsprechend;
+- Grundbesitz, der für die Zwecke einer Krankenanstalt benutzt wird und nicht bereits nach den vorstehenden Vorschriften befreit ist soweit die Anstalt Kranke zu Bedingungen aufnimmt, die der Finanzminister, der Innenminister und der Arbeitsminister bestimmen. Ziffer 7 Schlussatz gilt entsprechend;
 
-9.
+-
 
-1. die dem öffentlichen Verkehr dienenden Strassen, Wege, Plätze, Brücken, künstlichen Wasserläufe, und Schienenwege;
+  - die dem öffentlichen Verkehr dienenden Strassen, Wege, Plätze, Brücken, künstlichen Wasserläufe, und Schienenwege;
 
-2. das Rollfeld der Verkehrsflughäfen;
+  - das Rollfeld der Verkehrsflughäfen;
 
-3. die fliessenden Gewässer (Flüsse, Bäche), die deren Abfluss regelnden Sammelbecken und die im Eigentum des Staates, einer Gemeinde oder eines Gemeindeverbands stehenden und Teiche;
+  - die fliessenden Gewässer (Flüsse, Bäche), die deren Abfluss regelnden Sammelbecken und die im Eigentum des Staates, einer Gemeinde oder eines Gemeindeverbands stehenden und Teiche;
 
-4. die im Interesse der Ordnung und Verbesserung der Wasser- und Bodenverhältnisse unterhaltenen Einrichtungen der öffentlich-rechtlichen Wasser- und Bodenverbände und die im öffentlichen Interesse staatlich unter Schau gestellten Privatdeiche;
+  - die im Interesse der Ordnung und Verbesserung der Wasser- und Bodenverhältnisse unterhaltenen Einrichtungen der öffentlich-rechtlichen Wasser- und Bodenverbände und die im öffentlichen Interesse staatlich unter Schau gestellten Privatdeiche;
 
-5. die Bestattungsplätze;
+  - die Bestattungsplätze;
 
-10. Grundbesitz eines fremden Staats, der für Zwecke von Botschaften, Gesandtschaften oder Konsulaten dieses Staats benutzt wird, wenn Gegenseitigkeit gewährt wird.
+- Grundbesitz eines fremden Staats, der für Zwecke von Botschaften, Gesandtschaften oder Konsulaten dieses Staats benutzt wird, wenn Gegenseitigkeit gewährt wird.
 
 <a id="art-p-5"></a>
 ## § 5
@@ -127,25 +127,25 @@ Steuerpflicht bei Benutzung zu Wohnzwecken
 
 Grundbesitz, der Wohnzwecken dient, ist nicht als für einen der nach § 4 Ziffern 1 bis 8 begünstigten Zwecke benutzt anzusehen; das gilt auch für die zugehörigen Hofräume und Hausgärten. Den begünstigten Zwecken dienen jedoch und sind deshalb unter den weiteren Voraussetzungen des § 4 befreit:
 
-1. die Kasernen und Lagerunterkünfte
+- die Kasernen und Lagerunterkünfte
 
-1. der Armee, der Polizei, der Gendarmerie, des Wasserschutzes, des sonstigen Schutzdienstes des Staates,
+  - der Armee, der Polizei, der Gendarmerie, des Wasserschutzes, des sonstigen Schutzdienstes des Staates,
 
-2. die gemeinschaftlichen Wohnräume
+- die gemeinschaftlichen Wohnräume
 
-1. in Jugendherbergen,
+  - in Jugendherbergen,
 
-2. in Erziehungsanstalten,
+  - in Erziehungsanstalten,
 
-3. in Prediger- und Priesterseminaren;
+  - in Prediger- und Priesterseminaren;
 
-3. die Wohnräume
+- die Wohnräume
 
-1. in den Heimen des Roten Kreuzes, die für die Aufnahme erholungsbedürftiger oder hilfsbedürftiger Personen bestimmt sind,
+  - in den Heimen des Roten Kreuzes, die für die Aufnahme erholungsbedürftiger oder hilfsbedürftiger Personen bestimmt sind,
 
-2. der hilfsbedürftigen Personen in den Gebäuden, die wegen Benutzung für mildtätige Zwecke befreit sind (§ 4 Ziffern 3 und 6);
+  - der hilfsbedürftigen Personen in den Gebäuden, die wegen Benutzung für mildtätige Zwecke befreit sind (§ 4 Ziffern 3 und 6);
 
-4. Räume, in denen sich Personen für die Erfüllung der begünstigten Zwecke ständig bereit halten müssen (Bereitschaftsräume), wenn sie nicht zugleich die Wohnung des Inhabers darstellen.
+- Räume, in denen sich Personen für die Erfüllung der begünstigten Zwecke ständig bereit halten müssen (Bereitschaftsräume), wenn sie nicht zugleich die Wohnung des Inhabers darstellen.
 
 <a id="art-p-6"></a>
 ## § 6
@@ -173,9 +173,9 @@ Steuerschuldner
 
 Schuldner der Grundsteuer ist:
 
-1. der Eigentümer oder, wenn der Steuergegenstand ein grundstücksgleiches Recht ist, der Berechtigte,
+- der Eigentümer oder, wenn der Steuergegenstand ein grundstücksgleiches Recht ist, der Berechtigte,
 
-2. wenn die Betriebsmittel oder Gebäude eines land- und forstwirtschaftlichen Betriebs (§ 3 Ziffer 1) einem anderen als dem Eigentümer des Grund und Bodens gehören, der Eigentümer des Grund und Bodens für den gesamten Betrieb,
+- wenn die Betriebsmittel oder Gebäude eines land- und forstwirtschaftlichen Betriebs (§ 3 Ziffer 1) einem anderen als dem Eigentümer des Grund und Bodens gehören, der Eigentümer des Grund und Bodens für den gesamten Betrieb,
 
 (2)
 
@@ -192,9 +192,9 @@ Persönliche Haftung
 
 Neben dem Steuerschuldner haften als Gesamtschuldner:
 
-1. der Nutzniesser und der Niessbraucher,
+- der Nutzniesser und der Niessbraucher,
 
-2. wenn die Betriebsmittel oder Gebäude eines land- und forstwirtschaftlichen Betriebs einem anderen als dem Eigentümer des Grund und Bodens gehören, der Eigentümer der Betriebsmittel oder Gebäude für den auf diese entfallenden Steuerbetrag.
+- wenn die Betriebsmittel oder Gebäude eines land- und forstwirtschaftlichen Betriebs einem anderen als dem Eigentümer des Grund und Bodens gehören, der Eigentümer der Betriebsmittel oder Gebäude für den auf diese entfallenden Steuerbetrag.
 
 <a id="art-p-9"></a>
 ## § 9
@@ -379,13 +379,13 @@ impôt foncier B6 pour l’impôt applicable aux terrains à bâtir à des fins 
 
 Pour l’application des alinéas 2 et 3, on entend:
 
-1. par immeubles bâtis et non bâtis, ceux qui sont visés au paragraphe 3, numéro 2, de la présente loi;
+- par immeubles bâtis et non bâtis, ceux qui sont visés au paragraphe 3, numéro 2, de la présente loi;
 
-2. par maisons de rapport, constructions commerciales, constructions à usage mixte, maisons unifamiliales et constructions à autre usage, les constructions définies au paragraphe 32, alinéa 1, points 1 à 5, de l’ordonnance d’exécution du 2 février 1935 relative à la loi modifiée du 16 octobre 1934 concernant l’évaluation des biens et valeurs;
+- par maisons de rapport, constructions commerciales, constructions à usage mixte, maisons unifamiliales et constructions à autre usage, les constructions définies au paragraphe 32, alinéa 1, points 1 à 5, de l’ordonnance d’exécution du 2 février 1935 relative à la loi modifiée du 16 octobre 1934 concernant l’évaluation des biens et valeurs;
 
-3. par immeubles non bâtis autres que les terrains à bâtir à des fins d’habitation, ceux qui sont visés au paragraphe 53bis, alinéa 1, numéro 1, de la loi modifiée du 16 octobre 1934 concernant l’évaluation des biens et valeurs;
+- par immeubles non bâtis autres que les terrains à bâtir à des fins d’habitation, ceux qui sont visés au paragraphe 53bis, alinéa 1, numéro 1, de la loi modifiée du 16 octobre 1934 concernant l’évaluation des biens et valeurs;
 
-4. par terrains à bâtir à des fins d’habitation, ceux qui sont visés au paragraphe 53bis, alinéa 1, numéro 2, de la loi modifiée du 16 octobre 1934 concernant l’évaluation des biens et valeurs.
+- par terrains à bâtir à des fins d’habitation, ceux qui sont visés au paragraphe 53bis, alinéa 1, numéro 2, de la loi modifiée du 16 octobre 1934 concernant l’évaluation des biens et valeurs.
 
 #### Abschnitt III Entrichtung der Grundsteuer
 
@@ -402,9 +402,9 @@ Die Grundsteuer wird am 15. Mai. 15, August, 15. November und 15. Februar zu je 
 
 Par dérogation au 1er alinéa, les dates d’exigibilité de l’impôt sont fixées comme suit:
 
-1. au 15 novembre en un terme égal à la cote annuelle lorsque celle-ci ne dépasse pas 55 euros ;
+- au 15 novembre en un terme égal à la cote annuelle lorsque celle-ci ne dépasse pas 55 euros ;
 
-2. aux 15 mai et 15 novembre en deux termes égaux chacun à la moitié de la cote annuelle lorsque celle-ci dépasse 55 euros sans dépasser 110 euros.
+- aux 15 mai et 15 novembre en deux termes égaux chacun à la moitié de la cote annuelle lorsque celle-ci dépasse 55 euros sans dépasser 110 euros.
 
 <a id="art-p-23"></a>
 ## § 23

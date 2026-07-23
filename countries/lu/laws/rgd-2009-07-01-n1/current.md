@@ -55,13 +55,13 @@ Si, en application des dispositions des articles 8 à 10 du présent règlement,
 
 L'enseignant faisant partie du cadre du personnel de l'enseignement fondamental, des Instituts et services de l'éducation différenciée ou du Centre de logopédie qui postule un grade de substitution doit, au moment de l'introduction de sa demande se prévaloir, abstraction faite de sa tâche normale, d'une collaboration régulière de cinq années au moins à l'une des activités suivantes:
 
-1. développement de programmes et de matériels didactiques;
+- développement de programmes et de matériels didactiques;
 
-2. participation aux conseils d'orientation «fondamental - postprimaire»;
+- participation aux conseils d'orientation «fondamental - postprimaire»;
 
-3. accompagnement des nouveaux instituteurs pendant la période de nomination provisoire;
+- accompagnement des nouveaux instituteurs pendant la période de nomination provisoire;
 
-4. accueil des étudiants en cours de formation accomplissant leurs stages d'observation en milieu scolaire.
+- accueil des étudiants en cours de formation accomplissant leurs stages d'observation en milieu scolaire.
 
 D'autres activités peuvent être reconnues par la commission prévue à l'article 14 ci-après, sur proposition (Règl. g.-d. du 24 mars 2014) «du président du collège des inspecteurs de l'enseignement fondamental».
 
@@ -72,13 +72,13 @@ D'autres activités peuvent être reconnues par la commission prévue à l'artic
 
 L'enseignant faisant partie du cadre du personnel des lycées et lycées techniques, de l'Institut national des langues, de l'École de la 2 e chance ou du Centre national de formation professionnelle continue qui postule un grade de substitution doit au moment de l'introduction de sa demande se prévaloir, abstraction faite de sa tâche normale, d'une collaboration régulière de cinq années au moins à l'une des activités suivantes:
 
-1. activités d'une commission nationale de programme;
+- activités d'une commission nationale de programme;
 
-2. participation aux conseils d'orientation «fondamental - postprimaire»;
+- participation aux conseils d'orientation «fondamental - postprimaire»;
 
-3. activités d'une commission d'examen de fin d'études ou de fin d'apprentissage;
+- activités d'une commission d'examen de fin d'études ou de fin d'apprentissage;
 
-4. activités du stage pédagogique.
+- activités du stage pédagogique.
 
 D'autres activités peuvent être reconnues par la commission prévue à l'article 15 ci-après, sur proposition du directeur de l'établissement compétent.
 

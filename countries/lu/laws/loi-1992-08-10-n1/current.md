@@ -55,11 +55,11 @@ Pour la réalisation de son objet, l’entreprise peut créer des filiales et é
 
 L’entreprise a pour objet la prestation, seule ou en participation:
 
-1. de services postaux, en ce compris la levée, le tri, l’acheminement et la distribution des envois de colis, de quelque nature qu’ils soient, et les services logistiques y associés;
+- de services postaux, en ce compris la levée, le tri, l’acheminement et la distribution des envois de colis, de quelque nature qu’ils soient, et les services logistiques y associés;
 
-2. de services de télécommunication et, plus généralement, de services de communications électroniques, ainsi que de services en matière de technologies de l’information et de la communication; et
+- de services de télécommunication et, plus généralement, de services de communications électroniques, ainsi que de services en matière de technologies de l’information et de la communication; et
 
-3. de services financiers postaux.
+- de services financiers postaux.
 
 (2)
 
@@ -111,37 +111,37 @@ Le conseil définit la politique générale de l’entreprise et il contrôle la
 
 Le conseil exerce les attributions suivantes:
 
-1. il définit la stratégie de l’entreprise, sur proposition du directeur général, en ce compris la gestion de ses participations;
+- il définit la stratégie de l’entreprise, sur proposition du directeur général, en ce compris la gestion de ses participations;
 
-2. il approuve les comptes annuels statutaires et les comptes annuels consolidés de l’entreprise;
+- il approuve les comptes annuels statutaires et les comptes annuels consolidés de l’entreprise;
 
-3. il approuve le recours à l’emprunt pour le financement des investissements;
+- il approuve le recours à l’emprunt pour le financement des investissements;
 
-4. il approuve la constitution de sociétés filiales, l’établissement de succursales et la prise de participations dans des sociétés publiques ou privées;
+- il approuve la constitution de sociétés filiales, l’établissement de succursales et la prise de participations dans des sociétés publiques ou privées;
 
-5. il approuve la cession de participations;
+- il approuve la cession de participations;
 
-6. il approuve le budget annuel d’investissement;
+- il approuve le budget annuel d’investissement;
 
-7. il approuve le budget annuel de fonctionnement;
+- il approuve le budget annuel de fonctionnement;
 
-8. il approuve l’organigramme général de l’entreprise;
+- il approuve l’organigramme général de l’entreprise;
 
-9. il approuve les acquisitions, aliénations et échanges d’immeubles dans la mesure où ces transactions sont inférieures ou égales à dix millions d’euros;
+- il approuve les acquisitions, aliénations et échanges d’immeubles dans la mesure où ces transactions sont inférieures ou égales à dix millions d’euros;
 
-10. il approuve les conventions à conclure entre l’Etat et l’entreprise et visées à l’article 4;
+- il approuve les conventions à conclure entre l’Etat et l’entreprise et visées à l’article 4;
 
-11. il approuve la ou les conventions collectives entre l’entreprise et les membres de son personnel, en ce compris la convention collective visée à l’article 24 paragraphe de la présente loi;
+- il approuve la ou les conventions collectives entre l’entreprise et les membres de son personnel, en ce compris la convention collective visée à l’article 24 paragraphe de la présente loi;
 
-12. il approuve l’état des effectifs du personnel;
+- il approuve l’état des effectifs du personnel;
 
-13. il engage et licencie le directeur général relevant du régime de droit privé;
+- il engage et licencie le directeur général relevant du régime de droit privé;
 
-14. il définit la politique générale de l’entreprise en matière de services offerts et la politique tarifaire générale en relation avec tous les services;
+- il définit la politique générale de l’entreprise en matière de services offerts et la politique tarifaire générale en relation avec tous les services;
 
-15. il fixe la rémunération du directeur général et des autres directeurs relevant du régime de droit privé, en tenant compte des indemnités, primes, jetons, suppléments de rémunération et autres avantages dont ils peuvent bénéficier, sur base d’une proposition afférente du comité de nomination et de rémunération; et
+- il fixe la rémunération du directeur général et des autres directeurs relevant du régime de droit privé, en tenant compte des indemnités, primes, jetons, suppléments de rémunération et autres avantages dont ils peuvent bénéficier, sur base d’une proposition afférente du comité de nomination et de rémunération; et
 
-16. il désigne les agents chargés du contrôle interne, définit leurs mandats et reçoit leurs rapports.
+- il désigne les agents chargés du contrôle interne, définit leurs mandats et reçoit leurs rapports.
 
 (2)
 
@@ -345,15 +345,15 @@ En cas de démission, licenciement ou révocation du directeur général, ses po
 
 Afin d’assurer la prestation optimale des activités prévues sous l’article 3 (1), l’organisation de l’entreprise comprend:
 
-1. une direction générale;
+- une direction générale;
 
-2. une division des postes;
+- une division des postes;
 
-3. une division des télécommunications;
+- une division des télécommunications;
 
-4. une division des services financiers postaux; et
+- une division des services financiers postaux; et
 
-5. un service dédié à l’émission de timbres postaux.
+- un service dédié à l’émission de timbres postaux.
 
 (2)
 
@@ -368,11 +368,11 @@ Le conseil peut créer de nouveaux services et divisions et en fixer les attribu
 
 Le ministre exerce la haute surveillance sur les activités d’intérêt général de l’entreprise notamment:
 
-1. en se faisant communiquer directement toutes les décisions du conseil;
+- en se faisant communiquer directement toutes les décisions du conseil;
 
-2. en se faisant communiquer tous les documents et informations qu’il estime nécessaire;
+- en se faisant communiquer tous les documents et informations qu’il estime nécessaire;
 
-3. en statuant sur celles qui sont sujettes à son approbation.
+- en statuant sur celles qui sont sujettes à son approbation.
 
 (2)
 
@@ -513,11 +513,11 @@ L’inspection centrale décide s’il y a lieu de donner suite à cette demande
 
 Lorsque l’instruction disciplinaire est terminée, l’inspection centrale prend une des décisions suivantes:
 
-1. si elle estime que l’application d’une sanction n’est pas indiquée, ou qu’il résulte de l’instruction que l’agent n’a pas manqué à ses devoirs, elle classe l’affaire et en informe le directeur général;
+- si elle estime que l’application d’une sanction n’est pas indiquée, ou qu’il résulte de l’instruction que l’agent n’a pas manqué à ses devoirs, elle classe l’affaire et en informe le directeur général;
 
-2. elle transmet le dossier au directeur général aux fins de décision lorsqu’elle est d’avis que les faits établis par l’instruction constituent un manquement à sanctionner de l’avertissement, de la réprimande ou de l’amende ne dépassant pas les deux dixièmes d’une mensualité brute du traitement de base;
+- elle transmet le dossier au directeur général aux fins de décision lorsqu’elle est d’avis que les faits établis par l’instruction constituent un manquement à sanctionner de l’avertissement, de la réprimande ou de l’amende ne dépassant pas les deux dixièmes d’une mensualité brute du traitement de base;
 
-3. elle transmet le dossier à la commission disciplinaire lorsqu’elle estime que les faits établis par l’instruction constituent un manquement à réprimer par une sanction plus sévère que celle mentionnée sous b).
+- elle transmet le dossier à la commission disciplinaire lorsqu’elle estime que les faits établis par l’instruction constituent un manquement à réprimer par une sanction plus sévère que celle mentionnée sous b).
 
 <a id="art-36"></a>
 ## Art. 36.
@@ -668,13 +668,13 @@ L’entreprise des postes et télécommunications est soumise à l’impôt sur 
 
 Aux fins de l’application du paragraphe qui précède, les modifications qui suivent sont apportées aux dispositions légales en matière d’impôts directs:
 
-1. A l’article 167, alinéa 1er de la loi du 4 décembre 1967 concernant l’impôt sur le revenu, il est ajouté un numéro (6) libellé comme suit: (6) les sommes correspondant à l’incidence financière des missions spéciales imposées à l’entreprise des postes et télécommunications. Ces sommes sont arrêtées chaque année par le Gouvernement en conseil.
+- A l’article 167, alinéa 1er de la loi du 4 décembre 1967 concernant l’impôt sur le revenu, il est ajouté un numéro (6) libellé comme suit: (6) les sommes correspondant à l’incidence financière des missions spéciales imposées à l’entreprise des postes et télécommunications. Ces sommes sont arrêtées chaque année par le Gouvernement en conseil.
 
-2. la dernière phrase du paragraphe 3, alinéa 1er, numéro 3 de la loi du 16 octobre 1934 concernant l’impôt sur la fortune est remplacée par la phrase suivante: Cette disposition ne s’applique pas aux instituts de crédit, ni à l’entreprise des postes et télécommunications.
+- la dernière phrase du paragraphe 3, alinéa 1er, numéro 3 de la loi du 16 octobre 1934 concernant l’impôt sur la fortune est remplacée par la phrase suivante: Cette disposition ne s’applique pas aux instituts de crédit, ni à l’entreprise des postes et télécommunications.
 
-3. au paragraphe 3, numéro 1 de la loi du 1er décembre 1936 concernant l’impôt commercial communal, les termes Die Postverwaltung und sont biffés.
+- au paragraphe 3, numéro 1 de la loi du 1er décembre 1936 concernant l’impôt commercial communal, les termes Die Postverwaltung und sont biffés.
 
-4. les numéros 1 a) et 6 du paragraphe 4 de la loi du 1er décembre 1936 concernant l’impôt foncier sont complétés par la phrase suivante: cette disposition ne s’applique pas à l’entreprise des postes et télécommunications.
+- les numéros 1 a) et 6 du paragraphe 4 de la loi du 1er décembre 1936 concernant l’impôt foncier sont complétés par la phrase suivante: cette disposition ne s’applique pas à l’entreprise des postes et télécommunications.
 
 ### TITRE IX DISPOSITIONS ABROGATOIRES
 

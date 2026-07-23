@@ -87,17 +87,17 @@ Le directeur arrête les détails d'organisation et les modalités de fonctionne
 
 Le SRE a pour mission de rechercher, d'analyser et de traiter, dans une perspective d'anticipation et de prévention, mais à l'exclusion de toute surveillance politique interne, les renseignements relatifs à: .
 
-1. a) toute activité qui menace ou pourrait menacer la sécurité nationale ou la sécurité des États étrangers ou des organisations internationales ou supranationales avec lesquelles le Luxembourg poursuit des objectifs communs sur base d'accords ou de conventions bilatérales respectivement multilatérales, ou
+- a) toute activité qui menace ou pourrait menacer la sécurité nationale ou la sécurité des États étrangers ou des organisations internationales ou supranationales avec lesquelles le Luxembourg poursuit des objectifs communs sur base d'accords ou de conventions bilatérales respectivement multilatérales, ou
 
-2. toute activité qui menace ou pourrait menacer les relations internationales du Grand-Duché de Luxembourg, son potentiel scientifique ou ses intérêts économiques définie par le Comité
+- toute activité qui menace ou pourrait menacer les relations internationales du Grand-Duché de Luxembourg, son potentiel scientifique ou ses intérêts économiques définie par le Comité
 
 (2)
 
 Pour l'application du paragraphe 1er, on entend par activité qui menace ou pourrait menacer la sécurité nationale ou les intérêts visés ci-dessus, toute activité, individuelle ou collective, déployée à l'intérieur du pays ou à partir de l'étranger,
 
-1. qui peut avoir un rapport avec l'espionnage, l'ingérence, le terrorisme, l'extrémisme à propension violente, la prolifération d'armes de destruction massive ou de produits liés à la défense et des technologies y afférentes, le crime organisé ou la cyber-menace dans la mesure où ces deux derniers sont liés aux activités précitées, et
+- qui peut avoir un rapport avec l'espionnage, l'ingérence, le terrorisme, l'extrémisme à propension violente, la prolifération d'armes de destruction massive ou de produits liés à la défense et des technologies y afférentes, le crime organisé ou la cyber-menace dans la mesure où ces deux derniers sont liés aux activités précitées, et
 
-2. qui est susceptible de mettre en cause l'indépendance et la souveraineté de l'État, la sécurité et le fonctionnement des institutions, les droits fondamentaux et les libertés publiques, la sécurité des personnes et des biens, le potentiel scientifique et technique ou les intérêts économiques du Grand-Duché de Luxembourg.
+- qui est susceptible de mettre en cause l'indépendance et la souveraineté de l'État, la sécurité et le fonctionnement des institutions, les droits fondamentaux et les libertés publiques, la sécurité des personnes et des biens, le potentiel scientifique et technique ou les intérêts économiques du Grand-Duché de Luxembourg.
 
 (3)
 
@@ -114,11 +114,11 @@ Cette lettre de mission est régulièrement et au moins une fois par an mise à 
 
 Le SRE ne peut mettre en œuvre des moyens ou des mesures de recherche qu'à condition
 
-1. que le moyen ou la mesure vise de façon ciblée une ou plusieurs personnes physiques ou morales, identifiées ou identifiables;
+- que le moyen ou la mesure vise de façon ciblée une ou plusieurs personnes physiques ou morales, identifiées ou identifiables;
 
-2. qu'il dispose d'un indice grave ou de plusieurs indices concordants qui permettent de conclure à la réalité d'une menace sérieuse actuelle ou potentielle relevant du champ d'application de ses missions déterminées à l'article 3;
+- qu'il dispose d'un indice grave ou de plusieurs indices concordants qui permettent de conclure à la réalité d'une menace sérieuse actuelle ou potentielle relevant du champ d'application de ses missions déterminées à l'article 3;
 
-3. que les moyens et mesures de recherche mis en œuvre soient proportionnels à la gravité de la menace sous b) et que d'autres moyens ou mesures dont dispose le SRE ne permettent pas de remplir ses missions légales au prix d'une atteinte moins grave aux droits des personnes visées sous a).
+- que les moyens et mesures de recherche mis en œuvre soient proportionnels à la gravité de la menace sous b) et que d'autres moyens ou mesures dont dispose le SRE ne permettent pas de remplir ses missions légales au prix d'une atteinte moins grave aux droits des personnes visées sous a).
 
 Le SRE doit toujours mettre en œuvre celles des mesures envisageables qui s'avèrent entraîner la moindre intrusion dans la vie privée pour les personnes visées, tout en veillant en tout état de cause au principe de la proportionnalité.
 
@@ -143,13 +143,13 @@ Le SRE peut, à l'aide ou non de moyens techniques, procéder à des observation
 
 Par observation au sens du présent article, on entend l'observation systématique d'une ou de plusieurs personnes, de leur présence ou de leur comportement, ou de choses, de lieux ou d'évènements déterminés;
 
-1. qui est effectuée pendant plus de trois jours consécutifs,
+- qui est effectuée pendant plus de trois jours consécutifs,
 
-2. qui est effectuée pendant plus de trois jours répartis sur une période d'un mois,
+- qui est effectuée pendant plus de trois jours répartis sur une période d'un mois,
 
-3. dans le cadre de laquelle des moyens techniques sont utilisés, ou
+- dans le cadre de laquelle des moyens techniques sont utilisés, ou
 
-4. qui revêt un caractère international.
+- qui revêt un caractère international.
 
 Par moyen technique au sens de la présente loi, on entend une configuration de composants qui détecte des signaux, les transmet, active leur enregistrement et enregistre les signaux, à l'exception de moyens techniques utilisés en vue de l'exécution d'une mesure visée à l'article 7.
 
@@ -157,13 +157,13 @@ Par lieu public au sens de la présente loi, on vise des parties de tout bâtime
 
 Une fois par mois, le directeur du SRE rapporte par écrit au Comité des observations réalisées par le SRE et il transmet à cette fin au Comité un rapport écrit comprenant:
 
-1. les motifs spécifiques pour lesquels l'exercice des missions a exigé l'observation;
+- les motifs spécifiques pour lesquels l'exercice des missions a exigé l'observation;
 
-2. le nom ou, s'il n'est pas connu, une description aussi précise que possible de la ou des personnes observées;
+- le nom ou, s'il n'est pas connu, une description aussi précise que possible de la ou des personnes observées;
 
-3. la manière dont l'observation a été exécutée, y compris le recours éventuel à des moyens techniques;
+- la manière dont l'observation a été exécutée, y compris le recours éventuel à des moyens techniques;
 
-4. la période durant laquelle l'observation s'est appliquée.
+- la période durant laquelle l'observation s'est appliquée.
 
 En cas d'urgence l'observation peut être mise en œuvre sur autorisation verbale du directeur, à confirmer par écrit dans un délai de quarante-huit heures.
 
@@ -260,11 +260,11 @@ En cas d'urgence le ministre peut de sa propre autorité ordonner les mesures de
 
 Si les moyens et les mesures de recherche dont dispose le SRE en vertu des articles 5, 6 et 7 s'avèrent inopérants en raison de la nature des faits et des circonstances spécifiques de l'espèce, le SRE peut être autorisé par le Comité et, en cas d'urgence et sous réserve de faire confirmer sa décision dans les meilleurs délais par le Comité, par le ministre à mettre en œuvre les moyens et mesures de recherche suivants pour un ou plusieurs faits qui revêtent un degré de gravité caractérisé et qui ont trait soit à des activités d'espionnage soit à des activités de prolifération d'armes de destruction massive ou de produits liés à la défense et de technologies y afférentes, soit à des activités de terrorisme:
 
-1. demander à la CSSF, selon la procédure arrêtée par la CSSF et selon les conditions de l’article 8, paragraphe 3, de la loi du 25 mars 2020 instituant un système électronique central de recherche de données concernant des comptes IBAN et des coffres-forts, de recevoir sans délai les données visées à l’article 2, paragraphe 1 er , de cette loi ;
+- demander à la CSSF, selon la procédure arrêtée par la CSSF et selon les conditions de l’article 8, paragraphe 3, de la loi du 25 mars 2020 instituant un système électronique central de recherche de données concernant des comptes IBAN et des coffres-forts, de recevoir sans délai les données visées à l’article 2, paragraphe 1 er , de cette loi ;
 
-2. solliciter auprès d'un organisme bancaire ou d'une institution financière les informations relatives aux transactions bancaires qui ont été réalisées, pendant une période déterminée, sur un ou plusieurs comptes bancaires de la personne visée par la mesure de recherche ou de son véritable bénéficiaire économique ainsi que les informations concernant les titulaires ou mandataires qui, pendant une période déterminée, ont ou avaient accès à un ou plusieurs coffres bancaires de la personne visée par la mesure de recherche. L'organisme bancaire ou l'institution financière visée par la demande doit fournir sa réponse sans délai;
+- solliciter auprès d'un organisme bancaire ou d'une institution financière les informations relatives aux transactions bancaires qui ont été réalisées, pendant une période déterminée, sur un ou plusieurs comptes bancaires de la personne visée par la mesure de recherche ou de son véritable bénéficiaire économique ainsi que les informations concernant les titulaires ou mandataires qui, pendant une période déterminée, ont ou avaient accès à un ou plusieurs coffres bancaires de la personne visée par la mesure de recherche. L'organisme bancaire ou l'institution financière visée par la demande doit fournir sa réponse sans délai;
 
-3. accéder au(x) système(s) informatique(s) susceptible(s) d'être utilisé(s) par une personne ou plusieurs personnes visées par les moyens et mesures de recherche, afin de rechercher de manière ciblée des renseignements nécessaires à l'exécution d'une des deux missions définies au premier alinéa ou de surveiller et contrôler des communications dont l'interception technique n'est pas possible moyennant les réseaux normaux de télécommunication et à ce titre y installer un dispositif technique ou informatique non permanent d'une durée n'excédant pas le délai de trois mois.
+- accéder au(x) système(s) informatique(s) susceptible(s) d'être utilisé(s) par une personne ou plusieurs personnes visées par les moyens et mesures de recherche, afin de rechercher de manière ciblée des renseignements nécessaires à l'exécution d'une des deux missions définies au premier alinéa ou de surveiller et contrôler des communications dont l'interception technique n'est pas possible moyennant les réseaux normaux de télécommunication et à ce titre y installer un dispositif technique ou informatique non permanent d'une durée n'excédant pas le délai de trois mois.
 
 (2)
 
@@ -272,9 +272,9 @@ Pour un ou plusieurs faits revêtant un degré de gravité caractérisé et qui 
 
 À cet effet, le SRE peut:
 
-1. entrer dans ces lieux afin de les inspecter, d'en emporter ou de remettre en place des objets, d'installer, deréparer ou d'en retirer un moyen technique au sens de l'article 5, paragraphe 3 ou un outil technique en vue d'écouter, de prendre connaissance et d'enregistrer toutes les formes de communication au sens de l'article 7 pour un délai renouvelable d'un mois à compter du jour où la mesure a été ordonnée;
+- entrer dans ces lieux afin de les inspecter, d'en emporter ou de remettre en place des objets, d'installer, deréparer ou d'en retirer un moyen technique au sens de l'article 5, paragraphe 3 ou un outil technique en vue d'écouter, de prendre connaissance et d'enregistrer toutes les formes de communication au sens de l'article 7 pour un délai renouvelable d'un mois à compter du jour où la mesure a été ordonnée;
 
-2. observer, sans interception de communications au sens de l'article 7, à l'aide ou non de moyens techniques à l'intérieur des lieux précités.
+- observer, sans interception de communications au sens de l'article 7, à l'aide ou non de moyens techniques à l'intérieur des lieux précités.
 
 (3)
 
@@ -322,23 +322,23 @@ Le SRE procède au traitement de données à caractère personnel qui sont néce
 
 Dans le cadre de l'exercice de sa mission, le SRE a accès direct, par un système informatique, aux traitements de données à caractère personnel suivants:
 
-1. le registre national des personnes physiques créé par la loi du 19 juin 2013 relative à l'identification des personnes physiques;
+- le registre national des personnes physiques créé par la loi du 19 juin 2013 relative à l'identification des personnes physiques;
 
-2. le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l'article 413 du Code de la sécurité sociale , à l'exclusion de toutes données relatives à la santé;
+- le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l'article 413 du Code de la sécurité sociale , à l'exclusion de toutes données relatives à la santé;
 
-3. le fichier des étrangers exploité pour le compte du service des étrangers du ministre ayant l'Immigration dans ses attributions;
+- le fichier des étrangers exploité pour le compte du service des étrangers du ministre ayant l'Immigration dans ses attributions;
 
-4. le fichier des demandeurs de visa exploité pour le compte du bureau des passeports, visas et légalisations du ministre ayant les Affaires étrangères dans ses attributions;
+- le fichier des demandeurs de visa exploité pour le compte du bureau des passeports, visas et légalisations du ministre ayant les Affaires étrangères dans ses attributions;
 
-5. le fichier des autorisations d'établissement exploité pour le compte du ministre ayant les Classes moyennes dans ses attributions;
+- le fichier des autorisations d'établissement exploité pour le compte du ministre ayant les Classes moyennes dans ses attributions;
 
-6. le fichier des véhicules routiers et de leurs propriétaires et détenteurs, exploité pour le compte du ministère ayant le Transport dans ses attributions;
+- le fichier des véhicules routiers et de leurs propriétaires et détenteurs, exploité pour le compte du ministère ayant le Transport dans ses attributions;
 
-7. le fichier des armes prohibées du ministre ayant la Justice dans ses attributions; ainsi qu'aux systèmes de traitements de données suivants:
+- le fichier des armes prohibées du ministre ayant la Justice dans ses attributions; ainsi qu'aux systèmes de traitements de données suivants:
 
-8. la partie «recherche» de la banque de données nominatives de police générale.
+- la partie «recherche» de la banque de données nominatives de police générale.
 
-9. h)le fichier des fiches d’hébergement du ministre ayant le Tourisme dans ses attributions.
+- h)le fichier des fiches d’hébergement du ministre ayant le Tourisme dans ses attributions.
 
 Le SRE peut s'adresser par écrit au procureur général d'État pour obtenir la communication du bulletin N°2 du casier judiciaire.
 
@@ -379,9 +379,9 @@ Cette disposition ne s'applique ni aux renseignements fournis par un service ét
 
 Si des renseignements permettant d'identifier une source humaine ont été obtenus à l'occasion d'une procédure qui n'avait pas pour but de découvrir l'identité d'une source du SRE, ces données ne peuvent pas être utilisées comme preuve dans le cadre d'une action en justice, sauf
 
-1. dans le cas où une telle utilisation des renseignements ne divulgue pas l'identité de la source, ou
+- dans le cas où une telle utilisation des renseignements ne divulgue pas l'identité de la source, ou
 
-2. dans les cas visés au paragraphe 3.
+- dans les cas visés au paragraphe 3.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -472,19 +472,19 @@ Les dépenses du SRE sont effectuées par le comptable extraordinaire du SRE nom
 
 Par dérogation aux dispositions des articles 68 à 73 de la loi précitée du 8 juin 1999:
 
-1. le contrôle périodique de la gestion du SRE est assuré par la Cour des Comptes;
+- le contrôle périodique de la gestion du SRE est assuré par la Cour des Comptes;
 
-2. les recettes du comptable extraordinaire sont affectées au paiement des dépenses du SRE. Elles sont inscrites dans le compte du comptable extraordinaire;
+- les recettes du comptable extraordinaire sont affectées au paiement des dépenses du SRE. Elles sont inscrites dans le compte du comptable extraordinaire;
 
-3. le comptable extraordinaire rend compte de l'emploi de ses fonds à l'ordonnateur à la fin de chaque trimestre dans un délai indiqué dans la décision d'allocation des fonds;
+- le comptable extraordinaire rend compte de l'emploi de ses fonds à l'ordonnateur à la fin de chaque trimestre dans un délai indiqué dans la décision d'allocation des fonds;
 
-4. les fonds dont il n'a pas été fait emploi pour les besoins du paiement des dépenses se rapportant à l'exercice pour lequel ils ont été alloués ne sont pas reversés à la Trésorerie de l'État. Ces fonds sont portés en recette au profit du SRE pour l'exercice suivant;
+- les fonds dont il n'a pas été fait emploi pour les besoins du paiement des dépenses se rapportant à l'exercice pour lequel ils ont été alloués ne sont pas reversés à la Trésorerie de l'État. Ces fonds sont portés en recette au profit du SRE pour l'exercice suivant;
 
-5. l'ordonnateur transmet le compte du comptable extraordinaire après approbation à la Cour des Comptes;
+- l'ordonnateur transmet le compte du comptable extraordinaire après approbation à la Cour des Comptes;
 
-6. la Cour des Comptes transmet le compte accompagné de ses observations au ministre, à charge pour ce dernier de les continuer à la commission de contrôle parlementaire;
+- la Cour des Comptes transmet le compte accompagné de ses observations au ministre, à charge pour ce dernier de les continuer à la commission de contrôle parlementaire;
 
-7. à la fin de l'exercice budgétaire le ministre soumet, après consultation du Comité, au ministre ayant le Budget dans ses attributions une proposition quant à la décharge du comptable extraordinaire. La décision relative à la décharge intervient dans les conditions des articles 30 et suivants de la loi précitée du 8 juin 1999 .
+- à la fin de l'exercice budgétaire le ministre soumet, après consultation du Comité, au ministre ayant le Budget dans ses attributions une proposition quant à la décharge du comptable extraordinaire. La décision relative à la décharge intervient dans les conditions des articles 30 et suivants de la loi précitée du 8 juin 1999 .
 
 <a id="art-17"></a>
 ## Art. 17.
@@ -493,11 +493,11 @@ Par dérogation aux dispositions des articles 68 à 73 de la loi précitée du 8
 
 Pour la passation des marchés publics de fournitures et de services, le SRE a recours à la procédure du marché négocié, telle que définie par la loi modifiée du 25 juin 2009 sur les marchés publics, lorsque:
 
-1. les fournitures ou services sont déclarés secrets; ou
+- les fournitures ou services sont déclarés secrets; ou
 
-2. leur exécution doit s'accompagner de mesures particulières de sécurité, conformément aux dispositions législatives, réglementaires ou administratives en vigueur dans l'État membre concerné; ou
+- leur exécution doit s'accompagner de mesures particulières de sécurité, conformément aux dispositions législatives, réglementaires ou administratives en vigueur dans l'État membre concerné; ou
 
-3. la protection des intérêts essentiels de la sécurité de l'État l'exige.
+- la protection des intérêts essentiels de la sécurité de l'État l'exige.
 
 ##### Chapitre 5 Du personnel du SRE et de son recrutement
 
@@ -573,17 +573,17 @@ Les agents du SRE bénéficient en outre d'une indemnité spéciale mensuelle de
 
 Cette indemnité spéciale est fixée en fonction des différentes carrières au sein du SRE:
 
-1. 90 points imposables pour le directeur;
+- 90 points imposables pour le directeur;
 
-2. 86,19 points imposables pour les directeurs adjoints ;
+- 86,19 points imposables pour les directeurs adjoints ;
 
-3. 83,14 points imposables pour les chefs de divisions;
+- 83,14 points imposables pour les chefs de divisions;
 
-4. 80,09 points imposables pour les agents relevant des groupes de traitement A1 et A2;
+- 80,09 points imposables pour les agents relevant des groupes de traitement A1 et A2;
 
-5. 68,87 points imposables pour les agents relevant du groupe de traitement B1;
+- 68,87 points imposables pour les agents relevant du groupe de traitement B1;
 
-6. 67,12 points imposables pour les agents relevant des groupes de traitement C1, D1, D2 et D3.
+- 67,12 points imposables pour les agents relevant des groupes de traitement C1, D1, D2 et D3.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -674,9 +674,9 @@ Le ministre informe par ailleurs la commission de contrôle parlementaire de tou
 
 Est puni d'un emprisonnement de trois mois à un an et d'une amende de 251 euros à 125.000 euros ou d'une de ces peines seulement:
 
-1. l'agent du SRE ayant divulgué l'identité d'un autre agent du SRE ou d'une source humaine ou des faits relevant des missions du SRE à des personnes qui ne sont pas autorisées par la présente loi à en obtenir information;
+- l'agent du SRE ayant divulgué l'identité d'un autre agent du SRE ou d'une source humaine ou des faits relevant des missions du SRE à des personnes qui ne sont pas autorisées par la présente loi à en obtenir information;
 
-2. la source humaine ayant divulgué l'identité d'un agent du SRE ou d'une autre source humaine ou des faits relevant des missions du SRE à des personnes qui ne sont pas autorisées par la présente loi à en obtenir information, si elle a eu connaissance de ces identités ou faits dans le cadre de sa coopération avec le SRE.
+- la source humaine ayant divulgué l'identité d'un agent du SRE ou d'une autre source humaine ou des faits relevant des missions du SRE à des personnes qui ne sont pas autorisées par la présente loi à en obtenir information, si elle a eu connaissance de ces identités ou faits dans le cadre de sa coopération avec le SRE.
 
 L'agent du SRE qui a quitté le SRE reste tenu par l'obligation de secret visée à l'alinéa 1. Il est passible des peines y prévues en cas de non-respect de cette obligation.
 

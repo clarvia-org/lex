@@ -74,7 +74,7 @@ Cet examen théorique comporte des épreuves écrites ainsi que pour les catégo
 
 Le ministre ayant la Gestion de l’eau dans ses attributions, ci-après « ministre », détermine par groupe et sous-groupe de traitement des différentes catégories de traitement visées au présent article, sur proposition du directeur, les matières de la Partie II qui font l’objet des épreuves écrites de l’examen théorique. La Partie II se présente pour les différentes catégories de traitement comme suit :
 
-1. Pour les fonctionnaires stagiaires des catégories de traitement A, B et C :
+- Pour les fonctionnaires stagiaires des catégories de traitement A, B et C :
 
 | Partie II : Matières relatives au domaine de la gestion de l’eau et aux attributions spécifiques de l’administration |  |  |  |
 | --- | --- | --- | --- |
@@ -83,7 +83,7 @@ Le ministre ayant la Gestion de l’eau dans ses attributions, ci-après « mini
 | Technologie professionnelle | Matières relatives au domaine de la gestion de l’eau et aux attributions spécifiques de l’administration | 24 | 60 |
 | Total |  | 36 | 120 |
 
-1. Pour les fonctionnaires stagiaires de la catégorie de traitement D :
+- Pour les fonctionnaires stagiaires de la catégorie de traitement D :
 
 | Partie II : Matières relatives au domaine de la gestion de l’eau et aux attributions spécifiques de l’administration |  |  |  |
 | --- | --- | --- | --- |

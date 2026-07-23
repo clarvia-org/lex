@@ -32,33 +32,33 @@ Définitions
 
 Au sens de la présente loi on entend par:
 
-1. «véhicule», tout véhicule motorisé, y compris les motocycles, normalement utilisé pour le transport routier de personnes ou de marchandises;
+- «véhicule», tout véhicule motorisé, y compris les motocycles, normalement utilisé pour le transport routier de personnes ou de marchandises;
 
-2. «Etat membre de l'infraction», l'Etat membre de l'Union européenne où l'infraction a été commise;
+- «Etat membre de l'infraction», l'Etat membre de l'Union européenne où l'infraction a été commise;
 
-3. «Etat membre d'immatriculation», l'Etat membre de l'Union européenne où est immatriculé le véhicule avec lequel l'infraction a été commise;
+- «Etat membre d'immatriculation», l'Etat membre de l'Union européenne où est immatriculé le véhicule avec lequel l'infraction a été commise;
 
-4. «requête automatisée», une procédure d'accès en ligne permettant de consulter les bases de données d'un, de plusieurs ou de tous les Etats membres de l'Union européenne ou pays tiers participants;
+- «requête automatisée», une procédure d'accès en ligne permettant de consulter les bases de données d'un, de plusieurs ou de tous les Etats membres de l'Union européenne ou pays tiers participants;
 
-5. «point de contact national», autorité compétente désignée pour l'échange de données relatives à l'immatriculation des véhicules;
+- «point de contact national», autorité compétente désignée pour l'échange de données relatives à l'immatriculation des véhicules;
 
-6. «détenteur du véhicule», la personne au nom de laquelle le véhicule est immatriculé, au sens du droit de l'Etat membre d'immatriculation;
+- «détenteur du véhicule», la personne au nom de laquelle le véhicule est immatriculé, au sens du droit de l'Etat membre d'immatriculation;
 
-7. «excès de vitesse», le dépassement des limites de vitesse en vigueur dans l'Etat membre de l'infraction, en fonction de la route et du type de véhicule concernés;
+- «excès de vitesse», le dépassement des limites de vitesse en vigueur dans l'Etat membre de l'infraction, en fonction de la route et du type de véhicule concernés;
 
-8. «non-port de la ceinture de sécurité», le non-respect de l'obligation du port de la ceinture de sécurité ou de l'utilisation obligatoire d'un dispositif de retenue pour enfant conformément à la directive 91/671/CEE du Conseil du 16 décembre 1991 relative à l'utilisation obligatoire de ceintures de sécurité et de dispositifs de retenue pour enfants dans les véhicules et au droit de l'Etat membre de l'infraction;
+- «non-port de la ceinture de sécurité», le non-respect de l'obligation du port de la ceinture de sécurité ou de l'utilisation obligatoire d'un dispositif de retenue pour enfant conformément à la directive 91/671/CEE du Conseil du 16 décembre 1991 relative à l'utilisation obligatoire de ceintures de sécurité et de dispositifs de retenue pour enfants dans les véhicules et au droit de l'Etat membre de l'infraction;
 
-9. «franchissement d'un feu rouge», le fait de ne pas s'arrêter à un feu rouge, ou à tout autre signal d'arrêt équivalent, au sens du droit de l'Etat membre de l'infraction;
+- «franchissement d'un feu rouge», le fait de ne pas s'arrêter à un feu rouge, ou à tout autre signal d'arrêt équivalent, au sens du droit de l'Etat membre de l'infraction;
 
-10. «conduite en état d'ébriété», le fait de conduire un véhicule sous l'emprise de l'alcool, au sens du droit de l'Etat membre de l'infraction;
+- «conduite en état d'ébriété», le fait de conduire un véhicule sous l'emprise de l'alcool, au sens du droit de l'Etat membre de l'infraction;
 
-11. «conduite sous l'influence de drogues», le fait de conduire un véhicule sous l'emprise de drogues ou d'autres substances ayant des effets similaires, au sens du droit de l'Etat membre de l'infraction;
+- «conduite sous l'influence de drogues», le fait de conduire un véhicule sous l'emprise de drogues ou d'autres substances ayant des effets similaires, au sens du droit de l'Etat membre de l'infraction;
 
-12. «non-port du casque», le fait de ne pas porter de casque, au sens du droit de l'Etat membre de l'infraction;
+- «non-port du casque», le fait de ne pas porter de casque, au sens du droit de l'Etat membre de l'infraction;
 
-13. «circulation sur une voie interdite», le fait de circuler illicitement sur une partie de la chaussée, par exemple une bande d'arrêt d'urgence, une voie réservée aux transports publics ou une voie temporairement fermée en raison de congestions ou de travaux, au sens du droit de l'Etat membre de l'infraction;
+- «circulation sur une voie interdite», le fait de circuler illicitement sur une partie de la chaussée, par exemple une bande d'arrêt d'urgence, une voie réservée aux transports publics ou une voie temporairement fermée en raison de congestions ou de travaux, au sens du droit de l'Etat membre de l'infraction;
 
-14. «usage illicite d'un téléphone portable ou de tout autre équipement de communication en conduisant un véhicule», le fait d'utiliser illicitement un téléphone portable ou tout autre équipement de communication en conduisant un véhicule, au sens du droit de l'Etat membre de l'infraction.
+- «usage illicite d'un téléphone portable ou de tout autre équipement de communication en conduisant un véhicule», le fait d'utiliser illicitement un téléphone portable ou tout autre équipement de communication en conduisant un véhicule, au sens du droit de l'Etat membre de l'infraction.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -69,21 +69,21 @@ Infractions susceptibles de donner lieu à l'échange d'informations
 
 Pour autant que le Grand-Duché de Luxembourg est l'Etat membre de l'infraction, les infractions suivantes sont susceptibles de donner lieu à une communication de données intervenant dans les conditions et selon les modalités de l'article 4, paragraphe 2:
 
-1. le dépassement de la limitation réglementaire de la vitesse considéré comme délit en vertu de l'article 11bis de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques;
+- le dépassement de la limitation réglementaire de la vitesse considéré comme délit en vertu de l'article 11bis de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques;
 
-2. le dépassement de la limitation réglementaire de la vitesse considéré comme contravention ou contravention grave en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
+- le dépassement de la limitation réglementaire de la vitesse considéré comme contravention ou contravention grave en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
 
-3. le défaut pour le conducteur d'un véhicule de porter la ceinture de sécurité de façon réglementaire ou le fait pour le conducteur d'un véhicule de transporter un mineur qui, selon le cas, ne porte pas la ceinture de sécurité de façon réglementaire ou n'est pas placé de façon réglementaire dans un dispositif de retenue homologué considérés comme contraventions graves en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
+- le défaut pour le conducteur d'un véhicule de porter la ceinture de sécurité de façon réglementaire ou le fait pour le conducteur d'un véhicule de transporter un mineur qui, selon le cas, ne porte pas la ceinture de sécurité de façon réglementaire ou n'est pas placé de façon réglementaire dans un dispositif de retenue homologué considérés comme contraventions graves en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
 
-4. l'inobservation d'un signal B, 1, d'un signal B, 2a ou d'un signal lumineux rouge ou rouge clignotant ou d'un signal lumineux blanc ou jaune à barre horizontale considérée comme contravention grave en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
+- l'inobservation d'un signal B, 1, d'un signal B, 2a ou d'un signal lumineux rouge ou rouge clignotant ou d'un signal lumineux blanc ou jaune à barre horizontale considérée comme contravention grave en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
 
-5. le fait de commettre comme conducteur d'un véhicule un des délits ou une des contraventions graves prévues à l'article 12 de la loi précitée du 14 février 1955 ;
+- le fait de commettre comme conducteur d'un véhicule un des délits ou une des contraventions graves prévues à l'article 12 de la loi précitée du 14 février 1955 ;
 
-6. le défaut pour le conducteur d'un véhicule de porter de façon réglementaire un casque de protection homologué ou le fait pour le conducteur d'un véhicule de transporter un mineur qui ne porte pas de façon réglementaire un casque de protection homologué considérés comme contraventions graves en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
+- le défaut pour le conducteur d'un véhicule de porter de façon réglementaire un casque de protection homologué ou le fait pour le conducteur d'un véhicule de transporter un mineur qui ne porte pas de façon réglementaire un casque de protection homologué considérés comme contraventions graves en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
 
-7. le fait de circuler sur une bande d'arrêt d'urgence, une partie de la chaussée réservée à d'autres usagers ou une voie fermée considéré comme contravention en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
+- le fait de circuler sur une bande d'arrêt d'urgence, une partie de la chaussée réservée à d'autres usagers ou une voie fermée considéré comme contravention en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
 
-8. le fait d'utiliser un téléphone portable ou tout autre équipement de communication en conduisant un véhicule considéré comme contravention grave en vertu de l'article 7 de la loi précitée du 14 février 1955 .
+- le fait d'utiliser un téléphone portable ou tout autre équipement de communication en conduisant un véhicule considéré comme contravention grave en vertu de l'article 7 de la loi précitée du 14 février 1955 .
 
 (2)
 
@@ -109,9 +109,9 @@ Procédure pour l'échange d'informations entre Etats membres
 
 Pour l’application de la présente loi, les points de contact nationaux des autres États membres de l’Union européenne, et des pays tiers participants, sont autorisés à accéder au fichier des véhicules routiers et de leurs propriétaires, détenteurs ou du titulaire du certificat d’immatriculation du véhicule routier, exploité pour le compte du ministre ayant les Transports dans ses attributions, et à y effectuer des requêtes automatisées en temps réel et par lots concernant :
 
-1. les données relatives aux véhicules ;
+- les données relatives aux véhicules ;
 
-2. les données relatives aux propriétaires, détenteurs des véhicules routiers ou du titulaire du certificat d’immatriculation du véhicule routier.
+- les données relatives aux propriétaires, détenteurs des véhicules routiers ou du titulaire du certificat d’immatriculation du véhicule routier.
 
 Les éléments des données visées aux points a) et b) nécessaires pour effectuer la requête respectent l'annexe I de la directive 2015/413/UE du Parlement européen et du Conseil du 11 mars 2015 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière, telle que modifiée par les actes de la Commission européenne pris en application des articles 9 et 10 de cette directive.
 

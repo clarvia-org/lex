@@ -25,6 +25,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 19/12/1967 : Deuxième ordonnance d'exécution du 16 novembre 1943 relative à la loi sur l'impôt commercial (Zweite Verordnung über die Erhebung der Gewerbesteuer in vereinfachter Form).
 
+Auf Grund der Verordnung zur Vereinfachung der Gewerbebesteuerung vom 19. März 1943 wird verordnet:
+
 <a id="art-p-1"></a>
 ## § 1
 

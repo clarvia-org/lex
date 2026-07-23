@@ -145,11 +145,11 @@ Indemnités des membres du conseil scientifique.
 
 Pour chaque réunion les membres présents du conseil scientifique sont rémunérés de la façon suivante:
 
-1. les experts scientifiques perçoivent une indemnité de 100 €/heure;
+- les experts scientifiques perçoivent une indemnité de 100 €/heure;
 
-2. les autres membres perçoivent une indemnité de 25 €/heure;
+- les autres membres perçoivent une indemnité de 25 €/heure;
 
-3. le président du conseil scientifique touche une indemnité supplémentaire de 50 €/heure.
+- le président du conseil scientifique touche une indemnité supplémentaire de 50 €/heure.
 
 <a id="art-7"></a>
 ## Art. 7.

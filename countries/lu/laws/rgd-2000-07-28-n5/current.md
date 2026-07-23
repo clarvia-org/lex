@@ -299,17 +299,17 @@ L’employé qui à la date du 1er janvier 1989 a atteint par application des di
 
 Les paragraphes 1) et 2) de l’article de la loi du 27 juillet 1992 modifiant et complétant
 
-1. la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat,
+- la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat,
 
-2. la loi modifiée du 22 juin 1963 fixant la valeur numérique des traitements des fonctionnaires de l’Etat ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat,
+- la loi modifiée du 22 juin 1963 fixant la valeur numérique des traitements des fonctionnaires de l’Etat ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat,
 
-3. la loi du 27 août 1986 modifiant et complétant la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat,
+- la loi du 27 août 1986 modifiant et complétant la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat,
 
-4. la loi du 20 décembre 1991 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1992,
+- la loi du 20 décembre 1991 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1992,
 
-5. la loi du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat,
+- la loi du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat,
 
-6. la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat, s’appliquent aux employés.
+- la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat, s’appliquent aux employés.
 
 <a id="art-46bis"></a>
 ## Art. 46bis.

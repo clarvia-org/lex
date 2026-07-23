@@ -48,19 +48,19 @@ Lors d’une demande en obtention de l’aide au financement d’une garantie lo
 
 La demande est à accompagner des pièces suivantes :
 
-1. une copie de la pièce d’identité du demandeur ;
+- une copie de la pièce d’identité du demandeur ;
 
-2. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
+- une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
 
-3. la déclaration d’ouverture du compte de dépôt conditionné établie et signée par l’établissement de crédit et une copie de l’ordre permanent à raison de 1/36 ème du montant de la garantie locative demandée par le bailleur ;
+- la déclaration d’ouverture du compte de dépôt conditionné établie et signée par l’établissement de crédit et une copie de l’ordre permanent à raison de 1/36 ème du montant de la garantie locative demandée par le bailleur ;
 
-4. une copie du contrat écrit de bail à usage d’habitation ou tout autre document prouvant le montant de la garantie locative exigée par le bailleur lors de la conclusion du bail ainsi que le montant du loyer ;
+- une copie du contrat écrit de bail à usage d’habitation ou tout autre document prouvant le montant de la garantie locative exigée par le bailleur lors de la conclusion du bail ainsi que le montant du loyer ;
 
-5. une déclaration sur l’honneur signée par le demandeur et certifiant qu’il n’a aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
+- une déclaration sur l’honneur signée par le demandeur et certifiant qu’il n’a aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
 
-6. les documents attestant le revenu de la communauté domestique ;
+- les documents attestant le revenu de la communauté domestique ;
 
-7. un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique.
+- un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique.
 
 (2)
 
@@ -68,30 +68,30 @@ Toute décision d’octroi de l’aide contient en annexe un certificat signé p
 
 Ce certificat contient les indications suivantes :
 
-1. les nom et prénoms ainsi que l’adresse du demandeur et du bailleur ;
+- les nom et prénoms ainsi que l’adresse du demandeur et du bailleur ;
 
-2. l’adresse du logement faisant l’objet du contrat de bail à usage d’habitation ;
+- l’adresse du logement faisant l’objet du contrat de bail à usage d’habitation ;
 
-3. le montant maximum de l’aide à verser au bailleur en cas d’appel à la garantie locative ;
+- le montant maximum de l’aide à verser au bailleur en cas d’appel à la garantie locative ;
 
-4. le numéro d’identification de l’aide.
+- le numéro d’identification de l’aide.
 
 <a id="art-3"></a>
 ## Art. 3.
 
 Lors d’une demande en obtention d’une subvention de loyer, la demande est à accompagner des pièces suivantes :
 
-1. une copie de la pièce d’identité du demandeur ;
+- une copie de la pièce d’identité du demandeur ;
 
-2. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
+- une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
 
-3. une copie du contrat de bail à usage d’habitation écrit, daté et signé par le demandeur et le bailleur, portant sur le logement dans lequel habite la communauté domestique ou toute autre pièce prouvant l’existence d’un contrat de bail verbal au sens de l’article 1 er , paragraphe 2, de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil ;
+- une copie du contrat de bail à usage d’habitation écrit, daté et signé par le demandeur et le bailleur, portant sur le logement dans lequel habite la communauté domestique ou toute autre pièce prouvant l’existence d’un contrat de bail verbal au sens de l’article 1 er , paragraphe 2, de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil ;
 
-4. une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
+- une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
 
-5. les documents attestant le revenu de la communauté domestique ;
+- les documents attestant le revenu de la communauté domestique ;
 
-6. un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique.
+- un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -100,21 +100,21 @@ La demande en obtention d’une garantie de l’État est présentée, au nom de
 
 Lors d’une demande en obtention d’une garantie de l’État prévue à l’article 12 de la loi, la demande est à accompagner des pièces suivantes :
 
-1. une copie de la pièce d’identité du demandeur ;
+- une copie de la pièce d’identité du demandeur ;
 
-2. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
+- une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
 
-3. les documents prouvant une épargne régulière et constante d’au moins 3 ans conformément à l’article 13 de la loi ;
+- les documents prouvant une épargne régulière et constante d’au moins 3 ans conformément à l’article 13 de la loi ;
 
-4. une copie du compromis de vente relatif au logement, du contrat préliminaire en cas d’une nouvelle construction ou toute autre pièce certifiant que le demandeur a la pleine propriété du logement ;
+- une copie du compromis de vente relatif au logement, du contrat préliminaire en cas d’une nouvelle construction ou toute autre pièce certifiant que le demandeur a la pleine propriété du logement ;
 
-5. une déclaration sur l’honneur signée par l’emprunteur et certifiant qu’il n’a aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
+- une déclaration sur l’honneur signée par l’emprunteur et certifiant qu’il n’a aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
 
-6. les documents attestant le revenu de l’emprunteur ;
+- les documents attestant le revenu de l’emprunteur ;
 
-7. un plan de financement renseignant sur la composition des montants empruntés ;
+- un plan de financement renseignant sur la composition des montants empruntés ;
 
-8. les conditions générales du prêt que l’établissement de crédit se propose d’accorder avec la garantie de l’État.
+- les conditions générales du prêt que l’établissement de crédit se propose d’accorder avec la garantie de l’État.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -123,21 +123,21 @@ Lors d’une demande en obtention d’une garantie de l’État prévue à l’a
 
 Lors d’une demande en obtention de la prime d’accession à la propriété, la demande est à accompagner des pièces suivantes :
 
-1. une copie de la pièce d’identité du demandeur ;
+- une copie de la pièce d’identité du demandeur ;
 
-2. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
+- une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
 
-3. une copie de l’acte authentique d’acquisition du logement ou de l’acte authentique en cas de vente en état futur d’achèvement ;
+- une copie de l’acte authentique d’acquisition du logement ou de l’acte authentique en cas de vente en état futur d’achèvement ;
 
-4. un certificat des données du prêt hypothécaire émis par l’établissement de crédit ;
+- un certificat des données du prêt hypothécaire émis par l’établissement de crédit ;
 
-5. une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
+- une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
 
-6. les documents attestant le revenu de la communauté domestique ;
+- les documents attestant le revenu de la communauté domestique ;
 
-7. un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique ;
+- un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique ;
 
-8. un certificat du bordereau d’inscription hypothécaire dûment enregistré, sur première demande du ministre.
+- un certificat du bordereau d’inscription hypothécaire dûment enregistré, sur première demande du ministre.
 
 En cas de mariage ou de partenariat, les époux ou partenaires au sens de l’article 2 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats doivent signer la demande.
 
@@ -159,21 +159,21 @@ En cas d’octroi de l’aide, la prime d’épargne est virée sur le compte in
 
 Lors d’une demande en obtention d’une prime d’amélioration, la demande est à accompagner des pièces suivantes :
 
-1. une copie de la pièce d’identité du demandeur ;
+- une copie de la pièce d’identité du demandeur ;
 
-2. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
+- une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
 
-3. une copie de l’acte authentique d’acquisition du logement ou de l’acte authentique en cas de vente en état futur d’achèvement ;
+- une copie de l’acte authentique d’acquisition du logement ou de l’acte authentique en cas de vente en état futur d’achèvement ;
 
-4. une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
+- une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
 
-5. les documents attestant le revenu de la communauté domestique ;
+- les documents attestant le revenu de la communauté domestique ;
 
-6. un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique ;
+- un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique ;
 
-7. un certificat attestant la date de première occupation du logement émis par l’administration communale concernée ;
+- un certificat attestant la date de première occupation du logement émis par l’administration communale concernée ;
 
-8. une copie des factures acquittées relatives aux travaux d’amélioration réalisés ou une preuve de l’octroi d’une aide financière prévue aux articles 4 ou 5 de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement.
+- une copie des factures acquittées relatives aux travaux d’amélioration réalisés ou une preuve de l’octroi d’une aide financière prévue aux articles 4 ou 5 de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement.
 
 En cas d’octroi de l’aide, la prime est virée sur le compte indiqué sur la demande. En cas d’octroi d’une prime d’amélioration pour assainissement énergétique et si une subvention d’intérêt pour prêt climatique visée à l’article 42 de la loi est accordée au demandeur dans le cadre dudit assainissement énergétique, la prime est à virer sur le compte du prêt climatique.
 
@@ -184,21 +184,21 @@ En cas d’octroi de l’aide, la prime est virée sur le compte indiqué sur la
 
 Lors d’une demande en obtention de la subvention d’intérêt aux articles 19 et 27 de la loi, la demande est à accompagner des pièces suivantes :
 
-1. une copie de la pièce d’identité du demandeur ;
+- une copie de la pièce d’identité du demandeur ;
 
-2. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
+- une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
 
-3. une copie de l’acte authentique d’acquisition du logement ou de l’acte authentique en cas de vente en état futur d’achèvement ;
+- une copie de l’acte authentique d’acquisition du logement ou de l’acte authentique en cas de vente en état futur d’achèvement ;
 
-4. un certificat des données du prêt hypothécaire émis par l’établissement de crédit ;
+- un certificat des données du prêt hypothécaire émis par l’établissement de crédit ;
 
-5. une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
+- une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
 
-6. les documents attestant le revenu de la communauté domestique ;
+- les documents attestant le revenu de la communauté domestique ;
 
-7. un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique ;
+- un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique ;
 
-8. un certificat du bordereau d’inscription hypothécaire dûment enregistré, sur première demande du ministre.
+- un certificat du bordereau d’inscription hypothécaire dûment enregistré, sur première demande du ministre.
 
 En cas de mariage ou de partenariat, les époux ou partenaires au sens de l’article 2 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats doivent signer la demande.
 
@@ -215,19 +215,19 @@ Tous les frais de transfert de l’aide opérés sont à charge du bénéficiair
 
 Lors d’une demande en obtention d’une prime pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap, la demande est à accompagner des pièces suivantes :
 
-1. une copie de la pièce d’identité du demandeur ;
+- une copie de la pièce d’identité du demandeur ;
 
-2. un certificat médical attestant la situation de handicap de la personne concernée ;
+- un certificat médical attestant la situation de handicap de la personne concernée ;
 
-3. une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
+- une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
 
-4. les documents attestant le revenu de la communauté domestique ;
+- les documents attestant le revenu de la communauté domestique ;
 
-5. un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique ;
+- un certificat d’affiliation au Centre commun de la sécurité sociale de chaque membre de la communauté domestique ;
 
-6. un certificat de la Caisse nationale de santé attestant que la personne en situation de handicap n’a pas bénéficié d’une aide financière par l’assurance dépendance pour les aménagements pour lesquels une prime est demandée ;
+- un certificat de la Caisse nationale de santé attestant que la personne en situation de handicap n’a pas bénéficié d’une aide financière par l’assurance dépendance pour les aménagements pour lesquels une prime est demandée ;
 
-7. une copie des factures acquittées relatives aux aménagements spéciaux réalisés.
+- une copie des factures acquittées relatives aux aménagements spéciaux réalisés.
 
 En cas de demandeur incapable ou placé sous un régime de protection, la demande doit également être accompagnée d’une copie de la carte d’identité de son représentant légal, ainsi que d’une copie du jugement en cas de placement du demandeur sous un régime de protection.
 
@@ -238,17 +238,17 @@ Le virement de la prime se fait au fur et à mesure de l’exécution des aména
 
 Lors d’une demande en obtention d’une prime de création d’un logement intégré, la demande est à accompagner des pièces suivantes :
 
-1. une copie de la pièce d’identité du demandeur ;
+- une copie de la pièce d’identité du demandeur ;
 
-2. une copie de l’autorisation de bâtir relative à la création d’un logement intégré de l’administration communale du lieu de l’immeuble abritant le logement intégré ;
+- une copie de l’autorisation de bâtir relative à la création d’un logement intégré de l’administration communale du lieu de l’immeuble abritant le logement intégré ;
 
-3. une copie de l’acte authentique d’acquisition du logement ou de l’acte authentique en cas de vente en état futur d’achèvement ;
+- une copie de l’acte authentique d’acquisition du logement ou de l’acte authentique en cas de vente en état futur d’achèvement ;
 
-4. un certificat attestant la date de première occupation du logement intégré, émis par l’administration communale concernée ;
+- un certificat attestant la date de première occupation du logement intégré, émis par l’administration communale concernée ;
 
-5. une copie des plans de construction relatifs à la création du logement intégré ;
+- une copie des plans de construction relatifs à la création du logement intégré ;
 
-6. une copie des factures acquittées relatives aux travaux de création du logement intégré.
+- une copie des factures acquittées relatives aux travaux de création du logement intégré.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -257,15 +257,15 @@ La demande en obtention d’une garantie de l’État pour un prêt climatique e
 
 La demande est à accompagner des pièces suivantes :
 
-1. une copie de la pièce d’identité du demandeur ;
+- une copie de la pièce d’identité du demandeur ;
 
-2. une copie du titre de propriété du logement ;
+- une copie du titre de propriété du logement ;
 
-3. une copie de l’accord de principe renseignant le montant des frais éligibles au sens de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement et portant sur les travaux à financer par le prêt ;
+- une copie de l’accord de principe renseignant le montant des frais éligibles au sens de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement et portant sur les travaux à financer par le prêt ;
 
-4. un certificat attestant la date de première occupation du logement émis par l’administration communale du lieu du logement ;
+- un certificat attestant la date de première occupation du logement émis par l’administration communale du lieu du logement ;
 
-5. un plan de financement établi par l’établissement de crédit renseignant sur la composition des montants empruntés.
+- un plan de financement établi par l’établissement de crédit renseignant sur la composition des montants empruntés.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -274,15 +274,15 @@ La demande est à accompagner des pièces suivantes :
 
 Une demande en obtention d’une subvention d’intérêt un pour prêt climatique prévue à l’article 44 de la loi est à accompagner des pièces suivantes :
 
-1. une copie de la pièce d’identité du demandeur ;
+- une copie de la pièce d’identité du demandeur ;
 
-2. une copie du titre de propriété du logement ;
+- une copie du titre de propriété du logement ;
 
-3. une copie du contrat de prêt certifié par l’établissement de crédit ayant consenti le prêt au demandeur ;
+- une copie du contrat de prêt certifié par l’établissement de crédit ayant consenti le prêt au demandeur ;
 
-4. une copie de la décision d’octroi d’une aide financière prévue par les articles 4 et 5 de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement, y compris le détail des frais éligibles pour le projet de réalisation de mesures d’assainissement ou d’équipement du logement par des installations techniques financées par le prêt ;
+- une copie de la décision d’octroi d’une aide financière prévue par les articles 4 et 5 de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement, y compris le détail des frais éligibles pour le projet de réalisation de mesures d’assainissement ou d’équipement du logement par des installations techniques financées par le prêt ;
 
-5. un certificat attestant la date de première occupation du logement émis par l’administration communale du lieu du logement.
+- un certificat attestant la date de première occupation du logement émis par l’administration communale du lieu du logement.
 
 (2)
 
@@ -300,13 +300,13 @@ Si le logement pour lequel une subvention d’intérêt pour prêt climatique es
 
 Sont abrogés :
 
-1. le règlement grand-ducal modifié du 5 mai 2011 fixant les mesures d’exécution relatives aux aides individuelles au logement promouvant l’accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l’aide au logement, sous réserve des dispositions prévues au paragraphe 2, alinéa 1 er ;
+- le règlement grand-ducal modifié du 5 mai 2011 fixant les mesures d’exécution relatives aux aides individuelles au logement promouvant l’accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l’aide au logement, sous réserve des dispositions prévues au paragraphe 2, alinéa 1 er ;
 
-2. le règlement grand-ducal du 20 décembre 2019 fixant les mesures d’exécution relatives à l’aide au financement de garanties locatives prévues par l’article 14 quater -1 de la loi modifiée du 25 février 1979 concernant l’aide au logement ;
+- le règlement grand-ducal du 20 décembre 2019 fixant les mesures d’exécution relatives à l’aide au financement de garanties locatives prévues par l’article 14 quater -1 de la loi modifiée du 25 février 1979 concernant l’aide au logement ;
 
-3. le règlement grand-ducal du 8 juin 2022 1° modifiant le règlement grand-ducal modifié du 5 mai 2011 fixant les mesures d’exécution relatives aux aides individuelles au logement promouvant l’accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l’aide au logement ; et 2° abrogeant le règlement grand-ducal du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 relative à un régime d’aides à des prêts climatiques ;
+- le règlement grand-ducal du 8 juin 2022 1° modifiant le règlement grand-ducal modifié du 5 mai 2011 fixant les mesures d’exécution relatives aux aides individuelles au logement promouvant l’accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l’aide au logement ; et 2° abrogeant le règlement grand-ducal du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 relative à un régime d’aides à des prêts climatiques ;
 
-4. le règlement grand-ducal du 22 juillet 2022 fixant les modalités d’exécution relatives à la subvention de loyer.
+- le règlement grand-ducal du 22 juillet 2022 fixant les modalités d’exécution relatives à la subvention de loyer.
 
 (2)
 

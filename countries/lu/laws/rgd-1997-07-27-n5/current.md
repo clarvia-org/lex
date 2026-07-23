@@ -40,21 +40,21 @@ Conditions d’engagement
 
 Peuvent être engagés en qualité de chargé d’éducation à durée indéterminée et à tâche complète sous un contrat d’employé de l’Etat, dans l’ordre de leur ancienneté de service, les chargés de cours à durée déterminée en service au premier janvier 1997 dans un lycée ou lycée technique public qui remplissent les conditions suivantes:
 
-1. être ressortissant d’un pays de l’Union Européenne,
+- être ressortissant d’un pays de l’Union Européenne,
 
-2. jouir des droits civils et politiques,
+- jouir des droits civils et politiques,
 
-3. offrir les garanties de moralité requises,
+- offrir les garanties de moralité requises,
 
-4. pouvoir se prévaloir d’une ancienneté de service de deux ans au moins; sont mises en compte comme ancienneté de service les périodes passées au service de l’enseignement public en qualité de fonctionnaire, de stagiaire-fonctionnaire, d’employé à l’essai, d’employé sous contrat à durée déterminée ou d’employé sous contrat à durée indéterminée,
+- pouvoir se prévaloir d’une ancienneté de service de deux ans au moins; sont mises en compte comme ancienneté de service les périodes passées au service de l’enseignement public en qualité de fonctionnaire, de stagiaire-fonctionnaire, d’employé à l’essai, d’employé sous contrat à durée déterminée ou d’employé sous contrat à durée indéterminée,
 
-5. avoir fait preuve d’une connaissance adéquate des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues, conformément au règlement grand-ducal du 9 décembre 1994 fixant les modalités du contrôle de la connaissance des trois langues administratives pour le recrutement des fonctionnaires et employés des administrations de l’Etat et des établissements publics,
+- avoir fait preuve d’une connaissance adéquate des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues, conformément au règlement grand-ducal du 9 décembre 1994 fixant les modalités du contrôle de la connaissance des trois langues administratives pour le recrutement des fonctionnaires et employés des administrations de l’Etat et des établissements publics,
 
-6. s’engager à suivre avec succès dans un délai de deux ans une formation pédagogique dont l’évaluation globale sera faite par le directeur et deux professeurs titulaires de l’établissement auquel le chargé d’éducation est affecté. Cette formation comprend deux parties, à savoir: Un règlement ministériel fixera au besoin les détails de l’organisation de cette formation.
+- s’engager à suivre avec succès dans un délai de deux ans une formation pédagogique dont l’évaluation globale sera faite par le directeur et deux professeurs titulaires de l’établissement auquel le chargé d’éducation est affecté. Cette formation comprend deux parties, à savoir: Un règlement ministériel fixera au besoin les détails de l’organisation de cette formation.
 
-- une partie théorique commune portant sur la législation scolaire, les principes généraux de pédagogie, la méthodologie générale, la psychologie de l’adolescence;
+  - une partie théorique commune portant sur la législation scolaire, les principes généraux de pédagogie, la méthodologie générale, la psychologie de l’adolescence;
 
-- une partie pratique individuelle, sous la tutelle de professeurs titulaires et la responsabilité du directeur et portant sur la didactique des branches concernées.
+  - une partie pratique individuelle, sous la tutelle de professeurs titulaires et la responsabilité du directeur et portant sur la didactique des branches concernées.
 
 <a id="art-3"></a>
 ## Art. 3.

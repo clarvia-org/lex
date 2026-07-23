@@ -38,15 +38,15 @@ La présente loi s’applique à tout prélèvement d’organes sur des personne
 
 Un prélèvement d’organe ne peut être opéré sur une personne vivante, qui en fait le don, que si les conditions ci-après sont toutes réunies
 
-1. le don est dans l’intérêt thérapeutique direct d’un receveur nommément désigné au moment du don;
+- le don est dans l’intérêt thérapeutique direct d’un receveur nommément désigné au moment du don;
 
-2. la greffe de l’organe sur le receveur pressenti est apte à préserver la vie de cette personne ou de guérir une maladie grave dont elle est atteinte ou de prévenir son aggravation et l’on ne dispose pas d’organe approprié d’une personne décédée ni de méthode thérapeutique alternative d’efficacité comparable;
+- la greffe de l’organe sur le receveur pressenti est apte à préserver la vie de cette personne ou de guérir une maladie grave dont elle est atteinte ou de prévenir son aggravation et l’on ne dispose pas d’organe approprié d’une personne décédée ni de méthode thérapeutique alternative d’efficacité comparable;
 
-3. le donneur est majeur et jouit de son intégrité mentale;
+- le donneur est majeur et jouit de son intégrité mentale;
 
-4. le donneur ne présente pas de contre-indication d’ordre médical ou psychologique pour le prélèvement et ne court pas, compte tenu de son état de santé, un risque démesuré par rapport au bénéfice que le don procure au receveur;
+- le donneur ne présente pas de contre-indication d’ordre médical ou psychologique pour le prélèvement et ne court pas, compte tenu de son état de santé, un risque démesuré par rapport au bénéfice que le don procure au receveur;
 
-5. le donneur est conjoint, parent en ligne directe, frère ou sœur, oncle ou tante, cousin germain ou cousine germaine du receveur ou lié avec lui par une déclaration de partenariat au sens de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
+- le donneur est conjoint, parent en ligne directe, frère ou sœur, oncle ou tante, cousin germain ou cousine germaine du receveur ou lié avec lui par une déclaration de partenariat au sens de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
 (2)
 
@@ -200,9 +200,9 @@ La direction de la Santé met en place un système permettant de signaler, d’e
 
 Les établissements autorisés sur base de l’article 14 et le service national de coordination prévu à l’article 15 sont tenus d’avertir la direction de la Santé:
 
-1. de tout incident ou réaction indésirable grave;
+- de tout incident ou réaction indésirable grave;
 
-2. des mesures de gestion en ce qui concerne les incidents et réactions indésirables graves.
+- des mesures de gestion en ce qui concerne les incidents et réactions indésirables graves.
 
 <a id="art-15quater"></a>
 ## Art. 15quater.
@@ -221,11 +221,11 @@ Le personnel de santé intervenant dans la chaîne qui va du don à la transplan
 
 Pour les échanges d’organes avec un autre Etat membre de l’Union européenne, un règlement grand-ducal établit:
 
-1. des procédures pour la transmission des informations relatives à la caractérisation des organes et des donneurs en conformité avec l’article 15 bis ;
+- des procédures pour la transmission des informations relatives à la caractérisation des organes et des donneurs en conformité avec l’article 15 bis ;
 
-2. des procédures pour la transmission des informations nécessaires en vue d’assurer la traçabilité des organes, en conformité avec l’article 15, alinéa 2;
+- des procédures pour la transmission des informations nécessaires en vue d’assurer la traçabilité des organes, en conformité avec l’article 15, alinéa 2;
 
-3. des procédures permettant d’assurer la notification de tout incident ou réaction indésirable grave, en conformité avec l’article 15 ter .
+- des procédures permettant d’assurer la notification de tout incident ou réaction indésirable grave, en conformité avec l’article 15 ter .
 
 <a id="art-16"></a>
 ## Art. 16.

@@ -84,21 +84,21 @@ Pour être éligible, il faut au moins avoir 21 ans à la date des élections et
 
 En vue d'établir qu'il satisfait aux conditions susmentionnées, le candidat verse à l'appui de sa candidature un certificat dûment établi par:
 
-1. le ou les employeur(s) au cas où le candidat est salarié,
+- le ou les employeur(s) au cas où le candidat est salarié,
 
-2. l'union des caisses de maladie attestant que le candidat a effectué une ou des prestations relevant de sa profession pendant au moins 750 jours sur les 5 dernières années qui précèdent les élections au cas où le candidat est indépendant.
+- l'union des caisses de maladie attestant que le candidat a effectué une ou des prestations relevant de sa profession pendant au moins 750 jours sur les 5 dernières années qui précèdent les élections au cas où le candidat est indépendant.
 
-3. le ou les employeur(s) et l'union des caisses dé maladie, pour chacun en ce qui le concerne, au cas où le candidat a exercé sa profession alternativement au titre d'indépendant et au titre de salarié.
+- le ou les employeur(s) et l'union des caisses dé maladie, pour chacun en ce qui le concerne, au cas où le candidat a exercé sa profession alternativement au titre d'indépendant et au titre de salarié.
 
-4. l'autorité compétente de son lieu de résidence et qui mentionne les dates de résidence. Lorsque le candidat réside au Grand-Duché depuis moins de 3 ans, il doit en outre produire les documents équivalents émanant de l'autorité compétente de l'Etat de résidence antérieur. Lorsque le candidat réside à l'étranger, seuls les documents équivalents émanant de l'autorité compétente de l'Etat de résidence sont à produire.
+- l'autorité compétente de son lieu de résidence et qui mentionne les dates de résidence. Lorsque le candidat réside au Grand-Duché depuis moins de 3 ans, il doit en outre produire les documents équivalents émanant de l'autorité compétente de l'Etat de résidence antérieur. Lorsque le candidat réside à l'étranger, seuls les documents équivalents émanant de l'autorité compétente de l'Etat de résidence sont à produire.
 
-5. l'autorité compétente et établissant qu'il n'est pas
+- l'autorité compétente et établissant qu'il n'est pas
 
-- condamné à des peines criminelles,
+  - condamné à des peines criminelles,
 
-- privé du droit de vote par condamnation,
+  - privé du droit de vote par condamnation,
 
-- placé sous tutelle.
+  - placé sous tutelle.
 
 Les preuves concernant les conditions précitées sont rapportées moyennant les attestations, certificats et autres documents prévus par des dispositions législatives, réglementaires ou administratives luxembourgeoises.
 
@@ -107,11 +107,11 @@ Les preuves concernant les conditions précitées sont rapportées moyennant les
 
 Sont exclus de l'éligibilité en dehors des candidats qui ne fournissent pas la ou les preuves énoncées à l'article 8 ci-dessus:
 
-1. les personnes qui ne répondent pas aux stipulations de l'article 5 ci-devant,
+- les personnes qui ne répondent pas aux stipulations de l'article 5 ci-devant,
 
-2. pour la durée de la sanction définitive, les personnes qui se trouvent sous le coup de la privation du droit de vote dont question à l'article 26 alinéa 3 de la loi ,
+- pour la durée de la sanction définitive, les personnes qui se trouvent sous le coup de la privation du droit de vote dont question à l'article 26 alinéa 3 de la loi ,
 
-3. les personnes, contre lesquelles a été prononcé l'une des sanctions disciplinaires définitives prévues à l'article 26, alinéa 4 et 5, de la loi .
+- les personnes, contre lesquelles a été prononcé l'une des sanctions disciplinaires définitives prévues à l'article 26, alinéa 4 et 5, de la loi .
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -241,15 +241,15 @@ Si une enveloppe contient plusieurs bulletins, ceux-ci seront nuls.
 
 Seront nuls, outre les bulletins mentionnés à l'article 13-9. alinéa 3:
 
-1. les bulletins autres que ceux envoyés aux électeurs;
+- les bulletins autres que ceux envoyés aux électeurs;
 
-2. les bulletins ne contenant l'expression d'aucun suffrage;
+- les bulletins ne contenant l'expression d'aucun suffrage;
 
-3. les bulletins contenant plus de suffrages qu'il n'y a de membres à élire;
+- les bulletins contenant plus de suffrages qu'il n'y a de membres à élire;
 
-4. les bulletins sur lesquels le votant se sera fait connaître, et notamment ceux portant une marque, une rature ou un signe distinctif quelconque, ceux dont les formes et les dimensions ont été altérées, ceux qui contiennent à l'intérieur un papier ou un objet quelconque, ou ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président du bureau électoral; les bulletins dont l'enveloppe de renvoi ne porte pas de signature;
+- les bulletins sur lesquels le votant se sera fait connaître, et notamment ceux portant une marque, une rature ou un signe distinctif quelconque, ceux dont les formes et les dimensions ont été altérées, ceux qui contiennent à l'intérieur un papier ou un objet quelconque, ou ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président du bureau électoral; les bulletins dont l'enveloppe de renvoi ne porte pas de signature;
 
-5. les bulletins non renfermés dans deux enveloppes.
+- les bulletins non renfermés dans deux enveloppes.
 
 <a id="art-13-11"></a>
 ## Art. 13-11.
@@ -450,20 +450,20 @@ Le Conseil ainsi que chaque commission professionnelle choisissent le président
 
 Le mandat de membre du Conseil respectivement d'une commission professionnelle expire par suite
 
-1. de renonciation écrite au mandat,
+- de renonciation écrite au mandat,
 
-2. d'une sanction disciplinaire définitive autre que l'avertissement et la réprimande,
+- d'une sanction disciplinaire définitive autre que l'avertissement et la réprimande,
 
-3. de condamnation définitive à une peine criminelle ou à une peine d'emprisonnement d'au moins six mois sans sursis.
+- de condamnation définitive à une peine criminelle ou à une peine d'emprisonnement d'au moins six mois sans sursis.
 
 <a id="art-34"></a>
 ## Art. 34.
 
 Lorsque le mandat d'un membre effectif devient vacant, il sera occupé:
 
-1. pour une commission professionnelle, selon les dispositions prévues à l'article 13 du présent règlement,
+- pour une commission professionnelle, selon les dispositions prévues à l'article 13 du présent règlement,
 
-2. pour le Conseil, par cooptation d'un nouveau membre choisi sur la liste des suppléants et en fonction des paramètres dont question à l'article 22 du présent règlement.
+- pour le Conseil, par cooptation d'un nouveau membre choisi sur la liste des suppléants et en fonction des paramètres dont question à l'article 22 du présent règlement.
 
 Le nouveau membre remplit le mandat jusqu'au prochain renouvellement de la commission professionnelle respectivement celui du Conseil.
 
@@ -520,19 +520,19 @@ Le Conseil se fait assister dans ses travaux par un secrétaire administratif à
 
 Pour les lères élections des commissions professionnelles:
 
-1. la liste des électeurs est arrêtée provisoirement sur base des données du régistre au 1 er mars 1993,
+- la liste des électeurs est arrêtée provisoirement sur base des données du régistre au 1 er mars 1993,
 
-2. la date des élections est fixée par arrêté ministériel à publier au Mémorial au moins 70 jours avant les élections,
+- la date des élections est fixée par arrêté ministériel à publier au Mémorial au moins 70 jours avant les élections,
 
-3. l'arrêté ministériel dont question ci-dessus fixe également:
+- l'arrêté ministériel dont question ci-dessus fixe également:
 
-- la date limite de présentation des candidatures,
+  - la date limite de présentation des candidatures,
 
-- les endroits d'ouverture de la liste des électeurs à l'inspection du public,
+  - les endroits d'ouverture de la liste des électeurs à l'inspection du public,
 
-- les noms, prénoms et fonctions des membres du bureau électoral.
+  - les noms, prénoms et fonctions des membres du bureau électoral.
 
-4. les preuves d'éligibilité exigées en vertu des dispositions de l'article S sous (2) et (3) du présent règlement sont remplacées par un certificat établi par l'inspection générale de la sécurité sociale attestant que le candidat en question est inscrit au registre des prestataires de soins de santé auprès de cette administration.
+- les preuves d'éligibilité exigées en vertu des dispositions de l'article S sous (2) et (3) du présent règlement sont remplacées par un certificat établi par l'inspection générale de la sécurité sociale attestant que le candidat en question est inscrit au registre des prestataires de soins de santé auprès de cette administration.
 
 <a id="art-44-20050920"></a>
 ## Art. 44.

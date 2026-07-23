@@ -66,9 +66,9 @@ Un procès-verbal de chaque réunion est établi par le secrétaire, signé par 
 
 Sont abrogés :
 
-1. le règlement grand-ducal modifié du 17 juillet 2000 portant création d’un comité de prévention communal ou intercommunal ;
+- le règlement grand-ducal modifié du 17 juillet 2000 portant création d’un comité de prévention communal ou intercommunal ;
 
-2. et le règlement grand-ducal modifié du 17 juillet 2000 portant création et fonctionnement d’un comité de concertation régional.
+- et le règlement grand-ducal modifié du 17 juillet 2000 portant création et fonctionnement d’un comité de concertation régional.
 
 <a id="art-6"></a>
 ## Art. 6.

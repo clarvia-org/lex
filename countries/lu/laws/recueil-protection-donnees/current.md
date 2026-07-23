@@ -64,13 +64,13 @@ Son siège est fixé par règlement grand-ducal.
 
 La CNPD est chargée de contrôler et de vérifier si les données soumises à un traitement sont traitées en conformité avec les dispositions :
 
-1. du règlement (UE) 2016/679 ;
+- du règlement (UE) 2016/679 ;
 
-2. de la présente loi ;
+- de la présente loi ;
 
-3. de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
+- de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
 
-4. des textes légaux prévoyant des dispositions spécifiques en matière de protection des données à caractère personnel.
+- des textes légaux prévoyant des dispositions spécifiques en matière de protection des données à caractère personnel.
 
 <a id="art-n10136"></a>
 ## Art. 5.
@@ -98,29 +98,29 @@ La CNPD exerce les missions dont elle est investie en vertu de l’article 57 du
 
 Dans le cadre de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, la CNPD :
 
-1. contrôle l'application des dispositions et des mesures d'exécution et veille au respect de celles-ci ;
+- contrôle l'application des dispositions et des mesures d'exécution et veille au respect de celles-ci ;
 
-2. favorise la sensibilisation du public et sa compréhension des risques, des règles, des garanties et des droits relatifs au traitement des données personnelles ;
+- favorise la sensibilisation du public et sa compréhension des risques, des règles, des garanties et des droits relatifs au traitement des données personnelles ;
 
-3. conseille la Chambre des députés, le Gouvernement et d'autres institutions et organismes au sujet des mesures législatives et administratives relatives à la protection des droits et libertés des personnes physiques à l'égard du traitement des données personnelles ;
+- conseille la Chambre des députés, le Gouvernement et d'autres institutions et organismes au sujet des mesures législatives et administratives relatives à la protection des droits et libertés des personnes physiques à l'égard du traitement des données personnelles ;
 
-4. encourage la sensibilisation des responsables du traitement et des sous-traitants aux obligations qui leur incombent ;
+- encourage la sensibilisation des responsables du traitement et des sous-traitants aux obligations qui leur incombent ;
 
-5. fournit, sur demande, à toute personne concernée, des informations sur l'exercice de ses droits et, le cas échéant, coopère à cette fin avec les autorités de contrôle d'autres États membres ;
+- fournit, sur demande, à toute personne concernée, des informations sur l'exercice de ses droits et, le cas échéant, coopère à cette fin avec les autorités de contrôle d'autres États membres ;
 
-6. traite les réclamations introduites par une personne concernée ou par un organisme, une organisation ou une association conformément à l'article 44 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, enquête sur l'objet de la réclamation, dans la mesure nécessaire, et informe l'auteur de la réclamation de l'état d'avancement et de l'issue de l'enquête dans un délai raisonnable, notamment si un complément d'enquête ou une coordination avec une autre autorité de contrôle est nécessaire ;
+- traite les réclamations introduites par une personne concernée ou par un organisme, une organisation ou une association conformément à l'article 44 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, enquête sur l'objet de la réclamation, dans la mesure nécessaire, et informe l'auteur de la réclamation de l'état d'avancement et de l'issue de l'enquête dans un délai raisonnable, notamment si un complément d'enquête ou une coordination avec une autre autorité de contrôle est nécessaire ;
 
-7. vérifie la licéité du traitement, et informe la personne concernée dans un délai raisonnable de l'issue de la vérification, conformément à l’article 16, paragraphe 3, de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, ou des motifs ayant empêché sa réalisation ;
+- vérifie la licéité du traitement, et informe la personne concernée dans un délai raisonnable de l'issue de la vérification, conformément à l’article 16, paragraphe 3, de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, ou des motifs ayant empêché sa réalisation ;
 
-8. met en place des mécanismes efficaces pour encourager le signalement confidentiel des violations des traitements de données à caractère personnel ;
+- met en place des mécanismes efficaces pour encourager le signalement confidentiel des violations des traitements de données à caractère personnel ;
 
-9. coopère avec d'autres autorités de contrôle, y compris en partageant des informations, et leur fournit une assistance mutuelle dans ce cadre en vue d'assurer une application cohérente de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale et des mesures prises pour en assurer le respect ;
+- coopère avec d'autres autorités de contrôle, y compris en partageant des informations, et leur fournit une assistance mutuelle dans ce cadre en vue d'assurer une application cohérente de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale et des mesures prises pour en assurer le respect ;
 
-10. effectue des enquêtes sur l'application de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, y compris sur la base d'informations reçues d'une autre autorité de contrôle ou d'une autre autorité publique ;
+- effectue des enquêtes sur l'application de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, y compris sur la base d'informations reçues d'une autre autorité de contrôle ou d'une autre autorité publique ;
 
-11. suit les évolutions pertinentes, dans la mesure où elles ont une incidence sur la protection des données à caractère personnel, notamment dans le domaine des technologies de l'information et de la communication ;
+- suit les évolutions pertinentes, dans la mesure où elles ont une incidence sur la protection des données à caractère personnel, notamment dans le domaine des technologies de l'information et de la communication ;
 
-12. fournit des conseils sur les opérations de traitement visées à l'article 27 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+- fournit des conseils sur les opérations de traitement visées à l'article 27 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
 <a id="art-n1020f"></a>
 ## Art. 9.
@@ -158,17 +158,17 @@ La CNPD a le pouvoir de porter toute violation du règlement (UE) 2016/679, de l
 
 Dans le cadre des missions de l’article 8, la CNPD dispose des pouvoirs suivants :
 
-1. obtenir du responsable du traitement ou du sous-traitant l'accès à toutes les données à caractère personnel qui sont traitées et à toutes les informations nécessaires à l'exercice de ses missions ;
+- obtenir du responsable du traitement ou du sous-traitant l'accès à toutes les données à caractère personnel qui sont traitées et à toutes les informations nécessaires à l'exercice de ses missions ;
 
-2. avertir un responsable du traitement ou un sous-traitant du fait que les opérations de traitement envisagées sont susceptibles de violer les dispositions adoptées en vertu de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
+- avertir un responsable du traitement ou un sous-traitant du fait que les opérations de traitement envisagées sont susceptibles de violer les dispositions adoptées en vertu de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
 
-3. ordonner au responsable du traitement ou au sous-traitant de mettre les opérations de traitement en conformité avec les dispositions adoptées en vertu de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, le cas échéant, de manière spécifique et dans un délai déterminé, en particulier en ordonnant la rectification ou l'effacement de données à caractère personnel ou la limitation du traitement en application de l'article 15 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
+- ordonner au responsable du traitement ou au sous-traitant de mettre les opérations de traitement en conformité avec les dispositions adoptées en vertu de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, le cas échéant, de manière spécifique et dans un délai déterminé, en particulier en ordonnant la rectification ou l'effacement de données à caractère personnel ou la limitation du traitement en application de l'article 15 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
 
-4. limiter temporairement ou définitivement, y compris d’interdire, un traitement ;
+- limiter temporairement ou définitivement, y compris d’interdire, un traitement ;
 
-5. conseiller le responsable du traitement conformément à la procédure de consultation préalable visée à l'article 27 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
+- conseiller le responsable du traitement conformément à la procédure de consultation préalable visée à l'article 27 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
 
-6. émettre, de sa propre initiative ou sur demande, des avis à l'attention de la Chambre des députés et de son Gouvernement ou d'autres institutions et organismes ainsi que du public, sur toute question relative à la protection des données à caractère personnel.
+- émettre, de sa propre initiative ou sur demande, des avis à l'attention de la Chambre des députés et de son Gouvernement ou d'autres institutions et organismes ainsi que du public, sur toute question relative à la protection des données à caractère personnel.
 
 ##### Section V Certification
 
@@ -301,11 +301,11 @@ Le collège peut déléguer des compétences de nature technique ou administrati
 
 Sous réserve des dispositions de la présente loi et sans préjudice des textes cités à l’article 4, le règlement d’ordre intérieur fixe :
 
-1. les conditions de fonctionnement de la CNPD ;
+- les conditions de fonctionnement de la CNPD ;
 
-2. l’organisation des services de la CNPD ;
+- l’organisation des services de la CNPD ;
 
-3. les modalités de la convocation des membres du collège et la tenue des réunions collégiales.
+- les modalités de la convocation des membres du collège et la tenue des réunions collégiales.
 
 <a id="art-n1050c"></a>
 ## Art. 34.
@@ -409,9 +409,9 @@ Dans le cadre d’une violation de l’article 10 du règlement (UE) 2016/679 pa
 
 La CNPD peut, par voie de décision, infliger au responsable de traitement ou sous-traitant, à l’exception de l’État et des communes, des astreintes jusqu’à concurrence de 5 pour cent du chiffre d’affaires journalier moyen réalisé au cours de l’exercice social précédent, ou au cours du dernier exercice social clos, par jour de retard à compter de la date qu’il fixe dans sa décision, pour le contraindre :
 
-1. à communiquer toute information que la CNPD a demandée en application de l’article 58, paragraphe 1 er , lettre a) du règlement (UE) 2016/679 ;
+- à communiquer toute information que la CNPD a demandée en application de l’article 58, paragraphe 1 er , lettre a) du règlement (UE) 2016/679 ;
 
-2. à respecter une mesure correctrice que la CNPD a adoptée en vertu de l’article 58, paragraphe 2, lettres c), d), e), f), g), h) et j) du règlement (UE) 2016/679 .
+- à respecter une mesure correctrice que la CNPD a adoptée en vertu de l’article 58, paragraphe 2, lettres c), d), e), f), g), h) et j) du règlement (UE) 2016/679 .
 
 Pour les besoins de l’application du présent paragraphe, les agents de l’Administration de l’enregistrement et des domaines sont tenus de communiquer à la CNPD tous renseignements qu’ils détiennent et qui sont nécessaires à la fixation des astreintes.
 
@@ -434,9 +434,9 @@ Quiconque empêche ou entrave sciemment, de quelque manière que ce soit, l’ac
 
 La CNPD peut ordonner, aux frais de la personne sanctionnée, la publication intégrale ou par extraits de ses décisions à l’exception des décisions relatives au prononcé d’astreintes, et sous réserve que :
 
-1. les voies de recours contre la décision sont épuisées ; et
+- les voies de recours contre la décision sont épuisées ; et
 
-2. la publication ne risque pas de causer un préjudice disproportionné aux parties en cause.
+- la publication ne risque pas de causer un préjudice disproportionné aux parties en cause.
 
 ##### Section XII Prescriptions
 
@@ -478,9 +478,9 @@ La prescription court à compter du jour où la décision est devenue définitiv
 
 La prescription de l’exécution de la décision est interrompue :
 
-1. par la notification d’une décision modifiant le montant initial de l’amende ou de l’astreinte ou rejetant une demande tendant à obtenir une telle modification ;
+- par la notification d’une décision modifiant le montant initial de l’amende ou de l’astreinte ou rejetant une demande tendant à obtenir une telle modification ;
 
-2. par tout acte de l’Administration de l’enregistrement et des domaines visant au recouvrement forcé de l’amende ou de l’astreinte.
+- par tout acte de l’Administration de l’enregistrement et des domaines visant au recouvrement forcé de l’amende ou de l’astreinte.
 
 (4)
 
@@ -490,9 +490,9 @@ La prescription court à nouveau à partir de chaque interruption.
 
 La prescription de l’exécution de la décision est suspendue :
 
-1. aussi longtemps qu’un délai de paiement est accordé ;
+- aussi longtemps qu’un délai de paiement est accordé ;
 
-2. aussi longtemps que l’exécution forcée du paiement est suspendue en vertu d’une décision juridictionnelle.
+- aussi longtemps que l’exécution forcée du paiement est suspendue en vertu d’une décision juridictionnelle.
 
 ##### Section XIII Recours contre les décisions de la CNPD
 
@@ -533,21 +533,21 @@ La désignation est notifiée au Commissariat.
 
 Le Commissariat a pour mission :
 
-1. de développer la protection des données à caractère personnel au sein de l’administration étatique ;
+- de développer la protection des données à caractère personnel au sein de l’administration étatique ;
 
-2. de promouvoir les bonnes pratiques à travers l’administration étatique et de stimuler la sensibilisation des agents ;
+- de promouvoir les bonnes pratiques à travers l’administration étatique et de stimuler la sensibilisation des agents ;
 
-3. de contribuer à une mise en œuvre cohérente des politiques dans ce domaine :
+- de contribuer à une mise en œuvre cohérente des politiques dans ce domaine :
 
-1. en proposant au Gouvernement un programme de gestion de la conformité des activités de traitement de données des entités de l’administration étatique avec la législation applicable, en guidant et accompagnant les chefs d’administration compétents dans la mise en place des mesures appropriées, de procédures et lignes de conduite pour les agents de l’État ;
+  - en proposant au Gouvernement un programme de gestion de la conformité des activités de traitement de données des entités de l’administration étatique avec la législation applicable, en guidant et accompagnant les chefs d’administration compétents dans la mise en place des mesures appropriées, de procédures et lignes de conduite pour les agents de l’État ;
 
-2. en assistant les délégués à la protection des données de l’administration étatique ;
+  - en assistant les délégués à la protection des données de l’administration étatique ;
 
-3. en conseillant, sur demande, les membres du Gouvernement ;
+  - en conseillant, sur demande, les membres du Gouvernement ;
 
-4. d’assurer, en cas d’application de l’article 57, alinéa 2, la fonction de délégué à la protection des données telle que définie à l’article 38 du règlement (UE) 2016/679 avec les missions décrites à l’article 39 du règlement (UE) 2016/679 ;
+- d’assurer, en cas d’application de l’article 57, alinéa 2, la fonction de délégué à la protection des données telle que définie à l’article 38 du règlement (UE) 2016/679 avec les missions décrites à l’article 39 du règlement (UE) 2016/679 ;
 
-5. de collaborer étroitement avec le ministre ayant la Protection des données dans ses attributions.
+- de collaborer étroitement avec le ministre ayant la Protection des données dans ses attributions.
 
 <a id="art-n108c4"></a>
 ## Art. 60.
@@ -578,19 +578,19 @@ Les candidats aux fonctions de commissaire du Gouvernement à la protection des 
 
 Le traitement mis en œuvre aux seules fins de journalisme ou d’expression universitaire, artistique ou littéraire n’est pas soumis :
 
-1. lorsque le traitement se rapporte à des données rendues manifestement publiques par la personne concernée ou à des données qui sont en rapport direct avec la vie publique de la personne concernée ou avec le fait dans lequel elle est impliquée de façon volontaire ;
+- lorsque le traitement se rapporte à des données rendues manifestement publiques par la personne concernée ou à des données qui sont en rapport direct avec la vie publique de la personne concernée ou avec le fait dans lequel elle est impliquée de façon volontaire ;
 
-1. à la prohibition de traiter les catégories particulières de données telle que prévue à l’article 9, paragraphe 1 er , du règlement (UE) 2016/679 ;
+  - à la prohibition de traiter les catégories particulières de données telle que prévue à l’article 9, paragraphe 1 er , du règlement (UE) 2016/679 ;
 
-2. aux limitations concernant le traitement de données judiciaires prévues à l’article 10 du règlement (UE) 2016/679 ;
+  - aux limitations concernant le traitement de données judiciaires prévues à l’article 10 du règlement (UE) 2016/679 ;
 
-2. au chapitre V relatif aux transferts vers des pays tiers ou à des organisations internationales du règlement (UE) 2016/679 ;
+- au chapitre V relatif aux transferts vers des pays tiers ou à des organisations internationales du règlement (UE) 2016/679 ;
 
-3. à l’obligation d’information de l’article 13 du règlement (UE) 2016/679 , lorsque son application compromettrait la collecte des données auprès de la personne concernée ;
+- à l’obligation d’information de l’article 13 du règlement (UE) 2016/679 , lorsque son application compromettrait la collecte des données auprès de la personne concernée ;
 
-4. à l’obligation d’information de l’article 14 du règlement (UE) 2016/679 , lorsque son application compromettrait soit la collecte des données, soit une publication en projet, soit la mise à disposition du public, de quelque manière que ce soit de ces données ou fournirait des indications permettant d’identifier les sources d’information ;
+- à l’obligation d’information de l’article 14 du règlement (UE) 2016/679 , lorsque son application compromettrait soit la collecte des données, soit une publication en projet, soit la mise à disposition du public, de quelque manière que ce soit de ces données ou fournirait des indications permettant d’identifier les sources d’information ;
 
-5. au droit d’accès de la personne concernée qui est différé et limité en ce qu’il ne peut pas porter sur des informations relatives à l’origine des données et qui permettraient d’identifier une source. Sous cette réserve l’accès doit être exercé par l’intermédiaire de la CNPD en présence du président du Conseil de presse ou de son représentant, ou le président du Conseil de presse dûment appelé.
+- au droit d’accès de la personne concernée qui est différé et limité en ce qu’il ne peut pas porter sur des informations relatives à l’origine des données et qui permettraient d’identifier une source. Sous cette réserve l’accès doit être exercé par l’intermédiaire de la CNPD en présence du président du Conseil de presse ou de son représentant, ou le président du Conseil de presse dûment appelé.
 
 #### Chapitre 2 Traitement à des fins de recherche scientifique ou historique ou à des fins statistiques
 
@@ -609,29 +609,29 @@ Le traitement de catégories particulières de données à caractère personnel 
 
 Compte tenu de la nature, de la portée, du contexte et des finalités du traitement ainsi que des risques, dont le degré de probabilité et de gravité varie, pour les droits et libertés des personnes physiques, le responsable d’un traitement mis en œuvre à des fins de recherche scientifique ou historique, ou à des fins statistiques, doit mettre en œuvre les mesures appropriées additionnelles suivantes :
 
-1. la désignation d’un délégué à la protection des données ;
+- la désignation d’un délégué à la protection des données ;
 
-2. la réalisation d’une analyse de l’impact des opérations de traitement envisagées sur la protection des données à caractère personnel ;
+- la réalisation d’une analyse de l’impact des opérations de traitement envisagées sur la protection des données à caractère personnel ;
 
-3. l’anonymisation, la pseudonymisation au sens de l’article 4, paragraphe 5, du règlement (UE) 2016/679 ou d’autres mesures de séparation fonctionnelle garantissant que les données collectées à des fins de recherche scientifique ou historique, ou à des fins statistiques, ne puissent être utilisées pour prendre des décisions ou des actions à l’égard des personnes concernées ;
+- l’anonymisation, la pseudonymisation au sens de l’article 4, paragraphe 5, du règlement (UE) 2016/679 ou d’autres mesures de séparation fonctionnelle garantissant que les données collectées à des fins de recherche scientifique ou historique, ou à des fins statistiques, ne puissent être utilisées pour prendre des décisions ou des actions à l’égard des personnes concernées ;
 
-4. le recours à un tiers de confiance fonctionnellement indépendant du responsable du traitement pour l’anonymisation ou la pseudonymisation des données ;
+- le recours à un tiers de confiance fonctionnellement indépendant du responsable du traitement pour l’anonymisation ou la pseudonymisation des données ;
 
-5. le chiffrement des données à caractère personnel en transit et au repos, ainsi qu’une gestion des clés conformes à l’état de l’art ;
+- le chiffrement des données à caractère personnel en transit et au repos, ainsi qu’une gestion des clés conformes à l’état de l’art ;
 
-6. l’utilisation de technologies renforçant la protection de la vie privée des personnes concernées ;
+- l’utilisation de technologies renforçant la protection de la vie privée des personnes concernées ;
 
-7. la mise en place de restrictions de l’accès aux données à caractère personnel au sein du responsable du traitement ;
+- la mise en place de restrictions de l’accès aux données à caractère personnel au sein du responsable du traitement ;
 
-8. des fichiers de journalisation qui permettent d’établir le motif, la date et l’heure de la consultation et l’identification de la personne qui a collecté, modifié ou supprimé les données à caractère personnel ;
+- des fichiers de journalisation qui permettent d’établir le motif, la date et l’heure de la consultation et l’identification de la personne qui a collecté, modifié ou supprimé les données à caractère personnel ;
 
-9. la sensibilisation du personnel participant au traitement des données à caractère personnel et au secret professionnel ;
+- la sensibilisation du personnel participant au traitement des données à caractère personnel et au secret professionnel ;
 
-10. l’évaluation régulière de l’efficacité des mesures techniques et organisationnelles mises en place à travers un audit indépendant ;
+- l’évaluation régulière de l’efficacité des mesures techniques et organisationnelles mises en place à travers un audit indépendant ;
 
-11. l’établissement au préalable d’un plan de gestion des données ;
+- l’établissement au préalable d’un plan de gestion des données ;
 
-12. l’adoption de codes de conduite sectoriels tels que prévus à l’article 40 du règlement (UE) 2016/679 approuvés par la Commission européenne en vertu de l’article 40, paragraphe 9, du règlement (UE) 2016/679 .
+- l’adoption de codes de conduite sectoriels tels que prévus à l’article 40 du règlement (UE) 2016/679 approuvés par la Commission européenne en vertu de l’article 40, paragraphe 9, du règlement (UE) 2016/679 .
 
 Le responsable de traitement doit documenter et justifier pour chaque projet à des fins de recherche scientifique ou historique ou à des fins statistiques l’exclusion, le cas échéant, d’une ou plusieurs des mesures énumérées à cet article.
 
@@ -677,41 +677,76 @@ Toute référence à la loi modifiée du 2 août 2002 relative à la protection 
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État est complétée comme suit :
 
-1. L’article 12 est modifié comme suit :
+- L’article 12 est modifié comme suit :
 
-1. Au paragraphe 1 er , point 8° la mention de membre effectif de la Commission nationale pour la protection des données est supprimée et les termes de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, sont ajoutés après les termes de commissaire du Gouvernement adjoint du commissariat chargé de l’instruction disciplinaire, ;
+  - Au paragraphe 1 er , point 8° la mention de membre effectif de la Commission nationale pour la protection des données est supprimée et les termes de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, sont ajoutés après les termes de commissaire du Gouvernement adjoint du commissariat chargé de l’instruction disciplinaire, ;
 
-2. Au paragraphe 1 er , point 9° la mention de et de commissaire du Gouvernement à la protection des données auprès de l’État est ajoutée après celle de commissaire du Gouvernement chargé de l’instruction disciplinaire ;
+  - Au paragraphe 1 er , point 9° la mention de et de commissaire du Gouvernement à la protection des données auprès de l’État est ajoutée après celle de commissaire du Gouvernement chargé de l’instruction disciplinaire ;
 
-3. Au paragraphe 1 er , point 16° la mention président de la Commission nationale pour la protection des données est remplacée par commissaire à la protection des données ;
+  - Au paragraphe 1 er , point 16° la mention président de la Commission nationale pour la protection des données est remplacée par commissaire à la protection des données ;
 
-4. Au paragraphe 1 er , point 23° la mention , de président de la Commission nationale pour la protection des données est ajoutée après de président de l’association d’assurance contre les accidents .
+  - Au paragraphe 1 er , point 23° la mention , de président de la Commission nationale pour la protection des données est ajoutée après de président de l’association d’assurance contre les accidents .
 
-2. L’article 16, paragraphe 3, lettre g), est supprimé.
+- L’article 16, paragraphe 3, lettre g), est supprimé.
 
-3. L’annexe A - Classification des fonctions - est modifiée comme suit :
+- L’annexe A - Classification des fonctions - est modifiée comme suit :
 
-1. au grade 16, la fonction de membre effectif de la Commission nationale pour la protection des données est supprimée et la fonction de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, est ajoutée après celle de commissaire du Gouvernement adjoint du commissariat du Gouvernement chargé de l’instruction disciplinaire, ;
+  - au grade 16, la fonction de membre effectif de la Commission nationale pour la protection des données est supprimée et la fonction de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, est ajoutée après celle de commissaire du Gouvernement adjoint du commissariat du Gouvernement chargé de l’instruction disciplinaire, ;
 
-2. au grade 17, la fonction de président de la Commission nationale pour la protection des données est remplacée par commissaires à la protection des données et la fonction de commissaire du Gouvernement à la protection des données auprès de l’État, est ajoutée après celle de commissaire du Gouvernement chargé de l’instruction disciplinaire, ;
+  - au grade 17, la fonction de président de la Commission nationale pour la protection des données est remplacée par commissaires à la protection des données et la fonction de commissaire du Gouvernement à la protection des données auprès de l’État, est ajoutée après celle de commissaire du Gouvernement chargé de l’instruction disciplinaire, ;
 
-3. au grade 18, la fonction de président de la Commission nationale pour la protection des données est ajoutée.
+  - au grade 18, la fonction de président de la Commission nationale pour la protection des données est ajoutée.
 
-4. L’Annexe B - B2) Allongements - est modifiée comme suit :
+- L’Annexe B - B2) Allongements - est modifiée comme suit :
 
-1. au paragraphe 1 er , les termes de membre effectif de la Commission nationale pour la protection des données sont supprimés ;
+  - au paragraphe 1 er , les termes de membre effectif de la Commission nationale pour la protection des données sont supprimés ;
 
-2. au paragraphe 1 er , les termes de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, sont ajoutés après de commissaire du Gouvernement adjoint du commissariat du Gouvernement chargé de l’instruction disciplinaire, et les termes , de membre effectif de la Commission nationale pour la protection des données sont supprimés.
+  - au paragraphe 1 er , les termes de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, sont ajoutés après de commissaire du Gouvernement adjoint du commissariat du Gouvernement chargé de l’instruction disciplinaire, et les termes , de membre effectif de la Commission nationale pour la protection des données sont supprimés.
 
 <a id="art-n10b99"></a>
 ## Art. 70.
 
-L’intitulé du titre VI du livre II du Code du travail prend la teneur suivante :Titre VITraitement de données à caractère personnel à des fins de surveillance dans le cadre des relations de travail.
+L’intitulé du titre VI du livre II du Code du travail prend la teneur suivante :
+
+### Titre VI Traitement de données à caractère personnel à des fins de surveillance dans le cadre des relations de travail.
 
 <a id="art-n10bc3"></a>
 ## Art. 71.
 
-L’article L.261-1 du Code du travail prend la teneur suivante :L. 261-1.(1)Le traitement de données à caractère personnel à des fins de surveillance des salariés dans le cadre des relations de travail ne peut être mis en œuvre par l’employeur que dans les cas visés à l’article 6, paragraphe 1er, lettres a) à f), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données), et conformément aux dispositions du présent article.(2)Sans préjudice du droit à l’information de la personne concernée, sont informés préalablement par l’employeur : pour les personnes tombant sous l’empire de la législation sur le contrat de droit privé : le comité mixte ou, à défaut, la délégation du personnel ou, à défaut encore, l’inspection du travail et des mines ; pour les personnes tombant sous l’empire d’un régime statutaire : les organismes de représentation du personnel tels que prévus par les lois et règlements afférents.Cette information préalable contient une description détaillée de la finalité du traitement envisagé, ainsi que des modalités de mise en œuvre du système de surveillance et, le cas échéant, la durée ou les critères de conservation des données, de même qu’un engagement formel de l’employeur de la non-utilisation des données collectées à une finalité autre que celle prévue explicitement dans l’information préalable.(3)Lorsque le traitement des données à caractère personnel prévu au paragraphe 1er est mis en œuvre :pour les besoins de sécurité et de santé des salariés,pour le contrôle de production ou des prestations du salarié, lorsqu’une telle mesure est le seul moyen pour déterminer le salaire exact, oudans le cadre d’une organisation de travail selon l’horaire mobile conformément aux dispositions du présent code,les dispositions prévues aux articles L.211-8, L.414-9 et L.423-1 s’appliquent, sauf lorsque le traitement répond à une obligation légale ou réglementaire.(4)Pour les projets des traitements visés au paragraphe 1er, la délégation du personnel, ou à défaut, les salariés concernés, peuvent, dans les quinze jours suivant l’information préalable, soumettre une demande d’avis préalable relative à la conformité du projet de traitement à des fins de surveillance du salarié dans le cadre des relations de travail à la Commission nationale pour la protection des données, qui doit rendre son avis dans le mois de la saisine. Cette demande a un effet suspensif pendant ce délai.(5)Les salariés concernés ont le droit d’introduire une réclamation auprès de la Commission nationale pour la protection des données. Une telle réclamation ne constitue ni un motif grave, ni un motif légitime de licenciement.
+L’article L.261-1 du Code du travail prend la teneur suivante :
+
+<a id="art-n10bd6"></a>
+## L. 261-1.
+
+(1)
+
+Le traitement de données à caractère personnel à des fins de surveillance des salariés dans le cadre des relations de travail ne peut être mis en œuvre par l’employeur que dans les cas visés à l’article 6, paragraphe 1er, lettres a) à f), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données), et conformément aux dispositions du présent article.
+
+(2)
+
+Sans préjudice du droit à l’information de la personne concernée, sont informés préalablement par l’employeur : pour les personnes tombant sous l’empire de la législation sur le contrat de droit privé : le comité mixte ou, à défaut, la délégation du personnel ou, à défaut encore, l’inspection du travail et des mines ; pour les personnes tombant sous l’empire d’un régime statutaire : les organismes de représentation du personnel tels que prévus par les lois et règlements afférents.
+
+Cette information préalable contient une description détaillée de la finalité du traitement envisagé, ainsi que des modalités de mise en œuvre du système de surveillance et, le cas échéant, la durée ou les critères de conservation des données, de même qu’un engagement formel de l’employeur de la non-utilisation des données collectées à une finalité autre que celle prévue explicitement dans l’information préalable.
+
+(3)
+
+Lorsque le traitement des données à caractère personnel prévu au paragraphe 1er est mis en œuvre :
+
+- pour les besoins de sécurité et de santé des salariés,
+
+- pour le contrôle de production ou des prestations du salarié, lorsqu’une telle mesure est le seul moyen pour déterminer le salaire exact, ou
+
+- dans le cadre d’une organisation de travail selon l’horaire mobile conformément aux dispositions du présent code,
+
+les dispositions prévues aux articles L.211-8, L.414-9 et L.423-1 s’appliquent, sauf lorsque le traitement répond à une obligation légale ou réglementaire.
+
+(4)
+
+Pour les projets des traitements visés au paragraphe 1er, la délégation du personnel, ou à défaut, les salariés concernés, peuvent, dans les quinze jours suivant l’information préalable, soumettre une demande d’avis préalable relative à la conformité du projet de traitement à des fins de surveillance du salarié dans le cadre des relations de travail à la Commission nationale pour la protection des données, qui doit rendre son avis dans le mois de la saisine. Cette demande a un effet suspensif pendant ce délai.
+
+(5)
+
+Les salariés concernés ont le droit d’introduire une réclamation auprès de la Commission nationale pour la protection des données. Une telle réclamation ne constitue ni un motif grave, ni un motif légitime de licenciement.
 
 #### Chapitre 2 Disposition abrogatoire
 
@@ -798,17 +833,17 @@ La présente loi s’applique aux traitements de données à caractère personne
 
 (2) La présente loi s'applique également aux traitements de données à caractère personnel effectués :
 
-1. par la Police grand-ducale dans l’exécution de missions à des fins autres que celles visées au paragraphe 1 er et prévues par des lois spéciales,
+- par la Police grand-ducale dans l’exécution de missions à des fins autres que celles visées au paragraphe 1 er et prévues par des lois spéciales,
 
-2. par le Service de renseignement de l’État dans l’exécution de ses missions prévues à l’article 3 de la loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l’État,
+- par le Service de renseignement de l’État dans l’exécution de ses missions prévues à l’article 3 de la loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l’État,
 
-3. par l’Autorité nationale de sécurité dans l’exécution de ses missions prévues à l’article 20 de la loi modifiée du 15 juin 2004 relative à la classification des pièces et aux habilitations de sécurité,
+- par l’Autorité nationale de sécurité dans l’exécution de ses missions prévues à l’article 20 de la loi modifiée du 15 juin 2004 relative à la classification des pièces et aux habilitations de sécurité,
 
-4. par l’Armée luxembourgeoise dans l’exécution de ses missions prévues à l’article 2 de la loi modifiée du 23 juillet 1952 concernant l’organisation militaire,
+- par l’Armée luxembourgeoise dans l’exécution de ses missions prévues à l’article 2 de la loi modifiée du 23 juillet 1952 concernant l’organisation militaire,
 
-5. par la Cellule de renseignement financier dans l’exécution de ses missions prévues aux articles 74-1 à 74-6 de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire, et
+- par la Cellule de renseignement financier dans l’exécution de ses missions prévues aux articles 74-1 à 74-6 de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire, et
 
-6. par les autorités luxembourgeoises dans le cadre des activités qui relèvent du champ d’application du titre V, chapitre 2, du Traité sur l’Union européenne relatif à la politique étrangère et de sécurité commune.
+- par les autorités luxembourgeoises dans le cadre des activités qui relèvent du champ d’application du titre V, chapitre 2, du Traité sur l’Union européenne relatif à la politique étrangère et de sécurité commune.
 
 (3)
 
@@ -823,45 +858,45 @@ Définitions
 
 Aux fins de la présente loi, on entend par :
 
-1. « données à caractère personnel » : toute information se rapportant à une personne physique identifiée ou identifiable, ci-après dénommée « personne concernée » ; est réputée être une « personne physique identifiable » une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale ;
+- « données à caractère personnel » : toute information se rapportant à une personne physique identifiée ou identifiable, ci-après dénommée « personne concernée » ; est réputée être une « personne physique identifiable » une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale ;
 
-2. « traitement » : toute opération ou tout ensemble d'opérations effectuées ou non à l'aide de procédés automatisés et appliquées à des données à caractère personnel ou des ensembles de données à caractère personnel, telles que la collecte, l'enregistrement, l'organisation, la structuration, la conservation, l'adaptation ou la modification, l'extraction, la consultation, l'utilisation, la communication par transmission, la diffusion ou toute autre forme de mise à disposition, le rapprochement ou l'interconnexion, la limitation, l'effacement ou la destruction ;
+- « traitement » : toute opération ou tout ensemble d'opérations effectuées ou non à l'aide de procédés automatisés et appliquées à des données à caractère personnel ou des ensembles de données à caractère personnel, telles que la collecte, l'enregistrement, l'organisation, la structuration, la conservation, l'adaptation ou la modification, l'extraction, la consultation, l'utilisation, la communication par transmission, la diffusion ou toute autre forme de mise à disposition, le rapprochement ou l'interconnexion, la limitation, l'effacement ou la destruction ;
 
-3. « limitation du traitement » : le marquage de données à caractère personnel conservées en vue de limiter leur traitement futur ;
+- « limitation du traitement » : le marquage de données à caractère personnel conservées en vue de limiter leur traitement futur ;
 
-4. « profilage » : toute forme de traitement automatisé de données à caractère personnel consistant à utiliser ces données à caractère personnel pour évaluer certains aspects personnels relatifs à une personne physique, notamment pour analyser ou prédire des éléments concernant le rendement au travail, la situation économique, la santé, les préférences personnelles, les intérêts, la fiabilité, le comportement, la localisation ou les déplacements de cette personne ;
+- « profilage » : toute forme de traitement automatisé de données à caractère personnel consistant à utiliser ces données à caractère personnel pour évaluer certains aspects personnels relatifs à une personne physique, notamment pour analyser ou prédire des éléments concernant le rendement au travail, la situation économique, la santé, les préférences personnelles, les intérêts, la fiabilité, le comportement, la localisation ou les déplacements de cette personne ;
 
-5. « pseudonymisation » : le traitement de données à caractère personnel de telle façon que celles-ci ne puissent plus être attribuées à une personne concernée précise sans avoir recours à des informations supplémentaires, pour autant que ces informations supplémentaires soient conservées séparément et soumises à des mesures techniques et organisationnelles afin de garantir que les données à caractère personnel ne sont pas attribuées à une personne physique identifiée ou identifiable ;
+- « pseudonymisation » : le traitement de données à caractère personnel de telle façon que celles-ci ne puissent plus être attribuées à une personne concernée précise sans avoir recours à des informations supplémentaires, pour autant que ces informations supplémentaires soient conservées séparément et soumises à des mesures techniques et organisationnelles afin de garantir que les données à caractère personnel ne sont pas attribuées à une personne physique identifiée ou identifiable ;
 
-6. « fichier » : tout ensemble structuré de données à caractère personnel accessibles selon des critères déterminés, que cet ensemble soit centralisé, décentralisé ou réparti de manière fonctionnelle ou géographique ;
+- « fichier » : tout ensemble structuré de données à caractère personnel accessibles selon des critères déterminés, que cet ensemble soit centralisé, décentralisé ou réparti de manière fonctionnelle ou géographique ;
 
-7. « autorité compétente » :
+- « autorité compétente » :
 
-1. toute autorité publique compétente pour la prévention et la détection des infractions pénales, les enquêtes et les poursuites en la matière ou l'exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces, ainsi que les fonctionnaires et agents des administrations et services publics auxquels des lois spéciales ont attribué certains pouvoirs de police administrative ou judiciaire, dans les conditions et dans les limites fixées par ces lois, ou
+  - toute autorité publique compétente pour la prévention et la détection des infractions pénales, les enquêtes et les poursuites en la matière ou l'exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces, ainsi que les fonctionnaires et agents des administrations et services publics auxquels des lois spéciales ont attribué certains pouvoirs de police administrative ou judiciaire, dans les conditions et dans les limites fixées par ces lois, ou
 
-2. tout autre organisme ou entité à qui le droit d'un État membre confie l'exercice de l'autorité publique et des prérogatives de puissance publique à des fins de prévention et de détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces ;
+  - tout autre organisme ou entité à qui le droit d'un État membre confie l'exercice de l'autorité publique et des prérogatives de puissance publique à des fins de prévention et de détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces ;
 
-8. « responsable du traitement » : l'autorité compétente qui, seule ou conjointement avec d'autres, détermine les finalités et les moyens du traitement de données à caractère personnel ; lorsque les finalités et les moyens de ce traitement sont déterminés par le droit de l'Union européenne ou le droit luxembourgeois, le responsable du traitement ou les critères spécifiques applicables à sa désignation peuvent être prévus par le droit de l'Union européenne ou le droit luxembourgeois ;
+- « responsable du traitement » : l'autorité compétente qui, seule ou conjointement avec d'autres, détermine les finalités et les moyens du traitement de données à caractère personnel ; lorsque les finalités et les moyens de ce traitement sont déterminés par le droit de l'Union européenne ou le droit luxembourgeois, le responsable du traitement ou les critères spécifiques applicables à sa désignation peuvent être prévus par le droit de l'Union européenne ou le droit luxembourgeois ;
 
-9. « sous-traitant » : la personne physique ou morale, l'autorité publique, le service ou un autre organisme qui traite des données à caractère personnel pour le compte du responsable du traitement ;
+- « sous-traitant » : la personne physique ou morale, l'autorité publique, le service ou un autre organisme qui traite des données à caractère personnel pour le compte du responsable du traitement ;
 
-10. « destinataire » : la personne physique ou morale, l'autorité publique, le service ou tout autre organisme qui reçoit communication des données à caractère personnel, qu'il s'agisse ou non d'un tiers. Toutefois, les autorités publiques qui sont susceptibles de recevoir communication de données à caractère personnel dans le cadre d'une mission d'enquête particulière conformément à la loi ne sont pas considérées comme des destinataires ; le traitement de ces données par les autorités publiques en question est conforme aux règles applicables en matière de protection des données en fonction des finalités du traitement ;
+- « destinataire » : la personne physique ou morale, l'autorité publique, le service ou tout autre organisme qui reçoit communication des données à caractère personnel, qu'il s'agisse ou non d'un tiers. Toutefois, les autorités publiques qui sont susceptibles de recevoir communication de données à caractère personnel dans le cadre d'une mission d'enquête particulière conformément à la loi ne sont pas considérées comme des destinataires ; le traitement de ces données par les autorités publiques en question est conforme aux règles applicables en matière de protection des données en fonction des finalités du traitement ;
 
-11. « violation de données à caractère personnel » : une violation de la sécurité entraînant, de manière accidentelle ou illicite, la destruction, la perte, l'altération, la divulgation non autorisée de données à caractère personnel transmises, conservées ou traitées d'une autre manière, ou l'accès non autorisé à de telles données ;
+- « violation de données à caractère personnel » : une violation de la sécurité entraînant, de manière accidentelle ou illicite, la destruction, la perte, l'altération, la divulgation non autorisée de données à caractère personnel transmises, conservées ou traitées d'une autre manière, ou l'accès non autorisé à de telles données ;
 
-12. « données génétiques » : les données à caractère personnel relatives aux caractéristiques génétiques héréditaires ou acquises d'une personne physique qui donnent des informations uniques sur la physiologie ou l'état de santé de cette personne physique et qui résultent, notamment, d'une analyse d'un échantillon biologique de la personne physique en question ;
+- « données génétiques » : les données à caractère personnel relatives aux caractéristiques génétiques héréditaires ou acquises d'une personne physique qui donnent des informations uniques sur la physiologie ou l'état de santé de cette personne physique et qui résultent, notamment, d'une analyse d'un échantillon biologique de la personne physique en question ;
 
-13. « données biométriques » : les données à caractère personnel résultant d'un traitement technique spécifique, relatives aux caractéristiques physiques, physiologiques ou comportementales d'une personne physique, qui permettent ou confirment son identification unique, telles que des images faciales ou des données dactyloscopiques ;
+- « données biométriques » : les données à caractère personnel résultant d'un traitement technique spécifique, relatives aux caractéristiques physiques, physiologiques ou comportementales d'une personne physique, qui permettent ou confirment son identification unique, telles que des images faciales ou des données dactyloscopiques ;
 
-14. « données concernant la santé » : les données à caractère personnel relatives à la santé physique ou mentale d'une personne physique, y compris la fourniture de soins de santé, qui révèlent des informations sur l'état de santé de cette personne ;
+- « données concernant la santé » : les données à caractère personnel relatives à la santé physique ou mentale d'une personne physique, y compris la fourniture de soins de santé, qui révèlent des informations sur l'état de santé de cette personne ;
 
-15. « autorité de contrôle » :
+- « autorité de contrôle » :
 
-1. l’autorité de contrôle instituée par la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données, ci-après désignée comme la « Commission Nationale pour la Protection des Données », et
+  - l’autorité de contrôle instituée par la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données, ci-après désignée comme la « Commission Nationale pour la Protection des Données », et
 
-2. l’autorité de contrôle judiciaire instituée par l’article 40 ;
+  - l’autorité de contrôle judiciaire instituée par l’article 40 ;
 
-16. « organisation internationale » : une organisation internationale et les organismes de droit public international qui en relèvent, ou tout autre organisme qui est créé par un accord entre deux pays ou plus, ou en vertu d'un tel accord, y compris l’Organisation internationale de police criminelle (OIPC - Interpol).
+- « organisation internationale » : une organisation internationale et les organismes de droit public international qui en relèvent, ou tout autre organisme qui est créé par un accord entre deux pays ou plus, ou en vertu d'un tel accord, y compris l’Organisation internationale de police criminelle (OIPC - Interpol).
 
 (2)
 
@@ -878,17 +913,17 @@ Principes relatifs au traitement des données à caractère personnel
 
 Les données à caractère personnel visées par la présente loi sont :
 
-1. traitées de manière licite et loyale ;
+- traitées de manière licite et loyale ;
 
-2. collectées pour des finalités déterminées, explicites et légitimes et ne sont pas traitées d'une manière incompatible avec ces finalités ;
+- collectées pour des finalités déterminées, explicites et légitimes et ne sont pas traitées d'une manière incompatible avec ces finalités ;
 
-3. adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont traitées ;
+- adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont traitées ;
 
-4. exactes et, si nécessaire, tenues à jour ; toutes les mesures raisonnables doivent être prises pour que les données à caractère personnel qui sont inexactes, eu égard aux finalités pour lesquelles elles sont traitées, soient effacées ou rectifiées sans tarder ;
+- exactes et, si nécessaire, tenues à jour ; toutes les mesures raisonnables doivent être prises pour que les données à caractère personnel qui sont inexactes, eu égard aux finalités pour lesquelles elles sont traitées, soient effacées ou rectifiées sans tarder ;
 
-5. conservées sous une forme permettant l'identification des personnes concernées pendant une durée n'excédant pas celle nécessaire au regard des finalités pour lesquelles elles sont traitées ;
+- conservées sous une forme permettant l'identification des personnes concernées pendant une durée n'excédant pas celle nécessaire au regard des finalités pour lesquelles elles sont traitées ;
 
-6. traitées de façon à garantir une sécurité appropriée des données à caractère personnel, y compris la protection contre le traitement non autorisé ou illicite et contre la perte, la destruction ou les dégâts d'origine accidentelle, à l'aide de mesures techniques ou organisationnelles appropriées.
+- traitées de façon à garantir une sécurité appropriée des données à caractère personnel, y compris la protection contre le traitement non autorisé ou illicite et contre la perte, la destruction ou les dégâts d'origine accidentelle, à l'aide de mesures techniques ou organisationnelles appropriées.
 
 (2)
 
@@ -922,13 +957,13 @@ Distinction entre différentes catégories de personnes concernées
 
 Le responsable du traitement établit, le cas échéant et dans la mesure du possible, une distinction claire entre les données à caractère personnel de différentes catégories de personnes concernées, telles que :
 
-1. les personnes à l'égard desquelles il existe des motifs sérieux de croire qu'elles ont commis ou sont sur le point de commettre une infraction pénale ;
+- les personnes à l'égard desquelles il existe des motifs sérieux de croire qu'elles ont commis ou sont sur le point de commettre une infraction pénale ;
 
-2. les personnes reconnues coupables d'une infraction pénale ;
+- les personnes reconnues coupables d'une infraction pénale ;
 
-3. les victimes d'une infraction pénale ou les personnes à l'égard desquelles certains faits portent à croire qu'elles pourraient être victimes d'une infraction pénale, et
+- les victimes d'une infraction pénale ou les personnes à l'égard desquelles certains faits portent à croire qu'elles pourraient être victimes d'une infraction pénale, et
 
-4. les tiers à une infraction pénale, tels que les personnes pouvant être appelées à témoigner lors d'enquêtes en rapport avec des infractions pénales ou des procédures pénales ultérieures, des personnes pouvant fournir des informations sur des infractions pénales, ou des contacts ou des associés de l'une des personnes visées aux lettres a) et b).
+- les tiers à une infraction pénale, tels que les personnes pouvant être appelées à témoigner lors d'enquêtes en rapport avec des infractions pénales ou des procédures pénales ultérieures, des personnes pouvant fournir des informations sur des infractions pénales, ou des contacts ou des associés de l'une des personnes visées aux lettres a) et b).
 
 <a id="art-n10f94"></a>
 ## Art. 6.
@@ -988,11 +1023,11 @@ Traitement portant sur des catégories particulières de données à caractère 
 
 Le traitement des données à caractère personnel qui révèlent l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques, ou l'appartenance syndicale, et le traitement des données génétiques, des données biométriques aux fins d'identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique sont autorisés uniquement en cas de nécessité absolue, sous réserve de garanties appropriées pour les droits et libertés de la personne concernée, et uniquement :
 
-1. lorsqu'ils sont autorisés par le droit de l'Union européenne ou en application de la présente loi ou d’une autre disposition du droit luxembourgeois ;
+- lorsqu'ils sont autorisés par le droit de l'Union européenne ou en application de la présente loi ou d’une autre disposition du droit luxembourgeois ;
 
-2. pour protéger les intérêts vitaux de la personne concernée ou d'une autre personne physique, ou
+- pour protéger les intérêts vitaux de la personne concernée ou d'une autre personne physique, ou
 
-3. lorsque le traitement porte sur des données manifestement rendues publiques par la personne concernée.
+- lorsque le traitement porte sur des données manifestement rendues publiques par la personne concernée.
 
 <a id="art-n1108c"></a>
 ## Art. 10.
@@ -1034,9 +1069,9 @@ Le responsable du traitement informe par écrit, dans les meilleurs délais, la 
 
 Aucun paiement n'est exigé pour fournir les informations visées à l'article 12 et pour procéder à toute communication et prendre toute mesure au titre de l'article 10, des articles 13 à 17 et de l'article 30. Lorsque les demandes d'une personne concernée sont manifestement infondées ou excessives, notamment en raison de leur caractère répétitif, le responsable du traitement peut :
 
-1. soit exiger le paiement de frais raisonnables qui tiennent compte des coûts administratifs supportés pour fournir les informations, procéder à la communication ou prendre les mesures demandées,
+- soit exiger le paiement de frais raisonnables qui tiennent compte des coûts administratifs supportés pour fournir les informations, procéder à la communication ou prendre les mesures demandées,
 
-2. soit refuser de donner suite à la demande.
+- soit refuser de donner suite à la demande.
 
 Il incombe au responsable du traitement de démontrer le caractère manifestement infondé ou excessif de la demande.
 
@@ -1053,41 +1088,41 @@ Informations à mettre à la disposition de la personne concernée ou à lui fou
 
 Le responsable du traitement met à la disposition de la personne concernée au moins les informations suivantes :
 
-1. l'identité et les coordonnées du responsable du traitement ;
+- l'identité et les coordonnées du responsable du traitement ;
 
-2. les coordonnées du délégué à la protection des données ;
+- les coordonnées du délégué à la protection des données ;
 
-3. les finalités du traitement auquel sont destinées les données à caractère personnel ;
+- les finalités du traitement auquel sont destinées les données à caractère personnel ;
 
-4. le droit d'introduire une réclamation auprès d'une des deux autorités de contrôle visées aux articles 39 et 40 et les coordonnées de ladite autorité ;
+- le droit d'introduire une réclamation auprès d'une des deux autorités de contrôle visées aux articles 39 et 40 et les coordonnées de ladite autorité ;
 
-5. l'existence du droit de demander au responsable du traitement l'accès aux données à caractère personnel, leur rectification ou leur effacement, et la limitation du traitement des données à caractère personnel relatives à une personne concernée.
+- l'existence du droit de demander au responsable du traitement l'accès aux données à caractère personnel, leur rectification ou leur effacement, et la limitation du traitement des données à caractère personnel relatives à une personne concernée.
 
 (2)
 
 En plus des informations visées au paragraphe 1er, le responsable du traitement fournit à la personne concernée, dans des cas particuliers, les informations additionnelles suivantes afin de lui permettre d'exercer ses droits :
 
-1. la base juridique du traitement ;
+- la base juridique du traitement ;
 
-2. la durée de conservation des données à caractère personnel ou, lorsque ce n'est pas possible, les critères utilisés pour déterminer cette durée ;
+- la durée de conservation des données à caractère personnel ou, lorsque ce n'est pas possible, les critères utilisés pour déterminer cette durée ;
 
-3. le cas échéant, les catégories de destinataires des données à caractère personnel, y compris dans les pays tiers ou au sein d'organisations internationales ;
+- le cas échéant, les catégories de destinataires des données à caractère personnel, y compris dans les pays tiers ou au sein d'organisations internationales ;
 
-4. au besoin, des informations complémentaires, en particulier lorsque les données à caractère personnel sont collectées à l'insu de la personne concernée.
+- au besoin, des informations complémentaires, en particulier lorsque les données à caractère personnel sont collectées à l'insu de la personne concernée.
 
 (3)
 
 Le responsable du traitement peut retarder ou limiter la fourniture des informations à la personne concernée en application du paragraphe 2, ou ne pas fournir ces informations, dès lors et aussi longtemps qu'une mesure de cette nature constitue une mesure nécessaire et proportionnée dans une société démocratique, eu égard à la finalité du traitement concerné, et en tenant dûment compte des droits fondamentaux et des intérêts légitimes de la personne physique concernée, pour :
 
-1. éviter de gêner des enquêtes, des recherches ou des procédures officielles ou judiciaires ;
+- éviter de gêner des enquêtes, des recherches ou des procédures officielles ou judiciaires ;
 
-2. éviter de nuire à la prévention ou à la détection d'infractions pénales, aux enquêtes ou aux poursuites en la matière ou à l'exécution de sanctions pénales ;
+- éviter de nuire à la prévention ou à la détection d'infractions pénales, aux enquêtes ou aux poursuites en la matière ou à l'exécution de sanctions pénales ;
 
-3. protéger la sécurité publique ;
+- protéger la sécurité publique ;
 
-4. protéger la sécurité nationale et la défense nationale ; ou
+- protéger la sécurité nationale et la défense nationale ; ou
 
-5. protéger les droits et libertés d'autrui.
+- protéger les droits et libertés d'autrui.
 
 <a id="art-n111bc"></a>
 ## Art. 13.
@@ -1096,19 +1131,19 @@ Droit d'accès par la personne concernée
 
 Sous réserve de l'article 14, la personne concernée a le droit d'obtenir du responsable du traitement la confirmation que des données à caractère personnel la concernant sont ou ne sont pas traitées et, lorsqu'elles le sont, l'accès auxdites données ainsi que les informations suivantes :
 
-1. les finalités du traitement ainsi que sa base juridique ;
+- les finalités du traitement ainsi que sa base juridique ;
 
-2. les catégories de données à caractère personnel concernées ;
+- les catégories de données à caractère personnel concernées ;
 
-3. les destinataires ou catégories de destinataires auxquels les données à caractère personnel ont été communiquées, en particulier les destinataires qui sont établis dans des pays tiers ou les organisations internationales ;
+- les destinataires ou catégories de destinataires auxquels les données à caractère personnel ont été communiquées, en particulier les destinataires qui sont établis dans des pays tiers ou les organisations internationales ;
 
-4. lorsque cela est possible, la durée de conservation des données à caractère personnel envisagée ou, lorsque ce n'est pas possible, les critères utilisés pour déterminer cette durée ;
+- lorsque cela est possible, la durée de conservation des données à caractère personnel envisagée ou, lorsque ce n'est pas possible, les critères utilisés pour déterminer cette durée ;
 
-5. l'existence du droit de demander au responsable du traitement la rectification ou l'effacement des données à caractère personnel, ou la limitation du traitement des données à caractère personnel relatives à la personne concernée ;
+- l'existence du droit de demander au responsable du traitement la rectification ou l'effacement des données à caractère personnel, ou la limitation du traitement des données à caractère personnel relatives à la personne concernée ;
 
-6. le droit d'introduire une réclamation auprès de l'une des deux autorités de contrôle compétentes visées aux articles 39 et 40 et les coordonnées de ladite autorité ;
+- le droit d'introduire une réclamation auprès de l'une des deux autorités de contrôle compétentes visées aux articles 39 et 40 et les coordonnées de ladite autorité ;
 
-7. la communication des données à caractère personnel en cours de traitement, ainsi que toute information disponible quant à leur source.
+- la communication des données à caractère personnel en cours de traitement, ainsi que toute information disponible quant à leur source.
 
 <a id="art-n111ec"></a>
 ## Art. 14.
@@ -1119,15 +1154,15 @@ Limitations du droit d'accès
 
 Le responsable du traitement peut limiter, entièrement ou partiellement, le droit d'accès de la personne concernée, dès lors et aussi longtemps qu'une telle limitation partielle ou complète constitue une mesure nécessaire et proportionnée dans une société démocratique, eu égard à la finalité du traitement concerné, et en tenant dûment compte des droits fondamentaux et des intérêts légitimes de la personne physique concernée, pour :
 
-1. éviter de gêner des enquêtes, des recherches ou des procédures officielles ou judiciaires ;
+- éviter de gêner des enquêtes, des recherches ou des procédures officielles ou judiciaires ;
 
-2. éviter de nuire à la prévention ou à la détection d'infractions pénales, aux enquêtes ou aux poursuites en la matière ou à l'exécution de sanctions pénales ;
+- éviter de nuire à la prévention ou à la détection d'infractions pénales, aux enquêtes ou aux poursuites en la matière ou à l'exécution de sanctions pénales ;
 
-3. protéger la sécurité publique ;
+- protéger la sécurité publique ;
 
-4. protéger la sécurité nationale et la défense nationale ; ou
+- protéger la sécurité nationale et la défense nationale ; ou
 
-5. protéger les droits et libertés d'autrui.
+- protéger les droits et libertés d'autrui.
 
 (2)
 
@@ -1154,9 +1189,9 @@ Le responsable du traitement efface dans les meilleurs délais les données à c
 
 Au lieu de procéder à l'effacement, le responsable du traitement limite le traitement lorsque :
 
-1. l'exactitude des données à caractère personnel est contestée par la personne concernée et qu'il ne peut être déterminé si les données sont exactes ou non, ou
+- l'exactitude des données à caractère personnel est contestée par la personne concernée et qu'il ne peut être déterminé si les données sont exactes ou non, ou
 
-2. les données à caractère personnel doivent être conservées à des fins probatoires.
+- les données à caractère personnel doivent être conservées à des fins probatoires.
 
 Lorsque le traitement est limité en vertu de l’alinéa 1er, lettre a), du présent paragraphe, le responsable du traitement informe la personne concernée avant de lever la limitation du traitement.
 
@@ -1164,15 +1199,15 @@ Lorsque le traitement est limité en vertu de l’alinéa 1er, lettre a), du pr�
 
 Le responsable du traitement informe la personne concernée par écrit de tout refus de rectifier ou d'effacer des données à caractère personnel ou de limiter le traitement, ainsi que des motifs du refus. Le responsable du traitement peut limiter, en tout ou en partie, la fourniture de ces informations, dès lors qu'une telle limitation constitue une mesure nécessaire et proportionnée dans une société démocratique, eu égard à la finalité du traitement concerné, et en tenant dûment compte des droits fondamentaux et des intérêts légitimes de la personne physique concernée pour :
 
-1. éviter de gêner des enquêtes, des recherches ou des procédures officielles ou judiciaires ;
+- éviter de gêner des enquêtes, des recherches ou des procédures officielles ou judiciaires ;
 
-2. éviter de nuire à la prévention ou à la détection d'infractions pénales, aux enquêtes ou aux poursuites en la matière ou à l'exécution de sanctions pénales ;
+- éviter de nuire à la prévention ou à la détection d'infractions pénales, aux enquêtes ou aux poursuites en la matière ou à l'exécution de sanctions pénales ;
 
-3. protéger la sécurité publique ;
+- protéger la sécurité publique ;
 
-4. protéger la sécurité nationale et la défense nationale ; ou
+- protéger la sécurité nationale et la défense nationale ; ou
 
-5. protéger les droits et libertés d'autrui.
+- protéger les droits et libertés d'autrui.
 
 Le responsable du traitement informe la personne concernée des possibilités d'introduire une réclamation auprès d'une autorité de contrôle ou de former un recours juridictionnel.
 
@@ -1268,17 +1303,17 @@ Le sous-traitant ne recrute pas un autre sous-traitant sans l'autorisation écri
 
 Le traitement par un sous-traitant est régi par un contrat ou un autre acte juridique au titre du droit de l'Union européenne, du droit luxembourgeois ou du droit d’un autre État membre, qui lie le sous-traitant à l'égard du responsable du traitement et qui définit l'objet et la durée du traitement, la nature et la finalité du traitement, le type de données à caractère personnel et les catégories de personnes concernées et les obligations et les droits du responsable du traitement. Ce contrat ou cet autre acte juridique prévoit, notamment, que le sous-traitant :
 
-1. n'agit que sur instruction du responsable du traitement ;
+- n'agit que sur instruction du responsable du traitement ;
 
-2. veille à ce que les personnes autorisées à traiter les données à caractère personnel s'engagent à respecter la confidentialité ou soient soumises à une obligation légale appropriée de confidentialité ;
+- veille à ce que les personnes autorisées à traiter les données à caractère personnel s'engagent à respecter la confidentialité ou soient soumises à une obligation légale appropriée de confidentialité ;
 
-3. aide le responsable du traitement, par tout moyen approprié, à veiller au respect des dispositions relatives aux droits de la personne concernée ;
+- aide le responsable du traitement, par tout moyen approprié, à veiller au respect des dispositions relatives aux droits de la personne concernée ;
 
-4. selon le choix du responsable du traitement, supprime toutes les données à caractère personnel ou les renvoie au responsable du traitement au terme de la prestation des services de traitement des données, et détruit les copies existantes, à moins qu’une disposition légale n'exige la conservation des données à caractère personnel ;
+- selon le choix du responsable du traitement, supprime toutes les données à caractère personnel ou les renvoie au responsable du traitement au terme de la prestation des services de traitement des données, et détruit les copies existantes, à moins qu’une disposition légale n'exige la conservation des données à caractère personnel ;
 
-5. met à la disposition du responsable du traitement toutes les informations nécessaires pour apporter la preuve du respect du présent article ;
+- met à la disposition du responsable du traitement toutes les informations nécessaires pour apporter la preuve du respect du présent article ;
 
-6. respecte les conditions visées aux paragraphes 2 et 3 pour recruter un autre sous-traitant.
+- respecte les conditions visées aux paragraphes 2 et 3 pour recruter un autre sous-traitant.
 
 (4)
 
@@ -1304,35 +1339,35 @@ Registre des activités de traitement
 
 Les responsables du traitement tiennent un registre de toutes les catégories d'activités de traitement effectuées sous leur responsabilité. Ce registre comporte toutes les informations suivantes :
 
-1. le nom et les coordonnées du responsable du traitement et, le cas échéant, du responsable conjoint du traitement et du délégué à la protection des données ;
+- le nom et les coordonnées du responsable du traitement et, le cas échéant, du responsable conjoint du traitement et du délégué à la protection des données ;
 
-2. les finalités du traitement ;
+- les finalités du traitement ;
 
-3. les catégories de destinataires auxquels les données à caractère personnel ont été ou seront communiquées, y compris les destinataires dans des pays tiers ou des organisations internationales ;
+- les catégories de destinataires auxquels les données à caractère personnel ont été ou seront communiquées, y compris les destinataires dans des pays tiers ou des organisations internationales ;
 
-4. une description des catégories de personnes concernées et des catégories de données à caractère personnel ;
+- une description des catégories de personnes concernées et des catégories de données à caractère personnel ;
 
-5. le cas échéant, le recours au profilage ;
+- le cas échéant, le recours au profilage ;
 
-6. le cas échéant, les catégories de transferts de données à caractère personnel vers un pays tiers ou à une organisation internationale ;
+- le cas échéant, les catégories de transferts de données à caractère personnel vers un pays tiers ou à une organisation internationale ;
 
-7. une indication de la base juridique de l'opération de traitement, y compris les transferts, à laquelle les données à caractère personnel sont destinées ;
+- une indication de la base juridique de l'opération de traitement, y compris les transferts, à laquelle les données à caractère personnel sont destinées ;
 
-8. dans la mesure du possible, les délais prévus pour l'effacement des différentes catégories de données à caractère personnel ;
+- dans la mesure du possible, les délais prévus pour l'effacement des différentes catégories de données à caractère personnel ;
 
-9. dans la mesure du possible, une description générale des mesures de sécurité techniques et organisationnelles visées à l'article 28, paragraphe 1 er .
+- dans la mesure du possible, une description générale des mesures de sécurité techniques et organisationnelles visées à l'article 28, paragraphe 1 er .
 
 (2)
 
 Chaque sous-traitant tient un registre de toutes les catégories d'activités de traitement effectuées pour le compte du responsable du traitement, comprenant :
 
-1. le nom et les coordonnées du ou des sous-traitants, de chaque responsable du traitement pour le compte duquel le sous-traitant agit et, le cas échéant, du délégué à la protection des données ;
+- le nom et les coordonnées du ou des sous-traitants, de chaque responsable du traitement pour le compte duquel le sous-traitant agit et, le cas échéant, du délégué à la protection des données ;
 
-2. les catégories de traitements effectués pour le compte de chaque responsable du traitement ;
+- les catégories de traitements effectués pour le compte de chaque responsable du traitement ;
 
-3. le cas échéant, les transferts de données à caractère personnel vers un pays tiers ou à une organisation internationale, lorsqu'il en est expressément chargé par le responsable du traitement, y compris l'identification de ce pays tiers ou de cette organisation internationale ;
+- le cas échéant, les transferts de données à caractère personnel vers un pays tiers ou à une organisation internationale, lorsqu'il en est expressément chargé par le responsable du traitement, y compris l'identification de ce pays tiers ou de cette organisation internationale ;
 
-4. dans la mesure du possible, une description générale des mesures de sécurité techniques et organisationnelles visées à l'article 28, paragraphe 1 er .
+- dans la mesure du possible, une description générale des mesures de sécurité techniques et organisationnelles visées à l'article 28, paragraphe 1 er .
 
 (3)
 
@@ -1384,9 +1419,9 @@ Consultation préalable de l'autorité de contrôle compétente
 
 Le responsable du traitement ou le sous-traitant consulte l'autorité de contrôle compétente préalablement au traitement des données à caractère personnel qui fera partie d'un nouveau fichier à créer :
 
-1. lorsqu'une analyse d'impact relative à la protection des données, telle qu'elle est prévue à l'article 26, indique que le traitement présenterait un risque élevé si le responsable du traitement ne prenait pas de mesures pour atténuer le risque, ou
+- lorsqu'une analyse d'impact relative à la protection des données, telle qu'elle est prévue à l'article 26, indique que le traitement présenterait un risque élevé si le responsable du traitement ne prenait pas de mesures pour atténuer le risque, ou
 
-2. lorsque le type de traitement, en particulier, en raison de l'utilisation de nouveaux mécanismes, technologies ou procédures, présente des risques élevés pour les libertés et les droits des personnes concernées.
+- lorsque le type de traitement, en particulier, en raison de l'utilisation de nouveaux mécanismes, technologies ou procédures, présente des risques élevés pour les libertés et les droits des personnes concernées.
 
 (2)
 
@@ -1419,25 +1454,25 @@ Compte tenu de l'état des connaissances, des coûts de la mise en œuvre et de 
 
 En ce qui concerne le traitement automatisé, le responsable du traitement ou le sous-traitant met en œuvre, à la suite d'une évaluation des risques, des mesures destinées à :
 
-1. empêcher toute personne non autorisée d'accéder aux installations utilisées pour le traitement (contrôle de l'accès aux installations) ;
+- empêcher toute personne non autorisée d'accéder aux installations utilisées pour le traitement (contrôle de l'accès aux installations) ;
 
-2. empêcher que des supports de données puissent être lus, copiés, modifiés ou supprimés de façon non autorisée (contrôle des supports de données) ;
+- empêcher que des supports de données puissent être lus, copiés, modifiés ou supprimés de façon non autorisée (contrôle des supports de données) ;
 
-3. empêcher l'introduction non autorisée de données à caractère personnel dans le fichier, ainsi que l'inspection, la modification ou l'effacement non autorisé de données à caractère personnel enregistrées (contrôle de la conservation) ;
+- empêcher l'introduction non autorisée de données à caractère personnel dans le fichier, ainsi que l'inspection, la modification ou l'effacement non autorisé de données à caractère personnel enregistrées (contrôle de la conservation) ;
 
-4. empêcher que les systèmes de traitement automatisé puissent être utilisés par des personnes non autorisées à l'aide d'installations de transmission de données (contrôle des utilisateurs) ;
+- empêcher que les systèmes de traitement automatisé puissent être utilisés par des personnes non autorisées à l'aide d'installations de transmission de données (contrôle des utilisateurs) ;
 
-5. garantir que les personnes autorisées à utiliser un système de traitement automatisé ne puissent accéder qu'aux données à caractère personnel sur lesquelles porte leur autorisation (contrôle de l'accès aux données) ;
+- garantir que les personnes autorisées à utiliser un système de traitement automatisé ne puissent accéder qu'aux données à caractère personnel sur lesquelles porte leur autorisation (contrôle de l'accès aux données) ;
 
-6. garantir qu'il puisse être vérifié et constaté à quelles instances des données à caractère personnel ont été ou peuvent être transmises ou mises à disposition par des installations de transmission de données (contrôle de la transmission) ;
+- garantir qu'il puisse être vérifié et constaté à quelles instances des données à caractère personnel ont été ou peuvent être transmises ou mises à disposition par des installations de transmission de données (contrôle de la transmission) ;
 
-7. garantir qu'il puisse être vérifié et constaté a posteriori quelles données à caractère personnel ont été introduites dans les systèmes de traitement automatisé, et à quel moment et par quelle personne elles y ont été introduites (contrôle de l'introduction) ;
+- garantir qu'il puisse être vérifié et constaté a posteriori quelles données à caractère personnel ont été introduites dans les systèmes de traitement automatisé, et à quel moment et par quelle personne elles y ont été introduites (contrôle de l'introduction) ;
 
-8. empêcher que, lors de la transmission de données à caractère personnel ainsi que lors du transport de supports de données, les données puissent être lues, copiées, modifiées ou supprimées de façon non autorisée (contrôle du transport) ;
+- empêcher que, lors de la transmission de données à caractère personnel ainsi que lors du transport de supports de données, les données puissent être lues, copiées, modifiées ou supprimées de façon non autorisée (contrôle du transport) ;
 
-9. garantir que les systèmes installés puissent être rétablis en cas d'interruption (restauration) ;
+- garantir que les systèmes installés puissent être rétablis en cas d'interruption (restauration) ;
 
-10. garantir que les fonctions du système opèrent, que les erreurs de fonctionnement soient signalées (fiabilité) et que les données à caractère personnel conservées ne puissent pas être corrompues par un dysfonctionnement du système (intégrité).
+- garantir que les fonctions du système opèrent, que les erreurs de fonctionnement soient signalées (fiabilité) et que les données à caractère personnel conservées ne puissent pas être corrompues par un dysfonctionnement du système (intégrité).
 
 <a id="art-n1162c"></a>
 ## Art. 29.
@@ -1456,13 +1491,13 @@ Le sous-traitant notifie au responsable du traitement toute violation de donnée
 
 La notification visée aux paragraphes 1 et 2 doit au moins :
 
-1. décrire la nature de la violation de données à caractère personnel y compris, si possible, les catégories et le nombre approximatif de personnes concernées par la violation et les catégories et le nombre approximatif d'enregistrements de données à caractère personnel concernés ;
+- décrire la nature de la violation de données à caractère personnel y compris, si possible, les catégories et le nombre approximatif de personnes concernées par la violation et les catégories et le nombre approximatif d'enregistrements de données à caractère personnel concernés ;
 
-2. communiquer le nom et les coordonnées du délégué à la protection des données ou d'un autre point de contact auprès duquel des informations supplémentaires peuvent être obtenues ;
+- communiquer le nom et les coordonnées du délégué à la protection des données ou d'un autre point de contact auprès duquel des informations supplémentaires peuvent être obtenues ;
 
-3. décrire les conséquences probables de la violation de données à caractère personnel, et
+- décrire les conséquences probables de la violation de données à caractère personnel, et
 
-4. décrire les mesures prises ou que le responsable du traitement propose de prendre pour remédier à la violation de données à caractère personnel, y compris, le cas échéant, les mesures pour en atténuer les éventuelles conséquences négatives.
+- décrire les mesures prises ou que le responsable du traitement propose de prendre pour remédier à la violation de données à caractère personnel, y compris, le cas échéant, les mesures pour en atténuer les éventuelles conséquences négatives.
 
 (4)
 
@@ -1493,11 +1528,11 @@ La communication à la personne concernée visée au paragraphe 1er décrit, en 
 
 La communication à la personne concernée visée au paragraphe 1er n'est pas nécessaire si l'une ou l'autre des conditions suivantes est remplie :
 
-1. le responsable du traitement a mis en œuvre les mesures de protection techniques et organisationnelles appropriées et ces dernières ont été appliquées aux données à caractère personnel affectées par ladite violation, en particulier les mesures qui rendent les données à caractère personnel incompréhensibles pour toute personne qui n'est pas autorisée à y avoir accès, telles que le chiffrement ;
+- le responsable du traitement a mis en œuvre les mesures de protection techniques et organisationnelles appropriées et ces dernières ont été appliquées aux données à caractère personnel affectées par ladite violation, en particulier les mesures qui rendent les données à caractère personnel incompréhensibles pour toute personne qui n'est pas autorisée à y avoir accès, telles que le chiffrement ;
 
-2. le responsable du traitement a pris des mesures ultérieures qui garantissent que le risque élevé pour les droits et les libertés des personnes concernées visé au paragraphe 1 er n'est plus susceptible de se matérialiser ;
+- le responsable du traitement a pris des mesures ultérieures qui garantissent que le risque élevé pour les droits et les libertés des personnes concernées visé au paragraphe 1 er n'est plus susceptible de se matérialiser ;
 
-3. elle exigerait des efforts disproportionnés. Dans ce cas, il est plutôt procédé à une communication publique ou à une mesure similaire permettant aux personnes concernées d'être informées de manière tout aussi efficace.
+- elle exigerait des efforts disproportionnés. Dans ce cas, il est plutôt procédé à une communication publique ou à une mesure similaire permettant aux personnes concernées d'être informées de manière tout aussi efficace.
 
 (4)
 
@@ -1550,15 +1585,15 @@ Missions du délégué à la protection des données
 
 Le responsable du traitement confie au délégué à la protection des données au moins les missions suivantes :
 
-1. informer et conseiller le responsable du traitement et les employés qui procèdent au traitement sur les obligations qui leur incombent en vertu de la présente loi et d'autres dispositions du droit de l'Union européenne ou du droit luxembourgeois en matière de protection des données ;
+- informer et conseiller le responsable du traitement et les employés qui procèdent au traitement sur les obligations qui leur incombent en vertu de la présente loi et d'autres dispositions du droit de l'Union européenne ou du droit luxembourgeois en matière de protection des données ;
 
-2. contrôler le respect de la présente loi, d'autres dispositions du droit de l'Union européenne ou du droit luxembourgeois en matière de protection des données et des règles internes du responsable du traitement en matière de protection des données à caractère personnel, y compris en ce qui concerne la répartition des responsabilités, la sensibilisation et la formation du personnel participant à des opérations de traitement, et les audits s'y rapportant ;
+- contrôler le respect de la présente loi, d'autres dispositions du droit de l'Union européenne ou du droit luxembourgeois en matière de protection des données et des règles internes du responsable du traitement en matière de protection des données à caractère personnel, y compris en ce qui concerne la répartition des responsabilités, la sensibilisation et la formation du personnel participant à des opérations de traitement, et les audits s'y rapportant ;
 
-3. dispenser des conseils, sur demande, en ce qui concerne l'analyse d'impact relative à la protection des données et vérifier l'exécution de celle-ci en vertu de l'article 26 ;
+- dispenser des conseils, sur demande, en ce qui concerne l'analyse d'impact relative à la protection des données et vérifier l'exécution de celle-ci en vertu de l'article 26 ;
 
-4. coopérer avec l'autorité de contrôle compétente ;
+- coopérer avec l'autorité de contrôle compétente ;
 
-5. faire office de point de contact pour la personne concernée et l'autorité de contrôle sur les questions relatives au traitement, y compris la consultation préalable visée à l'article 27, et mener des consultations, le cas échéant, sur tout autre sujet en relation avec ses missions.
+- faire office de point de contact pour la personne concernée et l'autorité de contrôle sur les questions relatives au traitement, y compris la consultation préalable visée à l'article 27, et mener des consultations, le cas échéant, sur tout autre sujet en relation avec ses missions.
 
 #### Chapitre 5 Transferts de données à caractère personnel vers des pays tiers ou à des organisations internationales
 
@@ -1571,15 +1606,15 @@ Principes généraux applicables aux transferts de données à caractère person
 
 Un transfert, par des autorités compétentes, de données à caractère personnel qui font ou sont destinées à faire l'objet d'un traitement après leur transfert vers un pays tiers ou à une organisation internationale, y compris des transferts ultérieurs vers un autre pays tiers ou à une autre organisation internationale, n'a lieu, sous réserve du respect des autres dispositions de la présente loi, que lorsque les conditions définies dans le présent chapitre sont respectées, à savoir :
 
-1. le transfert est nécessaire aux fins énoncées à l'article 1 er ;
+- le transfert est nécessaire aux fins énoncées à l'article 1 er ;
 
-2. les données à caractère personnel sont transférées à un responsable du traitement dans un pays tiers ou à une organisation internationale qui est une autorité compétente aux fins visées à l'article 1 er ;
+- les données à caractère personnel sont transférées à un responsable du traitement dans un pays tiers ou à une organisation internationale qui est une autorité compétente aux fins visées à l'article 1 er ;
 
-3. en cas de transmission ou de mise à disposition de données à caractère personnel provenant d'un autre État membre, celui-ci a préalablement autorisé ce transfert conformément à son droit national ;
+- en cas de transmission ou de mise à disposition de données à caractère personnel provenant d'un autre État membre, celui-ci a préalablement autorisé ce transfert conformément à son droit national ;
 
-4. la Commission européenne a adopté une décision d'adéquation en application de l'article 35 ou, en l'absence d'une telle décision, des garanties appropriées ont été prévues ou existent en application de l'article 36 ou, en l'absence de décision d'adéquation au titre de l'article 35 et de garanties appropriées conformément à l'article 36, des dérogations pour des situations particulières s'appliquent en vertu de l'article 37 ;
+- la Commission européenne a adopté une décision d'adéquation en application de l'article 35 ou, en l'absence d'une telle décision, des garanties appropriées ont été prévues ou existent en application de l'article 36 ou, en l'absence de décision d'adéquation au titre de l'article 35 et de garanties appropriées conformément à l'article 36, des dérogations pour des situations particulières s'appliquent en vertu de l'article 37 ;
 
-5. en cas de transfert ultérieur vers un autre pays tiers ou à une autre organisation internationale, l'autorité compétente qui a procédé au transfert initial ou une autre autorité compétente du même État membre autorise le transfert ultérieur, après avoir dûment pris en considération l'ensemble des facteurs pertinents, y compris la gravité de l'infraction pénale, la finalité pour laquelle les données à caractère personnel ont été transférées initialement et le niveau de protection des données à caractère personnel dans le pays tiers ou au sein de l'organisation internationale vers lequel ou laquelle les données à caractère personnel sont transférées ultérieurement.
+- en cas de transfert ultérieur vers un autre pays tiers ou à une autre organisation internationale, l'autorité compétente qui a procédé au transfert initial ou une autre autorité compétente du même État membre autorise le transfert ultérieur, après avoir dûment pris en considération l'ensemble des facteurs pertinents, y compris la gravité de l'infraction pénale, la finalité pour laquelle les données à caractère personnel ont été transférées initialement et le niveau de protection des données à caractère personnel dans le pays tiers ou au sein de l'organisation internationale vers lequel ou laquelle les données à caractère personnel sont transférées ultérieurement.
 
 (2)
 
@@ -1611,9 +1646,9 @@ Transferts moyennant des garanties appropriées
 
 En l'absence de décision en vertu de l'article 35, un transfert de données à caractère personnel vers un pays tiers ou à une organisation internationale peut avoir lieu lorsque :
 
-1. des garanties appropriées en ce qui concerne la protection des données à caractère personnel sont fournies dans un instrument juridiquement contraignant, ou
+- des garanties appropriées en ce qui concerne la protection des données à caractère personnel sont fournies dans un instrument juridiquement contraignant, ou
 
-2. le responsable du traitement a évalué toutes les circonstances du transfert et estime qu'il existe des garanties appropriées au regard de la protection des données à caractère personnel.
+- le responsable du traitement a évalué toutes les circonstances du transfert et estime qu'il existe des garanties appropriées au regard de la protection des données à caractère personnel.
 
 (2)
 
@@ -1632,15 +1667,15 @@ Dérogations pour des situations particulières
 
 En l'absence de décision d'adéquation en vertu de l'article 35 ou de garanties appropriées en vertu de l'article 36, un transfert ou une catégorie de transferts de données à caractère personnel vers un pays tiers ou à une organisation internationale ne peut avoir lieu qu'à condition que le transfert soit nécessaire :
 
-1. à la sauvegarde des intérêts vitaux de la personne concernée ou d'une autre personne ;
+- à la sauvegarde des intérêts vitaux de la personne concernée ou d'une autre personne ;
 
-2. à la sauvegarde des intérêts légitimes de la personne concernée ;
+- à la sauvegarde des intérêts légitimes de la personne concernée ;
 
-3. pour prévenir une menace grave et immédiate pour la sécurité publique d'un État membre ou d'un pays tiers ;
+- pour prévenir une menace grave et immédiate pour la sécurité publique d'un État membre ou d'un pays tiers ;
 
-4. dans des cas particuliers, aux fins énoncées à l'article 1 er , ou
+- dans des cas particuliers, aux fins énoncées à l'article 1 er , ou
 
-5. dans un cas particulier, à la constatation, à l'exercice ou à la défense de droits en justice en rapport avec les fins énoncées à l'article 1 er .
+- dans un cas particulier, à la constatation, à l'exercice ou à la défense de droits en justice en rapport avec les fins énoncées à l'article 1 er .
 
 (2)
 
@@ -1659,15 +1694,15 @@ Transferts de données à caractère personnel à des destinataires établis dan
 
 Par dérogation à l'article 34, paragraphe 1er, lettre b), et sans préjudice de tout accord international visé au paragraphe 2, les autorités compétentes au sens de l'article 2, point 7), lettre a), peuvent, dans certains cas particuliers, transférer des données à caractère personnel directement aux destinataires établis dans des pays tiers, uniquement lorsque les autres dispositions de la présente loi sont respectées et que toutes les conditions ci-après sont remplies :
 
-1. le transfert est strictement nécessaire à l'exécution de la mission de l'autorité compétente qui transfère les données ainsi que le prévoit le droit de l'Union européenne ou aux fins énoncées à l'article 1 er ;
+- le transfert est strictement nécessaire à l'exécution de la mission de l'autorité compétente qui transfère les données ainsi que le prévoit le droit de l'Union européenne ou aux fins énoncées à l'article 1 er ;
 
-2. l'autorité compétente qui transfère les données établit qu'il n'existe pas de libertés ni de droits fondamentaux de la personne concernée qui prévalent sur l'intérêt public nécessitant le transfert dans le cas en question ;
+- l'autorité compétente qui transfère les données établit qu'il n'existe pas de libertés ni de droits fondamentaux de la personne concernée qui prévalent sur l'intérêt public nécessitant le transfert dans le cas en question ;
 
-3. l'autorité compétente qui transfère les données estime que le transfert à une autorité qui est compétente aux fins visées à l'article 1 er dans le pays tiers est inefficace ou inapproprié, notamment parce que le transfert ne peut pas être effectué en temps opportun ;
+- l'autorité compétente qui transfère les données estime que le transfert à une autorité qui est compétente aux fins visées à l'article 1 er dans le pays tiers est inefficace ou inapproprié, notamment parce que le transfert ne peut pas être effectué en temps opportun ;
 
-4. l'autorité qui est compétente aux fins visées à l'article 1 er dans le pays tiers est informée dans les meilleurs délais, à moins que cela ne soit inefficace ou inapproprié, et
+- l'autorité qui est compétente aux fins visées à l'article 1 er dans le pays tiers est informée dans les meilleurs délais, à moins que cela ne soit inefficace ou inapproprié, et
 
-5. l'autorité compétente qui transfère les données informe le destinataire de la finalité ou des finalités déterminées pour lesquelles les données à caractère personnel ne doivent faire l'objet d'un traitement que par cette dernière, à condition qu'un tel traitement soit nécessaire.
+- l'autorité compétente qui transfère les données informe le destinataire de la finalité ou des finalités déterminées pour lesquelles les données à caractère personnel ne doivent faire l'objet d'un traitement que par cette dernière, à condition qu'un tel traitement soit nécessaire.
 
 (2)
 
@@ -1711,17 +1746,17 @@ Par dérogation à l’article 39, les opérations de traitement de données à 
 
 L’autorité de contrôle judiciaire est composée de six membres effectifs et de leurs suppléants comme suit :
 
-1. le Président de la Cour supérieure de Justice ou son délégué ;
+- le Président de la Cour supérieure de Justice ou son délégué ;
 
-2. un représentant des autres juridictions de l’ordre judiciaire ;
+- un représentant des autres juridictions de l’ordre judiciaire ;
 
-3. le Président de la Cour administrative ou son délégué ;
+- le Président de la Cour administrative ou son délégué ;
 
-4. le Procureur général d’État ou son délégué ;
+- le Procureur général d’État ou son délégué ;
 
-5. un représentant du Parquet de l’arrondissement de Luxembourg ou de l’arrondissement de Diekirch, et
+- un représentant du Parquet de l’arrondissement de Luxembourg ou de l’arrondissement de Diekirch, et
 
-6. un représentant de la Commission nationale pour la protection des données.
+- un représentant de la Commission nationale pour la protection des données.
 
 Un fonctionnaire ou employé de l’administration judiciaire assume le rôle de secrétaire de l’autorité de contrôle judiciaire. Un ou plusieurs autres fonctionnaires ou employés de l’administration judiciaire peuvent être nommés en tant que membres du secrétariat de l’autorité de contrôle judiciaire, dont un en tant que secrétaire suppléant.
 
@@ -1729,11 +1764,11 @@ Un fonctionnaire ou employé de l’administration judiciaire assume le rôle de
 
 Les membres effectifs et leurs suppléants ainsi que les fonctionnaires et employés assurant le secrétariat de l’autorité de contrôle judiciaire sont nommés par arrêté du ministre ayant la justice dans ses attributions sur proposition :
 
-1. du président de la Cour supérieure de Justice pour les membres suppléants visés aux paragraphe 3, alinéa 1 er , points 1) et 2), et pour les fonctionnaires et employés visés au paragraphe 3, alinéa 2 ;
+- du président de la Cour supérieure de Justice pour les membres suppléants visés aux paragraphe 3, alinéa 1 er , points 1) et 2), et pour les fonctionnaires et employés visés au paragraphe 3, alinéa 2 ;
 
-2. du procureur général d’État pour les membres effectifs et suppléants visés au paragraphe 3, points 4) et 5), et
+- du procureur général d’État pour les membres effectifs et suppléants visés au paragraphe 3, points 4) et 5), et
 
-3. du président de la Commission nationale pour la protection des données pour le membre visé au paragraphe 3, point 6).
+- du président de la Commission nationale pour la protection des données pour le membre visé au paragraphe 3, point 6).
 
 (5)
 
@@ -1803,27 +1838,27 @@ Missions de l’autorité de contrôle judiciaire
 
 Dans les limites de ses compétences prévues à l’article 40, paragraphe 2, et lorsque le traitement de données à caractère personnel concerné par les autorités y visées relève du champ d’application de la présente loi, l’autorité de contrôle judiciaire :
 
-1. contrôle l'application des dispositions de la présente loi et veille au respect de celles-ci ;
+- contrôle l'application des dispositions de la présente loi et veille au respect de celles-ci ;
 
-2. favorise la sensibilisation du public et sa compréhension des risques, des règles, des garanties et des droits relatifs au traitement ;
+- favorise la sensibilisation du public et sa compréhension des risques, des règles, des garanties et des droits relatifs au traitement ;
 
-3. conseille la Chambre des députés, le Gouvernement et d'autres institutions et organismes au sujet des mesures législatives et administratives relatives à la protection des droits et libertés des personnes physiques à l'égard du traitement ;
+- conseille la Chambre des députés, le Gouvernement et d'autres institutions et organismes au sujet des mesures législatives et administratives relatives à la protection des droits et libertés des personnes physiques à l'égard du traitement ;
 
-4. encourage la sensibilisation des responsables du traitement et des sous-traitants des traitements de données relevant de sa compétence aux obligations qui leur incombent en vertu de la présente loi ;
+- encourage la sensibilisation des responsables du traitement et des sous-traitants des traitements de données relevant de sa compétence aux obligations qui leur incombent en vertu de la présente loi ;
 
-5. fournit, sur demande, à toute personne concernée, des informations sur l'exercice de ses droits découlant de la présente loi et, le cas échéant, coopère à cette fin avec la Commission nationale pour la protection des données et les autorités de contrôle étrangères ;
+- fournit, sur demande, à toute personne concernée, des informations sur l'exercice de ses droits découlant de la présente loi et, le cas échéant, coopère à cette fin avec la Commission nationale pour la protection des données et les autorités de contrôle étrangères ;
 
-6. traite les réclamations introduites par une personne concernée ou par un organisme, une organisation ou une association conformément à l'article 47, enquête sur l'objet de la réclamation, dans la mesure nécessaire, et informe l'auteur de la réclamation de l'état d'avancement et de l'issue de l'enquête dans un délai raisonnable, notamment si un complément d'enquête ou une coordination avec une autre autorité de contrôle est nécessaire ;
+- traite les réclamations introduites par une personne concernée ou par un organisme, une organisation ou une association conformément à l'article 47, enquête sur l'objet de la réclamation, dans la mesure nécessaire, et informe l'auteur de la réclamation de l'état d'avancement et de l'issue de l'enquête dans un délai raisonnable, notamment si un complément d'enquête ou une coordination avec une autre autorité de contrôle est nécessaire ;
 
-7. vérifie la licéité du traitement en vertu de l'article 16 et informe la personne concernée dans un délai raisonnable de l'issue de la vérification, conformément au paragraphe 3 du même article, ou des motifs ayant empêché sa réalisation ;
+- vérifie la licéité du traitement en vertu de l'article 16 et informe la personne concernée dans un délai raisonnable de l'issue de la vérification, conformément au paragraphe 3 du même article, ou des motifs ayant empêché sa réalisation ;
 
-8. coopère avec d'autres autorités de contrôle, y compris en partageant des informations, et leur fournit une assistance mutuelle dans ce cadre en vue d'assurer une application cohérente de la présente loi pour en assurer le respect ;
+- coopère avec d'autres autorités de contrôle, y compris en partageant des informations, et leur fournit une assistance mutuelle dans ce cadre en vue d'assurer une application cohérente de la présente loi pour en assurer le respect ;
 
-9. effectue des enquêtes sur l'application de la présente loi, y compris sur la base d'informations reçues d'une autre autorité de contrôle ou d'une autre autorité publique ;
+- effectue des enquêtes sur l'application de la présente loi, y compris sur la base d'informations reçues d'une autre autorité de contrôle ou d'une autre autorité publique ;
 
-10. suit les évolutions pertinentes, dans la mesure où elles ont une incidence sur la protection des données à caractère personnel, notamment dans le domaine des technologies de l'information et de la communication ;
+- suit les évolutions pertinentes, dans la mesure où elles ont une incidence sur la protection des données à caractère personnel, notamment dans le domaine des technologies de l'information et de la communication ;
 
-11. fournit des conseils sur les opérations de traitement visées à l'article 27.
+- fournit des conseils sur les opérations de traitement visées à l'article 27.
 
 L’autorité de contrôle judiciaire facilite l'introduction des réclamations visées au paragraphe 1er, lettre f), par des mesures telles que la fourniture d'un formulaire de réclamation qui peut être rempli également par voie électronique, sans que d'autres moyens de communication ne soient exclus.
 
@@ -1844,11 +1879,11 @@ Pouvoirs de l’autorité de contrôle judiciaire
 
 Lorsque le traitement de données à caractère personnel effectué par les autorités visées à l’article 40, paragraphe 2, relève du champ d’application de la présente loi, l’autorité de contrôle judiciaire dispose des pouvoirs correctifs suivants :
 
-1. avertir un responsable du traitement ou un sous-traitant du fait que les opérations de traitement envisagées sont susceptibles de violer les dispositions de la présente loi ;
+- avertir un responsable du traitement ou un sous-traitant du fait que les opérations de traitement envisagées sont susceptibles de violer les dispositions de la présente loi ;
 
-2. ordonner au responsable du traitement ou au sous-traitant de mettre les opérations de traitement en conformité avec les dispositions adoptées en vertu de la présente loi, le cas échéant de manière spécifique et dans un délai déterminé, en particulier en ordonnant la rectification ou l'effacement de données à caractère personnel ou la limitation du traitement en application de l'article 15 ;
+- ordonner au responsable du traitement ou au sous-traitant de mettre les opérations de traitement en conformité avec les dispositions adoptées en vertu de la présente loi, le cas échéant de manière spécifique et dans un délai déterminé, en particulier en ordonnant la rectification ou l'effacement de données à caractère personnel ou la limitation du traitement en application de l'article 15 ;
 
-3. limiter temporairement ou définitivement, y compris interdire, un traitement.
+- limiter temporairement ou définitivement, y compris interdire, un traitement.
 
 L’autorité de contrôle judiciaire obtient du responsable du traitement ou du sous-traitant accès à toutes les données à caractère personnel qui sont traitées et à toutes les autres informations nécessaires à l'exercice de ses missions.
 
@@ -1919,15 +1954,15 @@ Sans préjudice des dispositions légales relatives à la représentation des pa
 
 Afin de pouvoir représenter valablement la personne concernée, et sous peine d’irrecevabilité de la réclamation ou du recours, la personne morale visée au paragraphe 1er doit remplir les conditions suivantes :
 
-1. être valablement constituée en tant qu’association ou fondation conformément aux dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif ;
+- être valablement constituée en tant qu’association ou fondation conformément aux dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif ;
 
-2. s’il s’agit d’une association sans but lucratif, avoir été reconnue d’utilité publique conformément à l’article 26-2 de la loi visée à la lettre a) ;
+- s’il s’agit d’une association sans but lucratif, avoir été reconnue d’utilité publique conformément à l’article 26-2 de la loi visée à la lettre a) ;
 
-3. la protection des droits et libertés de la personne concernée dans le cadre de la protection des données à caractère personnel doit figurer aux statuts de l’association ou de la fondation comme l’objet ou l’un des objets en vue desquels l’association ou la fondation a été créée ;
+- la protection des droits et libertés de la personne concernée dans le cadre de la protection des données à caractère personnel doit figurer aux statuts de l’association ou de la fondation comme l’objet ou l’un des objets en vue desquels l’association ou la fondation a été créée ;
 
-4. disposer de la personnalité juridique au moment de l’introduction de la réclamation ou de l’action en justice au nom de la personne concernée ;
+- disposer de la personnalité juridique au moment de l’introduction de la réclamation ou de l’action en justice au nom de la personne concernée ;
 
-5. avoir été mandatée par écrit et préalablement à l’exercice des droits de la personne visés aux articles 44 et 45.
+- avoir été mandatée par écrit et préalablement à l’exercice des droits de la personne visés aux articles 44 et 45.
 
 (3)
 
@@ -1993,28 +2028,45 @@ Les dispositions des articles 51 à 53 de la loi du 1er août 2018 portant organ
 
 Loi modifiée du 7 mars 1980 sur l'organisation judiciaire
 
-L’article 75-8 de la loi modifiée du 7 mars 1980 sur l'organisation judiciaire est remplacé comme suit :Art. 75-8.Le droit de toute personne d'avoir accès aux données à caractère personnel la concernant qui sont traitées par Eurojust, tel que prévu par l'article 19 de la décision précitée du Conseil du 28 février 2002 se fait suivant les modalités du droit d'accès au Luxembourg telles qu'elles sont prévues par les articles 13, 14 et 16 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+L’article 75-8 de la loi modifiée du 7 mars 1980 sur l'organisation judiciaire est remplacé comme suit :
+
+<a id="art-n11e69"></a>
+## Art. 75-8.
+
+Le droit de toute personne d'avoir accès aux données à caractère personnel la concernant qui sont traitées par Eurojust, tel que prévu par l'article 19 de la décision précitée du Conseil du 28 février 2002 se fait suivant les modalités du droit d'accès au Luxembourg telles qu'elles sont prévues par les articles 13, 14 et 16 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
 <a id="art-n11e83"></a>
 ## Art. 49.
 
 Loi modifiée du 29 mai 1998 portant approbation de la Convention sur la base de l'article K.3 du Traité sur l'Union européenne portant création d'un Office européen de police (Convention Europol), signée à Bruxelles, le 26 juillet 1995
 
-L’article 3 de la loi modifiée du 29 mai 1998 portant approbation de la Convention sur la base de l'article K.3 du Traité sur l'Union européenne portant création d'un Office européen de police (Convention Europol), signée à Bruxelles, le 26 juillet 1995 est remplacé comme suit :Art. 3.L'autorité de contrôle prévue à l’article 2, paragraphe 1er, point 15) a), de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale est désignée comme l'autorité de contrôle nationale prévue à l'article 23 de la Convention avec mission de contrôler le respect des dispositions en matière de protection des données à caractère personnel dans le cadre de l'exploitation du système d'information Europol.
+L’article 3 de la loi modifiée du 29 mai 1998 portant approbation de la Convention sur la base de l'article K.3 du Traité sur l'Union européenne portant création d'un Office européen de police (Convention Europol), signée à Bruxelles, le 26 juillet 1995 est remplacé comme suit :
+
+<a id="art-n11e9c"></a>
+## Art. 3.
+
+L'autorité de contrôle prévue à l’article 2, paragraphe 1er, point 15) a), de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale est désignée comme l'autorité de contrôle nationale prévue à l'article 23 de la Convention avec mission de contrôler le respect des dispositions en matière de protection des données à caractère personnel dans le cadre de l'exploitation du système d'information Europol.
 
 <a id="art-n11eb9"></a>
 ## Art. 50.
 
 Loi du 20 décembre 2002 portant approbation - de la Convention établie sur base de l'article K.3 du Traité sur l'Union européenne, sur l'emploi de l'informatique dans le domaine des douanes, signé à Bruxelles, le 26 juillet 1995; - de l'Accord relatif à l'application provisoire entre certains États membres de l'Union européenne de la Convention établie sur base de l'article K.3 du Traité sur l'Union européenne, sur l'emploi de l'informatique dans le domaine des douanes, signé à Bruxelles, le 26 juillet 1995
 
-L’article 2 de la loi du 20 décembre 2002 portant approbation - de la Convention établie sur base de l'article K.3 du Traité sur l'Union européenne, sur l'emploi de l'informatique dans le domaine des douanes, signé à Bruxelles, le 26 juillet 1995; - de l'Accord relatif à l'application provisoire entre certains États membres de l'Union européenne de la Convention établie sur base de l'article K.3 du Traité sur l'Union européenne, sur l'emploi de l'informatique dans le domaine des douanes, signé à Bruxelles, le 26 juillet 1995 est remplacé comme suit :Art. 2.L’autorité de contrôle prévue à l’article 2, paragraphe 1er, point 15) a), de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale est désignée comme l'autorité de contrôle nationale prévue à l'article 17 de la Convention, avec mission de contrôler le respect des dispositions en matière de protection des données à caractère personnel dans le cadre de l'exploitation du système d'information des douanes.
+L’article 2 de la loi du 20 décembre 2002 portant approbation - de la Convention établie sur base de l'article K.3 du Traité sur l'Union européenne, sur l'emploi de l'informatique dans le domaine des douanes, signé à Bruxelles, le 26 juillet 1995; - de l'Accord relatif à l'application provisoire entre certains États membres de l'Union européenne de la Convention établie sur base de l'article K.3 du Traité sur l'Union européenne, sur l'emploi de l'informatique dans le domaine des douanes, signé à Bruxelles, le 26 juillet 1995 est remplacé comme suit :
+
+<a id="art-n11ed2"></a>
+## Art. 2.
+
+L’autorité de contrôle prévue à l’article 2, paragraphe 1er, point 15) a), de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale est désignée comme l'autorité de contrôle nationale prévue à l'article 17 de la Convention, avec mission de contrôler le respect des dispositions en matière de protection des données à caractère personnel dans le cadre de l'exploitation du système d'information des douanes.
 
 <a id="art-n11eef"></a>
 ## Art. 51.
 
 Loi modifiée du 15 juin 2004 relative à la classification des pièces et aux habilitations de sécurité
 
-À l’article 23 de la loi modifiée du 15 juin 2004 relative à la classification des pièces et aux habilitations de sécurité, l’alinéa 1er est remplacé comme suit :Le traitement, par l'Autorité nationale de Sécurité, des informations collectées dans le cadre de ses missions est mis en œuvre conformément aux dispositions de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+À l’article 23 de la loi modifiée du 15 juin 2004 relative à la classification des pièces et aux habilitations de sécurité, l’alinéa 1er est remplacé comme suit :
+
+Le traitement, par l'Autorité nationale de Sécurité, des informations collectées dans le cadre de ses missions est mis en œuvre conformément aux dispositions de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
 <a id="art-n11f1c"></a>
 ## Art. 52.
@@ -2023,9 +2075,9 @@ Loi modifiée du 16 juin 2004 portant réorganisation du centre socio-éducatif 
 
 La loi modifiée du 16 juin 2004 portant réorganisation du centre socio-éducatif de l’État est modifiée comme suit :
 
-1. À l’article 11 bis , paragraphe 4, alinéa 2, la première phrase est remplacée comme suit : Le procureur général d’État est considéré, en ce qui concerne le traitement des données à caractère personnel, comme responsable du traitement au sens de l’article 4, point 7), du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), ci-après désigné comme le « règlement (UE) n° 2016/279 ».
+- À l’article 11 bis , paragraphe 4, alinéa 2, la première phrase est remplacée comme suit : Le procureur général d’État est considéré, en ce qui concerne le traitement des données à caractère personnel, comme responsable du traitement au sens de l’article 4, point 7), du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), ci-après désigné comme le « règlement (UE) n° 2016/279 ».
 
-2. À l’article 11bis, paragraphe 4, alinéa 3, la première phrase est remplacée comme suit : Le directeur du centre est considéré, en ce qui concerne le traitement des données à caractère personnel dans le cadre de l’hébergement et de l’encadrement du pensionnaire, comme responsable du traitement au sens de l’article 4, point 7), du règlement (UE) n° 2016/679.
+- À l’article 11bis, paragraphe 4, alinéa 3, la première phrase est remplacée comme suit : Le directeur du centre est considéré, en ce qui concerne le traitement des données à caractère personnel dans le cadre de l’hébergement et de l’encadrement du pensionnaire, comme responsable du traitement au sens de l’article 4, point 7), du règlement (UE) n° 2016/679.
 
 <a id="art-n11f6f"></a>
 ## Art. 53.
@@ -2034,37 +2086,55 @@ Loi modifiée du 25 août 2006 relative aux procédures d'identification par emp
 
 La loi modifiée du 25 août 2006 relative aux procédures d'identification par empreintes génétiques en matière pénale et portant modification du Code d'instruction criminelle est modifiée comme suit :
 
-1. À l’article 1 er , la deuxième phrase est remplacée comme suit : Le traitement de ces données est soumis aux prescriptions de l’article 9 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+- À l’article 1 er , la deuxième phrase est remplacée comme suit : Le traitement de ces données est soumis aux prescriptions de l’article 9 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
-2. À l’article 13, le paragraphe 2 est remplacé comme suit : (2)Un profil d'ADN établi est à considérer comme donnée à caractère personnel, au sens de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, à partir du moment où le code alphanumérique de l'analyse d'ADN a été associé à une information relative à la personne physique en cause permettant de l'identifier.
+- À l’article 13, le paragraphe 2 est remplacé comme suit : (2) Un profil d'ADN établi est à considérer comme donnée à caractère personnel, au sens de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, à partir du moment où le code alphanumérique de l'analyse d'ADN a été associé à une information relative à la personne physique en cause permettant de l'identifier.
 
 <a id="art-n11fc2"></a>
 ## Art. 54.
 
 Loi du 24 juin 2008 ayant pour objet le contrôle des voyageurs dans les établissements d’hébergement
 
-À l’article 3 de la loi du 24 juin 2008 ayant pour objet le contrôle des voyageurs dans les établissements d’hébergement, la première phrase est remplacée comme suit :Le logeur est obligé de communiquer à la Police grand-ducale la fiche d'hébergement concernant les personnes hébergées aux fins de la prévention et de la détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces.
+À l’article 3 de la loi du 24 juin 2008 ayant pour objet le contrôle des voyageurs dans les établissements d’hébergement, la première phrase est remplacée comme suit :
+
+Le logeur est obligé de communiquer à la Police grand-ducale la fiche d'hébergement concernant les personnes hébergées aux fins de la prévention et de la détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces.
 
 <a id="art-n11fe9"></a>
 ## Art. 55.
 
 Loi modifiée du 29 mars 2013 relative à l’organisation du casier judiciaire
 
-À l’article 8 de la loi modifiée du 29 mars 2013 relative à l’organisation du casier judiciaire, la deuxième phrase du point 2 est remplacée comme suit :Le SRE transmet sur une base trimestrielle la liste de ses demandes de délivrance et les motifs de ces demandes à l’autorité de contrôle judiciaire prévue à l’article 40 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
+À l’article 8 de la loi modifiée du 29 mars 2013 relative à l’organisation du casier judiciaire, la deuxième phrase du point 2 est remplacée comme suit :
+
+Le SRE transmet sur une base trimestrielle la liste de ses demandes de délivrance et les motifs de ces demandes à l’autorité de contrôle judiciaire prévue à l’article 40 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
 
 <a id="art-n12015"></a>
 ## Art. 56.
 
 Loi modifiée du 19 décembre 2014 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière
 
-L’article 6 de la loi modifiée du 19 décembre 2014 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière est remplacé comme suit :Art. 6.(1) Le traitement des données à caractère personnel dans le cadre de la présente loi est effectué à des fins de prévention, de recherche et de constatation des infractions pénales ou administratives relevant de son champ d'application et se fait conformément aux articles 24 à 32 de la décision 2008/615/JAI précitée et aux dispositions, y non contraires, de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.(2)Toute personne concernée a le droit d'obtenir des informations sur les données à caractère personnel transmises dans le cadre de la présente loi, y compris la date de la demande et l'autorité compétente de l'État membre de l'infraction, conformément aux articles 11 à 17 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+L’article 6 de la loi modifiée du 19 décembre 2014 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière est remplacé comme suit :
+
+<a id="art-n1202e"></a>
+## Art. 6.
+
+(1) Le traitement des données à caractère personnel dans le cadre de la présente loi est effectué à des fins de prévention, de recherche et de constatation des infractions pénales ou administratives relevant de son champ d'application et se fait conformément aux articles 24 à 32 de la décision 2008/615/JAI précitée et aux dispositions, y non contraires, de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+
+(2)
+
+Toute personne concernée a le droit d'obtenir des informations sur les données à caractère personnel transmises dans le cadre de la présente loi, y compris la date de la demande et l'autorité compétente de l'État membre de l'infraction, conformément aux articles 11 à 17 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
 <a id="art-n1205a"></a>
 ## Art. 57.
 
 Loi modifiée du 25 juillet 2015 portant création du système de contrôle et de sanction automatisés
 
-L’article 10 de la loi modifiée du 25 juillet 2015 portant création du système de contrôle et de sanction automatisés est remplacé comme suit :Art. 10.Le Centre procède au traitement des données à caractère personnel qui est nécessaire à l’accomplissement de ses missions qui est effectué conformément aux dispositions de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+L’article 10 de la loi modifiée du 25 juillet 2015 portant création du système de contrôle et de sanction automatisés est remplacé comme suit :
+
+<a id="art-n12073"></a>
+## Art. 10.
+
+Le Centre procède au traitement des données à caractère personnel qui est nécessaire à l’accomplissement de ses missions qui est effectué conformément aux dispositions de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
 <a id="art-n1208d"></a>
 ## Art. 58.
@@ -2073,13 +2143,13 @@ Loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l'�
 
 La loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l'État est modifiée comme suit :
 
-1. À l’article 9, paragraphe 4, la dernière phrase est remplacée comme suit : Sous réserve des conditions définies à l'alinéa 1er, le SRE peut échanger directement des données à caractère personnel avec des services de renseignement étrangers, y compris au moyen d'installations communes de transmission, conformément aux articles 34 et 38 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+- À l’article 9, paragraphe 4, la dernière phrase est remplacée comme suit : Sous réserve des conditions définies à l'alinéa 1er, le SRE peut échanger directement des données à caractère personnel avec des services de renseignement étrangers, y compris au moyen d'installations communes de transmission, conformément aux articles 34 et 38 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
-2. À l’article 10, le paragraphe 1 er est remplacé comme suit : (1)Le SRE procède au traitement de données à caractère personnel qui sont nécessaires à l'accomplissement de ses missions légales qui est effectué conformément aux dispositions de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+- À l’article 10, le paragraphe 1 er est remplacé comme suit : (1) Le SRE procède au traitement de données à caractère personnel qui sont nécessaires à l'accomplissement de ses missions légales qui est effectué conformément aux dispositions de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
-3. À l’article 10, paragraphe 2, l’alinéa 3 est remplacé comme suit : Le SRE transmet sur une base trimestrielle la liste de ses demandes de délivrance et les motifs de ces demandes à l’autorité de contrôle judiciaire prévue à l’article 40 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+- À l’article 10, paragraphe 2, l’alinéa 3 est remplacé comme suit : Le SRE transmet sur une base trimestrielle la liste de ses demandes de délivrance et les motifs de ces demandes à l’autorité de contrôle judiciaire prévue à l’article 40 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
-4. À l’article 10, paragraphe 3, l’alinéa 1 er est remplacé comme suit : Le directeur est responsable du traitement des données visées aux paragraphes 1er et 2. Il désigne un chargé de la protection des données qui est compétent sous son autorité de l'application conforme de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale et de la mise en œuvre des mesures de sécurité des traitements auxquels procède le SRE.
+- À l’article 10, paragraphe 3, l’alinéa 1 er est remplacé comme suit : Le directeur est responsable du traitement des données visées aux paragraphes 1er et 2. Il désigne un chargé de la protection des données qui est compétent sous son autorité de l'application conforme de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale et de la mise en œuvre des mesures de sécurité des traitements auxquels procède le SRE.
 
 <a id="art-n12108"></a>
 ## Art. 59.
@@ -2088,15 +2158,15 @@ Loi du 23 juillet 2016 portant mise en place d'un statut spécifique pour certai
 
 La loi du 23 juillet 2016 portant mise en place d'un statut spécifique pour certaines données à caractère personnel traitées par le Service de renseignement de l'État est modifiée comme suit :
 
-1. À l’article 3, le paragraphe 11 est remplacé comme suit : (11)Pendant l'exercice de la mission des experts, le directeur du Service de renseignement de l'État est le responsable du traitement des données au sens de l'article 2, point 8), de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, et les Archives nationales sont considérées comme sous-traitant du Service de renseignement de l'État au sens de l'article 2, point 9), de la même loi.
+- À l’article 3, le paragraphe 11 est remplacé comme suit : (11) Pendant l'exercice de la mission des experts, le directeur du Service de renseignement de l'État est le responsable du traitement des données au sens de l'article 2, point 8), de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, et les Archives nationales sont considérées comme sous-traitant du Service de renseignement de l'État au sens de l'article 2, point 9), de la même loi.
 
-2. À l’article 3, paragraphe 15, la première est remplacée comme suit : Le rapport final ne peut contenir aucune donnée à caractère personnel ni aucun élément susceptible permettant l'identification d'une personne sauf consentement exprès de la personne concernée, conformément à l’article 6, paragraphe 1, lettre a), du règlement (UE) n° 2016/679.
+- À l’article 3, paragraphe 15, la première est remplacée comme suit : Le rapport final ne peut contenir aucune donnée à caractère personnel ni aucun élément susceptible permettant l'identification d'une personne sauf consentement exprès de la personne concernée, conformément à l’article 6, paragraphe 1, lettre a), du règlement (UE) n° 2016/679.
 
-3. À l’article 4, paragraphe 2, le point 1 est remplacé comme suit : les banques de données historiques recensées au sens de l'article 3, paragraphe 6, point 2, sont versées définitivement aux Archives nationales tel que prévu à l'article 7 de la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l'État et sous réserve des dispositions du règlement (UE) n° 2016/679. Les Archives nationales deviennent responsables de traitement de ces données à partir de la date de versement définitif ;
+- À l’article 4, paragraphe 2, le point 1 est remplacé comme suit : les banques de données historiques recensées au sens de l'article 3, paragraphe 6, point 2, sont versées définitivement aux Archives nationales tel que prévu à l'article 7 de la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l'État et sous réserve des dispositions du règlement (UE) n° 2016/679. Les Archives nationales deviennent responsables de traitement de ces données à partir de la date de versement définitif ;
 
-4. À l’article 5, les paragraphes 1 et 2 sont remplacés comme suit : (1)L’accès d’une personne concernée à des données la concernant pendant l'exercice de la mission des experts s’effectue conformément aux dispositions des articles 13, 14 et 16 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.(2)Des données à caractère personnel, constatées au cours de la mission des experts et couvrant des personnes qui ont déjà introduit une demande d'accès, sont communiquées à la personne concernée conformément aux dispositions visées au paragraphe 1er.
+- À l’article 5, les paragraphes 1 et 2 sont remplacés comme suit : (1) L’accès d’une personne concernée à des données la concernant pendant l'exercice de la mission des experts s’effectue conformément aux dispositions des articles 13, 14 et 16 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale. (2) Des données à caractère personnel, constatées au cours de la mission des experts et couvrant des personnes qui ont déjà introduit une demande d'accès, sont communiquées à la personne concernée conformément aux dispositions visées au paragraphe 1er.
 
-5. À l’article 5, le paragraphe 5 est remplacé comme suit : (5)Dans l'exercice de leur mission, les experts disposent d'un accès intégral aux banques de données historiques du Service de renseignement de l'État ainsi qu'un accès aux données à caractère personnel et traitent ces données conformément au principe de légitimité au sens de l'article 5, paragraphe 1er, lettre b), du règlement (UE) n° 2016/679.
+- À l’article 5, le paragraphe 5 est remplacé comme suit : (5) Dans l'exercice de leur mission, les experts disposent d'un accès intégral aux banques de données historiques du Service de renseignement de l'État ainsi qu'un accès aux données à caractère personnel et traitent ces données conformément au principe de légitimité au sens de l'article 5, paragraphe 1er, lettre b), du règlement (UE) n° 2016/679.
 
 <a id="art-n121b5"></a>
 ## Art. 60.
@@ -2105,20 +2175,22 @@ Loi du 22 février 2018 relative à l’échange de données à caractère perso
 
 La loi du 22 février 2018 relative à l’échange de données à caractère personnel et d’informations en matière policière est modifiée comme suit :
 
-1. À l’article 1 er , point 3), les mots des articles 18 et 19 de la loi modifiée du 2 août 2002 relative à la protection des données à l'égard du traitement des données à caractère personnel sont remplacés par les mots du chapitre V de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale .
+- À l’article 1 er , point 3), les mots des articles 18 et 19 de la loi modifiée du 2 août 2002 relative à la protection des données à l'égard du traitement des données à caractère personnel sont remplacés par les mots du chapitre V de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale .
 
-2. À l’article 25, le paragraphe 2 est remplacé comme suit : (2)La transmission des données et informations se fait dans une forme permettant à la Commission nationale pour la protection des données de vérifier si toutes les conditions requises par la loi étaient remplies au moment de la transmission. La documentation de la transmission est conservée pendant une durée de deux ans.
+- À l’article 25, le paragraphe 2 est remplacé comme suit : (2) La transmission des données et informations se fait dans une forme permettant à la Commission nationale pour la protection des données de vérifier si toutes les conditions requises par la loi étaient remplies au moment de la transmission. La documentation de la transmission est conservée pendant une durée de deux ans.
 
-3. À l’article 26, le paragraphe 1 er est remplacé comme suit : (1)Les données et informations transmises à l’administration de l’État concernée font partie du traitement des données à caractère personnel dont l’administration ou son représentant est le responsable du traitement au sens de l’article 4, point 7), du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données). La Commission nationale pour la protection des données est compétente pour vérifier l’application des dispositions du règlement précité et de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+- À l’article 26, le paragraphe 1 er est remplacé comme suit : (1) Les données et informations transmises à l’administration de l’État concernée font partie du traitement des données à caractère personnel dont l’administration ou son représentant est le responsable du traitement au sens de l’article 4, point 7), du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données). La Commission nationale pour la protection des données est compétente pour vérifier l’application des dispositions du règlement précité et de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
-4. L’article 28 est remplacé comme suit : La Commission nationale pour la protection des données contrôle et surveille le respect des conditions d'accès prévues par la présente loi. Le rapport à transmettre au ministre ayant la Protection des données dans ses attributions, en exécution de l’article 10 de la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données, contient une partie spécifique ayant trait à l’exécution de sa mission de contrôle exercée au titre de la présente loi.
+- L’article 28 est remplacé comme suit : La Commission nationale pour la protection des données contrôle et surveille le respect des conditions d'accès prévues par la présente loi. Le rapport à transmettre au ministre ayant la Protection des données dans ses attributions, en exécution de l’article 10 de la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données, contient une partie spécifique ayant trait à l’exécution de sa mission de contrôle exercée au titre de la présente loi.
 
 <a id="art-n1223b"></a>
 ## Art. 61.
 
 Loi du 18 juillet 2018 sur la Police grand-ducale
 
-À l’article 43 de la loi du 18 juillet 2018 sur la Police grand-ducale, l’alinéa 6 est remplacé comme suit :L’autorité de contrôle prévue à l’article 2, paragraphe 1er, point 15), lettre a), de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale contrôle et surveille le respect des conditions d’accès prévues par le présent article. Le rapport à transmettre au ministre ayant la Protection des données dans ses attributions, en exécution de l’article 10 de la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données, contient une partie spécifique ayant trait à l’exécution de sa mission de contrôle exercée au titre du présent article.
+À l’article 43 de la loi du 18 juillet 2018 sur la Police grand-ducale, l’alinéa 6 est remplacé comme suit :
+
+L’autorité de contrôle prévue à l’article 2, paragraphe 1er, point 15), lettre a), de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale contrôle et surveille le respect des conditions d’accès prévues par le présent article. Le rapport à transmettre au ministre ayant la Protection des données dans ses attributions, en exécution de l’article 10 de la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données, contient une partie spécifique ayant trait à l’exécution de sa mission de contrôle exercée au titre du présent article.
 
 <a id="art-n12272"></a>
 ## Art. 62.
@@ -2127,9 +2199,9 @@ Loi du 18 juillet 2018 sur l’Inspection générale de la Police
 
 L’article 15 de la loi du 18 juillet 2018 sur l’Inspection générale de la Police est modifié comme suit :
 
-1. Le paragraphe 3 est remplacé comme suit : (3)Dans le cadre des missions énoncées aux articles 4, 7 et 9, l’IGP a accès aux données retraçant les accès aux traitements des données à caractère personnel dont le responsable du traitement est le directeur général de la Police.
+- Le paragraphe 3 est remplacé comme suit : (3) Dans le cadre des missions énoncées aux articles 4, 7 et 9, l’IGP a accès aux données retraçant les accès aux traitements des données à caractère personnel dont le responsable du traitement est le directeur général de la Police.
 
-2. Le paragraphe 6 est remplacé comme suit : (6)L’autorité de contrôle prévue à l’article 2, paragraphe 1er, point 15), lettre a), de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale contrôle et surveille le respect des conditions d’accès prévues par le présent article. Le rapport à transmettre au ministre ayant la Protection des données dans ses attributions, en exécution de l’article 10 de la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données, contient une partie spécifique ayant trait à l’exécution de sa mission de contrôle exercée au titre du présent article.
+- Le paragraphe 6 est remplacé comme suit : (6) L’autorité de contrôle prévue à l’article 2, paragraphe 1er, point 15), lettre a), de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale contrôle et surveille le respect des conditions d’accès prévues par le présent article. Le rapport à transmettre au ministre ayant la Protection des données dans ses attributions, en exécution de l’article 10 de la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données, contient une partie spécifique ayant trait à l’exécution de sa mission de contrôle exercée au titre du présent article.
 
 ##### Section 2 Dispositions transitoires, mise en conformité et intitulé de citation
 
@@ -2167,27 +2239,27 @@ La présente loi règle le transfert, par les transporteurs aériens, des donné
 
 Pour l’application de la présente loi, on entend par :
 
-1. « transporteur aérien » : toute entreprise de transport aérien possédant une licence d'exploitation en cours de validité ou l'équivalent lui permettant d'assurer le transport aérien de personnes ;
+- « transporteur aérien » : toute entreprise de transport aérien possédant une licence d'exploitation en cours de validité ou l'équivalent lui permettant d'assurer le transport aérien de personnes ;
 
-2. « passager » : toute personne, y compris une personne en correspondance ou en transit et à l'exception du personnel d'équipage, transportée ou devant être transportée par un aéronef avec le consentement du transporteur aérien, lequel se traduit par l'inscription de cette personne sur la liste des passagers ;
+- « passager » : toute personne, y compris une personne en correspondance ou en transit et à l'exception du personnel d'équipage, transportée ou devant être transportée par un aéronef avec le consentement du transporteur aérien, lequel se traduit par l'inscription de cette personne sur la liste des passagers ;
 
-3. « dossier passager » : le dossier relatif aux conditions de voyage de chaque passager, qui contient les informations nécessaires pour permettre le traitement et le contrôle des réservations par les transporteurs aériens concernés qui assurent les réservations, pour chaque voyage réservé par une personne ou en son nom, que ce dossier figure dans des systèmes de réservation, des systèmes de contrôle des départs utilisés pour contrôler les passagers lors de l’embarquement ou des systèmes équivalents offrant les mêmes fonctionnalités ;
+- « dossier passager » : le dossier relatif aux conditions de voyage de chaque passager, qui contient les informations nécessaires pour permettre le traitement et le contrôle des réservations par les transporteurs aériens concernés qui assurent les réservations, pour chaque voyage réservé par une personne ou en son nom, que ce dossier figure dans des systèmes de réservation, des systèmes de contrôle des départs utilisés pour contrôler les passagers lors de l’embarquement ou des systèmes équivalents offrant les mêmes fonctionnalités ;
 
-4. « système de réservation » : le système interne du transporteur aérien, dans lequel les données PNR sont recueillies aux fins du traitement des réservations ;
+- « système de réservation » : le système interne du transporteur aérien, dans lequel les données PNR sont recueillies aux fins du traitement des réservations ;
 
-5. « système de contrôle des départs » : le système utilisé pour contrôler les passagers lors de l’embarquement ;
+- « système de contrôle des départs » : le système utilisé pour contrôler les passagers lors de l’embarquement ;
 
-6. « données PNR » : les données contenues dans le dossier passager et énumérées à l’annexe I ;
+- « données PNR » : les données contenues dans le dossier passager et énumérées à l’annexe I ;
 
-7. « méthode push » : la méthode par laquelle les transporteurs aériens transfèrent les données PNR vers la base de données de l'Unité d’informations passagers telle que créée à l’article 3 ;
+- « méthode push » : la méthode par laquelle les transporteurs aériens transfèrent les données PNR vers la base de données de l'Unité d’informations passagers telle que créée à l’article 3 ;
 
-8. « infractions terroristes » : les infractions visées au Livre II, Titre 1 ier , Chapitre III-1 du Code pénal ;
+- « infractions terroristes » : les infractions visées au Livre II, Titre 1 ier , Chapitre III-1 du Code pénal ;
 
-9. « formes graves de criminalité » : les infractions énumérées à l'annexe II qui sont passibles d’une peine privative de liberté d’une durée maximale d’au moins trois ans ;
+- « formes graves de criminalité » : les infractions énumérées à l'annexe II qui sont passibles d’une peine privative de liberté d’une durée maximale d’au moins trois ans ;
 
-10. « dépersonnaliser par le masquage d'éléments des données » : rendre invisibles pour un utilisateur les éléments des données qui pourraient servir à identifier directement la personne concernée ;
+- « dépersonnaliser par le masquage d'éléments des données » : rendre invisibles pour un utilisateur les éléments des données qui pourraient servir à identifier directement la personne concernée ;
 
-11. « services compétents » : les services visés à l’article 13.
+- « services compétents » : les services visés à l’article 13.
 
 #### Chapitre 2 Unité d’informations passagers
 
@@ -2196,11 +2268,11 @@ Pour l’application de la présente loi, on entend par :
 
 Il est créé au sein de la Police grand-ducale une Unité d’informations passagers, ci-après désignée « UIP », qui est chargée :
 
-1. de la collecte des données PNR transférées par les transporteurs aériens ainsi que de la conservation et du traitement de ces données ;
+- de la collecte des données PNR transférées par les transporteurs aériens ainsi que de la conservation et du traitement de ces données ;
 
-2. du transfert de ces données et des résultats de leur traitement aux services compétents ;
+- du transfert de ces données et des résultats de leur traitement aux services compétents ;
 
-3. de l’échange de ces données et des résultats de leur traitement avec les unités d’informations passagers des autres États membres de l’Union européenne, avec Europol et avec les pays tiers.
+- de l’échange de ces données et des résultats de leur traitement avec les unités d’informations passagers des autres États membres de l’Union européenne, avec Europol et avec les pays tiers.
 
 La Police grand-ducale a la qualité de responsable du traitement des données PNR.
 
@@ -2233,9 +2305,9 @@ Lorsqu’il s’agit d’un vol en partage de code entre un ou plusieurs transpo
 
 Les transporteurs aériens transfèrent les données PNR à l’UIP à chacune des échéances suivantes :
 
-1. 48 heures avant l’heure de départ programmée du vol ;
+- 48 heures avant l’heure de départ programmée du vol ;
 
-2. immédiatement après la clôture du vol, c'est-à-dire dès que les passagers ont embarqué à bord de l'aéronef prêt à partir et qu'ils ne peuvent plus embarquer ou débarquer.
+- immédiatement après la clôture du vol, c'est-à-dire dès que les passagers ont embarqué à bord de l'aéronef prêt à partir et qu'ils ne peuvent plus embarquer ou débarquer.
 
 Le transfert visé à l’alinéa 1er, point 2°, peut se limiter à une mise à jour du transfert visé à l’alinéa 1er, point 1°.
 
@@ -2285,9 +2357,9 @@ L’UIP traite les données PNR en vue de réaliser une évaluation des passager
 
 Pour réaliser cette évaluation l’UIP peut comparer les données PNR :
 
-1. aux traitements de données à caractère personnel mis en œuvre par les services compétents ou qui leur sont accessibles dans l’exercice de leurs missions ;
+- aux traitements de données à caractère personnel mis en œuvre par les services compétents ou qui leur sont accessibles dans l’exercice de leurs missions ;
 
-2. à des critères préétablis.
+- à des critères préétablis.
 
 L’évaluation des passagers au regard de critères préétablis est réalisée de façon non discriminatoire. Les critères sont fixés et réexaminés à des intervalles réguliers par l’UIP en coopération avec les services compétents. Ils doivent être ciblés, proportionnés et spécifiques et ne sont en aucun cas fondés sur l'origine raciale ou ethnique d'une personne, ses opinions politiques, sa religion ou ses convictions philosophiques, son appartenance à un syndicat, son état de santé, sa vie sexuelle ou son orientation sexuelle.
 
@@ -2324,11 +2396,11 @@ L’UIP traite les données PNR aux fins de répondre aux demandes des services 
 
 Sont habilités à demander à l’UIP ou à recevoir de celle-ci des données PNR ou le résultat du traitement de ces données, en vue de procéder à un examen approfondi de ces informations ou de prendre les mesures appropriées aux fins de la prévention et de la détection d’infractions terroristes ou des formes graves de criminalité, ainsi que des enquêtes et poursuites en la matière :
 
-1. la Police grand-ducale ;
+- la Police grand-ducale ;
 
-2. le Service de renseignement de l’État conformément à l’article 5, paragraphe 4, de la loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l’État ;
+- le Service de renseignement de l’État conformément à l’article 5, paragraphe 4, de la loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l’État ;
 
-3. l’Administration des douanes et accises.
+- l’Administration des douanes et accises.
 
 En recherchant les crimes et délits visés à l’article 2, points 8° et 9°, le procureur d’État peut, par une décision écrite et motivée, charger un officier de police judiciaire de requérir l’UIP afin de communiquer les données des passagers conformément à l’article 12.
 
@@ -2399,9 +2471,9 @@ La langue utilisée pour la demande et l’échange des données est celle appli
 
 Dans les limites de ses compétences et pour l’accomplissement de ses missions, Europol peut présenter à l’UIP, au cas par cas, par l’intermédiaire de son unité nationale, une demande électronique dûment motivée visant à obtenir des données PNR spécifiques ou le résultat du traitement de ces données :
 
-1. lorsque cela est strictement nécessaire au soutien et au renforcement de l’action des États membres en vue de prévenir ou de détecter une infraction terroriste spécifique ou une forme grave de criminalité spécifique, ou de mener des enquêtes dans la matière et ;
+- lorsque cela est strictement nécessaire au soutien et au renforcement de l’action des États membres en vue de prévenir ou de détecter une infraction terroriste spécifique ou une forme grave de criminalité spécifique, ou de mener des enquêtes dans la matière et ;
 
-2. dans la mesure où ladite infraction relève de la compétence d’Europol.
+- dans la mesure où ladite infraction relève de la compétence d’Europol.
 
 (2)
 
@@ -2414,15 +2486,15 @@ La demande énonce les motifs sur lesquels s’appuie Europol pour estimer que l
 
 L’UIP peut transférer des données PNR et le résultat de traitement de ces données à un pays non membre de l’Union européenne au cas par cas, et si :
 
-1. l’une des conditions prévues à l’article 34, paragraphe 1 er , point d) de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale est remplie ;
+- l’une des conditions prévues à l’article 34, paragraphe 1 er , point d) de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale est remplie ;
 
-2. l’autorité destinataire est chargée de la prévention, recherche, constatation et poursuite d’infractions terroristes ou de formes graves de criminalité ;
+- l’autorité destinataire est chargée de la prévention, recherche, constatation et poursuite d’infractions terroristes ou de formes graves de criminalité ;
 
-3. le transfert est nécessaire aux fins telles que définies à l’article 1 er ;
+- le transfert est nécessaire aux fins telles que définies à l’article 1 er ;
 
-4. le pays tiers n'accepte de transférer les données à un autre pays tiers que lorsque cela est strictement nécessaire aux fins telles que définies à l’article 1 er ;
+- le pays tiers n'accepte de transférer les données à un autre pays tiers que lorsque cela est strictement nécessaire aux fins telles que définies à l’article 1 er ;
 
-5. les conditions prévues à l’article 17, paragraphe 1 er sont remplies.
+- les conditions prévues à l’article 17, paragraphe 1 er sont remplies.
 
 Les dispositions du présent article ne portent pas atteinte aux dispositions légales sur l’entraide judiciaire internationale en matière pénale.
 
@@ -2437,9 +2509,9 @@ Sans préjudice des conditions prévues à l’article 21, l’UIP ne peut trans
 
 Dans des circonstances exceptionnelles, les données PNR peuvent être transférées à un pays non membre de l’Union européenne sans l’accord du pays membre de l’Union européenne auprès duquel les données ont été collectées si les conditions suivantes sont remplies :
 
-1. ces transferts sont essentiels pour répondre à une menace précise et réelle liée à une infraction terroriste ou à une forme grave de criminalité dans un État membre de l’Union européenne ou un pays tiers ;
+- ces transferts sont essentiels pour répondre à une menace précise et réelle liée à une infraction terroriste ou à une forme grave de criminalité dans un État membre de l’Union européenne ou un pays tiers ;
 
-2. l’accord préalable n’a pas pu être obtenu en temps utile.
+- l’accord préalable n’a pas pu être obtenu en temps utile.
 
 L’UIP de l’État membre de l’Union européenne, qui n’a pas pu donner son accord en temps utile, est informée sans retard et le transfert est dûment enregistré et soumis à une vérification à posteriori.
 
@@ -2469,25 +2541,25 @@ L’UIP conserve les données PNR pendant une durée maximale de cinq ans à com
 
 À l'expiration d'une période de six mois à compter du transfert par le transporteur aérien, l’UIP dépersonnalise les données PNR par le masquage des éléments suivants :
 
-1. le(s) nom(s), y compris les noms d'autres passagers mentionnés dans le PNR, ainsi que le nombre de passagers voyageant ensemble figurant dans le PNR ;
+- le(s) nom(s), y compris les noms d'autres passagers mentionnés dans le PNR, ainsi que le nombre de passagers voyageant ensemble figurant dans le PNR ;
 
-2. l'adresse et les coordonnées ;
+- l'adresse et les coordonnées ;
 
-3. des informations sur tous les modes de paiement, y compris l'adresse de facturation, dans la mesure où y figurent des informations pouvant servir à identifier directement le passager auquel le PNR se rapporte ou toute autre personne ;
+- des informations sur tous les modes de paiement, y compris l'adresse de facturation, dans la mesure où y figurent des informations pouvant servir à identifier directement le passager auquel le PNR se rapporte ou toute autre personne ;
 
-4. les informations « grands voyageurs » ;
+- les informations « grands voyageurs » ;
 
-5. les remarques générales, dans la mesure où elles comportent des informations qui pourraient servir à identifier directement le passager auquel le PNR se rapporte ;
+- les remarques générales, dans la mesure où elles comportent des informations qui pourraient servir à identifier directement le passager auquel le PNR se rapporte ;
 
-6. toute donnée API qui a été recueillie.
+- toute donnée API qui a été recueillie.
 
 (2)
 
 À l'expiration de la période de six mois visée au paragraphe 1er, la communication de l'intégralité des données PNR n'est autorisée que sous les conditions suivantes :
 
-1. elle est nécessaire aux fins visées à l’article 12 ;
+- elle est nécessaire aux fins visées à l’article 12 ;
 
-2. elle a été approuvée par le procureur général d’État ou son délégué ou, si les données sont destinées à être communiquées au Service de renseignement de l’État, par la commission spéciale prévue à l’article 7 de la loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l’État.
+- elle a été approuvée par le procureur général d’État ou son délégué ou, si les données sont destinées à être communiquées au Service de renseignement de l’État, par la commission spéciale prévue à l’article 7 de la loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l’État.
 
 <a id="art-n12be2"></a>
 ## Art. 27.
@@ -2539,15 +2611,15 @@ Sans préjudice de l’article 23 du Code de procédure pénale, si le délégu�
 
 L’UIP met à la disposition du public, par les moyens de communication appropriés, les informations suivantes :
 
-1. ses coordonnées ;
+- ses coordonnées ;
 
-2. les coordonnées du délégué à la protection des données ;
+- les coordonnées du délégué à la protection des données ;
 
-3. les finalités du traitement auquel sont destinées les données PNR ;
+- les finalités du traitement auquel sont destinées les données PNR ;
 
-4. le droit d’introduire une réclamation auprès de la Commission nationale pour la protection des données et les coordonnées de cette autorité ;
+- le droit d’introduire une réclamation auprès de la Commission nationale pour la protection des données et les coordonnées de cette autorité ;
 
-5. l’existence du droit de demander au responsable de l’UIP l’accès aux données PNR, leur rectification ou leur effacement, et la limitation du traitement des données PNR relatives à une personne concernée.
+- l’existence du droit de demander au responsable de l’UIP l’accès aux données PNR, leur rectification ou leur effacement, et la limitation du traitement des données PNR relatives à une personne concernée.
 
 <a id="art-n12d68"></a>
 ## Art. 31.
@@ -2579,11 +2651,11 @@ L’UIP conserve une trace documentaire relative à tous les systèmes et procé
 
 Cette documentation comprend :
 
-1. le nom et les coordonnées du service et du personnel chargés du traitement des données PNR au sein de l’UIP et les différentes autorisations d’accès ;
+- le nom et les coordonnées du service et du personnel chargés du traitement des données PNR au sein de l’UIP et les différentes autorisations d’accès ;
 
-2. les demandes formulées par les services compétents et les UIP des autres États membres de l’Union européenne ;
+- les demandes formulées par les services compétents et les UIP des autres États membres de l’Union européenne ;
 
-3. toutes les demandes et tous les transferts de données PNR vers un pays tiers.
+- toutes les demandes et tous les transferts de données PNR vers un pays tiers.
 
 L’UIP met toute la documentation à la disposition de l'autorité de contrôle, à la demande de celle-ci.
 
@@ -2638,7 +2710,15 @@ La décision du ministre qui est motivée est susceptible d’un recours en réf
 <a id="art-n12feb"></a>
 ## Art. 39.
 
-Dans l’article 5 de la loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l’Etat, il est inséré un paragraphe 4 libellé comme suit :(4)Pour un ou plusieurs faits qui ont trait à des activités de terrorisme, d’espionnage, de prolifération d’armes de destruction massive ou de produits liés à la défense et des technologies y afférentes, ou de cyber-menace dans la mesure où celle-ci est liée aux activités précitées, le SRE peut demander la communication des données PNR visées à l’article 10, paragraphe 4, et à l’article 12, de la loi du 1er août 2018 relative au traitement des données des dossiers passagers dans le cadre de la prévention et de la répression du terrorisme et de la criminalité grave.Le directeur du SRE rapporte tous les mois par écrit au Comité la liste des consultations des données des passagers ainsi que les motifs spécifiques pour lesquels l’exercice des missions a exigé la demande de communication.En cas d’urgence, la demande de communication des données PNR peut être mise en œuvre sur autorisation verbale du directeur, à confirmer par écrit dans un délai de quarante-huit heures.
+Dans l’article 5 de la loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l’Etat, il est inséré un paragraphe 4 libellé comme suit :
+
+(4)
+
+Pour un ou plusieurs faits qui ont trait à des activités de terrorisme, d’espionnage, de prolifération d’armes de destruction massive ou de produits liés à la défense et des technologies y afférentes, ou de cyber-menace dans la mesure où celle-ci est liée aux activités précitées, le SRE peut demander la communication des données PNR visées à l’article 10, paragraphe 4, et à l’article 12, de la loi du 1er août 2018 relative au traitement des données des dossiers passagers dans le cadre de la prévention et de la répression du terrorisme et de la criminalité grave.
+
+Le directeur du SRE rapporte tous les mois par écrit au Comité la liste des consultations des données des passagers ainsi que les motifs spécifiques pour lesquels l’exercice des missions a exigé la demande de communication.
+
+En cas d’urgence, la demande de communication des données PNR peut être mise en œuvre sur autorisation verbale du directeur, à confirmer par écrit dans un délai de quarante-huit heures.
 
 <a id="art-n1304f"></a>
 ## Art. 40.
@@ -2651,6 +2731,96 @@ Dans l’article 5 de la loi du 5 juillet 2016 portant réorganisation du Servic
 ## Art. 41.
 
 La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant : « Loi du 1er août 2018 relative au traitement des données des dossiers passagers ».
+
+- Code repère du dossier passager ;
+
+- Date de réservation/d'émission du billet ;
+
+- Date(s) prévue(s) du voyage ;
+
+- Nom(s) ;
+
+- Adresse et coordonnées (numéro de téléphone, adresse électronique) ;
+
+- Toutes les informations relatives aux modes de paiement, y compris l'adresse de facturation ;
+
+- Itinéraire complet pour le PNR concerné ;
+
+- Informations « grands voyageurs » ;
+
+- Agence de voyages/agent de voyages ;
+
+- Statut du voyageur, y compris les confirmations, l'enregistrement, la non-présentation ou un passager de dernière minute sans réservation ;
+
+- Indications concernant la scission/division du PNR ;
+
+- Remarques générales (notamment toutes les informations disponibles sur les mineurs non accompagnés de moins de 18 ans, telles que le nom et le sexe du mineur, son âge, la ou les langues parlées, le nom et les coordonnées du tuteur présent au départ et son lien avec le mineur, le nom et les coordonnées du tuteur présent à l'arrivée et son lien avec le mineur, l'agent présent au départ et à l'arrivée) ;
+
+- Informations sur l'établissement des billets, y compris le numéro du billet, la date d'émission, les allers simples, les champs de billets informatisés relatifs à leur prix ;
+
+- Numéro du siège et autres informations concernant le siège ;
+
+- Informations sur le partage de code ;
+
+- Toutes les informations relatives aux bagages ;
+
+- Nombre et autres noms de voyageurs figurant dans le PNR ;
+
+- Toute information préalable sur les passagers (données API) qui a été recueillie (y compris le type, le numéro, le pays de délivrance et la date d'expiration de tout document d'identité, la nationalité, le nom de famille, le prénom, le sexe, la date de naissance, la compagnie aérienne, le numéro de vol, la date de départ, la date d'arrivée, l'aéroport de départ, l'aéroport d'arrivée, l'heure de départ et l'heure d'arrivée) ;
+
+- Historique complet des modifications des données PNR énumérées aux points 1 à 18.
+
+- Participation à une organisation criminelle ;
+
+- Traite des êtres humains ;
+
+- Exploitation sexuelle des enfants et pédopornographie ;
+
+- Trafic de stupéfiants et de substances psychotropes ;
+
+- Trafic d'armes, de munitions et d'explosifs ;
+
+- Corruption ;
+
+- Fraude, y compris la fraude portant atteinte aux intérêts financiers de l'Union ;
+
+- Blanchiment du produit du crime et faux monnayage, y compris la contrefaçon de l'euro ;
+
+- Cybercriminalité ;
+
+- Infractions graves contre l'environnement, y compris le trafic d'espèces animales menacées et le trafic d'espèces et d'essences végétales menacées ;
+
+- Aide à l'entrée et au séjour irréguliers ;
+
+- Meurtre, coups et blessures graves ;
+
+- Trafic d'organes et de tissus humains ;
+
+- Enlèvement, séquestration et prise d'otage ;
+
+- Vol organisé ou vol à main armée ;
+
+- Trafic de biens culturels, y compris d'antiquités et d'œuvres d'art ;
+
+- Contrefaçon et piratage de produits ;
+
+- Falsification de documents administratifs et trafic de faux ;
+
+- Trafic de substances hormonales et d'autres facteurs de croissance ;
+
+- Trafic de matières nucléaires et radioactives ;
+
+- Viol ;
+
+- Infractions graves relevant de la Cour pénale internationale ;
+
+- Détournement d'avion/de navire ;
+
+- Sabotage ;
+
+- Trafic de véhicules volés ;
+
+- Espionnage industriel.
 
 ## Version consolidée applicable au 25/12/2020 : Loi modifiée du 30 mai 2005 - relative aux dispositions spécifiques de protection de la personne à l’égard du traitement des données à caractère personnel dans le secteur des communications électroniques et - portant modification des articles 88-2 et 88-4 du Code d’instruction criminelle.
 
@@ -2668,33 +2838,33 @@ Définitions
 
 Aux fins de la présente loi on entend par:
 
-1. «abonné»: une personne physique ou morale partie à un contrat avec une entreprise offrant des services de communications électroniques accessibles au public, pour la fourniture de tels services;
+- «abonné»: une personne physique ou morale partie à un contrat avec une entreprise offrant des services de communications électroniques accessibles au public, pour la fourniture de tels services;
 
-2. (abrogé)
+- (abrogé)
 
-3. (b) «consentement»: toute manifestation de volonté libre, spécifique et informée par laquelle la personne concernée ou son représentant légal, judiciaire ou statutaire accepte que les données à caractère personnel la concernant fassent l’objet d’un traitement;
+- (b) «consentement»: toute manifestation de volonté libre, spécifique et informée par laquelle la personne concernée ou son représentant légal, judiciaire ou statutaire accepte que les données à caractère personnel la concernant fassent l’objet d’un traitement;
 
-4. (c) «communication»: toute information échangée ou acheminée entre un nombre fini de parties au moyen d’un service de communications électroniques accessible au public à l’exception des informations qui sont acheminées dans le cadre d’un service de radiodiffusion au public par l’intermédiaire d’un réseau de communications électroniques sauf si et dans la mesure où un lien peut être établi entre l’information et l’abonné ou l’utilisateur identifiable qui la reçoit;
+- (c) «communication»: toute information échangée ou acheminée entre un nombre fini de parties au moyen d’un service de communications électroniques accessible au public à l’exception des informations qui sont acheminées dans le cadre d’un service de radiodiffusion au public par l’intermédiaire d’un réseau de communications électroniques sauf si et dans la mesure où un lien peut être établi entre l’information et l’abonné ou l’utilisateur identifiable qui la reçoit;
 
-5. (d) «courrier électronique»: tout message sous forme de texte, de voix, de son ou d’image envoyé par un réseau de communications public qui peut être stocké dans le réseau ou dans l’équipement terminal du destinataire jusqu’à ce que ce dernier le récupère;
+- (d) «courrier électronique»: tout message sous forme de texte, de voix, de son ou d’image envoyé par un réseau de communications public qui peut être stocké dans le réseau ou dans l’équipement terminal du destinataire jusqu’à ce que ce dernier le récupère;
 
-6. (e) «données relatives au trafic»: toutes les données traitées en vue de l’acheminement d’une communication par un réseau de communications électroniques ou de sa facturation;
+- (e) «données relatives au trafic»: toutes les données traitées en vue de l’acheminement d’une communication par un réseau de communications électroniques ou de sa facturation;
 
-7. (f) «données de localisation»: toutes les données traitées dans un réseau de communications électroniques ou par un service de communications électroniques indiquant la position géographique de l’équipement terminal d’un utilisateur d’un service de communications électroniques accessible au public;
+- (f) «données de localisation»: toutes les données traitées dans un réseau de communications électroniques ou par un service de communications électroniques indiquant la position géographique de l’équipement terminal d’un utilisateur d’un service de communications électroniques accessible au public;
 
-8. (g) «Institut»: l’Institut Luxembourgeois de Régulation;
+- (g) «Institut»: l’Institut Luxembourgeois de Régulation;
 
-9. (h) «réseau de communications électroniques»: les systèmes de transmission et, le cas échéant, les équipements de commutation ou de routage et les autres ressources qui permettent l’acheminement de signaux par câble, par voie hertzienne, par moyen optique ou par d’autres moyens électromagnétiques comprenant les réseaux satellitaires, les réseaux terrestres fixes (avec commutation de circuits ou de paquets, y compris l’Internet) et mobiles, les systèmes utilisant le réseau électrique, pour autant qu’ils servent à la transmission de signaux, les réseaux utilisés pour la radiodiffusion sonore et télévisuelle et les réseaux câblés de télévision, quel que soit le type d’information transmise;
+- (h) «réseau de communications électroniques»: les systèmes de transmission et, le cas échéant, les équipements de commutation ou de routage et les autres ressources qui permettent l’acheminement de signaux par câble, par voie hertzienne, par moyen optique ou par d’autres moyens électromagnétiques comprenant les réseaux satellitaires, les réseaux terrestres fixes (avec commutation de circuits ou de paquets, y compris l’Internet) et mobiles, les systèmes utilisant le réseau électrique, pour autant qu’ils servent à la transmission de signaux, les réseaux utilisés pour la radiodiffusion sonore et télévisuelle et les réseaux câblés de télévision, quel que soit le type d’information transmise;
 
-10. (i) «réseau de communications public»: un réseau de communications électroniques utilisé entièrement ou principalement pour la fourniture de services de communications électroniques accessibles au public. Le fournisseur du réseau de communications public est dénommé ci-après «opérateur»;
+- (i) «réseau de communications public»: un réseau de communications électroniques utilisé entièrement ou principalement pour la fourniture de services de communications électroniques accessibles au public. Le fournisseur du réseau de communications public est dénommé ci-après «opérateur»;
 
-11. (j) «service de communications électroniques»: un service fourni normalement contre rémunération qui consiste entièrement ou principalement en la transmission de signaux sur les réseaux de communications électroniques, y compris les services de télécommunications et les services de transmission sur des réseaux utilisés pour la radiodiffusion, mais qui exclut les services consistant à fournir des contenus à l’aide de réseaux et de services de communications électroniques ou à exercer une responsabilité éditoriale sur ces contenus; il ne comprend pas les services de la société de l’information qui ne consistent pas entièrement ou principalement en la transmission de signaux sur des réseaux de communications électroniques. Le fournisseur de services de communications électroniques est dénommé ci-après «fournisseur de services»;
+- (j) «service de communications électroniques»: un service fourni normalement contre rémunération qui consiste entièrement ou principalement en la transmission de signaux sur les réseaux de communications électroniques, y compris les services de télécommunications et les services de transmission sur des réseaux utilisés pour la radiodiffusion, mais qui exclut les services consistant à fournir des contenus à l’aide de réseaux et de services de communications électroniques ou à exercer une responsabilité éditoriale sur ces contenus; il ne comprend pas les services de la société de l’information qui ne consistent pas entièrement ou principalement en la transmission de signaux sur des réseaux de communications électroniques. Le fournisseur de services de communications électroniques est dénommé ci-après «fournisseur de services»;
 
-12. (k) «service à valeur ajoutée»: tout service qui exige le traitement de données relatives au trafic ou à la localisation, à l’exclusion des données qui ne sont pas indispensables pour la transmission d’une communication ou sa facturation;
+- (k) «service à valeur ajoutée»: tout service qui exige le traitement de données relatives au trafic ou à la localisation, à l’exclusion des données qui ne sont pas indispensables pour la transmission d’une communication ou sa facturation;
 
-13. (l) «utilisateur»: une personne physique ou morale qui utilise ou demande un service de communications électroniques accessible au public à des fins privées ou professionnelles sans être nécessairement abonnée à ce service;
+- (l) «utilisateur»: une personne physique ou morale qui utilise ou demande un service de communications électroniques accessible au public à des fins privées ou professionnelles sans être nécessairement abonnée à ce service;
 
-14. «violation de données à caractère personnel»: une violation de la sécurité entraînant accidentellement ou de manière illicite la destruction, la perte, l’altération, la divulgation ou l’accès non autorisés de données à caractère personnel transmises, stockées ou traitées d’une autre manière en relation avec la fourniture de services de communications électroniques accessibles au public.
+- «violation de données à caractère personnel»: une violation de la sécurité entraînant accidentellement ou de manière illicite la destruction, la perte, l’altération, la divulgation ou l’accès non autorisés de données à caractère personnel transmises, stockées ou traitées d’une autre manière en relation avec la fourniture de services de communications électroniques accessibles au public.
 
 <a id="art-n13337"></a>
 ## Art. 3.
@@ -2762,15 +2932,15 @@ Il est interdit à toute autre personne que l’utilisateur concerné d’écout
 
 Le paragraphe (2):
 
-1. n’empêche pas le stockage technique nécessaire à l’acheminement d’une communication, sans préjudice du principe de confidentialité;
+- n’empêche pas le stockage technique nécessaire à l’acheminement d’une communication, sans préjudice du principe de confidentialité;
 
-2. ne s’applique pas aux autorités judiciaires agissant dans le cadre des compétences leur attribuées par la loi et celles compétentes en vertu des articles 88-1 à 88-4 du Code d’instruction criminelle pour sauvegarder la sûreté de l’Etat, la défense, la sécurité publique et pour la prévention, la recherche, la constatation et la poursuite des infractions pénales;
+- ne s’applique pas aux autorités judiciaires agissant dans le cadre des compétences leur attribuées par la loi et celles compétentes en vertu des articles 88-1 à 88-4 du Code d’instruction criminelle pour sauvegarder la sûreté de l’Etat, la défense, la sécurité publique et pour la prévention, la recherche, la constatation et la poursuite des infractions pénales;
 
-3. ne s’applique pas aux communications et aux données relatives au trafic y afférentes, effectuées à destination du numéro d’appel d’urgence unique européen 112 et des numéros d’urgence déterminés par l’Institut dans le seul but de permettre (a) la réécoute de messages lors de problèmes de compréhension ou d’ambiguïté entre l’appelant et l’appelé, (b) la documentation de fausses alertes, de menaces et d’appels abusifs et (c) la production de preuves lors de contestation sur le déroulement d’actions de secours. Les données relatives au trafic afférentes aux communications visées ci-dessus, y compris les données de localisation, sont à effacer une fois le secours apporté. Le contenu des communications est à effacer après un délai de 6 mois au plus;
+- ne s’applique pas aux communications et aux données relatives au trafic y afférentes, effectuées à destination du numéro d’appel d’urgence unique européen 112 et des numéros d’urgence déterminés par l’Institut dans le seul but de permettre (a) la réécoute de messages lors de problèmes de compréhension ou d’ambiguïté entre l’appelant et l’appelé, (b) la documentation de fausses alertes, de menaces et d’appels abusifs et (c) la production de preuves lors de contestation sur le déroulement d’actions de secours. Les données relatives au trafic afférentes aux communications visées ci-dessus, y compris les données de localisation, sont à effacer une fois le secours apporté. Le contenu des communications est à effacer après un délai de 6 mois au plus;
 
-4. n’affecte pas l’enregistrement de communications et des données relatives au trafic y afférentes, lorsqu’il est effectué dans le cadre des usages professionnels licites, afin de fournir la preuve d’une transaction commerciale ou de toute autre communication commerciale. Les parties aux transactions ou à toutes autres communications commerciales sont informées au préalable de ce que des enregistrements sont susceptibles d’être effectués, de la ou des raisons pour lesquelles les communications sont enregistrées et de la durée de conservation maximale des enregistrements. Les communications enregistrées sont à effacer dès que la finalité est atteinte, et en tout état de cause, lors de l’expiration du délai légal de recours contre la transaction;
+- n’affecte pas l’enregistrement de communications et des données relatives au trafic y afférentes, lorsqu’il est effectué dans le cadre des usages professionnels licites, afin de fournir la preuve d’une transaction commerciale ou de toute autre communication commerciale. Les parties aux transactions ou à toutes autres communications commerciales sont informées au préalable de ce que des enregistrements sont susceptibles d’être effectués, de la ou des raisons pour lesquelles les communications sont enregistrées et de la durée de conservation maximale des enregistrements. Les communications enregistrées sont à effacer dès que la finalité est atteinte, et en tout état de cause, lors de l’expiration du délai légal de recours contre la transaction;
 
-5. ne s’applique pas au stockage d’informations, ou l’obtention de l’accès à des informations déjà stockées, dans l’équipement terminal d’un abonné ou d’un utilisateur à condition que l’abonné ou l’utilisateur ait donné son accord, après avoir reçu une information claire et complète, entre autres sur les finalités du traitement. Les méthodes retenues pour fournir l’information et offrir le droit de refus devraient être les plus conviviales possibles. Lorsque cela est techniquement possible et effectif, l’accord de l’abonné ou de l’utilisateur peut être exprimé par l’utilisation des paramètres appropriés d’un navigateur ou d’une autre application. Cette disposition ne fait pas obstacle à un stockage ou à un accès techniques visant exclusivement à effectuer la transmission d’une communication par la voie d’un réseau de communications électroniques, ou strictement nécessaires au fournisseur pour la fourniture d’un service de la société de l’information expressément demandé par l’abonné ou l’utilisateur.
+- ne s’applique pas au stockage d’informations, ou l’obtention de l’accès à des informations déjà stockées, dans l’équipement terminal d’un abonné ou d’un utilisateur à condition que l’abonné ou l’utilisateur ait donné son accord, après avoir reçu une information claire et complète, entre autres sur les finalités du traitement. Les méthodes retenues pour fournir l’information et offrir le droit de refus devraient être les plus conviviales possibles. Lorsque cela est techniquement possible et effectif, l’accord de l’abonné ou de l’utilisateur peut être exprimé par l’utilisation des paramètres appropriés d’un navigateur ou d’une autre application. Cette disposition ne fait pas obstacle à un stockage ou à un accès techniques visant exclusivement à effectuer la transmission d’une communication par la voie d’un réseau de communications électroniques, ou strictement nécessaires au fournisseur pour la fourniture d’un service de la société de l’information expressément demandé par l’abonné ou l’utilisateur.
 
 (4)
 
@@ -2983,11 +3153,11 @@ Le fichier est hébergé auprès du Centre des technologies de l’information d
 
 Les entreprises notifiées auprès de l’Institut conformément à la loi du 27 février 2011 sur les réseaux et les services de communications électroniques qui fournissent un service de communications électroniques accessible au public en ayant recours à des ressources de numérotation luxembourgeois (ci-après : « les entreprises notifiées ») transmettent d’office et gratuitement à l’Institut par voie électronique et au moyen d’un interface sécurisé, les données suivantes :
 
-1. pour les personnes physiques : le nom, le prénom, le lieu de résidence habituelle, la date et le lieu de naissance ainsi que le numéro de contact de l’abonné ; pour les personnes morales : la dénomination ou raison sociale, l’adresse du lieu d’établissement ainsi que le numéro de contact ;
+- pour les personnes physiques : le nom, le prénom, le lieu de résidence habituelle, la date et le lieu de naissance ainsi que le numéro de contact de l’abonné ; pour les personnes morales : la dénomination ou raison sociale, l’adresse du lieu d’établissement ainsi que le numéro de contact ;
 
-2. le nom de l’entreprise notifiée, la nature du service fourni par celle-ci, le numéro d’appel alloué pour lequel le service en question a été souscrit et, si disponible, la date de la fin de la relation contractuelle ou en cas de prépaiement la date de désactivation du numéro d’appel.
+- le nom de l’entreprise notifiée, la nature du service fourni par celle-ci, le numéro d’appel alloué pour lequel le service en question a été souscrit et, si disponible, la date de la fin de la relation contractuelle ou en cas de prépaiement la date de désactivation du numéro d’appel.
 
-3. pour les personnes physiques, le type, le pays de délivrance et le numéro de la pièce d’identité ou de l’attestation de dépôt d’une demande de protection internationale de l’abonné en cas de service à prépaiement.
+- pour les personnes physiques, le type, le pays de délivrance et le numéro de la pièce d’identité ou de l’attestation de dépôt d’une demande de protection internationale de l’abonné en cas de service à prépaiement.
 
 Ces données doivent être actualisées au moins une fois par jour, même en l’absence de changement.
 
@@ -3068,15 +3238,15 @@ La Commission nationale pour la protection des données instituée par l’artic
 
 Action en cessation
 
-1. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale, à la requête de la Commission nationale pour la protection des données, peut ordonner toute mesure destinée à suspendre provisoirement ou à faire cesser tout traitement contraire aux dispositions de la présente loi.
+- Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale, à la requête de la Commission nationale pour la protection des données, peut ordonner toute mesure destinée à suspendre provisoirement ou à faire cesser tout traitement contraire aux dispositions de la présente loi.
 
-2. L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée.
+- L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée.
 
-3. L’action en cessation est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge de fond. Le délai d’appel est de quinze jours.
+- L’action en cessation est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge de fond. Le délai d’appel est de quinze jours.
 
-4. L’affichage de la décision peut être ordonné à l’intérieur ou à l’extérieur de l’établissement du contrevenant et aux frais de celui-ci. La décision précise la durée de l’affichage et elle peut également ordonner la publication, en totalité ou par extrait aux frais du contrevenant, par la voie des journaux ou de toute autre manière. Il ne peut être procédé à l’affichage et à la publication qu’en vertu d’une décision judiciaire coulée en force de chose jugée.
+- L’affichage de la décision peut être ordonné à l’intérieur ou à l’extérieur de l’établissement du contrevenant et aux frais de celui-ci. La décision précise la durée de l’affichage et elle peut également ordonner la publication, en totalité ou par extrait aux frais du contrevenant, par la voie des journaux ou de toute autre manière. Il ne peut être procédé à l’affichage et à la publication qu’en vertu d’une décision judiciaire coulée en force de chose jugée.
 
-5. Tout manquement aux injonctions ou interdictions portées par une décision judiciaire prononcée en vertu du présent article et coulée en force de chose jugée est puni d’une amende de 251 à 50.000 euros.
+- Tout manquement aux injonctions ou interdictions portées par une décision judiciaire prononcée en vertu du présent article et coulée en force de chose jugée est puni d’une amende de 251 à 50.000 euros.
 
 <a id="art-n13ac8"></a>
 ## Art. 13.
@@ -3092,21 +3262,21 @@ Dispositions modificatives
 
 Les articles suivants du Code d’instruction criminelle sont modifiés comme suit:
 
-1. Art. 88-2: Les alinéas 1, 2, 3 et 5 de l’article 88-2 du Code d’instruction criminelle sont modifiés comme suit:
+- Art. 88-2: Les alinéas 1, 2, 3 et 5 de l’article 88-2 du Code d’instruction criminelle sont modifiés comme suit:
 
-1. Les décisions par lesquelles le juge d’instruction ou le président de la chambre du conseil de la Cour d’appel auront ordonné la surveillance et le contrôle de télécommunications ainsi que de correspondances confiées à la poste seront notifiées aux opérateurs des postes ou télécommunications qui feront sans retard procéder à leur exécution.
+  - Les décisions par lesquelles le juge d’instruction ou le président de la chambre du conseil de la Cour d’appel auront ordonné la surveillance et le contrôle de télécommunications ainsi que de correspondances confiées à la poste seront notifiées aux opérateurs des postes ou télécommunications qui feront sans retard procéder à leur exécution.
 
-2. Ces décisions et les suites qui leur auront été données seront inscrites sur un registre spécial tenu par chaque opérateur des postes ou télécommunications.
+  - Ces décisions et les suites qui leur auront été données seront inscrites sur un registre spécial tenu par chaque opérateur des postes ou télécommunications.
 
-3. Les télécommunications enregistrées et les correspondances ainsi que les données ou renseignements obtenus par d’autres moyens techniques de surveillance et de contrôle sur la base de l’article 88-1 seront remis sous scellés et contre récépissé au juge d’instruction qui dressera procès-verbal de leur remise. Il fera copier les correspondances pouvant servir à conviction ou à décharge et versera ces copies, les enregistrements ainsi que tous autres données et renseignements reçus au dossier. Il renverra les écrits qu’il ne juge pas nécessaire de saisir aux opérateurs des postes qui les remettront sans délai au destinataire.
+  - Les télécommunications enregistrées et les correspondances ainsi que les données ou renseignements obtenus par d’autres moyens techniques de surveillance et de contrôle sur la base de l’article 88-1 seront remis sous scellés et contre récépissé au juge d’instruction qui dressera procès-verbal de leur remise. Il fera copier les correspondances pouvant servir à conviction ou à décharge et versera ces copies, les enregistrements ainsi que tous autres données et renseignements reçus au dossier. Il renverra les écrits qu’il ne juge pas nécessaire de saisir aux opérateurs des postes qui les remettront sans délai au destinataire.
 
-4. Les communications avec des personnes liées par le secret professionnel au sens de l’article 458 du Code pénal et non suspectes d’avoir elles-mêmes commis l’infraction ou d’y avoir participé ne pourront être utilisées. Leur enregistrement et leur transcription seront immédiatement détruits par le juge d’instruction.
+  - Les communications avec des personnes liées par le secret professionnel au sens de l’article 458 du Code pénal et non suspectes d’avoir elles-mêmes commis l’infraction ou d’y avoir participé ne pourront être utilisées. Leur enregistrement et leur transcription seront immédiatement détruits par le juge d’instruction.
 
-2. Art. 88-4: Les alinéas 1 et 4 de l’article 88-4 du Code d’instruction criminelle sont modifiés comme suit:
+- Art. 88-4: Les alinéas 1 et 4 de l’article 88-4 du Code d’instruction criminelle sont modifiés comme suit:
 
-1. Les décisions par lesquelles le Président du Gouvernement aura ordonné la surveillance et le contrôle de télécommunications ainsi que de correspondances seront notifiées aux opérateurs des postes ou télécommunications qui feront procéder sans retard à leur exécution.
+  - Les décisions par lesquelles le Président du Gouvernement aura ordonné la surveillance et le contrôle de télécommunications ainsi que de correspondances seront notifiées aux opérateurs des postes ou télécommunications qui feront procéder sans retard à leur exécution.
 
-2. Les correspondances seront remises sous scellés et contre récépissé au service de renseignements. Le chef du service fera photocopier les correspondances pouvant servir à charge ou à décharge et renverra les écrits qu’il ne juge pas nécessaire de retenir aux opérateurs des postes qui les feront remettre au destinataire.
+  - Les correspondances seront remises sous scellés et contre récépissé au service de renseignements. Le chef du service fera photocopier les correspondances pouvant servir à charge ou à décharge et renverra les écrits qu’il ne juge pas nécessaire de retenir aux opérateurs des postes qui les feront remettre au destinataire.
 
 <a id="art-n13b80"></a>
 ## Art. 15.
@@ -3153,27 +3323,27 @@ La présente loi a pour objet de régler l’archivage dans l’intérêt public
 
 Pour l’application de la présente loi, l’on entend par :
 
-1. « archives » : l'ensemble des documents, y compris les données, quels que soient leur date, leur lieu de conservation, leur forme matérielle et leur support, produits ou reçus par toute personne physique ou morale et par tout service ou organisme public ou privé dans l'exercice de leur activité ;
+- « archives » : l'ensemble des documents, y compris les données, quels que soient leur date, leur lieu de conservation, leur forme matérielle et leur support, produits ou reçus par toute personne physique ou morale et par tout service ou organisme public ou privé dans l'exercice de leur activité ;
 
-2. « archives publiques » : les documents visés au point 1. produits ou reçus par les administrations et services de l’État, les communes, les syndicats de communes, les établissements publics de l’État et des communes, la Chambre des députés, le Conseil d’État, le Médiateur, la Cour des comptes, l’Institut grand-ducal, la Cour grand-ducale pour ce qui est des documents relevant de la fonction du chef d’État, l’Archevêché de Luxembourg, les Consistoires de l’Église protestante et de l’Église protestante réformée du Luxembourg, le Consistoire administratif de l’Église protestante du Luxembourg, le Consistoire israélite, l’Église anglicane du Luxembourg, l’Église orthodoxe au Luxembourg, les Églises orthodoxes hellénique, roumaine, serbe et russe établies au Luxembourg, la Shoura, assemblée de la Communauté musulmane du Grand-Duché de Luxembourg ainsi que le Fonds de gestion des édifices religieux et autres biens relevant du culte catholique. Sont également visés les minutes et répertoires des notaires ;
+- « archives publiques » : les documents visés au point 1. produits ou reçus par les administrations et services de l’État, les communes, les syndicats de communes, les établissements publics de l’État et des communes, la Chambre des députés, le Conseil d’État, le Médiateur, la Cour des comptes, l’Institut grand-ducal, la Cour grand-ducale pour ce qui est des documents relevant de la fonction du chef d’État, l’Archevêché de Luxembourg, les Consistoires de l’Église protestante et de l’Église protestante réformée du Luxembourg, le Consistoire administratif de l’Église protestante du Luxembourg, le Consistoire israélite, l’Église anglicane du Luxembourg, l’Église orthodoxe au Luxembourg, les Églises orthodoxes hellénique, roumaine, serbe et russe établies au Luxembourg, la Shoura, assemblée de la Communauté musulmane du Grand-Duché de Luxembourg ainsi que le Fonds de gestion des édifices religieux et autres biens relevant du culte catholique. Sont également visés les minutes et répertoires des notaires ;
 
-3. « archives privées » : les documents visés au point 1. qui n’entrent pas dans le champ d’application du point 2. ;
+- « archives privées » : les documents visés au point 1. qui n’entrent pas dans le champ d’application du point 2. ;
 
-4. « dossier » : ensemble de documents regroupés par un producteur pour son usage courant parce qu'ils concernent un même sujet ou une même affaire ;
+- « dossier » : ensemble de documents regroupés par un producteur pour son usage courant parce qu'ils concernent un même sujet ou une même affaire ;
 
-5. « versement » : la transmission de la conservation, de la gestion et de la responsabilité du traitement des archives publiques y compris des données à caractère personnel ;
+- « versement » : la transmission de la conservation, de la gestion et de la responsabilité du traitement des archives publiques y compris des données à caractère personnel ;
 
-6. « transfert d’archives privées » : la transmission de la gestion d’archives privées par voie de dépôt, de don ou de legs respectivement par voie d’acquisition ;
+- « transfert d’archives privées » : la transmission de la gestion d’archives privées par voie de dépôt, de don ou de legs respectivement par voie d’acquisition ;
 
-7. « tableau de tri » : document décrivant toutes les archives d’un producteur ou détenteur d’archives publiques et qui mentionne pour chaque catégorie d’archives les informations suivantes : la typologie, l’intitulé ou la description du contenu, la durée d’utilité administrative et le sort final. Le tableau de tri est accessible au public. Exception est faite pour les tableaux de tri référençant des documents qui ont trait à la défense nationale, à la sécurité du Grand-Duché de Luxembourg ou à la sécurité des États étrangers ou des organisations internationales ou supranationales avec lesquelles le Luxembourg poursuit des objectifs communs sur base d’accords ou de conventions ;
+- « tableau de tri » : document décrivant toutes les archives d’un producteur ou détenteur d’archives publiques et qui mentionne pour chaque catégorie d’archives les informations suivantes : la typologie, l’intitulé ou la description du contenu, la durée d’utilité administrative et le sort final. Le tableau de tri est accessible au public. Exception est faite pour les tableaux de tri référençant des documents qui ont trait à la défense nationale, à la sécurité du Grand-Duché de Luxembourg ou à la sécurité des États étrangers ou des organisations internationales ou supranationales avec lesquelles le Luxembourg poursuit des objectifs communs sur base d’accords ou de conventions ;
 
-8. « sort final » : sort réservé aux archives à l’expiration de la durée d’utilité administrative et consistant soit en la conservation définitive et intégrale des documents, soit en la destruction définitive et intégrale des documents ;
+- « sort final » : sort réservé aux archives à l’expiration de la durée d’utilité administrative et consistant soit en la conservation définitive et intégrale des documents, soit en la destruction définitive et intégrale des documents ;
 
-9. « durée d’utilité administrative » : la durée légale ou pratique pendant laquelle des archives sont susceptibles d'être utilisées par le producteur ou le détenteur, au terme de laquelle est appliquée la décision concernant leur sort final ;
+- « durée d’utilité administrative » : la durée légale ou pratique pendant laquelle des archives sont susceptibles d'être utilisées par le producteur ou le détenteur, au terme de laquelle est appliquée la décision concernant leur sort final ;
 
-10. « recommandations » : les bonnes pratiques élaborées par les Archives nationales dans le cadre de leur mission d’encadrement en ce qui concerne la gestion, la conservation et la communication des archives publiques ainsi que les conseils émis par les Archives nationales suite à leurs inspections dans le cadre de leur mission d’encadrement ;
+- « recommandations » : les bonnes pratiques élaborées par les Archives nationales dans le cadre de leur mission d’encadrement en ce qui concerne la gestion, la conservation et la communication des archives publiques ainsi que les conseils émis par les Archives nationales suite à leurs inspections dans le cadre de leur mission d’encadrement ;
 
-11. « fonds d’archives » : l’ensemble de documents de toute nature constitué de façon organique par un producteur ou détenteur d’archives dans l'exercice de ses activités et en fonction de ses attributions.
+- « fonds d’archives » : l’ensemble de documents de toute nature constitué de façon organique par un producteur ou détenteur d’archives dans l'exercice de ses activités et en fonction de ses attributions.
 
 #### Chapitre II Proposition de versement des archives publiques aux Archives nationales
 
@@ -3203,21 +3373,21 @@ Par dérogation au paragraphe 1er de l’article 3, les archives publiques class
 
 Les producteurs ou détenteurs d’archives publiques suivants conservent et gèrent eux-mêmes leurs archives publiques conformément aux principes de la présente loi :
 
-1. la Chambre des députés ;
+- la Chambre des députés ;
 
-2. le Conseil d’État ;
+- le Conseil d’État ;
 
-3. les juridictions luxembourgeoises ;
+- les juridictions luxembourgeoises ;
 
-4. la Cour grand-ducale ;
+- la Cour grand-ducale ;
 
-5. le Médiateur ;
+- le Médiateur ;
 
-6. la Cour des comptes ;
+- la Cour des comptes ;
 
-7. les établissements publics de l’État ;
+- les établissements publics de l’État ;
 
-8. l’Institut Grand-Ducal.
+- l’Institut Grand-Ducal.
 
 Au cas où ces producteurs ou détenteurs d’archives publiques ne peuvent pas conserver eux-mêmes leurs archives publiques, les Archives nationales conservent leurs archives publiques après expiration de la durée d’utilité administrative.
 
@@ -3250,11 +3420,11 @@ Afin de pouvoir bénéficier d’un archivage autonome, les producteurs ou déte
 
 À ce titre les producteurs ou détenteurs d’archives publiques doivent disposer :
 
-1. d’un service d’archives publiques au sein de leur administration et disposer de personnel qualifié en matière d’archivage. Le chef du service d’archives doit être diplômé en archivistique et tout autre agent de ce service doit au moins avoir suivi le cours d’initiation à l’archivistique proposé par l’Institut national d’administration publique ;
+- d’un service d’archives publiques au sein de leur administration et disposer de personnel qualifié en matière d’archivage. Le chef du service d’archives doit être diplômé en archivistique et tout autre agent de ce service doit au moins avoir suivi le cours d’initiation à l’archivistique proposé par l’Institut national d’administration publique ;
 
-2. d’une infrastructure et de mesures de sécurité ;
+- d’une infrastructure et de mesures de sécurité ;
 
-3. d’un plan d’urgence mettant à l’abri les archives publiques en cas d’incident mettant en cause leur sécurité.
+- d’un plan d’urgence mettant à l’abri les archives publiques en cas d’incident mettant en cause leur sécurité.
 
 Tout producteur ou détenteur d’archives publiques qui s’est vu accorder le régime dérogatoire relatif à l’archivage établit des inventaires de ses archives et les rend accessibles pour une consultation en ligne via le moteur de recherche des Archives nationales.
 
@@ -3407,13 +3577,13 @@ La gratuité de la communication des archives ne fait pas obstacle à la factura
 
 Par dérogation au paragraphe précédent, le délai de communication est de cinquante ans à partir de la date du document le plus récent inclus dans le dossier pour les archives publiques :
 
-1. dont la communication porterait atteinte aux relations extérieures, à la sécurité du Grand-Duché de Luxembourg ou à l’ordre public ;
+- dont la communication porterait atteinte aux relations extérieures, à la sécurité du Grand-Duché de Luxembourg ou à l’ordre public ;
 
-2. ayant trait aux affaires portées devant les instances juridictionnelles, extrajudiciaires ou disciplinaires ;
+- ayant trait aux affaires portées devant les instances juridictionnelles, extrajudiciaires ou disciplinaires ;
 
-3. ayant trait à la prévention, à la recherche ou à la poursuite de faits punissables ;
+- ayant trait à la prévention, à la recherche ou à la poursuite de faits punissables ;
 
-4. dont la communication porterait atteinte au caractère confidentiel des informations commerciales et industrielles.
+- dont la communication porterait atteinte au caractère confidentiel des informations commerciales et industrielles.
 
 Le délai de communication est de cent ans à partir de la date du document le plus récent inclus dans le dossier pour les archives publiques qui sont couvertes par le secret fiscal.
 
@@ -3466,9 +3636,9 @@ Le directeur des Archives nationales, sur avis du Conseil des archives, peut aut
 
 Le directeur des Archives nationales, après l’accord de l’entité versante, autorise la communication des archives publiques conservées aux Archives nationales avant l’expiration des délais de communication dans les cas suivants :
 
-1. la communication des archives publiques visées à l’article 16, paragraphe 2 avant l’expiration du délai de communication est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive aux intérêts protégés par ladite disposition ;
+- la communication des archives publiques visées à l’article 16, paragraphe 2 avant l’expiration du délai de communication est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive aux intérêts protégés par ladite disposition ;
 
-2. la communication des archives publiques visées à l’article 16, paragraphe 3 avant l’expiration des délais de communication est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive à la vie privée de la personne concernée.
+- la communication des archives publiques visées à l’article 16, paragraphe 3 avant l’expiration des délais de communication est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive à la vie privée de la personne concernée.
 
 (5)
 
@@ -3563,17 +3733,17 @@ Sans préjudice des dispositions relatives au dépôt légal, tel que défini da
 
 Il est institué un Conseil des archives dont les missions sont :
 
-1. de fonctionner comme organe consultatif et de se prononcer sur toute question en matière d’archives qui lui est soumise par le ministre ;
+- de fonctionner comme organe consultatif et de se prononcer sur toute question en matière d’archives qui lui est soumise par le ministre ;
 
-2. de fonctionner comme organe de réflexion et d’impulsion dans le domaine des archives et de formuler des avis et des propositions au ministre ;
+- de fonctionner comme organe de réflexion et d’impulsion dans le domaine des archives et de formuler des avis et des propositions au ministre ;
 
-3. de proposer des mesures en matière de politique archivistique sur le plan national ;
+- de proposer des mesures en matière de politique archivistique sur le plan national ;
 
-4. de promouvoir l’archivage ;
+- de promouvoir l’archivage ;
 
-5. de se prononcer sur les propositions de classement d’archives privées comme archives privées historiques ;
+- de se prononcer sur les propositions de classement d’archives privées comme archives privées historiques ;
 
-6. d’émettre un avis dans le cas d’un refus de communication d’archives publiques avant l’expiration des délais de communication.
+- d’émettre un avis dans le cas d’un refus de communication d’archives publiques avant l’expiration des délais de communication.
 
 (2)
 
@@ -3592,9 +3762,9 @@ Le président du Conseil des archives est désigné parmi ses membres par le min
 
 La loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État est modifiée comme suit :
 
-1. L’article 3 est remplacé par le texte suivant : Art. 3.Sans préjudice des missions spécifiques définies pour chaque institut, les missions générales des instituts culturels de l’État, dans le domaine propre à chacun, sont l’étude, la conservation et l’épanouissement du patrimoine culturel et intellectuel, des activités de sensibilisation, d’éducation et de formation, ainsi que des activités de recherche, telles que définies à l’article 3, paragraphe 8, 3e tiret, de la loi modifiée du 31 mai 1999 portant création d’un fonds national de la recherche dans le secteur public.Les instituts culturels de l’État :peuvent rechercher la collaboration d’instituts similaires au niveau international et collaborer à des projets internationaux ;peuvent faire appel à des experts et chercheurs ;peuvent entreprendre des activités de recherche, en relation avec leurs missions et leurs collections. Ils peuvent à cette fin collaborer avec des partenaires du secteur public ou du secteur privé ;peuvent publier des ouvrages scientifiques et didactiques sans préjudice des dispositions légales en vigueur ;constituent et entretiennent des collections. Ils peuvent accepter des prêts ainsi que prendre en dépôt des objets et, avec l’approbation du ministre ainsi que sous réserve des conditions prévues à l’article 910 du Code Civil, accepter des dons et des legs faits au profit de l’État.
+- L’article 3 est remplacé par le texte suivant : Art. 3. Sans préjudice des missions spécifiques définies pour chaque institut, les missions générales des instituts culturels de l’État, dans le domaine propre à chacun, sont l’étude, la conservation et l’épanouissement du patrimoine culturel et intellectuel, des activités de sensibilisation, d’éducation et de formation, ainsi que des activités de recherche, telles que définies à l’article 3, paragraphe 8, 3e tiret, de la loi modifiée du 31 mai 1999 portant création d’un fonds national de la recherche dans le secteur public. Les instituts culturels de l’État : peuvent rechercher la collaboration d’instituts similaires au niveau international et collaborer à des projets internationaux ; peuvent faire appel à des experts et chercheurs ; peuvent entreprendre des activités de recherche, en relation avec leurs missions et leurs collections. Ils peuvent à cette fin collaborer avec des partenaires du secteur public ou du secteur privé ; peuvent publier des ouvrages scientifiques et didactiques sans préjudice des dispositions légales en vigueur ; constituent et entretiennent des collections. Ils peuvent accepter des prêts ainsi que prendre en dépôt des objets et, avec l’approbation du ministre ainsi que sous réserve des conditions prévues à l’article 910 du Code Civil, accepter des dons et des legs faits au profit de l’État.
 
-2. L’article 7 est remplacé par le texte suivant : Art. 7.Les Archives nationales ont pour missions :de collecter, de réunir, de conserver, de classer, d’inventorier, d’étudier et de communiquer des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ;de conseiller les producteurs ou détenteurs d’archives, publiques ou privées, sur le classement, l’inventorisation et la conservation de leurs archives ;d’assurer l’encadrement et d’élaborer des recommandations sur la manière d’organiser, de gérer, de conserver les archives publiques et de les verser aux Archives nationales ;d’accepter des archives privées par don, legs ou dépôt en vue de leur intégration ou de leur mise en dépôt aux Archives nationales et d’acquérir au profit de l’État des archives privées d’intérêt historique, scientifique, économique, sociétal ou culturel ;d’assurer la protection et la préservation des archives publiques et des archives privées classées conformément à la loi sur l’archivage ;d’organiser des expositions temporaires, des colloques, des conférences ainsi que des activités pédagogiques qui sont en rapport avec ses activités dans le but de valoriser le patrimoine archivistique national et de sensibiliser le public à l’importance de la conservation de ce patrimoine ;de sensibiliser les institutions, administrations et services publics aux techniques de l’archivage et à la conservation des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ;de contribuer au développement de l’archivistique au niveau national et au niveau international.
+- L’article 7 est remplacé par le texte suivant : Art. 7. Les Archives nationales ont pour missions : de collecter, de réunir, de conserver, de classer, d’inventorier, d’étudier et de communiquer des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ; de conseiller les producteurs ou détenteurs d’archives, publiques ou privées, sur le classement, l’inventorisation et la conservation de leurs archives ; d’assurer l’encadrement et d’élaborer des recommandations sur la manière d’organiser, de gérer, de conserver les archives publiques et de les verser aux Archives nationales ; d’accepter des archives privées par don, legs ou dépôt en vue de leur intégration ou de leur mise en dépôt aux Archives nationales et d’acquérir au profit de l’État des archives privées d’intérêt historique, scientifique, économique, sociétal ou culturel ; d’assurer la protection et la préservation des archives publiques et des archives privées classées conformément à la loi sur l’archivage ; d’organiser des expositions temporaires, des colloques, des conférences ainsi que des activités pédagogiques qui sont en rapport avec ses activités dans le but de valoriser le patrimoine archivistique national et de sensibiliser le public à l’importance de la conservation de ce patrimoine ; de sensibiliser les institutions, administrations et services publics aux techniques de l’archivage et à la conservation des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ; de contribuer au développement de l’archivistique au niveau national et au niveau international.
 
 <a id="art-n14a20"></a>
 ## Art. 24.
@@ -3604,7 +3774,9 @@ Aux articles 225 et 261 de la loi électorale modifiée du 18 février 2003, les
 <a id="art-n14a60"></a>
 ## Art. 25.
 
-À l’article 56 du décret modifié du 18 juin 1811 contenant règlement pour l’administration de la justice en matière criminelle, de police correctionnelle et de simple police, et tarif général des frais est ajouté un deuxième paragraphe qui se lit comme suit :« En matière criminelle, correctionnelle et de simple police, le Procureur général d’État peut autoriser toute personne présentant un intérêt légitime à consulter, reproduire ou publier les dossiers répressifs déposés aux Archives nationales, sans déplacement et sur demande spécialement motivée par rapport aux dossiers concernés, avant l’expiration des délais de communication prévus par la loi du 17 août 2018 sur l’archivage et ses règlements d’exécution ».
+À l’article 56 du décret modifié du 18 juin 1811 contenant règlement pour l’administration de la justice en matière criminelle, de police correctionnelle et de simple police, et tarif général des frais est ajouté un deuxième paragraphe qui se lit comme suit :
+
+« En matière criminelle, correctionnelle et de simple police, le Procureur général d’État peut autoriser toute personne présentant un intérêt légitime à consulter, reproduire ou publier les dossiers répressifs déposés aux Archives nationales, sans déplacement et sur demande spécialement motivée par rapport aux dossiers concernés, avant l’expiration des délais de communication prévus par la loi du 17 août 2018 sur l’archivage et ses règlements d’exécution ».
 
 #### Chapitre XV Dispositions transitoires
 

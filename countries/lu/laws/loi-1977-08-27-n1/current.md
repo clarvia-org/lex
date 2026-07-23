@@ -38,9 +38,9 @@ Aucune des dispositions de la présente loi ne pourra être appliquée de maniè
 <a id="art-2"></a>
 ## Art. 2.
 
-1. Le congé spécial est accordé, après délibération du Gouvernement en Conseil, par l’autorité compétente pour la nomination du bénéficiaire et dans la forme prescrite pour celle-ci.
+- Le congé spécial est accordé, après délibération du Gouvernement en Conseil, par l’autorité compétente pour la nomination du bénéficiaire et dans la forme prescrite pour celle-ci.
 
-2. Le congé spécial des magistrats est accordé par le Grand-Duc sur avis motivé du Conseil national de la justice.
+- Le congé spécial des magistrats est accordé par le Grand-Duc sur avis motivé du Conseil national de la justice.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -118,9 +118,9 @@ Le montant du rachat est fixé par annuité rachetée à seize pour cent du trai
 
 Lorsqu'un fonctionnaire luxembourgeois bénéficiant ou ayant bénéficié d'un congé spécial, donne sa démission ou est considéré de plein droit comme démissionnaire par application de l'article 3 paragraphe 4, sans avoir droit à une pension différée suivant les dispositions de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat, il bénéficie, sur sa demande, d'une mise en compte du temps de service qui lui manque pour parfaire la durée de service requise par cette législation dans les conditions suivantes:
 
-1. que le temps manquant ait été accompli en activité de service auprès d'une Institution internationale;
+- que le temps manquant ait été accompli en activité de service auprès d'une Institution internationale;
 
-2. que le fonctionnaire verse au Trésor une somme de rachat.
+- que le fonctionnaire verse au Trésor une somme de rachat.
 
 Le montant du rachat est fixé suivant les modalités prévues au deuxième alinéa du premier paragraphe de l’article 7 pour la période déjà accomplie en activité de service auprès d’une Institution internationale. Si cette dernière période est insuffisante pour atteindra la durée de service requise pour avoir droit à une pension différée suivant les dispositions de la législation sur les pensions des fonctionnaires de l’Etat, les versements concernant la période complémentaire pour laquelle le rachat est nécessaire sont à faire par mensualité.
 
@@ -138,9 +138,9 @@ Le montant du rachat prévu à l’alinéa qui précède est fixé conformément
 
 Les dispositions des articles 7 à 9 n’excluent pas l’application d’accords conclus avec les institutions ou de dispositions figurant au régime de pension de ces institutions qui sont directement applicables au Grand-Duché de Luxembourg ou qui ont été rendu applicables sur la base de tels accords et qui prévoient
 
-1. d’une part le transfert à l’Etat de l’équivalent actuariel des droits à pension du fonctionnaire international qui quitte ses fonctions auprès de ces institutions pour entrer ou rentrer au service de l’Etat et l’octroi correspondant de droits à pension nationaux et
+- d’une part le transfert à l’Etat de l’équivalent actuariel des droits à pension du fonctionnaire international qui quitte ses fonctions auprès de ces institutions pour entrer ou rentrer au service de l’Etat et l’octroi correspondant de droits à pension nationaux et
 
-2. d’autre part l’option pour le fonctionnaire qui entre au service de ces institutions de faire transférer à ceux-ci l’équivalant actuariel des droits à pension nationaux.
+- d’autre part l’option pour le fonctionnaire qui entre au service de ces institutions de faire transférer à ceux-ci l’équivalant actuariel des droits à pension nationaux.
 
 Suivant son cas, le fonctionnaire pourra opter entre soit l’application des dispositions sous a), soit l’application de celles sous b).
 

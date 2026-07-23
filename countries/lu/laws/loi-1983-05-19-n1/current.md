@@ -54,11 +54,11 @@ Lorsqu'il existe des indices graves faisant présumer une infraction à la prés
 
 Les agents précités peuvent en outre:
 
-1. prélever des échantillons chaque fois qu'ils le jugent utile; les échantillons sont pris contre délivrance d'un accusé de réception. Une partie de l'échantillon cacheté et scellé est remise au propriétaire ou détenteur à quelque titre que ce soit à moins que celui-ci n'y renonce expressément Le propriétaire ou détenteur quelconque est indemnisé de la valeur des échantillons sur le pied du prix-courant;
+- prélever des échantillons chaque fois qu'ils le jugent utile; les échantillons sont pris contre délivrance d'un accusé de réception. Une partie de l'échantillon cacheté et scellé est remise au propriétaire ou détenteur à quelque titre que ce soit à moins que celui-ci n'y renonce expressément Le propriétaire ou détenteur quelconque est indemnisé de la valeur des échantillons sur le pied du prix-courant;
 
-2. exiger la production de toutes les écritures commerciales relatives aux produits visés à l'article 1er de la présente loi et tous les documents imposés par les règlements grand-ducaux pris en son exécution;
+- exiger la production de toutes les écritures commerciales relatives aux produits visés à l'article 1er de la présente loi et tous les documents imposés par les règlements grand-ducaux pris en son exécution;
 
-3. saisir, et au besoin, mettre sous séquestre les produits visés à l'article 1er ainsi que les écritures commerciales et tous les documents imposés en vertu des règlements grand-ducaux pris en exécution de la présente loi.
+- saisir, et au besoin, mettre sous séquestre les produits visés à l'article 1er ainsi que les écritures commerciales et tous les documents imposés en vertu des règlements grand-ducaux pris en exécution de la présente loi.
 
 <a id="art-5"></a>
 ## Art. 5.

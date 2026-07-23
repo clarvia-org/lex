@@ -159,15 +159,15 @@ Deux des scrutateurs font le recensement des suffrages et en tiennent note, chac
 
 Sont nuls:
 
-1. les bulletins autres que ceux envoyés ou remis aux électeurs par le bureau électoral;
+- les bulletins autres que ceux envoyés ou remis aux électeurs par le bureau électoral;
 
-2. les bulletins ne contenant l'expression d'aucun suffrage;
+- les bulletins ne contenant l'expression d'aucun suffrage;
 
-3. les bulletins contenant plus de suffrages qu'il n'y a de membres à élire;
+- les bulletins contenant plus de suffrages qu'il n'y a de membres à élire;
 
-4. les bulletins sur lesquels le votant se sera fait connaître et notamment ceux portant une marque ou un signe distinctif quelconque, ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président;
+- les bulletins sur lesquels le votant se sera fait connaître et notamment ceux portant une marque ou un signe distinctif quelconque, ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président;
 
-5. les bulletins dont l'enveloppe extérieure ne porte pas la signature
+- les bulletins dont l'enveloppe extérieure ne porte pas la signature
 
 <a id="art-19"></a>
 ## Art. 19.

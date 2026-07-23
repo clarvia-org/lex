@@ -33,27 +33,27 @@ A)
 
 Dans le cadre de l'Union économique belgo-luxembourgeoise, les attributions de l'administration des douanes et accises portent sur les matières suivantes:
 
-1. Législation communautaire CE en matière douanière et accisienne;
+- Législation communautaire CE en matière douanière et accisienne;
 
-2. Législation accisienne commune à l'Union économique belgo-luxembourgeoise;
+- Législation accisienne commune à l'Union économique belgo-luxembourgeoise;
 
 B)
 
 Sur le plan national, les attributions de l'administration des douanes et accises portent sur les matières suivantes:
 
-1. Législation accisienne autonome du Grand-Duché y compris la taxe de consommation sur les alcools.
+- Législation accisienne autonome du Grand-Duché y compris la taxe de consommation sur les alcools.
 
-2. Taxe sur la valeur ajoutée pour les attributions qui lui sont dévolues par les lois et règlements en la matière.
+- Taxe sur la valeur ajoutée pour les attributions qui lui sont dévolues par les lois et règlements en la matière.
 
-3. Taxe sur les véhicules automoteurs. - Fixation et perception de la taxe sur les véhicules automoteurs.
+- Taxe sur les véhicules automoteurs. - Fixation et perception de la taxe sur les véhicules automoteurs.
 
-4. Droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds. - Fixation, perception et remboursement du droit d'usage et délivrance des certificats de paiement et d'exemption.
+- Droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds. - Fixation, perception et remboursement du droit d'usage et délivrance des certificats de paiement et d'exemption.
 
-5. Taxes de cabaretage. - Etablissement des autorisations d'ouverture de nouveaux débits. Transcription de débits existants. Inscription des gages sur licences de cabaretage. Perception des taxes d'établissement, taxes d'ouverture, taxes annuelles, taxes de dispense et taxes journalières.
+- Taxes de cabaretage. - Etablissement des autorisations d'ouverture de nouveaux débits. Transcription de débits existants. Inscription des gages sur licences de cabaretage. Perception des taxes d'établissement, taxes d'ouverture, taxes annuelles, taxes de dispense et taxes journalières.
 
-6. Réglementation communautaire et/ou législation ou réglementation nationale notamment dans les domaines de l'économie, de la santé publique, du travail, des transports, de la politique agricole commune, de la protection de l'environnement ainsi que de la sécurité publique et de la police générale.
+- Réglementation communautaire et/ou législation ou réglementation nationale notamment dans les domaines de l'économie, de la santé publique, du travail, des transports, de la politique agricole commune, de la protection de l'environnement ainsi que de la sécurité publique et de la police générale.
 
-7. La vente de substances médicamenteuses et la lutte contre la toxicomanie.
+- La vente de substances médicamenteuses et la lutte contre la toxicomanie.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -101,21 +101,21 @@ Avant d'entrer en fonction, les agents de tout grade énumérés aux alinéas (1
 
 La direction comprend huit divisions:
 
-1. la division «Personnel et Affaires générales»;
+- la division «Personnel et Affaires générales»;
 
-2. la division «Douane»;
+- la division «Douane»;
 
-3. la division «Contentieux et Coopération»;
+- la division «Contentieux et Coopération»;
 
-4. la division «Accises»;
+- la division «Accises»;
 
-5. la division «Attributions sécuritaires et Cabaretage»;
+- la division «Attributions sécuritaires et Cabaretage»;
 
-6. la division «Techniques de l'information et de la communication»;
+- la division «Techniques de l'information et de la communication»;
 
-7. la division «Anti-drogues et produits sensibles»;
+- la division «Anti-drogues et produits sensibles»;
 
-8. la division «Relations Internationales».
+- la division «Relations Internationales».
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -150,87 +150,87 @@ Les traitements luxembourgeois auxquels les fonctionnaires des douanes et accise
 
 Pour le calcul des traitements luxembourgeois, le personnel de l'administration des douanes et accises comprend les fonctions et emplois suivants:
 
-1. dans la carrière supérieure de l'administration:
+- dans la carrière supérieure de l'administration:
 
-- un directeur;
+  - un directeur;
 
-- deux directeurs adjoints;
+  - deux directeurs adjoints;
 
-- des conseillers de direction première classe et des conseillers-informaticiens première classe;
+  - des conseillers de direction première classe et des conseillers-informaticiens première classe;
 
-- des conseillers de direction et des conseillers-informaticiens;
+  - des conseillers de direction et des conseillers-informaticiens;
 
-- des conseillers de direction adjoints et des conseillers-informaticiens adjoints;
+  - des conseillers de direction adjoints et des conseillers-informaticiens adjoints;
 
-- des attachés de Gouvernement premiers en rang et des chargés d'études-informaticiens principaux;
+  - des attachés de Gouvernement premiers en rang et des chargés d'études-informaticiens principaux;
 
-- des attachés de Gouvernement et des stagiaires ayant le titre d'attaché d'administration ainsi que des chargés d'études-informaticiens et des stagiaires ayant le titre d'attaché-informaticien.
+  - des attachés de Gouvernement et des stagiaires ayant le titre d'attaché d'administration ainsi que des chargés d'études-informaticiens et des stagiaires ayant le titre d'attaché-informaticien.
 
-2. dans la carrière moyenne du rédacteur:
+- dans la carrière moyenne du rédacteur:
 
-- onze inspecteurs de direction premiers en rang ou inspecteurs principaux premiers en rang;
+  - onze inspecteurs de direction premiers en rang ou inspecteurs principaux premiers en rang;
 
-- quinze inspecteurs principaux ou receveurs A pour les fonctions d’inspecteur principal;
+  - quinze inspecteurs principaux ou receveurs A pour les fonctions d’inspecteur principal;
 
-- quinze inspecteurs ou receveurs A;
+  - quinze inspecteurs ou receveurs A;
 
-- des contrôleurs en chef;
+  - des contrôleurs en chef;
 
-- des receveurs B;
+  - des receveurs B;
 
-- des contrôleurs adjoints;
+  - des contrôleurs adjoints;
 
-- des vérificateurs-experts comptables;
+  - des vérificateurs-experts comptables;
 
-- des receveurs C;
+  - des receveurs C;
 
-- des vérificateurs;
+  - des vérificateurs;
 
-- des rédacteurs principaux;
+  - des rédacteurs principaux;
 
-- des rédacteurs.
+  - des rédacteurs.
 
-3. dans la carrière moyenne de l'informaticien diplômé:
+- dans la carrière moyenne de l'informaticien diplômé:
 
-- des inspecteurs-informaticiens principaux premiers en rang;
+  - des inspecteurs-informaticiens principaux premiers en rang;
 
-- des inspecteurs-informaticiens principaux;
+  - des inspecteurs-informaticiens principaux;
 
-- des inspecteurs-informaticiens;
+  - des inspecteurs-informaticiens;
 
-- des chefs de bureau informaticiens;
+  - des chefs de bureau informaticiens;
 
-- des chefs de bureau informaticiens adjoints;
+  - des chefs de bureau informaticiens adjoints;
 
-- des informaticiens principaux;
+  - des informaticiens principaux;
 
-- des informaticiens diplômés.
+  - des informaticiens diplômés.
 
-4. dans la carrière inférieure: des receveurs D, receveurs adjoints, vérificateurs adjoints, commis chefs, commis principaux, commis, lieutenants, brigadiers-chefs, brigadiers principaux, brigadiers et préposés sans que, dans chaque filière, le nombre des emplois repris ci-après ne puisse être supérieur à: et sans que le nombre total des fonctions et emplois de la carrière inférieure ne puisse être supérieur à 390.
+- dans la carrière inférieure: des receveurs D, receveurs adjoints, vérificateurs adjoints, commis chefs, commis principaux, commis, lieutenants, brigadiers-chefs, brigadiers principaux, brigadiers et préposés sans que, dans chaque filière, le nombre des emplois repris ci-après ne puisse être supérieur à: et sans que le nombre total des fonctions et emplois de la carrière inférieure ne puisse être supérieur à 390.
 
-1. filière du commis:
+  - filière du commis:
 
-- quarante receveurs D ou receveurs adjoints ou vérificateurs adjoints;
+    - quarante receveurs D ou receveurs adjoints ou vérificateurs adjoints;
 
-- vingt et un commis chefs;
+    - vingt et un commis chefs;
 
-- vingt-trois commis principaux;
+    - vingt-trois commis principaux;
 
-- onze commis.
+    - onze commis.
 
-2. filière du lieutenant:
+  - filière du lieutenant:
 
-- onze lieutenants.
+    - onze lieutenants.
 
-3. filière du préposé:
+  - filière du préposé:
 
-- quatre-vingt-dix-sept brigadiers-chefs;
+    - quatre-vingt-dix-sept brigadiers-chefs;
 
-- cent cinq brigadiers principaux.
+    - cent cinq brigadiers principaux.
 
-4. carrière de l'artisan:
+  - carrière de l'artisan:
 
-- un artisan.
+    - un artisan.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -264,19 +264,19 @@ Un règlement grand-ducal pourra décréter que les titulaires de neuf emplois y
 
 Seront déterminées:
 
-1. par règlement grand-ducal, toutes les mesures d'exécution non visées sub 2. ci-dessous, nécessitées par la mise en exécution de la présente loi et de la convention coordonnée instituant l'Union économique belgo-luxembourgeoise et notamment:
+- par règlement grand-ducal, toutes les mesures d'exécution non visées sub 2. ci-dessous, nécessitées par la mise en exécution de la présente loi et de la convention coordonnée instituant l'Union économique belgo-luxembourgeoise et notamment:
 
-1. la création et la délimitation des circonscriptions des inspections respectivement contrôles des douanes et accises;
+  - la création et la délimitation des circonscriptions des inspections respectivement contrôles des douanes et accises;
 
-2. les conditions de recrutement et d'admission aux emplois et fonctions de l'administration des douanes et accises, ainsi que les conditions de nomination et de promotion à ces emplois et fonctions;
+  - les conditions de recrutement et d'admission aux emplois et fonctions de l'administration des douanes et accises, ainsi que les conditions de nomination et de promotion à ces emplois et fonctions;
 
-2. par règlement ministériel:
+- par règlement ministériel:
 
-1. la création et le ressort des bureaux de recette des douanes et accises;
+  - la création et le ressort des bureaux de recette des douanes et accises;
 
-2. la création et le ressort des lieutenances ainsi que des brigades des douanes et accises;
+  - la création et le ressort des lieutenances ainsi que des brigades des douanes et accises;
 
-3. la localisation, au sein de la direction ainsi qu'aux différents services extérieurs de l'administration, des fonctions et emplois énumérés à l'article 3, compte tenu des nécessités organiques des services et dans la mesure où cette localisation ne résulte pas de la loi.
+  - la localisation, au sein de la direction ainsi qu'aux différents services extérieurs de l'administration, des fonctions et emplois énumérés à l'article 3, compte tenu des nécessités organiques des services et dans la mesure où cette localisation ne résulte pas de la loi.
 
 <a id="art-15"></a>
 ## Art. 15.

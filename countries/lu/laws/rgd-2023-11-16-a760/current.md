@@ -48,70 +48,70 @@ La délimitation de la zone protégée d’intérêt national est indiquée sur 
 
 Dans la zone protégée sont interdits :
 
-1. les fouilles, les sondages, les travaux de terrassement, l’enlèvement de terre végétale, le déblai, le remblai ou l’extraction de matériaux ;
+- les fouilles, les sondages, les travaux de terrassement, l’enlèvement de terre végétale, le déblai, le remblai ou l’extraction de matériaux ;
 
-2. le dépôt de déchets et de matériaux, à l’exception des grumes et du bois de chauffage sur les lieux d’entreposage ;
+- le dépôt de déchets et de matériaux, à l’exception des grumes et du bois de chauffage sur les lieux d’entreposage ;
 
-3. les travaux susceptibles de modifier le régime ou dégrader la qualité des eaux superficielles ou souterraines, le drainage, le changement du lit des ruisseaux et le curage, ainsi que le rejet d’eaux usées, la dégradation, la destruction ou la pollution des sources. Cette interdiction ne vise pas le captage et le prélèvement des eaux destinées à la consommation humaine ;
+- les travaux susceptibles de modifier le régime ou dégrader la qualité des eaux superficielles ou souterraines, le drainage, le changement du lit des ruisseaux et le curage, ainsi que le rejet d’eaux usées, la dégradation, la destruction ou la pollution des sources. Cette interdiction ne vise pas le captage et le prélèvement des eaux destinées à la consommation humaine ;
 
-4. toute construction incorporée au sol ou non, à l’exception d’installations de ruches apicoles ou d’installations légères d’affût de chasse. Cette interdiction ne s’applique pas : Les exceptions visées par les lettres a) à e) restent toutes soumises à autorisation préalable du ministre ayant l’Environnement dans ses attributions, ci-après « ministre ». Les travaux d’entretien courants des installations existantes ne nécessitent pas l’autorisation préalable du ministre ;
+- toute construction incorporée au sol ou non, à l’exception d’installations de ruches apicoles ou d’installations légères d’affût de chasse. Cette interdiction ne s’applique pas : Les exceptions visées par les lettres a) à e) restent toutes soumises à autorisation préalable du ministre ayant l’Environnement dans ses attributions, ci-après « ministre ». Les travaux d’entretien courants des installations existantes ne nécessitent pas l’autorisation préalable du ministre ;
 
-1. à la mise en place de miradors ;
+  - à la mise en place de miradors ;
 
-2. aux interventions nécessaires à l’entretien ou au renouvellement des constructions existantes ;
+  - aux interventions nécessaires à l’entretien ou au renouvellement des constructions existantes ;
 
-3. à l’élargissement ou au redressement de la voirie publique existante pour des raisons de sécurité publique ;
+  - à l’élargissement ou au redressement de la voirie publique existante pour des raisons de sécurité publique ;
 
-4. aux interventions nécessaires au captage ou à la distribution d’eau potable destinée à la consommation humaine ;
+  - aux interventions nécessaires au captage ou à la distribution d’eau potable destinée à la consommation humaine ;
 
-5. aux abris sylvicoles légers.
+  - aux abris sylvicoles légers.
 
-5. la mise en place d’installations de transport et de communication, de conduites d’énergie, de liquide ou de gaz, de canalisations ou d’équipements assimilés, sauf dans les chemins consolidés existants. Les interventions nécessaires au renouvellement des installations existantes, ainsi que les nouvelles installations au sein des chemins consolidés existants restent soumises à autorisation préalable du ministre. Les travaux d’entretien courants des installations existantes ne nécessitent pas l’autorisation préalable du ministre ;
+- la mise en place d’installations de transport et de communication, de conduites d’énergie, de liquide ou de gaz, de canalisations ou d’équipements assimilés, sauf dans les chemins consolidés existants. Les interventions nécessaires au renouvellement des installations existantes, ainsi que les nouvelles installations au sein des chemins consolidés existants restent soumises à autorisation préalable du ministre. Les travaux d’entretien courants des installations existantes ne nécessitent pas l’autorisation préalable du ministre ;
 
-6. le changement d’affectation des chemins communaux, ruraux ou forestiers, ou des pistes cyclables ;
+- le changement d’affectation des chemins communaux, ruraux ou forestiers, ou des pistes cyclables ;
 
-7. le changement d’affectation des sols ;
+- le changement d’affectation des sols ;
 
-8. la réduction, la destruction ou la détérioration de biotopes protégés ou d’habitats visés par l’article 17 de la loi modifiée du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles ;
+- la réduction, la destruction ou la détérioration de biotopes protégés ou d’habitats visés par l’article 17 de la loi modifiée du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles ;
 
-9. toute coupe rase en forêt feuillue sur des surfaces dépassant 0,3 hectare ;
+- toute coupe rase en forêt feuillue sur des surfaces dépassant 0,3 hectare ;
 
-10. toute coupe rase de peuplements de résineux dépassant 1 hectare ;
+- toute coupe rase de peuplements de résineux dépassant 1 hectare ;
 
-11. l’enlèvement, la destruction ou l’endommagement de plantes sauvages appartenant à la flore indigène ou de parties de ces plantes, à l’exception de l’exploitation forestière, ou des travaux nécessaires pour des raisons de sécurité ;
+- l’enlèvement, la destruction ou l’endommagement de plantes sauvages appartenant à la flore indigène ou de parties de ces plantes, à l’exception de l’exploitation forestière, ou des travaux nécessaires pour des raisons de sécurité ;
 
-12. la perturbation, la capture ou la mise à mort d’animaux appartenant à la faune sauvage indigène, à l’exception de ceux considérés comme gibier, sans préjudice des dispositions afférentes de la législation sur la chasse ;
+- la perturbation, la capture ou la mise à mort d’animaux appartenant à la faune sauvage indigène, à l’exception de ceux considérés comme gibier, sans préjudice des dispositions afférentes de la législation sur la chasse ;
 
-13. les chiens non tenus en laisse, sans préjudice de l’exercice de la chasse ;
+- les chiens non tenus en laisse, sans préjudice de l’exercice de la chasse ;
 
-14. la circulation à pied en dehors des chemins et sentiers. Cette interdiction ne s’applique pas aux propriétaires des terrains, ni à leurs ayants cause ;
+- la circulation à pied en dehors des chemins et sentiers. Cette interdiction ne s’applique pas aux propriétaires des terrains, ni à leurs ayants cause ;
 
-15. la circulation à vélo ou à cheval en dehors des chemins et sentiers, à l’exception de l’exploitation forestière réalisée avec des chevaux de trait ;
+- la circulation à vélo ou à cheval en dehors des chemins et sentiers, à l’exception de l’exploitation forestière réalisée avec des chevaux de trait ;
 
-16. la circulation à l’aide de véhicules motorisés en dehors des voies publiques munies d’un revêtement à base d’asphalte, de macadam ou de béton. Cette interdiction ne s’applique pas aux propriétaires des terrains, ni à leurs ayants cause ;
+- la circulation à l’aide de véhicules motorisés en dehors des voies publiques munies d’un revêtement à base d’asphalte, de macadam ou de béton. Cette interdiction ne s’applique pas aux propriétaires des terrains, ni à leurs ayants cause ;
 
-17. la circulation surfacique avec des engins motorisés dans le contexte de l’exploitation forestière, à l’exception de la circulation des engins sylvicoles sur les chemins existants ou sur des layons de débardage distancés les uns des autres de 40 mètres au minimum ;
+- la circulation surfacique avec des engins motorisés dans le contexte de l’exploitation forestière, à l’exception de la circulation des engins sylvicoles sur les chemins existants ou sur des layons de débardage distancés les uns des autres de 40 mètres au minimum ;
 
-18. la transformation de peuplements feuillus en peuplements résineux ;
+- la transformation de peuplements feuillus en peuplements résineux ;
 
-19. la plantation de résineux ou d’essences allochtones dans les forêts publiques ;
+- la plantation de résineux ou d’essences allochtones dans les forêts publiques ;
 
-20. l’emploi de pesticides, la fertilisation ou le chaulage ;
+- l’emploi de pesticides, la fertilisation ou le chaulage ;
 
-21. l’exploitation forestière des forêts feuillues domaniales, à l’exception des travaux nécessaires pour des raisons de sécurité le long des chemins et sentiers balisés, les arbres abattus étant à abandonner sur place.
+- l’exploitation forestière des forêts feuillues domaniales, à l’exception des travaux nécessaires pour des raisons de sécurité le long des chemins et sentiers balisés, les arbres abattus étant à abandonner sur place.
 
 <a id="art-4"></a>
 ## Art. 4.
 
 Les dispositions énumérées à l’article 3 ne s’appliquent pas aux mesures et activités prises :
 
-1. dans l’intérêt de la conservation, du suivi scientifique ou de la gestion de la zone protégée d’intérêt national ;
+- dans l’intérêt de la conservation, du suivi scientifique ou de la gestion de la zone protégée d’intérêt national ;
 
-2. dans le cadre des sondages servant à l’identification de sources d’eau potable ou des travaux relatifs au captage ou à la distribution d’eau potable destinée à la consommation humaine ;
+- dans le cadre des sondages servant à l’identification de sources d’eau potable ou des travaux relatifs au captage ou à la distribution d’eau potable destinée à la consommation humaine ;
 
-3. dans l’intérêt de la promotion pédagogique ou de la sensibilisation environnementale ;
+- dans l’intérêt de la promotion pédagogique ou de la sensibilisation environnementale ;
 
-4. dans l’intérêt de la recherche scientifique, ainsi que de la conservation et restauration du patrimoine historique et culturel dans la zone protégée d’intérêt national.
+- dans l’intérêt de la recherche scientifique, ainsi que de la conservation et restauration du patrimoine historique et culturel dans la zone protégée d’intérêt national.
 
 Toutes ces mesures et activités restent toutefois soumises à autorisation préalable du ministre.
 

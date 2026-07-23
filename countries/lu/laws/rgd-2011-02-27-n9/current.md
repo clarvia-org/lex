@@ -37,42 +37,42 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Sont désignés comme emplois dans les administrations communales, syndicats de communes et établissements publics placés sous la surveillance des communes comportant une participation, directe ou indirecte, à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’Etat ou des autres personnes morales de droit public:
 
-1. les fonctions de secrétaire général adjoint, de secrétaire général et de secrétaire-administrateur général;
+- les fonctions de secrétaire général adjoint, de secrétaire général et de secrétaire-administrateur général;
 
-2. les fonctions de receveur général;
+- les fonctions de receveur général;
 
-3. les fonctions de secrétaire communal et de secrétaire-rédacteur;
+- les fonctions de secrétaire communal et de secrétaire-rédacteur;
 
-4. les fonctions de receveur communal;
+- les fonctions de receveur communal;
 
-5. les fonctions de garde champêtre.
+- les fonctions de garde champêtre.
 
-6. les fonctions d’agent municipal qui constate les infractions qui peuvent faire l’objet de sanctions administratives communales et les fonctions d’agent municipal qui remplit les conditions de l’article 15-1 bis du Code de procédure pénale .
+- les fonctions d’agent municipal qui constate les infractions qui peuvent faire l’objet de sanctions administratives communales et les fonctions d’agent municipal qui remplit les conditions de l’article 15-1 bis du Code de procédure pénale .
 
 <a id="art-2"></a>
 ## Art. 2.
 
 Le règlement grand-ducal du 15 novembre 2001 concernant le régime des employés communaux est modifié comme suit:
 
-1. A l’article 2, alinéa 1 er , les termes à durée indéterminée et pour une tâche égale ou supérieure à 25 pour cent d’une tâche complète , sont remplacés par les termes pour une tâche complète ou partielle et à durée déterminée ou indéterminée .
+- A l’article 2, alinéa 1 er , les termes à durée indéterminée et pour une tâche égale ou supérieure à 25 pour cent d’une tâche complète , sont remplacés par les termes pour une tâche complète ou partielle et à durée déterminée ou indéterminée .
 
-2. A l’article 3, alinéa 1 er , le point a) est remplacé comme suit: être ressortissant d’un Etat membre de l’Union Européenne;».
+- A l’article 3, alinéa 1 er , le point a) est remplacé comme suit: être ressortissant d’un Etat membre de l’Union Européenne;».
 
-3. A l’article 3, alinéa 1 er , au point e) le terme adéquate est remplacé par les termes adaptée au niveau de carrière .
+- A l’article 3, alinéa 1 er , au point e) le terme adéquate est remplacé par les termes adaptée au niveau de carrière .
 
-4. Le deuxième alinéa de l’article 3 est abrogé.
+- Le deuxième alinéa de l’article 3 est abrogé.
 
-5. A l’article 6, au paragraphe 1., le point a) est remplacé comme suit: de la perte de la nationalité de l’un des Etats membres de l’Union Européenne;».
+- A l’article 6, au paragraphe 1., le point a) est remplacé comme suit: de la perte de la nationalité de l’un des Etats membres de l’Union Européenne;».
 
-6. Au deuxième alinéa du paragraphe 2. de l’article 6, le mot luxembourgeoise est remplacé par les termes de l’un des Etats membres de l’Union Européenne .
+- Au deuxième alinéa du paragraphe 2. de l’article 6, le mot luxembourgeoise est remplacé par les termes de l’un des Etats membres de l’Union Européenne .
 
-7. L’alinéa 1 er du premier paragraphe de l’article 8 est remplacé comme suit: 1. Sans préjudice de l’application des dispositions de l’article 9 du présent règlement, l’employé communal en activité de service, qui bénéficie d’un contrat à durée indéterminée, a droit, pour lui-même et ses survivants, à l’application du régime de pension des fonctionnaires communaux s’il remplit une des conditions suivantes: s’il a à son actif vingt ans de service à compter de l’entrée en vigueur du contrat à durée indéterminée; à partir de l’âge de cinquante-cinq ans.
+- L’alinéa 1 er du premier paragraphe de l’article 8 est remplacé comme suit: 1. Sans préjudice de l’application des dispositions de l’article 9 du présent règlement, l’employé communal en activité de service, qui bénéficie d’un contrat à durée indéterminée, a droit, pour lui-même et ses survivants, à l’application du régime de pension des fonctionnaires communaux s’il remplit une des conditions suivantes: s’il a à son actif vingt ans de service à compter de l’entrée en vigueur du contrat à durée indéterminée; à partir de l’âge de cinquante-cinq ans.
 
-8. A l’article 9, au paragraphe 1. sous le point c), le mot luxembourgeoise est remplacé par les termes de l’un des Etats membres de l’Union Européenne .
+- A l’article 9, au paragraphe 1. sous le point c), le mot luxembourgeoise est remplacé par les termes de l’un des Etats membres de l’Union Européenne .
 
-9. A l’article 9, au paragraphe 1. sous le point d), le mot luxembourgeoise est remplacé par les termes de l’un des Etats membres de l’Union Européenne .
+- A l’article 9, au paragraphe 1. sous le point d), le mot luxembourgeoise est remplacé par les termes de l’un des Etats membres de l’Union Européenne .
 
-10. A l’article 9, au paragraphe 1., il est ajouté un nouvel point e), libellé comme suit: les périodes passées au service de l’Etat en qualité de fonctionnaire ou d’employé de l’Etat à condition que ces périodes se succèdent sans interruption et qu’elles rejoignent sans interruption la période sous contrat à durée indéterminée; l’interruption de cette dernière ne nuit pas à la prise en compte des périodes antérieures passées au service d’une commune ou de l’Etat, lorsqu’il y a reprise de service ultérieure.
+- A l’article 9, au paragraphe 1., il est ajouté un nouvel point e), libellé comme suit: les périodes passées au service de l’Etat en qualité de fonctionnaire ou d’employé de l’Etat à condition que ces périodes se succèdent sans interruption et qu’elles rejoignent sans interruption la période sous contrat à durée indéterminée; l’interruption de cette dernière ne nuit pas à la prise en compte des périodes antérieures passées au service d’une commune ou de l’Etat, lorsqu’il y a reprise de service ultérieure.
 
 <a id="art-3"></a>
 ## Art. 3.

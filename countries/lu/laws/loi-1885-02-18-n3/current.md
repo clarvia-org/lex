@@ -132,9 +132,9 @@ L'enregistrement du mémoire se réglera d'après les dispositions de l'art. 68,
 
 Il n'y aura d'exception à cette règle qu'en faveur :
 
-1. de ceux qui pourront faire constater leur indigence par certificat dûment délivré par l'autorité compétente, conformément à l'art. 2 de la loi du 7 juillet 1845 , sur le pro deo ;
+- de ceux qui pourront faire constater leur indigence par certificat dûment délivré par l'autorité compétente, conformément à l'art. 2 de la loi du 7 juillet 1845 , sur le pro deo ;
 
-2. des établissements de bienfaisance ou d'instruction publique, des administrations des bourses d'études, de la Caisse d'épargne, des fabriques d'église et des communes.
+- des établissements de bienfaisance ou d'instruction publique, des administrations des bourses d'études, de la Caisse d'épargne, des fabriques d'église et des communes.
 
 Dans ce cas, le mémoire et l'exploit de signification de l'huissier seront visés pour timbre et enregistrés en débet.
 
@@ -290,13 +290,13 @@ La cour de cassation qui cassera, soit un arrêt, soit un jugement, ordonnera qu
 
 Le greffier de la Cour supérieure de justice devra tenir, pour les demandes en cassation, un registre sur papier non timbré, sur lequel il consignera :
 
-1. le jour du dépôt des mémoires respectifs et des actes y joints ;
+- le jour du dépôt des mémoires respectifs et des actes y joints ;
 
-2. l’attestation de l’exactitude de l’inventaire de ces actes qui sera compris dans les mémoires ;
+- l’attestation de l’exactitude de l’inventaire de ces actes qui sera compris dans les mémoires ;
 
-3. le jour de la remise des pièces au président ;
+- le jour de la remise des pièces au président ;
 
-4. les jours d’audience de la Cour de cassation pour les conclusions du ministère public et le prononcé de l’arrêt.
+- les jours d’audience de la Cour de cassation pour les conclusions du ministère public et le prononcé de l’arrêt.
 
 <a id="art-39"></a>
 ## Art. 39.
@@ -395,9 +395,9 @@ En cas de jugement du fond par la Cour de cassation, l´arrêt ne peut plus êtr
 
 Dans les cas suivants, savoir:
 
-1. lorsque les magistrats de l´ordre judiciaire seront poursuivis pour crime et
+- lorsque les magistrats de l´ordre judiciaire seront poursuivis pour crime et
 
-2. lorsqu´il s´agira de demandes en révision, il sera procédé devant la Cour de cassation composée de la manière prévue aux articles 37, 38 et 135 de la loi du 7 mars 1980 sur l´organisation judiciaire.
+- lorsqu´il s´agira de demandes en révision, il sera procédé devant la Cour de cassation composée de la manière prévue aux articles 37, 38 et 135 de la loi du 7 mars 1980 sur l´organisation judiciaire.
 
 Les demandes en révision seront instruites devant la Cour de cassation qui y statuera sans que son arrêt puisse être ultérieurement attaqué par aucun moyen de droit.
 
@@ -424,11 +424,11 @@ Il n'est pas dérogé au recours en cassation introduit et réglé par les art. 
 
 Seront observés pour la procédure du dit recours les art. 18, 19, 20, 21, 22, 24, 29, 33, 34 et 38 de la présente loi, avec les modifications suivantes :
 
-1. l'arrêt qui prononcera la cassation statuera en même temps sur le fond, si la cause est en état ;
+- l'arrêt qui prononcera la cassation statuera en même temps sur le fond, si la cause est en état ;
 
-2. si l'affaire n'est pas en état, l'arrêt qui prononcera la cassation fixera la cause à une des prochaines audiences pour l'instruction du fond ;
+- si l'affaire n'est pas en état, l'arrêt qui prononcera la cassation fixera la cause à une des prochaines audiences pour l'instruction du fond ;
 
-3. celte instruction se fera comme en matière d'appel correctionnel, sans préjudice aux expertises à ordonner et aux enquêtes à recevoir par un conseiller-rapporteur.
+- celte instruction se fera comme en matière d'appel correctionnel, sans préjudice aux expertises à ordonner et aux enquêtes à recevoir par un conseiller-rapporteur.
 
 <a id="art-57"></a>
 ## Art. 57.

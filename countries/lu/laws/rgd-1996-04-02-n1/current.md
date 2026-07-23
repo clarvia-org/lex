@@ -148,13 +148,13 @@ Dans les services interentreprises, les examens médicaux peuvent avoir lieu:
 
 - soit dans les entreprises affiliées, à condition qu'il soit possible d'y effectuer les examens médicaux dans les conditions de salubrité requises; dans ce cas de figure, un minimum de locaux doit être mis à la disposition du médecin du travail:
 
-- un cabinet médical;
+  - un cabinet médical;
 
-- un local pour secrétariat avec possibilité d'effectuer divers examens complémentaires;
+  - un local pour secrétariat avec possibilité d'effectuer divers examens complémentaires;
 
-- une salle d'attente;
+  - une salle d'attente;
 
-- des cabinets d'aisance distincts pour hommes et femmes.
+  - des cabinets d'aisance distincts pour hommes et femmes.
 
 2.
 

@@ -94,18 +94,22 @@ La durée minimale de la formation visée au paragraphe 1er est de six heures. L
 <a id="art-3"></a>
 ## Art. 3.
 
-L’article 8 du règlement grand-ducal modifié du 19 février 1974 portant exécution de la loi du 19 février 1973 sur la vente de substances médicamenteuses et la lutte contre la toxicomanie est complété par un alinéa 7 et un alinéa 8, qui prennent la teneur suivante : Par dérogation aux dispositions qui précèdent, la période maximale de couverture d'une prescription est de trente jours pour le cannabis à des fins médicales, dont la quantité maximale de sommités fleuries séchées est fixée à 100000 milligrammes par trente jours. Par dérogation aux dispositions qui précèdent, la période maximale de couverture d'une prescription est de trente jours pour les extraits de cannabis, dont la teneur en Δ9-tétrahydrocannabinol (THC) ne peut pas dépasser 1000 milligrammes par trente jours.
+L’article 8 du règlement grand-ducal modifié du 19 février 1974 portant exécution de la loi du 19 février 1973 sur la vente de substances médicamenteuses et la lutte contre la toxicomanie est complété par un alinéa 7 et un alinéa 8, qui prennent la teneur suivante :
+
+Par dérogation aux dispositions qui précèdent, la période maximale de couverture d'une prescription est de trente jours pour le cannabis à des fins médicales, dont la quantité maximale de sommités fleuries séchées est fixée à 100000 milligrammes par trente jours.
+
+Par dérogation aux dispositions qui précèdent, la période maximale de couverture d'une prescription est de trente jours pour les extraits de cannabis, dont la teneur en Δ9-tétrahydrocannabinol (THC) ne peut pas dépasser 1000 milligrammes par trente jours.
 
 <a id="art-4"></a>
 ## Art. 4.
 
 Le règlement grand-ducal modifié du 18 janvier 2005 déterminant le modèle du carnet à souches prévu à l’article 30-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie est modifié comme suit :
 
-1. Entre les articles 3 et 4 est inséré un nouvel article 3 bis , libellé comme suit : Art. 3bis. L’annexe C détermine le modèle du carnet à souches à utiliser dans le cadre de la prescription de cannabis et de certains de ses dérivés à des fins médicales.
+- Entre les articles 3 et 4 est inséré un nouvel article 3 bis , libellé comme suit : Art. 3bis. L’annexe C détermine le modèle du carnet à souches à utiliser dans le cadre de la prescription de cannabis et de certains de ses dérivés à des fins médicales.
 
-2. L’article 4 est complété par une troisième phrase qui prend la teneur suivante : Le carnet visé à l’article 3bis est de couleur jaune – rose .
+- L’article 4 est complété par une troisième phrase qui prend la teneur suivante : Le carnet visé à l’article 3bis est de couleur jaune – rose .
 
-3. L’annexe est complétée par une annexe C figurant en annexe du présent règlement.
+- L’annexe est complétée par une annexe C figurant en annexe du présent règlement.
 
 <a id="art-5"></a>
 ## Art. 5.

@@ -38,19 +38,19 @@ Objectifs
 
 La présente loi a pour objectifs :
 
-1. la sauvegarde du caractère, de la diversité et de l’intégrité de l’environnement naturel ;
+- la sauvegarde du caractère, de la diversité et de l’intégrité de l’environnement naturel ;
 
-2. la protection et la restauration des paysages et des espaces naturels ;
+- la protection et la restauration des paysages et des espaces naturels ;
 
-3. la protection et la restauration des biotopes, des espèces et de leurs habitats, ainsi que des écosystèmes ;
+- la protection et la restauration des biotopes, des espèces et de leurs habitats, ainsi que des écosystèmes ;
 
-4. le maintien et l’amélioration des équilibres et de la diversité biologiques ;
+- le maintien et l’amélioration des équilibres et de la diversité biologiques ;
 
-5. la protection des ressources naturelles contre toutes dégradations ;
+- la protection des ressources naturelles contre toutes dégradations ;
 
-6. le maintien et la restauration des services écosystémiques ; et
+- le maintien et la restauration des services écosystémiques ; et
 
-7. l’amélioration des structures de l’environnement naturel.
+- l’amélioration des structures de l’environnement naturel.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -68,97 +68,97 @@ Définitions
 
 Au sens de la présente loi, on entend par :
 
-1. « zone verte » : des parties du territoire national non affectées en ordre principal à être urbanisées selon un plan d’aménagement général en vigueur. Dans les communes régies par un plan d’aménagement général régi par la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain, des parties du territoire national qui sont qualifiées selon le prédit plan de zones destinées à rester libres. À défaut de plan d’aménagement général, des parties du territoire national qui ne sont pas situées dans des zones qui sont viabilisées ;
+- « zone verte » : des parties du territoire national non affectées en ordre principal à être urbanisées selon un plan d’aménagement général en vigueur. Dans les communes régies par un plan d’aménagement général régi par la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain, des parties du territoire national qui sont qualifiées selon le prédit plan de zones destinées à rester libres. À défaut de plan d’aménagement général, des parties du territoire national qui ne sont pas situées dans des zones qui sont viabilisées ;
 
-2. « zone protégée d’intérêt communautaire » appelée « zone Natura 2000 » dans la présente loi : définie par voie de règlement grand-ducal selon l’article 31, qui doit assurer le maintien ou, le cas échéant, le rétablissement dans un état de conservation favorable, dans leurs aires de répartition naturelle, des habitats d’intérêt communautaire et des espèces d’intérêt communautaires ;
+- « zone protégée d’intérêt communautaire » appelée « zone Natura 2000 » dans la présente loi : définie par voie de règlement grand-ducal selon l’article 31, qui doit assurer le maintien ou, le cas échéant, le rétablissement dans un état de conservation favorable, dans leurs aires de répartition naturelle, des habitats d’intérêt communautaire et des espèces d’intérêt communautaires ;
 
-3. « réseau Natura 2000 » : un réseau écologique européen cohérent constitué de zones spéciales de conservation et de zones de protection spéciale ;
+- « réseau Natura 2000 » : un réseau écologique européen cohérent constitué de zones spéciales de conservation et de zones de protection spéciale ;
 
-4. « zone spéciale de conservation » : zone faisant partie intégrante du réseau Natura 2000 désignée conformément à l’article 31 où sont appliquées les mesures de conservation nécessaires au maintien ou au rétablissement dans un état de conservation favorable, des habitats d’intérêt communautaire et des populations des espèces d’intérêt communautaire pour lesquels le site est désigné ainsi que les mesures de conservation spéciales nécessaires pour préserver ou, le cas échéant, rétablir les habitats et les espèces pour lesquels le site est désigné ;
+- « zone spéciale de conservation » : zone faisant partie intégrante du réseau Natura 2000 désignée conformément à l’article 31 où sont appliquées les mesures de conservation nécessaires au maintien ou au rétablissement dans un état de conservation favorable, des habitats d’intérêt communautaire et des populations des espèces d’intérêt communautaire pour lesquels le site est désigné ainsi que les mesures de conservation spéciales nécessaires pour préserver ou, le cas échéant, rétablir les habitats et les espèces pour lesquels le site est désigné ;
 
-5. « zone de protection spéciale » : zone faisant partie intégrante du réseau Natura 2000 désignée conformément à l’article 31 où sont appliquées les mesures de conservation spéciales nécessaires pour préserver ou, le cas échéant, rétablir les habitats pour les espèces d’oiseaux pour lesquelles le site est désigné ;
+- « zone de protection spéciale » : zone faisant partie intégrante du réseau Natura 2000 désignée conformément à l’article 31 où sont appliquées les mesures de conservation spéciales nécessaires pour préserver ou, le cas échéant, rétablir les habitats pour les espèces d’oiseaux pour lesquelles le site est désigné ;
 
-6. « site d'intérêt communautaire » : site retenu en application de l’article 4, point 2, de la directive 92/43/CEE concernant la conservation des habitats d’intérêt communautaire ainsi que des espèces sauvages et précisé par l’article 4 ;
+- « site d'intérêt communautaire » : site retenu en application de l’article 4, point 2, de la directive 92/43/CEE concernant la conservation des habitats d’intérêt communautaire ainsi que des espèces sauvages et précisé par l’article 4 ;
 
-7. « zone protégée d’intérêt national » : zone d’importance nationale désignée sous forme de réserve naturelle, sous forme de paysage protégé ou sous forme de corridor écologique ;
+- « zone protégée d’intérêt national » : zone d’importance nationale désignée sous forme de réserve naturelle, sous forme de paysage protégé ou sous forme de corridor écologique ;
 
-8. « réserve naturelle » : site nécessitant une protection particulière en raison de la richesse, de la rareté ou de la spécificité de ses habitats ou de ses espèces sauvages ;
+- « réserve naturelle » : site nécessitant une protection particulière en raison de la richesse, de la rareté ou de la spécificité de ses habitats ou de ses espèces sauvages ;
 
-9. « paysage protégé » : site nécessitant une protection particulière en raison de la richesse de ses ressources naturelles, de la diversité, la spécificité et la beauté de son aspect paysager ou de sa fonction récréative et de détente ;
+- « paysage protégé » : site nécessitant une protection particulière en raison de la richesse de ses ressources naturelles, de la diversité, la spécificité et la beauté de son aspect paysager ou de sa fonction récréative et de détente ;
 
-10. « corridor écologique » : connexion entre des réservoirs de biodiversité offrant aux espèces des conditions favorables à leur déplacement et à l’accomplissement de leur cycle de vie ;
+- « corridor écologique » : connexion entre des réservoirs de biodiversité offrant aux espèces des conditions favorables à leur déplacement et à l’accomplissement de leur cycle de vie ;
 
-11. « secteur écologique » : partie d’un seul tenant du territoire national caractérisée par une configuration homogène des principaux facteurs écologiques et géophysiques du milieu. Les différents secteurs écologiques sont repris à l’annexe 6 ;
+- « secteur écologique » : partie d’un seul tenant du territoire national caractérisée par une configuration homogène des principaux facteurs écologiques et géophysiques du milieu. Les différents secteurs écologiques sont repris à l’annexe 6 ;
 
-12. « habitats naturels » : zones terrestres ou aquatiques, qui se distinguent par leurs caractéristiques géographiques, abiotiques et biotiques, qu’elles soient entièrement naturelles ou semi-naturelles. Les habitats d’intérêt communautaire listés en annexe 1 correspondent aux habitats naturels de la directive 92/43/CEE présents au Luxembourg ;
+- « habitats naturels » : zones terrestres ou aquatiques, qui se distinguent par leurs caractéristiques géographiques, abiotiques et biotiques, qu’elles soient entièrement naturelles ou semi-naturelles. Les habitats d’intérêt communautaire listés en annexe 1 correspondent aux habitats naturels de la directive 92/43/CEE présents au Luxembourg ;
 
-13. « état de conservation d’un habitat naturel » : l’effet de l’ensemble des influences agissant sur un habitat naturel ainsi que sur les espèces typiques qu’il abrite, qui peuvent affecter à long terme sa répartition naturelle, sa structure et ses fonctions ainsi que la survie à long terme de ses espèces typiques sur le territoire des États membres de l’Union européenne. L’état de conservation d’un habitat naturel sera considéré comme favorable lorsque : Par conservation, on entend un ensemble de mesures requises pour maintenir ou rétablir les habitats naturels dans un état de conservation favorable ;
+- « état de conservation d’un habitat naturel » : l’effet de l’ensemble des influences agissant sur un habitat naturel ainsi que sur les espèces typiques qu’il abrite, qui peuvent affecter à long terme sa répartition naturelle, sa structure et ses fonctions ainsi que la survie à long terme de ses espèces typiques sur le territoire des États membres de l’Union européenne. L’état de conservation d’un habitat naturel sera considéré comme favorable lorsque : Par conservation, on entend un ensemble de mesures requises pour maintenir ou rétablir les habitats naturels dans un état de conservation favorable ;
 
-1. son aire de répartition naturelle ainsi que les superficies qu’il couvre au sein de cette aire sont stables ou en extension ; et
+  - son aire de répartition naturelle ainsi que les superficies qu’il couvre au sein de cette aire sont stables ou en extension ; et
 
-2. la structure et les fonctions spécifiques nécessaires à son maintien à long terme existent et sont susceptibles de perdurer dans un avenir prévisible ; et
+  - la structure et les fonctions spécifiques nécessaires à son maintien à long terme existent et sont susceptibles de perdurer dans un avenir prévisible ; et
 
-3. l’état de conservation des espèces qui lui sont typiques est favorable au sens du point 15° de cet article.
+  - l’état de conservation des espèces qui lui sont typiques est favorable au sens du point 15° de cet article.
 
-14. « habitat d’une espèce » : le milieu défini par des facteurs abiotiques et biotiques spécifiques où vit l’espèce à l’un des stades de son cycle biologique ;
+- « habitat d’une espèce » : le milieu défini par des facteurs abiotiques et biotiques spécifiques où vit l’espèce à l’un des stades de son cycle biologique ;
 
-15. « état de conservation d’une espèce » : l’effet de l’ensemble des influences qui, agissant sur une espèce, peuvent affecter à long terme la répartition et l’importance de ses populations sur le territoire de l’Union européenne. L’état de conservation sera considéré comme favorable lorsque : Par conservation, on entend un ensemble de mesures requises pour maintenir ou rétablir les populations d’espèces sauvages dans un état de conservation favorable ;
+- « état de conservation d’une espèce » : l’effet de l’ensemble des influences qui, agissant sur une espèce, peuvent affecter à long terme la répartition et l’importance de ses populations sur le territoire de l’Union européenne. L’état de conservation sera considéré comme favorable lorsque : Par conservation, on entend un ensemble de mesures requises pour maintenir ou rétablir les populations d’espèces sauvages dans un état de conservation favorable ;
 
-1. les données relatives à la dynamique de la population de l’espèce en question indiquent que cette espèce continue et est susceptible de continuer à long terme à constituer un élément viable des habitats naturels auxquels elle appartient ; et
+  - les données relatives à la dynamique de la population de l’espèce en question indiquent que cette espèce continue et est susceptible de continuer à long terme à constituer un élément viable des habitats naturels auxquels elle appartient ; et
 
-2. l’aire de répartition naturelle de l’espèce ne diminue ni ne risque de diminuer dans un avenir prévisible ; et
+  - l’aire de répartition naturelle de l’espèce ne diminue ni ne risque de diminuer dans un avenir prévisible ; et
 
-3. il existe et il continuera probablement d’exister un habitat suffisamment étendu pour que ses populations se maintiennent à long terme.
+  - il existe et il continuera probablement d’exister un habitat suffisamment étendu pour que ses populations se maintiennent à long terme.
 
-16. « espèces Natura 2000 » : espèces d’intérêt communautaire visées par l’annexe II de la directive 92/43/CEE et par l’article 4, point 1, et l’article 4, point 2, de la directive 2009/147/CE . Ces espèces pour lesquelles les zones Natura 2000 sont désignées, sont listées en annexes 2 et 3 ;
+- « espèces Natura 2000 » : espèces d’intérêt communautaire visées par l’annexe II de la directive 92/43/CEE et par l’article 4, point 1, et l’article 4, point 2, de la directive 2009/147/CE . Ces espèces pour lesquelles les zones Natura 2000 sont désignées, sont listées en annexes 2 et 3 ;
 
-17. « espèces d’intérêt communautaire » : les espèces visées par l’article 1 er de la directive 2009/147/CE , ainsi que les espèces reprises par le point g) de l’article 1 er de la directive 92/43/CEE et qui sur le territoire européen des États membres où le Traité sur le fonctionnement de l’Union européenne s’applique sont :
+- « espèces d’intérêt communautaire » : les espèces visées par l’article 1 er de la directive 2009/147/CE , ainsi que les espèces reprises par le point g) de l’article 1 er de la directive 92/43/CEE et qui sur le territoire européen des États membres où le Traité sur le fonctionnement de l’Union européenne s’applique sont :
 
-1. en danger, excepté celles dont l’aire de répartition naturelle s’étend de manière marginale sur ce territoire et qui ne sont ni en danger ni vulnérables dans l’aire paléarctique occidentale ; ou
+  - en danger, excepté celles dont l’aire de répartition naturelle s’étend de manière marginale sur ce territoire et qui ne sont ni en danger ni vulnérables dans l’aire paléarctique occidentale ; ou
 
-2. vulnérables, c’est-à-dire dont le passage dans la catégorie des espèces en danger est jugé probable dans un avenir proche en cas de persistance des facteurs qui sont cause de la menace ; ou
+  - vulnérables, c’est-à-dire dont le passage dans la catégorie des espèces en danger est jugé probable dans un avenir proche en cas de persistance des facteurs qui sont cause de la menace ; ou
 
-3. rares, c’est-à-dire dont les populations sont de petite taille et qui, bien qu’elles ne soient pas actuellement en danger ou vulnérables, risquent de le devenir. Ces espèces sont localisées dans les aires géographiques restreintes ou éparpillées sur une vaste superficie, ou
+  - rares, c’est-à-dire dont les populations sont de petite taille et qui, bien qu’elles ne soient pas actuellement en danger ou vulnérables, risquent de le devenir. Ces espèces sont localisées dans les aires géographiques restreintes ou éparpillées sur une vaste superficie, ou
 
-4. endémiques et requièrent une attention particulière en raison de la superficie de leurs habitats ou des incidences potentielles de leur exploitation sur leur état de conservation ;
+  - endémiques et requièrent une attention particulière en raison de la superficie de leurs habitats ou des incidences potentielles de leur exploitation sur leur état de conservation ;
 
-18. « espèces relevantes » : espèces qui sur le territoire national sont rares, menacées ou constituent un facteur important de l’équilibre naturel et pour lesquelles l’État assume une responsabilité particulière en termes de conservation ;
+- « espèces relevantes » : espèces qui sur le territoire national sont rares, menacées ou constituent un facteur important de l’équilibre naturel et pour lesquelles l’État assume une responsabilité particulière en termes de conservation ;
 
-19. « espèces protégées particulièrement » : espèces protégées soumises à un régime de protection particulière qui peut être intégral ou partiel en raison de leur rareté ou de leur vulnérabilité. Cette protection particulière peut être limitée à des formes de développement, à des parties de ces espèces, à des périodes de protection ainsi qu’à des modes d’exploitation ou de capture. Parmi ces espèces figurent également les espèces d’intérêt communautaire listées dans les annexes 4 et 5 ainsi que toutes les espèces d’oiseaux du territoire européen visées à l’article 1er de la directive 2009/147/CE ;
+- « espèces protégées particulièrement » : espèces protégées soumises à un régime de protection particulière qui peut être intégral ou partiel en raison de leur rareté ou de leur vulnérabilité. Cette protection particulière peut être limitée à des formes de développement, à des parties de ces espèces, à des périodes de protection ainsi qu’à des modes d’exploitation ou de capture. Parmi ces espèces figurent également les espèces d’intérêt communautaire listées dans les annexes 4 et 5 ainsi que toutes les espèces d’oiseaux du territoire européen visées à l’article 1er de la directive 2009/147/CE ;
 
-20. « spécimen » : tout animal ou plante, vivant ou mort, toute partie ou tout produit obtenu à partir d’un animal ou d’une plante ainsi que toute autre marchandise dans le cas où il ressort du document justificatif, de l’emballage ou d’une étiquette ou de toutes autres circonstances qu’il s’agit de parties ou de produits d’animaux ou de plantes ;
+- « spécimen » : tout animal ou plante, vivant ou mort, toute partie ou tout produit obtenu à partir d’un animal ou d’une plante ainsi que toute autre marchandise dans le cas où il ressort du document justificatif, de l’emballage ou d’une étiquette ou de toutes autres circonstances qu’il s’agit de parties ou de produits d’animaux ou de plantes ;
 
-21. « biotope » : milieu biologique déterminé offrant des conditions d’habitat à un ensemble d’espèces animales ou végétales. Les biotopes protégés conformément à l’article 17, figurant à l’annexe 8, sont précisés par règlement grand-ducal en fonction de leur valeur écologique, de leur rareté ou de leur vulnérabilité ;
+- « biotope » : milieu biologique déterminé offrant des conditions d’habitat à un ensemble d’espèces animales ou végétales. Les biotopes protégés conformément à l’article 17, figurant à l’annexe 8, sont précisés par règlement grand-ducal en fonction de leur valeur écologique, de leur rareté ou de leur vulnérabilité ;
 
-22. « système numérique d’évaluation et de compensation » : outil destiné à estimer la valeur écologique relative, exprimée en éco-points, d’un site ou d'une zone visés par un projet en vue de définir l’envergure des mesures compensatoires nécessaires et afin de déterminer la valeur écologique des mesures compensatoires réalisées ou prévues ;
+- « système numérique d’évaluation et de compensation » : outil destiné à estimer la valeur écologique relative, exprimée en éco-points, d’un site ou d'une zone visés par un projet en vue de définir l’envergure des mesures compensatoires nécessaires et afin de déterminer la valeur écologique des mesures compensatoires réalisées ou prévues ;
 
-23. « prioritaire » : espèce ou habitat pour la conservation desquels les États membres de l’Union européenne portent une responsabilité particulière, compte tenu de l’importance de la part de leur aire de répartition naturelle comprise dans leur territoire ;
+- « prioritaire » : espèce ou habitat pour la conservation desquels les États membres de l’Union européenne portent une responsabilité particulière, compte tenu de l’importance de la part de leur aire de répartition naturelle comprise dans leur territoire ;
 
-24. « pool compensatoire » : zone définie en application de l’article 64 pouvant servir à la mise en œuvre de mesures compensatoires ;
+- « pool compensatoire » : zone définie en application de l’article 64 pouvant servir à la mise en œuvre de mesures compensatoires ;
 
-25. « connectivité écologique » : lien fonctionnel entre les différents habitats vitaux pour une espèce protégée, permettant la migration des individus et la circulation des gènes ;
+- « connectivité écologique » : lien fonctionnel entre les différents habitats vitaux pour une espèce protégée, permettant la migration des individus et la circulation des gènes ;
 
-26. « construction » : tout aménagement, bâtiment, ouvrage et installation comprenant un assemblage de matériaux reliés ensemble artificiellement de façon durable, incorporé ou non au sol, à la surface ou sous terre. L’annexe 9 liste les installations qui ne sont pas comprises dans la notion de construction.
+- « construction » : tout aménagement, bâtiment, ouvrage et installation comprenant un assemblage de matériaux reliés ensemble artificiellement de façon durable, incorporé ou non au sol, à la surface ou sous terre. L’annexe 9 liste les installations qui ne sont pas comprises dans la notion de construction.
 
-27. « ministre » : ministre ayant l’Environnement dans ses attributions ;
+- « ministre » : ministre ayant l’Environnement dans ses attributions ;
 
-28. « syndicats de communes » : syndicats de communes ayant pour objet la protection de la nature, créés et régis par la loi modifiée du 23 février 2001 concernant les syndicats de communes, ainsi que syndicats de parcs naturels, créés et régis par la loi modifiée du 10 août 1993 relative aux parcs naturels ;
+- « syndicats de communes » : syndicats de communes ayant pour objet la protection de la nature, créés et régis par la loi modifiée du 23 février 2001 concernant les syndicats de communes, ainsi que syndicats de parcs naturels, créés et régis par la loi modifiée du 10 août 1993 relative aux parcs naturels ;
 
-29. « écosystème » : le complexe dynamique formé de communauté de plantes, d’animaux, de microorganismes et de leur environnement naturel non-vivant qui, par leur interaction, forment une unité fonctionnelle ;
+- « écosystème » : le complexe dynamique formé de communauté de plantes, d’animaux, de microorganismes et de leur environnement naturel non-vivant qui, par leur interaction, forment une unité fonctionnelle ;
 
-30. « services écosystémiques » : les contributions directes et indirectes des écosystèmes au bien-être humain ;
+- « services écosystémiques » : les contributions directes et indirectes des écosystèmes au bien-être humain ;
 
-31. « personne agréée » : toute personne qui a un agrément dans le cadre de la loi du 21 avril 1993 relative à l’agrément de personnes physiques ou morales privées ou publiques autres que l’État pour l’accomplissement de tâches techniques d’étude et de vérification dans le domaine de l’environnement ;
+- « personne agréée » : toute personne qui a un agrément dans le cadre de la loi du 21 avril 1993 relative à l’agrément de personnes physiques ou morales privées ou publiques autres que l’État pour l’accomplissement de tâches techniques d’étude et de vérification dans le domaine de l’environnement ;
 
-32. « réduction, destruction ou détérioration d’un biotope protégé ou habitat visé par l’article 17 » : toute mesure ou combinaison de mesures, par laquelle un biotope protégé ou habitat visé par l’article 17 est diminué quantitativement dans sa structure ou qualitativement dans ses fonctions écologiques, voire anéanti, dans sa structure ou ses fonctions écologiques, dues à une action mécanique, thermique ou chimique, à une modification des facteurs abiotiques, à un emploi de substances, à une gestion ou exploitation non adaptée, à une introduction de spécimens d’espèces ou à un enlèvement non approprié d’éléments ou parties constituants ;
+- « réduction, destruction ou détérioration d’un biotope protégé ou habitat visé par l’article 17 » : toute mesure ou combinaison de mesures, par laquelle un biotope protégé ou habitat visé par l’article 17 est diminué quantitativement dans sa structure ou qualitativement dans ses fonctions écologiques, voire anéanti, dans sa structure ou ses fonctions écologiques, dues à une action mécanique, thermique ou chimique, à une modification des facteurs abiotiques, à un emploi de substances, à une gestion ou exploitation non adaptée, à une introduction de spécimens d’espèces ou à un enlèvement non approprié d’éléments ou parties constituants ;
 
-33. « facteurs abiotiques » : ensemble de facteurs physico-chimiques d’un écosystème ayant une influence sur l’ensemble des êtres vivants qui occupent un biotope donné ;
+- « facteurs abiotiques » : ensemble de facteurs physico-chimiques d’un écosystème ayant une influence sur l’ensemble des êtres vivants qui occupent un biotope donné ;
 
-34. « arbre remarquable » : arbre présentant un intérêt paysager, biologique, morphologique, dendrologique, historique ou commémoratif ;
+- « arbre remarquable » : arbre présentant un intérêt paysager, biologique, morphologique, dendrologique, historique ou commémoratif ;
 
-35. « pollution lumineuse » : le changement de la lumière naturelle dans l’environnement nocturne par des sources d’éclairage artificiel ;
+- « pollution lumineuse » : le changement de la lumière naturelle dans l’environnement nocturne par des sources d’éclairage artificiel ;
 
-36. « dépôt de matériaux » : toute accumulation d’une ou de plusieurs matières en un lieu pour les conserver et, le cas échéant, les redistribuer ou les consommer selon la situation. Ne sont pas visés les produits issus d’une activité agricole, viticole, sylvicole ou maraîchère.
+- « dépôt de matériaux » : toute accumulation d’une ou de plusieurs matières en un lieu pour les conserver et, le cas échéant, les redistribuer ou les consommer selon la situation. Ne sont pas visés les produits issus d’une activité agricole, viticole, sylvicole ou maraîchère.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -173,27 +173,27 @@ Sans préjudice des annexes à la présente loi, des listes ou cartes des types 
 
 Ces listes comportent, le cas échéant, les informations suivantes :
 
-1. le nom scientifique, et les noms en langue française et en langue allemande, ou dans une seule de ces deux langues ;
+- le nom scientifique, et les noms en langue française et en langue allemande, ou dans une seule de ces deux langues ;
 
-2. le code retenu par la directive concernée ;
+- le code retenu par la directive concernée ;
 
-3. le code correspondant retenu au niveau national ;
+- le code correspondant retenu au niveau national ;
 
-4. la dénomination exacte de chacun des sites, zones, types d’habitats et d’espèces présents au Luxembourg ;
+- la dénomination exacte de chacun des sites, zones, types d’habitats et d’espèces présents au Luxembourg ;
 
-5. la justification sommaire des sites, zones, types d’habitats et d’espèces au regard de leur protection ;
+- la justification sommaire des sites, zones, types d’habitats et d’espèces au regard de leur protection ;
 
-6. un signe ou un symbole pour désigner les habitats et les espèces prioritaires ;
+- un signe ou un symbole pour désigner les habitats et les espèces prioritaires ;
 
-7. la surface approximative des types d’habitats, de sites et de zones telle qu’elle est établie au jour du dépôt du projet de règlement grand-ducal ;
+- la surface approximative des types d’habitats, de sites et de zones telle qu’elle est établie au jour du dépôt du projet de règlement grand-ducal ;
 
-8. une carte topographique à l’échelle pouvant être de 1/2.500 jusqu’à 1/10.000 le cas échéant, qui sera reproduite en annexe du règlement concerné en format réduit ; la carte originale qui seule fait foi pourra être consultée en original au ministère et sa reproduction numérique pourra être accessible sur un site électronique du ministère ayant l’Environnement dans ses attributions, sinon d’une administration habilitée à cette fin ;
+- une carte topographique à l’échelle pouvant être de 1/2.500 jusqu’à 1/10.000 le cas échéant, qui sera reproduite en annexe du règlement concerné en format réduit ; la carte originale qui seule fait foi pourra être consultée en original au ministère et sa reproduction numérique pourra être accessible sur un site électronique du ministère ayant l’Environnement dans ses attributions, sinon d’une administration habilitée à cette fin ;
 
-9. l’état de conservation sur base d’une analyse sommaire effectuée ;
+- l’état de conservation sur base d’une analyse sommaire effectuée ;
 
-10. le statut éventuel d’une espèce d’oiseaux, à savoir s’il s’agit d’un oiseau nicheur, avec la mention éventuelle si sa présence au Luxembourg est occasionnelle ou si l’espèce est éteinte, un oiseau migrateur, avec la mention éventuelle si sa présence au Luxembourg est rare, un oiseau hivernant avec la mention éventuelle si sa présence au Luxembourg est rare ;
+- le statut éventuel d’une espèce d’oiseaux, à savoir s’il s’agit d’un oiseau nicheur, avec la mention éventuelle si sa présence au Luxembourg est occasionnelle ou si l’espèce est éteinte, un oiseau migrateur, avec la mention éventuelle si sa présence au Luxembourg est rare, un oiseau hivernant avec la mention éventuelle si sa présence au Luxembourg est rare ;
 
-11. le degré de protection, intégral ou partiel.
+- le degré de protection, intégral ou partiel.
 
 #### Chapitre 3 Mesures générales de conservation
 
@@ -235,19 +235,19 @@ Ne comptent pas comme activités d’exploitation au sens de la présente loi le
 
 Les activités d’exploitation visées à l’alinéa 1er et les constructions autorisables doivent répondre aux critères suivants :
 
-1. Les activités d’exploitation agricole, horticole, maraîchère et viticole sont opérées à titre principal au sens de la loi modifiée du 27 juin 2016 concernant le soutien au développement durable des zones rurales. Ne sont pas autorisables les installations et constructions en rapport avec la vente par les horticulteurs et pépiniéristes de produits accessoires de leur activité ou de produits végétaux qui ne sont pas issus de leur exploitation. Ne constituent pas une activité d’exploitation agricole l’élevage ou la garde d’animaux domestiques de compagnie.
+- Les activités d’exploitation agricole, horticole, maraîchère et viticole sont opérées à titre principal au sens de la loi modifiée du 27 juin 2016 concernant le soutien au développement durable des zones rurales. Ne sont pas autorisables les installations et constructions en rapport avec la vente par les horticulteurs et pépiniéristes de produits accessoires de leur activité ou de produits végétaux qui ne sont pas issus de leur exploitation. Ne constituent pas une activité d’exploitation agricole l’élevage ou la garde d’animaux domestiques de compagnie.
 
-2. Par activités d’exploitation sylvicole, on entend les activités comportant les travaux et pratiques par lesquels est assurée la gestion durable d’une forêt ou d’un boisement dans un objectif soit de production de bois, soit de conservation au profit des générations futures, soit écologique. Ne comptent pas comme activité sylvicole, les activités de transformation de bois en tant que matière première énergétique ou de construction. Seules des constructions sylvicoles en rapport direct avec la forêt exploitée sont autorisables. Ne sont pas autorisables les dépôts et ateliers servant à l’entreposage de machines, d’outils et de matériels des entreprises exerçant leurs activités principalement sur des terrains appartenant à des tiers.
+- Par activités d’exploitation sylvicole, on entend les activités comportant les travaux et pratiques par lesquels est assurée la gestion durable d’une forêt ou d’un boisement dans un objectif soit de production de bois, soit de conservation au profit des générations futures, soit écologique. Ne comptent pas comme activité sylvicole, les activités de transformation de bois en tant que matière première énergétique ou de construction. Seules des constructions sylvicoles en rapport direct avec la forêt exploitée sont autorisables. Ne sont pas autorisables les dépôts et ateliers servant à l’entreposage de machines, d’outils et de matériels des entreprises exerçant leurs activités principalement sur des terrains appartenant à des tiers.
 
-3. Par exploitation piscicole, on entend une entreprise qui se consacre à la production piscicole d’espèces de poissons autochtones dans des bassins d’eau en plein air et est exploitée toute l’année.
+- Par exploitation piscicole, on entend une entreprise qui se consacre à la production piscicole d’espèces de poissons autochtones dans des bassins d’eau en plein air et est exploitée toute l’année.
 
-4. L’activité d’exploitation apicole comprend les opérations de fabrication de miel depuis la pose des ruches jusqu’à la collecte du miel par l’apiculteur. Seules les exploitations apicoles disposant d’un nombre de ruches supérieur à trente sont habilitées à ériger un abri apicole en zone verte.
+- L’activité d’exploitation apicole comprend les opérations de fabrication de miel depuis la pose des ruches jusqu’à la collecte du miel par l’apiculteur. Seules les exploitations apicoles disposant d’un nombre de ruches supérieur à trente sont habilitées à ériger un abri apicole en zone verte.
 
-5. Par exploitation cynégétique, on entend l’exercice du droit de chasse par un locataire de chasse en possession d’un contrat de bail de chasse d’un lot de chasse. Seule est autorisée une cabane de chasse par lot de chasse et pour la durée du bail. Les miradors ne sont autorisés que pour la durée du bail du lot de chasse. Ne constituent pas une activité d’exploitation cynégétique l’élevage, le dressage et l’entraînement des chiens de chasse.
+- Par exploitation cynégétique, on entend l’exercice du droit de chasse par un locataire de chasse en possession d’un contrat de bail de chasse d’un lot de chasse. Seule est autorisée une cabane de chasse par lot de chasse et pour la durée du bail. Les miradors ne sont autorisés que pour la durée du bail du lot de chasse. Ne constituent pas une activité d’exploitation cynégétique l’élevage, le dressage et l’entraînement des chiens de chasse.
 
-6. Par dérogation au paragraphe 1 er , point 1°, première phrase, sont autorisées des constructions de petite envergure, lorsqu’il s’agit d’activités d’exploitation qui comportent la gestion des surfaces proches de leur état naturel. Sont visées la détention en plein air d’animaux de pâturage ou autres activités agricoles, horticoles ou maraichères. Un règlement grand-ducal précise la surface maximale de ces abris en fonction de la surface exploitée, du type d’exploitation et, le cas échéant, du nombre des animaux.
+- Par dérogation au paragraphe 1 er , point 1°, première phrase, sont autorisées des constructions de petite envergure, lorsqu’il s’agit d’activités d’exploitation qui comportent la gestion des surfaces proches de leur état naturel. Sont visées la détention en plein air d’animaux de pâturage ou autres activités agricoles, horticoles ou maraichères. Un règlement grand-ducal précise la surface maximale de ces abris en fonction de la surface exploitée, du type d’exploitation et, le cas échéant, du nombre des animaux.
 
-7. Un règlement grand-ducal détermine les dispositions à respecter relatives aux dimensions, au nombre, à la surface, à l’implantation, à la durabilité et à l’intégration des constructions.
+- Un règlement grand-ducal détermine les dispositions à respecter relatives aux dimensions, au nombre, à la surface, à l’implantation, à la durabilité et à l’intégration des constructions.
 
 (2)
 
@@ -294,17 +294,17 @@ Sont assimilées aux constructions légalement existantes les constructions éri
 
 Sont soumis à l’autorisation du ministre :
 
-1. le changement d’affectation d’une construction existante en zone verte, dans les conditions du paragraphe 3 ;
+- le changement d’affectation d’une construction existante en zone verte, dans les conditions du paragraphe 3 ;
 
-2. les travaux et constructions de sécurisation d’une construction existante en zone verte, dans les conditions du paragraphe 4 ;
+- les travaux et constructions de sécurisation d’une construction existante en zone verte, dans les conditions du paragraphe 4 ;
 
-3. les travaux et constructions de sécurisation du terrain situé en zone verte entourant des constructions existantes en zone verte ou entourant des constructions situées à l’intérieur de la zone urbanisée, dans les conditions du paragraphe 4 ;
+- les travaux et constructions de sécurisation du terrain situé en zone verte entourant des constructions existantes en zone verte ou entourant des constructions situées à l’intérieur de la zone urbanisée, dans les conditions du paragraphe 4 ;
 
-4. la modification de l’aspect extérieur des constructions existantes en zone verte, dans les conditions du paragraphe 5 ;
+- la modification de l’aspect extérieur des constructions existantes en zone verte, dans les conditions du paragraphe 5 ;
 
-5. la modification des dimensions des constructions existantes en zone verte, dans les conditions du paragraphe 6 ;
+- la modification des dimensions des constructions existantes en zone verte, dans les conditions du paragraphe 6 ;
 
-6. la reconstruction de constructions existantes en zone verte, dans les conditions du paragraphe 7.
+- la reconstruction de constructions existantes en zone verte, dans les conditions du paragraphe 7.
 
 (3)
 
@@ -324,21 +324,21 @@ Une modification de l’aspect extérieur visée au paragraphe 2, point 4°, est
 
 Une modification des dimensions visée au paragraphe 2, point 5°, est autorisée par le ministre si :
 
-1. l’affectation des constructions ne servant pas de logement :
+- l’affectation des constructions ne servant pas de logement :
 
-1. est compatible avec une des affectations prévues à l’article 6 ;
+  - est compatible avec une des affectations prévues à l’article 6 ;
 
-2. n’est pas compatible avec une des affectations prévues à l’article 6 mais les constructions sont légalement existantes ou assimilées au sens du paragraphe 1 er et que la modification des dimensions est nécessaire aux fins d’assainissement thermique des façades et du toit.
+  - n’est pas compatible avec une des affectations prévues à l’article 6 mais les constructions sont légalement existantes ou assimilées au sens du paragraphe 1 er et que la modification des dimensions est nécessaire aux fins d’assainissement thermique des façades et du toit.
 
-2. les constructions servant de logement sont légalement existantes ou assimilées au sens du paragraphe 1 er et pour
+- les constructions servant de logement sont légalement existantes ou assimilées au sens du paragraphe 1 er et pour
 
-1. l’augmentation de la surface d’emprise au sol des constructions autorisées en vertu de l’article 6, paragraphe 2 ;
+  - l’augmentation de la surface d’emprise au sol des constructions autorisées en vertu de l’article 6, paragraphe 2 ;
 
-2. l’assainissement thermique des façades et du toit ;
+  - l’assainissement thermique des façades et du toit ;
 
-3. la modification de la hauteur libre sous plafond des niveaux pleins dans la limite d’une hauteur maximale de 2,7 mètres ;
+  - la modification de la hauteur libre sous plafond des niveaux pleins dans la limite d’une hauteur maximale de 2,7 mètres ;
 
-4. la modification de la hauteur libre sous plafond du niveau sous combles dans la limite d’une hauteur maximale de 2,2 mètres sur la moitié de la surface.
+  - la modification de la hauteur libre sous plafond du niveau sous combles dans la limite d’une hauteur maximale de 2,2 mètres sur la moitié de la surface.
 
 (7)
 
@@ -384,9 +384,9 @@ Roulottes, caravanes, mobilhomes et embarcations fluviales
 
 Sans préjudice de l’article 6, paragraphe 4 ou de dispositions plus restrictives à édicter par le conseil communal, le stationnement de roulottes, de caravanes et de mobilhomes n’est permis que :
 
-1. sur les terrains de campings existants en zone verte dûment autorisés avant l’entrée en vigueur de la présente loi ;
+- sur les terrains de campings existants en zone verte dûment autorisés avant l’entrée en vigueur de la présente loi ;
 
-2. dans les zones de sports et de loisirs ou zones de camping où un stationnement permanent de roulottes, caravanes et mobilhomes est prévu et qui sont spécialement aménagées à cet effet.
+- dans les zones de sports et de loisirs ou zones de camping où un stationnement permanent de roulottes, caravanes et mobilhomes est prévu et qui sont spécialement aménagées à cet effet.
 
 (2)
 
@@ -445,15 +445,15 @@ Autorisation concernant certaines occupations du sol
 
 Une autorisation du ministre est requise :
 
-1. pour tout changement d’affectation de parcs d’agrément ;
+- pour tout changement d’affectation de parcs d’agrément ;
 
-2. pour tout boisement de terrains agricoles ou vains ;
+- pour tout boisement de terrains agricoles ou vains ;
 
-3. pour l’abattage, le déracinement ou la destruction d’un ou de plusieurs arbres bordant les chemins et routes ou formant limite entre parcelles cadastrales ;
+- pour l’abattage, le déracinement ou la destruction d’un ou de plusieurs arbres bordant les chemins et routes ou formant limite entre parcelles cadastrales ;
 
-4. pour la dénudation des rives de toutes les eaux courantes ou stagnantes de leur végétation y compris l’arrachage des arbres, arbustes et buissons ;
+- pour la dénudation des rives de toutes les eaux courantes ou stagnantes de leur végétation y compris l’arrachage des arbres, arbustes et buissons ;
 
-5. pour l’abattage, le déracinement ou la destruction d’un ou de plusieurs arbres sur les places publiques et sur les fonds constituant des dépendances d’un édifice public ou d’un monument public ou privé.
+- pour l’abattage, le déracinement ou la destruction d’un ou de plusieurs arbres sur les places publiques et sur les fonds constituant des dépendances d’un édifice public ou d’un monument public ou privé.
 
 (2)
 
@@ -511,13 +511,13 @@ Un règlement grand-ducal précise les mesures à considérer comme une réducti
 
 En zone verte, une autorisation portant dérogation à l’interdiction du paragraphe précédent peut être accordée à titre exceptionnel par le ministre :
 
-1. dans un but d’utilité publique ; ou de santé ou sécurité publiques ;
+- dans un but d’utilité publique ; ou de santé ou sécurité publiques ;
 
-2. pour les biotopes protégés autres que les habitats d’intérêt communautaire ou les habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation est évalué non favorable, en vue de la restructuration du parcellaire agricole ;
+- pour les biotopes protégés autres que les habitats d’intérêt communautaire ou les habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation est évalué non favorable, en vue de la restructuration du parcellaire agricole ;
 
-3. pour les biotopes protégés autres que les habitats d’intérêt communautaire ou les habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation est évalué non favorable, en vue de l’exécution des mesures de création ou de restauration de biotopes ou d’habitats dans le cadre d’un plan d’action d’habitat ou d’espèce tel que proposé par le plan national de la protection de la nature ou d’un plan de gestion arrêté en vertu des articles 35 ou 43 ;
+- pour les biotopes protégés autres que les habitats d’intérêt communautaire ou les habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation est évalué non favorable, en vue de l’exécution des mesures de création ou de restauration de biotopes ou d’habitats dans le cadre d’un plan d’action d’habitat ou d’espèce tel que proposé par le plan national de la protection de la nature ou d’un plan de gestion arrêté en vertu des articles 35 ou 43 ;
 
-4. pour les forêts feuillues autres que celles des habitats d’intérêt communautaire en vue d’une gestion forestière durable.
+- pour les forêts feuillues autres que celles des habitats d’intérêt communautaire en vue d’une gestion forestière durable.
 
 (3)
 
@@ -604,9 +604,9 @@ Il est interdit de détériorer ou détruire intentionnellement les habitats dan
 
 Les interdictions visées aux paragraphes 1 et 2 ne s'appliquent pas :
 
-1. aux opérations de gestion ou d'entretien d’un site en vue du maintien dans un état de conservation favorable des espèces et des habitats que ledit site abrite ;
+- aux opérations de gestion ou d'entretien d’un site en vue du maintien dans un état de conservation favorable des espèces et des habitats que ledit site abrite ;
 
-2. aux opérations de fauchage, de pâturage, de récolte ou de gestion forestière dans la mesure où ces opérations assurent le maintien dans un état de conservation favorable des espèces concernées.
+- aux opérations de fauchage, de pâturage, de récolte ou de gestion forestière dans la mesure où ces opérations assurent le maintien dans un état de conservation favorable des espèces concernées.
 
 (4)
 
@@ -621,17 +621,17 @@ Dispositions visant les espèces animales protégées particulièrement
 
 Concernant les espèces animales intégralement protégées en supplément des interdictions prévues à l’article 19, il est interdit :
 
-1. de piéger, de capturer et de mettre à mort intentionnellement des individus de telles espèces, quelle que soit la méthode employée ;
+- de piéger, de capturer et de mettre à mort intentionnellement des individus de telles espèces, quelle que soit la méthode employée ;
 
-2. de perturber intentionnellement des individus de telles espèces, notamment durant les périodes de reproduction, de dépendance, d'hibernation et de migration ;
+- de perturber intentionnellement des individus de telles espèces, notamment durant les périodes de reproduction, de dépendance, d'hibernation et de migration ;
 
-3. de détruire ou ramasser intentionnellement dans la nature ou de détenir les œufs de ces espèces ;
+- de détruire ou ramasser intentionnellement dans la nature ou de détenir les œufs de ces espèces ;
 
-4. de détériorer ou de détruire leurs sites de reproduction ou leurs aires de repos ;
+- de détériorer ou de détruire leurs sites de reproduction ou leurs aires de repos ;
 
-5. de naturaliser, de conserver, de collectionner ou de vendre des individus de telles espèces même trouvés blessés, malades ou morts ;
+- de naturaliser, de conserver, de collectionner ou de vendre des individus de telles espèces même trouvés blessés, malades ou morts ;
 
-6. d'exposer dans des lieux publics ces espèces.
+- d'exposer dans des lieux publics ces espèces.
 
 La détention, le transport, le commerce ou l’échange et l’offre aux fins de vente ou d’échange des espèces et des spécimens de ces espèces prélevés dans la nature ou naturalisés sont interdits.
 
@@ -672,19 +672,19 @@ Si, à la lumière de la surveillance prévue à l’article 29, l’état de co
 
 Si de telles mesures sont jugées nécessaires, elles doivent comporter la poursuite de la surveillance prévue par l’article 29. Elles peuvent en outre comporter les mesures suivantes :
 
-1. des prescriptions concernant l’accès à certains secteurs ;
+- des prescriptions concernant l’accès à certains secteurs ;
 
-2. l’interdiction temporaire ou locale du prélèvement des espèces ou de spécimens dans la nature et de l’exploitation de certaines espèces ;
+- l’interdiction temporaire ou locale du prélèvement des espèces ou de spécimens dans la nature et de l’exploitation de certaines espèces ;
 
-3. la réglementation des périodes et des modes de prélèvement de spécimens ou des espèces ;
+- la réglementation des périodes et des modes de prélèvement de spécimens ou des espèces ;
 
-4. l’application, lors du prélèvement d’espèces ou de spécimens, de règles cynégétiques ou halieutiques respectueuses de la conservation des espèces indigènes ;
+- l’application, lors du prélèvement d’espèces ou de spécimens, de règles cynégétiques ou halieutiques respectueuses de la conservation des espèces indigènes ;
 
-5. l’instauration d’un système d’autorisations de prélèvement des espèces et des spécimens ou de limitation du nombre des individus d’espèces et des spécimens ;
+- l’instauration d’un système d’autorisations de prélèvement des espèces et des spécimens ou de limitation du nombre des individus d’espèces et des spécimens ;
 
-6. l’élevage en captivité d’individus des espèces animales ainsi que la propagation artificielle d’espèces végétales, dans des conditions strictement contrôlées, en vue de réduire le prélèvement de ceux-ci dans la nature ;
+- l’élevage en captivité d’individus des espèces animales ainsi que la propagation artificielle d’espèces végétales, dans des conditions strictement contrôlées, en vue de réduire le prélèvement de ceux-ci dans la nature ;
 
-7. l’évaluation de l’effet des mesures adoptées.
+- l’évaluation de l’effet des mesures adoptées.
 
 Les conditions et modalités de mise en œuvre des prédites mesures peuvent être précisées par règlement grand-ducal.
 
@@ -715,11 +715,11 @@ L’importation d’espèces non indigènes dans le but de les rendre à la vie 
 
 L’autorisation du ministre n’est accordée que :
 
-1. si cette introduction dans la vie sauvage ne porte aucun préjudice aux habitats d’intérêt communautaire, aux espèces sauvages indigènes et aux biotopes ;
+- si cette introduction dans la vie sauvage ne porte aucun préjudice aux habitats d’intérêt communautaire, aux espèces sauvages indigènes et aux biotopes ;
 
-2. si cette introduction dans la vie sauvage est conforme avec le règlement (UE) n°1143/2014 du Parlement européen et du Conseil du 22 octobre 2014 relatif à la prévention et à la gestion de l’introduction et de la propagation des espèces exotiques envahissantes ; et
+- si cette introduction dans la vie sauvage est conforme avec le règlement (UE) n°1143/2014 du Parlement européen et du Conseil du 22 octobre 2014 relatif à la prévention et à la gestion de l’introduction et de la propagation des espèces exotiques envahissantes ; et
 
-3. sur avis du Conseil supérieur pour la protection de la nature et des ressources naturelles.
+- sur avis du Conseil supérieur pour la protection de la nature et des ressources naturelles.
 
 (3)
 
@@ -736,11 +736,11 @@ Pour le cas où certaines espèces animales protégées précisées à cette fin
 
 Ce règlement grand-ducal peut encore préciser les modalités et la procédure relative à cette indemnisation comprenant :
 
-1. la déclaration sans délai auprès de l’Administration de la nature et des forêts par le propriétaire ou l’exploitant ;
+- la déclaration sans délai auprès de l’Administration de la nature et des forêts par le propriétaire ou l’exploitant ;
 
-2. le constat sur place effectué par un agent de l’Administration de la nature et des forêts que le ou les dégâts matériels sont en lien direct avec les espèces animales protégées listées ainsi que le type de dégâts matériels ;
+- le constat sur place effectué par un agent de l’Administration de la nature et des forêts que le ou les dégâts matériels sont en lien direct avec les espèces animales protégées listées ainsi que le type de dégâts matériels ;
 
-3. un barème d’indemnisation devant distinguer entre les différents dégâts matériels. Pour les dégâts matériels aux espèces animales, ce barème doit tenir compte au moins de l’espèce animale, de son âge, de son sexe et de sa valeur vénale. Pour les dégâts matériels aux espèces végétales ou aux cultures, ce barème doit tenir compte de l’espèce végétale ou du type de culture, de la surface des dégâts matériels, de l’âge de l’espèce végétale ou de la maturité de la culture.
+- un barème d’indemnisation devant distinguer entre les différents dégâts matériels. Pour les dégâts matériels aux espèces animales, ce barème doit tenir compte au moins de l’espèce animale, de son âge, de son sexe et de sa valeur vénale. Pour les dégâts matériels aux espèces végétales ou aux cultures, ce barème doit tenir compte de l’espèce végétale ou du type de culture, de la surface des dégâts matériels, de l’âge de l’espèce végétale ou de la maturité de la culture.
 
 (2)
 
@@ -748,9 +748,9 @@ Des mesures préventives sont également éligibles au versement de subventions 
 
 Ce règlement grand-ducal précise encore la procédure et les modalités dans le cadre de demandes d’indemnisation de mesures préventives comprenant :
 
-1. une liste de mesures préventives éligibles pour prévenir des dégâts matériels à des espèces animales par des espèces animales protégées ;
+- une liste de mesures préventives éligibles pour prévenir des dégâts matériels à des espèces animales par des espèces animales protégées ;
 
-2. les productions des preuves de paiement relatives à l’installation des mesures préventives.
+- les productions des preuves de paiement relatives à l’installation des mesures préventives.
 
 ##### Section 5 Mesures d’atténuation et dérogation à la protection de certaines espèces
 
@@ -780,45 +780,45 @@ En ce qui concerne les espèces protégées particulièrement, ces autorisations
 
 En ce qui concerne les espèces d’oiseaux une dérogation peut uniquement être accordée pour un des motifs suivants :
 
-1. dans l’intérêt de la santé et de la sécurité publiques ;
+- dans l’intérêt de la santé et de la sécurité publiques ;
 
-2. dans l’intérêt de la sécurité aérienne ;
+- dans l’intérêt de la sécurité aérienne ;
 
-3. pour prévenir les dommages importants aux cultures, au bétail, aux forêts, aux pêcheries et aux eaux ;
+- pour prévenir les dommages importants aux cultures, au bétail, aux forêts, aux pêcheries et aux eaux ;
 
-4. pour la protection des espèces animales et végétales ;
+- pour la protection des espèces animales et végétales ;
 
-5. pour des fins de recherche et d’enseignement, de repeuplement, de réintroduction ainsi que pour l’élevage se rapportant à ces actions ;
+- pour des fins de recherche et d’enseignement, de repeuplement, de réintroduction ainsi que pour l’élevage se rapportant à ces actions ;
 
-6. pour permettre, dans des conditions strictement contrôlées et de manière sélective, la capture, la détention ou toute autre exploitation judicieuse de certains oiseaux en petites quantités.
+- pour permettre, dans des conditions strictement contrôlées et de manière sélective, la capture, la détention ou toute autre exploitation judicieuse de certains oiseaux en petites quantités.
 
 En ce qui concerne les autres espèces protégées particulièrement, hormis les espèces d’oiseaux, une dérogation peut uniquement être accordée pour un des motifs suivants :
 
-1. dans l'intérêt de la protection des espèces sauvages et de la conservation des habitats naturels ;
+- dans l'intérêt de la protection des espèces sauvages et de la conservation des habitats naturels ;
 
-2. pour prévenir des dommages importants notamment aux cultures, à l'élevage, aux forêts, aux pêcheries, aux eaux et à d'autres formes de propriété ;
+- pour prévenir des dommages importants notamment aux cultures, à l'élevage, aux forêts, aux pêcheries, aux eaux et à d'autres formes de propriété ;
 
-3. dans l'intérêt de la santé et de la sécurité publiques, ou pour d'autres raisons impératives d'intérêt public majeur, y compris de nature sociale ou économique, et pour des motifs qui comporteraient des conséquences bénéfiques primordiales pour l'environnement ;
+- dans l'intérêt de la santé et de la sécurité publiques, ou pour d'autres raisons impératives d'intérêt public majeur, y compris de nature sociale ou économique, et pour des motifs qui comporteraient des conséquences bénéfiques primordiales pour l'environnement ;
 
-4. à des fins de recherche et d'éducation, de repeuplement et de réintroduction de ces espèces et pour des opérations de reproduction nécessaires à ces fins, y compris la propagation artificielle d’espèces végétales ;
+- à des fins de recherche et d'éducation, de repeuplement et de réintroduction de ces espèces et pour des opérations de reproduction nécessaires à ces fins, y compris la propagation artificielle d’espèces végétales ;
 
-5. pour permettre, dans des conditions strictement contrôlées, d'une manière sélective et dans une mesure limitée, la prise ou la détention d'un nombre limité de certains spécimens de ces espèces.
+- pour permettre, dans des conditions strictement contrôlées, d'une manière sélective et dans une mesure limitée, la prise ou la détention d'un nombre limité de certains spécimens de ces espèces.
 
 (3)
 
 Les autorisations portant dérogation doivent mentionner :
 
-1. les espèces qui font l’objet des dérogations ;
+- les espèces qui font l’objet des dérogations ;
 
-2. les moyens, l’installation ou les méthodes de capture, de prélèvement ou de mise à mort autorisés ;
+- les moyens, l’installation ou les méthodes de capture, de prélèvement ou de mise à mort autorisés ;
 
-3. les conditions de risque et les circonstances de temps et de lieu dans lesquelles ces dérogations peuvent être prises ;
+- les conditions de risque et les circonstances de temps et de lieu dans lesquelles ces dérogations peuvent être prises ;
 
-4. les personnes habilitées à mettre en œuvre ces dérogations ;
+- les personnes habilitées à mettre en œuvre ces dérogations ;
 
-5. les contrôles administratifs et le suivi scientifique qui seront opérés ;
+- les contrôles administratifs et le suivi scientifique qui seront opérés ;
 
-6. les éventuelles mesures prises pour compenser l’incidence des opérations envisagées.
+- les éventuelles mesures prises pour compenser l’incidence des opérations envisagées.
 
 (4)
 
@@ -855,13 +855,13 @@ Le Gouvernement en conseil établit le projet désignant les sites susceptibles 
 
 Le projet de désignation comprend :
 
-1. une partie écrite comprenant les objectifs et mesures de maintien ou de rétablissement dans un état de conservation favorable des espèces et habitats ;
+- une partie écrite comprenant les objectifs et mesures de maintien ou de rétablissement dans un état de conservation favorable des espèces et habitats ;
 
-2. une partie graphique indiquant les prédits sites à une échelle pouvant aller de 1/5.000 à 1/50.000, publié en format réduit, dont l’original qui seule fait foi est consultable au ministère et reproduit numériquement sur un site électronique du ministère ayant l’environnement dans ses attributions, sinon d’une administration habilitée à cette fin ;
+- une partie graphique indiquant les prédits sites à une échelle pouvant aller de 1/5.000 à 1/50.000, publié en format réduit, dont l’original qui seule fait foi est consultable au ministère et reproduit numériquement sur un site électronique du ministère ayant l’environnement dans ses attributions, sinon d’une administration habilitée à cette fin ;
 
-3. une description scientifique de ces sites ;
+- une description scientifique de ces sites ;
 
-4. l’avant-projet de règlement grand-ducal y relatif.
+- l’avant-projet de règlement grand-ducal y relatif.
 
 (3)
 
@@ -875,9 +875,9 @@ Le projet de désignation fait l’objet d’une publication sur un support éle
 
 Après l’expiration du prédit délai de trente jours, l’Observatoire de l’Environnement naturel est demandé en son avis. À défaut de réception de son avis dans les deux mois de l’envoi du dossier, le ministre transmet le projet de désignation au Gouvernement en conseil qui, après délibération, peut continuer la procédure comme suit selon les zones visées :
 
-1. Concernant les zones spéciales de conservation : Le ministre transmet le projet de désignation des zones spéciales de conservation à la Commission Européenne qui arrête une liste des sites d’intérêt communautaire. Ces sites d’intérêt communautaire sont, après délibération du Gouvernement en conseil, déclarés obligatoires sous la forme de zones spéciales de conservation par règlement grand-ducal et publiés au Journal officiel du Grand-Duché de Luxembourg. Les sites d’intérêt communautaire, avant leur publication au Journal officiel du Grand-Duché de Luxembourg sous la forme de zones spéciales de conservation, sont soumis aux obligations de l’article 32.
+- Concernant les zones spéciales de conservation : Le ministre transmet le projet de désignation des zones spéciales de conservation à la Commission Européenne qui arrête une liste des sites d’intérêt communautaire. Ces sites d’intérêt communautaire sont, après délibération du Gouvernement en conseil, déclarés obligatoires sous la forme de zones spéciales de conservation par règlement grand-ducal et publiés au Journal officiel du Grand-Duché de Luxembourg. Les sites d’intérêt communautaire, avant leur publication au Journal officiel du Grand-Duché de Luxembourg sous la forme de zones spéciales de conservation, sont soumis aux obligations de l’article 32.
 
-2. Concernant les zones de protection spéciale : Après délibération du Gouvernement en conseil, les zones de protection spéciale sont définitivement désignées, déclarées obligatoires par règlement grand-ducal et publiées au Journal officiel du Grand-Duché de Luxembourg.
+- Concernant les zones de protection spéciale : Après délibération du Gouvernement en conseil, les zones de protection spéciale sont définitivement désignées, déclarées obligatoires par règlement grand-ducal et publiées au Journal officiel du Grand-Duché de Luxembourg.
 
 <a id="art-32"></a>
 ## Art. 32.
@@ -892,13 +892,13 @@ Sans préjudice du chapitre 12 et de ses règlements d’exécution, tout plan o
 
 L’évaluation des incidences est effectuée le cas échéant en plusieurs phases :
 
-1. une évaluation sommaire des incidences : elle identifie les conséquences possibles du plan ou du projet du paragraphe 1 er sur une zone Natura 2000 et établit si ce prédit plan ou projet risque d’affecter une zone Natura 2000 de manière significative ; à défaut pour l’évaluation sommaire d’écarter tout risque que la zone Natura 2000 soit affectée de manière significative, une évaluation des incidences doit être effectuée ;
+- une évaluation sommaire des incidences : elle identifie les conséquences possibles du plan ou du projet du paragraphe 1 er sur une zone Natura 2000 et établit si ce prédit plan ou projet risque d’affecter une zone Natura 2000 de manière significative ; à défaut pour l’évaluation sommaire d’écarter tout risque que la zone Natura 2000 soit affectée de manière significative, une évaluation des incidences doit être effectuée ;
 
-2. une évaluation des incidences : elle est effectuée dans l’hypothèse où un risque pour la zone Natura 2000 n’a pas pu être exclu dans le cadre de l’évaluation sommaire ; elle identifie le risque encouru à cause du plan ou projet par une zone Natura 2000 en fonction des objectifs et mesures de maintien ou de rétablissement de l’état de conservation des espèces et habitats de la zone ; l’évaluation identifie si le plan ou projet aura des incidences négatives sur la zone en portant atteinte à l’intégrité de cette zone ;
+- une évaluation des incidences : elle est effectuée dans l’hypothèse où un risque pour la zone Natura 2000 n’a pas pu être exclu dans le cadre de l’évaluation sommaire ; elle identifie le risque encouru à cause du plan ou projet par une zone Natura 2000 en fonction des objectifs et mesures de maintien ou de rétablissement de l’état de conservation des espèces et habitats de la zone ; l’évaluation identifie si le plan ou projet aura des incidences négatives sur la zone en portant atteinte à l’intégrité de cette zone ;
 
-3. l’évaluation des incidences est à compléter par une évaluation des solutions alternatives, lorsque l’évaluation ne permet pas d’exclure des incidences négatives sur une zone Natura 2000 ;
+- l’évaluation des incidences est à compléter par une évaluation des solutions alternatives, lorsque l’évaluation ne permet pas d’exclure des incidences négatives sur une zone Natura 2000 ;
 
-4. l’évaluation des incidences est à compléter, le cas échéant, par des mesures compensatoires dans les conditions de l’article 33.
+- l’évaluation des incidences est à compléter, le cas échéant, par des mesures compensatoires dans les conditions de l’article 33.
 
 (3)
 
@@ -952,11 +952,11 @@ Mesures de conservation
 
 Pour chaque zone Natura 2000, les mesures de conservation nécessaires sont prises et impliquent, le cas échéant :
 
-1. des plans de gestion appropriés spécifiques aux zones ou à un regroupement de zones, ou intégrés dans d’autres plans d’aménagement ;
+- des plans de gestion appropriés spécifiques aux zones ou à un regroupement de zones, ou intégrés dans d’autres plans d’aménagement ;
 
-2. les mesures réglementaires en exécution de la présente loi ;
+- les mesures réglementaires en exécution de la présente loi ;
 
-3. ainsi que les mesures administratives ou contractuelles.
+- ainsi que les mesures administratives ou contractuelles.
 
 Les mesures de conservation répondent aux exigences écologiques des habitats d’intérêt communautaire et des espèces Natura 2000 présents dans les zones. Les mesures de conservation tiennent compte des exigences économiques, sociales et culturelles, ainsi que des particularités régionales et locales.
 
@@ -969,21 +969,21 @@ Plans de gestion
 
 L’Administration de la nature et des forêts établit des projets de plans de gestion. Un plan de gestion peut être établi pour une ou plusieurs zones Natura 2000 et comprend :
 
-1. les objectifs déterminés pour les zones Natura 2000 concernées, en application des règlements grand-ducaux prévus par l’article 31 ;
+- les objectifs déterminés pour les zones Natura 2000 concernées, en application des règlements grand-ducaux prévus par l’article 31 ;
 
-2. une description succincte de la zone ou des zones Natura 2000 visées par le plan de gestion, comprenant notamment la situation géographique et géologique, ainsi que l’occupation du sol ;
+- une description succincte de la zone ou des zones Natura 2000 visées par le plan de gestion, comprenant notamment la situation géographique et géologique, ainsi que l’occupation du sol ;
 
-3. l’évaluation de l’état de conservation des habitats et des espèces avec leur localisation cartographique au niveau de la zone Natura 2000 concernée ;
+- l’évaluation de l’état de conservation des habitats et des espèces avec leur localisation cartographique au niveau de la zone Natura 2000 concernée ;
 
-4. le cas échéant, les besoins de surveillance afin de déterminer l’état de conservation ;
+- le cas échéant, les besoins de surveillance afin de déterminer l’état de conservation ;
 
-5. les risques et menaces pesant sur les habitats et les espèces ;
+- les risques et menaces pesant sur les habitats et les espèces ;
 
-6. les objectifs à long terme du plan de gestion qui correspondent au maintien, ou le cas échéant, au rétablissement de l’état de conservation favorable des habitats et des espèces ;
+- les objectifs à long terme du plan de gestion qui correspondent au maintien, ou le cas échéant, au rétablissement de l’état de conservation favorable des habitats et des espèces ;
 
-7. les objectifs opérationnels correspondant aux mesures de conservation ou de rétablissement à réaliser au niveau de la zone Natura 2000 concernée et leur localisation cartographique, afin d’atteindre un état de conservation favorable des habitats et des espèces ;
+- les objectifs opérationnels correspondant aux mesures de conservation ou de rétablissement à réaliser au niveau de la zone Natura 2000 concernée et leur localisation cartographique, afin d’atteindre un état de conservation favorable des habitats et des espèces ;
 
-8. d’autres objectifs éventuels tels que l’accueil du public, la recherche et les fins didactiques et pédagogiques.
+- d’autres objectifs éventuels tels que l’accueil du public, la recherche et les fins didactiques et pédagogiques.
 
 (2)
 
@@ -1010,27 +1010,27 @@ Comité de pilotage Natura 2000
 
 Sur initiative du ministre, un comité de pilotage Natura 2000 peut être arrêté par plan de gestion ou par regroupement de plans de gestion. Chaque comité peut comprendre, en fonction des objectifs et du contexte socio-économique des zones concernées, des représentants :
 
-1. du ministre ayant l’Environnement dans ses attributions ;
+- du ministre ayant l’Environnement dans ses attributions ;
 
-2. de l’Administration de la nature et des forêts ;
+- de l’Administration de la nature et des forêts ;
 
-3. de l’Administration de la gestion de l’eau ;
+- de l’Administration de la gestion de l’eau ;
 
-4. du ministre ayant l’Agriculture dans ses attributions ;
+- du ministre ayant l’Agriculture dans ses attributions ;
 
-5. des communes ou des syndicats de communes ;
+- des communes ou des syndicats de communes ;
 
-6. des propriétaires des fonds ;
+- des propriétaires des fonds ;
 
-7. de gestionnaires des infrastructures ;
+- de gestionnaires des infrastructures ;
 
-8. des organisations professionnelles exerçant leurs activités notamment dans le domaine agricole ;
+- des organisations professionnelles exerçant leurs activités notamment dans le domaine agricole ;
 
-9. des organisations professionnelles exerçant leurs activités notamment dans le domaine sylvicole ;
+- des organisations professionnelles exerçant leurs activités notamment dans le domaine sylvicole ;
 
-10. d'organismes exerçant leurs activités notamment dans les domaines de la pêche, de la chasse, du sport ou du tourisme ;
+- d'organismes exerçant leurs activités notamment dans les domaines de la pêche, de la chasse, du sport ou du tourisme ;
 
-11. d'organismes exerçant leurs activités dans le domaine de la préservation du patrimoine naturel ou d'associations agréées de protection de l'environnement.
+- d'organismes exerçant leurs activités dans le domaine de la préservation du patrimoine naturel ou d'associations agréées de protection de l'environnement.
 
 (2)
 
@@ -1083,17 +1083,17 @@ La création de zones protégées d’intérêt national est proposée par le mi
 
 Le ministre ordonne l’établissement d’un dossier comprenant :
 
-1. une note indiquant l’objet, les motifs, le statut de protection et la portée de l’opération ;
+- une note indiquant l’objet, les motifs, le statut de protection et la portée de l’opération ;
 
-2. la liste des communes incluses, en totalité ou en partie, dans la zone à protéger avec, par commune, l’indication des sections cadastrales correspondantes ;
+- la liste des communes incluses, en totalité ou en partie, dans la zone à protéger avec, par commune, l’indication des sections cadastrales correspondantes ;
 
-3. une carte topographique à l’échelle pouvant être de 1/2.500 jusqu’à 1/10.000 qui sera reproduite en format réduit, la carte pouvant être consultée en original au ministère et sa reproduction numérique pouvant être accessible sur un site électronique du ministère ayant l’environnement dans ses attributions, sinon d’une administration habilitée à cette fin ; cette carte comporte le tracé des limites de la zone à protéger ; seule la carte déposée au ministère fait foi ;
+- une carte topographique à l’échelle pouvant être de 1/2.500 jusqu’à 1/10.000 qui sera reproduite en format réduit, la carte pouvant être consultée en original au ministère et sa reproduction numérique pouvant être accessible sur un site électronique du ministère ayant l’environnement dans ses attributions, sinon d’une administration habilitée à cette fin ; cette carte comporte le tracé des limites de la zone à protéger ; seule la carte déposée au ministère fait foi ;
 
-4. un projet de plan de gestion sommaire établissant les objectifs à long terme concernant la conservation du patrimoine naturel et les mesures de gestion proposées ;
+- un projet de plan de gestion sommaire établissant les objectifs à long terme concernant la conservation du patrimoine naturel et les mesures de gestion proposées ;
 
-5. les charges éventuelles imposées aux propriétaires et détenteurs ainsi que les servitudes éventuelles valant pour la zone protégée ;
+- les charges éventuelles imposées aux propriétaires et détenteurs ainsi que les servitudes éventuelles valant pour la zone protégée ;
 
-6. l’avant-projet de règlement grand-ducal y relatif.
+- l’avant-projet de règlement grand-ducal y relatif.
 
 <a id="art-40"></a>
 ## Art. 40.
@@ -1128,37 +1128,37 @@ Servitudes et interdictions liées aux zones protégées d’intérêt national
 
 Le règlement grand-ducal déclarant une partie du territoire zone protégée d’intérêt national pourra imposer, afin de ne pas porter atteinte à la zone protégée d’intérêt national au sens des objectifs de l’article 39, au propriétaire ou au détenteur les charges et grever les fonds des servitudes suivantes :
 
-1. interdiction ou restriction des activités susceptibles de modifier le sol telles que fouilles, sondages, terrassements, dépôts de matériaux, extractions de matériaux ;
+- interdiction ou restriction des activités susceptibles de modifier le sol telles que fouilles, sondages, terrassements, dépôts de matériaux, extractions de matériaux ;
 
-2. interdiction ou restriction des activités susceptibles de modifier le régime des eaux ou l’utilisation des eaux ;
+- interdiction ou restriction des activités susceptibles de modifier le régime des eaux ou l’utilisation des eaux ;
 
-3. interdiction ou restriction de bâtir des constructions, des installations linéaires ;
+- interdiction ou restriction de bâtir des constructions, des installations linéaires ;
 
-4. interdiction du changement d’affectation des sols ;
+- interdiction du changement d’affectation des sols ;
 
-5. interdiction de la capture d’espèces animales non visées par le droit de chasse, d’espèces animales sauvages indigènes, de l’enlèvement, y compris l’abattage d’espèces végétales sauvages ;
+- interdiction de la capture d’espèces animales non visées par le droit de chasse, d’espèces animales sauvages indigènes, de l’enlèvement, y compris l’abattage d’espèces végétales sauvages ;
 
-6. interdiction ou restriction de planter certaines espèces végétales ;
+- interdiction ou restriction de planter certaines espèces végétales ;
 
-7. interdiction de destruction de biotopes ou d’habitats des espèces ;
+- interdiction de destruction de biotopes ou d’habitats des espèces ;
 
-8. interdiction ou restriction du droit de chasse et de pêche ;
+- interdiction ou restriction du droit de chasse et de pêche ;
 
-9. interdiction ou restriction d’appâter, d’agrainer, de piéger, de nourrir des espèces animales sauvages, ou encore d’installer des gagnages ;
+- interdiction ou restriction d’appâter, d’agrainer, de piéger, de nourrir des espèces animales sauvages, ou encore d’installer des gagnages ;
 
-10. interdiction ou restriction du droit de circuler par véhicule roulant motorisé ou non, à cheval, à pied ;
+- interdiction ou restriction du droit de circuler par véhicule roulant motorisé ou non, à cheval, à pied ;
 
-11. interdiction de la divagation d’animaux domestiques ;
+- interdiction de la divagation d’animaux domestiques ;
 
-12. interdiction ou restriction de l’emploi de pesticides, de boues d’épuration, de purin, de lisier, de fumier, d’engrais chimiques et organiques ;
+- interdiction ou restriction de l’emploi de pesticides, de boues d’épuration, de purin, de lisier, de fumier, d’engrais chimiques et organiques ;
 
-13. interdiction ou restriction du régime de fauchage ou de pâturage ;
+- interdiction ou restriction du régime de fauchage ou de pâturage ;
 
-14. interdiction ou restriction d’activités forestières, de l’exploitation forestière ;
+- interdiction ou restriction d’activités forestières, de l’exploitation forestière ;
 
-15. interdiction ou restriction de manifestations sportives, touristiques, culturelles ou de loisirs ;
+- interdiction ou restriction de manifestations sportives, touristiques, culturelles ou de loisirs ;
 
-16. interdiction d’activités incompatibles avec la tranquillité du site.
+- interdiction d’activités incompatibles avec la tranquillité du site.
 
 Les effets de cette déclaration suivent le territoire classé, en quelque main qu’il passe.
 
@@ -1219,23 +1219,23 @@ Tous les cinq ans après l’approbation du plan national concernant la protecti
 
 Ce plan guide l’orientation politique en matière de protection de la nature et comprend les éléments suivants :
 
-1. l’état de conservation des habitats et des espèces et l’évolution de la diversité biologique ;
+- l’état de conservation des habitats et des espèces et l’évolution de la diversité biologique ;
 
-2. les mesures prioritaires concernant la protection de l’environnement naturel ;
+- les mesures prioritaires concernant la protection de l’environnement naturel ;
 
-3. l’énumération des habitats et espèces faisant l’objet d’un plan d’action ;
+- l’énumération des habitats et espèces faisant l’objet d’un plan d’action ;
 
-4. les zones visées par des mesures de conservation et de restauration en vertu de plans d’action d’habitats et d’espèces menacées ;
+- les zones visées par des mesures de conservation et de restauration en vertu de plans d’action d’habitats et d’espèces menacées ;
 
-5. les sites prioritaires en vue d’être déclarés zone protégée d’intérêt national ;
+- les sites prioritaires en vue d’être déclarés zone protégée d’intérêt national ;
 
-6. la sensibilisation du public ;
+- la sensibilisation du public ;
 
-7. la contribution et la participation des communes et syndicats de communes lors de mise en œuvre concrète du plan national ;
+- la contribution et la participation des communes et syndicats de communes lors de mise en œuvre concrète du plan national ;
 
-8. l’estimation des coûts relatifs à la mise en œuvre du plan ;
+- l’estimation des coûts relatifs à la mise en œuvre du plan ;
 
-9. la répartition sommaire des missions des différents acteurs.
+- la répartition sommaire des missions des différents acteurs.
 
 <a id="art-48"></a>
 ## Art. 48.
@@ -1276,25 +1276,25 @@ Est assimilée à l’aliénation d’un bien susvisé toute convention à titre
 
 Ne tombent toutefois pas sous le champ d’application du droit de préemption :
 
-1. les aliénations entre conjoints ;
+- les aliénations entre conjoints ;
 
-2. les aliénations entre concubins ou partenaires légaux ;
+- les aliénations entre concubins ou partenaires légaux ;
 
-3. les aliénations entre parents ou alliés en ligne directe ;
+- les aliénations entre parents ou alliés en ligne directe ;
 
-4. les aliénations entre parents ou alliés en ligne collatérale jusqu’au quatrième degré inclus ;
+- les aliénations entre parents ou alliés en ligne collatérale jusqu’au quatrième degré inclus ;
 
-5. les biens faisant l’objet d’une procédure d’expropriation ;
+- les biens faisant l’objet d’une procédure d’expropriation ;
 
-6. les biens du domaine privé de l’État et des communes ;
+- les biens du domaine privé de l’État et des communes ;
 
-7. les aliénations faites à des pouvoirs préemptant définis à l’article 49 ;
+- les aliénations faites à des pouvoirs préemptant définis à l’article 49 ;
 
-8. les cessions de droits indivis et les opérations de partage ;
+- les cessions de droits indivis et les opérations de partage ;
 
-9. les ventes publiques ; et
+- les ventes publiques ; et
 
-10. les projets d’acquisition des organismes d’utilité publique agréés pour l’achat et la gestion de zones protégées.
+- les projets d’acquisition des organismes d’utilité publique agréés pour l’achat et la gestion de zones protégées.
 
 <a id="art-51"></a>
 ## Art. 51.
@@ -1337,15 +1337,15 @@ Le notaire en charge notifie par envoi recommandé à l’ensemble des pouvoirs 
 
 Le notaire veille à communiquer aux pouvoirs préemptant au moins les informations suivantes :
 
-1. l’identité et le domicile du propriétaire ;
+- l’identité et le domicile du propriétaire ;
 
-2. un extrait cadastral récent relatif au bien aliéné, reprenant sa désignation cadastrale et sa superficie ;
+- un extrait cadastral récent relatif au bien aliéné, reprenant sa désignation cadastrale et sa superficie ;
 
-3. les droits réels et les droits personnels qui y sont attachés ;
+- les droits réels et les droits personnels qui y sont attachés ;
 
-4. l’indication du prix et des conditions de l’aliénation projetée ;
+- l’indication du prix et des conditions de l’aliénation projetée ;
 
-5. à défaut de prix, la valeur conventionnelle de la contre-prestation stipulée à charge de l’acquéreur.
+- à défaut de prix, la valeur conventionnelle de la contre-prestation stipulée à charge de l’acquéreur.
 
 (3)
 
@@ -1403,33 +1403,33 @@ Des régimes d’aides financières sont institués pour la mise en œuvre de pl
 
 Peuvent être subventionnés :
 
-1. la protection ou la restauration des paysages et des écosystèmes ;
+- la protection ou la restauration des paysages et des écosystèmes ;
 
-2. la protection, la création et la restauration de biotopes et d’habitats ;
+- la protection, la création et la restauration de biotopes et d’habitats ;
 
-3. les mesures spécifiques pour la sauvegarde des espèces et des habitats menacés ;
+- les mesures spécifiques pour la sauvegarde des espèces et des habitats menacés ;
 
-4. le maintien ou la restauration de près de vallées à l’intérieur de massifs forestiers ;
+- le maintien ou la restauration de près de vallées à l’intérieur de massifs forestiers ;
 
-5. la protection des végétations dans les sites rocheux et les escarpements ;
+- la protection des végétations dans les sites rocheux et les escarpements ;
 
-6. la protection des végétations bordant les cours d’eau et des zones tourbeuses ;
+- la protection des végétations bordant les cours d’eau et des zones tourbeuses ;
 
-7. la plantation d’arbres, de haies et de bosquets ;
+- la plantation d’arbres, de haies et de bosquets ;
 
-8. la protection et la restauration des forêts ainsi que l’amélioration de structures forestières ;
+- la protection et la restauration des forêts ainsi que l’amélioration de structures forestières ;
 
-9. les mesures de gestion proposées en vertu de l’article 39, paragraphe 2, point 4° ;
+- les mesures de gestion proposées en vertu de l’article 39, paragraphe 2, point 4° ;
 
-10. les mesures conformes au plan national concernant la protection de la nature ;
+- les mesures conformes au plan national concernant la protection de la nature ;
 
-11. les mesures de gestion proposées en vertu des articles 34, 35 et 37 effectuées pour la sauvegarde de la diversité biologique européenne et de la cohérence du réseau Natura 2000 ;
+- les mesures de gestion proposées en vertu des articles 34, 35 et 37 effectuées pour la sauvegarde de la diversité biologique européenne et de la cohérence du réseau Natura 2000 ;
 
-12. les mesures relatives à la connectivité écologique et la cohérence du réseau des zones protégées ;
+- les mesures relatives à la connectivité écologique et la cohérence du réseau des zones protégées ;
 
-13. les mesures relatives au maintien et à la restauration des services écosystémiques ; et
+- les mesures relatives au maintien et à la restauration des services écosystémiques ; et
 
-14. l’entretien ou la restauration d’arbres remarquables listés en vertu de l’article 14 bis .
+- l’entretien ou la restauration d’arbres remarquables listés en vertu de l’article 14 bis .
 
 (2)
 
@@ -1483,23 +1483,23 @@ Dossier de demandes d’autorisation
 
 Sauf disposition contraire, les demandes sont à envoyer au ministre, ensemble avec les documents suivants :
 
-1. la désignation exacte de la demande comprenant une description précise du projet avec, en cas de construction, toutes les informations relatives à la conception, à l’exploitation et aux dimensions du projet à autoriser ;
+- la désignation exacte de la demande comprenant une description précise du projet avec, en cas de construction, toutes les informations relatives à la conception, à l’exploitation et aux dimensions du projet à autoriser ;
 
-2. un extrait de la carte topographique avec indication du lieu d’implantation du projet ;
+- un extrait de la carte topographique avec indication du lieu d’implantation du projet ;
 
-3. en cas de construction quelconque ou de changement d’affectation d’une construction existante :
+- en cas de construction quelconque ou de changement d’affectation d’une construction existante :
 
-1. un descriptif du projet et une argumentation du besoin réel de la construction, de l’agrandissement ou du changement d’affectation ;
+  - un descriptif du projet et une argumentation du besoin réel de la construction, de l’agrandissement ou du changement d’affectation ;
 
-2. les plans de construction indiquant la destination spécifique de la construction comprenant les plans d’implantation, des vues, de coupes longitudinales et transversales avec les dimensions et une description exacte du mode de construction et des matériaux ;
+  - les plans de construction indiquant la destination spécifique de la construction comprenant les plans d’implantation, des vues, de coupes longitudinales et transversales avec les dimensions et une description exacte du mode de construction et des matériaux ;
 
-3. un relevé exhaustif des modifications au terrain naturel ;
+  - un relevé exhaustif des modifications au terrain naturel ;
 
-4. le plan de l’aménagement des alentours et des accès ;
+  - le plan de l’aménagement des alentours et des accès ;
 
-5. un extrait du cadastre de la parcelle d’implantation datant de moins de trois mois ; et
+  - un extrait du cadastre de la parcelle d’implantation datant de moins de trois mois ; et
 
-6. un extrait du plan d’aménagement général indiquant le classement de la parcelle.
+  - un extrait du plan d’aménagement général indiquant le classement de la parcelle.
 
 (2)
 
@@ -1577,7 +1577,7 @@ Le ministre peut assortir les autorisations requises en vertu des articles qui p
 
 Le ministre peut aussi, si l’utilisation de la construction constitue un danger pour l’environnement naturel en général, prescrire les mesures appropriées pour y remédier.
 
-Ces conditions et mesures ont pour finalité que les constructions à réaliser et les opérations à exécuter ne puissent nuire à l’environnement naturel, à l’intégrité et à la beauté du paysage, à l’intégrité des zones protégées, à la conservation du sol, du sous-sol, des eaux, de l’atmosphère, aux espèces protégées particulièrement ainsi que leurs habitats, aux habitats d’intérêt communautaire, y compris la connectivité écologique ou du milieu naturel en général, ou encore provoquer la pollution lumineuse .
+Ces conditions et mesures ont pour finalité que les constructions à réaliser et les opérations à exécuter ne puissent nuire à l’environnement naturel, à l’intégrité et à la beauté du paysage, à l’intégrité des zones protégées, à la conservation du sol, du sous-sol, des eaux, de l’atmosphère, aux espèces protégées particulièrement ainsi que leurs habitats, aux habitats d’intérêt communautaire, y compris la connectivité écologique ou du milieu naturel en général , ou encore provoquer la pollution lumineuse .
 
 Ces conditions et mesures peuvent encore comprendre des mesures compensatoires appropriées dans les conditions de la section 2 du présent chapitre, respectivement les mesures d’atténuation visées par l’article 27.
 
@@ -1617,11 +1617,11 @@ Le ministre détermine l’envergure des mesures compensatoires à l’aide d’
 
 Un règlement grand-ducal précise :
 
-1. le nombre en éco-points pour une circonférence des arbres ou une surface données, attribué à chaque biotope, habitat ou toute autre utilisation du sol même non protégée par les articles 13 et 17 ;
+- le nombre en éco-points pour une circonférence des arbres ou une surface données, attribué à chaque biotope, habitat ou toute autre utilisation du sol même non protégée par les articles 13 et 17 ;
 
-2. la période d’entretien des éléments du milieu naturel créés suite à la mise en œuvre des mesures compensatoires ; et
+- la période d’entretien des éléments du milieu naturel créés suite à la mise en œuvre des mesures compensatoires ; et
 
-3. les modalités relatives au monitoring à installer.
+- les modalités relatives au monitoring à installer.
 
 L’évaluation de la différence en éco-points de l’état initial avant travaux et de l’état final après travaux des terrains est faite selon le système prévu au paragraphe 2 par une personne agréée, l’Administration de la nature et des forêts ou un syndicat de communes.
 
@@ -1648,33 +1648,33 @@ Réalisation des mesures compensatoires dans les pools compensatoires
 
 Le ministre peut autoriser la réalisation de mesures compensatoires indépendamment et préalablement à une autorisation, pour autant que :
 
-1. les mesures soient réalisées dans des pools compensatoires ;
+- les mesures soient réalisées dans des pools compensatoires ;
 
-2. les terrains accueillant des mesures compensatoires au sens du présent article appartiennent à ou sont détenus par l’État, les communes, les syndicats de communes, un organisme d’utilité publique agréé pour l’achat et la gestion de zones protégées.
+- les terrains accueillant des mesures compensatoires au sens du présent article appartiennent à ou sont détenus par l’État, les communes, les syndicats de communes, un organisme d’utilité publique agréé pour l’achat et la gestion de zones protégées.
 
 (2)
 
 On distingue deux types de pools compensatoires :
 
-1. le pool compensatoire national ;
+- le pool compensatoire national ;
 
-2. éventuellement les pools compensatoires régionaux.
+- éventuellement les pools compensatoires régionaux.
 
 Les zones destinées à la création de pools compensatoires sont soumises pour approbation au ministre, le comité de gérance instauré à l’article 67 et l’Observatoire sur l’environnement demandés en leur avis. Pour chaque pool compensatoire, l’approbation ministérielle renseigne sur la délimitation géographique à l’échelle 1/2500, déposée en original au ministère qui seule fait foi. Cette délimitation géographique peut être notifiée ou publiée dans un format réduit et reproduit de manière numérique et accessible sur un site électronique du ministère ayant l’environnement dans ses attributions, sinon d’une administration habilitée à cette fin.
 
 La mise en place et la gestion du pool compensatoire national sont assurées par l’État et se font comme suit :
 
-1. l’Administration de la nature et des forêts prend en charge l’identification des terrains, la planification et l’exécution des mesures et la gestion desdits terrains et continue ces informations au comité de gérance instauré à l’article 67 ;
+- l’Administration de la nature et des forêts prend en charge l’identification des terrains, la planification et l’exécution des mesures et la gestion desdits terrains et continue ces informations au comité de gérance instauré à l’article 67 ;
 
-2. l’Office national du remembrement assure l’acquisition et l’échange des terrains nécessaires pour les pools compensatoires, suivis, si nécessaire, d’un remembrement des biens ruraux ;
+- l’Office national du remembrement assure l’acquisition et l’échange des terrains nécessaires pour les pools compensatoires, suivis, si nécessaire, d’un remembrement des biens ruraux ;
 
-3. les frais sont supportés par le Fonds pour la protection de l’environnement.
+- les frais sont supportés par le Fonds pour la protection de l’environnement.
 
 Les communes et les syndicats de communes peuvent créer des pools compensatoires régionaux, dont la mise en place et la gestion se font comme suit :
 
-1. les communes ou les syndicats de communes assurent l’acquisition et l’échange des terrains nécessaires ; toutefois, ils peuvent solliciter l’appui de l’Office national du remembrement pour cette mission ;
+- les communes ou les syndicats de communes assurent l’acquisition et l’échange des terrains nécessaires ; toutefois, ils peuvent solliciter l’appui de l’Office national du remembrement pour cette mission ;
 
-2. les communes ou les syndicats de communes prennent en charge la planification et la réalisation des mesures ainsi que la gestion desdits terrains comprenant les mesures compensatoires.
+- les communes ou les syndicats de communes prennent en charge la planification et la réalisation des mesures ainsi que la gestion desdits terrains comprenant les mesures compensatoires.
 
 Afin d’assurer la constitution et la conservation des pools compensatoires régionaux, toute commune non membre d’un syndicat de communes ou le syndicat de communes doit disposer, le cas échéant, du personnel ayant les compétences appropriées en matière environnementale d’un point de vue scientifique et technique.
 
@@ -1725,33 +1725,33 @@ Comité de gérance
 
 Il est institué un comité de gérance qui a pour mission
 
-1. de proposer au ministre des zones destinées à la création de pools compensatoires en tenant compte de leur aptitude écologique à recevoir des mesures compensatoires et de l’impact de la désignation de ces zones sur la viabilité économique des exploitations agricoles exploitant des surfaces situées dans ces zones ;
+- de proposer au ministre des zones destinées à la création de pools compensatoires en tenant compte de leur aptitude écologique à recevoir des mesures compensatoires et de l’impact de la désignation de ces zones sur la viabilité économique des exploitations agricoles exploitant des surfaces situées dans ces zones ;
 
-2. de veiller à éviter la réalisation de mesures compensatoires sur des terrains à haute valeur agricole en tenant compte de la qualité du sol et de la situation dans le parcellaire agricole ;
+- de veiller à éviter la réalisation de mesures compensatoires sur des terrains à haute valeur agricole en tenant compte de la qualité du sol et de la situation dans le parcellaire agricole ;
 
-3. d’assurer le suivi des mesures compensatoires.
+- d’assurer le suivi des mesures compensatoires.
 
 Le comité de gérance est composé comme suit :
 
-1. un représentant du ministre ayant la Protection de la nature dans ses attributions qui assure la fonction de président ;
+- un représentant du ministre ayant la Protection de la nature dans ses attributions qui assure la fonction de président ;
 
-2. un représentant du ministre ayant l’Agriculture dans ses attributions qui assure la fonction de vice-président ;
+- un représentant du ministre ayant l’Agriculture dans ses attributions qui assure la fonction de vice-président ;
 
-3. un représentant du ministre ayant les Finances dans ses attributions ;
+- un représentant du ministre ayant les Finances dans ses attributions ;
 
-4. un représentant de l’Administration de la nature et des forêts ;
+- un représentant de l’Administration de la nature et des forêts ;
 
-5. un représentant de l’Office national du remembrement ;
+- un représentant de l’Office national du remembrement ;
 
-6. un représentant de l’Administration de la gestion de l’eau ;
+- un représentant de l’Administration de la gestion de l’eau ;
 
-7. un représentant de l’Administration des services techniques de l’agriculture ;
+- un représentant de l’Administration des services techniques de l’agriculture ;
 
-8. deux représentants des syndicats de communes ;
+- deux représentants des syndicats de communes ;
 
-9. deux représentants de la Chambre d’agriculture ;
+- deux représentants de la Chambre d’agriculture ;
 
-10. deux représentants des organisations nationales de protection de la nature.
+- deux représentants des organisations nationales de protection de la nature.
 
 Il est adjoint à chaque membre un membre suppléant qui le remplacera en cas d’absence. Les membres et les membres suppléants sont nommés par le ministre pour un terme de trois ans.
 
@@ -1788,11 +1788,11 @@ Conseil supérieur pour la protection de la nature et des ressources naturelles
 
 Le Conseil supérieur pour la protection de la nature et des ressources naturelles a pour mission :
 
-1. d’assurer les tâches prévues par les articles 25, 35 et 39 ;
+- d’assurer les tâches prévues par les articles 25, 35 et 39 ;
 
-2. de donner son avis sur toutes les questions et tous les projets que le Gouvernement jugera utile de lui soumettre ;
+- de donner son avis sur toutes les questions et tous les projets que le Gouvernement jugera utile de lui soumettre ;
 
-3. d’adresser de son initiative des propositions au Gouvernement en matière de protection de la nature.
+- d’adresser de son initiative des propositions au Gouvernement en matière de protection de la nature.
 
 (2)
 
@@ -1869,159 +1869,159 @@ Sanctions pénales
 
 Est punie d’une peine d’emprisonnement de huit jours à trois ans et d’une amende de 251 euros à 750 000 euros ou d’une de ces peines seulement :
 
-1. Toute personne qui par infraction à l’article 6, paragraphe 6 érige une construction en zone verte sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 6, paragraphe 6 érige une construction en zone verte sans l’autorisation y visée ou en violation de celle-ci ;
 
-2. Toute personne qui par infraction à l’article 7, paragraphe 2, procède, sans l’autorisation y visée ou en violation de celle-ci, à un changement d‘affectation d’une construction existante en zone verte, à des travaux ou constructions de sécurisation d’une construction existante en zone verte, à des travaux ou constructions de sécurisation du terrain situé en zone verte entourant une construction existante en zone verte ou entourant une construction située à l’intérieur de la zone urbanisée, à la modification de l’aspect extérieur d’une construction existante en zone verte, à la modification des dimensions des constructions existantes en zone verte, ou à la reconstruction de constructions existantes en zone verte ;
+- Toute personne qui par infraction à l’article 7, paragraphe 2, procède, sans l’autorisation y visée ou en violation de celle-ci, à un changement d‘affectation d’une construction existante en zone verte, à des travaux ou constructions de sécurisation d’une construction existante en zone verte, à des travaux ou constructions de sécurisation du terrain situé en zone verte entourant une construction existante en zone verte ou entourant une construction située à l’intérieur de la zone urbanisée, à la modification de l’aspect extérieur d’une construction existante en zone verte, à la modification des dimensions des constructions existantes en zone verte, ou à la reconstruction de constructions existantes en zone verte ;
 
-3. Toute personne qui par infraction à l’article 7, paragraphe 3, change l’affectation d’une construction vers une affectation qui n’est pas conforme à une des affectations prévues à l’article 6 ;
+- Toute personne qui par infraction à l’article 7, paragraphe 3, change l’affectation d’une construction vers une affectation qui n’est pas conforme à une des affectations prévues à l’article 6 ;
 
-4. Toute personne qui par infraction à l’article 7, paragraphe 4, procède à des travaux ou constructions de sécurisation d’une construction qui n’est pas légalement existante en zone verte ou assimilée au sens de l’article 7, paragraphe 1 er , ou du terrain entourant une construction qui n’est pas légalement existante en zone verte ou assimilée au sens de l’article 7, paragraphe 1 er , ou procède à des travaux ou constructions de sécurisation d’une construction ou d’un terrain entourant une construction alors qu’elle n’a pas établi la nécessité de tels travaux ou constructions de sécurisation ;
+- Toute personne qui par infraction à l’article 7, paragraphe 4, procède à des travaux ou constructions de sécurisation d’une construction qui n’est pas légalement existante en zone verte ou assimilée au sens de l’article 7, paragraphe 1 er , ou du terrain entourant une construction qui n’est pas légalement existante en zone verte ou assimilée au sens de l’article 7, paragraphe 1 er , ou procède à des travaux ou constructions de sécurisation d’une construction ou d’un terrain entourant une construction alors qu’elle n’a pas établi la nécessité de tels travaux ou constructions de sécurisation ;
 
-5. Toute personne qui par infraction à l’article 7, paragraphe 5, modifie l’aspect extérieur d’une construction qui n’est pas légalement existante en zone verte ou assimilée au sens du paragraphe 1 er ou modifie l’aspect extérieur d’une construction vers un aspect extérieur qui n’est pas compatible avec les objectifs de l’article 1 er ;
+- Toute personne qui par infraction à l’article 7, paragraphe 5, modifie l’aspect extérieur d’une construction qui n’est pas légalement existante en zone verte ou assimilée au sens du paragraphe 1 er ou modifie l’aspect extérieur d’une construction vers un aspect extérieur qui n’est pas compatible avec les objectifs de l’article 1 er ;
 
-6. Toute personne qui par infraction à l’article 7, paragraphe 6, point 1°, modifie les dimensions d’une construction ne servant pas de logement et dont l’affectation n’est pas compatible avec une des affectations prévues à l’article 6 et qui n’est pas légalement existante en zone verte ou assimilée au sens de l’article 7, paragraphe 1 er , ou modifie les dimensions d’une construction ne servant pas de logement et dont l’affectation n’est pas compatible avec une des affectations prévues à l’article 6 à des fins autres que l’assainissement thermique des façades ou du toit ;
+- Toute personne qui par infraction à l’article 7, paragraphe 6, point 1°, modifie les dimensions d’une construction ne servant pas de logement et dont l’affectation n’est pas compatible avec une des affectations prévues à l’article 6 et qui n’est pas légalement existante en zone verte ou assimilée au sens de l’article 7, paragraphe 1 er , ou modifie les dimensions d’une construction ne servant pas de logement et dont l’affectation n’est pas compatible avec une des affectations prévues à l’article 6 à des fins autres que l’assainissement thermique des façades ou du toit ;
 
-7. Toute personne qui par infraction à l’article 7, paragraphe 6, point 2°, modifie les dimensions d’une construction servant de logement qui n’est pas légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , ou modifie les dimensions d’une construction servant de logement qui est légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , à une fin autre que l’augmentation de la surface d’emprise au sol des constructions autorisées en vertu de l’article 6, paragraphe 2, l’assainissement thermique des façades et du toit, la modification de la hauteur libre sous plafond des niveaux pleins dans la limite d’une hauteur maximale de 2,7 mètres, ou la modification la hauteur libre sous plafond du niveau sous combles dans la limite d’une hauteur maximale de 2,2 mètres sur la moitié de la surface ;
+- Toute personne qui par infraction à l’article 7, paragraphe 6, point 2°, modifie les dimensions d’une construction servant de logement qui n’est pas légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , ou modifie les dimensions d’une construction servant de logement qui est légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , à une fin autre que l’augmentation de la surface d’emprise au sol des constructions autorisées en vertu de l’article 6, paragraphe 2, l’assainissement thermique des façades et du toit, la modification de la hauteur libre sous plafond des niveaux pleins dans la limite d’une hauteur maximale de 2,7 mètres, ou la modification la hauteur libre sous plafond du niveau sous combles dans la limite d’une hauteur maximale de 2,2 mètres sur la moitié de la surface ;
 
-8. Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 1 er , procède à la reconstruction d’une construction qui n’est pas légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , ou qui procède à la reconstruction d’une construction légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , qui n’a pas été détruite par un cas fortuit et dont les murs extérieurs ne subsistent pas jusqu’à la hauteur de la corniche sur la majorité des côtés de la construction ;
+- Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 1 er , procède à la reconstruction d’une construction qui n’est pas légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , ou qui procède à la reconstruction d’une construction légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , qui n’a pas été détruite par un cas fortuit et dont les murs extérieurs ne subsistent pas jusqu’à la hauteur de la corniche sur la majorité des côtés de la construction ;
 
-9. Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 2, procède à la reconstruction d’une construction qui n’est pas légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , ou qui procède à la reconstruction d’une construction qui est légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , et dont les murs extérieurs ne subsistent pas jusqu’à la hauteur de la corniche sur la majorité des côtés de la construction sans avoir rapporté la preuve que la construction a été détruite par un cas fortuit ;
+- Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 2, procède à la reconstruction d’une construction qui n’est pas légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , ou qui procède à la reconstruction d’une construction qui est légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , et dont les murs extérieurs ne subsistent pas jusqu’à la hauteur de la corniche sur la majorité des côtés de la construction sans avoir rapporté la preuve que la construction a été détruite par un cas fortuit ;
 
-10. Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 3, procède à la reconstruction non identique d’une construction sans autorisation de modifier l’aspect extérieur de la construction conformément au paragraphe 5 ou de changer les dimensions de la construction conformément au paragraphe 6 ;
+- Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 3, procède à la reconstruction non identique d’une construction sans autorisation de modifier l’aspect extérieur de la construction conformément au paragraphe 5 ou de changer les dimensions de la construction conformément au paragraphe 6 ;
 
-11. 10°bis Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 3, procède à la reconstruction d’une construction sans que l’affectation de la construction soit restée identique à la dernière affectation.
+- 10°bis Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 3, procède à la reconstruction d’une construction sans que l’affectation de la construction soit restée identique à la dernière affectation.
 
-12. Toute personne qui par infraction à l’article 8 met en place des installations de transport, de communication et de télécommunication, des conduites d’énergie, de liquide ou de gaz en zone verte sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 8 met en place des installations de transport, de communication et de télécommunication, des conduites d’énergie, de liquide ou de gaz en zone verte sans l’autorisation y visée ou en violation de celle-ci ;
 
-13. Toute personne qui par infraction à l’article 9, paragraphe 1 er procède dans la zone verte à l’ouverture d’une minière, sablière, carrière ou gravière ou à l’enlèvement ou au dépôt de terre arable sur une superficie dépassant 10 ares ou un volume de 50 mètres cube sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 9, paragraphe 1 er procède dans la zone verte à l’ouverture d’une minière, sablière, carrière ou gravière ou à l’enlèvement ou au dépôt de terre arable sur une superficie dépassant 10 ares ou un volume de 50 mètres cube sans l’autorisation y visée ou en violation de celle-ci ;
 
-14. Tout bénéficiaire de l’autorisation qui par infraction à l'article 9, paragraphe 2 et sauf dispense du ministre omet de rendre au sol son caractère naturel, en boisant ou en regarnissant de végétation les excavations, déblais ou remblais destinés à subsister d’une manière permanente ;
+- Tout bénéficiaire de l’autorisation qui par infraction à l'article 9, paragraphe 2 et sauf dispense du ministre omet de rendre au sol son caractère naturel, en boisant ou en regarnissant de végétation les excavations, déblais ou remblais destinés à subsister d’une manière permanente ;
 
-15. Toute personne qui par infraction à l’article 10 procède à des travaux de drainage, de curage de fossés ou de cours d’eau ou à des travaux en relation avec l’eau, susceptibles d’avoir une influence préjudiciable sur les espèces sauvages et leurs habitats, ou à la création ou la modification d’étangs ou autres plans d’eau en zone verte sans l'autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 10 procède à des travaux de drainage, de curage de fossés ou de cours d’eau ou à des travaux en relation avec l’eau, susceptibles d’avoir une influence préjudiciable sur les espèces sauvages et leurs habitats, ou à la création ou la modification d’étangs ou autres plans d’eau en zone verte sans l'autorisation y visée ou en violation de celle-ci ;
 
-16. Toute personne qui par infraction à l’article 12, paragraphe 1 er abandonne, dépose ou jette des déchets en zone verte, en dehors des lieux y visés ;
+- Toute personne qui par infraction à l’article 12, paragraphe 1 er abandonne, dépose ou jette des déchets en zone verte, en dehors des lieux y visés ;
 
-17. Toute personne qui par infraction à l’article 12, paragraphe 2 installe ou exploite une décharge sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 12, paragraphe 2 installe ou exploite une décharge sans l’autorisation y visée ou en violation de celle-ci ;
 
-18. Toute personne qui par infraction à l’article 12, paragraphe 3 dépose à titre permanent des déblais, des engins mécaniques, des parties d’engins mécaniques ou d’autres matériaux en zone verte ;
+- Toute personne qui par infraction à l’article 12, paragraphe 3 dépose à titre permanent des déblais, des engins mécaniques, des parties d’engins mécaniques ou d’autres matériaux en zone verte ;
 
-19. Toute personne qui par infraction à l’article 12, paragraphe 3 et sans l’autorisation y prévue dépose à titre temporaire des déblais, des engins mécaniques, des parties d’engins mécaniques ou d’autres matériaux en zone verte ;
+- Toute personne qui par infraction à l’article 12, paragraphe 3 et sans l’autorisation y prévue dépose à titre temporaire des déblais, des engins mécaniques, des parties d’engins mécaniques ou d’autres matériaux en zone verte ;
 
-20. Toute personne qui par infraction à l’article 13, paragraphe 1 er change l’affectation d’un fonds forestier sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 13, paragraphe 1 er change l’affectation d’un fonds forestier sans l’autorisation y visée ou en violation de celle-ci ;
 
-21. Toute personne qui par infraction à l’article 13, paragraphe 3 procède à une coupe rase de plus de cinquante ares d’un seul tenant sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 13, paragraphe 3 procède à une coupe rase de plus de cinquante ares d’un seul tenant sans l’autorisation y visée ou en violation de celle-ci ;
 
-22. Toute personne qui par infraction à l'article 13, paragraphe 3 ne procède pas à la régénération naturelle, artificielle ou assistée du peuplement forestier dans un délai de trois ans à compter du début des travaux d’abattage, de peuplements forestiers équivalents, du point de vue production et écologie, au peuplement exploité ;
+- Toute personne qui par infraction à l'article 13, paragraphe 3 ne procède pas à la régénération naturelle, artificielle ou assistée du peuplement forestier dans un délai de trois ans à compter du début des travaux d’abattage, de peuplements forestiers équivalents, du point de vue production et écologie, au peuplement exploité ;
 
-23. Toute personne qui par infraction à l´article 14, paragraphe 1 er procède aux travaux y prévus sans l'autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l´article 14, paragraphe 1 er procède aux travaux y prévus sans l'autorisation y visée ou en violation de celle-ci ;
 
-24. Toute personne qui par infraction à l’article 14 bis abat, déracine, transfère, endommage ou détruit un ou plusieurs arbres remarquables sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 14 bis abat, déracine, transfère, endommage ou détruit un ou plusieurs arbres remarquables sans l’autorisation y visée ou en violation de celle-ci ;
 
-25. Toute personne qui par infraction à l'article 15, paragraphe 1 er organise des manifestations sportives sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l'article 15, paragraphe 1 er organise des manifestations sportives sans l’autorisation y visée ou en violation de celle-ci ;
 
-26. Toute personne qui par infraction à l’article 16 plante des résineux à une distance inférieure à trente mètres du bord des cours d’eau ou sans l’autorisation visée à l’article 16, alinéa 2 ou en violation de cette autorisation ;
+- Toute personne qui par infraction à l’article 16 plante des résineux à une distance inférieure à trente mètres du bord des cours d’eau ou sans l’autorisation visée à l’article 16, alinéa 2 ou en violation de cette autorisation ;
 
-27. Toute personne qui par infraction à l’article 17, paragraphe 1 er et sous réserve des dérogations prévues à l’article 17, paragraphes 2, 3 et 5, réduit, détruit ou détériore des biotopes protégés, des habitats d’intérêt communautaire ou des habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation des espèces a été évalué non favorable ;
+- Toute personne qui par infraction à l’article 17, paragraphe 1 er et sous réserve des dérogations prévues à l’article 17, paragraphes 2, 3 et 5, réduit, détruit ou détériore des biotopes protégés, des habitats d’intérêt communautaire ou des habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation des espèces a été évalué non favorable ;
 
-28. Toute personne qui par infraction à l’article 17, paragraphe 2 réduit, détruit ou détériore des biotopes protégés, des habitats d’intérêt communautaire ou des habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation des espèces a été évalué non favorable sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 17, paragraphe 2 réduit, détruit ou détériore des biotopes protégés, des habitats d’intérêt communautaire ou des habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation des espèces a été évalué non favorable sans l’autorisation y visée ou en violation de celle-ci ;
 
-29. Toute personne qui par infraction à l’article 17, paragraphe 3 réduit, détruit ou détériore des biotopes protégés, des habitats d’intérêt communautaire ou des habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation des espèces a été évalué non favorable sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 17, paragraphe 3 réduit, détruit ou détériore des biotopes protégés, des habitats d’intérêt communautaire ou des habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation des espèces a été évalué non favorable sans l’autorisation y visée ou en violation de celle-ci ;
 
-30. Toute personne qui par infraction à l’article 17, paragraphe 7 procède à l’essartement à feu courant ou l’incinération de la couverture végétale de prairies, friches ou bords de champs, de prés, de terrains forestiers, de chemins ou de routes sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 17, paragraphe 7 procède à l’essartement à feu courant ou l’incinération de la couverture végétale de prairies, friches ou bords de champs, de prés, de terrains forestiers, de chemins ou de routes sans l’autorisation y visée ou en violation de celle-ci ;
 
-31. Toute personne qui par infraction à l’article 19, paragraphe 1 er et de manière non justifiée exploite, utilise, mutile ou détruit des espèces animales sauvages ;
+- Toute personne qui par infraction à l’article 19, paragraphe 1 er et de manière non justifiée exploite, utilise, mutile ou détruit des espèces animales sauvages ;
 
-32. Toute personne qui par infraction à l’article 19, paragraphe 1 er manipule des individus d’espèces animales sauvages sans respecter les impératifs biologiques de leur espèce et leur bien-être ;
+- Toute personne qui par infraction à l’article 19, paragraphe 1 er manipule des individus d’espèces animales sauvages sans respecter les impératifs biologiques de leur espèce et leur bien-être ;
 
-33. Toute personne qui par infraction à l’article 19, paragraphe 2, détient, capture, tient en captivité ou relâche dans la nature des spécimens y visés ou procède au commerce de spécimens de ces espèces à l'état vivant, mort ou naturalisé sans l’autorisation y visée ou en violation de celle-ci, et sous réserve des dérogations y visées ;
+- Toute personne qui par infraction à l’article 19, paragraphe 2, détient, capture, tient en captivité ou relâche dans la nature des spécimens y visés ou procède au commerce de spécimens de ces espèces à l'état vivant, mort ou naturalisé sans l’autorisation y visée ou en violation de celle-ci, et sous réserve des dérogations y visées ;
 
-34. Toute personne qui par infraction à l’article 20, paragraphe 1 er contrevient aux interdictions y visées pour les espèces et les spécimens des espèces végétales intégralement protégées ;
+- Toute personne qui par infraction à l’article 20, paragraphe 1 er contrevient aux interdictions y visées pour les espèces et les spécimens des espèces végétales intégralement protégées ;
 
-35. Toute personne qui par infraction à l’article 20, paragraphe 3 et sous réserve des dérogations y visées détériore ou détruit intentionnellement les habitats dans lesquels la présence des espèces végétales protégées particulièrement est établie ;
+- Toute personne qui par infraction à l’article 20, paragraphe 3 et sous réserve des dérogations y visées détériore ou détruit intentionnellement les habitats dans lesquels la présence des espèces végétales protégées particulièrement est établie ;
 
-36. Toute personne qui par infraction à l’article 21, paragraphe 1 er et sous réserve des dérogations y visées commet une des actions y visées contre les espèces animales intégralement protégées, les spécimens de ces espèces, ou encore leurs sites de reproduction ou leurs aires de repos ;
+- Toute personne qui par infraction à l’article 21, paragraphe 1 er et sous réserve des dérogations y visées commet une des actions y visées contre les espèces animales intégralement protégées, les spécimens de ces espèces, ou encore leurs sites de reproduction ou leurs aires de repos ;
 
-37. Toute personne qui par infraction à l’article 21, paragraphe 4, procède au prélèvement, à la capture ou à la mise à mort des espèces animales partiellement protégées ou de spécimens de ces espèces sans l'autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 21, paragraphe 4, procède au prélèvement, à la capture ou à la mise à mort des espèces animales partiellement protégées ou de spécimens de ces espèces sans l'autorisation y visée ou en violation de celle-ci ;
 
-38. Toute personne qui par infraction à l’article 21, paragraphe 4, pour le prélèvement, la capture ou la mise à mort des espèces animales partiellement protégées utilise des moyens non sélectifs y visés ;
+- Toute personne qui par infraction à l’article 21, paragraphe 4, pour le prélèvement, la capture ou la mise à mort des espèces animales partiellement protégées utilise des moyens non sélectifs y visés ;
 
-39. Toute personne qui par infraction à l’article 23 commet une des actions y visées contre les espèces protégées par des conventions internationales ;
+- Toute personne qui par infraction à l’article 23 commet une des actions y visées contre les espèces protégées par des conventions internationales ;
 
-40. Toute personne qui par infraction à l’article 25, paragraphe 1 er et sous réserve des dérogations y visées importe des espèces non indigènes dans le but de les rendre à la vie sauvage ou les introduit dans la vie sauvage sans l'autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 25, paragraphe 1 er et sous réserve des dérogations y visées importe des espèces non indigènes dans le but de les rendre à la vie sauvage ou les introduit dans la vie sauvage sans l'autorisation y visée ou en violation de celle-ci ;
 
-41. Toute personne qui par infraction à l’article 27 réalise des projets, plans ou activités ayant une incidence significative sur des espèces protégées particulièrement ou sur leurs sites de reproduction ou leurs aires de repos sans l’autorisation visée à l’article 27, alinéa 1 er ou en violation de cette autorisation ;
+- Toute personne qui par infraction à l’article 27 réalise des projets, plans ou activités ayant une incidence significative sur des espèces protégées particulièrement ou sur leurs sites de reproduction ou leurs aires de repos sans l’autorisation visée à l’article 27, alinéa 1 er ou en violation de cette autorisation ;
 
-42. Toute personne qui par infraction à l’article 32 réalise un plan ou projet, susceptible d’affecter une zone Natura 2000 de manière significative, qui n’a pas fait l’objet d’une évaluation des incidences ou sans l’autorisation prévue à l’article 33, paragraphe 2 ;
+- Toute personne qui par infraction à l’article 32 réalise un plan ou projet, susceptible d’affecter une zone Natura 2000 de manière significative, qui n’a pas fait l’objet d’une évaluation des incidences ou sans l’autorisation prévue à l’article 33, paragraphe 2 ;
 
-43. Toute personne qui par infraction aux articles 42 et 45 contrevient à une des servitudes suivantes y visées :
+- Toute personne qui par infraction aux articles 42 et 45 contrevient à une des servitudes suivantes y visées :
 
-1. interdiction ou restriction des activités susceptibles de modifier le sol telles que fouilles, sondages, terrassements, dépôts de matériaux, extractions de matériaux ;
+  - interdiction ou restriction des activités susceptibles de modifier le sol telles que fouilles, sondages, terrassements, dépôts de matériaux, extractions de matériaux ;
 
-2. interdiction ou restriction des activités susceptibles de modifier le régime des eaux ou l’utilisation des eaux ;
+  - interdiction ou restriction des activités susceptibles de modifier le régime des eaux ou l’utilisation des eaux ;
 
-3. interdiction ou restriction de bâtir des constructions, des installations linéaires ;
+  - interdiction ou restriction de bâtir des constructions, des installations linéaires ;
 
-4. interdiction du changement d’affectation des sols ;
+  - interdiction du changement d’affectation des sols ;
 
-5. interdiction de la capture d’espèces animales non visées par le droit de chasse, d’espèces animales sauvages indigènes, de l’enlèvement, y compris l’abattage d’espèces végétales sauvages ;
+  - interdiction de la capture d’espèces animales non visées par le droit de chasse, d’espèces animales sauvages indigènes, de l’enlèvement, y compris l’abattage d’espèces végétales sauvages ;
 
-6. interdiction ou restriction de planter certaines espèces végétales ;
+  - interdiction ou restriction de planter certaines espèces végétales ;
 
-7. interdiction de destruction de biotopes ou d’habitats des espèces ;
+  - interdiction de destruction de biotopes ou d’habitats des espèces ;
 
-8. interdiction ou restriction du droit de chasse et de pêche ;
+  - interdiction ou restriction du droit de chasse et de pêche ;
 
-9. interdiction ou restriction d’appâter, d’agrainer, de piéger, de nourrir des espèces animales sauvages, ou encore d’installer des gagnages ;
+  - interdiction ou restriction d’appâter, d’agrainer, de piéger, de nourrir des espèces animales sauvages, ou encore d’installer des gagnages ;
 
-10. interdiction ou restriction de l’emploi de pesticides, de boues d’épuration, de purin, de lisier, de fumier, d’engrais chimiques et organiques ;
+  - interdiction ou restriction de l’emploi de pesticides, de boues d’épuration, de purin, de lisier, de fumier, d’engrais chimiques et organiques ;
 
-11. interdiction ou restriction du régime de fauchage ou de pâturage ;
+  - interdiction ou restriction du régime de fauchage ou de pâturage ;
 
-12. interdiction ou restriction d’activités forestières, de l’exploitation forestière ;
+  - interdiction ou restriction d’activités forestières, de l’exploitation forestière ;
 
-13. interdiction ou restriction de manifestations sportives, touristiques, culturelles ou de loisirs ;
+  - interdiction ou restriction de manifestations sportives, touristiques, culturelles ou de loisirs ;
 
-14. interdiction d’activités incompatibles avec la tranquillité du site ;
+  - interdiction d’activités incompatibles avec la tranquillité du site ;
 
-44. Toute personne qui par infraction à l’article 61, paragraphes 1 er et 2 ne respecte pas les conditions et mesures prévues dans l’autorisation accordée ;
+- Toute personne qui par infraction à l’article 61, paragraphes 1 er et 2 ne respecte pas les conditions et mesures prévues dans l’autorisation accordée ;
 
-45. Toute personne qui par infraction à l’article 63, paragraphe 3 ne réalise pas les mesures compensatoires dans le délai et suivant les conditions imposées par le ministre ;
+- Toute personne qui par infraction à l’article 63, paragraphe 3 ne réalise pas les mesures compensatoires dans le délai et suivant les conditions imposées par le ministre ;
 
-46. Toute personne qui par infraction à l’article 65, paragraphe 1 er commence les travaux autorisés avant le paiement de la taxe de remboursement ;
+- Toute personne qui par infraction à l’article 65, paragraphe 1 er commence les travaux autorisés avant le paiement de la taxe de remboursement ;
 
-47. Toute personne qui par infraction à l’article 73 continue les travaux de construction entrepris ;
+- Toute personne qui par infraction à l’article 73 continue les travaux de construction entrepris ;
 
-48. Toute personne qui par infraction à l’article 81, remplace une roulotte y visée après sa destruction ou son enlèvement.
+- Toute personne qui par infraction à l’article 81, remplace une roulotte y visée après sa destruction ou son enlèvement.
 
 (2)
 
 Est punie d’une amende de 24 euros à 1 000 euros :
 
-1. Toute personne qui par infraction à l’article 11, paragraphe 1 er stationne des roulottes, caravanes ou mobilhomes en dehors des terrains et zones y visés ;
+- Toute personne qui par infraction à l’article 11, paragraphe 1 er stationne des roulottes, caravanes ou mobilhomes en dehors des terrains et zones y visés ;
 
-2. Toute personne qui par infraction à l’article 11, paragraphe 3 stationne en zone verte des véhicules automoteurs et des roulottes servant à l’habitation admis à la circulation sur les voies publiques en dehors des voies y visées ;
+- Toute personne qui par infraction à l’article 11, paragraphe 3 stationne en zone verte des véhicules automoteurs et des roulottes servant à l’habitation admis à la circulation sur les voies publiques en dehors des voies y visées ;
 
-3. Toute personne qui par infraction à l’article 11, paragraphe 4 procède à l’amarrage, à demeure ou saisonnier d’embarcations ou d’établissements flottants de toute espèce aménagés de façon à pouvoir servir soit d’abri, soit à l’habitation ou au séjour ;
+- Toute personne qui par infraction à l’article 11, paragraphe 4 procède à l’amarrage, à demeure ou saisonnier d’embarcations ou d’établissements flottants de toute espèce aménagés de façon à pouvoir servir soit d’abri, soit à l’habitation ou au séjour ;
 
-4. Toute personne qui en infraction de l’article 15, paragraphe 1 er emploie des instruments sonores ou exerce des activités de loisirs susceptibles d’avoir une incidence significative sur l’environnement naturel, sans l'autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui en infraction de l’article 15, paragraphe 1 er emploie des instruments sonores ou exerce des activités de loisirs susceptibles d’avoir une incidence significative sur l’environnement naturel, sans l'autorisation y visée ou en violation de celle-ci ;
 
-5. Toute personne qui par infraction à l’article 15, paragraphe 2 et sous réserve des dérogations y prévues utilise des engins automoteurs aux endroits y spécifiés sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 15, paragraphe 2 et sous réserve des dérogations y prévues utilise des engins automoteurs aux endroits y spécifiés sans l’autorisation y visée ou en violation de celle-ci ;
 
-6. Toute personne qui par infraction à l’article 17, paragraphe 6 procède à la taille des haies vives et des broussailles, ainsi qu’à l’élagage des lisières de forêts, en dehors de la période prévue à cet effet ;
+- Toute personne qui par infraction à l’article 17, paragraphe 6 procède à la taille des haies vives et des broussailles, ainsi qu’à l’élagage des lisières de forêts, en dehors de la période prévue à cet effet ;
 
-7. Toute personne qui par infraction à l’article 17, paragraphe 6 procède à la taille des haies vives et des broussailles, ainsi qu’à l’élagage des lisières de forêts, en utilisant des outils ou méthodes non appropriés ne garantissant pas une taille nette ;
+- Toute personne qui par infraction à l’article 17, paragraphe 6 procède à la taille des haies vives et des broussailles, ainsi qu’à l’élagage des lisières de forêts, en utilisant des outils ou méthodes non appropriés ne garantissant pas une taille nette ;
 
-8. Toute personne qui par infraction à l’article 18 de manière non justifiée exploite, utilise, mutile ou détruit des espèces végétales sauvages, en dehors des conditions ou dérogations prévues au paragraphe 2 ;
+- Toute personne qui par infraction à l’article 18 de manière non justifiée exploite, utilise, mutile ou détruit des espèces végétales sauvages, en dehors des conditions ou dérogations prévues au paragraphe 2 ;
 
-9. Toute personne qui par infraction à l’article 20, paragraphe 2 cueille, ramasse, coupe, détient, transporte ou échange des parties aériennes des espèces végétales partiellement protégées au-delà des quantités fixées par le règlement grand-ducal prévu par l’article 20, paragraphe 2, à titre lucratif ou pour des besoins non personnels, ou qui intentionnellement enlève de leur station, déracine, endommage ou détruit des parties souterraines de ces espèces, ou qui vend ou achète, les parties aériennes de ces espèces ;
+- Toute personne qui par infraction à l’article 20, paragraphe 2 cueille, ramasse, coupe, détient, transporte ou échange des parties aériennes des espèces végétales partiellement protégées au-delà des quantités fixées par le règlement grand-ducal prévu par l’article 20, paragraphe 2, à titre lucratif ou pour des besoins non personnels, ou qui intentionnellement enlève de leur station, déracine, endommage ou détruit des parties souterraines de ces espèces, ou qui vend ou achète, les parties aériennes de ces espèces ;
 
-10. Toute personne qui par infraction aux articles 42 et 45 contrevient à une des servitudes suivantes y visées :
+- Toute personne qui par infraction aux articles 42 et 45 contrevient à une des servitudes suivantes y visées :
 
-1. interdiction ou restriction du droit de circuler par véhicule roulant motorisé ou non, à cheval, à pied ;
+  - interdiction ou restriction du droit de circuler par véhicule roulant motorisé ou non, à cheval, à pied ;
 
-2. interdiction de la divagation d’animaux domestiques ;
+  - interdiction de la divagation d’animaux domestiques ;
 
-11. Toute personne qui détruit ou rend illisible ou déplace l’affiche mentionnée à l’article 73.
+- Toute personne qui détruit ou rend illisible ou déplace l’affiche mentionnée à l’article 73.
 
 <a id="art-76"></a>
 ## Art. 76.
@@ -2034,9 +2034,9 @@ L'avertissement taxé est subordonné à la condition soit que le contrevenant c
 
 L'avertissement taxé est remplacé par un procès-verbal ordinaire :
 
-1. si le contrevenant n'a pas payé dans le délai imparti ;
+- si le contrevenant n'a pas payé dans le délai imparti ;
 
-2. si le contrevenant déclare ne pas vouloir ou ne pas pouvoir payer la ou les taxes.
+- si le contrevenant déclare ne pas vouloir ou ne pas pouvoir payer la ou les taxes.
 
 Le montant de l'avertissement taxé ainsi que les modes du paiement sont fixés par règlement grand-ducal qui détermine aussi les modalités d'application du présent article et qui établira un catalogue groupant les contraventions suivant le montant des avertissements taxés à percevoir.
 
@@ -2067,13 +2067,13 @@ Si la saisie se prolonge pendant plus de trois mois, sans que la mainlevée ait 
 
 La mainlevée de la saisie validée par ordonnance du juge d’instruction peut être demandée en tout état de cause, à savoir :
 
-1. à la chambre du conseil du tribunal d’arrondissement pendant l’enquête préliminaire ou l’instruction ;
+- à la chambre du conseil du tribunal d’arrondissement pendant l’enquête préliminaire ou l’instruction ;
 
-2. à la chambre correctionnelle du tribunal d’arrondissement lorsque celle-ci se trouve saisie par l’ordonnance de renvoi ou par la citation directe ;
+- à la chambre correctionnelle du tribunal d’arrondissement lorsque celle-ci se trouve saisie par l’ordonnance de renvoi ou par la citation directe ;
 
-3. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté ou s’il a été formé un pourvoi en cassation ;
+- à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté ou s’il a été formé un pourvoi en cassation ;
 
-4. au tribunal de police territorialement compétent lorsque celui-ci se trouve saisie par ordonnance de renvoi ayant procédé à la décorrectionalisation du délit.
+- au tribunal de police territorialement compétent lorsque celui-ci se trouve saisie par ordonnance de renvoi ayant procédé à la décorrectionalisation du délit.
 
 (4)
 
@@ -2120,35 +2120,77 @@ Modification de la loi modifiée du 31 mai 1999 portant institution d’un Fonds
 
 (1)
 
-L’article 2 est complété par un nouveau point f) formulé comme suit : la mise en œuvre des objectifs de la convention des Nations Unies sur la diversité biologique et de la convention des Nations Unies sur la lutte contre la désertification.
+L’article 2 est complété par un nouveau point f) formulé comme suit :
+
+- la mise en œuvre des objectifs de la convention des Nations Unies sur la diversité biologique et de la convention des Nations Unies sur la lutte contre la désertification.
 
 (2)
 
-L’article 3 est complété par un nouveau point c) formulé comme suit : le paiement de la taxe de remboursement, par des demandeurs d’autorisation au sens de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles, qui comprennent notamment l’acquisition de terrains, la planification et l’exécution des mesures compensatoires et la gestion des terrains sur une période donnée dans le pool compensatoire national.
+L’article 3 est complété par un nouveau point c) formulé comme suit :
+
+- le paiement de la taxe de remboursement, par des demandeurs d’autorisation au sens de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles, qui comprennent notamment l’acquisition de terrains, la planification et l’exécution des mesures compensatoires et la gestion des terrains sur une période donnée dans le pool compensatoire national.
 
 (3)
 
-Le point i) de l’article 4 est modifié comme suit : une aide pouvant être portée au maximum jusqu’à 75 pour cent du coût d’investissement dans des travaux d’aménagements, des frais d’études, des frais de gestion, de frais de conseil et des acquisitions de terrains en vue de la constitution du réseau des zones protégées conformément à l’article 2 de la loi concernant la protection de la nature et de la mise en œuvre des plans d’action en faveur des habitats et espèces arrêtés par le ministre.
+Le point i) de l’article 4 est modifié comme suit :
+
+- une aide pouvant être portée au maximum jusqu’à 75 pour cent du coût d’investissement dans des travaux d’aménagements, des frais d’études, des frais de gestion, de frais de conseil et des acquisitions de terrains en vue de la constitution du réseau des zones protégées conformément à l’article 2 de la loi concernant la protection de la nature et de la mise en œuvre des plans d’action en faveur des habitats et espèces arrêtés par le ministre.
 
 (4)
 
-L’article 4 est complété par trois nouveaux points l), m) et n) formulés comme suit : les subventions prévues par l’article 57 de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles ; la participation à des fonds multilatéraux gérés par des organismes internationaux ou régionaux qui ont pour mission d’appuyer financièrement des activités et projets communs en matière de protection de la nature et des ressources naturelles ainsi que de conservation de la diversité biologique et de la lutte contre la désertification ; le financement d’activités et de projets en matière de protection de la nature et des ressources naturelles ainsi que de conservation de la diversité biologique et de la lutte contre la désertification dans les pays en développement.
+L’article 4 est complété par trois nouveaux points l), m) et n) formulés comme suit :
+
+- les subventions prévues par l’article 57 de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles ;
+
+- la participation à des fonds multilatéraux gérés par des organismes internationaux ou régionaux qui ont pour mission d’appuyer financièrement des activités et projets communs en matière de protection de la nature et des ressources naturelles ainsi que de conservation de la diversité biologique et de la lutte contre la désertification ;
+
+- le financement d’activités et de projets en matière de protection de la nature et des ressources naturelles ainsi que de conservation de la diversité biologique et de la lutte contre la désertification dans les pays en développement.
 
 <a id="art-79"></a>
 ## Art. 79.
 
 Modification de la loi modifiée du 5 juin 2009 portant création de l’Administration de la nature et des forêts
 
-L’article 4(2) est complété par un nouveau dernier point : La contribution à l’instruction des dossiers de demande d’autorisation au sens de l’article 59 de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles
+L’article 4(2) est complété par un nouveau dernier point :
 
-L’article 4(4) est complété par un nouveau quatrième point : L’instruction des dossiers de demande d’autorisation au sens de l’article 59 de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles
+La contribution à l’instruction des dossiers de demande d’autorisation au sens de l’article 59 de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles
+
+L’article 4(4) est complété par un nouveau quatrième point :
+
+L’instruction des dossiers de demande d’autorisation au sens de l’article 59 de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles
 
 <a id="art-80"></a>
 ## Art. 80.
 
 Modification de la loi modifiée du 3 août 2005 concernant le partenariat
 
-L’article 4 est modifié comme suit : Art. 4. L’observatoire est composé comme suit : deux représentants du ministre ayant la Protection de la nature dans ses attributions ; deux représentants de l’Administration de la nature et des forêts ; un représentant de l’Administration de la gestion de l’eau ; deux représentants du Musée national d’histoire naturelle ; un représentant de l’Université du Luxembourg ; quatre représentants appartenant aux organisations non gouvernementales en matière de protection de la nature ; un représentant par syndicat. Il est adjoint à chaque représentant un représentant suppléant qui le remplacera en cas d’absence. L’observatoire peut se faire assister par des experts en la matière. Les représentants et leurs suppléants sont nommés par le ministre pour un terme de trois ans. La présidence de l’observatoire est alternativement exercée par un représentant du ministre, et des syndicats. Le secrétariat de l’observatoire est assuré par un représentant du ministre ou un fonctionnaire nommé à cet effet par le ministre.
+L’article 4 est modifié comme suit :
+
+Art. 4.
+
+L’observatoire est composé comme suit :
+
+- deux représentants du ministre ayant la Protection de la nature dans ses attributions ;
+
+- deux représentants de l’Administration de la nature et des forêts ;
+
+- un représentant de l’Administration de la gestion de l’eau ;
+
+- deux représentants du Musée national d’histoire naturelle ;
+
+- un représentant de l’Université du Luxembourg ;
+
+- quatre représentants appartenant aux organisations non gouvernementales en matière de protection de la nature ;
+
+- un représentant par syndicat.
+
+Il est adjoint à chaque représentant un représentant suppléant qui le remplacera en cas d’absence.
+
+L’observatoire peut se faire assister par des experts en la matière.
+
+Les représentants et leurs suppléants sont nommés par le ministre pour un terme de trois ans.
+
+La présidence de l’observatoire est alternativement exercée par un représentant du ministre, et des syndicats. Le secrétariat de l’observatoire est assuré par un représentant du ministre ou un fonctionnaire nommé à cet effet par le ministre.
 
 #### Chapitre 16 Dispositions transitoires
 
@@ -2182,4 +2224,6 @@ La loi modifiée du 19 janvier 2004 concernant la protection de la nature et des
 
 Intitulé de citation
 
-La référence à la présente loi se fait sous la forme suivante : « loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles ».
+La référence à la présente loi se fait sous la forme suivante :
+
+« loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles ».

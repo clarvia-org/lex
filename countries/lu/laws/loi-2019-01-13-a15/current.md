@@ -39,43 +39,43 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour l’application de la présente loi on entend par :
 
-1. « Registre des bénéficiaires effectifs » : le fichier dans lequel sont conservées les informations sur les bénéficiaires effectifs ;
+- « Registre des bénéficiaires effectifs » : le fichier dans lequel sont conservées les informations sur les bénéficiaires effectifs ;
 
-2. « gestionnaire » : le groupement d’intérêt économique Luxembourg Business Registers ;
+- « gestionnaire » : le groupement d’intérêt économique Luxembourg Business Registers ;
 
-3. « bénéficiaire effectif » : le bénéficiaire effectif défini à l’article 1 er , paragraphe 7, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ;
+- « bénéficiaire effectif » : le bénéficiaire effectif défini à l’article 1 er , paragraphe 7, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ;
 
-4. « entité immatriculée » : les entités immatriculées au Registre de commerce et des sociétés visées à l’article 1 er , points 2° à 5° et 6° à 17 ° , de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
+- « entité immatriculée » : les entités immatriculées au Registre de commerce et des sociétés visées à l’article 1 er , points 2° à 5° et 6° à 17 ° , de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
 
-5. « autorité nationale » : les autorités, administrations et entités suivantes :
+- « autorité nationale » : les autorités, administrations et entités suivantes :
 
-1. le procureur général d’État, les procureurs d’État ainsi que les membres de leurs parquets ;
+  - le procureur général d’État, les procureurs d’État ainsi que les membres de leurs parquets ;
 
-2. les juges d’instruction ;
+  - les juges d’instruction ;
 
-3. la cellule de renseignement financier ;
+  - la cellule de renseignement financier ;
 
-4. les officiers de police judiciaire visés à l’article 10 du Code de procédure pénale et agréés par le directeur général de la Police grand-ducale ;
+  - les officiers de police judiciaire visés à l’article 10 du Code de procédure pénale et agréés par le directeur général de la Police grand-ducale ;
 
-5. la Commission de surveillance du secteur financier ;
+  - la Commission de surveillance du secteur financier ;
 
-6. le Commissariat aux assurances ;
+  - le Commissariat aux assurances ;
 
-7. l’Administration de l’enregistrement, des domaines et de la TVA ;
+  - l’Administration de l’enregistrement, des domaines et de la TVA ;
 
-8. l’Administration des douanes et accises ;
+  - l’Administration des douanes et accises ;
 
-9. le Service de renseignement de l’État ;
+  - le Service de renseignement de l’État ;
 
-10. l’Administration des contributions directes ;
+  - l’Administration des contributions directes ;
 
-11. le Ministère des affaires étrangères et européennes dans le cadre de ses compétences spécifiques en matière de lutte contre le blanchiment et contre le financement du terrorisme ;
+  - le Ministère des affaires étrangères et européennes dans le cadre de ses compétences spécifiques en matière de lutte contre le blanchiment et contre le financement du terrorisme ;
 
-12. le Ministère des finances dans le cadre de ses compétences spécifiques en matière de lutte contre le blanchiment et contre le financement du terrorisme ;
+  - le Ministère des finances dans le cadre de ses compétences spécifiques en matière de lutte contre le blanchiment et contre le financement du terrorisme ;
 
-13. l’Office du contrôle des exportations, importations et du transit ;
+  - l’Office du contrôle des exportations, importations et du transit ;
 
-6. « professionnels » : les personnes visées à l’article 2 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme.
+- « professionnels » : les personnes visées à l’article 2 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme.
 
 #### Chapitre 2 Création du Registre des bénéficiaires effectifs
 
@@ -84,19 +84,19 @@ Pour l’application de la présente loi on entend par :
 
 Il est établi sous l’autorité du ministre ayant la Justice dans ses attributions un registre dénommé « Registre des bénéficiaires effectifs », en abrégé « RBE », qui a pour objet :
 
-1. l’inscription des bénéficiaires effectifs des entités immatriculées,
+- l’inscription des bénéficiaires effectifs des entités immatriculées,
 
-2. la conservation des données relatives aux bénéficiaires effectifs inscrits, et
+- la conservation des données relatives aux bénéficiaires effectifs inscrits, et
 
-3. la mise à disposition des informations sur les bénéficiaires effectifs des entités immatriculées aux fins suivantes :
+- la mise à disposition des informations sur les bénéficiaires effectifs des entités immatriculées aux fins suivantes :
 
-1. dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme :
+  - dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme :
 
-2. à des fins statistiques ;
+  - à des fins statistiques ;
 
-3. à des fins scientifiques ;
+  - à des fins scientifiques ;
 
-4. à toutes autres fins déterminées par la loi.
+  - à toutes autres fins déterminées par la loi.
 
 #### Chapitre 3 Inscription et conservation des informations sur les bénéficiaires effectifs dans le Registre des bénéficiaires effectifs
 
@@ -107,35 +107,35 @@ Il est établi sous l’autorité du ministre ayant la Justice dans ses attribut
 
 Les informations suivantes sur les bénéficiaires effectifs des entités immatriculées doivent être inscrites et conservées dans le Registre des bénéficiaires effectifs :
 
-1. le nom ;
+- le nom ;
 
-2. le(s) prénom(s) ;
+- le(s) prénom(s) ;
 
-3. la (ou les) nationalité(s) ;
+- la (ou les) nationalité(s) ;
 
-4. le jour de naissance ;
+- le jour de naissance ;
 
-5. le mois de naissance ;
+- le mois de naissance ;
 
-6. l’année de naissance ;
+- l’année de naissance ;
 
-7. le lieu de naissance ;
+- le lieu de naissance ;
 
-8. le pays de résidence ;
+- le pays de résidence ;
 
-9. l’adresse privée précise ou l’adresse professionnelle précise mentionnant :
+- l’adresse privée précise ou l’adresse professionnelle précise mentionnant :
 
-1. pour les adresses au Grand-Duché de Luxembourg : la résidence habituelle figurant dans le registre national des personnes physiques ou, pour les adresses professionnelles, la localité, la rue et le numéro d’immeuble figurant au Registre national des localités et des rues, tel que prévu par l’article 2, lettre g) de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie, ainsi que le code postal ;
+  - pour les adresses au Grand-Duché de Luxembourg : la résidence habituelle figurant dans le registre national des personnes physiques ou, pour les adresses professionnelles, la localité, la rue et le numéro d’immeuble figurant au Registre national des localités et des rues, tel que prévu par l’article 2, lettre g) de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie, ainsi que le code postal ;
 
-2. pour les adresses à l’étranger : la localité, la rue et le numéro d’immeuble à l’étranger, le code postal et le pays ;
+  - pour les adresses à l’étranger : la localité, la rue et le numéro d’immeuble à l’étranger, le code postal et le pays ;
 
-10. pour les personnes inscrites au Registre national des personnes physiques : le numéro d’identification prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
+- pour les personnes inscrites au Registre national des personnes physiques : le numéro d’identification prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
 
-11. pour les personnes non résidentes non inscrites au Registre National des Personnes Physiques : un numéro d’identification étranger ;
+- pour les personnes non résidentes non inscrites au Registre National des Personnes Physiques : un numéro d’identification étranger ;
 
-12. la nature des intérêts effectifs détenus ;
+- la nature des intérêts effectifs détenus ;
 
-13. l’étendue des intérêts effectifs détenus.
+- l’étendue des intérêts effectifs détenus.
 
 (2)
 
@@ -238,7 +238,7 @@ Toute décision administrative du gestionnaire du registre des bénéficiaires e
 
 (1)
 
-Toute personne disposant d’un accès aux informations du Registre des bénéficiaires effectifs en application de l’article 11 ainsi que tout professionnel sont tenus, dans l’exercice de leurs missions, de consulter le Registre des bénéficiaires effectifs et d’informer le gestionnaire dès qu’ils constatent soit l’existence de données erronées ou le défaut de tout ou partie des données dans le Registre des bénéficiaires effectifs, soit le défaut d’une inscription, d’une modification ou d’une radiation, dans un délai de trente jours à partir de cette constatation.
+Toute personne disposant d’un accès aux informations du Registre des bénéficiaires effectifs en application de l’article 11 ainsi que tout professionnel sont tenus , dans l’exercice de leurs missions, de consulter le Registre des bénéficiaires effectifs et d’informer le gestionnaire dès qu’ils constatent soit l’existence de données erronées ou le défaut de tout ou partie des données dans le Registre des bénéficiaires effectifs, soit le défaut d’une inscription, d’une modification ou d’une radiation, dans un délai de trente jours à partir de cette constatation.
 
 (2)
 
@@ -263,13 +263,13 @@ Pour s’assurer de la tenue à jour du Registre des bénéficiaires effectifs, 
 
 Lorsque l’entité immatriculée n’a pas répondu à la demande de vérification ou le cas échéant n’a pas régularisé ses inscriptions au Registre des bénéficiaires effectifs, endéans les 30 jours de l’envoi de la demande, le gestionnaire peut imposer les sanctions et mesures administratives suivantes :
 
-1. afficher sur son site internet dans le dossier de la personne ou de l’entité le fait qu’une procédure de vérification est en cours de traitement, à partir du premier jour du deuxième mois qui suit la date d’envoi de la demande de vérification ;
+- afficher sur son site internet dans le dossier de la personne ou de l’entité le fait qu’une procédure de vérification est en cours de traitement, à partir du premier jour du deuxième mois qui suit la date d’envoi de la demande de vérification ;
 
-2. émettre des certificats attestant des manquements constatés, à partir du premier jour du troisième mois qui suit la date d’envoi de la demande de vérification ;
+- émettre des certificats attestant des manquements constatés, à partir du premier jour du troisième mois qui suit la date d’envoi de la demande de vérification ;
 
-3. prononcer une astreinte journalière de 40 euros à partir du premier jour du septième mois qui suit la date d’envoi de la demande de mise à jour jusqu’au dernier jour du neuvième mois qui suit la date d’envoi de la demande de mise à jour ;
+- prononcer une astreinte journalière de 40 euros à partir du premier jour du septième mois qui suit la date d’envoi de la demande de mise à jour jusqu’au dernier jour du neuvième mois qui suit la date d’envoi de la demande de mise à jour ;
 
-4. radier d’office le dossier de l’entité immatriculée, sans que cela emporte dissolution, ni perte de la personnalité juridique, à partir du premier jour du douzième mois qui suit la date d’envoi de la demande de vérification.
+- radier d’office le dossier de l’entité immatriculée, sans que cela emporte dissolution, ni perte de la personnalité juridique, à partir du premier jour du douzième mois qui suit la date d’envoi de la demande de vérification.
 
 (4)
 
@@ -281,9 +281,9 @@ Les actes de poursuite, de saisie ou de procédure auxquels le recouvrement des 
 
 La mise à jour de l’information au Registre des bénéficiaires effectifs, effectuée postérieurement à la mise en œuvre des mesures fixées au paragraphe 3 entraine :
 
-1. la suppression de la mesure prescrite au paragraphe 3, lettres a), b) et d) ;
+- la suppression de la mesure prescrite au paragraphe 3, lettres a), b) et d) ;
 
-2. une majoration des frais de déclaration, fixée par règlement grand-ducal. La majoration des frais de dépôts ne s’applique pas lorsque la personne visée est une association sans but lucratif ou une fondation.
+- une majoration des frais de déclaration, fixée par règlement grand-ducal. La majoration des frais de dépôts ne s’applique pas lorsque la personne visée est une association sans but lucratif ou une fondation.
 
 (6)
 
@@ -309,27 +309,27 @@ Les pièces justificatives visées à l’article 4, paragraphe 3, sont conserv�
 
 L’accès au Registre des bénéficiaires effectifs est ouvert :
 
-1. aux autorités nationales dans l’exercice de leurs missions ;
+- aux autorités nationales dans l’exercice de leurs missions ;
 
-2. aux professionnels dans le cadre de l’exécution de leurs mesures de vigilance à l’égard de leur clientèle conformément aux articles 3 à 3-3 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme , y compris à l’égard des entités avec lesquelles leur clientèle est susceptible de conclure une transaction et qui souhaite empêcher tout lien entre une telle transaction et le blanchiment de capitaux, ses infractions sous-jacentes ou le financement du terrorisme ;
+- aux professionnels dans le cadre de l’exécution de leurs mesures de vigilance à l’égard de leur clientèle conformément aux articles 3 à 3-3 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme , y compris à l’égard des entités avec lesquelles leur clientèle est susceptible de conclure une transaction et qui souhaite empêcher tout lien entre une telle transaction et le blanchiment de capitaux, ses infractions sous-jacentes ou le financement du terrorisme ;
 
-3. aux organismes d’autorégulation nationaux dans le cadre de l’exercice de leur mission de surveillance en matière de lutte contre le blanchiment et contre le financement du terrorisme ;
+- aux organismes d’autorégulation nationaux dans le cadre de l’exercice de leur mission de surveillance en matière de lutte contre le blanchiment et contre le financement du terrorisme ;
 
-4. aux personnes qui démontrent un intérêt légitime dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme ;
+- aux personnes qui démontrent un intérêt légitime dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme ;
 
-5. aux services de l’État ainsi qu’aux administrations publiques et aux établissements publics pour lesquels un tel accès est prévu par la loi dans le cadre des missions définies par la loi.
+- aux services de l’État ainsi qu’aux administrations publiques et aux établissements publics pour lesquels un tel accès est prévu par la loi dans le cadre des missions définies par la loi.
 
 (2)
 
 Les personnes ayant un intérêt légitime dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme visées au point 4° du paragraphe 1er comprennent notamment :
 
-1. les journalistes professionnels au sens de la loi modifiée du 8 juin 2004 sur la liberté d’expression dans les médias ainsi que les journalistes professionnels établis dans un ou plusieurs États Membres de l’Union européenne ;
+- les journalistes professionnels au sens de la loi modifiée du 8 juin 2004 sur la liberté d’expression dans les médias ainsi que les journalistes professionnels établis dans un ou plusieurs États Membres de l’Union européenne ;
 
-2. les organisations, associations ou fondations établies sur le territoire de l’un des États membres de l’Union européenne, pour autant qu’elles poursuivent un but non lucratif dont l’objet est la prévention et la lutte contre le blanchiment et contre le financement du terrorisme ;
+- les organisations, associations ou fondations établies sur le territoire de l’un des États membres de l’Union européenne, pour autant qu’elles poursuivent un but non lucratif dont l’objet est la prévention et la lutte contre le blanchiment et contre le financement du terrorisme ;
 
-3. les personnes qui souhaitent connaître l’identité des bénéficiaires effectifs d’une société ou d’une entité donnée du fait qu’elles sont susceptibles de conclure des transactions avec celles-ci et veulent éviter tout lien entre de telles transactions et le blanchiment et le financement du terrorisme ;
+- les personnes qui souhaitent connaître l’identité des bénéficiaires effectifs d’une société ou d’une entité donnée du fait qu’elles sont susceptibles de conclure des transactions avec celles-ci et veulent éviter tout lien entre de telles transactions et le blanchiment et le financement du terrorisme ;
 
-4. les autorités et administrations nationales impliquées dans la lutte contre des infractions en matière de blanchiment ou de financement du terrorisme dans la mesure où elles n’ont pas déjà accès aux informations en question sur base du paragraphe 1 er , points 1°, 2° ou 5°.
+- les autorités et administrations nationales impliquées dans la lutte contre des infractions en matière de blanchiment ou de financement du terrorisme dans la mesure où elles n’ont pas déjà accès aux informations en question sur base du paragraphe 1 er , points 1°, 2° ou 5°.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -344,9 +344,9 @@ Les autres personnes visées à l’article 11 ont un accès limité aux informa
 
 L’accès est ouvert pour chaque personne ou entité aux informations suivantes :
 
-1. pour les personnes visées à l’article 11, paragraphe 1 er , point 1° à l’ensemble des informations visées à l’article 3 ;
+- pour les personnes visées à l’article 11, paragraphe 1 er , point 1° à l’ensemble des informations visées à l’article 3 ;
 
-2. pour les autres personnes, aux informations visées à l’article 3, paragraphe 1 er , points 1° à 8°, 12° et 13°.
+- pour les autres personnes, aux informations visées à l’article 3, paragraphe 1 er , points 1° à 8°, 12° et 13°.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -410,15 +410,15 @@ La demande d’accès d’une personne visée à l’article 11, paragraphe 1er,
 
 La demande précise, sous peine de nullité :
 
-1. si le requérant est une personne physique : les noms, prénoms, nationalités, date de naissance, lieu de naissance et domicile ou résidence de la personne demanderesse ; si le requérant est une personne morale : la dénomination, l’adresse précise du siège et la personne ou l’organe qualifié pour la représenter en justice ;
+- si le requérant est une personne physique : les noms, prénoms, nationalités, date de naissance, lieu de naissance et domicile ou résidence de la personne demanderesse ; si le requérant est une personne morale : la dénomination, l’adresse précise du siège et la personne ou l’organe qualifié pour la représenter en justice ;
 
-2. pour chaque entité immatriculée visée par la demande :
+- pour chaque entité immatriculée visée par la demande :
 
-1. le numéro d’immatriculation au registre de commerce et des sociétés ; ou
+  - le numéro d’immatriculation au registre de commerce et des sociétés ; ou
 
-2. la dénomination.
+  - la dénomination.
 
-3. le fondement de la demande et les utilisations aux fins desquelles l’accès à l’information est demandé.
+- le fondement de la demande et les utilisations aux fins desquelles l’accès à l’information est demandé.
 
 À l’appui de la demande il est joint tout document de nature à justifier de l’existence d’un intérêt légitime.
 
@@ -480,9 +480,9 @@ Dans le cadre des missions respectives du gestionnaire du registre de commerce e
 
 Dans les limites des missions dévolues au gestionnaire, qui visent la vérification des inscriptions effectuées au registre des bénéficiaires effectifs et la tenue à jour des informations inscrites, le gestionnaire a un droit d’accès aux informations, même individuelles, contenues dans les traitements de données à caractère personnel suivants :
 
-1. le registre général des personnes physiques créé par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
+- le registre général des personnes physiques créé par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
 
-2. le Registre national des localités et des rues, tel que prévu par l’article 2, lettre g) de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie.
+- le Registre national des localités et des rues, tel que prévu par l’article 2, lettre g) de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie.
 
 (3)
 
@@ -585,17 +585,33 @@ Sera puni d’une amende de 1 250 euros à 1 250 000 euros le bénéficiaire eff
 <a id="art-22"></a>
 ## Art. 22.
 
-L’article 10 de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises est complété par un point 4° qui prend la teneur suivante : le cas échéant, l’indication d’une mention supplémentaire prévue par la loi.
+L’article 10 de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises est complété par un point 4° qui prend la teneur suivante :
+
+- le cas échéant, l’indication d’une mention supplémentaire prévue par la loi.
 
 <a id="art-23"></a>
 ## Art. 23.
 
-Après l’article 12 de la même loi sont insérés les articles 12bis et 12ter nouveaux suivants : Art. 12bis . Est également à communiquer le numéro d’identification national de toute personne physique inscrite au registre de commerce et des sociétés, tel que prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques. Les personnes physiques ne disposant pas d’un numéro d’identification tel que prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques, se voient allouer ce numéro d’identification conformément à l’article 1, paragraphe 2, alinéa 2 de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques lors de leur inscription par le gestionnaire du registre de commerce et des sociétés. Art. 12ter. Les adresses luxembourgeoises précises à inscrire au registre de commerce et des sociétés, en application de la présente loi, mentionnent la localité, la rue, le numéro d’immeuble, figurant ou à communiquer au Registre national des localités et des rues, prévu par l’article 2, lettre g) de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie, et le code postal.
+Après l’article 12 de la même loi sont insérés les articles 12bis et 12ter nouveaux suivants :
+
+<a id="art-12bis"></a>
+## Art. 12bis .
+
+Est également à communiquer le numéro d’identification national de toute personne physique inscrite au registre de commerce et des sociétés, tel que prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques.
+
+Les personnes physiques ne disposant pas d’un numéro d’identification tel que prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques, se voient allouer ce numéro d’identification conformément à l’article 1, paragraphe 2, alinéa 2 de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques lors de leur inscription par le gestionnaire du registre de commerce et des sociétés.
+
+<a id="art-12ter"></a>
+## Art. 12ter.
+
+Les adresses luxembourgeoises précises à inscrire au registre de commerce et des sociétés, en application de la présente loi, mentionnent la localité, la rue, le numéro d’immeuble, figurant ou à communiquer au Registre national des localités et des rues, prévu par l’article 2, lettre g) de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie, et le code postal.
 
 <a id="art-24"></a>
 ## Art. 24.
 
-L’article 22-1, alinéa 2, de la même loi, est modifié comme suit : Lorsqu’elle est électronique, cette signature doit être qualifiée au sens du règlement (UE) N° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
+L’article 22-1, alinéa 2, de la même loi, est modifié comme suit :
+
+Lorsqu’elle est électronique, cette signature doit être qualifiée au sens du règlement (UE) N° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
 
 <a id="art-25"></a>
 ## Art. 25.
@@ -607,9 +623,9 @@ L’article 22-4 de la même loi est abrogé.
 
 L’article 23 de la même loi est modifié comme suit :
 
-1. À la lettre a), les termes et des frais de publication au Recueil électronique des sociétés et associations sont supprimés.
+- À la lettre a), les termes et des frais de publication au Recueil électronique des sociétés et associations sont supprimés.
 
-2. À la lettre b), les termes et de frais de publication au Recueil électronique des sociétés et associations sont supprimés.
+- À la lettre b), les termes et de frais de publication au Recueil électronique des sociétés et associations sont supprimés.
 
 #### Chapitre 9 Disposition transitoire
 

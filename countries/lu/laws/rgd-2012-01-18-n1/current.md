@@ -34,11 +34,11 @@ Définitions
 
 Au sens du présent règlement, sont désignés par les termes
 
-1. ministre, le membre du Gouvernement ayant l’Éducation nationale dans ses attributions,
+- ministre, le membre du Gouvernement ayant l’Éducation nationale dans ses attributions,
 
-2. service, le service chargé de la gestion du personnel des écoles au sein du département ministériel ayant l’Éducation nationale dans ses attributions,
+- service, le service chargé de la gestion du personnel des écoles au sein du département ministériel ayant l’Éducation nationale dans ses attributions,
 
-3. commune, indifféremment la commune ou le syndicat de communes.
+- commune, indifféremment la commune ou le syndicat de communes.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -65,33 +65,33 @@ Ouverture du dossier personnel par l’État
 
 Afin de permettre l’ouverture au niveau de l’État des dossiers personnels nécessaires pour déterminer le montant qui résulterait de l’application aux différents agents communaux figurant dans une convention conclue entre l’État et une commune des législations et réglementations applicables aux fonctionnaires et employés de l’État, la commune concernée fait parvenir au service avec chaque convention et pour chaque membre de son personnel qui y figure les pièces et documents suivants:
 
-1. une feuille de renseignements dûment complétée et signée,
+- une feuille de renseignements dûment complétée et signée,
 
-2. une copie ou un extrait de l’acte de naissance,
+- une copie ou un extrait de l’acte de naissance,
 
-3. une copie de la carte d’identité,
+- une copie de la carte d’identité,
 
-4. une copie des certificats d’études et des diplômes ou de documents reconnus équivalents par le ministre compétent,
+- une copie des certificats d’études et des diplômes ou de documents reconnus équivalents par le ministre compétent,
 
-5. un certificat d’affiliation au Centre Commun de la Sécurité Sociale datant de moins de 30 jours,
+- un certificat d’affiliation au Centre Commun de la Sécurité Sociale datant de moins de 30 jours,
 
-6. une copie des certificats de travail du secteur public reprenant les périodes de travail et le degré d’occupation,
+- une copie des certificats de travail du secteur public reprenant les périodes de travail et le degré d’occupation,
 
-7. une copie de la fiche-carrière ainsi que des fiches-salaires depuis le 15 septembre 2009,
+- une copie de la fiche-carrière ainsi que des fiches-salaires depuis le 15 septembre 2009,
 
-8. pour les chargés de cours: une copie du contrat de louage de service prouvant l’engagement à durée indéterminée auprès de la commune à l’échéance du 15 septembre 2009,
+- pour les chargés de cours: une copie du contrat de louage de service prouvant l’engagement à durée indéterminée auprès de la commune à l’échéance du 15 septembre 2009,
 
-9. pour les fonctionnaires communaux, les employés communaux et les salariés des communes des carrières énumérées à l’article 2 ci-dessus: un certificat de la commune attestant qu’ils étaient en service auprès de la commune à l’échéance du 15 septembre 2009,
+- pour les fonctionnaires communaux, les employés communaux et les salariés des communes des carrières énumérées à l’article 2 ci-dessus: un certificat de la commune attestant qu’ils étaient en service auprès de la commune à l’échéance du 15 septembre 2009,
 
 ainsi que, le cas échéant:
 
-1. une copie de l’autorisation d’exercer la profession délivrée par le ministre ayant la santé dans ses attributions,
+- une copie de l’autorisation d’exercer la profession délivrée par le ministre ayant la santé dans ses attributions,
 
-2. une copie des décisions documentant des congés sans traitement, pour travail à mi-temps ou parental,
+- une copie des décisions documentant des congés sans traitement, pour travail à mi-temps ou parental,
 
-3. une copie de la décision documentant la réussite à l’examen de carrière,
+- une copie de la décision documentant la réussite à l’examen de carrière,
 
-4. une demande en obtention de l’allocation de famille.
+- une demande en obtention de l’allocation de famille.
 
 Après vérification par le service des pièces et documents énumérés ci-dessus permettant d’ouvrir un dossier personnel, une copie de ce dossier est transmise au membre du Gouvernement ayant la Fonction publique dans ses attributions. Ce dernier saisit l’Administration du personnel de l’État en vue d’établir la carrière et de calculer les rémunérations brutes dues depuis le 15 septembre 2009 suivant les dispositions légales et réglementaires applicables. Les résultats obtenus sont validés ensuite par le contrôleur financier auprès du département ministériel ayant la Fonction publique dans ses attributions.
 

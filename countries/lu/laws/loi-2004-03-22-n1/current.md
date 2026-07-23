@@ -72,7 +72,7 @@ La présente loi s’applique aux seuls organismes de titrisation situés au Lux
 
 (1)
 
-Les sociétés de titrisation doivent prendre la forme d’une société anonyme, d’une société en commandite par actions, d’une société à responsabilité limitée, d’une société en nom collectif, d’une société en commandite simple, d’une société en commandite spéciale, d’une société par actions simplifiée ou d’une société coopérative organisée comme une société anonyme.
+Les sociétés de titrisation doivent prendre la forme d’une société anonyme, d’une société en commandite par actions, d’une société à responsabilité limitée , d’une société en nom collectif, d’une société en commandite simple, d’une société en commandite spéciale, d’une société par actions simplifiée ou d’une société coopérative organisée comme une société anonyme.
 
 (2)
 
@@ -247,11 +247,11 @@ Les organismes de titrisation qui émettent en continu, au sens de la présente 
 
 Une émission d’instruments financiers offerts au public, au sens de la présente loi, est une émission :
 
-1. qui n’est pas destinée à des clients professionnels au sens de l’article 1 er , point 5, de la loi modifiée du 5 avril 1993 relative au secteur financier ;
+- qui n’est pas destinée à des clients professionnels au sens de l’article 1 er , point 5, de la loi modifiée du 5 avril 1993 relative au secteur financier ;
 
-2. dont les coupures sont inférieures à 100.000 euros ; et
+- dont les coupures sont inférieures à 100.000 euros ; et
 
-3. qui n’est pas distribuée sous forme de placement privé.
+- qui n’est pas distribuée sous forme de placement privé.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -682,14 +682,14 @@ Les statuts, le règlement de gestion de l’organisme de titrisation, une conve
 <a id="art-60"></a>
 ## Art. 60.
 
-L’organisme de titrisation peut charger le cédant ou un tiers du recouvrement des créances qu’il détient ainsi que de toutes autres tâches relatives à leur gestion, sans que ceux-ci soient tenus de requérir un agrément au titre de la législation relative au secteur financier, sans préjudice des obligations découlant de la loi du 15 juillet 2024 relative au transfert de crédits non performants et de la partie Ire, chapitre 2, section 2, sous-section 2ter de la loi modifiée du 5 avril 1993 relative au secteur financier .
+L’organisme de titrisation peut charger le cédant ou un tiers du recouvrement des créances qu’il détient ainsi que de toutes autres tâches relatives à leur gestion, sans que ceux-ci soient tenus de requérir un agrément au titre de la législation relative au secteur financier , sans préjudice des obligations découlant de la loi du 15 juillet 2024 relative au transfert de crédits non performants et de la partie Ire, chapitre 2, section 2, sous-section 2ter de la loi modifiée du 5 avril 1993 relative au secteur financier .
 
 <a id="art-61"></a>
 ## Art. 61.
 
 (1)
 
-Un organisme de titrisation n’est autorisé à céder ses biens que selon les modalités prévues par ses statuts, les documents d’émission applicables ou son règlement de gestion.
+Un organisme de titrisation n’est autorisé à céder ses biens que selon les modalités prévues par ses statuts , les documents d’émission applicables ou son règlement de gestion.
 
 (2)
 
@@ -753,15 +753,15 @@ Nonobstant toute stipulation contraire, le droit de vote attaché aux actions de
 
 Les règles de subordination suivantes s’appliquent aux instruments financiers émis par un organisme de titrisation :
 
-1. Les parts d’un fonds de titrisation sont subordonnées aux autres instruments financiers émis et aux emprunts contractés par ce fonds de titrisation ;
+- Les parts d’un fonds de titrisation sont subordonnées aux autres instruments financiers émis et aux emprunts contractés par ce fonds de titrisation ;
 
-2. Les actions, parts sociales ou parts d’intérêt d’une société de titrisation sont subordonnées aux autres instruments financiers émis et aux emprunts contractés par cette société de titrisation ;
+- Les actions, parts sociales ou parts d’intérêt d’une société de titrisation sont subordonnées aux autres instruments financiers émis et aux emprunts contractés par cette société de titrisation ;
 
-3. Les actions, parts sociales ou parts d’intérêt d’une société de titrisation sont subordonnées aux parts bénéficiaires émises par cette société de titrisation ;
+- Les actions, parts sociales ou parts d’intérêt d’une société de titrisation sont subordonnées aux parts bénéficiaires émises par cette société de titrisation ;
 
-4. Les parts bénéficiaires émises par une société de titrisation sont subordonnées aux instruments financiers de dette émis et aux emprunts contractés par cette société de titrisation ;
+- Les parts bénéficiaires émises par une société de titrisation sont subordonnées aux instruments financiers de dette émis et aux emprunts contractés par cette société de titrisation ;
 
-5. Les instruments financiers de dette à rendement non-fixe émis par un organisme de titrisation sont subordonnés aux instruments financiers de dette à rendement fixe émis par cet organisme de titrisation.
+- Les instruments financiers de dette à rendement non-fixe émis par un organisme de titrisation sont subordonnés aux instruments financiers de dette à rendement fixe émis par cet organisme de titrisation.
 
 (2)
 
@@ -1002,12 +1002,16 @@ Sont punis d’un emprisonnement de trois mois à deux ans et d’une amende de 
 <a id="art-86"></a>
 ## Art. 86.
 
-L’article 13 (2) de la loi modifiée du 5 avril 1993 relative au secteur financier est complété par le tiret suivant, placé comme avant-dernier tiret: aux organismes de titrisation et aux représentants-fiduciaires intervenant auprès d’un tel organisme
+L’article 13 (2) de la loi modifiée du 5 avril 1993 relative au secteur financier est complété par le tiret suivant, placé comme avant-dernier tiret:
+
+- aux organismes de titrisation et aux représentants-fiduciaires intervenant auprès d’un tel organisme
 
 <a id="art-87"></a>
 ## Art. 87.
 
-Le premier alinéa du paragraphe (1) de l’article 2 de la loi modifiée du 23 décembre 1998 portant création d’une Commission de Surveillance du Secteur Financier est remplacé par le texte suivant: La Commission est l’autorité compétente pour la surveillance prudentielle des établissements de crédit, des PSF au sens de la loi modifiée du 5 avril 1993 relative au secteur financier, des organismes de placement collectif, des fonds de pension sous forme de sepcav ou d’assep, des organismes de titrisation agréés, des représentants-fiduciaires intervenant auprès d’un organisme de titrisation ainsi que des personnes exerçant l’activité de bourse.
+Le premier alinéa du paragraphe (1) de l’article 2 de la loi modifiée du 23 décembre 1998 portant création d’une Commission de Surveillance du Secteur Financier est remplacé par le texte suivant:
+
+La Commission est l’autorité compétente pour la surveillance prudentielle des établissements de crédit, des PSF au sens de la loi modifiée du 5 avril 1993 relative au secteur financier, des organismes de placement collectif, des fonds de pension sous forme de sepcav ou d’assep, des organismes de titrisation agréés, des représentants-fiduciaires intervenant auprès d’un organisme de titrisation ainsi que des personnes exerçant l’activité de bourse.
 
 <a id="art-88"></a>
 ## Art. 88.
@@ -1019,20 +1023,22 @@ L’article 4 de la loi du 27 juillet 2003 sur le trust et les contrats fiduciai
 
 La loi modifiée du 4 décembre 1967 relative à l’impôt sur le revenu est modifiée comme suit:
 
-1. L’article 22bis est complété par l’ajout d’un alinéa 5 libellé comme suit: «(5) Les valeurs mobilières émises par un organisme de titrisation sont exclues du bénéfice des dispositions de l’alinéa 2 du présent article.»
+- L’article 22bis est complété par l’ajout d’un alinéa 5 libellé comme suit: «(5) Les valeurs mobilières émises par un organisme de titrisation sont exclues du bénéfice des dispositions de l’alinéa 2 du présent article.»
 
-2. L’article 25 est complété par l’ajout d’un alinéa 3 libellé comme suit: «(3) Le prix d’acquisition d’un bien acquis par un organisme de titrisation doit correspondre à la valeur estimée de réalisation de ce bien.»
+- L’article 25 est complété par l’ajout d’un alinéa 3 libellé comme suit: «(3) Le prix d’acquisition d’un bien acquis par un organisme de titrisation doit correspondre à la valeur estimée de réalisation de ce bien.»
 
-3. L’article 46 est complété par l’ajout d’un numéro 14 libellé comme suit: «14. les engagements assumés vis-à-vis des investisseurs et de tout autre créancier par une société de titrisation.»
+- L’article 46 est complété par l’ajout d’un numéro 14 libellé comme suit: «14. les engagements assumés vis-à-vis des investisseurs et de tout autre créancier par une société de titrisation.»
 
-4. L’article 97 est complété par l’ajout d’un alinéa 6 libellé comme suit: «(6) Les distributions et autres produits alloués aux investisseurs et autres créanciers d’un organisme de titrisation constituent des revenus provenant de capitaux mobiliers au sens de l’alinéa 1 er numéro 5 du présent article.»
+- L’article 97 est complété par l’ajout d’un alinéa 6 libellé comme suit: «(6) Les distributions et autres produits alloués aux investisseurs et autres créanciers d’un organisme de titrisation constituent des revenus provenant de capitaux mobiliers au sens de l’alinéa 1 er numéro 5 du présent article.»
 
-5. L’article 164bis est complété par l’insertion après l’alinéa 4 d’un nouvel alinéa 5 libellé comme suit: «(5) Les organismes de titrisation sont exclus du champ d’application du présent article.» Les autres alinéas sont renumérotés en conséquence.
+- L’article 164bis est complété par l’insertion après l’alinéa 4 d’un nouvel alinéa 5 libellé comme suit: «(5) Les organismes de titrisation sont exclus du champ d’application du présent article.» Les autres alinéas sont renumérotés en conséquence.
 
 <a id="art-90"></a>
 ## Art. 90.
 
-Le paragraphe 3, alinéa 1, numéro 4 de la loi modifiée du 16 octobre 1934 concernant l’impôt sur la fortune est modifié comme suit: les sociétés de titrisation constituées sous la forme d’une société anonyme, d’une société en commandite par actions, d’une société à responsabilité limitée ou d’une société coopérative organisée comme une société anonyme, sous réserve de l’impôt sur la fortune minimum déterminé conformément aux dispositions du § 8, alinéa 2».
+Le paragraphe 3, alinéa 1, numéro 4 de la loi modifiée du 16 octobre 1934 concernant l’impôt sur la fortune est modifié comme suit:
+
+- les sociétés de titrisation constituées sous la forme d’une société anonyme, d’une société en commandite par actions, d’une société à responsabilité limitée ou d’une société coopérative organisée comme une société anonyme, sous réserve de l’impôt sur la fortune minimum déterminé conformément aux dispositions du § 8, alinéa 2».
 
 #### Chapitre 2 Disposition transitoire
 

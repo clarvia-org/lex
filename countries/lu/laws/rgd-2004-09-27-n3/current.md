@@ -162,111 +162,111 @@ Le montant mensuel immunisé sur les ressources du bénéficiaire est fixé à 5
 
 Les actes suivants, dont le coût est compris de manière forfaitaire dans le prix de base mensuel, sont à prester obligatoirement par le service dans le cadre de l'accueil gérontologique:
 
-1. L'hôtellerie comportant:
+- L'hôtellerie comportant:
 
-1. au minimum trois repas par jour, dont au moins un repas chaud
+  - au minimum trois repas par jour, dont au moins un repas chaud
 
-2. la mise à disposition d'au moins deux collations supplémentaires
+  - la mise à disposition d'au moins deux collations supplémentaires
 
-3. l'adaptation des repas aux besoins spécifiques des personnes âgées
+  - l'adaptation des repas aux besoins spécifiques des personnes âgées
 
-4. de l'eau potable à volonté
+  - de l'eau potable à volonté
 
-5. un service ponctuel des repas au logement pour des raisons de santé ou de dépendance en dehors des prestations prévues par l'assurance dépendance
+  - un service ponctuel des repas au logement pour des raisons de santé ou de dépendance en dehors des prestations prévues par l'assurance dépendance
 
-6. la mise à disposition d'un logement adapté aux besoins spécifiques de personnes âgées, malades ou handicapées, meublé selon les besoins de l'usager au moins d'un lit de soins et, à la demande de l'usager nécessiteux, d'une table, de trois sièges et d'une armoire
+  - la mise à disposition d'un logement adapté aux besoins spécifiques de personnes âgées, malades ou handicapées, meublé selon les besoins de l'usager au moins d'un lit de soins et, à la demande de l'usager nécessiteux, d'une table, de trois sièges et d'une armoire
 
-7. le changement de la literie au moins une fois toutes les deux semaines
+  - le changement de la literie au moins une fois toutes les deux semaines
 
-8. la réfection du lit au moins une fois par jour
+  - la réfection du lit au moins une fois par jour
 
-9. l'entretien et le nettoyage du logement, y compris les meubles et rideaux
+  - l'entretien et le nettoyage du logement, y compris les meubles et rideaux
 
-10. le nettoyage supplémentaire ponctuel et exceptionnel suite à des problèmes de santé ou de dépendance non couverts par l'assurance dépendance
+  - le nettoyage supplémentaire ponctuel et exceptionnel suite à des problèmes de santé ou de dépendance non couverts par l'assurance dépendance
 
-11. l'équipement, l'entretien et le nettoyage des blocs sanitaires collectifs
+  - l'équipement, l'entretien et le nettoyage des blocs sanitaires collectifs
 
-12. la gestion des déchets individuels et collectifs
+  - la gestion des déchets individuels et collectifs
 
-13. la mise à disposition de locaux communs équipés conformément aux besoins des usagers et régulièrement entretenus et nettoyés
+  - la mise à disposition de locaux communs équipés conformément aux besoins des usagers et régulièrement entretenus et nettoyés
 
-14. l'éclairage et le chauffage du logement de l'usager et des locaux communs
+  - l'éclairage et le chauffage du logement de l'usager et des locaux communs
 
-2. La sécurité et la santé comportant:
+- La sécurité et la santé comportant:
 
-1. la permanence d'assistance et de soins vingt-quatre heures sur vingt-quatre
+  - la permanence d'assistance et de soins vingt-quatre heures sur vingt-quatre
 
-2. les aides et les soins requis pour des raisons de maladie ou de dépendance et non considérés par l'assurance dépendance
+  - les aides et les soins requis pour des raisons de maladie ou de dépendance et non considérés par l'assurance dépendance
 
-3. l'assistance au moins une fois par semaine lors d'un bain selon les besoins de l'usager ou à sa demande
+  - l'assistance au moins une fois par semaine lors d'un bain selon les besoins de l'usager ou à sa demande
 
-4. la mise en place d'un système d'appel-assistance/secours
+  - la mise en place d'un système d'appel-assistance/secours
 
-5. la constitution au moment de l'admission d'un dossier individuel qui renseigne sur la situation psychosociale et médicale de l'usager et qui est régulièrement tenu à jour
+  - la constitution au moment de l'admission d'un dossier individuel qui renseigne sur la situation psychosociale et médicale de l'usager et qui est régulièrement tenu à jour
 
-6. l'organisation régulière d'exercices d'évacuation en coopération avec le corps des sapeurs-pompiers compétent
+  - l'organisation régulière d'exercices d'évacuation en coopération avec le corps des sapeurs-pompiers compétent
 
-7. une documentation quotidienne des aides et des soins dont bénéficie l'usager
+  - une documentation quotidienne des aides et des soins dont bénéficie l'usager
 
-8. le libre choix du médecin par l'usager et l'organisation de visites médicales répondant à ce principe
+  - le libre choix du médecin par l'usager et l'organisation de visites médicales répondant à ce principe
 
-9. la mise à disposition au profit des médecins en consultation d'un local d'examen
+  - la mise à disposition au profit des médecins en consultation d'un local d'examen
 
-10. la gestion des médicaments prescrits par un médecin selon les besoins de l'usager ou à sa demande
+  - la gestion des médicaments prescrits par un médecin selon les besoins de l'usager ou à sa demande
 
-11. la provision des médicaments prescrits par un médecin pour des raisons de maladie ou de dépendance non considérés par les prestations de la sécurité sociale
+  - la provision des médicaments prescrits par un médecin pour des raisons de maladie ou de dépendance non considérés par les prestations de la sécurité sociale
 
-12. la mise à disposition d'une salle de kinésithérapie équipée et l'organisation selon les besoins des usagers ou à leur demande de séances de kiné- et de physiothérapie
+  - la mise à disposition d'une salle de kinésithérapie équipée et l'organisation selon les besoins des usagers ou à leur demande de séances de kiné- et de physiothérapie
 
-13. l'organisation d'une unité d'assistance psycho-sociale et la prestation des services afférents requis selon les besoins de l'usager ou à sa demande
+  - l'organisation d'une unité d'assistance psycho-sociale et la prestation des services afférents requis selon les besoins de l'usager ou à sa demande
 
-14. la prestation de conseils et d'une assistance en matière
+  - la prestation de conseils et d'une assistance en matière
 
-- de manipulation et d'entretien d'appareillages et de prothèses
+    - de manipulation et d'entretien d'appareillages et de prothèses
 
-- de soins et de thérapie éventuels au sein ou en dehors du service
+    - de soins et de thérapie éventuels au sein ou en dehors du service
 
-15. la gestion d'un stock de matériel d'intervention, de pansements et d'équipements sanitaires
+  - la gestion d'un stock de matériel d'intervention, de pansements et d'équipements sanitaires
 
-16. la connexion au niveau du logement à un réseau téléphonique et la mise à disposition d'une cabine téléphonique
+  - la connexion au niveau du logement à un réseau téléphonique et la mise à disposition d'une cabine téléphonique
 
-17. la mise à disposition d'infrastructures et d'équipements conformes aux dispositions légales et réglementaires en matière de salubrité, d'hygiène et d'agrément
+  - la mise à disposition d'infrastructures et d'équipements conformes aux dispositions légales et réglementaires en matière de salubrité, d'hygiène et d'agrément
 
-3. L'assistance au niveau des gestes de la vie quotidienne comportant:
+- L'assistance au niveau des gestes de la vie quotidienne comportant:
 
-1. l'établissement d'un contrat d'hébergement avec tout usager, rédigé dans au moins deux des langues administratives
+  - l'établissement d'un contrat d'hébergement avec tout usager, rédigé dans au moins deux des langues administratives
 
-2. l'information et l'assistance de l'usager lors de l'établissement de sa demande en obtention du complément visé par la loi
+  - l'information et l'assistance de l'usager lors de l'établissement de sa demande en obtention du complément visé par la loi
 
-3. des conseils et une assistance au niveau de l'hygiène du corps, de la tenue vestimentaire, de la mobilité, des problèmes éventuels de continence ou d'insomnie, de la prévention d'esquarres de décubitus ou d'attitudes vicieuses selon les besoins de l'usager ou à sa demande
+  - des conseils et une assistance au niveau de l'hygiène du corps, de la tenue vestimentaire, de la mobilité, des problèmes éventuels de continence ou d'insomnie, de la prévention d'esquarres de décubitus ou d'attitudes vicieuses selon les besoins de l'usager ou à sa demande
 
-4. la mise à disposition gratuite des compléments alimentaires pour des raisons de santé ou de dépendance de l'usager
+  - la mise à disposition gratuite des compléments alimentaires pour des raisons de santé ou de dépendance de l'usager
 
-5. la mise à disposition et l'entretien régulier d'une infrastructure appropriée et d'aides techniques destinées à faciliter la mobilité des usagers
+  - la mise à disposition et l'entretien régulier d'une infrastructure appropriée et d'aides techniques destinées à faciliter la mobilité des usagers
 
-6. l'organisation ponctuelle de déplacements collectifs
+  - l'organisation ponctuelle de déplacements collectifs
 
-7. l'assistance au niveau de l'organisation de déplacements individuels selon les besoins de l'usager ou à sa demande
+  - l'assistance au niveau de l'organisation de déplacements individuels selon les besoins de l'usager ou à sa demande
 
-8. l'organisation d'un service de caféteria accessible aux usagers et aux visiteurs
+  - l'organisation d'un service de caféteria accessible aux usagers et aux visiteurs
 
-9. l'organisation de contacts réguliers selon les besoins de l'usager hospitalisé ou à sa demande
+  - l'organisation de contacts réguliers selon les besoins de l'usager hospitalisé ou à sa demande
 
-4. L'animation socioculturelle, la promotion des compétences individuelles et l'assistance philosophique et religieuse comportant:
+- L'animation socioculturelle, la promotion des compétences individuelles et l'assistance philosophique et religieuse comportant:
 
-1. la mise à disposition dans des locaux communs, d'un appareil de télévision, d'une radio, de jeux de société, de quotidiens et de périodiques
+  - la mise à disposition dans des locaux communs, d'un appareil de télévision, d'une radio, de jeux de société, de quotidiens et de périodiques
 
-2. l'organisation d'un service gratuit de bibliothèque
+  - l'organisation d'un service gratuit de bibliothèque
 
-3. l'aménagement et l'équipement appropriés des alentours immédiats du service, y compris les travaux de nettoyage et d'entretien afférents
+  - l'aménagement et l'équipement appropriés des alentours immédiats du service, y compris les travaux de nettoyage et d'entretien afférents
 
-4. l'organisation au sein du service, au moins une fois par semaine, d'activités dirigées de loisirs, accessibles également aux usagers à mobilité réduite
+  - l'organisation au sein du service, au moins une fois par semaine, d'activités dirigées de loisirs, accessibles également aux usagers à mobilité réduite
 
-5. l'organisation régulière de manifestations à caractère culturel, sportif ou touristique et de promenades, d'excursions, de visites, de séances de gymnastique, de danses, ou d'initiatives similaires
+  - l'organisation régulière de manifestations à caractère culturel, sportif ou touristique et de promenades, d'excursions, de visites, de séances de gymnastique, de danses, ou d'initiatives similaires
 
-6. la mise à disposition des usagers d'ateliers équipés en vue d'activités libres à caractère artistique, artisanal ou autre
+  - la mise à disposition des usagers d'ateliers équipés en vue d'activités libres à caractère artistique, artisanal ou autre
 
-7. la mise à disposition d'un oratoire ou d'un lieu de méditation
+  - la mise à disposition d'un oratoire ou d'un lieu de méditation
 
 Les prestations énumérées sous a), chiffres 9, 11 et 13 de l’alinéa qui précède doivent obligatoirement faire l’objet d’un plan d’hygiène à établir par les dirigeants du service.
 

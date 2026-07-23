@@ -225,9 +225,9 @@ Les fonctionnaires de l'Etat de la carrière de l'infirmier gradué ainsi que de
 
 Au plus tard dans un délai de six mois à partir de l'entrée en vigueur de la présente loi, ces fonctionnaires peuvent choisir d'être nommés aux fonctions de professeur d'enseignement technique.Toutefois, cette nomination ne peut être prononcée que si ces fonctionnaires remplissent l'une des conditions suivantes:
 
-1. avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1 er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
+- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1 er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
 
-2. avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
+- avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -236,9 +236,9 @@ Les fonctionnaires de l'Etat de la carrière de l'expert en sciences hospitaliè
 
 Au plus tard dans un délai de six mois à partir de l'entrée en vigueur de la présente loi, ces fonctionnaires peuvent choisir d'être nommés aux fonctions de professeur de sciences de l'enseignement secondaire technique. Toutefois, cette nomination ne peut être prononcée que si ces fonctionnaires remplissent l'une des conditions suivantes:
 
-1. avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1 er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
+- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1 er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
 
-2. avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
+- avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -250,47 +250,47 @@ Les articles 19 et 20 s'appliquent pareillement aux fonctionnaires qui bénéfic
 
 Les employés de l'Etat, occupés à l'entrée en vigueur de la présente loi auprès de la direction de la Santé ou auprès de l'Hôpital neuro-psychiatrique de l'Etat et détachés à l'Ecole de l'Etat pour Paramédicaux sont nommés respectivement aux fonctions d'infirmier gradué ou d'expert en sciences hospitalières auprès du lycée technique avec dispense de l'examen d'admission au stage, du stage et de l'examen de fin de stage, à condition
 
-1. de pouvoir se prévaloir soit d'un diplôme luxembourgeois d'infirmier gradué, soit d'un diplôme de licencié en sciences médico-sociales et hospitalières, inscrit au registre prévu par la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur;
+- de pouvoir se prévaloir soit d'un diplôme luxembourgeois d'infirmier gradué, soit d'un diplôme de licencié en sciences médico-sociales et hospitalières, inscrit au registre prévu par la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur;
 
-2. de remplir les conditions prévues à l'article 2 paragraphe 1. point a) à f) de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat;
+- de remplir les conditions prévues à l'article 2 paragraphe 1. point a) à f) de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat;
 
-3. de pouvoir se prévaloir d'au moins trois années de service en équivalent temps plein comme enseignant à l'Ecole de l'Etat pour Paramédicaux.
+- de pouvoir se prévaloir d'au moins trois années de service en équivalent temps plein comme enseignant à l'Ecole de l'Etat pour Paramédicaux.
 
 Ils ont le droit de porter respectivement le titre d'infirmier gradué-enseignant ou d'expert en sciences hospitalières-enseignant.
 
 Au plus tard dans un délai de six mois à partir de cette nomination, ces fonctionnaires peuvent choisir d'être nommés respectivement aux fonctions de professeur d'enseignement technique ou de professeur de sciences de l'enseignement secondaire technique. Toutefois, cette nomination ne peut être prononcée que si ces fonctionnaires remplissent l'une des conditions suivantes:
 
-1. avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1 er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
+- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1 er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
 
-2. avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
+- avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
 
 <a id="art-23"></a>
 ## Art. 23.
 
 Les employés privés, occupés à l'entrée en vigueur de la présente loi auprès de l'Ecole Paramédicale de la Clinique St. Louis d'Ettelbruck, de l'Ecole pour Paramédicaux annexée à l'Hôpital de la Ville d'Esch-sur-Alzette, de l'Ecole des Congrégations Hospitalières Catholiques du Grand-Duché de Luxembourg pour Professions Paramédicales, sont nommés respectivement aux fonctions d'infirmier gradué ou d'expert en sciences hospitalières auprès du lycée technique avec dispense de l'examen d'admission et de la période de stage à condition
 
-1. de pouvoir se prévaloir soit d'un diplôme luxembourgeois d'infirmier gradué, soit d'un diplôme luxembourgeois d'infirmier gradué ou d'un diplôme de licencié en sciences médico-sociales et hospitalières, inscrit au registre prévu par la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur;
+- de pouvoir se prévaloir soit d'un diplôme luxembourgeois d'infirmier gradué, soit d'un diplôme luxembourgeois d'infirmier gradué ou d'un diplôme de licencié en sciences médico-sociales et hospitalières, inscrit au registre prévu par la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur;
 
-2. de remplir les conditions prévues à l'article 2 paragraphe 1. point a) à f) de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat;
+- de remplir les conditions prévues à l'article 2 paragraphe 1. point a) à f) de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat;
 
-3. de pouvoir se prévaloir d'au moins trois années de service en équivalent temps plein comme enseignant à l'une des écoles ci-dessus visées;
+- de pouvoir se prévaloir d'au moins trois années de service en équivalent temps plein comme enseignant à l'une des écoles ci-dessus visées;
 
-4. d'avoir subi avec succès un examen d'admission définitive dont les modalités sont fixées par règlement grand-ducal.
+- d'avoir subi avec succès un examen d'admission définitive dont les modalités sont fixées par règlement grand-ducal.
 
 Au plus tard dans un délai de six mois à partir de cette nomination, ces fonctionnaires peuvent choisir d'être nommés respectivement aux fonctions de professeur d'enseignement technique ou de professeur de sciences de l'enseignement secondaire technique. Toutefois, cette nomination ne peut être prononcée que si ces fonctionnaires remplissent l'une des conditions suivantes:
 
-1. avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1 er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
+- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1 er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
 
-2. avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
+- avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
 
 <a id="art-24"></a>
 ## Art. 24.
 
 Peuvent également bénéficier des dispositions des articles 19 et 20 les agents suivants, à savoir:
 
-1. l'expert en sciences hospitalières de la Direction de la Santé nommé à cette fonction le 1 er décembre 1984 et détaché en qualité de chargé de direction à l'Ecole de l'Etat pour Paramédicaux;
+- l'expert en sciences hospitalières de la Direction de la Santé nommé à cette fonction le 1 er décembre 1984 et détaché en qualité de chargé de direction à l'Ecole de l'Etat pour Paramédicaux;
 
-2. l'infirmière hospitalière graduée de la Direction de la Santé nommée à cette fonction le 1 er janvier 1991 et détachée à mi-temps à l'Ecole de l'Etat pour Paramédicaux en qualité d'infirmière graduée enseignante.
+- l'infirmière hospitalière graduée de la Direction de la Santé nommée à cette fonction le 1 er janvier 1991 et détachée à mi-temps à l'Ecole de l'Etat pour Paramédicaux en qualité d'infirmière graduée enseignante.
 
 Pour les agents ci-dessus le temps passé en équivalent temps plein dans leurs fonctions, est mis intégralement en compte pour l'application des délais définis aux articles 19,20 et 26 en vue de l'accès aux fonctions de professeur de sciences de l'enseignement secondaire technique, de professeur d'enseignement technique ou d'infirmier gradué-enseignant.
 

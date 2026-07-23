@@ -31,9 +31,9 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le laissez-passer peut être délivré:
 
-1. dans des cas de perte ou de vol de titres de voyage délivrés par les autorités luxembourgeoises;
+- dans des cas de perte ou de vol de titres de voyage délivrés par les autorités luxembourgeoises;
 
-2. à toute personne dont la présence sur le territoire du Grand-Duché de Luxembourg est explicitement autorisée par les autorités luxembourgeoises compétentes.
+- à toute personne dont la présence sur le territoire du Grand-Duché de Luxembourg est explicitement autorisée par les autorités luxembourgeoises compétentes.
 
 (2)
 

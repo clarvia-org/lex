@@ -284,11 +284,11 @@ Les membres des commissions d’examen sont nommés pour une durée de trois ans
 
 Les commissions d’examen visées à l’article 11 sont composées comme suit :
 
-1. La commission d’examen compétente pour les stagiaires relevant de la catégorie de traitement A ou B comprend un magistrat et deux fonctionnaires de l’administration judiciaire de la catégorie de traitement A ou B.
+- La commission d’examen compétente pour les stagiaires relevant de la catégorie de traitement A ou B comprend un magistrat et deux fonctionnaires de l’administration judiciaire de la catégorie de traitement A ou B.
 
-2. La commission d’examen compétente pour les stagiaires relevant de la catégorie de traitement C comprend trois fonctionnaires de l’administration judiciaire de la catégorie de traitement A, B ou C.
+- La commission d’examen compétente pour les stagiaires relevant de la catégorie de traitement C comprend trois fonctionnaires de l’administration judiciaire de la catégorie de traitement A, B ou C.
 
-3. La commission d’examen compétente pour les stagiaires relevant de la catégorie de traitement D comprend deux fonctionnaires de l’administration judiciaire du groupe de traitement B1 et un fonctionnaire de l’administration judiciaire du groupe de traitement D3.
+- La commission d’examen compétente pour les stagiaires relevant de la catégorie de traitement D comprend deux fonctionnaires de l’administration judiciaire du groupe de traitement B1 et un fonctionnaire de l’administration judiciaire du groupe de traitement D3.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -345,11 +345,11 @@ Le candidat qui, pour des raisons indépendantes de sa volonté et reconnues val
 
 Sont abrogés :
 
-1. le règlement grand-ducal du 23 avril 1981 portant détermination des conditions et de la forme des nominations aux différentes fonctions de la carrière du garçon de bureau à l’administration judiciaire ;
+- le règlement grand-ducal du 23 avril 1981 portant détermination des conditions et de la forme des nominations aux différentes fonctions de la carrière du garçon de bureau à l’administration judiciaire ;
 
-2. le règlement grand-ducal du 7 mars 1986 fixant les conditions de nomination et d’avancement des fonctionnaires de la carrière moyenne du rédacteur auprès de l’administration judiciaire ;
+- le règlement grand-ducal du 7 mars 1986 fixant les conditions de nomination et d’avancement des fonctionnaires de la carrière moyenne du rédacteur auprès de l’administration judiciaire ;
 
-3. le règlement grand-ducal du 17 mai 1990 fixant les conditions de nomination et d’avancement des fonctionnaires de la carrière inférieure de l’expéditionnaire auprès de l’administration judiciaire.
+- le règlement grand-ducal du 17 mai 1990 fixant les conditions de nomination et d’avancement des fonctionnaires de la carrière inférieure de l’expéditionnaire auprès de l’administration judiciaire.
 
 <a id="art-16"></a>
 ## Art. 16.

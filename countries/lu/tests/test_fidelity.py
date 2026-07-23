@@ -85,3 +85,30 @@ def test_paragraph_fixture_articles_nonempty() -> None:
     art1 = _article_body(body, "art-1er")
     assert art1, "paragraph-wrapped Art. 1er must not be empty"
     assert len(art1) >= 200
+
+
+def test_embedded_text_retained_inline() -> None:
+    """Amending formula quotes in <embeddedText> must not be dropped."""
+    xml = b"""<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13"
+            xmlns:scl="http://www.scl.lu">
+  <act>
+    <body>
+      <article id="art_1">
+        <num>Art. 1er.</num>
+        <alinea>
+          <content>
+            <p>Les mots <embeddedText>un directeur adjoint</embeddedText>
+            sont remplaces par les mots
+            <embeddedText>deux directeurs adjoints</embeddedText>.</p>
+          </content>
+        </alinea>
+      </article>
+    </body>
+  </act>
+</akomaNtoso>
+"""
+    adapter = _load_adapter()
+    body = adapter.normalize_bytes(xml).body
+    assert "un directeur adjoint" in body
+    assert "deux directeurs adjoints" in body

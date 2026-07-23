@@ -47,17 +47,17 @@ Le présent règlement grand-ducal est applicable aux fonctionnaires en service 
 
 La formation spéciale peut être organisée sous forme de :
 
-1. cours présentiels ;
+- cours présentiels ;
 
-2. cours en ligne ;
+- cours en ligne ;
 
-3. études personnelles ;
+- études personnelles ;
 
-4. cours alternant entre les méthodes visées aux points 1° à 3° ;
+- cours alternant entre les méthodes visées aux points 1° à 3° ;
 
-5. séances d’apprentissage accompagnées sur le lieu de travail ;
+- séances d’apprentissage accompagnées sur le lieu de travail ;
 
-6. participation à des séminaires dans l’intérêt du service.
+- participation à des séminaires dans l’intérêt du service.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -108,149 +108,149 @@ En cas d’absence justifiée, le ministre en informe le collège des bourgmestr
 
 Les fonctionnaires en service provisoire doivent suivre une formation spéciale, qui comprend une partie générale et une partie spécifique, composées comme suit :
 
-1. partie générale :
+- partie générale :
 
-- une session d’introduction à la formation spéciale (1h)
+  - une session d’introduction à la formation spéciale (1h)
 
-- une formation intitulée « introduction au statut général des fonctionnaires communaux » (6h)
+  - une formation intitulée « introduction au statut général des fonctionnaires communaux » (6h)
 
-2. partie spécifique : des formations d’une durée minimale de 60 heures, définies en fonction de l’affectation du candidat.
+- partie spécifique : des formations d’une durée minimale de 60 heures, définies en fonction de l’affectation du candidat.
 
 (2)
 
 Le contenu des formations de la partie spécifique et le nombre d’heures de formation y afférentes sont fixés comme suit :
 
-1. En fonction de son affectation, le candidat suit, parmi les modules suivants, les cours du module y correspondant. Les heures des cours précités sont à compléter par des heures de cours au choix parmi ceux figurant à l’annexe afin de parvenir à un volume total de cours d’au moins 60 heures, conformément au paragraphe 1er.
+- En fonction de son affectation, le candidat suit, parmi les modules suivants, les cours du module y correspondant. Les heures des cours précités sont à compléter par des heures de cours au choix parmi ceux figurant à l’annexe afin de parvenir à un volume total de cours d’au moins 60 heures, conformément au paragraphe 1er.
 
-1. Module « administration générale » Ce module comporte les matières suivantes :
+  - Module « administration générale » Ce module comporte les matières suivantes :
 
-- Loi communale (15h) ;
+    - Loi communale (15h) ;
 
-- Statut général des fonctionnaires communaux (9h) ;
+    - Statut général des fonctionnaires communaux (9h) ;
 
-- Élaboration et exécution du budget (9h) ;
+    - Élaboration et exécution du budget (9h) ;
 
-- Marchés publics (12h) ;
+    - Marchés publics (12h) ;
 
-- Diversité et non-discrimination dans une société plurielle (3h).
+    - Diversité et non-discrimination dans une société plurielle (3h).
 
-2. Module « secrétariat communal » Ce module comporte les matières suivantes :
+  - Module « secrétariat communal » Ce module comporte les matières suivantes :
 
-- Loi communale (15h) ;
+    - Loi communale (15h) ;
 
-- Élaboration de délibérations, avis, conventions et rapports (9h) ;
+    - Élaboration de délibérations, avis, conventions et rapports (9h) ;
 
-- Marchés publics (12h) ;
+    - Marchés publics (12h) ;
 
-- Élaboration et exécution du budget (9h) ;
+    - Élaboration et exécution du budget (9h) ;
 
-- Règlements communaux (3h) ;
+    - Règlements communaux (3h) ;
 
-- Procédure administrative non-contentieuse (3h).
+    - Procédure administrative non-contentieuse (3h).
 
-3. Module « recette et finances communales » Ce module comporte les matières suivantes : Le module « recette et finances communales » est obligatoire pour les fonctionnaires en service provisoire, nommés à la fonction de receveur ou de receveur général.
+  - Module « recette et finances communales » Ce module comporte les matières suivantes : Le module « recette et finances communales » est obligatoire pour les fonctionnaires en service provisoire, nommés à la fonction de receveur ou de receveur général.
 
-- Budget et comptabilité communale (15h) ;
+    - Budget et comptabilité communale (15h) ;
 
-- Exécution du budget et reddition des comptes (15h) ;
+    - Exécution du budget et reddition des comptes (15h) ;
 
-- Contentieux, voies de recouvrement, poursuite, procédures devant les tribunaux et exécution des décisions judiciaires (15h) ;
+    - Contentieux, voies de recouvrement, poursuite, procédures devant les tribunaux et exécution des décisions judiciaires (15h) ;
 
-- Règlement-taxe (3h).
+    - Règlement-taxe (3h).
 
-4. Module « service technique I (pour emplois dirigeants) » Ce module comporte les matières suivantes :
+  - Module « service technique I (pour emplois dirigeants) » Ce module comporte les matières suivantes :
 
-- Législation sur l’aménagement du territoire, l’aménagement communal et le développement urbain (21h) ;
+    - Législation sur l’aménagement du territoire, l’aménagement communal et le développement urbain (21h) ;
 
-- Protection de la nature dans le cadre de l’aménagement communal et du développement urbain (3h) ;
+    - Protection de la nature dans le cadre de l’aménagement communal et du développement urbain (3h) ;
 
-- Règlements communaux, budget communal, publications et avis officiels, protection des données (6h) ;
+    - Règlements communaux, budget communal, publications et avis officiels, protection des données (6h) ;
 
-- Gestion d’un service technique communal : missions, autorisations, infrastructures et chantiers (15h) ;
+    - Gestion d’un service technique communal : missions, autorisations, infrastructures et chantiers (15h) ;
 
-- Marchés publics (12h) ;
+    - Marchés publics (12h) ;
 
-- Introduction à la prévention incendie et relations entre les Administrations communales et le Corps grand-ducal d’incendie et de secours CGDIS (3h).
+    - Introduction à la prévention incendie et relations entre les Administrations communales et le Corps grand-ducal d’incendie et de secours CGDIS (3h).
 
-5. Module « service technique II » Ce module comporte les matières suivantes :
+  - Module « service technique II » Ce module comporte les matières suivantes :
 
-- Introduction à la législation sur l’aménagement du territoire, l’aménagement communal et le développement urbain (6h) ;
+    - Introduction à la législation sur l’aménagement du territoire, l’aménagement communal et le développement urbain (6h) ;
 
-- Protection de la nature dans le cadre de l’aménagement communal et du développement urbain (3h) ;
+    - Protection de la nature dans le cadre de l’aménagement communal et du développement urbain (3h) ;
 
-- Initiation au fonctionnement d’un service technique communal : missions, autorisations, infrastructures et chantiers (6h) ;
+    - Initiation au fonctionnement d’un service technique communal : missions, autorisations, infrastructures et chantiers (6h) ;
 
-- Marchés publics (12h) ;
+    - Marchés publics (12h) ;
 
-- Bâtiments communaux, établissements classés, sécurité (9h) ;
+    - Bâtiments communaux, établissements classés, sécurité (9h) ;
 
-- Introduction à la prévention incendie et relations entre les administrations communales et le Corps grand-ducal d’incendie et de secours CGDIS (3h).
+    - Introduction à la prévention incendie et relations entre les administrations communales et le Corps grand-ducal d’incendie et de secours CGDIS (3h).
 
-6. Module « état civil et bureau de la population » Ce module comporte les matières suivantes :
+  - Module « état civil et bureau de la population » Ce module comporte les matières suivantes :
 
-- État civil (15h) ;
+    - État civil (15h) ;
 
-- Bureau de la population (15h) ;
+    - Bureau de la population (15h) ;
 
-- Relations avec le citoyen (9h) ;
+    - Relations avec le citoyen (9h) ;
 
-- Diversité et non-discrimination dans une société plurielle (3h) ;
+    - Diversité et non-discrimination dans une société plurielle (3h) ;
 
-- Accueil du nouvel arrivant par l’agent communal (3h) ;
+    - Accueil du nouvel arrivant par l’agent communal (3h) ;
 
-- Libre-circulation et immigration (6h).
+    - Libre-circulation et immigration (6h).
 
-7. Module « gestion du personnel » Ce module comporte les matières suivantes :
+  - Module « gestion du personnel » Ce module comporte les matières suivantes :
 
-- Statut général des fonctionnaires communaux (9h) ;
+    - Statut général des fonctionnaires communaux (9h) ;
 
-- Rémunération des fonctionnaires et employés communaux (18h) ;
+    - Rémunération des fonctionnaires et employés communaux (18h) ;
 
-- Code du travail et conventions collectives des salariés (9h) ;
+    - Code du travail et conventions collectives des salariés (9h) ;
 
-- Procédures administratives en matière de gestion du personnel (9h).
+    - Procédures administratives en matière de gestion du personnel (9h).
 
-8. Module « artisan »
+  - Module « artisan »
 
-- Bâtiments communaux, établissements classés, sécurité (9h) ;
+    - Bâtiments communaux, établissements classés, sécurité (9h) ;
 
-- Sécurité sur les chantiers (15h) ;
+    - Sécurité sur les chantiers (15h) ;
 
-- Compétences digitales de base pour artisans (6h) ;
+    - Compétences digitales de base pour artisans (6h) ;
 
-- Gestes de premiers secours (16h).
+    - Gestes de premiers secours (16h).
 
-2. Le candidat assumant les fonctions de professeur de conservatoire de musique suit les cours du module suivant :
+- Le candidat assumant les fonctions de professeur de conservatoire de musique suit les cours du module suivant :
 
-1. Module « enseignement musical » Ce module comporte les matières suivantes :
+  - Module « enseignement musical » Ce module comporte les matières suivantes :
 
-- Législation et organisation de l’enseignement musical communal (9h) ;
+    - Législation et organisation de l’enseignement musical communal (9h) ;
 
-- Aspects pédagogiques de l’enseignement musical communal (51h).
+    - Aspects pédagogiques de l’enseignement musical communal (51h).
 
-3. Le candidat assumant les fonctions d’agent de transport suit les cours du module suivant :
+- Le candidat assumant les fonctions d’agent de transport suit les cours du module suivant :
 
-1. Module « agent de transport » Ce module comporte la matière suivante :
+  - Module « agent de transport » Ce module comporte la matière suivante :
 
-- Règlements et instructions de service (60h).
+    - Règlements et instructions de service (60h).
 
-4. Le candidat assumant les fonctions d’agent municipal suit les cours du module suivant :
+- Le candidat assumant les fonctions d’agent municipal suit les cours du module suivant :
 
-1. Module « agent municipal » Ce module comporte les matières suivantes :
+  - Module « agent municipal » Ce module comporte les matières suivantes :
 
-- La recherche et la constatation des infractions et les dispositions pénales y afférentes (12h) ;
+    - La recherche et la constatation des infractions et les dispositions pénales y afférentes (12h) ;
 
-- Prévention de la délinquance, la sensibilisation de la population à la sécurité, la législation de la sécurité routière (12h) ;
+    - Prévention de la délinquance, la sensibilisation de la population à la sécurité, la législation de la sécurité routière (12h) ;
 
-- Élaboration de rapports de service (6h) ;
+    - Élaboration de rapports de service (6h) ;
 
-- Code de la route (6h) ;
+    - Code de la route (6h) ;
 
-- Communication et gestion de conflits (12h) ;
+    - Communication et gestion de conflits (12h) ;
 
-- Gestes de premiers secours (16h).
+    - Gestes de premiers secours (16h).
 
-5. Le candidat, dont l’affectation ne correspond à aucun des modules énumérés aux points 1° à 4°, ou qui est affecté à un service social ou socio-éducatif, suit des cours au choix parmi ceux figurant à l’annexe, dont le volume total de cours doit être d’au moins 60 heures.
+- Le candidat, dont l’affectation ne correspond à aucun des modules énumérés aux points 1° à 4°, ou qui est affecté à un service social ou socio-éducatif, suit des cours au choix parmi ceux figurant à l’annexe, dont le volume total de cours doit être d’au moins 60 heures.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -423,15 +423,15 @@ Sur base du nombre total de points obtenus par le candidat dans toutes les épre
 
 Un procès-verbal est dressé, qui renseigne :
 
-1. le nombre total de points pouvant être obtenus par chaque candidat pour chaque épreuve de l’examen de fin de formation spéciale ;
+- le nombre total de points pouvant être obtenus par chaque candidat pour chaque épreuve de l’examen de fin de formation spéciale ;
 
-2. le nombre de points obtenus par chaque candidat pour chaque épreuve de l’examen de fin de formation spéciale ;
+- le nombre de points obtenus par chaque candidat pour chaque épreuve de l’examen de fin de formation spéciale ;
 
-3. le nombre total de points pouvant être obtenus par chaque candidat dans le cadre de l’examen de fin de formation spéciale ;
+- le nombre total de points pouvant être obtenus par chaque candidat dans le cadre de l’examen de fin de formation spéciale ;
 
-4. le nombre total des points obtenus par chaque candidat dans le cadre de l’examen de fin de formation spéciale ; et
+- le nombre total des points obtenus par chaque candidat dans le cadre de l’examen de fin de formation spéciale ; et
 
-5. pour chaque candidat le prononcé de la commission d’examen concernant la réussite, l’ajournement ou l’échec à l’examen de fin de formation spéciale.
+- pour chaque candidat le prononcé de la commission d’examen concernant la réussite, l’ajournement ou l’échec à l’examen de fin de formation spéciale.
 
 Ce procès-verbal est signé par au moins la majorité membres de la commission d’examen.
 
@@ -471,9 +471,9 @@ L’article 55 du même règlement grand-ducal est abrogé.
 
 L’article 7 du règlement grand-ducal du 15 juin 2018 fixant les conditions et modalités d’accès du fonctionnaire communal à un groupe de traitement supérieur au sien et de l’employés communal à un groupe d’indemnité supérieur au sien est modifié comme suit :
 
-1. Au paragraphe 1 er , le point 4 est supprimé.
+- Au paragraphe 1 er , le point 4 est supprimé.
 
-2. Au paragraphe 2, le point 4 est supprimé.
+- Au paragraphe 2, le point 4 est supprimé.
 
 <a id="art-23"></a>
 ## Art. 23.
@@ -483,12 +483,36 @@ L’article 7 du règlement grand-ducal du 15 juin 2018 fixant les conditions et
 <a id="art-24"></a>
 ## Art. 24.
 
-L’article 18 du même règlement grand-ducal est remplacé comme suit : « Art 18. Les conditions de réussite à l’examen de fin de formation spéciale sont celles prévues à l’article 13.».
+L’article 18 du même règlement grand-ducal est remplacé comme suit :
+
+« Art 18.
+
+Les conditions de réussite à l’examen de fin de formation spéciale sont celles prévues à l’article 13.».
 
 <a id="art-25"></a>
 ## Art. 25.
 
-L’article 26 du même règlement grand-ducal est complété par un dernier paragraphe, libellé comme suit : « (5) Le collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune peut demander que des formations organisées par une entité communale soient assimilées à la formation du tronc commun. Il en est de même pour les formations organisées par des organismes agréés par le ministre ayant l’Éducation nationale dans ses attributions ou par des services ou administrations relevant du ministre précité. La demande d’assimilation est faite par écrit et adressée au ministre. Ce dernier prend une décision après avoir entendu le chargé de direction en son avis. Une telle demande d’assimilation mentionne : le sujet de la formation accompagné d’un bref descriptif ; l’organisme ayant assuré la formation ; la date et le lieu du déroulement de la formation ; la durée effective de la formation. La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que l’employé communal a effectivement participé à la formation en question. ».
+L’article 26 du même règlement grand-ducal est complété par un dernier paragraphe, libellé comme suit :
+
+« (5)
+
+Le collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune peut demander que des formations organisées par une entité communale soient assimilées à la formation du tronc commun.
+
+Il en est de même pour les formations organisées par des organismes agréés par le ministre ayant l’Éducation nationale dans ses attributions ou par des services ou administrations relevant du ministre précité.
+
+La demande d’assimilation est faite par écrit et adressée au ministre. Ce dernier prend une décision après avoir entendu le chargé de direction en son avis.
+
+Une telle demande d’assimilation mentionne :
+
+- le sujet de la formation accompagné d’un bref descriptif ;
+
+- l’organisme ayant assuré la formation ;
+
+- la date et le lieu du déroulement de la formation ;
+
+- la durée effective de la formation.
+
+La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que l’employé communal a effectivement participé à la formation en question. ».
 
 #### Chapitre 5 Dispositions finales
 

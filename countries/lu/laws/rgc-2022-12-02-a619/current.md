@@ -35,9 +35,9 @@ warning: 'Official consolidation: Version rectifiée applicable au 01/01/2023 : 
 
 Les indemnités prévues à l‘article 16, alinéa 1er, du règlement grand-ducal du 14 juin 2015 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État sont fixées comme suit :
 
-1. indemnité de jour : 14 euros ;
+- indemnité de jour : 14 euros ;
 
-2. indemnité de nuit : 56 euros.
+- indemnité de nuit : 56 euros.
 
 L’indemnité prévue à l’article 18 du même règlement est fixée à 1 euro.
 

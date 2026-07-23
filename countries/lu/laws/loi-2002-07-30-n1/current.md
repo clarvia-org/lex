@@ -94,21 +94,21 @@ Lors de l'acquisition d'un immeuble destiné à servir d'habitation, il est acco
 
 Au sens de la présente loi, on entend par:
 
-1. «acquisition»:
+- «acquisition»:
 
-- l'acquisition d'un immeuble ou de fractions d'immeuble soit en pleine propriété, soit en nue-propriété ou en usufruit aboutissant à la réunion de ces deux droits sur la même tête, avec le cas échéant, les dépendances, effectuée par vente, adjudication, licitation, partage ou échange avec retours ou plus-values,
+  - l'acquisition d'un immeuble ou de fractions d'immeuble soit en pleine propriété, soit en nue-propriété ou en usufruit aboutissant à la réunion de ces deux droits sur la même tête, avec le cas échéant, les dépendances, effectuée par vente, adjudication, licitation, partage ou échange avec retours ou plus-values,
 
-- la constitution ou l'aliénation du droit d'emphytéose,
+  - la constitution ou l'aliénation du droit d'emphytéose,
 
-- la constitution ou l'aliénation du droit de superficie;
+  - la constitution ou l'aliénation du droit de superficie;
 
-2. « immeuble destiné à servir d’habitation», l’immeuble ou les parts indivises d’un même immeuble ainsi que la place à bâtir située dans une zone d’habitation et sur laquelle il peut être érigé immédiatement une construction en vertu d’un règlement sur les bâtisses, servant ou devant servir d’habitation principale, personnelle et effective à son propriétaire.
+- « immeuble destiné à servir d’habitation», l’immeuble ou les parts indivises d’un même immeuble ainsi que la place à bâtir située dans une zone d’habitation et sur laquelle il peut être érigé immédiatement une construction en vertu d’un règlement sur les bâtisses, servant ou devant servir d’habitation principale, personnelle et effective à son propriétaire.
 
-3. « acquéreur », toute personne physique, qui, au moment de la passation de l’acte notarié, est
+- « acquéreur », toute personne physique, qui, au moment de la passation de l’acte notarié, est
 
-- soit résidente au Grand-Duché de Luxembourg et inscrite au bureau de la population d'une commune,
+  - soit résidente au Grand-Duché de Luxembourg et inscrite au bureau de la population d'une commune,
 
-- soit non encore résidente mais qui s’engage à prendre la qualité de résident dans l’immeuble acquis dans les délais et sous les conditions fixés aux articles 8 et 10 ci-après.
+  - soit non encore résidente mais qui s’engage à prendre la qualité de résident dans l’immeuble acquis dans les délais et sous les conditions fixés aux articles 8 et 10 ci-après.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -183,9 +183,9 @@ Si néanmoins l'interruption de l'occupation résulte de l'obligation pour l'acq
 
 L’acquéreur est pareillement tenu au remboursement total de l’abattement accordé:
 
-1. dans le cas d’une expertise fiscale prévue par l’article 45 de la loi du 23 décembre 1913 concernant la révision de la législation qui régit les impôts dont le recouvrement est attribué à l’administration de l’enregistrement et des domaines, si la plus-value constatée par le rapport des experts est égale ou supérieure à un huitième, soit du prix ou de la valeur vénale déclarée;
+- dans le cas d’une expertise fiscale prévue par l’article 45 de la loi du 23 décembre 1913 concernant la révision de la législation qui régit les impôts dont le recouvrement est attribué à l’administration de l’enregistrement et des domaines, si la plus-value constatée par le rapport des experts est égale ou supérieure à un huitième, soit du prix ou de la valeur vénale déclarée;
 
-2. en cas de dissimulations établies, visées par la section première de la loi du 28 janvier 1948 , tendant à assurer la juste et exacte perception des droits d’enregistrement et de succession.
+- en cas de dissimulations établies, visées par la section première de la loi du 28 janvier 1948 , tendant à assurer la juste et exacte perception des droits d’enregistrement et de succession.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -220,19 +220,19 @@ Avec effet à partir de l'année d'imposition 2002, la loi modifiée du 4 décem
 
 La loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée est modifiée comme suit:
 
-1. Il est ajouté à l’annexe B un point 22° ayant la teneur suivante: Certains travaux de création et de rénovation effectués dans l’intérêt d’un logement affecté à des fins d’habitation principale dans les limites et les conditions à déterminer par règlement grand-ducal.
+- Il est ajouté à l’annexe B un point 22° ayant la teneur suivante: Certains travaux de création et de rénovation effectués dans l’intérêt d’un logement affecté à des fins d’habitation principale dans les limites et les conditions à déterminer par règlement grand-ducal.
 
-2.
+-
 
-1. Il est ajouté à l’article 61 un paragraphe 6 dont la teneur est la suivante: 6. 1. L’application du taux super-réduit aux travaux de création et de rénovation visés à l’annexe B, point 22, de la présente loi, est soumise à autorisation de la part de l’administration de l’enregistrement et des domaines. A cette fin, l’assujetti doit, avant la réalisation de tels travaux, introduire, selon les modalités et la forme prescrites par l’administration, une demande à ladite administration. 2. Avant le quinzième jour de chaque trimestre civil, l’assujetti doit transmettre au bureau d’imposition compétent, selon les modalités et dans la forme prescrites par l’administration, une liste indiquant les détails des factures émises pendant le trimestre précédent et se rapportant à des travaux de création et de rénovation soumis au taux super-réduit de 3 pour cent.
+  - Il est ajouté à l’article 61 un paragraphe 6 dont la teneur est la suivante: 6. 1. L’application du taux super-réduit aux travaux de création et de rénovation visés à l’annexe B, point 22, de la présente loi, est soumise à autorisation de la part de l’administration de l’enregistrement et des domaines. A cette fin, l’assujetti doit, avant la réalisation de tels travaux, introduire, selon les modalités et la forme prescrites par l’administration, une demande à ladite administration. 2. Avant le quinzième jour de chaque trimestre civil, l’assujetti doit transmettre au bureau d’imposition compétent, selon les modalités et dans la forme prescrites par l’administration, une liste indiquant les détails des factures émises pendant le trimestre précédent et se rapportant à des travaux de création et de rénovation soumis au taux super-réduit de 3 pour cent.
 
-2. L’ancien paragraphe 6 de l’article 61 devient le nouveau paragraphe 7.
+  - L’ancien paragraphe 6 de l’article 61 devient le nouveau paragraphe 7.
 
-3. A l’article 37, paragraphe 2, deuxième alinéa, les termes francs luxembourgeois sont remplacés par les termes euros .
+- A l’article 37, paragraphe 2, deuxième alinéa, les termes francs luxembourgeois sont remplacés par les termes euros .
 
-4. A l’article 54, paragraphe 1, point b), les termes et qui n’ont pas fait agréer un représentant responsable conformément aux dispositions de l’article 66 sont supprimés.
+- A l’article 54, paragraphe 1, point b), les termes et qui n’ont pas fait agréer un représentant responsable conformément aux dispositions de l’article 66 sont supprimés.
 
-5. A l’article 88, deuxième alinéa, le terme ministériel est remplacé par le terme grand-ducal .
+- A l’article 88, deuxième alinéa, le terme ministériel est remplacé par le terme grand-ducal .
 
 <a id="art-18"></a>
 ## Art. 18.

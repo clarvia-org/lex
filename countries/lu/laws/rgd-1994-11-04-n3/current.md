@@ -47,19 +47,19 @@ Aux fins du présent règlement, on entend par équipement de protection individ
 
 Sont exclus de la définition visée au paragraphe 1 :
 
-1. les vêtements de travail ordinaires et uniformes qui ne sont pas spécifiquement destinés à protéger la sécurité et la santé du travailleur ;
+- les vêtements de travail ordinaires et uniformes qui ne sont pas spécifiquement destinés à protéger la sécurité et la santé du travailleur ;
 
-2. les équipements des services de secours et de sauvetage;
+- les équipements des services de secours et de sauvetage;
 
-3. les équipements de protection individuelle des militaires, des policiers et des personnes des services de maintien de l’ordre;
+- les équipements de protection individuelle des militaires, des policiers et des personnes des services de maintien de l’ordre;
 
-4. les équipements de protection individuelle des moyens de transports routiers;
+- les équipements de protection individuelle des moyens de transports routiers;
 
-5. le matériel de sport;
+- le matériel de sport;
 
-6. le matériel d’autodéfense ou de dissuasion;
+- le matériel d’autodéfense ou de dissuasion;
 
-7. les appareils portatifs pour la détection et la signalisation de risques et facteurs de nuisance.
+- les appareils portatifs pour la détection et la signalisation de risques et facteurs de nuisance.
 
 <a id="article-3"></a>
 ## Article 3
@@ -81,13 +81,13 @@ Tout équipement de protection individuelle doit être conforme à la réglement
 
 Dans tous les cas, un équipement de protection individuelle doit :
 
-1. être approprié par rapport aux risques à prévenir, sans induire lui-même un risque accru;
+- être approprié par rapport aux risques à prévenir, sans induire lui-même un risque accru;
 
-2. répondre aux conditions existant sur le lieu de travail;
+- répondre aux conditions existant sur le lieu de travail;
 
-3. tenir compte des exigences ergonomiques et de santé du travailleur ;
+- tenir compte des exigences ergonomiques et de santé du travailleur ;
 
-4. convenir au porteur, après tout ajustement nécessaire.
+- convenir au porteur, après tout ajustement nécessaire.
 
 2.
 
@@ -138,11 +138,11 @@ Avant le choix d’un équipement de protection individuelle, l’employeur est 
 
 Cette appréciation comprend :
 
-1. l’analyse et l’évaluation des risques qui ne peuvent pas être évités par d’autres moyens;
+- l’analyse et l’évaluation des risques qui ne peuvent pas être évités par d’autres moyens;
 
-2. la définition des caractéristiques nécessaires pour que les équipements de protection individuelle répondent aux risques visés au point a), compte tenu des éventuelles sources de risques que peuvent constituer les équipements de protection individuelle;
+- la définition des caractéristiques nécessaires pour que les équipements de protection individuelle répondent aux risques visés au point a), compte tenu des éventuelles sources de risques que peuvent constituer les équipements de protection individuelle;
 
-3. l’évaluation des caractéristiques des équipements de protection individuelle concernés qui sont disponibles, en comparaison avec les caractéristiques visées au point b).
+- l’évaluation des caractéristiques des équipements de protection individuelle concernés qui sont disponibles, en comparaison avec les caractéristiques visées au point b).
 
 2.
 

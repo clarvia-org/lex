@@ -36,11 +36,11 @@ L’établissement dispose de la personnalité juridique et jouit de l’autonom
 
 L’établissement gère trois entités:
 
-1. un établissement hospitalier au sens de la loi du 28 août 1998 sur les établissements hospitaliers, spécialisé dans le domaine de la neuropsychiatrie;
+- un établissement hospitalier au sens de la loi du 28 août 1998 sur les établissements hospitaliers, spécialisé dans le domaine de la neuropsychiatrie;
 
-2. des services intégrés de soins pour seniors;
+- des services intégrés de soins pour seniors;
 
-3. des services pour personnes atteintes d’un handicap mental.
+- des services pour personnes atteintes d’un handicap mental.
 
 L’établissement peut être autorisé par le gouvernement à créer des structures supplémentaires pour gérer d’autres activités visées par la loi du 8 septembre 1998 réglant les relations entre l’Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique.
 
@@ -275,6 +275,8 @@ Les dons en espèces faits à l’établissement sont déductibles comme dépens
 
 L’Etat met à la disposition de l’établissement un fonds de roulement de un million deux-cent-trente-neuf mille quatre-cent-soixante-sept euros et soixante-deux centimes remboursable au Trésor sur décision du Gouvernement en Conseil.
 
+Dispositions transitoires
+
 <a id="art-17"></a>
 ## Art. 17.
 
@@ -297,6 +299,8 @@ Les fonctionnaires et les fonctionnaires stagiaires, les employés de l’Etat e
 Nonobstant les dispositions contenues dans la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat et concernant notamment la protection et la discipline, et celles contenues dans la loi modifiée du 27 janvier 1972 fixant le régime des employés de l’Etat et concernant notamment la résiliation du contrat, les décisions et interventions que les lois ou règlements régissant le statut de ce personnel attribuent au gouvernement en conseil ou à un membre du gouvernement sont prises respectivement soit par le ministre compétent soit par le conseil d’administration.
 
 (3) L’établissement rembourse au Trésor les traitements, indemnités, salaires et charges sociales patronales des agents publics.
+
+Dispositions finales
 
 <a id="art-18-20180915"></a>
 ## Art. 18.

@@ -38,143 +38,143 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Aux fins de la présente loi, on entend par :
 
-1. « autorités compétentes » : les autorités que chaque État membre désigne en vertu de l'article 97 de la directive 2009/65/CE. Au Luxembourg l'autorité compétente pour la surveillance des organismes de placement collectif et des sociétés de gestion est la CSSF ;
+- « autorités compétentes » : les autorités que chaque État membre désigne en vertu de l'article 97 de la directive 2009/65/CE. Au Luxembourg l'autorité compétente pour la surveillance des organismes de placement collectif et des sociétés de gestion est la CSSF ;
 
-2. « dépositaire » : un établissement de crédit chargé des missions exposées aux articles 17, 18, 33 et 34 pour les OPC de droit luxembourgeois ;
+- « dépositaire » : un établissement de crédit chargé des missions exposées aux articles 17, 18, 33 et 34 pour les OPC de droit luxembourgeois ;
 
-3. « capital initial » : les éléments visés à l'article 57, points a) et b), de la directive 2006/48/CE ;
+- « capital initial » : les éléments visés à l'article 57, points a) et b), de la directive 2006/48/CE ;
 
-4. « CSSF » : la Commission de Surveillance du Secteur Financier ;
+- « CSSF » : la Commission de Surveillance du Secteur Financier ;
 
-5. 4bis. « dépositaire central de titres » ou « DCT » : un dépositaire central de titres au sens de l’article 2, paragraphe 1 er , point 1), du règlement (UE) n° 909/2014 du Parlement européen et du Conseil du 23 juillet 2014 concernant l’amélioration du règlement de titres dans l’Union européenne et les dépositaires centraux de titres, et modifiant les directives 98/26/CE et 2014/65/UE ainsi que le règlement (UE) n° 236/2012 , ci-après « règlement (UE) n° 909/2014 » ;
+- 4bis. « dépositaire central de titres » ou « DCT » : un dépositaire central de titres au sens de l’article 2, paragraphe 1 er , point 1), du règlement (UE) n° 909/2014 du Parlement européen et du Conseil du 23 juillet 2014 concernant l’amélioration du règlement de titres dans l’Union européenne et les dépositaires centraux de titres, et modifiant les directives 98/26/CE et 2014/65/UE ainsi que le règlement (UE) n° 236/2012 , ci-après « règlement (UE) n° 909/2014 » ;
 
-6. « directive 78/660/CEE » : la directive 78/660/CEE du Conseil du 25 juillet 1978 fondée sur l'article 54 paragraphe 3 sous g) du traité et concernant les comptes annuels de certaines formes de sociétés, telle que modifiée ;
+- « directive 78/660/CEE » : la directive 78/660/CEE du Conseil du 25 juillet 1978 fondée sur l'article 54 paragraphe 3 sous g) du traité et concernant les comptes annuels de certaines formes de sociétés, telle que modifiée ;
 
-7. « directive 83/349/CEE » : la directive 83/349/CEE du Conseil du 13 juin 1983 fondée sur l'article 54 paragraphe 3 sous g) du traité concernant les comptes consolidés, telle que modifiée ;
+- « directive 83/349/CEE » : la directive 83/349/CEE du Conseil du 13 juin 1983 fondée sur l'article 54 paragraphe 3 sous g) du traité concernant les comptes consolidés, telle que modifiée ;
 
-8. « directive 97/9/CE » : la directive 97/9/CE du Parlement européen et du Conseil du 3 mars 1997 relative aux systèmes d'indemnisation des investisseurs ;
+- « directive 97/9/CE » : la directive 97/9/CE du Parlement européen et du Conseil du 3 mars 1997 relative aux systèmes d'indemnisation des investisseurs ;
 
-9. 7bis. « directive 98/26/CE » : la directive 98/26/CE du Parlement européen et du Conseil du 19 mai 1998 concernant le caractère définitif du règlement dans les systèmes de paiement et de règlement des opérations sur titres ; »
+- 7bis. « directive 98/26/CE » : la directive 98/26/CE du Parlement européen et du Conseil du 19 mai 1998 concernant le caractère définitif du règlement dans les systèmes de paiement et de règlement des opérations sur titres ; »
 
-10. « directive 2004/39/CE » : la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers ;
+- « directive 2004/39/CE » : la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers ;
 
-11. « directive 2006/48/CE » : la directive 2006/48/CE du Parlement européen et du Conseil du 14 juin 2006 concernant l'accès à l'activité des établissements de crédit et son exercice ;
+- « directive 2006/48/CE » : la directive 2006/48/CE du Parlement européen et du Conseil du 14 juin 2006 concernant l'accès à l'activité des établissements de crédit et son exercice ;
 
-12. « directive 2006/49/CE » : la directive 2006/49/CE du Parlement européen et du Conseil du 14 juin 2006 sur l'adéquation des fonds propres des entreprises d'investissement et des établissements de crédit ;
+- « directive 2006/49/CE » : la directive 2006/49/CE du Parlement européen et du Conseil du 14 juin 2006 sur l'adéquation des fonds propres des entreprises d'investissement et des établissements de crédit ;
 
-13. 10bis. « directive 2006/73/CE » : la directive 2006/73/CE de la Commission du 10 août 2006 portant mesures d'exécution de la directive 2004/39/CE du Parlement européen et du Conseil en ce qui concerne les exigences organisationnelles et les conditions d'exercice applicables aux entreprises d'investissement et la définition de certains termes aux fins de ladite directive ;
+- 10bis. « directive 2006/73/CE » : la directive 2006/73/CE de la Commission du 10 août 2006 portant mesures d'exécution de la directive 2004/39/CE du Parlement européen et du Conseil en ce qui concerne les exigences organisationnelles et les conditions d'exercice applicables aux entreprises d'investissement et la définition de certains termes aux fins de ladite directive ;
 
-14. « directive 2009/65/CE » : la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) ;
+- « directive 2009/65/CE » : la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) ;
 
-15. 11bis. « directive 2011/61/UE » : la directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d'investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) n° 1060/2009 et (UE) n° 1095/2010 ;
+- 11bis. « directive 2011/61/UE » : la directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d'investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) n° 1060/2009 et (UE) n° 1095/2010 ;
 
-16. 11ter. « directive 2013/34/UE » : la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil ;
+- 11ter. « directive 2013/34/UE » : la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil ;
 
-17. 11quater. « directive 2014/65/UE » : la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE ;
+- 11quater. « directive 2014/65/UE » : la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE ;
 
-18. 11quinquies. « directive 2014/91/UE » : la directive 2014/91/UE du Parlement européen et du Conseil du 23 juillet 2014 modifiant la directive 2009/65/CE portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM), pour ce qui est des fonctions de dépositaire, des politiques de rémunération et des sanctions ;
+- 11quinquies. « directive 2014/91/UE » : la directive 2014/91/UE du Parlement européen et du Conseil du 23 juillet 2014 modifiant la directive 2009/65/CE portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM), pour ce qui est des fonctions de dépositaire, des politiques de rémunération et des sanctions ;
 
-19. « entreprise mère » : une entreprise détentrice des droits suivants :
+- « entreprise mère » : une entreprise détentrice des droits suivants :
 
-1. elle a la majorité des droits de vote des actionnaires ou associés d'une entreprise, ou
+  - elle a la majorité des droits de vote des actionnaires ou associés d'une entreprise, ou
 
-2. elle a le droit de nommer ou de révoquer la majorité des membres de l'organe d'administration, de direction ou de surveillance d'une entreprise et est en même temps actionnaire ou associé de cette entreprise, ou
+  - elle a le droit de nommer ou de révoquer la majorité des membres de l'organe d'administration, de direction ou de surveillance d'une entreprise et est en même temps actionnaire ou associé de cette entreprise, ou
 
-3. elle a le droit d'exercer une influence dominante sur une entreprise dont elle est actionnaire ou associé, en vertu d'un contrat conclu avec celle-ci ou en vertu d'une clause des statuts de celle-ci, lorsque le droit dont relève cette entreprise permet qu'elle soit soumise à de tels contrats ou clauses statutaires, ou
+  - elle a le droit d'exercer une influence dominante sur une entreprise dont elle est actionnaire ou associé, en vertu d'un contrat conclu avec celle-ci ou en vertu d'une clause des statuts de celle-ci, lorsque le droit dont relève cette entreprise permet qu'elle soit soumise à de tels contrats ou clauses statutaires, ou
 
-4. elle est actionnaire ou associé d'une entreprise et contrôle seule, en vertu d'un accord conclu avec d'autres actionnaires ou associés de cette entreprise, la majorité des droits de vote des actionnaires ou associés de celle-ci, ou
+  - elle est actionnaire ou associé d'une entreprise et contrôle seule, en vertu d'un accord conclu avec d'autres actionnaires ou associés de cette entreprise, la majorité des droits de vote des actionnaires ou associés de celle-ci, ou
 
-5. elle peut exercer ou exerce effectivement une influence dominante sur une autre entreprise, ou
+  - elle peut exercer ou exerce effectivement une influence dominante sur une autre entreprise, ou
 
-6. elle est placée avec une autre entreprise sous une direction unique ;
+  - elle est placée avec une autre entreprise sous une direction unique ;
 
-20. « État membre » : un État membre de l'Union européenne. Sont assimilés aux États membres de l'Union européenne les États parties à l'Accord sur l'Espace économique européen autres que les États membres de l'Union européenne, dans les limites définies par cet accord et les actes y afférents ;
+- « État membre » : un État membre de l'Union européenne. Sont assimilés aux États membres de l'Union européenne les États parties à l'Accord sur l'Espace économique européen autres que les États membres de l'Union européenne, dans les limites définies par cet accord et les actes y afférents ;
 
-21. « État membre d'accueil d'un OPCVM » : l'État membre, autre que l'État membre d'origine d'un OPCVM, dans lequel les parts du fonds commun de placement ou de la société d'investissement sont commercialisées ;
+- « État membre d'accueil d'un OPCVM » : l'État membre, autre que l'État membre d'origine d'un OPCVM, dans lequel les parts du fonds commun de placement ou de la société d'investissement sont commercialisées ;
 
-22. « État membre d'origine d'un OPCVM » : l'État membre dans lequel le fonds commun de placement ou la société d'investissement sont agréés conformément à l'article 5 de la directive 2009/65/CE ;
+- « État membre d'origine d'un OPCVM » : l'État membre dans lequel le fonds commun de placement ou la société d'investissement sont agréés conformément à l'article 5 de la directive 2009/65/CE ;
 
-23. « État membre d'accueil d'une société de gestion » : l'État membre, autre que l'État membre d'origine, sur le territoire duquel une société de gestion a une succursale ou fournit des services ;
+- « État membre d'accueil d'une société de gestion » : l'État membre, autre que l'État membre d'origine, sur le territoire duquel une société de gestion a une succursale ou fournit des services ;
 
-24. « État membre d'origine d'une société de gestion » : l'État membre où la société de gestion a son siège statutaire ;
+- « État membre d'origine d'une société de gestion » : l'État membre où la société de gestion a son siège statutaire ;
 
-25. « filiale » : une entreprise à l'égard de laquelle sont détenus les droits énoncés au point (12). Les filiales d'une filiale sont également considérées comme filiales de l'entreprise mère qui est à la tête de ces entreprises ;
+- « filiale » : une entreprise à l'égard de laquelle sont détenus les droits énoncés au point (12). Les filiales d'une filiale sont également considérées comme filiales de l'entreprise mère qui est à la tête de ces entreprises ;
 
-26. 18bis. « fonds d'investissement alternatifs (FIA) » : des organismes de placement collectif, y compris leurs compartiments d'investissement, visés à l'article 4, paragraphe 1, point a), de la directive 2011/61/UE, qui : Sont visés au Luxembourg les fonds d'investissement alternatifs au sens de l'article 1er, paragraphe 39, de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
+- 18bis. « fonds d'investissement alternatifs (FIA) » : des organismes de placement collectif, y compris leurs compartiments d'investissement, visés à l'article 4, paragraphe 1, point a), de la directive 2011/61/UE, qui : Sont visés au Luxembourg les fonds d'investissement alternatifs au sens de l'article 1er, paragraphe 39, de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
 
-1. lèvent des capitaux auprès d'un certain nombre d'investisseurs en vue de les investir, conformément à une politique d'investissement définie, dans l'intérêt de ces investisseurs ; et
+  - lèvent des capitaux auprès d'un certain nombre d'investisseurs en vue de les investir, conformément à une politique d'investissement définie, dans l'intérêt de ces investisseurs ; et
 
-2. ne sont pas soumis à un agrément au titre de l'article 5 de la directive 2009/65/CE.
+  - ne sont pas soumis à un agrément au titre de l'article 5 de la directive 2009/65/CE.
 
-27. « fonds propres » : les fonds propres visés au titre V, chapitre 2, section 1, de la directive 2006/48/CE. Aux fins de l'application de la présente définition, les articles 13 à 16 de la directive 2006/49/CE s'appliquent mutatis mutandis ;
+- « fonds propres » : les fonds propres visés au titre V, chapitre 2, section 1, de la directive 2006/48/CE. Aux fins de l'application de la présente définition, les articles 13 à 16 de la directive 2006/49/CE s'appliquent mutatis mutandis ;
 
-28. « fusion » : une opération par laquelle :
+- « fusion » : une opération par laquelle :
 
-1. un ou plusieurs OPCVM ou compartiments d'investissement d'OPCVM, dénommés « OPCVM absorbé », transfèrent, par suite et au moment de leur dissolution sans liquidation, l'ensemble de leur patrimoine, activement et passivement, à un autre OPCVM existant ou à un compartiment d'investissement de celui-ci, dénommé « OPCVM absorbeur », moyennant l'attribution, à leurs porteurs de parts, de parts de l'OPCVM absorbeur et, éventuellement, d'un paiement en espèces ne dépassant pas 10 % de la valeur nette d'inventaire de ces parts,
+  - un ou plusieurs OPCVM ou compartiments d'investissement d'OPCVM, dénommés « OPCVM absorbé », transfèrent, par suite et au moment de leur dissolution sans liquidation, l'ensemble de leur patrimoine, activement et passivement, à un autre OPCVM existant ou à un compartiment d'investissement de celui-ci, dénommé « OPCVM absorbeur », moyennant l'attribution, à leurs porteurs de parts, de parts de l'OPCVM absorbeur et, éventuellement, d'un paiement en espèces ne dépassant pas 10 % de la valeur nette d'inventaire de ces parts,
 
-2. au moins deux OPCVM ou compartiments d'investissement d'OPCVM, dénommés « OPCVM absorbés », transfèrent, par suite et au moment de leur dissolution sans liquidation, l'ensemble de leur patrimoine, activement et passivement, à un OPCVM qu'ils constituent, ou à un compartiment d'investissement de celui-ci, dénommé « OPCVM absorbeur », moyennant l'attribution, à leurs porteurs de parts, de parts de l'OPCVM absorbeur et, éventuellement, d'un paiement en espèces ne dépassant pas 10 % de la valeur nette d'inventaire de ces parts,
+  - au moins deux OPCVM ou compartiments d'investissement d'OPCVM, dénommés « OPCVM absorbés », transfèrent, par suite et au moment de leur dissolution sans liquidation, l'ensemble de leur patrimoine, activement et passivement, à un OPCVM qu'ils constituent, ou à un compartiment d'investissement de celui-ci, dénommé « OPCVM absorbeur », moyennant l'attribution, à leurs porteurs de parts, de parts de l'OPCVM absorbeur et, éventuellement, d'un paiement en espèces ne dépassant pas 10 % de la valeur nette d'inventaire de ces parts,
 
-3. un ou plusieurs OPCVM ou compartiments d'investissement d'OPCVM, dénommés « OPCVM absorbé », qui continuent d'exister jusqu'à ce que le passif ait été apuré, transfèrent leurs actifs nets à un autre compartiment d'investissement du même OPCVM, à un OPCVM qu'ils constituent ou à un autre OPCVM existant ou à un compartiment d'investissement d'OPCVM, dénommé « OPCVM absorbeur » ;
+  - un ou plusieurs OPCVM ou compartiments d'investissement d'OPCVM, dénommés « OPCVM absorbé », qui continuent d'exister jusqu'à ce que le passif ait été apuré, transfèrent leurs actifs nets à un autre compartiment d'investissement du même OPCVM, à un OPCVM qu'ils constituent ou à un autre OPCVM existant ou à un compartiment d'investissement d'OPCVM, dénommé « OPCVM absorbeur » ;
 
-29. « fusion transfrontalière » : une fusion d'OPCVM :
+- « fusion transfrontalière » : une fusion d'OPCVM :
 
-1. dont au moins deux sont établis dans des États membres différents, ou
+  - dont au moins deux sont établis dans des États membres différents, ou
 
-2. établis dans le même État membre, sous la forme d'un nouvel OPCVM établi dans un autre État membre ;
+  - établis dans le même État membre, sous la forme d'un nouvel OPCVM établi dans un autre État membre ;
 
-30. « fusion nationale » : la fusion entre des OPCVM établis dans le même État membre dès lors qu'un au moins des OPCVM concernés a fait l'objet d'une notification conformément à l'article 93 de la directive 2009/65/CE ;
+- « fusion nationale » : la fusion entre des OPCVM établis dans le même État membre dès lors qu'un au moins des OPCVM concernés a fait l'objet d'une notification conformément à l'article 93 de la directive 2009/65/CE ;
 
-31. 22bis. « gestion de FIA » : le fait d'exercer au moins les fonctions de gestion des investissements visées à l'annexe I, point I a) ou b), de la directive 2011/61/UE pour un ou plusieurs FIA ;
+- 22bis. « gestion de FIA » : le fait d'exercer au moins les fonctions de gestion des investissements visées à l'annexe I, point I a) ou b), de la directive 2011/61/UE pour un ou plusieurs FIA ;
 
-32. 22ter. « gestionnaires de FIA » : les personnes morales dont l'activité habituelle est la gestion d'un ou de plusieurs FIA tels que définis à l'article 4, paragraphe 1, point a), de la directive 2011/61/UE/UE. Sont visés au Luxembourg les gestionnaires de FIA au sens de l'article 1er, paragraphe 46, de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
+- 22ter. « gestionnaires de FIA » : les personnes morales dont l'activité habituelle est la gestion d'un ou de plusieurs FIA tels que définis à l'article 4, paragraphe 1, point a), de la directive 2011/61/UE/UE. Sont visés au Luxembourg les gestionnaires de FIA au sens de l'article 1er, paragraphe 46, de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
 
-33. « instruments du marché monétaire » : des instruments habituellement négociés sur le marché monétaire, qui sont liquides et dont la valeur peut être déterminée avec précision à tout moment ;
+- « instruments du marché monétaire » : des instruments habituellement négociés sur le marché monétaire, qui sont liquides et dont la valeur peut être déterminée avec précision à tout moment ;
 
-34. 23bis. « instrument financier », un instrument financier visé à l'annexe I, section C, de la directive 2014/65/UE ;
+- 23bis. « instrument financier », un instrument financier visé à l'annexe I, section C, de la directive 2014/65/UE ;
 
-35. « liens étroits » : une situation dans laquelle au moins deux personnes physiques ou morales sont liées par : Aux fins du point b), les dispositions suivantes s'appliquent :
+- « liens étroits » : une situation dans laquelle au moins deux personnes physiques ou morales sont liées par : Aux fins du point b), les dispositions suivantes s'appliquent :
 
-1. une « participation », à savoir le fait de détenir, directement ou par voie de contrôle, au moins 20 % du capital ou des droits de vote d'une entreprise, ou
+  - une « participation », à savoir le fait de détenir, directement ou par voie de contrôle, au moins 20 % du capital ou des droits de vote d'une entreprise, ou
 
-2. un « contrôle », à savoir la relation entre une « entreprise mère » et une « filiale » au sens des articles 1er et 2 de la septième directive 83/349/CEE du Conseil du 13 juin 1983 fondée sur l'article 54, paragraphe 3, point g), du traité, concernant les comptes consolidés et dans tous les cas visés à l'article 1er, paragraphes 1 et 2, de la directive 83/349/CEE, ou une relation similaire entre toute personne physique ou morale et une entreprise.
+  - un « contrôle », à savoir la relation entre une « entreprise mère » et une « filiale » au sens des articles 1er et 2 de la septième directive 83/349/CEE du Conseil du 13 juin 1983 fondée sur l'article 54, paragraphe 3, point g), du traité, concernant les comptes consolidés et dans tous les cas visés à l'article 1er, paragraphes 1 et 2, de la directive 83/349/CEE, ou une relation similaire entre toute personne physique ou morale et une entreprise.
 
-- toute entreprise filiale d'une entreprise filiale est également considérée comme une filiale de l'entreprise mère qui est à la tête de ces entreprises ;
+  - toute entreprise filiale d'une entreprise filiale est également considérée comme une filiale de l'entreprise mère qui est à la tête de ces entreprises ;
 
-- une situation dans laquelle au moins deux personnes physiques ou morales sont liées en permanence à une seule et même personne par une relation de contrôle est également considérée comme constituant un lien étroit entre lesdites personnes ;
+  - une situation dans laquelle au moins deux personnes physiques ou morales sont liées en permanence à une seule et même personne par une relation de contrôle est également considérée comme constituant un lien étroit entre lesdites personnes ;
 
-36. 24bis. « loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs » : la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs portant transposition de la directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d'investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) n° 1060/2009 et (UE) n° 1095/2010 ;
+- 24bis. « loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs » : la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs portant transposition de la directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d'investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) n° 1060/2009 et (UE) n° 1095/2010 ;
 
-37. « OPC » : organisme de placement collectif ;
+- « OPC » : organisme de placement collectif ;
 
-38. « OPCVM » : organisme de placement collectif en valeurs mobilières soumis à la directive 2009/65/CE ;
+- « OPCVM » : organisme de placement collectif en valeurs mobilières soumis à la directive 2009/65/CE ;
 
-39. 26bis. « organe de direction » : sont visés :
+- 26bis. « organe de direction » : sont visés :
 
-1. en ce qui concerne les sociétés anonymes, le conseil d'administration ou le directoire, selon le cas ;
+  - en ce qui concerne les sociétés anonymes, le conseil d'administration ou le directoire, selon le cas ;
 
-2. en ce qui concerne les autres types de sociétés, l'organe qui représente, en vertu de la loi et des documents constitutifs, la société de gestion ou l'OPCVM ;
+  - en ce qui concerne les autres types de sociétés, l'organe qui représente, en vertu de la loi et des documents constitutifs, la société de gestion ou l'OPCVM ;
 
-40. « parts » : les parts d'un organisme qui revêt la forme contractuelle (fonds commun de placement géré par une société de gestion) et également les actions d'un organisme qui revêt la forme statutaire (société d'investissement) ;
+- « parts » : les parts d'un organisme qui revêt la forme contractuelle (fonds commun de placement géré par une société de gestion) et également les actions d'un organisme qui revêt la forme statutaire (société d'investissement) ;
 
-41. « participation qualifiée dans une société de gestion » : le fait de détenir dans une société de gestion une participation, directe ou indirecte, qui représente au moins 10 % du capital ou des droits de vote, conformément aux articles 8 et 9 de la loi du 11 janvier 2008 relative aux obligations de transparence et aux conditions régissant l'agrégation des droits de vote énoncées à l'article 11, paragraphes 4 et 5 de cette même loi, ou toute autre possibilité d'exercer une influence notable sur la gestion de cette entreprise ;
+- « participation qualifiée dans une société de gestion » : le fait de détenir dans une société de gestion une participation, directe ou indirecte, qui représente au moins 10 % du capital ou des droits de vote, conformément aux articles 8 et 9 de la loi du 11 janvier 2008 relative aux obligations de transparence et aux conditions régissant l'agrégation des droits de vote énoncées à l'article 11, paragraphes 4 et 5 de cette même loi, ou toute autre possibilité d'exercer une influence notable sur la gestion de cette entreprise ;
 
-42. « pays tiers » : un État autre qu'un État membre ;
+- « pays tiers » : un État autre qu'un État membre ;
 
-43. « porteur de parts » : vise les porteurs de parts dans les organismes qui revêtent la forme contractuelle (fonds commun de placement gérés par une société de gestion) et également les actionnaires dans les organismes qui revêtent la forme statutaire (sociétés d'investissement) ;
+- « porteur de parts » : vise les porteurs de parts dans les organismes qui revêtent la forme contractuelle (fonds commun de placement gérés par une société de gestion) et également les actionnaires dans les organismes qui revêtent la forme statutaire (sociétés d'investissement) ;
 
-44. « SICAV » : société d'investissement à capital variable ;
+- « SICAV » : société d'investissement à capital variable ;
 
-45. « succursale » : un lieu d'exploitation qui fait partie d'une société de gestion sans avoir la personnalité juridique et qui fournit les services pour lesquels la société de gestion a été agréée. Aux fins de l'application de la présente définition, tous les lieux d'exploitation établis dans le même État membre par une société de gestion ayant son administration centrale dans un autre État membre sont considérés comme une seule succursale ;
+- « succursale » : un lieu d'exploitation qui fait partie d'une société de gestion sans avoir la personnalité juridique et qui fournit les services pour lesquels la société de gestion a été agréée. Aux fins de l'application de la présente définition, tous les lieux d'exploitation établis dans le même État membre par une société de gestion ayant son administration centrale dans un autre État membre sont considérés comme une seule succursale ;
 
-46. « support durable » : un instrument permettant à un investisseur de stocker des informations qui lui sont adressées personnellement d'une manière permettant de s'y reporter à l'avenir pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l'identique des informations stockées ;
+- « support durable » : un instrument permettant à un investisseur de stocker des informations qui lui sont adressées personnellement d'une manière permettant de s'y reporter à l'avenir pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l'identique des informations stockées ;
 
-47. « valeurs mobilières » : Aux fins de l'application de la présente définition, ne constituent pas des valeurs mobilières les techniques et instruments visés à l'article 42.
+- « valeurs mobilières » : Aux fins de l'application de la présente définition, ne constituent pas des valeurs mobilières les techniques et instruments visés à l'article 42.
 
-- les actions et autres valeurs assimilables à des actions (« actions »),
+  - les actions et autres valeurs assimilables à des actions (« actions »),
 
-- les obligations et les autres titres de créance (« obligations »),
+  - les obligations et les autres titres de créance (« obligations »),
 
-- toutes les autres valeurs négociables donnant le droit d'acquérir de telles valeurs mobilières par voie de souscription ou d'échange.
+  - toutes les autres valeurs négociables donnant le droit d'acquérir de telles valeurs mobilières par voie de souscription ou d'échange.
 
 ## Partie I DES OPCVM
 
@@ -309,17 +309,17 @@ Le rachat des parts s'opère sur la base de la valeur calculée conformément à
 
 Par dérogation à l'article 11, paragraphe 2 :
 
-1. la société de gestion peut, dans l’intérêt des porteurs de parts du fonds commun de placement qu’elle gère, suspendre temporairement la souscription, le rachat et le remboursement au sens de l’annexe III, point 1, des parts du fonds commun de placement qu’elle gère, ainsi qu’activer ou désactiver un autre outil de gestion de la liquidité sélectionné aux points 2 à 8 de ladite annexe, conformément à l’article 52-1, paragraphe 1er. La société de gestion peut également, dans l’intérêt des porteurs de parts du fonds commun de placement qu’elle gère, activer les mécanismes de cantonnements d’actifs visés à l’annexe III, point 9. La société de gestion n’a recours à une suspension de souscriptions, de rachats et de remboursements ou aux mécanismes de cantonnements d’actifs visés à la présente lettre, que dans des cas exceptionnels où les circonstances l’exigent et où cela est justifié compte tenu des intérêts des porteurs de parts du fonds commun de placement qu’elle gère ;
+- la société de gestion peut, dans l’intérêt des porteurs de parts du fonds commun de placement qu’elle gère, suspendre temporairement la souscription, le rachat et le remboursement au sens de l’annexe III, point 1, des parts du fonds commun de placement qu’elle gère, ainsi qu’activer ou désactiver un autre outil de gestion de la liquidité sélectionné aux points 2 à 8 de ladite annexe, conformément à l’article 52-1, paragraphe 1er. La société de gestion peut également, dans l’intérêt des porteurs de parts du fonds commun de placement qu’elle gère, activer les mécanismes de cantonnements d’actifs visés à l’annexe III, point 9. La société de gestion n’a recours à une suspension de souscriptions, de rachats et de remboursements ou aux mécanismes de cantonnements d’actifs visés à la présente lettre, que dans des cas exceptionnels où les circonstances l’exigent et où cela est justifié compte tenu des intérêts des porteurs de parts du fonds commun de placement qu’elle gère ;
 
-2. dans l’intérêt des investisseurs du fonds commun de placement, dans des circonstances exceptionnelles et après consultation de la société de gestion, la CSSF, en tant qu’autorité compétente de l’État membre d’origine du fonds commun de placement, peut exiger l’activation ou la désactivation de l’outil de gestion de la liquidité visé à l’annexe III, point 1, lorsqu’il existe des risques pour la protection des investisseurs ou la stabilité financière qui, d’un point de vue raisonnable et équilibré, rendent une telle activation ou désactivation nécessaire.
+- dans l’intérêt des investisseurs du fonds commun de placement, dans des circonstances exceptionnelles et après consultation de la société de gestion, la CSSF, en tant qu’autorité compétente de l’État membre d’origine du fonds commun de placement, peut exiger l’activation ou la désactivation de l’outil de gestion de la liquidité visé à l’annexe III, point 1, lorsqu’il existe des risques pour la protection des investisseurs ou la stabilité financière qui, d’un point de vue raisonnable et équilibré, rendent une telle activation ou désactivation nécessaire.
 
 (2)
 
 La société de gestion, pour le fonds commun de placement qu’elle gère, notifie sans retard à la CSSF, en tant qu’autorité compétente de l’État membre d’origine du fonds commun de placement, les cas suivants :
 
-1. lorsqu’elle active ou désactive l’outil de gestion de la liquidité visé à l’annexe III, point 1 ;
+- lorsqu’elle active ou désactive l’outil de gestion de la liquidité visé à l’annexe III, point 1 ;
 
-2. lorsqu’elle active ou désactive tout outil de gestion de la liquidité visé à l’annexe III, points 2 à 8, d’une manière qui n’est pas dans le cours normal des activités, comme le prévoit le règlement de gestion.
+- lorsqu’elle active ou désactive tout outil de gestion de la liquidité visé à l’annexe III, points 2 à 8, d’une manière qui n’est pas dans le cours normal des activités, comme le prévoit le règlement de gestion.
 
 Dans un délai raisonnable avant d’activer ou de désactiver l’outil de gestion de la liquidité visé à l’annexe III, point 9, la société de gestion notifie cette activation ou cette désactivation à la CSSF, en tant qu’autorité compétente de l’État membre d’origine du fonds commun de placement.
 
@@ -343,9 +343,9 @@ La CSSF, en tant qu’autorité compétente de l’État membre d’accueil de l
 
 L'émission et le rachat des parts sont interdits :
 
-1. pendant la période où il n'y a pas de société de gestion ou de dépositaire ;
+- pendant la période où il n'y a pas de société de gestion ou de dépositaire ;
 
-2. en cas de mise en liquidation, de déclaration en faillite ou de demande d'admission au bénéfice du concordat, du sursis de paiement ou de la gestion contrôlée ou d'une mesure analogue visant la société de gestion ou le dépositaire.
+- en cas de mise en liquidation, de déclaration en faillite ou de demande d'admission au bénéfice du concordat, du sursis de paiement ou de la gestion contrôlée ou d'une mesure analogue visant la société de gestion ou le dépositaire.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -358,25 +358,25 @@ La société de gestion établit le règlement de gestion du fonds commun de pla
 
 Le règlement de gestion du fonds commun de placement est soumis à la loi luxembourgeoise et doit au moins contenir les indications suivantes :
 
-1. la dénomination et la durée du fonds commun de placement, la dénomination de la société de gestion et du dépositaire,
+- la dénomination et la durée du fonds commun de placement, la dénomination de la société de gestion et du dépositaire,
 
-2. la politique d'investissement, en fonction des buts spécifiques qu'elle se propose et des critères dont elle s'inspire,
+- la politique d'investissement, en fonction des buts spécifiques qu'elle se propose et des critères dont elle s'inspire,
 
-3. la politique de distribution dans le cadre de l'article 16,
+- la politique de distribution dans le cadre de l'article 16,
 
-4. les rémunérations et les dépenses que la société de gestion est habilitée à prélever sur le fonds commun de placement, ainsi que le mode de calcul de ces rémunérations,
+- les rémunérations et les dépenses que la société de gestion est habilitée à prélever sur le fonds commun de placement, ainsi que le mode de calcul de ces rémunérations,
 
-5. les dispositions sur la publicité,
+- les dispositions sur la publicité,
 
-6. la date de clôture des comptes du fonds commun de placement,
+- la date de clôture des comptes du fonds commun de placement,
 
-7. les cas de dissolution du fonds commun de placement, sans préjudice des causes légales,
+- les cas de dissolution du fonds commun de placement, sans préjudice des causes légales,
 
-8. les modalités d'amendement du règlement de gestion,
+- les modalités d'amendement du règlement de gestion,
 
-9. les modalités d'émission des parts,
+- les modalités d'émission des parts,
 
-10. les modalités de rachat des parts, ainsi que les conditions dans lesquelles les rachats se font et peuvent être suspendus.
+- les modalités de rachat des parts, ainsi que les conditions dans lesquelles les rachats se font et peuvent être suspendus.
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -441,25 +441,25 @@ Lorsque la gestion du fonds commun de placement est assurée par une société d
 
 Le dépositaire doit:
 
-1. s'assurer que la vente, l'émission, le rachat, le remboursement et l'annulation des parts du fonds commun de placement ont lieu conformément à la loi et au règlement de gestion,
+- s'assurer que la vente, l'émission, le rachat, le remboursement et l'annulation des parts du fonds commun de placement ont lieu conformément à la loi et au règlement de gestion,
 
-2. s'assurer que le calcul de la valeur des parts du fonds commun de placement est effectué conformément à la loi et au règlement de gestion,
+- s'assurer que le calcul de la valeur des parts du fonds commun de placement est effectué conformément à la loi et au règlement de gestion,
 
-3. exécuter les instructions de la société de gestion, sauf si elles sont contraires à la loi ou au règlement de gestion,
+- exécuter les instructions de la société de gestion, sauf si elles sont contraires à la loi ou au règlement de gestion,
 
-4. s'assurer que dans les opérations portant sur les actifs du fonds commun de placement la contrepartie lui est remise dans les délais d'usage,
+- s'assurer que dans les opérations portant sur les actifs du fonds commun de placement la contrepartie lui est remise dans les délais d'usage,
 
-5. s'assurer que les produits du fonds commun de placement reçoivent l'affectation conforme à la loi ou au règlement de gestion.
+- s'assurer que les produits du fonds commun de placement reçoivent l'affectation conforme à la loi ou au règlement de gestion.
 
 (3)
 
 Le dépositaire doit veiller au suivi adéquat des flux de liquidités du fonds commun de placement et, plus particulièrement, à ce que tous les paiements effectués par les porteurs de parts ou pour leur compte lors de la souscription de parts du fonds commun de placement aient été reçus et que toutes les liquidités du fonds commun de placement aient été comptabilisées sur des comptes de liquidités qui sont :
 
-1. ouverts au nom du fonds commun de placement, au nom de la société de gestion agissant pour le compte du fonds commun de placement ou du dépositaire agissant pour le compte du fonds commun de placement;
+- ouverts au nom du fonds commun de placement, au nom de la société de gestion agissant pour le compte du fonds commun de placement ou du dépositaire agissant pour le compte du fonds commun de placement;
 
-2. ouverts auprès d'une entité visée à l'article 18, paragraphe 1er, points a), b) et c) de la directive 2006/73/CE; et
+- ouverts auprès d'une entité visée à l'article 18, paragraphe 1er, points a), b) et c) de la directive 2006/73/CE; et
 
-3. tenus conformément aux principes énoncés à l'article 16 de la directive 2006/73/CE.
+- tenus conformément aux principes énoncés à l'article 16 de la directive 2006/73/CE.
 
 Lorsque les comptes de liquidités sont ouverts au nom du dépositaire agissant pour le compte du fonds commun de placement, aucune liquidité de l'entité visée à l'alinéa 1, point b), et aucune liquidité propre du dépositaire ne sont comptabilisées sur de tels comptes.
 
@@ -467,17 +467,17 @@ Lorsque les comptes de liquidités sont ouverts au nom du dépositaire agissant 
 
 La garde des actifs du fonds commun de placement doit être confiée à un dépositaire, selon ce qui suit :
 
-1. pour les instruments financiers dont la conservation peut être assurée, le dépositaire :
+- pour les instruments financiers dont la conservation peut être assurée, le dépositaire :
 
-1. doit assurer la conservation de tous les instruments financiers qui peuvent être enregistrés sur un compte d'instruments financiers ouvert dans les livres du dépositaire et de tous les instruments financiers qui peuvent être livrés physiquement au dépositaire ;
+  - doit assurer la conservation de tous les instruments financiers qui peuvent être enregistrés sur un compte d'instruments financiers ouvert dans les livres du dépositaire et de tous les instruments financiers qui peuvent être livrés physiquement au dépositaire ;
 
-2. doit veiller à ce que tous les instruments financiers qui peuvent être enregistrés sur un compte d'instruments financiers ouvert dans les livres du dépositaire soient inscrits dans les livres du dépositaire sur des comptes distincts, conformément aux principes énoncés à l'article 16 de la directive 2006/73/CE, ouverts au nom de la société de gestion agissant pour le compte du fonds commun de placement, afin qu'ils puissent, à tout moment, être clairement identifiés comme appartenant au fonds commun de placement conformément au droit applicable ;
+  - doit veiller à ce que tous les instruments financiers qui peuvent être enregistrés sur un compte d'instruments financiers ouvert dans les livres du dépositaire soient inscrits dans les livres du dépositaire sur des comptes distincts, conformément aux principes énoncés à l'article 16 de la directive 2006/73/CE, ouverts au nom de la société de gestion agissant pour le compte du fonds commun de placement, afin qu'ils puissent, à tout moment, être clairement identifiés comme appartenant au fonds commun de placement conformément au droit applicable ;
 
-2. pour les autres actifs, le dépositaire :
+- pour les autres actifs, le dépositaire :
 
-1. doit vérifier que le fonds commun de placement détient la propriété de ces actifs, en évaluant, sur la base des informations ou des documents fournis par la société de gestion agissant pour le compte du fonds commun de placement et, le cas échéant, d'éléments de preuve externes, si le fonds commun de placement en détient la propriété ;
+  - doit vérifier que le fonds commun de placement détient la propriété de ces actifs, en évaluant, sur la base des informations ou des documents fournis par la société de gestion agissant pour le compte du fonds commun de placement et, le cas échéant, d'éléments de preuve externes, si le fonds commun de placement en détient la propriété ;
 
-2. doit tenir un registre des actifs dont il a l'assurance que le fonds commun de placement détient la propriété, et il doit assurer l'actualisation de ce registre.
+  - doit tenir un registre des actifs dont il a l'assurance que le fonds commun de placement détient la propriété, et il doit assurer l'actualisation de ce registre.
 
 (5)
 
@@ -489,13 +489,13 @@ Les actifs du fonds commun de placement conservés par le dépositaire ne peuven
 
 Les actifs du fonds commun de placement conservés par le dépositaire ne peuvent être réutilisés que si :
 
-1. la réutilisation des actifs a lieu pour le compte du fonds commun de placement ;
+- la réutilisation des actifs a lieu pour le compte du fonds commun de placement ;
 
-2. le dépositaire exécute les instructions de la société de gestion agissant pour le compte du fonds commun de placement ;
+- le dépositaire exécute les instructions de la société de gestion agissant pour le compte du fonds commun de placement ;
 
-3. la réutilisation profite au fonds commun de placement et est dans l'intérêt des porteurs de parts ; et
+- la réutilisation profite au fonds commun de placement et est dans l'intérêt des porteurs de parts ; et
 
-4. l'opération est couverte par du collatéral liquide de haute qualité reçu par le fonds commun de placement en vertu d'un arrangement de transfert de propriété. La valeur de marché du collatéral doit correspondre à tout moment, au moins à la valeur de marché des actifs réutilisés majorée d'une prime.
+- l'opération est couverte par du collatéral liquide de haute qualité reçu par le fonds commun de placement en vertu d'un arrangement de transfert de propriété. La valeur de marché du collatéral doit correspondre à tout moment, au moins à la valeur de marché des actifs réutilisés majorée d'une prime.
 
 (7)
 
@@ -512,35 +512,35 @@ Le dépositaire n'est pas autorisé à déléguer à des tiers les fonctions vis
 
 Le dépositaire ne peut déléguer à des tiers les fonctions visées à l'article 18, paragraphe 4, que si :
 
-1. les tâches ne sont pas déléguées dans l'intention de se soustraire aux exigences établies dans la présente loi ;
+- les tâches ne sont pas déléguées dans l'intention de se soustraire aux exigences établies dans la présente loi ;
 
-2. le dépositaire peut démontrer que la délégation est justifiée par une raison objective ;
+- le dépositaire peut démontrer que la délégation est justifiée par une raison objective ;
 
-3. le dépositaire a agi avec toute la compétence, tout le soin et toute la diligence requis lors de la sélection et de la désignation de tout tiers auquel il a l'intention de déléguer certaines parties de ses tâches, sauf lorsque ce tiers est un dépositaire central de titres agissant en qualité de DCT investisseur au sens de l’acte délégué adopté en vertu de l’article 29, paragraphe 3, et de l’article 48, paragraphe 10, du règlement (UE) n° 909/2014, et il continue à faire preuve de toute la compétence, de tout le soin et de toute la diligence requis dans l'évaluation périodique et le suivi permanent de tout tiers auquel il a délégué certaines parties de ses tâches et des dispositions prises par celui-ci concernant les tâches qui lui ont été déléguées.
+- le dépositaire a agi avec toute la compétence, tout le soin et toute la diligence requis lors de la sélection et de la désignation de tout tiers auquel il a l'intention de déléguer certaines parties de ses tâches, sauf lorsque ce tiers est un dépositaire central de titres agissant en qualité de DCT investisseur au sens de l’acte délégué adopté en vertu de l’article 29, paragraphe 3, et de l’article 48, paragraphe 10, du règlement (UE) n° 909/2014, et il continue à faire preuve de toute la compétence, de tout le soin et de toute la diligence requis dans l'évaluation périodique et le suivi permanent de tout tiers auquel il a délégué certaines parties de ses tâches et des dispositions prises par celui-ci concernant les tâches qui lui ont été déléguées.
 
 (3)
 
 Les fonctions visées à l'article 18, paragraphe 4, ne peuvent être déléguées par le dépositaire à un tiers que si ce tiers remplit en permanence toutes les conditions suivantes dans l'exercice des tâches qui lui ont été déléguées:
 
-1. le tiers dispose de structures et d'une expertise qui sont adéquates et proportionnées à la nature et à la complexité des actifs du fonds commun de placement qui lui ont été confiés ;
+- le tiers dispose de structures et d'une expertise qui sont adéquates et proportionnées à la nature et à la complexité des actifs du fonds commun de placement qui lui ont été confiés ;
 
-2. pour les tâches de conservation visées à l'article 18, paragraphe 4, point a), le tiers est soumis à :
+- pour les tâches de conservation visées à l'article 18, paragraphe 4, point a), le tiers est soumis à :
 
-1. une réglementation et une surveillance prudentielles efficaces, y compris à des exigences de fonds propres, dans la juridiction concernée ;
+  - une réglementation et une surveillance prudentielles efficaces, y compris à des exigences de fonds propres, dans la juridiction concernée ;
 
-2. un contrôle périodique externe afin de garantir que les instruments financiers sont en sa possession ;
+  - un contrôle périodique externe afin de garantir que les instruments financiers sont en sa possession ;
 
-3. le tiers distingue les actifs des clients du dépositaire de ses propres actifs et des actifs du dépositaire de façon à ce qu'ils puissent à tout moment être clairement identifiés comme appartenant aux clients d'un dépositaire particulier ;
+- le tiers distingue les actifs des clients du dépositaire de ses propres actifs et des actifs du dépositaire de façon à ce qu'ils puissent à tout moment être clairement identifiés comme appartenant aux clients d'un dépositaire particulier ;
 
-4. le tiers prend toutes les mesures nécessaires pour garantir que, en cas d'insolvabilité du tiers, les actifs d'un fonds commun de placement conservés par le tiers ne puissent pas être distribués parmi les créanciers du tiers ou réalisés dans l'intérêt de ces derniers ; et
+- le tiers prend toutes les mesures nécessaires pour garantir que, en cas d'insolvabilité du tiers, les actifs d'un fonds commun de placement conservés par le tiers ne puissent pas être distribués parmi les créanciers du tiers ou réalisés dans l'intérêt de ces derniers ; et
 
-5. le tiers respecte les obligations et interdictions générales établies à l'article 17, paragraphe 5bis, à l'article 18, paragraphes 4 et 6, et à l'article 20.
+- le tiers respecte les obligations et interdictions générales établies à l'article 17, paragraphe 5bis, à l'article 18, paragraphes 4 et 6, et à l'article 20.
 
 Nonobstant l'alinéa 1, point b) i), lorsque le droit d'un pays tiers exige que certains instruments financiers soient conservés par une entité locale et qu'aucune entité locale ne satisfait aux exigences relatives à la délégation visées audit point, le dépositaire ne peut déléguer ses fonctions à une telle entité locale que dans la mesure exigée par le droit dudit pays tiers et uniquement tant qu'aucune entité locale ne satisfait aux obligations en matière de délégation, et seulement si :
 
-1. les porteurs de parts investissant dans le fonds commun de placement concerné sont dûment informés, avant leur investissement, du fait que cette délégation est rendue nécessaire par les contraintes juridiques de la législation du pays tiers, ainsi que des circonstances justifiant la délégation et des risques inhérents à cette délégation ;
+- les porteurs de parts investissant dans le fonds commun de placement concerné sont dûment informés, avant leur investissement, du fait que cette délégation est rendue nécessaire par les contraintes juridiques de la législation du pays tiers, ainsi que des circonstances justifiant la délégation et des risques inhérents à cette délégation ;
 
-2. la société de gestion agissant pour le compte du fonds commun de placement a chargé le dépositaire de déléguer la conservation de ces instruments financiers à une telle entité locale.
+- la société de gestion agissant pour le compte du fonds commun de placement a chargé le dépositaire de déléguer la conservation de ces instruments financiers à une telle entité locale.
 
 Le tiers peut à son tour sous-déléguer ces fonctions, sous réserve des mêmes exigences. En pareil cas, l'article 19, paragraphe 2, s'applique par analogie aux parties concernées.
 
@@ -593,15 +593,15 @@ Un dépositaire ne peut pas exercer d'activités, en ce qui concerne le fonds co
 
 Les fonctions de la société de gestion ou du dépositaire à l'égard du fonds commun de placement prennent fin :
 
-1. en cas de retrait de la société de gestion, à la condition qu'elle soit remplacée par une autre société de gestion agréée conformément à la directive 2009/65/CE ;
+- en cas de retrait de la société de gestion, à la condition qu'elle soit remplacée par une autre société de gestion agréée conformément à la directive 2009/65/CE ;
 
-2. en cas de retrait du dépositaire intervenu de sa propre initiative ou de celle de la société de gestion dans les conditions prévues par le contrat de désignation du dépositaire. Le contrat doit prévoir un délai de préavis permettant le remplacement du dépositaire. L'établissement qui agissait en dernier en qualité de dépositaire prendra toutes les mesures nécessaires à la bonne conservation des intérêts des porteurs de parts, y compris l'obligation de maintenir ouverts ou d'ouvrir tous les comptes nécessaires pour la garde des différents actifs du fonds commun de placement et ce jusqu'à la clôture des opérations de liquidation du fonds commun de placement
+- en cas de retrait du dépositaire intervenu de sa propre initiative ou de celle de la société de gestion dans les conditions prévues par le contrat de désignation du dépositaire. Le contrat doit prévoir un délai de préavis permettant le remplacement du dépositaire. L'établissement qui agissait en dernier en qualité de dépositaire prendra toutes les mesures nécessaires à la bonne conservation des intérêts des porteurs de parts, y compris l'obligation de maintenir ouverts ou d'ouvrir tous les comptes nécessaires pour la garde des différents actifs du fonds commun de placement et ce jusqu'à la clôture des opérations de liquidation du fonds commun de placement
 
-3. lorsque la société de gestion ou le dépositaire a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
+- lorsque la société de gestion ou le dépositaire a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
 
-4. lorsque l'agrément de la société de gestion ou du dépositaire a été retiré par l'autorité compétente ;
+- lorsque l'agrément de la société de gestion ou du dépositaire a été retiré par l'autorité compétente ;
 
-5. dans tous les autres cas prévus par le règlement de gestion.
+- dans tous les autres cas prévus par le règlement de gestion.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -610,15 +610,15 @@ Les fonctions de la société de gestion ou du dépositaire à l'égard du fonds
 
 Le fonds commun de placement se trouve en état de liquidation :
 
-1. à l'échéance du délai éventuellement fixé par le règlement de gestion ;
+- à l'échéance du délai éventuellement fixé par le règlement de gestion ;
 
-2. en cas de cessation des fonctions de la société de gestion ou du dépositaire conformément à l'article 21, lettre b), si le dépositaire n'a pas été remplacé à l'expiration du délai de préavis, ou conformément à l'article 21, lettres c), d) et e), s'ils n'ont pas été remplacés dans les deux mois, sans préjudice du cas spécifique visé au point c) ci-dessous ;
+- en cas de cessation des fonctions de la société de gestion ou du dépositaire conformément à l'article 21, lettre b), si le dépositaire n'a pas été remplacé à l'expiration du délai de préavis, ou conformément à l'article 21, lettres c), d) et e), s'ils n'ont pas été remplacés dans les deux mois, sans préjudice du cas spécifique visé au point c) ci-dessous ;
 
-3. en cas de faillite de la société de gestion ;
+- en cas de faillite de la société de gestion ;
 
-4. si l'actif net du fonds commun de placement est devenu inférieur pendant plus de 6 mois au quart du minimum légal prévu à l'article 23 ci-après ;
+- si l'actif net du fonds commun de placement est devenu inférieur pendant plus de 6 mois au quart du minimum légal prévu à l'article 23 ci-après ;
 
-5. dans tous les autres cas prévus par le règlement de gestion.
+- dans tous les autres cas prévus par le règlement de gestion.
 
 (2)
 
@@ -707,15 +707,15 @@ L'octroi de l'agrément implique pour les membres des organes d'administration, 
 
 La CSSF ne peut retirer l'agrément à une SICAV relevant de la présente partie de la loi que lorsque celle-ci :
 
-1. ne fait pas usage de l'agrément dans un délai de douze mois, y renonce expressément ou a cessé d'exercer l'activité couverte par la présente loi depuis plus de six mois ;
+- ne fait pas usage de l'agrément dans un délai de douze mois, y renonce expressément ou a cessé d'exercer l'activité couverte par la présente loi depuis plus de six mois ;
 
-2. a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier ;
+- a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier ;
 
-3. ne remplit plus les conditions d'octroi de l'agrément ;
+- ne remplit plus les conditions d'octroi de l'agrément ;
 
-4. a enfreint de manière grave et/ou systématique les dispositions de la présente loi ou des règlements adoptés en application de celle-ci ;
+- a enfreint de manière grave et/ou systématique les dispositions de la présente loi ou des règlements adoptés en application de celle-ci ;
 
-5. relève d'un des autres cas de retrait prévus par la présente loi.
+- relève d'un des autres cas de retrait prévus par la présente loi.
 
 (2)
 
@@ -734,15 +734,15 @@ En particulier, la CSSF, compte tenu aussi de la nature de la SICAV, exigera que
 
 (1)
 
-1. La SICAV peut à tout moment émettre ses parts, sauf disposition contraire des statuts.
+- La SICAV peut à tout moment émettre ses parts, sauf disposition contraire des statuts.
 
-2. La SICAV doit racheter ou rembourser ses parts à la demande du porteur de parts, sans préjudice des paragraphes 5 et 6 du présent article.
+- La SICAV doit racheter ou rembourser ses parts à la demande du porteur de parts, sans préjudice des paragraphes 5 et 6 du présent article.
 
 (2)
 
-1. L'émission des parts est opérée à un prix obtenu en divisant la valeur de l'actif net de la SICAV par le nombre de parts en circulation, ledit prix pouvant être majoré de frais et commissions, dont les maxima et modalités de perception peuvent être fixés par un règlement CSSF.
+- L'émission des parts est opérée à un prix obtenu en divisant la valeur de l'actif net de la SICAV par le nombre de parts en circulation, ledit prix pouvant être majoré de frais et commissions, dont les maxima et modalités de perception peuvent être fixés par un règlement CSSF.
 
-2. Le rachat des parts est opéré à un prix obtenu en divisant la valeur de l'actif net de la SICAV par le nombre de parts en circulation, ledit prix pouvant être diminué de frais et commissions, dont les maxima et modalités de perception peuvent être fixés par un règlement CSSF.
+- Le rachat des parts est opéré à un prix obtenu en divisant la valeur de l'actif net de la SICAV par le nombre de parts en circulation, ledit prix pouvant être diminué de frais et commissions, dont les maxima et modalités de perception peuvent être fixés par un règlement CSSF.
 
 (3)
 
@@ -764,9 +764,9 @@ Dans l'intérêt des porteurs de parts, les rachats peuvent être suspendus par 
 
 La SICAV notifie sans retard à la CSSF, en tant qu’autorité compétente de l’État membre d’origine de la SICAV, les cas suivants :
 
-1. lorsqu’elle active ou désactive l’outil de gestion de la liquidité visé à l’annexe III, point 1 ;
+- lorsqu’elle active ou désactive l’outil de gestion de la liquidité visé à l’annexe III, point 1 ;
 
-2. lorsqu’elle active ou désactive tout outil de gestion de la liquidité visé à l’annexe III, points 2 à 8, d’une manière qui n’est pas dans le cours normal des activités, comme le prévoient les documents constitutifs de la SICAV.
+- lorsqu’elle active ou désactive tout outil de gestion de la liquidité visé à l’annexe III, points 2 à 8, d’une manière qui n’est pas dans le cours normal des activités, comme le prévoient les documents constitutifs de la SICAV.
 
 Dans un délai raisonnable avant d’activer ou de désactiver l’outil de gestion de la liquidité visé à l’annexe III, point 9, la SICAV notifie cette activation ou cette désactivation à la CSSF, en tant qu’autorité compétente de l’État membre d’origine de la SICAV.
 
@@ -894,25 +894,25 @@ Dans le cas d'une SICAV ayant désigné une société de gestion, lorsque l'Éta
 
 Le dépositaire doit :
 
-1. s'assurer que la vente, l'émission, le rachat, le remboursement et l'annulation des parts de la SICAV ont lieu conformément à la loi et aux statuts de la SICAV ;
+- s'assurer que la vente, l'émission, le rachat, le remboursement et l'annulation des parts de la SICAV ont lieu conformément à la loi et aux statuts de la SICAV ;
 
-2. s'assurer que le calcul de la valeur des parts de la SICAV est effectué conformément à la loi et aux statuts de la SICAV ;
+- s'assurer que le calcul de la valeur des parts de la SICAV est effectué conformément à la loi et aux statuts de la SICAV ;
 
-3. exécuter les instructions de la SICAV ou de la société de gestion agissant pour le compte de la SICAV, sauf si elles sont contraires à la loi ou aux statuts de la SICAV ;
+- exécuter les instructions de la SICAV ou de la société de gestion agissant pour le compte de la SICAV, sauf si elles sont contraires à la loi ou aux statuts de la SICAV ;
 
-4. s'assurer que dans les opérations portant sur les actifs de la SICAV la contrepartie lui est remise dans les délais d'usage ;
+- s'assurer que dans les opérations portant sur les actifs de la SICAV la contrepartie lui est remise dans les délais d'usage ;
 
-5. s'assurer que les produits de la SICAV reçoivent l'affectation conforme à la loi ou aux statuts.
+- s'assurer que les produits de la SICAV reçoivent l'affectation conforme à la loi ou aux statuts.
 
 (2)
 
 Le dépositaire doit veiller au suivi adéquat des flux de liquidités de la SICAV et, plus particulièrement, à ce que tous les paiements effectués par les porteurs de parts ou pour leur compte lors de la souscription de parts de la SICAV aient été reçus et que toutes les liquidités de la SICAV aient été comptabilisées sur des comptes de liquidités qui sont :
 
-1. ouverts au nom de la SICAV ou du dépositaire agissant pour le compte de la SICAV;
+- ouverts au nom de la SICAV ou du dépositaire agissant pour le compte de la SICAV;
 
-2. ouverts auprès d'une entité visée à l'article 18, paragraphe 1er, points a), b) et c), de la directive 2006/73/CE; et
+- ouverts auprès d'une entité visée à l'article 18, paragraphe 1er, points a), b) et c), de la directive 2006/73/CE; et
 
-3. tenus conformément aux principes énoncés à l'article 16 de la directive 2006/73/CE.
+- tenus conformément aux principes énoncés à l'article 16 de la directive 2006/73/CE.
 
 Lorsque les comptes de liquidités sont ouverts au nom du dépositaire agissant pour le compte de la SICAV, aucune liquidité de l'entité visée au premier alinéa, point b), et aucune liquidité propre du dépositaire ne sont comptabilisées sur de tels comptes.
 
@@ -920,17 +920,17 @@ Lorsque les comptes de liquidités sont ouverts au nom du dépositaire agissant 
 
 La garde des actifs de la SICAV doit être confiée à un dépositaire, compte tenu des éléments suivants :
 
-1. pour les instruments financiers dont la conservation peut être assurée, le dépositaire :
+- pour les instruments financiers dont la conservation peut être assurée, le dépositaire :
 
-1. doit assurer la conservation de tous les instruments financiers qui peuvent être enregistrés sur un compte d'instruments financiers ouvert dans les livres du dépositaire et de tous les instruments financiers qui peuvent être livrés physiquement au dépositaire ;
+  - doit assurer la conservation de tous les instruments financiers qui peuvent être enregistrés sur un compte d'instruments financiers ouvert dans les livres du dépositaire et de tous les instruments financiers qui peuvent être livrés physiquement au dépositaire ;
 
-2. doit veiller à ce que tous les instruments financiers qui peuvent être enregistrés sur un compte d'instruments financiers ouvert dans les livres du dépositaire soient inscrits dans les livres du dépositaire sur des comptes distincts, conformément aux principes énoncés à l'article 16 de la directive 2006/73/CE, ouverts au nom de la SICAV, afin qu'ils puissent, à tout moment, être clairement identifiés comme appartenant à la SICAV conformément au droit applicable ;
+  - doit veiller à ce que tous les instruments financiers qui peuvent être enregistrés sur un compte d'instruments financiers ouvert dans les livres du dépositaire soient inscrits dans les livres du dépositaire sur des comptes distincts, conformément aux principes énoncés à l'article 16 de la directive 2006/73/CE, ouverts au nom de la SICAV, afin qu'ils puissent, à tout moment, être clairement identifiés comme appartenant à la SICAV conformément au droit applicable ;
 
-2. pour les autres actifs, le dépositaire :
+- pour les autres actifs, le dépositaire :
 
-1. doit vérifier que la SICAV détient la propriété de ces actifs, en évaluant, sur la base des informations ou des documents fournis par la SICAV et, le cas échéant, d'éléments de preuve externes, si la SICAV en détient la propriété ;
+  - doit vérifier que la SICAV détient la propriété de ces actifs, en évaluant, sur la base des informations ou des documents fournis par la SICAV et, le cas échéant, d'éléments de preuve externes, si la SICAV en détient la propriété ;
 
-2. doit tenir un registre des actifs dont il a l'assurance que la SICAV détient la propriété, et il doit assurer l'actualisation de ce registre.
+  - doit tenir un registre des actifs dont il a l'assurance que la SICAV détient la propriété, et il doit assurer l'actualisation de ce registre.
 
 (4)
 
@@ -942,13 +942,13 @@ Les actifs de la SICAV conservés par le dépositaire ne peuvent pas être réut
 
 Les actifs de la SICAV conservés par le dépositaire ne peuvent être réutilisés que si :
 
-1. la réutilisation des actifs a lieu pour le compte de la SICAV ;
+- la réutilisation des actifs a lieu pour le compte de la SICAV ;
 
-2. le dépositaire exécute les instructions de la SICAV ou de la société de gestion agissant pour le compte de la SICAV ;
+- le dépositaire exécute les instructions de la SICAV ou de la société de gestion agissant pour le compte de la SICAV ;
 
-3. la réutilisation profite à la SICAV et est dans l'intérêt des porteurs de parts ; et
+- la réutilisation profite à la SICAV et est dans l'intérêt des porteurs de parts ; et
 
-4. l'opération est couverte par du collatéral liquide de haute qualité reçu par la SICAV en vertu d'un arrangement de transfert de propriété.
+- l'opération est couverte par du collatéral liquide de haute qualité reçu par la SICAV en vertu d'un arrangement de transfert de propriété.
 
 La valeur de marché du collatéral doit correspondre à tout moment, au moins à la valeur de marché des actifs réutilisés majorée d'une prime.
 
@@ -967,35 +967,35 @@ Le dépositaire n'est pas autorisé à déléguer à des tiers les fonctions vis
 
 Le dépositaire ne peut déléguer à des tiers les fonctions visées à l'article 34, paragraphe 3, que si :
 
-1. les tâches ne sont pas déléguées dans l'intention de se soustraire aux exigences établies dans la présente loi ;
+- les tâches ne sont pas déléguées dans l'intention de se soustraire aux exigences établies dans la présente loi ;
 
-2. le dépositaire peut démontrer que la délégation est justifiée par une raison objective ;
+- le dépositaire peut démontrer que la délégation est justifiée par une raison objective ;
 
-3. le dépositaire a agi avec toute la compétence, tout le soin et toute la diligence requis lors de la sélection et de la désignation de tout tiers auquel il a l'intention de déléguer certaines parties de ses tâches, sauf lorsque ce tiers est un dépositaire central de titres agissant en qualité de DCT investisseur au sens de l’acte délégué adopté en vertu de l’article 29, paragraphe 3, et de l’article 48, paragraphe 10, du règlement (UE) n° 909/2014, et il continue à faire preuve de toute la compétence, de tout le soin et de toute la diligence requis dans l'évaluation périodique et le suivi permanent de tout tiers auquel il a délégué certaines parties de ses tâches et des dispositions prises par celui- ci concernant les tâches qui lui ont été déléguées.
+- le dépositaire a agi avec toute la compétence, tout le soin et toute la diligence requis lors de la sélection et de la désignation de tout tiers auquel il a l'intention de déléguer certaines parties de ses tâches, sauf lorsque ce tiers est un dépositaire central de titres agissant en qualité de DCT investisseur au sens de l’acte délégué adopté en vertu de l’article 29, paragraphe 3, et de l’article 48, paragraphe 10, du règlement (UE) n° 909/2014, et il continue à faire preuve de toute la compétence, de tout le soin et de toute la diligence requis dans l'évaluation périodique et le suivi permanent de tout tiers auquel il a délégué certaines parties de ses tâches et des dispositions prises par celui- ci concernant les tâches qui lui ont été déléguées.
 
 (3)
 
 Les fonctions visées à l'article 34, paragraphe 3, ne peuvent être déléguées par le dépositaire à un tiers que si ce tiers remplit en permanence toutes les conditions suivantes dans l'exercice des tâches qui lui ont été déléguées :
 
-1. le tiers dispose de structures et d'une expertise qui sont adéquates et proportionnées à la nature et à la complexité des actifs de la SICAV qui lui ont été confiés ;
+- le tiers dispose de structures et d'une expertise qui sont adéquates et proportionnées à la nature et à la complexité des actifs de la SICAV qui lui ont été confiés ;
 
-2. pour les tâches de conservation visées à l'article 34, paragraphe 3, point a), le tiers est soumis à :
+- pour les tâches de conservation visées à l'article 34, paragraphe 3, point a), le tiers est soumis à :
 
-1. une réglementation et une surveillance prudentielles efficaces, y compris à des exigences de fonds propres, dans la juridiction concernée ;
+  - une réglementation et une surveillance prudentielles efficaces, y compris à des exigences de fonds propres, dans la juridiction concernée ;
 
-2. un contrôle périodique externe afin de garantir que les instruments financiers sont en sa possession ;
+  - un contrôle périodique externe afin de garantir que les instruments financiers sont en sa possession ;
 
-3. le tiers distingue les actifs des clients du dépositaire de ses propres actifs et des actifs du dépositaire de façon à ce qu'ils puissent à tout moment être clairement identifiés comme appartenant aux clients d'un dépositaire particulier ;
+- le tiers distingue les actifs des clients du dépositaire de ses propres actifs et des actifs du dépositaire de façon à ce qu'ils puissent à tout moment être clairement identifiés comme appartenant aux clients d'un dépositaire particulier ;
 
-4. le tiers prend toutes les mesures nécessaires pour garantir que, en cas d'insolvabilité du tiers, les actifs de la SICAV conservés par le tiers ne puissent pas être distribués parmi les créanciers du tiers ou réalisés dans l'intérêt de ces derniers ; et
+- le tiers prend toutes les mesures nécessaires pour garantir que, en cas d'insolvabilité du tiers, les actifs de la SICAV conservés par le tiers ne puissent pas être distribués parmi les créanciers du tiers ou réalisés dans l'intérêt de ces derniers ; et
 
-5. le tiers respecte les obligations et interdictions générales établies à l'article 33, paragraphe 5, à l'article 34, paragraphes 3 et 5, et à l'article 37.
+- le tiers respecte les obligations et interdictions générales établies à l'article 33, paragraphe 5, à l'article 34, paragraphes 3 et 5, et à l'article 37.
 
 Nonobstant l'alinéa 1, point b) i), lorsque le droit d'un pays tiers exige que certains instruments financiers soient conservés par une entité locale et qu'aucune entité locale ne satisfait aux exigences relatives à la délégation visées audit point, le dépositaire ne peut déléguer ses fonctions à une telle entité locale que dans la mesure exigée par le droit dudit pays tiers et uniquement tant qu'aucune entité locale ne satisfait aux obligations en matière de délégation, et seulement si :
 
-1. les porteurs de parts investissant dans la SICAV concernée sont dûment informés, avant leur investissement, du fait que cette délégation est rendue nécessaire par les contraintes juridiques de la législation du pays tiers, ainsi que des circonstances justifiant la délégation et des risques inhérents à cette délégation ;
+- les porteurs de parts investissant dans la SICAV concernée sont dûment informés, avant leur investissement, du fait que cette délégation est rendue nécessaire par les contraintes juridiques de la législation du pays tiers, ainsi que des circonstances justifiant la délégation et des risques inhérents à cette délégation ;
 
-2. la SICAV a chargé le dépositaire de déléguer la conservation de ces instruments financiers à une telle entité locale.
+- la SICAV a chargé le dépositaire de déléguer la conservation de ces instruments financiers à une telle entité locale.
 
 Le tiers peut à son tour sous-déléguer ces fonctions, sous réserve des mêmes exigences. En pareil cas, l'article 35, paragraphe 2, s'applique par analogie aux parties concernées.
 
@@ -1035,17 +1035,17 @@ Les porteurs de parts peuvent invoquer la responsabilité du dépositaire direct
 
 Les fonctions du dépositaire ou de la société de gestion dans le cas d'une SICAV ayant désigné une société de gestion prennent respectivement fin à l'égard de la SICAV :
 
-1. en cas de retrait du dépositaire intervenu de sa propre initiative ou de celle de la SICAV dans les conditions prévues par le contrat de désignation du dépositaire. Le contrat doit prévoir un délai de préavis permettant le remplacement du dépositaire. À défaut de désignation d'un nouveau dépositaire à l'expiration du délai de préavis, la CSSF procède au retrait de la SICAV de la liste prévue à l'article 130, paragraphe 1er. L'établissement qui agissait en dernier en qualité de dépositaire prendra toutes les mesures nécessaires à la bonne conservation des intérêts des porteurs de parts, y compris l'obligation de maintenir ouverts ou d'ouvrir tous les comptes nécessaires pour la garde des différents actifs de la SICAV et ce jusqu'à la clôture des opérations de liquidation de la SICAV ;
+- en cas de retrait du dépositaire intervenu de sa propre initiative ou de celle de la SICAV dans les conditions prévues par le contrat de désignation du dépositaire. Le contrat doit prévoir un délai de préavis permettant le remplacement du dépositaire. À défaut de désignation d'un nouveau dépositaire à l'expiration du délai de préavis, la CSSF procède au retrait de la SICAV de la liste prévue à l'article 130, paragraphe 1er. L'établissement qui agissait en dernier en qualité de dépositaire prendra toutes les mesures nécessaires à la bonne conservation des intérêts des porteurs de parts, y compris l'obligation de maintenir ouverts ou d'ouvrir tous les comptes nécessaires pour la garde des différents actifs de la SICAV et ce jusqu'à la clôture des opérations de liquidation de la SICAV ;
 
-2. en cas de retrait de la société de gestion désignée intervenu de sa propre initiative ou de celle de la SICAV ;
+- en cas de retrait de la société de gestion désignée intervenu de sa propre initiative ou de celle de la SICAV ;
 
-3. en cas de retrait de la société de gestion désignée intervenu à l'initiative de la SICAV, celle-ci ayant décidé d'adopter le statut de SICAV autogérée ;
+- en cas de retrait de la société de gestion désignée intervenu à l'initiative de la SICAV, celle-ci ayant décidé d'adopter le statut de SICAV autogérée ;
 
-4. lorsque la SICAV, le dépositaire ou la société de gestion désignée a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
+- lorsque la SICAV, le dépositaire ou la société de gestion désignée a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
 
-5. lorsque l'agrément de la SICAV, du dépositaire ou de la société de gestion désignée a été retiré par l'autorité compétente ;
+- lorsque l'agrément de la SICAV, du dépositaire ou de la société de gestion désignée a été retiré par l'autorité compétente ;
 
-6. dans tous les autres cas prévus par les statuts.
+- dans tous les autres cas prévus par les statuts.
 
 <a id="art-37"></a>
 ## Art. 37.
@@ -1090,55 +1090,55 @@ Lorsqu'un OPCVM est formé de plusieurs compartiments d'investissement, chaque c
 
 Les placements d'un OPCVM doivent être constitués uniquement d'un ou plusieurs des éléments suivants :
 
-1. valeurs mobilières et instruments du marché monétaire cotés ou négociés sur un marché réglementé au sens de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers ;
+- valeurs mobilières et instruments du marché monétaire cotés ou négociés sur un marché réglementé au sens de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers ;
 
-2. valeurs mobilières et instruments du marché monétaire négociés sur un autre marché d'un État membre, réglementé, en fonctionnement régulier, reconnu et ouvert au public ;
+- valeurs mobilières et instruments du marché monétaire négociés sur un autre marché d'un État membre, réglementé, en fonctionnement régulier, reconnu et ouvert au public ;
 
-3. valeurs mobilières et instruments du marché monétaire admis à la cote officielle d'une bourse de valeurs d'un État qui ne fait pas partie de l'Union européenne ou négociés sur un autre marché d'un État qui ne fait pas partie de l'Union européenne, réglementé, en fonctionnement régulier, reconnu et ouvert au public, pour autant que le choix de la bourse ou du marché ait été prévu par le règlement de gestion ou les documents constitutifs de l'OPCVM ;
+- valeurs mobilières et instruments du marché monétaire admis à la cote officielle d'une bourse de valeurs d'un État qui ne fait pas partie de l'Union européenne ou négociés sur un autre marché d'un État qui ne fait pas partie de l'Union européenne, réglementé, en fonctionnement régulier, reconnu et ouvert au public, pour autant que le choix de la bourse ou du marché ait été prévu par le règlement de gestion ou les documents constitutifs de l'OPCVM ;
 
-4. valeurs mobilières et instruments du marché monétaire nouvellement émis, sous réserve que :
+- valeurs mobilières et instruments du marché monétaire nouvellement émis, sous réserve que :
 
-- les conditions d'émission comportent l'engagement que la demande d'admission à la cote officielle d'une bourse de valeurs ou à un autre marché réglementé, en fonctionnement régulier, reconnu et ouvert au public, soit introduite, et pour autant que le choix de la bourse ou du marché ait été prévu par le règlement de gestion ou les documents constitutifs de l'OPCVM ;
+  - les conditions d'émission comportent l'engagement que la demande d'admission à la cote officielle d'une bourse de valeurs ou à un autre marché réglementé, en fonctionnement régulier, reconnu et ouvert au public, soit introduite, et pour autant que le choix de la bourse ou du marché ait été prévu par le règlement de gestion ou les documents constitutifs de l'OPCVM ;
 
-- l'admission soit obtenue au plus tard avant la fin de la période d'un an depuis l'émission ;
+  - l'admission soit obtenue au plus tard avant la fin de la période d'un an depuis l'émission ;
 
-5. parts d'OPCVM agréés conformément à la directive 2009/65/CE et/ou d'autres OPC au sens de l'article 1er, paragraphe 2, points a) et b), de la directive 2009/65/CE, qu'ils soient établis ou non dans un État membre, à condition que :
+- parts d'OPCVM agréés conformément à la directive 2009/65/CE et/ou d'autres OPC au sens de l'article 1er, paragraphe 2, points a) et b), de la directive 2009/65/CE, qu'ils soient établis ou non dans un État membre, à condition que :
 
-- ces autres OPC soient agréés conformément à une législation prévoyant que ces organismes sont soumis à une surveillance que la CSSF considère comme équivalente à celle prévue par la législation communautaire et que la coopération entre les autorités soit suffisamment garantie ;
+  - ces autres OPC soient agréés conformément à une législation prévoyant que ces organismes sont soumis à une surveillance que la CSSF considère comme équivalente à celle prévue par la législation communautaire et que la coopération entre les autorités soit suffisamment garantie ;
 
-- le niveau de la protection garantie aux porteurs de parts de ces autres OPC soit équivalent à celui prévu pour les porteurs de parts d'un OPCVM et, en particulier, que les règles relatives à la division des actifs, aux emprunts, aux prêts, aux ventes à découvert de valeurs mobilières et d'instruments du marché monétaire soient équivalentes aux exigences de la directive 2009/65/CE ;
+  - le niveau de la protection garantie aux porteurs de parts de ces autres OPC soit équivalent à celui prévu pour les porteurs de parts d'un OPCVM et, en particulier, que les règles relatives à la division des actifs, aux emprunts, aux prêts, aux ventes à découvert de valeurs mobilières et d'instruments du marché monétaire soient équivalentes aux exigences de la directive 2009/65/CE ;
 
-- les activités de ces autres OPC fassent l'objet de rapports semestriels et annuels permettant une évaluation de l'actif et du passif, des revenus et des opérations de la période considérée ;
+  - les activités de ces autres OPC fassent l'objet de rapports semestriels et annuels permettant une évaluation de l'actif et du passif, des revenus et des opérations de la période considérée ;
 
-- la proportion d'actifs que les OPCVM ou les autres OPC dont l'acquisition est envisagée peuvent investir globalement,, conformément à leur règlement de gestion ou leurs documents constitutifs, dans des parts d'autres OPCVM ou d'autres OPC ne dépasse pas 10% ;
+  - la proportion d'actifs que les OPCVM ou les autres OPC dont l'acquisition est envisagée peuvent investir globalement,, conformément à leur règlement de gestion ou leurs documents constitutifs, dans des parts d'autres OPCVM ou d'autres OPC ne dépasse pas 10% ;
 
-6. dépôts auprès d'un établissement de crédit remboursables sur demande ou pouvant être retirés et ayant une échéance inférieure ou égale à douze mois, à condition que l'établissement de crédit ait son siège statutaire dans un État membre ou, si le siège statutaire de l'établissement de crédit est situé dans un pays tiers, soit soumis à des règles prudentielles considérées par la CSSF comme équivalentes à celles prévues par la législation communautaire ;
+- dépôts auprès d'un établissement de crédit remboursables sur demande ou pouvant être retirés et ayant une échéance inférieure ou égale à douze mois, à condition que l'établissement de crédit ait son siège statutaire dans un État membre ou, si le siège statutaire de l'établissement de crédit est situé dans un pays tiers, soit soumis à des règles prudentielles considérées par la CSSF comme équivalentes à celles prévues par la législation communautaire ;
 
-7. instruments financiers dérivés, y compris les instruments assimilables donnant lieu à un règlement en espèces, qui sont négociés sur un marché réglementé du type visé aux points a), b) et c) ci-dessus ; ou instruments financiers dérivés négociés de gré à gré (« instruments dérivés de gré à gré »), à condition que
+- instruments financiers dérivés, y compris les instruments assimilables donnant lieu à un règlement en espèces, qui sont négociés sur un marché réglementé du type visé aux points a), b) et c) ci-dessus ; ou instruments financiers dérivés négociés de gré à gré (« instruments dérivés de gré à gré »), à condition que
 
-- le sous-jacent consiste en instruments relevant de l'article 41, paragraphe 1, en indices financiers, en taux d'intérêt, en taux de change ou en devises, dans lesquels l'OPCVM peut effectuer des placements conformément à ses objectifs d'investissement, tels qu'ils ressortent du règlement de gestion ou des documents constitutifs de l'OPCVM,
+  - le sous-jacent consiste en instruments relevant de l'article 41, paragraphe 1, en indices financiers, en taux d'intérêt, en taux de change ou en devises, dans lesquels l'OPCVM peut effectuer des placements conformément à ses objectifs d'investissement, tels qu'ils ressortent du règlement de gestion ou des documents constitutifs de l'OPCVM,
 
-- les contreparties aux transactions sur instruments dérivés de gré à gré soient des établissements soumis à une surveillance prudentielle et appartenant aux catégories agréées par la CSSF, et
+  - les contreparties aux transactions sur instruments dérivés de gré à gré soient des établissements soumis à une surveillance prudentielle et appartenant aux catégories agréées par la CSSF, et
 
-- les instruments dérivés de gré à gré fassent l'objet d'une évaluation fiable et vérifiable sur une base journalière et puissent, à l'initiative de l'OPCVM, être vendus, liquidés ou clôturés par une transaction symétrique, à tout moment et à leur juste valeur ;
+  - les instruments dérivés de gré à gré fassent l'objet d'une évaluation fiable et vérifiable sur une base journalière et puissent, à l'initiative de l'OPCVM, être vendus, liquidés ou clôturés par une transaction symétrique, à tout moment et à leur juste valeur ;
 
-8. instruments du marché monétaire autres que ceux négociés sur un marché réglementé et visés à l'article 1er, pour autant que l'émission ou l'émetteur de ces instruments soient soumis eux-mêmes à une réglementation visant à protéger les investisseurs et l'épargne et que ces instruments soient :
+- instruments du marché monétaire autres que ceux négociés sur un marché réglementé et visés à l'article 1er, pour autant que l'émission ou l'émetteur de ces instruments soient soumis eux-mêmes à une réglementation visant à protéger les investisseurs et l'épargne et que ces instruments soient :
 
-- émis ou garantis par une administration centrale, régionale ou locale, par une banque centrale d'un État membre, par la Banque Centrale Européenne, par l'Union européenne ou par la Banque Européenne d'Investissement, par un État tiers ou, dans le cas d'un État fédéral, par un des membres composant la fédération, ou par un organisme public international dont font partie un ou plusieurs États membres, ou
+  - émis ou garantis par une administration centrale, régionale ou locale, par une banque centrale d'un État membre, par la Banque Centrale Européenne, par l'Union européenne ou par la Banque Européenne d'Investissement, par un État tiers ou, dans le cas d'un État fédéral, par un des membres composant la fédération, ou par un organisme public international dont font partie un ou plusieurs États membres, ou
 
-- émis par une entreprise dont des titres sont négociés sur les marchés réglementés visés aux points a), b) ou c) ci-dessus, ou
+  - émis par une entreprise dont des titres sont négociés sur les marchés réglementés visés aux points a), b) ou c) ci-dessus, ou
 
-- émis ou garantis par un établissement soumis à une surveillance prudentielle selon les critères définis par le droit de l'Union, ou par un établissement qui est soumis et qui se conforme à des règles prudentielles considérées par la CSSF comme au moins aussi strictes que celles prévues par la législation communautaire, ou
+  - émis ou garantis par un établissement soumis à une surveillance prudentielle selon les critères définis par le droit de l'Union, ou par un établissement qui est soumis et qui se conforme à des règles prudentielles considérées par la CSSF comme au moins aussi strictes que celles prévues par la législation communautaire, ou
 
-- émis par d'autres entités appartenant aux catégories approuvées par la CSSF pour autant que les investissements dans ces instruments soient soumis à des règles de protection des investisseurs qui soient équivalentes à celles prévues aux premier, deuxième ou troisième tirets, et que l'émetteur soit une société dont le capital et les réserves s'élèvent au moins à dix millions d'euros (10.000.000 euros) et qui présente et publie ses comptes annuels conformément à la quatrième directive 78/660/CEE, soit une entité qui, au sein d'un groupe de sociétés incluant une ou plusieurs sociétés cotées, se consacre au financement du groupe ou soit une entité qui se consacre au financement de véhicules de titrisation bénéficiant d'une ligne de financement bancaire.
+  - émis par d'autres entités appartenant aux catégories approuvées par la CSSF pour autant que les investissements dans ces instruments soient soumis à des règles de protection des investisseurs qui soient équivalentes à celles prévues aux premier, deuxième ou troisième tirets, et que l'émetteur soit une société dont le capital et les réserves s'élèvent au moins à dix millions d'euros (10.000.000 euros) et qui présente et publie ses comptes annuels conformément à la quatrième directive 78/660/CEE, soit une entité qui, au sein d'un groupe de sociétés incluant une ou plusieurs sociétés cotées, se consacre au financement du groupe ou soit une entité qui se consacre au financement de véhicules de titrisation bénéficiant d'une ligne de financement bancaire.
 
 (2)
 
 Toutefois, un OPCVM ne peut :
 
-1. ni placer ses actifs à concurrence de plus de 10% dans des valeurs mobilières ou instruments du marché monétaire autres que ceux visés au paragraphe 1 ;
+- ni placer ses actifs à concurrence de plus de 10% dans des valeurs mobilières ou instruments du marché monétaire autres que ceux visés au paragraphe 1 ;
 
-2. ni acquérir des métaux précieux ou des certificats représentatifs de ceux-ci.
+- ni acquérir des métaux précieux ou des certificats représentatifs de ceux-ci.
 
 Un OPCVM peut détenir, à titre accessoire, des liquidités.
 
@@ -1322,15 +1322,15 @@ Les limites prévues aux deuxième, troisième et quatrième tirets peuvent ne p
 
 Les paragraphes 1 et 2 ne sont pas d'application en ce qui concerne :
 
-1. les valeurs mobilières et les instruments du marché monétaire émis ou garantis par un État membre ou ses collectivités publiques territoriales ;
+- les valeurs mobilières et les instruments du marché monétaire émis ou garantis par un État membre ou ses collectivités publiques territoriales ;
 
-2. les valeurs mobilières et les instruments du marché monétaire émis ou garantis par un État qui ne fait pas partie de l'Union européenne ;
+- les valeurs mobilières et les instruments du marché monétaire émis ou garantis par un État qui ne fait pas partie de l'Union européenne ;
 
-3. les valeurs mobilières et les instruments du marché monétaire émis par des organismes internationaux à caractère public dont un ou plusieurs États membres de l'Union européenne font partie ;
+- les valeurs mobilières et les instruments du marché monétaire émis par des organismes internationaux à caractère public dont un ou plusieurs États membres de l'Union européenne font partie ;
 
-4. les actions détenues par un OPCVM dans le capital d'une société d'un État tiers à l'Union européenne investissant ses actifs essentiellement en titres d'émetteurs ressortissants de cet État lorsque, en vertu de la législation de celui-ci, une telle participation constitue pour l'OPCVM la seule possibilité d'investir en titres d'émetteurs de cet État. Cette dérogation n'est cependant applicable qu'à la condition que la société de l'État tiers à l'Union européenne respecte dans sa politique de placement les limites établies par les articles 43 et 46 et l'article 48, paragraphes 1 et 2. En cas de dépassement des limites prévues aux articles 43 et 46, l'article 49 s'applique mutatis mutandis ;
+- les actions détenues par un OPCVM dans le capital d'une société d'un État tiers à l'Union européenne investissant ses actifs essentiellement en titres d'émetteurs ressortissants de cet État lorsque, en vertu de la législation de celui-ci, une telle participation constitue pour l'OPCVM la seule possibilité d'investir en titres d'émetteurs de cet État. Cette dérogation n'est cependant applicable qu'à la condition que la société de l'État tiers à l'Union européenne respecte dans sa politique de placement les limites établies par les articles 43 et 46 et l'article 48, paragraphes 1 et 2. En cas de dépassement des limites prévues aux articles 43 et 46, l'article 49 s'applique mutatis mutandis ;
 
-5. les actions détenues par une ou plusieurs sociétés d'investissement dans le capital des sociétés filiales exerçant des activités de gestion, de conseil ou de commercialisation dans le pays où la filiale est établie en ce qui concerne le rachat de parts à la demande des porteurs exclusivement pour son compte ou pour leur compte.
+- les actions détenues par une ou plusieurs sociétés d'investissement dans le capital des sociétés filiales exerçant des activités de gestion, de conseil ou de commercialisation dans le pays où la filiale est établie en ce qui concerne le rachat de parts à la demande des porteurs exclusivement pour son compte ou pour leur compte.
 
 <a id="art-49"></a>
 ## Art. 49.
@@ -1366,13 +1366,13 @@ Toutefois, un OPCVM peut acquérir des devises par le truchement de prêts crois
 
 Par dérogation au paragraphe 1, les OPCVM peuvent emprunter pour autant que ces emprunts :
 
-1. soient temporaires et représentent :
+- soient temporaires et représentent :
 
-- dans le cas de sociétés d'investissement, au maximum 10% de leurs actifs, ou
+  - dans le cas de sociétés d'investissement, au maximum 10% de leurs actifs, ou
 
-- dans le cas de fonds communs de placement, au maximum 10% de la valeur du fonds, ou
+  - dans le cas de fonds communs de placement, au maximum 10% de la valeur du fonds, ou
 
-2. permettent l'acquisition de biens immobiliers indispensables à l'exercice direct de leurs activités et représentent, dans le cas de sociétés d'investissement, au maximum 10% de leurs actifs.
+- permettent l'acquisition de biens immobiliers indispensables à l'exercice direct de leurs activités et représentent, dans le cas de sociétés d'investissement, au maximum 10% de leurs actifs.
 
 Lorsqu'un OPCVM est autorisé à emprunter au titre des points a) et b), ces emprunts ne dépassent pas, au total, 15% de ses actifs.
 
@@ -1430,17 +1430,17 @@ Les OPCVM peuvent utiliser des outils de gestion de la liquidité supplémentair
 
 Un OPCVM doit, dans chaque État membre où il commercialise ses parts, ou où il a l'intention de commercialiser ses parts, prendre des dispositions permettant d'exécuter les tâches suivantes :
 
-1. traiter les ordres de souscription, de rachat et de remboursement et effectuer les autres paiements aux porteurs de parts de l'OPCVM, conformément aux conditions énoncées dans les documents requis en vertu du chapitre 21 ;
+- traiter les ordres de souscription, de rachat et de remboursement et effectuer les autres paiements aux porteurs de parts de l'OPCVM, conformément aux conditions énoncées dans les documents requis en vertu du chapitre 21 ;
 
-2. informer les investisseurs de la manière dont les ordres visés au point a) peuvent être passés et des modalités de versement des recettes provenant de rachats et de remboursements ;
+- informer les investisseurs de la manière dont les ordres visés au point a) peuvent être passés et des modalités de versement des recettes provenant de rachats et de remboursements ;
 
-3. faciliter le traitement des informations et l'accès aux procédures et modalités visées à l'article 112 relatives à l'exercice, par les investisseurs, des droits liés à leur investissement dans l'OPCVM dans l'État membre où est commercialisé ce dernier ;
+- faciliter le traitement des informations et l'accès aux procédures et modalités visées à l'article 112 relatives à l'exercice, par les investisseurs, des droits liés à leur investissement dans l'OPCVM dans l'État membre où est commercialisé ce dernier ;
 
-4. mettre les informations et les documents requis en vertu du chapitre 21 à la disposition des investisseurs, dans les conditions définies à l'article 55, pour examen et pour l'obtention de copies ;
+- mettre les informations et les documents requis en vertu du chapitre 21 à la disposition des investisseurs, dans les conditions définies à l'article 55, pour examen et pour l'obtention de copies ;
 
-5. fournir aux investisseurs, sur un support durable, les informations relatives aux dispositions permettant d'exécuter les tâches prévues aux points a) à f) ; et
+- fournir aux investisseurs, sur un support durable, les informations relatives aux dispositions permettant d'exécuter les tâches prévues aux points a) à f) ; et
 
-6. faire office de point de contact pour communiquer avec les autorités compétentes.
+- faire office de point de contact pour communiquer avec les autorités compétentes.
 
 (2)
 
@@ -1450,9 +1450,9 @@ Aux fins du paragraphe 1er, l'OPCVM n'est pas tenu d'avoir une présence physiqu
 
 L'OPCVM veille à ce que les dispositions permettant d'exécuter les tâches visées au paragraphe 1er puissent être fournies, y compris électroniquement :
 
-1. dans la langue officielle ou l'une des langues officielles de l'État membre où l'OPCVM est commercialisé ou dans une langue approuvée par les autorités compétentes de cet État membre ;
+- dans la langue officielle ou l'une des langues officielles de l'État membre où l'OPCVM est commercialisé ou dans une langue approuvée par les autorités compétentes de cet État membre ;
 
-2. par l'OPCVM lui-même, par un tiers soumis à une réglementation et à une surveillance régissant les tâches susmentionnées, ou par les deux à la fois.
+- par l'OPCVM lui-même, par un tiers soumis à une réglementation et à une surveillance régissant les tâches susmentionnées, ou par les deux à la fois.
 
 Aux fins du point b), lorsque les tâches doivent être exécutées par un tiers, la désignation de ce tiers fait l'objet d'un contrat écrit qui précise quelles tâches, parmi celles visées au paragraphe 1er, ne doivent pas être exécutées par l'OPCVM, et que le tiers recevra toutes les informations et tous les documents utiles de la part de l'OPCVM.
 
@@ -1471,9 +1471,9 @@ La lettre de notification comprend également les informations, y compris l'adre
 
 L'OPCVM joint à la lettre de notification visée au paragraphe 1 la dernière version en date des documents suivants :
 
-1. son règlement de gestion ou ses documents constitutifs, son prospectus et, le cas échéant, son dernier rapport annuel et un éventuel rapport semestriel ultérieur, traduits conformément aux dispositions de l'article 55, paragraphe 1, points c) et d) ; et
+- son règlement de gestion ou ses documents constitutifs, son prospectus et, le cas échéant, son dernier rapport annuel et un éventuel rapport semestriel ultérieur, traduits conformément aux dispositions de l'article 55, paragraphe 1, points c) et d) ; et
 
-2. ses informations clés pour l'investisseur visées à l'article 159, traduites conformément à l'article 55, paragraphe 1, points b) et d).
+- ses informations clés pour l'investisseur visées à l'article 159, traduites conformément à l'article 55, paragraphe 1, points b) et d).
 
 (3)
 
@@ -1500,11 +1500,11 @@ Lorsqu'une modification visée à l'alinéa 1er est mise en œuvre après qu'une
 
 Un OPCVM peut retirer la notification des modalités prévues pour la commercialisation de parts, y compris, le cas échéant, de catégories de parts, dans un État membre vis-à-vis duquel il a procédé à une notification conformément à l'article 54, lorsque toutes les conditions suivantes sont remplies :
 
-1. une offre générale de rachat ou de remboursement est faite, sans frais ou déductions, pour toutes ces parts détenues par des investisseurs dans ledit État membre, est accessible au public pendant au moins trente jours ouvrables et est adressée, pour autant que leur identité est connue, directement ou par des intermédiaires financiers, individuellement à tous les investisseurs dans ledit État membre ;
+- une offre générale de rachat ou de remboursement est faite, sans frais ou déductions, pour toutes ces parts détenues par des investisseurs dans ledit État membre, est accessible au public pendant au moins trente jours ouvrables et est adressée, pour autant que leur identité est connue, directement ou par des intermédiaires financiers, individuellement à tous les investisseurs dans ledit État membre ;
 
-2. l'intention de mettre un terme aux modalités prévues pour commercialiser ces parts dans ledit État membre est rendue publique sur un support accessible au public qui est usuel pour la commercialisation d'OPCVM et adapté à un investisseur type d'OPCVM, y compris par des moyens électroniques ;
+- l'intention de mettre un terme aux modalités prévues pour commercialiser ces parts dans ledit État membre est rendue publique sur un support accessible au public qui est usuel pour la commercialisation d'OPCVM et adapté à un investisseur type d'OPCVM, y compris par des moyens électroniques ;
 
-3. toutes dispositions contractuelles avec des intermédiaires financiers ou des délégataires sont modifiées ou supprimées avec effet à partir de la date du retrait de la notification afin d'empêcher toute activité nouvelle ou supplémentaire, directe ou indirecte, d'offre ou de placement des parts identifiées dans la notification visée au paragraphe 2.
+- toutes dispositions contractuelles avec des intermédiaires financiers ou des délégataires sont modifiées ou supprimées avec effet à partir de la date du retrait de la notification afin d'empêcher toute activité nouvelle ou supplémentaire, directe ou indirecte, d'offre ou de placement des parts identifiées dans la notification visée au paragraphe 2.
 
 Les informations visées à l'alinéa 1er, points a) et b), décrivent clairement les conséquences pour les investisseurs s'ils n'acceptent pas l'offre de rachat ou de remboursement de leurs parts. Ces informations sont fournies dans la langue officielle ou l'une des langues officielles de l'État membre vis-à-vis duquel l'OPCVM a procédé à une notification conformément à l'article 54 ou dans une langue approuvée par les autorités compétentes dudit État membre.
 
@@ -1535,13 +1535,13 @@ Si un OPCVM commercialise ses parts dans un autre État membre, il doit fournir 
 
 Ces informations et ces documents sont fournis aux investisseurs dans le respect des dispositions suivantes :
 
-1. sans préjudice des dispositions du chapitre 21, ces informations ou documents sont fournis aux investisseurs conformément aux dispositions législatives, réglementaires et administratives de l'État membre d'accueil de l'OPCVM ;
+- sans préjudice des dispositions du chapitre 21, ces informations ou documents sont fournis aux investisseurs conformément aux dispositions législatives, réglementaires et administratives de l'État membre d'accueil de l'OPCVM ;
 
-2. les informations clés pour l'investisseur visées à l'article 159 de la loi sont traduites dans la langue officielle ou dans l'une des langues officielles de l'État membre d'accueil de l'OPCVM ou dans une langue acceptée par les autorités compétentes de cet État membre ;
+- les informations clés pour l'investisseur visées à l'article 159 de la loi sont traduites dans la langue officielle ou dans l'une des langues officielles de l'État membre d'accueil de l'OPCVM ou dans une langue acceptée par les autorités compétentes de cet État membre ;
 
-3. les informations et les documents autres que les informations clés pour l'investisseur visées à l'article 159 de la loi sont traduits, au choix de l'OPCVM, dans la langue officielle ou dans l'une des langues officielles de l'État membre d'accueil de l'OPCVM, dans une langue acceptée par les autorités compétentes de cet État membre ou dans une langue usuelle dans la sphère financière internationale ; et
+- les informations et les documents autres que les informations clés pour l'investisseur visées à l'article 159 de la loi sont traduits, au choix de l'OPCVM, dans la langue officielle ou dans l'une des langues officielles de l'État membre d'accueil de l'OPCVM, dans une langue acceptée par les autorités compétentes de cet État membre ou dans une langue usuelle dans la sphère financière internationale ; et
 
-4. les traductions d'informations et de documents au titre des points b) et c) sont fournies sous la responsabilité de l'OPCVM et sont le reflet fidèle des informations originales.
+- les traductions d'informations et de documents au titre des points b) et c) sont fournies sous la responsabilité de l'OPCVM et sont le reflet fidèle des informations originales.
 
 (2)
 
@@ -1575,17 +1575,17 @@ Les dispositions des articles 53 à 57 sont également d'application, dans les l
 
 Un OPCVM établi dans un autre État membre qui commercialise ou qui a l'intention de commercialiser ses parts au Luxembourg doit prendre au Luxembourg des dispositions permettant d'exécuter les tâches suivantes :
 
-1. traiter les ordres de souscription, de rachat et de remboursement et effectuer les autres paiements aux porteurs de parts de l'OPCVM, conformément aux conditions énoncées dans les documents requis en vertu du chapitre IX de la directive 2009/65/CE ;
+- traiter les ordres de souscription, de rachat et de remboursement et effectuer les autres paiements aux porteurs de parts de l'OPCVM, conformément aux conditions énoncées dans les documents requis en vertu du chapitre IX de la directive 2009/65/CE ;
 
-2. informer les investisseurs de la manière dont les ordres visés au point a) peuvent être passés et des modalités de versement des recettes provenant de rachats et de remboursements ;
+- informer les investisseurs de la manière dont les ordres visés au point a) peuvent être passés et des modalités de versement des recettes provenant de rachats et de remboursements ;
 
-3. faciliter le traitement des informations et l'accès aux procédures et modalités visées à l'article 15 de la directive 2009/65/CE relatives à l'exercice, par les investisseurs, des droits liés à leur investissement dans l'OPCVM ;
+- faciliter le traitement des informations et l'accès aux procédures et modalités visées à l'article 15 de la directive 2009/65/CE relatives à l'exercice, par les investisseurs, des droits liés à leur investissement dans l'OPCVM ;
 
-4. mettre les informations et les documents requis en vertu du chapitre IX de la directive 2009/65/CE à la disposition des investisseurs, dans les conditions définies à l'article 94 de ladite directive, pour examen et pour l'obtention de copies ;
+- mettre les informations et les documents requis en vertu du chapitre IX de la directive 2009/65/CE à la disposition des investisseurs, dans les conditions définies à l'article 94 de ladite directive, pour examen et pour l'obtention de copies ;
 
-5. fournir aux investisseurs, sur un support durable, les informations relatives aux dispositions permettant d'exécuter les tâches prévues aux points a) à f) ; et
+- fournir aux investisseurs, sur un support durable, les informations relatives aux dispositions permettant d'exécuter les tâches prévues aux points a) à f) ; et
 
-6. faire office de point de contact pour communiquer avec la CSSF.
+- faire office de point de contact pour communiquer avec la CSSF.
 
 (2)
 
@@ -1595,9 +1595,9 @@ Aux fins du paragraphe 1er, l'OPCVM n'est pas tenu d'avoir une présence physiqu
 
 L'OPCVM veille à ce que les dispositions permettant d'exécuter les tâches visées au paragraphe 1er puissent être fournies, y compris électroniquement :
 
-1. dans une des langues luxembourgeoise, française, allemande ou anglaise ;
+- dans une des langues luxembourgeoise, française, allemande ou anglaise ;
 
-2. par l'OPCVM lui-même, par un tiers soumis à une réglementation et à une surveillance régissant les tâches susmentionnées, ou par les deux à la fois.
+- par l'OPCVM lui-même, par un tiers soumis à une réglementation et à une surveillance régissant les tâches susmentionnées, ou par les deux à la fois.
 
 Aux fins du point b), lorsque les tâches doivent être exécutées par un tiers, la désignation de ce tiers fait l'objet d'un contrat écrit qui précise quelles tâches, parmi celles visées au paragraphe 1er, ne doivent pas être exécutées par l'OPCVM, et que le tiers recevra toutes les informations et tous les documents utiles de la part de l'OPCVM.
 
@@ -1621,11 +1621,11 @@ En cas de modification des informations contenues dans la lettre de notification
 
 Un OPCVM établi dans un autre État membre qui a procédé à une notification conformément à l'article 93 de la directive 2009/65/CE, peut retirer la notification des modalités prévues pour la commercialisation de parts au Luxembourg, y compris, le cas échéant, de catégories de parts, lorsque toutes les conditions suivantes sont remplies :
 
-1. une offre générale de rachat ou de remboursement est faite, sans frais ou déductions, pour toutes ces parts détenues par des investisseurs au Luxembourg, est accessible au public pendant au moins trente jours ouvrables et est adressée, pour autant que leur identité est connue, directement ou par des intermédiaires financiers, individuellement à tous les investisseurs au Luxembourg ;
+- une offre générale de rachat ou de remboursement est faite, sans frais ou déductions, pour toutes ces parts détenues par des investisseurs au Luxembourg, est accessible au public pendant au moins trente jours ouvrables et est adressée, pour autant que leur identité est connue, directement ou par des intermédiaires financiers, individuellement à tous les investisseurs au Luxembourg ;
 
-2. l'intention de mettre un terme aux modalités prévues pour commercialiser ces parts au Luxembourg est rendue publique sur un support accessible au public qui est usuel pour la commercialisation d'OPCVM et adapté à un investisseur type d'OPCVM, y compris par des moyens électroniques ;
+- l'intention de mettre un terme aux modalités prévues pour commercialiser ces parts au Luxembourg est rendue publique sur un support accessible au public qui est usuel pour la commercialisation d'OPCVM et adapté à un investisseur type d'OPCVM, y compris par des moyens électroniques ;
 
-3. toutes dispositions contractuelles avec des intermédiaires financiers ou des délégataires sont modifiées ou supprimées avec effet à partir de la date du retrait de la notification afin d'empêcher toute activité nouvelle ou supplémentaire, directe ou indirecte, d'offre ou de placement des parts identifiées dans la notification visée à l'article 93bis, paragraphe 2, de la directive 2009/65/CE.
+- toutes dispositions contractuelles avec des intermédiaires financiers ou des délégataires sont modifiées ou supprimées avec effet à partir de la date du retrait de la notification afin d'empêcher toute activité nouvelle ou supplémentaire, directe ou indirecte, d'offre ou de placement des parts identifiées dans la notification visée à l'article 93bis, paragraphe 2, de la directive 2009/65/CE.
 
 Les informations visées à l'alinéa 1er, points a) et b), décrivent clairement les conséquences pour les investisseurs s'ils n'acceptent pas l'offre de rachat ou de remboursement de leurs parts. Ces informations sont fournies dans une des langues luxembourgeoise, française, allemande ou anglaise.
 
@@ -1650,11 +1650,11 @@ Si un OPCVM établi dans autre État membre commercialise ses parts au Luxembour
 
 Ces informations et ces documents sont fournis aux investisseurs dans le respect des dispositions suivantes :
 
-1. sans préjudice des dispositions du chapitre IX de la directive 2009/65/CE, ces informations ou documents sont fournis aux investisseurs conformément aux dispositions législatives, réglementaires et administratives qui sont en vigueur au Luxembourg ;
+- sans préjudice des dispositions du chapitre IX de la directive 2009/65/CE, ces informations ou documents sont fournis aux investisseurs conformément aux dispositions législatives, réglementaires et administratives qui sont en vigueur au Luxembourg ;
 
-2. les informations clés pour l'investisseur visées à l'article 78 de la directive 2009/65/CE ainsi que les informations et les documents autres que les informations clés pour l'investisseur visées à l'article 78 de la directive 2009/65/CE sont traduits dans une des langues luxembourgeoise, française, allemande ou anglaise.
+- les informations clés pour l'investisseur visées à l'article 78 de la directive 2009/65/CE ainsi que les informations et les documents autres que les informations clés pour l'investisseur visées à l'article 78 de la directive 2009/65/CE sont traduits dans une des langues luxembourgeoise, française, allemande ou anglaise.
 
-3. les traductions d'informations et de documents au titre du point b) sont fournies sous la responsabilité de l'OPCVM et sont le reflet fidèle des informations originales.
+- les traductions d'informations et de documents au titre du point b) sont fournies sous la responsabilité de l'OPCVM et sont le reflet fidèle des informations originales.
 
 (2)
 
@@ -1732,13 +1732,13 @@ Lorsque l'OPCVM absorbé est un OPCVM établi au Luxembourg, une fusion est subo
 
 L'OPCVM absorbé communique les informations suivantes à la CSSF :
 
-1. le projet commun de la fusion proposée, dûment approuvé par l'OPCVM absorbé et l'OPCVM absorbeur ;
+- le projet commun de la fusion proposée, dûment approuvé par l'OPCVM absorbé et l'OPCVM absorbeur ;
 
-2. une version actualisée du prospectus et des informations clés pour l'investisseur, visées à l'article 78 de la directive 2009/65/CE, de l'OPCVM absorbeur, s'il est établi dans un autre État membre ;
+- une version actualisée du prospectus et des informations clés pour l'investisseur, visées à l'article 78 de la directive 2009/65/CE, de l'OPCVM absorbeur, s'il est établi dans un autre État membre ;
 
-3. une déclaration émise par chacun des dépositaires des OPCVM absorbé et absorbeur confirmant que, conformément à l'article 70, ils ont vérifié la conformité des éléments d'information énoncés à l'article 69, paragraphe 1, points a), f) et g), avec les exigences de la présente loi et avec le règlement de gestion ou avec les documents constitutifs de leur OPCVM respectif. Au cas où l'OPCVM absorbeur est établi dans un autre État membre, cette déclaration émise par le dépositaire de l'OPCVM absorbeur confirme que, conformément à l'article 41 de la directive 2009/65/CE, la conformité des éléments d'information énoncés à l'article 40, paragraphe 1, points a), f) et g), avec les exigences de la directive 2009/65/CE et avec le règlement de gestion ou avec les documents constitutifs de l'OPCVM absorbeur a été vérifié ; et
+- une déclaration émise par chacun des dépositaires des OPCVM absorbé et absorbeur confirmant que, conformément à l'article 70, ils ont vérifié la conformité des éléments d'information énoncés à l'article 69, paragraphe 1, points a), f) et g), avec les exigences de la présente loi et avec le règlement de gestion ou avec les documents constitutifs de leur OPCVM respectif. Au cas où l'OPCVM absorbeur est établi dans un autre État membre, cette déclaration émise par le dépositaire de l'OPCVM absorbeur confirme que, conformément à l'article 41 de la directive 2009/65/CE, la conformité des éléments d'information énoncés à l'article 40, paragraphe 1, points a), f) et g), avec les exigences de la directive 2009/65/CE et avec le règlement de gestion ou avec les documents constitutifs de l'OPCVM absorbeur a été vérifié ; et
 
-4. les informations relatives à la fusion proposée que les OPCVM absorbeur et absorbé comptent fournir à leurs porteurs de parts respectifs. Ces informations sont fournies à la CSSF dans une des langues luxembourgeoise, française, allemande ou anglaise.
+- les informations relatives à la fusion proposée que les OPCVM absorbeur et absorbé comptent fournir à leurs porteurs de parts respectifs. Ces informations sont fournies à la CSSF dans une des langues luxembourgeoise, française, allemande ou anglaise.
 
 (3)
 
@@ -1764,21 +1764,21 @@ La CSSF informe l'OPCVM absorbé, dans les vingt jours ouvrables qui suivent la 
 
 Lorsque l'OPCVM absorbeur n'est pas établi au Luxembourg et que :
 
-1. la fusion proposée est conforme à toutes les exigences des articles 67, 69, 70 et 71 ; et
+- la fusion proposée est conforme à toutes les exigences des articles 67, 69, 70 et 71 ; et
 
-2. l'OPCVM absorbeur a fait l'objet d'une notification, conformément à l'article 60, pour la commercialisation de ses parts au Luxembourg et dans tous les États membres où l'OPCVM absorbé soit est autorisé, soit a fait l'objet d'une notification pour la commercialisation de ses parts conformément à l'article 60 ; et
+- l'OPCVM absorbeur a fait l'objet d'une notification, conformément à l'article 60, pour la commercialisation de ses parts au Luxembourg et dans tous les États membres où l'OPCVM absorbé soit est autorisé, soit a fait l'objet d'une notification pour la commercialisation de ses parts conformément à l'article 60 ; et
 
-3. la CSSF et les autorités compétentes de l'État membre d'origine de l'OPCVM absorbeur considèrent comme satisfaisantes les informations qu'il est proposé de fournir aux porteurs de parts, ou aucune indication marquant une insatisfaction de la part des autorités compétentes de l'État membre d'origine de l'OPCVM absorbeur n'a été reçue au titre du paragraphe 4 (a), quatrième alinéa,
+- la CSSF et les autorités compétentes de l'État membre d'origine de l'OPCVM absorbeur considèrent comme satisfaisantes les informations qu'il est proposé de fournir aux porteurs de parts, ou aucune indication marquant une insatisfaction de la part des autorités compétentes de l'État membre d'origine de l'OPCVM absorbeur n'a été reçue au titre du paragraphe 4 (a), quatrième alinéa,
 
 la CSSF autorise la fusion proposée si ces conditions sont remplies. La CSSF communique aussi sa décision aux autorités compétentes de l'État membre d'origine de l'OPCVM absorbeur.
 
 Lorsque l'OPCVM absorbeur est également établi au Luxembourg et que :
 
-1. la fusion proposée est conforme à toutes les exigences des articles 67, 69, 70 et 71 ; et
+- la fusion proposée est conforme à toutes les exigences des articles 67, 69, 70 et 71 ; et
 
-2. l'OPCVM absorbeur a fait l'objet d'une notification, conformément à l'article 60, pour la commercialisation de ses parts dans tous les États membres où l'OPCVM absorbé soit est autorisé, soit a fait l'objet d'une notification pour la commercialisation de ses parts conformément à l'article 60 ; et
+- l'OPCVM absorbeur a fait l'objet d'une notification, conformément à l'article 60, pour la commercialisation de ses parts dans tous les États membres où l'OPCVM absorbé soit est autorisé, soit a fait l'objet d'une notification pour la commercialisation de ses parts conformément à l'article 60 ; et
 
-3. la CSSF considère comme satisfaisantes les informations qu'il est proposé de fournir aux porteurs de parts de l'OPCVM absorbé et de l'OPCVM absorbeur,
+- la CSSF considère comme satisfaisantes les informations qu'il est proposé de fournir aux porteurs de parts de l'OPCVM absorbé et de l'OPCVM absorbeur,
 
 la CSSF autorise la fusion proposée si ces conditions sont remplies.
 
@@ -1808,21 +1808,21 @@ Tout en veillant au respect du principe de la répartition des risques, l'OPCVM 
 
 L'OPCVM absorbé et l'OPCVM absorbeur doivent rédiger un projet commun de fusion. Le projet commun de fusion expose les éléments suivants :
 
-1. une identification du type de fusion et des OPCVM concernés ;
+- une identification du type de fusion et des OPCVM concernés ;
 
-2. le contexte et la motivation de la fusion proposée ;
+- le contexte et la motivation de la fusion proposée ;
 
-3. l'incidence prévue de la fusion proposée sur les porteurs de parts tant de l'OPCVM absorbé que de l'OPCVM absorbeur ;
+- l'incidence prévue de la fusion proposée sur les porteurs de parts tant de l'OPCVM absorbé que de l'OPCVM absorbeur ;
 
-4. les critères adoptés pour l'évaluation de l'actif et, le cas échéant, du passif à la date de calcul du ratio d'échange visée à l'article 75, paragraphe 1 ;
+- les critères adoptés pour l'évaluation de l'actif et, le cas échéant, du passif à la date de calcul du ratio d'échange visée à l'article 75, paragraphe 1 ;
 
-5. la méthode de calcul du ratio d'échange ;
+- la méthode de calcul du ratio d'échange ;
 
-6. la date d'effet prévue pour la fusion ;
+- la date d'effet prévue pour la fusion ;
 
-7. les règles applicables respectivement au transfert d'actifs et à l'échange de parts ; et
+- les règles applicables respectivement au transfert d'actifs et à l'échange de parts ; et
 
-8. en cas de fusion conformément à l'article 1, point 20) b), et, le cas échéant, à l'article 1, point 20) c) ou le cas échéant conformément à l'article 2, paragraphe 1, point p) ii), et le cas échéant à l'article 2, paragraphe 1, point p) iii) de la directive 2009/65/CE, le règlement de gestion ou les documents constitutifs de l'OPCVM absorbeur nouvellement constitué.
+- en cas de fusion conformément à l'article 1, point 20) b), et, le cas échéant, à l'article 1, point 20) c) ou le cas échéant conformément à l'article 2, paragraphe 1, point p) ii), et le cas échéant à l'article 2, paragraphe 1, point p) iii) de la directive 2009/65/CE, le règlement de gestion ou les documents constitutifs de l'OPCVM absorbeur nouvellement constitué.
 
 (2)
 
@@ -1842,11 +1842,11 @@ Les dépositaires de l'OPCVM absorbé et de l'OPCVM absorbeur, pour autant que l
 
 L'OPCVM absorbé établi à Luxembourg doit charger un réviseur d'entreprise agréé, ou le cas échéant un contrôleur légal des comptes indépendant de valider les éléments suivants :
 
-1. les critères adoptés pour l'évaluation de l'actif et, le cas échéant, du passif à la date de calcul du ratio d'échange visée à l'article 75, paragraphe 1 ;
+- les critères adoptés pour l'évaluation de l'actif et, le cas échéant, du passif à la date de calcul du ratio d'échange visée à l'article 75, paragraphe 1 ;
 
-2. le cas échéant, le paiement en espèces par part ; et
+- le cas échéant, le paiement en espèces par part ; et
 
-3. la méthode de calcul du ratio d'échange, ainsi que le ratio réel d'échange déterminé à la date de calcul de ce ratio visée à l'article 75, paragraphe 1.
+- la méthode de calcul du ratio d'échange, ainsi que le ratio réel d'échange déterminé à la date de calcul de ce ratio visée à l'article 75, paragraphe 1.
 
 (2)
 
@@ -1875,15 +1875,15 @@ Les informations à fournir aux porteurs de parts de l'OPCVM absorbé et/ou de l
 
 Elles comprennent les éléments suivants :
 
-1. le contexte et la motivation de la fusion proposée ;
+- le contexte et la motivation de la fusion proposée ;
 
-2. l'incidence possible de la fusion proposée sur les porteurs de parts, y compris, notamment, toutes différences substantielles en ce qui concerne la politique et la stratégie de placement, les coûts, les résultats attendus, la présentation périodique de rapports et le risque de dilution de la performance ainsi que, le cas échéant, un avertissement bien visible aux investisseurs sur le fait que leur régime fiscal pourrait changer à la suite de la fusion ;
+- l'incidence possible de la fusion proposée sur les porteurs de parts, y compris, notamment, toutes différences substantielles en ce qui concerne la politique et la stratégie de placement, les coûts, les résultats attendus, la présentation périodique de rapports et le risque de dilution de la performance ainsi que, le cas échéant, un avertissement bien visible aux investisseurs sur le fait que leur régime fiscal pourrait changer à la suite de la fusion ;
 
-3. tous droits spécifiques des porteurs de parts en rapport avec la fusion proposée, y compris, notamment, le droit d'obtenir des informations complémentaires, le droit d'obtenir sur demande un exemplaire du rapport du réviseur d'entreprise agréé ou le cas échéant du contrôleur légal des comptes indépendant ou de celui du dépositaire (si applicable dans l'État membre d'origine de l'OPCVM absorbeur ou absorbé) et le droit de demander le rachat ou le remboursement ou, le cas échéant, la conversion de leurs parts sans frais conformément à l'article 73, paragraphe 1, ainsi que la date ultime à laquelle ce droit peut être exercé ;
+- tous droits spécifiques des porteurs de parts en rapport avec la fusion proposée, y compris, notamment, le droit d'obtenir des informations complémentaires, le droit d'obtenir sur demande un exemplaire du rapport du réviseur d'entreprise agréé ou le cas échéant du contrôleur légal des comptes indépendant ou de celui du dépositaire (si applicable dans l'État membre d'origine de l'OPCVM absorbeur ou absorbé) et le droit de demander le rachat ou le remboursement ou, le cas échéant, la conversion de leurs parts sans frais conformément à l'article 73, paragraphe 1, ainsi que la date ultime à laquelle ce droit peut être exercé ;
 
-4. les aspects pertinents de la procédure et la date d'effet prévue de la fusion ; et
+- les aspects pertinents de la procédure et la date d'effet prévue de la fusion ; et
 
-5. un exemplaire des informations clés pour l'investisseur, visées à l'article 159, ou le cas échéant à l'article 78 de la directive 2009/65/CE, concernant l'OPCVM absorbeur.
+- un exemplaire des informations clés pour l'investisseur, visées à l'article 159, ou le cas échéant à l'article 78 de la directive 2009/65/CE, concernant l'OPCVM absorbeur.
 
 (4)
 
@@ -1929,31 +1929,31 @@ Une fusion qui a pris effet conformément au paragraphe 1 ne peut être déclar�
 
 Une fusion effectuée conformément à l'article 1, point 20) a), a les conséquences suivantes :
 
-1. tout l'actif et tout le passif de l'OPCVM absorbé sont transférés à l'OPCVM absorbeur ou, le cas échéant, au dépositaire de l'OPCVM absorbeur ;
+- tout l'actif et tout le passif de l'OPCVM absorbé sont transférés à l'OPCVM absorbeur ou, le cas échéant, au dépositaire de l'OPCVM absorbeur ;
 
-2. les porteurs de parts de l'OPCVM absorbé deviennent porteurs de parts de l'OPCVM absorbeur et, le cas échéant, ils ont droit à un paiement en espèces ne dépassant pas 10 % de la valeur nette d'inventaire de leurs parts dans l'OPCVM absorbé ; et
+- les porteurs de parts de l'OPCVM absorbé deviennent porteurs de parts de l'OPCVM absorbeur et, le cas échéant, ils ont droit à un paiement en espèces ne dépassant pas 10 % de la valeur nette d'inventaire de leurs parts dans l'OPCVM absorbé ; et
 
-3. l'OPCVM absorbé établi au Luxembourg cesse d'exister à la date de prise d'effet de la fusion.
+- l'OPCVM absorbé établi au Luxembourg cesse d'exister à la date de prise d'effet de la fusion.
 
 (2)
 
 Une fusion effectuée conformément à l'article 1, point 20) b), a les conséquences suivantes :
 
-1. tout l'actif et tout le passif des OPCVM absorbés sont transférés à l'OPCVM absorbeur nouvellement constitué ou, le cas échéant, au dépositaire de l'OPCVM absorbeur ;
+- tout l'actif et tout le passif des OPCVM absorbés sont transférés à l'OPCVM absorbeur nouvellement constitué ou, le cas échéant, au dépositaire de l'OPCVM absorbeur ;
 
-2. les porteurs de parts des OPCVM absorbés deviennent porteurs de parts de l'OPCVM absorbeur nouvellement constitué et, le cas échéant, ils ont droit à un paiement en espèces ne dépassant pas 10 % de la valeur nette d'inventaire de leurs parts dans les OPCVM absorbés ; et
+- les porteurs de parts des OPCVM absorbés deviennent porteurs de parts de l'OPCVM absorbeur nouvellement constitué et, le cas échéant, ils ont droit à un paiement en espèces ne dépassant pas 10 % de la valeur nette d'inventaire de leurs parts dans les OPCVM absorbés ; et
 
-3. les OPCVM absorbés établis au Luxembourg cessent d'exister à la date de prise d'effet de la fusion.
+- les OPCVM absorbés établis au Luxembourg cessent d'exister à la date de prise d'effet de la fusion.
 
 (3)
 
 Une fusion effectuée conformément à l'article 1, point 20) c), a les conséquences suivantes :
 
-1. les actifs nets de l'OPCVM absorbé sont transférés à l'OPCVM absorbeur ou, le cas échéant, au dépositaire de l'OPCVM absorbeur ;
+- les actifs nets de l'OPCVM absorbé sont transférés à l'OPCVM absorbeur ou, le cas échéant, au dépositaire de l'OPCVM absorbeur ;
 
-2. les porteurs de parts de l'OPCVM absorbé deviennent porteurs de parts de l'OPCVM absorbeur ; et
+- les porteurs de parts de l'OPCVM absorbé deviennent porteurs de parts de l'OPCVM absorbeur ; et
 
-3. l'OPCVM absorbé établi au Luxembourg continue d'exister jusqu'à ce que le passif ait été apuré.
+- l'OPCVM absorbé établi au Luxembourg continue d'exister jusqu'à ce que le passif ait été apuré.
 
 (4)
 
@@ -1974,35 +1974,35 @@ Un OPCVM nourricier est un OPCVM, ou l'un de ses compartiments d'investissement,
 
 Un OPCVM nourricier peut placer jusqu'à 15 % de ses actifs dans un ou plusieurs des éléments suivants :
 
-1. des liquidités à titre accessoire conformément à l'article 41, paragraphe 2, second alinéa ;
+- des liquidités à titre accessoire conformément à l'article 41, paragraphe 2, second alinéa ;
 
-2. des instruments financiers dérivés, qui peuvent être utilisés uniquement à des fins de couverture, conformément à l'article 41, paragraphe 1, point g), et à l'article 42, paragraphes 2 et 3 ;
+- des instruments financiers dérivés, qui peuvent être utilisés uniquement à des fins de couverture, conformément à l'article 41, paragraphe 1, point g), et à l'article 42, paragraphes 2 et 3 ;
 
-3. les biens meubles et immeubles indispensables à l'exercice direct de son activité, si l'OPCVM nourricier est une société d'investissement.
+- les biens meubles et immeubles indispensables à l'exercice direct de son activité, si l'OPCVM nourricier est une société d'investissement.
 
 Aux fins de la conformité avec l'article 42, paragraphe 3, l'OPCVM nourricier calcule son risque global lié aux instruments financiers dérivés en combinant son propre risque direct au titre du premier alinéa, point b), avec :
 
-1. soit le risque réel de l'OPCVM maître par rapport aux instruments financiers dérivés, en proportion des investissements de l'OPCVM nourricier dans l'OPCVM maître ; ou
+- soit le risque réel de l'OPCVM maître par rapport aux instruments financiers dérivés, en proportion des investissements de l'OPCVM nourricier dans l'OPCVM maître ; ou
 
-2. soit le risque potentiel maximal global de l'OPCVM maître par rapport aux instruments financiers dérivés prévu par le règlement de gestion ou les documents constitutifs de l'OPCVM maître, en proportion de l'investissement de l'OPCVM nourricier dans l'OPCVM maître.
+- soit le risque potentiel maximal global de l'OPCVM maître par rapport aux instruments financiers dérivés prévu par le règlement de gestion ou les documents constitutifs de l'OPCVM maître, en proportion de l'investissement de l'OPCVM nourricier dans l'OPCVM maître.
 
 (3)
 
 Un OPCVM maître est un OPCVM ou l'un de ses compartiments d'investissement :
 
-1. qui compte au moins un OPCVM nourricier parmi ses porteurs de parts ;
+- qui compte au moins un OPCVM nourricier parmi ses porteurs de parts ;
 
-2. qui n'est pas lui-même un OPCVM nourricier ; et
+- qui n'est pas lui-même un OPCVM nourricier ; et
 
-3. qui ne détient pas de parts d'un OPCVM nourricier.
+- qui ne détient pas de parts d'un OPCVM nourricier.
 
 (4)
 
 Les dérogations suivantes s'appliquent à un OPCVM maître :
 
-1. si deux au moins des porteurs de parts d'un OPCVM maître sont des OPCVM nourriciers, l'article 2, paragraphe 2, 1er tiret, et l'article 3, second tiret, de la loi ne s'appliquent pas, l'OPCVM maître ayant la possibilité de recueillir ou non des capitaux auprès d'autres investisseurs ;
+- si deux au moins des porteurs de parts d'un OPCVM maître sont des OPCVM nourriciers, l'article 2, paragraphe 2, 1er tiret, et l'article 3, second tiret, de la loi ne s'appliquent pas, l'OPCVM maître ayant la possibilité de recueillir ou non des capitaux auprès d'autres investisseurs ;
 
-2. si un OPCVM maître ne recueille pas de capitaux auprès du public dans un État membre autre que celui où il est établi, mais a seulement un ou plusieurs OPCVM nourriciers dans cet État membre, le chapitre XI et l'article 108 paragraphe 1 2ème alinéa de la directive 2009/65/CE ne s'appliquent pas.
+- si un OPCVM maître ne recueille pas de capitaux auprès du public dans un État membre autre que celui où il est établi, mais a seulement un ou plusieurs OPCVM nourriciers dans cet État membre, le chapitre XI et l'article 108 paragraphe 1 2ème alinéa de la directive 2009/65/CE ne s'appliquent pas.
 
 <a id="art-78"></a>
 ## Art. 78.
@@ -2019,17 +2019,17 @@ L'OPCVM nourricier est informé, au plus tard quinze jours ouvrables après la p
 
 La CSSF donne son approbation dès lors que l'OPCVM nourricier, son dépositaire, son réviseur d'entreprises agréé ainsi que l'OPCVM maître se conforment à toutes les obligations prévues par le présent chapitre. À cette fin, l'OPCVM nourricier doit fournir les documents suivants à la CSSF :
 
-1. le règlement de gestion ou les documents constitutifs de l'OPCVM nourricier et de l'OPCVM maître ;
+- le règlement de gestion ou les documents constitutifs de l'OPCVM nourricier et de l'OPCVM maître ;
 
-2. le prospectus et les informations clés pour l'investisseur, visés à l'article 159 de l'OPCVM nourricier et de l'OPCVM maître ;
+- le prospectus et les informations clés pour l'investisseur, visés à l'article 159 de l'OPCVM nourricier et de l'OPCVM maître ;
 
-3. l'accord entre l'OPCVM nourricier et l'OPCVM maître ou les règles de conduite internes visés à l'article 79, paragraphe 1 ;
+- l'accord entre l'OPCVM nourricier et l'OPCVM maître ou les règles de conduite internes visés à l'article 79, paragraphe 1 ;
 
-4. le cas échéant, les informations à fournir aux porteurs de parts visées à l'article 83, paragraphe 1 ;
+- le cas échéant, les informations à fournir aux porteurs de parts visées à l'article 83, paragraphe 1 ;
 
-5. si le dépositaire de l'OPCVM maître diffère de celui de l'OPCVM nourricier, l'accord d'échange d'informations entre leurs dépositaires respectifs visé à l'article 80, paragraphe 1 ; et
+- si le dépositaire de l'OPCVM maître diffère de celui de l'OPCVM nourricier, l'accord d'échange d'informations entre leurs dépositaires respectifs visé à l'article 80, paragraphe 1 ; et
 
-6. si le réviseur d'entreprises agréé de l'OPCVM maître diffère de celui de l'OPCVM nourricier, l'accord d'échange d'informations entre leurs réviseurs respectifs visé à l'article 81, paragraphe 1. Les points a), b) et c) du paragraphe 3 du présent article ne sont pas applicables au cas où l'OPCVM nourricier et l'OPCVM maître sont tous deux établis au Luxembourg.
+- si le réviseur d'entreprises agréé de l'OPCVM maître diffère de celui de l'OPCVM nourricier, l'accord d'échange d'informations entre leurs réviseurs respectifs visé à l'article 81, paragraphe 1. Les points a), b) et c) du paragraphe 3 du présent article ne sont pas applicables au cas où l'OPCVM nourricier et l'OPCVM maître sont tous deux établis au Luxembourg.
 
 Lorsque l'OPCVM nourricier est établi au Luxembourg alors que l'OPCVM maître est établi dans un autre État membre, l'OPCVM nourricier fournit également à la CSSF une attestation des autorités compétentes de l'État membre d'origine de l'OPCVM maître certifiant que celui-ci est un OPCVM ou un compartiment d'investissement de celui-ci qui remplit les conditions énoncées à l'article 58 paragraphe 3 points b) et c) de la directive 2009/65/CE. Les documents sont fournis par l'OPCVM nourricier dans une des langues luxembourgeoise, française, allemande ou anglaise.
 
@@ -2058,9 +2058,9 @@ Sans préjudice de l'article 11, paragraphe 2, et de l'article 28, paragraphe 1,
 
 Si un OPCVM maître est liquidé, l'OPCVM nourricier est également liquidé, sauf si la CSSF approuve :
 
-1. l'investissement d'au moins 85 % des actifs de l'OPCVM nourricier dans les parts d'un autre OPCVM maître ; ou
+- l'investissement d'au moins 85 % des actifs de l'OPCVM nourricier dans les parts d'un autre OPCVM maître ; ou
 
-2. la modification du règlement de gestion ou des documents constitutifs de l'OPCVM nourricier afin de lui permettre de se convertir en OPCVM non nourricier.
+- la modification du règlement de gestion ou des documents constitutifs de l'OPCVM nourricier afin de lui permettre de se convertir en OPCVM non nourricier.
 
 Sans préjudice des dispositions spécifiques applicables en matière de liquidation obligatoire, la liquidation d'un OPCVM maître ne peut intervenir dans un délai inférieur à trois mois à compter du moment où il a informé tous ses porteurs de parts et la CSSF de sa décision contraignante de liquidation.
 
@@ -2068,11 +2068,11 @@ Sans préjudice des dispositions spécifiques applicables en matière de liquida
 
 Si un OPCVM maître fusionne avec un autre OPCVM ou s'il est divisé en deux OPCVM ou plus, l'OPCVM nourricier est liquidé, à moins que la CSSF n'accepte que l'OPCVM nourricier :
 
-1. continue à être un OPCVM nourricier de l'OPCVM maître ou d'un autre OPCVM qui est le résultat de la fusion ou de la division de l'OPCVM maître ;
+- continue à être un OPCVM nourricier de l'OPCVM maître ou d'un autre OPCVM qui est le résultat de la fusion ou de la division de l'OPCVM maître ;
 
-2. investisse au moins 85 % de ses actifs dans les parts d'un autre OPCVM maître qui n'est pas le résultat de la fusion ou de la division ; ou
+- investisse au moins 85 % de ses actifs dans les parts d'un autre OPCVM maître qui n'est pas le résultat de la fusion ou de la division ; ou
 
-3. modifie son règlement de gestion ou ses documents constitutifs afin de se convertir en OPCVM non nourricier.
+- modifie son règlement de gestion ou ses documents constitutifs afin de se convertir en OPCVM non nourricier.
 
 La fusion ou la division d'un OPCVM maître ne prend effet que si celui-ci a fourni à tous ses porteurs de parts et aux autorités compétentes de l'État membre d'origine de ses OPCVM nourriciers les informations visées à l'article 72 ou des informations comparables à celles-ci, au plus tard soixante jours avant la date de prise d'effet proposée.
 
@@ -2125,19 +2125,19 @@ Lorsqu'ils se conforment aux exigences énoncées dans le présent chapitre, ni 
 
 Outre les informations prévues au schéma A de l'annexe I, le prospectus de l'OPCVM nourricier doit contenir les éléments d'information suivants :
 
-1. une déclaration précisant que l'OPCVM nourricier est le nourricier d'un OPCVM maître donné et que, en tant que tel, il investit en permanence 85 % ou plus de ses actifs dans des parts de cet OPCVM maître ;
+- une déclaration précisant que l'OPCVM nourricier est le nourricier d'un OPCVM maître donné et que, en tant que tel, il investit en permanence 85 % ou plus de ses actifs dans des parts de cet OPCVM maître ;
 
-2. l'objectif et la politique de placement, y compris le profil de risque et des informations quant au point de savoir si les performances de l'OPCVM nourricier et de l'OPCVM maître sont identiques, ou dans quelle mesure et pour quelles raisons elles diffèrent, y compris une description des investissements réalisés conformément à l'article 77, paragraphe 2 ;
+- l'objectif et la politique de placement, y compris le profil de risque et des informations quant au point de savoir si les performances de l'OPCVM nourricier et de l'OPCVM maître sont identiques, ou dans quelle mesure et pour quelles raisons elles diffèrent, y compris une description des investissements réalisés conformément à l'article 77, paragraphe 2 ;
 
-3. une description brève de l'OPCVM maître, de son organisation ainsi que de son objectif et de sa politique de placement, y compris son profil de risque et une indication de la manière dont il est possible de se procurer le prospectus de l'OPCVM maître ;
+- une description brève de l'OPCVM maître, de son organisation ainsi que de son objectif et de sa politique de placement, y compris son profil de risque et une indication de la manière dont il est possible de se procurer le prospectus de l'OPCVM maître ;
 
-4. un résumé de l'accord entre l'OPCVM nourricier et l'OPCVM maître ou des règles de conduite internes établis conformément à l'article 79, paragraphe 1 ;
+- un résumé de l'accord entre l'OPCVM nourricier et l'OPCVM maître ou des règles de conduite internes établis conformément à l'article 79, paragraphe 1 ;
 
-5. la manière dont les porteurs de parts peuvent obtenir des informations supplémentaires sur l'OPCVM maître et sur l'accord conclu conformément à l'article 79, paragraphe 1, entre l'OPCVM nourricier et l'OPCVM maître ;
+- la manière dont les porteurs de parts peuvent obtenir des informations supplémentaires sur l'OPCVM maître et sur l'accord conclu conformément à l'article 79, paragraphe 1, entre l'OPCVM nourricier et l'OPCVM maître ;
 
-6. une description de toutes les rémunérations et de tous les remboursements de coûts dus par l'OPCVM nourricier du fait de son investissement dans des parts de l'OPCVM maître, ainsi que des frais totaux de l'OPCVM nourricier et de l'OPCVM maître ; et
+- une description de toutes les rémunérations et de tous les remboursements de coûts dus par l'OPCVM nourricier du fait de son investissement dans des parts de l'OPCVM maître, ainsi que des frais totaux de l'OPCVM nourricier et de l'OPCVM maître ; et
 
-7. une description des conséquences fiscales, pour l'OPCVM nourricier, de l'investissement dans l'OPCVM maître.
+- une description des conséquences fiscales, pour l'OPCVM nourricier, de l'investissement dans l'OPCVM maître.
 
 (2)
 
@@ -2166,13 +2166,13 @@ L'OPCVM nourricier doit fournir gratuitement aux investisseurs, sur demande, un 
 
 Un OPCVM nourricier qui exerce déjà des activités en tant qu'OPCVM, y compris celles d'un OPCVM nourricier d'un autre OPCVM maître, doit fournir les informations suivantes à ses porteurs de parts :
 
-1. une déclaration indiquant que la CSSF a approuvé l'investissement de l'OPCVM nourricier dans des parts de l'OPCVM maître ;
+- une déclaration indiquant que la CSSF a approuvé l'investissement de l'OPCVM nourricier dans des parts de l'OPCVM maître ;
 
-2. les informations clés pour l'investisseur, visées à l'article 159 concernant l'OPCVM nourricier et l'OPCVM maître ;
+- les informations clés pour l'investisseur, visées à l'article 159 concernant l'OPCVM nourricier et l'OPCVM maître ;
 
-3. la date à laquelle l'OPCVM nourricier doit commencer à investir dans l'OPCVM maître ou, s'il y a déjà investi, la date à laquelle son investissement dépassera la limite applicable en vertu de l'article 46, paragraphe 1 ; et
+- la date à laquelle l'OPCVM nourricier doit commencer à investir dans l'OPCVM maître ou, s'il y a déjà investi, la date à laquelle son investissement dépassera la limite applicable en vertu de l'article 46, paragraphe 1 ; et
 
-4. une déclaration indiquant que les porteurs de parts ont le droit de demander, dans un délai de trente jours, le rachat ou le remboursement de leurs parts, sans frais autres que ceux imputés par l'OPCVM pour couvrir les coûts de désinvestissement ; ce droit prend effet à partir du moment où l'OPCVM nourricier a fourni les informations visées au présent paragraphe.
+- une déclaration indiquant que les porteurs de parts ont le droit de demander, dans un délai de trente jours, le rachat ou le remboursement de leurs parts, sans frais autres que ceux imputés par l'OPCVM pour couvrir les coûts de désinvestissement ; ce droit prend effet à partir du moment où l'OPCVM nourricier a fourni les informations visées au présent paragraphe.
 
 Cette information est fournie au moins trente jours avant la date mentionnée au présent paragraphe, point c).
 
@@ -2263,9 +2263,9 @@ Le gestionnaire doit être déterminé conformément aux dispositions prévues �
 
 Le gestionnaire est :
 
-1. soit un gestionnaire externe, qui est la personne morale désignée par l'OPC ou pour le compte de l'OPC et qui, du fait de cette désignation, est chargé de gérer cet OPC ; en cas de désignation d'un gestionnaire externe, celui-ci doit, sous réserve des dérogations prévues à l'article 3 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs, être agréé conformément aux dispositions du chapitre 2 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs respectivement conformément aux dispositions du chapitre II et, le cas échéant, conformément également aux dispositions du chapitre VII de la directive 2011/61/UE ;
+- soit un gestionnaire externe, qui est la personne morale désignée par l'OPC ou pour le compte de l'OPC et qui, du fait de cette désignation, est chargé de gérer cet OPC ; en cas de désignation d'un gestionnaire externe, celui-ci doit, sous réserve des dérogations prévues à l'article 3 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs, être agréé conformément aux dispositions du chapitre 2 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs respectivement conformément aux dispositions du chapitre II et, le cas échéant, conformément également aux dispositions du chapitre VII de la directive 2011/61/UE ;
 
-2. soit, lorsque la forme juridique de l'OPC permet une gestion interne et que l'organe directeur de l'OPC décide de ne pas désigner de gestionnaire externe, l'OPC lui-même.
+- soit, lorsque la forme juridique de l'OPC permet une gestion interne et que l'organe directeur de l'OPC décide de ne pas désigner de gestionnaire externe, l'OPC lui-même.
 
 Un OPC qui est géré de manière interne au sens du paragraphe 2, point b), du présent article doit, outre l'agrément requis au titre de l'article 129 et sous réserve des dérogations prévues à l'article 3 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs, être agréé en tant que gestionnaire au titre du chapitre 2 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs. L'OPC en question doit veiller en permanence au respect de l'ensemble des dispositions de ladite loi, pour autant que ces dispositions lui soient applicables.
 
@@ -2342,19 +2342,19 @@ L'article 9, paragraphe 1er, n'est pas applicable aux fonds communs de placement
 
 Un règlement CSSF peut fixer :
 
-1. les périodicités minimales dans lesquelles les prix d'émission et de rachat des parts du fonds commun de placement sont déterminés ;
+- les périodicités minimales dans lesquelles les prix d'émission et de rachat des parts du fonds commun de placement sont déterminés ;
 
-2. le pourcentage minimal des actifs du fonds commun de placement devant consister en liquidités ;
+- le pourcentage minimal des actifs du fonds commun de placement devant consister en liquidités ;
 
-3. le pourcentage maximal à concurrence duquel les actifs du fonds commun de placement peuvent être investis en valeurs mobilières non cotées en bourse ou non traitées sur un marché organisé fournissant des garanties comparables ;
+- le pourcentage maximal à concurrence duquel les actifs du fonds commun de placement peuvent être investis en valeurs mobilières non cotées en bourse ou non traitées sur un marché organisé fournissant des garanties comparables ;
 
-4. le pourcentage maximal des titres de même nature émis par une même collectivité que le fonds commun de placement peut posséder ;
+- le pourcentage maximal des titres de même nature émis par une même collectivité que le fonds commun de placement peut posséder ;
 
-5. le pourcentage maximal des actifs du fonds commun de placement qui peut être investi en titres d'une même collectivité ;
+- le pourcentage maximal des actifs du fonds commun de placement qui peut être investi en titres d'une même collectivité ;
 
-6. les conditions et éventuellement les pourcentages maximaux auxquels le fonds commun de placement peut investir en titres d'autres OPC ;
+- les conditions et éventuellement les pourcentages maximaux auxquels le fonds commun de placement peut investir en titres d'autres OPC ;
 
-7. le pourcentage maximal du montant des fonds que le fonds commun de placement est autorisé à emprunter par rapport au total de ses actifs, et les modalités de ces emprunts.
+- le pourcentage maximal du montant des fonds que le fonds commun de placement est autorisé à emprunter par rapport au total de ses actifs, et les modalités de ces emprunts.
 
 (2)
 
@@ -2436,9 +2436,9 @@ Dans l'intérêt des investisseurs, les rachats peuvent être suspendus par la C
 
 L'émission et le rachat des titres ou parts d'intérêts sont interdits :
 
-1. pendant la période où la SICAV n'a pas de dépositaire ;
+- pendant la période où la SICAV n'a pas de dépositaire ;
 
-2. en cas de mise en liquidation, de déclaration en faillite ou de demande d'admission au bénéfice du concordat, du sursis de paiement ou de la gestion contrôlée ou d'une mesure analogue visant le dépositaire.
+- en cas de mise en liquidation, de déclaration en faillite ou de demande d'admission au bénéfice du concordat, du sursis de paiement ou de la gestion contrôlée ou d'une mesure analogue visant le dépositaire.
 
 (4)
 
@@ -2497,9 +2497,9 @@ Les SICAV dont la gestion relève d'un gestionnaire agréé au titre du chapitre
 
 Dans ce cas, les conditions préalables suivantes doivent être remplies :
 
-1. la CSSF doit être informée de manière adéquate ;
+- la CSSF doit être informée de manière adéquate ;
 
-2. le mandat ne doit pas entraver le bon exercice de la surveillance dont la SICAV fait l'objet ; en particulier, il ne doit ni empêcher la SICAV d'agir, ni empêcher la SICAV d'être gérée, au mieux des intérêts des investisseurs.
+- le mandat ne doit pas entraver le bon exercice de la surveillance dont la SICAV fait l'objet ; en particulier, il ne doit ni empêcher la SICAV d'agir, ni empêcher la SICAV d'être gérée, au mieux des intérêts des investisseurs.
 
 Pour les SICAV qui sont gérées de manière interne au sens de l'article 88-2, paragraphe 2, point b) et qui ne font pas ou ne peuvent pas faire usage des dérogations prévues à l'article 3 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs, la délégation d'une ou de plusieurs de leurs fonctions doit se faire en conformité avec l'ensemble des conditions prévues par l'article 18 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs.
 
@@ -2507,15 +2507,15 @@ Pour les SICAV qui sont gérées de manière interne au sens de l'article 88-2, 
 
 Les SICAV dont le gestionnaire bénéficie et fait usage des dérogations prévues à l'article 3 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs sont autorisées à déléguer à des tiers, en vue de mener leurs activités de manière plus efficace, l'exercice, pour leur propre compte, d'une ou plusieurs de leurs fonctions. Dans ce cas, les conditions préalables suivantes doivent être remplies :
 
-1. la CSSF doit être informée de manière adéquate ;
+- la CSSF doit être informée de manière adéquate ;
 
-2. le mandat ne doit pas entraver le bon exercice de la surveillance dont la SICAV fait l'objet ; en particulier, il ne doit ni empêcher la SICAV d'agir, ni empêcher la SICAV d'être gérée, au mieux des intérêts des investisseurs ;
+- le mandat ne doit pas entraver le bon exercice de la surveillance dont la SICAV fait l'objet ; en particulier, il ne doit ni empêcher la SICAV d'agir, ni empêcher la SICAV d'être gérée, au mieux des intérêts des investisseurs ;
 
-3. lorsque la délégation se rapporte à la gestion d'investissements, le mandat ne peut être donné qu'aux entreprises agréées ou immatriculées aux fins de la gestion de portefeuille et soumises à une surveillance prudentielle lorsque le mandat est donné à une entreprise d'un pays tiers soumise à une surveillance prudentielle, la coopération entre la CSSF et l'autorité de surveillance de ce pays doit être assurée ;
+- lorsque la délégation se rapporte à la gestion d'investissements, le mandat ne peut être donné qu'aux entreprises agréées ou immatriculées aux fins de la gestion de portefeuille et soumises à une surveillance prudentielle lorsque le mandat est donné à une entreprise d'un pays tiers soumise à une surveillance prudentielle, la coopération entre la CSSF et l'autorité de surveillance de ce pays doit être assurée ;
 
-4. lorsque les conditions du point c) ne sont pas remplies, la délégation ne pourra devenir effective que moyennant approbation préalable de la CSSF ; et
+- lorsque les conditions du point c) ne sont pas remplies, la délégation ne pourra devenir effective que moyennant approbation préalable de la CSSF ; et
 
-5. aucun mandat se rapportant à la fonction principale de gestion des investissements n'est donné au dépositaire.
+- aucun mandat se rapportant à la fonction principale de gestion des investissements n'est donné au dépositaire.
 
 <a id="art-96"></a>
 ## Art. 96.
@@ -2524,19 +2524,19 @@ Les SICAV dont le gestionnaire bénéficie et fait usage des dérogations prévu
 
 Un règlement CSSF peut fixer :
 
-1. les périodicités minimales dans lesquelles les prix d'émission et, au cas où les statuts prévoient le droit au rachat des porteurs de parts, les prix de rachat des parts de la SICAV sont déterminés ;
+- les périodicités minimales dans lesquelles les prix d'émission et, au cas où les statuts prévoient le droit au rachat des porteurs de parts, les prix de rachat des parts de la SICAV sont déterminés ;
 
-2. le pourcentage minimal des actifs d'une SICAV devant consister en liquidités ;
+- le pourcentage minimal des actifs d'une SICAV devant consister en liquidités ;
 
-3. le pourcentage maximal à concurrence duquel les actifs d'une SICAV peuvent être investis en valeurs mobilières non cotées en bourse ou non traitées sur un marché organisé fournissant des garanties comparables ;
+- le pourcentage maximal à concurrence duquel les actifs d'une SICAV peuvent être investis en valeurs mobilières non cotées en bourse ou non traitées sur un marché organisé fournissant des garanties comparables ;
 
-4. le pourcentage maximal des titres de même nature émis par une même collectivité que la SICAV peut posséder ;
+- le pourcentage maximal des titres de même nature émis par une même collectivité que la SICAV peut posséder ;
 
-5. le pourcentage maximal de ses actifs que la SICAV peut investir en titres d'une même collectivité ;
+- le pourcentage maximal de ses actifs que la SICAV peut investir en titres d'une même collectivité ;
 
-6. les conditions et éventuellement les pourcentages maximaux auxquels la SICAV peut investir en titres d'autres OPC ;
+- les conditions et éventuellement les pourcentages maximaux auxquels la SICAV peut investir en titres d'autres OPC ;
 
-7. le pourcentage maximal du montant des fonds que la SICAV est autorisée à emprunter par rapport au total de ses actifs, et les modalités de ces emprunts.
+- le pourcentage maximal du montant des fonds que la SICAV est autorisée à emprunter par rapport au total de ses actifs, et les modalités de ces emprunts.
 
 (2)
 
@@ -2598,19 +2598,19 @@ Si les documents constitutifs de l'organisme ne prévoient pas d'assemblées gé
 
 Un règlement CSSF peut fixer :
 
-1. les périodicités minimales dans lesquelles les prix d'émission et, au cas où les documents constitutifs prévoient le droit au rachat des porteurs de parts ou associés, les prix de rachat des parts de l'OPC sont déterminés ;
+- les périodicités minimales dans lesquelles les prix d'émission et, au cas où les documents constitutifs prévoient le droit au rachat des porteurs de parts ou associés, les prix de rachat des parts de l'OPC sont déterminés ;
 
-2. le pourcentage minimal des actifs de l'OPC devant consister en liquidités ;
+- le pourcentage minimal des actifs de l'OPC devant consister en liquidités ;
 
-3. le pourcentage maximal à concurrence duquel les actifs de l'OPC peuvent être investis en valeurs mobilières non cotées en bourse ou non traitées sur un marché organisé fournissant des garanties comparables ;
+- le pourcentage maximal à concurrence duquel les actifs de l'OPC peuvent être investis en valeurs mobilières non cotées en bourse ou non traitées sur un marché organisé fournissant des garanties comparables ;
 
-4. le pourcentage maximal des titres de même nature émis par une même collectivité que l'OPC peut posséder ;
+- le pourcentage maximal des titres de même nature émis par une même collectivité que l'OPC peut posséder ;
 
-5. le pourcentage maximal des actifs de l'OPC qui peut être investi en titres d'une même collectivité ;
+- le pourcentage maximal des actifs de l'OPC qui peut être investi en titres d'une même collectivité ;
 
-6. les conditions et éventuellement les pourcentages maximaux auxquels l'OPC peut investir en titres d'autres OPC ;
+- les conditions et éventuellement les pourcentages maximaux auxquels l'OPC peut investir en titres d'autres OPC ;
 
-7. le pourcentage maximal du montant des fonds que l'OPC est autorisé à emprunter par rapport au total de ses actifs et les modalités de ces emprunts.
+- le pourcentage maximal du montant des fonds que l'OPC est autorisé à emprunter par rapport au total de ses actifs et les modalités de ces emprunts.
 
 (2)
 
@@ -2642,9 +2642,9 @@ Les OPC qui n'ont pas les formes juridiques de fonds communs de placement ou de 
 
 Dans ce cas, les conditions préalables suivantes doivent être remplies :
 
-1. la CSSF doit être informée de manière adéquate ;
+- la CSSF doit être informée de manière adéquate ;
 
-2. le mandat ne doit pas entraver le bon exercice de la surveillance dont la SICAV fait l'objet; en particulier, il ne doit ni empêcher la SICAV d'agir, ni empêcher la SICAV d'être gérée, au mieux des intérêts des investisseurs.
+- le mandat ne doit pas entraver le bon exercice de la surveillance dont la SICAV fait l'objet; en particulier, il ne doit ni empêcher la SICAV d'agir, ni empêcher la SICAV d'être gérée, au mieux des intérêts des investisseurs.
 
 Pour les OPC qui n'ont pas les formes juridiques de fonds communs de placement ou de SICAV et dont la gestion relève d'un gestionnaire agréé au titre du chapitre 2 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs, qui sont gérés de manière interne au sens de l'article 88-2, paragraphe 2, point b), la délégation d'une ou de plusieurs de leurs fonctions doit se faire en conformité avec l'ensemble des conditions prévues par l'article 18 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs.
 
@@ -2652,15 +2652,15 @@ Pour les OPC qui n'ont pas les formes juridiques de fonds communs de placement o
 
 Les OPC qui n'ont pas les formes juridiques de fonds communs de placement ou de SICAV et dont le gestionnaire bénéficie et fait usage des dérogations prévues à l'article 3 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs, sont autorisés à déléguer à des tiers, en vue de mener leurs activités de manière plus efficace, l'exercice, pour leur propre compte, d'une ou plusieurs de leurs fonctions. Dans ce cas, les conditions préalables suivantes doivent être remplies :
 
-1. la CSSF doit être informée de manière adéquate ;
+- la CSSF doit être informée de manière adéquate ;
 
-2. le mandat ne doit pas entraver le bon exercice de la surveillance dont l'OPC fait l'objet ; en particulier, il ne doit ni empêcher l'OPC d'agir, ni empêcher l'OPC d'être géré, au mieux des intérêts des investisseurs ;
+- le mandat ne doit pas entraver le bon exercice de la surveillance dont l'OPC fait l'objet ; en particulier, il ne doit ni empêcher l'OPC d'agir, ni empêcher l'OPC d'être géré, au mieux des intérêts des investisseurs ;
 
-3. lorsque la délégation se rapporte à la gestion d'investissements, le mandat ne peut être donné qu'aux entreprises agréées ou immatriculées aux fins de la gestion de portefeuille et soumises à une surveillance prudentielle « lorsque le mandat est donné à une entreprise d'un pays tiers soumise à une surveillance prudentielle, la coopération entre la CSSF et l'autorité de surveillance de ce pays doit être assurée ;
+- lorsque la délégation se rapporte à la gestion d'investissements, le mandat ne peut être donné qu'aux entreprises agréées ou immatriculées aux fins de la gestion de portefeuille et soumises à une surveillance prudentielle « lorsque le mandat est donné à une entreprise d'un pays tiers soumise à une surveillance prudentielle, la coopération entre la CSSF et l'autorité de surveillance de ce pays doit être assurée ;
 
-4. lorsque les conditions du point c) ne sont pas remplies, la délégation ne pourra devenir effective que moyennant approbation préalable de la CSSF ; et
+- lorsque les conditions du point c) ne sont pas remplies, la délégation ne pourra devenir effective que moyennant approbation préalable de la CSSF ; et
 
-5. aucun mandat se rapportant à la fonction principale de gestion des investissements n'est donné au dépositaire.
+- aucun mandat se rapportant à la fonction principale de gestion des investissements n'est donné au dépositaire.
 
 (7)
 
@@ -2722,19 +2722,19 @@ Les activités de gestion d'OPCVM incluent les fonctions mentionnées à l'annex
 
 Par dérogation au paragraphe 2, des sociétés de gestion peuvent en outre fournir les services suivants :
 
-1. gestion de portefeuilles d'investissement, y compris ceux qui sont détenus par des fonds de retraite, sur une base discrétionnaire et individualisée, dans le cadre d'un mandat donné par les investisseurs, lorsque ces portefeuilles comportent un ou plusieurs des instruments énumérés à la section B de l'annexe II de la loi modifiée du 5 avril 1993 relative au secteur financier ;
+- gestion de portefeuilles d'investissement, y compris ceux qui sont détenus par des fonds de retraite, sur une base discrétionnaire et individualisée, dans le cadre d'un mandat donné par les investisseurs, lorsque ces portefeuilles comportent un ou plusieurs des instruments énumérés à la section B de l'annexe II de la loi modifiée du 5 avril 1993 relative au secteur financier ;
 
-2. en tant que services auxiliaires :
+- en tant que services auxiliaires :
 
-- conseils en investissement portant sur un ou plusieurs des instruments énumérés à la section B de l'annexe II de la loi modifiée du 5 avril 1993 relative au secteur financier ;
+  - conseils en investissement portant sur un ou plusieurs des instruments énumérés à la section B de l'annexe II de la loi modifiée du 5 avril 1993 relative au secteur financier ;
 
-- garde et administration, pour des parts d'OPC.
+  - garde et administration, pour des parts d'OPC.
 
-- réception et transmission d’ordres portant sur des instruments financiers ;
+  - réception et transmission d’ordres portant sur des instruments financiers ;
 
-- toute autre fonction ou activité déjà exercée par une société de gestion en ce qui concerne un OPCVM qu’elle gère conformément au présent article, ou en ce qui concerne les services qu’elle fournit conformément au présent paragraphe, à condition que tout conflit d’intérêts éventuel créé par l’exercice de cette fonction ou activité au service d’autres parties soit géré de manière appropriée ;
+  - toute autre fonction ou activité déjà exercée par une société de gestion en ce qui concerne un OPCVM qu’elle gère conformément au présent article, ou en ce qui concerne les services qu’elle fournit conformément au présent paragraphe, à condition que tout conflit d’intérêts éventuel créé par l’exercice de cette fonction ou activité au service d’autres parties soit géré de manière appropriée ;
 
-3. administration d’indices de référence conformément au règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d’instruments et de contrats financiers ou pour mesurer la performance de fonds d’investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 .
+- administration d’indices de référence conformément au règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d’instruments et de contrats financiers ou pour mesurer la performance de fonds d’investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 .
 
 Les sociétés de gestion ne peuvent en aucun cas être autorisées en vertu du présent chapitre à fournir exclusivement les services mentionnés dans le présent paragraphe ou à fournir des services auxiliaires sans être agréées pour les services visés au point a) . Les sociétés de gestion ne sont pas autorisées à fournir le service visé à l’alinéa 1er, lettre c), en ce qui concerne des indices de référence qui sont utilisés dans l’OPCVM qu’elles gèrent.
 
@@ -2744,15 +2744,15 @@ Aux fins de l'application du présent article, une recommandation personnalisée
 
 Cette recommandation doit être présentée comme adaptée à cette personne ou être basée sur l'examen de la situation propre à cette personne et doit recommander la réalisation d'une opération relevant des catégories suivantes :
 
-1. l'achat, la vente, la souscription, l'échange, le remboursement, la détention ou la prise ferme d'un instrument financier particulier ;
+- l'achat, la vente, la souscription, l'échange, le remboursement, la détention ou la prise ferme d'un instrument financier particulier ;
 
-2. l'exercice ou le non-exercice du droit conféré par un instrument financier particulier d'acheter, de vendre, de souscrire, d'échanger ou de rembourser un instrument financier.
+- l'exercice ou le non-exercice du droit conféré par un instrument financier particulier d'acheter, de vendre, de souscrire, d'échanger ou de rembourser un instrument financier.
 
 Une recommandation n'est pas une recommandation personnalisée lorsqu'elle est exclusivement diffusée par des canaux de distribution au sens de l'article premier, point 18) de la loi du 9 mai 2006 relative aux abus de marché ou lorsqu'elle est destinée au public.
 
 (4)
 
-L'article 1-1, l’article 37-1, paragraphes 1er à 4 et 5bis à 8, l’article 37-2, paragraphes 1er à 2bis, l’article 37-3, paragraphes 1er à 8ter, et l’article 37-3bis, de la loi modifiée du 5 avril 1993 relative au secteur financier, ainsi que l’article 13, alinéa 4, de la loi modifiée du 5 août 2005 sur les contrats de garantie financière s'appliquent mutatis mutandis à la fourniture par les sociétés de gestion de services visés au paragraphe 3, lettres a) et b), du présent article, concernant un ou plusieurs des instruments énumérés à l’annexe II, section B, de la loi modifiée du 5 avril 1993 relative au secteur financier .
+L'article 1-1, l’article 37-1, paragraphes 1er à 4 et 5bis à 8, l’article 37-2, paragraphes 1er à 2bis, l’article 37-3, paragraphes 1er à 8ter, et l’article 37-3bis, de la loi modifiée du 5 avril 1993 relative au secteur financier , ainsi que l’article 13, alinéa 4, de la loi modifiée du 5 août 2005 sur les contrats de garantie financière s'appliquent mutatis mutandis à la fourniture par les sociétés de gestion de services visés au paragraphe 3 , lettres a) et b), du présent article , concernant un ou plusieurs des instruments énumérés à l’annexe II, section B, de la loi modifiée du 5 avril 1993 relative au secteur financier .
 
 Les sociétés de gestion qui fournissent le service visé au point a) du paragraphe 3 du présent article doivent en outre respecter la réglementation luxembourgeoise portant transposition de la directive 2006/49/CE du Parlement européen et du Conseil du 14 juin 2006 sur l'adéquation des fonds propres des entreprises d'investissement et des établissements de crédit (refonte).
 
@@ -2792,67 +2792,67 @@ Pour chacun des OPC de la partie II pour lesquels elles sont désignées comme g
 
 La CSSF n'accorde l'agrément à la société de gestion qu'aux conditions suivantes :
 
-1. la société de gestion doit disposer d'un capital initial d'au moins cent vingt-cinq mille euros (125.000 euros) compte-tenu des éléments suivants : Les sociétés de gestion peuvent ne pas fournir jusqu'à 50% des fonds propres supplémentaires mentionnés ci-dessus, si elles bénéficient d'une garantie du même montant donnée par un établissement de crédit ou une entreprise d'assurance. Le siège statutaire de l'établissement de crédit ou de l'entreprise d'assurance en question doit être établi dans un État membre, ou dans un État non-membre, pour autant qu'il soit soumis à des règles prudentielles que la CSSF juge équivalentes à celles définies dans le droit de l'Union.
+- la société de gestion doit disposer d'un capital initial d'au moins cent vingt-cinq mille euros (125.000 euros) compte-tenu des éléments suivants : Les sociétés de gestion peuvent ne pas fournir jusqu'à 50% des fonds propres supplémentaires mentionnés ci-dessus, si elles bénéficient d'une garantie du même montant donnée par un établissement de crédit ou une entreprise d'assurance. Le siège statutaire de l'établissement de crédit ou de l'entreprise d'assurance en question doit être établi dans un État membre, ou dans un État non-membre, pour autant qu'il soit soumis à des règles prudentielles que la CSSF juge équivalentes à celles définies dans le droit de l'Union.
 
-- Lorsque la valeur des portefeuilles de la société de gestion excède deux cent cinquante millions d'euros (250.000.000 euros), la société de gestion doit fournir un montant supplémentaire de fonds propres. Ce montant supplémentaire de fonds propres est égal à 0,02% du montant de la valeur des portefeuilles de la société de gestion excédant deux cent cinquante millions d'euros (250.000.000 euros). Le total requis du capital initial et du montant supplémentaire n'excède toutefois pas dix millions d'euros (10.000.000 euros).
+  - Lorsque la valeur des portefeuilles de la société de gestion excède deux cent cinquante millions d'euros (250.000.000 euros), la société de gestion doit fournir un montant supplémentaire de fonds propres. Ce montant supplémentaire de fonds propres est égal à 0,02% du montant de la valeur des portefeuilles de la société de gestion excédant deux cent cinquante millions d'euros (250.000.000 euros). Le total requis du capital initial et du montant supplémentaire n'excède toutefois pas dix millions d'euros (10.000.000 euros).
 
-- Aux fins du présent paragraphe, sont considérés comme portefeuilles d'une société de gestion, les portefeuilles suivants :
+  - Aux fins du présent paragraphe, sont considérés comme portefeuilles d'une société de gestion, les portefeuilles suivants :
 
-1. les fonds communs de placement gérés par ladite société, y compris les portefeuilles dont elle a délégué la gestion mais à l'exclusion des portefeuilles qu'elle gère par délégation ;
+    - les fonds communs de placement gérés par ladite société, y compris les portefeuilles dont elle a délégué la gestion mais à l'exclusion des portefeuilles qu'elle gère par délégation ;
 
-2. les sociétés d'investissement pour lesquelles ladite société est la société de gestion désignée ;
+    - les sociétés d'investissement pour lesquelles ladite société est la société de gestion désignée ;
 
-3. les autres OPC gérés par ladite société, y compris les portefeuilles dont elle a délégué la gestion mais à l'exclusion des portefeuilles qu'elle gère par délégation.
+    - les autres OPC gérés par ladite société, y compris les portefeuilles dont elle a délégué la gestion mais à l'exclusion des portefeuilles qu'elle gère par délégation.
 
-- Indépendamment du montant sur lequel portent ces exigences, les fonds propres de la société de gestion ne sont jamais inférieurs au montant fixé à l'article 13 du règlement (UE) 2019/2033 du Parlement européen et du Conseil du 27 novembre 2019 concernant les exigences prudentielles applicables aux entreprises d'investissement et modifiant les règlements (UE) n° 1093/2010, (UE) n° 575/2013, (UE) n° 600/2014 et (UE) n° 806/2014.
+  - Indépendamment du montant sur lequel portent ces exigences, les fonds propres de la société de gestion ne sont jamais inférieurs au montant fixé à l'article 13 du règlement (UE) 2019/2033 du Parlement européen et du Conseil du 27 novembre 2019 concernant les exigences prudentielles applicables aux entreprises d'investissement et modifiant les règlements (UE) n° 1093/2010, (UE) n° 575/2013, (UE) n° 600/2014 et (UE) n° 806/2014.
 
-2. Les fonds visés au paragraphe 1 a) sont à maintenir à la disposition permanente de la société de gestion et à investir dans son intérêt propre. Ils doivent être investis dans des actifs liquides ou des actifs aisément convertibles en liquidités à court terme et ne doivent pas comporter de positions spéculatives ;
+- Les fonds visés au paragraphe 1 a) sont à maintenir à la disposition permanente de la société de gestion et à investir dans son intérêt propre. Ils doivent être investis dans des actifs liquides ou des actifs aisément convertibles en liquidités à court terme et ne doivent pas comporter de positions spéculatives ;
 
-3. les personnes qui dirigent de fait l'activité de la société de gestion doivent remplir également les conditions d'honorabilité et d'expérience requises pour le type d'OPCVM géré par ladite société. A cette fin, l'identité de ces personnes, ainsi que de toute personne leur succédant dans leurs fonctions, doit être notifiée immédiatement à la CSSF. La conduite de l'activité de la société doit être déterminée par au moins deux personnes physiques remplissant ces conditions, qui soit sont employées à plein temps par la société de gestion, soit sont des membres exécutifs ou des membres de l’organe de gestion de la société de gestion qui se consacrent à plein temps à la conduite de l’activité de la société de gestion, et qui sont domiciliées dans l’Union européenne ;
+- les personnes qui dirigent de fait l'activité de la société de gestion doivent remplir également les conditions d'honorabilité et d'expérience requises pour le type d'OPCVM géré par ladite société. A cette fin, l'identité de ces personnes, ainsi que de toute personne leur succédant dans leurs fonctions, doit être notifiée immédiatement à la CSSF. La conduite de l'activité de la société doit être déterminée par au moins deux personnes physiques remplissant ces conditions, qui soit sont employées à plein temps par la société de gestion, soit sont des membres exécutifs ou des membres de l’organe de gestion de la société de gestion qui se consacrent à plein temps à la conduite de l’activité de la société de gestion, et qui sont domiciliées dans l’Union européenne ;
 
-4. la demande d’agrément doit être accompagnée d’un programme d’activité dans lequel est, entre autres, indiquée la structure de l’organisation de la société de gestion et précisant les ressources humaines et techniques qui seront utilisées pour la conduite de l’activité de la société de gestion avec des informations sur les personnes qui dirigent de fait les activités de la société de gestion, y compris :
+- la demande d’agrément doit être accompagnée d’un programme d’activité dans lequel est, entre autres, indiquée la structure de l’organisation de la société de gestion et précisant les ressources humaines et techniques qui seront utilisées pour la conduite de l’activité de la société de gestion avec des informations sur les personnes qui dirigent de fait les activités de la société de gestion, y compris :
 
-1. une description du rôle, du titre et du niveau hiérarchique de ces personnes ;
+  - une description du rôle, du titre et du niveau hiérarchique de ces personnes ;
 
-2. une description des lignes hiérarchiques par lesquelles ces personnes rendent des comptes et une description des responsabilités qu’elles exercent au sein de la société de gestion et en dehors de celle-ci ;
+  - une description des lignes hiérarchiques par lesquelles ces personnes rendent des comptes et une description des responsabilités qu’elles exercent au sein de la société de gestion et en dehors de celle-ci ;
 
-3. une vue d’ensemble du temps que chacune de ces personnes consacre à chacune de ces responsabilités ;
+  - une vue d’ensemble du temps que chacune de ces personnes consacre à chacune de ces responsabilités ;
 
-4. des informations sur la manière dont la société de gestion entend se conformer aux obligations qui lui incombent en vertu de la présente loi et aux obligations qui lui incombent en vertu de l’article 3, paragraphe 1 er , de l’article 6, paragraphe 1 er , lettre a), et de l’article 13, paragraphe 1 er , du règlement (UE) 2019/2088 du Parlement européen et du Conseil du 27 novembre 2019 sur la publication d’informations en matière de durabilité dans le secteur des services financiers, ainsi qu’une description détaillée des ressources humaines et techniques appropriées qui seront utilisées par la société de gestion à cet effet ;
+  - des informations sur la manière dont la société de gestion entend se conformer aux obligations qui lui incombent en vertu de la présente loi et aux obligations qui lui incombent en vertu de l’article 3, paragraphe 1 er , de l’article 6, paragraphe 1 er , lettre a), et de l’article 13, paragraphe 1 er , du règlement (UE) 2019/2088 du Parlement européen et du Conseil du 27 novembre 2019 sur la publication d’informations en matière de durabilité dans le secteur des services financiers, ainsi qu’une description détaillée des ressources humaines et techniques appropriées qui seront utilisées par la société de gestion à cet effet ;
 
-5. son administration centrale et son siège statutaire sont situés au Luxembourg ;
+- son administration centrale et son siège statutaire sont situés au Luxembourg ;
 
-6. les membres de l'organe de direction de la société de gestion justifient de leur honorabilité et de leur expérience professionnelles requises pour l'accomplissement de leurs fonctions. Sont visés :
+- les membres de l'organe de direction de la société de gestion justifient de leur honorabilité et de leur expérience professionnelles requises pour l'accomplissement de leurs fonctions. Sont visés :
 
-1. en ce qui concerne les sociétés anonymes, les membres du conseil d'administration ainsi que, dans le cas d'une structure dualiste, les membres du conseil de surveillance et, le cas échéant, les membres du directoire lorsque ceux-ci diffèrent des personnes mentionnées à la lettre c) ;
+  - en ce qui concerne les sociétés anonymes, les membres du conseil d'administration ainsi que, dans le cas d'une structure dualiste, les membres du conseil de surveillance et, le cas échéant, les membres du directoire lorsque ceux-ci diffèrent des personnes mentionnées à la lettre c) ;
 
-2. en ce qui concerne les autres types de sociétés, les membres de l'organe qui représente, en vertu de la loi et des documents constitutifs, la société de gestion.
+  - en ce qui concerne les autres types de sociétés, les membres de l'organe qui représente, en vertu de la loi et des documents constitutifs, la société de gestion.
 
-7. la société de gestion fournit des informations sur les modalités prises pour déléguer et sous-déléguer des fonctions à des tiers conformément à l’article 110, comprenant au moins les éléments suivants :
+- la société de gestion fournit des informations sur les modalités prises pour déléguer et sous-déléguer des fonctions à des tiers conformément à l’article 110, comprenant au moins les éléments suivants :
 
-1. la raison sociale et l’identifiant pertinent de la société de gestion ;
+  - la raison sociale et l’identifiant pertinent de la société de gestion ;
 
-2. pour chaque délégataire :
+  - pour chaque délégataire :
 
-- sa raison sociale et son identifiant pertinent,
+    - sa raison sociale et son identifiant pertinent,
 
-- le territoire sur lequel il est établi, et
+    - le territoire sur lequel il est établi, et
 
-- le cas échéant, son autorité de surveillance ;
+    - le cas échéant, son autorité de surveillance ;
 
-3. une description détaillée des ressources humaines et techniques utilisées par la société de gestion pour :
+  - une description détaillée des ressources humaines et techniques utilisées par la société de gestion pour :
 
-- l’exécution des tâches quotidiennes de gestion de portefeuille ou de gestion des risques au sein de la société de gestion, et
+    - l’exécution des tâches quotidiennes de gestion de portefeuille ou de gestion des risques au sein de la société de gestion, et
 
-- le suivi des tâches déléguées ;
+    - le suivi des tâches déléguées ;
 
-4. au sujet de chacun des OPCVM qu’elle gère ou a l’intention de gérer :
+  - au sujet de chacun des OPCVM qu’elle gère ou a l’intention de gérer :
 
-- une description succincte de la fonction de gestion de portefeuille qui a été déléguée, précisant s’il s’agit d’une délégation partielle ou complète, et
+    - une description succincte de la fonction de gestion de portefeuille qui a été déléguée, précisant s’il s’agit d’une délégation partielle ou complète, et
 
-- une description succincte de la fonction de gestion des risques qui a été déléguée, précisant s’il s’agit d’une délégation partielle ou complète ;
+    - une description succincte de la fonction de gestion des risques qui a été déléguée, précisant s’il s’agit d’une délégation partielle ou complète ;
 
-5. une description des mesures de vigilance périodiques devant être mises en œuvre par la société de gestion pour effectuer le suivi des tâches déléguées.
+  - une description des mesures de vigilance périodiques devant être mises en œuvre par la société de gestion pour effectuer le suivi des tâches déléguées.
 
 (2)
 
@@ -2876,17 +2876,17 @@ L'octroi de l'agrément implique pour les membres de l'organe de direction de la
 
 La CSSF ne peut retirer l'agrément à une société de gestion relevant du présent chapitre que lorsque celle-ci :
 
-1. ne fait pas usage de l'agrément dans un délai de douze mois, y renonce expressément ou a cessé d'exercer l'activité couverte par le présent chapitre depuis plus de six mois ;
+- ne fait pas usage de l'agrément dans un délai de douze mois, y renonce expressément ou a cessé d'exercer l'activité couverte par le présent chapitre depuis plus de six mois ;
 
-2. a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier ;
+- a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier ;
 
-3. ne remplit plus les conditions d'octroi de l'agrément ;
+- ne remplit plus les conditions d'octroi de l'agrément ;
 
-4. ne respecte plus les dispositions de la loi modifiée du 5 avril 1993 relative au secteur financier, résultant de la transposition de la directive 2006/49/CE, si son agrément couvre aussi le service de gestion de portefeuilles sur une base discrétionnaire visé à l'article 101 paragraphe 3, point a) ci-dessus ;
+- ne respecte plus les dispositions de la loi modifiée du 5 avril 1993 relative au secteur financier, résultant de la transposition de la directive 2006/49/CE, si son agrément couvre aussi le service de gestion de portefeuilles sur une base discrétionnaire visé à l'article 101 paragraphe 3, point a) ci-dessus ;
 
-5. a enfreint de manière grave et/ou systématique les dispositions de la présente loi ou des règlements adoptés en application de celle-ci ;
+- a enfreint de manière grave et/ou systématique les dispositions de la présente loi ou des règlements adoptés en application de celle-ci ;
 
-6. relève d'un des autres cas de retrait prévus par la présente loi.
+- relève d'un des autres cas de retrait prévus par la présente loi.
 
 (6)
 
@@ -2909,11 +2909,11 @@ La CSSF refuse l'agrément si, compte tenu de la nécessité de garantir une ges
 
 Fait l'objet d'une consultation préalable des autorités compétentes de l'autre État membre concerné l'agrément d'une société de gestion qui est :
 
-1. une filiale d'une autre société de gestion, d'une entreprise d'investissement, d'un établissement de crédit ou d'une entreprise d'assurance agréés dans un autre État membre ;
+- une filiale d'une autre société de gestion, d'une entreprise d'investissement, d'un établissement de crédit ou d'une entreprise d'assurance agréés dans un autre État membre ;
 
-2. une filiale de l'entreprise mère d'une autre société de gestion, d'une entreprise d'investissement, d'un établissement de crédit ou d'une entreprise d'assurance agréés dans un autre État membre, ou
+- une filiale de l'entreprise mère d'une autre société de gestion, d'une entreprise d'investissement, d'un établissement de crédit ou d'une entreprise d'assurance agréés dans un autre État membre, ou
 
-3. contrôlée par les mêmes personnes physiques ou morales qu'une autre société de gestion, qu'une entreprise d'investissement, qu'un établissement de crédit ou qu'une entreprise d'assurance agréés dans un autre État membre.
+- contrôlée par les mêmes personnes physiques ou morales qu'une autre société de gestion, qu'une entreprise d'investissement, qu'un établissement de crédit ou qu'une entreprise d'assurance agréés dans un autre État membre.
 
 <a id="art-104"></a>
 ## Art. 104.
@@ -3048,9 +3048,9 @@ Il est statué, après le rapport des commissaires, sur la gestion des liquidate
 
 Celle-ci est publiée conformément au paragraphe 6. Cette publication comprend en outre :
 
-1. l'indication de l'endroit désigné par le tribunal où les livres et documents sociaux doivent être déposés pendant cinq ans au moins ;
+- l'indication de l'endroit désigné par le tribunal où les livres et documents sociaux doivent être déposés pendant cinq ans au moins ;
 
-2. l'indication des mesures prises en vue de la consignation des sommes et valeurs revenant aux créanciers et aux actionnaires dont la remise n'a pu leur être faite.
+- l'indication des mesures prises en vue de la consignation des sommes et valeurs revenant aux créanciers et aux actionnaires dont la remise n'a pu leur être faite.
 
 (10)
 
@@ -3098,9 +3098,9 @@ Aux fins de la présente loi, les termes « entreprise/entreprise d'investisseme
 
 Compte tenu de la nature de l'OPCVM qu'elle gère et au titre des règles prudentielles qu'elle est tenue d'observer à tout moment pour l'activité de gestion d'OPCVM au sens de la directive 2009/65/CE, une société de gestion est obligée :
 
-1. d'avoir une bonne organisation administrative et comptable, des dispositifs de contrôle et de sauvegarde dans le domaine du traitement électronique des données, y compris en ce qui concerne les réseaux et les systèmes d'information qui sont mis en place et gérés conformément au règlement (UE)2022/2554 du Parlement européen et du Conseil du 14 décembre 2022 sur la résilience opérationnelle numérique du secteur financier et modifiant les règlements (CE) n° 1060/2009, (UE) n° 648/2012, (UE) n° 600/2014, (UE) n° 909/2014 et (UE) 2016/1011, ainsi que des mécanismes de contrôle interne adéquats incluant, notamment, des règles concernant les opérations personnelles de ses salariés ou la détention ou la gestion de placements dans des instruments financiers en vue d'investir pour son propre compte et garantissant, au minimum, que chaque transaction concernant l'OPCVM peut être reconstituée quant à son origine, aux parties concernées, à sa nature, ainsi qu'au moment et au lieu où elle a été effectuée, et que les actifs des OPCVM gérés par la société de gestion sont investis conformément au règlement de gestion ou aux documents constitutifs et aux dispositions légales en vigueur ;
+- d'avoir une bonne organisation administrative et comptable, des dispositifs de contrôle et de sauvegarde dans le domaine du traitement électronique des données, y compris en ce qui concerne les réseaux et les systèmes d'information qui sont mis en place et gérés conformément au règlement (UE)2022/2554 du Parlement européen et du Conseil du 14 décembre 2022 sur la résilience opérationnelle numérique du secteur financier et modifiant les règlements (CE) n° 1060/2009, (UE) n° 648/2012, (UE) n° 600/2014, (UE) n° 909/2014 et (UE) 2016/1011, ainsi que des mécanismes de contrôle interne adéquats incluant, notamment, des règles concernant les opérations personnelles de ses salariés ou la détention ou la gestion de placements dans des instruments financiers en vue d'investir pour son propre compte et garantissant, au minimum, que chaque transaction concernant l'OPCVM peut être reconstituée quant à son origine, aux parties concernées, à sa nature, ainsi qu'au moment et au lieu où elle a été effectuée, et que les actifs des OPCVM gérés par la société de gestion sont investis conformément au règlement de gestion ou aux documents constitutifs et aux dispositions légales en vigueur ;
 
-2. d'être structurée et organisée de façon à restreindre au minimum le risque que des conflits d'intérêts entre la société et ses clients, entre deux de ses clients, entre un de ses clients et un OPCVM ou entre deux OPCVM ne nuisent aux intérêts des OPCVM ou des clients.
+- d'être structurée et organisée de façon à restreindre au minimum le risque que des conflits d'intérêts entre la société et ses clients, entre deux de ses clients, entre un de ses clients et un OPCVM ou entre deux OPCVM ne nuisent aux intérêts des OPCVM ou des clients.
 
 (2)
 
@@ -3117,25 +3117,25 @@ Les sociétés de gestion dont l'agrément couvre aussi le service de gestion de
 
 Les sociétés de gestion qui prévoient de déléguer à des tiers l’exercice, pour leur compte, d’une ou de plusieurs des fonctions visées à l’annexe II ou des services visés à l’article 101, paragraphe 3, le notifient à la CSSF avant que les dispositions de la délégation ne prennent effet. Les conditions suivantes sont remplies :
 
-1. la société de gestion doit informer la CSSF de manière adéquate ; la CSSF transmet sans délai les informations aux autorités compétentes de l'État membre d'origine de l'OPCVM ;
+- la société de gestion doit informer la CSSF de manière adéquate ; la CSSF transmet sans délai les informations aux autorités compétentes de l'État membre d'origine de l'OPCVM ;
 
-2. le mandat ne peut entraver le bon exercice de la surveillance dont la société de gestion fait l'objet ; en particulier, il n'empêche pas la société de gestion d'agir, ni l'OPCVM d'être géré, au mieux des intérêts des investisseurs et des clients ;
+- le mandat ne peut entraver le bon exercice de la surveillance dont la société de gestion fait l'objet ; en particulier, il n'empêche pas la société de gestion d'agir, ni l'OPCVM d'être géré, au mieux des intérêts des investisseurs et des clients ;
 
-3. lorsque la délégation se rapporte à la gestion d'investissements, le mandat ne peut être donné qu'aux entreprises agréées ou immatriculées aux fins de la gestion de portefeuille et soumises à une surveillance prudentielle ; la délégation doit être en conformité avec les critères de répartition des investissements fixés périodiquement par la société de gestion ;
+- lorsque la délégation se rapporte à la gestion d'investissements, le mandat ne peut être donné qu'aux entreprises agréées ou immatriculées aux fins de la gestion de portefeuille et soumises à une surveillance prudentielle ; la délégation doit être en conformité avec les critères de répartition des investissements fixés périodiquement par la société de gestion ;
 
-4. lorsque le mandat se rapporte à la gestion d'investissements et est donné à une entreprise d'un pays tiers, la coopération entre la CSSF et l'autorité de surveillance de ce pays doit être assurée ;
+- lorsque le mandat se rapporte à la gestion d'investissements et est donné à une entreprise d'un pays tiers, la coopération entre la CSSF et l'autorité de surveillance de ce pays doit être assurée ;
 
-5. aucun mandat se rapportant à la fonction principale de gestion des investissements n'est donné au dépositaire, ni à aucune autre entreprise dont les intérêts peuvent être en conflit avec ceux de la société de gestion ou des porteurs de parts ;
+- aucun mandat se rapportant à la fonction principale de gestion des investissements n'est donné au dépositaire, ni à aucune autre entreprise dont les intérêts peuvent être en conflit avec ceux de la société de gestion ou des porteurs de parts ;
 
-6. il doit exister des mesures permettant aux personnes qui dirigent l'activité de la société de gestion de contrôler effectivement à tout moment l'activité de l'entreprise à laquelle le mandat est donné ;
+- il doit exister des mesures permettant aux personnes qui dirigent l'activité de la société de gestion de contrôler effectivement à tout moment l'activité de l'entreprise à laquelle le mandat est donné ;
 
-7. le mandat n'empêche pas les personnes qui dirigent l'activité de la société de gestion de donner à tout moment des instructions supplémentaires à l'entreprise à laquelle des fonctions ou une prestation de services sont déléguées ni de lui retirer le mandat avec effet immédiat lorsqu'il y va de l'intérêt des investisseurs et des clients ;
+- le mandat n'empêche pas les personnes qui dirigent l'activité de la société de gestion de donner à tout moment des instructions supplémentaires à l'entreprise à laquelle des fonctions ou une prestation de services sont déléguées ni de lui retirer le mandat avec effet immédiat lorsqu'il y va de l'intérêt des investisseurs et des clients ;
 
-8. selon la nature des fonctions ou de la prestation de services à déléguer, l'entreprise à laquelle des fonctions ou la prestation de services seront déléguées doit être qualifiée et capable d'exercer les fonctions ou de fournir les services en question ; et
+- selon la nature des fonctions ou de la prestation de services à déléguer, l'entreprise à laquelle des fonctions ou la prestation de services seront déléguées doit être qualifiée et capable d'exercer les fonctions ou de fournir les services en question ; et
 
-9. les prospectus de l'OPCVM doivent énumérer les services et les fonctions que la société de gestion a été autorisée à déléguer conformément au présent article ; et
+- les prospectus de l'OPCVM doivent énumérer les services et les fonctions que la société de gestion a été autorisée à déléguer conformément au présent article ; et
 
-10. la société de gestion est en mesure de motiver objectivement l’ensemble de sa structure de délégation.
+- la société de gestion est en mesure de motiver objectivement l’ensemble de sa structure de délégation.
 
 (2)
 
@@ -3156,13 +3156,13 @@ La société de gestion veille à ce que l’exercice des fonctions visées à l
 
 Dans le cadre de ses activités, une société de gestion visée par le présent chapitre devra à tout moment, au titre des règles de conduite :
 
-1. agir dans l'exercice de son activité, loyalement et équitablement au mieux des intérêts des OPCVM qu'elle gère et de l'intégrité du marché, agir avec la compétence, le soin et la diligence qui s'imposent, au mieux des intérêts des OPCVM qu'elle gère et de l'intégrité du marché,
+- agir dans l'exercice de son activité, loyalement et équitablement au mieux des intérêts des OPCVM qu'elle gère et de l'intégrité du marché, agir avec la compétence, le soin et la diligence qui s'imposent, au mieux des intérêts des OPCVM qu'elle gère et de l'intégrité du marché,
 
-2. avoir et utiliser avec efficacité les ressources et les procédures nécessaires pour mener à bonne fin ses activités,
+- avoir et utiliser avec efficacité les ressources et les procédures nécessaires pour mener à bonne fin ses activités,
 
-3. s'efforcer d'écarter les conflits d'intérêts et, lorsque ces derniers ne peuvent être évités, veiller à ce que les OPCVM qu'elle gère soient traités équitablement, et
+- s'efforcer d'écarter les conflits d'intérêts et, lorsque ces derniers ne peuvent être évités, veiller à ce que les OPCVM qu'elle gère soient traités équitablement, et
 
-4. se conformer à toutes les réglementations applicables à l'exercice de ses activités de manière à promouvoir au mieux les intérêts des investisseurs et l'intégrité du marché.
+- se conformer à toutes les réglementations applicables à l'exercice de ses activités de manière à promouvoir au mieux les intérêts des investisseurs et l'intégrité du marché.
 
 (2)
 
@@ -3190,41 +3190,41 @@ Les politiques et pratiques de rémunération s'appliquent aux catégories de pe
 
 Lorsqu'elles définissent et appliquent les politiques de rémunération visées à l'article 111bis, les sociétés de gestion respectent les principes suivants d'une manière et dans une mesure qui soient adaptées à leur taille et à leur organisation interne, ainsi qu'à la nature, à la portée et à la complexité de leurs activités :
 
-1. la politique de rémunération est compatible avec une gestion saine et efficace des risques, la favorise et n'encourage pas une prise de risque qui serait incompatible avec les profils de risque, le règlement ou les documents constitutifs des OPCVM que la société de gestion gère ;
+- la politique de rémunération est compatible avec une gestion saine et efficace des risques, la favorise et n'encourage pas une prise de risque qui serait incompatible avec les profils de risque, le règlement ou les documents constitutifs des OPCVM que la société de gestion gère ;
 
-2. la politique de rémunération est conforme à la stratégie économique, aux objectifs, aux valeurs et aux intérêts de la société de gestion et des OPCVM qu'elle gère et à ceux des investisseurs dans ces OPCVM, et comprend des mesures visant à éviter les conflits d'intérêts ;
+- la politique de rémunération est conforme à la stratégie économique, aux objectifs, aux valeurs et aux intérêts de la société de gestion et des OPCVM qu'elle gère et à ceux des investisseurs dans ces OPCVM, et comprend des mesures visant à éviter les conflits d'intérêts ;
 
-3. la politique de rémunération est adoptée par l'organe de direction de la société de gestion dans l'exercice de sa mission de surveillance, lequel adopte et réexamine au moins une fois par an les principes généraux de la politique de rémunération et est responsable de leur mise en œuvre et la supervise. Les tâches visées au présent point ne sont exécutées que par des membres de l'organe de direction qui n'exercent aucune fonction exécutive au sein de la société de gestion concernée et sont spécialisés dans la gestion des risques et les systèmes de rémunération ;
+- la politique de rémunération est adoptée par l'organe de direction de la société de gestion dans l'exercice de sa mission de surveillance, lequel adopte et réexamine au moins une fois par an les principes généraux de la politique de rémunération et est responsable de leur mise en œuvre et la supervise. Les tâches visées au présent point ne sont exécutées que par des membres de l'organe de direction qui n'exercent aucune fonction exécutive au sein de la société de gestion concernée et sont spécialisés dans la gestion des risques et les systèmes de rémunération ;
 
-4. la mise en œuvre de la politique de rémunération fait l'objet, au moins une fois par an, d'une évaluation interne centrale et indépendante qui vise à vérifier qu'elle est conforme aux politiques et procédures de rémunération adoptées par l'organe de direction dans l'exercice de sa mission de surveillance ;
+- la mise en œuvre de la politique de rémunération fait l'objet, au moins une fois par an, d'une évaluation interne centrale et indépendante qui vise à vérifier qu'elle est conforme aux politiques et procédures de rémunération adoptées par l'organe de direction dans l'exercice de sa mission de surveillance ;
 
-5. le personnel engagé dans des fonctions de contrôle est rémunéré en fonction de la réalisation des objectifs liés à ses fonctions, indépendamment des performances des secteurs d'exploitation qu'il contrôle ;
+- le personnel engagé dans des fonctions de contrôle est rémunéré en fonction de la réalisation des objectifs liés à ses fonctions, indépendamment des performances des secteurs d'exploitation qu'il contrôle ;
 
-6. la rémunération des hauts responsables en charge des fonctions de gestion des risques et de conformité est directement supervisée par le comité de rémunération, lorsqu'un tel comité existe ;
+- la rémunération des hauts responsables en charge des fonctions de gestion des risques et de conformité est directement supervisée par le comité de rémunération, lorsqu'un tel comité existe ;
 
-7. lorsque la rémunération varie en fonction des performances, son montant total est établi en combinant l'évaluation au regard des performances de la personne et de l'unité opérationnelle ou de l'OPCVM concernés et au regard de leurs risques avec celle des résultats d'ensemble de la société de gestion lors de l'évaluation des performances individuelles, en tenant compte de critères financiers et non financiers ;
+- lorsque la rémunération varie en fonction des performances, son montant total est établi en combinant l'évaluation au regard des performances de la personne et de l'unité opérationnelle ou de l'OPCVM concernés et au regard de leurs risques avec celle des résultats d'ensemble de la société de gestion lors de l'évaluation des performances individuelles, en tenant compte de critères financiers et non financiers ;
 
-8. l'évaluation des performances s'inscrit dans un cadre pluriannuel adapté à la période de détention recommandée aux investisseurs de l'OPCVM géré par la société de gestion, afin de garantir qu'elle porte bien sur les performances à long terme de l'OPCVM et sur ses risques d'investissement et que le paiement effectif des composantes de la rémunération qui dépendent des performances s'échelonne sur la même période ;
+- l'évaluation des performances s'inscrit dans un cadre pluriannuel adapté à la période de détention recommandée aux investisseurs de l'OPCVM géré par la société de gestion, afin de garantir qu'elle porte bien sur les performances à long terme de l'OPCVM et sur ses risques d'investissement et que le paiement effectif des composantes de la rémunération qui dépendent des performances s'échelonne sur la même période ;
 
-9. la rémunération variable garantie est exceptionnelle, ne s'applique que dans le cadre de l'embauche d'un nouveau membre du personnel et est limitée à la première année d'engagement ;
+- la rémunération variable garantie est exceptionnelle, ne s'applique que dans le cadre de l'embauche d'un nouveau membre du personnel et est limitée à la première année d'engagement ;
 
-10. un équilibre approprié est établi entre les composantes fixe et variable de la rémunération globale, la composante fixe représente une part suffisamment élevée de la rémunération globale pour qu'une politique pleinement souple puisse être exercée en matière de composantes variables de la rémunération, notamment la possibilité de ne payer aucune composante variable ;
+- un équilibre approprié est établi entre les composantes fixe et variable de la rémunération globale, la composante fixe représente une part suffisamment élevée de la rémunération globale pour qu'une politique pleinement souple puisse être exercée en matière de composantes variables de la rémunération, notamment la possibilité de ne payer aucune composante variable ;
 
-11. les paiements liés à la résiliation anticipée d'un contrat correspondent à des performances réalisées sur la durée et sont conçus de manière à ne pas récompenser l'échec ;
+- les paiements liés à la résiliation anticipée d'un contrat correspondent à des performances réalisées sur la durée et sont conçus de manière à ne pas récompenser l'échec ;
 
-12. la mesure des performances, lorsqu'elle sert de base au calcul des composantes variables de la rémunération individuelle ou collective, comporte un mécanisme global d'ajustement qui intègre tous les types de risques pertinents actuels et futurs ;
+- la mesure des performances, lorsqu'elle sert de base au calcul des composantes variables de la rémunération individuelle ou collective, comporte un mécanisme global d'ajustement qui intègre tous les types de risques pertinents actuels et futurs ;
 
-13. en fonction de la structure juridique de l'OPCVM et de son règlement ou de ses documents constitutifs, une part importante, et dans tous les cas au moins égale à 50% de toute la composante variable de la rémunération, consiste en des parts de l'OPCVM concerné, en une participation équivalente, ou en des instruments liés aux actions ou en des instruments non numéraires équivalents présentant des incitations aussi efficaces que les instruments visés au présent point, à moins que la gestion d'OPCVM ne représente moins de 50% du portefeuille total géré par la société de gestion, auquel cas le seuil minimal de 50% ne s'applique pas. Les instruments visés au présent point sont soumis à une politique de rétention appropriée visant à aligner les incitations sur les intérêts de la société de gestion et des OPCVM qu'elle gère et sur ceux des investisseurs de ces OPCVM. Le présent point s'applique tant à la part de la composante variable de la rémunération reportée conformément au point n) qu'à la part de la rémunération variable non reportée ;
+- en fonction de la structure juridique de l'OPCVM et de son règlement ou de ses documents constitutifs, une part importante, et dans tous les cas au moins égale à 50% de toute la composante variable de la rémunération, consiste en des parts de l'OPCVM concerné, en une participation équivalente, ou en des instruments liés aux actions ou en des instruments non numéraires équivalents présentant des incitations aussi efficaces que les instruments visés au présent point, à moins que la gestion d'OPCVM ne représente moins de 50% du portefeuille total géré par la société de gestion, auquel cas le seuil minimal de 50% ne s'applique pas. Les instruments visés au présent point sont soumis à une politique de rétention appropriée visant à aligner les incitations sur les intérêts de la société de gestion et des OPCVM qu'elle gère et sur ceux des investisseurs de ces OPCVM. Le présent point s'applique tant à la part de la composante variable de la rémunération reportée conformément au point n) qu'à la part de la rémunération variable non reportée ;
 
-14. une part substantielle, et dans tous les cas au moins égale à 40%, de la composante variable de la rémunération, est reportée pendant une période appropriée compte tenu de la période de détention recommandée aux investisseurs de l'OPCVM concerné; cette part est équitablement proportionnée à la nature des risques liés à l'OPCVM en question. La période visée au présent point devrait être d'au moins trois ans; la rémunération due en vertu de dispositifs de report n'est acquise au maximum qu'au prorata; si la composante variable de la rémunération représente un montant particulièrement élevé, le paiement d'au moins 60% de ce montant est reporté ;
+- une part substantielle, et dans tous les cas au moins égale à 40%, de la composante variable de la rémunération, est reportée pendant une période appropriée compte tenu de la période de détention recommandée aux investisseurs de l'OPCVM concerné; cette part est équitablement proportionnée à la nature des risques liés à l'OPCVM en question. La période visée au présent point devrait être d'au moins trois ans; la rémunération due en vertu de dispositifs de report n'est acquise au maximum qu'au prorata; si la composante variable de la rémunération représente un montant particulièrement élevé, le paiement d'au moins 60% de ce montant est reporté ;
 
-15. la rémunération variable, y compris la part reportée, n'est payée ou acquise que si elle est compatible avec la situation financière de la société de gestion dans son ensemble et si elle est justifiée par les performances de l'unité opérationnelle, de l'OPCVM et de la personne concernés. Le montant total des rémunérations variables est en général considérablement réduit lorsque la société de gestion ou l'OPCVM concerné enregistre des performances financières médiocres ou négatives, compte tenu à la fois des rémunérations actuelles et des réductions des versements de montants antérieurement acquis, y compris par des dispositifs de malus ou de récupération ;
+- la rémunération variable, y compris la part reportée, n'est payée ou acquise que si elle est compatible avec la situation financière de la société de gestion dans son ensemble et si elle est justifiée par les performances de l'unité opérationnelle, de l'OPCVM et de la personne concernés. Le montant total des rémunérations variables est en général considérablement réduit lorsque la société de gestion ou l'OPCVM concerné enregistre des performances financières médiocres ou négatives, compte tenu à la fois des rémunérations actuelles et des réductions des versements de montants antérieurement acquis, y compris par des dispositifs de malus ou de récupération ;
 
-16. la politique en matière de pensions est conforme à la stratégie économique, aux objectifs, aux valeurs et aux intérêts à long terme de la société de gestion et des OPCVM qu'elle gère. Si le salarié quitte la société de gestion avant la retraite, les prestations de pension discrétionnaires sont conservées par la société de gestion pour une période de cinq ans sous la forme d'instruments définis au point m). Dans le cas d'un salarié qui atteint l'âge de la retraite, les prestations de pension discrétionnaires sont versées au salarié sous la forme d'instruments définis au point m), sous réserve d'une période de rétention de cinq ans ;
+- la politique en matière de pensions est conforme à la stratégie économique, aux objectifs, aux valeurs et aux intérêts à long terme de la société de gestion et des OPCVM qu'elle gère. Si le salarié quitte la société de gestion avant la retraite, les prestations de pension discrétionnaires sont conservées par la société de gestion pour une période de cinq ans sous la forme d'instruments définis au point m). Dans le cas d'un salarié qui atteint l'âge de la retraite, les prestations de pension discrétionnaires sont versées au salarié sous la forme d'instruments définis au point m), sous réserve d'une période de rétention de cinq ans ;
 
-17. le personnel est tenu de s'engager à ne pas utiliser des stratégies de couverture personnelle ou des assurances liées à la rémunération ou à la responsabilité pour contrecarrer l'incidence de l'alignement sur le risque incorporé dans ses conventions de rémunération ;
+- le personnel est tenu de s'engager à ne pas utiliser des stratégies de couverture personnelle ou des assurances liées à la rémunération ou à la responsabilité pour contrecarrer l'incidence de l'alignement sur le risque incorporé dans ses conventions de rémunération ;
 
-18. la rémunération variable n'est pas versée par le biais d'instruments ou de méthodes qui facilitent le contournement des exigences de la présente loi.
+- la rémunération variable n'est pas versée par le biais d'instruments ou de méthodes qui facilitent le contournement des exigences de la présente loi.
 
 (2)
 
@@ -3276,13 +3276,13 @@ Outre l'obligation de satisfaire aux conditions prévues aux articles 101 et 102
 
 La notification prévue au paragraphe 1 doit s'accompagner des informations et des documents suivants:
 
-1. l'État membre sur le territoire duquel elle envisage d'établir une succursale ;
+- l'État membre sur le territoire duquel elle envisage d'établir une succursale ;
 
-2. un programme précisant les activités et les services au sens de l'article 101, paragraphes 2 et 3, envisagés ainsi que la structure de l'organisation de la succursale et comportant une description du processus de gestion des risques mis en place par la société de gestion. Il comporte également une description des procédures et des modalités arrêtées conformément à l'article 112 ;
+- un programme précisant les activités et les services au sens de l'article 101, paragraphes 2 et 3, envisagés ainsi que la structure de l'organisation de la succursale et comportant une description du processus de gestion des risques mis en place par la société de gestion. Il comporte également une description des procédures et des modalités arrêtées conformément à l'article 112 ;
 
-3. l'adresse, dans l'État membre d'accueil de la société de gestion, à laquelle les documents peuvent être obtenus ; et
+- l'adresse, dans l'État membre d'accueil de la société de gestion, à laquelle les documents peuvent être obtenus ; et
 
-4. le nom des dirigeants de la succursale.
+- le nom des dirigeants de la succursale.
 
 (3)
 
@@ -3325,9 +3325,9 @@ La CSSF met à jour les informations contenues dans l'attestation visée au para
 
 Toute société de gestion agréée conformément au présent chapitre qui désire exercer pour la première fois les activités pour lesquelles elle a été agréée sur le territoire d'un autre État membre au titre de la libre prestation de services communique à la CSSF les informations suivantes :
 
-1. l'État membre sur le territoire duquel elle envisage d'opérer ; et
+- l'État membre sur le territoire duquel elle envisage d'opérer ; et
 
-2. un programme indiquant les activités et les services visés à l'article 101, paragraphes 2 et 3, envisagés et comportant une description du processus de gestion des risques mis en place par la société de gestion. Il comporte également une description des procédures et des modalités arrêtées conformément à l'article 112.
+- un programme indiquant les activités et les services visés à l'article 101, paragraphes 2 et 3, envisagés et comportant une description du processus de gestion des risques mis en place par la société de gestion. Il comporte également une description des procédures et des modalités arrêtées conformément à l'article 112.
 
 (2)
 
@@ -3362,35 +3362,35 @@ La CSSF est chargée de veiller au respect du paragraphe 1.
 
 Une société de gestion exerçant des activités de gestion collective de portefeuille sur une base transfrontalière, via la création d'une succursale ou conformément à la libre prestation de services, se conforme aux règles de l'État membre d'origine de l'OPCVM en ce qui concerne la constitution et le fonctionnement de l'OPCVM, notamment les règles applicables :
 
-1. à la constitution et à l'agrément des OPCVM ;
+- à la constitution et à l'agrément des OPCVM ;
 
-2. à l'émission et au remboursement de parts ;
+- à l'émission et au remboursement de parts ;
 
-3. aux politiques et aux limites d'investissements, notamment le calcul du risque global et de l'effet de levier ;
+- aux politiques et aux limites d'investissements, notamment le calcul du risque global et de l'effet de levier ;
 
-4. aux restrictions relatives aux emprunts, aux prêts et aux ventes à découvert ;
+- aux restrictions relatives aux emprunts, aux prêts et aux ventes à découvert ;
 
-5. à l'évaluation des actifs et à la comptabilité des OPCVM ;
+- à l'évaluation des actifs et à la comptabilité des OPCVM ;
 
-6. au calcul du prix d'émission ou de remboursement, ainsi qu'aux erreurs dans le calcul de la valeur nette d'inventaire et l'indemnisation afférente des investisseurs ;
+- au calcul du prix d'émission ou de remboursement, ainsi qu'aux erreurs dans le calcul de la valeur nette d'inventaire et l'indemnisation afférente des investisseurs ;
 
-7. à la distribution ou au réinvestissement des revenus ;
+- à la distribution ou au réinvestissement des revenus ;
 
-8. aux obligations qui incombent aux OPCVM en matière de divulgation et de rapports, notamment en ce qui concerne les prospectus, les informations clés pour l'investisseur et les rapports périodiques ;
+- aux obligations qui incombent aux OPCVM en matière de divulgation et de rapports, notamment en ce qui concerne les prospectus, les informations clés pour l'investisseur et les rapports périodiques ;
 
-9. aux modalités prévues pour la commercialisation ;
+- aux modalités prévues pour la commercialisation ;
 
-10. aux relations avec les porteurs de parts ;
+- aux relations avec les porteurs de parts ;
 
-11. à la fusion et à la restructuration des OPCVM ;
+- à la fusion et à la restructuration des OPCVM ;
 
-12. à la dissolution et à la liquidation des OPCVM ;
+- à la dissolution et à la liquidation des OPCVM ;
 
-13. le cas échéant, au contenu du registre des porteurs de parts ;
+- le cas échéant, au contenu du registre des porteurs de parts ;
 
-14. aux frais d'agrément et de surveillance des OPCVM ; et
+- aux frais d'agrément et de surveillance des OPCVM ; et
 
-15. à l'exercice des droits de vote des porteurs de parts et des autres droits des porteurs de parts en relation avec les points a) à m).
+- à l'exercice des droits de vote des porteurs de parts et des autres droits des porteurs de parts en relation avec les points a) à m).
 
 (4)
 
@@ -3411,9 +3411,9 @@ La CSSF veille à l'adéquation des modalités d'organisation de la société de
 
 Une société de gestion relevant du présent chapitre qui demande de gérer un OPCVM établi dans un autre État membre fournit aux autorités compétentes de l'État membre d'origine de l'OPCVM les documents suivants :
 
-1. le contrat écrit conclu avec le dépositaire, visé à l'article 22, paragraphe 2, de la directive 2009/65/CE ; et
+- le contrat écrit conclu avec le dépositaire, visé à l'article 22, paragraphe 2, de la directive 2009/65/CE ; et
 
-2. des informations relatives aux modalités de délégation, en ce qui concerne les fonctions visées à l'annexe II en matière d'administration et de gestion des placements. Lorsqu'une société de gestion gère déjà un autre OPCVM du même type dans l'État membre d'origine de l'OPCVM, une référence à la documentation déjà fournie est suffisante.
+- des informations relatives aux modalités de délégation, en ce qui concerne les fonctions visées à l'annexe II en matière d'administration et de gestion des placements. Lorsqu'une société de gestion gère déjà un autre OPCVM du même type dans l'État membre d'origine de l'OPCVM, une référence à la documentation déjà fournie est suffisante.
 
 (2)
 
@@ -3526,35 +3526,35 @@ Une société de gestion exerçant au Luxembourg des activités de gestion colle
 
 La société de gestion visée au paragraphe 1 se conforme aux règles en vigueur au Luxembourg en ce qui concerne la constitution et le fonctionnement de l'OPCVM, notamment les règles applicables :
 
-1. à la constitution et à l'agrément des OPCVM ;
+- à la constitution et à l'agrément des OPCVM ;
 
-2. à l'émission et au remboursement de parts ;
+- à l'émission et au remboursement de parts ;
 
-3. aux politiques et aux limites d'investissements, notamment le calcul du risque global et de l'effet de levier ;
+- aux politiques et aux limites d'investissements, notamment le calcul du risque global et de l'effet de levier ;
 
-4. aux restrictions relatives aux emprunts, aux prêts et aux ventes à découvert ;
+- aux restrictions relatives aux emprunts, aux prêts et aux ventes à découvert ;
 
-5. à l'évaluation des actifs et à la comptabilité des OPCVM ;
+- à l'évaluation des actifs et à la comptabilité des OPCVM ;
 
-6. au calcul du prix d'émission ou de remboursement, ainsi qu'aux erreurs dans le calcul de la valeur nette d'inventaire et l'indemnisation afférente des investisseurs ;
+- au calcul du prix d'émission ou de remboursement, ainsi qu'aux erreurs dans le calcul de la valeur nette d'inventaire et l'indemnisation afférente des investisseurs ;
 
-7. à la distribution ou au réinvestissement des revenus ;
+- à la distribution ou au réinvestissement des revenus ;
 
-8. aux obligations qui incombent aux OPCVM en matière de divulgation et de rapports, notamment en ce qui concerne les prospectus, les informations clés pour l'investisseur et les rapports périodiques ;
+- aux obligations qui incombent aux OPCVM en matière de divulgation et de rapports, notamment en ce qui concerne les prospectus, les informations clés pour l'investisseur et les rapports périodiques ;
 
-9. aux modalités prévues pour la commercialisation ;
+- aux modalités prévues pour la commercialisation ;
 
-10. aux relations avec les porteurs de parts ;
+- aux relations avec les porteurs de parts ;
 
-11. à la fusion et à la restructuration des OPCVM ;
+- à la fusion et à la restructuration des OPCVM ;
 
-12. à la dissolution et à la liquidation des OPCVM ;
+- à la dissolution et à la liquidation des OPCVM ;
 
-13. le cas échéant, au contenu du registre des porteurs de parts ;
+- le cas échéant, au contenu du registre des porteurs de parts ;
 
-14. aux frais d'agrément et de surveillance des OPCVM ; et
+- aux frais d'agrément et de surveillance des OPCVM ; et
 
-15. à l'exercice des droits de vote des porteurs de parts et des autres droits des porteurs de parts en relation avec les points a) à m).
+- à l'exercice des droits de vote des porteurs de parts et des autres droits des porteurs de parts en relation avec les points a) à m).
 
 (3)
 
@@ -3575,9 +3575,9 @@ La société de gestion décide et est responsable de l'adoption et de la mise e
 
 Nonobstant l'article 129, une société de gestion qui demande à gérer un OPCVM établi au Luxembourg fournit à la CSSF les documents suivants :
 
-1. le contrat écrit conclu avec le dépositaire au sens des articles 17 et 33 ; et
+- le contrat écrit conclu avec le dépositaire au sens des articles 17 et 33 ; et
 
-2. des informations relatives aux modalités de délégation, en ce qui concerne les fonctions visées à l'annexe II de la présente loi en matière d'administration et de gestion des placements.
+- des informations relatives aux modalités de délégation, en ce qui concerne les fonctions visées à l'annexe II de la présente loi en matière d'administration et de gestion des placements.
 
 Lorsqu'une société de gestion gère déjà un autre OPCVM du même type au Luxembourg, une simple référence à la documentation déjà fournie est suffisante.
 
@@ -3589,11 +3589,11 @@ La CSSF demande le cas échéant aux autorités compétentes de l'État membre d
 
 La CSSF ne peut rejeter la demande de la société de gestion que si :
 
-1. la société de gestion ne se conforme pas aux règles relevant de leur responsabilité conformément à l'article 122 ;
+- la société de gestion ne se conforme pas aux règles relevant de leur responsabilité conformément à l'article 122 ;
 
-2. la société de gestion n'est pas autorisée par les autorités compétentes de son État membre d'origine à gérer le type d'OPCVM pour lequel une autorisation est demandée ; ou
+- la société de gestion n'est pas autorisée par les autorités compétentes de son État membre d'origine à gérer le type d'OPCVM pour lequel une autorisation est demandée ; ou
 
-3. la société de gestion n'a pas fourni les documents visés au paragraphe 1. Avant de rejeter une demande, la CSSF consulte les autorités compétentes de l'État membre d'origine de la société de gestion.
+- la société de gestion n'a pas fourni les documents visés au paragraphe 1. Avant de rejeter une demande, la CSSF consulte les autorités compétentes de l'État membre d'origine de la société de gestion.
 
 (4)
 
@@ -3664,17 +3664,17 @@ Les sociétés de gestion agréées sont inscrites par la CSSF sur une liste. Ce
 
 Sans préjudice de l'application de l'article 125-2, les sociétés de gestion agréées au titre du présent article ne peuvent avoir d'autres activités que celles qui sont visées ci-après :
 
-1. assurer la gestion pour des véhicules d'investissement autres que des FIA au sens de la directive 2011/61/UE ;
+- assurer la gestion pour des véhicules d'investissement autres que des FIA au sens de la directive 2011/61/UE ;
 
-2. assurer la fonction de société de gestion au sens de l'article 89, paragraphe 2 pour un ou plusieurs fonds communs de placement qui se qualifient comme des FIA au sens de la directive 2011/61/UE ou pour une ou plusieurs sociétés d'investissement à capital variable ou sociétés d'investissement à capital fixe qui se qualifient comme des FIA au sens de la directive 2011/61/UE. Dans ce cas, la société de gestion devra désigner, pour le compte du ou des fonds communs de placement et /ou du ou des sociétés d'investissement à capital variable ou sociétés d'investissement à capital fixe concernés, un gestionnaire externe conformément à l'article 88-2, paragraphe 2, point a) ;
+- assurer la fonction de société de gestion au sens de l'article 89, paragraphe 2 pour un ou plusieurs fonds communs de placement qui se qualifient comme des FIA au sens de la directive 2011/61/UE ou pour une ou plusieurs sociétés d'investissement à capital variable ou sociétés d'investissement à capital fixe qui se qualifient comme des FIA au sens de la directive 2011/61/UE. Dans ce cas, la société de gestion devra désigner, pour le compte du ou des fonds communs de placement et /ou du ou des sociétés d'investissement à capital variable ou sociétés d'investissement à capital fixe concernés, un gestionnaire externe conformément à l'article 88-2, paragraphe 2, point a) ;
 
-3. assurer la gestion pour un ou plusieurs FIA, lorsque les actifs gérés ne dépassent pas un des seuils prévus à l'article 3, paragraphe 2, de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs. Dans ce cas, les sociétés de gestion concernées devront :
+- assurer la gestion pour un ou plusieurs FIA, lorsque les actifs gérés ne dépassent pas un des seuils prévus à l'article 3, paragraphe 2, de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs. Dans ce cas, les sociétés de gestion concernées devront :
 
-- identifier les FIA qu'elles gèrent auprès de la CSSF ;
+  - identifier les FIA qu'elles gèrent auprès de la CSSF ;
 
-- fournir à la CSSF des informations sur les stratégies d'investissement des FIA qu'elles gèrent ;
+  - fournir à la CSSF des informations sur les stratégies d'investissement des FIA qu'elles gèrent ;
 
-- communiquer régulièrement à la CSSF des informations sur les principaux instruments qu'elles négocient et sur les expositions principales et les concentrations les plus importantes des FIA qu'elles gèrent de manière à permettre à la CSSF de suivre efficacement le risque systémique.
+  - communiquer régulièrement à la CSSF des informations sur les principaux instruments qu'elles négocient et sur les expositions principales et les concentrations les plus importantes des FIA qu'elles gèrent de manière à permettre à la CSSF de suivre efficacement le risque systémique.
 
 Lorsque les conditions de seuil énoncées ci-avant ne sont plus remplies et que la société de gestion n'a pas désigné de gestionnaire externe au sens de l'article 88-2, paragraphe 2, point a), ou lorsque la société de gestion a choisi de se soumettre à la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs, la société de gestion concernée doit solliciter dans un délai de trente jours civils un agrément auprès de la CSSF conformément aux procédures prévues au titre du chapitre 2 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs.
 
@@ -3686,39 +3686,39 @@ Son administration centrale et son siège statutaire doivent être situés au Lu
 
 Les sociétés de gestion tombant dans le champ d'application du présent article exerçant les activités visées aux points a) ou c) du quatrième alinéa du présent article sont autorisées à déléguer à des tiers, en vue de mener leurs activités de manière plus efficace, l'exercice, pour leur propre compte, d'une ou plusieurs de leurs fonctions. Dans ce cas, les conditions préalables suivantes doivent être remplies :
 
-1. la CSSF doit être informée de manière adéquate ;
+- la CSSF doit être informée de manière adéquate ;
 
-2. le mandat ne doit pas entraver le bon exercice de la surveillance dont la société de gestion fait l'objet ; en particulier, il ne doit ni empêcher la société de gestion d'agir, ni empêcher l'OPC d'être géré, au mieux des intérêts des investisseurs ;
+- le mandat ne doit pas entraver le bon exercice de la surveillance dont la société de gestion fait l'objet ; en particulier, il ne doit ni empêcher la société de gestion d'agir, ni empêcher l'OPC d'être géré, au mieux des intérêts des investisseurs ;
 
-3. lorsque la délégation se rapporte à la gestion d'investissements, le mandat ne peut être donné qu'aux entreprises agréées ou immatriculées aux fins de la gestion de portefeuille et soumises à une surveillance prudentielle ; lorsque le mandat est donné à une entreprise d'un pays tiers soumise à une surveillance prudentielle, la coopération entre la CSSF et l'autorité de surveillance de ce pays doit être assurée ;
+- lorsque la délégation se rapporte à la gestion d'investissements, le mandat ne peut être donné qu'aux entreprises agréées ou immatriculées aux fins de la gestion de portefeuille et soumises à une surveillance prudentielle ; lorsque le mandat est donné à une entreprise d'un pays tiers soumise à une surveillance prudentielle, la coopération entre la CSSF et l'autorité de surveillance de ce pays doit être assurée ;
 
-4. lorsque les conditions du point c) ne sont pas remplies, la délégation ne pourra devenir effective que moyennant approbation préalable de la CSSF ; et
+- lorsque les conditions du point c) ne sont pas remplies, la délégation ne pourra devenir effective que moyennant approbation préalable de la CSSF ; et
 
-5. aucun mandat se rapportant à la fonction principale de gestion des investissements n'est donné au dépositaire.
+- aucun mandat se rapportant à la fonction principale de gestion des investissements n'est donné au dépositaire.
 
 Les sociétés de gestion tombant dans le champ d'application du présent article exerçant des activités visées au point b) du quatrième alinéa du présent article sont autorisées à déléguer à des tiers, en vue de mener leurs activités de manière plus efficace, l'exercice, pour leur propre compte, d'une ou de plusieurs de leurs fonctions d'administration et de commercialisation, dans la mesure où le gestionnaire externe désigné par la société de gestion concernée n'exerce pas lui-même les fonctions en question. Dans ce cas, les conditions préalables suivantes doivent être remplies :
 
-1. la CSSF doit être informée de manière adéquate ;
+- la CSSF doit être informée de manière adéquate ;
 
-2. le mandat ne doit pas entraver le bon exercice de la surveillance dont la société de gestion fait l'objet ; en particulier, il ne doit ni empêcher la société de gestion d'agir, ni empêcher le fonds commun de placement, la société d'investissement à capital variable ou la société d'investissement à capital fixe d'être géré, au mieux des intérêts des investisseurs.
+- le mandat ne doit pas entraver le bon exercice de la surveillance dont la société de gestion fait l'objet ; en particulier, il ne doit ni empêcher la société de gestion d'agir, ni empêcher le fonds commun de placement, la société d'investissement à capital variable ou la société d'investissement à capital fixe d'être géré, au mieux des intérêts des investisseurs.
 
 (2)
 
 La CSSF n'accorde l'agrément à la société qu'aux conditions suivantes :
 
-1. elle doit disposer de moyens financiers suffisants pour lui permettre d'exercer de manière effective son activité et de faire face à ses responsabilités ; elle doit notamment disposer d'un capital social libéré minimal d'une valeur de cent vingt-cinq mille euros (125.000 euros) ; un règlement CSSF pourra fixer ce minimum à une valeur supérieure sans toutefois pouvoir dépasser la valeur de six cent vingt-cinq mille euros (625.000 euros). Les fonds propres d'une société de gestion soumise aux dispositions du présent article ne doivent pas tomber en-dessous du seuil de 125.000 euros ou, le cas échéant, du seuil minimum fixé par règlement CSSF. Toutefois, si tel est le cas, la CSSF peut, lorsque les circonstances le justifient, accorder à la société de gestion un délai limité lui permettant de régulariser sa situation ou de cesser ses activités ;
+- elle doit disposer de moyens financiers suffisants pour lui permettre d'exercer de manière effective son activité et de faire face à ses responsabilités ; elle doit notamment disposer d'un capital social libéré minimal d'une valeur de cent vingt-cinq mille euros (125.000 euros) ; un règlement CSSF pourra fixer ce minimum à une valeur supérieure sans toutefois pouvoir dépasser la valeur de six cent vingt-cinq mille euros (625.000 euros). Les fonds propres d'une société de gestion soumise aux dispositions du présent article ne doivent pas tomber en-dessous du seuil de 125.000 euros ou, le cas échéant, du seuil minimum fixé par règlement CSSF. Toutefois, si tel est le cas, la CSSF peut, lorsque les circonstances le justifient, accorder à la société de gestion un délai limité lui permettant de régulariser sa situation ou de cesser ses activités ;
 
-2. les fonds propres visés au paragraphe 2 a) sont à maintenir à la disposition permanente de la société de gestion et à investir dans son intérêt propre. Ils doivent être investis dans des actifs liquides ou des actifs aisément convertibles en liquidités à court terme et ne doivent pas comporter de positions spéculatives ;
+- les fonds propres visés au paragraphe 2 a) sont à maintenir à la disposition permanente de la société de gestion et à investir dans son intérêt propre. Ils doivent être investis dans des actifs liquides ou des actifs aisément convertibles en liquidités à court terme et ne doivent pas comporter de positions spéculatives ;
 
-3. les membres de l'organe de direction de la société de gestion justifient de leur honorabilité et de leur expérience professionnelles requises pour l'accomplissement de leurs fonctions. Sont visés :
+- les membres de l'organe de direction de la société de gestion justifient de leur honorabilité et de leur expérience professionnelles requises pour l'accomplissement de leurs fonctions. Sont visés :
 
-1. en ce qui concerne les sociétés anonymes, les membres du conseil d'administration ainsi que, dans le cas d'une structure dualiste, les membres du conseil de surveillance et, le cas échéant, les membres du directoire lorsque ceux-ci diffèrent des personnes qui dirigent de fait la société ;
+  - en ce qui concerne les sociétés anonymes, les membres du conseil d'administration ainsi que, dans le cas d'une structure dualiste, les membres du conseil de surveillance et, le cas échéant, les membres du directoire lorsque ceux-ci diffèrent des personnes qui dirigent de fait la société ;
 
-2. en ce qui concerne les autres types de sociétés, les membres de l'organe qui représente, en vertu de la loi et des documents constitutifs, la société de gestion ;
+  - en ce qui concerne les autres types de sociétés, les membres de l'organe qui représente, en vertu de la loi et des documents constitutifs, la société de gestion ;
 
-4. l'identité des actionnaires ou associés de référence de la société de gestion doit être communiquée à la CSSF ;
+- l'identité des actionnaires ou associés de référence de la société de gestion doit être communiquée à la CSSF ;
 
-5. la demande d'agrément doit décrire la structure de l'organisation de la société de gestion.
+- la demande d'agrément doit décrire la structure de l'organisation de la société de gestion.
 
 (3)
 
@@ -3734,15 +3734,15 @@ L'octroi de l'agrément implique pour les membres des organes d'administration, 
 
 La CSSF ne peut retirer l'agrément à une société de gestion relevant du présent chapitre que lorsque celle-ci :
 
-1. ne fait pas usage de l'agrément dans un délai de douze mois, y renonce expressément ou a cessé d'exercer l'activité couverte par le présent chapitre depuis plus de six mois ;
+- ne fait pas usage de l'agrément dans un délai de douze mois, y renonce expressément ou a cessé d'exercer l'activité couverte par le présent chapitre depuis plus de six mois ;
 
-2. a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier ;
+- a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier ;
 
-3. ne remplit plus les conditions d'octroi de l'agrément ;
+- ne remplit plus les conditions d'octroi de l'agrément ;
 
-4. a enfreint de manière grave et/ou systématique les dispositions adoptées en application de la présente loi ; ou
+- a enfreint de manière grave et/ou systématique les dispositions adoptées en application de la présente loi ; ou
 
-5. relève d'un des autres cas de retrait prévus par la présente loi.
+- relève d'un des autres cas de retrait prévus par la présente loi.
 
 (6)
 
@@ -3867,9 +3867,9 @@ Il est statué, après le rapport des commissaires, sur la gestion des liquidate
 
 Celle-ci est publiée conformément au paragraphe 6. Cette publication comprend en outre :
 
-1. l'indication de l'endroit désigné par le tribunal où les livres et documents sociaux doivent être déposés pendant cinq ans au moins ;
+- l'indication de l'endroit désigné par le tribunal où les livres et documents sociaux doivent être déposés pendant cinq ans au moins ;
 
-2. l'indication des mesures prises en vue de la consignation des sommes et valeurs revenant aux créanciers et aux actionnaires dont la remise n'a pu leur être faite.
+- l'indication des mesures prises en vue de la consignation des sommes et valeurs revenant aux créanciers et aux actionnaires dont la remise n'a pu leur être faite.
 
 (10)
 
@@ -3936,19 +3936,19 @@ Un OPC relevant de la partie II qui est géré de manière interne au sens de l'
 
 Outre les conditions du paragraphe 2 un OPCVM relevant de l'article 2 n'est agréé par la CSSF qu'aux conditions suivantes :
 
-1. Un fonds commun de placement n'est agréé que si la CSSF a approuvé la demande de la société de gestion de gérer ce fonds commun de placement. Une société d'investissement ayant désigné une société de gestion n'est agréée que si la CSSF a approuvé la demande de la société de gestion désignée de gérer cette société d'investissement.
+- Un fonds commun de placement n'est agréé que si la CSSF a approuvé la demande de la société de gestion de gérer ce fonds commun de placement. Une société d'investissement ayant désigné une société de gestion n'est agréée que si la CSSF a approuvé la demande de la société de gestion désignée de gérer cette société d'investissement.
 
-2. Sans préjudice du point a), si l'OPCVM établi au Luxembourg est géré par une société de gestion qui relève de la directive 2009/65/CE et qui a été agréée par les autorités compétentes d'un autre État membre conformément à la directive 2009/65/CE, la CSSF statue sur la demande de la société de gestion de gérer l'OPCVM, conformément à l'article 123.
+- Sans préjudice du point a), si l'OPCVM établi au Luxembourg est géré par une société de gestion qui relève de la directive 2009/65/CE et qui a été agréée par les autorités compétentes d'un autre État membre conformément à la directive 2009/65/CE, la CSSF statue sur la demande de la société de gestion de gérer l'OPCVM, conformément à l'article 123.
 
 (4)
 
 La CSSF ne peut refuser d'agréer un OPCVM relevant de l'article 2 que lorsque :
 
-1. elle établit que la société d'investissement ne satisfait pas aux conditions préalables définies au chapitre 3, ou
+- elle établit que la société d'investissement ne satisfait pas aux conditions préalables définies au chapitre 3, ou
 
-2. la société de gestion n'est pas agréée pour la gestion d'OPCVM au titre du chapitre 15, ou
+- la société de gestion n'est pas agréée pour la gestion d'OPCVM au titre du chapitre 15, ou
 
-3. la société de gestion n'est pas agréée pour la gestion d'OPCVM dans son État membre d'origine.
+- la société de gestion n'est pas agréée pour la gestion d'OPCVM dans son État membre d'origine.
 
 Sans préjudice de l'article 27, paragraphe 1, la société de gestion ou, le cas échéant, la société d'investissement est informée, dans un délai de deux mois suivant la présentation d'une demande complète, de l'octroi ou du refus de l'agrément de l'OPCVM.
 
@@ -4061,17 +4061,17 @@ La CSSF qui, au titre des paragraphes 2 et 3, reçoit des informations confident
 
 Les paragraphes 1 et 4 ne font pas obstacle à :
 
-1. l'échange d'informations à l'intérieur de l'Union européenne ou au Luxembourg, entre la CSSF et : pour l'accomplissement de leur mission,
+- l'échange d'informations à l'intérieur de l'Union européenne ou au Luxembourg, entre la CSSF et : pour l'accomplissement de leur mission,
 
-- les autorités investies de la mission publique de surveillance des établissements de crédit, des entreprises d'investissement, des compagnies d'assurances et d'autres institutions financières ainsi que les autorités chargées de la surveillance des marchés financiers,
+  - les autorités investies de la mission publique de surveillance des établissements de crédit, des entreprises d'investissement, des compagnies d'assurances et d'autres institutions financières ainsi que les autorités chargées de la surveillance des marchés financiers,
 
-- les organes impliqués dans la liquidation, la faillite ou d'autres procédures similaires concernant des OPC, des sociétés de gestion et des dépositaires ou d'autres sociétés concourant à leur activité,
+  - les organes impliqués dans la liquidation, la faillite ou d'autres procédures similaires concernant des OPC, des sociétés de gestion et des dépositaires ou d'autres sociétés concourant à leur activité,
 
-- les personnes chargées du contrôle légal des comptes des établissements de crédit, des entreprises d'investissement, d'autres établissements financiers ou des compagnies d'assurances,
+  - les personnes chargées du contrôle légal des comptes des établissements de crédit, des entreprises d'investissement, d'autres établissements financiers ou des compagnies d'assurances,
 
-- l'Autorité européenne des marchés financiers, l'Autorité bancaire européenne, l'Autorité européenne des assurances et des pensions professionnelles et le Comité européen du risque systémique,
+  - l'Autorité européenne des marchés financiers, l'Autorité bancaire européenne, l'Autorité européenne des assurances et des pensions professionnelles et le Comité européen du risque systémique,
 
-2. la transmission, à l'intérieur de l'Union européenne ou au Luxembourg, par la CSSF aux organismes chargés de la gestion des systèmes d'indemnisation des investisseurs ou de centrales des risques, des informations nécessaires à l'accomplissement de leur fonction.
+- la transmission, à l'intérieur de l'Union européenne ou au Luxembourg, par la CSSF aux organismes chargés de la gestion des systèmes d'indemnisation des investisseurs ou de centrales des risques, des informations nécessaires à l'accomplissement de leur fonction.
 
 La communication d'informations par la CSSF autorisée par le présent paragraphe est soumise à la condition que ces informations tombent sous le secret professionnel des autorités, organismes et personnes qui les reçoivent, et, n'est autorisée que dans la mesure où le secret professionnel de ces autorités, organismes et personnes offre des garanties au moins équivalentes au secret professionnel auquel est soumise la CSSF. En particulier, les autorités qui reçoivent des informations de la part de la CSSF, ne peuvent les utiliser qu'aux fins pour lesquelles elles leur ont été communiquées et doivent être en mesure d'assurer qu'aucun autre usage n'en sera fait.
 
@@ -4127,7 +4127,7 @@ Le traitement des données à caractère personnel en application de la présent
 
 (1)
 
-La CSSF coopère avec les autorités compétentes des autres États membres, ainsi qu’avec l’Autorité européenne des marchés financiers et le Comité européen du risque systémique, chaque fois que cela est nécessaire à l'accomplissement de leurs attributions au titre de la directive 2009/65/CE ou de l'exercice des pouvoirs qui leur sont conférés au titre de la directive précitée ou au titre de leur droit national.
+La CSSF coopère avec les autorités compétentes des autres États membres , ainsi qu’avec l’Autorité européenne des marchés financiers et le Comité européen du risque systémique, chaque fois que cela est nécessaire à l'accomplissement de leurs attributions au titre de la directive 2009/65/CE ou de l'exercice des pouvoirs qui leur sont conférés au titre de la directive précitée ou au titre de leur droit national.
 
 La CSSF coopère avec les autres autorités compétentes, y compris lorsque les pratiques faisant l'objet d'une enquête ne constituent pas une violation d'une règle en vigueur au Luxembourg.
 
@@ -4153,11 +4153,11 @@ Lorsque la CSSF a de bonnes raisons de soupçonner que des actes enfreignant les
 
 Les autorités compétentes d'un État membre peuvent requérir la coopération de la CSSF dans le cadre d'une activité de surveillance ou aux fins d'une vérification sur place ou dans le cadre d'une enquête au Luxembourg dans le cadre des pouvoirs qui lui sont conférés au titre de la directive 2009/65/CE. Lorsque la CSSF reçoit une demande concernant une vérification sur place ou une enquête, elle y donne suite :
 
-1. en procédant elle-même à la vérification ou à l'enquête ;
+- en procédant elle-même à la vérification ou à l'enquête ;
 
-2. en permettant aux autorités compétentes de l'État membre requérant de procéder à la vérification ou à l'enquête ;
+- en permettant aux autorités compétentes de l'État membre requérant de procéder à la vérification ou à l'enquête ;
 
-3. en permettant à des contrôleurs légaux des comptes ou à des experts de procéder à la vérification ou à l'enquête.
+- en permettant à des contrôleurs légaux des comptes ou à des experts de procéder à la vérification ou à l'enquête.
 
 (5)
 
@@ -4169,13 +4169,13 @@ Si la vérification ou l'enquête est effectuée par les autorités compétentes
 
 La CSSF peut refuser d'échanger des informations conformément au paragraphe 2 ou de donner suite à une demande de coopérer à une enquête ou à une vérification sur place conformément au paragraphe 4 uniquement lorsque :
 
-1. cette enquête, cette vérification sur place ou cet échange d'informations risque de porter atteinte à la souveraineté, à la sécurité ou à l'ordre public du Luxembourg ;
+- cette enquête, cette vérification sur place ou cet échange d'informations risque de porter atteinte à la souveraineté, à la sécurité ou à l'ordre public du Luxembourg ;
 
-2. une procédure judiciaire a déjà été engagée à l'encontre des mêmes personnes et pour les mêmes faits au Luxembourg ;
+- une procédure judiciaire a déjà été engagée à l'encontre des mêmes personnes et pour les mêmes faits au Luxembourg ;
 
-3. un jugement définitif a déjà été rendu à l'encontre des mêmes personnes et pour les mêmes faits au Luxembourg.
+- un jugement définitif a déjà été rendu à l'encontre des mêmes personnes et pour les mêmes faits au Luxembourg.
 
-4. le fait de donner suite à la demande est susceptible de nuire à la propre enquête de la CSSF ou, le cas échéant, à une enquête pénale en cours.
+- le fait de donner suite à la demande est susceptible de nuire à la propre enquête de la CSSF ou, le cas échéant, à une enquête pénale en cours.
 
 (7)
 
@@ -4223,9 +4223,9 @@ La CSSF informe les autorités compétentes de l'État membre d'origine de l'OPC
 
 Si, en dépit des mesures prises par les autorités compétentes de l'État membre d'origine de l'OPCVM, celui-ci continue d'agir d'une manière clairement préjudiciable aux intérêts des investisseurs au Luxembourg, la CSSF pourra :
 
-1. après avoir informé les autorités compétentes de l'État membre d'origine de l'OPCVM prendre toutes les mesures appropriées requises pour protéger les investisseurs, y compris empêcher l'OPCVM concerné de poursuivre la commercialisation de ses parts au Luxembourg ; ou
+- après avoir informé les autorités compétentes de l'État membre d'origine de l'OPCVM prendre toutes les mesures appropriées requises pour protéger les investisseurs, y compris empêcher l'OPCVM concerné de poursuivre la commercialisation de ses parts au Luxembourg ; ou
 
-2. s'il y a lieu, en référer à l'Autorité européenne des marchés financiers, qui peut agir dans le cadre des pouvoirs qui lui sont conférés par l'article 19 du règlement (UE) n° 1095/2010.
+- s'il y a lieu, en référer à l'Autorité européenne des marchés financiers, qui peut agir dans le cadre des pouvoirs qui lui sont conférés par l'article 19 du règlement (UE) n° 1095/2010.
 
 La CSSF doit informer la Commission de l'Union européenne et l'Autorité européenne des marchés financiers sans délai des mesures appropriées prises en application du point a).
 
@@ -4413,31 +4413,31 @@ Aux fins de l'application de la présente loi, la CSSF est investie de tous les 
 
 Les pouvoirs de la CSSF incluent le droit :
 
-1. d'accéder à tout document, sous quelque forme que ce soit, et en recevoir une copie ;
+- d'accéder à tout document, sous quelque forme que ce soit, et en recevoir une copie ;
 
-2. d'exiger de toute personne qu'elle fournisse des informations et, si nécessaire, convoquer et entendre toute personne pour en obtenir des informations ;
+- d'exiger de toute personne qu'elle fournisse des informations et, si nécessaire, convoquer et entendre toute personne pour en obtenir des informations ;
 
-3. de procéder à des inspections sur place ou des enquêtes par elle-même ou par ses délégués auprès des personnes soumises à sa surveillance au titre de la présente loi ;
+- de procéder à des inspections sur place ou des enquêtes par elle-même ou par ses délégués auprès des personnes soumises à sa surveillance au titre de la présente loi ;
 
-4. d'exiger les enregistrements des conversations téléphoniques, des communications électroniques ou autres échanges de données existants détenus par un OPC, une société de gestion, une société d'investissement, un dépositaire ou par toute autre entité régie par la présente loi ;
+- d'exiger les enregistrements des conversations téléphoniques, des communications électroniques ou autres échanges de données existants détenus par un OPC, une société de gestion, une société d'investissement, un dépositaire ou par toute autre entité régie par la présente loi ;
 
-5. d'enjoindre de cesser toute pratique contraire aux dispositions arrêtées pour la mise en œuvre de la présente loi ;
+- d'enjoindre de cesser toute pratique contraire aux dispositions arrêtées pour la mise en œuvre de la présente loi ;
 
-6. de requérir le gel ou la mise sous séquestre d'actifs auprès du Président du Tribunal d'arrondissement de et à Luxembourg statuant sur requête ;
+- de requérir le gel ou la mise sous séquestre d'actifs auprès du Président du Tribunal d'arrondissement de et à Luxembourg statuant sur requête ;
 
-7. de prononcer l'interdiction temporaire de l'exercice d'activités professionnelles à l'encontre des personnes soumises à sa surveillance prudentielle, ainsi que des membres des organes d'administration, de direction et de gestion, des salariés et des agents liés à ces personnes ;
+- de prononcer l'interdiction temporaire de l'exercice d'activités professionnelles à l'encontre des personnes soumises à sa surveillance prudentielle, ainsi que des membres des organes d'administration, de direction et de gestion, des salariés et des agents liés à ces personnes ;
 
-8. d'exiger des sociétés d'investissement, des sociétés de gestion ou des dépositaires agréés qu'ils fournissent des informations ;
+- d'exiger des sociétés d'investissement, des sociétés de gestion ou des dépositaires agréés qu'ils fournissent des informations ;
 
-9. d'arrêter tout type de mesure propre à assurer que les sociétés d'investissement, les sociétés de gestion et les dépositaires continuent de se conformer aux exigences de la présente loi ;
+- d'arrêter tout type de mesure propre à assurer que les sociétés d'investissement, les sociétés de gestion et les dépositaires continuent de se conformer aux exigences de la présente loi ;
 
-10. d'exiger, dans l'intérêt des porteurs de parts ou dans l'intérêt du public, la suspension de l'émission, du rachat ou du remboursement des parts ;
+- d'exiger, dans l'intérêt des porteurs de parts ou dans l'intérêt du public, la suspension de l'émission, du rachat ou du remboursement des parts ;
 
-11. de retirer l'agrément octroyé à un OPC, à une société de gestion ou à un dépositaire ;
+- de retirer l'agrément octroyé à un OPC, à une société de gestion ou à un dépositaire ;
 
-12. de transmettre des informations au Procureur d'État en vue de poursuites pénales ; et
+- de transmettre des informations au Procureur d'État en vue de poursuites pénales ; et
 
-13. de donner instruction à des réviseurs d'entreprises agréés ou des experts d'effectuer des vérifications ou des enquêtes.
+- de donner instruction à des réviseurs d'entreprises agréés ou des experts d'effectuer des vérifications ou des enquêtes.
 
 (2bis)
 
@@ -4455,11 +4455,11 @@ Le magistrat présidant la Chambre du tribunal d'arrondissement siégeant en mat
 
 Les actes visés à l'alinéa 1er sont les suivants :
 
-1. le fait de procéder ou de faire procéder à des opérations de collecte de l'épargne auprès du public en vue de placement sans que l'OPC n'ait été inscrit sur la liste prévue à l'article 130 ;
+- le fait de procéder ou de faire procéder à des opérations de collecte de l'épargne auprès du public en vue de placement sans que l'OPC n'ait été inscrit sur la liste prévue à l'article 130 ;
 
-2. le fait d'exercer des activités de société de gestion d'OPC sans être agréé conformément aux dispositions du chapitre 15, 16 ou 17 ;
+- le fait d'exercer des activités de société de gestion d'OPC sans être agréé conformément aux dispositions du chapitre 15, 16 ou 17 ;
 
-3. le fait de faire état d'une appellation ou d'une qualification donnant l'apparence d'activités soumises à la présente loi sans disposer de l'agrément prévu à l'article 130.
+- le fait de faire état d'une appellation ou d'une qualification donnant l'apparence d'activités soumises à la présente loi sans disposer de l'agrément prévu à l'article 130.
 
 <a id="art-148"></a>
 ## Art. 148.
@@ -4476,19 +4476,19 @@ La CSSF est compétente pour prononcer les sanctions et autres mesures administr
 
 dans les cas suivants :
 
-1. le refus de fournir les documents comptables ou autres renseignements demandés, nécessaires à la CSSF pour les besoins de l'application de la présente loi ;
+- le refus de fournir les documents comptables ou autres renseignements demandés, nécessaires à la CSSF pour les besoins de l'application de la présente loi ;
 
-2. la fourniture de documents ou d'autres renseignements qui se révèlent être incomplets, inexacts ou faux ;
+- la fourniture de documents ou d'autres renseignements qui se révèlent être incomplets, inexacts ou faux ;
 
-3. lorsqu'il est fait obstacle à l'exercice des pouvoirs de surveillance, d'inspection et d'enquête de la CSSF ;
+- lorsqu'il est fait obstacle à l'exercice des pouvoirs de surveillance, d'inspection et d'enquête de la CSSF ;
 
-4. le non-respect des règles régissant les publications des bilans et situations comptables ;
+- le non-respect des règles régissant les publications des bilans et situations comptables ;
 
-5. le manquement à se conformer aux injonctions de la CSSF prononcées par la CSSF en vertu du paragraphe 4, point b) ;
+- le manquement à se conformer aux injonctions de la CSSF prononcées par la CSSF en vertu du paragraphe 4, point b) ;
 
-6. un comportement qui risque de mettre en péril la gestion saine et prudente de l'établissement concerné ;
+- un comportement qui risque de mettre en péril la gestion saine et prudente de l'établissement concerné ;
 
-7. le non-respect des dispositions de l'article 132.
+- le non-respect des dispositions de l'article 132.
 
 (2)
 
@@ -4500,39 +4500,39 @@ Sans préjudice des dispositions prévues au paragraphe 1er, la CSSF est compét
 
 dans les cas suivants :
 
-1. lorsqu'il y a acquisition, directe ou indirecte, d'une participation qualifiée dans une société de gestion relevant du chapitre 15, ou une augmentation de cette participation qualifiée de telle façon que la proportion de droits de vote ou de parts de capital détenue atteigne ou dépasse les seuils de 20%, de 30% ou de 50% ou que la société de gestion en devienne une filiale (ci- après dénommée « acquisition envisagée »), sans notification écrite à la CSSF de la société de gestion dans laquelle il est envisagé d'acquérir une participation qualifiée ou de l'augmenter, en violation de l'article 108, paragraphe 1er ;
+- lorsqu'il y a acquisition, directe ou indirecte, d'une participation qualifiée dans une société de gestion relevant du chapitre 15, ou une augmentation de cette participation qualifiée de telle façon que la proportion de droits de vote ou de parts de capital détenue atteigne ou dépasse les seuils de 20%, de 30% ou de 50% ou que la société de gestion en devienne une filiale (ci- après dénommée « acquisition envisagée »), sans notification écrite à la CSSF de la société de gestion dans laquelle il est envisagé d'acquérir une participation qualifiée ou de l'augmenter, en violation de l'article 108, paragraphe 1er ;
 
-2. lorsqu'il y a cession, directe ou indirecte, d'une participation qualifiée dans une société de gestion relevant du chapitre 15, ou une réduction de cette participation, de telle façon que la proportion de droits de vote ou de parts de capital détenue passe sous les seuils de 20%, de 30% ou de 50%, ou que la société de gestion en cesse d'être une filiale, sans notification écrite à la CSSF, en violation de l'article 108, paragraphe 1er ;
+- lorsqu'il y a cession, directe ou indirecte, d'une participation qualifiée dans une société de gestion relevant du chapitre 15, ou une réduction de cette participation, de telle façon que la proportion de droits de vote ou de parts de capital détenue passe sous les seuils de 20%, de 30% ou de 50%, ou que la société de gestion en cesse d'être une filiale, sans notification écrite à la CSSF, en violation de l'article 108, paragraphe 1er ;
 
-3. lorsqu'une société de gestion relevant du chapitre 15 a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier, en violation de l'article 102, paragraphe 5, point b) ;
+- lorsqu'une société de gestion relevant du chapitre 15 a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier, en violation de l'article 102, paragraphe 5, point b) ;
 
-4. lorsqu'une société d'investissement au sens de l'article 27 a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier, en violation de l'article 27, paragraphe 1er ;
+- lorsqu'une société d'investissement au sens de l'article 27 a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier, en violation de l'article 27, paragraphe 1er ;
 
-5. lorsqu'une société de gestion relevant du chapitre 15, ayant eu connaissance d'acquisitions ou de cessions de participations dans son capital qui font franchir vers le haut ou vers le bas l'un des seuils de participation visés à l'article 11, paragraphe 1er, de la directive 2014/65/UE, n'informe pas la CSSF de ces acquisitions ou de ces cessions, en violation de l'article 108, paragraphe 1er ;
+- lorsqu'une société de gestion relevant du chapitre 15, ayant eu connaissance d'acquisitions ou de cessions de participations dans son capital qui font franchir vers le haut ou vers le bas l'un des seuils de participation visés à l'article 11, paragraphe 1er, de la directive 2014/65/UE, n'informe pas la CSSF de ces acquisitions ou de ces cessions, en violation de l'article 108, paragraphe 1er ;
 
-6. lorsqu'une société de gestion relevant du chapitre 15 ne communique pas à la CSSF, au moins une fois par an, les noms des actionnaires et des associés qui détiennent des participations qualifiées, ainsi que le montant de ces participations, en violation de l'article 108, paragraphe 1er ;
+- lorsqu'une société de gestion relevant du chapitre 15 ne communique pas à la CSSF, au moins une fois par an, les noms des actionnaires et des associés qui détiennent des participations qualifiées, ainsi que le montant de ces participations, en violation de l'article 108, paragraphe 1er ;
 
-7. lorsqu'une société de gestion relevant du chapitre 15 ne respecte pas les procédures et dispositifs imposés en vertu des dispositions de l'article 109, paragraphe 1er, point a) ;
+- lorsqu'une société de gestion relevant du chapitre 15 ne respecte pas les procédures et dispositifs imposés en vertu des dispositions de l'article 109, paragraphe 1er, point a) ;
 
-8. lorsqu'une société de gestion relevant du chapitre 15 ne respecte pas les exigences structurelles et organisationnelles imposées en vertu des dispositions de l'article 109, paragraphe 1er, point b) ;
+- lorsqu'une société de gestion relevant du chapitre 15 ne respecte pas les exigences structurelles et organisationnelles imposées en vertu des dispositions de l'article 109, paragraphe 1er, point b) ;
 
-9. lorsqu'une société d'investissement au sens de l'article 27 ne respecte pas les procédures et dispositifs imposés en vertu des dispositions de l'article 27, paragraphe 3 ;
+- lorsqu'une société d'investissement au sens de l'article 27 ne respecte pas les procédures et dispositifs imposés en vertu des dispositions de l'article 27, paragraphe 3 ;
 
-10. lorsqu'une société de gestion relevant du chapitre 15 ou une société d'investissement au sens de l'article 27 ne respecte pas les exigences en matière de délégation de ses fonctions à des tiers imposées en vertu des dispositions de l'article 110 ;
+- lorsqu'une société de gestion relevant du chapitre 15 ou une société d'investissement au sens de l'article 27 ne respecte pas les exigences en matière de délégation de ses fonctions à des tiers imposées en vertu des dispositions de l'article 110 ;
 
-11. lorsqu'une société de gestion relevant du chapitre 15 ou une société d'investissement au sens de l'article 27 ne respecte pas les règles de conduite imposées en vertu des dispositions de l'article 111 ;
+- lorsqu'une société de gestion relevant du chapitre 15 ou une société d'investissement au sens de l'article 27 ne respecte pas les règles de conduite imposées en vertu des dispositions de l'article 111 ;
 
-12. lorsqu'un dépositaire n'exécute pas les tâches qui lui incombent en vertu des dispositions des articles 18, paragraphes 2 à 6 , ou 34, paragraphes 1er à 5 ;
+- lorsqu'un dépositaire n'exécute pas les tâches qui lui incombent en vertu des dispositions des articles 18, paragraphes 2 à 6 , ou 34, paragraphes 1er à 5 ;
 
-13. lorsqu'une société d'investissement au sens de l'article 27 ou, pour chacun des fonds communs de placement qu'elle gère, une société de gestion relevant du chapitre 15 ne respecte pas, de manière répétée, les obligations concernant les politiques de placement établies par les dispositions du chapitre 5 ;
+- lorsqu'une société d'investissement au sens de l'article 27 ou, pour chacun des fonds communs de placement qu'elle gère, une société de gestion relevant du chapitre 15 ne respecte pas, de manière répétée, les obligations concernant les politiques de placement établies par les dispositions du chapitre 5 ;
 
-14. lorsqu'une société de gestion relevant du chapitre 15 ou une société d'investissement au sens de l'article 27 omet d'utiliser les méthodes de gestion des risques et d'évaluation précise et indépendante de la valeur des instruments dérivés de gré à gré établies par les dispositions de l'article 42, paragraphe 1er ;
+- lorsqu'une société de gestion relevant du chapitre 15 ou une société d'investissement au sens de l'article 27 omet d'utiliser les méthodes de gestion des risques et d'évaluation précise et indépendante de la valeur des instruments dérivés de gré à gré établies par les dispositions de l'article 42, paragraphe 1er ;
 
-15. lorsqu'une société d'investissement au sens de l'article 27 ou, pour chacun des fonds communs de placement qu'elle gère, une société de gestion relevant du chapitre 15 ne respecte pas, de manière répétée, les obligations concernant l'information des investisseurs imposées en vertu des dispositions des articles 47 et 150 à 163 ;
+- lorsqu'une société d'investissement au sens de l'article 27 ou, pour chacun des fonds communs de placement qu'elle gère, une société de gestion relevant du chapitre 15 ne respecte pas, de manière répétée, les obligations concernant l'information des investisseurs imposées en vertu des dispositions des articles 47 et 150 à 163 ;
 
-16. lorsqu'une société de gestion relevant du chapitre 15, qui commercialise dans un autre Etat membre des parts d'un OPCVM qu'elle gère, ou une société d'investissement au sens de l'article 27, qui commercialise ses parts dans un autre Etat membre, ne respecte pas les obligations de notification établies par l'article 54, paragraphe 1er ;
+- lorsqu'une société de gestion relevant du chapitre 15, qui commercialise dans un autre Etat membre des parts d'un OPCVM qu'elle gère, ou une société d'investissement au sens de l'article 27, qui commercialise ses parts dans un autre Etat membre, ne respecte pas les obligations de notification établies par l'article 54, paragraphe 1er ;
 
-17. lorsqu'il y a non-respect des dispositions des articles 13 et 14 du règlement (UE) 2015/2365 du Parlement européen et du Conseil du 25 novembre 2015 relatif à la transparence des opérations de financement sur titres et de la réutilisation et modifiant le règlement (UE) n° 648/2012.
+- lorsqu'il y a non-respect des dispositions des articles 13 et 14 du règlement (UE) 2015/2365 du Parlement européen et du Conseil du 25 novembre 2015 relatif à la transparence des opérations de financement sur titres et de la réutilisation et modifiant le règlement (UE) n° 648/2012.
 
 (3)
 
@@ -4544,51 +4544,51 @@ Sans préjudice des dispositions prévues au paragraphe 1er, la CSSF est compét
 
 dans les cas suivants :
 
-1. lorsqu'une société de gestion relevant du chapitre 16 a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier, en violation de l'article 125-1, paragraphe 5, point b) ;
+- lorsqu'une société de gestion relevant du chapitre 16 a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier, en violation de l'article 125-1, paragraphe 5, point b) ;
 
-2. lorsqu'une société de gestion relevant du chapitre 16 ne respecte pas les exigences en matière de délégation de ses fonctions à des tiers prévues par les dispositions de l'article 125-1 ;
+- lorsqu'une société de gestion relevant du chapitre 16 ne respecte pas les exigences en matière de délégation de ses fonctions à des tiers prévues par les dispositions de l'article 125-1 ;
 
-3. lorsqu'une SICAV relevant du chapitre 12 ne respecte pas les exigences en matière de délégation de ses fonctions à des tiers prévues par les dispositions de l'article 95, paragraphes 2 et 3 ;
+- lorsqu'une SICAV relevant du chapitre 12 ne respecte pas les exigences en matière de délégation de ses fonctions à des tiers prévues par les dispositions de l'article 95, paragraphes 2 et 3 ;
 
-4. lorsqu'un OPC qui n'a pas la forme juridique de fonds commun de placement ou de SICAV relevant du chapitre 13 ne respecte pas les exigences en matière de délégation de ses fonctions à des tiers prévues par les dispositions de l'article 99, paragraphes 6bis et 6ter ;
+- lorsqu'un OPC qui n'a pas la forme juridique de fonds commun de placement ou de SICAV relevant du chapitre 13 ne respecte pas les exigences en matière de délégation de ses fonctions à des tiers prévues par les dispositions de l'article 99, paragraphes 6bis et 6ter ;
 
-5. lorsqu'un OPC respectivement sa société de gestion ne respecte pas, de manière répétée, les obligations concernant l'information des investisseurs imposées en vertu des dispositions des articles 150 à 157 ;
+- lorsqu'un OPC respectivement sa société de gestion ne respecte pas, de manière répétée, les obligations concernant l'information des investisseurs imposées en vertu des dispositions des articles 150 à 157 ;
 
-6. lorsqu'un dépositaire n'exécute pas les tâches qui lui incombent en vertu des dispositions des articles 18, paragraphes 2 à 6 , ou 34, paragraphes 1er à 5 ;
+- lorsqu'un dépositaire n'exécute pas les tâches qui lui incombent en vertu des dispositions des articles 18, paragraphes 2 à 6 , ou 34, paragraphes 1er à 5 ;
 
-7. lorsqu'une société de gestion relevant de l'article 125-2 a obtenu l'agrément en tant que gestionnaire de FIA au moyen de fausses déclarations ou par tout autre moyen irrégulier, en violation de l'article 10, paragraphe 1er, point b), de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
+- lorsqu'une société de gestion relevant de l'article 125-2 a obtenu l'agrément en tant que gestionnaire de FIA au moyen de fausses déclarations ou par tout autre moyen irrégulier, en violation de l'article 10, paragraphe 1er, point b), de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
 
-8. lorsqu'une société de gestion relevant de l'article 125-2 ne respecte pas les exigences organisationnelles imposées en vertu des dispositions des articles 16 et 17 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
+- lorsqu'une société de gestion relevant de l'article 125-2 ne respecte pas les exigences organisationnelles imposées en vertu des dispositions des articles 16 et 17 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
 
-9. lorsqu'une société de gestion relevant de l'article 125-2 ne respecte pas les procédures et mesures de protection contre les conflits d'intérêts imposées en vertu des dispositions de l'article 13 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
+- lorsqu'une société de gestion relevant de l'article 125-2 ne respecte pas les procédures et mesures de protection contre les conflits d'intérêts imposées en vertu des dispositions de l'article 13 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
 
-10. lorsqu'une société de gestion relevant de l'article 125-2 ne respecte pas les règles de conduite imposées en vertu des dispositions de l'article 11, paragraphe 1er, de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
+- lorsqu'une société de gestion relevant de l'article 125-2 ne respecte pas les règles de conduite imposées en vertu des dispositions de l'article 11, paragraphe 1er, de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
 
-11. lorsqu'une société de gestion relevant de l'article 125-2 ne respecte pas les procédures et systèmes de gestion des risques imposés en vertu des dispositions de l'article 14 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
+- lorsqu'une société de gestion relevant de l'article 125-2 ne respecte pas les procédures et systèmes de gestion des risques imposés en vertu des dispositions de l'article 14 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
 
-12. lorsqu'une société de gestion relevant de l'article 125-2 ne respecte pas les exigences en matière de délégation de ses fonctions à des tiers imposées en vertu des dispositions de l'article 18 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
+- lorsqu'une société de gestion relevant de l'article 125-2 ne respecte pas les exigences en matière de délégation de ses fonctions à des tiers imposées en vertu des dispositions de l'article 18 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
 
-13. lorsqu'une société de gestion relevant de l'article 125-2 ne respecte pas de manière répétée, pour chacun des FIA qu'elle gère, les obligations concernant l'information des investisseurs imposées en vertu des dispositions des articles 20 à 21 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
+- lorsqu'une société de gestion relevant de l'article 125-2 ne respecte pas de manière répétée, pour chacun des FIA qu'elle gère, les obligations concernant l'information des investisseurs imposées en vertu des dispositions des articles 20 à 21 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
 
-14. lorsqu'une société de gestion relevant de l'article 125-2, qui commercialise dans un autre Etat membre des parts d'un FIA qu'elle gère, ne respecte pas les obligations de notification établies par l'article 30 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs.
+- lorsqu'une société de gestion relevant de l'article 125-2, qui commercialise dans un autre Etat membre des parts d'un FIA qu'elle gère, ne respecte pas les obligations de notification établies par l'article 30 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs.
 
 (4)
 
 Dans les cas visés aux paragraphes 1er à 3, la CSSF peut imposer les sanctions et autres mesures administratives suivantes :
 
-1. une déclaration publique qui précise l'identité de la personne responsable de la violation de la loi et la nature de la violation de la loi ;
+- une déclaration publique qui précise l'identité de la personne responsable de la violation de la loi et la nature de la violation de la loi ;
 
-2. une injonction ordonnant à la personne responsable de mettre un terme au comportement en cause et de s'abstenir de le réitérer ;
+- une injonction ordonnant à la personne responsable de mettre un terme au comportement en cause et de s'abstenir de le réitérer ;
 
-3. dans le cas d'un OPC ou d'une société de gestion, une suspension ou un retrait de l'agrément de l'OPC ou de la société de gestion ;
+- dans le cas d'un OPC ou d'une société de gestion, une suspension ou un retrait de l'agrément de l'OPC ou de la société de gestion ;
 
-4. l'interdiction temporaire ou, en cas de violations de la loi graves répétées, permanente, pour un membre de l'organe de direction de la société de gestion ou de l'OPC ou pour toute autre personne physique employée auprès de la société de gestion ou de l'OPC dont la responsabilité est engagée, d'exercer des fonctions de gestion dans ces entités ou d'autres entités de ce type ;
+- l'interdiction temporaire ou, en cas de violations de la loi graves répétées, permanente, pour un membre de l'organe de direction de la société de gestion ou de l'OPC ou pour toute autre personne physique employée auprès de la société de gestion ou de l'OPC dont la responsabilité est engagée, d'exercer des fonctions de gestion dans ces entités ou d'autres entités de ce type ;
 
-5. dans le cas d'une personne morale, une amende d'ordre d'un montant maximal de 5.000.000 euros ou d'un montant maximal de 10% du chiffre d'affaires annuel total de la personne morale tel qu'il ressort des derniers comptes disponibles approuvés par l'organe de direction; lorsque la personne morale est une entreprise mère ou une filiale de l'entreprise mère qui est tenue d'établir des comptes financiers consolidés conformément à la directive 2013/34/UE, le chiffre d'affaires annuel total à prendre en considération est le chiffre d'affaires annuel total ou le type de revenus correspondant selon le droit de l'Union pertinent en matière comptable, tel qu'il ressort des derniers comptes consolidés disponibles approuvés par l'organe de direction de l'entreprise mère ultime ;
+- dans le cas d'une personne morale, une amende d'ordre d'un montant maximal de 5.000.000 euros ou d'un montant maximal de 10% du chiffre d'affaires annuel total de la personne morale tel qu'il ressort des derniers comptes disponibles approuvés par l'organe de direction; lorsque la personne morale est une entreprise mère ou une filiale de l'entreprise mère qui est tenue d'établir des comptes financiers consolidés conformément à la directive 2013/34/UE, le chiffre d'affaires annuel total à prendre en considération est le chiffre d'affaires annuel total ou le type de revenus correspondant selon le droit de l'Union pertinent en matière comptable, tel qu'il ressort des derniers comptes consolidés disponibles approuvés par l'organe de direction de l'entreprise mère ultime ;
 
-6. dans le cas d'une personne physique, une amende d'ordre d'un montant maximal de 5.000.000 euros ;
+- dans le cas d'une personne physique, une amende d'ordre d'un montant maximal de 5.000.000 euros ;
 
-7. à titre d'alternative aux points e) et f), une amende d'ordre d'un montant maximal égal à au moins deux fois l'avantage retiré de la violation de la loi, si celui-ci peut être déterminé, même si ce montant dépasse les montants maximaux prévus aux points e) et f).
+- à titre d'alternative aux points e) et f), une amende d'ordre d'un montant maximal égal à au moins deux fois l'avantage retiré de la violation de la loi, si celui-ci peut être déterminé, même si ce montant dépasse les montants maximaux prévus aux points e) et f).
 
 <a id="art-149"></a>
 ## Art. 149.
@@ -4599,15 +4599,15 @@ La CSSF publie sur son site internet toute décision qui ne fait pas l'objet d'u
 
 Cependant, si la publication de l'identité des personnes morales ou des données à caractère personnel des personnes physiques est jugée disproportionnée par la CSSF à l'issue d'une évaluation au cas par cas menée sur la proportionnalité de la publication de telles données ou si une telle publication compromet la stabilité des marchés financiers ou une enquête en cours, la CSSF doit :
 
-1. retarder la publication de la décision imposant la sanction ou mesure jusqu'au moment où les motifs de la non-publication cessent d'exister ;
+- retarder la publication de la décision imposant la sanction ou mesure jusqu'au moment où les motifs de la non-publication cessent d'exister ;
 
-2. publier la décision imposant la sanction ou mesure de manière anonyme, en conformité avec la législation applicable, si une telle publication anonyme garantit une réelle protection des données à caractère personnel en cause ; ou
+- publier la décision imposant la sanction ou mesure de manière anonyme, en conformité avec la législation applicable, si une telle publication anonyme garantit une réelle protection des données à caractère personnel en cause ; ou
 
-3. ne pas publier la décision imposant une sanction ou une mesure, lorsque les options envisagées aux points a) et b) sont jugées insuffisantes :
+- ne pas publier la décision imposant une sanction ou une mesure, lorsque les options envisagées aux points a) et b) sont jugées insuffisantes :
 
-1. pour éviter que la stabilité des marchés financiers ne soit compromise ;
+  - pour éviter que la stabilité des marchés financiers ne soit compromise ;
 
-2. pour garantir la proportionnalité de la publication de ces décisions, lorsque les mesures concernées sont jugées mineures.
+  - pour garantir la proportionnalité de la publication de ces décisions, lorsque les mesures concernées sont jugées mineures.
 
 Au cas où la CSSF décide de publier une sanction ou mesure de manière anonyme, la publication des données pertinentes peut être différée pendant une période raisonnable s'il est prévu que, au cours de cette période, les motifs de la publication anonyme cesseront d'exister.
 
@@ -4630,19 +4630,19 @@ En outre, la CSSF informe l'Autorité européenne des marchés financiers de tou
 
 Lorsque la CSSF détermine le type de sanctions ou mesures administratives et le montant des amendes d'ordre, elle veille à ce qu'elles soient effectives, proportionnées et dissuasives et elle tient compte de toutes les circonstances pertinentes, et notamment, le cas échéant :
 
-1. de la gravité et de la durée de l'infraction ;
+- de la gravité et de la durée de l'infraction ;
 
-2. du degré de responsabilité de la personne responsable de l'infraction ;
+- du degré de responsabilité de la personne responsable de l'infraction ;
 
-3. de la solidité financière de la personne responsable de l'infraction, telle qu'elle ressort par exemple de son chiffre d'affaires total dans le cas d'une personne morale ou des revenus annuels dans le cas d'une personne physique ;
+- de la solidité financière de la personne responsable de l'infraction, telle qu'elle ressort par exemple de son chiffre d'affaires total dans le cas d'une personne morale ou des revenus annuels dans le cas d'une personne physique ;
 
-4. de l'importance des avantages obtenus ou des pertes évitées par la personne responsable de l'infraction, ainsi que des dommages causés à d'autres personnes et, le cas échéant, des dommages causés au fonctionnement des marchés ou de l'économie au sens large, dans la mesure où il est possible de les déterminer ;
+- de l'importance des avantages obtenus ou des pertes évitées par la personne responsable de l'infraction, ainsi que des dommages causés à d'autres personnes et, le cas échéant, des dommages causés au fonctionnement des marchés ou de l'économie au sens large, dans la mesure où il est possible de les déterminer ;
 
-5. du degré de coopération avec la CSSF dont a fait preuve la personne responsable de l'infraction ;
+- du degré de coopération avec la CSSF dont a fait preuve la personne responsable de l'infraction ;
 
-6. des infractions antérieures commises par la personne responsable de l'infraction ;
+- des infractions antérieures commises par la personne responsable de l'infraction ;
 
-7. des mesures prises, après l'infraction, par la personne responsable de l'infraction pour éviter qu'elle ne se reproduise.
+- des mesures prises, après l'infraction, par la personne responsable de l'infraction pour éviter qu'elle ne se reproduise.
 
 <a id="art-149ter"></a>
 ## Art. 149ter.
@@ -4655,13 +4655,13 @@ La CSSF met en place des mécanismes efficaces et fiables pour encourager le sig
 
 Les mécanismes visés au paragraphe 1er comprennent au moins :
 
-1. des procédures spécifiques pour la réception des signalements d'infractions et leur suivi ;
+- des procédures spécifiques pour la réception des signalements d'infractions et leur suivi ;
 
-2. une protection appropriée, au moins contre les représailles, les discriminations et d'autres types de traitement inéquitable, pour les salariés des OPC, des sociétés de gestion, des dépositaires ainsi que de toute entreprise concourant aux activités de l'OPC soumise à la surveillance de la CSSF qui signalent des infractions commises au sein de ces entités ;
+- une protection appropriée, au moins contre les représailles, les discriminations et d'autres types de traitement inéquitable, pour les salariés des OPC, des sociétés de gestion, des dépositaires ainsi que de toute entreprise concourant aux activités de l'OPC soumise à la surveillance de la CSSF qui signalent des infractions commises au sein de ces entités ;
 
-3. la protection des données à caractère personnel, tant pour la personne qui signale les infractions que pour la personne physique prétendument responsable de l'infraction, conformément à la loi modifiée du 2 août 2002 relative à la protection des personnes à l'égard du traitement des données à caractère personnel ;
+- la protection des données à caractère personnel, tant pour la personne qui signale les infractions que pour la personne physique prétendument responsable de l'infraction, conformément à la loi modifiée du 2 août 2002 relative à la protection des personnes à l'égard du traitement des données à caractère personnel ;
 
-4. des règles claires garantissant dans tous les cas la confidentialité à la personne qui signale une infraction, sauf si la divulgation d'informations est exigée dans le cadre d'un complément d'enquête ou d'une procédure judiciaire ultérieure.
+- des règles claires garantissant dans tous les cas la confidentialité à la personne qui signale une infraction, sauf si la divulgation d'informations est exigée dans le cadre d'un complément d'enquête ou d'une procédure judiciaire ultérieure.
 
 (3)
 
@@ -4711,9 +4711,9 @@ Le prospectus doit contenir les renseignements qui sont nécessaires pour que le
 
 Pour les OPCVM relevant du champ d'application de la partie I, le prospectus doit également comporter :
 
-1. soit les détails de la politique de rémunération actualisée, y compris, notamment, une description de la manière dont les rémunérations et les avantages sont calculés, l'identité des personnes responsables de l'attribution des rémunérations et des avantages, y compris la composition du comité de rémunération, lorsqu'un tel comité existe ;
+- soit les détails de la politique de rémunération actualisée, y compris, notamment, une description de la manière dont les rémunérations et les avantages sont calculés, l'identité des personnes responsables de l'attribution des rémunérations et des avantages, y compris la composition du comité de rémunération, lorsqu'un tel comité existe ;
 
-2. soit un résumé de la politique de rémunération et une déclaration indiquant que les détails de la politique de rémunération actualisée, y compris, notamment, une description de la manière dont les rémunérations et les avantages sont calculés, l'identité des personnes responsables de l'attribution des rémunérations et des avantages, y compris la composition du comité de rémunération, lorsqu'un tel comité existe, sont disponibles sur un site internet – y compris une référence à ce site internet – et qu'un exemplaire sur papier sera mis à disposition gratuitement sur demande.
+- soit un résumé de la politique de rémunération et une déclaration indiquant que les détails de la politique de rémunération actualisée, y compris, notamment, une description de la manière dont les rémunérations et les avantages sont calculés, l'identité des personnes responsables de l'attribution des rémunérations et des avantages, y compris la composition du comité de rémunération, lorsqu'un tel comité existe, sont disponibles sur un site internet – y compris une référence à ce site internet – et qu'un exemplaire sur papier sera mis à disposition gratuitement sur demande.
 
 (2)
 
@@ -4725,15 +4725,15 @@ Le rapport annuel doit contenir un bilan ou un état de l'actif et du passif, un
 
 Pour les OPCVM relevant du champ d'application de la partie I, le rapport annuel doit également mentionner :
 
-1. le montant total des rémunérations pour l'exercice, ventilé en rémunérations fixes et variables, payées par la société de gestion et la société d'investissement à son personnel, et le nombre de bénéficiaires, ainsi que, le cas échéant, tout montant payé directement par l'OPCVM lui-même, y compris les éventuelles commissions de performance ;
+- le montant total des rémunérations pour l'exercice, ventilé en rémunérations fixes et variables, payées par la société de gestion et la société d'investissement à son personnel, et le nombre de bénéficiaires, ainsi que, le cas échéant, tout montant payé directement par l'OPCVM lui-même, y compris les éventuelles commissions de performance ;
 
-2. le montant agrégé des rémunérations, ventilé par catégories de salariés ou d'autres membres du personnel visées à l'article 111bis, paragraphe 3 ;
+- le montant agrégé des rémunérations, ventilé par catégories de salariés ou d'autres membres du personnel visées à l'article 111bis, paragraphe 3 ;
 
-3. une description de la manière dont les rémunérations et les avantages ont été calculés ;
+- une description de la manière dont les rémunérations et les avantages ont été calculés ;
 
-4. les résultats des examens visés à l'article 111ter, paragraphe 1er, points c) et d), y compris toute irrégularité qui s'est produite ;
+- les résultats des examens visés à l'article 111ter, paragraphe 1er, points c) et d), y compris toute irrégularité qui s'est produite ;
 
-5. toute modification importante de la politique de rémunération adoptée.
+- toute modification importante de la politique de rémunération adoptée.
 
 (4)
 
@@ -4879,15 +4879,15 @@ Les informations clés pour l'investisseur comprennent les informations appropri
 
 Les informations clés pour l'investisseur fournissent des informations sur les éléments essentiels suivants de l'OPCVM concerné :
 
-1. l'identification de l'OPCVM et la mention suivant laquelle la CSSF est l'autorité compétente pour la surveillance de l'OPCVM au titre de la présente loi ;
+- l'identification de l'OPCVM et la mention suivant laquelle la CSSF est l'autorité compétente pour la surveillance de l'OPCVM au titre de la présente loi ;
 
-2. une brève description de ses objectifs de placement et de sa politique de placement ;
+- une brève description de ses objectifs de placement et de sa politique de placement ;
 
-3. une présentation de ses performances passées ou, le cas échéant, de scénarios de performances ;
+- une présentation de ses performances passées ou, le cas échéant, de scénarios de performances ;
 
-4. les coûts et les frais liés ; et
+- les coûts et les frais liés ; et
 
-5. le profil risque/rémunération de l'investissement, y compris des orientations et des mises en garde appropriées sur les risques inhérents à l'investissement dans l'OPCVM concerné.
+- le profil risque/rémunération de l'investissement, y compris des orientations et des mises en garde appropriées sur les risques inhérents à l'investissement dans l'OPCVM concerné.
 
 Ces éléments essentiels doivent être compréhensibles pour l'investisseur sans renvoi à d'autres documents.
 
@@ -4910,7 +4910,7 @@ Les informations clés pour l'investisseur doivent être utilisées sans adaptat
 
 (1)
 
-Les informations clés pour l'investisseur, y compris le nom de l’OPCVM, sont des informations précontractuelles. Elles doivent être correctes, claires et non trompeuses. Elles doivent être cohérentes avec les parties correspondantes du prospectus.
+Les informations clés pour l'investisseur , y compris le nom de l’OPCVM, sont des informations précontractuelles. Elles doivent être correctes, claires et non trompeuses. Elles doivent être cohérentes avec les parties correspondantes du prospectus.
 
 (2)
 
@@ -4980,11 +4980,11 @@ Le jugement ou l'arrêt coulé en force de chose jugée qui prononce cette inter
 
 Sont punis d'une peine d'emprisonnement d‘un mois à un an et d'une amende de cinq cents à vingt-cinq mille euros ou d'une de ces peines seulement :
 
-1. ceux qui ont procédé ou fait procéder à l'émission ou au rachat des parts du fonds commun de placement dans les cas visés aux articles 12 (3), 22 (3) et à l'article 90 dans la mesure où cet article rend applicables au chapitre 11 les articles 12 (3) et 22 (3) ;
+- ceux qui ont procédé ou fait procéder à l'émission ou au rachat des parts du fonds commun de placement dans les cas visés aux articles 12 (3), 22 (3) et à l'article 90 dans la mesure où cet article rend applicables au chapitre 11 les articles 12 (3) et 22 (3) ;
 
-2. ceux qui ont émis ou racheté des parts du fonds commun de placement à un prix différent de celui qui résulterait de l'application des critères prévus aux articles 9 (1), 9 (3), 11 (3) et à l'article 90 dans la mesure où cet article rend applicables au chapitre 11 les articles 9 (1) et 9 (3) ;
+- ceux qui ont émis ou racheté des parts du fonds commun de placement à un prix différent de celui qui résulterait de l'application des critères prévus aux articles 9 (1), 9 (3), 11 (3) et à l'article 90 dans la mesure où cet article rend applicables au chapitre 11 les articles 9 (1) et 9 (3) ;
 
-3. ceux qui, comme administrateurs ou membres du directoire, selon le cas, gérants ou commissaires de la société de gestion ou du dépositaire, ont fait des prêts ou avances au moyen d'avoirs du fonds commun de placement sur des parts du même fonds, ou qui ont fait, par un moyen quelconque, aux frais du fonds commun de placement, des versements en libération des parts ou admis comme faits des versements qui ne se sont pas effectués réellement.
+- ceux qui, comme administrateurs ou membres du directoire, selon le cas, gérants ou commissaires de la société de gestion ou du dépositaire, ont fait des prêts ou avances au moyen d'avoirs du fonds commun de placement sur des parts du même fonds, ou qui ont fait, par un moyen quelconque, aux frais du fonds commun de placement, des versements en libération des parts ou admis comme faits des versements qui ne se sont pas effectués réellement.
 
 <a id="art-166"></a>
 ## Art. 166.
@@ -4993,9 +4993,9 @@ Sont punis d'une peine d'emprisonnement d‘un mois à un an et d'une amende de 
 
 Sont punis d'un emprisonnement d‘un mois à six mois et d'une amende de cinq cents à vingt- cinq mille euros ou d'une de ces deux peines seulement :
 
-1. les administrateurs ou membres du directoire, selon le cas, ou gérants de la société de gestion qui ont omis d'informer sans retard la CSSF que l'actif net du fonds commun de placement est devenu inférieur respectivement aux deux tiers et au quart du minimum légal des actifs nets du fonds commun de placement ;
+- les administrateurs ou membres du directoire, selon le cas, ou gérants de la société de gestion qui ont omis d'informer sans retard la CSSF que l'actif net du fonds commun de placement est devenu inférieur respectivement aux deux tiers et au quart du minimum légal des actifs nets du fonds commun de placement ;
 
-2. les administrateurs ou membres du directoire, selon le cas, ou gérants de la société de gestion qui ont contrevenu à l'article 10 et aux articles 41 à 52, à l'article 90 dans la mesure où cet article rend applicable au chapitre 11 l'article 10 et aux règlements pris en exécution de l'article 91.
+- les administrateurs ou membres du directoire, selon le cas, ou gérants de la société de gestion qui ont contrevenu à l'article 10 et aux articles 41 à 52, à l'article 90 dans la mesure où cet article rend applicable au chapitre 11 l'article 10 et aux règlements pris en exécution de l'article 91.
 
 (2)
 
@@ -5070,9 +5070,9 @@ Le taux de la taxe d'abonnement annuelle due par les organismes visés par la pr
 
 Ce taux est de 0,01% pour :
 
-1. les OPC ainsi que les compartiments individuels d'OPC à compartiments multiples qui sont autorisés en tant que fonds monétaires conformément au règlement (UE) 2017/1131 du Parlement européen et du Conseil du 14 juin 2017 sur les fonds monétaires, ci-après « règlement (UE) 2017/1131 » , sans préjudice de l'article 175, lettre b) ;
+- les OPC ainsi que les compartiments individuels d'OPC à compartiments multiples qui sont autorisés en tant que fonds monétaires conformément au règlement (UE) 2017/1131 du Parlement européen et du Conseil du 14 juin 2017 sur les fonds monétaires, ci-après « règlement (UE) 2017/1131 » , sans préjudice de l'article 175, lettre b) ;
 
-2. les compartiments individuels d'OPC à compartiments multiples visés par la présente loi et pour les classes individuelles de titres créées à l'intérieur d'un OPC ou à l'intérieur d'un compartiment d'un OPC à compartiments multiples, si les titres de ces compartiments ou classes sont réservés à un ou plusieurs investisseurs institutionnels.
+- les compartiments individuels d'OPC à compartiments multiples visés par la présente loi et pour les classes individuelles de titres créées à l'intérieur d'un OPC ou à l'intérieur d'un compartiment d'un OPC à compartiments multiples, si les titres de ces compartiments ou classes sont réservés à un ou plusieurs investisseurs institutionnels.
 
 (3)
 
@@ -5097,29 +5097,29 @@ Pour se voir appliquer les taux réduits visés aux paragraphes 2 et 3, les OPC 
 
 Sont exonérés de la taxe d'abonnement :
 
-1. la valeur des avoirs représentée par des parts détenues dans d'autres OPC pour autant que ces parts ont déjà été soumises à la taxe d'abonnement prévue par l'article 174 ou par l'article 68 de la loi du 13 février 2007 concernant les fonds d'investissement spécialisés ou par l'article 46 de la loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés. Pour se voir appliquer l'exonération de la taxe d'abonnement sur la valeur des avoirs représentée par des parts d'autres organismes de placement collectif qui sont déjà soumises à la taxe d'abonnement, les organismes qui détiennent de telles parts doivent en indiquer séparément la valeur dans les déclarations périodiques qu'ils font à l'Administration de l'enregistrement, des domaines et de la TVA ;
+- la valeur des avoirs représentée par des parts détenues dans d'autres OPC pour autant que ces parts ont déjà été soumises à la taxe d'abonnement prévue par l'article 174 ou par l'article 68 de la loi du 13 février 2007 concernant les fonds d'investissement spécialisés ou par l'article 46 de la loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés. Pour se voir appliquer l'exonération de la taxe d'abonnement sur la valeur des avoirs représentée par des parts d'autres organismes de placement collectif qui sont déjà soumises à la taxe d'abonnement, les organismes qui détiennent de telles parts doivent en indiquer séparément la valeur dans les déclarations périodiques qu'ils font à l'Administration de l'enregistrement, des domaines et de la TVA ;
 
-2. les OPC ainsi que les compartiments individuels d'OPC à compartiments multiples : S'il existe plusieurs classes de titres à l'intérieur de l'OPC ou du compartiment, l'exonération n'est applicable qu'aux classes dont les titres sont réservés à des investisseurs institutionnels ;
+- les OPC ainsi que les compartiments individuels d'OPC à compartiments multiples : S'il existe plusieurs classes de titres à l'intérieur de l'OPC ou du compartiment, l'exonération n'est applicable qu'aux classes dont les titres sont réservés à des investisseurs institutionnels ;
 
-1. dont les titres sont réservés à des investisseurs institutionnels et
+  - dont les titres sont réservés à des investisseurs institutionnels et
 
-2. qui sont autorisés en tant que fonds monétaires à court terme conformément au règlement (UE) 2017/1131, et
+  - qui sont autorisés en tant que fonds monétaires à court terme conformément au règlement (UE) 2017/1131, et
 
-3. qui bénéficient de la notation la plus élevée possible d'une agence de notation reconnue.
+  - qui bénéficient de la notation la plus élevée possible d'une agence de notation reconnue.
 
-3. les OPC ainsi que les compartiments individuels d'OPC à compartiments multiples dont les titres sont réservés à (i) des institutions de retraite professionnelle, ou véhicules d'investissement similaires, créés sur l'initiative d'un ou de plusieurs employeurs pour le bénéfice de leurs salariés et (ii) des sociétés d'un ou de plusieurs employeurs investissant les fonds qu'ils détiennent, pour fournir des prestations de retraite à leurs salariés « et (iii) des épargnants dans le cadre d'un produit paneuropéen d'épargne-retraite individuelle établi sous le règlement (UE) 2019/1238 du Parlement européen et du Conseil du 20 juin 2019 relatif à un produit paneuropéen d'épargne-retraite individuelle (PEPP). S'il existe plusieurs classes de titres à l'intérieur de l'OPC ou du compartiment, l'exonération n'est applicable qu'aux classes dont les titres sont réservés aux investisseurs visés à l'alinéa 1er, points (i), (ii) et (iii), de la présente lettre ;
+- les OPC ainsi que les compartiments individuels d'OPC à compartiments multiples dont les titres sont réservés à (i) des institutions de retraite professionnelle, ou véhicules d'investissement similaires, créés sur l'initiative d'un ou de plusieurs employeurs pour le bénéfice de leurs salariés et (ii) des sociétés d'un ou de plusieurs employeurs investissant les fonds qu'ils détiennent, pour fournir des prestations de retraite à leurs salariés « et (iii) des épargnants dans le cadre d'un produit paneuropéen d'épargne-retraite individuelle établi sous le règlement (UE) 2019/1238 du Parlement européen et du Conseil du 20 juin 2019 relatif à un produit paneuropéen d'épargne-retraite individuelle (PEPP). S'il existe plusieurs classes de titres à l'intérieur de l'OPC ou du compartiment, l'exonération n'est applicable qu'aux classes dont les titres sont réservés aux investisseurs visés à l'alinéa 1er, points (i), (ii) et (iii), de la présente lettre ;
 
-4. les OPC ainsi que les compartiments individuels d'OPC à compartiments multiples dont l'objectif principal est l'investissement dans les institutions de la micro-finance ;
+- les OPC ainsi que les compartiments individuels d'OPC à compartiments multiples dont l'objectif principal est l'investissement dans les institutions de la micro-finance ;
 
-5. les OPC ainsi que les compartiments individuels d'OPC à compartiments multiples : S'il existe plusieurs classes de titres à l'intérieur de l'OPC ou du compartiment, l'exonération n'est applicable qu'aux classes respectant la condition visée au sous-point (i) ;
+- les OPC ainsi que les compartiments individuels d'OPC à compartiments multiples : S'il existe plusieurs classes de titres à l'intérieur de l'OPC ou du compartiment, l'exonération n'est applicable qu'aux classes respectant la condition visée au sous-point (i) ;
 
-1. dont les titres sont cotés ou négociés sur au moins une bourse de valeurs ou un autre marché réglementé, en fonctionnement régulier, reconnu et ouvert au public ; et
+  - dont les titres sont cotés ou négociés sur au moins une bourse de valeurs ou un autre marché réglementé, en fonctionnement régulier, reconnu et ouvert au public ; et
 
-2. dont l'objectif exclusif est de reproduire la performance d'un ou de plusieurs indices.
+  - dont l'objectif exclusif est de reproduire la performance d'un ou de plusieurs indices.
 
-6. les OPC ainsi que les compartiments individuels d'OPC à compartiments multiples qui sont agréés comme fonds européens d'investissement à long terme au sens du règlement (UE) 2015/760 du Parlement européen et du Conseil du 29 avril 2015 relatif aux fonds européens d'investissement à long terme ;
+- les OPC ainsi que les compartiments individuels d'OPC à compartiments multiples qui sont agréés comme fonds européens d'investissement à long terme au sens du règlement (UE) 2015/760 du Parlement européen et du Conseil du 29 avril 2015 relatif aux fonds européens d'investissement à long terme ;
 
-7. les OPCVM ainsi que les compartiments individuels d'OPCVM à compartiments multiples dont les parts ou actions sont négociées toute la journée sur au moins un marché réglementé ou un système multilatéral de négociation et dont au moins un teneur de marché intervient pour garantir que le prix de leurs parts ou actions ne s'écarte pas sensiblement de leur valeur nette d'inventaire et, le cas échéant, de leur valeur nette d'inventaire indicative. S'il existe plusieurs classes de parts ou d'actions à l'intérieur de l'OPCVM ou du compartiment, l'exonération n'est applicable qu'aux classes de parts ou d'actions visées à la présente lettre.
+- les OPCVM ainsi que les compartiments individuels d'OPCVM à compartiments multiples dont les parts ou actions sont négociées toute la journée sur au moins un marché réglementé ou un système multilatéral de négociation et dont au moins un teneur de marché intervient pour garantir que le prix de leurs parts ou actions ne s'écarte pas sensiblement de leur valeur nette d'inventaire et, le cas échéant, de leur valeur nette d'inventaire indicative. S'il existe plusieurs classes de parts ou d'actions à l'intérieur de l'OPCVM ou du compartiment, l'exonération n'est applicable qu'aux classes de parts ou d'actions visées à la présente lettre.
 
 Pour se voir appliquer ces exonérations, les OPC doivent indiquer séparément la valeur des avoirs nets éligibles dans les déclarations périodiques qu'ils font à l'Administration de l'enregistrement, des domaines et de la TVA.
 
@@ -5278,15 +5278,137 @@ Le présent paragraphe s'applique aussi bien aux OPCVM créés avant l'entrée e
 
 (2)
 
-Pour les fonds communs de placement relevant du chapitre 2 ainsi que pour leurs dépositaires, qui ne se seront pas encore conformés aux nouvelles dispositions énoncées au paragraphe 1er, les anciennes dispositions suivantes restent en vigueur et continuent à se référer à la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif avant sa modification par la loi du 10 mai 2016 portant transposition de la directive 2014/91/UE : Art. 17. (1) La garde des actifs d'un fonds commun de placement doit être confiée à un dépositaire. (2) Le dépositaire doit, soit avoir son siège statutaire au Luxembourg, soit y être établi, s'il a son siège statutaire dans un autre Etat membre. (3) Le dépositaire doit être un établissement de crédit au sens de la loi modifiée du 5 avril 1993 relative au secteur financier. (4) La responsabilité du dépositaire n'est pas affectée par le fait qu'il confie à un tiers tout ou partie des actifs dont il a la garde. (5) Les dirigeants du dépositaire doivent avoir l'honorabilité et l'expérience requises eu égard également au type de fonds commun de placement concerné. A cette fin, l'identité des dirigeants, ainsi que de toute personne leur succédant dans leurs fonctions, doit être notifiée immédiatement à la CSSF. Par « dirigeants » on entend les personnes qui, en vertu de la loi ou des documents constitutifs, représentent le dépositaire ou qui déterminent effectivement l'orientation de son activité. (6) Le dépositaire est tenu de fournir à la CSSF sur demande toutes les informations que le dépositaire a obtenues dans l'exercice de ses fonctions et qui sont nécessaires pour permettre à la CSSF de surveiller le respect de la présente loi par le fonds commun de placement. Art. 18. (1) Le dépositaire accomplit toutes opérations concernant l'administration courante des actifs du fonds commun de placement. (2) Le dépositaire doit en outre : s'assurer que la vente, l'émission, le rachat et l'annulation des parts effectués pour le compte du fonds commun de placement ou par la société de gestion ont lieu conformément à la loi et au règlement de gestion, s'assurer que le calcul de la valeur des parts est effectué conformément à la loi et au règlement de gestion, exécuter les instructions de la société de gestion, sauf si elles sont contraires à la loi ou au règlement de gestion, s'assurer que dans les opérations portant sur les actifs du fonds commun de placement la contrepartie lui est remise dans les délais d'usage, s'assurer que les produits du fonds commun de placement reçoivent l'affectation conforme au règlement de gestion. (3) Lorsque l'Etat membre d'origine de la société de gestion n'est pas le même que celui du fonds commun de placement, le dépositaire doit signer avec ladite société de gestion un accord écrit qui régit le flux des informations considérées comme nécessaires pour lui permettre de remplir les fonctions décrites aux articles 17 (1) et (4) et 18 (2) et dans d'autres dispositions législatives réglementaires ou administratives applicables au dépositaire. Art. 19. (1) Le dépositaire est responsable, selon le droit luxembourgeois, à l'égard de la société de gestion et des porteurs de parts, de tout préjudice subi par eux résultant de l'inexécution injustifiable ou de la mauvaise exécution de ses obligations. (2) A l'égard des porteurs de parts, la responsabilité est mise en cause par l'intermédiaire de la société de gestion. Si la société de gestion n'agit pas, nonobstant sommation écrite d'un porteur de parts, dans un délai de trois mois à partir de cette sommation, ce porteur de parts peut mettre en cause directement la responsabilité du dépositaire. Art. 20. La société de gestion et le dépositaire doivent, dans l'exercice de leurs fonctions respectives, agir de façon indépendante et exclusivement dans l'intérêt des « porteurs de parts ».
+Pour les fonds communs de placement relevant du chapitre 2 ainsi que pour leurs dépositaires, qui ne se seront pas encore conformés aux nouvelles dispositions énoncées au paragraphe 1er, les anciennes dispositions suivantes restent en vigueur et continuent à se référer à la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif avant sa modification par la loi du 10 mai 2016 portant transposition de la directive 2014/91/UE :
+
+Art. 17.
+
+(1)
+
+La garde des actifs d'un fonds commun de placement doit être confiée à un dépositaire.
+
+(2)
+
+Le dépositaire doit, soit avoir son siège statutaire au Luxembourg, soit y être établi, s'il a son siège statutaire dans un autre Etat membre.
 
 (3)
 
-Pour les SICAV relevant du chapitre 3 ainsi que pour leurs dépositaires, qui ne se seront pas encore conformés aux nouvelles dispositions énoncées au paragraphe 1er, les anciennes dispositions suivantes restent en vigueur et continuent à se référer à la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif avant sa modification par la loi du 10 mai 2016 portant transposition de la directive 2014/91/UE : Art. 33. (1) La garde des actifs d'une SICAV doit être confiée à un dépositaire. (2) La responsabilité du dépositaire n'est pas affectée par le fait qu'il confie à un tiers tout ou partie des actifs dont il a la garde. (3) Le dépositaire doit en outre : s'assurer que la vente, l'émission, le rachat et l'annulation des parts effectués par la SICAV ou pour son compte ont lieu « conformément à la loi et aux statuts de la SICAV » ; s'assurer que dans les opérations portant sur les actifs de la SICAV la contrepartie lui est remise dans les délais d'usage ; s'assurer que les produits de la SICAV reçoivent l'affectation conforme aux statuts. (4) Dans le cas d'une SICAV ayant désigné une société de gestion, lorsque l'Etat membre d'origine de la société de gestion n'est pas le même que celui de la SICAV, le dépositaire doit signer avec ladite société de gestion un accord écrit qui régit le flux des informations considérées comme nécessaires pour lui permettre de remplir les fonctions décrites à l'article 33 (1), (2) et (3) et dans d'autres dispositions législatives, réglementaires ou administratives applicables au dépositaire. Art. 34. (1) Le dépositaire doit, soit avoir son siège statutaire au Luxembourg, soit y être établi, s'il a son siège statutaire dans un autre Etat membre. (2) Le dépositaire doit être un établissement de crédit au sens de la loi modifiée du 5 avril 1993 relative au secteur financier. (3) Les dirigeants du dépositaire doivent avoir l'honorabilité et l'expérience requises eu égard également au type de SICAV concerné. A cette fin, l'identité des dirigeants, ainsi que de toute personne leur succédant dans leurs fonctions, doit être notifiée immédiatement à la CSSF. Par « dirigeants » on entend les personnes qui, en vertu de la loi ou des documents constitutifs, représentent le dépositaire ou qui déterminent effectivement l'orientation de son activité. (4) Le dépositaire est tenu de fournir à la CSSF sur demande toutes les informations que le dépositaire a obtenues dans l'exercice de ses fonctions et qui sont nécessaires pour permettre à la CSSF de surveiller le respect de la présente loi par la SICAV. Art. 35. Le dépositaire est responsable, selon le droit luxembourgeois, à l'égard de la société d'investissement et des porteurs de parts de tout préjudice subi par eux résultant de l'inexécution injustifiable ou de la mauvaise exécution de ses obligations. Art. 37. Le dépositaire doit, dans l'exercice de ses fonctions, agir exclusivement dans l'intérêt des porteurs de parts.
+Le dépositaire doit être un établissement de crédit au sens de la loi modifiée du 5 avril 1993 relative au secteur financier.
 
 (4)
 
-Pour les autres sociétés d'investissement en valeurs mobilières relevant du chapitre 4 ainsi que pour leurs dépositaires, qui ne se seront pas encore conformés aux nouvelles dispositions énoncées au paragraphe 1er, les anciennes dispositions suivantes restent en vigueur et continuent à se référer à la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif avant sa modification par la loi du 10 mai 2016 portant transposition de la directive 2014/91/UE : Art. 39. Les articles 26, 27, 28, sauf les paragraphes 8 et 9, 30, 33, 34, 35, 36 et 37 sont applicables aux sociétés d'investissement tombant dans le champ d'application du présent chapitre.
+La responsabilité du dépositaire n'est pas affectée par le fait qu'il confie à un tiers tout ou partie des actifs dont il a la garde.
+
+(5)
+
+Les dirigeants du dépositaire doivent avoir l'honorabilité et l'expérience requises eu égard également au type de fonds commun de placement concerné. A cette fin, l'identité des dirigeants, ainsi que de toute personne leur succédant dans leurs fonctions, doit être notifiée immédiatement à la CSSF.
+
+Par « dirigeants » on entend les personnes qui, en vertu de la loi ou des documents constitutifs, représentent le dépositaire ou qui déterminent effectivement l'orientation de son activité.
+
+(6)
+
+Le dépositaire est tenu de fournir à la CSSF sur demande toutes les informations que le dépositaire a obtenues dans l'exercice de ses fonctions et qui sont nécessaires pour permettre à la CSSF de surveiller le respect de la présente loi par le fonds commun de placement.
+
+Art. 18.
+
+(1)
+
+Le dépositaire accomplit toutes opérations concernant l'administration courante des actifs du fonds commun de placement.
+
+(2)
+
+Le dépositaire doit en outre :
+
+- s'assurer que la vente, l'émission, le rachat et l'annulation des parts effectués pour le compte du fonds commun de placement ou par la société de gestion ont lieu conformément à la loi et au règlement de gestion,
+
+- s'assurer que le calcul de la valeur des parts est effectué conformément à la loi et au règlement de gestion,
+
+- exécuter les instructions de la société de gestion, sauf si elles sont contraires à la loi ou au règlement de gestion,
+
+- s'assurer que dans les opérations portant sur les actifs du fonds commun de placement la contrepartie lui est remise dans les délais d'usage,
+
+- s'assurer que les produits du fonds commun de placement reçoivent l'affectation conforme au règlement de gestion.
+
+(3)
+
+Lorsque l'Etat membre d'origine de la société de gestion n'est pas le même que celui du fonds commun de placement, le dépositaire doit signer avec ladite société de gestion un accord écrit qui régit le flux des informations considérées comme nécessaires pour lui permettre de remplir les fonctions décrites aux articles 17 (1) et (4) et 18 (2) et dans d'autres dispositions législatives réglementaires ou administratives applicables au dépositaire.
+
+Art. 19.
+
+(1)
+
+Le dépositaire est responsable, selon le droit luxembourgeois, à l'égard de la société de gestion et des porteurs de parts, de tout préjudice subi par eux résultant de l'inexécution injustifiable ou de la mauvaise exécution de ses obligations.
+
+(2)
+
+A l'égard des porteurs de parts, la responsabilité est mise en cause par l'intermédiaire de la société de gestion. Si la société de gestion n'agit pas, nonobstant sommation écrite d'un porteur de parts, dans un délai de trois mois à partir de cette sommation, ce porteur de parts peut mettre en cause directement la responsabilité du dépositaire.
+
+Art. 20.
+
+La société de gestion et le dépositaire doivent, dans l'exercice de leurs fonctions respectives, agir de façon indépendante et exclusivement dans l'intérêt des « porteurs de parts ».
+
+(3)
+
+Pour les SICAV relevant du chapitre 3 ainsi que pour leurs dépositaires, qui ne se seront pas encore conformés aux nouvelles dispositions énoncées au paragraphe 1er, les anciennes dispositions suivantes restent en vigueur et continuent à se référer à la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif avant sa modification par la loi du 10 mai 2016 portant transposition de la directive 2014/91/UE :
+
+Art. 33.
+
+(1)
+
+La garde des actifs d'une SICAV doit être confiée à un dépositaire.
+
+(2)
+
+La responsabilité du dépositaire n'est pas affectée par le fait qu'il confie à un tiers tout ou partie des actifs dont il a la garde.
+
+(3)
+
+Le dépositaire doit en outre :
+
+- s'assurer que la vente, l'émission, le rachat et l'annulation des parts effectués par la SICAV ou pour son compte ont lieu « conformément à la loi et aux statuts de la SICAV » ;
+
+- s'assurer que dans les opérations portant sur les actifs de la SICAV la contrepartie lui est remise dans les délais d'usage ;
+
+- s'assurer que les produits de la SICAV reçoivent l'affectation conforme aux statuts.
+
+(4)
+
+Dans le cas d'une SICAV ayant désigné une société de gestion, lorsque l'Etat membre d'origine de la société de gestion n'est pas le même que celui de la SICAV, le dépositaire doit signer avec ladite société de gestion un accord écrit qui régit le flux des informations considérées comme nécessaires pour lui permettre de remplir les fonctions décrites à l'article 33 (1), (2) et (3) et dans d'autres dispositions législatives, réglementaires ou administratives applicables au dépositaire.
+
+Art. 34.
+
+(1)
+
+Le dépositaire doit, soit avoir son siège statutaire au Luxembourg, soit y être établi, s'il a son siège statutaire dans un autre Etat membre.
+
+(2)
+
+Le dépositaire doit être un établissement de crédit au sens de la loi modifiée du 5 avril 1993 relative au secteur financier.
+
+(3)
+
+Les dirigeants du dépositaire doivent avoir l'honorabilité et l'expérience requises eu égard également au type de SICAV concerné. A cette fin, l'identité des dirigeants, ainsi que de toute personne leur succédant dans leurs fonctions, doit être notifiée immédiatement à la CSSF.
+
+Par « dirigeants » on entend les personnes qui, en vertu de la loi ou des documents constitutifs, représentent le dépositaire ou qui déterminent effectivement l'orientation de son activité.
+
+(4)
+
+Le dépositaire est tenu de fournir à la CSSF sur demande toutes les informations que le dépositaire a obtenues dans l'exercice de ses fonctions et qui sont nécessaires pour permettre à la CSSF de surveiller le respect de la présente loi par la SICAV.
+
+Art. 35.
+
+Le dépositaire est responsable, selon le droit luxembourgeois, à l'égard de la société d'investissement et des porteurs de parts de tout préjudice subi par eux résultant de l'inexécution injustifiable ou de la mauvaise exécution de ses obligations.
+
+Art. 37.
+
+Le dépositaire doit, dans l'exercice de ses fonctions, agir exclusivement dans l'intérêt des porteurs de parts.
+
+(4)
+
+Pour les autres sociétés d'investissement en valeurs mobilières relevant du chapitre 4 ainsi que pour leurs dépositaires, qui ne se seront pas encore conformés aux nouvelles dispositions énoncées au paragraphe 1er, les anciennes dispositions suivantes restent en vigueur et continuent à se référer à la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif avant sa modification par la loi du 10 mai 2016 portant transposition de la directive 2014/91/UE :
+
+Art. 39.
+
+Les articles 26, 27, 28, sauf les paragraphes 8 et 9, 30, 33, 34, 35, 36 et 37 sont applicables aux sociétés d'investissement tombant dans le champ d'application du présent chapitre.
 
 <a id="art-186-3"></a>
 ## Art. 186-3.

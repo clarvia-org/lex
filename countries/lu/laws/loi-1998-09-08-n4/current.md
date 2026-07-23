@@ -56,17 +56,17 @@ Ces prestataires peuvent toutefois se voir imposer des exigences concernant la p
 
 Pour obtenir l'agrément, les requérants doivent:
 
-1. remplir les conditions d'honorabilité, tant dans le chef de la personne physique ou des membres des organes dirigeants de la personne morale responsables de la gestion des activités visées à l'article 1 er que dans le chef du personnel dirigeant ou d'encadrement;
+- remplir les conditions d'honorabilité, tant dans le chef de la personne physique ou des membres des organes dirigeants de la personne morale responsables de la gestion des activités visées à l'article 1 er que dans le chef du personnel dirigeant ou d'encadrement;
 
-2. disposer d'immeubles, de locaux ou de toute autre infrastructure correspondant tant aux normes minima de salubrité et de sécurité qu'aux besoins des usagers;
+- disposer d'immeubles, de locaux ou de toute autre infrastructure correspondant tant aux normes minima de salubrité et de sécurité qu'aux besoins des usagers;
 
-3. disposer d'un personnel qualifié en nombre suffisant pour assurer la prise en charge ou l'accompagnement des usagers. Le niveau et le type de qualification professionnelle ou de formation équivalente ainsi que la dotation minimale en personnel sont fixés en considération des prestations offertes, des besoins des usagers et du fonctionnement du service;
+- disposer d'un personnel qualifié en nombre suffisant pour assurer la prise en charge ou l'accompagnement des usagers. Le niveau et le type de qualification professionnelle ou de formation équivalente ainsi que la dotation minimale en personnel sont fixés en considération des prestations offertes, des besoins des usagers et du fonctionnement du service;
 
-4. présenter la situation financière et un budget prévisionnel, à l'exception des requérants de droit public qui y sont obligés par une autre disposition légale ou réglementaire;
+- présenter la situation financière et un budget prévisionnel, à l'exception des requérants de droit public qui y sont obligés par une autre disposition légale ou réglementaire;
 
-5. garantir que les activités agréées soient accessibles aux usagers indépendamment de toutes considérations d'ordre idéologique, philosophique ou religieux et que l'usager de services ait droit à la protection de sa vie privée et au respect de ses convictions religieuses et philosophiques ;
+- garantir que les activités agréées soient accessibles aux usagers indépendamment de toutes considérations d'ordre idéologique, philosophique ou religieux et que l'usager de services ait droit à la protection de sa vie privée et au respect de ses convictions religieuses et philosophiques ;
 
-6. en ce qui concerne les services pour personnes âgées, respecter les dispositions de la loi du 23 août 2023 portant sur la qualité des services pour personnes âgées.
+- en ce qui concerne les services pour personnes âgées, respecter les dispositions de la loi du 23 août 2023 portant sur la qualité des services pour personnes âgées.
 
 Les conditions ci-dessus ainsi que les modalités du contrôle des conditions sont précisées par règlement grand-ducal qui détermine les renseignements ou données à fournir et les pièces à joindre à la demande d'agrément.
 
@@ -138,9 +138,9 @@ Les décisions concernant l'octroi, le refus ou le retrait de l'agrément peuven
 
 Le recours doit être introduit, sous peine de forclusion:
 
-1. s'il émane du demandeur ou du détenteur de l'autorisation dans le délai d'un mois à partir de la notification de la décision;
+- s'il émane du demandeur ou du détenteur de l'autorisation dans le délai d'un mois à partir de la notification de la décision;
 
-2. s'il émane d'un tiers, dans le délai d'un mois à partir de la publication de la décision au Mémorial.
+- s'il émane d'un tiers, dans le délai d'un mois à partir de la publication de la décision au Mémorial.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -178,19 +178,19 @@ L'Etat est autorisé à accorder un soutien financier pour l'exercice des activi
 
 Le soutien financier peut prendre forme d'un subside ou d'une participation financière qui est accordée à condition:
 
-1. que le bénéficiaire accepte de signer avec l'Etat une convention qui détermine:
+- que le bénéficiaire accepte de signer avec l'Etat une convention qui détermine:
 
-1. les prestations à fournir et les modalités de gestion financière à observer par le bénéficiaire;
+  - les prestations à fournir et les modalités de gestion financière à observer par le bénéficiaire;
 
-2. le type de participation financière de l'Etat;
+  - le type de participation financière de l'Etat;
 
-3. les moyens d'information, de contrôle et de sanction que possède l'Etat en relation avec les devoirs du bénéficiaire définis sous 1)
+  - les moyens d'information, de contrôle et de sanction que possède l'Etat en relation avec les devoirs du bénéficiaire définis sous 1)
 
-4. les modalités de coopération entre les parties contractantes sans pour autant affecter la gestion qui est de la responsabilité du bénéficiaire;
+  - les modalités de coopération entre les parties contractantes sans pour autant affecter la gestion qui est de la responsabilité du bénéficiaire;
 
-2. que le bénéficiaire tienne une comptabilité régulière selon les exigences de l'Etat;
+- que le bénéficiaire tienne une comptabilité régulière selon les exigences de l'Etat;
 
-3. que les activités projetées répondent à des besoins effectifs constatés par le Gouvernement en conseil.
+- que les activités projetées répondent à des besoins effectifs constatés par le Gouvernement en conseil.
 
 Si le bénéficiaire est une personne morale de droit privé, celle-ci doit être constituée soit en vertu d'une disposition légale particulière, soit selon les dispositions de la loi modifiée du 28 avril 1928 sur les associations et les fondations, soit selon les dispositions de la loi modifiée du 10 août 1915 concernant les sociétés commerciales.
 
@@ -205,19 +205,19 @@ Ne sont pas pris en considération comme recettes, les dons et legs versés à l
 
 Peuvent être considérées les dépenses suivantes:
 
-1. les frais courants d'entretien et de gestion;
+- les frais courants d'entretien et de gestion;
 
-2. les dépenses de personnel qui, pour les besoins de la fixation de la participation de l'Etat, sont chiffrées pour la carrière, le grade et l'échelon de chaque employé ou ouvrier, sur base des salaires ou traitements calculés pour les ouvriers d'après les dispositions du contrat collectif des ouvriers de l'Etat, pour les employés/personnel d'encadrement d'après les dispositions de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat et pour les employés/personnel administratif, d'après les dispositions du règlement modifié du Gouvernement en conseil du 1 er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l'Etat. La valeur du point indiciaire est fixée par référence à l'art. 1er B) de la loi du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat, ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, telle qu'elle a été modifiée. Font partie du calcul de la participation de l'Etat, les dépenses encourues par le versement d'une biennale supplémentaire par les organismes aux employés de leurs services. Sont également pris en considération:
+- les dépenses de personnel qui, pour les besoins de la fixation de la participation de l'Etat, sont chiffrées pour la carrière, le grade et l'échelon de chaque employé ou ouvrier, sur base des salaires ou traitements calculés pour les ouvriers d'après les dispositions du contrat collectif des ouvriers de l'Etat, pour les employés/personnel d'encadrement d'après les dispositions de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat et pour les employés/personnel administratif, d'après les dispositions du règlement modifié du Gouvernement en conseil du 1 er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l'Etat. La valeur du point indiciaire est fixée par référence à l'art. 1er B) de la loi du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat, ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, telle qu'elle a été modifiée. Font partie du calcul de la participation de l'Etat, les dépenses encourues par le versement d'une biennale supplémentaire par les organismes aux employés de leurs services. Sont également pris en considération:
 
-3. les dépenses engendrées par les mesures spécifiques ou générales concernant les rémunérations, les conditions de travail, les avantages sociaux que l'Etat prend pour ses agents;
+- les dépenses engendrées par les mesures spécifiques ou générales concernant les rémunérations, les conditions de travail, les avantages sociaux que l'Etat prend pour ses agents;
 
-4. les frais résultant de compensations pouvant être allouées au personnel qui, en raison des exigences particulières de la prise en charge de leurs usagers, est obligé de répartir la durée de travail sur une année au maximum ou de travailler par équipes successives à cycle continu. Les dépenses de personnel ainsi établies constituent une enveloppe financière qui est fixée par le budget de l'Etat, la commission paritaire, définie aux alinéas qui suivent, demandée en son avis, toutes les fois qu'une nouvelle disposition légale ou réglementaire ou une convention collective modifie les rémunérations, conditions de travail ou avantages sociaux des agents de l'Etat. L'avis de la commission paritaire comprend une évaluation de l'impact financier des modifications citées à l'alinéa précédent, ainsi qu'une proposition d'adaptation, suite à l'impact financier prédécrit, du montant de l'enveloppe financière. La commission se compose de respectivement un représentant du ministre des Finances, du ministre de la Fonction publique, de chaque ministre concerné par la présente loi, de chacun des syndicats les plus représentatifs au niveau national et de chacun des organismes regroupant au niveau national les employeurs signataires des conventions collectives du secteur social. La durée du mandat et les modalités de nomination et de fonctionnement de la commission sont réglées par règlement grand-ducal;
+- les frais résultant de compensations pouvant être allouées au personnel qui, en raison des exigences particulières de la prise en charge de leurs usagers, est obligé de répartir la durée de travail sur une année au maximum ou de travailler par équipes successives à cycle continu. Les dépenses de personnel ainsi établies constituent une enveloppe financière qui est fixée par le budget de l'Etat, la commission paritaire, définie aux alinéas qui suivent, demandée en son avis, toutes les fois qu'une nouvelle disposition légale ou réglementaire ou une convention collective modifie les rémunérations, conditions de travail ou avantages sociaux des agents de l'Etat. L'avis de la commission paritaire comprend une évaluation de l'impact financier des modifications citées à l'alinéa précédent, ainsi qu'une proposition d'adaptation, suite à l'impact financier prédécrit, du montant de l'enveloppe financière. La commission se compose de respectivement un représentant du ministre des Finances, du ministre de la Fonction publique, de chaque ministre concerné par la présente loi, de chacun des syndicats les plus représentatifs au niveau national et de chacun des organismes regroupant au niveau national les employeurs signataires des conventions collectives du secteur social. La durée du mandat et les modalités de nomination et de fonctionnement de la commission sont réglées par règlement grand-ducal;
 
-5. les frais résultant de collaborateurs occasionnels ou bénévoles ;
+- les frais résultant de collaborateurs occasionnels ou bénévoles ;
 
-6. les frais en relation avec le louage, l'entretien et la réparation des bâtiments et l'équipement mobilier ;
+- les frais en relation avec le louage, l'entretien et la réparation des bâtiments et l'équipement mobilier ;
 
-7. le cas échéant, les frais résultant des prestations spécifiques fournies par l'organisme concerné.
+- le cas échéant, les frais résultant des prestations spécifiques fournies par l'organisme concerné.
 
 L'Etat verse sa participation en totalité ou en partie sous forme d'avances semestrielles, trimestrielles ou mensuelles. L'organisme présente au ministre un décompte annuel. Les sommes indûment touchées sont restituées au Trésor.
 
@@ -345,7 +345,9 @@ La loi modifiée du 21 novembre 1980 portant organisation de la direction de la 
 <a id="art-22"></a>
 ## Art. 22.
 
-L'alinéa b) de l'article 13 de la loi du 27 juillet 1993 concernant l'intégration des étrangers au Grand-Duché de Luxembourg ainsi que l'action sociale en faveur des étrangers est remplacé par le texte suivant: b) les dépenses de personnel qui, pour les besoins de la fixation de la participation de l'Etat, sont chiffrées sur base des salaires et traitements calculés pour les ouvriers d'après les dispositions du contrat collectif des ouvriers de l'Etat, pour les employés/personnel d'encadrement d'après la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat et pour les employés/personnel administratif, d'après les dispositions du règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l'Etat. La valeur du point indiciaire est fixée par référence à l'art. 1er B) de la loi du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat, ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, telle qu'elle a été modifiée. Sont prises en considération également pour le calcul de la participation de l'Etat, les dépenses encourues par le versement d'une biennale supplémentaire par les organismes aux employés de leurs services. Dans le cadre de l'enveloppe ainsi fixée, les modalités de travail et de rémunération du personnel peuvent être arrêtées par convention collective de travail entre les employeurs et les employés.
+L'alinéa b) de l'article 13 de la loi du 27 juillet 1993 concernant l'intégration des étrangers au Grand-Duché de Luxembourg ainsi que l'action sociale en faveur des étrangers est remplacé par le texte suivant:
+
+b) les dépenses de personnel qui, pour les besoins de la fixation de la participation de l'Etat, sont chiffrées sur base des salaires et traitements calculés pour les ouvriers d'après les dispositions du contrat collectif des ouvriers de l'Etat, pour les employés/personnel d'encadrement d'après la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat et pour les employés/personnel administratif, d'après les dispositions du règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l'Etat. La valeur du point indiciaire est fixée par référence à l'art. 1er B) de la loi du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat, ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, telle qu'elle a été modifiée. Sont prises en considération également pour le calcul de la participation de l'Etat, les dépenses encourues par le versement d'une biennale supplémentaire par les organismes aux employés de leurs services. Dans le cadre de l'enveloppe ainsi fixée, les modalités de travail et de rémunération du personnel peuvent être arrêtées par convention collective de travail entre les employeurs et les employés.
 
 #### Chapitre 6 Dispositions transitoires et finales
 

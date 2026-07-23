@@ -98,11 +98,11 @@ I)
 
 (3) Le privilège de cabaretage s’éteint
 
-1. lorsque le propriétaire de la maison y renonce conformément aux articles 5 et 6;
+- lorsque le propriétaire de la maison y renonce conformément aux articles 5 et 6;
 
-2. lorsque durant une année civile l’exploitation du débit n’a pas été effective ou qu’elle a été interrompue pendant six mois consécutifs, à moins que le propriétaire de la maison ou le débitant n’ait obtenu du directeur des douanes et accises une dispense d’exploitation. En aucun cas la dispense ne pourra s’étendre sur plus de cinq ans à compter du jour de la demande. La taxe annuelle prévue à l’article 8 ci-après reste due pour la période d’inexploitation;
+- lorsque durant une année civile l’exploitation du débit n’a pas été effective ou qu’elle a été interrompue pendant six mois consécutifs, à moins que le propriétaire de la maison ou le débitant n’ait obtenu du directeur des douanes et accises une dispense d’exploitation. En aucun cas la dispense ne pourra s’étendre sur plus de cinq ans à compter du jour de la demande. La taxe annuelle prévue à l’article 8 ci-après reste due pour la période d’inexploitation;
 
-3. dans les cas prévus à l’article 24, paragraphe (5) et (7).
+- dans les cas prévus à l’article 24, paragraphe (5) et (7).
 
 II)
 
@@ -158,9 +158,9 @@ La licence volante s’éteint lorsque durant une année civile l’exploitation
 
 Dans les communes où les nécessités du tourisme l’exigent ou dans d’autres cas exceptionnels justifiés par un intérêt général, le Ministre des Finances peut autoriser l’établissement de débits hors nombre de plein exercice. L’octroi de ces autorisations est subordonné
 
-1. à la production par la personne qui désire établir un tel débit d’une renonciation à une licence volante ou à un privilège de n’importe quelle commune du pays et
+- à la production par la personne qui désire établir un tel débit d’une renonciation à une licence volante ou à un privilège de n’importe quelle commune du pays et
 
-2. au paiement d’une taxe d’établissement variant de 2.400 euros à 4.900 euros suivant l’importance de l’établissement projeté et de la localité où le débit sera établi.
+- au paiement d’une taxe d’établissement variant de 2.400 euros à 4.900 euros suivant l’importance de l’établissement projeté et de la localité où le débit sera établi.
 
 (2)
 
@@ -261,11 +261,11 @@ Tout débitant peut néanmoins débiter en un autre lieu de la commune pendant u
 
 N’est pas considéré comme débit nouveau la transcription d’un débit
 
-1. entre mari et femme;
+- entre mari et femme;
 
-2. en ligne directe;
+- en ligne directe;
 
-3. entre frères et sœurs, lorsque, dans ces deux derniers cas, elle a lieu par suite d’héritage ou de donation. Le bénéficiaire de la transcription doit remplir les conditions prévues à l’article 1er, mais ne paie pas de taxe d’ouverture.
+- entre frères et sœurs, lorsque, dans ces deux derniers cas, elle a lieu par suite d’héritage ou de donation. Le bénéficiaire de la transcription doit remplir les conditions prévues à l’article 1er, mais ne paie pas de taxe d’ouverture.
 
 (2)
 
@@ -338,9 +338,9 @@ Les débitants qui ont satisfait aux prescriptions des articles 1 à 6 peuvent e
 
 Pareil débit supplémentaire ne peut être établi.
 
-1. qu’à des occasions exceptionnelles même périodiques, accessoirement à des manifestations dont le débit forme un complément ou
+- qu’à des occasions exceptionnelles même périodiques, accessoirement à des manifestations dont le débit forme un complément ou
 
-2. en des endroits qui par leur site sont spécialement fréquentés.
+- en des endroits qui par leur site sont spécialement fréquentés.
 
 (3)
 
@@ -377,11 +377,11 @@ Des dérogations individuelles prorogeant les heures d’ouverture jusqu’à tr
 
 Peuvent être accordées, sur demande, par le bourgmestre, des dérogations individuelles prorogeant les heures d’ouverture jusqu’à six heures du matin, aux établissements remplissant les conditions suivantes:
 
-1. l’établissement doit se trouver dans une zone qui n’est pas classée comme exclusivement résidentielle par le plan d’aménagement général de la commune concernée;
+- l’établissement doit se trouver dans une zone qui n’est pas classée comme exclusivement résidentielle par le plan d’aménagement général de la commune concernée;
 
-2. l’établissement doit disposer ou avoir accès à des structures adéquates pouvant accueillir des clients se déplaçant en voiture;
+- l’établissement doit disposer ou avoir accès à des structures adéquates pouvant accueillir des clients se déplaçant en voiture;
 
-3. il ne doit résulter aucun trouble à la tranquillité publique ou des inconvénients intolérables pour les habitants des environs de l’établissement, en relation directe avec l’exploitation de l’établissement en question.
+- il ne doit résulter aucun trouble à la tranquillité publique ou des inconvénients intolérables pour les habitants des environs de l’établissement, en relation directe avec l’exploitation de l’établissement en question.
 
 (4)
 
@@ -458,17 +458,17 @@ L’interdiction de tenir un débit de boissons ou de participer à son exploita
 
 L’interdiction est obligatoirement prononcée en cas de condamnation pour:
 
-1. proxénétisme et exploitation de la prostitution d’autrui;
+- proxénétisme et exploitation de la prostitution d’autrui;
 
-2. infraction à la législation sur les stupéfiants;
+- infraction à la législation sur les stupéfiants;
 
-3. enlèvement et prise d’otage;
+- enlèvement et prise d’otage;
 
-4. viol et attentat à la pudeur;
+- viol et attentat à la pudeur;
 
-5. homicide volontaire;
+- homicide volontaire;
 
-6. coups et blessures volontaires à une peine d’emprisonnement sans sursis.
+- coups et blessures volontaires à une peine d’emprisonnement sans sursis.
 
 (3)
 

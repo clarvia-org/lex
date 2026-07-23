@@ -79,37 +79,37 @@ jouir du statut du réfugié politique au sens de l'article 23 de la convention 
 
 pour les étudiants non résidents au Grand-Duché de Luxembourg:
 
-1. être un travailleur ressortissant luxembourgeois ou ressortissant de l'Union européenne ou d'un autre Etat partie à l'Accord sur l'espace économique européen ou de la Confédération suisse employé ou exerçant son activité au Grand-Duché de Luxembourg au moment de sa demande pour l'aide financière pour études supérieures; ou
+- être un travailleur ressortissant luxembourgeois ou ressortissant de l'Union européenne ou d'un autre Etat partie à l'Accord sur l'espace économique européen ou de la Confédération suisse employé ou exerçant son activité au Grand-Duché de Luxembourg au moment de sa demande pour l'aide financière pour études supérieures; ou
 
-2. être un enfant de travailleur ressortissant luxembourgeois ou ressortissant de l'Union européenne ou d'un autre Etat partie à l'Accord sur l'espace économique européen ou de la Confédération suisse employé ou exerçant son activité au Grand-Duché de Luxembourg au moment de la demande par l'étudiant pour l'aide financière pour études supérieures à condition que ce travailleur continue à contribuer à l'entretien de l'étudiant et que ce travailleur ait été employé ou ait exercé son activité au Grand-Duché de Luxembourg pendant une durée cumulée d'au moins cinq ans au moment de la demande de l'aide financière pour études supérieures par l'étudiant pendant une période de référence de dix ans à compter rétroactivement à partir de la date de la demande pour l'obtention de l'aide financière pour études supérieures. Est visé également l'enfant faisant partie d'un ménage dont le conjoint ou partenaire du parent remplit les conditions énumérées dans le présent paragraphe. Au sens du présent article, le terme partenaire désigne toute personne ayant fait inscrire au répertoire civil un partenariat au sens de la loi modifiée du 9 juillet 2004 relative aux effets de certains partenariats ; ou
+- être un enfant de travailleur ressortissant luxembourgeois ou ressortissant de l'Union européenne ou d'un autre Etat partie à l'Accord sur l'espace économique européen ou de la Confédération suisse employé ou exerçant son activité au Grand-Duché de Luxembourg au moment de la demande par l'étudiant pour l'aide financière pour études supérieures à condition que ce travailleur continue à contribuer à l'entretien de l'étudiant et que ce travailleur ait été employé ou ait exercé son activité au Grand-Duché de Luxembourg pendant une durée cumulée d'au moins cinq ans au moment de la demande de l'aide financière pour études supérieures par l'étudiant pendant une période de référence de dix ans à compter rétroactivement à partir de la date de la demande pour l'obtention de l'aide financière pour études supérieures. Est visé également l'enfant faisant partie d'un ménage dont le conjoint ou partenaire du parent remplit les conditions énumérées dans le présent paragraphe. Au sens du présent article, le terme partenaire désigne toute personne ayant fait inscrire au répertoire civil un partenariat au sens de la loi modifiée du 9 juillet 2004 relative aux effets de certains partenariats ; ou
 
-3. être un enfant de travailleur ressortissant luxembourgeois ou ressortissant de l'Union européenne ou d'un autre État partie à l'Accord sur l'espace économique européen ou de la Confédération suisse employé ou exerçant son activité au Grand-Duché de Luxembourg au moment de la demande par l'étudiant pour l'aide financière pour études supérieures à condition que ce travailleur continue à contribuer à l'entretien de l'étudiant et que ce travailleur ait été employé ou ait exercé son activité au Grand-Duché de Luxembourg pendant une durée cumulée d'au moins dix ans au moment de la demande de l'aide financière pour études supérieures par l'étudiant ; ou
+- être un enfant de travailleur ressortissant luxembourgeois ou ressortissant de l'Union européenne ou d'un autre État partie à l'Accord sur l'espace économique européen ou de la Confédération suisse employé ou exerçant son activité au Grand-Duché de Luxembourg au moment de la demande par l'étudiant pour l'aide financière pour études supérieures à condition que ce travailleur continue à contribuer à l'entretien de l'étudiant et que ce travailleur ait été employé ou ait exercé son activité au Grand-Duché de Luxembourg pendant une durée cumulée d'au moins dix ans au moment de la demande de l'aide financière pour études supérieures par l'étudiant ; ou
 
-4. être un enfant de travailleur ressortissant luxembourgeois ou ressortissant de l'Union européenne ou d'un autre État partie à l'Accord sur l'espace économique européen ou de la Confédération suisse employé ou exerçant son activité au Grand-Duché de Luxembourg au moment de la demande par l'étudiant pour l'aide financière pour études supérieures à condition que ce travailleur continue à contribuer à l'entretien de l'étudiant et répondre à une des conditions ci-après :
+- être un enfant de travailleur ressortissant luxembourgeois ou ressortissant de l'Union européenne ou d'un autre État partie à l'Accord sur l'espace économique européen ou de la Confédération suisse employé ou exerçant son activité au Grand-Duché de Luxembourg au moment de la demande par l'étudiant pour l'aide financière pour études supérieures à condition que ce travailleur continue à contribuer à l'entretien de l'étudiant et répondre à une des conditions ci-après :
 
-1. avoir été inscrit pendant au moins cinq années d'études cumulées :
+  - avoir été inscrit pendant au moins cinq années d'études cumulées :
 
-1. dans un établissement public ou privé dispensant l'enseignement fondamental, l'enseignement secondaire ou la formation professionnelle initiale et situé sur le territoire du Grand-Duché de Luxembourg ; ou
+    - dans un établissement public ou privé dispensant l'enseignement fondamental, l'enseignement secondaire ou la formation professionnelle initiale et situé sur le territoire du Grand-Duché de Luxembourg ; ou
 
-2. au « Deutsch-Luxemburgisches Schengen-Lyzeum Perl » ; ou
+    - au « Deutsch-Luxemburgisches Schengen-Lyzeum Perl » ; ou
 
-3. dans un programme d'études offert par l'Université du Luxembourg et menant au grade de bachelor, de master ou de docteur ou au diplôme d'études spécialisées en médecine ; ou
+    - dans un programme d'études offert par l'Université du Luxembourg et menant au grade de bachelor, de master ou de docteur ou au diplôme d'études spécialisées en médecine ; ou
 
-4. dans un programme d'études menant au brevet de technicien supérieur et accrédité par le ministre en vertu des dispositions du titre II de la loi modifiée du 19 juin 2009 portant organisation de l'enseignement supérieur ; ou
+    - dans un programme d'études menant au brevet de technicien supérieur et accrédité par le ministre en vertu des dispositions du titre II de la loi modifiée du 19 juin 2009 portant organisation de l'enseignement supérieur ; ou
 
-5. dans un programme d'études accrédité offert par un établissement d'enseignement supérieur étranger établi sur le territoire du Grand-Duché de Luxembourg et accrédité par le ministre en vertu des dispositions du titre III de la loi modifiée du 19 juin 2009 portant organisation de l'enseignement supérieur ; ou
+    - dans un programme d'études accrédité offert par un établissement d'enseignement supérieur étranger établi sur le territoire du Grand-Duché de Luxembourg et accrédité par le ministre en vertu des dispositions du titre III de la loi modifiée du 19 juin 2009 portant organisation de l'enseignement supérieur ; ou
 
-2. avoir séjourné au Grand-Duché de Luxembourg au titre d'une des conditions visées aux paragraphes 1er, 2, 3 ou 4 pendant une durée cumulée d'au moins cinq années au moment de la demande de l'aide financière pour études supérieures par l'étudiant.
+  - avoir séjourné au Grand-Duché de Luxembourg au titre d'une des conditions visées aux paragraphes 1er, 2, 3 ou 4 pendant une durée cumulée d'au moins cinq années au moment de la demande de l'aide financière pour études supérieures par l'étudiant.
 
 L'étudiant qui séjourne au Grand-Duché de Luxembourg principalement dans le cadre de ses études et qui dispose d'un revenu ne dépassant pas la limite inférieure prévue à l'article 11 de la présente loi est traité, dans le cadre de l'article 4 et de l'article 8 de la présente loi, comme étudiant non résident au Grand-Duché de Luxembourg.
 
 Est considéré comme travailleur au sens du présent article celui qui bénéficie de l'un des statuts suivants:
 
-1. travailleur qui exerce des activités salariées réelles et effectives, à l'exclusion d'activités tellement réduites qu'elles se présentent comme purement marginales ou accessoires;
+- travailleur qui exerce des activités salariées réelles et effectives, à l'exclusion d'activités tellement réduites qu'elles se présentent comme purement marginales ou accessoires;
 
-2. travailleur qui exerce des activités non salariées réelles et effectives, à l'exclusion d'activités tellement réduites qu'elles se présentent comme purement marginales ou accessoires, affilié obligatoirement et d'une manière continue au Grand-Duché de Luxembourg en vertu de l'article 1er, point 4) du Code de la sécurité sociale;
+- travailleur qui exerce des activités non salariées réelles et effectives, à l'exclusion d'activités tellement réduites qu'elles se présentent comme purement marginales ou accessoires, affilié obligatoirement et d'une manière continue au Grand-Duché de Luxembourg en vertu de l'article 1er, point 4) du Code de la sécurité sociale;
 
-3. personne qui garde le statut de travailleur ou qui fait partie des catégories suivantes: personne bénéficiaire d'une pension ou d'une rente due au titre de la législation luxembourgeoise et travailleur bénéficiant d'une pension d'invalidité aux termes de l'article 187 du Code des assurances sociales.
+- personne qui garde le statut de travailleur ou qui fait partie des catégories suivantes: personne bénéficiaire d'une pension ou d'une rente due au titre de la législation luxembourgeoise et travailleur bénéficiant d'une pension d'invalidité aux termes de l'article 187 du Code des assurances sociales.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -120,27 +120,27 @@ Bourses
 
 Les catégories de bourses sont les suivantes:
 
-1. Bourse de base: la bourse de base est accessible à l'étudiant qui satisfait aux critères des articles 2 et 3 de la présente loi. Le montant par semestre est fixé à mille cent quarante-deux euros.
+- Bourse de base: la bourse de base est accessible à l'étudiant qui satisfait aux critères des articles 2 et 3 de la présente loi. Le montant par semestre est fixé à mille cent quarante-deux euros.
 
-2. Bourse de mobilité: la bourse de mobilité est accessible à l'étudiant qui satisfait aux critères des articles 2 et 3 de la présente loi et qui est inscrit dans un programme d'enseignement en dehors des frontières nationales du pays de résidence du ménage dont il fait partie et qui apporte la preuve qu'il supporte les frais inhérents à une prise de location d'un logement. Le montant par semestre est fixé à mille quatre cent vingt euros.
+- Bourse de mobilité: la bourse de mobilité est accessible à l'étudiant qui satisfait aux critères des articles 2 et 3 de la présente loi et qui est inscrit dans un programme d'enseignement en dehors des frontières nationales du pays de résidence du ménage dont il fait partie et qui apporte la preuve qu'il supporte les frais inhérents à une prise de location d'un logement. Le montant par semestre est fixé à mille quatre cent vingt euros.
 
-3. Bourse sur critères sociaux: la bourse sur critères sociaux est accessible à l'étudiant qui satisfait aux critères des articles 2 et 3 de la présente loi et dont le revenu total annuel du ménage dont il fait partie est inférieur ou égal à quatre fois et demie le montant brut du salaire social minimum annuel pour salariés non qualifiés. Par revenu total annuel, il faut entendre le revenu imposable tel qu'il est défini à l'article 7 de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu. Est ajouté, le cas échéant, l'abattement de cession prévu à l'article 130 de la même loi. Les montants, par semestre, des sous-catégories de bourses sur critères sociaux sont échelonnés comme suit:
+- Bourse sur critères sociaux: la bourse sur critères sociaux est accessible à l'étudiant qui satisfait aux critères des articles 2 et 3 de la présente loi et dont le revenu total annuel du ménage dont il fait partie est inférieur ou égal à quatre fois et demie le montant brut du salaire social minimum annuel pour salariés non qualifiés. Par revenu total annuel, il faut entendre le revenu imposable tel qu'il est défini à l'article 7 de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu. Est ajouté, le cas échéant, l'abattement de cession prévu à l'article 130 de la même loi. Les montants, par semestre, des sous-catégories de bourses sur critères sociaux sont échelonnés comme suit:
 
-1. revenu total annuel inférieur à une fois le salaire social minimum annuel pour salariés non qualifiés: deux mille deux cent dix euros;
+  - revenu total annuel inférieur à une fois le salaire social minimum annuel pour salariés non qualifiés: deux mille deux cent dix euros;
 
-2. revenu total annuel compris entre une fois et une fois et demie le salaire social minimum annuel pour salariés non qualifiés: mille huit cent soixante-dix euros;
+  - revenu total annuel compris entre une fois et une fois et demie le salaire social minimum annuel pour salariés non qualifiés: mille huit cent soixante-dix euros;
 
-3. revenu total annuel compris entre une fois et demie et deux fois le salaire social minimum annuel pour salariés non qualifiés: mille cinq cent cinquante-trois euros;
+  - revenu total annuel compris entre une fois et demie et deux fois le salaire social minimum annuel pour salariés non qualifiés: mille cinq cent cinquante-trois euros;
 
-4. revenu total annuel compris entre deux fois et deux fois et demie le salaire social minimum annuel pour salariés non qualifiés: mille deux cent soixante-six euros;
+  - revenu total annuel compris entre deux fois et deux fois et demie le salaire social minimum annuel pour salariés non qualifiés: mille deux cent soixante-six euros;
 
-5. revenu total annuel compris entre deux fois et demie et trois fois le salaire social minimum annuel pour salariés non qualifiés: neuf cent quatre-vingts euros;
+  - revenu total annuel compris entre deux fois et demie et trois fois le salaire social minimum annuel pour salariés non qualifiés: neuf cent quatre-vingts euros;
 
-6. revenu total annuel compris entre trois fois et trois fois et demie le salaire social minimum annuel pour salariés non qualifiés: six cent quatre-vingt-treize euros;
+  - revenu total annuel compris entre trois fois et trois fois et demie le salaire social minimum annuel pour salariés non qualifiés: six cent quatre-vingt-treize euros;
 
-7. revenu total annuel compris entre trois fois et demie et quatre fois et demie le salaire social minimum annuel pour salariés non qualifiés: trois cent cinquante-deux euros.
+  - revenu total annuel compris entre trois fois et demie et quatre fois et demie le salaire social minimum annuel pour salariés non qualifiés: trois cent cinquante-deux euros.
 
-4. Bourse familiale: la bourse familiale est accessible à l'étudiant si parallèlement un ou plusieurs autres enfants, faisant partie du même ménage que lui, tombent sous le champ d'application de la présente loi. Le montant par semestre est fixé à deux cent soixante-quatorze euros.
+- Bourse familiale: la bourse familiale est accessible à l'étudiant si parallèlement un ou plusieurs autres enfants, faisant partie du même ménage que lui, tombent sous le champ d'application de la présente loi. Le montant par semestre est fixé à deux cent soixante-quatorze euros.
 
 (2)
 
@@ -265,11 +265,11 @@ Pour l'appréciation de ces critères, l'étudiant bénéficiaire de l'aide fina
 
 Pour pouvoir bénéficier de l'aide financière à la troisième année de ses études de premier cycle, l'étudiant doit avoir rempli une des conditions suivantes:
 
-1. avoir validé 60 crédits ECTS au moins lors des deux premières années d'études dans le même programme d'enseignement supérieur;
+- avoir validé 60 crédits ECTS au moins lors des deux premières années d'études dans le même programme d'enseignement supérieur;
 
-2. avoir validé 30 crédits ECTS au minimum au plus tard après la deuxième année d'études, à condition de s'être réorienté après la première inscription à un programme d'enseignement supérieur;
+- avoir validé 30 crédits ECTS au minimum au plus tard après la deuxième année d'études, à condition de s'être réorienté après la première inscription à un programme d'enseignement supérieur;
 
-3. être inscrit en deuxième année du programme d'enseignement supérieur, qui est défini en termes de durée d'études.
+- être inscrit en deuxième année du programme d'enseignement supérieur, qui est défini en termes de durée d'études.
 
 L'étudiant qui, après deux années d'études, est inscrit en première année d'un programme d'enseignement supérieur se voit refuser l'aide financière quels que soient les résultats obtenus.
 
@@ -289,15 +289,15 @@ Les documents à fournir par l'étudiant en vue de la reconnaissance de la situa
 
 Par dérogation aux paragraphes 4, 5, 6, 7 et 8, les dispositions ci-après s'appliquent à l'étudiant ayant été inscrit pendant le semestre d'été 2019/2020 dans un cycle d'études supérieures éligible au titre de l'article 2 :
 
-1. L'étudiant inscrit en premier cycle peut bénéficier de bourses et de prêts pour un nombre de semestres d'études dépassant de trois unités au maximum la durée officiellement prévue pour l'accomplissement du cycle d'études dans lequel il est inscrit.
+- L'étudiant inscrit en premier cycle peut bénéficier de bourses et de prêts pour un nombre de semestres d'études dépassant de trois unités au maximum la durée officiellement prévue pour l'accomplissement du cycle d'études dans lequel il est inscrit.
 
-2. L'étudiant inscrit en deuxième cycle peut bénéficier de bourses et de prêts pour le nombre de semestres d'études officiellement prévus pour l'accomplissement du cycle d'études dans lequel il est inscrit. Ce nombre est augmenté soit de trois unités au cas où l'étudiant a accompli le premier cycle dans la durée officiellement prévue pour l'accomplissement de ce cycle d'études, soit de deux unités au cas où l'étudiant a dépassé d'une unité la durée officiellement prévue pour l'accomplissement du premier cycle d'études, soit d'une unité au cas où l'étudiant a dépassé de deux unités la durée officiellement prévue pour l'accomplissement du premier cycle d'études.
+- L'étudiant inscrit en deuxième cycle peut bénéficier de bourses et de prêts pour le nombre de semestres d'études officiellement prévus pour l'accomplissement du cycle d'études dans lequel il est inscrit. Ce nombre est augmenté soit de trois unités au cas où l'étudiant a accompli le premier cycle dans la durée officiellement prévue pour l'accomplissement de ce cycle d'études, soit de deux unités au cas où l'étudiant a dépassé d'une unité la durée officiellement prévue pour l'accomplissement du premier cycle d'études, soit d'une unité au cas où l'étudiant a dépassé de deux unités la durée officiellement prévue pour l'accomplissement du premier cycle d'études.
 
-3. L'étudiant inscrit en cycle unique peut bénéficier de bourses et de prêts pour un nombre de semestres d'études dépassant de trois unités la durée officiellement prévue pour l'accomplissement du cycle d'études dans lequel il est inscrit.
+- L'étudiant inscrit en cycle unique peut bénéficier de bourses et de prêts pour un nombre de semestres d'études dépassant de trois unités la durée officiellement prévue pour l'accomplissement du cycle d'études dans lequel il est inscrit.
 
-4. L'étudiant inscrit dans le cycle de formation à la recherche peut bénéficier de bourses et de prêts pour une durée maximale de neuf semestres.
+- L'étudiant inscrit dans le cycle de formation à la recherche peut bénéficier de bourses et de prêts pour une durée maximale de neuf semestres.
 
-5. Lorsque l'étudiant veut terminer son premier cycle, son deuxième cycle ou son cycle unique d'études resté inachevé, il peut bénéficier de l'intégralité de l'aide financière sous forme d'un prêt pour un semestre supplémentaire.
+- Lorsque l'étudiant veut terminer son premier cycle, son deuxième cycle ou son cycle unique d'études resté inachevé, il peut bénéficier de l'intégralité de l'aide financière sous forme d'un prêt pour un semestre supplémentaire.
 
 (12bis)
 
@@ -311,11 +311,11 @@ Par dérogation au paragraphe 8, lorsque l'étudiant ayant été inscrit pendant
 
 Par dérogation au paragraphe 10, l'étudiant qui a été inscrit pendant l'année académique 2019/2020 ou pendant l'année académique 2020/2021 ou pendant l'année académique 2021/2022 dans un cycle d'études supérieures éligible au titre de l'article 2 et qui ne s'est pas réorienté après l'année académique 2021/2022 doit avoir rempli une des conditions suivantes pour pouvoir bénéficier de l'aide financière à la quatrième année de ses études de premier cycle :
 
-1. avoir validé 60 crédits ECTS au moins lors des trois premières années d'études dans le même programme d'enseignement supérieur ;
+- avoir validé 60 crédits ECTS au moins lors des trois premières années d'études dans le même programme d'enseignement supérieur ;
 
-2. avoir validé 30 crédits ECTS au minimum au plus tard après la troisième année d'études, à condition de s'être réorienté après la première inscription à un programme d'enseignement supérieur ;
+- avoir validé 30 crédits ECTS au minimum au plus tard après la troisième année d'études, à condition de s'être réorienté après la première inscription à un programme d'enseignement supérieur ;
 
-3. être inscrit en deuxième année du programme d'enseignement supérieur, qui est défini en termes de durée d'études.
+- être inscrit en deuxième année du programme d'enseignement supérieur, qui est défini en termes de durée d'études.
 
 L'étudiant qui a été inscrit pendant l'année académique 2019/2020 ou pendant l'année académique 2020/2021 ou pendant l'année académique 2021/2022 dans un cycle d'études supérieures éligible au titre de l'article 2 et qui, après trois années d'études, est inscrit en première année d'un programme d'enseignement supérieur se voit refuser l'aide financière quels que soient les résultats obtenus.
 
@@ -330,9 +330,9 @@ Dispositions anticumul
 
 L'aide financière allouée sur base de la présente loi n'est pas cumulable avec les avantages suivants attribuables dans l'Etat de résidence du ménage dont l'étudiant fait partie:
 
-1. les aides financières pour études supérieures et autres aides équivalentes;
+- les aides financières pour études supérieures et autres aides équivalentes;
 
-2. tout avantage financier dont bénéficie l'étudiant ou le ménage dont il fait partie et découlant du fait que le demandeur de l'aide financière est un étudiant au sens de la présente loi.
+- tout avantage financier dont bénéficie l'étudiant ou le ménage dont il fait partie et découlant du fait que le demandeur de l'aide financière est un étudiant au sens de la présente loi.
 
 Ne sont pas visées par les dispositions du présent article les bourses ayant leur fondement dans un mérite particulier de l'étudiant ainsi que les bourses ayant leur fondement dans un programme international visant à favoriser la mobilité internationale des étudiants.
 

@@ -42,17 +42,17 @@ Le comité rapporte au Gouvernement et est placé sous l’autorité des ministr
 
 Aux fins de l'accomplissement de ses missions, le comité :
 
-1. propose au Gouvernement un programme de travail annuel et un calendrier général en vue de l'accomplissement des obligations résultant de la gouvernance économique et financière de l'Union européenne ;
+- propose au Gouvernement un programme de travail annuel et un calendrier général en vue de l'accomplissement des obligations résultant de la gouvernance économique et financière de l'Union européenne ;
 
-2. coordonne les travaux relatifs à l’élaboration du plan budgétaire et structurel national à moyen terme ainsi que du projet de plan budgétaire ;
+- coordonne les travaux relatifs à l’élaboration du plan budgétaire et structurel national à moyen terme ainsi que du projet de plan budgétaire ;
 
-3. coordonne, sur le plan national, le suivi des procédures relevant de la gouvernance économique et financière de l’Union européenne ;
+- coordonne, sur le plan national, le suivi des procédures relevant de la gouvernance économique et financière de l’Union européenne ;
 
-4. coordonne l’élaboration des prévisions de finances publiques à politique inchangée, sur la base de prévisions macroéconomiques élaborées par le STATEC ;
+- coordonne l’élaboration des prévisions de finances publiques à politique inchangée, sur la base de prévisions macroéconomiques élaborées par le STATEC ;
 
-5. facilite l’échange de données et informations entre les autorités nationales compétentes ;
+- facilite l’échange de données et informations entre les autorités nationales compétentes ;
 
-6. coordonne, à la demande du Gouvernement, l’élaboration d’études ou d’analyses sur l’impact potentiel de mesures de politique économique, budgétaire ou fiscale sur les finances publiques et la conjoncture économique.
+- coordonne, à la demande du Gouvernement, l’élaboration d’études ou d’analyses sur l’impact potentiel de mesures de politique économique, budgétaire ou fiscale sur les finances publiques et la conjoncture économique.
 
 <a id="art-3"></a>
 ## Art. 3.

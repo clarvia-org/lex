@@ -140,9 +140,9 @@ Sauf disposition contraire de la loi, appel peut être interjeté devant la Cour
 
 Le tribunal administratif connaît des contestations relatives:
 
-1. aux impôts directs de l’Etat, à l’exception des impôts dont l’établissement et la perception sont confiés à l’Administration de l’Enregistrement et des Domaines et à l’Administration des Douanes et Accises et
+- aux impôts directs de l’Etat, à l’exception des impôts dont l’établissement et la perception sont confiés à l’Administration de l’Enregistrement et des Domaines et à l’Administration des Douanes et Accises et
 
-2. aux impôts et taxes communaux, à l’exception des taxes rémunératoires.
+- aux impôts et taxes communaux, à l’exception des taxes rémunératoires.
 
 (2)
 
@@ -229,19 +229,19 @@ Les membres suppléants de la Cour administrative sont choisis parmi des candida
 
 Pour être membre de la Cour administrative, il faut:
 
-1. être de nationalité luxembourgeoise;
+- être de nationalité luxembourgeoise;
 
-2. jouir des droits civils et politiques;
+- jouir des droits civils et politiques;
 
-3. résider au Grand-Duché de Luxembourg;
+- résider au Grand-Duché de Luxembourg;
 
-4. être âgé de trente ans accomplis;
+- être âgé de trente ans accomplis;
 
-5. être titulaire d’un diplôme luxembourgeois de fin d’études universitaires en droit correspondant au grade de master reconnu ou d’un diplôme étranger de fin d’études universitaires en droit correspondant au grade de master, reconnu et homologué par le ministre ayant l’Enseignement supérieur dans ses attributions conformément à la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur;
+- être titulaire d’un diplôme luxembourgeois de fin d’études universitaires en droit correspondant au grade de master reconnu ou d’un diplôme étranger de fin d’études universitaires en droit correspondant au grade de master, reconnu et homologué par le ministre ayant l’Enseignement supérieur dans ses attributions conformément à la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur;
 
-6. avoir accompli un service comme attaché de justice conformément aux dispositions de la loi sur les attachés de justice ;
+- avoir accompli un service comme attaché de justice conformément aux dispositions de la loi sur les attachés de justice ;
 
-7. satisfaire aux conditions d’admissibilité définies par la loi modifiée du 7 juin 2012 sur les attachés de justice.
+- satisfaire aux conditions d’admissibilité définies par la loi modifiée du 7 juin 2012 sur les attachés de justice.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -286,9 +286,9 @@ Il veille à la prompte expédition des affaires.
 
 Avant le 15 février de chaque année, le président de la Cour administrative communique au Conseil national de la justice et au ministre de la justice un rapport d’activités portant sur :
 
-1. le fonctionnement de la cour pendant l’année judiciaire écoulée ;
+- le fonctionnement de la cour pendant l’année judiciaire écoulée ;
 
-2. les statistiques qui précisent le nombre des affaires en instance, le nombre des affaires jugées et la durée des affaires.
+- les statistiques qui précisent le nombre des affaires en instance, le nombre des affaires jugées et la durée des affaires.
 
 (2)
 
@@ -470,17 +470,17 @@ Est qualifié faute disciplinaire tout acte commis dans l’exercice ou hors de 
 
 Les peines disciplinaires sont:
 
-1. l’avertissement;
+- l’avertissement;
 
-2. la réprimande;
+- la réprimande;
 
-3. l’amende qui ne peut être inférieure à un dixième d’une mensualité brute du traitement de base, ni supérieure à cette même mensualité. Elle est recouvrable au moyen d’une contrainte non susceptible d’opposition, à décerner par le receveur de l’enregistrement:
+- l’amende qui ne peut être inférieure à un dixième d’une mensualité brute du traitement de base, ni supérieure à cette même mensualité. Elle est recouvrable au moyen d’une contrainte non susceptible d’opposition, à décerner par le receveur de l’enregistrement:
 
-4. l’exclusion temporaire des fonctions, avec ou sans privation partielle ou totale de la rémunération pour une période de six mois au maximum. La période de l’exclusion ne compte pas comme temps de service pour le calcul des majorations biennales et la pension;
+- l’exclusion temporaire des fonctions, avec ou sans privation partielle ou totale de la rémunération pour une période de six mois au maximum. La période de l’exclusion ne compte pas comme temps de service pour le calcul des majorations biennales et la pension;
 
-5. la mise à la retraite;
+- la mise à la retraite;
 
-6. la révocation. La révocation emporte la perte de l’emploi, du titre et du droit à la pension sans préjudice des droits découlant de l’assurance rétroactive prévue en matière de coordination des régimes de pension.
+- la révocation. La révocation emporte la perte de l’emploi, du titre et du droit à la pension sans préjudice des droits découlant de l’assurance rétroactive prévue en matière de coordination des régimes de pension.
 
 <a id="art-40-20250916"></a>
 ## Art. 40.
@@ -516,13 +516,13 @@ Les dispositions des paragraphes 2 à 9 de l’article 4 du titre 1er du livre 1
 
 Est suspendu de plein droit de l’exercice de ses fonctions, le membre de la Cour administrative
 
-1. détenu à titre répressif, pour la durée de sa détention;
+- détenu à titre répressif, pour la durée de sa détention;
 
-2. détenu préventivement, pour la durée de sa détention;
+- détenu préventivement, pour la durée de sa détention;
 
-3. contre lequel il existe une décision judiciaire non encore définitive qui porte ou emporte perte d’emploi, jusqu’à la décision définitive qui l’acquitte ou ne le condamne qu’à une peine moindre;
+- contre lequel il existe une décision judiciaire non encore définitive qui porte ou emporte perte d’emploi, jusqu’à la décision définitive qui l’acquitte ou ne le condamne qu’à une peine moindre;
 
-4. condamné disciplinairement à la révocation ou à l’exclusion temporaire des fonctions par une décision non encore définitive, jusqu’à la fin de la procédure disciplinaire.
+- condamné disciplinairement à la révocation ou à l’exclusion temporaire des fonctions par une décision non encore définitive, jusqu’à la fin de la procédure disciplinaire.
 
 <a id="art-46-20250916"></a>
 ## Art. 46.
@@ -626,19 +626,19 @@ Les membres suppléants du tribunal administratif sont choisis parmi des candida
 
 Pour être membre du tribunal administratif, il faut:
 
-1. être de nationalité luxembourgeoise;
+- être de nationalité luxembourgeoise;
 
-2. jouir des droits civils et politiques;
+- jouir des droits civils et politiques;
 
-3. résider au Grand-Duché de Luxembourg;
+- résider au Grand-Duché de Luxembourg;
 
-4. être âgé de vingt-cinq ans accomplis;
+- être âgé de vingt-cinq ans accomplis;
 
-5. être titulaire d’un diplôme luxembourgeois de fin d’études universitaires en droit correspondant au grade de master reconnu ou d’un diplôme étranger de fin d’études universitaires en droit correspondant au grade de master, reconnu et homologué par le ministre ayant l’Enseignement supérieur dans ses attributions conformément à la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur;
+- être titulaire d’un diplôme luxembourgeois de fin d’études universitaires en droit correspondant au grade de master reconnu ou d’un diplôme étranger de fin d’études universitaires en droit correspondant au grade de master, reconnu et homologué par le ministre ayant l’Enseignement supérieur dans ses attributions conformément à la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur;
 
-6. avoir accompli un service comme attaché de justice conformément aux dispositions de la loi sur les attachés de justice;
+- avoir accompli un service comme attaché de justice conformément aux dispositions de la loi sur les attachés de justice;
 
-7. satisfaire aux conditions d’admissibilité définies par la loi modifiée du 7 juin 2012 sur les attachés de justice.
+- satisfaire aux conditions d’admissibilité définies par la loi modifiée du 7 juin 2012 sur les attachés de justice.
 
 <a id="art-60"></a>
 ## Art. 60.
@@ -691,9 +691,9 @@ Il veille à la prompte expédition des affaires.
 
 Avant le 15 février de chaque année, le président du tribunal administratif communique au Conseil national de la justice et au ministre de la justice un rapport d’activités portant sur :
 
-1. le fonctionnement du tribunal pendant l’année judiciaire écoulée ;
+- le fonctionnement du tribunal pendant l’année judiciaire écoulée ;
 
-2. les statistiques qui précisent le nombre des affaires en instance, le nombre des affaires jugées et la durée des affaires.
+- les statistiques qui précisent le nombre des affaires en instance, le nombre des affaires jugées et la durée des affaires.
 
 (2)
 
@@ -964,9 +964,9 @@ Ce cadre peut être complété par des fonctionnaires stagiaires, des employés 
 
 Le président de la Cour administrative propose :
 
-1. la nomination des fonctionnaires stagiaires et fonctionnaires de l’État ;
+- la nomination des fonctionnaires stagiaires et fonctionnaires de l’État ;
 
-2. l’engagement et le licenciement des employés et salariés de l’État.
+- l’engagement et le licenciement des employés et salariés de l’État.
 
 Les nominations du dernier grade du niveau supérieur dans chaque catégorie de traitement sont faites par le Grand-Duc. Les nominations aux autres grades sont faites par le ministre de la justice.
 
@@ -987,11 +987,11 @@ Sur demande du président de la Cour administrative, le procureur général d’
 
 L’avis du procureur général d’État fait état des :
 
-1. inscriptions au bulletin N° 2 du casier judiciaire ;
+- inscriptions au bulletin N° 2 du casier judiciaire ;
 
-2. informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;
+- informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;
 
-3. informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.
+- informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.
 
 (3)
 
@@ -1003,9 +1003,9 @@ Le procureur général d’État fait état dans son avis des informations issue
 
 Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :
 
-1. le nom, les prénoms, la date et le lieu de naissance du candidat ainsi que son numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
+- le nom, les prénoms, la date et le lieu de naissance du candidat ainsi que son numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
 
-2. la qualification juridique des faits reprochés.
+- la qualification juridique des faits reprochés.
 
 (5)
 
@@ -1039,7 +1039,9 @@ Les nouvelles fonctions créées par la présente loi sont classées comme suit:
 <a id="art-95"></a>
 ## Art. 95.
 
-L’article 1er (2) alinéa 1er de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat est modifié comme suit: Le présent statut s’applique également aux magistrats des ordres judiciaire et administratif et aux greffiers, sous réserve des dispositions inscrites à la Constitution, à la loi sur l’organisation judiciaire et à la loi portant organisation des juridictions de l’ordre administratif et concernant notamment le recrutement, l’inamovibilité, les incompatibilités, la résidence, les absences et les congés, le service des audiences et la discipline.
+L’article 1er (2) alinéa 1er de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat est modifié comme suit:
+
+Le présent statut s’applique également aux magistrats des ordres judiciaire et administratif et aux greffiers, sous réserve des dispositions inscrites à la Constitution, à la loi sur l’organisation judiciaire et à la loi portant organisation des juridictions de l’ordre administratif et concernant notamment le recrutement, l’inamovibilité, les incompatibilités, la résidence, les absences et les congés, le service des audiences et la discipline.
 
 #### Chapitre 9.- Des dispositions transitoires, modificatives, budgétaires et abrogatoires et de l’entrée en vigueur
 
@@ -1098,34 +1100,72 @@ Aucun membre effectif du Comité du contentieux en fonctions avant l’entrée e
 
 Le paragraphe (9) de l’article 15 de la loi modifiée du 28 mars 1972 concernant
 
-1. l’entrée et le séjour des étrangers;
+- l’entrée et le séjour des étrangers;
 
-2. le contrôle médical des étrangers;
+- le contrôle médical des étrangers;
 
-3. l’emploi de la main d’oeuvre étrangère est remplacé comme suit:
+- l’emploi de la main d’oeuvre étrangère est remplacé comme suit:
 
-(9) Contre les décisions visées aux paragraphes (1) et (2) un recours est ouvert devant le tribunal administratif, qui statue comme juge du fond. Ce recours doit être introduit dans le délai d’un mois à partir de la notification. Le tribunal administratif statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête. Contre la décision du tribunal administratif appel peut être interjeté devant la Cour administrative. A peine de forclusion le recours doit être introduit dans le délai de trois jours à partir de la notification de la décision du tribunal administratif. La Cour administrative statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête. Pendant le délai et l’instance d’appel il sera sursis à l’exécution des jugements ayant annulé ou réformé des décisions attaquées.
+(9)
+
+Contre les décisions visées aux paragraphes (1) et (2) un recours est ouvert devant le tribunal administratif, qui statue comme juge du fond.
+
+Ce recours doit être introduit dans le délai d’un mois à partir de la notification.
+
+Le tribunal administratif statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête.
+
+Contre la décision du tribunal administratif appel peut être interjeté devant la Cour administrative. A peine de forclusion le recours doit être introduit dans le délai de trois jours à partir de la notification de la décision du tribunal administratif.
+
+La Cour administrative statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête.
+
+Pendant le délai et l’instance d’appel il sera sursis à l’exécution des jugements ayant annulé ou réformé des décisions attaquées.
 
 <a id="art-104"></a>
 ## Art. 104.
 
 La loi du 3 avril 1996 portant création d’une procédure relative à l’examen d’une demande d’asile est modifiée comme suit:
 
-1) L’article 10 est complété comme suit: Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative. Le recours doit être introduit dans le délai d’un mois à partir de la notification par les soins du greffe. Le recours a un effet suspensif.
+1) L’article 10 est complété comme suit:
 
-2) L’article 13 est complété comme suit: Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative. Le recours doit être introduit dans le délai d’un mois à partir de la notification par les soins du greffe. Le recours a un effet suspensif.
+Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative.
+
+Le recours doit être introduit dans le délai d’un mois à partir de la notification par les soins du greffe.
+
+Le recours a un effet suspensif.
+
+2) L’article 13 est complété comme suit:
+
+Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative.
+
+Le recours doit être introduit dans le délai d’un mois à partir de la notification par les soins du greffe.
+
+Le recours a un effet suspensif.
 
 <a id="art-105"></a>
 ## Art. 105.
 
-Il est ajouté à la loi du 13 mars 1993 relative à l’exécution en droit luxembourgeois de la Directive n° 89/665 du Conseil du 21 décembre 1989 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des procédures de recours en matière de marchés publics un article 10 libellé comme suit: Art. 10. Contre l’ordonnance de référé du Président du tribunal administratif appel peut être interjeté devant le Président de la Cour administrative dans un délai de quinze jours à partir de la signification.
+Il est ajouté à la loi du 13 mars 1993 relative à l’exécution en droit luxembourgeois de la Directive n° 89/665 du Conseil du 21 décembre 1989 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des procédures de recours en matière de marchés publics un article 10 libellé comme suit:
+
+Art. 10.
+
+Contre l’ordonnance de référé du Président du tribunal administratif appel peut être interjeté devant le Président de la Cour administrative dans un délai de quinze jours à partir de la signification.
 
 <a id="art-109"></a>
 ## Art. 109.
 
 (1)
 
-Le deuxième alinéa du § (1) de l’article 2 de la loi modifiée du 10 août 1991 sur la profession d’avocat est remplacé comme suit: Les dispositions de l’alinéa précédent ne font pas obstacle à l’application de dispositions législatives spéciales et à la faculté: des assurés sociaux de se faire assister ou représenter par un délégué de leur organisation professionnelle ou syndicale devant le Conseil arbitral ou le Conseil supérieur des assurances sociales, des justiciables d’agir par eux-mêmes ou de se faire représenter ou assister par un expert-comptable ou un réviseur d’entreprises, dûment autorisés à exercer leur profession, devant le tribunal administratif appelé à connaître d’un recours en matière de contributions directes, de l’Etat, des communes et des autres personnes morales de droit public de se faire représenter ou assister par un fonctionnaire ou un agent de leur administration, dûment mandaté, devant la justice de paix, devant le président du tribunal d’arrondissement ou le juge qui le remplace, statuant en matière de référé, du ministère public, de représenter des parties en justice dans les cas prévus par la loi.
+Le deuxième alinéa du § (1) de l’article 2 de la loi modifiée du 10 août 1991 sur la profession d’avocat est remplacé comme suit:
+
+Les dispositions de l’alinéa précédent ne font pas obstacle à l’application de dispositions législatives spéciales et à la faculté:
+
+- des assurés sociaux de se faire assister ou représenter par un délégué de leur organisation professionnelle ou syndicale devant le Conseil arbitral ou le Conseil supérieur des assurances sociales,
+
+- des justiciables d’agir par eux-mêmes ou de se faire représenter ou assister par un expert-comptable ou un réviseur d’entreprises, dûment autorisés à exercer leur profession, devant le tribunal administratif appelé à connaître d’un recours en matière de contributions directes,
+
+- de l’Etat, des communes et des autres personnes morales de droit public de se faire représenter ou assister par un fonctionnaire ou un agent de leur administration, dûment mandaté, devant la justice de paix, devant le président du tribunal d’arrondissement ou le juge qui le remplace, statuant en matière de référé,
+
+- du ministère public, de représenter des parties en justice dans les cas prévus par la loi.
 
 (2)
 

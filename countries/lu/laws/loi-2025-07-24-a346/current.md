@@ -30,18 +30,22 @@ warning: 'Official consolidation: Version rectifiée applicable au 04/08/2025 : 
 <a id="art-1er"></a>
 ## Art. 1er.
 
-À l’article 2 de la loi modifiée du 21 décembre 2007 portant création de l’Administration de la navigation aérienne, la lettre k) est modifiée comme suit : participer à l’élaboration et à la mise en en œuvre des procédures de recherche et de sauvetage, d’un plan d’intervention et fournir un service d’alerte ;
+À l’article 2 de la loi modifiée du 21 décembre 2007 portant création de l’Administration de la navigation aérienne, la lettre k) est modifiée comme suit :
+
+- participer à l’élaboration et à la mise en en œuvre des procédures de recherche et de sauvetage, d’un plan d’intervention et fournir un service d’alerte ;
 
 <a id="art-2"></a>
 ## Art. 2.
 
 L’article 6 de la même loi est modifié comme suit :
 
-1. Au paragraphe 1 er , l’alinéa 2 est modifié comme suit : Le directeur est assisté de deux directeurs adjoints auxquels il peut déléguer certaines de ses attributions et qui le remplacent en cas d’absence.
+- Au paragraphe 1 er , l’alinéa 2 est modifié comme suit : Le directeur est assisté de deux directeurs adjoints auxquels il peut déléguer certaines de ses attributions et qui le remplacent en cas d’absence.
 
-2. Le paragraphe 2 est remplacé par la disposition suivante : (2) Le directeur et les directeurs adjoints sont nommés par le Grand-Duc, sur proposition du Gouvernement en conseil. Le directeur doit remplir les conditions de diplôme pour l’accès au sous-groupe administratif du groupe de traitement A1.
+- Le paragraphe 2 est remplacé par la disposition suivante : (2) Le directeur et les directeurs adjoints sont nommés par le Grand-Duc, sur proposition du Gouvernement en conseil. Le directeur doit remplir les conditions de diplôme pour l’accès au sous-groupe administratif du groupe de traitement A1.
 
 <a id="art-3"></a>
 ## Art. 3.
 
 À l’article 7, première phrase, de la même loi, les mots un directeur adjoint sont remplacés par les mots deux directeurs adjoints.
+
+Mandons et ordonnons que la présente loi soit insérée au Journal officiel du Grand-Duché de Luxembourg pour être exécutée et observée par tous ceux que la chose concerne.

@@ -41,19 +41,19 @@ Sous réserve des dispositions des articles 16 à 18, la présente loi s’appli
 
 La loi ne s’applique pas:
 
-1. aux immeubles affectés à un usage commercial, administratif, industriel, artisanal ou affectés à l’exercice d’une profession libérale;
+- aux immeubles affectés à un usage commercial, administratif, industriel, artisanal ou affectés à l’exercice d’une profession libérale;
 
-2. aux résidences secondaires;
+- aux résidences secondaires;
 
-3. aux locaux ne formant pas l’accessoire du logement;
+- aux locaux ne formant pas l’accessoire du logement;
 
-4. aux chambres d’hôtel;
+- aux chambres d’hôtel;
 
-5. aux structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale, de réfugiés et de personnes pouvant bénéficier de la protection subsidiaire visés par la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire ;
+- aux structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale, de réfugiés et de personnes pouvant bénéficier de la protection subsidiaire visés par la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire ;
 
-6. aux logements meublés ou non-meublés dans des structures d’hébergement spéciales telles que maisons de retraite, centres intégrés pour personnes âgées, centres de gériatrie, centres pour personnes handicapées, et notamment les logements meublés ou non-meublés dans les structures d’hébergement tombant sous la loi modifiée du 8 septembre 1998 réglant les relations entre l’Etat et les organismes œuvrant dans les domaines social, familial et thérapeutique;
+- aux logements meublés ou non-meublés dans des structures d’hébergement spéciales telles que maisons de retraite, centres intégrés pour personnes âgées, centres de gériatrie, centres pour personnes handicapées, et notamment les logements meublés ou non-meublés dans les structures d’hébergement tombant sous la loi modifiée du 8 septembre 1998 réglant les relations entre l’Etat et les organismes œuvrant dans les domaines social, familial et thérapeutique;
 
-7. aux logements meublés ou non-meublés mis à disposition de personnes physiques à titre d’aide sociale par un promoteur public au sens de l’article 16, alinéa 1 er , de la loi modifiée du 25 février 1979 concernant l’aide au logement, un office social, une association sans but lucratif, une fondation ou une socié té d’impact socié tal régie par la loi modifiée du 12 décembre 2016 portant création des sociétés d’impact socié tal et dont le capital social est constitué à 100 pour cent de parts d’impact, œuvrant dans le domaine du logement.
+- aux logements meublés ou non-meublés mis à disposition de personnes physiques à titre d’aide sociale par un promoteur public au sens de l’article 16, alinéa 1 er , de la loi modifiée du 25 février 1979 concernant l’aide au logement, un office social, une association sans but lucratif, une fondation ou une socié té d’impact socié tal régie par la loi modifiée du 12 décembre 2016 portant création des sociétés d’impact socié tal et dont le capital social est constitué à 100 pour cent de parts d’impact, œuvrant dans le domaine du logement.
 
 Toutefois, pour les immeubles visés au point a), les dispositions prévues par le chapitre V concernant le règlement des litiges et celles prévues par le chapitre VIII concernant les dispositions finales, abrogatoires et transitoires sont applicables. Pour les structures d’hébergement et logements visés aux points e), et g), les dispositions prévues par le chapitre V concernant le règlement des litiges sont applicables.
 
@@ -90,19 +90,19 @@ Les colocataires établissent par écrit un pacte de colocation afin de formalis
 
 Le pacte prévoit des dispositions réglant au minimum les points suivants :
 
-1. la répartition du loyer entre colocataires lorsque celle-ci n’est pas prévue par le contrat de bail ;
+- la répartition du loyer entre colocataires lorsque celle-ci n’est pas prévue par le contrat de bail ;
 
-2. la répartition des charges communes entre colocataires ;
+- la répartition des charges communes entre colocataires ;
 
-3. l’inventaire des biens meubles précisant leur propriétaire ;
+- l’inventaire des biens meubles précisant leur propriétaire ;
 
-4. les modalités de conclusion des contrats d’approvisionnement et d’assurance relatifs au bien loué ;
+- les modalités de conclusion des contrats d’approvisionnement et d’assurance relatifs au bien loué ;
 
-5. les modalités d’arrivée, de départ et de remplacement d’un colocataire, y compris la forme de notification du congé aux autres colocataires ;
+- les modalités d’arrivée, de départ et de remplacement d’un colocataire, y compris la forme de notification du congé aux autres colocataires ;
 
-6. les conditions de constitution et de récupération de la garantie locative ;
+- les conditions de constitution et de récupération de la garantie locative ;
 
-7. les modalités de résolution des conflits entre les colocataires.
+- les modalités de résolution des conflits entre les colocataires.
 
 Le pacte prévoit en outre l’obligation de procéder à un état des lieux intermédiaire lors du départ anticipé d’un colocataire afin de déterminer les responsabilités de chacun et de ventiler les frais de réparation locative.
 
@@ -147,11 +147,11 @@ Lorsqu’au moins la moitié des colocataires signataires du bail ont donné leu
 
 Le colocataire sortant est délié pour le futur de ses obligations résultant du contrat de bail ou du pacte de colocation :
 
-1. à la date de signature de l’avenant visé à l’article 2 quinquies , paragraphe 3 ;
+- à la date de signature de l’avenant visé à l’article 2 quinquies , paragraphe 3 ;
 
-2. à la date d’expiration du préavis de trois mois sous condition qu’il a démontré avoir effectué une recherche active et suffisante au sens de l’article 2 quinquies , paragraphe 2, alinéa 2 ;
+- à la date d’expiration du préavis de trois mois sous condition qu’il a démontré avoir effectué une recherche active et suffisante au sens de l’article 2 quinquies , paragraphe 2, alinéa 2 ;
 
-3. ou au plus tard à l’expiration d’un délai de trois mois après la date d’expiration du préavis.
+- ou au plus tard à l’expiration d’un délai de trois mois après la date d’expiration du préavis.
 
 L’engagement de la personne qui s’est portée initialement caution pour le colocataire sortant s’éteint à la même date.
 
@@ -214,21 +214,21 @@ Dans les cas où le bailleur offre un ou plusieurs services au locataire, le bai
 
 La conclusion du bail ne peut être liée au paiement de sommes autres que le loyer. Sous peine de nullité, tout bail est établi par écrit, qui stipule au moins :
 
-1. l’identité complète de toutes les parties contractantes ;
+- l’identité complète de toutes les parties contractantes ;
 
-2. la date de prise d’effet du bail ;
+- la date de prise d’effet du bail ;
 
-3. la désignation de toutes les pièces et parties d’immeuble couvrant l’objet du bail, ainsi que l’adresse et la référence cadastrale de l’objet du bail ;
+- la désignation de toutes les pièces et parties d’immeuble couvrant l’objet du bail, ainsi que l’adresse et la référence cadastrale de l’objet du bail ;
 
-4. le montant du loyer sans les charges ;
+- le montant du loyer sans les charges ;
 
-5. le montant des acomptes sur les charges ou du forfait pour charges éventuelles ;
+- le montant des acomptes sur les charges ou du forfait pour charges éventuelles ;
 
-6. le supplément de loyer pour le mobilier, en cas d’un logement meublé ;
+- le supplément de loyer pour le mobilier, en cas d’un logement meublé ;
 
-7. le montant de la garantie locative éventuellement stipulée ;
+- le montant de la garantie locative éventuellement stipulée ;
 
-8. l’indication que les parties contractantes ont la possibilité de saisir la commission des loyers conformément à l’article 8 en cas de litige sur la fixation du loyer.
+- l’indication que les parties contractantes ont la possibilité de saisir la commission des loyers conformément à l’article 8 en cas de litige sur la fixation du loyer.
 
 En cas d’intervention d’un agent immobilier ou d’un autre tiers dans la location d’un logement à usage d’habitation, les frais et honoraires de ces personnes sont partagés par moitié entre le bailleur et le locataire.
 
@@ -283,13 +283,13 @@ Toutes autres stipulations inscrites dans les contrats de bail et destinées à 
 
 Les articles 3 à 5 ne s’appliquent pas aux logements avec confort moderne, non-standard:
 
-1. dont le loyer mensuel est supérieur à 269 euros, valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948; ou
+- dont le loyer mensuel est supérieur à 269 euros, valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948; ou
 
-2. dont le capital investi, fixé conformément à l’article 3, paragraphes (2), (3) et (4):
+- dont le capital investi, fixé conformément à l’article 3, paragraphes (2), (3) et (4):
 
-- par m² de surface utile, calculée conformément aux dispositions prévues par la législation sur la publicité foncière en matière de copropriété, d’un logement faisant partie d’une copropriété est supérieur à 618 euros, valeur au nombre cent de l’indice des prix de la construction en 1970; ou
+  - par m² de surface utile, calculée conformément aux dispositions prévues par la législation sur la publicité foncière en matière de copropriété, d’un logement faisant partie d’une copropriété est supérieur à 618 euros, valeur au nombre cent de l’indice des prix de la construction en 1970; ou
 
-- par m² de surface utile d’habitation, calculée conformément aux dispositions prévues par la législation concernant l’aide au logement, des maisons unifamiliales est supérieur à 450 euros, valeur au nombre indice cent de l’indice des prix de la construction en 1970;
+  - par m² de surface utile d’habitation, calculée conformément aux dispositions prévues par la législation concernant l’aide au logement, des maisons unifamiliales est supérieur à 450 euros, valeur au nombre indice cent de l’indice des prix de la construction en 1970;
 
 à condition que le contrat de bail stipule clairement qu’il s’agit d’un des logements visés au présent article et qu’il n’est pas soumis aux articles 3 à 5.
 
@@ -433,11 +433,11 @@ Le contrat de bail peut être conclu à durée déterminée ou indéterminée. E
 
 Tout contrat de bail visé par la présente loi, qui vient à cesser pour n’importe quelle cause, est prorogé à durée indéterminée à moins que :
 
-1. le bailleur déclare avoir besoin des lieux loués pour les occuper lui-même ou pour les faire occuper de manière effective par un parent ou allié jusqu’au troisième degré inclusivement;
+- le bailleur déclare avoir besoin des lieux loués pour les occuper lui-même ou pour les faire occuper de manière effective par un parent ou allié jusqu’au troisième degré inclusivement;
 
-2. le locataire ne remplisse pas ses obligations;
+- le locataire ne remplisse pas ses obligations;
 
-3. il existe d’autres motifs graves et légitimes à établir par le bailleur; le transfert de propriété du logement ne vaut pas motif grave et légitime.
+- il existe d’autres motifs graves et légitimes à établir par le bailleur; le transfert de propriété du logement ne vaut pas motif grave et légitime.
 
 (3)
 
@@ -646,28 +646,33 @@ La commune retient sur le produit de la vente les frais et autres dépenses ment
 
 Dans le livre III du Code civil, le chapitre II «Du louage des choses» du titre VIII est modifié comme suit:
 
-1. L’article 1762-5, alinéa 2, du Code civil aura désormais la teneur suivante: «Ceux-ci sont choisis par les parties ou sinon désignés à la requête de la partie la plus diligente par le juge de paix de la situation de l’immeuble».
+- L’article 1762-5, alinéa 2, du Code civil aura désormais la teneur suivante: «Ceux-ci sont choisis par les parties ou sinon désignés à la requête de la partie la plus diligente par le juge de paix de la situation de l’immeuble».
 
-2. Un nouvel article 1762-8 est inséré au Code civil, lequel aura la teneur suivante: «Art. 1762-8. (1) Le preneur commerçant, industriel, artisan ou fermier, dont le bail vient à cesser pourra demander deux sursis successifs, chacun de six mois au maximum. Ces demandes seront déposées au greffe de la justice de paix, à peine de déchéance, deux mois au plus tard avant l’expiration du bail ou du premier sursis. Si le délai-congé conventionnel est égal ou inférieur à deux mois, la demande en sursis peut encore être déposée dans les huit jours de la notification du congé. Si le premier sursis accordé par le juge est égal ou inférieur à deux mois, la demande en obtention d’un deuxième sursis devra être déposée au plus tard huit jours avant l’expiration du premier sursis. Les demandes en sursis sont dispensées du préliminaire de conciliation. Le juge de paix saisi aura compétence pour fixer le loyer pendant la durée des sursis. Le sursis sera refusé si le bailleur prouve qu’il a besoin de l’immeuble pour l’exploiter lui-même ou pour le faire exploiter par ses descendants ou pour d’autres causes graves et légitimes. (2) En cas de décès d’un preneur, titulaire d’un contrat de bail commercial, artisanal ou à ferme, le contrat de bail est maintenu dans le chef du repreneur à condition que le repreneur maintienne l’exploitation commerciale, artisanale ou agricole et qu’il ait un lien de famille jusqu’au cinquième degré inclusivement avec le preneur défunt, sinon qu’il soit le conjoint ou le concubin du preneur défunt. (3) Sont à considérer dans l’application du présent article comme locaux à usage commercial ou industriel les immeubles dont le bail prévoit expressément pareille affectation, ceux qui sont destinés par leur nature à l’exercice d’un commerce ou d’une industrie et ceux dans lesquels cette activité est exercé à titre principal.».
+- Un nouvel article 1762-8 est inséré au Code civil, lequel aura la teneur suivante: «Art. 1762-8. (1) Le preneur commerçant, industriel, artisan ou fermier, dont le bail vient à cesser pourra demander deux sursis successifs, chacun de six mois au maximum. Ces demandes seront déposées au greffe de la justice de paix, à peine de déchéance, deux mois au plus tard avant l’expiration du bail ou du premier sursis. Si le délai-congé conventionnel est égal ou inférieur à deux mois, la demande en sursis peut encore être déposée dans les huit jours de la notification du congé. Si le premier sursis accordé par le juge est égal ou inférieur à deux mois, la demande en obtention d’un deuxième sursis devra être déposée au plus tard huit jours avant l’expiration du premier sursis. Les demandes en sursis sont dispensées du préliminaire de conciliation. Le juge de paix saisi aura compétence pour fixer le loyer pendant la durée des sursis. Le sursis sera refusé si le bailleur prouve qu’il a besoin de l’immeuble pour l’exploiter lui-même ou pour le faire exploiter par ses descendants ou pour d’autres causes graves et légitimes. (2) En cas de décès d’un preneur, titulaire d’un contrat de bail commercial, artisanal ou à ferme, le contrat de bail est maintenu dans le chef du repreneur à condition que le repreneur maintienne l’exploitation commerciale, artisanale ou agricole et qu’il ait un lien de famille jusqu’au cinquième degré inclusivement avec le preneur défunt, sinon qu’il soit le conjoint ou le concubin du preneur défunt. (3) Sont à considérer dans l’application du présent article comme locaux à usage commercial ou industriel les immeubles dont le bail prévoit expressément pareille affectation, ceux qui sont destinés par leur nature à l’exercice d’un commerce ou d’une industrie et ceux dans lesquels cette activité est exercé à titre principal.».
 
-3. Il est inséré une section III libellé Section III. – Des règles particulières aux baux commerciaux. Elle comprendra les articles 1762-3 à 1762-8.
+- Il est inséré une section III libellé Section III. – Des règles particulières aux baux commerciaux. Elle comprendra les articles 1762-3 à 1762-8.
 
-4. La section III Des règles particulières aux baux à ferme , comprenant les articles 1763 à 1778, deviendra la section IV du titre VIII.
+- La section III Des règles particulières aux baux à ferme , comprenant les articles 1763 à 1778, deviendra la section IV du titre VIII.
 
-5. L’article 1736 du Code civil est modifié comme suit: «Art. 1736. Si le bail a été fait sans écrit ou si le contrat est stipulé à durée indéterminée, l’une des parties ne pourra donner congé à l’autre qu’en observant les délais fixés par l’usage des lieux. Le délai de résiliation d’un contrat de bail d’habitation est de trois mois, sauf clause contraire dans le contrat de bail écrit prévoyant un délai supérieur à trois mois. Le délai de résiliation pour un contrat de bail commercial ou un contrat de bail mixte est de six mois, sauf clause contraire prévue dans le contrat de bail écrit.».
+- L’article 1736 du Code civil est modifié comme suit: «Art. 1736. Si le bail a été fait sans écrit ou si le contrat est stipulé à durée indéterminée, l’une des parties ne pourra donner congé à l’autre qu’en observant les délais fixés par l’usage des lieux. Le délai de résiliation d’un contrat de bail d’habitation est de trois mois, sauf clause contraire dans le contrat de bail écrit prévoyant un délai supérieur à trois mois. Le délai de résiliation pour un contrat de bail commercial ou un contrat de bail mixte est de six mois, sauf clause contraire prévue dans le contrat de bail écrit.».
 
-6. L’article 1758 du Code civil aura désormais la teneur suivante: «Art. 1758. Le bail d’un logement est censé être fait à durée indéterminée s’il n’est pas spécifié dans le contrat de bail écrit pour quelle durée les parties ont voulu se lier.».
+- L’article 1758 du Code civil aura désormais la teneur suivante: «Art. 1758. Le bail d’un logement est censé être fait à durée indéterminée s’il n’est pas spécifié dans le contrat de bail écrit pour quelle durée les parties ont voulu se lier.».
 
-7. L’article 1761 du Code civil est remplacé comme suit: «Art. 1761. Le bailleur ne peut résilier le contrat de bail à durée déterminée, encore qu’il déclare vouloir occuper par lui-même la maison louée, s’il n’y a eu convention contraire.».
+- L’article 1761 du Code civil est remplacé comme suit: «Art. 1761. Le bailleur ne peut résilier le contrat de bail à durée déterminée, encore qu’il déclare vouloir occuper par lui-même la maison louée, s’il n’y a eu convention contraire.».
 
-8. L’article 1762 du Code civil est modifié comme suit: «Art. 1762. S’il a été convenu dans le contrat de bail à durée déterminée ou à durée indéterminée que le bailleur pourrait venir occuper la maison, il est tenu de notifier d’avance un congé soit aux époques déterminées par le contrat de bail, soit moyennant congé notifié dans les délais prévus à l’article 1736.».
+- L’article 1762 du Code civil est modifié comme suit: «Art. 1762. S’il a été convenu dans le contrat de bail à durée déterminée ou à durée indéterminée que le bailleur pourrait venir occuper la maison, il est tenu de notifier d’avance un congé soit aux époques déterminées par le contrat de bail, soit moyennant congé notifié dans les délais prévus à l’article 1736.».
 
 <a id="art-32"></a>
 ## Art. 32.
 
 (1)
 
-L’article 37 de la loi modifiée du 18 juin 1982 portant réglementation du bail à ferme est à modifier comme suit: «Art. 37. Les articles 20 à 25 de la loi du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil sont applicables en matière de bail à ferme.».
+L’article 37 de la loi modifiée du 18 juin 1982 portant réglementation du bail à ferme est à modifier comme suit:
+
+<a id="art-37"></a>
+## «Art. 37.
+
+Les articles 20 à 25 de la loi du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil sont applicables en matière de bail à ferme.».
 
 (2)
 

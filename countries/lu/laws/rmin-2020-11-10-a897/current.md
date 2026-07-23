@@ -32,9 +32,9 @@ Activités interdites
 
 Les évolutions d’aéronefs sans équipage à bord sont interdites le 17 novembre 2020 dans l’espace aérien dénommé « Stade Josy Barthel » ayant les dimensions suivantes :
 
-1. limites verticales : de la surface jusqu’à une hauteur de 300 mètres ;
+- limites verticales : de la surface jusqu’à une hauteur de 300 mètres ;
 
-2. limites latérales : un rayon de 150 mètres centré sur 49°36’56,2’’N 006°06’34,8’’E.
+- limites latérales : un rayon de 150 mètres centré sur 49°36’56,2’’N 006°06’34,8’’E.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -43,17 +43,17 @@ Exceptions
 
 Les interdictions prévues à l’article 1er ne sont pas applicables aux opérations spéciales suivantes effectuées dans l’intérêt public :
 
-1. missions policières et douanières ;
+- missions policières et douanières ;
 
-2. surveillance de la circulation et poursuites ;
+- surveillance de la circulation et poursuites ;
 
-3. recherche et sauvetage ;
+- recherche et sauvetage ;
 
-4. vols médicaux ;
+- vols médicaux ;
 
-5. évacuations ;
+- évacuations ;
 
-6. lutte contre les incendies.
+- lutte contre les incendies.
 
 <a id="art-3"></a>
 ## Art. 3.

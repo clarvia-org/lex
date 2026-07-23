@@ -54,21 +54,21 @@ Définitions.
 
 Aux termes de la présente loi, on entend par:
 
-1. «certificateur»: toute personne accréditée par l’ILNAS ou tout autre organisme d’accréditation reconnu par l’ILNAS dans les cadre des accords de reconnaissance mutuelle européens ou internationaux et dont la notification a été validée par l’ILNAS;
+- «certificateur»: toute personne accréditée par l’ILNAS ou tout autre organisme d’accréditation reconnu par l’ILNAS dans les cadre des accords de reconnaissance mutuelle européens ou internationaux et dont la notification a été validée par l’ILNAS;
 
-2. «conservation électronique»: l’activité qui consiste à conserver un original numérique ou une copie à valeur probante dans des conditions qui assurent des garanties fiables quant au maintien de l’intégrité du document conservé;
+- «conservation électronique»: l’activité qui consiste à conserver un original numérique ou une copie à valeur probante dans des conditions qui assurent des garanties fiables quant au maintien de l’intégrité du document conservé;
 
-3. «copie à valeur probante»: une reproduction fidèle et durable sous forme numérique ou micrographique d’un original;
+- «copie à valeur probante»: une reproduction fidèle et durable sous forme numérique ou micrographique d’un original;
 
-4. «dématérialisation»: l’activité qui consiste à créer une copie à valeur probante d’un original existant sous forme analogique dans des conditions qui assurent des garanties fiables quant à la conformité de la copie ainsi créée à l’original;
+- «dématérialisation»: l’activité qui consiste à créer une copie à valeur probante d’un original existant sous forme analogique dans des conditions qui assurent des garanties fiables quant à la conformité de la copie ainsi créée à l’original;
 
-5. «détenteur»: toute personne qui détient légitimement ou est tenue par la loi de détenir un original existant sous forme analogique ou numérique ou une copie à valeur probante;
+- «détenteur»: toute personne qui détient légitimement ou est tenue par la loi de détenir un original existant sous forme analogique ou numérique ou une copie à valeur probante;
 
-6. «original»: tout acte sous seing privé ou tout document visé à l’article 16 du Code de commerce ;
+- «original»: tout acte sous seing privé ou tout document visé à l’article 16 du Code de commerce ;
 
-7. « original numérique » : tout acte sous seing privé électronique ou document créé à l’origine sous forme numérique, ou tout acte signé ou cacheté électroniquement visé par la loi du 4 juin 2025 relative à la signature électronique des actes en matière administrative ;
+- « original numérique » : tout acte sous seing privé électronique ou document créé à l’origine sous forme numérique, ou tout acte signé ou cacheté électroniquement visé par la loi du 4 juin 2025 relative à la signature électronique des actes en matière administrative ;
 
-8. «prestataire de services de dématérialisation ou de conservation»: toute personne qui exerce à titre principal ou accessoire, pour ses propres besoins ou pour compte d’autrui, des activités de dématérialisation ou de conservation électronique et qui est, dans les conditions et selon les modalités de la présente loi, certifiée à cette fin et inscrite sur la liste visée à l’article 4 (3).
+- «prestataire de services de dématérialisation ou de conservation»: toute personne qui exerce à titre principal ou accessoire, pour ses propres besoins ou pour compte d’autrui, des activités de dématérialisation ou de conservation électronique et qui est, dans les conditions et selon les modalités de la présente loi, certifiée à cette fin et inscrite sur la liste visée à l’article 4 (3).
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -164,17 +164,17 @@ Préalablement à toute relation contractuelle avec un détenteur, le prestatair
 
 Ces informations se rapportent, en fonction des services prestés, au moins:
 
-1. à la procédure suivie pour la dématérialisation ou pour la conservation électronique;
+- à la procédure suivie pour la dématérialisation ou pour la conservation électronique;
 
-2. à la procédure suivie afin de restituer les copies à valeur probante sous une forme lisible en garantissant la fidélité à l’original;
+- à la procédure suivie afin de restituer les copies à valeur probante sous une forme lisible en garantissant la fidélité à l’original;
 
-3. aux modalités et conditions d’une éventuelle sous-traitance y compris le lieu de stockage des données;
+- aux modalités et conditions d’une éventuelle sous-traitance y compris le lieu de stockage des données;
 
-4. aux obligations légales que le prestataire de services de dématérialisation ou de conservation doit observer;
+- aux obligations légales que le prestataire de services de dématérialisation ou de conservation doit observer;
 
-5. aux conditions contractuelles de réalisation des prestations, y compris les limites éventuelles de responsabilité du prestataire de services de dématérialisation ou de conservation; et
+- aux conditions contractuelles de réalisation des prestations, y compris les limites éventuelles de responsabilité du prestataire de services de dématérialisation ou de conservation; et
 
-6. aux normes et aux procédures mises en œuvre ainsi que les caractéristiques techniques essentielles des installations utilisées pour la réalisation des prestations.
+- aux normes et aux procédures mises en œuvre ainsi que les caractéristiques techniques essentielles des installations utilisées pour la réalisation des prestations.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -219,13 +219,13 @@ Le prestataire de services de dématérialisation ou de conservation peut transf
 
 Le transfert des copies à valeur probante ou des originaux numériques est opéré, avec l’accord du détenteur, aux conditions suivantes:
 
-1. Le prestataire de services de dématérialisation ou de conservation avertit le détenteur au moins un mois à l’avance qu’il envisage de cesser son activité de prestataire de services de dématérialisation ou de conservation et de transférer ses copies à valeur probante ou ses originaux numériques.
+- Le prestataire de services de dématérialisation ou de conservation avertit le détenteur au moins un mois à l’avance qu’il envisage de cesser son activité de prestataire de services de dématérialisation ou de conservation et de transférer ses copies à valeur probante ou ses originaux numériques.
 
-2. Il précise en même temps l’identité du prestataire de services de dématérialisation ou de conservation auquel le transfert des copies à valeur probante ou originaux numériques est envisagé.
+- Il précise en même temps l’identité du prestataire de services de dématérialisation ou de conservation auquel le transfert des copies à valeur probante ou originaux numériques est envisagé.
 
-3. Il indique en même temps au détenteur qu’il dispose du droit de refuser le transfert envisagé, ainsi que les modalités selon lesquelles il peut exprimer un tel refus. En cas de refus du détenteur, le prestataire de services de dématérialisation ou de conservation restituera à ce dernier, respectivement à tout prestataire de services de dématérialisation ou de conservation ou à tout tiers désigné par le détenteur, toute copie à valeur probante ou tout original numérique lui appartenant ainsi que toute information relative à la dématérialisation et à la conservation des copies à valeur probante et des originaux numériques.
+- Il indique en même temps au détenteur qu’il dispose du droit de refuser le transfert envisagé, ainsi que les modalités selon lesquelles il peut exprimer un tel refus. En cas de refus du détenteur, le prestataire de services de dématérialisation ou de conservation restituera à ce dernier, respectivement à tout prestataire de services de dématérialisation ou de conservation ou à tout tiers désigné par le détenteur, toute copie à valeur probante ou tout original numérique lui appartenant ainsi que toute information relative à la dématérialisation et à la conservation des copies à valeur probante et des originaux numériques.
 
-4. Le transfert a lieu au plus tard à la date de cessation des activités du prestataire de services de dématérialisation ou de conservation.
+- Le transfert a lieu au plus tard à la date de cessation des activités du prestataire de services de dématérialisation ou de conservation.
 
 (3)
 
@@ -273,17 +273,17 @@ Modifications de la loi modifiée du 5 avril 1993 relative au secteur financier.
 
 La loi modifiée du 5 avril 1993 relative au secteur financier est modifiée comme suit:
 
-1. Au paragraphe 1 er de l’article 29-1, sont ajoutés à la fois dans la phrase introductive et au premier tiret après les mots d’établissements de paiement, les mots d’établissements de monnaie électronique, .
+- Au paragraphe 1 er de l’article 29-1, sont ajoutés à la fois dans la phrase introductive et au premier tiret après les mots d’établissements de paiement, les mots d’établissements de monnaie électronique, .
 
-2. Au paragraphe 1 er de l’article 29-2 et de l’article 29-3, sont ajoutés après les mots établissements de paiement, les mots établissements de monnaie électronique, .
+- Au paragraphe 1 er de l’article 29-2 et de l’article 29-3, sont ajoutés après les mots établissements de paiement, les mots établissements de monnaie électronique, .
 
-3. Le paragraphe 1 er de l’article 29-4 est modifié comme suit:
+- Le paragraphe 1 er de l’article 29-4 est modifié comme suit:
 
-1. au premier alinéa, sont ajoutés après les mots établissements de paiement, les mots établissements de monnaie électronique, et
+  - au premier alinéa, sont ajoutés après les mots établissements de paiement, les mots établissements de monnaie électronique, et
 
-2. au dernier alinéa, sont ajoutés après les mots à l’établissement de paiement, les mots à l’établissement de monnaie électronique, .
+  - au dernier alinéa, sont ajoutés après les mots à l’établissement de paiement, les mots à l’établissement de monnaie électronique, .
 
-4. Sont ajoutés les articles 29-5 et 29-6 nouveaux de la teneur suivante: «Art. 29-5. Les prestataires de services de dématérialisation du secteur financier. (1) Sont prestataires de services de dématérialisation du secteur financier, les prestataires de services de dématérialisation ou de conservation au sens de la loi du 25 juillet 2015 relative à l’archivage électronique qui sont en charge de la dématérialisation de documents pour compte d’établissements de crédit, PSF, établissements de paiement, établissements de monnaie électronique, OPC, FIS, sociétés d’investissement en capital à risque, fonds de pension, organismes de titrisation agréés, entreprises d’assurance ou entreprises de réassurance, de droit luxembourgeois ou de droit étranger. (2) L’agrément pour l’activité de prestataire de services de dématérialisation du secteur financier ne peut être accordé qu’à des personnes morales. Il est subordonné à la justification d’un capital social d’une valeur de 50.000 euros au moins. (3) La CSSF et l’ILNAS collaborent aux fins de l’accomplissement de leurs missions respectives de surveillance des prestataires de services de dématérialisation du secteur financier. Art. 29-6. Les prestataires de services de conservation du secteur financier. (1) Sont prestataires de services de conservation du secteur financier, les prestataires de services de dématérialisation ou de conservation au sens de la loi du 25 juillet 2015 relative à l’archivage électronique qui sont en charge de la conservation de documents numériques pour compte d’établissements de crédit, PSF, établissements de paiement, établissements de monnaie électronique, OPC, FIS, sociétés d’investissement en capital à risque, fonds de pension, organismes de titrisation agréés, entreprises d’assurance ou entreprises de réassurance, de droit luxembourgeois ou de droit étranger. (2) L’agrément pour l’activité de prestataire de services de conservation du secteur financier ne peut être accordé qu’à des personnes morales. Il est subordonné à la justification d’un capital social d’une valeur de 125.000 euros au moins. (3) La CSSF et l’ILNAS collaborent aux fins de l’accomplissement de leurs missions respectives de surveillance des prestataires de services de conservation du secteur financier. (4) Ne relèvent pas du présent article les activités de simple stockage de données qui ne consistent pas à conserver une copie à valeur probante ou un original numérique au sens de la loi précitée du 25 juillet 2015 en garantissant son intégrité.» (5) L’article 41, paragraphe 5 est modifié comme suit: «(5) L’obligation au secret n’existe pas à l’égard des établissements de crédit et des PSF de support lorsque les renseignements communiqués à ces professionnels sont fournis dans le cadre d’un contrat de services.»
+- Sont ajoutés les articles 29-5 et 29-6 nouveaux de la teneur suivante: «Art. 29-5. Les prestataires de services de dématérialisation du secteur financier. (1) Sont prestataires de services de dématérialisation du secteur financier, les prestataires de services de dématérialisation ou de conservation au sens de la loi du 25 juillet 2015 relative à l’archivage électronique qui sont en charge de la dématérialisation de documents pour compte d’établissements de crédit, PSF, établissements de paiement, établissements de monnaie électronique, OPC, FIS, sociétés d’investissement en capital à risque, fonds de pension, organismes de titrisation agréés, entreprises d’assurance ou entreprises de réassurance, de droit luxembourgeois ou de droit étranger. (2) L’agrément pour l’activité de prestataire de services de dématérialisation du secteur financier ne peut être accordé qu’à des personnes morales. Il est subordonné à la justification d’un capital social d’une valeur de 50.000 euros au moins. (3) La CSSF et l’ILNAS collaborent aux fins de l’accomplissement de leurs missions respectives de surveillance des prestataires de services de dématérialisation du secteur financier. Art. 29-6. Les prestataires de services de conservation du secteur financier. (1) Sont prestataires de services de conservation du secteur financier, les prestataires de services de dématérialisation ou de conservation au sens de la loi du 25 juillet 2015 relative à l’archivage électronique qui sont en charge de la conservation de documents numériques pour compte d’établissements de crédit, PSF, établissements de paiement, établissements de monnaie électronique, OPC, FIS, sociétés d’investissement en capital à risque, fonds de pension, organismes de titrisation agréés, entreprises d’assurance ou entreprises de réassurance, de droit luxembourgeois ou de droit étranger. (2) L’agrément pour l’activité de prestataire de services de conservation du secteur financier ne peut être accordé qu’à des personnes morales. Il est subordonné à la justification d’un capital social d’une valeur de 125.000 euros au moins. (3) La CSSF et l’ILNAS collaborent aux fins de l’accomplissement de leurs missions respectives de surveillance des prestataires de services de conservation du secteur financier. (4) Ne relèvent pas du présent article les activités de simple stockage de données qui ne consistent pas à conserver une copie à valeur probante ou un original numérique au sens de la loi précitée du 25 juillet 2015 en garantissant son intégrité.» (5) L’article 41, paragraphe 5 est modifié comme suit: «(5) L’obligation au secret n’existe pas à l’égard des établissements de crédit et des PSF de support lorsque les renseignements communiqués à ces professionnels sont fournis dans le cadre d’un contrat de services.»
 
 #### Chapitre 5. Dispositions transitoires et finales.
 

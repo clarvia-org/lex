@@ -99,11 +99,11 @@ Abrogé (L. 21 février 1985)
 
 Pour l'application du présent titre, il faut entendre par «entreprises»
 
-1. les commerçants personnes physiques;
+- les commerçants personnes physiques;
 
-2. ( L. 30 juillet 2013 ) les sociétés commerciales dotées de la personnalité juridique, les groupements européens d’intérêt économique et les groupements d’intérêt économique ;
+- ( L. 30 juillet 2013 ) les sociétés commerciales dotées de la personnalité juridique, les groupements européens d’intérêt économique et les groupements d’intérêt économique ;
 
-3. ( L. 12 juillet 2013 ) les sociétés en commandite spéciale.
+- ( L. 12 juillet 2013 ) les sociétés en commandite spéciale.
 
 Les personnes physiques qui n'ont pas leur domicile au Luxembourg, les entreprises de droit étranger visées au point 2° de l’alinéa 1er ainsi que les groupements européens d'intérêt économique ayant leur siège à l'étranger, ne sont soumis aux dispositions du présent chapitre qu'en ce qui concerne les succursales et sièges d'opérations qu'ils ont établis au Luxembourg. L'ensemble de leurs succursales et sièges d'opérations dans le pays est considéré comme une entreprise. Les livres, comptes et pièces justificatives relatifs à ces sièges et succursales sont conservés au Luxembourg.
 
@@ -563,9 +563,9 @@ Pour toutes sociétés, la déclaration doit indiquer les noms des administrateu
 
 Le failli joindra à son aveu:
 
-1. le bilan de ses affaires ou une note indiquant les motifs qui l'empêcheraient de le déposer;
+- le bilan de ses affaires ou une note indiquant les motifs qui l'empêcheraient de le déposer;
 
-2. ( L. 19 décembre 2002 ) les livres prescrits par les articles 9 à 11 du Code de commerce ; ces registres seront arrêtés par le greffier, qui constatera l'état où ils se trouvent.
+- ( L. 19 décembre 2002 ) les livres prescrits par les articles 9 à 11 du Code de commerce ; ces registres seront arrêtés par le greffier, qui constatera l'état où ils se trouvent.
 
 Le bilan contiendra l'énumération et l'évaluation de tous les biens mobiliers et immobiliers du débiteur, l'état des dettes actives et passives, le tableau des profits et des pertes, le tableau des dépenses; il devra être certifié véritable, daté et signé par le débiteur.
 
@@ -782,15 +782,15 @@ Tout jugement rendu en matière de faillite est exécutoire par provision; le d�
 
 Ne seront susceptibles d'opposition, ni d'appel, ni de requête civile:
 
-1. les jugements relatifs à la nomination ou au remplacement du juge-commissaire, à la nomination ou à la révocation des curateurs;
+- les jugements relatifs à la nomination ou au remplacement du juge-commissaire, à la nomination ou à la révocation des curateurs;
 
-2. ( L. 21 juillet 1992 ) les jugements qui statuent sur les demandes de secours pour le failli et sa famille;
+- ( L. 21 juillet 1992 ) les jugements qui statuent sur les demandes de secours pour le failli et sa famille;
 
-3. les jugements qui autorisent à vendre les effets ou marchandises appartenant à la faillite, ou, conformément à l'article 453, paragraphe 3, la remise de la vente d'objets saisis;
+- les jugements qui autorisent à vendre les effets ou marchandises appartenant à la faillite, ou, conformément à l'article 453, paragraphe 3, la remise de la vente d'objets saisis;
 
-4. les jugements qui prononceront sursis au concordat;
+- les jugements qui prononceront sursis au concordat;
 
-5. les jugements statuant sur les recours formés contre les ordonnances du juge-commissaire rendues dans les limites de ses attributions.
+- les jugements statuant sur les recours formés contre les ordonnances du juge-commissaire rendues dans les limites de ses attributions.
 
 ##### Section II. Des formalités relatives à la déclaration de faillite et des premières dispositions à l'égard de la personne et des biens du failli
 
@@ -838,15 +838,15 @@ En cas de faillite d'une société en nom collectif, ou en commandite, les scell
 
 Ne seront point placés sous les scelles, ou en seront extraits et remis aux curateurs:
 
-1. ( L. 29 mars 1979 ) les livres du failli, après avoir été arrêtés par le greffier délégué, qui constatera par son procès-verbal l'état dans lequel ils se trouvent;
+- ( L. 29 mars 1979 ) les livres du failli, après avoir été arrêtés par le greffier délégué, qui constatera par son procès-verbal l'état dans lequel ils se trouvent;
 
-2. les effets de portefeuille à courte échéance ou susceptibles d'acceptation, ou pour lesquels il faudra faire des actes conservatoires: le bordereau en sera remis au juge-commissaire;
+- les effets de portefeuille à courte échéance ou susceptibles d'acceptation, ou pour lesquels il faudra faire des actes conservatoires: le bordereau en sera remis au juge-commissaire;
 
-3. les objets sujets à dépérissement prochain ou à dépréciation imminente;
+- les objets sujets à dépérissement prochain ou à dépréciation imminente;
 
-4. les objets servant à l'exploitation du fonds de commerce dans le cas prévu par l'article 475;
+- les objets servant à l'exploitation du fonds de commerce dans le cas prévu par l'article 475;
 
-5. les objets compris dans l'état mentionné à l'article 476.
+- les objets compris dans l'état mentionné à l'article 476.
 
 (L. 29 mars 1979) Les objets mentionnés au présent article seront de suite inventoriés par les curateurs en présence du greffier délégué par le juge-commissaire qui signera le procès-verbal.
 
@@ -1103,35 +1103,35 @@ Jusqu'au jugement à intervenir sur les contestations, toutes les déclarations 
 
 Il sera tenu au greffe, pour chaque faillite, un tableau divisé en colonnes et contenant, pour chaque créance déclarée, les énonciations suivantes:
 
-1. le numéro d'ordre;
+- le numéro d'ordre;
 
-2. les nom, prénoms, profession et résidence du créancier qui aura déposé sa déclaration et ses titres;
+- les nom, prénoms, profession et résidence du créancier qui aura déposé sa déclaration et ses titres;
 
-3. la date de ce dépôt;
+- la date de ce dépôt;
 
-4. le montant de la créance déclarée;
+- le montant de la créance déclarée;
 
-5. la désignation sommaire des biens ou objets sur lesquels on prétend qu'elle serait hypothéquée ou privilégiée;
+- la désignation sommaire des biens ou objets sur lesquels on prétend qu'elle serait hypothéquée ou privilégiée;
 
-6. son admission au passif ou son rejet par les curateurs;
+- son admission au passif ou son rejet par les curateurs;
 
-7. la date de cette admission ou de ce rejet;
+- la date de cette admission ou de ce rejet;
 
-8. les contredits;
+- les contredits;
 
-9. les noms des opposants;
+- les noms des opposants;
 
-10. les dates des contredits;
+- les dates des contredits;
 
-11. le jour auquel le procès-verbal de vérification sera clos;
+- le jour auquel le procès-verbal de vérification sera clos;
 
-12. le jour ou s'ouvriront les débats sur les contestations;
+- le jour ou s'ouvriront les débats sur les contestations;
 
-13. le sommaire de la décision définitive;
+- le sommaire de la décision définitive;
 
-14. la date de cette décision; et
+- la date de cette décision; et
 
-15. les autres renseignements qu'il pourra être utile de porter à la connaissance des intéressés.
+- les autres renseignements qu'il pourra être utile de porter à la connaissance des intéressés.
 
 Ce tableau sera dressé par le greffier; les énonciations exigées y seront faites successivement jour par jour, et au fur et à mesure que les faits et circonstances auxquels elles se rattachent se reproduiront. Il sera, à toute réquisition, communiqué aux intéressés.
 
@@ -1621,45 +1621,45 @@ Les curateurs pourront, avec l'approbation du juge-commissaire, admettre les dem
 
 Sera déclaré banqueroutier simple, tout commerçant failli qui se trouvera dans l'un des cas suivants:
 
-1. si les dépenses personnelles ou les dépenses de sa maison sont jugées excessives;
+- si les dépenses personnelles ou les dépenses de sa maison sont jugées excessives;
 
-2. s'il a consommé de fortes sommes au jeu, à des opérations de pur hasard, ou à des opérations fictives de bourse ou sur marchandises;
+- s'il a consommé de fortes sommes au jeu, à des opérations de pur hasard, ou à des opérations fictives de bourse ou sur marchandises;
 
-3. si, dans l'intention de retarder sa faillite, il a fait des achats pour revendre au-dessous du cours; si, dans la même intention, il s'est livré à des emprunts, circulation d'effets, et autres moyens ruineux de se procurer des fonds;
+- si, dans l'intention de retarder sa faillite, il a fait des achats pour revendre au-dessous du cours; si, dans la même intention, il s'est livré à des emprunts, circulation d'effets, et autres moyens ruineux de se procurer des fonds;
 
-4. s'il a supposé des dépenses ou des pertes ou s'il ne justifie pas de l'existence ou de l'emploi de l'actif de son dernier inventaire et des deniers, valeurs, meubles et effets, de quelque nature qu'ils soient, qui lui seraient avenus postérieurement;
+- s'il a supposé des dépenses ou des pertes ou s'il ne justifie pas de l'existence ou de l'emploi de l'actif de son dernier inventaire et des deniers, valeurs, meubles et effets, de quelque nature qu'ils soient, qui lui seraient avenus postérieurement;
 
-5. si, après la cessation de ses paiements, il a payé ou favorisé un créancier au préjudice de la masse.
+- si, après la cessation de ses paiements, il a payé ou favorisé un créancier au préjudice de la masse.
 
 <a id="art-574"></a>
 ## Art. 574.
 
 Pourra être déclaré banqueroutier simple, tout commerçant qui se trouvera dans l'un des cas suivants:
 
-1. s'il a contracté pour le compte d'autrui, sans recevoir des valeurs en échange, des engagements jugés trop considérables, eu égard à sa situation lorsqu'il les a contractés;
+- s'il a contracté pour le compte d'autrui, sans recevoir des valeurs en échange, des engagements jugés trop considérables, eu égard à sa situation lorsqu'il les a contractés;
 
-2. s'il est de nouveau déclaré en faillite, sans avoir satisfait aux obligations d'un précédent concordat;
+- s'il est de nouveau déclaré en faillite, sans avoir satisfait aux obligations d'un précédent concordat;
 
-3. ( L. 12 décembre 1972 ) si, ayant dérogé par contrat aux dispositions du régime matrimonial légal, il ne s'est pas conformé à l'article 69;
+- ( L. 12 décembre 1972 ) si, ayant dérogé par contrat aux dispositions du régime matrimonial légal, il ne s'est pas conformé à l'article 69;
 
-4. s'il n'a pas fait l'aveu de la cessation de ses paiements dans le délai prescrit par l'article 440; si cet aveu ne contient pas les noms de tous les associés solidaires; si, en le faisant, il n'a pas fourni les renseignements et éclaircissements exigés par l'article 441, ou si ces renseignements ou éclaircissements sont inexacts;
+- s'il n'a pas fait l'aveu de la cessation de ses paiements dans le délai prescrit par l'article 440; si cet aveu ne contient pas les noms de tous les associés solidaires; si, en le faisant, il n'a pas fourni les renseignements et éclaircissements exigés par l'article 441, ou si ces renseignements ou éclaircissements sont inexacts;
 
-5. s'il s'est absenté sans l'autorisation du juge-commissaire ou si, sans empêchement légitime, il ne s'est pas rendu en personne aux convocations qui lui ont été faites par le juge-commissaire ou par les curateurs;
+- s'il s'est absenté sans l'autorisation du juge-commissaire ou si, sans empêchement légitime, il ne s'est pas rendu en personne aux convocations qui lui ont été faites par le juge-commissaire ou par les curateurs;
 
-6. ( L. 19 décembre 2002 ) s'il n'a pas tenu les livres prescrits par l'article 9; s'il n'a pas fait l'inventaire exigé par l'article 15; si ses livres et inventaires sont incomplets ou irrégulièrement tenus, ou s'ils n'offrent pas sa véritable situation active et passive, sans néanmoins qu'il y ait fraude.
+- ( L. 19 décembre 2002 ) s'il n'a pas tenu les livres prescrits par l'article 9; s'il n'a pas fait l'inventaire exigé par l'article 15; si ses livres et inventaires sont incomplets ou irrégulièrement tenus, ou s'ils n'offrent pas sa véritable situation active et passive, sans néanmoins qu'il y ait fraude.
 
 <a id="art-575"></a>
 ## Art. 575.
 
 Seront condamnés aux peines de la banqueroute simple, sans préjudice, s'il y a lieu, à l'application de l'article 578:
 
-1. ceux qui, dans l'intérêt du failli, auront soustrait, dissimulé ou recelé tout ou partie de ses biens meubles ou immeubles;
+- ceux qui, dans l'intérêt du failli, auront soustrait, dissimulé ou recelé tout ou partie de ses biens meubles ou immeubles;
 
-2. ceux qui auront frauduleusement présenté dans la faillite et affirmé, soit en leur nom, soit par interposition de personne, des créances supposées ou exagérées;
+- ceux qui auront frauduleusement présenté dans la faillite et affirmé, soit en leur nom, soit par interposition de personne, des créances supposées ou exagérées;
 
-3. le créancier qui aura stipulé, soit avec le failli, soit avec toutes autres personnes, des avantages particuliers à raison de son vote dans les délibérations de la faillite, ou qui aura fait un traité particulier duquel résulterait, en sa faveur, un avantage à la charge de l'actif du failli;
+- le créancier qui aura stipulé, soit avec le failli, soit avec toutes autres personnes, des avantages particuliers à raison de son vote dans les délibérations de la faillite, ou qui aura fait un traité particulier duquel résulterait, en sa faveur, un avantage à la charge de l'actif du failli;
 
-4. le curateur qui se sera rendu coupable de malversation dans sa gestion.
+- le curateur qui se sera rendu coupable de malversation dans sa gestion.
 
 Les coupables seront, en outre, condamnés à une amende égale à la valeur des avantages illégalement stipulés ou aux restitutions et dommages et intérêts dus à la masse des créanciers, et qui ne pourra être moindre de 3 euros.
 
@@ -1677,11 +1677,11 @@ Il en sera de même de ceux qui, sans empêchement légitime, ne se seront pas r
 
 Sera déclaré banqueroutier frauduleux, tout commerçant failli qui se trouvera dans l'un des cas suivants:
 
-1. ( L. 19 décembre 2002 ) s'il a soustrait en tout ou en partie les livres ou documents comptables visés aux articles 9, 14 et 15 du Code de commerce , ou s'il en a frauduleusement enlevé, effacé ou altéré le contenu;
+- ( L. 19 décembre 2002 ) s'il a soustrait en tout ou en partie les livres ou documents comptables visés aux articles 9, 14 et 15 du Code de commerce , ou s'il en a frauduleusement enlevé, effacé ou altéré le contenu;
 
-2. s'il a détourné ou dissimulé une partie de son actif;
+- s'il a détourné ou dissimulé une partie de son actif;
 
-3. si, dans ses écritures, soit par des actes publics ou des engagements sous signature privée, soit par son bilan, il s'est frauduleusement reconnu débiteur de sommes qu'il ne devait pas.
+- si, dans ses écritures, soit par des actes publics ou des engagements sous signature privée, soit par son bilan, il s'est frauduleusement reconnu débiteur de sommes qu'il ne devait pas.
 
 <a id="art-578"></a>
 ## Art. 578.
@@ -1695,9 +1695,9 @@ Seront déclarés complices de banqueroutier frauduleux, ceux qui, par l'un des 
 
 Dans les cas prévus par les articles 575, 577 et 578, la Cour ou le tribunal saisi statueront, lors même qu'il y aurait acquittement:
 
-1. d'office sur la réintégration à la masse des créanciers de tous biens, droits ou actions frauduleusement soustraits;
+- d'office sur la réintégration à la masse des créanciers de tous biens, droits ou actions frauduleusement soustraits;
 
-2. sur les dommages-intérêts qui seraient demandés et que le jugement ou l'arrêt arbitrera.
+- sur les dommages-intérêts qui seraient demandés et que le jugement ou l'arrêt arbitrera.
 
 Les conventions seront, en outre, déclarées nulles à l'égard de toutes personnes et même à l'égard du failli.
 
@@ -1802,11 +1802,11 @@ Le débiteur s'adressera, par requête, simultanément au tribunal d’arrondiss
 
 Il joindra à sa requête:
 
-1. l'exposé des événements sur lesquels il fonde sa demande;
+- l'exposé des événements sur lesquels il fonde sa demande;
 
-2. l'état détaillé et estimatif de son actif et de son passif;
+- l'état détaillé et estimatif de son actif et de son passif;
 
-3. la liste nominative de ses créanciers, avec l'indication de leur domicile et du montant de leurs créances.
+- la liste nominative de ses créanciers, avec l'indication de leur domicile et du montant de leurs créances.
 
 La requête adressée à la Cour supérieure de justice sera communiquée par le président au procureur général; elle devra être signée par un avoué près de cette Cour.
 
@@ -1913,13 +1913,13 @@ Toutefois, il ne pourra être pris, pendant la durée du sursis provisoire et d�
 
 Le sursis ne s'applique qu'aux engagements contractés antérieurement à son obtention. Il ne profite point aux co-débiteurs, ni aux cautions qui ont renoncé au bénéfice de discussion. Il est sans effet relativement:
 
-1. aux impôts et autres charges publiques;
+- aux impôts et autres charges publiques;
 
-2. aux créances garanties par des privilèges, hypothèques ou nantissements;
+- aux créances garanties par des privilèges, hypothèques ou nantissements;
 
-3. aux créances dues à titre d'aliments;
+- aux créances dues à titre d'aliments;
 
-4. aux fournitures de subsistances faites au débiteur et à sa famille, pendant les six mois qui ont précédé le sursis.
+- aux fournitures de subsistances faites au débiteur et à sa famille, pendant les six mois qui ont précédé le sursis.
 
 <a id="art-606"></a>
 ## Art. 606.
@@ -1963,9 +1963,9 @@ Seront enregistrés au droit fixe de 0,07 euros les jugements portant concession
 
 Le débiteur sera puni de la même peine que le banqueroutier simple:
 
-1. si, pour déterminer ou faciliter la délivrance du sursis, il a, de quelque manière que ce soit, volontairement dissimulé une partie de son passif ou exagéré son actif;
+- si, pour déterminer ou faciliter la délivrance du sursis, il a, de quelque manière que ce soit, volontairement dissimulé une partie de son passif ou exagéré son actif;
 
-2. s'il a fait ou laissé intervenir aux délibérations relatives à la demande de sursis un ou plusieurs créanciers supposés, ou dont les créances à raison desquelles ils ont pris part aux délibérations, ont été exagérées.
+- s'il a fait ou laissé intervenir aux délibérations relatives à la demande de sursis un ou plusieurs créanciers supposés, ou dont les créances à raison desquelles ils ont pris part aux délibérations, ont été exagérées.
 
 <a id="art-612"></a>
 ## Art. 612.
@@ -2004,13 +2004,13 @@ Abrogés implicitement (L. 18 février 1885)
 
 (L. 16 avril 1879) Les tribunaux d’arrondissement siégeant en matière commerciale connaîtront:
 
-1. des contestations relatives aux engagements de transactions entre négociants, marchands et banquiers;
+- des contestations relatives aux engagements de transactions entre négociants, marchands et banquiers;
 
-2. des contestations entre associés ou entre administrateurs et associés pour raison d'une société de commerce;
+- des contestations entre associés ou entre administrateurs et associés pour raison d'une société de commerce;
 
-3. de celles relatives aux actes de commerce entre toutes personnes;
+- de celles relatives aux actes de commerce entre toutes personnes;
 
-4. ( L. 25 mars 1991 ) des contestations pour raison d'un groupement d'intérêt économique ou d'un groupement européen d'intérêt économique entre membres, entre gérants, entre gérants et membres, entre liquidateurs, entre liquidateurs et membres ou entre membres, gérants et liquidateurs ainsi que de toute demande en dissolution d'un groupement.
+- ( L. 25 mars 1991 ) des contestations pour raison d'un groupement d'intérêt économique ou d'un groupement européen d'intérêt économique entre membres, entre gérants, entre gérants et membres, entre liquidateurs, entre liquidateurs et membres ou entre membres, gérants et liquidateurs ainsi que de toute demande en dissolution d'un groupement.
 
 <a id="art-632-et-633"></a>
 ## Art. 632 et 633.
@@ -2022,9 +2022,9 @@ Abrogés (L. 21 juillet 1992)
 
 Les tribunaux d’arrondissement siégeant en matière commerciale connaîtront également:
 
-1. des actions contre les facteurs, commis des marchands ou leurs serviteurs, pour le fait seulement du trafic du marchand auquel ils sont attachés;
+- des actions contre les facteurs, commis des marchands ou leurs serviteurs, pour le fait seulement du trafic du marchand auquel ils sont attachés;
 
-2. des billets faits par les receveurs, payeurs, percepteurs ou autres comptables des deniers publics.
+- des billets faits par les receveurs, payeurs, percepteurs ou autres comptables des deniers publics.
 
 <a id="art-635"></a>
 ## Art. 635.

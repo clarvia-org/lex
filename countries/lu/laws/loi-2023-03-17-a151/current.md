@@ -32,23 +32,23 @@ Définitions
 
 Pour l’application de la présente loi, on entend par :
 
-1. « client final » : un client qui achète auprès d’un fournisseur de la chaleur pour le chauffage d’un bâtiment comprenant au moins une unité d’habitation raccordé à un réseau de chauffage urbain ;
+- « client final » : un client qui achète auprès d’un fournisseur de la chaleur pour le chauffage d’un bâtiment comprenant au moins une unité d’habitation raccordé à un réseau de chauffage urbain ;
 
-2. « fournisseur » : toute personne physique ou morale qui vend de la chaleur à des clients finals par l’intermédiaire d’un réseau de chauffage urbain ;
+- « fournisseur » : toute personne physique ou morale qui vend de la chaleur à des clients finals par l’intermédiaire d’un réseau de chauffage urbain ;
 
-3. « ministre » : le membre du Gouvernement ayant l’Énergie dans ses attributions ;
+- « ministre » : le membre du Gouvernement ayant l’Énergie dans ses attributions ;
 
-4. « prix de fourniture » : un prix facturé aux clients finals constitué d’une composante variable facturée par kilowattheure de chaleur consommée et, le cas échéant, d’une composante fixe ;
+- « prix de fourniture » : un prix facturé aux clients finals constitué d’une composante variable facturée par kilowattheure de chaleur consommée et, le cas échéant, d’une composante fixe ;
 
-5. « prix variable contractuel » : la composante variable du prix de fourniture, par kilowattheure de chaleur consommée, hors taxes ;
+- « prix variable contractuel » : la composante variable du prix de fourniture, par kilowattheure de chaleur consommée, hors taxes ;
 
-6. « prix variable final » : la composante variable du prix de fourniture, par kilowattheure de chaleur consommée, hors taxes finalement facturée au client final après déduction de la réduction visée à l’article 2, paragraphe 2 ;
+- « prix variable final » : la composante variable du prix de fourniture, par kilowattheure de chaleur consommée, hors taxes finalement facturée au client final après déduction de la réduction visée à l’article 2, paragraphe 2 ;
 
-7. « prix de référence » : un prix variable final fixé à 0,10 euro hors taxes par kilowattheure de chaleur consommée ;
+- « prix de référence » : un prix variable final fixé à 0,10 euro hors taxes par kilowattheure de chaleur consommée ;
 
-8. « réseau de chauffage urbain » : une infrastructure située sur le territoire du Grand-Duché de Luxembourg destinée à la distribution d’énergie thermique sous forme de vapeur ou d’eau chaude, à partir d’une ou plusieurs installations centrales ou décentralisées de production vers plusieurs bâtiments ou sites, pour le chauffage de locaux ou la production d’eau chaude ;
+- « réseau de chauffage urbain » : une infrastructure située sur le territoire du Grand-Duché de Luxembourg destinée à la distribution d’énergie thermique sous forme de vapeur ou d’eau chaude, à partir d’une ou plusieurs installations centrales ou décentralisées de production vers plusieurs bâtiments ou sites, pour le chauffage de locaux ou la production d’eau chaude ;
 
-9. « unité privative » : unité séparée qui est réservée à l’usage d’un occupant ou groupe d’occupants.
+- « unité privative » : unité séparée qui est réservée à l’usage d’un occupant ou groupe d’occupants.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -61,9 +61,9 @@ L’État accorde, dans les limites de l’article 7 et dans les conditions dév
 
 Les clients finals dont la puissance souscrite est supérieure à 650 kilowatts peuvent faire une demande auprès du ministre afin de bénéficier de la même contribution financière que celle visée à l’alinéa 1er. La demande est introduite moyennant un formulaire spécifique mis à disposition par le ministre et qui renseigne, à côté des coordonnées du demandeur, du bâtiment concerné et du fournisseur de chaleur, sur les informations suivantes :
 
-1. le nombre total d’unités privatives occupées de l’immeuble en cause ;
+- le nombre total d’unités privatives occupées de l’immeuble en cause ;
 
-2. le nombre des unités privatives occupées à des fins d’habitation.
+- le nombre des unités privatives occupées à des fins d’habitation.
 
 Le ministre accorde le bénéfice de la mesure visée au présent paragraphe aux demandeurs visés à l’alinéa 2 qui établissent qu’au moins 60 pour cent des unités privatives occupées de l’immeuble concerné sont utilisées à des fins d’habitation. Le ministre notifie sa décision dans les vingt jours après réception de la demande au demandeur et en transmet une copie au fournisseur de chaleur concerné.
 
@@ -90,15 +90,15 @@ Registre des fournisseurs éligibles pour une compensation financière
 
 Afin de pouvoir bénéficier de la compensation financière prévue à l’article 2, les fournisseurs adressent une demande d’inscription au registre des fournisseurs compensés tenu par le ministre, moyennant un formulaire spécifique mis à disposition par ce dernier et qui renseigne sur les informations suivantes :
 
-1. le nom, l’adresse, le numéro du registre de commerce et des sociétés et le numéro de TVA du fournisseur ;
+- le nom, l’adresse, le numéro du registre de commerce et des sociétés et le numéro de TVA du fournisseur ;
 
-2. la dénomination, l’adresse et le propriétaire du réseau de chauffage urbain concerné ;
+- la dénomination, l’adresse et le propriétaire du réseau de chauffage urbain concerné ;
 
-3. l’identité bancaire du fournisseur ;
+- l’identité bancaire du fournisseur ;
 
-4. les quantités de chaleur mensuelles fournies aux clients finals au cours des mois de janvier 2021 à décembre 2021 par réseau de chauffage urbain ;
+- les quantités de chaleur mensuelles fournies aux clients finals au cours des mois de janvier 2021 à décembre 2021 par réseau de chauffage urbain ;
 
-5. les formules de prix selon lesquelles le prix de fourniture est déterminé et le prix variable contractuel facturé en euro par kilowattheure de chaleur consommée à partir du mois d’octobre 2022 par réseau de chauffage urbain.
+- les formules de prix selon lesquelles le prix de fourniture est déterminé et le prix variable contractuel facturé en euro par kilowattheure de chaleur consommée à partir du mois d’octobre 2022 par réseau de chauffage urbain.
 
 Les fournisseurs inscrits au registre informent le ministre dans les plus brefs délais de tout changement des informations visées à l’alinéa 1er.
 

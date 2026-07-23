@@ -35,17 +35,17 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La présente loi s’applique aux créances afférentes:
 
-1. à l’ensemble des taxes, impôts et droits perçus par ou pour le compte de l’Etat ou des communes du Grand-Duché de Luxembourg;
+- à l’ensemble des taxes, impôts et droits perçus par ou pour le compte de l’Etat ou des communes du Grand-Duché de Luxembourg;
 
-2. aux restitutions, aux interventions et aux autres mesures faisant partie du système de financement intégral ou partiel du Fonds européen agricole de garantie (FEAGA) et du Fonds européen agricole pour le développement rural (FEADER), y compris les montants à percevoir dans le cadre de ces actions;
+- aux restitutions, aux interventions et aux autres mesures faisant partie du système de financement intégral ou partiel du Fonds européen agricole de garantie (FEAGA) et du Fonds européen agricole pour le développement rural (FEADER), y compris les montants à percevoir dans le cadre de ces actions;
 
-3. aux cotisations et autres droits prévus dans le cadre de l’organisation commune des marchés dans le secteur du sucre;
+- aux cotisations et autres droits prévus dans le cadre de l’organisation commune des marchés dans le secteur du sucre;
 
-4. aux sanctions, amendes, redevances et majorations administratives liées aux créances pouvant faire l’objet d’une demande d’assistance mutuelle conformément aux points a) à c), infligées par les autorités administratives chargées de la perception des taxes, impôts ou droits concernés ou des enquêtes administratives y afférentes, ou ayant été confirmées, à la demande desdites autorités administratives, par des organes administratifs ou judiciaires;
+- aux sanctions, amendes, redevances et majorations administratives liées aux créances pouvant faire l’objet d’une demande d’assistance mutuelle conformément aux points a) à c), infligées par les autorités administratives chargées de la perception des taxes, impôts ou droits concernés ou des enquêtes administratives y afférentes, ou ayant été confirmées, à la demande desdites autorités administratives, par des organes administratifs ou judiciaires;
 
-5. aux redevances perçues pour les attestations et les documents similaires délivrés dans le cadre de procédures administratives relatives aux taxes, impôts et droits;
+- aux redevances perçues pour les attestations et les documents similaires délivrés dans le cadre de procédures administratives relatives aux taxes, impôts et droits;
 
-6. aux intérêts et frais relatifs aux créances pouvant faire l’objet d’une demande d’assistance mutuelle conformément aux points a) à e).
+- aux intérêts et frais relatifs aux créances pouvant faire l’objet d’une demande d’assistance mutuelle conformément aux points a) à e).
 
 (2)
 
@@ -55,40 +55,40 @@ Elle s’applique également aux taxes, impôts et droits quels qu’ils soient,
 
 La présente loi ne couvre pas:
 
-1. les cotisations sociales obligatoires dues à l’Etat du Grand-Duché de Luxembourg ou à un autre Etat membre ou à une de leurs subdivisions ou aux organismes de sécurité sociale relevant du droit public;
+- les cotisations sociales obligatoires dues à l’Etat du Grand-Duché de Luxembourg ou à un autre Etat membre ou à une de leurs subdivisions ou aux organismes de sécurité sociale relevant du droit public;
 
-2. les redevances qui ne sont pas visées au paragraphe 1 er points d) à f);
+- les redevances qui ne sont pas visées au paragraphe 1 er points d) à f);
 
-3. les droits de nature contractuelle, tels que la contrepartie versée pour un service public;
+- les droits de nature contractuelle, tels que la contrepartie versée pour un service public;
 
-4. les sanctions pénales infligées sur la base de poursuites à la diligence du ministère public ou les autres sanctions pénales qui ne sont pas visées au paragraphe 1 er point d), ni au paragraphe 2.
+- les sanctions pénales infligées sur la base de poursuites à la diligence du ministère public ou les autres sanctions pénales qui ne sont pas visées au paragraphe 1 er point d), ni au paragraphe 2.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 Au sens de la présente loi on entend par:
 
-1. «administration fiscale»: l’Administration des contributions directes, l’Administration de l’enregistrement et des domaines, l’Administration des douanes et accises;
+- «administration fiscale»: l’Administration des contributions directes, l’Administration de l’enregistrement et des domaines, l’Administration des douanes et accises;
 
-2. «autorité requérante luxembourgeoise»: le bureau central de liaison, l’administration fiscale qui formule une demande d’assistance concernant une créance visée à l’article 1 er ;
+- «autorité requérante luxembourgeoise»: le bureau central de liaison, l’administration fiscale qui formule une demande d’assistance concernant une créance visée à l’article 1 er ;
 
-3. «autorité requise luxembourgeoise»: le bureau central de liaison, l’administration fiscale à laquelle une demande d’assistance est adressée;
+- «autorité requise luxembourgeoise»: le bureau central de liaison, l’administration fiscale à laquelle une demande d’assistance est adressée;
 
-4. «autorité requérante»: le bureau central de liaison, un bureau de liaison ou un service de liaison d’un Etat membre de l’Union européenne qui formule une demande d’assistance concernant une créance visée à l’article 1 er ;
+- «autorité requérante»: le bureau central de liaison, un bureau de liaison ou un service de liaison d’un Etat membre de l’Union européenne qui formule une demande d’assistance concernant une créance visée à l’article 1 er ;
 
-5. «autorité requise»: le bureau central de liaison, un bureau de liaison ou un service de liaison d’un Etat membre de l’Union européenne auquel une demande d’assistance est adressée;
+- «autorité requise»: le bureau central de liaison, un bureau de liaison ou un service de liaison d’un Etat membre de l’Union européenne auquel une demande d’assistance est adressée;
 
-6. «personne»:
+- «personne»:
 
-1. une personne physique;
+  - une personne physique;
 
-2. une personne morale;
+  - une personne morale;
 
-3. lorsque la législation en vigueur le prévoit, une association de personnes à laquelle est reconnue la capacité d’accomplir des actes juridiques, mais qui ne possède pas le statut juridique de personne morale, ou
+  - lorsque la législation en vigueur le prévoit, une association de personnes à laquelle est reconnue la capacité d’accomplir des actes juridiques, mais qui ne possède pas le statut juridique de personne morale, ou
 
-4. toute autre construction juridique quelles que soient sa nature et sa forme, dotée ou non de la personnalité juridique, possédant ou gérant des actifs qui, y compris le revenu qui en dérive, sont soumis à l’un des impôts relevant de la présente loi;
+  - toute autre construction juridique quelles que soient sa nature et sa forme, dotée ou non de la personnalité juridique, possédant ou gérant des actifs qui, y compris le revenu qui en dérive, sont soumis à l’un des impôts relevant de la présente loi;
 
-7. «par voie électronique»: au moyen d’équipements électroniques de traitement, y compris la compression numérique, et de stockage des données, et en utilisant le fil, la radio, les moyens optiques ou d’autres moyens électromagnétiques ainsi que par intermédiaire de la plate-forme commune fondée sur le réseau commun de communication (CCN), développée par l’Union européenne pour assurer toutes les transmissions par voie électronique entre autorités compétentes dans les domaines douanier et fiscal.
+- «par voie électronique»: au moyen d’équipements électroniques de traitement, y compris la compression numérique, et de stockage des données, et en utilisant le fil, la radio, les moyens optiques ou d’autres moyens électromagnétiques ainsi que par intermédiaire de la plate-forme commune fondée sur le réseau commun de communication (CCN), développée par l’Union européenne pour assurer toutes les transmissions par voie électronique entre autorités compétentes dans les domaines douanier et fiscal.
 
 #### Chapitre II. Organisation
 
@@ -145,11 +145,11 @@ En vue de la communication de ces informations, l’autorité requise fait effec
 
 L’autorité requise luxembourgeoise n’est pas tenue de transmettre des informations:
 
-1. qu’elle ne serait pas en mesure d’obtenir pour le recouvrement de créances similaires nées dans le Grand-Duché de Luxembourg;
+- qu’elle ne serait pas en mesure d’obtenir pour le recouvrement de créances similaires nées dans le Grand-Duché de Luxembourg;
 
-2. qui divulgueraient un secret commercial, industriel ou professionnel;
+- qui divulgueraient un secret commercial, industriel ou professionnel;
 
-3. dont la communication serait de nature à porter atteinte à la sécurité ou à l’ordre public du Grand-Duché de Luxembourg.
+- dont la communication serait de nature à porter atteinte à la sécurité ou à l’ordre public du Grand-Duché de Luxembourg.
 
 (3)
 
@@ -184,17 +184,17 @@ L’autorité requérante luxembourgeoise est autorisée à adresser aux autorit
 
 La demande de notification s’accompagne d’un formulaire type comportant au minimum les informations suivantes:
 
-1. le nom et l’adresse du destinataire et tout autre renseignement utile à son identification;
+- le nom et l’adresse du destinataire et tout autre renseignement utile à son identification;
 
-2. l’objet de la notification et le délai dans lequel elle doit être effectuée;
+- l’objet de la notification et le délai dans lequel elle doit être effectuée;
 
-3. une description du document qui est joint ainsi que la nature et le montant de la créance concernée;
+- une description du document qui est joint ainsi que la nature et le montant de la créance concernée;
 
-4. les noms, adresses et coordonnées:
+- les noms, adresses et coordonnées:
 
-1. du bureau responsable du document qui est joint et, s’il diffère,
+  - du bureau responsable du document qui est joint et, s’il diffère,
 
-2. du bureau auprès duquel des informations complémentaires peuvent être obtenues concernant le document notifié ou concernant les possibilités de contestation de l’obligation de paiement.
+  - du bureau auprès duquel des informations complémentaires peuvent être obtenues concernant le document notifié ou concernant les possibilités de contestation de l’obligation de paiement.
 
 (3)
 
@@ -215,17 +215,17 @@ Sur demande d’une autorité requérante, l’autorité requise luxembourgeoise
 
 La demande de notification s’accompagne d’un formulaire type comportant au minimum les informations suivantes:
 
-1. le nom et l’adresse du destinataire et tout autre renseignement utile à son identification;
+- le nom et l’adresse du destinataire et tout autre renseignement utile à son identification;
 
-2. l’objet de la notification et le délai dans lequel elle doit être effectuée;
+- l’objet de la notification et le délai dans lequel elle doit être effectuée;
 
-3. une description du document qui est joint ainsi que la nature et le montant de la créance concernée;
+- une description du document qui est joint ainsi que la nature et le montant de la créance concernée;
 
-4. les noms, adresses et coordonnées:
+- les noms, adresses et coordonnées:
 
-1. du bureau responsable du document qui est joint et, s’il diffère,
+  - du bureau responsable du document qui est joint et, s’il diffère,
 
-2. du bureau auprès duquel des informations complémentaires peuvent être obtenues concernant le document notifié ou concernant les possibilités de contestation de l’obligation de paiement.
+  - du bureau auprès duquel des informations complémentaires peuvent être obtenues concernant le document notifié ou concernant les possibilités de contestation de l’obligation de paiement.
 
 (3)
 
@@ -278,9 +278,9 @@ L’autorité requérante luxembourgeoise ne peut présenter de demande de recou
 
 Avant qu’une demande de recouvrement ne soit présentée par l’autorité requérante luxembourgeoise, les procédures de recouvrement appropriées disponibles au Grand-Duché de Luxembourg sont appliquées, sauf dans les cas suivants:
 
-1. lorsqu’il est manifeste qu’il n’existe pas, au Grand-Duché de Luxembourg, d’actifs pouvant être recouvrés ou que ces procédures ne se traduiront pas par le paiement intégral de la créance et que l’autorité requérante luxembourgeoise dispose d’informations spécifiques montrant que la personne concernée dispose d’actifs dans un autre Etat membre;
+- lorsqu’il est manifeste qu’il n’existe pas, au Grand-Duché de Luxembourg, d’actifs pouvant être recouvrés ou que ces procédures ne se traduiront pas par le paiement intégral de la créance et que l’autorité requérante luxembourgeoise dispose d’informations spécifiques montrant que la personne concernée dispose d’actifs dans un autre Etat membre;
 
-2. lorsque l’usage des procédures en vigueur au Grand-Duché de Luxembourg donne lieu à des difficultés disproportionnées.
+- lorsque l’usage des procédures en vigueur au Grand-Duché de Luxembourg donne lieu à des difficultés disproportionnées.
 
 (3)
 
@@ -305,9 +305,9 @@ L’assistance n’est accordée que si la créance ou l’instrument permettant
 
 L’assistance n’est accordée qu’après que les procédures de recouvrement appropriées disponibles dans l’Etat membre requérant sont appliquées, sauf dans les cas suivants:
 
-1. lorsqu’il est manifeste qu’il n’existe pas, dans l’Etat membre requérant, d’actifs pouvant être recouvrés ou que ces procédures ne se traduiront pas par le paiement intégral de la créance et que l’autorité requérante dispose d’informations spécifiques montrant que la personne concernée dispose d’actifs au Grand-Duché de Luxembourg;
+- lorsqu’il est manifeste qu’il n’existe pas, dans l’Etat membre requérant, d’actifs pouvant être recouvrés ou que ces procédures ne se traduiront pas par le paiement intégral de la créance et que l’autorité requérante dispose d’informations spécifiques montrant que la personne concernée dispose d’actifs au Grand-Duché de Luxembourg;
 
-2. lorsque l’usage des procédures en vigueur dans l’Etat membre requérant donne lieu à des difficultés disproportionnées.
+- lorsque l’usage des procédures en vigueur dans l’Etat membre requérant donne lieu à des difficultés disproportionnées.
 
 (4)
 
@@ -326,15 +326,15 @@ L’instrument uniformisé permettant l’adoption de mesures exécutoires dans 
 
 L’instrument uniformisé permettant l’adoption de mesures exécutoires comporte au minimum les informations suivantes:
 
-1. les informations permettant d’identifier l’instrument initial permettant l’adoption de mesures exécutoires, une description de la créance, y compris sa nature, la période couverte par la créance, toutes dates pertinentes pour la procédure d’exécution, le montant de la créance et de ses différentes composantes tels que le principal, les intérêts courus et autres éléments;
+- les informations permettant d’identifier l’instrument initial permettant l’adoption de mesures exécutoires, une description de la créance, y compris sa nature, la période couverte par la créance, toutes dates pertinentes pour la procédure d’exécution, le montant de la créance et de ses différentes composantes tels que le principal, les intérêts courus et autres éléments;
 
-2. le nom du destinataire et tout autre renseignement utile à son identification;
+- le nom du destinataire et tout autre renseignement utile à son identification;
 
-3. les noms, adresses et coordonnées:
+- les noms, adresses et coordonnées:
 
-1. du bureau responsable de la liquidation de la créance et, s’il diffère,
+  - du bureau responsable de la liquidation de la créance et, s’il diffère,
 
-2. du bureau auprès duquel des informations complémentaires peuvent être obtenues concernant la créance ou concernant les possibilités de contestation de l’obligation de paiement.
+  - du bureau auprès duquel des informations complémentaires peuvent être obtenues concernant la créance ou concernant les possibilités de contestation de l’obligation de paiement.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -609,11 +609,11 @@ Lorsqu’une demande s’accompagne de documents autres que ceux visés aux para
 
 D’un commun accord entre l’autorité requérante et l’autorité requise luxembourgeoise et selon les modalités fixées par cette dernière, des fonctionnaires d’un autre Etat membre habilités par l’autorité requise luxembourgeoise peuvent, en vue de faciliter l’assistance mutuelle prévue par la présente loi:
 
-1. être présents dans les bureaux où les autorités administratives luxembourgeoises exécutent leurs tâches;
+- être présents dans les bureaux où les autorités administratives luxembourgeoises exécutent leurs tâches;
 
-2. assister aux enquêtes administratives réalisées sur le territoire du Grand-Duché de Luxembourg;
+- assister aux enquêtes administratives réalisées sur le territoire du Grand-Duché de Luxembourg;
 
-3. assister les fonctionnaires compétents luxembourgeois dans le cadre des procédures judiciaires engagées au Grand-Duché de Luxembourg.
+- assister les fonctionnaires compétents luxembourgeois dans le cadre des procédures judiciaires engagées au Grand-Duché de Luxembourg.
 
 (2)
 

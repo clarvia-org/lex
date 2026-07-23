@@ -43,12 +43,16 @@ La comptabilité de l’institution doit couvrir l’ensemble de ses opérations
 
 Les comptes des institutions doivent être réguliers, sincères et donner une image fidèle de leur patrimoine et de leur situation financière.
 
+Plan comptable uniforme
+
 <a id="art-3"></a>
 ## Art. 3.
 
 Les institutions appliquent un plan comptable uniforme arrêté par l’Inspection générale de la sécurité sociale. Les annexes du plan comptable uniforme définissent les procédures générales applicables en matière de comptabilité et précisent pour chaque compte les opérations, droits et obligations à y enregistrer ainsi que les règles de cette comptabilisation.
 
 Les comptes à utiliser par l’institution sont ouverts par l’Inspection générale de la sécurité sociale, qui peut charger l’institution de l’ouverture de comptes.
+
+Règles générales de comptabilisation
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -63,6 +67,8 @@ L’organisation du système de traitement de l’information financière et com
 ## Art. 5.
 
 Aucune inscription se rapportant à un mois donné ne peut être opérée après la troisième semaine du mois subséquent, sauf dérogation à autoriser par l’Inspection générale de la sécurité sociale sur demande du comptable. Cette disposition ne s’applique pas aux inscriptions de fin d’année qui sont régies par les articles 6 à 8.
+
+Clôture de l’exercice comptable
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -88,6 +94,8 @@ A la clôture des comptes, les écritures de fin d’année ont pour objet de co
 Lors des opérations de fin d’année, les droits et obligations, nés au cours de l’exercice clos, mais pour lesquels l’institution n’a pas reçu ou exploité la pièce justificative, sont rattachés à cet exercice. Leur évaluation peut être fondée sur l’observation des données statistiques des années précédentes.
 
 Le rattachement est conditionné par la naissance au cours d’un exercice d’une opération et la possibilité de mesurer cette opération de manière fiable. Ce rattachement s’opère au moyen des comptes de provisions, de charges à payer et de produits à recevoir, de charges et de produits constatés d’avance suivant les règles fixées par le plan comptable uniforme et après accord préalable de l’Inspection générale de la sécurité sociale pour chaque écriture.
+
+Conservation des documents
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -117,27 +125,29 @@ Toute compensation entre les postes d’actif et de passif, ou entre les postes 
 
 L’annexe comporte, suivant les modalités inscrites au plan comptable uniforme des institutions de sécurité sociale et les autres instructions de l’Inspection générale de la sécurité sociale:
 
-1. les éléments ou circonstances qui affectent de manière significative, par rapport à l’exercice précédent, la formation du résultat, la situation financière ou le patrimoine de l’institution ainsi que les statistiques concernant le fonctionnement de l’assurance;
+- les éléments ou circonstances qui affectent de manière significative, par rapport à l’exercice précédent, la formation du résultat, la situation financière ou le patrimoine de l’institution ainsi que les statistiques concernant le fonctionnement de l’assurance;
 
-2. les éléments qui se rattachent à l’exercice sous revue ou à des exercices antérieurs et qui sont susceptibles d’affecter la situation financière de l’institution et dont il n’a pas pu être tenu compte au moment de la clôture des comptes;
+- les éléments qui se rattachent à l’exercice sous revue ou à des exercices antérieurs et qui sont susceptibles d’affecter la situation financière de l’institution et dont il n’a pas pu être tenu compte au moment de la clôture des comptes;
 
-3. les changements des méthodes et principes comptables, les modifications de la présentation ainsi que les modes d’évaluation appliqués pour les écritures de fin d’année;
+- les changements des méthodes et principes comptables, les modifications de la présentation ainsi que les modes d’évaluation appliqués pour les écritures de fin d’année;
 
-4. la liste des redressements comptables opérés à la demande de l’Inspection générale de la sécurité sociale dans son avis sur les comptes annuels de l’exercice précédent;
+- la liste des redressements comptables opérés à la demande de l’Inspection générale de la sécurité sociale dans son avis sur les comptes annuels de l’exercice précédent;
 
-5. le relevé des écritures comptables opérées par dérogation aux règles du plan comptable uniforme et les justifications y afférentes;
+- le relevé des écritures comptables opérées par dérogation aux règles du plan comptable uniforme et les justifications y afférentes;
 
-6. le détail des frais d’administration et de gestion du patrimoine de l’exercice sous forme d’un tableau reproduisant pour chaque crédit le montant approuvé au budget de l’institution, les transferts de crédit, les dépassements de crédits limitatifs, les plus-values et moins-values des autres crédits ainsi que le solde final; le tableau est accompagné des motifs des dépassements de crédits limitatifs et des autorisations ministérielles de dépassement;
+- le détail des frais d’administration et de gestion du patrimoine de l’exercice sous forme d’un tableau reproduisant pour chaque crédit le montant approuvé au budget de l’institution, les transferts de crédit, les dépassements de crédits limitatifs, les plus-values et moins-values des autres crédits ainsi que le solde final; le tableau est accompagné des motifs des dépassements de crédits limitatifs et des autorisations ministérielles de dépassement;
 
-7. un organigramme du personnel de l’institution en place au 31 décembre;
+- un organigramme du personnel de l’institution en place au 31 décembre;
 
-8. un état des titres et valeurs détenus et des prêts accordés suivant le modèle et les règles d’évaluation prévus par le plan comptable uniforme;
+- un état des titres et valeurs détenus et des prêts accordés suivant le modèle et les règles d’évaluation prévus par le plan comptable uniforme;
 
-9. un état du patrimoine immobilier et des amortissements suivant le modèle et les règles d’évaluation prévus par le plan comptable uniforme.
+- un état du patrimoine immobilier et des amortissements suivant le modèle et les règles d’évaluation prévus par le plan comptable uniforme.
 
 Aux fins de l’application du point 6) de l’alinéa qui précède, les caisses de maladie définies à l’article 48 du Code de la sécurité sociale transmettent à la clôture de l’exercice comptable les motivations des dépassements de crédits limitatifs à la Caisse nationale de santé. Celle-ci établit un tableau séparé pour chacune des quatre institutions ainsi qu’un tableau global pour l’ensemble de ces caisses.
 
 #### Chapitre IV Budget
+
+Etablissement du budget
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -148,6 +158,8 @@ En vue d’assurer l’établissement uniforme des crédits, le caractère réal
 ## Art. 14.
 
 Les institutions transmettent à l’Inspection générale de la sécurité sociale les évaluations des crédits pour l’exercice subséquent appelant une participation de l’Etat suivant les instructions et dans les formes inscrites dans la circulaire budgétaire du Ministère des Finances deux semaines avant la date de transmission prévue dans ladite circulaire.
+
+Contenu du budget
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -163,24 +175,26 @@ Le tableau du budget comporte un état comparatif des montants du compte annuel 
 
 L’annexe comporte, dans les formes prescrites par l’Inspection générale de la sécurité sociale:
 
-1. les modalités d’évaluation des crédits et les justifications des crédits avec les statistiques concernant le fonctionnement de l’assurance,
+- les modalités d’évaluation des crédits et les justifications des crédits avec les statistiques concernant le fonctionnement de l’assurance,
 
-2. le tableau prospectif du personnel avec la distinction entre effectif autorisé et postes occupés,
+- le tableau prospectif du personnel avec la distinction entre effectif autorisé et postes occupés,
 
-3. les dépassements de crédits de l’exercice en cours approuvés par le comité directeur avec le motif des dépassements,
+- les dépassements de crédits de l’exercice en cours approuvés par le comité directeur avec le motif des dépassements,
 
-4. les transferts de crédits de l’exercice en cours,
+- les transferts de crédits de l’exercice en cours,
 
-5. le plan de trésorerie pour les derniers mois de l’exercice en cours et pour l’exercice budgétaire.
+- le plan de trésorerie pour les derniers mois de l’exercice en cours et pour l’exercice budgétaire.
+
+Types de crédits
 
 <a id="art-17"></a>
 ## Art. 17.
 
 Les crédits suivants sont limitatifs:
 
-1. les crédits pour frais d’administration à l’exception des crédits définis comme non limitatifs par l’Inspection générale de la sécurité sociale dans les annexes au plan comptable uniforme;
+- les crédits pour frais d’administration à l’exception des crédits définis comme non limitatifs par l’Inspection générale de la sécurité sociale dans les annexes au plan comptable uniforme;
 
-2. les crédits pour frais de gestion du patrimoine.
+- les crédits pour frais de gestion du patrimoine.
 
 Tous les autres crédits sont non limitatifs.
 
@@ -194,6 +208,8 @@ Ne peuvent pas bénéficier d’un transfert les crédits limitatifs pour lesque
 Aucun transfert de crédit ne peut être opéré avant le 1er juillet de l’exercice.
 
 Chaque transfert fait l’objet d’une décision lors de la première réunion du conseil d’administration ou du comité directeur suivant l’opération de transfert.
+
+Ordonnancement, recouvrement et paiement
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -211,6 +227,8 @@ Toutefois des comptables extraordinaires désignés par le comité directeur peu
 
 Ces comptables extraordinaires tiennent les registres et journaux de paiement mis à jour au fur et à mesure de leurs opérations et les soumettent sur demande au service comptable de l’institution compétente.
 
+Dépassement d’un crédit limitatif
+
 <a id="art-21"></a>
 ## Art. 21.
 
@@ -222,6 +240,8 @@ Les dépenses visées par l’alinéa qui précède dont l’engagement ne peut 
 
 Sur proposition de l’Inspection générale de la sécurité sociale, le ministre de tutelle peut exiger que l’institution réalise des économies sur d’autres crédits pour compenser le dépassement.
 
+Contrôle budgétaire
+
 <a id="art-22"></a>
 ## Art. 22.
 
@@ -232,6 +252,8 @@ A cet effet les caisses de maladie transmettent à la fin de chaque mois les dé
 A la fin de chaque mois, la Caisse nationale d’assurance pension, le Fonds de compensation, l’Association d’assurance contre les accidents, le Centre commun de la sécurité sociale, la Mutualité des employeurs, la Caisse nationale des prestations familiales et le Fonds national de solidarité établissent une situation mensuelle renseignant les dépenses comptabilisées, les dépenses ordonnancées mais non encore comptabilisées et le solde des crédits disponibles. A partir du début du deuxième semestre une copie de ces tableaux est transmise mensuellement à l’Inspection générale de la sécurité sociale.
 
 La situation mensuelle est complétée par un relevé des transferts de crédits opérés par l’institution et des dépassements de crédit autorisés par le ministre de tutelle suivant le modèle arrêté par l’Inspection générale de la sécurité sociale.
+
+Dispositions spécifiques à l’assurance maladie
 
 <a id="art-23"></a>
 ## Art. 23.
@@ -252,6 +274,8 @@ L’Inspection générale de la sécurité sociale transmet les budgets des frai
 
 L’annexe du budget global de l’assurance maladie-maternité est complétée par les tableaux de financement relatifs à la gestion des prestations en nature, à la gestion des prestations en espèces et à la gestion des prestations de maternité.
 
+Dispositions spécifiques aux frais administratifs communs à plusieurs institutions
+
 <a id="art-26"></a>
 ## Art. 26.
 
@@ -263,6 +287,8 @@ L’Inspection générale de la sécurité sociale contrôle les propositions bu
 ## Art. 27.
 
 Les montants des crédits relatifs aux frais administratifs communs retenus en application de l’article 26 et ceux relatifs à la participation aux frais du Centre commun de la sécurité sociale à inscrire par les institutions dans leur budget sont communiqués par l’Inspection générale de la sécurité sociale aux institutions concernées qui les inscrivent d’office dans leur budget.
+
+Budget provisoire
 
 <a id="art-29"></a>
 ## Art. 29.

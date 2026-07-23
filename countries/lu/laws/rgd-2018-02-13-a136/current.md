@@ -30,105 +30,105 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er janvier 2016 ou après cette date, les juridictions suivantes sont considérées comme des Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi du 23 décembre 2016 relative à la déclaration pays par pays :
 
-1. Afrique du Sud
+- Afrique du Sud
 
-2. Allemagne
+- Allemagne
 
-3. Australie
+- Australie
 
-4. Autriche
+- Autriche
 
-5. Belgique
+- Belgique
 
-6. Brésil
+- Brésil
 
-7. Bulgarie
+- Bulgarie
 
-8. Canada
+- Canada
 
-9. Colombie
+- Colombie
 
-10. Chypre
+- Chypre
 
-11. Corée
+- Corée
 
-12. Croatie
+- Croatie
 
-13. Danemark
+- Danemark
 
-14. Espagne
+- Espagne
 
-15. Estonie
+- Estonie
 
-16. États-Unis d’Amérique
+- États-Unis d’Amérique
 
-17. Finlande
+- Finlande
 
-18. France
+- France
 
-19. Gibraltar
+- Gibraltar
 
-20. Grèce
+- Grèce
 
-21. Guernesey
+- Guernesey
 
-22. Hongrie
+- Hongrie
 
-23. Île de Man
+- Île de Man
 
-24. Inde
+- Inde
 
-25. Indonésie
+- Indonésie
 
-26. Irlande
+- Irlande
 
-27. Italie
+- Italie
 
-28. Japon
+- Japon
 
-29. Jersey
+- Jersey
 
-30. Lettonie
+- Lettonie
 
-31. Liechtenstein
+- Liechtenstein
 
-32. Lituanie
+- Lituanie
 
-33. Malaisie
+- Malaisie
 
-34. Malte
+- Malte
 
-35. Mexique
+- Mexique
 
-36. Norvège
+- Norvège
 
-37. Nouvelle-Zélande
+- Nouvelle-Zélande
 
-38. Pays-Bas
+- Pays-Bas
 
-39. Pakistan
+- Pakistan
 
-40. Pologne
+- Pologne
 
-41. Portugal
+- Portugal
 
-42. République slovaque
+- République slovaque
 
-43. République tchèque
+- République tchèque
 
-44. Roumanie
+- Roumanie
 
-45. Russie
+- Russie
 
-46. Royaume-Uni
+- Royaume-Uni
 
-47. Singapore
+- Singapore
 
-48. Slovénie
+- Slovénie
 
-49. Suède
+- Suède
 
-50. Suisse.
+- Suisse.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -137,139 +137,139 @@ Pour les déclarations pays par pays communiquées pour l’Exercice fiscal comm
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er janvier 2017 ou après cette date, les juridictions suivantes sont considérées comme des Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi du 23 décembre 2016 relative à la déclaration pays par pays :
 
-1. Les juridictions énumérées à l’article 1 er
+- Les juridictions énumérées à l’article 1 er
 
-2. Arabie Saoudite
+- Arabie Saoudite
 
-3. Argentine
+- Argentine
 
-4. Chili
+- Chili
 
-5. Chine
+- Chine
 
-6. Islande
+- Islande
 
-7. Uruguay.
+- Uruguay.
 
 (2)
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er janvier 2018 ou après cette date, les juridictions suivantes sont considérées comme des Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi du 23 décembre 2016 relative à la déclaration pays par pays :
 
-1. Les juridictions énumérées au paragraphe 1
+- Les juridictions énumérées au paragraphe 1
 
-2. Andorre
+- Andorre
 
-3. Monaco
+- Monaco
 
-4. Seychelles
+- Seychelles
 
-5. Panama.
+- Panama.
 
 (3)
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er juillet 2018 ou après cette date, les juridictions suivantes sont considérées comme des Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi du 23 décembre 2016 relative à la déclaration pays par pays :
 
-1. Les juridictions énumérées au paragraphe 2
+- Les juridictions énumérées au paragraphe 2
 
-2. Île Maurice.
+- Île Maurice.
 
 (4)
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er janvier 2019 ou après cette date, les juridictions suivantes sont considérées comme des Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi du 23 décembre 2016 relative à la déclaration pays par pays :
 
-1. Les juridictions énumérées au paragraphe 3
+- Les juridictions énumérées au paragraphe 3
 
-2. Hong Kong
+- Hong Kong
 
-3. San Marino.
+- San Marino.
 
 (5)
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er janvier 2021 ou après cette date, les juridictions suivantes sont considérées comme des Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi modifiée du 23 décembre 2016 relative à la déclaration pays par pays :
 
-1. Les juridictions énumérées au paragraphe 4
+- Les juridictions énumérées au paragraphe 4
 
-2. Azerbaïdjan
+- Azerbaïdjan
 
-3. Nigéria
+- Nigéria
 
-4. Pérou
+- Pérou
 
-5. Turquie.
+- Turquie.
 
 (6)
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er janvier 2022 ou après cette date, les juridictions suivantes sont considérées comme Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi modifiée du 23 décembre 2016 relative à la déclaration pays par pays :
 
-1. Les juridictions énumérées au paragraphe 5
+- Les juridictions énumérées au paragraphe 5
 
-2. Barbade
+- Barbade
 
-3. Kazakhstan
+- Kazakhstan
 
-4. Maldives.
+- Maldives.
 
 (7)
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er janvier 2023 ou après cette date, les juridictions suivantes sont considérées comme Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi modifiée du 23 décembre 2016 relative à la déclaration pays par pays :
 
-1. Les juridications énumérées au paragraphe 6
+- Les juridications énumérées au paragraphe 6
 
-2. Costa Rica
+- Costa Rica
 
-3. Israël
+- Israël
 
-4. Kenya
+- Kenya
 
-5. Thaïlande.
+- Thaïlande.
 
 (8)
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er juin 2023 ou après cette date, les juridictions suivantes sont considérées comme Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi modifiée du 23 décembre 2016 relative à la déclaration pays par pays :
 
-1. Les juridictions énumérées au paragraphe 7
+- Les juridictions énumérées au paragraphe 7
 
-2. Îles Féroé.
+- Îles Féroé.
 
 (9)
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er janvier 2024 ou après cette date, les juridictions suivantes sont considérées comme Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi modifiée du 23 décembre 2016 relative à la déclaration pays par pays :
 
-1. Les juridictions énumérées au paragraphe 8
+- Les juridictions énumérées au paragraphe 8
 
-2. Albanie
+- Albanie
 
-3. Aruba
+- Aruba
 
-4. Ukraine.
+- Ukraine.
 
 (10)
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er janvier 2025 ou après cette date, les juridictions suivantes sont considérées comme Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi modifiée du 23 décembre 2016 relative à la déclaration pays par pays :
 
-1. Les juridictions énumérées au paragraphe 9
+- Les juridictions énumérées au paragraphe 9
 
-2. Bélize
+- Bélize
 
-3. Curaçao
+- Curaçao
 
-4. Géorgie.
+- Géorgie.
 
-5. Mongolie
+- Mongolie
 
-6. République dominicaine
+- République dominicaine
 
-7. Sénégal
+- Sénégal
 
-8. Tunisie.
+- Tunisie.
 
 (11)
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er janvier 2026 ou après cette date, les juridictions suivantes sont considérées comme Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi modifiée du 23 décembre 2016 relative à la déclaration pays par pays :
 
-1. Les juridictions énumérées au paragraphe 10
+- Les juridictions énumérées au paragraphe 10
 
-2. Arménie.
+- Arménie.
 
 <a id="art-3"></a>
 ## Art. 3.

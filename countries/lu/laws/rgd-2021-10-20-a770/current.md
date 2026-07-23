@@ -43,9 +43,9 @@ Aux fins du présent règlement, par « commercialisation », on entend la vente
 
 Ne relèvent pas de la commercialisation, les échanges de semences qui ne visent pas une exploitation commerciale de la variété, tels que les opérations suivantes :
 
-1. la fourniture de semences à des organismes officiels d’expérimentation et d’inspection ;
+- la fourniture de semences à des organismes officiels d’expérimentation et d’inspection ;
 
-2. la fourniture de semences à des prestataires de services, en vue de la transformation ou du conditionnement, pour autant que le prestataire de service n’acquière pas un titre sur la semence ainsi fournie.
+- la fourniture de semences à des prestataires de services, en vue de la transformation ou du conditionnement, pour autant que le prestataire de service n’acquière pas un titre sur la semence ainsi fournie.
 
 (3)
 
@@ -56,144 +56,144 @@ La fourniture de semences, sous certaines conditions, à des prestataires de ser
 
 Aux fins du présent règlement, on entend par :
 
-1. « Céréales » : les plantes des espèces énumérées à l’annexe I, destinées à la production agricole ou horticole, à l’exclusion des usages ornementaux.
+- « Céréales » : les plantes des espèces énumérées à l’annexe I, destinées à la production agricole ou horticole, à l’exclusion des usages ornementaux.
 
 Les semences des hybrides mentionnés à l’annexe I doivent, sauf dispositions contraires, répondre aux normes et autres conditions applicables aux semences de chacune des espèces dont ils sont dérivés.
 
-1. « Variétés, hybrides et lignées inbred de maïs et de Sorghum spp » :
+- « Variétés, hybrides et lignées inbred de maïs et de Sorghum spp » :
 
-1. Variété à pollinisation libre : variété suffisamment homogène et stable ;
+  - Variété à pollinisation libre : variété suffisamment homogène et stable ;
 
-2. Lignée inbred : lignée suffisamment homogène et stable, obtenue soit par autofécondation artificielle accompagnée de sélection pendant plusieurs générations successives, soit par des opérations équivalentes ;
+  - Lignée inbred : lignée suffisamment homogène et stable, obtenue soit par autofécondation artificielle accompagnée de sélection pendant plusieurs générations successives, soit par des opérations équivalentes ;
 
-3. Hybride simple : première génération d’un croisement entre deux lignées inbred , défini par l’obtenteur ;
+  - Hybride simple : première génération d’un croisement entre deux lignées inbred , défini par l’obtenteur ;
 
-4. Hybride double : première génération d’un croisement entre deux hybrides simples, défini par l’obtenteur ;
+  - Hybride double : première génération d’un croisement entre deux hybrides simples, défini par l’obtenteur ;
 
-5. Hybride à trois voies : première génération d’un croisement entre une lignée inbred et un hybride simple, défini par l’obtenteur ;
+  - Hybride à trois voies : première génération d’un croisement entre une lignée inbred et un hybride simple, défini par l’obtenteur ;
 
-6. Hybride « Top Cross » : première génération d’un croisement entre une lignée inbred ou un hybride simple et une variété à pollinisation libre, défini par l’obtenteur ;
+  - Hybride « Top Cross » : première génération d’un croisement entre une lignée inbred ou un hybride simple et une variété à pollinisation libre, défini par l’obtenteur ;
 
-7. Hybride intervariétal : première génération d’un croisement entre des plantes de semences de base de deux variétés à pollinisation libre, défini par l’obtenteur.
+  - Hybride intervariétal : première génération d’un croisement entre des plantes de semences de base de deux variétés à pollinisation libre, défini par l’obtenteur.
 
-2. « Semences de base (avoine, orge, riz, alpiste, seigle, triticale, blé, blé dur et épeautre, autres que leurs hybrides respectifs) » : les semences
+- « Semences de base (avoine, orge, riz, alpiste, seigle, triticale, blé, blé dur et épeautre, autres que leurs hybrides respectifs) » : les semences
 
-1. qui ont été produites sous la responsabilité de l’obtenteur selon les règles de sélection conservatrice en ce qui concerne la variété ;
+  - qui ont été produites sous la responsabilité de l’obtenteur selon les règles de sélection conservatrice en ce qui concerne la variété ;
 
-2. qui sont prévues pour la production de semences soit de la catégorie semences certifiées, soit des catégories semences certifiées de la première reproduction ou semences certifiées de la deuxième reproduction ;
+  - qui sont prévues pour la production de semences soit de la catégorie semences certifiées, soit des catégories semences certifiées de la première reproduction ou semences certifiées de la deuxième reproduction ;
 
-3. qui répondent, sous réserve des dispositions de l’article 11, point 1°, aux conditions prévues aux annexes II et III pour les semences de base ; et
+  - qui répondent, sous réserve des dispositions de l’article 11, point 1°, aux conditions prévues aux annexes II et III pour les semences de base ; et
 
-4. pour lesquelles il a été constaté, lors d’un examen officiel ou, dans le cas des conditions figurant à l’annexe III, soit lors d’un examen officiel, soit lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a), b) et c) ont été respectées.
+  - pour lesquelles il a été constaté, lors d’un examen officiel ou, dans le cas des conditions figurant à l’annexe III, soit lors d’un examen officiel, soit lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a), b) et c) ont été respectées.
 
-3. « Semences de base (hybrides d’avoine, d’orge, de riz, de seigle, de blé, de blé dur, d’épeautre et de triticale autogame) »:
+- « Semences de base (hybrides d’avoine, d’orge, de riz, de seigle, de blé, de blé dur, d’épeautre et de triticale autogame) »:
 
-1. destinées à la production d’hybrides ;
+  - destinées à la production d’hybrides ;
 
-2. qui sous réserve des dispositions visées à l’article 11 répondent aux conditions fixées aux annexes II et III pour les semences de base ; et
+  - qui sous réserve des dispositions visées à l’article 11 répondent aux conditions fixées aux annexes II et III pour les semences de base ; et
 
-3. pour lesquelles il a été constaté, lors d’un examen officiel ou, dans le cas des conditions figurant à l’annexe III, soit lors d’un examen officiel, soit lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a) et b) ont été respectées.
+  - pour lesquelles il a été constaté, lors d’un examen officiel ou, dans le cas des conditions figurant à l’annexe III, soit lors d’un examen officiel, soit lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a) et b) ont été respectées.
 
-4. « Semences de base (maïs et Sorghum spp.) » :
+- « Semences de base (maïs et Sorghum spp.) » :
 
-1. De variétés à pollinisation libre : les semences
+  - De variétés à pollinisation libre : les semences
 
-1. qui ont été produites sous la responsabilité d’un obtenteur selon les règles de sélection conservatrice en ce qui concerne la variété ;
+    - qui ont été produites sous la responsabilité d’un obtenteur selon les règles de sélection conservatrice en ce qui concerne la variété ;
 
-2. qui sont prévues pour la production de semences de la catégorie semences certifiées de cette variété, d’hybrides « Top Cross » ou d’hybrides intervariétaux ;
+    - qui sont prévues pour la production de semences de la catégorie semences certifiées de cette variété, d’hybrides « Top Cross » ou d’hybrides intervariétaux ;
 
-3. qui répondent sous réserve des dispositions de l’article 11 aux conditions fixées aux annexes II et III pour les semences de base ; et
+    - qui répondent sous réserve des dispositions de l’article 11 aux conditions fixées aux annexes II et III pour les semences de base ; et
 
-4. pour lesquelles il a été constaté, lors d’un examen officiel ou, dans le cas des conditions figurant à l’annexe III, soit lors d’un examen officiel, soit lors d’un examen effectué sous contrôle officiel, que les conditions énoncées sous i), ii) et iii) ont été respectées.
+    - pour lesquelles il a été constaté, lors d’un examen officiel ou, dans le cas des conditions figurant à l’annexe III, soit lors d’un examen officiel, soit lors d’un examen effectué sous contrôle officiel, que les conditions énoncées sous i), ii) et iii) ont été respectées.
 
-2. De lignées inbred : les semences
+  - De lignées inbred : les semences
 
-1. qui répondent sous réserve des dispositions de l’article 11 aux conditions fixées aux annexes II et III pour les semences de base ; et
+    - qui répondent sous réserve des dispositions de l’article 11 aux conditions fixées aux annexes II et III pour les semences de base ; et
 
-2. pour lesquelles il a été constaté, lors d’un examen officiel ou, dans le cas des conditions figurant à l’annexe III, soit lors d’un examen officiel, soit lors d’un examen effectué sous contrôle officiel, que les conditions énoncées sous i) ont été respectées.
+    - pour lesquelles il a été constaté, lors d’un examen officiel ou, dans le cas des conditions figurant à l’annexe III, soit lors d’un examen officiel, soit lors d’un examen effectué sous contrôle officiel, que les conditions énoncées sous i) ont été respectées.
 
-3. D’hybrides simples : les semences
+  - D’hybrides simples : les semences
 
-1. qui sont prévues pour la production d’hybrides doubles, d’hybrides à trois voies ou d’hybrides « Top Cross » ;
+    - qui sont prévues pour la production d’hybrides doubles, d’hybrides à trois voies ou d’hybrides « Top Cross » ;
 
-2. qui répondent sous réserve des dispositions de l’article 11 aux conditions prévues aux annexes II et III pour les semences de base ; et
+    - qui répondent sous réserve des dispositions de l’article 11 aux conditions prévues aux annexes II et III pour les semences de base ; et
 
-3. pour lesquelles il a été constaté, lors d’un examen officiel ou, dans le cas des conditions figurant à l’annexe III, soit lors d’un examen officiel, soit lors d’un examen effectué sous contrôle officiel, que les conditions énoncées sous i) et ii) ont été respectées.
+    - pour lesquelles il a été constaté, lors d’un examen officiel ou, dans le cas des conditions figurant à l’annexe III, soit lors d’un examen officiel, soit lors d’un examen effectué sous contrôle officiel, que les conditions énoncées sous i) et ii) ont été respectées.
 
-5. « Semences certifiées (alpiste, autre que ses hybrides, seigle, sorgho, sorgho du Soudan, maïs et hybrides d’avoine, d’orge, de riz, de blé, de blé dur, d’épeautre et de triticale autogame) » : les semences
+- « Semences certifiées (alpiste, autre que ses hybrides, seigle, sorgho, sorgho du Soudan, maïs et hybrides d’avoine, d’orge, de riz, de blé, de blé dur, d’épeautre et de triticale autogame) » : les semences
 
-1. qui proviennent directement de semences de base ou, à la demande de l’obtenteur, de semences d’une génération antérieure aux semences de base qui peuvent répondre, et qui ont répondu, lors d’un examen officiel, aux conditions prévues aux annexes II et III pour les semences de base ;
+  - qui proviennent directement de semences de base ou, à la demande de l’obtenteur, de semences d’une génération antérieure aux semences de base qui peuvent répondre, et qui ont répondu, lors d’un examen officiel, aux conditions prévues aux annexes II et III pour les semences de base ;
 
-2. qui sont prévues pour une production autre que celle de semences de céréales ;
+  - qui sont prévues pour une production autre que celle de semences de céréales ;
 
-3. qui répondent, sous réserve des dispositions de l’article 11, point 2° aux conditions prévues aux annexes II et III pour les semences certifiées ; et
+  - qui répondent, sous réserve des dispositions de l’article 11, point 2° aux conditions prévues aux annexes II et III pour les semences certifiées ; et
 
-4. pour lesquelles il a été constaté, lors d’un examen officiel ou lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a), b) et c) ont été respectées.
+  - pour lesquelles il a été constaté, lors d’un examen officiel ou lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a), b) et c) ont été respectées.
 
-6. « Semences certifiées de la première reproduction (avoine, orge, riz, triticale, blé, blé dur et épeautre, autres que leurs hybrides respectifs) » : les semences
+- « Semences certifiées de la première reproduction (avoine, orge, riz, triticale, blé, blé dur et épeautre, autres que leurs hybrides respectifs) » : les semences
 
-1. qui proviennent directement de semences de base ou, à la demande de l’obtenteur, de semences d’une génération antérieure aux semences de base qui ont répondu, lors d’un examen officiel, aux conditions prévues aux annexes II et III pour les semences de base ;
+  - qui proviennent directement de semences de base ou, à la demande de l’obtenteur, de semences d’une génération antérieure aux semences de base qui ont répondu, lors d’un examen officiel, aux conditions prévues aux annexes II et III pour les semences de base ;
 
-2. qui sont prévues soit pour la production de semences de la catégorie semences certifiées de la deuxième reproduction, soit pour une production autre que celle de semences de céréales ;
+  - qui sont prévues soit pour la production de semences de la catégorie semences certifiées de la deuxième reproduction, soit pour une production autre que celle de semences de céréales ;
 
-3. qui répondent aux conditions prévues aux annexes II et III pour les semences certifiées de la première reproduction ; et
+  - qui répondent aux conditions prévues aux annexes II et III pour les semences certifiées de la première reproduction ; et
 
-4. pour lesquelles il a été constaté, lors d’un examen officiel ou lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a), b) et c) ont été respectées.
+  - pour lesquelles il a été constaté, lors d’un examen officiel ou lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a), b) et c) ont été respectées.
 
-7. « Semences certifiées de la deuxième reproduction (avoine, orge, riz, triticale, blé, blé dur et épeautre, autres que leurs hybrides respectifs) » : les semences
+- « Semences certifiées de la deuxième reproduction (avoine, orge, riz, triticale, blé, blé dur et épeautre, autres que leurs hybrides respectifs) » : les semences
 
-1. qui proviennent directement des semences de base, de semences certifiées de la première reproduction ou, à la demande de l’obtenteur, d’une génération antérieure aux semences de base qui ont répondu, lors d’un examen officiel, aux conditions prévues aux annexes II et III pour les semences de base ;
+  - qui proviennent directement des semences de base, de semences certifiées de la première reproduction ou, à la demande de l’obtenteur, d’une génération antérieure aux semences de base qui ont répondu, lors d’un examen officiel, aux conditions prévues aux annexes II et III pour les semences de base ;
 
-2. qui sont prévues pour une production autre que celle de semences de céréales ;
+  - qui sont prévues pour une production autre que celle de semences de céréales ;
 
-3. qui répondent aux conditions prévues aux annexes II et III pour les semences certifiées de la deuxième reproduction ; et
+  - qui répondent aux conditions prévues aux annexes II et III pour les semences certifiées de la deuxième reproduction ; et
 
-4. pour lesquelles il a été constaté, lors d’un examen officiel ou lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a), b) et c) ont été respectées.
+  - pour lesquelles il a été constaté, lors d’un examen officiel ou lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a), b) et c) ont été respectées.
 
-8. « Contrôle officiel » : l’inspection des cultures sur pied et l’examen des semences après la récolte, effectués par un des organismes officiels de contrôle visés à l’article 5, paragraphe 1 er de la loi du 18 mars 2008 sur la commercialisation des semences et plants ainsi que sur la coexistence des cultures génétiquement modifiées, conventionnelles et biologiques.
+- « Contrôle officiel » : l’inspection des cultures sur pied et l’examen des semences après la récolte, effectués par un des organismes officiels de contrôle visés à l’article 5, paragraphe 1 er de la loi du 18 mars 2008 sur la commercialisation des semences et plants ainsi que sur la coexistence des cultures génétiquement modifiées, conventionnelles et biologiques.
 
 <a id="art-4"></a>
 ## Art. 4.
 
 Lorsque l’examen sous contrôle officiel visé à l’article 3, point 3°, lettre d), point 4°, lettre c), point 5°, lettre a), chiffre iv), point 5°, lettre b), chiffre ii), point 5°, lettre c), chiffre iii), point 6°, lettre d), point 7°, lettre d) et point 8°, lettre d) est effectué, les conditions suivantes sont respectées :
 
-1. Inspection sur pied
+- Inspection sur pied
 
-1. Les inspecteurs :
+  - Les inspecteurs :
 
-1. possèdent les qualifications techniques nécessaires ;
+    - possèdent les qualifications techniques nécessaires ;
 
-2. ne tirent aucun profit personnel de la pratique des inspections ;
+    - ne tirent aucun profit personnel de la pratique des inspections ;
 
-3. sont officiellement agréés par l’autorité de certification des semences, cet agrément comportant soit une prestation de serment, soit la signature d’un engagement écrit de se conformer aux règles régissant les examens officiels ;
+    - sont officiellement agréés par l’autorité de certification des semences, cet agrément comportant soit une prestation de serment, soit la signature d’un engagement écrit de se conformer aux règles régissant les examens officiels ;
 
-4. effectuent les inspections sous contrôle officiel conformément aux règles applicables aux inspections officielles.
+    - effectuent les inspections sous contrôle officiel conformément aux règles applicables aux inspections officielles.
 
-2. La culture de semences à inspecter est réalisée à partir de semences qui ont subi un contrôle officiel à posteriori, dont les résultats ont été satisfaisants ;
+  - La culture de semences à inspecter est réalisée à partir de semences qui ont subi un contrôle officiel à posteriori, dont les résultats ont été satisfaisants ;
 
-3. Une proportion des cultures de semences fait l’objet d’une inspection par des inspecteurs officiels. Cette proportion est de 5 pour cent au moins ;
+  - Une proportion des cultures de semences fait l’objet d’une inspection par des inspecteurs officiels. Cette proportion est de 5 pour cent au moins ;
 
-4. Une partie des échantillons des lots de semences récoltés à partir des cultures de semences est prélevée pour contrôle officiel a posteriori et, le cas échéant, pour contrôle officiel en laboratoire de l’identité et de la pureté variétales ;
+  - Une partie des échantillons des lots de semences récoltés à partir des cultures de semences est prélevée pour contrôle officiel a posteriori et, le cas échéant, pour contrôle officiel en laboratoire de l’identité et de la pureté variétales ;
 
-5. Lorsque des inspecteurs officiellement agréés transgressent, délibérément ou par négligence, les règles régissant les examens officiels, l’agrément visé à la lettre a), chiffre iii) est retiré. Dans ce cas, toute certification des semences examinées est annulée, à moins qu’il puisse être démontré que les semences répondent quand même à l’ensemble des conditions requises.
+  - Lorsque des inspecteurs officiellement agréés transgressent, délibérément ou par négligence, les règles régissant les examens officiels, l’agrément visé à la lettre a), chiffre iii) est retiré. Dans ce cas, toute certification des semences examinées est annulée, à moins qu’il puisse être démontré que les semences répondent quand même à l’ensemble des conditions requises.
 
-2. Essais de semences
+- Essais de semences
 
-1. Les essais des semences sont effectués par les laboratoires d’essai de semences qui ont été agréés à cet effet par l’autorité de certification des semences, dans les conditions prévues aux lettres b) à d).
+  - Les essais des semences sont effectués par les laboratoires d’essai de semences qui ont été agréés à cet effet par l’autorité de certification des semences, dans les conditions prévues aux lettres b) à d).
 
-2. Le laboratoire chargé des essais de semences doit disposer d’un analyste de semences en chef assumant la responsabilité directe des opérations techniques du laboratoire et possédant les qualifications requises pour la gestion technique d’un laboratoire d’essai de semences. Les analystes de semences du laboratoire doivent avoir la qualification technique nécessaire, obtenue dans le cadre de cours de formation organisés dans les conditions applicables aux analystes officiels de semences et sanctionnée par des examens officiels. Le laboratoire doit être installé dans des locaux et doté d’un équipement qui sont officiellement considérés par l’autorité de certification des semences comme satisfaisants aux fins de l’essai des semences, dans le champ d’application de l’autorisation. Il procède aux essais des semences conformément aux méthodes internationales en vigueur.
+  - Le laboratoire chargé des essais de semences doit disposer d’un analyste de semences en chef assumant la responsabilité directe des opérations techniques du laboratoire et possédant les qualifications requises pour la gestion technique d’un laboratoire d’essai de semences. Les analystes de semences du laboratoire doivent avoir la qualification technique nécessaire, obtenue dans le cadre de cours de formation organisés dans les conditions applicables aux analystes officiels de semences et sanctionnée par des examens officiels. Le laboratoire doit être installé dans des locaux et doté d’un équipement qui sont officiellement considérés par l’autorité de certification des semences comme satisfaisants aux fins de l’essai des semences, dans le champ d’application de l’autorisation. Il procède aux essais des semences conformément aux méthodes internationales en vigueur.
 
-3. Le laboratoire chargé des essais de semences est :
+  - Le laboratoire chargé des essais de semences est :
 
-1. un laboratoire indépendant ; ou
+    - un laboratoire indépendant ; ou
 
-2. un laboratoire appartenant à une entreprise semencière. Dans le cas visé au point ii), le laboratoire ne peut effectuer des essais de semences que sur des lots de semences produits au nom de l’entreprise semencière à laquelle il appartient, sauf dispositions contraires convenues entre l’entreprise semencière à laquelle il appartient, le demandeur de la certification et l’autorité responsable de la certification des semences.
+    - un laboratoire appartenant à une entreprise semencière. Dans le cas visé au point ii), le laboratoire ne peut effectuer des essais de semences que sur des lots de semences produits au nom de l’entreprise semencière à laquelle il appartient, sauf dispositions contraires convenues entre l’entreprise semencière à laquelle il appartient, le demandeur de la certification et l’autorité responsable de la certification des semences.
 
-4. Les activités d’essai des semences du laboratoire sont soumises à un contrôle approprié de l’autorité de certification des semences.
+  - Les activités d’essai des semences du laboratoire sont soumises à un contrôle approprié de l’autorité de certification des semences.
 
-5. Aux fins du contrôle visé à la lettre d), une proportion déterminée des lots de semences présentés en vue de la certification officielle fait l’objet d’un essai de contrôle sous forme d’un essai officiel des semences. Cette proportion est, par principe, répartie aussi régulièrement que possible entre les personnes physiques et morales qui présentent des semences à la certification, et entre les espèces présentées, mais peut aussi viser à éliminer certains doutes. Cette proportion est de 5 pour cent au moins.
+  - Aux fins du contrôle visé à la lettre d), une proportion déterminée des lots de semences présentés en vue de la certification officielle fait l’objet d’un essai de contrôle sous forme d’un essai officiel des semences. Cette proportion est, par principe, répartie aussi régulièrement que possible entre les personnes physiques et morales qui présentent des semences à la certification, et entre les espèces présentées, mais peut aussi viser à éliminer certains doutes. Cette proportion est de 5 pour cent au moins.
 
-6. Lorsque des laboratoires d’essais de semences officiellement agréés transgressent, délibérément ou par négligence, les règles régissant les examens officiels, l’agrément visé à la lettre a) est retiré. Dans ce cas, toute certification des semences examinées est annulée, à moins qu’il puisse être démontré que les semences répondent quand même à l’ensemble des conditions requises.
+  - Lorsque des laboratoires d’essais de semences officiellement agréés transgressent, délibérément ou par négligence, les règles régissant les examens officiels, l’agrément visé à la lettre a) est retiré. Dans ce cas, toute certification des semences examinées est annulée, à moins qu’il puisse être démontré que les semences répondent quand même à l’ensemble des conditions requises.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -213,11 +213,11 @@ Les semences sont issues de semences produites selon des règles de sélection c
 
 (3)
 
-1. Les semences, sauf celles d’ Oryza sativa , satisfont aux exigences relatives à la certification des semences certifiées, à l’exclusion de celles afférentes à la pureté variétale et à l’examen officiel ou sous contrôle officiel.
+- Les semences, sauf celles d’ Oryza sativa , satisfont aux exigences relatives à la certification des semences certifiées, à l’exclusion de celles afférentes à la pureté variétale et à l’examen officiel ou sous contrôle officiel.
 
-2. Les semences d’ Oryza sativa satisfont aux exigences relatives à la certification des semences certifiées de la deuxième génération, à l’exclusion de celles afférentes à la pureté variétale et à l’examen officiel ou sous contrôle officiel.
+- Les semences d’ Oryza sativa satisfont aux exigences relatives à la certification des semences certifiées de la deuxième génération, à l’exclusion de celles afférentes à la pureté variétale et à l’examen officiel ou sous contrôle officiel.
 
-3. Les semences doivent présenter une pureté variétale suffisante.
+- Les semences doivent présenter une pureté variétale suffisante.
 
 (4)
 
@@ -236,11 +236,11 @@ Aux fins des analyses visées au paragraphe 5, les échantillons sont prélevés
 
 Les semences d’une variété de conservation sont uniquement commercialisées aux conditions suivantes :
 
-1. Les semences ont été produites uniquement dans la région d’origine de la variété en question ou d’une région visée à l’article 6, paragraphe 4.
+- Les semences ont été produites uniquement dans la région d’origine de la variété en question ou d’une région visée à l’article 6, paragraphe 4.
 
-2. La commercialisation est limitée à la région d’origine de la variété.
+- La commercialisation est limitée à la région d’origine de la variété.
 
-3. Pour chaque variété de conservation, la quantité de semences commercialisée n’excède pas la quantité nécessaire pour ensemencer 100 ha. Cependant pour une espèce de céréale donnée, la quantité totale de semences de variétés de conservation commercialisée n’excède pas 10 pour cent de la quantité de semences utilisée annuellement sur le territoire national. Si ce pourcentage correspond à une quantité inférieure à celle nécessaire pour ensemencer 100 ha, la quantité maximale de semences de variétés de conservation utilisée annuellement sur le territoire national pour une espèce de céréale donnée, peut être accrue de manière à équivaloir la quantité nécessaire pour ensemencer 100 ha. À cette fin les producteurs doivent indiquer à l’organisme de contrôle visé à l’article 4, avant le début de chaque saison de production, la superficie et la localisation des parcelles destinées à la production de semences de variétés de conservation. Si, sur base de ces informations, les quantités maximales fixées précédemment risquent d’être dépassées, un quota, qui peut être commercialisé durant la saison de production en question, est attribué à chaque producteur.
+- Pour chaque variété de conservation, la quantité de semences commercialisée n’excède pas la quantité nécessaire pour ensemencer 100 ha. Cependant pour une espèce de céréale donnée, la quantité totale de semences de variétés de conservation commercialisée n’excède pas 10 pour cent de la quantité de semences utilisée annuellement sur le territoire national. Si ce pourcentage correspond à une quantité inférieure à celle nécessaire pour ensemencer 100 ha, la quantité maximale de semences de variétés de conservation utilisée annuellement sur le territoire national pour une espèce de céréale donnée, peut être accrue de manière à équivaloir la quantité nécessaire pour ensemencer 100 ha. À cette fin les producteurs doivent indiquer à l’organisme de contrôle visé à l’article 4, avant le début de chaque saison de production, la superficie et la localisation des parcelles destinées à la production de semences de variétés de conservation. Si, sur base de ces informations, les quantités maximales fixées précédemment risquent d’être dépassées, un quota, qui peut être commercialisé durant la saison de production en question, est attribué à chaque producteur.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -264,13 +264,13 @@ Les fournisseurs de semences de variétés de conservation, opérant sur le terr
 
 Les semences de céréales ne peuvent être commercialisées que si elles ont été officiellement certifiées en tant que :
 
-1. semences de base ;
+- semences de base ;
 
-2. semences certifiées ;
+- semences certifiées ;
 
-3. semences certifiées de la première génération ; ou
+- semences certifiées de la première génération ; ou
 
-4. semences certifiées de la deuxième génération.
+- semences certifiées de la deuxième génération.
 
 Elles doivent en outre répondre aux conditions fixées par le présent règlement.
 
@@ -283,18 +283,18 @@ Les examens officiels sont effectués selon les méthodes internationales en usa
 
 Sans préjudice des dispositions de l’article 9 paragraphe 1er, peuvent être commercialisées :
 
-1. les semences de sélection de générations antérieures aux semences de base ; et
+- les semences de sélection de générations antérieures aux semences de base ; et
 
-2. les semences brutes, commercialisées pour la transformation, sous réserve que leur identité soit garantie.
+- les semences brutes, commercialisées pour la transformation, sous réserve que leur identité soit garantie.
 
 <a id="art-11"></a>
 ## Art. 11.
 
 Par dérogation aux dispositions de l’article 9,
 
-1. la certification officielle et la commercialisation de semences de base ne répondant pas aux conditions prévues à l’annexe III en ce qui concerne la faculté germinative peut être autorisée. À cette fin, toutes dispositions utiles sont prises pour que le fournisseur garantisse une faculté germinative déterminée qu’il indique pour la commercialisation, sur une étiquette spéciale portant ses nom et adresse, et le numéro de référence du lot.
+- la certification officielle et la commercialisation de semences de base ne répondant pas aux conditions prévues à l’annexe III en ce qui concerne la faculté germinative peut être autorisée. À cette fin, toutes dispositions utiles sont prises pour que le fournisseur garantisse une faculté germinative déterminée qu’il indique pour la commercialisation, sur une étiquette spéciale portant ses nom et adresse, et le numéro de référence du lot.
 
-2. dans l’intérêt d’un approvisionnement rapide en semences, la certification officielle ou la commercialisation jusqu’au premier destinataire commercial des semences des catégories semences de base ou semences certifiées peut être autorisée, pour lesquelles ne serait pas terminé l’examen officiel destiné à contrôler le respect des conditions prévues à l’annexe III en ce qui concerne la faculté germinative. La certification n’est accordée que sur présentation d’un rapport d’analyse provisoire des semences et à condition que soient indiqués le nom et l’adresse du premier destinataire ; la faculté germinative constatée lors de l’analyse provisoire doit être garantie par le fournisseur ; l’indication de cette faculté germinative, doit être garantie par le fournisseur ; l’indication de cette faculté germinative doit figurer, pour la commercialisation, sur une étiquette spéciale portant les nom et adresse du fournisseur et le numéro de référence du lot.
+- dans l’intérêt d’un approvisionnement rapide en semences, la certification officielle ou la commercialisation jusqu’au premier destinataire commercial des semences des catégories semences de base ou semences certifiées peut être autorisée, pour lesquelles ne serait pas terminé l’examen officiel destiné à contrôler le respect des conditions prévues à l’annexe III en ce qui concerne la faculté germinative. La certification n’est accordée que sur présentation d’un rapport d’analyse provisoire des semences et à condition que soient indiqués le nom et l’adresse du premier destinataire ; la faculté germinative constatée lors de l’analyse provisoire doit être garantie par le fournisseur ; l’indication de cette faculté germinative, doit être garantie par le fournisseur ; l’indication de cette faculté germinative doit figurer, pour la commercialisation, sur une étiquette spéciale portant les nom et adresse du fournisseur et le numéro de référence du lot.
 
 Ces dispositions ne s’appliquent pas aux semences importées des pays tiers sauf les cas prévus à l’article 27 en ce qui concerne la multiplication hors de l’Union européenne.
 
@@ -303,9 +303,9 @@ Ces dispositions ne s’appliquent pas aux semences importées des pays tiers sa
 
 Sans préjudice des dispositions de l’article 9, paragraphe 1er, il est autorisé de commercialiser :
 
-1. de petites quantités de semences, dans des buts scientifiques ou pour des travaux de sélection ;
+- de petites quantités de semences, dans des buts scientifiques ou pour des travaux de sélection ;
 
-2. des quantités appropriées de semences destinées à d’autres fins, d’essai ou d’expérimentation, dans la mesure où elles appartiennent à des variétés pour lesquelles une demande d’inscription au catalogue a été déposée.
+- des quantités appropriées de semences destinées à d’autres fins, d’essai ou d’expérimentation, dans la mesure où elles appartiennent à des variétés pour lesquelles une demande d’inscription au catalogue a été déposée.
 
 Dans le cas du matériel génétiquement modifié, cette autorisation ne peut être accordée que si toutes les mesures appropriées ont été prises pour éviter les risques pour la santé humaine et l’environnement. L’évaluation des risques pour la santé humaine et l’environnement à laquelle il doit être procédé à cet égard, doit être effectuée selon les dispositions de la loi modifiée du 13 janvier 1997 relative au contrôle de l’utilisation et de la dissémination des organismes génétiquement modifiés.
 
@@ -325,23 +325,23 @@ Au cours de la procédure de contrôle des variétés et de l’examen des semen
 
 Lorsque le prélèvement de semences sous contrôle officiel prévu au paragraphe 1er est effectué, les conditions suivantes sont respectées :
 
-1. l’échantillonnage des semences est effectué par des échantillonneurs agréés à cet effet par l’autorité de certification des semences dans les conditions prévues aux points 2°, 3° et 4° ;
+- l’échantillonnage des semences est effectué par des échantillonneurs agréés à cet effet par l’autorité de certification des semences dans les conditions prévues aux points 2°, 3° et 4° ;
 
-2. les échantillonneurs doivent avoir la qualification technique nécessaire, obtenue dans le cadre de cours de formation organisés dans les conditions applicables aux échantillonneurs officiels de semences et sanctionnée par des examens officiels. Ils procèdent à l’échantillonnage des semences conformément aux méthodes internationales en vigueur ;
+- les échantillonneurs doivent avoir la qualification technique nécessaire, obtenue dans le cadre de cours de formation organisés dans les conditions applicables aux échantillonneurs officiels de semences et sanctionnée par des examens officiels. Ils procèdent à l’échantillonnage des semences conformément aux méthodes internationales en vigueur ;
 
-3. les échantillonneurs de semences sont :
+- les échantillonneurs de semences sont :
 
-1. des personnes physiques indépendantes ;
+  - des personnes physiques indépendantes ;
 
-2. des personnes employées par des personnes physiques ou morales dont les activités n’impliquent pas la production de semences, la culture de semences, le traitement de semences ou la commercialisation de semences ; ou
+  - des personnes employées par des personnes physiques ou morales dont les activités n’impliquent pas la production de semences, la culture de semences, le traitement de semences ou la commercialisation de semences ; ou
 
-3. des personnes employées par des personnes physiques ou morales dont les activités impliquent la production de semences, la culture de semences, le traitement de semences, ou la commercialisation de semences. Dans ce cas, un échantillonneur ne peut prélever des échantillons que sur des lots de semences produits au nom de son employeur, sauf dispositions contraires convenues entre son employeur, le demandeur d’une certification et l’autorité de certification des semences ;
+  - des personnes employées par des personnes physiques ou morales dont les activités impliquent la production de semences, la culture de semences, le traitement de semences, ou la commercialisation de semences. Dans ce cas, un échantillonneur ne peut prélever des échantillons que sur des lots de semences produits au nom de son employeur, sauf dispositions contraires convenues entre son employeur, le demandeur d’une certification et l’autorité de certification des semences ;
 
-4. le travail des échantillonneurs de semences est soumis à un contrôle approprié exercé par l’autorité responsable de la certification des semences. En cas d’échantillonnage automatique, il y a lieu d’appliquer les procédures appropriées, lesquelles font l’objet d’un contrôle officiel ;
+- le travail des échantillonneurs de semences est soumis à un contrôle approprié exercé par l’autorité responsable de la certification des semences. En cas d’échantillonnage automatique, il y a lieu d’appliquer les procédures appropriées, lesquelles font l’objet d’un contrôle officiel ;
 
-5. aux fins du contrôle visé au point 4°, une proportion des lots de semences présentés en vue de la certification officielle fait l’objet d’un essai de contrôle par des échantillonneurs de semences officiels. Cette proportion est, par principe, répartie aussi régulièrement que possible entre les personnes physiques et morales qui présentent des semences à la certification, et entre les espèces présentées, mais peut aussi viser à éliminer certains doutes. Cette proportion est de 5 pour cent au moins. Ces essais de contrôle ne s’appliquent pas à l’échantillonnage automatique. Les échantillons de semences prélevés officiellement sont comparés avec ceux du même lot de semences prélevé sous contrôle officiel ;
+- aux fins du contrôle visé au point 4°, une proportion des lots de semences présentés en vue de la certification officielle fait l’objet d’un essai de contrôle par des échantillonneurs de semences officiels. Cette proportion est, par principe, répartie aussi régulièrement que possible entre les personnes physiques et morales qui présentent des semences à la certification, et entre les espèces présentées, mais peut aussi viser à éliminer certains doutes. Cette proportion est de 5 pour cent au moins. Ces essais de contrôle ne s’appliquent pas à l’échantillonnage automatique. Les échantillons de semences prélevés officiellement sont comparés avec ceux du même lot de semences prélevé sous contrôle officiel ;
 
-6. lorsque des échantillonneurs de semences officiellement agréés transgressent, délibérément ou par négligence, les règles régissant les examens officiels, l’agrément visé au point 1° est retiré. Dans ce cas, toute certification des semences échantillonnées est annulée, à moins qu’il puisse être démontré que les semences répondent quand même à l’ensemble des conditions requises.
+- lorsque des échantillonneurs de semences officiellement agréés transgressent, délibérément ou par négligence, les règles régissant les examens officiels, l’agrément visé au point 1° est retiré. Dans ce cas, toute certification des semences échantillonnées est annulée, à moins qu’il puisse être démontré que les semences répondent quand même à l’ensemble des conditions requises.
 
 (3)
 
@@ -372,27 +372,27 @@ Afin de garantir que les emballages sont scellés conformément au paragraphe 2,
 
 Les emballages des semences de variétés de conservation doivent porter une étiquette du fournisseur ou une inscription imprimée ou un cachet comprenant au moins les inscriptions suivantes :
 
-1. la mention « règles et normes CE » ;
+- la mention « règles et normes CE » ;
 
-2. le nom et l’adresse de la personne responsable de l’apposition des étiquettes ou sa marque d’identification ;
+- le nom et l’adresse de la personne responsable de l’apposition des étiquettes ou sa marque d’identification ;
 
-3. l’année de la fermeture, exprimée par la mention « fermé… » (année) ou l’année du dernier prélèvement d’échantillons aux fins de la dernière analyse de germination, exprimée par la mention « échantillonné… » (année) ;
+- l’année de la fermeture, exprimée par la mention « fermé… » (année) ou l’année du dernier prélèvement d’échantillons aux fins de la dernière analyse de germination, exprimée par la mention « échantillonné… » (année) ;
 
-4. l’espèce ;
+- l’espèce ;
 
-5. la dénomination de la variété de conservation ;
+- la dénomination de la variété de conservation ;
 
-6. la mention « variété de conservation » ;
+- la mention « variété de conservation » ;
 
-7. la région d’origine ;
+- la région d’origine ;
 
-8. si la région de production des semences est différente de la région d’origine, la région de production des semences ;
+- si la région de production des semences est différente de la région d’origine, la région de production des semences ;
 
-9. le numéro de référence donné au lot par la personne responsable de l’apposition des étiquettes ;
+- le numéro de référence donné au lot par la personne responsable de l’apposition des étiquettes ;
 
-10. le poids net ou brut déclaré ou le nombre de semences déclaré ;
+- le poids net ou brut déclaré ou le nombre de semences déclaré ;
 
-11. en cas d’indication du poids et d’emploi de pesticides granulés, de substances d’enrobage ou d’autres additifs solides, la nature du traitement chimique ou de l’additif, ainsi que le rapport approximatif entre le poids de glomérules ou de semences pures et le poids total.
+- en cas d’indication du poids et d’emploi de pesticides granulés, de substances d’enrobage ou d’autres additifs solides, la nature du traitement chimique ou de l’additif, ainsi que le rapport approximatif entre le poids de glomérules ou de semences pures et le poids total.
 
 <a id="art-18"></a>
 ## Art. 18.
@@ -420,9 +420,9 @@ Des dérogations au paragraphe 1er peuvent être prévues pour les petits emball
 
 Les emballages de semences de base et de semences certifiées de toute nature
 
-1. sont pourvus, à l’extérieur, d’une étiquette officielle qui n’a pas encore été utilisée, qui est conforme aux conditions fixées à l’annexe V et dont les indications sont rédigées dans une des langues officielles de l’Union européenne. La couleur de l’étiquette est blanche pour les semences de base, bleue pour les semences certifiées et les semences certifiées de la première reproduction et rouge pour les semences certifiées de la deuxième reproduction. Lorsque l’étiquette est pourvue d’un œillet, sa fixation est assurée dans tous les cas par un scellé officiel. Si, dans les cas prévus à l’article 11, alinéa 1er, point 1°, les semences de base ou les semences de maïs ne répondent pas aux conditions fixées à l’annexe II quant à la faculté germinative, il en est fait mention sur l’étiquette. Les étiquettes officielles peuvent être adhésives. Les indications prescrites peuvent également être apposées directement sur l’emballage, de manière indélébile selon le modèle de l’étiquette, sous contrôle officiel ;
+- sont pourvus, à l’extérieur, d’une étiquette officielle qui n’a pas encore été utilisée, qui est conforme aux conditions fixées à l’annexe V et dont les indications sont rédigées dans une des langues officielles de l’Union européenne. La couleur de l’étiquette est blanche pour les semences de base, bleue pour les semences certifiées et les semences certifiées de la première reproduction et rouge pour les semences certifiées de la deuxième reproduction. Lorsque l’étiquette est pourvue d’un œillet, sa fixation est assurée dans tous les cas par un scellé officiel. Si, dans les cas prévus à l’article 11, alinéa 1er, point 1°, les semences de base ou les semences de maïs ne répondent pas aux conditions fixées à l’annexe II quant à la faculté germinative, il en est fait mention sur l’étiquette. Les étiquettes officielles peuvent être adhésives. Les indications prescrites peuvent également être apposées directement sur l’emballage, de manière indélébile selon le modèle de l’étiquette, sous contrôle officiel ;
 
-2. contiennent une notice officielle de la couleur de l’étiquette et reproduisant au moins les indications prévues à l’annexe V, partie A, points 5, 6 et 7 pour l’étiquette. La notice est constituée de façon qu’elle ne puisse être confondue avec l’étiquette visée à la lettre a). La notice n’est pas indispensable lorsque les indications sont apposées de manière indélébile sur l’emballage ou lorsque, conformément à la lettre a), une étiquette adhésive ou une étiquette d’un matériel indéchirable sont utilisées.
+- contiennent une notice officielle de la couleur de l’étiquette et reproduisant au moins les indications prévues à l’annexe V, partie A, points 5, 6 et 7 pour l’étiquette. La notice est constituée de façon qu’elle ne puisse être confondue avec l’étiquette visée à la lettre a). La notice n’est pas indispensable lorsque les indications sont apposées de manière indélébile sur l’emballage ou lorsque, conformément à la lettre a), une étiquette adhésive ou une étiquette d’un matériel indéchirable sont utilisées.
 
 (2)
 
@@ -433,9 +433,9 @@ Des dérogations au paragraphe 1er peuvent être prévues pour les petits emball
 
 Les dispositions des articles 18 et 19 en ce qui concerne l’emballage, le système de fermeture et de marquage ne sont pas applicables à la commercialisation de petites quantités au dernier utilisateur, sous réserve des dispositions ci-après :
 
-1. dans un même établissement de vente, il ne peut se trouver en aucun moment plus d’un emballage ou récipient ouvert renfermant des semences de la même variété et catégorie ; l’étiquette et le système de fermeture d’origine doivent être fixés visiblement sur l’emballage ou le récipient ouvert ;
+- dans un même établissement de vente, il ne peut se trouver en aucun moment plus d’un emballage ou récipient ouvert renfermant des semences de la même variété et catégorie ; l’étiquette et le système de fermeture d’origine doivent être fixés visiblement sur l’emballage ou le récipient ouvert ;
 
-2. si la quantité des semences commercialisées dépasse celle prévue pour les petits emballages, la facture délivrée à l’acheteur au moment de la vente doit porter le nom ou la raison sociale et l’adresse du vendeur, ainsi que le nom de l’espèce, le nom de la variété et la catégorie des semences ; la facture portant les indications relevées ci-dessus, doit accompagner les semences de leur lieu d’entreposage à celui de leur destination.
+- si la quantité des semences commercialisées dépasse celle prévue pour les petits emballages, la facture délivrée à l’acheteur au moment de la vente doit porter le nom ou la raison sociale et l’adresse du vendeur, ainsi que le nom de l’espèce, le nom de la variété et la catégorie des semences ; la facture portant les indications relevées ci-dessus, doit accompagner les semences de leur lieu d’entreposage à celui de leur destination.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -446,11 +446,11 @@ Les emballages de semences de base ou de semences certifiées de toute nature pe
 
 L’étiquette du fournisseur doit porter de façon obligatoire la mention « Informations non officielles du fournisseur ». Les indications à faire figurer de façon facultative se limitent à :
 
-1. faculté germinative et poids des mille grains dans le cas de semences certifiées selon les modalités fixées à l’article 42 ;
+- faculté germinative et poids des mille grains dans le cas de semences certifiées selon les modalités fixées à l’article 42 ;
 
-2. nom et adresse du fournisseur ;
+- nom et adresse du fournisseur ;
 
-3. code-barres du fournisseur.
+- code-barres du fournisseur.
 
 (2)
 
@@ -491,27 +491,27 @@ Les semences commercialisées, soit obligatoirement, soit facultativement, confo
 
 Les conditions dans lesquelles des semences de sélection de générations antérieures aux semences de base peuvent être commercialisées conformément à l’article 10, point 1° sont les suivantes :
 
-1. elles ont été contrôlées officiellement par les organismes de contrôle compétents pour la certification, conformément aux dispositions applicables à la certification des semences de base ;
+- elles ont été contrôlées officiellement par les organismes de contrôle compétents pour la certification, conformément aux dispositions applicables à la certification des semences de base ;
 
-2. elles sont emballées conformément au présent règlement et ;
+- elles sont emballées conformément au présent règlement et ;
 
-3. les emballages portent une étiquette officielle donnant au moins les indications suivantes :
+- les emballages portent une étiquette officielle donnant au moins les indications suivantes :
 
-1. service de certification et État membre, ou leur sigle distinctif ;
+  - service de certification et État membre, ou leur sigle distinctif ;
 
-2. numéro de référence du lot ;
+  - numéro de référence du lot ;
 
-3. mois et année de fermeture ; ou
+  - mois et année de fermeture ; ou
 
-4. mois et année du dernier prélèvement officiel d’échantillons en vue de la certification ;
+  - mois et année du dernier prélèvement officiel d’échantillons en vue de la certification ;
 
-5. espèce, indiquée au moins sous sa dénomination botanique, qui peut figurer sous forme abrégée et sans les noms des auteurs, en caractères latins ;
+  - espèce, indiquée au moins sous sa dénomination botanique, qui peut figurer sous forme abrégée et sans les noms des auteurs, en caractères latins ;
 
-6. variété indiquée au moins en caractères latins ;
+  - variété indiquée au moins en caractères latins ;
 
-7. mention « semences prébase » ;
+  - mention « semences prébase » ;
 
-8. nombre de générations précédant les semences de la catégorie semences certifiées ou semences certifiées de la première génération.
+  - nombre de générations précédant les semences de la catégorie semences certifiées ou semences certifiées de la première génération.
 
 L’étiquette est de couleur blanche, barrée en diagonale d’un trait violet.
 
@@ -528,9 +528,9 @@ Lorsque, dans ces cas, les semences ont été produites directement à partir de
 
 Les semences de céréales qui ont été récoltées dans l’Union européenne et sont destinées à être certifiées conformément aux dispositions du paragraphe 1er :
 
-1. sont emballées et étiquetées à l’aide d’une étiquette officielle remplissant les conditions fixées à l’annexe VI, parties A et B, conformément aux dispositions prévues par l’article 18 paragraphe 1 er ; et
+- sont emballées et étiquetées à l’aide d’une étiquette officielle remplissant les conditions fixées à l’annexe VI, parties A et B, conformément aux dispositions prévues par l’article 18 paragraphe 1 er ; et
 
-2. sont accompagnées d’un document officiel remplissant les conditions prévues à l’annexe VI, partie C.
+- sont accompagnées d’un document officiel remplissant les conditions prévues à l’annexe VI, partie C.
 
 Les dispositions du premier tiret relatives à l’emballage et l’étiquetage ne s’appliquent pas si les autorités responsables de l’inspection sur pied, celles établissant les documents pour ces semences non définitivement certifiées en vue de leur certification et celles responsables de la certification sont les mêmes ou si elles s’accordent sur cette exemption.
 
@@ -538,15 +538,15 @@ Les dispositions du premier tiret relatives à l’emballage et l’étiquetage 
 
 Les semences de céréales récoltées dans un pays tiers doivent, sur demande, être officiellement certifiées si :
 
-1. elles ont été produites directement à partir de :
+- elles ont été produites directement à partir de :
 
-1. semences de base ou de semences certifiées officiellement de la première multiplication soit dans un ou plusieurs États membres, soit dans un pays tiers auquel l’équivalence a été accordée conformément aux prescriptions européennes ;
+  - semences de base ou de semences certifiées officiellement de la première multiplication soit dans un ou plusieurs États membres, soit dans un pays tiers auquel l’équivalence a été accordée conformément aux prescriptions européennes ;
 
-2. croisements de semences de base officiellement certifiées dans un État membre avec des semences de base officiellement certifiées dans un pays tiers visé à la lettre a) ;
+  - croisements de semences de base officiellement certifiées dans un État membre avec des semences de base officiellement certifiées dans un pays tiers visé à la lettre a) ;
 
-2. elles ont été soumises à une inspection sur pied satisfaisant aux conditions prévues dans une décision d’équivalence prise conformément aux prescriptions européennes pour la catégorie concernée ;
+- elles ont été soumises à une inspection sur pied satisfaisant aux conditions prévues dans une décision d’équivalence prise conformément aux prescriptions européennes pour la catégorie concernée ;
 
-3. il a été constaté, lors d’un examen officiel, que les conditions fixées à l’annexe III pour la même catégorie ont été respectées.
+- il a été constaté, lors d’un examen officiel, que les conditions fixées à l’annexe III pour la même catégorie ont été respectées.
 
 <a id="art-28"></a>
 ## Art. 28.
@@ -559,19 +559,19 @@ Les semences de céréales sont officiellement contrôlées au cours de la comme
 
 Sans préjudice de la libre circulation des semences à l’intérieur de l’Union européenne, lors de la commercialisation de quantités de semences supérieurs à 2 kilogrammes provenant d’un pays tiers les indications suivantes doivent être fournies :
 
-1. espèce ;
+- espèce ;
 
-2. variété ;
+- variété ;
 
-3. catégorie ;
+- catégorie ;
 
-4. pays de production et service de contrôle officiel ;
+- pays de production et service de contrôle officiel ;
 
-5. pays d’expédition ;
+- pays d’expédition ;
 
-6. importateur ;
+- importateur ;
 
-7. quantité de semences.
+- quantité de semences.
 
 #### Chapitre 2 Production, contrôle et certification des semences de céréales
 
@@ -590,11 +590,11 @@ Les semences de la catégorie semences de base de production luxembourgeoise, so
 
 Peuvent seules être présentées au contrôle :
 
-1. les variétés de céréales inscrites à la liste officielle des variétés mentionnées à l’article 10 de la loi précitée du 18 mars 2008 ;
+- les variétés de céréales inscrites à la liste officielle des variétés mentionnées à l’article 10 de la loi précitée du 18 mars 2008 ;
 
-2. les variétés cultivées exclusivement pour la production de semences destinées à l’exportation vers des pays tiers ;
+- les variétés cultivées exclusivement pour la production de semences destinées à l’exportation vers des pays tiers ;
 
-3. les nouvelles obtentions en voie d’inscription, ou du matériel de reproduction, servant à des travaux de sélection.
+- les nouvelles obtentions en voie d’inscription, ou du matériel de reproduction, servant à des travaux de sélection.
 
 <a id="art-32"></a>
 ## Art. 32.
@@ -618,9 +618,9 @@ Elles doivent indiquer l’adresse exacte du producteur, le lieu-dit des champs 
 
 La certification des semences de céréales donne lieu au paiement d’une redevance à verser à l’Administration des services techniques de l’agriculture qui est fixée comme suit :
 
-1. pour l’inscription des surfaces au contrôle : 0,10 euros par are de surface inscrite au contrôle, avec un minimum de 5 euros par inscription ;
+- pour l’inscription des surfaces au contrôle : 0,10 euros par are de surface inscrite au contrôle, avec un minimum de 5 euros par inscription ;
 
-2. pour le plombage et l’étiquetage : 0,2 euros par 100 kilogrammes de semences.
+- pour le plombage et l’étiquetage : 0,2 euros par 100 kilogrammes de semences.
 
 <a id="art-36"></a>
 ## Art. 36.
@@ -636,11 +636,11 @@ L’inspection sur pied est faite par un ou plusieurs contrôleurs à désigner 
 
 Lors de l’inspection sur pied, le contrôleur vérifie :
 
-1. si la superficie réelle de la culture correspond à celle qui a été déclarée ;
+- si la superficie réelle de la culture correspond à celle qui a été déclarée ;
 
-2. si l’origine de la semence utilisée correspond aux déclarations faites ; à cet effet, le contrôleur peut demander au producteur de semences communication de toute pièce justificative ;
+- si l’origine de la semence utilisée correspond aux déclarations faites ; à cet effet, le contrôleur peut demander au producteur de semences communication de toute pièce justificative ;
 
-3. si les conditions d’isolement des parcelles sont observées ; la distance qui doit séparer les champs est renseignée à l’annexe II .
+- si les conditions d’isolement des parcelles sont observées ; la distance qui doit séparer les champs est renseignée à l’annexe II .
 
 La culture est refusée si les conditions précitées ne sont pas respectées, ou s’il y a fausse déclaration.
 
@@ -654,19 +654,19 @@ En examinant la végétation de ces surfaces il note, dans un carnet ou sur une 
 
 Le refus d’une culture est prononcé :
 
-1. si les conditions et normes fixées à l’annexe II ne sont pas respectées ;
+- si les conditions et normes fixées à l’annexe II ne sont pas respectées ;
 
-2. si l’identité variétale est considérée comme douteuse et si les caractères morphologiques ou physiologique spécifiques de la variété font défaut ;
+- si l’identité variétale est considérée comme douteuse et si les caractères morphologiques ou physiologique spécifiques de la variété font défaut ;
 
-3. si la culture est envahie par Avena fatua . Les cultures d’avoine de toutes catégories, ainsi que les cultures de semences de base des autres espèces de céréales doivent être exemptes d’ Avena fatua ; sont tolérées trois plantes d’ Avena fatua par hectare dans les cultures de semences certifiées des céréales autres que l’avoine ;
+- si la culture est envahie par Avena fatua . Les cultures d’avoine de toutes catégories, ainsi que les cultures de semences de base des autres espèces de céréales doivent être exemptes d’ Avena fatua ; sont tolérées trois plantes d’ Avena fatua par hectare dans les cultures de semences certifiées des céréales autres que l’avoine ;
 
-4. en absence de bordure de séparation suffisante entre la culture avoisinante ;
+- en absence de bordure de séparation suffisante entre la culture avoisinante ;
 
-5. si la culture est négligée ou envahie par des mauvaises herbes ;
+- si la culture est négligée ou envahie par des mauvaises herbes ;
 
-6. si elle est trop versée et si la formation du grain est défectueuse ;
+- si elle est trop versée et si la formation du grain est défectueuse ;
 
-7. s’il existe un danger réel de contamination par des parcelles voisines qui sont fortement infectées du charbon.
+- s’il existe un danger réel de contamination par des parcelles voisines qui sont fortement infectées du charbon.
 
 Sur le vu de ces constations, le contrôleur prononce l’admission ou le refus définitif et arrête le classement de la culture, sous réserve de l’application des dispositions de l’article 40.
 
@@ -708,13 +708,13 @@ Les lots reportés d’une campagne à l’autre doivent faire l’objet d’une
 
 Les documents de certification sont refusés dans les cas suivants :
 
-1. si les semences ne répondent pas aux normes fixées à l’annexe III ;
+- si les semences ne répondent pas aux normes fixées à l’annexe III ;
 
-2. s’il a été constaté une tentative de fraude quant à l’origine ou au classement des semences ou au rendement des cultures ;
+- s’il a été constaté une tentative de fraude quant à l’origine ou au classement des semences ou au rendement des cultures ;
 
-3. s’il a été constaté une séparation insuffisante, en cours de conservation, entre lots de semences de variétés, de catégories ou de classes différentes ;
+- s’il a été constaté une séparation insuffisante, en cours de conservation, entre lots de semences de variétés, de catégories ou de classes différentes ;
 
-4. s’il a été constaté des mélanges de variétés, de catégories ou de classes différentes lors du conditionnement.
+- s’il a été constaté des mélanges de variétés, de catégories ou de classes différentes lors du conditionnement.
 
 La fermeture et le marquage des semences définitivement admises sont effectués par un délégué de l’organisme de contrôle, ou sous sa responsabilité, conformément aux dispositions des articles 15 à 19.
 
@@ -725,17 +725,17 @@ La fermeture et le marquage des semences définitivement admises sont effectués
 
 Le producteur demander peut après la récolte auprès de l’organisme de contrôle que les examens officiels concernant la faculté germinative, l’humidité, la teneur maximale en semences d’autres espèces de plantes exprimée en nombre et la pureté spécifique ne soient pas effectués sur tous les lots d’une même variété et catégorie lors de la certification. Dans ce cas, le producteur peut constituer des « unités d’échantillonnage » en respectant les conditions suivantes :
 
-1. Les semences d’une unité d’échantillonnage proviennent de cultures admises conformément à l’article 37 paragraphe 2 et sont destinées à être certifiées en tant que semences certifiées, semences certifiées de première génération ou semences certifiées de deuxième génération ;
+- Les semences d’une unité d’échantillonnage proviennent de cultures admises conformément à l’article 37 paragraphe 2 et sont destinées à être certifiées en tant que semences certifiées, semences certifiées de première génération ou semences certifiées de deuxième génération ;
 
-2. Les semences ne peuvent pas provenir de cultures admises provisoirement tel que prévu à l’article 37 paragraphe 3 ;
+- Les semences ne peuvent pas provenir de cultures admises provisoirement tel que prévu à l’article 37 paragraphe 3 ;
 
-3. L’unité d’échantillonnage se compose de semences de la même variété et de la même catégorie ;
+- L’unité d’échantillonnage se compose de semences de la même variété et de la même catégorie ;
 
-4. Le poids maximal de l’unité d’échantillonnage ne dépasse pas 120 tonnes ;
+- Le poids maximal de l’unité d’échantillonnage ne dépasse pas 120 tonnes ;
 
-5. Les semences d’une unité d’échantillonnage sont nettoyées et triées ;
+- Les semences d’une unité d’échantillonnage sont nettoyées et triées ;
 
-6. L’unité d’échantillonnage est suffisamment homogène et stockée en vrac dans un silo ou compartiment.
+- L’unité d’échantillonnage est suffisamment homogène et stockée en vrac dans un silo ou compartiment.
 
 (2)
 

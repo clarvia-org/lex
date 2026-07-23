@@ -39,21 +39,21 @@ L’organisation scolaire comprenant toutes les données nominatives et chiffré
 
 L’organisation scolaire établie par le conseil communal ou le comité du syndicat scolaire intercommunal renseigne obligatoirement sur les points suivants:
 
-1. les écoles établies sur le territoire de la commune ainsi que les ressorts scolaires y rattachés;
+- les écoles établies sur le territoire de la commune ainsi que les ressorts scolaires y rattachés;
 
-2. les horaires hebdomadaires et journaliers des classes;
+- les horaires hebdomadaires et journaliers des classes;
 
-3. la répartition des classes et le relevé des élèves , en tenant compte de l’article 4 ter du règlement grand-ducal modifié du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ;
+- la répartition des classes et le relevé des élèves , en tenant compte de l’article 4 ter du règlement grand-ducal modifié du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ;
 
-4. les activités dans le cadre de l’horaire scolaire, y compris le soutien aux élèves en difficulté d’apprentissage, les mesures relatives au plan de réussite scolaire et, le cas échéant, les initiatives de projets scolaires et le détail de leurs retombées en matière de leçons d’enseignement;
+- les activités dans le cadre de l’horaire scolaire, y compris le soutien aux élèves en difficulté d’apprentissage, les mesures relatives au plan de réussite scolaire et, le cas échéant, les initiatives de projets scolaires et le détail de leurs retombées en matière de leçons d’enseignement;
 
-5. l’organisation des cours d’éducation morale et sociale et des cours d’instruction religieuse et morale;
+- l’organisation des cours d’éducation morale et sociale et des cours d’instruction religieuse et morale;
 
-6. l’organisation des activités scolaires en dehors de l’horaire normal;
+- l’organisation des activités scolaires en dehors de l’horaire normal;
 
-7. l’occupation des postes d’instituteurs et les autres membres du personnel des écoles, avec indication de leurs prestations;
+- l’occupation des postes d’instituteurs et les autres membres du personnel des écoles, avec indication de leurs prestations;
 
-8. l’organisation de la surveillance obligatoire des élèves pendant les récréations ainsi que pendant la période de surveillance précédant ou suivant les heures fixées pour le commencement et la fin des classes.
+- l’organisation de la surveillance obligatoire des élèves pendant les récréations ainsi que pendant la période de surveillance précédant ou suivant les heures fixées pour le commencement et la fin des classes.
 
 <a id="art-3"></a>
 ## Art. 3.

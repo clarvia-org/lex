@@ -32,19 +32,19 @@ Forme de la demande et documents à fournir
 
 La demande en obtention d’une bourse est à adresser électroniquement au ministre ayant la Culture dans ses attributions, ci-après « ministre », via une plateforme gouvernementale sécurisée. Elle contient les nom, prénoms, date de naissance, adresse et numéro de compte en banque du requérant. À cette demande est joint un dossier qui contient :
 
-1. une lettre de motivation à la base de la demande en obtention de la bourse ;
+- une lettre de motivation à la base de la demande en obtention de la bourse ;
 
-2. un curriculum vitæ décrivant le parcours artistique du requérant ;
+- un curriculum vitæ décrivant le parcours artistique du requérant ;
 
-3. une note d’intention ou la description de la nature du travail artistique à la base de la demande ;
+- une note d’intention ou la description de la nature du travail artistique à la base de la demande ;
 
-4. un plan de travail ;
+- un plan de travail ;
 
-5. un budget détaillé ;
+- un budget détaillé ;
 
-6. pour une demande de bourse au perfectionnement et au recyclage artistiques, une pièce prouvant l’inscription ou l’invitation à une formation, une résidence d’artiste ou d’auteur, un atelier, une master-class, une conférence, un colloque, un symposium ou tout autre événement pour lequel la bourse est demandée ;
+- pour une demande de bourse au perfectionnement et au recyclage artistiques, une pièce prouvant l’inscription ou l’invitation à une formation, une résidence d’artiste ou d’auteur, un atelier, une master-class, une conférence, un colloque, un symposium ou tout autre événement pour lequel la bourse est demandée ;
 
-7. toute autre pièce ou tout autre document que le requérant estime utile à l’appui de sa demande.
+- toute autre pièce ou tout autre document que le requérant estime utile à l’appui de sa demande.
 
 <a id="art-2"></a>
 ## Art. 2.

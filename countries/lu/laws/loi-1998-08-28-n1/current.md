@@ -30,19 +30,19 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La présente loi est applicable:
 
-1. aux hôpitaux,
+- aux hôpitaux,
 
-2. aux établissements hospitaliers spécialisés,
+- aux établissements hospitaliers spécialisés,
 
 (Loi du 17 décembre 2010)
 
-1. «aux établissements d’accueil pour personnes en fin de vie»,
+- «aux établissements d’accueil pour personnes en fin de vie»,
 
-2. aux établissements de convalescence,
+- aux établissements de convalescence,
 
-3. aux établissements de cures thermales,
+- aux établissements de cures thermales,
 
-4. aux centres de diagnostic.
+- aux centres de diagnostic.
 
 Les établissements visés à l’alinéa qui précède sont désignés par la suite par le terme «établissement hospitalier».
 
@@ -54,21 +54,23 @@ Les établissements hospitaliers doivent disposer de la personnalité juridique.
 
 Est considéré comme:
 
-1. «hôpital», tout établissement ayant principalement une mission de traitement et/ou d’accouchement et accessoirement de diagnostic et/ou de soins préventifs, curatifs et palliatifs et disposant de services dans lesquels les patients sont admis.
+- «hôpital», tout établissement ayant principalement une mission de traitement et/ou d’accouchement et accessoirement de diagnostic et/ou de soins préventifs, curatifs et palliatifs et disposant de services dans lesquels les patients sont admis.
 
-2. «établissement hospitalier spécialisé», tout établissement qui répond aux besoins spécifiques de certaines disciplines ou à des affections particulières.
+- «établissement hospitalier spécialisé», tout établissement qui répond aux besoins spécifiques de certaines disciplines ou à des affections particulières.
 
 (Loi du 17 décembre 2010)
 
-1. ««établissement d’accueil pour personnes en fin de vie», tout établissement qui répond principalement aux besoins des personnes en fin de vie qui y sont accueillies, à l’exclusion de soins à visée principalement curative.»
+- ««établissement d’accueil pour personnes en fin de vie», tout établissement qui répond principalement aux besoins des personnes en fin de vie qui y sont accueillies, à l’exclusion de soins à visée principalement curative.»
 
-2. «établissement de convalescence», tout établissement où sont adressés des malades qui, après un épisode aigu ou une intervention chirurgicale, ne nécessitent plus une surveillance médicale ou chirurgicale active, mais une période de repos et de convalescence avec des soins ne relevant pas de techniques particulières.
+- «établissement de convalescence», tout établissement où sont adressés des malades qui, après un épisode aigu ou une intervention chirurgicale, ne nécessitent plus une surveillance médicale ou chirurgicale active, mais une période de repos et de convalescence avec des soins ne relevant pas de techniques particulières.
 
-3. «établissement de cures thermales», tout établissement qui a pour mission de dispenser des cures thérapeutiques.
+- «établissement de cures thermales», tout établissement qui a pour mission de dispenser des cures thérapeutiques.
 
-4. «centre de diagnostic», tout établissement comportant un ou plusieurs services auxquels les bénéficiaires font appel en vue de l’établissement d’un diagnostic à l’exclusion de tous traitements et soins.
+- «centre de diagnostic», tout établissement comportant un ou plusieurs services auxquels les bénéficiaires font appel en vue de l’établissement d’un diagnostic à l’exclusion de tous traitements et soins.
 
 #### Chapitre 2 Planification hospitalière
+
+(Loi du 17 décembre 2010)
 
 <a id="art-2"></a>
 ## «Art. 2.
@@ -96,17 +98,17 @@ Pour chaque service hospitalier, le plan hospitalier peut fixer les nombres mini
 
 La carte sanitaire est un ensemble de documents d’information et de prospective établi et mis à jour par le ministre de la Santé et constitué par:
 
-1. l’inventaire de tous les établissements hospitaliers existants, de leurs services, de leur agencement général et de leur taux d’utilisation;
+- l’inventaire de tous les établissements hospitaliers existants, de leurs services, de leur agencement général et de leur taux d’utilisation;
 
-2. le relevé du personnel médical, soignant, administratif et technique desdits établissements;
+- le relevé du personnel médical, soignant, administratif et technique desdits établissements;
 
-3. l’inventaire des équipements et appareils médicaux coûteux nécessitant une planification nationale ou, le cas échéant, régionale ou exigeant des conditions d’emploi particulières. La liste de ces équipements et appareils est fixée au plan hospitalier national;
+- l’inventaire des équipements et appareils médicaux coûteux nécessitant une planification nationale ou, le cas échéant, régionale ou exigeant des conditions d’emploi particulières. La liste de ces équipements et appareils est fixée au plan hospitalier national;
 
-4. l’inventaire des équipements et appareils médicaux et de leurs configurations d’ensemble fonctionnel, ne figurant pas sur la liste visée sous c) ci-dessus, mais dont le coût est supérieur à un montant à fixer par règlement grand-ducal; ce seuil ne peut être inférieur à 80.000 euros;
+- l’inventaire des équipements et appareils médicaux et de leurs configurations d’ensemble fonctionnel, ne figurant pas sur la liste visée sous c) ci-dessus, mais dont le coût est supérieur à un montant à fixer par règlement grand-ducal; ce seuil ne peut être inférieur à 80.000 euros;
 
 (Loi du 17 décembre 2010)
 
-1. l’inventaire des établissements ou services prestataires en milieu extrahospitalier collaborant activement avec le secteur hospitalier dans le cadre de filières de soins intégrées ou de centres de compétences.»
+- l’inventaire des établissements ou services prestataires en milieu extrahospitalier collaborant activement avec le secteur hospitalier dans le cadre de filières de soins intégrées ou de centres de compétences.»
 
 Tous les établissements hospitaliers doivent fournir les renseignements nécessaires à l’élaboration de la carte et à sa mise à jour annuelle. Faute par eux de ce faire le ministre de la Santé ne pourra accorder ou, le cas échéant, proroger les autorisations dont question aux articles 4, 5, 6 et 9 ci-après.
 
@@ -203,11 +205,11 @@ Les établissements hospitaliers doivent répondre aux normes fixées par règle
 
 Ces normes concernent:
 
-1. l’aménagement, l’organisation générale, les dotations et les conditions minima pour pouvoir assurer la continuité des activités incombant aux établissements hospitaliers;
+- l’aménagement, l’organisation générale, les dotations et les conditions minima pour pouvoir assurer la continuité des activités incombant aux établissements hospitaliers;
 
 (Loi du 17 décembre 2010)
 
-1. l’aménagement et l’organisation de chaque type de service, notamment les conditions minima concernant les infrastructures, les équipements, le personnel tant médical que paramédical ainsi que les procédures, les activités, et les modalités de documentation de l’activité, ainsi que l’évaluation des résultats d’activités.»
+- l’aménagement et l’organisation de chaque type de service, notamment les conditions minima concernant les infrastructures, les équipements, le personnel tant médical que paramédical ainsi que les procédures, les activités, et les modalités de documentation de l’activité, ainsi que l’évaluation des résultats d’activités.»
 
 Ce règlement déterminera également l’organisation de la permanence médicale et du service d’urgence.
 
@@ -223,6 +225,8 @@ En vue d’assurer au pays une infrastructure sanitaire conforme aux besoins ré
 - aux grands projets de construction ou de modernisation dont question à l’article 16 ci-après.
 
 En cas d’octroi d’une aide de l’Etat, un règlement grand-ducal peut déterminer les conditions d’accès et d’utilisation de ces appareils et équipements médicaux par des usagers extérieurs à l’établissement propriétaire, le collège médical et la commission permanente pour le secteur hospitalier demandés en leurs avis.
+
+(Loi du 17 décembre 2010)
 
 <a id="art-12"></a>
 ## «Art. 12.
@@ -288,6 +292,8 @@ La constatation des faits entraînant la perte de ces avantages est faite par d�
 
 #### Chapitre 8 Les organes
 
+(Loi du 17 décembre 2010)
+
 <a id="art-18"></a>
 ## «Art. 18.
 
@@ -316,17 +322,17 @@ Il est institué une commission permanente pour le secteur hospitalier qui exerc
 
 La commission a notamment pour mission d’aviser:
 
-1. les projets de plan hospitalier national sur base des éléments tels que définis aux articles 2 et 3;
+- les projets de plan hospitalier national sur base des éléments tels que définis aux articles 2 et 3;
 
-2. les demandes d’aide financière conformément aux dispositions de l’article 11;
+- les demandes d’aide financière conformément aux dispositions de l’article 11;
 
-3. les demandes d’autorisation, de cessation d’exploitation totale ou partielle ainsi que de suppression ou de réduction de services hospitaliers;
+- les demandes d’autorisation, de cessation d’exploitation totale ou partielle ainsi que de suppression ou de réduction de services hospitaliers;
 
-4. les projets de règlements applicables aux établissements hospitaliers et notamment ceux dont question à l’article 10;
+- les projets de règlements applicables aux établissements hospitaliers et notamment ceux dont question à l’article 10;
 
 (Loi du 17 décembre 2010)
 
-1. les projets d’établissement.»
+- les projets d’établissement.»
 
 La commission peut en outre, sur demande du ministre de la Sécurité Sociale ou du ministre de la Santé ou de sa propre initiative, proposer aux ministres tous voies et moyens d’ordre sanitaire, financier ou administratif portant amélioration du système et des services hospitaliers.
 
@@ -385,11 +391,11 @@ Le règlement général porte notamment sur:
 
 - le projet d’établissement, qui fixe pour une durée maximale de 5 ans, conformément aux missions de l’hôpital et à sa classification au plan hospitalier, les objectifs de l’offre de services, les moyens ainsi que l’évaluation des procédures et résultats, notamment en ce qui concerne:
 
-- la qualité des prestations globales et spécifiquement celles dans le domaine médical et des soins infirmiers,
+  - la qualité des prestations globales et spécifiquement celles dans le domaine médical et des soins infirmiers,
 
-- la politique sociale et de formation continue du personnel,
+  - la politique sociale et de formation continue du personnel,
 
-- la gestion, le système d’information, la rationalisation des médicaments et la standardisation des équipements;
+  - la gestion, le système d’information, la rationalisation des médicaments et la standardisation des équipements;
 
 - les objectifs et les modalités du fonctionnement hospitalier et notamment des actions concourant à une prise en charge globale des patients, à la prévention de la dépendance et à l’amélioration continue de la qualité des prestations hospitalières;
 
@@ -406,6 +412,8 @@ Le règlement général porte notamment sur:
 - la prévention et l’élimination des déchets.
 
 Les différentes parties du règlement général sont portées à la connaissance du ministre de la Santé et des personnes concernées par tout moyen approprié.
+
+(Loi du 17 décembre 2010)
 
 <a id="art-23"></a>
 ## «Art. 23.
@@ -431,9 +439,9 @@ L’organisme gestionnaire compose le comité d’éthique de manière à assure
 
 Le comité d’éthique hospitalier a pour attribution:
 
-1. de fournir, sur demande, une aide à la décision au patient ou à ses proches, si le patient n’est plus en état de s’exprimer, ainsi qu’aux médecins traitants hospitaliers, chaque fois qu’une pluralité de démarches peut être envisagée du point de vue médical et que le choix entre elles donne lieu à des dilemmes éthiques;
+- de fournir, sur demande, une aide à la décision au patient ou à ses proches, si le patient n’est plus en état de s’exprimer, ainsi qu’aux médecins traitants hospitaliers, chaque fois qu’une pluralité de démarches peut être envisagée du point de vue médical et que le choix entre elles donne lieu à des dilemmes éthiques;
 
-2. de préparer des orientations internes à l’hôpital pour autant qu’elles concernent des questions d’éthique.
+- de préparer des orientations internes à l’hôpital pour autant qu’elles concernent des questions d’éthique.
 
 Tout membre du personnel ainsi que tous les médecins exerçant à l’hôpital peuvent émettre des suggestions au comité d’éthique hospitalier en vue de l’établissement de ces orientations internes.
 
@@ -478,6 +486,8 @@ Pour les hôpitaux et établissements hospitaliers spécialisés de moins de 175
 (…) abrogé par Loi du 17 décembre 2010
 
 Pour les règlements dont question ci-avant le ministre de la Santé sollicite l’avis du collège médical et de la commission permanente pour le secteur hospitalier.
+
+(Loi du 17 décembre 2010)
 
 <a id="art-26bis"></a>
 ## «Art. 26bis.
@@ -574,6 +584,8 @@ Le conseil médical fait régulièrement rapport sur l’exécution de son manda
 
 Un règlement grand-ducal arrête les règles relatives aux modalités d’élection des membres, à la désignation du président et de son délégué, à la durée des mandats et au fonctionnement du conseil médical. Ce même règlement précise les attributions et les prérogatives du conseil médical. II désigne notamment les matières pour lesquelles son avis est sollicité et arrête les procédures à suivre en cas de dissentiment entre l’organisme gestionnaire et le conseil médical.
 
+(Loi du 17 décembre 2010)
+
 <a id="art-31"></a>
 ## «Art. 31.
 
@@ -597,6 +609,8 @@ Les contrats de collaboration des prestataires de soins non salariés exerçant 
 ## Art. 32.
 
 Les dispositions de la loi du 6 mai 1974 instituant des comités mixtes dans les entreprises du secteur privé et organisant la représentation des salariés dans les sociétés anonymes sont applicables aux établissements hospitaliers régis par l’article 1er de la présente loi.
+
+(Loi du 17 décembre 2010)
 
 <a id="art-33"></a>
 ## «Art. 33.

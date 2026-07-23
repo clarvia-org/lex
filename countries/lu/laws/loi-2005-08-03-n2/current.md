@@ -240,21 +240,21 @@ Le terme sportif d’élite vise les athlètes dont la qualification sportive es
 
 Des mesures d’appui particulières pour le sportif d’élite
 
-1. Un horaire de travail aménagé peut être introduit dans l’intérêt des sportifs d’élite occupés dans le secteur public. Par secteur public il y a lieu d’entendre l’Etat, les communes, les syndicats de communes, les établissements publics et la société nationale des chemins de fer luxembourgeois.
+- Un horaire de travail aménagé peut être introduit dans l’intérêt des sportifs d’élite occupés dans le secteur public. Par secteur public il y a lieu d’entendre l’Etat, les communes, les syndicats de communes, les établissements publics et la société nationale des chemins de fer luxembourgeois.
 
-2. Dans la mesure où ils remplissent les conditions d’admission aux différentes carrières, les sportifs d’élite bénéficient d’un droit de priorité pour les emplois dans le secteur public. Ce droit de priorité n’existe pas si l’admission à la fonction concernée est soumise à un examen-concours.
+- Dans la mesure où ils remplissent les conditions d’admission aux différentes carrières, les sportifs d’élite bénéficient d’un droit de priorité pour les emplois dans le secteur public. Ce droit de priorité n’existe pas si l’admission à la fonction concernée est soumise à un examen-concours.
 
-3. L’Etat participe à des modèles spéciaux de préparation des cadres nationaux et olympiques.
+- L’Etat participe à des modèles spéciaux de préparation des cadres nationaux et olympiques.
 
-4. L’Etat assure un suivi médical spécial dans l’intérêt des sportifs d’élite.
+- L’Etat assure un suivi médical spécial dans l’intérêt des sportifs d’élite.
 
-5. L’Etat peut promouvoir des mesures de formation scolaire et professionnelle dans l’intérêt du sportif d’élite en cas d’interruption de sa formation scolaire ou de sa carrière professionnelle pour des raisons d’ordre sportif.
+- L’Etat peut promouvoir des mesures de formation scolaire et professionnelle dans l’intérêt du sportif d’élite en cas d’interruption de sa formation scolaire ou de sa carrière professionnelle pour des raisons d’ordre sportif.
 
-6. Pour autant que les sportifs d’élite ne sont pas assurés à un autre titre, l’Etat prend à charge, sur la base de l’assiette du salaire social minimum, les cotisations de sécurité sociale. Pour les sportifs d’élite qui réduisent leur activité professionnelle de façon à ce que leurs revenus tombent en dessous du salaire social minimum, l’Etat rembourse les charges sociales calculées d’après leur revenu réel.
+- Pour autant que les sportifs d’élite ne sont pas assurés à un autre titre, l’Etat prend à charge, sur la base de l’assiette du salaire social minimum, les cotisations de sécurité sociale. Pour les sportifs d’élite qui réduisent leur activité professionnelle de façon à ce que leurs revenus tombent en dessous du salaire social minimum, l’Etat rembourse les charges sociales calculées d’après leur revenu réel.
 
-7. Le sportif d’élite qui interrompt ou étale ses études pour se consacrer à sa carrière sportive bénéficie des dispositions exceptionnelles en matière d’octroi de bourses et de prêts prévues à l’article 5 de la loi du 22 juin 2000 concernant l’aide financière de l’Etat pour études supérieures.
+- Le sportif d’élite qui interrompt ou étale ses études pour se consacrer à sa carrière sportive bénéficie des dispositions exceptionnelles en matière d’octroi de bourses et de prêts prévues à l’article 5 de la loi du 22 juin 2000 concernant l’aide financière de l’Etat pour études supérieures.
 
-8. Une section spéciale à l’Armée accueille en tant que volontaires des sportifs d’élite.
+- Une section spéciale à l’Armée accueille en tant que volontaires des sportifs d’élite.
 
 Les modalités des mesures d’appui particulières pour les sportifs d’élite peuvent être précisées par règlement grand-ducal.
 
@@ -270,29 +270,29 @@ Il est institué un congé spécial dénommé congé sportif qui est pris en cha
 
 Peuvent bénéficier du congé sportif :
 
-1. les sportifs susceptibles de représenter le Grand-Duché de Luxembourg en vue de préparer et participer à des compétitions internationales officielles faisant partie d’un des cadres du C.O.S.L. ou du L.P.C. ou ayant un projet olympique, un projet de qualification olympique, un projet perspective, un projet élite ou un projet paralympique avec le C.O.S.L. ou le L.P.C., appelé ci-après « projet spécifique », ou faisant partie d’une sélection nationale individuelle ou d’équipes senior d’une fédération sportive agréée régissant un sport de compétition ;
+- les sportifs susceptibles de représenter le Grand-Duché de Luxembourg en vue de préparer et participer à des compétitions internationales officielles faisant partie d’un des cadres du C.O.S.L. ou du L.P.C. ou ayant un projet olympique, un projet de qualification olympique, un projet perspective, un projet élite ou un projet paralympique avec le C.O.S.L. ou le L.P.C., appelé ci-après « projet spécifique », ou faisant partie d’une sélection nationale individuelle ou d’équipes senior d’une fédération sportive agréée régissant un sport de compétition ;
 
-2. les sportifs licenciés auprès d’un club affilié à une fédération sportive agréée en vue de préparer et participer à des compétitions internationales officielles pour clubs organisées par les fédérations internationales compétentes ou avec leur coopération ;
+- les sportifs licenciés auprès d’un club affilié à une fédération sportive agréée en vue de préparer et participer à des compétitions internationales officielles pour clubs organisées par les fédérations internationales compétentes ou avec leur coopération ;
 
-3. les sportifs autres que ceux visés aux points 1. et 2., détenant une licence auprès d’une fédération sportive agréée participant à une compétition internationale officielle et ayant l’accord conjoint du C.O.S.L. ou du L.P.C. et du ministre ayant les Sports dans ses attributions ;
+- les sportifs autres que ceux visés aux points 1. et 2., détenant une licence auprès d’une fédération sportive agréée participant à une compétition internationale officielle et ayant l’accord conjoint du C.O.S.L. ou du L.P.C. et du ministre ayant les Sports dans ses attributions ;
 
-4. les juges et arbitres sélectionnés par la fédération sportive internationale compétente, afin de participer à des compétitions internationales ou prendre part à des formations internationales dûment autorisées par les fédérations sportives agréées respectives ;
+- les juges et arbitres sélectionnés par la fédération sportive internationale compétente, afin de participer à des compétitions internationales ou prendre part à des formations internationales dûment autorisées par les fédérations sportives agréées respectives ;
 
-5. les cadres administratifs, membres de l’organe d’administration d’une fédération sportive agréée, d’un club affilié, du C.O.S.L. ou du L.P.C., pour :
+- les cadres administratifs, membres de l’organe d’administration d’une fédération sportive agréée, d’un club affilié, du C.O.S.L. ou du L.P.C., pour :
 
-1. s’occuper de la gestion courante de l’organisme ;
+  - s’occuper de la gestion courante de l’organisme ;
 
-2. participer à des réunions au plan international des organes, commissions ou groupes de travail statutaires des fédérations sportives internationales et du mouvement olympique ou paralympique ;
+  - participer à des réunions au plan international des organes, commissions ou groupes de travail statutaires des fédérations sportives internationales et du mouvement olympique ou paralympique ;
 
-3. participer à des formations organisées au plan international dûment autorisées par l’organisme compétent ;
+  - participer à des formations organisées au plan international dûment autorisées par l’organisme compétent ;
 
-6. les personnes physiques désignées par une fédération sportive agréée, un club affilié, le C.O.S.L. ou le L.P.C. pour accompagner les sportifs aux compétitions internationales officielles organisées par les fédérations internationales compétentes ou à des stages de préparation ;
+- les personnes physiques désignées par une fédération sportive agréée, un club affilié, le C.O.S.L. ou le L.P.C. pour accompagner les sportifs aux compétitions internationales officielles organisées par les fédérations internationales compétentes ou à des stages de préparation ;
 
-7. les personnes physiques bénévoles désignées par une fédération sportive agréée, un club affilié, le C.O.S.L. ou le L.P.C. pour participer à l’organisation de manifestations sportives internationales reconnues par les fédérations sportives internationales ayant lieu au Grand-Duché de Luxembourg ;
+- les personnes physiques bénévoles désignées par une fédération sportive agréée, un club affilié, le C.O.S.L. ou le L.P.C. pour participer à l’organisation de manifestations sportives internationales reconnues par les fédérations sportives internationales ayant lieu au Grand-Duché de Luxembourg ;
 
-8. les cadres techniques désignés par une fédération sportive agréée, un club affilié, le C.O.S.L. ou le L.P.C. pour accompagner les sportifs aux compétitions internationales officielles organisées par les fédérations internationales compétentes, à des stages de préparation ou pour participer à des formations organisées au plan international dûment autorisées par l’organisme compétent ;
+- les cadres techniques désignés par une fédération sportive agréée, un club affilié, le C.O.S.L. ou le L.P.C. pour accompagner les sportifs aux compétitions internationales officielles organisées par les fédérations internationales compétentes, à des stages de préparation ou pour participer à des formations organisées au plan international dûment autorisées par l’organisme compétent ;
 
-9. les participants qui suivent une formation organisée par l’École nationale d’éducation physique et des sports ou une autre formation reconnue par le ministre ayant les Sports dans ses attributions.
+- les participants qui suivent une formation organisée par l’École nationale d’éducation physique et des sports ou une autre formation reconnue par le ministre ayant les Sports dans ses attributions.
 
 Par sportifs ayant un projet olympique, un projet de qualification olympique, un projet perspective, un projet élite ou un projet paralympique, sont visés les athlètes justifiant d’un potentiel de progression et d’un projet individuel et qui sont sélectionnés par le C.O.S.L. ou le L.P.C. en tant que tels.
 
@@ -311,9 +311,9 @@ Le nombre de sportifs pouvant bénéficier du congé sportif pour la préparatio
 
 À l’occasion de la préparation ou de la participation à des compétitions internationales, le nombre d’encadrants pouvant bénéficier du congé sportif ne peut pas dépasser :
 
-1. cinq personnes pour un groupe de maximum dix sportifs ;
+- cinq personnes pour un groupe de maximum dix sportifs ;
 
-2. six personnes pour un groupe de onze sportifs ou plus.
+- six personnes pour un groupe de onze sportifs ou plus.
 
 <a id="art-15-3"></a>
 ## Art. 15-3.
@@ -322,43 +322,43 @@ Le nombre de sportifs pouvant bénéficier du congé sportif pour la préparatio
 
 La durée annuelle maximale de congé sportif à laquelle a droit le bénéficiaire est limitée à :
 
-1. quatre-vingt-dix jours pour les sportifs ayant un projet olympique, de qualification olympique ou paralympique avec le C.O.S.L. ou le L.P.C. ;
+- quatre-vingt-dix jours pour les sportifs ayant un projet olympique, de qualification olympique ou paralympique avec le C.O.S.L. ou le L.P.C. ;
 
-2. soixante jours pour un cadre technique encadrant le sportif ayant un projet olympique, de qualification olympique ou paralympique ;
+- soixante jours pour un cadre technique encadrant le sportif ayant un projet olympique, de qualification olympique ou paralympique ;
 
-3. soixante jours pour les sportifs ayant un projet perspective ou élite avec le C.O.S.L. ou le L.P.C. ;
+- soixante jours pour les sportifs ayant un projet perspective ou élite avec le C.O.S.L. ou le L.P.C. ;
 
-4. quarante jours pour un cadre technique encadrant le sportif ayant un projet perspective ou élite avec le C.O.S.L. ou le L.P.C. ;
+- quarante jours pour un cadre technique encadrant le sportif ayant un projet perspective ou élite avec le C.O.S.L. ou le L.P.C. ;
 
-5. trente jours pour les sportifs faisant partie du cadre d’élite du C.O.S.L. ou du L.P.C. et n’ayant pas de projet spécifique ;
+- trente jours pour les sportifs faisant partie du cadre d’élite du C.O.S.L. ou du L.P.C. et n’ayant pas de projet spécifique ;
 
-6. vingt jours pour un cadre technique encadrant le sportif faisant partie du cadre d’élite du C.O.S.L. ou du L.P.C. et n’ayant pas de projet spécifique ;
+- vingt jours pour un cadre technique encadrant le sportif faisant partie du cadre d’élite du C.O.S.L. ou du L.P.C. et n’ayant pas de projet spécifique ;
 
-7. vingt jours pour les sportifs faisant partie du cadre de promotion du C.O.S.L. ou du L.P.C. et n’ayant pas de projet spécifique ;
+- vingt jours pour les sportifs faisant partie du cadre de promotion du C.O.S.L. ou du L.P.C. et n’ayant pas de projet spécifique ;
 
-8. douze jours pour un cadre technique encadrant le sportif faisant partie du cadre de promotion du C.O.S.L. ou du L.P.C. et n’ayant pas de projet spécifique ;
+- douze jours pour un cadre technique encadrant le sportif faisant partie du cadre de promotion du C.O.S.L. ou du L.P.C. et n’ayant pas de projet spécifique ;
 
-9. vingt-cinq jours pour les sportifs faisant partie d’une sélection nationale individuelle ou d’équipes senior d’une fédération sportive agréée régissant un sport de compétition ;
+- vingt-cinq jours pour les sportifs faisant partie d’une sélection nationale individuelle ou d’équipes senior d’une fédération sportive agréée régissant un sport de compétition ;
 
-10. douze jours pour les sportifs tels que définis à l’article 15-1, alinéa 1 er , point 2. ;
+- douze jours pour les sportifs tels que définis à l’article 15-1, alinéa 1 er , point 2. ;
 
-11. six jours pour les sportifs tels que définis à l’article 15-1, alinéa 1 er , point 3. ;
+- six jours pour les sportifs tels que définis à l’article 15-1, alinéa 1 er , point 3. ;
 
-12. vingt-cinq jours pour les juges et arbitres tels que définis à l’article 15-1, alinéa 1 er , point 4. ;
+- vingt-cinq jours pour les juges et arbitres tels que définis à l’article 15-1, alinéa 1 er , point 4. ;
 
-13. douze jours pour les personnes physiques désignées par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., telles que définies à l’article 15-1, alinéa 1 er , point 6. ;
+- douze jours pour les personnes physiques désignées par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., telles que définies à l’article 15-1, alinéa 1 er , point 6. ;
 
-14. six jours pour les personnes physiques désignées par un club affilié à une fédération sportive agréée, telles que définies à l’article 15-1, alinéa 1 er , point 6. ;
+- six jours pour les personnes physiques désignées par un club affilié à une fédération sportive agréée, telles que définies à l’article 15-1, alinéa 1 er , point 6. ;
 
-15. cinquante jours par organisme pour les personnes physiques désignées par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., telles que définies à l’article 15-1, alinéa 1 er , point 7. ;
+- cinquante jours par organisme pour les personnes physiques désignées par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., telles que définies à l’article 15-1, alinéa 1 er , point 7. ;
 
-16. dix jours par club affilié à une fédération sportive agréée pour les personnes physiques désignées par le club, telles que définies à l’article 15-1, alinéa 1 er , point 7. ;
+- dix jours par club affilié à une fédération sportive agréée pour les personnes physiques désignées par le club, telles que définies à l’article 15-1, alinéa 1 er , point 7. ;
 
-17. vingt-cinq jours pour les cadres techniques désignés par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., tels que définis à l’article 15-1, alinéa 1 er , point 8. ;
+- vingt-cinq jours pour les cadres techniques désignés par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., tels que définis à l’article 15-1, alinéa 1 er , point 8. ;
 
-18. dix jours pour les cadres techniques désignés par un club affilié à une fédération sportive agréée, tels que définis à l’article 15-1, alinéa 1 er , point 8. ;
+- dix jours pour les cadres techniques désignés par un club affilié à une fédération sportive agréée, tels que définis à l’article 15-1, alinéa 1 er , point 8. ;
 
-19. cinq jours pour les participants à une formation telle que définie à l’article 15-1, alinéa 1 er , point 9.
+- cinq jours pour les participants à une formation telle que définie à l’article 15-1, alinéa 1 er , point 9.
 
 La durée annuelle du congé sportif est proratisée en fonction du degré d’occupation et de la durée de travail annuelle.
 
@@ -368,19 +368,19 @@ La durée annuelle du congé sportif est également proratisée avec effet au pr
 
 Pour les cadres administratifs, membres de l’organe d’administration d’une fédération sportive agréée, la durée annuelle maximale du congé sportif par fédération sportive agréée est limitée à :
 
-1. cinq jours pour une fédération sportive agréée disposant de moins de mille licences de compétition ;
+- cinq jours pour une fédération sportive agréée disposant de moins de mille licences de compétition ;
 
-2. dix jours pour une fédération sportive agréée disposant entre mille et cinq mille licences de compétition ;
+- dix jours pour une fédération sportive agréée disposant entre mille et cinq mille licences de compétition ;
 
-3. quinze jours pour une fédération sportive agréée disposant de plus de cinq mille licences de compétition.
+- quinze jours pour une fédération sportive agréée disposant de plus de cinq mille licences de compétition.
 
 Pour les cadres administratifs, membres de l’organe d’administration d’un club affilié, la durée annuelle maximale du congé sportif par club affilié est limitée à :
 
-1. deux jours pour un club affilié disposant de moins de cinquante licences de compétition ;
+- deux jours pour un club affilié disposant de moins de cinquante licences de compétition ;
 
-2. quatre jours pour un club affilié disposant entre cinquante et deux cents licences de compétition ;
+- quatre jours pour un club affilié disposant entre cinquante et deux cents licences de compétition ;
 
-3. six jours pour un club disposant de plus de deux cents licences de compétition.
+- six jours pour un club disposant de plus de deux cents licences de compétition.
 
 Le nombre de licences de compétition est fixé au 1er janvier de chaque année sur base de relevés certifiés par les fédérations sportives agréées.
 
@@ -459,11 +459,11 @@ Les substances et méthodes dopantes visées au présent article sont celles fig
 
 Sans préjudice de peines disciplinaires infligées par respectivement les instances sportives nationales et internationales compétentes, sont punis d’un emprisonnement de huit jours à trois ans et d’une amende de 1.250 à 50.000 € ou d’une de ces peines seulement
 
-1. ceux qui auront, en vue de l’usage par autrui, transporté, détenu ou acquis des substances dopantes ainsi que ceux qui auront importé, exporté, fabriqué, vendu, offert en vente ou délivré, même gratuitement, des substances dopantes, sachant qu’elles étaient ou devaient être utilisées à des fins de dopage dans le sport;
+- ceux qui auront, en vue de l’usage par autrui, transporté, détenu ou acquis des substances dopantes ainsi que ceux qui auront importé, exporté, fabriqué, vendu, offert en vente ou délivré, même gratuitement, des substances dopantes, sachant qu’elles étaient ou devaient être utilisées à des fins de dopage dans le sport;
 
-2. les médecins qui auront prescrit un médicament contenant une substance dopante, sachant qu’il était ou devait être utilisé à des fins de dopage dans le sport;
+- les médecins qui auront prescrit un médicament contenant une substance dopante, sachant qu’il était ou devait être utilisé à des fins de dopage dans le sport;
 
-3. ceux qui auront administré aux sportifs, à des fins de dopage, les substances visées au paragraphe 2 ou qui leur auront appliqué des méthodes dopantes, ainsi que ceux qui auront facilité l’utilisation de ces substances dopantes ou méthodes dopantes ou auront incité à leur usage à des fins de dopage dans le sport.
+- ceux qui auront administré aux sportifs, à des fins de dopage, les substances visées au paragraphe 2 ou qui leur auront appliqué des méthodes dopantes, ainsi que ceux qui auront facilité l’utilisation de ces substances dopantes ou méthodes dopantes ou auront incité à leur usage à des fins de dopage dans le sport.
 
 Le maximum des peines prévues à l’alinéa précédent est porté jusqu’à cinq années d’emprisonnement et 75.000 € lorsque les faits sont commis à l’égard d’un mineur.
 
@@ -492,9 +492,9 @@ Les pouvoirs publics, le mouvement sportif et les propriétaires des installatio
 
 Le contrat de l’entraîneur et du sportif indemnisés
 
-1. L’article 3 de la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de service des employés privés est complété par un alinéa 3 ayant la teneur suivante: Par dérogation aux alinéas 1 et 2 qui précèdent, ne sont pas à considérer comme employés privés ceux qui exercent une activité d’entraîneur ou de sportif en exécution d’un contrat qu’ils concluent avec une fédération agréée ou un club affilié, lorsque cette activité se déroule dans les deux circonstances cumulatives suivantes: l’activité en question n’est pas exercée à titre principal et régulier et l’indemnité versée en exécution du contrat ne dépasse pas par an le montant correspondant à douze fois le salaire social minimum mensuel pour travailleurs qualifiés. Les contrats visés ne sont pas régis par la réglementation du travail salarié.
+- L’article 3 de la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de service des employés privés est complété par un alinéa 3 ayant la teneur suivante: Par dérogation aux alinéas 1 et 2 qui précèdent, ne sont pas à considérer comme employés privés ceux qui exercent une activité d’entraîneur ou de sportif en exécution d’un contrat qu’ils concluent avec une fédération agréée ou un club affilié, lorsque cette activité se déroule dans les deux circonstances cumulatives suivantes: l’activité en question n’est pas exercée à titre principal et régulier et l’indemnité versée en exécution du contrat ne dépasse pas par an le montant correspondant à douze fois le salaire social minimum mensuel pour travailleurs qualifiés. Les contrats visés ne sont pas régis par la réglementation du travail salarié.
 
-2. Par dérogation aux articles 5 et 9 de la loi modifiée du 24 mai 1989 sur le contrat de travail, des contrats de travail à durée déterminée peuvent être conclus entre une fédération ou un club sportif d’une part et un entraîneur ou un sportif d’autre part. Ces contrats peuvent être conclus pour une durée supérieure à 24 mois et peuvent être renouvelés plus de deux fois, sans être considérés comme contrats de travail à durée indéterminée.
+- Par dérogation aux articles 5 et 9 de la loi modifiée du 24 mai 1989 sur le contrat de travail, des contrats de travail à durée déterminée peuvent être conclus entre une fédération ou un club sportif d’une part et un entraîneur ou un sportif d’autre part. Ces contrats peuvent être conclus pour une durée supérieure à 24 mois et peuvent être renouvelés plus de deux fois, sans être considérés comme contrats de travail à durée indéterminée.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -519,17 +519,17 @@ Dispositions particulières et additionnelles
 
 En application de l’article 14. point 6) de la présente loi, le code des assurances sociales est modifié comme suit:
 
-1. L’article 1er, alinéa 1, est complété par un point 19 libellé comme suit: les sportifs d’élite qui participent à des activités d’élite dans le cadre de la loi du 3 août 2005 concernant le sport».
+- L’article 1er, alinéa 1, est complété par un point 19 libellé comme suit: les sportifs d’élite qui participent à des activités d’élite dans le cadre de la loi du 3 août 2005 concernant le sport».
 
-2. L’article 32, huitième tiret, est libellé comme suit: «à l’Etat en ce qui concerne les assurés visés à l’article 1er sous 13), 15), 16), 17) et 19) ainsi que les élèves et étudiants âgés de moins de trente ans, assurés en vertu de l’article 1er sous 14) ou ayant contracté une assurance volontaire en vertu de l’article 2 et ne disposant que de ressources inférieures au revenu minimum garanti pour une personne seule, tel que défini par la loi du 29 avril 1999 portant création d’un droit à un revenu minimum garanti».
+- L’article 32, huitième tiret, est libellé comme suit: «à l’Etat en ce qui concerne les assurés visés à l’article 1er sous 13), 15), 16), 17) et 19) ainsi que les élèves et étudiants âgés de moins de trente ans, assurés en vertu de l’article 1er sous 14) ou ayant contracté une assurance volontaire en vertu de l’article 2 et ne disposant que de ressources inférieures au revenu minimum garanti pour une personne seule, tel que défini par la loi du 29 avril 1999 portant création d’un droit à un revenu minimum garanti».
 
-3. L’article 85, alinéa 1, est complété par un point 11 libellé comme suit: les sportifs qui participent à des activités d’élite dans le cadre de la loi du 3 août 2005 concernant le sport».
+- L’article 85, alinéa 1, est complété par un point 11 libellé comme suit: les sportifs qui participent à des activités d’élite dans le cadre de la loi du 3 août 2005 concernant le sport».
 
-4. L’article 171, alinéa 1, est complété par un point 18) ayant la teneur suivante: les périodes pendant lesquelles l’intéressé a une activité sportive d’élite conformément à la loi du 3 août 2005 concernant le sport ».
+- L’article 171, alinéa 1, est complété par un point 18) ayant la teneur suivante: les périodes pendant lesquelles l’intéressé a une activité sportive d’élite conformément à la loi du 3 août 2005 concernant le sport ».
 
-5. L’article 240 est complété par un point 13 ayant la teneur suivante: à l’Etat pour autant qu’il s’agit de périodes prévues à l’article 171, 18) jusqu’à concurrence du salaire social minimum».
+- L’article 240 est complété par un point 13 ayant la teneur suivante: à l’Etat pour autant qu’il s’agit de périodes prévues à l’article 171, 18) jusqu’à concurrence du salaire social minimum».
 
-6. L’article 250, alinéa 2, est libellé comme suit: «L’établissement d’assurance contre la vieillesse et l’invalidité est compétent pour les personnes affiliées au titre des périodes visées à l’article 171, 1), 4), 5), 8), 9), 10), 15) et 18) sauf si la gestion en est attribuée à la caisse de pension des employés privés».
+- L’article 250, alinéa 2, est libellé comme suit: «L’établissement d’assurance contre la vieillesse et l’invalidité est compétent pour les personnes affiliées au titre des périodes visées à l’article 171, 1), 4), 5), 8), 9), 10), 15) et 18) sauf si la gestion en est attribuée à la caisse de pension des employés privés».
 
 <a id="art-23"></a>
 ## Art. 23.

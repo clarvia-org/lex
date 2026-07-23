@@ -66,19 +66,19 @@ Les regroupements sous forme organisée de personnes à titre privé sont interd
 
 Ne sont pas visés par cette interdiction :
 
-1. les événements, visites ou rencontres à caractère privé organisés à domicile pour un nombre maximal de six personnes s’ajoutant aux personnes vivant déjà dans le même foyer ;
+- les événements, visites ou rencontres à caractère privé organisés à domicile pour un nombre maximal de six personnes s’ajoutant aux personnes vivant déjà dans le même foyer ;
 
-2. les regroupements en plein air dans un lieu public pour un nombre maximal de vingt personnes ;
+- les regroupements en plein air dans un lieu public pour un nombre maximal de vingt personnes ;
 
-3. les mariages civils et les funérailles pour un nombre maximal de vingt personnes ;
+- les mariages civils et les funérailles pour un nombre maximal de vingt personnes ;
 
-4. les activités de type « drive-in » aux endroits sur lesquels le stationnement de voitures ou motocycles est autorisé.
+- les activités de type « drive-in » aux endroits sur lesquels le stationnement de voitures ou motocycles est autorisé.
 
 Les rassemblements de personnes sont soumis aux conditions suivantes :
 
-1. six personnes s’ajoutant aux personnes vivant dans le même foyer lorsque le rassemblement à caractère privé a lieu à domicile ;
+- six personnes s’ajoutant aux personnes vivant dans le même foyer lorsque le rassemblement à caractère privé a lieu à domicile ;
 
-2. vingt personnes y compris les personnes vivant dans le même foyer lorsque le rassemblement a lieu en plein air et dans un lieu public.
+- vingt personnes y compris les personnes vivant dans le même foyer lorsque le rassemblement a lieu en plein air et dans un lieu public.
 
 Les rassemblements accueillant au-delà de vingt personnes à l’occasion d’événements publics exercés dans un établissement fermé ou dans un lieu ouvert sont autorisés sous la double condition de la mise à disposition de places assises assignées aux personnes qui assistent à l’événement et le respect d’une distance de deux mètres entre les personnes, sans que le port du masque soit obligatoire. Le port du masque est obligatoire à tout moment pour le personnel encadrant et pour les participants lorsqu’ils ne sont pas assis. La limitation concernant les places assises ne s’applique pas pour l’exercice de la liberté de manifester ni à l’occasion de cérémonies de funérailles à l’extérieur.
 
@@ -117,11 +117,11 @@ Les activités sportives en plein air sans contact physique sont autorisées, so
 
 Des conditions de sécurité, de distanciement et d’hygiène appropriées sont à respecter dont notamment :
 
-1. absence de toute activité à caractère compétitif ;
+- absence de toute activité à caractère compétitif ;
 
-2. activités sans public ;
+- activités sans public ;
 
-3. fermeture des douches et vestiaires.
+- fermeture des douches et vestiaires.
 
 S’y ajoute pour les activités sportives qui se déroulent dans le cadre d’une fédération agréée, le respect des distances interpersonnelles adaptées à la discipline sportive et des impératifs de santé publique.
 
@@ -174,7 +174,7 @@ Par dérogation au paragraphe 1er, ne sont pas visés par cette interdiction :
 
 - les pharmacies,
 
-- les opticiens, orthopédistes et audioprothésistes ,
+- les opticiens , orthopédistes et audioprothésistes ,
 
 - les commerces qui vendent principalement des aliments pour animaux,
 
@@ -236,27 +236,27 @@ Eu égard au risque particulier de contamination auquel sont exposées certaines
 
 Sans préjudice de la prise en charge des activités urgentes non-programmées, les établissements hospitaliers organisent la reprise des activités médicales et chirurgicales de manière cohérente afin de permettre un accès équitable des patients aux soins requis, en tenant compte des critères de priorisation suivants :
 
-1. leur intérêt en termes de santé publique ;
+- leur intérêt en termes de santé publique ;
 
-2. leur impact sur les ressources hospitalières humaines, infrastructurelles, en équipements et en médicaments ;
+- leur impact sur les ressources hospitalières humaines, infrastructurelles, en équipements et en médicaments ;
 
-3. leur impact sur les flux de patients et la gestion des risques ;
+- leur impact sur les flux de patients et la gestion des risques ;
 
-4. leur impact sur le parcours de soins en aval de l’hôpital aigu.
+- leur impact sur le parcours de soins en aval de l’hôpital aigu.
 
 Les activités commerciales suivantes sont interdites :
 
-1. projection de films cinématographiques à l’exception du cinéma en plein air accessible en voiture et/ou motocycle ;
+- projection de films cinématographiques à l’exception du cinéma en plein air accessible en voiture et/ou motocycle ;
 
-2. activités des centres de culture physique et similaires ;
+- activités des centres de culture physique et similaires ;
 
-3. activités des parcs d’attractions et parcs à thèmes ;
+- activités des parcs d’attractions et parcs à thèmes ;
 
-4. activités de jeux et de divertissement en salle ;
+- activités de jeux et de divertissement en salle ;
 
-5. activités de jeux de hasard et d’argent ;
+- activités de jeux de hasard et d’argent ;
 
-6. foires et salons.
+- foires et salons.
 
 Les foires et salons dans des établissements fermés sont interdits.
 
@@ -328,13 +328,13 @@ Eu égard au risque particulier de contamination auquel sont exposées certaines
 
 Sans préjudice de la prise en charge des activités urgentes non-programmées, les établissements hospitaliers organisent la reprise des activités médicales et chirurgicales de manière cohérente afin de permettre un accès équitable des patients aux soins requis, en tenant compte des critères de priorisation suivants :
 
-1. leur intérêt en termes de santé publique ;
+- leur intérêt en termes de santé publique ;
 
-2. leur impact sur les ressources hospitalières humaines, infrastructurelles, en équipements et en médicaments ;
+- leur impact sur les ressources hospitalières humaines, infrastructurelles, en équipements et en médicaments ;
 
-3. leur impact sur les flux de patients et la gestion des risques ;
+- leur impact sur les flux de patients et la gestion des risques ;
 
-4. leur impact sur le parcours de soins en aval de l’hôpital aigu.
+- leur impact sur le parcours de soins en aval de l’hôpital aigu.
 
 #### Chapitre 5 Mesures de protection
 
@@ -491,31 +491,31 @@ Par dérogation à la loi du 18 décembre 2015 relative à la protection interna
 <a id="art-14"></a>
 ## Art. 14.
 
-Les ressortissants de pays tiers ne peuvent plus entrer sur le territoire du Grand-Duché à partir du 18 mars 2020 à 18h00 jusqu’à la fin de l’état de crise tel que déclaré par le présent règlement grand-ducal et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 . Sont exempts des restrictions temporaires de voyage les citoyens de l’Union européenne, du Royaume-Uni, des pays associés à l’espace Schengen, de Saint-Marin, d’Andorre, de Monaco et du Vatican/Saint-Siège, ainsi que les membres de leur famille, dans le but de regagner leur domicile .
+Les ressortissants de pays tiers ne peuvent plus entrer sur le territoire du Grand-Duché à partir du 18 mars 2020 à 18h00 jusqu’à la fin de l’état de crise tel que déclaré par le présent règlement grand-ducal et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 . Sont exempts des restrictions temporaires de voyage les citoyens de l’Union européenne, du Royaume-Uni, des pays associés à l’espace Schengen, de Saint-Marin, d’Andorre, de Monaco et du Vatican/Saint-Siège, ainsi que les membres de leur famille , dans le but de regagner leur domicile .
 
 Les dérogations suivantes s’appliquent aux :
 
-1. Ressortissants de pays tiers qui possèdent le statut de résident de longue durée conformément à la Directive européenne 2003/109/CE relative aux résidents de longue durée, ainsi que toute autre personne disposant d’un droit de séjour conformément aux directives européennes ainsi qu’au droit national au Grand-Duché de Luxembourg ou un des pays limitrophes ;
+- Ressortissants de pays tiers qui possèdent le statut de résident de longue durée conformément à la Directive européenne 2003/109/CE relative aux résidents de longue durée, ainsi que toute autre personne disposant d’un droit de séjour conformément aux directives européennes ainsi qu’au droit national au Grand-Duché de Luxembourg ou un des pays limitrophes ;
 
-2. Professionnels de santé, chercheurs dans le domaine de la santé et professionnels des soins pour personnes âgées ;
+- Professionnels de santé, chercheurs dans le domaine de la santé et professionnels des soins pour personnes âgées ;
 
-3. Chercheurs et experts qui fournissent conseil dans le cadre de la pandémie du Covid-19 ;
+- Chercheurs et experts qui fournissent conseil dans le cadre de la pandémie du Covid-19 ;
 
-4. Travailleurs frontaliers ;
+- Travailleurs frontaliers ;
 
-5. Travailleurs saisonniers ;
+- Travailleurs saisonniers ;
 
-6. Personnes occupées dans le secteur des transports des marchandises et autres personnes occupées dans le secteur des transports de biens et de personnes, y compris le personnel des compagnies aériennes ;
+- Personnes occupées dans le secteur des transports des marchandises et autres personnes occupées dans le secteur des transports de biens et de personnes, y compris le personnel des compagnies aériennes ;
 
-7. Membres du corps diplomatique, personnel des organisations internationales, militaires, personnel du domaine de la coopération au développement et de l’aide humanitaire, à l’occasion de l’exercice de leurs fonctions respectives ;
+- Membres du corps diplomatique, personnel des organisations internationales, militaires, personnel du domaine de la coopération au développement et de l’aide humanitaire, à l’occasion de l’exercice de leurs fonctions respectives ;
 
-8. Passagers en transit ;
+- Passagers en transit ;
 
-9. Ressortissants de pays tiers rapatriés dans le cadre des opérations de rapatriement relevant du mécanisme de protection civile de l’Union européenne dans le but de regagner leur lieu de résidence situé en dehors du territoire des États membres, des pays associés à l’espace Schengen, du Royaume-Uni, de Saint-Marin, d’Andorre, de Monaco et du Vatican/Saint-Siège ;
+- Ressortissants de pays tiers rapatriés dans le cadre des opérations de rapatriement relevant du mécanisme de protection civile de l’Union européenne dans le but de regagner leur lieu de résidence situé en dehors du territoire des États membres, des pays associés à l’espace Schengen, du Royaume-Uni, de Saint-Marin, d’Andorre, de Monaco et du Vatican/Saint-Siège ;
 
-10. Passagers voyageant pour des raisons familiales urgentes et dûment justifiées ;
+- Passagers voyageant pour des raisons familiales urgentes et dûment justifiées ;
 
-11. Personnes désirant solliciter la protection internationale ou protections subsidiaires au Grand-Duché de Luxembourg ou pour d’autres raisons humanitaires.
+- Personnes désirant solliciter la protection internationale ou protections subsidiaires au Grand-Duché de Luxembourg ou pour d’autres raisons humanitaires.
 
 <a id="art-15"></a>
 ## Art. 15.

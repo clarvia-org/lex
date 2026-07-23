@@ -55,19 +55,19 @@ Aux fins de l'application du règlement (UE) 1286/2014 et de la présente loi, l
 
 Leurs pouvoirs incluent le droit :
 
-1. d’accéder à tout document et à toute autre donnée, sous quelque forme que ce soit, et d’en recevoir ou d’en prendre copie ;
+- d’accéder à tout document et à toute autre donnée, sous quelque forme que ce soit, et d’en recevoir ou d’en prendre copie ;
 
-2. de demander des informations à toute personne et, si nécessaire, de convoquer une personne et de l’entendre ;
+- de demander des informations à toute personne et, si nécessaire, de convoquer une personne et de l’entendre ;
 
-3. de procéder à des inspections sur place ou des enquêtes auprès des personnes soumises à leur surveillance respective ;
+- de procéder à des inspections sur place ou des enquêtes auprès des personnes soumises à leur surveillance respective ;
 
-4. d’enjoindre de cesser toute pratique contraire aux dispositions du règlement (UE) 1286/2014 , de la présente loi et des mesures prises pour leur exécution ;
+- d’enjoindre de cesser toute pratique contraire aux dispositions du règlement (UE) 1286/2014 , de la présente loi et des mesures prises pour leur exécution ;
 
-5. de prononcer l’interdiction temporaire d’activités professionnelles du secteur financier ou de l’assurance à l’encontre des personnes soumises à leur surveillance, ainsi que des membres de l’organe de direction, des salariés et des agents liés de ces personnes ;
+- de prononcer l’interdiction temporaire d’activités professionnelles du secteur financier ou de l’assurance à l’encontre des personnes soumises à leur surveillance, ainsi que des membres de l’organe de direction, des salariés et des agents liés de ces personnes ;
 
-6. d’adopter toute mesure nécessaire pour s’assurer que les personnes soumises à leur surveillance continuent de se conformer aux exigences du règlement (UE) 1286/2014 , de la présente loi et des mesures prises pour leur exécution ;
+- d’adopter toute mesure nécessaire pour s’assurer que les personnes soumises à leur surveillance continuent de se conformer aux exigences du règlement (UE) 1286/2014 , de la présente loi et des mesures prises pour leur exécution ;
 
-7. de transmettre des informations au procureur d’État en vue de poursuites pénales.
+- de transmettre des informations au procureur d’État en vue de poursuites pénales.
 
 (2)
 
@@ -84,27 +84,27 @@ La CSSF et le CAA ont le pouvoir d'infliger les sanctions administratives et aut
 
 Pour les cas visés au paragraphe 1er, la CSSF et le CAA peuvent prononcer, dans le respect de leurs compétences respectives :
 
-1. une décision interdisant la commercialisation d’un produit d’investissement packagé de détail et fondé sur l’assurance ;
+- une décision interdisant la commercialisation d’un produit d’investissement packagé de détail et fondé sur l’assurance ;
 
-2. une décision suspendant la commercialisation d’un produit d’investissement packagé de détail et fondé sur l’assurance ;
+- une décision suspendant la commercialisation d’un produit d’investissement packagé de détail et fondé sur l’assurance ;
 
-3. un avertissement public indiquant le nom de la personne responsable et la nature de la violation ;
+- un avertissement public indiquant le nom de la personne responsable et la nature de la violation ;
 
-4. une décision interdisant la fourniture d’un document d’informations clés qui n’est pas conforme aux exigences de l’article 6, 7, 8 ou 10 du règlement (UE) 1286/2014 et imposant la publication d’une nouvelle version d’un document d’informations clés ;
+- une décision interdisant la fourniture d’un document d’informations clés qui n’est pas conforme aux exigences de l’article 6, 7, 8 ou 10 du règlement (UE) 1286/2014 et imposant la publication d’une nouvelle version d’un document d’informations clés ;
 
-5. des amendes administratives :
+- des amendes administratives :
 
-1. dans le cas d’une personne morale :
+  - dans le cas d’une personne morale :
 
-1. d’un montant maximal de 5.000.000 d’euros ou de 3 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction, ou
+    - d’un montant maximal de 5.000.000 d’euros ou de 3 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction, ou
 
-2. d’un montant maximal de deux fois les bénéfices réalisés ou les pertes évitées en raison de la violation, s’ils peuvent être déterminés ;
+    - d’un montant maximal de deux fois les bénéfices réalisés ou les pertes évitées en raison de la violation, s’ils peuvent être déterminés ;
 
-2. dans le cas d’une personne physique :
+  - dans le cas d’une personne physique :
 
-1. d’un montant maximal de 700.000 euros, ou
+    - d’un montant maximal de 700.000 euros, ou
 
-2. d’un montant maximal de deux fois les bénéfices réalisés ou les pertes évitées en raison de la violation, s’ils peuvent être déterminés.
+    - d’un montant maximal de deux fois les bénéfices réalisés ou les pertes évitées en raison de la violation, s’ils peuvent être déterminés.
 
 Lorsque la personne morale visée à l’alinéa 1er, point 5, lettre a), est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des états financiers consolidés conformément à la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil, le chiffre d’affaires total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers états financiers consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.
 
@@ -116,17 +116,17 @@ La CSSF et le CAA peuvent prononcer une amende d'ordre de 250 à 250.000 euros c
 
 La CSSF et le CAA appliquent les sanctions et mesures administratives visées aux paragraphes 2 et 3 en tenant compte de tous les éléments pertinents, y compris, le cas échéant :
 
-1. de la gravité et de la durée de la violation ;
+- de la gravité et de la durée de la violation ;
 
-2. du degré de responsabilité de la personne responsable de la violation ;
+- du degré de responsabilité de la personne responsable de la violation ;
 
-3. des incidences de la violation sur les intérêts des investisseurs de détail ;
+- des incidences de la violation sur les intérêts des investisseurs de détail ;
 
-4. du comportement coopératif de la personne responsable de la violation ;
+- du comportement coopératif de la personne responsable de la violation ;
 
-5. d’éventuelles violations antérieures commises par la personne responsable de la violation ;
+- d’éventuelles violations antérieures commises par la personne responsable de la violation ;
 
-6. des mesures prises, après la violation, par la personne responsable de la violation pour éviter qu’elle ne se reproduise.
+- des mesures prises, après la violation, par la personne responsable de la violation pour éviter qu’elle ne se reproduise.
 
 (5)
 

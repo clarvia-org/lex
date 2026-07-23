@@ -29,23 +29,23 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La Direction de la santé a dans les limites fixées par les lois et règlements les missions suivantes:
 
-1. protéger et promouvoir la santé en tant que bien-être général sur les plans physique, psychique et social;
+- protéger et promouvoir la santé en tant que bien-être général sur les plans physique, psychique et social;
 
-2. étudier, surveiller et évaluer l'état de santé de la population et exécuter des mesures de santé publique, y compris les mesures d'urgence nécessaires à la protection de la santé;
+- étudier, surveiller et évaluer l'état de santé de la population et exécuter des mesures de santé publique, y compris les mesures d'urgence nécessaires à la protection de la santé;
 
-3. veiller à l'observation des dispositions légales et réglementaires en matière de santé publique;
+- veiller à l'observation des dispositions légales et réglementaires en matière de santé publique;
 
-4. mettre en œuvre des programmes de prévention et de promotion de la santé;
+- mettre en œuvre des programmes de prévention et de promotion de la santé;
 
-5. évaluer et promouvoir la qualité dans le domaine de la santé;
+- évaluer et promouvoir la qualité dans le domaine de la santé;
 
-6. contribuer sur le plan national et international à l'application de la politique sanitaire;
+- contribuer sur le plan national et international à l'application de la politique sanitaire;
 
-7. conseiller les autorités publiques et les collectivités sur les questions de santé;
+- conseiller les autorités publiques et les collectivités sur les questions de santé;
 
-8. promouvoir et exécuter des travaux de recherche scientifique dans le domaine de la santé;
+- promouvoir et exécuter des travaux de recherche scientifique dans le domaine de la santé;
 
-9. coordonner et promouvoir la formation continue pour médecins, médecins-dentistes et pharmaciens.
+- coordonner et promouvoir la formation continue pour médecins, médecins-dentistes et pharmaciens.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -71,21 +71,21 @@ La Direction de la santé se compose d'un département médical et technique et 
 
 Les huit divisions prennent les dénominations suivantes:
 
-1. Division de l'inspection sanitaire;
+- Division de l'inspection sanitaire;
 
-2. Division de la médecine préventive;
+- Division de la médecine préventive;
 
-3. Division de la médecine scolaire et de la santé des enfants et adolescents;
+- Division de la médecine scolaire et de la santé des enfants et adolescents;
 
-4. Division de la médecine curative et de la qualité en santé;
+- Division de la médecine curative et de la qualité en santé;
 
-5. Division de la pharmacie et des médicaments;
+- Division de la pharmacie et des médicaments;
 
-6. Division de la radioprotection;
+- Division de la radioprotection;
 
-7. Division de la santé au travail et de l'environnement;
+- Division de la santé au travail et de l'environnement;
 
-8. Division de la médecine sociale, des maladies de la dépendance et de la santé mentale;
+- Division de la médecine sociale, des maladies de la dépendance et de la santé mentale;
 
 Les divisions peuvent être subdivisées en services. Chaque division est dirigée par un chef de division.
 
@@ -155,31 +155,31 @@ Sa compétence s'étend également aux organismes génétiquement modifiés.
 
 les médecins de la Direction de la santé sont chargés:
 
-1. de veiller à l'observation des lois et règlements en matière de santé publique;
+- de veiller à l'observation des lois et règlements en matière de santé publique;
 
-2. de contrôler le fonctionnement des services médico-sociaux, publics ou privés;
+- de contrôler le fonctionnement des services médico-sociaux, publics ou privés;
 
-3. d'étudier les questions de santé publique et de faire au directeur de la santé les propositions d'amélioration qu'ils jugent opportunes;
+- d'étudier les questions de santé publique et de faire au directeur de la santé les propositions d'amélioration qu'ils jugent opportunes;
 
-4. de prendre les mesures d'urgence qui s'imposent dans l'intérêt de la santé publique.
+- de prendre les mesures d'urgence qui s'imposent dans l'intérêt de la santé publique.
 
 (2)
 
 Dans l'exécution de leur mission de surveillance et de contrôle, les médecins de la Direction de la santé ont le droit d'entrer de jour et de nuit, lorsque l'existence soit d'un cas de maladie contagieuse, soit d'une contamination, soit de conditions sanitaires défectueuses peut être présumée sur la base d'indices graves:
 
-1. dans les bâtiments publics,
+- dans les bâtiments publics,
 
-2. dans tous les établissements publics ou privés tels que: établissements hospitaliers, cabinets médicaux, pouponnières, crèches, écoles, maisons-relais, pensionnats, auberges de jeunesse, casernes, établissements pénitentiaires, usines, magasins, théâtres, cinémas, établissements de bains, terrains et salles de sport,
+- dans tous les établissements publics ou privés tels que: établissements hospitaliers, cabinets médicaux, pouponnières, crèches, écoles, maisons-relais, pensionnats, auberges de jeunesse, casernes, établissements pénitentiaires, usines, magasins, théâtres, cinémas, établissements de bains, terrains et salles de sport,
 
-3. dans les structures offrant accueil et hébergement et les services visés par la loi modifiée du 8 septembre 1998 réglant les relations entre l'Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique,
+- dans les structures offrant accueil et hébergement et les services visés par la loi modifiée du 8 septembre 1998 réglant les relations entre l'Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique,
 
-4. dans les exploitations agricoles,
+- dans les exploitations agricoles,
 
-5. dans les lieux où sont fabriqués, manipulés, entreposés et vendus des denrées alimentaires, des boissons, des médicaments, ainsi que les produits et organismes visés à l'article 6, paragraphe 1 er , point 1),
+- dans les lieux où sont fabriqués, manipulés, entreposés et vendus des denrées alimentaires, des boissons, des médicaments, ainsi que les produits et organismes visés à l'article 6, paragraphe 1 er , point 1),
 
-6. dans les immeubles en voie de construction,
+- dans les immeubles en voie de construction,
 
-7. dans les habitations privées.
+- dans les habitations privées.
 
 Lorsque l'entrée dans un des lieux précités est refusée au médecin de la Direction de la santé, celui-ci ordonnera la visite par une décision spéciale et motivée. En ce qui concerne les locaux destinés à l'habitation, leur visite est conditionnée à l'accord explicite du président du Tribunal d'arrondissement du lieu de situation de l'habitation.
 
@@ -192,19 +192,19 @@ Le médecin de la Direction de la santé a le droit de requérir directement le 
 
 Les pharmaciens-inspecteurs sont chargés:
 
-1. de veiller à l'observation des lois et règlements ayant trait à l'exercice de la pharmacie, aux médicaments, aux produits cosmétiques, vénéneux et toxiques, ainsi qu'aux dispositifs médicaux;
+- de veiller à l'observation des lois et règlements ayant trait à l'exercice de la pharmacie, aux médicaments, aux produits cosmétiques, vénéneux et toxiques, ainsi qu'aux dispositifs médicaux;
 
-2. de procéder à l'inspection:
+- de procéder à l'inspection:
 
-- des pharmacies, y compris les pharmacies hospitalières;
+  - des pharmacies, y compris les pharmacies hospitalières;
 
-- des établissements pharmaceutiques de fabrication, d'importation et de distribution des médicaments;
+  - des établissements pharmaceutiques de fabrication, d'importation et de distribution des médicaments;
 
-- plus généralement de tous les lieux où sont fabriqués, manipulés, entreposés ou mis en vente les produits et substances visés au point 1);
+  - plus généralement de tous les lieux où sont fabriqués, manipulés, entreposés ou mis en vente les produits et substances visés au point 1);
 
-3. de donner leur avis sur des questions concernant la pharmacie et les médicaments et de faire au directeur de la santé les propositions d'amélioration qu'ils jugent opportunes;
+- de donner leur avis sur des questions concernant la pharmacie et les médicaments et de faire au directeur de la santé les propositions d'amélioration qu'ils jugent opportunes;
 
-4. de rassembler des rapports sur les effets secondaires observés pour certains médicaments et certaines substances et d'en informer le corps médical et pharmaceutique.
+- de rassembler des rapports sur les effets secondaires observés pour certains médicaments et certaines substances et d'en informer le corps médical et pharmaceutique.
 
 (2)
 
@@ -265,9 +265,9 @@ Les administrations communales ne peuvent, sauf le cas d'urgence, introduire auc
 
 Lorsqu'il s'agit de prévenir ou de combattre des maladies contagieuses ou des contaminations, le médecin de la Direction de la santé a le droit d'édicter lui-même, sous forme d'ordonnance, les mesures d'urgence qu'il juge nécessaire à l'exception d'une mesure d'hospitalisation forcée. Ces mesures sont portées à la connaissance des intéressés:
 
-1. s'il s'agit d'une mesure collective, par voie de publication dans la presse écrite et audiovisuelle;
+- s'il s'agit d'une mesure collective, par voie de publication dans la presse écrite et audiovisuelle;
 
-2. s'il s'agit d'une mesure individuelle, par une notification à personne faite par voie administrative.
+- s'il s'agit d'une mesure individuelle, par une notification à personne faite par voie administrative.
 
 Elles doivent être immédiatement exécutées nonobstant recours.
 
@@ -394,52 +394,56 @@ L'audiométriste bénéficie d'un premier avancement en traitement au grade 6 ap
 
 Les modifications et additions suivantes sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat:
 
-1. L'article 22 est modifié comme suit: A la section II au numéro 4° est ajoutée la mention: l'audiométriste de la santé; au numéro 8° est ajoutée la mention: l'éducateur sanitaire de la santé (grade 8); au numéro 9° est ajoutée la mention: l'orthoptiste de la santé; au numéro 10° est ajoutée la mention: expert en sciences hospitalières; au numéro 11° est ajoutée la mention: ingénieur nucléaire; au numéro 12° sont ajoutées les mentions: médecin chef de service de la santé (grade 15) et médecin-dentiste de la santé (grade 15); au numéro 19° est ajoutée la mention: le médecin chef de division de la santé; A la section IV au numéro 9° est ajoutée la mention: l'orthoptiste de la santé;
+- L'article 22 est modifié comme suit: A la section II au numéro 4° est ajoutée la mention: l'audiométriste de la santé; au numéro 8° est ajoutée la mention: l'éducateur sanitaire de la santé (grade 8); au numéro 9° est ajoutée la mention: l'orthoptiste de la santé; au numéro 10° est ajoutée la mention: expert en sciences hospitalières; au numéro 11° est ajoutée la mention: ingénieur nucléaire; au numéro 12° sont ajoutées les mentions: médecin chef de service de la santé (grade 15) et médecin-dentiste de la santé (grade 15); au numéro 19° est ajoutée la mention: le médecin chef de division de la santé; A la section IV au numéro 9° est ajoutée la mention: l'orthoptiste de la santé;
 
-2. A l'annexe A. - Classification des fonctions, la rubrique I Administration générale est modifiée et complétée comme suit:
+- A l'annexe A. - Classification des fonctions, la rubrique I Administration générale est modifiée et complétée comme suit:
 
-1. au grade 4 est ajoutée la mention: Santé - °audiométriste,
+  - au grade 4 est ajoutée la mention: Santé - °audiométriste,
 
-2. au grade 8 est ajoutée la mention: Santé - °éducateur sanitaire,
+  - au grade 8 est ajoutée la mention: Santé - °éducateur sanitaire,
 
-3. au grade 10 est ajoutée la mention: Santé - °orthoptiste,
+  - au grade 10 est ajoutée la mention: Santé - °orthoptiste,
 
-4. au grade 12 est ajoutée la mention: Santé -°expert en sciences hospitalières,
+  - au grade 12 est ajoutée la mention: Santé -°expert en sciences hospitalières,
 
-5. au grade 14 est supprimée la mention: Santé publique - médecin-inspecteur adjoint,
+  - au grade 14 est supprimée la mention: Santé publique - médecin-inspecteur adjoint,
 
-6. au grade 14 est ajoutée la mention: Santé - °ingénieur nucléaire,
+  - au grade 14 est ajoutée la mention: Santé - °ingénieur nucléaire,
 
-7. au grade 15 sont ajoutées les mentions: Santé - °médecin chef de service, Santé - °médecin-dentiste,
+  - au grade 15 sont ajoutées les mentions: Santé - °médecin chef de service, Santé - °médecin-dentiste,
 
-8. au grade 16 sont ajoutées les mentions: Santé - °médecin chef de division, Santé - °expert en radioprotection chef de division, Santé - °ingénieur nucléaire chef de division, Santé - °pharmacien-inspecteur chef de division,
+  - au grade 16 sont ajoutées les mentions: Santé - °médecin chef de division, Santé - °expert en radioprotection chef de division, Santé - °ingénieur nucléaire chef de division, Santé - °pharmacien-inspecteur chef de division,
 
-9. au grade 17 est ajoutée la mention: Santé - directeur adjoint.
+  - au grade 17 est ajoutée la mention: Santé - directeur adjoint.
 
-3. A l'annexe A. - Classification des fonctions, la rubrique IV Enseignement est modifiée et complétée comme suit: au grade E 5 est ajoutée la mention: Santé - professeur d'enseignement logopédique.
+- A l'annexe A. - Classification des fonctions, la rubrique IV Enseignement est modifiée et complétée comme suit: au grade E 5 est ajoutée la mention: Santé - professeur d'enseignement logopédique.
 
-4. A l'annexe D. - Détermination, la rubrique 1 Administration générale est modifiée et complétée comme suit:
+- A l'annexe D. - Détermination, la rubrique 1 Administration générale est modifiée et complétée comme suit:
 
-1. A la carrière inférieure de l'administration, au grade 4 est ajoutée la mention audiométriste.
+  - A la carrière inférieure de l'administration, au grade 4 est ajoutée la mention audiométriste.
 
-- grade 3 de computation de la bonification d'ancienneté,
+    - grade 3 de computation de la bonification d'ancienneté,
 
-2. A la carrière moyenne de l'administration, au grade 8 est ajoutée la mention éducateur sanitaire,
+  - A la carrière moyenne de l'administration, au grade 8 est ajoutée la mention éducateur sanitaire,
 
-- grade 7 de computation de la bonification d'ancienneté,
+    - grade 7 de computation de la bonification d'ancienneté,
 
-- grade 10 de computation de la bonification d'ancienneté, est ajoutée la mention: orthoptist ,
+    - grade 10 de computation de la bonification d'ancienneté, est ajoutée la mention: orthoptist ,
 
-3. A la carrière supérieure de l'administration, au grade 12 est ajoutée la mention: expert en sciences hospitalières au grade 14 est ajoutée la mention: ingénieur nucléaire au grade 16 sont ajoutées les mentions: expert en radioprotection chef de division, ingénieur nucléaire chef de division, pharmacien-inspecteur chef de division, au grade 17 est ajoutée la mention: directeur adjoint de la santé.
+  - A la carrière supérieure de l'administration, au grade 12 est ajoutée la mention: expert en sciences hospitalières au grade 14 est ajoutée la mention: ingénieur nucléaire au grade 16 sont ajoutées les mentions: expert en radioprotection chef de division, ingénieur nucléaire chef de division, pharmacien-inspecteur chef de division, au grade 17 est ajoutée la mention: directeur adjoint de la santé.
 
-- grade 12 de computation de la bonification d'ancienneté,
+    - grade 12 de computation de la bonification d'ancienneté,
 
-- grade 14 de computation de la bonification d'ancienneté, au grade 14 est supprimée la mention: médecin-inspecteur adjoint , au grade 15 sont ajoutées les mentions: médecin chef de service de la santé et médecin-dentiste de la santé , au grade 16 est ajoutée la mention: médecin chef de division de la santé ,
+    - grade 14 de computation de la bonification d'ancienneté, au grade 14 est supprimée la mention: médecin-inspecteur adjoint , au grade 15 sont ajoutées les mentions: médecin chef de service de la santé et médecin-dentiste de la santé , au grade 16 est ajoutée la mention: médecin chef de division de la santé ,
+
+Dispositions additionnelles
 
 <a id="art-21-et-art-22"></a>
 ## Art. 21. et Art. 22.
 
 (Abrogés)
+
+Dispositions transitoires
 
 <a id="art-23"></a>
 ## Art. 23.
@@ -457,9 +461,9 @@ Sont abrogés:
 
 - la loi du 23 mai 1958 portant
 
-1. réglementation générale de la vente, du débit et de la publicité des spécialités pharmaceutiques dans le Grand-Duché de Luxembourg;
+  - réglementation générale de la vente, du débit et de la publicité des spécialités pharmaceutiques dans le Grand-Duché de Luxembourg;
 
-2. création d'un poste de pharmacien-inspecteur;
+  - création d'un poste de pharmacien-inspecteur;
 
 - l'alinéa 25 de l'article 13 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat.
 

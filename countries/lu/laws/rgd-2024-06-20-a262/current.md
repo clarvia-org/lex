@@ -44,23 +44,39 @@ warning: 'Official consolidation: Version rectifiée applicable au 01/07/2024 : 
 <a id="art-1er"></a>
 ## Art. 1er.
 
-L’article 3bis du règlement grand-ducal modifié du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration est remplacé comme suit : « Art. 3bis. Pour l’application de l’article 45-3, paragraphe 2, point 6, de la loi, les ressources du titulaire de la carte bleue européenne sont évaluées par rapport à leur nature et leur régularité, ainsi que par référence au montant mensuel du salaire social minimum d’un travailleur non qualifié. Le ministre peut tenir compte du nombre de membres que compte la famille du titulaire de la carte bleue européenne. Cette évaluation tient compte des contributions des membres de la famille aux revenus du ménage. ».
+L’article 3bis du règlement grand-ducal modifié du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration est remplacé comme suit :
+
+<a id="art-3bis"></a>
+## « Art. 3bis.
+
+Pour l’application de l’article 45-3, paragraphe 2, point 6, de la loi, les ressources du titulaire de la carte bleue européenne sont évaluées par rapport à leur nature et leur régularité, ainsi que par référence au montant mensuel du salaire social minimum d’un travailleur non qualifié. Le ministre peut tenir compte du nombre de membres que compte la famille du titulaire de la carte bleue européenne. Cette évaluation tient compte des contributions des membres de la famille aux revenus du ménage. ».
 
 <a id="art-2"></a>
 ## Art. 2.
 
-À la suite de l’article 9 du règlement grand-ducal modifié du 5 septembre 2008 portant exécution de certaines dispositions relatives aux formalités administratives prévues par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration, il est inséré un article 9bis nouveau, libellé comme suit : « Art. 9bis. Le titre de séjour visé à l’article 45-1, paragraphe 1er, de la loi, mentionne les conditions d’accès au marché du travail. Lorsqu’une carte bleue européenne est délivrée à un ressortissant de pays tiers visé par l’article 45-1, paragraphe 3, de la loi, l’observation suivante est inscrite sous la rubrique « Observations » du titre de séjour : « Protection internationale accordée par le Grand-Duché de Luxembourg le [date] ». Lorsque la protection internationale dont bénéficie le titulaire de la carte bleue européenne est retirée, une nouvelle carte bleue européenne ne contenant pas l’observation prémentionnée lui est délivrée. Lorsqu’une carte bleue européenne est délivrée à un ressortissant de pays tiers visé par l’article 45-1, paragraphe 4, de la loi, l’observation suivante est inscrite sous la rubrique « Observations » du titre de séjour : « Protection internationale accordée par [nom de l’Etat membre] le [date] ». Lorsqu’une carte bleue européenne est délivrée à un ressortissant de pays tiers visé par l’article 45-1, paragraphe 5, de la loi, l’observation suivante est inscrite sous la rubrique « Observations » du titre de séjour : « [Professions non énumérées à l’annexe I] ». ».
+À la suite de l’article 9 du règlement grand-ducal modifié du 5 septembre 2008 portant exécution de certaines dispositions relatives aux formalités administratives prévues par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration, il est inséré un article 9bis nouveau, libellé comme suit :
+
+<a id="art-9bis"></a>
+## « Art. 9bis.
+
+Le titre de séjour visé à l’article 45-1, paragraphe 1er, de la loi, mentionne les conditions d’accès au marché du travail.
+
+Lorsqu’une carte bleue européenne est délivrée à un ressortissant de pays tiers visé par l’article 45-1, paragraphe 3, de la loi, l’observation suivante est inscrite sous la rubrique « Observations » du titre de séjour : « Protection internationale accordée par le Grand-Duché de Luxembourg le [date] ». Lorsque la protection internationale dont bénéficie le titulaire de la carte bleue européenne est retirée, une nouvelle carte bleue européenne ne contenant pas l’observation prémentionnée lui est délivrée.
+
+Lorsqu’une carte bleue européenne est délivrée à un ressortissant de pays tiers visé par l’article 45-1, paragraphe 4, de la loi, l’observation suivante est inscrite sous la rubrique « Observations » du titre de séjour : « Protection internationale accordée par [nom de l’Etat membre] le [date] ».
+
+Lorsqu’une carte bleue européenne est délivrée à un ressortissant de pays tiers visé par l’article 45-1, paragraphe 5, de la loi, l’observation suivante est inscrite sous la rubrique « Observations » du titre de séjour : « [Professions non énumérées à l’annexe I] ». ».
 
 <a id="art-3"></a>
 ## Art. 3.
 
 L’article 1er du règlement grand-ducal modifié du 26 septembre 2008 déterminant le niveau de rémunération minimal pour un travailleur hautement qualifié en exécution de la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration est modifié comme suit :
 
-1. À l’alinéa 1 er , les termes et demie sont supprimés.
+- À l’alinéa 1 er , les termes et demie sont supprimés.
 
-2. Les alinéas 2, 3 et 4 sont supprimés.
+- Les alinéas 2, 3 et 4 sont supprimés.
 
-3. À l’alinéa 5, les termes aux alinéas qui précèdent sont remplacés par les termes à l’alinéa 1er et le terme Mémorial est remplacé par les termes Journal officiel du Grand-Duché de Luxembourg .
+- À l’alinéa 5, les termes aux alinéas qui précèdent sont remplacés par les termes à l’alinéa 1er et le terme Mémorial est remplacé par les termes Journal officiel du Grand-Duché de Luxembourg .
 
 <a id="art-4"></a>
 ## Art. 4.

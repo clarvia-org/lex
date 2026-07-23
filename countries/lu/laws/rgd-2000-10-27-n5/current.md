@@ -95,19 +95,19 @@ I.
 
 La formation continue du personnel visé par le présent règlement se compose de deux catégories de cours.
 
-1. Les cours de la première catégorie sont ceux qui, dans le programme de formation continue, sont caractérisés comme « cours de perfectionnement » et pour lesquels la participation peut donner lieu à une appréciation.
+- Les cours de la première catégorie sont ceux qui, dans le programme de formation continue, sont caractérisés comme « cours de perfectionnement » et pour lesquels la participation peut donner lieu à une appréciation.
 
-2. Les cours de la deuxième catégorie sont ceux qui, dans le programme de formation continue sont caractérisés comme « cours d’intérêt général ».
+- Les cours de la deuxième catégorie sont ceux qui, dans le programme de formation continue sont caractérisés comme « cours d’intérêt général ».
 
 Le programme de formation continue mentionne pour chaque cours la catégorie dans laquelle il est classé. Les modalités de l’évaluation des connaissances sont définies par le Ministre ayant dans ses attributions la Fonction publique sur avis obligatoire du Ministre de l’Intérieur et de la commission administrative de l’Institut.
 
 II.
 
-1. L’Institut établit un certificat de perfectionnement pour l’agent qui a accompli un cours de la première catégorie. Le certificat de perfectionnement renseigne sur la participation au cours et sur la durée effective du cours exprimée en jours de cours.
+- L’Institut établit un certificat de perfectionnement pour l’agent qui a accompli un cours de la première catégorie. Le certificat de perfectionnement renseigne sur la participation au cours et sur la durée effective du cours exprimée en jours de cours.
 
-2. L’Institut établit un certificat de présence pour l’agent qui a suivi un cours de deuxième catégorie. Le certificat de présence renseigne sur la participation au cours et sur la durée effective du cours.
+- L’Institut établit un certificat de présence pour l’agent qui a suivi un cours de deuxième catégorie. Le certificat de présence renseigne sur la participation au cours et sur la durée effective du cours.
 
-3. Le certificat de perfectionnement ou le certificat de présence n’est délivré que si l’agent a suivi le cours de formation continue dans son intégralité.
+- Le certificat de perfectionnement ou le certificat de présence n’est délivré que si l’agent a suivi le cours de formation continue dans son intégralité.
 
 III.
 
@@ -128,27 +128,27 @@ Le cycle en management public comprend un niveau d’initiation et un niveau de 
 
 Le niveau de qualification n’est accessible qu’au fonctionnaire qui a suivi l’ensemble des séminaires du niveau d’initiation.
 
-1. Le niveau d’initiation comprend notamment les séminaires suivants:
+- Le niveau d’initiation comprend notamment les séminaires suivants:
 
-- Conduite de réunions
+  - Conduite de réunions
 
-- Contrôle interne
+  - Contrôle interne
 
-- Prise de parole en public
+  - Prise de parole en public
 
-- Techniques de management
+  - Techniques de management
 
-2. Le niveau de qualification comprend notamment les séminaires suivants:
+- Le niveau de qualification comprend notamment les séminaires suivants:
 
-- Conduite de collaborateurs
+  - Conduite de collaborateurs
 
-- Fonctions de direction
+  - Fonctions de direction
 
-- Project management
+  - Project management
 
-- Techniques de l’information
+  - Techniques de l’information
 
-- Gestion des ressources humaines
+  - Gestion des ressources humaines
 
 Le Ministre ayant dans ses attributions la Fonction publique peut intégrer d’autres séminaires dans le cycle en management public, le Ministre de l’Intérieur et la commission administrative de l’Institut entendus en leur avis.
 
@@ -206,15 +206,15 @@ II.
 
 La demande doit mentionner :
 
-1. les motifs permettant de constater le caractère exceptionnel du séminaire suivi ainsi que sa compatibilité avec l’intérêt de service
+- les motifs permettant de constater le caractère exceptionnel du séminaire suivi ainsi que sa compatibilité avec l’intérêt de service
 
-2. le sujet du séminaire accompagné d’un bref descriptif
+- le sujet du séminaire accompagné d’un bref descriptif
 
-3. l’organisme ayant assuré la formation
+- l’organisme ayant assuré la formation
 
-4. la date et le lieu du déroulement de l’activité
+- la date et le lieu du déroulement de l’activité
 
-5. la durée effective de l’activité.
+- la durée effective de l’activité.
 
 Elle doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation et attestant que l’agent a effectivement participé à l’activité en question.
 
@@ -225,24 +225,24 @@ Elle doit en outre être accompagnée d’une attestation émise par l’organis
 
 Le règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes à ceux des fonctionnaires de l’Etat est modifié comme suit :
 
-1. Au paragraphe II de l’article 15 il est ajouté un nouveau point 1), les alinéas 1 à 3 actuels devenant le nouveau point 2). Le nouveau point II 1) a la teneur suivante : II. 1) Sans préjudice des conditions spéciales de promotion prévues pour les différentes carrières par le présent article, nul ne peut être nommé à une fonction du cadre ouvert autre que celle de début de carrière s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli le nombre de jours de formation continue requis par le présent paragraphe, ou qu’il en a été dispensé pour des raisons dûment motivées par le Ministre de l’Intérieur. Pour les carrières dont le cadre ouvert comprend deux grades de promotion, le fonctionnaire doit avoir accompli six jours de cours dans le premier grade de promotion et six jours de cours dans le deuxième grade de promotion. Pour les carrières dont le cadre ouvert comprend trois grades de promotion, le fonctionnaire doit avoir accompli quatre jours de cours dans le premier grade de promotion, quatre jours de cours dans le deuxième grade de promotion et quatre jours de cours dans le troisième grade de promotion.
+- Au paragraphe II de l’article 15 il est ajouté un nouveau point 1), les alinéas 1 à 3 actuels devenant le nouveau point 2). Le nouveau point II 1) a la teneur suivante : II. 1) Sans préjudice des conditions spéciales de promotion prévues pour les différentes carrières par le présent article, nul ne peut être nommé à une fonction du cadre ouvert autre que celle de début de carrière s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli le nombre de jours de formation continue requis par le présent paragraphe, ou qu’il en a été dispensé pour des raisons dûment motivées par le Ministre de l’Intérieur. Pour les carrières dont le cadre ouvert comprend deux grades de promotion, le fonctionnaire doit avoir accompli six jours de cours dans le premier grade de promotion et six jours de cours dans le deuxième grade de promotion. Pour les carrières dont le cadre ouvert comprend trois grades de promotion, le fonctionnaire doit avoir accompli quatre jours de cours dans le premier grade de promotion, quatre jours de cours dans le deuxième grade de promotion et quatre jours de cours dans le troisième grade de promotion.
 
-2. Le premier alinéa du nouveau point II.2) de l’article 15 est modifié comme suit : 2) Nul ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il n’a pas accompli au moins douze jours de cours de perfectionnement à moins d’en avoir été dispensé pour des raisons dûment motivées par le Ministre de l’Intérieur, sans préjudice des dispositions applicables aux fonctionnaires ayant changé de carrière conformément au règlement grand-ducal du 17 mars 1982 fixant les conditions et modalités de l’accès du fonctionnaire à une carrière supérieure à la sienne.
+- Le premier alinéa du nouveau point II.2) de l’article 15 est modifié comme suit : 2) Nul ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il n’a pas accompli au moins douze jours de cours de perfectionnement à moins d’en avoir été dispensé pour des raisons dûment motivées par le Ministre de l’Intérieur, sans préjudice des dispositions applicables aux fonctionnaires ayant changé de carrière conformément au règlement grand-ducal du 17 mars 1982 fixant les conditions et modalités de l’accès du fonctionnaire à une carrière supérieure à la sienne.
 
-3. Entre le deuxième et le troisième alinéa du point II modifié il est intercalé un nouveau point 3 suivant : 3) Par dérogation aux dispositions du point 2 qui précède, le fonctionnaire appartenant à l’une des carrières visées à l’article 15 sub XIV, XIV bis.1 et XIV bis 2. du présent règlement grand-ducal ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut présenter un certificat de qualification attestant qu’il a accompli un cycle de formation en management public. Le cycle de formation en management public est organisé par l’Institut national d’administration publique dans les conditions et suivant les modalités fixées par le règlement grand-ducal prévu à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.
+- Entre le deuxième et le troisième alinéa du point II modifié il est intercalé un nouveau point 3 suivant : 3) Par dérogation aux dispositions du point 2 qui précède, le fonctionnaire appartenant à l’une des carrières visées à l’article 15 sub XIV, XIV bis.1 et XIV bis 2. du présent règlement grand-ducal ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut présenter un certificat de qualification attestant qu’il a accompli un cycle de formation en management public. Le cycle de formation en management public est organisé par l’Institut national d’administration publique dans les conditions et suivant les modalités fixées par le règlement grand-ducal prévu à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.
 
-4. Au paragraphe XI de l’article 17, le premier alinéa du point 1) est modifié comme suit : Sur sa demande, le fonctionnaire peut bénéficier des allongements de grade ci-après à la condition d’avoir accompli au cours de sa carrière au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensés pour des raisons dûment motivées par le Ministre de l’Intérieur.
+- Au paragraphe XI de l’article 17, le premier alinéa du point 1) est modifié comme suit : Sur sa demande, le fonctionnaire peut bénéficier des allongements de grade ci-après à la condition d’avoir accompli au cours de sa carrière au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensés pour des raisons dûment motivées par le Ministre de l’Intérieur.
 
-5. Au paragraphe III de l’article 17, le premier alinéa du point 1) est modifié comme suit : 1. Les fonctionnaires énumérés ci-après sont classés au grade 9 (grade de computation 7), ils avancent au grade 10 trois ans après la nomination définitive, ils avancent au grade 11 trois ans après avoir atteint le grade 10, ils avancent au grade 12 trois ans après avoir atteint le grade 11 et ils avancent au grade 13 trois ans après avoir atteint le grade 12 ; pour ces fonctionnaires le grade 13 est allongé par les échelons 455 et 466 sous condition qu’ils aient accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensés pour des raisons dûment motivées par le Ministre de l’Intérieur.
+- Au paragraphe III de l’article 17, le premier alinéa du point 1) est modifié comme suit : 1. Les fonctionnaires énumérés ci-après sont classés au grade 9 (grade de computation 7), ils avancent au grade 10 trois ans après la nomination définitive, ils avancent au grade 11 trois ans après avoir atteint le grade 10, ils avancent au grade 12 trois ans après avoir atteint le grade 11 et ils avancent au grade 13 trois ans après avoir atteint le grade 12 ; pour ces fonctionnaires le grade 13 est allongé par les échelons 455 et 466 sous condition qu’ils aient accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensés pour des raisons dûment motivées par le Ministre de l’Intérieur.
 
 <a id="art-15"></a>
 ## Art. 15.
 
 Le règlement grand-ducal du 5 octobre 1987 concernant les allongements et les substitutions de grade des fonctionnaires communaux est modifié comme suit :
 
-1. Les articles 2, 3 et 4 sont abrogés.
+- Les articles 2, 3 et 4 sont abrogés.
 
-2. A l’article 5, le premier alinéa est remplacé comme suit : Si les conditions de formation continue sont remplies, les allongements échoient, le premier deux années après la date où le fonctionnaire a atteint le maximum barémique de son grade, le deuxième deux années après le premier.
+- A l’article 5, le premier alinéa est remplacé comme suit : Si les conditions de formation continue sont remplies, les allongements échoient, le premier deux années après la date où le fonctionnaire a atteint le maximum barémique de son grade, le deuxième deux années après le premier.
 
 #### Chapitre IX. Dispositions transitoires
 

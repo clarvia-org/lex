@@ -52,27 +52,27 @@ Le siège de l’établissement est fixé à Luxembourg. Il peut être transfér
 
 Le Fonds a pour mission
 
-1. de recevoir, de gérer et d’employer des allocations et dons provenant de sources publiques ou privées dans l’intérêt de financer et de promouvoir la recherche dans le secteur public en vue de contribuer au progrès économique, social et culturel du pays, ainsi que
+- de recevoir, de gérer et d’employer des allocations et dons provenant de sources publiques ou privées dans l’intérêt de financer et de promouvoir la recherche dans le secteur public en vue de contribuer au progrès économique, social et culturel du pays, ainsi que
 
-2. de contribuer au processus de réflexion en vue de l’orientation de la politique nationale de la recherche.
+- de contribuer au processus de réflexion en vue de l’orientation de la politique nationale de la recherche.
 
 (2)
 
 A cet effet, il est appelé à
 
-1. développer et mettre en œuvre des programmes pluriannuels de recherche;
+- développer et mettre en œuvre des programmes pluriannuels de recherche;
 
-2. allouer dans le cadre de programmes pluriannuels de recherche des subventions à des projets de recherche qui ont été sélectionnés sur base de critères de qualité scientifique, en prenant en compte leur potentiel économique, social ou culturel;
+- allouer dans le cadre de programmes pluriannuels de recherche des subventions à des projets de recherche qui ont été sélectionnés sur base de critères de qualité scientifique, en prenant en compte leur potentiel économique, social ou culturel;
 
-3. allouer des aides à la formation-recherche et financer des mesures liées à la promotion de celles-ci, afin de soutenir des chercheurs en formation;
+- allouer des aides à la formation-recherche et financer des mesures liées à la promotion de celles-ci, afin de soutenir des chercheurs en formation;
 
-4. contribuer à l’application et à la valorisation des résultats de recherche de ces programmes et projets et veiller au respect de la propriété intellectuelle engendrée dans le cadre des activités soutenues;
+- contribuer à l’application et à la valorisation des résultats de recherche de ces programmes et projets et veiller au respect de la propriété intellectuelle engendrée dans le cadre des activités soutenues;
 
-5. promouvoir, coordonner ou gérer, en tout ou en partie, la participation luxembourgeoise à des programmes de coopération internationale en recherche, notamment en allouant des subventions à des projets de recherche réalisés dans le cadre de programmes internationaux;
+- promouvoir, coordonner ou gérer, en tout ou en partie, la participation luxembourgeoise à des programmes de coopération internationale en recherche, notamment en allouant des subventions à des projets de recherche réalisés dans le cadre de programmes internationaux;
 
-6. promouvoir la culture scientifique et la recherche aux niveaux national et international;
+- promouvoir la culture scientifique et la recherche aux niveaux national et international;
 
-7. présenter de sa propre initiative au ministre ayant dans ses attributions la recherche dans le secteur public, toute proposition, suggestion et information pouvant contribuer à la mise en œuvre de la politique nationale de recherche, sur base des expériences acquises avec la mise en œuvre des activités du Fonds.
+- présenter de sa propre initiative au ministre ayant dans ses attributions la recherche dans le secteur public, toute proposition, suggestion et information pouvant contribuer à la mise en œuvre de la politique nationale de recherche, sur base des expériences acquises avec la mise en œuvre des activités du Fonds.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -85,11 +85,11 @@ Dans le cadre de la mise en œuvre des missions visées à l’article 2, le Fon
 
 Peuvent bénéficier de l’intervention du Fonds les organismes suivants établis sur le territoire du Grand-Duché de Luxembourg:
 
-1. les établissements publics pour lesquels la recherche constitue une mission légale;
+- les établissements publics pour lesquels la recherche constitue une mission légale;
 
-2. les organismes, services et établissements publics, entreprenant, dans les domaines qui les concernent, des activités de recherche;
+- les organismes, services et établissements publics, entreprenant, dans les domaines qui les concernent, des activités de recherche;
 
-3. les associations et les fondations sans but lucratif régies par les dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif et les sociétés d’impact sociétal régies par la loi modifiée du 12 décembre 2016 portant création des sociétés d’impact sociétal et dont le capital social est constitué à 100 pour cent de parts d’impact, entreprenant, dans les domaines qui les concernent, des activités de recherche.
+- les associations et les fondations sans but lucratif régies par les dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif et les sociétés d’impact sociétal régies par la loi modifiée du 12 décembre 2016 portant création des sociétés d’impact sociétal et dont le capital social est constitué à 100 pour cent de parts d’impact, entreprenant, dans les domaines qui les concernent, des activités de recherche.
 
 Pour être éligibles à l’intervention du Fonds, les entités visées sous 3 devront être agréées par le ministre ayant dans ses attributions la recherche dans le secteur public. Afin d’obtenir l’agrément, les entités doivent rapporter la preuve qu’elles effectuent sur le territoire luxembourgeois des travaux de recherche. Les modalités relatives à l’approbation de l’agrément sont arrêtées par règlement grand-ducal.
 
@@ -121,29 +121,29 @@ En outre, le Fonds peut allouer des aides à la formation-recherche et financer 
 
 Aux fins de la présente loi, on entend par
 
-1. «chercheur en formation» une personne, inscrite ou non en tant qu’étudiant à un établissement d’enseignement supérieur, réalisant des travaux de recherche dans le cadre d’une formation doctorale ou postdoctorale;
+- «chercheur en formation» une personne, inscrite ou non en tant qu’étudiant à un établissement d’enseignement supérieur, réalisant des travaux de recherche dans le cadre d’une formation doctorale ou postdoctorale;
 
-2. «chercheur» un spécialiste travaillant à la conception ou à la création de connaissances, de produits, de procédés, de méthodes et de systèmes nouveaux et à la gestion des projets concernés;
+- «chercheur» un spécialiste travaillant à la conception ou à la création de connaissances, de produits, de procédés, de méthodes et de systèmes nouveaux et à la gestion des projets concernés;
 
-3. «recherche» les travaux de création entrepris de façon systématique en vue d’accroître la somme des connaissances, y compris la connaissance de l’homme, de la culture et de la société, ainsi que l’utilisation de cette somme de connaissances pour concevoir de nouvelles applications;
+- «recherche» les travaux de création entrepris de façon systématique en vue d’accroître la somme des connaissances, y compris la connaissance de l’homme, de la culture et de la société, ainsi que l’utilisation de cette somme de connaissances pour concevoir de nouvelles applications;
 
-4. «établissement d’accueil» l’établissement auprès duquel le chercheur en formation réalise la majeure partie de ses travaux de recherche. Cet établissement peut être:
+- «établissement d’accueil» l’établissement auprès duquel le chercheur en formation réalise la majeure partie de ses travaux de recherche. Cet établissement peut être:
 
-1. soit un établissement éligible au titre de l’intervention du Fonds en vertu des dispositions du 2e paragraphe du présent article,
+  - soit un établissement éligible au titre de l’intervention du Fonds en vertu des dispositions du 2e paragraphe du présent article,
 
-2. soit un établissement de droit public étranger ayant la recherche et/ou le développement technologique dans ses missions,
+  - soit un établissement de droit public étranger ayant la recherche et/ou le développement technologique dans ses missions,
 
-3. soit une entreprise effectuant des travaux de recherche sur le territoire du Grand-Duché de Luxembourg et agréée à cet effet par le ministre ayant l’économie dans ses attributions selon les modalités visées à l’article 65 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.
+  - soit une entreprise effectuant des travaux de recherche sur le territoire du Grand-Duché de Luxembourg et agréée à cet effet par le ministre ayant l’économie dans ses attributions selon les modalités visées à l’article 65 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.
 
 (9)
 
 Les aides à la formation-recherche sont versées:
 
-1. soit directement au chercheur en formation, sous forme de bourse, dénommée «bourse de formation-recherche»;
+- soit directement au chercheur en formation, sous forme de bourse, dénommée «bourse de formation-recherche»;
 
-2. soit à l’établissement d’accueil sous forme de subvention de formation-recherche destinée à financer le contrat de travail, dénommé «contrat de formation-recherche», à conclure entre le chercheur en formation et l’établissement d’accueil,
+- soit à l’établissement d’accueil sous forme de subvention de formation-recherche destinée à financer le contrat de travail, dénommé «contrat de formation-recherche», à conclure entre le chercheur en formation et l’établissement d’accueil,
 
-3. soit à l’établissement d’accueil luxembourgeois tel que défini à l’article 3 au paragraphe 2 sous forme de subvention regroupant plusieurs aides de formation-recherche, sur base d’un programme pluriannuel de recherche et de formation que l’institution soumet au Fonds. Cette subvention est destinée à financer des contrats de formation-recherche individuels, à conclure entre les chercheurs en formation et l’établissement d’accueil.
+- soit à l’établissement d’accueil luxembourgeois tel que défini à l’article 3 au paragraphe 2 sous forme de subvention regroupant plusieurs aides de formation-recherche, sur base d’un programme pluriannuel de recherche et de formation que l’institution soumet au Fonds. Cette subvention est destinée à financer des contrats de formation-recherche individuels, à conclure entre les chercheurs en formation et l’établissement d’accueil.
 
 Les aides visées sous les points 1 et 2 sont dénommées «aides à la formation-recherche individuelles». La subvention visée au point 3 est dénommée «subvention collective «aides à la formation-recherche»».
 
@@ -155,35 +155,35 @@ Un règlement grand-ducal déterminera les cas et les conditions d’allocation 
 
 Toute demande en obtention d’une aide à la formation-recherche peut être introduite par:
 
-1. soit le chercheur en formation en accord avec son établissement d’accueil dans le cas d’une aide à la formationrecherche individuelle, visée au paragraphe 9 point 1 et point 2. Elle doit être appuyée par un établissement de recherche ou d’enseignement supérieur, luxembourgeois ou étranger, ayant des compétences dans le domaine de la recherche concerné;
+- soit le chercheur en formation en accord avec son établissement d’accueil dans le cas d’une aide à la formationrecherche individuelle, visée au paragraphe 9 point 1 et point 2. Elle doit être appuyée par un établissement de recherche ou d’enseignement supérieur, luxembourgeois ou étranger, ayant des compétences dans le domaine de la recherche concerné;
 
-2. soit par l’établissement d’accueil luxembourgeois dans le cas d’une subvention collective «aides à la formationrecherche», visé au paragraphe 9 point 3, sur base d’un programme pluriannuel de recherche et de formation.
+- soit par l’établissement d’accueil luxembourgeois dans le cas d’une subvention collective «aides à la formationrecherche», visé au paragraphe 9 point 3, sur base d’un programme pluriannuel de recherche et de formation.
 
 (12)
 
 L’attribution des aides à la formation-recherche individuelles se fait en application des critères suivants:
 
-1. la qualité scientifique/technologique du projet de recherche faisant l’objet de la demande;
+- la qualité scientifique/technologique du projet de recherche faisant l’objet de la demande;
 
-2. le potentiel de développement du chercheur en formation et en particulier son aptitude à mettre en œuvre ledit projet;
+- le potentiel de développement du chercheur en formation et en particulier son aptitude à mettre en œuvre ledit projet;
 
-3. la compétence scientifique de l’établissement d’accueil et la qualité de l’encadrement offert au chercheur en formation;
+- la compétence scientifique de l’établissement d’accueil et la qualité de l’encadrement offert au chercheur en formation;
 
-4. les retombées et les applications possibles du projet dans le contexte général de la recherche, du développement technologique et de l’innovation au Luxembourg.
+- les retombées et les applications possibles du projet dans le contexte général de la recherche, du développement technologique et de l’innovation au Luxembourg.
 
 Concernant les travaux de recherche au niveau postdoctoral, la contribution du projet au développement de la carrière professionnelle du chercheur en formation s’ajoute à ces critères.
 
 L’attribution des subventions collectives «aides à la formation-recherche» se fait en application des critères suivants:
 
-1. la qualité scientifique/technologique du programme pluriannuel de recherche et de formation faisant l’objet de la demande;
+- la qualité scientifique/technologique du programme pluriannuel de recherche et de formation faisant l’objet de la demande;
 
-2. la contribution du programme pluriannuel visé à la formation des chercheurs et au développement de leur carrière;
+- la contribution du programme pluriannuel visé à la formation des chercheurs et au développement de leur carrière;
 
-3. la compétence scientifique de l’établissement d’accueil et la qualité de l’encadrement offert aux chercheurs en formation;
+- la compétence scientifique de l’établissement d’accueil et la qualité de l’encadrement offert aux chercheurs en formation;
 
-4. le potentiel de contribution du programme pluriannuel visé à l’accomplissement des objectifs de l’établissement d’accueil;
+- le potentiel de contribution du programme pluriannuel visé à l’accomplissement des objectifs de l’établissement d’accueil;
 
-5. les retombées et les applications possibles du programme pluriannuel visé dans le contexte général de la recherche, du développement technologique et de l’innovation au Luxembourg.
+- les retombées et les applications possibles du programme pluriannuel visé dans le contexte général de la recherche, du développement technologique et de l’innovation au Luxembourg.
 
 Les modalités relatives à l’attribution, à la gestion et au suivi des aides à la formation-recherche seront arrêtées par règlement grand-ducal.
 
@@ -191,9 +191,9 @@ Les modalités relatives à l’attribution, à la gestion et au suivi des aides
 
 Les montants annuels attribués au titre d’une aide à la formation-recherche ne peuvent dépasser les maxima suivants:
 
-1. 6.000 euros pour une bourse de formation-recherche respectivement 9.000 euros pour une subvention de formation-recherche attribuées dans le cadre d’une formation doctorale;
+- 6.000 euros pour une bourse de formation-recherche respectivement 9.000 euros pour une subvention de formation-recherche attribuées dans le cadre d’une formation doctorale;
 
-2. 10.000 euros pour une bourse de formation-recherche respectivement 15.000 euros pour une subvention de formation-recherche attribuées dans le cadre d’une formation postdoctorale.
+- 10.000 euros pour une bourse de formation-recherche respectivement 15.000 euros pour une subvention de formation-recherche attribuées dans le cadre d’une formation postdoctorale.
 
 Ces montants correspondent à l’indice 100 du coût de la vie au 1er janvier 1948.
 
@@ -283,29 +283,29 @@ Dans le cadre de la convention pluriannuelle signée avec l’Etat, le conseil d
 
 Il assume en outre les fonctions suivantes:
 
-1. il nomme et révoque le secrétaire général après approbation du ministre ayant la recherche dans le secteur public dans ses attributions;
+- il nomme et révoque le secrétaire général après approbation du ministre ayant la recherche dans le secteur public dans ses attributions;
 
-2. il arrête le règlement d’ordre intérieur du Fonds;
+- il arrête le règlement d’ordre intérieur du Fonds;
 
-3. il arrête l’organigramme des fonctions du Fonds;
+- il arrête l’organigramme des fonctions du Fonds;
 
-4. il arrête l’échelle des rémunérations;
+- il arrête l’échelle des rémunérations;
 
-5. il arrête l’acceptation de dons et de legs;
+- il arrête l’acceptation de dons et de legs;
 
-6. il approuve les emprunts à contracter;
+- il approuve les emprunts à contracter;
 
-7. il approuve les acquisitions, aliénations et échanges d’immeubles ainsi que les conditions de baux à contracter;
+- il approuve les acquisitions, aliénations et échanges d’immeubles ainsi que les conditions de baux à contracter;
 
-8. il arrête la convention pluriannuelle à conclure avec l’Etat, visée à l’article 4;
+- il arrête la convention pluriannuelle à conclure avec l’Etat, visée à l’article 4;
 
-9. il arrête le projet de budget et le budget annuels;
+- il arrête le projet de budget et le budget annuels;
 
-10. il arrête le rapport d’activités et le décompte annuels;
+- il arrête le rapport d’activités et le décompte annuels;
 
-11. il supervise périodiquement la conformité des activités du Fonds avec la convention pluriannuelle conclue avec l’Etat;
+- il supervise périodiquement la conformité des activités du Fonds avec la convention pluriannuelle conclue avec l’Etat;
 
-12. il conclut et révoque tout contrat et toute convention qui ont des implications financières au-delà du seuil de cent mille euros à l’indice 100.
+- il conclut et révoque tout contrat et toute convention qui ont des implications financières au-delà du seuil de cent mille euros à l’indice 100.
 
 (3)
 
@@ -378,15 +378,15 @@ Le secrétaire général assure la gestion journalière du Fonds et organise son
 
 Il exerce les attributions suivantes:
 
-1. il est le chef hiérarchique du personnel employé par le Fonds;
+- il est le chef hiérarchique du personnel employé par le Fonds;
 
-2. il veille à la mise en application des décisions prises par le conseil d’administration;
+- il veille à la mise en application des décisions prises par le conseil d’administration;
 
-3. il assure la liaison avec le conseil d’administration et le conseil scientifique;
+- il assure la liaison avec le conseil d’administration et le conseil scientifique;
 
-4. il propose les projets et activités du Fonds, selon les lignes directrices générales du conseil d’administration. Il supervise les projets et activités exécutés dans le cadre du Fonds;
+- il propose les projets et activités du Fonds, selon les lignes directrices générales du conseil d’administration. Il supervise les projets et activités exécutés dans le cadre du Fonds;
 
-5. il veille à la mise en application du règlement d’ordre intérieur.
+- il veille à la mise en application du règlement d’ordre intérieur.
 
 (3)
 
@@ -401,17 +401,17 @@ Il est assisté par le personnel employé par le Fonds.
 
 Le Fonds peut disposer des ressources suivantes:
 
-1. des allocations inscrites à la convention pluriannuelle entre le Fonds et l’Etat telle que visée à l’article 4, provenant du budget des recettes et des dépenses de l’Etat;
+- des allocations inscrites à la convention pluriannuelle entre le Fonds et l’Etat telle que visée à l’article 4, provenant du budget des recettes et des dépenses de l’Etat;
 
-2. des contributions financières perçues en application des dispositions de l’article 4, paragraphe 3;
+- des contributions financières perçues en application des dispositions de l’article 4, paragraphe 3;
 
-3. des recettes pour prestations fournies;
+- des recettes pour prestations fournies;
 
-4. des dons et legs, en espèces ou en nature;
+- des dons et legs, en espèces ou en nature;
 
-5. des revenus issus de la gestion du Fonds et de la valorisation de son patrimoine;
+- des revenus issus de la gestion du Fonds et de la valorisation de son patrimoine;
 
-6. d’emprunts.
+- d’emprunts.
 
 <a id="art-11"></a>
 ## Art. 11.

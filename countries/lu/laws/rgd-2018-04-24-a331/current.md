@@ -47,45 +47,45 @@ Champ d’application
 
 Le présent règlement s’applique :
 
-1. aux installations de combustion d'une puissance thermique nominale égale ou supérieure à 1 MW et inférieure à 50 MW, ci-après dénommées « installations de combustion moyennes », quel que soit le type de combustible qu'elles utilisent ;
+- aux installations de combustion d'une puissance thermique nominale égale ou supérieure à 1 MW et inférieure à 50 MW, ci-après dénommées « installations de combustion moyennes », quel que soit le type de combustible qu'elles utilisent ;
 
-2. à un ensemble formé par des installations de combustion moyennes en vertu de l'article 4, y compris un ensemble dont la puissance thermique nominale totale est supérieure ou égale à 50 MW, à moins que cet ensemble ne constitue une installation de combustion relevant du chapitre III de la loi modifiée du 9 mai 2014 relative aux émissions industrielles ; quelle que soit l’affectation des bâtiments où sont comprises ces installations.
+- à un ensemble formé par des installations de combustion moyennes en vertu de l'article 4, y compris un ensemble dont la puissance thermique nominale totale est supérieure ou égale à 50 MW, à moins que cet ensemble ne constitue une installation de combustion relevant du chapitre III de la loi modifiée du 9 mai 2014 relative aux émissions industrielles ; quelle que soit l’affectation des bâtiments où sont comprises ces installations.
 
 (2)
 
 Le présent règlement ne s’applique pas :
 
-1. aux installations de combustion qui relèvent du chapitre III ou du chapitre IV de la loi modifiée du 9 mai 2014 relative aux émissions industrielles ;
+- aux installations de combustion qui relèvent du chapitre III ou du chapitre IV de la loi modifiée du 9 mai 2014 relative aux émissions industrielles ;
 
-2. aux installations de combustion qui relèvent du règlement (UE) 2016/1628 du Parlement européen et du Conseil du 14 septembre 2016 relatif aux exigences concernant les limites d’émission pour les gaz polluants et les particules polluantes et la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers, modifiant les règlements (UE) n° 1024/2012 et (UE) n° 167/2013 et modifiant et abrogeant la directive 97/68/CE ;
+- aux installations de combustion qui relèvent du règlement (UE) 2016/1628 du Parlement européen et du Conseil du 14 septembre 2016 relatif aux exigences concernant les limites d’émission pour les gaz polluants et les particules polluantes et la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers, modifiant les règlements (UE) n° 1024/2012 et (UE) n° 167/2013 et modifiant et abrogeant la directive 97/68/CE ;
 
-3. aux installations de combustion situées dans une exploitation agricole dont la puissance thermique nominale totale est inférieure ou égale à 5 MW, et qui utilisent exclusivement comme combustible du lisier non transformé de volaille, visé à l'article 9, point a), du règlement (CE) no 1069/2009 du Parlement européen et du Conseil ;
+- aux installations de combustion situées dans une exploitation agricole dont la puissance thermique nominale totale est inférieure ou égale à 5 MW, et qui utilisent exclusivement comme combustible du lisier non transformé de volaille, visé à l'article 9, point a), du règlement (CE) no 1069/2009 du Parlement européen et du Conseil ;
 
-4. aux installations de combustion dont les produits gazeux de la combustion sont utilisés pour le réchauffement direct, le séchage ou tout autre traitement d'objets ou de matières ;
+- aux installations de combustion dont les produits gazeux de la combustion sont utilisés pour le réchauffement direct, le séchage ou tout autre traitement d'objets ou de matières ;
 
-5. aux installations de combustion dont les produits gazeux de la combustion sont utilisés pour le chauffage direct au gaz des espaces intérieurs aux fins de l'amélioration des conditions de travail ;
+- aux installations de combustion dont les produits gazeux de la combustion sont utilisés pour le chauffage direct au gaz des espaces intérieurs aux fins de l'amélioration des conditions de travail ;
 
-6. aux installations de postcombustion qui ont pour objet l'épuration par combustion des gaz résiduaires de procédés industriels et qui ne sont pas exploitées en tant qu'installations de combustion autonomes ;
+- aux installations de postcombustion qui ont pour objet l'épuration par combustion des gaz résiduaires de procédés industriels et qui ne sont pas exploitées en tant qu'installations de combustion autonomes ;
 
-7. à tout dispositif technique employé pour la propulsion d'un véhicule, navire ou aéronef ;
+- à tout dispositif technique employé pour la propulsion d'un véhicule, navire ou aéronef ;
 
-8. aux turbines à gaz et aux moteurs à gaz ou moteurs diesel, en cas d'utilisation sur les plates-formes offshore ;
+- aux turbines à gaz et aux moteurs à gaz ou moteurs diesel, en cas d'utilisation sur les plates-formes offshore ;
 
-9. aux dispositifs de régénération des catalyseurs de craquage catalytique ;
+- aux dispositifs de régénération des catalyseurs de craquage catalytique ;
 
-10. aux dispositifs de conversion de l'hydrogène sulfuré en soufre ;
+- aux dispositifs de conversion de l'hydrogène sulfuré en soufre ;
 
-11. aux réacteurs utilisés dans l'industrie chimique ;
+- aux réacteurs utilisés dans l'industrie chimique ;
 
-12. aux fours à coke ;
+- aux fours à coke ;
 
-13. aux cowpers des hauts fourneaux ;
+- aux cowpers des hauts fourneaux ;
 
-14. aux crematoriums ;
+- aux crematoriums ;
 
-15. aux installations de combustion utilisant des combustibles de raffinerie seuls ou avec d'autres combustibles pour la production d'énergie au sein de raffineries de pétrole et de gaz ;
+- aux installations de combustion utilisant des combustibles de raffinerie seuls ou avec d'autres combustibles pour la production d'énergie au sein de raffineries de pétrole et de gaz ;
 
-16. aux chaudières de récupération au sein d'installations de production de pâte à papier.
+- aux chaudières de récupération au sein d'installations de production de pâte à papier.
 
 (3)
 
@@ -98,111 +98,111 @@ Définitions
 
 Aux fins du présent règlement, on entend par :
 
-1. « bâtiment » : une construction dotée d'un toit et de murs, dans laquelle l'énergie est utilisée pour réguler le climat intérieur ;
+- « bâtiment » : une construction dotée d'un toit et de murs, dans laquelle l'énergie est utilisée pour réguler le climat intérieur ;
 
-2. « bioliquide » : les combustibles liquides au sens du point 2 de l’article 1 er du règlement grand-ducal du 27 février 2011 fixant les critères de durabilité pour les biocarburants et bioliquides et respectant les critères de durabilité y prévus ;
+- « bioliquide » : les combustibles liquides au sens du point 2 de l’article 1 er du règlement grand-ducal du 27 février 2011 fixant les critères de durabilité pour les biocarburants et bioliquides et respectant les critères de durabilité y prévus ;
 
-3. « biomasse » :
+- « biomasse » :
 
-1. les produits composés d'une matière végétale agricole ou forestière susceptible d'être employée comme combustible en vue d'utiliser son contenu énergétique ;
+  - les produits composés d'une matière végétale agricole ou forestière susceptible d'être employée comme combustible en vue d'utiliser son contenu énergétique ;
 
-2. les déchets ci-après :
+  - les déchets ci-après :
 
-1. déchets végétaux agricoles et forestiers ;
+    - déchets végétaux agricoles et forestiers ;
 
-2. déchets végétaux provenant du secteur industriel de la transformation alimentaire, si la chaleur produite est valorisée ;
+    - déchets végétaux provenant du secteur industriel de la transformation alimentaire, si la chaleur produite est valorisée ;
 
-3. déchets végétaux fibreux issus de la production de pâte vierge et de la production de papier à partir de pâte, s'ils sont coïncinérés sur le lieu de production et si la chaleur produite est valorisée ;
+    - déchets végétaux fibreux issus de la production de pâte vierge et de la production de papier à partir de pâte, s'ils sont coïncinérés sur le lieu de production et si la chaleur produite est valorisée ;
 
-4. déchets de liège ;
+    - déchets de liège ;
 
-5. déchets de bois, à l'exception des déchets de bois qui sont susceptibles de contenir des composés organiques halogénés ou des métaux lourds à la suite d'un traitement avec des conservateurs du bois ou du placement d'un revêtement, y compris notamment les déchets de bois de ce type provenant de déchets de construction ou de démolition ;
+    - déchets de bois, à l'exception des déchets de bois qui sont susceptibles de contenir des composés organiques halogénés ou des métaux lourds à la suite d'un traitement avec des conservateurs du bois ou du placement d'un revêtement, y compris notamment les déchets de bois de ce type provenant de déchets de construction ou de démolition ;
 
-4. « combustible » : toute matière combustible solide, liquide ou gazeuse ;
+- « combustible » : toute matière combustible solide, liquide ou gazeuse ;
 
-5. « combustible de raffinerie » : tout combustible solide, liquide ou gazeux résultant des phases de distillation et de conversion du raffinage du pétrole brut, y compris le gaz de raffinerie, le gaz de synthèse, les huiles de raffinerie et le coke de pétrole ;
+- « combustible de raffinerie » : tout combustible solide, liquide ou gazeux résultant des phases de distillation et de conversion du raffinage du pétrole brut, y compris le gaz de raffinerie, le gaz de synthèse, les huiles de raffinerie et le coke de pétrole ;
 
-6. « déchets » : tout déchet au sens de l’article 4, point (1) de la loi modifiée du 21 mars 2012 relative aux déchets ;
+- « déchets » : tout déchet au sens de l’article 4, point (1) de la loi modifiée du 21 mars 2012 relative aux déchets ;
 
-7. « émission » : le rejet dans l'atmosphère de substances provenant d'une installation de combustion ;
+- « émission » : le rejet dans l'atmosphère de substances provenant d'une installation de combustion ;
 
-8. « exploitant » : toute personne physique ou morale qui exploite ou contrôle l'installation de combustion ou toute personne qui s'est vu déléguer un pouvoir économique déterminant à l'égard du fonctionnement technique de l'installation ;
+- « exploitant » : toute personne physique ou morale qui exploite ou contrôle l'installation de combustion ou toute personne qui s'est vu déléguer un pouvoir économique déterminant à l'égard du fonctionnement technique de l'installation ;
 
-9. « fioul lourd » :
+- « fioul lourd » :
 
-1. tout combustible liquide dérivé du pétrole classé sous les codes NC 2710 19 51 à 2710 19 67, 2710 20 32, ou 2710 20 38 ; ou
+  - tout combustible liquide dérivé du pétrole classé sous les codes NC 2710 19 51 à 2710 19 67, 2710 20 32, ou 2710 20 38 ; ou
 
-2. tout combustible liquide dérivé du pétrole, autre que le gasoil défini au point 10° , appartenant, du fait de ses limites de distillation, à la catégorie des fiouls lourds destinés à être utilisés comme combustibles et dont moins de 65 pour cent en volume (pertes comprises) distillent à 250 °C selon la méthode ASTM D86. Si la distillation ne peut pas être déterminée selon la méthode ASTM D86, le produit pétrolier est également classé dans la catégorie des fiouls lourds ;
+  - tout combustible liquide dérivé du pétrole, autre que le gasoil défini au point 10° , appartenant, du fait de ses limites de distillation, à la catégorie des fiouls lourds destinés à être utilisés comme combustibles et dont moins de 65 pour cent en volume (pertes comprises) distillent à 250 °C selon la méthode ASTM D86. Si la distillation ne peut pas être déterminée selon la méthode ASTM D86, le produit pétrolier est également classé dans la catégorie des fiouls lourds ;
 
-10. « gasoil » :
+- « gasoil » :
 
-1. tout combustible liquide dérivé du pétrole classé sous les codes NC 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 16 ou 2710 20 19 ; ou
+  - tout combustible liquide dérivé du pétrole classé sous les codes NC 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 16 ou 2710 20 19 ; ou
 
-2. tout combustible liquide dérivé du pétrole dont moins de 65 pour cent en volume (pertes comprises) distillent à 250 °C et dont au moins 85 pour cent en volume (pertes comprises) distillent à 350 °C selon la méthode ASTM D86 ; dont la teneur en soufre n'excède pas la valeur limite fixée par la réglementation en vigueur et qui n’a pas servi auparavant à d’autres fins.
+  - tout combustible liquide dérivé du pétrole dont moins de 65 pour cent en volume (pertes comprises) distillent à 250 °C et dont au moins 85 pour cent en volume (pertes comprises) distillent à 350 °C selon la méthode ASTM D86 ; dont la teneur en soufre n'excède pas la valeur limite fixée par la réglementation en vigueur et qui n’a pas servi auparavant à d’autres fins.
 
-11. « gaz naturel » : méthane de formation naturelle ayant une teneur maximale de 20 pour cent (en volume) en inertes et autres éléments ;
+- « gaz naturel » : méthane de formation naturelle ayant une teneur maximale de 20 pour cent (en volume) en inertes et autres éléments ;
 
-12. « heures d’exploitation » : période de temps, exprimée en heures, au cours de laquelle une installation de combustion est en exploitation et rejette des émissions dans l'air, à l'exception des phases de démarrage et d'arrêt ;
+- « heures d’exploitation » : période de temps, exprimée en heures, au cours de laquelle une installation de combustion est en exploitation et rejette des émissions dans l'air, à l'exception des phases de démarrage et d'arrêt ;
 
-13. « inspection » :
+- « inspection » :
 
-1. le contrôle de l’installation de combustion et des paramètres prescrits qui intervient après la mise en service d’une nouvelle installation de combustion ou après une transformation importante d’une installation de combustion ;
+  - le contrôle de l’installation de combustion et des paramètres prescrits qui intervient après la mise en service d’une nouvelle installation de combustion ou après une transformation importante d’une installation de combustion ;
 
-2. le mesurage périodique des paramètres prescrits pour une installation de combustion ;
+  - le mesurage périodique des paramètres prescrits pour une installation de combustion ;
 
-14. « inspection positive » : la conformité des valeurs mesurées lors de l'inspection avec les paramètres prescrits ;
+- « inspection positive » : la conformité des valeurs mesurées lors de l'inspection avec les paramètres prescrits ;
 
-15. « inspection négative » : la non-conformité des valeurs mesurées lors de l'inspection avec les paramètres prescrits ;
+- « inspection négative » : la non-conformité des valeurs mesurées lors de l'inspection avec les paramètres prescrits ;
 
-16. « installation de combustion » : tout dispositif technique dans lequel des produits combustibles sont oxydés en vue d’utiliser la chaleur ainsi produite ;
+- « installation de combustion » : tout dispositif technique dans lequel des produits combustibles sont oxydés en vue d’utiliser la chaleur ainsi produite ;
 
-17. « installation de combustion existante » : une installation de combustion qui est mise en service au plus tard le 20 décembre 2018 ;
+- « installation de combustion existante » : une installation de combustion qui est mise en service au plus tard le 20 décembre 2018 ;
 
-18. « microréseau isolé » : tout réseau qui a eu une consommation inférieure à 500 GWh en 1996, et qui n’est pas connecté à d’autres réseaux ;
+- « microréseau isolé » : tout réseau qui a eu une consommation inférieure à 500 GWh en 1996, et qui n’est pas connecté à d’autres réseaux ;
 
-19. « moteur » : un moteur à gaz, un moteur diesel ou un moteur à double combustible ;
+- « moteur » : un moteur à gaz, un moteur diesel ou un moteur à double combustible ;
 
-20. « moteur à gaz » : un moteur à combustion interne fonctionnant selon le cycle Otto et utilisant l'allumage par étincelle pour brûler le combustible ;
+- « moteur à gaz » : un moteur à combustion interne fonctionnant selon le cycle Otto et utilisant l'allumage par étincelle pour brûler le combustible ;
 
-21. « moteur diesel » : un moteur à combustion interne fonctionnant selon le cycle diesel et utilisant l'allumage par compression pour brûler le combustible ;
+- « moteur diesel » : un moteur à combustion interne fonctionnant selon le cycle diesel et utilisant l'allumage par compression pour brûler le combustible ;
 
-22. « moteur à double combustible » : un moteur à combustion interne utilisant l'allumage par compression et fonctionnant selon le cycle diesel pour brûler des combustibles liquides et selon le cycle Otto pour brûler des combustibles gazeux ;
+- « moteur à double combustible » : un moteur à combustion interne utilisant l'allumage par compression et fonctionnant selon le cycle diesel pour brûler des combustibles liquides et selon le cycle Otto pour brûler des combustibles gazeux ;
 
-23. « nouvelle installation de combustion » :
+- « nouvelle installation de combustion » :
 
-1. toute installation de combustion qui est mise en service après le 20 décembre 2018 ;
+  - toute installation de combustion qui est mise en service après le 20 décembre 2018 ;
 
-2. toute installation de combustion existante qui a fait l’objet d’une transformation importante après le 20 décembre 2018 ;
+  - toute installation de combustion existante qui a fait l’objet d’une transformation importante après le 20 décembre 2018 ;
 
-3. toute installation de combustion existante qui a été mise en service ou qui a fait l’objet d’une transformation importante au plus tard le 20 décembre 2018 et qui n’a pas fait l’objet d’une inspection positive avant cette date ;
+  - toute installation de combustion existante qui a été mise en service ou qui a fait l’objet d’une transformation importante au plus tard le 20 décembre 2018 et qui n’a pas fait l’objet d’une inspection positive avant cette date ;
 
-24. « organisme agréé » : l’organisme ou la personne titulaire d’un agrément dans le cadre de la loi du 21 avril 1993 relative à l'agrément de personnes physiques ou morales privées ou publiques, autres que l'État, pour l'accomplissement de tâches techniques d'études et de vérification dans le domaine de l'environnement ;
+- « organisme agréé » : l’organisme ou la personne titulaire d’un agrément dans le cadre de la loi du 21 avril 1993 relative à l'agrément de personnes physiques ou morales privées ou publiques, autres que l'État, pour l'accomplissement de tâches techniques d'études et de vérification dans le domaine de l'environnement ;
 
-25. « oxydes d'azote (NOx) » : le monoxyde et le dioxyde d'azote, exprimés en dioxyde d'azote (NO 2 ) ;
+- « oxydes d'azote (NOx) » : le monoxyde et le dioxyde d'azote, exprimés en dioxyde d'azote (NO 2 ) ;
 
-26. « petit réseau isolé » : tout réseau qui a une consommation inférieure à 3 000 GWh en 1996, et qui peut être interconnecté avec d’autres réseaux pour une quantité inférieure à 5 pour cent de sa consommation annuelle ;
+- « petit réseau isolé » : tout réseau qui a une consommation inférieure à 3 000 GWh en 1996, et qui peut être interconnecté avec d’autres réseaux pour une quantité inférieure à 5 pour cent de sa consommation annuelle ;
 
-27. « poussières » : les particules de forme, de structure ou de masse volumique quelconque dispersées dans la phase gazeuse dans les conditions au point de prélèvement, qui sont susceptibles d'être recueillies par filtration dans les conditions spécifiées après échantillonnage représentatif du gaz à analyser, et qui demeurent en amont du filtre et sur le filtre après séchage dans les conditions spécifiées ;
+- « poussières » : les particules de forme, de structure ou de masse volumique quelconque dispersées dans la phase gazeuse dans les conditions au point de prélèvement, qui sont susceptibles d'être recueillies par filtration dans les conditions spécifiées après échantillonnage représentatif du gaz à analyser, et qui demeurent en amont du filtre et sur le filtre après séchage dans les conditions spécifiées ;
 
-28. « puissance thermique nominale » : la puissance calorifique maximale, exprimée en MW, fixée et garantie par le constructeur comme pouvant être fournie en marche continue tout en respectant les rendements utiles annoncés par le constructeur, désignée ci-après « puissance » ;
+- « puissance thermique nominale » : la puissance calorifique maximale, exprimée en MW, fixée et garantie par le constructeur comme pouvant être fournie en marche continue tout en respectant les rendements utiles annoncés par le constructeur, désignée ci-après « puissance » ;
 
-29. « taux d'humidité résiduelle » : La masse d'eau contenue dans le combustible par rapport à la masse du combustible sec ;
+- « taux d'humidité résiduelle » : La masse d'eau contenue dans le combustible par rapport à la masse du combustible sec ;
 
-30. « transformation importante » : le remplacement total ou la transformation d’une unité de combustion par le remplacement de la chaudière ou du brûleur ou l’extension ou le déplacement d’une installation de combustion ;
+- « transformation importante » : le remplacement total ou la transformation d’une unité de combustion par le remplacement de la chaudière ou du brûleur ou l’extension ou le déplacement d’une installation de combustion ;
 
-31. « turbine à gaz » : tout appareil rotatif qui convertit de l'énergie thermique en travail mécanique et consiste principalement en un compresseur, un dispositif thermique permettant d'oxyder le combustible de manière à chauffer le fluide de travail et une turbine ; sont comprises dans cette définition les turbines à gaz à circuit ouvert et les turbines à gaz à cycle combiné, ainsi que les turbines à gaz en mode de cogénération, équipées ou non d'un brûleur supplémentaire dans chaque cas ;
+- « turbine à gaz » : tout appareil rotatif qui convertit de l'énergie thermique en travail mécanique et consiste principalement en un compresseur, un dispositif thermique permettant d'oxyder le combustible de manière à chauffer le fluide de travail et une turbine ; sont comprises dans cette définition les turbines à gaz à circuit ouvert et les turbines à gaz à cycle combiné, ainsi que les turbines à gaz en mode de cogénération, équipées ou non d'un brûleur supplémentaire dans chaque cas ;
 
-32. « valeur limite d’émissions » : la quantité admissible d'une substance contenue dans les gaz résiduaires d'une installation de combustion pouvant être rejetée dans l'atmosphère pendant une période donnée.
+- « valeur limite d’émissions » : la quantité admissible d'une substance contenue dans les gaz résiduaires d'une installation de combustion pouvant être rejetée dans l'atmosphère pendant une période donnée.
 
-33. « efficacité énergétique » : le rapport entre les résultats, le service, la marchandise ou l’énergie que l’on obtient et l’énergie consacrée à cet effet ;
+- « efficacité énergétique » : le rapport entre les résultats, le service, la marchandise ou l’énergie que l’on obtient et l’énergie consacrée à cet effet ;
 
-34. « amélioration de l’efficacité énergétique » : un accroissement de l’efficacité énergétique à la suite de modifications d’ordre technologique, comportemental ou économique ;
+- « amélioration de l’efficacité énergétique » : un accroissement de l’efficacité énergétique à la suite de modifications d’ordre technologique, comportemental ou économique ;
 
-35. « contrat de performance énergétique » : un accord contractuel entre le bénéficiaire et le fournisseur d’une mesure visant à améliorer l’efficacité énergétique, vérifiée et surveillée pendant toute la durée du contrat, aux termes duquel les investissements (travaux, fournitures ou services) dans cette mesure sont rémunérés en fonction d’un niveau d’amélioration de l’efficacité énergétique qui est contractuellement défini ou d’un autre critère de performance énergétique convenu, tel que des économies financières ;
+- « contrat de performance énergétique » : un accord contractuel entre le bénéficiaire et le fournisseur d’une mesure visant à améliorer l’efficacité énergétique, vérifiée et surveillée pendant toute la durée du contrat, aux termes duquel les investissements (travaux, fournitures ou services) dans cette mesure sont rémunérés en fonction d’un niveau d’amélioration de l’efficacité énergétique qui est contractuellement défini ou d’un autre critère de performance énergétique convenu, tel que des économies financières ;
 
-36. « système technique de bâtiment » : un équipement technique de chauffage des locaux, de refroidissement des locaux, de ventilation, de production d’eau chaude sanitaire, d’éclairage intégré, d’automatisation et de contrôle des bâtiments, de production d’électricité sur site d’un bâtiment ou d’une unité de bâtiment, ou combinant plusieurs de ces systèmes, y compris les systèmes utilisant une énergie produite à partir de sources renouvelables ;
+- « système technique de bâtiment » : un équipement technique de chauffage des locaux, de refroidissement des locaux, de ventilation, de production d’eau chaude sanitaire, d’éclairage intégré, d’automatisation et de contrôle des bâtiments, de production d’électricité sur site d’un bâtiment ou d’une unité de bâtiment, ou combinant plusieurs de ces systèmes, y compris les systèmes utilisant une énergie produite à partir de sources renouvelables ;
 
-37. « système d’automatisation et de contrôle des bâtiments » : un système comprenant tous les produits, logiciels et services d’ingénierie à même de soutenir le fonctionnement efficace sur le plan énergétique, économique et sûr des systèmes techniques de bâtiment au moyen de commandes automatiques et en facilitant la gestion manuelle de ces systèmes techniques de bâtiment.
+- « système d’automatisation et de contrôle des bâtiments » : un système comprenant tous les produits, logiciels et services d’ingénierie à même de soutenir le fonctionnement efficace sur le plan énergétique, économique et sûr des systèmes techniques de bâtiment au moyen de commandes automatiques et en facilitant la gestion manuelle de ces systèmes techniques de bâtiment.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -213,9 +213,9 @@ Cumul
 
 L'ensemble formé par au moins deux nouvelles installations de combustion moyennes est considéré comme une seule installation de combustion moyenne aux fins du présent règlement, et leur puissance thermique nominale est additionnée aux fins du calcul de la puissance thermique nominale totale de l'installation si :
 
-1. les gaz résiduaires de ces installations de combustion moyennes sont rejetés par une cheminée commune, ou
+- les gaz résiduaires de ces installations de combustion moyennes sont rejetés par une cheminée commune, ou
 
-2. Compte tenu des facteurs techniques et économiques, les gaz résiduaires de ces installations de combustion moyennes pourraient, selon l’Administration de l’environnement, dénommée ci-après « administration », être rejetés par une cheminée commune.
+- Compte tenu des facteurs techniques et économiques, les gaz résiduaires de ces installations de combustion moyennes pourraient, selon l’Administration de l’environnement, dénommée ci-après « administration », être rejetés par une cheminée commune.
 
 (2)
 
@@ -240,9 +240,9 @@ L’administration tient un registre public comportant des informations sur chaq
 
 Aux fins du paragraphe 1er,
 
-1. l’exploitant d’une installation de combustion moyenne mise en service avant l’entrée en vigueur du présent règlement communique à l’administration, dans les douze mois qui suivent cette entrée en vigueur, les informations énumérées à l'annexe I.
+- l’exploitant d’une installation de combustion moyenne mise en service avant l’entrée en vigueur du présent règlement communique à l’administration, dans les douze mois qui suivent cette entrée en vigueur, les informations énumérées à l'annexe I.
 
-2. l’exploitant d’une installation de combustion moyenne mise en service après l’entrée en vigueur du présent règlement communique ces informations dans les six semaines qui suivent la date de mise en service.
+- l’exploitant d’une installation de combustion moyenne mise en service après l’entrée en vigueur du présent règlement communique ces informations dans les six semaines qui suivent la date de mise en service.
 
 Au-delà des délais fixés à l’alinéa 1er, l’installation de combustion moyenne ne peut pas être exploitée aussi longtemps qu’un enregistrement n’a pas été effectué.
 
@@ -303,11 +303,11 @@ Le ministre peut accorder une dérogation dispensant de l’obligation de respec
 
 Lorsqu’une installation de combustion moyenne utilise simultanément deux combustibles ou davantage, la valeur limite d’émission de chaque polluant est calculée comme suit :
 
-1. prendre la valeur limite d’émission relative à chaque combustible, telle qu’elle est énoncée à l’annexe II ;
+- prendre la valeur limite d’émission relative à chaque combustible, telle qu’elle est énoncée à l’annexe II ;
 
-2. déterminer la valeur limite d’émission pondérée par combustible ; cette valeur est obtenue en multipliant la valeur limite d’émission visée au point 1° par la puissance thermique fournie par chaque combustible, et en divisant le résultat de la multiplication par la somme des puissances thermiques fournies par tous les combustibles ;
+- déterminer la valeur limite d’émission pondérée par combustible ; cette valeur est obtenue en multipliant la valeur limite d’émission visée au point 1° par la puissance thermique fournie par chaque combustible, et en divisant le résultat de la multiplication par la somme des puissances thermiques fournies par tous les combustibles ;
 
-3. additionner les valeurs limites d’émission pondérées par combustible.
+- additionner les valeurs limites d’émission pondérées par combustible.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -328,13 +328,13 @@ Toute nouvelle installation de combustion moyenne et toute installation de combu
 
 À compter de la date de la première inspection positive, l’exploitant d’une installation de combustion moyenne fait procéder à des inspections subséquentes par un organisme agréé dans les fréquences suivantes :
 
-1. pour les installations ayant une puissance thermique nominale supérieure ou égale à 1 MW et inférieure ou égale à 20 MW, tous les deux ans ;
+- pour les installations ayant une puissance thermique nominale supérieure ou égale à 1 MW et inférieure ou égale à 20 MW, tous les deux ans ;
 
-2. pour les installations ayant une puissance thermique nominale supérieure ou égale à 1 MW et inférieure ou égale à 20 MW et qui ne sont pas exploitées plus de 100 heures d’exploitation par an, chaque fois que 200 heures d’exploitation se sont écoulées, sans que la fréquence puisse être inférieure à une fois tous les cinq ans ;
+- pour les installations ayant une puissance thermique nominale supérieure ou égale à 1 MW et inférieure ou égale à 20 MW et qui ne sont pas exploitées plus de 100 heures d’exploitation par an, chaque fois que 200 heures d’exploitation se sont écoulées, sans que la fréquence puisse être inférieure à une fois tous les cinq ans ;
 
-3. pour les installations ayant une puissance thermique nominale supérieure à 20 MW, annuellement ;
+- pour les installations ayant une puissance thermique nominale supérieure à 20 MW, annuellement ;
 
-4. pour les installations ayant une puissance thermique nominale supérieure à 20 MW et qui ne sont pas exploitées plus de 100 heures d’exploitation par an, chaque fois que 100 heures d’exploitation se sont écoulées, sans que la fréquence puisse être inférieure à une fois tous les cinq ans.
+- pour les installations ayant une puissance thermique nominale supérieure à 20 MW et qui ne sont pas exploitées plus de 100 heures d’exploitation par an, chaque fois que 100 heures d’exploitation se sont écoulées, sans que la fréquence puisse être inférieure à une fois tous les cinq ans.
 
 L’exploitant d’une installation de combustion moyenne devant respecter les valeurs limites d’émission liées aux composés organiques totaux et aux fluor et composés inorganiques du fluor énoncées à l’annexe II fait procéder à des inspections annuelles par un organisme agréé à compter de la date de la première inspection positive.
 
@@ -360,17 +360,17 @@ Dans le cas des installations de combustion moyennes qui utilisent un dispositif
 
 L’exploitant d’une installation de combustion moyenne conserve les éléments suivants :
 
-1. l’autorisation ou la preuve de l’enregistrement délivrée par l’autorité compétente et, le cas échéant, sa version actualisée et les informations connexes ;
+- l’autorisation ou la preuve de l’enregistrement délivrée par l’autorité compétente et, le cas échéant, sa version actualisée et les informations connexes ;
 
-2. les résultats de la surveillance et les informations visées aux paragraphes 6 et 7 ;
+- les résultats de la surveillance et les informations visées aux paragraphes 6 et 7 ;
 
-3. le cas échéant, un relevé des heures d’exploitation visées à l’article 6, paragraphes 2 et 3 ;
+- le cas échéant, un relevé des heures d’exploitation visées à l’article 6, paragraphes 2 et 3 ;
 
-4. un relevé du type et des quantités de combustible utilisé dans l’installation et de tout dysfonctionnement ou toute panne du dispositif antipollution secondaire ;
+- un relevé du type et des quantités de combustible utilisé dans l’installation et de tout dysfonctionnement ou toute panne du dispositif antipollution secondaire ;
 
-5. un relevé des cas de non-respect et des mesures prises, conformément au paragraphe 10 ;
+- un relevé des cas de non-respect et des mesures prises, conformément au paragraphe 10 ;
 
-6. le cas échéant, un relevé des valeurs moyennes horaires et journalières des mesures en continu dont il est question à l’annexe III.
+- le cas échéant, un relevé des valeurs moyennes horaires et journalières des mesures en continu dont il est question à l’annexe III.
 
 Les données et informations visées aux points 2 à 6 sont conservées par l’exploitant pendant au moins six ans.
 
@@ -433,11 +433,11 @@ Pour les installations de combustion moyennes qui sont régies explicitement par
 
 Sont également exemptées de l’obligation de contrôle du rendement de combustion dans le cadre des inspections prévues au présent article, les installations de combustion moyennes installées dans des bâtiments qui sont équipés d’un système d’automatisation et de contrôle du bâtiment capable :
 
-1. de suivre, d’enregistrer et d’analyser en continu la consommation énergétique et de permettre de l’ajuster en continu ;
+- de suivre, d’enregistrer et d’analyser en continu la consommation énergétique et de permettre de l’ajuster en continu ;
 
-2. de situer l’efficacité énergétique du bâtiment par rapport à des valeurs de référence, de détecter les pertes d’efficacité des systèmes techniques de bâtiment et d’informer la personne responsable des installations ou de la gérance technique du bâtiment des possibilités d’amélioration de l’efficacité énergétique ;
+- de situer l’efficacité énergétique du bâtiment par rapport à des valeurs de référence, de détecter les pertes d’efficacité des systèmes techniques de bâtiment et d’informer la personne responsable des installations ou de la gérance technique du bâtiment des possibilités d’amélioration de l’efficacité énergétique ;
 
-3. de permettre la communication avec les systèmes techniques de bâtiment connectés et d’autres appareils à l’intérieur du bâtiment, et d’être interopérables avec des systèmes techniques de bâtiment impliquant différents types de technologies brevetées, de dispositifs et de fabricants.
+- de permettre la communication avec les systèmes techniques de bâtiment connectés et d’autres appareils à l’intérieur du bâtiment, et d’être interopérables avec des systèmes techniques de bâtiment impliquant différents types de technologies brevetées, de dispositifs et de fabricants.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -483,13 +483,13 @@ Contrôles et calibrages des dispositifs de mesure en continu
 
 L’exploitant d’une installation de combustion moyenne équipée d’un dispositif de mesure en continu doit faire :
 
-1. contrôler annuellement le bon fonctionnement des dispositifs de mesure en continu ;
+- contrôler annuellement le bon fonctionnement des dispositifs de mesure en continu ;
 
-2. contrôler le calibrage des appareils de mesure en continu :
+- contrôler le calibrage des appareils de mesure en continu :
 
-1. une première fois avant leur mise en service
+  - une première fois avant leur mise en service
 
-2. le cas échéant chaque fois qu'un nouveau calibrage s'avère nécessaire ; sinon, tous les trois ans.
+  - le cas échéant chaque fois qu'un nouveau calibrage s'avère nécessaire ; sinon, tous les trois ans.
 
 Ce contrôle doit être effectué par un organisme agréé.
 
@@ -554,41 +554,41 @@ Modification du règlement grand-ducal modifié du 7 octobre 2014 relatif a) aux
 
 Le règlement grand-ducal modifié du 7 octobre 2014 relatif a) aux installations de combustion alimentées en combustible solide ou liquide d’une puissance nominale utile supérieure à 7 kW et inférieure à 20 MW b) aux installations de combustion alimentées en combustible gazeux d’une puissance nominale utile supérieure à 3 MW et inférieure à 20 MW est modifié comme suit :
 
-1. L’intitulé est modifié comme suit : Règlement grand-ducal modifié du 7 octobre 2014 relatif aux installations de combustion alimentées en combustible solide ou liquide d’une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW
+- L’intitulé est modifié comme suit : Règlement grand-ducal modifié du 7 octobre 2014 relatif aux installations de combustion alimentées en combustible solide ou liquide d’une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW
 
-2. L’article 1 er , paragraphe 1 er est remplacé par le texte suivant : (1) Le présent règlement s’applique aux : installations de combustion fixes alimentées en combustible solide à chargement manuel ou à chargement automatisé ayant une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW ; installations de combustion fixes alimentées en combustible liquide ayant une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW ; quelle que soit l'affectation des locaux où sont comprises ces installations qui sont dénommées ci-après « installation(s) ».
+- L’article 1 er , paragraphe 1 er est remplacé par le texte suivant : (1) Le présent règlement s’applique aux : installations de combustion fixes alimentées en combustible solide à chargement manuel ou à chargement automatisé ayant une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW ; installations de combustion fixes alimentées en combustible liquide ayant une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW ; quelle que soit l'affectation des locaux où sont comprises ces installations qui sont dénommées ci-après « installation(s) ».
 
-3. L’article 2, point 5 est remplacé comme suit : « certificat de contrôleur pour chauffages » : l'habilitation conférée par le ministre ayant l'Environnement dans ses attributions, dénommé ci-après « ministre », à un candidat contrôleur pour les installations d'une puissance supérieure à 7 kW et inférieure à 1 MW visées par le règlement ;
+- L’article 2, point 5 est remplacé comme suit : « certificat de contrôleur pour chauffages » : l'habilitation conférée par le ministre ayant l'Environnement dans ses attributions, dénommé ci-après « ministre », à un candidat contrôleur pour les installations d'une puissance supérieure à 7 kW et inférieure à 1 MW visées par le règlement ;
 
-4. L’article 4, point 9 est supprimé.
+- L’article 4, point 9 est supprimé.
 
-5. L’article 5, paragraphes 2 et 3 sont supprimés.
+- L’article 5, paragraphes 2 et 3 sont supprimés.
 
-6. Les articles 9, 11, 12 et 14 sont supprimés.
+- Les articles 9, 11, 12 et 14 sont supprimés.
 
-7. L’intitulé du premier chapitre du titre III est remplacé comme suit : Chapitre Ier Réception des installations ayant une puissance inférieure 1 MW
+- L’intitulé du premier chapitre du titre III est remplacé comme suit : Chapitre Ier Réception des installations ayant une puissance inférieure 1 MW
 
-8. L’intitulé de l’article 15 est remplacé comme suit : Art.15 Réception des installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure à 1 MW
+- L’intitulé de l’article 15 est remplacé comme suit : Art.15 Réception des installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure à 1 MW
 
-9. L’article 15, paragraphe 1 er est modifié comme suit : À l'exception des chauffages de locaux non raccordés au circuit de chauffage, les nouvelles installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW sont soumises, sur demande préalable d'une entreprise, à une réception.
+- L’article 15, paragraphe 1 er est modifié comme suit : À l'exception des chauffages de locaux non raccordés au circuit de chauffage, les nouvelles installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW sont soumises, sur demande préalable d'une entreprise, à une réception.
 
-10. L’article 17 est supprimé.
+- L’article 17 est supprimé.
 
-11. L’intitulé du premier chapitre du titre IV est remplacé comme suit : Chapitre Ier Inspection périodique des installations ayant une puissance supérieure à 7 kW et inférieure 1 MW
+- L’intitulé du premier chapitre du titre IV est remplacé comme suit : Chapitre Ier Inspection périodique des installations ayant une puissance supérieure à 7 kW et inférieure 1 MW
 
-12. L’intitulé de l’article 18 est remplacé comme suit : Inspection périodique des installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW
+- L’intitulé de l’article 18 est remplacé comme suit : Inspection périodique des installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW
 
-13. L’article 18, paragraphe 1 er , alinéa 1 er est modifié comme suit : (1) À l'exception des chauffages de locaux non raccordés au circuit de chauffage, l'exploitant d'une installation alimentée en combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW est tenu de faire procéder à une inspection périodique tous les deux ans.
+- L’article 18, paragraphe 1 er , alinéa 1 er est modifié comme suit : (1) À l'exception des chauffages de locaux non raccordés au circuit de chauffage, l'exploitant d'une installation alimentée en combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW est tenu de faire procéder à une inspection périodique tous les deux ans.
 
-14. Les articles 19 et 20 sont supprimés.
+- Les articles 19 et 20 sont supprimés.
 
-15. L’annexe VII est supprimée.
+- L’annexe VII est supprimée.
 
-16. L’intitulé de l’annexe XI est remplacé comme suit : Rapport de réception et rapport d’inspection périodique d‘une installation à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW
+- L’intitulé de l’annexe XI est remplacé comme suit : Rapport de réception et rapport d’inspection périodique d‘une installation à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW
 
-17. L’annexe XI, alinéa 1 er est remplacé comme suit : Le rapport de réception et le rapport d'inspection pour les installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW doivent contenir au minimum les données suivantes.
+- L’annexe XI, alinéa 1 er est remplacé comme suit : Le rapport de réception et le rapport d'inspection pour les installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW doivent contenir au minimum les données suivantes.
 
-18. Les annexes XII, XIII, XIV et XV sont supprimées.
+- Les annexes XII, XIII, XIV et XV sont supprimées.
 
 <a id="art-16"></a>
 ## Art. 16.
@@ -597,11 +597,11 @@ Modification du règlement grand-ducal modifié du 27 février 2010 concernant l
 
 Le règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz est modifié comme suit :
 
-1. L’article 7 est remplacé comme suit : Art. 7. Valeurs de combustion des installations gaz. (1) Les installations à gaz destinées au chauffage des locaux et au chauffage de l’eau sanitaire d’une puissance inférieure à 1 MW doivent être mises en place et exploitées de façon à ce que le rendement de combustion et la qualité de combustion répondent aux exigences indiquées aux annexes 4 et 5. (2) Tous les appareils à gaz d’une puissance inférieure à 1 MW doivent être mis en place et exploités de façon à ce que la qualité de combustion réponde aux exigences indiquées à l’annexe 5.
+- L’article 7 est remplacé comme suit : Art. 7. Valeurs de combustion des installations gaz. (1) Les installations à gaz destinées au chauffage des locaux et au chauffage de l’eau sanitaire d’une puissance inférieure à 1 MW doivent être mises en place et exploitées de façon à ce que le rendement de combustion et la qualité de combustion répondent aux exigences indiquées aux annexes 4 et 5. (2) Tous les appareils à gaz d’une puissance inférieure à 1 MW doivent être mis en place et exploités de façon à ce que la qualité de combustion réponde aux exigences indiquées à l’annexe 5.
 
-2. L’article 8, paragraphe 2, alinéa 2 est remplacé comme suit : aux installations qui ont une puissance totale supérieure ou égale à 1 MW ;
+- L’article 8, paragraphe 2, alinéa 2 est remplacé comme suit : aux installations qui ont une puissance totale supérieure ou égale à 1 MW ;
 
-3. À l’annexe 4, premier tableau, ligne 4, les termes 3000 kW sont remplacés par les termes 1000 kW .
+- À l’annexe 4, premier tableau, ligne 4, les termes 3000 kW sont remplacés par les termes 1000 kW .
 
 <a id="art-17"></a>
 ## Art. 17.
@@ -616,13 +616,13 @@ L’habilitation à la fonction de contrôleur pour les installations ayant une 
 
 Pour les installations qui sont en service au moment de l´entrée en vigueur du présent règlement et pour lesquelles la demande de réception a été introduite avant cette entrée en vigueur, les dispositions suivantes s’appliquent :
 
-1. pour les installations fonctionnant à combustible solide et liquide, la réception se fait dans les conditions visées par le règlement grand-ducal précité du 7 octobre 2014 ;
+- pour les installations fonctionnant à combustible solide et liquide, la réception se fait dans les conditions visées par le règlement grand-ducal précité du 7 octobre 2014 ;
 
-2.
+-
 
-1. pour les installations fonctionnant à combustible gazeux d’une puissance supérieure ou égale à 1 MW et inférieure ou égale à 3 MW, la réception se fait dans les conditions visées par le règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz ;
+  - pour les installations fonctionnant à combustible gazeux d’une puissance supérieure ou égale à 1 MW et inférieure ou égale à 3 MW, la réception se fait dans les conditions visées par le règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz ;
 
-2. pour les installations fonctionnant à combustible gazeux d’une puissance supérieure à 3 MW, la réception se fait dans les conditions visées par le règlement grand-ducal précité du 7 octobre 2014 .
+  - pour les installations fonctionnant à combustible gazeux d’une puissance supérieure à 3 MW, la réception se fait dans les conditions visées par le règlement grand-ducal précité du 7 octobre 2014 .
 
 <a id="art-18"></a>
 ## Art. 18.

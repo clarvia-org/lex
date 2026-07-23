@@ -49,27 +49,27 @@ Définitions
 
 Aux fins du présent règlement, on entend par :
 
-1. « agent cancérigène » :
+- « agent cancérigène » :
 
-1. une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B des cancérigènes, tels que fixés à l’annexe I du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006 , dénommé ci-après « règlement CLP » ;
+  - une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B des cancérigènes, tels que fixés à l’annexe I du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006 , dénommé ci-après « règlement CLP » ;
 
-2. une substance, un mélange ou un procédé visé à l’annexe I, ainsi qu’une substance ou un mélange dégagé par un procédé visé à ladite annexe ;
+  - une substance, un mélange ou un procédé visé à l’annexe I, ainsi qu’une substance ou un mélange dégagé par un procédé visé à ladite annexe ;
 
-2. « agent mutagène » : une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B des mutagènes sur les cellules germinales, tels que fixés à l’annexe I du règlement CLP ;
+- « agent mutagène » : une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B des mutagènes sur les cellules germinales, tels que fixés à l’annexe I du règlement CLP ;
 
-3. « substance reprotoxique » : une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B de toxicité pour la reproduction énoncés à l’annexe I du règlement CLP ;
+- « substance reprotoxique » : une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B de toxicité pour la reproduction énoncés à l’annexe I du règlement CLP ;
 
-4. « substance reprotoxique sans seuil » : une substance reprotoxique pour laquelle il n’existe pas de niveau d’exposition sûr pour la santé des salariés et qui est identifiée comme telle dans la colonne « Observations » de l’annexe III ;
+- « substance reprotoxique sans seuil » : une substance reprotoxique pour laquelle il n’existe pas de niveau d’exposition sûr pour la santé des salariés et qui est identifiée comme telle dans la colonne « Observations » de l’annexe III ;
 
-5. « substance reprotoxique à seuil » : une substance reprotoxique pour laquelle il existe un niveau sûr d’exposition en deçà duquel il n’y a aucun risque pour la santé des salariés et qui est identifiée comme telle dans la colonne « Observations » de l’annexe III ;
+- « substance reprotoxique à seuil » : une substance reprotoxique pour laquelle il existe un niveau sûr d’exposition en deçà duquel il n’y a aucun risque pour la santé des salariés et qui est identifiée comme telle dans la colonne « Observations » de l’annexe III ;
 
-6. « valeur limite » : sauf indication contraire, la limite de la moyenne pondérée en fonction du temps de la concentration d’un agent cancérigène ou mutagène ou d’une substance reprotoxique dans l’air de la zone de respiration d’un salarié au cours d’une période de référence déterminée, précisée à l’annexe III ;
+- « valeur limite » : sauf indication contraire, la limite de la moyenne pondérée en fonction du temps de la concentration d’un agent cancérigène ou mutagène ou d’une substance reprotoxique dans l’air de la zone de respiration d’un salarié au cours d’une période de référence déterminée, précisée à l’annexe III ;
 
-7. « valeur limite biologique » : la limite de concentration dans le milieu biologique approprié de l’agent concerné, de ses métabolites ou d’un indicateur d’effet ;
+- « valeur limite biologique » : la limite de concentration dans le milieu biologique approprié de l’agent concerné, de ses métabolites ou d’un indicateur d’effet ;
 
-8. « surveillance médicale » : l’évaluation de l’état de santé d’un salarié en fonction de l’exposition à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques spécifiques sur le lieu de travail ;
+- « surveillance médicale » : l’évaluation de l’état de santé d’un salarié en fonction de l’exposition à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques spécifiques sur le lieu de travail ;
 
-9. « autorité compétente » : l’Inspection du travail et des mines et la Direction de la santé, chacune en ce qui la concerne, conformément aux dispositions du livre III, titres I er et II, du Code du travail .
+- « autorité compétente » : l’Inspection du travail et des mines et la Direction de la santé, chacune en ce qui la concerne, conformément aux dispositions du livre III, titres I er et II, du Code du travail .
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -140,31 +140,31 @@ L’exposition ne doit pas dépasser la valeur limite d’un agent cancérigène
 
 Dans tous les cas d’utilisation d’un agent cancérigène ou mutagène ou d’une substance reprotoxique, l’employeur applique toutes les mesures suivantes :
 
-1. la limitation des quantités d’un agent cancérigène ou mutagène ou d’une substance reprotoxique sur le lieu de travail ;
+- la limitation des quantités d’un agent cancérigène ou mutagène ou d’une substance reprotoxique sur le lieu de travail ;
 
-2. la limitation, au niveau le plus bas possible, du nombre de salariés exposés ou susceptibles de l’être ;
+- la limitation, au niveau le plus bas possible, du nombre de salariés exposés ou susceptibles de l’être ;
 
-3. la conception des processus de travail et des mesures techniques, l’objectif étant d’éviter ou de minimiser le dégagement d’agents cancérigènes ou mutagènes ou de substances reprotoxiques sur le lieu de travail ;
+- la conception des processus de travail et des mesures techniques, l’objectif étant d’éviter ou de minimiser le dégagement d’agents cancérigènes ou mutagènes ou de substances reprotoxiques sur le lieu de travail ;
 
-4. l’évacuation des agents cancérigènes ou mutagènes ou des substances reprotoxiques à la source, l’aspiration locale ou la ventilation générale appropriées compatibles avec le besoin de protéger la santé publique et l’environnement ;
+- l’évacuation des agents cancérigènes ou mutagènes ou des substances reprotoxiques à la source, l’aspiration locale ou la ventilation générale appropriées compatibles avec le besoin de protéger la santé publique et l’environnement ;
 
-5. l’utilisation de méthodes de mesure existantes appropriées des agents cancérigènes ou mutagènes ou des substances reprotoxiques, en particulier pour la détection précoce des expositions anormales résultant d’un événement imprévisible ou d’un accident ;
+- l’utilisation de méthodes de mesure existantes appropriées des agents cancérigènes ou mutagènes ou des substances reprotoxiques, en particulier pour la détection précoce des expositions anormales résultant d’un événement imprévisible ou d’un accident ;
 
-6. l’application de procédures et de méthodes de travail appropriées ;
+- l’application de procédures et de méthodes de travail appropriées ;
 
-7. des mesures de protection collectives ou, lorsque l’exposition ne peut être évitée par d’autres moyens, des mesures de protection individuelles ;
+- des mesures de protection collectives ou, lorsque l’exposition ne peut être évitée par d’autres moyens, des mesures de protection individuelles ;
 
-8. des mesures d’hygiène, notamment de nettoyage régulier des sols, murs et autres surfaces ;
+- des mesures d’hygiène, notamment de nettoyage régulier des sols, murs et autres surfaces ;
 
-9. l’information et la formation des salariés ;
+- l’information et la formation des salariés ;
 
-10. la délimitation des zones à risque et l’utilisation de signaux adéquats d’avertissement et de sécurité, y compris les signaux « défense de fumer » dans les zones où les salariés sont exposés ou susceptibles d’être exposés à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques ;
+- la délimitation des zones à risque et l’utilisation de signaux adéquats d’avertissement et de sécurité, y compris les signaux « défense de fumer » dans les zones où les salariés sont exposés ou susceptibles d’être exposés à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques ;
 
-11. la mise en place des dispositifs pour les cas d’urgence susceptibles d’entraîner des expositions anormalement élevées ;
+- la mise en place des dispositifs pour les cas d’urgence susceptibles d’entraîner des expositions anormalement élevées ;
 
-12. les moyens permettant le stockage, la manipulation et le transport sans risque, notamment par l’emploi de récipients hermétiques et étiquetés de manière claire, nette et visible ;
+- les moyens permettant le stockage, la manipulation et le transport sans risque, notamment par l’emploi de récipients hermétiques et étiquetés de manière claire, nette et visible ;
 
-13. les moyens permettant la collecte, le stockage et l’évacuation sûrs des déchets par les salariés, y compris l’utilisation de récipients hermétiques étiquetés de manière claire, nette et visible.
+- les moyens permettant la collecte, le stockage et l’évacuation sûrs des déchets par les salariés, y compris l’utilisation de récipients hermétiques étiquetés de manière claire, nette et visible.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -173,19 +173,19 @@ Information de l’autorité compétente
 
 Si les résultats de l’appréciation visée à l’article 3, paragraphe 2, révèlent un risque concernant la sécurité ou la santé des salariés, les employeurs informent l’Inspection du travail et des mines ainsi que la Direction de la santé des informations appropriées sur :
 
-1. les activités ou les procédés industriels mis en œuvre, y compris les raisons pour lesquelles des agents cancérigènes ou mutagènes ou des substances reprotoxiques sont utilisés ;
+- les activités ou les procédés industriels mis en œuvre, y compris les raisons pour lesquelles des agents cancérigènes ou mutagènes ou des substances reprotoxiques sont utilisés ;
 
-2. les quantités fabriquées ou utilisées de substances ou mélanges qui contiennent des agents cancérigènes ou mutagènes ou des substances reprotoxiques ;
+- les quantités fabriquées ou utilisées de substances ou mélanges qui contiennent des agents cancérigènes ou mutagènes ou des substances reprotoxiques ;
 
-3. le nombre de salariés exposés ;
+- le nombre de salariés exposés ;
 
-4. les mesures de prévention prises ;
+- les mesures de prévention prises ;
 
-5. le type d’équipement de protection à utiliser ;
+- le type d’équipement de protection à utiliser ;
 
-6. la nature et le degré de l’exposition ;
+- la nature et le degré de l’exposition ;
 
-7. les cas de substitution.
+- les cas de substitution.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -200,15 +200,15 @@ En cas d’événements imprévisibles ou d’accidents susceptibles d’entraî
 
 Jusqu’au rétablissement normal de la situation et tant que les causes de l’exposition anormale ne sont pas éliminées :
 
-1. seuls les salariés indispensables et ayant reçu une formation adéquate et des instructions spécifiques pour l’exécution des réparations et d’autres travaux nécessaires sont autorisés à travailler dans la zone touchée ;
+- seuls les salariés indispensables et ayant reçu une formation adéquate et des instructions spécifiques pour l’exécution des réparations et d’autres travaux nécessaires sont autorisés à travailler dans la zone touchée ;
 
-2. un vêtement de protection et un équipement individuel de protection respiratoire sont mis à la disposition des salariés concernés et doivent être portés par ceux-ci, l’exposition ne peut pas être permanente et est limitée au strict nécessaire pour chaque salarié ;
+- un vêtement de protection et un équipement individuel de protection respiratoire sont mis à la disposition des salariés concernés et doivent être portés par ceux-ci, l’exposition ne peut pas être permanente et est limitée au strict nécessaire pour chaque salarié ;
 
-3. les salariés non protégés ne sont pas autorisés à travailler dans la zone touchée ;
+- les salariés non protégés ne sont pas autorisés à travailler dans la zone touchée ;
 
-4. les mesures appropriées sont prises pour que les zones susceptibles d’entraîner une exposition anormale des salariés soient clairement délimitées et signalées, ou pour qu’il soit évité par d’autres moyens que des personnes non autorisées accèdent à ces lieux ;
+- les mesures appropriées sont prises pour que les zones susceptibles d’entraîner une exposition anormale des salariés soient clairement délimitées et signalées, ou pour qu’il soit évité par d’autres moyens que des personnes non autorisées accèdent à ces lieux ;
 
-5. des procédures relatives aux mesures d’urgence doivent être mises en place.
+- des procédures relatives aux mesures d’urgence doivent être mises en place.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -245,17 +245,17 @@ Mesures d’hygiène et de protection individuelle
 
 Les employeurs sont tenus, pour toutes les activités pour lesquelles il existe un risque de contamination par des agents cancérigènes ou mutagènes ou des substances reprotoxiques, de prendre des mesures appropriées aux fins suivantes :
 
-1. faire en sorte que les salariés ne mangent pas, ne boivent pas et ne fument pas dans les zones de travail où il existe un risque de contamination par des agents cancérigènes ou mutagènes ou par des substances reprotoxiques ;
+- faire en sorte que les salariés ne mangent pas, ne boivent pas et ne fument pas dans les zones de travail où il existe un risque de contamination par des agents cancérigènes ou mutagènes ou par des substances reprotoxiques ;
 
-2. fournir aux salariés des vêtements de protection appropriés ou d’autres vêtements particuliers appropriés ;
+- fournir aux salariés des vêtements de protection appropriés ou d’autres vêtements particuliers appropriés ;
 
-3. prévoir des emplacements séparés pour le rangement des vêtements de travail ou de protection, d’une part, et des vêtements de ville, d’autre part ;
+- prévoir des emplacements séparés pour le rangement des vêtements de travail ou de protection, d’une part, et des vêtements de ville, d’autre part ;
 
-4. mettre à la disposition des salariés des sanitaires et des salles d’eau appropriés et adéquats ;
+- mettre à la disposition des salariés des sanitaires et des salles d’eau appropriés et adéquats ;
 
-5. placer correctement les équipements de protection dans un endroit déterminé et vérifier et nettoyer ceux-ci si possible avant et, en tout cas, après chaque utilisation ;
+- placer correctement les équipements de protection dans un endroit déterminé et vérifier et nettoyer ceux-ci si possible avant et, en tout cas, après chaque utilisation ;
 
-6. réparer ou remplacer les équipements défectueux avant une nouvelle utilisation.
+- réparer ou remplacer les équipements défectueux avant une nouvelle utilisation.
 
 (2)
 
@@ -270,23 +270,23 @@ Information et formation des salariés
 
 L’employeur prend les mesures appropriées pour que les salariés reçoivent une formation à la fois suffisante et adéquate, sur la base de tous renseignements disponibles, notamment sous forme d’informations et d’instructions, concernant :
 
-1. les risques potentiels pour la santé, y compris les risques additionnels dus à la consommation du tabac ;
+- les risques potentiels pour la santé, y compris les risques additionnels dus à la consommation du tabac ;
 
-2. les précautions à prendre pour prévenir l’exposition ;
+- les précautions à prendre pour prévenir l’exposition ;
 
-3. les prescriptions en matière d’hygiène ;
+- les prescriptions en matière d’hygiène ;
 
-4. le port et l’emploi des équipements et des vêtements de protection ;
+- le port et l’emploi des équipements et des vêtements de protection ;
 
-5. les mesures à prendre par les salariés, notamment par le personnel d’intervention, en cas d’incident et pour la prévention d’incidents.
+- les mesures à prendre par les salariés, notamment par le personnel d’intervention, en cas d’incident et pour la prévention d’incidents.
 
 La formation visée à l’alinéa 1er doit :
 
-1. être adaptée pour tenir compte des risques nouveaux ou modifiés, en particulier lorsque les salariés sont exposés ou sont susceptibles d’être exposés à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques nouveaux, ou à un certain nombre d’agents cancérigènes ou mutagènes ou de substances reprotoxiques divers, y compris ceux contenus dans des médicaments dangereux, ou en cas de changement de circonstances liées au travail ;
+- être adaptée pour tenir compte des risques nouveaux ou modifiés, en particulier lorsque les salariés sont exposés ou sont susceptibles d’être exposés à des agents cancérigènes ou mutagènes ou à des substances reprotoxiques nouveaux, ou à un certain nombre d’agents cancérigènes ou mutagènes ou de substances reprotoxiques divers, y compris ceux contenus dans des médicaments dangereux, ou en cas de changement de circonstances liées au travail ;
 
-2. être répétée périodiquement dans les établissements de soins de santé pour tous les salariés exposés à des agents cancérigènes, à des agents mutagènes ou à des substances reprotoxiques, en particulier lors de l’utilisation de nouveaux médicaments dangereux contenant ces substances ;
+- être répétée périodiquement dans les établissements de soins de santé pour tous les salariés exposés à des agents cancérigènes, à des agents mutagènes ou à des substances reprotoxiques, en particulier lors de l’utilisation de nouveaux médicaments dangereux contenant ces substances ;
 
-3. être répétée périodiquement dans d’autres milieux si nécessaire.
+- être répétée périodiquement dans d’autres milieux si nécessaire.
 
 (2)
 
@@ -301,21 +301,21 @@ Information des salariés
 
 Des mesures appropriées sont prises pour assurer que :
 
-1. la délégation du personnel, ou à défaut, les salariés concernés, peuvent vérifier que les dispositions du présent règlement sont appliquées, ou peuvent être associées à cette application, en ce qui concerne notamment :
+- la délégation du personnel, ou à défaut, les salariés concernés, peuvent vérifier que les dispositions du présent règlement sont appliquées, ou peuvent être associées à cette application, en ce qui concerne notamment :
 
-1. les conséquences sur la sécurité et la santé des salariés, liées au choix, au port et à l’utilisation des vêtements et des équipements de protection, sans préjudice des responsabilités de l’employeur pour déterminer l’efficacité des vêtements et des équipements de protection ;
+  - les conséquences sur la sécurité et la santé des salariés, liées au choix, au port et à l’utilisation des vêtements et des équipements de protection, sans préjudice des responsabilités de l’employeur pour déterminer l’efficacité des vêtements et des équipements de protection ;
 
-2. les mesures déterminées par l’employeur, visées à l’article 8, paragraphe 1 er , alinéa 1 er , sans préjudice des responsabilités de l’employeur pour déterminer ces mesures ;
+  - les mesures déterminées par l’employeur, visées à l’article 8, paragraphe 1 er , alinéa 1 er , sans préjudice des responsabilités de l’employeur pour déterminer ces mesures ;
 
-2. la délégation du personnel, ou à défaut, les salariés concernés, sont informés le plus rapidement possible d’expositions anormales, y compris celles visées à l’article 8, de leurs causes et des mesures prises ou à prendre pour remédier à la situation ;
+- la délégation du personnel, ou à défaut, les salariés concernés, sont informés le plus rapidement possible d’expositions anormales, y compris celles visées à l’article 8, de leurs causes et des mesures prises ou à prendre pour remédier à la situation ;
 
-3. l’employeur tient une liste actualisée des salariés employés aux activités au sujet desquelles les résultats de l’appréciation visée à l’article 3, paragraphe 2, révèlent un risque concernant la sécurité ou la santé des salariés avec indication, si cette information est disponible, de l’exposition à laquelle ils ont été soumis ;
+- l’employeur tient une liste actualisée des salariés employés aux activités au sujet desquelles les résultats de l’appréciation visée à l’article 3, paragraphe 2, révèlent un risque concernant la sécurité ou la santé des salariés avec indication, si cette information est disponible, de l’exposition à laquelle ils ont été soumis ;
 
-4. le médecin du travail compétent, les membres de l’Inspection du travail et des mines, les membres de la Direction de la santé, ainsi que toute autre personne responsable de la sécurité ou de la santé sur le lieu de travail ont accès à la liste visée au point 3° ;
+- le médecin du travail compétent, les membres de l’Inspection du travail et des mines, les membres de la Direction de la santé, ainsi que toute autre personne responsable de la sécurité ou de la santé sur le lieu de travail ont accès à la liste visée au point 3° ;
 
-5. chaque salarié a accès aux informations contenues dans la liste et le concernant personnellement ;
+- chaque salarié a accès aux informations contenues dans la liste et le concernant personnellement ;
 
-6. la délégation du personnel, ou à défaut, les salariés concernés, ont accès aux informations collectives anonymes.
+- la délégation du personnel, ou à défaut, les salariés concernés, ont accès aux informations collectives anonymes.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -337,9 +337,9 @@ L’Inspection du travail et des mines et la Direction de la santé prennent, co
 
 Les mesures visées au paragraphe 1er, sont telles que chaque salarié doit pouvoir faire l’objet, si cela est approprié, d’une surveillance médicale adéquate :
 
-1. avant l’exposition ;
+- avant l’exposition ;
 
-2. à intervalles réguliers ensuite.
+- à intervalles réguliers ensuite.
 
 Ces mesures sont telles qu’il est directement possible d’appliquer des mesures de médecine individuelles et de médecine du travail.
 
@@ -361,9 +361,9 @@ Des renseignements et des conseils doivent être donnés aux salariés concernan
 
 Conformément aux dispositions mentionnées au paragraphe 1er :
 
-1. les salariés ont accès aux résultats de la surveillance médicale les concernant ;
+- les salariés ont accès aux résultats de la surveillance médicale les concernant ;
 
-2. les salariés concernés ou l’employeur peuvent demander une révision des résultats de la surveillance médicale.
+- les salariés concernés ou l’employeur peuvent demander une révision des résultats de la surveillance médicale.
 
 (7)
 

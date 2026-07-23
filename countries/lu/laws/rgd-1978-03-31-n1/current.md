@@ -38,23 +38,23 @@ Une prime d’astreinte est allouée aux fonctionnaires de l’administration de
 
 La prime est fixée à la valeur de vingt-deux points indiciaires pour:
 
-1. les fonctionnaires attachés aux brigades de bureau,
+- les fonctionnaires attachés aux brigades de bureau,
 
-2. les fonctionnaires attachés aux brigades motorisées,
+- les fonctionnaires attachés aux brigades motorisées,
 
-3. les fonctionnaires attachés aux bureaux et dépendances desservant les trains internationaux et le port fluvial de Mertert,
+- les fonctionnaires attachés aux bureaux et dépendances desservant les trains internationaux et le port fluvial de Mertert,
 
-4. les fonctionnaires attachés au bureau de l’aéroport astreints à un service irrégulier,
+- les fonctionnaires attachés au bureau de l’aéroport astreints à un service irrégulier,
 
-5. les lieutenants des douanes aux frontières,
+- les lieutenants des douanes aux frontières,
 
-6. les receveurs aux bureaux-frontières, y compris les fonctionnaires des bureaux-annexes, les receveurs aux bureaux desservant les trains internationaux et le receveur à l’aéroport,
+- les receveurs aux bureaux-frontières, y compris les fonctionnaires des bureaux-annexes, les receveurs aux bureaux desservant les trains internationaux et le receveur à l’aéroport,
 
-7. l’inspecteur du service motorisé et les inspecteurs divisionnaires aux frontières,
+- l’inspecteur du service motorisé et les inspecteurs divisionnaires aux frontières,
 
-8. les fonctionnaires affectés au service anti-drogues,
+- les fonctionnaires affectés au service anti-drogues,
 
-9. les fonctionnaires assurant, dans le cadre du service de permanence, la coordination opérationnelle avec les forces de police.
+- les fonctionnaires assurant, dans le cadre du service de permanence, la coordination opérationnelle avec les forces de police.
 
 (2)
 

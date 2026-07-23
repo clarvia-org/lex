@@ -26,6 +26,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 ## Version consolidée applicable au 01/04/2020 : Loi du 15 juin 1999 portant organisation de l'Institut national d'administration publique et modification 1. de la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d'avancement dans les différentes carrières des administrations et services de l'Etat; 2. de la loi modifiée du 22 juin 1963 fixant le régime des traitements desfonctionnaires de l'Etat; 3. de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux.
 
+Loi du 15 juin 1999 portant organisation de l'Institut national d'administration publique.
+
 #### Chapitre I.- Dispositions générales
 
 <a id="art-n10053"></a>
@@ -83,9 +85,9 @@ Le temps passé à l’Institut compte comme temps de service pour le calcul du 
 
 La formation professionnelle prévue à l’article 2 (1) s’applique, en ce qui concerne le volet de la formation pendant le stage ou le service provisoire:
 
-1. aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Administration générale», à l’exception des sousgroupes à attributions particulières des groupes de traitement A1 et B1, et aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Douanes» prévues à l’article 10 de la loi fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat ,
+- aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Administration générale», à l’exception des sousgroupes à attributions particulières des groupes de traitement A1 et B1, et aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Douanes» prévues à l’article 10 de la loi fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat ,
 
-2. aux fonctionnaires en service provisoire des catégories de traitement des rubriques « Administration générale » et « Enseignement », prévues à l’article 11 du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux.
+- aux fonctionnaires en service provisoire des catégories de traitement des rubriques « Administration générale » et « Enseignement », prévues à l’article 11 du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux.
 
 Ne sont pas visés par le présent article les fonctionnaires en service provisoire relevant des sous-groupes à attributions particulières des groupes de traitement A1, A2 et B1, à l’exception de ceux assumant la fonction de secrétaire, de secrétaire-rédacteur, de receveur, d’administrateur des hospices civils, d’administrateur-économe des hospices, de secrétaire-receveur-économe de la clinique municipale, d’administrateur de la clinique municipale, de secrétaire-receveur de la clinique municipale, de secrétaire-receveur-économe de l’hospice civil et de secrétaire-trésorier-économe.
 
@@ -149,17 +151,17 @@ Le cycle de formation de début de carrière prévu par les dispositions réglem
 
 La formation professionnelle prévue à l’article 2 (1) s’applique, en ce qui concerne le volet de la formation continue:
 
-1. aux fonctionnaires exerçant les fonctions énumérées aux rubriques I. Administration générale - III. Force publique - VII. Douanes figurant à l’annexe A de la loi modifiée du 23 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat;
+- aux fonctionnaires exerçant les fonctions énumérées aux rubriques I. Administration générale - III. Force publique - VII. Douanes figurant à l’annexe A de la loi modifiée du 23 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat;
 
-2. aux employés occupés dans les services de l’Etat et des établissements publics de l’Etat;
+- aux employés occupés dans les services de l’Etat et des établissements publics de l’Etat;
 
-3. aux ouvriers de l’Etat et des établissements publics de l’Etat;
+- aux ouvriers de l’Etat et des établissements publics de l’Etat;
 
-4. aux fonctionnaires exerçant les fonctions énumérées à l’Annexe A du règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes, à ceux des fonctionnaires de l’Etat;
+- aux fonctionnaires exerçant les fonctions énumérées à l’Annexe A du règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes, à ceux des fonctionnaires de l’Etat;
 
-5. aux employés occupés dans les services des communes, des syndicats de communes et des établissements publics des communes;
+- aux employés occupés dans les services des communes, des syndicats de communes et des établissements publics des communes;
 
-6. aux ouvriers des communes, des syndicats de communes et des établissements publics des communes.
+- aux ouvriers des communes, des syndicats de communes et des établissements publics des communes.
 
 <a id="art-n103d9"></a>
 ## Art. 11.
@@ -251,23 +253,23 @@ Une commission administrative conseille le ministre sur toutes les questions con
 
 Elle est composée de quinze membres à savoir:
 
-1. deux représentants de l’Institut, dont le chargé de la direction,
+- deux représentants de l’Institut, dont le chargé de la direction,
 
-2. un représentant du ministre,
+- un représentant du ministre,
 
-3. un représentant du ministre ayant dans ses attributions l’Education nationale,
+- un représentant du ministre ayant dans ses attributions l’Education nationale,
 
-4. un représentant du ministre de l’Intérieur,
+- un représentant du ministre de l’Intérieur,
 
-5. un représentant du Syndicat des villes et communes luxembourgeoises,
+- un représentant du Syndicat des villes et communes luxembourgeoises,
 
-6. le président de la Chambre des fonctionnaires et employés publics,
+- le président de la Chambre des fonctionnaires et employés publics,
 
-7. deux délégués du personnel enseignant, dont un qui représente les chargés de cours intervenant dans la formation générale du personnel de l’Etat, et un qui représente les chargés de cours intervenant dans la formation générale du personnel communal,
+- deux délégués du personnel enseignant, dont un qui représente les chargés de cours intervenant dans la formation générale du personnel de l’Etat, et un qui représente les chargés de cours intervenant dans la formation générale du personnel communal,
 
-8. trois fonctionnaires en activité de service représentant les catégories de traitement du personnel de l’Etat pour lesquelles la formation est assurée par l’Institut,
+- trois fonctionnaires en activité de service représentant les catégories de traitement du personnel de l’Etat pour lesquelles la formation est assurée par l’Institut,
 
-9. trois fonctionnaires en activité de service représentant les catégories de traitement du personnel des communes pour lesquelles la formation est assurée par l’Institut.
+- trois fonctionnaires en activité de service représentant les catégories de traitement du personnel des communes pour lesquelles la formation est assurée par l’Institut.
 
 (2)
 
@@ -316,19 +318,44 @@ La référence à la présente loi pourra se faire sous une forme abrégée en u
 
 La loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat est modifiée et complétée comme suit:
 
-1° A l’article 1er, le paragraphe II est remplacé comme suit:«II.Sans préjudice des conditions spéciales de promotion prévues pour les différentes carrières visées par la présente loi, nul ne peut être nommé à une fonction du cadre ouvert autre que celle de début de carrière s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli le nombre de jours de formation continue requis par le présent paragraphe, ou qu’il en a été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.Pour les carrières dont le cadre ouvert comprend deux grades de promotion, le fonctionnaire doit avoir accompli six jours de formation dans le premier grade de promotion et six jours de formation dans le deuxième grade de promotion.Pour les carrières dont le cadre ouvert comprend trois grades de promotion, le fonctionnaire doit avoir accompli quatre jours de formation dans le premier grade de promotion, quatre jours de formation dans le deuxième grade de promotion et quatre jours de formation dans le troisième grade de promotion.»
+1° A l’article 1er, le paragraphe II est remplacé comme suit:
 
-2° A l’article 1er, il est ajouté un nouveau paragraphe III ayant la teneur suivante:«III.1) Nul ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli au moins douze jours de formation continue ou qu’il en a été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.2) Par dérogation aux dispositions du paragraphe qui précède, le fonctionnaire appartenant à l’une des carrières visées aux articles 10, 11 et 12 (4) de la présente loi ne peut être nommé à une fonction du cadre fermé, s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut présenter un certificat de qualification attestant qu’il a accompli un cycle de formation en management public. Le cycle de formation en management public est organisé par l’Institut national d’administration publique dans les conditions et suivant les modalités fixées par le règlement grand-ducal prévu à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.»
+«II.
+
+Sans préjudice des conditions spéciales de promotion prévues pour les différentes carrières visées par la présente loi, nul ne peut être nommé à une fonction du cadre ouvert autre que celle de début de carrière s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli le nombre de jours de formation continue requis par le présent paragraphe, ou qu’il en a été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.
+
+Pour les carrières dont le cadre ouvert comprend deux grades de promotion, le fonctionnaire doit avoir accompli six jours de formation dans le premier grade de promotion et six jours de formation dans le deuxième grade de promotion.
+
+Pour les carrières dont le cadre ouvert comprend trois grades de promotion, le fonctionnaire doit avoir accompli quatre jours de formation dans le premier grade de promotion, quatre jours de formation dans le deuxième grade de promotion et quatre jours de formation dans le troisième grade de promotion.»
+
+2° A l’article 1er, il est ajouté un nouveau paragraphe III ayant la teneur suivante:
+
+«III.
+
+1) Nul ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli au moins douze jours de formation continue ou qu’il en a été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.
+
+2) Par dérogation aux dispositions du paragraphe qui précède, le fonctionnaire appartenant à l’une des carrières visées aux articles 10, 11 et 12 (4) de la présente loi ne peut être nommé à une fonction du cadre fermé, s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut présenter un certificat de qualification attestant qu’il a accompli un cycle de formation en management public.
+
+Le cycle de formation en management public est organisé par l’Institut national d’administration publique dans les conditions et suivant les modalités fixées par le règlement grand-ducal prévu à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.»
 
 <a id="art-n107f2"></a>
 ## Art. 22.
 
-L’article 22, VI, paragraphe 1er, alinéa 1 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifié comme suit:«1) Sur demande du fonctionnaire et sur avis du chef d’administration, le fonctionnaire peut bénéficier des allongements de grades ci-après à la condition d’avoir accompli, au cours de sa carrière, au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.»
+L’article 22, VI, paragraphe 1er, alinéa 1 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifié comme suit:
+
+«1) Sur demande du fonctionnaire et sur avis du chef d’administration, le fonctionnaire peut bénéficier des allongements de grades ci-après à la condition d’avoir accompli, au cours de sa carrière, au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.»
 
 <a id="art-n1083a"></a>
 ## Art. 23.
 
-Le chapitre 11 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux est modifié comme suit:«Chapitre 11.-Formation continueArt. 42.La formation continue des fonctionnaires communaux est assurée par l’Institut national d’administration publique dans les conditions et suivant les modalités définies à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.»
+Le chapitre 11 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux est modifié comme suit:
+
+#### «Chapitre 11.- Formation continue
+
+<a id="art-n10882"></a>
+## Art. 42.
+
+La formation continue des fonctionnaires communaux est assurée par l’Institut national d’administration publique dans les conditions et suivant les modalités définies à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.»
 
 #### Chapitre VII.- Disposition abrogatoire
 
@@ -691,9 +718,9 @@ I.
 
 Sur proposition du corps enseignant, le Ministre ayant dans ses attributions la Fonction publique procède tous les trois ans à la nomination
 
-1. d’un délégué chargé de représenter les enseignants intervenant au niveau de la formation générale du personnel communal dans la commission administrative prévue à l’article 18 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique et
+- d’un délégué chargé de représenter les enseignants intervenant au niveau de la formation générale du personnel communal dans la commission administrative prévue à l’article 18 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique et
 
-2. de deux délégués chargés de représenter les enseignants intervenant au niveau de la formation générale du personnel communal dans la commission de coordination prévue à l’article 12 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.
+- de deux délégués chargés de représenter les enseignants intervenant au niveau de la formation générale du personnel communal dans la commission de coordination prévue à l’article 12 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.
 
 II.
 
@@ -729,9 +756,9 @@ Le chargé de direction invite les délégués de classe désignés par les fonc
 <a id="art-n11807"></a>
 ## art_N11807
 
-1.
+-
 
-2.
+-
 
 <a id="art-n118db"></a>
 ## art_N118DB
@@ -1241,9 +1268,9 @@ I.
 
 Sur proposition du corps enseignant, le Ministre ayant dans ses attributions la Fonction publique procède tous les trois ans à la nomination
 
-1. d’un délégué chargé de représenter les enseignants intervenant au niveau de la formation générale du personnel communal dans la commission administrative prévue à l’article 18 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique et
+- d’un délégué chargé de représenter les enseignants intervenant au niveau de la formation générale du personnel communal dans la commission administrative prévue à l’article 18 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique et
 
-2. de deux délégués chargés de représenter les enseignants intervenant au niveau de la formation générale du personnel communal dans la commission de coordination prévue à l’article 12 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.
+- de deux délégués chargés de représenter les enseignants intervenant au niveau de la formation générale du personnel communal dans la commission de coordination prévue à l’article 12 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.
 
 II.
 
@@ -1279,9 +1306,9 @@ Le chargé de direction invite les délégués de classe désignés par les fonc
 <a id="art-n12e65"></a>
 ## art_N12E65
 
-1.
+-
 
-2.
+-
 
 <a id="art-n12f39"></a>
 ## art_N12F39
@@ -1495,15 +1522,15 @@ Le patron de stage est choisi parmi les fonctionnaires appartenant à la même c
 
 Le patron de stage est chargé de superviser le fonctionnaire stagiaire pendant sa période de stage. Cette mission consiste:
 
-1. à introduire le fonctionnaire stagiaire dans sa nouvelle administration et à le familiariser avec son environnement administratif et avec le personnel en place;
+- à introduire le fonctionnaire stagiaire dans sa nouvelle administration et à le familiariser avec son environnement administratif et avec le personnel en place;
 
-2. à initier le fonctionnaire stagiaire dans ses fonctions et dans ses missions;
+- à initier le fonctionnaire stagiaire dans ses fonctions et dans ses missions;
 
-3. à assister, à conseiller et à guider le fonctionnaire stagiaire tout au long de sa période de stage;
+- à assister, à conseiller et à guider le fonctionnaire stagiaire tout au long de sa période de stage;
 
-4. à superviser la formation pendant le stage du fonctionnaire stagiaire;
+- à superviser la formation pendant le stage du fonctionnaire stagiaire;
 
-5. à veiller à la préparation adéquate du fonctionnaire stagiaire à l’examen de fin de stage.
+- à veiller à la préparation adéquate du fonctionnaire stagiaire à l’examen de fin de stage.
 
 (3)
 
@@ -1518,19 +1545,19 @@ Les administrations remettent à chaque fonctionnaire stagiaire au moment de son
 
 Le livret d’accueil comprend les informations suivantes:
 
-1. la législation en relation avec l’administration;
+- la législation en relation avec l’administration;
 
-2. une description détaillée des missions incombant à l’administration;
+- une description détaillée des missions incombant à l’administration;
 
-3. l’organigramme de l’administration;
+- l’organigramme de l’administration;
 
-4. une description précise des missions et des travaux qui incombent au fonctionnaire stagiaire;
+- une description précise des missions et des travaux qui incombent au fonctionnaire stagiaire;
 
-5. une information détaillée sur l’organisation administrative interne du service et sur les procédures d’ordre interne à respecter ainsi que, s’il y a lieu, sur les règles de comportement et de communication élaborées par l’administration face aux citoyens et aux usagers de l’administration;
+- une information détaillée sur l’organisation administrative interne du service et sur les procédures d’ordre interne à respecter ainsi que, s’il y a lieu, sur les règles de comportement et de communication élaborées par l’administration face aux citoyens et aux usagers de l’administration;
 
-6. une note sur l’organisation du temps de travail et le contrôle des présences, sur la réglementation relative aux différents types de congés et, s’il y a lieu, sur le système des permanences à assurer;
+- une note sur l’organisation du temps de travail et le contrôle des présences, sur la réglementation relative aux différents types de congés et, s’il y a lieu, sur le système des permanences à assurer;
 
-7. une note concernant l’organisation de la formation pendant le stage et de l’examen de fin de stage dans l’administration.
+- une note concernant l’organisation de la formation pendant le stage et de l’examen de fin de stage dans l’administration.
 
 <a id="art-n13760"></a>
 ## Art. 3.
@@ -1570,22 +1597,22 @@ Notre Ministre de la Fonction publique et de la Réforme administrative est char
 
 Dans le cadre de la formation générale, les fonctionnaires stagiaires suivent :
 
-1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les stagiaires, conformément à l’article 3, et
+- un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les stagiaires, conformément à l’article 3, et
 
-2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque stagiaire par le chef d’administration ou son délégué conformément à l’article 4.
+- un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque stagiaire par le chef d’administration ou son délégué conformément à l’article 4.
 
 <a id="art-n13834"></a>
 ## Art. 2.
 
 La formation générale peut être organisée sous forme de :
 
-1. cours présentiels ;
+- cours présentiels ;
 
-2. cours en ligne ;
+- cours en ligne ;
 
-3. études personnelles ; ou
+- études personnelles ; ou
 
-4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
+- en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
 <a id="art-n13878"></a>
 ## Art. 3.
@@ -1594,41 +1621,41 @@ La formation générale peut être organisée sous forme de :
 
 Une formation du tronc commun est organisée par l’Institut national d’administration publique, ci-après l’« Institut », pour chacune des matières suivantes :
 
-1. Connaissances générales de l’État, comprenant les sujets suivants :
+- Connaissances générales de l’État, comprenant les sujets suivants :
 
-1. Histoire du Grand-Duché de Luxembourg ;
+  - Histoire du Grand-Duché de Luxembourg ;
 
-2. Éléments constitutifs de l’État luxembourgeois ;
+  - Éléments constitutifs de l’État luxembourgeois ;
 
-3. Système institutionnel luxembourgeois ;
+  - Système institutionnel luxembourgeois ;
 
-4. Introduction générale au droit luxembourgeois.
+  - Introduction générale au droit luxembourgeois.
 
-2. Droits et obligations des agents publics, comprenant les sujets suivants :
+- Droits et obligations des agents publics, comprenant les sujets suivants :
 
-1. Parcours professionnel ;
+  - Parcours professionnel ;
 
-2. Rémunération ;
+  - Rémunération ;
 
-3. Organisation du temps de travail ;
+  - Organisation du temps de travail ;
 
-4. Droits et devoirs statutaires.
+  - Droits et devoirs statutaires.
 
-3. Principes de gestion publique, comprenant les sujets suivants :
+- Principes de gestion publique, comprenant les sujets suivants :
 
-1. Valeurs et principes de bonne conduite administrative ;
+  - Valeurs et principes de bonne conduite administrative ;
 
-2. Principes généraux d’organisation et de gestion ;
+  - Principes généraux d’organisation et de gestion ;
 
-3. Finances publiques ;
+  - Finances publiques ;
 
-4. Administration digitale.
+  - Administration digitale.
 
-4. Communication et compétences comportementales, comprenant les sujets suivants :
+- Communication et compétences comportementales, comprenant les sujets suivants :
 
-1. Principes de communication sur le lieu de travail ;
+  - Principes de communication sur le lieu de travail ;
 
-2. Accueil et communication externe.
+  - Accueil et communication externe.
 
 La durée totale des formations du tronc commun s’élève à 60 heures.
 
@@ -1679,13 +1706,13 @@ La demande écrite est à adresser au ministre. Le ministre prend une décision,
 
 Une telle demande d’assimilation doit mentionner :
 
-1. le sujet de la formation accompagné d’un bref descriptif ;
+- le sujet de la formation accompagné d’un bref descriptif ;
 
-2. l’organisme ayant assuré la formation ;
+- l’organisme ayant assuré la formation ;
 
-3. la date et le lieu du déroulement de la formation ; et
+- la date et le lieu du déroulement de la formation ; et
 
-4. la durée effective de la formation.
+- la durée effective de la formation.
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation et attestant que le stagiaire a effectivement participé à la formation en question.
 
@@ -1873,15 +1900,15 @@ Sur base du nombre total de points obtenus par le stagiaire dans toutes les épr
 
 Un procès-verbal est dressé, qui renseigne :
 
-1. le nombre total de points pouvant être obtenus par chaque stagiaire pour chaque épreuve de l’examen de fin de formation générale ;
+- le nombre total de points pouvant être obtenus par chaque stagiaire pour chaque épreuve de l’examen de fin de formation générale ;
 
-2. le nombre de points obtenus par chaque stagiaire pour chaque épreuve de l’examen de fin de formation générale ;
+- le nombre de points obtenus par chaque stagiaire pour chaque épreuve de l’examen de fin de formation générale ;
 
-3. le nombre total de points pouvant être obtenus par chaque stagiaire dans le cadre de l’examen de fin de formation générale ;
+- le nombre total de points pouvant être obtenus par chaque stagiaire dans le cadre de l’examen de fin de formation générale ;
 
-4. le nombre total des points obtenus par chaque stagiaire dans le cadre de l’examen de fin de formation générale ; et
+- le nombre total des points obtenus par chaque stagiaire dans le cadre de l’examen de fin de formation générale ; et
 
-5. pour chaque stagiaire le prononcé de la commission d’examen concernant la réussite, l’ajournement ou l’échec à l’examen de fin de formation générale.
+- pour chaque stagiaire le prononcé de la commission d’examen concernant la réussite, l’ajournement ou l’échec à l’examen de fin de formation générale.
 
 Ce procès-verbal est signé par au moins trois membres de la commission d’examen.
 
@@ -1907,9 +1934,9 @@ Est admissible à l’examen de fin de formation spéciale, le stagiaire qui a s
 
 Par dérogation au paragraphe 1er, le stagiaire est admissible à l’examen de fin de formation spéciale :
 
-1. en cas de dispense de la participation à une ou plusieurs formations de la formation spéciale, accordée au stagiaire par le chef d’administration pour des raisons exceptionnelles dûment motivées ;
+- en cas de dispense de la participation à une ou plusieurs formations de la formation spéciale, accordée au stagiaire par le chef d’administration pour des raisons exceptionnelles dûment motivées ;
 
-2. en cas d’absence, lorsqu’elle est considérée comme justifiée par le président de la commission d’examen sur base d’un certificat qui lui a été transmis par le stagiaire au plus tard le jour ouvrable suivant le début de son absence.
+- en cas d’absence, lorsqu’elle est considérée comme justifiée par le président de la commission d’examen sur base d’un certificat qui lui a été transmis par le stagiaire au plus tard le jour ouvrable suivant le début de son absence.
 
 (3)
 
@@ -1971,15 +1998,15 @@ Sur base du nombre total de points obtenus par le stagiaire dans toutes les épr
 
 Un procès-verbal est dressé, qui renseigne :
 
-1. le nombre total de points pouvant être obtenus par chaque stagiaire pour chaque épreuve de l’examen de fin de formation spéciale,
+- le nombre total de points pouvant être obtenus par chaque stagiaire pour chaque épreuve de l’examen de fin de formation spéciale,
 
-2. le nombre de points obtenus par chaque stagiaire pour chaque épreuve de l’examen de fin de formation spéciale,
+- le nombre de points obtenus par chaque stagiaire pour chaque épreuve de l’examen de fin de formation spéciale,
 
-3. le nombre total de points pouvant être obtenus par chaque stagiaire dans le cadre de l’examen de fin de formation spéciale,
+- le nombre total de points pouvant être obtenus par chaque stagiaire dans le cadre de l’examen de fin de formation spéciale,
 
-4. le nombre total des points obtenus par chaque stagiaire dans le cadre de l’examen de fin de formation spéciale, et
+- le nombre total des points obtenus par chaque stagiaire dans le cadre de l’examen de fin de formation spéciale, et
 
-5. pour chaque stagiaire le prononcé de la commission d’examen concernant la réussite, l’ajournement ou l’échec à l’examen de fin de formation spéciale.
+- pour chaque stagiaire le prononcé de la commission d’examen concernant la réussite, l’ajournement ou l’échec à l’examen de fin de formation spéciale.
 
 Ce procès-verbal est signé par au moins la moitié des membres de la commission d’examen présents.
 
@@ -2013,22 +2040,22 @@ Le procès-verbal de la commission de coordination de l’Institut est communiqu
 
 Dans le cadre de la formation de début de carrière , les employés suivent :
 
-1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les employés, conformément à l’article 24, et
+- un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les employés, conformément à l’article 24, et
 
-2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque employé par le chef d’administration ou son délégué conformément à l’article 25.
+- un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque employé par le chef d’administration ou son délégué conformément à l’article 25.
 
 <a id="art-n141f9"></a>
 ## Art. 23.
 
 La formation de début de carrière peut être organisée sous forme de :
 
-1. cours présentiels ;
+- cours présentiels ;
 
-2. cours en ligne ;
+- cours en ligne ;
 
-3. études personnelles ; ou
+- études personnelles ; ou
 
-4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
+- en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
 <a id="art-n1423d"></a>
 ## Art. 24.
@@ -2037,41 +2064,41 @@ La formation de début de carrière peut être organisée sous forme de :
 
 Une formation du tronc commun est organisée par l’Institut pour chacune des matières suivantes :
 
-1. Connaissances générales de l’État, comprenant les sujets suivants :
+- Connaissances générales de l’État, comprenant les sujets suivants :
 
-1. Histoire du Grand-Duché de Luxembourg ;
+  - Histoire du Grand-Duché de Luxembourg ;
 
-2. Éléments constitutifs de l’État luxembourgeois ;
+  - Éléments constitutifs de l’État luxembourgeois ;
 
-3. Système institutionnel luxembourgeois ;
+  - Système institutionnel luxembourgeois ;
 
-4. Introduction générale au droit luxembourgeois.
+  - Introduction générale au droit luxembourgeois.
 
-2. Droits et obligations des agents publics, comprenant les sujets suivants :
+- Droits et obligations des agents publics, comprenant les sujets suivants :
 
-1. Parcours professionnel ;
+  - Parcours professionnel ;
 
-2. Rémunération ;
+  - Rémunération ;
 
-3. Organisation du temps de travail ;
+  - Organisation du temps de travail ;
 
-4. Droits et devoirs statutaires.
+  - Droits et devoirs statutaires.
 
-3. Principes de gestion publique, comprenant les sujets suivants :
+- Principes de gestion publique, comprenant les sujets suivants :
 
-1. Valeurs et principes de bonne conduite administrative ;
+  - Valeurs et principes de bonne conduite administrative ;
 
-2. Principes généraux d’organisation et de gestion ;
+  - Principes généraux d’organisation et de gestion ;
 
-3. Finances publiques ;
+  - Finances publiques ;
 
-4. Administration digitale.
+  - Administration digitale.
 
-4. Communication et compétences comportementales, comprenant les sujets suivants :
+- Communication et compétences comportementales, comprenant les sujets suivants :
 
-1. Principes de communication sur le lieu de travail ;
+  - Principes de communication sur le lieu de travail ;
 
-2. Accueil et communication externe.
+  - Accueil et communication externe.
 
 La durée totale des formations du tronc commun s’élève à 60 heures.
 
@@ -2122,13 +2149,13 @@ La demande écrite est à adresser au ministre. Le ministre prend une décision,
 
 Une telle demande d’assimilation doit mentionner :
 
-1. le sujet de la formation accompagné d’un bref descriptif ;
+- le sujet de la formation accompagné d’un bref descriptif ;
 
-2. l’organisme ayant assuré la formation ;
+- l’organisme ayant assuré la formation ;
 
-3. la date et le lieu du déroulement de la formation ; et
+- la date et le lieu du déroulement de la formation ; et
 
-4. la durée effective de la formation.
+- la durée effective de la formation.
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation et attestant que l’employé a effectivement participé à la formation en question.
 
@@ -2185,9 +2212,9 @@ Sur demande du chef d’administration, une dispense de la participation à une 
 
 Sur proposition des chargés de cours, le ministre procède tous les trois ans à la nomination :
 
-1. d’un délégué chargé de représenter les chargés de cours intervenant au niveau de la formation générale du personnel de l’État dans la commission administrative de l’Institut et
+- d’un délégué chargé de représenter les chargés de cours intervenant au niveau de la formation générale du personnel de l’État dans la commission administrative de l’Institut et
 
-2. de deux délégués chargés de représenter les chargés de cours intervenant au niveau de la formation générale du personnel de l’État dans la commission de coordination de l’Institut.
+- de deux délégués chargés de représenter les chargés de cours intervenant au niveau de la formation générale du personnel de l’État dans la commission de coordination de l’Institut.
 
 (2)
 
@@ -2206,20 +2233,20 @@ Le cas échéant, le chargé de direction peut proposer au ministre la révocati
 
 Le règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d'examen du concours d'admission au stage, de l'examen de fin de stage et de l'examen de promotion dans les administrations et services de l'État est modifié comme suit :
 
-1. À l’intitulé, les termes du concours d’admission au stage, de l’examen de fin de stage sont remplacés par de l’examen de fin de formation spéciale pendant le stage ;
+- À l’intitulé, les termes du concours d’admission au stage, de l’examen de fin de stage sont remplacés par de l’examen de fin de formation spéciale pendant le stage ;
 
-2. À l’article 1 er , les termes de l’examen de fin de stage sont remplacés par de l’examen de fin de formation spéciale pendant le stage .
+- À l’article 1 er , les termes de l’examen de fin de stage sont remplacés par de l’examen de fin de formation spéciale pendant le stage .
 
 <a id="art-n14b16"></a>
 ## Art. 40.
 
 Le règlement grand-ducal modifié du 27 octobre 2000 déterminant à l’Institut national d’administration publique 1. l’organisation de la commission de coordination, 2. la collaboration avec les administrations et établissements publics de l’État et 3. la collaboration avec le Ministère de l’Intérieur et les administrations et établissements publics des communes est modifié comme suit :
 
-1. l’article 2, paragraphe III, est abrogé ;
+- l’article 2, paragraphe III, est abrogé ;
 
-2. l’article 4 est remplacé par la disposition suivante : « Art. 4.Le ministre ayant dans ses attributions la Fonction publique nomme les membres de la commission.Le chargé de direction de l’Institut préside la commission. La commission désigne son vice-président.Le président désigne le secrétaire de la commission et le cas échéant un secrétaire adjoint. » ; et
+- l’article 4 est remplacé par la disposition suivante : « Art. 4. Le ministre ayant dans ses attributions la Fonction publique nomme les membres de la commission. Le chargé de direction de l’Institut préside la commission. La commission désigne son vice-président. Le président désigne le secrétaire de la commission et le cas échéant un secrétaire adjoint. » ; et
 
-3. le Chapitre I. du Titre II. est abrogé.
+- le Chapitre I. du Titre II. est abrogé.
 
 <a id="art-n14b84"></a>
 ## Art. 41.
@@ -2231,17 +2258,17 @@ Le règlement grand-ducal modifié du 27 octobre 2000 déterminant l’organisat
 
 Pour les stagiaires ou employés qui ont commencé leur formation générale sous le régime du règlement grand-ducal modifié du 27 octobre 2000 déterminant l’organisation à l’Institut national d’administration publique de la division de la formation pendant le stage du personnel de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière pour les employés de l’État, les dispositions du présent règlement grand-ducal s’appliquent, sous réserve des dispositions transitoires suivantes :
 
-1. Pour les stagiaires qui ont réussi à l’examen théorique de l’examen de fin de formation générale et pour les employés qui ont participé au contrôle des connaissances :
+- Pour les stagiaires qui ont réussi à l’examen théorique de l’examen de fin de formation générale et pour les employés qui ont participé au contrôle des connaissances :
 
-1. le nombre total des points obtenus dans le cadre de l’examen de fin de formation générale ou du contrôle des connaissances est repris dans le cadre de la mise en compte des résultats des deux parties de l’examen de fin de stage ou des résultats du contrôle des connaissances et du rapport d’aptitude professionnelle ;
+  - le nombre total des points obtenus dans le cadre de l’examen de fin de formation générale ou du contrôle des connaissances est repris dans le cadre de la mise en compte des résultats des deux parties de l’examen de fin de stage ou des résultats du contrôle des connaissances et du rapport d’aptitude professionnelle ;
 
-2. le nombre d’heures de formation suivies dans le cadre de la formation générale sous le régime du règlement grand-ducal modifié du 27 octobre 2000 précité à l’alinéa 1 er est pris en compte pour le nombre total d’heures de formation à suivre sous le régime du présent règlement grand-ducal.
+  - le nombre d’heures de formation suivies dans le cadre de la formation générale sous le régime du règlement grand-ducal modifié du 27 octobre 2000 précité à l’alinéa 1 er est pris en compte pour le nombre total d’heures de formation à suivre sous le régime du présent règlement grand-ducal.
 
-2. Pour les stagiaires qui n’ont pas encore réussi à l’examen théorique de l’examen de fin de formation générale ou pour les employés qui n’ont pas encore participé au contrôle des connaissances :
+- Pour les stagiaires qui n’ont pas encore réussi à l’examen théorique de l’examen de fin de formation générale ou pour les employés qui n’ont pas encore participé au contrôle des connaissances :
 
-1. ils sont obligés à suivre l’intégralité des formations du tronc commun pour une durée totale de 60 heures ;
+  - ils sont obligés à suivre l’intégralité des formations du tronc commun pour une durée totale de 60 heures ;
 
-2. le nombre d’heures de formation déjà suivies dans le cadre de la formation générale sous le régime du règlement grand-ducal modifié du 27 octobre 2000 précité à l’alinéa 1 er est pris en compte pour le nombre total d’heures de formation à suivre sous le régime du présent règlement grand-ducal.
+  - le nombre d’heures de formation déjà suivies dans le cadre de la formation générale sous le régime du règlement grand-ducal modifié du 27 octobre 2000 précité à l’alinéa 1 er est pris en compte pour le nombre total d’heures de formation à suivre sous le régime du présent règlement grand-ducal.
 
 #### Chapitre 5 Dispositions finales
 
@@ -2254,6 +2281,101 @@ La référence au présent règlement se fait sous la forme suivante : « règle
 ## Art. 44.
 
 Les Membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.
+
+Les matières des formations au choix au sens des articles 4 et 25 sont les suivantes :
+
+| I. Dans le domaine « Connaissances générales » : |  |
+| --- | --- |
+| 1° | Europe : histoire de l’intégration européenne |
+| 2° | Europe : l’actualité |
+| 3° | Europe : le fonctionnement |
+| 4° | Grand-Duché de Luxembourg : économie |
+| 5° | Grand-Duché de Luxembourg : histoire |
+| 6° | Grand-Duché de Luxembourg : image de marque |
+| 7° | Grand-Duché de Luxembourg : institutions et société |
+| 8° | Grand-Duché de Luxembourg : justice |
+| 9° | Grand-Duché de Luxembourg : sécurité sociale |
+| 10° | Grand-Duché de Luxembourg : statistiques |
+| 11° | Institutions européennes et internationales |
+| 12° | Le Luxembourg et la Grande Région |
+| II. Dans le domaine « Droit » : |  |
+| 1° | Accès à la législation |
+| 2° | Droit administratif |
+| 3° | Droit civil |
+| 4° | Droit commercial |
+| 5° | Droit constitutionnel |
+| 6° | Droit de l’Union européenne |
+| 7° | Droit de la sécurité sociale |
+| 8° | Droit du travail |
+| 9° | Droit fiscal |
+| 10° | Droits d'auteur au Luxembourg |
+| 11° | Introduction générale au droit |
+| 12° | Marchés publics |
+| 13° | Méthodes et techniques législatives |
+| 14° | Responsabilité civile de l’État |
+| III. Dans le domaine « Droits et devoirs des agents publics » : |  |
+| 1° | Discipline dans la fonction publique |
+| 2° | Diversité dans la fonction publique |
+| 3° | Ergonomie |
+| 4° | Politiques de l’égalité des chances |
+| 5° | Protection des personnes à l'égard du traitement de données à caractère personnel |
+| 6° | Santé au travail |
+| 7° | Sécurité dans la Fonction publique |
+| 8° | Système de rémunération dans l’administration publique |
+| 9° | Système de pension des agents publics |
+| IV. Dans le domaine « Gestion publique » : |  |
+| 1° | Accueil du public |
+| 2° | Budget et comptabilité de l’État |
+| 3° | Conduite de réunion |
+| 4° | Développement de l’organisation |
+| 5° | Évaluation d’impact et simplification administrative |
+| 6° | Gestion d’équipe |
+| 7° | Gestion de la documentation |
+| 8° | Gestion de la qualité |
+| 9° | Gestion de projets |
+| 10° | Gestion des réclamations |
+| 11° | Gestion des ressources humaines |
+| 12° | Gestion du changement |
+| 13° | Éthique et intégrité dans l’administration |
+| 14° | Lecture rapide et efficace |
+| 15° | Plates-formes officielles d'échange de données |
+| 16° | Principes de co-création et de gestion participative |
+| 17° | Prise de notes et comptes rendus |
+| 18° | Techniques de management |
+| 19° | Techniques de négociation |
+| V. Dans le domaine « Communication » : |  |
+| 1° | Communication avec le citoyen |
+| 2° | Communication interne |
+| 3° | Communication non verbale |
+| 4° | Communication avec des personnes en situation de handicap |
+| 5° | Parler en public |
+| 6° | Techniques de communication |
+| 7° | Techniques de médiation |
+| 8° | Techniques de présentation |
+| 9° | Travail en équipe |
+| 10° | Usage de médias sociaux |
+| VI. Dans le domaine « Informatique » : |  |
+| 1° | Essentiel sur l'ordinateur |
+| 2° | Essentiel sur le web |
+| 3° | Traitement de texte |
+| 4° | Tableur |
+| 5° | Bases de données |
+| 6° | Présentation |
+| 7° | Collaboration en ligne |
+| 8° | Sécurité informatique |
+| 9° | Traitement d’images |
+| 10° | Maîtrise du clavier |
+| VII. Dans le domaine « Langage administratif » : |  |
+| 1° | Allemand |
+| 2° | Anglais |
+| 3° | Français |
+| 4° | Luxembourgeois |
+| 5° | Portugais |
+| VIII. Dans le domaine « Sécurité sur le lieu de travail » : |  |
+| 1° | Premier secours |
+| 2° | Défibrillation semi-automatique |
+| 3° | Lutte et prévention contre l'incendie |
+| 4° | Premiers secours psychologiques |
 
 ## Règlement ministériel du 21 juin 2019 fixant les programmes de la formation générale à l’INAP.
 
@@ -2272,6 +2394,5147 @@ Les formations au choix au sens du règlement grand-ducal précité du 31 octobr
 
 Le présent règlement sera publié au Journal officiel du Grand-Duché de Luxembourg.
 
+| Matière | Sujets | Programme détaillé | Formes d’organisation | Nombre d’heures de formation |
+| --- | --- | --- | --- | --- |
+| Connaissances générales de l’État | Histoire du Grand-Duché de Luxembourg | 1° Évolutions politiques 2° Intégration européenne 3° L’État du Grand-Duché de Luxembourg | cours présentiels | 18 heures |
+| Éléments constitutifs de l’État luxembourgeois | 1° Territoire 2° Population 3° Autorité politique |  |  |  |
+| Système institutionnel luxembourgeois | 1° Principe de la séparation des pouvoirs 2° Chambre des députés 3° Grand-Duc 4° Gouvernement 5° Conseil d’État 6° Cours et tribunaux |  |  |  |
+| Introduction générale au Droit luxembourgeois | 1° Notion d’État de Droit 2° Sources du droit 3° Hiérarchie des normes 4° Constitution 5° Loi 6° Règlements 7° Arrêté 8° Droit international 9° Recherche juridique 10° Structure d’un acte |  |  |  |
+| Principes de gestion publique | Principes de l’administration publique | 1° Les courants de la « Gestion publique » et leur impact sur le développement de l’État 2° Les valeurs de l’action publique | cours présentiels | 12 heures |
+| Transformation digitale | 1° Les principes de l’e-administration et les services digitaux de l’État 2° La sécurité de l’information |  |  |  |
+| La comptabilité de l’État | 1° Fondamentaux de la comptabilité de l’État 2° Le budget comme outil politique |  |  |  |
+| Innovation publique | 1° Innovation publique et le Service « Einfach Lëtzebuerg » 2° Atelier “Service Design” |  |  |  |
+| Droits et obligations des agents publics | Parcours professionnel | 1° Recrutement 2° Stage 3° Évolution de la vie professionnelle 4° Cessation des fonctions | cours présentiels | 18 heures |
+| Rémunération | Traitements et indemnités |  |  |  |
+| Organisation du temps de travail | 1° Durée de travail 2° Repos et congés 3° Télétravail |  |  |  |
+| Droits et devoirs statutaires | 1° Droits des agents publics 2° Obligations des agents publics 3° Manquements aux obligations |  |  |  |
+| Communication et compétences comportementales | Les bases de la communication | 1° Principe de communication 2° Compétences-clés du communiquant 3° Structurer et réussir ses communications | cours présentiels | 12 heures |
+| Communication en groupe | 1° Communication en groupe 2° Découvrir les mécaniques du conflit 3° Communiquer face à un conflit 4° Appliquer les principes de la communication en situation de crise |  |  |  |
+
+I. Dans le domaine « Connaissances générales » :
+
+Histoire de l’État luxembourgeois
+
+Le programme détaillé du cours « Histoire de l’État luxembourgeois » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+Malgré sa petite taille, le Grand-Duché de Luxembourg est un authentique État avec une histoire particulièrement riche. Le passé mouvementé du Grand-Duché de Luxembourg est un véritable condensé de l’histoire européenne.
+
+La société luxembourgeoise se distingue avant tout par son caractère multiculturel. La population du Grand-Duché est composée de près de 45 % de ressortissants étrangers. En tout, on compte aujourd’hui plus de 150 nationalités différentes au Luxembourg.
+
+Cette situation se reflète sur le marché du travail qui de plus est caractérisé par une importante affluence de travailleurs frontaliers allemands, français et belges.
+
+Dans l’enseignement primaire et secondaire, le système est parfaitement plurilingue, à l’instar des autres aspects de la société.
+
+Grand-Duché de Luxembourg : institutions et société
+
+Le programme détaillé du cours « Grand-Duché de Luxembourg : institutions et société » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Les étapes cruciales de la "naissance" d’une société luxembourgeoise
+
+- Les institutions luxembourgeoises
+
+- L’économie luxembourgeoise
+
+- La concertation sociale
+
+- La population du Grand-Duché
+
+Rôle et fonctionnement de la Chambre des Députés
+
+Le programme détaillé du cours « Rôle et fonctionnement de la Chambre des Députés » organisé sous forme de cours présentiel d’une durée de 3 heures est déterminé comme suit :
+
+- Mot de bienvenue du Secrétaire général
+
+- Visite guidée de l’Hôtel de la Chambre et de l’administration parlementaire avec des explications générales sur son histoire, ses attributions et son rôle politique
+
+- Présentation de l’administration parlementaire, ses services, ses compétences, ses lieux de travail et son fonctionnement administratif
+
+- Présentation du site public de la Chambre et explications sur la recherche d’informations concernant les réunions, les ordres du jour, les documents parlementaires et les vidéos, ainsi que quelques cas pratiques de recherches d’informations
+
+Économie luxembourgeoise
+
+Le programme détaillé du cours « Économie luxembourgeoise » organisé sous forme de cours présentiel d’une durée de 11.5 heures est déterminé comme suit :
+
+- Caractéristiques structurelles de l’économie luxembourgeoise :
+
+  - Évolution de l’économie dans le long terme,
+
+  - Analyse sectorielle,
+
+  - Mouvement de la population et marché du travail,
+
+  - Relations économiques extérieures.
+
+- Le Luxembourg dans l’économie régionale :
+
+  - Géographie,
+
+  - Développement,
+
+  - Économique,
+
+  - Population,
+
+  - Travail et emploi,
+
+  - Spécificités du Luxembourg comme petite économie intégrée dans une économie régionale.
+
+- Le Luxembourg dans l’économie européenne :
+
+  - Gouvernance économique européenne ("semestre européen"),
+
+  - Programme national de réforme,
+
+  - Programme de stabilité.
+
+Géo portail officiel & Portail Open data - plates-formes officielles d’échange de données, produits et documents
+
+Le programme détaillé du cours « Géo portail officiel & Portail Open data - plates-formes officielles d’échange de données, produits et documents » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+Apprendre à connaître et à utiliser les différentes applications dont se compose le géo portail national.
+
+Histoire et petites histoires de l’intégration européenne
+
+Le programme détaillé du cours « Histoire et petites histoires de l’intégration européenne » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Les années 50 : Un nouveau départ pour l’Europe après la Seconde Guerre Mondiale :
+
+  - CECA ;
+
+  - L’échec de la Communauté Européenne de Défense (CED) ;
+
+  - La CEE et la CEEA ;
+
+  - Deux politiques novatrices : la PAC et la Concurrence.
+
+- Les années 60 et 70 : trouver des solutions dans un contexte difficile :
+
+  - De nouvelles crises (la chaise vide et la fusion des institutions) ;
+
+  - La suspension partielle de Bretten Woods et ses effets sur l’Europe ;
+
+  - Le premier élargissement ;
+
+  - Une petite liqueur ? Un arrêt historique : l’arrêt Cassis de Dijon ;
+
+  - « I want my money back », des disputes budgétaires presque sans fin ;
+
+  - Les premières élections à l’Assemblée Européenne.
+
+- Les grandes avancées des années 80 :
+
+  - Accueillir les anciennes dictatures du sud : la Grèce, l’Espagne et le Portugal ;
+
+  - L’achèvement du marché unique : Objectif 1992 ;
+
+  - La chute du rideau de fer et du mur de Berlin.
+
+- D’un Traité complexe à la chute de la Commission Européenne : la décennie 90 :
+
+  - Le Traité de Maastricht ;
+
+  - Perturbations économiques et monétaires : en avant vers l’Euro ;
+
+  - L’adhésion de la Finlande, la Suède et l’Autriche ;
+
+  - Le Traité d’Amsterdam ;
+
+  - La chute de la Commission.
+
+- Les années 2000
+
+  - Le Big Bang : l’arrivée de 12 nouveaux États membres ;
+
+  - Les travaux de la Convention européenne et la Constitution que nous n’avons pas ;
+
+  - Le Traité de Lisbonne.
+
+EUROPA - aktuell 2019
+
+Le programme détaillé du cours « EUROPA - aktuell 2019 » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Die Europäischen Organe im Jahr 2019
+
+- Die Zusammenarbeit in der EU 2019: Neue Köpfe, neue Ziele für die EU?
+
+- Wie erfolgreich ist die Europäische Kommission? Was als Tiger gestartet....?
+
+- Ziele der TEAM-Ratspräsidentschaft 2018/2019: Malta, Estland und Bulgarien gestalten die EU
+
+- Der BREXIT wird konkret: Das Vereinigte Königreich wird die EU verlassen?!
+
+- Auswirkungen des BREXIT auf das Europa der 27 Staaten.
+
+- Entwicklungen in den Beitrittskandidatenstaaten: Steht der Kurs 2018 noch auf EU? Wahlen in Mazedonien, NATO- Beitritt Montenegros, konstitutioneller Umbau der Türkei
+
+- Die Wählerinnen und Wähler haben das Wort: Nationale Entscheidungen in Frankreich, Deutschland und Luxemburg Welche Auswirkungen auf die Europäische Union zeichnen sich ab?
+
+So funktioniert die europäische Union: Herausforderungen, Chancen und Risiken Europas im 21. Jahrhundert
+
+Le programme détaillé du cours « So funktioniert die europäische Union: Herausforderungen, Chancen und Risiken Europas im 21. Jahrhundert » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Die Europäische Union im Überblick
+
+  - Historischer Rückblick: Entstehung und Etappen des europäischen Konstrukts.
+
+  - Die institutionelle Funktion der Union.
+
+  - Die Erweiterung: von 6 auf 28 und noch mehr.
+
+  - Der Vertrag von Lissabon.
+
+- Die EU und seine Institutionen
+
+  - Das Europäische Parlament
+
+  - Der Europäische Rat
+
+  - Der Rat der Minister / Ministerrat
+
+  - Die Europäische Kommission
+
+  - usw.
+
+- Die großen europäischen Themen
+
+  - Post-Brexit: quo vadis Europäische Union?
+
+  - Die Friedensmacht EU: Fiktion oder Realität?
+
+  - Die Handelsmacht EU: großer Markt oder große Macht?
+
+  - Gibt es eine europäische Identität?
+
+  - Europa der zwei Geschwindigkeiten?
+
+  - Fazit: Welche Finalität für Europa?
+
+Marchés publics
+
+Le programme détaillé du cours « Marchés publics » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Les principes régissant les marchés publics
+
+- La législation sur les marchés publics
+
+  - Les entités visées
+
+  - Les différentes procédures de passation d’un marché
+
+  - Les modes de passation des marchés publics
+
+  - Les critères de sélection des entreprises en cas de procédure ouverte ou restreinte
+
+  - Les critères d’adjudication
+
+  - La mise en œuvre d’une politique des marchés publics visant la protection de l’environnement et la promotion du développement durable
+
+  - La durée des marchés publics
+
+  - L’accès aux marchés publics
+
+  - L’élaboration du dossier de soumission
+
+  - La demande d’offre
+
+  - L’élaboration de l’offre par les soumissionnaires
+
+  - Le dépôt et l’ouverture des offres
+
+  - L’examen des offres
+
+  - L’adjudication
+
+  - L’annulation d’une mise en adjudication
+
+  - Les paiements en matière de marchés publics
+
+  - Les sanctions
+
+  - La Commission des Soumissions
+
+  - Recours
+
+  - Dispositions particulières concernant les marchés conclus par les communes, syndicats de communes et établissements publics placés sous la surveillance d’une commune
+
+  - Dispositions particulières relatives aux marchés d’une certaine envergure (livres II et III)
+
+  - La standardisation des cahiers spéciaux des charges
+
+Système politique et administratif luxembourgeois
+
+Le programme détaillé du cours « Système politique et administratif luxembourgeois » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- L’histoire du Luxembourg
+
+- Le mythe des dominations étrangères
+
+- Luxembourg, longtemps terre d’émigration
+
+- Le Luxembourg et la grande région
+
+L’organisation du Gouvernement
+
+Le programme détaillé du cours « L’organisation du Gouvernement » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Définition du terme Gouvernement
+
+- Aperçu d’histoire constitutionnelle
+
+- La forme du Gouvernement
+
+- La formation du Gouvernement
+
+- Fonctionnement de l’appareil gouvernemental
+
+- Le rôle, les fonctions et les compétences du Président du Gouvernement
+
+- L’administration publique
+
+Droit administratif
+
+Le programme détaillé du cours « Droit administratif » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Introduction au droit public
+
+- Sources du droit administratif
+
+- Activité de l’administration
+
+- Régime de l’activité
+
+- Contrôle de l’activité
+
+Fluchtburg EUROPA - Asyl und Flüchtlingspolitik der EU
+
+Le programme détaillé du cours « Fluchtburg EUROPA - Asyl und Flüchtlingspolitik der EU » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Asyl und Asylrecht im Spiegel der europäischen Geschichte
+
+- Grundlagen des Asylrechts in der Europäischen Union im Spiegel aktueller Ereignisse
+
+- Einführung in das Ordentliche Gesetzgebungsverfahren der EU und die Didaktik einer partizipativen Konferenzsimulation
+
+- Die Teilnehmenden werden zu Akteuren der Europäischen Union
+
+- Die Teilnehmenden agieren als Akteure der Europäischen Union
+
+- Entscheidungsphase – Beschlüsse für Regelungen im Bereich des Asylrechts werden gefasst
+
+- Perspektiven für ein europäisches Asylrecht in der Praxis: Not und Notwendigkeit
+
+Le Luxembourg et l’intégration européenne 1945-2019
+
+Le programme détaillé du cours « Le Luxembourg et l’intégration européenne 1945-2019 » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Le Luxembourg face aux grands dossiers européens
+
+  - Négociations des traités fondateurs (1951, 1957)
+
+  - « Guerre des sièges des institutions » (1965)
+
+  - Crise de la chaise vide (1965-66)
+
+  - Négociation du 1 er projet d’union économique et monétaire (1969-1971)
+
+  - Négociation du traité de Maastricht (1990-91)
+
+- Le Luxembourg et les présidences des institutions communautaires
+
+  - Présidences de la Commission européenne (Gaston Thorn, 1981-85 ; Jacques Santer, 1995-99 ; Jean-Claude Juncker, 2014-…)
+
+  - Présidences du Conseil des Communautés européennes / de l’Union européenne
+
+  - Présidence de l’Euro groupe (2005-2013)
+
+- L’influence du Luxembourg dans l’Union européenne
+
+  - Les données socio-économiques et culturelles
+
+  - La représentation du Luxembourg dans les institutions de l’Union
+
+- Histoire et fonctionnement des institutions européennes
+
+  - Le Parlement, la Commission et le Conseil
+
+  - Le processus législatif et décisionnel européens
+
+- La présentation pédagogique avec des documents d’archive
+
+  - Extraits audiovisuels, iconographiques et textuels
+
+  - Exercices pratiques axés sur l’analyse, l’interprétation et le décryptage des sources
+
+La nouvelle gouvernance économique européenne
+
+Le programme détaillé du cours « La nouvelle gouvernance économique européenne » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Les principes de la gouvernance économique européenne
+
+  - La croissance économique équilibrée
+
+  - La stabilité des prix
+
+  - L’économie sociale de marché hautement compétitive
+
+  - La différenciation de l’intégration économique et monétaire
+
+- Les institutions de la gouvernance économique européenne
+
+  - Les institutions communautaires :
+
+    - Le Conseil européen, le Conseil Eco fin, l’Euro groupe, le comité écon et financier
+
+    - La Commission européenne, en particulier la DG ECFIN
+
+    - La Banque centrale européenne
+
+    - Le Parlement européen, en particulier la commission des affaires économiques et monétaires
+
+  - Les additifs extra-communautaires
+
+    - Le sommet des chefs d’État de la zone euro
+
+    - Le Mécanisme européen de stabilité
+
+    - Le Fonds de résolution unique
+
+- Le pilier économique
+
+  - La coordination des politiques économiques
+
+  - La discipline des politiques budgétaires
+
+  - La discipline des politiques macroéconomiques
+
+- Le pilier monétaire
+
+  - La préservation de la stabilité des prix
+
+  - La promotion du bon fonctionnement des systèmes de paiement
+
+- L’Union bancaire
+
+  - Le mécanisme de surveillance unique
+
+  - Le mécanisme de résolution unique et le fonds de résolution unique
+
+  - Un socle réglementaire uniforme
+
+- La solidarité financière
+
+  - Le cadre général :
+
+    - Le budget communautaire
+
+    - La politique de cohésion
+
+  - Les dispositifs particuliers :
+
+    - L’assistance financière communautaire de l’article 122 TFUE
+
+    - Le concours mutuel de l’article 143 TFUE, pour les États membres hors de la zone euro
+
+    - Le mécanisme européen de stabilité, pour les États membres de la zone euro
+
+    - Perspectives futures : la mutualisation des dettes souveraines
+
+- Les relations de change
+
+  - Les relations entre la zone euro et les États membres hors de la zone euro
+
+  - La politique de change euro-grandes monnaies internationales
+
+  - La représentation externe de la zone euro
+
+Europas "neue" Nachbarn
+
+Le programme détaillé du cours « Europas "neue" Nachbarn » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+Die Welt um die Europäische Union herum verändert sich rasch.
+
+Die Beziehungen zwischen der Europäischen Union (EU) und den Vereinigten Staaten von Amerika (USA) spielen traditionell im ökonomischen und politischen Bereich ab. Noch vertreten beide Machtblöcke bei internationalen Konflikten oft eine ähnliche Meinung, was an den historischen Gegebenheiten und einer vertrauensvollen Partnerschaft in den vergangenen Jahrzehnten liegt. Dieses Miteinander steht spätestens nach der Wahl des aktuellen Präsidenten der USA in Frage. Im Rahmen der Transatlantische Beziehungen sind aber sowohl die USA als auch der Großteil der EU-Mitgliedsstaaten in der NATO miteinander verbunden. Aber auch die Handlungsfähigkeit dieses Bündnisses steht vielleicht in Frage.
+
+Im Osten des europäischen Kontinents zeigt sich ein Bild der Verunsicherungen. Die Perspektive der Integration weiterer Staaten in die Europäische Union ist unklar, eine Vielzahl von Grenzkonflikten macht eine konkrete Einschätzung der Chancen und Risiken von Partnerschaften fast unmöglich.
+
+Das gemeinsame Handeln im Rahmen einer Außen- und Sicherheitspolitik war in den letzten Jahren oft ein Stiefkind europäischer Politik. Dieses wird und muss sich in der EU der verbleibenden 27 Staaten ändern.
+
+Das Seminar will sich den komplexen Beziehungen zu Russland und den Vereinigten Staaten zuwenden und genauer betrachten. Im Rahmen der Veranstaltung wird eine partizipative Konferenzsimulation (Planspiel) zur Östlichen Partnerschaft der Europäischen Union durchgeführt, die die Teilnehmenden zu aktiven Akteurinnen und Akteuren europäischer Politik werden lässt.
+
+Und selbstverständlich darf bei dieser Betrachtung des globale Engagement Chinas – auch in Europa – nicht aus den Augen verloren werden.
+
+II. Dans le domaine « Droit » :
+
+Accès à la législation
+
+Le programme détaillé du cours « Accès à la législation » organisé sous forme de cours présentiel d’une durée de 3 heures est déterminé comme suit :
+
+- Le mémorial et le site Légilux
+
+- L’espace législatif
+
+- La recherche
+
+- Liens utiles
+
+Les droits d’auteur au Luxembourg
+
+Le programme détaillé du cours « Les droits d’auteur au Luxembourg » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Concepts de la propriété intellectuelle : propriété industrielle et propriété littéraire et artistique
+
+- Généralités sur le droit d’auteur (définition, exemples, condition de protection, caractéristiques)
+
+- Les droits conférés à l’auteur (droits patrimoniaux, droits moraux)
+
+- Les droits voisins
+
+- Le non-respect et les sanctions
+
+- Les exceptions
+
+- Le i-DEPOT
+
+- La gestion des droits d’auteur
+
+- Le contrat Etat-Luxorr
+
+Cadastre : sa documentation et ses procédés
+
+Le programme détaillé du cours « Cadastre : sa documentation et ses procédés » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Exposé sur le cadastre
+
+- Le plan cadastral
+
+- Les fichiers cadastraux
+
+- La mutation immobilière
+
+- Le plan à l’acte officiel
+
+- L’abornement des limites
+
+Propriété immobilière, servitudes et autres droits réels immobiliers
+
+Le programme détaillé du cours « Propriété immobilière, servitudes et autres droits réels immobiliers » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Propriété immobilière (y compris le droit de superficie)
+
+- Usufruit immobilier
+
+- Droits d’usage et d’habitation
+
+- Droit d’emphytéose
+
+- Servitudes
+
+Seront analysés à propos de ces droits les problèmes suivants :
+
+- Notion, étendue et modalités
+
+- Modes d’acquisition de la propriété immobilière et modes d’établissement des autres droits réels immobiliers
+
+- Preuve
+
+- Publicité
+
+La traite des êtres humains
+
+Le programme détaillé du cours « La traite des êtres humains » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Le cadre juridique national, européen et international de la traite des êtres humains
+
+- La présentation du phénomène de la traite et les différentes formes d’exploitation (travail forcé, exploitation sexuelle, mendicité forcée, vente d’enfants...)
+
+- Les acteurs responsables de l’identification de la victime (Police)
+
+- Les acteurs responsables de la prise en charge et de l’assistance des victimes (ONG)
+
+- Les acteurs responsables pour la politique en matière de traite et l’organisme de contrôle (comité de suivi, rapporteur national)
+
+- Les mesures d’accompagnement et d’accès aux droits des personnes identifiées comme étant victimes de la traite au Luxembourg et en cas de retour au pays d’origine (Police, Autorités judiciaires, Direction de l’Immigration, ONG)
+
+- Les indicateurs facilitant l’identification de situations de traite
+
+Droit national de la sécurité sociale
+
+Le programme détaillé du cours « Droit national de la sécurité sociale » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Les différentes branches de la sécurité sociale : soins de santé, maladie, maternité, accident de travail et maladies professionnelles, vieillesse, invalidité, survie, chômage, prestations familiales, dépendance.
+
+- Les différentes prestations et les conditions d’attribution.
+
+- Les personnes protégées (affiliation obligatoire, assurances volontaires, paiement de cotisations…).
+
+- Organisation administrative de la sécurité sociale.
+
+- La coordination européenne des systèmes de sécurité sociale nationaux.
+
+Droit international de la sécurité sociale
+
+Le programme détaillé du cours « Droit international de la sécurité sociale » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+Le cours est destiné à donner une connaissance générale en matière de droit international de la sécurité sociale. Les sujets suivants sont en particulier abordés.
+
+La coordination européenne des systèmes de sécurité sociale des personnes qui se déplacent à l’intérieur de l’Union européenne :
+
+- Principes généraux
+
+- Égalité de traitement
+
+- Totalisation des périodes d’assurance
+
+- Exportation des prestations
+
+- Unicité de législation applicable
+
+- Règles particulières en matière de sécurité sociale
+
+- Soins de santé dispensés à l’étranger
+
+- L’assurance pension
+
+- L’assurance accident
+
+- Les prestations familiales
+
+- L’assurance dépendance
+
+- Les indemnités de chômage
+
+- Législation applicable (lex loci laboris et détachement)
+
+- Le Code Européen de sécurité sociale du Conseil de l’Europe
+
+- Les conventions bilatérales de sécurité sociale souscrites par le Luxembourg
+
+Convention collective des salariés de l’État et des communes
+
+Le programme détaillé du cours « Convention collective des salariés de l’État et des communes » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Durée du travail
+
+- Rémunération
+
+- Frais, indemnités et allocations
+
+- Carrière
+
+- Jours fériés, congés et dispense de travail
+
+- Protection du salarié
+
+- Incapacité de travail
+
+- Fin de la relation de travail
+
+- Discipline
+
+- Délégation du personnel
+
+- Commission d’enquête
+
+- Commission d’arbitrage
+
+- Dispositions diverses
+
+- Dispositions transitoires
+
+- Dispositions finales
+
+Éléments de droit civil
+
+Le programme détaillé du cours « Éléments de droit civil » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Bref aperçu sur le droit civil
+
+- Biens
+
+- Propriété
+
+- Successions
+
+- Obligations
+
+- Contrats
+
+- Responsabilité
+
+- Mariage et Régimes matrimoniaux
+
+Éléments de droit constitutionnel
+
+Le programme détaillé du cours « Éléments de droit constitutionnel » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Définitions et caractères de la constitution luxembourgeoise
+
+- Rapide survol de l’histoire constitutionnelle
+
+- Vers une nouvelle constitution : la procédure de révision constitutionnelle (avec référendum décisionnel)
+
+- Les composantes de la puissance souveraine
+
+- Démocratie représentative et démocratie directe
+
+- La séparation des pouvoirs
+
+- Le statut du Grand-Duc
+
+- Les droits et libertés des citoyens
+
+Éléments de droit commercial
+
+Le programme détaillé du cours « Éléments de droit commercial » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Développer des connaissances de base en droit commercial
+
+- Le cours tente de présenter les règles élémentaires du droit commercial qui dérogent du droit privé commun par la présentation de la "vie" commerciale.
+
+- Sera présentée une définition de la notion de droit commercial ainsi que plusieurs règles spécifiques du droit commercial
+
+- Le cours présente, par l’accomplissement de plusieurs exercices pratiques, des règles spéciales auxquelles sont soumises les commerçants
+
+Introduction générale au droit
+
+Le programme détaillé du cours « Introduction générale au droit » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Développer des connaissances de base en droit
+
+- Le cours tente de définir la notion de droit, de donner un aperçu des diverses branches du droit public et du droit privé, de connaître les sources du droit luxembourgeois et de présenter les institutions judiciaires luxembourgeoises
+
+- Ces connaissances sont acquises par un mélange de transfert de connaissances passive et active, qui permet aux participants d’acquérir un premier aperçu des méthodes de travail juridique
+
+Éléments de droit du travail
+
+Le programme détaillé du cours « Éléments de droit du travail » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Le contrat de travail • La notion de contrat de travail • La conclusion du contrat de travail • La durée du contrat • La période d’essai • La résiliation du contrat de travail • Le contrat de travail à durée déterminée • La modification du contrat de travail • Obligations à l’issue du contrat de travail • L’action judiciaire en réparation de la résiliation abusive du contrat de travail • Le contrat de travail des élèves et étudiants
+
+- La protection contre le licenciement pendant la durée de certains congés
+
+- La protection contre le licenciement de la femme enceinte
+
+- Le travail à temps partiel
+
+- Les congés
+
+- Le reclassement de droit commun et dans la fonction publique
+
+Principes de réparation juridique du dommage corporel
+
+Le programme détaillé du cours « Principes de réparation juridique du dommage corporel » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Évaluation quantitative et détermination du taux d’incapacité selon les lois de la parémiologie
+
+- Descriptif des critères d’imputabilité de Simonien
+
+- Estimation et caractérisation du dommage corporel
+
+- Préjudices extra patrimoniaux
+
+- Présentation du barème accident
+
+- Notion de consolidation / guérison
+
+- Exemples pratiques
+
+Procédures et techniques législatives et réglementaires
+
+Le programme détaillé du cours « Procédures et techniques législatives et réglementaires » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Actes juridiques à caractère général
+
+  - Hiérarchie des normes
+
+  - Lois
+
+  - Actes réglementaires
+
+  - Traités internationaux
+
+  - Normes juridiques de l’Union européenne
+
+- Procédure législative et réglementaire
+
+  - Principales autorités intervenant dans la procédure
+
+  - Déroulement de la procédure législative
+
+  - Déroulement de la procédure réglementaire
+
+  - Publication des lois et règlements
+
+- Structure et rédaction des lois, règlements et arrêtés
+
+  - Intitulé
+
+  - Préambule
+
+  - Dispositif
+
+  - Contenu et structure du dispositif
+
+  - Rédaction des textes normatifs
+
+  - Dispositions répressives
+
+  - Recherche et constatation des infractions
+
+  - Voies et moyens de recours
+
+  - Dispositions modificatives
+
+  - Dispositions abrogatoires
+
+  - Dispositions transitoires
+
+  - Mise en vigueur
+
+  - Coordination et codification
+
+Techniques rédactionnelles des projets d’arrêtés
+
+Le programme détaillé du cours « Techniques rédactionnelles des projets d’arrêtés » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- L’introduction à la technique législative : son but, son origine, ses sources
+
+- Les règles de forme et de fond à respecter
+
+- Les modèles de projets d’arrêtés
+
+- Les écueils à éviter
+
+- La procédure de transmission des projets
+
+- L’expédition conforme et la publication des arrêtés
+
+Règles de la mise en jeu de la responsabilité civile de l’État
+
+Le programme détaillé du cours « Règles de la mise en jeu de la responsabilité civile de l’État » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Qui est responsable : l’État et/ou son agent ?
+
+- Quand l’État et/ou l’agent sont-ils responsables ?
+
+- Comment et devant qui une action en responsabilité civile doit-elle être introduite ?
+
+- Qui représente l’État en justice ?
+
+- Qui exécute les jugements ayant condamné l’État ?
+
+- Qui prend en charge les frais de justice ?
+
+Procédure administrative non contentieuse
+
+Le programme détaillé du cours « Procédure administrative non contentieuse » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Les principes de la procédure administrative non contentieuse
+
+- Respect des droits de la défense
+
+- Collaboration procédurale
+
+- Caractère contradictoire
+
+- Motivation
+
+- Organismes consultatifs
+
+Approche et accompagnement des victimes de la traite des êtres humains
+
+Le programme détaillé du cours « Approche et accompagnement des victimes de la traite des êtres humains » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Présentation
+
+- Le contexte européen
+
+- La diversité des parcours migratoires et de vie
+
+- Victimes
+
+- Les enjeux de la détection
+
+- L’identification
+
+- Coopération entre les acteurs / partenariats
+
+- Le milieu hospitalier
+
+- L’accompagnement / la prise en charge
+
+- Les outils de l’accompagnement
+
+Règlement extrajudiciaire des litiges de consommation
+
+Le programme détaillé du cours « Règlement extrajudiciaire des litiges de consommation » organisé sous forme de cours présentiel d’une durée de 18 heures est déterminé comme suit :
+
+- Le paysage de la médiation au Luxembourg
+
+  - Médiation : de quoi s’agit-il ?
+
+  - Intérêt de la médiation
+
+  - La compréhension du rôle du médiateur dans le domaine public et privé : similitudes et différences
+
+  - L’histoire législative de la médiation
+
+  - Les différents services de médiation au Grand-Duché de Luxembourg
+
+  - Devenir médiateur agréé
+
+- Le droit de la médiation au Luxembourg
+
+  - La loi relative à la médiation pénale du 6 mai 1999
+
+  - La loi instituant un « Médiateur » du 22 août 2003
+
+  - La loi sur la médiation civile et commerciale du 24 février 2012
+
+  - L’article 70 du nouveau code de procédure civile
+
+  - Le rôle du juge
+
+  - Le rôle de l’avocat
+
+  - Le rôle du médiateur et du conciliateur
+
+  - Les différences par rapport à la procédure judiciaire, l’arbitrage, la transaction, la conciliation en justice et la négociation
+
+- Le paysage du règlement extrajudiciaire des litiges de consommation au Luxembourg
+
+  - CSSF ; ILR ; Médiateur en assurances ; Commission luxembourgeoise des litiges de voyage ; Centre de Médiation Civile et Commerciale ; Chambre Immobilière
+
+- Le Code de la consommation
+
+  - Directive 2013/11/UE relative au règlement extrajudiciaire des litiges de consommation
+
+  - Règlement (UE) N° 524/2013 relatif au règlement en ligne des litiges de consommation
+
+  - Loi du 17 février 2016
+
+  - Définition du règlement extrajudiciaire des litiges de consommation
+
+  - Rôle du Service national du médiateur de la consommation
+
+  - Relations avec la médiation civile et commerciale réglée par le nouveau code de procédure civile
+
+  - Entité qualifiée / Critères à respecter par une entité pour être notifiée à la Commission européenne
+
+  - Règlement en ligne des litiges de consommation découlant de contrats conclus en ligne ( Règlement N° 524/2013 )
+
+  - Rôle du Centre européen des consommateurs
+
+- Les techniques de la médiation et de la conciliation comme outils pour le règlement de conflits entre un consommateur et un professionnel
+
+  - Les étapes de la médiation
+
+  - Les principes de la médiation
+
+  - La communication et ses règles
+
+  - Les trois étapes de la paraphrase
+
+  - L’expression verbale, para-verbale et non-verbale
+
+  - L’acceptation, empathie et congruence
+
+  - L’exercice d’empathie
+
+  - La proposition d’une solution
+
+- L’application des techniques de médiation dans le cadre de jeux de rôle
+
+Introduction au régime fiscal luxembourgeois : impôts sur le revenu des personnes physiques
+
+Le programme détaillé du cours « Introduction au régime fiscal luxembourgeois : impôts sur le revenu des personnes physiques. » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Introduction
+
+- Personnes soumises à l’impôt
+
+- L’imposition collective et l’imposition individuelle des conjoints et des partenaires
+
+- Les classes d’impôt
+
+- Le tarif de l’impôt et les crédits d’impôt
+
+- La détermination du revenu soumis à l’impôt
+
+- La perception de l’impôt
+
+Introduction au régime fiscal luxembourgeois : impôts indirects
+
+Le programme détaillé du cours « Introduction au régime fiscal luxembourgeois : impôts indirects » organisé sous forme de cours présentiel d’une durée de 18 heures est déterminé comme suit :
+
+- La succession légale et les principales dispositions fiscales en la matière.
+
+- Notions de base de la législation sur la TVA et explication du mécanisme du système de la TVA.
+
+- Aperçu général sur les accises.
+
+Droit de l’Union Européenne
+
+Le programme détaillé du cours « Droit de l’Union Européenne » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- La primauté du droit de l’Union européenne
+
+- L’effet direct
+
+- Les différentes sortes de compétences
+
+- Les actes législatifs
+
+- Les actes de mise en œuvre
+
+- Le recours en manquement
+
+- Les droits fondamentaux
+
+Droit de l’UE pour non-juristes
+
+Le programme détaillé du cours « Droit de l’UE pour non-juristes » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+À la fin du séminaire, les participants pourront :
+
+- Avoir une vision claire des obligations des États membres découlant des Traités européens tels qu’ils se présentent depuis le Traité de Lisbonne ;
+
+- Faire la différence entre une directive, un règlement et une décision et par conséquent comprendre les obligations qui en découlent pour les administrations publiques ;
+
+- Acquérir une connaissance de base des actes de nature réglementaire tels qu’ils se présentent depuis le Traité de Lisbonne, à savoir les actes délégués et les actes d’exécution ;
+
+- Connaître les principes de base qui régissent les relations entre l’UE et les États membres ;
+
+- Comprendre les conséquences pour les États membres et son administration publique en cas de non-conformité avec le droit de l’UE.
+
+III. Dans le domaine « Droits et devoirs des agents publics » :
+
+Traitements des fonctionnaires et indemnités des employés
+
+Le programme détaillé du cours « Traitements des fonctionnaires et indemnités des employés » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- La nouvelle structuration des carrières
+
+- Le nouveau système d’avancement
+
+- Les nouveaux principes régissant la fixation de la rémunération
+
+Frais de route et de séjour des fonctionnaires de l’État
+
+Le programme détaillé du cours « Frais de route et de séjour des fonctionnaires de l’État » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Règlementation sur les frais de route et de séjour des fonctionnaires et employés de l’État,
+
+- Barème des frais de séjour à l’étranger,
+
+- Application pratique à l’aide d’exemples de calcul : feuille de route / déclaration.
+
+Aperçu sur les pensions des fonctionnaires de l’État
+
+Le programme détaillé du cours « Aperçu sur les pensions des fonctionnaires de l’État » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Les principes de base des pensions des fonctionnaires de l’État
+
+- Les deux régimes de pension
+
+- Conditions de droit à la pension
+
+- Le traitement pensionnable
+
+- Le temps de service
+
+- La retraite progressive
+
+- Le lissage des carrières reclassées
+
+- Les pensions de survie
+
+- Les dispositions anti-cumul
+
+La médecine de contrôle dans la Fonction publique
+
+Le programme détaillé du cours « La médecine de contrôle dans la Fonction publique » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Législation sur la médecine de contrôle
+
+- Définition et mission de la médecine de contrôle
+
+- Différence entre médecine de travail et médecine de contrôle
+
+Sur base des attentes des participants, les points suivants seront intégrés au cours :
+
+- Harcèlement psychologique
+
+- Dépendance sur le lieu de travail
+
+- Stress
+
+Législation sur la santé au travail
+
+Le programme détaillé du cours « Législation sur la santé au travail » organisé sous forme de cours présentiel d’une durée de 3 heures est déterminé comme suit :
+
+- Textes législatifs en relation avec la santé au travail
+
+- Description du poste de travail et du poste à risque
+
+Non aux douleurs au travail : Agissez - bureau
+
+Le programme détaillé du cours « Non aux douleurs au travail : Agissez - bureau » organisé sous forme de cours présentiel d’une durée de 3 heures est déterminé comme suit :
+
+- Réalité ou fiction : Quel est le lien entre le stress chronique et des problèmes de dos ?
+
+- Une solution pour tous ? Comment éviter concrètement et individuellement le stress chronique ?
+
+- Nutrition-alimentation-digestion - Le plaisir est dans l’assiette.
+
+Work-Life-Balance : Lebensqualität und Arbeitseffizienz verbessern und erhalten
+
+Le programme détaillé du cours « Work-Life-Balance : Lebensqualität und Arbeitseffizienz verbessern und erhalten » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Arbeitsalltag und aktive Stressbewältigung
+
+- Droh- und Frohwerte erkennen und nutzen
+
+- Was ist überhaupt Burnout?
+
+- Präventiv gegen Burnout agieren
+
+- Wissen um Stress
+
+- Kurzfristige Stressbewältigungsstrategien
+
+- Langfristige Stressbewältigungsstrategien
+
+- Ein mehr an Lebensqualität
+
+- Das 1x1 im Umgang mit der Zeit
+
+- In Bewegung bleiben
+
+- Übungen zur Entspannung
+
+- Achtsamkeitstraining
+
+Les bases de l’ergonomie
+
+Le programme détaillé du cours « Les bases de l’ergonomie » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- L’anatomie du corps humain
+
+  - Les yeux
+
+  - La colonne vertébrale
+
+- La description du poste de travail
+
+  - Le bureau
+
+  - La chaise de bureau
+
+  - Les périphériques (clavier, souris)
+
+  - L’écran
+
+  - Le repose-pied
+
+- Les bonnes et les mauvaises postures
+
+  - L’assise dynamique
+
+- L’organisation du travail
+
+  - La position du bureau dans l’espace
+
+  - L’espace jambes
+
+- L’environnement physique
+
+  - L’ambiance lumineuse
+
+  - L’ambiance thermique
+
+- Les conseils divers
+
+Surcharge de travail, conflits, violence - d’ailleurs c’est quoi, les risques psychosociaux ? Comment les prévenir ?
+
+Le programme détaillé du cours « Surcharge de travail, conflits, violence - d’ailleurs c’est quoi, les risques psychosociaux ? Comment les prévenir ? » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Le terme de risque psychosociaux est très en vogue mais connaît-on la signification de ce terme ?
+
+- Quels sont les risques spécifiques pour les agents publics ?
+
+- Quelles sont nos obligations en tant qu’agents publics pour les prévenir ?
+
+- Quelles sont les suites de risques élevés ?
+
+Erste psychologische Hilfe
+
+Le programme détaillé du cours « Erste psychologische Hilfe » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Was ist eine Depression? Und was Burnout?
+
+- Suizid(-drohungen)
+
+- Angst : Normal oder krank?
+
+- Panikattacken
+
+- Abhängigkeit : Alkohol, Medikamente, Smartphone
+
+- Schizophrenie und Psychosen : Symptome, Behandlung und Prävention
+
+- Frühwarnzeichen erkennen und reagieren
+
+- Welche Worte nutze ich? Was kann schiefgehen?
+
+- Grenzen der Unterstützung am Arbeitsplatz
+
+- Panikattacken
+
+Rôle et missions du délégué à l’égalité dans la Fonction publique
+
+Le programme détaillé du cours « Rôle et missions du délégué à l’égalité dans la Fonction publique » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Sensibiliser aux différents concepts et aspects du genre
+
+- Présenter le cadre international, européen, national et communal de la politique de l’égalité entre femmes et hommes
+
+- Approfondir le contexte législatif national moyennant des exemples pratiques
+
+- Prise en compte du contexte de travail des participants et participantes
+
+- Exercices pratiques en matière de communication interne, de médiation de gestion de conflits
+
+Délégués à la formation - cours introductif
+
+Le programme détaillé du cours « Délégués à la formation - cours introductif » organisé sous forme de cours présentiel d’une durée de 3 heures est déterminé comme suit :
+
+- Le rôle du délégué à la formation
+
+  - Cadre légal et réglementaire
+
+  - Principales missions (au niveau de la formation pendant le stage et au niveau de la formation continue)
+
+  - Prérequis
+
+  - Les outils de travail
+
+  - Le réseau et le travail collaboratif
+
+- Le plan d’insertion professionnelle des stagiaires
+
+  - Le patron de stage
+
+  - Le livret d’accueil
+
+  - Le carnet de stage
+
+- L’ingénierie de formation
+
+  - Le plan de formation
+
+  - La conduite du plan de formation
+
+  - Le transfert des connaissances
+
+Les fondamentaux du métier d’assistant administratif
+
+Le programme détaillé du cours « Les fondamentaux du métier d’assistant administratif » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+Définition du rôle et des missions d’un secrétariat dans les administrations et services publics.
+
+- Savoir s’organiser sur son poste de travail
+
+  - Les tâches réactives et de fonds
+
+  - Le classement de ses tâches - la notion de priorité
+
+  - Remédier aux voleurs de temps
+
+  - Se fixer des objectifs
+
+  - Les outils du secrétariat
+
+- Le secrétariat au centre de la communication
+
+  - Mieux connaitre ses interlocuteurs pour s’adapter
+
+  - Identifier ses interlocuteurs, leurs préoccupations, le service attendu
+
+  - S’informer avec précision pour comprendre l’interlocuteur
+
+  - Développer son autonomie professionnelle
+
+- Classer ses documents vite et bien
+
+  - Les différentes méthodes de classement existantes : avantages - inconvénients
+
+  - Choisir la méthode la plus adaptée à son environnement professionnel
+
+  - Savoir quoi jeter, quoi archiver
+
+IV. Dans le domaine « Gestion publique » :
+
+Finances publiques
+
+Le programme détaillé du cours « Finances publiques » organisé sous forme de cours présentiel d’une durée de 18 heures est déterminé comme suit :
+
+Introduction aux finances publiques :
+
+- Le budget
+
+- Définition et principes budgétaires
+
+- Structure du budget et classifications
+
+- Élaboration et modification du budget
+
+- Les différentes catégories de crédit
+
+- L’exécution budgétaire
+
+- Les intervenants dans l’exécution budgétaire
+
+- La procédure budgétaire ordinaire de l’exécution budgétaire
+
+- Les procédures particulières de l’exécution du budget
+
+- Aspects de politiques budgétaires
+
+- Le respect du « Pacte de Stabilité et de Croissance »
+
+- Orientations récentes de la politique budgétaire
+
+- Trésorerie et réserves budgétaires
+
+Cycle de formation en gestion des ressources humaines – analyse des besoins
+
+Le programme détaillé du cours « Cycle de formation en gestion des ressources humaines – analyse des besoins » organisé sous forme de cours présentiel d’une durée de 3 heures est déterminé comme suit :
+
+Sur base des résultats du sondage, proposé par le CGPO et l’INAP, adressé aux gestionnaires des ressources humaines et aux chefs d’administration en décembre 2018, 3 ateliers sont proposés aux participants du sondage afin d’approfondir et de clarifier les besoins exprimés. Il s’agit également de définir les priorités à accorder au déploiement des différentes formations.
+
+Introduction au modèle et profils de compétences de la Fonction publique Luxembourgeoise
+
+Le programme détaillé du cours « Introduction au modèle et profils de compétences de la Fonction publique Luxembourgeoise » organisé sous forme de cours présentiel d’une durée de 3 heures est déterminé comme suit :
+
+Le MFP et le CGPO ont dans leurs objectifs la professionnalisation de la gestion des ressources humaines, notamment grâce à la conception et l’implémentation d’un référentiel des fonctions et d’un modèle de compétences pour toute la fonction publique luxembourgeoise. Les descriptions de fonction et les profils de compétences serviront de base pour la sélection des candidats ainsi que pour le développement professionnel, mais l’ambition à plus long terme est qu’ils puissent aussi être utilisés dans d’autres processus RH (ex. gestion prévisionnelle, mobilité, etc..). Sur le plan opérationnel, l’équipe projet "fonctions et compétences" est en train de travailler au recensement des descriptions de fonctions et à l’implémentation du modèle de compétences et des profils de compétences dans les administrations. Dans ce cadre, le principal challenge est que ces outils puissent être déployés et acceptés de manière généralisée à travers toute la Fonction publique; ce qui implique un travail important en matière de communication et de gestion du changement. Dans ce cadre l’équipe projet "fonctions et compétences" a conçu une formation introductive sur le modèle et les profils de compétences pour permettre aux dirigeants et GRH de l’ensemble des administrations de s’approprier l’outil et de voir son utilité dans le cycle de vie RH. En bref, cette formation a pour but de sensibiliser le public-cible à la plus-value du projet et de faciliter le plan d’implémentation dans les administrations.
+
+Formation à l’entretien structuré
+
+Le programme détaillé du cours « Formation à l’entretien structuré » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Généralités et types d’entretiens
+
+- Stéréotypes (biais) liés à l’évaluation
+
+- Qualités psychométriques et objectifs de l’entretien
+
+- Quelles compétences évaluer en entretien ? Application avec le dictionnaire de compétences de la Fonction publique luxembourgeoise.
+
+- Les différentes phases de l’entretien : préparation, introduction, éléments biographiques (CV), motivation, comportements, clôture.
+
+- Jeux de rôles avec la méthode STAR / BACK-UP sur base des descriptions de fonctions des participants (ou offres publiées sur GovJobs)
+
+- Évaluation de la prestation du candidat
+
+- Donner du feedback sur l’entretien
+
+Formation à l’entretien structuré - matinée de suivi
+
+Le programme détaillé du cours « Formation à l’entretien structuré - matinée de suivi » organisé sous forme de cours présentiel d’une durée de 3 heures est déterminé comme suit :
+
+- Intervision et retours d’expériences sur la pratique de l’entretien structuré.
+
+- Co-création autour de questions orientées compétences à utiliser en entretien.
+
+- Jeux de rôles avec la méthode STAR / BACK-UP sur base de cas amenés par les participants.
+
+- Évaluation de la prestation du candidat.
+
+Répondre à vos besoins en personnel grâce à 6 mesures de l’ADEM
+
+Le programme détaillé du cours « Répondre à vos besoins en personnel grâce à 6 mesures de l’ADEM » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Quelques informations sur le marché du travail luxembourgeois
+
+- Les opportunités et le rôle des employeurs du secteur public dans le cadre du contrat appui-emploi (CAE)
+
+- La mise à disposition de demandeurs d’emploi indemnisés auprès des administrations publiques et paraétatiques : l’occupation temporaire indemnisée (OTI)
+
+- L’emploi d’insertion (EMI) dans le cadre de la lutte contre le chômage de longue durée
+
+- Les travaux d’utilité publique (TUP)
+
+- Quelques mots sur le stage de professionnalisation (SP) et le contrat de réinsertion-emploi (CRE)
+
+Gestion des documents et des archives : initiation à l’archivistique
+
+Le programme détaillé du cours « Gestion des documents et des archives : initiation à l’archivistique » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Présentation des concepts fondamentaux des archives
+
+- Présentation des systèmes de classement des documents
+
+- Présentation des principes de description documentaire dans l’environnement papier et numérique
+
+- Présentation des principes de tri
+
+- Présentation des bonnes pratiques en matière de conservation et de stockage d’archives
+
+Gestion des documents et des archives : préparer un versement d’archives aux Archives nationales
+
+Le programme détaillé du cours « Gestion des documents et des archives : préparer un versement d’archives aux Archives nationales » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Connaitre la procédure de versement aux Archives Nationales
+
+- Identifier les dossiers d’archives à verser
+
+- Préparer physiquement les archives à verser
+
+- Rédiger un inventaire sommaire
+
+- Conditionner les archives dans des boites appropriées
+
+Lern - und Merktechniken (e-Learning)
+
+Le programme détaillé du cours « Lern - und Merktechniken (e-Learning) » organisé sous forme de cours en ligne d’une durée de 12 heures est déterminé comme suit :
+
+- Merkleistung verbessern
+
+- Mit Merkhilfen arbeiten
+
+- Lernprobleme vermeiden
+
+- Typgerecht lernen
+
+- Systematisch lernen
+
+Rationelles Lesen (e-learning)
+
+Le programme détaillé du cours « Rationelles Lesen (e-learning) » organisé sous forme de cours en ligne d’une durée de 12 heures est déterminé comme suit :
+
+Lesen ist für uns etwas selbstverständliches, schließlich brauchen wir diese Fähigkeit fast überall und sehr häufig. Immer mehr Informationen stürmen auf uns ein. Ob Schreiben, Zeitschriften, Memos, Berichte, Protokolle, Vorlagen für Besprechungen, Akten, ob E-Mails oder Internet-Seiten, es muss immer mehr Zeit für die Durchsicht von Texten erübrigt werden. Man bekommt immer mehr zu lesen und hat dazu immer weniger Zeit. Trotzdem will und muss man heute über das aktuelle Geschehen und aktuelle Entwicklungen informiert sein: eine Herausforderung, gerade weil sich das Informationskarussell immer schneller dreht. Viele Menschen könnten ihre Lesegeschwindigkeit deutlich erhöhen, ihr Textverständnis verbessern und dadurch viel Aufwand sparen. Dabei soll Ihnen dieser Kurs helfen.
+
+Parcours de Développement en Management - Niveau 1
+
+Le programme détaillé du cours « Parcours de Développement en Management - Niveau 1 » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+Initiation efficace, courte et pratique au management et les objectifs spécifiques sont :
+
+- Comprendre ce que c’est le management
+
+- Apprendre les notions des différentes écoles de management
+
+- Savoir faire une analyse de base d’une situation précise
+
+- Savoir développer une vision du futur (Vision/Future State)
+
+- Savoir développer un plan d’action / stratégie qui mène de l’état actuel vers la vision
+
+- Apprendre ce que c’est le management opérationnel et la gestion par objectifs dans la fonction publique luxembourgeoise
+
+Arbeitsorganisation für Führungskräfte (e-Learning)
+
+Le programme détaillé du cours « Arbeitsorganisation für Führungskräfte (e-Learning) » organisé sous forme de cours en ligne d’une durée de 12 heures est déterminé comme suit :
+
+Suche nach verlegten Unterlagen, verzögerte Fertigstellung von Aufträgen, falsche Prioritätensetzung, dies und noch mehr führen zu Zeit- und Reibungsverlusten am Arbeitsplatz, die unnötig sind. Eine gute Organisation der Arbeit hat deshalb das Ziel
+
+- Zeit zu sparen
+
+- Effektiver zu arbeiten
+
+- Erfolgreicher zu sein immer den Überblick zu haben zufriedener zu sein.
+
+In diesem Lernprogramm werden Ihnen erprobte Möglichkeiten aufgezeigt, Ihre persönliche Arbeitsorganisation zu verbessern, Prioritäten zu setzen und Aufgaben auf Ihre Zuständigkeit, Wichtigkeit und Dringlichkeit einerseits, auf die angemessene Form der Erledigung anderseits zu überprüfen.
+
+Themen :
+
+- Aufgaben strukturieren
+
+- Nein sagen lernen
+
+- Aufgaben delegieren
+
+- Aufgaben angehen
+
+- Arbeitsplatz gestalten
+
+- Informationsbeschaffung optimieren
+
+Konfliktmanagement (e-Learning)
+
+Le programme détaillé du cours « Konfliktmanagement (e-Learning) » organisé sous forme de cours en ligne d’une durée de 12 heures est déterminé comme suit :
+
+Konflikte sind normal. Konflikte gibt es (fast) überall. Deshalb kann es nicht Ziel sein, Konflikte grundsätzlich zu vermeiden. Wichtig hingegen ist es, mit Konflikten konstruktiv umgehen zu lernen. Denn ungelöste Konflikte können sich längerfristig sehr ungünstig auswirken, nicht nur auf die direkt Beteiligten, sondern auch auf das Umfeld, sei es nun parteiisch oder nicht. Das Problem an Konflikten sind die negativen Auswirkungen und Begleiterscheinungen, die sie haben können. Folgen, die es zu verhindern gilt. Dies wird nur gelingen, wenn man Konflikte ernstnimmt.
+
+Themen :
+
+- Konflikten vorbeugen
+
+- Konflikten auf den Grund gehen
+
+- Mit Konflikten umgehen
+
+- Konflikte lösen
+
+- Konfliktgespräche führen
+
+Motivation von Mitarbeitern (e-Learning)
+
+Le programme détaillé du cours « Motivation von Mitarbeitern (e-Learning) » organisé sous forme de cours en ligne d’une durée de 12 heures est déterminé comme suit :
+
+Mitarbeiter zu führen ist eine zentrale Aufgabe eines jeden Vorgesetzten, da eine ganze Reihe von Faktoren, besonders die Arbeitsergebnisse und das Betriebsklima, von guter Führung abhängen.
+
+Führung ist nicht nur eine Frage der Persönlichkeit, sondern eine Frage der richtigen Einstellung, Herangehensweise und Methodik im Umgang mit Mitarbeitern.
+
+Lernen Sie das Engagement und die Produktivität der Mitarbeiter nicht nur aufrechtzuerhalten, sondern auch zu steigern, lernen Sie durch eine gute Motivation und Förderung Ihrer Mitarbeiter die Arbeitsfreude und die Arbeitsergebnisse zu steigern.
+
+Themen :
+
+- Ziele vereinbaren
+
+- Mitarbeiter informieren
+
+- Arbeit organisieren
+
+- Mitarbeiter motivieren
+
+- Mitarbeiter fördern
+
+- Feedback geben und empfangen
+
+- Teams leiten
+
+- Mitarbeiter beurteilen
+
+Führungstechniken
+
+Le programme détaillé du cours « Führungstechniken » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Grundlagen der Führung und der Mitarbeitermotivation
+
+- Führungsverhalten und kommunikatives Verhalten als wechselseitige Einflussgrößen
+
+- Voraussetzung einer offenen Kommunikation
+
+- Konflikte und schwierige Situationen im Führungsalltag meistern
+
+- Förderung von Eigenverantwortung durch Delegation und Entscheidungskompetenz
+
+- Ziel-, prozess- und ergebnisorientierte Führung
+
+- Umgang mit eigenem Feedback
+
+- Fälle aus der Führungspraxis
+
+Teamentwicklung für Führungskräfte
+
+Le programme détaillé du cours « Teamentwicklung für Führungskräfte » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Grundsätze erfolgreicher Teamarbeit
+
+  - Eine Gruppe macht noch kein Team
+
+  - Was ist Teamarbeit ?
+
+  - Was macht Teams erfolgreich ?
+
+  - Woran scheitern viele ?
+
+- Teambildung
+
+  - Wie ein Team gebildet wird
+
+  - Teamrollen und ihre Bedeutung
+
+  - Definition der eigenen Rolle des Teamleiters
+
+  - Vorbereitung und Inhalte des Kick-off-Meetings
+
+  - Grundlagen der Moderation für den Teamleiter
+
+  - Grundsätze und Spielregeln im Team
+
+  - Feedback in Meetings
+
+  - Phasen der Teambildung
+
+- Der Teamleiter - eine Führungspersönlichkeit
+
+  - Kommunikation und Feedbackkultur
+
+  - Konflikt und Konfliktlösung im Team - Konfliktschlichtung
+
+  - Konstruktive und destruktive Lösungsstrategien
+
+  - Koordination von Interessen (ich-wir) und Aufgabe
+
+  - Was tun bei Mobbingverdacht?
+
+- Teamsteuerung
+
+  - Effektive Moderation und Gesprächsführung
+
+  - Spielregeln zur Problemlösung
+
+  - Motivation zur Problemlösung herstellen
+
+  - Entscheidungsspielregeln im Team (auch bei Gruppendruck und Gruppendenken)
+
+- Bei allem: Freude am gemeinsamen Arbeiten nicht vergessen
+
+  - auch eine Aufgabe des Teamleiters
+
+Ethik und Integrität
+
+Le programme détaillé du cours « Ethik und Integrität » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Einführung in die Thematik
+
+- Sensibilisierung der Teilnehmer anhand von Gruppenübungen 'Dilemmasituationen'
+
+- Ursachenforschung
+
+- Erste Gedanken zu einer Gesamtstrategie
+
+- Bildung, Etablierung und Aufgabenbereich einer Arbeitsgruppe
+
+- Indikatoren für nicht integres Verwaltungshandeln
+
+- Anbahnungsstrategien
+
+- Schwachstellenanalyse
+
+- Überblick über die rechtlichen Rahmenbedingungen (Zulässigkeit repressiver Maßnahmen im Dienstrecht, Arbeitsrecht, Strafrecht, präventive Maßnahmen und ihre Durchsetzung)
+
+- Vorstellung einer Dienstanweisung
+
+- Entwicklung einer Mustererklärung der Mitarbeiter (Verpflichtung zu integrem Verhalten)
+
+- Musterbriefe zur Ablehnung von Geschenken, Einladungen etc... als Arbeitshilfe für die Mitarbeiter
+
+- Führungskräfteverhalten als Baustein des Kampfes für Integrität
+
+- Ehrencodex, Ethik, Moral - Entwicklung von akzeptierten Mindeststandards, Ächtung von korruptivem Verhalten
+
+- Organisatorische Ansatzpunkte bei der Korruptionsbekämpfung (verwaltungsbezogener Ansatz)
+
+- Personenbezogener Ansatz bei der Korruptionsbekämpfung (Information, Aufklärung, Wachsamkeit, Offenheit, Transparenz, Rechtstreue, Nebentätigkeiten, Chancengleichheit, Akzeptanz von Gegenmaßnahmen)
+
+Teamentwicklung für Mitarbeiter
+
+Le programme détaillé du cours « Teamentwicklung für Mitarbeiter » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Grundlagen der Teamarbeit
+
+  - Zum Begriff Teamarbeit
+
+  - Wann ist Teamarbeit sinnvoll ?
+
+  - Spitzenleistung durch Teamarbeit
+
+  - Die Leistungsfähigkeit eines Teams
+
+  - Merkmale eines harmonischen und leistungsfähigen Teams
+
+  - Woran scheitern Teams ?
+
+- Leistungsfähige Teams zusammenstellen
+
+  - Der Prozess - die Phasen - die Rollen im Team
+
+  - Die optimale Teamgröße
+
+  - Das Individuum und seine Persönlichkeit
+
+  - Die Stärken der Teammitarbeiter nutzen
+
+- Teamorganisation und Führung im Team
+
+  - Selbstmotivation des Teamleiters
+
+  - Aktivierung der Teammitarbeiter durch Teamleiter
+
+  - Teams steuern
+
+  - Grundprinzipien der Zusammenarbeit und die Spielregeln für das Arbeiten im Team
+
+- Kommunikation und Feedbackkultur
+
+  - Mit Kritik richtig umgehen
+
+  - Teamsitzungen erfolgreich gestalten
+
+  - Konfliktpotentiale nutzen und zur Konfliktfähigkeit befähigen
+
+- Teamdiagnose
+
+Lösungsfokussierte Führung
+
+Le programme détaillé du cours « Lösungsfokussierte Führung » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Eigener Führungsstil und Reifegrad der Mitarbeiter
+
+- Ziele der lösungsfokussierten Führung
+
+- Grundlagen und Haltung in der lösungsfokussierten Führung
+
+- Konkretisierung des neuen Führungsverständnisses
+
+- Wie wirkt der neue Ansatz der Mitarbeiterführung aus Lösungsorientierte Sprache
+
+- Bedeutung von Wertschätzung in der Führung
+
+- Reflektionen, Gruppenarbeit, Fallarbeiten
+
+Gestion et résolution de conflits
+
+Le programme détaillé du cours « Gestion et résolution de conflits » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Définition du conflit
+
+- Sources du conflit
+
+- Comment éviter ou résoudre un conflit ?
+
+Gestion et conduite d’équipes
+
+Le programme détaillé du cours « Gestion et conduite d’équipes » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Le fonctionnement d’une équipe et les différents styles de comportement
+
+- Les styles de management et la notion de leadership
+
+- Les missions et les limites d’un responsable d’équipes
+
+- La communication inter-équipe et la notion d’assertivité
+
+- La gestion de conflits
+
+- Notions de change-management
+
+Travailler en équipe
+
+Le programme détaillé du cours « Travailler en équipe » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Le fonctionnement d’une équipe et les différents styles de comportement
+
+- La communication inter-équipe et la notion d’assertivité
+
+- La gestion de conflits
+
+Parcours de développement en management - Niveau 2
+
+Le « Parcours de développement en management - Niveau 2 » est organisé sous forme de cours présentiel d’une durée de 10 jours. Il est composé de 5 modules à 12 heures déterminés comme suit :
+
+- Module 1 : Anticiper : analyse, stratégie, gestion par objectifs et gestion de projets.
+
+- Module 2 : Changer : comment créer de la valeur par le changement et par l’innovation ?
+
+- Module 3 : Communiquer : comment communiquer professionnellement pour obtenir des résultats ?
+
+- Module 4 : Développer : l’intégration, le développement, les compétences, la motivation, et la fidélisation des collaborateurs.
+
+- Module 5 : Être : les valeurs et l’éthique managériales.
+
+Parcours de développement en management - Niveau 2 - Analyse, stratégies et objectifs
+
+Le programme détaillé du cours « Parcours de développement en management - Niveau 2 – Module 1 - Analyse, stratégies et objectifs » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Le cadre de référence stratégique
+
+- Comment faire une analyse SWOT ou CAF ?
+
+- Qu'est-ce qu’une vision ?
+
+- Comment faire un business case ?
+
+- Qu’est-ce que la GPO ?
+
+- Les avantages et les inconvénients d’une gestion par objectifs
+
+- Objectifs et compétences
+
+- L’alignement au programme de travail
+
+- Les objectifs SMART
+
+- Trouver un accord sur les objectifs avec son collaborateur
+
+- Comment fixer ses objectifs soi-même ?
+
+- De très nombreux exercices pratiques.
+
+Parcours de développement en management - Niveau 2 - Créer de la valeur par le changement et l’innovation
+
+Le programme détaillé du cours « Parcours de développement en management - Niveau 2 – Module 2 - Créer de la valeur par le changement et l’innovation » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Qu'est-ce que le changement ?
+
+- Quelles sont les causes du changement ?
+
+- Comment gérer la résistance ?
+
+- Le modèle de Porter
+
+- La notion de "burning platform"
+
+- Comment faire adhérer ses collaborateurs ?
+
+- La communication du changement
+
+- Innovation et "disruption" : le modèle de Christensen
+
+- Comment innover pour créer de la valeur ?
+
+- Comment innover en interne ?
+
+- Innover sans technologie : impensable ?
+
+- De très nombreux exercices pratiques.
+
+Parcours de développement en management - Niveau 2 - La communication en management
+
+Le programme détaillé du cours « Parcours de développement en management - Niveau 2 – Module 3 - La communication en management » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Qu’est-ce que la communication en management ?
+
+- Le modèle Shannon-Weaver
+
+- Les moments-clé : préparation physique et mentale
+
+- Le message : essence et formulation
+
+- La forme : assertivité et style
+
+- Les scénarios de communication : informer, expliquer, représenter, convaincre
+
+- L’information express : capacité de synthèse
+
+- Comment expliquer de façon simple des choses compliquées ?
+
+- Image de soi, image projetée et représentation
+
+- Techniques pour convaincre
+
+- Comment parler de façon mémorable ?
+
+Parcours de développement en management - Niveau 2 - Développement du capital humain
+
+Le programme détaillé du cours « Parcours de développement en management - Niveau 2 – Module 4 - Développement du capital humain » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Le vrai rôle d’un "people manager"
+
+- Comment créer de la valeur publique grâce à ses collaborateurs ?
+
+- Comment attirer les bons candidats ?
+
+- Comment intégrer les nouveaux collaborateurs ?
+
+- Le management par "command & control"
+
+- Les réflexes de délégation et d’empowerment
+
+- Le coaching : "hype" et réalité
+
+- Les techniques de motivation : science et pratique
+
+- Le feedback : un rouage essentiel
+
+- Les entretiens d’appréciation
+
+- Les compétences : cartographie et référentiel
+
+- De très nombreux exercices pratiques.
+
+Parcours de développement en management - Niveau 2 - Valeurs et éthique managériale
+
+Le programme détaillé du cours « Parcours de développement en management - Niveau 2 – Module 5 - Valeurs et éthique managériale » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- A quoi servent les valeurs dans une organisation ?
+
+- Conception de valeurs : un exercice dans une tour d’ivoire ?
+
+- Comment créer des valeurs adaptées à votre Administration ?
+
+- Processus top down ou collaboratif ?
+
+- Comment vendre les valeurs aux collaborateurs ?
+
+- Comment vivre les valeurs au quotidien ?
+
+- L’exemplarité du manager
+
+- L’image du manager
+
+- Les comportements exemplaires et les no-go’s
+
+- Les cadres règlementaires : organigrammes, descriptions de postes des managers
+
+- Rappel de la notion de service public
+
+Organisation du travail
+
+Le programme détaillé du cours « Organisation du travail » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Utiliser les principes d’efficacité personnelle au travail
+
+- Définir ses objectifs personnels et sa vision
+
+- Comprendre à quels moments on est le plus efficace
+
+- Prendre des initiatives et devenir proactif
+
+- Mieux prioriser ses missions
+
+- Définir son plan d’action quotidien et tirer profit de bilans réguliers
+
+- S’organiser grâce à des techniques efficaces ("personal KANBAN")
+
+- Mieux gérer son temps au quotidien
+
+- Mieux gérer les flux d’informations auxquels on doit faire face (p.ex. les mails)
+
+- Définir son style de leadership individuel et de management personnel
+
+- Oser dire "Non" pour son bien-être et celui de son équipe
+
+- Mieux écouter et se faire comprendre grâce à l’empathie et l’écoute active
+
+- Déléguer de façon responsable et communiquer clairement ses objectifs
+
+- Gérer ses émotions dans des situations stressantes
+
+- Gérer la procrastination et repartir du bon pied
+
+- Se libérer du temps pour devenir créatif
+
+Gérer son stress, ses émotions et mieux vivre son travail
+
+Le programme détaillé du cours « Gérer son stress, ses émotions et mieux vivre son travail » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Comprendre les différents niveaux de stress,
+
+- Prendre conscience de vos principales sources et facteurs de stress,
+
+- Être à l’écoute de soi, faire un diagnostic personnel et repérer vos signaux d’alerte,
+
+- Comprendre vos différentes émotions, leurs impacts et mieux les maîtriser,
+
+- Ne pas communiquer votre stress aux personnes qui vous entourent,
+
+- Vous approprier les principales techniques de gestion du stress,
+
+- Devenir plus résistant au stress et développer votre intelligence émotionnelle,
+
+- Transformer votre stress en énergie positive,
+
+- Savoir dire non sans agression et développer votre assertivité,
+
+- Relativiser, lâcher prise, accepter l’échec et mieux profiter du succès,
+
+- Vous libérer des pièges "Dépêche-toi, Fais l’effort, Fais plaisir, Sois fort, Sois parfait",
+
+- Vous préparer aux situations difficiles avec la projection mentale,
+
+- Mieux gérer les personnes toxiques qui vous entourent,
+
+- Découvrir des techniques issues de la psychologie positive, de la méditation et de la sophrologie pour être zen et heureux,
+
+- Apprendre à vous relaxer physiquement,
+
+- Réduire votre stress en donnant du sens à votre travail et votre vie,
+
+- Définir un plan d’action personnalisé pour mieux vivre votre quotidien,
+
+- Trouver des solutions personnalisées à votre situation,
+
+- Être un vecteur de bonheur au travail.
+
+Zeit- und Stressmanagement für Vorgesetzte und Mitarbeiter
+
+Le programme détaillé du cours « Zeit- und Stressmanagement für Vorgesetzte und Mitarbeiter » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Kognitives Stressmanagement:
+
+  - Stress: Entstehung und Auswirkung auf die Gesundheit
+
+  - Meine Stressoren erkennen
+
+  - Stressfaktoren gezielt minimieren
+
+  - Raus aus dem Hamster-Rad
+
+  - Kognitive Umstrukturierung
+
+  - Gelassenheit durch Achtsamkeit entwickeln
+
+  - Mehr Spaß und Motivation im Job
+
+  - Ressourcenaktivierung durch Stress-Abbau: im Flow sein
+
+  - Bewußtes Entspannen
+
+  - Meine eigene Anti-Stress Strategie entwickeln
+
+- Aktives Zeitmanagement:
+
+  - Qualität statt Perfektionismus pur: Die Pareto-Regel
+
+  - Prioritäten richtig setzen (Eisenhower Prinzip)
+
+  - Zeitfresser entlarven
+
+  - Ziele richtig formulieren (SMART)
+
+  - Erfolgreich NEIN-Sagen
+
+  - Zeitsouveränität durch gute Zeitplanung
+
+  - Störungen reduzieren
+
+  - "Zeit für mich" einplanen
+
+  - Work-Life Balance erschaffen
+
+- Methoden:
+
+  - Einführung in verschiedene Entspannungsmethoden
+
+  - Achtsamkeit/Positive Psychologie/Neuro-Linguistisches Programmieren
+
+  - Selbstreflexionen
+
+  - Gruppenübungen
+
+  - Erfahrungsaustausch
+
+Développer sa mémoire
+
+Le programme détaillé du cours « Développer sa mémoire » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+Identification de son type de mémoire, comment mieux l’utiliser.
+
+- Obtenir :
+
+  - Une meilleure concentration
+
+  - Des associations efficaces
+
+  - La sélection des idées maîtresses
+
+- Améliorer ses capacités de structuration
+
+- Comment synthétiser des textes, dossiers avec la carte mentale
+
+- Connaître les 3 étapes fondamentales pour mémoriser à long terme
+
+- Mémoriser les noms de personnes
+
+- Mémoriser des chiffres
+
+- Mieux utiliser les deux hémisphères cérébraux
+
+Lecture rapide et efficace
+
+Le programme détaillé du cours « Lecture rapide et efficace » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Évaluation de la capacité de lecture
+
+- La stratégie de "lecture intégrale rapide" : apport théorique
+
+- Exercices de développement du champ de fixation
+
+- Exercices de lutte contre la subvocalisation (prononciation mentale du texte qui ralentit la lecture) et les retours en arrière
+
+- Amélioration de la concentration
+
+- Tests mesurant la progression
+
+- Techniques pour améliorer la compréhension du texte
+
+- La technique du survol
+
+- Exercices d’application et de contrôle
+
+- La stratégie de la lecture sélective : comment sélectionner l’information importante d’un texte sans devoir tout lire
+
+- Recherche des mots signaux et des phrases clés
+
+- Exercices d’évaluation de la vitesse
+
+Prise de notes et comptes rendus
+
+Le programme détaillé du cours « Prise de notes et comptes rendus » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Prise de notes et communication
+
+  - Le schéma de la prise de notes
+
+  - L’écoute active
+
+  - Attention et concentration
+
+- Se préparer à une réunion
+
+  - La mission du rapporteur
+
+  - Se préparer matériellement et intellectuellement
+
+- Acquérir une méthode de prise de notes
+
+  - Les différentes techniques de prise de notes manuscrites
+
+  - Choix des méthodes manuscrites en fonction du contexte
+
+  - Distinguer l’essentiel
+
+  - Les signes et les abréviations
+
+- Rédiger et présenter le compte rendu
+
+  - Définition et règles de présentation
+
+  - Les 5 rôles du compte-rendu
+
+  - Les règles de lisibilité
+
+- Élaboration d’un plan d’action individuel
+
+Arbeitsorganisation für Führungskräfte
+
+Le programme détaillé du cours « Arbeitsorganisation für Führungskräfte » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- L’environnement de travail et l’ergonomie
+
+- La situation organisationnelle actuelle
+
+  - Les obstacles et atouts externes
+
+  - Les points forts et faibles personnels
+
+- La planification à court terme
+
+  - Le bureau
+
+  - L’échéancier
+
+  - L’agenda
+
+  - Le carnet de bord
+
+- La planification à long terme
+
+  - Fixer des objectifs
+
+  - Réaliser des objectifs
+
+  - Le management par objectifs
+
+- Organisation et gestion du temps
+
+  - Le principe de Pareto et le principe d’Eisenhower : se focaliser sur les choses importantes
+
+  - La planification : planifier ses projets et superviser les projets de ses collaborateurs
+
+  - Les réunions : mener des réunions efficaces et faire un suivi systématique
+
+  - La délégation : une gestion efficiente de ses ressources
+
+- Organisation et maîtrise du stress
+
+  - Les sources et effets du stress
+
+  - La maîtrise du stress
+
+Mieux convaincre et mieux persuader
+
+Le programme détaillé du cours « Mieux convaincre et mieux persuader » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Comprendre les notions de persuasion, d’influence et de manipulation
+
+- Déceler les situations d’influence
+
+- Identifier les biais cognitifs / erreurs de jugement qu’on commet pour mieux les anticiper
+
+- Transformer ses faiblesses en armes de persuasion
+
+- Mieux capter l’attention de son entourage
+
+- Communiquer (oral et écrit) de manière plus efficace et mieux faire passer ses idées
+
+- Faire émerger l’âme de leader qui est en vous
+
+- Comprendre les interactions au sein d’une équipe pour une meilleure gestion
+
+- Identifier les leviers comportementaux, motivationnels et les freins aux changements
+
+- Mettre en place les bons déclencheurs ("triggers") et nuages ("coups de pouce") pour obtenir les comportements souhaités
+
+- Développer des approches persuasives pour changer durablement les comportements
+
+Arbeitsorganisation für Vorgesetzte und Mitarbeiter
+
+Le programme détaillé du cours « Arbeitsorganisation für Vorgesetzte und Mitarbeiter » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Wozu dient Arbeitsorganisation und was leistet sie?
+
+- Arbeitsorganisation durch Arbeitsplanung
+
+- Ziele definieren
+
+- Aufgaben-Hierarchie ermitteln
+
+- Abgleich mit den Ressourcen
+
+- Arbeitsschritte festlegen
+
+- Verlaufs- und Erfolgskontrolle
+
+- Analyse zur Optimierung von Neuplanung
+
+- Vermeidung von Stressbelastungen durch Arbeitsorganisation
+
+- Arbeitsorganisation in der Planung und Durchführung von Besprechungen
+
+- Mindmapping als strukturierendes Element in der Arbeitsorganisation
+
+- Die Vorzüge einer moderierten Ergebnisfindung
+
+- Eine gute Gesprächskultur als Basis effektiver Arbeitsorganisation im Team
+
+- Selbstorganisation als Voraussetzung einer guten Arbeitsorganisation
+
+Règles et méthodes pour produire un écrit efficace
+
+Le programme détaillé du cours « Règles et méthodes pour produire un écrit efficace » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Les différents types d’écrits professionnels :
+
+  - Les courriers (information, réclamation, invitation, annulation…)
+
+  - Les comptes rendus
+
+  - Les rapports
+
+  - Les autres types d’écrits (procès-verbaux, notes de service, mails…)
+
+- Rappels sur les techniques de base de l’expression écrite et règles de typographie :
+
+  - La mise en page d’un courrier
+
+  - L’organisation de la phrase - Alléger ses phrases - Le choix du vocabulaire
+
+  - Utiliser la ponctuation à bon escient
+
+  - Utiliser les bonnes formules de politesse – Utiliser des formules types
+
+  - Les techniques de valorisation du texte
+
+- Organiser et développer ses idées :
+
+  - Écrire pour être compris
+
+  - Traduire ses idées et connaissances en langage clair
+
+  - Connaître les langages familiers, neutre, formel
+
+  - Choisir le mot juste
+
+  - Construire un plan efficace et pertinent
+
+- La révision du texte :
+
+  - La relecture d’un texte
+
+  - Corriger les fautes de grammaire et d’orthographe
+
+La médiation dans l’accueil des citoyens
+
+Le programme détaillé du cours « La médiation dans l’accueil des citoyens » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Le paysage de la médiation au Grand-Duché de Luxembourg :
+
+  - Médiation – de quoi s’agit-il ?
+
+  - Intérêt de la médiation
+
+  - La compréhension du rôle du médiateur dans le domaine public et privé - similitudes et différences
+
+  - Les différents services de médiation au Grand-Duché de Luxembourg
+
+- Les fondements de la médiation : le droit de la médiation civile et commerciale
+
+  - Abrégé des bases légales
+
+  - Les différences par rapport à la procédure judiciaire, l’arbitrage, la transaction, la conciliation et la négociation
+
+- La technique de la médiation comme outil pour la vie professionnelle journalière
+
+  - Les étapes de la médiation
+
+  - Les principes de la médiation
+
+  - La communication et ses règles
+
+  - Les trois étapes de la paraphrase
+
+  - L’expression verbale, para-verbale et non-verbale
+
+  - L’acceptation, empathie et congruence
+
+  - L’exercice d’empathie
+
+- L’application des techniques de médiation dans la pratique :
+
+  - Accueil des citoyens
+
+  - Gestion de plaintes
+
+  - Gestion de stress
+
+  - Citoyens mécontents
+
+  - Se faire comprendre
+
+Motivation am Arbeitsplatz
+
+Le programme détaillé du cours « Motivation am Arbeitsplatz » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Wirtschaftliches Umfeld der öffentlichen Arbeitgeber
+
+- Anpassen und Akzeptieren innerbetrieblicher Veränderungen
+
+- Vereinbarung zwischen Privat- und Berufsleben
+
+- Aufstellen und Einschätzung von persönlichen und beruflichen Zielvorgaben
+
+- Analyse seiner eigenen Einschätzungen, Widerstände bezüglich Änderungen und Unsicherheiten
+
+- Ermittlung seiner eigenen Wertvorstellungen und Motivationsfaktoren
+
+- Bestandsaufnahme seines sozialen, familiären und freundschaftlichen Umfeldes und Aktionen, um diese zu verstärken
+
+- Erkennen seiner Bedürfnisse, Erwartungen, Wünsche und Schwierigkeiten im Berufsleben
+
+- Seine persönlichen, privaten und professionellen Grenzen besser steuern
+
+- Seine persönliche Mittel erkennen um Abstand zu gewinnen, mit Stress und Frustrationen besser umzugehen und um seine Gesundheit in den Griff zu nehmen
+
+- Wichtigkeit der Anerkennung der geleisteten Arbeit
+
+Analyse du langage corporel
+
+Le programme détaillé du cours « Analyse du langage corporel » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Décoder les comportements et les gestes
+
+- Comprendre les différentes émotions et savoir les identifier
+
+- Découvrir les principales micro-expressions
+
+- Comprendre quand les gens trichent et vous manipulent
+
+- Comprendre et décoder les attitudes de vos interlocuteurs, leurs motivations
+
+- Cerner les intentions de vos interlocuteurs sur base de ce que leurs corps vous dévoilent
+
+- Acquérir les techniques de communication non verbale pour mieux convaincre
+
+- Comprendre vos différentes émotions, leurs impacts et mieux les maîtriser
+
+- Supprimer tous les gestes qui perturbent votre communication
+
+- Comprendre les gestes qui parlent à votre place
+
+- Comprendre les gestes qui vous trahissent
+
+- Maîtriser l’intelligence émotionnelle et non verbale
+
+La médiation dans l’accueil des citoyens - follow up
+
+Le programme détaillé du cours « La médiation dans l’accueil des citoyens - follow up » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Approfondir les connaissances acquises
+
+- Cas pratiques et jeux de rôles
+
+- Outils et techniques de la médiation appliquée au travail d’accueil du public
+
+Erfolgreiches Führen mit Selbst- und Zeitmanagement
+
+Le programme détaillé du cours « Erfolgreiches Führen mit Selbst- und Zeitmanagement » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Grundlagen Selbstmanagement
+
+  - Einfluss von Werten und Bedürfnissen auf Ihre Arbeit
+
+  - Individuelle Bedeutung der Zeit
+
+  - Analyse Ihres eigenen Arbeits- und Planungsstils
+
+  - Zeitplanung und Ihre Grenzen
+
+  - Anforderungen an Ihre Zeit erarbeiten
+
+- Informations- und Aufgabenmanagement
+
+  - Aufgabenselektion, -priorisierung und -spezifizierung
+
+  - Bedeutung von Zielsetzungen und Entscheidungen
+
+  - Delegationsprinzipien erkennen und anwenden
+
+  - Selbstdisziplin üben und konsequent bleiben
+
+  - Die Führungskraft als Vorbild für Ihre Mitarbeiter
+
+  - Widerstände überwinden; qualitative Zeit für Mitarbeiter
+
+- Arbeitsmethoden erlernen und Führungsstil anwenden
+
+  - Planung und Prioritätensetzung
+
+  - Tagesablauf effizient erledigen (Zeitdiebe erkennen, ALPEN - Methode anwenden, Leistungs-/Störkurven erarbeiten, Umgang mit Störungen, Unterbrechungen, Informationsflut …)
+
+  - "Werkzeuge" zum erfolgreichen Managen des eigenen Arbeitsplatzes; Führungsstil/-weise integrieren
+
+  - Einblick in individuelle Stressoren und der souveräne Umgang mit Stress
+
+Konflikte mit Kollegen lösen
+
+Le programme détaillé du cours « Konflikte mit Kollegen lösen » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Konfliktentstehung und Prävention
+
+- Konfliktarten
+
+- Strategie-Konzepte gegen die Konflikteskalation
+
+- Dreischritt der Konfliktlösung
+
+- Eine Sache der Wahrnehmung
+
+- Strategien der Bewältigung kennen und anwenden
+
+- Weg von Problemen, hin zu Lösungen
+
+- Angemessen handeln und reagieren
+
+- Gewaltfreie Kommunikation
+
+- Das Konfliktgespräch, eine besondere Herausforderung
+
+- Was sage ich ...?
+
+Initiation à la Gestion de Projet - Fondamentaux, Outils, Planification
+
+Le programme détaillé du cours « Initiation à la Gestion de Projet - Fondamentaux, Outils, Planification » organisé sous forme de cours présentiel d’une durée de 3 heures est déterminé comme suit :
+
+- Programme, portfolio, bureau de projets (Project Management Office)
+
+- Le cycle de vie du projet, Agilité, Offre
+
+- Parties prenantes du projet, l’équipe projet, le contrat d’engagement
+
+- Influences organisationnelles
+
+- Modèle de maturité
+
+- Les facteurs de succès d’un projet
+
+- Les pièges à éviter en management de projet
+
+- Rôle du chef de projet et principales activités
+
+- Compétences interpersonnelles
+
+Introduction à la Gestion de la Qualité
+
+Le programme détaillé du cours « Introduction à la Gestion de la Qualité » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Introduction et définitions
+
+- Historique et évolution du concept Qualité
+
+- Les enjeux de la qualité
+
+- Le contrôle qualité
+
+- L’assurance qualité
+
+- Le management de la qualité
+
+- Qualité et Processus
+
+- La qualité dans les projets
+
+- La qualité dans les projets informatiques
+
+- Outil de management de la qualité
+
+- Normes et standards
+
+- Méthodes
+
+- Outils
+
+Gérez le changement et amenez les gens à adhérer à votre projet
+
+Le programme détaillé du cours « Gérez le changement et amenez les gens à adhérer à votre projet » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Comprendre le changement :
+
+  - Qu’est-ce qu’un changement ?
+
+  - Pourquoi est-il important de gérer le changement ?
+
+  - Faire un diagnostic ciblé
+
+  - Définir un plan d’attaque
+
+  - Maîtriser la courbe et différentes phases du changement
+
+  - Intégrer les chiffres clés en matière de changement
+
+- Acquérir les compétences essentielles du gestionnaire du changement :
+
+  - Pratiquer l’écoute active et faire preuve d’empathie
+
+  - Cerner les personnalités de vos collaborateurs
+
+  - Comprendre les attentes et motiver
+
+  - Adapter votre communication
+
+  - Devenir un leader en matière de changement
+
+  - Adapter votre style de management
+
+- Gérer les situations de résistance :
+
+  - Comprendre les types de résistance
+
+  - Gérer les conflits et les personnalités difficiles
+
+  - Comprendre les émotions liées au changement
+
+  - Maîtriser la psychologie de l’acceptation et du changement
+
+- Utiliser les mécanismes de persuasion pour mieux changer :
+
+  - Comprendre les interactions et les situations d’influence au sein d’un groupe
+
+  - Identifier les mécanismes de défense individuels pour mieux les maîtriser
+
+  - Inciter les gens à faire des choses qu’ils n’auraient pas faits naturellement
+
+  - Mettre en place les bons déclencheurs ("triggers") et nuages ("coups de pouce") pour obtenir les comportements souhaités
+
+  - Identifier les freins au changement et favoriser l’adhésion
+
+  - Développer des approches persuasives pour les gens à adhérer
+
+  - Développer des approches persuasives
+
+- Découvrir les principaux outils à votre disposition en tant que gestionnaire du changement.
+
+- Mettre en place un plan de communication et de formation dans votre projet.
+
+- Piloter le changement : définir les indicateurs de suivi pour s’assurer de l’efficacité du changement.
+
+Vorsicht Vorteil! - Aktive Korruptionsprävention in der öffentlichen Verwaltung
+
+Le programme détaillé du cours « Vorsicht Vorteil! - Aktive Korruptionsprävention in der öffentlichen Verwaltung » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Einführung in die Thematik
+
+- Sensibilisierung der Teilnehmer anhand von Gruppenübungen 'Dilemmasituationen'
+
+- Ursachenforschung
+
+- Erste Gedanken zu einer Gesamtstrategie
+
+- Bildung, Etablierung und Aufgabenbereich einer Arbeitsgruppe
+
+- Indikatoren für nicht integres Verwaltungshandeln
+
+- Anbahnungsstrategien
+
+- Schwachstellenanalyse
+
+- Überblick über die rechtlichen Rahmenbedingungen (Zulässigkeit repressiver Maßnahmen im Dienstrecht, Arbeitsrecht, Strafrecht, präventive Maßnahmen und ihre Durchsetzung)
+
+- Vorstellung einer Dienstanweisung
+
+- Entwicklung einer Mustererklärung der Mitarbeiter (Verpflichtung zu integrem Verhalten)
+
+- Musterbriefe zur Ablehnung von Geschenken, Einladungen etc... als Arbeitshilfe für die Mitarbeiter
+
+- Führungskräfteverhalten als Baustein des Kampfes für Integrität
+
+- Ehrencodex, Ethik, Moral - Entwicklung von akzeptierten Mindeststandards, Ächtung von korruptivem Verhalten
+
+- Organisatorische Ansatzpunkte bei der Korruptionsbekämpfung (verwaltungsbezogener Ansatz)
+
+- Personenbezogener Ansatz bei der Korruptionsbekämpfung (Information, Aufklärung, Wachsamkeit, Offenheit, Transparenz, Rechtstreue, Nebentätigkeiten, Chancengleichheit, Akzeptanz von Gegenmaßnahmen)
+
+Phénomène de la corruption - lutte contre la corruption
+
+Le programme détaillé du cours « Phénomène de la corruption - lutte contre la corruption » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Phénomène de la corruption
+
+- Organes de lutte contre la corruption
+
+- Instruments juridiques internationaux
+
+- Instruments juridiques nationaux ( code pénal ) et leurs mises en œuvre
+
+- Infractions 'voisines'
+
+- Corruption et statut du fonctionnaire
+
+Organiser ses idées avec les cartes mentales : le mind mapping
+
+Le programme détaillé du cours « Organiser ses idées avec les cartes mentales : le mind mapping » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Qu’est-ce que le mind mapping ?
+
+- Communiquer autrement : tracer, dessiner, imager
+
+- Réaliser des cartes efficaces pour :
+
+  - Structurer une intervention et prendre la parole
+
+  - Organiser et animer une réunion
+
+  - Prendre des décisions
+
+  - Développer un projet en équipe
+
+  - Mémoriser sans effort
+
+- Optimiser la collecte, la synthèse et la transmission d’idées
+
+- Construire un plan d’actions
+
+Développement de l’organisation
+
+Le programme détaillé du cours « Développement de l’organisation » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Le développement de l’organisation via la prise de conscience de la dimension culturelle et la prise en compte de nouvelles formes de leadership.
+
+- Le développement de l’organisation via la mise en place d’une stratégie et d’une gestion basée sur les résultats.
+
+- Le développement de l’organisation via l’identification et la gestion des besoins et attentes des parties prenantes (partie 1 : les citoyens-usagers / partie 2 : le personnel).
+
+Gestion de la documentation
+
+Le programme détaillé du cours « Gestion de la documentation » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Comment optimiser ses recherches sur le web
+
+  - Bien définir une recherche (contexte et mots-clés)
+
+  - Principes de fonctionnement des moteurs de recherches
+
+  - Utiliser les opérateurs de recherche (booléens, spéciaux)
+
+  - Rechercher une source multimédia
+
+  - Retrouver de l’information sur les réseaux sociaux
+
+  - Gérer les résultats de sa recherche (bookmarking, outils de bibliographie)
+
+  - Rester informé et organiser sa veille (Flux RSS, agrégateurs)
+
+- Comment trouver des livres disponibles en bibliothèques Recherche sur les plateformes nationales : Recherche sur les plateformes internationales :
+
+  - A-Z.lu
+
+  - Portail des Archives nationales
+
+  - Portail du CNL
+
+  - findit.lu (accès à différentes bases de données)
+
+  - ebooks.lu
+
+  - eluxemburgensia.lu
+
+  - orbi.lu
+
+  - Introduction au prêt interbibliothèques
+
+  - Catalogue KVK
+
+  - catalogue Worldcat
+
+  - Europeana
+
+  - Gallica
+
+- Comment rechercher de l’information juridique (législation, jurisprudence et Sites luxembourgeois) :
+
+  - Legilux – Journal Officiel du Grand-Duché de Luxembourg
+
+  - Chambre des Députés du Grand-Duché de Luxembourg
+
+  - Justice // Grand-Duché de Luxembourg
+
+  - Leris - Letzeburger Rechts Informations System
+
+- Sites européens juridiques :
+
+  - Eur-Lex – l’accès au droit de l’Union européenne
+
+  - L’œil, l’observatoire législative du Parlement européen
+
+  - Curia - Cour de justice de l’Union européenne
+
+  - Site de la Commission européenne
+
+- Outils :
+
+  - Guides de rédaction des références juridiques
+
+  - Listing des sites utiles (Luxembourg, et EU)
+
+Réaliser un tableau de tri des archives
+
+Le programme détaillé du cours « Réaliser un tableau de tri des archives » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Principes de l’évaluation et du tri des archives
+
+- Méthodologie pour la mise en place d’un projet d’élaboration d’un tableau de tri
+
+- Évaluer la Durée d’Utilité Administrative des documents (DUA) et déterminer leur sort final
+
+- Rédiger un tableau de tri
+
+- Du tableau de tri au tableau de gestion : développement des informartions de base du tableau de tri (Identification des séries documentaires, DUA, sort final) vers des informations de gestion plus complètes des documents (choix des supports de conservation, des responsables de la conservation, des lieux / espaces de stockage, des services producteurs etc.)
+
+- Le déploiement
+
+Business Process Management : formation à la modélisation et à Prometa
+
+Le programme détaillé du cours « Réaliser un tableau de tri des archives » organisé sous forme de cours présentiel est déterminé comme suit :
+
+- Introduction au Business Process Management
+
+  - Démarche BPM - Cycle de vie
+
+  - La modélisation des processus et objectifs de la modélisation
+
+- BPM ou la gestion de processus au sein de l’administration - Démarche et méthodologie PROMETA
+
+- Modélisation dans l’environnement Prometa
+
+  - Exercices pratiques de modélisation
+
+- Conventions de modélisation Prometa V5
+
+  - Étude de cas
+
+- Rédaction des cahiers des charges fonctionnel et technique – Prometa Spec.
+
+  - Framework de modelisation Prometa Spec.
+
+  - Analyse de cas, modélisation et résolution
+
+- Communication et publication des processus
+
+- Portfolio applicatifs PROMETA
+
+- Formation BPM pour les chefs d’aministrations
+
+Élaboration du budget de l’État : l’application BAF de l’Inspection Générale des Finances
+
+Le programme détaillé du cours « Élaboration du budget de l’État : l’application BAF de l’Inspection Générale des Finances » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+Introduction au programme de gestion de l’élaboration du budget de l’État :
+
+- Saisie des données de la proposition initiale et du budget pluriannuel par l’opérateur ou le responsable budgétaire
+
+- Génération et impression des documents de la proposition initiale à transmettre sous forme papier
+
+- Transmission des données électroniques via le programme
+
+- Prise en compte des demandes de justification supplémentaire d’un inspecteur des finances
+
+- Modification de la proposition initiale
+
+- Consultation dans l’application du procès-verbal de l’examen contradictoire fourni par un inspecteur des finances
+
+Comptabilité de l’État
+
+Le programme détaillé du cours « Comptabilité de l’État » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Les bases du fonctionnement de la comptabilité publique
+
+- Les outils d’une comptabilité et ses objectifs
+
+- Le budget de l’État et son exécution comptable ordinaire et extraordinaire
+
+Formation à l’entretien individuel
+
+Le programme détaillé du cours « Formation à l’entretien individuel » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+Dans le cadre de la mise en œuvre de la gestion par objectifs, l’entretien individuel figure comme un outil au service du développement professionnel des agents.
+
+A cette fin, la formation a pour but de travailler sur le contenu et la conduite de cet entretien. Au cours de cette formation, les participants découvriront une série de bonnes pratiques pour préparer et mener au mieux leurs entretiens. Le programme de la journée sera rythmé par des exposés, des exercices pratiques et des mises en situation orientées jeux de rôles.
+
+Formation à l’entretien structuré
+
+Le programme détaillé du cours « Formation à l’entretien structuré » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Généralités et types d’entretiens
+
+- Stéréotypes (biais) liés à l’évaluation
+
+- Qualités psychométriques et objectifs de l’entretien
+
+- Quelles compétences évaluer en entretien ? Application avec le dictionnaire de compétences de la Fonction publique luxembourgeoise.
+
+- Les différentes phases de l’entretien : préparation, introduction, éléments biographiques (CV), motivation, comportements, clôture.
+
+- Jeux de rôles avec la méthode STAR / BACK-UP sur base des descriptions de fonctions des participants (ou offres publiées sur GovJobs)
+
+- Évaluation de la prestation du candidat
+
+- Donner du feedback sur l’entretien
+
+Formation à l’entretien structuré - matinée de suivi
+
+Le programme détaillé du cours « Formation à l’entretien structuré - matinée de suivi » organisé sous forme de cours présentiel d’une durée de 3 heures est déterminé comme suit :
+
+- Intervision et retours d’expériences sur la pratique de l’entretien structuré.
+
+- Co-création autour de questions orientées compétences à utiliser en entretien.
+
+- Jeux de rôles avec la méthode STAR / BACK-UP sur base de cas amenés par les participants.
+
+- Évaluation de la prestation du candidat.
+
+Comment encourager et favoriser l’apprentissage et le développement des compétences au sein de votre équipe ?
+
+Le programme détaillé du cours « Comment encourager et favoriser l’apprentissage et le développement des compétences au sein de votre équipe ? » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+Au sein d’une même équipe, les compétences des agents sont très souvent multiples. Néanmoins, il arrive régulièrement de constater que le niveau de compétences des uns et des autres est assez différent. Plusieurs raisons peuvent l’expliquer : l’expérience et l’ancienneté des agents, leur potentiel face à l’apprentissage, les opportunités qu’ils ont pour se développer, leur motivation à apprendre, ou encore la façon dont le travail est organisé dans le service.
+
+Au cours de cette formation, nous souhaitons faire découvrir aux participants toute une série de méthodes pour encourager et favoriser l’apprentissage et le développement des compétences au sein de l’équipe. En effet, lorsque des difficultés en matière de compétences sont constatées, la formation « catalogue » est trop souvent considérée comme l’unique moyen, alors qu’il existe d’autres solutions, parfois bien plus efficaces pour répondre au besoin.
+
+Dans ce cadre, nous pensons à l’apprentissage entre pairs, au tutorat, aux retours d’expériences, au transfert des connaissances, et à tout ce qui va permettre aux collaborateurs d’une même équipe d’apprendre tout en travaillant. Outre les objectifs qu’elles visent à remplir en termes d’apprentissage, ces méthodes peuvent contribuer à renforcer la motivation, la cohésion et l’entraide dans l’équipe.
+
+Gestion des ressources humaines
+
+Le programme détaillé du cours « Gestion des ressources humaines » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- La dimension stratégique de la gestion des ressources humaines et le lien avec les missions du service public
+
+- Le contexte de l’emploi public et le bilan social
+
+- Les thèmes essentiels de la GRH
+
+- Les processus RH de la Fonction publique et les acteurs principaux
+
+- Les actualités et les nouveaux projets RH dans la Fonction publique
+
+Diversitéit an der Fonction Publique
+
+Le programme détaillé du cours « Diversitéit an der Fonction Publique » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- De Konzept vun der Diversitéit op der Aarbechtsplaz verstoë léieren
+
+- De legale Kader zu Lëtzebuerg
+
+- Net diskriminéieren: Stereotypen, Virurteeler, Ausschloss
+
+- Net-Diskriminatioun geet net duer: eng gutt géréiert Diversitéit als Ressource fir d’Aarbechtsplaz
+
+- Diversitéitskompetenz an der Praxis vun der Fonction Publique
+
+Umgang mit gehörlosen und schwerhörigen Menschen
+
+Le programme détaillé du cours « Umgang mit gehörlosen und schwerhörigen Menschen » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Informationen zur Hörbehinderung und zur Kommunikation mir hörgeschädigten Menschen
+
+- Einführung in die Gebärdensprache, Bewusstsein für die Situation der Betroffenen schaffen
+
+- Sensibilisierung für den Umgang mit schriftsprachlichen Informationen
+
+Leicht zu lesen leicht zu verstehen: Informationen leicht verständlich schreiben
+
+Le programme détaillé du cours « Leicht zu lesen leicht zu verstehen: Informationen leicht verständlich schreiben » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+Briefe, Anträge, Info-Blätter, Verträge, Rechnungen usw... jeder kennt diese Schriftdokumente. Aber nicht jeder kann sie gut verstehen. Das kann an der Fremdsprache liegen. Das kann aber auch an der Formulierung liegen und an der Gestaltung des Dokuments.
+
+Besonders betroffen sind Menschen mit Lernschwierigkeiten (intellektuelle Beeinträchtigung), die oft früh von der Schule abgegangen sind und nur wenig lesen können, wenn überhaupt. Die UN-Konvention über die Rechte von Menschen mit Behinderung fordert, dass jeder das Recht auf Information hat. Luxemburg hat dieses Gesetz unterschrieben und sich verpflichtet, Informationen für Bürger mit Behinderung oder Beeinträchtigung zugänglich zu machen.
+
+Auch andere Personenkreise profitieren von leicht lesbaren Texten: wer sich einen schnellen Überblick machen will, wer die Sprache noch nicht so gut beherrscht, Menschen im Alter usw...
+
+Der Kurs erklärt kurz, was für Menschen mit Lernschwierigkeiten beim Lesen und Verstehen schwer ist. Er zeigt Wege auf, wie Texte auch anders geschrieben werden können, damit eine Information mehr Personen erreicht. Dazu gehört auch, dass die Dokumente klarer gestaltet werden. Viele dieser Tipps können schon recht einfach umgesetzt werden.
+
+Gestion des situations difficiles dans le contact à la réception et au téléphone
+
+Le programme détaillé du cours « Gestion des situations difficiles dans le contact à la réception et au téléphone » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+Cette formation contient tous les objectifs d’apprentissage en réponse aux besoins définis avec vous. Elle est basée sur des concepts de haut niveau et débouche sur des techniques concrètes (d’application pratique immédiate).
+
+Pédagogie, style et techniques d’animation
+
+Le séminaire porte sur le savoir-faire et le savoir-être. Les stratégies pédagogiques sont centrées sur la découverte et la mise en pratique des notions théoriques au travers d’exercices et de jeux de rôle. Le style d’animation est majoritairement de type incitatif (centré sur les apprenants et la matière). Les participants disposent de syllabus de travail et l’animation est supportée par screenshow, flip-chart et une centrale téléphonique pour la simulation des entretiens téléphoniques.
+
+Bien gérer ses fichiers et e-mails
+
+Le programme détaillé du cours « Bien gérer ses fichiers et e-mails » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Archivage
+
+  - Principes de l’archivage et de la conservation des fichiers informatiques et des e-mails.
+
+- Outlook
+
+  - Trier et gérer les e-mails entrants
+
+  - Hiérarchiser et traiter les demandes
+
+  - Rechercher des e-mails
+
+  - L’épuration et l’archivage des e-mails
+
+  - Les exports et les sauvegardes
+
+  - La sécurité et la protection des fichiers de données Outlook
+
+- L’Explorateur Windows
+
+  - Les bibliothèques
+
+  - Accéder aux bibliothèques
+
+  - Suppression de fichiers
+
+  - Compléter une bibliothèque
+
+  - Créer une nouvelle bibliothèque
+
+  - Suppression d’une bibliothèque
+
+  - Gestion des fichiers et des dossiers
+
+  - Présentation de l’explorateur Windows
+
+  - Modes d’affichage des fichiers et dossiers
+
+  - Compresser un fichier ou un dossier
+
+  - Extraire / décompresser un dossier compressé
+
+  - Protection des dossiers et fichiers
+
+  - Créer un dossier ou un fichier invisible
+
+  - Masquer ou afficher les fichiers ou dossiers cachés
+
+  - Transformer un dossier en dossier caché
+
+  - Transformer un fichier en fichier caché
+
+  - Recherche et indexation
+
+  - Effectuer les différents types de recherche
+
+  - Enregistrer ses recherches
+
+  - Utiliser des recherches enregistrées pour retrouver ses fichiers
+
+  - Utiliser les filtres de recherche pour l’affichage des dossiers
+
+  - Indexer des disques durs
+
+  - Indexer le contenu des fichiers
+
+  - Reconstruire l’index
+
+  - Sélectionner les types de fichiers à indexer
+
+TT-Base - Kit pédagogique pour formateurs occasionnels
+
+Le programme détaillé du cours « TT-Base - Kit pédagogique pour formateurs occasionnels » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Le contexte de la formation
+
+  - Définition des objectifs de formation
+
+  - Élaboration du contenu de formation
+
+  - Évaluation du public cible
+
+- Le kit pédagogique du formateur
+
+  - Le scénario pédagogique
+
+  - Les méthodes pédagogiques utilisées
+
+  - Le choix des exercices
+
+  - Les différents types de support (d’animation, technique,...)
+
+  - La présentation Powerpoint
+
+- Dérouler le kit pédagogique
+
+  - Appliquer un modèle (template) sur ses supports en accord avec son intervention
+
+  - Adapter le cours à son public. Le rendre "vivant"
+
+  - Dérouler le kit pédagogique en fonction de son groupe
+
+  - Accompagner l’apprenant pour le transfert des connaissances sur le poste de travail
+
+TT-Base - Train the Trainer Basisseminar
+
+Le programme détaillé du cours « TT-Base - Train the Trainer Basisseminar » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Lernverhalten Erwachsener
+
+  - Lernprinzipien
+
+  - Berücksichtigung bei Schulungen
+
+- Vorbereitung von Schulungen
+
+  - Bestimmung der Ziele
+
+  - Inhaltsauswahl
+
+  - Inhaltsstrukturierung
+
+- Vortragstechnik
+
+  - Vortragsgestaltung
+
+  - Sprechtechnik
+
+  - Mimik, Gestik, Körpersprache
+
+- Visualisierung und Medieneinsatz
+
+  - Visualisierungsregeln
+
+  - Einsatzmöglichkeiten verschiedener Medien
+
+  - Medientechniken
+
+- Aufbau einer Unterrichtseinheit
+
+  - Motivation und Orientierung
+
+  - Vermittlung und Erarbeitung
+
+  - Übung, Wiederholung und Kontrolle
+
+TT-Perfectionnement - Train the Trainer Aufbaukurs
+
+Le programme détaillé du cours « TT-Perfectionnement - Train the Trainer Aufbaukurs » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Teilnehmervoraussetzungen
+
+  - Ermittlung
+
+  - Analyse
+
+- Passung des Unterrichts auf die Voraussetzungen
+
+  - Maßnahmen im Unterricht
+
+  - Passung von Unterricht auf Teilnehmervoraussetzungen
+
+- Aktivierung von Teilnehmern
+
+  - Aktivierende Unterrichtsmethoden
+
+  - Aktivierender Medieneinsatz
+
+- Moderation von Lernsequenzen
+
+  - Methodik der Moderation
+
+  - Einsatz im Unterricht
+
+- Motivation von Teilnehmern
+
+  - Motivation, Motive und Verhalten
+
+  - Möglichkeiten zur Steigerung der Motivation
+
+  - Umgang mit mangelnder Motivation
+
+  - Umgang mit schwierigen Situationen
+
+  - Störungen im Unterricht
+
+  - Umgang mit schwierigen Teilnehmern
+
+TT-Perfectionnement - Trockene Inhalte aneigenbar und aufmerksamkeitsfördernd gestalten
+
+Le programme détaillé du cours « TT-Perfectionnement - Trockene Inhalte aneigenbar und aufmerksamkeitsfördernd gestalten » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+Als Dozent/in besteht eine große Herausforderung darin, 'trockene' Inhalte so aufzubereiten, dass die Teilnehmer/innen aufmerksam bleiben und Lernergebnisse erzeugt werden können.
+
+Inhalte des Seminars:
+
+- Auswahl, Reduktion und Anordnung von Inhalten
+
+- Teilnehmerorientierung und Partizipationsmöglichkeiten
+
+- Tipps & Tricks für erhöhte Aufmerksamkeit
+
+- Methoden der Auflockerung
+
+Methoden: Lehr-Lerngespräche, Diskussionen, Übungen, Fallbeispiele.
+
+TT-Perfectionnement - Digitale Tools in der Weiterbildung
+
+Le programme détaillé du cours « TT-Perfectionnement - Digitale Tools in der Weiterbildung » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+Nach einer Einführung in die Dikussionen rund um E-Didaktik und digitale Lehr-Lern-Ressourcen werden verschiedene online gestützte Lernformate präsentiert und aktiv ausprobiert.
+
+Dabei werden drei verschiedene methodisch-didaktische Einsatzgebiete genauer besprochen:
+
+- Digitale Anreicherung für die Wissensvermittlung und Visualiserung
+
+- Möglichkeiten für eine Vertiefung und Übung von Inhalten
+
+- Ideen für den Austausch und die nachhaltige Diskussion
+
+Zusätzlich besteht die Möglichkeit sich mit den Themen Social media in der Lehre, Online-Reflexionsmöglichkeiten und spielerischen Methoden auseinanderzusetzen.
+
+Der Kurs gilt als Markt der Möglichkeiten, wobei die Teilnehmer*innen selbst geeignete Methoden für den eignenen Kontext identifizieren sollen.
+
+TT-Base - Animez une session de formation
+
+Le programme détaillé du cours « TT-Base - Animez une session de formation » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Les règles de communication en formation
+
+  - Adapter son langage, utiliser sa voix
+
+  - L’importance de la communication non verbale : proxémique, gestuelle, mimiques…
+
+- Les techniques d’animation
+
+  - Les clés de la réussite
+
+    - La relation confiante
+
+    - Les jeux pédagogiques et l’approche analogique
+
+  - Les règles de conduite du formateur face au groupe
+
+    - Les différents types de public
+
+    - Identifier une personnalité difficile
+
+    - Détecter les attitudes négatives pour la formation
+
+  - Optimiser les techniques d’animation : le questionnement, la reformulation, l’écoute, l’encouragement, la transparence, l’empathie…
+
+- Gérer les situations de groupe
+
+  - Créer l’esprit de groupe et favoriser une dynamique positive
+
+  - Gérer les phénomènes de groupe
+
+- Synthèse
+
+  - Avant l’heure H - Les règles à retenir
+
+TT-Perfectionnement - Dynamisez un contenu de formation théorique
+
+Le programme détaillé du cours « TT-Perfectionnement - Dynamisez un contenu de formation théorique » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Analyser son contenu de formation
+
+  - Adapter son langage, utiliser sa voix
+
+  - Définir les parties du cours à « dynamiser »
+
+- Les outils pédagogiques adaptés aux thèmes théoriques
+
+  - Définir le support pédagogique à utiliser (papier, numérique, cartes, post-it…)
+
+  - Animer la séquence de formation théorique – Rendre le contenu « vivant »
+
+  - Évaluer en amont ou en aval la connaissance théorique
+
+- Gérer le groupe
+
+  - Impliquer les apprenants dans l’apprentissage
+
+  - Dynamiser les échanges entre participants
+
+TT-Perfectionnement - Certificat d'animation de formation (CAF)
+
+Le programme détaillé du cours « TT-Perfectionnement – Certificat d’animation de formation (CAF) » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Comprendre les principes de la formation des adultes ;
+
+- Gérer des situations ou discussions difficiles dans une session de formation ;
+
+- Comprendre les éléments principaux pour projeter de la présence dans une session de formation ;
+
+- Motiver les apprenants et animer une formation de manière engageante ;
+
+- Donner du feedback de manière structurée ;
+
+- Développer la compétence d’être à l’écoute de participants d’une formation et de leur poser les bonnes questions ;
+
+- Gérer le comportement et la dynamique des participants apprenants ;
+
+- Animer une session de manière autonome ou co-animer avec un autre animateur formateur.
+
+V. Dans le domaine « Communication » :
+
+Präsentationen vorbereiten und halten (e-Learning)
+
+Le programme détaillé du cours « Präsentationen vorbereiten und halten (e-Learning) » organisé sous forme de cours en ligne d’une durée de 12 heures est déterminé comme suit :
+
+Es gibt immer wieder Situationen, in denen man Gelegenheit hat, sich vor anderen zu präsentieren: in einer Besprechung, bei einem Meeting, als Fachvortrag während einer Konferenz, in einer Versammlung. Dann tun Sie gut daran, nicht nur einen Vortrag zu halten, sondern wichtige Punkte zusätzlich zu visualisieren. Der Eindruck, den Sie damit hinterlassen, ist besser und nachhaltiger.
+
+Viele Gelegenheiten, eine Technik. Die Präsentationstechnik ist einfach zu erlernen, aber sehr nützlich und wirkungsvoll. Denn auch Sie haben sicher die Erfahrung gemacht, wie langweilig ein langwieriger Vortrag sein kann und wie eindrucksvoll eine gelungene Präsentation.
+
+Themen :
+
+- Präsentationen vorbereiten
+
+- Präsentationen strukturieren
+
+- Rhetorische Mittel nutzen
+
+- Medien nutzen
+
+- Präsentationen abrunden
+
+Kommunikationspraxis (e-Learning)
+
+Le programme détaillé du cours « Kommunikationspraxis (e-Learning) » organisé sous forme de cours en ligne d’une durée de 12 heures est déterminé comme suit :
+
+Kommunikation ist etwas Alltägliches und Selbstverständliches. Deshalb macht sich kaum jemand die Mühe, über sein Kommunikationsverhalten nachzudenken. Aber es lohnt sich. Durch eine bewusste Kommunikation lassen sich viele Missverständnisse, Probleme und Frustrationen vermeiden, Tag für Tag, Beziehung für Beziehung. Missverständnisse sind ein ewiger Quell für Auseinandersetzungen und Frustrationen und können sogar zu Konflikten führen. Sie kennen sicher aus Ihren Gesprächen im Berufsalltag die typischen Sätze "das habe ich so nie gesagt", oder "das habe ich so nicht gemeint". Warum aber kommt es in der Kommunikation so häufig zu Missverständnissen und letztlich Misserfolgen? Die Antworten auf diese Frage liefert Ihnen dieses Lernprogramm.
+
+- Bewusst kommunizieren
+
+- Mit Interpretationen rechnen
+
+- Auf Vor-Urteile achten
+
+- Beziehungen aktiv gestalten
+
+- Probleme klären
+
+Communication interpersonnelle
+
+Le programme détaillé du cours « Communication interpersonnelle » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Communication verbale et non verbale
+
+- Communication en groupe
+
+- Transmettre le message voulu afin d’établir un contact et relation de travail
+
+- Communication selon contexte et situation
+
+- Rapport d’interaction à trois niveaux (intrapsychique, interactionnel, et social / culturel)
+
+- Le modèle de l’analyse transactionnelle
+
+- La communication en fonction d’une relation (professionnel, ordre hiérarchique, public, client...)
+
+- Langages de la communication
+
+- Les risques d’intrusion
+
+Arbeiten mit Menschen in Krisensituationen - ohne selbst zu leiden
+
+Le programme détaillé du cours « Arbeiten mit Menschen in Krisensituationen - ohne selbst zu leiden » organisé sous forme de cours présentiel d’une durée de 9 heures est déterminé comme suit :
+
+Die Arbeit mit Menschen in Krisensituationen bedeutet immer ein erhöhtes psychosoziales Risiko für diejenigen, die diese Arbeit leisten. Die MitarbeiterInnen sind Aggressionen ausgesetzt, aber auch Trauer, Ohnmacht, Krankheit, Manipulationsabsichten und ähnlichem. Damit all dies keine Auswirkungen auf die eigene psychische Gesundheit hat, soll diese Schulung dazu dienen, die Risiken kennenzulernen, zu erkennen und wenn möglich zu verringern. Ausserdem werden Techniken vermittelt, die helfen können, mit unvermeidbaren Risiken kompetent umzugehen, um auch langfristig in dem Beruf gesund bleiben zu können. Hier stehen die MitarbeiterInnen mit ihren eigenen Schwierigkeiten, Strategien und Erfahrungen im Mittelpunkt.
+
+Accueil et communication avec des personnes en situation de handicap
+
+Le programme détaillé du cours « Accueil et communication avec des personnes en situation de handicap » organisé sous forme de cours présentiel d’une durée de 7 heures est déterminé comme suit :
+
+- Droit à la pleine participation
+
+- Discrimination
+
+- Dignité
+
+- Accessibilité des lieux ouverts au public
+
+- Design for All
+
+Par ailleurs, le séminaire fournit des pistes de communication avec les personnes qui présentent des déficiences visuelles, des déficiences auditives, des déficiences d’apprentissage, des déficiences psychiques ou des déficiences de mobilité. Il prendra en considération également la prise en compte des besoins des personnes qui présentent des déficiences :
+
+- Cognitives
+
+- Visuelles
+
+- De mobilité
+
+- De communication et/ou auditives
+
+Modules pratiques de mise en situation - les aspects suivants seront traités :
+
+- Utilisation d’un fauteuil roulant + exercices pratiques sur les lieux et questions / réponses
+
+- Exercices pratiques sur les lieux et questions / réponses en présence de personnes qui présentent des déficiences cognitives
+
+- Exercices pratiques sur les lieux et questions / réponses par les Services Audio phonologiques en collaboration avec d’Hörgeschädigten Beratung
+
+- Exercices pratiques de mise en situation sur les lieux et questions / réponses par la Fondation Lëtzebuerger Blannevereenegung
+
+VI. Dans le domaine « Informatique » :
+
+Sécurité de l’information - Initiation
+
+Le programme détaillé du cours « Sécurité de l’information - Initiation » organisé sous forme de cours présentiel d’une durée de 3 heures est déterminé comme suit :
+
+Les nouvelles technologies nous offrent de multiples possibilités, mais nous obligent, de l’autre côté, d'affronter une multitude de risques liés à la société de l’information.
+
+Chaque jour, nous sommes exposés à des impacts, vulnérabilités et menaces capables à mettre à genoux les TIC et ceci tant dans nos vies professionnelles que privées.
+
+Reconnaître les menaces et savoir comment les traiter ou, mieux encore, les éviter est essentiel.
+
+Au sein des réseaux protégés de l’État, la sécurité de l’information est un défi organisationnel et comportemental qu’il faut prendre au sérieux.
+
+C’est pourquoi ce cours veut sensibiliser :
+
+- Quelles sont les menaces liées aux codes malicieux et aux courriers électroniques ?
+
+- A quoi faut-il faire attention comme utilisateur de réseaux sociaux ?
+
+- A quel point la sécurité physique est-elle importante ?
+
+Toutes ces questions sont traitées et l’agent, à la fin du cours, comprendra le mode de fonctionnement des principales attaques, des techniques d’hameçonnage ainsi que des méthodes utilisées lors d’attaques de type ingénierie sociale.
+
+Le but étant que l’agent soit apte à non seulement comprendre les vecteurs qui motivent un attaquant à frapper, mais aussi d’évaluer lui-même la probabilité d’une telle attaque ayant lieu. Lors du cours, les mesures de protection organisationnelles, comportementales et techniques sont expliquées tout en soulignant l’utilité de ces différentes mesures préventives. Ainsi, l’agent saura reconnaître et donc éviter les principales menaces, ce qui fait de lui un membre important du réseau de sécurité informatique au sein de l’État.
+
+Office 2016 - Word - Initiation
+
+Le programme détaillé du cours « Office 2016 - Word - Initiation » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Principes de base, menus et commandes
+
+- La création, l’enregistrement et la modification d’un document
+
+- La mise en forme du texte
+
+- Les marges et l’alignement des tabulations
+
+- Les tableaux et les encadrements
+
+- Les en-têtes et bas de page
+
+- Les renvois de notes
+
+- La numérotation automatique
+
+- L’impression et les options d’impression
+
+- Les feuilles de style
+
+- Les glossaires
+
+Office 2016 - Word - Perfectionnement : La mise en page
+
+Le programme détaillé du cours « Office 2016 - Word - Perfectionnement : La mise en page » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- La page et les marges
+
+- La taille et l’orientation du document
+
+- Les marges du document
+
+- Les retraits dans les paragraphes
+
+- La division de documents en sections
+
+- La création et la suppression d’en-têtes et de pieds de page
+
+- Exercice 1 : Création et suppression de sections - Numérotation des pages
+
+- Exercice 2 : En-têtes et pieds de page
+
+- Exercice 3 : Création de papier en-tête
+
+Office 2016 - Word - Perfectionnement : les feuilles de style
+
+Le programme détaillé du cours « Office 2016 - Word - Perfectionnement : les feuilles de style » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Définitions et principes de base
+
+- Les styles
+
+- Le glossaire
+
+- Les modèles
+
+Office 2016 - Word - Perfectionnement: les macros
+
+Le programme détaillé du cours « Office 2016 - Word - Perfectionnement : les macros » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Introduction et notions de base
+
+- Principes de base de la programmation WordBasic sous Windows 10
+
+- Exercice final
+
+- Questions et réponses
+
+Office 2016 - Word - Perfectionnement : le publipostage
+
+Le programme détaillé du cours « Office 2016 - Word - Perfectionnement : le publipostage » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Fusion de documents - principes de base
+
+- Fusion de documents - techniques avancés
+
+- Exercice final
+
+- Questions et réponses
+
+Office 2016 - Excel - Séminaire de base
+
+Le programme détaillé du cours « Office 2016 - Excel - Séminaire de base » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Principes de base
+
+- Menus et commandes
+
+- Utilisation de la souris et du clavier
+
+- Les fonctions 'Aide'
+
+- Les fonctions de base
+
+- Les formules
+
+- L’ouverture et la sauvegarde de documents
+
+- La mise en page et l’impression d’un document
+
+- Quelques fonctions 'SI' et autres
+
+- La série logique
+
+- Les noms de cellules
+
+- Le menu 'Feuille de calcul'
+
+- Le lien Excel 2016 - Word 2016
+
+- L’utilisation de fenêtres
+
+- Quelques notions de bases de données
+
+Office 2016 - Excel Perfectionnement - Formules partie 1 : les bases
+
+Le programme détaillé du cours « Office 2016 - Excel Perfectionnement - Formules partie 1 : les bases » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Introduction
+
+  - Fichiers Excel 2016
+
+  - Quelques concepts fondamentaux
+
+- Formules et fonctions
+
+  - Fonctions d’agrégation : SOMME(), SOMME.SI(), SOUS.TOTAL(), etc.
+
+  - Fonctions statistiques : MOYENNE(), MAX(), MIN(), RANG(), NB(), NB.SI() etc.
+
+  - Fonctions logiques : SI(), ET(), OU(), CHOISIR()
+
+  - Fonctions de texte : STXT(), GAUCHE(), DROITE(), CHERCHE(), TROUVE(), NBCAR() etc.
+
+  - Fonctions d’arrondi : ARRONDI(), ARRONDI.SUP(), etc.
+
+  - Fonctions de temps : AUJOURDHUI(), ANNEE(), DATE(), JOURSEM(), DATEDIF() etc.
+
+Office 2016 - Excel Perfectionnement - Formules partie 3 : fonctions avancées
+
+Le programme détaillé du cours « Office 2016 - Excel Perfectionnement - Formules partie 3 : fonctions avancées » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Les champs nommés
+
+- Les fonctions et formules avancées
+
+- Les formules 'array'
+
+- Les principes d’organisation d’applications tableurs
+
+Office 2016 - Excel Perfectionnement : les graphiques
+
+Le programme détaillé du cours « Office 2016 - Excel Perfectionnement : les graphiques » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Réalisation et mise à jour d’un graphique simple
+
+- Principes de choix d’un type de graphique, selon les données à représenter, en trois étapes :
+
+- Les différents types de graphiques disponibles dans Excel et leur utilisation
+
+Office 2016 - Excel Perfectionnement : tableaux croisés dynamiques
+
+Le programme détaillé du cours « Office 2016 - Excel Perfectionnement : tableaux croisés dynamiques » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Construction d’un tableau croisé dynamique simple, utilisant des données sous format Excel
+
+- Les tableaux croisés dynamiques avec feuilles de pages avec étiquettes
+
+- Les graphiques basés sur des tableaux croisés dynamiques
+
+- Accès à des bases de données ODBC externes
+
+VBA pour Excel 2016 (Partie 1)
+
+Le programme détaillé du cours « VBA pour Excel 2016 (Partie 1) » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Introduction
+
+- Les objets Workbook(s), Worksheet(s) et Application
+
+- Les variables
+
+- Les boucles et structures de contrôle (control structures)
+
+VBA pour Excel 2016 (Partie 2)
+
+Le programme détaillé du cours « VBA pour Excel 2016 (Partie 2) » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Les procédures VBA
+
+- Les fonctions
+
+- Les interfaces
+
+- Les UserForms
+
+- La création d’Add-ins
+
+- Pour en savoir plus
+
+VBA pour Excel 2016 (Partie 3)
+
+Le programme détaillé du cours « VBA pour Excel 2016 (Partie 3) » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Accès à des données externes
+
+- Automation
+
+- Programmation de Toolbars et de menus
+
+- Développement d’un exemple d’utilitaire VBA complet sous forme d’Add-In
+
+Office 2016 - Outlook - Initiation
+
+Le programme détaillé du cours « Office 2016 - Outlook - Initiation » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Présentation de l’environnement
+
+- La messagerie
+
+- Le calendrier
+
+- Les autres dossiers
+
+Office 2016 - Access - Initiation
+
+Le programme détaillé du cours « Office 2016 - Access - Initiation » organisé sous forme de cours présentiel d’une durée de 18 heures est déterminé comme suit :
+
+- Introduction
+
+- Manipulations de base
+
+- Mise à jour des données
+
+- Création d’une base de données
+
+- Les requêtes
+
+- Les états
+
+- Aperçu sur les formulaires
+
+Office 2016 - Access - Perfectionnement
+
+Le programme détaillé du cours « Office 2016 - Access - Perfectionnement » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Les Requêtes
+
+- Création de formulaires et d’états
+
+- Création d’un état
+
+- Impression d’un état
+
+- Mode Création
+
+- Fonctions avancées - Macro-commandes
+
+- Points facultatifs (étudiés s’il reste suffisamment de temps)
+
+Office 2016 - PowerPoint - Initiation
+
+Le programme détaillé du cours « Office 2016 - PowerPoint - Initiation » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Introduction à PowerPoint 2016
+
+- Travailler avec les objets de PowerPoint 2016
+
+- Travailler sur les masters et les templates
+
+- Gérer les fichiers
+
+- Modifier les couleurs
+
+- Modifier le texte
+
+- Mode dessin
+
+- Mode graphique
+
+- Imprimer
+
+- Créer un slide show avec PowerPoint 2016
+
+Office 2016 - PowerPoint - Perfectionnement
+
+Le programme détaillé du cours « Office 2016 - PowerPoint - Perfectionnement » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Rappel de certaines notions et techniques d’utilisation du logiciel PowerPoint, selon les besoins des participants.
+
+- Enrichir une présentation :
+
+  - Insérer une image
+
+  - Les organigrammes hiérarchiques
+
+  - Les effets Word Art
+
+  - Insérer un tableau Excel lié
+
+  - Créer un graphique
+
+- Organiser une présentation :
+
+  - Les différents masques
+
+  - Le minutage
+
+  - Les transitions
+
+- Animer une présentation :
+
+  - Paramétrage des éléments
+
+- Les fonctions avancées :
+
+  - Barres d'outils
+
+  - Autres applications
+
+  - Travail sur le Web
+
+- Exercices :
+
+  - Élaboration par chaque participant, d’une présentation PowerPoint, sur la base d’un document fourni, traitant d’un sujet particulier
+
+  - Présentation de son produit par chaque participant (enregistrement vidéo)
+
+  - Visualisation de passages vidéo pour chaque participant et discussions constructives
+
+  - Questions et réponses
+
+Office 2016 - Excel Perfectionnement - Formules partie 2 : formatage conditionnel, règles et filtres
+
+Le programme détaillé du cours « Office 2016 - Excel Perfectionnement - Formules partie 2: formatage conditionnel, règles et filtres » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Le formatage conditionnel
+
+- Les règles de validation
+
+- Les filtres
+
+Office 2016 - Outlook - Productivité
+
+Le programme détaillé du cours « Office 2016 - Outlook - Productivité » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Modifier les affichages
+
+- Créer et gérer les catégories
+
+- Utiliser le calendrier (Calendar) ou la liste des tâches (Tasklist)
+
+- Comment gérer efficacement les mails sortants et les mails entrants
+
+- L'intégration avec Office
+
+SharePoint End User Training
+
+Le programme détaillé du cours « SharePoint End User Training » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Introduction à SharePoint
+
+- La sécurité dans SharePoint
+
+- Le commandes & menu dans SharePoint (Rubban, ECB Menu, App Launcher, Site Action)
+
+- Présentation de la page d’accueil de la plateforme du CTIE
+
+- Présentation des espaces govSpace, govSearch et mySite
+
+- Gestion des documents dans une bibliothèque de documents SharePoint
+
+- Gérer les affichages d’une bibliothèque de documents
+
+- Rechercher un document dans une bibliothèque de documents
+
+- Gestion des alertes SharePoint
+
+- Votre mySite en détail
+
+- Rechercher un élément sur la plateforme via le govSearch
+
+Office 2016 - Excel - Module 1 - Environnement de travail et création de tableaux (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Excel - Module 1 - Environnement de travail et création de tableaux (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Découvrir l’écran d’Excel
+
+- Ouvrir et créer un classeur
+
+- Enregistrer un classeur
+
+- Organiser les feuilles d’un classeur
+
+- Déplacer et copier une feuille
+
+- Les affichages d’un classeur
+
+- La saisie de données
+
+- Les déplacements
+
+- La sélection
+
+- Modifier le contenu des cellules
+
+- Les listes personnalisées
+
+- La copie et le déplacement
+
+- Copie et déplacement avec insertion
+
+Office 2016 - Excel - Module 2 - La mise en forme de tableaux (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Excel - Module 2 - La mise en forme de tableaux (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Ajuster lignes et colonnes
+
+- Ajuster un tableau
+
+- Aligner le contenu des cellules
+
+- La mise en forme des caractères
+
+- La mise en forme des nombres
+
+- La mise en forme d’un tableau
+
+- Manipuler la mise en forme
+
+- La mise en page d’un classeur
+
+- Les en-têtes et pieds de page
+
+- Créer et appliquer un style
+
+- La gestion des styles
+
+- Créer un classeur à partir d’un modèle
+
+- Créer un classeur modèle
+
+Office 2016 - Excel - Module 3 - Calculs simples et impressions (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Excel - Module 3 - Calculs simples et impressions (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- La création de formules
+
+- Les références
+
+- L’utilisation des fonctions
+
+- Imprimer une feuille de calcul
+
+- Paramètres d’impression
+
+- Définir l’impression
+
+- La gestion des sauts de page
+
+- Les outils de correction orthographique
+
+Office 2016 - Excel - Module 4 - Calculs avancés (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Excel - Module 4 - Calculs avancés (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- La création de formules
+
+- Les références
+
+- L’utilisation des fonctions
+
+- Les fonctions courantes
+
+- Les fonctions 'Date & Heure'
+
+- Les fonctions financières
+
+- La fonction logique 'SI()'
+
+- Fonction logique à choix multiples
+
+- La fonction logique 'ET()'
+
+- La fonction logique 'OU()'
+
+Office 2016 - Excel - Module 5 - Les liaisons (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Excel - Module 5 - Les liaisons (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Travailler avec plusieurs feuilles
+
+- Réorganiser les fenêtres de travail
+
+- Les formules multi feuilles
+
+- Les formules de liaison
+
+- La mise à jour des classeurs liés
+
+- La gestion des liaisons
+
+- Partager un classeur
+
+- La consolidation par position
+
+- La consolidation par Catégorie
+
+Office 2016 - Excel - Module 6 - Les graphiques (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Excel - Module 6 - Les graphiques (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Créer un graphique
+
+- Personnaliser un graphique
+
+- Mise en valeur d’un graphique
+
+- Complément pour graphiques
+
+- Imprimer un graphique
+
+- Insertion de formes
+
+- Graphiques Sparklines
+
+Office 2016 - Excel - Module 7 - Listes et Tableaux croisés dynamiques (pivot tables) (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Excel - Module 7 - Listes et Tableaux croisés dynamiques (pivot tables) (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Filtrer une liste
+
+- Définir des sous-totaux dans une liste
+
+- Le filtre avancé
+
+- Créer un tableau croisé dynamique
+
+- Manipuler le tableau croisé dynamique
+
+- Travailler avec un tableau croisé
+
+- Créer un plan automatique
+
+- Les segments
+
+Office 2016 - Excel - Module 8 - Fonctionnalités avancées (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Excel - Module 8 - Fonctionnalités avancées (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Les cellules nommées
+
+- Le Solveur
+
+- Le gestionnaire de scénarios
+
+- La protection des données
+
+Office 2016 - Word - Module 1 - Environnement de travail et création de document (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Word - Module 1 - Environnement de travail et création de document (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Découvrir l’écran de Word
+
+- Utiliser l’aide de Word
+
+- Créer un document
+
+- Enregistrer un document
+
+- Ouvrir et enregistrer un document final
+
+- Modes d’affichage d’un document
+
+- Les déplacements
+
+- Imprimer un document
+
+- Sélectionner et supprimer du texte
+
+- Déplacer et copier du texte
+
+- Correction de texte et synonymes
+
+- La recherche et le remplacement
+
+Office 2016 - Word - Module 2 - Mise en forme de texte (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Word - Module 2 - Mise en forme de texte (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- La mise en forme du texte
+
+- Aligner des paragraphes
+
+- Modifier et copier les mises en forme
+
+- Interligne et espacement
+
+- Listes à puces et numérotées
+
+- Modifier et supprimer des listes
+
+- Correction auto et saut de page
+
+- Utiliser les taquets de tabulation
+
+- La boîte de dialogue 'Tabulations'
+
+Office 2016 - Word - Module 3 - Styles et mise en page de documents (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Word - Module 3 - Styles et mise en page de documents (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Créer et appliquer un style
+
+- Modifier et sélectionner des styles
+
+- Appliquer des bordures et des trames
+
+- Modifier des bordures et des trames
+
+- La mise en page d’un document
+
+- Créer un en-tête ou un pied de page
+
+- Les modèles de document
+
+Office 2016 - Word - Module 4 - Les longs documents et le travail collaboratif (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Word - Module 4 - Les longs documents et le travail collaboratif (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Diviser un document en sections
+
+- Manipuler les sauts de section
+
+- Modifier en-têtes et pieds de page
+
+- Création de notes de bas de pages
+
+- Introduction au travail en groupe
+
+- Effectuer le suivi des modifications
+
+- Envoyer un document en révision
+
+- Document maître et sous-documents
+
+- Créer une table des matières
+
+- Protéger un document
+
+Office 2016 - Word - Module 5 - Les tableaux (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Word - Module 5 - Les tableaux (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Créer un tableau
+
+- Modifier la structure d’un tableau
+
+- Améliorer la structure d’un tableau
+
+- La mise en forme d’un tableau
+
+- Autres outils pour tableaux
+
+- Effectuer des calculs dans un tableau
+
+- Importer des données Excel
+
+- Trier une liste ou un tableau
+
+- Créer et modifier des graphiques
+
+Office 2016 - Word - Module 6 - La présentation élaborée de documents (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Word - Module 6 - La présentation élaborée de documents (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Insérer une image clipart
+
+- Modifier les propriétés des images
+
+- Objets WordArt et Diagrammes
+
+- Insérer des formes automatiques
+
+- Créer des colonnes de type journal
+
+- Modifier les colonnes
+
+- Créer un formulaire
+
+- Remplir un formulaire
+
+- Créer et éditer un document Web
+
+- Créer et exécuter une macro
+
+Office 2016 - Word - Module 7 - Les mailings (e-Learning)
+
+Le programme détaillé du cours « Office 2016 - Word - Module 7 - Les mailings (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Fusion et mailing courrier
+
+- Les champs variables
+
+- Fusionner des étiquettes
+
+- Fusionner des enveloppes
+
+- Utiliser Word pour vos courriels
+
+Office 2013 - Outlook - Module 1 - Interface et messagerie (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Outlook - Module 1 - Interface et messagerie (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Découvrir l’écran
+
+- Utiliser l’aide
+
+- Personnaliser l’affichage
+
+- Rédiger et envoyer un message
+
+- Utiliser les options du message
+
+- Mise en forme d’un message
+
+- Lire et traiter les messages reçus
+
+- Utiliser les catégories
+
+- Répondre aux messages reçus
+
+- Les pièces jointes
+
+- Imprimer des messages
+
+Office 2013 - Outlook - Module 2 - La gestion de la messagerie (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Outlook - Module 2 - La gestion de la messagerie (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Créer et insérer une signature
+
+- Utiliser le dossier Brouillons
+
+- Les réponses automatiques
+
+- Gérer les dossiers de la messagerie
+
+- Automatiser la gestion des messages
+
+- Traiter le courrier indésirable
+
+- Classer et rechercher vos messages
+
+Office 2013 - Outlook - Module 3 - Gestion des contacts (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Outlook - Module 3 - Gestion des contacts (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Utiliser le carnet d’adresse
+
+- Les listes de distribution
+
+- Personnaliser le dossier Contacts
+
+- Créer des contacts
+
+- La gestion des contacts
+
+- L’impression des contacts
+
+Office 2013 - Outlook - Module 4 - La gestion du calendrier (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Outlook - Module 4 - La gestion du calendrier (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Le dossier Calendrier
+
+- Gérer les rendez-vous dans l’agenda
+
+- Ajouter un rendez-vous périodique
+
+- Modifier un rendez-vous dans l’agenda
+
+- Imprimer le calendrier
+
+- Configurer le dossier calendrier
+
+- Organiser une réunion
+
+- Recevoir une demande de réunion
+
+- Traiter les réponses à une invitation
+
+Office 2013 - Outlook - Module 5 - Les tâches et leur suivi (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Outlook - Module 5 - Les tâches et leur suivi (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Le dossier Tâches
+
+- Gérer le dossier Tâches
+
+- Imprimer le dossier Tâches
+
+- Affecter des tâches
+
+- Le suivi des tâches
+
+- Le dossier Notes
+
+Office 2013 - Outlook - Module 6 - Fonctions avancées (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Outlook - Module 6 - Fonctions avancées (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Partager ses dossiers Outlook
+
+- Gérer les dossiers d’un collègue
+
+- Gérer les conversations
+
+- Nettoyage de conversation
+
+- L’archivage automatique
+
+Office 2013 - PowerPoint - Module 1 - Environnement de travail et création d’une présentation (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - PowerPoint - Module 1 - Environnement de travail et création d'une présentation (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Découvrir l’écran de PowerPoint
+
+- Utiliser l’aide de PowerPoint
+
+- Créer une nouvelle présentation
+
+- Enregistrer une présentation
+
+- Les modèles
+
+- Projection d’une présentation
+
+- Imprimer une présentation
+
+- L’arrière-plan des diapositives
+
+- Les types d’affichages
+
+- Utiliser les en-têtes et pieds de page
+
+- Les pages de commentaires
+
+Office 2013 - PowerPoint - Module 2 - Mise en forme d’une présentation (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - PowerPoint - Module 2 - Mise en forme d’une présentation (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Modifier une présentation
+
+- Mise en forme du texte
+
+- La mise en forme d’un paragraphe
+
+- Les listes à puces et à numéros
+
+- Vérifier l’orthographe et le style
+
+- La correction automatique
+
+- La recherche et le remplacement
+
+- Les modèles de conception
+
+- Les thèmes de présentation
+
+Office 2013 - PowerPoint - Module 3 - Les outils de dessins et d’images (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - PowerPoint - Module 3 - Les outils de dessins et d’images (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Insérer une image clipart
+
+- Modifier les propriétés d’une image
+
+- Créer un album photo
+
+- Les formes prédéfinies
+
+- Insérer un objet WordArt
+
+- Organiser les objets
+
+Office 2013 - PowerPoint - Module 4 - Animations et transitions (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - PowerPoint - Module 4 - Animations et transitions (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Les boutons d’action multimédias
+
+- Les effets d’animation sur du texte
+
+- Effets d’animation sur les graphiques
+
+- Les effets de transition
+
+- Personnaliser des animations
+
+Office 2013 - PowerPoint - Module 5 - Les autres éléments graphiques (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - PowerPoint - Module 5 - Les autres éléments graphiques (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Importation de diapositives
+
+- Insérer un tableau
+
+- Les graphiques SmartArt
+
+- Les organigrammes hiérarchiques
+
+- Créer un graphique
+
+- Modifier un graphique
+
+Office 2013 - PowerPoint - Module 6 - Fonctions avancées (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - PowerPoint - Module 6 - Fonctions avancées (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Paramétrer un diaporama
+
+- Les liens hypertextes
+
+- Travailler en collaboration
+
+- La compilation sur CD-ROM
+
+- Créer une présentation pour le Web
+
+- Fusionner des présentations
+
+- Organiser les diapositives en sections
+
+- Incorporer, modifier et lire une vidéo
+
+Windows 10 - Module 1 - Notions de base (e-Learning)
+
+Le programme détaillé du cours « Windows 10 - Module 1 - Notions de base (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- L’interface de Windows 10
+
+- La manipulation des fenêtres
+
+- La Barre des tâches
+
+- Le menu Démarrer
+
+- Personnaliser l’interface utilisateur
+
+- Les applications du Magasin Windows
+
+- L’accès aux commandes
+
+- Comment obtenir de l’aide dans Windows 10
+
+Windows 10 - Module 2 - Organisation et recherche de fichiers (e-Learning)
+
+Le programme détaillé du cours « Windows 10 - Module 2 - Organisation et recherche de fichiers (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- La gestion de vos dossiers
+
+- Ouvrir et enregistrer un document
+
+- Couper / Copier / Coller
+
+- La recherche de fichiers
+
+- La gestion de l’impression
+
+- Entretien de votre ordinateur
+
+- Ajout et suppression d’éléments
+
+- Résolution de problèmes
+
+Windows 10 - Module 3 - Accessoires et navigation internet (e-Learning)
+
+Le programme détaillé du cours « Windows 10 - Module 3 - Accessoires et navigation internet (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Surfer sur le Web
+
+- Envoyer et recevoir du courrier
+
+- Sécurité de Windows 10
+
+- Écouter et copier de la musique
+
+- Gestion de vos photos
+
+- Stocker des photos sur OneDrive
+
+- Utiliser Skype
+
+- Partager l’ordinateur
+
+- Le Bloc-notes et WordPad
+
+Office 2013 - Access - Module 1 - Environnement de travail et concepts (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Access - Module 1 - Environnement de travail et concepts (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Concepts essentiels
+
+- Découvrir l’écran d’Access
+
+- Utiliser l’aide d’Access
+
+- Consulter les données d’une table
+
+- Les objets d’une base de données
+
+- Accéder aux données d’un formulaire
+
+- Mise en forme des lignes / colonnes
+
+- Mise en forme de la feuille
+
+- L’aperçu et la mise en page
+
+- L’impression d’une feuille de données
+
+Office 2013 - Access - Module 2 - Saisie, tri et filtrage des données (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Access - Module 2 - Saisie, tri et filtrage des données (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- La saisie de données
+
+- Modifier et annuler des changements
+
+- Tenir à jour les données d’une table
+
+- Trier les enregistrements d’une feuille
+
+- Filtre courant et filtre par sélection
+
+- Filtres spécifiques au type de données
+
+- Filtrer les données par formulaire - 1
+
+- Filtrer les données par formulaire - 2
+
+- Filtrer les données d’un formulaire
+
+- Créer un formulaire
+
+- Créer un état
+
+- L'exportation de données Office
+
+Office 2013 - Access - Module 3 - Requêtes simples (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Access - Module 3 - Requêtes simples (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Les requêtes sélection - 1
+
+- Les requêtes sélection - 2
+
+- Requêtes sélection avec critères 1
+
+- Requêtes sélection avec critères 2
+
+- Requêtes avec champs calculés
+
+- Requêtes basées sur plusieurs tables
+
+Office 2013 - Access - Module 4 - Création d’une base de données (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Access - Module 4 - Création d’une base de données (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Créer une base de données
+
+- La création d’une table
+
+- Modifier le type de données
+
+- Définir la clé primaire
+
+- Définir les relations entre tables
+
+- Appliquer l’intégrité référentielle
+
+- Les opérations en cascade
+
+- Les listes de choix
+
+- Créer un champ à plusieurs valeurs
+
+Office 2013 - Access - Module 5 - Les propriétés de champs (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Access - Module 5 - Les propriétés de champs (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- La propriété 'Taille du champ'
+
+- La propriété 'Format'
+
+- L’Assistant Masque de saisie
+
+- Créer un masque de saisie
+
+- La 'Légende' et la 'Valeur par défaut'
+
+- La propriété 'Valide si' et son message
+
+- Saisie obligatoire et valeurs nulles
+
+- Index, Compression et le mode IME
+
+- Les autres propriétés
+
+Office 2013 - Access - Module 6 - Requêtes avancées (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Access - Module 6 - Requêtes avancées (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Les requêtes paramétrées
+
+- Requêtes avec champs calculés
+
+- Requête basée sur plusieurs tables
+
+- La requête 'Création de table'
+
+- La requête 'Mise à jour'
+
+- La requête 'Ajout'
+
+- La requête 'Suppression'
+
+- Les requêtes 'Analyse croisée'
+
+Office 2013 - Access - Module 7 - Formulaires et états - Import et export de données (e-Learning)
+
+Le programme détaillé du cours « Office 2013 - Access - Module 7 - Formulaires et états - Import et export de données (e-Learning) » organisé sous forme de cours en ligne d’une durée de 3 heures est déterminé comme suit :
+
+- Créer un formulaire
+
+- Créer un état
+
+- Sections des formulaires et des états
+
+- Manipuler les contrôles
+
+- Personnaliser un formulaire ou un état
+
+- La fenêtre de propriétés
+
+- L’importation et la liaison de données
+
+- L’exportation de données Office
+
+- Créer des macros simples
+
+Registre national des personnes physiques : mise à jour des données
+
+Le programme détaillé du cours « Registre national des personnes physiques : mise à jour des données » organisé sous forme de cours présentiel d’une durée de 3 heures est déterminé comme suit :
+
+- Objectifs du "nouveau" registre des personnes physiques
+
+- Principales différences entre l’ancien et le nouveau registre
+
+- Méthodes de recherche d’une personne physique dans le registre national
+
+- Immatriculation de personnes physiques
+
+- Mise à jour et correction de données personnelles d’un citoyen sur base de pièce(s) justificative(s)
+
+SAP-SIFIN : utilisation du système SAP - description des rapports SIFIN
+
+Le programme détaillé du cours « SAP-SIFIN : utilisation du système SAP - description des rapports SIFIN » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Rappels comptabilité budgétaire
+
+- Rappels « Utilisation » des rapports SAP (aspects techniques)
+
+- Description des rapports disponibles
+
+- Quels rapports répondent le mieux à quelles questions
+
+- Les principales zones renseignées dans les rapports
+
+- Les principales sources de mauvaise interprétation des résultats (opération saisies non visées, prise en compte des pré-engagements, critères de sélection ou filtrage mal renseignés)
+
+SAP-SIFIN : utilisation du système SAP - navigation de base
+
+Le programme détaillé du cours « SAP-SIFIN : utilisation du système SAP - navigation de base » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Présentation générale de SAP
+
+- Présentation générale du Centre de compétences SAP du CTIE
+
+- Organisation du support
+
+- Connexion et déconnexion
+
+- Utilisation des menus (sélection du menu, gestion des favoris, navigation dans les menus)
+
+- Les touches fonction standard (exécuter, sauvegarder, retour en arrière, abandon)
+
+- Les éléments des écrans (menus, boutons, zones de saisie, zones des écrans de sélection, tabstrips, tableaux, aides à la recherche, ...)
+
+- Exécution d’une transaction
+
+- Utilisation de rapports (sera approfondie dans le cours 'Utilisation des rapports')
+
+- Les messages d’erreurs (niveaux d’erreurs, texte explicatif, correction, ...)
+
+- « Trucs » utiles
+
+SAP-SIFIN : utilisation du système SAP - ordonnancement
+
+Le programme détaillé du cours « SAP-SIFIN : utilisation du système SAP - ordonnancement » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Le budget de l’État - quelques principes et cadre légal :
+
+  - Présentation sommaire des différentes étapes et procédures pratiques en relation avec l’exécution budgétaire telle que prévues par la loi du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État
+
+  - Explication de la structure du budget des dépenses.
+
+- Les engagements :
+
+  - Présentation des différents types d’engagements
+
+  - Saisie, modification et affichage d’engagements dans SAP
+
+  - Le code exécuté
+
+  - Exercices pratiques sur les engagements.
+
+- Les ordres de paiement :
+
+  - Présentation des différents types d’ordres de paiement
+
+  - Saisie, modification et affichage d’ordres de paiement dans SAP
+
+  - Traitement de la TVA lors de la saisie d’ordres de paiement et composition de la communication de paiement au fournisseur
+
+  - Exercices pratiques sur les ordres de paiement.
+
+- La validation des engagements et ordres de paiement :
+
+  - Les différentes transactions de validation dans SAP
+
+  - Exercices pratiques.
+
+- L'impression des engagements et ordres de paiement :
+
+  - Manipulation de la transaction d’impression pour engagements et ordres de paiement
+
+  - Gestion des formules de signature
+
+  - Exercices pratiques.
+
+- Le workflow des engagements et ordres de paiement :
+
+  - Consultation du parcours des pièces de la saisie au paiement
+
+  - Application aux pièces saisies dans le cadre des exercices.
+
+- Autres sujets abordés :
+
+  - Élaboration d’une comptabilité « analytique » rudimentaire avec les champs utilisateurs
+
+  - Trucs et astuces, questions, etc.
+
+SAP-SIFIN : utilisation du système SAP - ordonnancement avancé
+
+Le programme détaillé du cours « SAP-SIFIN : utilisation du système SAP - ordonnancement avancé » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Saisie des modifications de budget (supplément, restitution, transfert)
+
+- Report des engagements
+
+- Saisie des salaires, indemnités et cumuls
+
+- Saisie et impression des modifications de budget (transferts, suppléments, restitutions)
+
+- Ordonnances provisoires et leur régularisation
+
+- Chargement d’ordonnances à partir de fichiers Excel
+
+- Consultation du workflow
+
+- Gestion des suppléances pour le workflow
+
+- Astuces
+
+SAP-SIFIN : utilisation du système SAP - utilisation des rapports
+
+Le programme détaillé du cours « SAP-SIFIN : utilisation du système SAP - utilisation des rapports » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Retrouver les données : l’écran de sélection
+
+- Exécution d’un rapport en arrière-plan
+
+- Modifier la mise en forme des rapports
+
+- Download de rapports vers Word ou Excel
+
+- Les types de rapports
+
+- Sauvegarder et réutiliser la mise en forme définie par les utilisateurs
+
+SAP-SIFIN : Introduction à la technologie et au reporting Business Warehouse SAP de l’État Luxembourgeois
+
+Le programme détaillé du cours « SAP-SIFIN : Introduction à la technologie et au reporting Business Warehouse SAP de l’État Luxembourgeois » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Introduction au Business Warehouse de l’État : fonctionnement et contenu disponible
+
+- Maitrise du reporting de la comptabilité de l’État dans Excel
+
+SAP-SIFIN : initiation à la comptabilité des services de l’État à gestion séparée
+
+Le programme détaillé du cours « SAP-SIFIN : initiation à la comptabilité des services de l’État à gestion séparée » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- La dotation, les réservations, les engagements
+
+- Saisie, modification et affichage des réservations et engagements dans SAP
+
+- Le code exécuté
+
+- Les ordres de paiement
+
+- Les ordres d’acceptation et leur rapprochement
+
+- Présentation des différents types d’ordres de paiement
+
+- Saisie, modification et affichage d’ordres de paiement dans SAP
+
+- Traitement de la TVA lors de la saisie d’ordres de paiement et composition de la communication de paiement au fournisseur
+
+- Exercices pratiques sur les ordres de paiement
+
+- L’impression des réservations, engagements et ordres de paiement
+
+- Consultation des extraits bancaires
+
+- Autres sujets abordés
+
+- Élaboration d’une comptabilité 'analytique' rudimentaire avec les champs utilisateurs
+
+- Trucs et astuces, questions, etc.
+
+SAP HR : connaissances de base
+
+Le programme détaillé du cours « SAP HR : connaissances de base » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Le progiciel SAP
+
+- État des projets SAP en cours
+
+- Caractéristiques de SAP HR
+
+- L'environnement SAP HR
+
+SAP HR : carrières, rémunérations, consultation de données et reporting
+
+Le programme détaillé du cours « SAP HR : carrières, rémunérations, consultation de données et reporting » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Consultation des données de base
+
+- Consultation des données Carrière
+
+- Consultation des données Rémunération
+
+- Reporting
+
+Introduction à l’accessibilité des sites internet
+
+Le programme détaillé du cours « Introduction à l'accessibilité des sites internet » organisé sous forme de cours présentiel d’une durée de 3,5 heures est déterminé comme suit :
+
+- Sensibilisation aux handicaps
+
+- Évaluer l’accessibilité de son site
+
+- Rédiger de manière accessible
+
+- Comment évaluer et rendre accessibles des documents PDF simples
+
+Adobe Acrobat Pro DC
+
+Le programme détaillé du cours « Adobe Acrobat Pro DC » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Introduction à l’environnement du logiciel
+
+- La création d’un fichier PDF
+
+- L’exportation du contenu d’un fichier PDF
+
+- Commentaires et annotations
+
+- La création de formulaires
+
+- La sécurité des fichiers PDF
+
+- La modification d’un fichier PDF
+
+- L’impression d’un fichier PDF
+
+Insertion et rédaction de contenu pour la mise à jour de son site internet
+
+Le programme détaillé du cours « Insertion et rédaction de contenu pour la mise à jour de son site internet » organisé sous forme de cours présentiel d’une durée de 3,5 heures est déterminé comme suit :
+
+- Utiliser AEM (Adobe Experience Manager) pour administrer le contenu de son site Internet
+
+- Bases sur la structuration de contenu adapté aux spécificités d’Internet
+
+- Sensibilisation à l’accessibilité des sites web étatiques
+
+L’Union européenne sur internet
+
+Le programme détaillé du cours « L’Union européenne sur internet » organisé sous forme de cours présentiel d’une durée de 4 heures est déterminé comme suit :
+
+- Portal of the Publications Office of the EU – with focus on EU Publications (online library of the EU) and EU Directory (the official directory of the European Union)
+
+- EUR-Lex – access to European Union Law
+
+- EU Open Data Portal – access to European Union open data
+
+- TED – public procurement notices from the European Union and beyond
+
+- CORDIS – EU-funded research projects and their results
+
+VII. Dans le domaine « Langage administratif » :
+
+Langage administratif : français - perfectionnement (e-Learning)
+
+Le programme détaillé du cours « Langage administratif : français - perfectionnement (e-Learning) » organisé sous forme de cours en ligne d’une durée de 18 heures est déterminé comme suit :
+
+La formation proposée intègre une gamme complète de solutions d’apprentissage sur mesure pouvant se combiner selon les besoins des profils des apprenants.
+
+Langage administratif : anglais - perfectionnement (e-Learning)
+
+Le programme détaillé du cours « Langage administratif : anglais - perfectionnement (e-Learning) » organisé sous forme de cours en ligne d’une durée de 18 heures est déterminé comme suit :
+
+La formation proposée intègre une gamme complète de solutions d’apprentissage sur mesure pouvant se combiner selon les besoins des profils des apprenants.
+
+Orthographie vun der Lëtzebuerger Sprooch
+
+Le programme détaillé du cours « Orthographie vun der Lëtzebuerger Sprooch » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Vokalen
+
+- Konsonanten
+
+- Diphthongen
+
+- Zesummegesate Wierder
+
+- N-Regel
+
+- Friem Wierder
+
+- Vill praktesch Exercicen
+
+Redaktioun vun administrativem Courrier op Lëtzebuergesch mat der Hëllef vum lod.lu
+
+Le programme détaillé du cours « Redaktioun vun administrativem Courrier op Lëtzebuergesch mat der Hëllef vum lod.lu » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Presentatioun vum Lëtzebuerger Online Dictionnaire
+
+- Presentatioun vun de Méiglechkeeten, fir mam Dictionnaire ze schaffen
+
+- Praktesch Exercicen
+
+- Presentatioun vun orthographeschen a syntaktesche Regele fir d’Opsetze vun administrativem Courrier
+
+- Presentatioun vun de gängege Bréifstrukturen
+
+- Presentatioun vun de Méiglechkeeten, fir am professionellen Alldag mat E-Mailen ëmzegoen
+
+- Praktesch Exercicen
+
+Initiation à la langue portugaise
+
+Le programme détaillé du cours « Initiation à la langue portugaise » organisé sous forme de cours présentiel d’une durée de 15 heures est déterminé comme suit :
+
+- Contenus communicatifs :
+
+  - Établir un contact
+
+  - Saluer
+
+  - Attirer l’attention
+
+  - Prendre congé
+
+  - S’excuser
+
+  - Remercier
+
+  - Se présenter
+
+  - Donner son identité
+
+  - Donner ses coordonnées
+
+  - Donner des précisions
+
+  - Présenter quelqu’un
+
+  - Donner l’identité de quelqu’un
+
+  - Demander des précisions
+
+  - Demander des informations sur quelqu’un ou sur quelque chose
+
+  - Demander et donner la date, la saison
+
+- Thèmes – Lexique :
+
+  - Quelques formules de salutations formelles et informelles
+
+  - Nom
+
+  - Prénom
+
+  - État civil
+
+  - Date de naissance
+
+  - Âge
+
+  - Nationalité
+
+  - Profession
+
+  - Adresse
+
+  - Numéro de téléphone
+
+  - Noms de pays et de ville
+
+  - Prépositions de lieu
+
+  - Famille
+
+  - Communication dans la ville
+
+  - Quelques commerces
+
+  - Jours de semaine mois de l’année saisons
+
+- Grammaire :
+
+  - Différence tu et vous
+
+  - Pronoms personnels
+
+  - Sujets : je
+
+  - Verbe être
+
+  - Verbe avoir
+
+  - Masculin féminin
+
+  - Présent de quelques verbes du 1 ier groupe : habiter, étudier, travailler
+
+  - Les adjectifs possessifs : mon, ma, mes
+
+  - Pronoms personnels
+
+  - Les interrogatifs
+
+  - Articles définis et indéfinis
+
+  - Structure de phrase affirmative, négative
+
+Anglais pour les agents en charge de l’accueil du public
+
+Le programme détaillé du cours « Anglais pour les agents en charge de l’accueil du public » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+Focus on improving fluency and listening comprehension:
+
+Develop vocabulary – professional and general vocabulary; useful vocabulary and phrases for asking for giving information, giving directions
+
+Useful language and techniques for:
+
+In person:
+
+- welcoming visitors:
+
+- asking for names
+
+- asking for and giving information
+
+- asking for and giving personal details (names, numbers, addresses, reference numbers, spelling; etc.)
+
+- asking for further details to be able to forward the request to the right person/ministry/department
+
+- giving directions in town, in the building; correct forms of address; friendly yet professional
+
+- etc
+
+How to fill in a form; explaining the procedure once the form is completed:
+
+By phone:
+
+Taking down details (as above)
+
+- asking for and giving information
+
+- asking for further details to be able to forward the request to the right person/ministry/department
+
+- giving excuses
+
+- transferring calls
+
+- taking & giving messages
+
+- finishing a call
+
+- friendly yet professional
+
+- etc
+
+Help to complete a form; explaining the procedure once the form is completed
+
+By email:
+
+- opening and closing correspondence
+
+- formal versus informal phrases
+
+- asking for and responding to requests for information
+
+- confirming arrangements
+
+Useful language and techniques for:
+
+- connecting ideas
+
+- dealing with lack of vocabulary
+
+- checking understanding of self and others
+
+- asking for repetition without too much embarrassment
+
+Speaking
+
+Listening comprehension
+
+Cours de luxembourgeois A1.1
+
+Le programme détaillé du cours « Cours de luxembourgeois A1.1 » organisé sous forme de cours présentiel d’une durée de 45 heures est déterminé comme suit :
+
+- Prendre contact, saluer, donner ses coordonnées
+
+- Se présenter d’une manière simple et présenter quelqu’un
+
+- Utilisation des formes de politesse les plus élémentaires
+
+- Échanger des informations simples sur des activités quotidiennes : la famille, le travail, les loisirs, les vacances, la nourriture, etc.
+
+- Poser des questions simples sur des sujets familiers et concrets
+
+- Comprendre et donner des instructions simples sur des sujets familiers et concrets
+
+- Comprendre et donner des instructions simples sur des sujets concrets de la vie quotidienne
+
+Cours de luxembourgeois A1.2
+
+Le programme détaillé du cours « Cours de luxembourgeois A1.2 » organisé sous forme de cours présentiel d’une durée de 45 heures est déterminé comme suit :
+
+- Échanger des informations simples sur ses activités quotidiennes : la famille, le travail, les loisirs, les vacances, la nourriture, etc.
+
+- Communiquer simplement dans la vie de tous les jours : faire des achats, passer une commande au restaurant, mener un entretien avec un médecin
+
+- Parler de sa famille et de ses amis
+
+- Décrire une personne
+
+- Lire et remplir des formulaires simples, des invitations, etc.
+
+Rédaction administrative, prise de notes et comptes-rendus
+
+Le programme détaillé du cours « Rédaction administrative, prise de notes et comptes-rendus » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- La langue française au Luxembourg
+
+- Rédaction administrative : Cadre législatif
+
+- Rédaction administrative : Règles générales
+
+- Principes de la rédaction administrative
+
+- Les différents types de document
+
+- La charte graphique du gouvernement luxembourgeois
+
+- Modèles de documents à utiliser
+
+- La lettre
+
+- Majuscules et minuscules
+
+- Les principaux signes de ponctuation
+
+- Nouvelle orthographe de 1990
+
+- Sigles & acronymes
+
+- Compte rendu : Contenu, structure, techniques
+
+- Prise de notes : différents types, techniques, astuces, méthodes
+
+- Guides et autre documentation
+
+VIII. Dans le domaine « Sécurité sur le lieu de travail » :
+
+Een Dag fir däi Réck : port de charges
+
+Le programme détaillé du cours « Een Dag fir däi Réck : port de charges » organisé sous forme de cours présentiel d’une durée de 6.8 heures est déterminé comme suit :
+
+- Anatomie et physiologie de la colonne
+
+- Gestes et postures dans la vie privée et professionnelle
+
+- Apprentissage de la manutention de charges diverses et de l’utilisation des aides techniques
+
+- Conseils ergonomiques
+
+- Démonstrations d’exercices d’échauffement, d’étirements avec conseils d’hygiène de vie
+
+Een Dag fir däi Réck - travail de bureau
+
+Le programme détaillé du cours « Een Dag fir däi Réck - travail de bureau » organisé sous forme de cours présentiel d’une durée de 6.8 heures est déterminé comme suit :
+
+- Comprendre les risques pour le dos et les membres supérieurs et envisager des actions
+
+- Savoir bien placer son corps pour mieux le protéger
+
+- Régler son poste écran pour limiter les risques de TMS
+
+- Bouger : les bienfaits de l’activité physique
+
+Gestes de base de premiers secours physiques et psychologiques
+
+Le programme détaillé du cours « Gestes de base de premiers secours physiques et psychologiques » organisé sous forme de cours présentiel d’une durée de 18 heures est déterminé comme suit :
+
+- Introduction aux principes de premiers secours
+
+- Comportement sur le lieu de l’accident respectivement auprès du patient
+
+- L’évacuation du blessé hors de la zone de danger
+
+- Plaies et bandages
+
+- Brûlures et bandages triangulaires
+
+- Risques et arrêt d’un saignement
+
+- Fractures et immobilisation
+
+- L’inconscience et PLS, évacuation d’urgence et prise de Rautek
+
+- Réanimation
+
+- Initiation à la défibrillation semi-automatique
+
+- Les catégories de troubles en santé mentale
+
+- Les stéréotypes qui s’y attachent
+
+- Les comportements adaptés et les interventions efficaces
+
+- Orientation vers les ressources appropriées
+
+Psychosoziale Risiken erkennen und reagieren
+
+Le programme détaillé du cours « Psychosoziale Risiken erkennen und reagieren » organisé sous forme de cours présentiel d’une durée de 6 heures est déterminé comme suit :
+
+- Was sind eigentlich psychosoziale Risiken?
+
+- Was kann ich als Délégué à l’égalité tun, wenn die Risiken identifiziert sind?
+
+- Wie erkenne ich Folgen hoher psychosozialer Risiken?
+
+- Was kann ich als Délégué à l’égalité tun, wenn Folgen erkannt wurden?
+
+- Was kann meine Rolle grundsätzlich sein, wenn es Kolleginnen/Kollegen nicht gut geht am Arbeitsplatz?
+
+- Verdacht auf Mobbing/sexuelle Belästigung: Meine Rolle als Délégué à l’égalité.
+
+Sécurité dans la Fonction Publique
+
+Le programme détaillé du cours « Sécurité dans la Fonction Publique » organisé sous forme de cours présentiel d’une durée de 12 heures est déterminé comme suit :
+
+- Généralités (Historique, définitions, normes, exceptions, dispenses, expertises, réceptions etc...)
+
+- Organisation locale (responsable, délégué à la sécurité, comité local, équipe de sécurité)
+
+- Aménagements extérieurs
+
+- Résistance au feu
+
+- Agencement intérieur et compartimentage
+
+- Issues et dégagements
+
+- Installations techniques
+
+- Prévention des incendies
+
+- Évacuation
+
+- Accessibilité pour personnes à mobilité réduite
+
 ## Version consolidée applicable au 24/03/2022 : Règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux : 1° modifiant : a) le règlement grand-ducal modifié du 27 octobre 2000 déterminant à l’Institut national d’administration publique 1. l’organisation de la commission de coordination, 2. la collaboration avec les administrations et établissements publics de l’État et 3. la collaboration avec le Ministère de l’Intérieur et les administrations et établissements publics des communes ; b) le règlement grand-ducal modifié du 13 août 2002 portant institution d’une formation spéciale pour les fonctionnaires communaux ; et 2° abrogeant le règlement grand-ducal modifié du 27 octobre 2000 portant 1. organisation à l’Institut national d’administration publique de la division de la formation pendant le service provisoire du personnel des communes, des syndicats de communes et des établissements publics des communes et 2. modification du règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d’admission et d’examen des fonctionnaires communaux.
 
 #### Chapitre 1er Organisation de la formation pendant le service provisoire pour les fonctionnaires communaux
@@ -2283,22 +7546,22 @@ Le présent règlement sera publié au Journal officiel du Grand-Duché de Luxem
 
 Dans le cadre de la formation générale, les fonctionnaires en service provisoire suivent :
 
-1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les fonctionnaires en service provisoire, conformément à l’article 3 ;
+- un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les fonctionnaires en service provisoire, conformément à l’article 3 ;
 
-2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque fonctionnaire en service provisoire par le collège des bourgmestre et échevins conformément à l’article 4.
+- un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque fonctionnaire en service provisoire par le collège des bourgmestre et échevins conformément à l’article 4.
 
 <a id="art-n18a40"></a>
 ## Art. 2.
 
 La formation générale peut être organisée sous forme de :
 
-1. cours présentiels ;
+- cours présentiels ;
 
-2. cours en ligne ;
+- cours en ligne ;
 
-3. études personnelles ;
+- études personnelles ;
 
-4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
+- en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
 <a id="art-n18a83"></a>
 ## Art. 3.
@@ -2342,23 +7605,23 @@ Lorsque le fonctionnaire en service provisoire est absent lors d’une ou de plu
 
 Les fonctionnaires en service provisoire suivent des formations au choix parmi les matières énumérées à l’annexe du présent règlement pour un nombre minimum de 30 heures de formation, déterminées par le collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune. Sont concernés les fonctionnaires suivants :
 
-1. les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A1, sous-groupe administratif et sous-groupe à attributions particulières de la rubrique « Administration générale », à l’exception de ceux énumérés à l’article 12, paragraphe 1 er , alinéa 7, points 4° à 12° du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux et relevant de la rubrique « Administration générale » ;
+- les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A1, sous-groupe administratif et sous-groupe à attributions particulières de la rubrique « Administration générale », à l’exception de ceux énumérés à l’article 12, paragraphe 1 er , alinéa 7, points 4° à 12° du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux et relevant de la rubrique « Administration générale » ;
 
-2. les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A1, sous-groupe scientifique et technique et sous-groupe éducatif et psycho-social de la rubrique « Administration générale » ;
+- les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A1, sous-groupe scientifique et technique et sous-groupe éducatif et psycho-social de la rubrique « Administration générale » ;
 
-3. les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A1, sous-groupe enseignement musical de la rubrique « Enseignement » ;
+- les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A1, sous-groupe enseignement musical de la rubrique « Enseignement » ;
 
-4. les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A2, sous-groupe administratif et sous-groupe scientifique et technique de la rubrique « Administration générale » ;
+- les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A2, sous-groupe administratif et sous-groupe scientifique et technique de la rubrique « Administration générale » ;
 
-5. les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A2, sous-groupe éducatif et psycho-social de la rubrique « Administration générale » ;
+- les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A2, sous-groupe éducatif et psycho-social de la rubrique « Administration générale » ;
 
-6. les fonctionnaires en service provisoire de la catégorie de traitement B, groupe de traitement B1, sous-groupe administratif et sous-groupe à attributions particulières de la rubrique « Administration générale », à l’exception de ceux qui assument les fonctions de secrétaire ou de secrétaire-rédacteur ;
+- les fonctionnaires en service provisoire de la catégorie de traitement B, groupe de traitement B1, sous-groupe administratif et sous-groupe à attributions particulières de la rubrique « Administration générale », à l’exception de ceux qui assument les fonctions de secrétaire ou de secrétaire-rédacteur ;
 
-7. les fonctionnaires en service provisoire de la catégorie de traitement B, groupe de traitement B1, sous-groupe technique et sous-groupe éducatif et psycho-social de la rubrique « Administration générale » ;
+- les fonctionnaires en service provisoire de la catégorie de traitement B, groupe de traitement B1, sous-groupe technique et sous-groupe éducatif et psycho-social de la rubrique « Administration générale » ;
 
-8. les fonctionnaires en service provisoire de la catégorie de traitement C, groupe de traitement C1, sous-groupe administratif de la rubrique « Administration générale » ;
+- les fonctionnaires en service provisoire de la catégorie de traitement C, groupe de traitement C1, sous-groupe administratif de la rubrique « Administration générale » ;
 
-9. les fonctionnaires en service provisoire de la catégorie de traitement C, groupe de traitement C1, sous-groupe technique et les fonctionnaires en service provisoire de la catégorie de traitement D.
+- les fonctionnaires en service provisoire de la catégorie de traitement C, groupe de traitement C1, sous-groupe technique et les fonctionnaires en service provisoire de la catégorie de traitement D.
 
 Pour chaque matière, l’Institut propose, en collaboration avec le ministre de l’Intérieur, au ministre un programme détaillé et la forme d’organisation de la formation.
 
@@ -2384,13 +7647,13 @@ La demande d’assimilation est faite par écrit et adressée au ministre. Ce de
 
 La demande mentionne :
 
-1. le sujet de la formation, accompagné d’un bref descriptif ;
+- le sujet de la formation, accompagné d’un bref descriptif ;
 
-2. l’organisme ayant assuré la formation ;
+- l’organisme ayant assuré la formation ;
 
-3. la date et le lieu du déroulement de la formation ;
+- la date et le lieu du déroulement de la formation ;
 
-4. la durée effective de la formation.
+- la durée effective de la formation.
 
 La demande doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que le fonctionnaire en service provisoire a effectivement participé à la formation en question.
 
@@ -2562,15 +7825,15 @@ Sur base du nombre total de points obtenus par le candidat dans toutes les épre
 
 Un procès-verbal est dressé, qui renseigne :
 
-1. le nombre total de points pouvant être obtenus par chaque candidat pour chaque épreuve de l’examen de fin de formation générale ;
+- le nombre total de points pouvant être obtenus par chaque candidat pour chaque épreuve de l’examen de fin de formation générale ;
 
-2. le nombre de points obtenus par chaque candidat pour chaque épreuve de l’examen de fin de formation générale ;
+- le nombre de points obtenus par chaque candidat pour chaque épreuve de l’examen de fin de formation générale ;
 
-3. le nombre total de points pouvant être obtenus par chaque candidat dans le cadre de l’examen de fin de formation générale ;
+- le nombre total de points pouvant être obtenus par chaque candidat dans le cadre de l’examen de fin de formation générale ;
 
-4. le nombre total des points obtenus par chaque candidat dans le cadre de l’examen de fin de formation générale ;
+- le nombre total des points obtenus par chaque candidat dans le cadre de l’examen de fin de formation générale ;
 
-5. pour chaque candidat le prononcé de la commission d’examen concernant la réussite, l’ajournement ou l’échec à l’examen de fin de formation générale.
+- pour chaque candidat le prononcé de la commission d’examen concernant la réussite, l’ajournement ou l’échec à l’examen de fin de formation générale.
 
 Ce procès-verbal est signé par au moins trois membres de la commission d’examen.
 
@@ -2614,11 +7877,11 @@ Le procès-verbal de la commission de coordination de l’Institut est communiqu
 
 Le plan d’insertion professionnelle prévu à l’article 4, paragraphes 4 et 5 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux comprend pour chaque fonctionnaire en service provisoire :
 
-1. la désignation d’un patron de stage ;
+- la désignation d’un patron de stage ;
 
-2. la remise d’un livret d’accueil ;
+- la remise d’un livret d’accueil ;
 
-3. l’établissement d’un carnet de stage pour les fonctionnaires en service provisoire des carrières visées à l’article 4.
+- l’établissement d’un carnet de stage pour les fonctionnaires en service provisoire des carrières visées à l’article 4.
 
 <a id="art-n1925b"></a>
 ## Art. 21.
@@ -2635,19 +7898,19 @@ L’identité du patron de stage ainsi que celle du fonctionnaire en service pro
 
 Le patron de stage est chargé de guider le fonctionnaire pendant toute la période de son service provisoire. Cette mission consiste :
 
-1. à introduire le fonctionnaire en service provisoire dans son administration et à le familiariser avec son environnement administratif et avec le personnel en place ;
+- à introduire le fonctionnaire en service provisoire dans son administration et à le familiariser avec son environnement administratif et avec le personnel en place ;
 
-2. à initier le fonctionnaire en service provisoire dans ses fonctions et dans ses missions ;
+- à initier le fonctionnaire en service provisoire dans ses fonctions et dans ses missions ;
 
-3. à assister et à conseiller le fonctionnaire tout au long de son service provisoire ;
+- à assister et à conseiller le fonctionnaire tout au long de son service provisoire ;
 
-4. à soutenir le fonctionnaire en service provisoire dans ses efforts à s’intégrer dans son environnement administratif, à assumer les missions qui lui sont dévolues, à communiquer avec ses collègues et avec le public et à le motiver ;
+- à soutenir le fonctionnaire en service provisoire dans ses efforts à s’intégrer dans son environnement administratif, à assumer les missions qui lui sont dévolues, à communiquer avec ses collègues et avec le public et à le motiver ;
 
-5. à superviser la formation spéciale du fonctionnaire en service provisoire ;
+- à superviser la formation spéciale du fonctionnaire en service provisoire ;
 
-6. à préparer le fonctionnaire en service provisoire à l’examen de formation spéciale ;
+- à préparer le fonctionnaire en service provisoire à l’examen de formation spéciale ;
 
-7. à gérer le carnet de stage du fonctionnaire en service provisoire.
+- à gérer le carnet de stage du fonctionnaire en service provisoire.
 
 (3)
 
@@ -2676,27 +7939,27 @@ Le livret d’accueil est remis au fonctionnaire en service provisoire au moment
 
 Le livret d’accueil comprend un volet en relation avec l’Institut et un volet en relation avec l’administration communale ou l’établissement public des communes.
 
-1. Le volet concernant l’Institut comprend les informations suivantes :
+- Le volet concernant l’Institut comprend les informations suivantes :
 
-1. les principales dispositions légales et réglementaires relatives à la formation à l’Institut ;
+  - les principales dispositions légales et réglementaires relatives à la formation à l’Institut ;
 
-2. les programmes de formation ;
+  - les programmes de formation ;
 
-3. le cas échéant, l’organisation de la partie de l’examen d’admission définitive sanctionnant la formation générale.
+  - le cas échéant, l’organisation de la partie de l’examen d’admission définitive sanctionnant la formation générale.
 
-1. Le volet concernant les administrations communales comprend les informations suivantes :
+- Le volet concernant les administrations communales comprend les informations suivantes :
 
-1. la loi communale ;
+  - la loi communale ;
 
-2. un organigramme de l’administration communale ou de l’établissement public des communes ;
+  - un organigramme de l’administration communale ou de l’établissement public des communes ;
 
-3. une description précise des missions et des travaux qui incombent au fonctionnaire en service provisoire ;
+  - une description précise des missions et des travaux qui incombent au fonctionnaire en service provisoire ;
 
-4. une information détaillée sur l’organisation administrative interne du service et sur les procédures d’ordre interne à respecter ainsi que, le cas échéant, sur les règles de comportement et de communication élaborées par l’administration face aux citoyens et aux usagers de l’administration ;
+  - une information détaillée sur l’organisation administrative interne du service et sur les procédures d’ordre interne à respecter ainsi que, le cas échéant, sur les règles de comportement et de communication élaborées par l’administration face aux citoyens et aux usagers de l’administration ;
 
-5. une note sur l’organisation du temps de travail et le contrôle des présences, sur la réglementation relative aux différents types de congés et, le cas échéant, sur le système des permanences à assurer ;
+  - une note sur l’organisation du temps de travail et le contrôle des présences, sur la réglementation relative aux différents types de congés et, le cas échéant, sur le système des permanences à assurer ;
 
-6. un plan détaillé concernant l’organisation de la formation spéciale, le programme à étudier pour l’examen de fin de for­mation spéciale ainsi que les dates de l’examen de fin de formation spéciale.
+  - un plan détaillé concernant l’organisation de la formation spéciale, le programme à étudier pour l’examen de fin de for­mation spéciale ainsi que les dates de l’examen de fin de formation spéciale.
 
 <a id="art-n1939e"></a>
 ## Art. 23.
@@ -2707,25 +7970,25 @@ Le dossier-formation est élaboré au début du service provisoire par l’admin
 
 Sont à verser au carnet de stage toutes les pièces relatives à la prestation du fonctionnaire en service provisoire au cours de sa période de formation générale à l’Institut :
 
-1. les résultats des contrôles des connaissances, obtenus en cours de formation générale ;
+- les résultats des contrôles des connaissances, obtenus en cours de formation générale ;
 
-2. un rapport de fin de formation générale du fonctionnaire en service provisoire ;
+- un rapport de fin de formation générale du fonctionnaire en service provisoire ;
 
-3. le procès-verbal de la commission d’examen chargée de procéder à la partie de l’examen de formation générale et qui renseigne le nombre de points obtenus effectivement par le candidat dans chaque matière et le nombre maximum de points par matière.
+- le procès-verbal de la commission d’examen chargée de procéder à la partie de l’examen de formation générale et qui renseigne le nombre de points obtenus effectivement par le candidat dans chaque matière et le nombre maximum de points par matière.
 
 Sont à insérer de même dans le carnet de stage tous les actes administratifs en relation avec la formation spéciale du fonctionnaire en service provisoire dans son administration ou dans son établissement public d’affectation :
 
-1. le cas échéant, les attestations de participation aux cours de formation spéciale ;
+- le cas échéant, les attestations de participation aux cours de formation spéciale ;
 
-2. le cas échéant, les notes obtenues aux examens partiels de la formation spéciale ;
+- le cas échéant, les notes obtenues aux examens partiels de la formation spéciale ;
 
-3. les programmes de la formation spéciale ;
+- les programmes de la formation spéciale ;
 
-4. les résultats de l’examen de fin de formation spéciale ;
+- les résultats de l’examen de fin de formation spéciale ;
 
-5. les rapports intermédiaires et le rapport final du patron de stage, complétés le cas échéant par les observations du fonctionnaire en service provisoire ;
+- les rapports intermédiaires et le rapport final du patron de stage, complétés le cas échéant par les observations du fonctionnaire en service provisoire ;
 
-6. le procès-verbal de la commission d’examen chargée de procéder à la partie de l’examen d’admission définitive sanc­tionnant la formation spéciale et qui renseigne le nombre de points obtenus effectivement par le candidat dans chaque matière et le nombre maximum de points par matière.
+- le procès-verbal de la commission d’examen chargée de procéder à la partie de l’examen d’admission définitive sanc­tionnant la formation spéciale et qui renseigne le nombre de points obtenus effectivement par le candidat dans chaque matière et le nombre maximum de points par matière.
 
 Les pièces prévues à l’alinéa 3 sont versées au carnet de stage au fur et à mesure que le fonctionnaire en service provisoire progresse dans la formation générale.
 
@@ -2742,22 +8005,22 @@ Le patron de stage est tenu de compléter le carnet de stage avec toutes les pi�
 
 Dans le cadre de la formation de début de carrière, les employés communaux suivent :
 
-1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les employés, conformément à l’article 26 ;
+- un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les employés, conformément à l’article 26 ;
 
-2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque employé par le collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune conformément à l’article 27.
+- un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque employé par le collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune conformément à l’article 27.
 
 <a id="art-n1947e"></a>
 ## Art. 25.
 
 La formation de début de carrière peut être organisée sous forme de :
 
-1. cours présentiels ;
+- cours présentiels ;
 
-2. cours en ligne ;
+- cours en ligne ;
 
-3. études personnelles ;
+- études personnelles ;
 
-4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
+- en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
 <a id="art-n194c1"></a>
 ## Art. 26.
@@ -2804,13 +8067,13 @@ La demande d’assimilation est faite par écrit et adressée au ministre. Ce de
 
 Une telle demande d’assimilation mentionne :
 
-1. le sujet de la formation accompagné d’un bref descriptif ;
+- le sujet de la formation accompagné d’un bref descriptif ;
 
-2. l’organisme ayant assuré la formation ;
+- l’organisme ayant assuré la formation ;
 
-3. la date et le lieu du déroulement de la formation ;
+- la date et le lieu du déroulement de la formation ;
 
-4. la durée effective de la formation.
+- la durée effective de la formation.
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que l’employé communal a effectivement participé à la formation en question.
 
@@ -2845,13 +8108,13 @@ La demande d’assimilation est faite par écrit et adressée au ministre. Ce de
 
 Une telle demande d’assimilation mentionne :
 
-1. le sujet de la formation accompagné d’un bref descriptif ;
+- le sujet de la formation accompagné d’un bref descriptif ;
 
-2. l’organisme ayant assuré la formation ;
+- l’organisme ayant assuré la formation ;
 
-3. la date et le lieu du déroulement de la formation ;
+- la date et le lieu du déroulement de la formation ;
 
-4. la durée effective de la formation.
+- la durée effective de la formation.
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que l’employé communal a effectivement participé à la formation en question.
 
@@ -2890,17 +8153,51 @@ Le cas échéant, le chargé de direction peut proposer au ministre la révocati
 <a id="art-n197db"></a>
 ## Art. 32.
 
-L’article 1er du règlement grand-ducal modifié du 13 août 2002 portant institution d’une formation spéciale pour les fonctionnaires communaux est remplacé comme suit :« Art. 1er.La formation spéciale s’applique aux fonctionnaires en service provisoire énumérés à l’article 4, paragraphe 1er, points 1°, 4°, 6° et 8° du règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux. ».
+L’article 1er du règlement grand-ducal modifié du 13 août 2002 portant institution d’une formation spéciale pour les fonctionnaires communaux est remplacé comme suit :
+
+<a id="art-n19815"></a>
+## « Art. 1er.
+
+La formation spéciale s’applique aux fonctionnaires en service provisoire énumérés à l’article 4, paragraphe 1er, points 1°, 4°, 6° et 8° du règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux. ».
 
 <a id="art-n19837"></a>
 ## Art. 33.
 
-L’article 4 du même règlement est remplacé comme suit :« Art. 4.Est admissible à l’examen de fin de formation spéciale, le fonctionnaire en service provisoire qui a suivi l’intégralité des formations de la formation spéciale prévues, à moins d’en avoir été dispensé par le ministre ayant les Affaires intérieures dans ses attributions, en application de l’alinéa 2. La demande d’admissibilité à l’examen de fin de formation spéciale est adressée par le fonctionnaire en service provisoire au ministre ayant les Affaires intérieures dans ses attributions.Une dispense de participation à une ou plusieurs formations de la formation spéciale peut être accordée au fonctionnaire en service provisoire par le ministre précité pour des raisons exceptionnelles dûment motivées.Le ministre ayant les Affaires intérieures dans ses attributions examine les conditions de formation spéciale requises du fonctionnaire en service provisoire et statue sur l’admissibilité du fonctionnaire en service provisoire. L’admissibilité à l’examen de fin de formation spéciale peut être prononcée même si le fonctionnaire en service provisoire n’a pas encore passé l’examen de fin de formation générale à l’Institut national d’administration publique.Le ministre précité informe le fonctionnaire en service provisoire de sa décision. ».
+L’article 4 du même règlement est remplacé comme suit :
+
+<a id="art-n1986d"></a>
+## « Art. 4.
+
+Est admissible à l’examen de fin de formation spéciale, le fonctionnaire en service provisoire qui a suivi l’intégralité des formations de la formation spéciale prévues, à moins d’en avoir été dispensé par le ministre ayant les Affaires intérieures dans ses attributions, en application de l’alinéa 2. La demande d’admissibilité à l’examen de fin de formation spéciale est adressée par le fonctionnaire en service provisoire au ministre ayant les Affaires intérieures dans ses attributions.
+
+Une dispense de participation à une ou plusieurs formations de la formation spéciale peut être accordée au fonctionnaire en service provisoire par le ministre précité pour des raisons exceptionnelles dûment motivées.
+
+Le ministre ayant les Affaires intérieures dans ses attributions examine les conditions de formation spéciale requises du fonctionnaire en service provisoire et statue sur l’admissibilité du fonctionnaire en service provisoire. L’admissibilité à l’examen de fin de formation spéciale peut être prononcée même si le fonctionnaire en service provisoire n’a pas encore passé l’examen de fin de formation générale à l’Institut national d’administration publique.
+
+Le ministre précité informe le fonctionnaire en service provisoire de sa décision. ».
 
 <a id="art-n1989f"></a>
 ## Art. 34.
 
-À l’article 6 du même règlement, le dernier alinéa est remplacé par huit alinéas nouveaux, qui prennent la teneur suivante :« Le maximum de points à attribuer s’élève pour chaque épreuve de l’examen de fin de formation spéciale à 60 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à 30.A réussi à l’examen de fin de formation spéciale, le candidat qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen et une note suffisante dans chacune des épreuves de l’examen de fin de formation spéciale.A échoué à l’examen de fin de formation spéciale, le candidat qui n’a pas obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen ou qui a obtenu une note insuffisante dans plus d’une épreuve de l’examen de fin de formation spéciale.Est ajourné à une épreuve de l’examen de fin de formation spéciale, le candidat qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen et une seule note insuffisante dans l’épreuve de l’examen de fin de formation spéciale concernée.A échoué à l’examen de fin de formation spéciale, le candidat qui n’a pas obtenu une note suffisante dans la matière dans laquelle il a été ajourné.Un échec à l’examen de fin de formation spéciale entraîne pour le candidat la possibilité de se présenter une seconde fois à cet examen.Le fait pour le candidat de ne pas se présenter une seconde fois à l’examen de fin de formation spéciale ou de subir un deuxième échec à l’examen de fin de formation spéciale est éliminatoire.Lorsque le candidat est absent lors d’une épreuve de l’examen de fin de formation spéciale, il est tenu de transmettre au ministre ayant les Affaires intérieures dans ses attributions, au plus tard le jour ouvrable suivant, un certificat indiquant la raison dûment justifiée de son absence. Le ministre ayant les Affaires intérieures dans ses attributions l’inscrit à une nouvelle épreuve de l’examen de fin de formation spéciale de la formation concernée.À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti, le candidat obtient d’office seulement 1 point pour cette épreuve de l’examen de fin de formation spéciale. ».
+À l’article 6 du même règlement, le dernier alinéa est remplacé par huit alinéas nouveaux, qui prennent la teneur suivante :
+
+« Le maximum de points à attribuer s’élève pour chaque épreuve de l’examen de fin de formation spéciale à 60 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à 30.
+
+A réussi à l’examen de fin de formation spéciale, le candidat qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen et une note suffisante dans chacune des épreuves de l’examen de fin de formation spéciale.
+
+A échoué à l’examen de fin de formation spéciale, le candidat qui n’a pas obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen ou qui a obtenu une note insuffisante dans plus d’une épreuve de l’examen de fin de formation spéciale.
+
+Est ajourné à une épreuve de l’examen de fin de formation spéciale, le candidat qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen et une seule note insuffisante dans l’épreuve de l’examen de fin de formation spéciale concernée.
+
+A échoué à l’examen de fin de formation spéciale, le candidat qui n’a pas obtenu une note suffisante dans la matière dans laquelle il a été ajourné.
+
+Un échec à l’examen de fin de formation spéciale entraîne pour le candidat la possibilité de se présenter une seconde fois à cet examen.
+
+Le fait pour le candidat de ne pas se présenter une seconde fois à l’examen de fin de formation spéciale ou de subir un deuxième échec à l’examen de fin de formation spéciale est éliminatoire.
+
+Lorsque le candidat est absent lors d’une épreuve de l’examen de fin de formation spéciale, il est tenu de transmettre au ministre ayant les Affaires intérieures dans ses attributions, au plus tard le jour ouvrable suivant, un certificat indiquant la raison dûment justifiée de son absence. Le ministre ayant les Affaires intérieures dans ses attributions l’inscrit à une nouvelle épreuve de l’examen de fin de formation spéciale de la formation concernée.
+
+À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti, le candidat obtient d’office seulement 1 point pour cette épreuve de l’examen de fin de formation spéciale. ».
 
 <a id="art-n1992b"></a>
 ## Art. 35.
@@ -2937,6 +8234,190 @@ La référence au présent règlement se fait sous la forme suivante : « règle
 
 Notre ministre ayant les Affaires communales dans ses attributions et Notre ministre ayant la Fonction publique dans ses attributions, sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement, qui sera publié au Journal officiel du Grand-Duché de Luxembourg.
 
+Les matières des formations au choix au sens des articles 4 et 27 sont les suivantes :
+
+- Dans le domaine « Connaissances générales » :
+
+  - Europe : histoire de l’intégration européenne
+
+  - Europe : l’actualité
+
+  - Europe : le fonctionnement
+
+  - Grand-Duché de Luxembourg : économie
+
+  - Grand-Duché de Luxembourg : histoire
+
+  - Grand-Duché de Luxembourg : image de marque
+
+  - Grand-Duché de Luxembourg : institutions et société
+
+  - Grand-Duché de Luxembourg : justice
+
+  - Grand-Duché de Luxembourg : sécurité sociale
+
+  - Grand-Duché de Luxembourg : statistiques
+
+  - Institutions européennes et internationales
+
+  - Le Luxembourg et la Grande Région
+
+- Dans le domaine « Droit » :
+
+  - Accès à la législation
+
+  - Droit administratif
+
+  - Droit civil
+
+  - Droit commercial
+
+  - Droit constitutionnel
+
+  - Droit de l’Union européenne
+
+  - Droit de la sécurité sociale
+
+  - Droit du travail
+
+  - Droit fiscal
+
+  - Droits d’auteur au Luxembourg
+
+  - Introduction générale au droit
+
+  - Marchés publics
+
+  - Méthodes et techniques législatives
+
+  - Responsabilité civile de l’État
+
+- Dans le domaine « Droits et devoirs des agents publics » :
+
+  - Discipline dans la fonction publique
+
+  - Diversité dans la fonction publique
+
+  - Ergonomie
+
+  - Politiques de l’égalité des chances
+
+  - Protection des personnes à l’égard du traitement de données à caractère personnel
+
+  - Santé au travail
+
+  - Sécurité dans la Fonction publique
+
+  - Système de rémunération dans l’administration publique
+
+  - Système de pension des agents publics
+
+- Dans le domaine « Gestion publique » :
+
+  - Accueil du public
+
+  - Budget et comptabilité de l’État
+
+  - Conduite de réunion
+
+  - Développement de l’organisation
+
+  - Évaluation d’impact et simplification administrative
+
+  - Gestion d’équipe
+
+  - Gestion de la documentation
+
+  - Gestion de la qualité
+
+  - Gestion de projets
+
+  - Gestion des réclamations
+
+  - Gestion des ressources humaines
+
+  - Gestion du changement
+
+  - Éthique et intégrité dans l’administration
+
+  - Lecture rapide et efficace
+
+  - Plates-formes officielles d’échange de données
+
+  - Principes de co-création et de gestion participative
+
+  - Prise de notes et comptes rendus
+
+  - Techniques de management
+
+  - Techniques de négociation
+
+- Dans le domaine « Communication » :
+
+  - Communication avec le citoyen
+
+  - Communication interne
+
+  - Communication non verbale
+
+  - Communication avec des personnes en situation de handicap
+
+  - Parler en public
+
+  - Techniques de communication
+
+  - Techniques de médiation
+
+  - Techniques de présentation
+
+  - Travail en équipe
+
+  - Usage de médias sociaux
+
+- Dans le domaine « Informatique » :
+
+  - Essentiel sur l’ordinateur
+
+  - Essentiel sur le web
+
+  - Traitement de texte
+
+  - Tableur
+
+  - Bases de données
+
+  - Présentation
+
+  - Collaboration en ligne
+
+  - Sécurité informatique
+
+  - Traitement d’images
+
+  - Maîtrise du clavier
+
+- Dans le domaine « Langage administratif » :
+
+  - Allemand
+
+  - Anglais
+
+  - Français
+
+  - Luxembourgeois
+
+  - Portugais
+
+- Dans le domaine « Sécurité sur le lieu de travail » :
+
+  - Premier secours
+
+  - Défibrillation semi-automatique
+
+  - Lutte et prévention contre l’incendie
+
+  - Premiers secours psychologiques
+
 ## Connaissance des langues
 
 ## Règlement grand-ducal du 5 mars 2004 déterminant les emplois dans les administrations de l'Etat et les établissements publics pour lesquels la connaissance de l'une ou de l'autre des trois langues administratives n'est pas reconnue nécessaire en raison de la nature et du niveau de responsabilité de ces emplois.
@@ -2948,27 +8429,27 @@ Dans le secteur de l'enseignement sont désignés comme emplois pour lesquels la
 
 - Ministère de la Culture, de l'Enseignement Supérieur et de la Recherche
 
-- personnel enseignant-Institut Supérieur d'Etudes et de Recherches Pédagogiques
+  - personnel enseignant-Institut Supérieur d'Etudes et de Recherches Pédagogiques
 
-- personnel enseignant-Institut d'Etudes Educatives et Sociales
+  - personnel enseignant-Institut d'Etudes Educatives et Sociales
 
 - Ministère de l'Education Nationale, de la Formation Professionnelle et des Sports
 
-- chargé de cours-Service de la Formation des Adultes
+  - chargé de cours-Service de la Formation des Adultes
 
-- chargé de cours-Centre de Langues Luxembourg
+  - chargé de cours-Centre de Langues Luxembourg
 
-- chargés de cours-Classes Primaires Luxembourgeoises à Régime Linguistique Francophone
+  - chargés de cours-Classes Primaires Luxembourgeoises à Régime Linguistique Francophone
 
-- chargé d'éducation à durée déterminée-Enseignement Secondaire
+  - chargé d'éducation à durée déterminée-Enseignement Secondaire
 
-- chargé d'éducation à durée déterminée-Enseignement Secondaire Technique
+  - chargé d'éducation à durée déterminée-Enseignement Secondaire Technique
 
-- chargé de cours-Centres de Formation Professionnelle Continue
+  - chargé de cours-Centres de Formation Professionnelle Continue
 
-- collaborateur scientifique-Service de Coordination de la Recherche et de l'Innovation Pédagogiques et Technologiques
+  - collaborateur scientifique-Service de Coordination de la Recherche et de l'Innovation Pédagogiques et Technologiques
 
-- informaticien-Centre de Technologie de l'Education
+  - informaticien-Centre de Technologie de l'Education
 
 <a id="art-n19cb4"></a>
 ## Art. 2.
@@ -3008,31 +8489,31 @@ Les épreuves de langues ont pour objet d’apprécier, sous forme d’épreuves
 
 En ce qui concerne les épreuves de langues organisées pour la catégorie de traitement et d’indemnité A, les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
 
-1. niveau C1 pour la première langue;
+- niveau C1 pour la première langue;
 
-2. niveau B2 pour la deuxième langue;
+- niveau B2 pour la deuxième langue;
 
-3. niveau B1 pour la troisième langue.
+- niveau B1 pour la troisième langue.
 
 2.
 
 En ce qui concerne les épreuves de langues organisées pour la catégorie de traitement et d’indemnité B, les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
 
-1. niveau B2 pour la première langue;
+- niveau B2 pour la première langue;
 
-2. niveau B1 pour la deuxième langue;
+- niveau B1 pour la deuxième langue;
 
-3. niveau A2 pour la troisième langue.
+- niveau A2 pour la troisième langue.
 
 3.
 
 En ce qui concerne les épreuves de langues organisées pour les catégories de traitement et d’indemnité C et D, les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
 
-1. niveau B1 pour la première langue;
+- niveau B1 pour la première langue;
 
-2. niveau A2 pour la deuxième langue;
+- niveau A2 pour la deuxième langue;
 
-3. niveau A1 pour la troisième langue.
+- niveau A1 pour la troisième langue.
 
 II.
 

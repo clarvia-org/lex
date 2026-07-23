@@ -52,39 +52,39 @@ Les épreuves préliminaires comportent chaque fois une épreuve écrite et une 
 
 L’assistance des membres du jury aux épreuves préliminaires est la suivante :
 
-1. au moins deux membres assistent aux épreuves écrites ;
+- au moins deux membres assistent aux épreuves écrites ;
 
-2. au moins deux membres assistent aux épreuves orales.
+- au moins deux membres assistent aux épreuves orales.
 
 <a id="art-5"></a>
 ## Art. 5.
 
 En ce qui concerne les épreuves préliminaires, les dispenses suivantes sont accordées par décision du ministre :
 
-1. le candidat ayant obtenu dans un pays ou une région de langue française ou allemande, un diplôme d’enseignement supérieur sanctionnant un cycle d’études dans ce pays ou cette région d’au moins deux ans à temps plein ou le candidat détenteur d’un diplôme de brevet de maîtrise obtenu dans un pays ou une région de langue française ou allemande, est dispensé des épreuves préliminaires, respectivement de français ou d’allemand visées à l’article 4 ;
+- le candidat ayant obtenu dans un pays ou une région de langue française ou allemande, un diplôme d’enseignement supérieur sanctionnant un cycle d’études dans ce pays ou cette région d’au moins deux ans à temps plein ou le candidat détenteur d’un diplôme de brevet de maîtrise obtenu dans un pays ou une région de langue française ou allemande, est dispensé des épreuves préliminaires, respectivement de français ou d’allemand visées à l’article 4 ;
 
-2. le candidat ayant obtenu ou un diplôme d’enseignement supérieur dans le système d’enseignement supérieur luxembourgeois lui permettant d’accéder à une fonction enseignante ou ayant accompli la dernière année dans une institution d’enseignement supérieur à caractère universitaire est dispensé soit de l’épreuve préliminaire de français si le diplôme certifie des programmes d’études organisés majoritairement en langue française, soit de l’épreuve préliminaire d’allemand si le diplôme certifie des programmes d’études organisés majoritairement en langue allemande ;
+- le candidat ayant obtenu ou un diplôme d’enseignement supérieur dans le système d’enseignement supérieur luxembourgeois lui permettant d’accéder à une fonction enseignante ou ayant accompli la dernière année dans une institution d’enseignement supérieur à caractère universitaire est dispensé soit de l’épreuve préliminaire de français si le diplôme certifie des programmes d’études organisés majoritairement en langue française, soit de l’épreuve préliminaire d’allemand si le diplôme certifie des programmes d’études organisés majoritairement en langue allemande ;
 
-3. le candidat justifiant d’une scolarité d’au moins treize ans dans le système luxembourgeois ou le candidat détenteur d’un diplôme luxembourgeois de fin d’études secondaires, du diplôme de technicien ou du brevet de maîtrise est dispensé de l’épreuve préliminaire de luxembourgeois visée à l’article 4 ;
+- le candidat justifiant d’une scolarité d’au moins treize ans dans le système luxembourgeois ou le candidat détenteur d’un diplôme luxembourgeois de fin d’études secondaires, du diplôme de technicien ou du brevet de maîtrise est dispensé de l’épreuve préliminaire de luxembourgeois visée à l’article 4 ;
 
-4. le candidat ayant obtenu un certificat de compétences conformément au Cadre européen commun de référence pour les langues et attestant qu’il a atteint le niveau de compétences requis pour la carrière qu’il vise au sein de l’État, à savoir :
+- le candidat ayant obtenu un certificat de compétences conformément au Cadre européen commun de référence pour les langues et attestant qu’il a atteint le niveau de compétences requis pour la carrière qu’il vise au sein de l’État, à savoir :
 
-1. pour la catégorie de traitement A, groupe de traitement A1 et A2, le candidat doit être détenteur d’un certificat attestant le niveau de compétence C1 tant pour l’oral que pour l’écrit ;
+  - pour la catégorie de traitement A, groupe de traitement A1 et A2, le candidat doit être détenteur d’un certificat attestant le niveau de compétence C1 tant pour l’oral que pour l’écrit ;
 
-2. pour la catégorie de traitement B, groupe de traitement B1 , le candidat doit être détenteur d’un certificat attestant le niveau de compétence B1 tant pour l’oral que pour l’écrit.
+  - pour la catégorie de traitement B, groupe de traitement B1 , le candidat doit être détenteur d’un certificat attestant le niveau de compétence B1 tant pour l’oral que pour l’écrit.
 
-5. le candidat ayant réussi à une ou plusieurs épreuves préliminaires de l’examen-concours de recrutement du personnel enseignant de l’enseignement secondaire ou de l’examen-concours d’admission au stage des fonctions de formateur d’adultes est dispensé de cette ou de ces épreuves préliminaires.
+- le candidat ayant réussi à une ou plusieurs épreuves préliminaires de l’examen-concours de recrutement du personnel enseignant de l’enseignement secondaire ou de l’examen-concours d’admission au stage des fonctions de formateur d’adultes est dispensé de cette ou de ces épreuves préliminaires.
 
 <a id="art-6"></a>
 ## Art. 6.
 
 À l’issue des épreuves préliminaires visées à l’article 4, sont exclus de l’examen-concours de recrutement les candidats :
 
-1. dont la moyenne des notes de l’épreuve écrite et orale des épreuves préliminaires de luxembourgeois, de français ou d’allemand est inférieure à dix points sur vingt ;
+- dont la moyenne des notes de l’épreuve écrite et orale des épreuves préliminaires de luxembourgeois, de français ou d’allemand est inférieure à dix points sur vingt ;
 
-2. ayant obtenu une note inférieure à sept points sur vingt soit à l’épreuve écrite, soit à l’épreuve orale des épreuves préliminaires de luxembourgeois, de français ou d’allemand ;
+- ayant obtenu une note inférieure à sept points sur vingt soit à l’épreuve écrite, soit à l’épreuve orale des épreuves préliminaires de luxembourgeois, de français ou d’allemand ;
 
-3. n’ayant pas présenté avant la date limite fixée par le ministre un dossier de candidature complet.
+- n’ayant pas présenté avant la date limite fixée par le ministre un dossier de candidature complet.
 
 Ces épreuves préliminaires ne donnent pas lieu à un classement.
 
@@ -104,9 +104,9 @@ La commission retourne les dossiers, avec avis motivé, au ministre qui décide 
 
 Les épreuves de classement de l’examen-concours de recrutement comportent deux parties :
 
-1. la première partie comprend au moins deux épreuves écrites ;
+- la première partie comprend au moins deux épreuves écrites ;
 
-2. la deuxième partie comprend au moins une épreuve orale ou pratique.
+- la deuxième partie comprend au moins une épreuve orale ou pratique.
 
 Toute épreuve est cotée sur un maximum de vingt points.
 
@@ -144,9 +144,9 @@ L’appréciation des épreuves de chaque candidat est arrêtée par le jury, su
 
 L’assistance des membres du jury aux épreuves prévues à l’article 8 est la suivante :
 
-1. au moins un membre surveille les épreuves écrites ;
+- au moins un membre surveille les épreuves écrites ;
 
-2. au moins trois membres assistent aux épreuves orales ou pratiques des épreuves de classement.
+- au moins trois membres assistent aux épreuves orales ou pratiques des épreuves de classement.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -167,9 +167,9 @@ Les candidats classés en rang utile à l’issue des épreuves de classement so
 
 Sont abrogés :
 
-1. le règlement grand-ducal modifié du 22 septembre 1992 déterminant les modalités des concours de recrutement du personnel enseignant de l’enseignement postprimaire ;
+- le règlement grand-ducal modifié du 22 septembre 1992 déterminant les modalités des concours de recrutement du personnel enseignant de l’enseignement postprimaire ;
 
-2. le règlement grand-ducal du 24 septembre 1999 portant institution de commissions consultatives chargées d’examiner les études et le diplômes des candidats à une fonction enseignante de l’enseignement secondaire et de l’enseignement secondaire technique.
+- le règlement grand-ducal du 24 septembre 1999 portant institution de commissions consultatives chargées d’examiner les études et le diplômes des candidats à une fonction enseignante de l’enseignement secondaire et de l’enseignement secondaire technique.
 
 <a id="art-14"></a>
 ## Art. 14.

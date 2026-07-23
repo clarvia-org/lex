@@ -40,15 +40,15 @@ L’Institut est doté de la personnalité juridique et jouit de l’autonomie f
 
 L’Institut a pour missions:
 
-1. de promouvoir la formation continue au sein du tissu économique et social;
+- de promouvoir la formation continue au sein du tissu économique et social;
 
-2. de participer à l’élaboration de concepts de formation professionnelle continue;
+- de participer à l’élaboration de concepts de formation professionnelle continue;
 
-3. de participer à la réalisation des objectifs définis à l’article 42 de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle, en développant des activités d’initiation, de recyclage, de reconversion et de perfectionnement professionnels et en assurant la réalisation de projets dans l’intérêt du progrès technologique et de l’innovation pédagogique;
+- de participer à la réalisation des objectifs définis à l’article 42 de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle, en développant des activités d’initiation, de recyclage, de reconversion et de perfectionnement professionnels et en assurant la réalisation de projets dans l’intérêt du progrès technologique et de l’innovation pédagogique;
 
-4. de mener et d’organiser des études ayant pour objet de contribuer à améliorer le système d’éducation et de formation continue, ceci au titre d’Observatoire national de la formation;
+- de mener et d’organiser des études ayant pour objet de contribuer à améliorer le système d’éducation et de formation continue, ceci au titre d’Observatoire national de la formation;
 
-5. de préparer les documents d’analyse pour les plans de formation soumis par les entreprises au ministre ayant l’Éducation nationale dans ses attributions , ci-après « ministre », afin de permettre à la commission consultative instituée à l’article L. 542-11 (4) du Code du travail de suffire à sa mission y définie au point 3.
+- de préparer les documents d’analyse pour les plans de formation soumis par les entreprises au ministre ayant l’Éducation nationale dans ses attributions , ci-après « ministre », afin de permettre à la commission consultative instituée à l’article L. 542-11 (4) du Code du travail de suffire à sa mission y définie au point 3.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -101,31 +101,31 @@ Le ministre de l’Éducation nationale désigne un commissaire du Gouvernement 
 
 Le conseil d’administration a pour missions :
 
-1. de définir la politique générale de l’Institut ;
+- de définir la politique générale de l’Institut ;
 
-2. d’engager et licencier le directeur ;
+- d’engager et licencier le directeur ;
 
-3. d’engager et licencier le personnel sur proposition du directeur ;
+- d’engager et licencier le personnel sur proposition du directeur ;
 
-4. de définir l’organigramme, la grille des emplois, ainsi que les conditions et modalités de rémunération ;
+- de définir l’organigramme, la grille des emplois, ainsi que les conditions et modalités de rémunération ;
 
-5. de décider sur des actions judiciaires ;
+- de décider sur des actions judiciaires ;
 
-6. d’approuver les programmes d’investissement annuels et pluriannuels ;
+- d’approuver les programmes d’investissement annuels et pluriannuels ;
 
-7. d’accepter le règlement interne ;
+- d’accepter le règlement interne ;
 
-8. d’approuver le rapport d’activité annuel ;
+- d’approuver le rapport d’activité annuel ;
 
-9. d’approuver le projet de budget et le projet des comptes annuels ;
+- d’approuver le projet de budget et le projet des comptes annuels ;
 
-10. de décider sur l’acceptation ou le refus de dons et de legs ;
+- de décider sur l’acceptation ou le refus de dons et de legs ;
 
-11. de décider sur les acquisitions, aliénations et échanges d’immeubles indispensables à l’accomplissement de sa mission et leur affectation, à l’exception de ceux mis à la disposition de l’Institut ;
+- de décider sur les acquisitions, aliénations et échanges d’immeubles indispensables à l’accomplissement de sa mission et leur affectation, à l’exception de ceux mis à la disposition de l’Institut ;
 
-12. d’analyser les avis consultatifs émis par la commission consultative prévue à l’article 3 quater ;
+- d’analyser les avis consultatifs émis par la commission consultative prévue à l’article 3 quater ;
 
-13. de nommer, pour un mandat de trois ans renouvelable, un réviseur d’entreprises agréé pour le contrôle des comptes de l’Institut.
+- de nommer, pour un mandat de trois ans renouvelable, un réviseur d’entreprises agréé pour le contrôle des comptes de l’Institut.
 
 Les décisions visées aux points 1 et 2, ainsi que le projet de budget annuel visé au point 9 sont soumis à l’approbation du ministre. Les éléments visés au point 4, ainsi que le projet des comptes annuels visé au point 9 sont soumis à l’approbation du Gouvernement en conseil. Chaque année, au mois de février, l’Institut soumet au ministre un rapport d’activités sur les aspects essentiels du fonctionnement de l’Institut.
 
@@ -142,19 +142,19 @@ Le conseil d’administration est assisté d’un conseil scientifique pour les 
 
 Le conseil scientifique comprend sept membres :
 
-1. le président du conseil d’administration de l’Institut ;
+- le président du conseil d’administration de l’Institut ;
 
-2. le directeur de l’Institut ;
+- le directeur de l’Institut ;
 
-3. le responsable de l’Observatoire ;
+- le responsable de l’Observatoire ;
 
-4. un représentant de l’Université du Luxembourg ;
+- un représentant de l’Université du Luxembourg ;
 
-5. un représentant de l’Institut national de la statistique et des études économiques ;
+- un représentant de l’Institut national de la statistique et des études économiques ;
 
-6. un représentant du ministre ayant le Travail dans ses attributions ;
+- un représentant du ministre ayant le Travail dans ses attributions ;
 
-7. un représentant du Luxembourg Institute of Socio-economic Research.
+- un représentant du Luxembourg Institute of Socio-economic Research.
 
 Le président du conseil d’administration de l’Institut ou, en cas d’empêchement, le directeur de l’Institut préside le conseil scientifique.
 
@@ -174,13 +174,13 @@ Le montant des jetons de présence, par réunion, des membres du conseil scienti
 
 Le conseil scientifique a pour mission de:
 
-1. procéder à une évaluation globale des activités de recherche de l’Observatoire de l’année écoulée et en faire rapport au conseil d’administration au plus tard pour le 1 er mars de l’année suivante;
+- procéder à une évaluation globale des activités de recherche de l’Observatoire de l’année écoulée et en faire rapport au conseil d’administration au plus tard pour le 1 er mars de l’année suivante;
 
-2. donner son avis sur tout nouveau projet de recherche ainsi que sur toute question scientifique que le conseil d’administration lui soumet;
+- donner son avis sur tout nouveau projet de recherche ainsi que sur toute question scientifique que le conseil d’administration lui soumet;
 
-3. contribuer à garantir la qualité scientifique et l’avancement des travaux de recherche de l’Observatoire et à en promouvoir la diffusion;
+- contribuer à garantir la qualité scientifique et l’avancement des travaux de recherche de l’Observatoire et à en promouvoir la diffusion;
 
-4. formuler des propositions en vue de nouveaux projets ou activités de recherche de l’Observatoire.
+- formuler des propositions en vue de nouveaux projets ou activités de recherche de l’Observatoire.
 
 <a id="art-3ter"></a>
 ## Art. 3ter.
@@ -197,15 +197,15 @@ Il est le supérieur hiérarchique du personnel de l’Institut.
 
 L’Institut comprend, outre un secrétariat de direction, cinq départements :
 
-1. le département de la promotion de la formation ;
+- le département de la promotion de la formation ;
 
-2. le département du cofinancement de la formation ;
+- le département du cofinancement de la formation ;
 
-3. le département du portail life-long learning ;
+- le département du portail life-long learning ;
 
-4. le département de l’Observatoire de la formation ;
+- le département de l’Observatoire de la formation ;
 
-5. le département du développement stratégique de la formation professionnelle continue.
+- le département du développement stratégique de la formation professionnelle continue.
 
 (3)
 
@@ -215,9 +215,9 @@ Sauf en cas de détachement de fonctionnaires de l’État, le directeur et le p
 
 Le directeur est choisi parmi :
 
-1. soit les fonctionnaires appartenant au personnel classé à la catégorie de traitement A ;
+- soit les fonctionnaires appartenant au personnel classé à la catégorie de traitement A ;
 
-2. soit les candidats du secteur privé, détenteurs d’au moins un diplôme de bachelor ou d’un titre de formation inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au moins au niveau 6 du cadre luxembourgeois des qualifications visé à l’article 69 de la loi précitée du 28 octobre 2016 .
+- soit les candidats du secteur privé, détenteurs d’au moins un diplôme de bachelor ou d’un titre de formation inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au moins au niveau 6 du cadre luxembourgeois des qualifications visé à l’article 69 de la loi précitée du 28 octobre 2016 .
 
 <a id="art-3quater"></a>
 ## Art. 3quater.
@@ -230,25 +230,25 @@ Il est créé une commission consultative, ci-après « commission », qui a pou
 
 La commission comprend les membres effectifs suivants :
 
-1. 1 représentant du ministre ayant l’Éducation nationale dans ses attributions, siégeant comme président ;
+- 1 représentant du ministre ayant l’Éducation nationale dans ses attributions, siégeant comme président ;
 
-2. 1 représentant du ministre ayant l’Enseignement supérieur dans ses attributions ;
+- 1 représentant du ministre ayant l’Enseignement supérieur dans ses attributions ;
 
-3. 1 représentant du ministre ayant le Travail et l’Emploi dans ses attributions ;
+- 1 représentant du ministre ayant le Travail et l’Emploi dans ses attributions ;
 
-4. 1 représentant du ministre ayant les Classes moyennes dans ses attributions ;
+- 1 représentant du ministre ayant les Classes moyennes dans ses attributions ;
 
-5. 1 représentant du ministre ayant l’Économie dans ses attributions ;
+- 1 représentant du ministre ayant l’Économie dans ses attributions ;
 
-6. 1 représentant à proposer par la Chambre des métiers ;
+- 1 représentant à proposer par la Chambre des métiers ;
 
-7. 1 représentant à proposer par la Chambre de commerce ;
+- 1 représentant à proposer par la Chambre de commerce ;
 
-8. 2 représentants à proposer par la Chambre des salariés ;
+- 2 représentants à proposer par la Chambre des salariés ;
 
-9. 1 représentant à proposer par la Chambre des fonctionnaires et employés publics ;
+- 1 représentant à proposer par la Chambre des fonctionnaires et employés publics ;
 
-10. 1 représentant à proposer par la Chambre d’agriculture.
+- 1 représentant à proposer par la Chambre d’agriculture.
 
 Il est désigné pour chacun des membres effectifs un membre suppléant. Ils sont nommés par le ministre pour un terme renouvelable de cinq ans. Les représentants des ministres sont proposés par les ministres compétents.
 
@@ -304,13 +304,13 @@ Tout ce qui a trait aux produits, procédés ou services en relation avec un pro
 
 L’Institut peut disposer notamment des ressources suivantes:
 
-1. une contribution financière annuelle de l’État;
+- une contribution financière annuelle de l’État;
 
-2. des contributions financières provenant des organismes associés à la formation;
+- des contributions financières provenant des organismes associés à la formation;
 
-3. des dons et legs, en espèces ou en nature;
+- des dons et legs, en espèces ou en nature;
 
-4. des revenus provenant de ses activités de formation et de la gestion de son patrimoine.
+- des revenus provenant de ses activités de formation et de la gestion de son patrimoine.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -384,15 +384,15 @@ de direction du Centre.
 
 Les missions de la cellule de développement du Centre sont les suivantes:
 
-1. identifier les besoins prioritaires du Centre;
+- identifier les besoins prioritaires du Centre;
 
-2. définir des stratégies de développement scolaire;
+- définir des stratégies de développement scolaire;
 
-3. élaborer le PDC;
+- élaborer le PDC;
 
-4. assurer la communication interne et externe;
+- assurer la communication interne et externe;
 
-5. élaborer un plan trisannuel de la formation continue du personnel du Centre, actualisé chaque année.
+- élaborer un plan trisannuel de la formation continue du personnel du Centre, actualisé chaque année.
 
 (3)
 
@@ -412,47 +412,47 @@ Le ministre peut détacher au service, suivant les besoins et sur proposition du
 
 Les conditions générales d’admission ainsi que les conditions spécifiques propres aux différentes fonctions, les conditions et modalités de recrutement et de nomination des fonctionnaires des carrières définies à l’article 11 ci-dessus, sont fixées par règlement grand-ducal sous réserve des dispositions suivantes:
 
-1. Dans la catégorie de traitement A, groupe de traitement A1, sous-groupe à attributions particulières, les formateurs d’adultes en enseignement théorique doivent:
+- Dans la catégorie de traitement A, groupe de traitement A1, sous-groupe à attributions particulières, les formateurs d’adultes en enseignement théorique doivent:
 
-1. soit être détenteurs d’un diplôme de bachelor en lien avec la spécialité requise et d’un diplôme de master inscrits au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
+  - soit être détenteurs d’un diplôme de bachelor en lien avec la spécialité requise et d’un diplôme de master inscrits au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
 
-2. soit être détenteurs d’un diplôme de bachelor et d’un diplôme de master en lien avec la spécialité requise inscrits au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
+  - soit être détenteurs d’un diplôme de bachelor et d’un diplôme de master en lien avec la spécialité requise inscrits au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
 
-3. soit être détenteurs d’un diplôme de bachelor en lien avec la ou les spécialités requises et d’un diplôme de master dans la ou les spécialités préparant à la fonction d’enseignant de l’enseignement secondaire, inscrits au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
+  - soit être détenteurs d’un diplôme de bachelor en lien avec la ou les spécialités requises et d’un diplôme de master dans la ou les spécialités préparant à la fonction d’enseignant de l’enseignement secondaire, inscrits au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
 
-4. soit avoir obtenu un diplôme étranger en lien avec la ou les spécialités requises sanctionnant des études de quatre années au moins, inscrit au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
+  - soit avoir obtenu un diplôme étranger en lien avec la ou les spécialités requises sanctionnant des études de quatre années au moins, inscrit au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
 
-5. soit avoir obtenu l’homologation de leurs titres et grades étrangers d’enseignement supérieur selon la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades d’enseignement supérieur.
+  - soit avoir obtenu l’homologation de leurs titres et grades étrangers d’enseignement supérieur selon la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades d’enseignement supérieur.
 
-2. Dans la catégorie de traitement A, groupe de traitement A2, sous-groupe à attributions particulières, les formateurs d’adultes en enseignement technique doivent:
+- Dans la catégorie de traitement A, groupe de traitement A2, sous-groupe à attributions particulières, les formateurs d’adultes en enseignement technique doivent:
 
-1. soit être détenteurs d’un diplôme luxembourgeois de bachelor en lien avec la spécialité requise, soit être détenteurs d’un titre ou grade de niveau bachelor étranger en lien avec la spécialité requise inscrit au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
+  - soit être détenteurs d’un diplôme luxembourgeois de bachelor en lien avec la spécialité requise, soit être détenteurs d’un titre ou grade de niveau bachelor étranger en lien avec la spécialité requise inscrit au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
 
-2. soit être détenteurs d’un diplôme final délivré par un institut d’enseignement supérieur étranger reconnu par l’Etat où il a son siège, sanctionnant un cycle d’études de trois années au moins, inscrit au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur.
+  - soit être détenteurs d’un diplôme final délivré par un institut d’enseignement supérieur étranger reconnu par l’Etat où il a son siège, sanctionnant un cycle d’études de trois années au moins, inscrit au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur.
 
-3. Les instituteurs d’enseignement préparatoire sont recrutés soit parmi les instituteurs, soit parmi les instituteurs d’enseignement primaire ou d’enseignement spécial de l’enseignement fondamental, soit parmi les candidats admissibles à ces mêmes fonctions.
+- Les instituteurs d’enseignement préparatoire sont recrutés soit parmi les instituteurs, soit parmi les instituteurs d’enseignement primaire ou d’enseignement spécial de l’enseignement fondamental, soit parmi les candidats admissibles à ces mêmes fonctions.
 
-4. Dans la catégorie de traitement B, groupe de traitement B1, sous-groupe à attributions particulières, les formateurs d’adultes en enseignement pratique doivent:
+- Dans la catégorie de traitement B, groupe de traitement B1, sous-groupe à attributions particulières, les formateurs d’adultes en enseignement pratique doivent:
 
-1. soit être détenteurs d’un brevet de maîtrise luxembourgeois en lien avec la spécialité requise, soit être détenteurs d’un brevet de maîtrise étranger en lien avec la spécialité requise, reconnu équivalent par le ministre de l’Education nationale. Des règlements grand-ducaux peuvent instituer des examens spéciaux sanctionnant la qualification des postulants à la fonction de maître d’enseignement dont la spécialité professionnelle ne comporte pas de brevet de maîtrise;
+  - soit être détenteurs d’un brevet de maîtrise luxembourgeois en lien avec la spécialité requise, soit être détenteurs d’un brevet de maîtrise étranger en lien avec la spécialité requise, reconnu équivalent par le ministre de l’Education nationale. Des règlements grand-ducaux peuvent instituer des examens spéciaux sanctionnant la qualification des postulants à la fonction de maître d’enseignement dont la spécialité professionnelle ne comporte pas de brevet de maîtrise;
 
-2. soit être détenteurs d’un brevet de technicien supérieur luxembourgeois en lien avec la spécialité requise, soit être détenteurs d’un brevet de technicien supérieur étranger en lien avec la spécialité requise, inscrit au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
+  - soit être détenteurs d’un brevet de technicien supérieur luxembourgeois en lien avec la spécialité requise, soit être détenteurs d’un brevet de technicien supérieur étranger en lien avec la spécialité requise, inscrit au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
 
-3. soit être détenteurs d’un brevet de technicien supérieur spécialisé luxembourgeois en lien avec la spécialité requise, soit être détenteurs d’un brevet de technicien supérieur spécialisé étranger en lien avec la spécialité requise, inscrit au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
+  - soit être détenteurs d’un brevet de technicien supérieur spécialisé luxembourgeois en lien avec la spécialité requise, soit être détenteurs d’un brevet de technicien supérieur spécialisé étranger en lien avec la spécialité requise, inscrit au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur;
 
-4. soit être détenteurs d’un diplôme étranger sanctionnant un cycle unique et complet d’au moins deux années d’études en lien avec la spécialité dans une école de niveau supérieur, inscrit au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur.
+  - soit être détenteurs d’un diplôme étranger sanctionnant un cycle unique et complet d’au moins deux années d’études en lien avec la spécialité dans une école de niveau supérieur, inscrit au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur.
 
-5. Dans la catégorie de traitement A, groupe de traitement A1, sous-groupe éducatif et psychosocial, les experts en sciences humaines doivent être détenteurs d’un diplôme luxembourgeois de master en lien avec la spécialité requise ou avoir obtenu l’inscription de leurs titres et grades étrangers au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur.
+- Dans la catégorie de traitement A, groupe de traitement A1, sous-groupe éducatif et psychosocial, les experts en sciences humaines doivent être détenteurs d’un diplôme luxembourgeois de master en lien avec la spécialité requise ou avoir obtenu l’inscription de leurs titres et grades étrangers au registre des diplômes prévu par la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur.
 
-6. Dans la catégorie de traitement A, groupe de traitement A2, sous-groupe éducatif et psychosocial, les spécialistes en sciences humaines doivent être détenteurs soit d’un diplôme luxembourgeois de bachelor en sciences sociales et éducatives, soit d’un diplôme d’éducateur gradué luxembourgeois, soit d’un diplôme, certificat ou titre étranger reconnu équivalent par le membre du Gouvernement ayant l’Enseignement supérieur dans ses attributions.
+- Dans la catégorie de traitement A, groupe de traitement A2, sous-groupe éducatif et psychosocial, les spécialistes en sciences humaines doivent être détenteurs soit d’un diplôme luxembourgeois de bachelor en sciences sociales et éducatives, soit d’un diplôme d’éducateur gradué luxembourgeois, soit d’un diplôme, certificat ou titre étranger reconnu équivalent par le membre du Gouvernement ayant l’Enseignement supérieur dans ses attributions.
 
-7. Dans la catégorie de traitement B, groupe de traitement B1, sous-groupe éducatif et psychosocial, les professionnels en sciences humaines doivent être détenteurs d’un diplôme d’éducateur luxembourgeois ou d’un diplôme, certificat ou titre étranger reconnu équivalent par le ministre.
+- Dans la catégorie de traitement B, groupe de traitement B1, sous-groupe éducatif et psychosocial, les professionnels en sciences humaines doivent être détenteurs d’un diplôme d’éducateur luxembourgeois ou d’un diplôme, certificat ou titre étranger reconnu équivalent par le ministre.
 
-8. Dans la catégorie de traitement B, groupe de traitement B1, sous-groupe administratif, voire dans la catégorie de traitement C, groupe de traitement C1, sous-groupe administratif et sous-groupe technique, les rédacteurs et les expéditionnaires appelés à remplir des fonctions de gestion administrative sont recrutés parmi les fonctionnaires ou stagiaires des mêmes carrières de l’administration générale et détachés au Centre.
+- Dans la catégorie de traitement B, groupe de traitement B1, sous-groupe administratif, voire dans la catégorie de traitement C, groupe de traitement C1, sous-groupe administratif et sous-groupe technique, les rédacteurs et les expéditionnaires appelés à remplir des fonctions de gestion administrative sont recrutés parmi les fonctionnaires ou stagiaires des mêmes carrières de l’administration générale et détachés au Centre.
 
-9. Les fonctionnaires des carrières de l’enseignement appelés à intervenir dans l’enseignement pratique spécifique aux formations des professions de santé doivent pouvoir se prévaloir d’une autorisation d’exercer délivrée par le ministre ayant la Santé dans ses attributions.
+- Les fonctionnaires des carrières de l’enseignement appelés à intervenir dans l’enseignement pratique spécifique aux formations des professions de santé doivent pouvoir se prévaloir d’une autorisation d’exercer délivrée par le ministre ayant la Santé dans ses attributions.
 
-10. Pour les professions réglementées, une autorisation d’exercer délivrée par le membre du Gouvernement compétent est requise.
+- Pour les professions réglementées, une autorisation d’exercer délivrée par le membre du Gouvernement compétent est requise.
 
 #### Chapitre II. Conditions d’admission au stage et de nomination
 
@@ -479,11 +479,11 @@ Le fonctionnaire ou le stagiaire détaché au Centre est autorisé à porter le 
 
 Les fonctionnaires détachés aux Centres peuvent y être nommés aux niveaux de grade et de traitement atteints dans l’administration d’origine.
 
-1. L’instituteur d’enseignement technique, détaché au Centre de formation professionnelle continue à partir du 15 septembre 1986, en service au moment de l’entrée en vigueur de la présente loi, peut être nommé professeur d’enseignement technique aux Centres de formation professionnelle continue, à condition de se soumettre à un examen spécial pour l’accès à la carrière supérieure.
+- L’instituteur d’enseignement technique, détaché au Centre de formation professionnelle continue à partir du 15 septembre 1986, en service au moment de l’entrée en vigueur de la présente loi, peut être nommé professeur d’enseignement technique aux Centres de formation professionnelle continue, à condition de se soumettre à un examen spécial pour l’accès à la carrière supérieure.
 
-2. L’instituteur d’enseignement complémentaire, détaché au Centre de formation professionnelle continue à partir du 14 février 1978, en service au moment de l’entrée en vigueur de la présente loi, peut être nommé instituteur d’enseignement complémentaire des Centres de formation professionnelle continue avec conservation de son traitement acquis et être désigné chargé de direction conformément aux dispositions de l’article 13, alinéa 2.
+- L’instituteur d’enseignement complémentaire, détaché au Centre de formation professionnelle continue à partir du 14 février 1978, en service au moment de l’entrée en vigueur de la présente loi, peut être nommé instituteur d’enseignement complémentaire des Centres de formation professionnelle continue avec conservation de son traitement acquis et être désigné chargé de direction conformément aux dispositions de l’article 13, alinéa 2.
 
-3. L’artisan dirigeant, détenteur du brevet de maîtrise pour le métier de soudeur, occupé au Centre de Walferdange en qualité de chargé de cours depuis le 4 novembre 1981, peut être nommé aux fonctions de maître d’enseignement technique après avoir passé avec succès un examen probatoire dont les modalités seront déterminées par règlement grand-ducal. Les restrictions prévues à l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État ne lui seront pas appliquées et, en vue de l’application des articles 8 et 22 de la même loi, il lui sera tenu compte, comme années de grade, des années passées en qualité de fonctionnaire-stagiaire et de fonctionnaire et dépassant deux années.
+- L’artisan dirigeant, détenteur du brevet de maîtrise pour le métier de soudeur, occupé au Centre de Walferdange en qualité de chargé de cours depuis le 4 novembre 1981, peut être nommé aux fonctions de maître d’enseignement technique après avoir passé avec succès un examen probatoire dont les modalités seront déterminées par règlement grand-ducal. Les restrictions prévues à l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État ne lui seront pas appliquées et, en vue de l’application des articles 8 et 22 de la même loi, il lui sera tenu compte, comme années de grade, des années passées en qualité de fonctionnaire-stagiaire et de fonctionnaire et dépassant deux années.
 
 <a id="art-17"></a>
 ## Art. 17.
@@ -495,27 +495,27 @@ Par dérogation à l’article 14, sub c de la présente loi et par dérogation 
 
 L’employé de l’État de la carrière de l’ingénieur technicien, les employés et les ouvriers engagés conformément aux dispositions du règlement grand-ducal du 21 février 1978 tel qu’il a été modifié par le règlement grand-ducal du 15 mai 1984 portant organisation des cours d’orientation et d’initiation professionnelles, ainsi que de l’Action locale pour jeunes, et en service au moment de l’entrée en vigueur de la présente loi, sont repris dans le cadre du personnel des Centres sous réserve des dispositions ci-après:
 
-1. Les chargés de cours occupés ou ayant été occupés à titre temporaire et à tâche complète pendant trois ans au moins à l’entrée en vigueur de la présente loi, peuvent être engagés à durée indéterminée après avoir réussi un examen probatoire dont les modalités seront fixées par règlement grand-ducal.
+- Les chargés de cours occupés ou ayant été occupés à titre temporaire et à tâche complète pendant trois ans au moins à l’entrée en vigueur de la présente loi, peuvent être engagés à durée indéterminée après avoir réussi un examen probatoire dont les modalités seront fixées par règlement grand-ducal.
 
-2. Les employés de bureau occupés à titre temporaire à l’entrée en vigueur de la présente loi, et qui remplissent les conditions prévues par la loi modifiée du 27 janvier 1972 fixant le régime des employés de l’État, peuvent être engagés à durée indéterminée dès qu’ils peuvent se prévaloir de deux années de service à tâche complète.
+- Les employés de bureau occupés à titre temporaire à l’entrée en vigueur de la présente loi, et qui remplissent les conditions prévues par la loi modifiée du 27 janvier 1972 fixant le régime des employés de l’État, peuvent être engagés à durée indéterminée dès qu’ils peuvent se prévaloir de deux années de service à tâche complète.
 
-3. Les employés détenteurs d’un diplôme universitaire sanctionnant un cycle complet de quatre années d’études en sciences psychologiques, occupés ou ayant été occupés, après l’obtention de ce diplôme, à titre temporaire et à tâche complète pendant deux ans au moins à l’entrée en vigueur de la présente loi, peuvent être nommés aux fonctions de psychologue avec dispense de l’examen d’admission, de la période de stage et de l’examen de fin de stage. En cas de nomination, leur traitement est fixé sur la base d’une nomination fictive se situant deux ans après la date de leur engagement à tâche complète en qualité d’employé au service de l’État.
+- Les employés détenteurs d’un diplôme universitaire sanctionnant un cycle complet de quatre années d’études en sciences psychologiques, occupés ou ayant été occupés, après l’obtention de ce diplôme, à titre temporaire et à tâche complète pendant deux ans au moins à l’entrée en vigueur de la présente loi, peuvent être nommés aux fonctions de psychologue avec dispense de l’examen d’admission, de la période de stage et de l’examen de fin de stage. En cas de nomination, leur traitement est fixé sur la base d’une nomination fictive se situant deux ans après la date de leur engagement à tâche complète en qualité d’employé au service de l’État.
 
-4. Les employés détenteurs d’un diplôme universitaire sanctionnant un cycle complet de quatre années d’études en sciences pédagogiques, occupés ou ayant été occupés, après l’obtention de ce diplôme, à titre temporaire et à tâche complète pendant deux ans au moins à l’entrée en vigueur de la présente loi, peuvent être nommés aux fonctions de pédagogue avec dispense de l’examen d’admission, de la période de stage et de l’examen de fin de stage. En cas de nomination, leur traitement est fixé sur la base d’une nomination fictive se situant deux ans après la date de leur engagement à tâche complète en qualité d’employé au service de l’État.
+- Les employés détenteurs d’un diplôme universitaire sanctionnant un cycle complet de quatre années d’études en sciences pédagogiques, occupés ou ayant été occupés, après l’obtention de ce diplôme, à titre temporaire et à tâche complète pendant deux ans au moins à l’entrée en vigueur de la présente loi, peuvent être nommés aux fonctions de pédagogue avec dispense de l’examen d’admission, de la période de stage et de l’examen de fin de stage. En cas de nomination, leur traitement est fixé sur la base d’une nomination fictive se situant deux ans après la date de leur engagement à tâche complète en qualité d’employé au service de l’État.
 
-5. Les employés détenteurs d’un diplôme d’éducateur, qui remplissent les conditions d’études et de diplômes requises pour la nomination à la fonction d’éducateur prévue à l’article 19, sub II, 12 de la loi modifiée du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée, occupés ou ayantété occupés, après l’obtention de ce diplôme, à titre temporaire et à tâche complète pendant deux ans au moins à l’entrée en vigueur de la présente loi, peuvent être nommés aux fonctions d’éducateur gradué avec dispense de l’examen d’admission, de la période de stage et de l’examen de fin de stage. En cas de nomination, leur traitement est fixé sur la base d’une nomination fictive se situant deux ans après la date de leur engagement à tâche complète en qualité d’employé au service de l’État.
+- Les employés détenteurs d’un diplôme d’éducateur, qui remplissent les conditions d’études et de diplômes requises pour la nomination à la fonction d’éducateur prévue à l’article 19, sub II, 12 de la loi modifiée du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée, occupés ou ayantété occupés, après l’obtention de ce diplôme, à titre temporaire et à tâche complète pendant deux ans au moins à l’entrée en vigueur de la présente loi, peuvent être nommés aux fonctions d’éducateur gradué avec dispense de l’examen d’admission, de la période de stage et de l’examen de fin de stage. En cas de nomination, leur traitement est fixé sur la base d’une nomination fictive se situant deux ans après la date de leur engagement à tâche complète en qualité d’employé au service de l’État.
 
-6. Par dérogation aux dispositions des articles 25, sub 3 et 44 de la loi du 6 août 1990 portant organisation des études éducatives et sociales, l’employé détenteur du diplôme d’éducateur, qui remplit les conditions d’études et de diplômes requises pour la nominationà la fonction d’éducateur conformément à l’article 19, sub II, 12 de la loi modifiée du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée et qui est affecté au moment de l’entrée en vigueur de la présente loi à l’Institut d’études éducatives et sociales pour les besoins de la formation de spécialisation d’éducateur orienteur telle qu’elle est prévue par le règlement grand-ducal modifié du 21 février 1978 portant organisation de cours d’orientation et d’initiation professionnelles, peut être nommé aux fonctions d’éducateur gradué à l’Institut d’études éducatives et sociales. Les dispositions de l’article 41, paragraphe 4 de la loi du 6 août 1990 portant organisation des études éducatives et sociales lui sont applicables.
+- Par dérogation aux dispositions des articles 25, sub 3 et 44 de la loi du 6 août 1990 portant organisation des études éducatives et sociales, l’employé détenteur du diplôme d’éducateur, qui remplit les conditions d’études et de diplômes requises pour la nominationà la fonction d’éducateur conformément à l’article 19, sub II, 12 de la loi modifiée du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée et qui est affecté au moment de l’entrée en vigueur de la présente loi à l’Institut d’études éducatives et sociales pour les besoins de la formation de spécialisation d’éducateur orienteur telle qu’elle est prévue par le règlement grand-ducal modifié du 21 février 1978 portant organisation de cours d’orientation et d’initiation professionnelles, peut être nommé aux fonctions d’éducateur gradué à l’Institut d’études éducatives et sociales. Les dispositions de l’article 41, paragraphe 4 de la loi du 6 août 1990 portant organisation des études éducatives et sociales lui sont applicables.
 
-7. Les employés occupés à titre temporaire visés au paragraphe 5 ci-dessus et qui comptent moins de deux ans de service à l’entrée en vigueur de la présente loi peuvent être admis au stage aux fonctions respectives avec dispense de l’examen d’admission au stage. La durée du stage pourra être réduite ou supprimée en fonction du temps passé en qualité d’employé à titre temporaire et à tâche complète.
+- Les employés occupés à titre temporaire visés au paragraphe 5 ci-dessus et qui comptent moins de deux ans de service à l’entrée en vigueur de la présente loi peuvent être admis au stage aux fonctions respectives avec dispense de l’examen d’admission au stage. La durée du stage pourra être réduite ou supprimée en fonction du temps passé en qualité d’employé à titre temporaire et à tâche complète.
 
-8. Pour pouvoir être engagés à durée indéterminée au service de l’État, les employés et ouvriers mis à la disposition des cours d’orientation et d’initiation professionnelles par la société ARBED et y occupés en qualité de chargés de cours à tâche complète peuvent se présenter à l’examen probatoire prévu par le présent article sub 1, à condition de pouvoir faire valoir au moins trois années de service à l’entrée en vigueur de la présente loi.
+- Pour pouvoir être engagés à durée indéterminée au service de l’État, les employés et ouvriers mis à la disposition des cours d’orientation et d’initiation professionnelles par la société ARBED et y occupés en qualité de chargés de cours à tâche complète peuvent se présenter à l’examen probatoire prévu par le présent article sub 1, à condition de pouvoir faire valoir au moins trois années de service à l’entrée en vigueur de la présente loi.
 
-9. L’employé, détenteur d’un diplôme d’éducateur, actuellement chargé de la direction des cours d’orientation et d’initiation professionnelles organisés au Centre d’Esch-sur-Alzette, pourra être nommé à la fonction d’éducateur gradué suivant les modalités du paragraphe 5 ci-dessus et être désigné chargé de direction conformément aux dispositions de l’article 13, alinéa 2 précité.
+- L’employé, détenteur d’un diplôme d’éducateur, actuellement chargé de la direction des cours d’orientation et d’initiation professionnelles organisés au Centre d’Esch-sur-Alzette, pourra être nommé à la fonction d’éducateur gradué suivant les modalités du paragraphe 5 ci-dessus et être désigné chargé de direction conformément aux dispositions de l’article 13, alinéa 2 précité.
 
-10. L’employé, détenteur d’un diplôme d’éducateur, remplissant actuellement les fonctions de secrétaire des cours d’orientation et d’initiation professionnelles, pourra être nommé à la fonction d’éducateur gradué suivant les modalités du paragraphe 5 ci-dessus. Il pourra être autorisé à porter le titre de secrétaire du Centre de formation professionnelle continue.
+- L’employé, détenteur d’un diplôme d’éducateur, remplissant actuellement les fonctions de secrétaire des cours d’orientation et d’initiation professionnelles, pourra être nommé à la fonction d’éducateur gradué suivant les modalités du paragraphe 5 ci-dessus. Il pourra être autorisé à porter le titre de secrétaire du Centre de formation professionnelle continue.
 
-11. Les restrictions prévues à l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État ne seront pas appliquées aux chargés de cours et aux employés au service de l’État visés par le présent article et, en vue de l’application des articles 8 et 22 de la même loi , il leur sera tenu compte, comme années de grade, des années passées en qualité de chargé de cours ou d’employé au service de l’État et dépassant deux années.
+- Les restrictions prévues à l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État ne seront pas appliquées aux chargés de cours et aux employés au service de l’État visés par le présent article et, en vue de l’application des articles 8 et 22 de la même loi , il leur sera tenu compte, comme années de grade, des années passées en qualité de chargé de cours ou d’employé au service de l’État et dépassant deux années.
 
 <a id="art-19"></a>
 ## Art. 19.

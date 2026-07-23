@@ -54,25 +54,25 @@ Sont à considérer comme « Sociétés de participations financières » les so
 
 Le président du bureau électoral :
 
-1. envoie à chaque ressortissant de la Chambre de commerce un formulaire avec invitation de s’inscrire sur les listes électorales et de vérifier les informations de base y répertoriées ;
+- envoie à chaque ressortissant de la Chambre de commerce un formulaire avec invitation de s’inscrire sur les listes électorales et de vérifier les informations de base y répertoriées ;
 
-2. fait publier, au plus tard 125 jours avant le scrutin, dans au moins deux journaux luxembourgeois, un avis reprenant les informations visées à la lettre a).
+- fait publier, au plus tard 125 jours avant le scrutin, dans au moins deux journaux luxembourgeois, un avis reprenant les informations visées à la lettre a).
 
 Toute personne qui demande son inscription sur les listes électorales, doit spécialement désigner le groupe électoral dont elle entend faire partie.
 
 L’inscription sur les listes électorales se fait obligatoirement et exclusivement sur une plateforme électronique étatique sécurisée en indiquant les données énumérées à l’article 26, alinéa 2, de la loi modifiée du 26 octobre 2010 portant réorganisation de la Chambre de Commerce . La plateforme reprend en outre les données suivantes que la Chambre de commerce délivre d’office au bureau électoral :
 
-1. le numéro d’identité du ressortissant ;
+- le numéro d’identité du ressortissant ;
 
-2. la dénomination du ressortissant ;
+- la dénomination du ressortissant ;
 
-3. la raison sociale ;
+- la raison sociale ;
 
-4. l’adresse physique postale ;
+- l’adresse physique postale ;
 
-5. le groupe électoral tel que prévu par l’article 1 er ;
+- le groupe électoral tel que prévu par l’article 1 er ;
 
-6. l’activité principale.
+- l’activité principale.
 
 Les données mentionnées à l’alinéa 3 sont générées 150 jours avant le scrutin et représentent l’ensemble des ressortissants de la Chambre de commerce pouvant participer aux élections.
 
@@ -332,41 +332,41 @@ Les bulletins sont classés par bulletins valables et bulletins nuls et envoyés
 
 Sont nuls :
 
-1. toutes les enveloppes de transmission :
+- toutes les enveloppes de transmission :
 
-1. qui ont été timbrées par la poste postérieurement au jour du scrutin ;
+  - qui ont été timbrées par la poste postérieurement au jour du scrutin ;
 
-2. non fermées ;
+  - non fermées ;
 
-3. marquées ;
+  - marquées ;
 
-4. sur lesquelles le numéro d’ordre n’est plus visible ;
+  - sur lesquelles le numéro d’ordre n’est plus visible ;
 
-5. contenant plusieurs enveloppes électorales ;
+  - contenant plusieurs enveloppes électorales ;
 
-2. toutes les enveloppes électorales :
+- toutes les enveloppes électorales :
 
-1. non fermées ;
+  - non fermées ;
 
-2. marquées ;
+  - marquées ;
 
-3. autres que celles délivrées par le président du bureau électoral ;
+  - autres que celles délivrées par le président du bureau électoral ;
 
-4. contenant plusieurs bulletins ;
+  - contenant plusieurs bulletins ;
 
-3. tous les bulletins de vote :
+- tous les bulletins de vote :
 
-1. autres que ceux envoyés ou remis par le président du bureau électoral aux électeurs ;
+  - autres que ceux envoyés ou remis par le président du bureau électoral aux électeurs ;
 
-2. non renfermés dans une enveloppe électorale ;
+  - non renfermés dans une enveloppe électorale ;
 
-3. qui expriment plus de suffrages que de candidats à élire ;
+  - qui expriment plus de suffrages que de candidats à élire ;
 
-4. qui portent une marque ou un signe distinctif quelconque ;
+  - qui portent une marque ou un signe distinctif quelconque ;
 
-5. sur lesquels le votant s’est fait connaître ;
+  - sur lesquels le votant s’est fait connaître ;
 
-6. qui contiennent à l’intérieur un papier ou un objet quelconque.
+  - qui contiennent à l’intérieur un papier ou un objet quelconque.
 
 <a id="art-36"></a>
 ## Art. 36.
@@ -383,33 +383,33 @@ Les noms des membres effectifs et des membres suppléants élus sont publiés au
 
 Sont inscrites dans le procès-verbal de l’élection les mentions suivantes :
 
-1. le nombre de bulletins de vote reçus par l’imprimerie ;
+- le nombre de bulletins de vote reçus par l’imprimerie ;
 
-2. le nombre de bulletins de vote envoyés aux électeurs ;
+- le nombre de bulletins de vote envoyés aux électeurs ;
 
-3. le nombre de bulletins de vote remplacés ;
+- le nombre de bulletins de vote remplacés ;
 
-4. le nombre de bulletins de vote non employés ;
+- le nombre de bulletins de vote non employés ;
 
-5. le nombre d’enveloppes de transmission reçues ;
+- le nombre d’enveloppes de transmission reçues ;
 
-6. le nombre d’enveloppes de transmission déclarées nulles ;
+- le nombre d’enveloppes de transmission déclarées nulles ;
 
-7. le nombre de votants ;
+- le nombre de votants ;
 
-8. le nombre d’enveloppes électorales reçues ;
+- le nombre d’enveloppes électorales reçues ;
 
-9. le nombre d’enveloppes électorales déclarées nulles ;
+- le nombre d’enveloppes électorales déclarées nulles ;
 
-10. le nombre de bulletins de vote reçus ;
+- le nombre de bulletins de vote reçus ;
 
-11. le nombre de bulletins de vote déclarés nuls ;
+- le nombre de bulletins de vote déclarés nuls ;
 
-12. le nombre de bulletins valables et blancs ;
+- le nombre de bulletins valables et blancs ;
 
-13. le résultat du dépouillement ;
+- le résultat du dépouillement ;
 
-14. les noms des membres effectifs et des membres suppléants dans l’ordre suivant lequel ils doivent remplacer les membres effectifs.
+- les noms des membres effectifs et des membres suppléants dans l’ordre suivant lequel ils doivent remplacer les membres effectifs.
 
 Le procès-verbal est signé séance tenante par les membres du bureau électoral et les témoins.
 
@@ -424,9 +424,9 @@ Il est mis sous enveloppe cachetée, qui porte pour suscription le nom du bureau
 
 Sont abrogés :
 
-1. le règlement grand-ducal modifié du 21 juillet 2012 portant règlement de l’organisation des élections et de la procédure électorale pour la Chambre de Commerce ;
+- le règlement grand-ducal modifié du 21 juillet 2012 portant règlement de l’organisation des élections et de la procédure électorale pour la Chambre de Commerce ;
 
-2. le règlement grand-ducal du 21 juillet 2012 déterminant le nombre exact des membres effectifs et suppléants, la composition numérique, l’énumération et la dénomination des groupes électoraux ainsi que la répartition des sièges de la Chambre de Commerce.
+- le règlement grand-ducal du 21 juillet 2012 déterminant le nombre exact des membres effectifs et suppléants, la composition numérique, l’énumération et la dénomination des groupes électoraux ainsi que la répartition des sièges de la Chambre de Commerce.
 
 <a id="art-41"></a>
 ## Art. 41.

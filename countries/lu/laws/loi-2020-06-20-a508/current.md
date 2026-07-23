@@ -38,9 +38,9 @@ L’État, représenté par le ministre ayant l’Économie dans ses attribution
 
 Sont exclus du champ d’application de la présente loi :
 
-1. les entreprises qui étaient en difficulté avant le 1 er janvier 2020 conformément à l’article 2, paragraphe 18, du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne ;
+- les entreprises qui étaient en difficulté avant le 1 er janvier 2020 conformément à l’article 2, paragraphe 18, du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne ;
 
-2. les employeurs qui ont été condamnés à au moins deux reprises pour contraventions aux dispositions interdisant le travail clandestin ou aux dispositions interdisant l’emploi de ressortissants de pays tiers en séjour irrégulier, au cours des quatre dernières années précédant le jugement de la juridiction compétente.
+- les employeurs qui ont été condamnés à au moins deux reprises pour contraventions aux dispositions interdisant le travail clandestin ou aux dispositions interdisant l’emploi de ressortissants de pays tiers en séjour irrégulier, au cours des quatre dernières années précédant le jugement de la juridiction compétente.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -49,35 +49,35 @@ Définitions
 
 Aux fins de la présente loi, on entend par :
 
-1. « actifs incorporels » : les actifs n’ayant aucune forme physique ni financière, tels que les brevets, les licences, le savoir-faire ou d’autres types de propriété intellectuelle ;
+- « actifs incorporels » : les actifs n’ayant aucune forme physique ni financière, tels que les brevets, les licences, le savoir-faire ou d’autres types de propriété intellectuelle ;
 
-2. « collaboration effective » : une collaboration entre au moins deux parties indépendantes l’une de l’autre et visant à échanger des connaissances ou des technologies, ou à atteindre un objectif commun, fondée sur une division du travail impliquant que les parties définissent conjointement la portée du projet collaboratif, contribuent à sa réalisation, et en partagent les risques et les résul­tats. Une ou plusieurs parties peuvent supporter l’intégralité des coûts du projet et donc soustraire d’autres parties à tout risque financier. Les contrats de recherche et la fourniture de services de recherche ne sont pas considérés comme des formes de collaboration ;
+- « collaboration effective » : une collaboration entre au moins deux parties indépendantes l’une de l’autre et visant à échanger des connaissances ou des technologies, ou à atteindre un objectif commun, fondée sur une division du travail impliquant que les parties définissent conjointement la portée du projet collaboratif, contribuent à sa réalisation, et en partagent les risques et les résul­tats. Une ou plusieurs parties peuvent supporter l’intégralité des coûts du projet et donc soustraire d’autres parties à tout risque financier. Les contrats de recherche et la fourniture de services de recherche ne sont pas considérés comme des formes de collaboration ;
 
-3. « clôture du projet » : soit la fin des travaux liés au projet de recherche et développement bénéficiant de l’aide, soit la première production liée au projet d’investissement bénéficiant de l’aide ;
+- « clôture du projet » : soit la fin des travaux liés au projet de recherche et développement bénéficiant de l’aide, soit la première production liée au projet d’investissement bénéficiant de l’aide ;
 
-4. « début du projet » : soit le début des travaux de recherche et développement, soit le début des travaux de construction liés à l’investissement, soit le premier engagement juridiquement contraignant de commande d’équipement ou tout autre engagement rendant l’investissement irréversible, selon l’événement qui se produit en premier. L’achat de terrains et les préparatifs, tels que l’obtention d’autorisations et la réalisation d’études de faisabilité, ne sont pas considérés comme le début des travaux. Dans le cas des rachats, le début des travaux est le moment de l’acquisition des actifs directement liés à l’établissement acquis ;
+- « début du projet » : soit le début des travaux de recherche et développement, soit le début des travaux de construction liés à l’investissement, soit le premier engagement juridiquement contraignant de commande d’équipement ou tout autre engagement rendant l’investissement irréversible, selon l’événement qui se produit en premier. L’achat de terrains et les préparatifs, tels que l’obtention d’autorisations et la réalisation d’études de faisabilité, ne sont pas considérés comme le début des travaux. Dans le cas des rachats, le début des travaux est le moment de l’acquisition des actifs directement liés à l’établissement acquis ;
 
-5. « développement expérimental » : l’acquisition, l’association, la mise en forme et l’utilisation de connaissances et d’aptitudes scientifiques, technologiques, commerciales et autres pertinentes en vue de développer des produits, des procédés ou des services nouveaux ou améliorés. Il peut aussi s’agir, par exemple, d’activités visant la définition théorique et la planification de produits, de procédés ou de services nouveaux, ainsi que la consignation des informations qui s’y rapportent. Le développement expérimental peut comprendre la création de prototypes, la démonstration, l’élaboration de projets pilotes, les essais et la validation de produits, de procédés ou de services nouveaux ou améliorés dans des environnements représentatifs des conditions de la vie réelle, lorsque l’objectif premier est d’apporter des améliorations supplémentaires, au niveau technique, aux produits, procédés ou services qui ne sont pas en grande partie fixés. Il peut comprendre la création de prototypes et de projets pilotes commercialement exploitables qui sont nécessaire­ment les produits commerciaux finals et qui sont trop onéreux à produire pour être utilisés unique­ment à des fins de démonstration et de validation. Le développement expérimental ne comprend pas les modifications de routine ou périodiques apportées à des produits, lignes de production, procédés de fabrication et services existants ;
+- « développement expérimental » : l’acquisition, l’association, la mise en forme et l’utilisation de connaissances et d’aptitudes scientifiques, technologiques, commerciales et autres pertinentes en vue de développer des produits, des procédés ou des services nouveaux ou améliorés. Il peut aussi s’agir, par exemple, d’activités visant la définition théorique et la planification de produits, de procédés ou de services nouveaux, ainsi que la consignation des informations qui s’y rapportent. Le développement expérimental peut comprendre la création de prototypes, la démonstration, l’élaboration de projets pilotes, les essais et la validation de produits, de procédés ou de services nouveaux ou améliorés dans des environnements représentatifs des conditions de la vie réelle, lorsque l’objectif premier est d’apporter des améliorations supplémentaires, au niveau technique, aux produits, procédés ou services qui ne sont pas en grande partie fixés. Il peut comprendre la création de prototypes et de projets pilotes commercialement exploitables qui sont nécessaire­ment les produits commerciaux finals et qui sont trop onéreux à produire pour être utilisés unique­ment à des fins de démonstration et de validation. Le développement expérimental ne comprend pas les modifications de routine ou périodiques apportées à des produits, lignes de production, procédés de fabrication et services existants ;
 
-6. « étude de faisabilité » : l’évaluation et l’analyse du potentiel d’un projet, qui visent à soutenir le processus décisionnel en révélant de façon objective et rationnelle les forces et les faiblesses du projet, ainsi que les perspectives et les menaces qu’il suppose, et qui précisent les ressources nécessaires pour le mener à bien et en évaluent, en définitive, les chances de succès ;
+- « étude de faisabilité » : l’évaluation et l’analyse du potentiel d’un projet, qui visent à soutenir le processus décisionnel en révélant de façon objective et rationnelle les forces et les faiblesses du projet, ainsi que les perspectives et les menaces qu’il suppose, et qui précisent les ressources nécessaires pour le mener à bien et en évaluent, en définitive, les chances de succès ;
 
-7. « frais de personnel » : les coûts liés aux chercheurs, aux techniciens et aux autres personnels d’appui dans la mesure où ils sont employés pour le projet concerné ;
+- « frais de personnel » : les coûts liés aux chercheurs, aux techniciens et aux autres personnels d’appui dans la mesure où ils sont employés pour le projet concerné ;
 
-8. « innovation de procédé » : la mise en œuvre d’une méthode de production ou de distribution nouvelle ou sensiblement améliorée (cette notion impliquant des changements significatifs d’ordre technique, matériel ou logiciel), ce qui exclut les changements ou améliorations mineurs, les accroissements de capacités de production ou de service obtenus par l’adjonction de systèmes de fabrication ou de systèmes logistiques qui sont très analogues à ceux déjà en usage, la cessation de l’utilisation d’un procédé, le simple remplacement ou l’extension de l’équipement, les changements découlant uniquement de variations du prix des facteurs, la production personnalisée, l’adaptation aux marchés locaux, les modifications saisonnières, régulières et autres changements cycliques et le commerce de produits nouveaux ou sensiblement améliorés ;
+- « innovation de procédé » : la mise en œuvre d’une méthode de production ou de distribution nouvelle ou sensiblement améliorée (cette notion impliquant des changements significatifs d’ordre technique, matériel ou logiciel), ce qui exclut les changements ou améliorations mineurs, les accroissements de capacités de production ou de service obtenus par l’adjonction de systèmes de fabrication ou de systèmes logistiques qui sont très analogues à ceux déjà en usage, la cessation de l’utilisation d’un procédé, le simple remplacement ou l’extension de l’équipement, les changements découlant uniquement de variations du prix des facteurs, la production personnalisée, l’adaptation aux marchés locaux, les modifications saisonnières, régulières et autres changements cycliques et le commerce de produits nouveaux ou sensiblement améliorés ;
 
-9. « intensité de l’aide » : le montant brut de l’aide exprimé en pourcentage des coûts admissibles d’un projet avant impôts ou autres prélèvements ;
+- « intensité de l’aide » : le montant brut de l’aide exprimé en pourcentage des coûts admissibles d’un projet avant impôts ou autres prélèvements ;
 
-10. « production de produits pertinents pour la lutte contre le Covid-19 » : la production de médica­ments, y compris de vaccins, et de traitements médicaux pertinents, de leurs produits intermé­diaires, de principes pharmaceutiques actifs et les matières premières; de dispositifs médicaux, d’équipement hospitalier et médical, dont des appareils de ventilation, des vêtements et équipe­ments de protection et des outils de diagnostic, et des matières premières nécessaires; de désinfec­tants et de leurs produits intermédiaires ainsi que des matières premières chimiques nécessaires à leur production et des outils de collecte et de traitement des données » ;
+- « production de produits pertinents pour la lutte contre le Covid-19 » : la production de médica­ments, y compris de vaccins, et de traitements médicaux pertinents, de leurs produits intermé­diaires, de principes pharmaceutiques actifs et les matières premières; de dispositifs médicaux, d’équipement hospitalier et médical, dont des appareils de ventilation, des vêtements et équipe­ments de protection et des outils de diagnostic, et des matières premières nécessaires; de désinfec­tants et de leurs produits intermédiaires ainsi que des matières premières chimiques nécessaires à leur production et des outils de collecte et de traitement des données » ;
 
-11. « projet de recherche et développement lié à la lutte contre le Covid-19 » : la recherche et le déve­loppement sur les vaccins, les médicaments et les traitements, les dispositifs médicaux et l’équi­pement hospitalier et médical, les désinfectants, ainsi que les vêtements et l’équipement de protection, de même que les innovations de procédé permettant une fabrication efficiente des produits nécessaires ;
+- « projet de recherche et développement lié à la lutte contre le Covid-19 » : la recherche et le déve­loppement sur les vaccins, les médicaments et les traitements, les dispositifs médicaux et l’équi­pement hospitalier et médical, les désinfectants, ainsi que les vêtements et l’équipement de protection, de même que les innovations de procédé permettant une fabrication efficiente des produits nécessaires ;
 
-12. « recherche et développement » : les travaux de création entrepris de façon systématique en vue d’accroître la somme de connaissances ainsi que l’utilisation de cette somme de connaissances pour de nouvelles applications, qu’il s’agisse de produits, de services, de procédés, de méthodes ou d’organisations ;
+- « recherche et développement » : les travaux de création entrepris de façon systématique en vue d’accroître la somme de connaissances ainsi que l’utilisation de cette somme de connaissances pour de nouvelles applications, qu’il s’agisse de produits, de services, de procédés, de méthodes ou d’organisations ;
 
-13. « recherche fondamentale » : des travaux expérimentaux ou théoriques entrepris essentiellement en vue d’acquérir de nouvelles connaissances sur les fondements de phénomènes ou de faits obser­vables, sans envisager aucune application ni utilisation commerciales directes ;
+- « recherche fondamentale » : des travaux expérimentaux ou théoriques entrepris essentiellement en vue d’acquérir de nouvelles connaissances sur les fondements de phénomènes ou de faits obser­vables, sans envisager aucune application ni utilisation commerciales directes ;
 
-14. « recherche industrielle » : la recherche planifiée ou des enquêtes critiques visant à acquérir de nouvelles connaissances et aptitudes en vue de mettre au point de nouveaux produits, procédés ou services, ou d’entraîner une amélioration notable de produits, procédés ou services existants. Elle comprend la création de composants de systèmes complexes et peut inclure la construction de prototypes dans un environnement de laboratoire ou dans un environnement à interfaces simulées vers les systèmes existants, ainsi que des lignes pilotes, lorsque c’est nécessaire pour la recherche industrielle, et notamment pour la validation de technologies génériques ;
+- « recherche industrielle » : la recherche planifiée ou des enquêtes critiques visant à acquérir de nouvelles connaissances et aptitudes en vue de mettre au point de nouveaux produits, procédés ou services, ou d’entraîner une amélioration notable de produits, procédés ou services existants. Elle comprend la création de composants de systèmes complexes et peut inclure la construction de prototypes dans un environnement de laboratoire ou dans un environnement à interfaces simulées vers les systèmes existants, ainsi que des lignes pilotes, lorsque c’est nécessaire pour la recherche industrielle, et notamment pour la validation de technologies génériques ;
 
-15. « valeur finale du projet » : la valeur comptable de l’actif corporel et incorporel résultant de l’in­vestissement du projet au moment de la cessation de la production de produits pertinents pour la lutte contre le Covid-19 ou au plus tard cinq ans après l’achèvement du projet.
+- « valeur finale du projet » : la valeur comptable de l’actif corporel et incorporel résultant de l’in­vestissement du projet au moment de la cessation de la production de produits pertinents pour la lutte contre le Covid-19 ou au plus tard cinq ans après l’achèvement du projet.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -88,9 +88,9 @@ Aide en faveur des projets de recherche et développement liés à la lutte cont
 
 Lorsqu’une entreprise réalise un projet de recherche et développement lié à la lutte contre le Covid-19, le ministre peut lui attribuer une aide dont l’intensité, calculée sur la base des coûts admissibles du projet, ne pourra pas dépasser les plafonds fixés ci-après :
 
-1. 100 pour cent pour les projets de recherche fondamentale ;
+- 100 pour cent pour les projets de recherche fondamentale ;
 
-2. 60 pour cent pour les projets de recherche industrielle ou de développement expérimental.
+- 60 pour cent pour les projets de recherche industrielle ou de développement expérimental.
 
 (2)
 
@@ -113,23 +113,23 @@ Coûts admissibles des projets de recherche et développement liés à la lutte 
 
 Les coûts suivants sont admissibles au titre d’une aide :
 
-1. les frais de personnel ;
+- les frais de personnel ;
 
-2. les coûts liés aux équipements numériques et informatiques, aux outils de diagnostic, aux outils de collecte et de traitement des données, aux services de recherche et développement, aux essais précliniques et cliniques (phases d’essai I-II), à l’obtention, à la validation et à la défense des brevets et autres actifs incor­porels, à l’obtention des évaluations de conformité ou autorisations nécessaires à la mise sur le marché de vaccins et de médicaments, de dispositifs médicaux, d’équipement hospitalier et médical, de désinfectants et d’équipement de protection individuel nouveaux et améliorés. Lorsque des équi­pements ne sont pas utilisés pendant toute leur durée de vie dans le cadre du projet, seuls les coûts d’amortissement correspondant à la durée du projet, calculés conformément aux principes comp­tables généralement admis, sont jugés admissibles ;
+- les coûts liés aux équipements numériques et informatiques, aux outils de diagnostic, aux outils de collecte et de traitement des données, aux services de recherche et développement, aux essais précliniques et cliniques (phases d’essai I-II), à l’obtention, à la validation et à la défense des brevets et autres actifs incor­porels, à l’obtention des évaluations de conformité ou autorisations nécessaires à la mise sur le marché de vaccins et de médicaments, de dispositifs médicaux, d’équipement hospitalier et médical, de désinfectants et d’équipement de protection individuel nouveaux et améliorés. Lorsque des équi­pements ne sont pas utilisés pendant toute leur durée de vie dans le cadre du projet, seuls les coûts d’amortissement correspondant à la durée du projet, calculés conformément aux principes comp­tables généralement admis, sont jugés admissibles ;
 
-3. les coûts des bâtiments et des terrains, dans la mesure où et aussi longtemps qu’ils sont utilisés pour le projet. En ce qui concerne les bâtiments, seuls les coûts d’amortissement correspondant à la durée du projet, calculés conformément aux principes comptables généralement admis, sont jugés admis­sibles. Pour ce qui est des terrains, les frais de cession commerciale ou les coûts d’investissement effectivement supportés sont admissibles ;
+- les coûts des bâtiments et des terrains, dans la mesure où et aussi longtemps qu’ils sont utilisés pour le projet. En ce qui concerne les bâtiments, seuls les coûts d’amortissement correspondant à la durée du projet, calculés conformément aux principes comptables généralement admis, sont jugés admis­sibles. Pour ce qui est des terrains, les frais de cession commerciale ou les coûts d’investissement effectivement supportés sont admissibles ;
 
-4. les coûts de la recherche contractuelle ou de services de recherche, des connaissances et des brevets achetés ou pris sous licence auprès de sources extérieures à des conditions de pleine concurrence, ainsi que les coûts des services de conseil et des services équivalents utilisés exclusivement aux fins du projet ;
+- les coûts de la recherche contractuelle ou de services de recherche, des connaissances et des brevets achetés ou pris sous licence auprès de sources extérieures à des conditions de pleine concurrence, ainsi que les coûts des services de conseil et des services équivalents utilisés exclusivement aux fins du projet ;
 
-5. les frais généraux additionnels et les autres frais d’exploitation, notamment les coûts des matériaux, fournitures et produits similaires, supportés directement du fait du projet.
+- les frais généraux additionnels et les autres frais d’exploitation, notamment les coûts des matériaux, fournitures et produits similaires, supportés directement du fait du projet.
 
 (2)
 
 Les coûts suivants ne sont pas admissibles au titre d’une aide au profit de projets de recherche et développement liés à la lutte contre le Covid-19 :
 
-1. les frais et dépenses en rapport avec la commercialisation des résultats de projets de recherche et développement liés à la lutte contre le Covid-19;
+- les frais et dépenses en rapport avec la commercialisation des résultats de projets de recherche et développement liés à la lutte contre le Covid-19;
 
-2. les intérêts en rapport avec le financement d’un projet de recherche et développement lié à la lutte contre le Covid-19.
+- les intérêts en rapport avec le financement d’un projet de recherche et développement lié à la lutte contre le Covid-19.
 
 (3)
 
@@ -181,23 +181,23 @@ Lorsque le début du projet a eu lieu entre le 1er janvier 2020 et le 1er févri
 
 La demande d’aide doit être soumise au plus tard le 31 mai 2021 et doit contenir au moins les informations suivantes :
 
-1. le nom et la taille de l’entreprise conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
+- le nom et la taille de l’entreprise conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-2. une description du projet explicitant sa pertinence pour la lutte contre le Covid-19 ;
+- une description du projet explicitant sa pertinence pour la lutte contre le Covid-19 ;
 
-3. la date de début et de fin du projet ;
+- la date de début et de fin du projet ;
 
-4. une description des modalités de valorisation économique des résultats du projet en cas de projet de recherche et développement et du potentiel économique ;
+- une description des modalités de valorisation économique des résultats du projet en cas de projet de recherche et développement et du potentiel économique ;
 
-5. la localisation du projet ;
+- la localisation du projet ;
 
-6. une liste des coûts du projet ;
+- une liste des coûts du projet ;
 
-7. le montant de l’aide nécessaire pour le projet, l’activité ou de l’investissement et des opérations connexes ;
+- le montant de l’aide nécessaire pour le projet, l’activité ou de l’investissement et des opérations connexes ;
 
-8. les termes et conditions d’un projet de collaboration effective, indiquant notamment les contributions à ses coûts, le partage des risques et des résultats, la diffusion des résultats, les règles d’attribution de la propriété intellectuelle et l’accès à celle-ci, si applicable ;
+- les termes et conditions d’un projet de collaboration effective, indiquant notamment les contributions à ses coûts, le partage des risques et des résultats, la diffusion des résultats, les règles d’attribution de la propriété intellectuelle et l’accès à celle-ci, si applicable ;
 
-9. une justification, le cas échéant, du besoin d’une garantie de couverture des pertes liée à l’investis­sement.
+- une justification, le cas échéant, du besoin d’une garantie de couverture des pertes liée à l’investis­sement.
 
 La demande d’aide peut contenir toute autre pièce que l’entreprise requérante estime utile afin de permettre au ministre d’apprécier le bien-fondé de sa demande.
 
@@ -235,11 +235,11 @@ Les aides prévues aux articles 3 et 5 ne peuvent pas être cumulées pour les m
 
 Pour les mêmes coûts admissibles, les aides définies aux articles 3 et 5 ne sont pas cumulables avec :
 
-1. les aides de minimis conformément au règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité aux aides de minimis, pour autant que le cumul conduit à dépasser l’intensité d’aide maximale prévue par le régime applicable ;
+- les aides de minimis conformément au règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité aux aides de minimis, pour autant que le cumul conduit à dépasser l’intensité d’aide maximale prévue par le régime applicable ;
 
-2. les aides prévues par la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation, pour autant que le cumul conduit à dépasser l’intensité d’aide maximale prévue par le régime applicable ;
+- les aides prévues par la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation, pour autant que le cumul conduit à dépasser l’intensité d’aide maximale prévue par le régime applicable ;
 
-3. tout autre financement public, y compris le financement de l’Union européenne, pour autant que le cumul conduit à dépasser l’intensité d’aide maximale prévue par le régime applicable.
+- tout autre financement public, y compris le financement de l’Union européenne, pour autant que le cumul conduit à dépasser l’intensité d’aide maximale prévue par le régime applicable.
 
 (3)
 

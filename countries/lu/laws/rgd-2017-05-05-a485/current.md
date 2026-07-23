@@ -39,11 +39,11 @@ Le présent règlement a pour objet de définir les données de contact du point
 
 Le point de contact national pour le signalement des transactions suspectes, des disparitions importantes et des vols importants de précurseurs d’explosifs au sens du règlement (UE) n° 2019/1148 et de la loi du 5 mai 2017 devra être contacté selon l’un des modes suivants :
 
-1. par téléphone : au numéro 244 24 22 51 de la Police grand-ducale ;
+- par téléphone : au numéro 244 24 22 51 de la Police grand-ducale ;
 
-2. par courriel : à l’adresse email dri@police.etat.lu ;
+- par courriel : à l’adresse email dri@police.etat.lu ;
 
-3. par formulaire en ligne, disponible sur le site internet www.police.etat.lu .
+- par formulaire en ligne, disponible sur le site internet www.police.etat.lu .
 
 <a id="art-2bis"></a>
 ## Art. 2bis.
@@ -62,45 +62,45 @@ La formation spéciale des fonctionnaires visés à l’article 3, qui s’éten
 
 - Première partie (2 heures)
 
-1. organisation judiciaire
+  - organisation judiciaire
 
-2. fonctionnement du Parquet
+  - fonctionnement du Parquet
 
-3. acheminement des dossiers
+  - acheminement des dossiers
 
-4. fonction de juge d’instruction, et saisine du juge d’instruction
+  - fonction de juge d’instruction, et saisine du juge d’instruction
 
-5. saisine des juridictions de jugement et déroulement des audiences
+  - saisine des juridictions de jugement et déroulement des audiences
 
 - Deuxième partie (2 heures)
 
-1. droits et obligations de l’officier de police judiciaire
+  - droits et obligations de l’officier de police judiciaire
 
-2. valeur probante
+  - valeur probante
 
 - Troisième partie (2 heures)
 
-1. recherche et constatation des infractions
+  - recherche et constatation des infractions
 
-2. flagrant délit
+  - flagrant délit
 
-3. ordonnance de perquisition et de saisie
+  - ordonnance de perquisition et de saisie
 
 - Quatrième partie (2 heures)
 
-1. établissement du procès-verbal
+  - établissement du procès-verbal
 
-2. audition des contrevenants et des témoins
+  - audition des contrevenants et des témoins
 
-3. rédaction des rapports
+  - rédaction des rapports
 
 - Cinquième partie (8 heures)
 
-1. typologie des précurseurs d’explosifs
+  - typologie des précurseurs d’explosifs
 
-2. système des informations, déclarations, signalements et inspections
+  - système des informations, déclarations, signalements et inspections
 
-3. dispositions pénales de la loi du 5 mai 2017
+  - dispositions pénales de la loi du 5 mai 2017
 
 En vue de son admission à l’examen prévu à l’article 6, le candidat doit justifier d’une présence aux cours correspondant à au moins 90 pour cent de la durée totale de la formation.
 

@@ -39,25 +39,25 @@ Les personnes physiques et les personnes morales ont un droit d’accès aux doc
 
 Sont toutefois exclus du droit d’accès, les documents relatifs :
 
-1. aux relations extérieures, à la sécurité du Grand-Duché de Luxembourg ou à l’ordre public ;
+- aux relations extérieures, à la sécurité du Grand-Duché de Luxembourg ou à l’ordre public ;
 
-2. à la sécurité des personnes ou au respect de la vie privée ;
+- à la sécurité des personnes ou au respect de la vie privée ;
 
-3. au déroulement des procédures engagées devant les instances juridictionnelles, extrajudiciaires ou disciplinaires ou d’opérations préliminaires à de telles procédures ;
+- au déroulement des procédures engagées devant les instances juridictionnelles, extrajudiciaires ou disciplinaires ou d’opérations préliminaires à de telles procédures ;
 
-4. à la prévention, à la recherche ou à la poursuite de faits punissables ;
+- à la prévention, à la recherche ou à la poursuite de faits punissables ;
 
-5. à des droits de propriété intellectuelle ;
+- à des droits de propriété intellectuelle ;
 
-6. à un secret ou une confidentialité protégés par la loi ;
+- à un secret ou une confidentialité protégés par la loi ;
 
-7. aux missions de contrôle, d’inspection et de régulation des organismes visés au paragraphe 1 er ;
+- aux missions de contrôle, d’inspection et de régulation des organismes visés au paragraphe 1 er ;
 
-8. au caractère confidentiel des informations commerciales et industrielles communiquées aux organismes visés au paragraphe 1 er ;
+- au caractère confidentiel des informations commerciales et industrielles communiquées aux organismes visés au paragraphe 1 er ;
 
-9. à la capacité des organismes visés au paragraphe 1 er de mener leur politique économique, financière, fiscale et commerciale si la publication des documents est de nature à entraver les processus de décision y relatifs ;
+- à la capacité des organismes visés au paragraphe 1 er de mener leur politique économique, financière, fiscale et commerciale si la publication des documents est de nature à entraver les processus de décision y relatifs ;
 
-10. à la confidentialité des délibérations du Gouvernement.
+- à la confidentialité des délibérations du Gouvernement.
 
 ##### Section 2 Modalités d’accès
 
@@ -91,11 +91,11 @@ Pour les demandes formulées de manière trop générale, l’organisme sollicit
 
 Le document demandé est mis à la disposition du demandeur dans les meilleurs délais et au plus tard dans le mois qui suit la réception de la demande par l’organisme sollicité selon les modalités suivantes :
 
-1. par la délivrance de copies en un seul exemplaire ; Sans préjudice des pouvoirs conférés par la loi communale modifiée du 13 décembre 1988 aux autorités communales, un règlement grand-ducal peut fixer une redevance à payer par le demandeur en cas de délivrance de copies d’un document. Cette redevance ne peut excéder le coût réel de reproduction.
+- par la délivrance de copies en un seul exemplaire ; Sans préjudice des pouvoirs conférés par la loi communale modifiée du 13 décembre 1988 aux autorités communales, un règlement grand-ducal peut fixer une redevance à payer par le demandeur en cas de délivrance de copies d’un document. Cette redevance ne peut excéder le coût réel de reproduction.
 
-2. par la transmission par voie électronique lorsque le document est disponible sous forme électronique et si le demandeur a communiqué une adresse électronique aux organismes visés à l’article 1 er , paragraphe 1 er ;
+- par la transmission par voie électronique lorsque le document est disponible sous forme électronique et si le demandeur a communiqué une adresse électronique aux organismes visés à l’article 1 er , paragraphe 1 er ;
 
-3. par la consultation sur place lorsque la reproduction nuit à la conservation du document ou n’est pas possible en raison de la nature du document demandé.
+- par la consultation sur place lorsque la reproduction nuit à la conservation du document ou n’est pas possible en raison de la nature du document demandé.
 
 Le dépôt aux Archives nationales des documents accessibles aux termes de la présente loi ne fait pas obstacle au droit à communication.
 
@@ -103,15 +103,15 @@ Le dépôt aux Archives nationales des documents accessibles aux termes de la pr
 
 Le délai prévu au paragraphe 1er peut être prolongé d’un mois lorsque :
 
-1. le volume et la complexité des documents demandés sont tels que le délai d’un mois ne peut être respecté ;
+- le volume et la complexité des documents demandés sont tels que le délai d’un mois ne peut être respecté ;
 
-2. la demande est adressée à l’organisme qui ne détient pas le document ;
+- la demande est adressée à l’organisme qui ne détient pas le document ;
 
-3. l’organisme doit, en application de l’article 6, occulter ou disjoindre les données à caractère personnel d’autres personnes ;
+- l’organisme doit, en application de l’article 6, occulter ou disjoindre les données à caractère personnel d’autres personnes ;
 
-4. le document sollicité a fait l’objet d’un dépôt aux Archives nationales ;
+- le document sollicité a fait l’objet d’un dépôt aux Archives nationales ;
 
-5. l’organisme doit consulter un tiers.
+- l’organisme doit consulter un tiers.
 
 Le demandeur est informé dès que possible, et, en tout état de cause, avant la fin du délai d’un mois, de toute prolongation du délai et des motifs de cette prolongation.
 
@@ -124,24 +124,24 @@ Lorsque l’organisme sollicité demande au requérant de préciser la demande, 
 
 Ne sont communicables qu’à la personne concernée les documents qui :
 
-1. comportent des données à caractère personnel ; Si la demande porte sur un document qui contient également des données à caractère personnel d’autres personnes nommément désignées ou facilement identifiables, le document n’est communiqué à la personne à l’origine de la demande que s’il est possible pour les organismes visés à l’article 1er, paragraphe 1er, d’occulter ou de disjoindre, sans charge administrative excessive, les données personnelles des autres personnes concernées par ce document ou si celles-ci en donnent leur accord écrit.
+- comportent des données à caractère personnel ; Si la demande porte sur un document qui contient également des données à caractère personnel d’autres personnes nommément désignées ou facilement identifiables, le document n’est communiqué à la personne à l’origine de la demande que s’il est possible pour les organismes visés à l’article 1er, paragraphe 1er, d’occulter ou de disjoindre, sans charge administrative excessive, les données personnelles des autres personnes concernées par ce document ou si celles-ci en donnent leur accord écrit.
 
-2. comportent une appréciation ou un jugement de valeur sur la personne physique concernée, nommément désignée ou facilement identifiable ; Si la demande porte sur un document qui comporte également une appréciation ou un jugement de valeur sur d’autres personnes nommément désignées ou facilement identifiables, le document n’est communiqué à la personne à l’origine de la demande que s’il est possible pour les organismes visés à l’article 1er, paragraphe 1er, d’occulter ou de disjoindre, sans charge administrative excessive, les informations relatives aux autres personnes concernées par ce document ou si celles-ci en donnent leur accord écrit.
+- comportent une appréciation ou un jugement de valeur sur la personne physique concernée, nommément désignée ou facilement identifiable ; Si la demande porte sur un document qui comporte également une appréciation ou un jugement de valeur sur d’autres personnes nommément désignées ou facilement identifiables, le document n’est communiqué à la personne à l’origine de la demande que s’il est possible pour les organismes visés à l’article 1er, paragraphe 1er, d’occulter ou de disjoindre, sans charge administrative excessive, les informations relatives aux autres personnes concernées par ce document ou si celles-ci en donnent leur accord écrit.
 
-3. comportent une opinion communiquée à titre confidentiel à l’administration, à moins que le caractère confidentiel du document n’ait été levé par la personne qui est à l’origine du document.
+- comportent une opinion communiquée à titre confidentiel à l’administration, à moins que le caractère confidentiel du document n’ait été levé par la personne qui est à l’origine du document.
 
 <a id="art-7"></a>
 ## Art. 7.
 
 La demande de communication peut être refusée si :
 
-1. la demande concerne des documents en cours d’élaboration ou des documents inachevés ;
+- la demande concerne des documents en cours d’élaboration ou des documents inachevés ;
 
-2. la demande porte sur un document qui est déjà publié ou qui a été réalisé à des fins de commercialisation ;
+- la demande porte sur un document qui est déjà publié ou qui a été réalisé à des fins de commercialisation ;
 
-3. la demande est manifestement abusive par son nombre, son caractère systématique ou répétitif ;
+- la demande est manifestement abusive par son nombre, son caractère systématique ou répétitif ;
 
-4. la demande concerne des communications internes.
+- la demande concerne des communications internes.
 
 <a id="art-8"></a>
 ## Art. 8.

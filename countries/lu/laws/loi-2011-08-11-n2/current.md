@@ -112,13 +112,13 @@ Les dispositions du paragraphe 1er ne sont pas applicables aux locaux d’habita
 
 Dans l’exercice des attributions prévues aux paragraphes 1er et (2), les membres de la Police grand-ducale relevant du cadre policier et les fonctionnaires visés à l’article 5 sont autorisés:
 
-1. à procéder ou à faire procéder à des essais d’appareils ou de dispositifs provoquant ou susceptibles de provoquer des pollutions ou destinés à les combattre;
+- à procéder ou à faire procéder à des essais d’appareils ou de dispositifs provoquant ou susceptibles de provoquer des pollutions ou destinés à les combattre;
 
-2. à recevoir communication de tous livres, registres et fichiers relatifs aux substances, équipements et produits visés par le règlement (CE) n° 1005/2009 du Parlement européen et du Conseil du 16 septembre 2009 relatif à des substances qui appauvrissent la couche d’ozone;
+- à recevoir communication de tous livres, registres et fichiers relatifs aux substances, équipements et produits visés par le règlement (CE) n° 1005/2009 du Parlement européen et du Conseil du 16 septembre 2009 relatif à des substances qui appauvrissent la couche d’ozone;
 
-3. à prélever ou à faire prélever, aux fins d’examen ou d’analyse, des échantillons des substances visées par le règlement (CE) précité . Une partie de l’échantillon, cachetée ou scellée, est remise à l’exploitant ou au détenteur à moins que celui-ci n’y renonce expressément ou que des raisons techniques ne s’y opposent;
+- à prélever ou à faire prélever, aux fins d’examen ou d’analyse, des échantillons des substances visées par le règlement (CE) précité . Une partie de l’échantillon, cachetée ou scellée, est remise à l’exploitant ou au détenteur à moins que celui-ci n’y renonce expressément ou que des raisons techniques ne s’y opposent;
 
-4. à saisir et, au besoin, à mettre sous scellés les substances, équipements et produits visés par le règlement (CE) précité ainsi que les livres, registres et fichiers y relatifs.
+- à saisir et, au besoin, à mettre sous scellés les substances, équipements et produits visés par le règlement (CE) précité ainsi que les livres, registres et fichiers y relatifs.
 
 (4)
 

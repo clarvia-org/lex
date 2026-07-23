@@ -48,13 +48,13 @@ L'Ecole est placée sous l'autorité du membre du Gouvernement ayant l'Education
 
 L'Ecole assure:
 
-1. l'organisation de formations en vue de réintégrer le dispositif de la formation initiale ou de la formation des adultes;
+- l'organisation de formations en vue de réintégrer le dispositif de la formation initiale ou de la formation des adultes;
 
-2. l'organisation de classes des voies de formation de l'enseignement secondaire;
+- l'organisation de classes des voies de formation de l'enseignement secondaire;
 
-3. l'organisation de formations dans le cadre de la formation des adultes;
+- l'organisation de formations dans le cadre de la formation des adultes;
 
-4. l'orientation et l'insertion scolaire et professionnelle des apprenants.
+- l'orientation et l'insertion scolaire et professionnelle des apprenants.
 
 Les formations sous a et b organisées à l'Ecole mettent en œuvre un enseignement général et le cas échéant une formation pratique et professionnelle. En outre, ces formations comprennent un encadrement socio-pédagogique intégré.
 
@@ -118,11 +118,11 @@ L'Ecole peut offrir les formations ainsi que les voies de formation suivantes:
 
 - les voies de formation organisées dans le cadre de la formation des adultes:
 
-1. les études secondaires en formation des adultes;
+  - les études secondaires en formation des adultes;
 
-2. la formation d'éducateur en alternance menant au diplôme d'éducateur et au diplôme de fin d'études secondaires ;
+  - la formation d'éducateur en alternance menant au diplôme d'éducateur et au diplôme de fin d'études secondaires ;
 
-3. des modules préparatoires pouvant donner accès à des études supérieures; la réussite de ces modules préparatoires donne accès aux professions réglementées et aux emplois du secteur public au même titre que le diplôme de fin d'études secondaires.
+  - des modules préparatoires pouvant donner accès à des études supérieures; la réussite de ces modules préparatoires donne accès aux professions réglementées et aux emplois du secteur public au même titre que le diplôme de fin d'études secondaires.
 
 Le certificat de réussite des classes inférieures de l'enseignement secondaire général et le certificat de réussite de cinq années de l'enseignement secondaire sont délivrés selon les critères valables dans les lycées.
 
@@ -131,29 +131,29 @@ Le certificat de réussite des classes inférieures de l'enseignement secondaire
 
 L'enseignement général et pratique, y inclus les activités complémentaires, peut être offert dans les domaines suivants:
 
-1. le domaine général, qui peut comprendre:
+- le domaine général, qui peut comprendre:
 
-1. la communication orale et écrite dans les langues française, allemande, luxembourgeoise et anglaise;
+  - la communication orale et écrite dans les langues française, allemande, luxembourgeoise et anglaise;
 
-2. les mathématiques et le calcul;
+  - les mathématiques et le calcul;
 
-3. l'éducation à la culture;
+  - l'éducation à la culture;
 
-4. l'éducation à la citoyenneté;
+  - l'éducation à la citoyenneté;
 
-5. les technologies de l'information;
+  - les technologies de l'information;
 
-6. l'éducation sportive et l'éducation à la santé;
+  - l'éducation sportive et l'éducation à la santé;
 
-7. les sciences naturelles et techniques;
+  - les sciences naturelles et techniques;
 
-8. les sciences humaines et sociales.
+  - les sciences humaines et sociales.
 
-2. le domaine pratique, qui peut comprendre:
+- le domaine pratique, qui peut comprendre:
 
-1. l'apprentissage pratique à l'atelier scolaire;
+  - l'apprentissage pratique à l'atelier scolaire;
 
-2. les stages en milieu professionnel.
+  - les stages en milieu professionnel.
 
 Le domaine pratique peut être organisé dans les différents secteurs professionnels.
 
@@ -451,36 +451,36 @@ Les engagements définitifs au service de l'État résultant des dispositions du
 <a id="art-32"></a>
 ## Art. 32.
 
-1. La tâche des enseignants et des formateurs comporte:
+- La tâche des enseignants et des formateurs comporte:
 
-- une tâche d'enseignement ou de formation;
+  - une tâche d'enseignement ou de formation;
 
-- une tâche de tutorat et de concertation dans les équipes pédagogiques;
+  - une tâche de tutorat et de concertation dans les équipes pédagogiques;
 
-- la préparation et l'organisation des cours en commun;
+  - la préparation et l'organisation des cours en commun;
 
-- la disponibilité, la consultation des parents;
+  - la disponibilité, la consultation des parents;
 
-- la participation à des séances de formation continue;
+  - la participation à des séances de formation continue;
 
-- la participation à l'organisation des cours de formation continue pour les parents des apprenants;
+  - la participation à l'organisation des cours de formation continue pour les parents des apprenants;
 
-- le suivi des stages en milieu professionnel.
+  - le suivi des stages en milieu professionnel.
 
-2. La tâche hebdomadaire du personnel éducatif comprend:
+- La tâche hebdomadaire du personnel éducatif comprend:
 
-- une tâche d'organisation et d'éducation dans le cadre des activités complémentaires;
+  - une tâche d'organisation et d'éducation dans le cadre des activités complémentaires;
 
-- une tâche de tutorat et de concertation dans les équipes pédagogiques;
+  - une tâche de tutorat et de concertation dans les équipes pédagogiques;
 
-- l'éducation des apprenants à la vie de l'École dans un contexte de coopération et de participation;
+  - l'éducation des apprenants à la vie de l'École dans un contexte de coopération et de participation;
 
-- le suivi social;
+  - le suivi social;
 
-- la participation à des séances de formation continue;
+  - la participation à des séances de formation continue;
 
-- la participation à l'organisation des cours de formation continue pour les parents des apprenants;
+  - la participation à l'organisation des cours de formation continue pour les parents des apprenants;
 
-- l'organisation et le suivi des stages en milieu professionnel.
+  - l'organisation et le suivi des stages en milieu professionnel.
 
 Le volume de la tâche d'enseignement ou de formation et de la tâche d'encadrement des enseignants et des formateurs est fixé par règlement grand-ducal. Il en est de même du volume de la tâche du personnel éducatif.

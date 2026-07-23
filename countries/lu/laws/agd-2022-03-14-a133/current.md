@@ -44,15 +44,15 @@ Les membres du Gouvernement sont au service de tous les citoyens. Ils sont tenus
 
 Avant leur nomination, les membres du Gouvernement soumettent au Premier Ministre, Ministre d’État une liste qui renseigne :
 
-1. l’ensemble des activités rémunérées qu’ils ont exercées pendant les dix ans qui ont précédé leur nomination ;
+- l’ensemble des activités rémunérées qu’ils ont exercées pendant les dix ans qui ont précédé leur nomination ;
 
-2. les activités professionnelles que le conjoint ou partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats exerce au moment de la prise de fonction et le cas échéant le nom de l’employeur du conjoint ou partenaire ;
+- les activités professionnelles que le conjoint ou partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats exerce au moment de la prise de fonction et le cas échéant le nom de l’employeur du conjoint ou partenaire ;
 
-3. toute forme de participation financière individualisée, sous forme d’actions ou d’autres titres, dans le capital d’une entreprise. Les parts de fonds communs de placement, vu qu’elles ne représentent pas un intérêt direct dans le capital d’une entreprise, ne devant pas être déclarées ;
+- toute forme de participation financière individualisée, sous forme d’actions ou d’autres titres, dans le capital d’une entreprise. Les parts de fonds communs de placement, vu qu’elles ne représentent pas un intérêt direct dans le capital d’une entreprise, ne devant pas être déclarées ;
 
-4. les propriétés immobilières qui ne leur servent pas d’habitation et qui ne servent pas d’habitation à titre gratuit à un membre de leur famille jusqu’au deuxième degré inclusivement, ainsi que les parts dans des sociétés immobilières ;
+- les propriétés immobilières qui ne leur servent pas d’habitation et qui ne servent pas d’habitation à titre gratuit à un membre de leur famille jusqu’au deuxième degré inclusivement, ainsi que les parts dans des sociétés immobilières ;
 
-5. toute situation d’endettement qui dépasse le seuil de 100.000 euros, à l’exception des dettes hypothécaires contractées pour l’acquisition de l’habitation principale.
+- toute situation d’endettement qui dépasse le seuil de 100.000 euros, à l’exception des dettes hypothécaires contractées pour l’acquisition de l’habitation principale.
 
 La liste est transmise par le Premier Ministre, Ministre d’État au comité d’éthique.
 
@@ -64,11 +64,11 @@ Si le comité d’éthique estime dans son avis que le membre du Gouvernement se
 
 Cette liste a pour finalité :
 
-1. la transparence, auprès du comité d’éthique, des informations précitées touchant aux activités rémunérées et professionnelles des membres du Gouvernement, de leurs conjoints ou partenaires, les participations financières individualisées ainsi qu’au patrimoine immobilier et à la situation d’endettement des membres du Gouvernement ;
+- la transparence, auprès du comité d’éthique, des informations précitées touchant aux activités rémunérées et professionnelles des membres du Gouvernement, de leurs conjoints ou partenaires, les participations financières individualisées ainsi qu’au patrimoine immobilier et à la situation d’endettement des membres du Gouvernement ;
 
-2. l’information des citoyens sur des données visées au paragraphe 1 er à l’exception des points 4° et 5° ;
+- l’information des citoyens sur des données visées au paragraphe 1 er à l’exception des points 4° et 5° ;
 
-3. la mise à disposition au public de ces informations à l’exception des points 4° et 5°.
+- la mise à disposition au public de ces informations à l’exception des points 4° et 5°.
 
 (3)
 
@@ -113,11 +113,11 @@ Une liste de présence est signée par les participants et transmise au comité 
 
 À partir de leur nomination, les membres du Gouvernement suivent au cours de leur mandat, au moins une formation sur un des sujets suivants :
 
-1. les droits et responsabilités des membres du Gouvernement ;
+- les droits et responsabilités des membres du Gouvernement ;
 
-2. l’éthique et l’intégrité ;
+- l’éthique et l’intégrité ;
 
-3. la lutte contre la corruption.
+- la lutte contre la corruption.
 
 Les certificats de participation sont envoyés directement par le Premier Ministre, Ministre d’État, au comité d’éthique. Une dispense peut être accordée par le comité d’éthique si le membre de Gouvernement a déjà accompli une des formations en question ou une formation équivalente sur ces sujets.
 
@@ -143,21 +143,21 @@ Tout membre du Gouvernement qui constate qu’il s’expose à un conflit d’in
 
 Le Gouvernement tient un registre des entrevues ayant eu lieu entre les membres du Gouvernement et des représentants d’intérêts ou des tiers, tant pour les entrevues sollicitées sur initiative des membres du Gouvernement que sur l’initiative des représentants d’intérêts ou des tiers, pour autant que ces entrevues aient eu comme objet la recherche d’une prise d’influence sur les activités législatives ou réglementaires du Gouvernement. Ne sont pas concernées :
 
-1. les entrevues relatives à des décisions administratives individuelles ;
+- les entrevues relatives à des décisions administratives individuelles ;
 
-2. la participation en tant que parties aux activités de conciliation ou de médiation ;
+- la participation en tant que parties aux activités de conciliation ou de médiation ;
 
-3. les entrevues qui ont lieu dans le cadre du dialogue social, notamment le Comité de conjoncture, le Conseil économique et social, le Comité de coordination tripartite, le Comité permanent du travail et de l’emploi, ou les comités ou conférences sectoriels.
+- les entrevues qui ont lieu dans le cadre du dialogue social, notamment le Comité de conjoncture, le Conseil économique et social, le Comité de coordination tripartite, le Comité permanent du travail et de l’emploi, ou les comités ou conférences sectoriels.
 
 Le registre a pour finalité :
 
-1. l’identification et le recensement des informations relatives aux entrevues visées à l’alinéa 1 er ;
+- l’identification et le recensement des informations relatives aux entrevues visées à l’alinéa 1 er ;
 
-2. la transparence des prises d’influence sur les activités législatives ou réglementaires du Gouvernement par les représentants d’intérêts et les tiers ;
+- la transparence des prises d’influence sur les activités législatives ou réglementaires du Gouvernement par les représentants d’intérêts et les tiers ;
 
-3. l’information des citoyens sur les contacts entre les membres du Gouvernement et les représentants d’intérêts et les tiers ;
+- l’information des citoyens sur les contacts entre les membres du Gouvernement et les représentants d’intérêts et les tiers ;
 
-4. la mise à disposition au public des informations relatives aux entrevues visées à l’alinéa 1 er .
+- la mise à disposition au public des informations relatives aux entrevues visées à l’alinéa 1 er .
 
 Le registre est publiquement accessible sur le site internet du Gouvernement.
 
@@ -167,11 +167,11 @@ Aux fins du présent article, on entend par :
 
 - « représentant d’intérêts » : toute personne qui déclare agir :
 
-1. soit dans l’intérêt d’autrui qui l’a mandatée contre rémunération ;
+  - soit dans l’intérêt d’autrui qui l’a mandatée contre rémunération ;
 
-2. soit dans l’intérêt d’autrui s’adonnant à une activité économique et qui l’a mandatée contre rémunération ;
+  - soit dans l’intérêt d’autrui s’adonnant à une activité économique et qui l’a mandatée contre rémunération ;
 
-3. soit dans l’intérêt d’une association, d’un syndicat professionnel, d’une chambre professionnelle, d’une organisation non gouvernementale, d’un groupe de réflexion, d’un organisme de recherche, d’une institution universitaire, d’une communauté religieuse, d’une commune ou d’une entité publique exerçant son activité dans un secteur concurrentiel conformément aux règles du droit privé ;
+  - soit dans l’intérêt d’une association, d’un syndicat professionnel, d’une chambre professionnelle, d’une organisation non gouvernementale, d’un groupe de réflexion, d’un organisme de recherche, d’une institution universitaire, d’une communauté religieuse, d’une commune ou d’une entité publique exerçant son activité dans un secteur concurrentiel conformément aux règles du droit privé ;
 
 - « tiers » : toute personne, autre que le représentant d’intérêts, qui déclare agir, soit pour son propre compte et pour défendre ses propres intérêts, soit dans l’intérêt d’autrui sans avoir été mandatée à cette fin.
 
@@ -185,17 +185,17 @@ Il désigne des agents de l’État qui sont en charge, sous son autorité, de t
 
 Le registre contient les données suivantes :
 
-1. la date et le lieu de l’entrevue ;
+- la date et le lieu de l’entrevue ;
 
-2. le nom et le prénom des membres du Gouvernement présents à l’entrevue ;
+- le nom et le prénom des membres du Gouvernement présents à l’entrevue ;
 
-3. le nom et le prénom des représentants d’intérêts et des tiers présents à l’entrevue ;
+- le nom et le prénom des représentants d’intérêts et des tiers présents à l’entrevue ;
 
-4. la dénomination, la raison sociale, l’adresse du siège social et le numéro d’immatriculation au registre de commerce et des sociétés, des entités et personnes morales qui ont été représentées, sinon, lorsqu’il s’agit d’une personne physique, le nom et le prénom ainsi que la localité de l’adresse professionnelle sinon privée ;
+- la dénomination, la raison sociale, l’adresse du siège social et le numéro d’immatriculation au registre de commerce et des sociétés, des entités et personnes morales qui ont été représentées, sinon, lorsqu’il s’agit d’une personne physique, le nom et le prénom ainsi que la localité de l’adresse professionnelle sinon privée ;
 
-5. une description sommaire de la position défendue par les représentants d’intérêts et les tiers par rapport aux activités législatives ou réglementaires ;
+- une description sommaire de la position défendue par les représentants d’intérêts et les tiers par rapport aux activités législatives ou réglementaires ;
 
-6. si applicable, les projets de loi ou de règlements grand-ducaux ainsi que les lois et règlements grand-ducaux sur lesquels ont porté les discussions.
+- si applicable, les projets de loi ou de règlements grand-ducaux ainsi que les lois et règlements grand-ducaux sur lesquels ont porté les discussions.
 
 Le registre est structuré d’après l’ordre protocolaire retenu lors de l’attribution des compétences ministérielles aux membres du Gouvernement.
 
@@ -297,11 +297,11 @@ Les agents de l’État procèdent dans les meilleurs délais et au plus tard de
 
 Ce registre a pour finalité :
 
-1. l’identification et le recensement des offres d’hospitalité et des cadeaux remis aux membres du Gouvernement ;
+- l’identification et le recensement des offres d’hospitalité et des cadeaux remis aux membres du Gouvernement ;
 
-2. l’information des citoyens sur ces offres d’hospitalité et cadeaux ;
+- l’information des citoyens sur ces offres d’hospitalité et cadeaux ;
 
-3. la mise à disposition au public des informations sur ces offres d’hospitalité et cadeaux.
+- la mise à disposition au public des informations sur ces offres d’hospitalité et cadeaux.
 
 (5)
 
@@ -373,9 +373,9 @@ Si le membre du Gouvernement ou l’ancien membre du Gouvernement envisage d’e
 
 À cette fin, le membre du Gouvernement fournit au comité d’éthique une description détaillée de l’activité professionnelle envisagée.
 
-1. Au cas où le comité d’éthique estime que l’activité professionnelle envisagée est en conflit avec les attributions actuelles ou anciennes du membre du Gouvernement, il peut formuler des recommandations d’encadrement de ladite activité pour une durée maximale de deux années après la fin des attributions en conflit.
+- Au cas où le comité d’éthique estime que l’activité professionnelle envisagée est en conflit avec les attributions actuelles ou anciennes du membre du Gouvernement, il peut formuler des recommandations d’encadrement de ladite activité pour une durée maximale de deux années après la fin des attributions en conflit.
 
-2. Au cas où le comité d’éthique estime que l’activité professionnelle envisagée est manifestement en conflit avec les attributions actuelles ou anciennes du membre du Gouvernement et qu’un encadrement de l’activité ne permettra pas d’éviter la situation de conflit d’intérêts, le comité d’éthique peut recommander que le membre du Gouvernement concerné n’exerce pas l’activité envisagée pour une durée maximale de deux années après la fin des attributions en conflit.
+- Au cas où le comité d’éthique estime que l’activité professionnelle envisagée est manifestement en conflit avec les attributions actuelles ou anciennes du membre du Gouvernement et qu’un encadrement de l’activité ne permettra pas d’éviter la situation de conflit d’intérêts, le comité d’éthique peut recommander que le membre du Gouvernement concerné n’exerce pas l’activité envisagée pour une durée maximale de deux années après la fin des attributions en conflit.
 
 En cas de non-respect de l’avis du comité par l’ancien ministre, le comité d’éthique peut publier son avis en tout ou en partie.
 

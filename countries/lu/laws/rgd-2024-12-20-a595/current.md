@@ -34,15 +34,15 @@ warning: 'Official consolidation: Version rectifiée applicable au 01/01/2025 : 
 
 La retenue d’impôt sur les pensions est, sous réserve des dispositions de l’article 2, déterminée, à partir de l’année d’imposition 2025 conformément aux indications des barèmes ci-après désignés et publiés en annexe :
 
-1. le barème de l’impôt annuel sur les pensions, dont les cotes sont mises en compte :
+- le barème de l’impôt annuel sur les pensions, dont les cotes sont mises en compte :
 
-1. pour le décompte annuel ;
+  - pour le décompte annuel ;
 
-2. pour le calcul de la retenue d’impôt sur les pensions non périodiques en dehors du champ d’application du barème prévu à l’alinéa 2 pour la détermination de la retenue d’impôt sur rémunérations non périodiques ;
+  - pour le calcul de la retenue d’impôt sur les pensions non périodiques en dehors du champ d’application du barème prévu à l’alinéa 2 pour la détermination de la retenue d’impôt sur rémunérations non périodiques ;
 
-3. pour la détermination de la retenue d’impôt sur les rémunérations extraordinaires, fixée par application de l’article 141, alinéa 2, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
+  - pour la détermination de la retenue d’impôt sur les rémunérations extraordinaires, fixée par application de l’article 141, alinéa 2, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
 
-2. le barème de la retenue mensuelle sur les pensions ordinaires.
+- le barème de la retenue mensuelle sur les pensions ordinaires.
 
 Les retenues déterminées comme prévu à la première phrase comprennent la majoration pour contribution au fonds pour l’emploi visée à l’article 6 de la loi modifiée du 30 juin 1976 portant 1. création d’un fonds de chômage ; 2. réglementation de l’octroi des indemnités de chômage complet.
 
@@ -62,11 +62,11 @@ Les barèmes désignés à l’article 1er ne s’appliquent pas aux pensions su
 
 Avant l’application des barèmes, les montants suivants sont portés en déduction des pensions brutes auxquelles ils se rapportent, dans la mesure où ces déductions sont permises au profit du pensionné par une disposition légale ou réglementaire :
 
-1. les prélèvements et cotisations versées en raison de l’affiliation obligatoire des salariés au titre de l’assurance maladie et de l’assurance pension, ainsi que les cotisations payées à titre obligatoire par des salariés à un régime étranger visé par un instrument bi- ou multilatéral de sécurité sociale ;
+- les prélèvements et cotisations versées en raison de l’affiliation obligatoire des salariés au titre de l’assurance maladie et de l’assurance pension, ainsi que les cotisations payées à titre obligatoire par des salariés à un régime étranger visé par un instrument bi- ou multilatéral de sécurité sociale ;
 
-2. les pensions ou parties de pensions exonérées d’impôt ;
+- les pensions ou parties de pensions exonérées d’impôt ;
 
-3. la déduction inscrite sur la fiche de retenue d’impôt.
+- la déduction inscrite sur la fiche de retenue d’impôt.
 
 (2)
 

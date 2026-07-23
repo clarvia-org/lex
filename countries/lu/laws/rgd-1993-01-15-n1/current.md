@@ -39,43 +39,43 @@ Dans le cas où un animal fait l’objet d’importation ou d’exportation, dep
 <a id="art-1-2"></a>
 ## Art. 1.-2.
 
-1. Par dérogation à l’article 7 de la loi du 18 décembre 1985 relative aux médicaments vétérinaires, s’il n’existe pas de médicament vétérinaire autorisé au Luxembourg pour une affection touchant une espèce non productrice de denrées alimentaires, le vétérinaire responsable peut, à titre exceptionnel, sous sa responsabilité personnelle directe et notamment afin d’éviter des souffrances inacceptables, traiter l’animal concerné avec: Sans préjudice de dispositions légales ou réglementaires plus strictes applicables aux médicaments contenant certaines substances soumises à un régime particulier, le vétérinaire peut administrer personnellement le médicament ou autoriser le propriétaire, le détenteur ou le responsable de l’animal, à le faire sous sa responsabilité.
+- Par dérogation à l’article 7 de la loi du 18 décembre 1985 relative aux médicaments vétérinaires, s’il n’existe pas de médicament vétérinaire autorisé au Luxembourg pour une affection touchant une espèce non productrice de denrées alimentaires, le vétérinaire responsable peut, à titre exceptionnel, sous sa responsabilité personnelle directe et notamment afin d’éviter des souffrances inacceptables, traiter l’animal concerné avec: Sans préjudice de dispositions légales ou réglementaires plus strictes applicables aux médicaments contenant certaines substances soumises à un régime particulier, le vétérinaire peut administrer personnellement le médicament ou autoriser le propriétaire, le détenteur ou le responsable de l’animal, à le faire sous sa responsabilité.
 
-1. un médicament vétérinaire autorisé pour des animaux d’une autre espèce ou pour des animaux de la même espèce, mais pour une affection différente; ou
+  - un médicament vétérinaire autorisé pour des animaux d’une autre espèce ou pour des animaux de la même espèce, mais pour une affection différente; ou
 
-2. si le médicament visé au point a) n’existe pas, avec soit un médicament à usage humain autorisé en vertu de la loi modifiée du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des médicaments ou autorisé dans un autre État membre de la communauté pour la même espèce ou pour une autre espèce, pour l’affection concernée ou pour une affection différente; ou
+  - si le médicament visé au point a) n’existe pas, avec soit un médicament à usage humain autorisé en vertu de la loi modifiée du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des médicaments ou autorisé dans un autre État membre de la communauté pour la même espèce ou pour une autre espèce, pour l’affection concernée ou pour une affection différente; ou
 
-3. si le médicament visé sous b) n’existe pas, avec un médicament vétérinaire préparé extemporanément par un pharmacien conformément aux termes d’une prescription vétérinaire.
+  - si le médicament visé sous b) n’existe pas, avec un médicament vétérinaire préparé extemporanément par un pharmacien conformément aux termes d’une prescription vétérinaire.
 
-2. Les dispositions du paragraphe 1 du présent article s’appliquent également au traitement d’un équidé par un vétérinaire, à condition que cet animal ait été déclaré, conformément aux décisions 93/623/CEE et 2000/68/CE de la Commission, comme n’étant pas destiné à l’abattage pour la consommation humaine.
+- Les dispositions du paragraphe 1 du présent article s’appliquent également au traitement d’un équidé par un vétérinaire, à condition que cet animal ait été déclaré, conformément aux décisions 93/623/CEE et 2000/68/CE de la Commission, comme n’étant pas destiné à l’abattage pour la consommation humaine.
 
-3. Les dispositions du paragraphe 1 sont applicables au traitement d’une espèce productrice de denrées alimentaires, à condition que les substances pharmacologiquement actives du médicament figurent à l’annexe I, II ou III du règlement (CEE) no 2377/90 et que le vétérinaire fixe un temps d’attente approprié. Si le médicament utilisé n’indique aucun temps d’attente pour les espèces concernées, le temps d’attente spécifié ne doit pas être inférieur à: En ce qui concerne les médicaments homéopathiques vétérinaires pour lesquels les principes actifs figurent à l’annexe II du règlement (CEE) no 2377/90, le temps d’attente visé ci-avant est réduit à zéro.
+- Les dispositions du paragraphe 1 sont applicables au traitement d’une espèce productrice de denrées alimentaires, à condition que les substances pharmacologiquement actives du médicament figurent à l’annexe I, II ou III du règlement (CEE) no 2377/90 et que le vétérinaire fixe un temps d’attente approprié. Si le médicament utilisé n’indique aucun temps d’attente pour les espèces concernées, le temps d’attente spécifié ne doit pas être inférieur à: En ce qui concerne les médicaments homéopathiques vétérinaires pour lesquels les principes actifs figurent à l’annexe II du règlement (CEE) no 2377/90, le temps d’attente visé ci-avant est réduit à zéro.
 
-- sept jours pour les oeufs,
+  - sept jours pour les oeufs,
 
-- sept jours pour le lait,
+  - sept jours pour le lait,
 
-- vingt-huit jours pour la viande de volaille et de mammifères, y compris les graisses et les abats,
+  - vingt-huit jours pour la viande de volaille et de mammifères, y compris les graisses et les abats,
 
-- 500 degrés-jour pour la viande de poisson.
+  - 500 degrés-jour pour la viande de poisson.
 
-4. Lorsqu’un vétérinaire a recours aux dispositions du paragraphe 3 qui précède, il tient un registre de toutes les informations appropriées, à savoir : Il tient cette documentation à la disposition des autorités compétentes, à des fins d’inspection, pendant cinq ans au moins.
+- Lorsqu’un vétérinaire a recours aux dispositions du paragraphe 3 qui précède, il tient un registre de toutes les informations appropriées, à savoir : Il tient cette documentation à la disposition des autorités compétentes, à des fins d’inspection, pendant cinq ans au moins.
 
-- la date d’examen des animaux,
+  - la date d’examen des animaux,
 
-- l’identification du propriétaire,
+  - l’identification du propriétaire,
 
-- le nombre d’animaux traités,
+  - le nombre d’animaux traités,
 
-- le diagnostic,
+  - le diagnostic,
 
-- les médicaments prescrits,
+  - les médicaments prescrits,
 
-- les doses administrées,
+  - les doses administrées,
 
-- la durée du traitement,
+  - la durée du traitement,
 
-- les temps d’attente recommandés.
+  - les temps d’attente recommandés.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -84,91 +84,93 @@ L’article 1er points 1, 2, 3, 4, 5, 6-1,7, 8-1, 9, 12, du règlement grand-duc
 
 Le responsable de la mise sur le marché doit fournir de plus les renseignements suivants:
 
-1. posologie pour les différentes espèces animales auxquelles le médicament vétérinaire est destiné, forme pharmaceutique, mode et voie d’administration et durée limite d’utilisation;
+- posologie pour les différentes espèces animales auxquelles le médicament vétérinaire est destiné, forme pharmaceutique, mode et voie d’administration et durée limite d’utilisation;
 
-2. indication du temps d’attente pour les médicaments destinés aux espèces productrices de denrées alimentaires;
+- indication du temps d’attente pour les médicaments destinés aux espèces productrices de denrées alimentaires;
 
-3. résultats des essais:
+- résultats des essais:
 
-- pharmaceutiques (physico-chimiques, biologiques ou microbiologiques),
+  - pharmaceutiques (physico-chimiques, biologiques ou microbiologiques),
 
-- d’innocuité et d’études de résidus,
+  - d’innocuité et d’études de résidus,
 
-- précliniques et cliniques,
+  - précliniques et cliniques,
 
-- tests évaluant les risques que le médicament pourrait présenter pour l’environnement. Cet impact est étudié et, au cas par cas, des dispositions particulières visant à le limiter sont envisagées;
+  - tests évaluant les risques que le médicament pourrait présenter pour l’environnement. Cet impact est étudié et, au cas par cas, des dispositions particulières visant à le limiter sont envisagées;
 
-4. dans le cas de médicaments destinés à une ou plusieurs espèces productrices de denrées alimentaires, et dont la ou les substances pharmacologiquement actives ne figure pas encore, pour l’espèce ou les espèces considérées, à l’annexe I, II ou III du règlement (CEE) no 2377/90 relatif aux limites maximales de résidus de médicaments vétérinaires, une attestation certifiant le dépôt d’une demande valide d’établissement de limites maximales de résidus auprès de l’Agence conformément audit règlement. A la demande du ministre, le demandeur doit fournir des substances en quantités nécessaires pour contrôler la méthode de détection analytique proposée par le demandeur et pour la mettre en oeuvre dans le cadre des contrôles de routine visant à déceler la présence de résidus des médicaments vétérinaires concernés.
+- dans le cas de médicaments destinés à une ou plusieurs espèces productrices de denrées alimentaires, et dont la ou les substances pharmacologiquement actives ne figure pas encore, pour l’espèce ou les espèces considérées, à l’annexe I, II ou III du règlement (CEE) no 2377/90 relatif aux limites maximales de résidus de médicaments vétérinaires, une attestation certifiant le dépôt d’une demande valide d’établissement de limites maximales de résidus auprès de l’Agence conformément audit règlement. A la demande du ministre, le demandeur doit fournir des substances en quantités nécessaires pour contrôler la méthode de détection analytique proposée par le demandeur et pour la mettre en oeuvre dans le cadre des contrôles de routine visant à déceler la présence de résidus des médicaments vétérinaires concernés.
 
 <a id="art-3"></a>
 ## Art. 3.
 
-1. L’article 1-1 paragraphes 1, 2, 3 et 6 du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments est applicable aux médicaments vétérinaires. Toutefois la dispense de fournir les résultats des essais pharmaceutiques, précliniques et cliniques, se lit comme dispense de fournir les résultats des essais d’innocuité et d’études des résidus, de même que des essais précliniques et cliniques.
+- L’article 1-1 paragraphes 1, 2, 3 et 6 du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments est applicable aux médicaments vétérinaires. Toutefois la dispense de fournir les résultats des essais pharmaceutiques, précliniques et cliniques, se lit comme dispense de fournir les résultats des essais d’innocuité et d’études des résidus, de même que des essais précliniques et cliniques.
 
-2. Par dérogation au dernier alinéa de l’article 1-1 paragraphe 1 précité, pour les médicaments vétérinaires destinés à une ou plusieurs espèces productrices de denrées alimentaires, et contenant une nouvelle substance active qui, au 30 avril 2004, n’a pas encore été autorisée dans la Communauté, la période de dix ans est prolongée d’un an pour chaque extension de l’autorisation à une autre espèce animale productrice de denrées alimentaires, si elle est autorisée dans les cinq ans qui suivent la délivrance de l’autorisation de mise sur le marché initiale. Cette période ne peut toutefois dépasser treize ans au total, pour une autorisation de mise sur le marché concernant quatre espèces productrices de denrées alimentaires ou plus. L’extension de la période de dix ans à onze, douze ou treize ans pour un médicament vétérinaire destiné à une espèce productrice de denrées alimentaires n’est octroyée qu’à condition que le titulaire de l’autorisation de mise sur le marché ait également été à l’origine de la fixation de limites maximales de résidus pour les espèces couvertes par l’autorisation.
+- Par dérogation au dernier alinéa de l’article 1-1 paragraphe 1 précité, pour les médicaments vétérinaires destinés à une ou plusieurs espèces productrices de denrées alimentaires, et contenant une nouvelle substance active qui, au 30 avril 2004, n’a pas encore été autorisée dans la Communauté, la période de dix ans est prolongée d’un an pour chaque extension de l’autorisation à une autre espèce animale productrice de denrées alimentaires, si elle est autorisée dans les cinq ans qui suivent la délivrance de l’autorisation de mise sur le marché initiale. Cette période ne peut toutefois dépasser treize ans au total, pour une autorisation de mise sur le marché concernant quatre espèces productrices de denrées alimentaires ou plus. L’extension de la période de dix ans à onze, douze ou treize ans pour un médicament vétérinaire destiné à une espèce productrice de denrées alimentaires n’est octroyée qu’à condition que le titulaire de l’autorisation de mise sur le marché ait également été à l’origine de la fixation de limites maximales de résidus pour les espèces couvertes par l’autorisation.
 
 <a id="art-3-1"></a>
 ## Art. 3.-1.
 
-1. Par analogie à l’article 1-2 du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments et sans préjudice de la législation relative à la protection de la propriété industrielle et commerciale, le demandeur n’est pas tenu de fournir les résultats des essais d’innocuité et d’analyses de résidus, ni des essais précliniques ou cliniques s’il peut démontrer que les substances actives du médicament sont d’un usage vétérinaire bien établi depuis au moins dix ans dans la Communauté et présentent une efficacité reconnue ainsi qu’un niveau acceptable de sécurité en vertu des conditions prévues à l’annexe I de la directive 2001/82/CE instituant un code communautaire relatif aux médicaments vétérinaires. Dans ce cas, le demandeur fournit une documentation bibliographique scientifique appropriée.
+- Par analogie à l’article 1-2 du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments et sans préjudice de la législation relative à la protection de la propriété industrielle et commerciale, le demandeur n’est pas tenu de fournir les résultats des essais d’innocuité et d’analyses de résidus, ni des essais précliniques ou cliniques s’il peut démontrer que les substances actives du médicament sont d’un usage vétérinaire bien établi depuis au moins dix ans dans la Communauté et présentent une efficacité reconnue ainsi qu’un niveau acceptable de sécurité en vertu des conditions prévues à l’annexe I de la directive 2001/82/CE instituant un code communautaire relatif aux médicaments vétérinaires. Dans ce cas, le demandeur fournit une documentation bibliographique scientifique appropriée.
 
-2. Le rapport d’évaluation publié par l’Agence suite à l’évaluation d’une demande de fixation de limites maximales de résidus en vertu du règlement (CEE) no 2377/90 peut être utilisé de façon appropriée comme documentation bibliographique, notamment pour les essais d’innocuité.
+- Le rapport d’évaluation publié par l’Agence suite à l’évaluation d’une demande de fixation de limites maximales de résidus en vertu du règlement (CEE) no 2377/90 peut être utilisé de façon appropriée comme documentation bibliographique, notamment pour les essais d’innocuité.
 
-3. Si un demandeur a recours à une documentation bibliographique scientifique afin d’obtenir une autorisation pour une espèce productrice de denrées alimentaires et présente, pour le même médicament, en vue d’obtenir une autorisation pour une autre espèce productrice de denrées alimentaires, de nouvelles études de résidus conformément au règlement (CEE) no 2377/90 ainsi que de nouveaux essais cliniques, un tiers ne peut recourir à ces études ou essais dans le cadre de l’article 13 pendant une période de trois ans après l’octroi de l’autorisation pour laquelle ils ont été réalisés.
+- Si un demandeur a recours à une documentation bibliographique scientifique afin d’obtenir une autorisation pour une espèce productrice de denrées alimentaires et présente, pour le même médicament, en vue d’obtenir une autorisation pour une autre espèce productrice de denrées alimentaires, de nouvelles études de résidus conformément au règlement (CEE) no 2377/90 ainsi que de nouveaux essais cliniques, un tiers ne peut recourir à ces études ou essais dans le cadre de l’article 13 pendant une période de trois ans après l’octroi de l’autorisation pour laquelle ils ont été réalisés.
 
 <a id="art-4"></a>
 ## Art. 4.
 
-Le dernier alinéa de l’article 1er du règlement grand-ducal du 15 décembre 1992 précité se lit comme suit: Les indications et documents des points 4 à 8 ci-dessus doivent être établis conformément aux exigences des directives CEE/75/318 et CEE/81/852 et aux amendements qui y sont apportés le cas échéant.
+Le dernier alinéa de l’article 1er du règlement grand-ducal du 15 décembre 1992 précité se lit comme suit:
+
+Les indications et documents des points 4 à 8 ci-dessus doivent être établis conformément aux exigences des directives CEE/75/318 et CEE/81/852 et aux amendements qui y sont apportés le cas échéant.
 
 <a id="art-5"></a>
 ## Art. 5.
 
 Les points 4 à 6 de l’article 2 du règlement grand-ducal 15 décembre 1992 précité se lisent comme suit:
 
-1. informations cliniques:
+- informations cliniques:
 
-1. espèces cibles;
+  - espèces cibles;
 
-2. indications d’utilisation, en spécifiant les espèces cibles;
+  - indications d’utilisation, en spécifiant les espèces cibles;
 
-3. contre-indications;
+  - contre-indications;
 
-4. mises en garde particulières à chaque espèce cible;
+  - mises en garde particulières à chaque espèce cible;
 
-5. précautions particulières d’emploi, incluant les précautions particulières à prendre par la personne qui administre le médicament aux animaux;
+  - précautions particulières d’emploi, incluant les précautions particulières à prendre par la personne qui administre le médicament aux animaux;
 
-6. effets indésirables (fréquence et gravité);
+  - effets indésirables (fréquence et gravité);
 
-7. utilisation en cas de gravidité, de lactation ou de ponte;
+  - utilisation en cas de gravidité, de lactation ou de ponte;
 
-8. interactions médicamenteuses et autres;
+  - interactions médicamenteuses et autres;
 
-9. posologie et voie d’administration;
+  - posologie et voie d’administration;
 
-10. surdosage (symptômes, conduite d’urgence, antidotes), si nécessaire;
+  - surdosage (symptômes, conduite d’urgence, antidotes), si nécessaire;
 
-11. temps d’attente pour les différentes denrées alimentaires, y compris celles pour lesquelles le temps d’attente est nul;
+  - temps d’attente pour les différentes denrées alimentaires, y compris celles pour lesquelles le temps d’attente est nul;
 
-2. propriétés pharmacologiques:
+- propriétés pharmacologiques:
 
-1. propriétés pharmacologiques;
+  - propriétés pharmacologiques;
 
-2. éléments de pharmacocinétique;
+  - éléments de pharmacocinétique;
 
-3. informations pharmaceutiques:
+- informations pharmaceutiques:
 
-1. liste des excipients;
+  - liste des excipients;
 
-2. incompatibilités majeures;
+  - incompatibilités majeures;
 
-3. durée de conservation, si nécessaire après reconstitution du médicament ou lorsque le conditionnement primaire est ouvert pour la première fois;
+  - durée de conservation, si nécessaire après reconstitution du médicament ou lorsque le conditionnement primaire est ouvert pour la première fois;
 
-4. précautions particulières de conservation;
+  - précautions particulières de conservation;
 
-5. nature et composition du conditionnement primaire;
+  - nature et composition du conditionnement primaire;
 
-6. précautions particulières à prendre lors de l’élimination de médicaments vétérinaires non utilisés ou de déchets dérivés de l’utilisation de ces médicaments, le cas échéant.
+  - précautions particulières à prendre lors de l’élimination de médicaments vétérinaires non utilisés ou de déchets dérivés de l’utilisation de ces médicaments, le cas échéant.
 
 Les points 11. et 12. de l’article 2 du règlement grand-ducal 15 décembre 1992 précité ne sont pas applicables.
 
@@ -179,99 +181,99 @@ Sauf dans le cas des médicaments homéopathiques admis par enregistrement simpl
 
 Par dérogation à l’article 10 du règlement grand-ducal du 15 décembre 1992 précité, les indications suivantes doivent figurer en caractères lisibles sur le récipient et l’emballage extérieur:
 
-1. le nom du médicament suivi du dosage et de la forme pharmaceutique. La dénomination commune est mentionnée lorsque le médicament ne contient qu’une seule substance active et qu’il porte un nom de fantaisie;
+- le nom du médicament suivi du dosage et de la forme pharmaceutique. La dénomination commune est mentionnée lorsque le médicament ne contient qu’une seule substance active et qu’il porte un nom de fantaisie;
 
-2. la composition qualitative et quantitative en substances actives par unité de prise ou, selon la forme d’administration, pour un volume ou un poids déterminé, en utilisant les dénominations communes;
+- la composition qualitative et quantitative en substances actives par unité de prise ou, selon la forme d’administration, pour un volume ou un poids déterminé, en utilisant les dénominations communes;
 
-3. le numéro du lot de fabrication;
+- le numéro du lot de fabrication;
 
-4. le numéro de l’autorisation de mise sur le marché;
+- le numéro de l’autorisation de mise sur le marché;
 
-5. le nom ou la raison sociale et le domicile ou le siège social du titulaire de l’autorisation de mise sur le marché et, le cas échéant, du représentant du titulaire désigné par ce dernier;
+- le nom ou la raison sociale et le domicile ou le siège social du titulaire de l’autorisation de mise sur le marché et, le cas échéant, du représentant du titulaire désigné par ce dernier;
 
-6. l’espèce animale à laquelle le médicament vétérinaire est destiné; le mode et, si nécessaire, la voie d’administration. Un espace est prévu pour indiquer la posologie prescrite;
+- l’espèce animale à laquelle le médicament vétérinaire est destiné; le mode et, si nécessaire, la voie d’administration. Un espace est prévu pour indiquer la posologie prescrite;
 
-7. le temps d’attente pour les médicaments vétérinaires destinés à des espèces productrices de denrées alimentaires, pour toutes les espèces concernées et pour les différentes denrées alimentaires concernées (viande et abats, oeufs, lait, miel), y compris celles pour lesquelles le temps d’attente est nul;
+- le temps d’attente pour les médicaments vétérinaires destinés à des espèces productrices de denrées alimentaires, pour toutes les espèces concernées et pour les différentes denrées alimentaires concernées (viande et abats, oeufs, lait, miel), y compris celles pour lesquelles le temps d’attente est nul;
 
-8. la date de péremption en clair;
+- la date de péremption en clair;
 
-9. les précautions particulières de conservation, s’il y a lieu;
+- les précautions particulières de conservation, s’il y a lieu;
 
-10. les précautions particulières relatives à l’élimination des médicaments non utilisés ou des déchets dérivés de médicaments vétérinaires, le cas échéant, ainsi qu’une référence à tout système de collecte approprié mis en place;
+- les précautions particulières relatives à l’élimination des médicaments non utilisés ou des déchets dérivés de médicaments vétérinaires, le cas échéant, ainsi qu’une référence à tout système de collecte approprié mis en place;
 
-11. les informations imposées en vertu de l’article 3 de la loi du 18 décembre 1985 relative aux médicaments vétérinaires;
+- les informations imposées en vertu de l’article 3 de la loi du 18 décembre 1985 relative aux médicaments vétérinaires;
 
-12. la mention «à usage vétérinaire», ou, le cas échéant la mention «à usage vétérinaire – à ne délivrer que sur ordonnance vétérinaire».
+- la mention «à usage vétérinaire», ou, le cas échéant la mention «à usage vétérinaire – à ne délivrer que sur ordonnance vétérinaire».
 
 La mention «à usage vétérinaire» doit également être portée sur les médicaments à usage humain, lorsque ceux-ci sont détenus ou vendus pour être employés en thérapeutique vétérinaire.
 
 <a id="art-7"></a>
 ## Art. 7.
 
-1. Par dérogation à l’article 11 du règlement grand-ducal du 15 décembre 1992 précité , lorsqu’il s’agit d’ampoules, les informations visées à l’article qui précède sont à mentionner sur les emballages extérieurs. Par contre, sur les conditionnements primaires, seules les informations suivantes sont nécessaires :
+- Par dérogation à l’article 11 du règlement grand-ducal du 15 décembre 1992 précité , lorsqu’il s’agit d’ampoules, les informations visées à l’article qui précède sont à mentionner sur les emballages extérieurs. Par contre, sur les conditionnements primaires, seules les informations suivantes sont nécessaires :
 
-- la dénomination de la spécialité
+  - la dénomination de la spécialité
 
-- la quantité des principes actifs
+  - la quantité des principes actifs
 
-- la date de péremption, s’il y a lieu
+  - la date de péremption, s’il y a lieu
 
-- la voie d’administration
+  - la voie d’administration
 
-- la mention «à usage vétérinaire».
+  - la mention «à usage vétérinaire».
 
-2. En ce qui concerne les conditionnements primaires de petite taille, autres que les ampoules, ne contenant qu’une dose d’utilisation et sur lesquels il est impossible de mentionner les informations prévues au paragraphe 1, les exigences de l’article 6 sont applicables au seul emballage extérieur.
+- En ce qui concerne les conditionnements primaires de petite taille, autres que les ampoules, ne contenant qu’une dose d’utilisation et sur lesquels il est impossible de mentionner les informations prévues au paragraphe 1, les exigences de l’article 6 sont applicables au seul emballage extérieur.
 
 <a id="art-8"></a>
 ## Art. 8.
 
 Par dérogation à l’article 14 du règlement grand-ducal du 15 décembre 1992 précité, la notice doit comporter au moins les informations suivantes, dans l’ordre indiqué, conformes aux renseignements et documents fournis et au résumé approuvé des caractéristiques du produit:
 
-1. nom ou raison sociale et domicile ou siège social du titulaire de l’autorisation de mise sur le marché et, le cas échéant, du fabricant;
+- nom ou raison sociale et domicile ou siège social du titulaire de l’autorisation de mise sur le marché et, le cas échéant, du fabricant;
 
-2. nom du médicament vétérinaire suivi du dosage et de la forme pharmaceutique. La dénomination commune est mentionnée lorsque le médicament ne contient qu’une seule substance active et qu’il porte un nom de fantaisie. Lorsque le médicament est autorisé sous différents noms dans les États membres concernés par une procédure décentralisée, la liste des noms autorisés dans chaque État membre;
+- nom du médicament vétérinaire suivi du dosage et de la forme pharmaceutique. La dénomination commune est mentionnée lorsque le médicament ne contient qu’une seule substance active et qu’il porte un nom de fantaisie. Lorsque le médicament est autorisé sous différents noms dans les États membres concernés par une procédure décentralisée, la liste des noms autorisés dans chaque État membre;
 
-3. indications thérapeutiques;
+- indications thérapeutiques;
 
-4. contre-indications et effets indésirables, dans la mesure où ces informations sont nécessaires pour l’utilisation du médicament vétérinaire;
+- contre-indications et effets indésirables, dans la mesure où ces informations sont nécessaires pour l’utilisation du médicament vétérinaire;
 
-5. espèces animales auxquelles le médicament vétérinaire est destiné, posologie en fonction de ces espèces, mode et voie d’administration, indications pour une administration correcte, s’il y a lieu;
+- espèces animales auxquelles le médicament vétérinaire est destiné, posologie en fonction de ces espèces, mode et voie d’administration, indications pour une administration correcte, s’il y a lieu;
 
-6. temps d’attente, même s’ils sont égaux à zéro, pour les médicaments vétérinaires administrés à des animaux producteurs d’aliments;
+- temps d’attente, même s’ils sont égaux à zéro, pour les médicaments vétérinaires administrés à des animaux producteurs d’aliments;
 
-7. précautions particulières de conservation, s’il y a lieu;
+- précautions particulières de conservation, s’il y a lieu;
 
-8. informations imposées en vertu de l’article 26, paragraphe 1, s’il y a lieu;
+- informations imposées en vertu de l’article 26, paragraphe 1, s’il y a lieu;
 
-9. précautions particulières pour l’élimination de médicaments inutilisés ou de déchets dérivés des médicaments, s’il y a lieu.
+- précautions particulières pour l’élimination de médicaments inutilisés ou de déchets dérivés des médicaments, s’il y a lieu.
 
 <a id="art-9"></a>
 ## Art. 9.
 
-1. Un médicament vétérinaire ne peut faire l’objet d’une autorisation de mise sur le marché pour une ou plusieurs espèces productrices de denrées alimentaires, que si les substances pharmacologiquement actives qu’il contient figurent à l’annexe I, II ou III du règlement (CEE) no 2377/90 .
+- Un médicament vétérinaire ne peut faire l’objet d’une autorisation de mise sur le marché pour une ou plusieurs espèces productrices de denrées alimentaires, que si les substances pharmacologiquement actives qu’il contient figurent à l’annexe I, II ou III du règlement (CEE) no 2377/90 .
 
-2. Dans le cas où une modification des annexes du règlement (CEE) no 2377/90 le justifie, le titulaire de l’autorisation de mise sur le marché ou, le cas échéant le ministre, prend toutes les mesures nécessaires en vue de la modification de l’autorisation de mise sur le marché, ou de son retrait, dans les soixante jours qui suivent la publication au Journal officiel de l’Union européenne de ladite modification des annexes dudit règlement .
+- Dans le cas où une modification des annexes du règlement (CEE) no 2377/90 le justifie, le titulaire de l’autorisation de mise sur le marché ou, le cas échéant le ministre, prend toutes les mesures nécessaires en vue de la modification de l’autorisation de mise sur le marché, ou de son retrait, dans les soixante jours qui suivent la publication au Journal officiel de l’Union européenne de ladite modification des annexes dudit règlement .
 
-3. Par dérogation au paragraphe 1, un médicament vétérinaire contenant des substances pharmacologiquement actives ne figurant pas à l’annexe I, II ou III du règlement (CEE) no 2377/90 peut être autorisé pour les animaux particuliers appartenant à la famille des équidés qui ont été déclarés, conformément à la décision 93/623/CEE de la Commission établissant le document d’identification (passeport) accompagnant les équidés enregistrés et à la décision 2000/68/CE de la Commission du 22 décembre 1999 modifiant la décision 93/623/CEE et établissant l’identification des équidés d’élevage et de rente, comme n’étant pas destinés à l’abattage pour la consommation humaine. Ces médicaments vétérinaires ne contiennent pas de substances actives figurant à l’annexe IV du règlement (CEE) no 2377/90 , et ne sont pas destinés à être utilisés pour le traitement d’affections, telles que spécifiées dans le résumé autorisé des caractéristiques du produit, pour lesquelles un médicament vétérinaire est autorisé pour soigner les animaux de la famille des équidés.
+- Par dérogation au paragraphe 1, un médicament vétérinaire contenant des substances pharmacologiquement actives ne figurant pas à l’annexe I, II ou III du règlement (CEE) no 2377/90 peut être autorisé pour les animaux particuliers appartenant à la famille des équidés qui ont été déclarés, conformément à la décision 93/623/CEE de la Commission établissant le document d’identification (passeport) accompagnant les équidés enregistrés et à la décision 2000/68/CE de la Commission du 22 décembre 1999 modifiant la décision 93/623/CEE et établissant l’identification des équidés d’élevage et de rente, comme n’étant pas destinés à l’abattage pour la consommation humaine. Ces médicaments vétérinaires ne contiennent pas de substances actives figurant à l’annexe IV du règlement (CEE) no 2377/90 , et ne sont pas destinés à être utilisés pour le traitement d’affections, telles que spécifiées dans le résumé autorisé des caractéristiques du produit, pour lesquelles un médicament vétérinaire est autorisé pour soigner les animaux de la famille des équidés.
 
-4. Dans le cas de médicaments vétérinaires destinés à une ou plusieurs espèces animales productrices de denrées alimentaires, mais dont la ou les substances pharmacologiquement actives ne figurent pas encore, pour l’espèce ou les espèces considérées, à l’annexe I, II ou III du règlement (CEE) no 2377/90 , la demande d’autorisation de mise sur le marché ne peut être introduite qu’après le dépôt d’une demande valide pour l’établissement de limites maximales de résidus conformément audit règlement. Le délai entre la demande valide d’établissement de limites maximales de résidus et la demande d’autorisation de mise sur le marché doit être d’au moins six mois. Toutefois, en ce qui concerne les médicaments vétérinaires visés au paragraphe 3, l’autorisation de mise sur le marché peut être demandée en l’absence de demande valide conformément au règlement (CEE) no 2377/90. La totalité de la documentation scientifique nécessaire pour démontrer la qualité, la sécurité et l’efficacité du médicament vétérinaire, comme le prévoit le paragraphe 3, doit être fournie.
+- Dans le cas de médicaments vétérinaires destinés à une ou plusieurs espèces animales productrices de denrées alimentaires, mais dont la ou les substances pharmacologiquement actives ne figurent pas encore, pour l’espèce ou les espèces considérées, à l’annexe I, II ou III du règlement (CEE) no 2377/90 , la demande d’autorisation de mise sur le marché ne peut être introduite qu’après le dépôt d’une demande valide pour l’établissement de limites maximales de résidus conformément audit règlement. Le délai entre la demande valide d’établissement de limites maximales de résidus et la demande d’autorisation de mise sur le marché doit être d’au moins six mois. Toutefois, en ce qui concerne les médicaments vétérinaires visés au paragraphe 3, l’autorisation de mise sur le marché peut être demandée en l’absence de demande valide conformément au règlement (CEE) no 2377/90. La totalité de la documentation scientifique nécessaire pour démontrer la qualité, la sécurité et l’efficacité du médicament vétérinaire, comme le prévoit le paragraphe 3, doit être fournie.
 
 <a id="art-10"></a>
 ## Art. 10.
 
 L’autorisation sollicitée est refusée si le dossier présenté n’est pas conforme aux dispositions légales et réglementaires, ou lorsqu’après vérification des renseignements et documents disponibles, il apparaît:
 
-1. que le rapport bénéfice/risque du médicament vétérinaire dans les conditions d’emploi préconisées lors de la demande d’autorisation n’est pas favorable; lorsque la demande concerne des médicaments vétérinaires à usage zootechnique, on prend en compte tout particulièrement les bénéfices en matière de santé et de bien-être des animaux ainsi que la sécurité du consommateur; ou
+- que le rapport bénéfice/risque du médicament vétérinaire dans les conditions d’emploi préconisées lors de la demande d’autorisation n’est pas favorable; lorsque la demande concerne des médicaments vétérinaires à usage zootechnique, on prend en compte tout particulièrement les bénéfices en matière de santé et de bien-être des animaux ainsi que la sécurité du consommateur; ou
 
-2. que le médicament vétérinaire n’a pas d’effet thérapeutique ou que l’effet thérapeutique du médicament vétérinaire est insuffisamment prouvé par le demandeur pour l’espèce animale qui doit faire l’objet du traitement; ou
+- que le médicament vétérinaire n’a pas d’effet thérapeutique ou que l’effet thérapeutique du médicament vétérinaire est insuffisamment prouvé par le demandeur pour l’espèce animale qui doit faire l’objet du traitement; ou
 
-3. que le médicament vétérinaire n’a pas la composition qualitative et quantitative déclarée; ou
+- que le médicament vétérinaire n’a pas la composition qualitative et quantitative déclarée; ou
 
-4. que le temps d’attente indiqué par le demandeur est insuffisant pour que les denrées alimentaires provenant de l’animal traité ne contiennent pas de résidus pouvant présenter des dangers pour la santé du consommateur, ou est insuffisamment justifié; ou
+- que le temps d’attente indiqué par le demandeur est insuffisant pour que les denrées alimentaires provenant de l’animal traité ne contiennent pas de résidus pouvant présenter des dangers pour la santé du consommateur, ou est insuffisamment justifié; ou
 
-5. que l’étiquetage ou la notice proposés par le demandeur ne sont pas conformes à la réglementation; ou
+- que l’étiquetage ou la notice proposés par le demandeur ne sont pas conformes à la réglementation; ou
 
-6. que le médicament vétérinaire est présenté pour une utilisation interdite en vertu d’autres dispositions légales ou réglementaires.
+- que le médicament vétérinaire est présenté pour une utilisation interdite en vertu d’autres dispositions légales ou réglementaires.
 
 Le demandeur ou le titulaire de l’autorisation de mise sur le marché est responsable de l’exactitude des documents et des données qu’il soumet.
 
@@ -289,19 +291,19 @@ Ces décisions exceptionnelles ne peuvent être prises que pour des raisons obje
 
 Par dérogation à l’article 32 du règlement grand-ducal modifié du 15 décembre 1992, les médicaments vétérinaires sont soumis à prescription médicale vétérinaire:
 
-1. les médicaments dont la fourniture ou l’utilisation est soumise à des restrictions officielles, telles que les restrictions résultant de la mise en oeuvre des conventions pertinentes des Nations unies contre le trafic illicite de stupéfiants et de substances psychotropes, respectivement les restrictions résultant de la législation communautaire;
+- les médicaments dont la fourniture ou l’utilisation est soumise à des restrictions officielles, telles que les restrictions résultant de la mise en oeuvre des conventions pertinentes des Nations unies contre le trafic illicite de stupéfiants et de substances psychotropes, respectivement les restrictions résultant de la législation communautaire;
 
-2. les médicaments vétérinaires destinés aux animaux producteurs de denrées alimentaires.
+- les médicaments vétérinaires destinés aux animaux producteurs de denrées alimentaires.
 
-3. les médicaments pour lesquels le vétérinaire doit prendre des précautions particulières afin d’éviter tout risque inutile pour:
+- les médicaments pour lesquels le vétérinaire doit prendre des précautions particulières afin d’éviter tout risque inutile pour:
 
-- l’espèce cible,
+  - l’espèce cible,
 
-- la personne qui administre les médicaments à l’animal,
+  - la personne qui administre les médicaments à l’animal,
 
-- l’environnement;
+  - l’environnement;
 
-4. les médicaments destinés à des traitements ou à des processus pathologiques qui requièrent un diagnostic préalable précis ou dont l’utilisation peut provoquer des effets de nature à rendre difficiles le diagnostic ou l’action thérapeutique ultérieurs ou à interférer avec eux.
+- les médicaments destinés à des traitements ou à des processus pathologiques qui requièrent un diagnostic préalable précis ou dont l’utilisation peut provoquer des effets de nature à rendre difficiles le diagnostic ou l’action thérapeutique ultérieurs ou à interférer avec eux.
 
 En outre, une ordonnance est exigée pour les nouveaux médicaments vétérinaires contenant une substance active dont l’utilisation dans les médicaments vétérinaires est autorisée depuis moins de cinq ans.
 
@@ -362,19 +364,19 @@ Tout médicament vétérinaire introduit au Luxembourg en provenance d’un pays
 
 En plus des exigences posées à l’article 13 du règlement grand-ducal modifié du 12 novembre 1975 portant exécution de la loi du 4 août 1975 concernant la fabrication et l’importation des médicaments le détenteur d’une autorisation de fabrication et/ou d’importation de médicaments vétérinaires est tenu
 
-1. de respecter les principes et les lignes directrices relatifs aux bonnes pratiques de fabrication des médicaments prévus par le droit communautaire;
+- de respecter les principes et les lignes directrices relatifs aux bonnes pratiques de fabrication des médicaments prévus par le droit communautaire;
 
-2. de tenir un registre détaillé de tous les médicaments vétérinaires qu’il a fournis, y compris des échantillons. Au minimum les renseignements suivants doivent être enregistrés lors de chaque transaction, qu’elle fasse ou non l’objet d’un paiement:
+- de tenir un registre détaillé de tous les médicaments vétérinaires qu’il a fournis, y compris des échantillons. Au minimum les renseignements suivants doivent être enregistrés lors de chaque transaction, qu’elle fasse ou non l’objet d’un paiement:
 
-- date,
+  - date,
 
-- dénomination du médicament vétérinaire,
+  - dénomination du médicament vétérinaire,
 
-- quantité fournie,
+  - quantité fournie,
 
-- nom et adresse du destinataire,
+  - nom et adresse du destinataire,
 
-- numéro du lot.
+  - numéro du lot.
 
 Ce registre doit être accessible pendant au moins trois ans pour inspection par les autorités compétentes.
 
@@ -383,15 +385,15 @@ Ce registre doit être accessible pendant au moins trois ans pour inspection par
 
 Tout titulaire d’une autorisation de vendre en gros des médicaments vétérinaires est tenu de conserver une documentation détaillée, comportant, pour chaque transaction d’entrée ou de sortie, au moins les renseignements suivants:
 
-1. date;
+- date;
 
-2. identification précise du médicament vétérinaire;
+- identification précise du médicament vétérinaire;
 
-3. numéro du lot de fabrication, date de péremption;
+- numéro du lot de fabrication, date de péremption;
 
-4. quantité reçue ou fournie;
+- quantité reçue ou fournie;
 
-5. nom et adresse du fournisseur ou du destinataire.
+- nom et adresse du fournisseur ou du destinataire.
 
 Une vérification précise est effectuée au moins une fois par an afin de confronter la liste des produits entrés et sortis avec les produits en stock, toute divergence devant être consignée dans un rapport.
 
@@ -404,17 +406,17 @@ Le titulaire doit posséder un plan d’urgence qui garantisse la mise en oeuvre
 
 Lorsque le pharmacien vend un médicament vétérinaire destiné à être administré à des animaux dont la chair ou les produits sont destinés à la consommation humaine et qui ne peut être délivré que sur la base d’une prescription vétérinaire ou pour lequel un temps d’attente doit être observé, il est tenu de tenir une documentation détaillée, comportant, pour chaque transaction d’entrée ou de sortie les renseignements suivants:
 
-1. date:
+- date:
 
-2. identification précise du médicament vétérinaire;
+- identification précise du médicament vétérinaire;
 
-3. numéro du lot de fabrication;
+- numéro du lot de fabrication;
 
-4. quantité reçue ou fournie;
+- quantité reçue ou fournie;
 
-5. nom et adresse du fournisseur ou du destinataire;
+- nom et adresse du fournisseur ou du destinataire;
 
-6. le cas échéant, nom et adresse du vétérinaire qui prescrit les médicaments et copie de l’ordonnance.
+- le cas échéant, nom et adresse du vétérinaire qui prescrit les médicaments et copie de l’ordonnance.
 
 Une vérification précise est effectuée au moins une fois par an par la Division de la Pharmacie et des Médicaments de la Direction de la Santé et la liste des produits entrés et sortis est comparée avec celle des produits en stock, toute divergence devant être consignée dans un rapport.
 
@@ -427,15 +429,15 @@ Les propriétaires ou les responsables d’animaux producteurs de denrées alime
 
 Il tiennent un registre contenant au moins les indications suivantes:
 
-1. date;
+- date;
 
-2. dénomination du médicament vétérinaire;
+- dénomination du médicament vétérinaire;
 
-3. quantité;
+- quantité;
 
-4. nom et adresse du fournisseur du médicament;
+- nom et adresse du fournisseur du médicament;
 
-5. identification des animaux traités.
+- identification des animaux traités.
 
 <a id="art-19-1"></a>
 ## Art. 19-1.
@@ -444,15 +446,15 @@ Il tiennent un registre contenant au moins les indications suivantes:
 
 Conformément au règlement délégué (UE) 2021/578 de la Commission du 29 janvier 2021 (ci-après le « règlement délégué (UE) 2021/578 ») complétant le règlement (UE) 2019/6 du Parlement européen et du Conseil en ce qui concerne les exigences relatives à la collecte des données sur le volume des ventes de médicaments antimicrobiens et sur l’utilisation de ceux-ci chez l’animal :
 
-1. les titulaires d’une autorisation de distribution en gros et les pharmaciens communiquent à la Direction de la santé les données sur le volume des ventes de médicaments vétérinaires antimicrobiens destinés à être utilisés au Luxembourg et visés aux articles 1 er et 2 du règlement délégué (UE) 2021/578 ;
+- les titulaires d’une autorisation de distribution en gros et les pharmaciens communiquent à la Direction de la santé les données sur le volume des ventes de médicaments vétérinaires antimicrobiens destinés à être utilisés au Luxembourg et visés aux articles 1 er et 2 du règlement délégué (UE) 2021/578 ;
 
-2. les médecins-vétérinaires établis au Luxembourg et les médecins-vétérinaires qui effectuent des prestations de services au Luxembourg communiquent à l’Administration luxembourgeoise vétérinaire et alimentaire les données sur l’utilisation, au Luxembourg, de médicaments vétérinaires antimicrobiens chez l’animal visés aux articles 3 et 4 du règlement délégué (UE) 2021/578 :
+- les médecins-vétérinaires établis au Luxembourg et les médecins-vétérinaires qui effectuent des prestations de services au Luxembourg communiquent à l’Administration luxembourgeoise vétérinaire et alimentaire les données sur l’utilisation, au Luxembourg, de médicaments vétérinaires antimicrobiens chez l’animal visés aux articles 3 et 4 du règlement délégué (UE) 2021/578 :
 
-- en ce qui concerne les espèces animales productrices de denrées alimentaires visées à l’article 15, paragraphe 1 er du règlement délégué (UE) précité à partir du 1 er janvier 2023 ;
+  - en ce qui concerne les espèces animales productrices de denrées alimentaires visées à l’article 15, paragraphe 1 er du règlement délégué (UE) précité à partir du 1 er janvier 2023 ;
 
-- en ce qui concerne les espèces animales productrices de denrées alimentaires visées à l’article 15, paragraphe 2 du règlement délégué (UE) précité à partir du 1 er janvier 2026 ;
+  - en ce qui concerne les espèces animales productrices de denrées alimentaires visées à l’article 15, paragraphe 2 du règlement délégué (UE) précité à partir du 1 er janvier 2026 ;
 
-- en ce qui concerne les espèces animales non productrices de denrées alimentaires visées à l’article 15, paragraphe 3 du règlement délégué (UE) précité à partir du 1 er janvier 2029.
+  - en ce qui concerne les espèces animales non productrices de denrées alimentaires visées à l’article 15, paragraphe 3 du règlement délégué (UE) précité à partir du 1 er janvier 2029.
 
 (2)
 
@@ -463,19 +465,19 @@ La communication des données visées au paragraphe 1er, lettre b) est effectué
 <a id="art-20"></a>
 ## Art. 20.
 
-1. Les dispositions du règlement grand-ducal du 15 décembre 1992 relatif à la mise sur le marché des médicaments et celles du présent règlement sont applicables aux médicaments vétérinaires immunologiques.
+- Les dispositions du règlement grand-ducal du 15 décembre 1992 relatif à la mise sur le marché des médicaments et celles du présent règlement sont applicables aux médicaments vétérinaires immunologiques.
 
-2. Au sens du présent article on entend par médicament vétérinaire immunologique un médicament vétérinaire administré aux animaux en vue de provoquer une immunité active ou passive ou de diagnostiquer l’état d’immunité.
+- Au sens du présent article on entend par médicament vétérinaire immunologique un médicament vétérinaire administré aux animaux en vue de provoquer une immunité active ou passive ou de diagnostiquer l’état d’immunité.
 
-3. Par dérogation au paragrpahe 1 er les dispositions y citées ne s’appliquent pas aux médicaments vétérinaires immunologiques inactivés fabriqués à partir d’organismes pathogènes et antigènes obtenus à partir d’un animal ou d’animaux d’un même élevage et utilisés pour le traitement de cet animal ou de cet élevage dans la même localité.
+- Par dérogation au paragrpahe 1 er les dispositions y citées ne s’appliquent pas aux médicaments vétérinaires immunologiques inactivés fabriqués à partir d’organismes pathogènes et antigènes obtenus à partir d’un animal ou d’animaux d’un même élevage et utilisés pour le traitement de cet animal ou de cet élevage dans la même localité.
 
-4. La description quantitative d’un médicament vétérinaire immunologique doit être exprimée en masse, en unités internationales, en unités d’activité biologique, en nombre de germes ou, si possible, en contenu protéique spécifique et ce en fonction du produit considéré.
+- La description quantitative d’un médicament vétérinaire immunologique doit être exprimée en masse, en unités internationales, en unités d’activité biologique, en nombre de germes ou, si possible, en contenu protéique spécifique et ce en fonction du produit considéré.
 
-5. En ce qui concerne les médicaments vétérinaires immunologiques, l’expression «composition qualitative et quantitative des composants» inclut également la description relative à l’activité biologique ou au contenu protéique, et l’expression «composition qualitative et quantitative» désigne la composition du produit exprimée en termes d’activité biologique ou de contenu protéique.
+- En ce qui concerne les médicaments vétérinaires immunologiques, l’expression «composition qualitative et quantitative des composants» inclut également la description relative à l’activité biologique ou au contenu protéique, et l’expression «composition qualitative et quantitative» désigne la composition du produit exprimée en termes d’activité biologique ou de contenu protéique.
 
-6. Les procédés de fabrication utilisés dans la fabrication de médicaments vétérinaires immunologiques doivent être totalement validés et permettre d’assurer de façon continue la conformité des lots.
+- Les procédés de fabrication utilisés dans la fabrication de médicaments vétérinaires immunologiques doivent être totalement validés et permettre d’assurer de façon continue la conformité des lots.
 
-7. Le responsable de la mise sur le marché des médicaments vétérinaires immunologiques doit s’assurer que des échantillons représentatifs de chaque lot des produits finis sont gardés en stock, en quantité suffisante, au moins jusqu’à leur date limite d’utilisation, et il doit les fournir rapidement, sur demande, aux autorités compétentes.
+- Le responsable de la mise sur le marché des médicaments vétérinaires immunologiques doit s’assurer que des échantillons représentatifs de chaque lot des produits finis sont gardés en stock, en quantité suffisante, au moins jusqu’à leur date limite d’utilisation, et il doit les fournir rapidement, sur demande, aux autorités compétentes.
 
 <a id="art-21"></a>
 ## Art. 21.

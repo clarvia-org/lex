@@ -108,9 +108,9 @@ Les détenteurs de chiens qui, venant s'établir dans une commune, justifieront 
 
 Sont exempts de la taxe annuelle sur les chiens:
 
-1. les chiens qui servent de guide aux aveugles et aux personnes handicapées;
+- les chiens qui servent de guide aux aveugles et aux personnes handicapées;
 
-2. les chiens de la police grand-ducale, les chiens de l'armée, les chiens des douanes ainsi que les chiens de sauvetage.
+- les chiens de la police grand-ducale, les chiens de l'armée, les chiens des douanes ainsi que les chiens de sauvetage.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -138,23 +138,23 @@ La décision du directeur de l'Administration des services vétérinaires est no
 
 Les dispositions du chapitre 2 s'appliquent aux chiens suivants susceptibles d'être dangereux:
 
-1.
+-
 
-1. les chiens de race Staffordshire bull terrier;
+  - les chiens de race Staffordshire bull terrier;
 
-2. les chiens de race Mastiff;
+  - les chiens de race Mastiff;
 
-3. les chiens de race American Staffordshire terrier;
+  - les chiens de race American Staffordshire terrier;
 
-4. les chiens de race Tosa;
+  - les chiens de race Tosa;
 
-5. les chiens assimilables par leurs caractéristiques morphologiques aux chiens de race American Staffordshire terrier, sans être inscrits à un livre généalogique reconnu par le ministre ayant dans ses attributions l'Administration des services vétérinaires, désigné dans la présente loi par les termes «le ministre»; Ce type de chiens étant communément appelé «pit-bulls»;
+  - les chiens assimilables par leurs caractéristiques morphologiques aux chiens de race American Staffordshire terrier, sans être inscrits à un livre généalogique reconnu par le ministre ayant dans ses attributions l'Administration des services vétérinaires, désigné dans la présente loi par les termes «le ministre»; Ce type de chiens étant communément appelé «pit-bulls»;
 
-6. les chiens assimilables par leurs caractéristiques morphologiques aux chiens de race Mastiff, sans être inscrits à un livre généalogique reconnu par le ministre, ces chiens étant communément appelés «boer-bulls»;
+  - les chiens assimilables par leurs caractéristiques morphologiques aux chiens de race Mastiff, sans être inscrits à un livre généalogique reconnu par le ministre, ces chiens étant communément appelés «boer-bulls»;
 
-7. les chiens assimilables par leurs caractéristiques morphologiques aux chiens de race Tosa, sans être inscrits à un livre généalogique reconnu par le ministre. Un règlement grand-ducal énumère les éléments de reconnaissance de ces chiens.
+  - les chiens assimilables par leurs caractéristiques morphologiques aux chiens de race Tosa, sans être inscrits à un livre généalogique reconnu par le ministre. Un règlement grand-ducal énumère les éléments de reconnaissance de ces chiens.
 
-2. les chiens dont il a été constaté par une décision du directeur de l'Administration des services vétérinaires telle que prévue à l'article 9(4), qu'ils se sont révélés dangereux.
+- les chiens dont il a été constaté par une décision du directeur de l'Administration des services vétérinaires telle que prévue à l'article 9(4), qu'ils se sont révélés dangereux.
 
 <a id="art-11"></a>
 ## Art. 11.

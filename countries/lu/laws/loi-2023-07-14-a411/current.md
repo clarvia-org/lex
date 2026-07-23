@@ -39,31 +39,31 @@ Définitions
 
 Aux fins de la présente loi, on entend par :
 
-1. « contrôle » :
+- « contrôle » :
 
-1. Le fait, directement ou indirectement :
+  - Le fait, directement ou indirectement :
 
-1. d’avoir la majorité des droits de vote des actionnaires ou associés d’une entité de droit luxembourgeois ; ou
+    - d’avoir la majorité des droits de vote des actionnaires ou associés d’une entité de droit luxembourgeois ; ou
 
-2. d’avoir le droit de nommer ou de révoquer la majorité des membres de l’organe de l’administration, de direction ou de surveillance d’une entité de droit luxembourgeois et d’être en même temps actionnaire ou associé de cette entité ; ou
+    - d’avoir le droit de nommer ou de révoquer la majorité des membres de l’organe de l’administration, de direction ou de surveillance d’une entité de droit luxembourgeois et d’être en même temps actionnaire ou associé de cette entité ; ou
 
-3. d’être actionnaire ou associé d’une entité de droit luxembourgeois et de contrôler, en vertu d’un accord conclu avec d’autres actionnaires ou associés de cette entité, la majorité des droits de vote des actionnaires ou associés de celle-ci ;
+    - d’être actionnaire ou associé d’une entité de droit luxembourgeois et de contrôler, en vertu d’un accord conclu avec d’autres actionnaires ou associés de cette entité, la majorité des droits de vote des actionnaires ou associés de celle-ci ;
 
-2. ou également, le fait de franchir, directement ou indirectement, le seuil de 25 pour cent de détention des droits de vote d’une entité de droit luxembourgeois ;
+  - ou également, le fait de franchir, directement ou indirectement, le seuil de 25 pour cent de détention des droits de vote d’une entité de droit luxembourgeois ;
 
-2. « décision de filtrage » : le fait d’autoriser, de soumettre à condition ou d’interdire un investissement direct étranger à l’issue de la procédure de filtrage.
+- « décision de filtrage » : le fait d’autoriser, de soumettre à condition ou d’interdire un investissement direct étranger à l’issue de la procédure de filtrage.
 
-3. « État membre » : un État membre de l’Union européenne ;
+- « État membre » : un État membre de l’Union européenne ;
 
-4. « facteurs de filtrage » : les critères permettant de déterminer si un investissement direct étranger porte atteinte à la sécurité ou à l’ordre public ;
+- « facteurs de filtrage » : les critères permettant de déterminer si un investissement direct étranger porte atteinte à la sécurité ou à l’ordre public ;
 
-5. « investisseur étranger » : une personne physique ou une entité de droit étranger qui n’est ressortissante ni d’un État membre, ni d’un État partie à l’accord sur l’Espace économique européen autre qu’un État membre de l’Union européenne et qui a l’intention de réaliser ou a réalisé un investissement direct étranger ;
+- « investisseur étranger » : une personne physique ou une entité de droit étranger qui n’est ressortissante ni d’un État membre, ni d’un État partie à l’accord sur l’Espace économique européen autre qu’un État membre de l’Union européenne et qui a l’intention de réaliser ou a réalisé un investissement direct étranger ;
 
-6. « investissement direct étranger » : un investissement de toute nature auquel procède un investisseur étranger et qui vise à établir ou à maintenir des relations durables et directes entre l’investisseur étranger et une entité de droit luxembourgeois à qui ces fonds sont destinés, permettant ainsi à l’investisseur étranger de participer seul, de concert ou par interposition au contrôle de cette entité exerçant au Grand-Duché de Luxembourg une activité énumérée à l’article 2 ;
+- « investissement direct étranger » : un investissement de toute nature auquel procède un investisseur étranger et qui vise à établir ou à maintenir des relations durables et directes entre l’investisseur étranger et une entité de droit luxembourgeois à qui ces fonds sont destinés, permettant ainsi à l’investisseur étranger de participer seul, de concert ou par interposition au contrôle de cette entité exerçant au Grand-Duché de Luxembourg une activité énumérée à l’article 2 ;
 
-7. « investissement de portefeuille » : une acquisition de titres d’une entité de droit luxembourgeois effectuée dans l’intention de réaliser un placement financier et qui ne permet pas à l’investisseur étranger d’exercer, directement ou indirectement, le contrôle de l’entité de droit luxembourgeois ;
+- « investissement de portefeuille » : une acquisition de titres d’une entité de droit luxembourgeois effectuée dans l’intention de réaliser un placement financier et qui ne permet pas à l’investisseur étranger d’exercer, directement ou indirectement, le contrôle de l’entité de droit luxembourgeois ;
 
-8. « procédure de filtrage » : le fait d’évaluer et d’examiner un investissement direct étranger en vertu des facteurs de filtrage.
+- « procédure de filtrage » : le fait d’évaluer et d’examiner un investissement direct étranger en vertu des facteurs de filtrage.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -78,41 +78,41 @@ Le mécanisme de filtrage national s’applique aux investissements directs étr
 
 Sont considérées comme activités critiques au sens de la présente loi les activités suivantes :
 
-1. le développement, l’exploitation et le commerce de biens à double usage au sens de l’article 2, point 1), du règlement (CE) n° 428/2009 du Conseil du 5 mai 2009 instituant un régime communautaire de contrôle des exportations, des transferts, du courtage et du transit de biens à double usage, tel que modifié ;
+- le développement, l’exploitation et le commerce de biens à double usage au sens de l’article 2, point 1), du règlement (CE) n° 428/2009 du Conseil du 5 mai 2009 instituant un régime communautaire de contrôle des exportations, des transferts, du courtage et du transit de biens à double usage, tel que modifié ;
 
-2. dans le secteur de l’énergie : la production et la distribution d’électricité, le conditionnement et la distribution de gaz et le stockage et le commerce de pétrole ; les technologies quantiques et nucléaires ;
+- dans le secteur de l’énergie : la production et la distribution d’électricité, le conditionnement et la distribution de gaz et le stockage et le commerce de pétrole ; les technologies quantiques et nucléaires ;
 
-3. dans le secteur des transports : le transport terrestre, le transport par eau et le transport aérien ;
+- dans le secteur des transports : le transport terrestre, le transport par eau et le transport aérien ;
 
-4. dans le secteur de l’eau : le captage, le traitement et la distribution de l’eau, la collecte et le traitement des eaux usées, ainsi que la collecte, le traitement et l’élimination des déchets ;
+- dans le secteur de l’eau : le captage, le traitement et la distribution de l’eau, la collecte et le traitement des eaux usées, ainsi que la collecte, le traitement et l’élimination des déchets ;
 
-5. dans le secteur de la santé : les activités liées aux soins de santé et les laboratoires d’analyses médicales ; les nanotechnologies et biotechnologies ;
+- dans le secteur de la santé : les activités liées aux soins de santé et les laboratoires d’analyses médicales ; les nanotechnologies et biotechnologies ;
 
-6. dans le secteur des communications : les télécommunications filaires, les télécommunications sans fil, les télécommunications par satellite et les services postaux et de courrier ;
+- dans le secteur des communications : les télécommunications filaires, les télécommunications sans fil, les télécommunications par satellite et les services postaux et de courrier ;
 
-7. dans le secteur du traitement ou du stockage de données : les installations informatiques de traitement de données, d’hébergement de services d’information et de portails internet ; les technologies concernant l’intelligence artificielle, les semi-conducteurs, la cybersécurité ;
+- dans le secteur du traitement ou du stockage de données : les installations informatiques de traitement de données, d’hébergement de services d’information et de portails internet ; les technologies concernant l’intelligence artificielle, les semi-conducteurs, la cybersécurité ;
 
-8. dans le secteur de l’aérospatial : les opérations spatiales et l’exploitation de ressources spatiales ;
+- dans le secteur de l’aérospatial : les opérations spatiales et l’exploitation de ressources spatiales ;
 
-9. dans le secteur de la défense : les activités en lien avec la défense nationale ; la production et le commerce d’armes, de munitions, de poudres et substances explosives destinées à des fins militaires ou de matériels de guerre ;
+- dans le secteur de la défense : les activités en lien avec la défense nationale ; la production et le commerce d’armes, de munitions, de poudres et substances explosives destinées à des fins militaires ou de matériels de guerre ;
 
-10. dans le secteur de la finance : les activités de la banque centrale ainsi que les infrastructures et les systèmes d’échange, de paiement et de règlement des instruments financiers ;
+- dans le secteur de la finance : les activités de la banque centrale ainsi que les infrastructures et les systèmes d’échange, de paiement et de règlement des instruments financiers ;
 
-11. dans le secteur des médias : l’édition, les activités audiovisuelles et de radiodiffusion ;
+- dans le secteur des médias : l’édition, les activités audiovisuelles et de radiodiffusion ;
 
-12. dans le secteur agroalimentaire : les activités en lien avec la sécurité alimentaire.
+- dans le secteur agroalimentaire : les activités en lien avec la sécurité alimentaire.
 
 (3)
 
 Sont également considérées comme activités critiques au sens de la présente loi :
 
-1. les activités de recherche directement liées aux activités énumérées au paragraphe 2 ;
+- les activités de recherche directement liées aux activités énumérées au paragraphe 2 ;
 
-2. les activités de production directement liées aux activités énumérées au paragraphe 2 ;
+- les activités de production directement liées aux activités énumérées au paragraphe 2 ;
 
-3. les activités connexes susceptibles de permettre un accès aux informations sensibles, y compris des données à caractère personnel, directement liées aux activités énumérées au paragraphe 2 ;
+- les activités connexes susceptibles de permettre un accès aux informations sensibles, y compris des données à caractère personnel, directement liées aux activités énumérées au paragraphe 2 ;
 
-4. les activités connexes susceptibles de permettre un accès aux lieux dans lesquels les activités énumérées au paragraphe 2 sont exercées.
+- les activités connexes susceptibles de permettre un accès aux lieux dans lesquels les activités énumérées au paragraphe 2 sont exercées.
 
 ##### Section 2 Notification obligatoire et examen
 
@@ -146,17 +146,17 @@ Informations requises dans le cadre de la notification
 
 Dans le cadre de la notification, l’investisseur étranger communique au ministre les informations suivantes :
 
-1. la structure de propriété de l’investisseur étranger et de l’entité de droit luxembourgeois avant la réalisation de l’investissement direct étranger ou à la suite d’évènements ayant modifié la répartition du capital conformément à l’article 3, paragraphe 3, y compris des informations sur le bénéficiaire effectif, tel que défini à l’article 1 er , paragraphe 7, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme, et la participation au capital ;
+- la structure de propriété de l’investisseur étranger et de l’entité de droit luxembourgeois avant la réalisation de l’investissement direct étranger ou à la suite d’évènements ayant modifié la répartition du capital conformément à l’article 3, paragraphe 3, y compris des informations sur le bénéficiaire effectif, tel que défini à l’article 1 er , paragraphe 7, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme, et la participation au capital ;
 
-2. la valeur approximative de l’investissement direct étranger ;
+- la valeur approximative de l’investissement direct étranger ;
 
-3. les produits, les services et les opérations commerciales de l’investisseur étranger et de l’entité de droit luxembourgeois ;
+- les produits, les services et les opérations commerciales de l’investisseur étranger et de l’entité de droit luxembourgeois ;
 
-4. les pays dans lesquels l’investisseur étranger et l’entité de droit luxembourgeois mènent des activités commerciales ;
+- les pays dans lesquels l’investisseur étranger et l’entité de droit luxembourgeois mènent des activités commerciales ;
 
-5. le financement de l’investissement direct étranger et sa source ;
+- le financement de l’investissement direct étranger et sa source ;
 
-6. la date à laquelle l’investissement direct étranger est prévu ou a été réalisé.
+- la date à laquelle l’investissement direct étranger est prévu ou a été réalisé.
 
 (2)
 
@@ -207,25 +207,25 @@ Facteurs de filtrage
 
 Pour déterminer si un investissement direct étranger est susceptible de porter atteinte à la sécurité ou à l’ordre public, sont pris en considération ses effets potentiels sur :
 
-1. l’intégrité, la sécurité et la continuité de l’approvisionnement des infrastructures critiques, qu’elles soient physiques ou virtuelles, liées aux activités visées à l’article 2 ;
+- l’intégrité, la sécurité et la continuité de l’approvisionnement des infrastructures critiques, qu’elles soient physiques ou virtuelles, liées aux activités visées à l’article 2 ;
 
-2. la pérennité des activités liées aux technologies critiques et biens à double usage au sens de l’article 2, point 1, du règlement (CE) n° 428/2009 du Conseil du 5 mai 2009 instituant un régime communautaire de contrôle des exportations, des transferts, du courtage et du transit des biens à double usage, tel que modifié ;
+- la pérennité des activités liées aux technologies critiques et biens à double usage au sens de l’article 2, point 1, du règlement (CE) n° 428/2009 du Conseil du 5 mai 2009 instituant un régime communautaire de contrôle des exportations, des transferts, du courtage et du transit des biens à double usage, tel que modifié ;
 
-3. l’approvisionnement en intrants essentiels y compris les matières premières ainsi que la sécurité alimentaire ;
+- l’approvisionnement en intrants essentiels y compris les matières premières ainsi que la sécurité alimentaire ;
 
-4. l’accès à des informations sensibles, y compris des données à caractère personnel, ou la capacité à contrôler de telles informations ;
+- l’accès à des informations sensibles, y compris des données à caractère personnel, ou la capacité à contrôler de telles informations ;
 
-5. la liberté et le pluralisme des médias.
+- la liberté et le pluralisme des médias.
 
 (2)
 
 Peuvent également être pris en compte, en particulier :
 
-1. le fait que l’investisseur étranger soit contrôlé directement ou indirectement par le gouvernement d’un pays tiers, y compris des organismes publics ou les forces armées ;
+- le fait que l’investisseur étranger soit contrôlé directement ou indirectement par le gouvernement d’un pays tiers, y compris des organismes publics ou les forces armées ;
 
-2. le fait que l’investisseur étranger ait déjà participé à des activités portant atteinte à la sécurité ou à l’ordre public dans un État membre ;
+- le fait que l’investisseur étranger ait déjà participé à des activités portant atteinte à la sécurité ou à l’ordre public dans un État membre ;
 
-3. le fait qu’il existe un risque grave que l’investisseur étranger exerce des activités illégales ou criminelles.
+- le fait qu’il existe un risque grave que l’investisseur étranger exerce des activités illégales ou criminelles.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -269,13 +269,13 @@ Lorsque des droits de vote de cette entité de droit luxembourgeois ont été ex
 
 Si les conditions, dont est assortie l’autorisation visée à l’article 8, paragraphes 3 et 4, ne sont pas respectées, le ministre peut :
 
-1. enjoindre à l’investisseur étranger de respecter, dans un délai qu’il fixe, les conditions figurant dans l’autorisation ;
+- enjoindre à l’investisseur étranger de respecter, dans un délai qu’il fixe, les conditions figurant dans l’autorisation ;
 
-2. enjoindre à l’investisseur étranger d’exécuter, dans un délai qu’il fixe, des prescriptions en substitution de l’obligation non exécutée, y compris le rétablissement de la situation antérieure au non-respect de cette obligation ou la cession de tout ou partie des activités ;
+- enjoindre à l’investisseur étranger d’exécuter, dans un délai qu’il fixe, des prescriptions en substitution de l’obligation non exécutée, y compris le rétablissement de la situation antérieure au non-respect de cette obligation ou la cession de tout ou partie des activités ;
 
-3. suspendre l’exercice des droits de vote liés à l’investissement direct étranger et attachés aux titres détenus, directement ou indirectement, par l’investisseur étranger excédant le seuil de 25 pour cent des droits de vote de l’entité de droit luxembourgeois jusqu’à la mise en conformité et la mise en œuvre des conditions susmentionnées ;
+- suspendre l’exercice des droits de vote liés à l’investissement direct étranger et attachés aux titres détenus, directement ou indirectement, par l’investisseur étranger excédant le seuil de 25 pour cent des droits de vote de l’entité de droit luxembourgeois jusqu’à la mise en conformité et la mise en œuvre des conditions susmentionnées ;
 
-4. retirer l’autorisation.
+- retirer l’autorisation.
 
 (3)
 
@@ -309,21 +309,21 @@ Les amendes administratives sont acquittées dans les trente jours suivant la da
 
 Au moment de déterminer le type des mesures et le montant des sanctions administratives, le ministre tient compte de toutes les circonstances pertinentes, y compris, le cas échéant :
 
-1. de la gravité et de la durée de la violation ;
+- de la gravité et de la durée de la violation ;
 
-2. du degré de responsabilité de l’investisseur étranger tenu pour responsable de la violation ;
+- du degré de responsabilité de l’investisseur étranger tenu pour responsable de la violation ;
 
-3. de la situation financière de l’investisseur étranger tenu pour responsable de la violation ;
+- de la situation financière de l’investisseur étranger tenu pour responsable de la violation ;
 
-4. de l’avantage tiré de la violation par l’investisseur étranger, dans la mesure où il est possible de le déterminer ;
+- de l’avantage tiré de la violation par l’investisseur étranger, dans la mesure où il est possible de le déterminer ;
 
-5. des préjudices subis par des tiers du fait de la violation, dans la mesure où il est possible de les déterminer ;
+- des préjudices subis par des tiers du fait de la violation, dans la mesure où il est possible de les déterminer ;
 
-6. du degré de coopération de l’investisseur étranger tenu pour responsable avec le ministre ;
+- du degré de coopération de l’investisseur étranger tenu pour responsable avec le ministre ;
 
-7. des violations antérieures commises par l’investisseur étranger tenu pour responsable ;
+- des violations antérieures commises par l’investisseur étranger tenu pour responsable ;
 
-8. des conséquences potentielles de la violation sur l’intégrité, la sécurité et la continuité de l’exploitation ou l’approvisionnement des infrastructures critiques.
+- des conséquences potentielles de la violation sur l’intégrité, la sécurité et la continuité de l’exploitation ou l’approvisionnement des infrastructures critiques.
 
 ##### Section 5 Recours
 
@@ -349,11 +349,11 @@ Le ministre est responsable du traitement des données à caractère personnel r
 
 En vue de l’examen de la notification et de la procédure de filtrage, le traitement de données à caractère personnel est autorisé pour les finalités suivantes :
 
-1. mise en œuvre des dispositions de la présente loi ;
+- mise en œuvre des dispositions de la présente loi ;
 
-2. suivi de l’évolution du respect des obligations, y inclus au travers de suivis statistiques, d’études et de recherche ;
+- suivi de l’évolution du respect des obligations, y inclus au travers de suivis statistiques, d’études et de recherche ;
 
-3. réponse aux demandes d’informations et aux obligations de communication d’informations provenant des autorités compétentes des autres États membres ou de la Commission européenne.
+- réponse aux demandes d’informations et aux obligations de communication d’informations provenant des autorités compétentes des autres États membres ou de la Commission européenne.
 
 (2bis)
 
@@ -372,15 +372,15 @@ Limitations du droit d’accès
 
 Le ministre peut limiter, entièrement ou partiellement, le droit d’accès de la personne concernée visé à l’article 15 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), ci-après « règlement (UE) 2016/679 », dès lors et aussi longtemps qu’une telle limitation partielle ou complète constitue une mesure nécessaire et proportionnée pour garantir :
 
-1. la sécurité nationale ;
+- la sécurité nationale ;
 
-2. la défense nationale ;
+- la défense nationale ;
 
-3. la sécurité publique ;
+- la sécurité publique ;
 
-4. la prévention et la détection d’infractions pénales, ainsi que les enquêtes et les poursuites en la matière ou l’exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces ;
+- la prévention et la détection d’infractions pénales, ainsi que les enquêtes et les poursuites en la matière ou l’exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces ;
 
-5. d’autres objectifs importants d’intérêt public général de l’Union ou d’un État membre, notamment un intérêt économique ou financier important de l’Union ou d’un État membre, y compris dans les domaines monétaire, budgétaire et fiscal, de la santé publique et de la sécurité sociale.
+- d’autres objectifs importants d’intérêt public général de l’Union ou d’un État membre, notamment un intérêt économique ou financier important de l’Union ou d’un État membre, y compris dans les domaines monétaire, budgétaire et fiscal, de la santé publique et de la sécurité sociale.
 
 La limitation prévue à l’alinéa 1er peut s’appliquer à toutes catégories de données à caractère personnel à l’exception des données à caractère personnel fournies par la personne.
 

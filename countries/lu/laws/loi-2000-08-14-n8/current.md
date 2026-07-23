@@ -39,57 +39,57 @@ Définitions
 
 Au sens de la présente loi, on entend par :
 
-1. « authentification » : l’authentification au sens du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE ;
+- « authentification » : l’authentification au sens du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE ;
 
-2. « cachet électronique » : le cachet électronique au sens du règlement (UE) n° 910/2014 ;
+- « cachet électronique » : le cachet électronique au sens du règlement (UE) n° 910/2014 ;
 
-3. « cachet électronique qualifié » : le cachet électronique qualifié au sens du règlement (UE) n° 910/2014 ;
+- « cachet électronique qualifié » : le cachet électronique qualifié au sens du règlement (UE) n° 910/2014 ;
 
-4. « certificat d’authentification de site internet » : le certificat d’authentification de site internet au sens du règlement (UE) n° 910/2014 ;
+- « certificat d’authentification de site internet » : le certificat d’authentification de site internet au sens du règlement (UE) n° 910/2014 ;
 
-5. « certificat de cachet électronique » : le certificat de cachet électronique au sens du règlement (UE) n° 910/2014 ;
+- « certificat de cachet électronique » : le certificat de cachet électronique au sens du règlement (UE) n° 910/2014 ;
 
-6. « certificat de signature électronique » : le certificat de signature électronique au sens du règlement (UE) n° 910/2014 ;
+- « certificat de signature électronique » : le certificat de signature électronique au sens du règlement (UE) n° 910/2014 ;
 
-7. « certificat qualifié d’authentification de site internet » : le certificat qualifié d’authentification de site internet au sens du règlement (UE) n° 910/2014 ;
+- « certificat qualifié d’authentification de site internet » : le certificat qualifié d’authentification de site internet au sens du règlement (UE) n° 910/2014 ;
 
-8. « certificat qualifié de cachet électronique » : le certificat qualifié de cachet électronique au sens du règlement (UE) n° 910/2014 ;
+- « certificat qualifié de cachet électronique » : le certificat qualifié de cachet électronique au sens du règlement (UE) n° 910/2014 ;
 
-9. « certificat qualifié de signature électronique » : le certificat qualifié de signature électronique au sens du règlement (UE) n° 910/2014 ;
+- « certificat qualifié de signature électronique » : le certificat qualifié de signature électronique au sens du règlement (UE) n° 910/2014 ;
 
-10. « destinataire du service » : toute personne physique ou morale qui, à des fins professionnelles ou non, utilise un service de la société de l’information ;
+- « destinataire du service » : toute personne physique ou morale qui, à des fins professionnelles ou non, utilise un service de la société de l’information ;
 
-11. « données de création d’authentification de site internet » : des données uniques qui sont utilisées par le site internet dans le processus d’authentification du site internet ;
+- « données de création d’authentification de site internet » : des données uniques qui sont utilisées par le site internet dans le processus d’authentification du site internet ;
 
-12. « données de création de cachet électronique » : les données de création de cachet électronique au sens du règlement (UE) n° 910/2014 ;
+- « données de création de cachet électronique » : les données de création de cachet électronique au sens du règlement (UE) n° 910/2014 ;
 
-13. « données de création de signature électronique » : les données de création de signature électronique au sens du règlement (UE) n° 910/2014 ;
+- « données de création de signature électronique » : les données de création de signature électronique au sens du règlement (UE) n° 910/2014 ;
 
-14. « identification électronique » : l’identification électronique au sens du règlement (UE) n° 910/2014 ;
+- « identification électronique » : l’identification électronique au sens du règlement (UE) n° 910/2014 ;
 
-15. « organisme d’évaluation de la conformité » : l’organisme d’évaluation de la conformité au sens du règlement (UE) n° 910/2014 ;
+- « organisme d’évaluation de la conformité » : l’organisme d’évaluation de la conformité au sens du règlement (UE) n° 910/2014 ;
 
-16. « prestataire » : toute personne physique ou morale qui fournit un service de la société de l’information ;
+- « prestataire » : toute personne physique ou morale qui fournit un service de la société de l’information ;
 
-17. « prestataire de services de confiance » : le prestataire de services de confiance au sens du règlement (UE) n° 910/2014 ;
+- « prestataire de services de confiance » : le prestataire de services de confiance au sens du règlement (UE) n° 910/2014 ;
 
-18. « prestataire de services de confiance qualifié » : le prestataire de services de confiance qualifié au sens du règlement (UE) n° 910/2014 ;
+- « prestataire de services de confiance qualifié » : le prestataire de services de confiance qualifié au sens du règlement (UE) n° 910/2014 ;
 
-19. « produit » : le produit au sens du règlement (UE) n° 910/2014 ;
+- « produit » : le produit au sens du règlement (UE) n° 910/2014 ;
 
-20. « service de confiance » : le service de confiance au sens du règlement (UE) n° 910/2014 ;
+- « service de confiance » : le service de confiance au sens du règlement (UE) n° 910/2014 ;
 
-21. « service de confiance qualifié » : le service de confiance qualifié au sens du règlement (UE) n° 910/2014 ;
+- « service de confiance qualifié » : le service de confiance qualifié au sens du règlement (UE) n° 910/2014 ;
 
-22. « service d’envoi recommandé électronique » : le service d’envoi recommandé électronique au sens du règlement (UE) n° 910/2014 ;
+- « service d’envoi recommandé électronique » : le service d’envoi recommandé électronique au sens du règlement (UE) n° 910/2014 ;
 
-23. « service d’envoi recommandé électronique qualifié » : le service d’envoi recommandé électronique qualifié au sens du règlement (UE) n° 910/2014 ;
+- « service d’envoi recommandé électronique qualifié » : le service d’envoi recommandé électronique qualifié au sens du règlement (UE) n° 910/2014 ;
 
-24. « services de la société de l’information » : tout service presté, normalement contre rémunération, à distance par voie électronique et à la demande individuelle d’un destinataire de services ;
+- « services de la société de l’information » : tout service presté, normalement contre rémunération, à distance par voie électronique et à la demande individuelle d’un destinataire de services ;
 
-25. « signature électronique » : la signature électronique au sens du règlement (UE) n° 910/2014 ;
+- « signature électronique » : la signature électronique au sens du règlement (UE) n° 910/2014 ;
 
-26. « titulaire de certificat » : une personne physique ou morale à laquelle un prestataire de services de confiance a délivré un certificat d’authentification de site internet, une personne physique à laquelle un prestataire de services de confiance a délivré un certificat de signature électronique ou une personne morale à laquelle un prestataire de services de confiance a délivré un certificat de cachet électronique.
+- « titulaire de certificat » : une personne physique ou morale à laquelle un prestataire de services de confiance a délivré un certificat d’authentification de site internet, une personne physique à laquelle un prestataire de services de confiance a délivré un certificat de signature électronique ou une personne morale à laquelle un prestataire de services de confiance a délivré un certificat de cachet électronique.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -124,13 +124,13 @@ La libre circulation des services de la société de l'information en provenance
 
 (6)
 
-1. Le ministre ayant le commerce électronique dans ses attributions peut, par dérogation aux dispositions du paragraphe (5), restreindre la libre circulation d'un service donné de la société de l'information en provenance d'un autre Etat membre lorsque ledit service porte atteinte, ou représente un risque sérieux et grave d'atteinte à l'ordre public, la sécurité publique, la santé publique ou la protection des consommateurs, en observant par ailleurs les exigences posées par le droit communautaire à l'exercice de cette faculté, et notamment le principe de proportionnalité.
+- Le ministre ayant le commerce électronique dans ses attributions peut, par dérogation aux dispositions du paragraphe (5), restreindre la libre circulation d'un service donné de la société de l'information en provenance d'un autre Etat membre lorsque ledit service porte atteinte, ou représente un risque sérieux et grave d'atteinte à l'ordre public, la sécurité publique, la santé publique ou la protection des consommateurs, en observant par ailleurs les exigences posées par le droit communautaire à l'exercice de cette faculté, et notamment le principe de proportionnalité.
 
-2. Sans préjudice d'éventuelles procédures judiciaires, y compris les procédures pénales, les mesures de restriction ne peuvent être prises que si le ministre ayant le commerce électronique dans ses attributions a au préalable: Il peut être dérogé aux conditions prévues ci-dessus en cas d'urgence. En pareil cas, le ministre ayant le commerce électronique dans ses attributions notifie, dans les plus brefs délais, à la Commission européenne et à l'Etat membre d'origine les mesures prises et les raisons pour lesquelles il estime qu'il y a urgence.
+- Sans préjudice d'éventuelles procédures judiciaires, y compris les procédures pénales, les mesures de restriction ne peuvent être prises que si le ministre ayant le commerce électronique dans ses attributions a au préalable: Il peut être dérogé aux conditions prévues ci-dessus en cas d'urgence. En pareil cas, le ministre ayant le commerce électronique dans ses attributions notifie, dans les plus brefs délais, à la Commission européenne et à l'Etat membre d'origine les mesures prises et les raisons pour lesquelles il estime qu'il y a urgence.
 
-- demandé à l'Etat membre d'origine de prendre des mesures;
+  - demandé à l'Etat membre d'origine de prendre des mesures;
 
-- notifié à la Commission européenne et à l'Etat membre d'origine son intention de prendre des mesures appropriées, si l'Etat membre d'origine ne prend pas de mesures ou si les mesures prises ne sont pas suffisantes.
+  - notifié à la Commission européenne et à l'Etat membre d'origine son intention de prendre des mesures appropriées, si l'Etat membre d'origine ne prend pas de mesures ou si les mesures prises ne sont pas suffisantes.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -178,7 +178,13 @@ Lorsque les services de la société de l’information font mention de prix et 
 
 «Signature»
 
-Après l’article 1322 du Code civil, il est ajouté un article 1322-1 ainsi rédigé: «La signature nécessaire à la perfection d’un acte sous seing privé identifie celui qui l’appose et manifeste son adhésion au contenu de l’acte. Elle peut être manuscrite ou électronique. La signature électronique consiste en un ensemble de données, liées de façon indissociable à l’acte, qui en garantit l’intégrité et satisfait aux conditions posées à l’alinéa premier du présent article.»
+Après l’article 1322 du Code civil, il est ajouté un article 1322-1 ainsi rédigé:
+
+«La signature nécessaire à la perfection d’un acte sous seing privé identifie celui qui l’appose et manifeste son adhésion au contenu de l’acte.
+
+Elle peut être manuscrite ou électronique.
+
+La signature électronique consiste en un ensemble de données, liées de façon indissociable à l’acte, qui en garantit l’intégrité et satisfait aux conditions posées à l’alinéa premier du présent article.»
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -213,7 +219,9 @@ L’article 1333 du Code civil est réintroduit avec le libellé suivant: Les co
 <a id="art-13"></a>
 ## Art. 13.
 
-L’article 1334 du Code civil est inséré au paragraphe III et est remplacé par la disposition suivante: «Lorsque le titre original ou l’acte faisant foi d’original au sens de l’article 1322-2 n’existe plus, les copies effectuées à partir de celui-ci, sous la responsabilité de la personne qui en a la garde, ont la même valeur probante que les écrits sous seing privé dont elles sont présumées, sauf preuve contraire, être une copie fidèle lorsqu’elles ont été réalisées dans le cadre d’une méthode de gestion régulièrement suivie et qu’elles répondent aux conditions fixées par règlement grand-ducal.»
+L’article 1334 du Code civil est inséré au paragraphe III et est remplacé par la disposition suivante:
+
+«Lorsque le titre original ou l’acte faisant foi d’original au sens de l’article 1322-2 n’existe plus, les copies effectuées à partir de celui-ci, sous la responsabilité de la personne qui en a la garde, ont la même valeur probante que les écrits sous seing privé dont elles sont présumées, sauf preuve contraire, être une copie fidèle lorsqu’elles ont été réalisées dans le cadre d’une méthode de gestion régulièrement suivie et qu’elles répondent aux conditions fixées par règlement grand-ducal.»
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -455,15 +463,15 @@ A la demande de son titulaire, préalablement identifié, le prestataire de serv
 
 Le prestataire de services de confiance ou le prestataire de services de confiance qualifié, révoque un certificat ou un certificat qualifié immédiatement lorsque :
 
-1. il découvre ou est informé que le certificat a été constitué sur la base d’informations erronées ou falsifiées, que les informations contenues dans le certificat ne sont plus conformes à la réalité ou que la sécurité des données de création de signature électronique, de cachet électronique ou d’authentification de site internet a été compromise ou risque d’être compromise ou que le certificat a été utilisé frauduleusement ;
+- il découvre ou est informé que le certificat a été constitué sur la base d’informations erronées ou falsifiées, que les informations contenues dans le certificat ne sont plus conformes à la réalité ou que la sécurité des données de création de signature électronique, de cachet électronique ou d’authentification de site internet a été compromise ou risque d’être compromise ou que le certificat a été utilisé frauduleusement ;
 
-2. le prestataire de services de confiance est informé du décès de la personne physique ou de la dissolution de la personne morale qui en est le titulaire ;
+- le prestataire de services de confiance est informé du décès de la personne physique ou de la dissolution de la personne morale qui en est le titulaire ;
 
-3. la révocation d’un certificat a été ordonnée par une juridiction ;
+- la révocation d’un certificat a été ordonnée par une juridiction ;
 
-4. l’ILNAS retire le statut qualifié au prestataire de services de confiance qualifié ou au service de confiance qualifié sous lequel le certificat a été émis, sauf dérogation de l’ILNAS ;
+- l’ILNAS retire le statut qualifié au prestataire de services de confiance qualifié ou au service de confiance qualifié sous lequel le certificat a été émis, sauf dérogation de l’ILNAS ;
 
-5. l’ILNAS demande la révocation du certificat qualifié pour non-respect des exigences de la présente loi ou du règlement (UE) n° 910/2014 .
+- l’ILNAS demande la révocation du certificat qualifié pour non-respect des exigences de la présente loi ou du règlement (UE) n° 910/2014 .
 
 (3)
 
@@ -636,15 +644,15 @@ Il s’assure de la reprise des activités par un autre prestataire de services 
 
 Le prestataire de services de confiance qualifié peut transférer à un autre prestataire de services de confiance qualifié tout ou partie de ses activités. Lors du transfert des certificats qualifiés, le prestataire de services de confiance qualifié se conforme aux exigences suivantes :
 
-1. Le prestataire de services de confiance qualifié avertit chaque titulaire de certificat qualifié au moins un mois à l’avance qu’il envisage de transférer les certificats qualifiés à un autre prestataire de services de confiance qualifié ;
+- Le prestataire de services de confiance qualifié avertit chaque titulaire de certificat qualifié au moins un mois à l’avance qu’il envisage de transférer les certificats qualifiés à un autre prestataire de services de confiance qualifié ;
 
-2. Le prestataire de services de confiance qualifié précise l’identité du prestataire de services de confiance qualifié auquel il est envisagé de transférer les certificats qualifiés ;
+- Le prestataire de services de confiance qualifié précise l’identité du prestataire de services de confiance qualifié auquel il est envisagé de transférer les certificats qualifiés ;
 
-3. Le prestataire de services de confiance qualifié informe le titulaire de certificat qualifié du droit qu’il dispose de refuser le transfert envisagé et lui indique les délais et modalités selon lesquels il peut exprimer un tel refus. En cas de refus du titulaire de certificat qualifié dans le délai prévu, le prestataire de services de confiance qualifié révoque le certificat qualifié du titulaire de certificat qualifié ;
+- Le prestataire de services de confiance qualifié informe le titulaire de certificat qualifié du droit qu’il dispose de refuser le transfert envisagé et lui indique les délais et modalités selon lesquels il peut exprimer un tel refus. En cas de refus du titulaire de certificat qualifié dans le délai prévu, le prestataire de services de confiance qualifié révoque le certificat qualifié du titulaire de certificat qualifié ;
 
-4. Le prestataire de services de confiance qualifié transmet toutes les informations visées à l’article 24, paragraphe 2, lettre h), du règlement (UE) n° 910/2014 au prestataire de services de confiance qualifié auquel il est envisagé de transférer les certificats qualifiés ;
+- Le prestataire de services de confiance qualifié transmet toutes les informations visées à l’article 24, paragraphe 2, lettre h), du règlement (UE) n° 910/2014 au prestataire de services de confiance qualifié auquel il est envisagé de transférer les certificats qualifiés ;
 
-5. Le prestataire de services de confiance qualifié transmet au prestataire de services de confiance qualifié, qui reprend tout ou partie de son activité, tous ses propres certificats en relation avec les données indiquées aux articles 33, paragraphe 1 er , lettre b), et 42, paragraphe 1 er , lettre c), du règlement (UE) n° 910/2014 ainsi qu’aux annexes I, lettre g), III, lettre g), et IV, lettre h), du même règlement .
+- Le prestataire de services de confiance qualifié transmet au prestataire de services de confiance qualifié, qui reprend tout ou partie de son activité, tous ses propres certificats en relation avec les données indiquées aux articles 33, paragraphe 1 er , lettre b), et 42, paragraphe 1 er , lettre c), du règlement (UE) n° 910/2014 ainsi qu’aux annexes I, lettre g), III, lettre g), et IV, lettre h), du même règlement .
 
 (3)
 
@@ -691,15 +699,15 @@ Sanctions administratives
 
 L’ILNAS peut infliger une amende de 250 euros à 15.000 euros à tout prestataire de services de confiance qui :
 
-1. refuse de fournir les documents et informations ou autres renseignements demandés par l’ILNAS dans le cadre du contrôle des prestataires de services de confiance ;
+- refuse de fournir les documents et informations ou autres renseignements demandés par l’ILNAS dans le cadre du contrôle des prestataires de services de confiance ;
 
-2. fait obstacle à l’exercice par l’ILNAS de son pouvoir de contrôle ;
+- fait obstacle à l’exercice par l’ILNAS de son pouvoir de contrôle ;
 
-3. enfreint les dispositions concernant l’utilisation du label de confiance de l’Union européenne de l’article 23 du règlement (UE) n° 910/2014 et du règlement d’exécution (UE) 2015/806 de la Commission du 22 mai 2015 établissant les spécifications relatives à la forme du label de confiance de l’Union pour les services de confiance qualifiés ;
+- enfreint les dispositions concernant l’utilisation du label de confiance de l’Union européenne de l’article 23 du règlement (UE) n° 910/2014 et du règlement d’exécution (UE) 2015/806 de la Commission du 22 mai 2015 établissant les spécifications relatives à la forme du label de confiance de l’Union pour les services de confiance qualifiés ;
 
-4. ne respecte pas les méthodes d’identification et les exigences minimales définies en vertu de l’article 29 bis , paragraphe 1 er ;
+- ne respecte pas les méthodes d’identification et les exigences minimales définies en vertu de l’article 29 bis , paragraphe 1 er ;
 
-5. ne transmet pas à l’ILNAS le rapport d’évaluation de la conformité prévu à l’article 20, paragraphe 1 er , du règlement (UE) n° 910/2014 .
+- ne transmet pas à l’ILNAS le rapport d’évaluation de la conformité prévu à l’article 20, paragraphe 1 er , du règlement (UE) n° 910/2014 .
 
 (2)
 
@@ -718,7 +726,17 @@ Toute décision prise par l’ILNAS en vertu du présent article est susceptible
 <a id="art-35"></a>
 ## Art. 35.
 
-L’article 196 du Code pénal est modifié comme suit: «Seront punies de réclusion de cinq à dix ans les autres personnes qui auront commis un faux en écritures authentiques et publiques, et toutes personnes qui auront commis un faux en écritures de commerce, de banque ou en écritures privées, en ce compris les actes sous seing privé électronique, Soit par fausses signatures, Soit par contrefaçon ou altération d'écritures ou de signatures, Soit par fabrication de conventions, dispositions, obligations ou décharges, ou par leur insertion après coup dans les actes, Soit par addition ou altération de clauses, de déclarations ou de faits que ces actes avaient pour objet de recevoir et de constater.»
+L’article 196 du Code pénal est modifié comme suit:
+
+«Seront punies de réclusion de cinq à dix ans les autres personnes qui auront commis un faux en écritures authentiques et publiques, et toutes personnes qui auront commis un faux en écritures de commerce, de banque ou en écritures privées, en ce compris les actes sous seing privé électronique,
+
+Soit par fausses signatures,
+
+Soit par contrefaçon ou altération d'écritures ou de signatures,
+
+Soit par fabrication de conventions, dispositions, obligations ou décharges, ou par leur insertion après coup dans les actes,
+
+Soit par addition ou altération de clauses, de déclarations ou de faits que ces actes avaient pour objet de recevoir et de constater.»
 
 <a id="art-36"></a>
 ## Art. 36.
@@ -728,7 +746,15 @@ L’article 197 du Code pénal est modifié comme suit: Dans tous les cas exprim
 <a id="art-37"></a>
 ## Art. 37.
 
-L’article 487 du Code pénal est modifié comme suit: «Sont qualifiées fausses clefs: Tous crochets, rossignols, passe-partout, clefs imitées, contrefaites ou altérées, y compris électroniques; Les clefs qui n'ont pas été destinées par le propriétaire, locataire, aubergiste ou logeur, aux serrures, cadenas ou aux fermetures quelconques auxquelles le coupable les aura employées; Les clefs perdues, égarées ou soustraites, y compris électroniques, qui auront servi à commettre le vol. Toutefois, l'emploi de fausses clefs ne constituera une circonstance aggravante que s'il a eu lieu pour ouvrir des objets dont l'effraction eût entraîné une aggravation de peine.»
+L’article 487 du Code pénal est modifié comme suit:
+
+«Sont qualifiées fausses clefs: Tous crochets, rossignols, passe-partout, clefs imitées, contrefaites ou altérées, y compris électroniques;
+
+Les clefs qui n'ont pas été destinées par le propriétaire, locataire, aubergiste ou logeur, aux serrures, cadenas ou aux fermetures quelconques auxquelles le coupable les aura employées;
+
+Les clefs perdues, égarées ou soustraites, y compris électroniques, qui auront servi à commettre le vol.
+
+Toutefois, l'emploi de fausses clefs ne constituera une circonstance aggravante que s'il a eu lieu pour ouvrir des objets dont l'effraction eût entraîné une aggravation de peine.»
 
 <a id="art-38"></a>
 ## Art. 38.
@@ -738,17 +764,35 @@ L’article 488 du Code pénal est modifié comme suit: Quiconque aura frauduleu
 <a id="art-39"></a>
 ## Art. 39.
 
-L’article 498 du Code pénal est modifié comme suit: «Sera puni d'un emprisonnement d'un mois à un an et d'une amende de 500 euros à 10.000 euros, ou d'une de ces peines seulement, celui qui aura trompé l'acheteur: Sur l'identité du bien vendu, en livrant frauduleusement un bien autre que l'objet déterminé sur lequel a porté la transaction; Sur la nature ou l'origine du bien vendu, en vendant ou en livrant un bien semblable en apparence à celui qu'il a acheté ou qu'il a cru acheter. Les dispositions qui précèdent s'appliquent aux biens mobiliers y compris incorporels et immobiliers.»
+L’article 498 du Code pénal est modifié comme suit:
+
+«Sera puni d'un emprisonnement d'un mois à un an et d'une amende de 500 euros à 10.000 euros, ou d'une de ces peines seulement, celui qui aura trompé l'acheteur:
+
+Sur l'identité du bien vendu, en livrant frauduleusement un bien autre que l'objet déterminé sur lequel a porté la transaction;
+
+Sur la nature ou l'origine du bien vendu, en vendant ou en livrant un bien semblable en apparence à celui qu'il a acheté ou qu'il a cru acheter.
+
+Les dispositions qui précèdent s'appliquent aux biens mobiliers y compris incorporels et immobiliers.»
 
 <a id="art-40"></a>
 ## Art. 40.
 
-L’article 505 du Code pénal est modifié comme suit: «Ceux qui auront recelé, en tout ou en partie, les choses ou les biens incorporels enlevés, détournés ou obtenus à l'aide d'un crime ou d'un délit, seront punis d'un emprisonnement de quinze jours à cinq ans et d'une amende de 251 euros à 5.000 euros. Ils pourront, de plus, être condamnés à l'interdiction, conformément à l'article 24. Constitue également un recel le fait de sciemment bénéficier du produit d'un crime ou d'un délit.»
+L’article 505 du Code pénal est modifié comme suit:
+
+«Ceux qui auront recelé, en tout ou en partie, les choses ou les biens incorporels enlevés, détournés ou obtenus à l'aide d'un crime ou d'un délit, seront punis d'un emprisonnement de quinze jours à cinq ans et d'une amende de 251 euros à 5.000 euros.
+
+Ils pourront, de plus, être condamnés à l'interdiction, conformément à l'article 24.
+
+Constitue également un recel le fait de sciemment bénéficier du produit d'un crime ou d'un délit.»
 
 <a id="art-41"></a>
 ## Art. 41.
 
-L'article 509-1 du Code pénal est modifié comme suit: «Quiconque, frauduleusement, aura accédé ou se sera maintenu dans tout ou partie d'un système de traitement ou de transmission automatisé de données sera puni d'un emprisonnement de deux mois à deux ans et d'une amende de 500 euros à 25.000 euros ou de l'une de ces deux peines. Lorsqu'il en sera résulté soit la suppression soit la modification de données contenues dans le système, soit une altération du fonctionnement de ce système, l'emprisonnement sera de quatre mois à deux ans et l'amende de 1.250 euros à 25.000 euros.»
+L'article 509-1 du Code pénal est modifié comme suit:
+
+«Quiconque, frauduleusement, aura accédé ou se sera maintenu dans tout ou partie d'un système de traitement ou de transmission automatisé de données sera puni d'un emprisonnement de deux mois à deux ans et d'une amende de 500 euros à 25.000 euros ou de l'une de ces deux peines.
+
+Lorsqu'il en sera résulté soit la suppression soit la modification de données contenues dans le système, soit une altération du fonctionnement de ce système, l'emprisonnement sera de quatre mois à deux ans et l'amende de 1.250 euros à 25.000 euros.»
 
 <a id="art-42"></a>
 ## Art. 42.
@@ -783,27 +827,27 @@ Sont punis d’une amende de 251 euros jusqu’à 25.000 euros ceux qui offrent 
 
 Est puni d’une amende de 251 euros à 25.000 euros, d’une peine d’emprisonnement de huit jours à six mois ou d’une de ces peines seulement :
 
-1. tout prestataire de services de confiance qualifié qui ne s’est pas conformé à l’obligation d’information préalable telle que prévue par l’article 32, paragraphe 1 er ;
+- tout prestataire de services de confiance qualifié qui ne s’est pas conformé à l’obligation d’information préalable telle que prévue par l’article 32, paragraphe 1 er ;
 
-2. tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux exigences concernant le transfert des certificats qualifiés telles que prévues par l’article 32, paragraphe 2 ;
+- tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux exigences concernant le transfert des certificats qualifiés telles que prévues par l’article 32, paragraphe 2 ;
 
-3. tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux obligations de se soumettre aux audits prévus à l’article 20, paragraphes 1 er et 2, du règlement (UE) n° 910/2014 ;
+- tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux obligations de se soumettre aux audits prévus à l’article 20, paragraphes 1 er et 2, du règlement (UE) n° 910/2014 ;
 
-4. tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux exigences d’identification applicables pour l’émission d’un certificat qualifié conformément à l’article 24, paragraphe 1 er , du règlement (UE) n° 910/2014 ;
+- tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux exigences d’identification applicables pour l’émission d’un certificat qualifié conformément à l’article 24, paragraphe 1 er , du règlement (UE) n° 910/2014 ;
 
-5. tout prestataire de services de confiance qualifié fournissant des services de confiance qualifiés qui ne s’est pas conformé aux exigences de l’article 24, paragraphe 2, du règlement (UE) n° 910/2014 .
+- tout prestataire de services de confiance qualifié fournissant des services de confiance qualifiés qui ne s’est pas conformé aux exigences de l’article 24, paragraphe 2, du règlement (UE) n° 910/2014 .
 
 (3)
 
 Est puni d’une amende de 251 euros à 500.000 euros et d’une peine d’emprisonnement de huit jours à cinq ans ou d’une de ces peines seulement :
 
-1. toute personne qui ne s’est pas conformée au secret professionnel prévu par l’article 19, paragraphe 4 ;
+- toute personne qui ne s’est pas conformée au secret professionnel prévu par l’article 19, paragraphe 4 ;
 
-2. toute personne qui ne s’est pas conformée aux exigences de notification d’incidents de sécurité conformément à l’article 19, paragraphe 2, du règlement (UE) n° 910/2014 ;
+- toute personne qui ne s’est pas conformée aux exigences de notification d’incidents de sécurité conformément à l’article 19, paragraphe 2, du règlement (UE) n° 910/2014 ;
 
-3. tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux exigences de révocation d’un certificat qualifié conformément à l’article 24, paragraphe 3, du règlement (UE) n° 910/2014 ;
+- tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux exigences de révocation d’un certificat qualifié conformément à l’article 24, paragraphe 3, du règlement (UE) n° 910/2014 ;
 
-4. toute personne qui délivre des certificats qualifiés sans fournir des informations sur la validité ou le statut de révocation des certificats qualifiés conformément à l’article 24, paragraphe 4, du règlement (UE) n° 910/2014 .
+- toute personne qui délivre des certificats qualifiés sans fournir des informations sur la validité ou le statut de révocation des certificats qualifiés conformément à l’article 24, paragraphe 4, du règlement (UE) n° 910/2014 .
 
 ### TITRE IV. DES COMMUNICATIONS COMMERCIALES
 
@@ -838,7 +882,7 @@ a) la communication commerciale doit être clairement identifiable en tant que t
 
 b) la personne physique ou morale pour le compte de laquelle la communication commerciale est faite doit être clairement identifiable;
 
-c) les concours, offres ou jeux promotionnels doivent être clairement identifiables comme tels et leurs conditions de participation doivent être aisément accessibles et présentées de manière précise et non équivoque.
+c) les concours , offres ou jeux promotionnels doivent être clairement identifiables comme tels et leurs conditions de participation doivent être aisément accessibles et présentées de manière précise et non équivoque.
 
 <a id="art-48"></a>
 ## Art. 48.
@@ -917,13 +961,13 @@ Informations «techniques» générales à fournir
 
 Sans préjudice de l'obligation générale d'information de l'article 5 de la présente loi et, sauf si les parties sont des professionnels et en ont convenu autrement, le prestataire doit fournir au destinataire du service, avant que celuici ne passe commande, de manière claire, compréhensible et non équivoque, au moins les informations portant sur:
 
-1. les différentes étapes techniques à suivre pour conclure le contrat;
+- les différentes étapes techniques à suivre pour conclure le contrat;
 
-2. l'archivage ou non du contrat par le prestataire une fois celui-ci conclu et son accessibilité;
+- l'archivage ou non du contrat par le prestataire une fois celui-ci conclu et son accessibilité;
 
-3. les moyens techniques pour identifier et corriger les erreurs commises dans la saisie des données avant que la commande ne soit passée;
+- les moyens techniques pour identifier et corriger les erreurs commises dans la saisie des données avant que la commande ne soit passée;
 
-4. les langues proposées pour la conclusion du contrat.
+- les langues proposées pour la conclusion du contrat.
 
 Sauf si les parties sont des professionnels et en ont convenu autrement, le prestataire doit indiquer les éventuels codes de conduite auxquels il est soumis, ainsi que les informations sur la façon dont ces codes peuvent être consultés par voie électronique.
 
@@ -1203,11 +1247,11 @@ Simple transport
 
 Le prestataire de service de la société de l’information qui transmet sur un réseau de communication, des informations fournies par un destinataire du service ou qui fournit un accès au réseau de communications ne peut voir sa responsabilité engagée pour les informations transmises à condition:
 
-1. qu’il ne soit pas à l’origine de la transmission;
+- qu’il ne soit pas à l’origine de la transmission;
 
-2. qu’il ne sélectionne pas le destinataire de la transmission; et
+- qu’il ne sélectionne pas le destinataire de la transmission; et
 
-3. qu’il ne sélectionne et ne modifie pas les informations faisant l’objet de la transmission.
+- qu’il ne sélectionne et ne modifie pas les informations faisant l’objet de la transmission.
 
 (2)
 
@@ -1239,9 +1283,9 @@ Hébergement
 
 Le prestataire qui fournit un service de la société de l’information consistant dans le stockage des informations fournies par un destinataire du service, ne peut pas voir sa responsabilité engagée pour les informations stockées à la demande d’un destinataire du service à condition que:
 
-1. le prestataire n’ait pas effectivement connaissance que l’activité ou l’information est illicite et, en ce qui concerne une action en dommages et intérêts, qu’il n’ait pas connaissance de faits ou de circonstances selon lesquels le caractère illicite de l’activité ou de l’information est apparent; ou
+- le prestataire n’ait pas effectivement connaissance que l’activité ou l’information est illicite et, en ce qui concerne une action en dommages et intérêts, qu’il n’ait pas connaissance de faits ou de circonstances selon lesquels le caractère illicite de l’activité ou de l’information est apparent; ou
 
-2. le prestataire, dès le moment où il a une telle connaissance, agisse promptement pour retirer les informations ou rendre l’accès à celles-ci impossible.
+- le prestataire, dès le moment où il a une telle connaissance, agisse promptement pour retirer les informations ou rendre l’accès à celles-ci impossible.
 
 (2)
 

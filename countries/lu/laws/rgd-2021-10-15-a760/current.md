@@ -45,25 +45,25 @@ Le présent règlement ne s’applique pas aux plants et aux matériels de multi
 
 Aux fins du présent règlement, on entend par :
 
-1. « matériels de multiplication » : les parties de plantes et tous matériels de plantes, y compris les porte-greffes, destinés à la multiplication et à la production de légumes ;
+- « matériels de multiplication » : les parties de plantes et tous matériels de plantes, y compris les porte-greffes, destinés à la multiplication et à la production de légumes ;
 
-2. « plants » : les plantes entières et les parties de plantes, comprenant dans le cas de plantes greffées, le greffon, destinées à être plantées en vue de la production de légumes ;
+- « plants » : les plantes entières et les parties de plantes, comprenant dans le cas de plantes greffées, le greffon, destinées à être plantées en vue de la production de légumes ;
 
-3. « fournisseur » : toute personne physique ou morale qui exerce professionnellement au moins l’une des activités suivantes ayant trait aux matériels de multiplication ou aux plants : reproduction, production, protection et/ou traitement et commercialisation ;
+- « fournisseur » : toute personne physique ou morale qui exerce professionnellement au moins l’une des activités suivantes ayant trait aux matériels de multiplication ou aux plants : reproduction, production, protection et/ou traitement et commercialisation ;
 
-4. « commercialisation » : maintien à disposition ou en stock, exposition ou offre à la vente, vente et/ou livraison à une autre personne, sous quelque forme que ce soit, de matériels de multiplication ou de plants ;
+- « commercialisation » : maintien à disposition ou en stock, exposition ou offre à la vente, vente et/ou livraison à une autre personne, sous quelque forme que ce soit, de matériels de multiplication ou de plants ;
 
-5. « ministre » : le ministre ayant l’Agriculture dans ses attributions ;
+- « ministre » : le ministre ayant l’Agriculture dans ses attributions ;
 
-6. « organisme officiel responsable » : l’Administration des services techniques de l’agriculture, service de l’horticulture ;
+- « organisme officiel responsable » : l’Administration des services techniques de l’agriculture, service de l’horticulture ;
 
-7. « inspection officielle » : l’inspection effectuée par l’organisme officiel responsable ;
+- « inspection officielle » : l’inspection effectuée par l’organisme officiel responsable ;
 
-8. « déclaration officielle » : la déclaration faite par l’organisme officiel responsable ou sous sa responsabilité ;
+- « déclaration officielle » : la déclaration faite par l’organisme officiel responsable ou sous sa responsabilité ;
 
-9. « lot » : un certain nombre d’éléments d’un produit unique, identifiable par l’homogénéité de sa composition et de son origine ;
+- « lot » : un certain nombre d’éléments d’un produit unique, identifiable par l’homogénéité de sa composition et de son origine ;
 
-10. « laboratoire » : une entité de droit public ou privé effectuant des analyses et établissant un diagnostic correct permettant au producteur de contrôler la qualité de la production.
+- « laboratoire » : une entité de droit public ou privé effectuant des analyses et établissant un diagnostic correct permettant au producteur de contrôler la qualité de la production.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -95,13 +95,13 @@ Les fournisseurs prennent toutes les mesures nécessaires pour assurer le respec
 
 Aux fins du paragraphe 1er, les fournisseurs effectuent eux-mêmes, ou font effectuer par un fournisseur agréé ou par l’organisme officiel responsable, des contrôles reposant sur les principes suivants :
 
-1. identification des points critiques de leur processus de production sur la base des méthodes de production utilisées ;
+- identification des points critiques de leur processus de production sur la base des méthodes de production utilisées ;
 
-2. élaboration et mise en œuvre de méthodes de surveillance et de contrôle des points critiques visés au point 1° ;
+- élaboration et mise en œuvre de méthodes de surveillance et de contrôle des points critiques visés au point 1° ;
 
-3. prélèvement d’échantillons à analyser dans un laboratoire agréé par l’organisme officiel responsable, destinés à vérifier le respect des normes fixées par la présente loi ;
+- prélèvement d’échantillons à analyser dans un laboratoire agréé par l’organisme officiel responsable, destinés à vérifier le respect des normes fixées par la présente loi ;
 
-4. enregistrement par écrit, ou par un autre moyen de conservation durable, des données visées aux points 1°, 2° et 3°, et tenue d’un registre de la production et de la commercialisation des plants et des matériels de multiplication, à tenir à la disposition de l’organisme officiel responsable. Ces documents et registres devront être conservés pendant une période d’au moins un an.
+- enregistrement par écrit, ou par un autre moyen de conservation durable, des données visées aux points 1°, 2° et 3°, et tenue d’un registre de la production et de la commercialisation des plants et des matériels de multiplication, à tenir à la disposition de l’organisme officiel responsable. Ces documents et registres devront être conservés pendant une période d’au moins un an.
 
 Toutefois, les fournisseurs dont l’activité dans ce domaine se limite à la simple distribution de matériels de multiplication de plants de légumes produits et emballés en dehors de leur établissement sont seulement tenus de tenir un registre ou de garder des traces durables des opérations d’achat et de vente ou de livraison de tels produits.
 
@@ -137,77 +137,77 @@ Les contrôles des fournisseurs visés à l’article 5, paragraphe 3, ont lieu 
 
 En ce qui concerne l’identification des points critiques du processus de production visé à l’article 4, paragraphe 2, point 1° et la tenue des livres visée à l’article 4, paragraphe 2, point 4°, l’organisme officiel responsable exerce une surveillance et un contrôle sur le fournisseur afin de s’assurer que celui-ci :
 
-1. continue de tenir compte des points critiques ci-après, selon les cas :
+- continue de tenir compte des points critiques ci-après, selon les cas :
 
-1. la qualité du matériel de multiplication et des plants de légumes utilisés pour le démarrage du processus de production ;
+  - la qualité du matériel de multiplication et des plants de légumes utilisés pour le démarrage du processus de production ;
 
-2. le semis, le repiquage, le bouturage et la plantation du matériel de multiplication et des plantes ;
+  - le semis, le repiquage, le bouturage et la plantation du matériel de multiplication et des plantes ;
 
-3. le respect les prescriptions du règlement (UE) 2016/2031 ;
+  - le respect les prescriptions du règlement (UE) 2016/2031 ;
 
-4. le plan et la méthode de culture ;
+  - le plan et la méthode de culture ;
 
-5. l’entretien général des végétaux cultivés ;
+  - l’entretien général des végétaux cultivés ;
 
-6. les opérations de multiplication ;
+  - les opérations de multiplication ;
 
-7. les opérations de récolte ;
+  - les opérations de récolte ;
 
-8. l’hygiène ;
+  - l’hygiène ;
 
-9. les traitements ;
+  - les traitements ;
 
-10. l’emballage ;
+  - l’emballage ;
 
-11. le stockage ;
+  - le stockage ;
 
-12. le transport ;
+  - le transport ;
 
-13. les tâches administratives.
+  - les tâches administratives.
 
-2. tient effectivement des livres qui permettent audit organisme officiel responsable de disposer d’informations complètes sur :
+- tient effectivement des livres qui permettent audit organisme officiel responsable de disposer d’informations complètes sur :
 
-1. les plantes et autres objets :
+  - les plantes et autres objets :
 
-1. achetés à des fins de stockage ou de plantation sur place
+    - achetés à des fins de stockage ou de plantation sur place
 
-2. en production
+    - en production
 
-3. expédiés à des tiers
+    - expédiés à des tiers
 
-2. tout traitement chimique appliqué aux plantes, et conserve les pièces et documents y afférents pendant au moins un an ;
+  - tout traitement chimique appliqué aux plantes, et conserve les pièces et documents y afférents pendant au moins un an ;
 
-3. se tient personnellement à la disposition dudit organisme officiel responsable ou lui désigne une autre personne possédant une expérience technique adéquate de la production végétale et des questions sanitaires y afférentes ;
+- se tient personnellement à la disposition dudit organisme officiel responsable ou lui désigne une autre personne possédant une expérience technique adéquate de la production végétale et des questions sanitaires y afférentes ;
 
-4. procède aux observations visuelles nécessaires et opportunes d’une manière agréée par ledit organisme officiel responsable ;
+- procède aux observations visuelles nécessaires et opportunes d’une manière agréée par ledit organisme officiel responsable ;
 
-5. garantit aux personnes habilitées à agir pour le compte dudit organisme officiel responsable l’accès à ses installations, en particulier à des fins d’inspection et/ou d’échantillonnage, ainsi qu’aux livres et documents y afférents visés à la lettre b) ;
+- garantit aux personnes habilitées à agir pour le compte dudit organisme officiel responsable l’accès à ses installations, en particulier à des fins d’inspection et/ou d’échantillonnage, ainsi qu’aux livres et documents y afférents visés à la lettre b) ;
 
-6. coopère de toute autre manière avec ledit organisme officiel responsable.
+- coopère de toute autre manière avec ledit organisme officiel responsable.
 
 (3)
 
 En ce qui concerne l’établissement et l’application des méthodes de surveillance et de contrôle des points critiques visés à l’article 4, paragraphe 2, point 2°, l’organisme officiel responsable exerce une surveillance et un contrôle sur le fournisseur afin de s’assurer que celui-ci poursuit l’application, s’il y a lieu, desdites méthodes, en accordant une attention particulière à :
 
-1. l’existence et l’utilisation effective de méthodes de contrôle de chacun des points critiques cités au paragraphe 2 ;
+- l’existence et l’utilisation effective de méthodes de contrôle de chacun des points critiques cités au paragraphe 2 ;
 
-2. la fiabilité de ces méthodes ;
+- la fiabilité de ces méthodes ;
 
-3. la convenance de ces méthodes pour l’appréciation du contenu des modalités de production et de commercialisation, y compris le volet administratif ;
+- la convenance de ces méthodes pour l’appréciation du contenu des modalités de production et de commercialisation, y compris le volet administratif ;
 
-4. l’aptitude du personnel du fournisseur à effectuer ces contrôles.
+- l’aptitude du personnel du fournisseur à effectuer ces contrôles.
 
 (4)
 
 En ce qui concerne le prélèvement d’échantillons à des fins d’analyse dans un laboratoire agréé visé à l’article 4, paragraphe 2, point 3°, l’organisme officiel responsable exerce une surveillance et un contrôle sur le fournisseur afin d’assurer, s’il y a lieu, que :
 
-1. des échantillons sont prélevés aux différents stades de la production et en respectant la fréquence établie par l’organisme officiel responsable au moment de la vérification des méthodes de production en vue de l’octroi de l’agrément ;
+- des échantillons sont prélevés aux différents stades de la production et en respectant la fréquence établie par l’organisme officiel responsable au moment de la vérification des méthodes de production en vue de l’octroi de l’agrément ;
 
-2. le mode de prélèvement des échantillons est techniquement correct et s’appuie sur une formule statistique fiable, compte tenu de la nature de l’analyse à effectuer ;
+- le mode de prélèvement des échantillons est techniquement correct et s’appuie sur une formule statistique fiable, compte tenu de la nature de l’analyse à effectuer ;
 
-3. les personnes chargées du prélèvement des échantillons ont la compétence requise à cet effet ;
+- les personnes chargées du prélèvement des échantillons ont la compétence requise à cet effet ;
 
-4. l’analyse des échantillons est confiée à un laboratoire qui a été agréé à cet effet par l’organisme officiel responsable en vertu de l’article 5, paragraphe 2.
+- l’analyse des échantillons est confiée à un laboratoire qui a été agréé à cet effet par l’organisme officiel responsable en vertu de l’article 5, paragraphe 2.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -220,11 +220,11 @@ Les matériels de multiplication et les plants de légumes ne peuvent être comm
 
 Sans préjudice des dispositions fixées par le règlement (UE) 2016/2031, le paragraphe 1er ne s’applique pas aux matériels de multiplication et aux plants de légumes destinés à :
 
-1. des essais ou à des fins scientifiques ;
+- des essais ou à des fins scientifiques ;
 
-2. des travaux de sélection ; ou
+- des travaux de sélection ; ou
 
-3. des mesures visant à la conservation de la diversité génétique.
+- des mesures visant à la conservation de la diversité génétique.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -286,29 +286,29 @@ En cas de fourniture par le détaillant, à un consommateur final non profession
 
 Le document du fournisseur visé à l’article 12, paragraphe 1er doit être constitué d’un matériau approprié, ne jamais avoir été utilisé et être imprimé dans au moins une des langues officielles de l’Union européenne. II doit contenir les éléments d’information suivants :
 
-1. la mention : « qualité CEE » ;
+- la mention : « qualité CEE » ;
 
-2. la mention « Grand-Duché de Luxembourg » ou le code « LU » ;
+- la mention « Grand-Duché de Luxembourg » ou le code « LU » ;
 
-3. la mention « Administration des services techniques de l’agriculture » ;
+- la mention « Administration des services techniques de l’agriculture » ;
 
-4. le numéro d’enregistrement ou d’agrément ;
+- le numéro d’enregistrement ou d’agrément ;
 
-5. le nom du fournisseur ;
+- le nom du fournisseur ;
 
-6. le numéro individuel de série, de semaine ou de lot ;
+- le numéro individuel de série, de semaine ou de lot ;
 
-7. la date d’établissement du document du fournisseur ;
+- la date d’établissement du document du fournisseur ;
 
-8. le numéro de référence du lot de semences lorsqu’il s’agit de jeunes plants produits directement à partir de semences commercialisées conformément par la règlementation applicable à la commercialisation des semences de légumes ;
+- le numéro de référence du lot de semences lorsqu’il s’agit de jeunes plants produits directement à partir de semences commercialisées conformément par la règlementation applicable à la commercialisation des semences de légumes ;
 
-9. le nom commun, ou le nom botanique si le matériel est accompagné d’un passeport phytosanitaire conformément à la directive 92/105/CEE de la Commission ;
+- le nom commun, ou le nom botanique si le matériel est accompagné d’un passeport phytosanitaire conformément à la directive 92/105/CEE de la Commission ;
 
-10. la dénomination de la variété ; lorsqu’il s’agit d’un porte-greffe, la dénomination de la variété ou sa désignation ;
+- la dénomination de la variété ; lorsqu’il s’agit d’un porte-greffe, la dénomination de la variété ou sa désignation ;
 
-11. la quantité ;
+- la quantité ;
 
-12. lorsqu’il s’agit de matériel importé d’un pays tiers conformément à l’article 15, le nom du pays d’origine (récolte).
+- lorsqu’il s’agit de matériel importé d’un pays tiers conformément à l’article 15, le nom du pays d’origine (récolte).
 
 Le numéro de référence visé au point 8° doit être fourni, sur demande, à l’organisme officiel responsable.
 
@@ -321,9 +321,9 @@ Lorsque les matériels sont accompagnés d’un passeport phytosanitaire tel que
 
 Sont dispensés :
 
-1. de l’application de l’article 12, les petits producteurs dont la totalité de la production et de la vente de matériels de multiplication et de plants de légumes est destinée, pour un usage final, à des personnes sur le marché local qui ne sont pas engagées professionnellement dans la production de végétaux (circulation locale) ;
+- de l’application de l’article 12, les petits producteurs dont la totalité de la production et de la vente de matériels de multiplication et de plants de légumes est destinée, pour un usage final, à des personnes sur le marché local qui ne sont pas engagées professionnellement dans la production de végétaux (circulation locale) ;
 
-2. des contrôles prévus à l’article 4, paragraphe 1 er et de l’inspection officielle visée à l’article 11, paragraphe 3 et à l’article 16, la circulation locale de matériels de multiplication et de plants de légumes produits par des personnes ainsi exemptées.
+- des contrôles prévus à l’article 4, paragraphe 1 er et de l’inspection officielle visée à l’article 11, paragraphe 3 et à l’article 16, la circulation locale de matériels de multiplication et de plants de légumes produits par des personnes ainsi exemptées.
 
 <a id="art-15"></a>
 ## Art. 15.

@@ -53,9 +53,9 @@ Les projets de service volontaire relèvent des domaines suivants: travail socia
 
 Les services volontaires à l’étranger visés par la présente loi sont ceux qui s’insèrent:
 
-1. dans des programmes communautaires de volontariat, de coopération internationale ou dans des accords internationaux;
+- dans des programmes communautaires de volontariat, de coopération internationale ou dans des accords internationaux;
 
-2. dans des projets de volontariat organisés par des organisations de volontariat agréées au Luxembourg.
+- dans des projets de volontariat organisés par des organisations de volontariat agréées au Luxembourg.
 
 (3)
 
@@ -115,15 +115,15 @@ Pour pouvoir participer à un service volontaire, le candidat doit avoir accompl
 
 Pour être admis, le volontaire doit
 
-1. se faire enregistrer auprès du Service national de la jeunesse;
+- se faire enregistrer auprès du Service national de la jeunesse;
 
-2. avoir conclu un contrat de volontariat avec une organisation agréée d’accueil ou d’envoi pour réaliser un projet déterminé de service volontaire ou un projet dans le cadre d’un programme de volontariat;
+- avoir conclu un contrat de volontariat avec une organisation agréée d’accueil ou d’envoi pour réaliser un projet déterminé de service volontaire ou un projet dans le cadre d’un programme de volontariat;
 
-3. avoir reçu l’approbation du Service national de la jeunesse;
+- avoir reçu l’approbation du Service national de la jeunesse;
 
-4. résider légalement soit au Luxembourg, soit dans un des Etats visés à l’article 5 de la décision No 1719/2006/CE du Parlement européen et du Conseil du 15 novembre 2006 établissant le programme «Jeunesse en action» pour la période 2007-2013, soit dans un des Etats avec lesquels le Luxembourg a conclu un accord de coopération ou accord culturel;
+- résider légalement soit au Luxembourg, soit dans un des Etats visés à l’article 5 de la décision No 1719/2006/CE du Parlement européen et du Conseil du 15 novembre 2006 établissant le programme «Jeunesse en action» pour la période 2007-2013, soit dans un des Etats avec lesquels le Luxembourg a conclu un accord de coopération ou accord culturel;
 
-5. être en règle avec la législation relative à l’entrée et au séjour des étrangers.
+- être en règle avec la législation relative à l’entrée et au séjour des étrangers.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -140,31 +140,31 @@ Cette convention écrite organise une collaboration désintéressée entre l’o
 
 La convention comprend les éléments suivants, qui se situent dans le cadre du projet de service volontaire:
 
-1. la durée du service volontaire qui se situe entre trois et douze mois, sans interruption et à plein temps. Des dérogations à la durée peuvent toutefois être accordées par le ministre dans des cas individuels dûment motivés sans que la durée puisse être supérieure à dix-huit mois;
+- la durée du service volontaire qui se situe entre trois et douze mois, sans interruption et à plein temps. Des dérogations à la durée peuvent toutefois être accordées par le ministre dans des cas individuels dûment motivés sans que la durée puisse être supérieure à dix-huit mois;
 
-2. le temps de collaboration ainsi que les horaires prévisionnels du service;
+- le temps de collaboration ainsi que les horaires prévisionnels du service;
 
-3. les repos hebdomadaires;
+- les repos hebdomadaires;
 
-4. le lieu de collaboration;
+- le lieu de collaboration;
 
-5. les tâches à exécuter par le volontaire et les moyens mis à sa disposition pour les exécuter;
+- les tâches à exécuter par le volontaire et les moyens mis à sa disposition pour les exécuter;
 
-6. la formation préalable qui sera dispensée au volontaire pour l’aider à accomplir ses tâches;
+- la formation préalable qui sera dispensée au volontaire pour l’aider à accomplir ses tâches;
 
-7. les conditions d’encadrement dont bénéficiera le volontaire dans l’accomplissement de ses tâches et notamment les modalités du tutorat;
+- les conditions d’encadrement dont bénéficiera le volontaire dans l’accomplissement de ses tâches et notamment les modalités du tutorat;
 
-8. les ressources nécessaires pour couvrir les frais de voyage, de subsistance et de logement du volontaire;
+- les ressources nécessaires pour couvrir les frais de voyage, de subsistance et de logement du volontaire;
 
-9. le montant de l’indemnité accordée comme argent de poche au volontaire durant toute la durée du séjour, dont la hauteur ne peut dépasser le cinquième du salaire social minimum par mois. Cet argent de poche n’est pas soumis aux charges fiscales et sociales générales prévues en matière de salaires.
+- le montant de l’indemnité accordée comme argent de poche au volontaire durant toute la durée du séjour, dont la hauteur ne peut dépasser le cinquième du salaire social minimum par mois. Cet argent de poche n’est pas soumis aux charges fiscales et sociales générales prévues en matière de salaires.
 
 (3)
 
 La convention comprend également l’engagement de l’organisation d’accueil ou d’envoi
 
-1. d’affilier le volontaire aux assurances maladie, pension et accident pour la durée de son service volontaire, pour autant qu’il ne dispose pas encore d’une protection sociale dans son pays d’origine;
+- d’affilier le volontaire aux assurances maladie, pension et accident pour la durée de son service volontaire, pour autant qu’il ne dispose pas encore d’une protection sociale dans son pays d’origine;
 
-2. de contracter une assurance de responsabilité civile auprès d’un assureur dûment agréé au Luxembourg au profit du volontaire pour la durée de son service volontaire.
+- de contracter une assurance de responsabilité civile auprès d’un assureur dûment agréé au Luxembourg au profit du volontaire pour la durée de son service volontaire.
 
 (4)
 
@@ -236,13 +236,13 @@ Commission d’accompagnement du service volontaire
 
 Il est institué une commission d’accompagnement du service volontaire, qui a comme missions:
 
-1. de donner son avis sur les matières visées à la présente loi;
+- de donner son avis sur les matières visées à la présente loi;
 
-2. de donner son avis sur la capacité des organisations d’accueil ou d’envoi de remplir les obligations prévues à l’article 3;
+- de donner son avis sur la capacité des organisations d’accueil ou d’envoi de remplir les obligations prévues à l’article 3;
 
-3. de faire des propositions relatives à la formation des jeunes volontaires, à l’accompagnement et à l’évaluation des projets;
+- de faire des propositions relatives à la formation des jeunes volontaires, à l’accompagnement et à l’évaluation des projets;
 
-4. de proposer, en cas de besoin, une médiation entre le volontaire et l’organisation d’accueil ou d’envoi.
+- de proposer, en cas de besoin, une médiation entre le volontaire et l’organisation d’accueil ou d’envoi.
 
 (2)
 
@@ -255,15 +255,21 @@ Dispositions modificatives du Code des assurances sociales
 
 (1)
 
-L’article 1er, point 17 du Code des assurances sociales est modifié comme suit:«17) les jeunes qui exercent un service volontaire conformément à la loi du 31 octobre 2007 sur le service volontaire des jeunes».
+L’article 1er, point 17 du Code des assurances sociales est modifié comme suit:
+
+«17) les jeunes qui exercent un service volontaire conformément à la loi du 31 octobre 2007 sur le service volontaire des jeunes».
 
 (2)
 
-L’article 85, point 9 du Code des assurances sociales est modifié comme suit:«9) les jeunes qui exercent un service volontaire conformément à la loi du 31 octobre 2007 sur le service volontaire des jeunes».
+L’article 85, point 9 du Code des assurances sociales est modifié comme suit:
+
+«9) les jeunes qui exercent un service volontaire conformément à la loi du 31 octobre 2007 sur le service volontaire des jeunes».
 
 (3)
 
-L’article 171, point 15 du Code des assurances sociales est modifié comme suit:«15) les périodes pendant lesquelles l’intéressé a exercé un service volontaire conformément à la loi du 31 octobre 2007 sur le service volontaire des jeunes».
+L’article 171, point 15 du Code des assurances sociales est modifié comme suit:
+
+«15) les périodes pendant lesquelles l’intéressé a exercé un service volontaire conformément à la loi du 31 octobre 2007 sur le service volontaire des jeunes».
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -272,9 +278,9 @@ Dispositions modificatives de la loi concernant les allocations familiales
 
 La loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la Caisse nationale des prestations familiales est modifiée comme suit:
 
-1. L’article 1 er , alinéa 6, est complété par un nouveau tiret libellé comme suit: exerce une activité en qualité de volontaire au sens de la loi du 31 octobre 2007 sur le service volontaire des jeunes».
+- L’article 1 er , alinéa 6, est complété par un nouveau tiret libellé comme suit: exerce une activité en qualité de volontaire au sens de la loi du 31 octobre 2007 sur le service volontaire des jeunes».
 
-2. La première phrase de l’article 3, alinéa 3 est remplacée par la phrase suivante: «L’allocation est maintenue jusqu’à l’âge de vingt-sept ans accomplis, si le bénéficiaire s’adonne à titre principal à des études secondaires, techniques, professionnelles supérieures ou universitaires au Luxembourg ou à l’étranger ainsi qu’aux activités de service volontaire au sens de la loi du 31 octobre 2007 sur le service volontaire des jeunes.»
+- La première phrase de l’article 3, alinéa 3 est remplacée par la phrase suivante: «L’allocation est maintenue jusqu’à l’âge de vingt-sept ans accomplis, si le bénéficiaire s’adonne à titre principal à des études secondaires, techniques, professionnelles supérieures ou universitaires au Luxembourg ou à l’étranger ainsi qu’aux activités de service volontaire au sens de la loi du 31 octobre 2007 sur le service volontaire des jeunes.»
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -295,4 +301,8 @@ La loi du 28 janvier 1999 concernant le service volontaire est abrogée.
 
 Intitulé abrégé
 
-La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant:Loi du 31 octobre 2007 sur le service volontaire des jeunes.
+La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant:
+
+Loi du 31 octobre 2007 sur le service volontaire des jeunes.
+
+Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne.

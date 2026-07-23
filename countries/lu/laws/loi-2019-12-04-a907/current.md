@@ -43,13 +43,13 @@ Elle est dirigée par un directeur qui assume les fonctions de chef d’adminis
 
 L’ONA a pour mission :
 
-1. d’organiser l’accueil des demandeurs de protection internationale tels que définis par la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire ;
+- d’organiser l’accueil des demandeurs de protection internationale tels que définis par la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire ;
 
-2. de gérer des structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale, de réfugiés et de personnes pouvant bénéficier de la protection subsidiaire tels que définis par la loi précitée du 18 décembre 2015 ;
+- de gérer des structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale, de réfugiés et de personnes pouvant bénéficier de la protection subsidiaire tels que définis par la loi précitée du 18 décembre 2015 ;
 
-3. de collaborer avec d’autres organismes à la création et la gestion de structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale, de réfugiés et de personnes pouvant bénéficier de la protection subsidiaire ;
+- de collaborer avec d’autres organismes à la création et la gestion de structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale, de réfugiés et de personnes pouvant bénéficier de la protection subsidiaire ;
 
-4. de promouvoir avec les instances compétentes la construction et l’aménagement de structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale, de réfugiés et de personnes pouvant bénéficier de la protection subsidiaire.
+- de promouvoir avec les instances compétentes la construction et l’aménagement de structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale, de réfugiés et de personnes pouvant bénéficier de la protection subsidiaire.
 
 (2)
 
@@ -85,11 +85,11 @@ Si le bénéficiaire est une personne morale de droit privé, celle-ci doit êtr
 
 Lorsque le soutien financier prend la forme d’un subside, les conditions suivantes doivent être remplies :
 
-1. le montant maximal par subside ne peut pas dépasser 100.000 € et 75 pour cent du coût total du projet ;
+- le montant maximal par subside ne peut pas dépasser 100.000 € et 75 pour cent du coût total du projet ;
 
-2. la demande doit être adressée par écrit au ministre avant la réalisation du projet et elle doit comprendre une estimation du coût total ;
+- la demande doit être adressée par écrit au ministre avant la réalisation du projet et elle doit comprendre une estimation du coût total ;
 
-3. le bénéficiaire du subside doit assurer le suivi et l’évaluation du projet.
+- le bénéficiaire du subside doit assurer le suivi et l’évaluation du projet.
 
 En outre, lorsque le bénéficiaire est un des organismes visés au paragraphe 1er, l’objet social du bénéficiaire doit présenter un lien avec les missions de l’ONA définies à l’article 2, paragraphe 1er.
 
@@ -97,37 +97,37 @@ En outre, lorsque le bénéficiaire est un des organismes visés au paragraphe 1
 
 Lorsque le soutien financier prend la forme d’une participation financière, le bénéficiaire doit signer avec l’État une convention qui détermine :
 
-1. les prestations à fournir par le bénéficiaire ;
+- les prestations à fournir par le bénéficiaire ;
 
-2. le type de la participation financière conformément aux modalités précisées au paragraphe 5 ;
+- le type de la participation financière conformément aux modalités précisées au paragraphe 5 ;
 
-3. les modalités de coopération entre les parties contractantes sans pour autant affecter la gestion qui est de la responsabilité du bénéficiaire.
+- les modalités de coopération entre les parties contractantes sans pour autant affecter la gestion qui est de la responsabilité du bénéficiaire.
 
 (4)
 
 Dans le cadre du paragraphe 3, les dépenses suivantes sont considérées :
 
-1. les frais courants d’entretien et de gestion ;
+- les frais courants d’entretien et de gestion ;
 
-2. les dépenses de personnel ;
+- les dépenses de personnel ;
 
-3. les frais résultant de collaborateurs occasionnels ou bénévoles ;
+- les frais résultant de collaborateurs occasionnels ou bénévoles ;
 
-4. les frais en relation avec le louage, l’entretien et la réparation des bâtiments et l’équipement mobilier ;
+- les frais en relation avec le louage, l’entretien et la réparation des bâtiments et l’équipement mobilier ;
 
-5. les frais résultant des prestations spécifiques fournies par le bénéficiaire.
+- les frais résultant des prestations spécifiques fournies par le bénéficiaire.
 
 (5)
 
 La convention fixe les missions à remplir, les critères de qualité à respecter, les mécanismes de contrôle ainsi que le type de la participation financière qui peut consister selon les cas en une :
 
-1. participation financière par couverture du déficit : la participation financière de l’État versée en vertu du paragraphe 4 correspond au pourcentage du solde des frais de fonctionnement tel que fixé par la convention et accepté par l’État et des recettes faites par le bénéficiaire ;
+- participation financière par couverture du déficit : la participation financière de l’État versée en vertu du paragraphe 4 correspond au pourcentage du solde des frais de fonctionnement tel que fixé par la convention et accepté par l’État et des recettes faites par le bénéficiaire ;
 
-2. participation financière par unité de prestation : la participation de l’État versée en vertu du paragraphe 4 est établie en fonction du volume des prestations fournies et du prix unitaire par prestation fixé par la convention ;
+- participation financière par unité de prestation : la participation de l’État versée en vertu du paragraphe 4 est établie en fonction du volume des prestations fournies et du prix unitaire par prestation fixé par la convention ;
 
-3. participation financière forfaitaire ou par projet : la participation financière de l’État versée en vertu du paragraphe 4 est constituée d’un montant invariable fixé sur base d’une négociation entre parties ;
+- participation financière forfaitaire ou par projet : la participation financière de l’État versée en vertu du paragraphe 4 est constituée d’un montant invariable fixé sur base d’une négociation entre parties ;
 
-4. participation financière mixte : la participation financière de l’État versée en vertu du paragraphe 4 correspond à une combinaison des différents types de participation financière retenus pour les différentes prestations prévues à la convention.
+- participation financière mixte : la participation financière de l’État versée en vertu du paragraphe 4 correspond à une combinaison des différents types de participation financière retenus pour les différentes prestations prévues à la convention.
 
 (6)
 
@@ -148,27 +148,27 @@ L’ONA traite les données à caractère personnel dans le cadre de l’exécut
 
 Les données à caractère personnel sont traitées par l’ONA aux fins suivantes :
 
-1. organiser l’accueil des demandeurs et des bénéficiaires de la protection temporaire, procéder à leur affectation dans les structures d’hébergement et gérer leur hébergement au sein de ces structures ;
+- organiser l’accueil des demandeurs et des bénéficiaires de la protection temporaire, procéder à leur affectation dans les structures d’hébergement et gérer leur hébergement au sein de ces structures ;
 
-2. assurer l’octroi des conditions d’accueil ;
+- assurer l’octroi des conditions d’accueil ;
 
-3. identifier et évaluer, en collaboration avec la Direction de la santé, les besoins particuliers des demandeurs en matière de santé physique et de santé mentale ;
+- identifier et évaluer, en collaboration avec la Direction de la santé, les besoins particuliers des demandeurs en matière de santé physique et de santé mentale ;
 
-4. organiser le suivi social et l’encadrement éducatif, ainsi que l’accompagnement en matière de santé physique et de santé mentale en fonction de la situation de la personne concernée ;
+- organiser le suivi social et l’encadrement éducatif, ainsi que l’accompagnement en matière de santé physique et de santé mentale en fonction de la situation de la personne concernée ;
 
-5. garantir la sécurité des personnes et des biens au sein des structures d’hébergement et dans leur environnement immédiat ;
+- garantir la sécurité des personnes et des biens au sein des structures d’hébergement et dans leur environnement immédiat ;
 
-6. assurer la coordination et la surveillance des dispositifs d’accueil à l’aide d’un système d’information et d’outils de suivi dans le cadre des missions prévues à l’article 27 de la loi du 11 juin 2026 ;
+- assurer la coordination et la surveillance des dispositifs d’accueil à l’aide d’un système d’information et d’outils de suivi dans le cadre des missions prévues à l’article 27 de la loi du 11 juin 2026 ;
 
-7. planifier, activer et gérer les dispositifs d’urgence en cas de pression migratoire ou de crise en matière d’accueil dans le cadre de la planification d’urgence prévue à l’article 28 de la loi du 11 juin 2026 ;
+- planifier, activer et gérer les dispositifs d’urgence en cas de pression migratoire ou de crise en matière d’accueil dans le cadre de la planification d’urgence prévue à l’article 28 de la loi du 11 juin 2026 ;
 
-8. identifier et authentifier les occupants, les intervenants réguliers et les visiteurs des structures d’hébergement dans le cadre de l’application de l’article 11, paragraphes 2 et 4, de la loi du 11 juin 2026 ;
+- identifier et authentifier les occupants, les intervenants réguliers et les visiteurs des structures d’hébergement dans le cadre de l’application de l’article 11, paragraphes 2 et 4, de la loi du 11 juin 2026 ;
 
-9. assurer la défense en justice de l’État dans le cadre des missions confiées à l’ONA ;
+- assurer la défense en justice de l’État dans le cadre des missions confiées à l’ONA ;
 
-10. permettre aux autorités administratives ou aux organismes compétents visés aux articles 7 et 8 de la loi du 11 juin 2026 d’identifier les compétences, les qualifications, les besoins en formation ou en accompagnement des personnes concernées afin d’assurer leur orientation et leur suivi dans le cadre de parcours d’intégration, de formation ou de mise à l’emploi ;
+- permettre aux autorités administratives ou aux organismes compétents visés aux articles 7 et 8 de la loi du 11 juin 2026 d’identifier les compétences, les qualifications, les besoins en formation ou en accompagnement des personnes concernées afin d’assurer leur orientation et leur suivi dans le cadre de parcours d’intégration, de formation ou de mise à l’emploi ;
 
-11. établir des statistiques.
+- établir des statistiques.
 
 (3)
 
@@ -187,21 +187,21 @@ Les données à caractère personnel figurant sur les pièces justificatives rem
 
 Les données à caractère personnel traitées par l’ONA dans le cadre des finalités visées à l’article 4bis, paragraphe 2, se répartissent selon les catégories suivantes :
 
-1. les données d’identification : nom, prénoms, date et lieu de naissance, nationalité, sexe, numéro d’identification national, état civil, composition familiale, lien de parenté, langue parlée, statut administratif, date d’entrée au Grand-Duché de Luxembourg, photographie, date de décès ;
+- les données d’identification : nom, prénoms, date et lieu de naissance, nationalité, sexe, numéro d’identification national, état civil, composition familiale, lien de parenté, langue parlée, statut administratif, date d’entrée au Grand-Duché de Luxembourg, photographie, date de décès ;
 
-2. les données de contact : numéro de téléphone, adresse électronique, adresse de résidence ;
+- les données de contact : numéro de téléphone, adresse électronique, adresse de résidence ;
 
-3. les données relatives à la situation sociale et financière : ressources disponibles, conditions d’hébergement, affiliation à la Caisse nationale de santé, prestations ou aides perçues, pièces justificatives de dépenses ou de frais avancés ;
+- les données relatives à la situation sociale et financière : ressources disponibles, conditions d’hébergement, affiliation à la Caisse nationale de santé, prestations ou aides perçues, pièces justificatives de dépenses ou de frais avancés ;
 
-4. les données relatives à la santé et à la prise en charge financière : données issues des examens médicaux prévus à l’article 5 de la loi du 11 juin 2026 , données relatives à la santé physique et à la santé mentale visées aux articles 21 et 22 de la loi du 11 juin 2026 , ainsi que les données relatives aux frais qui sont pris en charge par l’ONA dans le cadre de l’octroi des conditions matérielles d’accueil ;
+- les données relatives à la santé et à la prise en charge financière : données issues des examens médicaux prévus à l’article 5 de la loi du 11 juin 2026 , données relatives à la santé physique et à la santé mentale visées aux articles 21 et 22 de la loi du 11 juin 2026 , ainsi que les données relatives aux frais qui sont pris en charge par l’ONA dans le cadre de l’octroi des conditions matérielles d’accueil ;
 
-5. les données relatives à l’hébergement et au suivi de la personne au sein de la structure d’hébergement : décision d’affectation, structure d’affectation, dates d’entrée et de sortie, modalités d’accompagnement, participation aux activités ou aux formations, garde d’enfants ;
+- les données relatives à l’hébergement et au suivi de la personne au sein de la structure d’hébergement : décision d’affectation, structure d’affectation, dates d’entrée et de sortie, modalités d’accompagnement, participation aux activités ou aux formations, garde d’enfants ;
 
-6. les données relatives à l’organisation des examens médicaux : identité du demandeur, numéro de matricule, date de l’examen médical ;
+- les données relatives à l’organisation des examens médicaux : identité du demandeur, numéro de matricule, date de l’examen médical ;
 
-7. les données relatives aux prestataires : dénomination sociale, nom, prénoms, adresse professionnelle, adresse électronique, numéro de téléphone, numéro d’immatriculation ;
+- les données relatives aux prestataires : dénomination sociale, nom, prénoms, adresse professionnelle, adresse électronique, numéro de téléphone, numéro d’immatriculation ;
 
-8. les données relatives à l’intégration, à la formation et à l’emploi : parcours d’intégration, diplôme, bilan de compétences, accès au marché de l’emploi, situation professionnelle.
+- les données relatives à l’intégration, à la formation et à l’emploi : parcours d’intégration, diplôme, bilan de compétences, accès au marché de l’emploi, situation professionnelle.
 
 <a id="art-4quater"></a>
 ## Art. 4quater.
@@ -210,21 +210,21 @@ Les données à caractère personnel traitées par l’ONA dans le cadre des fin
 
 Afin d’exécuter les missions qui lui sont confiées par la présente loi et par la loi du 11 juin 2026, l’ONA dispose d’un accès direct, par un système informatique sécurisé :
 
-1. aux données suivantes du Registre national des personnes physiques créé par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques : matricule, nom, prénoms, date de naissance, lieu de naissance, nationalité, sexe, adresse, statut familial, lien de parenté, nom de naissance, date de décès ;
+- aux données suivantes du Registre national des personnes physiques créé par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques : matricule, nom, prénoms, date de naissance, lieu de naissance, nationalité, sexe, adresse, statut familial, lien de parenté, nom de naissance, date de décès ;
 
-2. aux données suivantes du fichier des étrangers et du fichier des demandeurs et des bénéficiaires de la protection temporaire exploités pour le compte du ministre ayant l’Immigration dans ses attributions :
+- aux données suivantes du fichier des étrangers et du fichier des demandeurs et des bénéficiaires de la protection temporaire exploités pour le compte du ministre ayant l’Immigration dans ses attributions :
 
-1. le statut administratif ;
+  - le statut administratif ;
 
-2. les données relatives à la procédure de traitement de la demande de la personne concernée ;
+  - les données relatives à la procédure de traitement de la demande de la personne concernée ;
 
-3. les données relatives aux décisions ministérielles ;
+  - les données relatives aux décisions ministérielles ;
 
-4. les données relatives à la langue parlée ;
+  - les données relatives à la langue parlée ;
 
-5. les données relatives aux procédures relatives à la détermination de l’État membre de l’Union européenne responsable de l’examen d’une demande de protection internationale ;
+  - les données relatives aux procédures relatives à la détermination de l’État membre de l’Union européenne responsable de l’examen d’une demande de protection internationale ;
 
-3. aux données suivantes du fichier relatif aux affiliations des salariés et indépendants et aux salaires et rémunérations géré par le Centre commun de la sécurité sociale afin de vérifier l’existence des affiliations et des salaires déclarés dans le cadre de l’octroi des aides matérielles : date de début de validité de l’affiliation, date de fin de validité de l’affiliation, situation de la filiation.
+- aux données suivantes du fichier relatif aux affiliations des salariés et indépendants et aux salaires et rémunérations géré par le Centre commun de la sécurité sociale afin de vérifier l’existence des affiliations et des salaires déclarés dans le cadre de l’octroi des aides matérielles : date de début de validité de l’affiliation, date de fin de validité de l’affiliation, situation de la filiation.
 
 (2)
 
@@ -243,35 +243,35 @@ Lorsque l’échange d’informations s’inscrit dans le cadre des missions de 
 
 Les autorités administratives et organismes visés au paragraphe 1er sont les suivants :
 
-1. le ministre ayant l’Immigration dans ses attributions pour les procédures d’octroi et de retrait de la protection internationale ;
+- le ministre ayant l’Immigration dans ses attributions pour les procédures d’octroi et de retrait de la protection internationale ;
 
-2. la Direction de la santé pour les finalités prévues aux articles 5, 20, 21 et 22 de la loi du 11 juin 2026 . Dans ce cadre, la Direction de la santé a également accès aux données suivantes du fichier des étrangers et du fichier des demandeurs et des bénéficiaires de la protection temporaire exploité pour le compte du ministre ayant l’Immigration dans ses attributions : nom, prénoms, état civil, sexe, numéro d’identification national, date de naissance, date d’introduction de la demande de la personne concernée, identifiant, nationalité, statut administratif, composition familiale, lien de parenté, langue parlée ;
+- la Direction de la santé pour les finalités prévues aux articles 5, 20, 21 et 22 de la loi du 11 juin 2026 . Dans ce cadre, la Direction de la santé a également accès aux données suivantes du fichier des étrangers et du fichier des demandeurs et des bénéficiaires de la protection temporaire exploité pour le compte du ministre ayant l’Immigration dans ses attributions : nom, prénoms, état civil, sexe, numéro d’identification national, date de naissance, date d’introduction de la demande de la personne concernée, identifiant, nationalité, statut administratif, composition familiale, lien de parenté, langue parlée ;
 
-3. le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions pour les finalités prévues aux articles 6 et 8 de la loi du 11 juin 2026 ;
+- le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions pour les finalités prévues aux articles 6 et 8 de la loi du 11 juin 2026 ;
 
-4. le ministre ayant l’Enseignement supérieur dans ses attributions pour les finalités prévues à l’article 7 de la loi du 11 juin 2026 ;
+- le ministre ayant l’Enseignement supérieur dans ses attributions pour les finalités prévues à l’article 7 de la loi du 11 juin 2026 ;
 
-5. le ministre ayant le Vivre ensemble dans ses attributions pour les finalités prévues à l’article 8 de la loi du 11 juin 2026 ;
+- le ministre ayant le Vivre ensemble dans ses attributions pour les finalités prévues à l’article 8 de la loi du 11 juin 2026 ;
 
-6. l’ONE pour les finalités prévues à l’article 25 de la loi du 11 juin 2026 ;
+- l’ONE pour les finalités prévues à l’article 25 de la loi du 11 juin 2026 ;
 
-7. la Direction du contrôle financier dans le cadre des contrôles lui étant confiés par la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État, tels que visés à l’article 4bis , paragraphe 5 ;
+- la Direction du contrôle financier dans le cadre des contrôles lui étant confiés par la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État, tels que visés à l’article 4bis , paragraphe 5 ;
 
-8. l’Agence pour le développement de l’emploi pour les finalités prévues aux articles 7 et 8 de la loi du 11 juin 2026 ;
+- l’Agence pour le développement de l’emploi pour les finalités prévues aux articles 7 et 8 de la loi du 11 juin 2026 ;
 
-9. le Service de la formation pour adultes pour les finalités prévues à l’article 8 de la loi du 11 juin 2026 ;
+- le Service de la formation pour adultes pour les finalités prévues à l’article 8 de la loi du 11 juin 2026 ;
 
-10. le Service de la formation professionnelle pour les finalités prévues à l’article 8 de la loi du 11 juin 2026 ;
+- le Service de la formation professionnelle pour les finalités prévues à l’article 8 de la loi du 11 juin 2026 ;
 
-11. le Centre commun de la sécurité sociale pour les finalités prévues à l’article 9 de la loi du 11 juin 2026 ;
+- le Centre commun de la sécurité sociale pour les finalités prévues à l’article 9 de la loi du 11 juin 2026 ;
 
-12. l’Office national d’inclusion sociale, dans le cadre de l’application de l’article 2, paragraphe 3, afin de permettre le traitement des dossiers des personnes bénéficiant de la protection internationale conformément aux dispositions du chapitre 3 de la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale ;
+- l’Office national d’inclusion sociale, dans le cadre de l’application de l’article 2, paragraphe 3, afin de permettre le traitement des dossiers des personnes bénéficiant de la protection internationale conformément aux dispositions du chapitre 3 de la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale ;
 
-13. le ministre ayant les Affaires consulaires dans ses attributions, dans le cadre des demandes de protection internationale introduites après l’obtention d’un visa de court séjour délivré conformément aux dispositions de la loi précitée du 29 août 2008 ;
+- le ministre ayant les Affaires consulaires dans ses attributions, dans le cadre des demandes de protection internationale introduites après l’obtention d’un visa de court séjour délivré conformément aux dispositions de la loi précitée du 29 août 2008 ;
 
-14. les communes et les organismes visés à l’article 4, paragraphe 1 er , dans le cadre des conventions conclues avec l’ONA, prévues à l’article 4, paragraphe 3 ;
+- les communes et les organismes visés à l’article 4, paragraphe 1 er , dans le cadre des conventions conclues avec l’ONA, prévues à l’article 4, paragraphe 3 ;
 
-15. les Offices sociaux établis par la loi modifiée du 18 décembre 2009 organisant l’aide sociale, lorsque la personne concernée souhaite bénéficier d’une aide sociale.
+- les Offices sociaux établis par la loi modifiée du 18 décembre 2009 organisant l’aide sociale, lorsque la personne concernée souhaite bénéficier d’une aide sociale.
 
 (3)
 
@@ -288,13 +288,13 @@ Le traitement ou la communication à des tiers, à l’aide de procédés inform
 
 Les systèmes informatiques prévus à l’article 4quater, par lesquels les accès directs sont opérés, doivent être aménagés de manière à répondre aux exigences suivantes :
 
-1. l’accès aux données est sécurisé moyennant une authentification forte ;
+- l’accès aux données est sécurisé moyennant une authentification forte ;
 
-2. toute opération de traitement, de consultation ou d’extraction de données à caractère personnel reprises dans les fichiers informatiques ne peut être réalisée que pour un motif déterminé, en lien direct avec le traitement d’un dossier individuel et justifié par les circonstances ayant motivé la consultation ;
+- toute opération de traitement, de consultation ou d’extraction de données à caractère personnel reprises dans les fichiers informatiques ne peut être réalisée que pour un motif déterminé, en lien direct avec le traitement d’un dossier individuel et justifié par les circonstances ayant motivé la consultation ;
 
-3. chaque opération est journalisée de manière à permettre l’identification de la personne ayant procédé au traitement, la date et l’heure de l’opération, ainsi que son rattachement au dossier concerné ;
+- chaque opération est journalisée de manière à permettre l’identification de la personne ayant procédé au traitement, la date et l’heure de l’opération, ainsi que son rattachement au dossier concerné ;
 
-4. les données de journalisation sont conservées pendant une durée de cinq ans à compter de leur enregistrement, à l’issue de laquelle elles sont effacées.
+- les données de journalisation sont conservées pendant une durée de cinq ans à compter de leur enregistrement, à l’issue de laquelle elles sont effacées.
 
 <a id="art-4septies"></a>
 ## Art. 4septies.
@@ -307,9 +307,9 @@ Les données à caractère personnel traitées en vertu de la présente loi et d
 
 Les données peuvent être conservées au-delà de la durée prévue au paragraphe 1er lorsque cette conservation est requise :
 
-1. pour satisfaire à une obligation légale ou réglementaire ;
+- pour satisfaire à une obligation légale ou réglementaire ;
 
-2. à des fins d’archivage dans l’intérêt public, de recherche scientifique ou historique, ou à des fins statistiques, pour autant que les données aient été anonymisées de manière irréversible ou pseudonymisées ou que des garanties appropriées soient mises en œuvre.
+- à des fins d’archivage dans l’intérêt public, de recherche scientifique ou historique, ou à des fins statistiques, pour autant que les données aient été anonymisées de manière irréversible ou pseudonymisées ou que des garanties appropriées soient mises en œuvre.
 
 (3)
 
@@ -344,46 +344,48 @@ Dans tous les textes de loi, la référence à l’Office luxembourgeois de l’
 <a id="art-7"></a>
 ## Art. 7.
 
-L’article 1er, paragraphe 3, lettre e), de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil est remplacé comme suit : aux structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale, de réfugiés et de personnes pouvant bénéficier de la protection subsidiaire visés par la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire ;
+L’article 1er, paragraphe 3, lettre e), de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil est remplacé comme suit :
+
+- aux structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale, de réfugiés et de personnes pouvant bénéficier de la protection subsidiaire visés par la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire ;
 
 <a id="art-8"></a>
 ## Art. 8.
 
 La loi modifiée du 16 décembre 2008 concernant l’accueil et l’intégration des étrangers au Grand-Duché de Luxembourg est modifiée comme suit :
 
-1. L’intitulé est remplacé comme suit : « Loi du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg » ;
+- L’intitulé est remplacé comme suit : « Loi du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg » ;
 
-2. L’intitulé du chapitre 1 er est modifié comme suit : « Chapitre 1. Dispositions générales » ;
+- L’intitulé du chapitre 1 er est modifié comme suit : « Chapitre 1. Dispositions générales » ;
 
-3. L’article 1 er , alinéa 2 est remplacé comme suit : Ne sont pas visés par l’alinéa 1er les demandeurs de protection internationale tels que définis par la loi du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection.
+- L’article 1 er , alinéa 2 est remplacé comme suit : Ne sont pas visés par l’alinéa 1er les demandeurs de protection internationale tels que définis par la loi du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection.
 
-4. L’article 3 est remplacé par le texte suivant : « Art. 3. Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre », a pour mission de faciliter le processus d’intégration des étrangers par la mise en œuvre et la coordination de la politique d’intégration, dont la lutte contre les discriminations constitue un élément essentiel, conjointement avec les communes et des acteurs de la société civile. Dans l’accomplissement de cette mission, le ministre collabore avec les instances communautaires et internationales. » ;
+- L’article 3 est remplacé par le texte suivant : « Art. 3. Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre », a pour mission de faciliter le processus d’intégration des étrangers par la mise en œuvre et la coordination de la politique d’intégration, dont la lutte contre les discriminations constitue un élément essentiel, conjointement avec les communes et des acteurs de la société civile. Dans l’accomplissement de cette mission, le ministre collabore avec les instances communautaires et internationales. » ;
 
-5. Les articles 4 et 5 sont abrogés ;
+- Les articles 4 et 5 sont abrogés ;
 
-6. À l’article 6, alinéa 1 er , les termes L’OLAI est chargé d’établir sont remplacés par les termes Le ministre établit ;
+- À l’article 6, alinéa 1 er , les termes L’OLAI est chargé d’établir sont remplacés par les termes Le ministre établit ;
 
-7. L’article 7 est remplacé par le texte suivant : « Art. 7. Tous les cinq ans, le ministre adresse un rapport national sur l’intégration des étrangers et la lutte contre les discriminations au Grand-Duché de Luxembourg à la Chambre des Députés. Dans l’exercice de ses missions, le ministre est habilité à faire appel aux administrations de l’État, aux administrations communales, aux établissements et organismes publics afin de lui prêter leur concours et de lui fournir toutes les données nécessaires à l’élaboration du rapport. » ;
+- L’article 7 est remplacé par le texte suivant : « Art. 7. Tous les cinq ans, le ministre adresse un rapport national sur l’intégration des étrangers et la lutte contre les discriminations au Grand-Duché de Luxembourg à la Chambre des Députés. Dans l’exercice de ses missions, le ministre est habilité à faire appel aux administrations de l’État, aux administrations communales, aux établissements et organismes publics afin de lui prêter leur concours et de lui fournir toutes les données nécessaires à l’élaboration du rapport. » ;
 
-8. L’article 11 est remplacé par le texte suivant : « Art. 11. Le ministre fait établir un contrat type d’accueil et d’intégration, assure sa gestion et prend les mesures nécessaires pour encourager les étrangers à conclure un tel contrat. » ;
+- L’article 11 est remplacé par le texte suivant : « Art. 11. Le ministre fait établir un contrat type d’accueil et d’intégration, assure sa gestion et prend les mesures nécessaires pour encourager les étrangers à conclure un tel contrat. » ;
 
-9. À l’article 12, le terme insertion est remplacé par le terme intégration , les termes l’OLAI procède sont remplacés par les termes le ministre fait procéder et les termes ministère de l’Éducation nationale et de la Formation professionnelle sont remplacés par les termes ministre ayant l’Éducation nationale dans ses attributions ;
+- À l’article 12, le terme insertion est remplacé par le terme intégration , les termes l’OLAI procède sont remplacés par les termes le ministre fait procéder et les termes ministère de l’Éducation nationale et de la Formation professionnelle sont remplacés par les termes ministre ayant l’Éducation nationale dans ses attributions ;
 
-10. L’article 14 est remplacé par le texte suivant : Art. 14. (1) Le Gouvernement peut accorder en fonction des moyens budgétaires disponibles un soutien financier aux communes et à des organismes pour la réalisation des missions définies à l’article 3, paragraphe 1er. Le soutien financier peut prendre la forme d’un subside ou d’une participation financière aux frais de fonctionnement. Si le bénéficiaire est une personne morale de droit privé, celle-ci doit être constituée soit en vertu d’une disposition légale particulière, soit selon les dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif, soit selon les dispositions de la loi modifiée du 10 août 1915 concernant les sociétés commerciales. (2) Lorsque le soutien financier prend la forme d’un subside, les conditions suivantes doivent être remplies : le montant maximal par subside ne peut pas dépasser 100 000 euros et 75 pour cent du coût total du projet ; la demande doit être adressée par écrit au ministre avant la réalisation du projet et elle doit comprendre une estimation du coût total ; le bénéficiaire du subside doit assurer le suivi et l’évaluation du projet. En outre, lorsque le bénéficiaire est un des organismes visés au paragraphe 1er, l’objet social du bénéficiaire doit présenter un lien avec les missions du ministre définies à l’article 3, paragraphe 1er. (3) Lorsque le soutien financier prend la forme d’une participation financière, le bénéficiaire doit signer avec l’État une convention qui détermine : les prestations à fournir par le bénéficiaire ; le type de la participation financière conformément aux modalités précisées au paragraphe 5 ; les modalités de coopération entre les parties contractantes sans pour autant affecter la gestion qui est de la responsabilité du bénéficiaire. (4) Dans le cadre du paragraphe 3 les dépenses suivantes sont considérées : les frais courants d’entretien et de gestion ; les dépenses de personnel ; les frais résultant de collaborateurs occasionnels ou bénévoles ; les frais en relation avec le louage, l’entretien et la réparation des bâtiments et l’équipement mobilier ; les frais résultant des prestations spécifiques fournies par le bénéficiaire. (5) La convention fixe le type de la participation financière qui peut consister selon les cas en une : participation financière par couverture du déficit : la participation financière de l’État versée en vertu du paragraphe 4 correspond au pourcentage du solde des frais de fonctionnement tel que fixé par la convention et accepté par l’État et des recettes faites par le bénéficiaire ; participation financière par unité de prestation : la participation de l’État versée en vertu du paragraphe 4 est établie en fonction du volume des prestations fournies et du prix unitaire par prestation fixé par la convention ; participation financière forfaitaire ou par projet : la participation financière de l’État versée en vertu du paragraphe 4 est constituée d’un montant invariable fixé sur base d’une négociation entre parties ; participation financière mixte : la participation financière de l’État versée en vertu du paragraphe 4 correspond à une combinaison des différents types de participation financière retenus pour les différentes prestations prévues à la convention. (6) Un règlement grand-ducal précise les modalités d’application des paragraphes 2, 3, 4 et 5.
+- L’article 14 est remplacé par le texte suivant : Art. 14. (1) Le Gouvernement peut accorder en fonction des moyens budgétaires disponibles un soutien financier aux communes et à des organismes pour la réalisation des missions définies à l’article 3, paragraphe 1er. Le soutien financier peut prendre la forme d’un subside ou d’une participation financière aux frais de fonctionnement. Si le bénéficiaire est une personne morale de droit privé, celle-ci doit être constituée soit en vertu d’une disposition légale particulière, soit selon les dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif, soit selon les dispositions de la loi modifiée du 10 août 1915 concernant les sociétés commerciales. (2) Lorsque le soutien financier prend la forme d’un subside, les conditions suivantes doivent être remplies : le montant maximal par subside ne peut pas dépasser 100 000 euros et 75 pour cent du coût total du projet ; la demande doit être adressée par écrit au ministre avant la réalisation du projet et elle doit comprendre une estimation du coût total ; le bénéficiaire du subside doit assurer le suivi et l’évaluation du projet. En outre, lorsque le bénéficiaire est un des organismes visés au paragraphe 1er, l’objet social du bénéficiaire doit présenter un lien avec les missions du ministre définies à l’article 3, paragraphe 1er. (3) Lorsque le soutien financier prend la forme d’une participation financière, le bénéficiaire doit signer avec l’État une convention qui détermine : les prestations à fournir par le bénéficiaire ; le type de la participation financière conformément aux modalités précisées au paragraphe 5 ; les modalités de coopération entre les parties contractantes sans pour autant affecter la gestion qui est de la responsabilité du bénéficiaire. (4) Dans le cadre du paragraphe 3 les dépenses suivantes sont considérées : les frais courants d’entretien et de gestion ; les dépenses de personnel ; les frais résultant de collaborateurs occasionnels ou bénévoles ; les frais en relation avec le louage, l’entretien et la réparation des bâtiments et l’équipement mobilier ; les frais résultant des prestations spécifiques fournies par le bénéficiaire. (5) La convention fixe le type de la participation financière qui peut consister selon les cas en une : participation financière par couverture du déficit : la participation financière de l’État versée en vertu du paragraphe 4 correspond au pourcentage du solde des frais de fonctionnement tel que fixé par la convention et accepté par l’État et des recettes faites par le bénéficiaire ; participation financière par unité de prestation : la participation de l’État versée en vertu du paragraphe 4 est établie en fonction du volume des prestations fournies et du prix unitaire par prestation fixé par la convention ; participation financière forfaitaire ou par projet : la participation financière de l’État versée en vertu du paragraphe 4 est constituée d’un montant invariable fixé sur base d’une négociation entre parties ; participation financière mixte : la participation financière de l’État versée en vertu du paragraphe 4 correspond à une combinaison des différents types de participation financière retenus pour les différentes prestations prévues à la convention. (6) Un règlement grand-ducal précise les modalités d’application des paragraphes 2, 3, 4 et 5.
 
-11. L’article 16 est abrogé ;
+- L’article 16 est abrogé ;
 
-12. À l’article 19, alinéa 2, quatrième tiret, les termes de l’OLAI sont remplacés par les termes du département de l’intégration du Ministère de la famille, de l’intégration et à la Grande Région ;
+- À l’article 19, alinéa 2, quatrième tiret, les termes de l’OLAI sont remplacés par les termes du département de l’intégration du Ministère de la famille, de l’intégration et à la Grande Région ;
 
-13. L’article 20 est modifié comme suit :
+- L’article 20 est modifié comme suit :
 
-1. À l’alinéa 3, les termes et le directeur de l’OLAI sont supprimés et le terme peuvent est remplacé par le terme peut ;
+  - À l’alinéa 3, les termes et le directeur de l’OLAI sont supprimés et le terme peuvent est remplacé par le terme peut ;
 
-2. À l’alinéa 4, les termes du directeur de l’OLAI sont supprimés ;
+  - À l’alinéa 4, les termes du directeur de l’OLAI sont supprimés ;
 
-3. À l’alinéa 5, les termes de l’OLAI sont remplacés par les termes du département de l’intégration du Ministère de la famille, de l’intégration et à la Grande Région ;
+  - À l’alinéa 5, les termes de l’OLAI sont remplacés par les termes du département de l’intégration du Ministère de la famille, de l’intégration et à la Grande Région ;
 
-14. Les articles 24, 25, 26, 27 et 31 sont abrogés.
+- Les articles 24, 25, 26, 27 et 31 sont abrogés.
 
 <a id="art-9"></a>
 ## Art. 9.

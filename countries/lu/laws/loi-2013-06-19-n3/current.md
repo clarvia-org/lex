@@ -42,11 +42,11 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Un numéro d’identification est attribué:
 
-1. à toute personne physique inscrite sur un registre communal des personnes physiques;
+- à toute personne physique inscrite sur un registre communal des personnes physiques;
 
-2. à toute personne physique enregistrée dans un fichier d’un organisme public tenu en vertu d’une disposition légale ou réglementaire d’employer ce numéro;
+- à toute personne physique enregistrée dans un fichier d’un organisme public tenu en vertu d’une disposition légale ou réglementaire d’employer ce numéro;
 
-3. à toute personne physique de nationalité luxembourgeoise résidant à l’étranger et inscrite sur le registre national des personnes physiques, désigné ci-après par les termes «registre national», auprès d’une mission diplomatique ou consulaire luxembourgeoise à l’étranger ou auprès du Centre des technologies de l’information de l’Etat, désigné ci-après par le terme «Centre».
+- à toute personne physique de nationalité luxembourgeoise résidant à l’étranger et inscrite sur le registre national des personnes physiques, désigné ci-après par les termes «registre national», auprès d’une mission diplomatique ou consulaire luxembourgeoise à l’étranger ou auprès du Centre des technologies de l’information de l’Etat, désigné ci-après par le terme «Centre».
 
 (2)
 
@@ -140,45 +140,45 @@ Le registre national contient les données des personnes physiques visées au pa
 
 Le registre national comprend les données suivantes:
 
-1. les nom et prénoms;
+- les nom et prénoms;
 
-2. le numéro d’identification;
+- le numéro d’identification;
 
-3.
+-
 
-- la résidence habituelle, mentionnant la localité, la rue, le numéro d’immeuble, figurant ou à communiquer au registre national des localités et des rues, prévu par l’article 2, lettre g) de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie, et le code postal ou la résidence habituelle, mentionnant le pays, la localité, la rue et le numéro d’immeuble à l’étranger;
+  - la résidence habituelle, mentionnant la localité, la rue, le numéro d’immeuble, figurant ou à communiquer au registre national des localités et des rues, prévu par l’article 2, lettre g) de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie, et le code postal ou la résidence habituelle, mentionnant le pays, la localité, la rue et le numéro d’immeuble à l’étranger;
 
-- le cas échéant, le numéro d’ordre établi en exécution de la loi modifiée du 19 mars 1988 sur la publicité foncière en matière de copropriété;
+  - le cas échéant, le numéro d’ordre établi en exécution de la loi modifiée du 19 mars 1988 sur la publicité foncière en matière de copropriété;
 
-- le cas échéant, toute précision supplémentaire quant à l’immeuble dans lequel se situe le logement et toute modification intervenue dans la situation de résidence;
+  - le cas échéant, toute précision supplémentaire quant à l’immeuble dans lequel se situe le logement et toute modification intervenue dans la situation de résidence;
 
-- le cas échéant, l’adresse de résidence de la personne en dehors de la commune où elle a sa résidence habituelle;
+  - le cas échéant, l’adresse de résidence de la personne en dehors de la commune où elle a sa résidence habituelle;
 
-- le cas échéant, l’adresse de référence telle que prévue par l’article 25;
+  - le cas échéant, l’adresse de référence telle que prévue par l’article 25;
 
-4. les date et lieu de naissance;
+- les date et lieu de naissance;
 
-5. la situation de famille;
+- la situation de famille;
 
-6. la ou les nationalités ou le statut d’apatride;
+- la ou les nationalités ou le statut d’apatride;
 
-7. le statut de réfugié ou de protection subsidiaire;
+- le statut de réfugié ou de protection subsidiaire;
 
-8. le sexe;
+- le sexe;
 
-9. pour les personnes mariées, séparées de corps ou liées par le partenariat en application de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats et pour les personnes veuves, le numéro d’identification pour autant que ce numéro ait été attribué, les noms, prénoms et dates de naissance des conjoints ou partenaires vivants ou prédécédés;
+- pour les personnes mariées, séparées de corps ou liées par le partenariat en application de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats et pour les personnes veuves, le numéro d’identification pour autant que ce numéro ait été attribué, les noms, prénoms et dates de naissance des conjoints ou partenaires vivants ou prédécédés;
 
-10. les numéros d’identification des parents à l’égard desquels la filiation est établie, pour autant que ces numéros aient été attribués;
+- les numéros d’identification des parents à l’égard desquels la filiation est établie, pour autant que ces numéros aient été attribués;
 
-11. les numéros d’identification des enfants à l’égard desquels la filiation est établie, pour autant que ces numéros aient été attribués;
+- les numéros d’identification des enfants à l’égard desquels la filiation est établie, pour autant que ces numéros aient été attribués;
 
-12. l’origine et les modifications des données enregistrées;
+- l’origine et les modifications des données enregistrées;
 
-13. les date et lieu de décès;
+- les date et lieu de décès;
 
-14. les titres de noblesse des membres de la famille grand-ducale ; et
+- les titres de noblesse des membres de la famille grand-ducale ; et
 
-15. l’inscription sur les listes électorales constatant la qualité d’électeur pour les élections législatives, communales ou européennes.
+- l’inscription sur les listes électorales constatant la qualité d’électeur pour les élections législatives, communales ou européennes.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -226,13 +226,13 @@ Les personnes autorisées à accéder aux données inscrites sur le registre nat
 
 Un règlement grand-ducal fixe les modalités d’application de la présente loi, en ce qui concerne:
 
-1. la structure des numéros d’identification;
+- la structure des numéros d’identification;
 
-2. le traitement des dates à indiquer si celles-ci ne sont pas déterminables, voire pas déterminées, selon le calendrier grégorien;
+- le traitement des dates à indiquer si celles-ci ne sont pas déterminables, voire pas déterminées, selon le calendrier grégorien;
 
-3. l’agencement du registre national;
+- l’agencement du registre national;
 
-4. les modalités d’accès et de transmission des données du registre national.
+- les modalités d’accès et de transmission des données du registre national.
 
 ##### Section 4 La commission du registre national
 
@@ -290,45 +290,45 @@ L’Etat délivre par l’intermédiaire des missions diplomatiques ou consulair
 
 La carte d’identité est établie sur base des données inscrites sur le registre national et sur le registre des cartes d’identité. Elle contient des données à caractère personnel visibles à l’œil nu et, à l’exception de la donnée visée à la lettre i) du présent alinéa, lisibles de manière électronique, à savoir:
 
-1. le nom et, sur demande du titulaire, le nom du conjoint vivant ou prédécédé;
+- le nom et, sur demande du titulaire, le nom du conjoint vivant ou prédécédé;
 
-2. le prénom ou les deux ou trois premiers prénoms;
+- le prénom ou les deux ou trois premiers prénoms;
 
-3. la nationalité;
+- la nationalité;
 
-4. la date de naissance;
+- la date de naissance;
 
-5. le sexe;
+- le sexe;
 
-6. le lieu de la délivrance de la carte;
+- le lieu de la délivrance de la carte;
 
-7. la date de début et de fin de validité de la carte;
+- la date de début et de fin de validité de la carte;
 
-8. la dénomination et le numéro de carte;
+- la dénomination et le numéro de carte;
 
-9. la photographie numérisée du titulaire;
+- la photographie numérisée du titulaire;
 
-10. la signature numérisée du titulaire et
+- la signature numérisée du titulaire et
 
-11. la signature numérisée du ministre ayant les Affaires intérieures dans ses attributions.
+- la signature numérisée du ministre ayant les Affaires intérieures dans ses attributions.
 
 Les cartes d’identité des membres de la famille grand-ducale contiennent également leurs titres de noblesse.
 
 La carte d’identité contient en outre les éléments uniquement accessibles de manière électronique suivants:
 
-1. les moyens d’authentification et de signature du titulaire de la carte d’identité si celui-ci en a fait la demande;
+- les moyens d’authentification et de signature du titulaire de la carte d’identité si celui-ci en a fait la demande;
 
-2. le cas échéant, les clés privées relatives aux moyens visés à la lettre a);
+- le cas échéant, les clés privées relatives aux moyens visés à la lettre a);
 
-3. le cas échéant, le prestataire de service de certification agréé qui délivre les moyens visés à la lettre a);
+- le cas échéant, le prestataire de service de certification agréé qui délivre les moyens visés à la lettre a);
 
-4. l’information nécessaire à l’authentification de la carte et à la protection des données lisibles de manière électronique figurant sur la carte et à l’utilisation des certificats qualifiés et afférents;
+- l’information nécessaire à l’authentification de la carte et à la protection des données lisibles de manière électronique figurant sur la carte et à l’utilisation des certificats qualifiés et afférents;
 
-5. l’image faciale non codifiée du titulaire;
+- l’image faciale non codifiée du titulaire;
 
-6. le numéro d’identification ;
+- le numéro d’identification ;
 
-7. les deux empreintes digitales du titulaire.
+- les deux empreintes digitales du titulaire.
 
 Le titulaire de la carte d’identité peut demander l’activation des éléments visés aux lettres a) et b) de l’alinéa qui précède. Toutefois, ces éléments ne peuvent pas être activés pour les cartes d’identité délivrées aux personnes âgées de moins de quinze ans ou aux majeurs incapables. Pour les titulaires mineurs âgés de quinze ans au moins au moment de la délivrance de la carte d’identité, l’activation des éléments visés aux lettres a) et b) de l’alinéa qui précède doit être demandée par un parent exerçant l’autorité parentale ou par leur tuteur.
 
@@ -384,15 +384,15 @@ Il est établi un registre des cartes d’identité qui a pour finalités de col
 
 Sous réserve du paragraphe 3, le registre des cartes d’identité contient pour chaque titulaire de carte d’identité les données énumérées à l’article 12, à l’exception de celles énumérées au paragraphe 2, alinéa 3, aux lettres a), b), c), d) et e). Le registre contient également les données suivantes:
 
-1. le numéro de la demande, la date de la demande, la date de l’émission, le cas échéant la date de la perte, du vol ou de la détérioration de la carte d’identité;
+- le numéro de la demande, la date de la demande, la date de l’émission, le cas échéant la date de la perte, du vol ou de la détérioration de la carte d’identité;
 
-2. la date de la délivrance de la carte d’identité;
+- la date de la délivrance de la carte d’identité;
 
-3. le numéro de séquence de fabrication de la carte;
+- le numéro de séquence de fabrication de la carte;
 
-4. l’information que la carte d’identité est valable, périmée, perdue, volée ou détériorée et, dans ce dernier cas, la raison; et
+- l’information que la carte d’identité est valable, périmée, perdue, volée ou détériorée et, dans ce dernier cas, la raison; et
 
-5. la date de la dernière mise à jour des données.
+- la date de la dernière mise à jour des données.
 
 (2)
 
@@ -515,31 +515,31 @@ L’absence temporaire du territoire de la commune ne constitue pas un changemen
 
 Sont considérés comme temporairement absents:
 
-1. les personnes admises dans les hôpitaux, les établissements hospitaliers spécialisés, les foyers de réadaptation, les établissements de convalescence, les établissements de cures thermales, les centres de diagnostic et autres établissements publics ou privés destinés à recevoir des malades, les centres intégrés pour personnes âgées, les maisons de repos et de soins, les hôpitaux ou parties d’hôpitaux assimilés à des maisons de repos et de soins, tout autre établissement médicosocial assurant un accueil de jour et de nuit, ainsi que les établissements psychiatriques;
+- les personnes admises dans les hôpitaux, les établissements hospitaliers spécialisés, les foyers de réadaptation, les établissements de convalescence, les établissements de cures thermales, les centres de diagnostic et autres établissements publics ou privés destinés à recevoir des malades, les centres intégrés pour personnes âgées, les maisons de repos et de soins, les hôpitaux ou parties d’hôpitaux assimilés à des maisons de repos et de soins, tout autre établissement médicosocial assurant un accueil de jour et de nuit, ainsi que les établissements psychiatriques;
 
-2. les personnes absentes du territoire luxembourgeois pour moins d’un an pour des raisons de santé ou de tourisme;
+- les personnes absentes du territoire luxembourgeois pour moins d’un an pour des raisons de santé ou de tourisme;
 
-3. les personnes qui effectuent de manière exceptionnelle et unique, pour des raisons professionnelles, une mission déterminée en dehors du territoire luxembourgeois;
+- les personnes qui effectuent de manière exceptionnelle et unique, pour des raisons professionnelles, une mission déterminée en dehors du territoire luxembourgeois;
 
-4. les personnes qui résident, pour des raisons d’études, en dehors du lieu de leur résidence habituelle et qui sont couverts par la sécurité sociale de leurs parents;
+- les personnes qui résident, pour des raisons d’études, en dehors du lieu de leur résidence habituelle et qui sont couverts par la sécurité sociale de leurs parents;
 
-5. les personnes détenues dans les établissements pénitentiaires;
+- les personnes détenues dans les établissements pénitentiaires;
 
-6. les membres de l’Armée luxembourgeoise, de la Police grand-ducale et de l’Administration des douanes et accises détachés à l’étranger, soit auprès d’un organisme international ou supranational, soit auprès d’une base militaire en pays étranger;
+- les membres de l’Armée luxembourgeoise, de la Police grand-ducale et de l’Administration des douanes et accises détachés à l’étranger, soit auprès d’un organisme international ou supranational, soit auprès d’une base militaire en pays étranger;
 
-7. les agents diplomatiques, les membres du personnel administratif et technique des missions diplomatiques et consulaires luxembourgeoises, les fonctionnaires consulaires et les employés consulaires de carrière, ainsi que leur conjoint ou partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats et leurs descendants, et
+- les agents diplomatiques, les membres du personnel administratif et technique des missions diplomatiques et consulaires luxembourgeoises, les fonctionnaires consulaires et les employés consulaires de carrière, ainsi que leur conjoint ou partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats et leurs descendants, et
 
-8. les personnes envoyées par le ministre compétent en mission de coopération pour la durée de leur mission de coopération.
+- les personnes envoyées par le ministre compétent en mission de coopération pour la durée de leur mission de coopération.
 
 (3)
 
 Ne sont pas considérées comme temporairement absentes et sont inscrites sur le registre communal de la commune où elles ont leur résidence habituelle ou de la commune sur le territoire de laquelle se situe l’établissement où elles résident habituellement:
 
-1. les personnes visées au paragraphe 2 lettre a) du présent article qui demandent l’inscription ou qui ne disposent plus de logement dans leur commune d’origine;
+- les personnes visées au paragraphe 2 lettre a) du présent article qui demandent l’inscription ou qui ne disposent plus de logement dans leur commune d’origine;
 
-2. les personnes visées au paragraphe 2 lettre d) du présent article qui demandent l’inscription sur le registre communal de la même commune, d’une autre commune ou à l’étranger; et
+- les personnes visées au paragraphe 2 lettre d) du présent article qui demandent l’inscription sur le registre communal de la même commune, d’une autre commune ou à l’étranger; et
 
-3. les personnes visées au paragraphe 2 lettre e) du présent article qui ne disposent plus de logements.
+- les personnes visées au paragraphe 2 lettre e) du présent article qui ne disposent plus de logements.
 
 ##### Section 4 Les inscriptions au registre communal
 
@@ -548,15 +548,15 @@ Ne sont pas considérées comme temporairement absentes et sont inscrites sur le
 
 Sont inscrits sur le registre principal, lorsqu’ils établissent leur résidence habituelle sur le territoire de la commune et sous réserve des articles 27 et 31:
 
-1. les Luxembourgeois;
+- les Luxembourgeois;
 
-2. les citoyens de l’Union européenne, les ressortissants des autres Etats parties à l’Accord sur l’Espace économique européen et ceux de la Confédération suisse, ainsi que les membres de leur famille, quelle que soit leur nationalité, qui bénéficient d’un droit au séjour en vertu des dispositions prévues par la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration; l’établissement de l’attestation d’enregistrement ou de la demande en obtention d’une carte de séjour de membre de famille donne automatiquement lieu à l’inscription sur le registre principal;
+- les citoyens de l’Union européenne, les ressortissants des autres Etats parties à l’Accord sur l’Espace économique européen et ceux de la Confédération suisse, ainsi que les membres de leur famille, quelle que soit leur nationalité, qui bénéficient d’un droit au séjour en vertu des dispositions prévues par la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration; l’établissement de l’attestation d’enregistrement ou de la demande en obtention d’une carte de séjour de membre de famille donne automatiquement lieu à l’inscription sur le registre principal;
 
-3. les ressortissants de pays tiers disposant d’un titre de séjour valable en vertu de la loi modifiée du 29 août 2008 précitée ;
+- les ressortissants de pays tiers disposant d’un titre de séjour valable en vertu de la loi modifiée du 29 août 2008 précitée ;
 
-4. le personnel de l’Union européenne ou d’une autre institution internationale qui ne jouit pas du statut diplomatique, ainsi que les membres de leur famille auxquels une carte de légitimation est délivrée par le ministre ayant les Affaires étrangères dans ses attributions; et
+- le personnel de l’Union européenne ou d’une autre institution internationale qui ne jouit pas du statut diplomatique, ainsi que les membres de leur famille auxquels une carte de légitimation est délivrée par le ministre ayant les Affaires étrangères dans ses attributions; et
 
-5. le personnel administratif et technique des missions diplomatiques et consulaires résidentes, ainsi que les membres de leur famille auxquels une carte de légitimation est délivrée par le ministre ayant les Affaires étrangères dans ses attributions.
+- le personnel administratif et technique des missions diplomatiques et consulaires résidentes, ainsi que les membres de leur famille auxquels une carte de légitimation est délivrée par le ministre ayant les Affaires étrangères dans ses attributions.
 
 <a id="art-25"></a>
 ## Art. 25.
@@ -592,23 +592,23 @@ Les personnes inscrites à une adresse de référence doivent se présenter tous
 
 Sont inscrits sur le registre d’attente:
 
-1. les personnes qui sollicitent une inscription sur le registre communal, mais dont l’endroit où elles entendent établir leur résidence habituelle ne saurait servir à cette fin parce qu’une disposition légale ou réglementaire y interdit la résidence habituelle pour des motifs de sécurité, de salubrité, d’urbanisme ou d’aménagement du territoire;
+- les personnes qui sollicitent une inscription sur le registre communal, mais dont l’endroit où elles entendent établir leur résidence habituelle ne saurait servir à cette fin parce qu’une disposition légale ou réglementaire y interdit la résidence habituelle pour des motifs de sécurité, de salubrité, d’urbanisme ou d’aménagement du territoire;
 
-2. les personnes dont la réalité ou la continuité de la résidence habituelle déclarée est soumise à une vérification conformément à l’article 22, paragraphe 2;
+- les personnes dont la réalité ou la continuité de la résidence habituelle déclarée est soumise à une vérification conformément à l’article 22, paragraphe 2;
 
-3. les personnes inscrites au registre national par un responsable d’un fichier visé à l’article 1 er , paragraphe 1 er , lettre b) à une adresse établie dans une commune luxembourgeoise et qui n’ont pas encore effectué leur déclaration d’arrivée dans la commune de la résidence indiquée au registre national;
+- les personnes inscrites au registre national par un responsable d’un fichier visé à l’article 1 er , paragraphe 1 er , lettre b) à une adresse établie dans une commune luxembourgeoise et qui n’ont pas encore effectué leur déclaration d’arrivée dans la commune de la résidence indiquée au registre national;
 
-4. les ressortissants de pays tiers qui font une déclaration d’arrivée pour un séjour jusqu’à trois mois en application de l’article 36 ou pour un séjour de plus de trois mois en application de l’article 40, paragraphe 1 er de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration;
+- les ressortissants de pays tiers qui font une déclaration d’arrivée pour un séjour jusqu’à trois mois en application de l’article 36 ou pour un séjour de plus de trois mois en application de l’article 40, paragraphe 1 er de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration;
 
-5. les ressortissants de pays tiers qui sont titulaires d’une attestation en cours de validité telle que prévue par les articles 6, paragraphe 5 ou 62 de la loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection;
+- les ressortissants de pays tiers qui sont titulaires d’une attestation en cours de validité telle que prévue par les articles 6, paragraphe 5 ou 62 de la loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection;
 
-6. les étrangers qui ont reçu une décision de retour telle que visée à l’article 3, lettre h) de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou une décision d’éloignement telle que visée à l’article 27 de cette même loi ;
+- les étrangers qui ont reçu une décision de retour telle que visée à l’article 3, lettre h) de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou une décision d’éloignement telle que visée à l’article 27 de cette même loi ;
 
-7. les ressortissants de pays tiers bénéficiant ou bien d’une attestation leur permettant de demeurer sur le territoire luxembourgeois en vertu de l’article 93 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou bien d’un sursis à l’éloignement en vertu de l’article 132 de cette loi ou bien d’une décision de report à l’éloignement en vertu de l’article 125 bis de cette loi ;
+- les ressortissants de pays tiers bénéficiant ou bien d’une attestation leur permettant de demeurer sur le territoire luxembourgeois en vertu de l’article 93 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou bien d’un sursis à l’éloignement en vertu de l’article 132 de cette loi ou bien d’une décision de report à l’éloignement en vertu de l’article 125 bis de cette loi ;
 
-8. les personnes trouvées ou abandonnées sur le territoire de la commune jusqu’à ce que leur situation soit clarifiée; et
+- les personnes trouvées ou abandonnées sur le territoire de la commune jusqu’à ce que leur situation soit clarifiée; et
 
-9. les diplomates étrangers et les fonctionnaires de l’Union européenne ou d’une autre institution internationale qui jouissent du statut diplomatique et qui souhaitent être inscrits sur le registre communal, ainsi que les membres de leur famille, tous titulaires d’une carte diplomatique, et les personnes employées par eux auxquels une carte de légitimation est délivrée par le ministre ayant les Affaires étrangères dans ses attributions.
+- les diplomates étrangers et les fonctionnaires de l’Union européenne ou d’une autre institution internationale qui jouissent du statut diplomatique et qui souhaitent être inscrits sur le registre communal, ainsi que les membres de leur famille, tous titulaires d’une carte diplomatique, et les personnes employées par eux auxquels une carte de légitimation est délivrée par le ministre ayant les Affaires étrangères dans ses attributions.
 
 (2)
 
@@ -658,19 +658,19 @@ Tout refus définitif d’inscription d’un ressortissant d’un pays tiers sur
 
 Le bourgmestre ou l’agent délégué procède à la radiation du registre communal:
 
-1. en cas de décès d’une personne y inscrite;
+- en cas de décès d’une personne y inscrite;
 
-2. en cas de transfert de la résidence habituelle à l’étranger;
+- en cas de transfert de la résidence habituelle à l’étranger;
 
-3. lorsque la personne concernée ne remplit pas les conditions de résidence de l’article 22;
+- lorsque la personne concernée ne remplit pas les conditions de résidence de l’article 22;
 
-4. après la notification d’inscription sur le registre communal d’une autre commune luxembourgeoise et à la date de celle-ci, sur base d’une information provenant du Centre dans le cadre de sa mission de gestion du registre national;
+- après la notification d’inscription sur le registre communal d’une autre commune luxembourgeoise et à la date de celle-ci, sur base d’une information provenant du Centre dans le cadre de sa mission de gestion du registre national;
 
-5. en cas d’absence du territoire de la commune dépassant six mois sur douze constatée dans le cadre des articles 22 et 25;
+- en cas d’absence du territoire de la commune dépassant six mois sur douze constatée dans le cadre des articles 22 et 25;
 
-6. en cas de non-respect de l’obligation de présentation prévue à l’article 25;
+- en cas de non-respect de l’obligation de présentation prévue à l’article 25;
 
-7. après une vérification de la résidence habituelle conformément à l’article 22, paragraphe 2 qui doit avoir lieu après l’expiration de la durée de séjour envisagée, ou au plus tard après trois mois, dans le cas d’un ressortissant de pays tiers ayant fait une déclaration d’arrivée pour un séjour jusqu’à trois mois en application de l’article 36 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.
+- après une vérification de la résidence habituelle conformément à l’article 22, paragraphe 2 qui doit avoir lieu après l’expiration de la durée de séjour envisagée, ou au plus tard après trois mois, dans le cas d’un ressortissant de pays tiers ayant fait une déclaration d’arrivée pour un séjour jusqu’à trois mois en application de l’article 36 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.
 
 Pour toute personne qui établit sa résidence habituelle à l’étranger, la radiation du registre communal a lieu sur la base de la déclaration de départ et à la date de celle-ci. En cas d’absence de déclaration de départ, la radiation a lieu sur base d’une information provenant du Centre dans le cadre de sa mission de gestion du registre national des personnes physiques ou sur base d’une vérification de la résidence habituelle conformément à l’article 22, paragraphe 2.
 
@@ -678,23 +678,23 @@ Pour toute personne qui établit sa résidence habituelle à l’étranger, la r
 
 La radiation du registre principal en faveur d’une inscription sur le registre d’attente intervient:
 
-1. en cas de conflit entre les données inscrites sur le registre principal et celles figurant au registre national;
+- en cas de conflit entre les données inscrites sur le registre principal et celles figurant au registre national;
 
-2. en cas de décision en faveur d’une inscription sur le registre d’attente prise par le bourgmestre ou l’agent délégué dans le cadre de l’article 22, paragraphe 2;
+- en cas de décision en faveur d’une inscription sur le registre d’attente prise par le bourgmestre ou l’agent délégué dans le cadre de l’article 22, paragraphe 2;
 
-3. en cas de décision de retour telle que visée à l’article 3, lettre h) de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou de décision d’éloignement telle que visée à l’article 27 de cette même loi .
+- en cas de décision de retour telle que visée à l’article 3, lettre h) de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou de décision d’éloignement telle que visée à l’article 27 de cette même loi .
 
 (3)
 
 La radiation du registre d’attente en faveur d’une inscription sur le registre principal intervient avec effet à la date de l’inscription au registre d’attente:
 
-1. en cas de décision en faveur d’une inscription sur le registre principal prise par le bourgmestre ou l’agent délégué dans le cadre de l’article 22, paragraphe 2;
+- en cas de décision en faveur d’une inscription sur le registre principal prise par le bourgmestre ou l’agent délégué dans le cadre de l’article 22, paragraphe 2;
 
-2. dans le cas prévu à l’article 27, paragraphe 2, alinéa 1 si les personnes concernées ont produit les documents, pièces ou données démontrant que les motifs ayant justifié leur inscription sur le registre d’attente n’existent plus;
+- dans le cas prévu à l’article 27, paragraphe 2, alinéa 1 si les personnes concernées ont produit les documents, pièces ou données démontrant que les motifs ayant justifié leur inscription sur le registre d’attente n’existent plus;
 
-3. en cas d’octroi d’une protection internationale aux ressortissants de pays tiers qui ont été titulaires d’une attestation telle que prévue par l’article 7, paragraphe 1 er de la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire;
+- en cas d’octroi d’une protection internationale aux ressortissants de pays tiers qui ont été titulaires d’une attestation telle que prévue par l’article 7, paragraphe 1 er de la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire;
 
-4. en cas d’octroi d’un titre de séjour délivré en vertu de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration aux ressortissants de pays tiers qui ont fait une déclaration d’arrivée pour un séjour de plus de trois mois en application de l’article 40, paragraphe 1 er de la loi modifiée du 29 août 2008 précitée.
+- en cas d’octroi d’un titre de séjour délivré en vertu de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration aux ressortissants de pays tiers qui ont fait une déclaration d’arrivée pour un séjour de plus de trois mois en application de l’article 40, paragraphe 1 er de la loi modifiée du 29 août 2008 précitée.
 
 <a id="art-32"></a>
 ## Art. 32.
@@ -710,47 +710,47 @@ Le bourgmestre ou l’agent délégué procède à la radiation d’office du re
 
 Les données suivantes sont inscrites sur le registre communal:
 
-1. le numéro d’identification;
+- le numéro d’identification;
 
-2. les nom et prénoms;
+- les nom et prénoms;
 
-3.
+-
 
-- la résidence habituelle, mentionnant la localité, la rue et le numéro d’immeuble, figurant ou à communiquer au registre national des localités et des rues, prévu par l’article 2, lettre g) de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie, et le code postal;
+  - la résidence habituelle, mentionnant la localité, la rue et le numéro d’immeuble, figurant ou à communiquer au registre national des localités et des rues, prévu par l’article 2, lettre g) de la loi modifiée du 25 juillet 2002 portant réorganisation de l’administration du cadastre et de la topographie, et le code postal;
 
-- le cas échéant, le numéro d’ordre établi en exécution de la loi modifiée du 19 mars 1988 sur la publicité foncière en matière de copropriété;
+  - le cas échéant, le numéro d’ordre établi en exécution de la loi modifiée du 19 mars 1988 sur la publicité foncière en matière de copropriété;
 
-- toute précision supplémentaire quant à l’immeuble dans lequel se situe le logement et toute modification intervenue dans la situation de résidence;
+  - toute précision supplémentaire quant à l’immeuble dans lequel se situe le logement et toute modification intervenue dans la situation de résidence;
 
-- l’adresse de résidence de la personne en dehors de la commune où elle a sa résidence habituelle;
+  - l’adresse de résidence de la personne en dehors de la commune où elle a sa résidence habituelle;
 
-- le cas échéant, l’adresse de référence prévue par l’article 25;
+  - le cas échéant, l’adresse de référence prévue par l’article 25;
 
-4. les date et lieu de naissance;
+- les date et lieu de naissance;
 
-5. la situation de famille;
+- la situation de famille;
 
-6. la ou les nationalités ou le statut d’apatride;
+- la ou les nationalités ou le statut d’apatride;
 
-7. le statut de réfugié ou de protection subsidiaire;
+- le statut de réfugié ou de protection subsidiaire;
 
-8. le sexe;
+- le sexe;
 
-9. pour les personnes mariées, séparées de corps ou liées par le partenariat en application de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, et pour les personnes veuves, le numéro d’identification pour autant qu’il ait été attribué, les noms, prénoms et dates de naissance des conjoints ou partenaires vivants ou prédécédés;
+- pour les personnes mariées, séparées de corps ou liées par le partenariat en application de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, et pour les personnes veuves, le numéro d’identification pour autant qu’il ait été attribué, les noms, prénoms et dates de naissance des conjoints ou partenaires vivants ou prédécédés;
 
-10. les numéros d’identification des parents à l’égard desquels la filiation est établie, pour autant que ces numéros aient été attribués;
+- les numéros d’identification des parents à l’égard desquels la filiation est établie, pour autant que ces numéros aient été attribués;
 
-11. les numéros d’identification des enfants à l’égard desquels la filiation est établie pour autant que ces numéros aient été attribués;
+- les numéros d’identification des enfants à l’égard desquels la filiation est établie pour autant que ces numéros aient été attribués;
 
-12. l’origine et les modifications des données enregistrées;
+- l’origine et les modifications des données enregistrées;
 
-13. les date et lieu de décès;
+- les date et lieu de décès;
 
-14. les titres de noblesse des membres de la famille grand-ducale;
+- les titres de noblesse des membres de la famille grand-ducale;
 
-15. l’inscription sur les listes électorales constatant la qualité d’électeur pour les élections législatives, communales ou européennes; et
+- l’inscription sur les listes électorales constatant la qualité d’électeur pour les élections législatives, communales ou européennes; et
 
-16. d’autres données nécessaires pour l’organisation des services de la commune.
+- d’autres données nécessaires pour l’organisation des services de la commune.
 
 (2)
 
@@ -865,7 +865,12 @@ Toute absence de déclaration prévue à l’article 21, paragraphe 1er, ainsi q
 <a id="art-44"></a>
 ## Art. 44.
 
-L’article 104 du Code civil est modifié comme suit: Art. 104. La preuve de l’intention résultera d’une déclaration expresse faite à la commune où on aura transféré son domicile.
+L’article 104 du Code civil est modifié comme suit:
+
+<a id="art-104"></a>
+## Art. 104.
+
+La preuve de l’intention résultera d’une déclaration expresse faite à la commune où on aura transféré son domicile.
 
 <a id="art-45"></a>
 ## Art. 45.
@@ -888,9 +893,9 @@ Toute référence aux «registres de la population» s’entend comme référenc
 
 L’article 76, alinéa 1er de la loi communale modifiée du 13 décembre 1988 est modifié comme suit:
 
-1. Le point 1° est supprimé.
+- Le point 1° est supprimé.
 
-2. Le point 2° est remplacé par un nouveau point 2° ayant la teneur suivante: la délivrance d’extraits du registre communal des personnes physiques et de certificats établis en tout ou en partie d’après ce registre;».
+- Le point 2° est remplacé par un nouveau point 2° ayant la teneur suivante: la délivrance d’extraits du registre communal des personnes physiques et de certificats établis en tout ou en partie d’après ce registre;».
 
 <a id="art-48"></a>
 ## Art. 48.

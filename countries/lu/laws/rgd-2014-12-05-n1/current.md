@@ -40,13 +40,13 @@ Pour les espaces aériens de classe F et G, à ou en dessous du plus élevé des
 
 la Direction de l’Aviation Civile (DAC), autorité compétente, prescrit:
 
-1. des visibilités en vol réduites, au plus, à 1.500 mètres pour des vols effectués:
+- des visibilités en vol réduites, au plus, à 1.500 mètres pour des vols effectués:
 
-1. à des vitesses de 140 kts IAS, ou moins, pour laisser la possibilité de voir tout autre aéronef ou tout obstacle à temps afin d’éviter une collision; ou
+  - à des vitesses de 140 kts IAS, ou moins, pour laisser la possibilité de voir tout autre aéronef ou tout obstacle à temps afin d’éviter une collision; ou
 
-2. dans des circonstances où la probabilité de rencontrer d’autres aéronefs serait normalement faible, par exemple dans des zones à faible densité de circulation ainsi que pour des travaux aériens à basse altitude.
+  - dans des circonstances où la probabilité de rencontrer d’autres aéronefs serait normalement faible, par exemple dans des zones à faible densité de circulation ainsi que pour des travaux aériens à basse altitude.
 
-2. les hélicoptères sont autorisés à voler avec une visibilité en vol inférieure à 1.500 mètres mais supérieure à 800 mètres s’ils volent à une vitesse qui permet de voir tout autre aéronef ou tout obstacle à temps permettant d’éviter une collision. Les visibilités en vol inférieures à 800 mètres peuvent être autorisées dans des cas particuliers tels que les vols médicaux, les opérations de recherche et de sauvetage ainsi que les vols de lutte contre les incendies.
+- les hélicoptères sont autorisés à voler avec une visibilité en vol inférieure à 1.500 mètres mais supérieure à 800 mètres s’ils volent à une vitesse qui permet de voir tout autre aéronef ou tout obstacle à temps permettant d’éviter une collision. Les visibilités en vol inférieures à 800 mètres peuvent être autorisées dans des cas particuliers tels que les vols médicaux, les opérations de recherche et de sauvetage ainsi que les vols de lutte contre les incendies.
 
 <a id="art-2"></a>
 ## Art. 2.

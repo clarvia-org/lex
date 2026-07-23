@@ -86,9 +86,9 @@ Le temps passé à l’Institut compte comme temps de service pour le calcul du 
 
 La formation professionnelle prévue à l’article 2 (1) s’applique, en ce qui concerne le volet de la formation pendant le stage ou le service provisoire:
 
-1. aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Administration générale», à l’exception des sousgroupes à attributions particulières des groupes de traitement A1 et B1, et aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Douanes» prévues à l’article 10 de la loi fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat ,
+- aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Administration générale», à l’exception des sousgroupes à attributions particulières des groupes de traitement A1 et B1, et aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Douanes» prévues à l’article 10 de la loi fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat ,
 
-2. aux fonctionnaires en service provisoire des catégories de traitement des rubriques « Administration générale » et « Enseignement », prévues à l’article 11 du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux.
+- aux fonctionnaires en service provisoire des catégories de traitement des rubriques « Administration générale » et « Enseignement », prévues à l’article 11 du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux.
 
 Ne sont pas visés par le présent article les fonctionnaires en service provisoire relevant des sous-groupes à attributions particulières des groupes de traitement A1, A2 et B1, à l’exception de ceux assumant la fonction de secrétaire, de secrétaire-rédacteur, de receveur, d’administrateur des hospices civils, d’administrateur-économe des hospices, de secrétaire-receveur-économe de la clinique municipale, d’administrateur de la clinique municipale, de secrétaire-receveur de la clinique municipale, de secrétaire-receveur-économe de l’hospice civil et de secrétaire-trésorier-économe.
 
@@ -152,17 +152,17 @@ Le cycle de formation de début de carrière prévu par les dispositions réglem
 
 La formation professionnelle prévue à l’article 2 (1) s’applique, en ce qui concerne le volet de la formation continue:
 
-1. aux fonctionnaires exerçant les fonctions énumérées aux rubriques I. Administration générale - III. Force publique - VII. Douanes figurant à l’annexe A de la loi modifiée du 23 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat;
+- aux fonctionnaires exerçant les fonctions énumérées aux rubriques I. Administration générale - III. Force publique - VII. Douanes figurant à l’annexe A de la loi modifiée du 23 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat;
 
-2. aux employés occupés dans les services de l’Etat et des établissements publics de l’Etat;
+- aux employés occupés dans les services de l’Etat et des établissements publics de l’Etat;
 
-3. aux ouvriers de l’Etat et des établissements publics de l’Etat;
+- aux ouvriers de l’Etat et des établissements publics de l’Etat;
 
-4. aux fonctionnaires exerçant les fonctions énumérées à l’Annexe A du règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes, à ceux des fonctionnaires de l’Etat;
+- aux fonctionnaires exerçant les fonctions énumérées à l’Annexe A du règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes, à ceux des fonctionnaires de l’Etat;
 
-5. aux employés occupés dans les services des communes, des syndicats de communes et des établissements publics des communes;
+- aux employés occupés dans les services des communes, des syndicats de communes et des établissements publics des communes;
 
-6. aux ouvriers des communes, des syndicats de communes et des établissements publics des communes.
+- aux ouvriers des communes, des syndicats de communes et des établissements publics des communes.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -254,23 +254,23 @@ Une commission administrative conseille le ministre sur toutes les questions con
 
 Elle est composée de quinze membres à savoir:
 
-1. deux représentants de l’Institut, dont le chargé de la direction,
+- deux représentants de l’Institut, dont le chargé de la direction,
 
-2. un représentant du ministre,
+- un représentant du ministre,
 
-3. un représentant du ministre ayant dans ses attributions l’Education nationale,
+- un représentant du ministre ayant dans ses attributions l’Education nationale,
 
-4. un représentant du ministre de l’Intérieur,
+- un représentant du ministre de l’Intérieur,
 
-5. un représentant du Syndicat des villes et communes luxembourgeoises,
+- un représentant du Syndicat des villes et communes luxembourgeoises,
 
-6. le président de la Chambre des fonctionnaires et employés publics,
+- le président de la Chambre des fonctionnaires et employés publics,
 
-7. deux délégués du personnel enseignant, dont un qui représente les chargés de cours intervenant dans la formation générale du personnel de l’Etat, et un qui représente les chargés de cours intervenant dans la formation générale du personnel communal,
+- deux délégués du personnel enseignant, dont un qui représente les chargés de cours intervenant dans la formation générale du personnel de l’Etat, et un qui représente les chargés de cours intervenant dans la formation générale du personnel communal,
 
-8. trois fonctionnaires en activité de service représentant les catégories de traitement du personnel de l’Etat pour lesquelles la formation est assurée par l’Institut,
+- trois fonctionnaires en activité de service représentant les catégories de traitement du personnel de l’Etat pour lesquelles la formation est assurée par l’Institut,
 
-9. trois fonctionnaires en activité de service représentant les catégories de traitement du personnel des communes pour lesquelles la formation est assurée par l’Institut.
+- trois fonctionnaires en activité de service représentant les catégories de traitement du personnel des communes pour lesquelles la formation est assurée par l’Institut.
 
 (2)
 
@@ -319,19 +319,44 @@ La référence à la présente loi pourra se faire sous une forme abrégée en u
 
 La loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat est modifiée et complétée comme suit:
 
-1° A l’article 1er, le paragraphe II est remplacé comme suit: «II. Sans préjudice des conditions spéciales de promotion prévues pour les différentes carrières visées par la présente loi, nul ne peut être nommé à une fonction du cadre ouvert autre que celle de début de carrière s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli le nombre de jours de formation continue requis par le présent paragraphe, ou qu’il en a été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique. Pour les carrières dont le cadre ouvert comprend deux grades de promotion, le fonctionnaire doit avoir accompli six jours de formation dans le premier grade de promotion et six jours de formation dans le deuxième grade de promotion. Pour les carrières dont le cadre ouvert comprend trois grades de promotion, le fonctionnaire doit avoir accompli quatre jours de formation dans le premier grade de promotion, quatre jours de formation dans le deuxième grade de promotion et quatre jours de formation dans le troisième grade de promotion.»
+1° A l’article 1er, le paragraphe II est remplacé comme suit:
 
-2° A l’article 1er, il est ajouté un nouveau paragraphe III ayant la teneur suivante: «III. 1) Nul ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli au moins douze jours de formation continue ou qu’il en a été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique. 2) Par dérogation aux dispositions du paragraphe qui précède, le fonctionnaire appartenant à l’une des carrières visées aux articles 10, 11 et 12 (4) de la présente loi ne peut être nommé à une fonction du cadre fermé, s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut présenter un certificat de qualification attestant qu’il a accompli un cycle de formation en management public. Le cycle de formation en management public est organisé par l’Institut national d’administration publique dans les conditions et suivant les modalités fixées par le règlement grand-ducal prévu à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.»
+«II.
+
+Sans préjudice des conditions spéciales de promotion prévues pour les différentes carrières visées par la présente loi, nul ne peut être nommé à une fonction du cadre ouvert autre que celle de début de carrière s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli le nombre de jours de formation continue requis par le présent paragraphe, ou qu’il en a été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.
+
+Pour les carrières dont le cadre ouvert comprend deux grades de promotion, le fonctionnaire doit avoir accompli six jours de formation dans le premier grade de promotion et six jours de formation dans le deuxième grade de promotion.
+
+Pour les carrières dont le cadre ouvert comprend trois grades de promotion, le fonctionnaire doit avoir accompli quatre jours de formation dans le premier grade de promotion, quatre jours de formation dans le deuxième grade de promotion et quatre jours de formation dans le troisième grade de promotion.»
+
+2° A l’article 1er, il est ajouté un nouveau paragraphe III ayant la teneur suivante:
+
+«III.
+
+1) Nul ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli au moins douze jours de formation continue ou qu’il en a été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.
+
+2) Par dérogation aux dispositions du paragraphe qui précède, le fonctionnaire appartenant à l’une des carrières visées aux articles 10, 11 et 12 (4) de la présente loi ne peut être nommé à une fonction du cadre fermé, s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut présenter un certificat de qualification attestant qu’il a accompli un cycle de formation en management public.
+
+Le cycle de formation en management public est organisé par l’Institut national d’administration publique dans les conditions et suivant les modalités fixées par le règlement grand-ducal prévu à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.»
 
 <a id="art-22"></a>
 ## Art. 22.
 
-L’article 22, VI, paragraphe 1er, alinéa 1 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifié comme suit: «1) Sur demande du fonctionnaire et sur avis du chef d’administration, le fonctionnaire peut bénéficier des allongements de grades ci-après à la condition d’avoir accompli, au cours de sa carrière, au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.»
+L’article 22, VI, paragraphe 1er, alinéa 1 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifié comme suit:
+
+«1) Sur demande du fonctionnaire et sur avis du chef d’administration, le fonctionnaire peut bénéficier des allongements de grades ci-après à la condition d’avoir accompli, au cours de sa carrière, au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.»
 
 <a id="art-23"></a>
 ## Art. 23.
 
-Le chapitre 11 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux est modifié comme suit: «Chapitre 11.- Formation continue Art. 42. La formation continue des fonctionnaires communaux est assurée par l’Institut national d’administration publique dans les conditions et suivant les modalités définies à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.»
+Le chapitre 11 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux est modifié comme suit:
+
+#### «Chapitre 11.- Formation continue
+
+<a id="art-42"></a>
+## Art. 42.
+
+La formation continue des fonctionnaires communaux est assurée par l’Institut national d’administration publique dans les conditions et suivant les modalités définies à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.»
 
 #### Chapitre VII.- Disposition abrogatoire
 

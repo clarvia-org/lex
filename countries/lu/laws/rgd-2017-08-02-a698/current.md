@@ -35,17 +35,17 @@ Chaque auxiliaire éducatif, membre de la réserve des auxiliaires éducatifs de
 
 (2)
 
-Au cours de son affectation à une direction de région, dans l’intérêt du service ou pour des raisons personnelles dûment motivées, l’auxiliaire éducatif concerné, suite à sa demande et après avoir été entendu par le ministre en ses observations, est réaffecté d’office à la direction d’une autre région dans le cadre de la prochaine procédure de réaffectation.
+Au cours de son affectation à une direction de région, dans l’intérêt du service ou pour des raisons personnelles dûment motivées , l’auxiliaire éducatif concerné, suite à sa demande et après avoir été entendu par le ministre en ses observations, est réaffecté d’office à la direction d’une autre région dans le cadre de la prochaine procédure de réaffectation.
 
 (3)
 
 L’affectation et la réaffectation des auxiliaires éducatifs à une direction de région sont faites par le ministre d’après une liste de classement des candidats établie par celui-ci, selon l’ordre de classement défini ci-dessous et subsidiairement selon l’ancienneté de service, prise en compte telle que définie ci-dessous, et en second ordre de subsidiarité, selon l’âge des agents:
 
-1. les auxiliaires éducatifs détenteurs du certificat de formation établi conformément aux dispositions de l’article 21 de la loi du 2 août 2017 portant organisation de la reprise des enseignants de religion et des chargés de cours de religion;
+- les auxiliaires éducatifs détenteurs du certificat de formation établi conformément aux dispositions de l’article 21 de la loi du 2 août 2017 portant organisation de la reprise des enseignants de religion et des chargés de cours de religion;
 
-2. les auxiliaires éducatifs non-détenteurs du certificat de formation précité, visés à l’article 16, paragraphe 3 de la loi du 2 août 2017 portant organisation de la reprise des enseignants de religion et des chargés de cours de religion;
+- les auxiliaires éducatifs non-détenteurs du certificat de formation précité, visés à l’article 16, paragraphe 3 de la loi du 2 août 2017 portant organisation de la reprise des enseignants de religion et des chargés de cours de religion;
 
-3. les auxiliaires éducatifs détenteurs du certificat de formation établi conformément aux dispositions de l’article 4, paragraphe 1 er , point 7 de la loi du 2 août 2017 portant organisation de la reprise des enseignants de religion et des chargés de cours de religion.
+- les auxiliaires éducatifs détenteurs du certificat de formation établi conformément aux dispositions de l’article 4, paragraphe 1 er , point 7 de la loi du 2 août 2017 portant organisation de la reprise des enseignants de religion et des chargés de cours de religion.
 
 (4)
 

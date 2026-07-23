@@ -37,15 +37,15 @@ Les mutuelles n’ont pas de but lucratif.
 
 Les mutuelles peuvent avoir pour seuls objets :
 
-1. le versement d’indemnités en nature ou en espèces en cas de maladie, d’accident, d’invalidité, de vieillesse ou de décès ;
+- le versement d’indemnités en nature ou en espèces en cas de maladie, d’accident, d’invalidité, de vieillesse ou de décès ;
 
-2. la prise en charge de frais pour soins de santé non couverts par l’assurance maladie obligatoire ;
+- la prise en charge de frais pour soins de santé non couverts par l’assurance maladie obligatoire ;
 
-3. le versement d’une indemnité en cas de naissance d’enfants ;
+- le versement d’une indemnité en cas de naissance d’enfants ;
 
-4. le versement d’allocations pour prendre en charge des frais de famille et d’éducation ;
+- le versement d’allocations pour prendre en charge des frais de famille et d’éducation ;
 
-5. la conclusion d’assurances de groupe auprès d’une entité dûment agréée.
+- la conclusion d’assurances de groupe auprès d’une entité dûment agréée.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -54,9 +54,9 @@ Définitions
 
 Au sens de la présente loi, l’on entend par :
 
-1. « contribution forfaitaire appropriée », une contribution nominale définie par les statuts et qui permet de faire face aux dépenses de la mutuelle ;
+- « contribution forfaitaire appropriée », une contribution nominale définie par les statuts et qui permet de faire face aux dépenses de la mutuelle ;
 
-2. « assurance de groupe », le contrat d’assurance souscrit par la mutuelle auprès d’une entreprise d’assurance dûment agréée afin de procurer une couverture au profit des membres de la mutuelle en relation directe avec l’un des objets en vue duquel la mutuelle s’est constituée.
+- « assurance de groupe », le contrat d’assurance souscrit par la mutuelle auprès d’une entreprise d’assurance dûment agréée afin de procurer une couverture au profit des membres de la mutuelle en relation directe avec l’un des objets en vue duquel la mutuelle s’est constituée.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -86,27 +86,27 @@ Les statuts
 
 Les statuts mentionnent :
 
-1. la dénomination qui comprend soit le terme de « mutualité », soit le terme de « mutuelle », soit le terme de « mutualiste » accompagnée de la précision que la mutuelle agréée fera usage de ce terme dans tous les actes, annonces, publications et autres pièces qu’elle émet ;
+- la dénomination qui comprend soit le terme de « mutualité », soit le terme de « mutuelle », soit le terme de « mutualiste » accompagnée de la précision que la mutuelle agréée fera usage de ce terme dans tous les actes, annonces, publications et autres pièces qu’elle émet ;
 
-2. le siège qui doit être fixé sur le territoire du Grand-Duché de Luxembourg ;
+- le siège qui doit être fixé sur le territoire du Grand-Duché de Luxembourg ;
 
-3. l’objet ou les objets en vue desquels elle est formée sans qu’une condition d’âge puisse être incluse pour des personnes autres que les mineurs d’âge ;
+- l’objet ou les objets en vue desquels elle est formée sans qu’une condition d’âge puisse être incluse pour des personnes autres que les mineurs d’âge ;
 
-4. le nombre minimum des membres qui ne peut être inférieur à trois ;
+- le nombre minimum des membres qui ne peut être inférieur à trois ;
 
-5. les conditions mises à l’entrée et à la sortie des membres ;
+- les conditions mises à l’entrée et à la sortie des membres ;
 
-6. le ou les montants des contributions forfaitaires appropriées à verser par les membres et les prestations à offrir aux membres par la mutuelle ;
+- le ou les montants des contributions forfaitaires appropriées à verser par les membres et les prestations à offrir aux membres par la mutuelle ;
 
-7. les délais et les formes dans lesquelles les cotisations sont à verser par les membres ;
+- les délais et les formes dans lesquelles les cotisations sont à verser par les membres ;
 
-8. les attributions et le mode de convocation de l’assemblée générale ainsi que les conditions dans lesquelles ses décisions sont portées à la connaissance des membres et des tiers ;
+- les attributions et le mode de convocation de l’assemblée générale ainsi que les conditions dans lesquelles ses décisions sont portées à la connaissance des membres et des tiers ;
 
-9. les modalités du vote des membres et du vote par procuration ;
+- les modalités du vote des membres et du vote par procuration ;
 
-10. le mode de nomination et les pouvoirs des membres du conseil d’administration, dont la qualité en laquelle ils agissent et signent les actes, ainsi que la durée de leur mandat, et
+- le mode de nomination et les pouvoirs des membres du conseil d’administration, dont la qualité en laquelle ils agissent et signent les actes, ainsi que la durée de leur mandat, et
 
-11. les règles à suivre pour modifier les statuts.
+- les règles à suivre pour modifier les statuts.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -130,15 +130,15 @@ L’assemblée générale
 
 Une délibération de l’assemblée générale est nécessaire pour les objets suivants :
 
-1. la nomination et la révocation des membres du conseil d’administration ;
+- la nomination et la révocation des membres du conseil d’administration ;
 
-2. l’approbation des comptes ;
+- l’approbation des comptes ;
 
-3. la modification des statuts ;
+- la modification des statuts ;
 
-4. la fusion de la mutuelle, et
+- la fusion de la mutuelle, et
 
-5. la dissolution de la mutuelle.
+- la dissolution de la mutuelle.
 
 L’assemblée générale est convoquée au moins une fois par an par le conseil d’administration, sans préjudice des cas prévus par les statuts. Elle est également convoquée lorsqu’un cinquième des membres en fait la demande.
 
@@ -257,11 +257,11 @@ Dispositions modificatives
 
 La loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises est modifiée comme suit :
 
-1. À l’article 1 er , le point 15° est renuméroté en point 16° et un nouveau point 15° est inséré, ayant la teneur suivante : les mutuelles ; ».
+- À l’article 1 er , le point 15° est renuméroté en point 16° et un nouveau point 15° est inséré, ayant la teneur suivante : les mutuelles ; ».
 
-2. L’article 9 est modifié comme suit : Toute association sans but lucratif, toute fondation, toute association agricole, toute association d’épargne-pension, toute mutuelle et tout établissement public est tenu de requérir son immatriculation. Celle-ci indique : la dénomination ; l’objet ; la durée pour laquelle l’association, la fondation, la mutuelle ou l’établissement public est constitué, lorsqu’elle n’est pas illimitée ; l’adresse précise du siège de l’association, de la fondation, de la mutuelle ou de établissement public ; l’identité, l’adresse privée ou professionnelle précise des personnes autorisées à gérer, administrer et signer pour l’association, ou la fondation ou la mutuelle ou des personnes membres de l’organe de gestion pour les établissements publics avec indication de la nature et de l’étendue de leurs pouvoirs ainsi que la date de nomination et la date d’expiration du mandat ;s’il s’agit de personnes physiques, les nom, prénoms, date et lieu de naissance ou s’il s’agit de personnes morales non immatriculées auprès du registre de commerce et des sociétés de Luxembourg, la dénomination ou la raison sociale, la forme juridique et le numéro d’immatriculation au registre de commerce et des sociétés, si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant ou s’il s’agit de personnes morales immatriculées auprès du registre de commerce et des sociétés de Luxembourg, le seul numéro d’immatriculation ; le cas échéant, la date de début et de clôture de l’exercice social ; pour les fondations et les associations sans but lucratif reconnues d’utilité publique, la date de l’arrêté grand-ducal ;pour les associations d’épargne-pension, la date et le numéro de l’autorisation, ainsi que le nom de l’autorité l’ayant délivrée ; pour les mutuelles, la date de l’arrêté ministériel ; pour les mutuelles résultant d’une fusion ou ayant participé à une fusion, le seul numéro d’immatriculation de toutes les mutuelles y ayant participé ainsi que la date de l’arrêté ministériel.
+- L’article 9 est modifié comme suit : Toute association sans but lucratif, toute fondation, toute association agricole, toute association d’épargne-pension, toute mutuelle et tout établissement public est tenu de requérir son immatriculation. Celle-ci indique : la dénomination ; l’objet ; la durée pour laquelle l’association, la fondation, la mutuelle ou l’établissement public est constitué, lorsqu’elle n’est pas illimitée ; l’adresse précise du siège de l’association, de la fondation, de la mutuelle ou de établissement public ; l’identité, l’adresse privée ou professionnelle précise des personnes autorisées à gérer, administrer et signer pour l’association, ou la fondation ou la mutuelle ou des personnes membres de l’organe de gestion pour les établissements publics avec indication de la nature et de l’étendue de leurs pouvoirs ainsi que la date de nomination et la date d’expiration du mandat ; s’il s’agit de personnes physiques, les nom, prénoms, date et lieu de naissance ou s’il s’agit de personnes morales non immatriculées auprès du registre de commerce et des sociétés de Luxembourg, la dénomination ou la raison sociale, la forme juridique et le numéro d’immatriculation au registre de commerce et des sociétés, si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant ou s’il s’agit de personnes morales immatriculées auprès du registre de commerce et des sociétés de Luxembourg, le seul numéro d’immatriculation ; le cas échéant, la date de début et de clôture de l’exercice social ; pour les fondations et les associations sans but lucratif reconnues d’utilité publique, la date de l’arrêté grand-ducal ; pour les associations d’épargne-pension, la date et le numéro de l’autorisation, ainsi que le nom de l’autorité l’ayant délivrée ; pour les mutuelles, la date de l’arrêté ministériel ; pour les mutuelles résultant d’une fusion ou ayant participé à une fusion, le seul numéro d’immatriculation de toutes les mutuelles y ayant participé ainsi que la date de l’arrêté ministériel.
 
-3. À l’article 12, est ajouté après le quatrième alinéa, le nouvel alinéa suivant : Le ministre ayant la Sécurité sociale dans ses attributions requiert l’inscription de l’arrêté ministériel délivré conformément à la loi du 1er août 2019 sur les mutuelles.
+- À l’article 12, est ajouté après le quatrième alinéa, le nouvel alinéa suivant : Le ministre ayant la Sécurité sociale dans ses attributions requiert l’inscription de l’arrêté ministériel délivré conformément à la loi du 1er août 2019 sur les mutuelles.
 
 <a id="art-12"></a>
 ## Art. 12.

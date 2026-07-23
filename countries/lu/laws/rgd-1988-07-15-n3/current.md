@@ -47,17 +47,17 @@ Le présent règlement ne s'applique pas:
 
 Aux fins du présent règlement, on entend par « amiante » les silicates fibreux suivants, classés comme substances cancérogènes de catégorie 1A en application de l’annexe VI, partie 3, du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006 :
 
-1. l’actinolite amiante, n° 77536-66-4 du registre du Chemical Abstracts Service, désigné ci-après « CAS » ;
+- l’actinolite amiante, n° 77536-66-4 du registre du Chemical Abstracts Service, désigné ci-après « CAS » ;
 
-2. l’amosite amiante (grunérite), n° 12172-73-5 du CAS ;
+- l’amosite amiante (grunérite), n° 12172-73-5 du CAS ;
 
-3. l’anthophyllite amiante, n° 77536-67-5 du CAS ;
+- l’anthophyllite amiante, n° 77536-67-5 du CAS ;
 
-4. la chrysotile amiante, n° 12001-29-5 du CAS ;
+- la chrysotile amiante, n° 12001-29-5 du CAS ;
 
-5. la crocidolite amiante, n° 12001-28-4 du CAS ;
+- la crocidolite amiante, n° 12001-28-4 du CAS ;
 
-6. la trémolite amiante, n° 77536-68-6 du CAS.
+- la trémolite amiante, n° 77536-68-6 du CAS.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -74,13 +74,13 @@ Pour toute activité susceptible de présenter un risque d'exposition à la pous
 
 Pour autant qu'il s'agit d'expositions sporadiques des salariés et que leur intensité est faible et lorsqu'il ressort clairement des résultats de l'évaluation des risques prévue au paragraphe 2 que la valeur limite pertinente de l’article 8 ne sera pas dépassée dans l'air de la zone de travail, l’article 4 peut ne pas être appliqué lorsque le travail fait intervenir:
 
-1. de courtes activités non continues d'entretien durant lesquelles le travail ne porte que sur des matériaux non friables;
+- de courtes activités non continues d'entretien durant lesquelles le travail ne porte que sur des matériaux non friables;
 
-2. le retrait sans détérioration de matériaux non dégradés dans lesquels les fibres d'amiante sont fermement liées dans une matrice;
+- le retrait sans détérioration de matériaux non dégradés dans lesquels les fibres d'amiante sont fermement liées dans une matrice;
 
-3. l'encapsulation et le gainage de matériaux contenant de l'amiante qui sont en bon état;
+- l'encapsulation et le gainage de matériaux contenant de l'amiante qui sont en bon état;
 
-4. la surveillance et le contrôle de l'air et le prélèvement d'échantillons destiné à déceler la présence d'amiante dans un matériau donné.
+- la surveillance et le contrôle de l'air et le prélèvement d'échantillons destiné à déceler la présence d'amiante dans un matériau donné.
 
 3bis.
 
@@ -95,25 +95,25 @@ L'évaluation prévue au paragraphe 2 fait l'objet d'une consultation des salari
 
 Sous réserve de l'article 3, paragraphe 3, les mesures suivantes doivent être prises:
 
-1. les activités visées à l'article 3, paragraphe 1 doivent faire l'objet d'une notification;
+- les activités visées à l'article 3, paragraphe 1 doivent faire l'objet d'une notification;
 
-2. la notification est faite par l’employeur à l’Inspection du travail et des mines avant le début des travaux. Cette notification inclut au moins une description succincte : Les informations visées à la lettre d) sont conservées par l’Inspection du travail et des mines conformément à la législation pendant une durée d’au moins quarante ans après la fin de l’exposition pour s’assurer que les salariés qui effectuent des travaux liés à l’amiante sont correctement formés, en tenant dûment compte des effets à long terme de l’amiante sur la santé des salariés.
+- la notification est faite par l’employeur à l’Inspection du travail et des mines avant le début des travaux. Cette notification inclut au moins une description succincte : Les informations visées à la lettre d) sont conservées par l’Inspection du travail et des mines conformément à la législation pendant une durée d’au moins quarante ans après la fin de l’exposition pour s’assurer que les salariés qui effectuent des travaux liés à l’amiante sont correctement formés, en tenant dûment compte des effets à long terme de l’amiante sur la santé des salariés.
 
-1. du lieu du chantier et, le cas échéant, des zones spécifiques où le travail doit être réalisé ;
+  - du lieu du chantier et, le cas échéant, des zones spécifiques où le travail doit être réalisé ;
 
-2. du type et de la quantité d’amiante utilisés ou manipulés ;
+  - du type et de la quantité d’amiante utilisés ou manipulés ;
 
-3. des activités et des processus concernés, y compris en ce qui concerne la protection et la décontamination des salariés, l’élimination des déchets et, le cas échéant, le renouvellement de l’air en cas de travaux sous confinement ;
+  - des activités et des processus concernés, y compris en ce qui concerne la protection et la décontamination des salariés, l’élimination des déchets et, le cas échéant, le renouvellement de l’air en cas de travaux sous confinement ;
 
-4. du nombre de salariés impliqués, de la liste des salariés susceptibles d’être affectés au site concerné, des certificats de formation individuels des salariés et de la date de la dernière évaluation de l’état de santé des salariés en application de l’article 14 ;
+  - du nombre de salariés impliqués, de la liste des salariés susceptibles d’être affectés au site concerné, des certificats de formation individuels des salariés et de la date de la dernière évaluation de l’état de santé des salariés en application de l’article 14 ;
 
-5. de la date de commencement des travaux et de leur durée ;
+  - de la date de commencement des travaux et de leur durée ;
 
-6. des mesures prises, y compris une vue d’ensemble des équipements utilisés, pour limiter l’exposition des salariés à l’amiante.
+  - des mesures prises, y compris une vue d’ensemble des équipements utilisés, pour limiter l’exposition des salariés à l’amiante.
 
-3. les salariés concernés et les délégués du personnel ont accès au document faisant l'objet de la notification relative à leur entreprise;
+- les salariés concernés et les délégués du personnel ont accès au document faisant l'objet de la notification relative à leur entreprise;
 
-4. Chaque fois qu'un changement dans les conditions de travail est susceptible d'entraîner une augmentation significative de l'exposition à la poussière provenant de l'amiante ou des matériaux contenant de l'amiante, une nouvelle notification doit être faite.
+- Chaque fois qu'un changement dans les conditions de travail est susceptible d'entraîner une augmentation significative de l'exposition à la poussière provenant de l'amiante ou des matériaux contenant de l'amiante, une nouvelle notification doit être faite.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -127,25 +127,25 @@ Sans préjudice de l'application d'autres dispositions réglementaires relatives
 
 Pour toute activité visée à l’article 3, paragraphe 1er, l’exposition des salariés à la poussière provenant de l’amiante ou de matériaux contenant de l’amiante sur le lieu de travail doit être réduite à un minimum et, en tout cas, à un niveau aussi bas que techniquement possible en-dessous de la valeur limite pertinente de l’article 8, notamment au moyen des mesures suivantes :
 
-1. le nombre des salariés exposés ou susceptibles d’être exposés à la poussière provenant de l’amiante ou de matériaux contenant de l’amiante est limité au nombre le plus bas possible ;
+- le nombre des salariés exposés ou susceptibles d’être exposés à la poussière provenant de l’amiante ou de matériaux contenant de l’amiante est limité au nombre le plus bas possible ;
 
-2. les processus de travail sont conçus de telle sorte qu’ils ne produisent pas de poussière d’amiante ou, si cela s’avère impossible, qu’il n’y ait pas de dégagement de poussière d’amiante dans l’air, grâce à la prise de mesures telles que :
+- les processus de travail sont conçus de telle sorte qu’ils ne produisent pas de poussière d’amiante ou, si cela s’avère impossible, qu’il n’y ait pas de dégagement de poussière d’amiante dans l’air, grâce à la prise de mesures telles que :
 
-1. la suppression de la poussière d’amiante ;
+  - la suppression de la poussière d’amiante ;
 
-2. l’aspiration de la poussière d’amiante à la source ;
+  - l’aspiration de la poussière d’amiante à la source ;
 
-3. la sédimentation continue des fibres d’amiante en suspension dans l’air.
+  - la sédimentation continue des fibres d’amiante en suspension dans l’air.
 
-3. les salariés sont soumis à une procédure de décontamination appropriée ;
+- les salariés sont soumis à une procédure de décontamination appropriée ;
 
-4. pour les travaux effectués sous confinement, une protection adéquate est assurée ;
+- pour les travaux effectués sous confinement, une protection adéquate est assurée ;
 
-5. il est possible de nettoyer et d’entretenir régulièrement et efficacement tous les locaux et équipements servant au traitement de l’amiante et ceux-ci sont soumis à un nettoyage et à un entretien régulier ;
+- il est possible de nettoyer et d’entretenir régulièrement et efficacement tous les locaux et équipements servant au traitement de l’amiante et ceux-ci sont soumis à un nettoyage et à un entretien régulier ;
 
-6. l’amiante ou les matériaux contenant de l’amiante qui dégagent de la poussière d’amiante sont stockés et transportés dans des emballages clos appropriés ;
+- l’amiante ou les matériaux contenant de l’amiante qui dégagent de la poussière d’amiante sont stockés et transportés dans des emballages clos appropriés ;
 
-7. les déchets, autres que les déchets provenant des activités minières, sont collectés et éliminés du lieu de travail dans les meilleurs délais possible dans des emballages clos appropriés revêtus d’étiquettes indiquant qu’ils contiennent de l’amiante et sont ensuite traités conformément aux dispositions de la loi modifiée du 21 mars 2012 relative à la gestion des déchets.
+- les déchets, autres que les déchets provenant des activités minières, sont collectés et éliminés du lieu de travail dans les meilleurs délais possible dans des emballages clos appropriés revêtus d’étiquettes indiquant qu’ils contiennent de l’amiante et sont ensuite traités conformément aux dispositions de la loi modifiée du 21 mars 2012 relative à la gestion des déchets.
 
 <a id="article-7"></a>
 ## Art. 7.
@@ -191,9 +191,9 @@ Jusqu’au 20 décembre 2029, les employeurs veillent à ce qu’aucun salarié 
 
 À compter du 21 décembre 2029, les employeurs veillent à ce qu’aucun salarié ne soit exposé à une concentration d’amiante en suspension dans l’air supérieure :
 
-1. à 0,01 fibre par cm 3 en moyenne pondérée dans le temps sur 8 heures (TWA), conformément à l’article 7, paragraphe 6, alinéa 3 ; ou
+- à 0,01 fibre par cm 3 en moyenne pondérée dans le temps sur 8 heures (TWA), conformément à l’article 7, paragraphe 6, alinéa 3 ; ou
 
-2. à 0,002 fibre par cm 3 en moyenne pondérée dans le temps sur 8 heures (TWA).
+- à 0,002 fibre par cm 3 en moyenne pondérée dans le temps sur 8 heures (TWA).
 
 3.
 
@@ -203,9 +203,9 @@ Jusqu’au 20 décembre 2029, la valeur alarme de la concentration d’amiante e
 
 À compter du 21 décembre 2029, la valeur alarme de la concentration d’amiante en suspension dans l’air lors de la surveillance d’un chantier de désamiantage est fixée :
 
-1. à 0,005 fibre par cm 3 en moyenne pondérée dans le temps sur 8 heures (TWA), conformément à l’article 7, paragraphe 6, alinéa 3 ; ou
+- à 0,005 fibre par cm 3 en moyenne pondérée dans le temps sur 8 heures (TWA), conformément à l’article 7, paragraphe 6, alinéa 3 ; ou
 
-2. à 0,001 fibre par cm 3 en moyenne pondérée dans le temps sur 8 heures (TWA).
+- à 0,001 fibre par cm 3 en moyenne pondérée dans le temps sur 8 heures (TWA).
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -240,11 +240,11 @@ S'il existe le moindre doute concernant la présence d'amiante dans un matériau
 
 Pour certaines activités telles que les travaux de démolition, de désamiantage, de réparation et de maintenance, pour lesquelles le dépassement de la valeur limite pertinente de l'article 8 est prévisible malgré le recours aux mesures techniques préventives visant à limiter la concentration d’amiante dans l’air , l'employeur définit les mesures destinées à assurer la protection des salariés durant ces activités, notamment les suivantes:
 
-1. les salariés reçoivent des équipements de protection personnelle appropriés qu’ils doivent porter, qui sont manipulés de manière appropriée et, en ce qui concerne notamment l’équipement respiratoire, ajusté individuellement, y compris au moyen d’essais d’ajustement, conformément aux dispositions du règlement grand-ducal modifié du 4 novembre 1994 concernant les prescriptions minimales de sécurité et de santé pour l’utilisation par les travailleurs au travail d’équipements de protection individuelle ;
+- les salariés reçoivent des équipements de protection personnelle appropriés qu’ils doivent porter, qui sont manipulés de manière appropriée et, en ce qui concerne notamment l’équipement respiratoire, ajusté individuellement, y compris au moyen d’essais d’ajustement, conformément aux dispositions du règlement grand-ducal modifié du 4 novembre 1994 concernant les prescriptions minimales de sécurité et de santé pour l’utilisation par les travailleurs au travail d’équipements de protection individuelle ;
 
-2. des panneaux d'avertissement sont mis en place pour signaler que le dépassement de la valeur limite pertinente de l'article 8 est prévisible ;
+- des panneaux d'avertissement sont mis en place pour signaler que le dépassement de la valeur limite pertinente de l'article 8 est prévisible ;
 
-3. la dispersion de la poussière provenant de l'amiante ou de matériaux contenant de l'amiante en dehors des locaux ou du site d'action est évitée et, pour les travaux effectués sous confinement, la zone confinée est étanche et ventilée par extraction mécanique .
+- la dispersion de la poussière provenant de l'amiante ou de matériaux contenant de l'amiante en dehors des locaux ou du site d'action est évitée et, pour les travaux effectués sous confinement, la zone confinée est étanche et ventilée par extraction mécanique .
 
 2.
 
@@ -288,25 +288,25 @@ Les employeurs sont tenus de prévoir une formation appropriée pour tous les sa
 
 Le contenu de la formation doit être facilement compréhensible par les salariés . Il doit leur permettre d'acquérir les connaissances et les compétences nécessaires en matière de prévention et de sécurité, notamment ce qui concerne:
 
-1. les propriétés de l'amiante et ses effets sur la santé, y compris l'effet synergique du tabagisme;
+- les propriétés de l'amiante et ses effets sur la santé, y compris l'effet synergique du tabagisme;
 
-2. les types de produits ou matériaux susceptibles de contenir de l'amiante;
+- les types de produits ou matériaux susceptibles de contenir de l'amiante;
 
-3. les opérations pouvant entraîner une exposition à l'amiante et l'importance des contrôles préventifs pour minimiser l'exposition;
+- les opérations pouvant entraîner une exposition à l'amiante et l'importance des contrôles préventifs pour minimiser l'exposition;
 
-4. les pratiques professionnelles sûres, les contrôles et les équipements de protection;
+- les pratiques professionnelles sûres, les contrôles et les équipements de protection;
 
-5. le rôle approprié, le choix, la sélection, les limites et la bonne utilisation de l'équipement respiratoire;
+- le rôle approprié, le choix, la sélection, les limites et la bonne utilisation de l'équipement respiratoire;
 
-6. les procédures d'urgence;
+- les procédures d'urgence;
 
-7. les procédures de décontamination;
+- les procédures de décontamination;
 
-8. l'élimination des déchets;
+- l'élimination des déchets;
 
-9. les exigences en matière de surveillance médicale;
+- les exigences en matière de surveillance médicale;
 
-10. la législation relative à l'amiante.
+- la législation relative à l'amiante.
 
 3.
 
@@ -348,15 +348,15 @@ La formation est assurée par un formateur ou un organisme de formation habilit�
 
 Chaque salarié ayant participé à une formation visée aux paragraphes 3, 3bis, 3ter ou 4 et ayant satisfait aux exigences du contrôle des connaissances reçoit un certificat de compétence indiquant les éléments suivants :
 
-1. la date de la formation ;
+- la date de la formation ;
 
-2. la durée de la formation ;
+- la durée de la formation ;
 
-3. le contenu de la formation ;
+- le contenu de la formation ;
 
-4. la langue dans laquelle la formation a été dispensée ;
+- la langue dans laquelle la formation a été dispensée ;
 
-5. le nom, la qualification et les coordonnées du formateur ou de l’organisme assurant la formation, ou les deux.
+- le nom, la qualification et les coordonnées du formateur ou de l’organisme assurant la formation, ou les deux.
 
 <a id="art-11ter"></a>
 ## Art. 11ter.
@@ -382,27 +382,27 @@ Ces preuves consistent en des documents sur:
 
 Pour toute activité visée à l'article 3 paragraphe 1 et sous réserve de l'article 3 paragraphe 3, les mesures appropriées sont prises pour que:
 
-1. les lieux où se déroulent ces activités:
+- les lieux où se déroulent ces activités:
 
-1. soient clairement délimités et signalés par des panneaux;
+  - soient clairement délimités et signalés par des panneaux;
 
-2. ne puissent être accessibles aux salariés autres que ceux qui, en raison de leur travail ou de leur fonction sont amenés à y pénétrer;
+  - ne puissent être accessibles aux salariés autres que ceux qui, en raison de leur travail ou de leur fonction sont amenés à y pénétrer;
 
-3. fassent l'objet d'une interdiction de fumer;
+  - fassent l'objet d'une interdiction de fumer;
 
-2. des zones soient aménagées permettant aux salariés de manger et de boire sans risque de contamination par la poussière d'amiante;
+- des zones soient aménagées permettant aux salariés de manger et de boire sans risque de contamination par la poussière d'amiante;
 
-3.
+-
 
-1. des vêtements de travail ou de protection appropriés soient mis à la disposition des salariés ;
+  - des vêtements de travail ou de protection appropriés soient mis à la disposition des salariés ;
 
-2. ces vêtements de travail ou de protection ne quittent pas l'entreprise. Ils peuvent toutefois être lavés dans les blanchisseries équipées pour ce genre d'opérations, situées en dehors de l'entreprise, si celle-ci ne procède pas elle-même au nettoyage; dans ce cas, le transport des vêtements doit être effectué dans des récipients fermés;
+  - ces vêtements de travail ou de protection ne quittent pas l'entreprise. Ils peuvent toutefois être lavés dans les blanchisseries équipées pour ce genre d'opérations, situées en dehors de l'entreprise, si celle-ci ne procède pas elle-même au nettoyage; dans ce cas, le transport des vêtements doit être effectué dans des récipients fermés;
 
-3. un rangement séparé des vêtements de travail ou de protection, d'une part, et des vêtements de ville, d'autre part, soit assuré;
+  - un rangement séparé des vêtements de travail ou de protection, d'une part, et des vêtements de ville, d'autre part, soit assuré;
 
-4. des installations sanitaires appropriées et adéquates comprenant des douches dans le cas d'opérations poussiéreuses soient mises à la disposition des salariés ;
+  - des installations sanitaires appropriées et adéquates comprenant des douches dans le cas d'opérations poussiéreuses soient mises à la disposition des salariés ;
 
-5. des équipements de protection soient placés dans un endroit déterminé; qu'ils soient vérifiés et nettoyés après chaque utilisation et que les mesures appropriées soient prises pour réparer ou remplacer les équipements défectueux avant une nouvelle utilisation.
+  - des équipements de protection soient placés dans un endroit déterminé; qu'ils soient vérifiés et nettoyés après chaque utilisation et que les mesures appropriées soient prises pour réparer ou remplacer les équipements défectueux avant une nouvelle utilisation.
 
 2.
 
@@ -429,33 +429,33 @@ Pour toute activité visée à l'article 3 paragraphe 1, les mesures approprées
 
 Outre les mesures visées au paragraphe 1 et sous réserve de l'article 3 paragraphe 3, les mesures appropriées sont prises pour que:
 
-1. les salariés et/ou les délégués du personnel aient accès aux résultats des mesures de la teneur de l'air en amiante et qu'ils puissent recevoir des explications concernant la signification de ces résultats;
+- les salariés et/ou les délégués du personnel aient accès aux résultats des mesures de la teneur de l'air en amiante et qu'ils puissent recevoir des explications concernant la signification de ces résultats;
 
-2. si les résultats dépassent la valeur limite pertinente de l'article 8, les salariés concernés et leurs représentants au sein de l'entreprise ou de l'établissement soient informés le plus rapidement possible de ces dépassements et de leurs causes et que les salariés et/ou leurs représentants dans l'entreprise ou l'établissement soient consultés sur les mesures à prendre ou, en cas d'urgence, informés des mesures prises.
+- si les résultats dépassent la valeur limite pertinente de l'article 8, les salariés concernés et leurs représentants au sein de l'entreprise ou de l'établissement soient informés le plus rapidement possible de ces dépassements et de leurs causes et que les salariés et/ou leurs représentants dans l'entreprise ou l'établissement soient consultés sur les mesures à prendre ou, en cas d'urgence, informés des mesures prises.
 
 <a id="art-14"></a>
 ## Art. 14.
 
 Sous réserve de l'article 3, paragraphe 3, les mesures suivantes doivent être prises:
 
-1. Une évaluation de son état de santé doit être disponible pour chaque salarié préalablement à l'exposition à la poussière provenant de l'amiante ou des matériaux contenant de l'amiante. Cette évaluation doit inclure un examen spécifique du thorax. L'annexe II donne des recommandations pratiques auxquelles il est possible de se référer pour la surveillance clinique des salariés . Une nouvelle évaluation doit être disponible au moins une fois tous les trois ans aussi longtemps que dure l'exposition. Un dossier médical individuel est établi auprès du service de la médecine au travail compétent pour chaque salarié visé à l’alinéa 1er .
+- Une évaluation de son état de santé doit être disponible pour chaque salarié préalablement à l'exposition à la poussière provenant de l'amiante ou des matériaux contenant de l'amiante. Cette évaluation doit inclure un examen spécifique du thorax. L'annexe II donne des recommandations pratiques auxquelles il est possible de se référer pour la surveillance clinique des salariés . Une nouvelle évaluation doit être disponible au moins une fois tous les trois ans aussi longtemps que dure l'exposition. Un dossier médical individuel est établi auprès du service de la médecine au travail compétent pour chaque salarié visé à l’alinéa 1er .
 
-2. À la suite de la surveillance clinique visée au point 1, le directeur de l'inspection du travail et des mines ou, en cas d'empêchement, le directeur adjoint su r avis d'un médecin du travail de la direction de la santé, pourra se prononcer sur ou déterminer les éventuelles mesures individuelles de protection ou de prévention à prendre; ces mesures peuvent comprendre, le cas échéant, le retrait du salarié concerné de toute exposition à la poussière provenant de l'amiante ou des matériaux contenant de l'amiante conformément à l'article L. 351-4 du Code du travail .
+- À la suite de la surveillance clinique visée au point 1, le directeur de l'inspection du travail et des mines ou, en cas d'empêchement, le directeur adjoint su r avis d'un médecin du travail de la direction de la santé, pourra se prononcer sur ou déterminer les éventuelles mesures individuelles de protection ou de prévention à prendre; ces mesures peuvent comprendre, le cas échéant, le retrait du salarié concerné de toute exposition à la poussière provenant de l'amiante ou des matériaux contenant de l'amiante conformément à l'article L. 351-4 du Code du travail .
 
-3. Des informations et des conseils doivent être fournis aux salariés en ce qui concerne toute évaluation de leur santé à laquelle ils peuvent se soumettre après la fin de l'exposition. Le médecin du travail peut indiquer que la surveillance médicale doit se prolonger après la fin de l'exposition pendant le temps qu'il juge nécessaire pour sauvegarder la santé de l'intéressé.
+- Des informations et des conseils doivent être fournis aux salariés en ce qui concerne toute évaluation de leur santé à laquelle ils peuvent se soumettre après la fin de l'exposition. Le médecin du travail peut indiquer que la surveillance médicale doit se prolonger après la fin de l'exposition pendant le temps qu'il juge nécessaire pour sauvegarder la santé de l'intéressé.
 
-4. L e salarié concerné ou l'employeur peuvent demander la révision des évaluations visées aux points 1 et 2.
+- L e salarié concerné ou l'employeur peuvent demander la révision des évaluations visées aux points 1 et 2.
 
 <a id="art-15"></a>
 ## Art. 15.
 
 Sous réserve de l'article 3, paragraphe 3:
 
-1. L’employeur inscrit dans un registre les informations relatives aux salariés exerçant les activités visées à l’article 3, paragraphe 1 er . Ces informations indiquent la nature et la durée de l’activité ainsi que l’exposition à laquelle les salariés ont été soumis. Le médecin du travail a accès à ce registre. Les salariés ont accès à leurs résultats personnels contenus dans ce registre. Les salariés et les délégués du personnel ont accès aux informations collectives anonymes contenues dans ce registre.
+- L’employeur inscrit dans un registre les informations relatives aux salariés exerçant les activités visées à l’article 3, paragraphe 1 er . Ces informations indiquent la nature et la durée de l’activité ainsi que l’exposition à laquelle les salariés ont été soumis. Le médecin du travail a accès à ce registre. Les salariés ont accès à leurs résultats personnels contenus dans ce registre. Les salariés et les délégués du personnel ont accès aux informations collectives anonymes contenues dans ce registre.
 
-2. Le registre visé au point 1 et les dossiers médicaux individuels visés à l'article 14 , point 1, alinéa 4, sont à conserver au moins quarante ans après la fin de l'exposition.
+- Le registre visé au point 1 et les dossiers médicaux individuels visés à l'article 14 , point 1, alinéa 4, sont à conserver au moins quarante ans après la fin de l'exposition.
 
-3. Au cas où l'entreprise cesse son activité, ces documents sont mis à la disposition de la division de la santé au travail et de l’environnement .
+- Au cas où l'entreprise cesse son activité, ces documents sont mis à la disposition de la division de la santé au travail et de l’environnement .
 
 <a id="art-16"></a>
 ## Art. 16.

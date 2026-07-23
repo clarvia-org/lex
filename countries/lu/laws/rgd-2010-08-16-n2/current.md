@@ -42,69 +42,69 @@ Au sens du présent règlement, on entend par:
 
 - bétail de boucherie: les animaux des espèces domestiques bovine, porcine, ovine et caprine ainsi que les solipèdes domestiques destinés à être abattus dans un abattoir dans les 4 jours suivant le départ auprès du vendeur.
 
-- Parmi les animaux de boucherie de l'espèce bovine domestique il est distingué entre les catégories suivantes :
+  - Parmi les animaux de boucherie de l'espèce bovine domestique il est distingué entre les catégories suivantes :
 
-- veau (bovin dont l’âge est inférieur à 8 mois) ;
+    - veau (bovin dont l’âge est inférieur à 8 mois) ;
 
-- jeune bovin (bovin dont l’âge est entre 8 mois et moins de 12 mois) ;
+    - jeune bovin (bovin dont l’âge est entre 8 mois et moins de 12 mois) ;
 
-- taurillon (jeune bovin mâle non castré dont l’âge est entre 12 mois et moins de 24 mois) ;
+    - taurillon (jeune bovin mâle non castré dont l’âge est entre 12 mois et moins de 24 mois) ;
 
-- taureau (bovin non castré dont l’âge est supérieur ou égal à 24 mois) ;
+    - taureau (bovin non castré dont l’âge est supérieur ou égal à 24 mois) ;
 
-- bœuf (bovin mâle castré dont l’âge est supérieur ou égal à 12 mois) ;
+    - bœuf (bovin mâle castré dont l’âge est supérieur ou égal à 12 mois) ;
 
-- génisse (bovin femelle n’ayant pas vêlé dont l’âge est supérieur ou égal à 12 mois) ;
+    - génisse (bovin femelle n’ayant pas vêlé dont l’âge est supérieur ou égal à 12 mois) ;
 
-- jeune vache (bovin femelle qui a déjà vêlé et dont l’âge est entre 12 mois et inférieur à 60 mois) ;
+    - jeune vache (bovin femelle qui a déjà vêlé et dont l’âge est entre 12 mois et inférieur à 60 mois) ;
 
-- vache (bovin femelle qui a déjà vêlé et dont l’âge est supérieur ou égal à 60 mois).
+    - vache (bovin femelle qui a déjà vêlé et dont l’âge est supérieur ou égal à 60 mois).
 
-- Parmi les animaux de boucherie de l'espèce porcine domestique il est distingué entre les catégories suivantes:
+  - Parmi les animaux de boucherie de l'espèce porcine domestique il est distingué entre les catégories suivantes:
 
-- jeune porcelet (porc d'un poids abattu inférieur à 12 kg);
+    - jeune porcelet (porc d'un poids abattu inférieur à 12 kg);
 
-- porcelet (porc d'un poids abattu égal ou supérieur à 12 kg et inférieur à 50 kg);
+    - porcelet (porc d'un poids abattu égal ou supérieur à 12 kg et inférieur à 50 kg);
 
-- porc à l'engrais (porc d'un poids abattu égal ou supérieur à 50 kg);
+    - porc à l'engrais (porc d'un poids abattu égal ou supérieur à 50 kg);
 
-- truie (porc femelle ayant servi à la reproduction);
+    - truie (porc femelle ayant servi à la reproduction);
 
-- verrat (porc mâle ayant servi à la reproduction).
+    - verrat (porc mâle ayant servi à la reproduction).
 
-- Parmi les animaux de boucherie de l'espèce ovine domestique il est distingué entre les catégories suivantes:
+  - Parmi les animaux de boucherie de l'espèce ovine domestique il est distingué entre les catégories suivantes:
 
-- agneau de lait (ovin dont l'âge est inférieur ou égal à 3 mois et dont le poids abattu est inférieur à 14 kg);
+    - agneau de lait (ovin dont l'âge est inférieur ou égal à 3 mois et dont le poids abattu est inférieur à 14 kg);
 
-- agneau (ovin mâle ou femelle dont l'âge est inférieur ou égal à 12 mois, les femelles n'ayant pas encore agnelé);
+    - agneau (ovin mâle ou femelle dont l'âge est inférieur ou égal à 12 mois, les femelles n'ayant pas encore agnelé);
 
-- antenaise (ovin femelle dont l'âge est supérieur à 12 mois et qui n'a pas encore agnelé);
+    - antenaise (ovin femelle dont l'âge est supérieur à 12 mois et qui n'a pas encore agnelé);
 
-- brebis (ovin femelle qui a déjà agnelé);
+    - brebis (ovin femelle qui a déjà agnelé);
 
-- bélier (ovin mâle dont l'âgé est supérieur à 12 mois).
+    - bélier (ovin mâle dont l'âgé est supérieur à 12 mois).
 
-- Parmi les animaux de boucherie de l'espèce caprine domestique il est distingué entre les catégories suivantes:
+  - Parmi les animaux de boucherie de l'espèce caprine domestique il est distingué entre les catégories suivantes:
 
-- chevreau de lait (caprin dont l'âge est inférieur ou égal à 3 mois et dont le poids abattu est inférieur à 10 kg);
+    - chevreau de lait (caprin dont l'âge est inférieur ou égal à 3 mois et dont le poids abattu est inférieur à 10 kg);
 
-- chevreau (caprin mâle ou femelle dont l'âge est inférieur ou égal à 12 mois, les femelles n'ayant pas encore chevretté);
+    - chevreau (caprin mâle ou femelle dont l'âge est inférieur ou égal à 12 mois, les femelles n'ayant pas encore chevretté);
 
-- chevrette (caprin femelle dont l'âge est supérieur à 12 mois et qui n'a pas encore chevretté);
+    - chevrette (caprin femelle dont l'âge est supérieur à 12 mois et qui n'a pas encore chevretté);
 
-- chèvre (caprin femelle qui a déjà chevretté);
+    - chèvre (caprin femelle qui a déjà chevretté);
 
-- bouc (caprin mâle dont l'âge est supérieur à 12 mois).
+    - bouc (caprin mâle dont l'âge est supérieur à 12 mois).
 
-- Parmi les solipèdes domestiques de boucherie il est distingué entre les catégories suivantes:
+  - Parmi les solipèdes domestiques de boucherie il est distingué entre les catégories suivantes:
 
-- poulain (cheval dont l'âge est inférieur ou égal à 18 mois);
+    - poulain (cheval dont l'âge est inférieur ou égal à 18 mois);
 
-- cheval (cheval dont l'âge est supérieur à 18 mois);
+    - cheval (cheval dont l'âge est supérieur à 18 mois);
 
-- âne;
+    - âne;
 
-- hybride.
+    - hybride.
 
 - carcasse: le corps entier de l'animal abattu tel qu'il se présente après les opérations de saignée, d'éviscération et, en outre, en ce qui concerne les bovins, ovins, caprins et solipèdes, de dépouillement.
 

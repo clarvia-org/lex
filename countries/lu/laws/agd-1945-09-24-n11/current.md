@@ -26,6 +26,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 16/03/1985 : Arrêté grand-ducal du 24 septembre 1945 concernant la déclaration de présomption de décès et la déclaration judiciaire du décès des personnes victimes des opérations ou des événements de guerre et des personnes décédées par suite d'un acte de violence de la part de l'ennemi.
 
+§ 1.- De la déclaration de présomption de décès.
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
@@ -53,6 +55,8 @@ Le conjoint d’une personne dont la présomption de décès est déclarée peut
 ## Art. 4.
 
 La mention honorifique: «mort pour la patrie» sera, si toutes les conditions se trouvent remplies, transcrite sur réquisition du Ministre de l’Intérieur en marge de l’expédition de l’acte de déclaration de présomption de décès.
+
+§ 2.- De la déclaration, judiciaire du décès.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -105,6 +109,8 @@ Les jugements ou arrêts déclaratifs de décès tiendront lieu d’acte de l’
 Toutefois ils pourront être rectifiés, le cas échéant, conformément aux art. 89, 100 et 101 du Code civil, 855 et suivants du Code de procédure civile.
 
 Les jugements non déclaratifs de décès ne feront point obstacle à la recevabilité ultérieur de la même demande s’il existe des moyens nouveaux à son appui.
+
+§ 3.- Dispositions générales.
 
 <a id="art-13"></a>
 ## Art. 13.

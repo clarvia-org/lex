@@ -52,23 +52,23 @@ La présente loi s’applique aux eaux de surface, aux eaux souterraines et aux 
 
 La présente loi a pour objet de créer un cadre pour la protection et la gestion des eaux visées au paragraphe (1) afin de:
 
-1. prévenir toute dégradation supplémentaire, de préserver et d’améliorer l’état des eaux et des écosystèmes aquatiques ainsi que, en ce qui concerne leurs besoins en eau, des écosystèmes terrestres et des zones humides qui en dépendent directement;
+- prévenir toute dégradation supplémentaire, de préserver et d’améliorer l’état des eaux et des écosystèmes aquatiques ainsi que, en ce qui concerne leurs besoins en eau, des écosystèmes terrestres et des zones humides qui en dépendent directement;
 
-2. promouvoir une utilisation durable de l’eau, fondée sur la protection à long terme des ressources en eau disponibles;
+- promouvoir une utilisation durable de l’eau, fondée sur la protection à long terme des ressources en eau disponibles;
 
-3. renforcer la protection de l’environnement aquatique ainsi que de l’améliorer, notamment par des mesures spécifiques conçues pour la réduction progressive des rejets, émissions et pertes de substances prioritaires, et pour l’arrêt ou la suppression progressive des rejets, émissions et pertes de substances dangereuses prioritaires;
+- renforcer la protection de l’environnement aquatique ainsi que de l’améliorer, notamment par des mesures spécifiques conçues pour la réduction progressive des rejets, émissions et pertes de substances prioritaires, et pour l’arrêt ou la suppression progressive des rejets, émissions et pertes de substances dangereuses prioritaires;
 
-4. assurer la réduction progressive de la pollution des eaux souterraines et de prévenir l’aggravation de leur pollution;
+- assurer la réduction progressive de la pollution des eaux souterraines et de prévenir l’aggravation de leur pollution;
 
-5. régénérer le régime des eaux de surface;
+- régénérer le régime des eaux de surface;
 
-6. gérer les risques d’inondation et atténuer les effets des inondations, des étiages et des sécheresses;
+- gérer les risques d’inondation et atténuer les effets des inondations, des étiages et des sécheresses;
 
-7. arrêter les principes directeurs régissant la fourniture d’eau destinée à la consommation humaine et à l’utilisation industrielle, artisanale et agricole ainsi que l’évacuation et l’assainissement des agglomérations;
+- arrêter les principes directeurs régissant la fourniture d’eau destinée à la consommation humaine et à l’utilisation industrielle, artisanale et agricole ainsi que l’évacuation et l’assainissement des agglomérations;
 
-8. élaborer et mettre en œuvre les programmes de surveillance et les programmes opérationnels ayant pour objet les aspects quantitatifs et qualitatifs des eaux de surface et des eaux souterraines;
+- élaborer et mettre en œuvre les programmes de surveillance et les programmes opérationnels ayant pour objet les aspects quantitatifs et qualitatifs des eaux de surface et des eaux souterraines;
 
-9. contribuer à l’entretien des cours d’eau en tenant compte des dispositions des points a) et e);
+- contribuer à l’entretien des cours d’eau en tenant compte des dispositions des points a) et e);
 
 et réaliser les objectifs des accords internationaux applicables en matière de gestion et de protection de l’eau auxquels le Luxembourg fait partie, y compris ceux qui visent à prévenir et à éliminer la pollution de l’environnement marin.
 
@@ -79,129 +79,129 @@ Définitions
 
 Aux fins de la présente loi on entend par:
 
-1. «agglomération»: une zone dans laquelle la population ou les activités économiques sont suffisamment concentrées pour qu’il soit possible de pourvoir à
+- «agglomération»: une zone dans laquelle la population ou les activités économiques sont suffisamment concentrées pour qu’il soit possible de pourvoir à
 
-1. la distribution d’eau destinée à la consommation humaine ou à
+  - la distribution d’eau destinée à la consommation humaine ou à
 
-2. l’assainissement;
+  - l’assainissement;
 
-2. «aquifère»: une ou plusieurs couches souterraines de roche ou d’autres couches géologiques d’une porosité et d’une perméabilité suffisantes pour permettre, soit un courant significatif d’eau souterraine, soit la présence de quantité importantes d’eau souterraine;
+- «aquifère»: une ou plusieurs couches souterraines de roche ou d’autres couches géologiques d’une porosité et d’une perméabilité suffisantes pour permettre, soit un courant significatif d’eau souterraine, soit la présence de quantité importantes d’eau souterraine;
 
-3. «assainissement»: l’évacuation, le transport et le traitement des eaux résiduaires ainsi que la gestion des eaux pluviales dans les agglomérations;
+- «assainissement»: l’évacuation, le transport et le traitement des eaux résiduaires ainsi que la gestion des eaux pluviales dans les agglomérations;
 
-4. «bassin»: toute zone dans laquelle toutes les eaux de ruissellement convergent à travers un réseau de cours d’eau et éventuellement, de lacs vers un point particulier d’une eau de surface réceptrice;
+- «bassin»: toute zone dans laquelle toutes les eaux de ruissellement convergent à travers un réseau de cours d’eau et éventuellement, de lacs vers un point particulier d’une eau de surface réceptrice;
 
-5. «bassin hydrographique»: toute zone dans laquelle toutes les eaux de ruissellement convergent à travers un réseau de cours d’eau, de fleuves et, éventuellement, de lacs vers la mer, dans laquelle elles se déversent par une seul embouchure, par un estuaire ou un delta;
+- «bassin hydrographique»: toute zone dans laquelle toutes les eaux de ruissellement convergent à travers un réseau de cours d’eau, de fleuves et, éventuellement, de lacs vers la mer, dans laquelle elles se déversent par une seul embouchure, par un estuaire ou un delta;
 
-6. «berge»: la partie du terrain qui borde un cours d’eau;
+- «berge»: la partie du terrain qui borde un cours d’eau;
 
-7. «chenal»: un lit naturel ou artificiel, nettement identifiable, qui contient en permanence ou périodiquement de l’eau courante;
+- «chenal»: un lit naturel ou artificiel, nettement identifiable, qui contient en permanence ou périodiquement de l’eau courante;
 
-8. «cours d’eau»: un chenal en majeure partie superficiel, conducteur d’eau permanent ou temporaire;
+- «cours d’eau»: un chenal en majeure partie superficiel, conducteur d’eau permanent ou temporaire;
 
-9. «cycle urbain de l’eau»: l’approvisionnement en eau et l’assainissement des agglomérations;
+- «cycle urbain de l’eau»: l’approvisionnement en eau et l’assainissement des agglomérations;
 
-10. «débit écologique»: le débit minimum requis pour préserver le bon fonctionnement de l’écosystème aquatique et pour atteindre les objectifs environnementaux pour les eaux de surface;
+- «débit écologique»: le débit minimum requis pour préserver le bon fonctionnement de l’écosystème aquatique et pour atteindre les objectifs environnementaux pour les eaux de surface;
 
-11. «district hydrographique»: une zone terrestre et maritime, composée d’un ou plusieurs bassins hydrographiques ainsi que des eaux souterraines, identifiée comme principale unité aux fins de la gestion du ou des bassins hydrographiques;
+- «district hydrographique»: une zone terrestre et maritime, composée d’un ou plusieurs bassins hydrographiques ainsi que des eaux souterraines, identifiée comme principale unité aux fins de la gestion du ou des bassins hydrographiques;
 
-12. «eaux claires parasites»: l’écoulement permanent d’eaux non polluées;
+- «eaux claires parasites»: l’écoulement permanent d’eaux non polluées;
 
-13. «eau destinée à la consommation humaine»:
+- «eau destinée à la consommation humaine»:
 
-1. toute eau, soit en l’état, soit après traitement, destinée à la boisson, à la cuisson, à la préparation d’aliments, ou à d’autres usages domestiques, quelle que soit son origine et qu’elle soit fournie par un réseau de distribution, partir de citernes mobiles, en bouteilles ou en conteneurs;
+  - toute eau, soit en l’état, soit après traitement, destinée à la boisson, à la cuisson, à la préparation d’aliments, ou à d’autres usages domestiques, quelle que soit son origine et qu’elle soit fournie par un réseau de distribution, partir de citernes mobiles, en bouteilles ou en conteneurs;
 
-2. toute eau utilisée dans une entreprise alimentaire pour la fabrication, la transformation, la conservation ou la commercialisation de produits ou de substances destinés à la consommation humaine;
+  - toute eau utilisée dans une entreprise alimentaire pour la fabrication, la transformation, la conservation ou la commercialisation de produits ou de substances destinés à la consommation humaine;
 
-14. «eaux de plaisance»: l’ensemble des eaux de surface, courantes ou stagnantes, ou de parties d’entre elle présentant un risque pour la santé dans le cadre d’activités nautiques;
+- «eaux de plaisance»: l’ensemble des eaux de surface, courantes ou stagnantes, ou de parties d’entre elle présentant un risque pour la santé dans le cadre d’activités nautiques;
 
-15. «eaux de ruissellement»: les eaux pluviales s’écoulant à la surface du sol;
+- «eaux de ruissellement»: les eaux pluviales s’écoulant à la surface du sol;
 
-16. «eaux de surface»: les eaux qui s’écoulent ou stagnent à la surface du sol;
+- «eaux de surface»: les eaux qui s’écoulent ou stagnent à la surface du sol;
 
-17. «eaux industrielles usées»: toutes les eaux usées provenant de locaux utilisés à des fins commerciales ou industrielles, autres que les eaux ménagères usées et les eaux pluviales;
+- «eaux industrielles usées»: toutes les eaux usées provenant de locaux utilisés à des fins commerciales ou industrielles, autres que les eaux ménagères usées et les eaux pluviales;
 
-18. «eaux ménagères usées»: les eaux usées provenant des établissements et services résidentiels et produites essentiellement par le métabolisme humain et les activités ménagères;
+- «eaux ménagères usées»: les eaux usées provenant des établissements et services résidentiels et produites essentiellement par le métabolisme humain et les activités ménagères;
 
-19. «eaux souterraines»: toutes les eaux se trouvant sous la surface du sol dans la zone de saturation et en contact direct avec le sol ou le sous-sol;
+- «eaux souterraines»: toutes les eaux se trouvant sous la surface du sol dans la zone de saturation et en contact direct avec le sol ou le sous-sol;
 
-20. «eaux urbaines résiduaires»: les eaux ménagères usées ou le mélange des eaux ménagères usées avec des eaux industrielles usées ou des eaux pluviales et les eaux claires parasites;
+- «eaux urbaines résiduaires»: les eaux ménagères usées ou le mélange des eaux ménagères usées avec des eaux industrielles usées ou des eaux pluviales et les eaux claires parasites;
 
-21. «équivalent habitant»: la charge polluante contenue dans 150 litres (l) d’eau usée qu’un habitant est censé produire par jour; elle correspond à 120 grammes (g) de demande chimique en oxygène (DCO), 12 grammes (g) d’azote (N) 1,8 grammes (g) de phosphore (P) et 70 grammes (g) de matières en suspension (MES);
+- «équivalent habitant»: la charge polluante contenue dans 150 litres (l) d’eau usée qu’un habitant est censé produire par jour; elle correspond à 120 grammes (g) de demande chimique en oxygène (DCO), 12 grammes (g) d’azote (N) 1,8 grammes (g) de phosphore (P) et 70 grammes (g) de matières en suspension (MES);
 
-22. «équivalent habitant moyen:» 1 équivalent habitant moyen
+- «équivalent habitant moyen:» 1 équivalent habitant moyen
 
-23. «état d’une eau de surface»: l’expression générale de l’état d’une masse d’eau de surface, déterminé par la plus mauvaise valeur de son état écologique et de son état chimique;
+- «état d’une eau de surface»: l’expression générale de l’état d’une masse d’eau de surface, déterminé par la plus mauvaise valeur de son état écologique et de son état chimique;
 
-1. «état écologique d’une eau de surface»: l’expression de la qualité de la structure et du fonctionnement des écosystèmes aquatiques associés aux eaux de surface;
+  - «état écologique d’une eau de surface»: l’expression de la qualité de la structure et du fonctionnement des écosystèmes aquatiques associés aux eaux de surface;
 
-2. «potentiel écologique d’une eau de surface»: l’expression de la qualité de la structure et du fonctionnement des écosystèmes aquatiques associés à des masses d’eau de surface fortement modifiées ou artificielles;
+  - «potentiel écologique d’une eau de surface»: l’expression de la qualité de la structure et du fonctionnement des écosystèmes aquatiques associés à des masses d’eau de surface fortement modifiées ou artificielles;
 
-3. «état chimique d’une eau de surface»: l’expression des concentrations de polluants d’une masse d’eau de surface par rapport à des normes de qualité environnementale;
+  - «état chimique d’une eau de surface»: l’expression des concentrations de polluants d’une masse d’eau de surface par rapport à des normes de qualité environnementale;
 
-24. «état d’une eau souterraine»: l’expression générale de l’état d’une masse d’eau souterraine, déterminé par la plus mauvaise valeur de son état quantitatif et de son état chimique;
+- «état d’une eau souterraine»: l’expression générale de l’état d’une masse d’eau souterraine, déterminé par la plus mauvaise valeur de son état quantitatif et de son état chimique;
 
-1. «état chimique d’une eau souterraine»: l’expression de la concentration de sels, moyennant la conductivité électrique comme indicateur d’une éventuelle invasion salée, ou de polluants d’une masse d’eau souterraine par rapport à des normes de qualité environnementale;
+  - «état chimique d’une eau souterraine»: l’expression de la concentration de sels, moyennant la conductivité électrique comme indicateur d’une éventuelle invasion salée, ou de polluants d’une masse d’eau souterraine par rapport à des normes de qualité environnementale;
 
-2. «état quantitatif d’une eau souterraine»: l’expression du degré d’incidence des prélèvements directs et indirects sur une masse d’eau souterraine;
+  - «état quantitatif d’une eau souterraine»: l’expression du degré d’incidence des prélèvements directs et indirects sur une masse d’eau souterraine;
 
-25. «eutrophisation»: l’enrichissement de l’eau en éléments nutritifs, notamment des composés de l’azote ou du phosphore, provoquant un développement accéléré d’algues et de formes plus évoluées de la vie végétale qui entraîne une perturbation indésirable de l’équilibre de l’écosystème aquatique en question;
+- «eutrophisation»: l’enrichissement de l’eau en éléments nutritifs, notamment des composés de l’azote ou du phosphore, provoquant un développement accéléré d’algues et de formes plus évoluées de la vie végétale qui entraîne une perturbation indésirable de l’équilibre de l’écosystème aquatique en question;
 
-26. «infrastructure d’approvisionnement»: les installations servant au captage, à la production, au traitement, à l’adduction, à l’emmagasinage et à la distribution d’eau en distribution; l’infrastructure d’approvisionnement, ou une partie de ses composantes, est considérée comme «collective privée», si elle sert exclusivement les besoins du fournisseur;
+- «infrastructure d’approvisionnement»: les installations servant au captage, à la production, au traitement, à l’adduction, à l’emmagasinage et à la distribution d’eau en distribution; l’infrastructure d’approvisionnement, ou une partie de ses composantes, est considérée comme «collective privée», si elle sert exclusivement les besoins du fournisseur;
 
-27. «infrastructure d’assainissement»: les installations servant à la collecte, au transport ou au traitement des eaux urbaines résiduaires y inclus les eaux pluviales et les eaux claires parasites;
+- «infrastructure d’assainissement»: les installations servant à la collecte, au transport ou au traitement des eaux urbaines résiduaires y inclus les eaux pluviales et les eaux claires parasites;
 
-28. «installation privée de distribution»: les canalisations et appareillages installés entre les robinets qui sont normalement utilisés pour la consommation humaine et le point de raccordement à l’infrastructure d’approvisionnement, mais seulement lorsqu’ils ne relèvent pas de la responsabilité du fournisseur en sa qualité de distributeur d’eau; les robinets précités font partie de l’installation privée de distribution;
+- «installation privée de distribution»: les canalisations et appareillages installés entre les robinets qui sont normalement utilisés pour la consommation humaine et le point de raccordement à l’infrastructure d’approvisionnement, mais seulement lorsqu’ils ne relèvent pas de la responsabilité du fournisseur en sa qualité de distributeur d’eau; les robinets précités font partie de l’installation privée de distribution;
 
-29. «lac»: une eau de surface stagnante;
+- «lac»: une eau de surface stagnante;
 
-30. «limitations d’émissions»: des limitations exigeant une restriction d’émission spécifique, par exemple une valeur limite d’émission, ou imposant d’une autre manière des restrictions ou conditions aux effets, à la nature ou à d’autres caractéristiques d’une émission ou de conditions de fonctionnement qui influencent les émissions;
+- «limitations d’émissions»: des limitations exigeant une restriction d’émission spécifique, par exemple une valeur limite d’émission, ou imposant d’une autre manière des restrictions ou conditions aux effets, à la nature ou à d’autres caractéristiques d’une émission ou de conditions de fonctionnement qui influencent les émissions;
 
-31. «lit de cours d’eau»: la partie en général la plus profonde de la vallée dans laquelle l’eau s’écoule gravitairement;
+- «lit de cours d’eau»: la partie en général la plus profonde de la vallée dans laquelle l’eau s’écoule gravitairement;
 
-32. «masse d’eau artificielle»: une masse d’eau de surface créée par l’activité humaine;
+- «masse d’eau artificielle»: une masse d’eau de surface créée par l’activité humaine;
 
-33. «masse d’eau de surface»: une partie distincte et significative d’une eau de surface tel qu’un lac, un réservoir, un cours d’eau, un canal, ou une partie de cours d’eau ou de canal;
+- «masse d’eau de surface»: une partie distincte et significative d’une eau de surface tel qu’un lac, un réservoir, un cours d’eau, un canal, ou une partie de cours d’eau ou de canal;
 
-34. «masse d’eau fortement modifiée»: une masse d’eau de surface qui, par suite d’altérations physiques dues à l’activité humaine, est fondamentalement modifiée quant à son caractère;
+- «masse d’eau fortement modifiée»: une masse d’eau de surface qui, par suite d’altérations physiques dues à l’activité humaine, est fondamentalement modifiée quant à son caractère;
 
-35. «masse d’eau souterraine»: un volume distinct d’eau souterraine à l’intérieur d’un ou de plusieurs aquifères;
+- «masse d’eau souterraine»: un volume distinct d’eau souterraine à l’intérieur d’un ou de plusieurs aquifères;
 
-36. «norme de qualité environnementale»: la concentration d’un polluant ou d’un groupe de polluants dans l’eau, les sédiments ou le biote qui ne doit pas être dépassée, afin de protéger la santé humaine et l’environnement;
+- «norme de qualité environnementale»: la concentration d’un polluant ou d’un groupe de polluants dans l’eau, les sédiments ou le biote qui ne doit pas être dépassée, afin de protéger la santé humaine et l’environnement;
 
-37. «ouvrage hydraulique»: un outil structural de mise en œuvre de la gestion des eaux pour l’utilisation de la ressource ou pour la protection contre les effets nuisibles de l’eau;
+- «ouvrage hydraulique»: un outil structural de mise en œuvre de la gestion des eaux pour l’utilisation de la ressource ou pour la protection contre les effets nuisibles de l’eau;
 
-38. «pollution»: l’introduction directe ou indirecte, par suite de l’activité humaine, de substances ou de chaleur dans l’air, l’eau ou le sol, susceptibles de porter atteinte à la santé humaine ou à la qualité des écosystèmes aquatiques ou des écosystèmes terrestres dépendant directement des écosystèmes aquatiques, qui entraînent des détériorations aux biens matériels, une détérioration ou une entrave à l’agrément de l’environnement ou à d’autres utilisations légitimes de ce dernier;
+- «pollution»: l’introduction directe ou indirecte, par suite de l’activité humaine, de substances ou de chaleur dans l’air, l’eau ou le sol, susceptibles de porter atteinte à la santé humaine ou à la qualité des écosystèmes aquatiques ou des écosystèmes terrestres dépendant directement des écosystèmes aquatiques, qui entraînent des détériorations aux biens matériels, une détérioration ou une entrave à l’agrément de l’environnement ou à d’autres utilisations légitimes de ce dernier;
 
-39. «régime hydrologique d’une eau de surface»: l’ensemble des variations de l’état d’écoulement qui se répètent régulièrement dans le temps et dans l’espace et passent par des variations cycliques, par exemple saisonnières et qui sont commandées essentiellement par son mode d’alimentation lié aux conditions météorologiques;
+- «régime hydrologique d’une eau de surface»: l’ensemble des variations de l’état d’écoulement qui se répètent régulièrement dans le temps et dans l’espace et passent par des variations cycliques, par exemple saisonnières et qui sont commandées essentiellement par son mode d’alimentation lié aux conditions météorologiques;
 
-40. «renaturation»: la restauration d’un cours d’eau en vue de le remettre dans un meilleur état écologique;
+- «renaturation»: la restauration d’un cours d’eau en vue de le remettre dans un meilleur état écologique;
 
-41. «ressource disponible d’eau souterraine»: le taux moyen annuel à long terme de la recharge totale de la masse d’eau souterraine moins le taux annuel à long terme de l’écoulement requis pour atteindre les objectifs de qualité écologique des eaux de surface associées, afin d’éviter toute diminution significative de l’état écologique de ces eaux et d’éviter toute dégradation significative des écosystèmes terrestres associés;
+- «ressource disponible d’eau souterraine»: le taux moyen annuel à long terme de la recharge totale de la masse d’eau souterraine moins le taux annuel à long terme de l’écoulement requis pour atteindre les objectifs de qualité écologique des eaux de surface associées, afin d’éviter toute diminution significative de l’état écologique de ces eaux et d’éviter toute dégradation significative des écosystèmes terrestres associés;
 
-42. «services liés à l’utilisation de l’eau»: tous les services qui couvrent, pour les ménages, les institutions publiques ou une activité économique quelconque,
+- «services liés à l’utilisation de l’eau»: tous les services qui couvrent, pour les ménages, les institutions publiques ou une activité économique quelconque,
 
-1. le prélèvement, le captage, l’endiguement, le stockage, le traitement et la distribution d’eau de surface ou d’eau souterraine;
+  - le prélèvement, le captage, l’endiguement, le stockage, le traitement et la distribution d’eau de surface ou d’eau souterraine;
 
-2. les installations de collecte et de traitement des eaux usées ou pluviales qui effectuent ensuite des rejets dans les eaux de surface;
+  - les installations de collecte et de traitement des eaux usées ou pluviales qui effectuent ensuite des rejets dans les eaux de surface;
 
-43. «substances dangereuses»: les substances ou groupes de substances qui sont toxiques, persistantes et bioaccumulables, et les autres substances ou groupes de substances qui sont considérées, à un degré équivalent, comme sujets à caution;
+- «substances dangereuses»: les substances ou groupes de substances qui sont toxiques, persistantes et bioaccumulables, et les autres substances ou groupes de substances qui sont considérées, à un degré équivalent, comme sujets à caution;
 
-44. «substances dangereuses prioritaires»: celles des substances prioritaires qui sont reconnues comme des substances dangereuses et pour lesquelles l’arrêt ou la suppression progressive des rejets, émissions et pertes s’imposent;
+- «substances dangereuses prioritaires»: celles des substances prioritaires qui sont reconnues comme des substances dangereuses et pour lesquelles l’arrêt ou la suppression progressive des rejets, émissions et pertes s’imposent;
 
-45. «substances prioritaires»: des substances, qui représentent un risque significatif pour ou via l’environnement aquatique, y compris des risques auxquels sont exposées les eaux utilisées pour le prélèvement d’eau potable, et pour lesquelles des mesures prioritaires de réduction progressive des rejets, émissions et pertes s’imposent;
+- «substances prioritaires»: des substances, qui représentent un risque significatif pour ou via l’environnement aquatique, y compris des risques auxquels sont exposées les eaux utilisées pour le prélèvement d’eau potable, et pour lesquelles des mesures prioritaires de réduction progressive des rejets, émissions et pertes s’imposent;
 
-46. «utilisation de l’eau»: les services liés à l’utilisation de l’eau ainsi que toute autre activité susceptible d’influer de manière sensible sur l’état des eaux;
+- «utilisation de l’eau»: les services liés à l’utilisation de l’eau ainsi que toute autre activité susceptible d’influer de manière sensible sur l’état des eaux;
 
-47. «valeurs limites d’émission»: la masse, exprimée en fonction de certains paramètres spécifiques, la concentration et/ ou le niveau d’une émission à ne pas dépasser au cours d’une ou de plusieurs périodes données. Les valeurs limites d’émission peuvent être fixées également pour certains groupes, familles ou catégories de substances. Les valeurs limites d’émission de substances s’appliquent normalement au point de rejet des émissions à la sortie de l’installation et ne tiennent pas compte de la dilution. En ce qui concerne les rejets indirects dans l’eau, l’effet d’une station d’épuration peut être pris en compte lors de la détermination des valeurs limites d’émission de l’installation, à condition de garantir un niveau équivalent de protection de l’environnement dans son ensemble et de ne pas conduire à des niveaux de pollution plus élevés dans l’environnement;
+- «valeurs limites d’émission»: la masse, exprimée en fonction de certains paramètres spécifiques, la concentration et/ ou le niveau d’une émission à ne pas dépasser au cours d’une ou de plusieurs périodes données. Les valeurs limites d’émission peuvent être fixées également pour certains groupes, familles ou catégories de substances. Les valeurs limites d’émission de substances s’appliquent normalement au point de rejet des émissions à la sortie de l’installation et ne tiennent pas compte de la dilution. En ce qui concerne les rejets indirects dans l’eau, l’effet d’une station d’épuration peut être pris en compte lors de la détermination des valeurs limites d’émission de l’installation, à condition de garantir un niveau équivalent de protection de l’environnement dans son ensemble et de ne pas conduire à des niveaux de pollution plus élevés dans l’environnement;
 
-48. «zone inondable»: toute aire, naturelle ou aménagée, ayant la capacité de retenir temporairement
+- «zone inondable»: toute aire, naturelle ou aménagée, ayant la capacité de retenir temporairement
 
-1. les eaux de crue ayant débordé des berges d’un cours d’eau;
+  - les eaux de crue ayant débordé des berges d’un cours d’eau;
 
-2. les eaux de ruissellement d’un versant ou
+  - les eaux de ruissellement d’un versant ou
 
-3. les eaux de remontée des nappes.
+  - les eaux de remontée des nappes.
 
 ##### Section 2. Autorité compétente et coordination internationale
 
@@ -219,9 +219,9 @@ Coordination internationale
 
 Les exigences de la présente loi pour assurer
 
-1. la réalisation des objectifs environnementaux définis en vertu des articles 5 à 11, en particulier l’établissement des programmes de mesures visés aux articles 28 à 33 et des plans de gestion de district hydrographique visés à l’article 52, ainsi que
+- la réalisation des objectifs environnementaux définis en vertu des articles 5 à 11, en particulier l’établissement des programmes de mesures visés aux articles 28 à 33 et des plans de gestion de district hydrographique visés à l’article 52, ainsi que
 
-2. la détermination et la mise en œuvre des mesures pour la maîtrise efficace de l’aléa inondation;
+- la détermination et la mise en œuvre des mesures pour la maîtrise efficace de l’aléa inondation;
 
 en ce qu’elles sont susceptibles d’occasionner des implications transfrontalières, sont à coordonner avec les autorités responsables des États faisant partie des districts hydrographiques internationaux respectivement du Rhin et de la Meuse.
 
@@ -250,19 +250,19 @@ La pollution due à des substances prioritaires doit être réduite progressivem
 
 Une masse d’eau est considérée comme artificielle ou fortement modifiée lorsque
 
-1. les modifications à apporter aux caractéristiques hydromorphologiques de cette masse d’eau pour obtenir un bon état écologique auraient des incidences négatives importantes sur:
+- les modifications à apporter aux caractéristiques hydromorphologiques de cette masse d’eau pour obtenir un bon état écologique auraient des incidences négatives importantes sur:
 
-1. l’environnement au sens large;
+  - l’environnement au sens large;
 
-2. la navigation, y compris les installations portuaires, ou les loisirs;
+  - la navigation, y compris les installations portuaires, ou les loisirs;
 
-3. les activités aux fins desquelles l’eau est stockée, telles que l’approvisionnement en eau potable, la production d’électricité ou l’irrigation;
+  - les activités aux fins desquelles l’eau est stockée, telles que l’approvisionnement en eau potable, la production d’électricité ou l’irrigation;
 
-4. la régularisation des débits, la protection contre les inondations et le drainage des sols;
+  - la régularisation des débits, la protection contre les inondations et le drainage des sols;
 
-5. d’autres activités de développement humain durable tout aussi importantes;
+  - d’autres activités de développement humain durable tout aussi importantes;
 
-2. les objectifs bénéfiques poursuivis par les caractéristiques artificielles ou modifiées de la masse d’eau ne peuvent, pour des raisons de faisabilité technique ou de coûts disproportionnés, être atteints raisonnablement par d’autres moyens qui constituent une option environnementale sensiblement meilleure. Les masses d’eau artificielles ou fortement modifiées sont désignées comme telles dans le plan de gestion de district hydrographique prévu par l’article 52 dont elles font géographiquement partie. Le plan comporte en outre pour chaque masse d’eau artificielle ou fortement modifiée dont il fait état, les raisons de désignation de ces masses d’eau comme masse d’eau artificielle ou masse d’eau fortement modifiée. Elles doivent être protégées et améliorées en vue de répondre au plus tard au 22 décembre 2015 à un bon potentiel écologique et à un bon état chimique.
+- les objectifs bénéfiques poursuivis par les caractéristiques artificielles ou modifiées de la masse d’eau ne peuvent, pour des raisons de faisabilité technique ou de coûts disproportionnés, être atteints raisonnablement par d’autres moyens qui constituent une option environnementale sensiblement meilleure. Les masses d’eau artificielles ou fortement modifiées sont désignées comme telles dans le plan de gestion de district hydrographique prévu par l’article 52 dont elles font géographiquement partie. Le plan comporte en outre pour chaque masse d’eau artificielle ou fortement modifiée dont il fait état, les raisons de désignation de ces masses d’eau comme masse d’eau artificielle ou masse d’eau fortement modifiée. Elles doivent être protégées et améliorées en vue de répondre au plus tard au 22 décembre 2015 à un bon potentiel écologique et à un bon état chimique.
 
 (5)
 
@@ -307,19 +307,19 @@ Report de l’échéance de réalisation des objectifs environnementaux
 
 Les échéances indiquées aux articles 5 à 7 peuvent être reportées aux fins d’une réalisation progressive des objectifs environnementaux visés, lorsque les conditions suivantes sont réunies:
 
-1. il peut être montré que toutes les améliorations nécessaires de l’état des masses d’eau ne peuvent raisonnablement être réalisées dans les délais y indiqués pour au moins une des raisons ci-après:
+- il peut être montré que toutes les améliorations nécessaires de l’état des masses d’eau ne peuvent raisonnablement être réalisées dans les délais y indiqués pour au moins une des raisons ci-après:
 
-1. les améliorations nécessaires ne peuvent, pour des raisons de faisabilité technique, être réalisées qu’en plusieurs étapes excédant les délais indiqués;
+  - les améliorations nécessaires ne peuvent, pour des raisons de faisabilité technique, être réalisées qu’en plusieurs étapes excédant les délais indiqués;
 
-2. l’achèvement des améliorations nécessaires dans les délais indiqués s’avère excessivement coûteux;
+  - l’achèvement des améliorations nécessaires dans les délais indiqués s’avère excessivement coûteux;
 
-3. les conditions naturelles ne permettent pas de réaliser les améliorations de l’état des masses d’eau dans les délais prévus;
+  - les conditions naturelles ne permettent pas de réaliser les améliorations de l’état des masses d’eau dans les délais prévus;
 
-2. le report de l’échéance et les motifs de ce report sont explicitement repris dans le plan de gestion de district hydrographique prévu à l’article 52;
+- le report de l’échéance et les motifs de ce report sont explicitement repris dans le plan de gestion de district hydrographique prévu à l’article 52;
 
-3. le report de l’échéance est limité à un maximum de deux nouvelles mises à jour du plan de gestion de district hydrographique, sauf dans les cas où les conditions naturelles sont telles que les objectifs environnementaux ne peuvent être réalisés dans ce délai;
+- le report de l’échéance est limité à un maximum de deux nouvelles mises à jour du plan de gestion de district hydrographique, sauf dans les cas où les conditions naturelles sont telles que les objectifs environnementaux ne peuvent être réalisés dans ce délai;
 
-4. un résumé des mesures prévues à l’article 28 et jugées nécessaires pour établir l’état requis des masses d’eau endéans le délai reporté, le calendrier prévu pour leur mise en œuvre et les motifs de tout retard important dans la mise en œuvre de ces mesures sont indiqués dans le plan de gestion de district hydrographique et un état de la mise en œuvre de ces mesures, ensemble avec un résumé de toute mesure additionnelle, sont inclus dans les mises à jour du plan de gestion de district hydrographique.
+- un résumé des mesures prévues à l’article 28 et jugées nécessaires pour établir l’état requis des masses d’eau endéans le délai reporté, le calendrier prévu pour leur mise en œuvre et les motifs de tout retard important dans la mise en œuvre de ces mesures sont indiqués dans le plan de gestion de district hydrographique et un état de la mise en œuvre de ces mesures, ensemble avec un résumé de toute mesure additionnelle, sont inclus dans les mises à jour du plan de gestion de district hydrographique.
 
 (2)
 
@@ -336,15 +336,15 @@ Le plan de gestion de district hydrographique prévu à l’article 52 peut pré
 
 En vue de l’application d’objectifs dérogatoires aux dispositions des articles 5 à 7, les conditions suivantes doivent être réunies:
 
-1. les besoins environnementaux et sociaux auxquels répond cette activité humaine ne peuvent pas être assurés par d’autres moyens qui constitueraient une option environnementale meilleure et dont le coût ne serait pas disproportionné;
+- les besoins environnementaux et sociaux auxquels répond cette activité humaine ne peuvent pas être assurés par d’autres moyens qui constitueraient une option environnementale meilleure et dont le coût ne serait pas disproportionné;
 
-2. toutes les mesures sont prises pour que
+- toutes les mesures sont prises pour que
 
-- les eaux de surface présentent un état écologique et chimique optimal compte tenu des incidences qui n’auraient raisonnablement pas pu être évitées à cause de la nature de l’activité humaine ou de la pollution;
+  - les eaux de surface présentent un état écologique et chimique optimal compte tenu des incidences qui n’auraient raisonnablement pas pu être évitées à cause de la nature de l’activité humaine ou de la pollution;
 
-- les eaux souterraines présentent des modifications minimales par rapport à un bon état de ces eaux compte tenu des incidences qui n’auraient raisonnablement pas pu être évitées à cause de la nature de l’activité humaine ou de la pollution;
+  - les eaux souterraines présentent des modifications minimales par rapport à un bon état de ces eaux compte tenu des incidences qui n’auraient raisonnablement pas pu être évitées à cause de la nature de l’activité humaine ou de la pollution;
 
-3. aucune autre détérioration de l’état des masses d’eau concernées ne se produit.
+- aucune autre détérioration de l’état des masses d’eau concernées ne se produit.
 
 (2)
 
@@ -363,15 +363,15 @@ Cette détérioration temporaire soit résulte de circonstances dues à des caus
 
 En outre, les conditions suivantes doivent être réunies:
 
-1. toutes les dispositions faisables sont prises pour prévenir toute nouvelle dégradation de l’état de masse d’eau en question et pour ne pas compromettre la réalisation des objectifs prévus aux articles 5 à 7 dans d’autres masses d’eau non touchées par ces circonstances;
+- toutes les dispositions faisables sont prises pour prévenir toute nouvelle dégradation de l’état de masse d’eau en question et pour ne pas compromettre la réalisation des objectifs prévus aux articles 5 à 7 dans d’autres masses d’eau non touchées par ces circonstances;
 
-2. les conditions dans lesquelles de telles circonstances exceptionnelles ou non raisonnablement prévisibles peuvent être déclarées, y compris l’adoption des indicateurs appropriés, sont indiquées dans le plan de gestion du district hydrographique;
+- les conditions dans lesquelles de telles circonstances exceptionnelles ou non raisonnablement prévisibles peuvent être déclarées, y compris l’adoption des indicateurs appropriés, sont indiquées dans le plan de gestion du district hydrographique;
 
-3. les mesures à prendre dans de telles circonstances exceptionnelles sont indiquées dans les programmes de mesures prévus à l’article 28 et ne compromettent pas le rétablissement de la qualité de la masse d’eau une fois que les circonstances seront passées;
+- les mesures à prendre dans de telles circonstances exceptionnelles sont indiquées dans les programmes de mesures prévus à l’article 28 et ne compromettent pas le rétablissement de la qualité de la masse d’eau une fois que les circonstances seront passées;
 
-4. les effets des circonstances exceptionnelles ou qui n’ont raisonnablement pas pu être prévues sont revus chaque année et, sous réserve des raisons énoncées à l’article 8, paragraphe 1 er , point a), toutes les mesures faisables sont prises pour restaurer, dans les meilleurs délais raisonnablement possibles, la masse d’eau dans l’état qui était le sien avant les effets de ces circonstances, et
+- les effets des circonstances exceptionnelles ou qui n’ont raisonnablement pas pu être prévues sont revus chaque année et, sous réserve des raisons énoncées à l’article 8, paragraphe 1 er , point a), toutes les mesures faisables sont prises pour restaurer, dans les meilleurs délais raisonnablement possibles, la masse d’eau dans l’état qui était le sien avant les effets de ces circonstances, et
 
-5. un résumé des effets des circonstances et des mesures prises ou à prendre conformément aux points a) et d) est inclus dans la prochaine mise à jour du plan de gestion du district hydrographique concerné.
+- un résumé des effets des circonstances et des mesures prises ou à prendre conformément aux points a) et d) est inclus dans la prochaine mise à jour du plan de gestion du district hydrographique concerné.
 
 (2)
 
@@ -381,26 +381,26 @@ Ne sont pas contraires aux dispositions des articles 5 à 7
 
 - l’échec des mesures visant à prévenir la détérioration d’un «très bon état» vers un «bon état» de l’eau de surface, lorsque cet échec résulte de nouvelles activités de développement humain durable, sous réserve que les conditions suivantes soient réunies:
 
-1. toutes les dispositions faisables sont prises pour atténuer l’incidence négative sur l’état de la masse d’eau;
+  - toutes les dispositions faisables sont prises pour atténuer l’incidence négative sur l’état de la masse d’eau;
 
-2. les raisons des modifications ou des altérations sont explicitement indiquées et motivées dans le plan de gestion de district hydrographique requis au titre de l’article 52 et les objectifs sont revus tous les six ans;
+  - les raisons des modifications ou des altérations sont explicitement indiquées et motivées dans le plan de gestion de district hydrographique requis au titre de l’article 52 et les objectifs sont revus tous les six ans;
 
-3. ces modifications ou ces altérations répondent à un intérêt général majeur ou les bénéfices pour l’environnement et la société qui sont liés à la réalisation des objectifs énoncés aux articles 5 à 7 sont inférieurs aux bénéfices pour la santé humaine, le maintien de la sécurité pour les personnes ou le développement durable qui résultent des nouvelles modifications ou altérations, et
+  - ces modifications ou ces altérations répondent à un intérêt général majeur ou les bénéfices pour l’environnement et la société qui sont liés à la réalisation des objectifs énoncés aux articles 5 à 7 sont inférieurs aux bénéfices pour la santé humaine, le maintien de la sécurité pour les personnes ou le développement durable qui résultent des nouvelles modifications ou altérations, et
 
-4. les objectifs bénéfiques poursuivis par ces modifications ou ces altérations de la masse d’eau ne peuvent, pour des raisons de faisabilité technique ou de coûts disproportionnés, être atteints par d’autres moyens qui constituent une option environnementale sensiblement meilleure.
+  - les objectifs bénéfiques poursuivis par ces modifications ou ces altérations de la masse d’eau ne peuvent, pour des raisons de faisabilité technique ou de coûts disproportionnés, être atteints par d’autres moyens qui constituent une option environnementale sensiblement meilleure.
 
 <a id="art-10bis"></a>
 ## Art. 10bis.
 
 Le ministre peut autoriser de nouvelles modifications des caractéristiques physiques d’une masse d’eau de surface ou de changement du niveau des masses d’eau souterraines ou de nouvelles activités de développement humain durable, qui affectent le rétablissement du bon état d’une eau souterraine, du bon état écologique ou, le cas échéant, du bon potentiel écologique ou n’empêchent pas la détérioration de l’état d’une masse d’eau de surface ou d’eau souterraine conformément aux dispositions des articles 5 et 6 si les conditions suivantes sont réunies :
 
-1. toutes les mesures pratiques sont prises pour atténuer l’incidence négative sur l’état de la masse d’eau ;
+- toutes les mesures pratiques sont prises pour atténuer l’incidence négative sur l’état de la masse d’eau ;
 
-2. les raisons des modifications ou des altérations sont explicitement indiquées et motivées dans le plan de gestion de district hydrographique requis aux termes de l’article 52 et les objectifs sont revus tous les six ans ;
+- les raisons des modifications ou des altérations sont explicitement indiquées et motivées dans le plan de gestion de district hydrographique requis aux termes de l’article 52 et les objectifs sont revus tous les six ans ;
 
-3. ces modifications ou ces altérations répondent à un intérêt général majeur ou les bénéfices pour l’environnement et la société, qui sont liés à la réalisation des objectifs énoncés dans les articles 5 et 6, sont inférieurs aux bénéfices pour la santé humaine, le maintien de la sécurité pour les personnes ou le développement durable qui résultent des nouvelles modifications ou altérations, et
+- ces modifications ou ces altérations répondent à un intérêt général majeur ou les bénéfices pour l’environnement et la société, qui sont liés à la réalisation des objectifs énoncés dans les articles 5 et 6, sont inférieurs aux bénéfices pour la santé humaine, le maintien de la sécurité pour les personnes ou le développement durable qui résultent des nouvelles modifications ou altérations, et
 
-4. les objectifs bénéfiques poursuivis par ces modifications ou ces altérations de la masse d’eau ne peuvent, pour des raisons de faisabilité technique ou de coûts disproportionnés, être atteints par d’autres moyens qui constituent une option environnementale sensiblement meilleure.
+- les objectifs bénéfiques poursuivis par ces modifications ou ces altérations de la masse d’eau ne peuvent, pour des raisons de faisabilité technique ou de coûts disproportionnés, être atteints par d’autres moyens qui constituent une option environnementale sensiblement meilleure.
 
 Les nouvelles modifications des caractéristiques physiques d’une masse d’eau de surface ou de changement du niveau des masses d’eau souterraines ou de nouvelles activités de développement humain durable ne doivent pas empêcher ou compromettre les objectifs, visés aux articles 5 et 6, dans d’autres masses d’eau du même district hydrographique et doivent être cohérentes avec la mise en œuvre d’autres dispositions législatives applicables en la matière.
 
@@ -438,13 +438,13 @@ Ces coûts sont mis à la charge des utilisateurs au moyen d’une redevance eau
 
 Les schémas de tarification distinguent quatre secteurs :
 
-1. le secteur des ménages dont relèvent les personnes physiques, les institutions publiques et les entreprises qui ne font partie ni du secteur industriel, ni du secteur agricole, ni du secteur Horeca, ni du secteur des campings ;
+- le secteur des ménages dont relèvent les personnes physiques, les institutions publiques et les entreprises qui ne font partie ni du secteur industriel, ni du secteur agricole, ni du secteur Horeca, ni du secteur des campings ;
 
-2. le secteur industriel dont relèvent les entreprises dont la consommation d’eau excède un des seuils suivants: 8.000 mètres cube par an, 50 mètres cube par jour ou 10 mètres cube par heure, ou dont la charge polluante excède 300 équivalents habitants moyens ;
+- le secteur industriel dont relèvent les entreprises dont la consommation d’eau excède un des seuils suivants: 8.000 mètres cube par an, 50 mètres cube par jour ou 10 mètres cube par heure, ou dont la charge polluante excède 300 équivalents habitants moyens ;
 
-3. le secteur agricole dont relève l’activité des agriculteurs, viticulteurs, éleveurs, arboriculteurs, horticulteurs, pépiniéristes, jardiniers, maraîchers, pisciculteurs, sylviculteurs et apiculteurs ; et
+- le secteur agricole dont relève l’activité des agriculteurs, viticulteurs, éleveurs, arboriculteurs, horticulteurs, pépiniéristes, jardiniers, maraîchers, pisciculteurs, sylviculteurs et apiculteurs ; et
 
-4. le secteur Horeca dont relèvent les hôteliers, restaurateurs et cafetiers et le secteur des campings.
+- le secteur Horeca dont relèvent les hôteliers, restaurateurs et cafetiers et le secteur des campings.
 
 (4)
 
@@ -463,13 +463,13 @@ La redevance est assise sur l’eau destinée à la consommation humaine fournie
 
 Les règles relatives à la redevance sont établies par un règlement communal en tenant compte des principes suivants:
 
-1. La redevance couvre l’ensemble des charges liées à la conception, la construction, l’exploitation, l’entretien et la maintenance des infrastructures nécessaires à la fourniture d’eau, y compris les amortissements de ces infrastructures, à l’exception des charges visées par l’article 24 (1) alinéas 1 à 4 de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain. Ces charges sont déterminées par l’analyse économique effectuée conformément à l’article 33.
+- La redevance couvre l’ensemble des charges liées à la conception, la construction, l’exploitation, l’entretien et la maintenance des infrastructures nécessaires à la fourniture d’eau, y compris les amortissements de ces infrastructures, à l’exception des charges visées par l’article 24 (1) alinéas 1 à 4 de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain. Ces charges sont déterminées par l’analyse économique effectuée conformément à l’article 33.
 
-2. La redevance se compose d’une partie fixe annuelle par compteur et d’une partie variable, fonction de la consommation annuelle, calculées selon la structure suivante:
+- La redevance se compose d’une partie fixe annuelle par compteur et d’une partie variable, fonction de la consommation annuelle, calculées selon la structure suivante:
 
-- La partie fixe est proportionnelle au diamètre du compteur en distinguant les quatre secteurs définis à l’article 12.
+  - La partie fixe est proportionnelle au diamètre du compteur en distinguant les quatre secteurs définis à l’article 12.
 
-- La partie variable est proportionnelle à la consommation annuelle.
+  - La partie variable est proportionnelle à la consommation annuelle.
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -484,13 +484,13 @@ La redevance est assise sur l’eau destinée à la consommation humaine ayant f
 
 Les règles relatives à la redevance sont établies par un règlement communal en tenant compte des principes suivants:
 
-1. La redevance couvre l’ensemble des charges liées à la conception, la construction, l’exploitation, l’entretien et la maintenance des infrastructures nécessaires à l’assainissement des eaux usées, y compris les amortissements de ces infrastructures, à l’exception des charges visées par l’article 24 (1) alinéas 1 à 4 de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain. Sont toutefois exceptées les charges liées au déversement des eaux de ruissellement issues de la voirie publique. Ces charges sont déterminées par l’analyse économique effectuée conformément à l’article 33.
+- La redevance couvre l’ensemble des charges liées à la conception, la construction, l’exploitation, l’entretien et la maintenance des infrastructures nécessaires à l’assainissement des eaux usées, y compris les amortissements de ces infrastructures, à l’exception des charges visées par l’article 24 (1) alinéas 1 à 4 de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain. Sont toutefois exceptées les charges liées au déversement des eaux de ruissellement issues de la voirie publique. Ces charges sont déterminées par l’analyse économique effectuée conformément à l’article 33.
 
-2. La redevance se compose d’une partie fixe annuelle par compteur et d’une partie variable, fonction de la consommation annuelle, calculées selon la structure suivante:
+- La redevance se compose d’une partie fixe annuelle par compteur et d’une partie variable, fonction de la consommation annuelle, calculées selon la structure suivante:
 
-- La partie fixe est proportionnelle au nombre d’équivalents habitants moyens, en distinguant les quatre secteurs définis à l’article 12.
+  - La partie fixe est proportionnelle au nombre d’équivalents habitants moyens, en distinguant les quatre secteurs définis à l’article 12.
 
-- La partie variable est proportionnelle au volume d’eau provenant de la distribution publique prélevée par l’utilisateur ou déterminée à l’aide d’un dispositif de comptage, dans les cas où un tel dispositif a été mis en place par l’utilisateur.
+  - La partie variable est proportionnelle au volume d’eau provenant de la distribution publique prélevée par l’utilisateur ou déterminée à l’aide d’un dispositif de comptage, dans les cas où un tel dispositif a été mis en place par l’utilisateur.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -677,11 +677,11 @@ La ligne de partage entre les deux districts hydrographiques est définie par la
 
 L’Administration de la gestion de l’eau établit, pour chacune des parties des districts hydrographiques visées à l’article 18, un état des lieux comprenant:
 
-1. une analyse de leurs caractéristiques;
+- une analyse de leurs caractéristiques;
 
-2. une étude des incidences de l’activité humaine sur l’état des eaux de surface et des eaux souterraines;
+- une étude des incidences de l’activité humaine sur l’état des eaux de surface et des eaux souterraines;
 
-3. une analyse économique de l’utilisation de l’eau conformément aux dispositions de l’article 33.
+- une analyse économique de l’utilisation de l’eau conformément aux dispositions de l’article 33.
 
 (2)
 
@@ -696,11 +696,11 @@ Zones protégées
 
 L’Administration de la gestion de l’eau établit et tient un registre des zones protégées qui comprend les types suivants de zones protégées:
 
-1. les zones désignées pour le captage d’eau destinée à la consommation humaine conformément aux dispositions de l’article 44, ainsi que les réserves d’eau d’intérêt national au titre de l’article 45;
+- les zones désignées pour le captage d’eau destinée à la consommation humaine conformément aux dispositions de l’article 44, ainsi que les réserves d’eau d’intérêt national au titre de l’article 45;
 
-2. les zones désignées pour la protection des espèces aquatiques importantes du point de vue économique;
+- les zones désignées pour la protection des espèces aquatiques importantes du point de vue économique;
 
-3. les masses d’eau désignées eaux de plaisance, y compris les zones désignées eaux de baignade.
+- les masses d’eau désignées eaux de plaisance, y compris les zones désignées eaux de baignade.
 
 (2)
 
@@ -743,13 +743,13 @@ L’Administration de la gestion de l’eau établit des programmes de surveilla
 
 Les programmes de surveillance portent notamment sur les paramètres hydrologiques, hydromorphologiques, physiques, chimiques, biologiques ou sur tous autres indicateurs pertinents pour la caractérisation:
 
-1. dans le cas des eaux de surface, de l’état ou du potentiel écologique, de l’état chimique et de l’état quantitatif;
+- dans le cas des eaux de surface, de l’état ou du potentiel écologique, de l’état chimique et de l’état quantitatif;
 
-2. dans le cas des eaux souterraines, de l’état chimique et de l’état quantitatif;
+- dans le cas des eaux souterraines, de l’état chimique et de l’état quantitatif;
 
-3. dans le cas des eaux du cycle urbain, du contrôle de routine et complet;
+- dans le cas des eaux du cycle urbain, du contrôle de routine et complet;
 
-4. dans le cas particulier des masses d’eau dans lesquelles est captée de l’eau destinée à la consommation humaine et au moins pour les masses d’eau qui fournissent en moyenne plus de 100 m3 par jour, de l’état chimique tel que déterminé au point de captage.
+- dans le cas particulier des masses d’eau dans lesquelles est captée de l’eau destinée à la consommation humaine et au moins pour les masses d’eau qui fournissent en moyenne plus de 100 m3 par jour, de l’état chimique tel que déterminé au point de captage.
 
 (3)
 
@@ -766,21 +766,21 @@ Interdictions
 
 Il est interdit d’altérer les conditions physiques, chimiques ou biologiques des eaux de surface ou souterraines :
 
-1. en jetant, en déposant, ou en introduisant, directement ou indirectement, volontairement ou involontairement, dans les eaux de surface ou souterraines des substances solides, liquides ou gazeuses polluées, polluantes, ou susceptibles de polluer ; sont notamment visés :
+- en jetant, en déposant, ou en introduisant, directement ou indirectement, volontairement ou involontairement, dans les eaux de surface ou souterraines des substances solides, liquides ou gazeuses polluées, polluantes, ou susceptibles de polluer ; sont notamment visés :
 
-- l’injection de flux de dioxyde de carbone aux fins de leur stockage dans des formations géologiques que la nature a rendu de façon permanente impropres à d’autres utilisations pour autant que cette injection soit effectuée conformément à la loi du 27 août 2012 relative au stockage géologique de dioxyde de carbone ou exclu de son champ d’application en vertu de son article 2, paragraphe 1er;
+  - l’injection de flux de dioxyde de carbone aux fins de leur stockage dans des formations géologiques que la nature a rendu de façon permanente impropres à d’autres utilisations pour autant que cette injection soit effectuée conformément à la loi du 27 août 2012 relative au stockage géologique de dioxyde de carbone ou exclu de son champ d’application en vertu de son article 2, paragraphe 1er;
 
-- l’injection dans les eaux souterraines d’eau contenant des substances résultant d’opérations de prospection et d’extraction d’hydrocarbures ou d’activités minières et l’injection d’eau pour des raisons techniques, dans les strates géologiques d’où les hydrocarbures ou autres substances ont été extraits ou dans les strates géologiques que la nature rend en permanence impropres à d’autres utilisations. Ces injections ne doivent pas contenir d’autres substances que celles qui résultent des opérations de l’alinéa a) ;
+  - l’injection dans les eaux souterraines d’eau contenant des substances résultant d’opérations de prospection et d’extraction d’hydrocarbures ou d’activités minières et l’injection d’eau pour des raisons techniques, dans les strates géologiques d’où les hydrocarbures ou autres substances ont été extraits ou dans les strates géologiques que la nature rend en permanence impropres à d’autres utilisations. Ces injections ne doivent pas contenir d’autres substances que celles qui résultent des opérations de l’alinéa a) ;
 
-- l’injection dans les eaux souterraines de gaz naturel ou de gaz de pétrole liquéfié (GPL) à des fins de stockage dans des strates géologiques que la nature rend en permanence impropres à d’autres utilisations ;
+  - l’injection dans les eaux souterraines de gaz naturel ou de gaz de pétrole liquéfié (GPL) à des fins de stockage dans des strates géologiques que la nature rend en permanence impropres à d’autres utilisations ;
 
-- l’injection dans les eaux souterraines de gaz naturel ou de gaz de pétrole liquéfié (GPL) à des fins de stockage dans d’autres strates géologiques lorsqu’il existe un besoin impérieux d’assurer l’approvisionnement en gaz et que l’injection est effectuée de manière à éviter tout risque de détérioration de la qualité de toute eau souterraine réceptrice ;
+  - l’injection dans les eaux souterraines de gaz naturel ou de gaz de pétrole liquéfié (GPL) à des fins de stockage dans d’autres strates géologiques lorsqu’il existe un besoin impérieux d’assurer l’approvisionnement en gaz et que l’injection est effectuée de manière à éviter tout risque de détérioration de la qualité de toute eau souterraine réceptrice ;
 
-2. en prélevant directement ou indirectement de l’eau ainsi que des substances solides ou gazeuses dans les eaux de surface ou souterraines ;
+- en prélevant directement ou indirectement de l’eau ainsi que des substances solides ou gazeuses dans les eaux de surface ou souterraines ;
 
-3. en modifiant les caractéristiques intrinsèques des eaux de surface et souterraines par des agents physiques ;
+- en modifiant les caractéristiques intrinsèques des eaux de surface et souterraines par des agents physiques ;
 
-4. en modifiant le régime hydrologique des eaux de surface de manière à compromettre le débit écologique.
+- en modifiant le régime hydrologique des eaux de surface de manière à compromettre le débit écologique.
 
 <a id="art-23"></a>
 ## Art. 23.
@@ -791,71 +791,71 @@ Autorisations
 
 Sont soumis à autorisation par le ministre:
 
-1. le prélèvement d’eau dans les eaux de surface et souterraines;
+- le prélèvement d’eau dans les eaux de surface et souterraines;
 
-2. le prélèvement de substances solides ou gazeuses dans les eaux de surface et souterraines;
+- le prélèvement de substances solides ou gazeuses dans les eaux de surface et souterraines;
 
-3. le déversement direct ou indirect d’eau de quelque nature que ce soit dans les eaux de surface ou dans les eaux souterraines, y compris la recharge ou l’augmentation artificielle de l’eau souterraine;
+- le déversement direct ou indirect d’eau de quelque nature que ce soit dans les eaux de surface ou dans les eaux souterraines, y compris la recharge ou l’augmentation artificielle de l’eau souterraine;
 
-4. le déversement direct ou indirect de substances solides ou gazeuses ainsi que de liquides autres que l’eau visée au point c) dans les eaux de surface et les eaux souterraines;
+- le déversement direct ou indirect de substances solides ou gazeuses ainsi que de liquides autres que l’eau visée au point c) dans les eaux de surface et les eaux souterraines;
 
-5. tous travaux, aménagements, ouvrages et installations dans les zones riveraines visées à l’article 26, paragraphe (3) ou dans les zones inondables visées aux articles 38 et 39;
+- tous travaux, aménagements, ouvrages et installations dans les zones riveraines visées à l’article 26, paragraphe (3) ou dans les zones inondables visées aux articles 38 et 39;
 
-6. toutes mesures ayant une influence sur l’infiltration naturelle et toutes mesures de collecte des eaux de ruissellement dans les zones soumises à l’élaboration d’un plan d’aménagement particulier «nouveau quartier» conformément aux dispositions de la loi modifiée du 19 juillet 2004 précité,
+- toutes mesures ayant une influence sur l’infiltration naturelle et toutes mesures de collecte des eaux de ruissellement dans les zones soumises à l’élaboration d’un plan d’aménagement particulier «nouveau quartier» conformément aux dispositions de la loi modifiée du 19 juillet 2004 précité,
 
-7. toute infrastructure d’assainissement dans les zones soumises à l’élaboration d’un plan d’aménagement particulier «nouveau quartier» conformément aux dispositions de la loi modifiée du 19 juillet 2004 précité,
+- toute infrastructure d’assainissement dans les zones soumises à l’élaboration d’un plan d’aménagement particulier «nouveau quartier» conformément aux dispositions de la loi modifiée du 19 juillet 2004 précité,
 
-8. toute infrastructure de captage d’eau, de traitement ou de potabilisation d’eau et de stockage d’eau destinée à la consommation humaine;
+- toute infrastructure de captage d’eau, de traitement ou de potabilisation d’eau et de stockage d’eau destinée à la consommation humaine;
 
-9. l’aménagement et l’exploitation de carrières, de mines et de minières;
+- l’aménagement et l’exploitation de carrières, de mines et de minières;
 
-10. la dénudation des rives de leur végétation et notamment l’arrachage des arbres, arbustes et buissons;
+- la dénudation des rives de leur végétation et notamment l’arrachage des arbres, arbustes et buissons;
 
-11. les dérivations, les captages, la modification des berges, le redressement du lit des eaux de surface et plus généralement tous les travaux susceptibles soit de modifier le régime ou le mode d’écoulement des eaux, soit d’avoir une influence préjudiciable sur la faune et la flore aquatiques, à l’exception des travaux d’entretien de faible envergure ou d’urgence;
+- les dérivations, les captages, la modification des berges, le redressement du lit des eaux de surface et plus généralement tous les travaux susceptibles soit de modifier le régime ou le mode d’écoulement des eaux, soit d’avoir une influence préjudiciable sur la faune et la flore aquatiques, à l’exception des travaux d’entretien de faible envergure ou d’urgence;
 
-12. la soustraction d’énergie thermique à partir des eaux de surface et souterraines;
+- la soustraction d’énergie thermique à partir des eaux de surface et souterraines;
 
-13. le rejet d’énergie thermique vers les eaux de surface et souterraines;
+- le rejet d’énergie thermique vers les eaux de surface et souterraines;
 
-14. toute création d’une communication directe entre les eaux de surface et les eaux souterraines augmentant le potentiel de pollution des eaux souterraines, notamment les forages, ainsi qu’entre deux ou plusieurs niveaux distincts d’eau souterraine de nature à augmenter le potentiel de pollution des eaux souterraines ;
+- toute création d’une communication directe entre les eaux de surface et les eaux souterraines augmentant le potentiel de pollution des eaux souterraines, notamment les forages, ainsi qu’entre deux ou plusieurs niveaux distincts d’eau souterraine de nature à augmenter le potentiel de pollution des eaux souterraines ;
 
-15. toute modification d’une communication entre les eaux de surface et les eaux souterraines, notamment la mise en étanchéité d’un lit de cours d’eau;
+- toute modification d’une communication entre les eaux de surface et les eaux souterraines, notamment la mise en étanchéité d’un lit de cours d’eau;
 
-16. les installations, ouvrages, dépôts, travaux ou activités à l’intérieur des zones de protection conformément aux dispositions de l’article 44 et à l’intérieur des réserves d’eau d’intérêt national au titre de l’article 45.
+- les installations, ouvrages, dépôts, travaux ou activités à l’intérieur des zones de protection conformément aux dispositions de l’article 44 et à l’intérieur des réserves d’eau d’intérêt national au titre de l’article 45.
 
-17. la réinjection dans les eaux souterraines d’eau extraite des mines et des carrières ou d’eau liée à la construction ou à l’entretien de travaux d’ingénierie civile ;
+- la réinjection dans les eaux souterraines d’eau extraite des mines et des carrières ou d’eau liée à la construction ou à l’entretien de travaux d’ingénierie civile ;
 
-18. la construction, le génie civil et les travaux publics et activités similaires sur ou dans le sol qui entrent en contact avec l’eau souterraine;
+- la construction, le génie civil et les travaux publics et activités similaires sur ou dans le sol qui entrent en contact avec l’eau souterraine;
 
-19. les rejets dans les eaux souterraines de faibles quantités de polluants à des fins scientifiques pour la caractérisation, la protection ou la restauration des masses d’eau;
+- les rejets dans les eaux souterraines de faibles quantités de polluants à des fins scientifiques pour la caractérisation, la protection ou la restauration des masses d’eau;
 
-20. les installations et ouvrages modifiant le régime hydrologique des eaux de surface, notamment ceux destinés à la production d’énergie d’origine hydroélectrique.
+- les installations et ouvrages modifiant le régime hydrologique des eaux de surface, notamment ceux destinés à la production d’énergie d’origine hydroélectrique.
 
 (2)
 
 L’autorisation
 
-1. fixe les conditions concernant l’aménagement, l’exécution, la réalisation ou l’exploitation des installations, ouvrages, travaux ou activités faisant l’objet de la demande d’autorisation;
+- fixe les conditions concernant l’aménagement, l’exécution, la réalisation ou l’exploitation des installations, ouvrages, travaux ou activités faisant l’objet de la demande d’autorisation;
 
-2. détermine la durée de validité de l’autorisation;
+- détermine la durée de validité de l’autorisation;
 
-3. définit les modalités et fréquences du contrôle du respect des conditions susmentionnées;
+- définit les modalités et fréquences du contrôle du respect des conditions susmentionnées;
 
-4. tient compte des prescriptions des dispositions de l’article 27.
+- tient compte des prescriptions des dispositions de l’article 27.
 
-5. pour les établissements soumis à évaluation des incidences sur l’environnement au titre de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement, contient la conclusion motivée y prévue et indique, après examen des préoccupations et des avis exprimés par le public, les raisons et considérations sur lesquelles la décision est fondée, y compris l’information concernant le processus de participation du public. Les autorisations prennent dûment en compte les résultats des consultations et les informations recueillies en vertu des articles 6 à 9 de la loi précitée . Ces informations comprennent également le résumé des résultats des consultations et des informations recueillies conformément aux articles 6 à 8 de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement et de la façon dont ces résultats ont été repris ou pris en compte par ailleurs, en particulier les commentaires reçus de l’État membre affecté visés à l’article 9 de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement. Toute décision d’autorisation reprend les mesures pour éviter, prévenir ou réduire et, si possible, compenser des incidences négatives notables sur l’environnement, ainsi que, le cas échéant des mesures de suivi. Les types de paramètres devant faire l’objet d’un suivi et la durée du suivi sont proportionnés à la nature, à la localisation et à la dimension du projet et à l’importance de ses incidences sur l’environnement. Le cas échéant, ces informations comprennent également les commentaires reçus des États membres affectés dont question à l’article 9 de la loi précitée en tenant compte des dispositions de l’article 4.
+- pour les établissements soumis à évaluation des incidences sur l’environnement au titre de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement, contient la conclusion motivée y prévue et indique, après examen des préoccupations et des avis exprimés par le public, les raisons et considérations sur lesquelles la décision est fondée, y compris l’information concernant le processus de participation du public. Les autorisations prennent dûment en compte les résultats des consultations et les informations recueillies en vertu des articles 6 à 9 de la loi précitée . Ces informations comprennent également le résumé des résultats des consultations et des informations recueillies conformément aux articles 6 à 8 de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement et de la façon dont ces résultats ont été repris ou pris en compte par ailleurs, en particulier les commentaires reçus de l’État membre affecté visés à l’article 9 de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement. Toute décision d’autorisation reprend les mesures pour éviter, prévenir ou réduire et, si possible, compenser des incidences négatives notables sur l’environnement, ainsi que, le cas échéant des mesures de suivi. Les types de paramètres devant faire l’objet d’un suivi et la durée du suivi sont proportionnés à la nature, à la localisation et à la dimension du projet et à l’importance de ses incidences sur l’environnement. Le cas échéant, ces informations comprennent également les commentaires reçus des États membres affectés dont question à l’article 9 de la loi précitée en tenant compte des dispositions de l’article 4.
 
 (3)
 
 L’autorisation devient caduque lorsque les installations, ouvrages, travaux ou activités autorisés
 
-1. n’ont pas été commencés, achevés ou mis en service dans un délai de deux ans;
+- n’ont pas été commencés, achevés ou mis en service dans un délai de deux ans;
 
-2. ont chômé pendant deux années consécutives;
+- ont chômé pendant deux années consécutives;
 
-3. ont été détruits ou mis hors d’usage par un accident quelconque ou
+- ont été détruits ou mis hors d’usage par un accident quelconque ou
 
-4. ont été déplacés ou ont subi une transformation ou extension.
+- ont été déplacés ou ont subi une transformation ou extension.
 
 (4)
 
@@ -865,13 +865,13 @@ L’autorisation peut être modifiée et renouvelée dans les conditions et selo
 
 En cas d’inobservation des dispositions de l’article 22 ou des conditions des autorisations délivrées au titre du présent article, le ministre peut:
 
-1. impartir à l’exploitant d’un établissement un délai dans lequel ce dernier doit se conformer à ces dispositions;
+- impartir à l’exploitant d’un établissement un délai dans lequel ce dernier doit se conformer à ces dispositions;
 
-2. faire suspendre, après mise en demeure, en tout ou en partie l’installation, l’ouvrage, les travaux ou l’activité par mesure provisoire ou faire arrêter l’installation, l’ouvrage ou l’activité en tout ou en partie et apposer des scellés;
+- faire suspendre, après mise en demeure, en tout ou en partie l’installation, l’ouvrage, les travaux ou l’activité par mesure provisoire ou faire arrêter l’installation, l’ouvrage ou l’activité en tout ou en partie et apposer des scellés;
 
-3. retirer, par décision motivée, l’autorisation si l’exploitant n’en respecte pas les conditions ou s’il refuse de se soumettre aux conditions nouvelles que le ministre peut lui imposer;
+- retirer, par décision motivée, l’autorisation si l’exploitant n’en respecte pas les conditions ou s’il refuse de se soumettre aux conditions nouvelles que le ministre peut lui imposer;
 
-4. prendre par ailleurs toutes les mesures urgentes que la situation requiert, et notamment ordonner la fermeture de l’installation, interdire l’utilisation d’appareils et de dispositifs ou prescrire la suspension de l’activité susceptibles d’être à l’origine de la pollution imminente ou consommée, d’effets négatifs sur l’état des eaux, sur leur régime ou sur la capacité de rétention des zones inondables.
+- prendre par ailleurs toutes les mesures urgentes que la situation requiert, et notamment ordonner la fermeture de l’installation, interdire l’utilisation d’appareils et de dispositifs ou prescrire la suspension de l’activité susceptibles d’être à l’origine de la pollution imminente ou consommée, d’effets négatifs sur l’état des eaux, sur leur régime ou sur la capacité de rétention des zones inondables.
 
 (6)
 
@@ -942,19 +942,19 @@ Des règlements grand-ducaux définissent des prescriptions générales de natur
 
 Ces règlements grand-ducaux peuvent déterminer, sous forme de restrictions, de limitations ou d’interdictions, des conditions générales, fondées, selon la nature des pressions et sources diffuses, sur les meilleures pratiques environnementales, et applicables à:
 
-1. l’aménagement ou à l’exploitation d’installations ou d’ouvrages respectivement à l’exécution de travaux ou d’activités, y compris les prélèvements ou déversements d’eau et les rejets de polluants, de faible envergure individuelle mais d’un usage suffisamment fréquent et répandu que, par effet cumulatif, ils peuvent avoir une incidence défavorable sur l’état des eaux touchées;
+- l’aménagement ou à l’exploitation d’installations ou d’ouvrages respectivement à l’exécution de travaux ou d’activités, y compris les prélèvements ou déversements d’eau et les rejets de polluants, de faible envergure individuelle mais d’un usage suffisamment fréquent et répandu que, par effet cumulatif, ils peuvent avoir une incidence défavorable sur l’état des eaux touchées;
 
-2. l’utilisation du sol, aménagé ou non, occasionnant la production respectivement impliquant la mise en œuvre de produits ou de substances de nature et en des quantités telles que ces produits ou substances sont, ou sont susceptibles d’être, entraînés par lessivage ou infiltration dans les eaux et de provoquer une détérioration de l’état des masses d’eau touchées;
+- l’utilisation du sol, aménagé ou non, occasionnant la production respectivement impliquant la mise en œuvre de produits ou de substances de nature et en des quantités telles que ces produits ou substances sont, ou sont susceptibles d’être, entraînés par lessivage ou infiltration dans les eaux et de provoquer une détérioration de l’état des masses d’eau touchées;
 
-3. la fabrication, la mise sur le marché et l’emploi de produits qui, selon leur mode d’utilisation, peuvent entrer le cycle urbain de l’eau ou parvenir directement dans une eau de surface ou une eau souterraine et qui sont susceptibles, soit de nuire au fonctionnement et à l’exploitation des installations d’assainissement ou de traitement, soit de polluer, directement ou indirectement, les eaux de surface ou les eaux souterraines.
+- la fabrication, la mise sur le marché et l’emploi de produits qui, selon leur mode d’utilisation, peuvent entrer le cycle urbain de l’eau ou parvenir directement dans une eau de surface ou une eau souterraine et qui sont susceptibles, soit de nuire au fonctionnement et à l’exploitation des installations d’assainissement ou de traitement, soit de polluer, directement ou indirectement, les eaux de surface ou les eaux souterraines.
 
 (3)
 
 Lorsque l’utilisation du sol visée au paragraphe 2, lettre b), se rapporte à l’agriculture, y compris l’utilisation ou l’épandage de fertilisants organiques, d’engrais minéraux, de produits phytopharmaceutiques ou de tout autre produit lié à l’agriculture et pouvant être considéré comme un polluant ou précurseur d’un polluant, les prescriptions générales visées au paragraphe 1 er peuvent prévoir :
 
-1. la limitation ou l’interdiction de l’application de ces produits ou substances ou ;
+- la limitation ou l’interdiction de l’application de ces produits ou substances ou ;
 
-2. dans le cas des eaux de surface, la détermination de zones riveraines de protection dans lesquelles la mise en œuvre des produits ou substances susmentionnés peut être soumise à des limitations ou interdictions particulières, ou dans lesquelles certaines pratiques agricoles peuvent être prescrites, limitées ou interdites si cela est nécessaire pour la réalisation des objectifs environnementaux visés à l’article 6 dans les masses d’eau touchées ou susceptibles d’être touchées.
+- dans le cas des eaux de surface, la détermination de zones riveraines de protection dans lesquelles la mise en œuvre des produits ou substances susmentionnés peut être soumise à des limitations ou interdictions particulières, ou dans lesquelles certaines pratiques agricoles peuvent être prescrites, limitées ou interdites si cela est nécessaire pour la réalisation des objectifs environnementaux visés à l’article 6 dans les masses d’eau touchées ou susceptibles d’être touchées.
 
 ##### Section 3. Approche combinée pour les sources ponctuelles et diffuses
 
@@ -1096,9 +1096,9 @@ Instruments supplémentaires pour la maîtrise de la pollution des eaux par des 
 
 Les programmes de mesures visées à l’article 28 arrêtent dans les délais et selon les conditions prescrits par la législation communautaire pertinente, des mesures supplémentaires particulières pour
 
-1. la réduction progressive des rejets, des émissions et des pertes de substances prioritaires tels que définis par la législation nationale ou communautaire pertinente et
+- la réduction progressive des rejets, des émissions et des pertes de substances prioritaires tels que définis par la législation nationale ou communautaire pertinente et
 
-2. l’arrêt ou la suppression progressive des rejets, des émissions et des pertes de ces substances dangereuses prioritaires. Ces programmes définiront un calendrier adéquat pour y parvenir, ce calendrier ne pouvant pas dépasser une période de vingt ans après l’adoption de la législation communautaire susmentionnée, eu égard aux dispositions de l’article 31, pour le cas où les mesures supplémentaires particulières seraient à prendre pour des substances relevant d’autres législations que la présente loi, notamment celles concernant les produits phytosanitaires ou les biocides.
+- l’arrêt ou la suppression progressive des rejets, des émissions et des pertes de ces substances dangereuses prioritaires. Ces programmes définiront un calendrier adéquat pour y parvenir, ce calendrier ne pouvant pas dépasser une période de vingt ans après l’adoption de la législation communautaire susmentionnée, eu égard aux dispositions de l’article 31, pour le cas où les mesures supplémentaires particulières seraient à prendre pour des substances relevant d’autres législations que la présente loi, notamment celles concernant les produits phytosanitaires ou les biocides.
 
 (2)
 
@@ -1117,13 +1117,13 @@ Préservation et régénération du régime hydrologique
 
 Quiconque est, ou risque d’être, à l’origine de perturbations du régime hydrologique d’une eau de surface, est tenu de prendre les mesures préventives, correctives ou compensatoires appropriées en vue de la régénération ou de la préservation du régime de cette eau de façon telle que
 
-1. la réalisation des objectifs environnementaux visés à l’article 5 ne soit pas compromise ;
+- la réalisation des objectifs environnementaux visés à l’article 5 ne soit pas compromise ;
 
-2. les risques de débordement des eaux de surface de leurs lits en cas de crue et les dommages pour les personnes, les biens ou l’environnement, attribuables aux inondations soient réduits, eu égard aux dispositions de l’article 38 ;
+- les risques de débordement des eaux de surface de leurs lits en cas de crue et les dommages pour les personnes, les biens ou l’environnement, attribuables aux inondations soient réduits, eu égard aux dispositions de l’article 38 ;
 
-3. les mesures soient conformes respectivement aux conditions fixées dans l’autorisation délivrée sur base de l’article 23 et aux dispositions de l’article 26 ;
+- les mesures soient conformes respectivement aux conditions fixées dans l’autorisation délivrée sur base de l’article 23 et aux dispositions de l’article 26 ;
 
-4. le débit écologique soit garanti.
+- le débit écologique soit garanti.
 
 (2)
 
@@ -1146,13 +1146,13 @@ Entretien des eaux de surface
 
 L’Administration de la gestion de l’eau coordonne et surveille l’entretien des eaux de surface, en veillant à ce que soient mises en œuvre les mesures nécessaires pour prévenir la détérioration de ces eaux et des écosystèmes aquatiques dans le but, notamment,
 
-1. de maintenir l’écoulement libre des eaux, surtout par temps de hautes eaux, si ceci est nécessaire pour garantir la sécurité des biens et des personnes;
+- de maintenir l’écoulement libre des eaux, surtout par temps de hautes eaux, si ceci est nécessaire pour garantir la sécurité des biens et des personnes;
 
-2. d’assurer la bonne tenue des berges;
+- d’assurer la bonne tenue des berges;
 
-3. de réparer les dommages causés par les hautes eaux dans les lits et sur les berges des cours d’eau et sur les terrains inondés ainsi que
+- de réparer les dommages causés par les hautes eaux dans les lits et sur les berges des cours d’eau et sur les terrains inondés ainsi que
 
-4. de parer à la dégradation des lits des cours d’eau par érosion et sédimentation excessives.
+- de parer à la dégradation des lits des cours d’eau par érosion et sédimentation excessives.
 
 (2)
 
@@ -1202,11 +1202,11 @@ Programme directeur de gestion des risques d’inondation
 
 L’Administration de la gestion de l’eau, en concertation avec les communes et les administrations concernées, établit un projet de programme directeur de gestion des risques d’inondation qui comprend
 
-1. une évaluation préliminaire visant à déterminer les cours d’eau pour lesquels il existe un danger potentiel de crue à réaliser au plus tard pour le 22 décembre 2011;
+- une évaluation préliminaire visant à déterminer les cours d’eau pour lesquels il existe un danger potentiel de crue à réaliser au plus tard pour le 22 décembre 2011;
 
-2. un projet de relevé cartographique des zones inondables attenantes aux cours d’eau et des risques d’inondation à réaliser au plus tard pour le 22 décembre 2013;
+- un projet de relevé cartographique des zones inondables attenantes aux cours d’eau et des risques d’inondation à réaliser au plus tard pour le 22 décembre 2013;
 
-3. des projets de plans de gestion visant à réduire les incidences préjudiciables des inondations pour les personnes, les biens et l’environnement en tenant compte des aspects économiques et de l’incidence des changements climatiques à réaliser au plus tard pour le 22 décembre 2015.
+- des projets de plans de gestion visant à réduire les incidences préjudiciables des inondations pour les personnes, les biens et l’environnement en tenant compte des aspects économiques et de l’incidence des changements climatiques à réaliser au plus tard pour le 22 décembre 2015.
 
 L’évaluation préliminaire des risques d’inondation est réexaminée et, si nécessaire, mise à jour pour le 22 décembre 2018 au plus tard et, par la suite, tous les six ans.
 
@@ -1230,13 +1230,13 @@ Les cartes des zones inondables font partie intégrante en tant que zone superpo
 
 Le plan ou les plans de gestion visés au paragraphe 1er comprennent des mesures relatives à :
 
-1. la conservation ou l’amélioration de la structure hydromorphologique des lits des cours d’eau permettant de retarder l’écoulement des eaux en cas de crue et de contenir les hautes eaux ;
+- la conservation ou l’amélioration de la structure hydromorphologique des lits des cours d’eau permettant de retarder l’écoulement des eaux en cas de crue et de contenir les hautes eaux ;
 
-2. la prévention de l’érosion du lit des cours d’eau ou des terres inondées ;
+- la prévention de l’érosion du lit des cours d’eau ou des terres inondées ;
 
-3. la conservation, la création ou la récupération d’aires naturelles de rétention des eaux ou
+- la conservation, la création ou la récupération d’aires naturelles de rétention des eaux ou
 
-4. la régulation de l’écoulement des crues et l’endiguement des cours d’eau.
+- la régulation de l’écoulement des crues et l’endiguement des cours d’eau.
 
 Le plan ou les plans de gestion des risques d’inondation tiennent compte d’aspects pertinents tels que les coûts et avantages, l’étendue des inondations, les axes d’évacuation des eaux, les zones ayant la capacité de retenir les crues, comme les plaines d’inondation naturelles, des objectifs environnementaux visés à l’article 5 de la présente loi, la gestion des sols et des eaux, l’aménagement du territoire, l’occupation des sols, la conservation de la nature, la navigation et les infrastructures portuaires.
 
@@ -1271,13 +1271,13 @@ Conditions applicables aux installations, ouvrages, travaux ou activités dans l
 
 Sans préjudice des dispositions du paragraphe 4, il est interdit dans les zones inondables déterminées au titre de l’article 38 :
 
-1. de définir dans le cadre du plan d’aménagement général de nouvelles zones urbanisées ou destinées à être urbanisées dans lesquelles peuvent habiter des personnes ou dans lesquelles peuvent être aménagés des installations, ouvrages ou constructions diminuant le volume de rétention ou risquant de créer un dommage pour les personnes, les biens ou l’environnement ;
+- de définir dans le cadre du plan d’aménagement général de nouvelles zones urbanisées ou destinées à être urbanisées dans lesquelles peuvent habiter des personnes ou dans lesquelles peuvent être aménagés des installations, ouvrages ou constructions diminuant le volume de rétention ou risquant de créer un dommage pour les personnes, les biens ou l’environnement ;
 
-2. d’aménager ou d’agrandir des campings ;
+- d’aménager ou d’agrandir des campings ;
 
-3. d’aménager ou d’agrandir des établissements servant au séjour non permanent de personnes ;
+- d’aménager ou d’agrandir des établissements servant au séjour non permanent de personnes ;
 
-4. d’aménager ou d’agrandir des décharges de déchets ou des dépôts.
+- d’aménager ou d’agrandir des décharges de déchets ou des dépôts.
 
 (2)
 
@@ -1357,15 +1357,15 @@ Règlements communaux
 
 Des règlements communaux déterminent au plus tard deux ans après l’entrée en vigueur de la présente loi:
 
-1. les conditions à respecter par les consommateurs, et précisent notamment:
+- les conditions à respecter par les consommateurs, et précisent notamment:
 
-- les modalités de raccordement au réseau de distribution collectif;
+  - les modalités de raccordement au réseau de distribution collectif;
 
-- les mesures de précaution à prendre pour éviter des retours d’eau dans le réseau de distribution collectif à partir de l’installation privée et
+  - les mesures de précaution à prendre pour éviter des retours d’eau dans le réseau de distribution collectif à partir de l’installation privée et
 
-- les normes et règles régissant l’installation privée ainsi que l’exploitation et l’entretien de celle-ci;
+  - les normes et règles régissant l’installation privée ainsi que l’exploitation et l’entretien de celle-ci;
 
-2. les taxes et tarifs applicables au raccordement au réseau collectif de distribution d’eau, à la location des compteurs et à la fourniture d’eau.
+- les taxes et tarifs applicables au raccordement au réseau collectif de distribution d’eau, à la location des compteurs et à la fourniture d’eau.
 
 (2)
 
@@ -1392,13 +1392,13 @@ Un règlement grand-ducal arrête des mesures applicables à l’ensemble des zo
 
 Sous réserve des dispositions du paragraphe 5, les règlements grand-ducaux visés aux paragraphes 1er et 2 interdisent, réglementent ou soumettent à autorisation les ouvrages, installations, travaux ou activités qui sont susceptibles de porter atteinte à la qualité de la ressource hydrique ou à son débit exploitable. Ces servitudes visent :
 
-1. le stockage, la manipulation et l’emploi de produits et substances pouvant altérer la qualité de l’eau ;
+- le stockage, la manipulation et l’emploi de produits et substances pouvant altérer la qualité de l’eau ;
 
-2. la construction de bâtiments et de routes ;
+- la construction de bâtiments et de routes ;
 
-3. l’exercice d’activités industrielles, agricoles et commerciales, artisanales et de loisirs ;
+- l’exercice d’activités industrielles, agricoles et commerciales, artisanales et de loisirs ;
 
-4. les interventions dans le sous-sol.
+- les interventions dans le sous-sol.
 
 (4)
 
@@ -1503,15 +1503,15 @@ Règlements communaux
 
 Des règlements communaux déterminent au plus tard deux ans après l’entrée en vigueur de la présente loi:
 
-1. les conditions à respecter par les utilisateurs raccordés à l’infrastructure d’assainissement, notamment en ce qui concerne
+- les conditions à respecter par les utilisateurs raccordés à l’infrastructure d’assainissement, notamment en ce qui concerne
 
-- les modalités constructives à respecter pour la réalisation du raccordement et les exigences quant au mode de déversement des eaux résiduaires, y compris, le cas échéant, le déversement séparatif des eaux ménagères usées, des eaux industrielles usées et des eaux de ruissellement ou, pour ces dernières, leur infiltration dans le sol du fonds sur lequel elles sont produites;
+  - les modalités constructives à respecter pour la réalisation du raccordement et les exigences quant au mode de déversement des eaux résiduaires, y compris, le cas échéant, le déversement séparatif des eaux ménagères usées, des eaux industrielles usées et des eaux de ruissellement ou, pour ces dernières, leur infiltration dans le sol du fonds sur lequel elles sont produites;
 
-- le pré-traitement des eaux résiduaires si ceci est requis au titre des dispositions de l’article 46, paragraphe (3), respectivement pour protéger la santé du personnel chargé de l’entretien de l’infrastructure d’assainissement;
+  - le pré-traitement des eaux résiduaires si ceci est requis au titre des dispositions de l’article 46, paragraphe (3), respectivement pour protéger la santé du personnel chargé de l’entretien de l’infrastructure d’assainissement;
 
-- les normes et règles régissant les installations d’assainissement privées ainsi que l’exploitation et l’entretien de celles-ci;
+  - les normes et règles régissant les installations d’assainissement privées ainsi que l’exploitation et l’entretien de celles-ci;
 
-2. les taxes et tarifs applicables au raccordement au réseau collectif d’assainissement et à l’évacuation et l’épuration des eaux usées.
+- les taxes et tarifs applicables au raccordement au réseau collectif d’assainissement et à l’évacuation et l’épuration des eaux usées.
 
 (2)
 
@@ -1773,13 +1773,13 @@ Toutefois, et sans préjudice de l’article 33, paragraphe 1er du Code d’inst
 
 Dans l’exercice des attributions prévues au paragraphe 1er, les membres de la Police grand-ducale relevant du cadre policier et les fonctionnaires visés à l’article 58 sont autorisés à
 
-1. procéder ou faire procéder à des essais d’appareils ou de dispositifs susceptibles de provoquer des pollutions ou destinés à combattre celles-ci ;
+- procéder ou faire procéder à des essais d’appareils ou de dispositifs susceptibles de provoquer des pollutions ou destinés à combattre celles-ci ;
 
-2. demander à recevoir communication de tous livres, registres et fichiers relatifs à une installation ou activité au sens de la présente loi et d’en prendre copie ;
+- demander à recevoir communication de tous livres, registres et fichiers relatifs à une installation ou activité au sens de la présente loi et d’en prendre copie ;
 
-3. prélever ou à faire prélever, aux fins d’examen ou d’analyse, des échantillons de produits, matières ou substances fabriqués, utilisés, manipulés, stockés, déposés ou extraits, susceptibles d’être à l’origine d’une pollution ainsi que de l’eau destinée à la consommation humaine et de l’eau faisant l’objet ou susceptible de faire l’objet d’une pollution ou autre atteinte à son état écologique, chimique, quantitatif ou à son potentiel écologique ;
+- prélever ou à faire prélever, aux fins d’examen ou d’analyse, des échantillons de produits, matières ou substances fabriqués, utilisés, manipulés, stockés, déposés ou extraits, susceptibles d’être à l’origine d’une pollution ainsi que de l’eau destinée à la consommation humaine et de l’eau faisant l’objet ou susceptible de faire l’objet d’une pollution ou autre atteinte à son état écologique, chimique, quantitatif ou à son potentiel écologique ;
 
-4. saisir et, au besoin, à mettre sous scellés les engins, appareils, dispositifs, produits, matériaux, matières ou substances qui sont de nature à provoquer des pollutions ou qui sont mis en œuvre dans le contexte de travaux effectués en infraction à la présente loi ou à ses règlements d’exécution, ainsi que les documents les concernant.
+- saisir et, au besoin, à mettre sous scellés les engins, appareils, dispositifs, produits, matériaux, matières ou substances qui sont de nature à provoquer des pollutions ou qui sont mis en œuvre dans le contexte de travaux effectués en infraction à la présente loi ou à ses règlements d’exécution, ainsi que les documents les concernant.
 
 Une partie de l’échantillon dont question à la lettre c), cachetée ou scellée, est remise au fournisseur ou au destinataire de l’eau, de la substance, de la préparation ou de l’article qui a fait l’objet du contrôle effectué, à moins que ceux-ci n’y renoncent expressément ou que des raisons techniques ne s’y opposent.
 
@@ -1815,39 +1815,39 @@ Sanctions pénales
 
 Est puni d’une peine d’emprisonnement de huit jours à six mois et d’une amende de 251 euros à 750.000 euros ou d’une de ces peines seulement :
 
-1. quiconque, par infraction à l’article 22, altère les conditions physiques, chimiques ou biologiques des eaux de surface et souterraines ;
+- quiconque, par infraction à l’article 22, altère les conditions physiques, chimiques ou biologiques des eaux de surface et souterraines ;
 
-2. quiconque, par infraction à l’article 23, paragraphe 1 er , ne soumet pas à autorisation les installations, ouvrages, dépôts, activités et mesures y visés ;
+- quiconque, par infraction à l’article 23, paragraphe 1 er , ne soumet pas à autorisation les installations, ouvrages, dépôts, activités et mesures y visés ;
 
-3. quiconque, par infraction à l’article 23, paragraphe 3, continue à exploiter les installations et ouvrages ou mener les travaux ou activités alors que l’autorisation afférente est caduque ;
+- quiconque, par infraction à l’article 23, paragraphe 3, continue à exploiter les installations et ouvrages ou mener les travaux ou activités alors que l’autorisation afférente est caduque ;
 
-4. quiconque, par infraction à l’article 23, paragraphe 5, ne se soumet pas aux mesures y visées ;
+- quiconque, par infraction à l’article 23, paragraphe 5, ne se soumet pas aux mesures y visées ;
 
-5. quiconque, par infraction à l’article 23, paragraphe 7, ne demande pas une autorisation pour un raccordement d’immeuble au réseau public d’assainissement, alors que les eaux en provenance de cet immeuble ne sont pas produites par le métabolisme humain et les activités ménagères ;
+- quiconque, par infraction à l’article 23, paragraphe 7, ne demande pas une autorisation pour un raccordement d’immeuble au réseau public d’assainissement, alors que les eaux en provenance de cet immeuble ne sont pas produites par le métabolisme humain et les activités ménagères ;
 
-6. quiconque, par infraction à l’article 24, paragraphe 3, omet de déclarer toute cessation y visée ;
+- quiconque, par infraction à l’article 24, paragraphe 3, omet de déclarer toute cessation y visée ;
 
-7. quiconque, par infraction à l’article 26, ne respecte pas les prescriptions générales y visées ;
+- quiconque, par infraction à l’article 26, ne respecte pas les prescriptions générales y visées ;
 
-8. quiconque, par infraction à l’article 35, paragraphe 1 er , ne prend pas les mesures préventives, correctives ou compensatoires y visées ;
+- quiconque, par infraction à l’article 35, paragraphe 1 er , ne prend pas les mesures préventives, correctives ou compensatoires y visées ;
 
-9. quiconque, par infraction à l’article 39, paragraphe 1 er , procède à des aménagements ou agrandissements interdits ;
+- quiconque, par infraction à l’article 39, paragraphe 1 er , procède à des aménagements ou agrandissements interdits ;
 
-10. quiconque, par infraction à l’article 42, paragraphe 4, ne veille pas à éviter la contamination du réseau public;
+- quiconque, par infraction à l’article 42, paragraphe 4, ne veille pas à éviter la contamination du réseau public;
 
-11. quiconque, par infraction à l’article 44, paragraphe 3, ne respecte pas les mesures y visées ;
+- quiconque, par infraction à l’article 44, paragraphe 3, ne respecte pas les mesures y visées ;
 
-12. quiconque, par infraction à l’article 44, paragraphe 5, met en place des ouvrages, installations, installations ou dépôts ou mène des travaux ou activités interdits ;
+- quiconque, par infraction à l’article 44, paragraphe 5, met en place des ouvrages, installations, installations ou dépôts ou mène des travaux ou activités interdits ;
 
-13. quiconque, par infraction à l’article 44, paragraphe 9, n’établit pas un programme de mesures ;
+- quiconque, par infraction à l’article 44, paragraphe 9, n’établit pas un programme de mesures ;
 
-14. quiconque, par infraction à l’article 46, paragraphe 2, ne procède pas à un raccordement à une infrastructure d’assainissement ;
+- quiconque, par infraction à l’article 46, paragraphe 2, ne procède pas à un raccordement à une infrastructure d’assainissement ;
 
-15. quiconque, par infraction à l’article 48, paragraphe 1, procède à l’évacuation ou le traitement non conformes à l’autorisation de rejet requise ;
+- quiconque, par infraction à l’article 48, paragraphe 1, procède à l’évacuation ou le traitement non conformes à l’autorisation de rejet requise ;
 
-16. quiconque, par infraction à l’article 60, ne respecte pas les mesures d’urgence y prévues.
+- quiconque, par infraction à l’article 60, ne respecte pas les mesures d’urgence y prévues.
 
-17. quiconque, par infraction à l’article 61 ter , entrave les contrôles y visés.
+- quiconque, par infraction à l’article 61 ter , entrave les contrôles y visés.
 
 (2)
 
@@ -1872,21 +1872,21 @@ Amendes administratives
 
 Le ministre peut infliger une amende administrative de 25 euros à 1.000 euros à:
 
-1. quiconque, par infraction à l’article 36, paragraphe 5, ne pourvoit pas à l’entretien des eaux de surface ;
+- quiconque, par infraction à l’article 36, paragraphe 5, ne pourvoit pas à l’entretien des eaux de surface ;
 
-2. quiconque, par infraction à l’article 39, paragraphe 3, effectue des travaux ou réparations confortatifs aux constructions existantes, alors que leur emprise au sol est augmentée ;
+- quiconque, par infraction à l’article 39, paragraphe 3, effectue des travaux ou réparations confortatifs aux constructions existantes, alors que leur emprise au sol est augmentée ;
 
-3. quiconque, par infraction à l’article 39, paragraphe 4bis, ne respecte pas les prescriptions applicables dans les zones affectées au séjour non permanent de personnes ;
+- quiconque, par infraction à l’article 39, paragraphe 4bis, ne respecte pas les prescriptions applicables dans les zones affectées au séjour non permanent de personnes ;
 
-4. quiconque, par infraction à l’article 42, paragraphe 4, ne veille pas à l’entretien d’une installation privée d’approvisionnement d’eau destinée à la consommation humaine ;
+- quiconque, par infraction à l’article 42, paragraphe 4, ne veille pas à l’entretien d’une installation privée d’approvisionnement d’eau destinée à la consommation humaine ;
 
-5. quiconque, par infraction à l’article 45, paragraphe 2, ne respecte pas les prescriptions applicables dans les réserves d’eau d’intérêt national ;
+- quiconque, par infraction à l’article 45, paragraphe 2, ne respecte pas les prescriptions applicables dans les réserves d’eau d’intérêt national ;
 
-6. quiconque, par infraction à l’article 46, paragraphe 4, ne soumet pas dans le délai requis le dossier technique y prévu ;
+- quiconque, par infraction à l’article 46, paragraphe 4, ne soumet pas dans le délai requis le dossier technique y prévu ;
 
-7. quiconque, par infraction à l’article 46, paragraphe 5, omet de soumettre les projets de modification, d’extension ou de renouvellement y prévus ;
+- quiconque, par infraction à l’article 46, paragraphe 5, omet de soumettre les projets de modification, d’extension ou de renouvellement y prévus ;
 
-8. quiconque, par infraction à l’article 48, paragraphe 3, omet de fournir les données et informations y visées.
+- quiconque, par infraction à l’article 48, paragraphe 3, omet de fournir les données et informations y visées.
 
 (2)
 
@@ -1915,13 +1915,13 @@ En cas de danger grave et imminent au sens de l’article 60, la limitation d’
 
 Les agents chargés des contrôles en vertu du paragraphe 1er, sont autorisés à :
 
-1. prélever ou faire prélever des échantillons en vue d’analyses ou d’essais ;
+- prélever ou faire prélever des échantillons en vue d’analyses ou d’essais ;
 
-2. effectuer ou faire effectuer des mesurages de nature technique et scientifique afin de vérifier la conformité des installations aux dispositions légales, réglementaires et administratives ;
+- effectuer ou faire effectuer des mesurages de nature technique et scientifique afin de vérifier la conformité des installations aux dispositions légales, réglementaires et administratives ;
 
-3. procéder à tous les examens, contrôles ou enquêtes jugés nécessaires pour s’assurer que les dispositions légales, réglementaires et administratives sont effectivement observées et notamment demander communication dans les meilleurs délais de tous livres, registres, fichiers, documents et informations en vue d’en vérifier la conformité avec les dispositions légales, réglementaires et administratives et de les reproduire ou d’en établir des extraits ;
+- procéder à tous les examens, contrôles ou enquêtes jugés nécessaires pour s’assurer que les dispositions légales, réglementaires et administratives sont effectivement observées et notamment demander communication dans les meilleurs délais de tous livres, registres, fichiers, documents et informations en vue d’en vérifier la conformité avec les dispositions légales, réglementaires et administratives et de les reproduire ou d’en établir des extraits ;
 
-4. documenter par l’image la ou les non-conformités des installations aux dispositions légales, réglementaires et administratives.
+- documenter par l’image la ou les non-conformités des installations aux dispositions légales, réglementaires et administratives.
 
 Les agents visés au paragraphe 1er ne peuvent avoir accès aux domiciles et à la partie des locaux à usage d’habitation qu’en présence de l’occupant et avec son assentiment.
 
@@ -1961,75 +1961,75 @@ Projets éligibles et taux d’intervention du Fonds pour la gestion de l’eau
 
 Le ministre est autorisé à imputer sur le fonds :
 
-1. la prise en charge jusqu’à 100 pour cent des dépenses relatives aux projets reconnus d’intérêt national par le Gouvernement en conseil et ayant pour objet
+- la prise en charge jusqu’à 100 pour cent des dépenses relatives aux projets reconnus d’intérêt national par le Gouvernement en conseil et ayant pour objet
 
-- la sauvegarde de la qualité des eaux souterraines et superficielles ; pendant une phase de transition de deux ans correspondant à l’établissement d’un programme de mesures subsidiable conformément à la lettre h) du présent article, une prise en charge à hauteur de 75 pour cent des dépenses liées au conseil agricole en faveur des agriculteurs situés dans les zones de protection autour des captages d’eau souterraine peut être reconnue d’intérêt national par le Gouvernement en Conseil ;
+  - la sauvegarde de la qualité des eaux souterraines et superficielles ; pendant une phase de transition de deux ans correspondant à l’établissement d’un programme de mesures subsidiable conformément à la lettre h) du présent article, une prise en charge à hauteur de 75 pour cent des dépenses liées au conseil agricole en faveur des agriculteurs situés dans les zones de protection autour des captages d’eau souterraine peut être reconnue d’intérêt national par le Gouvernement en Conseil ;
 
-1. l’assainissement et l’épuration des eaux usées ;
+    - l’assainissement et l’épuration des eaux usées ;
 
-2. la protection et la restauration des cours d’eau dans un état proche de la nature ;
+    - la protection et la restauration des cours d’eau dans un état proche de la nature ;
 
-3. la réduction des risques d’inondation ;
+    - la réduction des risques d’inondation ;
 
-4. l’utilisation durable de l’eau, fondée sur la protection à long terme des ressources en eau disponibles ;
+    - l’utilisation durable de l’eau, fondée sur la protection à long terme des ressources en eau disponibles ;
 
-2. la prise en charge jusqu’à 100 pour cent des dépenses relatives aux travaux effectués sur les cours d’eau frontaliers et présentant un intérêt transfrontalier ;
+- la prise en charge jusqu’à 100 pour cent des dépenses relatives aux travaux effectués sur les cours d’eau frontaliers et présentant un intérêt transfrontalier ;
 
-3. la prise en charge jusqu’à 100 pour cent des dépenses relatives à l’élaboration d’études de faisabilité, de calculs de charges polluantes, de calculs hydrologiques et de validation des données, des missions de gestion de projet, l’établissement de guides techniques, l’amélioration du réseau de surveillance des cours d’eau et de concepts généraux dans les différents domaines de la protection et de la gestion de l’eau énumérés à la lettre a) ;
+- la prise en charge jusqu’à 100 pour cent des dépenses relatives à l’élaboration d’études de faisabilité, de calculs de charges polluantes, de calculs hydrologiques et de validation des données, des missions de gestion de projet, l’établissement de guides techniques, l’amélioration du réseau de surveillance des cours d’eau et de concepts généraux dans les différents domaines de la protection et de la gestion de l’eau énumérés à la lettre a) ;
 
-4. la prise en charge jusqu’à 50 pour cent du coût des investissements relatifs :
+- la prise en charge jusqu’à 50 pour cent du coût des investissements relatifs :
 
-1. à la réalisation de nouvelles infrastructures communales en matière d’évacuation et d’épuration des eaux usées, comprenant la construction et la surveillance technique et financière de la réalisation de systèmes de collecteurs, de stations d’épuration et de bassins de rétention des eaux, y compris leurs ouvrages techniques annexes ;
+  - à la réalisation de nouvelles infrastructures communales en matière d’évacuation et d’épuration des eaux usées, comprenant la construction et la surveillance technique et financière de la réalisation de systèmes de collecteurs, de stations d’épuration et de bassins de rétention des eaux, y compris leurs ouvrages techniques annexes ;
 
-2. à l’adaptation des stations d’épuration communales existantes à de nouvelles technologies épuratoires visant des performances d’assainissement accrues et à des normes plus sévères qui leur sont imposées conformément à des objectifs nationaux et internationaux de qualité des eaux ;
+  - à l’adaptation des stations d’épuration communales existantes à de nouvelles technologies épuratoires visant des performances d’assainissement accrues et à des normes plus sévères qui leur sont imposées conformément à des objectifs nationaux et internationaux de qualité des eaux ;
 
-3. aux frais d’études y inclus l’évaluation de l’état constructif et opérationnel des infrastructures existantes nécessaires à la réalisation des mesures afférentes, ainsi que des dossiers techniques visés à l’article 46;
+  - aux frais d’études y inclus l’évaluation de l’état constructif et opérationnel des infrastructures existantes nécessaires à la réalisation des mesures afférentes, ainsi que des dossiers techniques visés à l’article 46;
 
-5. la prise en charge jusqu’à 50 pour cent du coût des études et des investissements correspondant à la réalisation de travaux à effectuer sur les réseaux communaux de canalisation et de collecte en vue d’éliminer les eaux parasites, c’està-dire les eaux non polluées à écoulement permanent telles que les eaux de source, les eaux souterraines ou les eaux de drainage, ainsi que les eaux non polluées de ruissellement de surfaces extérieures à l’agglomération assainie ;
+- la prise en charge jusqu’à 50 pour cent du coût des études et des investissements correspondant à la réalisation de travaux à effectuer sur les réseaux communaux de canalisation et de collecte en vue d’éliminer les eaux parasites, c’està-dire les eaux non polluées à écoulement permanent telles que les eaux de source, les eaux souterraines ou les eaux de drainage, ainsi que les eaux non polluées de ruissellement de surfaces extérieures à l’agglomération assainie ;
 
-6. la prise en charge jusqu’à 33 pour cent des coûts des études et des investissements relatifs à la mise en œuvre des réseaux de collecte des eaux pluviales et des ouvrages destinés à la gestion des eaux pluviales de surfaces à l’intérieur des agglomérations dotées d’un système de collecte des eaux urbaines résiduaires de type séparatif ;
+- la prise en charge jusqu’à 33 pour cent des coûts des études et des investissements relatifs à la mise en œuvre des réseaux de collecte des eaux pluviales et des ouvrages destinés à la gestion des eaux pluviales de surfaces à l’intérieur des agglomérations dotées d’un système de collecte des eaux urbaines résiduaires de type séparatif ;
 
-7. la prise en charge jusqu’à 50 pour cent des coûts de l’étude de délimitation de zones de protection lorsque l’élaboration débute au plus tard une année après l’introduction de la demande de création prévue à l’article 44, paragraphe 4. Pour les études qui débutent entre trois et cinq ans après l’introduction de la demande de création, la prise en compte ne peut excéder 25 pour cent des coûts de l’étude de délimitation des zones de protection. Seuls sont éligibles les dossiers de délimitation dont le point de prélèvement alimente un réseau de distribution public et dont le point de prélèvement dispose d’une autorisation conformément aux dispositions de l’article 23;
+- la prise en charge jusqu’à 50 pour cent des coûts de l’étude de délimitation de zones de protection lorsque l’élaboration débute au plus tard une année après l’introduction de la demande de création prévue à l’article 44, paragraphe 4. Pour les études qui débutent entre trois et cinq ans après l’introduction de la demande de création, la prise en compte ne peut excéder 25 pour cent des coûts de l’étude de délimitation des zones de protection. Seuls sont éligibles les dossiers de délimitation dont le point de prélèvement alimente un réseau de distribution public et dont le point de prélèvement dispose d’une autorisation conformément aux dispositions de l’article 23;
 
-8. la prise en charge jusqu’à 75 pour cent des coûts liés à l’élaboration et la mise en œuvre des programmes de mesures visant à protéger les ressources d’eau destinées à la consommation humaine conformément aux dispositions des articles 44 et 45;
+- la prise en charge jusqu’à 75 pour cent des coûts liés à l’élaboration et la mise en œuvre des programmes de mesures visant à protéger les ressources d’eau destinées à la consommation humaine conformément aux dispositions des articles 44 et 45;
 
-9. la prise en charge jusqu’à 50 pour cent de nouvelles infrastructures intercommunales à étendue régionale pour la distribution d’eau destinée à la consommation humaine ;
+- la prise en charge jusqu’à 50 pour cent de nouvelles infrastructures intercommunales à étendue régionale pour la distribution d’eau destinée à la consommation humaine ;
 
-10. la prise en charge jusqu’à 100 pour cent du coût des travaux de restauration et de renaturation des cours d’eau, ainsi que les frais d’études et les frais d’acquisitions des terrains nécessaires à la réalisation de ces travaux, mis à part toute mesure de compensation octroyée dans le cadre d’une autorisation au titre de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;
+- la prise en charge jusqu’à 100 pour cent du coût des travaux de restauration et de renaturation des cours d’eau, ainsi que les frais d’études et les frais d’acquisitions des terrains nécessaires à la réalisation de ces travaux, mis à part toute mesure de compensation octroyée dans le cadre d’une autorisation au titre de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;
 
-11. la prise en charge jusqu’à 90 pour cent du coût des mesures destinées à réduire les effets des inondations, et jusqu’à 100 pour cent du coût des frais d’études et dépenses connexes ;
+- la prise en charge jusqu’à 90 pour cent du coût des mesures destinées à réduire les effets des inondations, et jusqu’à 100 pour cent du coût des frais d’études et dépenses connexes ;
 
-12. la prise en charge jusqu’à 75 pour cent du coût des travaux d’aménagement et d’entretien effectués sur les cours d’eau ;
+- la prise en charge jusqu’à 75 pour cent du coût des travaux d’aménagement et d’entretien effectués sur les cours d’eau ;
 
-13. la prise en charge jusqu’à 50 pour cent du coût des travaux d’infrastructure ainsi que les frais d’études et dépenses connexes pour d’autres projets dans les différents domaines de la protection et de la gestion de l’eau énumérés au à la lettre a) ;
+- la prise en charge jusqu’à 50 pour cent du coût des travaux d’infrastructure ainsi que les frais d’études et dépenses connexes pour d’autres projets dans les différents domaines de la protection et de la gestion de l’eau énumérés au à la lettre a) ;
 
-14. la prise en charge jusqu’à 100 pour cent du coût de travaux de recherche visant à améliorer les connaissances techniques et scientifiques sur l’environnement aquatique et les meilleures techniques disponibles en matière du cycle urbain de l’eau ;
+- la prise en charge jusqu’à 100 pour cent du coût de travaux de recherche visant à améliorer les connaissances techniques et scientifiques sur l’environnement aquatique et les meilleures techniques disponibles en matière du cycle urbain de l’eau ;
 
-15. la prise en charge jusqu’à 100 pour cent du coût de réalisation de projets pilotes illustrant l’applicabilité de nouvelles technologies dans le domaine de la gestion de l’eau.
+- la prise en charge jusqu’à 100 pour cent du coût de réalisation de projets pilotes illustrant l’applicabilité de nouvelles technologies dans le domaine de la gestion de l’eau.
 
-16. la prise en charge jusqu’à 100 pour cent des coûts et dépenses suivants liés à la pêche dans les eaux intérieures, telle que régie par la loi modifiée du 28 juin 1976 portant réglementation de la pêche dans les eaux intérieures :
+- la prise en charge jusqu’à 100 pour cent des coûts et dépenses suivants liés à la pêche dans les eaux intérieures, telle que régie par la loi modifiée du 28 juin 1976 portant réglementation de la pêche dans les eaux intérieures :
 
-1. les dépenses relatives aux projets ou mesures visant le repeuplement des eaux de la première catégorie ;
+  - les dépenses relatives aux projets ou mesures visant le repeuplement des eaux de la première catégorie ;
 
-2. les dépenses relatives aux projets ou mesures visant le repeuplement des eaux intérieures qui sont polluées accidentellement, si le pollueur est inconnu ;
+  - les dépenses relatives aux projets ou mesures visant le repeuplement des eaux intérieures qui sont polluées accidentellement, si le pollueur est inconnu ;
 
-3. les dépenses des propriétaires riverains, qui ont effectué, dans l’intérêt piscicole, des travaux d’aménagement sur leurs propriétés riveraines ;
+  - les dépenses des propriétaires riverains, qui ont effectué, dans l’intérêt piscicole, des travaux d’aménagement sur leurs propriétés riveraines ;
 
-4. les coûts d’indemnisation des propriétaires riverains des cours d’eau déclarés zones de frayère ;
+  - les coûts d’indemnisation des propriétaires riverains des cours d’eau déclarés zones de frayère ;
 
-5. les coût des études scientifiques ayant comme but l’amélioration du milieu aquatique ;
+  - les coût des études scientifiques ayant comme but l’amélioration du milieu aquatique ;
 
-6. les dépenses relatives aux mesures et travaux d’aménagements visant à améliorer le milieu aquatique ;
+  - les dépenses relatives aux mesures et travaux d’aménagements visant à améliorer le milieu aquatique ;
 
-7. les coût des travaux de construction, d’extension, d’équipement et de la modernisation d’installations utilisées pour la pêche dans les cours d’eau ;
+  - les coût des travaux de construction, d’extension, d’équipement et de la modernisation d’installations utilisées pour la pêche dans les cours d’eau ;
 
-8. les dépenses relatives à la sensibilisation, à la formation et à l’information des pêcheurs et du public en matière de pêche et de protection du milieu aquatique ;
+  - les dépenses relatives à la sensibilisation, à la formation et à l’information des pêcheurs et du public en matière de pêche et de protection du milieu aquatique ;
 
-9. les dépenses relatives à l’entretien et la gestion de la pisciculture de l’État.
+  - les dépenses relatives à l’entretien et la gestion de la pisciculture de l’État.
 
-17. la prise en charge jusqu’à 100 pour cent des dépenses relatives aux projets ou mesures visant la promotion de la pêche dans les eaux frontalières, ainsi que le repeuplement des eaux frontalières, tels que régis par la loi modifiée du 21 novembre 1984 a) portant approbation de la Convention entre le Grand-Duché de Luxembourg, d’une part, et les Länder de Rhénanie-Palatinat et de la Sarre de la République Fédérale d’Allemagne, d’autre part, portant nouvelle réglementation de la pêche dans les eaux frontalières relevant de leur souveraineté commune, signée à Trèves, le 24 novembre 1975 ; b) complétant l’article 1 er B II de la loi du 26 février 1973 portant extension de la compétence des tribunaux de police en matière répressive ;
+- la prise en charge jusqu’à 100 pour cent des dépenses relatives aux projets ou mesures visant la promotion de la pêche dans les eaux frontalières, ainsi que le repeuplement des eaux frontalières, tels que régis par la loi modifiée du 21 novembre 1984 a) portant approbation de la Convention entre le Grand-Duché de Luxembourg, d’une part, et les Länder de Rhénanie-Palatinat et de la Sarre de la République Fédérale d’Allemagne, d’autre part, portant nouvelle réglementation de la pêche dans les eaux frontalières relevant de leur souveraineté commune, signée à Trèves, le 24 novembre 1975 ; b) complétant l’article 1 er B II de la loi du 26 février 1973 portant extension de la compétence des tribunaux de police en matière répressive ;
 
-18. la prise en charge des dépenses relatives à la collecte ou récupération des eaux de pluie par des personnes physiques et personnes morales, à concurrence d’un montant en euros correspondant à 50 pour cent du coût d’investissement, et ne dépassant pas un montant maximum de 4 000 euros, telle que régie par le règlement grand-ducal du 14 mai 2003 concernant l’allocation d’une aide budgétaire aux particuliers pour la mise en place d’une installation de collecte des eaux de pluie.
+- la prise en charge des dépenses relatives à la collecte ou récupération des eaux de pluie par des personnes physiques et personnes morales, à concurrence d’un montant en euros correspondant à 50 pour cent du coût d’investissement, et ne dépassant pas un montant maximum de 4 000 euros, telle que régie par le règlement grand-ducal du 14 mai 2003 concernant l’allocation d’une aide budgétaire aux particuliers pour la mise en place d’une installation de collecte des eaux de pluie.
 
 (2)
 
@@ -2062,9 +2062,9 @@ Les conditions des prises en charge peuvent être précisées par règlement gra
 
 Le Gouvernement joint chaque année au projet de loi concernant le budget des recettes et des dépenses de l’État
 
-1. un relevé récapitulatif des investissements exécutés pendant les divers exercices clos, ainsi qu’un compte rendu des recettes et des dépenses y relatives imputées au fonds;
+- un relevé récapitulatif des investissements exécutés pendant les divers exercices clos, ainsi qu’un compte rendu des recettes et des dépenses y relatives imputées au fonds;
 
-2. un exposé des investissements exécutés pendant l’exercice courant et projetés pour l’exercice suivant ainsi qu’un état estimatif des dépenses occasionnées annuellement par l’exécution de ces investissements et des recettes nécessaires à leur financement.
+- un exposé des investissements exécutés pendant l’exercice courant et projetés pour l’exercice suivant ainsi qu’un état estimatif des dépenses occasionnées annuellement par l’exécution de ces investissements et des recettes nécessaires à leur financement.
 
 (6)
 
@@ -2091,9 +2091,9 @@ Un règlement grand-ducal précise les modalités de fonctionnement du comité.
 
 Le comité a pour mission:
 
-1. la planification pluriannuelle des dépenses du fonds;
+- la planification pluriannuelle des dépenses du fonds;
 
-2. l’ajustement du rythme des dépenses aux disponibilités financières du fonds.
+- l’ajustement du rythme des dépenses aux disponibilités financières du fonds.
 
 (5)
 
@@ -2148,37 +2148,115 @@ Dispositions modificatives
 
 (1)
 
-Les articles 1, 6 et 11 de la loi modifiée du 31 juillet 1962 ayant pour objet le renforcement de l’alimentation en eau potable du Grand-Duché de Luxembourg à partir du réservoir d’Esch-sur-Sûre sont modifiés comme suit: Art. 1er. L’État, le syndicat des eaux du sud, le syndicat de distribution d’eau des Ardennes, le syndicat pour la distribution de l’eau dans la région de l’est, le syndicat des eaux du centre et la ville de Luxembourg sont autorisés à se constituer en syndicat pour l’établissement, l’entretien et l’exploitation de tous les ouvrages, installations mécaniques et canalisations destinés à la conduite d’eau potable provenant des eaux puisées dans le réservoir d’Esch-sur-Sûre et de captage d’eaux souterraines. Pour autant qu’il n’y est pas dérogé par la présente loi, les dispositions de la loi du 23 février 2001 concernant les syndicats de communes sont applicables à ce syndicat. L’État sera représenté au sein du comité du syndicat par cinq délégués dont un du Ministre de l’Intérieur, un du Ministre des Finances, un du Ministre de la Santé publique, un du Ministre ayant dans ses attributions la gestion de l’eau et un du Ministre des Travaux publics. L’un de ces délégués assumera la présidence du comité; il sera désigné par le Gouvernement en Conseil. Le délégué du Ministre ayant dans ses attributions la gestion de l’eau dispose d’une voix consultative et ne peut pas exercer la fonction de président du syndicat. Chaque fois qu’il y aura renouvellement des conseils communaux à la suite d’élections générales, il sera procédé à la désignation d’un nouveau comité.
+Les articles 1, 6 et 11 de la loi modifiée du 31 juillet 1962 ayant pour objet le renforcement de l’alimentation en eau potable du Grand-Duché de Luxembourg à partir du réservoir d’Esch-sur-Sûre sont modifiés comme suit:
 
-Art. 6. Le syndicat est autorisé à créer à partir du réservoir d’Esch-sur-Sûre les installations de conduite de l’eau vers les différentes parties du pays; il est encore autorisé à construire et à exploiter une station de traitement de l’eau, selon des plans à approuver par les Ministres de l’Intérieur et des Travaux publics.
+Art. 1er.
 
-Art. 11. Le syndicat aura en outre le droit: d’installer des canalisations d’eau dans des terrains privés, non bâtis; d’assurer la surveillance de ces canalisations; de procéder aux travaux d’entretien et de réfection. L’exécution des travaux prévus sous le numéro 1 ci-dessus doit être précédée d’une notification directe aux intéressés et d’une enquête dont la procédure sera déterminée par règlement grand-ducal. Elle ne peut avoir lieu qu’après approbation du projet de détail des tracés par les Ministres de l’Intérieur et des Travaux publics. Sans préjudice des droits résultant de l’établissement des canalisations dans un terrain ouvert et non bâti, le propriétaire peut le clôturer, y élever des constructions et y faire des plantations ou en exploiter le sous-sol. Six mois avant d’entreprendre les travaux de clôture, de construction, de plantation ou d’exploitation du sous-sol, le propriétaire devra en informer le syndicat. Les indemnités dues pour le dommage résultant de l’exercice des droits prévus sub 1 à 3 ci-dessus sont fixées, soit par arrangement à l’amiable, soit en cas de désaccord, par le juge de paix du canton du fonds assujetti qui statuera en dernier ressort dans les limites de sa compétence ordinaire et à charge d’appel, quelle que soit la valeur de l’objet en litige.
+L’État, le syndicat des eaux du sud, le syndicat de distribution d’eau des Ardennes, le syndicat pour la distribution de l’eau dans la région de l’est, le syndicat des eaux du centre et la ville de Luxembourg sont autorisés à se constituer en syndicat pour l’établissement, l’entretien et l’exploitation de tous les ouvrages, installations mécaniques et canalisations destinés à la conduite d’eau potable provenant des eaux puisées dans le réservoir d’Esch-sur-Sûre et de captage d’eaux souterraines.
+
+Pour autant qu’il n’y est pas dérogé par la présente loi, les dispositions de la loi du 23 février 2001 concernant les syndicats de communes sont applicables à ce syndicat.
+
+L’État sera représenté au sein du comité du syndicat par cinq délégués dont un du Ministre de l’Intérieur, un du Ministre des Finances, un du Ministre de la Santé publique, un du Ministre ayant dans ses attributions la gestion de l’eau et un du Ministre des Travaux publics. L’un de ces délégués assumera la présidence du comité; il sera désigné par le Gouvernement en Conseil. Le délégué du Ministre ayant dans ses attributions la gestion de l’eau dispose d’une voix consultative et ne peut pas exercer la fonction de président du syndicat.
+
+Chaque fois qu’il y aura renouvellement des conseils communaux à la suite d’élections générales, il sera procédé à la désignation d’un nouveau comité.
+
+Art. 6.
+
+Le syndicat est autorisé à créer à partir du réservoir d’Esch-sur-Sûre les installations de conduite de l’eau vers les différentes parties du pays; il est encore autorisé à construire et à exploiter une station de traitement de l’eau, selon des plans à approuver par les Ministres de l’Intérieur et des Travaux publics.
+
+Art. 11.
+
+Le syndicat aura en outre le droit:
+
+- d’installer des canalisations d’eau dans des terrains privés, non bâtis;
+
+- d’assurer la surveillance de ces canalisations;
+
+- de procéder aux travaux d’entretien et de réfection.
+
+L’exécution des travaux prévus sous le numéro 1 ci-dessus doit être précédée d’une notification directe aux intéressés et d’une enquête dont la procédure sera déterminée par règlement grand-ducal. Elle ne peut avoir lieu qu’après approbation du projet de détail des tracés par les Ministres de l’Intérieur et des Travaux publics.
+
+Sans préjudice des droits résultant de l’établissement des canalisations dans un terrain ouvert et non bâti, le propriétaire peut le clôturer, y élever des constructions et y faire des plantations ou en exploiter le sous-sol.
+
+Six mois avant d’entreprendre les travaux de clôture, de construction, de plantation ou d’exploitation du sous-sol, le propriétaire devra en informer le syndicat.
+
+Les indemnités dues pour le dommage résultant de l’exercice des droits prévus sub 1 à 3 ci-dessus sont fixées, soit par arrangement à l’amiable, soit en cas de désaccord, par le juge de paix du canton du fonds assujetti qui statuera en dernier ressort dans les limites de sa compétence ordinaire et à charge d’appel, quelle que soit la valeur de l’objet en litige.
 
 (2)
 
 Les articles 11 et 22, section IV, points 8 et 9 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État sont modifiés comme suit:
 
-À l’article 11, paragraphe (1), alinéa 3, il est ajouté un point 4 qui a la teneur suivante: 4. de la taxe de prélèvement d’eau et de la taxe de rejet des eaux usées introduites en vertu des articles 12, 15,16 et 17 de la loi du 19 décembre 2008 relative à l’eau;
+À l’article 11, paragraphe (1), alinéa 3, il est ajouté un point 4 qui a la teneur suivante:
 
-L’article 22, section IV, point 8, alinéa 1er est complété par la mention suivante: «le directeur adjoint de l’Administration de la gestion de l’eau» L’article 22, section IV, point 9 est complété par les mentions suivantes: «le directeur de l’Administration de la gestion de l’eau, le directeur de l’Administration des Services de secours»
+4. de la taxe de prélèvement d’eau et de la taxe de rejet des eaux usées introduites en vertu des articles 12, 15,16 et 17 de la loi du 19 décembre 2008 relative à l’eau;
+
+L’article 22, section IV, point 8, alinéa 1er est complété par la mention suivante:
+
+«le directeur adjoint de l’Administration de la gestion de l’eau» L’article 22, section IV, point 9 est complété par les mentions suivantes:
+
+«le directeur de l’Administration de la gestion de l’eau, le directeur de l’Administration des Services de secours»
 
 (3)
 
 Les articles 7 et 8 de la loi modifiée du 28 juin 1976 portant réglementation de la pêche dans les eaux intérieures sont modifiés comme suit:
 
-L’article 7 (1) est remplacé comme suit: Art. 7. (1) Les montants de la taxe piscicole sont versés sur un fonds spécial qui sert: au repeuplement des eaux de la première catégorie; au repeuplement des eaux intérieures qui sont polluées accidentellement, si le pollueur est inconnu; à l’allocation de primes d’encouragement aux propriétaires riverains, qui ont effectué, dans l’intérêt piscicole, des travaux d’aménagement sur leurs propriétés riveraines; à l’indemnisation des propriétaires riverains des cours d’eau déclarés zones de frayère; à l’établissement d’études scientifiques ayant comme but l’amélioration du milieu aquatique; au financement de mesures et d’aménagements visant à améliorer le milieu aquatique; à la construction, l’extension, l’équipement et la modernisation d’installations utilisées pour la pêche dans les cours d’eau; à la sensibilisation, à la formation et à l’information des pêcheurs et du public en matière de pêche et de protection du milieu aquatique.
+L’article 7 (1) est remplacé comme suit:
 
-À l’article 8 il est inséré un nouveau paragraphe (2), les actuels paragraphes (2) à (6) devenant les paragraphes (3) à (7): L’obtention du permis de pêche peut être subordonné à l’accomplissement d’une formation dont les modalités sont fixées par règlement grand-ducal.
+Art. 7.
+
+(1)
+
+Les montants de la taxe piscicole sont versés sur un fonds spécial qui sert:
+
+- au repeuplement des eaux de la première catégorie;
+
+- au repeuplement des eaux intérieures qui sont polluées accidentellement, si le pollueur est inconnu;
+
+- à l’allocation de primes d’encouragement aux propriétaires riverains, qui ont effectué, dans l’intérêt piscicole, des travaux d’aménagement sur leurs propriétés riveraines;
+
+- à l’indemnisation des propriétaires riverains des cours d’eau déclarés zones de frayère;
+
+- à l’établissement d’études scientifiques ayant comme but l’amélioration du milieu aquatique;
+
+- au financement de mesures et d’aménagements visant à améliorer le milieu aquatique;
+
+- à la construction, l’extension, l’équipement et la modernisation d’installations utilisées pour la pêche dans les cours d’eau;
+
+- à la sensibilisation, à la formation et à l’information des pêcheurs et du public en matière de pêche et de protection du milieu aquatique.
+
+À l’article 8 il est inséré un nouveau paragraphe (2), les actuels paragraphes (2) à (6) devenant les paragraphes (3) à (7):
+
+L’obtention du permis de pêche peut être subordonné à l’accomplissement d’une formation dont les modalités sont fixées par règlement grand-ducal.
 
 (4)
 
-L’article 7, paragraphe (1) alinéa 3 de la loi modifiée du 10 juin 1999 relative aux établissements classés, est remplacé par deux nouveaux alinéas libellés comme suit: Lorsqu’un établissement de la classe 1 nécessite une autorisation au titre de la législation concernant la prévention et la gestion des déchets, le requérant est en outre tenu de fournir à l’Administration de l’environnement un exemplaire supplémentaire. Lorsqu’un établissement nécessite une autorisation au titre de la législation relative à l’eau, le requérant est en outre tenu de fournir à l’Administration de l’environnement deux exemplaires supplémentaires.
+L’article 7, paragraphe (1) alinéa 3 de la loi modifiée du 10 juin 1999 relative aux établissements classés, est remplacé par deux nouveaux alinéas libellés comme suit:
+
+Lorsqu’un établissement de la classe 1 nécessite une autorisation au titre de la législation concernant la prévention et la gestion des déchets, le requérant est en outre tenu de fournir à l’Administration de l’environnement un exemplaire supplémentaire.
+
+Lorsqu’un établissement nécessite une autorisation au titre de la législation relative à l’eau, le requérant est en outre tenu de fournir à l’Administration de l’environnement deux exemplaires supplémentaires.
 
 (5)
 
-L’article 8 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles est complété par l’alinéa suivant: Lorsque la demande d’autorisation en vertu du présent article est le fait d’un établissement ou d’une activité tombant sous le champ d’application de la loi du 19 décembre 2008 relative à l’eau, la demande faite au titre de cette loi vaut dossier de demande en vertu de la présente loi. Dans ce cas, l’Administration de la gestion de l’eau a le droit de solliciter auprès du demandeur un exemplaire supplémentaire et le transmet sans délai à l’Administration des eaux et forêts.
+L’article 8 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles est complété par l’alinéa suivant:
 
-L’article 60 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles est remplacé comme suit: Art. 60. Il est institué un conseil supérieur pour la protection de la nature et des ressources naturelles. Celui-ci a pour mission: de donner son avis sur toutes les questions et tous les projets que le Gouvernement jugera utile de lui soumettre; d’adresser de son initiative des propositions au Gouvernement en matière de protection de la nature. Le conseil est composé de dix membres, dont au moins un représentant de l’Administration des eaux et forêts et un représentant de l’Administration de la gestion de l’eau. Le président et les membres du conseil sont nommés par le ministre pour un terme de trois ans. Il est adjoint à chaque membre un membre suppléant qui le remplacera en cas d’absence. Les membres suppléants sont nommés par le ministre. Le ministre charge un fonctionnaire du secrétariat du conseil.
+Lorsque la demande d’autorisation en vertu du présent article est le fait d’un établissement ou d’une activité tombant sous le champ d’application de la loi du 19 décembre 2008 relative à l’eau, la demande faite au titre de cette loi vaut dossier de demande en vertu de la présente loi. Dans ce cas, l’Administration de la gestion de l’eau a le droit de solliciter auprès du demandeur un exemplaire supplémentaire et le transmet sans délai à l’Administration des eaux et forêts.
+
+L’article 60 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles est remplacé comme suit:
+
+Art. 60.
+
+Il est institué un conseil supérieur pour la protection de la nature et des ressources naturelles. Celui-ci a pour mission:
+
+- de donner son avis sur toutes les questions et tous les projets que le Gouvernement jugera utile de lui soumettre;
+
+- d’adresser de son initiative des propositions au Gouvernement en matière de protection de la nature.
+
+Le conseil est composé de dix membres, dont au moins un représentant de l’Administration des eaux et forêts et un représentant de l’Administration de la gestion de l’eau. Le président et les membres du conseil sont nommés par le ministre pour un terme de trois ans.
+
+Il est adjoint à chaque membre un membre suppléant qui le remplacera en cas d’absence. Les membres suppléants sont nommés par le ministre.
+
+Le ministre charge un fonctionnaire du secrétariat du conseil.
 
 (6)
 
@@ -2188,9 +2266,47 @@ L’article 24 (1), alinéa 5 de la loi modifiée du 19 juillet 2004 concernant 
 
 (7)
 
-Les articles 4 et 10 de la loi du 3 août 2005 concernant le partenariat entre les syndicats de communes et l’État et la restructuration de la démarche scientifique en matière de protection de la nature et des ressources naturelles sont remplacés par les dispositions suivantes: Art. 4. L’observatoire est composé comme suit: deux représentants du Ministère de l’Environnement; deux représentants de l’Administration des eaux et forêts; un représentant de l’Administration de la gestion de l’eau; deux représentants du Musée National d’Histoire Naturelle; un représentant de l’Université du Luxembourg; un représentant des syndicats; trois représentants appartenant aux organisations non gouvernementales compétentes en matière de protection de la nature; trois scientifiques spécialisés dans le domaine de la sauvegarde de la diversité biologique. Les représentants sont nommés par le ministre pour un terme de trois ans. La présidence de l’observatoire est alternativement exercée par un représentant du ministre et des syndicats. Le secrétariat de l’observatoire est assuré par un représentant du ministre. L’organisation et le fonctionnement de l’observatoire sont précisés par règlement grand-ducal.
+Les articles 4 et 10 de la loi du 3 août 2005 concernant le partenariat entre les syndicats de communes et l’État et la restructuration de la démarche scientifique en matière de protection de la nature et des ressources naturelles sont remplacés par les dispositions suivantes:
 
-Art. 10. Il est institué un comité de coordination placé sous l’autorité du ministre. Ce comité a pour mission d’assurer la cohérence et la coordination entre les programmes et activités à réaliser par les syndicats dans le cadre des conventions conclues. Le comité est composé comme suit: deux représentants du Ministère de l’Environnement dont le président du comité; deux représentants de l’Administration des eaux et forêts, dont le secrétaire; un représentant de l’Administration des eaux et forêts; un représentant du Musée National d’Histoire Naturelle; un représentant par syndicat signataire d’une convention. Les représentants sont nommés par le ministre pour un terme de trois ans.
+Art. 4.
+
+L’observatoire est composé comme suit:
+
+- deux représentants du Ministère de l’Environnement;
+
+- deux représentants de l’Administration des eaux et forêts;
+
+- un représentant de l’Administration de la gestion de l’eau;
+
+- deux représentants du Musée National d’Histoire Naturelle;
+
+- un représentant de l’Université du Luxembourg;
+
+- un représentant des syndicats;
+
+- trois représentants appartenant aux organisations non gouvernementales compétentes en matière de protection de la nature;
+
+- trois scientifiques spécialisés dans le domaine de la sauvegarde de la diversité biologique.
+
+Les représentants sont nommés par le ministre pour un terme de trois ans. La présidence de l’observatoire est alternativement exercée par un représentant du ministre et des syndicats. Le secrétariat de l’observatoire est assuré par un représentant du ministre. L’organisation et le fonctionnement de l’observatoire sont précisés par règlement grand-ducal.
+
+Art. 10.
+
+Il est institué un comité de coordination placé sous l’autorité du ministre.
+
+Ce comité a pour mission d’assurer la cohérence et la coordination entre les programmes et activités à réaliser par les syndicats dans le cadre des conventions conclues. Le comité est composé comme suit:
+
+- deux représentants du Ministère de l’Environnement dont le président du comité;
+
+- deux représentants de l’Administration des eaux et forêts, dont le secrétaire;
+
+- un représentant de l’Administration des eaux et forêts;
+
+- un représentant du Musée National d’Histoire Naturelle;
+
+- un représentant par syndicat signataire d’une convention.
+
+Les représentants sont nommés par le ministre pour un terme de trois ans.
 
 <a id="art-71"></a>
 ## Art. 71.
@@ -2217,15 +2333,15 @@ Dans les communes où la charge polluante de plus d’un tiers des équivalents 
 
 Pour les dossiers en relation avec l’assainissement des eaux usées et éligibles à une participation étatique conformément à l’article 65 paragraphe 1er, lettre d), les mesures transitoires suivantes sont d’application :
 
-1. une prise en charge de 65 pour cent restera d’application pour les dossiers dont les projets détaillés ont été soumis avant le 1 er janvier de l’année qui suit celle de l’entrée en vigueur de la présente loi au secrétariat du Fonds pour la gestion de l’eau ;
+- une prise en charge de 65 pour cent restera d’application pour les dossiers dont les projets détaillés ont été soumis avant le 1 er janvier de l’année qui suit celle de l’entrée en vigueur de la présente loi au secrétariat du Fonds pour la gestion de l’eau ;
 
-2. une prise en charge de 75 pour cent restera d’application pour les dossiers dont les projets détaillés ont été soumis avant le 1 er juillet 2015 au secrétariat du Fonds pour la gestion de l’eau et dont l’étude préalable y relative avait été soumise avant le 20 octobre 2014 ;
+- une prise en charge de 75 pour cent restera d’application pour les dossiers dont les projets détaillés ont été soumis avant le 1 er juillet 2015 au secrétariat du Fonds pour la gestion de l’eau et dont l’étude préalable y relative avait été soumise avant le 20 octobre 2014 ;
 
-3. une prise en charge de 90 pour cent restera d’application pour les dossiers dont les projets détaillés ont été soumis avant le 1 er juillet 2015 au secrétariat du Fonds pour la gestion de l’eau et dont l’étude préalable y relative avait été soumise avant le 1 er octobre 2010 ;
+- une prise en charge de 90 pour cent restera d’application pour les dossiers dont les projets détaillés ont été soumis avant le 1 er juillet 2015 au secrétariat du Fonds pour la gestion de l’eau et dont l’étude préalable y relative avait été soumise avant le 1 er octobre 2010 ;
 
-4. les dossiers soumis avant l’entrée en vigueur de la présente loi mais non encore engagés et qui ne tombent pas sous le champ d’application des lettres a), b) ou c) du présent paragraphe resteront éligibles au taux en vigueur au moment de leur soumission au secrétariat du Fonds pour la gestion de l’eau ;
+- les dossiers soumis avant l’entrée en vigueur de la présente loi mais non encore engagés et qui ne tombent pas sous le champ d’application des lettres a), b) ou c) du présent paragraphe resteront éligibles au taux en vigueur au moment de leur soumission au secrétariat du Fonds pour la gestion de l’eau ;
 
-5. pour les engagements pris avant l’entrée en vigueur de la présente loi, et bénéficiant d’un taux visé au paragraphe 5, lettres a), b) ou c), ce taux n’est applicable que pour autant que les travaux afférents aient été mis en adjudication endéans les vingt-quatre mois suivant l’entrée en vigueur. Passé ce délai, les dispositions de l’article 65, paragraphe 1 er , lettre d) sont applicables.
+- pour les engagements pris avant l’entrée en vigueur de la présente loi, et bénéficiant d’un taux visé au paragraphe 5, lettres a), b) ou c), ce taux n’est applicable que pour autant que les travaux afférents aient été mis en adjudication endéans les vingt-quatre mois suivant l’entrée en vigueur. Passé ce délai, les dispositions de l’article 65, paragraphe 1 er , lettre d) sont applicables.
 
 (6)
 

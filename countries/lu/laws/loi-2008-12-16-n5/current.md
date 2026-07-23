@@ -114,7 +114,7 @@ Le ministre fait établir un contrat type d’accueil et d’intégration, assur
 <a id="art-12"></a>
 ## Art. 12.
 
-Préalablement à la conclusion d’un contrat d’accueil et d’intégration avec l’étranger, le ministre fait procéder , ensemble avec le ministre ayant l’Éducation nationale dans ses attributions , à une évaluation des compétences linguistiques.
+Préalablement à la conclusion d’un contrat d’accueil et d’ intégration avec l’étranger, le ministre fait procéder , ensemble avec le ministre ayant l’Éducation nationale dans ses attributions , à une évaluation des compétences linguistiques.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -140,11 +140,11 @@ Si le bénéficiaire est une personne morale de droit privé, celle-ci doit êtr
 
 Lorsque le soutien financier prend la forme d’un subside, les conditions suivantes doivent être remplies :
 
-1. le montant maximal par subside ne peut pas dépasser 100 000 euros et 75 pour cent du coût total du projet ;
+- le montant maximal par subside ne peut pas dépasser 100 000 euros et 75 pour cent du coût total du projet ;
 
-2. la demande doit être adressée par écrit au ministre avant la réalisation du projet et elle doit comprendre une estimation du coût total ;
+- la demande doit être adressée par écrit au ministre avant la réalisation du projet et elle doit comprendre une estimation du coût total ;
 
-3. le bénéficiaire du subside doit assurer le suivi et l’évaluation du projet.
+- le bénéficiaire du subside doit assurer le suivi et l’évaluation du projet.
 
 En outre, lorsque le bénéficiaire est un des organismes visés au paragraphe 1er, l’objet social du bénéficiaire doit présenter un lien avec les missions du ministre définies à l’article 3, paragraphe 1er.
 
@@ -152,37 +152,37 @@ En outre, lorsque le bénéficiaire est un des organismes visés au paragraphe 1
 
 Lorsque le soutien financier prend la forme d’une participation financière, le bénéficiaire doit signer avec l’État une convention qui détermine :
 
-1. les prestations à fournir par le bénéficiaire ;
+- les prestations à fournir par le bénéficiaire ;
 
-2. le type de la participation financière conformément aux modalités précisées au paragraphe 5 ;
+- le type de la participation financière conformément aux modalités précisées au paragraphe 5 ;
 
-3. les modalités de coopération entre les parties contractantes sans pour autant affecter la gestion qui est de la responsabilité du bénéficiaire.
+- les modalités de coopération entre les parties contractantes sans pour autant affecter la gestion qui est de la responsabilité du bénéficiaire.
 
 (4)
 
 Dans le cadre du paragraphe 3 les dépenses suivantes sont considérées :
 
-1. les frais courants d’entretien et de gestion ;
+- les frais courants d’entretien et de gestion ;
 
-2. les dépenses de personnel ;
+- les dépenses de personnel ;
 
-3. les frais résultant de collaborateurs occasionnels ou bénévoles ;
+- les frais résultant de collaborateurs occasionnels ou bénévoles ;
 
-4. les frais en relation avec le louage, l’entretien et la réparation des bâtiments et l’équipement mobilier ;
+- les frais en relation avec le louage, l’entretien et la réparation des bâtiments et l’équipement mobilier ;
 
-5. les frais résultant des prestations spécifiques fournies par le bénéficiaire.
+- les frais résultant des prestations spécifiques fournies par le bénéficiaire.
 
 (5)
 
 La convention fixe le type de la participation financière qui peut consister selon les cas en une :
 
-1. participation financière par couverture du déficit : la participation financière de l’État versée en vertu du paragraphe 4 correspond au pourcentage du solde des frais de fonctionnement tel que fixé par la convention et accepté par l’État et des recettes faites par le bénéficiaire ;
+- participation financière par couverture du déficit : la participation financière de l’État versée en vertu du paragraphe 4 correspond au pourcentage du solde des frais de fonctionnement tel que fixé par la convention et accepté par l’État et des recettes faites par le bénéficiaire ;
 
-2. participation financière par unité de prestation : la participation de l’État versée en vertu du paragraphe 4 est établie en fonction du volume des prestations fournies et du prix unitaire par prestation fixé par la convention ;
+- participation financière par unité de prestation : la participation de l’État versée en vertu du paragraphe 4 est établie en fonction du volume des prestations fournies et du prix unitaire par prestation fixé par la convention ;
 
-3. participation financière forfaitaire ou par projet : la participation financière de l’État versée en vertu du paragraphe 4 est constituée d’un montant invariable fixé sur base d’une négociation entre parties ;
+- participation financière forfaitaire ou par projet : la participation financière de l’État versée en vertu du paragraphe 4 est constituée d’un montant invariable fixé sur base d’une négociation entre parties ;
 
-4. participation financière mixte : la participation financière de l’État versée en vertu du paragraphe 4 correspond à une combinaison des différents types de participation financière retenus pour les différentes prestations prévues à la convention.
+- participation financière mixte : la participation financière de l’État versée en vertu du paragraphe 4 correspond à une combinaison des différents types de participation financière retenus pour les différentes prestations prévues à la convention.
 
 (6)
 
@@ -350,11 +350,11 @@ L’article 14 de la loi précitée concernant le budget des recettes et des dé
 
 Les modifications et additions suivantes sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat:
 
-1. L’annexe A Classification des fonctions - Rubrique I «Administration générale» est complétée et modifiée comme suit: au grade 17 la mention Commissariat du Gouvernement aux étrangers – commissaire du Gouvernement aux étrangers est remplacée par la mention Office luxembourgeois de l’accueil et de l’intégration – directeur.
+- L’annexe A Classification des fonctions - Rubrique I «Administration générale» est complétée et modifiée comme suit: au grade 17 la mention Commissariat du Gouvernement aux étrangers – commissaire du Gouvernement aux étrangers est remplacée par la mention Office luxembourgeois de l’accueil et de l’intégration – directeur.
 
-2. L’annexe D – Détermination – Rubrique I «Administration générale» est complétée et modifiée comme suit:
+- L’annexe D – Détermination – Rubrique I «Administration générale» est complétée et modifiée comme suit:
 
-- Dans la carrière supérieure de l’administration: grade 12 de la computation de la bonification d’ancienneté au grade 17, sous l’énumération des commissaires du Gouvernement, la mention aux étrangers est supprimée et remplacée sous l’énumération des directeurs par la mention de l’Office luxembourgeois de l’accueil et de l’intégration.
+  - Dans la carrière supérieure de l’administration: grade 12 de la computation de la bonification d’ancienneté au grade 17, sous l’énumération des commissaires du Gouvernement, la mention aux étrangers est supprimée et remplacée sous l’énumération des directeurs par la mention de l’Office luxembourgeois de l’accueil et de l’intégration.
 
 Au numéro 9 de la section IV de l’article 22 la mention le commissaire du Gouvernement aux étrangers est remplacée par la mention le directeur de l’Office luxembourgeois de l’accueil et de l’intégration.
 

@@ -36,9 +36,9 @@ Les frais administratifs sont les frais de fonctionnement de la structure d'une 
 
 Sauf les cas visés à l'article 3, l'organisation non gouvernementale de développement peut choisir entre les deux modalités de subventionnement suivantes:
 
-1. le subventionnement à titre de participation aux frais administratifs éligibles sur une base forfaitaire de quatre pour cent des fonds luxembourgeois de l'ensemble des projets cofinancés pendant un exercice budgétaire donné;
+- le subventionnement à titre de participation aux frais administratifs éligibles sur une base forfaitaire de quatre pour cent des fonds luxembourgeois de l'ensemble des projets cofinancés pendant un exercice budgétaire donné;
 
-2. le subventionnement sur base de frais réels éligibles jusqu'à un plafond maximal de quinze pour cent de la part luxembourgeoise de tous les projets cofinancés pendant un exercice budgétaire donné. La contribution à allouer par le ministre ayant dans ses attributions la Coopération et l'Action humanitaire, ci-après «le ministre», est limitée à soixante-six pour cent de ce plafond. Les pièces relatives aux frais déclarés doivent avoir été visées par un réviseur d'entreprises, dont le rapport est à envoyer au ministre, pour contrôle et paiement.
+- le subventionnement sur base de frais réels éligibles jusqu'à un plafond maximal de quinze pour cent de la part luxembourgeoise de tous les projets cofinancés pendant un exercice budgétaire donné. La contribution à allouer par le ministre ayant dans ses attributions la Coopération et l'Action humanitaire, ci-après «le ministre», est limitée à soixante-six pour cent de ce plafond. Les pièces relatives aux frais déclarés doivent avoir été visées par un réviseur d'entreprises, dont le rapport est à envoyer au ministre, pour contrôle et paiement.
 
 Dans les deux cas, la part luxembourgeoise est à comprendre comme constituée par les fonds propres de l'organisation tels qu'issus de la collecte visée à l'article 13 de la loi modifiée du 6 janvier 1996 sur la coopération au développement et l'action humanitaire augmentés du cofinancement accordé par le ministre, à l'exclusion de toute autre source de financement.
 

@@ -52,21 +52,21 @@ Missions
 
 Sans préjudice des attributions que peuvent lui confier d'autres dispositions légales, le délégué à l'égalité a pour mission notamment de
 
-1. formuler des propositions sur toute question ayant trait directement ou indirectement à l’égalité de traitement entre les hommes et les femmes travaillant auprès du département ministériel ou de l’administration, en ce qui concerne plus particulièrement l’organisation du travail, la formation et l’évolution professionnelle
+- formuler des propositions sur toute question ayant trait directement ou indirectement à l’égalité de traitement entre les hommes et les femmes travaillant auprès du département ministériel ou de l’administration, en ce qui concerne plus particulièrement l’organisation du travail, la formation et l’évolution professionnelle
 
-2. proposer au ministre du ressort des actions de sensibilisation du personnel ainsi que des plans de mesures visant à promouvoir l'égalité des chances entre hommes et femmes, le cas échéant en collaboration avec le département ministériel ayant l’Égalité des chances dans ses attributions
+- proposer au ministre du ressort des actions de sensibilisation du personnel ainsi que des plans de mesures visant à promouvoir l'égalité des chances entre hommes et femmes, le cas échéant en collaboration avec le département ministériel ayant l’Égalité des chances dans ses attributions
 
-3. donner des consultations à l'intention du personnel au sujet des questions visées au point a) ci-dessus
+- donner des consultations à l'intention du personnel au sujet des questions visées au point a) ci-dessus
 
-4. présenter des réclamations individuelles ou collectives au supérieur hiérarchique de la ou des personnes qui s'estiment traitées de façon inégale, à condition de disposer de l'accord écrit de la ou des personnes concernées
+- présenter des réclamations individuelles ou collectives au supérieur hiérarchique de la ou des personnes qui s'estiment traitées de façon inégale, à condition de disposer de l'accord écrit de la ou des personnes concernées
 
-5. veiller à la protection du personnel contre le harcèlement sexuel ou moral à l'occasion des relations de travail, proposer au ministre du ressort toute action de prévention qu'il juge nécessaire dans ce domaine, assister et conseiller les agents ayant fait l'objet d'un harcèlement sexuel ou moral à l’occasion des relations de travail
+- veiller à la protection du personnel contre le harcèlement sexuel ou moral à l'occasion des relations de travail, proposer au ministre du ressort toute action de prévention qu'il juge nécessaire dans ce domaine, assister et conseiller les agents ayant fait l'objet d'un harcèlement sexuel ou moral à l’occasion des relations de travail
 
-6. émettre un avis , à demander par le chef d’administration, sur les horaires de travail à appliquer
+- émettre un avis , à demander par le chef d’administration, sur les horaires de travail à appliquer
 
-7. émettre un avis sur toute demande de service à temps partiel et de service à temps partiel à durée déterminée prévu à l’article 31, paragraphe 2 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat
+- émettre un avis sur toute demande de service à temps partiel et de service à temps partiel à durée déterminée prévu à l’article 31, paragraphe 2 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat
 
-8. se concerter au moins une fois par an, sur invitation du ministre ayant l’Égalité des chances dans ses attributions, avec les autres délégués au sujet de leurs missions ou en vue de la mise en place coordonnée d’actions positives dans le secteur public.
+- se concerter au moins une fois par an, sur invitation du ministre ayant l’Égalité des chances dans ses attributions, avec les autres délégués au sujet de leurs missions ou en vue de la mise en place coordonnée d’actions positives dans le secteur public.
 
 <a id="art-3"></a>
 ## Art. 3.

@@ -29,15 +29,15 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le droit de porter le titre professionnel de journaliste est subordonné aux conditions suivantes:
 
-1. exercer, à titre de profession principale, une activité constituant une contribution rédactionnelle à une ou plusieurs publications, à une ou plusieurs agences de presse, émissions radiodiffusées ou télévisées ou encore, en tant que rédacteur ou correspondant attitré pour le Grand-Duché de Luxembourg, à un organe de presse étranger, pourvu que les publications et émissions soient consacrées à l´information générale du public, telle qu´elle est définie à l´article 2, alinéa f de la loi du 11 mars 1976;
+- exercer, à titre de profession principale, une activité constituant une contribution rédactionnelle à une ou plusieurs publications, à une ou plusieurs agences de presse, émissions radiodiffusées ou télévisées ou encore, en tant que rédacteur ou correspondant attitré pour le Grand-Duché de Luxembourg, à un organe de presse étranger, pourvu que les publications et émissions soient consacrées à l´information générale du public, telle qu´elle est définie à l´article 2, alinéa f de la loi du 11 mars 1976;
 
-2. avoir l´âge de la majorité;
+- avoir l´âge de la majorité;
 
-3. ne pas être déchu, au Grand-Duché de Luxembourg, en tout ou en partie, des droits civils énumérés à l´article 31 du code pénal et, sans préjudice à ce qui est prévu à l´article 2 de la présente loi, n´avoir encouru à l´étranger une condamnation qui, si elle avait été prononcée au Grand-Duché de Luxembourg, aurait entraîné la déchéance de tout ou partie de ces droits;
+- ne pas être déchu, au Grand-Duché de Luxembourg, en tout ou en partie, des droits civils énumérés à l´article 31 du code pénal et, sans préjudice à ce qui est prévu à l´article 2 de la présente loi, n´avoir encouru à l´étranger une condamnation qui, si elle avait été prononcée au Grand-Duché de Luxembourg, aurait entraîné la déchéance de tout ou partie de ces droits;
 
-4. justifier d´une pratique professionnelle de deux ans au moins;
+- justifier d´une pratique professionnelle de deux ans au moins;
 
-5. n´exercer aucun commerce ni aucune activité ayant pour objet principal la publicité, si ce n´est en qualité de dirigeant d´un organe de presse.
+- n´exercer aucun commerce ni aucune activité ayant pour objet principal la publicité, si ce n´est en qualité de dirigeant d´un organe de presse.
 
 <a id="art-1bis-20040612"></a>
 ## Art. 1bis.
@@ -53,9 +53,9 @@ Au cas où l´intéressé aurait été condamné à l´étranger à une peine en
 
 Le Conseil de Presse comprend:
 
-1. les éditeurs des publications, agences et émissions luxembourgeoises visées par l´article 1 er , alinéa a de la présente loi;
+- les éditeurs des publications, agences et émissions luxembourgeoises visées par l´article 1 er , alinéa a de la présente loi;
 
-2. un nombre égal de journalistes.
+- un nombre égal de journalistes.
 
 Les membres du Conseil de Presse, proposés par les milieux professionnels, sont nommés par le Grand-Duc.
 

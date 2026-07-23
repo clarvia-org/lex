@@ -83,7 +83,7 @@ Aucune subvention n’est allouée si le montant total calculé est inférieur �
 
 Pour les bénéficiaires n'ayant aucun enfant à charge, la subvention est de 0,50% calculés sur le solde du prêt multiplié par le taux défini au plan d'amortissement en annexe du présent règlement.
 
-La subvention est majorée de 0,50% pour chaque enfant à charge, au sens de l’article 30 du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux . Sont considérés comme enfants à charge les enfants pour lesquels l'un des partenaires touche des allocations familiales.
+La subvention est majorée de 0,50% pour chaque enfant à charge , au sens de l’article 30 du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux . Sont considérés comme enfants à charge les enfants pour lesquels l'un des partenaires touche des allocations familiales.
 
 <a id="art-6"></a>
 ## Art. 6.

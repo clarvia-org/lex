@@ -64,31 +64,31 @@ Le Fonds est placé sous l’autorité du ministre ayant dans ses attributions l
 
 Sauf décision motivée du Gouvernement en conseil et sur avis du comité interministériel prévu à l’article 50 de la présente loi, le Fonds peut intervenir en faveur des populations des pays en développement
 
-1. dans les secteurs suivants:
+- dans les secteurs suivants:
 
-- l’action sociale, y compris la santé, l’habitat, l’éducation et la formation professionnelle;
+  - l’action sociale, y compris la santé, l’habitat, l’éducation et la formation professionnelle;
 
-- l’agriculture et la sécurité alimentaire;
+  - l’agriculture et la sécurité alimentaire;
 
-- l’eau et l’assainissement;
+  - l’eau et l’assainissement;
 
-- la coopération économique, financière et industrielle;
+  - la coopération économique, financière et industrielle;
 
-- la coopération dans le domaine de l’environnement;
+  - la coopération dans le domaine de l’environnement;
 
-- la coopération culturelle et scientifique;
+  - la coopération culturelle et scientifique;
 
-- l’éducation au développement.
+  - l’éducation au développement.
 
-2. selon les approches transversales suivantes:
+- selon les approches transversales suivantes:
 
-- la promotion des droits de l’homme;
+  - la promotion des droits de l’homme;
 
-- le renforcement de la bonne gouvernance, y inclus la démocratie participative;
+  - le renforcement de la bonne gouvernance, y inclus la démocratie participative;
 
-- la dimension de genre;
+  - la dimension de genre;
 
-- le développement local intégré.
+  - le développement local intégré.
 
 Le Fonds peut servir au financement de programmes pluriannuels à négocier avec les pays partenaires ou des acteurs de coopération au développement spécialisés, par des aides directes, par le financement ou le cofinancement de programmes ou des projets d’organismes publics ou privés, nationaux ou internationaux.
 
@@ -124,7 +124,7 @@ L’agrément est accordé pour la durée de deux ans et peut être renouvelé. 
 <a id="art-8"></a>
 ## Art. 8.
 
-A charge du Fonds et aux conditions déterminées par la présente loi, le ministre peut accorder aux organisations non gouvernementales luxembourgeoises qu’il a agréées, des subventions, sous forme de cofinancements ou de donations globales, destinées à des projets de coopération qu’elles exécutent au bénéfice des pays en développement.
+A charge du Fonds et aux conditions déterminées par la présente loi, le ministre peut accorder aux organisations non gouvernementales luxembourgeoises qu’il a agréées, des subventions, sous forme de cofinancements ou de donations globales , destinées à des projets de coopération qu’elles exécutent au bénéfice des pays en développement.
 
 Le cofinancement est une subvention destinée à un projet de développement précis.
 
@@ -133,18 +133,18 @@ La donation globale est une subvention annuelle destinée à un ensemble limité
 <a id="art-9"></a>
 ## Art. 9.
 
-Pour pouvoir bénéficier d’un cofinancement ou d’une donation globale, les projets doivent:
+Pour pouvoir bénéficier d’un cofinancement ou d’une donation globale , les projets doivent:
 
-1. concerner un ou plusieurs pays en développement et viser le développement de ce ou de ces pays,
+- concerner un ou plusieurs pays en développement et viser le développement de ce ou de ces pays,
 
-2. être présentés en détail quant au lieu, au secteur et à la population bénéficiaire, quant au but et aux objectifs recherchés, quant aux moyens à mettre en oeuvre, quant au financement et quant au calendrier d’exécution,
+- être présentés en détail quant au lieu, au secteur et à la population bénéficiaire, quant au but et aux objectifs recherchés, quant aux moyens à mettre en oeuvre, quant au financement et quant au calendrier d’exécution,
 
-3. être gérés par des personnes suffisamment compétentes pour garantir une bonne exécution et une parfaite administration financière.
+- être gérés par des personnes suffisamment compétentes pour garantir une bonne exécution et une parfaite administration financière.
 
 <a id="art-10"></a>
 ## Art. 10.
 
-Au cas où un projet à retenir pour un cofinancement ou une donation globale fait partie d’un projet plus vaste, celui-ci doit être présenté dans un descriptif renseignant notamment sur les bailleurs de fonds impliqués.
+Au cas où un projet à retenir pour un cofinancement ou une donation globale fait partie d’ un projet plus vaste, celui-ci doit être présenté dans un descriptif renseignant notamment sur les bailleurs de fonds impliqués.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -159,11 +159,11 @@ La durée prévisionnelle d’un projet introduit sous cofinancement doit être 
 
 Les taux de cofinancement applicables sont les suivants :
 
-1. Un taux de cofinancement de 80 pour cent de la part luxembourgeoise pour tout projet mis en œuvre dans les pays les moins avancés, dénommés ci-après « PMA », et les pays partenaires de la coopération luxembourgeoise.
+- Un taux de cofinancement de 80 pour cent de la part luxembourgeoise pour tout projet mis en œuvre dans les pays les moins avancés, dénommés ci-après « PMA », et les pays partenaires de la coopération luxembourgeoise.
 
-2. Un taux de cofinancement de 60 pour cent de la part luxembourgeoise pour tout projet mis en œuvre dans des pays bénéficiaires d’aide publique au développement, qui ne sont pas listés parmi les PMA ou les pays partenaires de la coopération luxembourgeoise.
+- Un taux de cofinancement de 60 pour cent de la part luxembourgeoise pour tout projet mis en œuvre dans des pays bénéficiaires d’aide publique au développement, qui ne sont pas listés parmi les PMA ou les pays partenaires de la coopération luxembourgeoise.
 
-3. Un taux de cofinancement de 80 pour cent de la part luxembourgeoise pour tout projet mis en œuvre dans des pays bénéficiaires d’aide publique au développement qui ne sont pas énumérés parmi les PMA ou les pays partenaires, mais qui ciblent directement les droits de la personne.
+- Un taux de cofinancement de 80 pour cent de la part luxembourgeoise pour tout projet mis en œuvre dans des pays bénéficiaires d’aide publique au développement qui ne sont pas énumérés parmi les PMA ou les pays partenaires, mais qui ciblent directement les droits de la personne.
 
 (3)
 
@@ -179,25 +179,25 @@ Cette liste, ainsi que la liste des pays partenaires de la coopération au déve
 
 Le projet ciblant les droits de la personne doit concerner au moins un des domaines suivants :
 
-1. Les mesures visant à soutenir
+- Les mesures visant à soutenir
 
-1. les institutions et mécanismes spécialisés dans les droits de la personne opérant aux niveaux mondial, régional, national ou local, dans leur mission officielle de promotion et de protection des droits civils et politiques, économiques, sociaux et culturels tels qu’ils sont définis dans les conventions et pactes internationaux ;
+  - les institutions et mécanismes spécialisés dans les droits de la personne opérant aux niveaux mondial, régional, national ou local, dans leur mission officielle de promotion et de protection des droits civils et politiques, économiques, sociaux et culturels tels qu’ils sont définis dans les conventions et pactes internationaux ;
 
-2. la transposition dans la législation nationale des engagements internationaux concernant les droits de la personne ;
+  - la transposition dans la législation nationale des engagements internationaux concernant les droits de la personne ;
 
-3. la notification et suivi ainsi que le dialogue sur les droits de la personne.
+  - la notification et suivi ainsi que le dialogue sur les droits de la personne.
 
-2. Les défenseurs des droits de la personne et les organisations non gouvernementales œuvrant dans les domaines de :
+- Les défenseurs des droits de la personne et les organisations non gouvernementales œuvrant dans les domaines de :
 
-1. la promotion des droits de la personne ;
+  - la promotion des droits de la personne ;
 
-2. la défense active ;
+  - la défense active ;
 
-3. la mobilisation ;
+  - la mobilisation ;
 
-4. les activités de sensibilisation et d’éducation des citoyens aux droits de la personne.
+  - les activités de sensibilisation et d’éducation des citoyens aux droits de la personne.
 
-3. L’élaboration de programmes concernant les droits de la personne, ciblés sur des groupes particuliers, comme les enfants, les individus en situation de handicap, les migrants, les femmes et filles, victimes de toutes les formes de violence basée sur le genre, les minorités ethniques, religieuses, linguistiques et sexuelles, les populations autochtones et celles qui sont victimes de discrimination de caste, les victimes de la traite d’êtres humains, les victimes de la torture.
+- L’élaboration de programmes concernant les droits de la personne, ciblés sur des groupes particuliers, comme les enfants, les individus en situation de handicap, les migrants, les femmes et filles, victimes de toutes les formes de violence basée sur le genre, les minorités ethniques, religieuses, linguistiques et sexuelles, les populations autochtones et celles qui sont victimes de discrimination de caste, les victimes de la traite d’êtres humains, les victimes de la torture.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -221,7 +221,7 @@ Le ministre détermine la procédure applicable à l’introduction des demandes
 <a id="art-15"></a>
 ## Art. 15.
 
-Chaque projet subventionné doit faire l’objet d’un rapport d’exécution après son achèvement. Le ministre peut demander la présentation d’un ou de plusieurs rapports intermédiaires au cours de l’exécution d’un projet. Il détermine la procédure applicable au contrôle de la gestion des moyens financiers mis à la disposition d’une organisation non gouvernementale pour l’exécution d’un programme ou projet.
+Chaque projet subventionné doit faire l’objet d’un rapport d’exécution après son achèvement. Le ministre peut demander la présentation d’un ou de plusieurs rapports intermédiaires au cours de l’exécution d’un projet . Il détermine la procédure applicable au contrôle de la gestion des moyens financiers mis à la disposition d’une organisation non gouvernementale pour l’exécution d’un programme ou projet.
 
 #### Chapitre 3. Des subsides
 
@@ -251,21 +251,21 @@ Le ministre peut conclure avec une ou plusieurs organisations non gouvernemental
 
 L’accord-cadre est une convention négociée entre l’organisation non gouvernementale de développement agréée et le ministre en vue de la mise en œuvre d’une ou de plusieurs actions de développement. Elle est conclue sur base d’une approche d’un programme pluriannuel qui doit comporter :
 
-1. une stratégie en ce qui concerne le choix des pays et des secteurs d’intervention ;
+- une stratégie en ce qui concerne le choix des pays et des secteurs d’intervention ;
 
-2. une stratégie de suivi, d’évaluation et de contrôle financier de l’accord-cadre ;
+- une stratégie de suivi, d’évaluation et de contrôle financier de l’accord-cadre ;
 
-3. des arrangements au sujet du cofinancement ou des subsides.
+- des arrangements au sujet du cofinancement ou des subsides.
 
 (2)
 
 Pour pouvoir entrer dans le bénéfice d’un accord-cadre, l’organisation non gouvernementale de développement agréée doit répondre aux conditions suivantes :
 
-1. L’organisation non gouvernementale de développement agréée doit être agréée d’une manière continue conformément aux termes de l’article 7 depuis une période qui ne peut être inférieure à cinq années révolues au moment du dépôt de la demande.
+- L’organisation non gouvernementale de développement agréée doit être agréée d’une manière continue conformément aux termes de l’article 7 depuis une période qui ne peut être inférieure à cinq années révolues au moment du dépôt de la demande.
 
-2. L’organisation non gouvernementale de développement agréée doit avoir formulé et terminé de manière satisfaisante un minimum de six projets cofinancés par l’État aux termes de l’article 9 de cette loi. La part luxembourgeoise de l’ensemble de ces six projets ne doit pas avoir été inférieure à 600.000 euros.
+- L’organisation non gouvernementale de développement agréée doit avoir formulé et terminé de manière satisfaisante un minimum de six projets cofinancés par l’État aux termes de l’article 9 de cette loi. La part luxembourgeoise de l’ensemble de ces six projets ne doit pas avoir été inférieure à 600.000 euros.
 
-3. L’organisation non gouvernementale de développement agréée doit disposer en son sein des capacités et compétences nécessaires pour la gestion d’un accord-cadre et disposer des ressources financières propres suffisantes pour couvrir sa part de l’accord-cadre.
+- L’organisation non gouvernementale de développement agréée doit disposer en son sein des capacités et compétences nécessaires pour la gestion d’un accord-cadre et disposer des ressources financières propres suffisantes pour couvrir sa part de l’accord-cadre.
 
 (3)
 
@@ -277,11 +277,11 @@ La durée d’un accord-cadre doit être comprise entre trois et cinq années.
 
 Les taux de cofinancement applicables sont les suivants :
 
-1. Un taux de cofinancement de 80 pour cent de la part luxembourgeoise pour toute action relevant de l’accord-cadre mise en œuvre dans les PMA, et les pays partenaires de la coopération luxembourgeoise.
+- Un taux de cofinancement de 80 pour cent de la part luxembourgeoise pour toute action relevant de l’accord-cadre mise en œuvre dans les PMA, et les pays partenaires de la coopération luxembourgeoise.
 
-2. Un taux de cofinancement de 60 pour cent de la part luxembourgeoise pour toute action relevant de l’accord-cadre mise en œuvre dans des pays bénéficiaires d’aide publique au développement, qui ne sont pas listés parmi les PMA ou les pays partenaires de la coopération luxembourgeoise.
+- Un taux de cofinancement de 60 pour cent de la part luxembourgeoise pour toute action relevant de l’accord-cadre mise en œuvre dans des pays bénéficiaires d’aide publique au développement, qui ne sont pas listés parmi les PMA ou les pays partenaires de la coopération luxembourgeoise.
 
-3. Un taux de cofinancement de 80 pour cent de la part luxembourgeoise pour toute action relevant de l’accord-cadre mise en œuvre dans des pays bénéficiaires d’aide publique au développement qui ne sont pas énumérés parmi les PMA ou les pays partenaires, mais qui cible directement les droits de la personne tels que définis à l’article 11, paragraphe 5.
+- Un taux de cofinancement de 80 pour cent de la part luxembourgeoise pour toute action relevant de l’accord-cadre mise en œuvre dans des pays bénéficiaires d’aide publique au développement qui ne sont pas énumérés parmi les PMA ou les pays partenaires, mais qui cible directement les droits de la personne tels que définis à l’article 11, paragraphe 5.
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -304,17 +304,17 @@ Toute personne qui entend, sans but lucratif, apporter son aide à la population
 
 Peut être agréé comme agent de la coopération, le candidat qui remplit les conditions suivantes, en dehors de celles prévues à l’article 20:
 
-1. être fonctionnaire, employé ou ouvrier de l’Etat;
+- être fonctionnaire, employé ou ouvrier de l’Etat;
 
-2. avoir obtenu l’autorisation préalable du ministre du ressort dont il relève;
+- avoir obtenu l’autorisation préalable du ministre du ressort dont il relève;
 
-3. être appelé à assurer des services à la population d’un pays en développement dans le cadre d’un programme ou projet de développement;
+- être appelé à assurer des services à la population d’un pays en développement dans le cadre d’un programme ou projet de développement;
 
-4. collaborer à la mise en oeuvre d’un programme ou projet de développement en faveur des populations des pays en développement et dont la réalisation incombe au Gouvernement luxembourgeois, aux Gouvernements des pays en développement liés au Gouvernement luxembourgeois dans le cadre d’un accord bilatéral ou multilatéral, à une institution internationale ou supranationale dont le Luxembourg est membre ou à une organisation non gouvernementale ;
+- collaborer à la mise en oeuvre d’un programme ou projet de développement en faveur des populations des pays en développement et dont la réalisation incombe au Gouvernement luxembourgeois, aux Gouvernements des pays en développement liés au Gouvernement luxembourgeois dans le cadre d’un accord bilatéral ou multilatéral, à une institution internationale ou supranationale dont le Luxembourg est membre ou à une organisation non gouvernementale ;
 
-5. avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de sa tâche;
+- avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de sa tâche;
 
-6. s’engager pour une durée minimum d’une année, y non compris le temps de formation spécifique, dont la prise en charge par l’Etat ne peut toutefois pas dépasser la durée de trois mois. Dans certains cas exceptionnels, le ministre peut réduire cette durée minimum d’une année sans que celle-ci ne puisse toutefois être inférieure à six mois, y non compris le temps de formation spécifique. Le ministre détermine la nature et les modalités de la formation spécifique.
+- s’engager pour une durée minimum d’une année, y non compris le temps de formation spécifique, dont la prise en charge par l’Etat ne peut toutefois pas dépasser la durée de trois mois. Dans certains cas exceptionnels, le ministre peut réduire cette durée minimum d’une année sans que celle-ci ne puisse toutefois être inférieure à six mois, y non compris le temps de formation spécifique. Le ministre détermine la nature et les modalités de la formation spécifique.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -334,15 +334,15 @@ A défaut d’emploi, l’intéressé est nommé à un emploi «hors cadre» par
 
 Peut être agréé comme agent de la coopération pour la durée de sa mission de coopération, le candidat autre que celui issu du secteur public visé à l’article 21 qui remplit les conditions suivantes, en dehors de celles prévues à l’article 20:
 
-1. être majeur;
+- être majeur;
 
-2. être appelé à assurer des services à la population d’un pays en développement dans le cadre d’un programme ou projet de développement;
+- être appelé à assurer des services à la population d’un pays en développement dans le cadre d’un programme ou projet de développement;
 
-3. collaborer à la mise en oeuvre d’un programme ou projet de développement en faveur des populations des pays en développement et dont la réalisation incombe au Gouvernement luxembourgeois, aux Gouvernements des pays en développement liés au Gouvernement luxembourgeois dans le cadre d’un accord bilatéral ou multilatéral ou à une institution internationale ou supranationale dont le Luxembourg est membre;
+- collaborer à la mise en oeuvre d’un programme ou projet de développement en faveur des populations des pays en développement et dont la réalisation incombe au Gouvernement luxembourgeois, aux Gouvernements des pays en développement liés au Gouvernement luxembourgeois dans le cadre d’un accord bilatéral ou multilatéral ou à une institution internationale ou supranationale dont le Luxembourg est membre;
 
-4. avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de sa tâche;
+- avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de sa tâche;
 
-5. s’engager pour une durée minimum d’une année, y non compris le temps de formation spécifique, dont la prise en charge par l’Etat ne peut toutefois pas dépasser la durée de trois mois. Dans certains cas exceptionnels, le ministre peut réduire cette durée minimum d’une année sans que celle-ci ne puisse toutefois être inférieure à six mois, y non compris le temps de formation spécifique. Le ministre détermine la nature et les modalités de la formation spécifique.
+- s’engager pour une durée minimum d’une année, y non compris le temps de formation spécifique, dont la prise en charge par l’Etat ne peut toutefois pas dépasser la durée de trois mois. Dans certains cas exceptionnels, le ministre peut réduire cette durée minimum d’une année sans que celle-ci ne puisse toutefois être inférieure à six mois, y non compris le temps de formation spécifique. Le ministre détermine la nature et les modalités de la formation spécifique.
 
 Sous réserve des dispositions qui suivent, cet agent de la coopération est soumis au régime de la sécurité sociale soit des employés privés, soit des ouvriers, suivant que son occupation est principalement intellectuelle ou manuelle.
 
@@ -423,19 +423,19 @@ La révocation prévue au présent article ne préjudicie pas d’autres recours
 
 Peut être agréé comme coopérant , le candidat qui remplit, en dehors de celles prévues à l’article 20, les conditions suivantes:
 
-1. être majeur;
+- être majeur;
 
-2. être ressortissant d’un Etat membre de l’Organisation de coopération et de développement économiques;
+- être ressortissant d’un Etat membre de l’Organisation de coopération et de développement économiques;
 
-3. être appelé à assurer des services à la population d’un pays en développement dans le cadre d’un programme ou projet de développement;
+- être appelé à assurer des services à la population d’un pays en développement dans le cadre d’un programme ou projet de développement;
 
-4. collaborer à la mise en oeuvre d’un programme ou projet de développement en faveur des populations des pays en développement et dont la réalisation incombe à une organisation non gouvernementale;
+- collaborer à la mise en oeuvre d’un programme ou projet de développement en faveur des populations des pays en développement et dont la réalisation incombe à une organisation non gouvernementale;
 
-5. avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de sa tâche;
+- avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de sa tâche;
 
-6. avoir conclu un contrat d’engagement pour une durée minimum de deux années avec une organisation non gouvernementale, y non compris le temps de formation spécifique, dont la prise en charge par l’Etat ne peut toutefois pas dépasser la durée de trois mois. Dans certains cas exceptionnels, le ministre peut réduire cette durée minimum de deux années sans que celle-ci ne puisse toutefois être inférieure à six mois, y non compris le temps de formation spécifique;
+- avoir conclu un contrat d’engagement pour une durée minimum de deux années avec une organisation non gouvernementale, y non compris le temps de formation spécifique, dont la prise en charge par l’Etat ne peut toutefois pas dépasser la durée de trois mois. Dans certains cas exceptionnels, le ministre peut réduire cette durée minimum de deux années sans que celle-ci ne puisse toutefois être inférieure à six mois, y non compris le temps de formation spécifique;
 
-7. bénéficier d’une rémunération permettant des conditions de vie adéquates d’un point de vue physique et sanitaire.
+- bénéficier d’une rémunération permettant des conditions de vie adéquates d’un point de vue physique et sanitaire.
 
 <a id="art-29"></a>
 ## Art. 29.
@@ -502,35 +502,35 @@ Contre les décisions prononçant larévocation de l’agrément, un recours est
 
 Après avoir pris l’avis du comité interministériel prévu à l’article 50 de la présente loi, le ministre peut accorder tout ou partie des avantages créées en faveur des coopérants, notamment en matière de sécurité sociale, aux ministres d’un culte, ainsi qu’aux membres d’ordres ou de congrégations religieux, de nationalité luxembourgeoise. Ils doivent remplir les conditions suivantes:
 
-1. être majeur;
+- être majeur;
 
-2. être appelé à assurer des services à la population d’un pays en développement dans le cadre d’un programme ou projet de développement;
+- être appelé à assurer des services à la population d’un pays en développement dans le cadre d’un programme ou projet de développement;
 
-3. avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de leur tâche.
+- avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de leur tâche.
 
 <a id="art-34"></a>
 ## Art. 34.
 
 Après avoir pris l’avis du comité interministériel prévu à l’article 50 de la présente loi, le ministre peut accorder les avantages en matière de sécurité sociale créés en faveur des coopérants aux experts et représentants des organisations non gouvernementales agréées participant à des projets de coopération au développement dans un pays en développement pendant une durée minimale de sept jours. Ils doivent remplir les conditions suivantes:
 
-1. être majeur;
+- être majeur;
 
-2. être ressortissant d’un Etat membre de l’Organisation de coopération et de développement économiques;
+- être ressortissant d’un Etat membre de l’Organisation de coopération et de développement économiques;
 
-3. être appelé à assurer des services à la population d’un pays en développement dans le cadre d’un programme ou projet de développement;
+- être appelé à assurer des services à la population d’un pays en développement dans le cadre d’un programme ou projet de développement;
 
-4. collaborer à la mise en oeuvre d’un programme ou projet de développement en faveur des populations de pays en développement et dont la réalisation incombe à une organisation non gouvernementale agréée;
+- collaborer à la mise en oeuvre d’un programme ou projet de développement en faveur des populations de pays en développement et dont la réalisation incombe à une organisation non gouvernementale agréée;
 
-5. avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de leur tâche.
+- avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de leur tâche.
 
 <a id="art-35"></a>
 ## Art. 35.
 
 Peuvent encore être assimilés à des coopérants aux fins de l’affiliation à la sécurité sociale par décision du ministre ayant dans ses attributions la coopération au développement, sur avis du comité interministériel pour la coopération au développement:
 
-1. les personnes en services d’une société commerciale de droit luxembourgeois qui, pour le compte du Gouvernement luxembourgeois, exécutent des programmes ou projets de développement en faveur des populations en développement;
+- les personnes en services d’une société commerciale de droit luxembourgeois qui, pour le compte du Gouvernement luxembourgeois, exécutent des programmes ou projets de développement en faveur des populations en développement;
 
-2. les membres d’organisations non gouvernementales agréées , non autrement couvertes par la présente loi, qui participent à des missions humanitaires dans des pays en développement dans l’intérêt de la population de ces pays.
+- les membres d’organisations non gouvernementales agréées , non autrement couvertes par la présente loi, qui participent à des missions humanitaires dans des pays en développement dans l’intérêt de la population de ces pays.
 
 Un règlement grand-ducal peut déterminer les conditions et les modalités suivant lesquelles d’autres droits et obligations prévues par la présente loi sont étendus aux personnes visées par le présent article.
 
@@ -567,11 +567,11 @@ La durée du congé de la coopération au développement ne peut être imputée 
 
 L’octroi du congé de la coopération au développement aux experts et des représentants des organisations non gouvernementales exerçant une activité professionnelle salariée est subordonnée aux conditions suivantes:
 
-1. l’intéressé doit pouvoir justifier d’au moins un an de service auprès du même employeur;
+- l’intéressé doit pouvoir justifier d’au moins un an de service auprès du même employeur;
 
-2. sauf accord de la part de l’employeur, le congé de la coopération au développement ne peut être rattaché à une période de congé annuel payé ou à une période de maladie pour le cas où ce cumul entraînerait une absence continue dépassant la durée totale du congé annuel dû;
+- sauf accord de la part de l’employeur, le congé de la coopération au développement ne peut être rattaché à une période de congé annuel payé ou à une période de maladie pour le cas où ce cumul entraînerait une absence continue dépassant la durée totale du congé annuel dû;
 
-3. l’octroi du congé de la coopération au développement sollicité peut être refusé si l’absence du salarié risque d’avoir une répercussion majeure préjudiciable à l’exploitation de l’entreprise, au bon fonctionnement de l’administration ou du service public ou au déroulement harmonieux du congé annuel payé des autres membres du personnel.
+- l’octroi du congé de la coopération au développement sollicité peut être refusé si l’absence du salarié risque d’avoir une répercussion majeure préjudiciable à l’exploitation de l’entreprise, au bon fonctionnement de l’administration ou du service public ou au déroulement harmonieux du congé annuel payé des autres membres du personnel.
 
 #### Chapitre 4 Maintien des droits
 
@@ -649,9 +649,9 @@ Les dons en espéces alloués aux organisations non gouvernementales, agréées 
 
 La loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu est modifié comme suit:
 
-1. à l’article 112 les termes «au Fonds d’aide au développement» sont remplacés par les termes «aux organisations non gouvernementales agréées au sens de l’article 7 de la loi sur la coopération au développement»;
+- à l’article 112 les termes «au Fonds d’aide au développement» sont remplacés par les termes «aux organisations non gouvernementales agréées au sens de l’article 7 de la loi sur la coopération au développement»;
 
-2. à l’article 150 les termes «et au Fonds d’aide au développement» sont supprimés.
+- à l’article 150 les termes «et au Fonds d’aide au développement» sont supprimés.
 
 <a id="art-53"></a>
 ## Art. 53.
@@ -668,7 +668,9 @@ Les dispositions finales prévues au Titre VII s’appliquent à partir de l’a
 <a id="art-55"></a>
 ## Art. 55.
 
-L’alinéa 1 del’article 15 du code des assurance sociales prend la teneur suivante:«L’indemnité pécuniaire n’est accordée qu’aux personnes âgées de moins de soixante-huit ans et assurées en vertu de l’article 1er, numéros 1) à 5) et 7)».
+L’alinéa 1 del’article 15 du code des assurance sociales prend la teneur suivante:
+
+«L’indemnité pécuniaire n’est accordée qu’aux personnes âgées de moins de soixante-huit ans et assurées en vertu de l’article 1er, numéros 1) à 5) et 7)».
 
 <a id="art-56"></a>
 ## Art. 56.

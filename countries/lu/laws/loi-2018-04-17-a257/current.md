@@ -40,7 +40,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 (1)
 
-La Commission de surveillance du secteur financier (ci-après, la « CSSF ») est l'autorité compétente au Luxembourg pour veiller au respect du règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 (ci-après, le « règlement (UE) 2016/1011 ») par les administrateurs, sans préjudice de l’article 40, paragraphe 1er, lettre a), dudit règlement .
+La Commission de surveillance du secteur financier (ci-après, la « CSSF ») est l'autorité compétente au Luxembourg pour veiller au respect du règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 (ci-après, le « règlement (UE) 2016/1011 ») par les administrateurs , sans préjudice de l’article 40, paragraphe 1er, lettre a), dudit règlement .
 
 La CSSF est également l’autorité compétente au Luxembourg aux fins de l’article 32 du règlement (UE) 2016/1011, lorsque le Luxembourg est l’État membre de référence d’un administrateur situé dans un pays tiers, et aux fins de l’article 33 dudit règlement lorsqu’un administrateur ou une entité surveillée établi au Luxembourg demande d’avaliser un indice de référence ou une famille d’indices de référence fournis dans un pays tiers.
 
@@ -71,36 +71,36 @@ Aux fins de l'application du règlement (UE) 2016/1011 et de la présente loi, l
 
 Les pouvoirs des autorités compétentes incluent le droit :
 
-1. d’accéder à tout document et à toute autre donnée, sous quelque forme que ce soit, et d’en recevoir ou d’en prendre copie ;
+- d’accéder à tout document et à toute autre donnée, sous quelque forme que ce soit, et d’en recevoir ou d’en prendre copie ;
 
-2. de solliciter ou d’exiger des informations de toute personne intervenant dans la fourniture d'un indice de référence et contribuant à sa définition, y compris de tout prestataire de services auprès duquel les fonctions, services ou activités pour la fourniture d'un indice de référence ont été externalisés conformément à l'article 10 du règlement (UE) 2016/1011 , ainsi que leurs mandants, et, si nécessaire, de convoquer cette personne et de l'interroger afin d'obtenir des informations ;
+- de solliciter ou d’exiger des informations de toute personne intervenant dans la fourniture d'un indice de référence et contribuant à sa définition, y compris de tout prestataire de services auprès duquel les fonctions, services ou activités pour la fourniture d'un indice de référence ont été externalisés conformément à l'article 10 du règlement (UE) 2016/1011 , ainsi que leurs mandants, et, si nécessaire, de convoquer cette personne et de l'interroger afin d'obtenir des informations ;
 
-3. pour les indices de référence de matières premières, de demander des informations aux contributeurs opérant sur les marchés au comptant concernés, le cas échéant, selon des formats et des rapports de transactions standard, et d’accéder directement aux systèmes des opérateurs ;
+- pour les indices de référence de matières premières, de demander des informations aux contributeurs opérant sur les marchés au comptant concernés, le cas échéant, selon des formats et des rapports de transactions standard, et d’accéder directement aux systèmes des opérateurs ;
 
-4. de procéder à des inspections sur place, y compris de saisir tout document, fichier électronique ou autres données, sous quelque forme que ce soit, lorsqu'il existe des motifs raisonnables de suspecter que des documents et autres données liés à l'objet de l'inspection ou de l'enquête peuvent se révéler importants pour prouver une violation du règlement (UE) 2016/1011 , auprès des personnes soumises à leur surveillance respective, et, sous réserve de l’autorisation judiciaire prévue à l’article 3, auprès de toute autre personne, en d’autres lieux que le domicile privé des personnes physiques ;
+- de procéder à des inspections sur place, y compris de saisir tout document, fichier électronique ou autres données, sous quelque forme que ce soit, lorsqu'il existe des motifs raisonnables de suspecter que des documents et autres données liés à l'objet de l'inspection ou de l'enquête peuvent se révéler importants pour prouver une violation du règlement (UE) 2016/1011 , auprès des personnes soumises à leur surveillance respective, et, sous réserve de l’autorisation judiciaire prévue à l’article 3, auprès de toute autre personne, en d’autres lieux que le domicile privé des personnes physiques ;
 
-5. d’exiger les enregistrements existants de conversations téléphoniques, de communications électroniques ou de données relatives au trafic détenus par des entités surveillées ;
+- d’exiger les enregistrements existants de conversations téléphoniques, de communications électroniques ou de données relatives au trafic détenus par des entités surveillées ;
 
-6. de demander le gel ou la mise sous séquestre d'actifs auprès du président du Tribunal d'arrondissement de et à Luxembourg statuant sur requête ;
+- de demander le gel ou la mise sous séquestre d'actifs auprès du président du Tribunal d'arrondissement de et à Luxembourg statuant sur requête ;
 
-7. d’exiger la cessation temporaire de toute pratique que l'autorité compétente juge contraire au règlement (UE) 2016/1011 ;
+- d’exiger la cessation temporaire de toute pratique que l'autorité compétente juge contraire au règlement (UE) 2016/1011 ;
 
-8. d’imposer une interdiction temporaire d'exercice d’une activité professionnelle du secteur financier à l’encontre des entités surveillées, ainsi que des membres de leur organe d’administration, de gestion ou de surveillance ;
+- d’imposer une interdiction temporaire d'exercice d’une activité professionnelle du secteur financier à l’encontre des entités surveillées, ainsi que des membres de leur organe d’administration, de gestion ou de surveillance ;
 
-9. de prendre toutes les mesures nécessaires pour garantir que le public dispose d'une information correcte sur la fourniture d'un indice de référence, y compris en exigeant de l'administrateur concerné ou de la personne qui a publié ou diffusé l'indice de référence, ou des deux, qu'ils publient un rectificatif relatif à des contributions antérieures audit indice ou des valeurs antérieures de l'indice de référence ;
+- de prendre toutes les mesures nécessaires pour garantir que le public dispose d'une information correcte sur la fourniture d'un indice de référence, y compris en exigeant de l'administrateur concerné ou de la personne qui a publié ou diffusé l'indice de référence, ou des deux, qu'ils publient un rectificatif relatif à des contributions antérieures audit indice ou des valeurs antérieures de l'indice de référence ;
 
-10. de publier une déclaration publique telle que visée à l’article 23 ter , paragraphe 2, lettres a) et c), et à l’article 23 quater , paragraphe 1 er , lettres a) et c) du règlement (UE) 2016/1011 .
+- de publier une déclaration publique telle que visée à l’article 23 ter , paragraphe 2, lettres a) et c), et à l’article 23 quater , paragraphe 1 er , lettres a) et c) du règlement (UE) 2016/1011 .
 
 <a id="art-3"></a>
 ## Art. 3.
 
 (1)
 
-Les inspections sur place par les autorités compétentes auprès de personnes non soumises à la surveillance de la CSSF ou du Commissariat aux assurances, ou à la surveillance de l’AEMF dans le cadre du règlement (UE) 2016/1011, ne peuvent être effectuées sans l’assentiment exprès de la personne chez laquelle l’inspection a lieu, sauf autorisation judiciaire préalable conformément au paragraphe 2. Les inspections sur place auprès desdites personnes et pour lesquelles aucun assentiment exprès n’a été obtenu s’effectuent conformément au présent article.
+Les inspections sur place par les autorités compétentes auprès de personnes non soumises à la surveillance de la CSSF ou du Commissariat aux assurances , ou à la surveillance de l’AEMF dans le cadre du règlement (UE) 2016/1011, ne peuvent être effectuées sans l’assentiment exprès de la personne chez laquelle l’inspection a lieu, sauf autorisation judiciaire préalable conformément au paragraphe 2. Les inspections sur place auprès desdites personnes et pour lesquelles aucun assentiment exprès n’a été obtenu s’effectuent conformément au présent article.
 
 (2)
 
-Si cet assentiment ne peut être recueilli, l’autorité compétente n'exerce le pouvoir prévu à l’article 2, alinéa 2, point 4, à l’égard des personnes non soumises à la surveillance de la CSSF ou du Commissariat aux assurances, ou à la surveillance de l’AEMF dans le cadre du règlement (UE) 2016/1011 , qu'après autorisation préalable par ordonnance du juge d’instruction près le Tribunal d’arrondissement de et à Luxembourg. L’ordonnance est rendue sur requête sur la demande motivée de l’autorité compétente. Le juge d’instruction directeur ou en cas d’empêchement le magistrat qui le remplace désigne, pour chaque requête de l’autorité compétente, le juge qui en sera chargé.
+Si cet assentiment ne peut être recueilli, l’autorité compétente n'exerce le pouvoir prévu à l’article 2, alinéa 2, point 4, à l’égard des personnes non soumises à la surveillance de la CSSF ou du Commissariat aux assurances , ou à la surveillance de l’AEMF dans le cadre du règlement (UE) 2016/1011 , qu'après autorisation préalable par ordonnance du juge d’instruction près le Tribunal d’arrondissement de et à Luxembourg. L’ordonnance est rendue sur requête sur la demande motivée de l’autorité compétente. Le juge d’instruction directeur ou en cas d’empêchement le magistrat qui le remplace désigne, pour chaque requête de l’autorité compétente, le juge qui en sera chargé.
 
 Le juge d’instruction vérifie que la demande motivée de l’autorité compétente qui lui est soumise est justifiée et proportionnée au but recherché. La demande comporte tous les éléments d’information de nature à justifier l’autorisation demandée. Le juge d’instruction désigne un ou plusieurs membres du Service de Police Judiciaire, dont obligatoirement un membre ayant la qualité d’officier de police judiciaire, chargés d’assister les agents de l’autorité compétente lors de l’inspection sur place.
 
@@ -135,57 +135,57 @@ Les paragraphes 1er à 6 s’appliquent également dans le cadre des inspections
 
 Les autorités compétentes, dans le respect de leurs compétences respectives, peuvent infliger les sanctions administratives et autres mesures administratives visées au paragraphe 2 :
 
-1. en cas de violation des articles 4 à 16, 19 bis , paragraphes 1 er et 3, 19 ter , 21, 23 à 29 et 34 du règlement (UE) 2016/1011 lorsqu'ils s'appliquent ; et
+- en cas de violation des articles 4 à 16, 19 bis , paragraphes 1 er et 3, 19 ter , 21, 23 à 29 et 34 du règlement (UE) 2016/1011 lorsqu'ils s'appliquent ; et
 
-2. contre ceux qui font obstacle à l’exercice de leurs pouvoirs de surveillance et d’enquête, qui ne donnent pas suite à leurs injonctions prononcées en vertu du paragraphe 2, qui leur auront sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 2, ou qui ne se conforment pas à leurs exigences basées sur l’article 2.
+- contre ceux qui font obstacle à l’exercice de leurs pouvoirs de surveillance et d’enquête, qui ne donnent pas suite à leurs injonctions prononcées en vertu du paragraphe 2, qui leur auront sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 2, ou qui ne se conforment pas à leurs exigences basées sur l’article 2.
 
 (2)
 
 Pour les cas visés au paragraphe 1er, les autorités compétentes peuvent prononcer, dans le respect de leurs compétences respectives :
 
-1. une injonction ordonnant à l'administrateur ou à l'entité surveillée responsable de la violation de mettre un terme au comportement en cause et lui interdisant de le réitérer ;
+- une injonction ordonnant à l'administrateur ou à l'entité surveillée responsable de la violation de mettre un terme au comportement en cause et lui interdisant de le réitérer ;
 
-2. la restitution des gains retirés de la violation ou des pertes qu'elle a permis d'éviter, s'il est possible de les déterminer ;
+- la restitution des gains retirés de la violation ou des pertes qu'elle a permis d'éviter, s'il est possible de les déterminer ;
 
-3. un avertissement public précisant l'identité de l'administrateur ou de l'entité surveillée responsable de la violation et la nature de la violation ;
+- un avertissement public précisant l'identité de l'administrateur ou de l'entité surveillée responsable de la violation et la nature de la violation ;
 
-4. le retrait ou la suspension de l'agrément ou de l'enregistrement d'un administrateur ;
+- le retrait ou la suspension de l'agrément ou de l'enregistrement d'un administrateur ;
 
-5. une interdiction provisoire, pour toute personne physique tenue pour responsable de la violation, d'exercer des fonctions de direction auprès d'administrateurs ou de contributeurs surveillés ;
+- une interdiction provisoire, pour toute personne physique tenue pour responsable de la violation, d'exercer des fonctions de direction auprès d'administrateurs ou de contributeurs surveillés ;
 
-6. l'application de sanctions pécuniaires administratives d'un montant maximal de trois fois le montant des gains retirés de la violation ou des pertes qu'elle a permis d'éviter, s'il est possible de les déterminer ;
+- l'application de sanctions pécuniaires administratives d'un montant maximal de trois fois le montant des gains retirés de la violation ou des pertes qu'elle a permis d'éviter, s'il est possible de les déterminer ;
 
-7. dans le cas d'une personne physique, des sanctions pécuniaires administratives d'un montant maximal de :
+- dans le cas d'une personne physique, des sanctions pécuniaires administratives d'un montant maximal de :
 
-1. 500.000 euros pour les violations des articles 4 à 10, de l'article 11, paragraphe 1 er , lettres a), b), c) et e), et paragraphes 2 et 3, et des articles 12 à 16, 19 bis , paragraphes 1 er et 3, 19 ter , 21, 23 à 29 et 34 du règlement (UE) 2016/1011 ; ou
+  - 500.000 euros pour les violations des articles 4 à 10, de l'article 11, paragraphe 1 er , lettres a), b), c) et e), et paragraphes 2 et 3, et des articles 12 à 16, 19 bis , paragraphes 1 er et 3, 19 ter , 21, 23 à 29 et 34 du règlement (UE) 2016/1011 ; ou
 
-2. 100.000 euros pour les cas visés au paragraphe 1 er , point 2, ou pour les violations de l'article 11, paragraphe 1 er , lettre d), ou paragraphe 4, du règlement (UE) 2016/1011 ;
+  - 100.000 euros pour les cas visés au paragraphe 1 er , point 2, ou pour les violations de l'article 11, paragraphe 1 er , lettre d), ou paragraphe 4, du règlement (UE) 2016/1011 ;
 
-8. dans le cas d'une personne morale, des sanctions pécuniaires administratives d'un montant maximal de : Aux fins des lettres a) et b), lorsque la personne morale est une entreprise mère ou une filiale d'une entreprise mère qui est tenue d'établir des comptes consolidés conformément à la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil, le chiffre d'affaires annuel total à prendre en considération est le chiffre d'affaires annuel total ou le type de revenu correspondant selon la directive 86/635/CEE du Conseil du 8 décembre 1986 concernant les comptes annuels et les comptes consolidés des banques et autres établissements financiers pour les banques ou la directive 91/674/CEE du Conseil du 19 décembre 1991 concernant les comptes annuels et les comptes consolidés des entreprises d'assurance pour les entreprises d'assurance, tel qu'il ressort des derniers comptes consolidés disponibles approuvés par l'organe de direction de l'entreprise mère ultime ou, si la personne est une association, dix pour cent des chiffres d'affaires cumulés de ses membres.
+- dans le cas d'une personne morale, des sanctions pécuniaires administratives d'un montant maximal de : Aux fins des lettres a) et b), lorsque la personne morale est une entreprise mère ou une filiale d'une entreprise mère qui est tenue d'établir des comptes consolidés conformément à la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil, le chiffre d'affaires annuel total à prendre en considération est le chiffre d'affaires annuel total ou le type de revenu correspondant selon la directive 86/635/CEE du Conseil du 8 décembre 1986 concernant les comptes annuels et les comptes consolidés des banques et autres établissements financiers pour les banques ou la directive 91/674/CEE du Conseil du 19 décembre 1991 concernant les comptes annuels et les comptes consolidés des entreprises d'assurance pour les entreprises d'assurance, tel qu'il ressort des derniers comptes consolidés disponibles approuvés par l'organe de direction de l'entreprise mère ultime ou, si la personne est une association, dix pour cent des chiffres d'affaires cumulés de ses membres.
 
-1. 1.000.000 euros ou de dix pour cent de son chiffre d'affaires annuel total tel qu'il ressort des derniers comptes disponibles approuvés par l'organe de direction, le montant le plus élevé étant retenu, pour les violations des articles 4 à 10, de l'article 11, paragraphe 1 er , lettres a), b), c) et e), et paragraphes 2 et 3, et des articles 12 à 16, 19 bis , paragraphes 1 er et 3, 19 ter , 21, 23 à 29 et 34 du règlement (UE) 2016/1011 ; ou
+  - 1.000.000 euros ou de dix pour cent de son chiffre d'affaires annuel total tel qu'il ressort des derniers comptes disponibles approuvés par l'organe de direction, le montant le plus élevé étant retenu, pour les violations des articles 4 à 10, de l'article 11, paragraphe 1 er , lettres a), b), c) et e), et paragraphes 2 et 3, et des articles 12 à 16, 19 bis , paragraphes 1 er et 3, 19 ter , 21, 23 à 29 et 34 du règlement (UE) 2016/1011 ; ou
 
-2. 250.000 euros ou de deux pour cent de son chiffre d'affaires annuel total tel qu'il ressort des derniers comptes disponibles approuvés par l'organe de direction, le montant le plus élevé étant retenu, pour les cas visés au paragraphe 1 er , point 2, ou pour les violations de l'article 11, paragraphe 1 er , lettre d), ou paragraphe 4, du règlement (UE) 2016/1011 .
+  - 250.000 euros ou de deux pour cent de son chiffre d'affaires annuel total tel qu'il ressort des derniers comptes disponibles approuvés par l'organe de direction, le montant le plus élevé étant retenu, pour les cas visés au paragraphe 1 er , point 2, ou pour les violations de l'article 11, paragraphe 1 er , lettre d), ou paragraphe 4, du règlement (UE) 2016/1011 .
 
 (3)
 
 Afin de déterminer le type et le niveau des sanctions administratives et autres mesures administratives, les autorités compétentes tiennent compte de l'ensemble des circonstances pertinentes, y compris, le cas échéant :
 
-1. de la gravité et de la durée de la violation ;
+- de la gravité et de la durée de la violation ;
 
-2. du caractère critique de l'indice pour la stabilité financière et l'économie réelle ;
+- du caractère critique de l'indice pour la stabilité financière et l'économie réelle ;
 
-3. du degré de responsabilité de la personne responsable ;
+- du degré de responsabilité de la personne responsable ;
 
-4. de l'assise financière de la personne responsable, telle qu'elle ressort, en particulier, du chiffre d'affaires annuel total de la personne morale en cause ou des revenus annuels de la personne physique en cause ;
+- de l'assise financière de la personne responsable, telle qu'elle ressort, en particulier, du chiffre d'affaires annuel total de la personne morale en cause ou des revenus annuels de la personne physique en cause ;
 
-5. de l'importance des gains obtenus ou des pertes évitées par la personne responsable, dans la mesure où ils peuvent être déterminés ;
+- de l'importance des gains obtenus ou des pertes évitées par la personne responsable, dans la mesure où ils peuvent être déterminés ;
 
-6. du degré de coopération de la personne responsable avec l'autorité compétente, sans préjudice de la nécessité de veiller à la restitution des gains obtenus ou des pertes évitées par cette personne ;
+- du degré de coopération de la personne responsable avec l'autorité compétente, sans préjudice de la nécessité de veiller à la restitution des gains obtenus ou des pertes évitées par cette personne ;
 
-7. des violations commises précédemment par la personne concernée ;
+- des violations commises précédemment par la personne concernée ;
 
-8. des mesures prises, après la violation, par la personne responsable pour prévenir la répétition de la violation.
+- des mesures prises, après la violation, par la personne responsable pour prévenir la répétition de la violation.
 
 (4)
 
@@ -203,29 +203,43 @@ Les données à caractère personnel contenues dans les publications visées à 
 <a id="art-6"></a>
 ## Art. 6.
 
-À l’article L. 224-6, paragraphe 1er, du Code de la consommation, il est inséré à la suite de l’alinéa 3, un nouvel alinéa 4 libellé comme suit : « Lorsque le contrat de crédit fait référence à un indice de référence au sens de l'article 3, paragraphe 1er, point 3, du règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 (ci-après, le « règlement (UE) 2016/1011 »), le nom de l'indice de référence et celui de son administrateur, ainsi que les répercussions éventuelles sur le consommateur, sont fournis par le prêteur ou, le cas échéant, par l'intermédiaire de crédit, au consommateur dans un document séparé, qui peut être annexé au formulaire « informations européennes normalisées en matière de crédit aux consommateurs ». ».
+À l’article L. 224-6, paragraphe 1er, du Code de la consommation, il est inséré à la suite de l’alinéa 3, un nouvel alinéa 4 libellé comme suit :
+
+« Lorsque le contrat de crédit fait référence à un indice de référence au sens de l'article 3, paragraphe 1er, point 3, du règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 (ci-après, le « règlement (UE) 2016/1011 »), le nom de l'indice de référence et celui de son administrateur, ainsi que les répercussions éventuelles sur le consommateur, sont fournis par le prêteur ou, le cas échéant, par l'intermédiaire de crédit, au consommateur dans un document séparé, qui peut être annexé au formulaire « informations européennes normalisées en matière de crédit aux consommateurs ». ».
 
 <a id="art-7"></a>
 ## Art. 7.
 
-À l’article L.226-10, alinéa 2, du Code de la consommation, le mot et à la fin du point 14 est supprimé, le point final à la fin du point 15 est remplacé par ; et, et il est ajouté un nouveau point 16 libellé comme suit : lorsque des contrats de crédit immobilier font référence à un indice de référence au sens de l'article 3, paragraphe 1er, point 3, du règlement (UE) 2016/1011, les noms des indices de référence et de leurs administrateurs, ainsi que leurs éventuelles implications pour le consommateur. ».
+À l’article L.226-10, alinéa 2, du Code de la consommation, le mot et à la fin du point 14 est supprimé, le point final à la fin du point 15 est remplacé par ; et, et il est ajouté un nouveau point 16 libellé comme suit :
+
+- lorsque des contrats de crédit immobilier font référence à un indice de référence au sens de l'article 3, paragraphe 1 er , point 3, du règlement (UE) 2016/1011 , les noms des indices de référence et de leurs administrateurs, ainsi que leurs éventuelles implications pour le consommateur. ».
 
 <a id="art-8"></a>
 ## Art. 8.
 
-À l’article L.226-45 du Code de la consommation, il est ajouté un nouveau paragraphe 4 libellé comme suit : « (4) L'article L.226-10, alinéa 2, point 16, ne s'applique pas aux contrats de crédit immobilier en cours au 1er juillet 2018. ».
+À l’article L.226-45 du Code de la consommation, il est ajouté un nouveau paragraphe 4 libellé comme suit :
+
+« (4)
+
+L'article L.226-10, alinéa 2, point 16, ne s'applique pas aux contrats de crédit immobilier en cours au 1er juillet 2018. ».
 
 #### Chapitre 3 Modification de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier
 
 <a id="art-9"></a>
 ## Art. 9.
 
-À l’article 2 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, il est inséré un nouveau paragraphe 2bis libellé comme suit : « (2bis) La CSSF est l’autorité compétente pour la surveillance des administrateurs tels que définis à l’article 3, paragraphe 1er, point 6, du règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 (ci-après, le « règlement (UE) 2016/1011 »). ».
+À l’article 2 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, il est inséré un nouveau paragraphe 2bislibellé comme suit :
+
+« (2bis)
+
+La CSSF est l’autorité compétente pour la surveillance des administrateurs tels que définis à l’article 3, paragraphe 1er, point 6, du règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 (ci-après, le « règlement (UE) 2016/1011 »). ».
 
 <a id="art-10"></a>
 ## Art. 10.
 
-À l’article 24, paragraphe 1er, de la même loi, il est ajouté l’alinéa suivant : « La CSSF est autorisée à prélever la contrepartie de ses frais de personnel, de ses frais financiers et de ses frais de fonctionnement liés aux missions visées au règlement (UE) 2016/1011 par des taxes à percevoir auprès des personnes pour lesquelles elle est compétente en vertu de l’article 2, paragraphe 1er, de la loi du 17 avril 2018 relative aux indices de référence. ».
+À l’article 24, paragraphe 1er, de la même loi, il est ajouté l’alinéa suivant :
+
+« La CSSF est autorisée à prélever la contrepartie de ses frais de personnel, de ses frais financiers et de ses frais de fonctionnement liés aux missions visées au règlement (UE) 2016/1011 par des taxes à percevoir auprès des personnes pour lesquelles elle est compétente en vertu de l’article 2, paragraphe 1er, de la loi du 17 avril 2018 relative aux indices de référence. ».
 
 #### Chapitre 4 Modification de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme
 
@@ -239,7 +253,9 @@ Les données à caractère personnel contenues dans les publications visées à 
 <a id="art-12"></a>
 ## Art. 12.
 
-À l’article 2, paragraphe 1er, de la loi modifiée du 7 décembre 2015 sur le secteur des assurances, le point final à la fin de la lettre j) est remplacé par un point-virgule, et il est inséré une nouvelle lettre k) libellée comme suit : d’exercer les missions qui lui sont confiées par la loi du 15 mars 2016 relative aux produits dérivés de gré à gré, aux contreparties centrales et aux référentiels centraux et modifiant différentes lois relatives aux services financiers, par la loi du 17 avril 2018 relative aux documents d’informations clés relatifs aux produits d’investissement packagés de détail et fondés sur l’assurance et par la loi du 17 avril 2018 relative aux indices de référence. ».
+À l’article 2, paragraphe 1er, de la loi modifiée du 7 décembre 2015 sur le secteur des assurances, le point final à la fin de la lettre j) est remplacé par un point-virgule, et il est inséré une nouvelle lettre k) libellée comme suit :
+
+- d’exercer les missions qui lui sont confiées par la loi du 15 mars 2016 relative aux produits dérivés de gré à gré, aux contreparties centrales et aux référentiels centraux et modifiant différentes lois relatives aux services financiers, par la loi du 17 avril 2018 relative aux documents d’informations clés relatifs aux produits d’investissement packagés de détail et fondés sur l’assurance et par la loi du 17 avril 2018 relative aux indices de référence. ».
 
 #### Chapitre 6 Dispositions finales
 

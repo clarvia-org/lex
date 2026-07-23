@@ -43,9 +43,9 @@ Les chambres professionnelles jouissent des avantages de la personnification civ
 
 Pour faire face à leurs dépenses, les chambres professionnelles sont autorisées à percevoir:
 
-1. de leurs ressortissants une cotisation dont la base de perception est établie par chaque chambre;
+- de leurs ressortissants une cotisation dont la base de perception est établie par chaque chambre;
 
-2. des taxes, droits ou primes en rémunération des services qu'elles rendent.
+- des taxes, droits ou primes en rémunération des services qu'elles rendent.
 
 Les chambres professionnelles peuvent régler elles-mêmes les modalités de la fixation des cotisations.
 
@@ -82,11 +82,11 @@ Sont éligibles les électeurs âgés de 18 ans accomplis, sans préjudice d’a
 
 Sont exclus de l’éligibilité:
 
-1. les condamnés à des peines criminelles;
+- les condamnés à des peines criminelles;
 
-2. ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;
+- ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;
 
-3. ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;
+- ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;
 
 Les preuves concernant les conditions précitées sont rapportées moyennant les attestations, certificats et autres documents prévus par des dispositions législatives, réglementaires ou administratives luxembourgeoises.
 
@@ -222,28 +222,28 @@ L’auteur de l’infraction commise sciemment sera puni d’une amende de 251 �
 
 Ne peuvent se présenter en tant que candidats aux élections :
 
-1. les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;
+- les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;
 
-2. les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.
+- les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.
 
 <a id="art-n105f5"></a>
 ## Art. 18.
 
 Seront punis d'une amende de 251 à 5.000 euros:
 
-1. quiconque, pour se faire inscrire sur une liste d’électeurs, aura produit des actes ou pièces qu’il savait être simulés; celui qui aura pratiqué les mêmes manoeuvres dans le but de faire inscrire un citoyen sur ces listes ou de l’en faire rayer;
+- quiconque, pour se faire inscrire sur une liste d’électeurs, aura produit des actes ou pièces qu’il savait être simulés; celui qui aura pratiqué les mêmes manoeuvres dans le but de faire inscrire un citoyen sur ces listes ou de l’en faire rayer;
 
-2. celui qui, sous prétexte d’indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d’argent ou des valeurs ou un avantage quelconques; ceux qui, à l’occasion d’une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l’argent, soit des valeurs ou avantages quelconques sous la condition d’obtenir en sa faveur ou en faveur d’un tiers, un suffrage, l’abstention de voter ou la remise d’un bulletin de vote nul; les électeurs qui auront accepté des dons, offres ou promesses;
+- celui qui, sous prétexte d’indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d’argent ou des valeurs ou un avantage quelconques; ceux qui, à l’occasion d’une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l’argent, soit des valeurs ou avantages quelconques sous la condition d’obtenir en sa faveur ou en faveur d’un tiers, un suffrage, l’abstention de voter ou la remise d’un bulletin de vote nul; les électeurs qui auront accepté des dons, offres ou promesses;
 
-3. quiconque, pour déterminer un électeur à s’abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l’empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d’exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d’intimider les électeurs ou de troubler l’ordre;
+- quiconque, pour déterminer un électeur à s’abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l’empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d’exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d’intimider les électeurs ou de troubler l’ordre;
 
-4. toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d’entraver les opérations électorales; si le scrutin a été violé, de même que si les coupables étaient porteurs d’armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;
+- toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d’entraver les opérations électorales; si le scrutin a été violé, de même que si les coupables étaient porteurs d’armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;
 
-5. ceux qui ont résisté à l’ordre d’expulsion rendu contre eux par le bureau de vote ou qui seront rentrés dans le local qu’ils avaient été obligés d’évacuer; quiconque, pendant la réunion d’un collège électoral, se sera rendu coupable d’outrages ou de violences, soit envers le bureau soit envers l’un de ses membres; ; les membres d’un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;
+- ceux qui ont résisté à l’ordre d’expulsion rendu contre eux par le bureau de vote ou qui seront rentrés dans le local qu’ils avaient été obligés d’évacuer; quiconque, pendant la réunion d’un collège électoral, se sera rendu coupable d’outrages ou de violences, soit envers le bureau soit envers l’un de ses membres; ; les membres d’un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;
 
-6. tout président, scrutateur ou secrétaire d’un bureau ou tout témoin de candidat qui aura révélé le secret d’un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d’un bulletin contrefait; tout membre ou secrétaire d’un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu’il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d’un autre électeur et celui qui, d’une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;
+- tout président, scrutateur ou secrétaire d’un bureau ou tout témoin de candidat qui aura révélé le secret d’un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d’un bulletin contrefait; tout membre ou secrétaire d’un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu’il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d’un autre électeur et celui qui, d’une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;
 
-7. les citoyens qui, invités à remplir au jour de l’élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n’auront pas fait connaître, dans les quarante-huit heures leurs motifs d’empêchement à celui dont l’invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu’à la clôture définitive des procès-verbaux.
+- les citoyens qui, invités à remplir au jour de l’élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n’auront pas fait connaître, dans les quarante-huit heures leurs motifs d’empêchement à celui dont l’invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu’à la clôture définitive des procès-verbaux.
 
 <a id="art-n10667"></a>
 ## Art. 19.
@@ -326,13 +326,13 @@ Pour toutes les lois et tous les arrêtés ministériels et grand-ducaux concern
 
 Sont notamment de la compétence de la chambre d’agriculture:
 
-1. la sauvegarde des intérêts des agriculteurs et des viticulteurs. Elle veille notamment à l’observation de la législation intéressant principalement l’agriculture et la viticulture;
+- la sauvegarde des intérêts des agriculteurs et des viticulteurs. Elle veille notamment à l’observation de la législation intéressant principalement l’agriculture et la viticulture;
 
-2. son avis doit être demandé avant le vote définitif par la Chambre des députés des lois intéressant principalement l’agriculture ou la viticulture;
+- son avis doit être demandé avant le vote définitif par la Chambre des députés des lois intéressant principalement l’agriculture ou la viticulture;
 
-3. elle présente ses observations à la Chambre des députés sur l’emploi des crédits du budget de l’Etat alloués pour les exercices écoulés dans l’intérêt de l’agriculture ou de la viticulture et donne son avis sur les nouvelles allocations à proposer pour l’exercice suivant;
+- elle présente ses observations à la Chambre des députés sur l’emploi des crédits du budget de l’Etat alloués pour les exercices écoulés dans l’intérêt de l’agriculture ou de la viticulture et donne son avis sur les nouvelles allocations à proposer pour l’exercice suivant;
 
-4. elle fait des propositions concernant la surveillance de l’enseignement agricole et viticole.
+- elle fait des propositions concernant la surveillance de l’enseignement agricole et viticole.
 
 L’énumération qui précède n’a pas de caractère limitatif.
 
@@ -368,19 +368,19 @@ Aucun électeur ne peut faire partie de plus d’un collège électoral. Les él
 
 Sont électeurs à la Chambre d’agriculture, sans préjudice des conditions fixées à l’article 6 de la loi modifiée du 4 avril 1924 susvisée:
 
-1. les agriculteurs, viticulteurs, éleveurs, arboriculteurs, horticulteurs, pépiniéristes, jardiniers, maraîchers et pisciculteurs, domiciliés au Grand-Duché, à condition d’exercer leur profession à titre principal;
+- les agriculteurs, viticulteurs, éleveurs, arboriculteurs, horticulteurs, pépiniéristes, jardiniers, maraîchers et pisciculteurs, domiciliés au Grand-Duché, à condition d’exercer leur profession à titre principal;
 
-2. les conjoints, les parents et alliés en ligne directe ou en ligne collatérale, jusqu’au 3ème degré inclusivement des personnes visées sub a) ci-dessus, pourvu qu’ils soient considérés comme aidants au sens de la législation sur la sécurité sociale agricole. Il en est de même de la personne même non parente ni alliée qui, en l’absence d’héritiers du sang ou adoptifs, a été déclarée par le chef d’exploitation comme devant lui succéder à la tête de l’exploitation;
+- les conjoints, les parents et alliés en ligne directe ou en ligne collatérale, jusqu’au 3ème degré inclusivement des personnes visées sub a) ci-dessus, pourvu qu’ils soient considérés comme aidants au sens de la législation sur la sécurité sociale agricole. Il en est de même de la personne même non parente ni alliée qui, en l’absence d’héritiers du sang ou adoptifs, a été déclarée par le chef d’exploitation comme devant lui succéder à la tête de l’exploitation;
 
-3. les bénéficiaires de pension au titre d’une activité au sens du point a) et n’appartenant pas à une autre profession.
+- les bénéficiaires de pension au titre d’une activité au sens du point a) et n’appartenant pas à une autre profession.
 
 Sont exclus de l’électorat et de l’éligibilité:
 
-1. Ies condamnés à des peines criminelles;
+- Ies condamnés à des peines criminelles;
 
-2. ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;
+- ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;
 
-3. ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;
+- ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;
 
 Les preuves concernant les conditions précitées sont rapportées moyennant les attestations, certificats et autres documents prévus par des dispositions législatives, réglementaires ou administratives luxembourgeoises.
 
@@ -425,15 +425,15 @@ Pour toutes les lois et tous les arrêtés ministériels et grand-ducaux, concer
 
 Sont notamment de la compétence de la Chambre des salariés:
 
-1. la sauvegarde et la défense des intérêts des personnes visées à l’article 41 (1). Elle veille notamment à l’observation de la législation et des règlements applicables à ces personnes;
+- la sauvegarde et la défense des intérêts des personnes visées à l’article 41 (1). Elle veille notamment à l’observation de la législation et des règlements applicables à ces personnes;
 
-2. la surveillance et le contrôle de l’exécution des contrats de travail individuels et collectifs;
+- la surveillance et le contrôle de l’exécution des contrats de travail individuels et collectifs;
 
-3. son avis doit être demandé avant le vote définitif par la Chambre des députés des lois intéressant les personnes visées à l’article 41 (1);
+- son avis doit être demandé avant le vote définitif par la Chambre des députés des lois intéressant les personnes visées à l’article 41 (1);
 
-4. elle présente ses observations à la Chambre des députés sur l’emploi des crédits du budget de l’Etat alloués pour les exercices écoulés dans l’intérêt des personnes visées à l’article 41 (1) et donne son avis sur les nouvelles allocations à proposer pour l’exercice suivant;
+- elle présente ses observations à la Chambre des députés sur l’emploi des crédits du budget de l’Etat alloués pour les exercices écoulés dans l’intérêt des personnes visées à l’article 41 (1) et donne son avis sur les nouvelles allocations à proposer pour l’exercice suivant;
 
-5. elle fait des propositions concernant la surveillance de l’enseignement professionnel des personnes visées à l’article 41 (1).
+- elle fait des propositions concernant la surveillance de l’enseignement professionnel des personnes visées à l’article 41 (1).
 
 L’énumération qui précède n’a pas de caractère limitatif.
 
@@ -462,15 +462,15 @@ A la suite de la première assemblée constituante, la Chambre des salariés se 
 
 Sont qualifiés pour participer à l’élection des délégués composant la Chambre des salariés
 
-1. les salariés et apprentis , qui sont occupés, au moment de la publication de la date des élections, dans le cadre d’un contrat de travail régi par les articles L. 121-1 et suivants du Code du travail ou d’un contrat d’apprentissage régi par les articles L. 111-1 et suivants du même code et qui sont déclarés à ce titre, à la même date, auprès de l’assurance maladie luxembourgeoise, autres que ceux visés à l’article 43ter de la présente loi;
+- les salariés et apprentis , qui sont occupés, au moment de la publication de la date des élections, dans le cadre d’un contrat de travail régi par les articles L. 121-1 et suivants du Code du travail ou d’un contrat d’apprentissage régi par les articles L. 111-1 et suivants du même code et qui sont déclarés à ce titre, à la même date, auprès de l’assurance maladie luxembourgeoise, autres que ceux visés à l’article 43ter de la présente loi;
 
-2. les agents de la Société nationale des Chemins de Fer luxembourgeois;
+- les agents de la Société nationale des Chemins de Fer luxembourgeois;
 
-3. les personnes bénéficiant d’une pension au titre d’une occupation visée aux points 1. et 2. ci-avant au moment de la publication de la date des élections ;
+- les personnes bénéficiant d’une pension au titre d’une occupation visée aux points 1. et 2. ci-avant au moment de la publication de la date des élections ;
 
-4. les personnes bénéficiaires d’une indemnité de chômage complet au titre d’une occupation visée aux points 1 et 2 ci-avant au moment de la publication de la date des élections, ainsi que les demandeurs d’emploi bénéficiaires d’une aide financière ou d’une mesure en faveur de l’emploi au moment de la publication de la date des élections ;
+- les personnes bénéficiaires d’une indemnité de chômage complet au titre d’une occupation visée aux points 1 et 2 ci-avant au moment de la publication de la date des élections, ainsi que les demandeurs d’emploi bénéficiaires d’une aide financière ou d’une mesure en faveur de l’emploi au moment de la publication de la date des élections ;
 
-5. les salariés et apprentis qui bénéficient d’un congé parental à temps plein au moment de la publication de la date des élections.
+- les salariés et apprentis qui bénéficient d’un congé parental à temps plein au moment de la publication de la date des élections.
 
 (2)
 
@@ -489,15 +489,15 @@ L’avis de la Chambre des fonctionnaires et employés publics est demandé sur 
 
 La chambre des fonctionnaires et employés publics est notamment compétente:
 
-1. pour sauvegarder et défendre les intérêts matériels et moraux des fonctionnaires et employés publics, ainsi que pour veiller à l’observation de la législation et des règlements qui leur sont applicables;
+- pour sauvegarder et défendre les intérêts matériels et moraux des fonctionnaires et employés publics, ainsi que pour veiller à l’observation de la législation et des règlements qui leur sont applicables;
 
-3. pour soumettre au Gouvernement toutes propositions concernant l’organisation des services publics, ainsi que l’amélioration des conditions et des méthodes de travail dans les services publics;
+- pour soumettre au Gouvernement toutes propositions concernant l’organisation des services publics, ainsi que l’amélioration des conditions et des méthodes de travail dans les services publics;
 
-4. pour prendre des mesures en vue de promouvoir la formation et le perfectionnement professionnels des fonctionnaires et employés publics et pour créer les conditions morales propres à leur permettre d’accomplir au mieux leurs devoirs professionnels ;
+- pour prendre des mesures en vue de promouvoir la formation et le perfectionnement professionnels des fonctionnaires et employés publics et pour créer les conditions morales propres à leur permettre d’accomplir au mieux leurs devoirs professionnels ;
 
-5. pour établir des statistiques concernant la Fonction publique, ainsi que pour réaliser des études et analyses sur la Fonction publique et les agents publics ;
+- pour établir des statistiques concernant la Fonction publique, ainsi que pour réaliser des études et analyses sur la Fonction publique et les agents publics ;
 
-6. pour informer, assister et conseiller ses ressortissants sur les matières qui relèvent de son champ d’activité et qui sont d’intérêt général pour la Fonction publique.
+- pour informer, assister et conseiller ses ressortissants sur les matières qui relèvent de son champ d’activité et qui sont d’intérêt général pour la Fonction publique.
 
 <a id="art-n10d89"></a>
 ## Art. 43bis.-2.
@@ -543,11 +543,11 @@ Les formules imprimées des listes, attestations et déclarations sont à la dis
 
 Chaque liste de candidats est accompagnée :
 
-1. d’un extrait du bulletin n° 3 du casier judiciaire qui date de moins de trois mois ;
+- d’un extrait du bulletin n° 3 du casier judiciaire qui date de moins de trois mois ;
 
-2. d’une déclaration signée par les candidats et confirmant qu’ils acceptent la candidature dans ce groupe ;
+- d’une déclaration signée par les candidats et confirmant qu’ils acceptent la candidature dans ce groupe ;
 
-3. d’une attestation délivrée à chaque candidat par son administration certifiant qu’il appartient ou, lorsqu’il est retraité, a appartenu au cadre de son personnel.
+- d’une attestation délivrée à chaque candidat par son administration certifiant qu’il appartient ou, lorsqu’il est retraité, a appartenu au cadre de son personnel.
 
 Chaque liste de candidats est déposée par un mandataire désigné par et parmi les électeurs qui la présentent et qui l’ont signée à cet effet. Le mandataire remplit en outre tous les autres devoirs qui lui sont imposés par la présente loi.
 
@@ -754,41 +754,41 @@ Les bulletins valables et nuls sont gardés jusqu’à ce que les résultats des
 
 Sont nuls :
 
-1. les enveloppes de transmission :
+- les enveloppes de transmission :
 
-1. qui ont été timbrées par la poste postérieurement au jour de clôture du vote ;
+  - qui ont été timbrées par la poste postérieurement au jour de clôture du vote ;
 
-2. non fermées ;
+  - non fermées ;
 
-3. sur lesquelles le numéro d’ordre et, le cas échéant, le code barre ne sont plus visibles ;
+  - sur lesquelles le numéro d’ordre et, le cas échéant, le code barre ne sont plus visibles ;
 
-4. contenant plusieurs enveloppes électorales ;
+  - contenant plusieurs enveloppes électorales ;
 
-2. les enveloppes électorales :
+- les enveloppes électorales :
 
-1. non fermées ;
+  - non fermées ;
 
-2. marquées ;
+  - marquées ;
 
-3. autres que celles délivrées par le président du bureau électoral ;
+  - autres que celles délivrées par le président du bureau électoral ;
 
-4. contenant plusieurs bulletins ;
+  - contenant plusieurs bulletins ;
 
-3. les bulletins de vote :
+- les bulletins de vote :
 
-1. autres que ceux délivrés par le président du bureau électoral ;
+  - autres que ceux délivrés par le président du bureau électoral ;
 
-2. non renfermés dans une enveloppe électorale ;
+  - non renfermés dans une enveloppe électorale ;
 
-3. qui expriment plus de suffrages que de candidats effectifs et suppléants à élire ;
+  - qui expriment plus de suffrages que de candidats effectifs et suppléants à élire ;
 
-4. qui portent une marque ou un signe distinctif quelconques ;
+  - qui portent une marque ou un signe distinctif quelconques ;
 
-5. sur lesquels le votant s’est fait connaître ;
+  - sur lesquels le votant s’est fait connaître ;
 
-6. qui contiennent à l’intérieur un papier ou un objet quelconques ;
+  - qui contiennent à l’intérieur un papier ou un objet quelconques ;
 
-7. qui ne contiennent l’expression d’aucun suffrage.
+  - qui ne contiennent l’expression d’aucun suffrage.
 
 <a id="art-n1174d"></a>
 ## Art. 43bis.-28.
@@ -845,25 +845,25 @@ L’élection assurera les mandats aux groupes suivants :
 
 Les différents groupes représentent les ressortissants suivants :
 
-1. le groupe 1 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement A, groupe de traitement A1, qui ne relèvent pas de la rubrique « Enseignement » ainsi que les fonctionnaires de l’État appartenant à la Magistrature ;
+- le groupe 1 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement A, groupe de traitement A1, qui ne relèvent pas de la rubrique « Enseignement » ainsi que les fonctionnaires de l’État appartenant à la Magistrature ;
 
-2. le groupe 2 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement A, groupe de traitement A2, qui ne relèvent pas de la rubrique « Enseignement » ;
+- le groupe 2 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement A, groupe de traitement A2, qui ne relèvent pas de la rubrique « Enseignement » ;
 
-3. le groupe 3 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement B qui ne relèvent pas de la rubrique « Enseignement » ;
+- le groupe 3 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement B qui ne relèvent pas de la rubrique « Enseignement » ;
 
-4. le groupe 4 comprend les fonctionnaires de l’État et des établissements publics des catégories de traitement C et D ;
+- le groupe 4 comprend les fonctionnaires de l’État et des établissements publics des catégories de traitement C et D ;
 
-5. le groupe 5 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement A qui relèvent de la rubrique « Enseignement », à l’exception des différentes fonctions d’instituteurs et d’instituteurs spécialisés regroupées dans le groupe 6 ;
+- le groupe 5 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement A qui relèvent de la rubrique « Enseignement », à l’exception des différentes fonctions d’instituteurs et d’instituteurs spécialisés regroupées dans le groupe 6 ;
 
-6. le groupe 6 comprend les différentes fonctions d’instituteurs et d’instituteurs spécialisés de la catégorie de traitement A de la rubrique « Enseignement » et les fonctionnaires de la catégorie de traitement B de la rubrique « Enseignement » ;
+- le groupe 6 comprend les différentes fonctions d’instituteurs et d’instituteurs spécialisés de la catégorie de traitement A de la rubrique « Enseignement » et les fonctionnaires de la catégorie de traitement B de la rubrique « Enseignement » ;
 
-7. le groupe 7 comprend les employés de l’État et des établissements publics qui ne relèvent pas de la rubrique « Enseignement » ainsi que les volontaires de l’Armée ;
+- le groupe 7 comprend les employés de l’État et des établissements publics qui ne relèvent pas de la rubrique « Enseignement » ainsi que les volontaires de l’Armée ;
 
-8. le groupe 8 comprend les employés de l’État et des établissements publics qui relèvent de la rubrique « Enseignement » ;
+- le groupe 8 comprend les employés de l’État et des établissements publics qui relèvent de la rubrique « Enseignement » ;
 
-9. le groupe 9 comprend les fonctionnaires et employés communaux ;
+- le groupe 9 comprend les fonctionnaires et employés communaux ;
 
-10. le groupe 10 comprend les ministres du culte catholique.
+- le groupe 10 comprend les ministres du culte catholique.
 
 Par «fonctionnaires de l’Etat et des établissements publics» au sens du présent article il faut entendre les fonctionnaires de l’Etat régis par la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat, ainsi que les employés statutaires des établissements publics assimilés aux fonctionnaires de l’Etat en vertu d’une disposition légale ou réglementaire.
 
@@ -959,25 +959,25 @@ Pour toutes les lois et tous les projets de règlements grand-ducaux et ministé
 
 La Chambre de Commerce a comme missions notamment:
 
-1. la promotion de l'esprit d'entreprise et l'assistance dans le cadre de la création, du développement et de la pérennisation des entreprises;
+- la promotion de l'esprit d'entreprise et l'assistance dans le cadre de la création, du développement et de la pérennisation des entreprises;
 
-2. la promotion d'un cadre législatif et réglementaire propice au développement économique;
+- la promotion d'un cadre législatif et réglementaire propice au développement économique;
 
-3. la promotion des relations économiques et commerciales aux niveaux régional, européen et international;
+- la promotion des relations économiques et commerciales aux niveaux régional, européen et international;
 
-4. la promotion de l'économie luxembourgeoise au Luxembourg et à l'étranger;
+- la promotion de l'économie luxembourgeoise au Luxembourg et à l'étranger;
 
-5. d'oeuvrer en faveur de tout ce qui contribue à la défense et à la promotion de l'intérêt de ses ressortissants;
+- d'oeuvrer en faveur de tout ce qui contribue à la défense et à la promotion de l'intérêt de ses ressortissants;
 
-6. l'orientation et l'appui des entreprises luxembourgeoises dans leurs démarches d'internationalisation et d'accès aux marchés étrangers;
+- l'orientation et l'appui des entreprises luxembourgeoises dans leurs démarches d'internationalisation et d'accès aux marchés étrangers;
 
-7. le développement et la promotion de la formation professionnelle initiale et continue;
+- le développement et la promotion de la formation professionnelle initiale et continue;
 
-8. l'élaboration de propositions concernant le contenu et la surveillance de la formation professionnelle;
+- l'élaboration de propositions concernant le contenu et la surveillance de la formation professionnelle;
 
-9. la sensibilisation à l'observation de la législation en matière commerciale et industrielle.
+- la sensibilisation à l'observation de la législation en matière commerciale et industrielle.
 
-10. l'établissement de statistiques et la réalisation d'études et d'analyses en matière commerciale, industrielle et financière et notamment celles concernant les petites et moyennes entreprises.
+- l'établissement de statistiques et la réalisation d'études et d'analyses en matière commerciale, industrielle et financière et notamment celles concernant les petites et moyennes entreprises.
 
 Pour remplir son objet, la Chambre de Commerce peut créer ou participer, le cas échéant, à tout établissement, société, association, institution, oeuvre ou service voué essentiellement au développement de l'entreprise industrielle, financière et commerciale, en féconder l'activité, fournir des avis, formuler des réclamations, solliciter des informations et contribuer à la production et à l'analyse de données statistiques.
 
@@ -1117,9 +1117,9 @@ Le Gouvernement est autorisé à dissoudre l'assemblée plénière de la Chambre
 
 Pour faire face à ses dépenses, la Chambre de Commerce est autorisée à percevoir:
 
-1. de ses ressortissants une cotisation annuelle;
+- de ses ressortissants une cotisation annuelle;
 
-2. des droits ou rétributions en rémunération des services qu'elle rend.
+- des droits ou rétributions en rémunération des services qu'elle rend.
 
 Les modalités de calcul des cotisations annuelles à percevoir par la Chambre de Commerce sont fixées par celle-ci dans son règlement de cotisation soumis à l'approbation du Gouvernement. La cotisation annuelle par ressortissant ne peut dépasser quatre pour mille de son bénéfice réalisé pendant l'avant-dernier exercice. Ce bénéfice s'entend du bénéfice commercial au sens de la loi concernant l'impôt sur le revenu, abstraction faite des pertes reportées selon les articles 109, alinéa 1er, No 4 et 114 de cette même loi.
 
@@ -1168,11 +1168,11 @@ La Chambre de Commerce n'est pas à considérer comme un pouvoir adjudicateur au
 
 Sont électeurs et éligibles :
 
-1. La personne physique ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant une activité commerciale, industrielle ou financière au Grand-Duché de Luxembourg en nom propre. Elle ne peut déléguer les droits inhérents à la qualité d’électeur, et le cas échéant, d’élu ;
+- La personne physique ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant une activité commerciale, industrielle ou financière au Grand-Duché de Luxembourg en nom propre. Elle ne peut déléguer les droits inhérents à la qualité d’électeur, et le cas échéant, d’élu ;
 
-2. Le représentant légal ou le délégué désigné par une personne morale ayant adopté la forme d’une société commerciale, ayant son siège social au Grand-Duché de Luxembourg, ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant les droits inhérents à l’électorat pour cette dernière ;
+- Le représentant légal ou le délégué désigné par une personne morale ayant adopté la forme d’une société commerciale, ayant son siège social au Grand-Duché de Luxembourg, ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant les droits inhérents à l’électorat pour cette dernière ;
 
-3. Le représentant légal ou le délégué désigné par une succursale d’une société étrangère, établie au Luxembourg et ayant une activité commerciale, industrielle ou financière, ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant les droits inhérents à l’électorat pour cette dernière.
+- Le représentant légal ou le délégué désigné par une succursale d’une société étrangère, établie au Luxembourg et ayant une activité commerciale, industrielle ou financière, ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant les droits inhérents à l’électorat pour cette dernière.
 
 Les personnes mentionnées à l’alinéa 2 doivent être âgées de dix-huit ans accomplis au jour du scrutin.
 
@@ -1188,11 +1188,11 @@ Toute société commerciale ayant son siège social au Grand-Duché de Luxembour
 
 Sont exclus de l'électorat et de l'éligibilité:
 
-1. les condamnés à des peines criminelles;
+- les condamnés à des peines criminelles;
 
-2. ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;
+- ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;
 
-3. ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;
+- ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;
 
 Les preuves concernant les conditions précitées sont rapportées moyennant les attestations, certificats et autres documents prévus par des dispositions législatives, réglementaires ou administratives luxembourgeoises.
 
@@ -1210,9 +1210,9 @@ Les élections sont secrètes et ont lieu au cours des mois de mars ou avril, au
 
 Ne peuvent se présenter en tant que candidats aux élections :
 
-1. les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;
+- les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;
 
-2. les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.
+- les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.
 
 ##### Chapitre VI. – Procédure d'élection
 
@@ -1223,19 +1223,19 @@ La qualité d’électeur est constatée par l’inscription sur les listes éle
 
 Les listes électorales sont établies pour chaque groupe électoral par le bureau électoral. Elles renseignent pour chaque électeur les :
 
-1. nom ;
+- nom ;
 
-2. prénoms ;
+- prénoms ;
 
-3. numéro d’identification de la personne physique tel que défini par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
+- numéro d’identification de la personne physique tel que défini par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
 
-4. domicile ;
+- domicile ;
 
-5. profession ;
+- profession ;
 
-6. dénomination du ressortissant ;
+- dénomination du ressortissant ;
 
-7. numéro d’identité du ressortissant tel que défini par la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales.
+- numéro d’identité du ressortissant tel que défini par la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales.
 
 Tous les cinq ans, tout ressortissant est invité, à produire auprès du bureau électoral au plus tôt cent vingt jours et au plus tard cent quatre jours avant la date du scrutin, contre récépissé, les titres de ceux qui ont droit à l’électorat. Au plus tôt cent cinq jours et au plus tard quatre-vingts jours avant la date du scrutin, le bureau électoral procède à l’élaboration des listes électorales sur base des données communiquées préalablement par la Chambre de Commerce.
 
@@ -1317,19 +1317,19 @@ L'auteur de l'infraction commise sciemment sera puni d'une amende de 251 à 2.50
 
 Seront punis d'une amende de 251 à 5.000 euros:
 
-1. quiconque, pour se faire inscrire sur la liste électorale , aura produit des actes ou pièces qu'il savait être simulés; celui qui aura pratiqué les mêmes manoeuvres dans le but de faire inscrire un citoyen sur cette liste ou de l'en faire rayer;
+- quiconque, pour se faire inscrire sur la liste électorale , aura produit des actes ou pièces qu'il savait être simulés; celui qui aura pratiqué les mêmes manoeuvres dans le but de faire inscrire un citoyen sur cette liste ou de l'en faire rayer;
 
-2. celui qui, sous prétexte d'indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d'argent ou des valeurs ou un avantage quelconques; ceux qui, à l'occasion d'une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l'argent, soit des valeurs ou avantages quelconques sous la condition d'obtenir en sa faveur ou en faveur d'un tiers, un suffrage, l'abstention de voter ou la remise d'un bulletin de vote nul; les électeurs qui auront accepté des dons, offres ou promesses;
+- celui qui, sous prétexte d'indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d'argent ou des valeurs ou un avantage quelconques; ceux qui, à l'occasion d'une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l'argent, soit des valeurs ou avantages quelconques sous la condition d'obtenir en sa faveur ou en faveur d'un tiers, un suffrage, l'abstention de voter ou la remise d'un bulletin de vote nul; les électeurs qui auront accepté des dons, offres ou promesses;
 
-3. quiconque, pour déterminer un électeur à s'abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l'empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d'exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d'intimider les électeurs ou de troubler l'ordre;
+- quiconque, pour déterminer un électeur à s'abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l'empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d'exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d'intimider les électeurs ou de troubler l'ordre;
 
-4. toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d'entraver les opérations électorales; si le scrutin a été violé, de même que si les coupables étaient porteurs d'armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;
+- toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d'entraver les opérations électorales; si le scrutin a été violé, de même que si les coupables étaient porteurs d'armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;
 
-5. ceux qui ont résisté à l'ordre d'expulsion rendu contre eux par le bureau électoral ou qui seront rentrés dans le local qu'ils avaient été obligés d'évacuer; quiconque, pendant la réunion d'un collège électoral, se sera rendu coupable d'outrages ou de violences, soit envers le bureau soit envers l'un de ses membres; les membres d'un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;
+- ceux qui ont résisté à l'ordre d'expulsion rendu contre eux par le bureau électoral ou qui seront rentrés dans le local qu'ils avaient été obligés d'évacuer; quiconque, pendant la réunion d'un collège électoral, se sera rendu coupable d'outrages ou de violences, soit envers le bureau soit envers l'un de ses membres; les membres d'un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;
 
-6. tout président, scrutateur ou secrétaire d'un bureau ou tout témoin de candidat qui aura révélé le secret d'un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d'un bulletin contrefait; tout membre ou secrétaire d'un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu'il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d'un autre électeur et celui qui, d'une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;
+- tout président, scrutateur ou secrétaire d'un bureau ou tout témoin de candidat qui aura révélé le secret d'un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d'un bulletin contrefait; tout membre ou secrétaire d'un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu'il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d'un autre électeur et celui qui, d'une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;
 
-7. les citoyens qui, invités à remplir au jour de l'élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n'auront pas fait connaître, dans les quarante-huit heures leurs motifs d'empêchement à celui dont l'invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu'à la clôture définitive des procès-verbaux.
+- les citoyens qui, invités à remplir au jour de l'élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n'auront pas fait connaître, dans les quarante-huit heures leurs motifs d'empêchement à celui dont l'invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu'à la clôture définitive des procès-verbaux.
 
 <a id="art-n12729"></a>
 ## Art. 35.
@@ -1382,9 +1382,9 @@ Dans le cadre de son objet, elle peut sous quelque forme que ce soit, soutenir, 
 
 Sont obligatoirement ressortissants de la Chambre des Métiers:
 
-1. toutes les personnes physiques ou morales établies à titre principal ou accessoire comme artisan, conformément à la législation en matière d'établissement;
+- toutes les personnes physiques ou morales établies à titre principal ou accessoire comme artisan, conformément à la législation en matière d'établissement;
 
-2. toutes les succursales établies à titre principal ou accessoire comme artisan, à l'initiative de personnes physiques ou morales relevant du droit d'un autre Etat, conformément à la législation en matière d'établissement.
+- toutes les succursales établies à titre principal ou accessoire comme artisan, à l'initiative de personnes physiques ou morales relevant du droit d'un autre Etat, conformément à la législation en matière d'établissement.
 
 (2)
 
@@ -1437,21 +1437,21 @@ La Chambre des Métiers peut créer ou subventionner, le cas échéant, tous ét
 
 Les activités de la Chambre des Métiers consistent notamment à:
 
-1. promouvoir un cadre législatif et réglementaire favorable au développement de l'artisanat et de ses ressortissants,
+- promouvoir un cadre législatif et réglementaire favorable au développement de l'artisanat et de ses ressortissants,
 
-2. promouvoir l'esprit d'entreprise et l'assistance et le conseil dans le cadre de la création et de la transmission d'entreprise,
+- promouvoir l'esprit d'entreprise et l'assistance et le conseil dans le cadre de la création et de la transmission d'entreprise,
 
-3. assister et conseiller ses ressortissants au niveau économique, technologique, juridique et de l'innovation, ainsi que dans leurs efforts d'internationalisation,
+- assister et conseiller ses ressortissants au niveau économique, technologique, juridique et de l'innovation, ainsi que dans leurs efforts d'internationalisation,
 
-4. établir des statistiques concernant l'artisanat et réaliser des études et des analyses sur l'artisanat et les petites et moyennes entreprises,
+- établir des statistiques concernant l'artisanat et réaliser des études et des analyses sur l'artisanat et les petites et moyennes entreprises,
 
-5. promouvoir la formation professionnelle initiale et continue, de même que l'assistance et le conseil y afférent,
+- promouvoir la formation professionnelle initiale et continue, de même que l'assistance et le conseil y afférent,
 
-6. participer à la formation et au perfectionnement professionnels des jeunes et des adultes dans le cadre des dispositions légales concernant la formation professionnelle initiale et le brevet de maîtrise,
+- participer à la formation et au perfectionnement professionnels des jeunes et des adultes dans le cadre des dispositions légales concernant la formation professionnelle initiale et le brevet de maîtrise,
 
-7. exécuter des missions spécifiques qui lui sont déléguées sur base d'une loi ou d'une convention,
+- exécuter des missions spécifiques qui lui sont déléguées sur base d'une loi ou d'une convention,
 
-8. informer et sensibiliser à l'observation de la législation concernant l'artisanat et les petites et moyennes entreprises.
+- informer et sensibiliser à l'observation de la législation concernant l'artisanat et les petites et moyennes entreprises.
 
 ##### Chapitre 3 – Composition et organisation
 
@@ -1503,17 +1503,17 @@ Le directeur général de la Chambre des Métiers établit pour chaque séance d
 
 Les membres élus de la Chambre des Métiers se regroupent en six sections, issues des six groupes électoraux, à savoir:
 
-1. La section Alimentation
+- La section Alimentation
 
-2. La section Mode, Santé, Hygiène
+- La section Mode, Santé, Hygiène
 
-3. La section Mécanique
+- La section Mécanique
 
-4. La section Construction – Gros œuvre – Parachèvement
+- La section Construction – Gros œuvre – Parachèvement
 
-5. La section Construction – Equipement technique
+- La section Construction – Equipement technique
 
-6. La section Communication, Multimédia, Art et autres activités.
+- La section Communication, Multimédia, Art et autres activités.
 
 <a id="art-n12bc6"></a>
 ## Art. 13.
@@ -1570,9 +1570,9 @@ Depuis le jour de la dissolution de l'assemblée plénière de la Chambre des M�
 
 Pour faire face à ses dépenses, la Chambre des Métiers est autorisée à percevoir :
 
-1. une cotisation annuelle de tous ses ressortissants,
+- une cotisation annuelle de tous ses ressortissants,
 
-2. des droits ou rétributions en rémunération des services qu’elle rend.
+- des droits ou rétributions en rémunération des services qu’elle rend.
 
 (2)
 
@@ -1637,11 +1637,11 @@ Lors d'une élection, nul ne peut être électeur et candidat dans plus d'un gro
 
 Sont exclus de l'électorat et de l'éligibilité:
 
-1. les condamnés à des peines criminelles;
+- les condamnés à des peines criminelles;
 
-2. ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;
+- ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;
 
-3. ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;
+- ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;
 
 Lorsque l'électeur est une personne morale ou une succursale, celle-ci est exclue du vote si son représentant tombe sous l'un des cas mentionnés ci-dessus.
 
@@ -1650,9 +1650,9 @@ Lorsque l'électeur est une personne morale ou une succursale, celle-ci est excl
 
 Ne peuvent se présenter en tant que candidats aux élections :
 
-1. les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;
+- les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;
 
-2. les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.
+- les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.
 
 <a id="art-n12fd5"></a>
 ## Art. 28.
@@ -1747,19 +1747,19 @@ L'organisation des élections et la procédure électorale sont fixées par règ
 
 Seront punis d'une amende de 251 à 5.000 euros:
 
-1. quiconque, pour se faire inscrire sur la liste d'électeurs, aura produit des actes ou pièces qu'il savait être simulés; celui qui aura pratiqué les mêmes manœuvres dans le but de faire inscrire un citoyen sur cette liste ou de l'en faire rayer;
+- quiconque, pour se faire inscrire sur la liste d'électeurs, aura produit des actes ou pièces qu'il savait être simulés; celui qui aura pratiqué les mêmes manœuvres dans le but de faire inscrire un citoyen sur cette liste ou de l'en faire rayer;
 
-2. celui qui, sous prétexte d'indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d'argent ou des valeurs ou un avantage quelconques; ceux qui, à l'occasion d'une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l'argent, soit des valeurs ou avantages quelconques sous la condition d'obtenir en sa faveur ou en faveur d'un tiers, un suffrage, l'abstention de voter ou la remise d'un bulletin de vote nul; les électeurs qui auront accepté des dons, offres ou promesses;
+- celui qui, sous prétexte d'indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d'argent ou des valeurs ou un avantage quelconques; ceux qui, à l'occasion d'une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l'argent, soit des valeurs ou avantages quelconques sous la condition d'obtenir en sa faveur ou en faveur d'un tiers, un suffrage, l'abstention de voter ou la remise d'un bulletin de vote nul; les électeurs qui auront accepté des dons, offres ou promesses;
 
-3. quiconque, pour déterminer un électeur à s'abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l'empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d'exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d'intimider les électeurs ou de troubler l'ordre;
+- quiconque, pour déterminer un électeur à s'abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l'empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d'exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d'intimider les électeurs ou de troubler l'ordre;
 
-4. toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d'entraver les opérations électorales; si le scrutin a été violé, de même que si les coupables étaient porteurs d'armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;
+- toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d'entraver les opérations électorales; si le scrutin a été violé, de même que si les coupables étaient porteurs d'armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;
 
-5. ceux qui ont résisté à l'ordre d'expulsion rendu contre eux par le bureau de vote ou qui seront rentrés dans le local qu'ils avaient été obligés d'évacuer; quiconque, pendant la réunion d'un collège électoral, se sera rendu coupable d'outrages ou de violences, soit envers le bureau soit envers l'un de ses membres; les membres d'un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;
+- ceux qui ont résisté à l'ordre d'expulsion rendu contre eux par le bureau de vote ou qui seront rentrés dans le local qu'ils avaient été obligés d'évacuer; quiconque, pendant la réunion d'un collège électoral, se sera rendu coupable d'outrages ou de violences, soit envers le bureau soit envers l'un de ses membres; les membres d'un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;
 
-6. tout président, scrutateur ou secrétaire d'un bureau ou tout témoin de candidat qui aura révélé le secret d'un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d'un bulletin contrefait; tout membre ou secrétaire d'un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu'il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d'un autre électeur et celui qui, d'une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;
+- tout président, scrutateur ou secrétaire d'un bureau ou tout témoin de candidat qui aura révélé le secret d'un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d'un bulletin contrefait; tout membre ou secrétaire d'un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu'il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d'un autre électeur et celui qui, d'une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;
 
-7. les citoyens qui, invités à remplir au jour de l'élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n'auront pas fait connaître, dans les quarante-huit heures leurs motifs d'empêchement à celui dont l'invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu'à la clôture définitive des procès-verbaux.
+- les citoyens qui, invités à remplir au jour de l'élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n'auront pas fait connaître, dans les quarante-huit heures leurs motifs d'empêchement à celui dont l'invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu'à la clôture définitive des procès-verbaux.
 
 <a id="art-n13321"></a>
 ## Art. 39.
@@ -1775,17 +1775,17 @@ L'action publique et l'action civile résultant des infractions prévues par la 
 
 L'article 2 de la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce est modifié comme suit:
 
-1. Un point j) est ajouté au paragraphe 4 et prend la teneur suivante:
+- Un point j) est ajouté au paragraphe 4 et prend la teneur suivante:
 
-2. Un sixième paragraphe est ajouté et prend la teneur suivante:
+- Un sixième paragraphe est ajouté et prend la teneur suivante:
 
 (2)
 
 L'article 4 de la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce est modifié comme suit:
 
-1. Le paragraphe 2 prend la teneur suivante:
+- Le paragraphe 2 prend la teneur suivante:
 
-2. Le paragraphe 3 prend la teneur suivante:
+- Le paragraphe 3 prend la teneur suivante:
 
 (3)
 
@@ -1882,25 +1882,25 @@ Sont à considérer comme « Sociétés de participations financières » les so
 
 Le président du bureau électoral :
 
-1. envoie à chaque ressortissant de la Chambre de commerce un formulaire avec invitation de s’inscrire sur les listes électorales et de vérifier les informations de base y répertoriées ;
+- envoie à chaque ressortissant de la Chambre de commerce un formulaire avec invitation de s’inscrire sur les listes électorales et de vérifier les informations de base y répertoriées ;
 
-2. fait publier, au plus tard 125 jours avant le scrutin, dans au moins deux journaux luxembourgeois, un avis reprenant les informations visées à la lettre a).
+- fait publier, au plus tard 125 jours avant le scrutin, dans au moins deux journaux luxembourgeois, un avis reprenant les informations visées à la lettre a).
 
 Toute personne qui demande son inscription sur les listes électorales, doit spécialement désigner le groupe électoral dont elle entend faire partie.
 
 L’inscription sur les listes électorales se fait obligatoirement et exclusivement sur une plateforme électronique étatique sécurisée en indiquant les données énumérées à l’article 26, alinéa 2, de la loi modifiée du 26 octobre 2010 portant réorganisation de la Chambre de Commerce . La plateforme reprend en outre les données suivantes que la Chambre de commerce délivre d’office au bureau électoral :
 
-1. le numéro d’identité du ressortissant ;
+- le numéro d’identité du ressortissant ;
 
-2. la dénomination du ressortissant ;
+- la dénomination du ressortissant ;
 
-3. la raison sociale ;
+- la raison sociale ;
 
-4. l’adresse physique postale ;
+- l’adresse physique postale ;
 
-5. le groupe électoral tel que prévu par l’article 1 er ;
+- le groupe électoral tel que prévu par l’article 1 er ;
 
-6. l’activité principale.
+- l’activité principale.
 
 Les données mentionnées à l’alinéa 3 sont générées 150 jours avant le scrutin et représentent l’ensemble des ressortissants de la Chambre de commerce pouvant participer aux élections.
 
@@ -2160,41 +2160,41 @@ Les bulletins sont classés par bulletins valables et bulletins nuls et envoyés
 
 Sont nuls :
 
-1. toutes les enveloppes de transmission :
+- toutes les enveloppes de transmission :
 
-1. qui ont été timbrées par la poste postérieurement au jour du scrutin ;
+  - qui ont été timbrées par la poste postérieurement au jour du scrutin ;
 
-2. non fermées ;
+  - non fermées ;
 
-3. marquées ;
+  - marquées ;
 
-4. sur lesquelles le numéro d’ordre n’est plus visible ;
+  - sur lesquelles le numéro d’ordre n’est plus visible ;
 
-5. contenant plusieurs enveloppes électorales ;
+  - contenant plusieurs enveloppes électorales ;
 
-2. toutes les enveloppes électorales :
+- toutes les enveloppes électorales :
 
-1. non fermées ;
+  - non fermées ;
 
-2. marquées ;
+  - marquées ;
 
-3. autres que celles délivrées par le président du bureau électoral ;
+  - autres que celles délivrées par le président du bureau électoral ;
 
-4. contenant plusieurs bulletins ;
+  - contenant plusieurs bulletins ;
 
-3. tous les bulletins de vote :
+- tous les bulletins de vote :
 
-1. autres que ceux envoyés ou remis par le président du bureau électoral aux électeurs ;
+  - autres que ceux envoyés ou remis par le président du bureau électoral aux électeurs ;
 
-2. non renfermés dans une enveloppe électorale ;
+  - non renfermés dans une enveloppe électorale ;
 
-3. qui expriment plus de suffrages que de candidats à élire ;
+  - qui expriment plus de suffrages que de candidats à élire ;
 
-4. qui portent une marque ou un signe distinctif quelconque ;
+  - qui portent une marque ou un signe distinctif quelconque ;
 
-5. sur lesquels le votant s’est fait connaître ;
+  - sur lesquels le votant s’est fait connaître ;
 
-6. qui contiennent à l’intérieur un papier ou un objet quelconque.
+  - qui contiennent à l’intérieur un papier ou un objet quelconque.
 
 <a id="art-n140bb"></a>
 ## Art. 36.
@@ -2211,33 +2211,33 @@ Les noms des membres effectifs et des membres suppléants élus sont publiés au
 
 Sont inscrites dans le procès-verbal de l’élection les mentions suivantes :
 
-1. le nombre de bulletins de vote reçus par l’imprimerie ;
+- le nombre de bulletins de vote reçus par l’imprimerie ;
 
-2. le nombre de bulletins de vote envoyés aux électeurs ;
+- le nombre de bulletins de vote envoyés aux électeurs ;
 
-3. le nombre de bulletins de vote remplacés ;
+- le nombre de bulletins de vote remplacés ;
 
-4. le nombre de bulletins de vote non employés ;
+- le nombre de bulletins de vote non employés ;
 
-5. le nombre d’enveloppes de transmission reçues ;
+- le nombre d’enveloppes de transmission reçues ;
 
-6. le nombre d’enveloppes de transmission déclarées nulles ;
+- le nombre d’enveloppes de transmission déclarées nulles ;
 
-7. le nombre de votants ;
+- le nombre de votants ;
 
-8. le nombre d’enveloppes électorales reçues ;
+- le nombre d’enveloppes électorales reçues ;
 
-9. le nombre d’enveloppes électorales déclarées nulles ;
+- le nombre d’enveloppes électorales déclarées nulles ;
 
-10. le nombre de bulletins de vote reçus ;
+- le nombre de bulletins de vote reçus ;
 
-11. le nombre de bulletins de vote déclarés nuls ;
+- le nombre de bulletins de vote déclarés nuls ;
 
-12. le nombre de bulletins valables et blancs ;
+- le nombre de bulletins valables et blancs ;
 
-13. le résultat du dépouillement ;
+- le résultat du dépouillement ;
 
-14. les noms des membres effectifs et des membres suppléants dans l’ordre suivant lequel ils doivent remplacer les membres effectifs.
+- les noms des membres effectifs et des membres suppléants dans l’ordre suivant lequel ils doivent remplacer les membres effectifs.
 
 Le procès-verbal est signé séance tenante par les membres du bureau électoral et les témoins.
 
@@ -2252,14 +2252,100 @@ Il est mis sous enveloppe cachetée, qui porte pour suscription le nom du bureau
 
 Sont abrogés :
 
-1. le règlement grand-ducal modifié du 21 juillet 2012 portant règlement de l’organisation des élections et de la procédure électorale pour la Chambre de Commerce ;
+- le règlement grand-ducal modifié du 21 juillet 2012 portant règlement de l’organisation des élections et de la procédure électorale pour la Chambre de Commerce ;
 
-2. le règlement grand-ducal du 21 juillet 2012 déterminant le nombre exact des membres effectifs et suppléants, la composition numérique, l’énumération et la dénomination des groupes électoraux ainsi que la répartition des sièges de la Chambre de Commerce.
+- le règlement grand-ducal du 21 juillet 2012 déterminant le nombre exact des membres effectifs et suppléants, la composition numérique, l’énumération et la dénomination des groupes électoraux ainsi que la répartition des sièges de la Chambre de Commerce.
 
 <a id="art-n14204"></a>
 ## Art. 41.
 
 Notre ministre ayant la Chambre de commerce dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.
+
+Lors du dépôt d’une proposition de candidat(s) au bureau électoral, il est à faire strictement attention que les noms de personnes mariées désireuses de les faire accompagner par le nom de leur conjoint doivent être libellés de la façon suivante: « Annette MEYER épouse MÜLLER ». Les noms-dits doivent être libellés de la façon suivante : « Joseph dit Jupp MEYER ». Toute fausse inscription sur la liste précitée sera refusée lors du dépôt des propositions.
+
+Groupe 6 – Hôtellerie, restauration et cafetiers, 2 sièges
+
+| ANGEL Paul (dénomination personne morale/succursale) |  |
+| --- | --- |
+| BERNARD Josiane (dénomination personne morale/succursale) |  |
+| COHN Jules (dénomination personne morale/succursale) |  |
+| ENGEL Nicolas (dénomination personne morale/succursale) |  |
+
+Des bulletins de vote identiques sont établis séparément pour chacun des groupes électoraux.
+
+1.
+
+Les sièges sont attribués aux candidats ayant obtenu le plus grand nombre de suffrages valables.
+
+2.
+
+Chaque électeur dispose d’autant de suffrages qu’il y a de membres effectifs à élire dans son groupe électoral. Il n’a le droit de vote que dans le seul groupe électoral auquel il appartient, c’est-à-dire dans le groupe pour lequel il se trouve inscrit sur les listes électorales.
+
+Chaque croix (X ou +) inscrite dans la case réservée derrière le nom des candidats vaut un suffrage à ce candidat. Toute croix, même imparfaite, exprime valablement le vote, à moins que l’intention de rendre le bulletin reconnaissable ne soit manifeste.
+
+Pour voter, il trace une croix (x ou +) dans la case réservée à cet effet à la suite des nom et prénoms de chacun des candidats pour lesquels il vote, le tout jusqu’à concurrence du nombre de candidats à élire dans son groupe électoral.
+
+L’électeur s’abstient de faire sur le bulletin toute autre inscription, signature, rature ou signe quelconque.
+
+L’électeur place le bulletin plié, l’estampille à l’extérieur, dans l’enveloppe électorale qu’il ferme. Il glisse celle-ci dans l’enveloppe de transmission, ferme le pli, et le remet à la poste, sous la forme d’une simple lettre, au plus tard le jour de la date du scrutin.
+
+Si l’électeur, par inadvertance, détériore le bulletin qui lui est remis, il en demande un autre par écrit au président du bureau électoral, en y joignant le premier.
+
+3.
+
+Sont nuls :
+
+- toutes les enveloppes de transmission :
+
+  - qui ont été timbrées par la poste postérieurement au jour du scrutin ;
+
+  - non fermées ;
+
+  - marquées ;
+
+  - sur lesquelles le numéro d’ordre n’est plus visible ;
+
+  - contenant plusieurs enveloppes électorales ;
+
+- toutes les enveloppes électorales :
+
+  - non fermées ;
+
+  - marquées ;
+
+  - autres que celles délivrées par le président du bureau électoral ;
+
+  - contenant plusieurs bulletins ;
+
+- tous les bulletins de vote :
+
+  - autres que ceux envoyés ou remis par le président du bureau électoral aux électeurs ;
+
+  - non renfermés dans une enveloppe électorale ;
+
+  - qui expriment plus de suffrages que de candidats à élire ;
+
+  - qui portent une marque ou un signe distinctif quelconque ;
+
+  - sur lesquels le votant s’est fait connaître ;
+
+  - qui contiennent à l’intérieur un papier ou un objet quelconque.
+
+- Conformément à l’article 34 de la loi modifiée du 26 octobre 2010 , seront punis d’une amende de 251 à 5.000 euros :
+
+  - quiconque, pour se faire inscrire sur la liste électorale, aura produit des actes ou pièces qu’il savait être simulés ; celui qui aura pratiqué les mêmes manœuvres dans le but de faire inscrire un citoyen sur cette liste ou de l’en faire rayer ;
+
+  - celui qui, sous prétexte d’indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d’argent ou des valeurs ou un avantage quelconques ; ceux qui, à l’occasion d’une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses ; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs ; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l’argent, soit des valeurs ou avantages quelconques sous la condition d’obtenir en sa faveur ou en faveur d’un tiers, un suffrage, l’abstention de voter ou la remise d’un bulletin de vote nul ; les électeurs qui auront accepté des dons, offres ou promesses ;
+
+  - quiconque, pour déterminer un électeur à s’abstenir de voter, ou à remettre un bulletin de vote nul, ou, pour influencer son vote ou pour l’empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d’exposer à un dommage sa personne, sa famille ou sa fortune ; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d’intimider les électeurs ou de troubler l’ordre ;
+
+  - toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d’entraver les opérations électorales ; si le scrutin a été violé, de même que si les coupables étaient porteurs d’armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double ;
+
+  - ceux qui ont résisté à l’ordre d’expulsion rendu contre eux par le bureau électoral ou qui seront rentrés dans le local qu’ils avaient été obligés d’évacuer ; quiconque, pendant la réunion d’un collège électoral, se sera rendu coupable d’outrages ou de violences, soit envers le bureau soit envers l’un de ses membres ;
+
+  - quiconque aura contrefait un bulletin électoral ou aura fait usage d’un bulletin contrefait ;
+
+  - celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d’un autre électeur et celui qui, d’une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote.
 
 ## 3. Chambre des fonctionnaires et employés publics
 
@@ -2268,7 +2354,85 @@ Notre ministre ayant la Chambre de commerce dans ses attributions est chargé de
 <a id="art-n144c1"></a>
 ## Art. III.
 
-Les articles suivants sont intercalés entre le chapitre VI et le chapitre final de la même loi : Chapitre VII.Chambre des fonctionnaires et employés publics.Art. 43bis.La chambre des fonctionnaires et employés publics a pour mission de créer et de subventionner le cas échéant tous établissements, institutions, oeuvres ou services voués essentiellement à l’amélioration de la condition sociale des fonctionnaires et employés publics, d’en féconder l’activité, de fournir des avis, de formuler des réclamations, de solliciter des informations et la production de données statistiques.La chambre est habilitée à soumettre à l’examen du Gouvernement des propositions dont l’objet rentre dans sa compétence.Pour toutes les lois et tous les arrêtés qui concernent principalement les fonctionnaires et employés publics l’avis de la chambre doit être demandé.La chambre des fonctionnaires et employés publics est notamment compétente :a) pour sauvegarder et défendre les intérêts matériels et moraux des fonctionnaires et employés publics, ainsi que pour veiller à l’observation de la législation et des règlements qui leur sont applicables ;b) pour donner son avis, avant le vote définitif par la Chambre des députés, sur les lois qui concernent principalement les fonctionnaires et employés publics ; c) pour soumettre au Gouvernement toutes propositions concernant l’organisation des services publics, ainsi que l’amélioration des conditions et des méthodes de travail dans les services publics ;d) pour prendre des mesures en vue de promouvoir la formation et le perfectionnement professionnels des fonctionnaires et employés publics et pour créer les conditions morales propres à leur permettre d’accomplir au mieux leurs devoirs professionnels.Art. 43ter.La chambre des fonctionnaires et employés publics se compose de vingt-sept membres effectifs et d’autant de membres suppléants. Les membres seront désignés par la voie de l’élection.L’élection assurera des mandats aux groupes suivants :Fonctionnaires de l’Etat, groupe supérieur3 mandats ;Fonctionnaires de l’Etat, groupe moyen5 mandats ;Fonctionnaires de l’Etat, groupe inférieur9 mandats ;Personnel de l’enseignement primaire et primaire supérieur2 mandats ;Fonctionnaires des communes5 mandats ;Ministres du culte catholique1 mandats ;Employés publics2 mandats.Par « fonctionnaires de l’Etat » au sens du présent article il faut entendre les fonctionnaires civils, les magistrats, les membres de tous les grades de l’Armée, de la Gendarmerie et de la Police, ainsi que le personnel des établissements publics et d’utilité publique pour autant qu’il est assimilé aux fonctionnaires de l’Etat. La répartition des fonctionnaires de l’Etat dans les groupes supérieur, moyen et inférieur se fera par arrêté grand-ducal d’après les trois grandes catégories de traitements. Dans la chambre des fonctionnaires et employés publics aucune administration de l’Etat ni aucun établissement public ou d’utilité publique ne peut occuper plus de deux mandats pour chacun des trois groupes des fonctionnaires définis au présent article.Par « fonctionnaires des communes» au sens du présent article il faut entendre les fonctionnaires des communes et des syndicats intercommunaux, et les fonctionnaires des établissements publics placés sous le contrôle des communes.Par « employés publics» au sens du présent article il faut entendre les agents de l’Etat, des communes et des établissements publics et d’utilité publique qui n’ont pas le statut de fonctionnaires et ne sont affiliés à aucune autre chambre professionnelle.L’attribution des mandats aux différents groupes définis ci-dessus pourra être modifiée par arrêté grand-ducal, à publier au moins trois mois avant les élections quinquennales , si une évolution dans l’importance réciproque des différents groupes, intervenue après la constitution de la chambre, fait apparaître cette modification comme équitable.Les délégués des différents groupes désignés ci-dessus pourront former, suivant les besoins, des commissions spéciales qui pourront délibérer séparément sur des questions qui intéressent particulièrement les groupes espectifs. A la demande des commissions spéciales, leur avis sera joint à l’avis de la chambre.Lorsque la chambre est saisie de questions intéressant plus particulièrement l’un ou l’autre des groupes susvisés, elle ne pourra émettre son avis qu’après avoir demandé l’avis de la commission spéciale représentant ce groupe. Cet avis devra être donné endéans les quinze jours.Art. 43quater.Chaque groupe distinct d’électeurs, ayant droit aux termes de l’article qui précède à un nombre déterminé de délégués, formera un collège électoral spécial pour la désignation de ses délégués.Sont qualifiés, pour participer à l’élection des membres de la chambre, les fonctionnaires et employés publics qui au moment de l’établissement des listes électorales remplissent l’une des fonctions déterminées à l’article qui précède ou jouissent d’une pension du chef de l’une de ces fonctions.Art. 43quinquies. Par dérogation à l´article 3 de la présente loi, la cotisation des ressortissants de la chambre sera fixée uniformément à un chiffre qui ne pourra pas dépasser cent francs par an. Ce montant, déterminé par référence au premier janvier 1948, pourra être adapté périodiquement au coût de la vie, conformément aux dispositions pertinentes de la législation fixant le régime des traitements des fonctionnaires de l´Etat Le budget et les comptes de la chambre seront communiqués chaque année aux électeurs.Art. 43sexies.Si le secrétaire de la chambre est recruté parmi les électeurs de la chambre, il peut maintenir, avec l’assentiment de son employeur, son statut originaire. Dans ce cas, la chambre sera tenue de rembourser à l’employeur les sommes versées au titre de traitement, accessoires compris, ainsi qu’une quotité de la pension qui correspond aux années passées au service de la chambre.Art. 43septies.La participation aux activités de la chambre ne donnera lieu à aucune rémunération, sauf pour le remboursement des frais de voyage. Les membres de la chambre et les suppléants, pour les périodes de suppléance, jouissent chaque mois d’un congé spécial d’une demi-journée pour se consacrer aux activités de la chambre ; ce congé est de deux demi-journées pour les membres du bureau.Art. 43octies.L’exercice des droits qui découlent de la présente loi, tant par la chambre elle-même que par ses membres, ne doit porter préjudice ni aux dispositions légales relatives aux droits et devoirs des fonctionnaires, ni aux lois disciplinaires.
+Les articles suivants sont intercalés entre le chapitre VI et le chapitre final de la même loi :
+
+#### Chapitre VII. Chambre des fonctionnaires et employés publics.
+
+<a id="art-n1450c"></a>
+## Art. 43bis.
+
+La chambre des fonctionnaires et employés publics a pour mission de créer et de subventionner le cas échéant tous établissements, institutions, oeuvres ou services voués essentiellement à l’amélioration de la condition sociale des fonctionnaires et employés publics, d’en féconder l’activité, de fournir des avis, de formuler des réclamations, de solliciter des informations et la production de données statistiques.
+
+La chambre est habilitée à soumettre à l’examen du Gouvernement des propositions dont l’objet rentre dans sa compétence.
+
+Pour toutes les lois et tous les arrêtés qui concernent principalement les fonctionnaires et employés publics l’avis de la chambre doit être demandé.
+
+La chambre des fonctionnaires et employés publics est notamment compétente :
+
+a) pour sauvegarder et défendre les intérêts matériels et moraux des fonctionnaires et employés publics, ainsi que pour veiller à l’observation de la législation et des règlements qui leur sont applicables ;
+
+b) pour donner son avis, avant le vote définitif par la Chambre des députés, sur les lois qui concernent principalement les fonctionnaires et employés publics ;
+
+c) pour soumettre au Gouvernement toutes propositions concernant l’organisation des services publics, ainsi que l’amélioration des conditions et des méthodes de travail dans les services publics ;
+
+d) pour prendre des mesures en vue de promouvoir la formation et le perfectionnement professionnels des fonctionnaires et employés publics et pour créer les conditions morales propres à leur permettre d’accomplir au mieux leurs devoirs professionnels.
+
+<a id="art-n14569"></a>
+## Art. 43ter.
+
+La chambre des fonctionnaires et employés publics se compose de vingt-sept membres effectifs et d’autant de membres suppléants. Les membres seront désignés par la voie de l’élection.
+
+L’élection assurera des mandats aux groupes suivants :
+
+| Fonctionnaires de l’Etat, groupe supérieur | 3 mandats ; |
+| --- | --- |
+| Fonctionnaires de l’Etat, groupe moyen | 5 mandats ; |
+| Fonctionnaires de l’Etat, groupe inférieur | 9 mandats ; |
+| Personnel de l’enseignement primaire et primaire supérieur | 2 mandats ; |
+| Fonctionnaires des communes | 5 mandats ; |
+| Ministres du culte catholique | 1 mandats ; |
+| Employés publics | 2 mandats. |
+
+Par « fonctionnaires de l’Etat » au sens du présent article il faut entendre les fonctionnaires civils, les magistrats, les membres de tous les grades de l’Armée, de la Gendarmerie et de la Police, ainsi que le personnel des établissements publics et d’utilité publique pour autant qu’il est assimilé aux fonctionnaires de l’Etat. La répartition des fonctionnaires de l’Etat dans les groupes supérieur, moyen et inférieur se fera par arrêté grand-ducal d’après les trois grandes catégories de traitements. Dans la chambre des fonctionnaires et employés publics aucune administration de l’Etat ni aucun établissement public ou d’utilité publique ne peut occuper plus de deux mandats pour chacun des trois groupes des fonctionnaires définis au présent article.
+
+Par « fonctionnaires des communes» au sens du présent article il faut entendre les fonctionnaires des communes et des syndicats intercommunaux, et les fonctionnaires des établissements publics placés sous le contrôle des communes.
+
+Par « employés publics» au sens du présent article il faut entendre les agents de l’Etat, des communes et des établissements publics et d’utilité publique qui n’ont pas le statut de fonctionnaires et ne sont affiliés à aucune autre chambre professionnelle.
+
+L’attribution des mandats aux différents groupes définis ci-dessus pourra être modifiée par arrêté grand-ducal, à publier au moins trois mois avant les élections quinquennales , si une évolution dans l’importance réciproque des différents groupes, intervenue après la constitution de la chambre, fait apparaître cette modification comme équitable.
+
+Les délégués des différents groupes désignés ci-dessus pourront former, suivant les besoins, des commissions spéciales qui pourront délibérer séparément sur des questions qui intéressent particulièrement les groupes espectifs. A la demande des commissions spéciales, leur avis sera joint à l’avis de la chambre.
+
+Lorsque la chambre est saisie de questions intéressant plus particulièrement l’un ou l’autre des groupes susvisés, elle ne pourra émettre son avis qu’après avoir demandé l’avis de la commission spéciale représentant ce groupe. Cet avis devra être donné endéans les quinze jours.
+
+<a id="art-n14658"></a>
+## Art. 43quater.
+
+Chaque groupe distinct d’électeurs, ayant droit aux termes de l’article qui précède à un nombre déterminé de délégués, formera un collège électoral spécial pour la désignation de ses délégués.
+
+Sont qualifiés, pour participer à l’élection des membres de la chambre, les fonctionnaires et employés publics qui au moment de l’établissement des listes électorales remplissent l’une des fonctions déterminées à l’article qui précède ou jouissent d’une pension du chef de l’une de ces fonctions.
+
+<a id="art-n14673"></a>
+## Art. 43quinquies.
+
+Par dérogation à l´article 3 de la présente loi, la cotisation des ressortissants de la chambre sera fixée uniformément à un chiffre qui ne pourra pas dépasser cent francs par an. Ce montant, déterminé par référence au premier janvier 1948, pourra être adapté périodiquement au coût de la vie, conformément aux dispositions pertinentes de la législation fixant le régime des traitements des fonctionnaires de l´Etat
+
+Le budget et les comptes de la chambre seront communiqués chaque année aux électeurs.
+
+<a id="art-n1469a"></a>
+## Art. 43sexies.
+
+Si le secrétaire de la chambre est recruté parmi les électeurs de la chambre, il peut maintenir, avec l’assentiment de son employeur, son statut originaire. Dans ce cas, la chambre sera tenue de rembourser à l’employeur les sommes versées au titre de traitement, accessoires compris, ainsi qu’une quotité de la pension qui correspond aux années passées au service de la chambre.
+
+<a id="art-n146ac"></a>
+## Art. 43septies.
+
+La participation aux activités de la chambre ne donnera lieu à aucune rémunération, sauf pour le remboursement des frais de voyage. Les membres de la chambre et les suppléants, pour les périodes de suppléance, jouissent chaque mois d’un congé spécial d’une demi-journée pour se consacrer aux activités de la chambre ; ce congé est de deux demi-journées pour les membres du bureau.
+
+<a id="art-n146be"></a>
+## Art. 43octies.
+
+L’exercice des droits qui découlent de la présente loi, tant par la chambre elle-même que par ses membres, ne doit porter préjudice ni aux dispositions légales relatives aux droits et devoirs des fonctionnaires, ni aux lois disciplinaires.
 
 ## 4. Chambre des métiers
 
@@ -2279,49 +2443,49 @@ Les articles suivants sont intercalés entre le chapitre VI et le chapitre final
 
 Ont droit à un siège, dans la Chambre des Métiers à élire, les groupes de métiers ci-après énumérés:
 
-1. boulanger-pâtissier, pâtissier-chocolatier-confiseur-glacier, glacier, fabricant de gaufres et de crêpes, meunier
+- boulanger-pâtissier, pâtissier-chocolatier-confiseur-glacier, glacier, fabricant de gaufres et de crêpes, meunier
 
-2. boucher-charcutier, boucher-charcutier chevalin, chevillard-abatteur de bestiaux, fabricant de salaisons, tripier, traiteur
+- boucher-charcutier, boucher-charcutier chevalin, chevillard-abatteur de bestiaux, fabricant de salaisons, tripier, traiteur
 
-3. tailleur-couturier, modiste-chapelier, fourreur, retoucheur de vêtements, nettoyeur à sec-blanchisseurrepasseur, nettoyeur de tapis et de matelas
+- tailleur-couturier, modiste-chapelier, fourreur, retoucheur de vêtements, nettoyeur à sec-blanchisseurrepasseur, nettoyeur de tapis et de matelas
 
-4. bottier-cordonnier, cordonnier-réparateur, maroquinier, horloger, bijoutier-orfèvre, fabricant d’articles de fausse bijouterie, lissier, brodeur, tricoteur
+- bottier-cordonnier, cordonnier-réparateur, maroquinier, horloger, bijoutier-orfèvre, fabricant d’articles de fausse bijouterie, lissier, brodeur, tricoteur
 
-5. opticien-optométriste, audio prothésiste, mécanicien dentiste, mécanicien orthopédiste-bandagiste, orthopédiste-cordonnier, podologue, mécanicien de matériel médico-chirurgical
+- opticien-optométriste, audio prothésiste, mécanicien dentiste, mécanicien orthopédiste-bandagiste, orthopédiste-cordonnier, podologue, mécanicien de matériel médico-chirurgical
 
-6. esthéticien, pédicure, manucure-confectionneur d’ongles artificiels, maquilleur
+- esthéticien, pédicure, manucure-confectionneur d’ongles artificiels, maquilleur
 
-7. coiffeur
+- coiffeur
 
-8. mécanicien en mécanique générale, armurier, affûteur d’outils, forgeron, maréchal-ferrant, mécanicien de machines et de matériels industriels et de la construction, mécanicien de machines à coudre et à tricoter, réparateur de jeux d’amusement et d’automates, mécanicien de machines utilisées dans l’alimentation, mécanicien de machines et de matériel agricoles et viticoles
+- mécanicien en mécanique générale, armurier, affûteur d’outils, forgeron, maréchal-ferrant, mécanicien de machines et de matériels industriels et de la construction, mécanicien de machines à coudre et à tricoter, réparateur de jeux d’amusement et d’automates, mécanicien de machines utilisées dans l’alimentation, mécanicien de machines et de matériel agricoles et viticoles
 
-9. mécanicien-électronicien d’autos et de motos, constructeur réparateur de carrosseries, recycleur de véhicules automoteurs, débosseleur-peintre de véhicules automoteurs
+- mécanicien-électronicien d’autos et de motos, constructeur réparateur de carrosseries, recycleur de véhicules automoteurs, débosseleur-peintre de véhicules automoteurs
 
-10. exploitant d’une station de service pour véhicules automoteurs, vulcanisateur, monteur de pneus, mécanicien de cycles, constructeur réparateur de bateaux, garnisseur d’autos et de motos-sellier, chaudronnier, galvaniseur, fabricant réparateur de radiateurs d’autos et de motos
+- exploitant d’une station de service pour véhicules automoteurs, vulcanisateur, monteur de pneus, mécanicien de cycles, constructeur réparateur de bateaux, garnisseur d’autos et de motos-sellier, chaudronnier, galvaniseur, fabricant réparateur de radiateurs d’autos et de motos
 
-11. instructeur de conducteurs de véhicules automoteurs, loueur de taxis et de voitures de location, expert en automobiles, loueur d’ambulances
+- instructeur de conducteurs de véhicules automoteurs, loueur de taxis et de voitures de location, expert en automobiles, loueur d’ambulances
 
-12. entrepreneur de construction
+- entrepreneur de construction
 
-13. entrepreneur de voirie et de pavage, confectionneur de chapes, entrepreneur de terrassement, d’excavation de terrains et de canalisation, entrepreneur d’asphaltage et de bitumage, monteur d’échafaudages, poseur de jointements, ferrailleur pour béton armé, fumiste, entrepreneur de forage et d’ancrage, entrepreneur paysagiste, entrepreneur d’isolations thermiques, acoustiques et d’étanchéité
+- entrepreneur de voirie et de pavage, confectionneur de chapes, entrepreneur de terrassement, d’excavation de terrains et de canalisation, entrepreneur d’asphaltage et de bitumage, monteur d’échafaudages, poseur de jointements, ferrailleur pour béton armé, fumiste, entrepreneur de forage et d’ancrage, entrepreneur paysagiste, entrepreneur d’isolations thermiques, acoustiques et d’étanchéité
 
-14. menuisier-ébéniste, parqueteur, poseur-monteur d’éléments préfabriqués, fabricant d’emballages en bois et de palettes, restaurateur de meubles meublants, entrepreneur de pompes funèbres, constructeur de stands d’exposition, fabricant de jouets et d’objets de souvenirs, fabricant poseur de volets, de jalousies, de marquises et de stores, peintre laqueur sur bois, sculpteur-tourneur sur bois
+- menuisier-ébéniste, parqueteur, poseur-monteur d’éléments préfabriqués, fabricant d’emballages en bois et de palettes, restaurateur de meubles meublants, entrepreneur de pompes funèbres, constructeur de stands d’exposition, fabricant de jouets et d’objets de souvenirs, fabricant poseur de volets, de jalousies, de marquises et de stores, peintre laqueur sur bois, sculpteur-tourneur sur bois
 
-15. peintre-décorateur, vitrier-miroitier, tapissier décorateur, poseur-monteur de fenêtres, de portes et de meubles préfabriqués, poseur de systèmes de protection solaire, constructeur de cadrans solaires, vitrier d’art, confectionneur de rideaux, poseur de tapis, de planchers stratifiés et d’autres revêtements de sol en matière synthétique, étalagiste décorateur
+- peintre-décorateur, vitrier-miroitier, tapissier décorateur, poseur-monteur de fenêtres, de portes et de meubles préfabriqués, poseur de systèmes de protection solaire, constructeur de cadrans solaires, vitrier d’art, confectionneur de rideaux, poseur de tapis, de planchers stratifiés et d’autres revêtements de sol en matière synthétique, étalagiste décorateur
 
-16. entrepreneur de constructions métalliques, fabricant poseur de bardages et de toitures métalliques, fabricant de panneaux de signalisation et de plaques d’immatriculation, entrepreneur de traitement de surfaces métalliques, constructeur de fours
+- entrepreneur de constructions métalliques, fabricant poseur de bardages et de toitures métalliques, fabricant de panneaux de signalisation et de plaques d’immatriculation, entrepreneur de traitement de surfaces métalliques, constructeur de fours
 
-17. couvreur-ferblantier, charpentier, installateur de mesures de sécurité en altitude, ramoneur, nettoyeur de toitures, constructeur-poseur de cheminées et de poêles en faïence
+- couvreur-ferblantier, charpentier, installateur de mesures de sécurité en altitude, ramoneur, nettoyeur de toitures, constructeur-poseur de cheminées et de poêles en faïence
 
-18. carreleur, plafonneur-façadier, sculpteur de pierres, marbrier-tailleur de pierres, nettoyeur de bâtiments et de monuments, mosaïste
+- carreleur, plafonneur-façadier, sculpteur de pierres, marbrier-tailleur de pierres, nettoyeur de bâtiments et de monuments, mosaïste
 
-19. installateur chauffage-sanitaire, installateur frigoriste, instructeur de natation
+- installateur chauffage-sanitaire, installateur frigoriste, instructeur de natation
 
-20. électricien, installateur d’enseignes lumineuses, recycleur d’équipements électriques et électroniques, bobineur
+- électricien, installateur d’enseignes lumineuses, recycleur d’équipements électriques et électroniques, bobineur
 
-21. installateur d’ascenseurs, de monte-charges, d’escaliers mécaniques et de matériel de manutention, électronicien en communication et en informatique, installateur de systèmes d’alarme et de sécurité, électronicien d’installations et d’appareils audiovisuels, constructeur réparateur de réseaux de télédistribution, électronicien en bureautique et en informatique
+- installateur d’ascenseurs, de monte-charges, d’escaliers mécaniques et de matériel de manutention, électronicien en communication et en informatique, installateur de systèmes d’alarme et de sécurité, électronicien d’installations et d’appareils audiovisuels, constructeur réparateur de réseaux de télédistribution, électronicien en bureautique et en informatique
 
-22. Imprimeur, opérateur média, sérigraphe, exploitant d’un atelier graphique, relieur, cartonnier, maquettiste, photographe, exploitant d’un laboratoire de développement de films, opérateur de son, opérateur de lumière et d’éclairage, opérateur d’images, accordeur d’instruments de musique, fabricant réparateur d’instruments de musique, tisserand, graveur, repousseur sur métaux, étameur, fondeur d’art, ferronnier d’art, fabricant d’ornements d’église, encadreur, décorateur, sculpteur de théâtre, accessoiriste, souffleur de verre, tailleurgraveur sur verre et cristal, cirier, rempailleur-vannier, fabricant de fleurs artificielles, potier-céramiste, émailleur, relieur d’art
+- Imprimeur, opérateur média, sérigraphe, exploitant d’un atelier graphique, relieur, cartonnier, maquettiste, photographe, exploitant d’un laboratoire de développement de films, opérateur de son, opérateur de lumière et d’éclairage, opérateur d’images, accordeur d’instruments de musique, fabricant réparateur d’instruments de musique, tisserand, graveur, repousseur sur métaux, étameur, fondeur d’art, ferronnier d’art, fabricant d’ornements d’église, encadreur, décorateur, sculpteur de théâtre, accessoiriste, souffleur de verre, tailleurgraveur sur verre et cristal, cirier, rempailleur-vannier, fabricant de fleurs artificielles, potier-céramiste, émailleur, relieur d’art
 
 <a id="art-n14751"></a>
 ## Art. 2.
@@ -2441,9 +2605,9 @@ Une copie des listes électorales définitivement arrêtées est transmise, dans
 
 Pour chaque collège les listes de candidats sont présentées par dix électeurs inscrits dans ce collège. La présentation des listes de candidats doit être accompagnée, outre les preuves requises par l'article 6 de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective:
 
-1. d'une attestation délivrée à chaque candidat par le Ministre ayant l'agriculture dans ses attributions et certifiant qu'il est électeur et dans quel collège;
+- d'une attestation délivrée à chaque candidat par le Ministre ayant l'agriculture dans ses attributions et certifiant qu'il est électeur et dans quel collège;
 
-2. d'une déclaration signée par les candidats et attestant qu'ils acceptent la candidature dans ce collège. Chaque liste porte la désignation d'un mandataire choisi parmi les signataires de la présentation à l'effet de faire le dépôt de la liste et de remplir les autres devoirs lui imposés par les articles suivants.
+- d'une déclaration signée par les candidats et attestant qu'ils acceptent la candidature dans ce collège. Chaque liste porte la désignation d'un mandataire choisi parmi les signataires de la présentation à l'effet de faire le dépôt de la liste et de remplir les autres devoirs lui imposés par les articles suivants.
 
 (2)
 
@@ -2738,17 +2902,17 @@ Les suffrages exprimés sur les bulletins reconnus valables après le contrôle 
 
 Sont nuls:
 
-1. tous les bulletins autres que ceux envoyés ou remis par le Président aux électeurs;
+- tous les bulletins autres que ceux envoyés ou remis par le Président aux électeurs;
 
-2. tout bulletin:
+- tout bulletin:
 
-1. qui ne contient l'expression d'aucun suffrage;
+  - qui ne contient l'expression d'aucun suffrage;
 
-2. qui exprime plus de suffrages qu'il n'y a de membres à élire;
+  - qui exprime plus de suffrages qu'il n'y a de membres à élire;
 
-3. qui porte une marque ou un signe distinctif quelconque, ou s'il est renfermé dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le Président;
+  - qui porte une marque ou un signe distinctif quelconque, ou s'il est renfermé dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le Président;
 
-4. qui contient des éléments permettant de reconnaître le votant.
+  - qui contient des éléments permettant de reconnaître le votant.
 
 <a id="art-n14dc7"></a>
 ## Art. 35.
@@ -2787,15 +2951,15 @@ Les suffrages recueillis par un candidat décédé après l'expiration du terme 
 
 Le bureau électoral arrête sur la base des résultats du dépouillement dans les différentes sections:
 
-1. le nombre total des votants,
+- le nombre total des votants,
 
-2. celui des catégories suivantes: bulletins trouvés dans l'urne, bulletins valables, bulletins nuls et bulletins blancs,
+- celui des catégories suivantes: bulletins trouvés dans l'urne, bulletins valables, bulletins nuls et bulletins blancs,
 
-3. le nombre total des suffrages de listes ainsi que celui des suffrages nominatifs,
+- le nombre total des suffrages de listes ainsi que celui des suffrages nominatifs,
 
-4. les sièges attribués aux différentes listes d'après le mode de calcul visé à l'article 38,
+- les sièges attribués aux différentes listes d'après le mode de calcul visé à l'article 38,
 
-5. le nom et les prénoms des membres effectifs et des membres suppléants élus.
+- le nom et les prénoms des membres effectifs et des membres suppléants élus.
 
 Toutes les données sont à inscrire au procès-verbal.
 
@@ -2896,25 +3060,25 @@ Sont à considérer comme « Sociétés de participations financières » les so
 
 Le président du bureau électoral :
 
-1. envoie à chaque ressortissant de la Chambre de commerce un formulaire avec invitation de s’inscrire sur les listes électorales et de vérifier les informations de base y répertoriées ;
+- envoie à chaque ressortissant de la Chambre de commerce un formulaire avec invitation de s’inscrire sur les listes électorales et de vérifier les informations de base y répertoriées ;
 
-2. fait publier, au plus tard 125 jours avant le scrutin, dans au moins deux journaux luxembourgeois, un avis reprenant les informations visées à la lettre a).
+- fait publier, au plus tard 125 jours avant le scrutin, dans au moins deux journaux luxembourgeois, un avis reprenant les informations visées à la lettre a).
 
 Toute personne qui demande son inscription sur les listes électorales, doit spécialement désigner le groupe électoral dont elle entend faire partie.
 
 L’inscription sur les listes électorales se fait obligatoirement et exclusivement sur une plateforme électronique étatique sécurisée en indiquant les données énumérées à l’article 26, alinéa 2, de la loi modifiée du 26 octobre 2010 portant réorganisation de la Chambre de Commerce . La plateforme reprend en outre les données suivantes que la Chambre de commerce délivre d’office au bureau électoral :
 
-1. le numéro d’identité du ressortissant ;
+- le numéro d’identité du ressortissant ;
 
-2. la dénomination du ressortissant ;
+- la dénomination du ressortissant ;
 
-3. la raison sociale ;
+- la raison sociale ;
 
-4. l’adresse physique postale ;
+- l’adresse physique postale ;
 
-5. le groupe électoral tel que prévu par l’article 1 er ;
+- le groupe électoral tel que prévu par l’article 1 er ;
 
-6. l’activité principale.
+- l’activité principale.
 
 Les données mentionnées à l’alinéa 3 sont générées 150 jours avant le scrutin et représentent l’ensemble des ressortissants de la Chambre de commerce pouvant participer aux élections.
 
@@ -3174,41 +3338,41 @@ Les bulletins sont classés par bulletins valables et bulletins nuls et envoyés
 
 Sont nuls :
 
-1. toutes les enveloppes de transmission :
+- toutes les enveloppes de transmission :
 
-1. qui ont été timbrées par la poste postérieurement au jour du scrutin ;
+  - qui ont été timbrées par la poste postérieurement au jour du scrutin ;
 
-2. non fermées ;
+  - non fermées ;
 
-3. marquées ;
+  - marquées ;
 
-4. sur lesquelles le numéro d’ordre n’est plus visible ;
+  - sur lesquelles le numéro d’ordre n’est plus visible ;
 
-5. contenant plusieurs enveloppes électorales ;
+  - contenant plusieurs enveloppes électorales ;
 
-2. toutes les enveloppes électorales :
+- toutes les enveloppes électorales :
 
-1. non fermées ;
+  - non fermées ;
 
-2. marquées ;
+  - marquées ;
 
-3. autres que celles délivrées par le président du bureau électoral ;
+  - autres que celles délivrées par le président du bureau électoral ;
 
-4. contenant plusieurs bulletins ;
+  - contenant plusieurs bulletins ;
 
-3. tous les bulletins de vote :
+- tous les bulletins de vote :
 
-1. autres que ceux envoyés ou remis par le président du bureau électoral aux électeurs ;
+  - autres que ceux envoyés ou remis par le président du bureau électoral aux électeurs ;
 
-2. non renfermés dans une enveloppe électorale ;
+  - non renfermés dans une enveloppe électorale ;
 
-3. qui expriment plus de suffrages que de candidats à élire ;
+  - qui expriment plus de suffrages que de candidats à élire ;
 
-4. qui portent une marque ou un signe distinctif quelconque ;
+  - qui portent une marque ou un signe distinctif quelconque ;
 
-5. sur lesquels le votant s’est fait connaître ;
+  - sur lesquels le votant s’est fait connaître ;
 
-6. qui contiennent à l’intérieur un papier ou un objet quelconque.
+  - qui contiennent à l’intérieur un papier ou un objet quelconque.
 
 <a id="art-n159eb"></a>
 ## Art. 36.
@@ -3225,33 +3389,33 @@ Les noms des membres effectifs et des membres suppléants élus sont publiés au
 
 Sont inscrites dans le procès-verbal de l’élection les mentions suivantes :
 
-1. le nombre de bulletins de vote reçus par l’imprimerie ;
+- le nombre de bulletins de vote reçus par l’imprimerie ;
 
-2. le nombre de bulletins de vote envoyés aux électeurs ;
+- le nombre de bulletins de vote envoyés aux électeurs ;
 
-3. le nombre de bulletins de vote remplacés ;
+- le nombre de bulletins de vote remplacés ;
 
-4. le nombre de bulletins de vote non employés ;
+- le nombre de bulletins de vote non employés ;
 
-5. le nombre d’enveloppes de transmission reçues ;
+- le nombre d’enveloppes de transmission reçues ;
 
-6. le nombre d’enveloppes de transmission déclarées nulles ;
+- le nombre d’enveloppes de transmission déclarées nulles ;
 
-7. le nombre de votants ;
+- le nombre de votants ;
 
-8. le nombre d’enveloppes électorales reçues ;
+- le nombre d’enveloppes électorales reçues ;
 
-9. le nombre d’enveloppes électorales déclarées nulles ;
+- le nombre d’enveloppes électorales déclarées nulles ;
 
-10. le nombre de bulletins de vote reçus ;
+- le nombre de bulletins de vote reçus ;
 
-11. le nombre de bulletins de vote déclarés nuls ;
+- le nombre de bulletins de vote déclarés nuls ;
 
-12. le nombre de bulletins valables et blancs ;
+- le nombre de bulletins valables et blancs ;
 
-13. le résultat du dépouillement ;
+- le résultat du dépouillement ;
 
-14. les noms des membres effectifs et des membres suppléants dans l’ordre suivant lequel ils doivent remplacer les membres effectifs.
+- les noms des membres effectifs et des membres suppléants dans l’ordre suivant lequel ils doivent remplacer les membres effectifs.
 
 Le procès-verbal est signé séance tenante par les membres du bureau électoral et les témoins.
 
@@ -3266,18 +3430,106 @@ Il est mis sous enveloppe cachetée, qui porte pour suscription le nom du bureau
 
 Sont abrogés :
 
-1. le règlement grand-ducal modifié du 21 juillet 2012 portant règlement de l’organisation des élections et de la procédure électorale pour la Chambre de Commerce ;
+- le règlement grand-ducal modifié du 21 juillet 2012 portant règlement de l’organisation des élections et de la procédure électorale pour la Chambre de Commerce ;
 
-2. le règlement grand-ducal du 21 juillet 2012 déterminant le nombre exact des membres effectifs et suppléants, la composition numérique, l’énumération et la dénomination des groupes électoraux ainsi que la répartition des sièges de la Chambre de Commerce.
+- le règlement grand-ducal du 21 juillet 2012 déterminant le nombre exact des membres effectifs et suppléants, la composition numérique, l’énumération et la dénomination des groupes électoraux ainsi que la répartition des sièges de la Chambre de Commerce.
 
 <a id="art-n15b34"></a>
 ## Art. 41.
 
 Notre ministre ayant la Chambre de commerce dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.
 
+Lors du dépôt d’une proposition de candidat(s) au bureau électoral, il est à faire strictement attention que les noms de personnes mariées désireuses de les faire accompagner par le nom de leur conjoint doivent être libellés de la façon suivante: « Annette MEYER épouse MÜLLER ». Les noms-dits doivent être libellés de la façon suivante : « Joseph dit Jupp MEYER ». Toute fausse inscription sur la liste précitée sera refusée lors du dépôt des propositions.
+
+Groupe 6 – Hôtellerie, restauration et cafetiers, 2 sièges
+
+| ANGEL Paul (dénomination personne morale/succursale) |  |
+| --- | --- |
+| BERNARD Josiane (dénomination personne morale/succursale) |  |
+| COHN Jules (dénomination personne morale/succursale) |  |
+| ENGEL Nicolas (dénomination personne morale/succursale) |  |
+
+Des bulletins de vote identiques sont établis séparément pour chacun des groupes électoraux.
+
+1.
+
+Les sièges sont attribués aux candidats ayant obtenu le plus grand nombre de suffrages valables.
+
+2.
+
+Chaque électeur dispose d’autant de suffrages qu’il y a de membres effectifs à élire dans son groupe électoral. Il n’a le droit de vote que dans le seul groupe électoral auquel il appartient, c’est-à-dire dans le groupe pour lequel il se trouve inscrit sur les listes électorales.
+
+Chaque croix (X ou +) inscrite dans la case réservée derrière le nom des candidats vaut un suffrage à ce candidat. Toute croix, même imparfaite, exprime valablement le vote, à moins que l’intention de rendre le bulletin reconnaissable ne soit manifeste.
+
+Pour voter, il trace une croix (x ou +) dans la case réservée à cet effet à la suite des nom et prénoms de chacun des candidats pour lesquels il vote, le tout jusqu’à concurrence du nombre de candidats à élire dans son groupe électoral.
+
+L’électeur s’abstient de faire sur le bulletin toute autre inscription, signature, rature ou signe quelconque.
+
+L’électeur place le bulletin plié, l’estampille à l’extérieur, dans l’enveloppe électorale qu’il ferme. Il glisse celle-ci dans l’enveloppe de transmission, ferme le pli, et le remet à la poste, sous la forme d’une simple lettre, au plus tard le jour de la date du scrutin.
+
+Si l’électeur, par inadvertance, détériore le bulletin qui lui est remis, il en demande un autre par écrit au président du bureau électoral, en y joignant le premier.
+
+3.
+
+Sont nuls :
+
+- toutes les enveloppes de transmission :
+
+  - qui ont été timbrées par la poste postérieurement au jour du scrutin ;
+
+  - non fermées ;
+
+  - marquées ;
+
+  - sur lesquelles le numéro d’ordre n’est plus visible ;
+
+  - contenant plusieurs enveloppes électorales ;
+
+- toutes les enveloppes électorales :
+
+  - non fermées ;
+
+  - marquées ;
+
+  - autres que celles délivrées par le président du bureau électoral ;
+
+  - contenant plusieurs bulletins ;
+
+- tous les bulletins de vote :
+
+  - autres que ceux envoyés ou remis par le président du bureau électoral aux électeurs ;
+
+  - non renfermés dans une enveloppe électorale ;
+
+  - qui expriment plus de suffrages que de candidats à élire ;
+
+  - qui portent une marque ou un signe distinctif quelconque ;
+
+  - sur lesquels le votant s’est fait connaître ;
+
+  - qui contiennent à l’intérieur un papier ou un objet quelconque.
+
+- Conformément à l’article 34 de la loi modifiée du 26 octobre 2010 , seront punis d’une amende de 251 à 5.000 euros :
+
+  - quiconque, pour se faire inscrire sur la liste électorale, aura produit des actes ou pièces qu’il savait être simulés ; celui qui aura pratiqué les mêmes manœuvres dans le but de faire inscrire un citoyen sur cette liste ou de l’en faire rayer ;
+
+  - celui qui, sous prétexte d’indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d’argent ou des valeurs ou un avantage quelconques ; ceux qui, à l’occasion d’une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses ; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs ; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l’argent, soit des valeurs ou avantages quelconques sous la condition d’obtenir en sa faveur ou en faveur d’un tiers, un suffrage, l’abstention de voter ou la remise d’un bulletin de vote nul ; les électeurs qui auront accepté des dons, offres ou promesses ;
+
+  - quiconque, pour déterminer un électeur à s’abstenir de voter, ou à remettre un bulletin de vote nul, ou, pour influencer son vote ou pour l’empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d’exposer à un dommage sa personne, sa famille ou sa fortune ; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d’intimider les électeurs ou de troubler l’ordre ;
+
+  - toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d’entraver les opérations électorales ; si le scrutin a été violé, de même que si les coupables étaient porteurs d’armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double ;
+
+  - ceux qui ont résisté à l’ordre d’expulsion rendu contre eux par le bureau électoral ou qui seront rentrés dans le local qu’ils avaient été obligés d’évacuer ; quiconque, pendant la réunion d’un collège électoral, se sera rendu coupable d’outrages ou de violences, soit envers le bureau soit envers l’un de ses membres ;
+
+  - quiconque aura contrefait un bulletin électoral ou aura fait usage d’un bulletin contrefait ;
+
+  - celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d’un autre électeur et celui qui, d’une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote.
+
 ## 3. Chambre des fonctionnaires et employés publics
 
 ## Version consolidée applicable au 02/12/2019 : Règlement grand-ducal du 17 janvier 1984 portant réglementation de la procédure électorale pour la Chambre des Fonctionnaires et Employés publics.
+
+Disposition générale
 
 <a id="art-n15dff"></a>
 ## Art. 1er.
@@ -3352,11 +3604,11 @@ Une copie des listes électorales définitivement arrêtées est transmise au pl
 
 Pour chaque catégorie d’électeurs les listes de candidats sont à présenter par dix électeurs inscrits dans cette catégorie. Les formules imprimées des listes, attestations et déclarations visées au présent article doivent être disponibles auprès du ministre au plus tard le 1er février qui précède les élections. Chaque liste de candidats doit être accompagnée:
 
-1. d’un extrait du bulletin n° 3 du casier judiciaire et d’un extrait du répertoire civil qui datent de moins de trois mois ;
+- d’un extrait du bulletin n° 3 du casier judiciaire et d’un extrait du répertoire civil qui datent de moins de trois mois ;
 
-2. d’une déclaration signée par les candidats et confirmant qu’ils acceptent la candidature dans cette catégorie;
+- d’une déclaration signée par les candidats et confirmant qu’ils acceptent la candidature dans cette catégorie;
 
-3. d’une attestation délivrée à chaque candidat par son administration ou service certifant qu’il appartient ou a appartenu au cadre de son personnel. Pour les ressortissants de la catégorie D, cette attestation est délivrée par le ministre ayant l’Éducation nationale dans ses attributions .
+- d’une attestation délivrée à chaque candidat par son administration ou service certifant qu’il appartient ou a appartenu au cadre de son personnel. Pour les ressortissants de la catégorie D, cette attestation est délivrée par le ministre ayant l’Éducation nationale dans ses attributions .
 
 Chaque liste de candidats doit être déposée par un mandataire désigné par et parmi les électeurs qui la présentent et qui l’ont signée à cet effet. Le mandataire remplit en outre tous les autres devoirs qui lui sont imposés par le présent règlement grand-ducal.
 
@@ -3571,15 +3823,15 @@ Est blanc le bulletin qui ne porte aucune inscription.
 
 Sont nuls:
 
-1. tous les bulletins autres que ceux envoyés ou remis par le président aux électeurs;
+- tous les bulletins autres que ceux envoyés ou remis par le président aux électeurs;
 
-2. ce bulletin même:
+- ce bulletin même:
 
-1. s’il exprime plus de suffrages qu’il y a de membres à élire;
+  - s’il exprime plus de suffrages qu’il y a de membres à élire;
 
-2. s’il porte une marque ou un signe distinctif quelconque ou s’il est renfermé dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président;
+  - s’il porte une marque ou un signe distinctif quelconque ou s’il est renfermé dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président;
 
-3. si le votant s’y est fait connaître.
+  - si le votant s’y est fait connaître.
 
 Les bulletins blancs et nuls sont de suite écartés et leur nombre est inscrit au procès-verbal.
 
@@ -3618,11 +3870,11 @@ A la reprise des travaux, ce local ne peut être ouvert par le président qu’a
 
 Le bureau arrête pour les différentes catégories:
 
-1. le nombre des votants,
+- le nombre des votants,
 
-2. celui des bulletins nuls et des bulletins valables,
+- celui des bulletins nuls et des bulletins valables,
 
-3. le nombre des suffrages de listes ainsi que celui des suffrages nominatifs.
+- le nombre des suffrages de listes ainsi que celui des suffrages nominatifs.
 
 Il les fait inscrire au procès-verbal.
 
@@ -3653,13 +3905,13 @@ Le procès-verbal est signé séance tenante par les membres et le secrétaire d
 
 Sont publiés par la voie du Mémorial pour les différentes catégories:
 
-1. les nom et prénoms des membres effectift et des membres suppléants dans l’ordre des suffrages qu’ils ont obtenues,
+- les nom et prénoms des membres effectift et des membres suppléants dans l’ordre des suffrages qu’ils ont obtenues,
 
-2. le nombre des votants,
+- le nombre des votants,
 
-3. le nombre des bulletins nuls et des bulletins valables,
+- le nombre des bulletins nuls et des bulletins valables,
 
-4. le nombre des suffrages de listes ainsi que des suffrages nominatifs.
+- le nombre des suffrages de listes ainsi que des suffrages nominatifs.
 
 A l’expiration des délais prévus pour l’introduction des réclamations, tous les documents relatift à l’élection sont détruits.
 
@@ -3679,6 +3931,66 @@ Sont abrogés toutes les dispositions contraires aux présentes et notamment le 
 ## Art. 47.
 
 Notre Ministre ayant la Chambre dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Mémorial.
+
+Instructions pour l’électeur
+
+1° Les élections pour la Chambre des fonctionnaires et employés publics ont lieu au scrutin de liste.
+
+2° L’électeur n’a le droit de vote que pour la catégorie pour laquelle il a été porté sur les listes électorales.
+
+Nul ne peut exercer l’électorat pour plus d’une catégorie.
+
+Chaque électeur dispose d’autant de suffrages qu’il y a de membres effectifs et de membres suppléants à élire dans sa catégorie.
+
+L’électeur peut attribuer deux suffrages à chacun des candidats jusqu’à concurrence du total des suffrages dont il dispose.
+
+L’électeur qui, à l’aide d’un crayon, d’une plume, d’un stylo à bille ou d’un instrument analogue remplit le cercle de la case placée en tête d’une liste ou qui y inscrit une croix (+ ou x), adhère à cette liste en totalité et attribue ainsi un suffrage à chacun des candidats de cette liste.
+
+Chaque croix (+ ou x), inscrite dans une des deux cases réservées derrière le nom d’un candidat, vaut un suffrage à ce candidat. Tout cercle rempli, même incomplètement, et toute croix, même imparfaite, expriment valablement le vote, à moins que l’intention de rendre le bulletin reconnaissable ne soit manifeste.
+
+Toute croix tracée dans un autre endroit que dans une case réservée à cette fin entraîne la nullité du bulletin de vote.
+
+L’électeur ne doit faire sur le bulletin aucune autre inscription, signature, rature ou signe quelconques. Exemple: Pour la catégorie C, il y a neuf membres effectifs et neuf membres suppléants, donc en tout dix-huit membres à élire.
+
+Il y a pour ce groupe trois listes dont les nos 1 et 3 comprennent dix-huit candidats, tandis que la liste n° 2 ne comprend que neuf candidats.
+
+L’électeur qui veut émettre toutes les voix dont il dispose peut:
+
+- attribuer tous les 18 suffrages à l’une des listes n° 1 ou 3, soit en remplissant le cercle de la case placée en tête de ladite liste soit en y inscrivent une croix (+ ou x), et attribuer ainsi une voix à chacun des 18 candidats;
+
+- ou bien attribuer tous les 18 suffrages à la liste n° 2, soit en remplissant le cercle de la case placée en tête de cette liste et en inscrivant en outre une croix derrière les neuf noms de la liste dans l’une des deux cases réservées à cette fin, soit en ne remplissant pas le cercle de la case placée en tête et en inscrivant deux croix derrière les neuf noms dans les cases réservées à cette fin;
+
+- ou bien répartir ses 18 suffrages sur les différentes listes, ce qui peut se faire de la façon suivante: L’électeur remplit le cercle de la case placée en tête de la liste n° 2 et attribue les neuf suffrages restants en partie à la même liste en inscrivant une croix derrière différents noms de la liste dans l’une des deux cases réservées à cette fin et en partie aux listes nos 1 et 3 en inscrivant une ou deux croix derrière différents noms desdites listes dans les cases réservées à cette fin; ou bien l’électeur ne remplit le cercle d’aucune liste et répartit ses suffrages à son gré sur les différentes listes en inscrivant une ou deux croix, jusqu’à concurrence du nombre 18, dans l’une ou les deux cases se trouvant derrière les noms des candidats.
+
+3° Le 20 mars au plus tard, le président du bureau électoral transmet à chaque électeur, par lettre simple , un bulletin de vote, le texte des instructions pour les électeurs ainsi que deux enveloppes électorales.
+
+Après avoir exprimé son vote, l’électeur place le bulletin, plié en quatre, l’estampille à l’extérieur, dans la première enveloppe, qu’il ferme et qui porte l’indication « Elections pour la Chambre des fonctionnaires et employés publics, loi modifiée du 4 avril 1924 ». Il glisse celle-ci dans la seconde enveloppe, portant l’adresse du président du bureau électoral, ferme le pli et le remet à la poste .
+
+Les enveloppes dont le cachet postal est postérieur au 31 mars ne sont pas prises en considération lors du dépouillement.
+
+Si l’électeur, par inadvertance, détériore le bulletin qui lui a été remis, il demande un autre au président du bureau électoral, en lui renvoyant le premier.
+
+4° Si une enveloppe contient plusieurs bulletins, ceux-ci seront considérés comme nuls.
+
+Sont nuls
+
+- tous les bulletins autres que ceux envoyés ou remis par le président aux électeurs;
+
+- ce bulletin même:
+
+  - s’il ne contient l’expression d’aucun suffrage;
+
+  - s’il exprime plus de suffrages qu’il y a de membres effectifs et suppléants à élire;
+
+  - s’il porte une marque ou un signe distinctif quelconque, s’il est renfermé dans une envelope marquée ou dans une enveloppe autre que celle délivrée par le président;
+
+  - si le votant s’y est fait connaître.
+
+5° Conformément à l’article 18 de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective, sera puni d’une amende de 2.501 à 50.000 francs quiconque, pour déterminer un électeur à s’abstenir de voter, ou à remettre un bulletin de vote nul, ou, pour influencer son vote ou pour empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violences ou de menaces ou lui aura fait craindre de perdre son emploi ou d’exposer à un dommage sa personne, sa famille ou sa fortune;
+
+quiconque aura contrefait un bulletin électoral ou aura fait usage d’un bulletin contrefait;
+
+celui qui aura voté sans être électeur ou qui aura voté sous le nom d’un autre électeur et celui qui, d’une manière quelconque aura distrait ou retenu un ou plusieurs bulletins officiels de vote.
 
 ## 4. Chambre des métiers
 
@@ -3818,13 +4130,13 @@ Deux des scrutateurs font le recensement des suffrages et en tiennent note, chac
 
 Sont nuls:
 
-1. les bulletins autres que ceux envoyés ou remis aux électeurs par le bureau électoral;
+- les bulletins autres que ceux envoyés ou remis aux électeurs par le bureau électoral;
 
-2. les bulletins ne contenant l'expression d'aucun suffrage;
+- les bulletins ne contenant l'expression d'aucun suffrage;
 
-3. les bulletins contenant plus de suffrages qu'il n'y a de membres à élire;
+- les bulletins contenant plus de suffrages qu'il n'y a de membres à élire;
 
-4. les bulletins sur lesquels le votant se sera fait connaître et notamment ceux portant une marque ou un signe distinctif quelconque, ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président;
+- les bulletins sur lesquels le votant se sera fait connaître et notamment ceux portant une marque ou un signe distinctif quelconque, ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président;
 
 <a id="art-n174e4"></a>
 ## Art. 19.
@@ -3873,10 +4185,14 @@ Notre Ministre des Classes moyennes et du Tourisme est chargée de l'exécution 
 
 ### Titre Ier. LISTES ELECTORALES
 
+Date des élections
+
 <a id="art-n17733"></a>
 ## Art. 1er.
 
 La date des élections pour la chambre des salariés est fixée par arrêté du ministre ayant le travail dans ses attributions et publiée au Mémorial.
+
+Mode électoral
 
 <a id="art-n17775"></a>
 ## Art. 2.
@@ -3899,6 +4215,8 @@ La composition numérique, la répartition sectorielle et la répartition des si
 | Groupe 9: | Bénéficiaires d’une pension de vieillesse et d’invalidité à l’exception des agents retraités de la CFL et des agents de la CFL bénéficiant d’une pension d’invalidité : 6 sièges |
 
 Si un employeur s'est vu attribuer plusieurs codes NACE, celui de l'activité principale est déterminant pour le classement des salariés dans les différents groupes.
+
+Liste électorale
 
 <a id="art-n17875"></a>
 ## Art. 3.
@@ -3959,16 +4277,18 @@ Une copie des listes électorales définitivement arrêtées est transmise, dans
 
 ### Titre II. CANDIDATURES
 
+Déclaration de candidature
+
 <a id="art-n17a4f"></a>
 ## Art. 8.
 
 Pour chaque groupe les listes de candidats sont présentées par dix électeurs inscrits dans ce groupe. La présentation des listes de candidats doit être accompagnée, outre les preuves requises par l'article 6 de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective:
 
-1. d'une attestation délivrée à chaque candidat par le ministre ayant le travail dans ses attributions et certifiant qu'il est électeur et dans quel groupe;
+- d'une attestation délivrée à chaque candidat par le ministre ayant le travail dans ses attributions et certifiant qu'il est électeur et dans quel groupe;
 
-2. d'une déclaration signée par les candidats et attestant qu'ils acceptent la candidature dans ce groupe ;
+- d'une déclaration signée par les candidats et attestant qu'ils acceptent la candidature dans ce groupe ;
 
-3. d’un bulletin n°3 du casier judiciaire de chaque candidat voire un extrait du casier judiciaire équivalent pour les candidats qui n’habitent pas sur le territoire du Grand-Duché du Luxembourg.
+- d’un bulletin n°3 du casier judiciaire de chaque candidat voire un extrait du casier judiciaire équivalent pour les candidats qui n’habitent pas sur le territoire du Grand-Duché du Luxembourg.
 
 Chaque liste porte la désignation d'un mandataire choisi parmi les signataires de la présentation à l'effet de faire le dépôt de la liste et de remplir les autres devoirs lui imposés par les articles suivants.
 
@@ -4021,6 +4341,8 @@ Le juge de paix directeur de Luxembourg transmet les noms des témoins et des t�
 
 A l'expiration du terme fixé à l'article 10, alinéa 1er, le juge de paix directeur de Luxembourg ou son délégué arrête les listes de candidats présentées par les différents groupes.
 
+Dispense d’élection
+
 <a id="art-n17c52"></a>
 ## Art. 14.
 
@@ -4066,6 +4388,8 @@ Aucun candidat ne peut siéger au bureau.
 
 ### Titre IV. OPERATIONS ELECTORALES
 
+Bulletins de vote
+
 <a id="art-n17dee"></a>
 ## Art. 21.
 
@@ -4074,6 +4398,8 @@ Le président du bureau électoral établit la formule des bulletins de vote qui
 Les bulletins sont uniformes pour tous les électeurs d'un même groupe.
 
 Chaque liste est surmontée d'une case réservée au vote, deux autres cases se trouvant à la suite des nom et prénoms de chaque candidat. La case de tête est noire et présente au milieu un cercle de la couleur du papier.
+
+Du vote
 
 <a id="art-n17e3f"></a>
 ## Art. 22.
@@ -4104,6 +4430,8 @@ Les réclamations pour défaut d'envoi d'un bulletin doivent être présentées 
 
 Après avoir exprimé son vote, l'électeur plie le bulletin, à angle droit, et le place dans l'enveloppe neutre qui est fermée. L'électeur place celle-ci dans l'enveloppe de renvoi portant l'adresse du président du bureau électoral, ferme l'enveloppe et la remet à la poste dans un délai suffisant pour qu'elle puisse parvenir dans les conditions fixées à l'article 25.
 
+Dépouillement des bulletins
+
 <a id="art-n17f42"></a>
 ## Art. 25.
 
@@ -4133,17 +4461,19 @@ Par dérogation à l'alinéa qui précède, le bureau électoral peut décider d
 
 Est nul
 
-1. tout bulletin qui n'a pas été envoyé ou remis aux électeurs par le président;
+- tout bulletin qui n'a pas été envoyé ou remis aux électeurs par le président;
 
-2. tout bulletin qui
+- tout bulletin qui
 
-1. ne contient l'expression d'aucun suffrage;
+  - ne contient l'expression d'aucun suffrage;
 
-2. contient plus de suffrages qu'il n'y a de membres à élire;
+  - contient plus de suffrages qu'il n'y a de membres à élire;
 
-3. porte une marque quelconque;
+  - porte une marque quelconque;
 
-4. fait connaître le votant.
+  - fait connaître le votant.
+
+Attribution des sièges
 
 <a id="art-n1803e"></a>
 ## Art. 28.
@@ -4201,6 +4531,8 @@ Il est mis sous enveloppe cachetée, qui porte pour suscription le nom du bureau
 
 Le tout est envoyé par le président du bureau au ministre ayant le travail dans ses attributions.
 
+Contestations
+
 <a id="art-n181ef"></a>
 ## Art. 34.
 
@@ -4209,6 +4541,8 @@ Toutes les contestations qui surgissent au sein du bureau électoral au cours du
 Ces contestations et décisions sont relatées succinctement au procès-verbal.
 
 A l’expiration des délais prévus pour l’introduction des réclamations, tous les documents relatifs à l’élection sont détruits.
+
+Dispositions finales et abrogatoires
 
 <a id="art-n18240"></a>
 ## Art. 35.
@@ -4224,6 +4558,43 @@ Le règlement grand-ducal du 13 juillet 1993 ayant pour objet les élections pou
 ## Art. 37.
 
 Notre Ministre du Travail et de l'Emploi est chargé de l'exécution du présent règlement qui est publié au Mémorial.
+
+DECLARATION
+
+(prévue à l’article 8, alinéa 1er, point 2) du règlement grand-ducal modifié du 17 juillet 2008 ayant pour objet les élections pour la Chambre des salariés)
+
+_________________________
+
+Je soussigné(e)___________________________________________________________
+
+né(e) le _____________________________ à __________________________________
+
+et demeurant à ___________________________________________________________
+
+________________________________________________________________________
+
+confirme par la présente que j’accepte ma candidature pour les élections de la
+
+CHAMBRE DES SALARIES
+
+dans le
+
+| ☐ GROUPE 1 : | Salariés appartenant au secteur de la sidérurgie. |
+| --- | --- |
+| ☐ GROUPE 2 : | Salariés appartenant au secteur des autres industries. |
+| ☐ GROUPE 3 : | Salariés appartenant au secteur de la construction. |
+| ☐ GROUPE 4 : | Salariés appartenant au secteur des services financiers et de l’intermédiation financière. |
+| ☐ GROUPE 5 : | Salariés appartenant au secteur des services ainsi qu’aux branches non spécialement dénommées. |
+| ☐ GROUPE 6 : | Salariés appartenant au secteur de l’administration publique et des entreprises à caractère public du secteur des communications, de l’eau et de l’énergie. |
+| ☐ GROUPE 7 : | Salariés appartenant au secteur de la santé et de l’action sociale. |
+| ☐ GROUPE 8 : | Agents actifs et retraités de la CFL ainsi que les agents de la CFL bénéficiant d’une pension d’invalidité. |
+| ☐ GROUPE 9 : | Bénéficiaires d’une pension de vieillesse et d’invalidité à l’exception des agents retraités de la CFL et des agents de la CFL bénéficiant d’une pension d’invalidité. |
+
+_________________________, le ______________________
+
+__________________________________________
+
+(signature)
 
 ## 6. Divers
 

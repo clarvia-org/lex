@@ -41,11 +41,11 @@ Définitions
 
 Aux fins du présent règlement, on entend par œuvres européennes, les œuvres suivantes :
 
-1. les œuvres originaires d'Etats membres de l’Espace Economique Européen;
+- les œuvres originaires d'Etats membres de l’Espace Economique Européen;
 
-2. les œuvres originaires de pays tiers, mais parties de la Convention européenne sur la télévision transfrontière du Conseil de l'Europe et répondant aux conditions du paragraphe (2) ci-dessous; et
+- les œuvres originaires de pays tiers, mais parties de la Convention européenne sur la télévision transfrontière du Conseil de l'Europe et répondant aux conditions du paragraphe (2) ci-dessous; et
 
-3. les œuvres coproduites dans le cadre d'accords concernant le secteur audiovisuel conclus entre l'Union européenne et des pays tiers et répondant aux conditions définies dans chacun des accords.
+- les œuvres coproduites dans le cadre d'accords concernant le secteur audiovisuel conclus entre l'Union européenne et des pays tiers et répondant aux conditions définies dans chacun des accords.
 
 Les œuvres visées aux lettres b) et c) ci-dessus ne sont considérées comme des œuvres européennes que si les œuvres des Etats membres de l’Espace Economique Européen ne font pas l’objet de mesures discriminatoires dans les pays concernés.
 
@@ -53,11 +53,11 @@ Les œuvres visées aux lettres b) et c) ci-dessus ne sont considérées comme d
 
 Les œuvres visées au paragraphe (1) lettres a) et b), sont des œuvres qui sont réalisées essentiellement avec le concours d'auteurs et de travailleurs résidant dans un ou plusieurs Etats visés aux lettres respectives et qui répondent à l'une des trois conditions suivantes:
 
-1. elles sont réalisées par un ou des producteurs établis dans un ou plusieurs de ces Etats; ou
+- elles sont réalisées par un ou des producteurs établis dans un ou plusieurs de ces Etats; ou
 
-2. la production de ces œuvres est supervisée et effectivement contrôlée par un ou plusieurs producteurs établis dans un ou plusieurs de ces Etats; ou
+- la production de ces œuvres est supervisée et effectivement contrôlée par un ou plusieurs producteurs établis dans un ou plusieurs de ces Etats; ou
 
-3. la contribution des coproducteurs de ces Etats est majoritaire dans le coût total de la coproduction, et celle-ci n'est pas contrôlée par un ou plusieurs producteurs établis en dehors de ces Etats.
+- la contribution des coproducteurs de ces Etats est majoritaire dans le coût total de la coproduction, et celle-ci n'est pas contrôlée par un ou plusieurs producteurs établis en dehors de ces Etats.
 
 (3)
 

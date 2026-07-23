@@ -35,29 +35,29 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour l’ensemble des communes de moins de 6.000 habitants du Grand-Duché de Luxembourg, sont instituées les douze commissions des loyers suivantes :
 
-1. Commission des loyers du canton de Capellen : territorialement compétente pour les communes de Garnich, Habscht, Kehlen, Koerich, Kopstal et Steinfort, faisant partie du canton de Capellen ;
+- Commission des loyers du canton de Capellen : territorialement compétente pour les communes de Garnich, Habscht, Kehlen, Koerich, Kopstal et Steinfort, faisant partie du canton de Capellen ;
 
-2. Commission des loyers du canton d’Esch-sur-Alzette : territorialement compétente pour les communes de Frisange, Leudelange, Reckange-sur-Mess et Rumelange, faisant partie du canton d’Esch-sur-Alzette, et pour la commune de Dippach, faisant partie du canton de Capellen ;
+- Commission des loyers du canton d’Esch-sur-Alzette : territorialement compétente pour les communes de Frisange, Leudelange, Reckange-sur-Mess et Rumelange, faisant partie du canton d’Esch-sur-Alzette, et pour la commune de Dippach, faisant partie du canton de Capellen ;
 
-3. Commission des loyers du canton de Luxembourg : territorialement compétente pour les communes de Contern, Sandweiler, Schuttrange, Steinsel, Weiler-la-Tour, faisant partie du canton de Luxembourg ;
+- Commission des loyers du canton de Luxembourg : territorialement compétente pour les communes de Contern, Sandweiler, Schuttrange, Steinsel, Weiler-la-Tour, faisant partie du canton de Luxembourg ;
 
-4. Commission des loyers du canton de Mersch : territorialement compétente pour les communesde Bissen, Colmar-Berg, Fischbach, Heffingen, Helperknapp,Larochette,Lintgen, Lorentzweiler et Nommern, faisant partie du canton de Mersch ;
+- Commission des loyers du canton de Mersch : territorialement compétente pour les communesde Bissen, Colmar-Berg, Fischbach, Heffingen, Helperknapp,Larochette,Lintgen, Lorentzweiler et Nommern, faisant partie du canton de Mersch ;
 
-5. Commission des loyers du canton de Clervaux : territorialement compétente pour les communes de Clervaux, Parc Hosingen, Troisvierges, Weiswampach et Wincrange, faisant partie du canton de Clervaux ;
+- Commission des loyers du canton de Clervaux : territorialement compétente pour les communes de Clervaux, Parc Hosingen, Troisvierges, Weiswampach et Wincrange, faisant partie du canton de Clervaux ;
 
-6. Commission des loyers du canton de Diekirch : territorialement compétente pour les communes de Bettendorf, Bourscheid, Erpeldange-sur-Sûre, Feulen, Mertzig, Reisdorf, Schieren et Vallée de l’Ernz, faisant partie du canton de Diekirch ;
+- Commission des loyers du canton de Diekirch : territorialement compétente pour les communes de Bettendorf, Bourscheid, Erpeldange-sur-Sûre, Feulen, Mertzig, Reisdorf, Schieren et Vallée de l’Ernz, faisant partie du canton de Diekirch ;
 
-7. Commission des loyers du canton de Redange : territorialement compétente pour les communes de Beckerich, Ell, Grosbous, Préizerdaul, Rambrouch, Redange-sur-Attert, Saeul, Useldange, Vichten et Wahl, faisant partie du canton de Redange ;
+- Commission des loyers du canton de Redange : territorialement compétente pour les communes de Beckerich, Ell, Grosbous, Préizerdaul, Rambrouch, Redange-sur-Attert, Saeul, Useldange, Vichten et Wahl, faisant partie du canton de Redange ;
 
-8. Commission des loyers du canton de Vianden : territorialement compétente pour les communes de Putscheid, Tandel et Vianden, faisant partie du canton de Vianden ;
+- Commission des loyers du canton de Vianden : territorialement compétente pour les communes de Putscheid, Tandel et Vianden, faisant partie du canton de Vianden ;
 
-9. Commission des loyers du canton de Wiltz : territorialement compétente pour les communes de Boulaide, Esch-sur-Sûre, Goesdorf, Lac de la Haute-Sûre, Kiischpelt, Wiltz et Winseler, faisant partie du canton de Wiltz ;
+- Commission des loyers du canton de Wiltz : territorialement compétente pour les communes de Boulaide, Esch-sur-Sûre, Goesdorf, Lac de la Haute-Sûre, Kiischpelt, Wiltz et Winseler, faisant partie du canton de Wiltz ;
 
-10. Commission des loyers du canton d’Echternach : territorialement compétente pour les communes de Beaufort, Bech, Berdorf, Consdorf, Echternach, Rosport-Mompach et Waldbillig, faisant partie du canton d’Echternach ;
+- Commission des loyers du canton d’Echternach : territorialement compétente pour les communes de Beaufort, Bech, Berdorf, Consdorf, Echternach, Rosport-Mompach et Waldbillig, faisant partie du canton d’Echternach ;
 
-11. Commission des loyers du canton de Grevenmacher : territorialement compétente pour les communes de Betzdorf, Biwer, Flaxweiler, Grevenmacher, Manternach, Mertert et Wormeldange, faisant partie du canton de Grevenmacher ;
+- Commission des loyers du canton de Grevenmacher : territorialement compétente pour les communes de Betzdorf, Biwer, Flaxweiler, Grevenmacher, Manternach, Mertert et Wormeldange, faisant partie du canton de Grevenmacher ;
 
-12. Commission des loyers du canton de Remich : territorialement compétente pour les communes de Bous, Dalheim, Lenningen, Mondorf-les-Bains, Remich, Schengen, Stadtbredimus et Waldbredimus, faisant partie du canton de Remich.
+- Commission des loyers du canton de Remich : territorialement compétente pour les communes de Bous, Dalheim, Lenningen, Mondorf-les-Bains, Remich, Schengen, Stadtbredimus et Waldbredimus, faisant partie du canton de Remich.
 
 (2)
 

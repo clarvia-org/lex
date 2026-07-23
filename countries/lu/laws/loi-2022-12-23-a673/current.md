@@ -32,23 +32,23 @@ Définitions
 
 Pour l’application de la présente loi, on entend par :
 
-1. « fournisseur de service de mobilité » : un prestataire de services qui fournit des opérations de charge ;
+- « fournisseur de service de mobilité » : un prestataire de services qui fournit des opérations de charge ;
 
-2. « ministre » : le membre du Gouvernement ayant l’Énergie dans ses attributions ;
+- « ministre » : le membre du Gouvernement ayant l’Énergie dans ses attributions ;
 
-3. « borne de charge accessible au public » : une borne de charge appartenant à une infrastructure de charge accessible au public aux termes de la loi du 26 juillet 2022 relative au régime d’aides en faveur des entreprises investissant dans des infrastructures de charge pour véhicules électriques ;
+- « borne de charge accessible au public » : une borne de charge appartenant à une infrastructure de charge accessible au public aux termes de la loi du 26 juillet 2022 relative au régime d’aides en faveur des entreprises investissant dans des infrastructures de charge pour véhicules électriques ;
 
-4. « opération de charge » : une prestation de service de charge initiée par un utilisateur final et comptabilisée sur le compte client de celui-ci ou directement facturée à ce dernier en cas d’opération de charge ad hoc ;
+- « opération de charge » : une prestation de service de charge initiée par un utilisateur final et comptabilisée sur le compte client de celui-ci ou directement facturée à ce dernier en cas d’opération de charge ad hoc ;
 
-5. « opération de charge ad hoc » : une opération de charge initiée par un utilisateur final qui n’a pas souscrit un contrat avec un fournisseur de service de mobilité ;
+- « opération de charge ad hoc » : une opération de charge initiée par un utilisateur final qui n’a pas souscrit un contrat avec un fournisseur de service de mobilité ;
 
-6. « opérateur d’infrastructure de charge » : une personne physique ou morale qui exploite une infrastructure de charge accessible au public, telle que définie par l’article 2, point 13, de la loi du 26 juillet 2022 relative au régime d’aides en faveur des entreprises investissant dans des infrastructures de charge pour véhicules électriques, pour le compte d’un tiers ou pour son propre compte ;
+- « opérateur d’infrastructure de charge » : une personne physique ou morale qui exploite une infrastructure de charge accessible au public, telle que définie par l’article 2, point 13, de la loi du 26 juillet 2022 relative au régime d’aides en faveur des entreprises investissant dans des infrastructures de charge pour véhicules électriques, pour le compte d’un tiers ou pour son propre compte ;
 
-7. « utilisateur final » : une personne physique ou morale qui initie une opération de charge d’un véhicule électrique raccordé à un point de charge d’une borne de charge accessible au public ;
+- « utilisateur final » : une personne physique ou morale qui initie une opération de charge d’un véhicule électrique raccordé à un point de charge d’une borne de charge accessible au public ;
 
-8. « prix du service de charge » : composante variable, facturée par kilowattheure d’électricité chargée, d’une offre de service de charge d’un fournisseur de service de mobilité ;
+- « prix du service de charge » : composante variable, facturée par kilowattheure d’électricité chargée, d’une offre de service de charge d’un fournisseur de service de mobilité ;
 
-9. « Benelux ID Registration Organisation » : Benelux ID Registration Organisation telle qu’instituée par la décision M (2020) 18 du 7 décembre 2020 du Comité de Ministres Benelux établissant un service commun Benelux pour l’enregistrement d’identifications dans le cadre de la délivrance et de la gestion d’identifications au profit de l’électro-mobilité.
+- « Benelux ID Registration Organisation » : Benelux ID Registration Organisation telle qu’instituée par la décision M (2020) 18 du 7 décembre 2020 du Comité de Ministres Benelux établissant un service commun Benelux pour l’enregistrement d’identifications dans le cadre de la délivrance et de la gestion d’identifications au profit de l’électro-mobilité.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -80,15 +80,15 @@ Registre des fournisseurs éligibles pour une compensation financière
 
 Afin de pouvoir bénéficier de la compensation financière prévue à l’article 2, paragraphe 2, les fournisseurs de service de mobilité adressent une demande d’inscription au registre tenu par le ministre, moyennant un formulaire spécifique mis à disposition par ce dernier et qui renseigne les informations suivantes :
 
-1. le nom, l’adresse, le numéro du registre de commerce et des sociétés, le numéro de TVA du fournisseur de service de mobilité ou tout autre numéro d’identification pertinent si le fournisseur de service de mobilité est une société domiciliée dans un autre État ;
+- le nom, l’adresse, le numéro du registre de commerce et des sociétés, le numéro de TVA du fournisseur de service de mobilité ou tout autre numéro d’identification pertinent si le fournisseur de service de mobilité est une société domiciliée dans un autre État ;
 
-2. le cas échéant, l’identifiant au registre de la « Benelux ID Registration Organisation » ;
+- le cas échéant, l’identifiant au registre de la « Benelux ID Registration Organisation » ;
 
-3. l’identité bancaire du fournisseur de service de mobilité ;
+- l’identité bancaire du fournisseur de service de mobilité ;
 
-4. la quantité mensuelle d’électricité chargée au Grand-Duché de Luxembourg par ses utilisateurs finals au cours des douze mois précédant le mois de la demande d’inscription ;
+- la quantité mensuelle d’électricité chargée au Grand-Duché de Luxembourg par ses utilisateurs finals au cours des douze mois précédant le mois de la demande d’inscription ;
 
-5. les différents prix de services de charge appliqués sur les bornes de charge accessibles au public situées au Grand-Duché de Luxembourg pendant les trois mois précédant la demande d’inscription au registre.
+- les différents prix de services de charge appliqués sur les bornes de charge accessibles au public situées au Grand-Duché de Luxembourg pendant les trois mois précédant la demande d’inscription au registre.
 
 Les fournisseurs de service de mobilité informent le ministre dans les plus brefs délais de tout changement des informations visées à l’alinéa 1er.
 
@@ -116,13 +116,13 @@ Modalités de la contribution financière vis-à-vis des fournisseurs de service
 
 Chaque fournisseur de service de mobilité dûment inscrit au registre visé à l’article 3 transmet, au plus tard le dernier jour du mois, une demande de paiement de compensation pour l’ensemble des montants déduits sur les factures au titre de la contribution financière visée à l’article 2 pour le mois précédent au ministre moyennant un formulaire spécifique mis à disposition par ce dernier et qui renseigne, par opérateur d’infrastructure de charge, les informations suivantes :
 
-1. le nombre total d’opérations de charge réalisées sur les bornes de charge accessibles au public sur lesquelles une réduction telle que visée à l’article 2, paragraphe 2, a été appliquée ;
+- le nombre total d’opérations de charge réalisées sur les bornes de charge accessibles au public sur lesquelles une réduction telle que visée à l’article 2, paragraphe 2, a été appliquée ;
 
-2. les prix de service de charge appliqués aux opérations de charges visées au point 1° ;
+- les prix de service de charge appliqués aux opérations de charges visées au point 1° ;
 
-3. la quantité totale d’énergie électrique fournie à l’occasion des opérations de charges visées au point 1° ;
+- la quantité totale d’énergie électrique fournie à l’occasion des opérations de charges visées au point 1° ;
 
-4. le montant total de l’ensemble des réductions de prix appliquées aux opérations de charges visées au point 1°.
+- le montant total de l’ensemble des réductions de prix appliquées aux opérations de charges visées au point 1°.
 
 Le ministre peut demander la production de toute pièce justificative complémentaire qu’il juge nécessaire pour pouvoir constater la véracité des informations fournies par le fournisseur de service de mobilité et l’application correcte de la réduction. Les fournisseurs de service de mobilité sont tenus de fournir ces pièces dans les meilleurs délais.
 

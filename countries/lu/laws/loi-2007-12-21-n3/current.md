@@ -37,15 +37,15 @@ Le Gouvernement est autorisé à procéder à l'acquisition, location ou la loca
 
 - de capacités, d’équipements, d’infrastructures, de moyens techniques, d’outillages spécialisés et de services y afférents :
 
-1. au profit des unités de reconnaissance de l’Armée ;
+  - au profit des unités de reconnaissance de l’Armée ;
 
-2. au profit des autres unités et services de l’Armée ;
+  - au profit des autres unités et services de l’Armée ;
 
-3. au profit des capacités spécialisées, dans le domaine de la purification d’eau et du déminage ;
+  - au profit des capacités spécialisées, dans le domaine de la purification d’eau et du déminage ;
 
-4. dans le cadre de projets de développement capacitaire nationaux en matière de défense décidés par le Gouvernement, dans les domaines terrestre, aérien, maritime, médical, cyber et spatial ;
+  - dans le cadre de projets de développement capacitaire nationaux en matière de défense décidés par le Gouvernement, dans les domaines terrestre, aérien, maritime, médical, cyber et spatial ;
 
-5. dans le cadre de la participation à des partenariats ou programmes bilatéraux ou multinationaux décidée par le Gouvernement,
+  - dans le cadre de la participation à des partenariats ou programmes bilatéraux ou multinationaux décidée par le Gouvernement,
 
 - d'équipements de protection spécialisés,
 

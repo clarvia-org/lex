@@ -32,12 +32,33 @@ warning: 'Official consolidation: Version rectifiée applicable au 01/01/2024 : 
 <a id="art-1er"></a>
 ## Art. 1er.
 
-L’article 15 du règlement grand-ducal modifié du 23 décembre 2016 concernant le contrôle médico-sportif obligatoire des membres licenciés actifs des fédérations sportives agréées est remplacé par le texte suivant : « Art. 15. Indemnisation du personnel auxiliaire Ont droit à une indemnisation le personnel visé à l’article 13, alinéa 1er, point 2, intervenant dans le cadre du contrôle médico-sportif. L’indemnité horaire revenant aux assistants et secrétaires est fixée à 38 euros. Toutes les indemnités sont payables sur base d’une déclaration écrite à établir par le demandeur par le biais d’un formulaire préétabli renseignant la date, le lieu et les heures de l’intervention et contresigné par un responsable de la division du médico-sportif. Les montants visés au présent article correspondent à la valeur 944,43 de l’indice du coût de la vie. Ils sont adaptés automatiquement aux variations de l’indice du coût de la vie. »
+L’article 15 du règlement grand-ducal modifié du 23 décembre 2016 concernant le contrôle médico-sportif obligatoire des membres licenciés actifs des fédérations sportives agréées est remplacé par le texte suivant :
+
+<a id="art-15"></a>
+## « Art. 15.
+
+Indemnisation du personnel auxiliaire
+
+Ont droit à une indemnisation le personnel visé à l’article 13, alinéa 1er, point 2, intervenant dans le cadre du contrôle médico-sportif.
+
+L’indemnité horaire revenant aux assistants et secrétaires est fixée à 38 euros.
+
+Toutes les indemnités sont payables sur base d’une déclaration écrite à établir par le demandeur par le biais d’un formulaire préétabli renseignant la date, le lieu et les heures de l’intervention et contresigné par un responsable de la division du médico-sportif.
+
+Les montants visés au présent article correspondent à la valeur 944,43 de l’indice du coût de la vie. Ils sont adaptés automatiquement aux variations de l’indice du coût de la vie. »
 
 <a id="art-2"></a>
 ## Art. 2.
 
-À l’annexe du même règlement, la catégorie A est modifiée comme suit : Le point 2 est complété par les termes escalade de bloc,. Après le point 32 est inséré un point 32bis nouveau, libellé comme suit : « 32bis. le padel, » ; Après le point 34 est inséré un point 34bis nouveau, libellé comme suit : « 34bis. le pickleball, » ; Après le point 47 est inséré un point 47bis nouveau, libellé comme suit : « 47bis. le touch rugby, »».
+À l’annexe du même règlement, la catégorie A est modifiée comme suit :
+
+- Le point 2 est complété par les termes escalade de bloc, .
+
+- Après le point 32 est inséré un point 32 bis nouveau, libellé comme suit : « 32bis. le padel, » ;
+
+- Après le point 34 est inséré un point 34 bis nouveau, libellé comme suit : « 34bis. le pickleball, » ;
+
+- Après le point 47 est inséré un point 47 bis nouveau, libellé comme suit : « 47bis. le touch rugby, »».
 
 <a id="art-3"></a>
 ## Art. 3.

@@ -32,29 +32,29 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le numéro d'identité est représenté par un nombre à 11 chiffres qui comprend dans l'ordre les composantes suivantes:
 
-1. Pour les personnes physiques: La composante a) doit obligatoirement indiquer l'année de naissance, même si cette donnée n'est que présumée. Les composantes b) et/ou c) sont égales à zéro pour les personnes dont le mois et/ou le jour de naissance ne sont pas connus. L'indicatif vérificateur correspond à la différence entre 11 et le reste de la division par 11 de la somme des produits obtenus en multipliant chacun des 10 premiers chiffres du numéro d'identité par les facteurs respectifs 5, 4, 3, 2, 7, 6, 5, 4, 3 et 2, étant entendu que les numéros engendrant, lors de la division précitée, un reste de 1 ne sont pas attribués. Un reste de division 0 constitue le chiffre de contrôle. Lorsque la limite supérieure pour le numéro d'ordre est atteinte, un deuxième indicatif vérificateur est calculé. Cet indicatif vérificateur correspond à la différence entre 12 et le reste de la division par 11 de la somme des produits obtenus en multipliant chacun des 10 premiers chiffres du numéro d'identité par les facteurs respectifs 5, 4, 3, 2, 7, 6, 5, 4, 3 et 2, étant entendu que les numéros engendrant, lors de la division précitée, un reste de 2 ne sont pas attribués. Un reste de division 0 constitue le chiffre de contrôle 1, un reste de division 1 constitue le chiffre de contrôle 0.
+- Pour les personnes physiques: La composante a) doit obligatoirement indiquer l'année de naissance, même si cette donnée n'est que présumée. Les composantes b) et/ou c) sont égales à zéro pour les personnes dont le mois et/ou le jour de naissance ne sont pas connus. L'indicatif vérificateur correspond à la différence entre 11 et le reste de la division par 11 de la somme des produits obtenus en multipliant chacun des 10 premiers chiffres du numéro d'identité par les facteurs respectifs 5, 4, 3, 2, 7, 6, 5, 4, 3 et 2, étant entendu que les numéros engendrant, lors de la division précitée, un reste de 1 ne sont pas attribués. Un reste de division 0 constitue le chiffre de contrôle. Lorsque la limite supérieure pour le numéro d'ordre est atteinte, un deuxième indicatif vérificateur est calculé. Cet indicatif vérificateur correspond à la différence entre 12 et le reste de la division par 11 de la somme des produits obtenus en multipliant chacun des 10 premiers chiffres du numéro d'identité par les facteurs respectifs 5, 4, 3, 2, 7, 6, 5, 4, 3 et 2, étant entendu que les numéros engendrant, lors de la division précitée, un reste de 2 ne sont pas attribués. Un reste de division 0 constitue le chiffre de contrôle 1, un reste de division 1 constitue le chiffre de contrôle 0.
 
-1. l'année de naissance exprimée par 4 chiffres;
+  - l'année de naissance exprimée par 4 chiffres;
 
-2. le mois de naissance exprimé par 2 chiffres (01 à 12);
+  - le mois de naissance exprimé par 2 chiffres (01 à 12);
 
-3. le jour de naissance exprimé par 2 chiffres (01 à 31);
+  - le jour de naissance exprimé par 2 chiffres (01 à 31);
 
-4. un numéro d'ordre à deux chiffres qui est impair pour les personnes du sexe masculin et pair pour les personnes du sexe féminin;
+  - un numéro d'ordre à deux chiffres qui est impair pour les personnes du sexe masculin et pair pour les personnes du sexe féminin;
 
-5. un indicatif vérificateur à une position numérique.
+  - un indicatif vérificateur à une position numérique.
 
-2. Pour les personnes morales: L'indicatif autovérificateur correspond à la différence entre 11 et le reste de la division par 11 de la somme des produits obtenus en multipliant chacun des 10 premiers chiffres du numéro d'identité par les facteurs respectifs 5, 4, 3, 2, 7, 6, 5, 4, 3 et 2, étant entendu que les numéros engendrant, lors de la division précitée, un reste de 1 ne sont pas attribués. Un reste de division zéro constitue le chiffre de contrôle.
+- Pour les personnes morales: L'indicatif autovérificateur correspond à la différence entre 11 et le reste de la division par 11 de la somme des produits obtenus en multipliant chacun des 10 premiers chiffres du numéro d'identité par les facteurs respectifs 5, 4, 3, 2, 7, 6, 5, 4, 3 et 2, étant entendu que les numéros engendrant, lors de la division précitée, un reste de 1 ne sont pas attribués. Un reste de division zéro constitue le chiffre de contrôle.
 
-1. l'année de la constitution ou, pour les personnes morales étrangères, celle de leur apparition sur le rôle d'une administration publique ou d'un établissement de sécurité sociale luxembourgeois autorisés à employer le numéro, année exprimée par 4 chiffres ou 4 zéros, selon que l'année de constitution est connue ou non;
+  - l'année de la constitution ou, pour les personnes morales étrangères, celle de leur apparition sur le rôle d'une administration publique ou d'un établissement de sécurité sociale luxembourgeois autorisés à employer le numéro, année exprimée par 4 chiffres ou 4 zéros, selon que l'année de constitution est connue ou non;
 
-2. la forme juridique codifiée exprimée par 2 chiffres (20 à 99);
+  - la forme juridique codifiée exprimée par 2 chiffres (20 à 99);
 
-3. un numéro d'ordre à 4 chiffres distinguant les personnes morales constituées la même année (0001 à 9999);
+  - un numéro d'ordre à 4 chiffres distinguant les personnes morales constituées la même année (0001 à 9999);
 
-4. un indicatif autovérificateur à une position numérique.
+  - un indicatif autovérificateur à une position numérique.
 
-3. Au cas où l'attribution du numéro suivant les modalités prévues dans le cadre du présent article s'avère impossible, il appartient au Centre Informatique de l'Etat d'attribuer un numéro d'après des critères alternatifs qu'il détermine et qui sont à approuver par le Ministre ayant dans ses attributions le Centre Informatique de l'Etat.
+- Au cas où l'attribution du numéro suivant les modalités prévues dans le cadre du présent article s'avère impossible, il appartient au Centre Informatique de l'Etat d'attribuer un numéro d'après des critères alternatifs qu'il détermine et qui sont à approuver par le Ministre ayant dans ses attributions le Centre Informatique de l'Etat.
 
 #### Chapitre 2. Procédure d´attribution du numéro d´identité
 
@@ -110,13 +110,13 @@ La forme et le contenu du bulletin sont déterminés par le Centre Informatique 
 
 Les administrations communales communiquent dans les huit jours au Centre Informatique de l'Etat:
 
-1. tous les changements en matière d'état civil qui ne sont pas mentionnés à l'article 2 de la présente loi sous forme de bulletins spéciaux, dont la forme et le contenu sont déterminés par le Centre Informatique de l'Etat;
+- tous les changements en matière d'état civil qui ne sont pas mentionnés à l'article 2 de la présente loi sous forme de bulletins spéciaux, dont la forme et le contenu sont déterminés par le Centre Informatique de l'Etat;
 
-2. tous les changements de nationalité sous forme d'un bulletin de changement de nationalité, dont la forme et le contenu sont déterminés par le Centre Informatique de l'Etat;
+- tous les changements de nationalité sous forme d'un bulletin de changement de nationalité, dont la forme et le contenu sont déterminés par le Centre Informatique de l'Etat;
 
-3. tous les changements de domicile de même que les avis de non-inscription, sous forme de copies des certificats de changement de résidence ou de domicile établis par les administrations communales;
+- tous les changements de domicile de même que les avis de non-inscription, sous forme de copies des certificats de changement de résidence ou de domicile établis par les administrations communales;
 
-4. toutes les corrections d'éventuelles erreurs dans une forme à déterminer par le Centre Informatique de l'Etat.
+- toutes les corrections d'éventuelles erreurs dans une forme à déterminer par le Centre Informatique de l'Etat.
 
 <a id="art-6"></a>
 ## Art. 6.

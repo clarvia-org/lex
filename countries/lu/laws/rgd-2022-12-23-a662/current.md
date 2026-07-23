@@ -532,13 +532,13 @@ XVI. Personnes sollicitant l’admission à la négociation sur un marché régl
 
 1) Lors du dépôt officiel d’un document relatif à une offre au public ou à une admission sur un marché réglementé en vue de son approbation par la CSSF conformément au règlement (UE) 2017/1129, une taxe, telle que détaillée dans le tableau ci-dessous, est due pour :
 
-1. des actions et des valeurs mobilières assimilables aux actions,
+- des actions et des valeurs mobilières assimilables aux actions,
 
-2. les valeurs mobilières visées aux articles 19, paragraphe 2, et 20, paragraphe 2 du règlement délégué (UE) 2019/980 de la Commission du 14 mars 2019 complétant le règlement (UE) 2017/1129 du Parlement européen et du Conseil en ce qui concerne la forme, le contenu, l’examen et l’approbation du prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation sur un marché réglementé, et abrogeant le règlement (CE) n° 809/2004 de la Commission (ci-après « règlement délégué (UE) 2019/980 »),
+- les valeurs mobilières visées aux articles 19, paragraphe 2, et 20, paragraphe 2 du règlement délégué (UE) 2019/980 de la Commission du 14 mars 2019 complétant le règlement (UE) 2017/1129 du Parlement européen et du Conseil en ce qui concerne la forme, le contenu, l’examen et l’approbation du prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation sur un marché réglementé, et abrogeant le règlement (CE) n° 809/2004 de la Commission (ci-après « règlement délégué (UE) 2019/980 »),
 
-3. des certificats représentatifs d’actions, et
+- des certificats représentatifs d’actions, et
 
-4. des parts d’organismes de placement collectif du type fermé.
+- des parts d’organismes de placement collectif du type fermé.
 
 | Prospectus | 0,11 pour cent de la valeur en euro du montant total offert au public ou du montant total pour lequel l’admission à la négociation sur un marché réglementé est sollicitée. Ce pourcentage sera appliqué sur le montant le plus élevé des deux montants susmentionnés, avec toutefois une taxe forfaitaire minimale de 24.750 euros et une taxe forfaitaire maximale de 220.000 euros |
 | --- | --- |
@@ -647,9 +647,9 @@ XX. Émetteurs de titres au sens de la loi du 21 juillet 2012 relative au retrai
 
 1) Pour chaque instruction d’un dossier relatif à :
 
-1. une opération de retrait obligatoire, une taxe se composant d’une partie fixe de 50.000 euros et d’une partie proportionnelle de 0,4 pour cent de la valeur en euros de la contrepartie totale des titres que l’actionnaire majoritaire, seul ou avec des personnes agissant de concert avec lui, directement ou indirectement, ne détient pas encore au moment de la communication à la CSSF de l’opération de retrait obligatoire. Une partie fixe supplémentaire de 75.000 euros est due en cas d’opposition au projet de retrait obligatoire ;
+- une opération de retrait obligatoire, une taxe se composant d’une partie fixe de 50.000 euros et d’une partie proportionnelle de 0,4 pour cent de la valeur en euros de la contrepartie totale des titres que l’actionnaire majoritaire, seul ou avec des personnes agissant de concert avec lui, directement ou indirectement, ne détient pas encore au moment de la communication à la CSSF de l’opération de retrait obligatoire. Une partie fixe supplémentaire de 75.000 euros est due en cas d’opposition au projet de retrait obligatoire ;
 
-2. une opération de rachat obligatoire, une taxe se composant d’une partie fixe de 50.000 euros et d’une partie proportionnelle de 0,4 pour cent de la valeur en euros de la contrepartie totale des titres transférés dans le cadre de l’opération de rachat obligatoire ;
+- une opération de rachat obligatoire, une taxe se composant d’une partie fixe de 50.000 euros et d’une partie proportionnelle de 0,4 pour cent de la valeur en euros de la contrepartie totale des titres transférés dans le cadre de l’opération de rachat obligatoire ;
 
 2) un forfait unique de 20.000 euros à charge de personnes physiques ou morales, de droit public ou privé qui sollicitent un avis de la CSSF se rapportant aux dispositions de la loi du 21 juillet 2012 relative au retrait obligatoire et au rachat obligatoire de titres de sociétés admis ou ayant été admis à la négociation sur un marché réglementé ou ayant fait l’objet d’une offre au public et portant modification de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, au cas où le traitement de l’avis en question nécessite la constitution d’un dossier auprès de la CSSF. Dans ce cas, la CSSF avisera les personnes qui sollicitent l’avis de ce fait ;
 
@@ -679,29 +679,29 @@ A. Agrément ou enregistrement d’administrateurs d’indices de référence.
 
 A.1. Un forfait unique pour l’instruction du dossier en cas d’agrément ou d’enregistrement.
 
-1. Un forfait unique de 16.500 euros pour l’instruction de chaque demande d’agrément d’un nouvel administrateur d’indices de référence au titre de l’article 34, paragraphe 1 er , lettre a) du règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d’instruments et de contrats financiers ou pour mesurer la performance de fonds d’investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 (ci-après « règlement (UE) 2016/1011 »), et qui ne relève pas de l’article 34, paragraphe 1 bis , dudit règlement ;
+- Un forfait unique de 16.500 euros pour l’instruction de chaque demande d’agrément d’un nouvel administrateur d’indices de référence au titre de l’article 34, paragraphe 1 er , lettre a) du règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d’instruments et de contrats financiers ou pour mesurer la performance de fonds d’investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 (ci-après « règlement (UE) 2016/1011 »), et qui ne relève pas de l’article 34, paragraphe 1 bis , dudit règlement ;
 
-2. un forfait unique de 16.500 euros pour l’instruction de chaque demande d’enregistrement d’un nouvel administrateur d’indices de référence au titre de l’article 34, paragraphe 1 er , lettres b) et c), du règlement (UE) 2016/1011 , et qui ne relève pas de l’article 34, paragraphe 1 bis , dudit règlement .
+- un forfait unique de 16.500 euros pour l’instruction de chaque demande d’enregistrement d’un nouvel administrateur d’indices de référence au titre de l’article 34, paragraphe 1 er , lettres b) et c), du règlement (UE) 2016/1011 , et qui ne relève pas de l’article 34, paragraphe 1 bis , dudit règlement .
 
 A.2. Un forfait annuel pour les administrateurs luxembourgeois.
 
-1. Un forfait annuel de 440.000 euros à charge de chaque administrateur d’indices de référence au cas où cet administrateur fournit un indice de référence d’importance critique au titre de l’article 20, paragraphe 1 er , point b) du règlement (UE) 2016/1011 . Se rajoute un forfait annuel supplémentaire de 220.000 euros pour chaque indice de référence d’importance critique additionnel ;
+- Un forfait annuel de 440.000 euros à charge de chaque administrateur d’indices de référence au cas où cet administrateur fournit un indice de référence d’importance critique au titre de l’article 20, paragraphe 1 er , point b) du règlement (UE) 2016/1011 . Se rajoute un forfait annuel supplémentaire de 220.000 euros pour chaque indice de référence d’importance critique additionnel ;
 
-2. un forfait annuel de 132.000 euros à charge de chaque administrateur d’indices de référence luxembourgeois non visé à la lettre a) au cas où cet administrateur fournit au moins un indice de référence d’importance significative au titre de l’article 24 du règlement (UE) 2016/1011 ;
+- un forfait annuel de 132.000 euros à charge de chaque administrateur d’indices de référence luxembourgeois non visé à la lettre a) au cas où cet administrateur fournit au moins un indice de référence d’importance significative au titre de l’article 24 du règlement (UE) 2016/1011 ;
 
-3. un forfait annuel de 55.000 euros à charge de chaque administrateur d’indices de référence luxembourgeois au cas où cet administrateur ne fournit que des indices de référence d’importance non significative au titre de l’article 26 du règlement (UE) 2016/1011 .
+- un forfait annuel de 55.000 euros à charge de chaque administrateur d’indices de référence luxembourgeois au cas où cet administrateur ne fournit que des indices de référence d’importance non significative au titre de l’article 26 du règlement (UE) 2016/1011 .
 
 Les forfaits annuels de base décrits aux lettres a) à c) ci-dessus sont augmentés de :
 
-1. 11.000 euros pour tout administrateur fournissant entre 100 et 499 indices de référence d’importance non critique ;
+- 11.000 euros pour tout administrateur fournissant entre 100 et 499 indices de référence d’importance non critique ;
 
-2. 27.500 euros pour tout administrateur fournissant entre 500 et 4.999 indices de référence d’importance non critique ;
+- 27.500 euros pour tout administrateur fournissant entre 500 et 4.999 indices de référence d’importance non critique ;
 
-3. 55.000 euros pour tout administrateur fournissant entre 5.000 et 19.999 indices de référence d’importance non critique ;
+- 55.000 euros pour tout administrateur fournissant entre 5.000 et 19.999 indices de référence d’importance non critique ;
 
-4. 82.500 euros pour tout administrateur fournissant entre 20.000 et 99.999 indices de référence d’importance non critique ;
+- 82.500 euros pour tout administrateur fournissant entre 20.000 et 99.999 indices de référence d’importance non critique ;
 
-5. 110.000 euros pour tout administrateur fournissant plus de 100.000 indices de référence d’importance non critique.
+- 110.000 euros pour tout administrateur fournissant plus de 100.000 indices de référence d’importance non critique.
 
 Les ajouts aux forfaits annuels visés aux lettres (i) à (v) sont évalués pendant la période annuelle de référence qui s’étend du 1er novembre jusqu’au 30 novembre de la même année.
 
@@ -713,17 +713,17 @@ B. Aval d’indices de référence.
 
 B.1. Demande d'aval d’indices de référence fournis par un administrateur d’indices de référence situé dans un pays tiers.
 
-1. Un forfait unique de base de 11.000 euros pour l’aval du premier indice de référence fourni par un administrateur d’indices de référence situé dans un pays tiers au titre de l’article 33 du règlement (UE) 2016/1011 , par un administrateur situé au Luxembourg et agréé ou enregistré par la CSSF conformément à l’article 34 du même règlement , ou par toute autre entité surveillée située au Luxembourg ; et
+- Un forfait unique de base de 11.000 euros pour l’aval du premier indice de référence fourni par un administrateur d’indices de référence situé dans un pays tiers au titre de l’article 33 du règlement (UE) 2016/1011 , par un administrateur situé au Luxembourg et agréé ou enregistré par la CSSF conformément à l’article 34 du même règlement , ou par toute autre entité surveillée située au Luxembourg ; et
 
-2. un forfait unique de 550 euros pour l’aval de chaque indice de référence supplémentaire du même administrateur d’indices de référence situé dans un pays tiers et avalisé par cette même entité luxembourgeoise répondant aux critères visés à la lettre a).
+- un forfait unique de 550 euros pour l’aval de chaque indice de référence supplémentaire du même administrateur d’indices de référence situé dans un pays tiers et avalisé par cette même entité luxembourgeoise répondant aux critères visés à la lettre a).
 
 B.2. Un forfait annuel.
 
-1. Un forfait annuel de 66.000 euros pour tout administrateur d’indices de référence situé au Luxembourg et agréé ou enregistré par la CSSF conformément à l’article 34 du règlement (UE) 2016/1011 , ou toute autre entité surveillée située au Luxembourg avalisant un ou plusieurs indices de référence fournis par un administrateur d’indices de référence situé dans un pays tiers dont au moins un des indices avalisés est un indice de référence d’importance significative. Se rajoute un forfait annuel supplémentaire de 11.000 euros pour l’aval de chaque indice de référence d’importance significative additionnel du même administrateur d’indices de référence situé dans un pays tiers.
+- Un forfait annuel de 66.000 euros pour tout administrateur d’indices de référence situé au Luxembourg et agréé ou enregistré par la CSSF conformément à l’article 34 du règlement (UE) 2016/1011 , ou toute autre entité surveillée située au Luxembourg avalisant un ou plusieurs indices de référence fournis par un administrateur d’indices de référence situé dans un pays tiers dont au moins un des indices avalisés est un indice de référence d’importance significative. Se rajoute un forfait annuel supplémentaire de 11.000 euros pour l’aval de chaque indice de référence d’importance significative additionnel du même administrateur d’indices de référence situé dans un pays tiers.
 
-2. Un forfait annuel de 22.000 euros pour tout administrateur d’indices de référence situé au Luxembourg et agréé ou enregistré par la CSSF conformément à l’article 34 du règlement (UE) 2016/1011 , ou toute autre entité surveillée située au Luxembourg avalisant un ou plusieurs indices de référence fournis par un administrateur d’indices de référence situé dans un pays tiers dont tous les indices de référence avalisés sont d’importance non significative.
+- Un forfait annuel de 22.000 euros pour tout administrateur d’indices de référence situé au Luxembourg et agréé ou enregistré par la CSSF conformément à l’article 34 du règlement (UE) 2016/1011 , ou toute autre entité surveillée située au Luxembourg avalisant un ou plusieurs indices de référence fournis par un administrateur d’indices de référence situé dans un pays tiers dont tous les indices de référence avalisés sont d’importance non significative.
 
-3. En cas d’aval d’un nombre supérieur à 20 indices de référence d’importance non significative du même administrateur situé dans un pays tiers, se rajoute un forfait annuel supplémentaire de 1.100 euros par indice de référence.
+- En cas d’aval d’un nombre supérieur à 20 indices de référence d’importance non significative du même administrateur situé dans un pays tiers, se rajoute un forfait annuel supplémentaire de 1.100 euros par indice de référence.
 
 Au cas où une entité luxembourgeoise avalisant un ou plusieurs indices de référence fournis par différents administrateurs d’indices de référence situés dans un ou plusieurs pays tiers, les forfaits annuels visés aux lettres a) à c) ci-dessus, sont dus par rapport à chacun de ces administrateurs.
 
@@ -777,39 +777,39 @@ XXVIII. Supervision publique de la profession de l’audit.
 
 1) Forfaits.
 
-1. Stagiaires réviseurs d’entreprises : un forfait unique de 1.000 euros pour l’instruction de chaque demande d’accès au stage, un forfait de 2.000 euros pour l’inscription à l’examen d’aptitude professionnelle et un forfait annuel de 500 euros par stagiaire, à charge du cabinet de révision employant le stagiaire.
+- Stagiaires réviseurs d’entreprises : un forfait unique de 1.000 euros pour l’instruction de chaque demande d’accès au stage, un forfait de 2.000 euros pour l’inscription à l’examen d’aptitude professionnelle et un forfait annuel de 500 euros par stagiaire, à charge du cabinet de révision employant le stagiaire.
 
-2. Personnes bénéficiant de la dérogation visée à l’article 9, paragraphe 3, lettre a) de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit : un forfait unique de 500 euros pour l’instruction de chaque demande, un forfait de 2.000 euros pour l’inscription à l’examen d’aptitude professionnelle à charge de la personne ou de son employeur et un forfait annuel de 500 euros à charge de la personne ou de son employeur.
+- Personnes bénéficiant de la dérogation visée à l’article 9, paragraphe 3, lettre a) de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit : un forfait unique de 500 euros pour l’instruction de chaque demande, un forfait de 2.000 euros pour l’inscription à l’examen d’aptitude professionnelle à charge de la personne ou de son employeur et un forfait annuel de 500 euros à charge de la personne ou de son employeur.
 
-3. Personnes bénéficiant de la dérogation visée à l’article 9, paragraphe 3, lettre b) de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit : un forfait unique de 500 euros pour l’instruction de chaque demande, un forfait de 2.000 euros pour l’inscription à l’examen d’aptitude professionnelle et un forfait annuel de 500 euros charge de la personne ou de son employeur.
+- Personnes bénéficiant de la dérogation visée à l’article 9, paragraphe 3, lettre b) de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit : un forfait unique de 500 euros pour l’instruction de chaque demande, un forfait de 2.000 euros pour l’inscription à l’examen d’aptitude professionnelle et un forfait annuel de 500 euros charge de la personne ou de son employeur.
 
-4. Prestataires d’autres États membres (au sens de l’article 8 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit), contrôleurs légaux des comptes ou contrôleurs de pays tiers (au sens de l’article 1 er , sections B, C et D du règlement grand-ducal modifié du 9 juillet 2013 déterminant les conditions de qualification professionnelle des réviseurs d’entreprises) : un forfait unique de 500 euros pour l’instruction du dossier.
+- Prestataires d’autres États membres (au sens de l’article 8 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit), contrôleurs légaux des comptes ou contrôleurs de pays tiers (au sens de l’article 1 er , sections B, C et D du règlement grand-ducal modifié du 9 juillet 2013 déterminant les conditions de qualification professionnelle des réviseurs d’entreprises) : un forfait unique de 500 euros pour l’instruction du dossier.
 
-5. Réviseurs d’entreprises et cabinets de révision (au sens de l’article 1 er , points 4 et 33 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit) :
+- Réviseurs d’entreprises et cabinets de révision (au sens de l’article 1 er , points 4 et 33 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit) :
 
-1. un forfait annuel à charge de chaque réviseur d’entreprises de 250 euros si confirmation annuelle via la procédure électronique préconisée par la CSSF ; ce forfait est porté à 500 euros à défaut de recourir à la procédure électronique ;
+  - un forfait annuel à charge de chaque réviseur d’entreprises de 250 euros si confirmation annuelle via la procédure électronique préconisée par la CSSF ; ce forfait est porté à 500 euros à défaut de recourir à la procédure électronique ;
 
-2. un forfait annuel à charge de chaque cabinet de révision de 500 euros si confirmation annuelle via la procédure électronique préconisée par la CSSF ; ce forfait est porté à 1.000 euros à défaut de recourir à la procédure électronique.
+  - un forfait annuel à charge de chaque cabinet de révision de 500 euros si confirmation annuelle via la procédure électronique préconisée par la CSSF ; ce forfait est porté à 1.000 euros à défaut de recourir à la procédure électronique.
 
-6. Réviseurs d’entreprises agréés et cabinets de révision agréés (au sens de l’article 1 er , points 5 et 34 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit) et cabinets d’audit (au sens de l’article 1 er , point 3 de l’article 6 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit) : Ce barème est fixé comme suit : Nombre de missions Taxe Inférieur ou égal à 10 1.000 euros De 11 à 49 5.000 euros De 50 à 99 15.000 euros De 100 à 199 30.000 euros De 200 à 299 50.000 euros De 300 à 599 105.000 euros De 600 à 899 200.000 euros De 900 à 1.399 500.000 euros De 1.400 à 1.999 550.000 euros De 2.000 à 2.799 600.000 euros Supérieur ou égal à 2.800 650.000 euros
+- Réviseurs d’entreprises agréés et cabinets de révision agréés (au sens de l’article 1 er , points 5 et 34 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit) et cabinets d’audit (au sens de l’article 1 er , point 3 de l’article 6 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit) : Ce barème est fixé comme suit : Nombre de missions Taxe Inférieur ou égal à 10 1.000 euros De 11 à 49 5.000 euros De 50 à 99 15.000 euros De 100 à 199 30.000 euros De 200 à 299 50.000 euros De 300 à 599 105.000 euros De 600 à 899 200.000 euros De 900 à 1.399 500.000 euros De 1.400 à 1.999 550.000 euros De 2.000 à 2.799 600.000 euros Supérieur ou égal à 2.800 650.000 euros
 
-1. un forfait annuel à charge de chaque réviseur d’entreprises agréé de 1.250 euros si confirmation annuelle via la procédure électronique préconisée par la CSSF ; ce forfait est porté à 2.500 euros à défaut de recourir à la procédure électronique ;
+  - un forfait annuel à charge de chaque réviseur d’entreprises agréé de 1.250 euros si confirmation annuelle via la procédure électronique préconisée par la CSSF ; ce forfait est porté à 2.500 euros à défaut de recourir à la procédure électronique ;
 
-2. un forfait annuel à charge de chaque cabinet de révision agréé de 2.000 euros si confirmation annuelle via la procédure électronique préconisée par la CSSF ; ce forfait est porté à 4.000 euros à défaut de recourir à la procédure électronique ;
+  - un forfait annuel à charge de chaque cabinet de révision agréé de 2.000 euros si confirmation annuelle via la procédure électronique préconisée par la CSSF ; ce forfait est porté à 4.000 euros à défaut de recourir à la procédure électronique ;
 
-3. un forfait annuel supplémentaire en fonction du nombre de missions de contrôle légal des comptes (au sens de l’article 1 er , point 6 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit) confiées au réviseur d’entreprises agréé, au cabinet de révision agréé ou au cabinet d’audit. La base de calcul du nombre de missions de contrôle légal des comptes est l’exercice comptable de l’année écoulée de l’entité auditée.
+  - un forfait annuel supplémentaire en fonction du nombre de missions de contrôle légal des comptes (au sens de l’article 1 er , point 6 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit) confiées au réviseur d’entreprises agréé, au cabinet de révision agréé ou au cabinet d’audit. La base de calcul du nombre de missions de contrôle légal des comptes est l’exercice comptable de l’année écoulée de l’entité auditée.
 
-1. Une refacturation, le cas échéant, des frais de déplacement en relation avec les examens d’assurance qualité tels que visés à l’article 39 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit.
+- Une refacturation, le cas échéant, des frais de déplacement en relation avec les examens d’assurance qualité tels que visés à l’article 39 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit.
 
-1. Contrôleurs et entités d’audit de pays tiers visés à l’article 57, paragraphe 1 er de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit :
+- Contrôleurs et entités d’audit de pays tiers visés à l’article 57, paragraphe 1 er de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit :
 
-1. un forfait annuel de 2.200 euros à charge de chaque contrôleur ou entité d’audit de pays tiers qui émet entre 1 et 9 rapports d’audit tels que définis à l’article 57, paragraphe 1 er de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ; ce forfait est ramené à 1.000 euros lorsque le contrôleur remplit les critères de l’article 59 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ;
+  - un forfait annuel de 2.200 euros à charge de chaque contrôleur ou entité d’audit de pays tiers qui émet entre 1 et 9 rapports d’audit tels que définis à l’article 57, paragraphe 1 er de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ; ce forfait est ramené à 1.000 euros lorsque le contrôleur remplit les critères de l’article 59 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ;
 
-2. un forfait annuel de 5.400 euros à charge de chaque contrôleur ou entité d’audit de pays tiers qui émet plus de 9 rapports d’audit tels que définis à l’article 57, paragraphe 1 er de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ; ce forfait est ramené à 2.000 euros lorsque le contrôleur remplit les critères de l’article 59 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ;
+  - un forfait annuel de 5.400 euros à charge de chaque contrôleur ou entité d’audit de pays tiers qui émet plus de 9 rapports d’audit tels que définis à l’article 57, paragraphe 1 er de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ; ce forfait est ramené à 2.000 euros lorsque le contrôleur remplit les critères de l’article 59 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ;
 
-3. une refacturation des frais de déplacement en relation avec des inspections éventuelles.
+  - une refacturation des frais de déplacement en relation avec des inspections éventuelles.
 
-2. Pour les dossiers d’audit dont les papiers de travail n’ont été établis ni dans une des langues administratives du Luxembourg, à savoir le français, l’allemand ou le luxembourgeois, ni dans la langue anglaise, les coûts de traduction éventuels, engagés à l’occasion d’un examen d’assurance qualité, sont refacturés aux reviseurs d’entreprises agréés et auditeurs de pays tiers concernés.
+- Pour les dossiers d’audit dont les papiers de travail n’ont été établis ni dans une des langues administratives du Luxembourg, à savoir le français, l’allemand ou le luxembourgeois, ni dans la langue anglaise, les coûts de traduction éventuels, engagés à l’occasion d’un examen d’assurance qualité, sont refacturés aux reviseurs d’entreprises agréés et auditeurs de pays tiers concernés.
 
 2) Suivi de la mise en œuvre des recommandations formulées à l’issue de l’examen d’assurance qualité.
 
@@ -938,15 +938,15 @@ XXXII. Systèmes de règlement et de négociation DLT.
 
 3) Lorsque l’activité d’exploitant d’un système de règlement et de négociation DLT (DLT TSS) est exercée par un dépositaire central de titres, le forfait annuel applicable correspond au montant le plus élevé :
 
-1. des forfaits annuels prévus pour l’exploitation d’un dépositaire central de titres tels que renseignés au point XXV ; ou
+- des forfaits annuels prévus pour l’exploitation d’un dépositaire central de titres tels que renseignés au point XXV ; ou
 
-2. des forfaits annuels prévus pour la surveillance d’un MTF tels que renseignés au point III, cumulés avec les forfaits annuels applicables à une entreprise d’investissement exploitant un MTF tels que renseignés au point VII.
+- des forfaits annuels prévus pour la surveillance d’un MTF tels que renseignés au point III, cumulés avec les forfaits annuels applicables à une entreprise d’investissement exploitant un MTF tels que renseignés au point VII.
 
 4) Lorsque l’activité d’exploitant d’un système de règlement et de négociation DLT (DLT TSS) est exercée par une entreprise d’investissement, un établissement de crédit ou un opérateur de marché, le forfait annuel applicable correspond au montant le plus élevé :
 
-1. des forfaits annuels prévus pour l’exploitation d’un dépositaire central de titres tels que renseignés au point XXV ; ou
+- des forfaits annuels prévus pour l’exploitation d’un dépositaire central de titres tels que renseignés au point XXV ; ou
 
-2. des forfaits annuels prévus pour la surveillance d’un MTF tels que renseignés au point III, cumulés avec les forfaits annuels applicables à l’exploitant du MTF en question.
+- des forfaits annuels prévus pour la surveillance d’un MTF tels que renseignés au point III, cumulés avec les forfaits annuels applicables à l’exploitant du MTF en question.
 
 XXXIII. Gestionnaires de crédits.
 

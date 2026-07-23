@@ -46,17 +46,17 @@ La psychothérapie se définit comme un traitement psychologique pour un trouble
 
 L’exercice de la profession de psychothérapeute est subordonné à une autorisation du ministre ayant la Santé dans ses attributions, ci-après «le ministre». La demande pour l’obtention de l’autorisation doit être adressée au ministre qui la délivre aux conditions suivantes:
 
-1. le demandeur doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+- le demandeur doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
-2. le demandeur doit être en possession soit d’un master en psychologie clinique ou d’un diplôme en psychologie reconnu équivalent par le ministre, sur avis du Conseil scientifique de psychothérapie, inscrit au registre des titres de formation visé à l’article 66 de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, soit d’un des titres de formation médicale de base dont question à l’article 1 er , paragraphe 1 er , point b) de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire;
+- le demandeur doit être en possession soit d’un master en psychologie clinique ou d’un diplôme en psychologie reconnu équivalent par le ministre, sur avis du Conseil scientifique de psychothérapie, inscrit au registre des titres de formation visé à l’article 66 de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, soit d’un des titres de formation médicale de base dont question à l’article 1 er , paragraphe 1 er , point b) de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire;
 
-3. le demandeur doit être titulaire soit d’un diplôme, certificat ou autre titre de formation luxembourgeois relatif à la profession de psychothérapeute, soit d’un diplôme, certificat ou autre titre étranger reconnu équivalent par le ministre ayant l’Enseignement supérieur dans ses attributions, selon les dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+- le demandeur doit être titulaire soit d’un diplôme, certificat ou autre titre de formation luxembourgeois relatif à la profession de psychothérapeute, soit d’un diplôme, certificat ou autre titre étranger reconnu équivalent par le ministre ayant l’Enseignement supérieur dans ses attributions, selon les dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
-4. il doit remplir les conditions de santé physique et psychique nécessaires à l’exercice de la profession;
+- il doit remplir les conditions de santé physique et psychique nécessaires à l’exercice de la profession;
 
-5. il doit répondre aux conditions d’honorabilité et de moralité nécessaires à l’exercice de la profession;
+- il doit répondre aux conditions d’honorabilité et de moralité nécessaires à l’exercice de la profession;
 
-6. il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège médical. Le président du Collège médical ou son délégué entend le psychothérapeute et transmet au ministre le résultat de la vérification.
+- il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège médical. Le président du Collège médical ou son délégué entend le psychothérapeute et transmet au ministre le résultat de la vérification.
 
 (2)
 
@@ -156,21 +156,21 @@ Il est créé un Conseil scientifique de psychothérapie, ci-après «le conseil
 
 Le conseil a pour mission:
 
-1. de définir les méthodes de psychothérapie reconnues au Luxembourg,
+- de définir les méthodes de psychothérapie reconnues au Luxembourg,
 
-2. de participer à l’élaboration du curriculum de formation au Luxembourg,
+- de participer à l’élaboration du curriculum de formation au Luxembourg,
 
-3. de fournir de son propre chef ou à la demande du ministre des avis sur toutes les matières en relation avec la psychothérapie au Luxembourg,
+- de fournir de son propre chef ou à la demande du ministre des avis sur toutes les matières en relation avec la psychothérapie au Luxembourg,
 
-4. de participer à la procédure de reconnaissance des diplômes, certificats ou autres titres étrangers relatifs à la profession de psychothérapeute et à la formation psychologique de base.
+- de participer à la procédure de reconnaissance des diplômes, certificats ou autres titres étrangers relatifs à la profession de psychothérapeute et à la formation psychologique de base.
 
 Le conseil est composé:
 
-1. de quatre psychothérapeutes, dont deux détenteurs d’un master en psychologie, et deux détenteurs du titre de formation de médecin avec formation médicale de base dont question à l’article 1 er , paragraphe 1 er , point b) de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire, nommés sur proposition du Collège médical,
+- de quatre psychothérapeutes, dont deux détenteurs d’un master en psychologie, et deux détenteurs du titre de formation de médecin avec formation médicale de base dont question à l’article 1 er , paragraphe 1 er , point b) de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire, nommés sur proposition du Collège médical,
 
-2. d’un représentant de la discipline «psychologie», nommé sur proposition de l’Université du Luxembourg,
+- d’un représentant de la discipline «psychologie», nommé sur proposition de l’Université du Luxembourg,
 
-3. d’un médecin spécialiste soit en psychiatrie soit en psychiatrie infantile soit en neuropsychiatrie, nommé sur proposition de l’association la plus représentative des médecins spécialistes en psychiatrie et des médecins spécialistes en psychiatrie infantile.
+- d’un médecin spécialiste soit en psychiatrie soit en psychiatrie infantile soit en neuropsychiatrie, nommé sur proposition de l’association la plus représentative des médecins spécialistes en psychiatrie et des médecins spécialistes en psychiatrie infantile.
 
 Le conseil élit en son sein un président ainsi qu’un vice-président.
 
@@ -195,13 +195,13 @@ Le psychothérapeute relève dans sa pratique professionnelle de l’action déo
 
 Le Collège médical, sur avis du conseil, arrête un règlement qui détermine les règles professionnelles, relatives:
 
-1. à la déontologie entre psychothérapeutes et à l’égard des professions médicales et de certaines professions de santé, des patients et des tiers;
+- à la déontologie entre psychothérapeutes et à l’égard des professions médicales et de certaines professions de santé, des patients et des tiers;
 
-2. au secret professionnel;
+- au secret professionnel;
 
-3. aux honoraires et frais;
+- aux honoraires et frais;
 
-4. à l’information du public concernant les psychothérapeutes et leur activité professionnelle.
+- à l’information du public concernant les psychothérapeutes et leur activité professionnelle.
 
 (3)
 
@@ -319,66 +319,66 @@ Toutefois, si la condamnation a été encourue du chef de vol ou de tentative de
 
 Le Code de la sécurité sociale est modifié comme suit:
 
-1. A l’article 17, l’alinéa 1 est complété par un nouveau point 14 libellé comme suit: les psychothérapies visant le traitement d’un trouble mental.
+- A l’article 17, l’alinéa 1 est complété par un nouveau point 14 libellé comme suit: les psychothérapies visant le traitement d’un trouble mental.
 
-2. A l’article 61, l’alinéa 2 est complété d’un nouveau point 13 libellé comme suit: pour les psychothérapeutes.
+- A l’article 61, l’alinéa 2 est complété d’un nouveau point 13 libellé comme suit: pour les psychothérapeutes.
 
-3. A l’article 65,
+- A l’article 65,
 
-1. l’alinéa 1 prend la teneur suivante: Les actes, services professionnels et prothèses dispensés par les prestataires de soins visés à l’article 61, alinéa 2, points 1) à 7), 12) et 13) et pris en charge par l’assurance maladie-maternité sont inscrits dans des nomenclatures différentes.
+  - l’alinéa 1 prend la teneur suivante: Les actes, services professionnels et prothèses dispensés par les prestataires de soins visés à l’article 61, alinéa 2, points 1) à 7), 12) et 13) et pris en charge par l’assurance maladie-maternité sont inscrits dans des nomenclatures différentes.
 
-2. L’alinéa 2, première phrase prend la teneur suivante: Dans chacune des nomenclatures des prestataires de soins visés à l’article 61, alinéa 2, points 1) à 4), 12) et 13), chaque acte ou service est désigné par la même lettre-clé et par un coefficient.
+  - L’alinéa 2, première phrase prend la teneur suivante: Dans chacune des nomenclatures des prestataires de soins visés à l’article 61, alinéa 2, points 1) à 4), 12) et 13), chaque acte ou service est désigné par la même lettre-clé et par un coefficient.
 
-4. A l’article 66, l’alinéa 2 prend la teneur suivante: Les valeurs des lettres-clés des nomenclatures des prestataires de soins visés à l’article 61, alinéa 2, points 1) à 3), 12) et 13) correspondent au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et sont adaptées suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’Etat.
+- A l’article 66, l’alinéa 2 prend la teneur suivante: Les valeurs des lettres-clés des nomenclatures des prestataires de soins visés à l’article 61, alinéa 2, points 1) à 3), 12) et 13) correspondent au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et sont adaptées suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’Etat.
 
 <a id="art-18"></a>
 ## Art. 18.
 
 La loi du 8 juin 1999 relative au Collège médical est modifiée comme suit:
 
-1. L’article 1 er est remplacé par la disposition suivante: Art. 1er. Il existe un Collège médical, qui regroupe les représentants élus des médecins, médecins-dentistes, pharmaciens et psychothérapeutes et qui a la personnalité civile.
+- L’article 1 er est remplacé par la disposition suivante: Art. 1er. Il existe un Collège médical, qui regroupe les représentants élus des médecins, médecins-dentistes, pharmaciens et psychothérapeutes et qui a la personnalité civile.
 
-2. A l’article 2, les points 1 et 2 sont modifiés comme suit: de veiller à la sauvegarde de l’honneur, de maintenir et de défendre les principes de dignité, de probité, de délicatesse et de compétence devant régir les professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute; de veiller à l’observation des règles déontologiques s’appliquant aux médecins, aux médecins-dentistes, aux pharmaciens et aux psychothérapeutes;».
+- A l’article 2, les points 1 et 2 sont modifiés comme suit: de veiller à la sauvegarde de l’honneur, de maintenir et de défendre les principes de dignité, de probité, de délicatesse et de compétence devant régir les professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute; de veiller à l’observation des règles déontologiques s’appliquant aux médecins, aux médecins-dentistes, aux pharmaciens et aux psychothérapeutes;».
 
-3. L’article 2, point 4 est modifié comme suit: d’émettre un avis sur tous les projets de loi et de règlement concernant les professions de médecin, de médecin-dentiste, de pharmacien, de psychothérapeute ou d’autres professions de santé, ou encore relatifs au secteur hospitalier.
+- L’article 2, point 4 est modifié comme suit: d’émettre un avis sur tous les projets de loi et de règlement concernant les professions de médecin, de médecin-dentiste, de pharmacien, de psychothérapeute ou d’autres professions de santé, ou encore relatifs au secteur hospitalier.
 
-4. L’article 3, alinéa 2 est remplacé par le texte suivant: Les membres effectifs sont au nombre de quatorze, à savoir: huit médecins, deux médecins-dentistes, deux pharmaciens et deux psychothérapeutes.
+- L’article 3, alinéa 2 est remplacé par le texte suivant: Les membres effectifs sont au nombre de quatorze, à savoir: huit médecins, deux médecins-dentistes, deux pharmaciens et deux psychothérapeutes.
 
-5. A l’article 6, les deux premiers alinéas sont modifiés comme suit: Les membres du Collège médical sont élus à la majorité relative des voix, pour un mandat de six ans, qui est renouvelable. Dans le respect de l’article 3, alinéa 2, les membres sont respectivement choisis par les médecins, les médecins-dentistes, les pharmaciens et les psychothérapeutes. En vue d’assurer un renouvellement partiel périodique du Collège médical il est procédé tous les trois ans à une élection de quatre membres médecins, d’un membre médecin-dentiste, d’un membre pharmacien et d’un membre psychothérapeute.
+- A l’article 6, les deux premiers alinéas sont modifiés comme suit: Les membres du Collège médical sont élus à la majorité relative des voix, pour un mandat de six ans, qui est renouvelable. Dans le respect de l’article 3, alinéa 2, les membres sont respectivement choisis par les médecins, les médecins-dentistes, les pharmaciens et les psychothérapeutes. En vue d’assurer un renouvellement partiel périodique du Collège médical il est procédé tous les trois ans à une élection de quatre membres médecins, d’un membre médecin-dentiste, d’un membre pharmacien et d’un membre psychothérapeute.
 
-6. L’article 7, alinéa 1 est modifié comme suit: Sont électeurs les médecins, les médecins-dentistes, les pharmaciens et les psychothérapeutes autorisés à exercer leur profession au Luxembourg et y inscrits aux registres professionnels respectifs.
+- L’article 7, alinéa 1 est modifié comme suit: Sont électeurs les médecins, les médecins-dentistes, les pharmaciens et les psychothérapeutes autorisés à exercer leur profession au Luxembourg et y inscrits aux registres professionnels respectifs.
 
-7. A l’article 8, le point 1 est remplacé par le texte suivant: les personnes exerçant une profession principale pour laquelle le diplôme respectivement de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute n’est pas exigé par la loi.
+- A l’article 8, le point 1 est remplacé par le texte suivant: les personnes exerçant une profession principale pour laquelle le diplôme respectivement de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute n’est pas exigé par la loi.
 
-8. A l’article 9 sont apportées les modifications suivantes:
+- A l’article 9 sont apportées les modifications suivantes:
 
-1. Le paragraphe 1 er est modifié comme suit: (1) Sont éligibles les médecins, médecins-dentistes, pharmaciens et psychothérapeutes qui se portent candidats, qui exercent leur profession au Luxembourg depuis au moins cinq ans à la date des élections et qui répondent aux conditions de l’article 7, ainsi qu’à la condition d’âge dont question à l’article 3.
+  - Le paragraphe 1 er est modifié comme suit: (1) Sont éligibles les médecins, médecins-dentistes, pharmaciens et psychothérapeutes qui se portent candidats, qui exercent leur profession au Luxembourg depuis au moins cinq ans à la date des élections et qui répondent aux conditions de l’article 7, ainsi qu’à la condition d’âge dont question à l’article 3.
 
-2. Au paragraphe 2, le point 1 prend la teneur suivante: les médecins, médecins-dentistes, pharmaciens et psychothérapeutes assurant la direction d’un hôpital.
+  - Au paragraphe 2, le point 1 prend la teneur suivante: les médecins, médecins-dentistes, pharmaciens et psychothérapeutes assurant la direction d’un hôpital.
 
-9. L’article 13 est modifié comme suit:
+- L’article 13 est modifié comme suit:
 
-1. L’alinéa 1 se lira comme suit: Le Collège médical couvre les dépenses nécessaires à son fonctionnement, autres que celles visées à l’article qui suit, par une cotisation à charge de toutes les personnes exerçant au pays une profession pour laquelle le diplôme de médecin, de médecin-dentiste, de pharmacien ou de psychothérapeute est exigé, à l’exception toutefois des médecins et médecins-dentistes qui, établis dans un autre Etat membre de l’Union européenne, n’effectuent au Luxembourg que des prestations de services.
+  - L’alinéa 1 se lira comme suit: Le Collège médical couvre les dépenses nécessaires à son fonctionnement, autres que celles visées à l’article qui suit, par une cotisation à charge de toutes les personnes exerçant au pays une profession pour laquelle le diplôme de médecin, de médecin-dentiste, de pharmacien ou de psychothérapeute est exigé, à l’exception toutefois des médecins et médecins-dentistes qui, établis dans un autre Etat membre de l’Union européenne, n’effectuent au Luxembourg que des prestations de services.
 
-2. L’alinéa 4 prendra la teneur suivante: Sont dispensés du paiement de la cotisation les médecins, médecins-dentistes, pharmaciens et les psychothérapeutes qui, avant le 1er janvier de l’année pour laquelle elle est due, demandent leur radiation du registre professionnel. Cette demande vaut renonciation à l’autorisation d’exercer leur profession.
+  - L’alinéa 4 prendra la teneur suivante: Sont dispensés du paiement de la cotisation les médecins, médecins-dentistes, pharmaciens et les psychothérapeutes qui, avant le 1er janvier de l’année pour laquelle elle est due, demandent leur radiation du registre professionnel. Cette demande vaut renonciation à l’autorisation d’exercer leur profession.
 
-10. L’article 16 est modifié comme suit: Le président du Collège médical peut proposer ses bons offices pour régler les différends qui peuvent naître entre médecins, médecins-dentistes, pharmaciens et psychothérapeutes ou entre eux et des patients ou clients, dans l’exercice de leur profession. Il peut déléguer cette mission à un autre membre du Collège médical.
+- L’article 16 est modifié comme suit: Le président du Collège médical peut proposer ses bons offices pour régler les différends qui peuvent naître entre médecins, médecins-dentistes, pharmaciens et psychothérapeutes ou entre eux et des patients ou clients, dans l’exercice de leur profession. Il peut déléguer cette mission à un autre membre du Collège médical.
 
-11. Les modifications suivantes sont apportées à l’article 17.
+- Les modifications suivantes sont apportées à l’article 17.
 
-1. Le paragraphe 1 er est modifié comme suit: (1) Le conseil de discipline en matière disciplinaire se compose du président du tribunal d’arrondissement de Luxembourg ou du juge qui le remplace et de seize assesseurs, à savoir quatre pour chacune des professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute.
+  - Le paragraphe 1 er est modifié comme suit: (1) Le conseil de discipline en matière disciplinaire se compose du président du tribunal d’arrondissement de Luxembourg ou du juge qui le remplace et de seize assesseurs, à savoir quatre pour chacune des professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute.
 
-2. Au paragraphe 2, il est rajouté un quatrième tiret libellé comme suit: deux par l’association la plus représentative des intérêts des psychothérapeutes.
+  - Au paragraphe 2, il est rajouté un quatrième tiret libellé comme suit: deux par l’association la plus représentative des intérêts des psychothérapeutes.
 
-3. Au paragraphe 3, l’alinéa 2 est remplacé par la disposition ayant la teneur suivante: A cet effet il composera le conseil de discipline de façon à ce qu’il y ait deux assesseurs médecins, médecins-dentistes, pharmaciens ou psychothérapeutes suivant que l’affaire est dirigée contre un médecin, un médecin-dentiste, un pharmacien ou un psychothérapeute. Si une seule et même action est dirigée contre les membres de deux professions différentes, le conseil de discipline comprendra un assesseur de chaque profession concernée.
+  - Au paragraphe 3, l’alinéa 2 est remplacé par la disposition ayant la teneur suivante: A cet effet il composera le conseil de discipline de façon à ce qu’il y ait deux assesseurs médecins, médecins-dentistes, pharmaciens ou psychothérapeutes suivant que l’affaire est dirigée contre un médecin, un médecin-dentiste, un pharmacien ou un psychothérapeute. Si une seule et même action est dirigée contre les membres de deux professions différentes, le conseil de discipline comprendra un assesseur de chaque profession concernée.
 
-12. L’article 30 est modifié comme suit:
+- L’article 30 est modifié comme suit:
 
-1. L’alinéa 1 est remplacé par la disposition suivante: Le conseil supérieur de discipline se compose de six magistrats de la Cour d’Appel ainsi que de seize assesseurs, à savoir quatre pour chacune des professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute.
+  - L’alinéa 1 est remplacé par la disposition suivante: Le conseil supérieur de discipline se compose de six magistrats de la Cour d’Appel ainsi que de seize assesseurs, à savoir quatre pour chacune des professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute.
 
-2. A l’alinéa 2, il est rajouté un quatrième tiret, libellé comme suit: de l’association la plus représentative des intérêts des psychothérapeutes, qui en propose deux pour la profession de psychothérapeutes.
+  - A l’alinéa 2, il est rajouté un quatrième tiret, libellé comme suit: de l’association la plus représentative des intérêts des psychothérapeutes, qui en propose deux pour la profession de psychothérapeutes.
 
-3. L’alinéa 3 est modifié comme suit: Dans chaque affaire le conseil supérieur de discipline siège au nombre de cinq membres dont trois membres magistrats et deux membres non magistrats. Le président du conseil de discipline ou le membre magistrat le plus ancien en rang qui le remplace compose le conseil supérieur de façon à ce qu’il y ait deux assesseurs médecins, médecins-dentistes, pharmaciens ou psychothérapeutes, suivant que l’affaire est dirigée contre un médecin, un médecin-dentiste, un pharmacien ou un psychothérapeute.
+  - L’alinéa 3 est modifié comme suit: Dans chaque affaire le conseil supérieur de discipline siège au nombre de cinq membres dont trois membres magistrats et deux membres non magistrats. Le président du conseil de discipline ou le membre magistrat le plus ancien en rang qui le remplace compose le conseil supérieur de façon à ce qu’il y ait deux assesseurs médecins, médecins-dentistes, pharmaciens ou psychothérapeutes, suivant que l’affaire est dirigée contre un médecin, un médecin-dentiste, un pharmacien ou un psychothérapeute.
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -408,11 +408,11 @@ Le mandat de ces nouveaux membres prendra fin lors du prochain renouvellement pa
 
 Par dérogation à l’article 6 le ministre nommera dans les trois mois qui suivent l’entrée en vigueur de la présente loi, les membres du conseil, qui sera composé comme suit:
 
-1. deux psychologues pouvant justifier d’une pratique de psychothérapie et deux médecins pouvant justifier d’une pratique de psychothérapie, nommés sur proposition du Collège médical,
+- deux psychologues pouvant justifier d’une pratique de psychothérapie et deux médecins pouvant justifier d’une pratique de psychothérapie, nommés sur proposition du Collège médical,
 
-2. un représentant de la discipline «psychologie» nommé sur proposition de l’Université du Luxembourg,
+- un représentant de la discipline «psychologie» nommé sur proposition de l’Université du Luxembourg,
 
-3. un médecin spécialiste en psychiatrie nommé sur proposition de l’association la plus représentative des médecins spécialistes en psychiatrie et des médecins spécialistes en psychiatrie infantile.
+- un médecin spécialiste en psychiatrie nommé sur proposition de l’association la plus représentative des médecins spécialistes en psychiatrie et des médecins spécialistes en psychiatrie infantile.
 
 Le mandat du conseil est limité à une durée de deux années.
 

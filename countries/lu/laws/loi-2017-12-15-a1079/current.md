@@ -42,19 +42,19 @@ L’assistant parental doit, en absence des parents ou du tuteur légal, veiller
 
 En fonction de l’âge et des besoins des enfants pris en charge et dans leur intérêt, l’assistance parentale comprend les activités sui­vantes :
 
-1. les soins primaires ;
+- les soins primaires ;
 
-2. le repos et le sommeil ;
+- le repos et le sommeil ;
 
-3. une restauration équilibrée ;
+- une restauration équilibrée ;
 
-4. la promotion des apprentissages sociaux, affectifs, cognitifs, linguistiques et psychomoteurs des enfants ;
+- la promotion des apprentissages sociaux, affectifs, cognitifs, linguistiques et psychomoteurs des enfants ;
 
-5. les activités mises en œuvre conformément au cadre de référence national « Éducation non formelle des enfants et des jeunes », tel que défini à l’article 31 de la loi modifiée du 4 juillet 2008 sur la jeunesse ;
+- les activités mises en œuvre conformément au cadre de référence national « Éducation non formelle des enfants et des jeunes », tel que défini à l’article 31 de la loi modifiée du 4 juillet 2008 sur la jeunesse ;
 
-6. l’organisation régulière de sorties en plein air ;
+- l’organisation régulière de sorties en plein air ;
 
-7. les études surveillées consistant à la mise en place d’un cadre calme et favorable à l’exécution des devoirs à domicile.
+- les études surveillées consistant à la mise en place d’un cadre calme et favorable à l’exécution des devoirs à domicile.
 
 D’autres prestations liées aux besoins individuels des enfants pris en charge peuvent être définies entre parties.
 
@@ -79,23 +79,23 @@ Le remplacement de l’assistant parental ne peut pas dépasser 200 heures par a
 
 Aux fins d’obtention de l’agrément, le requérant introduit une demande par écrit au ministre, qui sera accompagnée des documents suivants :
 
-1. un projet d’établissement au sens de l’article 4 ;
+- un projet d’établissement au sens de l’article 4 ;
 
-2. une copie de la carte d’identité ;
+- une copie de la carte d’identité ;
 
-3. un certificat de résidence élargi du lieu au sein duquel l’activité sera exercée ;
+- un certificat de résidence élargi du lieu au sein duquel l’activité sera exercée ;
 
-4. les bulletins n° 3 et n° 5 récents du casier judiciaire datant tous les deux de moins de trois mois à partir de leur établissement du requérant qui entend exercer l’activité d’assistance parentale, de chacun des personnes majeures et des enfants mineurs ayant 16 ans accomplis faisant partie du ménage du requérant et du remplaçant de l’assistant parental ;
+- les bulletins n° 3 et n° 5 récents du casier judiciaire datant tous les deux de moins de trois mois à partir de leur établissement du requérant qui entend exercer l’activité d’assistance parentale, de chacun des personnes majeures et des enfants mineurs ayant 16 ans accomplis faisant partie du ménage du requérant et du remplaçant de l’assistant parental ;
 
-5. un certificat médical datant de moins de 30 jours attestant de l’aptitude physique et psychologique du requérant à exercer l’activité d’assistance parentale et de son remplaçant à exercer la prise en charge temporaire des enfants confiés à l’assistant parental ;
+- un certificat médical datant de moins de 30 jours attestant de l’aptitude physique et psychologique du requérant à exercer l’activité d’assistance parentale et de son remplaçant à exercer la prise en charge temporaire des enfants confiés à l’assistant parental ;
 
-6. les attestations des formations requises pour l’exercice de l’activité d’assistance parentale , conformément à l’article 5 ;
+- les attestations des formations requises pour l’exercice de l’activité d’assistance parentale , conformément à l’article 5 ;
 
-7. une attestation récente d’une formation de premier secours et
+- une attestation récente d’une formation de premier secours et
 
-8. un document attestant son affiliation personnelle à la sécurité sociale et à la souscription d’une assurance responsabilité civile contractuelle et ;
+- un document attestant son affiliation personnelle à la sécurité sociale et à la souscription d’une assurance responsabilité civile contractuelle et ;
 
-9. une attestation établissant que le requérant dispose du niveau de compétence B2 fixé conformément au « Cadre européen commun de référence pour les langues », dans au moins une des trois langues administratives prévues à l’article 3 de la loi modifiée du 24 février 1984 sur le régime des langues ou les pièces attestant que le requérant a accompli au moins sept années de scolarité au Luxembourg dans le cadre de l’enseignement public luxembourgeois ou de l’enseignement privé appliquant les programmes d’enseignement luxembourgeois.
+- une attestation établissant que le requérant dispose du niveau de compétence B2 fixé conformément au « Cadre européen commun de référence pour les langues », dans au moins une des trois langues administratives prévues à l’article 3 de la loi modifiée du 24 février 1984 sur le régime des langues ou les pièces attestant que le requérant a accompli au moins sept années de scolarité au Luxembourg dans le cadre de l’enseignement public luxembourgeois ou de l’enseignement privé appliquant les programmes d’enseignement luxembourgeois.
 
 Les extraits des bulletins du casier judiciaire sont conservés pour les besoins de l’instruction de la demande, jusqu’à ce que la décision d’agrément ait acquis autorité de chose jugée.
 
@@ -108,42 +108,42 @@ En vue de l’obtention de son agrément, l’assistant parental ainsi que les p
 
 En vue d’obtenir l’agrément comme assistant parental, le requérant doit remplir les conditions suivantes :
 
-1. être âgé de plus de 18 ans ;
+- être âgé de plus de 18 ans ;
 
-2. être physiquement et psychiquement capable de prendre en charge des enfants ;
+- être physiquement et psychiquement capable de prendre en charge des enfants ;
 
-3. justifier des formations requises pour l’exercice de l’activité d’assistance parentale, conformément à l’article 5 ;
+- justifier des formations requises pour l’exercice de l’activité d’assistance parentale, conformément à l’article 5 ;
 
-4. suivre régulièrement et pendant vingt heures par an au moins des séances de formation conti­nue et de supervision ;
+- suivre régulièrement et pendant vingt heures par an au moins des séances de formation conti­nue et de supervision ;
 
-5. présenter un projet d’établissement ayant pour objet de décrire l’offre et le concept de prise en charge des enfants qui doit être cohérent avec la situation familiale, la disponibilité de l’assistant parental, les ressources et l’infrastructure mises à la disposition des enfants accueillis et
+- présenter un projet d’établissement ayant pour objet de décrire l’offre et le concept de prise en charge des enfants qui doit être cohérent avec la situation familiale, la disponibilité de l’assistant parental, les ressources et l’infrastructure mises à la disposition des enfants accueillis et
 
-6. justifier du niveau de compétence B2 fixé conformément au « Cadre européen commun de référence pour les langues », dans au moins une des trois langues administratives, prévues à l’article 3 de la loi modifiée du 24 février 1984 sur le régime des langues ou avoir accompli au moins sept années de scolarité au Luxembourg dans le cadre de l’enseignement public luxembourgeois ou de l’enseignement privé luxembourgeois appliquant les programmes d’enseignement luxembourgeois.
+- justifier du niveau de compétence B2 fixé conformément au « Cadre européen commun de référence pour les langues », dans au moins une des trois langues administratives, prévues à l’article 3 de la loi modifiée du 24 février 1984 sur le régime des langues ou avoir accompli au moins sept années de scolarité au Luxembourg dans le cadre de l’enseignement public luxembourgeois ou de l’enseignement privé luxembourgeois appliquant les programmes d’enseignement luxembourgeois.
 
 Le projet d’établissement nécessaire à l’obtention de l’agrément d’assistant parental est mis à jour dans les cas suivants :
 
-1. changement de domicile ou de la situation de ménage de l’assistant parental,
+- changement de domicile ou de la situation de ménage de l’assistant parental,
 
-2. changement de l’offre de l’accueil.
+- changement de l’offre de l’accueil.
 
 <a id="art-5"></a>
 ## Art. 5.
 
 L’agrément d’assistant parental n’est accordé qu’aux personnes justifiant de la qualification professionnelle requise répondant aux conditions cumulatives suivantes :
 
-1. se prévaloir d’une des formations suivantes :
+- se prévaloir d’une des formations suivantes :
 
-1. soit être détenteur d’un certificat de capacité professionnelle ou d’un diplôme d’aptitude professionnelle dans une formation destinant le titulaire à l’encadrement socio-éducatif professionnel d’enfants reconnu par le ministre ayant la Formation professionnelle dans ses attributions ;
+  - soit être détenteur d’un certificat de capacité professionnelle ou d’un diplôme d’aptitude professionnelle dans une formation destinant le titulaire à l’encadrement socio-éducatif professionnel d’enfants reconnu par le ministre ayant la Formation professionnelle dans ses attributions ;
 
-2. soit être détenteur d’un diplôme de fin d’études secondaires destinant le titulaire à l’encadrement socio-éducatif professionnel d’enfants reconnu par le ministre ayant l’Éducation nationale dans ses attributions ;
+  - soit être détenteur d’un diplôme de fin d’études secondaires destinant le titulaire à l’encadrement socio-éducatif professionnel d’enfants reconnu par le ministre ayant l’Éducation nationale dans ses attributions ;
 
-3. soit être détenteur d’un titre d’enseignement supérieur destinant le titulaire à l’encadrement socio-éducatif professionnel d’enfants reconnu par le ministre ayant l’Enseignement supérieur dans ses attributions ;
+  - soit être détenteur d’un titre d’enseignement supérieur destinant le titulaire à l’encadrement socio-éducatif professionnel d’enfants reconnu par le ministre ayant l’Enseignement supérieur dans ses attributions ;
 
-4. soit être détenteur d’une autorisation d’exercer une profession de santé au Grand-Duché de Luxembourg, délivrée par le ministre ayant la Santé dans ses attributions ou d’un diplôme dans le domaine de la santé destinant le titulaire à l’encadrement socio-éducatif professionnel d’enfants reconnu par le ministre compétent
+  - soit être détenteur d’une autorisation d’exercer une profession de santé au Grand-Duché de Luxembourg, délivrée par le ministre ayant la Santé dans ses attributions ou d’un diplôme dans le domaine de la santé destinant le titulaire à l’encadrement socio-éducatif professionnel d’enfants reconnu par le ministre compétent
 
-2. avoir accompli la préformation définie à l’article 10 bis , ayant pour objet de préparer à l’exercice et à l’organisation de l’activité d’assistance parentale.
+- avoir accompli la préformation définie à l’article 10 bis , ayant pour objet de préparer à l’exercice et à l’organisation de l’activité d’assistance parentale.
 
-3. avoir la capacité de comprendre et de s’exprimer dans au moins une des trois langues prévues par la loi du 24 février 1984 sur le régime des langues.
+- avoir la capacité de comprendre et de s’exprimer dans au moins une des trois langues prévues par la loi du 24 février 1984 sur le régime des langues.
 
 Sans préjudice quant aux autres conditions applicables à l’exercice de l’activité d’assistance parentale, la personne ayant seulement accompli la préfor­mation peut bénéficier d’un agrément provisoire non renouvelable ne pouvant pas dépasser la durée de trois ans.
 
@@ -152,9 +152,9 @@ Sans préjudice quant aux autres conditions applicables à l’exercice de l’a
 
 Sans préjudice quant aux autres conditions applicables à l’exercice de l’activité d’assistance parentale, un agrément provisoire non renouvelable d’une durée de trois ans est accordé aux personnes qui remplissent les conditions cumulatives suivantes :
 
-1. disposer d’un certificat de réussite de cinq années d’enseignement secondaire ou d’un diplôme de fin d’études secondaires ou d’un diplôme universitaire qui ne prédispose pas à l’encadrement socio-éducatif professionnel des enfants ; et
+- disposer d’un certificat de réussite de cinq années d’enseignement secondaire ou d’un diplôme de fin d’études secondaires ou d’un diplôme universitaire qui ne prédispose pas à l’encadrement socio-éducatif professionnel des enfants ; et
 
-2. avoir accompli la préformation définie à l’article 10 bis , ayant pour objet de préparer à l’exercice et à l’organisation de l’activité d’assistance parentale.
+- avoir accompli la préformation définie à l’article 10 bis , ayant pour objet de préparer à l’exercice et à l’organisation de l’activité d’assistance parentale.
 
 Les personnes titulaires d’un agrément au sens du présent article doivent, avant son expiration, suivre avec succès la formation prévue à l’article 10.
 
@@ -172,29 +172,29 @@ L’assistant parental veille au respect de l’intégrité morale, physique, ps
 
 L’infrastructure dans laquelle l’assistant parental accueille les enfants doit répondre aux critères minima suivants :
 
-1. respecter les normes usuelles de salubrité et de sécurité ;
+- respecter les normes usuelles de salubrité et de sécurité ;
 
-2. disposer de locaux et de matériel appropriés servant à la restauration, au repos, à l’animation et à l’exécution des devoirs à domicile ;
+- disposer de locaux et de matériel appropriés servant à la restauration, au repos, à l’animation et à l’exécution des devoirs à domicile ;
 
-3. la surface totale minimale du ou des locaux servant à la restauration, au repos, à l’animation et à l’exécution des devoirs à domicile est de 4 mètres carrés de surface d’habitation par enfant présent, couloirs et sanitaires non compris ;
+- la surface totale minimale du ou des locaux servant à la restauration, au repos, à l’animation et à l’exécution des devoirs à domicile est de 4 mètres carrés de surface d’habitation par enfant présent, couloirs et sanitaires non compris ;
 
-4. les enfants disposent d’au moins un WC, d’au moins un lavabo à eau froide et chaude ainsi que d’une salle de bains équipée d’une baignoire ou d’une douche ;
+- les enfants disposent d’au moins un WC, d’au moins un lavabo à eau froide et chaude ainsi que d’une salle de bains équipée d’une baignoire ou d’une douche ;
 
-5. les locaux doivent être équipés de façon à ce que les enfants ne soient pas exposés à des nuisances telles que les bruits excessifs, les odeurs ou vibrations nuisibles, les émanations nocives, les cou­rants d’air, l’humidité ou d’autres désagréments ;
+- les locaux doivent être équipés de façon à ce que les enfants ne soient pas exposés à des nuisances telles que les bruits excessifs, les odeurs ou vibrations nuisibles, les émanations nocives, les cou­rants d’air, l’humidité ou d’autres désagréments ;
 
-6. les locaux servant à la restauration, au repos, à l’animation et à l’exécution des devoirs à domicile doivent disposer de lumière naturelle suffisante ;
+- les locaux servant à la restauration, au repos, à l’animation et à l’exécution des devoirs à domicile doivent disposer de lumière naturelle suffisante ;
 
-7. les fenêtres à hauteur à risque doivent être protégées contre l’ouverture de façon à ce que les chutes ne soient pas possibles ;
+- les fenêtres à hauteur à risque doivent être protégées contre l’ouverture de façon à ce que les chutes ne soient pas possibles ;
 
-8. tous les escaliers, balcons, fenêtres etc. doivent être pourvus de garde-corps ou d’autres dispositifs adéquats pour empêcher qu’un enfant ne puisse faire une chute et se blesser. Ils doivent être exécutés de manière qu’on ne puisse y grimper, engager la tête dans une ouverture ou passer en dessous ;
+- tous les escaliers, balcons, fenêtres etc. doivent être pourvus de garde-corps ou d’autres dispositifs adéquats pour empêcher qu’un enfant ne puisse faire une chute et se blesser. Ils doivent être exécutés de manière qu’on ne puisse y grimper, engager la tête dans une ouverture ou passer en dessous ;
 
-9. tous les locaux contenant une source potentielle d’incendie et les couloirs constituant une possibi­lité d’évacuation doivent être équipés de détecteurs de fumée. Tous les détecteurs de fumée doivent être audibles à partir des locaux de séjour des enfants ;
+- tous les locaux contenant une source potentielle d’incendie et les couloirs constituant une possibi­lité d’évacuation doivent être équipés de détecteurs de fumée. Tous les détecteurs de fumée doivent être audibles à partir des locaux de séjour des enfants ;
 
-10. un extincteur doit être placé à un endroit visible et facilement accessible. La cuisine doit être équipée d’une couverture extinctrice. Les extincteurs et les détecteurs de fumée sont vérifiés et entretenus au moins annuellement ;
+- un extincteur doit être placé à un endroit visible et facilement accessible. La cuisine doit être équipée d’une couverture extinctrice. Les extincteurs et les détecteurs de fumée sont vérifiés et entretenus au moins annuellement ;
 
-11. toutes les prises accessibles aux enfants doivent être munies de dispositifs de protection ;
+- toutes les prises accessibles aux enfants doivent être munies de dispositifs de protection ;
 
-12. l’accès au réseau téléphonique doit être garanti à tout moment. Une trousse de premier secours régulièrement mise à jour est disponible.
+- l’accès au réseau téléphonique doit être garanti à tout moment. Une trousse de premier secours régulièrement mise à jour est disponible.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -221,9 +221,9 @@ Les décisions concernant l’octroi, le refus ou le retrait de l’agrément pe
 
 Le recours doit être introduit, sous peine de forclusion :
 
-1. s’il émane du demandeur ou du détenteur de l’autorisation dans un délai de trois mois à partir de la notification de la décision ;
+- s’il émane du demandeur ou du détenteur de l’autorisation dans un délai de trois mois à partir de la notification de la décision ;
 
-2. s’il émane d’un tiers, dans un délai de trois mois à partir de la publication de la décision au Journal officiel du Grand-Duché de Luxembourg.
+- s’il émane d’un tiers, dans un délai de trois mois à partir de la publication de la décision au Journal officiel du Grand-Duché de Luxembourg.
 
 (3)
 
@@ -261,19 +261,19 @@ Les personnes en voie de formation sont appelées apprenants.
 
 La formation aux fonctions d’assistance parentale porte sur les éléments suivants :
 
-1. caractéristiques et principes pédagogiques de l’éducation non formelle
+- caractéristiques et principes pédagogiques de l’éducation non formelle
 
-2. connaissances fondamentales du développement de l’enfant
+- connaissances fondamentales du développement de l’enfant
 
-3. communication et gestion de conflits
+- communication et gestion de conflits
 
-4. alimentation des enfants et hygiène alimentaire
+- alimentation des enfants et hygiène alimentaire
 
-5. champs d’action et d’éducation non-formelle tels que définis dans le cadre de référence national
+- champs d’action et d’éducation non-formelle tels que définis dans le cadre de référence national
 
-6. aspects professionnels et administratifs relatifs à l’exercice de l’activité d’assistance parentale
+- aspects professionnels et administratifs relatifs à l’exercice de l’activité d’assistance parentale
 
-7. actions éducatives familiales.
+- actions éducatives familiales.
 
 La formation aux fonctions d’assistance parentale est certifiée par le ministre ayant l’Éduca­tion nationale et la Formation professionnelle dans ses attributions sur avis de la commission de formation aux fonctions d’assistance parentale à condition que :
 
@@ -306,13 +306,13 @@ L’objectif de cette formation est de sensibiliser les aspirants à l’exercic
 
 La préformation visée au présent article comprend quarante-huit heures de cours et porte principalement sur les éléments suivants :
 
-1. le statut d’assistant parental ;
+- le statut d’assistant parental ;
 
-2. les aspects législatifs et réglementaires de l’activité d’assistance parentale ;
+- les aspects législatifs et réglementaires de l’activité d’assistance parentale ;
 
-3. les aspects professionnels liés à l’activité d’assistance parentale ;
+- les aspects professionnels liés à l’activité d’assistance parentale ;
 
-4. le contenu du cadre de référence national sur l’éducation non formelle des enfants et des jeunes défini à l’article 31 de la loi modifiée du 4 juillet 2008 sur la jeunesse.
+- le contenu du cadre de référence national sur l’éducation non formelle des enfants et des jeunes défini à l’article 31 de la loi modifiée du 4 juillet 2008 sur la jeunesse.
 
 Chaque participant, ayant réussi la formation avec succès, reçoit un certificat de réussite qui précise les matières enseignées, les lieux, les dates et la durée de la formation.
 

@@ -36,15 +36,15 @@ Toute personne qui désire s’établir au Luxembourg et y exercer la profession
 
 Au formulaire dûment rempli sont à joindre les documents justificatifs suivants:
 
-1. une copie d’une pièce d’identité en cours de validité ; et le cas échéant un document attestant le bénéfice des dispositions de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles ;
+- une copie d’une pièce d’identité en cours de validité ; et le cas échéant un document attestant le bénéfice des dispositions de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles ;
 
-2. une copie des titres de formation ou des décisions de reconnaissance visées aux points a) et b) du paragraphe 1 er de l’article 2 de la loi du 14 juillet 2015 portant création de la profession de psychothérapeute;
+- une copie des titres de formation ou des décisions de reconnaissance visées aux points a) et b) du paragraphe 1 er de l’article 2 de la loi du 14 juillet 2015 portant création de la profession de psychothérapeute;
 
-3. l’attestation relative à la santé physique et psychique visée à l’article 2 du présent règlement;
+- l’attestation relative à la santé physique et psychique visée à l’article 2 du présent règlement;
 
-4. l’attestation de moralité et d’honorabilité visée à l’article 3 du présent règlement;
+- l’attestation de moralité et d’honorabilité visée à l’article 3 du présent règlement;
 
-5. tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
+- tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
 
 (3)
 

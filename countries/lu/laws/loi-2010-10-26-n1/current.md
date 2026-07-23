@@ -44,25 +44,25 @@ Pour toutes les lois et tous les projets de règlements grand-ducaux et ministé
 
 La Chambre de Commerce a comme missions notamment:
 
-1. la promotion de l'esprit d'entreprise et l'assistance dans le cadre de la création, du développement et de la pérennisation des entreprises;
+- la promotion de l'esprit d'entreprise et l'assistance dans le cadre de la création, du développement et de la pérennisation des entreprises;
 
-2. la promotion d'un cadre législatif et réglementaire propice au développement économique;
+- la promotion d'un cadre législatif et réglementaire propice au développement économique;
 
-3. la promotion des relations économiques et commerciales aux niveaux régional, européen et international;
+- la promotion des relations économiques et commerciales aux niveaux régional, européen et international;
 
-4. la promotion de l'économie luxembourgeoise au Luxembourg et à l'étranger;
+- la promotion de l'économie luxembourgeoise au Luxembourg et à l'étranger;
 
-5. d'oeuvrer en faveur de tout ce qui contribue à la défense et à la promotion de l'intérêt de ses ressortissants;
+- d'oeuvrer en faveur de tout ce qui contribue à la défense et à la promotion de l'intérêt de ses ressortissants;
 
-6. l'orientation et l'appui des entreprises luxembourgeoises dans leurs démarches d'internationalisation et d'accès aux marchés étrangers;
+- l'orientation et l'appui des entreprises luxembourgeoises dans leurs démarches d'internationalisation et d'accès aux marchés étrangers;
 
-7. le développement et la promotion de la formation professionnelle initiale et continue;
+- le développement et la promotion de la formation professionnelle initiale et continue;
 
-8. l'élaboration de propositions concernant le contenu et la surveillance de la formation professionnelle;
+- l'élaboration de propositions concernant le contenu et la surveillance de la formation professionnelle;
 
-9. la sensibilisation à l'observation de la législation en matière commerciale et industrielle.
+- la sensibilisation à l'observation de la législation en matière commerciale et industrielle.
 
-10. l'établissement de statistiques et la réalisation d'études et d'analyses en matière commerciale, industrielle et financière et notamment celles concernant les petites et moyennes entreprises.
+- l'établissement de statistiques et la réalisation d'études et d'analyses en matière commerciale, industrielle et financière et notamment celles concernant les petites et moyennes entreprises.
 
 Pour remplir son objet, la Chambre de Commerce peut créer ou participer, le cas échéant, à tout établissement, société, association, institution, oeuvre ou service voué essentiellement au développement de l'entreprise industrielle, financière et commerciale, en féconder l'activité, fournir des avis, formuler des réclamations, solliciter des informations et contribuer à la production et à l'analyse de données statistiques.
 
@@ -202,9 +202,9 @@ Le Gouvernement est autorisé à dissoudre l'assemblée plénière de la Chambre
 
 Pour faire face à ses dépenses, la Chambre de Commerce est autorisée à percevoir:
 
-1. de ses ressortissants une cotisation annuelle;
+- de ses ressortissants une cotisation annuelle;
 
-2. des droits ou rétributions en rémunération des services qu'elle rend.
+- des droits ou rétributions en rémunération des services qu'elle rend.
 
 Les modalités de calcul des cotisations annuelles à percevoir par la Chambre de Commerce sont fixées par celle-ci dans son règlement de cotisation soumis à l'approbation du Gouvernement. La cotisation annuelle par ressortissant ne peut dépasser quatre pour mille de son bénéfice réalisé pendant l'avant-dernier exercice. Ce bénéfice s'entend du bénéfice commercial au sens de la loi concernant l'impôt sur le revenu, abstraction faite des pertes reportées selon les articles 109, alinéa 1er, No 4 et 114 de cette même loi.
 
@@ -253,11 +253,11 @@ La Chambre de Commerce n'est pas à considérer comme un pouvoir adjudicateur au
 
 Sont électeurs et éligibles :
 
-1. La personne physique ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant une activité commerciale, industrielle ou financière au Grand-Duché de Luxembourg en nom propre. Elle ne peut déléguer les droits inhérents à la qualité d’électeur, et le cas échéant, d’élu ;
+- La personne physique ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant une activité commerciale, industrielle ou financière au Grand-Duché de Luxembourg en nom propre. Elle ne peut déléguer les droits inhérents à la qualité d’électeur, et le cas échéant, d’élu ;
 
-2. Le représentant légal ou le délégué désigné par une personne morale ayant adopté la forme d’une société commerciale, ayant son siège social au Grand-Duché de Luxembourg, ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant les droits inhérents à l’électorat pour cette dernière ;
+- Le représentant légal ou le délégué désigné par une personne morale ayant adopté la forme d’une société commerciale, ayant son siège social au Grand-Duché de Luxembourg, ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant les droits inhérents à l’électorat pour cette dernière ;
 
-3. Le représentant légal ou le délégué désigné par une succursale d’une société étrangère, établie au Luxembourg et ayant une activité commerciale, industrielle ou financière, ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant les droits inhérents à l’électorat pour cette dernière.
+- Le représentant légal ou le délégué désigné par une succursale d’une société étrangère, établie au Luxembourg et ayant une activité commerciale, industrielle ou financière, ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant les droits inhérents à l’électorat pour cette dernière.
 
 Les personnes mentionnées à l’alinéa 2 doivent être âgées de dix-huit ans accomplis au jour du scrutin.
 
@@ -273,13 +273,13 @@ Toute société commerciale ayant son siège social au Grand-Duché de Luxembour
 
 Sont exclus de l'électorat et de l'éligibilité:
 
-1. les condamnés à des peines criminelles;
+- les condamnés à des peines criminelles;
 
-2. ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;
+- ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;
 
-3. ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;
+- ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;
 
-4. les majeurs en tutelle.
+- les majeurs en tutelle.
 
 Les preuves concernant les conditions précitées sont rapportées moyennant les attestations, certificats et autres documents prévus par des dispositions législatives, réglementaires ou administratives luxembourgeoises.
 
@@ -297,9 +297,9 @@ Les élections sont secrètes et ont lieu au cours des mois de mars ou avril, au
 
 Ne peuvent se présenter en tant que candidats aux élections :
 
-1. les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;
+- les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;
 
-2. les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.
+- les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.
 
 ##### Chapitre VI. Procédure d'élection
 
@@ -310,19 +310,19 @@ La qualité d’électeur est constatée par l’inscription sur les listes éle
 
 Les listes électorales sont établies pour chaque groupe électoral par le bureau électoral. Elles renseignent pour chaque électeur les :
 
-1. nom ;
+- nom ;
 
-2. prénoms ;
+- prénoms ;
 
-3. numéro d’identification de la personne physique tel que défini par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
+- numéro d’identification de la personne physique tel que défini par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
 
-4. domicile ;
+- domicile ;
 
-5. profession ;
+- profession ;
 
-6. dénomination du ressortissant ;
+- dénomination du ressortissant ;
 
-7. numéro d’identité du ressortissant tel que défini par la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales.
+- numéro d’identité du ressortissant tel que défini par la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales.
 
 Tous les cinq ans, tout ressortissant est invité, à produire auprès du bureau électoral au plus tôt cent vingt jours et au plus tard cent quatre jours avant la date du scrutin, contre récépissé, les titres de ceux qui ont droit à l’électorat. Au plus tôt cent cinq jours et au plus tard quatre-vingts jours avant la date du scrutin, le bureau électoral procède à l’élaboration des listes électorales sur base des données communiquées préalablement par la Chambre de Commerce.
 
@@ -404,19 +404,19 @@ L'auteur de l'infraction commise sciemment sera puni d'une amende de 251 à 2.50
 
 Seront punis d'une amende de 251 à 5.000 euros:
 
-1. quiconque, pour se faire inscrire sur la liste électorale , aura produit des actes ou pièces qu'il savait être simulés; celui qui aura pratiqué les mêmes manoeuvres dans le but de faire inscrire un citoyen sur cette liste ou de l'en faire rayer;
+- quiconque, pour se faire inscrire sur la liste électorale , aura produit des actes ou pièces qu'il savait être simulés; celui qui aura pratiqué les mêmes manoeuvres dans le but de faire inscrire un citoyen sur cette liste ou de l'en faire rayer;
 
-2. celui qui, sous prétexte d'indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d'argent ou des valeurs ou un avantage quelconques; ceux qui, à l'occasion d'une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l'argent, soit des valeurs ou avantages quelconques sous la condition d'obtenir en sa faveur ou en faveur d'un tiers, un suffrage, l'abstention de voter ou la remise d'un bulletin de vote nul; les électeurs qui auront accepté des dons, offres ou promesses;
+- celui qui, sous prétexte d'indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d'argent ou des valeurs ou un avantage quelconques; ceux qui, à l'occasion d'une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l'argent, soit des valeurs ou avantages quelconques sous la condition d'obtenir en sa faveur ou en faveur d'un tiers, un suffrage, l'abstention de voter ou la remise d'un bulletin de vote nul; les électeurs qui auront accepté des dons, offres ou promesses;
 
-3. quiconque, pour déterminer un électeur à s'abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l'empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d'exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d'intimider les électeurs ou de troubler l'ordre;
+- quiconque, pour déterminer un électeur à s'abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l'empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d'exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d'intimider les électeurs ou de troubler l'ordre;
 
-4. toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d'entraver les opérations électorales; si le scrutin a été violé, de même que si les coupables étaient porteurs d'armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;
+- toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d'entraver les opérations électorales; si le scrutin a été violé, de même que si les coupables étaient porteurs d'armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;
 
-5. ceux qui ont résisté à l'ordre d'expulsion rendu contre eux par le bureau électoral ou qui seront rentrés dans le local qu'ils avaient été obligés d'évacuer; quiconque, pendant la réunion d'un collège électoral, se sera rendu coupable d'outrages ou de violences, soit envers le bureau soit envers l'un de ses membres; les membres d'un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;
+- ceux qui ont résisté à l'ordre d'expulsion rendu contre eux par le bureau électoral ou qui seront rentrés dans le local qu'ils avaient été obligés d'évacuer; quiconque, pendant la réunion d'un collège électoral, se sera rendu coupable d'outrages ou de violences, soit envers le bureau soit envers l'un de ses membres; les membres d'un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;
 
-6. tout président, scrutateur ou secrétaire d'un bureau ou tout témoin de candidat qui aura révélé le secret d'un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d'un bulletin contrefait; tout membre ou secrétaire d'un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu'il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d'un autre électeur et celui qui, d'une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;
+- tout président, scrutateur ou secrétaire d'un bureau ou tout témoin de candidat qui aura révélé le secret d'un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d'un bulletin contrefait; tout membre ou secrétaire d'un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu'il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d'un autre électeur et celui qui, d'une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;
 
-7. les citoyens qui, invités à remplir au jour de l'élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n'auront pas fait connaître, dans les quarante-huit heures leurs motifs d'empêchement à celui dont l'invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu'à la clôture définitive des procès-verbaux.
+- les citoyens qui, invités à remplir au jour de l'élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n'auront pas fait connaître, dans les quarante-huit heures leurs motifs d'empêchement à celui dont l'invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu'à la clôture définitive des procès-verbaux.
 
 <a id="art-35"></a>
 ## Art. 35.

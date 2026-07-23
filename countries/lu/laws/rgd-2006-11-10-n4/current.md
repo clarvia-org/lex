@@ -50,7 +50,7 @@ Est à considérer comme accueil et animation toute activité ayant comme object
 
 (Règlement grand-ducal du 17 août 2011)
 
-«2. Formation socio-éducative
+« 2. Formation socio-éducative
 
 Est à considérer comme formation socio-éducative toute activité préventive de renseignement, de conseil ou de formation proposée à des enfants, des adultes ou des familles pour des raisons sociales, familiales, éducatives ou pédagogiques.»
 
@@ -68,7 +68,7 @@ Est à considérer comme consultation thérapeutique toute activité d’accompa
 
 (Règlement grand-ducal du 17 août 2011)
 
-«5. Conseil socio-familial
+« 5. Conseil socio-familial
 
 Est à considérer comme conseil socio-familial toute activité de conseil et d’accompagnement au bénéfice d’enfants, d’adultes ou de familles confrontés à des conflits socio-familiaux.»
 
@@ -110,15 +110,21 @@ Le chargé de direction en fonction au moment de l’entrée en vigueur du prés
 
 Par personnel d’encadrement, le présent règlement désigne tous les collaborateurs qui contribuent à assurer une activité visée à l’article 2, dont la mission principale consiste à assurer la prise en charge des usagers, qu’ils interviennent comme permanents, à la vacation ou à titre bénévole.
 
+(Règlement grand-ducal du 17 août 2011)
+
 <a id="art-7"></a>
 ## Art. 7.
 
 Au moins 60 pour cent des agents du personnel d’encadrement contribuant à assurer l’activité énumérée à l’article 2.1 et 80 pour cent des agents du personnel d’encadrement contribuant à assurer une des activités énumérées à l’article 2.2 doivent faire valoir, soit une qualification professionnelle sanctionnée par des diplômes et certificats luxembourgeois ou étrangers reconnus, destinant leur titulaire à une profession dans les domaines pédagogique, psychologique, social, juridique, économique, médical, des professions de santé, socio-familial, socio-éducatif, psychosocial, ou gérontologique, soit une formation acceptée par le ministre d’au moins 150 heures dans un des domaines visés à l’article 2.
 
+(Règlement grand-ducal du 17 août 2011)
+
 <a id="art-8"></a>
 ## «Art. 8.
 
 Les personnes qui entendent entreprendre ou exercer l’activité visée à l’article «2.5 Conseil socio-familial» sont considérées disposer du personnel qualifié, si la totalité du personnel d’encadrement justifie d’une qualification professionnelle sanctionnée par des diplômes et certificats luxembourgeois ou étrangers reconnus, destinant leur titulaire à une profession dans les domaines pédagogique, psychologique, social, juridique, économique, médical, des professions de santé, socio-familial, socio-éducatif, psychosocial, ou gérontologique.»
+
+(Règlement grand-ducal du 17 août 2011)
 
 <a id="art-9"></a>
 ## «Art. 9.
@@ -126,6 +132,8 @@ Les personnes qui entendent entreprendre ou exercer l’activité visée à l’
 Les personnes qui entendent entreprendre ou exercer l’activité visée à l’article «2.3 Médiation socio-familiale» sont considérées disposer du personnel qualifié, si la totalité du personnel d’encadrement justifie en plus d’une des qualifications professionnelles énumérées à l’article 7, d’une formation complémentaire en médiation d’au moins 150 heures.
 
 Les personnes qui entendent entreprendre ou exercer l’activité visée à l’article «2.4 Consultation thérapeutique» sont considérées disposer du personnel qualifié, si la totalité du personnel d’encadrement justifie au moins d’une qualification professionnelle de niveau master dans les domaines de la psychologie ou de la pédagogie ou de la médecine et d’une formation complémentaire dans les domaines de la psychothérapie ou de la consultation psycho-affective comprenant au moins 300 heures.»
+
+(Règlement grand-ducal du 17 août 2011)
 
 <a id="art-10"></a>
 ## «Art. 10.
@@ -137,13 +145,13 @@ Les personnes qui exercent au moment de l’entrée en vigueur du présent règl
 
 Pour l’activité visée à l’article 2.1, les effectifs minimaux de l’équipe d’encadrement sont définis suivant les critères suivants:
 
-1. Pour les initiatives ne dépassant pas une durée de cinq heures, la présence d’un collaborateur pendant toute la durée de l’activité est nécessaire pour dix usagers de moins de six ans, respectivement pour vingt usagers de six à douze ans ou pour trente usagers mineurs âgés de plus de treize ans.
+- Pour les initiatives ne dépassant pas une durée de cinq heures, la présence d’un collaborateur pendant toute la durée de l’activité est nécessaire pour dix usagers de moins de six ans, respectivement pour vingt usagers de six à douze ans ou pour trente usagers mineurs âgés de plus de treize ans.
 
-2. Pour les initiatives dont la durée ne dépasse pas vingt-quatre heures, la présence d’au moins un collaborateur pendant toute la durée de l’activité est nécessaire pour cinq usagers âgés de moins de six ans, respectivement pour dix usagers âgés de six à douze ans, respectivement pour vingt usagers âgés de treize à quinze ans ou pour trente usagers mineurs de plus de quinze ans.
+- Pour les initiatives dont la durée ne dépasse pas vingt-quatre heures, la présence d’au moins un collaborateur pendant toute la durée de l’activité est nécessaire pour cinq usagers âgés de moins de six ans, respectivement pour dix usagers âgés de six à douze ans, respectivement pour vingt usagers âgés de treize à quinze ans ou pour trente usagers mineurs de plus de quinze ans.
 
-3. Pour les initiatives avec hébergement qui peuvent inclure des sorties diverses, la présence d’au moins un collaborateur pendant toute la durée de l’activité est nécessaire pour cinq usagers âgés de moins de six ans, respectivement pour huit usagers âgés de six à douze ans, ou pour quinze usagers mineurs âgés de plus de treize ans et la présence d’au moins un collaborateur majeur pendant toute la durée de l’activité qui fait valoir une formation telle que définie à l’article 7.
+- Pour les initiatives avec hébergement qui peuvent inclure des sorties diverses, la présence d’au moins un collaborateur pendant toute la durée de l’activité est nécessaire pour cinq usagers âgés de moins de six ans, respectivement pour huit usagers âgés de six à douze ans, ou pour quinze usagers mineurs âgés de plus de treize ans et la présence d’au moins un collaborateur majeur pendant toute la durée de l’activité qui fait valoir une formation telle que définie à l’article 7.
 
-4. A titre exceptionnel et pour des raisons dûment motivées et formellement documentées le nombre d’usagers accueillis peut temporairement être dépassé de 10 pour cent.
+- A titre exceptionnel et pour des raisons dûment motivées et formellement documentées le nombre d’usagers accueillis peut temporairement être dépassé de 10 pour cent.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -174,25 +182,25 @@ La demande est à adresser au ministre ayant dans ses attributions la Famille pa
 
 La demande est accompagnée des documents et renseignements suivants:
 
-1. une description détaillée du concept de l’activité, de la population cible et du nombre d’usagers que le service est prêt à encadrer;
+- une description détaillée du concept de l’activité, de la population cible et du nombre d’usagers que le service est prêt à encadrer;
 
-2. un engagement formel du requérant que l’activité est accessible à tout usager indépendamment de toutes considérations d’ordre idéologique, philosophique ou religieux;
+- un engagement formel du requérant que l’activité est accessible à tout usager indépendamment de toutes considérations d’ordre idéologique, philosophique ou religieux;
 
-3. un extrait du casier judiciaire comme preuve de l’honorabilité du requérant, conformément à l’article 4;
+- un extrait du casier judiciaire comme preuve de l’honorabilité du requérant, conformément à l’article 4;
 
 (Règlement grand-ducal du 17 août 2011)
 
-1. pour une personne morale requérante, le nom du chargé de direction de l’activité, les documents relatifs à sa qualification ainsi que ceux prévus à l’article 4, relatifs aux conditions d’honorabilité; pour une personne physique requérante, les documents relatifs à sa qualification;»
+- pour une personne morale requérante, le nom du chargé de direction de l’activité, les documents relatifs à sa qualification ainsi que ceux prévus à l’article 4, relatifs aux conditions d’honorabilité; pour une personne physique requérante, les documents relatifs à sa qualification;»
 
-2. pour une personne morale requérante, une liste comprenant les noms, prénoms, date de naissance, domicile et qualifications des collaborateurs et les extraits du casier judiciaire des collaborateurs salariés;
+- pour une personne morale requérante, une liste comprenant les noms, prénoms, date de naissance, domicile et qualifications des collaborateurs et les extraits du casier judiciaire des collaborateurs salariés;
 
-3. pour une personne morale requérante, les statuts en conformité avec la loi afférente;
+- pour une personne morale requérante, les statuts en conformité avec la loi afférente;
 
-4. un budget prévisionnel en équilibre et les pièces documentant la situation financière du service;
+- un budget prévisionnel en équilibre et les pièces documentant la situation financière du service;
 
-5. le règlement d’ordre intérieur;
+- le règlement d’ordre intérieur;
 
-6. un plan des localités.
+- un plan des localités.
 
 (Règlement grand-ducal du 17 août 2011)
 

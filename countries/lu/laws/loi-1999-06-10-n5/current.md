@@ -50,37 +50,37 @@ Définitions
 
 Au sens de la présente loi, on entend par:
 
-1. « développement durable »: la politique qui vise à assurer la continuité dans le temps du développement économique et social, dans le respect - de l’environnement et sans compromettre les ressources naturelles indispensables à l’activité humaine; - de la santé et de la sécurité des salariés au travail;
+- « développement durable »: la politique qui vise à assurer la continuité dans le temps du développement économique et social, dans le respect - de l’environnement et sans compromettre les ressources naturelles indispensables à l’activité humaine; - de la santé et de la sécurité des salariés au travail;
 
-2. « autorisation »: la partie ou la totalité d’une ou de plusieurs décisions écrites accordant le droit d’exploiter tout ou partie d’un établissement sous certaines conditions, permettant d’assurer que l’établissement satisfait aux exigences de la présente loi. Une autorisation peut être valable pour un ou plusieurs établissements, ou parties d’établissement situées sur le même site et exploitées par le même exploitant;
+- « autorisation »: la partie ou la totalité d’une ou de plusieurs décisions écrites accordant le droit d’exploiter tout ou partie d’un établissement sous certaines conditions, permettant d’assurer que l’établissement satisfait aux exigences de la présente loi. Une autorisation peut être valable pour un ou plusieurs établissements, ou parties d’établissement situées sur le même site et exploitées par le même exploitant;
 
-3. «pollution »: l’introduction directe ou indirecte, par l’activité humaine, de substances, de vibrations, de chaleur ou de bruit dans l’air, l’eau ou le sol, susceptibles de porter atteinte à la santé humaine ou à la qualité de l’environnement, d’entraîner des détériorations aux biens matériels, une détérioration ou une entrave à l’agrément de l’environnement ou à d’autres utilisations légitimes de ce dernier;
+- «pollution »: l’introduction directe ou indirecte, par l’activité humaine, de substances, de vibrations, de chaleur ou de bruit dans l’air, l’eau ou le sol, susceptibles de porter atteinte à la santé humaine ou à la qualité de l’environnement, d’entraîner des détériorations aux biens matériels, une détérioration ou une entrave à l’agrément de l’environnement ou à d’autres utilisations légitimes de ce dernier;
 
-4. « substance »: tout élément chimique et ses composés, à l’exclusion des substances suivantes:
+- « substance »: tout élément chimique et ses composés, à l’exclusion des substances suivantes:
 
-1. les substances radioactives, telles que définies à l’article 1 er de la directive 96/29/Euratom du Conseil du 13 mai 1996 fixant les normes de base relatives à la protection sanitaire de la population et des travailleurs contre les dangers résultant des rayonnements ionisants;
+  - les substances radioactives, telles que définies à l’article 1 er de la directive 96/29/Euratom du Conseil du 13 mai 1996 fixant les normes de base relatives à la protection sanitaire de la population et des travailleurs contre les dangers résultant des rayonnements ionisants;
 
-2. les micro-organismes génétiquement modifiés, tels que définis à l’article 2, point b) de la loi modifiée du 13 janvier 1997 relative au contrôle de l’utilisation et de la dissémination des organismes génétiquement modifiés;
+  - les micro-organismes génétiquement modifiés, tels que définis à l’article 2, point b) de la loi modifiée du 13 janvier 1997 relative au contrôle de l’utilisation et de la dissémination des organismes génétiquement modifiés;
 
-5. « émission »: le rejet direct ou indirect, à partir de sources ponctuelles ou diffuses de l’établissement, de substances, de vibrations, de chaleur ou de bruit dans l’air, l’eau ou le sol;
+- « émission »: le rejet direct ou indirect, à partir de sources ponctuelles ou diffuses de l’établissement, de substances, de vibrations, de chaleur ou de bruit dans l’air, l’eau ou le sol;
 
-6. « modification de l’exploitation »: une modification des caractéristiques ou du fonctionnement ou une extension de l’établissement pouvant entraîner des conséquences pour les intérêts protégés par l’article 1 er de la présente loi;
+- « modification de l’exploitation »: une modification des caractéristiques ou du fonctionnement ou une extension de l’établissement pouvant entraîner des conséquences pour les intérêts protégés par l’article 1 er de la présente loi;
 
-7. «modification substantielle» une modification de l’établissement qui, de l’appréciation des administrations compétentes, peut avoir des incidences négatives significatives sur les intérêts protégés par l’article 1 er de la présente loi; est également réputée substantielle toute modification d’une exploitation qui répond en ellemême aux seuils fixés à l’annexe I de la loi du 9 mai 2014 relative aux émissions industrielles;
+- «modification substantielle» une modification de l’établissement qui, de l’appréciation des administrations compétentes, peut avoir des incidences négatives significatives sur les intérêts protégés par l’article 1 er de la présente loi; est également réputée substantielle toute modification d’une exploitation qui répond en ellemême aux seuils fixés à l’annexe I de la loi du 9 mai 2014 relative aux émissions industrielles;
 
-8. « valeur limite d’émission »: la masse, exprimée en fonction de certains paramètres spécifiques, la concentration et/ ou le niveau d’une émission déterminée, à ne pas dépasser au cours d’une ou de plusieurs périodes données. Les valeurs limites d’émission dans le milieu ambiant peuvent être fixées également pour certains groupes, familles ou catégories de substances notamment celles visées à l’annexe II de la loi du 9 mai 2014 relative aux émissions industrielles. Les valeurs limites d’émission dans le milieu ambiant peuvent être fixées également pour certains groupes, familles ou catégories de substances notamment celles visées à l’annexe II de la loi du 9 mai 2014 relative aux émissions industrielles. En ce qui concerne les rejets indirects à l’eau, l’effet d’une station d’épuration peut être pris en considération lors de la détermination des valeurs limites d’émission de l’établissement, à condition de garantir un niveau équivalent de la protection de l’environnement dans son ensemble et de ne pas conduire à des charges polluantes plus élevées dans le milieu, sans préjudice du respect des dispositions de la réglementation relative aux rejets de substances polluantes dans les eaux;
+- « valeur limite d’émission »: la masse, exprimée en fonction de certains paramètres spécifiques, la concentration et/ ou le niveau d’une émission déterminée, à ne pas dépasser au cours d’une ou de plusieurs périodes données. Les valeurs limites d’émission dans le milieu ambiant peuvent être fixées également pour certains groupes, familles ou catégories de substances notamment celles visées à l’annexe II de la loi du 9 mai 2014 relative aux émissions industrielles. Les valeurs limites d’émission dans le milieu ambiant peuvent être fixées également pour certains groupes, familles ou catégories de substances notamment celles visées à l’annexe II de la loi du 9 mai 2014 relative aux émissions industrielles. En ce qui concerne les rejets indirects à l’eau, l’effet d’une station d’épuration peut être pris en considération lors de la détermination des valeurs limites d’émission de l’établissement, à condition de garantir un niveau équivalent de la protection de l’environnement dans son ensemble et de ne pas conduire à des charges polluantes plus élevées dans le milieu, sans préjudice du respect des dispositions de la réglementation relative aux rejets de substances polluantes dans les eaux;
 
-9. « meilleures techniques disponibles en matière d’environnement : » le stade de développement le plus efficace et avancé des activités et de leurs modes d’exploitation, démontrant l’aptitude pratique de techniques particulières à constituer en principe la base des valeurs limites d’émission et d’autres conditions d’autorisation visant à éviter et, lorsque cela s’avère impossible, à réduire de manière générale les émissions et l’impact sur l’environnement dans son ensemble. Par «techniques» on entend aussi bien les techniques employées que la manière dont l’établissement est conçu, construit, entretenu, exploité et mis à l’arrêt. Par «disponibles» on entend les techniques mises au point sur une échelle permettant de les appliquer dans le contexte du secteur industriel concerné, dans des conditions économiquement et techniquement viables, en prenant en considération les coûts et les avantages; que ces techniques soient utilisées ou produites ou non sur le territoire luxembourgeois, pour autant que l’exploitant concerné puisse y avoir accès dans des conditions raisonnables. Par «meilleures» on entend les techniques les plus efficaces pour atteindre un niveau général élevé de protection de l’environnement dans son ensemble. Dans la détermination des meilleures techniques disponibles, il convient de prendre particulièrement en considération les éléments énumérés à l’annexe III de la loi du 9 mai 2014 relative aux émissions industrielles.
+- « meilleures techniques disponibles en matière d’environnement : » le stade de développement le plus efficace et avancé des activités et de leurs modes d’exploitation, démontrant l’aptitude pratique de techniques particulières à constituer en principe la base des valeurs limites d’émission et d’autres conditions d’autorisation visant à éviter et, lorsque cela s’avère impossible, à réduire de manière générale les émissions et l’impact sur l’environnement dans son ensemble. Par «techniques» on entend aussi bien les techniques employées que la manière dont l’établissement est conçu, construit, entretenu, exploité et mis à l’arrêt. Par «disponibles» on entend les techniques mises au point sur une échelle permettant de les appliquer dans le contexte du secteur industriel concerné, dans des conditions économiquement et techniquement viables, en prenant en considération les coûts et les avantages; que ces techniques soient utilisées ou produites ou non sur le territoire luxembourgeois, pour autant que l’exploitant concerné puisse y avoir accès dans des conditions raisonnables. Par «meilleures» on entend les techniques les plus efficaces pour atteindre un niveau général élevé de protection de l’environnement dans son ensemble. Dans la détermination des meilleures techniques disponibles, il convient de prendre particulièrement en considération les éléments énumérés à l’annexe III de la loi du 9 mai 2014 relative aux émissions industrielles.
 
-10. « meilleures techniques disponibles en matière de protection des personnes »: dans le respect des meilleures techniques disponibles en matière d’environnement, le stade de développement le plus efficace et avancé des activités et de leurs modes d’exploitation, démontrant l’aptitude pratique de techniques particulières à constituer en principe la base pour éviter et, lorsque cela s’avère impossible, pour réduire de manière générale les risques pour la sécurité du public et du voisinage en général ainsi que pour la sécurité, l’hygiène et la santé sur le lieu de travail, pour la salubrité et l’ergonomie. Par «techniques», on entend aussi bien les techniques employées que la manière dont l’établissement est conçu, construit, entretenu, exploité et mis à l’arrêt. Par «disponibles», on entend les techniques mises au point sur une échelle permettant de les appliquer dans le contexte du secteur concerné, dans des conditions économiquement et techniquement viables, en prenant en considération les coûts et les avantages, que ces techniques soient utilisées ou produites ou non sur le territoire luxembourgeois, pour autant que l’exploitant concerné puisse y avoir accès dans des conditions raisonnables. Par «meilleures», on entend les techniques les plus efficaces pour atteindre un niveau général élevé de protection des personnes.
+- « meilleures techniques disponibles en matière de protection des personnes »: dans le respect des meilleures techniques disponibles en matière d’environnement, le stade de développement le plus efficace et avancé des activités et de leurs modes d’exploitation, démontrant l’aptitude pratique de techniques particulières à constituer en principe la base pour éviter et, lorsque cela s’avère impossible, pour réduire de manière générale les risques pour la sécurité du public et du voisinage en général ainsi que pour la sécurité, l’hygiène et la santé sur le lieu de travail, pour la salubrité et l’ergonomie. Par «techniques», on entend aussi bien les techniques employées que la manière dont l’établissement est conçu, construit, entretenu, exploité et mis à l’arrêt. Par «disponibles», on entend les techniques mises au point sur une échelle permettant de les appliquer dans le contexte du secteur concerné, dans des conditions économiquement et techniquement viables, en prenant en considération les coûts et les avantages, que ces techniques soient utilisées ou produites ou non sur le territoire luxembourgeois, pour autant que l’exploitant concerné puisse y avoir accès dans des conditions raisonnables. Par «meilleures», on entend les techniques les plus efficaces pour atteindre un niveau général élevé de protection des personnes.
 
-11. « norme de qualité environnementale »: série d’exigences devant être satisfaites à un moment donné pour un environnement donné ou une partie spécifique de celui-ci.
+- « norme de qualité environnementale »: série d’exigences devant être satisfaites à un moment donné pour un environnement donné ou une partie spécifique de celui-ci.
 
-12. « administration compétente »: l’Administration de l’environnement, l’Inspection du travail et des mines et la (les) administration(s) communale(s) de la ou des communes concernées par l’implantation ou la modification substantielle de l’établissement en cause, chacune en ce qui la concerne;
+- « administration compétente »: l’Administration de l’environnement, l’Inspection du travail et des mines et la (les) administration(s) communale(s) de la ou des communes concernées par l’implantation ou la modification substantielle de l’établissement en cause, chacune en ce qui la concerne;
 
-13. « autorité compétente »: l’autorité investie du pouvoir d’autorisation, d’actualisation, de refus ou de retrait, en l’occurrence les ministres ayant respectivement le Travail et l’Environnement dans leurs attributions ou le bourgmestre selon la classification de l’établissement.
+- « autorité compétente »: l’autorité investie du pouvoir d’autorisation, d’actualisation, de refus ou de retrait, en l’occurrence les ministres ayant respectivement le Travail et l’Environnement dans leurs attributions ou le bourgmestre selon la classification de l’établissement.
 
-14. «exploitant»: toute personne physique ou morale qui exploite ou détient, en tout ou en partie, un établissement ou toute personne qui s’est vu déléguer à l’égard de ce fonctionnement technique un pouvoir économique déterminant.
+- «exploitant»: toute personne physique ou morale qui exploite ou détient, en tout ou en partie, un établissement ou toute personne qui s’est vu déléguer à l’égard de ce fonctionnement technique un pouvoir économique déterminant.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -113,27 +113,27 @@ Les établissements de la classe 4 sont soumis aux prescriptions fixées par rè
 
 Lorsque les établissements faisant l’objet d’une demande d’autorisation relèvent de plusieurs des classes 1, 1A, 1B, 3, 3A ou 3B, la demande est instruite
 
-1. selon les modalités de la classe 1,
+- selon les modalités de la classe 1,
 
-- lorsque la demande d’autorisation comprend au moins un établissement relevant de la classe 1 ;
+  - lorsque la demande d’autorisation comprend au moins un établissement relevant de la classe 1 ;
 
-- lorsque la demande d’autorisation comprend un ou plusieurs établissements relevant de la classe 1A ainsi qu’un ou plusieurs établissements relevant de la classe 1B ;
+  - lorsque la demande d’autorisation comprend un ou plusieurs établissements relevant de la classe 1A ainsi qu’un ou plusieurs établissements relevant de la classe 1B ;
 
-- lorsque la demande d’autorisation comprend exclusivement un ou plusieurs établissements relevant de la classe 1A ainsi qu’un ou plusieurs établissements relevant soit de la classe 3 soit de la classe 3B ;
+  - lorsque la demande d’autorisation comprend exclusivement un ou plusieurs établissements relevant de la classe 1A ainsi qu’un ou plusieurs établissements relevant soit de la classe 3 soit de la classe 3B ;
 
-- lorsque la demande d’autorisation comprend exclusivement un ou plusieurs établissements relevant de la classe 1B ainsi qu’un ou plusieurs établissements relevant soit de la classe 3 soit de la classe 3A ;
+  - lorsque la demande d’autorisation comprend exclusivement un ou plusieurs établissements relevant de la classe 1B ainsi qu’un ou plusieurs établissements relevant soit de la classe 3 soit de la classe 3A ;
 
-2. selon les modalités de la classe 1A,
+- selon les modalités de la classe 1A,
 
-- lorsque la demande d’autorisation comprend exclusivement un ou plusieurs établissements relevant de la classe 1A ainsi qu’un ou plusieurs établissements relevant de la classe 3A ;
+  - lorsque la demande d’autorisation comprend exclusivement un ou plusieurs établissements relevant de la classe 1A ainsi qu’un ou plusieurs établissements relevant de la classe 3A ;
 
-3. selon les modalités de la classe 1B,
+- selon les modalités de la classe 1B,
 
-- lorsque la demande d’autorisation comprend exclusivement un ou plusieurs établissements relevant de la classe 1B ainsi qu’un ou plusieurs établissements relevant de la classe 3B ;
+  - lorsque la demande d’autorisation comprend exclusivement un ou plusieurs établissements relevant de la classe 1B ainsi qu’un ou plusieurs établissements relevant de la classe 3B ;
 
-4. selon les modalités de la classe 3,
+- selon les modalités de la classe 3,
 
-- lorsque la demande d’autorisation comprend exclusivement des établissements relevant de la classe 3 ainsi que des établissements relevant soit de la classe 3A soit de la classe 3B.
+  - lorsque la demande d’autorisation comprend exclusivement des établissements relevant de la classe 3 ainsi que des établissements relevant soit de la classe 3A soit de la classe 3B.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -205,21 +205,21 @@ Les administrations compétentes mettent à la disposition des demandeurs d’au
 
 Les demandes d’autorisation indiquent:
 
-1. les nom, prénoms, qualité et domicile du demandeur et de l’exploitant. Pour les entreprises occupant du personnel salarié, le numéro d’identité national est à indiquer;
+- les nom, prénoms, qualité et domicile du demandeur et de l’exploitant. Pour les entreprises occupant du personnel salarié, le numéro d’identité national est à indiquer;
 
-2. le numéro parcellaire de l’implantation, les coordonnées LUREF Est, LUREF Nord et LUREF H de l’établissement, les communes situées dans un rayon de 200 mètres des limites de l’établissement, la nature et l’emplacement de l’établissement, l’état du site d’implantation de l’établissement, l’objet de l’exploitation, les installations et procédés à mettre en œuvre ainsi que la nature et l’ampleur des activités, les quantités approximatives de substances et matières premières et auxiliaires à utiliser et de produits à fabriquer ou à emmagasiner ;
+- le numéro parcellaire de l’implantation, les coordonnées LUREF Est, LUREF Nord et LUREF H de l’établissement, les communes situées dans un rayon de 200 mètres des limites de l’établissement, la nature et l’emplacement de l’établissement, l’état du site d’implantation de l’établissement, l’objet de l’exploitation, les installations et procédés à mettre en œuvre ainsi que la nature et l’ampleur des activités, les quantités approximatives de substances et matières premières et auxiliaires à utiliser et de produits à fabriquer ou à emmagasiner ;
 
-3. le nombre approximatif de salariés à employer et une évaluation des risques pour leur sécurité et leur santé compte tenu des substances et procédés utilisés avec les mesures projetées en matière de sécurité, d’hygiène du travail, de salubrité et d’ergonomie;
+- le nombre approximatif de salariés à employer et une évaluation des risques pour leur sécurité et leur santé compte tenu des substances et procédés utilisés avec les mesures projetées en matière de sécurité, d’hygiène du travail, de salubrité et d’ergonomie;
 
-4. les prélèvements d’eau, les rejets dans l’eau, dans l’air et dans le sol, les émissions de bruit, de vibrations et de radiation à la sortie des établissements, la production et la gestion des déchets et autres résidus d’exploitation, la production ainsi que la consommation et l’utilisation des différentes formes d’énergie par l’établissement ainsi qu’une notice des incidences sur l’environnement. Cette notice contient les données nécessaires pour identifier et évaluer les effets principaux des émissions sur l’environnement;
+- les prélèvements d’eau, les rejets dans l’eau, dans l’air et dans le sol, les émissions de bruit, de vibrations et de radiation à la sortie des établissements, la production et la gestion des déchets et autres résidus d’exploitation, la production ainsi que la consommation et l’utilisation des différentes formes d’énergie par l’établissement ainsi qu’une notice des incidences sur l’environnement. Cette notice contient les données nécessaires pour identifier et évaluer les effets principaux des émissions sur l’environnement;
 
-5. d’une façon générale les mesures projetées en vue de prévenir ou d’atténuer les inconvénients et les risques auxquels l’établissement pourrait donner lieu, tant pour les personnes attachées à l’exploitation que pour les voisins, le public et l’environnement, et tout particulièrement la technologie prévue et les autres techniques visant à prévenir les émissions provenant de l’établissement ou, si cela n’est pas possible, à les réduire, ainsi que, en tant que de besoin, les mesures concernant la prévention et la valorisation des déchets générés par l’établissement;
+- d’une façon générale les mesures projetées en vue de prévenir ou d’atténuer les inconvénients et les risques auxquels l’établissement pourrait donner lieu, tant pour les personnes attachées à l’exploitation que pour les voisins, le public et l’environnement, et tout particulièrement la technologie prévue et les autres techniques visant à prévenir les émissions provenant de l’établissement ou, si cela n’est pas possible, à les réduire, ainsi que, en tant que de besoin, les mesures concernant la prévention et la valorisation des déchets générés par l’établissement;
 
-6. les mesures prévues pour la surveillance des émissions dans l’environnement;
+- les mesures prévues pour la surveillance des émissions dans l’environnement;
 
-7. l’étude des risques et le rapport de sécurité pour les établissements de la classe 1 arrêtés par règlement grand-ducal conformément à l’article 8 de la présente loi.
+- l’étude des risques et le rapport de sécurité pour les établissements de la classe 1 arrêtés par règlement grand-ducal conformément à l’article 8 de la présente loi.
 
-8. un résumé non technique des données dont question aux points a) à g) du présent article.
+- un résumé non technique des données dont question aux points a) à g) du présent article.
 
 Les demandes d’autorisation pour un établissement à instruire selon les modalités des classes 1B et 3B ne requièrent pas les informations reprises à l’alinéa 1er, point c). Les demandes d’autorisation pour un établissement à instruire selon les modalités des classes 1A et 3A ne requièrent pas les informations reprises à l’alinéa 1er, points d) et f).
 
@@ -229,9 +229,9 @@ Les demandes d’autorisation pour un établissement relevant de la loi du 15 ma
 
 Les demandes d’autorisation doivent être accompagnées des pièces suivantes:
 
-1. un plan détaillé de l’établissement à l’échelle, indiquant notamment la disposition des locaux et l’emplacement des installations ;
+- un plan détaillé de l’établissement à l’échelle, indiquant notamment la disposition des locaux et l’emplacement des installations ;
 
-2. un extrait d’une carte topographique à l’échelle 1 : 20 000 ou à une échelle plus précise permettant d’identifier l’emplacement projeté de l’établissement et indiquant un rayon de 200 mètres des limites de l’établissement.
+- un extrait d’une carte topographique à l’échelle 1 : 20 000 ou à une échelle plus précise permettant d’identifier l’emplacement projeté de l’établissement et indiquant un rayon de 200 mètres des limites de l’établissement.
 
 12.
 
@@ -285,9 +285,9 @@ Sur demande écrite et motivée du requérant, ce délai peut être prolongé de
 
 Pour le cas où les renseignements demandés sont transmis dans le délai précité, l’autorité compétente doit informer le requérant:
 
-1. dans les quarante jours pour les établissements instruits selon les modalités prévues pour les classes 1, 1A et 1B visés par règlement grand-ducal pris en vertu de l’article 8, et
+- dans les quarante jours pour les établissements instruits selon les modalités prévues pour les classes 1, 1A et 1B visés par règlement grand-ducal pris en vertu de l’article 8, et
 
-2. dans les vingt-cinq jours pour les autres établissements instruits selon les modalités prévues pour les classes 1, 1A, 1B et pour ceux instruits selon les modalités prévues pour les classes 2, 3, 3A et 3B suivant la date de l’avis de réception relatif à l’envoi des renseignements demandés que le dossier est complet.
+- dans les vingt-cinq jours pour les autres établissements instruits selon les modalités prévues pour les classes 1, 1A, 1B et pour ceux instruits selon les modalités prévues pour les classes 2, 3, 3A et 3B suivant la date de l’avis de réception relatif à l’envoi des renseignements demandés que le dossier est complet.
 
 1.3.
 
@@ -321,17 +321,17 @@ Le demandeur a le droit de s’enquérir auprès de l’administration compéten
 
 L’autorité compétente doit prendre une décision sur les demandes d’autorisation:
 
-1. dans les quarante-cinq jours à compter
+- dans les quarante-cinq jours à compter
 
-- de la réception de l’avis de la ou des communes concernées à l’administration compétente pour les établissements dont les demandes sont instruites selon les modalités des classes 1, 1A et 1B, et
+  - de la réception de l’avis de la ou des communes concernées à l’administration compétente pour les établissements dont les demandes sont instruites selon les modalités des classes 1, 1A et 1B, et
 
-- le cas échéant, de la réception de la conclusion motivée pour les établissements soumis à évaluation au titre de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement.
+  - le cas échéant, de la réception de la conclusion motivée pour les établissements soumis à évaluation au titre de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement.
 
-2. dans les trente jours à compter
+- dans les trente jours à compter
 
-- de l’expiration du délai d’affichage pour les établissements de la classe 2,
+  - de l’expiration du délai d’affichage pour les établissements de la classe 2,
 
-- de la date à partir de laquelle le dossier de demande est considéré complet pour les établissements dont les demandes sont instruites selon les modalités des classes 3, 3A et 3B.
+  - de la date à partir de laquelle le dossier de demande est considéré complet pour les établissements dont les demandes sont instruites selon les modalités des classes 3, 3A et 3B.
 
 Dans les délais prévus ci-dessus, la décision prise par l’autorité compétente doit également être notifiée conformément aux dispositions de l’article 16.
 
@@ -369,9 +369,9 @@ Lorsque l’autorité compétente constate qu’un projet d’établissement rel
 
 Dans les cas visés au paragraphe 1 er, il sera veillé à ce que
 
-1. les autorités et le public concerné de l’État en question aient la possibilité de communiquer leur avis si possible au cours de l’enquête publique et avant que l’autorité compétente au titre de la présente loi n’arrête sa décision,
+- les autorités et le public concerné de l’État en question aient la possibilité de communiquer leur avis si possible au cours de l’enquête publique et avant que l’autorité compétente au titre de la présente loi n’arrête sa décision,
 
-2. la décision prise sur la demande d’autorisation soit communiquée à l’État en question.
+- la décision prise sur la demande d’autorisation soit communiquée à l’État en question.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -570,11 +570,11 @@ Caducité de l’autorisation
 
 Une nouvelle autorisation est nécessaire
 
-1. lorsque l’établissement n’a pas été mis en activité dans le délai fixé par l’arrêté d’autorisation;
+- lorsque l’établissement n’a pas été mis en activité dans le délai fixé par l’arrêté d’autorisation;
 
-2. lorsqu’il a chômé pendant trois années consécutives;
+- lorsqu’il a chômé pendant trois années consécutives;
 
-3. lorsqu’il a été détruit ou mis hors d’usage en tout ou en partie par un accident quelconque. Si une partie seulement de l’établissement a été détruite ou mise hors d’usage, la nouvelle demande d’autorisation est limitée à la partie en question.
+- lorsqu’il a été détruit ou mis hors d’usage en tout ou en partie par un accident quelconque. Si une partie seulement de l’établissement a été détruite ou mise hors d’usage, la nouvelle demande d’autorisation est limitée à la partie en question.
 
 Pour les établissements des classes 1 et 2, les autorités ayant délivré l’autorisation décideront, cas par cas, si une nouvelle procédure de commodo et incommodo conformément aux articles 10 et 12 ou à l’article 12bis est requise.
 

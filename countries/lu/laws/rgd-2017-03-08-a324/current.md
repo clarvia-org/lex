@@ -41,21 +41,21 @@ Contenu
 
 Le rapport justificatif, qui accompagne les projets d’aménagement particulier « nouveau quartier », comporte :
 
-1. un extrait du plan d’aménagement général en vigueur, y compris la partie écrite de la ou des zones concernées, et le schéma directeur élaboré au niveau de l’étude préparatoire ;
+- un extrait du plan d’aménagement général en vigueur, y compris la partie écrite de la ou des zones concernées, et le schéma directeur élaboré au niveau de l’étude préparatoire ;
 
-2. un tableau récapitulatif en format papier et en format « XLS » qui reprend pour chaque lot ou parcelle les valeurs maximas et, le cas échéant, les valeurs minimas relatives à la surface construite brute, l’emprise au sol, la surface pouvant être scellée et le nombre de logements y admis. Ce tableau est complété, pour chaque ensemble de fonds couverts par un même degré d’utilisation du sol tel que fixé dans le plan d’aménagement général, les coefficients relatifs au degré d’utilisation du sol résultant des valeurs précitées. Le tableau récapitulatif précité qui figure à l’annexe I fait partie intégrante du présent règlement ;
+- un tableau récapitulatif en format papier et en format « XLS » qui reprend pour chaque lot ou parcelle les valeurs maximas et, le cas échéant, les valeurs minimas relatives à la surface construite brute, l’emprise au sol, la surface pouvant être scellée et le nombre de logements y admis. Ce tableau est complété, pour chaque ensemble de fonds couverts par un même degré d’utilisation du sol tel que fixé dans le plan d’aménagement général, les coefficients relatifs au degré d’utilisation du sol résultant des valeurs précitées. Le tableau récapitulatif précité qui figure à l’annexe I fait partie intégrante du présent règlement ;
 
-3. un descriptif du concept urbanistique ;
+- un descriptif du concept urbanistique ;
 
-4. un descriptif du concept urbanistique ;
+- un descriptif du concept urbanistique ;
 
-1. l’implantation des constructions représentant le volume maximal admissible ;
+  - l’implantation des constructions représentant le volume maximal admissible ;
 
-2. l’aménagement des espaces publics ;
+  - l’aménagement des espaces publics ;
 
-3. l’aménagement des espaces verts privés, le cas échéant, et.
+  - l’aménagement des espaces verts privés, le cas échéant, et.
 
-4. le contexte environnant.
+  - le contexte environnant.
 
 L’illustration du projet prévue à l’alinéa 1er est complétée par une représentation axonométrique tout en y intégrant les constructions avoisinantes.
 
@@ -81,35 +81,35 @@ Contenu
 
 Le plan directeur reprend au moins les éléments suivants :
 
-1. les limites des fonds soumis à un plan directeur selon le plan d’aménagement général ou les limites définies en fonction des fonds à considérer afin de garantir un développement urbain cohérent ;
+- les limites des fonds soumis à un plan directeur selon le plan d’aménagement général ou les limites définies en fonction des fonds à considérer afin de garantir un développement urbain cohérent ;
 
-2. la programmation urbaine des nouveaux quartiers ainsi que les affectations différenciées par îlots ;
+- la programmation urbaine des nouveaux quartiers ainsi que les affectations différenciées par îlots ;
 
-3. les interfaces avec le milieu environnant ;
+- les interfaces avec le milieu environnant ;
 
-4. la géométrie urbaine précisée au niveau du quartier ;
+- la géométrie urbaine précisée au niveau du quartier ;
 
-5. les prescriptions dimensionnelles sommaires ;
+- les prescriptions dimensionnelles sommaires ;
 
-6. un concept de circulation avec un concept de stationnement ;
+- un concept de circulation avec un concept de stationnement ;
 
-7. le gabarit et le statut des voies collectrices et de desserte.
+- le gabarit et le statut des voies collectrices et de desserte.
 
 Le plan directeur peut, en cas de besoin, être complété par les éléments suivants :
 
-1. la densité différenciée par îlots ;
+- la densité différenciée par îlots ;
 
-2. un bilan sommaire des surfaces dédiées au domaine public et au domaine privé;
+- un bilan sommaire des surfaces dédiées au domaine public et au domaine privé;
 
-3. les caractéristiques et la configuration du réseau, des infrastructures et des équipements de transports en commun ;
+- les caractéristiques et la configuration du réseau, des infrastructures et des équipements de transports en commun ;
 
-4. les caractéristiques, la configuration et le statut des voies principales et secondaires ;
+- les caractéristiques, la configuration et le statut des voies principales et secondaires ;
 
-5. un concept de transport en commun ;
+- un concept de transport en commun ;
 
-6. les caractéristiques et la configuration des espaces publics ;
+- les caractéristiques et la configuration des espaces publics ;
 
-7. les caractéristiques et la configuration des espaces verts dans le quartier.
+- les caractéristiques et la configuration des espaces verts dans le quartier.
 
 <a id="art-5"></a>
 ## Art. 5.

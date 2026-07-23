@@ -120,11 +120,11 @@ Le Commissaire peut reconnaître des organismes comme satisfaisant aux condition
 
 Sous réserve du paragraphe 4 du présent article, le Commissaire, aux fins d’habilitation, exige de l’organisme qu’il fasse la démonstration que, dans la mesure nécessaire à l’exercice des activités visées par l’habilitation:
 
-1. sa taille, sa structure, ses moyens et ressources correspondent au type et à la portée de l’habilitation. En suivant les principes directeurs B5.1.2, paragraphe 2 a) à d) de la Convention , le Commissaire exige de l’organisme qu’il démontre qu’il a la compétence et la capacité nécessaires sur les plans techniques et administratifs et en matière de gestion pour assurer un service de qualité dans les délais prescrits et que ses inspecteurs MLC respectent les conditions énumérées à l’Annexe I du présent règlement;
+- sa taille, sa structure, ses moyens et ressources correspondent au type et à la portée de l’habilitation. En suivant les principes directeurs B5.1.2, paragraphe 2 a) à d) de la Convention , le Commissaire exige de l’organisme qu’il démontre qu’il a la compétence et la capacité nécessaires sur les plans techniques et administratifs et en matière de gestion pour assurer un service de qualité dans les délais prescrits et que ses inspecteurs MLC respectent les conditions énumérées à l’Annexe I du présent règlement;
 
-2. il a la capacité d’entretenir et de réactualiser les compétences de ses inspecteurs MLC via la démonstration de la mise en place d’un système adéquat;
+- il a la capacité d’entretenir et de réactualiser les compétences de ses inspecteurs MLC via la démonstration de la mise en place d’un système adéquat;
 
-3. il satisfait aux exigences d’indépendance. A ce titre, l’organisme apporte la preuve qu’il n’est pas susceptible de se trouver en situation de dépendance par rapport au changement de gouvernement de l’Etat sur le territoire duquel il est situé ou de subir l’influence indue de tiers. L’organisme reconnu MLC démontre également laisser aux inspecteurs MLC une marge de manœuvre dans l’exécution de leurs missions, nonobstant tout lien de subordination.
+- il satisfait aux exigences d’indépendance. A ce titre, l’organisme apporte la preuve qu’il n’est pas susceptible de se trouver en situation de dépendance par rapport au changement de gouvernement de l’Etat sur le territoire duquel il est situé ou de subir l’influence indue de tiers. L’organisme reconnu MLC démontre également laisser aux inspecteurs MLC une marge de manœuvre dans l’exécution de leurs missions, nonobstant tout lien de subordination.
 
 (3)
 
@@ -187,23 +187,23 @@ Les inspections MLC doivent être effectuées lorsqu’il y a lieu à des interv
 
 Sans préjudice des dispositions du paragraphe précédent, une inspection MLC spéciale des logements des gens de mer à bord d’un navire battant pavillon luxembourgeois est organisée impérativement:
 
-1. lors de la première immatriculation du navire;
+- lors de la première immatriculation du navire;
 
-2. lors d’une nouvelle immatriculation;
+- lors d’une nouvelle immatriculation;
 
-3. en cas de modification substantielle du logement des gens de mer à bord du navire.
+- en cas de modification substantielle du logement des gens de mer à bord du navire.
 
 (3)
 
 Nonobstant les dispositions des paragraphes précédents, dans une ou plusieurs circonstances exposées ci-dessous, le Commissaire est autorisé à prendre toutes mesures qu’il estime nécessaires, y compris à diligenter une inspection MLC supplémentaire, sans notification préalable:
 
-1. suite à une plainte, qui ne paraît pas manifestement infondée,
+- suite à une plainte, qui ne paraît pas manifestement infondée,
 
-2. suite à un accident ou à un incident grave,
+- suite à un accident ou à un incident grave,
 
-3. suite à la preuve qu’un navire ne se conforme pas aux prescriptions en matière de conditions de vie, de travail et d’emploi à bord, ou présente de sérieux manquements dans l’application des mesures énoncées dans sa déclaration de conformité du travail maritime,
+- suite à la preuve qu’un navire ne se conforme pas aux prescriptions en matière de conditions de vie, de travail et d’emploi à bord, ou présente de sérieux manquements dans l’application des mesures énoncées dans sa déclaration de conformité du travail maritime,
 
-4. suite à une détention ordonnée par l’autorité compétente de l’Etat du port.
+- suite à une détention ordonnée par l’autorité compétente de l’Etat du port.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -339,11 +339,11 @@ Sous réserve du paragraphe 2 du présent article, tout navire ayant une jauge b
 
 Ne sont pas concernés par le paragraphe 1er:
 
-1. les navires non affectés à des activités commerciales,
+- les navires non affectés à des activités commerciales,
 
-2. les navires affectés à la pêche,
+- les navires affectés à la pêche,
 
-3. les navires de construction traditionnelle tels que les boutres et les jonques.
+- les navires de construction traditionnelle tels que les boutres et les jonques.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -443,15 +443,15 @@ Nonobstant l’article 23, lorsqu’il ressort d’une inspection MLC de renouve
 
 Tous les certificats de travail maritime, y compris le certificat provisoire visé aux articles 29 et suivants, perdent leur validité et sont retirés si:
 
-1. les inspections MLC prescrites aux articles 24, 25 et 34 ne sont pas effectuées dans les délais fixés au présent règlement;
+- les inspections MLC prescrites aux articles 24, 25 et 34 ne sont pas effectuées dans les délais fixés au présent règlement;
 
-2. le certificat et la déclaration de conformité du travail maritime, lorsqu’ils doivent l’être, n’ont pas été correctement visés par le Commissaire;
+- le certificat et la déclaration de conformité du travail maritime, lorsqu’ils doivent l’être, n’ont pas été correctement visés par le Commissaire;
 
-3. il y a changement de pavillon;
+- il y a changement de pavillon;
 
-4. un armateur cesse d’assumer la responsabilité de l’exploitation d’un navire;
+- un armateur cesse d’assumer la responsabilité de l’exploitation d’un navire;
 
-5. des modifications importantes ont été apportées à la structure du navire ou à ses équipements et en particulier à ceux énumérés au titre 3 de la Convention .
+- des modifications importantes ont été apportées à la structure du navire ou à ses équipements et en particulier à ceux énumérés au titre 3 de la Convention .
 
 (2)
 
@@ -486,24 +486,24 @@ En cas de retrait définitif, l’armateur est tenu de retourner l’original du
 
 Le Commissaire, sinon un organisme reconnu MLC, peut délivrer un certificat de travail maritime à titre provisoire:
 
-1. aux nouveaux navires, à la livraison;
+- aux nouveaux navires, à la livraison;
 
-2. lorsqu’un navire change de pavillon;
+- lorsqu’un navire change de pavillon;
 
-3. lorsqu’un armateur prend à son compte l’exploitation d’un navire qui est nouveau pour cet armateur.
+- lorsqu’un armateur prend à son compte l’exploitation d’un navire qui est nouveau pour cet armateur.
 
 <a id="art-30"></a>
 ## Art. 30.
 
 Le certificat de travail maritime provisoire n’est délivré qu’une fois qu’il a été établi que:
 
-1. le navire a été inspecté, dans la mesure où cela est raisonnablement possible, au regard des prescriptions énumérées à l’annexe A5-1 de la Convention , en tenant compte de la vérification des éléments visés aux alinéas b. c. et d. du présent paragraphe;
+- le navire a été inspecté, dans la mesure où cela est raisonnablement possible, au regard des prescriptions énumérées à l’annexe A5-1 de la Convention , en tenant compte de la vérification des éléments visés aux alinéas b. c. et d. du présent paragraphe;
 
-2. l’armateur a démontré au Commissaire ou à l’organisme reconnu MLC que des procédures adéquates sont mises en œuvre à bord en vue d’assurer le respect des dispositions relatives aux conditions de vie, de travail et d’emploi à bord du navire;
+- l’armateur a démontré au Commissaire ou à l’organisme reconnu MLC que des procédures adéquates sont mises en œuvre à bord en vue d’assurer le respect des dispositions relatives aux conditions de vie, de travail et d’emploi à bord du navire;
 
-3. le capitaine connait les dispositions relatives aux conditions de vie, de travail et d’emploi à bord du navire et ses responsabilités en la matière;
+- le capitaine connait les dispositions relatives aux conditions de vie, de travail et d’emploi à bord du navire et ses responsabilités en la matière;
 
-4. les informations pertinentes requises ont été présentées au Commissaire ou à l’organisme reconnu MLC en vue de l’établissement d’une déclaration de conformité du travail maritime.
+- les informations pertinentes requises ont été présentées au Commissaire ou à l’organisme reconnu MLC en vue de l’établissement d’une déclaration de conformité du travail maritime.
 
 <a id="art-31"></a>
 ## Art. 31.
@@ -545,31 +545,31 @@ Le Commissariat aux affaires maritimes gère et maintient un système de gestion
 
 Le système de gestion de la qualité visé à l’article 35 garantit la mise en place d’une procédure appropriée par laquelle le Commissaire:
 
-1. assure la désignation d’un nombre d’inspecteurs en suffisance et de la mise à disposition, le cas échéant, d’autres ressources suivant les principes directeurs B5.1.4 paragraphe 1 er et B5.1.4 paragraphe 4 de la Convention ;
+- assure la désignation d’un nombre d’inspecteurs en suffisance et de la mise à disposition, le cas échéant, d’autres ressources suivant les principes directeurs B5.1.4 paragraphe 1 er et B5.1.4 paragraphe 4 de la Convention ;
 
-2. vérifie qu’en tout temps, les inspecteurs MLC possèdent et maintiennent des qualifications et une formation suffisantes au regard de leurs fonctions. Les compétences sont détaillées dans l’annexe I du présent règlement;
+- vérifie qu’en tout temps, les inspecteurs MLC possèdent et maintiennent des qualifications et une formation suffisantes au regard de leurs fonctions. Les compétences sont détaillées dans l’annexe I du présent règlement;
 
-3. veille à ce que les inspecteurs MLC disposent de l’autorité juridique pleine et entière, le statut et l’indépendance, nécessaires ou souhaitables pour pouvoir effectuer les vérifications de conformité des conditions de vie, de travail et d’emploi des gens de mer. Plus spécialement il s’assure que les inspecteurs MLC:
+- veille à ce que les inspecteurs MLC disposent de l’autorité juridique pleine et entière, le statut et l’indépendance, nécessaires ou souhaitables pour pouvoir effectuer les vérifications de conformité des conditions de vie, de travail et d’emploi des gens de mer. Plus spécialement il s’assure que les inspecteurs MLC:
 
-- exercent leurs prérogatives de manière impartiale et indépendante;
+  - exercent leurs prérogatives de manière impartiale et indépendante;
 
-- évitent tout conflit d’intérêts direct ou indirect;
+  - évitent tout conflit d’intérêts direct ou indirect;
 
-- ne subissent pas des pressions, menaces ou autres influences extérieures indues, y compris issues de changement de gouvernement, les empêchant d’exercer leurs activités de manière indépendante;
+  - ne subissent pas des pressions, menaces ou autres influences extérieures indues, y compris issues de changement de gouvernement, les empêchant d’exercer leurs activités de manière indépendante;
 
-- remplissent également les conditions d’indépendance visées à l’annexe I du règlement (CE) n° 391/2009 , dans sa dernière version en vigueur;
+  - remplissent également les conditions d’indépendance visées à l’annexe I du règlement (CE) n° 391/2009 , dans sa dernière version en vigueur;
 
-4. fixe un référentiel normatif ayant pour objet de déterminer les objectifs et les normes encadrant le système d’inspection MLC et de certification sociale. Le référentiel fournit également des conseils et des recommandations dans le dessein d’aider et de guider les inspecteurs MLC pour l’exécution de leur mission ainsi que pour assurer la supervision de leur action. Il tient compte des politiques en vigueur afin de garantir une cohérence dans les différentes opérations d’inspection MLC et de certification sociale. Le référentiel est un document indicatif et susceptible d’évoluer suivant les évolutions réglementaires en cours;
+- fixe un référentiel normatif ayant pour objet de déterminer les objectifs et les normes encadrant le système d’inspection MLC et de certification sociale. Le référentiel fournit également des conseils et des recommandations dans le dessein d’aider et de guider les inspecteurs MLC pour l’exécution de leur mission ainsi que pour assurer la supervision de leur action. Il tient compte des politiques en vigueur afin de garantir une cohérence dans les différentes opérations d’inspection MLC et de certification sociale. Le référentiel est un document indicatif et susceptible d’évoluer suivant les évolutions réglementaires en cours;
 
-5. instaure un système de vérification et de contrôle de l’action des organismes reconnus et des inspecteurs MLC ainsi qu’un contrôle propre à assurer l’adéquation des tâches réalisées par eux qui comprend notamment:
+- instaure un système de vérification et de contrôle de l’action des organismes reconnus et des inspecteurs MLC ainsi qu’un contrôle propre à assurer l’adéquation des tâches réalisées par eux qui comprend notamment:
 
-1. des procédures de communication avec les organismes reconnus MLC;
+  - des procédures de communication avec les organismes reconnus MLC;
 
-2. des procédures de notification et de traitement des rapports par le Commissaire;
+  - des procédures de notification et de traitement des rapports par le Commissaire;
 
-3. des audits périodiques des missions, y compris des inspections MLC, réalisées;
+  - des audits périodiques des missions, y compris des inspections MLC, réalisées;
 
-4. une évaluation du système interne de qualité des inspections MLC et de la certification sociale.
+  - une évaluation du système interne de qualité des inspections MLC et de la certification sociale.
 
 (2)
 

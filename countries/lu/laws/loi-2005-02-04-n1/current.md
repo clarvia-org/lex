@@ -36,17 +36,17 @@ Les dispositions de la présente loi s'appliquent aux référendums prévus aux 
 
 Pour l'application de la présente loi, on entend par:
 
-1. «le référendum prévu à l'article 114 de la Constitution »: le référendum dans le cadre d'une procédure de révision constitutionnelle;
+- «le référendum prévu à l'article 114 de la Constitution »: le référendum dans le cadre d'une procédure de révision constitutionnelle;
 
-2. «loi électorale»: la loi électorale du 18 février 2003 , telle que modifiée par la suite;
+- «loi électorale»: la loi électorale du 18 février 2003 , telle que modifiée par la suite;
 
-3. «électeurs»: les électeurs inscrits sur les listes électorales pour les élections législatives conformément aux dispositions de la loi électorale ;
+- «électeurs»: les électeurs inscrits sur les listes électorales pour les élections législatives conformément aux dispositions de la loi électorale ;
 
-4. «domicile électoral»: le domicile électoral du citoyen est au lieu de sa résidence habituelle, c'est-à-dire au lieu où il habite d'ordinaire conformément à l'article 10 de la loi électorale ;
+- «domicile électoral»: le domicile électoral du citoyen est au lieu de sa résidence habituelle, c'est-à-dire au lieu où il habite d'ordinaire conformément à l'article 10 de la loi électorale ;
 
-5. «comité d'initiative»: l'ensemble des personnes physiques à l'origine d'une demande visant l'organisation d'un référendum dans le cadre d'une procédure de révision constitutionnelle;
+- «comité d'initiative»: l'ensemble des personnes physiques à l'origine d'une demande visant l'organisation d'un référendum dans le cadre d'une procédure de révision constitutionnelle;
 
-6. «listes d'inscription»: les feuilles officielles préimprimées mises à disposition des communes sur lesquelles les électeurs peuvent apposer leur signature en vue de soutenir une demande visant l'organisation d'un référendum dans le cadre d'une procédure de révision constitutionnelle.
+- «listes d'inscription»: les feuilles officielles préimprimées mises à disposition des communes sur lesquelles les électeurs peuvent apposer leur signature en vue de soutenir une demande visant l'organisation d'un référendum dans le cadre d'une procédure de révision constitutionnelle.
 
 #### Chapitre 2. Collecte des signatures en vue d'un référendum prévu à l'article 114 de la Constitution
 
@@ -57,15 +57,15 @@ La demande visant l'organisation d'un référendum prévu à l'article 114 de la
 
 La demande d'introduction doit comporter:
 
-1. l'intitulé et le texte de la révision constitutionnelle adoptée par la Chambre des députés en première lecture, qui sont mis à la disposition de toute personne intéressée par le greffe de la Chambre des députés;
+- l'intitulé et le texte de la révision constitutionnelle adoptée par la Chambre des députés en première lecture, qui sont mis à la disposition de toute personne intéressée par le greffe de la Chambre des députés;
 
-2. les noms, prénoms, dates de naissance et adresses des membres du comité d'initiative;
+- les noms, prénoms, dates de naissance et adresses des membres du comité d'initiative;
 
-3. les signatures manuscrites des personnes préqualifiées en vue d'attester leur appartenance au comité d'initiative;
+- les signatures manuscrites des personnes préqualifiées en vue d'attester leur appartenance au comité d'initiative;
 
-4. l'attestation que les personnes préqualifiées sont inscrites en tant qu'électeurs sur les listes électorales pour les élections législatives;
+- l'attestation que les personnes préqualifiées sont inscrites en tant qu'électeurs sur les listes électorales pour les élections législatives;
 
-5. l'adresse élue du comité d'initiative.
+- l'adresse élue du comité d'initiative.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -81,11 +81,11 @@ La décision est notifiée par lettre recommandée à l'adresse élue du comité
 
 Si le Premier Ministre, Ministre d'Etat, retient que la demande répond aux conditions de la présente loi, il fait publier endéans la huitaine au Mémorial, Recueil administratif et économique, et dans au moins trois quotidiens paraissant au Luxembourg une communication reprenant
 
-1. l'intitulé et le texte de la révision constitutionnelle adoptée en première lecture par la Chambre des députés;
+- l'intitulé et le texte de la révision constitutionnelle adoptée en première lecture par la Chambre des députés;
 
-2. les noms, prénoms, âges et adresses des membres du comité d'initiative;
+- les noms, prénoms, âges et adresses des membres du comité d'initiative;
 
-3. les dates de début et de fin de la période de collecte des signatures pendant laquelle les électeurs peuvent soutenir la demande d'organisation d'un référendum prévu à l'article 114 de la Constitution en s'inscrivant sur les listes d'inscription tenues à cette fin par les communes.
+- les dates de début et de fin de la période de collecte des signatures pendant laquelle les électeurs peuvent soutenir la demande d'organisation d'un référendum prévu à l'article 114 de la Constitution en s'inscrivant sur les listes d'inscription tenues à cette fin par les communes.
 
 La collecte des signatures commence au plus tard quinze jours après la date de la publication au Mémorial.
 
@@ -103,11 +103,11 @@ Les frais y relatifs sont à charge du budget de l'Etat.
 
 Chaque liste d'inscription conçue d'après le modèle figurant à l'annexe 1 de la présente loi doit mentionner:
 
-1. l'intitulé du texte de la révision constitutionnelle qui fait l'objet de la demande d'organisation d'un référendum, précédé de la mention «Demande d'organisation d'un référendum sur la révision constitutionnelle» ;
+- l'intitulé du texte de la révision constitutionnelle qui fait l'objet de la demande d'organisation d'un référendum, précédé de la mention «Demande d'organisation d'un référendum sur la révision constitutionnelle» ;
 
-2. les dates de début et de fin de la période de collecte des signatures;
+- les dates de début et de fin de la période de collecte des signatures;
 
-3. le nom de la commune respective.
+- le nom de la commune respective.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -168,13 +168,13 @@ Le fonctionnaire, employé communal ou salarié à tâche principalement intelle
 
 Sont nulles les inscriptions:
 
-1. apposées sur des listes non conformes;
+- apposées sur des listes non conformes;
 
-2. apposées par des personnes ne remplissant pas les conditions énumérées à l'article 11, alinéa 3;
+- apposées par des personnes ne remplissant pas les conditions énumérées à l'article 11, alinéa 3;
 
-3. supplémentaires concernant des électeurs qui ont déjà soutenu la même demande;
+- supplémentaires concernant des électeurs qui ont déjà soutenu la même demande;
 
-4. reçues avant ou après la période de collecte des signatures fixée et publiée au Mémorial par le Premier Ministre, Ministre d'Etat.
+- reçues avant ou après la période de collecte des signatures fixée et publiée au Mémorial par le Premier Ministre, Ministre d'Etat.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -186,11 +186,11 @@ Les communes sont tenues de numéroter les inscriptions sur leurs listes en reco
 
 A la fin de la période de collecte des signatures, chaque commune dispose d'un délai de huit jours pour déterminer le nombre total:
 
-1. d'inscriptions reçues;
+- d'inscriptions reçues;
 
-2. d'inscriptions nulles;
+- d'inscriptions nulles;
 
-3. d'inscriptions valables.
+- d'inscriptions valables.
 
 Au plus tard à l'expiration du délai précité, les résultats obtenus sont à attester dans un procès-verbal, conformément au modèle figurant à l'annexe 2 de la présente loi, à transmettre, ensemble avec les listes d'inscription, au Premier Ministre, Ministre d'Etat.
 
@@ -201,11 +201,11 @@ Une fois déposées auprès du Premier Ministre, Ministre d'Etat, les listes d'i
 
 Le Premier Ministre, Ministre d'Etat, dispose d'un délai de huit jours pour vérifier tous les résultats et déterminer, pour l'ensemble des communes, le nombre total:
 
-1. d'inscriptions reçues;
+- d'inscriptions reçues;
 
-2. d'inscriptions nulles;
+- d'inscriptions nulles;
 
-3. d'inscriptions valables.
+- d'inscriptions valables.
 
 Afin de constater si l'initiative populaire en vue de l'organisation d'un référendum a abouti ou non, le Premier Ministre, Ministre d'Etat, vérifie si le nombre total d'inscriptions valables visées à l'alinéa précédent, point 3, correspond au moins à vingt-cinq mille signatures.
 
@@ -453,9 +453,9 @@ Tout électeur peut demander de voter par correspondance lors d’un référendu
 
 Peuvent être admis au vote par correspondance lors du référendum:
 
-1. les électeurs qui, pour des raisons professionnelles ou personnelles dûment justifiées, se trouvent dans l'impossibilité de se présenter en personne devant le bureau de vote auquel ils sont affectés;
+- les électeurs qui, pour des raisons professionnelles ou personnelles dûment justifiées, se trouvent dans l'impossibilité de se présenter en personne devant le bureau de vote auquel ils sont affectés;
 
-2. les Luxembourgeois et les Luxembourgeoises domiciliés à l'étranger.
+- les Luxembourgeois et les Luxembourgeoises domiciliés à l'étranger.
 
 <a id="art-48"></a>
 ## Art. 48.
@@ -494,9 +494,9 @@ Les bulletins nuls n'entrent point en compte pour fixer le nombre des voix.
 
 Sont nuls:
 
-1. tous les bulletins autres que ceux dont l'usage est permis par la présente loi;
+- tous les bulletins autres que ceux dont l'usage est permis par la présente loi;
 
-2. les bulletins qui expriment plus d'un suffrage par question posée; ceux dont les formes et dimensions ont été altérées, qui contiennent à l'intérieur un papier ou un objet quelconque, ou dont l'auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
+- les bulletins qui expriment plus d'un suffrage par question posée; ceux dont les formes et dimensions ont été altérées, qui contiennent à l'intérieur un papier ou un objet quelconque, ou dont l'auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
 
 Sont blancs, les bulletins qui ne contiennent l'expression d'aucun suffrage.
 

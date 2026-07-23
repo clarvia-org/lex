@@ -211,9 +211,9 @@ Lorsque la conciliation relative à ce litige échoue, le conseiller à l’appr
 
 La commission des litiges, après avoir entendu les parties, émet l’un des avis suivants :
 
-1. elle marque son accord à la résiliation du contrat d’apprentissage par écrit notifié aux parties concernées. La partie demandant la résiliation envoie alors une lettre recommandée de résiliation à l’autre partie. Cette lettre doit énoncer les motifs précis de la résiliation, sauf dans le cas prévu au paragraphe 3 de l’article L. 111-8 du Code du travail . Le contrat prend alors fin à la date de notification de la lettre de résiliation, sauf dans le cas prévu au point 3 de l’alinéa 2 du paragraphe 1er de l’article L. 111-8 du Code du travail où il prend fin à l’expiration d’un délai de préavis de 15 jours calendrier.
+- elle marque son accord à la résiliation du contrat d’apprentissage par écrit notifié aux parties concernées. La partie demandant la résiliation envoie alors une lettre recommandée de résiliation à l’autre partie. Cette lettre doit énoncer les motifs précis de la résiliation, sauf dans le cas prévu au paragraphe 3 de l’article L. 111-8 du Code du travail . Le contrat prend alors fin à la date de notification de la lettre de résiliation, sauf dans le cas prévu au point 3 de l’alinéa 2 du paragraphe 1er de l’article L. 111-8 du Code du travail où il prend fin à l’expiration d’un délai de préavis de 15 jours calendrier.
 
-2. elle ne marque pas son accord à la résiliation du contrat d’apprentissage. Dans cette hypothèse, la disposition prévue au dernier alinéa de l’article L. 111-9 du Code du travail est applicable.
+- elle ne marque pas son accord à la résiliation du contrat d’apprentissage. Dans cette hypothèse, la disposition prévue au dernier alinéa de l’article L. 111-9 du Code du travail est applicable.
 
 (8)
 

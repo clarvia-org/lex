@@ -34,37 +34,37 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Aux fins du présent règlement grand-ducal, on entend par :
 
-1. « plante mère », une plante identifiée destinée à la multiplication ;
+- « plante mère », une plante identifiée destinée à la multiplication ;
 
-2. « plante mère initiale proposée », une plante mère que le fournisseur a l'intention de faire accepter comme plante mère initiale ;
+- « plante mère initiale proposée », une plante mère que le fournisseur a l'intention de faire accepter comme plante mère initiale ;
 
-3. « plante mère initiale », une plante mère destinée à la production de matériels initiaux ;
+- « plante mère initiale », une plante mère destinée à la production de matériels initiaux ;
 
-4. « plante mère de base », une plante mère destinée à la production de matériels de base ;
+- « plante mère de base », une plante mère destinée à la production de matériels de base ;
 
-5. « plante mère certifiée », une plante mère destinée à la production de matériels certifiés ;
+- « plante mère certifiée », une plante mère destinée à la production de matériels certifiés ;
 
-6. « organisme nuisible », toute espèce, souche ou biotype de végétal, d'animal ou d'agent pathogène nuisible pour les végétaux ou produits végétaux qui figure sur les listes des annexes I à III ;
+- « organisme nuisible », toute espèce, souche ou biotype de végétal, d'animal ou d'agent pathogène nuisible pour les végétaux ou produits végétaux qui figure sur les listes des annexes I à III ;
 
-7. « inspection visuelle », l'examen de plantes ou de parties de plantes à l'œil nu, à l'aide d'une loupe, d'un stéréoscope ou d'un microscope ;
+- « inspection visuelle », l'examen de plantes ou de parties de plantes à l'œil nu, à l'aide d'une loupe, d'un stéréoscope ou d'un microscope ;
 
-8. « analyse », un examen autre qu'une inspection visuelle ;
+- « analyse », un examen autre qu'une inspection visuelle ;
 
-9. « plante portant des fruits », une plante issue d'une plante mère et cultivée de façon à produire des fruits qui permettront de vérifier l'identité variétale de la plante mère ;
+- « plante portant des fruits », une plante issue d'une plante mère et cultivée de façon à produire des fruits qui permettront de vérifier l'identité variétale de la plante mère ;
 
-10. « catégorie », les matériels initiaux, les matériels de base, les matériels certifiés ou les matériels CAC ;
+- « catégorie », les matériels initiaux, les matériels de base, les matériels certifiés ou les matériels CAC ;
 
-11. l'obtention de plantes mères par « multiplication », la reproduction végétative de plantes mères visant à obtenir un nombre suffisant de plantes mères dans une même catégorie ;
+- l'obtention de plantes mères par « multiplication », la reproduction végétative de plantes mères visant à obtenir un nombre suffisant de plantes mères dans une même catégorie ;
 
-12. « renouvellement », le remplacement d'une plante mère par une plante issue d'elle par voie végétative ;
+- « renouvellement », le remplacement d'une plante mère par une plante issue d'elle par voie végétative ;
 
-13. « micropropagation », la multiplication de matériels végétaux visant à produire un grand nombre de végétaux en utilisant la culture in vitro de bourgeons ou de méristèmes végétatifs différenciés prélevés sur une plante ;
+- « micropropagation », la multiplication de matériels végétaux visant à produire un grand nombre de végétaux en utilisant la culture in vitro de bourgeons ou de méristèmes végétatifs différenciés prélevés sur une plante ;
 
-14. un matériel de multiplication ou une plante fruitière « pratiquement exempt(e) de défauts », un matériel ou une plante qui présente des défauts susceptibles de nuire à sa qualité et à son utilité à un niveau compatible avec de bonnes pratiques culturales et de manutention, et égal ou inférieur au niveau supposé résulter de telles pratiques ;
+- un matériel de multiplication ou une plante fruitière « pratiquement exempt(e) de défauts », un matériel ou une plante qui présente des défauts susceptibles de nuire à sa qualité et à son utilité à un niveau compatible avec de bonnes pratiques culturales et de manutention, et égal ou inférieur au niveau supposé résulter de telles pratiques ;
 
-15. un matériel de multiplication « pratiquement exempt d'organismes nuisibles », un matériel qui présente trop peu d'organismes nuisibles pour qu'ils compromettent le caractère acceptable de sa qualité et de son utilité ;
+- un matériel de multiplication « pratiquement exempt d'organismes nuisibles », un matériel qui présente trop peu d'organismes nuisibles pour qu'ils compromettent le caractère acceptable de sa qualité et de son utilité ;
 
-16. « cryoconservation », la conservation d'un matériel végétal à des températures extrêmement basses permettant d'en préserver la viabilité.
+- « cryoconservation », la conservation d'un matériel végétal à des températures extrêmement basses permettant d'en préserver la viabilité.
 
 (2)
 
@@ -113,11 +113,11 @@ En plus des fournisseurs enregistrés conformément au présent règlement, le r
 
 Le registre des fournisseurs contient les informations suivantes :
 
-1. le nom, l'adresse et les coordonnées du fournisseur ;
+- le nom, l'adresse et les coordonnées du fournisseur ;
 
-2. les activités au sens de l'article 2, point 9 de la loi, qui sont exercées au Grand-Duché de Luxembourg par le fournisseur, l'adresse des installations concernées et les principaux genres ou espèces concernés ;
+- les activités au sens de l'article 2, point 9 de la loi, qui sont exercées au Grand-Duché de Luxembourg par le fournisseur, l'adresse des installations concernées et les principaux genres ou espèces concernés ;
 
-3. le numéro ou le code d'enregistrement.
+- le numéro ou le code d'enregistrement.
 
 (3)
 
@@ -153,15 +153,15 @@ Registre des variétés
 
 Le registre des variétés contient les informations suivantes :
 
-1. la dénomination de la variété et les synonymes ;
+- la dénomination de la variété et les synonymes ;
 
-2. l'espèce à laquelle la variété appartient ;
+- l'espèce à laquelle la variété appartient ;
 
-3. l'indication « description officielle » ou « description officiellement reconnue », selon le cas ;
+- l'indication « description officielle » ou « description officiellement reconnue », selon le cas ;
 
-4. la date de l'enregistrement ou, le cas échéant, du renouvellement de l'enregistrement ;
+- la date de l'enregistrement ou, le cas échéant, du renouvellement de l'enregistrement ;
 
-5. la date de fin de validité de l'enregistrement.
+- la date de fin de validité de l'enregistrement.
 
 (2)
 
@@ -176,21 +176,21 @@ Conditions d'enregistrement des variétés
 
 Une variété est enregistrée comme variété assortie d'une description officielle lorsqu'elle satisfait aux conditions suivantes :
 
-1. elle est distincte, homogène et stable au sens du paragraphe 2 ;
+- elle est distincte, homogène et stable au sens du paragraphe 2 ;
 
-2. un échantillon de la variété est disponible ;
+- un échantillon de la variété est disponible ;
 
-3. en ce qui concerne les variétés génétiquement modifiées, l'organisme génétiquement modifié que la variété constitue est autorisé à des fins de culture, conformément à la loi du 13 janvier 1997 relative au contrôle de l’utilisation et de la dissémination des organismes génétiquement modifiés ou au règlement (CE) n° 1829/2003 concernant les denrées alimentaires et les aliments pour animaux génétiquement modifiés.
+- en ce qui concerne les variétés génétiquement modifiées, l'organisme génétiquement modifié que la variété constitue est autorisé à des fins de culture, conformément à la loi du 13 janvier 1997 relative au contrôle de l’utilisation et de la dissémination des organismes génétiquement modifiés ou au règlement (CE) n° 1829/2003 concernant les denrées alimentaires et les aliments pour animaux génétiquement modifiés.
 
 (2)
 
 Une variété est considérée comme :
 
-1. « distincte » si elle se distingue nettement, par référence à l'expression des caractères qui résultent d'un génotype ou d'une combinaison de génotypes donnés, de toute autre variété dont l'existence est notoirement connue à la date de dépôt de la demande visée à l'article 5 ;
+- « distincte » si elle se distingue nettement, par référence à l'expression des caractères qui résultent d'un génotype ou d'une combinaison de génotypes donnés, de toute autre variété dont l'existence est notoirement connue à la date de dépôt de la demande visée à l'article 5 ;
 
-2. « homogène » si, sous réserve des variations susceptibles de résulter des particularités de sa multiplication, elle est suffisamment homogène dans l'expression des caractères compris dans l'examen de la distinction et de tout autre caractère utilisé pour la description de la variété ;
+- « homogène » si, sous réserve des variations susceptibles de résulter des particularités de sa multiplication, elle est suffisamment homogène dans l'expression des caractères compris dans l'examen de la distinction et de tout autre caractère utilisé pour la description de la variété ;
 
-3. « stable » si l'expression des caractères compris dans l'examen de la distinction et de tout autre caractère utilisé pour la description de la variété reste inchangée à la suite de multiplications successives ou, en cas de micropropagation, à la fin de chaque cycle.
+- « stable » si l'expression des caractères compris dans l'examen de la distinction et de tout autre caractère utilisé pour la description de la variété reste inchangée à la suite de multiplications successives ou, en cas de micropropagation, à la fin de chaque cycle.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -205,27 +205,27 @@ Pour l'enregistrement d'une variété comme variété assortie d'une description
 
 Sont jointes à la demande :
 
-1. les informations requises par les questionnaires techniques figurant, au moment de la demande :
+- les informations requises par les questionnaires techniques figurant, au moment de la demande :
 
-1. dans l'annexe II des « protocoles pour la conduite de l'examen des caractères distinctifs, de la stabilité et de l'homogénéité », adoptés par le conseil d'administration de l'Office communautaire des variétés végétales (OCVV), en ce qui concerne les espèces pour lesquelles un tel protocole a été publié ou, à défaut de protocoles publiés ;
+  - dans l'annexe II des « protocoles pour la conduite de l'examen des caractères distinctifs, de la stabilité et de l'homogénéité », adoptés par le conseil d'administration de l'Office communautaire des variétés végétales (OCVV), en ce qui concerne les espèces pour lesquelles un tel protocole a été publié ou, à défaut de protocoles publiés ;
 
-2. dans la section X des « principes directeurs pour la conduite de l'examen des caractères distinctifs, de l'homogénéité et de la stabilité » adoptés par l'Union internationale pour la protection des obtentions végétales (UPOV) et dans l'annexe des principes directeurs concernant les espèces pour lesquelles de tels principes directeurs ont été publiés, ou, à défaut de principes directeurs publiés ;
+  - dans la section X des « principes directeurs pour la conduite de l'examen des caractères distinctifs, de l'homogénéité et de la stabilité » adoptés par l'Union internationale pour la protection des obtentions végétales (UPOV) et dans l'annexe des principes directeurs concernant les espèces pour lesquelles de tels principes directeurs ont été publiés, ou, à défaut de principes directeurs publiés ;
 
-3. dans les dispositions nationales ;
+  - dans les dispositions nationales ;
 
-2. les informations sur l'enregistrement officiel, ou une demande d'enregistrement officiel, de la variété dans un autre État membre de l’Union européenne ;
+- les informations sur l'enregistrement officiel, ou une demande d'enregistrement officiel, de la variété dans un autre État membre de l’Union européenne ;
 
-3. une proposition de dénomination ;
+- une proposition de dénomination ;
 
-4. dans le cas d'une variété génétiquement modifiée, les documents justificatifs selon lesquels l'organisme génétiquement modifié que la variété constitue est autorisé à des fins de culture, conformément à la loi du 13 janvier 1997 précitée ou au règlement (CE) n° 1829/2003 précité.
+- dans le cas d'une variété génétiquement modifiée, les documents justificatifs selon lesquels l'organisme génétiquement modifié que la variété constitue est autorisé à des fins de culture, conformément à la loi du 13 janvier 1997 précitée ou au règlement (CE) n° 1829/2003 précité.
 
 (3)
 
 Le demandeur peut joindre les informations suivantes à sa demande :
 
-1. une description officielle établie, conformément à l'article 7, paragraphe 5 par un organisme officiel responsable d'un autre État membre de l’Union européenne ;
+- une description officielle établie, conformément à l'article 7, paragraphe 5 par un organisme officiel responsable d'un autre État membre de l’Union européenne ;
 
-2. tout autre renseignement utile.
+- tout autre renseignement utile.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -248,19 +248,19 @@ Lorsque des examens en culture doivent être réalisés, le demandeur fournit à
 
 Les examens en culture visés au paragraphe 2 sont réalisés par :
 
-1. l'organisme officiel responsable ; ou
+- l'organisme officiel responsable ; ou
 
-2. l'organisme officiel responsable d'un autre État membre de l’Union européenne ayant accepté de réaliser ces examens.
+- l'organisme officiel responsable d'un autre État membre de l’Union européenne ayant accepté de réaliser ces examens.
 
 (4)
 
 En ce qui concerne la conception de l'examen, les conditions d'expression et les caractères de la variété devant au moins être pris en compte, les examens en culture sont réalisés conformément aux dispositions ci-après :
 
-1. les « protocoles pour la conduite de l'examen des caractères distinctifs, de la stabilité et de l'homogénéité » adoptés par le conseil d'administration de l'Office communautaire des variétés végétales (OCVV) applicables au début de l'examen technique ; ou, en l'absence de protocoles publiés pour les espèces correspondantes ;
+- les « protocoles pour la conduite de l'examen des caractères distinctifs, de la stabilité et de l'homogénéité » adoptés par le conseil d'administration de l'Office communautaire des variétés végétales (OCVV) applicables au début de l'examen technique ; ou, en l'absence de protocoles publiés pour les espèces correspondantes ;
 
-2. les « principes directeurs pour la conduite de l'examen des caractères distinctifs, de l'homogénéité et de la stabilité » adoptés par l'Union internationale pour la protection des obtentions végétales (UPOV) applicables au début de l'examen technique ; ou, en l'absence de principes directeurs publiés pour les espèces correspondantes ;
+- les « principes directeurs pour la conduite de l'examen des caractères distinctifs, de l'homogénéité et de la stabilité » adoptés par l'Union internationale pour la protection des obtentions végétales (UPOV) applicables au début de l'examen technique ; ou, en l'absence de principes directeurs publiés pour les espèces correspondantes ;
 
-3. les dispositions nationales.
+- les dispositions nationales.
 
 (5)
 
@@ -299,9 +299,9 @@ Radiation d'une variété du registre des variétés
 
 L’organisme officiel responsable radie une variété du registre des variétés lorsque :
 
-1. les conditions d'enregistrement telles qu'énoncées à l'article 5 ne sont plus remplies ;
+- les conditions d'enregistrement telles qu'énoncées à l'article 5 ne sont plus remplies ;
 
-2. au moment de la demande d'enregistrement ou au cours de la procédure d'examen, des indications fausses ou frauduleuses ont été fournies au sujet des données à partir desquelles la variété a été enregistrée.
+- au moment de la demande d'enregistrement ou au cours de la procédure d'examen, des indications fausses ou frauduleuses ont été fournies au sujet des données à partir desquelles la variété a été enregistrée.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -318,13 +318,13 @@ L’organisme officiel responsable informe la Commission européenne, dans les m
 
 Sur demande, l’organisme officiel responsable met à la disposition d'un autre État membre de l’Union européenne ou de la Commission de l’Union européenne :
 
-1. la description officielle ou officiellement reconnue de variétés enregistrées dans son registre des variétés ;
+- la description officielle ou officiellement reconnue de variétés enregistrées dans son registre des variétés ;
 
-2. les résultats des examens des demandes d'enregistrement de variétés réalisés par l'État membre en application de l'article 7 ;
+- les résultats des examens des demandes d'enregistrement de variétés réalisés par l'État membre en application de l'article 7 ;
 
-3. toute autre information disponible relative à des variétés inscrites dans son registre des variétés ou radiées de ce registre ;
+- toute autre information disponible relative à des variétés inscrites dans son registre des variétés ou radiées de ce registre ;
 
-4. la liste des variétés pour lesquelles une demande d'enregistrement est en instance dans l'État membre concerné.
+- la liste des variétés pour lesquelles une demande d'enregistrement est en instance dans l'État membre concerné.
 
 #### Chapitre 3 Prescriptions applicables aux matériels de multiplication et, s’il y a lieu, aux plantes fruitières
 
@@ -339,17 +339,17 @@ Prescriptions concernant la certification des matériels initiaux
 
 Sur demande, les matériels de multiplication autres que les plantes mères, et autres que les porte-greffes n'appartenant pas à une variété, sont certifiés officiellement en tant que matériels initiaux s'ils satisfont aux conditions suivantes :
 
-1. ils sont directement issus d'une plante mère conformément à l'article 22 ou à l'article 23 ;
+- ils sont directement issus d'une plante mère conformément à l'article 22 ou à l'article 23 ;
 
-2. ils sont conformes à la description de leur variété et ladite conformité a été vérifiée en application de l'article 16 ;
+- ils sont conformes à la description de leur variété et ladite conformité a été vérifiée en application de l'article 16 ;
 
-3. leur entretien est conforme à l'article 17 ;
+- leur entretien est conforme à l'article 17 ;
 
-4. ils satisfont aux prescriptions phytosanitaires de l'article 19 ;
+- ils satisfont aux prescriptions phytosanitaires de l'article 19 ;
 
-5. si la Commission européenne a accordé une dérogation, en vertu de l'article 17, paragraphe 4 pour la culture de plantes mères initiales et de matériels initiaux dans un champ non protégé des insectes, le sol satisfait aux prescriptions de l'article 20 ;
+- si la Commission européenne a accordé une dérogation, en vertu de l'article 17, paragraphe 4 pour la culture de plantes mères initiales et de matériels initiaux dans un champ non protégé des insectes, le sol satisfait aux prescriptions de l'article 20 ;
 
-6. ils satisfont aux prescriptions de l'article 21 relatives aux défauts.
+- ils satisfont aux prescriptions de l'article 21 relatives aux défauts.
 
 (2)
 
@@ -370,17 +370,17 @@ Prescriptions concernant la certification des porte-greffes n'appartenant pas à
 
 Sur demande, les porte-greffes n'appartenant pas à une variété sont certifiés officiellement en tant que matériels initiaux s'ils satisfont aux conditions suivantes :
 
-1. ils sont directement issus d'une plante mère par reproduction végétative ou sexuelle et, en cas de reproduction sexuelle, les arbres pollinisateurs sont directement issus d'une plante mère par reproduction végétative ;
+- ils sont directement issus d'une plante mère par reproduction végétative ou sexuelle et, en cas de reproduction sexuelle, les arbres pollinisateurs sont directement issus d'une plante mère par reproduction végétative ;
 
-2. ils sont conformes à la description de leur espèce ;
+- ils sont conformes à la description de leur espèce ;
 
-3. leur entretien est conforme à l'article 17 ;
+- leur entretien est conforme à l'article 17 ;
 
-4. ils satisfont aux prescriptions phytosanitaires de l'article 19 ;
+- ils satisfont aux prescriptions phytosanitaires de l'article 19 ;
 
-5. si la Commission européenne a accordé une dérogation, en vertu de l'article 17, paragraphe 4 pour la culture de plantes mères initiales et de matériels initiaux dans un champ non protégé des insectes, le sol satisfait aux prescriptions de l'article 20 ;
+- si la Commission européenne a accordé une dérogation, en vertu de l'article 17, paragraphe 4 pour la culture de plantes mères initiales et de matériels initiaux dans un champ non protégé des insectes, le sol satisfait aux prescriptions de l'article 20 ;
 
-6. ils satisfont aux prescriptions de l'article 22 relatives aux défauts.
+- ils satisfont aux prescriptions de l'article 22 relatives aux défauts.
 
 (2)
 
@@ -407,13 +407,13 @@ L’acceptation est fondée sur une inspection officielle et sur les procédures
 
 L'organisme officiel responsable établit la conformité de la plante mère initiale à la description de sa variété en observant l'expression des caractères de la variété. Il fonde son observation sur l'un des éléments suivants :
 
-1. la description officielle pour les variétés enregistrées dans l'un des registres des États membres de l’Union européenne et pour les variétés protégées par un droit d'obtention végétale ;
+- la description officielle pour les variétés enregistrées dans l'un des registres des États membres de l’Union européenne et pour les variétés protégées par un droit d'obtention végétale ;
 
-2. la description accompagnant la demande pour les variétés qui font l'objet d'une demande d'enregistrement dans l'un des États membres de l’Union européenne, telle que visée à l'article 6, paragraphe 1 er du présent règlement grand-ducal ;
+- la description accompagnant la demande pour les variétés qui font l'objet d'une demande d'enregistrement dans l'un des États membres de l’Union européenne, telle que visée à l'article 6, paragraphe 1 er du présent règlement grand-ducal ;
 
-3. la description accompagnant la demande pour les variétés qui font l'objet d'une demande de droit d'obtention végétale ;
+- la description accompagnant la demande pour les variétés qui font l'objet d'une demande de droit d'obtention végétale ;
 
-4. la description officiellement reconnue, si la variété faisant l'objet de cette description est enregistrée dans un registre national.
+- la description officiellement reconnue, si la variété faisant l'objet de cette description est enregistrée dans un registre national.
 
 (3)
 
@@ -645,9 +645,9 @@ Les matériels de multiplication doivent être issus d'une plante mère de base.
 
 Une plante mère de base répond à l'une des conditions suivantes :
 
-1. être issue de matériels initiaux ;
+- être issue de matériels initiaux ;
 
-2. être issue d'une plante mère de base par multiplication conformément à l'article 28.
+- être issue d'une plante mère de base par multiplication conformément à l'article 28.
 
 (3)
 
@@ -657,13 +657,13 @@ Les matériels de multiplication doivent satisfaire aux prescriptions des articl
 
 Les matériels de multiplication doivent satisfaire aux prescriptions supplétives concernant :
 
-1. l'état phytosanitaire, à l'article 25 ;
+- l'état phytosanitaire, à l'article 25 ;
 
-2. le sol, à l'article 26 ;
+- le sol, à l'article 26 ;
 
-3. l'entretien des plantes mères de base et des matériels de base, à l'article 27 ;
+- l'entretien des plantes mères de base et des matériels de base, à l'article 27 ;
 
-4. les conditions de multiplication spécifiques de l'article 28.
+- les conditions de multiplication spécifiques de l'article 28.
 
 (5)
 
@@ -788,9 +788,9 @@ Les matériels de multiplication et les plantes fruitières doivent être issus 
 
 Une plante mère certifiée répond à l'une des conditions suivantes :
 
-1. être issue de matériels initiaux ;
+- être issue de matériels initiaux ;
 
-2. être issue de matériels de base.
+- être issue de matériels de base.
 
 (3)
 
@@ -891,13 +891,13 @@ Conditions applicables aux matériels CAC autres que les porte-greffes n'apparte
 
 Les matériels CAC autres que les porte-greffes n'appartenant pas à une variété ne peuvent être commercialisés que s'ils répondent aux conditions suivantes :
 
-1. ils sont issus d'une source identifiée de matériels, consignée par le fournisseur ;
+- ils sont issus d'une source identifiée de matériels, consignée par le fournisseur ;
 
-2. ils sont conformes à la description de leur variété en application de l'article 34 ;
+- ils sont conformes à la description de leur variété en application de l'article 34 ;
 
-3. ils satisfont aux prescriptions phytosanitaires de l'article 35 ;
+- ils satisfont aux prescriptions phytosanitaires de l'article 35 ;
 
-4. ils satisfont aux prescriptions de l'article 36 relatives aux défauts.
+- ils satisfont aux prescriptions de l'article 36 relatives aux défauts.
 
 (2)
 
@@ -907,9 +907,9 @@ Le fournisseur met en œuvre les actions lui permettant de se conformer au parag
 
 S'il constate qu'un matériel CAC ne répond plus aux conditions du paragraphe 1er, le fournisseur choisit l'une des actions suivantes :
 
-1. il écarte ledit matériel des autres matériels CAC ;
+- il écarte ledit matériel des autres matériels CAC ;
 
-2. il prend les mesures appropriées pour que ledit matériel réponde à nouveau aux conditions visées au paragraphe 1 er .
+- il prend les mesures appropriées pour que ledit matériel réponde à nouveau aux conditions visées au paragraphe 1 er .
 
 <a id="art-33"></a>
 ## Art. 33.
@@ -920,11 +920,11 @@ Conditions applicables aux matériels CAC dans le cas des porte-greffes n'appart
 
 Dans le cas des porte-greffes n'appartenant pas à une variété, les matériels CAC répondent aux conditions suivantes :
 
-1. ils sont conformes à la description de leur espèce ;
+- ils sont conformes à la description de leur espèce ;
 
-2. ils satisfont aux prescriptions phytosanitaires de l'article 35 ;
+- ils satisfont aux prescriptions phytosanitaires de l'article 35 ;
 
-3. ils satisfont aux prescriptions de l'article 36 relatives aux défauts.
+- ils satisfont aux prescriptions de l'article 36 relatives aux défauts.
 
 (2)
 
@@ -934,9 +934,9 @@ Le fournisseur met en œuvre les actions lui permettant de se conformer au parag
 
 S'il constate qu'un matériel CAC ne répond plus aux conditions du paragraphe 1er, le fournisseur choisit l'une des actions suivantes :
 
-1. il écarte ledit matériel des autres matériels CAC ;
+- il écarte ledit matériel des autres matériels CAC ;
 
-2. il prend les mesures appropriées pour que ledit matériel réponde à nouveau aux conditions.
+- il prend les mesures appropriées pour que ledit matériel réponde à nouveau aux conditions.
 
 <a id="art-34"></a>
 ## Art. 34.
@@ -947,13 +947,13 @@ Conformité à la description de la variété
 
 La conformité des matériels CAC à la description de leur variété est établie par l'observation de l'expression des caractères de la variété, au regard de l'un des documents suivants :
 
-1. la description officielle pour les variétés enregistrées et pour les variétés protégées par un droit d'obtention végétale ;
+- la description officielle pour les variétés enregistrées et pour les variétés protégées par un droit d'obtention végétale ;
 
-2. la description accompagnant la demande pour les variétés qui font l'objet d'une demande d'enregistrement dans l'un des États membres de l’Union européenne ;
+- la description accompagnant la demande pour les variétés qui font l'objet d'une demande d'enregistrement dans l'un des États membres de l’Union européenne ;
 
-3. la description accompagnant la demande de droit d'obtention végétale ;
+- la description accompagnant la demande de droit d'obtention végétale ;
 
-4. la description officiellement reconnue de la variété, visée à l'article 7, paragraphe 2, point c) iii) de la loi.
+- la description officiellement reconnue de la variété, visée à l'article 7, paragraphe 2, point c) iii) de la loi.
 
 (2)
 
@@ -1003,13 +1003,13 @@ Plan pour déterminer et surveiller les points critiques du processus de product
 
 Au cours de la production de matériels de multiplication et de plantes fruitières, les fournisseurs disposent, en fonction des genres ou espèces concernés, d'un plan pour déterminer et surveiller les points critiques du processus de production. Le plan doit au moins porter sur les éléments suivants :
 
-1. la localisation des plantes et leur nombre ;
+- la localisation des plantes et leur nombre ;
 
-2. le calendrier de leur culture ;
+- le calendrier de leur culture ;
 
-3. les opérations de multiplication ;
+- les opérations de multiplication ;
 
-4. les opérations de conditionnement, de stockage et de transport.
+- les opérations de conditionnement, de stockage et de transport.
 
 <a id="art-38"></a>
 ## Art. 38.
@@ -1054,31 +1054,31 @@ Les matériels de multiplication ou les plantes fruitières qui font partie d’
 
 L'étiquette fait apparaître les informations suivantes :
 
-1. la mention « Règles et normes de l'Union européenne » ;
+- la mention « Règles et normes de l'Union européenne » ;
 
-2. la mention « Grand-Duché de Luxembourg » ou le code « LU » ;
+- la mention « Grand-Duché de Luxembourg » ou le code « LU » ;
 
-3. Administration des services techniques de l’agriculture ;
+- Administration des services techniques de l’agriculture ;
 
-4. le nom du fournisseur ou son numéro/code d'enregistrement délivré par l'organisme officiel responsable ;
+- le nom du fournisseur ou son numéro/code d'enregistrement délivré par l'organisme officiel responsable ;
 
-5. le numéro de référence de l'emballage ou de la botte, le numéro de série individuel, le numéro de la semaine ou le numéro du lot ;
+- le numéro de référence de l'emballage ou de la botte, le numéro de série individuel, le numéro de la semaine ou le numéro du lot ;
 
-6. le nom botanique ;
+- le nom botanique ;
 
-7. la catégorie et, pour les matériels de base, le numéro de la génération ;
+- la catégorie et, pour les matériels de base, le numéro de la génération ;
 
-8. la dénomination de la variété et, le cas échéant, du clone ou, dans le cas de porte-greffes n'appartenant pas à une variété, le nom de l'espèce ou de l'hybride interspécifique concerné. Pour les plantes fruitières greffées, ces informations sont indiquées pour le porte-greffe et le greffon. Pour les variétés qui font l'objet d'une demande d'enregistrement officiel ou de protection des obtentions végétales en instance, ces informations indiquent : « dénomination proposée » et « demande en instance » ;
+- la dénomination de la variété et, le cas échéant, du clone ou, dans le cas de porte-greffes n'appartenant pas à une variété, le nom de l'espèce ou de l'hybride interspécifique concerné. Pour les plantes fruitières greffées, ces informations sont indiquées pour le porte-greffe et le greffon. Pour les variétés qui font l'objet d'une demande d'enregistrement officiel ou de protection des obtentions végétales en instance, ces informations indiquent : « dénomination proposée » et « demande en instance » ;
 
-9. l'indication « variété assortie d'une description officiellement reconnue », le cas échéant ;
+- l'indication « variété assortie d'une description officiellement reconnue », le cas échéant ;
 
-10. la quantité ;
+- la quantité ;
 
-11. le pays de production et le code correspondant lorsque le Grand-Duché de Luxembourg n’est pas le pays d’étiquetage ;
+- le pays de production et le code correspondant lorsque le Grand-Duché de Luxembourg n’est pas le pays d’étiquetage ;
 
-12. l'année d'émission ;
+- l'année d'émission ;
 
-13. lorsque l'étiquette d'origine est remplacée par une autre, l'année d'émission de l'étiquette d'origine.
+- lorsque l'étiquette d'origine est remplacée par une autre, l'année d'émission de l'étiquette d'origine.
 
 (3)
 
@@ -1088,11 +1088,11 @@ L'étiquette est imprimée de manière indélébile dans une des langues officie
 
 L’étiquette est :
 
-1. de couleur blanche, barrée en diagonale d’un trait violet, pour les matériaux initiaux ;
+- de couleur blanche, barrée en diagonale d’un trait violet, pour les matériaux initiaux ;
 
-2. de couleur blanche pour les matériels de base ;
+- de couleur blanche pour les matériels de base ;
 
-3. de couleur bleue pour les matériels certifiés.
+- de couleur bleue pour les matériels certifiés.
 
 (5)
 
@@ -1113,19 +1113,19 @@ Un document d'accompagnement est établi par le fournisseur concerné sous le co
 
 Le document d'accompagnement satisfait aux exigences suivantes :
 
-1. il reprend les informations visées à l'article 40, paragraphe 2, et telles que mentionnées sur l'étiquette correspondante ;
+- il reprend les informations visées à l'article 40, paragraphe 2, et telles que mentionnées sur l'étiquette correspondante ;
 
-2. il est rédigé dans une des langues officielles de l'Union ;
+- il est rédigé dans une des langues officielles de l'Union ;
 
-3. il est établi au moins en deux exemplaires (fournisseur et destinataire) ;
+- il est établi au moins en deux exemplaires (fournisseur et destinataire) ;
 
-4. il accompagne les matériels depuis les installations du fournisseur jusqu’aux installations du destinataire ;
+- il accompagne les matériels depuis les installations du fournisseur jusqu’aux installations du destinataire ;
 
-5. il mentionne le nom et l'adresse du destinataire ;
+- il mentionne le nom et l'adresse du destinataire ;
 
-6. il mentionne la date d'émission du document ;
+- il mentionne la date d'émission du document ;
 
-7. il contient, le cas échéant, des renseignements complémentaires sur les lots concernés.
+- il contient, le cas échéant, des renseignements complémentaires sur les lots concernés.
 
 (3)
 
@@ -1142,9 +1142,9 @@ Lorsque les matériels initiaux, de base ou certifiés sont commercialisés en l
 
 Les plantes ou parties de plantes de ces lots :
 
-1. sont placées dans un emballage ou un récipient fermé au sens du paragraphe 2 ; ou
+- sont placées dans un emballage ou un récipient fermé au sens du paragraphe 2 ; ou
 
-2. font partie d'une botte fermée au sens du paragraphe 2.
+- font partie d'une botte fermée au sens du paragraphe 2.
 
 (2)
 
@@ -1165,23 +1165,23 @@ Le document du fournisseur ne ressemble pas au document d’accompagnement visé
 
 Le document du fournisseur contient au moins les renseignements suivants :
 
-1. la mention « Règles et normes de l'Union européenne » ;
+- la mention « Règles et normes de l'Union européenne » ;
 
-2. la mention « Grand-Duché de Luxembourg » ou le code « LU » ;
+- la mention « Grand-Duché de Luxembourg » ou le code « LU » ;
 
-3. Administration des services techniques de l’agriculture ;
+- Administration des services techniques de l’agriculture ;
 
-4. le nom du fournisseur ou son numéro/code d’enregistrement délivré par l’organisme officiel responsable ;
+- le nom du fournisseur ou son numéro/code d’enregistrement délivré par l’organisme officiel responsable ;
 
-5. le numéro de série individuel, le numéro de la semaine ou le numéro du lot ;
+- le numéro de série individuel, le numéro de la semaine ou le numéro du lot ;
 
-6. le nom botanique ;
+- le nom botanique ;
 
-7. la mention « matériel CAC » ;
+- la mention « matériel CAC » ;
 
-8. la dénomination de la variété et, le cas échéant, du clone ou, dans le cas de porte-greffes n’appartenant pas à une variété, le nom de l’espèce ou de l’hybride interspécifique concernés. Pour les plantes fruitières greffées, ces informations sont indiquées pour le porte-greffe et le greffon. Pour les variétés qui font l’objet d’une demande d’enregistrement officiel ou de protection des obtentions végétales en instance, ces informations indiquent : « Dénomination proposée » et « Demande en instance » ;
+- la dénomination de la variété et, le cas échéant, du clone ou, dans le cas de porte-greffes n’appartenant pas à une variété, le nom de l’espèce ou de l’hybride interspécifique concernés. Pour les plantes fruitières greffées, ces informations sont indiquées pour le porte-greffe et le greffon. Pour les variétés qui font l’objet d’une demande d’enregistrement officiel ou de protection des obtentions végétales en instance, ces informations indiquent : « Dénomination proposée » et « Demande en instance » ;
 
-9. la date d’émission de document.
+- la date d’émission de document.
 
 (3)
 
@@ -1203,11 +1203,11 @@ En application de l’article 13 paragraphe 3, la formation est organisée par l
 
 Le programme de formation professionnelle spéciale et le nombre des heures y afférents sont fixés comme suit :
 
-| Première partie(2 heures) : | organisation judiciaire ;le fonctionnement du Parquet ;l’acheminement des dossiers ;la fonction de juge d'instruction et la saisine d'instruction ;la saisine des juridictions de jugement et le déroulement des audiences ;la recherche et la constatation des infractions. |
+| Première partie (2 heures) : | organisation judiciaire ; le fonctionnement du Parquet ; l’acheminement des dossiers ; la fonction de juge d'instruction et la saisine d'instruction ; la saisine des juridictions de jugement et le déroulement des audiences ; la recherche et la constatation des infractions. |
 | --- | --- |
-| Deuxième partie :(2 heures) | droits et obligations de l'officier de police judiciaire ;valeur probante. |
-| Troisième partie :(2 heures) | la constatation des infractions ;le flagrant délit ;l’ordonnance de perquisition et de saisie. |
-| Quatrième partie :(2 heures) | les lois en vertu desquelles les agents vont être assermentés et lesquelles leur attribuent des pouvoirs étendus ;les articles 13 à 16 de la loi. |
+| Deuxième partie : (2 heures) | droits et obligations de l'officier de police judiciaire ; valeur probante. |
+| Troisième partie : (2 heures) | la constatation des infractions ; le flagrant délit ; l’ordonnance de perquisition et de saisie. |
+| Quatrième partie : (2 heures) | les lois en vertu desquelles les agents vont être assermentés et lesquelles leur attribuent des pouvoirs étendus ; les articles 13 à 16 de la loi. |
 
 Les éléments de programme de la quatrième partie ne sont enseignés qu'aux fonctionnaires à assermenter en vertu de la loi du 17 novembre 2017 relative à la commercialisation des matériels de multiplication de plantes fruitières et des plantes fruitières destinées à la production de fruits.
 

@@ -32,33 +32,33 @@ Définitions
 
 Au sens du présent règlement on entend par :
 
-1. « autoroute » : une voie publique répondant aux critères de définition afférents de la Convention sur la circulation routière, signée à Vienne, le 8 novembre 1968, et approuvée par la loi du 27 mai 1975 ;
+- « autoroute » : une voie publique répondant aux critères de définition afférents de la Convention sur la circulation routière, signée à Vienne, le 8 novembre 1968, et approuvée par la loi du 27 mai 1975 ;
 
-2. « voie rapide » : une voie publique répondant aux critères afférents de l’Accord européen sur les grandes routes de trafic international (AGR), en date, à Genève, du 15 novembre 1975, et approuvé par la loi du 18 juin 1981 ;
+- « voie rapide » : une voie publique répondant aux critères afférents de l’Accord européen sur les grandes routes de trafic international (AGR), en date, à Genève, du 15 novembre 1975, et approuvé par la loi du 18 juin 1981 ;
 
-3. « zone protégée d’intérêt communautaire » : une zone telle que définie à l’article 34 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;
+- « zone protégée d’intérêt communautaire » : une zone telle que définie à l’article 34 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;
 
-4. « réserve naturelle » : une zone telle que définie à l’article 40 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;
+- « réserve naturelle » : une zone telle que définie à l’article 40 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;
 
-5. « zone de protection immédiate » : une zone telle que définie à l’article 44 de la loi modifiée du 19 décembre 2008 relative à l’eau ;
+- « zone de protection immédiate » : une zone telle que définie à l’article 44 de la loi modifiée du 19 décembre 2008 relative à l’eau ;
 
-6. « zone de protection rapprochée » : une zone telle que définie à l’article 44 de la loi modifiée du 19 décembre 2008 relative à l’eau ;
+- « zone de protection rapprochée » : une zone telle que définie à l’article 44 de la loi modifiée du 19 décembre 2008 relative à l’eau ;
 
-7. « zone protégée d’importance communale » : une zone telle que définie aux articles 46 à 48 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;
+- « zone protégée d’importance communale » : une zone telle que définie aux articles 46 à 48 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;
 
-8. « paysage protégé » : une partie du territoire telle que définie à l’article 40 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;
+- « paysage protégé » : une partie du territoire telle que définie à l’article 40 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;
 
-9. « zone de protection éloignée » : une zone telle que définie à l’article 44 de la loi modifiée du 19 décembre 2008 relative à l’eau ;
+- « zone de protection éloignée » : une zone telle que définie à l’article 44 de la loi modifiée du 19 décembre 2008 relative à l’eau ;
 
-10. « parc naturel » : une partie du territoire telle que définie à l’article 1 er de la loi modifiée du 10 août 1993 relative aux parcs naturels ;
+- « parc naturel » : une partie du territoire telle que définie à l’article 1 er de la loi modifiée du 10 août 1993 relative aux parcs naturels ;
 
-11. « zone d’habitation » : une zone telle que définie à l’article 8 du règlement grand-ducal du 8 mars 2017 concernant le contenu du plan d’aménagement général d’une commune ;
+- « zone d’habitation » : une zone telle que définie à l’article 8 du règlement grand-ducal du 8 mars 2017 concernant le contenu du plan d’aménagement général d’une commune ;
 
-12. « zone mixte » : une zone telle que définie à l’article 9 du règlement grand-ducal du 8 mars 2017 concernant le contenu du plan d’aménagement général d’une commune ;
+- « zone mixte » : une zone telle que définie à l’article 9 du règlement grand-ducal du 8 mars 2017 concernant le contenu du plan d’aménagement général d’une commune ;
 
-13. « voies pour le trafic ferroviaire à grande distance » : voies de chemin de fer nouvelles s’insérant dans un axe de chemin de fer international qui fait partie des réseaux de transports transeuropéens ;
+- « voies pour le trafic ferroviaire à grande distance » : voies de chemin de fer nouvelles s’insérant dans un axe de chemin de fer international qui fait partie des réseaux de transports transeuropéens ;
 
-14. « plateformes ferroviaires et intermodales et de terminaux intermodaux » : plateforme multimodales, pôle d’échange voyageurs, terminal conteneurs, plate-forme autoroute ferroviaire, cour à marchandises, gares routières près de gares ferroviaires, bâtiments voyageurs, aménagement de places de parcages.
+- « plateformes ferroviaires et intermodales et de terminaux intermodaux » : plateforme multimodales, pôle d’échange voyageurs, terminal conteneurs, plate-forme autoroute ferroviaire, cour à marchandises, gares routières près de gares ferroviaires, bâtiments voyageurs, aménagement de places de parcages.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -78,22 +78,22 @@ Une modification, même substantielle, d’un projet visé par le chapitre 1er, 
 
 Au règlement grand-ducal modifié du 10 mai 2012 portant nouvelles nomenclature et classification des établissements classés, l’annexe intitulée « Nomenclature et classification des établissements et projets », est modifiée comme suit :
 
-1. La colonne 5 dénommée EIE est supprimée ;
+- La colonne 5 dénommée EIE est supprimée ;
 
-2. Les alinéas 5 et 6 sont supprimés ;
+- Les alinéas 5 et 6 sont supprimés ;
 
-3. Le point de nomenclature 500304 est supprimé ;
+- Le point de nomenclature 500304 est supprimé ;
 
-4. Le point de nomenclature 080106 est supprimé.
+- Le point de nomenclature 080106 est supprimé.
 
 <a id="art-4"></a>
 ## Art. 4.
 
 Le règlement grand-ducal modifié du 24 février 2003 concernant la mise en décharge des déchets est modifié comme suit :
 
-1. À l’article 4, les termes Annexe IV : Critères rendent nécessaire l’élaboration d’une évaluation des incidences sur l’environnement sont supprimés ;
+- À l’article 4, les termes Annexe IV : Critères rendent nécessaire l’élaboration d’une évaluation des incidences sur l’environnement sont supprimés ;
 
-2. L’annexe IV est supprimée.
+- L’annexe IV est supprimée.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -102,9 +102,9 @@ Dispositions abrogatoires
 
 Sont abrogés :
 
-1. Le règlement grand-ducal du 22 janvier 2010 déterminant les critères sur base desquels les projets d’infrastructures de transports font l’objet d’une évaluation des incidences sur l’environnement ;
+- Le règlement grand-ducal du 22 janvier 2010 déterminant les critères sur base desquels les projets d’infrastructures de transports font l’objet d’une évaluation des incidences sur l’environnement ;
 
-2. Le règlement grand-ducal modifié du 7 mars 2003 concernant l’évaluation des incidences de certains projets publics et privés sur l’environnement.
+- Le règlement grand-ducal modifié du 7 mars 2003 concernant l’évaluation des incidences de certains projets publics et privés sur l’environnement.
 
 <a id="art-6"></a>
 ## Art. 6.

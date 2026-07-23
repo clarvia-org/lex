@@ -34,13 +34,13 @@ Objet
 
 Le présent règlement a pour objet l’indemnisation des dégâts commis par les espèces animales protégées suivantes, ainsi que le subventionnement des mesures préventives y relatives :
 
-1. le loup ( Canis lupus) ;
+- le loup ( Canis lupus) ;
 
-2. le castor d’Eurasie ( Castor fiber) , ci-après dénommé « castor » ;
+- le castor d’Eurasie ( Castor fiber) , ci-après dénommé « castor » ;
 
-3. le blaireau européen ( Meles meles) , ci-après dénommé « blaireau » ;
+- le blaireau européen ( Meles meles) , ci-après dénommé « blaireau » ;
 
-4. le corbeau freux ( Corvus frugilegus) , la corneille noire ( Corvus corone) et le choucas des tours ( Coloeus monedula) ; ci-après dénommés « corvidés »
+- le corbeau freux ( Corvus frugilegus) , la corneille noire ( Corvus corone) et le choucas des tours ( Coloeus monedula) ; ci-après dénommés « corvidés »
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -49,9 +49,9 @@ Définitions
 
 Au sens du présent règlement, on entend par :
 
-1. « preuve évidente de présence du loup » : faits concrets prouvant la présence d’un loup, tels par exemple la capture de l’animal vivant, la présence du cadavre du loup, une preuve génétique, une photo, une localisation par télémétrie.
+- « preuve évidente de présence du loup » : faits concrets prouvant la présence d’un loup, tels par exemple la capture de l’animal vivant, la présence du cadavre du loup, une preuve génétique, une photo, une localisation par télémétrie.
 
-2. « indice confirmé de présence du loup » : indice vérifié par une personne expérimentée, tel par exemple une trace ou une prédation, sur demande de l’Administration de la nature et des forêts, ci-après dénommée « l’administration », permettant de confirmer que l’auteur des dégâts est le loup. La personne expérimentée peut vérifier et confirmer l’indice sur le terrain ou le faire à l’aide d’une documentation pertinente établie par une personne tierce.
+- « indice confirmé de présence du loup » : indice vérifié par une personne expérimentée, tel par exemple une trace ou une prédation, sur demande de l’Administration de la nature et des forêts, ci-après dénommée « l’administration », permettant de confirmer que l’auteur des dégâts est le loup. La personne expérimentée peut vérifier et confirmer l’indice sur le terrain ou le faire à l’aide d’une documentation pertinente établie par une personne tierce.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -60,11 +60,11 @@ Bénéficiaires
 
 Le ministre ayant l’Environnement dans ses attributions accorde des indemnisations et subventions financières :
 
-1. à tout propriétaire ou détenteur subissant des dégâts aux animaux d’élevage ou aux chiens de chasse pendant l’exercice de la chasse, respectivement aux chiens de protection de troupeaux pendant l’exécution de leur mission, causés par le loup, et à tout propriétaire ou détenteur qui met en place des dispositifs de prévention d’attaques de loups ;
+- à tout propriétaire ou détenteur subissant des dégâts aux animaux d’élevage ou aux chiens de chasse pendant l’exercice de la chasse, respectivement aux chiens de protection de troupeaux pendant l’exécution de leur mission, causés par le loup, et à tout propriétaire ou détenteur qui met en place des dispositifs de prévention d’attaques de loups ;
 
-2. à tout exploitant agricole tel que défini par la loi modifiée du 2 août 2023 concernant le soutien au développement durable des zones rurales, ainsi qu’à tout propriétaire subissant des dégâts causés par le castor à sa forêt, à ses arbres fruitiers ou à ses arbres faisant partie d’un système agro-forestier ;
+- à tout exploitant agricole tel que défini par la loi modifiée du 2 août 2023 concernant le soutien au développement durable des zones rurales, ainsi qu’à tout propriétaire subissant des dégâts causés par le castor à sa forêt, à ses arbres fruitiers ou à ses arbres faisant partie d’un système agro-forestier ;
 
-3. à tout exploitant agricole tel que défini par la loi modifiée du 2 août 2023 concernant le soutien au développement durable des zones rurales subissant des dégâts causés par le blaireau et les corvidés.
+- à tout exploitant agricole tel que défini par la loi modifiée du 2 août 2023 concernant le soutien au développement durable des zones rurales subissant des dégâts causés par le blaireau et les corvidés.
 
 #### Chapitre 2 Indemnisation des dégâts commis par le loup et subventions pour dispositifs de prévention d’attaques
 
@@ -77,25 +77,25 @@ Indemnisation des dégâts causés aux animaux d’élevage
 
 Le ministre indemnise les dégâts directs causés aux animaux d’élevage qui ont été tués ou blessés par le loup, dans les cas suivants :
 
-1. au cas où le loup est identifié comme l’auteur de la mort respectivement des blessures de l’animal concerné, à hauteur de :
+- au cas où le loup est identifié comme l’auteur de la mort respectivement des blessures de l’animal concerné, à hauteur de :
 
-1. 100 pour cent de la valeur vénale de l’animal tué par le loup ou euthanasié à la suite d’une attaque de loup jusqu’à concurrence maximale de 200 % de la valeur vénale moyenne des animaux de cette même catégorie ;
+  - 100 pour cent de la valeur vénale de l’animal tué par le loup ou euthanasié à la suite d’une attaque de loup jusqu’à concurrence maximale de 200 % de la valeur vénale moyenne des animaux de cette même catégorie ;
 
-2. 100 pour cent des frais de vétérinaire en relation avec le traitement de l’animal blessé jusqu’à concurrence de la valeur vénale de l’animal ;
+  - 100 pour cent des frais de vétérinaire en relation avec le traitement de l’animal blessé jusqu’à concurrence de la valeur vénale de l’animal ;
 
-2. au cas où le loup ne peut pas être exclu comme l’auteur de la mort respectivement des blessures de l’animal concerné, à hauteur de :
+- au cas où le loup ne peut pas être exclu comme l’auteur de la mort respectivement des blessures de l’animal concerné, à hauteur de :
 
-1. 75 pour cent de la valeur vénale de l’animal tué ou euthanasié jusqu’à concurrence maximale de 200 % de la valeur vénale moyenne des animaux de cette même catégorie ;
+  - 75 pour cent de la valeur vénale de l’animal tué ou euthanasié jusqu’à concurrence maximale de 200 % de la valeur vénale moyenne des animaux de cette même catégorie ;
 
-2. 75 pour cent des frais de vétérinaire en relation avec le traitement de l’animal blessé jusqu’à concurrence de la valeur vénale de l’animal ;
+  - 75 pour cent des frais de vétérinaire en relation avec le traitement de l’animal blessé jusqu’à concurrence de la valeur vénale de l’animal ;
 
 (2)
 
 Le ministre indemnise 100 pour cent de la valeur vénale des animaux d’élevage évadés ou égarés définitivement :
 
-1. lorsque le loup est identifié comme l’auteur de la mort respectivement de la blessure d’autres animaux d’élevage faisant partie du même troupeau qui a été attaqué ; ou
+- lorsque le loup est identifié comme l’auteur de la mort respectivement de la blessure d’autres animaux d’élevage faisant partie du même troupeau qui a été attaqué ; ou
 
-2. lorsqu’il est constaté, sur base d’éléments de preuve rapportés par le propriétaire ou l’exploitant, que l’évasion ou l’égarement est dû à la présence du loup.
+- lorsqu’il est constaté, sur base d’éléments de preuve rapportés par le propriétaire ou l’exploitant, que l’évasion ou l’égarement est dû à la présence du loup.
 
 (3)
 
@@ -120,9 +120,9 @@ Indemnisation des dégâts causés aux chiens de chasse
 
 Au cas où le loup est identifié comme l’auteur de la mort respectivement des blessures d’un chien de chasse au cours d’un exercice de chasse, le ministre indemnise :
 
-1. 100 pour cent de la valeur vénale du chien de chasse tué ;
+- 100 pour cent de la valeur vénale du chien de chasse tué ;
 
-2. 100 pour cent des frais de vétérinaire en relation avec le traitement du chien de chasse blessé jusqu’à concurrence de la valeur vénale du chien concerné et dans la limite de 4 000 euros.
+- 100 pour cent des frais de vétérinaire en relation avec le traitement du chien de chasse blessé jusqu’à concurrence de la valeur vénale du chien concerné et dans la limite de 4 000 euros.
 
 L’identification du loup comme auteur de la mort ou des blessures de l’animal concerné est réalisée par un agent de l’administration conformément à l’article 6.
 
@@ -164,23 +164,23 @@ Subventions pour la mise en place de dispositifs de prévention d’attaques
 
 Le ministre accorde des subventions financières pour l’achat et la mise en place des dispositifs de prévention d’attaques de loups suivants :
 
-1. pour les propriétaires ou détenteurs de moutons ou de chèvres, 75 pour cent du coût d’achat et de mise en place de clôtures électriques à conducteurs, de clôtures électriques à filet ou de clôtures fixes type Ursus comme dispositifs de prévention d’attaques de loups, et dont les modalités de mise en place sont précisées à l’annexe. Cette subvention est accordée au demandeur qui rapporte :
+- pour les propriétaires ou détenteurs de moutons ou de chèvres, 75 pour cent du coût d’achat et de mise en place de clôtures électriques à conducteurs, de clôtures électriques à filet ou de clôtures fixes type Ursus comme dispositifs de prévention d’attaques de loups, et dont les modalités de mise en place sont précisées à l’annexe. Cette subvention est accordée au demandeur qui rapporte :
 
-1. au moins une preuve évidente de présence du loup, dans un rayon de 10 kilomètres autour du pâturage concerné, indépendamment des frontières nationales, au cours des douze mois précédant la demande, ou
+  - au moins une preuve évidente de présence du loup, dans un rayon de 10 kilomètres autour du pâturage concerné, indépendamment des frontières nationales, au cours des douze mois précédant la demande, ou
 
-2. en l’absence de preuve évidente de présence du loup, au moins trois indices confirmés de présence du loup dans un rayon de 10 kilomètres autour du pâturage concerné, indépendamment des frontières nationales, au cours des douze mois précédant la demande.
+  - en l’absence de preuve évidente de présence du loup, au moins trois indices confirmés de présence du loup dans un rayon de 10 kilomètres autour du pâturage concerné, indépendamment des frontières nationales, au cours des douze mois précédant la demande.
 
-2. pour les propriétaires ou détenteurs de moutons ou de chèvres détenant au moins cent moutons ou chèvres, 100 pour cent du prix d’achat de chiens de protection de troupeaux, dans les limites d’un chien par tranche de cent animaux et de 1 000 euros par chien. Cette subvention est accordée au demandeur qui rapporte :
+- pour les propriétaires ou détenteurs de moutons ou de chèvres détenant au moins cent moutons ou chèvres, 100 pour cent du prix d’achat de chiens de protection de troupeaux, dans les limites d’un chien par tranche de cent animaux et de 1 000 euros par chien. Cette subvention est accordée au demandeur qui rapporte :
 
-1. un certificat de formation spéciale relative à la détention et à la gestion de chiens de protection de troupeaux ;
+  - un certificat de formation spéciale relative à la détention et à la gestion de chiens de protection de troupeaux ;
 
-2. un certificat de formation spéciale pour chiens de troupeaux attestant le passage avec succès de l’examen y relatif par le chien ;
+  - un certificat de formation spéciale pour chiens de troupeaux attestant le passage avec succès de l’examen y relatif par le chien ;
 
-3. la détention et l’utilisation d’au moins deux chiens de protection par troupeau ;
+  - la détention et l’utilisation d’au moins deux chiens de protection par troupeau ;
 
-4. la mise en place préalable de clôtures comme dispositif de prévention d’attaques de loups conformément au point 1 er , à l’exception du demandeur qui pratique le pâturage itinérant.
+  - la mise en place préalable de clôtures comme dispositif de prévention d’attaques de loups conformément au point 1 er , à l’exception du demandeur qui pratique le pâturage itinérant.
 
-3. pour les propriétaires ou détenteurs d’autres animaux d’élevage et d’équidés, à l’exception des volailles, si au moins trois attaques de loup sur une même surface endéans une période de trois mois ont été constatées, 75 pour cent du coût d’achat et de mise en place de clôtures électriques à conducteurs, de clôtures électriques à filet ou de clôtures fixes type Ursus comme dispositifs de prévention d’attaques de loups, et dont les modalités de mise en place sont précisées à l’annexe.
+- pour les propriétaires ou détenteurs d’autres animaux d’élevage et d’équidés, à l’exception des volailles, si au moins trois attaques de loup sur une même surface endéans une période de trois mois ont été constatées, 75 pour cent du coût d’achat et de mise en place de clôtures électriques à conducteurs, de clôtures électriques à filet ou de clôtures fixes type Ursus comme dispositifs de prévention d’attaques de loups, et dont les modalités de mise en place sont précisées à l’annexe.
 
 #### Chapitre 3 Dégâts commis par le castor
 
@@ -284,15 +284,15 @@ La demande de subvention pour l’achat respectivement la mise en place de dispo
 
 La demande de subvention est accompagnée :
 
-1. pour l’acquisition et la mise en place de clôtures prévues à l’article 7, points 1 er et 3 : Pour la détermination du montant de la subvention, les frais de personnel ne dépassent pas les tarifs usuels pour la rémunération des travaux en régie au moment de la demande.
+- pour l’acquisition et la mise en place de clôtures prévues à l’article 7, points 1 er et 3 : Pour la détermination du montant de la subvention, les frais de personnel ne dépassent pas les tarifs usuels pour la rémunération des travaux en régie au moment de la demande.
 
-1. d’un extrait de plan cadastral ou d’un extrait de carte topographique avec indication des fonds faisant l’objet des travaux de mise en place de dispositifs de prévention ;
+  - d’un extrait de plan cadastral ou d’un extrait de carte topographique avec indication des fonds faisant l’objet des travaux de mise en place de dispositifs de prévention ;
 
-2. d’un devis des coûts d’achat respectivement de mise en place des mesures de prévention ; et
+  - d’un devis des coûts d’achat respectivement de mise en place des mesures de prévention ; et
 
-3. d’un descriptif des spécificités techniques des mesures de prévention utilisées.
+  - d’un descriptif des spécificités techniques des mesures de prévention utilisées.
 
-2. pour l’acquisition de chiens de protection de troupeaux, d’un contrat de vente précisant au moins le prix et la race du chien ainsi que les éléments visés à l’article 7, point 2, alinéa 2.
+- pour l’acquisition de chiens de protection de troupeaux, d’un contrat de vente précisant au moins le prix et la race du chien ainsi que les éléments visés à l’article 7, point 2, alinéa 2.
 
 Les dépenses faisant l’objet d’une subvention sont justifiées sur base de factures.
 

@@ -39,11 +39,11 @@ But de l’examen
 
 Le contrôle médico-sportif a pour but:
 
-1. de permettre l’accès aux compétitions sportives aux personnes aptes à les pratiquer;
+- de permettre l’accès aux compétitions sportives aux personnes aptes à les pratiquer;
 
-2. d’aider à les orienter vers une activité sportive qui leur convient;
+- d’aider à les orienter vers une activité sportive qui leur convient;
 
-3. d’assurer une surveillance médicale des sportifs détenteurs d’une licence de compétition.
+- d’assurer une surveillance médicale des sportifs détenteurs d’une licence de compétition.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -67,11 +67,11 @@ Obligation et périodicité
 
 L’examen médico-sportif est prescrit:
 
-1. avant la première délivrance de chaque licence de compétition autorisant la pratique d’une activité sportive des catégories A et B à partir de l’année au cours de laquelle le sportif atteint l’âge de sept ans;
+- avant la première délivrance de chaque licence de compétition autorisant la pratique d’une activité sportive des catégories A et B à partir de l’année au cours de laquelle le sportif atteint l’âge de sept ans;
 
-2. pour tout titulaire d’une licence de compétition autorisant la pratique des activités sportives de la catégorie A pendant l’année de calendrier au cours de laquelle il atteint l’âge de douze, quinze, vingt, trente, quarante, quarante-cinq et cinquante ans, sans préjudice des dispositions de l’article 5;
+- pour tout titulaire d’une licence de compétition autorisant la pratique des activités sportives de la catégorie A pendant l’année de calendrier au cours de laquelle il atteint l’âge de douze, quinze, vingt, trente, quarante, quarante-cinq et cinquante ans, sans préjudice des dispositions de l’article 5;
 
-3. avant la reprise de la compétition pour tout titulaire d’une licence de compétition suspendue temporairement pour dopage.
+- avant la reprise de la compétition pour tout titulaire d’une licence de compétition suspendue temporairement pour dopage.
 
 La périodicité prévue au point 2 ci-avant n’est pas requise, si le dernier examen obligatoire a eu lieu moins de douze mois avant la prochaine échéance périodique. Dans cette hypothèse, le sportif est dispensé de la prochaine échéance périodique.
 
@@ -90,9 +90,9 @@ Examens complémentaires
 
 En dehors des examens médico-sportifs prévus à l’article 4, les titulaires d’une licence de compétition dans une discipline de la catégorie A peuvent être soumis à des contrôles complémentaires suivant les modalités suivantes:
 
-1. le médecin-examinateur qui, lors d’un examen effectué en vertu de l’article 4, estime que l’état de santé d’un sportif nécessite une surveillance médicale plus suivie, peut prescrire un réexamen obligatoire avant le terme prévu pour le prochain examen périodique;
+- le médecin-examinateur qui, lors d’un examen effectué en vertu de l’article 4, estime que l’état de santé d’un sportif nécessite une surveillance médicale plus suivie, peut prescrire un réexamen obligatoire avant le terme prévu pour le prochain examen périodique;
 
-2. un médecin attaché au service de l’Etat et désigné à cet effet par le ministre compétent peut à tout moment, de sa propre initiative ou à la demande écrite et motivée d’un médecin agréé visé à l’article 10 ci-dessous, ordonner qu’un titulaire d’une licence se soumette à un contrôle complémentaire.
+- un médecin attaché au service de l’Etat et désigné à cet effet par le ministre compétent peut à tout moment, de sa propre initiative ou à la demande écrite et motivée d’un médecin agréé visé à l’article 10 ci-dessous, ordonner qu’un titulaire d’une licence se soumette à un contrôle complémentaire.
 
 L’examen de base effectué dans les centres médico-sportifs peut également être complété par une épreuve d’effort avec électrocardiogramme, dénommée ci-après «ECG» et mesure de la pression artérielle à faire réaliser auprès d’un médecin spécialiste si la personne examinée présente un facteur de risque et ceci sur décision soit du médecin examinateur soit du médecin attaché au service de l’Etat.
 
@@ -103,53 +103,53 @@ Examen médical
 
 L’examen médical de base à effectuer dans les centres médico-sportifs comprend:
 
-1. un interrogatoire portant sur
+- un interrogatoire portant sur
 
-1. l’anamnèse;
+  - l’anamnèse;
 
-2. les facteurs à risque;
+  - les facteurs à risque;
 
-2. un examen clinique portant sur
+- un examen clinique portant sur
 
-1. l’état physiologique;
+  - l’état physiologique;
 
-2. l’acuité visuelle;
+  - l’acuité visuelle;
 
-3. les organes auditifs;
+  - les organes auditifs;
 
-4. la perméabilité nasale;
+  - la perméabilité nasale;
 
-5. la cavité buccale;
+  - la cavité buccale;
 
-6. l’appareil cardio-pulmonaire;
+  - l’appareil cardio-pulmonaire;
 
-7. le système neuro-végétatif;
+  - le système neuro-végétatif;
 
-8. l’appareil locomoteur;
+  - l’appareil locomoteur;
 
-9. l’état de la croissance et du développement;
+  - l’état de la croissance et du développement;
 
-3. une étude morphologique portant sur
+- une étude morphologique portant sur
 
-1. le poids;
+  - le poids;
 
-2. la taille;
+  - la taille;
 
-3. le périmètre abdominal, en cas d’un index de la masse corporelle élevé;
+  - le périmètre abdominal, en cas d’un index de la masse corporelle élevé;
 
-4. d) la capacité vitale;
+  - d) la capacité vitale;
 
-5. le peak flow ou le volume expiratoire maximal par seconde;
+  - le peak flow ou le volume expiratoire maximal par seconde;
 
-6. la tension artérielle contrôlée aux deux bras;
+  - la tension artérielle contrôlée aux deux bras;
 
-7. l’indice de masse corporelle;
+  - l’indice de masse corporelle;
 
-4. la recherche de l’albumine, du glucose et du sang dans les urines à partir de l’âge de trente ans ;
+- la recherche de l’albumine, du glucose et du sang dans les urines à partir de l’âge de trente ans ;
 
-5. un ECG au repos à quinze, vingt et trente ans du sportif et au moment de la délivrance de la première licence, si celle-ci a lieu après l’âge de quinze ans;
+- un ECG au repos à quinze, vingt et trente ans du sportif et au moment de la délivrance de la première licence, si celle-ci a lieu après l’âge de quinze ans;
 
-6. des examens complémentaires conformément à l’article 5.
+- des examens complémentaires conformément à l’article 5.
 
 La périodicité prévue au point 5 ci-avant n’est pas requise, si le dernier examen d’ECG a eu lieu moins de douze mois avant la prochaine échéance périodique. Dans cette hypothèse, le sportif est dispensé de la prochaine échéance périodique.
 
@@ -178,13 +178,13 @@ Conclusions et communications des résultats
 
 Les sportifs examinés sont classés dans un des groupes d’aptitude suivants:
 
-1. aptitude générale;
+- aptitude générale;
 
-2. aptitude temporaire;
+- aptitude temporaire;
 
-3. inaptitude temporaire;
+- inaptitude temporaire;
 
-4. inaptitude générale.
+- inaptitude générale.
 
 Une attestation, reprenant ce classement, est établie pour chaque sportif examiné par le service médico-sportif et est communiquée aux clubs et aux fédérations sportives concernés.
 
@@ -222,11 +222,11 @@ Personnel
 
 Le personnel des centres médico-sportifs est placé sous l’autorité du ministre compétent et se compose
 
-1. de médecins agréés conformément aux dispositions de l’article 10 ci-dessus;
+- de médecins agréés conformément aux dispositions de l’article 10 ci-dessus;
 
-2. d’assistants et de secrétaires;
+- d’assistants et de secrétaires;
 
-3. de personnes chargées de la surveillance et de l’entretien du bâtiment et des locaux des centres respectifs.
+- de personnes chargées de la surveillance et de l’entretien du bâtiment et des locaux des centres respectifs.
 
 Sans préjudice de l’alinéa 1, le médecin agréé reste soumis aux conditions de responsabilité et d’assurance d’un médecin ayant le statut d’un travailleur indépendant.
 

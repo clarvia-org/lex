@@ -33,9 +33,9 @@ La quote-part dans le produit net de l'Œuvre Nationale de Secours Grande-Duches
 
 Elle est répartie entre les différents offices sociaux:
 
-1. pour un tiers de la quote-part en fonction du nombre de personnes ayant leur domicile sur le territoire de la ou des communes où l'office exerce ses missions;
+- pour un tiers de la quote-part en fonction du nombre de personnes ayant leur domicile sur le territoire de la ou des communes où l'office exerce ses missions;
 
-2. pour deux tiers de la quote-part en fonction du volume de l'aide accordée au cours de l'exercice écoulé.
+- pour deux tiers de la quote-part en fonction du volume de l'aide accordée au cours de l'exercice écoulé.
 
 <a id="art-2"></a>
 ## Art. 2.

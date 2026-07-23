@@ -33,47 +33,47 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens de la présente loi, on entend par:
 
-1. «accessibilité physique», les dispositions pour la localisation et le transport des stocks assurant leur mise en circulation ou leur livraison effective aux utilisateurs finaux et aux marchés dans des délais et conditions propres à atténuer les problèmes d’approvisionnement susceptibles de s’être posés;
+- «accessibilité physique», les dispositions pour la localisation et le transport des stocks assurant leur mise en circulation ou leur livraison effective aux utilisateurs finaux et aux marchés dans des délais et conditions propres à atténuer les problèmes d’approvisionnement susceptibles de s’être posés;
 
-2. «additifs», les substances autres que des hydrocarbures qui sont ajoutées ou mélangées à un produit pétrolier afin de modifier ses propriétés;
+- «additifs», les substances autres que des hydrocarbures qui sont ajoutées ou mélangées à un produit pétrolier afin de modifier ses propriétés;
 
-3. «année de référence», l’année civile des données de consommation ou d’importations nettes utilisées pour calculer le niveau des stocks à détenir ou le niveau des stocks effectivement détenus à un moment déterminé;
+- «année de référence», l’année civile des données de consommation ou d’importations nettes utilisées pour calculer le niveau des stocks à détenir ou le niveau des stocks effectivement détenus à un moment déterminé;
 
-4. «biocarburant», un combustible liquide ou gazeux utilisé pour le transport et produit à partir de la biomasse, la «biomasse» étant la fraction biodégradable des produits, déchets et résidus provenant de l’agriculture, y compris les substances végétales et animales, de la sylviculture et des industries connexes ainsi que la fraction biodégradable des déchets industriels et municipaux;
+- «biocarburant», un combustible liquide ou gazeux utilisé pour le transport et produit à partir de la biomasse, la «biomasse» étant la fraction biodégradable des produits, déchets et résidus provenant de l’agriculture, y compris les substances végétales et animales, de la sylviculture et des industries connexes ainsi que la fraction biodégradable des déchets industriels et municipaux;
 
-5. «consommation intérieure», l’agrégat correspondant au total, calculé conformément à l’annexe II, des quantités livrées au Luxembourg pour l’ensemble des usages énergétiques et non énergétiques, y compris les livraisons au secteur de la transformation et les livraisons à l’industrie, au secteur des transports, aux ménages et aux autres secteurs pour consommation finale ainsi que la consommation propre au secteur de l’énergie, à l’exception du combustible de raffinerie;
+- «consommation intérieure», l’agrégat correspondant au total, calculé conformément à l’annexe II, des quantités livrées au Luxembourg pour l’ensemble des usages énergétiques et non énergétiques, y compris les livraisons au secteur de la transformation et les livraisons à l’industrie, au secteur des transports, aux ménages et aux autres secteurs pour consommation finale ainsi que la consommation propre au secteur de l’énergie, à l’exception du combustible de raffinerie;
 
-6. «décision internationale effective de mise en circulation de stocks», toute décision en vigueur du conseil de direction de l’Agence Internationale de l’Energie visant à mettre du pétrole brut ou des produits pétroliers à la disposition du marché par la mise en circulation de stocks de ses membres et/ou des mesures complémentaires;
+- «décision internationale effective de mise en circulation de stocks», toute décision en vigueur du conseil de direction de l’Agence Internationale de l’Energie visant à mettre du pétrole brut ou des produits pétroliers à la disposition du marché par la mise en circulation de stocks de ses membres et/ou des mesures complémentaires;
 
-7. «entité centrale de stockage», l’organisme ou le service auquel des pouvoirs ont été conférés par un Etat membre de l’Union européenne pour agir afin d’acquérir, de maintenir ou de vendre des stocks de pétrole, notamment des stocks de sécurité et des stocks spécifiques;
+- «entité centrale de stockage», l’organisme ou le service auquel des pouvoirs ont été conférés par un Etat membre de l’Union européenne pour agir afin d’acquérir, de maintenir ou de vendre des stocks de pétrole, notamment des stocks de sécurité et des stocks spécifiques;
 
-8. «importateur pétrolier», toute personne physique ou morale établie sur le territoire d’un Etat membre de l’Union européenne qui est inscrite au registre des importateurs pétroliers en raison de l’importation sur le territoire national d’additifs, de biocarburants, d’essence moteur, d’essence aviation, de carburéacteur type essence (carburéacteur type naphta ou JP4), de carburéacteur type kérosène, de gazole/carburant diesel (fuel-oil distillé) ou de fuel-oil (à haute et à basse teneur en soufre), soit aux fins de les mettre directement ou indirectement sur le marché national, soit aux fins de les y consommer pour ses propres besoins, soit pour les réexporter;
+- «importateur pétrolier», toute personne physique ou morale établie sur le territoire d’un Etat membre de l’Union européenne qui est inscrite au registre des importateurs pétroliers en raison de l’importation sur le territoire national d’additifs, de biocarburants, d’essence moteur, d’essence aviation, de carburéacteur type essence (carburéacteur type naphta ou JP4), de carburéacteur type kérosène, de gazole/carburant diesel (fuel-oil distillé) ou de fuel-oil (à haute et à basse teneur en soufre), soit aux fins de les mettre directement ou indirectement sur le marché national, soit aux fins de les y consommer pour ses propres besoins, soit pour les réexporter;
 
-9. «infrastructure pétrolière de stockage», dépôt, raffinerie ou installation de stockage, y compris toutes les installations connexes, destinés au stockage de produits pétroliers conformément aux dispositions y relatives à l’annexe III et ayant une capacité de stockage totale minimale de 1.000 m 3 ;
+- «infrastructure pétrolière de stockage», dépôt, raffinerie ou installation de stockage, y compris toutes les installations connexes, destinés au stockage de produits pétroliers conformément aux dispositions y relatives à l’annexe III et ayant une capacité de stockage totale minimale de 1.000 m 3 ;
 
-10. «ministre», le membre du Gouvernement ayant l’Energie dans ses attributions;
+- «ministre», le membre du Gouvernement ayant l’Energie dans ses attributions;
 
-11. «opérateur pétrolier», tout importateur pétrolier, tout responsable d’une infrastructure pétrolière de stockage, tout propriétaire de stocks de sécurité, de stocks spécifiques ou de stocks commerciaux et toute personne qui affecte des stocks de sécurité ou des stocks spécifiques constitués et maintenus sur le territoire national à la couverture d’une obligation de stockage dans un autre Etat membre de l’Union européenne;
+- «opérateur pétrolier», tout importateur pétrolier, tout responsable d’une infrastructure pétrolière de stockage, tout propriétaire de stocks de sécurité, de stocks spécifiques ou de stocks commerciaux et toute personne qui affecte des stocks de sécurité ou des stocks spécifiques constitués et maintenus sur le territoire national à la couverture d’une obligation de stockage dans un autre Etat membre de l’Union européenne;
 
-12. « produits pétroliers », produits énergétiques énumérés à l’annexe A, point 3.4, du règlement (CE) n° 1099/2008 du Parlement européen et du Conseil du 22 octobre 2008 concernant les statistiques de l’énergie, tel que modifié ;
+- « produits pétroliers », produits énergétiques énumérés à l’annexe A, point 3.4, du règlement (CE) n° 1099/2008 du Parlement européen et du Conseil du 22 octobre 2008 concernant les statistiques de l’énergie, tel que modifié ;
 
-13. «registre des importateurs pétroliers», registre des importateurs pétroliers tenu par le ministre;
+- «registre des importateurs pétroliers», registre des importateurs pétroliers tenu par le ministre;
 
-14. «rupture majeure d’approvisionnement», une baisse importante et soudaine dans l’approvisionnement en pétrole brut ou en produits pétroliers de l‘Union européenne ou d’un Etat membre, qu’elle ait entraîné ou non une décision internationale effective de mise en circulation de stocks;
+- «rupture majeure d’approvisionnement», une baisse importante et soudaine dans l’approvisionnement en pétrole brut ou en produits pétroliers de l‘Union européenne ou d’un Etat membre, qu’elle ait entraîné ou non une décision internationale effective de mise en circulation de stocks;
 
-15. «stocks commerciaux», les stocks pétroliers, constitués et maintenus par des opérateurs pétroliers ou l’agence nationale de stockage de produits pétroliers, qui ne sont ni des stocks de sécurité, ni des stocks spécifiques;
+- «stocks commerciaux», les stocks pétroliers, constitués et maintenus par des opérateurs pétroliers ou l’agence nationale de stockage de produits pétroliers, qui ne sont ni des stocks de sécurité, ni des stocks spécifiques;
 
-16. «stocks de sécurité», les stocks pétroliers dont le maintien est imposé par le titre I, chapitre IV de la présente loi;
+- «stocks de sécurité», les stocks pétroliers dont le maintien est imposé par le titre I, chapitre IV de la présente loi;
 
-17. «stocks pétroliers», des stocks de produits pétroliers;
+- «stocks pétroliers», des stocks de produits pétroliers;
 
-18. «stocks spécifiques», les stocks pétroliers répondant aux critères figurant aux articles 20 et 22;
+- «stocks spécifiques», les stocks pétroliers répondant aux critères figurant aux articles 20 et 22;
 
-19. «soutes maritimes internationales», quantités de combustibles telles que définies à l’annexe A, point 2.1, du règlement (CE) n°1099/2008 du 22 octobre 2008 concernant les statistiques de l’énergie;
+- «soutes maritimes internationales», quantités de combustibles telles que définies à l’annexe A, point 2.1, du règlement (CE) n°1099/2008 du 22 octobre 2008 concernant les statistiques de l’énergie;
 
-20. «territoire européen», les territoires européens dont un Etat membre de l’Union européenne assume les relations extérieures et qui ne sont pas qualifiables de territoire régional en vertu des dispositions de la présente loi;
+- «territoire européen», les territoires européens dont un Etat membre de l’Union européenne assume les relations extérieures et qui ne sont pas qualifiables de territoire régional en vertu des dispositions de la présente loi;
 
-21. « territoire régional », les territoires se trouvant dans un rayon de 185 km à partir du centre géographique du Grand-Duché de Luxembourg fixé à 49° 46’38ˮ N et 6° 05’43” E.
+- « territoire régional », les territoires se trouvant dans un rayon de 185 km à partir du centre géographique du Grand-Duché de Luxembourg fixé à 49° 46’38ˮ N et 6° 05’43” E.
 
 #### Chapitre II Déclaration des importateurs pétroliers
 
@@ -88,35 +88,35 @@ Toute personne qui s’établit comme importateur pétrolier doit préalablement
 
 La déclaration doit être accompagnée des informations et pièces suivantes:
 
-1. l’identité et les détails de contact du déclarant, y compris les coordonnées d’un représentant joignable à tout moment;
+- l’identité et les détails de contact du déclarant, y compris les coordonnées d’un représentant joignable à tout moment;
 
-2. au cas où l’importateur pétrolier est une personne morale, une copie des statuts du déclarant et la structure de capital et d’actionnariat;
+- au cas où l’importateur pétrolier est une personne morale, une copie des statuts du déclarant et la structure de capital et d’actionnariat;
 
-3. un certificat d’inscription au registre de commerce et des sociétés ou au registre équivalent dans le pays où le déclarant est établi;
+- un certificat d’inscription au registre de commerce et des sociétés ou au registre équivalent dans le pays où le déclarant est établi;
 
-4. pour le déclarant établi au Grand-Duché de Luxembourg, les attestations délivrées par: attestations dont il ressort que le déclarant est en règle avec ses obligations relatives au paiement des cotisations de sécurité sociale, des impôts et taxes, et relative à la déclaration de la retenue d’impôt sur les traitements et salaires, à une date qui ne peut être antérieure de trois mois au jour de la déclaration.
+- pour le déclarant établi au Grand-Duché de Luxembourg, les attestations délivrées par: attestations dont il ressort que le déclarant est en règle avec ses obligations relatives au paiement des cotisations de sécurité sociale, des impôts et taxes, et relative à la déclaration de la retenue d’impôt sur les traitements et salaires, à une date qui ne peut être antérieure de trois mois au jour de la déclaration.
 
-1. le Centre d’informatique, d’affiliation et de perception des cotisations commun aux institutions de sécurité sociale,
+  - le Centre d’informatique, d’affiliation et de perception des cotisations commun aux institutions de sécurité sociale,
 
-2. l’Administration des contributions directes,
+  - l’Administration des contributions directes,
 
-3. l’Administration de l’enregistrement et des domaines,
+  - l’Administration de l’enregistrement et des domaines,
 
-5. un certificat délivré par le registre de commerce et des sociétés ou une attestation sur l’honneur du déclarant faite devant les autorités compétentes du pays de son établissement qui établissent que celui-ci n’est pas en état de faillite, ne fait pas l’objet d’une procédure de faillite, de liquidation, de cessation d’activité ou dans toute situation analogue résultant d’une procédure de même nature;
+- un certificat délivré par le registre de commerce et des sociétés ou une attestation sur l’honneur du déclarant faite devant les autorités compétentes du pays de son établissement qui établissent que celui-ci n’est pas en état de faillite, ne fait pas l’objet d’une procédure de faillite, de liquidation, de cessation d’activité ou dans toute situation analogue résultant d’une procédure de même nature;
 
-6. pour le déclarant établi en dehors du Grand-Duché de Luxembourg, les certificats prévus aux points d) et e) ou des certificats équivalents délivrés par les administrations compétentes du pays d’établissement.
+- pour le déclarant établi en dehors du Grand-Duché de Luxembourg, les certificats prévus aux points d) et e) ou des certificats équivalents délivrés par les administrations compétentes du pays d’établissement.
 
-7. copie des trois (3) derniers bilans et comptes de profits et pertes certifiés et/ou déposés conformément à la loi avec, le cas échéant, l’indication de la date exacte de clôture de l’exercice social;
+- copie des trois (3) derniers bilans et comptes de profits et pertes certifiés et/ou déposés conformément à la loi avec, le cas échéant, l’indication de la date exacte de clôture de l’exercice social;
 
-8. les volumes de produits pétroliers par produit que le déclarant entend importer;
+- les volumes de produits pétroliers par produit que le déclarant entend importer;
 
-9. les activités du déclarant dans d’autres pays;
+- les activités du déclarant dans d’autres pays;
 
-10. les volumes de stocks pétroliers par produit constitués et maintenus sur le territoire national et en dehors du territoire national;
+- les volumes de stocks pétroliers par produit constitués et maintenus sur le territoire national et en dehors du territoire national;
 
-11. les sources d’approvisionnement du déclarant;
+- les sources d’approvisionnement du déclarant;
 
-12. les catégories de clients que le déclarant prévoit d’approvisionner.
+- les catégories de clients que le déclarant prévoit d’approvisionner.
 
 (3)
 
@@ -262,21 +262,21 @@ L’importateur pétrolier qui commence une activité d’importation de produit
 
 L’information adressée au ministre dans le cadre de l’article 5, paragraphe 5, de l’article 6, paragraphe 3, de l’article 7, dernier alinéa ou de l’article 8, dernier alinéa comporte les indications suivantes:
 
-1. la date à laquelle les obligations en matière de stockage de sécurité ne sont ou ne seront plus respectées;
+- la date à laquelle les obligations en matière de stockage de sécurité ne sont ou ne seront plus respectées;
 
-2. les causes du non-respect des obligations en matière de stockage de sécurité;
+- les causes du non-respect des obligations en matière de stockage de sécurité;
 
-3. les mesures prises en vue de la constitution ou de la reconstitution des stocks de sécurité et les délais nécessaires à cette constitution ou reconstitution;
+- les mesures prises en vue de la constitution ou de la reconstitution des stocks de sécurité et les délais nécessaires à cette constitution ou reconstitution;
 
-4. l’évolution probable des stocks de sécurité pendant la période où les obligations en matière de stockage de sécurité ne sont ou ne seront plus respectées.
+- l’évolution probable des stocks de sécurité pendant la période où les obligations en matière de stockage de sécurité ne sont ou ne seront plus respectées.
 
 (2)
 
 L’information adressée au ministre dans le cadre de l’article 5, paragraphe 4, comporte les indications suivantes:
 
-1. les importations journalières moyennes nettes réellement importées pour la période considérée;
+- les importations journalières moyennes nettes réellement importées pour la période considérée;
 
-2. les causes qui expliquent cette différence.
+- les causes qui expliquent cette différence.
 
 (3)
 
@@ -286,11 +286,11 @@ Sur base des informations visées aux paragraphes 1er et 2, le ministre peut ada
 
 Sur demande motivée de l’importateur pétrolier, le ministre peut autoriser des dérogations aux articles 7 et 8 en ce qui concerne:
 
-1. le renouvellement du produit;
+- le renouvellement du produit;
 
-2. l’entretien d’infrastructures pétrolières de stockage situées sur le territoire national;
+- l’entretien d’infrastructures pétrolières de stockage situées sur le territoire national;
 
-3. les nécessités techniques.
+- les nécessités techniques.
 
 La durée de cette dérogation ne peut pas dépasser six mois.
 
@@ -309,25 +309,25 @@ La demande d’autorisation doit être adressée au ministre au moins 60 jours a
 
 La demande d’autorisation comporte:
 
-1. l’identité, l’adresse et les détails de contact du demandeur;
+- l’identité, l’adresse et les détails de contact du demandeur;
 
-2. la nature et la quantité exprimée en tonnes métriques des produits pétroliers stockés par infrastructure pétrolière de stockage;
+- la nature et la quantité exprimée en tonnes métriques des produits pétroliers stockés par infrastructure pétrolière de stockage;
 
-3. la dénomination et le lieu d’implantation des infrastructures pétrolières de stockage concernées;
+- la dénomination et le lieu d’implantation des infrastructures pétrolières de stockage concernées;
 
-4. le nom et l’adresse du responsable de l’infrastructure pétrolière de stockage concernée;
+- le nom et l’adresse du responsable de l’infrastructure pétrolière de stockage concernée;
 
-5. l’accord du responsable de l’infrastructure pétrolière de stockage pour stocker les stocks de sécurité envisagés;
+- l’accord du responsable de l’infrastructure pétrolière de stockage pour stocker les stocks de sécurité envisagés;
 
-6. la durée exacte pour laquelle ces stocks seront constitués;
+- la durée exacte pour laquelle ces stocks seront constitués;
 
-7. les mesures prises pour assurer et vérifier la disponibilité et l’accessibilité physique des stocks de sécurité;
+- les mesures prises pour assurer et vérifier la disponibilité et l’accessibilité physique des stocks de sécurité;
 
-8. les moyens en place en vue de gérer les stocks de sécurité en question en cas de rupture majeure d’approvisionnement, de décision internationale effective de mise en circulation de stocks, d’urgence particulière ou pour faire face à des crises locales;
+- les moyens en place en vue de gérer les stocks de sécurité en question en cas de rupture majeure d’approvisionnement, de décision internationale effective de mise en circulation de stocks, d’urgence particulière ou pour faire face à des crises locales;
 
-9. le cas échéant, l’autorisation des autorités compétentes de l’Etat membre concerné;
+- le cas échéant, l’autorisation des autorités compétentes de l’Etat membre concerné;
 
-10. le certificat d’inscription au registre professionnel ou au registre de commerce et des sociétés dans les conditions prévues par la législation de l’Etat membre où le demandeur est établi.
+- le certificat d’inscription au registre professionnel ou au registre de commerce et des sociétés dans les conditions prévues par la législation de l’Etat membre où le demandeur est établi.
 
 (4)
 
@@ -346,13 +346,13 @@ Le ministre prend sa décision pour autoriser ou refuser la demande dans le mois
 
 Chaque importateur pétrolier peut déléguer une partie de son obligation de stockage de sécurité à:
 
-1. l’agence;
+- l’agence;
 
-2. une ou plusieurs entité(s) centrale(s) de stockage ayant annoncé au préalable leur volonté de détenir de tels stocks, à condition que les délégations en question aient été autorisées au préalable tant par le ministre que par toutes les autorités compétentes des autres Etats membres de l’Union européenne sur le territoire desquels ces stocks seront détenus;
+- une ou plusieurs entité(s) centrale(s) de stockage ayant annoncé au préalable leur volonté de détenir de tels stocks, à condition que les délégations en question aient été autorisées au préalable tant par le ministre que par toutes les autorités compétentes des autres Etats membres de l’Union européenne sur le territoire desquels ces stocks seront détenus;
 
-3. d’autres opérateurs pétroliers disposant de stocks excédentaires ou de capacités de stockages disponibles sur les territoires européen ou régional, en dehors du territoire national, à condition que les délégations en question aient été autorisées au préalable tant par le ministre que par toutes les autorités compétentes des autres Etats membres sur le territoire desquels ces stocks seront détenus; et/ou
+- d’autres opérateurs pétroliers disposant de stocks excédentaires ou de capacités de stockages disponibles sur les territoires européen ou régional, en dehors du territoire national, à condition que les délégations en question aient été autorisées au préalable tant par le ministre que par toutes les autorités compétentes des autres Etats membres sur le territoire desquels ces stocks seront détenus; et/ou
 
-4. d’autres opérateurs pétroliers disposant de stocks excédentaires ou de capacités de stockages disponibles sur le territoire national, à condition que les délégations en question aient été communiquées au préalable au ministre.
+- d’autres opérateurs pétroliers disposant de stocks excédentaires ou de capacités de stockages disponibles sur le territoire national, à condition que les délégations en question aient été communiquées au préalable au ministre.
 
 (2)
 
@@ -369,21 +369,21 @@ L’importateur pétrolier qui veut constituer et maintenir des stocks de sécur
 
 Si ces stocks de sécurité sont constitués et maintenus sur le territoire d’un Etat membre de l’Union européenne avec lequel a été conclu un accord bilatéral en vue de l’autorisation du stockage de produits pétroliers sur le territoire de cet Etat membre, l’importateur pétrolier doit demander l’autorisation visée au paragraphe 1er au moins 30 jours avant le début de la période durant laquelle il envisage d’utiliser un stock en tant que stock de sécurité. Cette demande d’autorisation comporte:
 
-1. le nom et l’adresse de l’opérateur pétrolier ou, le cas échéant, de l’entité centrale de stockage, détenant les stocks pour le compte de l’importateur pétrolier;
+- le nom et l’adresse de l’opérateur pétrolier ou, le cas échéant, de l’entité centrale de stockage, détenant les stocks pour le compte de l’importateur pétrolier;
 
-2. la nature et la quantité exprimée en tonnes métriques des produits pétroliers stockés par infrastructure pétrolière de stockage;
+- la nature et la quantité exprimée en tonnes métriques des produits pétroliers stockés par infrastructure pétrolière de stockage;
 
-3. la dénomination et le lieu d’implantation des infrastructures pétrolières de stockage concernées;
+- la dénomination et le lieu d’implantation des infrastructures pétrolières de stockage concernées;
 
-4. le nom et l’adresse du responsable de l’infrastructure pétrolière de stockage concernée;
+- le nom et l’adresse du responsable de l’infrastructure pétrolière de stockage concernée;
 
-5. la durée exacte pour laquelle ces stocks seront constitués;
+- la durée exacte pour laquelle ces stocks seront constitués;
 
-6. les mesures prises pour assurer et vérifier la disponibilité et l’accessibilité physique des stocks de sécurité;
+- les mesures prises pour assurer et vérifier la disponibilité et l’accessibilité physique des stocks de sécurité;
 
-7. les moyens en place en vue de gérer les stocks de sécurité en question en cas de rupture majeure d’approvisionnement, de décision internationale effective de mise en circulation de stocks, d’urgence particulière ou pour faire face à des crises locales;
+- les moyens en place en vue de gérer les stocks de sécurité en question en cas de rupture majeure d’approvisionnement, de décision internationale effective de mise en circulation de stocks, d’urgence particulière ou pour faire face à des crises locales;
 
-8. les informations prévues à l’article 2, paragraphe 2 à moins que l’importateur pétrolier n’ait déjà fourni celles-ci de manière complète dans le cadre de la procédure de déclaration y visée.
+- les informations prévues à l’article 2, paragraphe 2 à moins que l’importateur pétrolier n’ait déjà fourni celles-ci de manière complète dans le cadre de la procédure de déclaration y visée.
 
 (3)
 
@@ -466,25 +466,25 @@ Lors de l’octroi de cette autorisation, le ministre tient compte de considéra
 
 La demande d’autorisation comporte:
 
-1. l’identité, l’adresse et les détails de contact du demandeur;
+- l’identité, l’adresse et les détails de contact du demandeur;
 
-2. la nature et la quantité exprimée en tonnes métriques des produits pétroliers stockés par infrastructure pétrolière de stockage;
+- la nature et la quantité exprimée en tonnes métriques des produits pétroliers stockés par infrastructure pétrolière de stockage;
 
-3. la dénomination et le lieu d’implantation des infrastructures pétrolières de stockage concernées;
+- la dénomination et le lieu d’implantation des infrastructures pétrolières de stockage concernées;
 
-4. le nom et l’adresse du responsable de l’infrastructure pétrolière de stockage concernée;
+- le nom et l’adresse du responsable de l’infrastructure pétrolière de stockage concernée;
 
-5. l’accord du responsable de l’infrastructure pétrolière de stockage pour stocker les stocks spécifiques envisagés;
+- l’accord du responsable de l’infrastructure pétrolière de stockage pour stocker les stocks spécifiques envisagés;
 
-6. la durée exacte pour laquelle ces stocks seront constitués et maintenus;
+- la durée exacte pour laquelle ces stocks seront constitués et maintenus;
 
-7. les mesures prises pour assurer et vérifier la disponibilité et l’accessibilité physique des stocks spécifiques;
+- les mesures prises pour assurer et vérifier la disponibilité et l’accessibilité physique des stocks spécifiques;
 
-8. les moyens en place en vue de gérer les stocks spécifiques en question en cas de rupture majeure d’approvisionnement, de décision internationale effective de mise en circulation de stocks, d’urgence particulière ou pour faire face à des crises locales;
+- les moyens en place en vue de gérer les stocks spécifiques en question en cas de rupture majeure d’approvisionnement, de décision internationale effective de mise en circulation de stocks, d’urgence particulière ou pour faire face à des crises locales;
 
-9. le cas échéant, l’autorisation des autorités compétentes de l’Etat membre concerné;
+- le cas échéant, l’autorisation des autorités compétentes de l’Etat membre concerné;
 
-10. le cas échéant, le certificat d’inscription au registre professionnel ou au registre de commerce et des sociétés dans les conditions prévues par la législation de l’Etat membre où le demandeur est établi.
+- le cas échéant, le certificat d’inscription au registre professionnel ou au registre de commerce et des sociétés dans les conditions prévues par la législation de l’Etat membre où le demandeur est établi.
 
 (4)
 
@@ -499,33 +499,33 @@ Le ministre prend sa décision pour autoriser ou refuser la demande dans le mois
 
 Les stocks spécifiques ne peuvent se composer que d’une ou de plusieurs des catégories de produits suivantes, telles que définies à l’annexe A, point 3.4, du règlement (CE) n° 1099/2008 précité :
 
-1. éthane,
+- éthane,
 
-2. GPL,
+- GPL,
 
-3. essence moteur,
+- essence moteur,
 
-4. essence aviation,
+- essence aviation,
 
-5. carburéacteur type essence (carburéacteur type naphta ou JP4),
+- carburéacteur type essence (carburéacteur type naphta ou JP4),
 
-6. carburéacteur de type kérosène,
+- carburéacteur de type kérosène,
 
-7. pétrole lampant,
+- pétrole lampant,
 
-8. gazole/carburant diesel (fuel-oil distillé),
+- gazole/carburant diesel (fuel-oil distillé),
 
-9. fuel-oil (à haute et à basse teneur en soufre),
+- fuel-oil (à haute et à basse teneur en soufre),
 
-10. white spirit et essences spéciales,
+- white spirit et essences spéciales,
 
-11. lubrifiants,
+- lubrifiants,
 
-12. bitume,
+- bitume,
 
-13. paraffines,
+- paraffines,
 
-14. coke de pétrole.
+- coke de pétrole.
 
 ##### Section II. Répertoire et relevés des stocks spécifiques
 
@@ -596,9 +596,9 @@ Les biocarburants et additifs ne sont pris en compte dans les calculs des obliga
 
 Sans préjudice de l’article 29, paragraphe 3, alinéa 2 les biocarburants et les additifs sont pris en compte dans les calculs des niveaux de stocks effectivement maintenus si:
 
-1. ils ont été mélangés aux produits pétroliers concernés; ou
+- ils ont été mélangés aux produits pétroliers concernés; ou
 
-2. ils sont stockés sur le territoire national, à condition qu’il soit garanti que les biocarburants et additifs seront mélangés aux produits pétroliers détenus conformément aux prescriptions en matière de stockage établies par la présente loi et qu’ils seront utilisés dans le secteur des transports.
+- ils sont stockés sur le territoire national, à condition qu’il soit garanti que les biocarburants et additifs seront mélangés aux produits pétroliers détenus conformément aux prescriptions en matière de stockage établies par la présente loi et qu’ils seront utilisés dans le secteur des transports.
 
 #### Chapitre VIII Dispositions complémentaires concernant la communication d’informations
 
@@ -607,13 +607,13 @@ Sans préjudice de l’article 29, paragraphe 3, alinéa 2 les biocarburants et 
 
 Les importateurs pétroliers sont tenus d’adresser dans les 15 jours à compter de la fin du mois un relevé au ministre indiquant les quantités en tonnes métriques importées et exportées par pays ainsi que les quantités livrées à la consommation intérieure pendant le mois précédent pour:
 
-1. les produits pétroliers, l’essence moteur étant à ventiler en essence avec ou sans plomb, avec indication de l’indice d’octane;
+- les produits pétroliers, l’essence moteur étant à ventiler en essence avec ou sans plomb, avec indication de l’indice d’octane;
 
-2. les additifs et les composés oxygénés destinés à être mélangés;
+- les additifs et les composés oxygénés destinés à être mélangés;
 
-3. les biocarburants destinés à être mélangés;
+- les biocarburants destinés à être mélangés;
 
-4. les bioessences, biodiesels et biokérosènes déjà mélangés à d’autres produits pétroliers.
+- les bioessences, biodiesels et biokérosènes déjà mélangés à d’autres produits pétroliers.
 
 <a id="art-33"></a>
 ## Art. 33.
@@ -641,9 +641,9 @@ Le ministre communique à l’agence dans les 20 jours à compter de la fin de l
 
 A la fin de chaque semestre, le directeur de l’Administration des douanes et accises communique par voie électronique au ministre les données suivantes concernant les mises à la consommation:
 
-1. les quantités de produits pétroliers mis à la consommation au cours du semestre écoulé par importateur pétrolier et par produit pétrolier;
+- les quantités de produits pétroliers mis à la consommation au cours du semestre écoulé par importateur pétrolier et par produit pétrolier;
 
-2. toute donnée disponible sur la provenance des produits pétroliers mis à la consommation au cours du semestre considéré.
+- toute donnée disponible sur la provenance des produits pétroliers mis à la consommation au cours du semestre considéré.
 
 #### Chapitre IX Surveillance du secteur des produits pétroliers
 
@@ -723,9 +723,9 @@ Les opérateurs pétroliers assurent la conservation des données, pièces, rele
 
 En cas de rupture majeure d’approvisionnement, de décision internationale effective de mise en circulation de stocks, d’urgence particulière ou pour faire face à des crises locales, un règlement grand-ducal peut prévoir les mesures pour:
 
-1. mettre en circulation rapidement, efficacement et d’une manière transparente tout ou partie des stocks de sécurité;
+- mettre en circulation rapidement, efficacement et d’une manière transparente tout ou partie des stocks de sécurité;
 
-2. restreindre de façon globale ou spécifique la consommation en fonction du déficit estimé des approvisionnements.
+- restreindre de façon globale ou spécifique la consommation en fonction du déficit estimé des approvisionnements.
 
 Les règlements qui, le cas échéant, peuvent intervenir sur base de la délégation de compétence prévue à l’article 76, alinéa 2 de la Constitution en vue de l’exécution de la présente loi sont publiés au Mémorial ou sur le site électronique installé à cet effet par le Gouvernement. La durée de la publication par voie électronique correspond à celle des effets du règlement publié. Mention du règlement et de sa publication est faite en outre au Mémorial.
 
@@ -735,11 +735,11 @@ A moins d’en disposer autrement, ces règlements entrent en vigueur le jour de
 
 En cas de rupture majeure d’approvisionnement, de décision internationale effective de mise en circulation de stocks, d’urgence particulière ou pour faire face à des crises locales, un règlement grand-ducal peut prévoir les mesures pour:
 
-1. attribuer en priorité des produits pétroliers à certaines catégories de consommateurs;
+- attribuer en priorité des produits pétroliers à certaines catégories de consommateurs;
 
-2. restreindre l’importation, l’exportation et le transport de certains ou de l’ensemble des produits pétroliers;
+- restreindre l’importation, l’exportation et le transport de certains ou de l’ensemble des produits pétroliers;
 
-3. réglementer la détention et le stockage de certains ou de l’ensemble des produits pétroliers.
+- réglementer la détention et le stockage de certains ou de l’ensemble des produits pétroliers.
 
 Les règlements grand-ducaux pris en vertu de l’alinéa 1 tiennent compte de la durée et de l’importance de la réduction prévisible de l’approvisionnement en produits pétroliers ou de considérations de sécurité d’approvisionnement.
 
@@ -796,11 +796,11 @@ Dans les cas visés au présent article, les informations demandées par le mini
 
 Lorsque le ministre constate une violation des obligations professionnelles prévues par l’article 2, paragraphe 1er, par l’article 3, paragraphes 1er et 2, par l’article 4, paragraphes 1er, 2 et 3, par l’article 5, paragraphes 1er, 2, 4 et 5, par l’article 6, paragraphes 1er, 2 et 3, par l’article 7, par l’article 8, par l’article 10, paragraphe 2, par l’article 12, paragraphe 1er, par l’article 14, paragraphe 1er, par l’article 16, par l’article 18, par l’article 21, paragraphe 1er, par l’article 25, par l’article 32, par l’article 33, par l’article 37, paragraphe 2, par l’article 38, paragraphe 2 et par l’article 39, paragraphe 3 ou par les mesures prises en exécution de ces articles, le ministre peut infliger à la personne concernée une ou plusieurs des sanctions administratives suivantes:
 
-1. un avertissement;
+- un avertissement;
 
-2. un blâme;
+- un blâme;
 
-3. une amende d’ordre de mille euros à deux millions d’euros.
+- une amende d’ordre de mille euros à deux millions d’euros.
 
 Lorsque le ministre constate une violation des obligations professionnelles prévues par les articles 5, 6, 7 et 8 ou par les mesures prises en exécution de ces articles, le ministre peut en plus des sanctions visées à l’alinéa 1 infliger à la personne concernée une interdiction temporaire allant jusqu’à un an d’importer des produits pétroliers.
 
@@ -1015,19 +1015,19 @@ L’agence peut également, pour une durée maximale de 20 ans, déléguer des t
 
 Si les stocks de sécurité visés au paragraphe 1er sont constitués et maintenus sur le territoire d’un Etat membre de l’Union européenne avec lequel a été conclu un accord bilatéral en vue de l’autorisation du stockage de produits pétroliers sur le territoire de cet Etat membre, l’agence doit demander une autorisation au ministre au moins 30 jours avant le début de la période durant laquelle elle envisage d’utiliser un stock en tant que stock de sécurité. Cette demande d’autorisation comporte:
 
-1. le nom et l’adresse de l’opérateur pétrolier ou, le cas échéant, de l’entité centrale de stockage, détenant les stocks pour le compte de l’agence;
+- le nom et l’adresse de l’opérateur pétrolier ou, le cas échéant, de l’entité centrale de stockage, détenant les stocks pour le compte de l’agence;
 
-2. la nature et la quantité exprimée en tonnes métriques des produits pétroliers stockés par infrastructure pétrolière de stockage;
+- la nature et la quantité exprimée en tonnes métriques des produits pétroliers stockés par infrastructure pétrolière de stockage;
 
-3. la dénomination et le lieu d’implantation des infrastructures pétrolières de stockage concernées;
+- la dénomination et le lieu d’implantation des infrastructures pétrolières de stockage concernées;
 
-4. le nom et l’adresse du responsable de l’infrastructure pétrolière de stockage concernée;
+- le nom et l’adresse du responsable de l’infrastructure pétrolière de stockage concernée;
 
-5. la durée exacte pour laquelle ces stocks seront constitués;
+- la durée exacte pour laquelle ces stocks seront constitués;
 
-6. les mesures prises pour assurer et vérifier la disponibilité et l’accessibilité physique des stocks de sécurité;
+- les mesures prises pour assurer et vérifier la disponibilité et l’accessibilité physique des stocks de sécurité;
 
-7. es moyens en place en vue de gérer les stocks de sécurité en question en cas de rupture majeure d’approvisionnement, de décision internationale effective de mise en circulation de stocks, d’urgence particulière ou pour faire face à des crises locales.
+- es moyens en place en vue de gérer les stocks de sécurité en question en cas de rupture majeure d’approvisionnement, de décision internationale effective de mise en circulation de stocks, d’urgence particulière ou pour faire face à des crises locales.
 
 (3)
 
@@ -1058,15 +1058,15 @@ L’agence supporte les dépenses relatives à sa mission et subvient aux frais 
 
 Les ressources de l’agence sont constituées notamment par:
 
-1. une dotation financière annuelle à charge du budget des recettes et des dépenses de l’Etat;
+- une dotation financière annuelle à charge du budget des recettes et des dépenses de l’Etat;
 
-2. d’autres participations financières de l’Etat;
+- d’autres participations financières de l’Etat;
 
-3. des recettes pour prestations et services offerts à des tiers;
+- des recettes pour prestations et services offerts à des tiers;
 
-4. des emprunts;
+- des emprunts;
 
-5. des revenus issus de participations financières, de la gestion de l’agence et de la valorisation de son patrimoine.
+- des revenus issus de participations financières, de la gestion de l’agence et de la valorisation de son patrimoine.
 
 (3)
 
@@ -1099,15 +1099,15 @@ Les actes passés au nom et en faveur de l’agence sont exempts des droits de t
 
 L’agence est administrée par un conseil d’administration composé de sept membres dont:
 
-1. trois membres proposés par le ministre;
+- trois membres proposés par le ministre;
 
-2. un membre proposé par le ministre ayant l’économie dans ses attributions;
+- un membre proposé par le ministre ayant l’économie dans ses attributions;
 
-3. un membre proposé par le ministre ayant le budget dans ses attributions;
+- un membre proposé par le ministre ayant le budget dans ses attributions;
 
-4. un membre proposé par le ministre ayant les travaux publics dans ses attributions;
+- un membre proposé par le ministre ayant les travaux publics dans ses attributions;
 
-5. un membre proposé par le ministre ayant les Transports dans ses attributions.
+- un membre proposé par le ministre ayant les Transports dans ses attributions.
 
 (2)
 
@@ -1159,43 +1159,43 @@ Le conseil d’administration définit la politique générale de l’agence dan
 
 Il statue notamment sur les points suivants:
 
-1. l’approbation du rapport d’activités;
+- l’approbation du rapport d’activités;
 
-2. les actions judiciaires à intenter;
+- les actions judiciaires à intenter;
 
-3. les conventions à conclure;
+- les conventions à conclure;
 
-4. l’acceptation et le refus de dons et de legs;
+- l’acceptation et le refus de dons et de legs;
 
-5. l’engagement et le licenciement du personnel, à l’exception du directeur;
+- l’engagement et le licenciement du personnel, à l’exception du directeur;
 
-6. la nomination du réviseur d’entreprises agréé.
+- la nomination du réviseur d’entreprises agréé.
 
 (3)
 
 Le conseil d’administration statue sur les points suivants sous réserve de l’approbation du ministre:
 
-1. la politique générale de l’agence;
+- la politique générale de l’agence;
 
-2. l’approbation du budget annuel;
+- l’approbation du budget annuel;
 
-3. le règlement d’ordre intérieur de l’agence;
+- le règlement d’ordre intérieur de l’agence;
 
-4. les programmes d’investissements annuels et pluriannuels;
+- les programmes d’investissements annuels et pluriannuels;
 
-5. l’engagement et le licenciement du directeur.
+- l’engagement et le licenciement du directeur.
 
 (4)
 
 Le conseil d’administration statue sur les points suivants sous réserve de l’approbation du Gouvernement en conseil:
 
-1. l’approbation des comptes annuels à la clôture d’exercice;
+- l’approbation des comptes annuels à la clôture d’exercice;
 
-2. les indemnités des membres du conseil d’administration;
+- les indemnités des membres du conseil d’administration;
 
-3. l’organigramme, la grille et le nombre des emplois ainsi que les conditions et modalités de rémunération;
+- l’organigramme, la grille et le nombre des emplois ainsi que les conditions et modalités de rémunération;
 
-4. les emprunts et les garanties.
+- les emprunts et les garanties.
 
 (5)
 
@@ -1300,15 +1300,15 @@ Le ministre peut conclure des contrats de programme avec des entreprises du sect
 
 À défaut de conclusion de contrats de programme, le ministre peut déterminer des prix de vente maxima pour différents produits pétroliers selon un mode de calcul journalier arrêté par règlement grand-ducal. Ce calcul prend en compte :
 
-1. les cotations des différents produits pétroliers ;
+- les cotations des différents produits pétroliers ;
 
-2. le cours de change du dollar américain en euro ;
+- le cours de change du dollar américain en euro ;
 
-3. les marges de distribution que le ministre négocie tous les deux ans avec le secteur pétrolier. À défaut d’accord, les dernières marges de distribution appliquées sont intégrées dans la formule de calcul ;
+- les marges de distribution que le ministre négocie tous les deux ans avec le secteur pétrolier. À défaut d’accord, les dernières marges de distribution appliquées sont intégrées dans la formule de calcul ;
 
-4. les droits d’accise et les taxes assimilées sur les produits énergétiques ainsi que la taxe sur la valeur ajoutée ;
+- les droits d’accise et les taxes assimilées sur les produits énergétiques ainsi que la taxe sur la valeur ajoutée ;
 
-5. les paramètres de la composante biofioul obligatoire.
+- les paramètres de la composante biofioul obligatoire.
 
 Les prix maxima ainsi calculés sont automatiquement adaptés selon un mécanisme déclencheur qui prend en compte l’évolution des écarts entre ces prix maxima et les prix maxima virtuels déterminés sur base des éléments énumérés sous les points 1° à 5°. Le règlement grand-ducal visé à l’alinéa 2 fixe les détails des modalités de cette adaptation automatique.
 

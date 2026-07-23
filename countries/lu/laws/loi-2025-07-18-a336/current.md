@@ -37,17 +37,17 @@ Il est créé un droit à un complément pour personnes âgées, ci-après « co
 
 Le complément couvre :
 
-1. le prix d’hébergement du logement dans une structure d’hébergement pour personnes âgées agréée ou dans un logement encadré agréé ;
+- le prix d’hébergement du logement dans une structure d’hébergement pour personnes âgées agréée ou dans un logement encadré agréé ;
 
-2. les frais pour les services et produits suivants :
+- les frais pour les services et produits suivants :
 
-1. fourniture et entretien régulier du linge plat ainsi que de serviettes et gants de toilette ;
+  - fourniture et entretien régulier du linge plat ainsi que de serviettes et gants de toilette ;
 
-2. marquage et lavage régulier du linge privé à l’exception du nettoyage à sec ;
+  - marquage et lavage régulier du linge privé à l’exception du nettoyage à sec ;
 
-3. mise à disposition régulière de produits d’hygiène corporelle de base nécessaires au nettoyage et à la protection du corps, des cheveux, du visage, des mains, des dents, des oreilles et des ongles ;
+  - mise à disposition régulière de produits d’hygiène corporelle de base nécessaires au nettoyage et à la protection du corps, des cheveux, du visage, des mains, des dents, des oreilles et des ongles ;
 
-4. mise à disposition d’un poste de télévision, d’un poste de téléphonie et d’une connexion Internet ainsi que des abonnements de base afférents.
+  - mise à disposition d’un poste de télévision, d’un poste de téléphonie et d’une connexion Internet ainsi que des abonnements de base afférents.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -56,11 +56,11 @@ Le complément couvre :
 
 Peut prétendre au complément toute personne qui remplit les conditions suivantes :
 
-1. être admise dans une structure d’hébergement pour personnes âgées agréée conformément à la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées ou dans un logement encadré agréé ;
+- être admise dans une structure d’hébergement pour personnes âgées agréée conformément à la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées ou dans un logement encadré agréé ;
 
-2. bénéficier d’un droit au séjour, être inscrite au registre principal du registre national des personnes physiques et résider effectivement au lieu où est établi sa résidence habituelle ;
+- bénéficier d’un droit au séjour, être inscrite au registre principal du registre national des personnes physiques et résider effectivement au lieu où est établi sa résidence habituelle ;
 
-3. disposer de ressources personnelles conformément aux dispositions de l’article 3, paragraphe 1 er , point 4°.
+- disposer de ressources personnelles conformément aux dispositions de l’article 3, paragraphe 1 er , point 4°.
 
 (2)
 
@@ -85,13 +85,13 @@ Ne peut prétendre au complément, la personne qui est bénéficiaire d’une pr
 
 Le montant mensuel du complément dû par personne est déterminé en fonction :
 
-1. de la moyenne de tous les montants des prix d’hébergement mensuels renseignés au registre institué par l’article 8 de la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées pour chaque chambre individuelle faisant partie d’une structure d’hébergement agréée qui ne peut pas être dépassée sous réserve des dispositions prévues au point 3° ;
+- de la moyenne de tous les montants des prix d’hébergement mensuels renseignés au registre institué par l’article 8 de la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées pour chaque chambre individuelle faisant partie d’une structure d’hébergement agréée qui ne peut pas être dépassée sous réserve des dispositions prévues au point 3° ;
 
-2. du montant du prix d’hébergement mensuel du logement proposé au bénéficiaire tel qu’il est indiqué au registre précité qui ne peut être dépassé sous réserve des dispositions prévues au point 3°. Si deux personnes partagent une chambre double, le prix d’hébergement mensuel demandé pour la chambre double est divisé par deux pour déterminer le montant limite applicable par personne ;
+- du montant du prix d’hébergement mensuel du logement proposé au bénéficiaire tel qu’il est indiqué au registre précité qui ne peut être dépassé sous réserve des dispositions prévues au point 3°. Si deux personnes partagent une chambre double, le prix d’hébergement mensuel demandé pour la chambre double est divisé par deux pour déterminer le montant limite applicable par personne ;
 
-3. d’une majoration de 28 euros au nombre 100 de l’indice pondéré du coût de la vie au 1 er janvier 1948 par rapport au prix d’hébergement mensuel servant de base de calcul pour couvrir les services et produits prévus à l’article 1 er , paragraphe 2, point 2° ;
+- d’une majoration de 28 euros au nombre 100 de l’indice pondéré du coût de la vie au 1 er janvier 1948 par rapport au prix d’hébergement mensuel servant de base de calcul pour couvrir les services et produits prévus à l’article 1 er , paragraphe 2, point 2° ;
 
-4. des ressources personnelles du requérant dont il dispose soit à titre individuel, soit ensemble avec son époux ou partenaire au sens de l’article 2 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, ci-après « partenaire ». Les ressources personnelles sont déterminées conformément aux articles 4 à 9 et ne peuvent dépasser la somme du montant dû aux termes du complément et du montant mensuel immunisé sur les ressources personnelles du bénéficiaire.
+- des ressources personnelles du requérant dont il dispose soit à titre individuel, soit ensemble avec son époux ou partenaire au sens de l’article 2 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, ci-après « partenaire ». Les ressources personnelles sont déterminées conformément aux articles 4 à 9 et ne peuvent dépasser la somme du montant dû aux termes du complément et du montant mensuel immunisé sur les ressources personnelles du bénéficiaire.
 
 (2)
 
@@ -163,9 +163,9 @@ Si le requérant dispose d’une fortune immobilière située au Grand-Duché de
 
 La valeur de la fortune immobilière, située au Grand-Duché de Luxembourg, est déterminée comme suit :
 
-1. les valeurs unitaires telles qu’elles sont fixées par l’Administration des contributions directes pour établir la base d’assiette de l’impôt foncier des terrains agricoles ou forestiers sont multipliées par le coefficient de cent-vingt ;
+- les valeurs unitaires telles qu’elles sont fixées par l’Administration des contributions directes pour établir la base d’assiette de l’impôt foncier des terrains agricoles ou forestiers sont multipliées par le coefficient de cent-vingt ;
 
-2. les valeurs unitaires telles qu’elles sont fixées par l’Administration des contributions directes pour établir la base d’assiette de l’impôt foncier de tous les immeubles non visés au point 1° sont multipliées par le coefficient de deux cents.
+- les valeurs unitaires telles qu’elles sont fixées par l’Administration des contributions directes pour établir la base d’assiette de l’impôt foncier de tous les immeubles non visés au point 1° sont multipliées par le coefficient de deux cents.
 
 En cas de désaccord sur la valeur ainsi déterminée, celle-ci peut être déterminée par un acte notarié récent ou une expertise établie par un expert assermenté.
 
@@ -267,11 +267,11 @@ Le complément est supprimé si les conditions qui l’ont motivé viennent à d
 
 Le complément est relevé, réduit ou retiré avec effet rétroactif si :
 
-1. les éléments de calcul du complément se modifient ou s’il est constaté qu’il a été accordé par suite d’une erreur matérielle ;
+- les éléments de calcul du complément se modifient ou s’il est constaté qu’il a été accordé par suite d’une erreur matérielle ;
 
-2. le bénéficiaire a fait une déclaration incomplète ou inexacte au Fonds ;
+- le bénéficiaire a fait une déclaration incomplète ou inexacte au Fonds ;
 
-3. le bénéficiaire a omis d’avertir le Fonds endéans un mois d’une circonstance pouvant entraîner une modification du complément.
+- le bénéficiaire a omis d’avertir le Fonds endéans un mois d’une circonstance pouvant entraîner une modification du complément.
 
 (2)
 
@@ -290,21 +290,21 @@ Les sommes indûment touchées sont à restituer par le bénéficiaire ou ses ay
 
 Le Fonds réclame la somme par lui versée au titre du complément :
 
-1. contre le bénéficiaire revenu à meilleure fortune ;
+- contre le bénéficiaire revenu à meilleure fortune ;
 
-2. contre le donataire du bénéficiaire du complément lorsque ce dernier a fait la donation directe ou indirecte postérieurement à la demande du complément ou dans les dix ans qui ont précédé cette demande, au maximum jusqu’à concurrence de la valeur des biens, au jour de la donation ;
+- contre le donataire du bénéficiaire du complément lorsque ce dernier a fait la donation directe ou indirecte postérieurement à la demande du complément ou dans les dix ans qui ont précédé cette demande, au maximum jusqu’à concurrence de la valeur des biens, au jour de la donation ;
 
-3. contre le légataire du bénéficiaire du complément, au maximum jusqu’à concurrence de la valeur des biens à lui légués au jour de l’ouverture de la succession.
+- contre le légataire du bénéficiaire du complément, au maximum jusqu’à concurrence de la valeur des biens à lui légués au jour de l’ouverture de la succession.
 
 (2)
 
 À l’égard de la succession du bénéficiaire du complément, le Fonds réclame la restitution des sommes versées suivant les modalités ci-après :
 
-1. lorsque la succession d’un bénéficiaire échoit en tout ou en partie au conjoint survivant ou au partenaire ou à des successeurs en ligne directe, le Fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l’actif de la succession fixée à 29 747 euros au nombre 100 de l’indice pondéré du coût de la vie au 1 er janvier 1948.
+- lorsque la succession d’un bénéficiaire échoit en tout ou en partie au conjoint survivant ou au partenaire ou à des successeurs en ligne directe, le Fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l’actif de la succession fixée à 29 747 euros au nombre 100 de l’indice pondéré du coût de la vie au 1 er janvier 1948.
 
 Lorsque le conjoint survivant ou le partenaire ou un autre successeur en ligne directe d’un bénéficiaire du complément continue à habiter dans un immeuble ayant appartenu soit au bénéficiaire seul, soit conjointement au bénéficiaire du complément et à son conjoint ou à son partenaire, le Fonds ne peut pas, tant que dure cette situation, faire valoir une demande en restitution sur cet immeuble et sur les meubles meublants le garnissant. Toutefois, pour garantir les droits à une restitution ultérieure, l’immeuble est grevé d’une hypothèque légale dont l’inscription est requise par le Fonds.
 
-1. À défaut de successeurs en ligne directe et de conjoint ou partenaire survivant, le Fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l’actif de la succession fixée à 180 euros au nombre 100 de l’indice pondéré du coût de vie au 1 er janvier 1948, sans distinction du nombre de successeurs entrant en ligne de compte.
+- À défaut de successeurs en ligne directe et de conjoint ou partenaire survivant, le Fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l’actif de la succession fixée à 180 euros au nombre 100 de l’indice pondéré du coût de vie au 1 er janvier 1948, sans distinction du nombre de successeurs entrant en ligne de compte.
 
 <a id="art-15"></a>
 ## Art. 15.

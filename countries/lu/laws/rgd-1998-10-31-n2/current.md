@@ -51,7 +51,7 @@ Le présent règlement s’applique à tous les emballages mis sur le marché lu
 
 2.
 
-Le présent règlement s’applique sans préjudice des exigences existantes en matière de qualité des emballages telles que celles qui concernent la sécurité, la protection de la santé et l’hygiène des produits emballés et sans préjudice des exigences existantes en matière de transport et des dispositions «du règlement grand-ducal modifié du 11 décembre 1996 relatif aux déchets dangereux».
+Le présent règlement s’applique sans préjudice des exigences existantes en matière de qualité des emballages telles que celles qui concernent la sécurité, la protection de la santé et l’hygiène des produits emballés et sans préjudice des exigences existantes en matière de transport et des dispositions «du règlement grand-ducal modifié du 11 décembre 1996 relatif aux déchets dangereux» .
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -62,86 +62,86 @@ Aux fins du présent règlement, on entend par:
 
 ( Règl. g.-d. du 22 février 2006 )
 
-1. «emballage»: tout produit constitué de matériaux de toute nature, destiné à contenir et à protéger des marchandises données, allant des matières premières aux produits finis, à permettre leur manutention et leur acheminement du producteur au consommateur ou à l’utilisateur, et à assurer leur présentation. Tous les articles à jeter utilisés aux mêmes fins doivent être considérés comme des emballages. L’emballage est uniquement constitué de: La définition de la notion «d’emballages» doit reposer en outre sur les critères exposés ci-dessous. Les articles énumérés à l’annexe III du présent règlement sont des exemples illustrant l’application de ces critères.
+- «emballage»: tout produit constitué de matériaux de toute nature, destiné à contenir et à protéger des marchandises données, allant des matières premières aux produits finis, à permettre leur manutention et leur acheminement du producteur au consommateur ou à l’utilisateur, et à assurer leur présentation. Tous les articles à jeter utilisés aux mêmes fins doivent être considérés comme des emballages. L’emballage est uniquement constitué de: La définition de la notion «d’emballages» doit reposer en outre sur les critères exposés ci-dessous. Les articles énumérés à l’annexe III du présent règlement sont des exemples illustrant l’application de ces critères.
 
-1. l’emballage de vente ou emballage primaire, c’est-à-dire l’emballage conçu de manière à constituer au point de vente une unité de vente pour l’utilisateur final ou le consommateur;
+  - l’emballage de vente ou emballage primaire, c’est-à-dire l’emballage conçu de manière à constituer au point de vente une unité de vente pour l’utilisateur final ou le consommateur;
 
-2. l’emballage de groupage ou emballage secondaire, c’est-à-dire l’emballage conçu de manière à constituer au point de vente un groupe d’un certain nombre d’unités de vente, qu’il soit vendu tel quel à l’utilisateur final ou au consommateur, ou qu’il serve seulement à garnir les présentoirs au point de vente; il peut être enlevé du produit sans en modifier les caractéristiques;
+  - l’emballage de groupage ou emballage secondaire, c’est-à-dire l’emballage conçu de manière à constituer au point de vente un groupe d’un certain nombre d’unités de vente, qu’il soit vendu tel quel à l’utilisateur final ou au consommateur, ou qu’il serve seulement à garnir les présentoirs au point de vente; il peut être enlevé du produit sans en modifier les caractéristiques;
 
-3. l’emballage de transport ou emballage tertiaire, c’est-à-dire l’emballage conçu de manière à faciliter la manutention et le transport d’un certain nombre d’unités de vente ou d’emballages de groupage en vue d’éviter leur manipulation physique et les dommages liés au transport. L’emballage de transport ne comprend pas les conteneurs de transport routier, ferroviaire, maritime et aérien.
+  - l’emballage de transport ou emballage tertiaire, c’est-à-dire l’emballage conçu de manière à faciliter la manutention et le transport d’un certain nombre d’unités de vente ou d’emballages de groupage en vue d’éviter leur manipulation physique et les dommages liés au transport. L’emballage de transport ne comprend pas les conteneurs de transport routier, ferroviaire, maritime et aérien.
 
-1. Un article est considéré comme un emballage s’il correspond à la définition susmentionnée, sans préjudice d’autres fonctions que l’emballage pourrait également avoir, à moins que l’article ne fasse partie intégrante d’un produit et qu’il ne soit nécessaire pour contenir, soutenir ou conserver ce produit durant tout son cycle de vie et que tous les éléments ne soient destinés à être utilisés, consommés ou éliminés ensemble.
+  - Un article est considéré comme un emballage s’il correspond à la définition susmentionnée, sans préjudice d’autres fonctions que l’emballage pourrait également avoir, à moins que l’article ne fasse partie intégrante d’un produit et qu’il ne soit nécessaire pour contenir, soutenir ou conserver ce produit durant tout son cycle de vie et que tous les éléments ne soient destinés à être utilisés, consommés ou éliminés ensemble.
 
-2. Les articles conçus pour être remplis au point de vente et les articles à usage unique vendus, remplis ou conçus pour être remplis au point de vente sont considérés comme des emballages pour autant qu’ils jouent un rôle d’emballage.
+  - Les articles conçus pour être remplis au point de vente et les articles à usage unique vendus, remplis ou conçus pour être remplis au point de vente sont considérés comme des emballages pour autant qu’ils jouent un rôle d’emballage.
 
-3. Les composants d’emballages et les éléments auxiliaires intégrés à l’emballage sont considérés comme des parties de l’emballage auquel ils sont intégrés. Les éléments auxiliaires accrochés directement ou fixés à un produit et qui jouent un rôle d’emballage sont considérés comme des emballages, à moins qu’ils ne fassent partie intégrante d’un produit et que tous les éléments ne soient destinés à être consommés ou éliminés ensemble;»
+  - Les composants d’emballages et les éléments auxiliaires intégrés à l’emballage sont considérés comme des parties de l’emballage auquel ils sont intégrés. Les éléments auxiliaires accrochés directement ou fixés à un produit et qui jouent un rôle d’emballage sont considérés comme des emballages, à moins qu’ils ne fassent partie intégrante d’un produit et que tous les éléments ne soient destinés à être consommés ou éliminés ensemble;»
 
-1. «déchets d’emballages»: tout emballage ou matériau d’emballage couvert par la définition des déchets figurant à l’article 3 a) de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets, à l’exclusion des résidus de production;
+- «déchets d’emballages»: tout emballage ou matériau d’emballage couvert par la définition des déchets figurant à l’article 3 a) de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets, à l’exclusion des résidus de production;
 
-2. «gestion des déchets d’emballages»: la gestion des déchets, telle que définie à l’article 3 o) de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets;
+- «gestion des déchets d’emballages»: la gestion des déchets, telle que définie à l’article 3 o) de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets;
 
-3. «déchets d’emballages d’origine ménagère»: les déchets d’emballages provenant de l’activité normale des ménages ainsi que les déchets d’emballages qui y sont assimilés, c’est-à-dire dont la nature est identique ou similaire à celle des déchets d’emballages ménagers, tout en ayant des origines autres que domestiques. Le ministre peut établir une liste indicative des déchets d’emballages assimilés;
+- «déchets d’emballages d’origine ménagère»: les déchets d’emballages provenant de l’activité normale des ménages ainsi que les déchets d’emballages qui y sont assimilés, c’est-à-dire dont la nature est identique ou similaire à celle des déchets d’emballages ménagers, tout en ayant des origines autres que domestiques. Le ministre peut établir une liste indicative des déchets d’emballages assimilés;
 
-4. «déchets d’emballages d’origine non ménagère»: tout déchet d’emballages n’étant pas considéré comme un déchet d’emballages d’origine ménagère;
+- «déchets d’emballages d’origine non ménagère»: tout déchet d’emballages n’étant pas considéré comme un déchet d’emballages d’origine ménagère;
 
-5. «matériau d’emballage»: toute matière simple ou composée d’origine naturelle ou artificielle composant un emballage;
+- «matériau d’emballage»: toute matière simple ou composée d’origine naturelle ou artificielle composant un emballage;
 
-6. «prévention»: la réduction de la quantité et de la nocivité pour l’environnement: notamment par la mise au point de produits et de techniques non polluants;
+- «prévention»: la réduction de la quantité et de la nocivité pour l’environnement: notamment par la mise au point de produits et de techniques non polluants;
 
-- des matières et des substances utilisées dans les emballages et les déchets d’emballages,
+  - des matières et des substances utilisées dans les emballages et les déchets d’emballages,
 
-- des emballages et déchets d’emballages aux stades du procédé de production, de la commercialisation, de la distribution, de l’utilisation et de l’élimination,
+  - des emballages et déchets d’emballages aux stades du procédé de production, de la commercialisation, de la distribution, de l’utilisation et de l’élimination,
 
-7. «réutilisation»: toute opération par laquelle un emballage qui a été conçu et créé pour pouvoir accomplir pendant son cycle de vie un nombre minimal de trajets ou de rotations est rempli à nouveau ou réutilisé pour un usage identique à celui pour lequel il a été conçu, avec ou sans le recours à des produits auxiliaires présents sur le marché qui permettent la réutilisation de l’emballage même; un tel emballage réutilisé deviendra un déchet d’emballage lorsqu’il ne sera plus réutilisé;
+- «réutilisation»: toute opération par laquelle un emballage qui a été conçu et créé pour pouvoir accomplir pendant son cycle de vie un nombre minimal de trajets ou de rotations est rempli à nouveau ou réutilisé pour un usage identique à celui pour lequel il a été conçu, avec ou sans le recours à des produits auxiliaires présents sur le marché qui permettent la réutilisation de l’emballage même; un tel emballage réutilisé deviendra un déchet d’emballage lorsqu’il ne sera plus réutilisé;
 
-8. «valorisation»: toute opération applicable en l’espèce, prévue à l’annexe III de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets;
+- «valorisation»: toute opération applicable en l’espèce, prévue à l’annexe III de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets;
 
-9. «recyclage»: le retraitement dans un processus de production des déchets aux fins de leur fonction initiale ou à d’autres fins, y compris le recyclage organique, mais à l’exclusion de la valorisation énergétique;
+- «recyclage»: le retraitement dans un processus de production des déchets aux fins de leur fonction initiale ou à d’autres fins, y compris le recyclage organique, mais à l’exclusion de la valorisation énergétique;
 
-10. «valorisation énergétique»: l’utilisation de déchets d’emballages en tant que combustibles de substitution dans une installation industrielle avec récupération de la chaleur;
+- «valorisation énergétique»: l’utilisation de déchets d’emballages en tant que combustibles de substitution dans une installation industrielle avec récupération de la chaleur;
 
-11. «recyclage organique»: le traitement aérobie (compostage) ou anaérobie (biométhanisation), par des microorganismes et dans des conditions contrôlées, des parties biodégradables des déchets d’emballages, avec production d’amendements organiques stabilisés ou de méthane. L’enfouissement en décharge ne peut être considéré comme une forme de recyclage organique;
+- «recyclage organique»: le traitement aérobie (compostage) ou anaérobie (biométhanisation), par des microorganismes et dans des conditions contrôlées, des parties biodégradables des déchets d’emballages, avec production d’amendements organiques stabilisés ou de méthane. L’enfouissement en décharge ne peut être considéré comme une forme de recyclage organique;
 
-12. «élimination»: toute opération applicable en l’espèce, prévue à l’annexe II de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets;
+- «élimination»: toute opération applicable en l’espèce, prévue à l’annexe II de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets;
 
-13. «système de consigne»: le système de reprise par lequel l’acquéreur verse au fournisseur une somme d’argent que ce dernier lui restitue lorsque l’emballage utilisé est rapporté;
-
-( Règl. g.-d. du 22 février 2006 )
-
-1. «responsable d’emballages»: toute personne qui a emballé ou fait emballer au Luxembourg des produits en vue ou lors de la mise sur le marché luxembourgeois ou, dans le cas où les produits mis sur le marché luxembourgeois n’ont pas été emballés au Luxembourg, l’importateur des produits emballés, à l’exception de la personne privée qui les consomme elle-même;»
-
-1. «organisme agréé»: la personne morale agréée conformément au présent règlement, qui prend à sa charge l’obligation de reprise incombant aux responsables d’emballages;
-
-2. «obligation de reprise»: l’obligation mise à charge du responsable d’emballages d’atteindre les taux de valorisation et de recyclage inscrits à l’article 6 point 1;
-
-3. «taux de valorisation»: pourcentage, pour une période donnée, des déchets d’emballages comportant au numérateur le poids des déchets d’emballages effectivement soumis à valorisation et au dénominateur le poids total des emballages valorisables mis sur le marché luxembourgeois par un responsable d’emballages et consommés sur le territoire national. La présente définition ne couvre pas les emballages soumis à réutilisation au sens du présent règlement;
-
-4. «taux de recyclage»: pourcentage, pour une période donnée, des déchets d’emballages comportant au numérateur le poids des déchets d’emballages effectivement soumis à recyclage et au dénominateur le poids total des emballages valorisables mis sur le marché luxembourgeois par un responsable d’emballages et consommés sur le territoire national. La présente définition ne couvre pas les emballages soumis à réutilisation au sens du présent règlement;
-
-5. «taux de part de marché»: pourcentage, pour une période donnée, des emballages pour liquides alimentaires comportant au numérateur le volume de liquides alimentaires mis sur le marché, emballés dans des emballages réutilisables et consommés sur le territoire national et au dénominateur le volume total des liquides alimentaires mis sur le marché et consommés sur le territoire national;
-
-6. «personne morale de droit public»: les communes ou syndicats de communes qui sont chargés de la gestion des déchets ménagers et assimilés conformément à la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets;
-
-7. «acteurs économiques»: dans le domaine de l’emballage, les fournisseurs de matériaux d’emballage, fabricants, transformateurs, remplisseurs et utilisateurs, importateurs, commerçants et distributeurs, autorités publiques et organismes publics;
-
-8. «accord environnemental» : tout accord formel entre le ministre et les responsables d’emballages et/ou organismes agréés qui doit être ouvert à tous les acteurs économiques souhaitant se conformer aux conditions fixées par l’accord afin de contribuer à la réalisation des objectifs dont question à l’article 1 er ;
-
-9. «ministre»: le membre du Gouvernement ayant la protection de l’environnement dans ses attributions;
+- «système de consigne»: le système de reprise par lequel l’acquéreur verse au fournisseur une somme d’argent que ce dernier lui restitue lorsque l’emballage utilisé est rapporté;
 
 ( Règl. g.-d. du 22 février 2006 )
 
-1. «administration»: l’Administration de l’environnement;»
+- «responsable d’emballages»: toute personne qui a emballé ou fait emballer au Luxembourg des produits en vue ou lors de la mise sur le marché luxembourgeois ou, dans le cas où les produits mis sur le marché luxembourgeois n’ont pas été emballés au Luxembourg, l’importateur des produits emballés, à l’exception de la personne privée qui les consomme elle-même;»
+
+- «organisme agréé»: la personne morale agréée conformément au présent règlement, qui prend à sa charge l’obligation de reprise incombant aux responsables d’emballages;
+
+- «obligation de reprise»: l’obligation mise à charge du responsable d’emballages d’atteindre les taux de valorisation et de recyclage inscrits à l’article 6 point 1;
+
+- «taux de valorisation»: pourcentage, pour une période donnée, des déchets d’emballages comportant au numérateur le poids des déchets d’emballages effectivement soumis à valorisation et au dénominateur le poids total des emballages valorisables mis sur le marché luxembourgeois par un responsable d’emballages et consommés sur le territoire national. La présente définition ne couvre pas les emballages soumis à réutilisation au sens du présent règlement;
+
+- «taux de recyclage»: pourcentage, pour une période donnée, des déchets d’emballages comportant au numérateur le poids des déchets d’emballages effectivement soumis à recyclage et au dénominateur le poids total des emballages valorisables mis sur le marché luxembourgeois par un responsable d’emballages et consommés sur le territoire national. La présente définition ne couvre pas les emballages soumis à réutilisation au sens du présent règlement;
+
+- «taux de part de marché»: pourcentage, pour une période donnée, des emballages pour liquides alimentaires comportant au numérateur le volume de liquides alimentaires mis sur le marché, emballés dans des emballages réutilisables et consommés sur le territoire national et au dénominateur le volume total des liquides alimentaires mis sur le marché et consommés sur le territoire national;
+
+- «personne morale de droit public»: les communes ou syndicats de communes qui sont chargés de la gestion des déchets ménagers et assimilés conformément à la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets;
+
+- «acteurs économiques»: dans le domaine de l’emballage, les fournisseurs de matériaux d’emballage, fabricants, transformateurs, remplisseurs et utilisateurs, importateurs, commerçants et distributeurs, autorités publiques et organismes publics;
+
+- «accord environnemental» : tout accord formel entre le ministre et les responsables d’emballages et/ou organismes agréés qui doit être ouvert à tous les acteurs économiques souhaitant se conformer aux conditions fixées par l’accord afin de contribuer à la réalisation des objectifs dont question à l’article 1 er ;
+
+- «ministre»: le membre du Gouvernement ayant la protection de l’environnement dans ses attributions;
+
+( Règl. g.-d. du 22 février 2006 )
+
+- «administration»: l’Administration de l’environnement;»
 
 ( Règl. g.-d. du 11 octobre 2013 )
 
-1. «gestion centralisée»: le système qui consiste pour l’organisme agréé à prendre en charge des déchets d’emballages à partir d’un point de collecte par apport volontaire en vue de les soumettre au recyclage».
+- «gestion centralisée»: le système qui consiste pour l’organisme agréé à prendre en charge des déchets d’emballages à partir d’un point de collecte par apport volontaire en vue de les soumettre au recyclage».
 
 <a id="art-4"></a>
 ## Art. 4.
 
 Annexes
 
-1. Font partie intégrante du présent règlement les annexes suivantes:
+- Font partie intégrante du présent règlement les annexes suivantes:
 
 | Annexe I: | Exigences essentielles portant sur la composition et le caractère réutilisable et valorisable (notamment recyclable) des emballages. |
 | --- | --- |
@@ -150,7 +150,9 @@ Annexes
 | «Annexe III: | Exemples pour les critères visés à l’article 3 point 1) |
 | Annexe IV: | Accord environnemental.» |
 
-1. En vue de l’application de l’annexe II, la Commission européenne a par sa décision 2005/270/CE du 22 mars 2005 établi les tableaux correspondant au système de bases de données relatives aux emballages et aux déchets d’emballages.
+- En vue de l’application de l’annexe II, la Commission européenne a par sa décision 2005/270/CE du 22 mars 2005 établi les tableaux correspondant au système de bases de données relatives aux emballages et aux déchets d’emballages.
+
+( Règl. g.-d. du 22 février 2006 )
 
 <a id="art-5"></a>
 ## «Art. 5.
@@ -180,23 +182,23 @@ Valorisation et recyclage
 
 Les responsables d’emballages sont tenus d’atteindre, sur une base individuelle ou collective, les taux minimum de valorisation et de recyclage suivants:
 
-1. pour le 30 juin 2001 au plus tard, 55% en poids des déchets d’emballages seront valorisés ou incinérés dans des installations d’incinération des déchets avec valorisation énergétique;
+- pour le 30 juin 2001 au plus tard, 55% en poids des déchets d’emballages seront valorisés ou incinérés dans des installations d’incinération des déchets avec valorisation énergétique;
 
-2. pour le 31 décembre 2008 au plus tard, 65% en poids des déchets d’emballages seront valorisés ou incinérés dans des installations d’incinération des déchets avec valorisation énergétique;
+- pour le 31 décembre 2008 au plus tard, 65% en poids des déchets d’emballages seront valorisés ou incinérés dans des installations d’incinération des déchets avec valorisation énergétique;
 
-3. pour le 30 juin 2001 au plus tard, 45% en poids de l’ensemble des matériaux d’emballages entrant dans les déchets d’emballages seront recyclés, avec un minimum de 15% en poids pour chaque matériau d’emballage;
+- pour le 30 juin 2001 au plus tard, 45% en poids de l’ensemble des matériaux d’emballages entrant dans les déchets d’emballages seront recyclés, avec un minimum de 15% en poids pour chaque matériau d’emballage;
 
-4. pour le 31 décembre 2008 au plus tard, 60% en poids des déchets d’emballage seront recyclés avec les objectifs minimaux de recyclage suivants pour les matériaux contenus dans les déchets d’emballages:
+- pour le 31 décembre 2008 au plus tard, 60% en poids des déchets d’emballage seront recyclés avec les objectifs minimaux de recyclage suivants pour les matériaux contenus dans les déchets d’emballages:
 
-1. 60% en poids pour le verre;
+  - 60% en poids pour le verre;
 
-2. 60% en poids pour le papier et le carton;
+  - 60% en poids pour le papier et le carton;
 
-3. 50% en poids pour les métaux;
+  - 50% en poids pour les métaux;
 
-4. 22,5% en poids pour les plastiques, en comptant exclusivement les matériaux qui sont recyclés sous forme de plastiques;
+  - 22,5% en poids pour les plastiques, en comptant exclusivement les matériaux qui sont recyclés sous forme de plastiques;
 
-5. 15% en poids pour le bois.
+  - 15% en poids pour le bois.
 
 Sans préjudice de l’article 13, l’administration veille à ce que ces obligations et objectifs fassent l’objet d’une campagne d’information destinée au grand public et aux acteurs économiques.
 
@@ -217,9 +219,9 @@ Systèmes de reprise, de collecte et de valorisation
 
 Afin d’atteindre les objectifs visés à l’article 1er, des systèmes doivent être mis en place qui assurent:
 
-1. la reprise et/ou la collecte des emballages utilisés et/ou des déchets d’emballages provenant du consommateur, de tout autre utilisateur final ou du flux de déchets, en vue de les diriger vers les solutions de gestion des déchets les plus appropriées;
+- la reprise et/ou la collecte des emballages utilisés et/ou des déchets d’emballages provenant du consommateur, de tout autre utilisateur final ou du flux de déchets, en vue de les diriger vers les solutions de gestion des déchets les plus appropriées;
 
-2. la réutilisation ou la valorisation, y compris le recyclage, des emballages et/ou des déchets d’emballage collectés.
+- la réutilisation ou la valorisation, y compris le recyclage, des emballages et/ou des déchets d’emballage collectés.
 
 2.
 
@@ -260,9 +262,9 @@ Pour les déchets d’emballages qui ne tombent pas sous la gestion centralisée
 
 En outre, lorsque l’obligation de reprise concerne les déchets d’emballages d’origine ménagère, l’organisme agréé est tenu:
 
-1. de calculer les cotisations de ses contractants par matériau d’emballage au prorata des coûts imputables à chacun des matériaux et des recettes émanant de la vente des matériaux collectés et triés en vue de financer notamment le coût afférent des collectes existantes et à créer, du tri des déchets d’emballages collectés, du recyclage et de la valorisation des déchets d’emballages;
+- de calculer les cotisations de ses contractants par matériau d’emballage au prorata des coûts imputables à chacun des matériaux et des recettes émanant de la vente des matériaux collectés et triés en vue de financer notamment le coût afférent des collectes existantes et à créer, du tri des déchets d’emballages collectés, du recyclage et de la valorisation des déchets d’emballages;
 
-2. de conclure un contrat avec les personnes morales de droit public, lequel définit notamment les conditions et modalités techniques de collecte des déchets d’emballages concernés et de prise en charge des déchets d’emballages collectés et recyclés.
+- de conclure un contrat avec les personnes morales de droit public, lequel définit notamment les conditions et modalités techniques de collecte des déchets d’emballages concernés et de prise en charge des déchets d’emballages collectés et recyclés.
 
 En aucun cas, le contrat ne saurait porter préjudice aux compétences de la personne morale de droit public en la matière.
 
@@ -274,6 +276,8 @@ L’organisme agréé est tenu de communiquer au ministre les contrats conclus a
 Exigences essentielles
 
 Un emballage ne peut être mis sur le marché luxembourgeois que s’il répond à toutes les exigences essentielles visées à l’annexe I, lesquelles font l’objet, le cas échéant, de normes européennes harmonisées.
+
+( Règl. g.-d. du 22 février 2006 )
 
 <a id="art-9bis"></a>
 ## «Art. 9bis.

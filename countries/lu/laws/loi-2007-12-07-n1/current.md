@@ -37,11 +37,11 @@ Les travaux, installations et ouvrages nécessaires pour l'établissement, l'ent
 
 La société aura le droit:
 
-1. d'installer et d'exploiter un réseau de chaleur et tout équipement périphérique nécessaire;
+- d'installer et d'exploiter un réseau de chaleur et tout équipement périphérique nécessaire;
 
-2. d'assurer la surveillance du réseau de chaleur et de tout l'équipement périphérique nécessaire;
+- d'assurer la surveillance du réseau de chaleur et de tout l'équipement périphérique nécessaire;
 
-3. de procéder aux travaux d'entretien et de réfection de ces installations ainsi qu'à tous les travaux nécessaires afin de garantir leur bon fonctionnement.
+- de procéder aux travaux d'entretien et de réfection de ces installations ainsi qu'à tous les travaux nécessaires afin de garantir leur bon fonctionnement.
 
 <a id="art-3"></a>
 ## Art. 3.

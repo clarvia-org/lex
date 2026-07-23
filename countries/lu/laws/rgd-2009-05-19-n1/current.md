@@ -25,6 +25,10 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Règlement grand-ducal modifié du 19 mai 2009 déterminant les mesures de protection spéciale et les programmes de surveillance de l’état des eaux de baignade - TEXTE COORDONNÉ.
 
+Texte coordonné au 18 septembre 2012
+
+Version applicable à partir du 22 septembre 2012
+
 <a id="art-1er"></a>
 ## Art. 1er.
 

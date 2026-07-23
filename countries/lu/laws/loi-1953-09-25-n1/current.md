@@ -35,9 +35,9 @@ Dans l’intérêt de la santé publique sont soumis à la surveillance des auto
 
 Des règlements d’administration publique, qui peuvent déroger à des dispositions légales ou réglementaires qui régissent la présente matière, détermineront les dispositions propres à réglementer, surveiller et même interdire
 
-1. la fabrication, la préparation, la transformation, le commerce et la distribution des objets énumérés à l’article 1 er et des denrées alimentaires;
+- la fabrication, la préparation, la transformation, le commerce et la distribution des objets énumérés à l’article 1 er et des denrées alimentaires;
 
-2. le commerce et la distribution des appareils, ustensiles, récipients et autres objets servant à la fabrication ou destinés à être mis en contact avec les denrées ou boissons alimentaires ou médicamenteuses, les objets de consommation, les produits cosmétiques et les articles de toilette.
+- le commerce et la distribution des appareils, ustensiles, récipients et autres objets servant à la fabrication ou destinés à être mis en contact avec les denrées ou boissons alimentaires ou médicamenteuses, les objets de consommation, les produits cosmétiques et les articles de toilette.
 
 Ces règlements pourront prescrire l’apposition d’indications nu de signes propres à empêcher toute confusion ou erreur sur la nature et la provenance des matières qui peuvent être confondus avec les denrées ou substances visées à l’article 1er et déterminer ces indications ou signes.
 
@@ -88,17 +88,17 @@ Un arrêté ministériel fixera la rémunération des services des experts ainsi
 
 Les agents visés à l’alinéa 3 de l’article 5 peuvent:
 
-1. pénétrer, pendant tout le temps qu’ils sont ouverts au public, et même pendant la nuit lorsqu’il existe des indices graves faisant présumer une fraude à la présente loi, dans les lieux quelconques dans lesquels les objets visés aux articles 1 er et 2 sont fabriqués, préparés, transformés, déposés, exposés en vente, vendus ou distribués;
+- pénétrer, pendant tout le temps qu’ils sont ouverts au public, et même pendant la nuit lorsqu’il existe des indices graves faisant présumer une fraude à la présente loi, dans les lieux quelconques dans lesquels les objets visés aux articles 1 er et 2 sont fabriqués, préparés, transformés, déposés, exposés en vente, vendus ou distribués;
 
-2. visiter pendant le jour et même pendant la nuit lorsqu’il existe des indices graves faisant présumer une fraude à la loi, les véhicules et autres moyens de transport qui contiennent ou peuvent contenir des objets visés aux articles 1er et 2 et vérifier les documents imposés par les règlements. Les conducteurs des véhicules ou autres moyens de transport sont tenus de s’arrêter immédiatement à l’injonction de ces mêmes agents et de rester arrêtés pendant tout le temps nécessaire à l’accomplissement des mesures de contrôle;
+- visiter pendant le jour et même pendant la nuit lorsqu’il existe des indices graves faisant présumer une fraude à la loi, les véhicules et autres moyens de transport qui contiennent ou peuvent contenir des objets visés aux articles 1er et 2 et vérifier les documents imposés par les règlements. Les conducteurs des véhicules ou autres moyens de transport sont tenus de s’arrêter immédiatement à l’injonction de ces mêmes agents et de rester arrêtés pendant tout le temps nécessaire à l’accomplissement des mesures de contrôle;
 
-3. exiger la production de toutes les écritures commerciales relatives aux objets visés aux articles 1 er et 2 de la présente loi et tous les documents imposés par les règlements d’administration publique, pris en exécution de la présente loi;
+- exiger la production de toutes les écritures commerciales relatives aux objets visés aux articles 1 er et 2 de la présente loi et tous les documents imposés par les règlements d’administration publique, pris en exécution de la présente loi;
 
-4. prélever à leur choix et partout, aux fins d’examen ou d’analyse, des échantillons des objets visés aux articles 1er et 2 de la présente loi et les règlements d’administration publique, ainsi que les matières utilisés dans leur fabrication. Les échantillons seront pris contre délivrance d’un accusé de réception. Une partie de l’échantillon, cachetée ou scellée, sera remise au propriétaire ou détenteur, quelconque à moins que celui-ci n’y renonce expressément. Le propriétaire ou détenteur quelconque sera indemnisé de la valeur des échantillons sur le pied du prix courant;
+- prélever à leur choix et partout, aux fins d’examen ou d’analyse, des échantillons des objets visés aux articles 1er et 2 de la présente loi et les règlements d’administration publique, ainsi que les matières utilisés dans leur fabrication. Les échantillons seront pris contre délivrance d’un accusé de réception. Une partie de l’échantillon, cachetée ou scellée, sera remise au propriétaire ou détenteur, quelconque à moins que celui-ci n’y renonce expressément. Le propriétaire ou détenteur quelconque sera indemnisé de la valeur des échantillons sur le pied du prix courant;
 
-5. saisir et au besoin mettre sous séquestre les objets visés aux articles 1 er et 2 de la présente loi ainsi que les objets ou matières employés ou destinés à être employés dans leur fabrication ou commerce reconnus falsifiés, corrompus ou gâtés et les écritures commerciales et documents imposés en vertu de la présente loi et des règlements d’administration publique qui les concernent;
+- saisir et au besoin mettre sous séquestre les objets visés aux articles 1 er et 2 de la présente loi ainsi que les objets ou matières employés ou destinés à être employés dans leur fabrication ou commerce reconnus falsifiés, corrompus ou gâtés et les écritures commerciales et documents imposés en vertu de la présente loi et des règlements d’administration publique qui les concernent;
 
-6. saisir et mettre hors d’usage les objets visés à l’article 1 er , et dont l’insalubrité, constatée par le médecin-inspecteur de la Santé publique, constitue un danger pour la santé publique.
+- saisir et mettre hors d’usage les objets visés à l’article 1 er , et dont l’insalubrité, constatée par le médecin-inspecteur de la Santé publique, constitue un danger pour la santé publique.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -112,17 +112,17 @@ Ils doivent leur communiquer sur leur réquisition tous les documents et indicat
 
 Seront punis d’un emprisonnement de 8 jours à un an et d’une amende de 500 à 15.000 euros ou d’une de ces peines seulement
 
-1. ceux qui auront falsifié ou fait falsifier, contrefait ou fait contrefaire des objets visés à l’article 1 er de la présente loi;
+- ceux qui auront falsifié ou fait falsifier, contrefait ou fait contrefaire des objets visés à l’article 1 er de la présente loi;
 
-2. ceux qui auront vendu, exposé en vente, détenu ou transporté en vue de la vente ou de la livraison de tels objets, sachant qu’ils étaient falsifiés, contrefaits, gâtés ou corrompus;
+- ceux qui auront vendu, exposé en vente, détenu ou transporté en vue de la vente ou de la livraison de tels objets, sachant qu’ils étaient falsifiés, contrefaits, gâtés ou corrompus;
 
-3. ceux qui, méchamment ou frauduleusement, ou comme étant intéressés à un titre quelconque à la fraude, auront révélé ou conseillé des procédés de falsification ou de contrefaçon de ces mêmes objets;
+- ceux qui, méchamment ou frauduleusement, ou comme étant intéressés à un titre quelconque à la fraude, auront révélé ou conseillé des procédés de falsification ou de contrefaçon de ces mêmes objets;
 
-4. ceux qui auront falsifié ou contrefait des marques, signes ou documents prévus par des règlements d’administration publique pris en vertu de la présente loi et ceux qui, sciemment, auront fait usage de tels marques, signes et documents;
+- ceux qui auront falsifié ou contrefait des marques, signes ou documents prévus par des règlements d’administration publique pris en vertu de la présente loi et ceux qui, sciemment, auront fait usage de tels marques, signes et documents;
 
-5. ceux qui auront fait usage, directement ou par intermédiaire, d’indications ou de signes de nature à induire en erreur sur la nature, la composition, le mode de fabrication, l’origine ou le poids de denrées, substances, objets ou produits visés à l’article 1 er de la présente loi, ou encore à faire indûment attribuer à de tels denrées, substances, objets ou produits des propriétés ou des caractères spéciaux;
+- ceux qui auront fait usage, directement ou par intermédiaire, d’indications ou de signes de nature à induire en erreur sur la nature, la composition, le mode de fabrication, l’origine ou le poids de denrées, substances, objets ou produits visés à l’article 1 er de la présente loi, ou encore à faire indûment attribuer à de tels denrées, substances, objets ou produits des propriétés ou des caractères spéciaux;
 
-6. ceux qui, directement ou par intermédiaire, auront contrevenu à la décision du Ministre de la Santé publique prononcée en exécution de l’article 3 de la présente loi et portant exclusion de la fabrication, du commerce ou de la distribution des objets visés à l’article 1 er .
+- ceux qui, directement ou par intermédiaire, auront contrevenu à la décision du Ministre de la Santé publique prononcée en exécution de l’article 3 de la présente loi et portant exclusion de la fabrication, du commerce ou de la distribution des objets visés à l’article 1 er .
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -136,11 +136,11 @@ En cas de récidive dans les deux années de la dernière condamnation pour des 
 
 Seront punis d’un emprisonnement de six mois à cinq ans et d’une amende de 500 à 20.000 euros:
 
-1. ceux qui auront volontairement préparé des objets de consommation ou d’habillement, des produits cosmétiques ou articles de toilette ou des objets ou produits usuels employés clans le ménage, de manière à rendre l’usage normal ou probable de ces objets dangereux ou nuisible à la santé humaine;
+- ceux qui auront volontairement préparé des objets de consommation ou d’habillement, des produits cosmétiques ou articles de toilette ou des objets ou produits usuels employés clans le ménage, de manière à rendre l’usage normal ou probable de ces objets dangereux ou nuisible à la santé humaine;
 
-2. ceux qui auront vendu ou distribué, exposé en vente, détenu ou transporté en vue de la vente ou de la distribution de tels objets ou produits, sachant qu’ils étaient falsifiés, contrefaits, gâtés ou corrompus, et qu’ils étaient dangereux ou nuisibles à la santé humaine;
+- ceux qui auront vendu ou distribué, exposé en vente, détenu ou transporté en vue de la vente ou de la distribution de tels objets ou produits, sachant qu’ils étaient falsifiés, contrefaits, gâtés ou corrompus, et qu’ils étaient dangereux ou nuisibles à la santé humaine;
 
-3. ceux qui auront vendu ou procuré des matières servant à la préparation de ces objets, sachant qu’elles étaient destinées à un pareil emploi.
+- ceux qui auront vendu ou procuré des matières servant à la préparation de ces objets, sachant qu’elles étaient destinées à un pareil emploi.
 
 La tentative de ces délits sera punie d’un emprisonnement de 3 mois à trois ans et d’une amende de 500 à 10.000 euros ou d’une de ces peines seulement.
 

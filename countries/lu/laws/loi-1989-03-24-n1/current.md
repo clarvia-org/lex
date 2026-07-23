@@ -26,6 +26,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 ### Titre Ier Dispositions générales
 
+Définition du statut
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
@@ -36,6 +38,8 @@ La Caisse d’Epargne de l’Etat du Grand-Duché de Luxembourg, instituée par 
 (2)
 
 Elle est placée sous la haute surveillance du membre du Gouvernement ayant le département du Trésor dans ses attributions. Dans les dispositions qui suivent, ce dernier est désigné par les termes «le ministre compétent».
+
+Dénomination
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -54,6 +58,8 @@ Dans les activités qu’elle exerce sur le territoire du Grand-Duché de Luxemb
 
 La banque est autorisée à utiliser dans ses activités internationales les dénominations «State and Savings Bank, Luxem-bourg» ou «Staatsbank und Staatssparkasse, Luxemburg».
 
+Siège
+
 <a id="art-3"></a>
 ## Art. 3.
 
@@ -64,6 +70,8 @@ Le siège de la banque est à Luxembourg.
 (2)
 
 Pour la réalisation de son objet, la banque peut créer des filiales et établir des succursales, des sièges administratifs, notamment régionaux, des agences, des sous-agences ou des bureaux.
+
+Objet
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -80,14 +88,16 @@ Dans le respect des lois et règlements y applicables, la banque peut faire en o
 
 Les opérations de la banque sont censées être des actes de commerce.
 
+Missions
+
 <a id="art-5"></a>
 ## Art. 5.
 
 En tant que banque d’Etat, elle a pour vocation:
 
-1. de contribuer par ses activités, en particulier par ses activités de financement, au développement économique et social du pays dans tous les domaines et,
+- de contribuer par ses activités, en particulier par ses activités de financement, au développement économique et social du pays dans tous les domaines et,
 
-2. de promouvoir l’épargne sous toutes ses formes.
+- de promouvoir l’épargne sous toutes ses formes.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -115,35 +125,35 @@ Le conseil d’administration définit la politique générale de l’établisse
 
 Le conseil exerce les attributions suivantes:
 
-1. il autorise la constitution de filiales et l’établissement de succursales, de sièges administratifs, d’agences, de sous-agences et de bureaux;
+- il autorise la constitution de filiales et l’établissement de succursales, de sièges administratifs, d’agences, de sous-agences et de bureaux;
 
-2. il autorise la prise et la cession de participations;
+- il autorise la prise et la cession de participations;
 
-3. il approuve les acquisitions, aliénations et échanges de biens ou de droits immobiliers;
+- il approuve les acquisitions, aliénations et échanges de biens ou de droits immobiliers;
 
-4. il accepte les dons et legs faits au profit de la banque;
+- il accepte les dons et legs faits au profit de la banque;
 
-5. il approuve les orientations générales concernant les conditions des opérations de la banque, notamment celles relatives aux conditions débitrices et créditrices;
+- il approuve les orientations générales concernant les conditions des opérations de la banque, notamment celles relatives aux conditions débitrices et créditrices;
 
-6. il autorise l’émission publique d’obligations pour le compte de la banque et en approuve les conditions et modalités;
+- il autorise l’émission publique d’obligations pour le compte de la banque et en approuve les conditions et modalités;
 
-7. il approuve les directives générales pour le placement des liquidités de la banque;
+- il approuve les directives générales pour le placement des liquidités de la banque;
 
-8. il approuve les budgets annuels respectivement de fonctionnement et d’investissement;
+- il approuve les budgets annuels respectivement de fonctionnement et d’investissement;
 
-9. il approuve les comptes annuels ainsi que le rapport annuel du comité de direction et propose au Gouvernement l’affectation du bénéfice;
+- il approuve les comptes annuels ainsi que le rapport annuel du comité de direction et propose au Gouvernement l’affectation du bénéfice;
 
-10. il propose au Gouvernement la nomination des réviseurs d’entreprises;
+- il propose au Gouvernement la nomination des réviseurs d’entreprises;
 
-11. il approuve les structures administratives et fonctionnelles de la banque à proposer par le comité;
+- il approuve les structures administratives et fonctionnelles de la banque à proposer par le comité;
 
-12. il émet un avis sur les modifications du statut des agents de la banque;
+- il émet un avis sur les modifications du statut des agents de la banque;
 
-13. il approuve le règlement d’ordre intérieur du comité de direction;
+- il approuve le règlement d’ordre intérieur du comité de direction;
 
-14. il approuve la liste des signatures de la banque;
+- il approuve la liste des signatures de la banque;
 
-15. il désigne les agents chargés du contrôle interne, définit leurs mandats et reçoit leurs rapports.
+- il désigne les agents chargés du contrôle interne, définit leurs mandats et reçoit leurs rapports.
 
 Le conseil est en droit d’obtenir du comité tout document et tout renseignement et de procéder à toute vérification nécessaire.
 
@@ -331,9 +341,9 @@ Sauf dans les cas où la loi les autorise ou les oblige à révéler certains fa
 
 Le ministre compétent exerce la haute surveillance sur les activités d’intérêt général de la banque, notamment celles prévues à l’article 5, d’après les dispositions qui suivent:
 
-1. en se faisant communiquer directement toutes les décisions du conseil;
+- en se faisant communiquer directement toutes les décisions du conseil;
 
-2. en statuant sur celles qui sont sujettes à son approbation.
+- en statuant sur celles qui sont sujettes à son approbation.
 
 En outre, il est institué un poste de commissaire de surveillance, désigné ci-après le commissaire, dont les modalités de nomination et les attributions sont fixées à l’article 28.
 
@@ -351,15 +361,15 @@ Des copies certifiées conformes des procès - verbaux des réunions du conseil 
 
 Sont sujettes à l’approbation du ministre compétent les décisions du conseil relatives aux matières suivantes:
 
-1. l’approbation des comptes annuels ainsi que l’affectation du bénéfice disponible;
+- l’approbation des comptes annuels ainsi que l’affectation du bénéfice disponible;
 
-2. le taux d’intérêt des livrets d’épargne et des prêts hypothécaires pour le financement des logements;
+- le taux d’intérêt des livrets d’épargne et des prêts hypothécaires pour le financement des logements;
 
-3. la constitution de filiales et l’établissement de succursales à l’étranger;
+- la constitution de filiales et l’établissement de succursales à l’étranger;
 
-4. la prise de participations dans des sociétés domiciliées à l’étranger;
+- la prise de participations dans des sociétés domiciliées à l’étranger;
 
-5. l’émission de certificats participatifs ainsi que d’emprunts subordonnés.
+- l’émission de certificats participatifs ainsi que d’emprunts subordonnés.
 
 (2)
 
@@ -431,9 +441,9 @@ Le directeur général, le directeur général adjoint et les directeurs formant
 
 Pour pouvoir être nommé membre du comité il faut:
 
-1. remplir les conditions prescrites pour l’accès aux fonctions administratives de la carrière supérieure auprès des administrations de l’Etat par la loi modifiée du 16 avril 1979 fixant le statut des fonctionnaires de l’Etat et
+- remplir les conditions prescrites pour l’accès aux fonctions administratives de la carrière supérieure auprès des administrations de l’Etat par la loi modifiée du 16 avril 1979 fixant le statut des fonctionnaires de l’Etat et
 
-2. avoir l’honorabilité professionnelle nécessaire ainsi que l’expérience adéquate pour l’exercice de la fonction.
+- avoir l’honorabilité professionnelle nécessaire ainsi que l’expérience adéquate pour l’exercice de la fonction.
 
 (3)
 
@@ -749,11 +759,11 @@ Par dérogation aux dispositions concernant le conseil de la banque, le directeu
 
 Les mesures d’exécution de la présente loi font l’objet de règlements grand-ducaux, qui déterminent notamment:
 
-1. le statut des membres du conseil représentant le personnel au conseil, ainsi que leur mode d’élection;
+- le statut des membres du conseil représentant le personnel au conseil, ainsi que leur mode d’élection;
 
-2. les conditions générales du statut des agents de la banque;
+- les conditions générales du statut des agents de la banque;
 
-3. les conditions financières, comptables et de gestion concernant la caisse d’assurances.
+- les conditions financières, comptables et de gestion concernant la caisse d’assurances.
 
 <a id="art-56"></a>
 ## Art. 56.

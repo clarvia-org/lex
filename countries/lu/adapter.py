@@ -36,6 +36,7 @@ HIERARCHY_LEVELS = {
     "part": 1,
     "title": 2,
     "chapter": 3,
+    "subchapter": 3,
     "section": 4,
     "subsection": 5,
 }
@@ -390,6 +391,7 @@ class LuxembourgAdapter:
             raise LexError(ErrorCode.LEX_INVALID_DATA, ref.id, "No akn:body in source")
 
         lines: list[str] = [f"# {title}", ""]
+        self._seen_anchors = set()
         self._walk(body_el, lines)
         body = "\n".join(lines)
         body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
@@ -432,6 +434,9 @@ class LuxembourgAdapter:
     def _walk(self, element: etree._Element, lines: list[str]) -> None:
         for child in element:
             tag = etree.QName(child).localname
+            ns = etree.QName(child).namespace
+            if ns == SCL_NS or tag in {"meta", "preface", "toc"}:
+                continue
             if tag in HIERARCHY_LEVELS:
                 level = HIERARCHY_LEVELS[tag]
                 num = _child_text(child, "num")
@@ -443,9 +448,31 @@ class LuxembourgAdapter:
                 self._walk(child, lines)
             elif tag == "article":
                 self._emit_article(child, lines)
+            elif tag == "paragraph":
+                self._emit_paragraph(child, lines)
+            elif tag == "alinea":
+                self._emit_container(child, lines)
+            elif tag in _BLOCK_TAGS or tag == "content":
+                self._emit_nodes(child, lines)
+            elif tag == "authorialNote":
+                text = _collapse_text(child)
+                if text:
+                    lines.append(text)
+                    lines.append("")
+            elif tag in {"num", "heading"}:
+                continue
+            elif tag in _EMBEDDED_DOC_TAGS:
+                self._walk(child, lines)
             else:
-                if tag not in {"meta", "preface", "num", "heading"}:
-                    self._walk(child, lines)
+                # Containers (quotedStructure, wrapUp, subdivision, intro, …)
+                # and any other wrapper: emit nested structure, never drop prose.
+                self._walk(child, lines)
+                # Leaf-ish wrappers with only text/inline children.
+                if not list(child) and (child.text or "").strip():
+                    text = _collapse_text(child)
+                    if text:
+                        lines.append(text)
+                        lines.append("")
 
     def _emit_article(self, article: etree._Element, lines: list[str]) -> None:
         xml_id = article.get("id")
@@ -454,6 +481,17 @@ class LuxembourgAdapter:
         # (e.g. art_5- vs art_5). Preserve that marker after normalization.
         anchor = _normalize_xml_article_id(xml_id) if xml_id else normalize_anchor(raw_id)
         num = _child_text(article, "num") or raw_id
+        seen = getattr(self, "_seen_anchors", None)
+        if seen is not None and anchor in seen:
+            # Embedded schedules often repeat official @id values. Emit the
+            # provision label + body without a second HTML anchor.
+            if num:
+                lines.append(num)
+                lines.append("")
+            self._emit_article_body(article, lines)
+            return
+        if seen is not None:
+            seen.add(anchor)
         lines.append(f'<a id="{anchor}"></a>')
         lines.append(f"## {num}")
         lines.append("")
@@ -472,11 +510,18 @@ class LuxembourgAdapter:
                     lines.append(text)
                     lines.append("")
             elif tag == "alinea":
-                _append_blocks(lines, _container_blocks(child))
+                self._emit_container(child, lines)
             elif tag == "paragraph":
+                self._emit_paragraph(child, lines)
+            elif tag == "subparagraph":
                 self._emit_paragraph(child, lines)
             elif tag == "article":
                 self._emit_article(child, lines)
+            elif tag == "authorialNote":
+                text = _collapse_text(child)
+                if text:
+                    lines.append(text)
+                    lines.append("")
             elif tag in HIERARCHY_LEVELS:
                 level = min(HIERARCHY_LEVELS[tag] + 2, 6)
                 num = _child_text(child, "num")
@@ -487,7 +532,12 @@ class LuxembourgAdapter:
                     lines.append("")
                 self._emit_article_body(child, lines)
             elif tag in _BLOCK_TAGS or tag == "content":
-                _append_blocks(lines, _node_blocks(child))
+                self._emit_nodes(child, lines)
+            elif tag in _EMBEDDED_DOC_TAGS:
+                self._walk(child, lines)
+            else:
+                # subdivision / wrapUp / quotedStructure / unknown wrappers
+                self._emit_article_body(child, lines)
 
     def _emit_paragraph(self, paragraph: etree._Element, lines: list[str]) -> None:
         num = _child_text(paragraph, "num")
@@ -500,13 +550,160 @@ class LuxembourgAdapter:
             if ns == SCL_NS or tag in _ARTICLE_SKIP_TAGS or tag == "num":
                 continue
             if tag == "alinea":
-                _append_blocks(lines, _container_blocks(child))
-            elif tag == "paragraph":
+                self._emit_container(child, lines)
+            elif tag in {"paragraph", "subparagraph"}:
                 self._emit_paragraph(child, lines)
             elif tag == "article":
                 self._emit_article(child, lines)
+            elif tag in HIERARCHY_LEVELS:
+                self._emit_article_body(child, lines)
             elif tag in _BLOCK_TAGS or tag == "content":
-                _append_blocks(lines, _node_blocks(child))
+                self._emit_nodes(child, lines)
+            elif tag in _EMBEDDED_DOC_TAGS:
+                self._walk(child, lines)
+            else:
+                self._emit_article_body(child, lines)
+
+    def _emit_container(self, container: etree._Element, lines: list[str]) -> None:
+        """Emit an alinea (or similar), preferring explicit <content> children."""
+        contents = [child for child in container if etree.QName(child).localname == "content"]
+        if contents:
+            for content in contents:
+                self._emit_nodes(content, lines)
+            return
+        self._emit_nodes(container, lines)
+
+    def _emit_nodes(self, element: etree._Element, lines: list[str]) -> None:
+        """Emit ``element`` as Markdown blocks (dispatch on element, then children)."""
+        tag0 = etree.QName(element).localname
+        # When called on a block node itself (e.g. ``_walk`` → ``_emit_nodes(ol)``),
+        # handle it here. Walking only children would drop the node's own .text
+        # once a child (``ref``, …) emits anything.
+        if tag0 == "p":
+            self._emit_p(element, lines)
+            return
+        if tag0 in {"ol", "ul"}:
+            for block in _html_list_blocks(element, ordered=(tag0 == "ol")):
+                lines.append(block)
+                lines.append("")
+            return
+        if tag0 == "list":
+            for block in _akn_list_blocks(element):
+                lines.append(block)
+                lines.append("")
+            return
+        if tag0 == "table":
+            for block in _table_blocks(element):
+                lines.append(block)
+                lines.append("")
+            return
+
+        emitted = False
+        for child in element:
+            tag = etree.QName(child).localname
+            ns = etree.QName(child).namespace
+            if ns == SCL_NS or tag in {"authorialNote", "noteRef", "num", "heading"}:
+                continue
+            if tag == "article":
+                self._emit_article(child, lines)
+                emitted = True
+            elif tag in _EMBEDDED_DOC_TAGS:
+                self._walk(child, lines)
+                emitted = True
+            elif tag == "p":
+                self._emit_p(child, lines)
+                emitted = True
+            elif tag in {"ol", "ul"}:
+                for block in _html_list_blocks(child, ordered=(tag == "ol")):
+                    lines.append(block)
+                    lines.append("")
+                emitted = True
+            elif tag == "list":
+                for block in _akn_list_blocks(child):
+                    lines.append(block)
+                    lines.append("")
+                emitted = True
+            elif tag == "table":
+                for block in _table_blocks(child):
+                    lines.append(block)
+                    lines.append("")
+                emitted = True
+            elif tag == "content":
+                self._emit_nodes(child, lines)
+                emitted = True
+            elif tag in {"mod", "ins", "del"}:
+                before = len(lines)
+                self._emit_nodes(child, lines)
+                if len(lines) == before:
+                    text = _collapse_text(child)
+                    if text:
+                        lines.append(text)
+                        lines.append("")
+                emitted = True
+            elif tag in {"tbody", "thead", "tr"}:
+                continue
+            elif tag in {"paragraph", "subparagraph"}:
+                self._emit_paragraph(child, lines)
+                emitted = True
+            elif tag == "alinea":
+                self._emit_container(child, lines)
+                emitted = True
+            elif tag in HIERARCHY_LEVELS:
+                self._emit_article_body(child, lines)
+                emitted = True
+            else:
+                before = len(lines)
+                self._emit_nodes(child, lines)
+                if len(lines) == before:
+                    text = _collapse_text(child)
+                    if text:
+                        lines.append(text)
+                        lines.append("")
+                emitted = True
+        if not emitted:
+            text = _collapse_text(element)
+            if text:
+                lines.append(text)
+                lines.append("")
+
+    def _emit_p(self, paragraph: etree._Element, lines: list[str]) -> None:
+        """Emit an HTML/AKN ``<p>``, expanding nested structural embeds."""
+        has_embed = any(
+            etree.QName(c).localname in _EMBEDDED_DOC_TAGS for c in paragraph
+        )
+        if not has_embed:
+            text = _collapse_text(paragraph)
+            if text:
+                lines.append(text)
+                lines.append("")
+            return
+
+        # Split surrounding inline prose from structural embeds so amending
+        # quotes keep their full wording and schedules keep their structure.
+        buf: list[str] = []
+        if paragraph.text:
+            buf.append(paragraph.text)
+
+        def flush() -> None:
+            nonlocal buf
+            text = " ".join("".join(buf).split())
+            buf = []
+            if text:
+                lines.append(text)
+                lines.append("")
+
+        for sub in paragraph:
+            stag = etree.QName(sub).localname
+            if stag in _EMBEDDED_DOC_TAGS:
+                flush()
+                self._walk(sub, lines)
+            else:
+                inline = _collapse_text(sub)
+                if inline:
+                    buf.append(inline)
+            if sub.tail:
+                buf.append(sub.tail)
+        flush()
 
     def _sparql(self, client: HttpClient, query: str) -> dict[str, Any]:
         url = f"{SPARQL_ENDPOINT}?{urlencode({'query': query, 'format': 'json'})}"
@@ -710,10 +907,26 @@ _ARTICLE_SKIP_TAGS = frozenset(
         "num",
         "meta",
         "preface",
-        "authorialNote",
+        "toc",
     }
 )
 _BLOCK_TAGS = frozenset({"p", "ol", "ul", "list", "table", "tbody", "thead"})
+# Structural embeds that contain nested AKN provisions. Inline quote wrappers
+# (embeddedText, inline) are NOT included — they must stay in paragraph
+# collapse via itertext(); walking them as documents drops their .text.
+_EMBEDDED_DOC_TAGS = frozenset(
+    {
+        "embeddedStructure",
+        "attachments",
+        "attachment",
+        "components",
+        "component",
+        "doc",
+        "mainBody",
+        "quotedStructure",
+        "subFlow",
+    }
+)
 
 
 def _append_blocks(lines: list[str], blocks: list[str]) -> None:
@@ -725,12 +938,56 @@ def _append_blocks(lines: list[str], blocks: list[str]) -> None:
 
 
 def _collapse_text(element: etree._Element) -> str:
+    """Visible text with spaces at block edges; inline tags stay glued (``1er``)."""
+    parts: list[str] = []
+
+    def walk(node: etree._Element) -> None:
+        if etree.QName(node).namespace == SCL_NS:
+            return
+        if node.text:
+            parts.append(node.text)
+        for child in node:
+            if not isinstance(child.tag, str):
+                continue
+            tag = etree.QName(child).localname
+            if tag not in _INLINE_TEXT_TAGS:
+                parts.append(" ")
+            walk(child)
+            if child.tail:
+                if tag not in _INLINE_TEXT_TAGS:
+                    parts.append(" ")
+                parts.append(child.tail)
+
+    walk(element)
     return (
-        " ".join("".join(element.itertext()).split())
+        " ".join("".join(parts).split())
         .replace("\u200b", "")
         .replace("\ufeff", "")
         .strip()
     )
+
+
+_INLINE_TEXT_TAGS = frozenset(
+    {
+        "a",
+        "abbr",
+        "b",
+        "del",
+        "em",
+        "embeddedText",
+        "i",
+        "inline",
+        "ins",
+        "ref",
+        "s",
+        "small",
+        "span",
+        "strong",
+        "sub",
+        "sup",
+        "u",
+    }
+)
 
 
 def _container_blocks(container: etree._Element) -> list[str]:
@@ -793,14 +1050,14 @@ def _node_blocks(element: etree._Element) -> list[str]:
 
 
 def _html_list_blocks(list_el: etree._Element, *, ordered: bool, indent: int = 0) -> list[str]:
+    """Emit ``<ol>/<ul>`` items as Markdown bullets without inventing counters."""
+    del ordered  # retained for callers; never synthesize 1./2. numerals
     lines: list[str] = []
-    index = 0
     pad = " " * indent
     for child in list_el:
         if etree.QName(child).localname != "li":
             continue
-        index += 1
-        marker = f"{index}." if ordered else "-"
+        marker = "-"
         text_parts: list[str] = []
         nested_lists: list[etree._Element] = []
         if child.text and child.text.strip():

@@ -36,21 +36,21 @@ Le responsable de la sélection conservatrice est indiqué à l'annexe I, en reg
 
 En dehors des variétés visées à l'annexe I, peuvent également être certifiées:
 
-1. les semences ou plants des variétés cultivées exclusivement à des fins d'expérimentation;
+- les semences ou plants des variétés cultivées exclusivement à des fins d'expérimentation;
 
-2. les semences des variétés appartenant aux espèces relevées à l'annexe III du présent règlement.
+- les semences des variétés appartenant aux espèces relevées à l'annexe III du présent règlement.
 
 Dans ce dernier cas, les conditions suivantes doivent toutefois être remplies:
 
-1. La variété doit être inscrite au catalogue commun visé au chapitre B du règlement grand-ducal modifié du 5 juillet 2004 concernant le catalogue des variétés des espèces de plantes agricoles et de légumes.
+- La variété doit être inscrite au catalogue commun visé au chapitre B du règlement grand-ducal modifié du 5 juillet 2004 concernant le catalogue des variétés des espèces de plantes agricoles et de légumes.
 
-2. Les semences doivent être produites:
+- Les semences doivent être produites:
 
-- soit, sous contrat de multiplication conclu entre un établissement de semences ou un obtenteur, d'une part, et un agriculteur-multiplicateur de semences, d'autre part,
+  - soit, sous contrat de multiplication conclu entre un établissement de semences ou un obtenteur, d'une part, et un agriculteur-multiplicateur de semences, d'autre part,
 
-- soit directement par un établissement de semences ou un obtenteur.
+  - soit directement par un établissement de semences ou un obtenteur.
 
-3. L'établissement de semences ou l'obtenteur doit faire une déclaration de multiplication et déposer une description de la variété à l'Administration des services techniques de l'agriculture, service de la production végétale, avant le 1 er mars de l'année au cours de laquelle la certification des semences est prévue.
+- L'établissement de semences ou l'obtenteur doit faire une déclaration de multiplication et déposer une description de la variété à l'Administration des services techniques de l'agriculture, service de la production végétale, avant le 1 er mars de l'année au cours de laquelle la certification des semences est prévue.
 
 <a id="art-3"></a>
 ## Art. 3.

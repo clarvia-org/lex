@@ -37,7 +37,7 @@ Les modifications que subiront les lois précitées seront d’application.
 
 Aux fins de la présente loi on entend par distribution en gros des médicaments: toute activité qui consiste à se procurer, à détenir, à fournir ou à exporter des médicaments, à l’exclusion de la délivrance de médicaments au public; ces activités sont réalisées avec des fabricants ou leurs dépositaires, d’autres grossistes ou avec les pharmaciens.
 
-Toutefois, les personnes qui disposent d’une autorisation de distribution en gros peuvent fournir des médicaments aux médecins, médecins-dentistes et médecins-vétérinaires, qui sont autorisés à les stocker . La liste de ces médicaments est déterminée par règlement grand-ducal.
+Toutefois, les personnes qui disposent d’une autorisation de distribution en gros peuvent fournir des médicaments aux médecins, médecins-dentistes et médecins-vétérinaires , qui sont autorisés à les stocker . La liste de ces médicaments est déterminée par règlement grand-ducal.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -94,47 +94,47 @@ Toute décision portant refus, suspension ou retrait de l’autorisation doit ê
 
 Pour obtenir l’autorisation de distribution en gros de médicaments, le demandeur doit satisfaire aux exigences suivantes:
 
-1. disposer des locaux, d’installations et d’équipements, adaptés et suffisants, de façon à assurer une bonne conservation et une bonne distribution des médicaments;
+- disposer des locaux, d’installations et d’équipements, adaptés et suffisants, de façon à assurer une bonne conservation et une bonne distribution des médicaments;
 
-2. disposer à temps plein d’un pharmacien responsable agréé par le ministre de la Santé. L’établissement est placé sous la surveillance effective de ce pharmacien;
+- disposer à temps plein d’un pharmacien responsable agréé par le ministre de la Santé. L’établissement est placé sous la surveillance effective de ce pharmacien;
 
-3. s’engager à respecter les obligations qui lui incombent en vertu de l’article 5 ci-après. 5b-
+- s’engager à respecter les obligations qui lui incombent en vertu de l’article 5 ci-après. 5b-
 
 <a id="art-5"></a>
 ## Art. 5.
 
 Le titulaire d’une autorisation de distribuer en gros des médicaments est tenu:
 
-1. de rendre les locaux, les installations et les équipements visés à l’article 4 point a) en tout temps accessible aux agents chargés de leur inspection;
+- de rendre les locaux, les installations et les équipements visés à l’article 4 point a) en tout temps accessible aux agents chargés de leur inspection;
 
-2. de ne se procurer ses approvisionnements de médicaments qu’auprès de personnes qui, soit possèdent ellesmêmes l’autorisation de distribuer en gros des médicaments, soit sont dispensées de cette autorisation en vertu de l’article 3 paragraphe 2;
+- de ne se procurer ses approvisionnements de médicaments qu’auprès de personnes qui, soit possèdent ellesmêmes l’autorisation de distribuer en gros des médicaments, soit sont dispensées de cette autorisation en vertu de l’article 3 paragraphe 2;
 
-3. de ne fournir des médicaments qu’à des personnes qui possèdent elles-mêmes l’autorisation de distribuer en gros des médicaments ou à des pharmaciens tenant officine ouverte au public ou responsables d’une pharmacie hospitalière ou d’un dépôt hospitalier de médicaments.
+- de ne fournir des médicaments qu’à des personnes qui possèdent elles-mêmes l’autorisation de distribuer en gros des médicaments ou à des pharmaciens tenant officine ouverte au public ou responsables d’une pharmacie hospitalière ou d’un dépôt hospitalier de médicaments.
 
-4. de posséder un plan d’urgence qui garantisse la mise en oeuvre effective de toute action de retrait du marché ordonnée par le ministre de la Santé ou engagée en coopération avec le fabricant du produit concerné ou le titulaire de l’autorisation de mise sur le marché pour ledit produit;
+- de posséder un plan d’urgence qui garantisse la mise en oeuvre effective de toute action de retrait du marché ordonnée par le ministre de la Santé ou engagée en coopération avec le fabricant du produit concerné ou le titulaire de l’autorisation de mise sur le marché pour ledit produit;
 
-5. de conserver une documentation relative à toute transaction d’entrée et de sortie et comportant des renseignements dont le détail est fixé par un règlement grand-ducal. Cette documentation est tenue à la disposition des pharmaciens-inspecteurs, à des fins d’inspection.
+- de conserver une documentation relative à toute transaction d’entrée et de sortie et comportant des renseignements dont le détail est fixé par un règlement grand-ducal. Cette documentation est tenue à la disposition des pharmaciens-inspecteurs, à des fins d’inspection.
 
-6. de joindre pour toute fourniture de médicaments à un pharmacien un document dont le détail est fixé par règlement grand-ducal;
+- de joindre pour toute fourniture de médicaments à un pharmacien un document dont le détail est fixé par règlement grand-ducal;
 
-7. de se conformer aux principes et aux lignes directrices concernant les bonnes pratiques de distribution qui ont été ou qui seront publiés par la Commission des Communautés Européennes au Journal Officiel des Communautés Européennes. Ces principes et lignes directrices sont d’application au Luxembourg.
+- de se conformer aux principes et aux lignes directrices concernant les bonnes pratiques de distribution qui ont été ou qui seront publiés par la Commission des Communautés Européennes au Journal Officiel des Communautés Européennes. Ces principes et lignes directrices sont d’application au Luxembourg.
 
 <a id="art-5bis"></a>
 ## Art. 5bis.
 
-1. Le grossiste-répartiteur visé à l’alinéa 3 du paragraphe 1. de l’article 3 est chargé d’une obligation de service public.
+- Le grossiste-répartiteur visé à l’alinéa 3 du paragraphe 1. de l’article 3 est chargé d’une obligation de service public.
 
 En vertu de cette obligation il est tenu:
 
-1. de posséder de façon permanente un stock de médicaments lui permettant d’approvisionner journellement les pharmacies du pays. Ce stock doit correspondre, d’une part, aux deux tiers au moins du nombre des médicaments à usage humain bénéficiant d’une autorisation de mise sur le marché au Luxembourg et qui sont effectivement mis sur ce marché et, d’autre part, à la valeur moyenne des chiffres d’affaires mensuels de l’année précédente par médicament. Il doit inclure d’office les médicaments essentiels ou vitaux désignés par le ministre ayant la Santé dans ses attributions;
+- de posséder de façon permanente un stock de médicaments lui permettant d’approvisionner journellement les pharmacies du pays. Ce stock doit correspondre, d’une part, aux deux tiers au moins du nombre des médicaments à usage humain bénéficiant d’une autorisation de mise sur le marché au Luxembourg et qui sont effectivement mis sur ce marché et, d’autre part, à la valeur moyenne des chiffres d’affaires mensuels de l’année précédente par médicament. Il doit inclure d’office les médicaments essentiels ou vitaux désignés par le ministre ayant la Santé dans ses attributions;
 
-2. d’assurer à la requête du ministre de la Santé le stockage des médicaments acquis par l’Etat pour répondre à des situations d’exception. Les frais y afférents sont pris en charge par le budget de l’Etat sur base d’une convention à conclure entre le ministre de la Santé et le grossiste-répartiteur;
+- d’assurer à la requête du ministre de la Santé le stockage des médicaments acquis par l’Etat pour répondre à des situations d’exception. Les frais y afférents sont pris en charge par le budget de l’Etat sur base d’une convention à conclure entre le ministre de la Santé et le grossiste-répartiteur;
 
-3. de participer à un tour de garde établi d’un commun accord entre tous les grossistes-répartiteurs, ou établi d’office par le ministre de la Santé, à défaut d’accord, et garantissant un approvisionnement approprié de la population;
+- de participer à un tour de garde établi d’un commun accord entre tous les grossistes-répartiteurs, ou établi d’office par le ministre de la Santé, à défaut d’accord, et garantissant un approvisionnement approprié de la population;
 
-4. de prendre toutes les dispositions utiles pour assurer la livraison d’urgence de médicaments dans les meilleurs délais, et dans les vingt-quatre heures de leur commande au plus tard.
+- de prendre toutes les dispositions utiles pour assurer la livraison d’urgence de médicaments dans les meilleurs délais, et dans les vingt-quatre heures de leur commande au plus tard.
 
-1. Les détenteurs d’une autorisation de distribuer en gros délivrée au Luxembourg autres que les grossistes-répartiteurs, ainsi que les personnes pouvant se prévaloir d’une autorisation équivalente délivrée dans un autre Etat membre conformément à l’alinéa 4 du paragraphe 1. de l’article 3, sont tenus d’assurer un approvisionnement continu des médicaments effectivement mis par eux sur le marché au Luxembourg pour les pharmacies du pays, de manière à couvrir les besoins de la population.
+- Les détenteurs d’une autorisation de distribuer en gros délivrée au Luxembourg autres que les grossistes-répartiteurs, ainsi que les personnes pouvant se prévaloir d’une autorisation équivalente délivrée dans un autre Etat membre conformément à l’alinéa 4 du paragraphe 1. de l’article 3, sont tenus d’assurer un approvisionnement continu des médicaments effectivement mis par eux sur le marché au Luxembourg pour les pharmacies du pays, de manière à couvrir les besoins de la population.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -159,11 +159,11 @@ L’importation de médicaments en provenance de pays tiers est réservée aux t
 
 Les modifications suivantes sont apportées à la loi du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des spécialités pharmaceutiques et des médicaments préfabriqués.
 
-1. Dans l’intitulé de la loi ainsi que dans tout son texte, à l’exception de l’article 1er les expressions spécialités pharmaceutiques et spécialités pharmaceutiques et/ou médicaments préfabriqués sont remplacées par l’expression médicaments. Il en est de même dans les règlements grand-ducaux pris en exécution de cette loi.
+- Dans l’intitulé de la loi ainsi que dans tout son texte, à l’exception de l’article 1er les expressions spécialités pharmaceutiques et spécialités pharmaceutiques et/ou médicaments préfabriqués sont remplacées par l’expression médicaments. Il en est de même dans les règlements grand-ducaux pris en exécution de cette loi.
 
-2. Entre les articles 9 et 10 il est intercalé un article 9-1 nouveau, rédigé comme suit: «9-1: L’autorisation précise si le médicament est soumis à prescription médicale ou non. Un règlement grand-ducal détermine les critères sur base desquels s’opère la classification des médicaments en médicaments soumis à prescription médicale et en médicaments non soumis à prescription. Ce règlement peut prévoir des sous-catégories pour les médicaments qui ne peuvent être délivrés que sur prescription médicale, et notamment distinguer entre les médicaments sur prescription médicale renouvelable ou non renouvelable; les médicaments soumis à prescription médicale spéciale; les médicaments sur prescription médicale restreinte, réservés à certains milieux spécialisés. Le même règlement détermine les modalités ayant trait à l’établissement d’une liste des médicaments soumis à prescription médicale et à leur communication à la Commission des Communautés, ainsi qu’à la révision de la classification d’un médicament déterminé.»
+- Entre les articles 9 et 10 il est intercalé un article 9-1 nouveau, rédigé comme suit: «9-1: L’autorisation précise si le médicament est soumis à prescription médicale ou non. Un règlement grand-ducal détermine les critères sur base desquels s’opère la classification des médicaments en médicaments soumis à prescription médicale et en médicaments non soumis à prescription. Ce règlement peut prévoir des sous-catégories pour les médicaments qui ne peuvent être délivrés que sur prescription médicale, et notamment distinguer entre les médicaments sur prescription médicale renouvelable ou non renouvelable; les médicaments soumis à prescription médicale spéciale; les médicaments sur prescription médicale restreinte, réservés à certains milieux spécialisés. Le même règlement détermine les modalités ayant trait à l’établissement d’une liste des médicaments soumis à prescription médicale et à leur communication à la Commission des Communautés, ainsi qu’à la révision de la classification d’un médicament déterminé.»
 
-3. Le chapitre III - Publicité est complété par un article 19-1 nouveau, rédigé comme suit: «Art. 19-1. Action en cessation. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale à la requête de toute personne, du collège médical ou du conseil d’administration de l’Union des caisses de maladie ordonne la cessation des actes de publicité ou l’interdiction d’actes de publicité projetés, lorsqu’ils sont contraires à l’article qui précède et au règlement pris en son exécution. L’action est introduite et jugée comme en matière de référé conformément aux articles 806 à 811-2 du code de procédure civile.Toutefois, par dérogation à l’article 811-1, alinéa 2 du code de procédure civile, l’ordonnance de référé n’est pas susceptible d’opposition».
+- Le chapitre III - Publicité est complété par un article 19-1 nouveau, rédigé comme suit: «Art. 19-1. Action en cessation. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale à la requête de toute personne, du collège médical ou du conseil d’administration de l’Union des caisses de maladie ordonne la cessation des actes de publicité ou l’interdiction d’actes de publicité projetés, lorsqu’ils sont contraires à l’article qui précède et au règlement pris en son exécution. L’action est introduite et jugée comme en matière de référé conformément aux articles 806 à 811-2 du code de procédure civile.Toutefois, par dérogation à l’article 811-1, alinéa 2 du code de procédure civile, l’ordonnance de référé n’est pas susceptible d’opposition».
 
 <a id="art-9"></a>
 ## Art. 9.

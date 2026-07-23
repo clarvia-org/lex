@@ -75,9 +75,9 @@ Mise à la consommation d’essence ou de gasoil utilisé comme carburant
 
 L’article 1er, paragraphe 1er de la loi modifiée du 17 décembre 2010 fixant les droits d’accise et taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques est modifié comme suit:
 
-1. Au paragraphe 1 er , alinéa 1, le chiffre 4,75% est remplacé par le chiffre 5,40% .
+- Au paragraphe 1 er , alinéa 1, le chiffre 4,75% est remplacé par le chiffre 5,40% .
 
-2. Au paragraphe 1 er un nouvel alinéa est inséré entre le premier et le deuxième alinéa avec la teneur suivante: «Après application de la règle du double comptage prévue à l’alinéa 3, les biocarburants utilisés doivent au moins être issus à 30% de déchets, de résidus, de matières cellulosiques d’origine non alimentaire et de matières ligno-cellulosiques. Dans des cas d’indisponibilité ou de prix excessifs des biocarburants issus de déchets, de résidus, de matières cellulosiques d’origine non alimentaire et de matières ligno-cellulosiques, le seuil de 30% peut être réduit par voie de règlement grand-ducal. La réduction du seuil est fonction de considérations de politique économique et énergétique et de disponibilité sur le marché de déchets, de résidus, de matières cellulosiques d’origine non alimentaire et de matières ligno-cellulosiques.»
+- Au paragraphe 1 er un nouvel alinéa est inséré entre le premier et le deuxième alinéa avec la teneur suivante: «Après application de la règle du double comptage prévue à l’alinéa 3, les biocarburants utilisés doivent au moins être issus à 30% de déchets, de résidus, de matières cellulosiques d’origine non alimentaire et de matières ligno-cellulosiques. Dans des cas d’indisponibilité ou de prix excessifs des biocarburants issus de déchets, de résidus, de matières cellulosiques d’origine non alimentaire et de matières ligno-cellulosiques, le seuil de 30% peut être réduit par voie de règlement grand-ducal. La réduction du seuil est fonction de considérations de politique économique et énergétique et de disponibilité sur le marché de déchets, de résidus, de matières cellulosiques d’origine non alimentaire et de matières ligno-cellulosiques.»
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -86,9 +86,9 @@ Modification de la loi modifiée du 17 décembre 2010 fixant les droits d’acci
 
 La loi modifiée du 17 décembre 2010 fixant les droits d’accise et les taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques est modifiée comme suit:
 
-1. A l’article 2, paragraphe 4 de la loi précitée du 17 décembre 2010 , est ajouté un point d) ayant la teneur suivante: «d) houille et coke utilisés comme combustible pour la consommation professionnelle 5,00 € par 1.000 kg»
+- A l’article 2, paragraphe 4 de la loi précitée du 17 décembre 2010 , est ajouté un point d) ayant la teneur suivante: «d) houille et coke utilisés comme combustible pour la consommation professionnelle 5,00 € par 1.000 kg»
 
-2. L’article 2, paragraphe 5, l’article 3, paragraphe 2 de l’article 3 et l’article 4, paragraphe 2 de la loi précitée du 17 décembre 2010 sont abrogés.
+- L’article 2, paragraphe 5, l’article 3, paragraphe 2 de l’article 3 et l’article 4, paragraphe 2 de la loi précitée du 17 décembre 2010 sont abrogés.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -97,11 +97,11 @@ Modification de la loi modifiée du 4 décembre 1967 concernant l’impôt sur l
 
 La loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu est modifiée comme suit:
 
-1. L’article 9 est supprimé.
+- L’article 9 est supprimé.
 
-2. L’article 154 est modifié et complété comme suit: «(1) Sont imputés sur la créance d’impôt due au titre d’une année d’imposition: à défaut de l’octroi de bonis pour enfants, les modérations d’impôt pour enfants visées à l’article 122, ainsi que, le cas échéant, les bonifications d’impôt pour enfants visées à l’article 123bis; l’impôt retenu à la source pour autant qu’il se rapporte à des revenus soumis à l’assiette pour cette année, ainsi que le crédit d’impôt monoparental visé à l’article 154ter d’après les dispositions prévues à l’article 154bis; l’impôt retenu à l’étranger en application de la directive 2003/48/CE du Conseil du 3 juin 2003 en matière de fiscalité des revenus de l’épargne sous forme de paiements d’intérêts, telle qu’elle a été modifiée ou des conventions internationales directement liées à cette directive pour l’année d’imposition précitée; cette imputation est toutefois réservée à la retenue européenne qui n’est pas imputée sur le prélèvement libératoire prévu par l’article 6bis de la loi modifiée du 23 décembre 2005 portant introduction d’une retenue à la source libératoire sur certains intérêts produits par l’épargne mobilière. La retenue d’impôt européenne opérée au Luxembourg en application des dispositions mentionnées ci-devant est également imputable si elle est en relation avec des revenus indigènes d’un contribuable non résident; les avances versées pour l’année d’imposition précitée. (2) Lorsque la créance d’impôt sur le revenu est supérieure à la somme des déductions prévues à l’alinéa premier, le solde d’impôt, préalablement arrondi au multiple inférieur d’un euro, est à verser dans le mois de la notification du bulletin d’impôt, le jour de la notification n’étant pas compté. (3) Sont à verser dès la notification du bulletin d’impôt: l’impôt ou le solde d’impôt dû à la suite d’une imposition établie par application des dispositions du troisième alinéa de l’article 117; la part du solde d’impôt qui correspond aux avances devenues exigibles durant l’année d’imposition mais non encore réglées. (4) Un règlement grand-ducal fixera le mode de notification des bulletins d’impôt et en général de toutes pièces et communications émises par l’administration en vertu de la présente loi. (5) La retenue d’impôt sur les traitements et salaires n’est pas sujette à restitution lorsque la retenue a été opérée à charge des salariés qui sont contribuables résidents pendant une partie de l’année seulement parce qu’ils s’établissent au pays ou parce qu’ils quittent le pays au courant de l’année. (6) Par dérogation à l’alinéa 5, la retenue d’impôt sur les traitements et salaires est restituable lorsque les salariés visés à l’alinéa 5 n’ont pas eu d’autres revenus indigènes ou étrangers. Dans tous les autres cas, est restituable, à condition que les salariés demandent à être imposés, par dérogation à l’article 6, alinéa 3, comme s’ils avaient été contribuables résidents pendant toute l’année, l’excédent de la retenue d’impôt sur les traitements et salaires sur la cote d’impôt établie d’après le régime d’imposition des contribuables résidents. (6a) Sous réserve des dispositions de l’article 149, alinéa 4a, les retenues sur les revenus de capitaux dûment opérées ne sont pas sujettes à restitution. (7) Lorsque la créance d’impôt sur le revenu est inférieure à la somme des déductions prévues à l’alinéa premier, l’excédent payé est, dès la notification du bulletin, à imputer sur d’autres créances exigibles du même contribuable ou, à défaut, à rembourser d’office à ce dernier.»
+- L’article 154 est modifié et complété comme suit: «(1) Sont imputés sur la créance d’impôt due au titre d’une année d’imposition: à défaut de l’octroi de bonis pour enfants, les modérations d’impôt pour enfants visées à l’article 122, ainsi que, le cas échéant, les bonifications d’impôt pour enfants visées à l’article 123bis; l’impôt retenu à la source pour autant qu’il se rapporte à des revenus soumis à l’assiette pour cette année, ainsi que le crédit d’impôt monoparental visé à l’article 154ter d’après les dispositions prévues à l’article 154bis; l’impôt retenu à l’étranger en application de la directive 2003/48/CE du Conseil du 3 juin 2003 en matière de fiscalité des revenus de l’épargne sous forme de paiements d’intérêts, telle qu’elle a été modifiée ou des conventions internationales directement liées à cette directive pour l’année d’imposition précitée; cette imputation est toutefois réservée à la retenue européenne qui n’est pas imputée sur le prélèvement libératoire prévu par l’article 6bis de la loi modifiée du 23 décembre 2005 portant introduction d’une retenue à la source libératoire sur certains intérêts produits par l’épargne mobilière. La retenue d’impôt européenne opérée au Luxembourg en application des dispositions mentionnées ci-devant est également imputable si elle est en relation avec des revenus indigènes d’un contribuable non résident; les avances versées pour l’année d’imposition précitée. (2) Lorsque la créance d’impôt sur le revenu est supérieure à la somme des déductions prévues à l’alinéa premier, le solde d’impôt, préalablement arrondi au multiple inférieur d’un euro, est à verser dans le mois de la notification du bulletin d’impôt, le jour de la notification n’étant pas compté. (3) Sont à verser dès la notification du bulletin d’impôt: l’impôt ou le solde d’impôt dû à la suite d’une imposition établie par application des dispositions du troisième alinéa de l’article 117; la part du solde d’impôt qui correspond aux avances devenues exigibles durant l’année d’imposition mais non encore réglées. (4) Un règlement grand-ducal fixera le mode de notification des bulletins d’impôt et en général de toutes pièces et communications émises par l’administration en vertu de la présente loi. (5) La retenue d’impôt sur les traitements et salaires n’est pas sujette à restitution lorsque la retenue a été opérée à charge des salariés qui sont contribuables résidents pendant une partie de l’année seulement parce qu’ils s’établissent au pays ou parce qu’ils quittent le pays au courant de l’année. (6) Par dérogation à l’alinéa 5, la retenue d’impôt sur les traitements et salaires est restituable lorsque les salariés visés à l’alinéa 5 n’ont pas eu d’autres revenus indigènes ou étrangers. Dans tous les autres cas, est restituable, à condition que les salariés demandent à être imposés, par dérogation à l’article 6, alinéa 3, comme s’ils avaient été contribuables résidents pendant toute l’année, l’excédent de la retenue d’impôt sur les traitements et salaires sur la cote d’impôt établie d’après le régime d’imposition des contribuables résidents. (6a) Sous réserve des dispositions de l’article 149, alinéa 4a, les retenues sur les revenus de capitaux dûment opérées ne sont pas sujettes à restitution. (7) Lorsque la créance d’impôt sur le revenu est inférieure à la somme des déductions prévues à l’alinéa premier, l’excédent payé est, dès la notification du bulletin, à imputer sur d’autres créances exigibles du même contribuable ou, à défaut, à rembourser d’office à ce dernier.»
 
-3. Le paragraphe 6 de l’article 174 est modifié comme suit: «(6) Par dérogation aux alinéas 1, 3 et 4, l’impôt sur le revenu des collectivités est fixé à 1. 3.000 euros au minimum pour les organismes à caractère collectif ayant leur siège social ou leur administration centrale au Luxembourg dans le chef desquels la somme des immobilisations financières, des créances sur des entreprises liées et sur des entreprises avec lesquelles l’organisme à caractère collectif a un lien de participation, des valeurs mobilières et des avoirs en banques, avoirs en comptes de chèques postaux, chèques et encaisse dépasse 90% du total du bilan et 350.000 euros. Par immobilisations financières, créances sur des entreprises liées et sur des entreprises avec lesquelles l’organisme à caractère collectif a un lien de participation, valeurs mobilières et avoirs en banque, avoirs en comptes de chèques postaux, chèques et encaisse, il y a lieu d’entendre les biens qui sont ou seraient à comptabiliser aux comptes 23, 41, 50 et 51 du plan comptable normalisé. Pour l’application du présent numéro, les parts détenues dans des entreprises communes en général sont supposées être comptabilisées aux comptes 231 et 233 du plan comptable normalisé; 2.500 euros au minimum lorsque le total du bilan est inférieur ou égal à 350.000 euros, 1.500 euros au minimum lorsque le total du bilan est supérieur à 350.000 euros et inférieur ou égal à 2.000.000 euros, 5.000 euros au minimum lorsque le total du bilan est supérieur à 2.000.000 euros et inférieur ou égal à 10.000.000 euros, 10.000 euros au minimum lorsque le total du bilan est supérieur à 10.000.000 euros et inférieur ou égal à 15.000.000 euros, 15.000 euros au minimum lorsque le total du bilan est supérieur à 15.000.000 euros et inférieur ou égal à 20.000.000 euros, 20.000 euros au minimum lorsque le total du bilan est supérieur à 20.000.000 euros pour les autres organismes à caractère collectif ayant leur siège social ou leur administration centrale au Luxembourg. Par total du bilan, on entend le total du dernier bilan de clôture de l’année d’imposition. Dans le chef des collectivités non soumises aux obligations comptables, le total du bilan correspond au total des biens qui seraient à porter à l’actif d’un bilan. L’impôt minimum perçu au titre de cet alinéa est à traiter comme une avance sur la cote de l’impôt sur le revenu des collectivités des années à venir dans la mesure où il dépasse le montant de la cote d’impôt normale de l’année d’imposition. Par dérogation à l’article 154, alinéa 7, l’impôt minimum n’est pas remboursé au contribuable. En cas de l’application de l’article 164bis, l’impôt dont est passible la société mère ou l’établissement stable indigène est à majorer de l’impôt au sens du présent alinéa qui serait dû en l’absence de cet article par chacune des sociétés du groupe sans pouvoir dépasser le montant de 20.000 euros. Ne sont pas imputées sur l’impôt dû au titre d’une année d’imposition, fixé conformément aux dispositions du présent alinéa et majoré de la contribution au fonds pour l’emploi, la bonification d’impôt pour investissement au sens de l’article 152bis, la bonification d’impôt en cas d’embauchage de chômeurs au sens de la loi modifiée du 24 décembre 1996 portant introduction d’une bonification d’impôt sur le revenu en cas d’embauchage de chômeurs, la bonification d’impôt pour frais de formation professionnelle continue au sens de la loi modifiée du 31 juillet 2006 portant introduction d’un Code de Travail et la bonification d’impôt pour investissement en capital-risque au sens de l’Article VI de la loi modifiée du 22 décembre 1993 ayant pour objet la relance de l’investissement dans l’intérêt du développement économique.»
+- Le paragraphe 6 de l’article 174 est modifié comme suit: «(6) Par dérogation aux alinéas 1, 3 et 4, l’impôt sur le revenu des collectivités est fixé à 1. 3.000 euros au minimum pour les organismes à caractère collectif ayant leur siège social ou leur administration centrale au Luxembourg dans le chef desquels la somme des immobilisations financières, des créances sur des entreprises liées et sur des entreprises avec lesquelles l’organisme à caractère collectif a un lien de participation, des valeurs mobilières et des avoirs en banques, avoirs en comptes de chèques postaux, chèques et encaisse dépasse 90% du total du bilan et 350.000 euros. Par immobilisations financières, créances sur des entreprises liées et sur des entreprises avec lesquelles l’organisme à caractère collectif a un lien de participation, valeurs mobilières et avoirs en banque, avoirs en comptes de chèques postaux, chèques et encaisse, il y a lieu d’entendre les biens qui sont ou seraient à comptabiliser aux comptes 23, 41, 50 et 51 du plan comptable normalisé. Pour l’application du présent numéro, les parts détenues dans des entreprises communes en général sont supposées être comptabilisées aux comptes 231 et 233 du plan comptable normalisé; 2.500 euros au minimum lorsque le total du bilan est inférieur ou égal à 350.000 euros, 1.500 euros au minimum lorsque le total du bilan est supérieur à 350.000 euros et inférieur ou égal à 2.000.000 euros, 5.000 euros au minimum lorsque le total du bilan est supérieur à 2.000.000 euros et inférieur ou égal à 10.000.000 euros, 10.000 euros au minimum lorsque le total du bilan est supérieur à 10.000.000 euros et inférieur ou égal à 15.000.000 euros, 15.000 euros au minimum lorsque le total du bilan est supérieur à 15.000.000 euros et inférieur ou égal à 20.000.000 euros, 20.000 euros au minimum lorsque le total du bilan est supérieur à 20.000.000 euros pour les autres organismes à caractère collectif ayant leur siège social ou leur administration centrale au Luxembourg. Par total du bilan, on entend le total du dernier bilan de clôture de l’année d’imposition. Dans le chef des collectivités non soumises aux obligations comptables, le total du bilan correspond au total des biens qui seraient à porter à l’actif d’un bilan. L’impôt minimum perçu au titre de cet alinéa est à traiter comme une avance sur la cote de l’impôt sur le revenu des collectivités des années à venir dans la mesure où il dépasse le montant de la cote d’impôt normale de l’année d’imposition. Par dérogation à l’article 154, alinéa 7, l’impôt minimum n’est pas remboursé au contribuable. En cas de l’application de l’article 164bis, l’impôt dont est passible la société mère ou l’établissement stable indigène est à majorer de l’impôt au sens du présent alinéa qui serait dû en l’absence de cet article par chacune des sociétés du groupe sans pouvoir dépasser le montant de 20.000 euros. Ne sont pas imputées sur l’impôt dû au titre d’une année d’imposition, fixé conformément aux dispositions du présent alinéa et majoré de la contribution au fonds pour l’emploi, la bonification d’impôt pour investissement au sens de l’article 152bis, la bonification d’impôt en cas d’embauchage de chômeurs au sens de la loi modifiée du 24 décembre 1996 portant introduction d’une bonification d’impôt sur le revenu en cas d’embauchage de chômeurs, la bonification d’impôt pour frais de formation professionnelle continue au sens de la loi modifiée du 31 juillet 2006 portant introduction d’un Code de Travail et la bonification d’impôt pour investissement en capital-risque au sens de l’Article VI de la loi modifiée du 22 décembre 1993 ayant pour objet la relance de l’investissement dans l’intérêt du développement économique.»
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -110,43 +110,43 @@ Modification de la loi modifiée du 12 février 1979 concernant la taxe sur la v
 
 La loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée est modifiée comme suit:
 
-1. Il est inséré un article 15 bis libellé comme suit: «Art. 15bis. Sont considérés comme «services de télécommunication» les services ayant pour objet la transmission, l’émission et la réception de signaux, écrits, images et sons ou informations de toute nature par fils, par radio, par moyens optiques ou par d’autres moyens électromagnétiques, y compris la cession et la concession y afférentes d’un droit d’utilisation de moyens pour une telle transmission, émission ou réception, y compris la fourniture d’accès aux réseaux d’information mondiaux.»
+- Il est inséré un article 15 bis libellé comme suit: «Art. 15bis. Sont considérés comme «services de télécommunication» les services ayant pour objet la transmission, l’émission et la réception de signaux, écrits, images et sons ou informations de toute nature par fils, par radio, par moyens optiques ou par d’autres moyens électromagnétiques, y compris la cession et la concession y afférentes d’un droit d’utilisation de moyens pour une telle transmission, émission ou réception, y compris la fourniture d’accès aux réseaux d’information mondiaux.»
 
-2. L’article 39, paragraphe 3 est modifié comme suit:
+- L’article 39, paragraphe 3 est modifié comme suit:
 
-1. À l’alinéa 1, le terme quinze est remplacé par le terme dix-sept ;
+  - À l’alinéa 1, le terme quinze est remplacé par le terme dix-sept ;
 
-2. À l’alinéa 2, le terme six est remplacé par le terme huit ;
+  - À l’alinéa 2, le terme six est remplacé par le terme huit ;
 
-3. À l’alinéa 4, le terme douze est remplacé par le terme quatorze .
+  - À l’alinéa 4, le terme douze est remplacé par le terme quatorze .
 
-3. L’article 40 est modifié comme suit:
+- L’article 40 est modifié comme suit:
 
-1. Au paragraphe 1 er , point 1°, les termes introductifs au taux réduit de six pour cent, sont remplacés par ceux de au taux réduit, ;
+  - Au paragraphe 1 er , point 1°, les termes introductifs au taux réduit de six pour cent, sont remplacés par ceux de au taux réduit, ;
 
-2. Au paragraphe 1 er , point 2°, les termes au taux super-réduit de trois pour cent, sont remplacés par ceux de au taux super-réduit, ;
+  - Au paragraphe 1 er , point 2°, les termes au taux super-réduit de trois pour cent, sont remplacés par ceux de au taux super-réduit, ;
 
-3. Au paragraphe 1 er , point 3°, les termes au taux intermédiaire de douze pour cent, sont remplacés par ceux de au taux intermédiaire, ;
+  - Au paragraphe 1 er , point 3°, les termes au taux intermédiaire de douze pour cent, sont remplacés par ceux de au taux intermédiaire, ;
 
-4. Au paragraphe 2, les termes au taux normal de quinze pour cent sont remplacés par ceux de au taux normal .
+  - Au paragraphe 2, les termes au taux normal de quinze pour cent sont remplacés par ceux de au taux normal .
 
-4. L’annexe B est modifiée comme suit:
+- L’annexe B est modifiée comme suit:
 
-1. Le point 6° est modifié de manière à lui donner la teneur suivante: Vêtements, coiffures, écharpes, gants et chaussures pour enfants âgés de moins de 14 ans»;
+  - Le point 6° est modifié de manière à lui donner la teneur suivante: Vêtements, coiffures, écharpes, gants et chaussures pour enfants âgés de moins de 14 ans»;
 
-2. Le point 9° est modifié de manière à lui donner la teneur suivante: Services de restaurant et de restauration, à l’exclusion desdits services ou de la part desdits services portant sur des boissons alcooliques»;
+  - Le point 9° est modifié de manière à lui donner la teneur suivante: Services de restaurant et de restauration, à l’exclusion desdits services ou de la part desdits services portant sur des boissons alcooliques»;
 
-3. Les points 21° et 22° sont modifiés de manière à leur donner la teneur suivante: Affectation d’un logement à des fins d’habitation principale dans le chef du propriétaire du logement ayant fait l’objet de certains travaux de création et de rénovation Affectation d’un logement à des fins d’habitation principale dans le chef d’une personne autre que le propriétaire du logement ayant fait l’objet de certains travaux de rénovation Dans les limites et les conditions à déterminer par règlement grand-ducal: Certains travaux de création et de rénovation effectués dans l’intérêt d’un logement affecté à des fins d’habitation principale dans le chef du propriétaire du logement Certains travaux de rénovation effectués dans l’intérêt d’un logement affecté à des fins d’habitation principale dans le chef d’une personne autre que le propriétaire du logement».
+  - Les points 21° et 22° sont modifiés de manière à leur donner la teneur suivante: Affectation d’un logement à des fins d’habitation principale dans le chef du propriétaire du logement ayant fait l’objet de certains travaux de création et de rénovation Affectation d’un logement à des fins d’habitation principale dans le chef d’une personne autre que le propriétaire du logement ayant fait l’objet de certains travaux de rénovation Dans les limites et les conditions à déterminer par règlement grand-ducal: Certains travaux de création et de rénovation effectués dans l’intérêt d’un logement affecté à des fins d’habitation principale dans le chef du propriétaire du logement Certains travaux de rénovation effectués dans l’intérêt d’un logement affecté à des fins d’habitation principale dans le chef d’une personne autre que le propriétaire du logement».
 
-5. L’article 55 est modifié de manière à lui donner la teneur suivante: «Art. 55. 1. Lorsque, pour une période de déclaration et avant l’émission d’une information ou d’un bulletin conformément aux articles 73 à 76 couvrant cette période de déclaration, le montant déclaré des déductions dépasse celui de la taxe sur la valeur ajoutée due, l’excédent est reporté sur la période suivante. 2. Lorsque, pour une période d’imposition, les données de l’information ou du bulletin émis conformément aux articles 73 à 76 et couvrant cette période de déclaration font apparaître comme résultat final une somme due par l’État, cette somme est restituée après déduction de tout montant encore dû en vertu de la présente loi par l’assujetti, sur un compte communiqué par l’assujetti à l’administration. 3. Lorsque, pour une période de déclaration non couverte par une information ou un bulletin émis conformément aux articles 73 à 76, il existe un solde de compte en faveur de l’assujetti, cet assujetti peut introduire, par envoi recommandé, une demande en restitution de l’excédent auprès de la recette centrale TVA de l’administration. Cette demande doit indiquer la date d’émission de l’extrait de compte à la base de la demande respectivement la date de la consultation en ligne de la situation de compte TVA. 4. La décision de l’administration relative à la restitution suite à une demande conformément au paragraphe 3 se base sur la situation existant au moment de la décision. 5. L’administration notifie à l’assujetti sa décision d’accepter ou de rejeter la demande en restitution dans un délai de quatre mois à compter de la réception de la demande en restitution visée au paragraphe 3. L’assujetti est censé avoir reçu la décision de l’administration à la date de notification que la décision indique. La notification est valablement faite par dépôt à la poste de l’envoi recommandé adressé soit au lieu du domicile de l’assujetti, de sa résidence ou de son siège, soit à l’adresse que l’assujetti a lui-même fait connaître à l’administration. 6. Lorsque l’administration estime ne pas être en possession de toutes les informations qui lui permettent de statuer sur la totalité ou une partie de la demande en restitution, elle peut demander, par voie recommandée, des informations complémentaires auprès du requérant dans la période de quatre mois visée au paragraphe 5. Les informations exigées doivent être fournies par le requérant dans un délai d’un mois à compter de la date de réception de la demande d’informations. 7. Lorsque l’administration demande des informations complémentaires, elle notifie au requérant sa décision d’accepter ou de rejeter la demande en restitution dans un délai de deux mois à partir de la date de réception des informations demandées ou, si elle n’a pas reçu de réponse à sa demande, dans un délai de deux mois à partir de l’expiration du délai visé au paragraphe 5. Toutefois, le délai dont elle dispose pour décider d’accorder la restitution totale ou partielle à partir de la réception de la demande est toujours de six mois minimum. 8. Lorsque la demande en restitution est acceptée, la restitution du montant accepté est effectuée par l’administration au plus tard dans un délai de dix jours ouvrables à partir de l’expiration du délai visé au paragraphe 5 ou, si des informations complémentaires ont été demandées, à partir de l’expiration des délais visés au paragraphe 7. 9. Lorsque la demande en restitution est rejetée en totalité ou en partie, les motifs du rejet ainsi qu’une instruction relative aux délais et voies de recours sont notifiés à l’assujetti en même temps que la décision de rejet. L’absence de décision dans les délais prévus aux paragraphes 5 et 7 vaut décision de rejet susceptible de recours. 10. La décision portant refus de restitution peut être attaquée par voie de réclamation. La réclamation, dûment motivée, doit être introduite par écrit auprès de l’administration dans un délai de trois mois à compter de la date de notification de la décision ou, en cas d’absence de décision de la part de l’administration, de la date d’expiration des délais visés aux paragraphes 5 et 7. En cas de rejet total ou partiel de la réclamation au niveau de la Recette centrale, le directeur de l’administration est saisi d’office de la réclamation. Sa décision se substitue à la décision de refus. La notification de la décision directoriale est valablement faite par dépôt à la poste de l’envoi recommandé adressé soit au lieu du domicile de l’assujetti, de sa résidence ou de son siège, soit à l’adresse que l’assujetti a lui-même fait connaître à l’administration. La décision indique la date de notification à laquelle l’assujetti est censé l’avoir reçue. La décision du directeur est susceptible de recours. Le recours est introduit par une assignation devant le tribunal d’arrondissement de Luxembourg, siégeant en matière civile. Sous peine de forclusion, l’exploit portant assignation doit être signifié à l’administration dans un délai de trois mois à compter de la date de notification figurant sur la décision du directeur. Lorsqu’une réclamation a été introduite et qu’une décision n’est pas intervenue dans le délai de six mois à partir de la réclamation, le réclamant peut considérer la réclamation comme rejetée et introduire un recours contre la décision qui fait l’objet de la réclamation. Dans ce cas, le délai prévu à l’alinéa qui précède ne court pas. 11. L’administration est redevable à l’assujetti d’intérêts calculés sur le solde à restituer à l’assujetti si la restitution est effectuée après l’expiration du délai de restitution prévu par le paragraphe 8. Cette disposition ne s’applique pas lorsque l’assujetti n’a pas fourni, dans le délai visé au paragraphe 6, les informations complémentaires qui, le cas échéant, ont été exigées par l’administration. Les intérêts sont calculés au taux prévu à l’article 85, alinéa 2, depuis le jour qui suit le jour d’expiration du délai de restitution prévu par le paragraphe 8, jusqu’au jour où la restitution est effectivement effectuée.» .
+- L’article 55 est modifié de manière à lui donner la teneur suivante: «Art. 55. 1. Lorsque, pour une période de déclaration et avant l’émission d’une information ou d’un bulletin conformément aux articles 73 à 76 couvrant cette période de déclaration, le montant déclaré des déductions dépasse celui de la taxe sur la valeur ajoutée due, l’excédent est reporté sur la période suivante. 2. Lorsque, pour une période d’imposition, les données de l’information ou du bulletin émis conformément aux articles 73 à 76 et couvrant cette période de déclaration font apparaître comme résultat final une somme due par l’État, cette somme est restituée après déduction de tout montant encore dû en vertu de la présente loi par l’assujetti, sur un compte communiqué par l’assujetti à l’administration. 3. Lorsque, pour une période de déclaration non couverte par une information ou un bulletin émis conformément aux articles 73 à 76, il existe un solde de compte en faveur de l’assujetti, cet assujetti peut introduire, par envoi recommandé, une demande en restitution de l’excédent auprès de la recette centrale TVA de l’administration. Cette demande doit indiquer la date d’émission de l’extrait de compte à la base de la demande respectivement la date de la consultation en ligne de la situation de compte TVA. 4. La décision de l’administration relative à la restitution suite à une demande conformément au paragraphe 3 se base sur la situation existant au moment de la décision. 5. L’administration notifie à l’assujetti sa décision d’accepter ou de rejeter la demande en restitution dans un délai de quatre mois à compter de la réception de la demande en restitution visée au paragraphe 3. L’assujetti est censé avoir reçu la décision de l’administration à la date de notification que la décision indique. La notification est valablement faite par dépôt à la poste de l’envoi recommandé adressé soit au lieu du domicile de l’assujetti, de sa résidence ou de son siège, soit à l’adresse que l’assujetti a lui-même fait connaître à l’administration. 6. Lorsque l’administration estime ne pas être en possession de toutes les informations qui lui permettent de statuer sur la totalité ou une partie de la demande en restitution, elle peut demander, par voie recommandée, des informations complémentaires auprès du requérant dans la période de quatre mois visée au paragraphe 5. Les informations exigées doivent être fournies par le requérant dans un délai d’un mois à compter de la date de réception de la demande d’informations. 7. Lorsque l’administration demande des informations complémentaires, elle notifie au requérant sa décision d’accepter ou de rejeter la demande en restitution dans un délai de deux mois à partir de la date de réception des informations demandées ou, si elle n’a pas reçu de réponse à sa demande, dans un délai de deux mois à partir de l’expiration du délai visé au paragraphe 5. Toutefois, le délai dont elle dispose pour décider d’accorder la restitution totale ou partielle à partir de la réception de la demande est toujours de six mois minimum. 8. Lorsque la demande en restitution est acceptée, la restitution du montant accepté est effectuée par l’administration au plus tard dans un délai de dix jours ouvrables à partir de l’expiration du délai visé au paragraphe 5 ou, si des informations complémentaires ont été demandées, à partir de l’expiration des délais visés au paragraphe 7. 9. Lorsque la demande en restitution est rejetée en totalité ou en partie, les motifs du rejet ainsi qu’une instruction relative aux délais et voies de recours sont notifiés à l’assujetti en même temps que la décision de rejet. L’absence de décision dans les délais prévus aux paragraphes 5 et 7 vaut décision de rejet susceptible de recours. 10. La décision portant refus de restitution peut être attaquée par voie de réclamation. La réclamation, dûment motivée, doit être introduite par écrit auprès de l’administration dans un délai de trois mois à compter de la date de notification de la décision ou, en cas d’absence de décision de la part de l’administration, de la date d’expiration des délais visés aux paragraphes 5 et 7. En cas de rejet total ou partiel de la réclamation au niveau de la Recette centrale, le directeur de l’administration est saisi d’office de la réclamation. Sa décision se substitue à la décision de refus. La notification de la décision directoriale est valablement faite par dépôt à la poste de l’envoi recommandé adressé soit au lieu du domicile de l’assujetti, de sa résidence ou de son siège, soit à l’adresse que l’assujetti a lui-même fait connaître à l’administration. La décision indique la date de notification à laquelle l’assujetti est censé l’avoir reçue. La décision du directeur est susceptible de recours. Le recours est introduit par une assignation devant le tribunal d’arrondissement de Luxembourg, siégeant en matière civile. Sous peine de forclusion, l’exploit portant assignation doit être signifié à l’administration dans un délai de trois mois à compter de la date de notification figurant sur la décision du directeur. Lorsqu’une réclamation a été introduite et qu’une décision n’est pas intervenue dans le délai de six mois à partir de la réclamation, le réclamant peut considérer la réclamation comme rejetée et introduire un recours contre la décision qui fait l’objet de la réclamation. Dans ce cas, le délai prévu à l’alinéa qui précède ne court pas. 11. L’administration est redevable à l’assujetti d’intérêts calculés sur le solde à restituer à l’assujetti si la restitution est effectuée après l’expiration du délai de restitution prévu par le paragraphe 8. Cette disposition ne s’applique pas lorsque l’assujetti n’a pas fourni, dans le délai visé au paragraphe 6, les informations complémentaires qui, le cas échéant, ont été exigées par l’administration. Les intérêts sont calculés au taux prévu à l’article 85, alinéa 2, depuis le jour qui suit le jour d’expiration du délai de restitution prévu par le paragraphe 8, jusqu’au jour où la restitution est effectivement effectuée.» .
 
-6. A l’article 57, paragraphe 3, alinéa 1, le point d) est supprimé.
+- A l’article 57, paragraphe 3, alinéa 1, le point d) est supprimé.
 
-7. L’article 58, paragraphe 1 er est complété par un alinéa ayant la teneur suivante: «Les biens visés aux points a) et b) qui, ultérieurement à leur livraison avec application du taux forfaitaire, font l’objet d’une livraison soumise au régime commun de TVA, ne peuvent dans la suite plus être livrés avec application du taux forfaitaire.»
+- L’article 58, paragraphe 1 er est complété par un alinéa ayant la teneur suivante: «Les biens visés aux points a) et b) qui, ultérieurement à leur livraison avec application du taux forfaitaire, font l’objet d’une livraison soumise au régime commun de TVA, ne peuvent dans la suite plus être livrés avec application du taux forfaitaire.»
 
-8. A l’article 66 bis , paragraphe 5, le point c) est modifié de manière à lui donner la teneur suivante: «c) Les factures relatives aux livraisons de biens et prestations de services fournies à l’intérieur du pays, par des assujettis y établis, aux assujettis représentés doivent mentionner le numéro d’identification du fournisseur respectivement du prestataire ainsi que le numéro d’identification individuel spécifique du représentant fiscal;»
+- A l’article 66 bis , paragraphe 5, le point c) est modifié de manière à lui donner la teneur suivante: «c) Les factures relatives aux livraisons de biens et prestations de services fournies à l’intérieur du pays, par des assujettis y établis, aux assujettis représentés doivent mentionner le numéro d’identification du fournisseur respectivement du prestataire ainsi que le numéro d’identification individuel spécifique du représentant fiscal;»
 
-9. A l’article 70, paragraphe 1 er , alinéa 2, phrase finale, le point final est remplacé par une virgule et ladite phrase est complétée par les termes suivants: ainsi que des données concernant leurs caisses enregistreuses et leur gestion de stocks.
+- A l’article 70, paragraphe 1 er , alinéa 2, phrase finale, le point final est remplacé par une virgule et ladite phrase est complétée par les termes suivants: ainsi que des données concernant leurs caisses enregistreuses et leur gestion de stocks.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -203,9 +203,9 @@ La perception et le recouvrement de l’impôt d’équilibrage budgétaire temp
 
 Un règlement grand-ducal peut:
 
-1. majorer les taux des différentes retenues prévues par la loi modifiée concernant l’impôt sur le revenu au titre de l’impôt d’équilibrage budgétaire temporaire sans que cette majoration puisse excéder 0,5% du revenu sous-jacent;
+- majorer les taux des différentes retenues prévues par la loi modifiée concernant l’impôt sur le revenu au titre de l’impôt d’équilibrage budgétaire temporaire sans que cette majoration puisse excéder 0,5% du revenu sous-jacent;
 
-2. régler l’exécution pratique des dispositions des paragraphes 5 à 7.
+- régler l’exécution pratique des dispositions des paragraphes 5 à 7.
 
 (9)
 
@@ -246,9 +246,9 @@ Au cours de l’année 2015, le Gouvernement est autorisé à procéder au rempl
 
 Pour l’application de cette disposition, l’effectif total du personnel comprend:
 
-1. les fonctionnaires, les employés et les ouvriers occupés à titre permanent et à tâche complète au service de l’Etat à la date du 31 décembre 2014;
+- les fonctionnaires, les employés et les ouvriers occupés à titre permanent et à tâche complète au service de l’Etat à la date du 31 décembre 2014;
 
-2. les fonctionnaires, les employés et ouvriers occupés à tâche partielle dans la limite des effectifs en hommes-heures/an au 31 décembre 2014.
+- les fonctionnaires, les employés et ouvriers occupés à tâche partielle dans la limite des effectifs en hommes-heures/an au 31 décembre 2014.
 
 Sont comprises dans l’effectif total les vacances d’emploi qui se sont produites avant le 1er janvier 2015 et qui n’ont pas pu être pourvues de titulaires à cette date.
 
@@ -256,19 +256,19 @@ Sont comprises dans l’effectif total les vacances d’emploi qui se sont produ
 
 Par dérogation aux deux paragraphes qui précèdent, le Gouvernement est autorisé à procéder au cours de l’année 2015:
 
-1. à des engagements de renforcement de personnel occupé à titre permanent et à tâche complète dans les différents services de l’Etat, dont le nombre ne peut toutefois pas dépasser de plus de 370 unités l’effectif total tel qu’il est défini au paragraphe (2) a);
+- à des engagements de renforcement de personnel occupé à titre permanent et à tâche complète dans les différents services de l’Etat, dont le nombre ne peut toutefois pas dépasser de plus de 370 unités l’effectif total tel qu’il est défini au paragraphe (2) a);
 
-2. aux engagements de personnel pour les besoins des services de l’Etat reconnus nécessaires pour l’occupation anticipée d’emplois non vacants, sans que la durée de l’occupation anticipée puisse être supérieure à six mois;
+- aux engagements de personnel pour les besoins des services de l’Etat reconnus nécessaires pour l’occupation anticipée d’emplois non vacants, sans que la durée de l’occupation anticipée puisse être supérieure à six mois;
 
-3. au remplacement à titre définitif des agents de l’Etat bénéficiant du régime de la préretraite. Lorsque le remplaçant est recruté en vue de son admission ultérieure au statut de fonctionnaire, et lorsque le cadre correspondant de l’administration concernée ne comprend pas de vacance de poste, il est placé temporairement hors cadre jusqu’au moment où les droits du fonctionnaire remplacé à l’indemnité de préretraite cessent de plein droit;
+- au remplacement à titre définitif des agents de l’Etat bénéficiant du régime de la préretraite. Lorsque le remplaçant est recruté en vue de son admission ultérieure au statut de fonctionnaire, et lorsque le cadre correspondant de l’administration concernée ne comprend pas de vacance de poste, il est placé temporairement hors cadre jusqu’au moment où les droits du fonctionnaire remplacé à l’indemnité de préretraite cessent de plein droit;
 
-4. à des engagements de renforcement de personnel occupé à titre permanent et à tâche partielle dans les différents services de l’Etat dans la limite de 800 hommes-heures/semaine;
+- à des engagements de renforcement de personnel occupé à titre permanent et à tâche partielle dans les différents services de l’Etat dans la limite de 800 hommes-heures/semaine;
 
-5. à des engagements de personnel occupé à titre permanent et à tâche complète ou partielle dans les différents services de l’Etat, dans les établissements publics et dans la Société nationale des Chemins de Fer luxembourgeois et disposant de la qualité de travailleur handicapé telle que définie par la loi modifiée du 12 septembre 2003 sur les travailleurs handicapés ainsi qu’à des réaffectations d’agents de l’Etat reconnus hors d’état de continuer leur service, mais déclarés propres à occuper un autre emploi dans l’administration par la Commission des pensions prévue par la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat ou la loi du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, dans la limite de 2.200 hommes- heures/semaine;
+- à des engagements de personnel occupé à titre permanent et à tâche complète ou partielle dans les différents services de l’Etat, dans les établissements publics et dans la Société nationale des Chemins de Fer luxembourgeois et disposant de la qualité de travailleur handicapé telle que définie par la loi modifiée du 12 septembre 2003 sur les travailleurs handicapés ainsi qu’à des réaffectations d’agents de l’Etat reconnus hors d’état de continuer leur service, mais déclarés propres à occuper un autre emploi dans l’administration par la Commission des pensions prévue par la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat ou la loi du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, dans la limite de 2.200 hommes- heures/semaine;
 
-6. à des engagements de personnel enseignant dans la réserve nationale visée par la loi du 29 juin 2010 portant création d’une réserve nationale de chargés d’enseignement pour les lycées et lycées techniques, à titre permanent et à tâche complète, dont le nombre ne peut toutefois pas dépasser 30 unités;
+- à des engagements de personnel enseignant dans la réserve nationale visée par la loi du 29 juin 2010 portant création d’une réserve nationale de chargés d’enseignement pour les lycées et lycées techniques, à titre permanent et à tâche complète, dont le nombre ne peut toutefois pas dépasser 30 unités;
 
-7. à l’engagement de 170 agents occupés à titre permanent et à tâche complète ou partielle dans différents services de l’Etat actuellement engagés sous d’autres régimes.
+- à l’engagement de 170 agents occupés à titre permanent et à tâche complète ou partielle dans différents services de l’Etat actuellement engagés sous d’autres régimes.
 
 (4)
 
@@ -445,15 +445,15 @@ Au cours de l’exercice, les dépenses pour ordre concernant le versement des f
 
 Prorogation de dispositions destinées à stimuler la croissance économique et à maintenir le plein emploi
 
-1. Sont prorogées avec effet au 1er janvier 2015 et jusqu’au 31 décembre 2015:
+- Sont prorogées avec effet au 1er janvier 2015 et jusqu’au 31 décembre 2015:
 
-1. les dispositions de la loi modifiée du 24 décembre 1977 autorisant le gouvernement à prendre les mesures destinées à stimuler la croissance économique et à maintenir le plein emploi;
+  - les dispositions de la loi modifiée du 24 décembre 1977 autorisant le gouvernement à prendre les mesures destinées à stimuler la croissance économique et à maintenir le plein emploi;
 
-2. les dispositions de la loi modifiée du 24 janvier 1979 complétant l’article 2 de la loi modifiée du 30 juin 1976 portant 1) création d’un fonds de chômage; 2) réglementation de l’octroi des indemnités de chômage complet et complétant l’article 115 de la loi concernant l’impôt sur le revenu ;
+  - les dispositions de la loi modifiée du 24 janvier 1979 complétant l’article 2 de la loi modifiée du 30 juin 1976 portant 1) création d’un fonds de chômage; 2) réglementation de l’octroi des indemnités de chômage complet et complétant l’article 115 de la loi concernant l’impôt sur le revenu ;
 
-3. les dispositions des articles 36 point II et 37 (1) de la loi du 19 décembre 1983 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1984.
+  - les dispositions des articles 36 point II et 37 (1) de la loi du 19 décembre 1983 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1984.
 
-2. Les indemnités d’apprentissage et les primes y relatives d’apprentis placés auprès de l’Etat et des établissements publics sont à charge du fonds pour l’emploi, institué par la loi modifiée du 30 juin 1976 .
+- Les indemnités d’apprentissage et les primes y relatives d’apprentis placés auprès de l’Etat et des établissements publics sont à charge du fonds pour l’emploi, institué par la loi modifiée du 30 juin 1976 .
 
 #### Chapitre G Dispositions concernant les finances communales
 
@@ -462,51 +462,51 @@ Prorogation de dispositions destinées à stimuler la croissance économique et 
 
 Fonds communal de dotation financière. Dotation et répartition pour l’année 2015
 
-1. Dotation
+- Dotation
 
-1. Le Fonds communal de dotation financière institué par l’article 38 de la loi modifiée du 22 décembre 1987 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1988 est doté pour l’année 2015 d’après les règles suivantes: Le montant forfaitaire de 9.010.000 euros sera déduit de la dotation pour l’année 2015 au Fonds communal de dotation financière déterminée conformément à l’alinéa 1.
+  - Le Fonds communal de dotation financière institué par l’article 38 de la loi modifiée du 22 décembre 1987 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1988 est doté pour l’année 2015 d’après les règles suivantes: Le montant forfaitaire de 9.010.000 euros sera déduit de la dotation pour l’année 2015 au Fonds communal de dotation financière déterminée conformément à l’alinéa 1.
 
-1. un montant de 18 pour cent du produit de l’impôt sur le revenu des personnes physiques fixé par voie d’assiette et de l’impôt retenu sur les traitements et salaires;
+    - un montant de 18 pour cent du produit de l’impôt sur le revenu des personnes physiques fixé par voie d’assiette et de l’impôt retenu sur les traitements et salaires;
 
-2. un montant de 10 pour cent du produit de la taxe sur la valeur ajoutée, déduction faite des sommes dues à l’Union européenne à titre de ressources propres provenant de cette taxe;
+    - un montant de 10 pour cent du produit de la taxe sur la valeur ajoutée, déduction faite des sommes dues à l’Union européenne à titre de ressources propres provenant de cette taxe;
 
-3. un montant de 20 pour cent du produit de la taxe sur les véhicules automoteurs.
+    - un montant de 20 pour cent du produit de la taxe sur les véhicules automoteurs.
 
-2. On entend par produit de l’impôt au sens du présent article les recettes faites par le trésor au titre d’un des impôts précités au cours de l’année 2015, sans qu’il soit fait de distinction d’exercice. Le produit de la taxe sur la valeur ajoutée visé au paragraphe précédent, sous 2. est constitué par les recettes brutes faites par le trésor au titre de cette taxe pendant l’année 2015, avant déduction des sommes dues à l’Union européenne à titre de ressources propres provenant de ladite taxe et de la contribution assise sur le produit national brut.
+  - On entend par produit de l’impôt au sens du présent article les recettes faites par le trésor au titre d’un des impôts précités au cours de l’année 2015, sans qu’il soit fait de distinction d’exercice. Le produit de la taxe sur la valeur ajoutée visé au paragraphe précédent, sous 2. est constitué par les recettes brutes faites par le trésor au titre de cette taxe pendant l’année 2015, avant déduction des sommes dues à l’Union européenne à titre de ressources propres provenant de ladite taxe et de la contribution assise sur le produit national brut.
 
-2. Répartition
+- Répartition
 
-1. La dotation est répartie entre les communes d’après les règles suivantes: Une somme de 99.157 euros est allouée à chaque commune. Une somme supplémentaire de 18.592 euros est attribuée à la commune pour chaque conseiller communal dépassant le nombre de 7. Le nombre de conseillers à prendre en considération est celui prévu à l’article 5 de la loi communale modifiée du 13 décembre 1988.
+  - La dotation est répartie entre les communes d’après les règles suivantes: Une somme de 99.157 euros est allouée à chaque commune. Une somme supplémentaire de 18.592 euros est attribuée à la commune pour chaque conseiller communal dépassant le nombre de 7. Le nombre de conseillers à prendre en considération est celui prévu à l’article 5 de la loi communale modifiée du 13 décembre 1988.
 
-2. Le solde est réparti à raison de:
+  - Le solde est réparti à raison de:
 
-1. 65 pour cent entre les communes d’après leur population;
+    - 65 pour cent entre les communes d’après leur population;
 
-2.
+    -
 
-1. 9,75 pour cent au prorata de la base d’assiette de l’impôt foncier des propriétés agricoles et forestières au sens du paragraphe 3, n° 1 de la loi sur l’impôt foncier , telle qu’elle est fixée au 1 er janvier 2012;
+      - 9,75 pour cent au prorata de la base d’assiette de l’impôt foncier des propriétés agricoles et forestières au sens du paragraphe 3, n° 1 de la loi sur l’impôt foncier , telle qu’elle est fixée au 1 er janvier 2012;
 
-2. 5,25 pour cent au prorata de la surface des terrains relatifs aux propriétés agricoles et forestières au sens du paragraphe 3, n° 1 de la loi sur l’impôt foncier , telle qu’elle est fixée au 1 er janvier 2012;
+      - 5,25 pour cent au prorata de la surface des terrains relatifs aux propriétés agricoles et forestières au sens du paragraphe 3, n° 1 de la loi sur l’impôt foncier , telle qu’elle est fixée au 1 er janvier 2012;
 
-3. 20 pour cent entre les communes à titre d’allocation régionale en fonction de la population multipliée par le degré d’urbanisation de la commune, ce degré étant défini par le rapport entre la densité de la population de chaque commune et la densité moyenne du pays.
+    - 20 pour cent entre les communes à titre d’allocation régionale en fonction de la population multipliée par le degré d’urbanisation de la commune, ce degré étant défini par le rapport entre la densité de la population de chaque commune et la densité moyenne du pays.
 
-4. On entend aux termes du présent paragraphe
+    - On entend aux termes du présent paragraphe
 
-- par «densité», le rapport entre la population et la superficie du territoire;
+      - par «densité», le rapport entre la population et la superficie du territoire;
 
-- par «population», la population de résidence la plus récente calculée par l’Institut national de la statistique et des études économiques;
+      - par «population», la population de résidence la plus récente calculée par l’Institut national de la statistique et des études économiques;
 
-- par «superficie», celle publiée par l’Institut national de la statistique et des études économiques.
+      - par «superficie», celle publiée par l’Institut national de la statistique et des études économiques.
 
-3.
+  -
 
-1. A la fin de chaque trimestre, des avances à valoir sur le montant annuel revenant à chaque commune dans le cadre du fonds communal de dotation financière sont versées aux communes. Toutefois une première avance peut être versée au début du premier trimestre. Le montant des avances est déterminé pour chaque trimestre par le ministre ayant les Finances dans ses attributions. La répartition de ces avances entre les communes est faite par le ministre ayant l’Intérieur dans ses attributions, conformément aux dispositions des sections I et II qui précèdent.
+    - A la fin de chaque trimestre, des avances à valoir sur le montant annuel revenant à chaque commune dans le cadre du fonds communal de dotation financière sont versées aux communes. Toutefois une première avance peut être versée au début du premier trimestre. Le montant des avances est déterminé pour chaque trimestre par le ministre ayant les Finances dans ses attributions. La répartition de ces avances entre les communes est faite par le ministre ayant l’Intérieur dans ses attributions, conformément aux dispositions des sections I et II qui précèdent.
 
-2. Après la fin de l’année, le ministre ayant l’Intérieur dans ses attributions détermine sur la base des dispositions des sections I et II ci-avant les participations définitives ainsi que leur répartition entre les communes et verse aux communes les sommes ainsi fixées, déduction faite des sommes avancées en vertu du paragraphe I. du présent paragraphe.
+    - Après la fin de l’année, le ministre ayant l’Intérieur dans ses attributions détermine sur la base des dispositions des sections I et II ci-avant les participations définitives ainsi que leur répartition entre les communes et verse aux communes les sommes ainsi fixées, déduction faite des sommes avancées en vertu du paragraphe I. du présent paragraphe.
 
-3. Par dérogation aux dispositions de l’article 76 de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’Etat les avances trimestrielles ainsi que les versements définitifs dont question aux alinéas qui précèdent sont imputés sur le même exercice que celui sur lequel ont été imputées les alimentations du fonds y relatives.
+    - Par dérogation aux dispositions de l’article 76 de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’Etat les avances trimestrielles ainsi que les versements définitifs dont question aux alinéas qui précèdent sont imputés sur le même exercice que celui sur lequel ont été imputées les alimentations du fonds y relatives.
 
-3. Divers A la section IV de la loi modifiée du 22 décembre 1987 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1988, l’année 2014 est remplacée par l’année 2015.
+- Divers A la section IV de la loi modifiée du 22 décembre 1987 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1988, l’année 2014 est remplacée par l’année 2015.
 
 <a id="art-27"></a>
 ## Art. 27.
@@ -1181,7 +1181,12 @@ Par dérogation à l’article 55, alinéa 1 du Code de la sécurité sociale la
 
 Mesures en matière d’assurance maladie: Mutualité des employeurs
 
-L’article 56 du Code de la sécurité sociale prend la teneur suivante: «Art. 56. L’Etat intervient dans le financement de la Mutualité par un apport correspondant à 0,45 pour cent de la masse cotisable des assurés obligatoires au sens de l’article 53, alinéa 1.»
+L’article 56 du Code de la sécurité sociale prend la teneur suivante:
+
+<a id="art-56"></a>
+## «Art. 56.
+
+L’Etat intervient dans le financement de la Mutualité par un apport correspondant à 0,45 pour cent de la masse cotisable des assurés obligatoires au sens de l’article 53, alinéa 1.»
 
 <a id="art-40"></a>
 ## Art. 40.
@@ -1197,15 +1202,23 @@ Mesures en matière d’assurance maladie: tarifs conventionnels
 
 (1)
 
-L’article 64, alinéa 1, point 4 du Code de la sécurité sociale prend la teneur suivante: les tarifs conventionnels non établis moyennant lettre-clé et la périodicité de négociation de ces tarifs.»
+L’article 64, alinéa 1, point 4 du Code de la sécurité sociale prend la teneur suivante:
+
+- les tarifs conventionnels non établis moyennant lettre-clé et la périodicité de négociation de ces tarifs.»
 
 (2)
 
-L’article 69, alinéa 1 du Code de la sécurité sociale prend la teneur suivante: «En l’absence d’accord avant le 31 décembre sur l’adaptation de la lettre-clé conformément à l’article 67 ou sur les tarifs conventionnels non établis moyennant lettre-clé, l’Inspection générale de la sécurité sociale convoque les parties en vue de la désignation d’un médiateur.»
+L’article 69, alinéa 1 du Code de la sécurité sociale prend la teneur suivante:
+
+«En l’absence d’accord avant le 31 décembre sur l’adaptation de la lettre-clé conformément à l’article 67 ou sur les tarifs conventionnels non établis moyennant lettre-clé, l’Inspection générale de la sécurité sociale convoque les parties en vue de la désignation d’un médiateur.»
 
 3)
 
-L’article 70, paragraphe 1er, alinéa 1 du Code de la sécurité sociale prend la teneur suivante: «(1) Lorsque la médiation déclenchée en vertu de l’article 69, alinéa 1, n’aboutit pas à un accord sur l’adaptation de la lettre-clé ou des tarifs conventionnels non établis moyennant lettre-clé, le médiateur dresse un procès-verbal de non-conciliation qu’il transmet au Conseil supérieur de la sécurité sociale.»
+L’article 70, paragraphe 1er, alinéa 1 du Code de la sécurité sociale prend la teneur suivante:
+
+«(1)
+
+Lorsque la médiation déclenchée en vertu de l’article 69, alinéa 1, n’aboutit pas à un accord sur l’adaptation de la lettre-clé ou des tarifs conventionnels non établis moyennant lettre-clé, le médiateur dresse un procès-verbal de non-conciliation qu’il transmet au Conseil supérieur de la sécurité sociale.»
 
 <a id="art-42"></a>
 ## Art. 42.
@@ -1237,128 +1250,130 @@ Constitution de services de l’Etat à gestion séparée
 
 Les administrations suivantes sont constituées services de l’Etat à gestion séparée:
 
-1. Administrations dépendant du Ministère de la Culture:
+- Administrations dépendant du Ministère de la Culture:
 
-- Musée national d’histoire et d’art;
+  - Musée national d’histoire et d’art;
 
-- Musée national d’histoire naturelle;
+  - Musée national d’histoire naturelle;
 
-- Centre national de l’audiovisuel;
+  - Centre national de l’audiovisuel;
 
-- Bibliothèque nationale;
+  - Bibliothèque nationale;
 
-- Archives nationales;
+  - Archives nationales;
 
-- Centre national de littérature.
+  - Centre national de littérature.
 
-2. Administrations dépendant du Ministère de l’Education nationale, de l’Enfance et de la Jeunesse:
+- Administrations dépendant du Ministère de l’Education nationale, de l’Enfance et de la Jeunesse:
 
-- Centre de Logopédie;
+  - Centre de Logopédie;
 
-- Athenée à Luxembourg;
+  - Athenée à Luxembourg;
 
-- Lycée classique et lycée technique à Diekirch;
+  - Lycée classique et lycée technique à Diekirch;
 
-- Lycée classique à Echternach;
+  - Lycée classique à Echternach;
 
-- Lycée de garçons à Luxembourg;
+  - Lycée de garçons à Luxembourg;
 
-- Lycée de garçons à Esch-sur-Alzette;
+  - Lycée de garçons à Esch-sur-Alzette;
 
-- Lycée Robert Schuman à Luxembourg;
+  - Lycée Robert Schuman à Luxembourg;
 
-- Lycée Michel Rodange à Luxembourg;
+  - Lycée Michel Rodange à Luxembourg;
 
-- Lycée Hubert Clément à Esch-sur-Alzette;
+  - Lycée Hubert Clément à Esch-sur-Alzette;
 
-- Lycée Aline Mayrisch à Luxembourg;
+  - Lycée Aline Mayrisch à Luxembourg;
 
-- Lycée technique agricole à Ettelbruck;
+  - Lycée technique agricole à Ettelbruck;
 
-- Lycée technique des Arts et Métiers à Luxembourg;
+  - Lycée technique des Arts et Métiers à Luxembourg;
 
-- Lycée technique à Esch-sur-Alzette;
+  - Lycée technique à Esch-sur-Alzette;
 
-- Lycée technique à Ettelbruck;
+  - Lycée technique à Ettelbruck;
 
-- Lycée du Nord;
+  - Lycée du Nord;
 
-- Lycée technique Joseph Bech à Grevenmacher;
+  - Lycée technique Joseph Bech à Grevenmacher;
 
-- Lycée technique à Bonnevoie;
+  - Lycée technique à Bonnevoie;
 
-- Lycée technique hôtelier Alexis Heck à Diekirch;
+  - Lycée technique hôtelier Alexis Heck à Diekirch;
 
-- Lycée technique Michel Lucius à Luxembourg;
+  - Lycée technique Michel Lucius à Luxembourg;
 
-- Lycée technique Mathias Adam à Pétange;
+  - Lycée technique Mathias Adam à Pétange;
 
-- Lycée Nic. Biever à Dudelange;
+  - Lycée Nic. Biever à Dudelange;
 
-- Lycée technique «Ecole de commerce et de gestion»;
+  - Lycée technique «Ecole de commerce et de gestion»;
 
-- Lycée technique pour professions de santé;
+  - Lycée technique pour professions de santé;
 
-- Lycée technique du Centre à Luxembourg;
+  - Lycée technique du Centre à Luxembourg;
 
-- Lycée Josy Barthel à Mamer;
+  - Lycée Josy Barthel à Mamer;
 
-- Lycée technique à Lallange;
+  - Lycée technique à Lallange;
 
-- Atert-Lycée à Redange;
+  - Atert-Lycée à Redange;
 
-- Lycée Ermesinde;
+  - Lycée Ermesinde;
 
-- Lycée technique pour professions éducatives et sociales;
+  - Lycée technique pour professions éducatives et sociales;
 
-- Service des restaurants scolaires;
+  - Service des restaurants scolaires;
 
-- Uelzecht-Lycée à Dommeldange;
+  - Uelzecht-Lycée à Dommeldange;
 
-- Nordstad-Lycée;
+  - Nordstad-Lycée;
 
-- Ecole préscolaire et primaire de recherche fondée sur la pédagogie inclusive;
+  - Ecole préscolaire et primaire de recherche fondée sur la pédagogie inclusive;
 
-- Service de la formation professionnelle;
+  - Service de la formation professionnelle;
 
-- Institut national des langues;
+  - Institut national des langues;
 
-- Ecole de la 2 ème chance;
+  - Ecole de la 2 ème chance;
 
-- Lycée Bel-Val;
+  - Lycée Bel-Val;
 
-- Sportlycée;
+  - Sportlycée;
 
-- Service de la formation des adultes;
+  - Service de la formation des adultes;
 
-- Lycée à Junglinster;
+  - Lycée à Junglinster;
 
-- Centre de gestion informatique de l’éducation nationale;
+  - Centre de gestion informatique de l’éducation nationale;
 
-- Service national de la Jeunesse.
+  - Service national de la Jeunesse.
 
-3. Administration dépendant du Ministère de l’Economie:
+- Administration dépendant du Ministère de l’Economie:
 
-- Commissariat aux affaires maritimes.
+  - Commissariat aux affaires maritimes.
 
-4. Administration dépendant du Ministère des Sports:
+- Administration dépendant du Ministère des Sports:
 
-- Ecole nationale de l’éducation physique et des sports.
+  - Ecole nationale de l’éducation physique et des sports.
 
-5. Administration dépendant du Ministère du Développement durable et des Infrastructures:
+- Administration dépendant du Ministère du Développement durable et des Infrastructures:
 
-- Administration de la Navigation aérienne.
+  - Administration de la Navigation aérienne.
 
-6. Administration dépendant du Ministère de la Fonction publique et de la Réforme administrative:
+- Administration dépendant du Ministère de la Fonction publique et de la Réforme administrative:
 
-- Centre des technologies de l’information de l’Etat
+  - Centre des technologies de l’information de l’Etat
 
 <a id="art-46"></a>
 ## Art. 46.
 
 Modification de la loi modifiée du 18 février 2010 relative à un régime d’aides à la protection de l’environnement et à l’utilisation rationnelle des ressources naturelles
 
-L’article 20, paragraphe 1er de la loi modifiée du 18 février 2010 relative à un régime d’aides à la protection de l’environnement et à l’utilisation rationnelle des ressources naturelles est modifiée comme suit: «Les dispositions de la présente loi sont applicables jusqu’au 31 décembre 2015».
+L’article 20, paragraphe 1er de la loi modifiée du 18 février 2010 relative à un régime d’aides à la protection de l’environnement et à l’utilisation rationnelle des ressources naturelles est modifiée comme suit:
+
+«Les dispositions de la présente loi sont applicables jusqu’au 31 décembre 2015».
 
 <a id="art-47"></a>
 ## Art. 47.
@@ -1394,11 +1409,15 @@ Modification de la loi modifiée du 5 juin 2009 relative à la promotion de la r
 
 1.
 
-L’article 35 de la loi modifiée du 5 juin 2009 relative à la promotion de la recherché, du développement et de l’innovation est remplacé par le texte ci-après: «Les dispositions des articles 3, 4, 5 et 11 sont applicables jusqu’au 31 décembre 2015»
+L’article 35 de la loi modifiée du 5 juin 2009 relative à la promotion de la recherché, du développement et de l’innovation est remplacé par le texte ci-après:
+
+«Les dispositions des articles 3, 4, 5 et 11 sont applicables jusqu’au 31 décembre 2015»
 
 2.
 
-L’article 23, paragraphe (1) est modifié comme suit: «Le titre 1er de la présente loi établit des régimes d’aides à la recherche-développement (R&D) et à la recherche-développement-innovation (RDI) en conformité avec les conditions prévues dans le règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne.»
+L’article 23, paragraphe (1) est modifié comme suit:
+
+«Le titre 1er de la présente loi établit des régimes d’aides à la recherche-développement (R&D) et à la recherche-développement-innovation (RDI) en conformité avec les conditions prévues dans le règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne.»
 
 <a id="art-51"></a>
 ## Art. 51.
@@ -1416,7 +1435,9 @@ Un montant de 150.000.000 euros est porté directement en recette au fonds du ra
 
 Modification de la loi modifiée du 29 juillet 1993 portant création d’un Fonds de Rénovation de la Vieille Ville
 
-L’article 6, alinéa 1 de la loi modifiée du 29 juillet 1993 portant création d’un fonds pour la rénovation de quatre îlots du quartier de la Vieille Ville de Luxembourg est remplacé par le texte suivant: «Le fonds supporte les dépenses relatives à sa mission. A cet effet il est autorisé à lancer un ou plusieurs emprunts ou à se faire ouvrir auprès d’un établissement bancaire agréé au Grand- Duché de Luxembourg un ou plusieurs crédits jusqu’à concurrence d’un montant total de 160.000.000 euros.»
+L’article 6, alinéa 1 de la loi modifiée du 29 juillet 1993 portant création d’un fonds pour la rénovation de quatre îlots du quartier de la Vieille Ville de Luxembourg est remplacé par le texte suivant:
+
+«Le fonds supporte les dépenses relatives à sa mission. A cet effet il est autorisé à lancer un ou plusieurs emprunts ou à se faire ouvrir auprès d’un établissement bancaire agréé au Grand- Duché de Luxembourg un ou plusieurs crédits jusqu’à concurrence d’un montant total de 160.000.000 euros.»
 
 #### Chapitre K Dispositions finales
 

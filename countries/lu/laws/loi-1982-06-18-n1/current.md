@@ -188,13 +188,13 @@ Si la fin de l’année culturale est postérieure au congé de neuf mois au moi
 
 Sans préjudice des dommages-intérêts éventuellement dus, le bailleur ne peut poursuivre la résiliation du bail sans congé préalable que dans les cas ci-après:
 
-1. si le preneur, six mois après une mise en demeure par lettre recommandée, n’a pas payé le fermage échu;
+- si le preneur, six mois après une mise en demeure par lettre recommandée, n’a pas payé le fermage échu;
 
-2. si le preneur ou la personne qu’il s’est substituée dans l’exploitation du bien loué, a causé la dépréciation du bien loué par le fait d’une mauvaise exploitation des terres ou d’une négligence grave dans l’entretien locatif des bâtiments loués;
+- si le preneur ou la personne qu’il s’est substituée dans l’exploitation du bien loué, a causé la dépréciation du bien loué par le fait d’une mauvaise exploitation des terres ou d’une négligence grave dans l’entretien locatif des bâtiments loués;
 
-3. si le preneur n’a pas respecté les dispositions de l’article 21;
+- si le preneur n’a pas respecté les dispositions de l’article 21;
 
-4. si le preneur, des membres de sa famille ou la personne qu’il s’est substituée dans l’exploitation du bien loué, se sont rendus coupables d’actes d’hostilité ou d’injures graves envers le bailleur ou des membres de sa famille vivant sous son toit.
+- si le preneur, des membres de sa famille ou la personne qu’il s’est substituée dans l’exploitation du bien loué, se sont rendus coupables d’actes d’hostilité ou d’injures graves envers le bailleur ou des membres de sa famille vivant sous son toit.
 
 #### Chapitre V De la sous-location, de la cession du bail et de la révision du prix de fermage
 
@@ -231,11 +231,11 @@ Le bailleur, auquel une cession a été notifiée, peut faire opposition en cita
 
 Peuvent seuls être admis comme motifs d’opposition:
 
-1. le fait qu’avant toute notification de la cession, le bailleur a donné un congé valable;
+- le fait qu’avant toute notification de la cession, le bailleur a donné un congé valable;
 
-2. le fait que le cessionnaire n’a pas la capacité professionnelle requise ou ne dispose pas des moyens matériels nécessaires pour une bonne exploitation des biens loués;
+- le fait que le cessionnaire n’a pas la capacité professionnelle requise ou ne dispose pas des moyens matériels nécessaires pour une bonne exploitation des biens loués;
 
-3. le fait que le cédant ou le cessionnaire ou des membres de leur famille se sont rendus coupables d’actes d’hostilité ou d’injures graves envers le bailleur ou des membres de sa famille vivant sous son toit.
+- le fait que le cédant ou le cessionnaire ou des membres de leur famille se sont rendus coupables d’actes d’hostilité ou d’injures graves envers le bailleur ou des membres de sa famille vivant sous son toit.
 
 <a id="art-26"></a>
 ## Art. 26.

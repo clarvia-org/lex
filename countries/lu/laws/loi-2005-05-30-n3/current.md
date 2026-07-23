@@ -78,23 +78,23 @@ Dans l’exercice des pouvoirs et dans l’accomplissement des missions et des d
 
 Le conseil a les compétences suivantes:
 
-1. Il arrête le budget et les comptes annuels de l'Institut.
+- Il arrête le budget et les comptes annuels de l'Institut.
 
-2. Il émet un avis sur les orientations générales relatives aux conditions et tarifs de l'Institut, notamment celles ayant trait aux conditions de remboursement des frais de personnel et de fonctionnement de l'Institut par les opérateurs et les personnes surveillées.
+- Il émet un avis sur les orientations générales relatives aux conditions et tarifs de l'Institut, notamment celles ayant trait aux conditions de remboursement des frais de personnel et de fonctionnement de l'Institut par les opérateurs et les personnes surveillées.
 
-3. Il nomme le réviseur aux comptes de l’Institut.
+- Il nomme le réviseur aux comptes de l’Institut.
 
-4. Il peut charger le réviseur d’entreprises agréé chargé du contrôle des comptes de vérifications spécifiques.
+- Il peut charger le réviseur d’entreprises agréé chargé du contrôle des comptes de vérifications spécifiques.
 
-5. Il approuve le règlement d'ordre intérieur de la direction.
+- Il approuve le règlement d'ordre intérieur de la direction.
 
-6. Il approuve les actes de disposition à prendre par la direction ainsi que les actes d'administration pouvant grever significativement le budget.
+- Il approuve les actes de disposition à prendre par la direction ainsi que les actes d'administration pouvant grever significativement le budget.
 
-7. Il émet un avis sur les candidats aux postes de la direction.
+- Il émet un avis sur les candidats aux postes de la direction.
 
-8. Il approuve l'état des effectifs.
+- Il approuve l'état des effectifs.
 
-9. Il autorise les indemnités, primes, suppléments de rémunération et autres avantages concédés à la direction et au personnel.
+- Il autorise les indemnités, primes, suppléments de rémunération et autres avantages concédés à la direction et au personnel.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -220,75 +220,75 @@ Elle est compétente pour prendre, dans les limites de la présente loi, les act
 
 Le cadre du personnel de l'Institut comprend dans l'ordre hiérarchique, les fonctions et emplois suivants:
 
-1. Dans la carrière supérieure de l’administration, grade de computation de la bonification d’ancienneté: grade 12:
+- Dans la carrière supérieure de l’administration, grade de computation de la bonification d’ancienneté: grade 12:
 
-- un directeur;
+  - un directeur;
 
-- des premiers conseillers de direction;
+  - des premiers conseillers de direction;
 
-- huit conseillers de direction première classe et/ou ingénieurs première classe;
+  - huit conseillers de direction première classe et/ou ingénieurs première classe;
 
-- huit conseillers de direction et/ou ingénieurs-chefs de division;
+  - huit conseillers de direction et/ou ingénieurs-chefs de division;
 
-- des conseillers de direction adjoints et/ou des ingénieurs principaux;
+  - des conseillers de direction adjoints et/ou des ingénieurs principaux;
 
-- des attachés de direction premiers en rang et/ou des ingénieurs-inspecteurs;
+  - des attachés de direction premiers en rang et/ou des ingénieurs-inspecteurs;
 
-- des attachés de direction et/ou des ingénieurs;
+  - des attachés de direction et/ou des ingénieurs;
 
-- des stagiaires ayant le titre d’attaché d’administration et/ou des stagiaires ayant le titre d’ingénieur-stagiaire.
+  - des stagiaires ayant le titre d’attaché d’administration et/ou des stagiaires ayant le titre d’ingénieur-stagiaire.
 
-2. Dans la carrière moyenne de l'administration, grade de computation de la bonification d'ancienneté: grade 7: carrière de l'ingénieur-technicien:
+- Dans la carrière moyenne de l'administration, grade de computation de la bonification d'ancienneté: grade 7: carrière de l'ingénieur-technicien:
 
-- deux ingénieurs-techniciens inspecteurs principaux premiers en rang;
+  - deux ingénieurs-techniciens inspecteurs principaux premiers en rang;
 
-- trois ingénieurs-techniciens inspecteurs principaux;
+  - trois ingénieurs-techniciens inspecteurs principaux;
 
-- des ingénieurs-techniciens inspecteurs;
+  - des ingénieurs-techniciens inspecteurs;
 
-- des ingénieurs-techniciens principaux;
+  - des ingénieurs-techniciens principaux;
 
-- des ingénieurs-techniciens;
+  - des ingénieurs-techniciens;
 
-- des ingénieurs-techniciens stagiaires.
+  - des ingénieurs-techniciens stagiaires.
 
 La promotion aux fonctions supérieures à celle d’ingénieur technicien principal est subordonnée à la réussite d’un examen de promotion.
 
 Lorsqu’un emploi d’une fonction de promotion n’est pas occupé, le nombre des emplois d’une fonction inférieure au grade de la même carrière pourra être temporairement augmenté en conséquence.
 
-1. Dans la carrière moyenne de l’administration, grade de computation de la bonification d’ancienneté: grade 7: carrière du rédacteur:
+- Dans la carrière moyenne de l’administration, grade de computation de la bonification d’ancienneté: grade 7: carrière du rédacteur:
 
-- un inspecteur principal premier en rang;
+  - un inspecteur principal premier en rang;
 
-- deux inspecteurs principaux;
+  - deux inspecteurs principaux;
 
-- un inspecteur;
+  - un inspecteur;
 
-- des chefs de bureau;
+  - des chefs de bureau;
 
-- des chefs de bureau adjoints;
+  - des chefs de bureau adjoints;
 
-- des rédacteurs principaux;
+  - des rédacteurs principaux;
 
-- des rédacteurs;
+  - des rédacteurs;
 
-- des rédacteurs stagiaires.
+  - des rédacteurs stagiaires.
 
 La promotion aux fonctions supérieures à celle de rédacteur principal est subordonnée à la réussite d’un examen de promotion.
 
 Lorsqu’un emploi d’une fonction de promotion n’est pas occupé, le nombre des emplois d’une fonction inférieure au grade de la même carrière pourra être temporairement augmenté en conséquence.
 
-1. Dans la carrière inférieure de l’administration, grade de computation de la bonification d’ancienneté: grade 4: carrière de l’expéditionnaire administratif :
+- Dans la carrière inférieure de l’administration, grade de computation de la bonification d’ancienneté: grade 4: carrière de l’expéditionnaire administratif :
 
-- un premier commis technique principal ou commis technique principal;
+  - un premier commis technique principal ou commis technique principal;
 
-- des commis techniques;
+  - des commis techniques;
 
-- des commis techniques adjoints;
+  - des commis techniques adjoints;
 
-- des expéditionnaires techniques;
+  - des expéditionnaires techniques;
 
-- des candidats-expéditionnaires techniques.
+  - des candidats-expéditionnaires techniques.
 
 La promotion aux fonctions supérieures à celle de commis adjoint est subordonnée à la réussite d’un examen de promotion.
 
@@ -513,11 +513,11 @@ Le mandat des membres du conseil en fonction au moment de l'entrée en vigueur d
 
 Sont abrogés:
 
-1. L'article 38 de la loi du 15 décembre 2000 sur les services postaux et les services financiers postaux;
+- L'article 38 de la loi du 15 décembre 2000 sur les services postaux et les services financiers postaux;
 
-2. L'article 27 (1) et (3) et l'article 32 de la loi du 24 juillet 2000 relative à l'organisation du marché de l'électricité;
+- L'article 27 (1) et (3) et l'article 32 de la loi du 24 juillet 2000 relative à l'organisation du marché de l'électricité;
 
-3. L'article 33 (1) et (4) de la loi du 6 avril 2001 relative à l'organisation du marché du gaz naturel.
+- L'article 33 (1) et (4) de la loi du 6 avril 2001 relative à l'organisation du marché du gaz naturel.
 
 <a id="art-27"></a>
 ## Art. 27.

@@ -97,35 +97,35 @@ Contre cette décision, un recours en réformation est ouvert devant le tribunal
 
 Conformément aux règles applicables en matière de déclaration et de diligence raisonnable énoncées dans les annexes I et II de la présente loi, l’Administration des contributions directes communique à l’autorité compétente d’une Juridiction soumise à déclaration, dans le cadre de l’échange automatique et dans le délai fixé au paragraphe 2, les informations suivantes se rapportant aux périodes d’imposition à compter du 1er janvier 2016 en ce qui concerne un Compte déclarable:
 
-1. le nom, l’adresse, le ou les NIF et la date et le lieu de naissance (dans le cas d’une personne physique) de chaque Personne devant faire l’objet d’une déclaration qui est un Titulaire de ce compte et, dans le cas d’une Entité qui est Titulaire de ce compte et pour laquelle, après application des régies en matière de diligence raisonnable cohérentes avec les annexes, il apparaît qu’une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration, le nom, l’adresse et le ou les NIF de cette Entité ainsi que le nom, l’adresse et le ou les NIF et la date et le lieu de naissance de chacune de ces Personnes devant faire l’objet d’une déclaration;
+- le nom, l’adresse, le ou les NIF et la date et le lieu de naissance (dans le cas d’une personne physique) de chaque Personne devant faire l’objet d’une déclaration qui est un Titulaire de ce compte et, dans le cas d’une Entité qui est Titulaire de ce compte et pour laquelle, après application des régies en matière de diligence raisonnable cohérentes avec les annexes, il apparaît qu’une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration, le nom, l’adresse et le ou les NIF de cette Entité ainsi que le nom, l’adresse et le ou les NIF et la date et le lieu de naissance de chacune de ces Personnes devant faire l’objet d’une déclaration;
 
-2. le numéro de compte (ou son équivalent fonctionnel en l’absence de numéro de compte);
+- le numéro de compte (ou son équivalent fonctionnel en l’absence de numéro de compte);
 
-3. le nom et le numéro d’identification (éventuel) de l’Institution financière déclarante;
+- le nom et le numéro d’identification (éventuel) de l’Institution financière déclarante;
 
-4. le solde ou la valeur portée sur le compte (y compris, dans le cas d’un Contrat d’assurance avec valeur de rachat ou d’un Contrat de rente, la Valeur de rachat) à la fin de l’année civile considérée ou d’une autre période de référence adéquate ou, si le compte a été clos au cours de l’année ou de la période en question, la clôture du compte;
+- le solde ou la valeur portée sur le compte (y compris, dans le cas d’un Contrat d’assurance avec valeur de rachat ou d’un Contrat de rente, la Valeur de rachat) à la fin de l’année civile considérée ou d’une autre période de référence adéquate ou, si le compte a été clos au cours de l’année ou de la période en question, la clôture du compte;
 
-5. dans le cas d’un Compte conservateur:
+- dans le cas d’un Compte conservateur:
 
-1. le montant brut total des intérêts, le montant brut total des dividendes et le montant brut total des autres revenus produits par les actifs détenus sur le compte, versés ou crédités sur le compte (ou au titre du compte) au cours de l’année civile ou d’une autre période de référence adéquate; et
+  - le montant brut total des intérêts, le montant brut total des dividendes et le montant brut total des autres revenus produits par les actifs détenus sur le compte, versés ou crédités sur le compte (ou au titre du compte) au cours de l’année civile ou d’une autre période de référence adéquate; et
 
-2. le produit brut total de la vente ou du rachat des Actifs financiers versés ou crédités sur le compte au cours de l’année civile ou d’une autre période de référence adéquate au titre de laquelle l’Institution financière déclarante a agi en tant que dépositaire, courtier, prête-nom ou représentant du Titulaire du compte;
+  - le produit brut total de la vente ou du rachat des Actifs financiers versés ou crédités sur le compte au cours de l’année civile ou d’une autre période de référence adéquate au titre de laquelle l’Institution financière déclarante a agi en tant que dépositaire, courtier, prête-nom ou représentant du Titulaire du compte;
 
-6. dans le cas d’un Compte de dépôt, le montant brut total des intérêts versés ou crédités sur le compte au cours de l’année civile ou d’une autre période de référence adéquate; et
+- dans le cas d’un Compte de dépôt, le montant brut total des intérêts versés ou crédités sur le compte au cours de l’année civile ou d’une autre période de référence adéquate; et
 
-7. dans le cas d’un compte qui n’est pas visé au point e) ou f), le montant brut total versé au Titulaire du compte ou porté à son crédit au titre de ce compte, au cours de l’année civile ou d’une autre période de référence adéquate, dont l’Institution financière déclarante est la débitrice, y compris le montant total de toutes les sommes remboursées au Titulaire du compte au cours de l’année civile ou d’une autre période de référence adéquate.
+- dans le cas d’un compte qui n’est pas visé au point e) ou f), le montant brut total versé au Titulaire du compte ou porté à son crédit au titre de ce compte, au cours de l’année civile ou d’une autre période de référence adéquate, dont l’Institution financière déclarante est la débitrice, y compris le montant total de toutes les sommes remboursées au Titulaire du compte au cours de l’année civile ou d’une autre période de référence adéquate.
 
 (1bis)
 
 Conformément aux règles applicables en matière de déclaration et de diligence raisonnable énoncées dans les annexes I et II de la présente loi, l’Administration des contributions directes communique à l’autorité compétente d’une Juridiction soumise à déclaration, dans le cadre de l’échange automatique et dans le délai fixé au paragraphe 2, en outre des informations visées au paragraphe 1er, les informations suivantes se rapportant aux périodes d’imposition à compter du 1er janvier 2026 en ce qui concerne un Compte déclarable :
 
-1. si une auto-certification valide a été fournie pour chaque Titulaire de compte ;
+- si une auto-certification valide a été fournie pour chaque Titulaire de compte ;
 
-2. la ou les fonctions au titre desquelles chaque Personne devant faire l’objet d’une déclaration qui est une Personne détenant le contrôle d’un Titulaire d’un Compte d’entité est une Personne détenant le contrôle de l’Entité et si une auto-certification valide a été fournie pour chacune de ces Personnes devant faire l’objet d’une déclaration ;
+- la ou les fonctions au titre desquelles chaque Personne devant faire l’objet d’une déclaration qui est une Personne détenant le contrôle d’un Titulaire d’un Compte d’entité est une Personne détenant le contrôle de l’Entité et si une auto-certification valide a été fournie pour chacune de ces Personnes devant faire l’objet d’une déclaration ;
 
-3. le type de compte, s’il s’agit d’un Compte préexistant ou d’un Nouveau compte et s’il s’agit d’un compte joint, y compris le nombre de Titulaires de compte joint ;
+- le type de compte, s’il s’agit d’un Compte préexistant ou d’un Nouveau compte et s’il s’agit d’un compte joint, y compris le nombre de Titulaires de compte joint ;
 
-4. dans le cas d’un Titre de participation détenu dans une Entité d’investissement qui est une construction juridique, la ou les fonctions au titre desquelles la Personne devant faire l’objet d’une déclaration est un titulaire de Titre de participation.
+- dans le cas d’un Titre de participation détenu dans une Entité d’investissement qui est une construction juridique, la ou les fonctions au titre desquelles la Personne devant faire l’objet d’une déclaration est un titulaire de Titre de participation.
 
 (2)
 
@@ -164,9 +164,9 @@ Les Institutions financières déclarantes luxembourgeoises et l’Administratio
 
 Chaque Institution financière déclarante luxembourgeoise a l’obligation
 
-1. d’informer chaque personne physique concernée que des informations la concernant seront recueillies et transférées conformément à la présente loi ;
+- d’informer chaque personne physique concernée que des informations la concernant seront recueillies et transférées conformément à la présente loi ;
 
-2. de transmettre à chaque personne physique concernée toutes les informations auxquelles elle peut avoir accès qui proviennent du responsable du traitement dans un délai suffisant pour lui permettre d’exercer ses droits en matière de protection des données et, en tout état de cause, avant que les informations ne soient communiquées à l’Administration des contributions directes.
+- de transmettre à chaque personne physique concernée toutes les informations auxquelles elle peut avoir accès qui proviennent du responsable du traitement dans un délai suffisant pour lui permettre d’exercer ses droits en matière de protection des données et, en tout état de cause, avant que les informations ne soient communiquées à l’Administration des contributions directes.
 
 (5)
 
@@ -213,11 +213,11 @@ Dans tous les cas où la présente loi n’en dispose autrement, les disposition
 
 La loi modifiée du 29 mars 2013 relative à la coopération administrative dans le domaine fiscal est modifiée et complétée comme suit:
 
-1. A l’article 2, la lettre p) est remplacée par le libellé suivant: «échange automatique»: la communication systématique, sans demande préalable, à intervalles réguliers préalablement fixés, d’informations prédéfinies concernant des personnes résidant dans d’autres Etats membres, à l’Etat membre de résidence concerné. Dans le cadre de l’article 9bis, les informations disponibles désignent des informations figurant dans les dossiers fiscaux de l’Etat membre qui communique les informations et pouvant être consultées conformément aux procédures de collecte et de traitement des informations applicables dans cet Etat membre.
+- A l’article 2, la lettre p) est remplacée par le libellé suivant: «échange automatique»: la communication systématique, sans demande préalable, à intervalles réguliers préalablement fixés, d’informations prédéfinies concernant des personnes résidant dans d’autres Etats membres, à l’Etat membre de résidence concerné. Dans le cadre de l’article 9bis, les informations disponibles désignent des informations figurant dans les dossiers fiscaux de l’Etat membre qui communique les informations et pouvant être consultées conformément aux procédures de collecte et de traitement des informations applicables dans cet Etat membre.
 
-2. L’article 21 est complété par un paragraphe 3 libellé comme suit: (3) L’Administration des contributions directes informe chaque personne physique devant faire l’objet d’une déclaration de tout manquement à la sécurité concernant ses données lorsque ces manquements sont susceptibles de porter atteinte à la protection de ses données à caractère personnel ou de sa vie privée.
+- L’article 21 est complété par un paragraphe 3 libellé comme suit: (3) L’Administration des contributions directes informe chaque personne physique devant faire l’objet d’une déclaration de tout manquement à la sécurité concernant ses données lorsque ces manquements sont susceptibles de porter atteinte à la protection de ses données à caractère personnel ou de sa vie privée.
 
-3. L’article 23 est modifié comme suit: (2) L’Administration des contributions directes est considérée comme étant le responsable du traitement des données aux fins de la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel pour le traitement qu’elle met en œuvre.
+- L’article 23 est modifié comme suit: (2) L’Administration des contributions directes est considérée comme étant le responsable du traitement des données aux fins de la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel pour le traitement qu’elle met en œuvre.
 
 #### Chapitre 6 Mise en vigueur
 

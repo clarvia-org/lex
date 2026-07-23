@@ -46,27 +46,27 @@ Le présent règlement s’applique sans préjudice des exigences de la législa
 
 Le présent règlement ne s’applique pas:
 
-1. aux équipements nécessaires à la protection des intérêts essentiels de sécurité de l’Etat, y compris les armes, les munitions et le matériel de guerre destinés à des fins spécifiquement militaires;
+- aux équipements nécessaires à la protection des intérêts essentiels de sécurité de l’Etat, y compris les armes, les munitions et le matériel de guerre destinés à des fins spécifiquement militaires;
 
-2. aux équipements destinés à être envoyés dans l’espace;
+- aux équipements destinés à être envoyés dans l’espace;
 
-3. aux équipements qui sont spécifiquement conçus pour être installés en tant que partie d’un autre type d’équipement, qui ne relève pas du champ d’application du présent règlement ou en est exclu, qui ne peuvent remplir leur fonction que s’ils font partie de cet autre équipement et qui ne peuvent être remplacés que par le même équipement spécifiquement conçu;
+- aux équipements qui sont spécifiquement conçus pour être installés en tant que partie d’un autre type d’équipement, qui ne relève pas du champ d’application du présent règlement ou en est exclu, qui ne peuvent remplir leur fonction que s’ils font partie de cet autre équipement et qui ne peuvent être remplacés que par le même équipement spécifiquement conçu;
 
-4. aux gros outils industriels fixes;
+- aux gros outils industriels fixes;
 
-5. aux grosses installations fixes;
+- aux grosses installations fixes;
 
-6. aux moyens de transport de personnes ou de marchandises, à l’exception des véhicules électriques à deux roues qui ne sont pas réceptionnés par type;
+- aux moyens de transport de personnes ou de marchandises, à l’exception des véhicules électriques à deux roues qui ne sont pas réceptionnés par type;
 
-7. aux engins mobiles non routiers destinés exclusivement à un usage professionnel;
+- aux engins mobiles non routiers destinés exclusivement à un usage professionnel;
 
-8. aux dispositifs médicaux implantables actifs;
+- aux dispositifs médicaux implantables actifs;
 
-9. aux panneaux photovoltaïques destinés à être utilisés dans un système conçu, monté et installé par des professionnels pour une utilisation permanente en un lieu donné, en vue de la production d’énergie à partir de la lumière du soleil, pour des applications publiques, commerciales, industrielles et résidentielles;
+- aux panneaux photovoltaïques destinés à être utilisés dans un système conçu, monté et installé par des professionnels pour une utilisation permanente en un lieu donné, en vue de la production d’énergie à partir de la lumière du soleil, pour des applications publiques, commerciales, industrielles et résidentielles;
 
-10. aux équipements spécifiquement conçus aux seules fins de recherche et de développement, et disponibles uniquement dans un contexte interentreprises
+- aux équipements spécifiquement conçus aux seules fins de recherche et de développement, et disponibles uniquement dans un contexte interentreprises
 
-11. aux orgues à tuyaux.
+- aux orgues à tuyaux.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -77,61 +77,61 @@ Définitions
 
 Aux fins du présent règlement, on entend par:
 
-1. «équipements électriques et électroniques» ou «EEE»: les équipements fonctionnant grâce à des courants électriques ou à des champs électromagnétiques, et les équipements de production, de transfert et de mesure de ces courants et champs, conçus pour être utilisés à une tension ne dépassant pas 1.000 volts en courant alternatif et 1.500 volts en courant continu;
+- «équipements électriques et électroniques» ou «EEE»: les équipements fonctionnant grâce à des courants électriques ou à des champs électromagnétiques, et les équipements de production, de transfert et de mesure de ces courants et champs, conçus pour être utilisés à une tension ne dépassant pas 1.000 volts en courant alternatif et 1.500 volts en courant continu;
 
-2. aux fins du point 1), «fonctionnant grâce à»: nécessitant, en ce qui concerne les EEE, des courants électriques ou des champs électromagnétiques pour l’exécution d’au moins une fonction prévue;
+- aux fins du point 1), «fonctionnant grâce à»: nécessitant, en ce qui concerne les EEE, des courants électriques ou des champs électromagnétiques pour l’exécution d’au moins une fonction prévue;
 
-3. «gros outils industriels fixes»: ensemble de grande ampleur de machines, d’équipements et/ou de composants, qui fonctionnent ensemble pour une application spécifique, installés de façon permanente et démontés par des professionnels dans un lieu donné, et utilisés et entretenus par des professionnels dans un centre de fabrication industrielle ou dans un établissement de recherche et développement;
+- «gros outils industriels fixes»: ensemble de grande ampleur de machines, d’équipements et/ou de composants, qui fonctionnent ensemble pour une application spécifique, installés de façon permanente et démontés par des professionnels dans un lieu donné, et utilisés et entretenus par des professionnels dans un centre de fabrication industrielle ou dans un établissement de recherche et développement;
 
-4. «grosse installation fixe»: combinaison de grande ampleur de plusieurs types d’appareils et, le cas échéant, d’autres dispositifs, qui sont assemblés et installés par des professionnels pour être utilisés de façon permanente à un endroit prédéfini et dédié, et démontés par des professionnels;
+- «grosse installation fixe»: combinaison de grande ampleur de plusieurs types d’appareils et, le cas échéant, d’autres dispositifs, qui sont assemblés et installés par des professionnels pour être utilisés de façon permanente à un endroit prédéfini et dédié, et démontés par des professionnels;
 
-5. «câbles»: tous les câbles d’une tension nominale inférieure à 250 volts qui ont une fonction de connexion ou de prolongation pour raccorder l’EEE au réseau ou pour raccorder deux ou plusieurs EEE entre eux;
+- «câbles»: tous les câbles d’une tension nominale inférieure à 250 volts qui ont une fonction de connexion ou de prolongation pour raccorder l’EEE au réseau ou pour raccorder deux ou plusieurs EEE entre eux;
 
-6. «fabricant»: toute personne physique ou morale qui fabrique un EEE ou fait concevoir ou fabriquer un EEE et le commercialise sous son propre nom ou sa propre marque;
+- «fabricant»: toute personne physique ou morale qui fabrique un EEE ou fait concevoir ou fabriquer un EEE et le commercialise sous son propre nom ou sa propre marque;
 
-7. «mandataire»: toute personne physique ou morale établie au Luxembourg ayant reçu mandat écrit du fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées;
+- «mandataire»: toute personne physique ou morale établie au Luxembourg ayant reçu mandat écrit du fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées;
 
-8. «distributeur»: toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un EEE à disposition sur le marché;
+- «distributeur»: toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un EEE à disposition sur le marché;
 
-9. «importateur»: toute personne physique ou morale établie dans l’Union européenne, dénommée ci-après «Union», qui met un EEE provenant d’un pays tiers sur le marché de l’Union;
+- «importateur»: toute personne physique ou morale établie dans l’Union européenne, dénommée ci-après «Union», qui met un EEE provenant d’un pays tiers sur le marché de l’Union;
 
-10. «opérateurs économiques»: le fabricant, le mandataire, l’importateur et le distributeur;
+- «opérateurs économiques»: le fabricant, le mandataire, l’importateur et le distributeur;
 
-11. «mise à disposition sur le marché»: toute fourniture d’un EEE destiné à être distribué, consommé ou utilisé sur le marché de l’Union dans le cadre d’une activité commerciale, à titre onéreux ou gratuit;
+- «mise à disposition sur le marché»: toute fourniture d’un EEE destiné à être distribué, consommé ou utilisé sur le marché de l’Union dans le cadre d’une activité commerciale, à titre onéreux ou gratuit;
 
-12. «mise sur le marché»: la première mise à disposition d’un EEE sur le marché de l’Union;
+- «mise sur le marché»: la première mise à disposition d’un EEE sur le marché de l’Union;
 
-13. «norme harmonisée»: une norme adoptée par l’un des organismes européens de normalisation visés à l’annexe I de la directive 98/34/CE du Parlement européen et du Conseil du 22 juin 1998 prévoyant une procédure d’information dans le domaine des normes et réglementations techniques et des règles relatives aux services de la société de l’information, sur la base d’une demande formulée par la Commission conformément à l’article 6 de ladite directive ;
+- «norme harmonisée»: une norme adoptée par l’un des organismes européens de normalisation visés à l’annexe I de la directive 98/34/CE du Parlement européen et du Conseil du 22 juin 1998 prévoyant une procédure d’information dans le domaine des normes et réglementations techniques et des règles relatives aux services de la société de l’information, sur la base d’une demande formulée par la Commission conformément à l’article 6 de ladite directive ;
 
-14. «spécifications techniques»: un document fixant les exigences techniques devant être respectées par un produit, processus ou service;
+- «spécifications techniques»: un document fixant les exigences techniques devant être respectées par un produit, processus ou service;
 
-15. «marquage CE»: le marquage par lequel le fabricant indique que le produit est conforme aux exigences applicables de la législation d’harmonisation de l’Union prévoyant son apposition;
+- «marquage CE»: le marquage par lequel le fabricant indique que le produit est conforme aux exigences applicables de la législation d’harmonisation de l’Union prévoyant son apposition;
 
-16. «évaluation de la conformité»: processus évaluant s’il est démontré que les exigences du présent règlement relatives à un EEE ont été respectées;
+- «évaluation de la conformité»: processus évaluant s’il est démontré que les exigences du présent règlement relatives à un EEE ont été respectées;
 
-17. «surveillance du marché»: les opérations effectuées et les mesures prises pour garantir que les EEE sont conformes aux exigences définies dans le présent règlement et ne portent pas atteinte à la santé et à la sécurité ou à d’autres aspects de la protection de l’intérêt public;
+- «surveillance du marché»: les opérations effectuées et les mesures prises pour garantir que les EEE sont conformes aux exigences définies dans le présent règlement et ne portent pas atteinte à la santé et à la sécurité ou à d’autres aspects de la protection de l’intérêt public;
 
-18. «rappel»: toute mesure visant à obtenir le retour d’un produit qui a déjà été mis à la disposition de l’utilisateur final;
+- «rappel»: toute mesure visant à obtenir le retour d’un produit qui a déjà été mis à la disposition de l’utilisateur final;
 
-19. «retrait»: toute mesure visant à empêcher la mise à disposition sur le marché d’un produit de la chaîne d’approvisionnement;
+- «retrait»: toute mesure visant à empêcher la mise à disposition sur le marché d’un produit de la chaîne d’approvisionnement;
 
-20. «matériau homogène»: soit un matériau dont la composition est parfaitement uniforme, soit un matériau constitué d’une combinaison de matériaux, qui ne peut être divisé ou séparé en différents matériaux, au moyen d’actions mécaniques, telles que le dévissage, le coupage, le broyage, le meulage et les procédés abrasifs;
+- «matériau homogène»: soit un matériau dont la composition est parfaitement uniforme, soit un matériau constitué d’une combinaison de matériaux, qui ne peut être divisé ou séparé en différents matériaux, au moyen d’actions mécaniques, telles que le dévissage, le coupage, le broyage, le meulage et les procédés abrasifs;
 
-21. «dispositif médical»: un dispositif médical ou accessoire d’un dispositif médical au sens de l’article 1 er , paragraphe (3) , point a) ou b), respectivement, de la loi modifiée du 16 juin 1990 relative aux dispositifs médicaux, et qui est aussi un EEE;
+- «dispositif médical»: un dispositif médical ou accessoire d’un dispositif médical au sens de l’article 1 er , paragraphe (3) , point a) ou b), respectivement, de la loi modifiée du 16 juin 1990 relative aux dispositifs médicaux, et qui est aussi un EEE;
 
-22. «dispositif médical de diagnostic in vitro»: un dispositif médical de diagnostic in vitro ou accessoire d’un dispositif médical de diagnostic in vitro au sens de l’article 1 er , point b) ou c), respectivement, du règlement grand-ducal modifié du 24 juillet 2001 relatif aux dispositifs médicaux de diagnostic in vitro;
+- «dispositif médical de diagnostic in vitro»: un dispositif médical de diagnostic in vitro ou accessoire d’un dispositif médical de diagnostic in vitro au sens de l’article 1 er , point b) ou c), respectivement, du règlement grand-ducal modifié du 24 juillet 2001 relatif aux dispositifs médicaux de diagnostic in vitro;
 
-23. «dispositif médical implantable actif»: un dispositif médical implantable actif au sens de l’article 1 er , paragraphe (2), point c), du règlement grand-ducal modifié du 5 février 1993 relatif aux dispositifs médicaux implantables actifs;
+- «dispositif médical implantable actif»: un dispositif médical implantable actif au sens de l’article 1 er , paragraphe (2), point c), du règlement grand-ducal modifié du 5 février 1993 relatif aux dispositifs médicaux implantables actifs;
 
-24. «instruments de contrôle et de surveillance industriels»: les instruments de contrôle et de surveillance conçus à des fins exclusivement industrielles ou professionnelles;
+- «instruments de contrôle et de surveillance industriels»: les instruments de contrôle et de surveillance conçus à des fins exclusivement industrielles ou professionnelles;
 
-25. «disponibilité d’un produit de substitution»: la possibilité de fabriquer et de livrer un produit de substitution dans un délai raisonnable en comparaison avec le temps nécessaire à la fabrication et la livraison des substances énumérées à l’annexe II;
+- «disponibilité d’un produit de substitution»: la possibilité de fabriquer et de livrer un produit de substitution dans un délai raisonnable en comparaison avec le temps nécessaire à la fabrication et la livraison des substances énumérées à l’annexe II;
 
-26. «fiabilité d’un produit de substitution»: la probabilité qu’un EEE utilisant un produit de substitution remplira les fonctions requises sans défaillance dans des conditions données pour une période de temps donnée;
+- «fiabilité d’un produit de substitution»: la probabilité qu’un EEE utilisant un produit de substitution remplira les fonctions requises sans défaillance dans des conditions données pour une période de temps donnée;
 
-27. «pièce détachée»: une pièce distincte d’un EEE pouvant remplacer une pièce d’un EEE. L’EEE ne peut fonctionner comme prévu sans cette pièce. La fonctionnalité de l’EEE est rétablie ou mise à jour lorsque la pièce est remplacée par une pièce détachée;
+- «pièce détachée»: une pièce distincte d’un EEE pouvant remplacer une pièce d’un EEE. L’EEE ne peut fonctionner comme prévu sans cette pièce. La fonctionnalité de l’EEE est rétablie ou mise à jour lorsque la pièce est remplacée par une pièce détachée;
 
-28. « engins mobiles non routiers mis à disposition uniquement pour un usage professionnel » : engins disposant d’un bloc d’alimentation embarqué ou avec commande de dispositif de déplacement alimentée par une source d’énergie externe, dont le fonctionnement nécessite soit la mobilité, soit un déplacement continu ou semi-continu entre une succession d’emplacements de travail fixes pendant le travail, et qui sont mis à disposition uniquement pour un usage professionnel.
+- « engins mobiles non routiers mis à disposition uniquement pour un usage professionnel » : engins disposant d’un bloc d’alimentation embarqué ou avec commande de dispositif de déplacement alimentée par une source d’énergie externe, dont le fonctionnement nécessite soit la mobilité, soit un déplacement continu ou semi-continu entre une succession d’emplacements de travail fixes pendant le travail, et qui sont mis à disposition uniquement pour un usage professionnel.
 
 (2)
 
@@ -167,33 +167,33 @@ Le paragraphe (1) s’applique aux dispositifs médicaux et aux instruments de c
 
 Le paragraphe (1) ne s’applique pas aux câbles ou pièces détachées destinés à la réparation, au réemploi, à la mise à jour des fonctionnalités ou au renforcement de la capacité des équipements indiqués ci-après:
 
-1. les EEE mis sur le marché avant le 1 er juillet 2006;
+- les EEE mis sur le marché avant le 1 er juillet 2006;
 
-2. les dispositifs médicaux mis sur le marché avant le 22 juillet 2014;
+- les dispositifs médicaux mis sur le marché avant le 22 juillet 2014;
 
-3. les dispositifs médicaux de diagnostic in vitro mis sur le marché avant le 22 juillet 2016;
+- les dispositifs médicaux de diagnostic in vitro mis sur le marché avant le 22 juillet 2016;
 
-4. les instruments de contrôle et de surveillance mis sur le marché avant le 22 juillet 2014;
+- les instruments de contrôle et de surveillance mis sur le marché avant le 22 juillet 2014;
 
-5. les instruments de contrôle et de surveillance industriels mis sur le marché avant le 22 juillet 2017;
+- les instruments de contrôle et de surveillance industriels mis sur le marché avant le 22 juillet 2017;
 
-6. ebis) tout autre EEE qui ne relevait pas du champ d’application du règlement grand-ducal modifié du 18 janvier 2005 relatif aux déchets des équipements électriques et électroniques ainsi qu’à la limitation d’emploi de certains de leurs composants dangereux et qui est mis sur le marché avant le 22 juillet 2019 ;
+- ebis) tout autre EEE qui ne relevait pas du champ d’application du règlement grand-ducal modifié du 18 janvier 2005 relatif aux déchets des équipements électriques et électroniques ainsi qu’à la limitation d’emploi de certains de leurs composants dangereux et qui est mis sur le marché avant le 22 juillet 2019 ;
 
-7. les EEE bénéficiant d’une exemption et mis sur le marché avant expiration de l’exemption, pour le cas où ladite exemption est concernée.
+- les EEE bénéficiant d’une exemption et mis sur le marché avant expiration de l’exemption, pour le cas où ladite exemption est concernée.
 
 (5)
 
 À condition que le réemploi s’effectue dans le cadre de systèmes de récupération interentreprises en circuit fermé et contrôlables et que le réemploi des pièces détachées soit notifié aux consommateurs, le paragraphe 1er ne s’applique pas aux pièces détachées réemployées :
 
-1. issues d’un EEE mis sur le marché avant le 1 er juillet 2006 et qui se trouvent dans un EEE mis sur le marché avant le 1 er juillet 2016 ;
+- issues d’un EEE mis sur le marché avant le 1 er juillet 2006 et qui se trouvent dans un EEE mis sur le marché avant le 1 er juillet 2016 ;
 
-2. issues de dispositifs médicaux ou d’instruments de contrôle et de surveillance mis sur le marché avant le 22 juillet 2014 et qui se trouvent dans un EEE mis sur le marché avant le 22 juillet 2024 ;
+- issues de dispositifs médicaux ou d’instruments de contrôle et de surveillance mis sur le marché avant le 22 juillet 2014 et qui se trouvent dans un EEE mis sur le marché avant le 22 juillet 2024 ;
 
-3. issues de dispositifs médicaux de diagnostic in vitro mis sur le marché avant le 22 juillet 2016 et qui se trouvent dans un EEE mis sur le marché avant le 22 juillet 2026 ;
+- issues de dispositifs médicaux de diagnostic in vitro mis sur le marché avant le 22 juillet 2016 et qui se trouvent dans un EEE mis sur le marché avant le 22 juillet 2026 ;
 
-4. issues d’instruments de contrôle et de surveillance industriels mis sur le marché avant le 22 juillet 2017 et qui se trouvent dans un EEE mis sur le marché avant le 22 juillet 2027 ;
+- issues d’instruments de contrôle et de surveillance industriels mis sur le marché avant le 22 juillet 2017 et qui se trouvent dans un EEE mis sur le marché avant le 22 juillet 2027 ;
 
-5. issues de tout autre EEE qui ne relevait pas du champ d’application du règlement grand-ducal modifié du 18 janvier 2005 relatif aux déchets des équipements électriques et électroniques ainsi qu’à la limitation d’emploi de certains de leurs composants dangereux et mis sur le marché avant le 22 juillet 2019, et qui se trouvent dans un EEE mis sur le marché avant le 22 juillet 2029.
+- issues de tout autre EEE qui ne relevait pas du champ d’application du règlement grand-ducal modifié du 18 janvier 2005 relatif aux déchets des équipements électriques et électroniques ainsi qu’à la limitation d’emploi de certains de leurs composants dangereux et mis sur le marché avant le 22 juillet 2019, et qui se trouvent dans un EEE mis sur le marché avant le 22 juillet 2029.
 
 (6)
 
@@ -335,9 +335,9 @@ Identification des opérateurs économiques
 
 Les opérateurs économiques, sur demande de l’administration, identifient à l’intention de cette dernière, pendant une durée de dix ans suivant la mise sur le marché de l’EEE:
 
-1. tout opérateur économique qui leur a fourni un EEE;
+- tout opérateur économique qui leur a fourni un EEE;
 
-2. tout opérateur économique auquel ils ont fourni un EEE.
+- tout opérateur économique auquel ils ont fourni un EEE.
 
 <a id="art-10"></a>
 ## Art. 10.

@@ -31,7 +31,11 @@ warning: 'Official consolidation: Version rectifiée applicable au 16/11/2023 : 
 <a id="art-1er"></a>
 ## Art. 1er.
 
-L’article 1er du règlement grand-ducal du 26 octobre 2021 relatif à la participation de l’Armée luxembourgeoise à la mission EUTM au Mozambique est remplacé comme suit : « Art.1er. Le Grand-Duché de Luxembourg contribue à la mission de formation militaire de l’Union européenne au Mozambique (EUTM Mozambique) pendant la période du 16 novembre 2023 au 15 novembre 2025 au plus tard, sous réserve de la prolongation du mandat de la mission. »
+L’article 1er du règlement grand-ducal du 26 octobre 2021 relatif à la participation de l’Armée luxembourgeoise à la mission EUTM au Mozambique est remplacé comme suit :
+
+« Art.1er.
+
+Le Grand-Duché de Luxembourg contribue à la mission de formation militaire de l’Union européenne au Mozambique (EUTM Mozambique) pendant la période du 16 novembre 2023 au 15 novembre 2025 au plus tard, sous réserve de la prolongation du mandat de la mission. »
 
 <a id="art-2"></a>
 ## Art. 2.

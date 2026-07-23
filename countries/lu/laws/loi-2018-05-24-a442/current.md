@@ -39,25 +39,25 @@ Au sens de la présente loi, les définitions suivantes sont d’application :
 
 Pour les techniques de tatouage :
 
-1. « tatouage » : la technique par laquelle, moyennant effraction cutanée, une injection intradermique de produits colorants est réalisée afin de créer sous la peau une marque ou d’affiner les traits du visage ;
+- « tatouage » : la technique par laquelle, moyennant effraction cutanée, une injection intradermique de produits colorants est réalisée afin de créer sous la peau une marque ou d’affiner les traits du visage ;
 
-2. « perçage » : la technique par laquelle, moyennant effraction cutanée, des objets sont placés dans l’épiderme, les muqueuses, les tissus sous-jacents ou les cartilages ;
+- « perçage » : la technique par laquelle, moyennant effraction cutanée, des objets sont placés dans l’épiderme, les muqueuses, les tissus sous-jacents ou les cartilages ;
 
-3. « cutting » : la technique par laquelle, moyennant incision cutanée, l’épiderme est blessé de sorte à ce que les cicatrices subséquentes forment un dessin ;
+- « cutting » : la technique par laquelle, moyennant incision cutanée, l’épiderme est blessé de sorte à ce que les cicatrices subséquentes forment un dessin ;
 
-4. « branding » : la technique par laquelle, moyennant une source de chaleur intense, l’épiderme est brûlé de sorte à ce que les cicatrices subséquentes forment un dessin ;
+- « branding » : la technique par laquelle, moyennant une source de chaleur intense, l’épiderme est brûlé de sorte à ce que les cicatrices subséquentes forment un dessin ;
 
-5. « produits de tatouage » : toute substance ou préparation colorante destinée, par effraction cutanée, à créer une marque sur les parties superficielles du corps humain à l’exception des produits qui sont des dispositifs médicaux.
+- « produits de tatouage » : toute substance ou préparation colorante destinée, par effraction cutanée, à créer une marque sur les parties superficielles du corps humain à l’exception des produits qui sont des dispositifs médicaux.
 
 (2)
 
 Pour les appareils et l’éclairement :
 
-1. « appareils de bronzage UV » : appareils de traitement de la peau par rayonnement équipés d’émetteurs ultraviolets ;
+- « appareils de bronzage UV » : appareils de traitement de la peau par rayonnement équipés d’émetteurs ultraviolets ;
 
-2. « éclairement effectif Eery » : Somme sur toutes les longueurs d’onde UV concernées des produits entre éclairement énergétique à la longueur d’onde donnée (en W/m 2 ) et l’efficacité spectrale à la même longueur d’onde pour induire un érythème ; Eery = Σ E(L) * S(L) (sommation sur toutes les longueurs d’onde L) avec S(L) = 1 pour toute longueur d’onde L < 298 nm et S(L) = 100,094 * (298-L) pour toute longueur d’onde L ≥ 298 nm et L ≤ 328 nm et S(L) = 100,015 * (140-L) pour toute longueur d’onde L > 328 nm et L ≤ 400 nm ;
+- « éclairement effectif Eery » : Somme sur toutes les longueurs d’onde UV concernées des produits entre éclairement énergétique à la longueur d’onde donnée (en W/m 2 ) et l’efficacité spectrale à la même longueur d’onde pour induire un érythème ; Eery = Σ E(L) * S(L) (sommation sur toutes les longueurs d’onde L) avec S(L) = 1 pour toute longueur d’onde L < 298 nm et S(L) = 100,094 * (298-L) pour toute longueur d’onde L ≥ 298 nm et L ≤ 328 nm et S(L) = 100,015 * (140-L) pour toute longueur d’onde L > 328 nm et L ≤ 400 nm ;
 
-1. « appareil de type UV 3 » : appareil comportant un émetteur UV tel que l’effet biologique est causé par des rayonnements de longueurs d’ondes inférieures et supérieures à 320 nm et caractérisé par un éclairement limité sur toute la bande de rayonnement UV, et dont l’éclairement effectif est inférieur à 0,15 W/m 2 pour les longueurs d’ondes de 250 à 320 nm, et inférieur à 0,15 W/m 2 pour les longueurs d’ondes de 320 à 400 nm.
+- « appareil de type UV 3 » : appareil comportant un émetteur UV tel que l’effet biologique est causé par des rayonnements de longueurs d’ondes inférieures et supérieures à 320 nm et caractérisé par un éclairement limité sur toute la bande de rayonnement UV, et dont l’éclairement effectif est inférieur à 0,15 W/m 2 pour les longueurs d’ondes de 250 à 320 nm, et inférieur à 0,15 W/m 2 pour les longueurs d’ondes de 320 à 400 nm.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -71,27 +71,27 @@ Les prestataires qui offrent des services comportant les techniques mentionnées
 
 La mise en œuvre des techniques visées à l’article 2, paragraphe 1er, s’exerce dans le respect des règles d’hygiène et de salubrité suivantes :
 
-1. le matériel, ainsi que ses supports directs, pénétrant ou entrant en contact avec l’épiderme, les muqueuses, les tissus sous-jacents ou les cartilages sont soit à usage unique et stérile, soit stérilisés adéquatement avant chaque opération ;
+- le matériel, ainsi que ses supports directs, pénétrant ou entrant en contact avec l’épiderme, les muqueuses, les tissus sous-jacents ou les cartilages sont soit à usage unique et stérile, soit stérilisés adéquatement avant chaque opération ;
 
-2. les locaux dans lesquels sont exercés de telles activités doivent comprendre une salle exclusivement réservée à la réalisation des techniques visées à l’article 2, paragraphe 1 er ;
+- les locaux dans lesquels sont exercés de telles activités doivent comprendre une salle exclusivement réservée à la réalisation des techniques visées à l’article 2, paragraphe 1 er ;
 
-3. à l’intérieur des locaux une mise en garde contre les risques liés aux techniques visées à l’article 2, paragraphe 1 er , comprenant les informations visées à la fiche prévue à l’article 7 de la présente loi est affichée ;
+- à l’intérieur des locaux une mise en garde contre les risques liés aux techniques visées à l’article 2, paragraphe 1 er , comprenant les informations visées à la fiche prévue à l’article 7 de la présente loi est affichée ;
 
-4. le stockage et l’élimination des déchets issus de cette activité doivent être assurés de manière à respecter les dispositions de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets relatives aux déchets hospitaliers et assimilés ;
+- le stockage et l’élimination des déchets issus de cette activité doivent être assurés de manière à respecter les dispositions de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets relatives aux déchets hospitaliers et assimilés ;
 
-5. une interdiction de fumer, de consommer des denrées alimentaires et de présence d’animaux s’applique aux locaux dans lesquels sont exercées de telles activités ;
+- une interdiction de fumer, de consommer des denrées alimentaires et de présence d’animaux s’applique aux locaux dans lesquels sont exercées de telles activités ;
 
-6. une procédure d’hygiène des mains est appliquée ;
+- une procédure d’hygiène des mains est appliquée ;
 
-7. la préparation de la zone à traiter est réalisée selon un protocole ;
+- la préparation de la zone à traiter est réalisée selon un protocole ;
 
-8. la sécurité et le nettoyage du matériel utilisé sont assurés.
+- la sécurité et le nettoyage du matériel utilisé sont assurés.
 
 Les personnes qui mettent en œuvre la technique du perçage du lobule de l’oreille moyennant un pistolet perce-oreille respectent, outre les règles d’hygiène et de salubrité fixées à l’alinéa 1er, les règles suivantes :
 
-1. la peau du client est isolée des éléments permanents du pistolet perce-oreille par un élément jetable et à usage unique servant de support au bijou de pose ;
+- la peau du client est isolée des éléments permanents du pistolet perce-oreille par un élément jetable et à usage unique servant de support au bijou de pose ;
 
-2. le bijou de pose et son support sont fournis stériles dans un emballage hermétique qui en garantit la stérilité jusqu’à son utilisation. Un règlement grand-ducal précise les caractéristiques et l’équipement des locaux visés à l’alinéa 1 er , la procédure d’hygiène des mains, les différents éléments du protocole relatif à la préparation de la zone à traiter, les mesures relatives à la sécurité et les modalités de nettoyage du matériel utilisé, les règles spécifiques d’hygiène à respecter lors de la réalisation de l’acte, le protocole de stérilisation des matériels ainsi que les règles spécifiques dans ces domaines lors de la mise en œuvre de la technique du perçage du lobule de l’oreille moyennant un pistolet perce-oreille.
+- le bijou de pose et son support sont fournis stériles dans un emballage hermétique qui en garantit la stérilité jusqu’à son utilisation. Un règlement grand-ducal précise les caractéristiques et l’équipement des locaux visés à l’alinéa 1 er , la procédure d’hygiène des mains, les différents éléments du protocole relatif à la préparation de la zone à traiter, les mesures relatives à la sécurité et les modalités de nettoyage du matériel utilisé, les règles spécifiques d’hygiène à respecter lors de la réalisation de l’acte, le protocole de stérilisation des matériels ainsi que les règles spécifiques dans ces domaines lors de la mise en œuvre de la technique du perçage du lobule de l’oreille moyennant un pistolet perce-oreille.
 
 (2)
 
@@ -124,19 +124,19 @@ Le consentement visé au paragraphe 1er est recueilli par écrit selon des modal
 
 La personne qui applique une des techniques visées à l’article 2, paragraphe 1er, informe préalablement le client sur qui l’acte est réalisé, et dans le cas de personnes mineures de moins de 18 ans accomplis, sur lesquelles des techniques de tatouage ou de perçage sont appliquées, la personne titulaire de l’autorité parentale, lors d’un entretien personnel sur les risques et conséquences de ces actes. Cet entretien porte obligatoirement sur les points suivants :
 
-1. l’irréversibilité de certains actes impliquant une modification corporelle définitive ;
+- l’irréversibilité de certains actes impliquant une modification corporelle définitive ;
 
-2. les douleurs éventuellement associées à ces techniques, tant durant l’acte que lors de la cicatrisation ;
+- les douleurs éventuellement associées à ces techniques, tant durant l’acte que lors de la cicatrisation ;
 
-3. les risques d’infections ;
+- les risques d’infections ;
 
-4. les risques allergiques notamment liés aux encres de tatouage et aux bijoux de piercing ;
+- les risques allergiques notamment liés aux encres de tatouage et aux bijoux de piercing ;
 
-5. les contre-indications au geste liées au terrain ou aux traitements en cours ;
+- les contre-indications au geste liées au terrain ou aux traitements en cours ;
 
-6. le temps de cicatrisation adapté à la technique qui a été mise en œuvre et les risques cicatriciels ;
+- le temps de cicatrisation adapté à la technique qui a été mise en œuvre et les risques cicatriciels ;
 
-7. les précautions à respecter après la réalisation des techniques, notamment pour permettre une cicatrisation rapide.
+- les précautions à respecter après la réalisation des techniques, notamment pour permettre une cicatrisation rapide.
 
 (2)
 
@@ -149,23 +149,23 @@ Il doit s’assurer du consentement éclairé du client ou en cas d’une person
 
 Sans préjudice d’autres dispositions plus sévères, est puni d’un emprisonnement de huit jours à trois mois et d’une amende de deux cent cinquante et un à cinq mille euros ou d’une de ces peines seulement le fait de mettre en œuvre une des techniques citées à l’article 2, paragraphe 1er :
 
-1. sans avoir notifié son activité conformément aux dispositions de l’article 3 ;
+- sans avoir notifié son activité conformément aux dispositions de l’article 3 ;
 
-2. sans respecter les conditions d’hygiène et de salubrité prévues à l’article 4 ;
+- sans respecter les conditions d’hygiène et de salubrité prévues à l’article 4 ;
 
-3. sans avoir reçu la formation prévue à l’article 3 ;
+- sans avoir reçu la formation prévue à l’article 3 ;
 
-4. sans procéder à l’information et à l’affichage prévus à l’article 4 ;
+- sans procéder à l’information et à l’affichage prévus à l’article 4 ;
 
-5. sans respecter les dispositions de l’article 4 relatives au traitement des déchets ;
+- sans respecter les dispositions de l’article 4 relatives au traitement des déchets ;
 
-6. en utilisant des produits ou des matériaux non conformes aux dispositions de l’article 5 ;
+- en utilisant des produits ou des matériaux non conformes aux dispositions de l’article 5 ;
 
-7. sans avoir procédé à l’entretien préalable ou la remise de la fiche prévus à l’article 7 ;
+- sans avoir procédé à l’entretien préalable ou la remise de la fiche prévus à l’article 7 ;
 
-8. sur une personne sans avoir préalablement recueilli l’accord dans les conditions prévues à l’article 6 ;
+- sur une personne sans avoir préalablement recueilli l’accord dans les conditions prévues à l’article 6 ;
 
-9. en utilisant la technique du pistolet perce-oreille pour le perçage d’une partie du corps autre que le lobule de l’oreille.
+- en utilisant la technique du pistolet perce-oreille pour le perçage d’une partie du corps autre que le lobule de l’oreille.
 
 (2)
 
@@ -175,42 +175,42 @@ Sans préjudice d’autres dispositions plus sévères, est puni d’un emprison
 
 Est puni d’une amende de deux cent cinquante et un à cinq mille euros le fait de pratiquer le perçage du lobule de l’oreille par la technique du pistolet perce-oreille :
 
-1. sans disposer des qualifications prévues à l’article 4 ;
+- sans disposer des qualifications prévues à l’article 4 ;
 
-2. sans respecter les conditions d’hygiène prévues à l’article 4 ;
+- sans respecter les conditions d’hygiène prévues à l’article 4 ;
 
-3. sans procéder à l’information et à l’affichage prévus à l’article 4 ;
+- sans procéder à l’information et à l’affichage prévus à l’article 4 ;
 
-4. en utilisant des matériaux non conformes aux dispositions de l’article 5 ;
+- en utilisant des matériaux non conformes aux dispositions de l’article 5 ;
 
-5. sans avoir procédé à l’entretien préalable ou la remise de la fiche prévus à l’article 7 ;
+- sans avoir procédé à l’entretien préalable ou la remise de la fiche prévus à l’article 7 ;
 
-6. sur une personne sans avoir préalablement recueilli l’accord dans les conditions prévues à l’article 6.
+- sur une personne sans avoir préalablement recueilli l’accord dans les conditions prévues à l’article 6.
 
 <a id="art-9"></a>
 ## Art. 9.
 
 La vente et la mise à disposition au public des appareils de bronzage UV est soumise aux conditions ci-après :
 
-1. Les appareils à éclairement effectif supérieur à 0,3 W/m 2 ainsi que les appareils à éclairement effectif supérieur à 0,15 W/m 2 pour les longueurs d’ondes de 250 à 320 nm sont réservés à un usage thérapeutique et ne peuvent être utilisés que sur prescription médicale et sous la responsabilité d’un médecin. Leur détention et mise à disposition est limitée aux médecins et établissements hospitaliers.
+- Les appareils à éclairement effectif supérieur à 0,3 W/m 2 ainsi que les appareils à éclairement effectif supérieur à 0,15 W/m 2 pour les longueurs d’ondes de 250 à 320 nm sont réservés à un usage thérapeutique et ne peuvent être utilisés que sur prescription médicale et sous la responsabilité d’un médecin. Leur détention et mise à disposition est limitée aux médecins et établissements hospitaliers.
 
-2. L’utilisation d’appareils à éclairement effectif supérieur à 0,003 W/m 2 pour les longueurs d’ondes de 200 à 280 nm est interdite.
+- L’utilisation d’appareils à éclairement effectif supérieur à 0,003 W/m 2 pour les longueurs d’ondes de 200 à 280 nm est interdite.
 
-3. Les appareils à éclairement effectif inférieur ou égal à 0,3 W/m 2 et à éclairement effectif supérieur à 0,15 W/m 2 pour les longueurs d’ondes de 320 à 400 nm sont réservés à un usage professionnel dans le domaine de l’esthétique ou du loisir conformément au présent chapitre. Leur vente au public est interdite.
+- Les appareils à éclairement effectif inférieur ou égal à 0,3 W/m 2 et à éclairement effectif supérieur à 0,15 W/m 2 pour les longueurs d’ondes de 320 à 400 nm sont réservés à un usage professionnel dans le domaine de l’esthétique ou du loisir conformément au présent chapitre. Leur vente au public est interdite.
 
-4. Les appareils de type UV 3 peuvent être mis librement en vente ou à la disposition du public sous réserve des dispositions et limitations du présent chapitre. Il est interdit de mettre un appareil de bronzage UV à disposition d’une personne mineure. Il est interdit de vendre un appareil de bronzage UV à une personne mineure. Les appareils de bronzage UV ne peuvent être mis à la disposition du public que sous la surveillance directe d’un personnel qualifié. Les appareils de bronzage UV mis à la disposition du public, à titre gratuit ou onéreux, et leurs conditions d’utilisation doivent être conformes aux règles de l’art prévalant en matière de sécurité.
+- Les appareils de type UV 3 peuvent être mis librement en vente ou à la disposition du public sous réserve des dispositions et limitations du présent chapitre. Il est interdit de mettre un appareil de bronzage UV à disposition d’une personne mineure. Il est interdit de vendre un appareil de bronzage UV à une personne mineure. Les appareils de bronzage UV ne peuvent être mis à la disposition du public que sous la surveillance directe d’un personnel qualifié. Les appareils de bronzage UV mis à la disposition du public, à titre gratuit ou onéreux, et leurs conditions d’utilisation doivent être conformes aux règles de l’art prévalant en matière de sécurité.
 
 (3)
 
 La mise à disposition des appareils de bronzage UV doit être réalisée dans le respect des règles d’hygiène et de salubrité suivantes :
 
-1. les locaux dans lesquels sont réalisées les activités de bronzage doivent être aménagés et entretenus de manière à garantir un niveau d’hygiène approprié aux activités réalisées ;
+- les locaux dans lesquels sont réalisées les activités de bronzage doivent être aménagés et entretenus de manière à garantir un niveau d’hygiène approprié aux activités réalisées ;
 
-2. le matériel utilisé pour réaliser les activités de bronzage doit satisfaire à des spécificités techniques et être entretenu de manière à garantir un niveau d’hygiène approprié aux activités réalisées. Le matériel, y compris les lunettes de protection, ainsi que ses supports directs, entrant en contact direct avec la peau ou les cheveux sont nettoyés adéquatement après chaque client ;
+- le matériel utilisé pour réaliser les activités de bronzage doit satisfaire à des spécificités techniques et être entretenu de manière à garantir un niveau d’hygiène approprié aux activités réalisées. Le matériel, y compris les lunettes de protection, ainsi que ses supports directs, entrant en contact direct avec la peau ou les cheveux sont nettoyés adéquatement après chaque client ;
 
-3. une interdiction de fumer, de consommer des denrées alimentaires et de présence d’animaux s’applique aux locaux dans lesquels sont mis à disposition des appareils de bronzage UV ;
+- une interdiction de fumer, de consommer des denrées alimentaires et de présence d’animaux s’applique aux locaux dans lesquels sont mis à disposition des appareils de bronzage UV ;
 
-4. la présence de personnes disposant d’une formation adaptée, la mise à disposition de lunettes de protection et d’une documentation relative au bronzage UV est assurée et le déroulement des séances de bronzage est défini. Un règlement grand-ducal peut préciser ces règles.
+- la présence de personnes disposant d’une formation adaptée, la mise à disposition de lunettes de protection et d’une documentation relative au bronzage UV est assurée et le déroulement des séances de bronzage est défini. Un règlement grand-ducal peut préciser ces règles.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -219,11 +219,11 @@ Dans les locaux où des appareils de bronzage UV sont mis à disposition du publ
 
 Tout appareil de bronzage UV mis à disposition du public doit comporter :
 
-1. l’identification unique de l’appareil de bronzage UV ;
+- l’identification unique de l’appareil de bronzage UV ;
 
-2. le label de conformité CE et
+- le label de conformité CE et
 
-3. un avertissement concernant le rayonnement ultraviolet en langue française et allemande. Un règlement grand-ducal peut déterminer le contenu et les modalités pratiques de la mise en garde visée à l’alinéa qui précède.
+- un avertissement concernant le rayonnement ultraviolet en langue française et allemande. Un règlement grand-ducal peut déterminer le contenu et les modalités pratiques de la mise en garde visée à l’alinéa qui précède.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -257,21 +257,21 @@ Est interdite toute publicité affirmant que l’exposition aux UV des appareils
 
 Est puni d’une amende de deux cent cinquante et un à cinq mille euros le fait de pratiquer les activités visées à l’article 9 :
 
-1. Sans respecter les restrictions de vente et de mise à disposition prévues aux paragraphes 1 er et 2 de l’article 9 ;
+- Sans respecter les restrictions de vente et de mise à disposition prévues aux paragraphes 1 er et 2 de l’article 9 ;
 
-2. sans respecter les conditions d’hygiène prévues à l’article 9 (3) ;
+- sans respecter les conditions d’hygiène prévues à l’article 9 (3) ;
 
-3. sans afficher la fiche de mise en garde prévue à l’article 10 ;
+- sans afficher la fiche de mise en garde prévue à l’article 10 ;
 
-4. sans avoir fait la notification prévue à l’article 11 ;
+- sans avoir fait la notification prévue à l’article 11 ;
 
-5. sans remplir les conditions de formation prévues à l’article 11 ;
+- sans remplir les conditions de formation prévues à l’article 11 ;
 
-6. sans avoir effectué et documenté le contrôle technique visé à l’article 12 ;
+- sans avoir effectué et documenté le contrôle technique visé à l’article 12 ;
 
-7. sans respecter les conditions de publicité prévues à l’article 13 ;
+- sans respecter les conditions de publicité prévues à l’article 13 ;
 
-8. sur un appareil de bronzage UV ayant subi une modification technique au-delà des limites prévues par le mode d’emploi du constructeur de l’appareil.
+- sur un appareil de bronzage UV ayant subi une modification technique au-delà des limites prévues par le mode d’emploi du constructeur de l’appareil.
 
 <a id="art-15"></a>
 ## Art. 15.

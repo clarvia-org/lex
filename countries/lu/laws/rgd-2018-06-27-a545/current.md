@@ -38,11 +38,11 @@ Afin de progresser vers des niveaux de qualité de l'air n'entraînant pas d'inc
 
 Le présent règlement contribue également à la réalisation des objectifs suivants :
 
-1. les objectifs de qualité de l'air fixés dans la législation de l'Union européenne et les progrès en vue d'atteindre l'objectif à long terme de l'Union européenne consistant à parvenir à des niveaux de qualité de l'air conformes aux lignes directrices relatives à la qualité de l'air publiées par l'Organisation mondiale de la santé ;
+- les objectifs de qualité de l'air fixés dans la législation de l'Union européenne et les progrès en vue d'atteindre l'objectif à long terme de l'Union européenne consistant à parvenir à des niveaux de qualité de l'air conformes aux lignes directrices relatives à la qualité de l'air publiées par l'Organisation mondiale de la santé ;
 
-2. les objectifs de l'Union européenne en matière de biodiversité et d'écosystèmes conformément au septième programme d'action pour l'environnement ;
+- les objectifs de l'Union européenne en matière de biodiversité et d'écosystèmes conformément au septième programme d'action pour l'environnement ;
 
-3. l'amélioration des synergies entre la politique de l'Union européenne en matière de qualité de l'air et les autres politiques pertinentes de l'Union européenne, en particulier les politiques en matière de climat et d'énergie.
+- l'amélioration des synergies entre la politique de l'Union européenne en matière de qualité de l'air et les autres politiques pertinentes de l'Union européenne, en particulier les politiques en matière de climat et d'énergie.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -58,37 +58,37 @@ Définitions
 
 Au sens du présent règlement, on entend par :
 
-1. « émission » : le rejet d'une substance dans l'atmosphère à partir d'une source ponctuelle ou diffuse ;
+- « émission » : le rejet d'une substance dans l'atmosphère à partir d'une source ponctuelle ou diffuse ;
 
-2. « émissions anthropiques » : les émissions de polluants dans l'atmosphère liées à l'activité humaine ;
+- « émissions anthropiques » : les émissions de polluants dans l'atmosphère liées à l'activité humaine ;
 
-3. « précurseurs de l'ozone » : les oxydes d'azote, les composés organiques volatils non méthaniques, le méthane et le monoxyde de carbone ;
+- « précurseurs de l'ozone » : les oxydes d'azote, les composés organiques volatils non méthaniques, le méthane et le monoxyde de carbone ;
 
-4. « objectifs de qualité de l'air » : les valeurs limites, les valeurs cibles et les obligations en matière de concentration d'exposition pour la qualité de l'air respectivement prévues par le règlement grand-ducal modifié du 29 avril 2011 portant application de la directive 2008/50/CE du Parlement européen et du Conseil du 21 mai 2008 concernant la qualité de l'air ambiant et un air pur pour l'Europe et par le règlement grand-ducal modifié du 30 mai 2005 portant application de la directive 2004/107/CE du Parlement européen et du Conseil du 15 décembre 2004 concernant l'arsenic, le cadmium, le mercure, le nickel et les hydrocarbures aromatiques polycycliques dans l'air ambiant ;
+- « objectifs de qualité de l'air » : les valeurs limites, les valeurs cibles et les obligations en matière de concentration d'exposition pour la qualité de l'air respectivement prévues par le règlement grand-ducal modifié du 29 avril 2011 portant application de la directive 2008/50/CE du Parlement européen et du Conseil du 21 mai 2008 concernant la qualité de l'air ambiant et un air pur pour l'Europe et par le règlement grand-ducal modifié du 30 mai 2005 portant application de la directive 2004/107/CE du Parlement européen et du Conseil du 15 décembre 2004 concernant l'arsenic, le cadmium, le mercure, le nickel et les hydrocarbures aromatiques polycycliques dans l'air ambiant ;
 
-5. « dioxyde de soufre » ou « SO 2 » : tous les composés soufrés exprimés en dioxyde de soufre, y compris le trioxyde de soufre (SO 3 ), l'acide sulfurique (H 2 SO 4 ), et les composés soufrés réduits, tels que l'hydrogène sulfuré (H 2 S), les mercaptans et le sulfure de diméthyle ;
+- « dioxyde de soufre » ou « SO 2 » : tous les composés soufrés exprimés en dioxyde de soufre, y compris le trioxyde de soufre (SO 3 ), l'acide sulfurique (H 2 SO 4 ), et les composés soufrés réduits, tels que l'hydrogène sulfuré (H 2 S), les mercaptans et le sulfure de diméthyle ;
 
-6. « oxydes d'azote » ou « NO x » : le monoxyde d'azote et le dioxyde d'azote, exprimés en dioxyde d'azote ;
+- « oxydes d'azote » ou « NO x » : le monoxyde d'azote et le dioxyde d'azote, exprimés en dioxyde d'azote ;
 
-7. « composés organiques volatils non méthaniques » ou « COVNM » : tous les composés organiques autres que le méthane, qui sont capables de produire des oxydants photochimiques par réaction avec des oxydes d'azote sous l'effet du rayonnement solaire ;
+- « composés organiques volatils non méthaniques » ou « COVNM » : tous les composés organiques autres que le méthane, qui sont capables de produire des oxydants photochimiques par réaction avec des oxydes d'azote sous l'effet du rayonnement solaire ;
 
-8. « particules fines » ou « PM 2,5 » : les particules d'un diamètre aérodynamique inférieur ou égal à 2,5 micromètres ;
+- « particules fines » ou « PM 2,5 » : les particules d'un diamètre aérodynamique inférieur ou égal à 2,5 micromètres ;
 
-9. « carbone suie » ou « CS » : des particules carbonées qui absorbent la lumière ;
+- « carbone suie » ou « CS » : des particules carbonées qui absorbent la lumière ;
 
-10. « engagements nationaux de réduction des émissions » : l'obligation incombant au Luxembourg de réduire les émissions d'une substance ; elle précise la réduction des émissions devant être atteinte au minimum au cours d'une année civile cible, exprimée en pourcentage du total des émissions produites au cours de l'année de référence 2005 ;
+- « engagements nationaux de réduction des émissions » : l'obligation incombant au Luxembourg de réduire les émissions d'une substance ; elle précise la réduction des émissions devant être atteinte au minimum au cours d'une année civile cible, exprimée en pourcentage du total des émissions produites au cours de l'année de référence 2005 ;
 
-11. « cycle d'atterrissage et de décollage » : le cycle comprenant la phase de roulage au sol au départ et à l'arrivée, le décollage, la montée, l'approche, l'atterrissage et toutes les autres opérations de l'aéronef ayant lieu à une altitude inférieure à 3 000 pieds ;
+- « cycle d'atterrissage et de décollage » : le cycle comprenant la phase de roulage au sol au départ et à l'arrivée, le décollage, la montée, l'approche, l'atterrissage et toutes les autres opérations de l'aéronef ayant lieu à une altitude inférieure à 3 000 pieds ;
 
-12. « trafic maritime international » : les déplacements en mer et dans les eaux côtières de navires, quel que soit leur pavillon, à l'exception des navires de pêche, qui quittent le territoire d'un pays et arrivent sur le territoire d'un autre pays ;
+- « trafic maritime international » : les déplacements en mer et dans les eaux côtières de navires, quel que soit leur pavillon, à l'exception des navires de pêche, qui quittent le territoire d'un pays et arrivent sur le territoire d'un autre pays ;
 
-13. « zone de lutte contre la pollution » : une zone maritime ne s'étendant pas au-delà de 200 milles marins des lignes de base à partir desquelles est mesurée la largeur de la mer territoriale, établie par un État membre pour la prévention, la réduction et la lutte contre la pollution provenant des navires conformément aux règles et normes internationales en vigueur ;
+- « zone de lutte contre la pollution » : une zone maritime ne s'étendant pas au-delà de 200 milles marins des lignes de base à partir desquelles est mesurée la largeur de la mer territoriale, établie par un État membre pour la prévention, la réduction et la lutte contre la pollution provenant des navires conformément aux règles et normes internationales en vigueur ;
 
-14. « législation de l’Union européenne en matière de lutte à la source contre la pollution atmosphérique » : la législation de l’Union européenne, le cas échéant transposée ou exécutée en droit national, visant à réduire les émissions de polluants atmosphériques entrant dans le champ du présent règlement, en prenant des mesures d'atténuation à la source ;
+- « législation de l’Union européenne en matière de lutte à la source contre la pollution atmosphérique » : la législation de l’Union européenne, le cas échéant transposée ou exécutée en droit national, visant à réduire les émissions de polluants atmosphériques entrant dans le champ du présent règlement, en prenant des mesures d'atténuation à la source ;
 
-15. « PATLD » : Convention sur la pollution atmosphérique transfrontière à longue distance, faite à Genève le 13 novembre 1979, approuvée par la loi du 18 juin 1981 ;
+- « PATLD » : Convention sur la pollution atmosphérique transfrontière à longue distance, faite à Genève le 13 novembre 1979, approuvée par la loi du 18 juin 1981 ;
 
-16. « STPA 16 » : Rapport « Stratégie thématique sur la pollution atmosphérique » de la Commission européenne de janvier 2015, n° 16.
+- « STPA 16 » : Rapport « Stratégie thématique sur la pollution atmosphérique » de la Commission européenne de janvier 2015, n° 16.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -111,11 +111,11 @@ Lorsque les émissions de 2025 ne peuvent être limitées conformément à la tr
 
 Les émissions suivantes ne sont pas prises en compte aux fins du respect des paragraphes 1 et 2 :
 
-1. les émissions des aéronefs au-délà du cycle d'atterrissage et de décollage ;
+- les émissions des aéronefs au-délà du cycle d'atterrissage et de décollage ;
 
-2. les émissions provenant du trafic maritime international ;
+- les émissions provenant du trafic maritime international ;
 
-3. les émissions d'oxydes d'azote et de composés organiques volatils non méthaniques provenant d'activités relevant de la nomenclature de notification des données 2014 (NND) définie par la convention PATLD, catégories 3B (gestion des effluents d'élevage) et 3D (sols agricoles).
+- les émissions d'oxydes d'azote et de composés organiques volatils non méthaniques provenant d'activités relevant de la nomenclature de notification des données 2014 (NND) définie par la convention PATLD, catégories 3B (gestion des effluents d'élevage) et 3D (sols agricoles).
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -130,9 +130,9 @@ Aux fins de déterminer si les conditions pertinentes figurant à l'annexe IV, p
 
 À partir de 2025, les conditions supplémentaires suivantes s'appliquent aux ajustements au cas où il y aurait des facteurs d'émission ou des méthodologies utilisés pour déterminer les émissions provenant de certaines catégories de sources présentant des différences significatives par rapport à ceux attendus de la mise en œuvre d'une norme ou d'une règle donnée de la législation de l'Union européenne en matière de lutte à la source contre la pollution atmosphérique, en vertu de l'annexe IV, partie 4, points 1 d) ii) et iii) :
 
-1. après avoir tenu compte des résultats des programmes nationaux d'inspection et d'exécution contrôlant l'efficacité de la législation de l'Union européenne en matière de lutte à la source contre la pollution atmosphérique, le ministre ayant l’Environnement dans ses attributions, dénommé ci-après « le ministre », démontre que les facteurs d'émission présentant des différences significatives ne résultent pas de la mise en œuvre ou de l'exécution de cette législation au niveau national ;
+- après avoir tenu compte des résultats des programmes nationaux d'inspection et d'exécution contrôlant l'efficacité de la législation de l'Union européenne en matière de lutte à la source contre la pollution atmosphérique, le ministre ayant l’Environnement dans ses attributions, dénommé ci-après « le ministre », démontre que les facteurs d'émission présentant des différences significatives ne résultent pas de la mise en œuvre ou de l'exécution de cette législation au niveau national ;
 
-2. le ministre informe la Commission européenne de la différence significative des facteurs d'émission.
+- le ministre informe la Commission européenne de la différence significative des facteurs d'émission.
 
 (2)
 
@@ -146,9 +146,9 @@ Lorsque, pour une année donnée, un ou plusieurs engagements de réduction figu
 
 Les obligations au titre de l'article 4 sont réputées satisfaites pour une durée maximale de trois ans, si le non-respect des engagements de réduction des émissions pour les polluants pertinents résulte d'une interruption ou d'une perte de capacité soudaine et exceptionnelle dans le réseau de fourniture ou de production d'énergie ou de chaleur, qui n'aurait raisonnablement pas pu être prévue, et pour autant que les conditions suivantes soient remplies :
 
-1. le ministre démontre que tous les efforts raisonnables, y compris la mise en œuvre de nouvelles mesures et politiques, ont été déployés pour respecter les engagements, et qu'ils continueront à l'être pour que la période de non-respect reste aussi brève que possible ; et
+- le ministre démontre que tous les efforts raisonnables, y compris la mise en œuvre de nouvelles mesures et politiques, ont été déployés pour respecter les engagements, et qu'ils continueront à l'être pour que la période de non-respect reste aussi brève que possible ; et
 
-2. le ministre démontre que la mise en œuvre de mesures et de politiques s'ajoutant à celles visées au point a) entraînerait des coûts disproportionnés, compromettrait de manière significative la sécurité énergétique nationale ou induirait un risque substantiel de précarité énergétique pour une partie importante de la population.
+- le ministre démontre que la mise en œuvre de mesures et de politiques s'ajoutant à celles visées au point a) entraînerait des coûts disproportionnés, compromettrait de manière significative la sécurité énergétique nationale ou induirait un risque substantiel de précarité énergétique pour une partie importante de la population.
 
 (5)
 
@@ -177,19 +177,19 @@ Suite à cette consultation, le projet de programme, éventuellement adapté, es
 
 Lors de l’établissement du projet de programme, et des mises à jours respectives, il y a lieu :
 
-1. d’évaluer la mesure dans laquelle les sources nationales d'émission sont susceptibles d'avoir une incidence sur la qualité de l'air sur le territoire national et dans les États membres voisins, à l'aide, le cas échéant, des données et des méthodes élaborées par le programme européen concerté de surveillance continue et d'évaluation (EMEP) en vertu du protocole à la convention PATLD relatif au financement à long terme du programme concerté de surveillance continue et d'évaluation du transport à longue distance des polluants atmosphériques en Europe ;
+- d’évaluer la mesure dans laquelle les sources nationales d'émission sont susceptibles d'avoir une incidence sur la qualité de l'air sur le territoire national et dans les États membres voisins, à l'aide, le cas échéant, des données et des méthodes élaborées par le programme européen concerté de surveillance continue et d'évaluation (EMEP) en vertu du protocole à la convention PATLD relatif au financement à long terme du programme concerté de surveillance continue et d'évaluation du transport à longue distance des polluants atmosphériques en Europe ;
 
-2. de tenir compte de la nécessité de réduire les émissions de polluants atmosphériques pour permettre la réalisation des objectifs de qualité de l'air sur le territoire national et, le cas échéant, dans les États membres voisins ;
+- de tenir compte de la nécessité de réduire les émissions de polluants atmosphériques pour permettre la réalisation des objectifs de qualité de l'air sur le territoire national et, le cas échéant, dans les États membres voisins ;
 
-3. d’accorder la priorité aux mesures de réduction des émissions de carbone suie lors de l’élaboration des dispositions pour respecter les engagements nationaux de réduction des émissions de particules fines ;
+- d’accorder la priorité aux mesures de réduction des émissions de carbone suie lors de l’élaboration des dispositions pour respecter les engagements nationaux de réduction des émissions de particules fines ;
 
-4. de veiller à garantir la cohérence avec d'autres plans et programmes pertinents établis en vertu des dispositions de la législation nationale ou de celle de l'Union européenne.
+- de veiller à garantir la cohérence avec d'autres plans et programmes pertinents établis en vertu des dispositions de la législation nationale ou de celle de l'Union européenne.
 
 En vue du respect des engagements nationaux de réduction des émissions pertinents :
 
-1. sont inclues dans le programme national de lutte contre la pollution atmosphérique les mesures de réduction des émissions prévues à titre obligatoire à l'annexe III, partie 2 ;
+- sont inclues dans le programme national de lutte contre la pollution atmosphérique les mesures de réduction des émissions prévues à titre obligatoire à l'annexe III, partie 2 ;
 
-2. peuvent être inclues dans ledit programme les mesures de réduction des émissions prévues à titre facultatif à l'annexe III, partie 2, ou des mesures ayant un effet d'atténuation équivalent.
+- peuvent être inclues dans ledit programme les mesures de réduction des émissions prévues à titre facultatif à l'annexe III, partie 2, ou des mesures ayant un effet d'atténuation équivalent.
 
 (3)
 
@@ -245,13 +245,13 @@ La surveillance des incidences négatives de la pollution atmosphérique sur les
 
 La coordination est assurée avec d'autres programmes de surveillance établis en vertu :
 
-1. de la loi modifiée du 19 décembre 2008 relative à l’eau ;
+- de la loi modifiée du 19 décembre 2008 relative à l’eau ;
 
-2. de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;
+- de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;
 
-3. du règlement grand-ducal du 29 avril 2011 portant application de la directive 2008/50/CE du Parlement européen et du Conseil du 21 mai 2008 concernant la qualité de l'air ambiant et un air pur pour l'Europe ;
+- du règlement grand-ducal du 29 avril 2011 portant application de la directive 2008/50/CE du Parlement européen et du Conseil du 21 mai 2008 concernant la qualité de l'air ambiant et un air pur pour l'Europe ;
 
-4. le cas échéant, de la convention PATLD .
+- le cas échéant, de la convention PATLD .
 
 Le cas échéant, les données collectées au titre de ces programmes sont utilisées.
 
@@ -264,9 +264,9 @@ Accès à l’information
 
 Conformément à la loi modifiée du 25 novembre 2005 concernant l’accès à l’information en matière d’environnement, sont diffusées, de manière active et systématique à l’intention du public par le biais d’une publicité sur un site Internet accessible au public ou par tout autre moyen approprié de télécommunication :
 
-1. le programme national de lutte contre la pollution atmosphérique et ses mises à jour éventuelles ;
+- le programme national de lutte contre la pollution atmosphérique et ses mises à jour éventuelles ;
 
-2. les inventaires nationaux des émissions y compris, s'il y a lieu, les inventaires nationaux des émissions ajustés, les projections nationales des émissions, les rapports d'inventaire ainsi que les rapports et les informations supplémentaires communiqués à la Commission européenne.
+- les inventaires nationaux des émissions y compris, s'il y a lieu, les inventaires nationaux des émissions ajustés, les projections nationales des émissions, les rapports d'inventaire ainsi que les rapports et les informations supplémentaires communiqués à la Commission européenne.
 
 <a id="art-10"></a>
 ## Art. 10.

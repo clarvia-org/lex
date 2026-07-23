@@ -50,29 +50,29 @@ Finalités du système CSA.
 
 Le système CSA a les finalités suivantes:
 
-1. constater et enregistrer, au moyen d’appareils automatiques définis à l’article 3, les infractions à la législation routière concernant:
+- constater et enregistrer, au moyen d’appareils automatiques définis à l’article 3, les infractions à la législation routière concernant:
 
-1. le dépassement de la limitation réglementaire de la vitesse, considéré comme contravention ou contravention grave en vertu de l’article 7 de la loi modifiée du 14 février 1955 concernant la règlementation de la circulation sur toutes les voies publiques ou comme délit en vertu de l’article 11 bis de la loi précitée du 14 février 1955 ;
+  - le dépassement de la limitation réglementaire de la vitesse, considéré comme contravention ou contravention grave en vertu de l’article 7 de la loi modifiée du 14 février 1955 concernant la règlementation de la circulation sur toutes les voies publiques ou comme délit en vertu de l’article 11 bis de la loi précitée du 14 février 1955 ;
 
-2. l’inobservation d’un signal lumineux rouge ou rouge clignotant ou d’un signal lumineux blanc ou jaune à barre horizontale, considérée comme contravention grave en vertu de l’article 7 de la loi précitée du 14 février 1955 ;
+  - l’inobservation d’un signal lumineux rouge ou rouge clignotant ou d’un signal lumineux blanc ou jaune à barre horizontale, considérée comme contravention grave en vertu de l’article 7 de la loi précitée du 14 février 1955 ;
 
-3. l’inobservation en dehors des agglomérations d’une distance par rapport au véhicule qui précède, correspondant à un temps de parcours d’au moins deux secondes, considérée comme contravention grave en vertu de l’article 7 de la loi précitée du 14 février 1955 ;
+  - l’inobservation en dehors des agglomérations d’une distance par rapport au véhicule qui précède, correspondant à un temps de parcours d’au moins deux secondes, considérée comme contravention grave en vertu de l’article 7 de la loi précitée du 14 février 1955 ;
 
-4. le fait de circuler sur une bande d’arrêt d’urgence, une partie de la chaussée réservée à d’autres usagers ou une voie fermée, considéré comme contravention en vertu de l’article 7 de la loi précitée du 14 février 1955 ;
+  - le fait de circuler sur une bande d’arrêt d’urgence, une partie de la chaussée réservée à d’autres usagers ou une voie fermée, considéré comme contravention en vertu de l’article 7 de la loi précitée du 14 février 1955 ;
 
-2. identifier le conducteur, le propriétaire, le détenteur du véhicule routier ou le titulaire du certificat d’immatriculation d’un véhicule routier ayant servi à commettre une infraction aux règles de circulation visées au point 1. ;
+- identifier le conducteur, le propriétaire, le détenteur du véhicule routier ou le titulaire du certificat d’immatriculation d’un véhicule routier ayant servi à commettre une infraction aux règles de circulation visées au point 1. ;
 
-3. traiter les infractions visées au présent article en vue de décerner et de gérer les avertissements taxés visés à l’article 15 de la loi précitée du 14 février 1955 et les amendes forfaitaires prévues à l’article 6 ;
+- traiter les infractions visées au présent article en vue de décerner et de gérer les avertissements taxés visés à l’article 15 de la loi précitée du 14 février 1955 et les amendes forfaitaires prévues à l’article 6 ;
 
-4. traiter les infractions donnant lieu à un procès-verbal conformément à l’article 15, alinéa 4, points 1., 3., 4 et 5. de la loi précitée du 14 février 1955 ;
+- traiter les infractions donnant lieu à un procès-verbal conformément à l’article 15, alinéa 4, points 1., 3., 4 et 5. de la loi précitée du 14 février 1955 ;
 
-5. gérer les courriers des personnes concernées en relation avec les avertissements taxés qui leur sont envoyés et les amendes forfaitaires ;
+- gérer les courriers des personnes concernées en relation avec les avertissements taxés qui leur sont envoyés et les amendes forfaitaires ;
 
-6. gérer les consignations visées à l’article 6, paragraphe 3, alinéa 5 ;
+- gérer les consignations visées à l’article 6, paragraphe 3, alinéa 5 ;
 
-7. transmettre au ministre ayant les Transports dans ses attributions les données nécessaires pour procéder, le cas échéant, à la réduction des points dont est doté le permis de conduire, conformément à l’article 2 bis de la loi précitée du 14 février 1955 .
+- transmettre au ministre ayant les Transports dans ses attributions les données nécessaires pour procéder, le cas échéant, à la réduction des points dont est doté le permis de conduire, conformément à l’article 2 bis de la loi précitée du 14 février 1955 .
 
-8. transmettre à l’Administration de l’enregistrement et des domaines les données nécessaires pour procéder, le cas échéant, au recouvrement des amendes forfaitaires.
+- transmettre à l’Administration de l’enregistrement et des domaines les données nécessaires pour procéder, le cas échéant, au recouvrement des amendes forfaitaires.
 
 (2)
 
@@ -97,15 +97,15 @@ Les appareils de contrôle automatisé destinés à constater et à enregistrer 
 
 Les appareils automatiques visés à l’alinéa 1er peuvent se présenter sous forme fixe ou mobile et peuvent être conçus pour mesurer :
 
-1. la vitesse des véhicules en rapprochement ou en éloignement ;
+- la vitesse des véhicules en rapprochement ou en éloignement ;
 
-2. la vitesse moyenne des véhicules entre deux points ;
+- la vitesse moyenne des véhicules entre deux points ;
 
-3. l’inobservation d’un signal lumineux rouge ou rouge clignotant ou d’un signal lumineux blanc ou jaune à barre horizontale, considérée comme contravention grave en vertu de l’article 7 de la loi précitée du 14 février 1955 ;
+- l’inobservation d’un signal lumineux rouge ou rouge clignotant ou d’un signal lumineux blanc ou jaune à barre horizontale, considérée comme contravention grave en vertu de l’article 7 de la loi précitée du 14 février 1955 ;
 
-4. la distance par rapport au véhicule qui précède correspondant à un temps de parcours d’au moins deux secondes ;
+- la distance par rapport au véhicule qui précède correspondant à un temps de parcours d’au moins deux secondes ;
 
-5. le fait de circuler sur une bande d’arrêt d’urgence, une partie de la chaussée réservée à d’autres usagers ou une voie fermée.
+- le fait de circuler sur une bande d’arrêt d’urgence, une partie de la chaussée réservée à d’autres usagers ou une voie fermée.
 
 Ces comportements et situations de fait peuvent être constatés et enregistrés simultanément par un seul appareil.
 
@@ -239,13 +239,13 @@ En application de l’article 4, paragraphe 2, la personne pécuniairement respo
 
 À cette fin, elle adresse le formulaire de contestation, dûment rempli et signé, au Centre et accompagné de l’un des documents suivants :
 
-1. du récépissé du dépôt de plainte pour soustraction frauduleuse ou détournement frauduleux ou d’une copie de la déclaration de destruction du véhicule;
+- du récépissé du dépôt de plainte pour soustraction frauduleuse ou détournement frauduleux ou d’une copie de la déclaration de destruction du véhicule;
 
-2. d’une attestation écrite, datée et signée de la main de son auteur précisant les nom, prénoms, date de naissance, sexe et adresse de la personne qu’elle désigne comme conducteur du véhicule au moment de l’infraction ;
+- d’une attestation écrite, datée et signée de la main de son auteur précisant les nom, prénoms, date de naissance, sexe et adresse de la personne qu’elle désigne comme conducteur du véhicule au moment de l’infraction ;
 
-3. d’une copie de contrat de cession du véhicule dûment rempli et cosigné par le cessionnaire et de la preuve de la transaction dans le fichier des véhicules routiers et de leurs propriétaires et détenteurs;
+- d’une copie de contrat de cession du véhicule dûment rempli et cosigné par le cessionnaire et de la preuve de la transaction dans le fichier des véhicules routiers et de leurs propriétaires et détenteurs;
 
-4. d’une copie du contrat de location.
+- d’une copie du contrat de location.
 
 Le formulaire de contestation indique en outre que son auteur a connaissance qu’une fausse déclaration de sa part l’expose à des sanctions pénales.
 
@@ -255,9 +255,9 @@ La contestation peut également être adressée de façon dématérialisée par 
 
 La contestation est admise, à condition:
 
-1. d’être conforme aux exigences du paragraphe 1 er ainsi que de l’article 9 et
+- d’être conforme aux exigences du paragraphe 1 er ainsi que de l’article 9 et
 
-2. en cas d’attestation dont question au paragraphe 1 er , alinéa 2, point 2., de permettre d’identifier le conducteur du véhicule au moment de l’infraction.
+- en cas d’attestation dont question au paragraphe 1 er , alinéa 2, point 2., de permettre d’identifier le conducteur du véhicule au moment de l’infraction.
 
 Dans ce cas, la responsabilité pécuniaire dont question à l’article 4, paragraphe 1er, n’est pas engagée et le concerné en est informé par écrit.
 
@@ -333,11 +333,11 @@ Dispositions modificatives.
 
 La loi précitée du 14 février 1955 est modifiée comme suit:
 
-1. L’article 15, alinéa 4, est complété par un point 5) à insérer après le point 4) avec le libellé suivant: en cas de constatation d’un dépassement de la limitation réglementaire de la vitesse de plus de 50 pour cent du maximum de la vitesse autorisée et d’au moins 20 km/heure par rapport à ce maximum.
+- L’article 15, alinéa 4, est complété par un point 5) à insérer après le point 4) avec le libellé suivant: en cas de constatation d’un dépassement de la limitation réglementaire de la vitesse de plus de 50 pour cent du maximum de la vitesse autorisée et d’au moins 20 km/heure par rapport à ce maximum.
 
-2. La première phrase de l’alinéa 2 de l’article 16 est remplacée par le libellé suivant: Jusqu’à remise de cette somme, le véhicule conduit par le contrevenant peut être retenu.
+- La première phrase de l’alinéa 2 de l’article 16 est remplacée par le libellé suivant: Jusqu’à remise de cette somme, le véhicule conduit par le contrevenant peut être retenu.
 
-3. L’article 16 est complété in fine par un alinéa nouveau avec le libellé suivant: Les dispositions du présent article ne s’appliquent pas aux avertissements taxés décernés en application de la loi du 25 juillet 2015 portant création du système de contrôle et de sanction automatisés.
+- L’article 16 est complété in fine par un alinéa nouveau avec le libellé suivant: Les dispositions du présent article ne s’appliquent pas aux avertissements taxés décernés en application de la loi du 25 juillet 2015 portant création du système de contrôle et de sanction automatisés.
 
 2.
 

@@ -95,19 +95,19 @@ Tout poste vacant à occuper par le biais du recrutement interne doit être publ
 
 Le fonctionnaire qui demande de changer d’administration peut postuler à l’intégralité des postes vacants publiés soit par le biais du recrutement interne, soit par le biais du recrutement externe, à l’exception :
 
-1. des postes relevant du Corps diplomatique ;
+- des postes relevant du Corps diplomatique ;
 
-2. des fonctions relevant de la rubrique « Armée, Police et Inspection générale de la Police » ;
+- des fonctions relevant de la rubrique « Armée, Police et Inspection générale de la Police » ;
 
-3. des fonctions relevant du groupe de traitement C1 du sous-groupe des douanes ;
+- des fonctions relevant du groupe de traitement C1 du sous-groupe des douanes ;
 
-4. des fonctions relevant de la rubrique « Enseignement » ;
+- des fonctions relevant de la rubrique « Enseignement » ;
 
-5. des fonctions relevant de la rubrique « Magistrature » ;
+- des fonctions relevant de la rubrique « Magistrature » ;
 
-6. des postes de pompier professionnel auprès du Corps grand-ducal d’incendie et de secours ;
+- des postes de pompier professionnel auprès du Corps grand-ducal d’incendie et de secours ;
 
-7. de la fonction d’agent pénitentiaire.
+- de la fonction d’agent pénitentiaire.
 
 Le fonctionnaire qui postule aux postes vacants relevant de son groupe de traitement publiés en tant que recrutement externe est directement admis à l’épreuve spéciale.
 
@@ -130,7 +130,7 @@ Le chef d’administration examine pour chaque demande si les conditions énumé
 
 Le chef d’administration soumet à son ministre une proposition motivée quant au candidat à retenir.
 
-Le ministre du ressort de destination informe le ministre du ressort d’origine du nom du candidat retenu, sollicite son avis motivé quant au changement projeté et propose une date de prise d’effet du changement, conformément à l’article 12, paragraphe 3, alinéa 3 .
+Le ministre du ressort de destination informe le ministre du ressort d’origine du nom du candidat retenu, sollicite son avis motivé quant au changement projeté et propose une date de prise d’effet du changement , conformément à l’article 12, paragraphe 3, alinéa 3 .
 
 <a id="art-12"></a>
 ## Art. 12.

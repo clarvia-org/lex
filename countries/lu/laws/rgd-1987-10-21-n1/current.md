@@ -159,11 +159,11 @@ En outre son congé restant sera majoré d’un délai de route adéquat.
 
 Sont jours fériés pour le fonctionnaire:
 
-1. Les jours fériés du secteur privé à savoir: Le nouvel an, le lundi de Pâques, le premier mai, la journée de l’Europe, l’Ascension, le lundi de la Pentecôte, le jour de la célébration publique de l’anniversaire du Grand-Duc, l’Assomption, la Toussaint, Noël et le lendemain de Noël.
+- Les jours fériés du secteur privé à savoir: Le nouvel an, le lundi de Pâques, le premier mai, la journée de l’Europe, l’Ascension, le lundi de la Pentecôte, le jour de la célébration publique de l’anniversaire du Grand-Duc, l’Assomption, la Toussaint, Noël et le lendemain de Noël.
 
-2. Les jours fériés de rechange fixés pour le secteur privé.
+- Les jours fériés de rechange fixés pour le secteur privé.
 
-3. Une demi-journée le mardi de la Pentecôte et l’après-midi du 24 décembre. Le fonctionnaire qui ne bénéficie pas de ces demi-journées parce qu’il assure la permanence du service, a droit à un congé compensatoire de même durée.
+- Une demi-journée le mardi de la Pentecôte et l’après-midi du 24 décembre. Le fonctionnaire qui ne bénéficie pas de ces demi-journées parce qu’il assure la permanence du service, a droit à un congé compensatoire de même durée.
 
 #### Chapitre V. Congé pour raisons de santé
 
@@ -195,9 +195,9 @@ Le collège des bourgmestre et échevins peut faire procéder à une visite du f
 
 Le décompte des congés pour raisons de santé est communiqué:
 
-1. A l’organisme liquidateur de la pension en cas de demande de mise à la retraite prématurée pour raisons d’infirmité.
+- A l’organisme liquidateur de la pension en cas de demande de mise à la retraite prématurée pour raisons d’infirmité.
 
-2. Au médecin de contrôle en cas d’examen de contrôle.
+- Au médecin de contrôle en cas d’examen de contrôle.
 
 La correspondance relative aux congés pour raisons de santé est confidentielle; seules les personnes qui y sont appelées de par leurs fonctions peuvent en prendre connaissance.
 
@@ -228,13 +228,13 @@ Sauf les dérogations prévues par le présent article et nonobstant indication 
 
 Par dérogation au paragraphe 2, le fonctionnaire peut s’éloigner de son domicile ou du lieu de séjour indiqué dans les cas suivants :
 
-1. à partir du premier jour d’incapacité de travail :
+- à partir du premier jour d’incapacité de travail :
 
-1. pour les sorties indispensables pour donner suite aux convocations auprès du médecin de contrôle, pour l’obtention de soins, d’actes diagnostiques, de médicaments ou de dispositifs médicaux, à condition que le fonctionnaire concerné puisse en justifier, par tous les moyens de preuve, sur demande du collège des bourgmestre et échevins ;
+  - pour les sorties indispensables pour donner suite aux convocations auprès du médecin de contrôle, pour l’obtention de soins, d’actes diagnostiques, de médicaments ou de dispositifs médicaux, à condition que le fonctionnaire concerné puisse en justifier, par tous les moyens de preuve, sur demande du collège des bourgmestre et échevins ;
 
-2. b) pour les sorties nécessaires pour la prise d’un repas ;
+  - b) pour les sorties nécessaires pour la prise d’un repas ;
 
-2. à partir du cinquième jour révolu du congé pour raisons de santé dépassant en continu cinq jours de service, pour les sorties non médicalement contre-indiquées d’après le certificat médical d’incapacité de travail, uniquement entre 10.00 et 12.00 heures et entre 14.00 et 18.00 heures.
+- à partir du cinquième jour révolu du congé pour raisons de santé dépassant en continu cinq jours de service, pour les sorties non médicalement contre-indiquées d’après le certificat médical d’incapacité de travail, uniquement entre 10.00 et 12.00 heures et entre 14.00 et 18.00 heures.
 
 (4)
 
@@ -324,31 +324,31 @@ Le collège des bourgmestre et échevins peut fixer des jours de congé de compe
 
 1.
 
-1. Les congés extraordinaires suivants sont accordés au fonctionnaire en activité de service, sur sa demande et dans les limites ci-après :
+- Les congés extraordinaires suivants sont accordés au fonctionnaire en activité de service, sur sa demande et dans les limites ci-après :
 
-1. trois jours ouvrés pour son mariage ;
+  - trois jours ouvrés pour son mariage ;
 
-2. un jour ouvré pour la déclaration de son partenariat ;
+  - un jour ouvré pour la déclaration de son partenariat ;
 
-3. dix jours ouvrés pour le père en cas de naissance d’un enfant ;
+  - dix jours ouvrés pour le père en cas de naissance d’un enfant ;
 
-4. dix jours ouvrés en cas d’accueil d’un enfant de moins de seize ans en vue de son adoption, sauf en cas de bénéfice du congé d’accueil ;
+  - dix jours ouvrés en cas d’accueil d’un enfant de moins de seize ans en vue de son adoption, sauf en cas de bénéfice du congé d’accueil ;
 
-5. un jour ouvré pour le mariage de son enfant ;
+  - un jour ouvré pour le mariage de son enfant ;
 
-6. trois jours ouvrés en cas de décès de son conjoint ou partenaire ou d’un parent ou allié du premier degré ;
+  - trois jours ouvrés en cas de décès de son conjoint ou partenaire ou d’un parent ou allié du premier degré ;
 
-7. cinq jours ouvrés en cas de décès de son enfant mineur ;
+  - cinq jours ouvrés en cas de décès de son enfant mineur ;
 
-8. un jour ouvré en cas de décès d’un parent ou allié du deuxième degré ;
+  - un jour ouvré en cas de décès d’un parent ou allié du deuxième degré ;
 
-9. deux jours ouvrés en cas de déménagement sur une période de trois ans de service, sauf s’il doit déménager pour des raisons professionnelles.
+  - deux jours ouvrés en cas de déménagement sur une période de trois ans de service, sauf s’il doit déménager pour des raisons professionnelles.
 
-2. Au sens du présent article, la notion d’allié se rapporte également aux partenaires.
+- Au sens du présent article, la notion d’allié se rapporte également aux partenaires.
 
-3. À l’exception de ceux visés au paragraphe 1 er , points 3° et 4°, les congés extraordinaires ne peuvent être pris qu’au moment où l’événement donnant droit au congé se produit ; ils ne peuvent pas être reportés sur le congé de récréation ni être épargnés sur le compte épargne-temps. Si un jour de congé extraordinaire tombe sur un dimanche, un jour férié, un jour ouvrable chômé ou un jour de repos compensatoire, il est reporté sur le premier jour ouvré qui suit l’événement ou le terme du congé extraordinaire. Si l’événement donnant droit au congé extraordinaire se produit pendant la maladie du fonctionnaire, le congé extraordinaire n’est pas dû. Si l’événement se produit durant une période de congé de récréation, celui-ci est interrompu pendant la durée du congé extraordinaire.
+- À l’exception de ceux visés au paragraphe 1 er , points 3° et 4°, les congés extraordinaires ne peuvent être pris qu’au moment où l’événement donnant droit au congé se produit ; ils ne peuvent pas être reportés sur le congé de récréation ni être épargnés sur le compte épargne-temps. Si un jour de congé extraordinaire tombe sur un dimanche, un jour férié, un jour ouvrable chômé ou un jour de repos compensatoire, il est reporté sur le premier jour ouvré qui suit l’événement ou le terme du congé extraordinaire. Si l’événement donnant droit au congé extraordinaire se produit pendant la maladie du fonctionnaire, le congé extraordinaire n’est pas dû. Si l’événement se produit durant une période de congé de récréation, celui-ci est interrompu pendant la durée du congé extraordinaire.
 
-4. Les congés extraordinaires prévus au paragraphe 1 er , points 3° et 4°, sont fractionnables et doivent être pris dans les deux mois qui suivent la naissance de l’enfant ou l’accueil d’un enfant de moins de seize ans en vue de son adoption. Ces congés sont fixés en principe selon le désir du fonctionnaire, à moins que l’intérêt du service ne s’y oppose. À défaut d’accord entre le fonctionnaire et le collège des bourgmestre et échevins, le congé doit être pris en une seule fois et immédiatement après la naissance de l’enfant ou l’accueil d’un enfant de moins de seize ans en vue de son adoption. Le collège des bourgmestre et échevins doit être informé avec un délai de préavis de deux mois des dates prévisibles auxquelles le fonctionnaire entend prendre ce congé. Cette information écrite doit être accompagnée d’une copie du certificat médical attestant la date présumée de l’accouchement ou d’une pièce justificative attestant la date prévisible de l’accueil d’un enfant de moins de seize ans en vue de son adoption. À défaut de notification dans le délai imposé, le congé peut être réduit à deux jours sur décision du collège des bourgmestre et échevins. Les congés extraordinaires sont considérés comme temps de travail.
+- Les congés extraordinaires prévus au paragraphe 1 er , points 3° et 4°, sont fractionnables et doivent être pris dans les deux mois qui suivent la naissance de l’enfant ou l’accueil d’un enfant de moins de seize ans en vue de son adoption. Ces congés sont fixés en principe selon le désir du fonctionnaire, à moins que l’intérêt du service ne s’y oppose. À défaut d’accord entre le fonctionnaire et le collège des bourgmestre et échevins, le congé doit être pris en une seule fois et immédiatement après la naissance de l’enfant ou l’accueil d’un enfant de moins de seize ans en vue de son adoption. Le collège des bourgmestre et échevins doit être informé avec un délai de préavis de deux mois des dates prévisibles auxquelles le fonctionnaire entend prendre ce congé. Cette information écrite doit être accompagnée d’une copie du certificat médical attestant la date présumée de l’accouchement ou d’une pièce justificative attestant la date prévisible de l’accueil d’un enfant de moins de seize ans en vue de son adoption. À défaut de notification dans le délai imposé, le congé peut être réduit à deux jours sur décision du collège des bourgmestre et échevins. Les congés extraordinaires sont considérés comme temps de travail.
 
 2.
 
@@ -542,11 +542,11 @@ Ne sont pas à considérer comme faisant partie du congé-formation les période
 
 Sont éligibles pour l’obtention du congé-formation, les formations dispensées ou organisées soit au Grand-Duché de Luxembourg, soit à l’étranger:
 
-1. par le Ministère de l’Education nationale et de la Formation professionnelle, l’Institut national d’administration publique et par les communes, syndicats de communes et établissements publics placés sous la surveillance des communes dans le cadre de la formation continue des agents communaux;
+- par le Ministère de l’Education nationale et de la Formation professionnelle, l’Institut national d’administration publique et par les communes, syndicats de communes et établissements publics placés sous la surveillance des communes dans le cadre de la formation continue des agents communaux;
 
-2. par les institutions bénéficiant du statut d’école publique ou privée reconnues par les autorités publiques et délivrant des certificats reconnus par ces mêmes autorités;
+- par les institutions bénéficiant du statut d’école publique ou privée reconnues par les autorités publiques et délivrant des certificats reconnus par ces mêmes autorités;
 
-3. par les chambres professionnelles.
+- par les chambres professionnelles.
 
 3.
 
@@ -568,21 +568,21 @@ La demande en obtention du congé est à établir par l’agent et doit parvenir
 
 Cette demande doit indiquer
 
-1. les motifs à la base de la demande,
+- les motifs à la base de la demande,
 
-2. les objectifs visés par la formation,
+- les objectifs visés par la formation,
 
-3. l’institution en charge de la formation,
+- l’institution en charge de la formation,
 
-4. la nature et le contenu de la formation à suivre,
+- la nature et le contenu de la formation à suivre,
 
-5. la durée de la formation,
+- la durée de la formation,
 
-6. le nombre d’heures de formation prévues,
+- le nombre d’heures de formation prévues,
 
-7. le lieu et la période du déroulement effectif de la formation ainsi que
+- le lieu et la période du déroulement effectif de la formation ainsi que
 
-8. la date de début et la date de la fin de la formation.
+- la date de début et la date de la fin de la formation.
 
 La décision relative à l’octroi du congé doit être notifiée à l’agent par le collège des bourgmestre et échevins au plus tard quatre semaines avant la date à partir de laquelle le congé est sollicité.
 

@@ -41,9 +41,9 @@ Autorisation générale et permanente
 
 L'octroi d'avances temporaires de fonds par la Trésorerie de l'Etat pour le paiement de dépenses de l'Etat peut être autorisé de façon générale et sans délai prédéterminé par le Ministre ayant le budget dans ses attributions:
 
-1. pour tous les paiements en relation avec la gestion des avoirs et engagements financiers de l'Etat par la section «gestion financière» de la Trésorerie de l'Etat, lorsque ces paiements doivent impérativement se faire sous date valeur déterminée;
+- pour tous les paiements en relation avec la gestion des avoirs et engagements financiers de l'Etat par la section «gestion financière» de la Trésorerie de l'Etat, lorsque ces paiements doivent impérativement se faire sous date valeur déterminée;
 
-2. pour tous les paiements dont le mode de paiement implique nécessairement le versement de fonds par voie d'avances.
+- pour tous les paiements dont le mode de paiement implique nécessairement le versement de fonds par voie d'avances.
 
 (2)
 
@@ -58,19 +58,19 @@ Autorisations spécifiques et temporaires
 
 L'octroi d'avances temporaires de fonds par la Trésorerie de l'Etat pour le paiement de dépenses de l'Etat peut être autorisé par le Ministre ayant le budget dans ses attributions pour tous les paiements:
 
-1. en relation avec les rémunérations et les pensions;
+- en relation avec les rémunérations et les pensions;
 
-2. en relation avec les frais résultant d'activités professionnelles pour compte de l'Etat en déplacement à l'étranger et les frais de voyages de service ou statutaires à l'étranger, y compris les frais de déménagement, encourus par les agents de l'Etat et par les personnes assimilées;
+- en relation avec les frais résultant d'activités professionnelles pour compte de l'Etat en déplacement à l'étranger et les frais de voyages de service ou statutaires à l'étranger, y compris les frais de déménagement, encourus par les agents de l'Etat et par les personnes assimilées;
 
-3. en relation avec les frais de scolarité encourus par les agents de l'Etat en fonction à l'étranger et par les personnes assimilées;
+- en relation avec les frais de scolarité encourus par les agents de l'Etat en fonction à l'étranger et par les personnes assimilées;
 
-4. en relation avec les frais médicaux encourus par les agents de l'Etat en fonction à l'étranger et par les personnes assimilées;
+- en relation avec les frais médicaux encourus par les agents de l'Etat en fonction à l'étranger et par les personnes assimilées;
 
-5. en relation avec les subventions aux comptables des administrations fiscales de l'Etat en cas d'insuffisance de leur encaisse. Les demandes en question doivent être visées par les chefs d'administration ou leurs délégués respectifs.
+- en relation avec les subventions aux comptables des administrations fiscales de l'Etat en cas d'insuffisance de leur encaisse. Les demandes en question doivent être visées par les chefs d'administration ou leurs délégués respectifs.
 
-6. en relation avec les dotations aux comptables extraordinaires en poste à l'étranger. Ces avances se limitent aux dotations à recevoir à charge de l'exercice budgétaire à venir et ne peuvent être payées avant le 1 er décembre de l'année précédente. Par dérogation à l'article 1 er ci-avant, ces avances sont dispensées de l'obligation d'un engagement budgétaire préalable;
+- en relation avec les dotations aux comptables extraordinaires en poste à l'étranger. Ces avances se limitent aux dotations à recevoir à charge de l'exercice budgétaire à venir et ne peuvent être payées avant le 1 er décembre de l'année précédente. Par dérogation à l'article 1 er ci-avant, ces avances sont dispensées de l'obligation d'un engagement budgétaire préalable;
 
-7. en relation avec les indemnités de chômage complet couvertes par le Fonds pour l’emploi.
+- en relation avec les indemnités de chômage complet couvertes par le Fonds pour l’emploi.
 
 (2)
 

@@ -28,6 +28,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 27/01/1990 : Règlement grand-ducal du 29 octobre 1986 fixant les modalités d'application de la loi du 30 juillet 1960 concernant la création d'un fonds national de solidarité et de la loi du 26 juillet 1986 portant\na) création du droit à un revenu minimum garanti;\nb) création d'un service national d'action sociale;\nc) modification de la loi du 30 juillet 1960 concernant la création d'un fonds national de solidarité.
 
+Disposition préliminaire
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
@@ -74,13 +76,13 @@ En ce qui concerne les requérants inaptes au travail et âgés de moins de soix
 
 La demande du requérant donne lieu à l'établissement, par l'organisme compétent, d'un dossier qui comporte:
 
-1. un rapport établi à la suite d'une enquête sur la situation de revenu et de fortune du requérant et de toutes les personnes qui vivent avec lui en communauté domestique;
+- un rapport établi à la suite d'une enquête sur la situation de revenu et de fortune du requérant et de toutes les personnes qui vivent avec lui en communauté domestique;
 
-2. la décision notifiée au requérant concernant l'octroi ou le refus du complément;
+- la décision notifiée au requérant concernant l'octroi ou le refus du complément;
 
-3. une attestation, en cas d'octroi du complément, certifiant l'affiliation du bénéficiaire à une caisse de maladie;
+- une attestation, en cas d'octroi du complément, certifiant l'affiliation du bénéficiaire à une caisse de maladie;
 
-4. le cas échéant, un rapport établi sur base d'une enquête sociale.
+- le cas échéant, un rapport établi sur base d'une enquête sociale.
 
 Si, au moment de l'octroi du complément, le bénéficiaire n'est pas encore affilié à l'assurance maladie, le fonds présente immédiatement, le cas échéant à la demande de l'office compétent, une demande d'affiliation à la caisse nationale d'assurance maladie des ouvriers afin de régulariser la situation du bénéficiaire conformément à l'article 9 de la loi.
 
@@ -129,13 +131,13 @@ Sont à déclarer comme revenu tous les éléments de ressources annuelles, en f
 
 Sont notamment à déclarer:
 
-1. les revenus d´un travail régulier ou occasionnel ou généralement d´une activité professionnelle quelconque;
+- les revenus d´un travail régulier ou occasionnel ou généralement d´une activité professionnelle quelconque;
 
-2. les revenus de biens mobiliers et immobiliers;
+- les revenus de biens mobiliers et immobiliers;
 
-3. les rentes ou pensions accordées à un titre quelconque;
+- les rentes ou pensions accordées à un titre quelconque;
 
-4. les droits d´habitation, d´usufruit et d´entretien.
+- les droits d´habitation, d´usufruit et d´entretien.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -144,17 +146,17 @@ Sont à déclarer comme fortune tous les éléments considérés comme tels par 
 
 Sont notamment à déclarer:
 
-1. les moyens de paiement selon la valeur nominale;
+- les moyens de paiement selon la valeur nominale;
 
-2. les prêts, les avoirs en compte et généralement les créances selon leur valeur recouvrable;
+- les prêts, les avoirs en compte et généralement les créances selon leur valeur recouvrable;
 
-3. les actions, les parts de société, les obligations, selon leur valeur boursière ou, à défaut, selon leur valeur vénale réelle;
+- les actions, les parts de société, les obligations, selon leur valeur boursière ou, à défaut, selon leur valeur vénale réelle;
 
-4. les immeubles de toute nature, bâtis ou non bâtis, suivant leur valeur vénale;
+- les immeubles de toute nature, bâtis ou non bâtis, suivant leur valeur vénale;
 
-5. les métaux précieux, les bijoux, perles, pierres précieuses, les objets de luxe, d´art, les collections, suivant leur valeur vénale;
+- les métaux précieux, les bijoux, perles, pierres précieuses, les objets de luxe, d´art, les collections, suivant leur valeur vénale;
 
-6. le gros bétail, suivant la valeur marchande.
+- le gros bétail, suivant la valeur marchande.
 
 <a id="art-11"></a>
 ## Art. 11.

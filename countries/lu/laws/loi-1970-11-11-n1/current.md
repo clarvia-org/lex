@@ -27,7 +27,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-La présente loi s’applique aux traitements et appointements des fonctionnaires et employés, aux salaires des ouvriers et gens de service, aux soldes des militaires et d’une façon générale aux sommes dues à titre de rémunération à toutes les personnes salariées et à toutes celles travaillant, à quelque titre ou en quelque lieu que ce soit, pour un ou plusieurs employeurs, quels que soient le montant et la nature de leur rémunération, la forme et la nature de leur contrat ou de leur statut. Elle s’applique également aux indemnités de chômage complet ainsi qu’à l’indemnité pécuniaire de maladie et de maternité.
+La présente loi s’applique aux traitements et appointements des fonctionnaires et employés , aux salaires des ouvriers et gens de service, aux soldes des militaires et d’une façon générale aux sommes dues à titre de rémunération à toutes les personnes salariées et à toutes celles travaillant, à quelque titre ou en quelque lieu que ce soit, pour un ou plusieurs employeurs, quels que soient le montant et la nature de leur rémunération, la forme et la nature de leur contrat ou de leur statut. Elle s’applique également aux indemnités de chômage complet ainsi qu’à l’indemnité pécuniaire de maladie et de maternité.
 
 Les rémunérations comprennent le principal et les accessoires, à l’exception toutefois des sommes allouées à titre de remboursement de frais exposés.
 
@@ -46,15 +46,15 @@ Il n’est pas dérogé aux dispositions spéciales relatives à la cessibilité
 
 Les rémunérations ainsi que les pensions et rentes sont réparties en cinq tranches qui sont fixées par règlement grand-ducal sur proposition du ministre de la justice et qui peuvent être cédées ou saisies comme suit:
 
-1. La première tranche ne peut être cédée ni saisie.
+- La première tranche ne peut être cédée ni saisie.
 
-2. La deuxième tranche peut être cédée jusqu’à concurrence d’un dixième et saisie jusqu’à concurrence d’un dixième.
+- La deuxième tranche peut être cédée jusqu’à concurrence d’un dixième et saisie jusqu’à concurrence d’un dixième.
 
-3. La troisième tranche peut être cédée jusqu’à concurrence d’un cinquième et saisie jusqu’à concurrence d’un cinquième.
+- La troisième tranche peut être cédée jusqu’à concurrence d’un cinquième et saisie jusqu’à concurrence d’un cinquième.
 
-4. La quatrième tranche peut être cédée jusqu’à concurrence d’un quart et saisie jusqu’à concurrence d’un quart.
+- La quatrième tranche peut être cédée jusqu’à concurrence d’un quart et saisie jusqu’à concurrence d’un quart.
 
-5. La cinquième tranche peut être cédée et saisie sans limitation.
+- La cinquième tranche peut être cédée et saisie sans limitation.
 
 Par dérogation aux dispositions qui précèdent, les rémunérations, pensions et rentes peuvent être cédées comme suit, lorsque la cession est consentie à l’occasion d’un contrat d’épargne ou de prêt destiné à l’acquisition, la construction ou la transformation d’un immeuble ou d’une part immobilière:
 
@@ -77,17 +77,17 @@ Pour la détermination de la quotité saisissable et cessible, les retenues effe
 
 Il ne peut être fait de retenue par l’employeur sur les rémunérations telles qu’elles sont déterminées au dernier alinéa de l’article précédent que:
 
-1. du chef d’amendes encourues par le salarié en vertu de la loi, en vertu de son statut ou en vertu du règlement d’ordre intérieur d’un établissement, régulièrement affiché;
+- du chef d’amendes encourues par le salarié en vertu de la loi, en vertu de son statut ou en vertu du règlement d’ordre intérieur d’un établissement, régulièrement affiché;
 
-2. du chef de réparation du dommage causé par la faute du salarié;
+- du chef de réparation du dommage causé par la faute du salarié;
 
-3. du chef de fourniture au salarié:
+- du chef de fourniture au salarié:
 
-1. d’outils ou d’instruments nécessaires au travail et de l’entretien de ceux-ci;
+  - d’outils ou d’instruments nécessaires au travail et de l’entretien de ceux-ci;
 
-2. de matières ou de matériaux nécessaires au travail et dont les salariés ont la charge selon l’usage admis ou aux termes de leur engagement;
+  - de matières ou de matériaux nécessaires au travail et dont les salariés ont la charge selon l’usage admis ou aux termes de leur engagement;
 
-4. du chef d’avances faites en argent.
+- du chef d’avances faites en argent.
 
 Les retenues mentionnées ci-dessus ne se confondent ni avec la partie saisissable, ni avec la partie cessible. Celles énumérées sub 1, 2 et 4 ne peuvent dépasser le dixième de la rémunération.
 
@@ -98,18 +98,18 @@ Les acomptes versés pour une période de travail révolue ou en cours pour laqu
 
 Les rentes et pensions dérivant des dispositions du code des assurances sociales peuvent être mises en gage, cédées ou saisies sans limitation pour couvrir:
 
-1. une avance qui a été faite à l’intéressé sur ses droits par son patron ou une institution d’assurance sociale;
+- une avance qui a été faite à l’intéressé sur ses droits par son patron ou une institution d’assurance sociale;
 
-2. les créances qui compètent aux communes et offices sociaux en vertu des articles 120 et 235 du code des assurances sociales .
+- les créances qui compètent aux communes et offices sociaux en vertu des articles 120 et 235 du code des assurances sociales .
 
 <a id="art-7"></a>
 ## Art. 7.
 
 Les pensions autres que celles visées à l’article qui précède peuvent être mises en gage, cédées ou saisies sans limitation pour couvrir:
 
-1. les avances sur ces pensions faites au titulaire par son employeur ou une institution de droit public entre l’échéance et l’ordonnancement de la pension;
+- les avances sur ces pensions faites au titulaire par son employeur ou une institution de droit public entre l’échéance et l’ordonnancement de la pension;
 
-2. les créances qui compètent aux communes et établissements de bienfaisance pour secours fournis depuis que la pension était due.
+- les créances qui compètent aux communes et établissements de bienfaisance pour secours fournis depuis que la pension était due.
 
 Il en est de même des indemnités de chômage complet.
 
@@ -144,6 +144,8 @@ Les ordonnances, jugements, décisions, procès-verbaux, copies, avertissements 
 ## Art. 11.
 
 Nonobstant toutes dispositions contraires, les administrations publiques et les organismes de sécurité sociale sont tenus de fournir, sur injonction d’un juge de paix, à tout requérant intéressé les renseignements qu’ils possèdent permettant de déterminer l’adresse du débiteur de la créance, ainsi que l’identité et l’adresse de son employeur ou de l’organisme débiteur de la pension ou de la rente.
+
+(...)
 
 <a id="art-15"></a>
 ## Art. 15.

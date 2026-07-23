@@ -72,9 +72,9 @@ Les missions de police administrative sont exercées par les officiers de police
 
 Ont la qualité d’officier de police administrative :
 
-1. les membres des groupes de traitement A1 et A2 du cadre policier à partir de leur nomination définitive ;
+- les membres des groupes de traitement A1 et A2 du cadre policier à partir de leur nomination définitive ;
 
-2. les membres des groupes de traitement B1 et C1 du cadre policier nommés aux grades d’ancienneté de commissaire adjoint, commissaire, premier commissaire et commissaire en chef conformément à l’article 54 .
+- les membres des groupes de traitement B1 et C1 du cadre policier nommés aux grades d’ancienneté de commissaire adjoint, commissaire, premier commissaire et commissaire en chef conformément à l’article 54 .
 
 Ont la qualité d’agent de police administrative tous les membres du cadre policier qui n’ont pas la qualité d’officier de police administrative.
 
@@ -138,13 +138,13 @@ Le rapport est présenté à la signature de la personne contrôlée. Si celle-c
 
 La Police peut rappeler à l’ordre la personne qui :
 
-1. entrave l’entrée ou la sortie accessible au public d’un bâtiment public ou privé de sorte à entraver la liberté de circuler d’autrui ;
+- entrave l’entrée ou la sortie accessible au public d’un bâtiment public ou privé de sorte à entraver la liberté de circuler d’autrui ;
 
-2. se comporte de manière à troubler gravement l’ordre public ;
+- se comporte de manière à troubler gravement l’ordre public ;
 
-3. se comporte de manière à entraver la circulation sur la voie publique ou à porter atteinte à la liberté d’aller et de venir des passants en plein air dans un lieu accessible au public ;
+- se comporte de manière à entraver la circulation sur la voie publique ou à porter atteinte à la liberté d’aller et de venir des passants en plein air dans un lieu accessible au public ;
 
-4. sciemment inquiète ou importune des passants par paroles, actes ou gestes en plein air dans un lieu accessible au public.
+- sciemment inquiète ou importune des passants par paroles, actes ou gestes en plein air dans un lieu accessible au public.
 
 Lorsque la personne n’obtempère pas au rappel à l’ordre, la Police peut enjoindre à la personne de s’éloigner.
 
@@ -239,11 +239,11 @@ La fouille des véhicules spécialement aménagés à usage d’habitation et ef
 
 La Police peut procéder à la fouille de sécurité dans les cas suivants :
 
-1. lorsqu’il existe un ou plusieurs indices qu’une personne, visée par une des mesures prévues à l’article 5, paragraphe 1 er , et l’article 13, porte des objets ou substances présentant un danger grave, concret ou imminent pour la sécurité publique ;
+- lorsqu’il existe un ou plusieurs indices qu’une personne, visée par une des mesures prévues à l’article 5, paragraphe 1 er , et l’article 13, porte des objets ou substances présentant un danger grave, concret ou imminent pour la sécurité publique ;
 
-2. lorsqu’il existe un ou plusieurs indices qu’une personne, visée par une des mesures prévues aux articles 5, paragraphe 4, et aux articles 7, 14 et 15, porte des objets dangereux pour elle-même ou pour autrui.
+- lorsqu’il existe un ou plusieurs indices qu’une personne, visée par une des mesures prévues aux articles 5, paragraphe 4, et aux articles 7, 14 et 15, porte des objets dangereux pour elle-même ou pour autrui.
 
-3. lorsqu’une personne à l’égard de laquelle il existe un ou plusieurs indices qu’elle présente un danger grave, concret et imminent pour la sécurité publique, accède à un périmètre de sécurité prévu à l’article 6. En l’absence d’accord de la personne concernée de se soumettre à la fouille, celle-ci se voit interdire l’accès au périmètre de sécurité.
+- lorsqu’une personne à l’égard de laquelle il existe un ou plusieurs indices qu’elle présente un danger grave, concret et imminent pour la sécurité publique, accède à un périmètre de sécurité prévu à l’article 6. En l’absence d’accord de la personne concernée de se soumettre à la fouille, celle-ci se voit interdire l’accès au périmètre de sécurité.
 
 (2)
 
@@ -315,11 +315,11 @@ La Police peut toujours pénétrer dans les lieux accessibles au public afin de 
 
 Lorsqu’il y a des raisons sérieuses de croire à un péril imminent pour la vie ou l’intégrité physique de personnes, les officiers et agents de police administrative peuvent entrer dans des bâtiments, leurs annexes, les véhicules qui s’y trouvent ainsi que des zones non bâties, tant de jour que de nuit, en vue de rechercher les personnes en danger ou la cause du danger et, s’il y a lieu, d’y porter remède, dans chacun des cas suivants :
 
-1. à la demande ou avec le consentement d’une personne qui a la jouissance effective d’un lieu non accessible au public ;
+- à la demande ou avec le consentement d’une personne qui a la jouissance effective d’un lieu non accessible au public ;
 
-2. en cas d’appel de secours venant de l’intérieur ;
+- en cas d’appel de secours venant de l’intérieur ;
 
-3. lorsque le péril imminent ne peut être écarté d’aucune autre manière, sur décision du bourgmestre.
+- lorsque le péril imminent ne peut être écarté d’aucune autre manière, sur décision du bourgmestre.
 
 Il est dressé rapport au bourgmestre mentionnant le nom des policiers qui sont entrés dans les lieux visés, les motifs, les lieux, les dates du début et de la fin de l’intervention. Copie est remise à la personne qui a la jouissance effective du lieu.
 
@@ -377,13 +377,13 @@ Lorsque des passeports biométriques ordinaires, diplomatiques et de service, ti
 
 Le paragraphe 1er s’applique aux documents suivants :
 
-1. tout passeport biométrique ordinaire, diplomatique et de service, titre de voyage biométrique pour étrangers, apatrides et réfugiés et laissez-passer invalidé en application de la loi modifiée du 14 avril 1934 fixant les modalités pour l’obtention d’un passeport biométrique, titre de voyage biométrique pour étrangers, apatrides et réfugiés et établissant un droit de chancellerie pour légalisations d’actes, qui fait l’objet d’un signalement dans le SIS.
+- tout passeport biométrique ordinaire, diplomatique et de service, titre de voyage biométrique pour étrangers, apatrides et réfugiés et laissez-passer invalidé en application de la loi modifiée du 14 avril 1934 fixant les modalités pour l’obtention d’un passeport biométrique, titre de voyage biométrique pour étrangers, apatrides et réfugiés et établissant un droit de chancellerie pour légalisations d’actes, qui fait l’objet d’un signalement dans le SIS.
 
-2. toute carte d’identité invalidée en application de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques, qui fait l’objet d’un signalement dans le SIS.
+- toute carte d’identité invalidée en application de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques, qui fait l’objet d’un signalement dans le SIS.
 
-3. tout titre ou carte de séjour invalidé en application de l’article 136, paragraphe 3, de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, respectivement en application de l’article 57, paragraphe 3, de la loi modifiée du 18 décembre 2015 relative à la protection internationale et à la protection temporaire, qui fait l’objet d’un signalement dans le SIS.
+- tout titre ou carte de séjour invalidé en application de l’article 136, paragraphe 3, de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, respectivement en application de l’article 57, paragraphe 3, de la loi modifiée du 18 décembre 2015 relative à la protection internationale et à la protection temporaire, qui fait l’objet d’un signalement dans le SIS.
 
-4. tout permis de conduire invalidé en application de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques, qui fait l’objet d’un signalement dans le SIS.
+- tout permis de conduire invalidé en application de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques, qui fait l’objet d’un signalement dans le SIS.
 
 (3)
 
@@ -441,11 +441,11 @@ Les missions de police judiciaire sont exercées par les officiers de police jud
 
 Ont la qualité d’officier de police judiciaire :
 
-1. Les membres des groupes de traitement A1 et A2 du cadre policier à partir de leur nomination définitive.
+- Les membres des groupes de traitement A1 et A2 du cadre policier à partir de leur nomination définitive.
 
-2. Les membres des groupes de traitement B1 et C1 du cadre policier nommés aux grades d’ancienneté de commissaire adjoint, commissaire, premier commissaire et commissaire en chef conformément à l’article 54.
+- Les membres des groupes de traitement B1 et C1 du cadre policier nommés aux grades d’ancienneté de commissaire adjoint, commissaire, premier commissaire et commissaire en chef conformément à l’article 54.
 
-3. Les fonctionnaires de la catégorie de traitement A, groupes de traitement A1 et A2, et du groupe de traitement B1 tels que prévus par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, ainsi que les employés de la catégorie d’indemnité A, groupe d’indemnité A1 et A2, et du groupe d’indemnité B1, tels que prévus par la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, qui ne relèvent pas du cadre policier, affectés depuis deux années au sein de la Police et appelés à exercer des missions de police judiciaire, nominativement désignés par un arrêté du ministre ayant la Justice dans ses attributions , sur proposition du directeur général de la Police, après avoir suivi une formation professionnelle spécifique portant sur la recherche et la constatation des infractions ainsi que sur les dispositions pénales relatives à leur domaine de compétences spécifique. La formation est sanctionnée par une épreuve orale cotée sur un maximum de vingt points. Le candidat a réussi s’il a obtenu au moins la moitié des points. En cas d’échec, le candidat peut se présenter à une deuxième épreuve. Le programme et la durée de formation sont arrêtés par règlement grand-ducal.
+- Les fonctionnaires de la catégorie de traitement A, groupes de traitement A1 et A2, et du groupe de traitement B1 tels que prévus par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, ainsi que les employés de la catégorie d’indemnité A, groupe d’indemnité A1 et A2, et du groupe d’indemnité B1, tels que prévus par la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, qui ne relèvent pas du cadre policier, affectés depuis deux années au sein de la Police et appelés à exercer des missions de police judiciaire, nominativement désignés par un arrêté du ministre ayant la Justice dans ses attributions , sur proposition du directeur général de la Police, après avoir suivi une formation professionnelle spécifique portant sur la recherche et la constatation des infractions ainsi que sur les dispositions pénales relatives à leur domaine de compétences spécifique. La formation est sanctionnée par une épreuve orale cotée sur un maximum de vingt points. Le candidat a réussi s’il a obtenu au moins la moitié des points. En cas d’échec, le candidat peut se présenter à une deuxième épreuve. Le programme et la durée de formation sont arrêtés par règlement grand-ducal.
 
 Avant d’acquérir la qualité d’officier de police judiciaire, les membres du cadre civil énumérés à l’alinéa précédent prêtent, entre les mains du directeur général ou de son délégué, le serment suivant :
 
@@ -460,15 +460,15 @@ L’octroi de la qualité d’agent de police judiciaire pour les membres du cad
 
 Dans l’exercice de ses missions de police judiciaire, la Police a pour tâches :
 
-1. de rechercher les crimes, les délits et les contraventions, de les constater, d’en rassembler les preuves, d’en donner connaissance aux autorités judiciaires, de rechercher, saisir, arrêter et mettre à la disposition de l’autorité judiciaire les auteurs, dans les formes déterminées par la loi ;
+- de rechercher les crimes, les délits et les contraventions, de les constater, d’en rassembler les preuves, d’en donner connaissance aux autorités judiciaires, de rechercher, saisir, arrêter et mettre à la disposition de l’autorité judiciaire les auteurs, dans les formes déterminées par la loi ;
 
-2. d’exécuter les actes d’enquête et d’instruction ordonnés par les autorités judiciaires ;
+- d’exécuter les actes d’enquête et d’instruction ordonnés par les autorités judiciaires ;
 
-3. de rechercher les personnes dont l’arrestation est prévue par la loi, de les appréhender et de les mettre à la disposition des autorités judiciaires ;
+- de rechercher les personnes dont l’arrestation est prévue par la loi, de les appréhender et de les mettre à la disposition des autorités judiciaires ;
 
-4. de rechercher, de saisir et de mettre à la disposition de l’autorité judiciaire les objets dont la saisie est prescrite ;
+- de rechercher, de saisir et de mettre à la disposition de l’autorité judiciaire les objets dont la saisie est prescrite ;
 
-5. de transmettre aux autorités judiciaires le compte rendu de leurs missions ainsi que les informations recueillies à cette occasion.
+- de transmettre aux autorités judiciaires le compte rendu de leurs missions ainsi que les informations recueillies à cette occasion.
 
 Les membres de la Police recueillent tous les renseignements que le procureur général d’État ou les procureurs d’État estiment utiles à une bonne administration de la Justice.
 
@@ -619,17 +619,17 @@ En cas d’évènements susceptibles de troubler l’ordre public, l’autorité
 
 Il est créé dans chaque région de police un comité de concertation régional qui comprend :
 
-1. un fonctionnaire désigné par le ministre ou un délégué, qui préside le comité ;
+- un fonctionnaire désigné par le ministre ou un délégué, qui préside le comité ;
 
-2. les bourgmestres présidant un comité de prévention communal dans la région de police concernée, qui, en cas d’empêchement, sont remplacés conformément à l’article 64 de la loi communale ;
+- les bourgmestres présidant un comité de prévention communal dans la région de police concernée, qui, en cas d’empêchement, sont remplacés conformément à l’article 64 de la loi communale ;
 
-3. le procureur général d’État ou un délégué ;
+- le procureur général d’État ou un délégué ;
 
-4. le procureur d’État du tribunal d’arrondissement territorialement compétent ou un délégué ;
+- le procureur d’État du tribunal d’arrondissement territorialement compétent ou un délégué ;
 
-5. le directeur général de la Police ou un délégué ;
+- le directeur général de la Police ou un délégué ;
 
-6. le directeur de la région de police territorialement compétent ou un délégué.
+- le directeur de la région de police territorialement compétent ou un délégué.
 
 Toute personne dont la contribution aux travaux est jugée utile par le comité peut être invitée à participer.
 
@@ -637,13 +637,13 @@ Toute personne dont la contribution aux travaux est jugée utile par le comité 
 
 Le comité de concertation a les attributions suivantes :
 
-1. procéder à l’étude et à l’analyse dans la région de police des diverses formes de délinquance, de nuisances et de troubles portés à l’ordre public ainsi que de leur perception par la population ;
+- procéder à l’étude et à l’analyse dans la région de police des diverses formes de délinquance, de nuisances et de troubles portés à l’ordre public ainsi que de leur perception par la population ;
 
-2. élaborer des propositions de politique générale dans les domaines de la prévention de la délinquance et de la préservation de l’ordre public ;
+- élaborer des propositions de politique générale dans les domaines de la prévention de la délinquance et de la préservation de l’ordre public ;
 
-3. définir au niveau régional des objectifs et des actions coordonnées auxquels l’État, d’une part, et les communes, d’autre part, décident d’un commun accord de contribuer, notamment dans le domaine de la prévention de la criminalité, des nuisances et des troubles susvisés ;
+- définir au niveau régional des objectifs et des actions coordonnées auxquels l’État, d’une part, et les communes, d’autre part, décident d’un commun accord de contribuer, notamment dans le domaine de la prévention de la criminalité, des nuisances et des troubles susvisés ;
 
-4. assurer le suivi de l’évolution de l’application des propositions retenues en commun au niveau régional.
+- assurer le suivi de l’évolution de l’application des propositions retenues en commun au niveau régional.
 
 <a id="art-38"></a>
 ## Art. 38.
@@ -654,15 +654,15 @@ Il est créé pour le territoire de compétence de chaque commissariat de police
 
 Le comité de prévention comprend :
 
-1. les bourgmestres des communes relevant du territoire de compétence du commissariat de police, qui, en cas d’empêchement, sont remplacés conformément à l’article 64 de la loi communale ;
+- les bourgmestres des communes relevant du territoire de compétence du commissariat de police, qui, en cas d’empêchement, sont remplacés conformément à l’article 64 de la loi communale ;
 
-2. les échevins ou conseillers communaux éventuellement désignés par les bourgmestres ;
+- les échevins ou conseillers communaux éventuellement désignés par les bourgmestres ;
 
-3. le directeur de la région de police dans le ressort duquel se trouve la commune, ou son délégué ;
+- le directeur de la région de police dans le ressort duquel se trouve la commune, ou son délégué ;
 
-4. les chefs des commissariats de police territorialement compétents ou leur délégué ;
+- les chefs des commissariats de police territorialement compétents ou leur délégué ;
 
-5. un agent municipal par commune relevant du territoire de compétence du commissariat de police, désigné par le bourgmestre.
+- un agent municipal par commune relevant du territoire de compétence du commissariat de police, désigné par le bourgmestre.
 
 Le fonctionnaire désigné par le ministre et le procureur d’État territorialement compétent ont entrée dans le comité et seront entendus quand ils le demandent. Ils peuvent se faire représenter par un délégué.
 
@@ -678,13 +678,13 @@ Ceux-ci fixent également la durée du mandat du président. En cas de maladie, 
 
 Le comité de prévention a les attributions suivantes :
 
-1. procéder à l’étude et à l’analyse dans les communes des diverses formes de délinquance, de nuisances et de troubles portés à l’ordre public ainsi que de leur perception par la population ;
+- procéder à l’étude et à l’analyse dans les communes des diverses formes de délinquance, de nuisances et de troubles portés à l’ordre public ainsi que de leur perception par la population ;
 
-2. définir au niveau communal des objectifs et des actions coordonnées auxquels l’État, d’une part, et la commune, d’autre part, décident d’un commun accord de contribuer, notamment dans le domaine de la prévention de la criminalité, des nuisances et des troubles susvisés ;
+- définir au niveau communal des objectifs et des actions coordonnées auxquels l’État, d’une part, et la commune, d’autre part, décident d’un commun accord de contribuer, notamment dans le domaine de la prévention de la criminalité, des nuisances et des troubles susvisés ;
 
-3. élaborer des propositions concernant des mesures à prendre adaptées aux réalités locales ;
+- élaborer des propositions concernant des mesures à prendre adaptées aux réalités locales ;
 
-4. assurer le suivi de l’évolution de l’application des propositions retenues en commun.
+- assurer le suivi de l’évolution de l’application des propositions retenues en commun.
 
 <a id="art-39"></a>
 ## Art. 39.
@@ -704,21 +704,21 @@ Il est créé un comité d’accompagnement des missions de police judiciaire co
 
 Le comité d’accompagnement a les attributions suivantes :
 
-1. fixer l’orientation générale du travail des services de police judiciaire ;
+- fixer l’orientation générale du travail des services de police judiciaire ;
 
-2. établir le concept de police judiciaire y compris les missions des départements et sections du Service de police judiciaire ;
+- établir le concept de police judiciaire y compris les missions des départements et sections du Service de police judiciaire ;
 
-3. évaluer et surveiller le travail proactif du Service de police judiciaire ;
+- évaluer et surveiller le travail proactif du Service de police judiciaire ;
 
-4. définir les priorités stratégiques en relation avec les missions de police judiciaire ;
+- définir les priorités stratégiques en relation avec les missions de police judiciaire ;
 
-5. contrôler la qualité des écrits judiciaires ;
+- contrôler la qualité des écrits judiciaires ;
 
-6. aviser les candidatures pour les postes de chefs de département et de chefs de section du Service de police judiciaire ;
+- aviser les candidatures pour les postes de chefs de département et de chefs de section du Service de police judiciaire ;
 
-7. émettre les recommandations tendant à l’amélioration du travail de police judiciaire ;
+- émettre les recommandations tendant à l’amélioration du travail de police judiciaire ;
 
-8. approuver annuellement un rapport d’activité aux ministres ayant la Justice et la Police dans leurs attributions.
+- approuver annuellement un rapport d’activité aux ministres ayant la Justice et la Police dans leurs attributions.
 
 ##### Section 3 Relations avec les autorités militaires
 
@@ -745,33 +745,33 @@ Dans le cas de réquisition de l’Armée sous les formes prévues par la loi, l
 
 Dans l’exercice de leurs missions de police judiciaire et de police administrative ou à d’autres fins prévues par des lois spéciales, les membres de la Police ayant la qualité d’officier ou d’agent de police judiciaire ou d’officier ou d’agent de police administrative ont un accès direct, par un système informatique, aux traitements de données à caractère personnel suivants :
 
-1. le registre général des personnes physiques créé par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques et le répertoire général créé par la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales ;
+- le registre général des personnes physiques créé par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques et le répertoire général créé par la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales ;
 
-2. le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l’article 413 du Code de la sécurité sociale , à l’exclusion de toutes données relatives à la santé ;
+- le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l’article 413 du Code de la sécurité sociale , à l’exclusion de toutes données relatives à la santé ;
 
-3. le fichier des étrangers exploité pour le compte du Service des étrangers du ministre ayant l’Immigration dans ses attributions ;
+- le fichier des étrangers exploité pour le compte du Service des étrangers du ministre ayant l’Immigration dans ses attributions ;
 
-4. le fichier des demandeurs d’asile exploité pour le compte du Service des réfugiés du ministre ayant l’Immigration dans ses attributions ;
+- le fichier des demandeurs d’asile exploité pour le compte du Service des réfugiés du ministre ayant l’Immigration dans ses attributions ;
 
-5. le fichier des demandeurs de visa exploité pour le compte du bureau des passeports, visas et légalisations du ministre ayant les Affaires étrangères dans ses attributions ;
+- le fichier des demandeurs de visa exploité pour le compte du bureau des passeports, visas et légalisations du ministre ayant les Affaires étrangères dans ses attributions ;
 
-6. le fichier des autorisations d’établissement exploité pour le compte du ministre ayant les Classes moyennes dans ses attributions ;
+- le fichier des autorisations d’établissement exploité pour le compte du ministre ayant les Classes moyennes dans ses attributions ;
 
-7. le fichier des titulaires et demandeurs de permis de conduire exploité pour le compte du ministre ayant les Transports dans ses attributions ;
+- le fichier des titulaires et demandeurs de permis de conduire exploité pour le compte du ministre ayant les Transports dans ses attributions ;
 
-8. le fichier des véhicules routiers et de leurs propriétaires et détenteurs, exploité pour le compte du ministre ayant les Transports dans ses attributions ;
+- le fichier des véhicules routiers et de leurs propriétaires et détenteurs, exploité pour le compte du ministre ayant les Transports dans ses attributions ;
 
-9. le fichier des assujettis à la taxe sur la valeur ajoutée, exploité pour le compte de l’Administration de l’enregistrement, des domaines et de la TVA ;
+- le fichier des assujettis à la taxe sur la valeur ajoutée, exploité pour le compte de l’Administration de l’enregistrement, des domaines et de la TVA ;
 
-10. le fichier des armes prohibées du ministre ayant la Justice dans ses attributions ;
+- le fichier des armes prohibées du ministre ayant la Justice dans ses attributions ;
 
-11. le fichier des sociétés du Registre de commerce et des sociétés ;
+- le fichier des sociétés du Registre de commerce et des sociétés ;
 
-12. le registre public des bâtiments de plaisance battant pavillon luxembourgeois ;
+- le registre public des bâtiments de plaisance battant pavillon luxembourgeois ;
 
-13. le registre foncier ;
+- le registre foncier ;
 
-14. le registre des cartes d’identité.
+- le registre des cartes d’identité.
 
 (2)
 
@@ -785,9 +785,9 @@ Les données à caractère personnel des fichiers accessibles en vertu du paragr
 
 Le système informatique par lequel l’accès direct est opéré est aménagé de sorte que :
 
-1. les membres de la Police visés aux paragraphes 1 er et 2 ne puissent consulter les fichiers auxquels ils ont accès qu’en indiquant leur identifiant numérique personnel ;
+- les membres de la Police visés aux paragraphes 1 er et 2 ne puissent consulter les fichiers auxquels ils ont accès qu’en indiquant leur identifiant numérique personnel ;
 
-2. les informations relatives aux membres de la Police ayant procédé à la consultation, ainsi que les informations consultées, la date et l’heure de la consultation sont enregistrées et conservées pendant un délai d’au moins cinq ans, afin que le motif de la consultation puisse être retracé. Les données à caractère personnel consultées doivent avoir un lien direct avec les faits ayant motivé la consultation.
+- les informations relatives aux membres de la Police ayant procédé à la consultation, ainsi que les informations consultées, la date et l’heure de la consultation sont enregistrées et conservées pendant un délai d’au moins cinq ans, afin que le motif de la consultation puisse être retracé. Les données à caractère personnel consultées doivent avoir un lien direct avec les faits ayant motivé la consultation.
 
 (5)
 
@@ -808,25 +808,25 @@ Par dérogation à l’alinéa 1er, les conditions relatives à l’inefficacit�
 
 Sont considérés comme présentant un risque particulier de commission d’infractions pénales :
 
-1. les lieux où sont commis, de manière répétée, des infractions pénales revêtant un certain degré de gravité ;
+- les lieux où sont commis, de manière répétée, des infractions pénales revêtant un certain degré de gravité ;
 
-2. les lieux qui par leur configuration sont de nature à favoriser la commission d’infractions pénales revêtant un certain degré de gravité ;
+- les lieux qui par leur configuration sont de nature à favoriser la commission d’infractions pénales revêtant un certain degré de gravité ;
 
-3. les alentours et abords des infrastructures où sont organisés régulièrement des évènements d’envergure nationale ou internationale ;
+- les alentours et abords des infrastructures où sont organisés régulièrement des évènements d’envergure nationale ou internationale ;
 
-4. les abords, les entrées et l’intérieur de l’enceinte du stade national de football et de rugby ;
+- les abords, les entrées et l’intérieur de l’enceinte du stade national de football et de rugby ;
 
-5. les lieux qui par leur nature rassemblent un grand nombre de personnes.
+- les lieux qui par leur nature rassemblent un grand nombre de personnes.
 
 (3)
 
 L’autorisation ministérielle est délivrée, pour chaque lieu placé sous vidéosurveillance, sur base d’une analyse d’impact réalisée par le directeur général de la Police et après avis, chacun en ce qui le concerne :
 
-1. du procureur d’État territorialement compétent ;
+- du procureur d’État territorialement compétent ;
 
-2. du conseil communal, et
+- du conseil communal, et
 
-3. de la Commission consultative des droits de l’homme .
+- de la Commission consultative des droits de l’homme .
 
 Les instances visées à l’alinéa 1er, points 1° à 3°, transmettent leur avis respectif au ministre dans un délai d’un mois à compter de leur saisine.
 
@@ -838,15 +838,15 @@ Le délai de cinq ans prévu à l’alinéa 3 prend effet soit le premier jour d
 
 Sauf si la Police estime que la nécessité de la mise en place d’une zone de vidéosurveillance n’est pas avérée, le directeur général de la Police communique au ministre, en dehors de l’analyse d’impact, dans un délai de trois mois à compter de la réception de la demande, les informations suivantes :
 
-1. la justification de la nécessité de la vidéosurveillance au regard des critères définis au paragraphe 2 et des finalités poursuivies ;
+- la justification de la nécessité de la vidéosurveillance au regard des critères définis au paragraphe 2 et des finalités poursuivies ;
 
-2. la délimitation des lieux à surveiller ;
+- la délimitation des lieux à surveiller ;
 
-3. le nombre, le type, l’emplacement et le champ de vision des caméras ;
+- le nombre, le type, l’emplacement et le champ de vision des caméras ;
 
-4. une évaluation du nombre de personnes concernées par la vidéosurveillance ;
+- une évaluation du nombre de personnes concernées par la vidéosurveillance ;
 
-5. le caractère permanent ou non de la vidéosurveillance.
+- le caractère permanent ou non de la vidéosurveillance.
 
 (5)
 
@@ -903,21 +903,21 @@ L’enregistrement n’est pas permanent. Il prend fin s’il n’est plus requi
 
 Les enregistrements ont pour finalités :
 
-1. la prévention des incidents au cours des interventions ;
+- la prévention des incidents au cours des interventions ;
 
-2. la constatation des infractions et la poursuite de leurs auteurs par la collecte de preuves.
+- la constatation des infractions et la poursuite de leurs auteurs par la collecte de preuves.
 
 (3)
 
 Les catégories de données à caractère personnel et informations enregistrées sont :
 
-1. les images et les sons captés par les caméras dans les conditions prévues au paragraphe 1 er et pour les finalités énoncées au paragraphe 2 ;
+- les images et les sons captés par les caméras dans les conditions prévues au paragraphe 1 er et pour les finalités énoncées au paragraphe 2 ;
 
-2. le jour et les plages horaires d’enregistrement ;
+- le jour et les plages horaires d’enregistrement ;
 
-3. l’identification du porteur de la caméra lors de l’enregistrement des données ;
+- l’identification du porteur de la caméra lors de l’enregistrement des données ;
 
-4. le lieu où ont été collectées les données.
+- le lieu où ont été collectées les données.
 
 (4)
 
@@ -972,21 +972,21 @@ Les fichiers de la Police peuvent contenir des données à caractère personnel 
 
 La Police détermine des profils et des modalités d’accès et de traitement des données à caractère personnel sur la base :
 
-1. du détail des informations concernées. La Police met en œuvre des règles spécifiques pour l’accès à ses rapports, procès-verbaux et autres pièces ;
+- du détail des informations concernées. La Police met en œuvre des règles spécifiques pour l’accès à ses rapports, procès-verbaux et autres pièces ;
 
-2. du type du traitement des données, tels qu’une collecte, une modification, une consultation, une communication, un effacement ou une transmission de données ;
+- du type du traitement des données, tels qu’une collecte, une modification, une consultation, une communication, un effacement ou une transmission de données ;
 
-3. de l’appartenance à un service déterminé ou à une unité déterminée de la Police et de la fonction du membre de la Police ou du membre d’une autre administration détaché à la Police ;
+- de l’appartenance à un service déterminé ou à une unité déterminée de la Police et de la fonction du membre de la Police ou du membre d’une autre administration détaché à la Police ;
 
-4. du motif d’accès. La Police détermine des motifs d’accès spécifiques selon le type de mission légale de la Police ou des autres administrations dans le cadre de laquelle un traitement des données est requis ;
+- du motif d’accès. La Police détermine des motifs d’accès spécifiques selon le type de mission légale de la Police ou des autres administrations dans le cadre de laquelle un traitement des données est requis ;
 
-5. de l’état de validation des données traitées ;
+- de l’état de validation des données traitées ;
 
-6. des règles spécifiques pour les données relatives à des mineurs qui prévoient que les rapports, procès-verbaux et autres pièces établis par la Police par rapport à un mineur ne peuvent être accédés que par :
+- des règles spécifiques pour les données relatives à des mineurs qui prévoient que les rapports, procès-verbaux et autres pièces établis par la Police par rapport à un mineur ne peuvent être accédés que par :
 
-1. les membres de la section « protection de la jeunesse » au sein du Service de police judiciaire ;
+  - les membres de la section « protection de la jeunesse » au sein du Service de police judiciaire ;
 
-2. les officiers et agents de police judiciaire qui sont chargés d’une enquête par rapport au mineur concerné ou suite à une demande du service central d’assistance sociale (SCAS).
+  - les officiers et agents de police judiciaire qui sont chargés d’une enquête par rapport au mineur concerné ou suite à une demande du service central d’assistance sociale (SCAS).
 
 Dans le cas d’une demande de consultation d’un fichier par une personne autre que celle qui l’effectue, les journaux du fichier font mention de l’identité de la personne à l’origine de la demande et du motif de cette demande.
 
@@ -1013,59 +1013,59 @@ Le fichier central ne comporte pas les données relatives à des personnes qui o
 
 Les données à caractère personnel et informations sont traitées dans le fichier central pour les finalités suivantes :
 
-1. la vérification des antécédents d’une personne dans le cadre d’une mission de police judiciaire, de police administrative ou dans le cadre d’une autre mission légale de la Police ;
+- la vérification des antécédents d’une personne dans le cadre d’une mission de police judiciaire, de police administrative ou dans le cadre d’une autre mission légale de la Police ;
 
-2. l’appui aux enquêtes judiciaires par le biais d’analyses criminelles opérationnelles à la demande d’une autorité judiciaire ;
+- l’appui aux enquêtes judiciaires par le biais d’analyses criminelles opérationnelles à la demande d’une autorité judiciaire ;
 
-3. l’appui à la définition et à la réalisation de la politique de sécurité intérieure par le biais d’analyses criminelles stratégiques ;
+- l’appui à la définition et à la réalisation de la politique de sécurité intérieure par le biais d’analyses criminelles stratégiques ;
 
-4. l’exploitation des informations à des fins de recherches statistiques ;
+- l’exploitation des informations à des fins de recherches statistiques ;
 
-5. l’identification des membres de la Police en charge du dossier.
+- l’identification des membres de la Police en charge du dossier.
 
 (3)
 
 Les personnes dont les données sont traitées dans le fichier central aux fins de police administrative et de toute autre mission dont la Police est investie par la loi sont celles qui ont fait l’objet d’une mesure de police ou qui ont été citées dans un rapport établi par la Police dans le cadre de l’exécution de ses missions. Elles sont catégorisées comme suit :
 
-1. les personnes ayant fait l’objet d’une mesure de police administrative prise par la Police au sens du chapitre 2, section 1re ou sur base d’une loi spéciale ;
+- les personnes ayant fait l’objet d’une mesure de police administrative prise par la Police au sens du chapitre 2, section 1re ou sur base d’une loi spéciale ;
 
-2. les personnes signalées ou recherchées par la Police afin que la Police puisse accomplir ses missions au sens de l’article 7 ;
+- les personnes signalées ou recherchées par la Police afin que la Police puisse accomplir ses missions au sens de l’article 7 ;
 
-3. les membres de la Police en charge du dossier.
+- les membres de la Police en charge du dossier.
 
 (4)
 
 Les catégories de personnes dont les données sont traitées dans le fichier central aux fins de police judiciaire sont les suivantes :
 
-1. les personnes suspectées d’avoir participé à une infraction pénale ;
+- les personnes suspectées d’avoir participé à une infraction pénale ;
 
-2. les personnes reconnues coupables d’une infraction pénale ;
+- les personnes reconnues coupables d’une infraction pénale ;
 
-3. les personnes décédées de manière suspecte ;
+- les personnes décédées de manière suspecte ;
 
-4. les personnes disparues ;
+- les personnes disparues ;
 
-5. les personnes signalées ou recherchées par la Police ;
+- les personnes signalées ou recherchées par la Police ;
 
-6. les personnes évadées ou qui ont tenté de s’évader ;
+- les personnes évadées ou qui ont tenté de s’évader ;
 
-7. les personnes qui exécutent une peine ;
+- les personnes qui exécutent une peine ;
 
-8. les victimes d’une infraction pénale ou les personnes à l’égard desquelles certains faits portent à croire qu’elles pourraient être victimes d’une infraction pénale ;
+- les victimes d’une infraction pénale ou les personnes à l’égard desquelles certains faits portent à croire qu’elles pourraient être victimes d’une infraction pénale ;
 
-9. les personnes pouvant être appelées à témoigner lors d’enquêtes en rapport avec des infractions pénales ou des procédures pénales ultérieures ;
+- les personnes pouvant être appelées à témoigner lors d’enquêtes en rapport avec des infractions pénales ou des procédures pénales ultérieures ;
 
-10. les personnes à l’égard desquelles il existe des motifs sérieux de croire qu’elles sont sur le point de commettre une infraction pénale, les contacts ou associés qui sont suspectés d’avoir l’intention de participer à ces infractions ou d’en avoir connaissance, ainsi que les personnes qui peuvent fournir des informations sur ces infractions pénales ;
+- les personnes à l’égard desquelles il existe des motifs sérieux de croire qu’elles sont sur le point de commettre une infraction pénale, les contacts ou associés qui sont suspectés d’avoir l’intention de participer à ces infractions ou d’en avoir connaissance, ainsi que les personnes qui peuvent fournir des informations sur ces infractions pénales ;
 
-11. les membres de la Police en charge du dossier.
+- les membres de la Police en charge du dossier.
 
 Les personnes visées à l’alinéa 1er, point 10°, ne peuvent faire l’objet d’une inscription dans le fichier central que :
 
-1. par les officiers de police judiciaire du Service de police judiciaire dans les matières qui relèvent des attributions de la section à laquelle ils sont affectés ;
+- par les officiers de police judiciaire du Service de police judiciaire dans les matières qui relèvent des attributions de la section à laquelle ils sont affectés ;
 
-2. si la fiabilité de la source et de l’information est évaluée suivant un code d’évaluation préalablement défini qui tient compte de la pertinence de la source et de l’information fournie dans le contexte de l’évolution de la criminalité et des phénomènes criminels pertinents ; et
+- si la fiabilité de la source et de l’information est évaluée suivant un code d’évaluation préalablement défini qui tient compte de la pertinence de la source et de l’information fournie dans le contexte de l’évolution de la criminalité et des phénomènes criminels pertinents ; et
 
-3. avec l’accord du procureur général d’État, du procureur d’État territorialement compétent ou des membres de leurs parquets désignés à cet effet, si ces données concernent un mineur.
+- avec l’accord du procureur général d’État, du procureur d’État territorialement compétent ou des membres de leurs parquets désignés à cet effet, si ces données concernent un mineur.
 
 (5)
 
@@ -1091,47 +1091,47 @@ Dans le respect des règles d’accès déterminées en vertu de l’article 43q
 
 Les informations et données à caractère personnel principales sur les personnes visées aux paragraphes 3 et 4 peuvent contenir les données suivantes si elles sont disponibles pour les personnes physiques :
 
-1. les noms, prénoms, alias et surnoms ;
+- les noms, prénoms, alias et surnoms ;
 
-2. les dates et les lieux de naissance ;
+- les dates et les lieux de naissance ;
 
-3. les sexes ;
+- les sexes ;
 
-4. les nationalités ou les statuts d’apatride ;
+- les nationalités ou les statuts d’apatride ;
 
-5. les états civils ;
+- les états civils ;
 
-6. les dates de décès ;
+- les dates de décès ;
 
-7. les numéros d’identification nationaux ou, le cas échéant, des numéros équivalents ;
+- les numéros d’identification nationaux ou, le cas échéant, des numéros équivalents ;
 
-8. les domiciles, les résidences habituelles ou les dernières adresses connues ;
+- les domiciles, les résidences habituelles ou les dernières adresses connues ;
 
-9. les numéros des cartes d’identité et/ou des passeports ou de tout autre document officiel ;
+- les numéros des cartes d’identité et/ou des passeports ou de tout autre document officiel ;
 
-10. les numéros des téléphones et les données y afférentes et, le cas échéant, des adresses électroniques ;
+- les numéros des téléphones et les données y afférentes et, le cas échéant, des adresses électroniques ;
 
-11. les signalements descriptifs, comprenant les signes corporels permettant d’identifier la personne, y compris les photographies et, le cas échéant, les empreintes digitales.
+- les signalements descriptifs, comprenant les signes corporels permettant d’identifier la personne, y compris les photographies et, le cas échéant, les empreintes digitales.
 
 Dans le cas d’une personne morale, les informations et données à caractère personnel principales peuvent contenir les données suivantes si elles sont disponibles :
 
-1. les dénominations sociales et, le cas échéant, les dénominations commerciales si elles sont différentes des dénominations sociales ;
+- les dénominations sociales et, le cas échéant, les dénominations commerciales si elles sont différentes des dénominations sociales ;
 
-2. les noms, prénoms, alias et surnoms des dirigeants et des bénéficiaires économiques et effectifs, ainsi que leurs dates et lieux de naissance, et leurs numéros d’identification nationaux ou, le cas échéant, des numéros équivalents ;
+- les noms, prénoms, alias et surnoms des dirigeants et des bénéficiaires économiques et effectifs, ainsi que leurs dates et lieux de naissance, et leurs numéros d’identification nationaux ou, le cas échéant, des numéros équivalents ;
 
-3. les dates et les lieux de constitution ;
+- les dates et les lieux de constitution ;
 
-4. les adresses des sièges sociaux et les adresses d’exploitation ;
+- les adresses des sièges sociaux et les adresses d’exploitation ;
 
-5. les numéros des téléphones et les données y afférentes et, le cas échéant, les adresses électroniques ;
+- les numéros des téléphones et les données y afférentes et, le cas échéant, les adresses électroniques ;
 
-6. les formes juridiques ;
+- les formes juridiques ;
 
-7. les nationalités ;
+- les nationalités ;
 
-8. les numéros du registre de commerce et des sociétés ;
+- les numéros du registre de commerce et des sociétés ;
 
-9. les numéros TVA.
+- les numéros TVA.
 
 (8)
 
@@ -1165,11 +1165,11 @@ Les décisions de condamnation, d’acquittement, de non-lieu ou de classement s
 
 Le procureur d’État du tribunal d’arrondissement dans le ressort duquel le requérant réside peut à tout moment, d’office ou à la demande de la personne concernée :
 
-1. ordonner le transfert des informations, données à caractère personnel, procès-verbaux ou rapports relevant d’une mission de police judiciaire dans la partie passive du fichier central ;
+- ordonner le transfert des informations, données à caractère personnel, procès-verbaux ou rapports relevant d’une mission de police judiciaire dans la partie passive du fichier central ;
 
-2. ordonner l’effacement des informations, données à caractère personnel, procès-verbaux ou rapports relevant d’une mission de police judiciaire de la partie passive du fichier central ;
+- ordonner l’effacement des informations, données à caractère personnel, procès-verbaux ou rapports relevant d’une mission de police judiciaire de la partie passive du fichier central ;
 
-3. ordonner que la personne concernée ne puisse plus être recherchée par le biais des informations et données à caractère personnel.
+- ordonner que la personne concernée ne puisse plus être recherchée par le biais des informations et données à caractère personnel.
 
 La décision est communiquée par écrit à la Police et fait l’objet d’une mention dans le dossier en question. Le procureur d’État avise la personne concernée des suites qu’il convient de donner aux demandes qui lui sont adressées.
 
@@ -1197,11 +1197,11 @@ Par dérogation à l’alinéa 1er, les rapports relatifs à des personnes dispa
 
 Les informations et données à caractère personnel contenues dans la partie passive du fichier central, et, le cas échéant, dans la partie passive des fichiers particuliers établis conformément à l’article 43quater, peuvent être retransmises dans la partie active pour les raisons suivantes :
 
-1. les enquêtes sont reprises pour des infractions pénales qui ne sont pas encore prescrites ;
+- les enquêtes sont reprises pour des infractions pénales qui ne sont pas encore prescrites ;
 
-2. il s’agit d’enquêtes relatives à des faits dénoncés à des autorités judiciaires d’autres États ;
+- il s’agit d’enquêtes relatives à des faits dénoncés à des autorités judiciaires d’autres États ;
 
-3. il s’agit de faits qui relèvent d’une décision d’enquête européenne ou d’une commission rogatoire internationale.
+- il s’agit de faits qui relèvent d’une décision d’enquête européenne ou d’une commission rogatoire internationale.
 
 Le renouvellement du délai maximal initial de l’accès aux données dans l’application « JU-CHA » donne lieu à une retransmission dans la partie active du fichier central. Les informations et données à caractère personnel sont de nouveau transférées dans la partie passive du fichier central dès que la Police est informée de l’expiration de ce délai ou sur décision des autorités judiciaires.
 
@@ -1227,9 +1227,9 @@ Par dérogation à l’alinéa 1er, l’obligation de suppression des informatio
 
 L’accès aux informations et données à caractère personnel contenues dans la partie passive du fichier central et, le cas échéant, dans la partie passive des fichiers particuliers établis conformément à l’article 43quater peut être effectué pour les seules finalités suivantes :
 
-1. la prise de connaissance des informations et données à caractère personnel dans le cadre d’une enquête en cours relative à un crime ou un délit ;
+- la prise de connaissance des informations et données à caractère personnel dans le cadre d’une enquête en cours relative à un crime ou un délit ;
 
-2. la prise de connaissance des informations et données à caractère personnel dans le cadre d’une demande en révision conformément aux articles 443 et suivants du Code de procédure pénale .
+- la prise de connaissance des informations et données à caractère personnel dans le cadre d’une demande en révision conformément aux articles 443 et suivants du Code de procédure pénale .
 
 La consultation des informations et données à caractère personnel contenues dans la partie passive du fichier central pour une de ces finalités n’est possible qu’avec l’accord du procureur général d’État ou des membres de son parquet désignés à cet effet ou, pour la finalité visée à l’alinéa 1er, point 1°, sur demande du procureur d’État territorialement compétent ou du juge d’instruction en charge de l’instruction préparatoire.
 
@@ -1256,21 +1256,21 @@ Le directeur général et le directeur général adjoint de la Police grand-duca
 
 Le directeur général, le directeur général adjoint et les directeurs centraux forment un comité de direction.
 
-Le comité de direction, assisté par un secrétariat général, est présidé par le directeur général. Le secrétariat général est dirigé par un secrétaire général, ayant au moins dix années d’expérience professionnelle au sein du groupe de traitement A1 du cadre policier ou civil de la Police .
+Le comité de direction, assisté par un secrétariat général, est présidé par le directeur général. Le secrétariat général est dirigé par un secrétaire général , ayant au moins dix années d’expérience professionnelle au sein du groupe de traitement A1 du cadre policier ou civil de la Police .
 
 (2)
 
 Sont rattachés au comité de direction :
 
-1. une direction « communication » ;
+- une direction « communication » ;
 
-2. une direction « relations internationales » ;
+- une direction « relations internationales » ;
 
-3. un service juridique ;
+- un service juridique ;
 
-4. un service psychologique ;
+- un service psychologique ;
 
-5. un service d’audit financier.
+- un service d’audit financier.
 
 (3)
 
@@ -1285,13 +1285,13 @@ Le secrétaire général est nommé par le Grand-Duc.
 
 La Police comprend en outre quatre directions centrales :
 
-1. la direction centrale police administrative, ci-après désignée « DCPA » ;
+- la direction centrale police administrative, ci-après désignée « DCPA » ;
 
-2. la direction centrale police judiciaire, ci-après désignée « DCPJ » ;
+- la direction centrale police judiciaire, ci-après désignée « DCPJ » ;
 
-3. la direction centrale ressources et compétences, ci-après désignée « DCRC » ;
+- la direction centrale ressources et compétences, ci-après désignée « DCRC » ;
 
-4. la direction centrale stratégie et performance, ci-après désignée « DCSP ».
+- la direction centrale stratégie et performance, ci-après désignée « DCSP ».
 
 Chaque direction centrale est dirigée par un directeur central ayant au moins dix années d’expérience professionnelle au sein du groupe de traitement A1 de la Police. Les directeurs centraux sont nommés par le Grand-Duc sur proposition du ministre. Le directeur central de police judiciaire est nommé par le Grand-Duc sur proposition du ministre, le procureur général d’État ayant été entendu en son avis.
 
@@ -1302,37 +1302,37 @@ La fonction de directeur central des directions centrales visées aux points 1°
 
 La direction centrale police administrative comprend :
 
-1. la direction des opérations,
+- la direction des opérations,
 
-2. les unités nationales suivantes :
+- les unités nationales suivantes :
 
-1. l’Unité de la police de l’aéroport ;
+  - l’Unité de la police de l’aéroport ;
 
-2. l’Unité de la police de la route ;
+  - l’Unité de la police de la route ;
 
-3. l’Unité de garde et d’appui opérationnel ;
+  - l’Unité de garde et d’appui opérationnel ;
 
-4. l’Unité spéciale de la Police.
+  - l’Unité spéciale de la Police.
 
-3. les quatre régions de Police :
+- les quatre régions de Police :
 
-1. Région Capitale avec siège à Luxembourg-Ville ;
+  - Région Capitale avec siège à Luxembourg-Ville ;
 
-2. Région Centre-Est avec siège à Grevenmacher ;
+  - Région Centre-Est avec siège à Grevenmacher ;
 
-3. Région Nord avec siège à Diekirch ;
+  - Région Nord avec siège à Diekirch ;
 
-4. Région Sud-Ouest avec siège à Esch-sur-Alzette.
+  - Région Sud-Ouest avec siège à Esch-sur-Alzette.
 
 Chaque région comprend :
 
-1. une direction ;
+- une direction ;
 
-2. des commissariats de police qui, par décision du directeur général, peuvent comporter une unité de police locale ;
+- des commissariats de police qui, par décision du directeur général, peuvent comporter une unité de police locale ;
 
-3. un service régional de police de la route ;
+- un service régional de police de la route ;
 
-4. un service régional de police spéciale.
+- un service régional de police spéciale.
 
 Un règlement grand-ducal délimitera les régions de Police.
 
@@ -1343,11 +1343,11 @@ Un règlement grand-ducal délimitera les régions de Police.
 
 La direction centrale police judiciaire comprend le Service de police judiciaire, désigné ci-après « SPJ », composé :
 
-1. d’une direction ;
+- d’une direction ;
 
-2. de départements subdivisés en sections ;
+- de départements subdivisés en sections ;
 
-3. de services décentralisés de police judiciaire dans les régions Nord, Sud-Ouest et Centre-Est.
+- de services décentralisés de police judiciaire dans les régions Nord, Sud-Ouest et Centre-Est.
 
 Le nombre de départements et de sections ainsi que leurs missions respectives sont déterminés sur avis du comité d’accompagnement.
 
@@ -1368,30 +1368,30 @@ Les membres des groupes de traitement B1 et C1 affectés depuis plus de cinq ans
 
 La direction centrale « ressources et compétences » comprend :
 
-1. une direction ressources humaines ;
+- une direction ressources humaines ;
 
-2. une direction formation avec une École de Police ;
+- une direction formation avec une École de Police ;
 
-3. une direction des finances .
+- une direction des finances .
 
-4. une direction logistique ;
+- une direction logistique ;
 
-5. une direction technologies policières.
+- une direction technologies policières.
 
 <a id="art-50"></a>
 ## Art. 50.
 
 La direction centrale « stratégie et performance » comprend :
 
-1. une direction planification et suivi stratégiques ;
+- une direction planification et suivi stratégiques ;
 
-2. une direction organisation et amélioration ;
+- une direction organisation et amélioration ;
 
-3. une direction traitement de l’information ;
+- une direction traitement de l’information ;
 
-4. une direction logistique ;
+- une direction logistique ;
 
-5. une direction technologies policières.
+- une direction technologies policières.
 
 <a id="art-51"></a>
 ## Art. 51.
@@ -1414,11 +1414,11 @@ L’emblème, l’uniforme et la carte de service de la Police sont déterminés
 
 La qualité de supérieur au sein de la Police est déterminée, selon l’ordre établi ci-après, par :
 
-1. la fonction exercée et, à égalité de fonction, par l’ancienneté ;
+- la fonction exercée et, à égalité de fonction, par l’ancienneté ;
 
-2. l’exercice d’attributions particulières ;
+- l’exercice d’attributions particulières ;
 
-3. l’ancienneté appliquée aux membres du cadre policier.
+- l’ancienneté appliquée aux membres du cadre policier.
 
 Pour l’application du point 1°, la hiérarchie des fonctions est déterminée conformément à l’organigramme visé à l’article 4 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.
 
@@ -1429,11 +1429,11 @@ Exceptionnellement, à défaut de supérieur responsable, un membre de la Police
 
 L’ancienneté telle que prévue par l’article 53, points 1° et 3°, comprend trois niveaux :
 
-1. Le niveau dénommé « inspecteurs » : Ce niveau comprend les grades d’ancienneté pour les catégories de traitement B et C considérant les dates de première nomination en fonction du classement de l’examen de fin de stage des catégories de traitement B et C. Les grades d’ancienneté comprennent dans le niveau d’inspecteur les grades : d’inspecteur adjoint, d’inspecteur, de premier inspecteur et d’inspecteur chef. Les avancements se font après respectivement trois, neuf et quinze années à partir de leur nomination définitive. Le groupe de traitement B1 passe au niveau commissaire par la réussite de son examen de promotion. Le groupe de traitement C1 passe au niveau commissaire trois ans après la réussite de son examen de promotion. Le groupe de traitement C2 passe au niveau commissaire suite à un changement de carrière.
+- Le niveau dénommé « inspecteurs » : Ce niveau comprend les grades d’ancienneté pour les catégories de traitement B et C considérant les dates de première nomination en fonction du classement de l’examen de fin de stage des catégories de traitement B et C. Les grades d’ancienneté comprennent dans le niveau d’inspecteur les grades : d’inspecteur adjoint, d’inspecteur, de premier inspecteur et d’inspecteur chef. Les avancements se font après respectivement trois, neuf et quinze années à partir de leur nomination définitive. Le groupe de traitement B1 passe au niveau commissaire par la réussite de son examen de promotion. Le groupe de traitement C1 passe au niveau commissaire trois ans après la réussite de son examen de promotion. Le groupe de traitement C2 passe au niveau commissaire suite à un changement de carrière.
 
-2. Le niveau dénommé « commissaires » : Ce niveau comprend les grades d’ancienneté pour la catégorie de traitement B et le groupe de traitement C1 considérant les dates de nomination dans ce niveau en fonction de la date de réussite de l’examen de promotion de leur catégorie de traitement et du classement à cet examen. Les grades d’ancienneté comprennent dans le niveau commissaire les grades de commissaire adjoint, de commissaire, de premier commissaire et de commissaire en chef. Les avancements se font après respectivement trois, neuf et quinze années à partir de la première nomination dans ce niveau.
+- Le niveau dénommé « commissaires » : Ce niveau comprend les grades d’ancienneté pour la catégorie de traitement B et le groupe de traitement C1 considérant les dates de nomination dans ce niveau en fonction de la date de réussite de l’examen de promotion de leur catégorie de traitement et du classement à cet examen. Les grades d’ancienneté comprennent dans le niveau commissaire les grades de commissaire adjoint, de commissaire, de premier commissaire et de commissaire en chef. Les avancements se font après respectivement trois, neuf et quinze années à partir de la première nomination dans ce niveau.
 
-3. Le niveau dénommé « commissaires divisionnaires » : L’ancienneté se définit pour les groupes de traitement A1 respectivement A2 par la date de première nomination du fonctionnaire dans son groupe en fonction du classement à l’examen de fin de stage. Les grades d’ancienneté comprennent les grades de commissaire principal correspondant aux grades de traitement F9 et F10, de premier commissaire principal correspondant aux grades de traitement F11 et F12, de commissaire divisionnaire correspondant aux grades de traitement F13 et F14 et de premier commissaire divisionnaire correspondant au grade de traitement F15, tels que prévus à la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+- Le niveau dénommé « commissaires divisionnaires » : L’ancienneté se définit pour les groupes de traitement A1 respectivement A2 par la date de première nomination du fonctionnaire dans son groupe en fonction du classement à l’examen de fin de stage. Les grades d’ancienneté comprennent les grades de commissaire principal correspondant aux grades de traitement F9 et F10, de premier commissaire principal correspondant aux grades de traitement F11 et F12, de commissaire divisionnaire correspondant aux grades de traitement F13 et F14 et de premier commissaire divisionnaire correspondant au grade de traitement F15, tels que prévus à la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
 
 Les nominations aux grades sont faites par le directeur général de la Police grand-ducale.
 
@@ -1526,13 +1526,13 @@ Dans le cadre de l’exécution des missions de police, les fonctionnaires stagi
 
 Le retrait du statut de fonctionnaire stagiaire du cadre policier est prononcé par le ministre sur avis du directeur général de la Police :
 
-1. en cas d’échec à l’instruction tactique de base pour les groupes de traitement B1 et C1 ;
+- en cas d’échec à l’instruction tactique de base pour les groupes de traitement B1 et C1 ;
 
-2. en cas d’échec à la phase de formation policière théorique et pratique ;
+- en cas d’échec à la phase de formation policière théorique et pratique ;
 
-3. pour motifs graves tant dans le service qu’en dehors du service ;
+- pour motifs graves tant dans le service qu’en dehors du service ;
 
-4. lorsque l’une des appréciations des performances professionnelles donne lieu à une appréciation professionnelle insuffisante telle que prévue par l’article 4 bis de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.
+- lorsque l’une des appréciations des performances professionnelles donne lieu à une appréciation professionnelle insuffisante telle que prévue par l’article 4 bis de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.
 
 Le retrait du statut de fonctionnaire stagiaire du cadre policier en application du présent article équivaut à une résiliation du stage au sens de l’article 2 de la loi précitée du 16 avril 1979.
 
@@ -1645,17 +1645,17 @@ La demande est adressée par voie hiérarchique au ministre qui en saisit la com
 
 Le membre du cadre policier qui désire changer de groupe de traitement peut présenter sa candidature, s’il remplit les conditions suivantes :
 
-1. avoir au moins dix années de service depuis la date de sa nomination ;
+- avoir au moins dix années de service depuis la date de sa nomination ;
 
-2. avoir réussi à l’examen de promotion de son sous-groupe de traitement initial, si un tel examen y est prévu.
+- avoir réussi à l’examen de promotion de son sous-groupe de traitement initial, si un tel examen y est prévu.
 
 (2)
 
 Par dérogation aux articles 75, 77, 78 et 79, le membre du groupe de traitement C2 peut accéder au groupe de traitement C1 sous les conditions suivantes :
 
-1. avoir réussi à l’examen de promotion du sous-groupe de traitement de destination ;
+- avoir réussi à l’examen de promotion du sous-groupe de traitement de destination ;
 
-2. être retenu par le ministre sur vue du dossier personnel, le directeur général de la Police grand-ducale entendu en son avis. L’appréciation du candidat se base sur la qualité de son travail, son assiduité, sa valeur personnelle, ses qualités physiques et sa capacité d’assumer des responsabilités supérieures.
+- être retenu par le ministre sur vue du dossier personnel, le directeur général de la Police grand-ducale entendu en son avis. L’appréciation du candidat se base sur la qualité de son travail, son assiduité, sa valeur personnelle, ses qualités physiques et sa capacité d’assumer des responsabilités supérieures.
 
 Le classement à l’examen de promotion du sous-groupe de traitement de destination détermine l’ancienneté telle que prévue à l’article 54.
 
@@ -1674,13 +1674,13 @@ Préalablement à sa publication, le poste vacant doit faire l’objet d’une d
 
 Il est institué auprès du ministre une commission de contrôle de la carrière policière, désignée ci-après par « commission de contrôle » dont la mission consiste à :
 
-1. émettre son avis sur le respect de la procédure de demande de changement de groupe de traitement introduite en vertu de l’article 75 ou des procédures de demande de changement de groupe temporaire introduites en vertu de l’article 94 ;
+- émettre son avis sur le respect de la procédure de demande de changement de groupe de traitement introduite en vertu de l’article 75 ou des procédures de demande de changement de groupe temporaire introduites en vertu de l’article 94 ;
 
-2. veiller à ce que les limites et conditions prévues par les articles 74 et 76 soient respectées pour toute demande introduite en vertu de l’article 75 et veiller à ce que les limites et conditions d’éligibilité fixées par l’article 94, paragraphes 2, 4, alinéas 2 à 4, et 5 , soient respectées pour toute demande introduite en vertu du paragraphe 5, alinéa 1 er ;
+- veiller à ce que les limites et conditions prévues par les articles 74 et 76 soient respectées pour toute demande introduite en vertu de l’article 75 et veiller à ce que les limites et conditions d’éligibilité fixées par l’article 94, paragraphes 2, 4, alinéas 2 à 4, et 5 , soient respectées pour toute demande introduite en vertu du paragraphe 5, alinéa 1 er ;
 
-3. évaluer les compétences du candidat par rapport aux missions et exigences du poste brigué ;
+- évaluer les compétences du candidat par rapport aux missions et exigences du poste brigué ;
 
-4. évaluer le mémoire prévu à l’article 79.
+- évaluer le mémoire prévu à l’article 79.
 
 (2)
 
@@ -1784,141 +1784,148 @@ L’indemnité visée à l’article 81, paragraphe 1er, est allouée aux membre
 
 Le Code de procédure pénale est modifié comme suit :
 
-1. L’article 10 est modifié comme suit : Art. 10. Ont la qualité d’officier de police judiciaire les membres de la Police grand-ducale tels que définis à l’article 17 de la loi du 18 juillet 2018 sur la Police grand-ducale.
+- L’article 10 est modifié comme suit : Art. 10. Ont la qualité d’officier de police judiciaire les membres de la Police grand-ducale tels que définis à l’article 17 de la loi du 18 juillet 2018 sur la Police grand-ducale.
 
-2. L’article 13, paragraphe 1 er est modifié comme suit : (1) Sont agents de police judiciaire les membres de la Police grand-ducale tels que définis à l’article 17 de la loi du 18 juillet 2018 sur la Police grand-ducale.
+- L’article 13, paragraphe 1 er est modifié comme suit : (1) Sont agents de police judiciaire les membres de la Police grand-ducale tels que définis à l’article 17 de la loi du 18 juillet 2018 sur la Police grand-ducale.
 
-3. À l’article 45, paragraphe 5, le terme quatre est remplacé par le terme six .
+- À l’article 45, paragraphe 5, le terme quatre est remplacé par le terme six .
 
 <a id="art-86"></a>
 ## Art. 86.
 
-L’article 7, paragraphe 1er, point 4°, de la loi du 10 décembre 2009 relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux est remplacé par le texte suivant : les chefs des commissariats de la Police grand-ducale et, en leur absence, un officier de police administrative
+L’article 7, paragraphe 1er, point 4°, de la loi du 10 décembre 2009 relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux est remplacé par le texte suivant :
+
+- les chefs des commissariats de la Police grand-ducale et, en leur absence, un officier de police administrative
 
 <a id="art-87"></a>
 ## Art. 87.
 
 L’article 1er, alinéa 2 de la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et servics de l’État est modifié comme suit :
 
-1. L’énumération est complétée par le tiret suivant : - de directeur central .
+- L’énumération est complétée par le tiret suivant : - de directeur central .
 
-2. Les grades A13, A14, P13, P14 sont remplacés par les grades F16, F17 .
+- Les grades A13, A14, P13, P14 sont remplacés par les grades F16, F17 .
 
 <a id="art-88"></a>
 ## Art. 88.
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
 
-1. L’article 4 est modifié comme suit :
+- L’article 4 est modifié comme suit :
 
-1. Au paragraphe 1 er , alinéa 4, les termes pour les fonctionnaires de la catégorie de traitement D, des rubriques « Armée, Police et Inspection générale de la Police » et « Douanes » sont remplacés par les termes pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C1 de la rubrique « Armée, Police et Inspection générale de la Police » et les fonctionnaires de la catégorie de traitement D de la rubrique « Douanes » .
+  - Au paragraphe 1 er , alinéa 4, les termes pour les fonctionnaires de la catégorie de traitement D, des rubriques « Armée, Police et Inspection générale de la Police » et « Douanes » sont remplacés par les termes pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C1 de la rubrique « Armée, Police et Inspection générale de la Police » et les fonctionnaires de la catégorie de traitement D de la rubrique « Douanes » .
 
-2. Au paragraphe 1 er , il est ajouté un cinquième et un sixième alinéa libellés comme suit : Pour les fonctionnaires de la catégorie de traitement B, groupe de traitement B1 de la rubrique « Armée, Police et Inspection générale de la Police », le traitement du fonctionnaire nouvellement nommé est calculé à partir du troisième échelon de son grade de computation de la bonification d’ancienneté, sans préjudice de l’application des dispositions des articles 5 et 6 ci-après. Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police », le traitement du fonctionnaire nouvellement nommé est calculé à partir du septième échelon de son grade de computation de la bonification d’ancienneté, sans préjudice de l’application des dispositions des articles 5 et 6 ci-après.
+  - Au paragraphe 1 er , il est ajouté un cinquième et un sixième alinéa libellés comme suit : Pour les fonctionnaires de la catégorie de traitement B, groupe de traitement B1 de la rubrique « Armée, Police et Inspection générale de la Police », le traitement du fonctionnaire nouvellement nommé est calculé à partir du troisième échelon de son grade de computation de la bonification d’ancienneté, sans préjudice de l’application des dispositions des articles 5 et 6 ci-après. Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police », le traitement du fonctionnaire nouvellement nommé est calculé à partir du septième échelon de son grade de computation de la bonification d’ancienneté, sans préjudice de l’application des dispositions des articles 5 et 6 ci-après.
 
-3. Au paragraphe 3, sous la rubrique « Armée, Police et Inspection générale de la Police », au point a) le grade F8 est remplacé par le grade F11 et au point b) les termes catégorie D, groupe D1 sont remplacés par les termes catégorie C, groupe C1 .
+  - Au paragraphe 3, sous la rubrique « Armée, Police et Inspection générale de la Police », au point a) le grade F8 est remplacé par le grade F11 et au point b) les termes catégorie D, groupe D1 sont remplacés par les termes catégorie C, groupe C1 .
 
-2. L’article 14, paragraphe 1 er est modifié comme suit :
+- L’article 14, paragraphe 1 er est modifié comme suit :
 
-1. À l’alinéa 1 er , le point b) est remplacé comme suit : un sous-groupe policier avec un niveau général et un niveau supérieur ;
+  - À l’alinéa 1 er , le point b) est remplacé comme suit : un sous-groupe policier avec un niveau général et un niveau supérieur ;
 
-2. À l’alinéa 2, le grade F8 est remplacé par le grade F11 , le grade F9 est remplacé par le grade F12 et le grade F10 est remplacé par le grade F13 .
+  - À l’alinéa 2, le grade F8 est remplacé par le grade F11 , le grade F9 est remplacé par le grade F12 et le grade F10 est remplacé par le grade F13 .
 
-3. L’alinéa 3 est remplacé comme suit : Pour le sous-groupe sous b), le niveau général comprend les grades F11, F12 et F13 et les avancements en traitement aux grades F12 et F13 se font après respectivement trois et six années de grade à compter de la première nomination.
+  - L’alinéa 3 est remplacé comme suit : Pour le sous-groupe sous b), le niveau général comprend les grades F11, F12 et F13 et les avancements en traitement aux grades F12 et F13 se font après respectivement trois et six années de grade à compter de la première nomination.
 
-4. À l’alinéa 5, le grade F11 est remplacé par le grade F14 et le grade F12 est remplacé par le grade F15 .
+  - À l’alinéa 5, le grade F11 est remplacé par le grade F14 et le grade F12 est remplacé par le grade F15 .
 
-5. À l’alinéa 6, les termes les grades F11 avec la fonction de commissaire divisionnaire et F12 avec la fonction de premier commissaire divisionnaire, les promotions aux grades F11 et F12 sont remplacés par les termes les grades F14 et F15 et les promotions aux grades F14 et F15 .
+  - À l’alinéa 6, les termes les grades F11 avec la fonction de commissaire divisionnaire et F12 avec la fonction de premier commissaire divisionnaire, les promotions aux grades F11 et F12 sont remplacés par les termes les grades F14 et F15 et les promotions aux grades F14 et F15 .
 
-6. L’alinéa 7 est modifié comme suit :
+  - L’alinéa 7 est modifié comme suit :
 
-- Au point 1°, le grade F8 est remplacé par le grade F11 , le grade F9 est remplacé par le grade F12 et le grade F10 est remplacé par le grade F13 .
+    - Au point 1°, le grade F8 est remplacé par le grade F11 , le grade F9 est remplacé par le grade F12 et le grade F10 est remplacé par le grade F13 .
 
-- Le point 2° est remplacé comme suit : Les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de directeur central de la Police, de lieutenant-colonel/chef d’état-major adjoint de l’Armée, de lieutenant-colonel/commandant du centre militaire et de médecin de l’Armée sont classées au grade F16.Pour les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de lieutenant-colonel/chef d’état-major adjoint de l’Armée, de lieutenant-colonel/commandant du centre militaire et de médecin de l’Armée, l’indice 616 du grade F16 est remplacé par l’indice 625.
+    - Le point 2° est remplacé comme suit : Les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de directeur central de la Police, de lieutenant-colonel/chef d’état-major adjoint de l’Armée, de lieutenant-colonel/commandant du centre militaire et de médecin de l’Armée sont classées au grade F16. Pour les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de lieutenant-colonel/chef d’état-major adjoint de l’Armée, de lieutenant-colonel/commandant du centre militaire et de médecin de l’Armée, l’indice 616 du grade F16 est remplacé par l’indice 625.
 
-- Au point 3°, le grade F14 est remplacé par le grade F17 .
+    - Au point 3°, le grade F14 est remplacé par le grade F17 .
 
-3. À l’article 14, il est inséré après le paragraphe 1 er un paragraphe 1 bis qui prend la teneur suivante : (1bis) Dans la catégorie de traitement A, groupe de traitement A2, il est créé un sous-groupe policier avec un niveau général et un niveau supérieur. Pour ce sous-groupe, le niveau général comprend les grades F9, F10 et F11 et les avancements en traitement aux grades F10 et F11 se font après respectivement trois et six années de grade à compter de la première nomination. Dans ce sous-groupe, l’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général. Pour ce sous-groupe, le niveau supérieur comprend les grades F12 et F13 et les promotions aux grades F12 et F13 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions.
+- À l’article 14, il est inséré après le paragraphe 1 er un paragraphe 1 bis qui prend la teneur suivante : (1bis) Dans la catégorie de traitement A, groupe de traitement A2, il est créé un sous-groupe policier avec un niveau général et un niveau supérieur. Pour ce sous-groupe, le niveau général comprend les grades F9, F10 et F11 et les avancements en traitement aux grades F10 et F11 se font après respectivement trois et six années de grade à compter de la première nomination. Dans ce sous-groupe, l’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général. Pour ce sous-groupe, le niveau supérieur comprend les grades F12 et F13 et les promotions aux grades F12 et F13 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions.
 
-4. À l’article 14, il est inséré après le paragraphe 1 bis un nouveau paragraphe 1 ter qui prend la teneur suivante : (1ter) Dans la catégorie de traitement B, groupe de traitement B1, il est créé un sous-groupe policier avec un niveau général et un niveau supérieur. Pour ce sous-groupe, le niveau général comprend les grades F6, F7, F8 et F9 et les avancements en traitement aux grades F7, F8 et F9 se font après respectivement trois, six et neuf années de grade à compter de la première nomination. Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins. Dans ce sous-groupe, l’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général et à la condition d’avoir suivi au moins douze jours de formation continue à l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions. Pour ce sous-groupe, le niveau supérieur comprend les grades F10, F11 et F12 et les promotions aux grades F10, F11 et F12 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions.
+- À l’article 14, il est inséré après le paragraphe 1 bis un nouveau paragraphe 1 ter qui prend la teneur suivante : (1ter) Dans la catégorie de traitement B, groupe de traitement B1, il est créé un sous-groupe policier avec un niveau général et un niveau supérieur. Pour ce sous-groupe, le niveau général comprend les grades F6, F7, F8 et F9 et les avancements en traitement aux grades F7, F8 et F9 se font après respectivement trois, six et neuf années de grade à compter de la première nomination. Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins. Dans ce sous-groupe, l’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général et à la condition d’avoir suivi au moins douze jours de formation continue à l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions. Pour ce sous-groupe, le niveau supérieur comprend les grades F10, F11 et F12 et les promotions aux grades F10, F11 et F12 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions.
 
-5. À l’article 14, le paragraphe 2 est modifié comme suit :
+- À l’article 14, le paragraphe 2 est modifié comme suit :
 
-1. L’alinéa 1 er est modifié comme suit :
+  - L’alinéa 1 er est modifié comme suit :
 
-- Les termes catégorie de traitement D, groupe de traitement D1 sont remplacés par les termes catégorie de traitement C, groupe de traitement C1 .
+    - Les termes catégorie de traitement D, groupe de traitement D1 sont remplacés par les termes catégorie de traitement C, groupe de traitement C1 .
 
-- Le point b) est remplacé comme suit : b) un sous-groupe policier avec un niveau général et un niveau supérieur ;
+    - Le point b) est remplacé comme suit : b) un sous-groupe policier avec un niveau général et un niveau supérieur ;
 
-2. À l’alinéa 3, les termes les grades F2 avec la fonction d’inspecteur adjoint, F3 avec la fonction d’inspecteur et F4 avec la fonction de premier inspecteur sont remplacés par les termes les grades F2, F3 et F4 .
+  - À l’alinéa 3, les termes les grades F2 avec la fonction d’inspecteur adjoint, F3 avec la fonction d’inspecteur et F4 avec la fonction de premier inspecteur sont remplacés par les termes les grades F2, F3 et F4 .
 
-3. À l’alinéa 7, les termes les grades F5 avec la fonction d’inspecteur-chef, F6 avec la fonction de commissaire et F7 avec la fonction de commissaire en chef sont remplacés par les termes les grades F5, F6 et F7 .
+  - À l’alinéa 7, les termes les grades F5 avec la fonction d’inspecteur-chef, F6 avec la fonction de commissaire et F7 avec la fonction de commissaire en chef sont remplacés par les termes les grades F5, F6 et F7 .
 
-6. À l’article 14, le paragraphe 3 est modifié comme suit :
+- À l’article 14, le paragraphe 3 est modifié comme suit :
 
-1. L’alinéa 1 er est modifié comme suit :
+  - L’alinéa 1 er est modifié comme suit :
 
-- Les termes catégorie de traitement D, groupe de traitement D2 sont remplacés par les termes catégorie de traitement C, groupe de traitement C2 .
+    - Les termes catégorie de traitement D, groupe de traitement D2 sont remplacés par les termes catégorie de traitement C, groupe de traitement C2 .
 
-- Le point b) est remplacé comme suit : b) un sous-groupe policier avec un niveau général et un niveau supérieur.
+    - Le point b) est remplacé comme suit : b) un sous-groupe policier avec un niveau général et un niveau supérieur.
 
-2. À l’alinéa 3 , les termes les grades F1 avec la fonction de caporal et F2 avec la fonction de caporal de première classe sont remplacés par les termes les grades F1 et F2 .
+  - À l’alinéa 3 , les termes les grades F1 avec la fonction de caporal et F2 avec la fonction de caporal de première classe sont remplacés par les termes les grades F1 et F2 .
 
-3. À l’alinéa 7, les termes les grades F3 avec la fonction de brigadier principal et F4 avec la fonction de brigadier-chef sont remplacés par les termes les grades F3 et F4 .
+  - À l’alinéa 7, les termes les grades F3 avec la fonction de brigadier principal et F4 avec la fonction de brigadier-chef sont remplacés par les termes les grades F3 et F4 .
 
-7. L’article 16, paragraphe 4 est modifié comme suit :
+- L’article 16, paragraphe 4 est modifié comme suit :
 
-1. À l’alinéa 1 er , point e), le terme C2, est ajouté derrière les termes groupes de traitement .
+  - À l’alinéa 1 er , point e), le terme C2, est ajouté derrière les termes groupes de traitement .
 
-2. À l’alinéa 2, les points b), c) et d) sont supprimés, le point e) devenant le nouveau point b).
+  - À l’alinéa 2, les points b), c) et d) sont supprimés, le point e) devenant le nouveau point b).
 
-8. À l’article 17, point b), derrière les termes inspecteur général de la police sont ajoutés les termes inspecteur général adjoint de la police, directeurs centraux de la police .
+- À l’article 17, point b), derrière les termes inspecteur général de la police sont ajoutés les termes inspecteur général adjoint de la police, directeurs centraux de la police .
 
-9. L’article 22 est modifié comme suit :
+- L’article 22 est modifié comme suit :
 
-1. Au paragraphe 1 er , point c), les termes catégorie de traitement D sont remplacés par les termes catégorie de traitement C et les termes groupe de traitement D1 sont remplacés par les termes groupe de traitement C1 .
+  - Au paragraphe 1 er , point c), les termes catégorie de traitement D sont remplacés par les termes catégorie de traitement C et les termes groupe de traitement D1 sont remplacés par les termes groupe de traitement C1 .
 
-2. Le paragraphe 2 est modifié comme suit :
+  - Le paragraphe 2 est modifié comme suit :
 
-- Devant le point a) actuel, sont ajoutés deux nouveaux points a) et b) libellés comme suit, les points a) et b) actuels devenant les nouveaux points c) et d) : « a) aux agents de la catégorie de traitement A, groupes de traitement A1 et A2 du sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police » ; b) aux agents de la catégorie de traitement B, groupe de traitement B1 du sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police » ;
+    - Devant le point a) actuel, sont ajoutés deux nouveaux points a) et b) libellés comme suit, les points a) et b) actuels devenant les nouveaux points c) et d) : « a) aux agents de la catégorie de traitement A, groupes de traitement A1 et A2 du sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police » ; b) aux agents de la catégorie de traitement B, groupe de traitement B1 du sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police » ;
 
-- Au point b) actuel, devenant le nouveau point d), les termes catégorie de traitement D, groupe de traitement D1 sont remplacés par les termes catégorie de traitement C, groupe de traitement C1 .
+    - Au point b) actuel, devenant le nouveau point d), les termes catégorie de traitement D, groupe de traitement D1 sont remplacés par les termes catégorie de traitement C, groupe de traitement C1 .
 
-3. Il est ajouté un nouveau paragraphe 8 libellé comme suit : (8) Une prime d’astreinte d’une valeur de 12 points indiciaires peut être allouée au personnel du cadre civil de la Police grand-ducale soumis à une obligation de permanence ou de présence. Cette prime est attribuée par décision du ministre du ressort et sur proposition du directeur général de la Police grand-ducale.
+  - Il est ajouté un nouveau paragraphe 8 libellé comme suit : (8) Une prime d’astreinte d’une valeur de 12 points indiciaires peut être allouée au personnel du cadre civil de la Police grand-ducale soumis à une obligation de permanence ou de présence. Cette prime est attribuée par décision du ministre du ressort et sur proposition du directeur général de la Police grand-ducale.
 
-10. L’article 23 est remplacé comme suit : Art. 23. (1) Une prime de régime militaire non pensionnable de 35 points indiciaires est allouée aux agents relevant de la catégorie de traitement C de la rubrique « Armée, Police et Inspection générale de la Police ». Une prime de régime militaire non pensionnable de 15 points indiciaires est allouée aux agents relevant des groupes de traitement A1, A2 et B1 de la rubrique « Armée, Police et Inspection générale de la Police ». Le présent paragraphe ne vise pas les fonctions du sous-groupe à attributions particulières de la musique militaire. (2) Une prime de formation non pensionnable de 20 points indiciaires est allouée aux fonctionnaires de la catégorie de traitement C, groupe de traitement C1, sous-groupe à attributions particulières de la rubrique « Armée, Police et Inspection générale de la Police », détenteurs du prix supérieur, du prix de capacité ou de perfectionnement d’un conservatoire de musique luxembourgeois ou d’un diplôme d’un conservatoire de musique étranger, reconnu équivalent par le ministre ayant l’Armée, la Police et l’Inspection générale de la Police dans ses attributions, sur avis d’une commission composée de trois hommes de l’art désignés par le même ministre.
+- L’article 23 est remplacé comme suit : Art. 23. (1) Une prime de régime militaire non pensionnable de 35 points indiciaires est allouée aux agents relevant de la catégorie de traitement C de la rubrique « Armée, Police et Inspection générale de la Police ». Une prime de régime militaire non pensionnable de 15 points indiciaires est allouée aux agents relevant des groupes de traitement A1, A2 et B1 de la rubrique « Armée, Police et Inspection générale de la Police ». Le présent paragraphe ne vise pas les fonctions du sous-groupe à attributions particulières de la musique militaire. (2) Une prime de formation non pensionnable de 20 points indiciaires est allouée aux fonctionnaires de la catégorie de traitement C, groupe de traitement C1, sous-groupe à attributions particulières de la rubrique « Armée, Police et Inspection générale de la Police », détenteurs du prix supérieur, du prix de capacité ou de perfectionnement d’un conservatoire de musique luxembourgeois ou d’un diplôme d’un conservatoire de musique étranger, reconnu équivalent par le ministre ayant l’Armée, la Police et l’Inspection générale de la Police dans ses attributions, sur avis d’une commission composée de trois hommes de l’art désignés par le même ministre.
 
-11. L’article 37 est modifié comme suit :
+- L’article 37 est modifié comme suit :
 
-1. Au paragraphe 2, dans la grille indiciaire, sous la catégorie de traitement C, il est ajouté un nouveau groupe de traitement C2 avec une indemnité de 130 points indiciaires.
+  - Au paragraphe 2, dans la grille indiciaire, sous la catégorie de traitement C, il est ajouté un nouveau groupe de traitement C2 avec une indemnité de 130 points indiciaires.
 
-2. Au paragraphe 3, dans la grille indiciaire, sous la catégorie de traitement C, il est ajouté un nouveau groupe de traitement C2 avec une indemnité de 135 points indiciaires.
+  - Au paragraphe 3, dans la grille indiciaire, sous la catégorie de traitement C, il est ajouté un nouveau groupe de traitement C2 avec une indemnité de 135 points indiciaires.
 
-3. Au paragraphe 4, dans la grille indiciaire, sous la catégorie de traitement C, il est ajouté un nouveau groupe de traitement C2 avec une réduction de 5 points indiciaires.
+  - Au paragraphe 4, dans la grille indiciaire, sous la catégorie de traitement C, il est ajouté un nouveau groupe de traitement C2 avec une réduction de 5 points indiciaires.
 
-4. Il est inséré après le paragraphe 9 un paragraphe 9bis qui prend la teneur suivante : (9bis) Lorsque la somme de l’indemnité et des primes du fonctionnaire stagiaire du cadre policier du groupe de traitement B1 est inférieure à la somme de l’indemnité et des primes du fonctionnaire stagiaire du cadre policier du groupe de traitement C1, le premier bénéficie d’un supplément personnel de traitement pensionnable correspondant à la différence entre ces deux sommes.
+  - Il est inséré après le paragraphe 9 un paragraphe 9bis qui prend la teneur suivante : (9bis) Lorsque la somme de l’indemnité et des primes du fonctionnaire stagiaire du cadre policier du groupe de traitement B1 est inférieure à la somme de l’indemnité et des primes du fonctionnaire stagiaire du cadre policier du groupe de traitement C1, le premier bénéficie d’un supplément personnel de traitement pensionnable correspondant à la différence entre ces deux sommes.
 
-12. À l’annexe A, la rubrique « III. Armée, Police et Inspection générale de la Police » est remplacée par la rubrique figurant à l’annexe A de la présente loi.
+- À l’annexe A, la rubrique « III. Armée, Police et Inspection générale de la Police » est remplacée par la rubrique figurant à l’annexe A de la présente loi.
 
-13. À l’annexe B, sous « B1) Tableaux indiciaires », la rubrique « II. Armée, Police et Inspection générale de la Police » est remplacée par l’annexe B de la présente loi.
+- À l’annexe B, sous « B1) Tableaux indiciaires », la rubrique « II. Armée, Police et Inspection générale de la Police » est remplacée par l’annexe B de la présente loi.
 
-14. L’annexe B, sous « B2) Allongements » est modifiée comme suit :
+- L’annexe B, sous « B2) Allongements » est modifiée comme suit :
 
-1. Au point 3°, il est ajouté un deuxième alinéa libellé comme suit : Pour les fonctionnaires de la catégorie de traitement A, groupe de traitement A2 de la rubrique « Armée, Police et Inspection générale de la Police », le grade F13 est allongé d’un dixième échelon ayant l’indice 500.
+  - Au point 3°, il est ajouté un deuxième alinéa libellé comme suit : Pour les fonctionnaires de la catégorie de traitement A, groupe de traitement A2 de la rubrique « Armée, Police et Inspection générale de la Police », le grade F13 est allongé d’un dixième échelon ayant l’indice 500.
 
-2. Au point 5°, les termes catégorie de traitement D, groupe de traitement D2 sont remplacés par les termes catégorie de traitement C, groupe de traitement C2 et il est complété par la phrase suivante : Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, sous-groupe policier de la même rubrique, le grade F4 est allongé d’un quinzième échelon ayant l’indice 272 .
+  - Au point 5°, les termes catégorie de traitement D, groupe de traitement D2 sont remplacés par les termes catégorie de traitement C, groupe de traitement C2 et il est complété par la phrase suivante : Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, sous-groupe policier de la même rubrique, le grade F4 est allongé d’un quinzième échelon ayant l’indice 272 .
 
-15. L’annexe C est modifiée comme suit :
+- L’annexe C est modifiée comme suit :
 
-1. Dans la colonne V, les grades F6-F10 sont remplacés par ceux de F6-F13 .
+  - Dans la colonne V, les grades F6-F10 sont remplacés par ceux de F6-F13 .
 
-2. Dans la colonne VI, les grades F11 et F12 sont remplacés par ceux de F14 et F15 .
+  - Dans la colonne VI, les grades F11 et F12 sont remplacés par ceux de F14 et F15 .
 
-3. Dans la colonne VII, les grades F13 et F14 sont remplacés par ceux de F16-F17 .
+  - Dans la colonne VII, les grades F13 et F14 sont remplacés par ceux de F16-F17 .
 
 <a id="art-89"></a>
 ## Art. 89.
 
-À la suite de l’article 22 de la loi du 18 décembre 2015 relative à l’accueil des demandeurs de protection internationale et de protection temporaire, et modifiant la loi modifiée du 10 août 1991 sur la profession d’avocat, il est inséré un nouvel article 22bis, libellé comme suit : Art. 22bis . Lorsqu’un demandeur s’oppose de manière violente ou menaçante à l’exécution d’une décision de transfert prise dans le respect de l’article 10, paragraphe 4, le directeur ou son délégué peut requérir l’assistance de la Police grand-ducale dans les conditions du Chapitre 3 de la loi du 18 juillet 2018 sur la Police grand-ducale.
+À la suite de l’article 22 de la loi du 18 décembre 2015 relative à l’accueil des demandeurs de protection internationale et de protection temporaire, et modifiant la loi modifiée du 10 août 1991 sur la profession d’avocat, il est inséré un nouvel article 22bis, libellé comme suit :
+
+<a id="art-22bis"></a>
+## Art. 22bis .
+
+Lorsqu’un demandeur s’oppose de manière violente ou menaçante à l’exécution d’une décision de transfert prise dans le respect de l’article 10, paragraphe 4, le directeur ou son délégué peut requérir l’assistance de la Police grand-ducale dans les conditions du Chapitre 3 de la loi du 18 juillet 2018 sur la Police grand-ducale.
 
 #### Chapitre 9 Dispositions abrogatoires
 
@@ -1927,15 +1934,15 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 
 Sont abrogées :
 
-1. la loi modifiée du 31 mai 1999 sur la Police et l’Inspection générale de la Police ;
+- la loi modifiée du 31 mai 1999 sur la Police et l’Inspection générale de la Police ;
 
-2. la loi du 29 mai 1992 relative au Service de Police Judiciaire et modifiant
+- la loi du 29 mai 1992 relative au Service de Police Judiciaire et modifiant
 
-1. la loi modifiée du 23 juillet 1952 concernant l’organisation militaire ;
+  - la loi modifiée du 23 juillet 1952 concernant l’organisation militaire ;
 
-2. le code d’instruction criminelle ;
+  - le code d’instruction criminelle ;
 
-3. la loi du 16 avril 1979 ayant pour objet la discipline dans la Force publique.
+  - la loi du 16 avril 1979 ayant pour objet la discipline dans la Force publique.
 
 #### Chapitre 10 Dispositions transitoires
 
@@ -1971,9 +1978,9 @@ Pour les membres du cadre policier du groupe de traitement C2 en service, en con
 
 Pour pouvoir bénéficier du mécanisme temporaire de changement de groupe visé au paragraphe 1er, le membre du cadre policier doit remplir les conditions ci-dessous :
 
-1. avoir accompli quinze années de service depuis sa nomination ;
+- avoir accompli quinze années de service depuis sa nomination ;
 
-2. être classé à une fonction relevant du niveau supérieur.
+- être classé à une fonction relevant du niveau supérieur.
 
 (2bis)
 
@@ -1983,9 +1990,9 @@ Pour les membres du cadre policier du groupe de traitement C1 qui sont détenteu
 
 Pour pouvoir bénéficier du mécanisme temporaire de changement de groupe visé au paragraphe 2bis, le membre du cadre policier doit remplir les conditions ci-dessous :
 
-1. avoir accompli douze années de service depuis sa nomination ;
+- avoir accompli douze années de service depuis sa nomination ;
 
-2. être classé à une fonction relevant du niveau supérieur.
+- être classé à une fonction relevant du niveau supérieur.
 
 (3)
 
@@ -1993,11 +2000,11 @@ Le membre du cadre policier désirant profiter d’un de ces mécanismes tempora
 
 Le nombre maximum de policiers d’un groupe de traitement pouvant bénéficier de ce mécanisme temporaire de changement de groupe, est fixé à 20 pour cent de l’effectif total de la catégorie de traitement C du cadre policier. Le nombre obtenu par ce calcul détermine séparément :
 
-1. le nombre de policiers pouvant accéder du groupe de traitement C2 au groupe de traitement C1 ;
+- le nombre de policiers pouvant accéder du groupe de traitement C2 au groupe de traitement C1 ;
 
-2. le nombre de policiers non détenteurs d’un diplôme de fin d’études secondaires ou équivalent pouvant accéder du groupe de traitement C1 au groupe de traitement B1 ;
+- le nombre de policiers non détenteurs d’un diplôme de fin d’études secondaires ou équivalent pouvant accéder du groupe de traitement C1 au groupe de traitement B1 ;
 
-3. le nombre de policiers détenteurs d’un diplôme de fin d’études secondaires ou équivalent pouvant accéder du groupe de traitement C1 au groupe de traitement B1.
+- le nombre de policiers détenteurs d’un diplôme de fin d’études secondaires ou équivalent pouvant accéder du groupe de traitement C1 au groupe de traitement B1.
 
 Toute fraction résultant de l’application du taux établi ci-dessus compte pour une unité.
 
@@ -2063,3 +2070,80 @@ L’article 27 de la loi modifiée du 31 mai 1999 sur la Police et l’Inspectio
 ## Art. 101.
 
 La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant : « Loi du 18 juillet 2018 sur la Police grand-ducale ».
+
+ANNEXE A
+
+III. Armée, Police et Inspection générale de la Police
+
+| Catégorie de traitement | Groupe de traitement | Sous-groupe de traitement | Grade | Fonction |
+| --- | --- | --- | --- | --- |
+| A | A1 | Sous groupe militaire | F11 | lieutenant |
+| F12 | lieutenant en premier |  |  |  |
+| F13 | capitaine |  |  |  |
+| F14 | major |  |  |  |
+| F15 | lieutenant-colonel |  |  |  |
+| Sous-groupe policier | F11 |  |  |  |
+| F12 |  |  |  |  |
+| F13 |  |  |  |  |
+| F14 |  |  |  |  |
+| F15 |  |  |  |  |
+| Sous-groupe à attributions particulières | F11 | lieutenant de la musique militaire |  |  |
+| F12 | lieutenant en premier de la musique militaire |  |  |  |
+| F13 | capitaine de la musique militaire |  |  |  |
+| F16 | directeur général adjoint de la police, inspecteur général adjoint de la police, directeur central de la police, lieutenant-colonel/chef d’état-major adjoint de l’armée, lieutenant-colonel/commandant du centre militaire, médecin de l’armée, |  |  |  |
+| F17 | colonel/chef d’état-major de l’armée, directeur général de la police, inspecteur général de la police |  |  |  |
+| A2 | Sous-groupe policier | F9 F10 F11 |  |  |
+| F12 F13 |  |  |  |  |
+| B | B1 | Sous-groupe policier | F6 F7 F8 F9 |  |
+| F10 F11 F12 |  |  |  |  |
+| C | C1 | Sous-groupe militaire | F2 | sergent |
+| F3 | premier sergent |  |  |  |
+| F4 | sergent-chef |  |  |  |
+| F5 | adjudant |  |  |  |
+| F6 | adjudant-chef |  |  |  |
+| F7 | adjudant-major |  |  |  |
+| Sous-groupe policier | F2 |  |  |  |
+| F3 |  |  |  |  |
+| F4 |  |  |  |  |
+| F5 |  |  |  |  |
+| F6 |  |  |  |  |
+| F7 |  |  |  |  |
+| Sous-groupe à attributions particulières | F2 | sergent de la musique militaire |  |  |
+| F3 | premier sergent de la musique militaire |  |  |  |
+| F4 | sergent-chef de la musique militaire |  |  |  |
+| F5 | adjudant de la musique militaire |  |  |  |
+| F6 | adjudant-chef de la musique militaire |  |  |  |
+| F7 | adjudant-major de la musique militaire |  |  |  |
+| C2 | Sous-groupe militaire | F1 | caporal |  |
+| F2 | caporal de première classe |  |  |  |
+| F3 | caporal-chef |  |  |  |
+| F4 | premier caporal-chef |  |  |  |
+| Sous-groupe policier | F1 |  |  |  |
+| F2 |  |  |  |  |
+| F3 |  |  |  |  |
+| F4 |  |  |  |  |
+
+ANNEXE B
+
+III. Armée, Police et Inspection générale de la Police
+
+| Grade | Echelons |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |  |
+| F17 | 455 | 470 | 490 | 510 | 530 | 550 | 570 | 590 | 610 | 630 | 647 |  |  |  |  |
+| F16 | 440 | 455 | 470 | 490 | 510 | 530 | 550 | 570 | 590 | 610 | 616 |  |  |  |  |
+| F15 | 410 | 425 | 440 | 455 | 470 | 485 | 500 | 515 | 530 | 545 | 560 |  |  |  |  |
+| F14 | 380 | 395 | 410 | 425 | 440 | 455 | 470 | 485 | 500 | 515 | 530 |  |  |  |  |
+| F13 | 360 | 380 | 395 | 410 | 425 | 440 | 455 | 470 | 485 |  |  |  |  |  |  |
+| F12 | 320 | 340 | 360 | 380 | 395 | 410 | 425 | 440 | 455 | 470 |  |  |  |  |  |
+| F11 | 290 | 305 | 320 | 340 | 360 | 380 | 395 | 410 | 425 |  |  |  |  |  |  |
+| F10 | 266 | 278 | 290 | 302 | 314 | 326 | 338 | 350 | 365 | 380 | 395 |  |  |  |  |
+| F9 | 242 | 254 | 266 | 278 | 290 | 302 | 314 | 326 | 338 | 350 | 362 |  |  |  |  |
+| F8 | 218 | 230 | 242 | 254 | 266 | 278 | 290 | 302 | 314 | 326 | 338 | 350 |  |  |  |
+| F7 | 203 | 212 | 221 | 230 | 242 | 254 | 266 | 278 | 290 | 302 | 314 | 326 | 338 | 346 |  |
+| F6 | 185 | 194 | 203 | 212 | 221 | 230 | 242 | 254 | 266 | 278 | 290 | 302 | 314 |  |  |
+| F5 | 172 | 181 | 190 | 199 | 208 | 217 | 226 | 235 | 244 | 253 | 262 | 266 |  |  |  |
+| F4 | 154 | 163 | 172 | 181 | 190 | 199 | 208 | 217 | 226 | 235 | 244 | 253 | 262 | 266 |  |
+| F3 | 144 | 152 | 160 | 168 | 176 | 184 | 192 | 200 | 208 | 216 | 224 |  |  |  |  |
+| F2 | 121 | 128 | 135 | 142 | 149 | 156 | 160 | 164 | 168 | 172 |  |  |  |  |  |
+| F1 | 107 | 114 | 121 | 128 | 135 | 142 | 149 | 153 | 157 |  |  |  |  |  |  |

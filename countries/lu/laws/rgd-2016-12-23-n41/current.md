@@ -33,17 +33,17 @@ Critères du certificat de durabilité des logements
 
 Sont déterminés:
 
-1. aux chapitres 1.1 à 1.7 de l’annexe, les critères de la catégorie relative à l’implantation géographique du logement;
+- aux chapitres 1.1 à 1.7 de l’annexe, les critères de la catégorie relative à l’implantation géographique du logement;
 
-2. aux chapitres 2.1 à 2.2 de l’annexe, les critères de la catégorie relative aux aspects sociaux du logement;
+- aux chapitres 2.1 à 2.2 de l’annexe, les critères de la catégorie relative aux aspects sociaux du logement;
 
-3. au chapitre 3.1 de l’annexe, le critère de la catégorie relative à l’économie du logement;
+- au chapitre 3.1 de l’annexe, le critère de la catégorie relative à l’économie du logement;
 
-4. aux chapitres 4.1 à 4.9 de l’annexe, les critères de la catégorie relative à l’écologie du logement;
+- aux chapitres 4.1 à 4.9 de l’annexe, les critères de la catégorie relative à l’écologie du logement;
 
-5. aux chapitres 5.1 à 5.8 de l’annexe, les critères de la catégorie relative au bâtiment et aux installations techniques du logement;
+- aux chapitres 5.1 à 5.8 de l’annexe, les critères de la catégorie relative au bâtiment et aux installations techniques du logement;
 
-6. aux chapitres 6.1 à 6.10 de l’annexe, les critères de la catégorie relative à la fonctionnalité du logement.
+- aux chapitres 6.1 à 6.10 de l’annexe, les critères de la catégorie relative à la fonctionnalité du logement.
 
 #### Chapitre II Le certificat de durabilité
 
@@ -126,19 +126,19 @@ Le demandeur d’une aide à l’établissement d’un certificat de la durabili
 
 Au formulaire de demande doivent être annexés:
 
-1. le titre de propriété du logement;
+- le titre de propriété du logement;
 
-2. le certificat de durabilité et les pièces annexes énumérées au chapitre 7.1 de l’annexe;
+- le certificat de durabilité et les pièces annexes énumérées au chapitre 7.1 de l’annexe;
 
-3. le mémoire d’honoraires pour l’établissement du certificat de durabilité;
+- le mémoire d’honoraires pour l’établissement du certificat de durabilité;
 
-4. la preuve de paiement;
+- la preuve de paiement;
 
-5. l’acte constitutif et les pièces d’identité des représentants, si le demandeur est une personne morale;
+- l’acte constitutif et les pièces d’identité des représentants, si le demandeur est une personne morale;
 
-6. une pièce d’identité, si le demandeur est une personne physique;
+- une pièce d’identité, si le demandeur est une personne physique;
 
-7. la résolution de l’assemblée générale des copropriétaires de faire établir un certificat de durabilité, s’il s’agit d’un immeuble en copropriété.
+- la résolution de l’assemblée générale des copropriétaires de faire établir un certificat de durabilité, s’il s’agit d’un immeuble en copropriété.
 
 (3)
 

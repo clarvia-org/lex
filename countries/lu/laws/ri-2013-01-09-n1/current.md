@@ -25,6 +25,113 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 20/07/2022 : Règlement Intérieur de l'Ordre des Avocats du Barreau de Luxembourg tel que adopté par le Conseil de l'Ordre lors de sa réunion du 9 janvier 2013.
 
+REGLEMENT INTERIEUR DE L’ORDRE DES AVOCATS DU BARREAU DE LUXEMBOURG
+
+Règlement adopté par le Conseil de l’Ordre le 9 janvier 2013
+
+TABLE DES MATIERES
+
+| DEFINITIONS |  |
+| --- | --- |
+| TITRE 1. | PRINCIPES ESSENTIELS |
+| 1.1. | Généralités |
+| 1.2. | Principes essentiels |
+| TITRE 2. | ACTIVITES DE L’AVOCAT |
+| 2.1. | Généralités |
+| 2.2. | Participation de l’avocat dans les activités de sociétés commerciales |
+| 2.3. | Participation aux assemblées |
+| 2.4. | Rapports de l’avocat avec ses mandants |
+| 2.4.1. | Lieu de rencontre avec le mandant |
+| 2.4.2. | Opposition d’intérêts |
+| 2.4.3. | Reprise d’un mandat |
+| 2.4.4. | Compétence et diligence |
+| 2.4.5. | Honoraires |
+| 2.4.6. | Conflits en matière d’honoraires entre un avocat et son mandant |
+| 2.4.7. | Responsabilité pécuniaire entre avocats |
+| 2.5. | Relations de l’avocat avec les instances ordinales |
+| 2.6. | Commissions et désignations d’office |
+| 2.7. | Assistance judiciaire |
+| 2.8. | Avocat de l’enfant |
+| 2.9. | Obligations du stage judiciaire |
+| TITRE 3. | ACTIVITES JUDICIAIRES DE L’AVOCAT |
+| 3.1. | Présentation et plaidoirie |
+| 3.2. | Conduite du procès |
+| 3.3. | Instruction des affaires, communication entre avocats et communication des pièces |
+| 3.4. | Périodes de vacances judiciaires |
+| 3.5. | Rapports avec la partie adverse |
+| 3.6. | Rapports avec les témoins |
+| 3.7. | Election de domicile |
+| 3.8. | Procès personnel |
+| 3.9. | Relations avec la magistrature |
+| TITRE 4. | ACTIVITES JURIDIQUES DE L’AVOCAT |
+| 4.1. | Généralités |
+| 4.2. | Consultation |
+| 4.3. | Négociation |
+| 4.4. | Rédaction |
+| 4.5. | Difficultés contentieuses relatives à un acte à la préparation ou à la rédaction duquel l’avocat a participé |
+| TITRE 5. | AUTRES ACTIVITES DE L’AVOCAT |
+| 5.1. | Avocat mandataire spécial |
+| 5.2. | Avocat dépositaire ou séquestre conventionnel |
+| 5.3. | Avocat arbitre, conciliateur et médiateur |
+| 5.4. | Mandats de justice de l’avocat |
+| 5.5. | Avocat domiciliataire de sociétés |
+| TITRE 6. | RELATIONS DE L’AVOCAT AVEC LE PUBLIC |
+| 6.1. | Relation avec les médias |
+| 6.2. | Publicité et papier à en-tête |
+| 6.3. | Sites Internet |
+| 6.4. | Liens de correspondance organique |
+| 6.5. | Activités préférentielles |
+| TITRE 7. | SECRET PROFESSIONNEL ET CONFIDENTIALITE |
+| 7.1. | Secret professionnel |
+| 7.2. | Secret de l’instruction |
+| 7.3. | Communications verbales entre avocats |
+| 7.4. | Correspondance entre avocats |
+| 7.5. | Différends au sujet de la confidentialité |
+| TITRE 8. | INDEPENDANCE ET INCOMPATIBILITES |
+| 8.1. | Indépendance |
+| 8.2. | Incompatibilités |
+| TITRE 9. | INSCRIPTION ET ADMISSION AU TABLEAU |
+| 9.1. | Inscription au tableau |
+| 9.2. | Omission du tableau |
+| 9.3. | Effets de l’omission |
+| 9.4. | Réinscription au tableau |
+| 9.5. | Démission |
+| 9.6. | Administration provisoire |
+| TITRE 10. | DISCIPLINE |
+| 10.1. | Instruction des affaires disciplinaires |
+| 10.2. | Effet des sanctions disciplinaires de suspension et d’interdiction |
+| TITRE 11. | EXERCICE DE LA PROFESSION |
+| 11.1. | Différentes formes de l’exercice de la profession |
+| 11.2. | Associations entre avocats |
+| 11.3. | Personne morale exerçant la profession d’avocat |
+| 11.4. | Collaboration et salariat |
+| 11.5. | Accord de collaboration et contrat d’emploi salarié |
+| TITRE 12. | REGLEMENTS PECUNIAIRES |
+| TITRE 13. | LUTTE CONTRE LE BLANCHIMENT ET LE FINANCEMENT DU TERRORISME |
+| TITRE 14. | FORMATION PERMANENTE DES AVOCATS |
+| TITRE 15. | INFORMATION ET VISA DU BATONNIER |
+| 15.1. | L’obligation d’informer le Bâtonnier |
+| 15.2. | L’obligation de demander le visa du Bâtonnier |
+| 15.3. | Procédure du visa |
+| TITRE 16. | MEDIATION |
+| TITRE 17. | RELATIONS AVEC LES AVOCATS ETRANGERS |
+| 17.1. | Activités de prestations de services, au Grand-Duché de Luxembourg, d’avocat habilité à exercer dans un autre Etat membre de l’Union européenne |
+| 17.2. | Règles de déontologie applicables aux activités transfrontalières de l’avocat |
+| TITRE 18. | DISPOSITION ABROGATOIRE ET TRANSITOIRE |
+| ANNEXES |  |
+
+REGLEMENT INTERIEUR DE L’ORDRE DES AVOCATS DU BARREAU DE LUXEMBOURG
+
+DEFINITIONS
+
+Aux termes du présent règlement,
+
+- « avocat » signifie toute personne, physique ou morale, inscrite au tableau de l’Ordre des Avocats du Barreau de Luxembourg, sauf si spécifié autrement;
+
+- « étude » signifie l’infrastructure dont dispose l’avocat pour l’exercice de sa profession à titre individuel ou collectif, et
+
+- « Loi » signifie la loi du 10 août 1991 sur la profession d’avocat telle que modifiée.
+
 ### TITRE 1. PRINCIPES ESSENTIELS
 
 <a id="art-1-1"></a>
@@ -102,11 +209,11 @@ L’avocat ne doit être ni le conseil ni le représentant ou le défenseur de p
 
 En particulier, il y a conflit d’intérêts si:
 
-1. l’avocat doit conseiller, représenter ou défendre une partie lorsqu’il aura précédemment conseillé, dans le cadre de la même affaire, une ou des parties opposées;
+- l’avocat doit conseiller, représenter ou défendre une partie lorsqu’il aura précédemment conseillé, dans le cadre de la même affaire, une ou des parties opposées;
 
-2. l’avocat doit assumer des obligations distinctes afin d’agir au mieux des intérêts de deux clients ou davantage concernant des questions identiques ou connexes et que ces obligations entrent en conflit ou qu’elles risquent d’entrer en conflit;
+- l’avocat doit assumer des obligations distinctes afin d’agir au mieux des intérêts de deux clients ou davantage concernant des questions identiques ou connexes et que ces obligations entrent en conflit ou qu’elles risquent d’entrer en conflit;
 
-3. le devoir de l’avocat d’agir au mieux des intérêts de son client dans une affaire crée un conflit, ou s’il existe un risque de conflit avec les intérêts personnels de l’avocat au regard de l’affaire ou d’une affaire liée.
+- le devoir de l’avocat d’agir au mieux des intérêts de son client dans une affaire crée un conflit, ou s’il existe un risque de conflit avec les intérêts personnels de l’avocat au regard de l’affaire ou d’une affaire liée.
 
 <a id="art-2-4-2-2"></a>
 ## Art. 2.4.2.2.
@@ -844,9 +951,9 @@ Publicité et papier à en-tête
 
 Au sens des dispositions qui suivent, on entend par:
 
-1. Publicité fonctionnelle: toute communication publique ayant pour objet la promotion de la profession d’avocat.
+- Publicité fonctionnelle: toute communication publique ayant pour objet la promotion de la profession d’avocat.
 
-2. Publicité personnelle: toute communication publique, quels que soient les moyens utilisés, ayant pour objet de faire connaître son auteur ou de donner une information sur la nature ou la qualité de sa pratique professionnelle.
+- Publicité personnelle: toute communication publique, quels que soient les moyens utilisés, ayant pour objet de faire connaître son auteur ou de donner une information sur la nature ou la qualité de sa pratique professionnelle.
 
 <a id="art-6-2-2"></a>
 ## Art. 6.2.2.
@@ -1383,9 +1490,9 @@ La collaboration est un mode d’exercice professionnel exclusif de tout lien de
 
 La collaboration entre avocats peut être occasionnelle ou habituelle:
 
-1. Elle est occasionnelle lorsque l’avocat collaborateur ne preste que des devoirs isolés ou ne traite que certains dossiers isolés pour le compte d’un autre avocat.
+- Elle est occasionnelle lorsque l’avocat collaborateur ne preste que des devoirs isolés ou ne traite que certains dossiers isolés pour le compte d’un autre avocat.
 
-2. Elle est habituelle lorsque l’avocat accepte de collaborer de façon permanente avec un autre avocat à plein temps ou à temps partiel.
+- Elle est habituelle lorsque l’avocat accepte de collaborer de façon permanente avec un autre avocat à plein temps ou à temps partiel.
 
 <a id="art-11-4-3"></a>
 ## Art. 11.4.3.

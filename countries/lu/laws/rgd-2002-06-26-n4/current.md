@@ -47,73 +47,73 @@ Chacun des quatre groupes de partenaires de la vie scolaire est représenté au 
 
 La composition du conseil est arrêtée comme suit :
 
-1. Groupe des parents, des étudiants et des élèves :
+- Groupe des parents, des étudiants et des élèves :
 
-- deux représentants des parents d’élèves de l’enseignement préscolaire et primaire
+  - deux représentants des parents d’élèves de l’enseignement préscolaire et primaire
 
-- un représentant des parents d’élèves de l’enseignement secondaire
+  - un représentant des parents d’élèves de l’enseignement secondaire
 
-- un représentant des parents d’élèves de l’enseignement secondaire technique
+  - un représentant des parents d’élèves de l’enseignement secondaire technique
 
-- un représentant des élèves de l’enseignement secondaire
+  - un représentant des élèves de l’enseignement secondaire
 
-- un représentant des élèves de l’enseignement secondaire technique
+  - un représentant des élèves de l’enseignement secondaire technique
 
-- deux représentants des associations des étudiants
+  - deux représentants des associations des étudiants
 
-- un représentant à désigner par le ministre
+  - un représentant à désigner par le ministre
 
-2. Groupe du personnel enseignant
+- Groupe du personnel enseignant
 
-- un représentant des enseignants de l’enseignement préscolaire
+  - un représentant des enseignants de l’enseignement préscolaire
 
-- deux représentants des enseignants de l’enseignement primaire
+  - deux représentants des enseignants de l’enseignement primaire
 
-- un représentant des enseignants de l’éducation différenciée
+  - un représentant des enseignants de l’éducation différenciée
 
-- un représentant des enseignants de l’enseignement secondaire
+  - un représentant des enseignants de l’enseignement secondaire
 
-- deux représentants des enseignants de l’enseignement secondaire technique
+  - deux représentants des enseignants de l’enseignement secondaire technique
 
-- un représentant du Conseil national de l’Enseignement Supérieur
+  - un représentant du Conseil national de l’Enseignement Supérieur
 
-- un représentant à désigner par le ministre
+  - un représentant à désigner par le ministre
 
-3. Groupe des autorités en rapport avec l’Ecole
+- Groupe des autorités en rapport avec l’Ecole
 
-- un représentant du Collège des Inspecteurs de l’enseignement primaire
+  - un représentant du Collège des Inspecteurs de l’enseignement primaire
 
-- un délégué du Ministre de l’Intérieur
+  - un délégué du Ministre de l’Intérieur
 
-- un représentant du Collège des Directeurs de l’enseignement secondaire
+  - un représentant du Collège des Directeurs de l’enseignement secondaire
 
-- un représentant du Collège des Directeurs de l’enseignement secondaire technique
+  - un représentant du Collège des Directeurs de l’enseignement secondaire technique
 
-- un représentant de l’enseignement supérieur
+  - un représentant de l’enseignement supérieur
 
-- un représentant de l’enseignement privé
+  - un représentant de l’enseignement privé
 
-- un délégué du Ministre de la Santé, compétent en matière de médecine scolaire
+  - un délégué du Ministre de la Santé, compétent en matière de médecine scolaire
 
-- un représentant des cultes reconnus
+  - un représentant des cultes reconnus
 
-- un représentant des communes à désigner par le Syvicol
+  - un représentant des communes à désigner par le Syvicol
 
-4. Groupe du monde économique, social, associatif et culturel
+- Groupe du monde économique, social, associatif et culturel
 
-- deux représentants du Conseil Économique et Social
+  - deux représentants du Conseil Économique et Social
 
-- deux représentants des chambres professionnelles
+  - deux représentants des chambres professionnelles
 
-- un représentant du monde associatif culturel proposé par le ministre ayant dans ses attributions la culture
+  - un représentant du monde associatif culturel proposé par le ministre ayant dans ses attributions la culture
 
-- un représentant du monde associatif sportif proposé par le ministre ayant dans ses attributions le sport
+  - un représentant du monde associatif sportif proposé par le ministre ayant dans ses attributions le sport
 
-- un représentant du monde associatif de la famille ou de la jeunesse proposé par le ministre ayant dans ses attributions la famille et le ministre ayant dans ses attributions la jeunesse
+  - un représentant du monde associatif de la famille ou de la jeunesse proposé par le ministre ayant dans ses attributions la famille et le ministre ayant dans ses attributions la jeunesse
 
-- un représentant du monde associatif de la promotion féminine proposé par le ministre ayant dans ses attributions la promotion féminine
+  - un représentant du monde associatif de la promotion féminine proposé par le ministre ayant dans ses attributions la promotion féminine
 
-- un représentant à désigner par le ministre.
+  - un représentant à désigner par le ministre.
 
 <a id="art-4"></a>
 ## Art. 4.

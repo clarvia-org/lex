@@ -40,19 +40,19 @@ Pour diminuer les émissions de dioxyde de soufre résultant de la combustion de
 
 Toutefois, les valeurs limites de la teneur en soufre fixées par le présent règlement pour certains combustibles liquides dérivés du pétrole ne s’appliquent pas aux :
 
-1. combustibles destinés à être utilisés à des fins de recherche et d’essais ;
+- combustibles destinés à être utilisés à des fins de recherche et d’essais ;
 
-2. combustibles destinés à être traités avant la combustion définitive ;
+- combustibles destinés à être traités avant la combustion définitive ;
 
-3. combustibles destinés à être traités dans les raffineries ;
+- combustibles destinés à être traités dans les raffineries ;
 
-4. combustibles utilisés par les navires de guerre et autres navires affectés à des fins militaires. Toutefois, ces navires doivent être exploités d’une manière compatible avec le présent règlement, dans la mesure où cela est raisonnable et possible et en adoptant des mesures appropriées qui n’entravent pas les opérations ou les capacités opérationnelles de tels navires ;
+- combustibles utilisés par les navires de guerre et autres navires affectés à des fins militaires. Toutefois, ces navires doivent être exploités d’une manière compatible avec le présent règlement, dans la mesure où cela est raisonnable et possible et en adoptant des mesures appropriées qui n’entravent pas les opérations ou les capacités opérationnelles de tels navires ;
 
-5. utilisations de combustibles à bord d’un navire qui sont nécessaires pour assurer la sécurité d’un navire ou pour sauver des vies humaines en mer ;
+- utilisations de combustibles à bord d’un navire qui sont nécessaires pour assurer la sécurité d’un navire ou pour sauver des vies humaines en mer ;
 
-6. utilisations de combustibles à bord d’un navire rendues nécessaires par une avarie survenue à ce navire ou à son équipement, à condition que toutes les précautions raisonnables soient prises après l’avarie pour empêcher ou réduire les émissions excédentaires et que des mesures soient adoptées dès que possible pour réparer l’avarie. Cette disposition ne s’applique pas si le propriétaire ou le capitaine a agi soit avec l’intention de provoquer un dommage, soit témérairement ;
+- utilisations de combustibles à bord d’un navire rendues nécessaires par une avarie survenue à ce navire ou à son équipement, à condition que toutes les précautions raisonnables soient prises après l’avarie pour empêcher ou réduire les émissions excédentaires et que des mesures soient adoptées dès que possible pour réparer l’avarie. Cette disposition ne s’applique pas si le propriétaire ou le capitaine a agi soit avec l’intention de provoquer un dommage, soit témérairement ;
 
-7. sans préjudice de l’article 5, combustibles utilisés à bord de navires qui emploient des méthodes de réduction des émissions conformément aux articles 8 et 9.
+- sans préjudice de l’article 5, combustibles utilisés à bord de navires qui emploient des méthodes de réduction des émissions conformément aux articles 8 et 9.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -61,53 +61,53 @@ Définitions
 
 Aux fins du présent règlement, on entend par :
 
-1. « fiouls lourds » :
+- « fiouls lourds » :
 
-1. tout combustible liquide dérivé du pétrole, à l’exclusion des combustibles marins, classé sous les codes NC 2710 19 51 à 2710 19 68, 2710 20 31, 2710 20 35, 2710 20 39 ; ou
+  - tout combustible liquide dérivé du pétrole, à l’exclusion des combustibles marins, classé sous les codes NC 2710 19 51 à 2710 19 68, 2710 20 31, 2710 20 35, 2710 20 39 ; ou
 
-2. tout combustible liquide dérivé du pétrole, autre que le gas-oil défini aux points 2) et 3), appartenant, du fait de ses limites de distillation, à la catégorie des fiouls lourds destinés à être utilisés comme combustibles et dont moins de 65 pour cent en volume (pertes comprises) distillent à 250 °C selon la méthode ASTM D86. Si la distillation ne peut pas être déterminée selon la méthode ASTM D86, le produit pétrolier est également classé dans la catégorie des fiouls lourds.
+  - tout combustible liquide dérivé du pétrole, autre que le gas-oil défini aux points 2) et 3), appartenant, du fait de ses limites de distillation, à la catégorie des fiouls lourds destinés à être utilisés comme combustibles et dont moins de 65 pour cent en volume (pertes comprises) distillent à 250 °C selon la méthode ASTM D86. Si la distillation ne peut pas être déterminée selon la méthode ASTM D86, le produit pétrolier est également classé dans la catégorie des fiouls lourds.
 
-2. « gas-oil » : tout combustible liquide dérivé du pétrole, à l’exclusion des combustibles marins, classé sous les codes NC 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17 ou 2710 20 19 ou
+- « gas-oil » : tout combustible liquide dérivé du pétrole, à l’exclusion des combustibles marins, classé sous les codes NC 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17 ou 2710 20 19 ou
 
-1. tout combustible liquide dérivé du pétrole, à l’exclusion des combustibles marins, dont moins de 65 pour cent en volume (pertes comprises) distillent à 250 °C et dont au moins 85 pour cent en volume (pertes comprises) distillent à 350 °C selon la méthode ASTM D86 ;
+  - tout combustible liquide dérivé du pétrole, à l’exclusion des combustibles marins, dont moins de 65 pour cent en volume (pertes comprises) distillent à 250 °C et dont au moins 85 pour cent en volume (pertes comprises) distillent à 350 °C selon la méthode ASTM D86 ;
 
-2. Les carburants diesel tels que définis à l’article 2, point 2 du règlement grand-ducal modifié du 16 mars 2012 concernant la qualité de l’essence et des carburants diesel et l’utilisation durable des biocarburants et modifiant le règlement grand-ducal du 21 février 2000 concernant la teneur en soufre de certains combustibles liquides sont exclus de la présente définition. Les combustibles utilisés pour les engins mobiles non routiers et les tracteurs agricoles sont également exclus de la présente définition ;
+  - Les carburants diesel tels que définis à l’article 2, point 2 du règlement grand-ducal modifié du 16 mars 2012 concernant la qualité de l’essence et des carburants diesel et l’utilisation durable des biocarburants et modifiant le règlement grand-ducal du 21 février 2000 concernant la teneur en soufre de certains combustibles liquides sont exclus de la présente définition. Les combustibles utilisés pour les engins mobiles non routiers et les tracteurs agricoles sont également exclus de la présente définition ;
 
-3. « combustible marin » : tout combustible liquide dérivé du pétrole utilisé ou destiné à être utilisé à bord d’un bateau, y compris les combustibles définis par la norme ISO 8217. Cette définition inclut tout combustible liquide dérivé du pétrole utilisé à bord d’un bateau de navigation intérieure ou d’un bateau de plaisance, tel que défini par la réglementation applicable en la matière, lorsque ces bateaux sont en mer ;
+- « combustible marin » : tout combustible liquide dérivé du pétrole utilisé ou destiné à être utilisé à bord d’un bateau, y compris les combustibles définis par la norme ISO 8217. Cette définition inclut tout combustible liquide dérivé du pétrole utilisé à bord d’un bateau de navigation intérieure ou d’un bateau de plaisance, tel que défini par la réglementation applicable en la matière, lorsque ces bateaux sont en mer ;
 
-4. « diesel marin », tout combustible marin correspondant à la définition de la qualité DMB dans le tableau I de la norme ISO 8217 exception faite de la référence à la teneur en soufre ;
+- « diesel marin », tout combustible marin correspondant à la définition de la qualité DMB dans le tableau I de la norme ISO 8217 exception faite de la référence à la teneur en soufre ;
 
-5. « gas-oil marin », tout combustible marin correspondant à la définition des qualités DMX, DMA et DMZ dans le tableau I de la norme ISO 8217, exception faite de la référence à la teneur en soufre » ;
+- « gas-oil marin », tout combustible marin correspondant à la définition des qualités DMX, DMA et DMZ dans le tableau I de la norme ISO 8217, exception faite de la référence à la teneur en soufre » ;
 
-6. « convention MARPOL », la Convention internationale de 1973 pour la prévention de la pollution par les navires, adoptée le 2 novembre 1973, et modifiée par les protocoles de 1978 et de 1997 ;
+- « convention MARPOL », la Convention internationale de 1973 pour la prévention de la pollution par les navires, adoptée le 2 novembre 1973, et modifiée par les protocoles de 1978 et de 1997 ;
 
-7. « annexe VI de la convention MARPOL », l’annexe intitulée « Règles relatives à la prévention de la pollution de l’atmosphère par les navires », qui a été ajoutée à la convention MARPOL par le protocole de 1997 ;
+- « annexe VI de la convention MARPOL », l’annexe intitulée « Règles relatives à la prévention de la pollution de l’atmosphère par les navires », qui a été ajoutée à la convention MARPOL par le protocole de 1997 ;
 
-8. « zones de contrôle des émissions de SOx », les zones maritimes définies comme telles par l’Organisation maritime internationale, ci-après « OMI », au titre de l’annexe VI de la convention MARPOL ;
+- « zones de contrôle des émissions de SOx », les zones maritimes définies comme telles par l’Organisation maritime internationale, ci-après « OMI », au titre de l’annexe VI de la convention MARPOL ;
 
-9. « navires à passagers », les navires transportant plus de douze passagers, un passager étant toute personne autre que :
+- « navires à passagers », les navires transportant plus de douze passagers, un passager étant toute personne autre que :
 
-1. le capitaine et les membres de l’équipage ou une autre personne employée ou engagée à quelque titre que ce soit à bord d’un navire et à son service ; et
+  - le capitaine et les membres de l’équipage ou une autre personne employée ou engagée à quelque titre que ce soit à bord d’un navire et à son service ; et
 
-2. un enfant âgé de moins d’un an ;
+  - un enfant âgé de moins d’un an ;
 
-10. « services réguliers », une série de traversées effectuées par un navire à passagers de manière à assurer un trafic entre les mêmes ports, ou une série de voyages à destination et en provenance du même port sans escale :
+- « services réguliers », une série de traversées effectuées par un navire à passagers de manière à assurer un trafic entre les mêmes ports, ou une série de voyages à destination et en provenance du même port sans escale :
 
-1. suivant un horaire publié ; ou
+  - suivant un horaire publié ; ou
 
-2. avec une régularité ou une fréquence assimilable à un horaire ;
+  - avec une régularité ou une fréquence assimilable à un horaire ;
 
-11. « navire de guerre », un navire qui fait partie des forces armées d’un État et porte les marques extérieures distinctives des navires militaires de sa nationalité, qui est placé sous le commandement d’un officier de marine au service de cet État et inscrit sur la liste des officiers ou un document équivalent, et dont l’équipage est soumis aux règles de la discipline militaire ;
+- « navire de guerre », un navire qui fait partie des forces armées d’un État et porte les marques extérieures distinctives des navires militaires de sa nationalité, qui est placé sous le commandement d’un officier de marine au service de cet État et inscrit sur la liste des officiers ou un document équivalent, et dont l’équipage est soumis aux règles de la discipline militaire ;
 
-12. « navires à quai », les navires qui sont amarrés ou ancrés en sécurité dans un port de l’Union européenne lors des opérations de chargement et de déchargement ou d’une simple escale, y compris lorsqu’ils ne sont pas engagés dans des opérations de manutention des marchandises ;
+- « navires à quai », les navires qui sont amarrés ou ancrés en sécurité dans un port de l’Union européenne lors des opérations de chargement et de déchargement ou d’une simple escale, y compris lorsqu’ils ne sont pas engagés dans des opérations de manutention des marchandises ;
 
-13. « mise sur le marché », la fourniture ou la mise à la disposition de tiers, en un point quelconque des zones relevant de la juridiction des États membres, contre paiement ou à titre gratuit, de combustibles marins destinés à être utilisés à bord. Ne sont visées ni la fourniture ni la mise à disposition de combustibles marins destinés à être exportés dans les citernes à cargaison d’un navire ;
+- « mise sur le marché », la fourniture ou la mise à la disposition de tiers, en un point quelconque des zones relevant de la juridiction des États membres, contre paiement ou à titre gratuit, de combustibles marins destinés à être utilisés à bord. Ne sont visées ni la fourniture ni la mise à disposition de combustibles marins destinés à être exportés dans les citernes à cargaison d’un navire ;
 
-14. « méthode de réduction des émissions », toute installation ou tout matériel, dispositif ou appareil destinés à équiper un navire, ou toute autre procédure, tout combustible de substitution ou toute méthode de mise en conformité utilisés en remplacement de combustibles marins à faible teneur en soufre répondant aux exigences du présent règlement, qui soient vérifiables, quantifiables et applicables ;
+- « méthode de réduction des émissions », toute installation ou tout matériel, dispositif ou appareil destinés à équiper un navire, ou toute autre procédure, tout combustible de substitution ou toute méthode de mise en conformité utilisés en remplacement de combustibles marins à faible teneur en soufre répondant aux exigences du présent règlement, qui soient vérifiables, quantifiables et applicables ;
 
-15. « méthode ASTM », les méthodes arrêtées par « l’American Society for Testing and Materials » dans les définitions et spécifications standards des produits lubrifiants et dérivés du pétrole dans leur édition de 1976 ;
+- « méthode ASTM », les méthodes arrêtées par « l’American Society for Testing and Materials » dans les définitions et spécifications standards des produits lubrifiants et dérivés du pétrole dans leur édition de 1976 ;
 
-16. « installation de combustion », tout dispositif technique dans lequel les combustibles sont oxydés afin d’utiliser la chaleur produite.
+- « installation de combustion », tout dispositif technique dans lequel les combustibles sont oxydés afin d’utiliser la chaleur produite.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -122,11 +122,11 @@ Les fiouls lourds dont la teneur en soufre dépasse 1 pour cent en masse ne peuv
 
 Sous réserve d’une surveillance appropriée des émissions par l’Administration de l’environnement, le paragraphe 1er ne s’applique pas aux fiouls lourds utilisés :
 
-1. dans les installations de combustion relevant du chapitre III de la loi modifiée du 9 mai 2014 relative aux émissions industrielles, qui respectent les valeurs limites d’émission de dioxyde de soufre fixées pour ces installations à l’annexe V de la directive 2010/75/UE du Parlement européen et du Conseil du 24 novembre 2010 relative aux émissions industrielles ou, lorsque ces valeurs limites d’émission ne s’appliquent pas en vertu de ladite directive, dont les émissions mensuelles moyennes de dioxyde de soufre ne dépassent pas 1.700 microgrammes par nanomètres cube pour une teneur en oxygène des gaz de fumée de 3 pour cent en volume à l’état sec ;
+- dans les installations de combustion relevant du chapitre III de la loi modifiée du 9 mai 2014 relative aux émissions industrielles, qui respectent les valeurs limites d’émission de dioxyde de soufre fixées pour ces installations à l’annexe V de la directive 2010/75/UE du Parlement européen et du Conseil du 24 novembre 2010 relative aux émissions industrielles ou, lorsque ces valeurs limites d’émission ne s’appliquent pas en vertu de ladite directive, dont les émissions mensuelles moyennes de dioxyde de soufre ne dépassent pas 1.700 microgrammes par nanomètres cube pour une teneur en oxygène des gaz de fumée de 3 pour cent en volume à l’état sec ;
 
-2. dans les installations de combustion ne relevant pas du point 1) dont les émissions mensuelles moyennes de dioxyde de soufre ne dépassent pas 1.700 microgrammes par nanomètres cube pour une teneur en oxygène des gaz de fumée de 3 pour cent en volume à l’état sec ;
+- dans les installations de combustion ne relevant pas du point 1) dont les émissions mensuelles moyennes de dioxyde de soufre ne dépassent pas 1.700 microgrammes par nanomètres cube pour une teneur en oxygène des gaz de fumée de 3 pour cent en volume à l’état sec ;
 
-3. pour la combustion dans les raffineries, si la moyenne mensuelle des émissions de dioxyde de soufre calculée pour toutes les installations de combustion de la raffinerie, indépendamment du type ou de la combinaison de combustibles utilisés, à l’exclusion des installations qui relèvent du point 1, des turbines à gaz et des moteurs à gaz, ne dépassent pas 1.700 microgrammes par nanomètres cube pour une teneur en oxygène des gaz de fumée de 3 pour cent en volume à l’état sec.
+- pour la combustion dans les raffineries, si la moyenne mensuelle des émissions de dioxyde de soufre calculée pour toutes les installations de combustion de la raffinerie, indépendamment du type ou de la combinaison de combustibles utilisés, à l’exclusion des installations qui relèvent du point 1, des turbines à gaz et des moteurs à gaz, ne dépassent pas 1.700 microgrammes par nanomètres cube pour une teneur en oxygène des gaz de fumée de 3 pour cent en volume à l’état sec.
 
 Pour toute installation de combustion utilisant du fioul lourd dont la teneur en soufre est supérieure à celle visée au paragraphe 1er, l’autorisation d’exploitation délivrée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés précise les limites d’émission prescrites.
 
@@ -146,9 +146,9 @@ Teneur maximale en soufre des combustibles marins utilisés dans les eaux territ
 
 Les combustibles marins ne peuvent pas être utilisés dans les parties des eaux territoriales, des zones économiques exclusives et des zones de prévention de la pollution d’un État membre de l’Union européenne si la teneur en soufre de ces combustibles, exprimée en pourcentage massique, dépasse :
 
-1. 3,50 pour cent à compter de l’entrée en vigueur du présent règlement ;
+- 3,50 pour cent à compter de l’entrée en vigueur du présent règlement ;
 
-2. 0,50 pour cent à compter du 1 er janvier 2020.
+- 0,50 pour cent à compter du 1 er janvier 2020.
 
 Le présent paragraphe s’applique à tous les navires battant pavillon luxembourgeois, y compris les navires dont le voyage a débuté en dehors de l’Union européenne, sans préjudice des paragraphes 2 et 4 et de l’article 6.
 
@@ -156,9 +156,9 @@ Le présent paragraphe s’applique à tous les navires battant pavillon luxembo
 
 Les combustibles marins ne peuvent pas être utilisés dans les parties des eaux territoriales, des zones économiques exclusives et des zones de prévention de la pollution d’un État membre de l’Union européenne qui relèvent des zones de contrôle des émissions de SOX si la teneur en soufre de ces combustibles, exprimée en pourcentage massique, dépasse :
 
-1. 1,00 pour cent à compter de l’entrée en vigueur du présent règlement ;
+- 1,00 pour cent à compter de l’entrée en vigueur du présent règlement ;
 
-2. 0,10 pour cent à compter du 1 er janvier 2015.
+- 0,10 pour cent à compter du 1 er janvier 2015.
 
 Le présent paragraphe s’applique à tous les navires battant pavillon luxembourgeois, y compris les navires dont le voyage a débuté en dehors de l’Union européenne.
 
@@ -178,9 +178,9 @@ Les livres de bord des navires doivent être correctement tenus, avec indication
 
 S’il est constaté qu’un navire ne satisfait pas aux normes applicables aux combustibles marins conformes au présent règlement, ce navire est tenu de :
 
-1. présenter au commissaire aux affaires maritimes un compte-rendu des mesures qu’il a prises dans le but de respecter les dispositions ; et
+- présenter au commissaire aux affaires maritimes un compte-rendu des mesures qu’il a prises dans le but de respecter les dispositions ; et
 
-2. fournir au commissaire aux affaires maritimes la preuve qu’il a cherché à acheter du combustible marin conforme au présent règlement compte tenu de son plan de voyage et que, si ce combustible n’était pas disponible à l’endroit prévu, il a essayé de trouver d’autres sources de combustible marin et que, malgré tous les efforts qu’il a faits pour se procurer du combustible marin conforme au présent règlement, il n’y en avait pas à acheter.
+- fournir au commissaire aux affaires maritimes la preuve qu’il a cherché à acheter du combustible marin conforme au présent règlement compte tenu de son plan de voyage et que, si ce combustible n’était pas disponible à l’endroit prévu, il a essayé de trouver d’autres sources de combustible marin et que, malgré tous les efforts qu’il a faits pour se procurer du combustible marin conforme au présent règlement, il n’y en avait pas à acheter.
 
 Le navire n’est pas tenu de s’écarter de la route prévue ni de retarder indûment son voyage afin de satisfaire aux dispositions.
 
@@ -207,9 +207,9 @@ L’heure à laquelle a été effectuée toute opération de changement de combu
 
 Le paragraphe 1er ne s’applique pas :
 
-1. lorsque, selon les horaires publiés, les navires doivent rester à quai moins de deux heures ;
+- lorsque, selon les horaires publiés, les navires doivent rester à quai moins de deux heures ;
 
-2. aux navires qui stoppent toutes les machines et utilisent le branchement électrique à quai lorsqu’ils sont à quai dans les ports.
+- aux navires qui stoppent toutes les machines et utilisent le branchement électrique à quai lorsqu’ils sont à quai dans les ports.
 
 (3)
 
@@ -242,19 +242,19 @@ Essais des nouvelles méthodes de réduction des émissions
 
 Le commissaire du Gouvernement aux affaires maritimes peut approuver, le cas échéant en coopération avec d’autres États membres, des essais de méthodes de réduction des émissions à bord des navires battant pavillon luxembourgeois. Au cours de ces essais, l’utilisation de combustibles marins répondant aux exigences des articles 5 et 6 n’est pas obligatoire, à condition que toutes les conditions suivantes soient réunies :
 
-1. la Commission européenne et l’État du port concerné sont prévenus par écrit au moins six mois avant le début des essais ;
+- la Commission européenne et l’État du port concerné sont prévenus par écrit au moins six mois avant le début des essais ;
 
-2. les autorisations concernant les essais n’ont pas une durée supérieure à dix-huit mois ;
+- les autorisations concernant les essais n’ont pas une durée supérieure à dix-huit mois ;
 
-3. tous les navires concernés installent des équipements inviolables pour la surveillance continue des émissions de gaz de cheminée et les utilisent tout au long de la période d’essai ;
+- tous les navires concernés installent des équipements inviolables pour la surveillance continue des émissions de gaz de cheminée et les utilisent tout au long de la période d’essai ;
 
-4. tous les navires concernés obtiennent des réductions d’émissions qui sont au moins équivalentes à celles qui seraient obtenues en appliquant les valeurs limites de teneur en soufre des combustibles spécifiées dans le présent règlement ;
+- tous les navires concernés obtiennent des réductions d’émissions qui sont au moins équivalentes à celles qui seraient obtenues en appliquant les valeurs limites de teneur en soufre des combustibles spécifiées dans le présent règlement ;
 
-5. des systèmes adéquats de gestion des déchets sont mis en place pour tous les déchets produits par les méthodes de réduction des émissions tout au long de la période d’essai ;
+- des systèmes adéquats de gestion des déchets sont mis en place pour tous les déchets produits par les méthodes de réduction des émissions tout au long de la période d’essai ;
 
-6. les incidences sur le milieu marin, en particulier les écosystèmes dans les ports et estuaires clos, font l’objet d’une évaluation tout au long de la période d’essai ; et
+- les incidences sur le milieu marin, en particulier les écosystèmes dans les ports et estuaires clos, font l’objet d’une évaluation tout au long de la période d’essai ; et
 
-7. le Commissaire du Gouvernement aux affaires maritimes transmet l’intégralité des résultats à la Commission européenne et les rend publics dans les six mois suivant la fin des essais.
+- le Commissaire du Gouvernement aux affaires maritimes transmet l’intégralité des résultats à la Commission européenne et les rend publics dans les six mois suivant la fin des essais.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -269,13 +269,13 @@ Il est procédé par échantillonnage pour vérifier que la teneur en soufre des
 
 Les méthodes suivantes d’échantillonnage, d’analyse et d’inspection du combustible marin sont utilisées :
 
-1. inspections des livres de bord des navires et des notes de livraison de soutes ; et,
+- inspections des livres de bord des navires et des notes de livraison de soutes ; et,
 
-2. le cas échéant, les méthodes d’échantillonnage et d’analyse suivantes :
+- le cas échéant, les méthodes d’échantillonnage et d’analyse suivantes :
 
-1. échantillonnage du combustible marin destiné à être utilisé à bord, lors de sa livraison aux navires, conformément aux lignes directrices pour l’échantillonnage du fioul en vue de déterminer la conformité à l’annexe VI révisée de la convention MARPOL adoptées le 17 juillet 2009 par la résolution 182(59) du comité de protection du milieu marin de l’OMI, et analyse de sa teneur en soufre ; ou
+  - échantillonnage du combustible marin destiné à être utilisé à bord, lors de sa livraison aux navires, conformément aux lignes directrices pour l’échantillonnage du fioul en vue de déterminer la conformité à l’annexe VI révisée de la convention MARPOL adoptées le 17 juillet 2009 par la résolution 182(59) du comité de protection du milieu marin de l’OMI, et analyse de sa teneur en soufre ; ou
 
-2. échantillonnage et analyse de la teneur en soufre du combustible marin destiné à être utilisé à bord et contenu dans les citernes, lorsque cela est réalisable sur les plans technique et économique, et dans les échantillons de soute scellés à bord des navires.
+  - échantillonnage et analyse de la teneur en soufre du combustible marin destiné à être utilisé à bord et contenu dans les citernes, lorsque cela est réalisable sur les plans technique et économique, et dans les échantillons de soute scellés à bord des navires.
 
 (3)
 

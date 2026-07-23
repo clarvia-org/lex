@@ -212,25 +212,25 @@ Le Président, les Vice-Présidents et membres effectifs du Conseil économique 
 
 Les Président, Vice-Présidents, membres et experts du Conseil économique et social, des délégations luxembourgeoises du Conseil consultatif économique et social de l’Union économique Benelux et du Comité économique et social de la Grande Région transfrontalière, ainsi que les membres de la délégation luxembourgeoise du Comité économique et social européen, touchent à titre de jetons de présence une allocation par séance plénière ou une commission fixée comme suit:
 
-1. Conseil économique et social Luxembourg
+- Conseil économique et social Luxembourg
 
 | Président et Rapporteur des commissions: | 0,70 points indiciaires |
 | --- | --- |
 | Membre: | 0,35 points indiciaires |
 | Expert: | 0,35 points indiciaires |
 
-1. Délégation luxembourgeoise du Comité économique et social européen
+- Délégation luxembourgeoise du Comité économique et social européen
 
 | Membre: | 0,35 points indiciaires |
 | --- | --- |
 
-1. Délégation luxembourgeoise du Conseil consultatif économique et social de l’Union économique Benelux
+- Délégation luxembourgeoise du Conseil consultatif économique et social de l’Union économique Benelux
 
 | Membre: | 0,35 points indiciaires |
 | --- | --- |
 | Expert: | 0,35 points indiciaires |
 
-1. Délégation luxembourgeoise du Comité économique et social de la Grande Région transfrontalière
+- Délégation luxembourgeoise du Comité économique et social de la Grande Région transfrontalière
 
 | Membre: | 0,35 points indiciaires |
 | --- | --- |

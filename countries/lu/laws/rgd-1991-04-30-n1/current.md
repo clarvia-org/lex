@@ -36,27 +36,27 @@ Le congé sportif institué par l’article 15 de la loi du 3 août 2005 concern
 
 Sont pris en considération pour l’octroi du congé sportif
 
-1. en ce qui concerne les sportifs d’élite et leur personnel d’encadrement
+- en ce qui concerne les sportifs d’élite et leur personnel d’encadrement
 
-- les compétitions figurant au programme officiel des Jeux Olympiques et Jeux Paralympiques d’été et d’hiver ainsi que celles des programmes de démonstration autorisés par le Comité International Olympique;
+  - les compétitions figurant au programme officiel des Jeux Olympiques et Jeux Paralympiques d’été et d’hiver ainsi que celles des programmes de démonstration autorisés par le Comité International Olympique;
 
-- les compétitions mondiales et européennes organisées par les fédérations internationales compétentes ou avec leur coopération et réservées, sur le plan individuel ou collectif, aux sélections ou équipes nationales des catégories d’âge auxquelles elles s’adressent;
+  - les compétitions mondiales et européennes organisées par les fédérations internationales compétentes ou avec leur coopération et réservées, sur le plan individuel ou collectif, aux sélections ou équipes nationales des catégories d’âge auxquelles elles s’adressent;
 
-- les compétitions internationales comprenant tant les phases finales que qualificatives et les stages auxquels les sportifs d’élite sont inscrits par le comité olympique et sportif luxembourgeois ou leur fédération et qui ont pour but d’améliorer leurs performances et de parfaire leur préparation;
+  - les compétitions internationales comprenant tant les phases finales que qualificatives et les stages auxquels les sportifs d’élite sont inscrits par le comité olympique et sportif luxembourgeois ou leur fédération et qui ont pour but d’améliorer leurs performances et de parfaire leur préparation;
 
-2. en ce qui concerne les juges et arbitres
+- en ce qui concerne les juges et arbitres
 
-- les compétitions et stages définis sous A),
+  - les compétitions et stages définis sous A),
 
-- les formations internationales aux diplômes des degrés supérieurs.
+  - les formations internationales aux diplômes des degrés supérieurs.
 
-3. pour les dirigeants techniques et administratifs
+- pour les dirigeants techniques et administratifs
 
-- la participation aux réunions, au plan mondial ou européen, des organes, commissions ou groupes de travail statutaires des fédérations sportives internationales, du mouvement olympique, des instances sportives intergouvernementales et des organisations sportives non gouvernementales;
+  - la participation aux réunions, au plan mondial ou européen, des organes, commissions ou groupes de travail statutaires des fédérations sportives internationales, du mouvement olympique, des instances sportives intergouvernementales et des organisations sportives non gouvernementales;
 
-- l’organisation au Grand-Duché de Luxembourg des manifestations sportives officielles au plan mondial ou européen et de réunions prévues à l’alinéa précédent;
+  - l’organisation au Grand-Duché de Luxembourg des manifestations sportives officielles au plan mondial ou européen et de réunions prévues à l’alinéa précédent;
 
-- la participation à des cours de perfectionnement pour dirigeants techniques et administratifs organisés au plan mondial ou européen.
+  - la participation à des cours de perfectionnement pour dirigeants techniques et administratifs organisés au plan mondial ou européen.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -120,13 +120,13 @@ Cette demande doit contenir
 
 En outre cette demande doit indiquer
 
-1. pour le personnel d’encadrement:
+- pour le personnel d’encadrement:
 
-- une spécification de ses fonctions techniques ou administratives;
+  - une spécification de ses fonctions techniques ou administratives;
 
-- une justification de la nécessité de ses services dans l’intérêt d’un ou plusieurs sportifs d’élite;
+  - une justification de la nécessité de ses services dans l’intérêt d’un ou plusieurs sportifs d’élite;
 
-2. pour le dirigeant une spécification de ses fonctions administratives ou techniques au sein de l’organisme demandeur.
+- pour le dirigeant une spécification de ses fonctions administratives ou techniques au sein de l’organisme demandeur.
 
 <a id="art-9"></a>
 ## Art. 9.

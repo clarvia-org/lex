@@ -38,9 +38,9 @@ La présente loi s'applique à tous les types de piles et d'accumulateurs, quels
 
 La présente loi ne s'applique pas aux piles et accumulateurs utilisés dans:
 
-1. les équipements liés à la protection des intérêts essentiels de la sécurité nationale, les armes, les munitions et le matériel de guerre, à l'exception des produits qui ne sont pas destinés à des fins spécifiquement militaires;
+- les équipements liés à la protection des intérêts essentiels de la sécurité nationale, les armes, les munitions et le matériel de guerre, à l'exception des produits qui ne sont pas destinés à des fins spécifiquement militaires;
 
-2. les équipements destinés à être lancés dans l'espace.
+- les équipements destinés à être lancés dans l'espace.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -49,33 +49,33 @@ Définitions
 
 Au sens de la présente loi, on entend par:
 
-1. «pile» ou «accumulateur», toute source d'énergie électrique obtenue par transformation directe d'énergie chimique, constituée d'un ou de plusieurs éléments primaires (non rechargeables) ou d'un ou de plusieurs éléments secondaires (rechargeables);
+- «pile» ou «accumulateur», toute source d'énergie électrique obtenue par transformation directe d'énergie chimique, constituée d'un ou de plusieurs éléments primaires (non rechargeables) ou d'un ou de plusieurs éléments secondaires (rechargeables);
 
-2. «assemblage - batteries», toute série de piles ou d'accumulateurs interconnectés et/ou enfermés dans un boîtier pour former une seule et même unité complète que l'utilisateur final n'est pas censé démanteler ou ouvrir;
+- «assemblage - batteries», toute série de piles ou d'accumulateurs interconnectés et/ou enfermés dans un boîtier pour former une seule et même unité complète que l'utilisateur final n'est pas censé démanteler ou ouvrir;
 
-3. «pile ou accumulateur portable», toute pile, pile bouton, assemblage en batterie ou accumulateur qui
+- «pile ou accumulateur portable», toute pile, pile bouton, assemblage en batterie ou accumulateur qui
 
-1. est scellé;
+  - est scellé;
 
-2. peut être porté à la main;
+  - peut être porté à la main;
 
-3. n'est pas une pile ou un accumulateur industriel, ni une pile ou un accumulateur automobile;
+  - n'est pas une pile ou un accumulateur industriel, ni une pile ou un accumulateur automobile;
 
-4. «pile bouton», toute pile ou accumulateur portable de petite taille et de forme ronde, dont le diamètre est plus grand que la hauteur et qui est utilisé pour des applications spéciales telles que les appareils auditifs, les montres, les petits appareils portatifs ou comme source d'énergie de réserve;
+- «pile bouton», toute pile ou accumulateur portable de petite taille et de forme ronde, dont le diamètre est plus grand que la hauteur et qui est utilisé pour des applications spéciales telles que les appareils auditifs, les montres, les petits appareils portatifs ou comme source d'énergie de réserve;
 
-5. «pile ou accumulateur automobile», toute pile ou accumulateur destiné à alimenter les systèmes de démarrage, d'éclairage ou d'allumage;
+- «pile ou accumulateur automobile», toute pile ou accumulateur destiné à alimenter les systèmes de démarrage, d'éclairage ou d'allumage;
 
-6. «pile ou accumulateur industriel», toute pile ou accumulateur conçu à des fins exclusivement industrielles ou professionnelles ou utilisé dans tout type de véhicule électrique;
+- «pile ou accumulateur industriel», toute pile ou accumulateur conçu à des fins exclusivement industrielles ou professionnelles ou utilisé dans tout type de véhicule électrique;
 
 (Loi du 3 décembre 2014)
 
 déchet de pile ou d'accumulateur», toute pile ou tout accumulateur qui constitue un déchet au sens de l'article 4, point (1) de la loi du 21 mars 2012 relative aux déchets, dénommée ci-après «loi du 21 mars 2012» ;
 
-1. «recyclage», le retraitement dans un processus de production des matières contenues dans les déchets, aux mêmes fins qu'à l'origine ou à d'autres fins, mais à l'exclusion de la valorisation énergétique;
+- «recyclage», le retraitement dans un processus de production des matières contenues dans les déchets, aux mêmes fins qu'à l'origine ou à d'autres fins, mais à l'exclusion de la valorisation énergétique;
 
 (Loi du 3 décembre 2014) «élimination», une des opérations applicables dont la liste figure à l'annexe I de la loi du 21 mars 2012; ;
 
-1. «traitement», toute activité effectuée sur des déchets de piles et d'accumulateurs après que ceux- ci ont été remis à une installation de tri, de préparation au recyclage ou de préparation à l'élimination;
+- «traitement», toute activité effectuée sur des déchets de piles et d'accumulateurs après que ceux- ci ont été remis à une installation de tri, de préparation au recyclage ou de préparation à l'élimination;
 
 (Loi du 3 décembre 2014)
 
@@ -83,9 +83,9 @@ déchet de pile ou d'accumulateur», toute pile ou tout accumulateur qui constit
 
 (Loi du 3 décembre 2014) «centre national de regroupement», le ou les entrepôts pour déchets problématiques dont question à l'article 4, point 10) de la loi du 21 mars 2012;
 
-1. «ministre», le membre du gouvernement ayant l'environnement dans ses attributions;
+- «ministre», le membre du gouvernement ayant l'environnement dans ses attributions;
 
-2. «administration», l'administration de l'environnement.
+- «administration», l'administration de l'environnement.
 
 (Loi du 3 décembre 2014)
 
@@ -131,19 +131,19 @@ Reprise et collecte sélective
 
 En vue d'optimiser la collecte séparée des déchets de piles et d'accumulateurs et partant d'atteindre un niveau élevé de recyclage de tous les déchets de piles et d'accumulateurs, la reprise et la collecte sélective de ces déchets sont soumises aux conditions suivantes:
 
-1.
+-
 
-1. La collecte des déchets de piles et d'accumulateurs portables se fait au moyen des infrastructures publiques existantes de collecte sélective des déchets problématiques;
+  - La collecte des déchets de piles et d'accumulateurs portables se fait au moyen des infrastructures publiques existantes de collecte sélective des déchets problématiques;
 
-2. Les distributeurs, lorsqu'ils fournissent des piles ou des accumulateurs portables, sont tenus de reprendre gratuitement les déchets de piles ou d'accumulateurs portables;
+  - Les distributeurs, lorsqu'ils fournissent des piles ou des accumulateurs portables, sont tenus de reprendre gratuitement les déchets de piles ou d'accumulateurs portables;
 
-3. Les distributeurs mentionnés au point b) sont autorisés à remettre gratuitement les déchets ainsi collectés respectivement aux points de collecte sélective faisant partie des infrastructures dont question au point a) et au centre national de regroupement;
+  - Les distributeurs mentionnés au point b) sont autorisés à remettre gratuitement les déchets ainsi collectés respectivement aux points de collecte sélective faisant partie des infrastructures dont question au point a) et au centre national de regroupement;
 
-4. Les producteurs, sur base individuelle ou collective, peuvent organiser et exploiter des systèmes de collecte alternatifs ou complémentaires aux infrastructures publiques mentionnées aux points a) et c), sous réserve que ces systèmes garantissent la même couverture territoriale et au moins la même fréquence de collecte.
+  - Les producteurs, sur base individuelle ou collective, peuvent organiser et exploiter des systèmes de collecte alternatifs ou complémentaires aux infrastructures publiques mentionnées aux points a) et c), sous réserve que ces systèmes garantissent la même couverture territoriale et au moins la même fréquence de collecte.
 
-5. Les systèmes de collecte et de reprise ne doivent pas entraîner de frais pour l'utilisateur final, lorsqu'il se défait de piles ou d'accumulateurs portables ni d'obligation d'acheter de nouvelles piles ou de nouveaux accumulateurs.
+  - Les systèmes de collecte et de reprise ne doivent pas entraîner de frais pour l'utilisateur final, lorsqu'il se défait de piles ou d'accumulateurs portables ni d'obligation d'acheter de nouvelles piles ou de nouveaux accumulateurs.
 
-2. Les producteurs de piles et d'accumulateurs industriels, individuellement ou collectivement, ou des tiers agissant pour leur compte, ne peuvent pas refuser de reprendre aux utilisateurs finals les déchets de piles et d'accumulateurs industriels, quelles que soient leur composition chimique et leur origine. Des tiers indépendants peuvent également collecter les piles et accumulateurs industriels.
+- Les producteurs de piles et d'accumulateurs industriels, individuellement ou collectivement, ou des tiers agissant pour leur compte, ne peuvent pas refuser de reprendre aux utilisateurs finals les déchets de piles et d'accumulateurs industriels, quelles que soient leur composition chimique et leur origine. Des tiers indépendants peuvent également collecter les piles et accumulateurs industriels.
 
 Le ministre peut obliger les producteurs à recourir aux infrastructures de collecte publiques, lorsque les quantités spécifiques exprimées en g par habitant et par an deviennent inférieures aux quantités spécifiques constatées au moment de l'entrée en vigueur de la présente loi;
 
@@ -153,11 +153,11 @@ Le ministre peut obliger les producteurs à recourir aux infrastructures de coll
 
 Le transfert des déchets de piles et d'accumulateurs collectés doit se faire dans le respect de la réglementation applicable en la matière.
 
-1. Les producteurs de piles et d'accumulateurs automobiles, individuellement ou collectivement, ou des tiers agissant pour leur compte,
+- Les producteurs de piles et d'accumulateurs automobiles, individuellement ou collectivement, ou des tiers agissant pour leur compte,
 
-- recourent aux infrastructures dont question au paragraphe 1 er ) a) et/ou
+  - recourent aux infrastructures dont question au paragraphe 1 er ) a) et/ou
 
-- mettent en place ou assurent la disponibilité de systèmes de collecte des déchets de piles et d'accumulateurs automobiles auprès de l'utilisateur final ou dans des points de collecte accessibles et proches de celui-ci, lorsque la collecte n'est pas effectuée dans le cadre des systèmes de reprise visés par la réglementation relative aux véhicules hors d'usage et à condition que ces systèmes garantissent des résultats équivalents à ceux mentionnés au premier tiret.
+  - mettent en place ou assurent la disponibilité de systèmes de collecte des déchets de piles et d'accumulateurs automobiles auprès de l'utilisateur final ou dans des points de collecte accessibles et proches de celui-ci, lorsque la collecte n'est pas effectuée dans le cadre des systèmes de reprise visés par la réglementation relative aux véhicules hors d'usage et à condition que ces systèmes garantissent des résultats équivalents à ceux mentionnés au premier tiret.
 
 (Loi du 21 mars 2012)
 
@@ -200,9 +200,9 @@ Traitement et recyclage
 
 Au plus tard le 26 septembre 2009, les producteurs, agissant individuellement ou collectivement, ou les tiers agissant pour leur compte,
 
-1. mettent en place ou assurent la disponibilité de systèmes utilisant les meilleures techniques disponibles, en termes de protection de la santé et de l'environnement, afin d'assurer le traitement et le recyclage des déchets de piles et d'accumulateurs;
+- mettent en place ou assurent la disponibilité de systèmes utilisant les meilleures techniques disponibles, en termes de protection de la santé et de l'environnement, afin d'assurer le traitement et le recyclage des déchets de piles et d'accumulateurs;
 
-2. sont tenus de soumettre toutes les piles et tous les accumulateurs identifiables collectés conformément à l'article 7 de la présente loi ou à la réglementation relative aux déchets des équipements électriques et électroniques ainsi qu'à la limitation d'emploi de certains de leurs composants dangereux, à un traitement et à un recyclage par le biais de systèmes qui soient conformes, au moins, à la législation, notamment en ce qui concerne la santé, la sécurité et la gestion des déchets.
+- sont tenus de soumettre toutes les piles et tous les accumulateurs identifiables collectés conformément à l'article 7 de la présente loi ou à la réglementation relative aux déchets des équipements électriques et électroniques ainsi qu'à la limitation d'emploi de certains de leurs composants dangereux, à un traitement et à un recyclage par le biais de systèmes qui soient conformes, au moins, à la législation, notamment en ce qui concerne la santé, la sécurité et la gestion des déchets.
 
 2)
 
@@ -256,9 +256,9 @@ Financement
 
 Les producteurs, individuellement ou collectivement, ou les tiers agissant pour leur compte, assurent le financement de tous les coûts nets induits par:
 
-1. les opérations de collecte, de traitement et de recyclage de tous les déchets de piles et d'accumulateurs portables collectés conformément à l'article 7, paragraphe 1 er ); et
+- les opérations de collecte, de traitement et de recyclage de tous les déchets de piles et d'accumulateurs portables collectés conformément à l'article 7, paragraphe 1 er ); et
 
-2. les opérations de collecte, de traitement et de recyclage de tous les déchets de piles et d'accumulateurs industriels et automobiles collectés conformément à l'article 7, paragraphes 2) et 3).
+- les opérations de collecte, de traitement et de recyclage de tous les déchets de piles et d'accumulateurs industriels et automobiles collectés conformément à l'article 7, paragraphes 2) et 3).
 
 2)
 
@@ -310,15 +310,15 @@ Information de l'utilisateur final
 
 Les utilisateurs des piles et accumulateurs obtiennent de la part respectivement des producteurs, des distributeurs et de l'administration des informations sur:
 
-1. les effets potentiels des substances utilisées dans les piles et les accumulateurs sur l'environnement et la santé humaine;
+- les effets potentiels des substances utilisées dans les piles et les accumulateurs sur l'environnement et la santé humaine;
 
-2. l'intérêt de ne pas éliminer les déchets de piles et d'accumulateurs comme des déchets ménagers non triés et de prendre part à leur collecte séparée de manière à en faciliter le traitement et le recyclage;
+- l'intérêt de ne pas éliminer les déchets de piles et d'accumulateurs comme des déchets ménagers non triés et de prendre part à leur collecte séparée de manière à en faciliter le traitement et le recyclage;
 
-3. les systèmes de collecte et de recyclage mis à leur disposition;
+- les systèmes de collecte et de recyclage mis à leur disposition;
 
-4. le rôle qu'ils ont à jouer dans le recyclage des déchets de piles et d'accumulateurs;
+- le rôle qu'ils ont à jouer dans le recyclage des déchets de piles et d'accumulateurs;
 
-5. la signification du symbole de la poubelle sur roues barrée d'une croix figurant à l'annexe II et des symboles chimiques Hg, Cd et Pb.
+- la signification du symbole de la poubelle sur roues barrée d'une croix figurant à l'annexe II et des symboles chimiques Hg, Cd et Pb.
 
 2)
 
@@ -333,26 +333,26 @@ Informations spécifiques
 
 Les rapports annuels à fournir à l'Administration de l'environnement par les producteurs, distributeurs, les tiers agissant pour leur compte ou l'organisme agréé sont ceux mentionnés à l'article 35, paragraphe (2) de la loi du 21 mars 2012 relative aux déchets.
 
-1. Les producteurs fournissant des piles et accumulateurs par communication à distance délivrent des informations sur les quantités et les catégories de piles et accumulateurs mis sur le marché luxembourgeois.
+- Les producteurs fournissant des piles et accumulateurs par communication à distance délivrent des informations sur les quantités et les catégories de piles et accumulateurs mis sur le marché luxembourgeois.
 
 <a id="art-20"></a>
 ## Art. 20.
 
 Marquage
 
-1. Toutes les piles, tous les accumulateurs et assemblages en batteries sont marqués du symbole figurant à l'annexe II.
+- Toutes les piles, tous les accumulateurs et assemblages en batteries sont marqués du symbole figurant à l'annexe II.
 
 (Loi du 3 décembre 2014)
 
 Au plus tard le 26 septembre 2009, la capacité de tous les accumulateurs et piles portables et de tous les accumulateurs et piles automobiles doit être indiquée sur ceux-ci de façon visible, lisible et indélébile.
 
-1. Les piles, accumulateurs et piles bouton contenant plus de 0,0005% de mercure, plus de 0,002% de cadmium ou plus de 0,004% de plomb, sont marqués du symbole chimique du métal correspondant: Hg, Cd ou Pb. Le symbole indiquant la teneur en métal lourd est imprimé sous le symbole figurant à l'annexe II et couvre une surface égale à au moins 25% de la surface couverte par ce dernier symbole.
+- Les piles, accumulateurs et piles bouton contenant plus de 0,0005% de mercure, plus de 0,002% de cadmium ou plus de 0,004% de plomb, sont marqués du symbole chimique du métal correspondant: Hg, Cd ou Pb. Le symbole indiquant la teneur en métal lourd est imprimé sous le symbole figurant à l'annexe II et couvre une surface égale à au moins 25% de la surface couverte par ce dernier symbole.
 
-2. Le symbole figurant à l'annexe II couvre au moins 3% de la surface du côté le plus grand de la pile, de l'accumulateur ou de l'assemblage en batterie, sans dépasser les dimensions de 5 cm x 5 cm. Pour les éléments cylindriques, le symbole couvre au moins 1,5% de la surface de la pile ou de l'accumulateur, sans dépasser les dimensions de 5 cm x 5 cm.
+- Le symbole figurant à l'annexe II couvre au moins 3% de la surface du côté le plus grand de la pile, de l'accumulateur ou de l'assemblage en batterie, sans dépasser les dimensions de 5 cm x 5 cm. Pour les éléments cylindriques, le symbole couvre au moins 1,5% de la surface de la pile ou de l'accumulateur, sans dépasser les dimensions de 5 cm x 5 cm.
 
-3. Si la taille de la pile, de l'accumulateur ou de l'assemblage en batterie est telle que la surface du symbole serait inférieure à 0,5 cm x 0,5 cm, le marquage de la pile, de l'accumulateur ou de l'assemblage en batterie n'est pas exigé, mais un symbole d'au moins 1 cm x 1 cm est imprimé sur l'emballage.
+- Si la taille de la pile, de l'accumulateur ou de l'assemblage en batterie est telle que la surface du symbole serait inférieure à 0,5 cm x 0,5 cm, le marquage de la pile, de l'accumulateur ou de l'assemblage en batterie n'est pas exigé, mais un symbole d'au moins 1 cm x 1 cm est imprimé sur l'emballage.
 
-4. Les symboles sont imprimés de façon visible, lisible et indélébile.
+- Les symboles sont imprimés de façon visible, lisible et indélébile.
 
 (Loi du 21 mars 2012)
 
@@ -418,8 +418,8 @@ Dispositions modificatives
 
 La loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets est modifiée comme suit:
 
-1. L'article 25 alinéa 1 de la loi est modifié pour avoir la teneur suivante: Les infractions à la présente loi, à ses règlements d'exécution ainsi qu'aux règlements communautaires en matière de déchets sont constatées et recherchées par les agents de l'Administration des douanes et accises ainsi que par le directeur, les directeurs adjoints et les fonctionnaires de la carrière des ingénieurs et des ingénieurs- techniciens de l'administration de l'environnement .
+- L'article 25 alinéa 1 de la loi est modifié pour avoir la teneur suivante: Les infractions à la présente loi, à ses règlements d'exécution ainsi qu'aux règlements communautaires en matière de déchets sont constatées et recherchées par les agents de l'Administration des douanes et accises ainsi que par le directeur, les directeurs adjoints et les fonctionnaires de la carrière des ingénieurs et des ingénieurs- techniciens de l'administration de l'environnement .
 
-2. L'article 35 alinéa 1 de la loi est complété par la phrase suivante: Il en est de même des infractions commises aux prescriptions des articles 3, 4, 5, 6, 9, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 34, 35, 36, 38, 39, 40, 41, 42, 43, 45, 46, 47, 48 et 49 du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets».
+- L'article 35 alinéa 1 de la loi est complété par la phrase suivante: Il en est de même des infractions commises aux prescriptions des articles 3, 4, 5, 6, 9, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 34, 35, 36, 38, 39, 40, 41, 42, 43, 45, 46, 47, 48 et 49 du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets».
 
-3. L'article 36 bis de la loi est remplacé comme suit: Art. 36bis. Mesures administratives 1. En cas de non-respect des dispositions des articles 7, 8, 9, 10 et 11 de la présente loi, le Ministre peut, impartir à l'exploitant d'un établissement ou à un producteur ou un détenteur, importateur ou distributeur un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans; et, en cas de non-respect du délai de mise en conformité, faire suspendre, après une mise en demeure, en tout ou en partie l'exploitation de l'établissement ou les travaux de chantier par mesure provisoire ou faire fermer l'établissement ou le chantier en tout ou en partie et apposer des scellés. 2. Tout intéressé peut demander l'application des mesures visées au paragraphe 1er. 3. Les mesures prises par le ministre en vertu du paragraphe 1er sont susceptibles d'un recours devant le tribunal administratif qui statue comme juge du fond. Ce recours doit être introduit sous peine de déchéance dans les quarante jours de la notification de la décision. Les mesures énumérées au paragraphe 1er sont levées lorsque l'exploitant d'un établissement, le producteur ou le détenteur, l'importateur ou le distributeur se sera conformé.
+- L'article 36 bis de la loi est remplacé comme suit: Art. 36bis. Mesures administratives 1. En cas de non-respect des dispositions des articles 7, 8, 9, 10 et 11 de la présente loi, le Ministre peut, impartir à l'exploitant d'un établissement ou à un producteur ou un détenteur, importateur ou distributeur un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans; et, en cas de non-respect du délai de mise en conformité, faire suspendre, après une mise en demeure, en tout ou en partie l'exploitation de l'établissement ou les travaux de chantier par mesure provisoire ou faire fermer l'établissement ou le chantier en tout ou en partie et apposer des scellés. 2. Tout intéressé peut demander l'application des mesures visées au paragraphe 1er. 3. Les mesures prises par le ministre en vertu du paragraphe 1er sont susceptibles d'un recours devant le tribunal administratif qui statue comme juge du fond. Ce recours doit être introduit sous peine de déchéance dans les quarante jours de la notification de la décision. Les mesures énumérées au paragraphe 1er sont levées lorsque l'exploitant d'un établissement, le producteur ou le détenteur, l'importateur ou le distributeur se sera conformé.

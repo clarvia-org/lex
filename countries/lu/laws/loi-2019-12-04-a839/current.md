@@ -46,23 +46,23 @@ Définitions
 
 Aux fins de la présente loi, on entend par :
 
-1. « activité concurrentielle » : toute activité correspondant aux missions de l’ODL susceptible d’entrer en concurrence avec des activités de même nature déployées par des acteurs privés et considérée comme telle par les réglementations de l’Union européenne applicables aux activités visées par la présente loi ;
+- « activité concurrentielle » : toute activité correspondant aux missions de l’ODL susceptible d’entrer en concurrence avec des activités de même nature déployées par des acteurs privés et considérée comme telle par les réglementations de l’Union européenne applicables aux activités visées par la présente loi ;
 
-2. « activité non concurrentielle » : toute activité correspondant aux missions de l’ODL autre que celle définie au point 1°;
+- « activité non concurrentielle » : toute activité correspondant aux missions de l’ODL autre que celle définie au point 1°;
 
-3. « bénéficiaire » : toute entité bénéficiant de l’une des prestations assurées par l’ODL décrites aux articles 8 et 10 ;
+- « bénéficiaire » : toute entité bénéficiant de l’une des prestations assurées par l’ODL décrites aux articles 8 et 10 ;
 
-4. « coassurance » : l’assurance d’un risque par une pluralité d’assureurs chacun assumant une quote-part du risque global ;
+- « coassurance » : l’assurance d’un risque par une pluralité d’assureurs chacun assumant une quote-part du risque global ;
 
-5. « entreprise d’assurance » : une entreprise, publique ou privée, dont l’activité consiste à offrir des assurances directes vie ou non vie ;
+- « entreprise d’assurance » : une entreprise, publique ou privée, dont l’activité consiste à offrir des assurances directes vie ou non vie ;
 
-6. « entreprise exportatrice » : tout organisme exerçant une activité économique impliquant la vente de biens ou la prestation de services en dehors de son pays d’établissement ;
+- « entreprise exportatrice » : tout organisme exerçant une activité économique impliquant la vente de biens ou la prestation de services en dehors de son pays d’établissement ;
 
-7. « entreprise importatrice » : tout organisme exerçant une activité économique impliquant l’achat de biens ou de services en dehors de son pays d’établissement ;
+- « entreprise importatrice » : tout organisme exerçant une activité économique impliquant l’achat de biens ou de services en dehors de son pays d’établissement ;
 
-8. « réassurance » : assurance cédée par un assureur à un autre assureur dans le but de réduire sa propre exposition ;
+- « réassurance » : assurance cédée par un assureur à un autre assureur dans le but de réduire sa propre exposition ;
 
-9. « risque » : toute exposition à une perte économique liée à l’activité d’importation ou d’exportation de biens ou la prestation de services ou des investissements à l’étranger.
+- « risque » : toute exposition à une perte économique liée à l’activité d’importation ou d’exportation de biens ou la prestation de services ou des investissements à l’étranger.
 
 ##### Section 1re Généralités
 
@@ -118,11 +118,11 @@ Activités
 
 L’ODL peut réaliser toutes prestations et opérations commerciales, financières, industrielles, immobilières et mobilières se rattachant à ses missions ou qui sont de nature à promouvoir son développement. Il peut :
 
-1. passer toutes conventions, subroger des tiers dans des créances, céder celles-ci ou en disposer de toute autre manière ; accorder toutes prorogations ou renouvellements de garanties ; accepter tous arrangements, même concordataires, transiger et compromettre, abandonner toutes créances et sûretés, renoncer à tous recours ;
+- passer toutes conventions, subroger des tiers dans des créances, céder celles-ci ou en disposer de toute autre manière ; accorder toutes prorogations ou renouvellements de garanties ; accepter tous arrangements, même concordataires, transiger et compromettre, abandonner toutes créances et sûretés, renoncer à tous recours ;
 
-2. conclure avec des entreprises d’assurance, ainsi qu’avec des organismes internationaux, toute convention jugée utile pour la réalisation de ses missions et des traités de réassurance ou de coassurance ;
+- conclure avec des entreprises d’assurance, ainsi qu’avec des organismes internationaux, toute convention jugée utile pour la réalisation de ses missions et des traités de réassurance ou de coassurance ;
 
-3. effectuer tous investissements nécessaires ou utiles à la réalisation de ses missions et posséder des parts d’associés ou des participations, quelle qu’en soit la forme, dans une ou plusieurs sociétés commerciales ou à forme commerciale ou dans une ou plusieurs associations en participation, ayant des activités similaires ou complémentaires aux siennes.
+- effectuer tous investissements nécessaires ou utiles à la réalisation de ses missions et posséder des parts d’associés ou des participations, quelle qu’en soit la forme, dans une ou plusieurs sociétés commerciales ou à forme commerciale ou dans une ou plusieurs associations en participation, ayant des activités similaires ou complémentaires aux siennes.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -160,11 +160,11 @@ Prestations fournies dans les activités non concurrentielles
 
 L’ODL peut accorder :
 
-1. une couverture de tous risques encourus par les entreprises exportatrices et importatrices dans le cadre de leur activité d’exportation ou d’importation ;
+- une couverture de tous risques encourus par les entreprises exportatrices et importatrices dans le cadre de leur activité d’exportation ou d’importation ;
 
-2. une couverture de risques propre à faciliter l’accès des entreprises exportatrices ou importatrices ou de leurs partenaires commerciaux à des financements bancaires ;
+- une couverture de risques propre à faciliter l’accès des entreprises exportatrices ou importatrices ou de leurs partenaires commerciaux à des financements bancaires ;
 
-3. une couverture des risques liés aux investissements à l’étranger.
+- une couverture des risques liés aux investissements à l’étranger.
 
 (2)
 
@@ -183,9 +183,9 @@ Modes d’exercice des activités non-concurrentielles
 
 L’ODL exerce pour compte de l’État :
 
-1. les prestations mentionnées à l’article 8, paragraphes 2 et 3 ;
+- les prestations mentionnées à l’article 8, paragraphes 2 et 3 ;
 
-2. les prestations mentionnées à l’article 8, paragraphe 1 er , qui comportent des risques dont la gravité et la durée dépassent ses possibilités techniques, mais dont l’opportunité est constatée par le Gouvernement en conseil.
+- les prestations mentionnées à l’article 8, paragraphe 1 er , qui comportent des risques dont la gravité et la durée dépassent ses possibilités techniques, mais dont l’opportunité est constatée par le Gouvernement en conseil.
 
 (2)
 
@@ -295,47 +295,47 @@ Attributions du conseil d’administration
 
 Le conseil d’administration exerce les attributions suivantes :
 
-1. il approuve le budget et arrête les comptes annuels ;
+- il approuve le budget et arrête les comptes annuels ;
 
-2. il décide de toute augmentation du capital visée à l’article 30, paragraphe 2 ;
+- il décide de toute augmentation du capital visée à l’article 30, paragraphe 2 ;
 
-3. il adopte le règlement d’ordre intérieur de l’ODL ;
+- il adopte le règlement d’ordre intérieur de l’ODL ;
 
-4. il définit la politique générale ;
+- il définit la politique générale ;
 
-5. il décide de tous les investissements nécessaires ou utiles à la réalisation des missions de l’ODL et la possibilité de posséder, ou de céder, des parts d’associés ou des participations, qu’elle qu’en soit la forme, dans une ou plusieurs sociétés commerciales ou à forme commerciale ou dans une ou plusieurs associations en participation, ayant des activités similaires ou complémentaires aux siennes ;
+- il décide de tous les investissements nécessaires ou utiles à la réalisation des missions de l’ODL et la possibilité de posséder, ou de céder, des parts d’associés ou des participations, qu’elle qu’en soit la forme, dans une ou plusieurs sociétés commerciales ou à forme commerciale ou dans une ou plusieurs associations en participation, ayant des activités similaires ou complémentaires aux siennes ;
 
-6. il décide des acquisitions, aliénations et échanges de biens ou de droits immobiliers ;
+- il décide des acquisitions, aliénations et échanges de biens ou de droits immobiliers ;
 
-7. il accepte ou refuse les dons et les legs faits au profit de l’ODL ;
+- il accepte ou refuse les dons et les legs faits au profit de l’ODL ;
 
-8. il engage le directeur général et le directeur général adjoint et en contrôle les actes et la gestion, et procède, le cas échéant, à leur licenciement ;
+- il engage le directeur général et le directeur général adjoint et en contrôle les actes et la gestion, et procède, le cas échéant, à leur licenciement ;
 
-9. il propose le réviseur d’entreprises ;
+- il propose le réviseur d’entreprises ;
 
-10. il approuve les conventions à conclure pour la réalisation des missions de l’ODL prévu à l’article 5, paragraphe 1 er , autres que les contrats de prestation visés à l’article 7, paragraphe 1 er ;
+- il approuve les conventions à conclure pour la réalisation des missions de l’ODL prévu à l’article 5, paragraphe 1 er , autres que les contrats de prestation visés à l’article 7, paragraphe 1 er ;
 
-11. il définit la politique de placement financier de l’ODL ;
+- il définit la politique de placement financier de l’ODL ;
 
-12. il détermine la clé de répartition comptable pour les frais de fonctionnement de l’ODL ;
+- il détermine la clé de répartition comptable pour les frais de fonctionnement de l’ODL ;
 
-13. il décide des actions judiciaires ;
+- il décide des actions judiciaires ;
 
-14. il arrête l’organisation administrative et fonctionnelle, l’organigramme, la grille des emplois ainsi que les conditions et modalités de rémunération du personnel. Il arrête les indemnités du personnel, qui peuvent prendre la forme de primes ;
+- il arrête l’organisation administrative et fonctionnelle, l’organigramme, la grille des emplois ainsi que les conditions et modalités de rémunération du personnel. Il arrête les indemnités du personnel, qui peuvent prendre la forme de primes ;
 
-15. il décide dans le cadre des dossiers pour lesquels aucune décision n’a pu être prise par la direction ;
+- il décide dans le cadre des dossiers pour lesquels aucune décision n’a pu être prise par la direction ;
 
-16. il approuve le rapport sur la gestion annuelle de l’ODL et le présente au ministre ;
+- il approuve le rapport sur la gestion annuelle de l’ODL et le présente au ministre ;
 
-17. il approuve tous actes et exerce toutes autres attributions dont il est chargé par des lois ;
+- il approuve tous actes et exerce toutes autres attributions dont il est chargé par des lois ;
 
-18. il établit les conditions générales d’octroi des prestations que respecte la direction lorsqu’elle accorde de telles prestations à un bénéficiaire ;
+- il établit les conditions générales d’octroi des prestations que respecte la direction lorsqu’elle accorde de telles prestations à un bénéficiaire ;
 
-19. il arrête, sur proposition du COPEL, la politique générale d’octroi des aides visées à l’article 8, paragraphe 3 ;
+- il arrête, sur proposition du COPEL, la politique générale d’octroi des aides visées à l’article 8, paragraphe 3 ;
 
-20. il adopte des lignes directrices destinées à apprécier le caractère concurrentiel des activités au sens de l’article 2, points 1° et 2° ;
+- il adopte des lignes directrices destinées à apprécier le caractère concurrentiel des activités au sens de l’article 2, points 1° et 2° ;
 
-21. il représente l’ODL judiciairement et extrajudiciairement.
+- il représente l’ODL judiciairement et extrajudiciairement.
 
 <a id="art-16"></a>
 ## Art. 16.
@@ -429,13 +429,13 @@ Des copies des procès-verbaux des réunions du conseil d’administration sont 
 
 Le Gouvernement en conseil approuve :
 
-1. le règlement d’ordre intérieur visé à l’article 15, point 3° adopté par le conseil d’administration ;
+- le règlement d’ordre intérieur visé à l’article 15, point 3° adopté par le conseil d’administration ;
 
-2. les comptes annuels des activités non concurrentielles ;
+- les comptes annuels des activités non concurrentielles ;
 
-3. les décisions visées à l’article 15, point 14°, relatives à l’organigramme, la grille des emplois ainsi que les conditions et modalités de rémunération du personnel ;
+- les décisions visées à l’article 15, point 14°, relatives à l’organigramme, la grille des emplois ainsi que les conditions et modalités de rémunération du personnel ;
 
-4. toute décision ayant trait à l’exercice par l’ODL d’une activité exercée pour le compte de l’État en application des articles 5, paragraphe 2, ou 9, paragraphe 1 er , point 2°.
+- toute décision ayant trait à l’exercice par l’ODL d’une activité exercée pour le compte de l’État en application des articles 5, paragraphe 2, ou 9, paragraphe 1 er , point 2°.
 
 ##### Section 2 COPEL
 
@@ -609,11 +609,11 @@ Fonds spécial d’assurance Ducroire
 
 Pour les activités exercées par l’ODL pour le compte de l’État en vertu de l’article 9, paragraphe 1er, point 2°, il est créé un « Fonds spécial d’assurance Ducroire pour le compte de l’État », ci-après « Fonds spécial d’assurance Ducroire », alimenté comme suit :
 
-1. au moins jusqu’à concurrence de 15 pour cent de la somme des engagements réels pris par l’ODL pour le compte de l’État. Le Fonds spécial d’assurance Ducroire est alimenté par un prélèvement sur un crédit à inscrire chaque année au budget du ministre ayant les Finances dans ses attributions et est à comptabiliser dans la rubrique des recettes du fonds spécial ;
+- au moins jusqu’à concurrence de 15 pour cent de la somme des engagements réels pris par l’ODL pour le compte de l’État. Le Fonds spécial d’assurance Ducroire est alimenté par un prélèvement sur un crédit à inscrire chaque année au budget du ministre ayant les Finances dans ses attributions et est à comptabiliser dans la rubrique des recettes du fonds spécial ;
 
-2. tout revenu en rapport avec l’accomplissement de ces activités ;
+- tout revenu en rapport avec l’accomplissement de ces activités ;
 
-3. en cas de besoin, l’ODL est autorisé à accorder au Fonds spécial d’assurance Ducroire des avances temporaires en vue de l’indemnisation des sinistres, à charge de remboursement par ledit fonds spécial. En cas de créances irrécupérables, les avances prennent la forme de versements définitifs non remboursables aussi longtemps que les fonds propres de l’ODL dépassent le capital prévu à l’article 30, paragraphe 2, alinéa 2 et qu’au moins 6 250 000 euros restent disponibles pour des opérations nouvelles réalisées pour son compte propre avec la garantie de l’État. Si tel n’est pas le cas, l’État verse au Fonds spécial d’assurance Ducroire la part des avances dépassant les seuils pré-mentionnés à charge d’un crédit à inscrire au budget du ministre ayant les Finances dans ses attributions.
+- en cas de besoin, l’ODL est autorisé à accorder au Fonds spécial d’assurance Ducroire des avances temporaires en vue de l’indemnisation des sinistres, à charge de remboursement par ledit fonds spécial. En cas de créances irrécupérables, les avances prennent la forme de versements définitifs non remboursables aussi longtemps que les fonds propres de l’ODL dépassent le capital prévu à l’article 30, paragraphe 2, alinéa 2 et qu’au moins 6 250 000 euros restent disponibles pour des opérations nouvelles réalisées pour son compte propre avec la garantie de l’État. Si tel n’est pas le cas, l’État verse au Fonds spécial d’assurance Ducroire la part des avances dépassant les seuils pré-mentionnés à charge d’un crédit à inscrire au budget du ministre ayant les Finances dans ses attributions.
 
 <a id="art-36"></a>
 ## Art. 36.
@@ -622,9 +622,9 @@ Fonds spécial d’action sur le taux d’intérêt
 
 Pour les activités exercées par l’ODL au titre de l’article 8, paragraphe 2, il est créé un Fonds spécial d’action sur le taux d’intérêt, alimenté par :
 
-1. un prélèvement sur un crédit à inscrire chaque année au budget du ministre ayant les Finances dans ses attributions et est à comptabiliser dans la rubrique des recettes du fonds spécial ;
+- un prélèvement sur un crédit à inscrire chaque année au budget du ministre ayant les Finances dans ses attributions et est à comptabiliser dans la rubrique des recettes du fonds spécial ;
 
-2. tout revenu en rapport avec l’accomplissement de ces activités.
+- tout revenu en rapport avec l’accomplissement de ces activités.
 
 <a id="art-37"></a>
 ## Art. 37.
@@ -635,11 +635,11 @@ Fonds spécial d’aides financières à l’exportation
 
 Pour les activités exercées par l’ODL au titre de l’article 8, paragraphe 3, il est créé un Fonds spécial d’aides financières à l’exportation, dont le budget est alimenté par :
 
-1. un prélèvement sur un crédit à inscrire chaque année au budget du ministre ayant l’Économie dans ses attributions et qui est à comptabiliser dans la rubrique des recettes du fonds spécial ;
+- un prélèvement sur un crédit à inscrire chaque année au budget du ministre ayant l’Économie dans ses attributions et qui est à comptabiliser dans la rubrique des recettes du fonds spécial ;
 
-2. des remboursements à l’État des montants d’aides versées, augmentés des intérêts légaux effectués sur base de toutes dispositions légales traitant des sanctions et restitutions des aides ;
+- des remboursements à l’État des montants d’aides versées, augmentés des intérêts légaux effectués sur base de toutes dispositions légales traitant des sanctions et restitutions des aides ;
 
-3. tout revenu en rapport avec l’accomplissement de ces activités.
+- tout revenu en rapport avec l’accomplissement de ces activités.
 
 (2)
 
@@ -665,21 +665,21 @@ Le montant maximal de l’aide ne peut dépasser un plafond de 50 pour cent des 
 
 Le requérant présente une demande d’aide écrite avant le début du projet. La demande d’aide contient les informations suivantes :
 
-1. le nom et la taille de l’entreprise ;
+- le nom et la taille de l’entreprise ;
 
-2. une description du projet ainsi que ses dates prévisibles de début et de fin ;
+- une description du projet ainsi que ses dates prévisibles de début et de fin ;
 
-3. une description du potentiel économique et de l’impact sur l’activité à l’international de l’entreprise ;
+- une description du potentiel économique et de l’impact sur l’activité à l’international de l’entreprise ;
 
-4. la localisation du projet ;
+- la localisation du projet ;
 
-5. une liste des coûts du projet ;
+- une liste des coûts du projet ;
 
-6. la forme de l’aide et le montant du financement public nécessaire pour le projet ;
+- la forme de l’aide et le montant du financement public nécessaire pour le projet ;
 
-7. le montant total des aides perçues de l’État sur les trois dernières années ;
+- le montant total des aides perçues de l’État sur les trois dernières années ;
 
-8. tout élément pertinent permettant au COPEL d’apprécier les qualités ou spécificités et son effet incitatif.
+- tout élément pertinent permettant au COPEL d’apprécier les qualités ou spécificités et son effet incitatif.
 
 ##### Section 3 Engagements
 

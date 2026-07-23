@@ -38,43 +38,43 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour être électeur aux élections législatives il faut:
 
-1. être Luxembourgeois ou Luxembourgeoise;
+- être Luxembourgeois ou Luxembourgeoise;
 
-2. être âgé de dix-huit ans accomplis au jour des élections;
+- être âgé de dix-huit ans accomplis au jour des élections;
 
-3. jouir des droits civils et politiques;
+- jouir des droits civils et politiques;
 
-4. être domicilié dans le Grand-Duché de Luxembourg; les Luxembourgeois domiciliés à l’étranger sont admis aux élections législatives par la voie du vote par correspondance.
+- être domicilié dans le Grand-Duché de Luxembourg; les Luxembourgeois domiciliés à l’étranger sont admis aux élections législatives par la voie du vote par correspondance.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 Pour être électeur aux élections communales il faut:
 
-1. être âgé de dix-huit ans accomplis au jour des élections;
+- être âgé de dix-huit ans accomplis au jour des élections;
 
-2. jouir des droits civils et ne pas être déchu du droit de vote dans l’Etat de résidence ou dans l’Etat d’origine; cette dernière condition ne peut toutefois pas être opposée à des citoyens non luxembourgeois qui, dans leur pays d’origine, ont perdu le droit de vote en raison de leur résidence en dehors de leur Etat d’origine;
+- jouir des droits civils et ne pas être déchu du droit de vote dans l’Etat de résidence ou dans l’Etat d’origine; cette dernière condition ne peut toutefois pas être opposée à des citoyens non luxembourgeois qui, dans leur pays d’origine, ont perdu le droit de vote en raison de leur résidence en dehors de leur Etat d’origine;
 
-3. pour les Luxembourgeois, être domicilié dans le Grand-Duché;
+- pour les Luxembourgeois, être domicilié dans le Grand-Duché;
 
-4. pour les ressortissants d’un autre État membre de l’Union européenne ou de l’Espace Schengen être domicilié dans le Grand-Duché et y avoir résidé au moment de la demande d’inscription sur la liste électorale prévue par la présente loi ;
+- pour les ressortissants d’un autre État membre de l’Union européenne ou de l’Espace Schengen être domicilié dans le Grand-Duché et y avoir résidé au moment de la demande d’inscription sur la liste électorale prévue par la présente loi ;
 
-5. pour les autres ressortissants étrangers, disposer d’une carte ou d’un titre de séjour ou d’une carte de légitimation en cours de validité, être domicilié dans le Grand-Duché et y avoir résidé au moment de la demande d’inscription sur la liste électorale prévue par la présente loi.
+- pour les autres ressortissants étrangers, disposer d’une carte ou d’un titre de séjour ou d’une carte de légitimation en cours de validité, être domicilié dans le Grand-Duché et y avoir résidé au moment de la demande d’inscription sur la liste électorale prévue par la présente loi.
 
 <a id="art-3"></a>
 ## Art. 3.
 
 Pour être électeur aux élections européennes, il faut:
 
-1. être Luxembourgeois ou ressortissant d’un autre Etat membre de l’Union européenne;
+- être Luxembourgeois ou ressortissant d’un autre Etat membre de l’Union européenne;
 
-2. être âgé de dix-huit ans accomplis au jour des élections;
+- être âgé de dix-huit ans accomplis au jour des élections;
 
-3. jouir des droits civils et n’être déchu du droit de vote ni au Grand-Duché de Luxembourg ni dans l’Etat membre d’origine;
+- jouir des droits civils et n’être déchu du droit de vote ni au Grand-Duché de Luxembourg ni dans l’Etat membre d’origine;
 
-4. pour les Luxembourgeois, être domicilié dans le Grand-Duché; les Luxembourgeois domiciliés à l’étranger sont admis aux élections européennes par la voie du vote par correspondance;
+- pour les Luxembourgeois, être domicilié dans le Grand-Duché; les Luxembourgeois domiciliés à l’étranger sont admis aux élections européennes par la voie du vote par correspondance;
 
-5. pour les ressortissants d’un autre Etat membre de l’Union européenne, être domicilié dans le Grand-Duché et y avoir résidé au moment de la demande d’inscription sur la liste électorale prévue par la présente loi.
+- pour les ressortissants d’un autre Etat membre de l’Union européenne, être domicilié dans le Grand-Duché et y avoir résidé au moment de la demande d’inscription sur la liste électorale prévue par la présente loi.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -108,11 +108,11 @@ Les personnes qui sont privées du droit de vote par condamnation pénale défin
 
 Il y a dans chaque commune trois listes électorales:
 
-1. une liste des citoyens luxembourgeois, électeurs aux élections législatives, européennes et communales;
+- une liste des citoyens luxembourgeois, électeurs aux élections législatives, européennes et communales;
 
-2. une liste des ressortissants étrangers, électeurs aux élections communales;
+- une liste des ressortissants étrangers, électeurs aux élections communales;
 
-3. une liste des ressortissants des autres Etats membres de l’Union européenne, électeurs aux élections européennes.
+- une liste des ressortissants des autres Etats membres de l’Union européenne, électeurs aux élections européennes.
 
 Les listes électorales sont permanentes.
 
@@ -141,13 +141,13 @@ Les ressortissants d’un autre État membre de l’Union européenne ou de l’
 
 Le ressortissant d’un autre État membre de l’Union européenne ou de l’Espace Schengen et l’autre ressortissant étranger doit produire à l’appui de sa demande:
 
-1. une déclaration formelle précisant: En cas de fausse déclaration sur un des points visés sous a) et b) ci-dessus, les pénalités prévues par la présente loi sont applicables;
+- une déclaration formelle précisant: En cas de fausse déclaration sur un des points visés sous a) et b) ci-dessus, les pénalités prévues par la présente loi sont applicables;
 
-1. sa nationalité, sa date et son lieu de naissance, sa dernière adresse dans l’Etat d’origine et son adresse sur le territoire du Grand-Duché de Luxembourg;
+  - sa nationalité, sa date et son lieu de naissance, sa dernière adresse dans l’Etat d’origine et son adresse sur le territoire du Grand-Duché de Luxembourg;
 
-2. qu’il n’est pas déchu du droit de vote dans l’Etat d’origine par l’effet d’une décision de justice individuelle ou d’une décision administrative pour autant que cette dernière puisse faire l’objet d’un recours juridictionnel ou, le cas échéant, que la perte du droit de vote est due aux conditions de résidence imposées par l’Etat d’origine.
+  - qu’il n’est pas déchu du droit de vote dans l’Etat d’origine par l’effet d’une décision de justice individuelle ou d’une décision administrative pour autant que cette dernière puisse faire l’objet d’un recours juridictionnel ou, le cas échéant, que la perte du droit de vote est due aux conditions de résidence imposées par l’Etat d’origine.
 
-2. un document d’identité en cours de validité.
+- un document d’identité en cours de validité.
 
 Le ressortissant étranger autre que le ressortissant d’un autre État membre de l’Union européenne ou de l’Espace Schengen doit produire en outre à l’appui de sa demande une carte ou un titre de séjour ou une carte de légitimation en cours de validité.
 
@@ -157,17 +157,17 @@ Le ressortissant d’un autre Etat membre de l’Union européenne désireux de 
 
 Il doit produire à l’appui de sa demande d’inscription sur cette liste:
 
-1. une déclaration formelle précisant: En cas de fausse déclaration sur un des points visés sous a), b), c) ou d) ci-dessus, les pénalités prévues par la présente loi sont applicables;
+- une déclaration formelle précisant: En cas de fausse déclaration sur un des points visés sous a), b), c) ou d) ci-dessus, les pénalités prévues par la présente loi sont applicables;
 
-1. sa nationalité, sa date et son lieu de naissance, sa dernière adresse dans l’Etat membre d’origine et son adresse sur le territoire du Grand-Duché de Luxembourg;
+  - sa nationalité, sa date et son lieu de naissance, sa dernière adresse dans l’Etat membre d’origine et son adresse sur le territoire du Grand-Duché de Luxembourg;
 
-2. le cas échéant, sur la liste électorale de quelle collectivité locale ou circonscription dans l’Etat membre d’origine il a été inscrit en dernier lieu;
+  - le cas échéant, sur la liste électorale de quelle collectivité locale ou circonscription dans l’Etat membre d’origine il a été inscrit en dernier lieu;
 
-3. qu’il n’exercera son droit de vote pour les élections au Parlement européen que dans le Grand-Duché de Luxembourg;
+  - qu’il n’exercera son droit de vote pour les élections au Parlement européen que dans le Grand-Duché de Luxembourg;
 
-4. qu’il n’est pas déchu du droit de vote dans l’Etat membre d’origine par l’effet d’une décision de justice individuelle ou d’une décision administrative pour autant que cette dernière puisse faire l’objet d’un recours juridictionnel ou, le cas échéant, que la perte du droit de vote est due aux conditions de résidence imposées par l’Etat d’origine.
+  - qu’il n’est pas déchu du droit de vote dans l’Etat membre d’origine par l’effet d’une décision de justice individuelle ou d’une décision administrative pour autant que cette dernière puisse faire l’objet d’un recours juridictionnel ou, le cas échéant, que la perte du droit de vote est due aux conditions de résidence imposées par l’Etat d’origine.
 
-2. un document d’identité en cours de validité.
+- un document d’identité en cours de validité.
 
 (4)
 
@@ -715,11 +715,11 @@ Les électeurs empêchés de prendre part au scrutin doivent faire connaître au
 
 Sont excusés de droit:
 
-1. les électeurs qui au moment de l’élection habitent une autre commune que celle où ils sont appelés à voter;
+- les électeurs qui au moment de l’élection habitent une autre commune que celle où ils sont appelés à voter;
 
-2. les électeurs âgés de plus de 75 ans ;
+- les électeurs âgés de plus de 75 ans ;
 
-3. les électeurs en tutelle. Une liste comportant les noms et prénoms des personnes en tutelle ainsi que l’identification du tribunal, la date et le numéro du jugement de mise en tutelle est envoyée à cet effet au collège des bourgmestre et échevins de la commune de résidence du majeur en tutelle par le préposé du répertoire civil auprès du Parquet Général.
+- les électeurs en tutelle. Une liste comportant les noms et prénoms des personnes en tutelle ainsi que l’identification du tribunal, la date et le numéro du jugement de mise en tutelle est envoyée à cet effet au collège des bourgmestre et échevins de la commune de résidence du majeur en tutelle par le préposé du répertoire civil auprès du Parquet Général.
 
 <a id="art-90"></a>
 ## Art. 90.
@@ -730,7 +730,7 @@ Ces électeurs sont cités devant le juge de paix dans les formes tracées par l
 
 Une première abstention non justifiée est punie d’une amende de 100 à 250 euros. En cas de récidive dans les cinq ans de la condamnation, l’amende est de 500 à 1.000 euros.
 
-La condamnation prononcée par défaut est sujette à opposition conformément aux dispositions du Code de procédure pénale.
+La condamnation prononcée par défaut est sujette à opposition conformément aux dispositions du Code de procédure pénale .
 
 Sont applicables les dispositions du titre I, livre II du Code de procédure pénale : Des tribunaux de police.
 
@@ -761,37 +761,37 @@ La dotation pour les élections européennes est allouée à condition que le pa
 
 Les montants des dotations sont fixés comme suit :
 
-1. Pour les élections législatives
+- Pour les élections législatives
 
-1. un montant forfaitaire de:
+  - un montant forfaitaire de:
 
-1. 50.000 euros pour les partis ou groupements qui comptent 1 à 4 élus à la Chambre des députés ;
+    - 50.000 euros pour les partis ou groupements qui comptent 1 à 4 élus à la Chambre des députés ;
 
-2. 100.000 euros pour les partis ou groupements qui comptent 5 à 7 élus à la Chambre des députés ;
+    - 100.000 euros pour les partis ou groupements qui comptent 5 à 7 élus à la Chambre des députés ;
 
-3. 150.000 euros pour les partis ou groupements qui comptent 8 à 11 élus à la Chambre des députés ;
+    - 150.000 euros pour les partis ou groupements qui comptent 8 à 11 élus à la Chambre des députés ;
 
-4. 200.000 euros pour les partis ou groupements qui comptent au moins 12 élus à la Chambre des députés.
+    - 200.000 euros pour les partis ou groupements qui comptent au moins 12 élus à la Chambre des députés.
 
-2. un montant supplémentaire de 10.000 euros par élu.
+  - un montant supplémentaire de 10.000 euros par élu.
 
-2. Pour les élections européennes
+- Pour les élections européennes
 
-1. un montant forfaitaire de:
+  - un montant forfaitaire de:
 
-1. 5 000 euros pour les partis ou, au niveau national, groupements obtenant au moins 2 pour cent des suffrages exprimés au niveau national ;
+    - 5 000 euros pour les partis ou, au niveau national, groupements obtenant au moins 2 pour cent des suffrages exprimés au niveau national ;
 
-2. 12 500 euros pour les partis ou, au niveau national, groupements obtenant au moins 5 pour cent des suffrages exprimés au niveau national ;
+    - 12 500 euros pour les partis ou, au niveau national, groupements obtenant au moins 5 pour cent des suffrages exprimés au niveau national ;
 
-3. 25 000 euros pour les partis ou, au niveau national, groupements obtenant au moins 10 pour cent des suffrages exprimés au niveau national ;
+    - 25 000 euros pour les partis ou, au niveau national, groupements obtenant au moins 10 pour cent des suffrages exprimés au niveau national ;
 
-4. 37 500 euros pour les partis ou, au niveau national, groupements obtenant au moins 15 pour cent des suffrages exprimés au niveau national ;
+    - 37 500 euros pour les partis ou, au niveau national, groupements obtenant au moins 15 pour cent des suffrages exprimés au niveau national ;
 
-5. 50 000 euros pour les partis ou, au niveau national, groupements obtenant au moins 20 pour cent des suffrages exprimés au niveau national ;
+    - 50 000 euros pour les partis ou, au niveau national, groupements obtenant au moins 20 pour cent des suffrages exprimés au niveau national ;
 
-6. 74 500 euros pour les partis ou, au niveau national, groupements obtenant au moins 25 pour cent des suffrages exprimés au niveau national.
+    - 74 500 euros pour les partis ou, au niveau national, groupements obtenant au moins 25 pour cent des suffrages exprimés au niveau national.
 
-2. un montant supplémentaire de 12.500 euros par député européen élu.
+  - un montant supplémentaire de 12.500 euros par député européen élu.
 
 Les montants à allouer aux partis ou groupements politiques sont à prévoir à la section de la Chambre des députés du budget de l’État de l’exercice des élections législatives ou européennes. En cas d’élections anticipées, les montants sont inscrits au budget de l’exercice de l’année qui suit les élections.
 
@@ -1202,22 +1202,22 @@ L’indemnité de départ versée par la Chambre aux députés sortants est soum
 
 Pour être éligible, il faut:
 
-1. être Luxembourgeois ou Luxembourgeoise;
+- être Luxembourgeois ou Luxembourgeoise;
 
-2. jouir des droits civils et politiques;
+- jouir des droits civils et politiques;
 
-3. être âgé de dix-huit ans accomplis au jour de l'élection;
+- être âgé de dix-huit ans accomplis au jour de l'élection;
 
-4. être domicilié dans le Grand-Duché de Luxembourg.
+- être domicilié dans le Grand-Duché de Luxembourg.
 
 <a id="art-128"></a>
 ## Art. 128.
 
 Ne sont pas éligibles:
 
-1. les personnes qui sont privées du droit d'éligibilité par condamnation;
+- les personnes qui sont privées du droit d'éligibilité par condamnation;
 
-2. les personnes qui sont exclues de l'électorat par l'article 6 de la présente loi.
+- les personnes qui sont exclues de l'électorat par l'article 6 de la présente loi.
 
 La perte d'une des conditions d'éligibilité entraîne la cessation du mandat.
 
@@ -1329,15 +1329,15 @@ Le recours est introduit par requête déposée au greffe de la Cour Constitutio
 
 La requête écrite, datée et signée par le requérant ou son mandataire contient :
 
-1. les nom, prénoms, adresse électronique et domicile du requérant ;
+- les nom, prénoms, adresse électronique et domicile du requérant ;
 
-2. l’objet de la demande ;
+- l’objet de la demande ;
 
-3. la désignation et la date de la notification de la décision contre laquelle le recours est dirigé ;
+- la désignation et la date de la notification de la décision contre laquelle le recours est dirigé ;
 
-4. l’exposé sommaire des faits et des moyens invoqués ;
+- l’exposé sommaire des faits et des moyens invoqués ;
 
-5. le relevé des pièces dont le requérant entend se servir.
+- le relevé des pièces dont le requérant entend se servir.
 
 (4)
 
@@ -1588,9 +1588,9 @@ Les bulletins nuls n’entrent point en compte pour fixer le nombre des voix.
 
 Sont nuls:
 
-1. tous les bulletins autres que ceux dont l’usage est permis par la présente loi;
+- tous les bulletins autres que ceux dont l’usage est permis par la présente loi;
 
-2. les bulletins qui expriment plus de suffrages qu’il n’y a de membres à élire; ceux qui ne contiennent l’expression d’aucun suffrage; ceux dont les formes et dimensions ont été altérées, qui contiennent à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
+- les bulletins qui expriment plus de suffrages qu’il n’y a de membres à élire; ceux qui ne contiennent l’expression d’aucun suffrage; ceux dont les formes et dimensions ont été altérées, qui contiennent à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
 
 <a id="art-148"></a>
 ## Art. 148.
@@ -1675,15 +1675,15 @@ Lorsque ce dernier est lui-même président du bureau principal de la commune, i
 
 Le président du bureau principal de la commune forme en outre:
 
-1. un ou plusieurs paquets scellés et cachetés du sceau communal ou de celui du président qui contiennent les bulletins de vote de tous les bureaux de vote de la commune et portent comme suscription, outre l’adresse :
+- un ou plusieurs paquets scellés et cachetés du sceau communal ou de celui du président qui contiennent les bulletins de vote de tous les bureaux de vote de la commune et portent comme suscription, outre l’adresse :
 
-- Élections législatives du..............................
+  - Élections législatives du..............................
 
-- Bulletins de vote
+  - Bulletins de vote
 
-2. un paquet, scellé et cacheté comme ci-dessus qui renferme les listes tenues en vertu des articles 74 et 146;
+- un paquet, scellé et cacheté comme ci-dessus qui renferme les listes tenues en vertu des articles 74 et 146;
 
-3. un paquet renfermant les exemplaires de la loi électorale et les placards reproduisant les dispositions pénales qui ont servi aux divers bureaux de vote, ainsi que les imprimés non employés par ces bureaux.
+- un paquet renfermant les exemplaires de la loi électorale et les placards reproduisant les dispositions pénales qui ont servi aux divers bureaux de vote, ainsi que les imprimés non employés par ces bureaux.
 
 Ces paquets sont expédiés par le président du bureau principal de la commune à la Chambre des députés par envois séparés recommandés à la poste et ne peuvent être ouverts que par les commissions de vérification des pouvoirs.
 
@@ -1959,21 +1959,21 @@ Les conseillers élus lors des élections qui suivent la dissolution du conseil 
 
 Pour être éligible, il faut:
 
-1. jouir des droits civils et ne pas être déchu du droit d’éligibilité dans le Grand-Duché de Luxembourg ou dans l’Etat d’origine; cette dernière condition ne peut toutefois pas être opposée à des citoyens non luxembourgeois qui, dans leur pays d’origine, ont perdu le droit d’éligibilité en raison de leur résidence en dehors de leur Etat d’origine;
+- jouir des droits civils et ne pas être déchu du droit d’éligibilité dans le Grand-Duché de Luxembourg ou dans l’Etat d’origine; cette dernière condition ne peut toutefois pas être opposée à des citoyens non luxembourgeois qui, dans leur pays d’origine, ont perdu le droit d’éligibilité en raison de leur résidence en dehors de leur Etat d’origine;
 
-2. être âgé de dix-huit ans accomplis au jour de l’élection;
+- être âgé de dix-huit ans accomplis au jour de l’élection;
 
-3. avoir sa résidence habituelle dans la commune, c’est-à-dire y habiter d’ordinaire; cette condition doit être remplie depuis six mois au moins lors du dépôt de la candidature.
+- avoir sa résidence habituelle dans la commune, c’est-à-dire y habiter d’ordinaire; cette condition doit être remplie depuis six mois au moins lors du dépôt de la candidature.
 
 Le ressortissant d’un autre État membre de l’Union européenne ou de l’Espace Schengen et l’autre ressortissant étranger doit produire à l’appui de sa candidature:
 
-1. une déclaration précisant: En cas de fausse déclaration, les pénalités prévues à l’article 94 par la présente loi sont applicables En cas de doute sur le contenu de la déclaration visée sous b) ci-dessus, le président du bureau de vote principal de la commune avant le vote ou la juridiction saisie d'un recours après le vote peuvent demander une attestation des autorités administratives compétentes de l'Etat membre d'origine certifiant que le candidat n'est pas déchu du droit d'éligibilité dans cet Etat ou que les autorités ne sont pas au courant d'une telle déchéance.
+- une déclaration précisant: En cas de fausse déclaration, les pénalités prévues à l’article 94 par la présente loi sont applicables En cas de doute sur le contenu de la déclaration visée sous b) ci-dessus, le président du bureau de vote principal de la commune avant le vote ou la juridiction saisie d'un recours après le vote peuvent demander une attestation des autorités administratives compétentes de l'Etat membre d'origine certifiant que le candidat n'est pas déchu du droit d'éligibilité dans cet Etat ou que les autorités ne sont pas au courant d'une telle déchéance.
 
-1. sa nationalité et son adresse au Grand-Duché de Luxembourg;
+  - sa nationalité et son adresse au Grand-Duché de Luxembourg;
 
-2. qu'il n'est pas déchu du droit d'éligibilité dans son Etat membre d'origine ou, le cas échéant, que la perte du droit d'éligibilité est due aux conditions de résidence imposées par l'Etat d'origine.
+  - qu'il n'est pas déchu du droit d'éligibilité dans son Etat membre d'origine ou, le cas échéant, que la perte du droit d'éligibilité est due aux conditions de résidence imposées par l'Etat d'origine.
 
-2. un document d'identité en cours de validité.
+- un document d'identité en cours de validité.
 
 Le ressortissant étranger autre que le ressortissant d’un autre État membre de l’Union européenne ou de l’Espace Schengen doit produire en outre à l’appui de sa candidature une carte ou un titre de séjour ou une carte de légitimation en cours de validité.
 
@@ -1982,9 +1982,9 @@ Le ressortissant étranger autre que le ressortissant d’un autre État membre 
 
 Ne sont pas éligibles:
 
-1. les personnes qui sont privées du droit d'éligibilité par condamnation;
+- les personnes qui sont privées du droit d'éligibilité par condamnation;
 
-2. les personnes qui sont exclues de l'électorat par l'article 6 de la présente loi.
+- les personnes qui sont exclues de l'électorat par l'article 6 de la présente loi.
 
 <a id="art-193bis"></a>
 ## Art. 193bis.
@@ -2179,11 +2179,11 @@ Les bulletins nuls n’entrent point en compte pour fixer le nombre des voix.
 
 Sont nuls:
 
-1. tous les bulletins autres que ceux dont l’usage est permis par la présente loi;
+- tous les bulletins autres que ceux dont l’usage est permis par la présente loi;
 
-2. les bulletins qui expriment plus de suffrages qu’il n’y a de membres à élire et ceux qui ne contiennent l’expression d’aucun suffrage;
+- les bulletins qui expriment plus de suffrages qu’il n’y a de membres à élire et ceux qui ne contiennent l’expression d’aucun suffrage;
 
-3. les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient, à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
+- les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient, à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
 
 <a id="art-216"></a>
 ## Art. 216.
@@ -2471,11 +2471,11 @@ Les bulletins nuls n’entrent point en compte pour fixer le nombre des voix.
 
 Sont nuls:
 
-1. tous les bulletins autres que ceux dont l’usage est permis par la présente loi;
+- tous les bulletins autres que ceux dont l’usage est permis par la présente loi;
 
-2. les bulletins qui expriment plus de suffrages qu’il n y a de membres à élire et ceux qui ne contiennent l’expression d’aucun suffrage;
+- les bulletins qui expriment plus de suffrages qu’il n y a de membres à élire et ceux qui ne contiennent l’expression d’aucun suffrage;
 
-3. les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
+- les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
 
 <a id="art-246"></a>
 ## Art. 246.
@@ -2801,38 +2801,38 @@ Le Parlement européen reçoit la démission de ses membres.
 
 Pour être éligible, il faut:
 
-1. être Luxembourgeois ou ressortissant d’un autre Etat membre de l’Union européenne;
+- être Luxembourgeois ou ressortissant d’un autre Etat membre de l’Union européenne;
 
-2. jouir des droits civils et ne pas être déchu des droits politiques au Grand-Duché de Luxembourg ou dans l’Etat membre d’origine;
+- jouir des droits civils et ne pas être déchu des droits politiques au Grand-Duché de Luxembourg ou dans l’Etat membre d’origine;
 
-3. être âgé de 18 ans accomplis au jour de l’élection;
+- être âgé de 18 ans accomplis au jour de l’élection;
 
-4. – pour les Luxembourgeois, être domicilié dans le Grand-Duché de Luxembourg; – pour les ressortissants d’un autre Etat membre de l’Union européenne, être domicilié sur le territoire luxembourgeois et y avoir résidé au moment du dépôt de la liste des candidats.
+- – pour les Luxembourgeois, être domicilié dans le Grand-Duché de Luxembourg; – pour les ressortissants d’un autre Etat membre de l’Union européenne, être domicilié sur le territoire luxembourgeois et y avoir résidé au moment du dépôt de la liste des candidats.
 
 (2)
 
 Le ressortissant d’un autre Etat membre de l’Union européenne doit produire à l’appui de sa candidature:
 
-1. une déclaration formelle précisant: En cas de fausse déclaration sur un des points visés sub a), b), c) ou d) ci-dessus, les pénalités prévues par la présente loi sont applicables;
+- une déclaration formelle précisant: En cas de fausse déclaration sur un des points visés sub a), b), c) ou d) ci-dessus, les pénalités prévues par la présente loi sont applicables;
 
-1. sa nationalité, sa date et son lieu de naissance, sa dernière adresse dans l’Etat membre d’origine et son adresse au Grand-Duché de Luxembourg;
+  - sa nationalité, sa date et son lieu de naissance, sa dernière adresse dans l’Etat membre d’origine et son adresse au Grand-Duché de Luxembourg;
 
-2. le cas échéant, sur la liste électorale de quelle collectivité locale ou circonscription dans l’Etat membre d’origine il a été inscrit en dernier lieu;
+  - le cas échéant, sur la liste électorale de quelle collectivité locale ou circonscription dans l’Etat membre d’origine il a été inscrit en dernier lieu;
 
-3. qu’il n’est pas simultanément candidat aux élections européennes dans un autre Etat membre;
+  - qu’il n’est pas simultanément candidat aux élections européennes dans un autre Etat membre;
 
-4. qu’il n’est pas déchu du droit d’éligibilité dans l’Etat membre d’origine, par l’effet d’une décision de justice individuelle ou d’une décision administrative pour autant que cette dernière puisse faire l’objet d’un recours ou, le cas échéant, que la perte du droit de vote est due aux conditions de résidence imposées par l’Etat d’origine.
+  - qu’il n’est pas déchu du droit d’éligibilité dans l’Etat membre d’origine, par l’effet d’une décision de justice individuelle ou d’une décision administrative pour autant que cette dernière puisse faire l’objet d’un recours ou, le cas échéant, que la perte du droit de vote est due aux conditions de résidence imposées par l’Etat d’origine.
 
-2. un document d’identité en cours de validité.
+- un document d’identité en cours de validité.
 
 <a id="art-286"></a>
 ## Art. 286.
 
 Ne sont pas éligibles:
 
-1. les personnes qui sont privées du droit d’éligibilité par condamnation;
+- les personnes qui sont privées du droit d’éligibilité par condamnation;
 
-2. les personnes qui sont exclues de l’électorat par les dispositions de l’article 6 de la présente loi.
+- les personnes qui sont exclues de l’électorat par les dispositions de l’article 6 de la présente loi.
 
 La perte d’une des conditions d’éligibilité entraîne la cessation du mandat.
 
@@ -2944,15 +2944,15 @@ Le recours est introduit par requête déposée au greffe de la Cour Constitutio
 
 La requête écrite, datée et signée par le requérant ou son mandataire contient :
 
-1. les nom, prénoms, adresse électronique et domicile du requérant ;
+- les nom, prénoms, adresse électronique et domicile du requérant ;
 
-2. l’objet de la demande ;
+- l’objet de la demande ;
 
-3. la désignation et la date de la notification de la décision contre laquelle le recours est dirigé ;
+- la désignation et la date de la notification de la décision contre laquelle le recours est dirigé ;
 
-4. l’exposé sommaire des faits et des moyens invoqués ; et
+- l’exposé sommaire des faits et des moyens invoqués ; et
 
-5. le relevé des pièces dont le requérant entend se servir.
+- le relevé des pièces dont le requérant entend se servir.
 
 (4)
 
@@ -3194,9 +3194,9 @@ Les bulletins nuls n’entrent point en compte pour fixer le nombre de voix.
 
 Sont nuls:
 
-1. tous les bulletins autres que ceux dont l’usage est permis par la présente loi;
+- tous les bulletins autres que ceux dont l’usage est permis par la présente loi;
 
-2. les bulletins qui expriment plus de suffrages qu’il n’y a de membres à élire; ceux qui ne contiennent l’expression d’aucun suffrage; ceux dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
+- les bulletins qui expriment plus de suffrages qu’il n’y a de membres à élire; ceux qui ne contiennent l’expression d’aucun suffrage; ceux dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
 
 <a id="art-305"></a>
 ## Art. 305.
@@ -3272,15 +3272,15 @@ La suscription de chacun de ces deux plis indique, outre l’adresse, la mention
 
 Le président du bureau principal de la commune forme en outre:
 
-1. un ou plusieurs paquets scellés et cachetés du sceau communal ou de celui du président qui contiennent les bulletins de vote de tous les bureaux de vote de la commune et portent comme suscription, outre l’adresse :
+- un ou plusieurs paquets scellés et cachetés du sceau communal ou de celui du président qui contiennent les bulletins de vote de tous les bureaux de vote de la commune et portent comme suscription, outre l’adresse :
 
-- Élections européennes du......................................
+  - Élections européennes du......................................
 
-- Bulletins de vote
+  - Bulletins de vote
 
-2. un paquet, scellé et cacheté comme ci-dessus qui renferme les listes tenues en vertu des articles 74 et 303
+- un paquet, scellé et cacheté comme ci-dessus qui renferme les listes tenues en vertu des articles 74 et 303
 
-3. un paquet renfermant les exemplaires de la loi électorale et les placards reproduisant les dispositions pénales qui ont servi aux divers bureaux de vote, ainsi que les imprimés non employés par ces bureaux.
+- un paquet renfermant les exemplaires de la loi électorale et les placards reproduisant les dispositions pénales qui ont servi aux divers bureaux de vote, ainsi que les imprimés non employés par ces bureaux.
 
 Ces paquets sont expédiés par le président du bureau principal de la commune à la Chambre des députés par envois séparés recommandés à la poste et ne peuvent être ouverts que par les commissions de vérification des pouvoirs.
 
@@ -3508,9 +3508,9 @@ Les dispositions des articles 3 et 4 de la loi du 23 décembre 1978 portant fusi
 
 Sont abrogées:
 
-1. la loi électorale du 31 juillet 1924 , telle qu'elle a été modifiée par la suite;
+- la loi électorale du 31 juillet 1924 , telle qu'elle a été modifiée par la suite;
 
-2. la loi du 7 janvier 1999 sur le remboursement partiel des frais de campagnes électorales aux partis et groupements politiques engagés dans les élections à la Chambre des députés et du Parlement européen.
+- la loi du 7 janvier 1999 sur le remboursement partiel des frais de campagnes électorales aux partis et groupements politiques engagés dans les élections à la Chambre des députés et du Parlement européen.
 
 <a id="art-345"></a>
 ## Art. 345.

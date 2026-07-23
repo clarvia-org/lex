@@ -30,11 +30,11 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Les services de radio locale visés à l’article 17 de la loi du 27 juillet 1991 sur les médias électroniques sont autorisés à contenir des messages publicitaires dans les limites suivantes:
 
-1. les recettes publicitaires ne peuvent dépasser ni les frais réels occasionnés par le service , y compris l’amortissement de l’émetteur et des autres équipements techniques, ni un montant de 12.394,68 euros par an;
+- les recettes publicitaires ne peuvent dépasser ni les frais réels occasionnés par le service , y compris l’amortissement de l’émetteur et des autres équipements techniques, ni un montant de 12.394,68 euros par an;
 
-2. le temps d’antenne consacré à la publicité ne peut pas être retenu à raison de plus de 10 % par un seul commerçant, une seule firme ou un seul groupe de firmes;
+- le temps d’antenne consacré à la publicité ne peut pas être retenu à raison de plus de 10 % par un seul commerçant, une seule firme ou un seul groupe de firmes;
 
-3. les messages publicitaires ne peuvent au total dépasser ni 6 minutes par heure d’antenne en moyenne journalière, ni 8 minutes pour une quelconque tranche horaire.
+- les messages publicitaires ne peuvent au total dépasser ni 6 minutes par heure d’antenne en moyenne journalière, ni 8 minutes pour une quelconque tranche horaire.
 
 <a id="art-2"></a>
 ## Art. 2.

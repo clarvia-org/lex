@@ -33,27 +33,27 @@ Champ d'application
 
 Les employés communaux ainsi que les salariés au service des communes, en service auprès des écoles d'une commune ou d'un syndicat de communes au 15 septembre 2009, peuvent opter jusqu'au (Règl. g.-d. du 24 mars 2014) «14 septembre 2016» pour une reprise par l'État sous le régime de l'employé de l'État, sous réserve de leur admissibilité à ce régime et à condition de remplir les conditions d'admission et de formation à l'une des carrières suivantes au niveau des fonctionnaires de l'État:
 
-1. pédagogue;
+- pédagogue;
 
-2. psychologue;
+- psychologue;
 
-3. pédagogue curatif;
+- pédagogue curatif;
 
-4. orthophoniste;
+- orthophoniste;
 
-5. rééducateur en psychomotricité;
+- rééducateur en psychomotricité;
 
-6. ergothérapeute;
+- ergothérapeute;
 
-7. assistant social;
+- assistant social;
 
-8. infirmier en pédiatrie, anciennement puériculteur;
+- infirmier en pédiatrie, anciennement puériculteur;
 
-9. éducateur gradué;
+- éducateur gradué;
 
-10. éducateur;
+- éducateur;
 
-11. bibliothécaire-documentaliste.
+- bibliothécaire-documentaliste.
 
 Pour pouvoir exercer une des fonctions sub 3 à 8, les agents doivent pouvoir se prévaloir d'une autorisation d'exercer la profession délivrée par le ministre ayant la santé dans ses attributions.
 
@@ -64,39 +64,39 @@ Modalités et calendrier
 
 Les employés communaux et les salariés au service des communes définis à l'article 1er ci-dessus, désireux d'être repris par l'État, peuvent introduire à cet effet, pour le (Règl. g.-d. du 24 mars 2014) «1er janvier 2016» au plus tard, auprès du service du personnel des écoles du Ministère de l'Éducation nationale et de la Formation professionnelle, dénommé ci-après «le Service», un dossier de candidature comportant les pièces et documents suivants:
 
-1. une feuille de renseignements dûment complétée et signée,
+- une feuille de renseignements dûment complétée et signée,
 
-2. une copie ou un extrait de l'acte de naissance,
+- une copie ou un extrait de l'acte de naissance,
 
-3. une copie de la carte d'identité,
+- une copie de la carte d'identité,
 
-4. un certificat d'inscription sur les listes électorales,
+- un certificat d'inscription sur les listes électorales,
 
-5. (Règl. g.-d. du 24 mars 2014) «un extrait du bulletin N°2 du casier judiciaire et un relevé des condamnations tel que visé à l'article 9 de la loi du 29 mars 2013 relative à l'organisation du casier judiciaire, datant tous les deux de moins de 30 jours)»,
+- (Règl. g.-d. du 24 mars 2014) «un extrait du bulletin N°2 du casier judiciaire et un relevé des condamnations tel que visé à l'article 9 de la loi du 29 mars 2013 relative à l'organisation du casier judiciaire, datant tous les deux de moins de 30 jours)»,
 
-6. une copie des certificats d'études et des diplômes ou de documents reconnus équivalents par le ministre compétent,
+- une copie des certificats d'études et des diplômes ou de documents reconnus équivalents par le ministre compétent,
 
-7. un certificat d'affiliation au Centre Commun de la Sécurité Sociale datant de moins de 30 jours,
+- un certificat d'affiliation au Centre Commun de la Sécurité Sociale datant de moins de 30 jours,
 
-8. une copie du contrat de travail en vigueur le 15 septembre 2009 mentionnant la fonction et le degré d'occupation, prouvant qu'ils étaient en service auprès des écoles d'une commune ou d'un syndicat de communes au 15 septembre 2009 soit en qualité d'employé communal, soit en qualité de salarié communal,
+- une copie du contrat de travail en vigueur le 15 septembre 2009 mentionnant la fonction et le degré d'occupation, prouvant qu'ils étaient en service auprès des écoles d'une commune ou d'un syndicat de communes au 15 septembre 2009 soit en qualité d'employé communal, soit en qualité de salarié communal,
 
-9. une copie de la fiche de rémunération du mois de septembre 2009 et une copie de la dernière fiche de rémunération,
+- une copie de la fiche de rémunération du mois de septembre 2009 et une copie de la dernière fiche de rémunération,
 
-10. une copie des certificats de travail du secteur public reprenant les périodes de travail et le degré d'occupation,
+- une copie des certificats de travail du secteur public reprenant les périodes de travail et le degré d'occupation,
 
-11. une copie de la fiche de retenue d'impôt actuelle,
+- une copie de la fiche de retenue d'impôt actuelle,
 
-12. le cas échéant:
+- le cas échéant:
 
-1. une copie de l'autorisation d'exercer la profession délivrée par le ministre ayant la santé dans ses
+  - une copie de l'autorisation d'exercer la profession délivrée par le ministre ayant la santé dans ses
 
-2. attributions, pour autant que nécessaire,
+  - attributions, pour autant que nécessaire,
 
-3. une copie des décisions documentant des congés sans traitement, pour travail à mi-temps ou parental,
+  - une copie des décisions documentant des congés sans traitement, pour travail à mi-temps ou parental,
 
-4. une copie de la décision documentant la réussite à l'examen de carrière,
+  - une copie de la décision documentant la réussite à l'examen de carrière,
 
-5. une demande en obtention de l'allocation de famille.
+  - une demande en obtention de l'allocation de famille.
 
 Après vérification des conditions d'admissibilité, le Service transmet les dossiers personnels à l'Administration du personnel de l'État qui procédera à la simulation de carrière des agents concernés, conformément aux dispositions légales et réglementaires en vigueur et dans le respect des dispositions de l'alinéa 2 de l'article 44 de la loi modifiée du 6 février 2009 concernant le personnel de l'enseignement fondamental.
 

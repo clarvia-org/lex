@@ -38,57 +38,57 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 L’article 1er, paragraphe 3, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État est modifié comme suit :
 
-1. À l’alinéa 2, les termes l’article 29ter, à l’exception de l’alinéa 2, les articles 29quater à 29decies sont remplacés par les termes les articles 29ter à 29decies et les termes , à l’exception du point c) sont supprimés.
+- À l’alinéa 2, les termes l’article 29ter, à l’exception de l’alinéa 2, les articles 29quater à 29decies sont remplacés par les termes les articles 29ter à 29decies et les termes , à l’exception du point c) sont supprimés.
 
-2. Il est complété par un nouvel alinéa 3, libellé comme suit : Les formes de congé parental autres que celle prévue à l’article 29ter, paragraphe 1er, ne peuvent être accordées au stagiaire que sous réserve que sa formation générale et spéciale puisse être accomplie au cours de la période de stage.
+- Il est complété par un nouvel alinéa 3, libellé comme suit : Les formes de congé parental autres que celle prévue à l’article 29ter, paragraphe 1er, ne peuvent être accordées au stagiaire que sous réserve que sa formation générale et spéciale puisse être accomplie au cours de la période de stage.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 L’article 2 de la même loi est modifié comme suit :
 
-1. Au paragraphe 1 er , alinéa 4, la seconde phrase est remplacée par la phrase suivante : Elle est également refusée aux candidats dont le contrat a été résilié sur base de l’article 5 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, dont le stage a été résilié pour motifs graves ou qui ont obtenu pour la seconde fois un niveau de performance 1.
+- Au paragraphe 1 er , alinéa 4, la seconde phrase est remplacée par la phrase suivante : Elle est également refusée aux candidats dont le contrat a été résilié sur base de l’article 5 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, dont le stage a été résilié pour motifs graves ou qui ont obtenu pour la seconde fois un niveau de performance 1.
 
-2. Le paragraphe 3 est modifié comme suit :
+- Le paragraphe 3 est modifié comme suit :
 
-1. À l’alinéa 3, le terme trois est remplacé par le terme deux , le terme quatre est remplacé par le terme trois et les termes deux années sont remplacés par les termes une année .
+  - À l’alinéa 3, le terme trois est remplacé par le terme deux , le terme quatre est remplacé par le terme trois et les termes deux années sont remplacés par les termes une année .
 
-2. À l’alinéa 6, le terme ou figurant devant les termes d’un service à temps partiel pour raisons de santé est supprimé et les termes ou dans des cas exceptionnels et pour des raisons dûment motivées pour une période s’étendant au maximum sur douze mois sont ajoutés derrière le terme santé .
+  - À l’alinéa 6, le terme ou figurant devant les termes d’un service à temps partiel pour raisons de santé est supprimé et les termes ou dans des cas exceptionnels et pour des raisons dûment motivées pour une période s’étendant au maximum sur douze mois sont ajoutés derrière le terme santé .
 
-3. À l’alinéa 9, il est ajouté une nouvelle lettre c) libellée comme suit, le point final sous la lettre b) étant remplacé par un point-virgule : en faveur du stagiaire qui bénéficie des congés visés aux articles 29 ou 29ter, paragraphe 2.
+  - À l’alinéa 9, il est ajouté une nouvelle lettre c) libellée comme suit, le point final sous la lettre b) étant remplacé par un point-virgule : en faveur du stagiaire qui bénéficie des congés visés aux articles 29 ou 29ter, paragraphe 2.
 
-4. À l’alinéa 10, le terme respectivement est inséré entre les termes sont prises et par le ministre du ressort et les termes ou le ministre ayant l’Administration gouvernementale dans ses attributions sont insérés entre les termes ministre du ressort et , sur avis du ministre .
+  - À l’alinéa 10, le terme respectivement est inséré entre les termes sont prises et par le ministre du ressort et les termes ou le ministre ayant l’Administration gouvernementale dans ses attributions sont insérés entre les termes ministre du ressort et , sur avis du ministre .
 
-3. Au paragraphe 4, l’alinéa 2 est remplacé comme suit : La période de stage comprend une partie de formation générale et une partie de formation spéciale.
+- Au paragraphe 4, l’alinéa 2 est remplacé comme suit : La période de stage comprend une partie de formation générale et une partie de formation spéciale.
 
 <a id="art-3"></a>
 ## Art. 3.
 
 L’article 4bis de la même loi est modifié comme suit :
 
-1. Le paragraphe 2 est modifié comme suit :
+- Le paragraphe 2 est modifié comme suit :
 
-1. À la suite de l’alinéa 4, il est inséré un nouvel alinéa libellé comme suit : En cas d’impossibilité d’effectuer l’entretien d’appréciation dans les trois derniers mois de la période de référence en raison de l’absence du fonctionnaire, l’entretien est effectué au cours des deux premiers mois de son retour.
+  - À la suite de l’alinéa 4, il est inséré un nouvel alinéa libellé comme suit : En cas d’impossibilité d’effectuer l’entretien d’appréciation dans les trois derniers mois de la période de référence en raison de l’absence du fonctionnaire, l’entretien est effectué au cours des deux premiers mois de son retour.
 
-2. À l’alinéa 5, devenu le nouvel alinéa 6, le terme cet est remplacé par le terme l’ .
+  - À l’alinéa 5, devenu le nouvel alinéa 6, le terme cet est remplacé par le terme l’ .
 
-2. Le paragraphe 3 est modifié comme suit :
+- Le paragraphe 3 est modifié comme suit :
 
-1. À l’alinéa 1 er , les termes à la fin sont remplacés par les termes au cours des trois derniers mois et le terme chaque est remplacé par le terme la .
+  - À l’alinéa 1 er , les termes à la fin sont remplacés par les termes au cours des trois derniers mois et le terme chaque est remplacé par le terme la .
 
-2. L’alinéa 2 est modifié comme suit :
+  - L’alinéa 2 est modifié comme suit :
 
-1. Les termes et critères sont insérés entre les termes Les conditions et d’appréciation et les termes celles fixées sont remplacés par les termes ceux fixés .
+    - Les termes et critères sont insérés entre les termes Les conditions et d’appréciation et les termes celles fixées sont remplacés par les termes ceux fixés .
 
-2. Le premier tiret est supprimé.
+    - Le premier tiret est supprimé.
 
-3. Au deuxième tiret, devenu le premier tiret, les termes est accompagné sont remplacés par les termes peut se faire accompagner , les termes ou par un autre agent de son administration sont ajoutés derrière les termes patron de stage et le point final est remplacé par un point-virgule.
+    - Au deuxième tiret, devenu le premier tiret, les termes est accompagné sont remplacés par les termes peut se faire accompagner , les termes ou par un autre agent de son administration sont ajoutés derrière les termes patron de stage et le point final est remplacé par un point-virgule.
 
-4. Après le deuxième tiret, devenu le premier tiret, il est ajouté un nouveau tiret libellé comme suit : - les effets des niveaux de performance ne s’appliquent pas au stagiaire.
+    - Après le deuxième tiret, devenu le premier tiret, il est ajouté un nouveau tiret libellé comme suit : - les effets des niveaux de performance ne s’appliquent pas au stagiaire.
 
-3. À l’alinéa 3, les termes l’une des appréciations prévues donne lieu à sont remplacés par les termes le stagiaire obtient et les termes le stagiaire sont remplacés par le terme il .
+  - À l’alinéa 3, les termes l’une des appréciations prévues donne lieu à sont remplacés par les termes le stagiaire obtient et les termes le stagiaire sont remplacés par le terme il .
 
-4. À la suite de l’alinéa 3, il est ajouté un nouvel alinéa 4, libellé comme suit : En cas d’impossibilité d’effectuer l’entretien d’appréciation au cours des trois derniers mois de la période de référence en raison de l’absence du stagiaire, la période de référence et, s’il y a lieu, le stage sont prolongés jusqu’au jour de la constatation du résultat de l’appréciation. Cette constatation doit être effectuée au cours des deux premiers mois de son retour.
+  - À la suite de l’alinéa 3, il est ajouté un nouvel alinéa 4, libellé comme suit : En cas d’impossibilité d’effectuer l’entretien d’appréciation au cours des trois derniers mois de la période de référence en raison de l’absence du stagiaire, la période de référence et, s’il y a lieu, le stage sont prolongés jusqu’au jour de la constatation du résultat de l’appréciation. Cette constatation doit être effectuée au cours des deux premiers mois de son retour.
 
 #### Chapitre 2 Modification de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique
 
@@ -97,25 +97,25 @@ L’article 4bis de la même loi est modifié comme suit :
 
 L’article 6 de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique est modifié comme suit :
 
-1. Le paragraphe 2 est modifié comme suit :
+- Le paragraphe 2 est modifié comme suit :
 
-1. À l’alinéa 1 er , les termes un cycle de formation de longue durée appelé « cycle long » et un cycle de formation de courte durée appelé « cycle court » sont remplacés par les termes au moins 90 heures .
+  - À l’alinéa 1 er , les termes un cycle de formation de longue durée appelé « cycle long » et un cycle de formation de courte durée appelé « cycle court » sont remplacés par les termes au moins 90 heures .
 
-2. Les alinéas 2 à 4 sont supprimés.
+  - Les alinéas 2 à 4 sont supprimés.
 
-3. À l’alinéa 5, les termes générale fixées pour les différentes sections prévues au présent paragraphe et les termes suivant les besoins et, le cas échéant, sur demande des associations du personnel ou des administrations de l’État sont supprimés.
+  - À l’alinéa 5, les termes générale fixées pour les différentes sections prévues au présent paragraphe et les termes suivant les besoins et, le cas échéant, sur demande des associations du personnel ou des administrations de l’État sont supprimés.
 
-2. Le paragraphe 3 est modifié comme suit :
+- Le paragraphe 3 est modifié comme suit :
 
-1. Les alinéas 1 er à 3 sont supprimés.
+  - Les alinéas 1 er à 3 sont supprimés.
 
-2. À l’alinéa 5, le terme théorique est supprimé et les termes ne peut pas être inférieure aux limites fixées ci-après : – 90 heures pour les stagiaires du groupe de traitement A1 ; – 100 heures pour les stagiaires du groupe de traitement A2 ; –110 heures pour les stagiaires du groupe de traitement B1 ; – 90 heures pour les stagiaires du groupe de traitement C1 ; – 60 heures pour les stagiaires des groupes de traitement D1, D2 et D3 sont remplacés par les termes comprend au moins 60 heures .
+  - À l’alinéa 5, le terme théorique est supprimé et les termes ne peut pas être inférieure aux limites fixées ci-après : – 90 heures pour les stagiaires du groupe de traitement A1 ; – 100 heures pour les stagiaires du groupe de traitement A2 ; –110 heures pour les stagiaires du groupe de traitement B1 ; – 90 heures pour les stagiaires du groupe de traitement C1 ; – 60 heures pour les stagiaires des groupes de traitement D1, D2 et D3 sont remplacés par les termes comprend au moins 60 heures .
 
-3. À l’alinéa 6, les termes Par dérogation aux dispositions de l’alinéa 5 du présent paragraphe, certaines sont remplacés par le terme Les et les termes L’institut est chargé d’organiser l’inscription du stagiaire dans ces programmes sont supprimés.
+  - À l’alinéa 6, les termes Par dérogation aux dispositions de l’alinéa 5 du présent paragraphe, certaines sont remplacés par le terme Les et les termes L’institut est chargé d’organiser l’inscription du stagiaire dans ces programmes sont supprimés.
 
-4. L’alinéa 8 est supprimé.
+  - L’alinéa 8 est supprimé.
 
-3. Le paragraphe 4 est abrogé.
+- Le paragraphe 4 est abrogé.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -127,9 +127,9 @@ L’article 6 de la loi modifiée du 15 juin 1999 portant organisation de l’In
 
 L’article 9bis, paragraphe 1er, de la même loi, est modifié comme suit :
 
-1. À l’alinéa 1 er , les termes Il est sanctionné par un contrôle des connaissances sont remplacés par les termes Il comprend au moins 90 heures de formation .
+- À l’alinéa 1 er , les termes Il est sanctionné par un contrôle des connaissances sont remplacés par les termes Il comprend au moins 90 heures de formation .
 
-2. L’alinéa 2 est supprimé.
+- L’alinéa 2 est supprimé.
 
 #### Chapitre 3 Modification de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État
 
@@ -138,39 +138,41 @@ L’article 9bis, paragraphe 1er, de la même loi, est modifié comme suit :
 
 L’article 4, paragraphe 1er, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifié comme suit :
 
-1. À l’alinéa 1 er , le terme quatrième est remplacé par le terme troisième .
+- À l’alinéa 1 er , le terme quatrième est remplacé par le terme troisième .
 
-2. À l’alinéa 2, les termes sous-groupe enseignement fondamental sont remplacés par les termes nommés à la fonction d’instituteur et le terme cinquième est remplacé par le terme quatrième .
+- À l’alinéa 2, les termes sous-groupe enseignement fondamental sont remplacés par les termes nommés à la fonction d’instituteur et le terme cinquième est remplacé par le terme quatrième .
 
-3. À l’alinéa 3, le terme cinquième est remplacé par le terme quatrième .
+- À l’alinéa 3, le terme cinquième est remplacé par le terme quatrième .
 
-4. À l’alinéa 4, le terme sixième est remplacé par le terme cinquième .
+- À l’alinéa 4, le terme sixième est remplacé par le terme cinquième .
 
-5. À l’alinéa 5, le terme troisième est remplacé par le terme deuxième .
+- À l’alinéa 5, le terme troisième est remplacé par le terme deuxième .
 
-6. À l’alinéa 6, le terme septième est remplacé par le terme sixième .
+- À l’alinéa 6, le terme septième est remplacé par le terme sixième .
 
 <a id="art-8"></a>
 ## Art. 8.
 
-À l’article 5, paragraphe 1er, de la même loi, les alinéas 1er et 2 sont remplacés comme suit : Lorsque le fonctionnaire obtient une nomination définitive au grade de début de son sous-groupe de traitement ou à un autre grade en application de l’article 4, les périodes de travail passées à tâche complète ou partielle avant cette nomination lui sont bonifiées pour la totalité du temps pour le calcul de son traitement initial.
+À l’article 5, paragraphe 1er, de la même loi, les alinéas 1er et 2 sont remplacés comme suit :
+
+Lorsque le fonctionnaire obtient une nomination définitive au grade de début de son sous-groupe de traitement ou à un autre grade en application de l’article 4, les périodes de travail passées à tâche complète ou partielle avant cette nomination lui sont bonifiées pour la totalité du temps pour le calcul de son traitement initial.
 
 <a id="art-9"></a>
 ## Art. 9.
 
 L’article 37 de la même loi est modifié comme suit :
 
-1. Le paragraphe 2 est remplacé comme suit : (2) Les indemnités des fonctionnaires stagiaires sont fixées au quatrième échelon du grade de computation de la bonification d’ancienneté défini pour chaque catégorie, groupe et sous-groupe de traitement ou fonction. Par dérogation à l’alinéa 1er, les indemnités sont fixées au cinquième échelon du grade de computation de la bonification d’ancienneté pour les fonctionnaires stagiaires de la catégorie de traitement A, groupe de traitement A2, chargés des fonctions d’instituteur de la rubrique « Enseignement ». Pour les fonctionnaires stagiaires de la catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, détenteurs d’un brevet de maîtrise ou d’un diplôme d’aptitude professionnelle ou d’un diplôme reconnu équivalent par le ministre ayant la Fonction publique dans ses attributions, les indemnités sont fixées au cinquième échelon du grade de computation de la bonification d’ancienneté. Pour les fonctionnaires stagiaires de la catégorie de traitement B, groupe de traitement B1, sous-groupe technique chargés des fonctions de contrôleur aérien auprès de l’Administration de la navigation aérienne de la rubrique « Administration générale », pour les fonctionnaires stagiaires de la catégorie de traitement C, groupe de traitement C1 de la rubrique « Armée, Police et Inspection générale de la Police » et pour les fonctionnaires de la catégorie de traitement D de la rubrique « Douanes », les indemnités sont fixées au sixième échelon du grade de computation de la bonification d’ancienneté. Pour les fonctionnaires stagiaires de la catégorie de traitement C, groupe de traitement C2, sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police », les indemnités sont fixées au septième échelon du grade de computation de la bonification d’ancienneté.
+- Le paragraphe 2 est remplacé comme suit : (2) Les indemnités des fonctionnaires stagiaires sont fixées au quatrième échelon du grade de computation de la bonification d’ancienneté défini pour chaque catégorie, groupe et sous-groupe de traitement ou fonction. Par dérogation à l’alinéa 1er, les indemnités sont fixées au cinquième échelon du grade de computation de la bonification d’ancienneté pour les fonctionnaires stagiaires de la catégorie de traitement A, groupe de traitement A2, chargés des fonctions d’instituteur de la rubrique « Enseignement ». Pour les fonctionnaires stagiaires de la catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, détenteurs d’un brevet de maîtrise ou d’un diplôme d’aptitude professionnelle ou d’un diplôme reconnu équivalent par le ministre ayant la Fonction publique dans ses attributions, les indemnités sont fixées au cinquième échelon du grade de computation de la bonification d’ancienneté. Pour les fonctionnaires stagiaires de la catégorie de traitement B, groupe de traitement B1, sous-groupe technique chargés des fonctions de contrôleur aérien auprès de l’Administration de la navigation aérienne de la rubrique « Administration générale », pour les fonctionnaires stagiaires de la catégorie de traitement C, groupe de traitement C1 de la rubrique « Armée, Police et Inspection générale de la Police » et pour les fonctionnaires de la catégorie de traitement D de la rubrique « Douanes », les indemnités sont fixées au sixième échelon du grade de computation de la bonification d’ancienneté. Pour les fonctionnaires stagiaires de la catégorie de traitement C, groupe de traitement C2, sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police », les indemnités sont fixées au septième échelon du grade de computation de la bonification d’ancienneté.
 
-2. Le paragraphe 3 est remplacé comme suit : (3) Les fonctionnaires stagiaires dont l’indemnité de base est inférieure à 150 points indi­ciaires, bénéficient d’un supplément d’indemnité de 7 points indiciaires. Toutefois, ce supplément est réduit d’autant de points indiciaires que le total de l’indemnité de base et du supplément dépasse la somme de 150 points indiciaires.
+- Le paragraphe 3 est remplacé comme suit : (3) Les fonctionnaires stagiaires dont l’indemnité de base est inférieure à 150 points indi­ciaires, bénéficient d’un supplément d’indemnité de 7 points indiciaires. Toutefois, ce supplément est réduit d’autant de points indiciaires que le total de l’indemnité de base et du supplément dépasse la somme de 150 points indiciaires.
 
-3. Le paragraphe 4 est abrogé.
+- Le paragraphe 4 est abrogé.
 
-4. Au paragraphe 5, l’alinéa 2 est supprimé.
+- Au paragraphe 5, l’alinéa 2 est supprimé.
 
-5. Au paragraphe 6, la deuxième phrase est supprimée.
+- Au paragraphe 6, la deuxième phrase est supprimée.
 
-6. Les paragraphes 7 et 8 sont abrogés.
+- Les paragraphes 7 et 8 sont abrogés.
 
 #### Chapitre 4 Modification de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État
 
@@ -184,36 +186,36 @@ L’article 37 de la même loi est modifié comme suit :
 
 L’article 20 de la même loi est modifié comme suit :
 
-1. Le paragraphe 1 er est remplacé comme suit : (1) L’indemnité des employés est fixée pendant la première année de service au troisième échelon du grade de computation de la bonification d’ancienneté défini pour chaque catégorie, groupe et sous-groupe d’indemnité et au quatrième échelon pendant la deuxième année de service.
+- Le paragraphe 1 er est remplacé comme suit : (1) L’indemnité des employés est fixée pendant la première année de service au troisième échelon du grade de computation de la bonification d’ancienneté défini pour chaque catégorie, groupe et sous-groupe d’indemnité et au quatrième échelon pendant la deuxième année de service.
 
-2. Le paragraphe 2 est abrogé.
+- Le paragraphe 2 est abrogé.
 
-3. Le paragraphe 3 est modifié comme suit :
+- Le paragraphe 3 est modifié comme suit :
 
-1. L’alinéa 1 er est remplacé comme suit : Les deux premières années de service de l’employé à compter de l’entrée en vigueur de son contrat à durée indéterminée sont considérées comme période d’initiation. Pendant cette période, l’employé doit suivre un cycle de formation de début de carrière.
+  - L’alinéa 1 er est remplacé comme suit : Les deux premières années de service de l’employé à compter de l’entrée en vigueur de son contrat à durée indéterminée sont considérées comme période d’initiation. Pendant cette période, l’employé doit suivre un cycle de formation de début de carrière.
 
-2. À l’alinéa 2, les termes pendant les trois premières années de service l’employé nouvellement engagé visé par le présent paragraphe sont remplacés par les termes l’employé pendant la période d’initiation .
+  - À l’alinéa 2, les termes pendant les trois premières années de service l’employé nouvellement engagé visé par le présent paragraphe sont remplacés par les termes l’employé pendant la période d’initiation .
 
-3. À la suite de l’alinéa 2, il est ajouté un nouvel alinéa 3, libellé comme suit : Pendant la période d’initiation, les dispositions de l’article 4bis, paragraphe 3, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État sont applicables.
+  - À la suite de l’alinéa 2, il est ajouté un nouvel alinéa 3, libellé comme suit : Pendant la période d’initiation, les dispositions de l’article 4bis, paragraphe 3, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État sont applicables.
 
-4. Le paragraphe 4 est abrogé.
+- Le paragraphe 4 est abrogé.
 
-5. Le paragraphe 5 est remplacé comme suit : (5) Une réduction de la période prévue au paragraphe 1er et de la période d’initiation est accordée à l’employé suivant les conditions et modalités prévues pour la réduction de stage des fonctionnaires de l’État conformément à l’article 2, paragraphe 3, alinéa 12, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.
+- Le paragraphe 5 est remplacé comme suit : (5) Une réduction de la période prévue au paragraphe 1er et de la période d’initiation est accordée à l’employé suivant les conditions et modalités prévues pour la réduction de stage des fonctionnaires de l’État conformément à l’article 2, paragraphe 3, alinéa 12, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.
 
-6. Le paragraphe 6 est abrogé.
+- Le paragraphe 6 est abrogé.
 
 <a id="art-12"></a>
 ## Art. 12.
 
 L’article 21 de la même loi est modifié comme suit :
 
-1. Au paragraphe 1 er , alinéa 1 er , les termes de stage sont remplacés par les termes prévue à l’article 20, paragraphe 1er .
+- Au paragraphe 1 er , alinéa 1 er , les termes de stage sont remplacés par les termes prévue à l’article 20, paragraphe 1er .
 
-2. Au paragraphe 2, l’alinéa 2 est supprimé.
+- Au paragraphe 2, l’alinéa 2 est supprimé.
 
-3. Le paragraphe 3 est abrogé.
+- Le paragraphe 3 est abrogé.
 
-4. Au paragraphe 5, les termes ou un an de service sont supprimés.
+- Au paragraphe 5, les termes ou un an de service sont supprimés.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -264,13 +266,13 @@ L’article 4, alinéa 2, de la loi modifiée du 30 juillet 2015 portant créati
 
 L’article 60 de la même loi est modifié comme suit :
 
-1. Le paragraphe 1 er est modifié comme suit :
+- Le paragraphe 1 er est modifié comme suit :
 
-1. L’alinéa 1 er est remplacé comme suit : Les fonctionnaires stagiaires du cadre policier suivent une formation professionnelle de base de deux ans.
+  - L’alinéa 1 er est remplacé comme suit : Les fonctionnaires stagiaires du cadre policier suivent une formation professionnelle de base de deux ans.
 
-2. À l’alinéa 2, les termes La phase de formation policière théorique et pratique de vingt-quatre mois sont remplacés par les termes La formation professionnelle de base .
+  - À l’alinéa 2, les termes La phase de formation policière théorique et pratique de vingt-quatre mois sont remplacés par les termes La formation professionnelle de base .
 
-2. Au paragraphe 2, les termes de deux ans, laquelle comprend une phase de formation policière théorique et pratique de douze mois et une phase d’initiation pratique de douze mois sont remplacés par les termes d’un an .
+- Au paragraphe 2, les termes de deux ans, laquelle comprend une phase de formation policière théorique et pratique de douze mois et une phase d’initiation pratique de douze mois sont remplacés par les termes d’un an .
 
 <a id="art-22"></a>
 ## Art. 22.

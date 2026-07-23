@@ -42,11 +42,11 @@ Le groupement est doté de la personnalité juridique.
 
 Le groupement d'intérêt économique ne peut:
 
-1. exercer, directement ou indirectement, le pouvoir de direction ou de contrôle des activités propres de ses membres ou des activités d'une autre entreprise, notamment dans les domaines relatifs au personnel, aux finances et aux investissements;
+- exercer, directement ou indirectement, le pouvoir de direction ou de contrôle des activités propres de ses membres ou des activités d'une autre entreprise, notamment dans les domaines relatifs au personnel, aux finances et aux investissements;
 
-2. détenir, directement ou indirectement, à quelque titre que ce soit, aucune part ou action, quelle qu'en soit la forme, dans une entreprise membre; la détention de parts ou d'actions dans une autre entreprise n'est possible que dans la mesure où elle est nécessaire pour atteindre l'objectif du groupement et où elle a lieu pour le compte de ses membres;
+- détenir, directement ou indirectement, à quelque titre que ce soit, aucune part ou action, quelle qu'en soit la forme, dans une entreprise membre; la détention de parts ou d'actions dans une autre entreprise n'est possible que dans la mesure où elle est nécessaire pour atteindre l'objectif du groupement et où elle a lieu pour le compte de ses membres;
 
-3. rechercher des bénéfices pour son propre compte.
+- rechercher des bénéfices pour son propre compte.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -75,21 +75,21 @@ La personnalité juridique est acquise au groupement dès la conclusion du contr
 
 Le contrat constitutif d'un groupement contient au moins les mentions suivantes:
 
-1. la dénomination du groupement;
+- la dénomination du groupement;
 
-2. la désignation précise de l'objet du groupement;
+- la désignation précise de l'objet du groupement;
 
-3. les nom, prénoms, raison sociale ou dénomination sociale, la forme juridique, l'objet social, le domicile ou le siège social et le cas échéant le numéro d'immatriculation au registre de commerce et des sociétés de chacun des membres du groupement;
+- les nom, prénoms, raison sociale ou dénomination sociale, la forme juridique, l'objet social, le domicile ou le siège social et le cas échéant le numéro d'immatriculation au registre de commerce et des sociétés de chacun des membres du groupement;
 
-4. la durée pour laquelle le groupement est constitué lorsqu'elle n'est pas illimitée;
+- la durée pour laquelle le groupement est constitué lorsqu'elle n'est pas illimitée;
 
-5. la désignation du siège du groupement;
+- la désignation du siège du groupement;
 
-6. les conditions de nomination et de révocation du ou des gérants;
+- les conditions de nomination et de révocation du ou des gérants;
 
-7. la nature et la valeur des apports éventuels, ainsi que les noms, raison sociale ou dénomination des membres apporteurs;
+- la nature et la valeur des apports éventuels, ainsi que les noms, raison sociale ou dénomination des membres apporteurs;
 
-8. les modalités de gestion du groupement.
+- les modalités de gestion du groupement.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -103,11 +103,11 @@ Les fondateurs sont tenus solidairement envers les intéressés, malgré toute s
 
 Les contrats de groupement sont publiés en intégralité ou par extrait aux frais du groupement. L'extrait contient:
 
-1. les indications visées à l'article 5, 1° à 7°;
+- les indications visées à l'article 5, 1° à 7°;
 
-2. le cas échéant, la clause exonérant un nouveau membre du paiement des dettes antérieures à son admission;
+- le cas échéant, la clause exonérant un nouveau membre du paiement des dettes antérieures à son admission;
 
-3. le cas échéant, la clause donnant qualité à un ou plusieurs gérants pour représenter le groupement, seuls ou conjointement.
+- le cas échéant, la clause donnant qualité à un ou plusieurs gérants pour représenter le groupement, seuls ou conjointement.
 
 (2)
 
@@ -132,9 +132,9 @@ Le groupement est immatriculé au registre de commerce et des sociétés, sans q
 
 Sont déposées et publiées conformément à l'article 7:
 
-1. la clause exonérant un nouveau membre du paiement des dettes antérieures à son admission lorsque celle-ci figure dans l'acte d'admission;
+- la clause exonérant un nouveau membre du paiement des dettes antérieures à son admission lorsque celle-ci figure dans l'acte d'admission;
 
-2. la décision des membres du groupement prononçant la dissolution du groupement.
+- la décision des membres du groupement prononçant la dissolution du groupement.
 
 (2)
 
@@ -151,13 +151,13 @@ Fait l'objet d'une déclaration signée des organes compétents du groupement: l
 
 Tous les actes, factures, annonces, publications, lettres, notes de commande et autres documents émanant d'un groupement doivent contenir:
 
-1. la dénomination du groupement;
+- la dénomination du groupement;
 
-2. la mention «groupement d'intérêt économique» reproduite lisiblement et en toutes lettres ou en abrégé «G.I.E.», placée immédiatement avant ou après la dénomination;
+- la mention «groupement d'intérêt économique» reproduite lisiblement et en toutes lettres ou en abrégé «G.I.E.», placée immédiatement avant ou après la dénomination;
 
-3. l'indication précise du siège du groupement;
+- l'indication précise du siège du groupement;
 
-4. les mots «Registre de commerce et des sociétés, Luxembourg» ou les initiales «R.C.S. Luxembourg» suivis du numéro d'immatriculation .
+- les mots «Registre de commerce et des sociétés, Luxembourg» ou les initiales «R.C.S. Luxembourg» suivis du numéro d'immatriculation .
 
 (2)
 
@@ -237,19 +237,19 @@ Sauf disposition contraire du contrat,l'assemblée dispose des pouvoirs les plus
 
 Les membres du groupement ne peuvent décider qu'à l'unanimité de:
 
-1. modifier l'objet du groupement;
+- modifier l'objet du groupement;
 
-2. modifier le nombre de voix attribué à chaque membre;
+- modifier le nombre de voix attribué à chaque membre;
 
-3. modifier les conditions de prise de décision;
+- modifier les conditions de prise de décision;
 
-4. proroger la durée du groupement au-delà du terme fixé dans le contrat de groupement;
+- proroger la durée du groupement au-delà du terme fixé dans le contrat de groupement;
 
-5. modifier la part contributive de chacun desmembres ou de certains d'entre eux au financement du groupement;
+- modifier la part contributive de chacun desmembres ou de certains d'entre eux au financement du groupement;
 
-6. modifier toute autre obligation d'un membre à moins que le contrat de groupement n'en dispose autrement;
+- modifier toute autre obligation d'un membre à moins que le contrat de groupement n'en dispose autrement;
 
-7. procéder à toute modification du contrat de groupement non visée au présent alinéa, à moins que le contrat n'en dispose autrement. Dans tous les cas où la présente loi ne prévoit pas que les décisions doivent être prises à l'unanimité, le contrat de groupement peut déterminer les conditions de quorum et de majorité dans lesquelles les décisions ou certaines d'entre elles seront prises. Dans le silence du contrat, les décisions seront prises à l'unanimité.
+- procéder à toute modification du contrat de groupement non visée au présent alinéa, à moins que le contrat n'en dispose autrement. Dans tous les cas où la présente loi ne prévoit pas que les décisions doivent être prises à l'unanimité, le contrat de groupement peut déterminer les conditions de quorum et de majorité dans lesquelles les décisions ou certaines d'entre elles seront prises. Dans le silence du contrat, les décisions seront prises à l'unanimité.
 
 (3)
 
@@ -323,17 +323,17 @@ En cas de nullité du groupement, de même qu'en cas de dissolution par décisio
 
 Le groupement d'intérêt économique est dissous:
 
-1. par la réalisation ou l'extinction de son objet;
+- par la réalisation ou l'extinction de son objet;
 
-2. par l'arrivée du terme pour lequel le groupement est constitué;
+- par l'arrivée du terme pour lequel le groupement est constitué;
 
-3. par la décision de ses membres dans les conditions prévues à l'article 13;
+- par la décision de ses membres dans les conditions prévues à l'article 13;
 
-4. par décision judiciaire prononcée à la demande d'un membre lorsqu'il existe entre les membres ou des groupes de membres une mésintelligence telle qu'elle empêche le fonctionnement des organes du groupement, ou pour tout autre juste motif;
+- par décision judiciaire prononcée à la demande d'un membre lorsqu'il existe entre les membres ou des groupes de membres une mésintelligence telle qu'elle empêche le fonctionnement des organes du groupement, ou pour tout autre juste motif;
 
-5. par l'incapacité, le décès, la dissolution, la mise en faillite ou la démission d'un membre du groupement, sauf si le contrat en dispose autrement auquel cas le groupement subsiste entre les autres membres aux conditions déterminéespar lecontratou, à défaut, par cesmembres délibérant selon les règles relatives aux modifications du contrat;
+- par l'incapacité, le décès, la dissolution, la mise en faillite ou la démission d'un membre du groupement, sauf si le contrat en dispose autrement auquel cas le groupement subsiste entre les autres membres aux conditions déterminéespar lecontratou, à défaut, par cesmembres délibérant selon les règles relatives aux modifications du contrat;
 
-6. lorsqu'il ne comprend plus qu'un seul membre.
+- lorsqu'il ne comprend plus qu'un seul membre.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -410,20 +410,20 @@ La clôture de la liquidation sera publiée dans les conditions prévues à l'ar
 
 Cette publication comprendra en outre:
 
-1. l'indication de l'endroit désigné par l'assemblée, où les livres et documents devront être déposés et conservés pendant cinq ans au moins;
+- l'indication de l'endroit désigné par l'assemblée, où les livres et documents devront être déposés et conservés pendant cinq ans au moins;
 
-2. l'indication des mesures prises en vue de la consignation des sommes et valeurs revenant aux créanciers et aux membres et dont la remise n'aurait pu leur être faite.
+- l'indication des mesures prises en vue de la consignation des sommes et valeurs revenant aux créanciers et aux membres et dont la remise n'aurait pu leur être faite.
 
 <a id="art-23"></a>
 ## Art. 23.
 
 Sont prescrites par cinq ans:
 
-1. toutes actions de tiers contre les membres du groupement ou leurs ayants droit à partir de la publication, soit de la perte de leur qualité de membre, soit d'un acte de dissolution, soit de l'arrivée de son terme contractuel;
+- toutes actions de tiers contre les membres du groupement ou leurs ayants droit à partir de la publication, soit de la perte de leur qualité de membre, soit d'un acte de dissolution, soit de l'arrivée de son terme contractuel;
 
-2. toutes actions contre les liquidateurs, en cette qualité, à partir de la publication de la clôture de la liquidation;
+- toutes actions contre les liquidateurs, en cette qualité, à partir de la publication de la clôture de la liquidation;
 
-3. toutes actions contre les gérants et les liquidateurs, pour faits de leurs fonctions, à partir de ces faits ou, s'ils ont été celés par dol, à partir de la découverte de ces faits.
+- toutes actions contre les gérants et les liquidateurs, pour faits de leurs fonctions, à partir de ces faits ou, s'ils ont été celés par dol, à partir de la découverte de ces faits.
 
 <a id="art-24"></a>
 ## Art. 24.
@@ -455,11 +455,11 @@ Sont punis d'une amende de 10.000 francs à 1.000.000 de francs les fondateurs d
 
 Sont punis de la même peine:
 
-1. les fondateurs d'un groupement constitué sans que les énonciations prévues à l'article 5, 1° à 5° et 7° aient été faites dans le contrat constitutif du groupement;
+- les fondateurs d'un groupement constitué sans que les énonciations prévues à l'article 5, 1° à 5° et 7° aient été faites dans le contrat constitutif du groupement;
 
-2. les gérants ou les liquidateurs qui auraient négligé de convoquer, dans les trois semaines de la réquisition qui leur en aura été faite, l'assemblée prévue à l'article 13;
+- les gérants ou les liquidateurs qui auraient négligé de convoquer, dans les trois semaines de la réquisition qui leur en aura été faite, l'assemblée prévue à l'article 13;
 
-3. ceux qui contreviennent aux dispositions de l'article 24 (1).
+- ceux qui contreviennent aux dispositions de l'article 24 (1).
 
 <a id="art-28"></a>
 ## Art. 28.
@@ -574,11 +574,11 @@ L'article 22 alinéa 2 du texte coordonné de l'arrêté grand-ducal du 23 déce
 
 L'article 23 du texte coordonné de l'arrêté grand-ducal du 23 décembre 1909 concernant l'exécution de la loi du même jour sur le registre de commerce et des sociétés est modifié comme suit:
 
-1. Au 1 er alinéa, les mots: Sociétés en nom collectif et sociétés en commandite sont remplacés par les mots: Sociétés en nom collectif, sociétés en commandite, groupements d'intérêt économique et groupement européen d'intérêt économique.
+- Au 1 er alinéa, les mots: Sociétés en nom collectif et sociétés en commandite sont remplacés par les mots: Sociétés en nom collectif, sociétés en commandite, groupements d'intérêt économique et groupement européen d'intérêt économique.
 
-2. Le 2 e alinéa est complété comme suit: les sociétés coopératives et les personnes morales exerçant le commerce autres que les sociétés et groupements tarifés ci-dessus ayant un fonds de réserve de plus de 100.000 F paient les mêmes taxes que les sociétés anonymes, les sociétés en commandite par actions et les sociétés à responsabilité limitée (lettre b et c) .
+- Le 2 e alinéa est complété comme suit: les sociétés coopératives et les personnes morales exerçant le commerce autres que les sociétés et groupements tarifés ci-dessus ayant un fonds de réserve de plus de 100.000 F paient les mêmes taxes que les sociétés anonymes, les sociétés en commandite par actions et les sociétés à responsabilité limitée (lettre b et c) .
 
-3. L'avant-dernier alinéa est complété comme suit: Modifications du personnel dans les comités des sociétés coopératives, sans tenir compte du nombre des personnes, modifications dans le personnel des représentants de sociétés ou de groupements, sans tenir compte du nombre des personnes: 120 F .
+- L'avant-dernier alinéa est complété comme suit: Modifications du personnel dans les comités des sociétés coopératives, sans tenir compte du nombre des personnes, modifications dans le personnel des représentants de sociétés ou de groupements, sans tenir compte du nombre des personnes: 120 F .
 
 <a id="art-47"></a>
 ## Art. 47.

@@ -39,13 +39,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour l'application de la présente loi, seront considérés comme fonds d'investissement alternatifs réservés tous les organismes de placement collectif situés au Luxembourg:
 
-1. qui se qualifient de fonds d'investissement alternatifs sous la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs, et
+- qui se qualifient de fonds d'investissement alternatifs sous la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs, et
 
-2. dont l'objet exclusif est le placement collectif de leurs fonds en valeurs dans le but de répartir les risques d'investissement et de faire bénéficier les investisseurs des résultats de la gestion de leurs actifs, et
+- dont l'objet exclusif est le placement collectif de leurs fonds en valeurs dans le but de répartir les risques d'investissement et de faire bénéficier les investisseurs des résultats de la gestion de leurs actifs, et
 
-3. qui réservent leurs titres ou parts d'intérêts à un ou plusieurs investisseurs avertis, et
+- qui réservent leurs titres ou parts d'intérêts à un ou plusieurs investisseurs avertis, et
 
-4. dont les statuts, le règlement de gestion ou le contrat social prévoient qu'ils sont soumis aux dispositions de la présente loi.
+- dont les statuts, le règlement de gestion ou le contrat social prévoient qu'ils sont soumis aux dispositions de la présente loi.
 
 Par «gestion» au sens du point b), on entend une activité comprenant au moins le service de gestion de portefeuille.
 
@@ -60,13 +60,13 @@ Les fonds d'investissement alternatifs réservés peuvent revêtir les formes ju
 
 Est investisseur averti au sens de la présente loi, l'investisseur institutionnel, l'investisseur professionnel au sens de l’annexe II de la Directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE, ci-après « directive 2014/65/UE », ainsi que tout autre investisseur qui répond aux conditions suivantes:
 
-1. il a déclaré par écrit son adhésion au statut d'investisseur averti et
+- il a déclaré par écrit son adhésion au statut d'investisseur averti et
 
-2.
+-
 
-1. il investit un minimum de 100.000 euros dans le fonds d'investissement alternatif réservé, ou
+  - il investit un minimum de 100.000 euros dans le fonds d'investissement alternatif réservé, ou
 
-2. il bénéficie d'une appréciation, de la part d'un établissement de crédit au sens du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises d'investissement et modifiant le règlement (UE) n° 648/2012 , d'une entreprise d'investissement au sens de la directive 2014/65/UE , d'une société de gestion au sens de la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) ou d'un gestionnaire de fonds d'investissement alternatifs autorisé au sens de la directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d'investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) n° 1060/2009 et (UE) n° 1095/2010 (ci-après, « directive 2011/61/UE »), certifiant son expertise, son expérience et sa connaissance pour apprécier de manière adéquate le placement effectué dans le fonds d'investissement alternatif réservé.
+  - il bénéficie d'une appréciation, de la part d'un établissement de crédit au sens du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises d'investissement et modifiant le règlement (UE) n° 648/2012 , d'une entreprise d'investissement au sens de la directive 2014/65/UE , d'une société de gestion au sens de la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) ou d'un gestionnaire de fonds d'investissement alternatifs autorisé au sens de la directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d'investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) n° 1060/2009 et (UE) n° 1095/2010 (ci-après, « directive 2011/61/UE »), certifiant son expertise, son expérience et sa connaissance pour apprécier de manière adéquate le placement effectué dans le fonds d'investissement alternatif réservé.
 
 (2)
 
@@ -178,9 +178,9 @@ L'émission et, le cas échéant, le rachat des parts s'opèrent suivant les mod
 
 L'émission et le rachat des parts sont interdits:
 
-1. pendant la période où il n'y a pas de société de gestion ou de dépositaire;
+- pendant la période où il n'y a pas de société de gestion ou de dépositaire;
 
-2. en cas de mise en liquidation, de déclaration en faillite ou de demande d'admission au bénéfice du concordat, du sursis de paiement ou de la gestion contrôlée ou d'une mesure analogue visant la société de gestion ou le dépositaire.
+- en cas de mise en liquidation, de déclaration en faillite ou de demande d'admission au bénéfice du concordat, du sursis de paiement ou de la gestion contrôlée ou d'une mesure analogue visant la société de gestion ou le dépositaire.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -205,25 +205,25 @@ La société de gestion établit le règlement de gestion du fonds commun de pla
 
 Le règlement de gestion du fonds commun de placement contient au moins les indications suivantes:
 
-1. la dénomination et la durée du fonds commun de placement, la dénomination de la société de gestion et du dépositaire;
+- la dénomination et la durée du fonds commun de placement, la dénomination de la société de gestion et du dépositaire;
 
-2. la politique d'investissement, en fonction des buts spécifiques qu'elle se propose et des critères dont elle s'inspire;
+- la politique d'investissement, en fonction des buts spécifiques qu'elle se propose et des critères dont elle s'inspire;
 
-3. la politique de distribution dans le cadre de l'article 16;
+- la politique de distribution dans le cadre de l'article 16;
 
-4. les rémunérations et les dépenses que la société de gestion est habilitée à prélever sur le fonds, ainsi que le mode de calcul de ces rémunérations;
+- les rémunérations et les dépenses que la société de gestion est habilitée à prélever sur le fonds, ainsi que le mode de calcul de ces rémunérations;
 
-5. les dispositions sur la publicité;
+- les dispositions sur la publicité;
 
-6. la date de clôture des comptes du fonds commun de placement;
+- la date de clôture des comptes du fonds commun de placement;
 
-7. les cas de dissolution du fonds commun de placement, sans préjudice des causes légales;
+- les cas de dissolution du fonds commun de placement, sans préjudice des causes légales;
 
-8. les modalités d'amendement du règlement de gestion;
+- les modalités d'amendement du règlement de gestion;
 
-9. les modalités d'émission et, le cas échéant, de rachat des parts;
+- les modalités d'émission et, le cas échéant, de rachat des parts;
 
-10. les règles applicables à l'évaluation et au calcul de la valeur nette d'inventaire par part.
+- les règles applicables à l'évaluation et au calcul de la valeur nette d'inventaire par part.
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -260,15 +260,15 @@ La société de gestion et le dépositaire doivent, dans l'exercice de leurs fon
 
 Les fonctions de la société de gestion ou du dépositaire à l'égard du fonds commun de placement prennent fin:
 
-1. en cas de retrait de la société de gestion, à la condition qu'elle soit remplacée par une autre société de gestion agréée au sens de l'article 8;
+- en cas de retrait de la société de gestion, à la condition qu'elle soit remplacée par une autre société de gestion agréée au sens de l'article 8;
 
-2. en cas de retrait du dépositaire intervenu de sa propre initiative ou de celle de la société de gestion; en attendant son remplacement qui doit avoir lieu dans les deux mois, il prendra toutes les mesures nécessaires à la bonne conservation des intérêts des porteurs de parts;
+- en cas de retrait du dépositaire intervenu de sa propre initiative ou de celle de la société de gestion; en attendant son remplacement qui doit avoir lieu dans les deux mois, il prendra toutes les mesures nécessaires à la bonne conservation des intérêts des porteurs de parts;
 
-3. lorsque la société de gestion ou le dépositaire a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation;
+- lorsque la société de gestion ou le dépositaire a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation;
 
-4. lorsque l'autorité de contrôle compétente retire son agrément à la société de gestion ou au dépositaire;
+- lorsque l'autorité de contrôle compétente retire son agrément à la société de gestion ou au dépositaire;
 
-5. dans tous les autres cas prévus par le règlement de gestion.
+- dans tous les autres cas prévus par le règlement de gestion.
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -277,15 +277,15 @@ Les fonctions de la société de gestion ou du dépositaire à l'égard du fonds
 
 Le fonds commun de placement se trouve en état de liquidation:
 
-1. à l'échéance du délai éventuellement fixé par le règlement de gestion;
+- à l'échéance du délai éventuellement fixé par le règlement de gestion;
 
-2. en cas de cessation des fonctions de la société de gestion ou du dépositaire conformément aux points b), c), d) et e) de l'article 18, s'ils n'ont pas été remplacés dans les deux mois, sans préjudice du cas spécifique visé au point c) ci-dessous;
+- en cas de cessation des fonctions de la société de gestion ou du dépositaire conformément aux points b), c), d) et e) de l'article 18, s'ils n'ont pas été remplacés dans les deux mois, sans préjudice du cas spécifique visé au point c) ci-dessous;
 
-3. en cas de faillite de la société de gestion;
+- en cas de faillite de la société de gestion;
 
-4. si l'actif net du fonds commun de placement est devenu inférieur pendant plus de six mois au quart du minimum légal prévu à l'article 20 ci-après;
+- si l'actif net du fonds commun de placement est devenu inférieur pendant plus de six mois au quart du minimum légal prévu à l'article 20 ci-après;
 
-5. dans tous les autres cas prévus par le règlement de gestion.
+- dans tous les autres cas prévus par le règlement de gestion.
 
 (2)
 
@@ -372,9 +372,9 @@ Les statuts ou le contrat social précisent les conditions dans lesquelles les �
 
 L’émission et le rachat des titres ou parts d’intérêts sont interdits :
 
-1. pendant la période où la SICAV n’a pas de dépositaire ;
+- pendant la période où la SICAV n’a pas de dépositaire ;
 
-2. en cas de mise en liquidation, de déclaration en faillite ou de demande d’admission au bénéfice du concordat, du sursis de paiement ou de la gestion contrôlée ou d’une mesure analogue visant le dépositaire.
+- en cas de mise en liquidation, de déclaration en faillite ou de demande d’admission au bénéfice du concordat, du sursis de paiement ou de la gestion contrôlée ou d’une mesure analogue visant le dépositaire.
 
 (6)
 
@@ -500,7 +500,7 @@ La dénomination des fonds d'investissement alternatifs réservés régis par le
 
 (1)
 
-La constitution de tout fonds d'investissement alternatif réservé doit être constatée par acte notarié dans les 5 jours ouvrables de sa constitution, sauf si le fonds d’investissement alternatif réservé est formé par acte notarié .
+La constitution de tout fonds d'investissement alternatif réservé doit être constatée par acte notarié dans les 5 jours ouvrables de sa constitution , sauf si le fonds d’investissement alternatif réservé est formé par acte notarié .
 
 (2)
 
@@ -726,25 +726,25 @@ Le taux de la taxe d'abonnement annuelle due par les fonds d'investissement alte
 
 Sont exonérés de la taxe d'abonnement:
 
-1. la valeur des avoirs représentée par des parts détenues dans d'autres organismes de placement collectif pour autant que ces parts ont déjà été soumises à la taxe d'abonnement prévue par le présent article ou par l'article 174 de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif ou par l'article 68 de la loi modifiée du 13 février 2007 concernant les fonds d'investissement spécialisés . Pour se voir appliquer l’exonération de la taxe d’abonnement sur la valeur des avoirs représentée par des parts d’autres organismes de placement collectif qui sont déjà soumises à la taxe d’abonnement, les organismes qui détiennent de telles parts doivent en indiquer séparément la valeur dans les déclarations périodiques qu’ils font à l’Administration de l’enregistrement, des domaines et de la TVA ;
+- la valeur des avoirs représentée par des parts détenues dans d'autres organismes de placement collectif pour autant que ces parts ont déjà été soumises à la taxe d'abonnement prévue par le présent article ou par l'article 174 de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif ou par l'article 68 de la loi modifiée du 13 février 2007 concernant les fonds d'investissement spécialisés . Pour se voir appliquer l’exonération de la taxe d’abonnement sur la valeur des avoirs représentée par des parts d’autres organismes de placement collectif qui sont déjà soumises à la taxe d’abonnement, les organismes qui détiennent de telles parts doivent en indiquer séparément la valeur dans les déclarations périodiques qu’ils font à l’Administration de l’enregistrement, des domaines et de la TVA ;
 
-2. les fonds d'investissement alternatifs réservés ainsi que les compartiments individuels de fonds d'investissement alternatifs réservés à compartiments multiples:
+- les fonds d'investissement alternatifs réservés ainsi que les compartiments individuels de fonds d'investissement alternatifs réservés à compartiments multiples:
 
-1. qui sont autorisés en tant que fonds monétaires à court terme conformément au règlement (UE) 2017/1131 du Parlement européen et du Conseil du 14 juin 2017 sur les fonds monétaires ; et
+  - qui sont autorisés en tant que fonds monétaires à court terme conformément au règlement (UE) 2017/1131 du Parlement européen et du Conseil du 14 juin 2017 sur les fonds monétaires ; et
 
-2. dont l'échéance résiduelle pondérée du portefeuille ne dépasse pas 90 jours; et
+  - dont l'échéance résiduelle pondérée du portefeuille ne dépasse pas 90 jours; et
 
-3. qui bénéficient de la notation la plus élevée possible d'une agence de notation reconnue;
+  - qui bénéficient de la notation la plus élevée possible d'une agence de notation reconnue;
 
-3. les fonds d'investissement alternatifs réservés ainsi que les compartiments individuels et les classes individuelles des fonds d'investissement alternatifs réservés dont les titres ou parts d'intérêts sont réservés à:
+- les fonds d'investissement alternatifs réservés ainsi que les compartiments individuels et les classes individuelles des fonds d'investissement alternatifs réservés dont les titres ou parts d'intérêts sont réservés à:
 
-1. des institutions de retraite professionnelle, ou véhicules d'investissement similaires, créés sur l'initiative d'un ou de plusieurs employeurs pour le bénéfice de leurs salariés; et
+  - des institutions de retraite professionnelle, ou véhicules d'investissement similaires, créés sur l'initiative d'un ou de plusieurs employeurs pour le bénéfice de leurs salariés; et
 
-2. des sociétés d'un ou de plusieurs employeurs investissant les fonds qu'ils détiennent, pour fournir des prestations de retraite à leurs salariés;
+  - des sociétés d'un ou de plusieurs employeurs investissant les fonds qu'ils détiennent, pour fournir des prestations de retraite à leurs salariés;
 
-4. les fonds d'investissement alternatifs réservés ainsi que les compartiments individuels des fonds d'investissement alternatifs réservés à compartiments multiples dont la politique d'investissement prescrit qu'au moins 50 pour cent de leurs actifs sont investis dans une ou plusieurs institutions de microfinance. Sont des institutions de microfinance au sens du présent point les institutions financières dont au moins la moitié des actifs est constituée par des investissements dans la microfinance ainsi que les organismes de placement collectif, les fonds d'investissement spécialisés et fonds d'investissement alternatifs réservés dont la politique d'investissement prescrit qu'au moins 50 pour cent de leurs actifs sont investis dans une ou plusieurs institutions de microfinance. a microfinance vise toute opération financière autre que les prêts à la consommation dont l'objectif est d'assister les populations pauvres exclues du système financier traditionnel par le financement de petites activités génératrices de revenus et dont la valeur ne dépasse pas 5.000 euros ;
+- les fonds d'investissement alternatifs réservés ainsi que les compartiments individuels des fonds d'investissement alternatifs réservés à compartiments multiples dont la politique d'investissement prescrit qu'au moins 50 pour cent de leurs actifs sont investis dans une ou plusieurs institutions de microfinance. Sont des institutions de microfinance au sens du présent point les institutions financières dont au moins la moitié des actifs est constituée par des investissements dans la microfinance ainsi que les organismes de placement collectif, les fonds d'investissement spécialisés et fonds d'investissement alternatifs réservés dont la politique d'investissement prescrit qu'au moins 50 pour cent de leurs actifs sont investis dans une ou plusieurs institutions de microfinance. a microfinance vise toute opération financière autre que les prêts à la consommation dont l'objectif est d'assister les populations pauvres exclues du système financier traditionnel par le financement de petites activités génératrices de revenus et dont la valeur ne dépasse pas 5.000 euros ;
 
-5. les fonds d’investissement alternatifs réservés ainsi que les compartiments individuels des fonds d’investissement alternatifs réservés à compartiments multiples qui sont autorisés en tant que fonds européens d’investissement à long terme conformément au règlement (UE) 2015/760 du Parlement européen et du Conseil du 29 avril 2015 relatif aux fonds européens d’investissement à long terme.
+- les fonds d’investissement alternatifs réservés ainsi que les compartiments individuels des fonds d’investissement alternatifs réservés à compartiments multiples qui sont autorisés en tant que fonds européens d’investissement à long terme conformément au règlement (UE) 2015/760 du Parlement européen et du Conseil du 29 avril 2015 relatif aux fonds européens d’investissement à long terme.
 
 Pour se voir appliquer ces exonérations, les fonds d'investissement alternatifs réservés doivent en indiquer séparément la valeur des avoirs nets éligibles dans les déclarations périodiques qu'ils font à l’Administration de l’enregistrement, des domaines et de la TVA .
 
@@ -770,7 +770,7 @@ Si, à une date postérieure à la constitution des fonds d'investissement alter
 
 a) Les articles 45, paragraphe 1er, 46 et 47 ne s'appliquent pas aux fonds d'investissement alternatifs réservés visés aux chapitres 3 et 4, qui prévoient dans leurs documents constitutifs que leur objet exclusif est le placement de leurs fonds en valeurs représentatives de capital à risque et que les dispositions du présent article leur sont applicables. Par placement en capital à risque, on entend l'apport de fonds direct ou indirect à des entités en vue de leur lancement, de leur développement ou de leur introduction en bourse. Par dérogation aux dispositions de l'article 1er, les fonds d'investissement alternatifs réservés ou compartiments visés par le présent paragraphe ne sont pas obligés de répartir les risques d'investissement.
 
-1. Le réviseur d'entreprises agréé du fonds d'investissement alternatif réservé établira pour chaque exercice un rapport visant à certifier que pendant l'exercice écoulé, le fonds d'investissement alternatif réservé a respecté la politique d'investissement en capital à risque. Ce rapport sera transmis à l'Administration des Contributions directes.
+- Le réviseur d'entreprises agréé du fonds d'investissement alternatif réservé établira pour chaque exercice un rapport visant à certifier que pendant l'exercice écoulé, le fonds d'investissement alternatif réservé a respecté la politique d'investissement en capital à risque. Ce rapport sera transmis à l'Administration des Contributions directes.
 
 (2)
 
@@ -817,11 +817,11 @@ Chaque compartiment d'un fonds d'investissement alternatif réservé peut être 
 
 Un compartiment d'un fonds d'investissement alternatif réservé peut, aux conditions prévues dans le document d'émission, souscrire, acquérir et/ou détenir des titres ou parts d'intérêts à émettre ou émis par un ou plusieurs autres compartiments du même fonds d'investissement alternatif réservé, sans que ce fonds d'investissement alternatif réservé, lorsqu'il est constitué sous forme sociétaire, ne soit soumis aux exigences que pose la loi modifiée du 10 août 1915 concernant les sociétés commerciales en matière de souscription, acquisition et/ou détention par une société de ses propres actions mais sous réserve toutefois que:
 
-1. le compartiment cible n'investit pas à son tour dans le compartiment qui est investi dans ce compartiment cible, et
+- le compartiment cible n'investit pas à son tour dans le compartiment qui est investi dans ce compartiment cible, et
 
-2. le droit de vote éventuellement attaché aux titres ou parts d'intérêts concernés sera suspendu aussi longtemps qu'ils seront détenus par le compartiment en question et sans préjudice d'un traitement approprié dans la comptabilité et les rapports périodiques, et
+- le droit de vote éventuellement attaché aux titres ou parts d'intérêts concernés sera suspendu aussi longtemps qu'ils seront détenus par le compartiment en question et sans préjudice d'un traitement approprié dans la comptabilité et les rapports périodiques, et
 
-3. en toute hypothèse, aussi longtemps que ces titres ou parts d'intérêts seront détenus par le fonds d'investissement alternatif réservé, leur valeur ne sera pas prise en compte pour le calcul de l'actif net du fonds d'investissement alternatif réservé aux fins de vérification du seuil minimum des actifs nets imposé par la présente loi.
+- en toute hypothèse, aussi longtemps que ces titres ou parts d'intérêts seront détenus par le fonds d'investissement alternatif réservé, leur valeur ne sera pas prise en compte pour le calcul de l'actif net du fonds d'investissement alternatif réservé aux fins de vérification du seuil minimum des actifs nets imposé par la présente loi.
 
 (8)
 
@@ -864,13 +864,13 @@ La commercialisation par leur gestionnaire dans l'Union européenne des titres o
 
 Sont punis d'une peine d'emprisonnement d'un mois à un an et d'une amende de 500 à 25.000 euros ou d'une de ces peines seulement:
 
-1. ceux qui ont procédé ou fait procéder à l'émission ou au rachat des parts du fonds commun de placement dans les cas visés aux articles 10, paragraphe 2, et 19, paragraphe 3;
+- ceux qui ont procédé ou fait procéder à l'émission ou au rachat des parts du fonds commun de placement dans les cas visés aux articles 10, paragraphe 2, et 19, paragraphe 3;
 
-2. ceux qui ont émis ou racheté des parts du fonds commun de placement à un prix différent de celui qui résulterait de l'application des critères prévus à l'article 10, paragraphe 1 er ;
+- ceux qui ont émis ou racheté des parts du fonds commun de placement à un prix différent de celui qui résulterait de l'application des critères prévus à l'article 10, paragraphe 1 er ;
 
-3. ceux qui, comme administrateurs, gérants ou commissaires de la société de gestion ou du dépositaire, ont fait des prêts ou avances au moyen d'avoirs du fonds commun de placement sur des parts du même fonds, ou qui ont fait, par un moyen quelconque, aux frais du fonds commun de placement, des versements en libération des parts ou admis comme faits des versements qui ne se sont pas effectués réellement;
+- ceux qui, comme administrateurs, gérants ou commissaires de la société de gestion ou du dépositaire, ont fait des prêts ou avances au moyen d'avoirs du fonds commun de placement sur des parts du même fonds, ou qui ont fait, par un moyen quelconque, aux frais du fonds commun de placement, des versements en libération des parts ou admis comme faits des versements qui ne se sont pas effectués réellement;
 
-4. les administrateurs ou gérants de la société de gestion qui ont contrevenu à l'article 11.
+- les administrateurs ou gérants de la société de gestion qui ont contrevenu à l'article 11.
 
 <a id="art-52"></a>
 ## Art. 52.
@@ -914,11 +914,11 @@ Le paragraphe 2, alinéa 2, numéro 4, de la loi modifiée du 1er décembre 1936
 
 La loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu est modifiée comme suit:
 
-1. L'article 14, numéro 1 est complété par la phrase suivante: Le fonds d'investissement alternatif réservé sous forme de société en commandite simple ou de société en commandite spéciale et répondant aux critères de l'article 48, paragraphe 1er de la loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés n'est pas à considérer comme entreprise commerciale. ;
+- L'article 14, numéro 1 est complété par la phrase suivante: Le fonds d'investissement alternatif réservé sous forme de société en commandite simple ou de société en commandite spéciale et répondant aux critères de l'article 48, paragraphe 1er de la loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés n'est pas à considérer comme entreprise commerciale. ;
 
-2. L'article 147, alinéa 3 est modifié comme suit: 3. lorsque les revenus sont alloués par une société de gestion de patrimoine familial (SPF) ou un organisme de placement collectif (OPC), y compris une société d'investissement en capital à risque (SICAR), ainsi qu'un fonds d'investissement alternatif réservé répondant aux critères de l'article 48, paragraphe 1er de la loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés, de droit luxembourgeois, sans préjudice toutefois de l'imposition desdits revenus dans le chef des bénéficiaires résidents. ;
+- L'article 147, alinéa 3 est modifié comme suit: 3. lorsque les revenus sont alloués par une société de gestion de patrimoine familial (SPF) ou un organisme de placement collectif (OPC), y compris une société d'investissement en capital à risque (SICAR), ainsi qu'un fonds d'investissement alternatif réservé répondant aux critères de l'article 48, paragraphe 1er de la loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés, de droit luxembourgeois, sans préjudice toutefois de l'imposition desdits revenus dans le chef des bénéficiaires résidents. ;
 
-3. L'article 164 bis , alinéa 5 est modifié comme suit: (5) Les sociétés d'investissement en capital à risque (SICAR) ainsi que les fonds d'investissement alternatifs réservés répondant aux critères de l'article 48, paragraphe 1er de la loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés sont exclus du champ d'application du présent article. .
+- L'article 164 bis , alinéa 5 est modifié comme suit: (5) Les sociétés d'investissement en capital à risque (SICAR) ainsi que les fonds d'investissement alternatifs réservés répondant aux critères de l'article 48, paragraphe 1er de la loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés sont exclus du champ d'application du présent article. .
 
 <a id="art-60"></a>
 ## Art. 60.

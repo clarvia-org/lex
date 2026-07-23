@@ -40,13 +40,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La présente loi est applicable :
 
-1. aux hôpitaux ;
+- aux hôpitaux ;
 
-2. aux établissements d’accueil pour personnes en fin de vie ;
+- aux établissements d’accueil pour personnes en fin de vie ;
 
-3. aux établissements de cures thermales ;
+- aux établissements de cures thermales ;
 
-4. aux centres de diagnostic ;
+- aux centres de diagnostic ;
 
 qu’ils soient gérés par une personne morale de droit public ou de droit privé.
 
@@ -64,17 +64,17 @@ Les établissements hospitaliers doivent disposer d’une personnalité juridiqu
 
 Est considéré comme :
 
-1. « hôpital », tout établissement ayant principalement une mission de diagnostic, de surveillance et de traitement relevant de la médecine, de la chirurgie ou de l’obstétrique ainsi que de soins préventifs et palliatifs et disposant de services dans lesquels les patients sont admis ;
+- « hôpital », tout établissement ayant principalement une mission de diagnostic, de surveillance et de traitement relevant de la médecine, de la chirurgie ou de l’obstétrique ainsi que de soins préventifs et palliatifs et disposant de services dans lesquels les patients sont admis ;
 
-2. « centre hospitalier », tout hôpital assurant une large offre de prises en charge diagnostiques et thérapeutiques ;
+- « centre hospitalier », tout hôpital assurant une large offre de prises en charge diagnostiques et thérapeutiques ;
 
-3. « établissement hospitalier spécialisé », tout hôpital qui répond aux besoins spécifiques de certaines prises en charge diagnostiques et thérapeutiques ou à des affections particulières ;
+- « établissement hospitalier spécialisé », tout hôpital qui répond aux besoins spécifiques de certaines prises en charge diagnostiques et thérapeutiques ou à des affections particulières ;
 
-4. « établissement d’accueil pour personnes en fin de vie », tout établissement qui a pour mission principale de dispenser des soins stationnaires à des personnes en phase avancée ou terminale d’une affection grave et incurable, à l’exclusion de soins à visée essentiellement curative ;
+- « établissement d’accueil pour personnes en fin de vie », tout établissement qui a pour mission principale de dispenser des soins stationnaires à des personnes en phase avancée ou terminale d’une affection grave et incurable, à l’exclusion de soins à visée essentiellement curative ;
 
-5. « établissement de cures thermales », tout établissement qui a pour mission de dispenser des cures thérapeutiques ;
+- « établissement de cures thermales », tout établissement qui a pour mission de dispenser des cures thérapeutiques ;
 
-6. « centre de diagnostic », tout établissement qui répond à des besoins spécifiques de certaines prises en charge diagnostiques de patients, y compris les analyses de biologie médicale conformément à l’article 1 er de la loi modifiée du 16 juillet 1984 relative aux laboratoires d’analyses médicales, à l’exclusion de tous les traitements et soins.
+- « centre de diagnostic », tout établissement qui répond à des besoins spécifiques de certaines prises en charge diagnostiques de patients, y compris les analyses de biologie médicale conformément à l’article 1 er de la loi modifiée du 16 juillet 1984 relative aux laboratoires d’analyses médicales, à l’exclusion de tous les traitements et soins.
 
 (4)
 
@@ -87,59 +87,59 @@ Dans le cadre de l’exercice d’activités réservées à une profession régl
 
 Sont considérés comme :
 
-1. « unité de soins » : une unité fonctionnelle soit d’hospitalisation, soit médico-technique, prenant en charge des patients, située dans une même enceinte architecturale et relevant d’une dotation et d’une gestion communes ;
+- « unité de soins » : une unité fonctionnelle soit d’hospitalisation, soit médico-technique, prenant en charge des patients, située dans une même enceinte architecturale et relevant d’une dotation et d’une gestion communes ;
 
-2. « service hospitalier » : unité d’organisation et de gestion comportant une ou plusieurs unités de soins où s’exerce l’activité médico-soignante de l’hôpital ;
+- « service hospitalier » : unité d’organisation et de gestion comportant une ou plusieurs unités de soins où s’exerce l’activité médico-soignante de l’hôpital ;
 
-3. « service national » : service hospitalier unique pour le pays regroupant les pathologies nécessitant le recours à des compétences, des équipements ou des infrastructures spécifiques. Il garantit la continuité des soins sur le plan national ;
+- « service national » : service hospitalier unique pour le pays regroupant les pathologies nécessitant le recours à des compétences, des équipements ou des infrastructures spécifiques. Il garantit la continuité des soins sur le plan national ;
 
-4. « lits » : les lits hospitaliers qui sont de façon continue à la disposition des patients dans les services hospitaliers, en distinguant entre : Les lits d’hospitalisation de jour et lits-portes ne sont pas considérés comme lits au sens de l’alinéa qui précède ;
+- « lits » : les lits hospitaliers qui sont de façon continue à la disposition des patients dans les services hospitaliers, en distinguant entre : Les lits d’hospitalisation de jour et lits-portes ne sont pas considérés comme lits au sens de l’alinéa qui précède ;
 
-1. lits aigus ;
+  - lits aigus ;
 
-2. lits de moyen séjour ;
+  - lits de moyen séjour ;
 
-3. lits d’hospitalisation de longue durée ;
+  - lits d’hospitalisation de longue durée ;
 
-4. lits de réserve sanitaire.
+  - lits de réserve sanitaire.
 
-5. « lits aigus » : les lits, y compris les lits de soins intensifs, hormis les lits de moyen séjour et les lits d’hospitalisation de longue durée, les lits de soins intensifs étant des lits réservés aux patients nécessitant des soins intensifs ;
+- « lits aigus » : les lits, y compris les lits de soins intensifs, hormis les lits de moyen séjour et les lits d’hospitalisation de longue durée, les lits de soins intensifs étant des lits réservés aux patients nécessitant des soins intensifs ;
 
-6. « lits de moyen séjour » : lits réservés à la rééducation et à la réhabilitation de patients ainsi que les lits de soins palliatifs ; On entend par « lits de rééducation et de réhabilitation » : lits de moyen séjour des établissements hospitaliers et des services hospitaliers ayant pour mission la rééducation ou la réhabilitation sous ses différentes formes, que sont la rééducation et la réhabilitation fonctionnelle, la rééducation gériatrique, la réhabilitation physique et post-oncologique, la réhabilitation et la réadaptation de malades souffrant de troubles psychiques.
+- « lits de moyen séjour » : lits réservés à la rééducation et à la réhabilitation de patients ainsi que les lits de soins palliatifs ; On entend par « lits de rééducation et de réhabilitation » : lits de moyen séjour des établissements hospitaliers et des services hospitaliers ayant pour mission la rééducation ou la réhabilitation sous ses différentes formes, que sont la rééducation et la réhabilitation fonctionnelle, la rééducation gériatrique, la réhabilitation physique et post-oncologique, la réhabilitation et la réadaptation de malades souffrant de troubles psychiques.
 
-7. « lits d’hospitalisation de longue durée » : lits réservés aux soins hospitaliers de longue durée destinés aux patients souffrant de restrictions fonctionnelles justifiant une surveillance médicale, une prise en charge de même que des soins particuliers et continus par du personnel spécifiquement qualifié ainsi que des traitements d’entretien ;
+- « lits d’hospitalisation de longue durée » : lits réservés aux soins hospitaliers de longue durée destinés aux patients souffrant de restrictions fonctionnelles justifiant une surveillance médicale, une prise en charge de même que des soins particuliers et continus par du personnel spécifiquement qualifié ainsi que des traitements d’entretien ;
 
-8. « lits d’hospitalisation de jour » : lits d’hôpital ou places situés dans un hôpital de jour ou un service de dialyse, réservés aux activités suivantes :
+- « lits d’hospitalisation de jour » : lits d’hôpital ou places situés dans un hôpital de jour ou un service de dialyse, réservés aux activités suivantes :
 
-1. actes chirurgicaux ou interventionnels nécessitant une surveillance et des soins pré- ou post-interventionnels ;
+  - actes chirurgicaux ou interventionnels nécessitant une surveillance et des soins pré- ou post-interventionnels ;
 
-2. autres actes diagnostiques et thérapeutiques avec ou sans sédation majeure, à savoir :
+  - autres actes diagnostiques et thérapeutiques avec ou sans sédation majeure, à savoir :
 
-- explorations fonctionnelles et endoscopiques ;
+    - explorations fonctionnelles et endoscopiques ;
 
-- imagerie interventionnelle ;
+    - imagerie interventionnelle ;
 
-- ponctions et biopsies non-chirurgicales ;
+    - ponctions et biopsies non-chirurgicales ;
 
-3. diverses prises en charge thérapeutiques :
+  - diverses prises en charge thérapeutiques :
 
-- épuration extra-rénale ;
+    - épuration extra-rénale ;
 
-- chimiothérapie, antibiothérapie, immunothérapie intraveineuses ;
+    - chimiothérapie, antibiothérapie, immunothérapie intraveineuses ;
 
-- transfusion de produits et dérivés sanguins cytaphérèse ;
+    - transfusion de produits et dérivés sanguins cytaphérèse ;
 
-- traitements et prise en charge de situations spécifiques ;
+    - traitements et prise en charge de situations spécifiques ;
 
-4. soins de rééducation psychiatrique adulte, juvénile ou infantile ;
+  - soins de rééducation psychiatrique adulte, juvénile ou infantile ;
 
-5. soins de revalidation, y compris gériatrique.
+  - soins de revalidation, y compris gériatrique.
 
-9. « lits-portes » : lits d’hôpital ou places situés dans l’enceinte d’un service d’urgence, exclusivement à la disposition des prises en charge urgentes nécessitant une présence médicale et une présence continue par du personnel soignant spécifiquement qualifié pendant une durée inférieure à 12 heures ;
+- « lits-portes » : lits d’hôpital ou places situés dans l’enceinte d’un service d’urgence, exclusivement à la disposition des prises en charge urgentes nécessitant une présence médicale et une présence continue par du personnel soignant spécifiquement qualifié pendant une durée inférieure à 12 heures ;
 
-10. « lits de réserve sanitaire » : lits hospitaliers aigus ou de moyen séjour dédiés à la prise en charge de patients dans le cadre d’une crise sanitaire, d’une catastrophe, d’une crise internationale grave, d’une pandémie, d’un acte de terrorisme ou d’un accident de grande envergure, qui nécessite le recours à des compétences, des ressources humaines, des équipements ou des infrastructures spécifiques ;
+- « lits de réserve sanitaire » : lits hospitaliers aigus ou de moyen séjour dédiés à la prise en charge de patients dans le cadre d’une crise sanitaire, d’une catastrophe, d’une crise internationale grave, d’une pandémie, d’un acte de terrorisme ou d’un accident de grande envergure, qui nécessite le recours à des compétences, des ressources humaines, des équipements ou des infrastructures spécifiques ;
 
-11. « site » : zone accueillant un ou plusieurs bâtiments exploités par un même organisme gestionnaire et dans laquelle la distance entre un bâtiment et le bâtiment le plus proche ne dépasse pas 500 mètres.
+- « site » : zone accueillant un ou plusieurs bâtiments exploités par un même organisme gestionnaire et dans laquelle la distance entre un bâtiment et le bâtiment le plus proche ne dépasse pas 500 mètres.
 
 (2)
 
@@ -154,33 +154,33 @@ La dénomination des différents types de service, les normes essentielles y aff
 
 Le ministre procède à une évaluation des besoins sanitaires de la population résidente et non-résidente protégée sur base des données établies par la carte sanitaire, d’une évaluation démographique de la population résidente, de données relatives à l’état de santé de cette population ainsi que d’une comparaison internationale. Cette évaluation des besoins sanitaires nationaux a pour objectifs de :
 
-1. définir les besoins au niveau national en établissements hospitaliers et en réseaux de compétences ;
+- définir les besoins au niveau national en établissements hospitaliers et en réseaux de compétences ;
 
-2. définir les services hospitaliers autorisés et fixer leur nombre maximal au niveau national ;
+- définir les services hospitaliers autorisés et fixer leur nombre maximal au niveau national ;
 
-3. fixer au niveau national un nombre maximal de lits pour l’ensemble des services de même dénomination, le nombre maximal de lits pouvant être autorisé.
+- fixer au niveau national un nombre maximal de lits pour l’ensemble des services de même dénomination, le nombre maximal de lits pouvant être autorisé.
 
 (2)
 
 La carte sanitaire est un ensemble d’informations établi et mis à jour tous les deux ans par l’Observatoire national de la santé et constitué par :
 
-1. l’inventaire de tous les établissements hospitaliers existants, de leurs services, de leur agencement général, du niveau de qualité des prestations et de leur taux d’utilisation ;
+- l’inventaire de tous les établissements hospitaliers existants, de leurs services, de leur agencement général, du niveau de qualité des prestations et de leur taux d’utilisation ;
 
-2. l’inventaire des réseaux de compétences, de leurs services hospitaliers et de leurs membres extrahospitaliers, de leur organisation générale, du niveau de qualité des prestations et de leur taux d’utilisation ;
+- l’inventaire des réseaux de compétences, de leurs services hospitaliers et de leurs membres extrahospitaliers, de leur organisation générale, du niveau de qualité des prestations et de leur taux d’utilisation ;
 
-3. les motifs d’hospitalisation stationnaire et ambulatoire des patients admis dans un établissement hospitalier ;
+- les motifs d’hospitalisation stationnaire et ambulatoire des patients admis dans un établissement hospitalier ;
 
-4. le relevé des médecins agréés, de leur spécialité, des professions de santé et du personnel administratif et technique desdits établissements ;
+- le relevé des médecins agréés, de leur spécialité, des professions de santé et du personnel administratif et technique desdits établissements ;
 
-5. l’inventaire des équipements et appareils soumis à une planification nationale ou exigeant des conditions d’emploi particulières ;
+- l’inventaire des équipements et appareils soumis à une planification nationale ou exigeant des conditions d’emploi particulières ;
 
-6. l’inventaire des établissements ou services prestataires en milieu extrahospitalier collaborant activement avec le secteur hospitalier dans le cadre de réseaux de compétences ;
+- l’inventaire des établissements ou services prestataires en milieu extrahospitalier collaborant activement avec le secteur hospitalier dans le cadre de réseaux de compétences ;
 
-7. l’inventaire des services d’urgence et des modalités de prise en charge qui y sont proposées ;
+- l’inventaire des services d’urgence et des modalités de prise en charge qui y sont proposées ;
 
-8. le nombre et les motifs des transferts ou hospitalisations dans des établissements qui se trouvent à l’étranger ;
+- le nombre et les motifs des transferts ou hospitalisations dans des établissements qui se trouvent à l’étranger ;
 
-9. l’utilisation des prestations des établissements hospitaliers nationaux par des non-résidents.
+- l’utilisation des prestations des établissements hospitaliers nationaux par des non-résidents.
 
 Tous les établissements hospitaliers doivent fournir les renseignements nécessaires à l’élaboration de la carte sanitaire et à sa mise à jour biennale. À défaut de ce faire, le ministre n’accordera pas ou, le cas échéant, ne prorogera pas les autorisations dont question aux articles 7, 9 et 11.
 
@@ -188,15 +188,15 @@ Tous les établissements hospitaliers doivent fournir les renseignements nécess
 
 Le ministre doit recourir aux données dépersonnalisées des administrations publiques, des établissements publics ou d’autres organismes luxembourgeois ou étrangers, ainsi que des différents établissements hospitaliers, relatives :
 
-1. aux séjours hospitaliers: données démographiques des patients, diagnostics, procédures médicales et des autres professions de santé, services d’hospitalisation et durée de séjour, mode d’entrée, provenance, mode de sortie, destination du patient après sortie ;
+- aux séjours hospitaliers: données démographiques des patients, diagnostics, procédures médicales et des autres professions de santé, services d’hospitalisation et durée de séjour, mode d’entrée, provenance, mode de sortie, destination du patient après sortie ;
 
-2. à l’utilisation des lits, lits d’hospitalisation de jour et équipements médicaux des établissements hospitaliers: la fréquence des différentes prestations par patient hospitalisé et ambulatoire, nombre de patients ;
+- à l’utilisation des lits, lits d’hospitalisation de jour et équipements médicaux des établissements hospitaliers: la fréquence des différentes prestations par patient hospitalisé et ambulatoire, nombre de patients ;
 
-3. à l’utilisation des services d’urgence: fréquence et distribution du recours à ces services, caractéristiques démographiques des patients et du degré d’urgence, mode d’entrée, provenance, mode de sortie et destination après sortie, taux d’utilisation des lits-portes au service d’urgence ;
+- à l’utilisation des services d’urgence: fréquence et distribution du recours à ces services, caractéristiques démographiques des patients et du degré d’urgence, mode d’entrée, provenance, mode de sortie et destination après sortie, taux d’utilisation des lits-portes au service d’urgence ;
 
-4. à la fréquence et aux motifs d’un transfert à un établissement hospitalier situé à l’étranger ;
+- à la fréquence et aux motifs d’un transfert à un établissement hospitalier situé à l’étranger ;
 
-5. aux délais d’attente pour toutes les prestations hospitalières.
+- aux délais d’attente pour toutes les prestations hospitalières.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -217,43 +217,43 @@ Un centre hospitalier doit disposer de 300 lits aigus au moins et peut être aut
 
 Tout centre hospitalier doit obligatoirement disposer d’une autorisation d’exploitation pour les services hospitaliers suivants, dans le respect des dispositions de l’annexe 2 :
 
-1. Cardiologie
+- Cardiologie
 
-2. Chirurgie générale, digestive ou viscérale
+- Chirurgie générale, digestive ou viscérale
 
-3. Dialyse
+- Dialyse
 
-4. Gastroentérologie
+- Gastroentérologie
 
-5. Gériatrie aiguë
+- Gériatrie aiguë
 
-6. Hospitalisation de jour chirurgicale
+- Hospitalisation de jour chirurgicale
 
-7. Hospitalisation de jour non chirurgicale
+- Hospitalisation de jour non chirurgicale
 
-8. Imagerie médicale
+- Imagerie médicale
 
-9. Médecine interne générale
+- Médecine interne générale
 
-10. Neurologie
+- Neurologie
 
-11. Obstétrique
+- Obstétrique
 
-12. ORL
+- ORL
 
-13. Pneumologie
+- Pneumologie
 
-14. Psychiatrie aiguë
+- Psychiatrie aiguë
 
-15. Soins intensifs et anesthésie
+- Soins intensifs et anesthésie
 
-16. Soins palliatifs
+- Soins palliatifs
 
-17. Traumatologie et orthopédie
+- Traumatologie et orthopédie
 
-18. Urgence
+- Urgence
 
-19. Urologie
+- Urologie
 
 Les centres hospitaliers, qui ne disposent pas du service national de néphrologie, doivent disposer d’un service de dialyse.
 
@@ -261,19 +261,19 @@ Les centres hospitaliers, qui ne disposent pas du service national de néphrolog
 
 Chaque centre hospitalier peut exploiter un des services hospitaliers suivants, dans le respect des dispositions de l’annexe 2 et dans la limite du nombre maximal autorisable au niveau national :
 
-1. Chirurgie esthétique
+- Chirurgie esthétique
 
-2. Chirurgie vasculaire
+- Chirurgie vasculaire
 
-3. Gynécologie
+- Gynécologie
 
-4. Neuro-vasculaire (stroke unit niveau 1)
+- Neuro-vasculaire (stroke unit niveau 1)
 
-5. Oncologie
+- Oncologie
 
-6. Pédiatrie de proximité
+- Pédiatrie de proximité
 
-7. Rééducation gériatrique
+- Rééducation gériatrique
 
 Les centres hospitaliers, qui ne disposent pas du service national de pédiatrie spécialisée, peuvent être autorisés à exploiter un service de pédiatrie de proximité. Les centres hospitaliers, qui ne disposent pas du service national de chirurgie plastique, peuvent être autorisés à exploiter un service de chirurgie esthétique.
 
@@ -281,41 +281,41 @@ Les centres hospitaliers, qui ne disposent pas du service national de pédiatrie
 
 Chacun des services hospitaliers suivants est qualifié de « service national » et, en tant que tel, son exploitation ne peut être autorisée que dans un seul hôpital :
 
-1. Chirurgie pédiatrique
+- Chirurgie pédiatrique
 
-2. Chirurgie plastique
+- Chirurgie plastique
 
-3. Hémato-oncologie
+- Hémato-oncologie
 
-4. Hospitalisation de longue durée médicale
+- Hospitalisation de longue durée médicale
 
-5. Immuno-allergologie
+- Immuno-allergologie
 
-6. Maladies infectieuses
+- Maladies infectieuses
 
-7. Médecine de l’environnement
+- Médecine de l’environnement
 
-8. Néonatologie intensive
+- Néonatologie intensive
 
-9. Néphrologie
+- Néphrologie
 
-10. Neurochirurgie
+- Neurochirurgie
 
-11. Stroke unit niveau 2
+- Stroke unit niveau 2
 
-12. Ophtalmologie spécialisée
+- Ophtalmologie spécialisée
 
-13. Pédiatrie spécialisée
+- Pédiatrie spécialisée
 
-14. Procréation médicalement assistée
+- Procréation médicalement assistée
 
-15. Psychiatrie infantile
+- Psychiatrie infantile
 
-16. Psychiatrie juvénile
+- Psychiatrie juvénile
 
-17. Soins intensifs pédiatriques
+- Soins intensifs pédiatriques
 
-18. Urgence pédiatrique
+- Urgence pédiatrique
 
 Les services de chirurgie pédiatrique, de néonatologie intensive, de pédiatrie spécialisée, de procréation médicalement assistée, de soins intensifs pédiatriques et d’urgence pédiatrique sont obligatoirement réunis dans un même centre hospitalier disposant d’une maternité de niveau 2, telle que définie à l’annexe 2.
 
@@ -354,9 +354,9 @@ Les moyens financiers, structurels, en ressources humaines nécessaires à l’e
 
 Les services hospitaliers nationaux suivants peuvent constituer un établissement hospitalier spécialisé de :
 
-1. cardiologie interventionnelle et chirurgie cardiaque avec un nombre maximum de 30 lits aigus pouvant y être autorisé ;
+- cardiologie interventionnelle et chirurgie cardiaque avec un nombre maximum de 30 lits aigus pouvant y être autorisé ;
 
-2. radiothérapie avec un nombre maximum de 2 lits aigus pouvant y être autorisé.
+- radiothérapie avec un nombre maximum de 2 lits aigus pouvant y être autorisé.
 
 (2)
 
@@ -395,9 +395,9 @@ Le ministre peut autoriser au maximum un établissement de cures thermales.
 
 Le centre de diagnostic visé à l’alinéa précédent a pour objet de réaliser des examens en ce qui concerne :
 
-1. l’anatomie pathologique : les examens relevant de la cytologie et de l’histologie ;
+- l’anatomie pathologique : les examens relevant de la cytologie et de l’histologie ;
 
-2. la génétique humaine : les examens portant sur l’hérédité ou non de malformations et d’anomalies, tant physiques que psychiques, la nature moléculaire de ces malformations et anomalies ou le fait d’être porteur de caractères héréditaires, y compris l’interprétation de ces examens et le conseil génétique.
+- la génétique humaine : les examens portant sur l’hérédité ou non de malformations et d’anomalies, tant physiques que psychiques, la nature moléculaire de ces malformations et anomalies ou le fait d’être porteur de caractères héréditaires, y compris l’interprétation de ces examens et le conseil génétique.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -414,21 +414,21 @@ L’organisme gestionnaire de l’établissement hospitalier sollicite, sur base
 
 Ce projet d’établissement comporte :
 
-1. la dénomination de l’établissement hospitalier ;
+- la dénomination de l’établissement hospitalier ;
 
-2. les objectifs et missions de l’établissement ;
+- les objectifs et missions de l’établissement ;
 
-3. la dénomination et la forme juridique de son organisme gestionnaire ;
+- la dénomination et la forme juridique de son organisme gestionnaire ;
 
-4. l’organigramme général de l’établissement ;
+- l’organigramme général de l’établissement ;
 
-5. le nombre ainsi que la localisation de ses sites et bâtiments hospitaliers ;
+- le nombre ainsi que la localisation de ses sites et bâtiments hospitaliers ;
 
-6. le nombre et le type de lits, y compris les lits d’hospitalisation de jour et de lits-portes, que l’établissement souhaite exploiter ;
+- le nombre et le type de lits, y compris les lits d’hospitalisation de jour et de lits-portes, que l’établissement souhaite exploiter ;
 
-7. le nombre et la localisation des services hospitaliers stationnaires et ambulatoires sollicités ;
+- le nombre et la localisation des services hospitaliers stationnaires et ambulatoires sollicités ;
 
-8. les équipements ou les appareils soumis à planification nationale.
+- les équipements ou les appareils soumis à planification nationale.
 
 Au projet d’établissement est joint l’avis y relatif du Conseil médical.
 
@@ -451,11 +451,11 @@ Un établissement hospitalier ne peut bénéficier des subventions financières 
 
 Sur base de l’évaluation des besoins de santé sanitaires et dans la limite des besoins en lits et services hospitaliers autorisables en vertu de la présente loi, seuls peuvent être autorisés :
 
-1. des projets de modernisation, d’extension ou de mise en conformité avec des normes de sécurité ou d’hygiène de structures hospitalières existantes ;
+- des projets de modernisation, d’extension ou de mise en conformité avec des normes de sécurité ou d’hygiène de structures hospitalières existantes ;
 
-2. des projets de construction nouvelle en remplacement de structures existantes ou résultant de synergies ou de coopérations entre plusieurs établissements hospitaliers existants entraînant une désaffectation des structures hospitalières remplacées ou leur réaffectation à une destination hospitalière dûment autorisée ;
+- des projets de construction nouvelle en remplacement de structures existantes ou résultant de synergies ou de coopérations entre plusieurs établissements hospitaliers existants entraînant une désaffectation des structures hospitalières remplacées ou leur réaffectation à une destination hospitalière dûment autorisée ;
 
-3. des projets de construction nouvelle ou de réaménagement ou de transformation de structures existantes visant à développer la prise en charge ambulatoire dans un service d’hospitalisation de jour tel que défini à l’annexe 2 .
+- des projets de construction nouvelle ou de réaménagement ou de transformation de structures existantes visant à développer la prise en charge ambulatoire dans un service d’hospitalisation de jour tel que défini à l’annexe 2 .
 
 (2)
 
@@ -484,21 +484,21 @@ La demande d’exploitation d’un service doit être accompagnée, pour chaque 
 
 Ce projet de service comporte :
 
-1. la dénomination du service, le type de patients et de pathologies pris en charge et le volume d’activités attendu ;
+- la dénomination du service, le type de patients et de pathologies pris en charge et le volume d’activités attendu ;
 
-2. les unités de soins au sens de l’article 2, stationnaires, ambulatoires, médico-techniques ou autres qui le constituent ainsi que les liens organisationnels et fonctionnels entre elles et avec d’autres services hospitaliers ;
+- les unités de soins au sens de l’article 2, stationnaires, ambulatoires, médico-techniques ou autres qui le constituent ainsi que les liens organisationnels et fonctionnels entre elles et avec d’autres services hospitaliers ;
 
-3. les ressources humaines, l’organigramme, les équipements y affectés spécifiquement, le nombre de lits et le type de lits ainsi que le nombre de lits d’hospitalisation de jour ou de lits-portes ;
+- les ressources humaines, l’organigramme, les équipements y affectés spécifiquement, le nombre de lits et le type de lits ainsi que le nombre de lits d’hospitalisation de jour ou de lits-portes ;
 
-4. la localisation principale du service et de ses antennes éventuelles sur un ou plusieurs sites hospitaliers ;
+- la localisation principale du service et de ses antennes éventuelles sur un ou plusieurs sites hospitaliers ;
 
-5. l’organisation et les moyens mis en place pour assurer la continuité des soins ;
+- l’organisation et les moyens mis en place pour assurer la continuité des soins ;
 
-6. la prise en charge dans laquelle les activités médicales et chirurgicales du service s’inscrivent ;
+- la prise en charge dans laquelle les activités médicales et chirurgicales du service s’inscrivent ;
 
-7. le volume d’activités en cas d’extension et de modernisation d’un service hospitalier ou de prorogation d’autorisation d’un service hospitalier ;
+- le volume d’activités en cas d’extension et de modernisation d’un service hospitalier ou de prorogation d’autorisation d’un service hospitalier ;
 
-8. la politique d’admission, de transfert et de sortie de patients.
+- la politique d’admission, de transfert et de sortie de patients.
 
 Au projet de service est joint l’avis y relatif du Conseil médical.
 
@@ -510,11 +510,11 @@ Chaque établissement hospitalier ne peut disposer que d’un seul service hospi
 
 L’antenne de service répond aux conditions ci-après :
 
-1. assurer une amélioration objective de l’accessibilité des soins prodigués par le service hospitalier correspondant ;
+- assurer une amélioration objective de l’accessibilité des soins prodigués par le service hospitalier correspondant ;
 
-2. être en liaison fonctionnelle étroite avec le service hospitalier ;
+- être en liaison fonctionnelle étroite avec le service hospitalier ;
 
-3. disposer de la même équipe de médecins spécialisés pour assurer la continuité des soins dans le service hospitalier et son « antenne », et appliquer les mêmes procédures de prise en charge.
+- disposer de la même équipe de médecins spécialisés pour assurer la continuité des soins dans le service hospitalier et son « antenne », et appliquer les mêmes procédures de prise en charge.
 
 Une « antenne de service » peut également être exploitée par un établissement hospitalier ne disposant pas du service hospitalier en question, sur base d’une convention de collaboration interhospitalière avec un établissement hospitalier disposant d’un tel service, dont le projet de service reprend les modalités de cette collaboration.
 
@@ -527,17 +527,17 @@ Un établissement hospitalier ne peut bénéficier des subventions financières 
 
 Les normes des services hospitaliers mentionnées aux articles 4 et 5 et qui figurent à l’annexe 2 peuvent être précisées par règlement grand-ducal en ce qui concerne :
 
-1. l’aménagement, l’organisation générale ainsi que le taux d’occupation du service ;
+- l’aménagement, l’organisation générale ainsi que le taux d’occupation du service ;
 
-2. les effectifs médicaux requis, les spécialités médicales concernées, les professionnels de santé et leur dotation ;
+- les effectifs médicaux requis, les spécialités médicales concernées, les professionnels de santé et leur dotation ;
 
-3. le niveau de continuité de service à respecter ;
+- le niveau de continuité de service à respecter ;
 
-4. l’environnement, l’infrastructure et l’architecture requis sur le site hospitalier abritant le service, dont la disponibilité d’autres services et de compétences médicales et professionnelles extérieures au service ;
+- l’environnement, l’infrastructure et l’architecture requis sur le site hospitalier abritant le service, dont la disponibilité d’autres services et de compétences médicales et professionnelles extérieures au service ;
 
-5. les procédures, les activités ainsi que les modalités de documentation de l’activité et de l’évaluation des résultats d’activité ;
+- les procédures, les activités ainsi que les modalités de documentation de l’activité et de l’évaluation des résultats d’activité ;
 
-6. la politique d’admission, de transfert et de sortie de patients.
+- la politique d’admission, de transfert et de sortie de patients.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -556,17 +556,17 @@ La demande de prorogation est faite par l’organisme gestionnaire moyennant une
 
 À l’appui de la demande visée à l’alinéa qui précède, l’organisme gestionnaire doit établir :
 
-1. pour la prorogation de l’autorisation d’exploitation, que l’établissement hospitalier continue à respecter, son projet d’établissement ;
+- pour la prorogation de l’autorisation d’exploitation, que l’établissement hospitalier continue à respecter, son projet d’établissement ;
 
-2. pour la prorogation des autorisations de services hospitaliers, que l’établissement hospitalier continue à respecter, toutes les prescriptions des définitions des services mentionnées à l’annexe 2 ainsi que les normes réglementaires fixées conformément à l’article 10.
+- pour la prorogation des autorisations de services hospitaliers, que l’établissement hospitalier continue à respecter, toutes les prescriptions des définitions des services mentionnées à l’annexe 2 ainsi que les normes réglementaires fixées conformément à l’article 10.
 
 (4)
 
 Sans préjudice du paragraphe 2 et de l’article 12 ci-après et après avoir demandé l’avis du Collège médical et de la Commission permanente pour le secteur hospitalier, le ministre peut refuser :
 
-1. l’autorisation d’exploitation d’un établissement hospitalier ou sa prorogation s’il ne respecte plus son projet d’établissement ou s’il ne répond plus aux besoins sanitaires nationaux ;
+- l’autorisation d’exploitation d’un établissement hospitalier ou sa prorogation s’il ne respecte plus son projet d’établissement ou s’il ne répond plus aux besoins sanitaires nationaux ;
 
-2. l’autorisation d’exploitation d’un service hospitalier ou sa prorogation s’il ne répond pas aux prescriptions des définitions mentionnées à l’annexe 2, aux normes déterminées conformément à l’article 10 ou aux besoins sanitaires nationaux.
+- l’autorisation d’exploitation d’un service hospitalier ou sa prorogation s’il ne répond pas aux prescriptions des définitions mentionnées à l’annexe 2, aux normes déterminées conformément à l’article 10 ou aux besoins sanitaires nationaux.
 
 (5)
 
@@ -583,13 +583,13 @@ Aux termes des délais visés au paragraphe précédent, l’organisme gestionna
 
 Lorsqu’il appert, au vu d’un rapport du directeur de la Santé, qu’un établissement ou service hospitalier :
 
-1. ne répond pas aux conditions mentionnées aux définitions de l’annexe 2 ou aux normes déterminées conformément à l’article 10, ou
+- ne répond pas aux conditions mentionnées aux définitions de l’annexe 2 ou aux normes déterminées conformément à l’article 10, ou
 
-2. ne dispose pas des autorisations d’exploitation requises en vertu des articles 7 et 9 ;
+- ne dispose pas des autorisations d’exploitation requises en vertu des articles 7 et 9 ;
 
-3. contrevient aux autres dispositions de la présente loi ;
+- contrevient aux autres dispositions de la présente loi ;
 
-4. ne répond plus aux besoins sanitaires déterminés conformément à l’article 3 ;
+- ne répond plus aux besoins sanitaires déterminés conformément à l’article 3 ;
 
 le ministre met l’organisme gestionnaire de l’établissement concerné en demeure de se conformer aux procédures, définitions et normes dans un délai qu’il fixera et qui sera inférieur à un an.
 
@@ -636,13 +636,13 @@ Un règlement grand-ducal peut déterminer les conditions d’accès et d’util
 
 L’État participe à raison de 80 pour cent aux frais des investissements mobiliers et immobiliers des établissements hospitaliers autorisés par le ministre conformément à l’article 17, la Commission permanente pour le secteur hospitalier demandée en son avis et qui ont trait :
 
-1. aux équipements et appareils dont question à l’article 14, paragraphe 1 er , et soumis à planification nationale ;
+- aux équipements et appareils dont question à l’article 14, paragraphe 1 er , et soumis à planification nationale ;
 
-2. aux projets visés aux points 1. à 3. de l’article 8 :
+- aux projets visés aux points 1. à 3. de l’article 8 :
 
-1. lorsqu’un tel projet concerne un centre hospitalier et dépasse un montant de 500.000 euros hors TVA ;
+  - lorsqu’un tel projet concerne un centre hospitalier et dépasse un montant de 500.000 euros hors TVA ;
 
-2. lorsqu’un tel projet concerne un établissement hospitalier spécialisé mentionné à l’article 5 ou un autre établissement hospitalier mentionné à l’article 6 et dépasse un montant de 250.000 euros hors TVA.
+  - lorsqu’un tel projet concerne un établissement hospitalier spécialisé mentionné à l’article 5 ou un autre établissement hospitalier mentionné à l’article 6 et dépasse un montant de 250.000 euros hors TVA.
 
 <a id="art-16"></a>
 ## Art. 16.
@@ -666,11 +666,11 @@ En vue d’obtenir une subvention conformément aux dispositions qui précèdent
 
 Un règlement grand-ducal détermine les modalités détaillées de la procédure de demande, notamment en ce qui concerne :
 
-1. les délais et modalités d’instruction du dossier ;
+- les délais et modalités d’instruction du dossier ;
 
-2. les pièces justificatives à joindre ;
+- les pièces justificatives à joindre ;
 
-3. une étude des besoins et de l’impact sur le système de santé ainsi que l’étendue et les modalités de cette étude.
+- une étude des besoins et de l’impact sur le système de santé ainsi que l’étendue et les modalités de cette étude.
 
 (3)
 
@@ -723,9 +723,9 @@ Pour chaque projet pour lequel la participation étatique visée à l’article 
 
 Les bénéficiaires des subventions régies par la présente loi perdent les avantages qui leur ont été consentis si, avant l’expiration d’un délai de 5 ans pour les investissements mobiliers et d’un délai de 20 ans pour les investissements immobiliers, à partir de leur octroi, ils :
 
-1. aliènent à titre onéreux, cèdent ou échangent les biens mobiliers ou immobiliers en vue desquels les subventions ont été consenties, ou
+- aliènent à titre onéreux, cèdent ou échangent les biens mobiliers ou immobiliers en vue desquels les subventions ont été consenties, ou
 
-2. modifient l’affectation originaire des biens mobiliers ou immobiliers.
+- modifient l’affectation originaire des biens mobiliers ou immobiliers.
 
 La perte des avantages est calculée au prorata du temps restant à courir jusqu’à la fin des délais respectifs prévus à l’alinéa 1er.
 
@@ -755,15 +755,15 @@ Pour pouvoir être nommé commissaire, le candidat doit remplir les conditions p
 
 Les missions du commissaire consistent à :
 
-1. exercer un droit d’information et de contrôle sur l’activité des établissements hospitaliers ainsi que sur leur gestion technique, administrative et financière ;
+- exercer un droit d’information et de contrôle sur l’activité des établissements hospitaliers ainsi que sur leur gestion technique, administrative et financière ;
 
-2. contrôler le respect des dispositions de la présente loi et de ses règlements d’exécution ;
+- contrôler le respect des dispositions de la présente loi et de ses règlements d’exécution ;
 
-3. contrôler l’affectation des subventions publiques versées au titre de l’article 15 ;
+- contrôler l’affectation des subventions publiques versées au titre de l’article 15 ;
 
-4. faire toute proposition en relation avec une meilleure utilisation des ressources ;
+- faire toute proposition en relation avec une meilleure utilisation des ressources ;
 
-5. faciliter les projets d’intérêt commun ou de mutualisation des établissements hospitaliers.
+- faciliter les projets d’intérêt commun ou de mutualisation des établissements hospitaliers.
 
 Pour l’exécution de sa mission le commissaire peut requérir l’assistance des services d’un établissement hospitalier. Il a le droit, aussi souvent qu’il le juge utile, de demander rapport aux organes de direction et de gestion des établissements hospitaliers ainsi que de prendre connaissance, même sans se déplacer, des livres, comptes et autres documents des établissements hospitaliers.
 
@@ -780,19 +780,19 @@ Le commissaire suspend l’exécution des décisions d’un organisme gestionnai
 
 Une Commission permanente pour le secteur hospitalier, ci-après dénommé « Commission », exerce des fonctions consultatives auprès du ministre et du ministre ayant la Sécurité sociale dans ses attributions et a pour mission d’aviser :
 
-1. toute modification à la présente loi ;
+- toute modification à la présente loi ;
 
-2. les demandes de subventions financières des établissements hospitaliers telle que prévues aux articles 15 et 16 ;
+- les demandes de subventions financières des établissements hospitaliers telle que prévues aux articles 15 et 16 ;
 
-3. les demandes d’autorisation de création, de modernisation ou d’extension d’un établissement hospitalier conformément à l’article 7 ;
+- les demandes d’autorisation de création, de modernisation ou d’extension d’un établissement hospitalier conformément à l’article 7 ;
 
-4. les demandes d’autorisation de création, d’extension ou de modernisation d’un service hospitalier conformément à l’article 9 ;
+- les demandes d’autorisation de création, d’extension ou de modernisation d’un service hospitalier conformément à l’article 9 ;
 
-5. les demandes de prorogation des demandes visées aux points 3 et 4 du présent article et ce conformément à l’article 11 ;
+- les demandes de prorogation des demandes visées aux points 3 et 4 du présent article et ce conformément à l’article 11 ;
 
-6. tous les projets de règlements grand-ducaux qui sont applicables aux établissements hospitaliers ;
+- tous les projets de règlements grand-ducaux qui sont applicables aux établissements hospitaliers ;
 
-7. tout projet de création d’un réseau de compétences conformément à l’article 28.
+- tout projet de création d’un réseau de compétences conformément à l’article 28.
 
 (2)
 
@@ -808,17 +808,17 @@ La Commission peut être demandée en son avis par le ministre ou le ministre ay
 
 La Commission se compose :
 
-1. de deux représentants du ministre dont l’un est le directeur de la Santé ou son représentant ;
+- de deux représentants du ministre dont l’un est le directeur de la Santé ou son représentant ;
 
-2. de deux représentants du ministre ayant dans ses attributions la Sécurité sociale dont l’un est le directeur du Contrôle médical de la sécurité sociale ou son représentant ;
+- de deux représentants du ministre ayant dans ses attributions la Sécurité sociale dont l’un est le directeur du Contrôle médical de la sécurité sociale ou son représentant ;
 
-3. d’un représentant du ministre ayant dans ses attributions le budget ;
+- d’un représentant du ministre ayant dans ses attributions le budget ;
 
-4. de trois représentants de la Caisse nationale de santé dont l’un est le président ou son représentant ;
+- de trois représentants de la Caisse nationale de santé dont l’un est le président ou son représentant ;
 
-5. de deux représentants proposés par le groupement le plus représentatif des hôpitaux luxembourgeois ;
+- de deux représentants proposés par le groupement le plus représentatif des hôpitaux luxembourgeois ;
 
-6. de deux représentants des professions de la santé dont l’un est médecin proposé par l’association la plus représentative des médecins et médecins-dentistes et l’autre professionnel de santé proposé par le Conseil supérieur de certaines professions de santé.
+- de deux représentants des professions de la santé dont l’un est médecin proposé par l’association la plus représentative des médecins et médecins-dentistes et l’autre professionnel de santé proposé par le Conseil supérieur de certaines professions de santé.
 
 II y a autant de membres suppléants qu’il y a de membres effectifs.
 
@@ -851,21 +851,21 @@ L’organisme gestionnaire arrête la politique générale, les choix stratégiq
 
 Il assume les fonctions suivantes :
 
-1. il engage et licencie le directeur général ;
+- il engage et licencie le directeur général ;
 
-2. il engage et licencie le directeur médical, le directeur des soins et le directeur administratif et financier sur proposition du directeur général ;
+- il engage et licencie le directeur médical, le directeur des soins et le directeur administratif et financier sur proposition du directeur général ;
 
-3. il arrête le règlement général de l’établissement hospitalier ;
+- il arrête le règlement général de l’établissement hospitalier ;
 
-4. il arrête le budget annuel et les comptes annuels ;
+- il arrête le budget annuel et les comptes annuels ;
 
-5. il arrête le rapport d’activité ;
+- il arrête le rapport d’activité ;
 
-6. il approuve les acquisitions, aliénations et échanges d’immeubles ;
+- il approuve les acquisitions, aliénations et échanges d’immeubles ;
 
-7. il approuve les emprunts ;
+- il approuve les emprunts ;
 
-8. il approuve les dons et legs.
+- il approuve les dons et legs.
 
 (3)
 
@@ -892,25 +892,25 @@ L’organisme gestionnaire adopte le règlement général de l’hôpital.
 
 Le règlement général porte sur :
 
-1. les objectifs et les modalités du fonctionnement hospitalier et notamment des actions concourant à une prise en charge globale des patients, à la prévention de la dépendance et à l’amélioration continue de la qualité des prestations hospitalières ;
+- les objectifs et les modalités du fonctionnement hospitalier et notamment des actions concourant à une prise en charge globale des patients, à la prévention de la dépendance et à l’amélioration continue de la qualité des prestations hospitalières ;
 
-2. la qualité des prestations globales et spécifiquement celles dans le domaine médical et des soins ;
+- la qualité des prestations globales et spécifiquement celles dans le domaine médical et des soins ;
 
-3. le système d’information, l’utilisation rationnelle et scientifique des médicaments et des équipements ;
+- le système d’information, l’utilisation rationnelle et scientifique des médicaments et des équipements ;
 
-4. l’organisation médicale, des soins et administrative ainsi que le mode d’exercice de la médecine, des soins et de leurs disciplines annexes ;
+- l’organisation médicale, des soins et administrative ainsi que le mode d’exercice de la médecine, des soins et de leurs disciplines annexes ;
 
-5. l’organigramme et le tableau des effectifs du personnel, les règles concernant l’engagement, l’emploi, le remplacement et les tâches des différentes catégories de personnel ;
+- l’organigramme et le tableau des effectifs du personnel, les règles concernant l’engagement, l’emploi, le remplacement et les tâches des différentes catégories de personnel ;
 
-6. la politique sociale et de formation continue du personnel ;
+- la politique sociale et de formation continue du personnel ;
 
-7. le règlement d’ordre intérieur relatif aux dispositions concernant les patients et les visiteurs ;
+- le règlement d’ordre intérieur relatif aux dispositions concernant les patients et les visiteurs ;
 
-8. l’organisation et le contrôle de la prévention et du contrôle de l’infection nosocomiale ;
+- l’organisation et le contrôle de la prévention et du contrôle de l’infection nosocomiale ;
 
-9. les règlements de sécurité et les plans d’intervention pour faire face aux catastrophes et événements analogues ;
+- les règlements de sécurité et les plans d’intervention pour faire face aux catastrophes et événements analogues ;
 
-10. la prévention et l’élimination des déchets.
+- la prévention et l’élimination des déchets.
 
 (2)
 
@@ -956,9 +956,9 @@ L'organisme gestionnaire compose le comité d'éthique de manière à assurer un
 
 Le comité d'éthique hospitalier a pour attribution :
 
-1. de fournir, en l’absence de disposition de fin de vie ou de directive anticipée une aide à la décision au patient ou à ses proches, si le patient n'est plus en état de s'exprimer, ainsi qu'aux médecins traitants hospitaliers, chaque fois qu'une pluralité de démarches peut être envisagée du point de vue médical et que le choix entre elles donne lieu à des dilemmes éthiques ;
+- de fournir, en l’absence de disposition de fin de vie ou de directive anticipée une aide à la décision au patient ou à ses proches, si le patient n'est plus en état de s'exprimer, ainsi qu'aux médecins traitants hospitaliers, chaque fois qu'une pluralité de démarches peut être envisagée du point de vue médical et que le choix entre elles donne lieu à des dilemmes éthiques ;
 
-2. de préparer des orientations internes à l'hôpital pour autant qu'elles concernent des questions d'éthique.
+- de préparer des orientations internes à l'hôpital pour autant qu'elles concernent des questions d'éthique.
 
 Tout membre du personnel ainsi que tous les médecins exerçant à l'hôpital peuvent émettre des suggestions au comité d'éthique hospitalier en vue de l'établissement de ces orientations internes.
 
@@ -1008,23 +1008,23 @@ Un « réseau de compétences » est une entité organisationnelle qui rassemble
 
 Des réseaux de compétences pourront être créés afin d’assurer la prise en charge interdisciplinaire des patients atteints des pathologies ou groupes de pathologies suivants :
 
-1. accidents vasculaires cérébraux (1) ;
+- accidents vasculaires cérébraux (1) ;
 
-2. cancers intégrant le service de radiothérapie (2) ;
+- cancers intégrant le service de radiothérapie (2) ;
 
-3. affections rachidiennes à traitement chirurgical (1) ;
+- affections rachidiennes à traitement chirurgical (1) ;
 
-4. diabète et obésité avec comorbidité de l’adulte (1) ;
+- diabète et obésité avec comorbidité de l’adulte (1) ;
 
-5. diabète et obésité avec comorbidité de l’enfant (1) ;
+- diabète et obésité avec comorbidité de l’enfant (1) ;
 
-6. immuno-rhumatologie de l’adulte et de l’enfant (1) ;
+- immuno-rhumatologie de l’adulte et de l’enfant (1) ;
 
-7. maladies psychosomatiques (1) ;
+- maladies psychosomatiques (1) ;
 
-8. douleur chronique (1) ;
+- douleur chronique (1) ;
 
-9. maladies neuro-dégénératives (1).
+- maladies neuro-dégénératives (1).
 
 (3)
 
@@ -1034,25 +1034,25 @@ La demande d’autorisation est introduite par au moins deux hôpitaux sous form
 
 Ce projet précise :
 
-1. les disciplines médicales impliquées, le domaine d’activité médicale projeté ;
+- les disciplines médicales impliquées, le domaine d’activité médicale projeté ;
 
-2. les objectifs quantitatifs et qualitatifs visés ;
+- les objectifs quantitatifs et qualitatifs visés ;
 
-3. les ressources et équipements à y affecter spécifiquement pour atteindre ces objectifs, y inclus le nombre de lits et d’emplacements dans le ou les établissements abritant le réseau ;
+- les ressources et équipements à y affecter spécifiquement pour atteindre ces objectifs, y inclus le nombre de lits et d’emplacements dans le ou les établissements abritant le réseau ;
 
-4. les modalités d’organisation médicale et soignante et de gestion du réseau ;
+- les modalités d’organisation médicale et soignante et de gestion du réseau ;
 
-5. les qualifications et compétences déterminant les modalités d’agrément des médecins et, le cas échéant, d’autres professionnels de santé collaborant dans le réseau ;
+- les qualifications et compétences déterminant les modalités d’agrément des médecins et, le cas échéant, d’autres professionnels de santé collaborant dans le réseau ;
 
-6. l’organisation et les moyens mis en place pour assurer la continuité des prises en charge afférentes, conformes aux acquis de la science ;
+- l’organisation et les moyens mis en place pour assurer la continuité des prises en charge afférentes, conformes aux acquis de la science ;
 
-7. la composition et la mission du Conseil scientifique ;
+- la composition et la mission du Conseil scientifique ;
 
-8. le contenu minimal du rapport d’activité annuel ;
+- le contenu minimal du rapport d’activité annuel ;
 
-9. les modalités d’évaluation et d’assurance qualité des prestations ;
+- les modalités d’évaluation et d’assurance qualité des prestations ;
 
-10. le cas échéant, les activités de recherche et d’enseignement envisagées.
+- le cas échéant, les activités de recherche et d’enseignement envisagées.
 
 Chaque projet de réseau de compétences doit être accompagné d’un Conseil scientifique.
 
@@ -1062,23 +1062,23 @@ Le projet de réseau de compétences ne peut être soumis au ministre que si au 
 
 Il est créé un Comité de gestion interhospitalière qui est composé des membres suivants :
 
-1. quatre membres désignés par les directions des hôpitaux ;
+- quatre membres désignés par les directions des hôpitaux ;
 
-2. deux représentants des conseils médicaux ;
+- deux représentants des conseils médicaux ;
 
-3. deux représentants du Conseil supérieur de certaines professions de santé ;
+- deux représentants du Conseil supérieur de certaines professions de santé ;
 
-4. un représentant du ministre ;
+- un représentant du ministre ;
 
-5. un représentant du ministre ayant la Sécurité sociale dans ses attributions ;
+- un représentant du ministre ayant la Sécurité sociale dans ses attributions ;
 
-6. un membre représentant les établissements de recherche ;
+- un membre représentant les établissements de recherche ;
 
-7. le directeur de la Santé ou son représentant ;
+- le directeur de la Santé ou son représentant ;
 
-8. un représentant de l’organisme gestionnaire de l’assurance maladie ;
+- un représentant de l’organisme gestionnaire de l’assurance maladie ;
 
-9. en cas de discussion d’un projet de réseau de compétences, un représentant de l’association des patients la plus représentative de la pathologie visée.
+- en cas de discussion d’un projet de réseau de compétences, un représentant de l’association des patients la plus représentative de la pathologie visée.
 
 (6)
 
@@ -1094,17 +1094,17 @@ Le comité peut s’adjoindre les experts qu’il estime nécessaire.
 
 Le comité a pour mission de :
 
-1. soutenir les établissements hospitaliers dans l’élaboration des projets de réseaux de compétences et d’aviser leur projet de réseau ;
+- soutenir les établissements hospitaliers dans l’élaboration des projets de réseaux de compétences et d’aviser leur projet de réseau ;
 
-2. de retenir les modalités organisationnelles des réseaux de compétences ;
+- de retenir les modalités organisationnelles des réseaux de compétences ;
 
-3. de proposer les modalités de collaboration entre les services nationaux et les différents hôpitaux ;
+- de proposer les modalités de collaboration entre les services nationaux et les différents hôpitaux ;
 
-4. d’élaborer des projets de mutualisation interhospitalière ;
+- d’élaborer des projets de mutualisation interhospitalière ;
 
-5. de proposer les modalités de collaboration des médecins exerçant dans les réseaux de compétences et dans les services nationaux ;
+- de proposer les modalités de collaboration des médecins exerçant dans les réseaux de compétences et dans les services nationaux ;
 
-6. de définir le système d’assurance qualité des prestations hospitalières, d’assurer la coordination nationale de la politique de promotion de la qualité des prestations hospitalières dans les établissements hospitaliers et d’en dresser un état dans un rapport annuel.
+- de définir le système d’assurance qualité des prestations hospitalières, d’assurer la coordination nationale de la politique de promotion de la qualité des prestations hospitalières dans les établissements hospitaliers et d’en dresser un état dans un rapport annuel.
 
 (8)
 
@@ -1199,11 +1199,11 @@ Des médecins-coordinateurs, nommés par l’organisme gestionnaire, participent
 
 Ils assurent des fonctions de coordination et de planification de l’activité médicale du ou des service(s) et veillent :
 
-1. au bon fonctionnement du ou des services et à la qualité des prestations ;
+- au bon fonctionnement du ou des services et à la qualité des prestations ;
 
-2. à la standardisation de la prise en charge des patients ;
+- à la standardisation de la prise en charge des patients ;
 
-3. à l’utilisation efficiente des ressources disponibles.
+- à l’utilisation efficiente des ressources disponibles.
 
 Ils exercent leurs missions en collaboration avec le responsable des soins et le pharmacien responsable.
 
@@ -1234,19 +1234,19 @@ Le Conseil médical veille à la discipline des professionnels qu’il représen
 
 Le Conseil médical est appelé à donner son avis sur les questions suivantes :
 
-1. le règlement général ;
+- le règlement général ;
 
-2. le budget prévisionnel de l’établissement, le bilan et les comptes de profits et pertes ;
+- le budget prévisionnel de l’établissement, le bilan et les comptes de profits et pertes ;
 
-3. les projets de constructions, grosses réparations et transformations ;
+- les projets de constructions, grosses réparations et transformations ;
 
-4. les créations, transformations ou suppressions de services médicaux ou médico-techniques ;
+- les créations, transformations ou suppressions de services médicaux ou médico-techniques ;
 
-5. l’acquisition des appareils et équipements visés à l’article 14 paragraphe 1 er ;
+- l’acquisition des appareils et équipements visés à l’article 14 paragraphe 1 er ;
 
-6. l’agrément ou la nomination des médecins, des chefs de laboratoire et des pharmaciens ;
+- l’agrément ou la nomination des médecins, des chefs de laboratoire et des pharmaciens ;
 
-7. la composition et le fonctionnement du comité d’éthique hospitalier.
+- la composition et le fonctionnement du comité d’éthique hospitalier.
 
 (3)
 
@@ -1256,15 +1256,15 @@ Le Conseil médical peut en outre, de sa propre initiative, soumettre au directe
 
 Le Conseil médical peut émettre un avis renforcé lorsque les questions lui soumises pour avis par l’organisme gestionnaire concernent :
 
-1. les dispositions du règlement général relatives à l’organigramme structurel du département médical et à la composition du Conseil médical ;
+- les dispositions du règlement général relatives à l’organigramme structurel du département médical et à la composition du Conseil médical ;
 
-2. la nomination du directeur médical ;
+- la nomination du directeur médical ;
 
-3. la nomination des médecins responsables de service ;
+- la nomination des médecins responsables de service ;
 
-4. les méthodes de contrôle de qualité de l’activité médicale ;
+- les méthodes de contrôle de qualité de l’activité médicale ;
 
-5. le licenciement ou le retrait d’agrément d’un médecin hors motif grave.
+- le licenciement ou le retrait d’agrément d’un médecin hors motif grave.
 
 Lorsque cet avis a été pris à la majorité des deux tiers des membres votants du Conseil médical et que le gestionnaire ne peut s’y rallier, ce dernier ne peut prendre de décision en la matière que suivant la procédure prévue au paragraphe 6.
 
@@ -1323,21 +1323,21 @@ Le modèle de contrat-type de collaboration une fois arrêté fait, à l’initi
 
 Le contenu essentiel du contrat-type de collaboration entre un établissement hospitalier et les médecins libéraux y agréés comprend :
 
-1. son objet et les activités médicales que le médecin exerce dans l’établissement hospitalier ;
+- son objet et les activités médicales que le médecin exerce dans l’établissement hospitalier ;
 
-2. le respect des objectifs de qualité et de sécurité arrêtés par l’établissement hospitalier conformément au règlement général de l’établissement et aux considérations du Comité de gestion interhospitalière ;
+- le respect des objectifs de qualité et de sécurité arrêtés par l’établissement hospitalier conformément au règlement général de l’établissement et aux considérations du Comité de gestion interhospitalière ;
 
-3. la durée du contrat et ses règles de prorogation ;
+- la durée du contrat et ses règles de prorogation ;
 
-4. les conditions d’accès aux unités de soins ainsi que les conditions d’utilisation rationnelle et scientifique des équipements médico-techniques et des infrastructures ;
+- les conditions d’accès aux unités de soins ainsi que les conditions d’utilisation rationnelle et scientifique des équipements médico-techniques et des infrastructures ;
 
-5. les modalités de gestion des absences des médecins ;
+- les modalités de gestion des absences des médecins ;
 
-6. l’obligation pour le médecin de souscrire une assurance responsabilité civile ;
+- l’obligation pour le médecin de souscrire une assurance responsabilité civile ;
 
-7. les modalités de résolution extra-judiciaire des conflits entre les établissements hospitaliers et les médecins ;
+- les modalités de résolution extra-judiciaire des conflits entre les établissements hospitaliers et les médecins ;
 
-8. les modalités d’application pratiques des droits et obligations prévus aux paragraphes 1 er à 6 du présent article et les conséquences sur le contrat de collaboration en cas de non-respect par l’une des parties contractantes de ces prescriptions et ce dans le respect des procédures applicables à l’article 32.
+- les modalités d’application pratiques des droits et obligations prévus aux paragraphes 1 er à 6 du présent article et les conséquences sur le contrat de collaboration en cas de non-respect par l’une des parties contractantes de ces prescriptions et ce dans le respect des procédures applicables à l’article 32.
 
 <a id="art-34"></a>
 ## Art. 34.
@@ -1363,15 +1363,15 @@ La pharmacie hospitalière de la Centrale nationale d’achat et de logistique c
 
 Un règlement grand-ducal détermine les conditions auxquelles la pharmacie hospitalière ou la structure externe doit répondre, en ce qui concerne :
 
-1. les exigences et modalités d’organisation et d’aménagement, y inclus les surfaces et équipements minimaux requis ;
+- les exigences et modalités d’organisation et d’aménagement, y inclus les surfaces et équipements minimaux requis ;
 
-2. les exigences et conditions auxquelles le pharmacien-gérant, les pharmaciens-assistants et le personnel doivent répondre, ainsi que leur statut et leurs attributions ;
+- les exigences et conditions auxquelles le pharmacien-gérant, les pharmaciens-assistants et le personnel doivent répondre, ainsi que leur statut et leurs attributions ;
 
-3. les conditions et exigences minimales du stock pharmaceutique ;
+- les conditions et exigences minimales du stock pharmaceutique ;
 
-4. la préparation, la division, le conditionnement et le reconditionnement des médicaments et autres produits relevant de la pharmacie hospitalière, dans des conditions de sécurité et de qualité optimales, en assurant leur traçabilité ;
+- la préparation, la division, le conditionnement et le reconditionnement des médicaments et autres produits relevant de la pharmacie hospitalière, dans des conditions de sécurité et de qualité optimales, en assurant leur traçabilité ;
 
-5. les catégories de médicaments ou autres produits relevant de la pharmacie hospitalière qui peuvent être délivrés à des patients ne séjournant pas à l’hôpital, ainsi que les modalités et conditions sous lesquelles la délivrance peut se faire.
+- les catégories de médicaments ou autres produits relevant de la pharmacie hospitalière qui peuvent être délivrés à des patients ne séjournant pas à l’hôpital, ainsi que les modalités et conditions sous lesquelles la délivrance peut se faire.
 
 <a id="art-36"></a>
 ## Art. 36.
@@ -1424,17 +1424,17 @@ Cette analyse repose sur les données administratives, médicales et de soins, p
 
 Ces données concernent en particulier :
 
-1. les diagnostics des affections ayant motivé l’hospitalisation, y compris les diagnostics des affections ayant eu une influence sur la prise en charge hospitalière ;
+- les diagnostics des affections ayant motivé l’hospitalisation, y compris les diagnostics des affections ayant eu une influence sur la prise en charge hospitalière ;
 
-2. les interventions, les examens médicaux et les prestations des professionnels de santé impliqués dans la prise en charge ;
+- les interventions, les examens médicaux et les prestations des professionnels de santé impliqués dans la prise en charge ;
 
-3. les prescriptions ;
+- les prescriptions ;
 
-4. le service et, le cas échéant, l’unité de soins où le patient a été pris en charge et où ces prestations ont été dispensées ;
+- le service et, le cas échéant, l’unité de soins où le patient a été pris en charge et où ces prestations ont été dispensées ;
 
-5. les dates et horaires de l’admission, de la sortie et des prestations médicales dispensées tout au long du séjour ;
+- les dates et horaires de l’admission, de la sortie et des prestations médicales dispensées tout au long du séjour ;
 
-6. le mode d’entrée, la provenance, le mode de sortie et la destination du patient.
+- le mode d’entrée, la provenance, le mode de sortie et la destination du patient.
 
 (3)
 
@@ -1458,15 +1458,15 @@ Le service de documentation médicale est dirigé par un médecin responsable de
 
 Dans le respect du secret médical et des droits des patients, le service de documentation médicale a pour mission :
 
-1. la collecte des données administratives, médicales et de soins relatives à l’ensemble des séjours hospitaliers stationnaires et ambulatoires ;
+- la collecte des données administratives, médicales et de soins relatives à l’ensemble des séjours hospitaliers stationnaires et ambulatoires ;
 
-2. le traitement de ces données et la production de tableaux de bord en vue d’améliorer la connaissance et l’évaluation de l’activité et de favoriser l’optimisation de l’offre de soins ;
+- le traitement de ces données et la production de tableaux de bord en vue d’améliorer la connaissance et l’évaluation de l’activité et de favoriser l’optimisation de l’offre de soins ;
 
-3. l’assurance de la qualité des données produites ;
+- l’assurance de la qualité des données produites ;
 
-4. la transmission d’informations structurées relatives à ces séjours hospitaliers vers les administrations de la santé et de la sécurité sociale, selon des formats et des modalités à fixer par règlement grand-ducal ;
+- la transmission d’informations structurées relatives à ces séjours hospitaliers vers les administrations de la santé et de la sécurité sociale, selon des formats et des modalités à fixer par règlement grand-ducal ;
 
-5. la conservation des données produites pendant une durée de 10 ans.
+- la conservation des données produites pendant une durée de 10 ans.
 
 Un règlement grand-ducal fixe les normes ayant trait à l’organisation générale, la dotation en personnel et les procédures de documentation que le service de documentation médicale doit respecter.
 
@@ -1480,19 +1480,19 @@ La commission peut être demandée en son avis par le ministre ou le ministre ay
 
 La commission se compose :
 
-1. d’un représentant du ministre ;
+- d’un représentant du ministre ;
 
-2. d’un représentant du ministre ayant dans ses attributions la Sécurité sociale ;
+- d’un représentant du ministre ayant dans ses attributions la Sécurité sociale ;
 
-3. d’un représentant de la Direction de la Santé ;
+- d’un représentant de la Direction de la Santé ;
 
-4. d’un représentant de la Caisse nationale de santé ;
+- d’un représentant de la Caisse nationale de santé ;
 
-5. d’un représentant du groupement le plus représentatif des hôpitaux luxembourgeois ;
+- d’un représentant du groupement le plus représentatif des hôpitaux luxembourgeois ;
 
-6. d’un représentant de l’association la plus représentative des médecins et médecins-dentistes ;
+- d’un représentant de l’association la plus représentative des médecins et médecins-dentistes ;
 
-7. d’un représentant du Conseil supérieur de certaines professions de santé.
+- d’un représentant du Conseil supérieur de certaines professions de santé.
 
 II y a autant de membres suppléants qu’il y a de membres effectifs.
 
@@ -1585,9 +1585,9 @@ Est punie d’une amende de 5.000 à 100.000 euros, la personne physique ou mora
 
 Sont punis d’un emprisonnement de huit jours à six mois et d’une amende de 251 à 5.000 euros ou d’une de ces peines seulement :
 
-1. toute personne qui, responsable d’organiser le service d’urgences d’un hôpital ou chargée de participer à cette organisation, refuse ou omet de prendre ou faire prendre tout ou partie des mesures ou dispositions nécessaires pour assurer le fonctionnement normal de ces services ;
+- toute personne qui, responsable d’organiser le service d’urgences d’un hôpital ou chargée de participer à cette organisation, refuse ou omet de prendre ou faire prendre tout ou partie des mesures ou dispositions nécessaires pour assurer le fonctionnement normal de ces services ;
 
-2. toute personne qui, tenue ou chargée de participer au service d’urgences d’un hôpital ou d’un service de garde, refuse ou omet d’assurer ce service ou de remplir sans retard tout ou partie des devoirs que l’exécution normale exige.
+- toute personne qui, tenue ou chargée de participer au service d’urgences d’un hôpital ou d’un service de garde, refuse ou omet d’assurer ce service ou de remplir sans retard tout ou partie des devoirs que l’exécution normale exige.
 
 En cas de récidive dans le délai de deux ans après une condamnation définitive à une peine d’emprisonnement du chef d’une infraction au présent article, les peines prévues peuvent être portées au double du maximum.
 
@@ -1600,61 +1600,87 @@ Ne sont pas visés par l’alinéa 1er, les laboratoires d’analyses médicales
 <a id="art-46"></a>
 ## Art. 46.
 
-L’article 60, alinéa 2 du Code de la sécurité sociale est modifié comme suit : Sont considérées comme prestations du secteur hospitalier toutes les prestations en nature dispensées à des assurés traités dans un hôpital, un établissement hospitalier spécialisé, un établissement d’accueil pour personnes en fin de vie ou un centre de diagnostic au sens de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière.
+L’article 60, alinéa 2 du Code de la sécurité sociale est modifié comme suit :
+
+Sont considérées comme prestations du secteur hospitalier toutes les prestations en nature dispensées à des assurés traités dans un hôpital, un établissement hospitalier spécialisé, un établissement d’accueil pour personnes en fin de vie ou un centre de diagnostic au sens de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière.
 
 <a id="art-47"></a>
 ## Art. 47.
 
-L’article 60bis, alinéa 3 du Code de la sécurité sociale est modifié comme suit : Les dispositions organisant la documentation des diagnostics, des prescriptions et des prestations effectuées relevant du secteur extrahospitalier peuvent être fixées par règlement grand-ducal.
+L’article 60bis, alinéa 3 du Code de la sécurité sociale est modifié comme suit :
+
+Les dispositions organisant la documentation des diagnostics, des prescriptions et des prestations effectuées relevant du secteur extrahospitalier peuvent être fixées par règlement grand-ducal.
 
 <a id="art-48"></a>
 ## Art. 48.
 
-L’alinéa 2 de l’article 74 du Code de la sécurité sociale est modifié comme suit : Les éléments de l’enveloppe sont établis sur base de l’évolution démographique de la population résidente, de la morbidité, des pratiques d’une médecine basée sur des preuves scientifiques et en tenant compte de la croissance économique du pays. L’enveloppe budgétaire globale et les budgets spécifiques des hôpitaux tiennent compte des dispositions de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière, des autorisations d’exploitation et des autorisations de services des établissements hospitaliers, des spécificités des services spécialisés et nationaux et des réseaux de compétences, ainsi que des obligations découlant de la participation au service médical d’urgence.
+L’alinéa 2 de l’article 74 du Code de la sécurité sociale est modifié comme suit :
+
+Les éléments de l’enveloppe sont établis sur base de l’évolution démographique de la population résidente, de la morbidité, des pratiques d’une médecine basée sur des preuves scientifiques et en tenant compte de la croissance économique du pays. L’enveloppe budgétaire globale et les budgets spécifiques des hôpitaux tiennent compte des dispositions de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière, des autorisations d’exploitation et des autorisations de services des établissements hospitaliers, des spécificités des services spécialisés et nationaux et des réseaux de compétences, ainsi que des obligations découlant de la participation au service médical d’urgence.
 
 <a id="art-49"></a>
 ## Art. 49.
 
 La loi modifiée du 21 novembre 1980 portant organisation de la Direction de la santé est modifiée comme suit :
 
-1. À l’article 1 er , deuxième alinéa, à la fin du point 9, il est rajouté un nouveau point 10, libellé comme suit : assurer une protection de la santé publique au niveau des denrées alimentaires.
+- À l’article 1 er , deuxième alinéa, à la fin du point 9, il est rajouté un nouveau point 10, libellé comme suit : assurer une protection de la santé publique au niveau des denrées alimentaires.
 
-2. L’article 2 est modifié comme suit : Au paragraphe 2, deuxième alinéa, la deuxième phrase prend la rédaction suivante : Si le directeur est empêché d’exercer ses fonctions, il est remplacé par un directeur adjoint.
+- L’article 2 est modifié comme suit : Au paragraphe 2, deuxième alinéa, la deuxième phrase prend la rédaction suivante : Si le directeur est empêché d’exercer ses fonctions, il est remplacé par un directeur adjoint.
 
-3. L’article 4, deuxième alinéa, est modifié comme suit :
+- L’article 4, deuxième alinéa, est modifié comme suit :
 
-1. au point 4, à la première phrase, les termes et des dispositifs médicaux sont supprimés ;
+  - au point 4, à la première phrase, les termes et des dispositifs médicaux sont supprimés ;
 
-2. au point 5, à la fin de la deuxième phrase, les termes organismes génétiquement modifiés sont remplacés par les termes dispositifs médicaux ;
+  - au point 5, à la fin de la deuxième phrase, les termes organismes génétiquement modifiés sont remplacés par les termes dispositifs médicaux ;
 
-3. à la fin du point 9, est rajoutée la phrase suivante : Sa compétence s’étend également aux organismes génétiquement modifiés.
+  - à la fin du point 9, est rajoutée la phrase suivante : Sa compétence s’étend également aux organismes génétiquement modifiés.
 
-4. À l’article 6, au paragraphe 1 er , point 1, les termes organismes génétiquement modifiés sont remplacés par les termes dispositifs médicaux .
+- À l’article 6, au paragraphe 1 er , point 1, les termes organismes génétiquement modifiés sont remplacés par les termes dispositifs médicaux .
 
-5. L’article 16 est modifié comme suit :
+- L’article 16 est modifié comme suit :
 
-1. au paragraphe 1 er , le deuxième alinéa est supprimé ;
+  - au paragraphe 1 er , le deuxième alinéa est supprimé ;
 
-2. l’alinéa 1 er du paragraphe 2 est remplacé par la disposition suivante : Les candidats au poste de directeur, de directeur adjoint médical et technique ou à un poste de médecin ou de médecin-dentiste à la Direction de la santé doivent être autorisés à exercer la profession de médecin ou de médecin-dentiste au Luxembourg suivant les dispositions légales en vigueur au moment où il est pourvu à la vacance de poste.
+  - l’alinéa 1 er du paragraphe 2 est remplacé par la disposition suivante : Les candidats au poste de directeur, de directeur adjoint médical et technique ou à un poste de médecin ou de médecin-dentiste à la Direction de la santé doivent être autorisés à exercer la profession de médecin ou de médecin-dentiste au Luxembourg suivant les dispositions légales en vigueur au moment où il est pourvu à la vacance de poste.
 
 <a id="art-50"></a>
 ## Art. 50.
 
 La loi modifiée du 16 juillet 1984 relative aux laboratoires d’analyses médicales est modifiée comme suit :
 
-1. À l’article 1 er , le paragraphe 3 est complété in fine par la phrase suivante : Les examens relevant de l’anatomopathologie et de la génétique humaine sont effectués exclusivement dans le centre de diagnostic visé à l’article 2, paragraphe 4 de la loi du 7 août 2012 portant création de l’établissement public « Laboratoire national de santé.
+- À l’article 1 er , le paragraphe 3 est complété in fine par la phrase suivante : Les examens relevant de l’anatomopathologie et de la génétique humaine sont effectués exclusivement dans le centre de diagnostic visé à l’article 2, paragraphe 4 de la loi du 7 août 2012 portant création de l’établissement public « Laboratoire national de santé.
 
-2. À l’article 2, le paragraphe 1 er est modifié comme suit : (1) Un laboratoire d’analyses de biologie médicale peut être exploité soit à titre personnel par une ou plusieurs personnes physiques, soit par une personne morale de droit privé ou public. Ne peuvent, directement ou indirectement, s’associer au sein d’une personne morale exploitant un laboratoire de biologie médicale ou en détenir de façon directe ou indirecte une fraction du capital social, mettre à disposition ou partager avec un laboratoire de biologie médicale des locaux : un médecin, médecin-dentiste, ainsi que tout autre professionnel de santé autorisé à prescrire des examens de biologie médicale, à l’exception du ou des responsable(s) de laboratoire dont question à l’article 4 ; un établissement hospitalier, sans préjudice de la faculté de s’associer dans une structure commune conformément à l’article 36 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière ; les personnes associées au sein de l’organisme gestionnaire d’un établissement hospitalier, ainsi que toute autre personne qui détient directement ou indirectement une fraction du capital social de l’organisme gestionnaire d’un établissement hospitalier.
+- À l’article 2, le paragraphe 1 er est modifié comme suit : (1) Un laboratoire d’analyses de biologie médicale peut être exploité soit à titre personnel par une ou plusieurs personnes physiques, soit par une personne morale de droit privé ou public. Ne peuvent, directement ou indirectement, s’associer au sein d’une personne morale exploitant un laboratoire de biologie médicale ou en détenir de façon directe ou indirecte une fraction du capital social, mettre à disposition ou partager avec un laboratoire de biologie médicale des locaux : un médecin, médecin-dentiste, ainsi que tout autre professionnel de santé autorisé à prescrire des examens de biologie médicale, à l’exception du ou des responsable(s) de laboratoire dont question à l’article 4 ; un établissement hospitalier, sans préjudice de la faculté de s’associer dans une structure commune conformément à l’article 36 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière ; les personnes associées au sein de l’organisme gestionnaire d’un établissement hospitalier, ainsi que toute autre personne qui détient directement ou indirectement une fraction du capital social de l’organisme gestionnaire d’un établissement hospitalier.
 
 <a id="art-51"></a>
 ## Art. 51.
 
-L’article 4, paragraphe 1er, de la loi du 19 décembre 2003 portant création de l’établissement public « Centre national de rééducation fonctionnelle et de réadaptation » est modifié comme suit : (1) Les fonctions d’organisme gestionnaire sont assurées par un conseil d’administration composé de onze membres effectifs et de onze membres suppléants, nommés et révoqués par le Grand-Duc, sur proposition du ministre ayant la Santé dans ses attributions, dont : cinq membres proposés par le Conseil de Gouvernement, dont deux pour représenter plus particulièrement les intérêts des usagers ; quatre membres représentant chacun un des centres hospitaliers proposés par l’organisme gestionnaire de l’hôpital respectif ; un membre proposé par le Conseil médical de l’établissement ; un membre représentant le personnel non-médecin, proposé par les délégations du personnel.
+L’article 4, paragraphe 1er, de la loi du 19 décembre 2003 portant création de l’établissement public « Centre national de rééducation fonctionnelle et de réadaptation » est modifié comme suit :
+
+(1)
+
+Les fonctions d’organisme gestionnaire sont assurées par un conseil d’administration composé de onze membres effectifs et de onze membres suppléants, nommés et révoqués par le Grand-Duc, sur proposition du ministre ayant la Santé dans ses attributions, dont :
+
+- cinq membres proposés par le Conseil de Gouvernement, dont deux pour représenter plus particulièrement les intérêts des usagers ;
+
+- quatre membres représentant chacun un des centres hospitaliers proposés par l’organisme gestionnaire de l’hôpital respectif ;
+
+- un membre proposé par le Conseil médical de l’établissement ;
+
+- un membre représentant le personnel non-médecin, proposé par les délégations du personnel.
 
 <a id="art-52"></a>
 ## Art. 52.
 
-L’article 2 de la loi du 7 août 2012 portant création de l’établissement public « Laboratoire national de santé » est complété par un paragraphe 4 qui prend la teneur suivante : (4) L’établissement gère le centre de diagnostic dans les domaines : de la génétique humaine, constitutionnelle et somatique, y compris l’interprétation de ces examens et le conseil génétique ; de l’anatomie pathologique assurant au niveau national les examens cytologiques et histologiques visés à l’article 6 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière.
+L’article 2 de la loi du 7 août 2012 portant création de l’établissement public « Laboratoire national de santé » est complété par un paragraphe 4 qui prend la teneur suivante :
+
+(4)
+
+L’établissement gère le centre de diagnostic dans les domaines :
+
+- de la génétique humaine, constitutionnelle et somatique, y compris l’interprétation de ces examens et le conseil génétique ;
+
+- de l’anatomie pathologique assurant au niveau national les examens cytologiques et histologiques visés à l’article 6 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière.
 
 <a id="art-53"></a>
 ## Art. 53.
@@ -1666,9 +1692,9 @@ L’article 2 de la loi du 7 août 2012 portant création de l’établissement 
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
 
-1. à l’article 12, paragraphe 1 er , alinéa 7, à la fin du point 10., les termes le commissaire du Gouvernement aux hôpitaux sont intercalés entre les termes de commissaire du Gouvernement chargé de l’instruction disciplinaire et ceux de classées au grade 17 ;
+- à l’article 12, paragraphe 1 er , alinéa 7, à la fin du point 10., les termes le commissaire du Gouvernement aux hôpitaux sont intercalés entre les termes de commissaire du Gouvernement chargé de l’instruction disciplinaire et ceux de classées au grade 17 ;
 
-2. à l’annexe A, au tableau « Classification des fonctions », dans la rubrique « Sous-groupe à attributions particulières » de la catégorie A, sous-groupe de traitement A1, la fonction de « commissaire du Gouvernement aux hôpitaux » est classée dans la colonne de droite correspondant au grade 17.
+- à l’annexe A, au tableau « Classification des fonctions », dans la rubrique « Sous-groupe à attributions particulières » de la catégorie A, sous-groupe de traitement A1, la fonction de « commissaire du Gouvernement aux hôpitaux » est classée dans la colonne de droite correspondant au grade 17.
 
 <a id="art-55"></a>
 ## Art. 55.
@@ -1685,15 +1711,15 @@ L’article 29, paragraphe 2 ne s’applique pas aux directeurs généraux des h
 
 Au plus tard 4 mois après l’entrée en vigueur de la présente loi, doivent être soumis pour autorisation au ministre
 
-1. les projets d’établissement des établissements hospitaliers tels que prévus à l’article 7 ;
+- les projets d’établissement des établissements hospitaliers tels que prévus à l’article 7 ;
 
-2. les projets de services visés à l’article 9 des services hospitaliers que les établissements sont tenus ou souhaitent exploiter conformément aux articles 4 et 5 ;
+- les projets de services visés à l’article 9 des services hospitaliers que les établissements sont tenus ou souhaitent exploiter conformément aux articles 4 et 5 ;
 
-3. les demandes d’autorisation, d'acquisition ou d’utilisation :
+- les demandes d’autorisation, d'acquisition ou d’utilisation :
 
-1. d’un équipement ou d’un appareil médical nécessitant une planification nationale ou exigeant des conditions d’emploi particulières tel que déterminé à l’annexe 3 ;
+  - d’un équipement ou d’un appareil médical nécessitant une planification nationale ou exigeant des conditions d’emploi particulières tel que déterminé à l’annexe 3 ;
 
-2. d’un équipement ou d’un appareil médical dont le coût dépasse 250.000 euros.
+  - d’un équipement ou d’un appareil médical dont le coût dépasse 250.000 euros.
 
 <a id="art-58"></a>
 ## Art. 58.

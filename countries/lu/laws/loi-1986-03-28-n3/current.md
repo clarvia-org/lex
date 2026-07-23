@@ -318,24 +318,35 @@ Pour la carrière du concierge, la promotion aux grades 4 et 5 se fait respectiv
 <a id="art-13"></a>
 ## Art. 13.
 
-L’article 32 de la loi modifiée du 10 août 1912 concernant l’organisation de l’enseignement primaire est remplacé par les dispositions suivantes: Art. 32. L’instituteur est nommé aux fonctions d’instituteur principal après douze années de grade à partir de la première nomination. Selon les besoins, il peut être chargé d’attributions administratives qui sont à fixer par règlement grand-ducal. Lorsque dans une commune ou dans un syndicat de communes aucun instituteur ne peut être nommé aux fonctions d’instituteur principal en vertu des dispositions qui précèdent, l’instituteur le plus ancien en rang dans cette commune ou dans ce syndicat de communes pourra être chargé temporairement des attributions administratives visées au paragraphe 2. Les instituteurs chargés des attributions administratives visées au paragraphe 2 bénéficient d’une indemnité dont le montant est fixé par le Gouvernement en conseil.
+L’article 32 de la loi modifiée du 10 août 1912 concernant l’organisation de l’enseignement primaire est remplacé par les dispositions suivantes:
+
+<a id="art-32"></a>
+## Art. 32.
+
+- L’instituteur est nommé aux fonctions d’instituteur principal après douze années de grade à partir de la première nomination.
+
+- Selon les besoins, il peut être chargé d’attributions administratives qui sont à fixer par règlement grand-ducal.
+
+- Lorsque dans une commune ou dans un syndicat de communes aucun instituteur ne peut être nommé aux fonctions d’instituteur principal en vertu des dispositions qui précèdent, l’instituteur le plus ancien en rang dans cette commune ou dans ce syndicat de communes pourra être chargé temporairement des attributions administratives visées au paragraphe 2.
+
+- Les instituteurs chargés des attributions administratives visées au paragraphe 2 bénéficient d’une indemnité dont le montant est fixé par le Gouvernement en conseil.
 
 <a id="art-14"></a>
 ## Art. 14.
 
 Dans «l’effectif total» des carrières visées aux dispositions qui précèdent il faut comprendre:
 
-1. Les fonctionnaires de la carrière en activité de service dans l’administration dont leur cadre relève, y non compris les fonctionnaires mis hors cadre par dépassement des effectifs, à moins qu’ils n’aient pas été remplacés dans leur cadre d’origine. Toutefois, les agents bénéficiant d’un service à temps partiel sont pris en compte dans l’effectif total à raison de leur degré d’occupation.
+- Les fonctionnaires de la carrière en activité de service dans l’administration dont leur cadre relève, y non compris les fonctionnaires mis hors cadre par dépassement des effectifs, à moins qu’ils n’aient pas été remplacés dans leur cadre d’origine. Toutefois, les agents bénéficiant d’un service à temps partiel sont pris en compte dans l’effectif total à raison de leur degré d’occupation.
 
-2. Les stagiaires de cette carrière.
+- Les stagiaires de cette carrière.
 
-3. Les fonctionnaires ayant bénéficié d’un changement d’administration conformément à la loi du 27 mars 1986 fixant les conditions et les modalités selon lesquelles le fonctionnaire de l’Etat peut se faire changer d’administration.
+- Les fonctionnaires ayant bénéficié d’un changement d’administration conformément à la loi du 27 mars 1986 fixant les conditions et les modalités selon lesquelles le fonctionnaire de l’Etat peut se faire changer d’administration.
 
-4. Les fonctionnaires de cette carrière détachés à d’autres administrations, qui restent dans le cadre de leur administration d’origine, tant que l’administration d’origine n’a pas procédé à un nouvel engagement dans leur carrière comme suite à leur détachement.
+- Les fonctionnaires de cette carrière détachés à d’autres administrations, qui restent dans le cadre de leur administration d’origine, tant que l’administration d’origine n’a pas procédé à un nouvel engagement dans leur carrière comme suite à leur détachement.
 
-5. Les fonctionnaires de cette carrière en congé sans traitement ou en service à temps partiel à durée déterminée tant que leur administration n’a pas procédé à un nouvel engagement dans leur carrière.
+- Les fonctionnaires de cette carrière en congé sans traitement ou en service à temps partiel à durée déterminée tant que leur administration n’a pas procédé à un nouvel engagement dans leur carrière.
 
-6. Les vacances de poste résultant du départ de fonctionnaires - ou de stagiaires - de cette carrière, tant qu’elles ne sont pas pourvues de nouveaux titulaires de cette carrière.
+- Les vacances de poste résultant du départ de fonctionnaires - ou de stagiaires - de cette carrière, tant qu’elles ne sont pas pourvues de nouveaux titulaires de cette carrière.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -407,11 +418,11 @@ Les fonctionnaires qui d’après l’ancienne législation avaient une perspect
 
 En vue des avancements ultérieurs, le rang du fonctionnaire réintégré sur base de l’article 2 de l’article VIII relatif aux dispositions abrogatoire et transitoire de la loi du 19 mai 2003, est fixé comme suit:
 
-1. pour le fonctionnaire réintégré sans avoir réussi à l’examen de promotion, par référence, pour la première promotion, à l’examen de fin de stage auquel il a réussi;
+- pour le fonctionnaire réintégré sans avoir réussi à l’examen de promotion, par référence, pour la première promotion, à l’examen de fin de stage auquel il a réussi;
 
-2. pour le fonctionnaire réintégré après avoir réussi à l’examen de promotion, par référence à cet examen;
+- pour le fonctionnaire réintégré après avoir réussi à l’examen de promotion, par référence à cet examen;
 
-3. pour le fonctionnaire réintégré et dont la carrière ne prévoit pas d’examen de promotion, par référence à l’examen de fin de stage auquel il a réussi.
+- pour le fonctionnaire réintégré et dont la carrière ne prévoit pas d’examen de promotion, par référence à l’examen de fin de stage auquel il a réussi.
 
 La période se situant entre la date de cessation des fonctions et la réintégration ultérieure du fonctionnaire est à considérer comme période d’interruption de service.
 
@@ -436,18 +447,18 @@ Pour l’application de l’article 14 paragraphe 6 à la carrière du technicie
 
 Toutes les dispositions légales et réglementaires contraires à la présente loi sont abrogées, à l’exception:
 
-1. de l’article 1 er paragraphe 2 de la loi du 31 janvier 1979 concernant l’organisation d’une filière administrative de la carrière supérieure dans les administrations de l’Etat
+- de l’article 1 er paragraphe 2 de la loi du 31 janvier 1979 concernant l’organisation d’une filière administrative de la carrière supérieure dans les administrations de l’Etat
 
-2. de l’article 2 de la loi du 26 avril 1979 modifiant la loi du 25 juillet 1977 remplaçant la loi du 22 avril 1974 concernant les emplois des carrières moyennes du rédacteur et du technicien diplômé dans les administrations de l’Etat
+- de l’article 2 de la loi du 26 avril 1979 modifiant la loi du 25 juillet 1977 remplaçant la loi du 22 avril 1974 concernant les emplois des carrières moyennes du rédacteur et du technicien diplômé dans les administrations de l’Etat
 
-3. de l’article 4 de la loi modifiée du 20 mars 1970 portant réorganisation de l’administration de l’Enregistrement et des Domaines
+- de l’article 4 de la loi modifiée du 20 mars 1970 portant réorganisation de l’administration de l’Enregistrement et des Domaines
 
-4. de l’article 3. - B - de la loi modifiée du 17 avril 1964 portant réorganisation de l’administration des Contributions directes et des Accises
+- de l’article 3. - B - de la loi modifiée du 17 avril 1964 portant réorganisation de l’administration des Contributions directes et des Accises
 
-6. de l’article 11 de la loi modifiée du 20 mars 1970 portant réorganisation de l’administration des Postes et Télécommunications
+- de l’article 11 de la loi modifiée du 20 mars 1970 portant réorganisation de l’administration des Postes et Télécommunications
 
-7. des dispositions concernant les postes à attribution particulière et les postes placés hors cadre figurant dans les lois organiques des différents services et administrations
+- des dispositions concernant les postes à attribution particulière et les postes placés hors cadre figurant dans les lois organiques des différents services et administrations
 
-8. de l’article 1, paragraphe 2 de la loi modifiée du 30 juin 1947 portant organisation du Corps diplomatique
+- de l’article 1, paragraphe 2 de la loi modifiée du 30 juin 1947 portant organisation du Corps diplomatique
 
-9. de l’article VI, alinéa 4 de la loi modifiée du 23 juillet 1952 concernant l’organisation militaire.
+- de l’article VI, alinéa 4 de la loi modifiée du 23 juillet 1952 concernant l’organisation militaire.

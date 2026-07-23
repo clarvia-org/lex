@@ -164,21 +164,21 @@ Avant d'entrer en fonction, le Ombudsman prête serment entre les mains du Grand
 
 Le mandat du Ombudsman prend fin d'office:
 
-1. soit à l'expiration de la durée du mandat telle que prévue à l'article 9;
+- soit à l'expiration de la durée du mandat telle que prévue à l'article 9;
 
-2. soit lorsque le Ombudsman atteint l'âge de 68 ans;
+- soit lorsque le Ombudsman atteint l'âge de 68 ans;
 
-3. soit lorsque le Ombudsman accepte d'exercer une des fonctions incompatibles avec son mandat visées à l'article 11.
+- soit lorsque le Ombudsman accepte d'exercer une des fonctions incompatibles avec son mandat visées à l'article 11.
 
 (2)
 
 La Chambre des députés peut, à la majorité des députés présents, le vote par procuration n'étant pas admis, demander au Grand-Duc de mettre fin au mandat du Ombudsman dans les cas suivants:
 
-1. lorsque le Ombudsman en formule lui-même la demande;
+- lorsque le Ombudsman en formule lui-même la demande;
 
-2. lorsque l'état de santé du Ombudsman compromet l'exercice de sa fonction;
+- lorsque l'état de santé du Ombudsman compromet l'exercice de sa fonction;
 
-3. lorsque le Ombudsman se trouve, pour une autre raison, dans l'incapacité d'exercer son mandat.
+- lorsque le Ombudsman se trouve, pour une autre raison, dans l'incapacité d'exercer son mandat.
 
 (3)
 
@@ -229,15 +229,15 @@ En cas de cessation de son mandat avant l'âge légal de retraite, pour une rais
 
 Pour être nommé Ombudsman, il faut remplir les conditions suivantes:
 
-1. posséder la nationalité luxembourgeoise;
+- posséder la nationalité luxembourgeoise;
 
-2. jouir des droits civils et politiques;
+- jouir des droits civils et politiques;
 
-3. offrir les garanties de moralité requises;
+- offrir les garanties de moralité requises;
 
-4. être porteur d'un diplôme d'études universitaires documentant un cycle complet de quatre années d'études accomplies avec succès dans l'une des matières déterminées par la Chambre des députés et posséder une expérience professionnelle dans un domaine utile à l'exercice de la fonction;
+- être porteur d'un diplôme d'études universitaires documentant un cycle complet de quatre années d'études accomplies avec succès dans l'une des matières déterminées par la Chambre des députés et posséder une expérience professionnelle dans un domaine utile à l'exercice de la fonction;
 
-5. avoir une connaissance adéquate des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues.
+- avoir une connaissance adéquate des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues.
 
 ##### Chapitre 3 Fonctionnement du secrétariat du Ombudsman
 
@@ -273,7 +273,7 @@ La loi modifiée du 27 mars 1986 fixant les conditions et les modalités selon l
 
 Le cadre du personnel du secrétariat du Ombudsman comprend des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
 
-1. Le cadre du personnel sera complété par des employés et des ouvriers dans la limite des crédits budgétaires.
+- Le cadre du personnel sera complété par des employés et des ouvriers dans la limite des crédits budgétaires.
 
 ##### Chapitre 4 Dispositions modificatives, financières et finales
 
@@ -286,37 +286,37 @@ Le cadre du personnel du secrétariat du Ombudsman comprend des fonctionnaires d
 
 La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat est modifiée comme suit:
 
-1. A l'annexe A – Classification des fonctions –, rubrique I – Administration générale, sont ajoutées les mentions suivantes:
+- A l'annexe A – Classification des fonctions –, rubrique I – Administration générale, sont ajoutées les mentions suivantes:
 
-- au grade 12, est ajoutée la mention: Secrétariat du Ombudsman – attaché .
+  - au grade 12, est ajoutée la mention: Secrétariat du Ombudsman – attaché .
 
-- au grade 13, est ajoutée la mention: Secrétariat du Ombudsman – attaché premier en rang .
+  - au grade 13, est ajoutée la mention: Secrétariat du Ombudsman – attaché premier en rang .
 
-- au grade 14, est ajoutée la mention: Secrétariat du Ombudsman – conseiller adjoint .
+  - au grade 14, est ajoutée la mention: Secrétariat du Ombudsman – conseiller adjoint .
 
-- au grade 15, est ajoutée la mention: Secrétariat du Ombudsman – conseiller .
+  - au grade 15, est ajoutée la mention: Secrétariat du Ombudsman – conseiller .
 
-- au grade 16, est ajoutée la mention: Secrétariat du Ombudsman – conseiller première classe .
+  - au grade 16, est ajoutée la mention: Secrétariat du Ombudsman – conseiller première classe .
 
-2. A l'annexe A – Classification des fonctions -, rubrique VI – Fonctions spéciales à indice fixe, est ajoutée la mention suivante:
+- A l'annexe A – Classification des fonctions -, rubrique VI – Fonctions spéciales à indice fixe, est ajoutée la mention suivante:
 
-- au grade S1, est ajoutée la mention Ombudsman .
+  - au grade S1, est ajoutée la mention Ombudsman .
 
-3. A l'annexe D - Détermination –, rubrique I – Administration générale, sont ajoutées les mentions suivantes:
+- A l'annexe D - Détermination –, rubrique I – Administration générale, sont ajoutées les mentions suivantes:
 
-- dans la carrière supérieure de l'administration, grade de computation de la bonification d'ancienneté 12, au grade 12, est ajoutée la mention: attaché du secrétariat du Ombudsman .
+  - dans la carrière supérieure de l'administration, grade de computation de la bonification d'ancienneté 12, au grade 12, est ajoutée la mention: attaché du secrétariat du Ombudsman .
 
-- dans la carrière supérieure de l'administration, grade de computation de la bonification d'ancienneté 12, au grade 13, est ajoutée la mention: attaché premier en rang du secrétariat du Ombudsman .
+  - dans la carrière supérieure de l'administration, grade de computation de la bonification d'ancienneté 12, au grade 13, est ajoutée la mention: attaché premier en rang du secrétariat du Ombudsman .
 
-- dans la carrière supérieure de l'administration, grade de computation de la bonification d'ancienneté 12, au grade 14, est ajoutée la mention: conseiller adjoint du secrétariat du Ombudsman .
+  - dans la carrière supérieure de l'administration, grade de computation de la bonification d'ancienneté 12, au grade 14, est ajoutée la mention: conseiller adjoint du secrétariat du Ombudsman .
 
-- dans la carrière supérieure de l'administration, grade de computation de la bonification d'ancienneté 12, au grade 15 est ajoutée la mention: conseiller du secrétariat du Ombudsman .
+  - dans la carrière supérieure de l'administration, grade de computation de la bonification d'ancienneté 12, au grade 15 est ajoutée la mention: conseiller du secrétariat du Ombudsman .
 
-- dans la carrière supérieure de l'administration, grade de computation de la bonification d'ancienneté 12, au grade 16, est ajoutée la mention: conseiller première classe du secrétariat du Ombudsman .
+  - dans la carrière supérieure de l'administration, grade de computation de la bonification d'ancienneté 12, au grade 16, est ajoutée la mention: conseiller première classe du secrétariat du Ombudsman .
 
-4. A l'article 22, VI, 20°, il est ajouté à la suite de la mention attaché de Gouvernement la mention de attaché du secrétariat du Ombudsman .
+- A l'article 22, VI, 20°, il est ajouté à la suite de la mention attaché de Gouvernement la mention de attaché du secrétariat du Ombudsman .
 
-5. A l'article 22, VII, a), alinéa 10, il est ajouté à la suite de la mention attaché de Gouvernement la mention de attaché du secrétariat du Ombudsman .
+- A l'article 22, VII, a), alinéa 10, il est ajouté à la suite de la mention attaché de Gouvernement la mention de attaché du secrétariat du Ombudsman .
 
 (2)
 

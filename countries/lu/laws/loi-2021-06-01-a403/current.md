@@ -34,15 +34,15 @@ Champ d’application
 
 La présente loi s’applique à certaines pratiques commerciales déloyales qui interviennent dans le cadre de la vente de produits agricoles et alimentaires par :
 
-1. des fournisseurs dont le chiffre d’affaires annuel ne dépasse pas 2 000 000 euros, à des acheteurs dont le chiffre d’affaires annuel dépasse 2 000 000 euros ;
+- des fournisseurs dont le chiffre d’affaires annuel ne dépasse pas 2 000 000 euros, à des acheteurs dont le chiffre d’affaires annuel dépasse 2 000 000 euros ;
 
-2. des fournisseurs dont le chiffre d’affaires annuel se situe entre 2 000 000 et 10 000 000 euros, à des acheteurs dont le chiffre d’affaires annuel dépasse 10 000 000 euros ;
+- des fournisseurs dont le chiffre d’affaires annuel se situe entre 2 000 000 et 10 000 000 euros, à des acheteurs dont le chiffre d’affaires annuel dépasse 10 000 000 euros ;
 
-3. des fournisseurs dont le chiffre d’affaires annuel se situe entre 10 000 000 et 50 000 000 euros, à des acheteurs dont le chiffre d’affaires annuel dépasse 50 000 000 euros ;
+- des fournisseurs dont le chiffre d’affaires annuel se situe entre 10 000 000 et 50 000 000 euros, à des acheteurs dont le chiffre d’affaires annuel dépasse 50 000 000 euros ;
 
-4. des fournisseurs dont le chiffre d’affaires annuel se situe entre 50 000 000 et 150 000 000 euros, à des acheteurs dont le chiffre d’affaires annuel dépasse 150 000 000 euros ;
+- des fournisseurs dont le chiffre d’affaires annuel se situe entre 50 000 000 et 150 000 000 euros, à des acheteurs dont le chiffre d’affaires annuel dépasse 150 000 000 euros ;
 
-5. des fournisseurs dont le chiffre d’affaires annuel se situe entre 150 000 000 et 350 000 000 euros, à des acheteurs dont le chiffre d’affaires annuel dépasse 350 000 000 euros.
+- des fournisseurs dont le chiffre d’affaires annuel se situe entre 150 000 000 et 350 000 000 euros, à des acheteurs dont le chiffre d’affaires annuel dépasse 350 000 000 euros.
 
 Le chiffre d’affaires annuel des fournisseurs et des acheteurs visé à l’alinéa 1er s’entend conformément à l’annexe de la recommandation de la Commission européenne n° 2003/361/CE du 6 mai 2003 concernant la définition des micro, petites et moyennes entreprises.
 
@@ -65,15 +65,15 @@ Définitions
 
 Aux fins de la présente loi, on entend par :
 
-1. « produits agricoles et alimentaires » : les produits énumérés à l’annexe I du traité sur le fonctionnement de l’Union européenne , ainsi que les produits ne figurant pas dans ladite annexe, mais qui sont transformés en vue d’être utilisés dans l’alimentation humaine en recourant à des produits énumérés dans ladite annexe ;
+- « produits agricoles et alimentaires » : les produits énumérés à l’annexe I du traité sur le fonctionnement de l’Union européenne , ainsi que les produits ne figurant pas dans ladite annexe, mais qui sont transformés en vue d’être utilisés dans l’alimentation humaine en recourant à des produits énumérés dans ladite annexe ;
 
-2. « acheteur » : toute personne physique ou morale, indépendamment du lieu d’établissement de cette personne, ou toute autorité publique dans l’Union européenne, qui achète des produits agricoles et alimentaires ; le terme « acheteur » peut englober un groupe de personnes physiques et morales appartenant à cette catégorie ;
+- « acheteur » : toute personne physique ou morale, indépendamment du lieu d’établissement de cette personne, ou toute autorité publique dans l’Union européenne, qui achète des produits agricoles et alimentaires ; le terme « acheteur » peut englober un groupe de personnes physiques et morales appartenant à cette catégorie ;
 
-3. « autorité publique » : les autorités nationales ou locales, les organismes de droit public ou les associations formées par une ou plusieurs de ces autorités ou un ou plusieurs de ces organismes de droit public ;
+- « autorité publique » : les autorités nationales ou locales, les organismes de droit public ou les associations formées par une ou plusieurs de ces autorités ou un ou plusieurs de ces organismes de droit public ;
 
-4. « fournisseur » : tout producteur agricole ou toute personne physique ou morale, indépendamment de son lieu d’établissement, qui vend des produits agricoles et alimentaires ; le terme « fournisseur » peut englober un groupe de producteurs agricoles ou de personnes physiques et morales appartenant à cette catégorie, tel que des organisations de producteurs, des organisations de fournisseurs et des associations de ces organisations ;
+- « fournisseur » : tout producteur agricole ou toute personne physique ou morale, indépendamment de son lieu d’établissement, qui vend des produits agricoles et alimentaires ; le terme « fournisseur » peut englober un groupe de producteurs agricoles ou de personnes physiques et morales appartenant à cette catégorie, tel que des organisations de producteurs, des organisations de fournisseurs et des associations de ces organisations ;
 
-5. « produits agricoles et alimentaires périssables » : des produits agricoles et alimentaires qui, de par leur nature ou à leur stade de transformation, sont susceptibles de devenir impropres à la vente dans un délai de trente jours après la récolte, la production ou la transformation.
+- « produits agricoles et alimentaires périssables » : des produits agricoles et alimentaires qui, de par leur nature ou à leur stade de transformation, sont susceptibles de devenir impropres à la vente dans un délai de trente jours après la récolte, la production ou la transformation.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -84,71 +84,71 @@ Interdiction de pratiques commerciales déloyales
 
 Les pratiques commerciales déloyales suivantes sont interdites :
 
-1. l’acheteur paie le fournisseur : Nonobstant les lettres a) et b) du présent point, lorsque l’acheteur établit le montant à payer :
+- l’acheteur paie le fournisseur : Nonobstant les lettres a) et b) du présent point, lorsque l’acheteur établit le montant à payer :
 
-1. lorsque l’accord de fourniture prévoit la livraison de produits de manière régulière : pour ce qui est des délais de paiement visés à la présente lettre, les délais de livraison convenus s’entendent dans tous les cas comme ne dépassant pas un mois ;
+  - lorsque l’accord de fourniture prévoit la livraison de produits de manière régulière : pour ce qui est des délais de paiement visés à la présente lettre, les délais de livraison convenus s’entendent dans tous les cas comme ne dépassant pas un mois ;
 
-1. pour les produits agricoles et alimentaires périssables, plus de trente jours après l’expiration d’un délai de livraison convenu au cours duquel les livraisons ont été effectuées, ou plus de trente jours après la date d’établissement du montant à payer pour ce délai de livraison, la plus tardive de ces deux dates étant retenue ;
+    - pour les produits agricoles et alimentaires périssables, plus de trente jours après l’expiration d’un délai de livraison convenu au cours duquel les livraisons ont été effectuées, ou plus de trente jours après la date d’établissement du montant à payer pour ce délai de livraison, la plus tardive de ces deux dates étant retenue ;
 
-2. pour les autres produits agricoles et alimentaires, plus de soixante jours après l’expiration d’un délai de livraison convenu au cours duquel les livraisons ont été effectuées, ou plus de soixante jours après la date d’établissement du montant à payer pour ce délai de livraison, la plus tardive de ces deux dates étant retenue ;
+    - pour les autres produits agricoles et alimentaires, plus de soixante jours après l’expiration d’un délai de livraison convenu au cours duquel les livraisons ont été effectuées, ou plus de soixante jours après la date d’établissement du montant à payer pour ce délai de livraison, la plus tardive de ces deux dates étant retenue ;
 
-2. lorsque l’accord de fourniture ne prévoit pas la livraison de produits de manière régulière :
+  - lorsque l’accord de fourniture ne prévoit pas la livraison de produits de manière régulière :
 
-1. pour les produits agricoles et alimentaires périssables, plus de trente jours après la date de livraison ou plus de trente jours après la date d’établissement du montant à payer, la plus tardive de ces deux dates étant retenue ;
+    - pour les produits agricoles et alimentaires périssables, plus de trente jours après la date de livraison ou plus de trente jours après la date d’établissement du montant à payer, la plus tardive de ces deux dates étant retenue ;
 
-2. pour les autres produits agricoles et alimentaires, plus de soixante jours après la date de livraison ou plus de soixante jours après la date d’établissement du montant à payer, la plus tardive de ces deux dates étant retenue.
+    - pour les autres produits agricoles et alimentaires, plus de soixante jours après la date de livraison ou plus de soixante jours après la date d’établissement du montant à payer, la plus tardive de ces deux dates étant retenue.
 
-1. les délais de paiement visés à la lettre a) commencent à courir à l’expiration d’un délai de livraison convenu au cours duquel les livraisons ont été effectuées, et
+  - les délais de paiement visés à la lettre a) commencent à courir à l’expiration d’un délai de livraison convenu au cours duquel les livraisons ont été effectuées, et
 
-2. les délais de paiement visés à la lettre b) commencent à courir à compter de la date de livraison.
+  - les délais de paiement visés à la lettre b) commencent à courir à compter de la date de livraison.
 
-2. l’acheteur annule des commandes de produits agricoles et alimentaires périssables à si brève échéance que l’on ne peut raisonnablement s’attendre à ce qu’un fournisseur trouve une autre solution pour commercialiser ou utiliser ces produits ; un délai inférieur à trente jours est toujours considéré comme une brève échéance ;
+- l’acheteur annule des commandes de produits agricoles et alimentaires périssables à si brève échéance que l’on ne peut raisonnablement s’attendre à ce qu’un fournisseur trouve une autre solution pour commercialiser ou utiliser ces produits ; un délai inférieur à trente jours est toujours considéré comme une brève échéance ;
 
-3. l’acheteur modifie unilatéralement les conditions d’un accord de fourniture de produits agricoles et alimentaires qui concernent la fréquence, la méthode, le lieu, le calendrier ou le volume des approvisionnements ou des livraisons de produits agricoles et alimentaires, les normes de qualité, les conditions de paiement ou les prix ou en ce qui concerne la fourniture de services dans la mesure où ceux-ci sont explicitement visés au paragraphe 2 ;
+- l’acheteur modifie unilatéralement les conditions d’un accord de fourniture de produits agricoles et alimentaires qui concernent la fréquence, la méthode, le lieu, le calendrier ou le volume des approvisionnements ou des livraisons de produits agricoles et alimentaires, les normes de qualité, les conditions de paiement ou les prix ou en ce qui concerne la fourniture de services dans la mesure où ceux-ci sont explicitement visés au paragraphe 2 ;
 
-4. l’acheteur demande au fournisseur des paiements qui ne sont pas en lien avec la vente de produits agricoles et alimentaires du fournisseur ;
+- l’acheteur demande au fournisseur des paiements qui ne sont pas en lien avec la vente de produits agricoles et alimentaires du fournisseur ;
 
-5. l’acheteur demande au fournisseur qu’il paie pour la détérioration ou la perte de produits agricoles et alimentaires ou pour la détérioration et la perte qui se produisent dans les locaux de l’acheteur ou après le transfert de propriété à l’acheteur, lorsque cette détérioration ou cette perte ne résulte pas de la négligence ou de la faute du fournisseur ;
+- l’acheteur demande au fournisseur qu’il paie pour la détérioration ou la perte de produits agricoles et alimentaires ou pour la détérioration et la perte qui se produisent dans les locaux de l’acheteur ou après le transfert de propriété à l’acheteur, lorsque cette détérioration ou cette perte ne résulte pas de la négligence ou de la faute du fournisseur ;
 
-6. l’acheteur refuse de confirmer par écrit les conditions d’un accord de fourniture entre l’acheteur et le fournisseur au sujet desquelles le fournisseur a demandé une confirmation écrite ; ceci ne s’applique pas lorsque l’accord de fourniture porte sur des produits devant être livrés par un membre d’une organisation de producteurs, y compris une coopérative, à l’organisation de producteurs dont il est membre dès lors que les statuts de cette organisation de producteurs ou les règles et décisions prévues par ces statuts ou en découlant contiennent des dispositions produisant des effets similaires à ceux des conditions de l’accord de fourniture ;
+- l’acheteur refuse de confirmer par écrit les conditions d’un accord de fourniture entre l’acheteur et le fournisseur au sujet desquelles le fournisseur a demandé une confirmation écrite ; ceci ne s’applique pas lorsque l’accord de fourniture porte sur des produits devant être livrés par un membre d’une organisation de producteurs, y compris une coopérative, à l’organisation de producteurs dont il est membre dès lors que les statuts de cette organisation de producteurs ou les règles et décisions prévues par ces statuts ou en découlant contiennent des dispositions produisant des effets similaires à ceux des conditions de l’accord de fourniture ;
 
-7. l’acheteur obtient, utilise ou divulgue de façon illicite des secrets d’affaires du fournisseur au sens de la loi du 26 juin 2019 sur la protection des savoir-faire et des informations commerciales non divulgués (secrets d’affaires) contre l’obtention, l’utilisation et la divulgation illicites ;
+- l’acheteur obtient, utilise ou divulgue de façon illicite des secrets d’affaires du fournisseur au sens de la loi du 26 juin 2019 sur la protection des savoir-faire et des informations commerciales non divulgués (secrets d’affaires) contre l’obtention, l’utilisation et la divulgation illicites ;
 
-8. l’acheteur menace de procéder ou procède à des actions de représailles commerciales à l’encontre du fournisseur si le fournisseur exerce ses droits contractuels ou légaux, y compris en déposant une plainte auprès du Conseil de la concurrence ou d’une autorité compétente d’un autre État membre de l’Union européenne ou en coopérant avec le Conseil de la concurrence ou une autorité compétente d’un autre État membre de l’Union européenne au cours d’une enquête ;
+- l’acheteur menace de procéder ou procède à des actions de représailles commerciales à l’encontre du fournisseur si le fournisseur exerce ses droits contractuels ou légaux, y compris en déposant une plainte auprès du Conseil de la concurrence ou d’une autorité compétente d’un autre État membre de l’Union européenne ou en coopérant avec le Conseil de la concurrence ou une autorité compétente d’un autre État membre de l’Union européenne au cours d’une enquête ;
 
-9. l’acheteur demande une compensation au fournisseur pour le coût induit par l’examen des plaintes des clients en lien avec la vente des produits du fournisseur malgré l’absence de négligence ou de faute de la part du fournisseur.
+- l’acheteur demande une compensation au fournisseur pour le coût induit par l’examen des plaintes des clients en lien avec la vente des produits du fournisseur malgré l’absence de négligence ou de faute de la part du fournisseur.
 
 L’interdiction visée à l’alinéa 1er, point 1°, s’entend sans préjudice :
 
-1. des conséquences des retards de paiement et des voies de recours au titre de la loi modifiée du 18 avril 2004 relative aux délais de paiement et aux intérêts de retard qui s’appliquent, par dérogation aux délais de paiement fixés dans la loi précitée , sur la base des délais de paiement prévus par la présente loi ;
+- des conséquences des retards de paiement et des voies de recours au titre de la loi modifiée du 18 avril 2004 relative aux délais de paiement et aux intérêts de retard qui s’appliquent, par dérogation aux délais de paiement fixés dans la loi précitée , sur la base des délais de paiement prévus par la présente loi ;
 
-2. de la possibilité dont disposent un acheteur et un fournisseur de se mettre d’accord sur une clause de répartition de la valeur au sens de l’article 172 bis du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n° 922/72 , (CEE) n° 234/79 , (CE) n° 1037/2001 et (CE) n° 1234/2007 du Conseil, tel que modifié (ci-après le « règlement 1308/2013 »).
+- de la possibilité dont disposent un acheteur et un fournisseur de se mettre d’accord sur une clause de répartition de la valeur au sens de l’article 172 bis du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n° 922/72 , (CEE) n° 234/79 , (CE) n° 1037/2001 et (CE) n° 1234/2007 du Conseil, tel que modifié (ci-après le « règlement 1308/2013 »).
 
 L’interdiction visée à l’alinéa 1er, point 1°, ne s’applique pas aux paiements :
 
-1. effectués par un acheteur à un fournisseur, lorsque ces paiements interviennent dans le cadre du programme à destination des écoles conformément à l’article 23 du règlement (UE) n° 1308/2013 ;
+- effectués par un acheteur à un fournisseur, lorsque ces paiements interviennent dans le cadre du programme à destination des écoles conformément à l’article 23 du règlement (UE) n° 1308/2013 ;
 
-2. effectués dans le cadre d’accords de fourniture entre des fournisseurs de raisins ou de moût destinés à la production de vin et leurs acheteurs directs, pour autant que :
+- effectués dans le cadre d’accords de fourniture entre des fournisseurs de raisins ou de moût destinés à la production de vin et leurs acheteurs directs, pour autant que :
 
-1. les conditions de paiement spécifiques aux opérations de vente soient contenues dans des contrats types qui ont été rendus obligatoires par l’État conformément à l’article 164 du règlement (UE) n° 1308/2013 avant le 1 er janvier 2019, et que l’extension de contrats types soit renouvelée par l’État à compter de cette date sans modification significative des conditions de paiement au détriment des fournisseurs de raisins ou de moût ;
+  - les conditions de paiement spécifiques aux opérations de vente soient contenues dans des contrats types qui ont été rendus obligatoires par l’État conformément à l’article 164 du règlement (UE) n° 1308/2013 avant le 1 er janvier 2019, et que l’extension de contrats types soit renouvelée par l’État à compter de cette date sans modification significative des conditions de paiement au détriment des fournisseurs de raisins ou de moût ;
 
-2. les accords de fourniture entre les fournisseurs de raisins ou de moût destinés à la production de vin et leurs acheteurs directs soient pluriannuels ou deviennent pluriannuels.
+  - les accords de fourniture entre les fournisseurs de raisins ou de moût destinés à la production de vin et leurs acheteurs directs soient pluriannuels ou deviennent pluriannuels.
 
 (2)
 
 Les pratiques commerciales suivantes sont interdites, à moins qu’elles n’aient été préalablement convenues en termes clairs et dépourvus d’ambiguïté dans l’accord de fourniture ou dans tout accord ultérieur entre le fournisseur et l’acheteur :
 
-1. l’acheteur renvoie des produits agricoles et alimentaires invendus au fournisseur sans payer pour ces invendus ou sans payer pour l’élimination de ces produits ;
+- l’acheteur renvoie des produits agricoles et alimentaires invendus au fournisseur sans payer pour ces invendus ou sans payer pour l’élimination de ces produits ;
 
-2. le fournisseur est tenu d’effectuer un paiement pour que ses produits agricoles et alimentaires soient stockés, exposés ou référencés ou mis à disposition sur le marché ;
+- le fournisseur est tenu d’effectuer un paiement pour que ses produits agricoles et alimentaires soient stockés, exposés ou référencés ou mis à disposition sur le marché ;
 
-3. l’acheteur demande au fournisseur qu’il supporte tout ou partie des coûts liés à toutes remises sur les produits agricoles et alimentaires qui sont vendus par l’acheteur dans le cadre d’actions promotionnelles ;
+- l’acheteur demande au fournisseur qu’il supporte tout ou partie des coûts liés à toutes remises sur les produits agricoles et alimentaires qui sont vendus par l’acheteur dans le cadre d’actions promotionnelles ;
 
-4. l’acheteur demande au fournisseur qu’il paie pour la publicité faite par l’acheteur pour les produits agricoles et alimentaires ;
+- l’acheteur demande au fournisseur qu’il paie pour la publicité faite par l’acheteur pour les produits agricoles et alimentaires ;
 
-5. l’acheteur demande au fournisseur qu’il paie pour la commercialisation de produits agricoles et alimentaires par l’acheteur ;
+- l’acheteur demande au fournisseur qu’il paie pour la commercialisation de produits agricoles et alimentaires par l’acheteur ;
 
-6. l’acheteur fait payer par le fournisseur le personnel chargé d’aménager les locaux utilisés pour la vente des produits du fournisseur.
+- l’acheteur fait payer par le fournisseur le personnel chargé d’aménager les locaux utilisés pour la vente des produits du fournisseur.
 
 La pratique commerciale visée à l’alinéa 1er, point 3°, est interdite à moins que l’acheteur, avant une action de promotion dont il est à l’initiative, précise sa durée et la quantité de produits agricoles et alimentaires qu’il prévoit de commander à prix réduit.
 
@@ -177,17 +177,17 @@ Les fournisseurs peuvent adresser des plaintes soit au Conseil de la concurrence
 
 Une plainte doit au moins comporter les éléments suivants :
 
-1. informations complètes quant à l’identité du plaignant. Si le plaignant est une entreprise, informations sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et de la portée de ses activités économiques ;
+- informations complètes quant à l’identité du plaignant. Si le plaignant est une entreprise, informations sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et de la portée de ses activités économiques ;
 
-2. le chiffre d’affaires du fournisseur ;
+- le chiffre d’affaires du fournisseur ;
 
-3. indications sur la personne de contact auprès de laquelle des informations supplémentaires pourront notamment être demandées ;
+- indications sur la personne de contact auprès de laquelle des informations supplémentaires pourront notamment être demandées ;
 
-4. informations suffisantes sur l’identité de l’entreprise ou association d’entreprises visée par la plainte et, le cas échéant, sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et la portée de ses activités économiques ainsi que de la relation entretenue entre cette entité visée et le plaignant ;
+- informations suffisantes sur l’identité de l’entreprise ou association d’entreprises visée par la plainte et, le cas échéant, sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et la portée de ses activités économiques ainsi que de la relation entretenue entre cette entité visée et le plaignant ;
 
-5. description détaillée des faits dénoncés et production des documents et éléments de preuves liés aux faits dénoncés dont le plaignant dispose ;
+- description détaillée des faits dénoncés et production des documents et éléments de preuves liés aux faits dénoncés dont le plaignant dispose ;
 
-6. indications sur le fait qu’une démarche auprès d’une autre autorité d’application ou d’une juridiction nationale pour les mêmes motifs ou des motifs apparentés a été initiée.
+- indications sur le fait qu’une démarche auprès d’une autre autorité d’application ou d’une juridiction nationale pour les mêmes motifs ou des motifs apparentés a été initiée.
 
 (3)
 

@@ -39,15 +39,15 @@ Conditions d’engagement
 
 Peuvent être engagés en qualité de chargé d’éducation à durée déterminée et à tâche complète ou partielle, les candidats qui remplissent les conditions suivantes:
 
-1. être ressortissant d’un pays de l’Union Européenne,
+- être ressortissant d’un pays de l’Union Européenne,
 
-2. jouir des droits civils et politiques,
+- jouir des droits civils et politiques,
 
-3. offrir les garanties de moralité requises,
+- offrir les garanties de moralité requises,
 
-4. satisfaire aux conditions d’aptitude requises pour l’exercice de leur emploi,
+- satisfaire aux conditions d’aptitude requises pour l’exercice de leur emploi,
 
-5. avoir fait preuve d’une connaissance adéquate des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues, conformément au règlement grand-ducal du 9 décembre 1994 fixant les modalités du contrôle de la connaissance des trois langues administratives pour le recrutement des fonctionnaires et employés des administrations de l’Etat et des établissements publics. Exceptionnellement, pour des raisons dûment motivées tenant à l’intérêt du service et aux nécessités de son fonctionnement, des dispenses individuelles du contrôle de la connaissance de deux de ces langues au maximum pourront être accordées par décision du Gouvernement en Conseil.
+- avoir fait preuve d’une connaissance adéquate des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues, conformément au règlement grand-ducal du 9 décembre 1994 fixant les modalités du contrôle de la connaissance des trois langues administratives pour le recrutement des fonctionnaires et employés des administrations de l’Etat et des établissements publics. Exceptionnellement, pour des raisons dûment motivées tenant à l’intérêt du service et aux nécessités de son fonctionnement, des dispenses individuelles du contrôle de la connaissance de deux de ces langues au maximum pourront être accordées par décision du Gouvernement en Conseil.
 
 <a id="art-3"></a>
 ## Art. 3.

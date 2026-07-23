@@ -57,51 +57,51 @@ Il pourra cependant être pris des engagements au nom de l’association avant l
 
 L’acte constitutif reprend les statuts et mentionne :
 
-1. s’il s’agit de personnes physiques :
+- s’il s’agit de personnes physiques :
 
-1. leur nom ;
+  - leur nom ;
 
-2. leurs prénoms ;
+  - leurs prénoms ;
 
-3. l’adresse privée ou professionnelle précise de chaque membre fondateur ;
+  - l’adresse privée ou professionnelle précise de chaque membre fondateur ;
 
-2. s’il s’agit de personnes morales ;
+- s’il s’agit de personnes morales ;
 
-1. leur dénomination sociale ;
+  - leur dénomination sociale ;
 
-2. leur forme juridique ;
+  - leur forme juridique ;
 
-3. l’adresse précise de leur siège social et le numéro d’immatriculation au registre de commerce et des sociétés si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant.
+  - l’adresse précise de leur siège social et le numéro d’immatriculation au registre de commerce et des sociétés si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant.
 
 (2)
 
 Les statuts d’une association doivent mentionner au minimum :
 
-1. la dénomination de l’association ;
+- la dénomination de l’association ;
 
-2. la description précise du but en vue duquel elle est constituée ainsi que les activités qu’elle se propose de mettre en œuvre pour atteindre ce but. Les activités de l’association doivent avoir une substance réelle au Grand-Duché de Luxembourg ;
+- la description précise du but en vue duquel elle est constituée ainsi que les activités qu’elle se propose de mettre en œuvre pour atteindre ce but. Les activités de l’association doivent avoir une substance réelle au Grand-Duché de Luxembourg ;
 
-3. l’indication de la commune dans laquelle se trouve le siège de l’association. Ce siège doit être fixé au Grand-Duché de Luxembourg ;
+- l’indication de la commune dans laquelle se trouve le siège de l’association. Ce siège doit être fixé au Grand-Duché de Luxembourg ;
 
-4. le montant maximum des cotisations annuelles à payer par les membres effectifs, ci-après « membres », en vue de leur inscription au registre des membres ;
+- le montant maximum des cotisations annuelles à payer par les membres effectifs, ci-après « membres », en vue de leur inscription au registre des membres ;
 
-5. le nombre minimum des membres. Il ne peut être inférieur à deux ;
+- le nombre minimum des membres. Il ne peut être inférieur à deux ;
 
-6. les conditions et formalités d’admission et de sortie des membres ;
+- les conditions et formalités d’admission et de sortie des membres ;
 
-7.
+-
 
-1. le mode de nomination, les conditions de cessation de fonctions et de révocation des administrateurs, ainsi que la durée de leur mandat qui ne peut excéder six ans et qui est renouvelable ;
+  - le mode de nomination, les conditions de cessation de fonctions et de révocation des administrateurs, ainsi que la durée de leur mandat qui ne peut excéder six ans et qui est renouvelable ;
 
-2. le cas échéant, le mode de nomination, les conditions de cessation de fonctions et de révocation des personnes habilitées à représenter l’association conformément à l’article 5, paragraphe 6, ainsi que l’étendue de leurs pouvoirs ;
+  - le cas échéant, le mode de nomination, les conditions de cessation de fonctions et de révocation des personnes habilitées à représenter l’association conformément à l’article 5, paragraphe 6, ainsi que l’étendue de leurs pouvoirs ;
 
-3. le cas échéant, le mode de nomination, les conditions de cessation de fonctions et de révocation des personnes déléguées à la gestion journalière de l’association conformément à l’article 7, paragraphe 1 er , ainsi que l’étendue de leurs pouvoirs ;
+  - le cas échéant, le mode de nomination, les conditions de cessation de fonctions et de révocation des personnes déléguées à la gestion journalière de l’association conformément à l’article 7, paragraphe 1 er , ainsi que l’étendue de leurs pouvoirs ;
 
-4. le cas échéant, le mode de nomination du réviseur d’entreprises agrée ;
+  - le cas échéant, le mode de nomination du réviseur d’entreprises agrée ;
 
-8. la destination du patrimoine de l’association en cas de dissolution ou le mode de détermination de la destination du patrimoine, lequel doit être affecté à une autre association ou à une fondation d’utilité publique, ayant leur siège dans un État membre de l’Union européenne ou de l’Association européenne de libre – échange, à une société d’impact sociétal dont le capital social est composé à cent pour cent de parts d’impact, à l’État, à une commune ou à un établissement public ;
+- la destination du patrimoine de l’association en cas de dissolution ou le mode de détermination de la destination du patrimoine, lequel doit être affecté à une autre association ou à une fondation d’utilité publique, ayant leur siège dans un État membre de l’Union européenne ou de l’Association européenne de libre – échange, à une société d’impact sociétal dont le capital social est composé à cent pour cent de parts d’impact, à l’État, à une commune ou à un établissement public ;
 
-9. la durée de l’association lorsqu’elle n’est pas illimitée.
+- la durée de l’association lorsqu’elle n’est pas illimitée.
 
 (3)
 
@@ -235,21 +235,21 @@ L’association est liée par les actes accomplis par le conseil d’administrat
 
 Le conseil d’administration tient au siège de l’association un registre des membres. Ce registre reprend :
 
-1. s’il s’agit de personnes physiques :
+- s’il s’agit de personnes physiques :
 
-1. leurs nom ;
+  - leurs nom ;
 
-2. leurs prénoms ;
+  - leurs prénoms ;
 
-3. l’adresse privée ou professionnelle précise des membres.
+  - l’adresse privée ou professionnelle précise des membres.
 
-2. s’il s’agit de personnes morales :
+- s’il s’agit de personnes morales :
 
-1. leur dénomination sociale ;
+  - leur dénomination sociale ;
 
-2. leur forme juridique ;
+  - leur forme juridique ;
 
-3. l’adresse précise de leur siège social et le numéro d’immatriculation au registre de commerce et des sociétés si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant.
+  - l’adresse précise de leur siège social et le numéro d’immatriculation au registre de commerce et des sociétés si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant.
 
 Le conseil d’administration peut décider que le registre sera tenu sous forme électronique.
 
@@ -263,9 +263,9 @@ Tout membre peut demander une copie ou consulter au siège de l’association le
 
 Les associations doivent en cas de requête orale ou écrite :
 
-1. accorder immédiatement l’accès au registre des membres aux autorités de compétentes en matière de lutte contre le blanchiment et contre le financement du terrorisme ;
+- accorder immédiatement l’accès au registre des membres aux autorités de compétentes en matière de lutte contre le blanchiment et contre le financement du terrorisme ;
 
-2. fournir à ces autorités les copies ou extraits du registre des membres estimés nécessaires par celles-ci.
+- fournir à ces autorités les copies ou extraits du registre des membres estimés nécessaires par celles-ci.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -336,23 +336,23 @@ L’assemblée générale a les pouvoirs les plus étendus pour faire ou ratifie
 
 Une délibération de l’assemblée générale est requise pour :
 
-1. la modification des statuts ;
+- la modification des statuts ;
 
-2. la nomination, la révocation des administrateurs et la fixation de leur nombre ;
+- la nomination, la révocation des administrateurs et la fixation de leur nombre ;
 
-3. la nomination et la révocation du réviseur d’entreprises agréé ;
+- la nomination et la révocation du réviseur d’entreprises agréé ;
 
-4. la décharge à octroyer aux administrateurs et au réviseur d’entreprises agréé ;
+- la décharge à octroyer aux administrateurs et au réviseur d’entreprises agréé ;
 
-5. l’approbation du budget et des comptes annuels ;
+- l’approbation du budget et des comptes annuels ;
 
-6. la dissolution de l’association et la nomination du liquidateur ;
+- la dissolution de l’association et la nomination du liquidateur ;
 
-7. l’exclusion d’un membre ;
+- l’exclusion d’un membre ;
 
-8. l’introduction d’une demande en vue de la reconnaissance du statut d’utilité publique ;
+- l’introduction d’une demande en vue de la reconnaissance du statut d’utilité publique ;
 
-9. tous les cas où les statuts l’exigent.
+- tous les cas où les statuts l’exigent.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -424,11 +424,11 @@ Aux fins de détermination du régime comptable qui lui est applicable, l’asso
 
 Toute association qui, pendant deux exercices consécutifs, ne dépasse pas à la date de clôture de son exercice social les limites chiffrées d’au moins deux des trois critères suivants :
 
-1. nombre des membres du personnel en équivalent plein temps : moins de trois ;
+- nombre des membres du personnel en équivalent plein temps : moins de trois ;
 
-2. total des revenus : 50 000 euros ;
+- total des revenus : 50 000 euros ;
 
-3. total des actifs : 100 000 euros ;
+- total des actifs : 100 000 euros ;
 
 appartient à la catégorie des « petites associations » aux fins du présent article.
 
@@ -436,13 +436,13 @@ Une petite association doit au minimum tenir une comptabilité simplifiée rense
 
 Chaque année en fin d’exercice, une petite association est tenue d’établir des documents comptables annuels comprenant au minimum un état des recettes et des dépenses suivis d’une annexe dont la forme et le contenu sont déterminés par règlement grand-ducal et portant sur les informations suivantes :
 
-1. le total des avoirs en caisse ;
+- le total des avoirs en caisse ;
 
-2. le total des avoirs en banque ;
+- le total des avoirs en banque ;
 
-3. le nombre des membres définis par tranches de membres ;
+- le nombre des membres définis par tranches de membres ;
 
-4. le pourcentage des transferts de fonds vers les autres pays de l’Union européenne et de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen.
+- le pourcentage des transferts de fonds vers les autres pays de l’Union européenne et de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen.
 
 Un règlement grand-ducal peut prévoir un schéma de présentation de l’état des recettes et des dépenses et préciser ses modalités de dépôt.
 
@@ -450,11 +450,11 @@ Un règlement grand-ducal peut prévoir un schéma de présentation de l’état
 
 Toute association qui n’est pas une petite association au sens du paragraphe 4 et qui, pendant deux exercices consécutifs, ne dépasse pas à la date de clôture de son exercice social, les limites chiffrées d’au moins deux des trois critères suivants :
 
-1. nombre des membres du personnel en équivalent plein temps : plus de quinze ;
+- nombre des membres du personnel en équivalent plein temps : plus de quinze ;
 
-2. total des revenus : 1 000 000 euros ;
+- total des revenus : 1 000 000 euros ;
 
-3. total des actifs : 3 000 000 euros ;
+- total des actifs : 3 000 000 euros ;
 
 appartient à la catégorie des « associations moyennes » aux fins du présent article.
 
@@ -462,13 +462,13 @@ Une association moyenne doit tenir une comptabilité selon un système de livres
 
 Chaque année en fin d’exercice, une moyenne association est tenue d’établir des documents comptables annuels comprenant au minimum un compte de profit et pertes et un bilan suivis d’une annexe dont la forme et le contenu sont déterminés par règlement grand-ducal et portant sur les informations suivantes :
 
-1. le nombre des membres définis par tranches de membres ;
+- le nombre des membres définis par tranches de membres ;
 
-2. le volume de financement d’autres entités ;
+- le volume de financement d’autres entités ;
 
-3. le pourcentage estimé d’activités exercées au Grand-Duché de Luxembourg, dans les autres pays de l’Union européenne ou de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen ;
+- le pourcentage estimé d’activités exercées au Grand-Duché de Luxembourg, dans les autres pays de l’Union européenne ou de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen ;
 
-4. le pourcentage des transferts de fonds vers les autres pays de l’Union européenne et de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen.
+- le pourcentage des transferts de fonds vers les autres pays de l’Union européenne et de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen.
 
 Un règlement grand-ducal peut prévoir un schéma de présentation du compte de profits et pertes et du bilan et préciser leurs modalités de dépôt.
 
@@ -480,13 +480,13 @@ Une grande association doit tenir une comptabilité selon un système de livres 
 
 Chaque année en fin d’exercice, une grande association est tenue d’établir des documents comptables annuels consistant au minimum en des comptes annuels préparés conformément au régime comptable applicable aux entreprises visées à l’article 47 de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises dont l’annexe comporte des informations supplémentaires déterminées par règlement grand-ducal et portant sur :
 
-1. le nombre des membres définis par tranches de membres ;
+- le nombre des membres définis par tranches de membres ;
 
-2. le volume de financement d’autres entités ;
+- le volume de financement d’autres entités ;
 
-3. le pourcentage estimé d’activités exercées au Grand-Duché de Luxembourg, dans les autres pays de l’Union européenne ou de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen ;
+- le pourcentage estimé d’activités exercées au Grand-Duché de Luxembourg, dans les autres pays de l’Union européenne ou de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen ;
 
-4. le pourcentage des transferts de fonds vers les autres pays de l’Union européenne et de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen.
+- le pourcentage des transferts de fonds vers les autres pays de l’Union européenne et de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen.
 
 Un règlement grand-ducal peut prévoir un schéma de présentation des comptes annuels et préciser leurs modalités de dépôt.
 
@@ -517,11 +517,11 @@ Toutefois, l’acceptation de la libéralité et la demande en délivrance pourr
 
 Lorsqu’il s’agit d’une libéralité testamentaire, la demande d’autorisation devra être accompagnée d’une copie :
 
-1. du ou des testaments ;
+- du ou des testaments ;
 
-2. de l’acte de notoriété ;
+- de l’acte de notoriété ;
 
-3. de la déclaration de succession déposée auprès de l’Administration de l’enregistrement, des domaines et de la TVA.
+- de la déclaration de succession déposée auprès de l’Administration de l’enregistrement, des domaines et de la TVA.
 
 (4)
 
@@ -552,13 +552,13 @@ Aucune autorisation ne sera délivrée lorsque l’identité du donateur ne peut
 
 Tous les actes, factures, annonces, publications et autres pièces émanées de l’association doivent contenir les mentions suivantes :
 
-1. la dénomination de l’association ;
+- la dénomination de l’association ;
 
-2. la mention « association sans but lucratif » reproduite lisiblement et en toutes lettres ou en abrégé « a.s.b.l. » placée immédiatement avant ou après la dénomination ;
+- la mention « association sans but lucratif » reproduite lisiblement et en toutes lettres ou en abrégé « a.s.b.l. » placée immédiatement avant ou après la dénomination ;
 
-3. l’adresse précise du siège de l’association ; et
+- l’adresse précise du siège de l’association ; et
 
-4. les mots « Registre de commerce et des sociétés, Luxembourg », ou les initiales « R.C.S. Luxembourg » suivis du numéro d’immatriculation.
+- les mots « Registre de commerce et des sociétés, Luxembourg », ou les initiales « R.C.S. Luxembourg » suivis du numéro d’immatriculation.
 
 (2)
 
@@ -573,11 +573,11 @@ Toute personne qui intervient pour une association dans un document visé au par
 
 La nullité d’une association ne peut être prononcée que dans les cas suivants :
 
-1. si les statuts ne contiennent pas les mentions visées à l’article 3, paragraphe 2, points 1°, 2° et 3° ;
+- si les statuts ne contiennent pas les mentions visées à l’article 3, paragraphe 2, points 1°, 2° et 3° ;
 
-2. si le but en vue duquel elle est constituée ou l’une des activités mises en œuvre contrevient à la loi ou est contraire à l’ordre public ;
+- si le but en vue duquel elle est constituée ou l’une des activités mises en œuvre contrevient à la loi ou est contraire à l’ordre public ;
 
-3. si l’association n’est pas constituée par deux membres fondateurs au moins.
+- si l’association n’est pas constituée par deux membres fondateurs au moins.
 
 (2)
 
@@ -614,35 +614,35 @@ L’acte constitutif ainsi que toute modification aux statuts sont déposés et 
 
 Sont déposés et publiés conformément aux dispositions titre Ier, du chapitre Vbis de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises :
 
-1. l’extrait des actes relatifs à la nomination et à la cessation des fonctions : Cet extrait contiendra l’indication précise des nom et prénoms ainsi que de l’adresse privée ou professionnelle des personnes y visées, ou, lorsqu’il s’agit d’une personne morale, la dénomination sociale et l’adresse précise de leur siège social et le cas échéant, le pouvoir individuel de signature qui leur a été donné par l’organe compétent.
+- l’extrait des actes relatifs à la nomination et à la cessation des fonctions : Cet extrait contiendra l’indication précise des nom et prénoms ainsi que de l’adresse privée ou professionnelle des personnes y visées, ou, lorsqu’il s’agit d’une personne morale, la dénomination sociale et l’adresse précise de leur siège social et le cas échéant, le pouvoir individuel de signature qui leur a été donné par l’organe compétent.
 
-1. des administrateurs de l’association ;
+  - des administrateurs de l’association ;
 
-2. des délégués à la gestion journalière ;
+  - des délégués à la gestion journalière ;
 
-3. des liquidateurs, et au cas où le liquidateur est une personne morale, la désignation ou la modification à la désignation de la personne physique qui la représente pour l’exercice des pouvoirs de liquidation ;
+  - des liquidateurs, et au cas où le liquidateur est une personne morale, la désignation ou la modification à la désignation de la personne physique qui la représente pour l’exercice des pouvoirs de liquidation ;
 
-4. le cas échéant, du réviseur d’entreprises agréé.
+  - le cas échéant, du réviseur d’entreprises agréé.
 
-2. l’extrait de la décision judiciaire passée en force de chose jugée ou exécutoire par provision qui prononce la dissolution de l’association, la nullité de l’association ou la nullité des modifications aux statuts. Cet extrait contiendra :
+- l’extrait de la décision judiciaire passée en force de chose jugée ou exécutoire par provision qui prononce la dissolution de l’association, la nullité de l’association ou la nullité des modifications aux statuts. Cet extrait contiendra :
 
-1. la dénomination et le siège de l’association ;
+  - la dénomination et le siège de l’association ;
 
-2. la date de la décision et la juridiction qui l’a prononcée ;
+  - la date de la décision et la juridiction qui l’a prononcée ;
 
-3. le cas échéant, la nomination du ou des liquidateurs, et au cas où le liquidateur est une personne morale, la désignation de la personne physique qui la représente pour l’exercice des pouvoirs de liquidation.
+  - le cas échéant, la nomination du ou des liquidateurs, et au cas où le liquidateur est une personne morale, la désignation de la personne physique qui la représente pour l’exercice des pouvoirs de liquidation.
 
-3. l’extrait des actes déterminant le mode de liquidation et les pouvoirs des liquidateurs si ces pouvoirs ne sont pas, exclusivement et expressément, définis par la loi ou les statuts ;
+- l’extrait des actes déterminant le mode de liquidation et les pouvoirs des liquidateurs si ces pouvoirs ne sont pas, exclusivement et expressément, définis par la loi ou les statuts ;
 
-4. l’extrait de la décision judiciaire, de l’assemblée générale ou du ou des liquidateurs relative à la clôture de liquidation et à la destination du patrimoine.
+- l’extrait de la décision judiciaire, de l’assemblée générale ou du ou des liquidateurs relative à la clôture de liquidation et à la destination du patrimoine.
 
 (3)
 
 Sont déposés et publiés par mention de leur dépôt, conformément aux dispositions du titre Ier, du chapitre Vbis de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises :
 
-1. le texte coordonné des statuts dans une rédaction mise à jour après chaque modification des statuts de l’association ;
+- le texte coordonné des statuts dans une rédaction mise à jour après chaque modification des statuts de l’association ;
 
-2. les documents comptables définis à l’article 18 et, le cas échéant, le rapport du réviseur d’entreprises agréé.
+- les documents comptables définis à l’article 18 et, le cas échéant, le rapport du réviseur d’entreprises agréé.
 
 (4)
 
@@ -657,15 +657,15 @@ Les actes et indications dont la publicité est prescrite par les paragraphes 1e
 
 Le tribunal d’arrondissement siégeant en matière civile du siège de l’association pourra prononcer à la requête soit d’un membre, soit d’un tiers intéressé, soit du procureur d’État, la dissolution de l’association qui :
 
-1. est hors d’état de remplir les engagements qu’elle a contractés ;
+- est hors d’état de remplir les engagements qu’elle a contractés ;
 
-2. affecte son patrimoine ou ses revenus à un but autre que celui en vue duquel elle a été constituée ;
+- affecte son patrimoine ou ses revenus à un but autre que celui en vue duquel elle a été constituée ;
 
-3. contrevient gravement à ses statuts, à la loi ou à l’ordre public ;
+- contrevient gravement à ses statuts, à la loi ou à l’ordre public ;
 
-4. est restée en défaut de satisfaire à l’obligation de déposer les documents comptables de l’exercice social écoulé conformément à l’article 18 pour deux exercices sociaux consécutifs ;
+- est restée en défaut de satisfaire à l’obligation de déposer les documents comptables de l’exercice social écoulé conformément à l’article 18 pour deux exercices sociaux consécutifs ;
 
-5. ne comprend pas au moins deux membres.
+- ne comprend pas au moins deux membres.
 
 (2)
 
@@ -798,11 +798,11 @@ Le projet de transformation fait l’objet d’un rapport justificatif établi p
 
 À ce rapport sont joints les documents suivants :
 
-1. un projet de statuts de la fondation en laquelle l’association sera transformée ;
+- un projet de statuts de la fondation en laquelle l’association sera transformée ;
 
-2. un état résumant la situation active et passive de l’association arrêté à une date ne remontant pas à plus de six mois précédant la date de l’assemblée générale appelée à statuer sur le projet de transformation ;
+- un état résumant la situation active et passive de l’association arrêté à une date ne remontant pas à plus de six mois précédant la date de l’assemblée générale appelée à statuer sur le projet de transformation ;
 
-3. un rapport sur cet état établi par un réviseur d’entreprises agrée désigné par le conseil d’administration.
+- un rapport sur cet état établi par un réviseur d’entreprises agrée désigné par le conseil d’administration.
 
 Une copie du rapport justificatif et de ses annexes est adressée aux membres en même temps que la convocation à l’assemblée générale appelée à statuer sur le projet de transformation.
 
@@ -841,11 +841,11 @@ Le projet de transformation fait l’objet d’un rapport justificatif établi p
 
 À ce rapport sont joints les documents suivants :
 
-1. un projet de statuts de la société commerciale en laquelle l’association sera transformée ;
+- un projet de statuts de la société commerciale en laquelle l’association sera transformée ;
 
-2. un état résumant la situation active et passive de l’association arrêté à une date ne remontant pas à plus de six mois précédant la date de l’assemblée générale appelée à statuer sur le projet de transformation ;
+- un état résumant la situation active et passive de l’association arrêté à une date ne remontant pas à plus de six mois précédant la date de l’assemblée générale appelée à statuer sur le projet de transformation ;
 
-3. un rapport sur cet état établi par un réviseur d’entreprises agréé désigné par le conseil d’administration.
+- un rapport sur cet état établi par un réviseur d’entreprises agréé désigné par le conseil d’administration.
 
 Une copie du rapport justificatif et de ses annexes est adressée aux membres en même temps que la convocation à l’assemblée générale appelée à statuer sur le projet de transformation.
 
@@ -932,21 +932,21 @@ Les membres des associations qui disparaissent acquièrent la qualité de membre
 
 La nullité de la fusion ne peut intervenir que dans les conditions suivantes :
 
-1. la nullité doit être prononcée par décision judiciaire ;
+- la nullité doit être prononcée par décision judiciaire ;
 
-2. les décisions des assemblées générales qui l’ont approuvée n’ont pas été constatées en la forme requise ou si ces décisions ont été prises en l’absence du projet commun de fusion ou du rapport du réviseur d’entreprises agréé
+- les décisions des assemblées générales qui l’ont approuvée n’ont pas été constatées en la forme requise ou si ces décisions ont été prises en l’absence du projet commun de fusion ou du rapport du réviseur d’entreprises agréé
 
-3. l’action en nullité ne peut plus être intentée après l’expiration d’un délai de six mois à compter de la date à laquelle la fusion est opposable à celui qui invoque la nullité, ou bien si la situation a été régularisée ;
+- l’action en nullité ne peut plus être intentée après l’expiration d’un délai de six mois à compter de la date à laquelle la fusion est opposable à celui qui invoque la nullité, ou bien si la situation a été régularisée ;
 
-4. lorsqu’il est possible de porter remède à l’irrégularité susceptible d’entraîner la nullité de la fusion, le tribunal compétent accorde aux associations intéressées un délai pour régulariser la situation ;
+- lorsqu’il est possible de porter remède à l’irrégularité susceptible d’entraîner la nullité de la fusion, le tribunal compétent accorde aux associations intéressées un délai pour régulariser la situation ;
 
-5. la décision prononçant la nullité de la fusion fait l’objet d’une publicité selon les modes prévus au titre I er , chapitre V bis de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
+- la décision prononçant la nullité de la fusion fait l’objet d’une publicité selon les modes prévus au titre I er , chapitre V bis de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
 
-6. la tierce opposition contre la décision prononçant la nullité de la fusion n’est plus recevable après l’expiration d’un délai de six mois à compter de la publicité de la décision effectuée selon le titre I er , chapitre V bis de la loi précitée du 19 décembre 2002 ;
+- la tierce opposition contre la décision prononçant la nullité de la fusion n’est plus recevable après l’expiration d’un délai de six mois à compter de la publicité de la décision effectuée selon le titre I er , chapitre V bis de la loi précitée du 19 décembre 2002 ;
 
-7. la décision prononçant la nullité de la fusion ne porte atteinte par elle-même à la validité des obligations nées à la charge ou au profit de l’association absorbante ou de la nouvelle association, selon le cas, antérieurement à la publicité de la décision et postérieurement à la date visée au paragraphe 7 ;
+- la décision prononçant la nullité de la fusion ne porte atteinte par elle-même à la validité des obligations nées à la charge ou au profit de l’association absorbante ou de la nouvelle association, selon le cas, antérieurement à la publicité de la décision et postérieurement à la date visée au paragraphe 7 ;
 
-8. les associations ayant participé à la fusion répondent solidairement des obligations de la société absorbante ou de la nouvelle association, selon le cas, visées au point 7°.
+- les associations ayant participé à la fusion répondent solidairement des obligations de la société absorbante ou de la nouvelle association, selon le cas, visées au point 7°.
 
 ### TITRE II Des associations reconnues d’utilité publique
 
@@ -957,11 +957,11 @@ La nullité de la fusion ne peut intervenir que dans les conditions suivantes :
 
 L’association sans but lucratif peut être reconnue d’utilité publique par arrêté grand-ducal, si elle remplit les conditions suivantes :
 
-1. elle poursuit un but d’intérêt général à caractère philanthropique, social, religieux, scientifique, culturel, artistique, pédagogique, sportif, thérapeutique ou médico-social, touristique, protecteur de l’environnement ou des animaux ou qui défend et promeut les droits de l’homme, qui dépasse l’intérêt local et ne se limite pas à l’activité de ses membres ;
+- elle poursuit un but d’intérêt général à caractère philanthropique, social, religieux, scientifique, culturel, artistique, pédagogique, sportif, thérapeutique ou médico-social, touristique, protecteur de l’environnement ou des animaux ou qui défend et promeut les droits de l’homme, qui dépasse l’intérêt local et ne se limite pas à l’activité de ses membres ;
 
-2. le but poursuivi a un caractère permanent ;
+- le but poursuivi a un caractère permanent ;
 
-3. elle doit avoir réalisé au cours des trois derniers exercices des projets en vue de mettre en œuvre le but en vue duquel elle est constituée.
+- elle doit avoir réalisé au cours des trois derniers exercices des projets en vue de mettre en œuvre le but en vue duquel elle est constituée.
 
 (2)
 
@@ -978,11 +978,11 @@ La demande en vue de la reconnaissance du statut d’utilité publique en faveur
 
 Cette demande doit être accompagnée :
 
-1. d’un rapport avec une description précise des projets concrets réalisés par l’association au cours des trois derniers exercices en vue d’atteindre son but statutaire, sur les projets en voie de réalisation ainsi que sur les projets qu’elle entend mettre en œuvre au cours des deux prochains exercices ;
+- d’un rapport avec une description précise des projets concrets réalisés par l’association au cours des trois derniers exercices en vue d’atteindre son but statutaire, sur les projets en voie de réalisation ainsi que sur les projets qu’elle entend mettre en œuvre au cours des deux prochains exercices ;
 
-2. d’une copie de la délibération de l’assemblée générale autorisant l’introduction d’une demande de reconnaissance du statut d’utilité publique ;
+- d’une copie de la délibération de l’assemblée générale autorisant l’introduction d’une demande de reconnaissance du statut d’utilité publique ;
 
-3. de la confirmation que la dernière version des statuts coordonnés ainsi que les documents visés à l’article 22, paragraphes 1 er et 2, point 1°, ont été déposés auprès du registre de commerce et des sociétés.
+- de la confirmation que la dernière version des statuts coordonnés ainsi que les documents visés à l’article 22, paragraphes 1 er et 2, point 1°, ont été déposés auprès du registre de commerce et des sociétés.
 
 (3)
 
@@ -998,11 +998,11 @@ Le ministre ayant la Justice dans ses attributions prend connaissance des inscri
 
 L’arrêté grand-ducal de reconnaissance du statut d’utilité publique ne peut être pris que si :
 
-1. le but statutaire est conforme à l’article 33, paragraphe 1 er , point 1° ;
+- le but statutaire est conforme à l’article 33, paragraphe 1 er , point 1° ;
 
-2. le rapport avec une description précise des projets concrets réalisés par l’association au cours des trois derniers exercices en vue d’atteindre son but statutaire, sur les projets en voie de réalisation ainsi que sur les projets qu’elle entend mettre en œuvre au cours des deux prochains exercices établit à suffisance que les activités concrètes rentrent dans le but statutaire de l’association ;
+- le rapport avec une description précise des projets concrets réalisés par l’association au cours des trois derniers exercices en vue d’atteindre son but statutaire, sur les projets en voie de réalisation ainsi que sur les projets qu’elle entend mettre en œuvre au cours des deux prochains exercices établit à suffisance que les activités concrètes rentrent dans le but statutaire de l’association ;
 
-3. chaque membre du conseil d’administration de l’association satisfait au contrôle d’honorabilité instauré par le paragraphe 4.
+- chaque membre du conseil d’administration de l’association satisfait au contrôle d’honorabilité instauré par le paragraphe 4.
 
 (6)
 
@@ -1068,9 +1068,9 @@ Toute personne physique ou morale peut, moyennant l’approbation par arrêté g
 
 Sont seules considérées comme fondations, celles qui, essentiellement à l’aide des revenus du patrimoine affecté à leur création ainsi que des revenus provenant des fonds recueillis depuis cette création, tendent à la réalisation d’un but qui remplit les conditions suivantes :
 
-1. le but poursuivi est un but d’intérêt général déterminé dans ses statuts à caractère philanthropique, social, religieux, scientifique, artistique, culturel, pédagogique, sportif, thérapeutique ou médico-social, touristique, protecteur de l’environnement ou des animaux ou qui défend et promeut les droits de l’homme, qui dépasse l’intérêt local ;
+- le but poursuivi est un but d’intérêt général déterminé dans ses statuts à caractère philanthropique, social, religieux, scientifique, artistique, culturel, pédagogique, sportif, thérapeutique ou médico-social, touristique, protecteur de l’environnement ou des animaux ou qui défend et promeut les droits de l’homme, qui dépasse l’intérêt local ;
 
-2. le but poursuivi a un caractère permanent.
+- le but poursuivi a un caractère permanent.
 
 (3)
 
@@ -1103,13 +1103,13 @@ La demande en vue de la création d’une fondation est à adresser au ministre 
 
 Cette demande doit être accompagnée des pièces suivantes :
 
-1. un projet d’acte notarié des statuts ;
+- un projet d’acte notarié des statuts ;
 
-2. un rapport avec une description précise des projets concrets que la fondation entend mettre en œuvre au cours des trois premiers exercices en vue d’atteindre son but statutaire ;
+- un rapport avec une description précise des projets concrets que la fondation entend mettre en œuvre au cours des trois premiers exercices en vue d’atteindre son but statutaire ;
 
-3. un plan de financement sur trois ans ;
+- un plan de financement sur trois ans ;
 
-4. la composition du premier conseil d’administration tel qu’il sera arrêté à la suite de l’acte de constitution.
+- la composition du premier conseil d’administration tel qu’il sera arrêté à la suite de l’acte de constitution.
 
 (3)
 
@@ -1119,11 +1119,11 @@ Le ministre ayant la Justice dans ses attributions prend connaissance des inscri
 
 L’arrêté grand-ducal d’approbation ne peut être pris que si :
 
-1. le but statutaire est conforme à l’article 40, paragraphe 2, point 1° ;
+- le but statutaire est conforme à l’article 40, paragraphe 2, point 1° ;
 
-2. le rapport des activités envisagées établit à suffisance que les activités concrètes rentrent dans le but statutaire de la fondation ;
+- le rapport des activités envisagées établit à suffisance que les activités concrètes rentrent dans le but statutaire de la fondation ;
 
-3. chaque fondateur et chaque membre du conseil d’administration satisfait au contrôle d’honorabilité instauré par le paragraphe 3.
+- chaque fondateur et chaque membre du conseil d’administration satisfait au contrôle d’honorabilité instauré par le paragraphe 3.
 
 (5)
 
@@ -1165,51 +1165,51 @@ Seules les fondations dont les statuts ont été approuvés par arrêté grand-d
 
 L’acte constitutif reprend les statuts et mentionne :
 
-1. s’il s’agit de personnes physiques :
+- s’il s’agit de personnes physiques :
 
-1. leur nom ;
+  - leur nom ;
 
-2. leurs prénoms ;
+  - leurs prénoms ;
 
-3. l’adresse privée ou professionnelle précise de chaque fondateur ;
+  - l’adresse privée ou professionnelle précise de chaque fondateur ;
 
-2. s’il s’agit de personnes morales ;
+- s’il s’agit de personnes morales ;
 
-1. leur dénomination sociale ;
+  - leur dénomination sociale ;
 
-2. leur forme juridique ;
+  - leur forme juridique ;
 
-3. l’adresse précise de leur siège social et le numéro d’immatriculation au registre de commerce et des sociétés si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant.
+  - l’adresse précise de leur siège social et le numéro d’immatriculation au registre de commerce et des sociétés si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant.
 
 (2)
 
 Les statuts d’une fondation doivent mentionner au minimum :
 
-1. la dénomination de la fondation ;
+- la dénomination de la fondation ;
 
-2. la description précise du but en vue duquel elle est constituée ainsi que des activités qu’elle se propose de mettre en œuvre pour atteindre ce but. Les activités de la fondation doivent avoir une substance réelle au Grand-Duché de Luxembourg.
+- la description précise du but en vue duquel elle est constituée ainsi que des activités qu’elle se propose de mettre en œuvre pour atteindre ce but. Les activités de la fondation doivent avoir une substance réelle au Grand-Duché de Luxembourg.
 
-3. l’indication de la commune dans laquelle se trouve le siège de la fondation. Ce siège doit être fixé au Grand-Duché de Luxembourg ;
+- l’indication de la commune dans laquelle se trouve le siège de la fondation. Ce siège doit être fixé au Grand-Duché de Luxembourg ;
 
-4. le patrimoine initial affecté à la fondation ;
+- le patrimoine initial affecté à la fondation ;
 
-5. la durée de la fondation lorsqu’elle n’est pas illimitée ;
+- la durée de la fondation lorsqu’elle n’est pas illimitée ;
 
-6.
+-
 
-1. le mode de nomination, de cessation de fonctions et de révocation des administrateurs ainsi que la durée de leur mandat qui ne peut excéder six ans et qui est renouvelable ;
+  - le mode de nomination, de cessation de fonctions et de révocation des administrateurs ainsi que la durée de leur mandat qui ne peut excéder six ans et qui est renouvelable ;
 
-2. le cas échéant, le mode de nomination, de cessation de fonctions et de révocation des personnes habilitées à représenter la fondation conformément à l’article 45, paragraphe 4, ainsi que l’étendue de leurs pouvoirs ;
+  - le cas échéant, le mode de nomination, de cessation de fonctions et de révocation des personnes habilitées à représenter la fondation conformément à l’article 45, paragraphe 4, ainsi que l’étendue de leurs pouvoirs ;
 
-3. le cas échéant, le mode de nomination, de cessation de fonctions et de révocation des personnes déléguées à la gestion journalière de la fondation conformément à l’article 48, paragraphe 1 er , ainsi que l’étendue de leurs pouvoirs ;
+  - le cas échéant, le mode de nomination, de cessation de fonctions et de révocation des personnes déléguées à la gestion journalière de la fondation conformément à l’article 48, paragraphe 1 er , ainsi que l’étendue de leurs pouvoirs ;
 
-4. le mode de nomination du réviseur d’entreprises agréé ;
+  - le mode de nomination du réviseur d’entreprises agréé ;
 
-7. le mode de convocation et les modalités de délibération du conseil d’administration ;
+- le mode de convocation et les modalités de délibération du conseil d’administration ;
 
-8. les conditions dans lesquelles les statuts peuvent être modifiés par le conseil d’administration ;
+- les conditions dans lesquelles les statuts peuvent être modifiés par le conseil d’administration ;
 
-9. la destination du patrimoine de la fondation en cas de dissolution, lequel doit être affecté à une autre fondation d’utilité publique ou à une association reconnue d’utilité publique, ayant leur siège dans un État membre de l’Union européenne ou de l’Association européenne de libre – échange, à une société d’impact sociétal dont le capital social est composé à cent pour cent de parts d’impact, à l’État, à une commune ou à un établissement public, et dont le but se rapproche autant que possible du but en vue duquel la fondation dissoute a été créée.
+- la destination du patrimoine de la fondation en cas de dissolution, lequel doit être affecté à une autre fondation d’utilité publique ou à une association reconnue d’utilité publique, ayant leur siège dans un État membre de l’Union européenne ou de l’Association européenne de libre – échange, à une société d’impact sociétal dont le capital social est composé à cent pour cent de parts d’impact, à l’État, à une commune ou à un établissement public, et dont le but se rapproche autant que possible du but en vue duquel la fondation dissoute a été créée.
 
 (3)
 
@@ -1392,11 +1392,11 @@ Chaque année et au plus tard six mois après la date de clôture de l’exercic
 
 Chaque année en fin d’exercice, une fondation est tenue d’établir des documents comptables consistant au minimum en des comptes annuels préparés conformément au régime comptable applicable aux entreprises visées à l’article 47 de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises dont l’annexe comporte des informations supplémentaires déterminées par règlement grand-ducal et portant sur :
 
-1. le volume de financement d’autres entités ;
+- le volume de financement d’autres entités ;
 
-2. le pourcentage estimé d’activités exercées au Luxembourg, dans les autres pays de l’Union européenne ou de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen ;
+- le pourcentage estimé d’activités exercées au Luxembourg, dans les autres pays de l’Union européenne ou de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen ;
 
-3. le pourcentage des transferts de fonds vers les autres pays de l’Union européenne et de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen.
+- le pourcentage des transferts de fonds vers les autres pays de l’Union européenne et de l’Espace économique européen et en dehors de l’Union européenne et de l’Espace économique européen.
 
 Un règlement grand-ducal peut prévoir un schéma de présentation des comptes annuels et préciser leurs modalités de dépôt.
 
@@ -1434,13 +1434,13 @@ L’autorisation ne sera accordée que si la fondation s’est conformée aux di
 
 Tous les actes, factures, annonces, publications et autres pièces émanées de la fondation doivent contenir les mentions suivantes :
 
-1. la dénomination de la fondation ;
+- la dénomination de la fondation ;
 
-2. la mention « fondation » reproduite lisiblement et en toutes lettres, placée immédiatement avant ou après la dénomination ;
+- la mention « fondation » reproduite lisiblement et en toutes lettres, placée immédiatement avant ou après la dénomination ;
 
-3. l’adresse précise du siège de la fondation ;
+- l’adresse précise du siège de la fondation ;
 
-4. les mots « Registre de commerce et des sociétés, Luxembourg », ou les initiales « R.C.S. Luxembourg » suivis du numéro d’immatriculation.
+- les mots « Registre de commerce et des sociétés, Luxembourg », ou les initiales « R.C.S. Luxembourg » suivis du numéro d’immatriculation.
 
 (2)
 
@@ -1455,9 +1455,9 @@ Toute personne qui intervient pour une fondation dans un document visé au parag
 
 La nullité d’une fondation ne peut être prononcée que dans les cas suivants :
 
-1. si les statuts ne contiennent pas les mentions visées à l’article 43, paragraphe 2, points 1°, 2° ou 3° ;
+- si les statuts ne contiennent pas les mentions visées à l’article 43, paragraphe 2, points 1°, 2° ou 3° ;
 
-2. si le but en vue duquel elle est constituée ou l’une des activités mises en œuvre contrevient à la loi ou est contraire à l’ordre public.
+- si le but en vue duquel elle est constituée ou l’une des activités mises en œuvre contrevient à la loi ou est contraire à l’ordre public.
 
 (2)
 
@@ -1507,35 +1507,35 @@ L’acte constitutif ainsi que toute modification aux statuts sont déposés et 
 
 Sont déposés et publiés conformément aux dispositions du titre Ier, chapitre Vbis, de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises :
 
-1. l’extrait des actes relatifs à la nomination et à la cessation des fonctions : Cet extrait contiendra l’indication précise des nom et prénoms, date et lieu de naissance et l’adresse privée ou professionnelle des personnes y visées, ou lorsqu’il s’agit d’une personne morale, leur dénomination sociale, et l’adresse précise de leur siège social et le cas échéant, le pouvoir individuel de signature qui leur a été donné par l’organe compétent.
+- l’extrait des actes relatifs à la nomination et à la cessation des fonctions : Cet extrait contiendra l’indication précise des nom et prénoms, date et lieu de naissance et l’adresse privée ou professionnelle des personnes y visées, ou lorsqu’il s’agit d’une personne morale, leur dénomination sociale, et l’adresse précise de leur siège social et le cas échéant, le pouvoir individuel de signature qui leur a été donné par l’organe compétent.
 
-1. des administrateurs de la fondation ;
+  - des administrateurs de la fondation ;
 
-2. des délégués à la gestion journalière ;
+  - des délégués à la gestion journalière ;
 
-3. des liquidateurs, et au cas où le liquidateur est une personne morale, la désignation ou la modification à la désignation de la personne physique qui la représente pour l’exercice des pouvoirs de liquidation ;
+  - des liquidateurs, et au cas où le liquidateur est une personne morale, la désignation ou la modification à la désignation de la personne physique qui la représente pour l’exercice des pouvoirs de liquidation ;
 
-4. du réviseur d’entreprises agréé.
+  - du réviseur d’entreprises agréé.
 
-2. l’extrait de la décision judiciaire passée en force de chose jugée ou exécutoire par provision qui prononce la dissolution de la fondation, la nullité de la fondation ou la nullité des modifications aux statuts. Cet extrait contiendra :
+- l’extrait de la décision judiciaire passée en force de chose jugée ou exécutoire par provision qui prononce la dissolution de la fondation, la nullité de la fondation ou la nullité des modifications aux statuts. Cet extrait contiendra :
 
-1. la dénomination et le siège de la fondation ;
+  - la dénomination et le siège de la fondation ;
 
-2. la date de la décision et la juridiction qui l’a prononcée ;
+  - la date de la décision et la juridiction qui l’a prononcée ;
 
-3. le cas échéant, la nomination du ou des liquidateurs, et au cas où le liquidateur est une personne morale, la désignation ou la modification à la désignation de la personne physique qui la représente pour l’exercice des pouvoirs de liquidation.
+  - le cas échéant, la nomination du ou des liquidateurs, et au cas où le liquidateur est une personne morale, la désignation ou la modification à la désignation de la personne physique qui la représente pour l’exercice des pouvoirs de liquidation.
 
-3. l’extrait des actes déterminant le mode de liquidation et les pouvoirs des liquidateurs si ces pouvoirs ne sont pas, exclusivement et expressément, définis par la loi ou les statuts ;
+- l’extrait des actes déterminant le mode de liquidation et les pouvoirs des liquidateurs si ces pouvoirs ne sont pas, exclusivement et expressément, définis par la loi ou les statuts ;
 
-4. l’extrait de la décision judiciaire ou du conseil d’administration ou du ou des liquidateurs relative à la clôture de liquidation et à la destination du patrimoine.
+- l’extrait de la décision judiciaire ou du conseil d’administration ou du ou des liquidateurs relative à la clôture de liquidation et à la destination du patrimoine.
 
 (3)
 
 Sont déposés et publiés par mention de leur dépôt conformément aux dispositions du titre Ier, chapitre Vbis, de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises:
 
-1. le texte coordonné des statuts dans une rédaction mise à jour après chaque modification des statuts de la fondation ;
+- le texte coordonné des statuts dans une rédaction mise à jour après chaque modification des statuts de la fondation ;
 
-2. les documents comptables définis à l’article 52 et le rapport établi par le réviseur d’entreprises agréé.
+- les documents comptables définis à l’article 52 et le rapport établi par le réviseur d’entreprises agréé.
 
 (4)
 
@@ -1550,17 +1550,17 @@ Les actes, extraits d’actes de la fondation ou indications dont la publicité 
 
 Le tribunal d’arrondissement siégeant en matière civile du siège de la fondation pourra prononcer à la requête soit d’un membre du conseil d’administration, soit d’un tiers intéressé, soit du procureur d’État, la dissolution de la fondation qui :
 
-1. est hors d’état de remplir les engagements qu’elle a contractés ;
+- est hors d’état de remplir les engagements qu’elle a contractés ;
 
-2. affecte son patrimoine ou ses revenus à un but autre que celui en vue duquel elle a été constituée ;
+- affecte son patrimoine ou ses revenus à un but autre que celui en vue duquel elle a été constituée ;
 
-3. est restée en défaut de ramener l’actif net à concurrence du montant nécessaire pour atteindre le montant minimum prévu à l’article 52, paragraphe 1 er , alinéa 3 ;
+- est restée en défaut de ramener l’actif net à concurrence du montant nécessaire pour atteindre le montant minimum prévu à l’article 52, paragraphe 1 er , alinéa 3 ;
 
-4. contrevient gravement à ses statuts, à la loi ou à l’ordre public ;
+- contrevient gravement à ses statuts, à la loi ou à l’ordre public ;
 
-5. est restée en défaut de satisfaire à l’obligation de déposer les documents comptables de l’exercice social écoulé conformément à l’article 52 pour deux exercices sociaux consécutifs ;
+- est restée en défaut de satisfaire à l’obligation de déposer les documents comptables de l’exercice social écoulé conformément à l’article 52 pour deux exercices sociaux consécutifs ;
 
-6. est restée en défaut de satisfaire à l’obligation de déposer le rapport d’activité détaillé conformément à l’article 52, paragraphe 6, pour deux exercices sociaux consécutifs.
+- est restée en défaut de satisfaire à l’obligation de déposer le rapport d’activité détaillé conformément à l’article 52, paragraphe 6, pour deux exercices sociaux consécutifs.
 
 (2)
 
@@ -1693,11 +1693,11 @@ Le projet de transformation fait l’objet d’un rapport justificatif établi p
 
 À ce rapport sont joints les documents suivants :
 
-1. un projet de statuts de l’association en laquelle la fondation sera transformée ;
+- un projet de statuts de l’association en laquelle la fondation sera transformée ;
 
-2. un état résumant la situation active et passive de la fondation arrêté à une date ne remontant pas à plus de six mois précédant la date de la réunion du conseil d’administration appelé à statuer sur le projet de transformation ;
+- un état résumant la situation active et passive de la fondation arrêté à une date ne remontant pas à plus de six mois précédant la date de la réunion du conseil d’administration appelé à statuer sur le projet de transformation ;
 
-3. un rapport sur cet état établi par un réviseur d’entreprises agréé désigné par le conseil d’administration.
+- un rapport sur cet état établi par un réviseur d’entreprises agréé désigné par le conseil d’administration.
 
 Immédiatement après la décision de transformation, les statuts de l’association sont arrêtés aux mêmes conditions.
 
@@ -1734,11 +1734,11 @@ Le projet de transformation fait l’objet d’un rapport justificatif établi p
 
 À ce rapport sont joints les documents suivants :
 
-1. un projet de statuts de la société commerciale en laquelle la fondation sera transformée ;
+- un projet de statuts de la société commerciale en laquelle la fondation sera transformée ;
 
-2. un état résumant la situation active et passive de la fondation arrêté à une date ne remontant pas à plus de six mois précédant la date de la réunion du conseil d’administration appelé à statuer sur le projet de transformation ;
+- un état résumant la situation active et passive de la fondation arrêté à une date ne remontant pas à plus de six mois précédant la date de la réunion du conseil d’administration appelé à statuer sur le projet de transformation ;
 
-3. un rapport sur cet état établi par un réviseur d’entreprises agréé désigné par le conseil d’administration.
+- un rapport sur cet état établi par un réviseur d’entreprises agréé désigné par le conseil d’administration.
 
 (3)
 
@@ -1821,21 +1821,21 @@ Les fondations dissoutes cessent d’exister de plein droit.
 
 La nullité de la fusion ne peut intervenir que dans les conditions suivantes :
 
-1. la nullité doit être prononcée par décision judiciaire ;
+- la nullité doit être prononcée par décision judiciaire ;
 
-2. les décisions des conseils d’administration qui l’ont approuvée n’ont pas été constatées en la forme requise ou si ces décisions ont été prises en l’absence du projet commun de fusion ou du rapport du réviseurs d’entreprises agréé ;
+- les décisions des conseils d’administration qui l’ont approuvée n’ont pas été constatées en la forme requise ou si ces décisions ont été prises en l’absence du projet commun de fusion ou du rapport du réviseurs d’entreprises agréé ;
 
-3. l’action en nullité ne peut plus être intentée après l’expiration d’un délai de six mois à compter de la date à laquelle la fusion est opposable à celui qui invoque la nullité, ou bien si la situation a été régularisée ;
+- l’action en nullité ne peut plus être intentée après l’expiration d’un délai de six mois à compter de la date à laquelle la fusion est opposable à celui qui invoque la nullité, ou bien si la situation a été régularisée ;
 
-4. lorsqu’il est possible de porter remède à l’irrégularité susceptible d’entraîner la nullité de la fusion, le tribunal compétent accorde aux fondations intéressées un délai pour régulariser la situation ;
+- lorsqu’il est possible de porter remède à l’irrégularité susceptible d’entraîner la nullité de la fusion, le tribunal compétent accorde aux fondations intéressées un délai pour régulariser la situation ;
 
-5. la décision prononçant la nullité de la fusion fait l’objet d’une publicité selon les modes prévus au titre I er , chapitre V bis de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
+- la décision prononçant la nullité de la fusion fait l’objet d’une publicité selon les modes prévus au titre I er , chapitre V bis de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
 
-6. la tierce opposition contre la décision prononçant la nullité de la fusion n’est plus recevable après l’expiration d’un délai de six mois à compter de la publicité de la décision effectuée selon le titre I er , chapitre V bis de la loi précitée du 19 décembre 2002 ;
+- la tierce opposition contre la décision prononçant la nullité de la fusion n’est plus recevable après l’expiration d’un délai de six mois à compter de la publicité de la décision effectuée selon le titre I er , chapitre V bis de la loi précitée du 19 décembre 2002 ;
 
-7. la décision prononçant la nullité de la fusion ne porte atteinte par elle-même à la validité des obligations nées à la charge ou au profit de la fondation absorbante ou de la nouvelle fondation, selon le cas, antérieurement à la publicité de la décision et postérieurement à la date visée au paragraphe 7 ;
+- la décision prononçant la nullité de la fusion ne porte atteinte par elle-même à la validité des obligations nées à la charge ou au profit de la fondation absorbante ou de la nouvelle fondation, selon le cas, antérieurement à la publicité de la décision et postérieurement à la date visée au paragraphe 7 ;
 
-8. les fondations ayant participé à la fusion répondent solidairement des obligations de la fondation absorbante ou de la nouvelle fondation, selon le cas, visées au point 7°.
+- les fondations ayant participé à la fusion répondent solidairement des obligations de la fondation absorbante ou de la nouvelle fondation, selon le cas, visées au point 7°.
 
 ### TITRE IV Dispositions communes aux associations et fondations
 
@@ -1905,9 +1905,9 @@ En cas de récidive après une condamnation du chef de l’infraction prévue au
 
 Seront punis d’un emprisonnement d’un an à cinq ans et d’une amende de 500 euros à 25 000 euros ou d’une de ces peines seulement, les dirigeants de l’association ou de la fondation, de droit ou de fait, qui de mauvaise foi,
 
-1. auront fait des biens ou du crédit de l’association ou de la fondation un usage qu’ils savaient contraire à l’intérêt de celle-ci, à des fins personnelles ou pour favoriser une entité dans laquelle ils étaient intéressés directement ou indirectement ;
+- auront fait des biens ou du crédit de l’association ou de la fondation un usage qu’ils savaient contraire à l’intérêt de celle-ci, à des fins personnelles ou pour favoriser une entité dans laquelle ils étaient intéressés directement ou indirectement ;
 
-2. auront fait des pouvoirs qu’ils possédaient ou des voix dont ils disposaient, en cette qualité, un usage qu’ils savaient contraire aux intérêts de l’association ou de la fondation à des fins personnelles ou pour favoriser une autre entité dans laquelle ils étaient intéressés directement ou indirectement.
+- auront fait des pouvoirs qu’ils possédaient ou des voix dont ils disposaient, en cette qualité, un usage qu’ils savaient contraire aux intérêts de l’association ou de la fondation à des fins personnelles ou pour favoriser une autre entité dans laquelle ils étaient intéressés directement ou indirectement.
 
 ### TITRE VII Dispositions fiscales
 
@@ -1936,20 +1936,25 @@ Les membres de la commission consultative sont nommés par le ministre ayant la 
 <a id="art-74"></a>
 ## Art. 74.
 
-L’article 910, alinéa 1er, du Code civil est modifié comme suit : Art. 910. Les dispositions entre vifs ou testamentaires au profit de l’État et des autres personnes morales de droit public, à l’exception des communes, syndicats de communes et établissements publics ou fondations placés sous la surveillance des communes, n’auront leur effet qu’autant qu’elles seront autorisées par un arrêté grand-ducal. Cette autorisation ne sera pas requise pour l’acceptation des libéralités mobilières dont la valeur n’excède pas 30 000 euros.
+L’article 910, alinéa 1er, du Code civil est modifié comme suit :
+
+<a id="art-910"></a>
+## Art. 910.
+
+Les dispositions entre vifs ou testamentaires au profit de l’État et des autres personnes morales de droit public, à l’exception des communes, syndicats de communes et établissements publics ou fondations placés sous la surveillance des communes, n’auront leur effet qu’autant qu’elles seront autorisées par un arrêté grand-ducal. Cette autorisation ne sera pas requise pour l’acceptation des libéralités mobilières dont la valeur n’excède pas 30 000 euros.
 
 <a id="art-75"></a>
 ## Art. 75.
 
 La loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises est modifiée comme suit :
 
-1. L’article 9 est modifié comme suit : Art. 9. Toute association sans but lucratif, toute fondation, toute association agricole, toute association d’épargne-pension, toute mutuelle et tout établissement public est tenu de requérir son immatriculation. Celle-ci indique : la dénomination ; l’objet ; la durée pour laquelle l’association, la fondation, la mutuelle ou l’établissement public est constitué, lorsqu’elle n’est pas illimitée ; l’adresse précise du siège de l’association, de la fondation, de la mutuelle ou de l’établissement public ; l’identité, l’adresse privée ou professionnelle précise des personnes autorisées à gérer, administrer et signer pour l’association ou la fondation ou la mutuelle ou des personnes membres de l’organe de gestion pour les établissements publics avec indication de la nature et de l’étendue de leurs pouvoirs ainsi que la date de nomination et la date d’expiration du mandat ;s’il s’agit de personnes physiques, leurs nom, prénoms, date et lieu de naissance ou s’il s’agit de personnes morales non immatriculées auprès du registre de commerce et des sociétés de Luxembourg, leur dénomination ou leur raison sociale, leur forme juridique et le numéro d’immatriculation au registre de commerce et des sociétés, si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant ou s’il s’agit de personnes morales immatriculées auprès du registre de commerce et des sociétés de Luxembourg, le seul numéro d’immatriculation ; Pour les associations sans but lucratif et les fondations, doivent également être indiqués les nom, prénoms, date et lieu de naissance et adresse professionnelle ou privée précise des représentants permanents, personnes physiques, désignées par celles-ci ; pour les associations sans but lucratif et les fondations, l’identité, l’adresse privée ou professionnelle précise du réviseur d’entreprises agréé, selon le cas, la date de nomination et la date d’expiration du mandat; s’il s’agit de personnes physiques, leurs nom, prénoms, date et lieu de naissance ou s’il s’agit de personnes morales non immatriculées auprès du registre de commerce et des sociétés de Luxembourg, leur dénomination sociale ou leur raison sociale, leur forme juridique, le numéro d’immatriculation au registre de commerce et des sociétés doit être indiqué, si la législation de l’État dont la personne relève prévoit un tel numéro ainsi que le nom du registre le cas échéant ous’il s’agit de personnes morales immatriculées auprès du registre de commerce et des sociétés de Luxembourg, le seul numéro d’immatriculation ; le cas échéant, la date de début et de clôture de l’exercice social ; pour les fondations et les associations sans but lucratif reconnues d’utilité publique, la date de l’arrêté grand-ducal ; pour les associations d’épargne-pension, la date et le numéro de l’autorisation, ainsi que le nom de l’autorité l’ayant délivrée ; pour les mutuelles, la date de l’arrêté ministériel. pour les mutuelles résultant d’une fusion ou ayant participé à une fusion, le seul numéro d’immatriculation de toutes les mutuelles y ayant participé ainsi que la date de l’arrêté ministériel ; pour les associations sans but lucratif ou les fondations résultant d’une fusion ou y ayant participé, le seul numéro d’immatriculation de toutes les fondations ou associations y ayant participé ainsi que, le cas échéant, la date de l’arrêté grand-ducal.
+- L’article 9 est modifié comme suit : Art. 9. Toute association sans but lucratif, toute fondation, toute association agricole, toute association d’épargne-pension, toute mutuelle et tout établissement public est tenu de requérir son immatriculation. Celle-ci indique : la dénomination ; l’objet ; la durée pour laquelle l’association, la fondation, la mutuelle ou l’établissement public est constitué, lorsqu’elle n’est pas illimitée ; l’adresse précise du siège de l’association, de la fondation, de la mutuelle ou de l’établissement public ; l’identité, l’adresse privée ou professionnelle précise des personnes autorisées à gérer, administrer et signer pour l’association ou la fondation ou la mutuelle ou des personnes membres de l’organe de gestion pour les établissements publics avec indication de la nature et de l’étendue de leurs pouvoirs ainsi que la date de nomination et la date d’expiration du mandat ; s’il s’agit de personnes physiques, leurs nom, prénoms, date et lieu de naissance ou s’il s’agit de personnes morales non immatriculées auprès du registre de commerce et des sociétés de Luxembourg, leur dénomination ou leur raison sociale, leur forme juridique et le numéro d’immatriculation au registre de commerce et des sociétés, si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant ou s’il s’agit de personnes morales immatriculées auprès du registre de commerce et des sociétés de Luxembourg, le seul numéro d’immatriculation ; Pour les associations sans but lucratif et les fondations, doivent également être indiqués les nom, prénoms, date et lieu de naissance et adresse professionnelle ou privée précise des représentants permanents, personnes physiques, désignées par celles-ci ; pour les associations sans but lucratif et les fondations, l’identité, l’adresse privée ou professionnelle précise du réviseur d’entreprises agréé, selon le cas, la date de nomination et la date d’expiration du mandat; s’il s’agit de personnes physiques, leurs nom, prénoms, date et lieu de naissance ou s’il s’agit de personnes morales non immatriculées auprès du registre de commerce et des sociétés de Luxembourg, leur dénomination sociale ou leur raison sociale, leur forme juridique, le numéro d’immatriculation au registre de commerce et des sociétés doit être indiqué, si la législation de l’État dont la personne relève prévoit un tel numéro ainsi que le nom du registre le cas échéant ou s’il s’agit de personnes morales immatriculées auprès du registre de commerce et des sociétés de Luxembourg, le seul numéro d’immatriculation ; le cas échéant, la date de début et de clôture de l’exercice social ; pour les fondations et les associations sans but lucratif reconnues d’utilité publique, la date de l’arrêté grand-ducal ; pour les associations d’épargne-pension, la date et le numéro de l’autorisation, ainsi que le nom de l’autorité l’ayant délivrée ; pour les mutuelles, la date de l’arrêté ministériel. pour les mutuelles résultant d’une fusion ou ayant participé à une fusion, le seul numéro d’immatriculation de toutes les mutuelles y ayant participé ainsi que la date de l’arrêté ministériel ; pour les associations sans but lucratif ou les fondations résultant d’une fusion ou y ayant participé, le seul numéro d’immatriculation de toutes les fondations ou associations y ayant participé ainsi que, le cas échéant, la date de l’arrêté grand-ducal.
 
-2. L’article 13 est modifié comme suit :
+- L’article 13 est modifié comme suit :
 
-1. Le point 8) prend la teneur suivante : les décisions judiciaires prononçant la dissolution, ordonnant la liquidation d’une société, d’un groupement d’intérêt économique, d’un groupement européen d’intérêt économique, d’une association sans but lucratif, d’une fondation et des autres personnes morales ou entités immatriculées et portant nomination d’un liquidateur
+  - Le point 8) prend la teneur suivante : les décisions judiciaires prononçant la dissolution, ordonnant la liquidation d’une société, d’un groupement d’intérêt économique, d’un groupement européen d’intérêt économique, d’une association sans but lucratif, d’une fondation et des autres personnes morales ou entités immatriculées et portant nomination d’un liquidateur
 
-2. Le point 17) prend la teneur suivante : la décision d’ouverture ou de clôture d’une procédure de dissolution administrative sans liquidation prise par le gestionnaire du registre du commerce et des sociétés en application de la loi du 28 octobre 2022 portant création de la procédure de dissolution administrative sans liquidation ou du titre V de la loi du 7 août 2023 sur les associations sans but lucratif et les fondations.
+  - Le point 17) prend la teneur suivante : la décision d’ouverture ou de clôture d’une procédure de dissolution administrative sans liquidation prise par le gestionnaire du registre du commerce et des sociétés en application de la loi du 28 octobre 2022 portant création de la procédure de dissolution administrative sans liquidation ou du titre V de la loi du 7 août 2023 sur les associations sans but lucratif et les fondations.
 
 ### TITRE X Dispositions abrogatoires et transitoires
 
@@ -1965,7 +1970,7 @@ La loi modifiée du 21 avril 1928 sur les associations et les fondations sans bu
 
 Dans un délai de vingt-quatre mois à compter de l’entrée en vigueur de la présente loi, les statuts des associations et des fondations constituées avant l’entrée en vigueur de la présente loi doivent être rendus conformes avec les dispositions de celle-ci, à l’exception de l’article 40, paragraphe 3.
 
-Dans l’intervalle, ces associations et fondations demeurent régies par les dispositions législatives antérieures, à l’exception des dispositions relatives à la procédure d’homologation telle que prévue aux articles 8 et 20 de la loi modifiée du 21 avril 1928 sur les associations et les fondations.
+Dans l’intervalle, ces associations et fondations demeurent régies par les dispositions législatives antérieures , à l’exception des dispositions relatives à la procédure d’homologation telle que prévue aux articles 8 et 20 de la loi modifiée du 21 avril 1928 sur les associations et les fondations.
 
 L’article 52, paragraphe 1er, alinéas 3 et 4 n’est pas applicable aux fondations constituées avant l’entrée en vigueur de la présente loi.
 

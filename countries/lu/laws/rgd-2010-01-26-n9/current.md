@@ -65,41 +65,41 @@ Les définitions figurant à l’article 2 du règlement grand-ducal modifié du
 
 En outre, pour les besoins du présent règlement, on entend par:
 
-1. troupeau: un animal ou l’ensemble des animaux gardés dans une exploitation comme une unité épidémiologique; si plusieurs troupeaux sont présents dans une même exploitation, ils doivent former une unité distincte ayant le même statut sanitaire;
+- troupeau: un animal ou l’ensemble des animaux gardés dans une exploitation comme une unité épidémiologique; si plusieurs troupeaux sont présents dans une même exploitation, ils doivent former une unité distincte ayant le même statut sanitaire;
 
-2. animal de boucherie: l’animal de l’espèce bovine (y compris les espèces Bison bison et Bubalus bubalus ) ou l’animal de l’espèce porcine destiné à être conduit à l’abattoir ou dans un centre de rassemblement dont il ne peut sortir que pour aller à l’abattage;
+- animal de boucherie: l’animal de l’espèce bovine (y compris les espèces Bison bison et Bubalus bubalus ) ou l’animal de l’espèce porcine destiné à être conduit à l’abattoir ou dans un centre de rassemblement dont il ne peut sortir que pour aller à l’abattage;
 
-3. animaux d’élevage ou de rente: les animaux des espèces bovine (y compris les espèces Bison bison et Bubalus bubalus ) et porcine autres que ceux mentionnés au point b), notamment ceux destinés à l’élevage, à la production de lait ou de viande, ou au travail, aux concours ou aux expositions, à l’exception des animaux participant à des manifestations culturelles et sportives;
+- animaux d’élevage ou de rente: les animaux des espèces bovine (y compris les espèces Bison bison et Bubalus bubalus ) et porcine autres que ceux mentionnés au point b), notamment ceux destinés à l’élevage, à la production de lait ou de viande, ou au travail, aux concours ou aux expositions, à l’exception des animaux participant à des manifestations culturelles et sportives;
 
-4. troupeau bovin officiellement indemne de tuberculose: le troupeau bovin qui satisfait aux conditions fixées à l’annexe A, section I, points 1 et 2;
+- troupeau bovin officiellement indemne de tuberculose: le troupeau bovin qui satisfait aux conditions fixées à l’annexe A, section I, points 1 et 2;
 
-5. Etat membre ou région d’un Etat membre officiellement indemne de tuberculose: l’Etat membre ou la partie du territoire d’un Etat membre satisfaisant aux conditions fixées à l’annexe A, section I, points 4 et 5;
+- Etat membre ou région d’un Etat membre officiellement indemne de tuberculose: l’Etat membre ou la partie du territoire d’un Etat membre satisfaisant aux conditions fixées à l’annexe A, section I, points 4 et 5;
 
-6. troupeau bovin officiellement indemne de brucellose: le troupeau bovin qui satisfait aux conditions fixées à l’annexe A, section II, points 1 et 2;
+- troupeau bovin officiellement indemne de brucellose: le troupeau bovin qui satisfait aux conditions fixées à l’annexe A, section II, points 1 et 2;
 
-7. région officiellement indemne de brucellose: la région d’un Etat membre qui satisfait aux conditions fixées à l’annexe A section II, points 7, 8 et 9;
+- région officiellement indemne de brucellose: la région d’un Etat membre qui satisfait aux conditions fixées à l’annexe A section II, points 7, 8 et 9;
 
-8. Etat membre officiellement indemne de brucellose: l’Etat membre qui satisfait aux conditions fixées à l’annexe A, section II, points 7, 8 et 9;
+- Etat membre officiellement indemne de brucellose: l’Etat membre qui satisfait aux conditions fixées à l’annexe A, section II, points 7, 8 et 9;
 
-9. troupeau bovin indemne de brucellose: le troupeau bovin qui satisfait aux conditions fixées à l’annexe A, section II, points 4 et 5;
+- troupeau bovin indemne de brucellose: le troupeau bovin qui satisfait aux conditions fixées à l’annexe A, section II, points 4 et 5;
 
-10. troupeau officiellement indemne de leucose bovine enzootique: le troupeau qui satisfait aux conditions fixées à l’annexe D chapitre I, sections A et B;
+- troupeau officiellement indemne de leucose bovine enzootique: le troupeau qui satisfait aux conditions fixées à l’annexe D chapitre I, sections A et B;
 
-11. Etat membre ou région officiellement indemne de leucose bovine enzootique: la région ou l’Etat membre qui remplissent les exigences fixées à l’annexe D, chapitre I, sections E et F;
+- Etat membre ou région officiellement indemne de leucose bovine enzootique: la région ou l’Etat membre qui remplissent les exigences fixées à l’annexe D, chapitre I, sections E et F;
 
-12. vétérinaire officiel: le vétérinaire désigné par l’autorité compétente;
+- vétérinaire officiel: le vétérinaire désigné par l’autorité compétente;
 
-13. vétérinaire agréé: tout vétérinaire agréé par l’autorité compétente conformément à l’article 14, paragraphe 3, section B;
+- vétérinaire agréé: tout vétérinaire agréé par l’autorité compétente conformément à l’article 14, paragraphe 3, section B;
 
-14. maladies dont la notification est obligatoire: les maladies énumérées à l’annexe E, partie I;
+- maladies dont la notification est obligatoire: les maladies énumérées à l’annexe E, partie I;
 
-15. centre de rassemblement: tout emplacement, y compris les exploitations, les centres de collecte et les marchés, où sont rassemblés des animaux de l’espèce bovine ou porcine issus de différentes exploitations d’origine en vue de la constitution de lots d’animaux destinés aux échanges. Ces centres de rassemblement doivent être agréés à des fins commerciales et satisfaire aux exigences prévues à l’article 11;
+- centre de rassemblement: tout emplacement, y compris les exploitations, les centres de collecte et les marchés, où sont rassemblés des animaux de l’espèce bovine ou porcine issus de différentes exploitations d’origine en vue de la constitution de lots d’animaux destinés aux échanges. Ces centres de rassemblement doivent être agréés à des fins commerciales et satisfaire aux exigences prévues à l’article 11;
 
-16. région: partie du territoire d’un Etat membre dont la superficie est d’au moins 2 000 km 2 et qui est soumise au contrôle des autorités compétentes et inclut au moins l’une des régions administratives suivantes: Belgique: province/provincie Allemagne: Regierungsbezirk Danemark: amt ou île France: département Italie: provincia Luxembourg: – Pays-Bas: rvv-kring Royaume-Uni: Angleterre, pays de Galles et Irlande du Nord: county Ecosse: district ou island area Irlande: county Grèce: voμóϛ Espagne: provincia Portugal: continent: distrito; autres parties du territoire portugais: região autónoma Autriche: Bezirk Suède: län Finlande: lääni/län République tchèque: kraj Estonie: maakond Chypre: εттαρχία(district) Lettonie: rajons Lituanie: apskritis Hongrie: megye Malte: – Pologne: powiat Slovénie: območje Slovaquie: kraj Bulgarie: област Roumanie: județ; Croatie: zupanija
+- région: partie du territoire d’un Etat membre dont la superficie est d’au moins 2 000 km 2 et qui est soumise au contrôle des autorités compétentes et inclut au moins l’une des régions administratives suivantes: Belgique: province/provincie Allemagne: Regierungsbezirk Danemark: amt ou île France: département Italie: provincia Luxembourg: – Pays-Bas: rvv-kring Royaume-Uni: Angleterre, pays de Galles et Irlande du Nord: county Ecosse: district ou island area Irlande: county Grèce: voμóϛ Espagne: provincia Portugal: continent: distrito; autres parties du territoire portugais: região autónoma Autriche: Bezirk Suède: län Finlande: lääni/län République tchèque: kraj Estonie: maakond Chypre: εттαρχία(district) Lettonie: rajons Lituanie: apskritis Hongrie: megye Malte: – Pologne: powiat Slovénie: območje Slovaquie: kraj Bulgarie: област Roumanie: județ; Croatie: zupanija
 
-17. négociant: toute personne physique ou morale qui achète et vend directement ou indirectement des animaux à des fins commerciales, qui procède à une rotation régulière de ces animaux, qui, dans un intervalle maximal de 30 jours après l’achat d’animaux, les revend ou les déplace des premières installations à d’autres installations ne lui appartenant pas et qui est enregistré et satisfait aux conditions prévues à l’article 13;
+- négociant: toute personne physique ou morale qui achète et vend directement ou indirectement des animaux à des fins commerciales, qui procède à une rotation régulière de ces animaux, qui, dans un intervalle maximal de 30 jours après l’achat d’animaux, les revend ou les déplace des premières installations à d’autres installations ne lui appartenant pas et qui est enregistré et satisfait aux conditions prévues à l’article 13;
 
-18. autorité compétente: l’autorité centrale d’un Etat membre. Au Grand-Duché de Luxembourg: le Ministre agissant par l’intermédiaire de l’Administration des services vétérinaires.
+- autorité compétente: l’autorité centrale d’un Etat membre. Au Grand-Duché de Luxembourg: le Ministre agissant par l’intermédiaire de l’Administration des services vétérinaires.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -112,17 +112,17 @@ Seuls sont expédiés vers le territoire d’un autre Etat membre les animaux qu
 
 Les animaux des espèces bovine et porcine visés par le présent règlement doivent:
 
-1. subir: et
+- subir: et
 
-- un contrôle d’identification
+  - un contrôle d’identification
 
-- un examen clinique effectué par un vétérinaire officiel dans les 24 heures précédant leur départ et ne présenter aucun signe clinique de maladie;
+  - un examen clinique effectué par un vétérinaire officiel dans les 24 heures précédant leur départ et ne présenter aucun signe clinique de maladie;
 
-2. ne pas avoir été acquis dans une exploitation ni dans une zone faisant l’objet, pour des motifs de police sanitaire, d’une interdiction ou d’une restriction concernant l’espèce en cause, conformément à la législation communautaire et/ou nationale;
+- ne pas avoir été acquis dans une exploitation ni dans une zone faisant l’objet, pour des motifs de police sanitaire, d’une interdiction ou d’une restriction concernant l’espèce en cause, conformément à la législation communautaire et/ou nationale;
 
-3. pour les animaux de l’espèce bovine être identifiés conformément aux dispositions du règlement grand-ducal du 22 avril 1999 précité et pour les animaux de l’espèce porcine être identifiés conformément aux dispositions du règlement grand-ducal du 30 avril 2004 ;
+- pour les animaux de l’espèce bovine être identifiés conformément aux dispositions du règlement grand-ducal du 22 avril 1999 précité et pour les animaux de l’espèce porcine être identifiés conformément aux dispositions du règlement grand-ducal du 30 avril 2004 ;
 
-4. être conformes aux dispositions des articles 4 et 5.
+- être conformes aux dispositions des articles 4 et 5.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -152,17 +152,17 @@ Les contrôles sanitaires pour la délivrance du certificat sanitaire (y compris
 
 Toutefois, en ce qui concerne:
 
-1. les animaux issus de centres de rassemblement agréés, cette certification peut être établie: ou
+- les animaux issus de centres de rassemblement agréés, cette certification peut être établie: ou
 
-- sur la base du document officiel concernant les informations nécessaires complété par le vétérinaire agréé responsable de l’exploitation d’origine
+  - sur la base du document officiel concernant les informations nécessaires complété par le vétérinaire agréé responsable de l’exploitation d’origine
 
-- sur la base d’un certificat conforme, selon le cas, soit au modèle 1, soit au modèle 2 figurant à l’annexe F, et dont les parties A et B sont dûment complétées et attestées par le vétérinaire agréé responsable de l’exploitation d’origine;
+  - sur la base d’un certificat conforme, selon le cas, soit au modèle 1, soit au modèle 2 figurant à l’annexe F, et dont les parties A et B sont dûment complétées et attestées par le vétérinaire agréé responsable de l’exploitation d’origine;
 
-2. les animaux issus d’une exploitation qualifiée au titre du réseau prévu à l’article 14, cette certification peut être établie: ou
+- les animaux issus d’une exploitation qualifiée au titre du réseau prévu à l’article 14, cette certification peut être établie: ou
 
-- sur la base du document officiel contenant les informations nécessaires, complété par le vétérinaire agréé responsable de l’exploitation d’origine
+  - sur la base du document officiel contenant les informations nécessaires, complété par le vétérinaire agréé responsable de l’exploitation d’origine
 
-- sur la base d’un certificat conforme, selon le cas, soit au modèle 1, soit au modèle 2 figurant à l’annexe F, et dont les parties A et B sont dûment complétées et attestées par le vétérinaire agréé responsable de l’exploitation d’origine. A cette occasion, le vétérinaire officiel garantira, si nécessaire, le respect des garanties additionnelles prévues par la législation communautaire.
+  - sur la base d’un certificat conforme, selon le cas, soit au modèle 1, soit au modèle 2 figurant à l’annexe F, et dont les parties A et B sont dûment complétées et attestées par le vétérinaire agréé responsable de l’exploitation d’origine. A cette occasion, le vétérinaire officiel garantira, si nécessaire, le respect des garanties additionnelles prévues par la législation communautaire.
 
 3.
 
@@ -193,13 +193,13 @@ Outre les exigences énoncées aux articles 3, 4 et 5, les animaux d’élevage 
 
 Outre les exigences énoncées aux articles 3, 4 et 5, les animaux d’élevage ou de rente de l’espèce bovine doivent:
 
-1. provenir d’une exploitation bovine officiellement indemne de tuberculose et, dans le cas d’animaux âgés de plus de six semaines, avoir réagi négativement à une intradermo-tuberculination effectuée conformément aux dispositions du point 2.2 de l’annexe B, soit au cours des trente jours précédant leur sortie du troupeau d’origine, soit à un endroit et dans des conditions à définir conformément à la procédure de la comitologie. Cette intradermo-tuberculination n’est pas nécessaire si les animaux proviennent d’un Etat membre ou d’une partie du territoire d’un Etat membre reconnu(e) officiellement indemne de tuberculose ou d’un Etat membre ou d’une partie du territoire d’un Etat membre faisant partie d’un réseau de surveillance reconnu;
+- provenir d’une exploitation bovine officiellement indemne de tuberculose et, dans le cas d’animaux âgés de plus de six semaines, avoir réagi négativement à une intradermo-tuberculination effectuée conformément aux dispositions du point 2.2 de l’annexe B, soit au cours des trente jours précédant leur sortie du troupeau d’origine, soit à un endroit et dans des conditions à définir conformément à la procédure de la comitologie. Cette intradermo-tuberculination n’est pas nécessaire si les animaux proviennent d’un Etat membre ou d’une partie du territoire d’un Etat membre reconnu(e) officiellement indemne de tuberculose ou d’un Etat membre ou d’une partie du territoire d’un Etat membre faisant partie d’un réseau de surveillance reconnu;
 
-2. dans le cas d’animaux non castrés provenant d’une exploitation bovine officiellement indemne de brucellose et âgés de plus de douze mois, avoir présenté un titre brucellique inférieur à 30 unités internationales agglutinantes par millilitre lors d’une séroagglutination ou tout autre test agréé par une procédure du comité vétérinaire permanent après l’adoption des protocoles pertinents effectuée dans les 30 jours précédant la sortie du troupeau d’origine et conformément aux dispositions de l’annexe C section A. Cette séroagglutination ou tout test agréé par une procédure du Comité vétérinaire permanent après l’adoption des protocoles pertinents n’est pas nécessaire si les animaux sont originaires d’un Etat membre ou d’une partie du territoire d’un Etat membre reconnu(e) officiellement indemne de brucellose ou d’un Etat membre ou d’une partie du territoire d’un Etat membre faisant partie d’un réseau de surveillance reconnu;
+- dans le cas d’animaux non castrés provenant d’une exploitation bovine officiellement indemne de brucellose et âgés de plus de douze mois, avoir présenté un titre brucellique inférieur à 30 unités internationales agglutinantes par millilitre lors d’une séroagglutination ou tout autre test agréé par une procédure du comité vétérinaire permanent après l’adoption des protocoles pertinents effectuée dans les 30 jours précédant la sortie du troupeau d’origine et conformément aux dispositions de l’annexe C section A. Cette séroagglutination ou tout test agréé par une procédure du Comité vétérinaire permanent après l’adoption des protocoles pertinents n’est pas nécessaire si les animaux sont originaires d’un Etat membre ou d’une partie du territoire d’un Etat membre reconnu(e) officiellement indemne de brucellose ou d’un Etat membre ou d’une partie du territoire d’un Etat membre faisant partie d’un réseau de surveillance reconnu;
 
-3. provenir d’une exploitation officiellement indemne de leucose bovine enzootique et, dans le cas d’animaux âgés de plus de douze mois, avoir réagi négativement à un test individuel effectué au cours des 30 jours précédant leur sortie du troupeau d’origine et répondant aux dispositions de l’annexe D. Ce test n’est pas nécessaire si les animaux sont originaires d’un Etat membre ou d’une partie du territoire d’un Etat membre reconnu(e) officiellement indemne de leucose bovine enzootique ou d’un Etat membre ou d’une partie du territoire d’un Etat membre faisant partie d’un réseau de surveillance reconnu;
+- provenir d’une exploitation officiellement indemne de leucose bovine enzootique et, dans le cas d’animaux âgés de plus de douze mois, avoir réagi négativement à un test individuel effectué au cours des 30 jours précédant leur sortie du troupeau d’origine et répondant aux dispositions de l’annexe D. Ce test n’est pas nécessaire si les animaux sont originaires d’un Etat membre ou d’une partie du territoire d’un Etat membre reconnu(e) officiellement indemne de leucose bovine enzootique ou d’un Etat membre ou d’une partie du territoire d’un Etat membre faisant partie d’un réseau de surveillance reconnu;
 
-4. à aucun moment entre la sortie de l’exploitation d’origine et l’arrivée sur le lieu de destination, n’entrer en contact avec des animaux répondant seulement aux exigences du paragraphe 3.
+- à aucun moment entre la sortie de l’exploitation d’origine et l’arrivée sur le lieu de destination, n’entrer en contact avec des animaux répondant seulement aux exigences du paragraphe 3.
 
 3.
 
@@ -275,35 +275,35 @@ L’autorité compétente communique à la Commission toute modification des jus
 
 Les centres de rassemblement, pour être agréés par l’autorité compétente, répondent au moins aux conditions suivantes. Ils doivent:
 
-1. être sous le contrôle d’un vétérinaire officiel qui veille, en particulier, à ce que les dispositions de l’article 4 paragraphes 1 et 2 sont respectées;
+- être sous le contrôle d’un vétérinaire officiel qui veille, en particulier, à ce que les dispositions de l’article 4 paragraphes 1 et 2 sont respectées;
 
-2. être situés dans une zone qui n’est pas soumise à une interdiction ou à une restriction conformément à la législation communautaire pertinente ou la législation nationale;
+- être situés dans une zone qui n’est pas soumise à une interdiction ou à une restriction conformément à la législation communautaire pertinente ou la législation nationale;
 
-3. être préalablement nettoyés et désinfectés avant chaque utilisation selon les instructions du vétérinaire officiel;
+- être préalablement nettoyés et désinfectés avant chaque utilisation selon les instructions du vétérinaire officiel;
 
-4. disposer en fonction des capacités d’accueil:
+- disposer en fonction des capacités d’accueil:
 
-- d’une installation exclusivement destinée à cet usage lorsqu’ils sont utilisés comme centre de rassemblement,
+  - d’une installation exclusivement destinée à cet usage lorsqu’ils sont utilisés comme centre de rassemblement,
 
-- des installations appropriées pour charger et décharger les animaux, les héberger convenablement, les abreuver et les nourrir et leur administrer tout traitement dont ils devraient faire l’objet; ces installations doivent être faciles à nettoyer et à désinfecter,
+  - des installations appropriées pour charger et décharger les animaux, les héberger convenablement, les abreuver et les nourrir et leur administrer tout traitement dont ils devraient faire l’objet; ces installations doivent être faciles à nettoyer et à désinfecter,
 
-- des infrastructures d’inspection appropriées,
+  - des infrastructures d’inspection appropriées,
 
-- des infrastructures d’isolation appropriées,
+  - des infrastructures d’isolation appropriées,
 
-- d’un équipement approprié pour le nettoyage et la désinfection des salles et des camions,
+  - d’un équipement approprié pour le nettoyage et la désinfection des salles et des camions,
 
-- d’une surface de stockage suffisante pour le fourrage, la litière et le fumier,
+  - d’une surface de stockage suffisante pour le fourrage, la litière et le fumier,
 
-- d’un système adéquat pour la collecte des eaux usées,
+  - d’un système adéquat pour la collecte des eaux usées,
 
-- d’un bureau ou local pour le vétérinaire officiel;
+  - d’un bureau ou local pour le vétérinaire officiel;
 
-5. admettre uniquement des animaux identifiés provenant de troupeaux officiellement indemnes de tuberculose, de brucellose et de leucose ou des animaux de boucherie répondant aux conditions fixées par le présent règlement, et en particulier à celles prévues à l’article 6 paragraphe 3. A cet effet, lorsque des animaux sont admis, le propriétaire ou la personne responsable du centre vérifie ou fait vérifier les marques d’identification des animaux ainsi que les documents sanitaires ou autres documents d’accompagnement propres aux espèces ou catégories concernées;
+- admettre uniquement des animaux identifiés provenant de troupeaux officiellement indemnes de tuberculose, de brucellose et de leucose ou des animaux de boucherie répondant aux conditions fixées par le présent règlement, et en particulier à celles prévues à l’article 6 paragraphe 3. A cet effet, lorsque des animaux sont admis, le propriétaire ou la personne responsable du centre vérifie ou fait vérifier les marques d’identification des animaux ainsi que les documents sanitaires ou autres documents d’accompagnement propres aux espèces ou catégories concernées;
 
-6. respecter les dispositions du règlement grand-ducal du 14 avril 2000 concernant la protection des animaux dans les élevages et du règlement grand-ducal du 30 juillet 2007 précité qui leur sont applicables;
+- respecter les dispositions du règlement grand-ducal du 14 avril 2000 concernant la protection des animaux dans les élevages et du règlement grand-ducal du 30 juillet 2007 précité qui leur sont applicables;
 
-7. faire l’objet d’inspections régulières en vue de s’assurer que les conditions d’agrément restent remplies.
+- faire l’objet d’inspections régulières en vue de s’assurer que les conditions d’agrément restent remplies.
 
 2.
 
@@ -332,33 +332,33 @@ L’autorité compétente s’assure que les centres de rassemblement, lorsqu’
 
 Les transporteurs doivent remplir les conditions additionnelles suivantes:
 
-1. pour le transport d’animaux, ils doivent utiliser des moyens de transport qui sont:
+- pour le transport d’animaux, ils doivent utiliser des moyens de transport qui sont:
 
-1. construits de telle manière que les fèces, litières et fourrages ne puissent s’échapper ou s’écouler du véhicule; et
+  - construits de telle manière que les fèces, litières et fourrages ne puissent s’échapper ou s’écouler du véhicule; et
 
-2. nettoyés et désinfectés à l’aide de désinfectants autorisés par l’autorité compétente, immédiatement après chaque transport d’animaux, ou de tout produit pouvant affecter la santé animale, et si nécessaire avant tout nouveau chargement d’animaux;
+  - nettoyés et désinfectés à l’aide de désinfectants autorisés par l’autorité compétente, immédiatement après chaque transport d’animaux, ou de tout produit pouvant affecter la santé animale, et si nécessaire avant tout nouveau chargement d’animaux;
 
-2. ils doivent:
+- ils doivent:
 
-1. soit avoir des installations de nettoyage et de désinfection appropriées approuvées par l’autorité compétente, y compris les lieux de stockage pour la litière et le fumier;
+  - soit avoir des installations de nettoyage et de désinfection appropriées approuvées par l’autorité compétente, y compris les lieux de stockage pour la litière et le fumier;
 
-2. soit fournir la preuve que ces opérations sont effectuées par des tiers approuvés par l’autorité compétente.
+  - soit fournir la preuve que ces opérations sont effectuées par des tiers approuvés par l’autorité compétente.
 
 2.
 
 Le transporteur doit, pour chaque véhicule utilisé pour le transport d’animaux, s’assurer de la tenue d’un registre contenant au minimum les informations suivantes, qui sont conservées pendant au moins trois ans:
 
-1. le lieu, la date et l’heure de chargement, ainsi que le nom ou la raison sociale et l’adresse de l’exploitation ou du centre de rassemblement où les animaux sont chargés;
+- le lieu, la date et l’heure de chargement, ainsi que le nom ou la raison sociale et l’adresse de l’exploitation ou du centre de rassemblement où les animaux sont chargés;
 
-2. le lieu, la date et l’heure de livraison, ainsi que le nom ou la raison sociale et l’adresse du ou des destinataire(s);
+- le lieu, la date et l’heure de livraison, ainsi que le nom ou la raison sociale et l’adresse du ou des destinataire(s);
 
-3. l’espèce et le nombre des animaux transportés;
+- l’espèce et le nombre des animaux transportés;
 
-4. la date et le lieu de la désinfection;
+- la date et le lieu de la désinfection;
 
-5. les détails des documents d’accompagnement, y compris le numéro;
+- les détails des documents d’accompagnement, y compris le numéro;
 
-6. la durée prévue de chaque voyage.
+- la durée prévue de chaque voyage.
 
 3.
 
@@ -383,43 +383,43 @@ En cas de non-respect du présent article, les dispositions relatives aux infrac
 
 Tous les négociants doivent être enregistrés, approuvés et se voient attribuer un numéro d’agrément par l’autorité compétente et doivent remplir au moins les conditions suivantes:
 
-1. ils doivent uniquement faire le commerce des animaux identifiés provenant de troupeaux officiellement indemnes de tuberculose, de brucellose et de leucose ou d’animaux de boucherie répondant aux conditions fixées par le présent règlement, et en particulier à celles prévues à l’article 6 paragraphe 3. A cet effet, le négociant s’assure que les animaux sont correctement identifiés et accompagnés des documents sanitaires appropriés aux espèces concernées. Toutefois, l’autorité compétente peut autoriser des transactions d’animaux identifiés ne répondant pas aux conditions prévues au premier alinéa pour autant que ces animaux soient acheminés immédiatement dans 493 un abattoir dans l’Etat membre d’origine sans transiter par ses installations, en vue d’y être abattus le plus rapidement possible afin d’éviter toute propagation des maladies. Les dispositions nécessaires devront être prises pour que ces animaux, dès leur arrivée à l’abattoir, ne puissent entrer en contact avec d’autres animaux et afin qu’ils soient abattus séparément d’autres animaux;
+- ils doivent uniquement faire le commerce des animaux identifiés provenant de troupeaux officiellement indemnes de tuberculose, de brucellose et de leucose ou d’animaux de boucherie répondant aux conditions fixées par le présent règlement, et en particulier à celles prévues à l’article 6 paragraphe 3. A cet effet, le négociant s’assure que les animaux sont correctement identifiés et accompagnés des documents sanitaires appropriés aux espèces concernées. Toutefois, l’autorité compétente peut autoriser des transactions d’animaux identifiés ne répondant pas aux conditions prévues au premier alinéa pour autant que ces animaux soient acheminés immédiatement dans 493 un abattoir dans l’Etat membre d’origine sans transiter par ses installations, en vue d’y être abattus le plus rapidement possible afin d’éviter toute propagation des maladies. Les dispositions nécessaires devront être prises pour que ces animaux, dès leur arrivée à l’abattoir, ne puissent entrer en contact avec d’autres animaux et afin qu’ils soient abattus séparément d’autres animaux;
 
-2. le négociant est tenu, soit sur la base du document d’accompagnement des animaux, soit sur la base des numéros ou marques d’identification des animaux, d’inscrire dans un registre ou support informatique et de conserver pendant au moins trois ans les données suivantes:
+- le négociant est tenu, soit sur la base du document d’accompagnement des animaux, soit sur la base des numéros ou marques d’identification des animaux, d’inscrire dans un registre ou support informatique et de conserver pendant au moins trois ans les données suivantes:
 
-- le nom du propriétaire, l’origine, la date d’achat, les catégories, le nombre et l’identification des animaux de l’espèce bovine ou le numéro d’enregistrement de l’exploitation d’origine ou du troupeau d’origine des porcs achetés,
+  - le nom du propriétaire, l’origine, la date d’achat, les catégories, le nombre et l’identification des animaux de l’espèce bovine ou le numéro d’enregistrement de l’exploitation d’origine ou du troupeau d’origine des porcs achetés,
 
-- le numéro d’enregistrement du transporteur et/ou le numéro de licence du camion qui livre et charge les animaux,
+  - le numéro d’enregistrement du transporteur et/ou le numéro de licence du camion qui livre et charge les animaux,
 
-- le nom et l’adresse de l’acheteur et la destination des animaux,
+  - le nom et l’adresse de l’acheteur et la destination des animaux,
 
-- des copies du plan de marché, et/ou le numéro de série des certificats sanitaires;
+  - des copies du plan de marché, et/ou le numéro de série des certificats sanitaires;
 
-3. lorsque le négociant détient des animaux dans ses installations, il veillera à ce que:
+- lorsque le négociant détient des animaux dans ses installations, il veillera à ce que:
 
-- une formation spécifique du personnel en charge des animaux soit entreprise en ce qui concerne l’application des exigences du présent règlement ainsi que les soins à assurer aux animaux et leur bien-être,
+  - une formation spécifique du personnel en charge des animaux soit entreprise en ce qui concerne l’application des exigences du présent règlement ainsi que les soins à assurer aux animaux et leur bien-être,
 
-- des contrôles et, le cas échéant, des tests soient régulièrement effectués par le vétérinaire officiel sur les animaux et que toutes les mesures nécessaires soient prises pour éviter la propagation d’une maladie.
+  - des contrôles et, le cas échéant, des tests soient régulièrement effectués par le vétérinaire officiel sur les animaux et que toutes les mesures nécessaires soient prises pour éviter la propagation d’une maladie.
 
 2.
 
 Chaque installation utilisée par les négociants pour l’exercice de leur profession doit être enregistrée et dotée par l’autorité compétente d’un numéro d’agrément et doit être conforme au moins aux conditions suivantes:
 
-1. être sous le contrôle d’un vétérinaire officiel;
+- être sous le contrôle d’un vétérinaire officiel;
 
-2. être située dans une zone qui n’est pas soumise à une interdiction ou restriction conformément à la législation communautaire pertinente ou à la législation nationale;
+- être située dans une zone qui n’est pas soumise à une interdiction ou restriction conformément à la législation communautaire pertinente ou à la législation nationale;
 
-3. disposer:
+- disposer:
 
-- des installations appropriées d’une capacité suffisante, et en particulier des infrastructures d’inspection appropriées et des infrastructures d’isolation de manière à pouvoir isoler tous les animaux en cas d’apparition d’une maladie contagieuse,
+  - des installations appropriées d’une capacité suffisante, et en particulier des infrastructures d’inspection appropriées et des infrastructures d’isolation de manière à pouvoir isoler tous les animaux en cas d’apparition d’une maladie contagieuse,
 
-- des installations appropriées pour décharger les animaux et, au besoin, les héberger convenablement, les abreuver et les nourrir et pour leur administrer tout traitement qu’ils auraient à subir; ces installations doivent être faciles à nettoyer et à désinfecter,
+  - des installations appropriées pour décharger les animaux et, au besoin, les héberger convenablement, les abreuver et les nourrir et pour leur administrer tout traitement qu’ils auraient à subir; ces installations doivent être faciles à nettoyer et à désinfecter,
 
-- d’une surface suffisante pour la réception de la litière et du fumier,
+  - d’une surface suffisante pour la réception de la litière et du fumier,
 
-- d’un système adéquat pour la collecte des eaux usées;
+  - d’un système adéquat pour la collecte des eaux usées;
 
-4. elle doit être préalablement nettoyée et désinfectée avant chaque utilisation selon les instructions du vétérinaire officiel.
+- elle doit être préalablement nettoyée et désinfectée avant chaque utilisation selon les instructions du vétérinaire officiel.
 
 3.
 
@@ -466,73 +466,73 @@ L’autorité compétente fixe les obligations et les droits auxquels doivent se
 
 Les obligations visées au paragraphe 2 sont les suivantes:
 
-1. Tout propriétaire d’une exploitation ou toute personne qui en assume la responsabilité doit:
+- Tout propriétaire d’une exploitation ou toute personne qui en assume la responsabilité doit:
 
-1. s’assurer, par contrat ou acte juridique, les services d’un vétérinaire agréé par l’autorité compétente;
+  - s’assurer, par contrat ou acte juridique, les services d’un vétérinaire agréé par l’autorité compétente;
 
-2. faire appel immédiatement au vétérinaire agréé responsable de l’exploitation dès qu’il suspecte l’existence d’une maladie contagieuse ou d’une maladie dont la notification est obligatoire;
+  - faire appel immédiatement au vétérinaire agréé responsable de l’exploitation dès qu’il suspecte l’existence d’une maladie contagieuse ou d’une maladie dont la notification est obligatoire;
 
-3. informer le vétérinaire agréé de toute introduction d’animaux dans son exploitation;
+  - informer le vétérinaire agréé de toute introduction d’animaux dans son exploitation;
 
-4. isoler les animaux avant de les introduire dans son exploitation afin de permettre au vétérinaire agréé de vérifier, le cas échéant, à l’aide des tests requis, si le statut de l’exploitation peut être maintenu.
+  - isoler les animaux avant de les introduire dans son exploitation afin de permettre au vétérinaire agréé de vérifier, le cas échéant, à l’aide des tests requis, si le statut de l’exploitation peut être maintenu.
 
-2. Le vétérinaire agréé visé à l’article 2 paragraphe 2 point m) est soumis au contrôle de l’autorité compétente et doit se conformer aux prescriptions suivantes. Il doit: Le vétérinaire agréé conclut les conventions qui sont à établir en trois exemplaires dont un exemplaire est à envoyer à l’autorité compétente. Les honoraires dus aux vétérinaires agréés pour l’épidémiologie sont à charge de l’Etat. Le montant de ces honoraires est fixé par le ministre ayant dans ses attributions l’Administration des services vétérinaires. Si le bon fonctionnement du système l’exige, l’autorité compétente peut restreindre la responsabilité des vétérinaires à un nombre limité d’exploitations ou à une aire géographique donnée. L’autorité compétente établit des listes de vétérinaires agréés et des exploitations agréées participant au réseau. Si l’autorité compétente estime qu’un des participants au réseau ne remplit plus les conditions définies ci-dessus, elle suspend ou retire l’agrément sans préjudice de toute autre sanction éventuellement applicable.
+- Le vétérinaire agréé visé à l’article 2 paragraphe 2 point m) est soumis au contrôle de l’autorité compétente et doit se conformer aux prescriptions suivantes. Il doit: Le vétérinaire agréé conclut les conventions qui sont à établir en trois exemplaires dont un exemplaire est à envoyer à l’autorité compétente. Les honoraires dus aux vétérinaires agréés pour l’épidémiologie sont à charge de l’Etat. Le montant de ces honoraires est fixé par le ministre ayant dans ses attributions l’Administration des services vétérinaires. Si le bon fonctionnement du système l’exige, l’autorité compétente peut restreindre la responsabilité des vétérinaires à un nombre limité d’exploitations ou à une aire géographique donnée. L’autorité compétente établit des listes de vétérinaires agréés et des exploitations agréées participant au réseau. Si l’autorité compétente estime qu’un des participants au réseau ne remplit plus les conditions définies ci-dessus, elle suspend ou retire l’agrément sans préjudice de toute autre sanction éventuellement applicable.
 
-1. remplir les conditions nécessaires pour exercer la profession de vétérinaire;
+  - remplir les conditions nécessaires pour exercer la profession de vétérinaire;
 
-2. n’avoir aucun lien d’intérêt financier ni familial avec le propriétaire ou la personne responsable de l’exploitation;
+  - n’avoir aucun lien d’intérêt financier ni familial avec le propriétaire ou la personne responsable de l’exploitation;
 
-3. posséder des connaissances particulières dans le domaine de la police sanitaire applicable aux animaux de l’espèce concernée, ce qui implique qu’il doit:
+  - posséder des connaissances particulières dans le domaine de la police sanitaire applicable aux animaux de l’espèce concernée, ce qui implique qu’il doit:
 
-- régulièrement actualiser ses connaissances, en particulier en ce qui concerne la réglementation sanitaire applicable,
+    - régulièrement actualiser ses connaissances, en particulier en ce qui concerne la réglementation sanitaire applicable,
 
-- remplir les conditions fixées par l’autorité compétente pour garantir le bon fonctionnement du réseau,
+    - remplir les conditions fixées par l’autorité compétente pour garantir le bon fonctionnement du réseau,
 
-- informer et aider le propriétaire ou la personne responsable de l’exploitation afin que toutes les mesures soient prises pour que le statut de l’exploitation soit maintenu, notamment sur la base de programmes arrêtés de commun accord avec l’autorité compétente,
+    - informer et aider le propriétaire ou la personne responsable de l’exploitation afin que toutes les mesures soient prises pour que le statut de l’exploitation soit maintenu, notamment sur la base de programmes arrêtés de commun accord avec l’autorité compétente,
 
-- veiller au respect des prescriptions relatives à:
+    - veiller au respect des prescriptions relatives à:
 
-1. l’identification et à la certification sanitaire des animaux du troupeau, des animaux introduits et de ceux qui sont négociés;
+      - l’identification et à la certification sanitaire des animaux du troupeau, des animaux introduits et de ceux qui sont négociés;
 
-2. l’obligation de déclarer les maladies infectieuses et tout autre facteur de risque pour la santé ou le bien-être des animaux et pour la santé humaine;
+      - l’obligation de déclarer les maladies infectieuses et tout autre facteur de risque pour la santé ou le bien-être des animaux et pour la santé humaine;
 
-3. l’établissement, dans la mesure du possible, de la cause de mortalité des animaux et le lieu où ils doivent être expédiés;
+      - l’établissement, dans la mesure du possible, de la cause de mortalité des animaux et le lieu où ils doivent être expédiés;
 
-4. les conditions d’hygiène du troupeau et des unités de production animale.
+      - les conditions d’hygiène du troupeau et des unités de production animale.
 
-3. La base de données informatisée doit contenir au moins les informations suivantes.
+- La base de données informatisée doit contenir au moins les informations suivantes.
 
-1. Pour chaque animal:
+  - Pour chaque animal:
 
-1. le ou les codes d'identification uniques, dans les cas énoncés à l'article 4, paragraphe 1 er , à l'article 4ter, à l'article 4quater, paragraphe 1 er , et à l'article 4quinquies du règlement (CE) n° 1760/2000 du Parlement européen et du Conseil du 17 juillet 2000 établissant un système d'identification et d'enregistrement des bovins et concernant l'étiquetage de la viande bovine et des produits à base de viande bovine, et abrogeant le règlement (CE) n° 820/97 du Conseil;
+    - le ou les codes d'identification uniques, dans les cas énoncés à l'article 4, paragraphe 1 er , à l'article 4ter, à l'article 4quater, paragraphe 1 er , et à l'article 4quinquies du règlement (CE) n° 1760/2000 du Parlement européen et du Conseil du 17 juillet 2000 établissant un système d'identification et d'enregistrement des bovins et concernant l'étiquetage de la viande bovine et des produits à base de viande bovine, et abrogeant le règlement (CE) n° 820/97 du Conseil;
 
-2. la date de naissance;
+    - la date de naissance;
 
-3. le sexe;
+    - le sexe;
 
-4. la race ou la robe;
+    - la race ou la robe;
 
-5. le code d'identification de la mère ou, dans le cas d'un animal importé d'un pays tiers, le numéro d'identification unique de chaque moyen d'identification attribué à l'animal par l'État membre de destination conformément au règlement (CE) n° 1760/2000 du Parlement européen et du Conseil du 17 juillet 2000 établissant un système d'identification et d'enregistrement des bovins et concernant l'étiquetage de la viande bovine et des produits à base de viande bovine, et abrogeant le règlement (CE) n° 820/97 du Conseil;
+    - le code d'identification de la mère ou, dans le cas d'un animal importé d'un pays tiers, le numéro d'identification unique de chaque moyen d'identification attribué à l'animal par l'État membre de destination conformément au règlement (CE) n° 1760/2000 du Parlement européen et du Conseil du 17 juillet 2000 établissant un système d'identification et d'enregistrement des bovins et concernant l'étiquetage de la viande bovine et des produits à base de viande bovine, et abrogeant le règlement (CE) n° 820/97 du Conseil;
 
-6. le numéro d'identification de l'exploitation de naissance;
+    - le numéro d'identification de l'exploitation de naissance;
 
-7. les numéros d'identification de toutes les exploitations où l'animal a été détenu et les dates de chaque mouvement;
+    - les numéros d'identification de toutes les exploitations où l'animal a été détenu et les dates de chaque mouvement;
 
-8. la date du décès ou de l'abattage;
+    - la date du décès ou de l'abattage;
 
-9. le type de dispositif d'identification électronique, s'il est appliqué à l'animal.
+    - le type de dispositif d'identification électronique, s'il est appliqué à l'animal.
 
-2. Pour chaque exploitation:
+  - Pour chaque exploitation:
 
-- un numéro d’identification consistant – outre le code du pays – en un code n’excédant pas 12 caractères,
+    - un numéro d’identification consistant – outre le code du pays – en un code n’excédant pas 12 caractères,
 
-- le nom et l’adresse du détenteur.
+    - le nom et l’adresse du détenteur.
 
-3. La base de données devra permettre à tout moment de disposer des informations suivantes:
+  - La base de données devra permettre à tout moment de disposer des informations suivantes:
 
-- le numéro d’identification de tous les animaux de l’espèce bovine présents dans une exploitation ou, dans le cas de groupes d’animaux de l’espèce porcine, le numéro d’enregistrement de l’exploitation d’origine ou du troupeau d’origine, ainsi que le cas échéant le numéro du certificat sanitaire,
+    - le numéro d’identification de tous les animaux de l’espèce bovine présents dans une exploitation ou, dans le cas de groupes d’animaux de l’espèce porcine, le numéro d’enregistrement de l’exploitation d’origine ou du troupeau d’origine, ainsi que le cas échéant le numéro du certificat sanitaire,
 
-- une liste de tous les mouvements de chaque animal de l’espèce bovine à partir de l’exploitation de naissance ou, pour les animaux importés de pays tiers, de l’exploitation d’importation et, pour les groupes d’animaux de l’espèce porcine, le numéro d’enregistrement de la dernière exploitation ou du dernier troupeau ainsi que, pour les animaux importés de pays tiers, l’exploitation d’importation.
+    - une liste de tous les mouvements de chaque animal de l’espèce bovine à partir de l’exploitation de naissance ou, pour les animaux importés de pays tiers, de l’exploitation d’importation et, pour les groupes d’animaux de l’espèce porcine, le numéro d’enregistrement de la dernière exploitation ou du dernier troupeau ainsi que, pour les animaux importés de pays tiers, l’exploitation d’importation.
 
 Ces informations seront conservées dans la base de données jusqu’à ce que trois années consécutives se soient écoulées après le décès de l’animal de l’espèce bovine ou après l’enregistrement, dans le cas où il est procédé à l’enregistrement des animaux de l’espèce porcine.
 
@@ -551,15 +551,15 @@ S’il est confirmé que les dispositions du présent règlement ne sont pas ou 
 
 Selon le cas, cette mesure peut consister à prendre les dispositions voulues pour:
 
-1. terminer le voyage ou renvoyer les animaux à leur lieu de départ par l’itinéraire le plus direct, pour autant que cette mesure ne risque pas de mettre en danger la santé ou le bien-être des animaux;
+- terminer le voyage ou renvoyer les animaux à leur lieu de départ par l’itinéraire le plus direct, pour autant que cette mesure ne risque pas de mettre en danger la santé ou le bien-être des animaux;
 
-2. héberger convenablement les animaux et leur donner les soins nécessaires, en cas d’interruption du voyage;
+- héberger convenablement les animaux et leur donner les soins nécessaires, en cas d’interruption du voyage;
 
-3. faire abattre les animaux. La destination et l’utilisation de ces animaux après abattage sont réglées:
+- faire abattre les animaux. La destination et l’utilisation de ces animaux après abattage sont réglées:
 
-- selon les dispositions prévues par le règlement grand-ducal du 7 juin 1996 relatif aux conditions sanitaires de production et de mise sur le marché de viandes fraîches ou,
+  - selon les dispositions prévues par le règlement grand-ducal du 7 juin 1996 relatif aux conditions sanitaires de production et de mise sur le marché de viandes fraîches ou,
 
-- selon les dispositions prévues par le règlement (CE) n° 1774/2002 du Parlement européen et du Conseil du 3 octobre 2002 établissant des règles sanitaires applicables aux sous-produits animaux non destinés à la consommation humaine.
+  - selon les dispositions prévues par le règlement (CE) n° 1774/2002 du Parlement européen et du Conseil du 3 octobre 2002 établissant des règles sanitaires applicables aux sous-produits animaux non destinés à la consommation humaine.
 
 Toutefois, dans le cas où il convient d’appliquer les dispositions prévues par le règlement (CE) n° 1774/2002 précité, un délai de régularisation doit être accordé au propriétaire ou à son mandataire avant de recourir à cette dernière possibilité. Dans ce cas, les dispositions du paragraphe 2 du présent article sont d’application.
 

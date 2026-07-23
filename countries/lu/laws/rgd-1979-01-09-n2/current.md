@@ -124,27 +124,27 @@ Tous les frais de contestation jugée mal fondée sont mis à charge de la parti
 
 Pour l’exécution du présent règlement il est tenu au greffe de chaque justice de paix un registre sur papier non timbré sur lequel sont inscrits:
 
-1. les demandes en saisie-arrêt avec mention de la date à laquelle elles ont été présentées, et des noms du débiteur saisi, du créancier saisissant et du tiers saisi;
+- les demandes en saisie-arrêt avec mention de la date à laquelle elles ont été présentées, et des noms du débiteur saisi, du créancier saisissant et du tiers saisi;
 
-2. les ordonnances portant autorisation ou refus de la saisie-arrêt;
+- les ordonnances portant autorisation ou refus de la saisie-arrêt;
 
-3. la date de la notification au tiers saisi ou à son représentant préposé au paiement des rémunérations de travail, pensions et rentes et l’indication de la personne à laquelle l’ordonnance a été adressée;
+- la date de la notification au tiers saisi ou à son représentant préposé au paiement des rémunérations de travail, pensions et rentes et l’indication de la personne à laquelle l’ordonnance a été adressée;
 
-4. la réquisition de la convocation des parties;
+- la réquisition de la convocation des parties;
 
-5. les arrangements intervenus;
+- les arrangements intervenus;
 
-6. les interventions des autres créanciers;
+- les interventions des autres créanciers;
 
-7. la déclaration faite par le tiers saisi;
+- la déclaration faite par le tiers saisi;
 
-8. la mention des avertissements et lettres recommandées transmises aux parties;
+- la mention des avertissements et lettres recommandées transmises aux parties;
 
-9. les décisions du juge de paix et les recours exercés contre elles ainsi que les décisions intervenues sur ces recours;
+- les décisions du juge de paix et les recours exercés contre elles ainsi que les décisions intervenues sur ces recours;
 
-10. la mention de la transmission du dossier de la saisie-arrêt au greffe d’une autre justice de paix en conformité de l’alinéa 2 de l’article 9 de la loi du 11 novembre 1970 ;
+- la mention de la transmission du dossier de la saisie-arrêt au greffe d’une autre justice de paix en conformité de l’alinéa 2 de l’article 9 de la loi du 11 novembre 1970 ;
 
-11. la date de la radiation ou de la demande tendant au maintien de la saisie.
+- la date de la radiation ou de la demande tendant au maintien de la saisie.
 
 Toutefois, la tenue d’un registre peut être remplacée par celle d’un fichier à feuilles mobiles, à condition que les demandes principales en saisies-arrêts contenant les indications prévues par le n° 1 de l’alinéa précédent soient inscrites de suite sur un registre spécial. Dans ce cas les arrangements amiables seront actés sur le plumitif d’audience.
 

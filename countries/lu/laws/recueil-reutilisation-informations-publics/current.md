@@ -35,57 +35,57 @@ Objet et champ d’application
 
 Afin de favoriser l’utilisation des données ouvertes et de stimuler l’innovation dans les produits et les services, la présente loi fixe un ensemble de règles concernant la réutilisation et les modalités pratiques destinées à faciliter la réutilisation :
 
-1. de documents existants détenus par des organismes du secteur public ;
+- de documents existants détenus par des organismes du secteur public ;
 
-2. de documents existants détenus par des entreprises publiques :
+- de documents existants détenus par des entreprises publiques :
 
-1. exerçant des activités dans les domaines définis dans le livre III de la loi modifiée du 8 avril 2018 sur les marchés publics ;
+  - exerçant des activités dans les domaines définis dans le livre III de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
-2. agissant en qualité d’opérateurs de services publics conformément à l’article 2, lettre d), du règlement (CE) n° 1370/2007 du Parlement européen et du Conseil du 23 octobre 2007 relatif aux services publics de transport de voyageurs par chemin de fer et par route, et abrogeant les règlements (CEE) n° 1191/69 et (CEE) n° 1107/70 du Conseil ;
+  - agissant en qualité d’opérateurs de services publics conformément à l’article 2, lettre d), du règlement (CE) n° 1370/2007 du Parlement européen et du Conseil du 23 octobre 2007 relatif aux services publics de transport de voyageurs par chemin de fer et par route, et abrogeant les règlements (CEE) n° 1191/69 et (CEE) n° 1107/70 du Conseil ;
 
-3. agissant en qualité de transporteurs aériens remplissant des obligations de service public conformément à l’article 16 du règlement (CE) n° 1008/2008 du Parlement européen et du Conseil du 24 septembre 2008 établissant des règles communes pour l’exploitation de services aériens dans la Communauté (refonte) ; ou
+  - agissant en qualité de transporteurs aériens remplissant des obligations de service public conformément à l’article 16 du règlement (CE) n° 1008/2008 du Parlement européen et du Conseil du 24 septembre 2008 établissant des règles communes pour l’exploitation de services aériens dans la Communauté (refonte) ; ou
 
-4. agissant en qualité d’armateurs communautaires remplissant des obligations de service public conformément à l’article 4 du règlement (CEE) n° 3577/92 du Conseil, du 7 décembre 1992, concernant l’application du principe de la libre circulation des services aux transports maritimes à l’intérieur des États membres (cabotage maritime) ;
+  - agissant en qualité d’armateurs communautaires remplissant des obligations de service public conformément à l’article 4 du règlement (CEE) n° 3577/92 du Conseil, du 7 décembre 1992, concernant l’application du principe de la libre circulation des services aux transports maritimes à l’intérieur des États membres (cabotage maritime) ;
 
-3. de données de la recherche, conformément aux conditions définies à l’article 10.
+- de données de la recherche, conformément aux conditions définies à l’article 10.
 
 (2)
 
 La présente loi ne s’applique pas :
 
-1. aux documents dont la fourniture est une activité qui ne relève pas de la mission de service public dévolue aux organismes du secteur public concernés ;
+- aux documents dont la fourniture est une activité qui ne relève pas de la mission de service public dévolue aux organismes du secteur public concernés ;
 
-2. aux documents détenus par des entreprises publiques :
+- aux documents détenus par des entreprises publiques :
 
-1. dont la production ne relève pas de la fourniture de services d’intérêt général ;
+  - dont la production ne relève pas de la fourniture de services d’intérêt général ;
 
-2. relatifs aux activités directement exposées à la concurrence et qui par conséquent, conformément à l’article 115 de la loi modifiée du 8 avril 2018 sur les marchés publics, ne sont pas soumises aux règles relatives à la passation des marchés ;
+  - relatifs aux activités directement exposées à la concurrence et qui par conséquent, conformément à l’article 115 de la loi modifiée du 8 avril 2018 sur les marchés publics, ne sont pas soumises aux règles relatives à la passation des marchés ;
 
-3. aux documents dont des tiers détiennent les droits de propriété intellectuelle ;
+- aux documents dont des tiers détiennent les droits de propriété intellectuelle ;
 
-4. aux documents, tels que les données sensibles, dont l’accès est exclu conformément aux règles d’accès en vigueur, y compris pour des motifs :
+- aux documents, tels que les données sensibles, dont l’accès est exclu conformément aux règles d’accès en vigueur, y compris pour des motifs :
 
-1. de protection de la sécurité nationale, défense ou sécurité publique ;
+  - de protection de la sécurité nationale, défense ou sécurité publique ;
 
-2. de confidentialité des données statistiques ;
+  - de confidentialité des données statistiques ;
 
-3. de confidentialité des informations commerciales ;
+  - de confidentialité des informations commerciales ;
 
-5. aux documents dont l’accès est exclu ou limité pour des motifs d’informations sensibles relatives à la protection des infrastructures critiques au sens de l’article 3, point d) du Règlement grand-ducal du 12 mars 2012 portant application de la directive 2008/114/CE du Conseil du 8 décembre 2008 concernant le recensement et la désignation des infrastructures critiques européennes ainsi que l’évaluation de la nécessité d’améliorer leur protection ;
+- aux documents dont l’accès est exclu ou limité pour des motifs d’informations sensibles relatives à la protection des infrastructures critiques au sens de l’article 3, point d) du Règlement grand-ducal du 12 mars 2012 portant application de la directive 2008/114/CE du Conseil du 8 décembre 2008 concernant le recensement et la désignation des infrastructures critiques européennes ainsi que l’évaluation de la nécessité d’améliorer leur protection ;
 
-6. aux documents dont l’accès est limité conformément aux règles d’accès en vigueur ;
+- aux documents dont l’accès est limité conformément aux règles d’accès en vigueur ;
 
-7. aux logos, aux armoiries ou aux insignes ;
+- aux logos, aux armoiries ou aux insignes ;
 
-8. aux documents dont l’accès est exclu ou limité en application de règles d’accès pour des motifs de protection des données à caractère personnel, et aux parties de documents accessibles en vertu desdites règles qui contiennent des données à caractère personnel dont la réutilisation a été définie par la loi comme étant incompatible avec la législation concernant la protection des personnes physiques à l’égard du traitement des données à caractère personnel ou comme portant atteinte à la protection de la vie privée et de l’intégrité de la personne concernée ;
+- aux documents dont l’accès est exclu ou limité en application de règles d’accès pour des motifs de protection des données à caractère personnel, et aux parties de documents accessibles en vertu desdites règles qui contiennent des données à caractère personnel dont la réutilisation a été définie par la loi comme étant incompatible avec la législation concernant la protection des personnes physiques à l’égard du traitement des données à caractère personnel ou comme portant atteinte à la protection de la vie privée et de l’intégrité de la personne concernée ;
 
-9. aux documents détenus par des radiodiffuseurs de service public et leurs filiales et par d’autres organismes ou leurs filiales pour l’accomplissement d’une mission de radiodiffusion de service public ;
+- aux documents détenus par des radiodiffuseurs de service public et leurs filiales et par d’autres organismes ou leurs filiales pour l’accomplissement d’une mission de radiodiffusion de service public ;
 
-10. aux documents détenus par des établissements culturels autres que des bibliothèques, y compris des bibliothèques universitaires, des musées et des archives ;
+- aux documents détenus par des établissements culturels autres que des bibliothèques, y compris des bibliothèques universitaires, des musées et des archives ;
 
-11. aux documents détenus par des établissements d’enseignement de niveau secondaire et au-dessous et, dans le cas de tous les autres établissements d’enseignement, aux documents autres que ceux visés au paragraphe 1 er , point 3° ;
+- aux documents détenus par des établissements d’enseignement de niveau secondaire et au-dessous et, dans le cas de tous les autres établissements d’enseignement, aux documents autres que ceux visés au paragraphe 1 er , point 3° ;
 
-12. aux documents autres que ceux visés au paragraphe 1 er , point 3°, détenus par des organismes exerçant une activité de recherche et des organisations finançant une activité de recherche, y compris des organisations créées pour le transfert des résultats de la recherche.
+- aux documents autres que ceux visés au paragraphe 1 er , point 3°, détenus par des organismes exerçant une activité de recherche et des organisations finançant une activité de recherche, y compris des organisations créées pour le transfert des résultats de la recherche.
 
 (3)
 
@@ -114,59 +114,59 @@ Définitions
 
 Aux fins de la présente loi, on entend par :
 
-1. « organismes du secteur public » : l’État, les communes, les organismes de droit public ou les associations formées par une ou plusieurs de ces autorités ou un ou plusieurs de ces organismes de droit public ;
+- « organismes du secteur public » : l’État, les communes, les organismes de droit public ou les associations formées par une ou plusieurs de ces autorités ou un ou plusieurs de ces organismes de droit public ;
 
-2. « organismes de droit public » : les organismes présentant toutes les caractéristiques suivantes :
+- « organismes de droit public » : les organismes présentant toutes les caractéristiques suivantes :
 
-1. ils ont été créés pour satisfaire spécifiquement des besoins d’intérêt général ayant un caractère autre qu’industriel ou commercial ;
+  - ils ont été créés pour satisfaire spécifiquement des besoins d’intérêt général ayant un caractère autre qu’industriel ou commercial ;
 
-2. ils sont dotés de la personnalité juridique ; et
+  - ils sont dotés de la personnalité juridique ; et
 
-3. soit ils sont financés majoritairement par l’État, les communes ou d’autres organismes de droit public, soit leur gestion est soumise à un contrôle de ces autorités ou organismes, soit leur organe d’administration, de direction ou de surveillance est composé de membres dont plus de la moitié sont désignés par l’État, les communes ou d’autres organismes de droit public ;
+  - soit ils sont financés majoritairement par l’État, les communes ou d’autres organismes de droit public, soit leur gestion est soumise à un contrôle de ces autorités ou organismes, soit leur organe d’administration, de direction ou de surveillance est composé de membres dont plus de la moitié sont désignés par l’État, les communes ou d’autres organismes de droit public ;
 
-3. « entreprise publique » : toute entreprise active dans les domaines visés à l’article 1 er , paragraphe 1 er , point 2°, et sur laquelle les organismes du secteur public peuvent exercer directement ou indirectement une influence dominante du fait de la propriété de l’entreprise, de la participation financière qu’ils y détiennent ou des règles qui la régissent. Une influence dominante des organismes du secteur public sur l’entreprise est présumée dans tous les cas suivants lorsque ces organismes, directement ou indirectement :
+- « entreprise publique » : toute entreprise active dans les domaines visés à l’article 1 er , paragraphe 1 er , point 2°, et sur laquelle les organismes du secteur public peuvent exercer directement ou indirectement une influence dominante du fait de la propriété de l’entreprise, de la participation financière qu’ils y détiennent ou des règles qui la régissent. Une influence dominante des organismes du secteur public sur l’entreprise est présumée dans tous les cas suivants lorsque ces organismes, directement ou indirectement :
 
-1. détiennent la majorité du capital souscrit de l’entreprise ;
+  - détiennent la majorité du capital souscrit de l’entreprise ;
 
-2. disposent de la majorité des voix attachées aux parts émises par l’entreprise ;
+  - disposent de la majorité des voix attachées aux parts émises par l’entreprise ;
 
-3. peuvent désigner plus de la moitié des membres de l’organe d’administration, de direction ou de surveillance de l’entreprise ;
+  - peuvent désigner plus de la moitié des membres de l’organe d’administration, de direction ou de surveillance de l’entreprise ;
 
-4. « université » : un organisme du secteur public dispensant un enseignement supérieur post-secondaire sanctionné par des diplômes universitaires ;
+- « université » : un organisme du secteur public dispensant un enseignement supérieur post-secondaire sanctionné par des diplômes universitaires ;
 
-5. « licence type » : une série de conditions de réutilisation prédéfinies dans un format numérique, de préférence compatible avec des licences publiques normalisées disponibles en ligne ;
+- « licence type » : une série de conditions de réutilisation prédéfinies dans un format numérique, de préférence compatible avec des licences publiques normalisées disponibles en ligne ;
 
-6. « document » :
+- « document » :
 
-1. tout contenu quel que soit son support ; ou
+  - tout contenu quel que soit son support ; ou
 
-2. toute partie de ce contenu ;
+  - toute partie de ce contenu ;
 
-7. « anonymisation » : le processus de transformation des documents en documents anonymes ne permettant pas de remonter à une personne physique identifiée ou identifiable, ou le processus consistant à rendre anonymes des données à caractère personnel de telle sorte que la personne concernée ne soit pas ou plus identifiable ;
+- « anonymisation » : le processus de transformation des documents en documents anonymes ne permettant pas de remonter à une personne physique identifiée ou identifiable, ou le processus consistant à rendre anonymes des données à caractère personnel de telle sorte que la personne concernée ne soit pas ou plus identifiable ;
 
-8. « données dynamiques » : des documents se présentant sous forme numérique et faisant l’objet d’actualisations fréquentes ou en temps réel, notamment à cause de leur volatilité ou de leur obsolescence rapide ; les données émanant de capteurs sont typiquement considérées comme étant des données dynamiques ;
+- « données dynamiques » : des documents se présentant sous forme numérique et faisant l’objet d’actualisations fréquentes ou en temps réel, notamment à cause de leur volatilité ou de leur obsolescence rapide ; les données émanant de capteurs sont typiquement considérées comme étant des données dynamiques ;
 
-9. « données de la recherche » : des documents se présentant sous forme numérique, autres que des publications scientifiques, qui sont recueillis ou produits au cours d’activités de recherche scientifique et utilisés comme éléments probants dans le processus de recherche, ou dont la communauté scientifique admet communément qu’ils sont nécessaires pour valider des conclusions et résultats de la recherche ;
+- « données de la recherche » : des documents se présentant sous forme numérique, autres que des publications scientifiques, qui sont recueillis ou produits au cours d’activités de recherche scientifique et utilisés comme éléments probants dans le processus de recherche, ou dont la communauté scientifique admet communément qu’ils sont nécessaires pour valider des conclusions et résultats de la recherche ;
 
-10. « ensembles de données de forte valeur » : des documents dont la réutilisation est associée à d’importantes retombées positives au niveau de la société, de l’environnement et de l’économie, en particulier parce qu’ils se prêtent à la création de services possédant une valeur ajoutée, d’applications et de nouveaux emplois décents et de grande qualité, ainsi qu’en raison du nombre de bénéficiaires potentiels des services et applications à valeur ajoutée fondés sur ces ensembles de données ;
+- « ensembles de données de forte valeur » : des documents dont la réutilisation est associée à d’importantes retombées positives au niveau de la société, de l’environnement et de l’économie, en particulier parce qu’ils se prêtent à la création de services possédant une valeur ajoutée, d’applications et de nouveaux emplois décents et de grande qualité, ainsi qu’en raison du nombre de bénéficiaires potentiels des services et applications à valeur ajoutée fondés sur ces ensembles de données ;
 
-11. « réutilisation » : l’utilisation par des personnes physiques ou morales de documents détenus par :
+- « réutilisation » : l’utilisation par des personnes physiques ou morales de documents détenus par :
 
-1. des organismes du secteur public, à des fins commerciales ou non commerciales autres que l’objectif initial de la mission de service public pour lequel les documents ont été produits, à l’exception de l’échange de documents entre des organismes du secteur public aux seules fins de l’exercice de leur mission de service public ; ou
+  - des organismes du secteur public, à des fins commerciales ou non commerciales autres que l’objectif initial de la mission de service public pour lequel les documents ont été produits, à l’exception de l’échange de documents entre des organismes du secteur public aux seules fins de l’exercice de leur mission de service public ; ou
 
-2. des entreprises publiques, à des fins commerciales ou non commerciales autres que l’objectif initial de fournir les services d’intérêt général pour lequel les documents ont été produits, à l’exception de l’échange de documents entre des entreprises publiques et des organismes du secteur public aux seules fins de l’exercice de leur mission de service public ;
+  - des entreprises publiques, à des fins commerciales ou non commerciales autres que l’objectif initial de fournir les services d’intérêt général pour lequel les documents ont été produits, à l’exception de l’échange de documents entre des entreprises publiques et des organismes du secteur public aux seules fins de l’exercice de leur mission de service public ;
 
-12. « données à caractère personnel » : les données à caractère personnel telles qu’elles sont définies à l’article 4, point 1), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016, relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ;
+- « données à caractère personnel » : les données à caractère personnel telles qu’elles sont définies à l’article 4, point 1), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016, relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ;
 
-13. « format lisible par machine » : un format de fichier structuré de telle manière que des applications logicielles puissent facilement identifier, reconnaître et extraire des données spécifiques, notamment chaque énoncé d’un fait et sa structure interne ;
+- « format lisible par machine » : un format de fichier structuré de telle manière que des applications logicielles puissent facilement identifier, reconnaître et extraire des données spécifiques, notamment chaque énoncé d’un fait et sa structure interne ;
 
-14. « format ouvert » : un format de fichier indépendant des plates-formes utilisées et mis à la disposition du public sans restriction empêchant la réutilisation des documents ;
+- « format ouvert » : un format de fichier indépendant des plates-formes utilisées et mis à la disposition du public sans restriction empêchant la réutilisation des documents ;
 
-15. « norme formelle ouverte » : une norme établie par écrit, précisant en détail les exigences relatives à la manière d’assurer l’interopérabilité des logiciels ;
+- « norme formelle ouverte » : une norme établie par écrit, précisant en détail les exigences relatives à la manière d’assurer l’interopérabilité des logiciels ;
 
-16. « retour sur investissement raisonnable » : un pourcentage de la redevance globale, en sus du montant nécessaire au recouvrement des coûts éligibles, ne dépassant pas de plus de cinq points de pourcentage le taux d’intérêt fixe de la Banque centrale européenne ;
+- « retour sur investissement raisonnable » : un pourcentage de la redevance globale, en sus du montant nécessaire au recouvrement des coûts éligibles, ne dépassant pas de plus de cinq points de pourcentage le taux d’intérêt fixe de la Banque centrale européenne ;
 
-17. « tiers » : toute personne physique ou morale autre qu’un organisme du secteur public ou une entreprise publique qui détient les données.
+- « tiers » : toute personne physique ou morale autre qu’un organisme du secteur public ou une entreprise publique qui détient les données.
 
 <a id="art-n101f8"></a>
 ## Art. 3.
@@ -214,9 +214,9 @@ Les documents disponibles en vue d’une réutilisation, les conditions éventue
 
 Les entités suivantes ne sont pas tenues de se conformer aux exigences du présent article :
 
-1. les entreprises publiques ;
+- les entreprises publiques ;
 
-2. les établissements d’enseignement, les organismes exerçant une activité de recherche et les organisations finançant une activité de recherche.
+- les établissements d’enseignement, les organismes exerçant une activité de recherche et les organisations finançant une activité de recherche.
 
 <a id="art-n102b1"></a>
 ## Art. 5.
@@ -275,11 +275,11 @@ Toutefois, le recouvrement des coûts marginaux occasionnés par la reproduction
 
 Par dérogation, le paragraphe 1er ne s’applique pas :
 
-1. aux organismes du secteur public tenus, en vertu de la loi, de générer des recettes destinées à couvrir une part substantielle des coûts liés à l’accomplissement de leurs missions de service public ;
+- aux organismes du secteur public tenus, en vertu de la loi, de générer des recettes destinées à couvrir une part substantielle des coûts liés à l’accomplissement de leurs missions de service public ;
 
-2. aux bibliothèques, y compris les bibliothèques universitaires, aux musées et aux archives ;
+- aux bibliothèques, y compris les bibliothèques universitaires, aux musées et aux archives ;
 
-3. aux entreprises publiques.
+- aux entreprises publiques.
 
 (3)
 
@@ -299,9 +299,9 @@ Les redevances sont calculées conformément aux principes comptables applicable
 
 La réutilisation des éléments suivantes est gratuite pour l’utilisateur :
 
-1. sous réserve de l’article 13, paragraphes 2 et 3, les ensembles de données de forte valeur, dont la liste est établie conformément à l’article 13, paragraphe 1 er ;
+- sous réserve de l’article 13, paragraphes 2 et 3, les ensembles de données de forte valeur, dont la liste est établie conformément à l’article 13, paragraphe 1 er ;
 
-2. les données de la recherche visées à l’article 1 er , paragraphe 1 er , point 3°.
+- les données de la recherche visées à l’article 1 er , paragraphe 1 er , point 3°.
 
 <a id="art-n103f9"></a>
 ## Art. 8.
@@ -385,13 +385,13 @@ Ensembles de données spécifiques de forte valeur et modalités de publication 
 
 Les ensembles spécifiques de données de forte valeur tels que définis par la Commission européenne dans les actes d’exécution pris conformément à la directive (UE) 2019/1024 du Parlement européen et du Conseil du 20 juin 2019 concernant les données ouvertes et la réutilisation des informations du secteur public (refonte), relevant des catégories figurant à l’annexe I de la directive (UE) 2019/1024 précitée et détenus par des organismes du secteur public et des entreprises publiques
 
-1. sont mis à disposition gratuitement, sous réserve des paragraphes 2 et 3 ;
+- sont mis à disposition gratuitement, sous réserve des paragraphes 2 et 3 ;
 
-2. sont lisibles par machine ;
+- sont lisibles par machine ;
 
-3. sont fournis en recourant à des API ; et
+- sont fournis en recourant à des API ; et
 
-4. sont fournis sous la forme d’un téléchargement de masse, le cas échéant.
+- sont fournis sous la forme d’un téléchargement de masse, le cas échéant.
 
 (2)
 
@@ -422,25 +422,25 @@ Le présent règlement fixe des critères objectifs, transparents et vérifiable
 
 Les coûts pris en compte pour le calcul des redevances sont les suivants :
 
-1. coûts liés à la création des données :
+- coûts liés à la création des données :
 
-1. production : génération des données et métadonnées, contrôle de qualité, encodage, conversion de documents en format numérique ;
+  - production : génération des données et métadonnées, contrôle de qualité, encodage, conversion de documents en format numérique ;
 
-2. collecte : regroupement et tri des données ;
+  - collecte : regroupement et tri des données ;
 
-3. anonymisation : suppression, obscurcissement, appauvrissement des bases de données.
+  - anonymisation : suppression, obscurcissement, appauvrissement des bases de données.
 
-2. coûts liés à la diffusion des données :
+- coûts liés à la diffusion des données :
 
-1. infrastructure : développement, maintenance logicielle, maintenance matérielle ;
+  - infrastructure : développement, maintenance logicielle, maintenance matérielle ;
 
-2. duplication : coûts liés au transfert de données sur un support durable ;
+  - duplication : coûts liés au transfert de données sur un support durable ;
 
-3. gestion : matériel d’emballage, préparation de la commande ;
+  - gestion : matériel d’emballage, préparation de la commande ;
 
-4. consultation : communications téléphoniques et échange de messages électroniques avec les utilisateurs, coûts du service à la clientèle ;
+  - consultation : communications téléphoniques et échange de messages électroniques avec les utilisateurs, coûts du service à la clientèle ;
 
-5. livraison : coûts du port, qu’il s’agisse d’affranchissement standard ou de messagerie rapide.
+  - livraison : coûts du port, qu’il s’agisse d’affranchissement standard ou de messagerie rapide.
 
 <a id="art-n10602"></a>
 ## Art. 3.

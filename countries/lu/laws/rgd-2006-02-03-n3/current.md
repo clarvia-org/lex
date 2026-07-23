@@ -197,7 +197,7 @@ Le service communique à la fin de chaque trimestre au ministre ayant le service
 
 (2)
 
-Le ministre ayant le service dans ses attributions désigne des agents chargés du contrôle interne de la gestion financière et comptable du service et décide des modalités et des méthodes du contrôle interne, qui sont à communiquer au ministre ayant le Budget dans ses attributions. Un contrôle tel que prévu par la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État dans son article 24 est à mettre en place lorsque les dépenses du Service ont dépassé le seuil de 10 000 000 euros lors des deux exercices précédents.
+Le ministre ayant le service dans ses attributions désigne des agents chargés du contrôle interne de la gestion financière et comptable du service et décide des modalités et des méthodes du contrôle interne , qui sont à communiquer au ministre ayant le Budget dans ses attributions. Un contrôle tel que prévu par la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État dans son article 24 est à mettre en place lorsque les dépenses du Service ont dépassé le seuil de 10 000 000 euros lors des deux exercices précédents.
 
 (3)
 

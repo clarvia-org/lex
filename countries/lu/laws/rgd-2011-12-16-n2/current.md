@@ -81,23 +81,23 @@ Pour le tir des espèces ramier, lapin, fouine, renard, raton laveur, chien vive
 
 Sans préjudice des autorisations requises en vertu des lois et règlements existants, peuvent être utilisés comme moyens auxiliaires lors de l’exercice de la chasse:
 
-1. les chiens;
+- les chiens;
 
-2. les furets;
+- les furets;
 
-3. les appeaux autres que mécaniques ou électroniques;
+- les appeaux autres que mécaniques ou électroniques;
 
-4. les amplificateurs d’images optiques avec ou sans système de visée électrique;
+- les amplificateurs d’images optiques avec ou sans système de visée électrique;
 
-5. les affûts et miradors;
+- les affûts et miradors;
 
-6. les écrans ou paillassons;
+- les écrans ou paillassons;
 
-7. les couteaux de chasse;
+- les couteaux de chasse;
 
-8. les épieux;
+- les épieux;
 
-9. les imitations d’oiseaux.
+- les imitations d’oiseaux.
 
 <a id="art-7"></a>
 ## Art. 7.

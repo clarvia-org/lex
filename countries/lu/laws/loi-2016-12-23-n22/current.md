@@ -74,73 +74,73 @@ Communication de renseignements d’autres autorités
 
 Afin de lui permettre de contrôler si les conditions d’octroi des aides au logement sont remplies et afin de lui permettre de vérifier l’exactitude et l’authenticité des données et des pièces fournies par les demandeurs et les bénéficiaires d’aides relatives au logement, le ministre ayant le Logement dans ses attributions peut demander, pour chacune des personnes concernées :
 
-1. à l’Administration des contributions directes la transmission des données suivantes pour une année fiscale donnée :
+- à l’Administration des contributions directes la transmission des données suivantes pour une année fiscale donnée :
 
-1. le nom, le prénom, le numéro d’identification national et l’adresse de la personne concernée ;
+  - le nom, le prénom, le numéro d’identification national et l’adresse de la personne concernée ;
 
-2. l’indication si la personne concernée est propriétaire d’un ou de plusieurs logements selon les informations enregistrées par le service des évaluations immobilières de l’Administration des contributions directes ;
+  - l’indication si la personne concernée est propriétaire d’un ou de plusieurs logements selon les informations enregistrées par le service des évaluations immobilières de l’Administration des contributions directes ;
 
-3. l’indication s’il s’agit d’une imposition individuelle ou collective ;
+  - l’indication s’il s’agit d’une imposition individuelle ou collective ;
 
-4. le montant du revenu imposable tel que défini à l’article 7, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, les montants des revenus nets par catégorie de revenus énumérées à l’article 10 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, les revenus exonérés incorporés par catégorie de revenus dans une base imposable fictive selon l’article 134 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ainsi que le montant total des dépenses spéciales telles que définies à l’article 109 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
+  - le montant du revenu imposable tel que défini à l’article 7, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, les montants des revenus nets par catégorie de revenus énumérées à l’article 10 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, les revenus exonérés incorporés par catégorie de revenus dans une base imposable fictive selon l’article 134 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ainsi que le montant total des dépenses spéciales telles que définies à l’article 109 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
 
-2. à l’Administration du cadastre et de la topographie la transmission des données suivantes :
+- à l’Administration du cadastre et de la topographie la transmission des données suivantes :
 
-1. l’indication si la personne concernée est propriétaire d’un ou de plusieurs logements ;
+  - l’indication si la personne concernée est propriétaire d’un ou de plusieurs logements ;
 
-2. le titre de propriété du logement ;
+  - le titre de propriété du logement ;
 
-3. les données techniques du logement ;
+  - les données techniques du logement ;
 
-3. à l’Administration de l’enregistrement, des domaines et de la TVA la transmission des données suivantes :
+- à l’Administration de l’enregistrement, des domaines et de la TVA la transmission des données suivantes :
 
-1. l’indication si la personne concernée est propriétaire d’un ou de plusieurs logements ;
+  - l’indication si la personne concernée est propriétaire d’un ou de plusieurs logements ;
 
-2. le titre de propriété du logement ;
+  - le titre de propriété du logement ;
 
-3. les données techniques du logement ;
+  - les données techniques du logement ;
 
-4. au Centre commun de la sécurité sociale sur la base de l’article 413 du Code de la sécurité sociale les renseignements pertinents pour déterminer le revenu des demandeurs et des bénéficiaires d’aides relatives au logement ;
+- au Centre commun de la sécurité sociale sur la base de l’article 413 du Code de la sécurité sociale les renseignements pertinents pour déterminer le revenu des demandeurs et des bénéficiaires d’aides relatives au logement ;
 
-5. au Fonds national de solidarité les informations nécessaires pour déterminer les revenus des demandeurs et bénéficiaires d’aides relatives au logement ;
+- au Fonds national de solidarité les informations nécessaires pour déterminer les revenus des demandeurs et bénéficiaires d’aides relatives au logement ;
 
-6. à la Caisse pour l’avenir des enfants les informations nécessaires afin de déterminer l’attributaire d’une allocation familiale au bénéfice des enfants vivant dans le ménage des demandeurs et des bénéficiaires d’aides relatives au logement.
+- à la Caisse pour l’avenir des enfants les informations nécessaires afin de déterminer l’attributaire d’une allocation familiale au bénéfice des enfants vivant dans le ménage des demandeurs et des bénéficiaires d’aides relatives au logement.
 
 (2)
 
 Les ministres ont droit à la communication de renseignements à partir des fichiers suivants :
 
-1. le registre national au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques et le répertoire général au sens de la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales pour vérifier pour un demandeur ou bénéficiaire d’aides relatives au logement les données à caractère personnel suivantes :
+- le registre national au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques et le répertoire général au sens de la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales pour vérifier pour un demandeur ou bénéficiaire d’aides relatives au logement les données à caractère personnel suivantes :
 
-1. les nom et prénom ;
+  - les nom et prénom ;
 
-2. le numéro d’identification national ;
+  - le numéro d’identification national ;
 
-3. la situation de famille et la composition du ménage ;
+  - la situation de famille et la composition du ménage ;
 
-4. le sexe ;
+  - le sexe ;
 
-5. les date et lieu de naissance ;
+  - les date et lieu de naissance ;
 
-6. la date de décès ;
+  - la date de décès ;
 
-7. l’état civil ;
+  - l’état civil ;
 
-8. le domicile et la résidence habituelle, mentionnant la localité, la rue et le numéro d’immeuble, le cas échéant, le numéro d’ordre établi en exécution de la loi modifiée du 19 mars 1988 sur la publicité foncière en matière de copropriété ou toute précision supplémentaire quant à l’immeuble dans lequel se situe le logement ;
+  - le domicile et la résidence habituelle, mentionnant la localité, la rue et le numéro d’immeuble, le cas échéant, le numéro d’ordre établi en exécution de la loi modifiée du 19 mars 1988 sur la publicité foncière en matière de copropriété ou toute précision supplémentaire quant à l’immeuble dans lequel se situe le logement ;
 
-2. le fichier de l’Administration des contributions directes pour vérifier si la personne concernée est propriétaire d’un ou de plusieurs logements selon les informations enregistrées par le service des évaluations immobilières de l’Administration des contributions directes ;
+- le fichier de l’Administration des contributions directes pour vérifier si la personne concernée est propriétaire d’un ou de plusieurs logements selon les informations enregistrées par le service des évaluations immobilières de l’Administration des contributions directes ;
 
-3. le fichier de l’Administration du cadastre et de la topographie pour vérifier le respect des conditions légales pour l’octroi ou le maintien d’une aide au logement relatives au patrimoine immobilier des demandeurs et des bénéficiaires d’aides relatives au logement, et ceci moyennant la transmission des données à caractère personnel suivantes :
+- le fichier de l’Administration du cadastre et de la topographie pour vérifier le respect des conditions légales pour l’octroi ou le maintien d’une aide au logement relatives au patrimoine immobilier des demandeurs et des bénéficiaires d’aides relatives au logement, et ceci moyennant la transmission des données à caractère personnel suivantes :
 
-1. le titre de propriété du logement ;
+  - le titre de propriété du logement ;
 
-2. les données techniques du logement ;
+  - les données techniques du logement ;
 
-4. le fichier de l’Administration de l’enregistrement, des domaines et de la TVA pour vérifier le respect des conditions légales pour l’octroi ou le maintien d’une aide au logement relatives au patrimoine immobilier y compris la provenance des demandeurs et des bénéficiaires d’aides relatives au logement, et ceci moyennant la transmission des données à caractère personnel suivantes :
+- le fichier de l’Administration de l’enregistrement, des domaines et de la TVA pour vérifier le respect des conditions légales pour l’octroi ou le maintien d’une aide au logement relatives au patrimoine immobilier y compris la provenance des demandeurs et des bénéficiaires d’aides relatives au logement, et ceci moyennant la transmission des données à caractère personnel suivantes :
 
-1. le titre de propriété du logement ;
+  - le titre de propriété du logement ;
 
-2. les données techniques du logement.
+  - les données techniques du logement.
 
 (3)
 
@@ -171,11 +171,11 @@ Seules peuvent être consultées les données à caractère personnel ayant un l
 
 Le système informatique par lequel l’accès ou le traitement des données à caractère personnel sont opérés est aménagé de la manière suivante :
 
-1. l’accès aux renseignements est sécurisé moyennant une authentification forte ;
+- l’accès aux renseignements est sécurisé moyennant une authentification forte ;
 
-2. tout traitement des données reprises dans les banques et fichiers de données à caractère personnel gérés par les ministres ou des renseignements auxquels les ministres ont accès, ainsi que toute consultation de ces données, ne peut avoir lieu que pour un motif précis. La date et l’heure de tout traitement ou consultation, le lien par rapport à un dossier en cours ainsi que l’identité de la personne qui y a procédé peuvent être retracées dans le système informatique mis en place ;
+- tout traitement des données reprises dans les banques et fichiers de données à caractère personnel gérés par les ministres ou des renseignements auxquels les ministres ont accès, ainsi que toute consultation de ces données, ne peut avoir lieu que pour un motif précis. La date et l’heure de tout traitement ou consultation, le lien par rapport à un dossier en cours ainsi que l’identité de la personne qui y a procédé peuvent être retracées dans le système informatique mis en place ;
 
-3. les données de journalisation sont conservées pendant un délai de trois ans à partir de leur enregistrement, délai après lequel elles sont effacées.
+- les données de journalisation sont conservées pendant un délai de trois ans à partir de leur enregistrement, délai après lequel elles sont effacées.
 
 #### Chapitre II Le contrôle des conditions d’octroi des aides relatives au logement
 

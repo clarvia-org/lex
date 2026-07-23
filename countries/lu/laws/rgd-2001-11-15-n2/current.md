@@ -34,11 +34,11 @@ Le présent règlement détermine les modalités de rémunération des employés
 <a id="art-2"></a>
 ## Art. 2.
 
-1. Dans les dispositions du présent règlement l’expression « le règlement du 4 avril 1964 » désigne le règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes à ceux des fonctionnaires de l’Etat.
+- Dans les dispositions du présent règlement l’expression « le règlement du 4 avril 1964 » désigne le règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes à ceux des fonctionnaires de l’Etat.
 
-2. Les termes de « conseil communal », « collège des bourgmestre et échevins » et « bourgmestre », tels qu’il sont utilisés par la suite, désignent les organes définis à l’article 1er de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux.
+- Les termes de « conseil communal », « collège des bourgmestre et échevins » et « bourgmestre », tels qu’il sont utilisés par la suite, désignent les organes définis à l’article 1er de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux.
 
-3. Les termes « employé » et « employés » désignent dans le corps du présent règlement, les employés communaux tels qu’ils sont visés à l’article premier ci-avant.
+- Les termes « employé » et « employés » désignent dans le corps du présent règlement, les employés communaux tels qu’ils sont visés à l’article premier ci-avant.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -63,17 +63,17 @@ Sont applicables aux employés communaux les dispositions suivantes du règlemen
 <a id="art-5"></a>
 ## Art. 5.
 
-1. La rémunération revenant à un employé communal en début de carrière est calculée conformément aux dispositions de l’article 3, alinéa 1er et de l’article 7, paragraphes 2, 3, 4, 5 et 6 du règlement du 4 avril 1964 , sans préjudice du paragraphe 2.du présent article.
+- La rémunération revenant à un employé communal en début de carrière est calculée conformément aux dispositions de l’article 3, alinéa 1er et de l’article 7, paragraphes 2, 3, 4, 5 et 6 du règlement du 4 avril 1964 , sans préjudice du paragraphe 2.du présent article.
 
-2. Toutefois pour l’employé communal de la carrière E, le grade 7 constitue le grade de computation d’ancienneté de service.
+- Toutefois pour l’employé communal de la carrière E, le grade 7 constitue le grade de computation d’ancienneté de service.
 
-1. L’expression « début de carrière » se substitue à celle de « nomination définitive » et le grade fixé comme grade de début de carrière est considéré comme grade normal de début de carrière et grade de computation de la bonification d’ancienneté de service.
+  - L’expression « début de carrière » se substitue à celle de « nomination définitive » et le grade fixé comme grade de début de carrière est considéré comme grade normal de début de carrière et grade de computation de la bonification d’ancienneté de service.
 
-2. Le second alinéa du paragraphe 6 de l’article 7 du règlement du 4 avril 1964 n’est pas applicable.
+  - Le second alinéa du paragraphe 6 de l’article 7 du règlement du 4 avril 1964 n’est pas applicable.
 
-3. La rémunération de l’employé communal n’appartenant pas à l’une des carrières définies à l’article 27 du présent règlement, est fixée par le conseil communal sous l’approbation du Ministre de l’Intérieur.
+- La rémunération de l’employé communal n’appartenant pas à l’une des carrières définies à l’article 27 du présent règlement, est fixée par le conseil communal sous l’approbation du Ministre de l’Intérieur.
 
-4. L’indemnité de l’employé communal occupé à temps partiel est fixée en pourcentage de celle due pour une occupation à plein temps.
+- L’indemnité de l’employé communal occupé à temps partiel est fixée en pourcentage de celle due pour une occupation à plein temps.
 
 #### Chapitre II Dispositions concernant les employés administratifs et techniques
 
@@ -150,34 +150,34 @@ Pour la détermination des grades de début de carrière, il est renvoyé aux ta
 
 Pour les employés des carrières déterminées au chapitre VI du présent règlement les dispositions suivantes sont applicables :
 
-1. Pour les employés de la carrière A qui ont réussi à l’examen de carrière, le grade 3 est allongé d’un échelon supplémentaire ayant l’indice 209.
+- Pour les employés de la carrière A qui ont réussi à l’examen de carrière, le grade 3 est allongé d’un échelon supplémentaire ayant l’indice 209.
 
-2. Pour les employés de la carrière B1 le grade 7 est allongé d’un échelon supplémentaire ayant l’indice 266.
+- Pour les employés de la carrière B1 le grade 7 est allongé d’un échelon supplémentaire ayant l’indice 266.
 
-3. Pour les employés de la carrière C qui n’ont pas réussi à l’examen de carrière le grade 7 est allongé d’un échelon supplémentaire ayant l’indice 266.
+- Pour les employés de la carrière C qui n’ont pas réussi à l’examen de carrière le grade 7 est allongé d’un échelon supplémentaire ayant l’indice 266.
 
-4. Pour les employés de la carrière D qui n’ont pas réussi à l’examen de carrière le grade 9 est allongé de trois échelons supplémentaires ayant les indices 326, 338 et 350.
+- Pour les employés de la carrière D qui n’ont pas réussi à l’examen de carrière le grade 9 est allongé de trois échelons supplémentaires ayant les indices 326, 338 et 350.
 
-5. Pour les employés de la carrière E, qui n’ont pas réussi à l’examen de carrière, le grade 11 est allongé d’un échelon supplémentaire ayant l’indice 395.
+- Pour les employés de la carrière E, qui n’ont pas réussi à l’examen de carrière, le grade 11 est allongé d’un échelon supplémentaire ayant l’indice 395.
 
-6. Pour les employés de la carrière S le grade 14 est allongé d’un échelon supplémentaire ayant l’indice 485.
+- Pour les employés de la carrière S le grade 14 est allongé d’un échelon supplémentaire ayant l’indice 485.
 
 <a id="art-17"></a>
 ## Art. 17.
 
 Sur demande de l’employé communal et à condition que ce dernier ait accompli au cours de sa carrière au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut National d’Administration Publique, ou d’en avoir été dispensé pour des raisons dûment motivées par le Ministre de l’Intérieur, le collège des bourgmestre et échevins peut, sous l’approbation du Ministre de l’Intérieur, accorder le bénéfice des allongements de grade ci-après :
 
-1. Pour les employés de la carrière A le grade 3 peut être allongé par deux échelons ayant les indices 216 et 222.
+- Pour les employés de la carrière A le grade 3 peut être allongé par deux échelons ayant les indices 216 et 222.
 
-2. Pour les employés de la carrière B le grade 6 peut être allongé par deux échelons ayant les indices 251 et 259.
+- Pour les employés de la carrière B le grade 6 peut être allongé par deux échelons ayant les indices 251 et 259.
 
-3. Pour les employés de la carrière B1 le grade 7 peut être allongé de deux échelons ayant les indices 275 et 282.
+- Pour les employés de la carrière B1 le grade 7 peut être allongé de deux échelons ayant les indices 275 et 282.
 
-4. Pour les employés de la carrière C le grade 8 peut être allongé par deux échelons ayant les indices 308 et 317.
+- Pour les employés de la carrière C le grade 8 peut être allongé par deux échelons ayant les indices 308 et 317.
 
-5. Pour les employés des carrières D et E, le grade 12 peut être allongé de deux échelons supplémentaires ayant les indices 425 et 435.
+- Pour les employés des carrières D et E, le grade 12 peut être allongé de deux échelons supplémentaires ayant les indices 425 et 435.
 
-6. Pour les employés de la carrière S le grade 14 allongé peut être allongé par l’échelon ayant l’indice 500. Les employés de cette carrière remplissant les conditions prévues au présent article et classés au grade 14 peuvent bénéficier d’un avancement au grade 15. Les décisions y relatives sont prises par le conseil communal sous l’approbation du Ministre de l’Intérieur.
+- Pour les employés de la carrière S le grade 14 allongé peut être allongé par l’échelon ayant l’indice 500. Les employés de cette carrière remplissant les conditions prévues au présent article et classés au grade 14 peuvent bénéficier d’un avancement au grade 15. Les décisions y relatives sont prises par le conseil communal sous l’approbation du Ministre de l’Intérieur.
 
 Par dérogation à l’alinéa 1er du présent article, les employés en activité de service au moment de l’entrée en vigueur du présent règlement et dont l’accomplissement d’au moins trente journées de formation continue constitue une condition à un allongement de grade, sont dispensés:
 
@@ -311,17 +311,17 @@ Avantage de carrière : Avancement au grade 2 après six années de service depu
 
 Développement ultérieur de la carrière :
 
-1. Si l’employé a réussi à l’examen de carrière : Avancement au grade 3 après neuf années de service depuis l’engagement et au plus tôt à l’âge de vingt-huit ans.
+- Si l’employé a réussi à l’examen de carrière : Avancement au grade 3 après neuf années de service depuis l’engagement et au plus tôt à l’âge de vingt-huit ans.
 
-2. Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès :
+- Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès :
 
 Avancement au grade 3 après onze années de service et au plus tôt à l’âge de cinquante ans.
 
 Dispositions spéciales :
 
-1. Les employés exerçant les fonctions de concierge sont classés dans cette carrière. Pour ces employés les grades 1, 2 et 3 sont remplacés respectivement par les grades 3, 4 et 5, sans que les délais d’attente entre les avancements soient modifiés. Pour ces employés le grade 5 peut être allongé par les échelons 244 et 249, conformément aux dispositions de l’article 17 du présent règlement.
+- Les employés exerçant les fonctions de concierge sont classés dans cette carrière. Pour ces employés les grades 1, 2 et 3 sont remplacés respectivement par les grades 3, 4 et 5, sans que les délais d’attente entre les avancements soient modifiés. Pour ces employés le grade 5 peut être allongé par les échelons 244 et 249, conformément aux dispositions de l’article 17 du présent règlement.
 
-2. Les employés de cette carrière desservant un central de télécommunication bénéficient d’un supplément de rémunération de dix points indiciaires.
+- Les employés de cette carrière desservant un central de télécommunication bénéficient d’un supplément de rémunération de dix points indiciaires.
 
 Carrière B :
 
@@ -335,21 +335,21 @@ Avantage de carrière : Avancement au grade 3 après six années de service depu
 
 Développement ultérieur de la carrière :
 
-1. Si l’employé a réussi à l’examen de carrière :
+- Si l’employé a réussi à l’examen de carrière :
 
-1. Avancement au grade 4 après neuf années de service depuis l’engagement et au plus tôt à l’âge de vingt-huit ans.
+  - Avancement au grade 4 après neuf années de service depuis l’engagement et au plus tôt à l’âge de vingt-huit ans.
 
-2. Avancement au grade 6 après vingt-deux années de service depuis l’engagement et au plus tôt à l’âge de cinquante ans.
+  - Avancement au grade 6 après vingt-deux années de service depuis l’engagement et au plus tôt à l’âge de cinquante ans.
 
-2. Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès :
+- Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès :
 
 Avancement au grade 4 après onze années de service depuis l’engagement et au plus tôt à l’âge de cinquante ans.
 
 Dispositions spéciales :
 
-1. Les employés de cette carrière desservant un central de télécommunication bénéficient d’un supplément de rémunération de dix points indiciaires.
+- Les employés de cette carrière desservant un central de télécommunication bénéficient d’un supplément de rémunération de dix points indiciaires.
 
-2. Les employés de cette carrière exerçant les fonctions de secrétaire de direction bénéficient d’un supplément de rémunération de dix points indiciaires.
+- Les employés de cette carrière exerçant les fonctions de secrétaire de direction bénéficient d’un supplément de rémunération de dix points indiciaires.
 
 Carrière B1 :
 
@@ -363,13 +363,13 @@ Avantage de carrière : Avancement au grade 4 six ans après l’engagement et a
 
 Développement ultérieur de la carrière :
 
-1. Si l’employé a réussi à l’examen de carrière :
+- Si l’employé a réussi à l’examen de carrière :
 
-1. Avancement au grade 6 neuf ans après l’engagement et au plus tôt à l’âge de vingt-huit ans.
+  - Avancement au grade 6 neuf ans après l’engagement et au plus tôt à l’âge de vingt-huit ans.
 
-2. Avancement au grade 7 vingt-deux ans après l’engagement et au plus tôt à l’âge de cinquante ans.
+  - Avancement au grade 7 vingt-deux ans après l’engagement et au plus tôt à l’âge de cinquante ans.
 
-2. Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès : Avancement au grade 6 onze ans après l’engagement et au plus tôt à l’âge de cinquante ans.
+- Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès : Avancement au grade 6 onze ans après l’engagement et au plus tôt à l’âge de cinquante ans.
 
 Dispositions spéciales : Les employés de cette carrière exerçant les fonctions de secrétaire de direction bénéficient d’un supplément de rémunération de dix points indiciaires.
 
@@ -379,9 +379,9 @@ Carrière C :
 
 Degré d’études :
 
-1. Pour les emplois administratifs : Avoir suivi avec succès les cinq premières années de l’enseignement luxembourgeois soit dans l’enseignement secondaire, soit dans l’enseignement secondaire technique ou présenter un certificat sanctionnant des études reconnues équivalentes par le ministre ayant dans ses attributions l’Education Nationale.
+- Pour les emplois administratifs : Avoir suivi avec succès les cinq premières années de l’enseignement luxembourgeois soit dans l’enseignement secondaire, soit dans l’enseignement secondaire technique ou présenter un certificat sanctionnant des études reconnues équivalentes par le ministre ayant dans ses attributions l’Education Nationale.
 
-2. Pour les emplois techniques : Présenter un CATP dans la branche correspondant à l’emploi ou un certificat sanctionnant des études reconnues équivalentes par le ministre ayant dans ses attributions l’Education Nationale.
+- Pour les emplois techniques : Présenter un CATP dans la branche correspondant à l’emploi ou un certificat sanctionnant des études reconnues équivalentes par le ministre ayant dans ses attributions l’Education Nationale.
 
 Grade de début de carrière : grade 4.
 
@@ -389,11 +389,11 @@ Avantage de carrière : Avancement au grade 6 sept ans après l’engagement et 
 
 Développement ultérieur de la carrière :
 
-1. Si l’employé a réussi à l’examen de carrière : Avancement au grade 7bis dix ans après l’engagement et au plus tôt à l’âge de vingt-neuf ans.
+- Si l’employé a réussi à l’examen de carrière : Avancement au grade 7bis dix ans après l’engagement et au plus tôt à l’âge de vingt-neuf ans.
 
-2. Si l’employé a réussi à l’épreuve de qualification : Avancement au grade 8 vingt-deux ans après l’engagement et au plus tôt à l’âge de cinquante ans.
+- Si l’employé a réussi à l’épreuve de qualification : Avancement au grade 8 vingt-deux ans après l’engagement et au plus tôt à l’âge de cinquante ans.
 
-3. Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès : Avancement au grade 7 onze ans après l’engagement et au plus tôt à l’âge de cinquante ans.
+- Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès : Avancement au grade 7 onze ans après l’engagement et au plus tôt à l’âge de cinquante ans.
 
 Disposition spéciale : Les employés de cette carrière exerçant les fonctions de secrétaire de direction bénéficient d’un supplément de rémunération de quinze points indiciaires.
 
@@ -409,21 +409,21 @@ Avantage de carrière : Avancement au grade 8 sept ans après l’engagement et 
 
 Développement ultérieur de la carrière :
 
-1. Si l’employé a réussi à l’examen de carrière :
+- Si l’employé a réussi à l’examen de carrière :
 
-1. Avancement au grade 9 dix ans après l’engagement et au plus tôt à l’âge de trente et un ans.
+  - Avancement au grade 9 dix ans après l’engagement et au plus tôt à l’âge de trente et un ans.
 
-2. Avancement au grade 10 quatorze ans après l’engagement et au plus tôt à l’âge de trente-cinq ans.
+  - Avancement au grade 10 quatorze ans après l’engagement et au plus tôt à l’âge de trente-cinq ans.
 
-3. Avancement au grade 11 vingt-deux ans après l’engagement et au plus tôt à l’âge de quarante-six ans.
+  - Avancement au grade 11 vingt-deux ans après l’engagement et au plus tôt à l’âge de quarante-six ans.
 
-2. Si l’employé a réussi à l’épreuve de qualification :
+- Si l’employé a réussi à l’épreuve de qualification :
 
-- Avancement au grade 12 vingt-huit ans après l’engagement et au plus tôt à l’âge de cinquante-deux ans.
+  - Avancement au grade 12 vingt-huit ans après l’engagement et au plus tôt à l’âge de cinquante-deux ans.
 
-3. Si l’employé n’a pas réussi à l’examen de carrière ou s’il s’y est présenté sans succès :
+- Si l’employé n’a pas réussi à l’examen de carrière ou s’il s’y est présenté sans succès :
 
-- Avancement au grade 9 onze ans après l’engagement et au plus tôt à l’âge de cinquante ans.
+  - Avancement au grade 9 onze ans après l’engagement et au plus tôt à l’âge de cinquante ans.
 
 Disposition spéciale : Les employés de cette carrière exerçant les fonctions de secrétaire de direction bénéficient d’un supplément de rémunération de vingt points indiciaires.
 
@@ -441,11 +441,11 @@ Avantage de carrière: Avancement au grade 10 après 6 années de bons et loyaux
 
 Développement ultérieur de la carrière:
 
-1. Si l’employé a réussi à l’examen de carrière: Avancement au grade 11 après 9 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 31 ans.
+- Si l’employé a réussi à l’examen de carrière: Avancement au grade 11 après 9 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 31 ans.
 
-2. Si l’employé a réussi à l’épreuve de qualification: Avancement au grade 12 après 22 années de bons et loyaux services depuis l’engagement et au plus tôt à l’âge de 50 ans.
+- Si l’employé a réussi à l’épreuve de qualification: Avancement au grade 12 après 22 années de bons et loyaux services depuis l’engagement et au plus tôt à l’âge de 50 ans.
 
-3. Si l’employé ne s’est pas présenté à l’examen de carrière ou sil s’est présenté sans succès: Avancement au grade 11 après 11 années de bons et loyaux services et au plus tôt à l’âge de 50 ans
+- Si l’employé ne s’est pas présenté à l’examen de carrière ou sil s’est présenté sans succès: Avancement au grade 11 après 11 années de bons et loyaux services et au plus tôt à l’âge de 50 ans
 
 Carrière S :
 
@@ -471,9 +471,9 @@ Avantage de carrière: Avancement au grade 3 quatre ans après le début de carr
 
 Développement ultérieur de la carrière:
 
-1. Si l'employé a réussi à l'examen de carrière: Avancement au grade 4 sept ans après le début de carrière.
+- Si l'employé a réussi à l'examen de carrière: Avancement au grade 4 sept ans après le début de carrière.
 
-2. Si l'employé ne s'est pas présenté à l'examen de carrière ou s'il s'y est présenté sans succès: Avancement au grade 4 onze ans après le début de carrière et au plus tôt à l'âge de 50 ans.
+- Si l'employé ne s'est pas présenté à l'examen de carrière ou s'il s'y est présenté sans succès: Avancement au grade 4 onze ans après le début de carrière et au plus tôt à l'âge de 50 ans.
 
 Agent sanitaire infirmier :
 
@@ -483,9 +483,9 @@ Avantage de carrière : Avancement au grade 7 quatre ans après le début de car
 
 Développement ultérieur de la carrière :
 
-1. Si l’employé a réussi à l’examen de carrière : Avancement au grade 7bis sept ans après le début de carrière.
+- Si l’employé a réussi à l’examen de carrière : Avancement au grade 7bis sept ans après le début de carrière.
 
-2. Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès : Avancement au grade 7bis onze ans après le début de carrière et au plus tôt à l’âge de cinquante ans.
+- Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès : Avancement au grade 7bis onze ans après le début de carrière et au plus tôt à l’âge de cinquante ans.
 
 L’employé chargé d’un emploi d’infirmier dirigeant adjoint ou d’agent sanitaire dirigeant adjoint est classé au grade 7bis sans égard au nombre d’années de service. L’employé chargé d’un emploi d’infirmier dirigeant est classé au grade 8 sans égard au nombre d’années de service. Toutefois nul employé ne peut être chargé d’un de ces deux emplois s’il n’a pas subi avec succès l’examen de carrière.
 
@@ -505,15 +505,15 @@ Avantage de carrière: Avancement au grade 7 après 4 années de bons et loyaux 
 
 Développement ultérieur de la carrière :
 
-1. Si l’employé a réussi à l’examen de carrière : Avancement au grade 7bis sept ans après le début de carrière.
+- Si l’employé a réussi à l’examen de carrière : Avancement au grade 7bis sept ans après le début de carrière.
 
-2. Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès : Avancement au grade 7bis onze ans après le début de carrière et au plus tôt à l’âge de cinquante ans.
+- Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès : Avancement au grade 7bis onze ans après le début de carrière et au plus tôt à l’âge de cinquante ans.
 
 L’employé qui est chargé d’un emploi
 
 d’assistant technique médical dirigeant adjoint,
 
-d’infirmier en anesthésie et réanimation dirigeant adjoint,
+d’ infirmier en anesthésie et réanimation dirigeant adjoint,
 
 d’infirmier psychiatrique dirigeant adjoint,
 
@@ -529,7 +529,7 @@ l’employé qui est chargé d’un emploi
 
 d’assistant technique médical dirigeant,
 
-d’infirmier en anesthésie et réanimation dirigeant,
+d’ infirmier en anesthésie et réanimation dirigeant,
 
 d’infirmier psychiatrique dirigeant,
 
@@ -551,9 +551,9 @@ Avantage de carrière : Avancement au grade 7bis quatre ans après le début de 
 
 Développement ultérieur de la carrière :
 
-1. Si l’employé a réussi à l’examen de carrière : Avancement au grade 8 sept ans après le début de carrière.
+- Si l’employé a réussi à l’examen de carrière : Avancement au grade 8 sept ans après le début de carrière.
 
-2. Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès : Avancement au grade 8 onze ans après le début de carrière et au plus tôt à l’âge de cinquante ans.
+- Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès : Avancement au grade 8 onze ans après le début de carrière et au plus tôt à l’âge de cinquante ans.
 
 L’employé chargé d’un emploi de sage-femme dirigeante adjointe est classé au grade 8 sans égard au nombre d’années de service. L’employé chargé d’un emploi de sage-femme dirigeante est classé au grade 8bis sans égard au nombre d’années de service. Toutefois nul employé ne peut être chargé d’un de ces deux emplois s’il n’a pas subi avec succès l’examen de carrière.
 
@@ -579,13 +579,13 @@ Avantage de carrière : Avancement au grade 6 six ans après l’engagement et a
 
 Développement ultérieur de la carrière :
 
-1. Si l’employé a subi avec succès l’examen de carrière :
+- Si l’employé a subi avec succès l’examen de carrière :
 
-1. Avancement au grade 7 neuf ans après l’engagement et au plus tôt à l’âge de vingt-huit ans.
+  - Avancement au grade 7 neuf ans après l’engagement et au plus tôt à l’âge de vingt-huit ans.
 
-2. Avancement au grade 8 vingt-deux ans après l’engagement et au plus tôt à l’âge de cinquante ans.
+  - Avancement au grade 8 vingt-deux ans après l’engagement et au plus tôt à l’âge de cinquante ans.
 
-2. Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès :
+- Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’y est présenté sans succès :
 
 Avancement au grade 7 onze ans après l’engagement et au plus tôt à l’âge de cinquante ans.
 
@@ -698,8 +698,8 @@ A) Employés administratifs et techniques
 | d) | Rédaction d’un rapport de service en langues allemande et française | 100 points |
 | Total : | 300 points |  |
 | 4. | Carrière de l’assistant technique médical |  |
-| a) | pour l’ATM de radiologie :applications diagnostiques et thérapeutiques des radiations ionisantes; |  |
-|  | pour l’ATM de chirurgie :déroulement des opérations chirurgicales; |  |
+| a) | pour l’ATM de radiologie : applications diagnostiques et thérapeutiques des radiations ionisantes; |  |
+|  | pour l’ATM de chirurgie : déroulement des opérations chirurgicales; |  |
 |  | pour l’ATM de laboratoire : méthodes d’analyses en biologie clinique, en microbiologie, en anatomie pathologique, en chimie médicale, en transfusion sanguine | 50 points |
 | b) | Techniques professionnelles récentes | 50 points |
 | c) | Lois et règlements | 100 points |
@@ -782,11 +782,11 @@ Lorsqu’un grade est allongé par le présent règlement, le dernier échelon n
 
 Les employés communaux en activité de service au moment de l’entrée en vigueur du présent règlement et pour les allongements des grades desquels la participation à des cours de perfectionnement ou de recyclage est requise, sont dispensés :
 
-1. de trois cours si, à la date d’entrée en vigueur du présent règlement, ils sont classés au dernier grade de leur carrière;
+- de trois cours si, à la date d’entrée en vigueur du présent règlement, ils sont classés au dernier grade de leur carrière;
 
-2. de deux cours si, à la même date, ils sont classés à l’avant-dernier grade de leur carrière;
+- de deux cours si, à la même date, ils sont classés à l’avant-dernier grade de leur carrière;
 
-3. d’un cours si, à la même date, ils sont classés à l’antépénultième grade de leur carrière.
+- d’un cours si, à la même date, ils sont classés à l’antépénultième grade de leur carrière.
 
 <a id="art-36"></a>
 ## Art. 36.

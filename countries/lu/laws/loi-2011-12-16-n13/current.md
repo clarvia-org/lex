@@ -30,9 +30,9 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 L'établissement public «Salle de concerts Grande-Duchesse Joséphine-Charlotte», ci-après dénommé «l'établissement», est chargé:
 
-1. de la gestion et de l'exploitation de la Salle de concerts Grande-Duchesse Joséphine-Charlotte à Luxembourg-Kirchberg mise à sa disposition par l'Etat;
+- de la gestion et de l'exploitation de la Salle de concerts Grande-Duchesse Joséphine-Charlotte à Luxembourg-Kirchberg mise à sa disposition par l'Etat;
 
-2. de la reprise de la gestion et de la promotion de l'Orchestre Philharmonique du Luxembourg, ci-après désigné «OPL», orchestre symphonique.
+- de la reprise de la gestion et de la promotion de l'Orchestre Philharmonique du Luxembourg, ci-après désigné «OPL», orchestre symphonique.
 
 L'établissement dispose de la personnalité juridique et jouit de l'autonomie financière et administrative sous la tutelle du membre du Gouvernement ayant la Culture dans ses attributions.
 
@@ -103,27 +103,27 @@ Les indemnités et jetons de présence des membres et participants aux réunions
 
 Le conseil d'administration prend toutes les décisions en relation avec la gestion de l'établissement, sous réserve des décisions suivantes qui relèvent de l'approbation du ministre de tutelle:
 
-1. la politique générale de l'établissement dans l'accomplissement de sa mission;
+- la politique générale de l'établissement dans l'accomplissement de sa mission;
 
-2. l'engagement et le licenciement du directeur général et du personnel dirigeant;
+- l'engagement et le licenciement du directeur général et du personnel dirigeant;
 
-3. l'acceptation et le refus des dons et legs pour autant que leur valeur excède le montant prévu à l'article 910 du Code civil;
+- l'acceptation et le refus des dons et legs pour autant que leur valeur excède le montant prévu à l'article 910 du Code civil;
 
-4. les budgets d'exploitation et d'investissement;
+- les budgets d'exploitation et d'investissement;
 
-5. les conventions à conclure avec l'Etat;
+- les conventions à conclure avec l'Etat;
 
-6. les actions judiciaires qui sont intentées et défendues au nom de l'établissement par le président du conseil d'administration.
+- les actions judiciaires qui sont intentées et défendues au nom de l'établissement par le président du conseil d'administration.
 
 2.
 
 L'établissement soumet pour approbation au Conseil de Gouvernement les décisions suivantes:
 
-1. l'approbation des comptes de fin d'exercice;
+- l'approbation des comptes de fin d'exercice;
 
-2. l'organigramme, la grille des emplois ainsi que les conditions et modalités de rémunération du personnel;
+- l'organigramme, la grille des emplois ainsi que les conditions et modalités de rémunération du personnel;
 
-3. les emprunts à contracter.
+- les emprunts à contracter.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -166,21 +166,21 @@ Un rapport sur l’exécution de la convention pluriannuelle est adressé annuel
 
 L'établissement peut disposer des ressources suivantes:
 
-1. des contributions financières allouées à charge du budget de l'Etat;
+- des contributions financières allouées à charge du budget de l'Etat;
 
-2. des revenus d'exploitation et de manifestations ainsi que de l'édition, de la production et de la distribution de spectacles musicaux;
+- des revenus d'exploitation et de manifestations ainsi que de l'édition, de la production et de la distribution de spectacles musicaux;
 
-3. des revenus provenant de la production, de la distribution et de la diffusion de produits sonores, audiovisuels ou informatiques sur tous supports existants ou à venir;
+- des revenus provenant de la production, de la distribution et de la diffusion de produits sonores, audiovisuels ou informatiques sur tous supports existants ou à venir;
 
-4. de la location et de la mise à disposition des installations;
+- de la location et de la mise à disposition des installations;
 
-5. des recettes pour prestations et services fournis ainsi que de la distribution de produits d'usage et de décoration de qualité;
+- des recettes pour prestations et services fournis ainsi que de la distribution de produits d'usage et de décoration de qualité;
 
-6. des dons et legs en espèces et en nature;
+- des dons et legs en espèces et en nature;
 
-7. d'emprunts;
+- d'emprunts;
 
-8. des intérêts et revenus provenant de la gestion du patrimoine de l'établissement.
+- des intérêts et revenus provenant de la gestion du patrimoine de l'établissement.
 
 2.
 

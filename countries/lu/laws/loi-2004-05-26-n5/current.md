@@ -102,19 +102,19 @@ Les indemnités et jetons de présence des membres et participants aux réunions
 
 Le conseil d'administration prend toutes les décisions en relation avec la gestion de l'établissement, sous réserve de l'approbation du ministre de tutelle pour ce qui est des points suivants:
 
-1. la politique générale du Centre dans l'accomplissement de sa mission;
+- la politique générale du Centre dans l'accomplissement de sa mission;
 
-2. l'engagement et le licenciement du directeur et du personnel dirigeant;
+- l'engagement et le licenciement du directeur et du personnel dirigeant;
 
-3. la grille des emplois et leur classification ainsi que le niveau de rémunération du personnel;
+- la grille des emplois et leur classification ainsi que le niveau de rémunération du personnel;
 
-4. l'acceptation et le refus des dons et legs;
+- l'acceptation et le refus des dons et legs;
 
-5. les budgets d'exploitation et d'investissement et les comptes de fin d'exercice;
+- les budgets d'exploitation et d'investissement et les comptes de fin d'exercice;
 
-6. les conventions à conclure avec l'Etat;
+- les conventions à conclure avec l'Etat;
 
-7. les actions judiciaires qui sont intentées et défendues au nom de l'établissement par le président du conseil d'administration qui représente l'établissement dans tous les actes publics et privés.
+- les actions judiciaires qui sont intentées et défendues au nom de l'établissement par le président du conseil d'administration qui représente l'établissement dans tous les actes publics et privés.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -157,17 +157,17 @@ Un rapport sur l’exécution de la convention pluriannuelle est adressé annuel
 
 L'établissement peut notamment disposer des ressources suivantes:
 
-1. des contributions financières allouées à charge du budget de l'Etat;
+- des contributions financières allouées à charge du budget de l'Etat;
 
-2. des revenus d'exploitation et de manifestations;
+- des revenus d'exploitation et de manifestations;
 
-3. des revenus provenant de la réalisation et de la diffusion de produits imprimés, sonores, audiovisuels ou informatiques sur tous supports existants ou à venir;
+- des revenus provenant de la réalisation et de la diffusion de produits imprimés, sonores, audiovisuels ou informatiques sur tous supports existants ou à venir;
 
-4. de la location et de la mise à disposition des installations;
+- de la location et de la mise à disposition des installations;
 
-5. des recettes pour prestations et services fournis;
+- des recettes pour prestations et services fournis;
 
-6. des dons et legs en espèces et en nature.
+- des dons et legs en espèces et en nature.
 
 (2)
 

@@ -40,7 +40,7 @@ l’acquisition des terrains du plateau de Kirchberg dans la mesure du plan des 
 <a id="art-2"></a>
 ## Art. 2.
 
-Il est créé sous la dénomination de «fonds d’urbanisation et d’aménagement du plateau de Kirchberg», ci-après « Fonds » un organe spécial constitué en personne juridique distincte de l’Etat, chargé de réaliser, pour compte de l’Etat, les projets visés à l’article premier.
+Il est créé sous la dénomination de «fonds d’urbanisation et d’aménagement du plateau de Kirchberg» , ci-après « Fonds » un organe spécial constitué en personne juridique distincte de l’Etat, chargé de réaliser, pour compte de l’Etat, les projets visés à l’article premier.
 
 Il a le caractère d’un établissement public.
 
@@ -49,9 +49,9 @@ Il a le caractère d’un établissement public.
 
 Outre les projets visés à l’article 1er, le Fonds a pour missions :
 
-1. le développement et l’aménagement du site « Midfield » situé entre le Ban de Gasperich et la zone d’activités de Howald tel que délimité par le plan cadastral figurant à l’annexe II ;
+- le développement et l’aménagement du site « Midfield » situé entre le Ban de Gasperich et la zone d’activités de Howald tel que délimité par le plan cadastral figurant à l’annexe II ;
 
-2. la réalisation, à la demande de tiers, pour le compte de ceux-ci et à leurs frais, des infrastructures sur ce site.
+- la réalisation, à la demande de tiers, pour le compte de ceux-ci et à leurs frais, des infrastructures sur ce site.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -64,7 +64,7 @@ Outre les recettes provenant d’activités du Fonds, notamment en relation avec
 
 Le Fonds est autorisé à sa procurer des moyens financiers jusqu’à concurrence de 100 000 000 euros par la voie d’un emprunt aussi bien que par l’augmentation du crédit dont il dispose auprès de la caisse d’épargne de l’Etat. Ces opérations financières se font sous la garantie de l’Etat qui en assumera les charges d’amortissement et d’intérêts en ce qui concerne l’emprunt et les charges d’intérêts en ce qui concerne la totalité du crédit dont disposera le Fonds auprès de la caisse d’épargne de l’Etat.
 
-Les modalités de l’emprunt, sa durée, sa date d’émission, les conditions de remboursement, le taux d’intérêt, la forme et la coupure des obligations à émettre, l’époque et le mode de la souscription et du paiement des coupons, ainsi que toutes les autres conditions de l’emprunt feront l’objet d’un règlement du Ministre du Trésor. Ce règlement pourra prévoir que les intérêts de l’emprunt seront exempts, en tout ou en partie, des impôts présents et futurs. Les conditions et modalités de l’ouverture du nouveau crédit auprès de la caisse d’épargne de l’Etat sont soumises à l’approbation du Ministre du Trésor et du Ministre du Budget.
+Les modalités de l’emprunt, sa durée, sa date d’émission, les conditions de remboursement, le taux d’intérêt, la forme et la coupure des obligations à émettre, l’époque et le mode de la souscription et du paiement des coupons, ainsi que toutes les autres conditions de l’emprunt feront l’objet d’un règlement du Ministre du Trésor. Ce règlement pourra prévoir que les intérêts de l’emprunt seront exempts, en tout ou en partie, des impôts présents et futurs. Les conditions et modalités de l’ouverture du nouveau crédit auprès de la caisse d’ épargne de l’Etat sont soumises à l’approbation du Ministre du Trésor et du Ministre du Budget.
 
 (2)
 
@@ -381,39 +381,39 @@ Les indemnités et jetons de présence des membres et participants aux réunions
 
 Le conseil d’administration décide sur les points suivants, sous réserve de l’approbation du ministre de tutelle pour les points sous a):
 
-1.
+-
 
-- la politique générale du Fonds, notamment le concept global d’urbanisation et d’aménagement du plateau de Kirchberg,
+  - la politique générale du Fonds, notamment le concept global d’urbanisation et d’aménagement du plateau de Kirchberg,
 
-- ibis) l' acceptation des missions visées par l’article 2 bis ainsi que la conclusion des conventions prévues par l’article 3, paragraphe 2, organisant le financement de ces missions,
+  - ibis) l' acceptation des missions visées par l’article 2 bis ainsi que la conclusion des conventions prévues par l’article 3, paragraphe 2, organisant le financement de ces missions,
 
-- la politique de vente ou d’octroi de droits réels sur des immeubles appartenant au Fonds,
+  - la politique de vente ou d’octroi de droits réels sur des immeubles appartenant au Fonds,
 
-- le budget d’exploitation ainsi que les comptes de fin d’exercice,
+  - le budget d’exploitation ainsi que les comptes de fin d’exercice,
 
-- les programmes d’investissements annuels et les programmes d’investissements pluriannuels,
+  - les programmes d’investissements annuels et les programmes d’investissements pluriannuels,
 
-- les emprunts à contracter,
+  - les emprunts à contracter,
 
-- l’organigramme, la grille des emplois et leur classification ainsi que les conditions et modalités de rémunération et le volume des tâches du personnel,
+  - l’organigramme, la grille des emplois et leur classification ainsi que les conditions et modalités de rémunération et le volume des tâches du personnel,
 
-- l’engagement et le licenciement d’un directeur,
+  - l’engagement et le licenciement d’un directeur,
 
-2.
+-
 
-- l’exécution et la mise en oeuvre de la politique générale,
+  - l’exécution et la mise en oeuvre de la politique générale,
 
-- ibis) l’exécution et la mise en œuvre des missions visées par l’article 2 bis ,
+  - ibis) l’exécution et la mise en œuvre des missions visées par l’article 2 bis ,
 
-- les règles d’exécution du budget,
+  - les règles d’exécution du budget,
 
-- le rapport général d’activités,
+  - le rapport général d’activités,
 
-- les actions judiciaires à intenter et les transactions à conclure,
+  - les actions judiciaires à intenter et les transactions à conclure,
 
-- les conventions à conclure,
+  - les conventions à conclure,
 
-- l’engagement et le licenciement du personnel du Fonds.
+  - l’engagement et le licenciement du personnel du Fonds.
 
 (2)
 
@@ -421,9 +421,9 @@ Le président du conseil d’administration ou celui qui le remplace représente
 
 Le président ou son remplaçant peut déléguer ce pouvoir de représentation et de signature conformément aux dispositions qui suivent :
 
-1. la délégation de signature en matière financière ne peut concerner que la signature des contrats, commandes et paiements dont les montants n’excèdent pas la somme déterminée par règlement grand-ducal pris en exécution de l’article 20, paragraphe 1 er , alinéa 3, lettre a), de la loi modifiée du 8 avril 2018 sur les marchés publics et établissant le montant en deçà duquel les marchés publics de travaux, de fournitures et de services peuvent être passés soit par procédure restreinte sans publication d’avis, soit par procédure négociée ;
+- la délégation de signature en matière financière ne peut concerner que la signature des contrats, commandes et paiements dont les montants n’excèdent pas la somme déterminée par règlement grand-ducal pris en exécution de l’article 20, paragraphe 1 er , alinéa 3, lettre a), de la loi modifiée du 8 avril 2018 sur les marchés publics et établissant le montant en deçà duquel les marchés publics de travaux, de fournitures et de services peuvent être passés soit par procédure restreinte sans publication d’avis, soit par procédure négociée ;
 
-2. la délégation de signature en matière administrative ne peut concerner que les documents qui correspondent à la politique établie par le conseil d’administration et qui ne requièrent pas l’attention personnelle du président.
+- la délégation de signature en matière administrative ne peut concerner que les documents qui correspondent à la politique établie par le conseil d’administration et qui ne requièrent pas l’attention personnelle du président.
 
 Les délégations sont écrites et formelles. Elles peuvent être conférées au directeur du Fonds, au secrétaire du conseil d’administration du Fonds ou au chef du service concerné par l’objet de la délégation, selon l’organigramme du personnel du Fonds décidé par le conseil d’administration et approuvé par le ministre de tutelle conformément au paragraphe 1er, lettre a), sous vi). Les délégations consenties ne peuvent pas faire l’objet d’une subdélégation.
 

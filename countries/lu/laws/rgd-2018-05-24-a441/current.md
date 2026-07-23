@@ -36,13 +36,13 @@ Dans les classes supérieures de l'enseignement secondaire classique, le nombre 
 
 Les matières des classes supérieures définies par l’article 49 de la loi modifiée du 10 mai 1968 portant réforme de l’enseignement secondaire classique sont réparties sur les différentes classes dans les quatre volets suivants :
 
-1. Le volet « langues et mathématiques » ;
+- Le volet « langues et mathématiques » ;
 
-2. Le volet « spécialisation » regroupe les matières caractéristiques de la section ;
+- Le volet « spécialisation » regroupe les matières caractéristiques de la section ;
 
-3. Le volet « formation générale » regroupe les autres matières qui portent sur la formation générale des élèves ;
+- Le volet « formation générale » regroupe les autres matières qui portent sur la formation générale des élèves ;
 
-4. Le volet « domaine optionnel » comprend les matières à option.
+- Le volet « domaine optionnel » comprend les matières à option.
 
 Les matières à option du volet 4 sont définies par chaque lycée. L’offre du lycée est documentée dans son plan de développement de l’établissement scolaire. Elle tient compte des caractéristiques de sa population scolaire.
 
@@ -57,11 +57,11 @@ Les disciplines du volet « spécialisation » sont définies par les grilles ho
 
 Le volet « formation générale » d’une section regroupe les disciplines suivantes pour autant qu’elles soient prévues par la grille horaire et ne fassent pas partie du volet « spécialisation » :
 
-1. en classe de 3 e : biologie, physique, chimie, histoire, éducation artistique, éducation physique, cours vie et société ;
+- en classe de 3 e : biologie, physique, chimie, histoire, éducation artistique, éducation physique, cours vie et société ;
 
-2. en classe de 2 e : histoire, éducation à la citoyenneté , philosophie, physique, chimie, économie générale, géographie, éducation musicale, éducation artistique, éducation physique ;
+- en classe de 2 e : histoire, éducation à la citoyenneté , philosophie, physique, chimie, économie générale, géographie, éducation musicale, éducation artistique, éducation physique ;
 
-3. en classe de 1 re : philosophie, histoire, économie générale, éducation musicale, éducation artistique, éducation physique.
+- en classe de 1 re : philosophie, histoire, économie générale, éducation musicale, éducation artistique, éducation physique.
 
 Les disciplines du volet « domaine optionnel » sont définies par le lycée.
 
@@ -81,43 +81,43 @@ Les programmes du volet « domaine optionnel » sont publiés par le lycée sur 
 
 Pour chaque section, la grille horaire en classe de 3e comprend les disciplines suivantes avec au moins le nombre indiqué de leçons hebdomadaires :
 
-1. allemand : 3 leçons, 2 leçons pour l’élève qui étudie le latin ;
+- allemand : 3 leçons, 2 leçons pour l’élève qui étudie le latin ;
 
-2. anglais : 4 leçons ;
+- anglais : 4 leçons ;
 
-3. français : 3 leçons, 2 leçons pour l’élève qui étudie le latin ;
+- français : 3 leçons, 2 leçons pour l’élève qui étudie le latin ;
 
-4. mathématiques : 3 leçons ;
+- mathématiques : 3 leçons ;
 
-5. biologie : 2 leçons ou 1,5 leçons de sciences de la vie et de la terre ;
+- biologie : 2 leçons ou 1,5 leçons de sciences de la vie et de la terre ;
 
-6. physique : 1,5 leçons ;
+- physique : 1,5 leçons ;
 
-7. chimie : 1,5 leçons ;
+- chimie : 1,5 leçons ;
 
-8. histoire : 2 leçons ;
+- histoire : 2 leçons ;
 
-9. éducation physique : 1 leçon ;
+- éducation physique : 1 leçon ;
 
-10. éducation artistique : 1 leçon ;
+- éducation artistique : 1 leçon ;
 
-11. cours vie et société : 1 leçon.
+- cours vie et société : 1 leçon.
 
 (2)
 
 Pour chaque section, la grille horaire en classe de 2e comprend les disciplines suivantes avec au moins le nombre indiqué de leçons hebdomadaires :
 
-1. allemand : 3 leçons ;
+- allemand : 3 leçons ;
 
-2. anglais : 3 leçons ;
+- anglais : 3 leçons ;
 
-3. français : 3 leçons ;
+- français : 3 leçons ;
 
-4. histoire : 2 leçons ;
+- histoire : 2 leçons ;
 
-5. éducation physique : 1 leçon ;
+- éducation physique : 1 leçon ;
 
-6. instruction civique : 1 leçon.
+- instruction civique : 1 leçon.
 
 L’élève qui étudie le latin choisit deux parmi les trois langues allemande, anglaise et française.
 
@@ -125,13 +125,13 @@ L’élève qui étudie le latin choisit deux parmi les trois langues allemande,
 
 Pour chaque section, la grille horaire en classe de 1re comprend les disciplines suivantes avec au moins le nombre indiqué de leçons hebdomadaires :
 
-1. pour l’une des trois langues allemande, anglaise et française : 3 leçons ;
+- pour l’une des trois langues allemande, anglaise et française : 3 leçons ;
 
-2. pour une deuxième des trois langues allemande, anglaise et française : 3 leçons ;
+- pour une deuxième des trois langues allemande, anglaise et française : 3 leçons ;
 
-3. éducation physique : 1 leçon ;
+- éducation physique : 1 leçon ;
 
-4. philosophie : 2 leçons.
+- philosophie : 2 leçons.
 
 (4)
 
@@ -146,13 +146,13 @@ Pour chaque section et classe, la grille horaire comprend au moins 2 leçons de 
 
 Les différentes grilles horaires d’une même section peuvent varier selon les dispositions suivantes :
 
-1. une ou plusieurs disciplines du volet « langues et mathématiques » d’une section peuvent être remplacées chacune par une discipline du volet « langues et mathématiques » d’une autre section de l’enseignement secondaire classique ;
+- une ou plusieurs disciplines du volet « langues et mathématiques » d’une section peuvent être remplacées chacune par une discipline du volet « langues et mathématiques » d’une autre section de l’enseignement secondaire classique ;
 
-2. une ou plusieurs disciplines du volet « spécialisation » du tableau peuvent être remplacées chacune par une discipline du volet « spécialisation » d’une autre section ou par une discipline du volet « formation générale » de la même section ou d’une autre section ou par une nouvelle discipline dont le programme doit satisfaire aux exigences de l’enseignement secondaire classique ;
+- une ou plusieurs disciplines du volet « spécialisation » du tableau peuvent être remplacées chacune par une discipline du volet « spécialisation » d’une autre section ou par une discipline du volet « formation générale » de la même section ou d’une autre section ou par une nouvelle discipline dont le programme doit satisfaire aux exigences de l’enseignement secondaire classique ;
 
-3. une ou plusieurs disciplines du volet « formation générale » du tableau peuvent être remplacées chacune par une discipline du volet « formation générale » d’une autre section ou par une discipline du volet « domaine optionnel» ;
+- une ou plusieurs disciplines du volet « formation générale » du tableau peuvent être remplacées chacune par une discipline du volet « formation générale » d’une autre section ou par une discipline du volet « domaine optionnel» ;
 
-4. le nombre minimal de leçons défini à l’article 5 est respecté.
+- le nombre minimal de leçons défini à l’article 5 est respecté.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -182,11 +182,11 @@ Le règlement grand-ducal du 30 juillet 2002 déterminant les matières obligato
 
 La mise en vigueur du présent règlement grand-ducal est la suivante :
 
-1. à partir de l’année scolaire 2018/2019 pour les classes de 4 e et de 3 e de l’enseignement secondaire classique ;
+- à partir de l’année scolaire 2018/2019 pour les classes de 4 e et de 3 e de l’enseignement secondaire classique ;
 
-2. à partir de l’année scolaire 2019/2020 pour les classes de 2 e de l’enseignement secondaire classique ;
+- à partir de l’année scolaire 2019/2020 pour les classes de 2 e de l’enseignement secondaire classique ;
 
-3. à partir de l’année scolaire 2020/2021 pour les classes de 1 re de l’enseignement secondaire classique.
+- à partir de l’année scolaire 2020/2021 pour les classes de 1 re de l’enseignement secondaire classique.
 
 <a id="art-11"></a>
 ## Art. 11.

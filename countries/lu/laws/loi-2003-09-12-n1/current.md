@@ -59,13 +59,13 @@ Cette qualité peut être reconnue aux ressortissants luxembourgeois ou d’un a
 
 Peut prétendre au revenu pour personnes gravement handicapées, la personne qui remplit toutes les conditions suivantes:
 
-1. être âgée de 18 ans au moins
+- être âgée de 18 ans au moins
 
-2. présenter une diminution de la capacité de travail de trente pour cent au moins par suite d'une déficience physique, mentale, sensorielle ou psychique et/ou en raison de difficultés psychosociales aggravant la déficience; la déficience doit être acquise avant l'âge de 65 ans
+- présenter une diminution de la capacité de travail de trente pour cent au moins par suite d'une déficience physique, mentale, sensorielle ou psychique et/ou en raison de difficultés psychosociales aggravant la déficience; la déficience doit être acquise avant l'âge de 65 ans
 
-3. présenter un état de santé qui est tel que tout effort de travail s'avère contre-indiqué ou dont les compétences de travail sont si réduites qu'il s'avère impossible d'adapter un poste de travail dans le milieu ordinaire ou protégé à ses besoins
+- présenter un état de santé qui est tel que tout effort de travail s'avère contre-indiqué ou dont les compétences de travail sont si réduites qu'il s'avère impossible d'adapter un poste de travail dans le milieu ordinaire ou protégé à ses besoins
 
-4. bénéficier du droit de séjour sur le territoire du Grand-Duché de Luxembourg, y être domiciliée et y résider effectivement.
+- bénéficier du droit de séjour sur le territoire du Grand-Duché de Luxembourg, y être domiciliée et y résider effectivement.
 
 La personne qui n’est pas un ressortissant du Grand-Duché de Luxembourg ou d’un autre Etat membre de l’Union européenne ou d’un autre Etat ayant adhéré à l’Accord sur l’Espace Economique Européen ou de la Confédération suisse et qui n’est pas reconnue apatride sur base de la Convention relative au statut des apatrides faite à New York le 28 septembre 1954, ni reconnue réfugiée au sens de la Convention relative au statut des réfugiés, faite à Genève, le 28 juillet 1951, doit avoir résidé au Grand-Duché de Luxembourg pendant cinq ans au moins au cours des vingt dernières années. Ne sont pas visés par cette condition de résidence les membres de la famille du ressortissant luxembourgeois, du ressortissant d’un autre Etat membre de l’Union européenne ou d’un autre Etat ayant adhéré à l’Accord sur l’Espace Economique Européen ou de la Confédération suisse, définis par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration et quelle que soit leur nationalité.
 
@@ -572,13 +572,13 @@ Il est créé un Conseil supérieur des personnes handicapées qui est placé so
 
 Le Conseil supérieur des personnes handicapées a les missions suivantes:
 
-1. assister et conseiller le ministre ayant dans ses attributions la politique pour personnes handicapées dans son travail de coordination de la politique gouvernementale en faveur des personnes handicapées;
+- assister et conseiller le ministre ayant dans ses attributions la politique pour personnes handicapées dans son travail de coordination de la politique gouvernementale en faveur des personnes handicapées;
 
-2. réunir à cette fin les partenaires impliqués, à savoir des personnes à besoins spéciaux, des professionnels du secteur et des membres du Gouvernement;
+- réunir à cette fin les partenaires impliqués, à savoir des personnes à besoins spéciaux, des professionnels du secteur et des membres du Gouvernement;
 
-3. aviser tout projet de loi ou de règlement touchant le domaine du handicap qui lui est soumis par le Gouvernement;
+- aviser tout projet de loi ou de règlement touchant le domaine du handicap qui lui est soumis par le Gouvernement;
 
-4. étudier toutes les questions qui lui sont soumises par le ministre ainsi que tous les sujets qu'il juge utiles.
+- étudier toutes les questions qui lui sont soumises par le ministre ainsi que tous les sujets qu'il juge utiles.
 
 (3)
 
@@ -598,7 +598,9 @@ L'article 23, I, avant-dernier alinéa de la loi modifiée du 26 mai 1954 régla
 <a id="art-36"></a>
 ## Art. 36.
 
-L'article 4, alinéa 2 de la loi modifiée du 22 avril 1966 portant réglementation uniforme du congé annuel des salariés du secteur privé est modifié comme suit: Un congé supplémentaire de six jours ouvrables est accordé aux invalides de guerre, aux accidentés de travail et aux personnes ayant un handicap physique, mental, sensoriel ou psychique, auxquelles a été reconnue la qualité de travailleur handicapé conformément à la loi du 12 septembre 2003 relative aux personnes handicapées. L'indemnité journalière du congé supplémentaire est à charge des crédits budgétaires de l'Etat.
+L'article 4, alinéa 2 de la loi modifiée du 22 avril 1966 portant réglementation uniforme du congé annuel des salariés du secteur privé est modifié comme suit:
+
+Un congé supplémentaire de six jours ouvrables est accordé aux invalides de guerre, aux accidentés de travail et aux personnes ayant un handicap physique, mental, sensoriel ou psychique, auxquelles a été reconnue la qualité de travailleur handicapé conformément à la loi du 12 septembre 2003 relative aux personnes handicapées. L'indemnité journalière du congé supplémentaire est à charge des crédits budgétaires de l'Etat.
 
 <a id="art-37"></a>
 ## Art. 37.
@@ -608,42 +610,46 @@ L'article 6, alinéa 1 de la loi modifiée du 12 mars 1973 portant réforme du s
 <a id="art-38"></a>
 ## Art. 38.
 
-L'article 2, paragraphe (1) de la loi modifiée du 30 juin 1976 portant 1. création d'un fonds pour l'emploi; 2. réglementation de l'octroi des indemnités de chômage complet est complété par le numéro suivant: 38. La prise en charge de l'indemnité compensatoire versée aux travailleurs handicapés en vertu de l'article 45 (1) alinéa 2 de la loi du 12 septembre 2003 relative aux personnes handicapées.
+L'article 2, paragraphe (1) de la loi modifiée du 30 juin 1976 portant 1. création d'un fonds pour l'emploi; 2. réglementation de l'octroi des indemnités de chômage complet est complété par le numéro suivant:
+
+38. La prise en charge de l'indemnité compensatoire versée aux travailleurs handicapés en vertu de l'article 45 (1) alinéa 2 de la loi du 12 septembre 2003 relative aux personnes handicapées.
 
 <a id="art-39"></a>
 ## Art. 39.
 
 La loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la caisse nationale des prestations familiales est modifiée comme suit:
 
-1. L'article 3 alinéa 4 est remplacé comme suit: L'allocation est pareillement maintenue jusqu'à l'âge de vingt-sept ans accomplis au plus pour la personne atteinte depuis sa minorité d'une ou de plusieurs affections telles que définies à l'article 4, alinéa 5 et qui suit une formation adaptée à ses capacités dans un institut, service ou centre d'éducation différenciée, conformément à la loi modifiée du 14 mars 1973 portant création d'instituts et de services d'éducation différenciée ou dans tout autre établissement spécialisé agréé par le ministre ayant la Famille dans ses attributions, ou dans un établissement équivalent sis à l'étranger, pour autant que cette personne ne soit bénéficiaire ni du revenu pour travailleurs handicapés ou du revenu pour personnes gravement handicapées visés par la loi du 12 septembre 2003 relative aux personnes handicapées ou de revenus de toute nature égaux ou supérieurs à ce revenu, ni d'un revenu garanti ou de remplacement ou de toute prestation pour adultes handicapés prévus par un régime non luxembourgeois. Le «conseil d’administration» peut, à titre exceptionnel et individuel, relever la limite d'âge jusqu'à concurrence de trois années au plus. Un règlement grand-ducal peut déterminer les conditions d'application des présentes dispositions.
+- L'article 3 alinéa 4 est remplacé comme suit: L'allocation est pareillement maintenue jusqu'à l'âge de vingt-sept ans accomplis au plus pour la personne atteinte depuis sa minorité d'une ou de plusieurs affections telles que définies à l'article 4, alinéa 5 et qui suit une formation adaptée à ses capacités dans un institut, service ou centre d'éducation différenciée, conformément à la loi modifiée du 14 mars 1973 portant création d'instituts et de services d'éducation différenciée ou dans tout autre établissement spécialisé agréé par le ministre ayant la Famille dans ses attributions, ou dans un établissement équivalent sis à l'étranger, pour autant que cette personne ne soit bénéficiaire ni du revenu pour travailleurs handicapés ou du revenu pour personnes gravement handicapées visés par la loi du 12 septembre 2003 relative aux personnes handicapées ou de revenus de toute nature égaux ou supérieurs à ce revenu, ni d'un revenu garanti ou de remplacement ou de toute prestation pour adultes handicapés prévus par un régime non luxembourgeois. Le «conseil d’administration» peut, à titre exceptionnel et individuel, relever la limite d'âge jusqu'à concurrence de trois années au plus. Un règlement grand-ducal peut déterminer les conditions d'application des présentes dispositions.
 
-2. L'article 4 alinéa 6 est remplacé comme suit: L'allocation spéciale supplémentaire est continuée jusqu'à l'âge de vingt-sept ans accomplis au plus pour la personne bénéficiaire d'allocations familiales en application de l'article 3, alinéa 4, pour autant que les revenus de cette personne, y compris les allocations familiales, ne soient égaux ou supérieurs aux revenus visés à l'article 3, alinéa 4, ou ne constituent un revenu garanti ou de remplacement ou une prestation pour adultes handicapés au titre d'un régime non luxembourgeois.
+- L'article 4 alinéa 6 est remplacé comme suit: L'allocation spéciale supplémentaire est continuée jusqu'à l'âge de vingt-sept ans accomplis au plus pour la personne bénéficiaire d'allocations familiales en application de l'article 3, alinéa 4, pour autant que les revenus de cette personne, y compris les allocations familiales, ne soient égaux ou supérieurs aux revenus visés à l'article 3, alinéa 4, ou ne constituent un revenu garanti ou de remplacement ou une prestation pour adultes handicapés au titre d'un régime non luxembourgeois.
 
-3. Il est introduit un nouveau article 33 libellé comme suit: Dispositions transitoires. Art. 33. L'ancien alinéa 4 de l'article 3 et l'ancien alinéa 6 de l'article 4 demeurent applicables pour les personnes bénéficiaires de l'allocation familiale et de l'allocation spéciale supplémentaire au moment de l'entrée en vigueur de la loi du 12 septembre 2003 relative aux personnes handicapées. Toutefois, ces allocations ne sont plus dues lorsque la personne handicapée est admise soit au bénéfice du revenu pour travailleurs handicapés ou du revenu pour personnes gravement handicapées visés par la loi du 12 septembre 2003 relative aux personnes handicapées, soit à un revenu garanti ou de remplacement ou à toute prestation pour adultes handicapés prévus par un régime non luxembourgeois.
+- Il est introduit un nouveau article 33 libellé comme suit: Dispositions transitoires. Art. 33. L'ancien alinéa 4 de l'article 3 et l'ancien alinéa 6 de l'article 4 demeurent applicables pour les personnes bénéficiaires de l'allocation familiale et de l'allocation spéciale supplémentaire au moment de l'entrée en vigueur de la loi du 12 septembre 2003 relative aux personnes handicapées. Toutefois, ces allocations ne sont plus dues lorsque la personne handicapée est admise soit au bénéfice du revenu pour travailleurs handicapés ou du revenu pour personnes gravement handicapées visés par la loi du 12 septembre 2003 relative aux personnes handicapées, soit à un revenu garanti ou de remplacement ou à toute prestation pour adultes handicapés prévus par un régime non luxembourgeois.
 
 <a id="art-40"></a>
 ## Art. 40.
 
-A l'article 4 de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, est ajouté un nouveau point 7. libellé comme suit: les périodes précédant celles au titre de l'article 171, alinéa 1, sous 17 du Code des Assurances sociales, pendant lesquelles le travailleurs handicapé au sens de l'article 1er de la loi du 12 septembre 2003 relative aux personnes handicapées n'a pas pu être occupé, pour des raisons indépendantes de sa volonté, dans un atelier protégé ainsi que les périodes se situant avant l'entrée en vigueur de cette loi au cours desquelles l'intéressé était, après l'âge de 18 ans par suite d'infirmités physiques ou intellectuelles, hors d'état de gagner sa vie.
+A l'article 4 de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, est ajouté un nouveau point 7. libellé comme suit:
+
+- les périodes précédant celles au titre de l'article 171, alinéa 1, sous 17 du Code des Assurances sociales, pendant lesquelles le travailleurs handicapé au sens de l'article 1er de la loi du 12 septembre 2003 relative aux personnes handicapées n'a pas pu être occupé, pour des raisons indépendantes de sa volonté, dans un atelier protégé ainsi que les périodes se situant avant l'entrée en vigueur de cette loi au cours desquelles l'intéressé était, après l'âge de 18 ans par suite d'infirmités physiques ou intellectuelles, hors d'état de gagner sa vie.
 
 <a id="art-41"></a>
 ## Art. 41.
 
 Le Code des assurances sociales est modifié comme suit:
 
-1. L'article 1 er , alinéa 1 est complété par un point 19) libellé comme suit: aux travailleurs handicapés occupés dans les ateliers protégés et aux personnes bénéficiant d'un revenu pour personnes gravement handicapées au sens de la loi du 12 septembre 2003 relative aux personnes handicapées
+- L'article 1 er , alinéa 1 est complété par un point 19) libellé comme suit: aux travailleurs handicapés occupés dans les ateliers protégés et aux personnes bénéficiant d'un revenu pour personnes gravement handicapées au sens de la loi du 12 septembre 2003 relative aux personnes handicapées
 
-2. L'article 32 est complété par un nouveau tiret libellé comme suit: par parts égales à l'Etat ou l'atelier protégé et aux assurés visés à l'article 1er, sous 19).
+- L'article 32 est complété par un nouveau tiret libellé comme suit: par parts égales à l'Etat ou l'atelier protégé et aux assurés visés à l'article 1er, sous 19).
 
-3. L'article 85 est complété par un point 10) libellé comme suit: aux travailleurs handicapés occupés dans les ateliers protégés au sens de la loi du 12 septembre 2003 relative aux personnes handicapées.
+- L'article 85 est complété par un point 10) libellé comme suit: aux travailleurs handicapés occupés dans les ateliers protégés au sens de la loi du 12 septembre 2003 relative aux personnes handicapées.
 
-4. L'article 171, alinéa 1, est complété par un point 17) libellé comme suit: aux travailleurs handicapés occupés dans les ateliers protégés au sens de la loi du 12 septembre 2003 relative aux personnes handicapées.
+- L'article 171, alinéa 1, est complété par un point 17) libellé comme suit: aux travailleurs handicapés occupés dans les ateliers protégés au sens de la loi du 12 septembre 2003 relative aux personnes handicapées.
 
-5. L'article 172, alinéa 1, est complété par un point 9) libellé comme suit: les périodes précédant celles au titre de l'article 171, alinéa 1, sous 17 pendant lesquelles le travailleur handicapé au sens de l'article 1er de la loi du 12 septembre 2003 relative aux personnes handicapées n'a pas pu être occupé, pour des raisons indépendantes de sa volonté, dans un atelier protégé ainsi que les périodes se situant avant l'entrée en vigueur de cette loi au cours desquelles l'intéressé était, après l'âge de 18 ans par suite d'infirmités physiques ou intellectuelles, hors d'état de gagner sa vie.
+- L'article 172, alinéa 1, est complété par un point 9) libellé comme suit: les périodes précédant celles au titre de l'article 171, alinéa 1, sous 17 pendant lesquelles le travailleur handicapé au sens de l'article 1er de la loi du 12 septembre 2003 relative aux personnes handicapées n'a pas pu être occupé, pour des raisons indépendantes de sa volonté, dans un atelier protégé ainsi que les périodes se situant avant l'entrée en vigueur de cette loi au cours desquelles l'intéressé était, après l'âge de 18 ans par suite d'infirmités physiques ou intellectuelles, hors d'état de gagner sa vie.
 
-6. L'article 187, alinéa 1 est complété par la phrase suivante: Pour les personnes visées à l'article 171, alinéa 1, sous 17), est prise en compte l'activité exercée dans l'atelier protégé.
+- L'article 187, alinéa 1 est complété par la phrase suivante: Pour les personnes visées à l'article 171, alinéa 1, sous 17), est prise en compte l'activité exercée dans l'atelier protégé.
 
-7. L'article 240 est complété par un point 12 ayant la teneur suivante: par parts égales à l'Etat ou l'atelier protégé et aux assurés visés à l'article 171, 17).
+- L'article 240 est complété par un point 12 ayant la teneur suivante: par parts égales à l'Etat ou l'atelier protégé et aux assurés visés à l'article 171, 17).
 
 <a id="art-42"></a>
 ## Art. 42.

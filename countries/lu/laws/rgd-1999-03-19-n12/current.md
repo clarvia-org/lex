@@ -80,17 +80,17 @@ Un service ou une partie de service qui est destiné aux placements urgents jour
 
 Un service ayant pour objet l'accueil et l'hébergement en placement jour et nuit de façon permanente et temporaire des femmes et des jeunes filles enceintes ou accompagnées de leur(s) enfant(s) en bas âge, des hommes ou des couples accompagnés de leur(s) enfant(s) en bas âge. Le centre parental est spécialisé dans l'accompagnement des femmes et hommes ayant à se construire comme parent en tissant des liens avec leur(s) enfant(s). L'équipe éducative veille au bien-être de l'enfant et de ses parents dans leur parentalité mais également, s'il y a lieu et en cas de besoin, dans leur conjugalité. Cet accompagnement pluridisciplinaire offre un encadrement intensif (vingt-quatre heures sur vingt-quatre) et dure au maximum jusqu'à l'âge de 3 ans de l'enfant.
 
-«7». Centre de consultation
+«7» . Centre de consultation
 
-Un service offrant des prestations de consultation, d'information, d'orientation, d'assistance et de guidance aux «usagers», aux «enfants», et/ou à leur entourage.
+Un service offrant des prestations de consultation, d'information, d'orientation, d'assistance et de guidance aux «usagers» , aux «enfants» , et/ou à leur entourage.
 
-«8». Centre de réinsertion et d'insertion
+«8» . Centre de réinsertion et d'insertion
 
 Un service offrant aux «usagers» un enseignement théorique et pratique de base, les préparant à l'autonomie.
 
 (Règl. g.-d. du 19 janvier 2004)
 
-«9». Service d'assistance aux victimes de violence domestique
+«9» . Service d'assistance aux victimes de violence domestique
 
 Un service assistant, guidant et conseillant les personnes victimes de violence domestique en recherchant activement leur contact.
 
@@ -182,23 +182,23 @@ La demande d'agrément est adressée au ministre par la personne physique ou mor
 
 La demande est accompagnée des documents et renseignements suivants:
 
-1. une description détaillée du concept de fonctionnement du service, de la population cible et du nombre d'usagers que le service est prêt à encadrer;
+- une description détaillée du concept de fonctionnement du service, de la population cible et du nombre d'usagers que le service est prêt à encadrer;
 
-2. un engagement formel du gestionnaire que le service est accessible à tout usager indépendamment de toutes considérations d'ordre idéologique, philosophique ou religieux;
+- un engagement formel du gestionnaire que le service est accessible à tout usager indépendamment de toutes considérations d'ordre idéologique, philosophique ou religieux;
 
-3. un plan indiquant pour les différents niveaux les voies de communication interne, la destination des locaux et les équipements de sécurité prévus;
+- un plan indiquant pour les différents niveaux les voies de communication interne, la destination des locaux et les équipements de sécurité prévus;
 
-4. le nom de la personne responsable, les documents relatifs à sa qualification ainsi que ceux prévus à l'article 6 ci-avant, relatifs aux conditions d'honorabilité;
+- le nom de la personne responsable, les documents relatifs à sa qualification ainsi que ceux prévus à l'article 6 ci-avant, relatifs aux conditions d'honorabilité;
 
-5. les documents relatifs aux noms, au nombre et à la qualification des collaborateurs, salariés et/ou bénévoles, ainsi qu'un plan de travail;
+- les documents relatifs aux noms, au nombre et à la qualification des collaborateurs, salariés et/ou bénévoles, ainsi qu'un plan de travail;
 
-6. une copie des statuts et d'éventuelles modifications publiés au Mémorial;
+- une copie des statuts et d'éventuelles modifications publiés au Mémorial;
 
-7. un budget prévisionnel et les pièces documentant la situation financière du service;
+- un budget prévisionnel et les pièces documentant la situation financière du service;
 
-8. le règlement d'ordre intérieur;
+- le règlement d'ordre intérieur;
 
-9. un modèle du contrat d'hébergement prévu à l'article 10 de la loi.
+- un modèle du contrat d'hébergement prévu à l'article 10 de la loi.
 
 Le ministre peut demander tout autre document ou renseignement indispensable à l'établissement du dossier de la demande d'agrément.
 

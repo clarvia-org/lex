@@ -81,11 +81,11 @@ Est interdite toute publicité trompeuse. Aux fins de la présente loi, on enten
 
 Pour déterminer si une publicité est trompeuse, il est tenu compte de tous ses éléments notamment de ses indications concernant:
 
-1. les caractéristiques des biens ou services, telles que leur disponibilité, leur nature, leur exécution, leur composition, le mode et la date de fabrication ou de prestation, leur caractère approprié, leurs utilisations, leur quantité, leurs spécifications, leur origine géographique ou commerciale ou les résultats qui peuvent être attendus de leur utilisation, ou les résultats et les caractéristiques essentiels des tests ou contrôles effectués sur les biens ou les services;
+- les caractéristiques des biens ou services, telles que leur disponibilité, leur nature, leur exécution, leur composition, le mode et la date de fabrication ou de prestation, leur caractère approprié, leurs utilisations, leur quantité, leurs spécifications, leur origine géographique ou commerciale ou les résultats qui peuvent être attendus de leur utilisation, ou les résultats et les caractéristiques essentiels des tests ou contrôles effectués sur les biens ou les services;
 
-2. le prix ou son mode d’établissement et les conditions de fourniture des biens ou des prestations de services;
+- le prix ou son mode d’établissement et les conditions de fourniture des biens ou des prestations de services;
 
-3. la nature, les qualités et les droits de l’annonceur, tels que son identité et son patrimoine, ses qualifications et ses droits de propriété industrielle, commerciale ou intellectuelle ou les prix qu’il a reçus ou ses distinctions.
+- la nature, les qualités et les droits de l’annonceur, tels que son identité et son patrimoine, ses qualifications et ses droits de propriété industrielle, commerciale ou intellectuelle ou les prix qu’il a reçus ou ses distinctions.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -98,21 +98,21 @@ Aux fins de la présente loi, on entend par «publicité comparative»: toute pu
 
 Pour autant que la comparaison est concernée, la publicité comparative est licite dès lors que les conditions suivantes sont satisfaites:
 
-1. elle n’est pas trompeuse au sens de l’article 5;
+- elle n’est pas trompeuse au sens de l’article 5;
 
-2. elle compare des biens ou services répondant aux mêmes besoins ou ayant le même objectif;
+- elle compare des biens ou services répondant aux mêmes besoins ou ayant le même objectif;
 
-3. elle compare objectivement une ou plusieurs caractéristiques essentielles, pertinentes, vérifiables et représentatives de ces biens et services, dont le prix peut faire partie;
+- elle compare objectivement une ou plusieurs caractéristiques essentielles, pertinentes, vérifiables et représentatives de ces biens et services, dont le prix peut faire partie;
 
-4. elle n’engendre pas de confusion sur le marché entre l’annonceur et un concurrent ou entre les marques, noms commerciaux, autres signes distinctifs, biens ou services de l’annonceur et ceux d’un concurrent;
+- elle n’engendre pas de confusion sur le marché entre l’annonceur et un concurrent ou entre les marques, noms commerciaux, autres signes distinctifs, biens ou services de l’annonceur et ceux d’un concurrent;
 
-5. elle n’entraîne pas le discrédit ou le dénigrement des marques, noms commerciaux, autres signes distinctifs, biens, services, activités ou situation d’un concurrent;
+- elle n’entraîne pas le discrédit ou le dénigrement des marques, noms commerciaux, autres signes distinctifs, biens, services, activités ou situation d’un concurrent;
 
-6. pour les produits ayant une appellation d’origine, elle se rapporte dans chaque cas à des produits ayant la même appellation;
+- pour les produits ayant une appellation d’origine, elle se rapporte dans chaque cas à des produits ayant la même appellation;
 
-7. elle ne tire pas indûment profit de la notoriété attachée à une marque, à un nom commercial ou à d’autres signes distinctifs d’un concurrent ou de l’appellation d’origine de produits concurrents;
+- elle ne tire pas indûment profit de la notoriété attachée à une marque, à un nom commercial ou à d’autres signes distinctifs d’un concurrent ou de l’appellation d’origine de produits concurrents;
 
-8. elle ne présente pas un bien ou un service comme une imitation ou une reproduction d’un bien ou d’un service portant une marque ou un nom commercial protégés.
+- elle ne présente pas un bien ou un service comme une imitation ou une reproduction d’un bien ou d’un service portant une marque ou un nom commercial protégés.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -136,9 +136,9 @@ Sont également applicables les articles 2059 à 2066 du Code civil.
 
 En cas de publicité trompeuse ou de publicité comparative illicite, le magistrat présidant la chambre du tribunal d’arrondissement siégeant en matière commerciale peut:
 
-1. exiger que l’annonceur apporte des preuves concernant l’exactitude matérielle des données de fait contenues dans la publicité si, compte tenu des intérêts légitimes de l’annonceur et de toute autre partie à la procédure, une telle exigence paraît appropriée au vu des circonstances du cas d’espèce, et dans le cas de la publicité comparative, exiger que l’annonceur fournisse ses preuves à bref délai;
+- exiger que l’annonceur apporte des preuves concernant l’exactitude matérielle des données de fait contenues dans la publicité si, compte tenu des intérêts légitimes de l’annonceur et de toute autre partie à la procédure, une telle exigence paraît appropriée au vu des circonstances du cas d’espèce, et dans le cas de la publicité comparative, exiger que l’annonceur fournisse ses preuves à bref délai;
 
-2. considérer des données de fait comme inexactes si les preuves exigées conformément au point a) ne sont pas apportées ou sont estimées insuffisantes.
+- considérer des données de fait comme inexactes si les preuves exigées conformément au point a) ne sont pas apportées ou sont estimées insuffisantes.
 
 L’affichage de la décision peut être ordonné à l’intérieur ou à l’extérieur des installations de vente du contrevenant et aux frais de celui-ci. La décision précise la durée de l’affichage et elle peut également ordonner la publication, en totalité ou par extrait aux frais du contrevenant, par la voie des journaux ou de toute autre manière.
 
@@ -151,9 +151,9 @@ Tout manquement aux injonctions ou interdictions portées par une décision coul
 
 Sont punis des mêmes peines:
 
-1. ceux qui ont contrevenu aux dispositions de l’article premier;
+- ceux qui ont contrevenu aux dispositions de l’article premier;
 
-2. ceux qui ont contrevenu aux dispositions des articles 3 à 7.
+- ceux qui ont contrevenu aux dispositions des articles 3 à 7.
 
 Les personnes, les groupements professionnels ou les associations de consommateurs représentatives visés à l’article 8 sont recevables à se constituer partie civile devant les juridictions répressives relativement aux faits portant un préjudice à leurs intérêts particuliers ou collectifs.
 

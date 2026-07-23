@@ -81,9 +81,9 @@ Pour être admis à exercer leurs fonctions à l'étranger, les agents doivent �
 
 L'exequatur sera demandé:
 
-1. par l'agent diplomatique luxembourgeois accrédité dans le pays;
+- par l'agent diplomatique luxembourgeois accrédité dans le pays;
 
-2. à défaut d'agent diplomatique, par le Département des affaires étrangères directement.
+- à défaut d'agent diplomatique, par le Département des affaires étrangères directement.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -162,13 +162,13 @@ Par membres de la famille il y a lieu de comprendre :
 
 Sont considérés comme membres de la famille d’un citoyen luxembourgeois :
 
-1. le conjoint ;
+- le conjoint ;
 
-2. le partenaire avec lequel le citoyen luxembourgeois a contracté un partenariat enregistré conformément aux conditions de fond de l’article 4 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ;
+- le partenaire avec lequel le citoyen luxembourgeois a contracté un partenariat enregistré conformément aux conditions de fond de l’article 4 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ;
 
-3. les descendants directs et les descendants directs du conjoint ou du partenaire visé au point b) qui sont âgés de moins de 21 ans ou qui sont à charge ;
+- les descendants directs et les descendants directs du conjoint ou du partenaire visé au point b) qui sont âgés de moins de 21 ans ou qui sont à charge ;
 
-4. les ascendants directs du citoyen luxembourgeois et les ascendants directs du conjoint ou du partenaire visé au point b).
+- les ascendants directs du citoyen luxembourgeois et les ascendants directs du conjoint ou du partenaire visé au point b).
 
 (2)
 
@@ -365,17 +365,17 @@ Les arrêts, jugements ou actes rendus ou passés dans le Grand-Duché ne pourro
 
 Les consuls prêtent assistance, dans la mesure du possible, aux Luxembourgeois à l’étranger, ainsi qu'aux ressortissants de l’Union européenne non représentés, qui se trouvent en situation de détresse ou de difficulté, notamment dans les cas suivants :
 
-1. arrestation ou détention ;
+- arrestation ou détention ;
 
-2. fait d’être victime d’un crime ou d’un délit ;
+- fait d’être victime d’un crime ou d’un délit ;
 
-3. accident ou maladie grave ;
+- accident ou maladie grave ;
 
-4. décès ;
+- décès ;
 
-5. besoin d’aide et de rapatriement en situation d’urgence ;
+- besoin d’aide et de rapatriement en situation d’urgence ;
 
-6. besoin de titres de voyage provisoires comme prévu dans la décision 96/409/PESC .
+- besoin de titres de voyage provisoires comme prévu dans la décision 96/409/PESC .
 
 (2)
 
@@ -465,15 +465,15 @@ Les taxes sont acquises clans leur intégralité aux agents non rétribués jusq
 
 L'excédent des quotités indiquées ci-dessus est attribué à l'Etat et au consulat suivant la formule ci-après établie:
 
-1. l'excédent de 1 à 25.000 frs. revient à parts égales à l'Etat et au consulat;
+- l'excédent de 1 à 25.000 frs. revient à parts égales à l'Etat et au consulat;
 
-2. l'excédent de 25.000 à 50.000 frs. revient pour 75 % à l'Etat et pour 25 % au consulat;
+- l'excédent de 25.000 à 50.000 frs. revient pour 75 % à l'Etat et pour 25 % au consulat;
 
-3. l'excédent de 50.000 à 75.000 frs. revient pour 87½% à l'Etat et pour 12½ % au consulat;
+- l'excédent de 50.000 à 75.000 frs. revient pour 87½% à l'Etat et pour 12½ % au consulat;
 
-4. l'excédent de 75.000 à 100.000 frs. revient pour 92½% à l'Etat et pour 7½ % au consulat;
+- l'excédent de 75.000 à 100.000 frs. revient pour 92½% à l'Etat et pour 7½ % au consulat;
 
-5. l'excédent dépassant la somme de 100.000 frs. revient pour 95% à l'Etat et pour 5% au consulat.
+- l'excédent dépassant la somme de 100.000 frs. revient pour 95% à l'Etat et pour 5% au consulat.
 
 En cas de changement du titulaire en cours d'année, le calcul de la part revenant au Trésor sera effectué d'après ce barème; le calcul des parts revenant aux différents titulaires se fera au prorata de la durée des mandats respectifs, en tenant compte des recettes de toute l'année.
 
@@ -484,9 +484,9 @@ Le Gouvernement est autorisé à conclure avec les Puissances étrangères des a
 
 La gratuité est en outre acquise de plein droit:
 
-1. aux actes destinés aux indigènes;
+- aux actes destinés aux indigènes;
 
-2. aux documents réclamés par le Directeur général des affaires étrangères dans un intérêt publie ou administratif, ainsi qu'aux actes réclamés en leur qualité officielle pour leur usage personnel ou celui de leur suite, par les agents officiels des autres États, ce à titre de réciprocité.
+- aux documents réclamés par le Directeur général des affaires étrangères dans un intérêt publie ou administratif, ainsi qu'aux actes réclamés en leur qualité officielle pour leur usage personnel ou celui de leur suite, par les agents officiels des autres États, ce à titre de réciprocité.
 
 <a id="art-42"></a>
 ## Art. 42.
@@ -514,9 +514,9 @@ Les dépenses susceptibles d'être remboursées font l'objet de déclarations qu
 
 Ces dépenses sont:
 
-1. les frais de port et d'affranchissement de la correspondance officielle;
+- les frais de port et d'affranchissement de la correspondance officielle;
 
-2. les secours provisoires accordés à des Luxembourgeois qui se trouvent dans une position nécessiteuse, par suite de circonstances indépendantes de leur volonté.
+- les secours provisoires accordés à des Luxembourgeois qui se trouvent dans une position nécessiteuse, par suite de circonstances indépendantes de leur volonté.
 
 Les dépenses indiquées sous le n° 2 sont à justifier par des quittances; le Directeur général des affaires étrangères fixera le montant que les consuls peuvent avancer à un compatriote nécessiteux sans avoir obtenu au préalable l'autorisation du Gouvernement.
 

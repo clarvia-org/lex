@@ -45,27 +45,27 @@ Le programme de formation continue pour le personnel visé par le présent règl
 
 Le programme de formation continue prévoit:
 
-1. une partie de séminaires sur des sujets en relation avec l’administration publique notamment dans les domaines suivants:
+- une partie de séminaires sur des sujets en relation avec l’administration publique notamment dans les domaines suivants:
 
-- management public,
+  - management public,
 
-- communication interne et communication externe,
+  - communication interne et communication externe,
 
-- organisation, procédures et contrôle,
+  - organisation, procédures et contrôle,
 
-- réforme administrative,
+  - réforme administrative,
 
-- égalité des chances entre hommes et femmes,
+  - égalité des chances entre hommes et femmes,
 
-- nouvelles technologies de l’information et de la communication,
+  - nouvelles technologies de l’information et de la communication,
 
-- évolutions des législations,
+  - évolutions des législations,
 
-- évolution et questions d’actualité de l’Union Européenne,
+  - évolution et questions d’actualité de l’Union Européenne,
 
-- formations à l’attention du personnel en congé sans traitement et du personnel rentrant.
+  - formations à l’attention du personnel en congé sans traitement et du personnel rentrant.
 
-2. une partie de séminaires à organiser en fonction des besoins spécifiques des administrations et des établissements publics de l’Etat et qui ne sont accessibles qu’aux agents de l’Etat répondant aux critères de sélection spécifiques prédéfinis.
+- une partie de séminaires à organiser en fonction des besoins spécifiques des administrations et des établissements publics de l’Etat et qui ne sont accessibles qu’aux agents de l’Etat répondant aux critères de sélection spécifiques prédéfinis.
 
 #### Chapitre III. De l’organisation des cours de formation continue
 
@@ -102,19 +102,19 @@ I.
 
 La formation continue du personnel visé par le présent règlement comprend deux catégories de cours.
 
-1. Les cours de la première catégorie sont ceux qui, dans le programme de formation continue, sont caractérisés comme «cours de perfectionnement» et pour lesquels la participation peut donner lieu à une appréciation.
+- Les cours de la première catégorie sont ceux qui, dans le programme de formation continue, sont caractérisés comme «cours de perfectionnement» et pour lesquels la participation peut donner lieu à une appréciation.
 
-2. Les cours de la deuxième catégorie sont ceux qui, dans le programme de formation continue sont caractérisés comme «cours d’intérêt général».
+- Les cours de la deuxième catégorie sont ceux qui, dans le programme de formation continue sont caractérisés comme «cours d’intérêt général».
 
 Le programme de formation continue mentionne pour chaque cours la catégorie dans laquelle il est classé. Les modalités de l’évaluation des connaissances sont définies par le Ministre ayant dans ses attributions la Fonction publique sur avis obligatoire de la commission administrative de l’Institut.
 
 II.
 
-1. L’Institut établit un certificat de perfectionnement pour l’agent qui a accompli un cours de la première catégorie. Le certificat de perfectionnement renseigne sur la participation au cours et sur la durée effective du cours exprimée en jours de cours.
+- L’Institut établit un certificat de perfectionnement pour l’agent qui a accompli un cours de la première catégorie. Le certificat de perfectionnement renseigne sur la participation au cours et sur la durée effective du cours exprimée en jours de cours.
 
-2. L’Institut établit un certificat de présence pour l’agent qui a accompli un cours de deuxième catégorie. Le certificat de présence renseigne sur la participation au cours et sur la durée effective du cours.
+- L’Institut établit un certificat de présence pour l’agent qui a accompli un cours de deuxième catégorie. Le certificat de présence renseigne sur la participation au cours et sur la durée effective du cours.
 
-3. Le certificat de perfectionnement ou le certificat de présence n’est délivré que si l’agent a accompli le cours de formation continue dans son intégralité.
+- Le certificat de perfectionnement ou le certificat de présence n’est délivré que si l’agent a accompli le cours de formation continue dans son intégralité.
 
 III.
 
@@ -135,27 +135,27 @@ Le cycle en management public comprend un niveau d’initiation et un niveau de 
 
 Le niveau de qualification n’est accessible qu’au fonctionnaire qui a suivi l’ensemble des séminaires du niveau d’initiation.
 
-1. Le niveau d’initiation comprend notamment les matières suivantes:
+- Le niveau d’initiation comprend notamment les matières suivantes:
 
-- Conduite de réunions
+  - Conduite de réunions
 
-- Contrôle interne
+  - Contrôle interne
 
-- Prise de parole en public
+  - Prise de parole en public
 
-- Techniques de management
+  - Techniques de management
 
-2. Le niveau de qualification comprend notamment les matières suivantes:
+- Le niveau de qualification comprend notamment les matières suivantes:
 
-- Conduite de collaborateurs
+  - Conduite de collaborateurs
 
-- Fonctions de direction
+  - Fonctions de direction
 
-- Project management
+  - Project management
 
-- Techniques de l’information
+  - Techniques de l’information
 
-- Gestion des ressources humaines
+  - Gestion des ressources humaines
 
 Le Ministre ayant dans ses attributions la Fonction publique peut intégrer d’autres séminaires dans le cycle en management public, la commission administrative de l’Institut entendue en son avis.
 
@@ -211,15 +211,15 @@ II.
 
 La demande doit mentionner:
 
-1. les motifs permettant de constater le caractère exceptionnel du séminaire suivi ainsi que sa compatibilité avec l’intérêt de service
+- les motifs permettant de constater le caractère exceptionnel du séminaire suivi ainsi que sa compatibilité avec l’intérêt de service
 
-2. le sujet du séminaire accompagné d’un bref descriptif
+- le sujet du séminaire accompagné d’un bref descriptif
 
-3. l’organisme ayant assuré la formation
+- l’organisme ayant assuré la formation
 
-4. la date et le lieu du déroulement de l’activité
+- la date et le lieu du déroulement de l’activité
 
-5. la durée effective de l’activité.
+- la durée effective de l’activité.
 
 Elle doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation et attestant que l’agent a effectivement participé à l’activité en question.
 

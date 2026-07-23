@@ -44,79 +44,79 @@ Définitions.
 
 Aux fins de la présente loi, on entend par :
 
-1. « CSSF » : la Commission de surveillance du secteur financier. La CSSF est l'autorité compétente indépendante au Luxembourg ;
+- « CSSF » : la Commission de surveillance du secteur financier. La CSSF est l'autorité compétente indépendante au Luxembourg ;
 
-2. « détenteur d'actions » : toute personne physique ou morale régie par le droit privé ou public, qui détient, directement ou indirectement :
+- « détenteur d'actions » : toute personne physique ou morale régie par le droit privé ou public, qui détient, directement ou indirectement :
 
-1. des actions de l'émetteur, en son propre nom et pour son propre compte ;
+  - des actions de l'émetteur, en son propre nom et pour son propre compte ;
 
-2. des actions de l'émetteur, en son propre nom mais pour le compte d'une autre personne physique ou morale;
+  - des actions de l'émetteur, en son propre nom mais pour le compte d'une autre personne physique ou morale;
 
-3. des certificats représentatifs de valeurs mobilières, auquel cas le détenteur du certificat représentatif est considéré comme le détenteur des actions sous-jacentes représentées par le certificat ;
+  - des certificats représentatifs de valeurs mobilières, auquel cas le détenteur du certificat représentatif est considéré comme le détenteur des actions sous-jacentes représentées par le certificat ;
 
-3. « émetteur » : une personne physique ou une entité juridique régie par le droit privé ou public, y compris un État, dont les valeurs mobilières sont admises à la négociation sur un marché réglementé. Dans le cas de certificats représentatifs de valeurs mobilières admis à la négociation sur un marché réglementé, l'émetteur signifie l'émetteur des valeurs mobilières représentées, qu'elles soient ou non admises à la négociation sur un marché réglementé ;
+- « émetteur » : une personne physique ou une entité juridique régie par le droit privé ou public, y compris un État, dont les valeurs mobilières sont admises à la négociation sur un marché réglementé. Dans le cas de certificats représentatifs de valeurs mobilières admis à la négociation sur un marché réglementé, l'émetteur signifie l'émetteur des valeurs mobilières représentées, qu'elles soient ou non admises à la négociation sur un marché réglementé ;
 
-4. « entreprise contrôlée » : toute entreprise Aux fins de la lettre b), les droits du détenteur en matière de vote, de nomination et de révocation recouvrent les droits de toute autre entreprise contrôlée par le détenteur d'actions et ceux de toute personne physique ou morale agissant, même en son nom propre, pour le compte du détenteur d'actions ou de toute autre entreprise contrôlée par celui-ci ;
+- « entreprise contrôlée » : toute entreprise Aux fins de la lettre b), les droits du détenteur en matière de vote, de nomination et de révocation recouvrent les droits de toute autre entreprise contrôlée par le détenteur d'actions et ceux de toute personne physique ou morale agissant, même en son nom propre, pour le compte du détenteur d'actions ou de toute autre entreprise contrôlée par celui-ci ;
 
-1. dans laquelle une personne physique ou morale détient la majorité des droits de vote ; ou
+  - dans laquelle une personne physique ou morale détient la majorité des droits de vote ; ou
 
-2. dont une personne physique ou morale possède le droit de nommer ou de révoquer la majorité des membres de l'organe d'administration, de direction ou de surveillance, et est en même temps détenteur d'actions ou associé de l'entreprise en question ; ou
+  - dont une personne physique ou morale possède le droit de nommer ou de révoquer la majorité des membres de l'organe d'administration, de direction ou de surveillance, et est en même temps détenteur d'actions ou associé de l'entreprise en question ; ou
 
-3. dont une personne physique ou morale est détenteur d'actions ou associé et contrôle seule, en vertu d'un accord conclu avec d'autres détenteurs d'actions ou associés de l'entreprise en question, la majorité des droits de vote des détenteurs d'actions ou associés ; ou
+  - dont une personne physique ou morale est détenteur d'actions ou associé et contrôle seule, en vertu d'un accord conclu avec d'autres détenteurs d'actions ou associés de l'entreprise en question, la majorité des droits de vote des détenteurs d'actions ou associés ; ou
 
-4. sur laquelle une personne physique ou morale a le pouvoir d'exercer ou exerce effectivement une influence dominante ou un contrôle.
+  - sur laquelle une personne physique ou morale a le pouvoir d'exercer ou exerce effectivement une influence dominante ou un contrôle.
 
-5. « entreprise d'investissement » : toute personne au sens de l'article 4, paragraphe 1, point 1) de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers. Au Luxembourg, il s'agit des personnes visées à la sous- section 1 de la section 2 du chapitre 2 de la partie 1 de la loi modifiée du 5 avril 1993 relative au secteur financier ;
+- « entreprise d'investissement » : toute personne au sens de l'article 4, paragraphe 1, point 1) de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers. Au Luxembourg, il s'agit des personnes visées à la sous- section 1 de la section 2 du chapitre 2 de la partie 1 de la loi modifiée du 5 avril 1993 relative au secteur financier ;
 
-6. « établissement de crédit » : toute personne au sens de l'article 4, point 1) de la directive 2006/48/CE du Parlement européen et du Conseil du 14 juin 2006 concernant l'accès à l'activité des établissements de crédit et son exercice (refonte). Au Luxembourg, il s'agit des personnes dont l'activité répond à la définition contenue dans la loi modifiée du 5 avril 1993 relative au secteur financier ;
+- « établissement de crédit » : toute personne au sens de l'article 4, point 1) de la directive 2006/48/CE du Parlement européen et du Conseil du 14 juin 2006 concernant l'accès à l'activité des établissements de crédit et son exercice (refonte). Au Luxembourg, il s'agit des personnes dont l'activité répond à la définition contenue dans la loi modifiée du 5 avril 1993 relative au secteur financier ;
 
-7. « État membre » : un État membre de l'Union européenne. Sont assimilés aux États membres de l'Union européenne les États parties à l'accord sur l'Espace économique européen (« EEE ») autres que les États membres de l'Union européenne, dans les limites définies par cet accord et les actes y afférents ;
+- « État membre » : un État membre de l'Union européenne. Sont assimilés aux États membres de l'Union européenne les États parties à l'accord sur l'Espace économique européen (« EEE ») autres que les États membres de l'Union européenne, dans les limites définies par cet accord et les actes y afférents ;
 
-8. « État membre d'accueil » : un État membre, autre que l'État membre d'origine, sur le territoire duquel les valeurs mobilières sont admises à la négociation sur un marché réglementé ;
+- « État membre d'accueil » : un État membre, autre que l'État membre d'origine, sur le territoire duquel les valeurs mobilières sont admises à la négociation sur un marché réglementé ;
 
-9. « État membre d'origine » : Au cas où l'émetteur omettrait de rendre public son État membre d'origine au sens de la lettre a), deuxième tiret, ou de la lettre b) dans un délai de trois mois à compter de la date à laquelle ses valeurs mobilières ont été admises pour la première fois à la négociation sur un marché réglementé, l'État membre d'origine est l'État membre dans lequel les valeurs mobilières de l'émetteur sont admises à la négociation sur un marché réglementé. Lorsque les valeurs mobilières de l'émetteur sont admises à la négociation sur des marchés réglementés situés ou fonctionnant dans plusieurs États membres, ces derniers sont considérés comme les États membres d'origine de l'émetteur tant que celui-ci n'a pas choisi ultérieurement un État membre d'origine unique et n'a pas rendu public ce choix. Pour un émetteur dont les valeurs mobilières sont déjà admises à la négociation sur un marché réglementé et dont le choix d'un État membre d'origine visé à la lettre a), deuxième tiret, ou à la lettre b) n'a pas été rendu public avant le 27 novembre 2015, le délai de trois mois commence à courir le 27 novembre 2015. Un émetteur qui a choisi un État membre d'origine visé à la lettre a), deuxième tiret, ou aux lettres b) ou c) et qui a communiqué son choix aux autorités compétentes de l'État membre d'origine pour le 27 novembre 2015, est exempté de l'obligation au titre de l'alinéa 2 du présent point 9) sauf si l'émetteur considéré choisit un autre État membre d'origine après le 27 novembre 2015.
+- « État membre d'origine » : Au cas où l'émetteur omettrait de rendre public son État membre d'origine au sens de la lettre a), deuxième tiret, ou de la lettre b) dans un délai de trois mois à compter de la date à laquelle ses valeurs mobilières ont été admises pour la première fois à la négociation sur un marché réglementé, l'État membre d'origine est l'État membre dans lequel les valeurs mobilières de l'émetteur sont admises à la négociation sur un marché réglementé. Lorsque les valeurs mobilières de l'émetteur sont admises à la négociation sur des marchés réglementés situés ou fonctionnant dans plusieurs États membres, ces derniers sont considérés comme les États membres d'origine de l'émetteur tant que celui-ci n'a pas choisi ultérieurement un État membre d'origine unique et n'a pas rendu public ce choix. Pour un émetteur dont les valeurs mobilières sont déjà admises à la négociation sur un marché réglementé et dont le choix d'un État membre d'origine visé à la lettre a), deuxième tiret, ou à la lettre b) n'a pas été rendu public avant le 27 novembre 2015, le délai de trois mois commence à courir le 27 novembre 2015. Un émetteur qui a choisi un État membre d'origine visé à la lettre a), deuxième tiret, ou aux lettres b) ou c) et qui a communiqué son choix aux autorités compétentes de l'État membre d'origine pour le 27 novembre 2015, est exempté de l'obligation au titre de l'alinéa 2 du présent point 9) sauf si l'émetteur considéré choisit un autre État membre d'origine après le 27 novembre 2015.
 
-1. dans le cas d'un émetteur de titres de créance dont la valeur nominale unitaire est inférieure à 1.000 euros ou d'un émetteur d'actions : La définition de l'État membre d'origine est applicable aux titres de créance libellés dans une autre devise que l'euro, à condition que leur valeur nominale unitaire soit, à la date d'émission, inférieure à 1.000 euros, sauf si elle est presque équivalente à 1.000 euros;
+  - dans le cas d'un émetteur de titres de créance dont la valeur nominale unitaire est inférieure à 1.000 euros ou d'un émetteur d'actions : La définition de l'État membre d'origine est applicable aux titres de créance libellés dans une autre devise que l'euro, à condition que leur valeur nominale unitaire soit, à la date d'émission, inférieure à 1.000 euros, sauf si elle est presque équivalente à 1.000 euros;
 
-- lorsque l'émetteur a son siège statutaire dans un État membre, l'État membre où il a ce siège ;
+    - lorsque l'émetteur a son siège statutaire dans un État membre, l'État membre où il a ce siège ;
 
-- lorsque l'émetteur a son siège statutaire dans un pays tiers, l'État membre choisi par l'émetteur parmi les États membres dans lesquels ses valeurs mobilières sont admises à la négociation sur un marché réglementé. Le choix d'un État membre d'origine demeure valable tant que l'émetteur n'en a pas choisi un nouveau au titre de la lettre c) et n'a pas rendu public son choix conformément au deuxième alinéa du présent point 9).
+    - lorsque l'émetteur a son siège statutaire dans un pays tiers, l'État membre choisi par l'émetteur parmi les États membres dans lesquels ses valeurs mobilières sont admises à la négociation sur un marché réglementé. Le choix d'un État membre d'origine demeure valable tant que l'émetteur n'en a pas choisi un nouveau au titre de la lettre c) et n'a pas rendu public son choix conformément au deuxième alinéa du présent point 9).
 
-2. pour tout émetteur non visé à la lettre a), l'État membre choisi par l'émetteur entre l'État membre où il a son siège statutaire, le cas échéant, et les États membres qui ont admis ses valeurs mobilières à la négociation sur un marché réglementé. L'émetteur ne peut choisir qu'un seul État membre comme État membre d'origine. Son choix demeure valable au moins trois ans sauf si ses valeurs mobilières ne sont plus admises à la négociation sur un marché réglementé ou si l'émetteur vient à relever des lettres a) ou c) au cours de cette période de trois ans.
+  - pour tout émetteur non visé à la lettre a), l'État membre choisi par l'émetteur entre l'État membre où il a son siège statutaire, le cas échéant, et les États membres qui ont admis ses valeurs mobilières à la négociation sur un marché réglementé. L'émetteur ne peut choisir qu'un seul État membre comme État membre d'origine. Son choix demeure valable au moins trois ans sauf si ses valeurs mobilières ne sont plus admises à la négociation sur un marché réglementé ou si l'émetteur vient à relever des lettres a) ou c) au cours de cette période de trois ans.
 
-3. pour un émetteur dont les valeurs mobilières ne sont plus admises à la négociation sur un marché réglementé dans son État membre d'origine au sens de la lettre a), deuxième tiret, ou de la lettre b), mais sont en revanche admises à la négociation dans un ou plusieurs autres États membres, le nouvel État membre d'origine que l'émetteur peut choisir parmi les États membres dans lesquels ses valeurs mobilières sont admises à la négociation sur un marché réglementé et, le cas échéant, l'État membre dans lequel il a son siège statutaire. Un émetteur rend public son État membre d'origine visé aux lettres a), b) ou c) conformément aux articles 19 et 20. En outre, un émetteur communique son choix quant à son État membre d'origine à l'autorité compétente de l'État membre dans lequel il a son siège statutaire, le cas échéant, à l'autorité compétente de l'État membre d'origine et aux autorités compétentes de l'ensemble des États membres d'accueil.
+  - pour un émetteur dont les valeurs mobilières ne sont plus admises à la négociation sur un marché réglementé dans son État membre d'origine au sens de la lettre a), deuxième tiret, ou de la lettre b), mais sont en revanche admises à la négociation dans un ou plusieurs autres États membres, le nouvel État membre d'origine que l'émetteur peut choisir parmi les États membres dans lesquels ses valeurs mobilières sont admises à la négociation sur un marché réglementé et, le cas échéant, l'État membre dans lequel il a son siège statutaire. Un émetteur rend public son État membre d'origine visé aux lettres a), b) ou c) conformément aux articles 19 et 20. En outre, un émetteur communique son choix quant à son État membre d'origine à l'autorité compétente de l'État membre dans lequel il a son siège statutaire, le cas échéant, à l'autorité compétente de l'État membre d'origine et aux autorités compétentes de l'ensemble des États membres d'accueil.
 
-10. « information réglementée » : toute information que l'émetteur, ou toute autre personne ayant sollicité sans le consentement de l'émetteur l'admission de valeurs mobilières à la négociation sur un marché réglementé, est tenu de communiquer en vertu de la présente loi ainsi qu'en vertu des articles 17 et 19 du règlement (UE) n° 596/2014 du Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant la directive 2003/6/CE du Parlement européen et du Conseil et les directives 2003/124/CE, 2003/125/CE et 2004/72/CE de la Commission ;
+- « information réglementée » : toute information que l'émetteur, ou toute autre personne ayant sollicité sans le consentement de l'émetteur l'admission de valeurs mobilières à la négociation sur un marché réglementé, est tenu de communiquer en vertu de la présente loi ainsi qu'en vertu des articles 17 et 19 du règlement (UE) n° 596/2014 du Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant la directive 2003/6/CE du Parlement européen et du Conseil et les directives 2003/124/CE, 2003/125/CE et 2004/72/CE de la Commission ;
 
-11. « marché réglementé » : un marché au sens de l'article 4, paragraphe 1, point 14) de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, c'est-à-dire : un système multilatéral, exploité et/ou géré par un opérateur de marché, qui assure ou facilite la rencontre – en son sein même et selon ses règles non discrétionnaires – de multiples intérêts acheteurs et vendeurs exprimés par des tiers pour des instruments financiers, d'une manière qui aboutisse à la conclusion de contrats portant sur des instruments financiers admis à la négociation dans le cadre de ses règles et/ou de ses systèmes, et qui est agréé et fonctionne régulièrement conformément aux dispositions du titre III de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers. Ces marchés sont inscrits sur la liste que la Commission européenne est tenue de publier sur son site Internet conformément à l'article 47 de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers ;
+- « marché réglementé » : un marché au sens de l'article 4, paragraphe 1, point 14) de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, c'est-à-dire : un système multilatéral, exploité et/ou géré par un opérateur de marché, qui assure ou facilite la rencontre – en son sein même et selon ses règles non discrétionnaires – de multiples intérêts acheteurs et vendeurs exprimés par des tiers pour des instruments financiers, d'une manière qui aboutisse à la conclusion de contrats portant sur des instruments financiers admis à la négociation dans le cadre de ses règles et/ou de ses systèmes, et qui est agréé et fonctionne régulièrement conformément aux dispositions du titre III de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers. Ces marchés sont inscrits sur la liste que la Commission européenne est tenue de publier sur son site Internet conformément à l'article 47 de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers ;
 
-12. « organisme de placement collectif autre que ceux du type fermé » : les fonds communs de placement, les fonds de type « unit trust » et les sociétés d'investissement
+- « organisme de placement collectif autre que ceux du type fermé » : les fonds communs de placement, les fonds de type « unit trust » et les sociétés d'investissement
 
-1. dont l'objet est le placement collectif des capitaux recueillis auprès du public et dont le fonctionnement est soumis au principe de la répartition des risques, et
+  - dont l'objet est le placement collectif des capitaux recueillis auprès du public et dont le fonctionnement est soumis au principe de la répartition des risques, et
 
-2. dont les parts sont, à la demande des porteurs de celles-ci, rachetées ou remboursées, directement ou indirectement, à charge des actifs de ces organismes ;
+  - dont les parts sont, à la demande des porteurs de celles-ci, rachetées ou remboursées, directement ou indirectement, à charge des actifs de ces organismes ;
 
-13. « parts d'un organisme de placement collectif » : les valeurs mobilières émises par un organisme de placement collectif en représentation des droits des participants à cet organisme sur ses actifs ;
+- « parts d'un organisme de placement collectif » : les valeurs mobilières émises par un organisme de placement collectif en représentation des droits des participants à cet organisme sur ses actifs ;
 
-14. « société de gestion » : une société au sens de l'article 1 bis, point 2), de la directive 85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (« OPCVM ») telle que modifiée ;
+- « société de gestion » : une société au sens de l'article 1 bis, point 2), de la directive 85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (« OPCVM ») telle que modifiée ;
 
-15. « teneur de marché » : une personne qui est présente de manière continue sur les marchés financiers pour négocier pour son propre compte et qui se porte acheteuse et vendeuse d'instruments financiers tels que définis au point 17) de l'article 4 de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, en engageant ses propres capitaux, à des prix fixés par elle ;
+- « teneur de marché » : une personne qui est présente de manière continue sur les marchés financiers pour négocier pour son propre compte et qui se porte acheteuse et vendeuse d'instruments financiers tels que définis au point 17) de l'article 4 de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, en engageant ses propres capitaux, à des prix fixés par elle ;
 
-16. « titres de créance » : les obligations et autres formes de créances titrisées négociables, à l'exception des valeurs mobilières qui sont équivalentes à des actions ou qui, après leur conversion ou l'exercice des droits qu'elles confèrent, donnent naissance à un droit d'acquérir des actions ou des valeurs mobilières équivalant à des actions ;
+- « titres de créance » : les obligations et autres formes de créances titrisées négociables, à l'exception des valeurs mobilières qui sont équivalentes à des actions ou qui, après leur conversion ou l'exercice des droits qu'elles confèrent, donnent naissance à un droit d'acquérir des actions ou des valeurs mobilières équivalant à des actions ;
 
-17. « valeurs mobilières » : les catégories de titres négociables sur le marché des capitaux (à l'exception des instruments de paiement), telles que :
+- « valeurs mobilières » : les catégories de titres négociables sur le marché des capitaux (à l'exception des instruments de paiement), telles que :
 
-1. les actions de sociétés et autres titres équivalents à des actions de sociétés, de sociétés de type partnership ou d'autres entités ainsi que les certificats représentatifs d'actions ;
+  - les actions de sociétés et autres titres équivalents à des actions de sociétés, de sociétés de type partnership ou d'autres entités ainsi que les certificats représentatifs d'actions ;
 
-2. les obligations et les autres titres de créance, y compris les certificats d'actions concernant de tels titres ;
+  - les obligations et les autres titres de créance, y compris les certificats d'actions concernant de tels titres ;
 
-3. toute autre valeur donnant le droit d'acquérir ou de vendre de telles valeurs ou donnant lieu à un règlement en espèces, fixé par référence à des valeurs mobilières, à une monnaie, à un taux d'intérêt ou rendement, aux matières premières ou à d'autres indices ou mesures ; au sens de l'article 4, paragraphe 1, point 18), de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, à l'exception des catégories d'instruments habituellement négociées sur le marché monétaire, telles que les bons du Trésor, les certificats de dépôt et les effets de commerce (à l'exclusion des instruments de paiement), au sens de l'article 4, paragraphe 1, point 19), de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, ayant une échéance inférieure à 12 mois ;
+  - toute autre valeur donnant le droit d'acquérir ou de vendre de telles valeurs ou donnant lieu à un règlement en espèces, fixé par référence à des valeurs mobilières, à une monnaie, à un taux d'intérêt ou rendement, aux matières premières ou à d'autres indices ou mesures ; au sens de l'article 4, paragraphe 1, point 18), de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, à l'exception des catégories d'instruments habituellement négociées sur le marché monétaire, telles que les bons du Trésor, les certificats de dépôt et les effets de commerce (à l'exclusion des instruments de paiement), au sens de l'article 4, paragraphe 1, point 19), de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, ayant une échéance inférieure à 12 mois ;
 
-18. « valeurs mobilières émises d'une manière continue ou répétée » : des titres de créance du même émetteur, émis au robinet ou des valeurs mobilières appartenant à un même type et/ou à une même catégorie ayant fait l'objet d'au moins deux émissions distinctes ;
+- « valeurs mobilières émises d'une manière continue ou répétée » : des titres de créance du même émetteur, émis au robinet ou des valeurs mobilières appartenant à un même type et/ou à une même catégorie ayant fait l'objet d'au moins deux émissions distinctes ;
 
-19. « voie électronique » : les moyens électroniques de traitement (y compris la compression numérique), de stockage et de transmission des données par câble, ondes radio, technologie optique, ou tout autre moyen électromagnétique.
+- « voie électronique » : les moyens électroniques de traitement (y compris la compression numérique), de stockage et de transmission des données par câble, ondes radio, technologie optique, ou tout autre moyen électromagnétique.
 
-20. « accord formel » : un accord contraignant en vertu du droit applicable.
+- « accord formel » : un accord contraignant en vertu du droit applicable.
 
 (2)
 
@@ -154,11 +154,11 @@ L'émetteur dont le Luxembourg est l'État membre d'origine publie son rapport f
 
 Le rapport financier annuel comprend :
 
-1. les états financiers ayant fait l'objet d'un audit ;
+- les états financiers ayant fait l'objet d'un audit ;
 
-2. le rapport de gestion ; et
+- le rapport de gestion ; et
 
-3. des déclarations des personnes responsables au sein de l'émetteur, clairement identifiées par leurs noms et fonctions, indiquant que, à leur connaissance, les états financiers établis conformément au corps de normes comptables applicable donnent une image fidèle et honnête des éléments d'actif et de passif, de la situation financière et des profits ou pertes de l'émetteur et de l'ensemble des entreprises comprises dans la consolidation, et que le rapport de gestion présente fidèlement l'évolution et les résultats de l'entreprise, la situation de l'émetteur et de l'ensemble des entreprises comprises dans la consolidation et une description des principaux risques et incertitudes auxquels ils sont confrontés.
+- des déclarations des personnes responsables au sein de l'émetteur, clairement identifiées par leurs noms et fonctions, indiquant que, à leur connaissance, les états financiers établis conformément au corps de normes comptables applicable donnent une image fidèle et honnête des éléments d'actif et de passif, de la situation financière et des profits ou pertes de l'émetteur et de l'ensemble des entreprises comprises dans la consolidation, et que le rapport de gestion présente fidèlement l'évolution et les résultats de l'entreprise, la situation de l'émetteur et de l'ensemble des entreprises comprises dans la consolidation et une description des principaux risques et incertitudes auxquels ils sont confrontés.
 
 (3)
 
@@ -189,11 +189,11 @@ L'émetteur d'actions ou de titres de créance dont le Luxembourg est l'État me
 
 Le rapport financier semestriel comprend :
 
-1. un jeu d'états financiers résumés ;
+- un jeu d'états financiers résumés ;
 
-2. un rapport de gestion intermédiaire ; et
+- un rapport de gestion intermédiaire ; et
 
-3. des déclarations des personnes responsables au sein de l'émetteur, clairement identifiées par leurs noms et fonctions, indiquant que, à leur connaissance, le jeu d'états financiers résumés établi conformément au corps de normes comptables applicable donne une image fidèle et honnête des éléments d'actif et de passif, de la situation financière et des profits ou pertes de l'émetteur, ou de l'ensemble des entreprises comprises dans la consolidation comme l'exige le paragraphe 3, et que le rapport de gestion intermédiaire représente fidèlement les informations exigées en vertu du paragraphe 4.
+- des déclarations des personnes responsables au sein de l'émetteur, clairement identifiées par leurs noms et fonctions, indiquant que, à leur connaissance, le jeu d'états financiers résumés établi conformément au corps de normes comptables applicable donne une image fidèle et honnête des éléments d'actif et de passif, de la situation financière et des profits ou pertes de l'émetteur, ou de l'ensemble des entreprises comprises dans la consolidation comme l'exige le paragraphe 3, et que le rapport de gestion intermédiaire représente fidèlement les informations exigées en vertu du paragraphe 4.
 
 (3)
 
@@ -234,9 +234,9 @@ Exemptions.
 
 Les articles 3 et 4 ne s'appliquent pas aux émetteurs suivants :
 
-1. les États et leurs collectivités régionales ou locales, les organismes publics internationaux comptant au moins un État membre parmi leurs membres, la Banque centrale européenne (BCE), le Fonds européen de stabilité financière (FESF) établi par l'accord-cadre régissant le FESF et tout autre mécanisme établi en vue de préserver la stabilité financière de l'union monétaire européenne en prêtant une assistance financière temporaire à des États membres dont la monnaie est l'euro et les banques centrales nationales des États membres, émetteurs ou non d'actions ou d'autres valeurs mobilières ; et
+- les États et leurs collectivités régionales ou locales, les organismes publics internationaux comptant au moins un État membre parmi leurs membres, la Banque centrale européenne (BCE), le Fonds européen de stabilité financière (FESF) établi par l'accord-cadre régissant le FESF et tout autre mécanisme établi en vue de préserver la stabilité financière de l'union monétaire européenne en prêtant une assistance financière temporaire à des États membres dont la monnaie est l'euro et les banques centrales nationales des États membres, émetteurs ou non d'actions ou d'autres valeurs mobilières ; et
 
-2. les entités qui émettent uniquement des titres de créance admis à la négociation sur un marché réglementé, dont la valeur nominale unitaire est au moins égale à 100.000 euros ou, pour les titres de créance libellés dans une devise autre que l'euro, dont la valeur nominale unitaire est équivalente à au moins 100.000 euros à la date d'émission.
+- les entités qui émettent uniquement des titres de créance admis à la négociation sur un marché réglementé, dont la valeur nominale unitaire est au moins égale à 100.000 euros ou, pour les titres de créance libellés dans une devise autre que l'euro, dont la valeur nominale unitaire est équivalente à au moins 100.000 euros à la date d'émission.
 
 (2)
 
@@ -277,17 +277,17 @@ Le présent article ne s'applique pas aux actions, y compris les certificats rep
 
 Le présent article ne s'applique pas non plus à l'acquisition ou à la cession d'une participation importante, atteignant ou dépassant le seuil de 5%, par un teneur de marché agissant en cette qualité, pour autant :
 
-1. qu'il soit agréé par son État membre d'origine en vertu de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers ; et
+- qu'il soit agréé par son État membre d'origine en vertu de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers ; et
 
-2. qu'il n'intervienne pas dans la gestion de l'émetteur concerné ni n'exerce aucune influence pour pousser l'émetteur à acquérir ces actions ou à en soutenir le prix.
+- qu'il n'intervienne pas dans la gestion de l'émetteur concerné ni n'exerce aucune influence pour pousser l'émetteur à acquérir ces actions ou à en soutenir le prix.
 
 (5)
 
 Le présent article ne s'applique pas aux droits de vote qui sont détenus dans le portefeuille de négociation, au sens de l'article 11 de la directive 2006/49/CE du Parlement européen et du Conseil du 14 juin 2006 sur l'adéquation des fonds propres des entreprises d'investissement et des établissements de crédit, d'un établissement de crédit ou d'une entreprise d'investissement, pour autant que :
 
-1. les droits de vote détenus dans le portefeuille de négociation ne dépassent pas 5%, et
+- les droits de vote détenus dans le portefeuille de négociation ne dépassent pas 5%, et
 
-2. les droits de vote attachés aux actions détenues dans le portefeuille de négociation ne soient pas exercés ni utilisés autrement pour intervenir dans la gestion de l'émetteur.
+- les droits de vote attachés aux actions détenues dans le portefeuille de négociation ne soient pas exercés ni utilisés autrement pour intervenir dans la gestion de l'émetteur.
 
 (6)
 
@@ -300,21 +300,21 @@ Acquisition ou cession de pourcentages importants de droits de vote.
 
 Les exigences en matière de notification définies à l'article 8, paragraphes 1 et 2, s'appliquent également à une personne physique ou morale dans la mesure où elle a le droit d'acquérir, de céder ou d'exercer des droits de vote lorsque l'un des cas ci-après ou une combinaison de ces cas se présente :
 
-1. les droits de vote sont détenus par un tiers avec qui cette personne a conclu un accord qui les oblige à adopter, par un exercice concerté des droits de vote qu'ils détiennent, une politique commune durable en ce qui concerne la gestion de la société en question ;
+- les droits de vote sont détenus par un tiers avec qui cette personne a conclu un accord qui les oblige à adopter, par un exercice concerté des droits de vote qu'ils détiennent, une politique commune durable en ce qui concerne la gestion de la société en question ;
 
-2. les droits de vote sont détenus par un tiers en vertu d'un accord conclu avec cette personne et prévoyant le transfert temporaire et à titre onéreux des droits de vote en question ;
+- les droits de vote sont détenus par un tiers en vertu d'un accord conclu avec cette personne et prévoyant le transfert temporaire et à titre onéreux des droits de vote en question ;
 
-3. les droits de vote sont attachés à des actions qui sont déposées en garantie auprès de cette personne, pour autant que celle-ci contrôle les droits de vote et déclare qu'elle a l'intention de les exercer ;
+- les droits de vote sont attachés à des actions qui sont déposées en garantie auprès de cette personne, pour autant que celle-ci contrôle les droits de vote et déclare qu'elle a l'intention de les exercer ;
 
-4. les droits de vote sont attachés à des actions dont cette personne a l'usufruit ;
+- les droits de vote sont attachés à des actions dont cette personne a l'usufruit ;
 
-5. les droits de vote sont détenus, ou peuvent être exercés au sens des lettres a) à d), par une entreprise contrôlée par cette personne ;
+- les droits de vote sont détenus, ou peuvent être exercés au sens des lettres a) à d), par une entreprise contrôlée par cette personne ;
 
-6. les droits de vote sont attachés à des actions déposées auprès de cette personne et celle-ci peut les exercer comme elle l'entend en l'absence d'instructions spécifiques des détenteurs d'actions ;
+- les droits de vote sont attachés à des actions déposées auprès de cette personne et celle-ci peut les exercer comme elle l'entend en l'absence d'instructions spécifiques des détenteurs d'actions ;
 
-7. les droits de vote sont détenus par un tiers en son nom propre pour le compte de cette personne ;
+- les droits de vote sont détenus par un tiers en son nom propre pour le compte de cette personne ;
 
-8. cette personne peut exercer les droits de vote en tant que mandataire et comme elle l'entend en l'absence d'instructions spécifiques des détenteurs d'actions.
+- cette personne peut exercer les droits de vote en tant que mandataire et comme elle l'entend en l'absence d'instructions spécifiques des détenteurs d'actions.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -338,21 +338,21 @@ Procédure en matière de notification et de publicité des participations impor
 
 La CSSF détermine le contenu et la forme de la notification qui est requise en vertu des articles 8 et 9. Cette notification comprend les informations suivantes :
 
-1. la situation qui résulte de l'opération, en termes de droits de vote ;
+- la situation qui résulte de l'opération, en termes de droits de vote ;
 
-2. la chaîne des entreprises contrôlées par l'intermédiaire desquelles les droits de vote sont effectivement détenus, le cas échéant ;
+- la chaîne des entreprises contrôlées par l'intermédiaire desquelles les droits de vote sont effectivement détenus, le cas échéant ;
 
-3. la date à laquelle le seuil a été atteint ou dépassé ; et
+- la date à laquelle le seuil a été atteint ou dépassé ; et
 
-4. l'identité du détenteur d'actions, même s'il n'est pas habilité à exercer les droits de vote dans les conditions énoncées à l'article 9, et de la personne physique ou morale habilitée à exercer les droits de vote pour le compte de ce détenteur.
+- l'identité du détenteur d'actions, même s'il n'est pas habilité à exercer les droits de vote dans les conditions énoncées à l'article 9, et de la personne physique ou morale habilitée à exercer les droits de vote pour le compte de ce détenteur.
 
 (2)
 
 La notification à l'émetteur est effectuée rapidement et au plus tard dans un délai de quatre jours de cotation, suivant la date à laquelle le détenteur d'actions, ou la personne physique ou morale visée à l'article 9,
 
-1. a connaissance de l'acquisition ou de la cession, ou de la possibilité d'exercer les droits de vote, ou à laquelle il/elle aurait dû en avoir connaissance, compte tenu des circonstances, quelle que soit la date à laquelle l'acquisition, la cession ou la possibilité d'exercer les droits de vote prend effet ; ou
+- a connaissance de l'acquisition ou de la cession, ou de la possibilité d'exercer les droits de vote, ou à laquelle il/elle aurait dû en avoir connaissance, compte tenu des circonstances, quelle que soit la date à laquelle l'acquisition, la cession ou la possibilité d'exercer les droits de vote prend effet ; ou
 
-2. est informé(e) de l'événement visé à l'article 8, paragraphe 2.
+- est informé(e) de l'événement visé à l'article 8, paragraphe 2.
 
 (3)
 
@@ -368,11 +368,11 @@ Cependant, les articles 8 et 9 s'appliquent lorsque l'entreprise mère, ou une a
 
 L'entreprise mère d'une entreprise d'investissement agréée en vertu de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers n'est pas tenue d'agréger ses participations relevant des articles 8 et 9 avec les participations qui sont gérées par cette entreprise d'investissement de manière individualisée au sens de l'article 4, paragraphe 1, point 9), de cette directive, pour autant :
 
-1. que l'entreprise d'investissement soit autorisée à fournir de tels services de gestion de portefeuille en vertu de la section A, point 4, de l'annexe I de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers ;
+- que l'entreprise d'investissement soit autorisée à fournir de tels services de gestion de portefeuille en vertu de la section A, point 4, de l'annexe I de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers ;
 
-2. qu'elle ne puisse exercer les droits de vote attachés à ces actions que si elle a reçu des instructions par écrit ou par voie électronique ou qu'elle garantisse, par la mise en place de mécanismes appropriés, que les services de gestion individualisée de portefeuille sont rendus indépendamment de tout autre service dans des conditions équivalentes à celles prévues par la directive 85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (« OPCVM ») telle que modifiée ; et
+- qu'elle ne puisse exercer les droits de vote attachés à ces actions que si elle a reçu des instructions par écrit ou par voie électronique ou qu'elle garantisse, par la mise en place de mécanismes appropriés, que les services de gestion individualisée de portefeuille sont rendus indépendamment de tout autre service dans des conditions équivalentes à celles prévues par la directive 85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (« OPCVM ») telle que modifiée ; et
 
-3. que l'entreprise d'investissement exerce ses droits de vote indépendamment de l'entreprise mère. Cependant, les articles 8 et 9 s'appliquent lorsque l'entreprise mère, ou une autre entreprise contrôlée par l'entreprise mère, a investi dans des participations gérées par ladite entreprise d'investissement et que celle-ci ne peut exercer comme elle l'entend les droits de vote attachés à ces participations et ne peut exercer ces droits de vote que sur instructions directes ou indirectes de l'entreprise mère ou d'une autre entreprise contrôlée par l'entreprise mère.
+- que l'entreprise d'investissement exerce ses droits de vote indépendamment de l'entreprise mère. Cependant, les articles 8 et 9 s'appliquent lorsque l'entreprise mère, ou une autre entreprise contrôlée par l'entreprise mère, a investi dans des participations gérées par ladite entreprise d'investissement et que celle-ci ne peut exercer comme elle l'entend les droits de vote attachés à ces participations et ne peut exercer ces droits de vote que sur instructions directes ou indirectes de l'entreprise mère ou d'une autre entreprise contrôlée par l'entreprise mère.
 
 (6)
 
@@ -391,9 +391,9 @@ Instruments financiers spécifiques.
 
 Les obligations en matière de notification prévues à l'article 8 s'appliquent également à une personne physique ou morale qui détient, directement ou indirectement :
 
-1. des instruments financiers qui, à l'échéance, lui donnent, en vertu d'un accord formel, soit le droit inconditionnel d'acquérir, soit la faculté d'acquérir des actions auxquelles sont attachés des droits de vote et déjà émises, d'un émetteur dont les actions sont admises à la négociation sur un marché réglementé ;
+- des instruments financiers qui, à l'échéance, lui donnent, en vertu d'un accord formel, soit le droit inconditionnel d'acquérir, soit la faculté d'acquérir des actions auxquelles sont attachés des droits de vote et déjà émises, d'un émetteur dont les actions sont admises à la négociation sur un marché réglementé ;
 
-2. des instruments financiers qui ne figurent pas à la lettre a), mais qui font référence à des actions visées à cette lettre, et dont l'effet économique est similaire à celui des instruments financiers visés à cette lettre, qu'ils donnent droit à un règlement physique ou non.
+- des instruments financiers qui ne figurent pas à la lettre a), mais qui font référence à des actions visées à cette lettre, et dont l'effet économique est similaire à celui des instruments financiers visés à cette lettre, qu'ils donnent droit à un règlement physique ou non.
 
 La notification exigée inclut la répartition par type d'instruments financiers détenus conformément à l'alinéa 1, lettre a), et d'instruments financiers détenus conformément à la lettre b) dudit alinéa, une distinction étant opérée entre les instruments financiers qui donnent droit à un règlement physique et les instruments financiers qui donnent droit à un règlement en espèces.
 
@@ -405,19 +405,19 @@ Le nombre de droits de vote est calculé par référence au nombre notionnel tot
 
 Aux fins du paragraphe 1er, sont considérés comme étant des instruments financiers, pour autant qu'ils satisfassent à l'une quelconque des conditions énoncées au paragraphe 1er, alinéa 1, lettre a) ou b) :
 
-1. les valeurs mobilières ;
+- les valeurs mobilières ;
 
-2. les contrats d'option ;
+- les contrats d'option ;
 
-3. les contrats à terme (futures) ;
+- les contrats à terme (futures) ;
 
-4. les contrats d'échange ;
+- les contrats d'échange ;
 
-5. les accords de taux futurs ;
+- les accords de taux futurs ;
 
-6. les contrats financiers pour différences ; et
+- les contrats financiers pour différences ; et
 
-7. tous autres contrats ou accords ayant un effet économique similaire susceptibles d'être réglés par une livraison physique ou en numéraire.
+- tous autres contrats ou accords ayant un effet économique similaire susceptibles d'être réglés par une livraison physique ou en numéraire.
 
 (4)
 
@@ -480,25 +480,25 @@ L'émetteur d'actions admises à la négociation sur un marché réglementé et 
 
 Aux fins du paragraphe 1er, l'émetteur veille à ce que tous les moyens et toutes les informations nécessaires pour permettre aux détenteurs d'actions d'exercer leurs droits soient disponibles dans l'État membre d'origine et à ce que l'intégrité des données soit préservée. Les détenteurs d'actions ne sont pas empêchés d'exercer leurs droits par procuration, dans les conditions prévues par la loi du pays où l'émetteur a son siège statutaire. En particulier, l'émetteur :
 
-1. fournit des informations sur le lieu, le moment et l'ordre du jour des assemblées, le nombre total d'actions et de droits de vote et le droit des détenteurs de participer aux assemblées ;
+- fournit des informations sur le lieu, le moment et l'ordre du jour des assemblées, le nombre total d'actions et de droits de vote et le droit des détenteurs de participer aux assemblées ;
 
-2. met à la disposition de chaque personne autorisée à voter à une assemblée de détenteurs d'actions un formulaire de procuration, sur papier ou, le cas échéant, par voie électronique, en même temps que l'avis de convocation de l'assemblée ou, sur demande, après l'annonce d'une assemblée ;
+- met à la disposition de chaque personne autorisée à voter à une assemblée de détenteurs d'actions un formulaire de procuration, sur papier ou, le cas échéant, par voie électronique, en même temps que l'avis de convocation de l'assemblée ou, sur demande, après l'annonce d'une assemblée ;
 
-3. désigne un établissement financier comme mandataire auprès duquel les détenteurs d'actions peuvent exercer leurs droits financiers ; et
+- désigne un établissement financier comme mandataire auprès duquel les détenteurs d'actions peuvent exercer leurs droits financiers ; et
 
-4. publie des avis ou diffuse des circulaires concernant l'attribution et le paiement des dividendes et l'émission de nouvelles actions, y compris des informations sur les modalités éventuelles d'attribution, de souscription, d'annulation ou de conversion.
+- publie des avis ou diffuse des circulaires concernant l'attribution et le paiement des dividendes et l'émission de nouvelles actions, y compris des informations sur les modalités éventuelles d'attribution, de souscription, d'annulation ou de conversion.
 
 (3)
 
 Les émetteurs sont autorisés à utiliser la voie électronique pour la transmission des informations aux détenteurs d'actions, pour autant que cette décision soit prise en assemblée générale et qu'au moins les conditions suivantes soient remplies :
 
-1. l'utilisation de la voie électronique ne dépend en aucun cas du lieu du siège ou du domicile du détenteur d'actions ou, dans les cas visés à l'article 9, lettres a) à h), des personnes physiques ou morales ;
+- l'utilisation de la voie électronique ne dépend en aucun cas du lieu du siège ou du domicile du détenteur d'actions ou, dans les cas visés à l'article 9, lettres a) à h), des personnes physiques ou morales ;
 
-2. des dispositions d'identification sont prévues afin que les détenteurs d'actions ou les personnes physiques ou morales habilitées à exercer les droits de vote ou à donner des instructions concernant leur exercice soient effectivement informés ;
+- des dispositions d'identification sont prévues afin que les détenteurs d'actions ou les personnes physiques ou morales habilitées à exercer les droits de vote ou à donner des instructions concernant leur exercice soient effectivement informés ;
 
-3. les détenteurs d'actions ou, dans les cas visés à l'article 9, lettres a) à e), les personnes physiques ou morales habilitées à acquérir, céder ou exercer les droits de vote, sont invités par écrit à donner leur consentement au recours à la voie électronique pour la transmission d'informations. S'ils ne s'opposent pas dans un délai raisonnable, leur consentement est réputé acquis. Ils doivent être en mesure de demander à n'importe quel moment par la suite que les informations leur soient de nouveau transmises par écrit ; et
+- les détenteurs d'actions ou, dans les cas visés à l'article 9, lettres a) à e), les personnes physiques ou morales habilitées à acquérir, céder ou exercer les droits de vote, sont invités par écrit à donner leur consentement au recours à la voie électronique pour la transmission d'informations. S'ils ne s'opposent pas dans un délai raisonnable, leur consentement est réputé acquis. Ils doivent être en mesure de demander à n'importe quel moment par la suite que les informations leur soient de nouveau transmises par écrit ; et
 
-4. toute répartition des coûts inhérents à la transmission de ces informations par voie électronique est déterminée par l'émetteur conformément au principe d'égalité de traitement énoncé au paragraphe 1er.
+- toute répartition des coûts inhérents à la transmission de ces informations par voie électronique est déterminée par l'émetteur conformément au principe d'égalité de traitement énoncé au paragraphe 1er.
 
 <a id="art-17"></a>
 ## Art. 17.
@@ -513,11 +513,11 @@ L'émetteur de titres de créance admis à la négociation sur un marché régle
 
 Aux fins du paragraphe 1er, l'émetteur veille à ce que tous les moyens et toutes les informations nécessaires pour permettre aux détenteurs de titres de créance d'exercer leurs droits soient disponibles dans l'État membre d'origine et à ce que l'intégrité des données soit préservée. Les détenteurs de titres de créance ne sont pas empêchés d'exercer leurs droits par procuration, dans les conditions prévues par la loi du pays où l'émetteur a son siège statutaire. En particulier, l'émetteur :
 
-1. publie des avis ou diffuse des circulaires concernant le lieu, le moment et l'ordre du jour des assemblées des détenteurs de titres de créance, le paiement des intérêts, l'exercice des droits éventuels de conversion, d'échange, de souscription ou d'annulation, et le remboursement, ainsi que le droit de ces détenteurs d'y participer ;
+- publie des avis ou diffuse des circulaires concernant le lieu, le moment et l'ordre du jour des assemblées des détenteurs de titres de créance, le paiement des intérêts, l'exercice des droits éventuels de conversion, d'échange, de souscription ou d'annulation, et le remboursement, ainsi que le droit de ces détenteurs d'y participer ;
 
-2. met à la disposition de chaque personne autorisée à voter à une assemblée de détenteurs de titres de créances un formulaire de procuration, sur papier ou, le cas échéant, par voie électronique, en même temps que l'avis de convocation de l'assemblée ou, sur demande, après l'annonce d'une assemblée ; et
+- met à la disposition de chaque personne autorisée à voter à une assemblée de détenteurs de titres de créances un formulaire de procuration, sur papier ou, le cas échéant, par voie électronique, en même temps que l'avis de convocation de l'assemblée ou, sur demande, après l'annonce d'une assemblée ; et
 
-3. désigne un établissement financier comme mandataire auprès duquel les détenteurs de titres de créance peuvent exercer leurs droits financiers.
+- désigne un établissement financier comme mandataire auprès duquel les détenteurs de titres de créance peuvent exercer leurs droits financiers.
 
 (3)
 
@@ -529,13 +529,13 @@ Le choix visé au premier alinéa s'applique aussi en ce qui concerne les déten
 
 Les émetteurs sont autorisés à utiliser la voie électronique pour la transmission des informations aux détenteurs de titres de créance, pour autant que cette décision soit prise en assemblée générale et qu'au moins les conditions suivantes soient remplies :
 
-1. l'utilisation de la voie électronique ne dépend en aucun cas du lieu du siège ou du domicile du détenteur de titres de créance ou du mandataire qui le représente ;
+- l'utilisation de la voie électronique ne dépend en aucun cas du lieu du siège ou du domicile du détenteur de titres de créance ou du mandataire qui le représente ;
 
-2. des dispositions d'identification sont prévues afin que les détenteurs de titres de créance soient effectivement informés ;
+- des dispositions d'identification sont prévues afin que les détenteurs de titres de créance soient effectivement informés ;
 
-3. les détenteurs de titres de créance sont invités par écrit à donner leur consentement au recours à la voie électronique pour la transmission d'informations. S'ils ne s'opposent pas dans un délai raisonnable, leur consentement est réputé acquis. Ils doivent être en mesure de demander à n'importe quel moment par la suite que les informations leur soient de nouveau transmises par écrit ; et
+- les détenteurs de titres de créance sont invités par écrit à donner leur consentement au recours à la voie électronique pour la transmission d'informations. S'ils ne s'opposent pas dans un délai raisonnable, leur consentement est réputé acquis. Ils doivent être en mesure de demander à n'importe quel moment par la suite que les informations leur soient de nouveau transmises par écrit ; et
 
-4. toute répartition des coûts inhérents à la transmission des informations par voie électronique est déterminée par l'émetteur conformément au principe d'égalité de traitement énoncé au paragraphe 1er.
+- toute répartition des coûts inhérents à la transmission des informations par voie électronique est déterminée par l'émetteur conformément au principe d'égalité de traitement énoncé au paragraphe 1er.
 
 #### Chapitre IV Obligations générales.
 
@@ -631,21 +631,21 @@ Accessibilité des informations sur le point d'accès unique européen.
 
 Les informations réglementées satisfont aux exigences suivantes :
 
-1. elles sont communiquées dans un format permettant l'extraction de données au sens de l'article 2, point 3), du règlement (UE) 2023/2859, ou, le cas échéant, dans un format lisible par machine au sens de l'article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l'extraction de données au sens de l'article 2, point 3), du règlement (UE) 2023/2859, ou, le cas échéant, dans un format lisible par machine au sens de l'article 2, point 4), dudit règlement ;
 
-2. elles sont accompagnées des métadonnées suivantes :
+- elles sont accompagnées des métadonnées suivantes :
 
-1. tous les noms de l'émetteur auquel les informations se rapportent ;
+  - tous les noms de l'émetteur auquel les informations se rapportent ;
 
-2. l'identifiant d'entité juridique de l'émetteur, précisé conformément à l'article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
+  - l'identifiant d'entité juridique de l'émetteur, précisé conformément à l'article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
 
-3. la taille de l'émetteur, suivant la catégorie précisée conformément à l'article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
+  - la taille de l'émetteur, suivant la catégorie précisée conformément à l'article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
 
-4. les secteurs industriels des activités économiques de l'émetteur, précisés conformément à l'article 7, paragraphe 4, lettre e), du règlement (UE) 2023/2859 ;
+  - les secteurs industriels des activités économiques de l'émetteur, précisés conformément à l'article 7, paragraphe 4, lettre e), du règlement (UE) 2023/2859 ;
 
-5. le type d'informations concerné, suivant la classification prévue par l'article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
+  - le type d'informations concerné, suivant la classification prévue par l'article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
 
-6. une mention précisant si les informations contiennent des données à caractère personnel.
+  - une mention précisant si les informations contiennent des données à caractère personnel.
 
 (2)
 
@@ -697,31 +697,31 @@ La CSSF est investie de tous les pouvoirs de surveillance et d'enquête nécessa
 
 Les pouvoirs de la CSSF incluent notamment le droit :
 
-1. d'exiger des réviseurs d'entreprises agréés, des contrôleurs légaux des comptes, ou des contrôleurs de pays tiers, des émetteurs, des personnes qui ont demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur, des détenteurs d'actions ou d'autres instruments financiers, ou des personnes visées aux articles 9 ou 12, des personnes qui les contrôlent ou sont contrôlées par eux et des OAM, qu'ils fournissent des informations et des documents ;
+- d'exiger des réviseurs d'entreprises agréés, des contrôleurs légaux des comptes, ou des contrôleurs de pays tiers, des émetteurs, des personnes qui ont demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur, des détenteurs d'actions ou d'autres instruments financiers, ou des personnes visées aux articles 9 ou 12, des personnes qui les contrôlent ou sont contrôlées par eux et des OAM, qu'ils fournissent des informations et des documents ;
 
-2. d'exiger de l'émetteur ou de la personne qui a demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur qu'il ou qu'elle publie les informations visées à la lettre a) par les moyens et dans les délais que la CSSF juge nécessaires. Dans le cas où l'émetteur, ou les personnes qui le contrôlent ou sont contrôlées par lui, s'abstiennent de le faire, la CSSF peut, après avoir entendu l'émetteur, publier ces informations de sa propre initiative ;
+- d'exiger de l'émetteur ou de la personne qui a demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur qu'il ou qu'elle publie les informations visées à la lettre a) par les moyens et dans les délais que la CSSF juge nécessaires. Dans le cas où l'émetteur, ou les personnes qui le contrôlent ou sont contrôlées par lui, s'abstiennent de le faire, la CSSF peut, après avoir entendu l'émetteur, publier ces informations de sa propre initiative ;
 
-3. d'exiger des dirigeants des émetteurs ou des personnes qui ont demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur et des dirigeants des détenteurs d'actions ou d'autres instruments financiers, ou des personnes visées aux articles 9 ou 12, qu'ils notifient les informations requises par la présente loi, et, s'il y a lieu, qu'ils fournissent des informations et des documents supplémentaires ;
+- d'exiger des dirigeants des émetteurs ou des personnes qui ont demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur et des dirigeants des détenteurs d'actions ou d'autres instruments financiers, ou des personnes visées aux articles 9 ou 12, qu'ils notifient les informations requises par la présente loi, et, s'il y a lieu, qu'ils fournissent des informations et des documents supplémentaires ;
 
-4. de suspendre ou de demander au marché réglementé concerné de suspendre la négociation des valeurs mobilières pour une période maximale de dix jours à la fois, si elle a de bonnes raisons de croire que les dispositions de la présente loi ont été enfreintes par l'émetteur ou par la personne qui a demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur ;
+- de suspendre ou de demander au marché réglementé concerné de suspendre la négociation des valeurs mobilières pour une période maximale de dix jours à la fois, si elle a de bonnes raisons de croire que les dispositions de la présente loi ont été enfreintes par l'émetteur ou par la personne qui a demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur ;
 
-5. d'exiger le retrait du marché réglementé ou demander au marché réglementé concerné de procéder au retrait d'une valeur mobilière admise à la négociation sur un marché réglementé si elle constate que les dispositions de la présente loi ont été enfreintes, ou si elle a des motifs raisonnables de soupçonner qu'il y a eu violation des dispositions de la présente loi ;
+- d'exiger le retrait du marché réglementé ou demander au marché réglementé concerné de procéder au retrait d'une valeur mobilière admise à la négociation sur un marché réglementé si elle constate que les dispositions de la présente loi ont été enfreintes, ou si elle a des motifs raisonnables de soupçonner qu'il y a eu violation des dispositions de la présente loi ;
 
-6. de veiller à ce que l'émetteur ou la personne qui a demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur publie les informations en temps opportun afin de garantir un accès optimal et égal du public dans tous les États membres où les valeurs mobilières sont négociées ainsi que de prendre des mesures appropriées si tel n'est pas le cas ;
+- de veiller à ce que l'émetteur ou la personne qui a demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur publie les informations en temps opportun afin de garantir un accès optimal et égal du public dans tous les États membres où les valeurs mobilières sont négociées ainsi que de prendre des mesures appropriées si tel n'est pas le cas ;
 
-7. de rendre public le fait qu'un émetteur, une personne qui a demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur ou un détenteur d'actions ou d'autres instruments financiers, ou une personne visée aux articles 9 ou 12, ne se conforme pas aux obligations qui lui incombent ;
+- de rendre public le fait qu'un émetteur, une personne qui a demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur ou un détenteur d'actions ou d'autres instruments financiers, ou une personne visée aux articles 9 ou 12, ne se conforme pas aux obligations qui lui incombent ;
 
-8. d'exiger, au cas où elle constate des irrégularités par rapport aux dispositions de la présente loi, une ou plusieurs des mesures suivantes :
+- d'exiger, au cas où elle constate des irrégularités par rapport aux dispositions de la présente loi, une ou plusieurs des mesures suivantes :
 
-- la nouvelle publication ou notification d'une information réglementée ;
+  - la nouvelle publication ou notification d'une information réglementée ;
 
-- la publication ou notification d'une notice corrective adaptée portant sur une information réglementée ;
+  - la publication ou notification d'une notice corrective adaptée portant sur une information réglementée ;
 
-- la correction ou modification adéquate dans une information réglementée future ;
+  - la correction ou modification adéquate dans une information réglementée future ;
 
-9. d'effectuer des inspections sur place sur le territoire du Luxembourg afin de s'assurer du respect des dispositions de la présente loi et de ses mesures d'exécution ; et
+- d'effectuer des inspections sur place sur le territoire du Luxembourg afin de s'assurer du respect des dispositions de la présente loi et de ses mesures d'exécution ; et
 
-10. d'enjoindre à un émetteur, à une personne qui a demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur, à un détenteur d'actions ou d'autres instruments financiers, à une personne visée aux articles 9 ou 12, aux personnes qui les contrôlent ou sont contrôlées par eux ou à un OAM de se conformer aux obligations qui lui incombent ou de cesser toute pratique contraire aux dispositions de la présente loi et d'interdire de la réitérer.
+- d'enjoindre à un émetteur, à une personne qui a demandé l'admission à la négociation sur un marché réglementé sans le consentement de l'émetteur, à un détenteur d'actions ou d'autres instruments financiers, à une personne visée aux articles 9 ou 12, aux personnes qui les contrôlent ou sont contrôlées par eux ou à un OAM de se conformer aux obligations qui lui incombent ou de cesser toute pratique contraire aux dispositions de la présente loi et d'interdire de la réitérer.
 
 (3)
 
@@ -768,13 +768,13 @@ La CSSF peut également échanger des informations confidentielles avec les auto
 
 La communication d'informations par la CSSF est soumise aux conditions suivantes :
 
-1. les informations communiquées aux autorités ou organismes de pays tiers sont nécessaires à l'exécution des missions de surveillance des autorités ou des organismes susmentionnés ;
+- les informations communiquées aux autorités ou organismes de pays tiers sont nécessaires à l'exécution des missions de surveillance des autorités ou des organismes susmentionnés ;
 
-2. les informations communiquées aux autorités ou organismes de pays tiers sont couvertes par le secret professionnel de ceux-ci et leur secret professionnel doit offrir des garanties au moins équivalentes au secret professionnel auquel la CSSF est soumise ;
+- les informations communiquées aux autorités ou organismes de pays tiers sont couvertes par le secret professionnel de ceux-ci et leur secret professionnel doit offrir des garanties au moins équivalentes au secret professionnel auquel la CSSF est soumise ;
 
-3. les autorités ou organismes de pays tiers qui reçoivent des informations de la part de la CSSF ne peuvent les utiliser qu'aux fins pour lesquelles elles leur ont été communiquées et doivent être en mesure d'assurer qu'aucun autre usage n'en sera fait ; et
+- les autorités ou organismes de pays tiers qui reçoivent des informations de la part de la CSSF ne peuvent les utiliser qu'aux fins pour lesquelles elles leur ont été communiquées et doivent être en mesure d'assurer qu'aucun autre usage n'en sera fait ; et
 
-4. les autorités ou organismes de pays tiers qui reçoivent des informations de la part de la CSSF accordent le même droit d'information à la CSSF.
+- les autorités ou organismes de pays tiers qui reçoivent des informations de la part de la CSSF accordent le même droit d'information à la CSSF.
 
 <a id="art-24"></a>
 ## Art. 24.
@@ -802,29 +802,29 @@ Sanctions administratives.
 
 Les personnes visées à l'article 22, paragraphe 2 peuvent être frappées par la CSSF d'une amende administrative de 125 à 125.000 euros :
 
-1. au cas où elles ne respectent pas les demandes d'informations de la CSSF ;
+- au cas où elles ne respectent pas les demandes d'informations de la CSSF ;
 
-2. lorsque les renseignements fournis se révèlent être incomplets ou inexacts ;
+- lorsque les renseignements fournis se révèlent être incomplets ou inexacts ;
 
-3. au cas où elles ne donnent pas suite aux injonctions de la CSSF.
+- au cas où elles ne donnent pas suite aux injonctions de la CSSF.
 
-4. au cas où elles ne se conforment pas aux mesures exigées par la CSSF en vertu de l'article 22, paragraphe 2, lettre h).
+- au cas où elles ne se conforment pas aux mesures exigées par la CSSF en vertu de l'article 22, paragraphe 2, lettre h).
 
 (2)
 
 A défaut de publication d'une information réglementée par l'émetteur dans le délai imparti ou de notification de l'acquisition ou de la cession d'une participation importante par l'un des détenteurs visés au chapitre III dans le délai imparti, la CSSF peut prononcer les amendes administratives suivantes :
 
-1. dans le cas d'une personne morale,
+- dans le cas d'une personne morale,
 
-- jusqu'à 10.000.000 euros ou 5% du chiffre d'affaires annuel total déterminé sur la base des comptes annuels du dernier exercice approuvés par l'organe de direction ; lorsque la personne morale est une entreprise mère ou une filiale d'une entreprise mère qui est tenue d'établir des comptes consolidés en vertu de la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil, le chiffre d'affaires total à prendre en considération est le chiffre d'affaires annuel total ou le type de revenus correspondant en vertu des directives comptables pertinentes, tel qu'il ressort des derniers comptes annuels consolidés disponibles approuvés par l'organe de direction de l'entreprise mère ultime, ou
+  - jusqu'à 10.000.000 euros ou 5% du chiffre d'affaires annuel total déterminé sur la base des comptes annuels du dernier exercice approuvés par l'organe de direction ; lorsque la personne morale est une entreprise mère ou une filiale d'une entreprise mère qui est tenue d'établir des comptes consolidés en vertu de la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil, le chiffre d'affaires total à prendre en considération est le chiffre d'affaires annuel total ou le type de revenus correspondant en vertu des directives comptables pertinentes, tel qu'il ressort des derniers comptes annuels consolidés disponibles approuvés par l'organe de direction de l'entreprise mère ultime, ou
 
-- jusqu'à deux fois le montant de l'avantage retiré de l'infraction ou celui des pertes qu'elle a permis d'éviter, si ceux-ci peuvent être déterminées, le montant le plus élevé étant retenu ;
+  - jusqu'à deux fois le montant de l'avantage retiré de l'infraction ou celui des pertes qu'elle a permis d'éviter, si ceux-ci peuvent être déterminées, le montant le plus élevé étant retenu ;
 
-2. dans le cas d'une personne physique : le montant le plus élevé étant retenu.
+- dans le cas d'une personne physique : le montant le plus élevé étant retenu.
 
-- jusqu'à 2.000.000 euros, ou
+  - jusqu'à 2.000.000 euros, ou
 
-- jusqu'à deux fois le montant de l'avantage retiré de l'infraction ou celui des pertes qu'elle a permis d'éviter, si ceux-ci peuvent être déterminés,
+  - jusqu'à deux fois le montant de l'avantage retiré de l'infraction ou celui des pertes qu'elle a permis d'éviter, si ceux-ci peuvent être déterminés,
 
 (3)
 
@@ -844,19 +844,19 @@ Exercice des pouvoirs de sanction.
 
 La CSSF, lorsqu'elle détermine le type de sanctions ou de mesures administratives et leur niveau, tient compte de toutes les circonstances pertinentes, et notamment, le cas échéant :
 
-1. de la gravité et de la durée de l'infraction ;
+- de la gravité et de la durée de l'infraction ;
 
-2. du degré de responsabilité de la personne physique ou morale responsable ;
+- du degré de responsabilité de la personne physique ou morale responsable ;
 
-3. de la solidité financière de la personne physique ou morale responsable, par exemple telle qu'elle ressort du chiffre d'affaires total de la personne morale responsable ou des revenus annuels de la personne physique responsable ;
+- de la solidité financière de la personne physique ou morale responsable, par exemple telle qu'elle ressort du chiffre d'affaires total de la personne morale responsable ou des revenus annuels de la personne physique responsable ;
 
-4. de l'importance des gains obtenus ou des pertes évitées par la personne physique ou morale responsable, dans la mesure où ils peuvent être déterminés ;
+- de l'importance des gains obtenus ou des pertes évitées par la personne physique ou morale responsable, dans la mesure où ils peuvent être déterminés ;
 
-5. des pertes subies par des tiers du fait de l'infraction, dans la mesure où ils peuvent être déterminés ;
+- des pertes subies par des tiers du fait de l'infraction, dans la mesure où ils peuvent être déterminés ;
 
-6. du degré de coopération avec les autorités compétentes dont a fait preuve la personne physique ou morale responsable ;
+- du degré de coopération avec les autorités compétentes dont a fait preuve la personne physique ou morale responsable ;
 
-7. des infractions antérieures commises par la personne physique ou morale responsable.
+- des infractions antérieures commises par la personne physique ou morale responsable.
 
 <a id="art-26ter"></a>
 ## Art. 26ter.
@@ -869,11 +869,11 @@ La CSSF publie dans les meilleurs délais sur son site internet chaque décision
 
 Toutefois, la CSSF peut reporter la publication d'une décision ou publier cette dernière de manière anonyme, dans l'une quelconque des circonstances suivantes :
 
-1. dans le cas d'une sanction imposée à une personne physique, lorsqu'il ressort d'une évaluation préalable obligatoire du caractère proportionné d'une telle publication que la publication des données personnelles est disproportionnée ;
+- dans le cas d'une sanction imposée à une personne physique, lorsqu'il ressort d'une évaluation préalable obligatoire du caractère proportionné d'une telle publication que la publication des données personnelles est disproportionnée ;
 
-2. lorsque la publication perturberait gravement la stabilité du système financier ou une enquête officielle en cours ;
+- lorsque la publication perturberait gravement la stabilité du système financier ou une enquête officielle en cours ;
 
-3. lorsque la publication causerait, pour autant que l'on puisse le déterminer, un préjudice disproportionné et grave aux institutions ou personnes physiques en cause.
+- lorsque la publication causerait, pour autant que l'on puisse le déterminer, un préjudice disproportionné et grave aux institutions ou personnes physiques en cause.
 
 (2)
 
@@ -889,17 +889,17 @@ Toute information publiée en vertu des paragraphes 1er et 2 demeure sur le site
 
 Les informations satisfont aux exigences suivantes :
 
-1. elles sont communiquées dans un format permettant l'extraction de données au sens de l'article 2, point 3), du règlement (UE) 2023/2859 ;
+- elles sont communiquées dans un format permettant l'extraction de données au sens de l'article 2, point 3), du règlement (UE) 2023/2859 ;
 
-2. elles sont accompagnées des métadonnées suivantes :
+- elles sont accompagnées des métadonnées suivantes :
 
-1. tous les noms de la personne physique ou de l'entité juridique à laquelle les informations se rapportent ;
+  - tous les noms de la personne physique ou de l'entité juridique à laquelle les informations se rapportent ;
 
-2. s'il est disponible, l'identifiant d'entité juridique de l'entité juridique, précisé conformément à l'article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
+  - s'il est disponible, l'identifiant d'entité juridique de l'entité juridique, précisé conformément à l'article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
 
-3. le type d'informations concerné, suivant la classification prévue par l'article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
+  - le type d'informations concerné, suivant la classification prévue par l'article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
 
-4. une mention précisant si les informations contiennent des données à caractère personnel.
+  - une mention précisant si les informations contiennent des données à caractère personnel.
 
 <a id="art-27"></a>
 ## Art. 27.
@@ -941,9 +941,9 @@ Dispositions transitoires.
 
 Par dérogation à l'article 4 du règlement (CE) no 1606/2002 du Parlement européen et du Conseil du 19 juillet 2002 sur l'application des normes comptables internationales, les exigences prévues par ledit article ne s'appliqueront que pour chaque exercice commençant le 1er janvier 2007 ou après cette date, pour les sociétés de droit luxembourgeois :
 
-1. dont seules les obligations sont admises sur un marché réglementé d'un État membre au sens de l'article 4, paragraphe 1, point 14), de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers ; ou
+- dont seules les obligations sont admises sur un marché réglementé d'un État membre au sens de l'article 4, paragraphe 1, point 14), de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers ; ou
 
-2. dont les titres sont admis à la vente directe au public dans un pays tiers et qui utilisent à cet effet des normes acceptées sur le plan international depuis un exercice ayant commencé avant le 11 septembre 2002.
+- dont les titres sont admis à la vente directe au public dans un pays tiers et qui utilisent à cet effet des normes acceptées sur le plan international depuis un exercice ayant commencé avant le 11 septembre 2002.
 
 (2)
 
@@ -963,15 +963,15 @@ Nonobstant l'article 11, paragraphe 6, un émetteur publie à son tour les infor
 
 Les émetteurs qui ont leur siège statutaire dans un pays tiers, sont exemptés de l'obligation d'établir des états financiers conformément à l'article 3, paragraphe 3, et un rapport de gestion conformément à l'article 3, paragraphe 5, seulement en ce qui concerne les titres de créance déjà admis à la négociation sur un marché réglementé de l'Union européenne avant le 1er janvier 2005 et dès lors que :
 
-1. la CSSF reconnaît que les états financiers annuels établis par les émetteurs d'un tel pays tiers donnent une image fidèle et honnête des éléments d'actif et de passif, de la situation financière et des résultats de l'émetteur ;
+- la CSSF reconnaît que les états financiers annuels établis par les émetteurs d'un tel pays tiers donnent une image fidèle et honnête des éléments d'actif et de passif, de la situation financière et des résultats de l'émetteur ;
 
-2. le pays tiers dans lequel l'émetteur a son siège statutaire n'a pas rendu obligatoire l'application des normes comptables internationales visées à l'article 2 du règlement (CE) n° 1606/2002 du Parlement européen et du Conseil du 19 juillet 2002 sur l'application des normes comptables internationales ; et
+- le pays tiers dans lequel l'émetteur a son siège statutaire n'a pas rendu obligatoire l'application des normes comptables internationales visées à l'article 2 du règlement (CE) n° 1606/2002 du Parlement européen et du Conseil du 19 juillet 2002 sur l'application des normes comptables internationales ; et
 
-3. la Commission européenne n'a pris aucune décision conformément à l'article 23, paragraphe 4, point ii) de la directive 2004/109/CE du Parlement européen et du Conseil du 15 décembre 2004 sur l'harmonisation des obligations de transparence concernant l'information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé et modifiant la directive 2001/34/CE, sur l'équivalence entre les normes comptables précitées et :
+- la Commission européenne n'a pris aucune décision conformément à l'article 23, paragraphe 4, point ii) de la directive 2004/109/CE du Parlement européen et du Conseil du 15 décembre 2004 sur l'harmonisation des obligations de transparence concernant l'information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé et modifiant la directive 2001/34/CE, sur l'équivalence entre les normes comptables précitées et :
 
-- les normes comptables prévues par les dispositions législatives, réglementaires ou administratives du pays tiers dans lequel l'émetteur a son siège statutaire, ou
+  - les normes comptables prévues par les dispositions législatives, réglementaires ou administratives du pays tiers dans lequel l'émetteur a son siège statutaire, ou
 
-- les normes comptables d'un pays tiers que l'émetteur a décidé d'appliquer.
+  - les normes comptables d'un pays tiers que l'émetteur a décidé d'appliquer.
 
 (6)
 

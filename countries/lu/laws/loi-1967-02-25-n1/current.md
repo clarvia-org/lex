@@ -63,7 +63,9 @@ Le statut de pupille de la Nation est attribué aux enfants des Luxembourgeois r
 
 Les personnes remplissant les conditions de l'article 4 et leurs ayants droit sont assimilés aux victimes patriotiques et à leurs ayants droit en ce qui concerne l'application du titre III de la loi du 25 février 1950 concernant l'indemnisation des dommages de guerre y compris les modifications apportées à cette loi par le chapitre 3 de la présente loi.
 
-En outre les mêmes personnes peuvent se prévaloir des dispositions du titre II de la loi du 25 février 1950 concernant l'indemnisation des dommages de guerre. A ces fins, un article 36bis est inséré dans cette loi conçu comme suit:Les personnes remplissant les conditions de l'article 4 de la loi du 25 février 1967 peuvent également se prévaloir des dispositions des articles 35, 37 à 42 de la présente loi. Dans la mesure où elles ont été indemnisées par application de l'article 43, elles peuvent opter pour une indemnisation par application des articles 39 à 42.
+En outre les mêmes personnes peuvent se prévaloir des dispositions du titre II de la loi du 25 février 1950 concernant l'indemnisation des dommages de guerre. A ces fins, un article 36bis est inséré dans cette loi conçu comme suit:
+
+Les personnes remplissant les conditions de l'article 4 de la loi du 25 février 1967 peuvent également se prévaloir des dispositions des articles 35, 37 à 42 de la présente loi. Dans la mesure où elles ont été indemnisées par application de l'article 43, elles peuvent opter pour une indemnisation par application des articles 39 à 42.
 
 ##### Chapitre 3. - Les dommages de guerre corporels
 
@@ -115,19 +117,19 @@ Les dispositions de l'article 49 lettre I, lettre n, alinéa 2 et lettre p sont 
 
 Les Luxembourgeois qui, au cours de l'occupation étrangère du pays
 
-1. ont été déportés, internés ou emprisonrés par l'occupant pour des raisons patriotiques, de race ou de religion;
+- ont été déportés, internés ou emprisonrés par l'occupant pour des raisons patriotiques, de race ou de religion;
 
-2. ont été enrôlés de force dans le «Reichsarbeitsdienst», l'armée allemande ou autres services analogues ou qui s'y sont soustraits par la fuite;
+- ont été enrôlés de force dans le «Reichsarbeitsdienst», l'armée allemande ou autres services analogues ou qui s'y sont soustraits par la fuite;
 
-3. ont été déportés, internés ou emprisonnés pour des raisons patriotiques, de race ou de religion dans un pays soumis à l'influence ennemie;
+- ont été déportés, internés ou emprisonnés pour des raisons patriotiques, de race ou de religion dans un pays soumis à l'influence ennemie;
 
-4. ont été contraints pour des raisons patriotiques, de race ou de religion de vivre cachés pendant l'occupation du territoire national;
+- ont été contraints pour des raisons patriotiques, de race ou de religion de vivre cachés pendant l'occupation du territoire national;
 
-5. ont été obligés à travailler hors du Grand-Duché en vertu d'une astreinte au travail de l'occupant;
+- ont été obligés à travailler hors du Grand-Duché en vertu d'une astreinte au travail de l'occupant;
 
-6. ont été pour des raisons patriotiques, de race ou de religion mis dans l'impossibilité d'exercer un emploi;
+- ont été pour des raisons patriotiques, de race ou de religion mis dans l'impossibilité d'exercer un emploi;
 
-7. ont quitté le Grand-Duché pour joindre les forces alliées ou pour se mettre à la disposition du Gouvernement luxembourgeois ou du Gouvernement d'une des puissances alliées au Grand-Duché; et qui, de ce fait, se sont trouvés dans l'impossibilité d'être affiliés à un régime de pension luxembourgeois, peuvent demander que les périodes durant lesquelles ils se sont trouvés dans cette impossibilité soient prises en considération comme périodes d'assurance normales sous le premier régime de pension auquel ils étaient affiliés dans la suite. Sera compris dans ces périodes le temps durant lequel les personnes visées ont été passagèrement dans l'impossibilité de travailler après la fin des hostilités par suite de blessures ou de maladies causées par faits de guerre.
+- ont quitté le Grand-Duché pour joindre les forces alliées ou pour se mettre à la disposition du Gouvernement luxembourgeois ou du Gouvernement d'une des puissances alliées au Grand-Duché; et qui, de ce fait, se sont trouvés dans l'impossibilité d'être affiliés à un régime de pension luxembourgeois, peuvent demander que les périodes durant lesquelles ils se sont trouvés dans cette impossibilité soient prises en considération comme périodes d'assurance normales sous le premier régime de pension auquel ils étaient affiliés dans la suite. Sera compris dans ces périodes le temps durant lequel les personnes visées ont été passagèrement dans l'impossibilité de travailler après la fin des hostilités par suite de blessures ou de maladies causées par faits de guerre.
 
 (2)
 

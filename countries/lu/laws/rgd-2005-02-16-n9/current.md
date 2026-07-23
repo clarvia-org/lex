@@ -40,51 +40,51 @@ Définitions
 
 Pour l’application du présent règlement, on entend par :
 
-1. « navire roulier à passagers » : un navire transportant plus de douze passagers, doté d’espaces rouliers à cargaison ou d’espaces de catégorie spéciale, tels que définis à la règle II-2/3 de la Convention SOLAS, telle que modifiée , et approuvée par la loi modifiée du 9 novembre 1990 portant approbation de certaines conventions internationales en matière maritime ;
+- « navire roulier à passagers » : un navire transportant plus de douze passagers, doté d’espaces rouliers à cargaison ou d’espaces de catégorie spéciale, tels que définis à la règle II-2/3 de la Convention SOLAS, telle que modifiée , et approuvée par la loi modifiée du 9 novembre 1990 portant approbation de certaines conventions internationales en matière maritime ;
 
-2. « navire roulier à passager existant » : tout navire roulier à passagers dont la quille est posée ou qui se trouve à un stade de construction équivalent avant le 5 décembre 2024 ; on entend par « stade de construction équivalent », le stade auquel :
+- « navire roulier à passager existant » : tout navire roulier à passagers dont la quille est posée ou qui se trouve à un stade de construction équivalent avant le 5 décembre 2024 ; on entend par « stade de construction équivalent », le stade auquel :
 
-1. la construction identifiable à un navire particulier commence ; et
+  - la construction identifiable à un navire particulier commence ; et
 
-2. le montage du navire a commencé, employant au moins 50 tonnes de la masse estimée de tous les matériaux de structure ou 1 pour cent de la masse estimée de tous les matériaux de structure, la valeur la plus faible étant retenue ;
+  - le montage du navire a commencé, employant au moins 50 tonnes de la masse estimée de tous les matériaux de structure ou 1 pour cent de la masse estimée de tous les matériaux de structure, la valeur la plus faible étant retenue ;
 
-3. « navire roulier à passagers neuf » : tout navire roulier à passagers qui n’est pas un navire roulier à passagers existant ;
+- « navire roulier à passagers neuf » : tout navire roulier à passagers qui n’est pas un navire roulier à passagers existant ;
 
-4. « passager » : toute personne autre que le capitaine et les membres d’équipage ou les autres personnes employées ou occupées en quelque qualité que ce soit à bord d’un navire pour les besoins de ce dernier, et qui n’est pas un enfant âgé de moins d’un an ;
+- « passager » : toute personne autre que le capitaine et les membres d’équipage ou les autres personnes employées ou occupées en quelque qualité que ce soit à bord d’un navire pour les besoins de ce dernier, et qui n’est pas un enfant âgé de moins d’un an ;
 
-5. « Convention SOLAS » : la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée ;
+- « Convention SOLAS » : la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée ;
 
-6. 5°bis « Convention SOLAS 90 » : la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée en dernier lieu par la résolution MSC.117(74) ;
+- 5°bis « Convention SOLAS 90 » : la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée en dernier lieu par la résolution MSC.117(74) ;
 
-7. 5°ter « Convention SOLAS 2009 » : la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée en dernier lieu par la résolution MSC.216(82) ;
+- 5°ter « Convention SOLAS 2009 » : la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée en dernier lieu par la résolution MSC.216(82) ;
 
-8. 5°quater « Convention SOLAS 2020 » : la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée en dernier lieu par la résolution MSC.421(98) ;
+- 5°quater « Convention SOLAS 2020 » : la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée en dernier lieu par la résolution MSC.421(98) ;
 
-9. « service régulier » : une série de traversées effectuées par un navire roulier à passagers de manière à assurer une liaison entre deux mêmes ports ou davantage, ou une série de voyages à destination et en provenance du même port sans escale :
+- « service régulier » : une série de traversées effectuées par un navire roulier à passagers de manière à assurer une liaison entre deux mêmes ports ou davantage, ou une série de voyages à destination et en provenance du même port sans escale :
 
-1. selon un horaire publié ; ou
+  - selon un horaire publié ; ou
 
-2. avec une régularité ou une fréquence telle que ces traversées ou voyages constituent une série systématique reconnaissable ;
+  - avec une régularité ou une fréquence telle que ces traversées ou voyages constituent une série systématique reconnaissable ;
 
-10. « accord de Stockholm » : l’accord conclu à Stockholm le 28 février 1996 à la suite de la résolution 14 de la conférence SOLAS 95, intitulée « Accords régionaux concernant les prescriptions spécifiques de stabilité applicables aux navires rouliers à passagers », adoptée le 29 novembre 1995 ;
+- « accord de Stockholm » : l’accord conclu à Stockholm le 28 février 1996 à la suite de la résolution 14 de la conférence SOLAS 95, intitulée « Accords régionaux concernant les prescriptions spécifiques de stabilité applicables aux navires rouliers à passagers », adoptée le 29 novembre 1995 ;
 
-11. « administration de l’État du pavillon » : les autorités compétentes de l’État dont le navire roulier à passagers est autorisé à battre pavillon ;
+- « administration de l’État du pavillon » : les autorités compétentes de l’État dont le navire roulier à passagers est autorisé à battre pavillon ;
 
-12. « État du port » : un État membre à destination ou au départ des ports duquel un navire roulier à passagers assure un service régulier ;
+- « État du port » : un État membre à destination ou au départ des ports duquel un navire roulier à passagers assure un service régulier ;
 
-13. « voyage international » : le voyage par mer d’un port d’un État membre vers un port situé en dehors de cet État membre ou inversement ;
+- « voyage international » : le voyage par mer d’un port d’un État membre vers un port situé en dehors de cet État membre ou inversement ;
 
-14. « prescriptions spécifiques de stabilité » : lorsque cette expression est utilisée comme terme collectif, les prescriptions relatives à la stabilité visées à l’article 6 ;
+- « prescriptions spécifiques de stabilité » : lorsque cette expression est utilisée comme terme collectif, les prescriptions relatives à la stabilité visées à l’article 6 ;
 
-15. « hauteur de houle significative (hS) » : la moyenne des hauteurs du tiers supérieur des hauteurs de houle observées au cours d’une période donnée ;
+- « hauteur de houle significative (hS) » : la moyenne des hauteurs du tiers supérieur des hauteurs de houle observées au cours d’une période donnée ;
 
-16. « franc-bord résiduel (fr) » : la distance minimale comprise entre le pont roulier endommagé et la flottaison finale à l’endroit de l’avarie, sans tenir compte de l’effet du volume d’eau de mer accumulée sur le pont roulier endommagé ;
+- « franc-bord résiduel (fr) » : la distance minimale comprise entre le pont roulier endommagé et la flottaison finale à l’endroit de l’avarie, sans tenir compte de l’effet du volume d’eau de mer accumulée sur le pont roulier endommagé ;
 
-17. « compagnie » : le propriétaire d’un navire roulier à passagers, ou tout autre organisme ou toute autre personne, telle que l’armateur gérant ou l’affréteur coque nue, auquel le propriétaire a confié la responsabilité de l’exploitation du navire à passagers.
+- « compagnie » : le propriétaire d’un navire roulier à passagers, ou tout autre organisme ou toute autre personne, telle que l’armateur gérant ou l’affréteur coque nue, auquel le propriétaire a confié la responsabilité de l’exploitation du navire à passagers.
 
-18. « hauteur de houle significative (hS) » : notion utilisée pour déterminer la hauteur de l’eau sur le pont roulier, conformément à la prescription spécifique de stabilité définie à l’annexe I, section A de la directive 2003/25/CE . ».
+- « hauteur de houle significative (hS) » : notion utilisée pour déterminer la hauteur de l’eau sur le pont roulier, conformément à la prescription spécifique de stabilité définie à l’annexe I, section A de la directive 2003/25/CE . ».
 
-19. « zone maritime » : zone définie d’un commun accord par les États membres de l’Union européenne ou, chaque fois que c’est applicable et possible, par les États membres de l’Union européenne et les pays tiers situés à chaque extrémité de la route maritime et pour lesquelles les États du port établissent et mettent à jour une liste.
+- « zone maritime » : zone définie d’un commun accord par les États membres de l’Union européenne ou, chaque fois que c’est applicable et possible, par les États membres de l’Union européenne et les pays tiers situés à chaque extrémité de la route maritime et pour lesquelles les États du port établissent et mettent à jour une liste.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -113,17 +113,17 @@ Sans préjudice de l’application du règlement grand-ducal du 16 mai 2019 éta
 
 Au choix de la compagnie, les navires rouliers à passagers neufs certifiés pour le transport de 1 350 personnes ou moins à bord respectent :
 
-1. les prescriptions spécifiques de stabilité définies à l’annexe I, section A, de la directive 2003/25/CE du 14 avril 2003 telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive ; ou
+- les prescriptions spécifiques de stabilité définies à l’annexe I, section A, de la directive 2003/25/CE du 14 avril 2003 telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive ; ou
 
-2. les prescriptions spécifiques de stabilité définies à l’annexe I, section B, de la directive 2003/25/CE telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive .
+- les prescriptions spécifiques de stabilité définies à l’annexe I, section B, de la directive 2003/25/CE telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive .
 
 (3)
 
 Au choix de la compagnie, les navires rouliers à passagers existants certifiés pour le transport de plus de 1 350 personnes à bord, que la compagnie affrète pour un service régulier à destination ou au départ d’un port d’un État membre après le 5 décembre 2024 et qui n’ont jamais été certifiés conformément au présent règlement respectent :
 
-1. les prescriptions spécifiques de stabilité définies au chapitre II-1, partie B, de la convention SOLAS 2020 ; ou
+- les prescriptions spécifiques de stabilité définies au chapitre II-1, partie B, de la convention SOLAS 2020 ; ou
 
-2. les prescriptions spécifiques de stabilité définies à l’annexe I, section A, de la directive 2003/25/CE telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive , outre les prescriptions énoncées au chapitre II-1, partie B, de la convention SOLAS 2009.
+- les prescriptions spécifiques de stabilité définies à l’annexe I, section A, de la directive 2003/25/CE telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive , outre les prescriptions énoncées au chapitre II-1, partie B, de la convention SOLAS 2009.
 
 Les prescriptions de stabilité appliquées doivent figurer sur le certificat du navire requis en vertu de l’article 6 du présent règlement.
 
@@ -131,9 +131,9 @@ Les prescriptions de stabilité appliquées doivent figurer sur le certificat du
 
 Au choix de la compagnie, les navires rouliers à passagers existants certifiés pour le transport de 1 350 personnes ou moins à bord, que la compagnie affrète pour un service régulier à destination ou au départ d’un port d’un État membre après le 5 décembre 2024 et qui n’ont jamais été certifiés conformément au présent règlement, respectent :
 
-1. les prescriptions spécifiques de stabilité définies à l’annexe I, section A, de la directive 2003/25/CE du 14 avril 2003 telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive ; ou
+- les prescriptions spécifiques de stabilité définies à l’annexe I, section A, de la directive 2003/25/CE du 14 avril 2003 telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive ; ou
 
-2. les prescriptions spécifiques de stabilité définies à l’annexe I, section B, de la directive 2003/25/CE telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive .
+- les prescriptions spécifiques de stabilité définies à l’annexe I, section B, de la directive 2003/25/CE telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive .
 
 Les prescriptions de stabilité appliquées doivent figurer sur le certificat du navire visé à l’article 6 du présent règlement.
 

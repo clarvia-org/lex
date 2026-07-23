@@ -49,15 +49,15 @@ Définitions
 
 Aux fins du présent règlement grand-ducal, on entend par:
 
-1. «agent cancérigène»:
+- «agent cancérigène»:
 
-1. une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B des cancérigènes, tels que fixés à l'annexe I du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006 , dénommé ci-après «règlement CLP»;
+  - une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B des cancérigènes, tels que fixés à l'annexe I du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006 , dénommé ci-après «règlement CLP»;
 
-2. une substance, un mélange ou un procédé visé à l'annexe I, ainsi qu'une substance ou un mélange dégagé par un procédé visé à ladite annexe.
+  - une substance, un mélange ou un procédé visé à l'annexe I, ainsi qu'une substance ou un mélange dégagé par un procédé visé à ladite annexe.
 
-2. «agent mutagène»: une substance ou un mélange qui répond aux critères de classification dans la catégorie IA ou IB des mutagènes sur les cellules germinales, tels que fixés à l'annexe I du règlement CLP.
+- «agent mutagène»: une substance ou un mélange qui répond aux critères de classification dans la catégorie IA ou IB des mutagènes sur les cellules germinales, tels que fixés à l'annexe I du règlement CLP.
 
-3. «valeur limite» sauf indication contraire, la limite de la moyenne pondérée en fonction du temps de la concentration d'un agent cancérigène ou mutagène dans l'air de la zone de respiration d'un salarié au cours d'une période de référence déterminée, précisée à l'annexe III.
+- «valeur limite» sauf indication contraire, la limite de la moyenne pondérée en fonction du temps de la concentration d'un agent cancérigène ou mutagène dans l'air de la zone de respiration d'un salarié au cours d'une période de référence déterminée, précisée à l'annexe III.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -120,31 +120,31 @@ L'exposition ne doit pas dépasser la valeur limite d'un agent cancérigène ou 
 
 Dans tous les cas d'utilisation d'un agent cancérigène ou mutagène, l'employeur applique toutes les mesures suivantes:
 
-1. la limitation des quantités d'un agent cancérigène ou mutagène sur le lieu de travail;
+- la limitation des quantités d'un agent cancérigène ou mutagène sur le lieu de travail;
 
-2. la limitation, au niveau le plus bas possible, du nombre de salariés exposés ou susceptibles de l'être;
+- la limitation, au niveau le plus bas possible, du nombre de salariés exposés ou susceptibles de l'être;
 
-3. la conception des processus de travail et des mesures techniques, l'objectif étant d'éviter ou de minimiser le dégagement d'agents cancérigènes ou mutagènes sur le lieu de travail ;
+- la conception des processus de travail et des mesures techniques, l'objectif étant d'éviter ou de minimiser le dégagement d'agents cancérigènes ou mutagènes sur le lieu de travail ;
 
-4. l'évacuation des agents cancérigènes ou mutagènes à la source, l'aspiration locale ou la ventilation générale appropriées compatibles avec le besoin de protéger la santé publique et l'environnement;
+- l'évacuation des agents cancérigènes ou mutagènes à la source, l'aspiration locale ou la ventilation générale appropriées compatibles avec le besoin de protéger la santé publique et l'environnement;
 
-5. l'utilisation de méthodes existantes appropriées de mesure des agents cancérigènes ou mutagènes, en particulier pour la détection précoce des expositions anormales résultant d'un événement imprévisible ou d'un accident;
+- l'utilisation de méthodes existantes appropriées de mesure des agents cancérigènes ou mutagènes, en particulier pour la détection précoce des expositions anormales résultant d'un événement imprévisible ou d'un accident;
 
-6. l'application de procédures et de méthodes de travail appropriées;
+- l'application de procédures et de méthodes de travail appropriées;
 
-7. des mesures de protection collectives et/ou, lorsque l'exposition ne peut être évitée par d'autres moyens, des mesures de protection individuelles;
+- des mesures de protection collectives et/ou, lorsque l'exposition ne peut être évitée par d'autres moyens, des mesures de protection individuelles;
 
-8. des mesures d'hygiène, notamment de nettoyage régulier des sols, murs et autres surfaces;
+- des mesures d'hygiène, notamment de nettoyage régulier des sols, murs et autres surfaces;
 
-9. l'information des salariés;
+- l'information des salariés;
 
-10. la délimitation des zones à risque et l'utilisation de signaux adéquats d'avertissement et de sécurité, y compris les signaux «défense de fumer» dans les zones où les salariés sont exposés ou susceptibles d'être exposés à des agents cancérigènes ou mutagènes;
+- la délimitation des zones à risque et l'utilisation de signaux adéquats d'avertissement et de sécurité, y compris les signaux «défense de fumer» dans les zones où les salariés sont exposés ou susceptibles d'être exposés à des agents cancérigènes ou mutagènes;
 
-11. la mise en place des dispositifs pour les cas d'urgence susceptibles d'entraîner des expositions anormalement élevées;
+- la mise en place des dispositifs pour les cas d'urgence susceptibles d'entraîner des expositions anormalement élevées;
 
-12. les moyens permettant le stockage, la manipulation et le transport sans risque, notamment par l'emploi de récipients hermétiques et étiquetés de manière claire, nette et visible;
+- les moyens permettant le stockage, la manipulation et le transport sans risque, notamment par l'emploi de récipients hermétiques et étiquetés de manière claire, nette et visible;
 
-13. les moyens permettant la collecte, le stockage et l'évacuation sûrs des déchets par les salariés, y compris l'utilisation de récipients hermétiques étiquetés de manière claire, nette et visible.
+- les moyens permettant la collecte, le stockage et l'évacuation sûrs des déchets par les salariés, y compris l'utilisation de récipients hermétiques étiquetés de manière claire, nette et visible.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -155,19 +155,19 @@ On entend par le terme «autorité compétente» l'Inspection du travail et des 
 
 Si les résultats de l'appréciation visée à l'article 3 paragraphe 2 révèlent un risque concernant la sécurité ou la santé des salariés, les employeurs en informent l'Inspection du travail et des mines ainsi que la Direction de la santé, des informations appropriées sur:
 
-1. les activités respectivement les procédés industriels mis en oeuvre, y compris les raisons pour lesquelles des agents cancérigènes ou mutagènes sont utilisés;
+- les activités respectivement les procédés industriels mis en oeuvre, y compris les raisons pour lesquelles des agents cancérigènes ou mutagènes sont utilisés;
 
-2. les quantités fabriquées ou utilisées de substances ou mélanges qui contiennent des agents cancérigènes ou mutagènes;
+- les quantités fabriquées ou utilisées de substances ou mélanges qui contiennent des agents cancérigènes ou mutagènes;
 
-3. le nombre de salariés exposés;
+- le nombre de salariés exposés;
 
-4. les mesures de prévention prises;
+- les mesures de prévention prises;
 
-5. le type d'équipement de protection à utiliser;
+- le type d'équipement de protection à utiliser;
 
-6. la nature et le degré de l'exposition;
+- la nature et le degré de l'exposition;
 
-7. les cas de substitution.
+- les cas de substitution.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -182,11 +182,11 @@ En cas d'événements imprévisibles ou d'accidents susceptibles d'entraîner un
 
 Jusqu'au rétablissement normal de la situation et tant que les causes de l'exposition anormale ne sont pas éliminées:
 
-1. seuls les salariés indispensables pour l'exécution des réparations et d'autres travaux nécessaires sont autorisés à travailler dans la zone touchée;
+- seuls les salariés indispensables pour l'exécution des réparations et d'autres travaux nécessaires sont autorisés à travailler dans la zone touchée;
 
-2. un vêtement de protection et un équipement individuel de protection respiratoire sont mis à la disposition des salariés concernés et doivent être portés par ceux-ci, l'exposition ne peut pas être permanente et est limitée au strict nécessaire pour chaque salarié;
+- un vêtement de protection et un équipement individuel de protection respiratoire sont mis à la disposition des salariés concernés et doivent être portés par ceux-ci, l'exposition ne peut pas être permanente et est limitée au strict nécessaire pour chaque salarié;
 
-3. les salariés non protégés ne sont pas autorisés à travailler dans la zone touchée.
+- les salariés non protégés ne sont pas autorisés à travailler dans la zone touchée.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -219,13 +219,13 @@ Mesures d'hygiène et de protection individuelle
 
 Les employeurs sont tenus, pour toutes les activités pour lesquelles il existe un risque de contamination par des agents cancérigènes ou mutagènes, de prendre des mesures appropriées aux fins suivantes:
 
-1. faire en sorte que les salariés ne mangent pas, ne boivent pas et ne fument pas dans les zones de travail où il existe un risque de contamination par des agents cancérigènes ou mutagènes;
+- faire en sorte que les salariés ne mangent pas, ne boivent pas et ne fument pas dans les zones de travail où il existe un risque de contamination par des agents cancérigènes ou mutagènes;
 
-2. fournir aux salariés des vêtements de protection appropriés ou d'autres vêtements particuliers appropriés; prévoir des emplacements séparés pour le rangement des vêtements de travail ou de protection, d'une part, et des vêtements de ville, d'autre part;
+- fournir aux salariés des vêtements de protection appropriés ou d'autres vêtements particuliers appropriés; prévoir des emplacements séparés pour le rangement des vêtements de travail ou de protection, d'une part, et des vêtements de ville, d'autre part;
 
-3. mettre à la disposition des salariés des sanitaires et des salles d'eau appropriés et adéquats;
+- mettre à la disposition des salariés des sanitaires et des salles d'eau appropriés et adéquats;
 
-4. placer correctement les équipements de protection dans un endroit déterminé; vérifier et nettoyer ceux-ci si possible avant et, en tout cas, après chaque utilisation; réparer ou remplacer les équipements défectueux avant une nouvelle utilisation.
+- placer correctement les équipements de protection dans un endroit déterminé; vérifier et nettoyer ceux-ci si possible avant et, en tout cas, après chaque utilisation; réparer ou remplacer les équipements défectueux avant une nouvelle utilisation.
 
 (2)
 
@@ -240,21 +240,21 @@ Information et formation des salariés
 
 L'employeur prend les mesures appropriées pour que les salariés respectivement leurs représentants dans l'entreprise ou l'établissement reçoivent une formation à la fois suffisante et adéquate, sur la base de tous renseignements disponibles, notamment sous forme d'informations et d'instructions, concernant:
 
-1. les risques potentiels pour la santé, y compris les risques additionnels dus à la consommation du tabac,
+- les risques potentiels pour la santé, y compris les risques additionnels dus à la consommation du tabac,
 
-2. les précautions à prendre pour prévenir l'exposition,
+- les précautions à prendre pour prévenir l'exposition,
 
-3. les prescriptions en matière d'hygiène,
+- les prescriptions en matière d'hygiène,
 
-4. le port et l'emploi des équipements et des vêtements de protection,
+- le port et l'emploi des équipements et des vêtements de protection,
 
-5. les mesures à prendre par les salariés, notamment par le personnel d'intervention, en cas d'incident et pour la prévention d'incidents.
+- les mesures à prendre par les salariés, notamment par le personnel d'intervention, en cas d'incident et pour la prévention d'incidents.
 
 Cette formation doit:
 
-1. être adaptée à l'évolution des risques et à l'apparition de risques nouveaux;
+- être adaptée à l'évolution des risques et à l'apparition de risques nouveaux;
 
-2. être répétée périodiquement si nécessaire.
+- être répétée périodiquement si nécessaire.
 
 (2)
 
@@ -267,21 +267,21 @@ Information des salariés
 
 Des mesures appropriées sont prises pour assurer que:
 
-1. les salariés respectivement leurs représentants dans l'entreprise ou l'établissement peuvent vérifier que les dispositions du présent règlement grand-ducal sont appliquées, ou peuvent être associées à cette application, en ce qui concerne notamment:
+- les salariés respectivement leurs représentants dans l'entreprise ou l'établissement peuvent vérifier que les dispositions du présent règlement grand-ducal sont appliquées, ou peuvent être associées à cette application, en ce qui concerne notamment:
 
-1. les conséquences sur la sécurité et la santé des salariés, liées au choix, au port et à l'utilisation des vêtements et des équipements de protection, sans préjudice des responsabilités de l'employeur pour déterminer l'efficacité des vêtements et des équipements de protection;
+  - les conséquences sur la sécurité et la santé des salariés, liées au choix, au port et à l'utilisation des vêtements et des équipements de protection, sans préjudice des responsabilités de l'employeur pour déterminer l'efficacité des vêtements et des équipements de protection;
 
-2. les mesures déterminées par l'employeur, visées à l'article 8, paragraphe 1 er , alinéa 1, sans préjudice des responsabilités de l'employeur pour déterminer ces mesures.
+  - les mesures déterminées par l'employeur, visées à l'article 8, paragraphe 1 er , alinéa 1, sans préjudice des responsabilités de l'employeur pour déterminer ces mesures.
 
-2. les salariés respectivement leurs représentants dans l'entreprise ou l'établissement sont informés le plus rapidement possible d'expositions anormales, y compris celles visées à l'article 8, de leurs causes et des mesures prises ou à prendre pour remédier à la situation;
+- les salariés respectivement leurs représentants dans l'entreprise ou l'établissement sont informés le plus rapidement possible d'expositions anormales, y compris celles visées à l'article 8, de leurs causes et des mesures prises ou à prendre pour remédier à la situation;
 
-3. l'employeur tient une liste actualisée des salariés employés aux activités au sujet desquelles les résultats de l'appréciation visée à l'article 3 paragraphe 2 révèlent un risque concernant la sécurité ou la santé des salariés avec indication, si cette information est disponible, de l'exposition à laquelle ils ont été soumis;
+- l'employeur tient une liste actualisée des salariés employés aux activités au sujet desquelles les résultats de l'appréciation visée à l'article 3 paragraphe 2 révèlent un risque concernant la sécurité ou la santé des salariés avec indication, si cette information est disponible, de l'exposition à laquelle ils ont été soumis;
 
-4. le médecin du travail compétent respectivement les membres de l'Inspection du travail et des mines ainsi que les membres de la Direction de la santé, ainsi que toute autre personne responsable de la sécurité ou de la santé sur le lieu de travail ont accès à la liste visée au paragraphe 3;
+- le médecin du travail compétent respectivement les membres de l'Inspection du travail et des mines ainsi que les membres de la Direction de la santé, ainsi que toute autre personne responsable de la sécurité ou de la santé sur le lieu de travail ont accès à la liste visée au paragraphe 3;
 
-5. chaque salarié a accès aux informations contenues dans la liste et le concernant personnellement;
+- chaque salarié a accès aux informations contenues dans la liste et le concernant personnellement;
 
-6. les salariés respectivement leurs représentants dans l'entreprise ou l'établissement ont accès aux informations collectives anonymes.
+- les salariés respectivement leurs représentants dans l'entreprise ou l'établissement ont accès aux informations collectives anonymes.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -303,9 +303,9 @@ L’Inspection du travail et des mines et la Direction de la santé prennent, co
 
 Les mesures visées au paragraphe 1er sont telles que chaque salarié doit pouvoir faire l'objet, si cela est approprié, d'une surveillance médicale adéquate:
 
-1. avant l'exposition;
+- avant l'exposition;
 
-2. à intervalles réguliers ensuite.
+- à intervalles réguliers ensuite.
 
 Ces mesures sont telles qu'il est directement possible d'appliquer des mesures de médecine individuelles et de médecine du travail.
 
@@ -327,9 +327,9 @@ Des renseignements et des conseils doivent être donnés aux salariés concernan
 
 Conformément à la législation mentionnée au paragraphe 1er:
 
-1. les salariés ont accès aux résultats de la surveillance médicale les concernant, et
+- les salariés ont accès aux résultats de la surveillance médicale les concernant, et
 
-2. les salariés concernés ou l'employeur peuvent demander une révision des résultats de la surveillance médicale.
+- les salariés concernés ou l'employeur peuvent demander une révision des résultats de la surveillance médicale.
 
 (7)
 

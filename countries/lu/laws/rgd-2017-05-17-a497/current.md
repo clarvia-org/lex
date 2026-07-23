@@ -39,15 +39,15 @@ Les prestataires de services doivent être préalablement agréés par le Minist
 
 Les aides couvrent les coûts suivants:
 
-1. les coûts d'organisation des actions de formation professionnelle, d'acquisition de compétences y compris des cours de formation, des ateliers, des activités de démonstration et des actions d'information;
+- les coûts d'organisation des actions de formation professionnelle, d'acquisition de compétences y compris des cours de formation, des ateliers, des activités de démonstration et des actions d'information;
 
-2. les frais de voyage et de logement et les indemnités journalières des conférenciers;
+- les frais de voyage et de logement et les indemnités journalières des conférenciers;
 
-3. dans le cas de projets de démonstration liés à des investissements et dans la mesure où les coûts sont utilisés pour la réalisation des projets et pendant la durée de ceux-ci:
+- dans le cas de projets de démonstration liés à des investissements et dans la mesure où les coûts sont utilisés pour la réalisation des projets et pendant la durée de ceux-ci:
 
-1. la location de terrains;
+  - la location de terrains;
 
-2. l'achat ou la location-vente de matériels et d'équipements, dans la mesure où ils sont utilisés pour le projet. Lorsque les instruments et le matériel ne sont pas utilisés pendant toute leur durée de vie dans le cadre du projet, seuls les coûts d'amortissement correspondant à la durée du projet sont pris en compte.
+  - l'achat ou la location-vente de matériels et d'équipements, dans la mesure où ils sont utilisés pour le projet. Lorsque les instruments et le matériel ne sont pas utilisés pendant toute leur durée de vie dans le cadre du projet, seuls les coûts d'amortissement correspondant à la durée du projet sont pris en compte.
 
 Les recettes générées par l’organisation des actions, telles que les contributions payées par les participants, sont portées en diminution des coûts éligibles pour le montant qui dépasse le montant des coûts qui ne sont pas pris en charge par l’État.
 
@@ -155,23 +155,23 @@ ou
 
 Le prestataire de services de conseil établit un compte rendu signé par les participants et indiquant:
 
-1. dans le cadre des prestations de conseil individuel:
+- dans le cadre des prestations de conseil individuel:
 
-- le nom du prestataire de services et le nom des conseillers
+  - le nom du prestataire de services et le nom des conseillers
 
-- le nom du bénéficiaire et son numéro d’exploitation
+  - le nom du bénéficiaire et son numéro d’exploitation
 
-- la date et l’objet de la prestation de conseil
+  - la date et l’objet de la prestation de conseil
 
-- les recommandations concrètes en matière de conseil
+  - les recommandations concrètes en matière de conseil
 
-2. dans le cadre des prestations de conseil en groupe:
+- dans le cadre des prestations de conseil en groupe:
 
-- le nom du prestataire de services ainsi que le nom des conseillers
+  - le nom du prestataire de services ainsi que le nom des conseillers
 
-- la liste des participants avec leur numéro d’exploitation
+  - la liste des participants avec leur numéro d’exploitation
 
-- la date et l’objet de la prestation de conseil.
+  - la date et l’objet de la prestation de conseil.
 
 Les comptes rendus sont à présenter au ministre sur demande.
 
@@ -200,15 +200,15 @@ La Chambre d’agriculture élabore, coordonne et met en œuvre un système de f
 
 Avant la date du début des projets bénéficiant de l'aide visée aux articles 40 et 43 de la loi précitée du 27 juin 2016, les informations suivantes sont publiées sur les sites internet du ministère de l’Agriculture, de la Viticulture et de la Protection des consommateurs et de la Chambre d’agriculture:
 
-1. la description du projet;
+- la description du projet;
 
-2. les objectifs du projet;
+- les objectifs du projet;
 
-3. la date approximative de publication des résultats;
+- la date approximative de publication des résultats;
 
-4. les sites internet où les résultats seront publiés;
+- les sites internet où les résultats seront publiés;
 
-5. une mention indiquant que les résultats du projet sont mis gratuitement à la disposition de toutes les entreprises qui exercent des activités dans le secteur ou le sous-secteur agricole concerné.
+- une mention indiquant que les résultats du projet sont mis gratuitement à la disposition de toutes les entreprises qui exercent des activités dans le secteur ou le sous-secteur agricole concerné.
 
 Les résultats sont publiés sur les mêmes sites internet à partir de la date d’achèvement du projet où ils peuvent être consultés pendant une période d’au moins cinq ans.
 
@@ -217,19 +217,19 @@ Les résultats sont publiés sur les mêmes sites internet à partir de la date 
 
 L’aide couvre les coûts suivants:
 
-1. les frais de personnel liés aux chercheurs, techniciens et personnel d'appui;
+- les frais de personnel liés aux chercheurs, techniciens et personnel d'appui;
 
-2.
+-
 
-1. la location de terrains;
+  - la location de terrains;
 
-2. l'achat ou la location-vente de matériels et d'équipements, dans la mesure où ils sont utilisés pour le projet. Lorsque les instruments et le matériel ne sont pas utilisés pendant toute leur durée de vie dans le cadre du projet, seuls les coûts d'amortissement correspondant à la durée du projet sont pris en compte;
+  - l'achat ou la location-vente de matériels et d'équipements, dans la mesure où ils sont utilisés pour le projet. Lorsque les instruments et le matériel ne sont pas utilisés pendant toute leur durée de vie dans le cadre du projet, seuls les coûts d'amortissement correspondant à la durée du projet sont pris en compte;
 
-3. les coûts de la recherche contractuelle, des connaissances et des brevets achetés ou pris sous licence auprès de sources extérieures à des conditions de pleine concurrence, ainsi que les coûts des services de conseil et des services équivalents utilisés exclusivement aux fins du projet;
+- les coûts de la recherche contractuelle, des connaissances et des brevets achetés ou pris sous licence auprès de sources extérieures à des conditions de pleine concurrence, ainsi que les coûts des services de conseil et des services équivalents utilisés exclusivement aux fins du projet;
 
-4. les frais généraux additionnels et les autres frais d'exploitation, notamment les coûts des matériaux, fournitures et produits similaires en relation directe avec le projet;
+- les frais généraux additionnels et les autres frais d'exploitation, notamment les coûts des matériaux, fournitures et produits similaires en relation directe avec le projet;
 
-5. les activités de promotion.
+- les activités de promotion.
 
 Les aides sont fixées à 100 pour cent des coûts admissibles.
 

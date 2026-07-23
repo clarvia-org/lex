@@ -32,15 +32,15 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Est admissible aux épreuves du concours réglant l’admission au stage préparant à la fonction d’instituteur, à condition d’avoir passé avec succès les épreuves préliminaires au concours définies à l’article 2 :
 
-1. le détenteur du bachelor professionnel en sciences de l’éducation délivré par l’Université du Luxembourg ;
+- le détenteur du bachelor professionnel en sciences de l’éducation délivré par l’Université du Luxembourg ;
 
-2. le détenteur d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur, conforme aux dispositions des directives CE relatives à la reconnaissance des qualifications professionnelles ;
+- le détenteur d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur, conforme aux dispositions des directives CE relatives à la reconnaissance des qualifications professionnelles ;
 
-3. le détenteur d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur, délivré par une institution située dans un pays qui n’est pas membre de l’Union Européenne et reconnu par le ministre ayant l’Enseignement supérieur dans ses attributions ;
+- le détenteur d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur, délivré par une institution située dans un pays qui n’est pas membre de l’Union Européenne et reconnu par le ministre ayant l’Enseignement supérieur dans ses attributions ;
 
-4. le détenteur d’un diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État et sanctionnant l’accomplissement avec succès d’un bachelor en lien avec un des objectifs de l’enseignement fondamental définis aux articles 6 et 7 de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental ou de son équivalent et admis à la réserve de suppléants prévus à l’article 16, point 2, lettre c), de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;
+- le détenteur d’un diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État et sanctionnant l’accomplissement avec succès d’un bachelor en lien avec un des objectifs de l’enseignement fondamental définis aux articles 6 et 7 de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental ou de son équivalent et admis à la réserve de suppléants prévus à l’article 16, point 2, lettre c), de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;
 
-5. les candidats ayant débuté le dernier semestre des études menant à l’obtention d’un des diplômes visés aux points 1 à 3.
+- les candidats ayant débuté le dernier semestre des études menant à l’obtention d’un des diplômes visés aux points 1 à 3.
 
 #### Chapitre 2 Les épreuves préliminaires au concours.
 
@@ -89,9 +89,9 @@ Les membres du jury ont droit, par candidat et par épreuve, à une indemnité f
 
 Peuvent s’inscrire aux sessions respectives :
 
-1. les candidats détenteurs d’un des diplômes énumérés à l’article 1er, points 1° à 3°, et les candidats inscrits à une formation menant à un de ces diplômes ;
+- les candidats détenteurs d’un des diplômes énumérés à l’article 1er, points 1° à 3°, et les candidats inscrits à une formation menant à un de ces diplômes ;
 
-2. les candidats prévus à l’article 1er, point 4°.
+- les candidats prévus à l’article 1er, point 4°.
 
 Les demandes de participation sont faites moyennant un formulaire dont la forme est arrêtée par le ministre. Les dates des épreuves et les délais dans lesquels les demandes de participation doivent parvenir au ministre sont publiés sur le site internet du Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse, désigné ci-après par « ministère ».
 
@@ -127,11 +127,11 @@ Le candidat pouvant attester la fréquentation, pendant au moins dix années sco
 
 Les épreuves du concours comportent:
 
-1. 1.Pour l’option C1 : une épreuve écrite sur la pédagogie et la didactique des domaines de développement et d’apprentissage du cycle 1 de l’enseignement fondamental. Cette épreuve est à documents ouverts. Les candidats peuvent choisir de rédiger l’épreuve en langue allemande ou en langue française, indépendamment de la langue dans laquelle la ou les questions sont posées.
+- 1.Pour l’option C1 : une épreuve écrite sur la pédagogie et la didactique des domaines de développement et d’apprentissage du cycle 1 de l’enseignement fondamental. Cette épreuve est à documents ouverts. Les candidats peuvent choisir de rédiger l’épreuve en langue allemande ou en langue française, indépendamment de la langue dans laquelle la ou les questions sont posées.
 
-2. 1bis. Pour l’option C2-C4 : une épreuve écrite sur la pédagogie et la didactique des domaines de développement et d’apprentissage des cycles 2, 3 et 4 de l’enseignement fondamental. Cette épreuve est à documents ouverts. Les candidats peuvent choisir de rédiger l’épreuve en langue allemande ou en langue française, indépendamment de la langue dans laquelle la ou les questions sont posées.
+- 1bis. Pour l’option C2-C4 : une épreuve écrite sur la pédagogie et la didactique des domaines de développement et d’apprentissage des cycles 2, 3 et 4 de l’enseignement fondamental. Cette épreuve est à documents ouverts. Les candidats peuvent choisir de rédiger l’épreuve en langue allemande ou en langue française, indépendamment de la langue dans laquelle la ou les questions sont posées.
 
-3. 2.une épreuve écrite portant sur la culture luxembourgeoise. Les candidats peuvent choisir de rédiger l’épreuve en langue allemande ou en langue française, indépendamment de la langue dans laquelle la ou les questions sont posées.
+- 2.une épreuve écrite portant sur la culture luxembourgeoise. Les candidats peuvent choisir de rédiger l’épreuve en langue allemande ou en langue française, indépendamment de la langue dans laquelle la ou les questions sont posées.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -197,11 +197,11 @@ Le candidat ayant participé aux épreuves des deux options fait parvenir, par f
 
 Pour l’établissement du classement, le jury ne considère que :
 
-1. les candidats visés à l’article 1er, points 1 à 3 ;
+- les candidats visés à l’article 1er, points 1 à 3 ;
 
-2. les candidats visés à l’article 1er, point 4, ayant remis leur certificat de formation pédagogique prévu à l’article 20bis de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;
+- les candidats visés à l’article 1er, point 4, ayant remis leur certificat de formation pédagogique prévu à l’article 20bis de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;
 
-3. les candidats visés à l’article 1er, point 5, ayant remis leur diplôme d’instituteur, tel que mentionné à l’article 1er, points 1 à 3, ou, à défaut, une attestation de réussite de leur formation.
+- les candidats visés à l’article 1er, point 5, ayant remis leur diplôme d’instituteur, tel que mentionné à l’article 1er, points 1 à 3, ou, à défaut, une attestation de réussite de leur formation.
 
 Le ministre fixe la date limite à laquelle les candidats sont tenus de compléter leur demande ; à défaut, ils doivent se présenter à une nouvelle session du concours.
 

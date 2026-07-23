@@ -149,7 +149,7 @@ Le secrétaire établit pour chaque réunion un procès-verbal indiquant le nom 
 <a id="art-18"></a>
 ## Art. 18.
 
-Le président ou le vice-président de la Commission de surveillance touche pour chaque réunion une indemnité fixée à quarante-trois euros et treize cents. Les délégués touchent pour chaque réunion une indemnité fixée à vingt et un euros et cinquante-six cents, à l’exception des délégués représentant des professions libérales qui touchent pour chaque réunion une indemnité fixée à quarante-trois euros et treize cents. Le secrétaire et les agents de l’Etat touchent pour chaque réunion une indemnité fixée à vingt et un euros et cinquante-six cents.
+Le président ou le vice-président de la Commission de surveillance touche pour chaque réunion une indemnité fixée à quarante-trois euros et treize cents . Les délégués touchent pour chaque réunion une indemnité fixée à vingt et un euros et cinquante-six cents , à l’exception des délégués représentant des professions libérales qui touchent pour chaque réunion une indemnité fixée à quarante-trois euros et treize cents . Le secrétaire et les agents de l’Etat touchent pour chaque réunion une indemnité fixée à vingt et un euros et cinquante-six cents .
 
 <a id="art-19"></a>
 ## Art. 19.

@@ -36,32 +36,32 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La présente loi s'applique aux employés enseignants des catégories, groupes et sous-groupes d'indemnité suivants:
 
-1. catégorie d'indemnité A, groupe d'indemnité A1: le sous-groupe de l'enseignement visé sous le point e) du paragraphe 1 er de l'article 43 de la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l'État;
+- catégorie d'indemnité A, groupe d'indemnité A1: le sous-groupe de l'enseignement visé sous le point e) du paragraphe 1 er de l'article 43 de la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l'État;
 
-2. catégorie d'indemnité A, groupe d'indemnité A2: le sous-groupe de l'enseignement visé sous le point d) du paragraphe 1 er de l'article 44 de la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l'État;
+- catégorie d'indemnité A, groupe d'indemnité A2: le sous-groupe de l'enseignement visé sous le point d) du paragraphe 1 er de l'article 44 de la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l'État;
 
-3. catégorie d'indemnité B, groupe d'indemnité B1: le sous-groupe de l'enseignement visé sous le point e) du paragraphe 1 er de l'article 45 de la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l'État.
+- catégorie d'indemnité B, groupe d'indemnité B1: le sous-groupe de l'enseignement visé sous le point e) du paragraphe 1 er de l'article 45 de la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l'État.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 Au sens de la présente loi, on entend par:
 
-1. directeur: directeur d'un lycée;
+- directeur: directeur d'un lycée;
 
-2. établissement scolaire: entité administrative et pédagogique identifiable, regroupant en communauté scolaire les apprenants, le personnel enseignant, le personnel éducatif et psycho-social d'un ou de plusieurs bâtiments scolaires;
+- établissement scolaire: entité administrative et pédagogique identifiable, regroupant en communauté scolaire les apprenants, le personnel enseignant, le personnel éducatif et psycho-social d'un ou de plusieurs bâtiments scolaires;
 
-3. formation: cycle de formation de début de carrière;
+- formation: cycle de formation de début de carrière;
 
-4. institut: Institut de formation de l'éducation nationale;
+- institut: Institut de formation de l'éducation nationale;
 
-5. lycée : lycée et établissement d’enseignement public luxembourgeois ;
+- lycée : lycée et établissement d’enseignement public luxembourgeois ;
 
-6. ministère: ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse;
+- ministère: ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse;
 
-7. ministre: ministre ayant l'Éducation nationale dans ses attributions;
+- ministre: ministre ayant l'Éducation nationale dans ses attributions;
 
-8. réserve: réserve nationale des employés enseignants des catégories d'indemnité énumérées à l'article 1 er .
+- réserve: réserve nationale des employés enseignants des catégories d'indemnité énumérées à l'article 1 er .
 
 ##### Titre II Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle et des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle.
 
@@ -79,9 +79,9 @@ De même, des chargés d’éducation peuvent être engagés sous les conditions
 
 Sans préjudice des conditions prévues à l'article 4 de la loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d'enseignement secondaire et secondaire technique, peuvent bénéficier d'un engagement en qualité de chargé d'éducation à durée déterminée et à tâche complète ou partielle dans un lycée, les candidats qui remplissent les conditions suivantes:
 
-1. offrir les garanties de moralité requises, dont la preuve est apportée par la remise d'un extrait récent du casier judiciaire, bulletin n° 2 et du casier judiciaire, bulletin spécial «protection des mineurs» ne comprenant pas de condamnation à une peine d'emprisonnement;
+- offrir les garanties de moralité requises, dont la preuve est apportée par la remise d'un extrait récent du casier judiciaire, bulletin n° 2 et du casier judiciaire, bulletin spécial «protection des mineurs» ne comprenant pas de condamnation à une peine d'emprisonnement;
 
-2. avoir fait preuve d'une connaissance adéquate de deux des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues.
+- avoir fait preuve d'une connaissance adéquate de deux des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -107,9 +107,9 @@ Des chargés d'enseignement à durée indéterminée peuvent être engagés sous
 
 Sans préjudice des conditions prévues à l'article 4 de la loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d'enseignement secondaire et secondaire technique, peuvent bénéficier d'un engagement en qualité de chargé d'enseignement à durée indéterminée et à tâche complète ou partielle dans un lycée, les candidats qui remplissent les conditions suivantes:
 
-1. offrir les garanties de moralité requises, dont la preuve est apportée par la remise d'un extrait récent du casier judiciaire, bulletin n° 2 et du casier judiciaire, bulletin spécial «protection des mineurs» ne comprenant pas de condamnation à une peine d'emprisonnement;
+- offrir les garanties de moralité requises, dont la preuve est apportée par la remise d'un extrait récent du casier judiciaire, bulletin n° 2 et du casier judiciaire, bulletin spécial «protection des mineurs» ne comprenant pas de condamnation à une peine d'emprisonnement;
 
-2. avoir fait preuve d'une connaissance adéquate des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues.
+- avoir fait preuve d'une connaissance adéquate des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -163,9 +163,9 @@ La réserve reprend l'ensemble des catégories de personnel enseignant engagés 
 
 La réserve peut comprendre:
 
-1. les chargés d'enseignement engagés à durée indéterminée et à tâche complète ou partielle conformément aux dispositions du chapitre II du Titre II;
+- les chargés d'enseignement engagés à durée indéterminée et à tâche complète ou partielle conformément aux dispositions du chapitre II du Titre II;
 
-2. les chargés d'éducation engagés à durée déterminée et à tâche complète ou partielle conformément aux dispositions du chapitre Ier du Titre II.
+- les chargés d'éducation engagés à durée déterminée et à tâche complète ou partielle conformément aux dispositions du chapitre Ier du Titre II.
 
 (3)
 

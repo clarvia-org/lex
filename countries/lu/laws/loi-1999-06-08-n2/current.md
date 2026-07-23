@@ -44,11 +44,11 @@ Le budget de l’Etat est la loi annuelle qui prévoit et autorise toutes les re
 
 Au cas où le budget n’est pas voté avant le premier janvier de l’exercice auquel il s’applique, le Gouvernement présente un projet de loi l’autorisant à:
 
-1. recouvrer les impôts existant au 31 décembre de l’année précédant l’exercice;
+- recouvrer les impôts existant au 31 décembre de l’année précédant l’exercice;
 
-2. rendre applicables pour un ou plusieurs mois d’autres dispositions;
+- rendre applicables pour un ou plusieurs mois d’autres dispositions;
 
-3. effectuer, pendant la même période, les dépenses figurant dans des tableaux annexés.
+- effectuer, pendant la même période, les dépenses figurant dans des tableaux annexés.
 
 Les recettes perçues ainsi que les dépenses engagées au cours de cette période et liquidées au cours de l’exercice sont reprises dans le budget voté de l’exercice.
 
@@ -86,23 +86,23 @@ Les recettes provenant de l’émission d’emprunts ne peuvent servir qu’au f
 
 Le projet de budget de l’année est accompagné d’un rapport sur la situation financière et budgétaire et ses perspectives d’évolution dans le cadre économique général ainsi que d’annexes explicatives faisant connaître notamment:
 
-1. la situation financière des services de l’Etat à gestion séparée;
+- la situation financière des services de l’Etat à gestion séparée;
 
-2. l’encours des garanties accordées par l’Etat;
+- l’encours des garanties accordées par l’Etat;
 
-3. la situation financière des fonds spéciaux, indiquant pour chaque fonds spécial son évolution pluriannuelle passée et prospective;
+- la situation financière des fonds spéciaux, indiquant pour chaque fonds spécial son évolution pluriannuelle passée et prospective;
 
-4. des indications détaillées concernant l’impact des dépenses fiscales sur les recettes;
+- des indications détaillées concernant l’impact des dépenses fiscales sur les recettes;
 
-5. les principaux paramètres des projets de budgets des sous-secteurs des administrations publiques;
+- les principaux paramètres des projets de budgets des sous-secteurs des administrations publiques;
 
-6. les informations prévues par l’article 6 du règlement (UE) n° 473/2013 du Parlement européen et du Conseil établissant des dispositions communes pour le suivi et l’évaluation des projets de plans budgétaires et pour la correction des déficits excessifs dans les Etats membres de la zone euro;
+- les informations prévues par l’article 6 du règlement (UE) n° 473/2013 du Parlement européen et du Conseil établissant des dispositions communes pour le suivi et l’évaluation des projets de plans budgétaires et pour la correction des déficits excessifs dans les Etats membres de la zone euro;
 
-7. les calculs permettant le passage du budget tel qu’il est établi selon les règles de la présente loi, vers une présentation des recettes, des dépenses et de la capacité ou du besoin de financement de l’ensemble des administrations publiques, détaillée par sous-secteurs et exprimée selon les règles de la comptabilité nationale et de l’Union européenne;
+- les calculs permettant le passage du budget tel qu’il est établi selon les règles de la présente loi, vers une présentation des recettes, des dépenses et de la capacité ou du besoin de financement de l’ensemble des administrations publiques, détaillée par sous-secteurs et exprimée selon les règles de la comptabilité nationale et de l’Union européenne;
 
-8. l’évolution pluriannuelle des recettes et des dépenses de l’Etat sur une période mobile de cinq ans, comprenant l’année en cours, l’année auquel se rapporte le projet de budget ainsi que les trois exercices financiers qui suivent ;
+- l’évolution pluriannuelle des recettes et des dépenses de l’Etat sur une période mobile de cinq ans, comprenant l’année en cours, l’année auquel se rapporte le projet de budget ainsi que les trois exercices financiers qui suivent ;
 
-9. une analyse comparative avec les prévisions économiques et budgétaires les plus récentes de la Commission européenne et, le cas échéant, d’autres organismes indépendants et comprenant des explications sur les différences significatives entre le scénario macrobudgétaire retenu et les prévisions de la Commission européenne.
+- une analyse comparative avec les prévisions économiques et budgétaires les plus récentes de la Commission européenne et, le cas échéant, d’autres organismes indépendants et comprenant des explications sur les différences significatives entre le scénario macrobudgétaire retenu et les prévisions de la Commission européenne.
 
 #### Chapitre 3. Exercice budgétaire et comptable
 
@@ -220,7 +220,7 @@ La somme des engagements à contracter au cours d’un exercice et des engagemen
 
 (1)
 
-Aucun transfert de crédit d’une section du budget à l’autre ne peut être effectué qu’en vertu d’une loi, à l’exception des transferts de crédits d’une section du budget des dépenses courantes à la section correspondante du budget des dépenses en capital.
+Aucun transfert de crédit d’une section du budget à l’autre ne peut être effectué qu’en vertu d’une loi , à l’exception des transferts de crédits d’une section du budget des dépenses courantes à la section correspondante du budget des dépenses en capital.
 
 (2)
 
@@ -340,27 +340,27 @@ Il exerce son contrôle sur pièces et pour autant que de besoin sur place.
 
 En matière de dépenses le contrôle a pour objet de constater:
 
-1. la disponibilité des crédits;
+- la disponibilité des crédits;
 
-2. l’exactitude de l’imputation budgétaire et comptable;
+- l’exactitude de l’imputation budgétaire et comptable;
 
-3. la conformité de la dépense aux lois, règlements, conventions et décisions gouvernementales ou ministérielles afférentes;
+- la conformité de la dépense aux lois, règlements, conventions et décisions gouvernementales ou ministérielles afférentes;
 
-4. la régularité des pièces justificatives;
+- la régularité des pièces justificatives;
 
-5. l’exécution correcte des contrôles internes par l’administration et le respect des procédures.
+- l’exécution correcte des contrôles internes par l’administration et le respect des procédures.
 
 (4)
 
 En matière de recettes non fiscales le contrôle a pour objet de constater:
 
-1. l’exactitude de l’imputation budgétaire et comptable;
+- l’exactitude de l’imputation budgétaire et comptable;
 
-2. la conformité de la recette aux lois, règlements, conventions et décisions gouvernementales ou ministérielles afférentes;
+- la conformité de la recette aux lois, règlements, conventions et décisions gouvernementales ou ministérielles afférentes;
 
-3. la régularité des pièces justificatives;
+- la régularité des pièces justificatives;
 
-4. l’exécution correcte des contrôles internes par l’administration et le respect des procédures.
+- l’exécution correcte des contrôles internes par l’administration et le respect des procédures.
 
 #### Chapitre 8.3. Comptables publics
 
@@ -746,9 +746,9 @@ Dans des cas exceptionnels ou inhérents au mode de paiement et suivant des cond
 
 Sauf en cas d’expropriation pour cause d’utilité publique, une avance à valoir sur le prix de vente peut être consentie au vendeur, sous les conditions et modalités suivantes, en vue de la cession au profit de l’Etat de tout ou partie d’un immeuble, libre de toutes charges, dans l’intérêt de la réalisation de travaux publics:
 
-1. l’avance ne peut pas dépasser quatre-vingts pour cent du prix de vente estimé et doit être stipulée dans une promesse de vente écrite, à approuver par le ministre compétent et le ministre ayant le budget dans ses attributions;
+- l’avance ne peut pas dépasser quatre-vingts pour cent du prix de vente estimé et doit être stipulée dans une promesse de vente écrite, à approuver par le ministre compétent et le ministre ayant le budget dans ses attributions;
 
-2. le budget de l’exercice, au cours duquel la promesse de vente est approuvée définitivement, doit prévoir les crédits nécessaires au paiement de l’avance.
+- le budget de l’exercice, au cours duquel la promesse de vente est approuvée définitivement, doit prévoir les crédits nécessaires au paiement de l’avance.
 
 (2)
 
@@ -796,15 +796,15 @@ Les comptables extraordinaires sont nommés par décision du ministre ayant le b
 
 Cette décision détermine notamment:
 
-1. la durée du mandat;
+- la durée du mandat;
 
-2. les modalités de la comptabilité;
+- les modalités de la comptabilité;
 
-3. les modalités du contrôle périodique par le contrôleur financier et par la trésorerie de l’Etat;
+- les modalités du contrôle périodique par le contrôleur financier et par la trésorerie de l’Etat;
 
-4. la nature des dépenses à effectuer ainsi que le montant maximum des fonds à mettre à la disposition du comptable extraordinaire;
+- la nature des dépenses à effectuer ainsi que le montant maximum des fonds à mettre à la disposition du comptable extraordinaire;
 
-5. les catégories de recettes à recouvrer.
+- les catégories de recettes à recouvrer.
 
 <a id="art-69"></a>
 ## Art. 69.
@@ -900,13 +900,13 @@ La création d’un fonds spécial est autorisée par la loi, laquelle précise 
 
 Les dépenses à charge ainsi que les recettes au profit de ces fonds spéciaux sont soumises aux règles de la présente loi, sauf les exceptions ci-après:
 
-1. Les fonds spéciaux sont renseignés dans la comptabilité sous un titre particulier.
+- Les fonds spéciaux sont renseignés dans la comptabilité sous un titre particulier.
 
-2. Peuvent être payées dans la limite des avoirs disponibles les dépenses engagées au cours de l’année qui donne sa dénomination à l’exercice ainsi que les dépenses engagées au cours d’années précédentes.
+- Peuvent être payées dans la limite des avoirs disponibles les dépenses engagées au cours de l’année qui donne sa dénomination à l’exercice ainsi que les dépenses engagées au cours d’années précédentes.
 
-3. La somme des engagements à contracter au cours d’un exercice et «des» engagements reportés d’exercices antérieurs peuvent dépasser le total des avoirs disponibles pour cet exercice.
+- La somme des engagements à contracter au cours d’un exercice et «des» engagements reportés d’exercices antérieurs peuvent dépasser le total des avoirs disponibles pour cet exercice.
 
-4. l’avoir disponible à la clôture de l’exercice budgétaire est reporté à l’exercice suivant.
+- l’avoir disponible à la clôture de l’exercice budgétaire est reporté à l’exercice suivant.
 
 <a id="art-77"></a>
 ## Art. 77.
@@ -956,17 +956,17 @@ Toutes les lois, tous les règlements entraînant des dépenses ou des recettes,
 
 Doivent être autorisés par la loi:
 
-1. toute aliénation d’une propriété immobilière ou mobilière appartenant à l’Etat dont la valeur globale dépasse la somme de 60.000.000 euros ;
+- toute aliénation d’une propriété immobilière ou mobilière appartenant à l’Etat dont la valeur globale dépasse la somme de 60.000.000 euros ;
 
-2. toute acquisition par l’Etat d’une propriété immobilière ou mobilière dont la valeur globale dépasse la somme de 60.000.000 euros ;
+- toute acquisition par l’Etat d’une propriété immobilière ou mobilière dont la valeur globale dépasse la somme de 60.000.000 euros ;
 
-3. toute réalisation au profit de l’Etat d’un projet d’infrastructure ou d’un bâtiment dont le coût total dépasse la somme de 60.000.000 euros ;
+- toute réalisation au profit de l’Etat d’un projet d’infrastructure ou d’un bâtiment dont le coût total dépasse la somme de 60.000.000 euros ;
 
-4. tout autre engagement financier, y compris les garanties de l’Etat, dont le montant dépasse la somme de 60.000.000 euros ;
+- tout autre engagement financier, y compris les garanties de l’Etat, dont le montant dépasse la somme de 60.000.000 euros ;
 
-5. toute acquisition par l’Etat d’une propriété immobilière ou mobilière par enchères publiques où le prix d’acquisition dépasse la somme de 60.000.000 euros ;
+- toute acquisition par l’Etat d’une propriété immobilière ou mobilière par enchères publiques où le prix d’acquisition dépasse la somme de 60.000.000 euros ;
 
-6. (abrogé)
+- (abrogé)
 
 (2)
 
@@ -1053,7 +1053,9 @@ La loi modifiée du 10 mars 1969 portant institution d’une inspection généra
 
 «onze» au lieu de «huit».
 
-(2) La première phrase de l'alinéa (1) de l'article 11 de la loi modifiée du 10 mars 1969 portant institution d'une inspection générale des finances est modifiée comme suit: Des fonctionnaires des carrières supérieure, moyenne ou inférieures peuvent être recrutés parmi les fonctionnaires de l'administration gouvernementale et des autres administrations publiques pour être adjoints à l'inspection générale des finances suivant les besoins du service et dans les limites des crédits budgétaires.
+(2) La première phrase de l'alinéa (1) de l'article 11 de la loi modifiée du 10 mars 1969 portant institution d'une inspection générale des finances est modifiée comme suit:
+
+Des fonctionnaires des carrières supérieure, moyenne ou inférieures peuvent être recrutés parmi les fonctionnaires de l'administration gouvernementale et des autres administrations publiques pour être adjoints à l'inspection générale des finances suivant les besoins du service et dans les limites des crédits budgétaires.
 
 #### Chapitre 20. Direction du contrôle financier
 
@@ -1099,13 +1101,13 @@ La fonction du directeur du contrôle financier est classée au grade 17 de la r
 
 La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifiée et complétée comme suit:
 
-1. A l’annexe A - Classification des fonctions - rubrique I «Administration générale», les modifications suivantes sont apportées:
+- A l’annexe A - Classification des fonctions - rubrique I «Administration générale», les modifications suivantes sont apportées:
 
-- au grade 17 est ajoutée la mention direction du contrôle financier - directeur ;
+  - au grade 17 est ajoutée la mention direction du contrôle financier - directeur ;
 
-2. A l’annexe D. «Détermination des carrières inférieures, moyennes et supérieures et du grade de computation de la bonification d’ancienneté de service», à la rubrique I «Administration générale» est ajoutée au grade 17, grade de computation de la bonification d’ancienneté 12, la fonction directeur du contrôle financier .
+- A l’annexe D. «Détermination des carrières inférieures, moyennes et supérieures et du grade de computation de la bonification d’ancienneté de service», à la rubrique I «Administration générale» est ajoutée au grade 17, grade de computation de la bonification d’ancienneté 12, la fonction directeur du contrôle financier .
 
-3. Au cas où le fonctionnaire nommé à la fonction de Directeur du contrôle financier est classé avant sa nomination au grade prévu à l’alinéa du présent article, il conserve son traitement au niveau du grade et de l’échelon atteints précédemment, sans préjudice de l’application des dispositions de l’article 22 VII b) de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, telle qu’elle a été modifiée.
+- Au cas où le fonctionnaire nommé à la fonction de Directeur du contrôle financier est classé avant sa nomination au grade prévu à l’alinéa du présent article, il conserve son traitement au niveau du grade et de l’échelon atteints précédemment, sans préjudice de l’application des dispositions de l’article 22 VII b) de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, telle qu’elle a été modifiée.
 
 #### Chapitre 21. Trésorerie de l'Etat
 
@@ -1137,13 +1139,13 @@ La trésorerie de l’Etat est placée sous la responsabilité du directeur du t
 
 L’article C de la loi modifiée du 16 août 1966 portant organisation des cadres de la trésorerie de l’Etat, de la caisse générale de l’Etat et du service de contrôle de la comptabilité des communes et de certains établissements publics est modifié comme suit:
 
-1. Au point a) du premier alinéa sont ajoutés les tirets suivants: des conseillers de direction 1ère classe des conseillers de direction des conseillers de direction adjoints des attachés de gouvernement 1er en rang des attachés de gouvernement».
+- Au point a) du premier alinéa sont ajoutés les tirets suivants: des conseillers de direction 1ère classe des conseillers de direction des conseillers de direction adjoints des attachés de gouvernement 1er en rang des attachés de gouvernement».
 
-2. Au deuxième alinéa, les mots de la caisse générale de l’Etat et sont supprimés.
+- Au deuxième alinéa, les mots de la caisse générale de l’Etat et sont supprimés.
 
-3. Les quatrième, cinquième et sixième alinéas sont abrogés.
+- Les quatrième, cinquième et sixième alinéas sont abrogés.
 
-4. Au neuvième alinéa, les mots à la caisse générale de l’Etat sont supprimés.
+- Au neuvième alinéa, les mots à la caisse générale de l’Etat sont supprimés.
 
 <a id="art-92bis"></a>
 ## Art. 92bis.
@@ -1255,18 +1257,18 @@ La référence à la présente loi pourra se faire sous une forme abrégée en u
 
 Pour l’exécution du budget de l’exercice 2000, les alinéas (1) et (2) de l’article 9 ci-avant prennent la teneur suivante:
 
-1. les opérations relatives à l’ordonnancement des dépenses peuvent se prolonger jusqu’au dernier jour du mois d’avril 2001.
+- les opérations relatives à l’ordonnancement des dépenses peuvent se prolonger jusqu’au dernier jour du mois d’avril 2001.
 
-2. Les opérations relatives au paiement des dépenses et au recouvrement des recettes peuvent se prolonger jusqu’au 31 mai 2001.
+- Les opérations relatives au paiement des dépenses et au recouvrement des recettes peuvent se prolonger jusqu’au 31 mai 2001.
 
 <a id="art-102"></a>
 ## Art. 102.
 
 Pour l’exécution du budget de l’exercice 2000, les articles 11 et 12 ci-avant prennent la teneur suivante:
 
-1. Pour le 31 juillet 2001 au plus tard le projet de loi portant règlement du compte général de l’exercice 2000 est déposé à la Chambre des députés et transmis à la Cour des comptes.
+- Pour le 31 juillet 2001 au plus tard le projet de loi portant règlement du compte général de l’exercice 2000 est déposé à la Chambre des députés et transmis à la Cour des comptes.
 
-2. Pour le 30 novembre 2001 au plus tard, la Cour des comptes communique ses observations relatives au compte général de l’exercice 2000 à la Chambre des députés.
+- Pour le 30 novembre 2001 au plus tard, la Cour des comptes communique ses observations relatives au compte général de l’exercice 2000 à la Chambre des députés.
 
 <a id="art-103"></a>
 ## Art. 103.

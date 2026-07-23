@@ -63,39 +63,39 @@ Définitions
 
 Aux fins du présent règlement, et en sus des définitions figurant dans la loi modifiée du 21 mars 2012 relative aux déchets,on entend par :
 
-1. « stockage souterrain » : un site permanent de stockage des déchets dans une cavité géologique profonde telle qu’un emine de sel ou de potassium ;
+- « stockage souterrain » : un site permanent de stockage des déchets dans une cavité géologique profonde telle qu’un emine de sel ou de potassium ;
 
-2. « décharge » ; un site d’élimination des déchets par dépôt des déchets sur ou dans la terre (c’est-à-dire en sous-sol), y compris :
+- « décharge » ; un site d’élimination des déchets par dépôt des déchets sur ou dans la terre (c’est-à-dire en sous-sol), y compris :
 
-- les décharges internes (c’est-à-dire les décharges où un producteur de déchets procède lui-même à l’élimination des déchets sur le lieu de production), et
+  - les décharges internes (c’est-à-dire les décharges où un producteur de déchets procède lui-même à l’élimination des déchets sur le lieu de production), et
 
-- un site permanent (c’est-à-dire pour une durée supérieure à un an) utilisé pour stocker temporairement les déchets à l’exclusion,
+  - un site permanent (c’est-à-dire pour une durée supérieure à un an) utilisé pour stocker temporairement les déchets à l’exclusion,
 
-- des installations où les déchets sont déchargés afin de permettre leur préparation à un transport ultérieur en vue d’une valorisation, d’un traitement ou d’une élimination en un endroit différent, et
+  - des installations où les déchets sont déchargés afin de permettre leur préparation à un transport ultérieur en vue d’une valorisation, d’un traitement ou d’une élimination en un endroit différent, et
 
-- du stockage des déchets avant valorisation ou traitement pour une durée inférieure à trois ans en règle générale, ou
+  - du stockage des déchets avant valorisation ou traitement pour une durée inférieure à trois ans en règle générale, ou
 
-- du stockage des déchets avant élimination pour une durée inférieure à un an ;
+  - du stockage des déchets avant élimination pour une durée inférieure à un an ;
 
-3. « traitement » : les processus physiques, thermiques, chimiques ou biologiques, y compris le tri, qui modifient les caractéristiques des déchets de manière à en réduire le volume ou le caractère dangereux, à en faciliter la manipulation ou à en favoriser la valorisation ;
+- « traitement » : les processus physiques, thermiques, chimiques ou biologiques, y compris le tri, qui modifient les caractéristiques des déchets de manière à en réduire le volume ou le caractère dangereux, à en faciliter la manipulation ou à en favoriser la valorisation ;
 
-4. « lixiviat » : tout liquide filtrant par percolation des déchets mis en décharge et s’écoulant d’une décharge ou contenu dans celle-ci ;
+- « lixiviat » : tout liquide filtrant par percolation des déchets mis en décharge et s’écoulant d’une décharge ou contenu dans celle-ci ;
 
-5. « gaz de décharge » : tous les gaz produits par les déchets mis en décharge ;
+- « gaz de décharge » : tous les gaz produits par les déchets mis en décharge ;
 
-6. « éluat » : la solution obtenue lors de tests de lessivage simulés en laboratoire ;
+- « éluat » : la solution obtenue lors de tests de lessivage simulés en laboratoire ;
 
-7. « exploitant » : la personne physique ou morale responsable de la décharge ; cette personne peut changer entre la phase de préparation et celle de la gestion après désaffectation ;
+- « exploitant » : la personne physique ou morale responsable de la décharge ; cette personne peut changer entre la phase de préparation et celle de la gestion après désaffectation ;
 
-8. « déchet biodégradable » : tout déchet pouvant subir une décomposition anaérobie ou aérobie, comme les déchets alimentaires et les déchets de jardin, ainsi que le papier et le carton ;
+- « déchet biodégradable » : tout déchet pouvant subir une décomposition anaérobie ou aérobie, comme les déchets alimentaires et les déchets de jardin, ainsi que le papier et le carton ;
 
-9. « déchet liquide » : tout déchet sous forme liquide notamment les eaux usées, mais à l’exclusion des boues ;
+- « déchet liquide » : tout déchet sous forme liquide notamment les eaux usées, mais à l’exclusion des boues ;
 
-10. « demandeur » : la personne présentant une demande d’autorisation pour l’exploitation d’une décharge ;
+- « demandeur » : la personne présentant une demande d’autorisation pour l’exploitation d’une décharge ;
 
-11. « autorité compétente » : le membre du Gouvernement ayant l’Environnement dans ses attributions ;
+- « autorité compétente » : le membre du Gouvernement ayant l’Environnement dans ses attributions ;
 
-12. « administration » : l’Administration de l’environnement.
+- « administration » : l’Administration de l’environnement.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -131,11 +131,11 @@ Ces mesures ne s’appliquent pas aux sites permanents où des déchets biodégr
 
 La quantité de déchets municipaux biodégradables mis en décharge doit être réduite selon le calendrier de réduction suivant :
 
-1. réduction au plus tard au 16 juillet 2006 à un taux maximal de 75 pour cent (en poids) de la totalité des déchets municipaux biodégradables produits en 1995 sur le territoire des communes qui procèdent à l’élimination par mise en décharge ;
+- réduction au plus tard au 16 juillet 2006 à un taux maximal de 75 pour cent (en poids) de la totalité des déchets municipaux biodégradables produits en 1995 sur le territoire des communes qui procèdent à l’élimination par mise en décharge ;
 
-2. réduction au plus tard au 16 juillet 2009 à un taux maximal de 50 pour cent (en poids) de la totalité des déchets municipaux biodégradables produits en 1995 sur le territoire des communes qui procèdent à l’élimination par mise en décharge ;
+- réduction au plus tard au 16 juillet 2009 à un taux maximal de 50 pour cent (en poids) de la totalité des déchets municipaux biodégradables produits en 1995 sur le territoire des communes qui procèdent à l’élimination par mise en décharge ;
 
-3. réduction au plus tard au 16 juillet 2016 à un taux maximal de 35 pour cent (en poids) de la totalité des déchets municipaux biodégradables produits en 1995 sur le territoire des communes qui procèdent à l’élimination par mise en décharge.
+- réduction au plus tard au 16 juillet 2016 à un taux maximal de 35 pour cent (en poids) de la totalité des déchets municipaux biodégradables produits en 1995 sur le territoire des communes qui procèdent à l’élimination par mise en décharge.
 
 (3)
 
@@ -147,17 +147,17 @@ La mise en décharge de déchets municipaux est interdite à partir du 1er janvi
 
 Ne sont pas admis dans une décharge :
 
-1. les déchets liquides ;
+- les déchets liquides ;
 
-2. les déchets qui, dans les conditions de mise en décharge, sont explosifs, corrosifs, comburants, facilement inflammables ou inflammables, conformément aux définitions afférentes de l’annexe V de la loi modifiée du 21 mars 2012 relative aux déchets ;
+- les déchets qui, dans les conditions de mise en décharge, sont explosifs, corrosifs, comburants, facilement inflammables ou inflammables, conformément aux définitions afférentes de l’annexe V de la loi modifiée du 21 mars 2012 relative aux déchets ;
 
-3. les déchets hospitaliers et autres déchets cliniques provenant d’établissements médicaux ou vétérinaires et qui sont infectieux au sens de l’annexe V de la loi modifiée du 21 mars 2012 relative aux déchets ainsi que les déchets sous forme de substances chimiques non identifiées ou nouvelles qui proviennent d’activités de recherche et de développement ou d’enseignement, et dont les effets sur l’homme ou sur l’environnement ne sont pas connus ;
+- les déchets hospitaliers et autres déchets cliniques provenant d’établissements médicaux ou vétérinaires et qui sont infectieux au sens de l’annexe V de la loi modifiée du 21 mars 2012 relative aux déchets ainsi que les déchets sous forme de substances chimiques non identifiées ou nouvelles qui proviennent d’activités de recherche et de développement ou d’enseignement, et dont les effets sur l’homme ou sur l’environnement ne sont pas connus ;
 
-4. les pneus usés entiers, à compter de l’entrée en vigueur du présent règlement, à l’exclusion des pneus utilisés en tant que matériaux servant à l’aménagement de la décharge, et les pneus usés broyés ;
+- les pneus usés entiers, à compter de l’entrée en vigueur du présent règlement, à l’exclusion des pneus utilisés en tant que matériaux servant à l’aménagement de la décharge, et les pneus usés broyés ;
 
-5. tout autre type de déchets ne répondant pas aux critères d’admission définis à l’annexe II ;
+- tout autre type de déchets ne répondant pas aux critères d’admission définis à l’annexe II ;
 
-6. les déchets qui ont été collectés séparément pour la préparation en vue de la réutilisation et le recyclage conformément aux articles 14, paragraphe 1 er , et 25 de la loi modifiée du 21 mars 2012 relative aux déchets, à l’exception des déchets issus d’opérations de traitement ultérieures de déchets collectés séparément pour lesquels la mise en décharge produitle meilleur résultat sur le plan de l’environnement conformément à l’article 9 de la loi précitée du 21 mars 2012 .
+- les déchets qui ont été collectés séparément pour la préparation en vue de la réutilisation et le recyclage conformément aux articles 14, paragraphe 1 er , et 25 de la loi modifiée du 21 mars 2012 relative aux déchets, à l’exception des déchets issus d’opérations de traitement ultérieures de déchets collectés séparément pour lesquels la mise en décharge produitle meilleur résultat sur le plan de l’environnement conformément à l’article 9 de la loi précitée du 21 mars 2012 .
 
 (5)
 
@@ -172,13 +172,13 @@ Règles applicables au calcul visant à évaluer l’atteinte des objectifs
 
 Aux fins du calcul visant à déterminer si l’objectif fixé à l’article 6, paragraphe 3, a été atteint :
 
-1. le poids des déchets municipaux générés et orientés vers la mise en décharge est calculé au cours d’une année civile donnée ;
+- le poids des déchets municipaux générés et orientés vers la mise en décharge est calculé au cours d’une année civile donnée ;
 
-2. le poids des déchets résultant d’opérations de traitement préalables au recyclage ou à d’autres types de valorisation des déchets municipaux, comme le tri et le tri mécano-biologique, et qui sont ensuite mis en décharge, est inclus dans le poids des déchets municipaux rapportés comme ayant été mis en décharge ;
+- le poids des déchets résultant d’opérations de traitement préalables au recyclage ou à d’autres types de valorisation des déchets municipaux, comme le tri et le tri mécano-biologique, et qui sont ensuite mis en décharge, est inclus dans le poids des déchets municipaux rapportés comme ayant été mis en décharge ;
 
-3. le poids des déchets municipaux qui sont soumis à des opérations d’incinération et le poids des déchets produits par les opérations de stabilisation de la fraction biodégradable des déchets municipaux pour être ensuite mis en décharge sont rapportés comme ayant été mis en décharge ;
+- le poids des déchets municipaux qui sont soumis à des opérations d’incinération et le poids des déchets produits par les opérations de stabilisation de la fraction biodégradable des déchets municipaux pour être ensuite mis en décharge sont rapportés comme ayant été mis en décharge ;
 
-4. le poids des déchets produits au cours du recyclage ou d’autres opérations de valorisation de déchets municipaux, et qui sont ultérieurement mis en décharge, n’est pas inclus dans le poids des déchets municipaux rapportés comme ayant été mis en décharge.
+- le poids des déchets produits au cours du recyclage ou d’autres opérations de valorisation de déchets municipaux, et qui sont ultérieurement mis en décharge, n’est pas inclus dans le poids des déchets municipaux rapportés comme ayant été mis en décharge.
 
 (2)
 
@@ -193,19 +193,19 @@ Dans le cas où les déchets municipaux sont expédiés dans un autre État memb
 
 Déchets admis dans les différentes catégories de décharges
 
-1. Seuls les déchets déjà traités sont mis en décharge. Cette disposition ne peut s’appliquer aux déchets inertes pour lesquels un traitement n’est pas réalisable techniquement ou à tous autres déchets pour lesquels un tel traitement ne contribue pas à la réalisation des objectifs du présent règlement, fixés à l’article 1 er , par une réduction des quantités de déchets ou des risques pour la santé humaine ou l’environnement. Les mesures prises conformément au présent point ne doivent pas compromettre la réalisation des objectifs de la législation relative aux déchets, notamment ceux concernant la hiérarchie des déchets et l’augmentation de la préparation en vue de la réutilisation et du recyclage.
+- Seuls les déchets déjà traités sont mis en décharge. Cette disposition ne peut s’appliquer aux déchets inertes pour lesquels un traitement n’est pas réalisable techniquement ou à tous autres déchets pour lesquels un tel traitement ne contribue pas à la réalisation des objectifs du présent règlement, fixés à l’article 1 er , par une réduction des quantités de déchets ou des risques pour la santé humaine ou l’environnement. Les mesures prises conformément au présent point ne doivent pas compromettre la réalisation des objectifs de la législation relative aux déchets, notamment ceux concernant la hiérarchie des déchets et l’augmentation de la préparation en vue de la réutilisation et du recyclage.
 
-2. Seuls les déchets dangereux répondant aux critères arrêtés à l'annexe II du présent règlement sont dirigés vers une décharge pour déchets dangereux.
+- Seuls les déchets dangereux répondant aux critères arrêtés à l'annexe II du présent règlement sont dirigés vers une décharge pour déchets dangereux.
 
-3. Les décharges destinées aux déchets non dangereux peuvent être utilisées pour la mise en décharge:
+- Les décharges destinées aux déchets non dangereux peuvent être utilisées pour la mise en décharge:
 
-1. des déchets municipaux;
+  - des déchets municipaux;
 
-2. des déchets non dangereux de toute autre origine qui satisfont aux critères d'admission des déchets dans les décharges pour déchets non dangereux fixés conformément à l'annexe II;
+  - des déchets non dangereux de toute autre origine qui satisfont aux critères d'admission des déchets dans les décharges pour déchets non dangereux fixés conformément à l'annexe II;
 
-3. des déchets dangereux stables et non réactifs (par exemple solidifiés ou vitrifiés) dont le comportement en matière de production de lixiviats est équivalent à celui des déchets non dangereux visés au point 2) et qui satisfont aux critères d'admission pertinents fixés conformément à l'annexe II. Ces déchets dangereux ne sont pas mis en décharge dans des unités destinées aux déchets non dangereux biodégradables.
+  - des déchets dangereux stables et non réactifs (par exemple solidifiés ou vitrifiés) dont le comportement en matière de production de lixiviats est équivalent à celui des déchets non dangereux visés au point 2) et qui satisfont aux critères d'admission pertinents fixés conformément à l'annexe II. Ces déchets dangereux ne sont pas mis en décharge dans des unités destinées aux déchets non dangereux biodégradables.
 
-4. Les décharges pour déchets inertes ne peuvent accepter que des déchets inertes répondant aux critères arrêtés par l'annexe II du présent règlement.
+- Les décharges pour déchets inertes ne peuvent accepter que des déchets inertes répondant aux critères arrêtés par l'annexe II du présent règlement.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -214,19 +214,19 @@ Demande d'autorisation
 
 Aux fins d'application du présent règlement, la demande d'autorisation introduite pour une décharge au titre de la loi du 10 juin 1999 relative aux établissements classés, de la loi modifiée du 17 juin 1994 et, selon les cas, de la loi modifiée du 29 juillet 1993 concernant la protection et la gestion de l'eau contient, le cas échéant, les données supplémentaires suivantes:
 
-1. la description des types de déchets à déposer, leur origine et leur quantité totale;
+- la description des types de déchets à déposer, leur origine et leur quantité totale;
 
-2. la capacité projetée de la décharge;
+- la capacité projetée de la décharge;
 
-3. Les caractéristiques hydrogéologiques et géologiques du site ainsi que le modelage de la décharge aux fins d'une meilleure intégration dans le paysage environnant;
+- Les caractéristiques hydrogéologiques et géologiques du site ainsi que le modelage de la décharge aux fins d'une meilleure intégration dans le paysage environnant;
 
-4. le plan proposé pour l'exploitation, la surveillance et le contrôle de la décharge avec renseignements sur le personnel, sur les modalités d'acceptation des déchets ainsi que sur les procédures de contrôle des déchets lors de leur acceptation;
+- le plan proposé pour l'exploitation, la surveillance et le contrôle de la décharge avec renseignements sur le personnel, sur les modalités d'acceptation des déchets ainsi que sur les procédures de contrôle des déchets lors de leur acceptation;
 
-5. le plan proposé pour la désaffectation de la décharge et sa gestion et sa vocation après cette désaffectation;
+- le plan proposé pour la désaffectation de la décharge et sa gestion et sa vocation après cette désaffectation;
 
-6. un plan d'intervention en cas de sinistre;
+- un plan d'intervention en cas de sinistre;
 
-7. la garantie financière ou tout autre moyen équivalent à fournir par l'exploitant de la décharge.
+- la garantie financière ou tout autre moyen équivalent à fournir par l'exploitant de la décharge.
 
 L'administration élabore des formulaires de demande types adaptés aux différentes catégories de décharge.
 
@@ -268,13 +268,13 @@ Contenu de l'autorisation
 
 Aux fins d'application du présent règlement, l'autorisation délivrée au titre des législations visées à l'article 8 doit, le cas échéant, contenir au moins les indications suivantes:
 
-1. la catégorie de la décharge;
+- la catégorie de la décharge;
 
-2. la liste des déchets dont le dépôt est autorisé et leur quantité totale;
+- la liste des déchets dont le dépôt est autorisé et leur quantité totale;
 
-3. les conditions à respecter pour la préparation de la décharge, les opérations de mise en décharge, les procédures de surveillance et de contrôle, y compris les plans d'intervention ainsi que celles ayant trait aux opérations de désaffectation du site et de gestion après désaffectation;
+- les conditions à respecter pour la préparation de la décharge, les opérations de mise en décharge, les procédures de surveillance et de contrôle, y compris les plans d'intervention ainsi que celles ayant trait aux opérations de désaffectation du site et de gestion après désaffectation;
 
-4. l'obligation pour l'exploitant d'adresser un rapport annuel à l'administration concernant les types et quantités de déchets éliminés et le résultat des opérations de contrôle et de surveillance à effectuer.
+- l'obligation pour l'exploitant d'adresser un rapport annuel à l'administration concernant les types et quantités de déchets éliminés et le résultat des opérations de contrôle et de surveillance à effectuer.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -290,19 +290,19 @@ Sous réserve des exigences de la législation concernant la liberté d'accès �
 
 Procédure d'admission des déchets
 
-1. L'exploitant de la décharge doit vérifier avant l'admission des déchets sur le site de la décharge ou lors de la première d'une série de livraisons d'un même type de déchets que les déchets peuvent y être admis pour être conformes à la fois aux conditions de l'autorisation d'exploitation et aux critères d'admission prévus par l'annexe II du présent règlement;
+- L'exploitant de la décharge doit vérifier avant l'admission des déchets sur le site de la décharge ou lors de la première d'une série de livraisons d'un même type de déchets que les déchets peuvent y être admis pour être conformes à la fois aux conditions de l'autorisation d'exploitation et aux critères d'admission prévus par l'annexe II du présent règlement;
 
-2. L'exploitant de la décharge doit procéder:
+- L'exploitant de la décharge doit procéder:
 
-- à la vérification des documents relatifs aux déchets, notamment des documents requis, selon les cas, par le règlement (CEE) modifié N° 259/93 du Conseil du 1 er février 1993 concernant la surveillance et le contrôle des transferts de déchets à l'intérieur, à l'entrée et à la sortie de la Communauté européenne, tel qu'exécuté par le règlement grand-ducal modifié du 16 décembre 1996 , ou par le règlement grand-ducal modifié du 16 décembre 1996 concernant le transfert national de déchets;
+  - à la vérification des documents relatifs aux déchets, notamment des documents requis, selon les cas, par le règlement (CEE) modifié N° 259/93 du Conseil du 1 er février 1993 concernant la surveillance et le contrôle des transferts de déchets à l'intérieur, à l'entrée et à la sortie de la Communauté européenne, tel qu'exécuté par le règlement grand-ducal modifié du 16 décembre 1996 , ou par le règlement grand-ducal modifié du 16 décembre 1996 concernant le transfert national de déchets;
 
-- à l'inspection visuelle des déchets à l'entrée et au point de dépôt et, le cas échéant, la vérification de leur conformité à la description fournie dans les documents transmis par le détenteur. Si des échantillons représentatifs doivent être prélevés au titre de l'annexe II, point 3, niveau 3, le prélèvement est effectué conformément à l'annexe II, point 5. Ces échantillons sont conservés pendant un an au moins. Les résultats des analyses sont conservés.
+  - à l'inspection visuelle des déchets à l'entrée et au point de dépôt et, le cas échéant, la vérification de leur conformité à la description fournie dans les documents transmis par le détenteur. Si des échantillons représentatifs doivent être prélevés au titre de l'annexe II, point 3, niveau 3, le prélèvement est effectué conformément à l'annexe II, point 5. Ces échantillons sont conservés pendant un an au moins. Les résultats des analyses sont conservés.
 
-- à la tenue d'un registre où sont inscrites les quantités et les caractéristiques des déchets déposés, ainsi que l'origine, la date de livraison, l'identité du producteur ou du ramasseur dans le cas de déchets municipaux, et, dans le cas de déchets dangereux, l'emplacement précis de ceux-ci sur le site. Ces informations sont mises à la disposition des autorités nationales et communautaires compétentes en matière de statistiques, lorsqu'elles le demandent à des fins statistiques;
+  - à la tenue d'un registre où sont inscrites les quantités et les caractéristiques des déchets déposés, ainsi que l'origine, la date de livraison, l'identité du producteur ou du ramasseur dans le cas de déchets municipaux, et, dans le cas de déchets dangereux, l'emplacement précis de ceux-ci sur le site. Ces informations sont mises à la disposition des autorités nationales et communautaires compétentes en matière de statistiques, lorsqu'elles le demandent à des fins statistiques;
 
-3. L'exploitant de la décharge doit toujours produire un accusé de réception écrit de chaque livraison admise sur le site;
+- L'exploitant de la décharge doit toujours produire un accusé de réception écrit de chaque livraison admise sur le site;
 
-4. Sans préjudice d'autres dispositions légales et réglementaires, l'exploitant doit notifier à l'administration si des déchets n'ont pas été acceptés dans une décharge et indiquer les motifs de ce refus.
+- Sans préjudice d'autres dispositions légales et réglementaires, l'exploitant doit notifier à l'administration si des déchets n'ont pas été acceptés dans une décharge et indiquer les motifs de ce refus.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -311,15 +311,15 @@ Procédures de contrôle et de surveillance en phase d'exploitation
 
 Pendant la phase d'exploitation d'une décharge, l'exploitant doit:
 
-1. mettre en oeuvre le programme de contrôle et de surveillance prévu à l'annexe III du présent règlement;
+- mettre en oeuvre le programme de contrôle et de surveillance prévu à l'annexe III du présent règlement;
 
-2. notifier à l'administration les effets néfastes sur l'environnement révélés par les procédures de contrôle et de surveillance;
+- notifier à l'administration les effets néfastes sur l'environnement révélés par les procédures de contrôle et de surveillance;
 
-3. se conformer, à ses frais, au calendrier et aux mesures correctives ordonnées par l'autorité compétente.
+- se conformer, à ses frais, au calendrier et aux mesures correctives ordonnées par l'autorité compétente.
 
-4. communiquer à l’administration, au moins une fois par an et sur la base de données agrégées, tous les résultats des procédures de surveillance et de contrôle dans le but de démontrer le respect des conditions de l’autorisation et d’accroître les connaissances concernant le comportement des déchets dans les décharges;
+- communiquer à l’administration, au moins une fois par an et sur la base de données agrégées, tous les résultats des procédures de surveillance et de contrôle dans le but de démontrer le respect des conditions de l’autorisation et d’accroître les connaissances concernant le comportement des déchets dans les décharges;
 
-5. veiller à ce que le contrôle des opérations d'analyse effectuées dans le cadre des procédures de contrôle et de surveillance et/ou des analyses visées à l'article 12, point b) soit réalisé par des laboratoires agréés à cet effet par l'autorité compétente.
+- veiller à ce que le contrôle des opérations d'analyse effectuées dans le cadre des procédures de contrôle et de surveillance et/ou des analyses visées à l'article 12, point b) soit réalisé par des laboratoires agréés à cet effet par l'autorité compétente.
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -330,11 +330,11 @@ Procédure de désaffectation et de gestion après désaffectation
 
 La désaffectation d'une décharge de déchets ou d'une partie de celle-ci a lieu:
 
-1. sur décision motivée de l'autorité compétente;
+- sur décision motivée de l'autorité compétente;
 
-2. sur demande expresse de l'exploitant;
+- sur demande expresse de l'exploitant;
 
-3. à l'expiration du terme fixé par l'autorisation d'exploitation.
+- à l'expiration du terme fixé par l'autorisation d'exploitation.
 
 2)
 

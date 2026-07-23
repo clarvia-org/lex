@@ -36,15 +36,15 @@ Composition
 
 La commission consultative, désignée ci-après par «commission», comprend 12 membres effectifs, à savoir:
 
-1. quatre représentants du ministre ayant la Culture dans ses attributions,
+- quatre représentants du ministre ayant la Culture dans ses attributions,
 
-2. deux représentants du ministre ayant le Travail et l’Emploi dans ses attributions,
+- deux représentants du ministre ayant le Travail et l’Emploi dans ses attributions,
 
-3. deux artistes professionnels indépendants tels que définis à l’ article 1 er , paragraphe 1-0, point 6, de la loi modifiée du 19 décembre 2014 relative 1) aux mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle 2) à la promotion de la création artistique, ci-après « loi » ,
+- deux artistes professionnels indépendants tels que définis à l’ article 1 er , paragraphe 1-0, point 6, de la loi modifiée du 19 décembre 2014 relative 1) aux mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle 2) à la promotion de la création artistique, ci-après « loi » ,
 
-4. deux représentants des entreprises de spectacle et de productions audiovisuelles dont un au moins représente une association regroupant de telles entreprises,
+- deux représentants des entreprises de spectacle et de productions audiovisuelles dont un au moins représente une association regroupant de telles entreprises,
 
-5. deux intermittents du spectacle au sens de l’article 1 er , paragraphe 1-0, point 7, de la loi dont un au moins représente une association regroupant des intermittents du spectacle.
+- deux intermittents du spectacle au sens de l’article 1 er , paragraphe 1-0, point 7, de la loi dont un au moins représente une association regroupant des intermittents du spectacle.
 
 <a id="art-2"></a>
 ## Art. 2.

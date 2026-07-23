@@ -37,11 +37,11 @@ Le Fonds national de solidarité accordera pour l’année 2022, sur demande du 
 
 Peut prétendre à l’allocation de vie chère et au complément , toute personne qui remplit les conditions suivantes :
 
-1. bénéficier d’un droit de séjour, être inscrite au registre principal du registre national des personnes physiques et résider effectivement au lieu où est établi sa résidence habituelle ;
+- bénéficier d’un droit de séjour, être inscrite au registre principal du registre national des personnes physiques et résider effectivement au lieu où est établi sa résidence habituelle ;
 
-2. avoir résidé au Grand-Duché de Luxembourg pendant une période de référence de 12 mois en continu précédant le mois de l’introduction de la demande en obtention de l’allocation et du complément auprès du Fonds national de solidarité ;
+- avoir résidé au Grand-Duché de Luxembourg pendant une période de référence de 12 mois en continu précédant le mois de l’introduction de la demande en obtention de l’allocation et du complément auprès du Fonds national de solidarité ;
 
-3. disposer seule ou ensemble avec les personnes qui vivent avec elle en communauté domestique au moment de l’introduction de la demande, d’un revenu annuel global inférieur aux limites fixées à l’article 3 ci-après.
+- disposer seule ou ensemble avec les personnes qui vivent avec elle en communauté domestique au moment de l’introduction de la demande, d’un revenu annuel global inférieur aux limites fixées à l’article 3 ci-après.
 
 Sont présumées faire partie d’une communauté domestique, toutes les personnes qui vivent dans le cadre d’un foyer commun et dont il faut admettre qu’elles disposent d’un budget commun. Les dispositions de l’article 4 (1) et (4) de la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale sont applicables.
 
@@ -55,11 +55,11 @@ L’allocation et le complément ne peuvent être demandés qu’une seule fois 
 
 Ne peut prétendre à l’allocation de vie chère et au complément :
 
-1. la personne qui a bénéficié de l’aide financière de l’État pour études supérieures au courant des 12 mois précédant le mois de l’introduction de la demande en obtention de l’allocation et du complément auprès du Fonds national de solidarité ;
+- la personne qui a bénéficié de l’aide financière de l’État pour études supérieures au courant des 12 mois précédant le mois de l’introduction de la demande en obtention de l’allocation et du complément auprès du Fonds national de solidarité ;
 
-2. la personne qui est entrée sur le territoire du Grand-Duché de Luxembourg dans les conditions prévues aux articles 5, 6 (1) 3 et 38 (1) d) de la loi modifiée du 29 août 2008 portant sur la libre circulation des personnes et l’immigration ;
+- la personne qui est entrée sur le territoire du Grand-Duché de Luxembourg dans les conditions prévues aux articles 5, 6 (1) 3 et 38 (1) d) de la loi modifiée du 29 août 2008 portant sur la libre circulation des personnes et l’immigration ;
 
-3. la personne qui fait l’objet d’une mesure de détention préventive ou d’une peine privative de liberté, sauf pendant la période où elle est soumise au régime de la semi-liberté, qu’elle bénéficie d’une suspension de l’exécution d’une peine, d’une libération conditionnelle ou d’un placement sous surveillance électronique.
+- la personne qui fait l’objet d’une mesure de détention préventive ou d’une peine privative de liberté, sauf pendant la période où elle est soumise au régime de la semi-liberté, qu’elle bénéficie d’une suspension de l’exécution d’une peine, d’une libération conditionnelle ou d’un placement sous surveillance électronique.
 
 <a id="art-3"></a>
 ## Art. 3.

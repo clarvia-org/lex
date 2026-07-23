@@ -39,13 +39,13 @@ Définitions
 
 Aux fins de la présente loi et des règlements grand-ducaux pris pour assurer son exécution, on entend par :
 
-1. « audit » : un examen systématique et indépendant en vue de déterminer si le prestataire de service de navigation aérienne respecte les exigences légales et règlementaires ;
+- « audit » : un examen systématique et indépendant en vue de déterminer si le prestataire de service de navigation aérienne respecte les exigences légales et règlementaires ;
 
-2. « licence » : un document délivré et approuvé en application du règlement (UE) n° 2015/340 et autorisant son titulaire légal à exercer les privilèges octroyés par les qualifications et mentions y figurant ;
+- « licence » : un document délivré et approuvé en application du règlement (UE) n° 2015/340 et autorisant son titulaire légal à exercer les privilèges octroyés par les qualifications et mentions y figurant ;
 
-3. « ministre » : le ministre ayant la Navigation et les transports aériens dans ses attributions ;
+- « ministre » : le ministre ayant la Navigation et les transports aériens dans ses attributions ;
 
-4. « supervision continue » : les tâches à accomplir pour vérifier que les conditions qui ont donné lieu à la délivrance d’un certificat continuent d’être remplies à tout moment au cours de la période de validité de celui-ci, ainsi que l’adoption de toute mesure de sauvegarde.
+- « supervision continue » : les tâches à accomplir pour vérifier que les conditions qui ont donné lieu à la délivrance d’un certificat continuent d’être remplies à tout moment au cours de la période de validité de celui-ci, ainsi que l’adoption de toute mesure de sauvegarde.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -182,15 +182,15 @@ Dispositions transitoires
 
 Les employés de l’État chargés des fonctions de contrôleur aérien auprès de l’Administration de la navigation aérienne et recrutés avant l’entrée en vigueur de la présente loi, bénéficient, pour la période à compter du 1er janvier 2019 ou de leur entrée en service si celle-ci est postérieure à l’entrée en vigueur de la présente loi, des deux primes suivantes :
 
-1. une prime de formation aéronautique mensuelle non pensionnable dont l’allocation est échelonnée comme suit :
+- une prime de formation aéronautique mensuelle non pensionnable dont l’allocation est échelonnée comme suit :
 
-1. allocation d’une prime de 30 points indiciaires à partir du premier jour du mois suivant la date de la délivrance d’une licence de contrôleur aérien ;
+  - allocation d’une prime de 30 points indiciaires à partir du premier jour du mois suivant la date de la délivrance d’une licence de contrôleur aérien ;
 
-2. majoration de la prime de 15 points indiciaires après avoir réussi la formation au poste d’évaluateur ou d’examinateur ; et
+  - majoration de la prime de 15 points indiciaires après avoir réussi la formation au poste d’évaluateur ou d’examinateur ; et
 
-3. nouvelle majoration de la prime de 15 points indiciaires à partir du premier jour du mois suivant la date de la délivrance d’une deuxième qualification TWR ou APP portée sur la licence de contrôleur aérien.
+  - nouvelle majoration de la prime de 15 points indiciaires à partir du premier jour du mois suivant la date de la délivrance d’une deuxième qualification TWR ou APP portée sur la licence de contrôleur aérien.
 
-2. une prime médicale mensuelle non pensionnable de 30 points indiciaires.
+- une prime médicale mensuelle non pensionnable de 30 points indiciaires.
 
 (2)
 

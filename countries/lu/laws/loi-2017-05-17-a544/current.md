@@ -38,77 +38,77 @@ Définitions
 
 Aux fins de la présente loi et des règlements grand-ducaux pris en son exécution, on entend par:
 
-1. « actifs incorporels »: les actifs n'ayant aucune forme physique ni financière tels que les brevets, les licences, le savoir-faire ou d'autres types de propriété intellectuelle;
+- « actifs incorporels »: les actifs n'ayant aucune forme physique ni financière tels que les brevets, les licences, le savoir-faire ou d'autres types de propriété intellectuelle;
 
-2. « avance récupérable »: un prêt en faveur d'un projet ou programme versé en une ou plusieurs tranches et dont les conditions de remboursement dépendent de l'issue du projet ou programme;
+- « avance récupérable »: un prêt en faveur d'un projet ou programme versé en une ou plusieurs tranches et dont les conditions de remboursement dépendent de l'issue du projet ou programme;
 
-3. « collaboration effective »: une collaboration entre au moins deux parties indépendantes l'une de l'autre et visant à échanger des connaissances ou des technologies, ou à atteindre un objectif commun, fondée sur une division du travail impliquant que les parties définissent conjointement la portée du projet collaboratif, contribuent à sa réalisation, et en partagent les risques et les résultats. Une ou plusieurs parties peuvent supporter l'intégralité des coûts du projet et donc soustraire d'autres parties à tout risque financier. Les contrats de recherche et la fourniture de services de recherche ne sont pas considérés comme des formes de collaboration;
+- « collaboration effective »: une collaboration entre au moins deux parties indépendantes l'une de l'autre et visant à échanger des connaissances ou des technologies, ou à atteindre un objectif commun, fondée sur une division du travail impliquant que les parties définissent conjointement la portée du projet collaboratif, contribuent à sa réalisation, et en partagent les risques et les résultats. Une ou plusieurs parties peuvent supporter l'intégralité des coûts du projet et donc soustraire d'autres parties à tout risque financier. Les contrats de recherche et la fourniture de services de recherche ne sont pas considérés comme des formes de collaboration;
 
-4. « début des travaux »: soit le début des travaux de construction liés à l'investissement, soit le premier engagement juridiquement contraignant de commande d'équipement ou tout autre engagement rendant l'investissement irréversible, selon l'événement qui se produit en premier. L'achat de terrains et les préparatifs tels que l'obtention d'autorisations et la réalisation d'études de faisabilité ne sont pas considérés comme le début des travaux. Dans le cas des rachats, le « début des travaux » est le moment de l'acquisition des actifs directement liés à l'établissement acquis;
+- « début des travaux »: soit le début des travaux de construction liés à l'investissement, soit le premier engagement juridiquement contraignant de commande d'équipement ou tout autre engagement rendant l'investissement irréversible, selon l'événement qui se produit en premier. L'achat de terrains et les préparatifs tels que l'obtention d'autorisations et la réalisation d'études de faisabilité ne sont pas considérés comme le début des travaux. Dans le cas des rachats, le « début des travaux » est le moment de l'acquisition des actifs directement liés à l'établissement acquis;
 
-5. « détachement »: l'engagement temporaire de personnel par un bénéficiaire, assorti d'un droit de retour de ce personnel auprès de l'employeur précédent;
+- « détachement »: l'engagement temporaire de personnel par un bénéficiaire, assorti d'un droit de retour de ce personnel auprès de l'employeur précédent;
 
-6. « développement expérimental »: l'acquisition, l'association, la mise en forme et l'utilisation de connaissances et d'aptitudes scientifiques, technologiques, commerciales et autres pertinentes en vue de développer des produits, des procédés ou des services nouveaux ou améliorés. Il peut aussi s'agir, par exemple, d'activités visant la définition théorique et la planification de produits, de procédés ou de services nouveaux, ainsi que la consignation des informations qui s'y rapportent. Le développement expérimental peut comprendre la création de prototypes, la démonstration, l'élaboration de projets pilotes, les essais et la validation de produits, de procédés ou de services nouveaux ou améliorés dans des environnements représentatifs des conditions de la vie réelle, lorsque l'objectif premier est d'apporter des améliorations supplémentaires, au niveau technique, aux produits, procédés ou services qui ne sont pas en grande partie « fixés ». Il peut comprendre la création de prototypes et de projets pilotes commercialement exploitables qui sont nécessairement les produits commerciaux finals et qui sont trop onéreux à produire pour être utilisés uniquement à des fins de démonstration et de validation. Le développement expérimental ne comprend pas les modifications de routine ou périodiques apportées à des produits, lignes de production, procédés de fabrication et services existants;
+- « développement expérimental »: l'acquisition, l'association, la mise en forme et l'utilisation de connaissances et d'aptitudes scientifiques, technologiques, commerciales et autres pertinentes en vue de développer des produits, des procédés ou des services nouveaux ou améliorés. Il peut aussi s'agir, par exemple, d'activités visant la définition théorique et la planification de produits, de procédés ou de services nouveaux, ainsi que la consignation des informations qui s'y rapportent. Le développement expérimental peut comprendre la création de prototypes, la démonstration, l'élaboration de projets pilotes, les essais et la validation de produits, de procédés ou de services nouveaux ou améliorés dans des environnements représentatifs des conditions de la vie réelle, lorsque l'objectif premier est d'apporter des améliorations supplémentaires, au niveau technique, aux produits, procédés ou services qui ne sont pas en grande partie « fixés ». Il peut comprendre la création de prototypes et de projets pilotes commercialement exploitables qui sont nécessairement les produits commerciaux finals et qui sont trop onéreux à produire pour être utilisés uniquement à des fins de démonstration et de validation. Le développement expérimental ne comprend pas les modifications de routine ou périodiques apportées à des produits, lignes de production, procédés de fabrication et services existants;
 
-7. « entreprise » : toute personne physique ou morale qui exerce, à titre principal ou accessoire, une activité économique;
+- « entreprise » : toute personne physique ou morale qui exerce, à titre principal ou accessoire, une activité économique;
 
-8. « entreprise innovante »: une entreprise:
+- « entreprise innovante »: une entreprise:
 
-1. capable de démontrer, au moyen d'une évaluation effectuée par un expert extérieur, qu'elle développera, dans un avenir prévisible, des produits, services ou procédés neufs ou substantiellement améliorés par rapport à l'état de la technique dans le secteur considéré, et qui présentent un risque d'échec technologique ou industriel, ou
+  - capable de démontrer, au moyen d'une évaluation effectuée par un expert extérieur, qu'elle développera, dans un avenir prévisible, des produits, services ou procédés neufs ou substantiellement améliorés par rapport à l'état de la technique dans le secteur considéré, et qui présentent un risque d'échec technologique ou industriel, ou
 
-2. dont les dépenses de recherche et de développement représentent au moins 10 pour cent du total de ses coûts d'exploitation au cours d'une au moins des trois années précédant l'octroi de l'aide ou, dans le cas d'une jeune pousse sans historique financier, au cours de l'exercice courant, le chiffre étant certifié par un auditeur externe;
+  - dont les dépenses de recherche et de développement représentent au moins 10 pour cent du total de ses coûts d'exploitation au cours d'une au moins des trois années précédant l'octroi de l'aide ou, dans le cas d'une jeune pousse sans historique financier, au cours de l'exercice courant, le chiffre étant certifié par un auditeur externe;
 
-9. « équivalent-subvention brut »: le montant auquel s'élèverait l'aide si elle avait été fournie au bénéficiaire sous la forme d'une subvention, avant impôts ou autres prélèvements;
+- « équivalent-subvention brut »: le montant auquel s'élèverait l'aide si elle avait été fournie au bénéficiaire sous la forme d'une subvention, avant impôts ou autres prélèvements;
 
-10. « étude de faisabilité »: l'évaluation et l'analyse du potentiel d'un projet, qui visent à soutenir le processus décisionnel en révélant de façon objective et rationnelle les forces et les faiblesses du projet, ainsi que les perspectives et les menaces qu'il suppose, et qui précisent les ressources nécessaires pour le mener à bien et en évaluent, en définitive, les chances de succès;
+- « étude de faisabilité »: l'évaluation et l'analyse du potentiel d'un projet, qui visent à soutenir le processus décisionnel en révélant de façon objective et rationnelle les forces et les faiblesses du projet, ainsi que les perspectives et les menaces qu'il suppose, et qui précisent les ressources nécessaires pour le mener à bien et en évaluent, en définitive, les chances de succès;
 
-11. « frais de personnel »: les coûts liés aux chercheurs, aux techniciens et aux autres personnels d'appui dans la mesure où ils sont employés pour le projet ou l'activité concernés;
+- « frais de personnel »: les coûts liés aux chercheurs, aux techniciens et aux autres personnels d'appui dans la mesure où ils sont employés pour le projet ou l'activité concernés;
 
-12. « grande entreprise »: toute entreprise ne remplissant pas les critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne, ci-après le « traité »;
+- « grande entreprise »: toute entreprise ne remplissant pas les critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne, ci-après le « traité »;
 
-13. « infrastructure de recherche » : les installations, les ressources et les services associés utilisés par la communauté scientifique pour mener des recherches dans ses domaines de compétence. Cette définition englobe les équipements scientifiques et le matériel de recherche, les ressources cognitives comme les collections, les archives et les informations scientifiques structurées, les infrastructures habilitantes fondées sur les technologies de l'information et de la communication telles que le réseau en grille (GRID), les infrastructures de calcul, les logiciels et les systèmes de communication, ainsi que tous les autres moyens nécessaires pour mener les recherches. Ces infrastructures peuvent être implantées sur un seul site ou être « distribuées » (un réseau organisé de ressources) conformément à l'article 2, point a), du règlement (CE) n° 723/2009 du Conseil du 25 juin 2009 relatif à un cadre juridique communautaire applicable à un consortium pour une infrastructure européenne de recherche (ERIC);
+- « infrastructure de recherche » : les installations, les ressources et les services associés utilisés par la communauté scientifique pour mener des recherches dans ses domaines de compétence. Cette définition englobe les équipements scientifiques et le matériel de recherche, les ressources cognitives comme les collections, les archives et les informations scientifiques structurées, les infrastructures habilitantes fondées sur les technologies de l'information et de la communication telles que le réseau en grille (GRID), les infrastructures de calcul, les logiciels et les systèmes de communication, ainsi que tous les autres moyens nécessaires pour mener les recherches. Ces infrastructures peuvent être implantées sur un seul site ou être « distribuées » (un réseau organisé de ressources) conformément à l'article 2, point a), du règlement (CE) n° 723/2009 du Conseil du 25 juin 2009 relatif à un cadre juridique communautaire applicable à un consortium pour une infrastructure européenne de recherche (ERIC);
 
-14. « innovation »: toute nouveauté sous forme de produit, de service, de procédé, de méthode ou d’organisation, qui résulte de la mise en application d’idées nouvelles ou d’efforts de recherche-développement;
+- « innovation »: toute nouveauté sous forme de produit, de service, de procédé, de méthode ou d’organisation, qui résulte de la mise en application d’idées nouvelles ou d’efforts de recherche-développement;
 
-15. « innovation d’organisation »: la mise en œuvre d'une nouvelle méthode organisationnelle dans les pratiques commerciales, l'organisation du lieu de travail ou les relations extérieures de l'entreprise, ce qui exclut les changements s'appuyant sur des méthodes organisationnelles déjà en usage dans l'entreprise, les changements dans la stratégie de gestion, les fusions et les acquisitions, la cessation de l'utilisation d'un procédé, le simple remplacement ou l'extension de l'équipement, les changements découlant uniquement de variations du prix des facteurs, la production personnalisée, l'adaptation aux marchés locaux, les modifications régulières ou saisonnières et autres changements cycliques, ainsi que le commerce de produits nouveaux ou sensiblement améliorés;
+- « innovation d’organisation »: la mise en œuvre d'une nouvelle méthode organisationnelle dans les pratiques commerciales, l'organisation du lieu de travail ou les relations extérieures de l'entreprise, ce qui exclut les changements s'appuyant sur des méthodes organisationnelles déjà en usage dans l'entreprise, les changements dans la stratégie de gestion, les fusions et les acquisitions, la cessation de l'utilisation d'un procédé, le simple remplacement ou l'extension de l'équipement, les changements découlant uniquement de variations du prix des facteurs, la production personnalisée, l'adaptation aux marchés locaux, les modifications régulières ou saisonnières et autres changements cycliques, ainsi que le commerce de produits nouveaux ou sensiblement améliorés;
 
-16. « innovation de procédé »: la mise en œuvre d'une méthode de production ou de distribution nouvelle ou sensiblement améliorée (cette notion impliquant des changements significatifs d'ordre technique, matériel ou logiciel), ce qui exclut les changements ou améliorations mineurs, les accroissements de capacités de production ou de service obtenus par l'adjonction de systèmes de fabrication ou de systèmes logistiques qui sont très analogues à ceux déjà en usage, la cessation de l'utilisation d'un procédé, le simple remplacement ou l'extension de l'équipement, les changements découlant uniquement de variations du prix des facteurs, la production personnalisée, l'adaptation aux marchés locaux, les modifications saisonnières, régulières et autres changements cycliques et le commerce de produits nouveaux ou sensiblement améliorés;
+- « innovation de procédé »: la mise en œuvre d'une méthode de production ou de distribution nouvelle ou sensiblement améliorée (cette notion impliquant des changements significatifs d'ordre technique, matériel ou logiciel), ce qui exclut les changements ou améliorations mineurs, les accroissements de capacités de production ou de service obtenus par l'adjonction de systèmes de fabrication ou de systèmes logistiques qui sont très analogues à ceux déjà en usage, la cessation de l'utilisation d'un procédé, le simple remplacement ou l'extension de l'équipement, les changements découlant uniquement de variations du prix des facteurs, la production personnalisée, l'adaptation aux marchés locaux, les modifications saisonnières, régulières et autres changements cycliques et le commerce de produits nouveaux ou sensiblement améliorés;
 
-17. « intensité de l’aide »: le montant brut de l’aide exprimé en pourcentage des coûts admissibles d’un projet, programme, investissement ou opération de recherche-développement-innovation (ci-après « RDI »), avant impôts ou autres prélèvements;
+- « intensité de l’aide »: le montant brut de l’aide exprimé en pourcentage des coûts admissibles d’un projet, programme, investissement ou opération de recherche-développement-innovation (ci-après « RDI »), avant impôts ou autres prélèvements;
 
-18. « mesure de minimis »: toute aide conforme au règlement (UE) no 1407/2013 de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité aux aides de minimis;
+- « mesure de minimis »: toute aide conforme au règlement (UE) no 1407/2013 de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité aux aides de minimis;
 
-19. « moyenne entreprise »: toute entreprise qui occupe moins de 250 personnes et dont le chiffre d'affaires annuel n'excède pas 50 millions d’euros ou dont le total du bilan annuel n'excède pas 43 millions d’euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
+- « moyenne entreprise »: toute entreprise qui occupe moins de 250 personnes et dont le chiffre d'affaires annuel n'excède pas 50 millions d’euros ou dont le total du bilan annuel n'excède pas 43 millions d’euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
-20. « organisme de recherche privé »: tout établissement de droit privé ou toute entité en faisant partie, établi sur le territoire du Grand-Duché de Luxembourg dont le but premier est d’effectuer des activités de RDI ou de diffuser largement les résultats de ces activités pour son propre compte, celui de ses propriétaires, actionnaires, associés ou membres ou pour le compte de tiers, avec ou sans but de lucre;
+- « organisme de recherche privé »: tout établissement de droit privé ou toute entité en faisant partie, établi sur le territoire du Grand-Duché de Luxembourg dont le but premier est d’effectuer des activités de RDI ou de diffuser largement les résultats de ces activités pour son propre compte, celui de ses propriétaires, actionnaires, associés ou membres ou pour le compte de tiers, avec ou sans but de lucre;
 
-21. « organisme de recherche et de diffusion des connaissances » : une entité (telle qu'une université ou un institut de recherche, une agence de transfert de technologies, un intermédiaire en innovation, une entité collaborative réelle ou virtuelle axée sur la recherche), quel que soit son statut légal (de droit public ou de droit privé) ou son mode de financement, dont le but premier est d'exercer, en toute indépendance, des activités de recherche fondamentale, de recherche industrielle ou de développement expérimental, ou de diffuser largement les résultats de ces activités au moyen d'un enseignement, de publications ou de transferts de connaissances. Lorsqu'une telle entité exerce également des activités économiques, le financement, les coûts et les revenus de ces activités économiques doivent être comptabilisés séparément. Les entreprises qui peuvent exercer une influence déterminante sur une telle entité, par exemple en leur qualité d'actionnaire ou d'associé, ne peuvent pas bénéficier d'un accès privilégié aux résultats qu'elle produit;
+- « organisme de recherche et de diffusion des connaissances » : une entité (telle qu'une université ou un institut de recherche, une agence de transfert de technologies, un intermédiaire en innovation, une entité collaborative réelle ou virtuelle axée sur la recherche), quel que soit son statut légal (de droit public ou de droit privé) ou son mode de financement, dont le but premier est d'exercer, en toute indépendance, des activités de recherche fondamentale, de recherche industrielle ou de développement expérimental, ou de diffuser largement les résultats de ces activités au moyen d'un enseignement, de publications ou de transferts de connaissances. Lorsqu'une telle entité exerce également des activités économiques, le financement, les coûts et les revenus de ces activités économiques doivent être comptabilisés séparément. Les entreprises qui peuvent exercer une influence déterminante sur une telle entité, par exemple en leur qualité d'actionnaire ou d'associé, ne peuvent pas bénéficier d'un accès privilégié aux résultats qu'elle produit;
 
-22. « personnel hautement qualifié »: le personnel titulaire d'un titre universitaire et disposant d'une expérience professionnelle d'au moins cinq ans dans le domaine concerné, qui peut également consister en une formation doctorale;
+- « personnel hautement qualifié »: le personnel titulaire d'un titre universitaire et disposant d'une expérience professionnelle d'au moins cinq ans dans le domaine concerné, qui peut également consister en une formation doctorale;
 
-23. « petite entreprise »: toute entreprise qui occupe moins de 50 personnes et dont le chiffre d'affaires annuel ou le total du bilan annuel n'excède pas 10 millions euros et répondant aux critères énoncés à l’annexe 1 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité;
+- « petite entreprise »: toute entreprise qui occupe moins de 50 personnes et dont le chiffre d'affaires annuel ou le total du bilan annuel n'excède pas 10 millions euros et répondant aux critères énoncés à l’annexe 1 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité;
 
-24. « pôle d’innovation »: une structure ou un groupe organisé de parties indépendantes (jeunes pousses innovantes, petites, moyennes ou grandes entreprises, organismes de recherche et de diffusion des connaissances, organismes sans but lucratif et autres acteurs économiques apparentés) destinés à stimuler l'activité d'innovation par des actions de promotion, le partage des équipements et l'échange de connaissances et de savoir-faire, ainsi qu'en contribuant de manière effective au transfert de connaissances, à la mise en réseau, à la diffusion de l'information et à la collaboration entre les entreprises et organismes qui constituent le pôle;
+- « pôle d’innovation »: une structure ou un groupe organisé de parties indépendantes (jeunes pousses innovantes, petites, moyennes ou grandes entreprises, organismes de recherche et de diffusion des connaissances, organismes sans but lucratif et autres acteurs économiques apparentés) destinés à stimuler l'activité d'innovation par des actions de promotion, le partage des équipements et l'échange de connaissances et de savoir-faire, ainsi qu'en contribuant de manière effective au transfert de connaissances, à la mise en réseau, à la diffusion de l'information et à la collaboration entre les entreprises et organismes qui constituent le pôle;
 
-25. « programme de R&D » ou « programme de RDI »: un regroupement de projets de recherche-développement ou de projets de recherche-développement-innovation pouvant être apparentés thématiquement ou relever d’un même domaine d’activités, réalisés sur une période donnée et faisant l’objet d’une prévision de moyens globale établie au moment de sa définition en vue de sa mise en œuvre;
+- « programme de R&D » ou « programme de RDI »: un regroupement de projets de recherche-développement ou de projets de recherche-développement-innovation pouvant être apparentés thématiquement ou relever d’un même domaine d’activités, réalisés sur une période donnée et faisant l’objet d’une prévision de moyens globale établie au moment de sa définition en vue de sa mise en œuvre;
 
-26. « projet de R&D » ou « projet de RDI »: un investissement ou une opération de recherche-développement ou de recherche-développement-innovation se caractérisant par un objectif, une durée et des moyens établis au moment de sa définition en vue de sa mise en œuvre;
+- « projet de R&D » ou « projet de RDI »: un investissement ou une opération de recherche-développement ou de recherche-développement-innovation se caractérisant par un objectif, une durée et des moyens établis au moment de sa définition en vue de sa mise en œuvre;
 
-27. « recherche-développement (R&D) »: les travaux de création entrepris de façon systématique en vue d’accroître la somme de connaissances ainsi que l’utilisation de cette somme de connaissances pour de nouvelles applications, qu’il s’agisse de produits, de services, de procédés, de méthodes ou d’organisations;
+- « recherche-développement (R&D) »: les travaux de création entrepris de façon systématique en vue d’accroître la somme de connaissances ainsi que l’utilisation de cette somme de connaissances pour de nouvelles applications, qu’il s’agisse de produits, de services, de procédés, de méthodes ou d’organisations;
 
-28. « recherche-développement-innovation (RDI) »: l’ensemble du processus menant à l’introduction d’un produit ou service nouveau ou fortement amélioré sur le marché ou à l’application pratique d’un procédé, d’une méthode ou organisation nouvelle ou fortement améliorée;
+- « recherche-développement-innovation (RDI) »: l’ensemble du processus menant à l’introduction d’un produit ou service nouveau ou fortement amélioré sur le marché ou à l’application pratique d’un procédé, d’une méthode ou organisation nouvelle ou fortement améliorée;
 
-29. « recherche fondamentale »: des travaux expérimentaux ou théoriques entrepris essentiellement en vue d'acquérir de nouvelles connaissances sur les fondements de phénomènes ou de faits observables, sans envisager aucune application ni utilisation commerciales directes;
+- « recherche fondamentale »: des travaux expérimentaux ou théoriques entrepris essentiellement en vue d'acquérir de nouvelles connaissances sur les fondements de phénomènes ou de faits observables, sans envisager aucune application ni utilisation commerciales directes;
 
-30. « recherche industrielle »: la recherche planifiée ou des enquêtes critiques visant à acquérir de nouvelles connaissances et aptitudes en vue de mettre au point de nouveaux produits, procédés ou services, ou d'entraîner une amélioration notable de produits, procédés ou services existants. Elle comprend la création de composants de systèmes complexes et peut inclure la construction de prototypes dans un environnement de laboratoire ou dans un environnement à interfaces simulées vers les systèmes existants, ainsi que des lignes pilotes, lorsque c'est nécessaire pour la recherche industrielle, et notamment pour la validation de technologies génériques;
+- « recherche industrielle »: la recherche planifiée ou des enquêtes critiques visant à acquérir de nouvelles connaissances et aptitudes en vue de mettre au point de nouveaux produits, procédés ou services, ou d'entraîner une amélioration notable de produits, procédés ou services existants. Elle comprend la création de composants de systèmes complexes et peut inclure la construction de prototypes dans un environnement de laboratoire ou dans un environnement à interfaces simulées vers les systèmes existants, ainsi que des lignes pilotes, lorsque c'est nécessaire pour la recherche industrielle, et notamment pour la validation de technologies génériques;
 
-31. « technique »: connaissance, méthode et savoir-faire, d’origine scientifique ou empirique, employé dans la réalisation d’un produit, service, procédé, méthode ou organisation;
+- « technique »: connaissance, méthode et savoir-faire, d’origine scientifique ou empirique, employé dans la réalisation d’un produit, service, procédé, méthode ou organisation;
 
-32. « technologie »: ensemble de connaissances, méthodes et savoir-faire en rapport avec un sujet d’application technique, formant un tout cohérent;
+- « technologie »: ensemble de connaissances, méthodes et savoir-faire en rapport avec un sujet d’application technique, formant un tout cohérent;
 
-33. « transfert de technologies »: tout acte de transmission de compétences ou de connaissances techniques, reconnues ou non par des titres de propriété, en vue de leur valorisation socio-économique;
+- « transfert de technologies »: tout acte de transmission de compétences ou de connaissances techniques, reconnues ou non par des titres de propriété, en vue de leur valorisation socio-économique;
 
-34. « zone assistée » : les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1 er juillet 2014 au 31 décembre 2021 en ce qui concerne les aides à finalité régionale octroyées jusqu’au 31 décembre 2021 et les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1 er janvier 2022 au 31 décembre 2027 en ce qui concerne les aides à finalité régionale octroyées après le 31 décembre 2021.
+- « zone assistée » : les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1 er juillet 2014 au 31 décembre 2021 en ce qui concerne les aides à finalité régionale octroyées jusqu’au 31 décembre 2021 et les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1 er janvier 2022 au 31 décembre 2027 en ce qui concerne les aides à finalité régionale octroyées après le 31 décembre 2021.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -131,27 +131,27 @@ Est exclu le versement d’aides individuelles en faveur d’une entreprise fais
 
 Est également exclu le versement d’aides individuelles en faveur d’entreprises en difficulté, exception faite :
 
-1. des aides en faveur des jeunes entreprises innovantes, pour autant que ces aides n’ont pas pour effet de traiter les entreprises en difficulté plus favorablement que les autres entreprises ;
+- des aides en faveur des jeunes entreprises innovantes, pour autant que ces aides n’ont pas pour effet de traiter les entreprises en difficulté plus favorablement que les autres entreprises ;
 
-2. pour la période comprise entre le 1 er janvier 2020 et le 30 juin 2021, des aides en faveur d’entreprises en difficulté qui n’étaient pas en difficulté au 31 décembre 2019, pour autant qu’elles ne fassent pas l’objet d’une procédure collective d’insolvabilité ou ne remplissent pas, selon le droit national qui leur est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de leurs créanciers.
+- pour la période comprise entre le 1 er janvier 2020 et le 30 juin 2021, des aides en faveur d’entreprises en difficulté qui n’étaient pas en difficulté au 31 décembre 2019, pour autant qu’elles ne fassent pas l’objet d’une procédure collective d’insolvabilité ou ne remplissent pas, selon le droit national qui leur est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de leurs créanciers.
 
 (4)
 
 On entend par « entreprise en difficulté » au sens du paragraphe 3bis une entreprise remplissant au moins une des conditions suivantes:
 
-1. s'il s'agit d'une société à responsabilité limitée (autre qu'une petite et moyenne entreprise, ci-après « PME », en existence depuis moins de trois ans ou, aux fins de l'admissibilité au bénéfice des aides au financement des risques, une PME exerçant ses activités depuis moins de sept ans après sa première vente commerciale et qui peut bénéficier d'investissements en faveur du financement des risques au terme du contrôle préalable effectué par l'intermédiaire financier sélectionné), lorsque plus de la moitié de son capital social souscrit a disparu en raison des pertes accumulées. Tel est le cas lorsque la déduction des pertes accumulées des réserves (et de tous les autres éléments généralement considérés comme relevant des fonds propres de la société) conduit à un montant cumulé négatif qui excède la moitié du capital social souscrit. Aux fins de la présente disposition, on entend par « société à responsabilité limitée» notamment les types d'entreprises mentionnés à l'annexe I de la directive 2013/34/UE du Parlement européen et du Conseil et le «capital social» comprend, le cas échéant, les primes d'émission,
+- s'il s'agit d'une société à responsabilité limitée (autre qu'une petite et moyenne entreprise, ci-après « PME », en existence depuis moins de trois ans ou, aux fins de l'admissibilité au bénéfice des aides au financement des risques, une PME exerçant ses activités depuis moins de sept ans après sa première vente commerciale et qui peut bénéficier d'investissements en faveur du financement des risques au terme du contrôle préalable effectué par l'intermédiaire financier sélectionné), lorsque plus de la moitié de son capital social souscrit a disparu en raison des pertes accumulées. Tel est le cas lorsque la déduction des pertes accumulées des réserves (et de tous les autres éléments généralement considérés comme relevant des fonds propres de la société) conduit à un montant cumulé négatif qui excède la moitié du capital social souscrit. Aux fins de la présente disposition, on entend par « société à responsabilité limitée» notamment les types d'entreprises mentionnés à l'annexe I de la directive 2013/34/UE du Parlement européen et du Conseil et le «capital social» comprend, le cas échéant, les primes d'émission,
 
-2. s'il s'agit d'une société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société (autre qu'une PME en existence depuis moins de trois ans ou, aux fins de l'admissibilité au bénéfice des aides au financement des risques, une PME exerçant ses activités depuis moins de sept ans après sa première vente commerciale et qui peut bénéficier d'investissements en faveur du financement des risques au terme du contrôle préalable effectué par l'intermédiaire financier sélectionné), lorsque plus de la moitié des fonds propres, tels qu'ils sont inscrits dans les comptes de la société, a disparu en raison des pertes accumulées. Aux fins de la présente disposition, on entend par « société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société » en particulier les types de sociétés mentionnés à l'annexe II de la directive 2013/34/UE ,
+- s'il s'agit d'une société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société (autre qu'une PME en existence depuis moins de trois ans ou, aux fins de l'admissibilité au bénéfice des aides au financement des risques, une PME exerçant ses activités depuis moins de sept ans après sa première vente commerciale et qui peut bénéficier d'investissements en faveur du financement des risques au terme du contrôle préalable effectué par l'intermédiaire financier sélectionné), lorsque plus de la moitié des fonds propres, tels qu'ils sont inscrits dans les comptes de la société, a disparu en raison des pertes accumulées. Aux fins de la présente disposition, on entend par « société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société » en particulier les types de sociétés mentionnés à l'annexe II de la directive 2013/34/UE ,
 
-3. lorsque l'entreprise fait l'objet d'une procédure collective d'insolvabilité ou remplit, selon le droit national qui lui est applicable, les conditions de soumission à une procédure collective d'insolvabilité à la demande de ses créanciers,
+- lorsque l'entreprise fait l'objet d'une procédure collective d'insolvabilité ou remplit, selon le droit national qui lui est applicable, les conditions de soumission à une procédure collective d'insolvabilité à la demande de ses créanciers,
 
-4. lorsque l'entreprise a bénéficié d'une aide au sauvetage et n'a pas encore remboursé le prêt ou mis fin à la garantie, ou a bénéficié d'une aide à la restructuration et est toujours soumise à un plan de restructuration,
+- lorsque l'entreprise a bénéficié d'une aide au sauvetage et n'a pas encore remboursé le prêt ou mis fin à la garantie, ou a bénéficié d'une aide à la restructuration et est toujours soumise à un plan de restructuration,
 
-5. dans le cas d'une entreprise autre qu'une PME, lorsque depuis les deux exercices précédents:
+- dans le cas d'une entreprise autre qu'une PME, lorsque depuis les deux exercices précédents:
 
-1. le ratio emprunts/capitaux propres de l'entreprise est supérieur à 7,5; et
+  - le ratio emprunts/capitaux propres de l'entreprise est supérieur à 7,5; et
 
-2. le ratio de couverture des intérêts de l'entreprise, calculé sur la base de l'indicateur bénéfices avant intérêts, impôts, dépréciations et amortissements (EBITDA), est inférieur à 1,0.
+  - le ratio de couverture des intérêts de l'entreprise, calculé sur la base de l'indicateur bénéfices avant intérêts, impôts, dépréciations et amortissements (EBITDA), est inférieur à 1,0.
 
 #### Chapitre II Projets ou programmes de recherche-développement
 
@@ -164,11 +164,11 @@ Intensité de l’aide
 
 Lorsqu’une entreprise ou un organisme de recherche privé réalise un projet ou un programme de R&D s’identifiant à une activité de recherche fondamentale, de recherche industrielle ou de développement expérimental, les ministres ayant l’Économie et les Finances dans leurs attributions, désignés ci-après par " les ministres ", peuvent lui attribuer une aide dont l’intensité, calculée sur la base des coûts admissibles du projet ou programme, ne pourra pas dépasser les plafonds fixés ci-après:
 
-1. 100 pour cent pour les projets ou programmes de recherche fondamentale;
+- 100 pour cent pour les projets ou programmes de recherche fondamentale;
 
-2. 50 pour cent pour les projets ou programmes de recherche industrielle;
+- 50 pour cent pour les projets ou programmes de recherche industrielle;
 
-3. 25 pour cent pour les projets ou programmes de développement expérimental.
+- 25 pour cent pour les projets ou programmes de développement expérimental.
 
 (2)
 
@@ -181,19 +181,19 @@ Majorations
 
 Pour autant qu’elle ne dépasse pas 80 pour cent des coûts admissibles, l’intensité de l’aide pour la recherche industrielle et le développement expérimental, fixée à l’article 3 ci-avant, peut être majorée comme suit:
 
-1. 10 points de pourcentage, lorsque le bénéficiaire de l’aide est une moyenne entreprise ou un organisme de recherche privé répondant aux critères de moyenne entreprise;
+- 10 points de pourcentage, lorsque le bénéficiaire de l’aide est une moyenne entreprise ou un organisme de recherche privé répondant aux critères de moyenne entreprise;
 
-2. 20 points de pourcentage, lorsque le bénéficiaire de l’aide est une petite entreprise ou un organisme de recherche privé répondant aux critères de petite entreprise;
+- 20 points de pourcentage, lorsque le bénéficiaire de l’aide est une petite entreprise ou un organisme de recherche privé répondant aux critères de petite entreprise;
 
-3. 15 points de pourcentage, si une des conditions suivantes est remplie:
+- 15 points de pourcentage, si une des conditions suivantes est remplie:
 
-1. le projet ou programme repose sur une collaboration effective:
+  - le projet ou programme repose sur une collaboration effective:
 
-- entre des entreprises parmi lesquelles figure au moins une PME, ou est mené dans au moins deux États membres, ou dans un État membre et une partie contractante à l'accord sur l'Espace Économique Européen, et aucune entreprise unique ne supporte seule plus de 70 pour cent des coûts admissibles, ou
+    - entre des entreprises parmi lesquelles figure au moins une PME, ou est mené dans au moins deux États membres, ou dans un État membre et une partie contractante à l'accord sur l'Espace Économique Européen, et aucune entreprise unique ne supporte seule plus de 70 pour cent des coûts admissibles, ou
 
-- entre une entreprise et un ou plusieurs organismes de recherche et de diffusion des connaissances, et ce ou ces derniers supportent au moins 10 pour cent des coûts admissibles et ont le droit de publier les résultats de leurs propres recherches;
+    - entre une entreprise et un ou plusieurs organismes de recherche et de diffusion des connaissances, et ce ou ces derniers supportent au moins 10 pour cent des coûts admissibles et ont le droit de publier les résultats de leurs propres recherches;
 
-2. les résultats du projet ou programme sont largement diffusés au moyen de conférences, de publications, de dépôts en libre accès ou de logiciels gratuits ou libres.
+  - les résultats du projet ou programme sont largement diffusés au moyen de conférences, de publications, de dépôts en libre accès ou de logiciels gratuits ou libres.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -204,23 +204,23 @@ Coûts admissibles
 
 Les coûts suivants sont admissibles au titre d’une aide:
 
-1. les frais de personnel: chercheurs, techniciens et autres personnels d'appui s'ils sont employés pour le projet ou programme;
+- les frais de personnel: chercheurs, techniciens et autres personnels d'appui s'ils sont employés pour le projet ou programme;
 
-2. les coûts des instruments et du matériel, dans la mesure où et aussi longtemps qu'ils sont utilisés pour le projet ou programme. Lorsque ces instruments et ce matériel ne sont pas utilisés pendant toute leur durée de vie dans le cadre du projet ou programme, seuls les coûts d'amortissement correspondant à la durée du projet ou programme, calculés conformément aux principes comptables généralement admis, sont jugés admissibles;
+- les coûts des instruments et du matériel, dans la mesure où et aussi longtemps qu'ils sont utilisés pour le projet ou programme. Lorsque ces instruments et ce matériel ne sont pas utilisés pendant toute leur durée de vie dans le cadre du projet ou programme, seuls les coûts d'amortissement correspondant à la durée du projet ou programme, calculés conformément aux principes comptables généralement admis, sont jugés admissibles;
 
-3. les coûts des bâtiments et des terrains, dans la mesure où et aussi longtemps qu'ils sont utilisés pour le projet ou programme. En ce qui concerne les bâtiments, seuls les coûts d'amortissement correspondant à la durée du projet ou programme, calculés conformément aux principes comptables généralement admis, sont jugés admissibles. Pour ce qui est des terrains, les frais de cession commerciale ou les coûts d'investissement effectivement supportés sont admissibles;
+- les coûts des bâtiments et des terrains, dans la mesure où et aussi longtemps qu'ils sont utilisés pour le projet ou programme. En ce qui concerne les bâtiments, seuls les coûts d'amortissement correspondant à la durée du projet ou programme, calculés conformément aux principes comptables généralement admis, sont jugés admissibles. Pour ce qui est des terrains, les frais de cession commerciale ou les coûts d'investissement effectivement supportés sont admissibles;
 
-4. les coûts de la recherche contractuelle ou de services de recherche, des connaissances et des brevets achetés ou pris sous licence auprès de sources extérieures à des conditions de pleine concurrence, ainsi que les coûts des services de conseil et des services équivalents utilisés exclusivement aux fins du projet ou programme;
+- les coûts de la recherche contractuelle ou de services de recherche, des connaissances et des brevets achetés ou pris sous licence auprès de sources extérieures à des conditions de pleine concurrence, ainsi que les coûts des services de conseil et des services équivalents utilisés exclusivement aux fins du projet ou programme;
 
-5. les frais généraux additionnels et les autres frais d'exploitation, notamment les coûts des matériaux, fournitures et produits similaires, supportés directement du fait du projet ou programme.
+- les frais généraux additionnels et les autres frais d'exploitation, notamment les coûts des matériaux, fournitures et produits similaires, supportés directement du fait du projet ou programme.
 
 (2)
 
 Les coûts suivants ne sont pas admissibles au titre d’une aide au profit de projets et programmes de R&D:
 
-1. les frais et dépenses en rapport avec la mise sur le marché et la commercialisation des résultats de projets ou programmes de R&D;
+- les frais et dépenses en rapport avec la mise sur le marché et la commercialisation des résultats de projets ou programmes de R&D;
 
-2. les intérêts en rapport avec le financement d’un projet ou programme de R&D.
+- les intérêts en rapport avec le financement d’un projet ou programme de R&D.
 
 (3)
 
@@ -250,13 +250,13 @@ Les ministres peuvent accorder des aides à l’innovation aux petites ou moyenn
 
 Les coûts admissibles sont les suivants:
 
-1. les coûts liés à l'obtention, à la validation et à la défense des brevets et autres actifs incorporels;
+- les coûts liés à l'obtention, à la validation et à la défense des brevets et autres actifs incorporels;
 
-2. les coûts liés au détachement de personnel hautement qualifié provenant d'un organisme de recherche ou de diffusion des connaissances ou d'une grande entreprise, qui effectue des tâches de recherche, de développement et d'innovation dans le cadre d'une fonction nouvellement créée dans l'entreprise bénéficiaire, sans remplacer d'autres membres du personnel;
+- les coûts liés au détachement de personnel hautement qualifié provenant d'un organisme de recherche ou de diffusion des connaissances ou d'une grande entreprise, qui effectue des tâches de recherche, de développement et d'innovation dans le cadre d'une fonction nouvellement créée dans l'entreprise bénéficiaire, sans remplacer d'autres membres du personnel;
 
-3. les coûts liés aux services de conseil fournis par des conseillers extérieurs qui ne constituent pas une activité permanente ou périodique et qui sont sans rapport avec les dépenses de fonctionnement normales de l'entreprise, telles que les services réguliers de conseil fiscal ou juridique, ou la publicité;
+- les coûts liés aux services de conseil fournis par des conseillers extérieurs qui ne constituent pas une activité permanente ou périodique et qui sont sans rapport avec les dépenses de fonctionnement normales de l'entreprise, telles que les services réguliers de conseil fiscal ou juridique, ou la publicité;
 
-4. les coûts liés aux services de conseil et d'appui en matière d'innovation.
+- les coûts liés aux services de conseil et d'appui en matière d'innovation.
 
 (3)
 
@@ -275,23 +275,23 @@ On entend par « services d'appui à l’innovation » les bureaux, les banques 
 
 Aide aux jeunes entreprises innovantes
 
-1. Le bénéficiaire est une petite entreprise non cotée ou un organisme de recherche privé répondant aux critères de petite entreprise non cotée, enregistrée depuis un maximum de cinq ans, et remplit les conditions suivantes :
+- Le bénéficiaire est une petite entreprise non cotée ou un organisme de recherche privé répondant aux critères de petite entreprise non cotée, enregistrée depuis un maximum de cinq ans, et remplit les conditions suivantes :
 
-1. n’a pas repris l’activité d’une autre entreprise ;
+  - n’a pas repris l’activité d’une autre entreprise ;
 
-2. n’a pas encore distribué de bénéfices ; et
+  - n’a pas encore distribué de bénéfices ; et
 
-3. n’est pas issu d’une concentration.
+  - n’est pas issu d’une concentration.
 
 Pour les entreprises admissibles dont l'enregistrement n'est pas obligatoire, la période d'admissibilité de cinq ans peut être considérée comme débutant soit au moment où l'entreprise démarre son activité économique soit au moment où elle est assujettie à l'impôt pour l'activité économique qu'elle exerce.
 
 Par dérogation au point a), 3., de l’alinéa 1er du présent article, les entreprises issues d’une concentration entre des entreprises admissibles au bénéfice d’une aide au titre du présent article sont également considérées comme des entreprises admissibles pendant une période maximale de cinq ans à compter de la date d’enregistrement de la plus ancienne entreprise participant à la concentration.
 
-1. Le bénéficiaire est une entreprise innovante ou un organisme de recherche privé innovant, à savoir:
+- Le bénéficiaire est une entreprise innovante ou un organisme de recherche privé innovant, à savoir:
 
-1. capable de démontrer, au moyen d'une évaluation effectuée par un expert externe, qu'il développera, dans un avenir prévisible, des produits, services ou procédés neufs ou substantiellement améliorés par rapport à l'état de la technique dans le secteur considéré, et qui présentent un risque d'échec technologique ou industriel, ou
+  - capable de démontrer, au moyen d'une évaluation effectuée par un expert externe, qu'il développera, dans un avenir prévisible, des produits, services ou procédés neufs ou substantiellement améliorés par rapport à l'état de la technique dans le secteur considéré, et qui présentent un risque d'échec technologique ou industriel, ou
 
-2. dont les dépenses de recherche et de développement représentent au moins 10 pour cent du total de ses coûts d'exploitation au cours d'une au moins des trois années précédant l'octroi de l'aide ou, dans le cas d'une jeune entreprise ou organisme de recherche privé sans historique financier, au cours de l'exercice courant, le chiffre étant certifié par un auditeur externe.
+  - dont les dépenses de recherche et de développement représentent au moins 10 pour cent du total de ses coûts d'exploitation au cours d'une au moins des trois années précédant l'octroi de l'aide ou, dans le cas d'une jeune entreprise ou organisme de recherche privé sans historique financier, au cours de l'exercice courant, le chiffre étant certifié par un auditeur externe.
 
 #### Chapitre IV Innovation de procédé et d’organisation
 
@@ -304,9 +304,9 @@ Innovation de procédé et d’organisation
 
 Les ministres peuvent attribuer à une entreprise ou un organisme de recherche privé qui réalise l’innovation de procédé ou d’organisation une aide ne pouvant dépasser une intensité maximale de:
 
-1. 15 pour cent pour les grandes entreprises et grands organismes de recherche privés;
+- 15 pour cent pour les grandes entreprises et grands organismes de recherche privés;
 
-2. 50 pour cent pour les entreprises petites et moyennes et organismes petits ou moyens de recherche privés.
+- 50 pour cent pour les entreprises petites et moyennes et organismes petits ou moyens de recherche privés.
 
 (2)
 
@@ -316,13 +316,13 @@ Les grandes entreprises ou grands organismes de recherche privés ne peuvent bé
 
 Les coûts admissibles sont les suivants:
 
-1. les frais de personnel;
+- les frais de personnel;
 
-2. les coûts des instruments, du matériel, des bâtiments et des terrains dans la mesure où et aussi longtemps qu'ils sont utilisés pour le projet ou programme;
+- les coûts des instruments, du matériel, des bâtiments et des terrains dans la mesure où et aussi longtemps qu'ils sont utilisés pour le projet ou programme;
 
-3. les coûts de la recherche contractuelle, des connaissances et des brevets achetés ou pris sous licence auprès de sources extérieures dans des conditions de pleine concurrence;
+- les coûts de la recherche contractuelle, des connaissances et des brevets achetés ou pris sous licence auprès de sources extérieures dans des conditions de pleine concurrence;
 
-4. les frais généraux additionnels et les autres frais d'exploitation, notamment les coûts des matériaux, fournitures et produits similaires, supportés directement du fait du projet ou programme.
+- les frais généraux additionnels et les autres frais d'exploitation, notamment les coûts des matériaux, fournitures et produits similaires, supportés directement du fait du projet ou programme.
 
 #### Chapitre V Aides en faveur des infrastructures de recherche et des pôles d’innovation
 
@@ -399,13 +399,13 @@ L’aide au fonctionnement doit être limitée à une période maximale de 10 an
 
 Les coûts admissibles sont les frais de personnel et les frais administratifs liés aux activités suivantes:
 
-1. opérations de promotion pour attirer de nouveaux membres dans le pôle d’innovation et pour accroître la visibilité du pôle;
+- opérations de promotion pour attirer de nouveaux membres dans le pôle d’innovation et pour accroître la visibilité du pôle;
 
-2. gestion des installations du pôle d’innovation;
+- gestion des installations du pôle d’innovation;
 
-3. organisation de programmes de formation, d’ateliers et de conférences pour faciliter le transfert de connaissances et le travail en réseau entre les membres du pôle d’innovation ainsi que la coopération transnationale;
+- organisation de programmes de formation, d’ateliers et de conférences pour faciliter le transfert de connaissances et le travail en réseau entre les membres du pôle d’innovation ainsi que la coopération transnationale;
 
-4. animation du pôle en vue de favoriser la collaboration, le partage d'informations et la prestation ou la mise à disposition de services de soutien aux entreprises spécialisés et adaptés aux besoins de ces dernières.
+- animation du pôle en vue de favoriser la collaboration, le partage d'informations et la prestation ou la mise à disposition de services de soutien aux entreprises spécialisés et adaptés aux besoins de ces dernières.
 
 #### Chapitre VI Coopération en recherche-développement-innovation
 
@@ -439,19 +439,19 @@ L’aide doit conduire à la modification du comportement du bénéficiaire, l�
 
 Une aide est réputée avoir un effet incitatif si le bénéficiaire a présenté une demande d'aide écrite avant le début des travaux liés au projet ou programme, à l'activité ou à l’investissement et des opérations connexes en question. La demande d'aide contient au moins les informations suivantes:
 
-1. le nom et la taille de l'entreprise;
+- le nom et la taille de l'entreprise;
 
-2. une description du projet ou programme, de l’activité ou de l’investissement et des opérations connexes et de son caractère novateur, y compris ses dates de début et de fin;
+- une description du projet ou programme, de l’activité ou de l’investissement et des opérations connexes et de son caractère novateur, y compris ses dates de début et de fin;
 
-3. une description des modalités de valorisation économique des résultats du projet ou programme, de l’activité ou de l’investissement et des opérations connexes et du potentiel économique;
+- une description des modalités de valorisation économique des résultats du projet ou programme, de l’activité ou de l’investissement et des opérations connexes et du potentiel économique;
 
-4. la localisation du projet ou programme, de l’activité ou de l’investissement et des opérations connexes;
+- la localisation du projet ou programme, de l’activité ou de l’investissement et des opérations connexes;
 
-5. une liste des coûts du projet ou programme, de l’activité ou de l’investissement et des opérations connexes;
+- une liste des coûts du projet ou programme, de l’activité ou de l’investissement et des opérations connexes;
 
-6. la forme de l’aide et le montant de l’aide nécessaire pour le projet ou programme, l’activité ou de l’investissement et des opérations connexes;
+- la forme de l’aide et le montant de l’aide nécessaire pour le projet ou programme, l’activité ou de l’investissement et des opérations connexes;
 
-7. tout élément pertinent permettant aux ministres compétents d’apprécier les qualités ou spécificités du projet ou programme, de l’activité ou de l’investissement et des opérations connexes et son effet incitatif.
+- tout élément pertinent permettant aux ministres compétents d’apprécier les qualités ou spécificités du projet ou programme, de l’activité ou de l’investissement et des opérations connexes et son effet incitatif.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -528,11 +528,11 @@ Les aides aux coûts admissibles non identifiables prévues au titre des disposi
 
 Pour les mêmes dépenses admissibles, les aides définies aux chapitres II à VI ci-avant ne sont pas cumulables avec:
 
-1. des aides « de minimis », pour autant que le cumul conduit à dépasser l’intensité d’aide maximale prévue par le régime applicable;
+- des aides « de minimis », pour autant que le cumul conduit à dépasser l’intensité d’aide maximale prévue par le régime applicable;
 
-2. les aides prévues à l’article 4 de la loi modifiée du 27 juillet 1993 ayant pour objet 1. le développement et la diversification économiques, 2. l’amélioration de la structure générale et de l’équilibre régional de l’économie;
+- les aides prévues à l’article 4 de la loi modifiée du 27 juillet 1993 ayant pour objet 1. le développement et la diversification économiques, 2. l’amélioration de la structure générale et de l’équilibre régional de l’économie;
 
-3. les aides prévues par la loi du 18 avril 2008 concernant le renouvellement du soutien au développement rural.
+- les aides prévues par la loi du 18 avril 2008 concernant le renouvellement du soutien au développement rural.
 
 #### Chapitre VIII Sanctions et restitution des aides et autres dispositions
 
@@ -591,21 +591,21 @@ Missions - Surveillance - Modalités et moyens
 
 Luxinnovation GIE, Agence nationale pour la promotion de la recherche, du développement et de l’innovation, établie par acte notarié du 27 novembre 1998 et dont les statuts coordonnés sont déposés au Registre de commerce et des sociétés sous le numéro C 16 et qui est désignée ci-après par «Agence», agissant sous la haute surveillance du ministre ayant l’Économie dans ses attributions en collaboration avec les ministres ayant la Recherche dans le secteur public et les Classes moyennes dans leurs attributions, est chargée:
 
-1. d’engager par tous moyens humains, matériels et électroniques toute action d’information, d’assistance et de liaison, tant nationale qu’internationale, ayant pour objet de promouvoir la recherche-développement-innovation, le transfert de technologies et la création d’entreprises innovantes au Grand-Duché de Luxembourg;
+- d’engager par tous moyens humains, matériels et électroniques toute action d’information, d’assistance et de liaison, tant nationale qu’internationale, ayant pour objet de promouvoir la recherche-développement-innovation, le transfert de technologies et la création d’entreprises innovantes au Grand-Duché de Luxembourg;
 
-2. de sensibiliser et d’informer les inventeurs, les entreprises et les organismes de recherche et de diffusion des connaissances, en tant que guichet unique RDI sur tous les aspects, développements et instruments touchant à la recherche-développement-innovation technologique et non technologique et au transfert de technologies, tant au Grand-Duché de Luxembourg qu’au niveau européen et international;
+- de sensibiliser et d’informer les inventeurs, les entreprises et les organismes de recherche et de diffusion des connaissances, en tant que guichet unique RDI sur tous les aspects, développements et instruments touchant à la recherche-développement-innovation technologique et non technologique et au transfert de technologies, tant au Grand-Duché de Luxembourg qu’au niveau européen et international;
 
-3. de sensibiliser et d’informer le grand public sur les thématiques de l’innovation, de la créativité, du design et de la recherche-développement;
+- de sensibiliser et d’informer le grand public sur les thématiques de l’innovation, de la créativité, du design et de la recherche-développement;
 
-4. d’assister les inventeurs, entreprises et organismes de recherche et de diffusion des connaissances et de les guider dans l’identification de leurs besoins d’innovation ainsi que dans la définition, l’organisation, la réalisation et la gestion de leurs projets et programmes de recherche-développement-innovation;
+- d’assister les inventeurs, entreprises et organismes de recherche et de diffusion des connaissances et de les guider dans l’identification de leurs besoins d’innovation ainsi que dans la définition, l’organisation, la réalisation et la gestion de leurs projets et programmes de recherche-développement-innovation;
 
-5. de promouvoir et de faciliter le transfert de technologies, la création d’entreprises innovantes en utilisant les nouvelles technologies, la coopération technologique entre inventeurs, entreprises et organismes de recherche et de diffusion des connaissances et experts en innovation, de favoriser la communication et la collaboration scientifique et technique sous toutes ses formes et d’animer des pôles d’innovation;
+- de promouvoir et de faciliter le transfert de technologies, la création d’entreprises innovantes en utilisant les nouvelles technologies, la coopération technologique entre inventeurs, entreprises et organismes de recherche et de diffusion des connaissances et experts en innovation, de favoriser la communication et la collaboration scientifique et technique sous toutes ses formes et d’animer des pôles d’innovation;
 
-6. de promouvoir auprès des entreprises et organismes de recherche et de diffusion des connaissances les régimes et mesures d’aides définis par les dispositions du titre I er de la présente loi;
+- de promouvoir auprès des entreprises et organismes de recherche et de diffusion des connaissances les régimes et mesures d’aides définis par les dispositions du titre I er de la présente loi;
 
-7. de communiquer de sa propre initiative aux ministres ayant dans leurs attributions l’Économie, les Classes moyennes ou la Recherche dans le secteur public, toute information ou proposition relative à la mise en œuvre des politiques de RDI dans les secteurs privés et publics;
+- de communiquer de sa propre initiative aux ministres ayant dans leurs attributions l’Économie, les Classes moyennes ou la Recherche dans le secteur public, toute information ou proposition relative à la mise en œuvre des politiques de RDI dans les secteurs privés et publics;
 
-8. d’étudier et d’analyser, à la demande d’un des ministres ayant dans ses attributions l’Économie, les Classes moyennes ou la Recherche, tout projet ou programme d’une entreprise ou d’un organisme de recherche et de diffusion des connaissances demandant le bénéfice d’un régime ou d’une mesure d’aides définis par les dispositions du titre I er de la présente loi ou toute autre question ayant trait à la RDI, à la création d’entreprises innovantes et au transfert de technologies.
+- d’étudier et d’analyser, à la demande d’un des ministres ayant dans ses attributions l’Économie, les Classes moyennes ou la Recherche, tout projet ou programme d’une entreprise ou d’un organisme de recherche et de diffusion des connaissances demandant le bénéfice d’un régime ou d’une mesure d’aides définis par les dispositions du titre I er de la présente loi ou toute autre question ayant trait à la RDI, à la création d’entreprises innovantes et au transfert de technologies.
 
 (2)
 
@@ -666,31 +666,53 @@ Toutefois les engagements contractés par l’Etat et les entreprises sur base d
 
 (5)
 
-L’article 27, paragraphe 1er a) de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est modifié comme suit:« la mise en application des régimes et mesures d’aide faisant l’objet des titres I et II de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation ; »
+L’article 27, paragraphe 1er a) de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est modifié comme suit:
+
+« la mise en application des régimes et mesures d’aide faisant l’objet des titres I et II de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation ; »
 
 (6)
 
-L’article 27, paragraphe 1er c) de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est modifié comme suit: « l’exécution des missions de l’Agence désignée au titre II de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation. ».
+L’article 27, paragraphe 1er c) de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est modifié comme suit:
+
+« l’exécution des missions de l’Agence désignée au titre II de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation. ».
 
 (7)
 
-L’article 28, paragraphe 1er d) de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est modifié comme suit:« les remboursements à l’Etat des montants d’aides versées, augmentés des intérêts légaux, effectués sur base des dispositions de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation ; ».
+L’article 28, paragraphe 1er d) de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est modifié comme suit:
+
+« les remboursements à l’Etat des montants d’aides versées, augmentés des intérêts légaux, effectués sur base des dispositions de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation ; ».
 
 (8)
 
-L’article 29 de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est remplacé par le texte ci-après:« Les ministres sont autorisés à imputer sur ce Fonds:100 pour cent des dépenses relatives à l’attribution des interventions financières prévues aux titres I et II de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation ;100 pour cent des dépenses relatives aux missions de l’Agence prévues au titre II de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation ;100 pour cent des dépenses relatives à toute opération de l’Etat susceptible de contribuer à la promotion de la R&D et de la RDI au Grand-Duché de Luxembourg. ».
+L’article 29 de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est remplacé par le texte ci-après:
+
+« Les ministres sont autorisés à imputer sur ce Fonds:
+
+- 100 pour cent des dépenses relatives à l’attribution des interventions financières prévues aux titres I et II de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation ;
+
+- 100 pour cent des dépenses relatives aux missions de l’Agence prévues au titre II de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation ;
+
+- 100 pour cent des dépenses relatives à toute opération de l’Etat susceptible de contribuer à la promotion de la R&D et de la RDI au Grand-Duché de Luxembourg. ».
 
 (9)
 
-L’article 30, paragraphe 2 a) de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est modifié comme suit :« par les ministres des demandes d’intervention financières en faveur des projets, programmes , études et autres demandes d’aides faisant appel aux dispositions du titre I de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation ».
+L’article 30, paragraphe 2 a) de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est modifié comme suit :
+
+« par les ministres des demandes d’intervention financières en faveur des projets, programmes , études et autres demandes d’aides faisant appel aux dispositions du titre I de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation ».
 
 (10)
 
-L’article 30, paragraphe 2 b) de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est modifié comme suit :« par les ministres, du budget d’investissement et d’exploitation de l’Agence prévue au titre II de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation.».
+L’article 30, paragraphe 2 b) de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est modifié comme suit :
+
+« par les ministres, du budget d’investissement et d’exploitation de l’Agence prévue au titre II de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation.».
 
 (11)
 
-L’article 30, de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est complété par le paragraphe suivant :« (3)Par dérogation au paragraphe 2 du présent article, l’engagement des dépenses relatif aux demandes d’intervention financière en faveur des projets, programmes, études et autres demandes d’aides faisant appel aux dispositions du titre I de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation n’est pas subordonné à l’approbation préalable des ministres pour les aides attribuées par l’Agence en cas d’attribution à cette dernière d’une compétence d’octroi des aides à la RDI prévue par une loi.».
+L’article 30, de la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation est complété par le paragraphe suivant :
+
+« (3)
+
+Par dérogation au paragraphe 2 du présent article, l’engagement des dépenses relatif aux demandes d’intervention financière en faveur des projets, programmes, études et autres demandes d’aides faisant appel aux dispositions du titre I de la loi du 17 mai 2017 ayant pour objet 1. le renouvellement des régimes d’aides à la recherche, au développement et à l’innovation 2. les missions de l’Agence nationale pour la promotion de l’innovation et de la recherche et modifiant la loi modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation n’est pas subordonné à l’approbation préalable des ministres pour les aides attribuées par l’Agence en cas d’attribution à cette dernière d’une compétence d’octroi des aides à la RDI prévue par une loi.».
 
 <a id="art-26"></a>
 ## Art. 26.

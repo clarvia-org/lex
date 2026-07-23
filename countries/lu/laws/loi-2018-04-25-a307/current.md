@@ -45,7 +45,7 @@ Champ d’application
 
 (1)
 
-Les titres I, II, IV, IVbis et V de la présente loi, à l’exception de l’article 34, s’appliquent à tous les organismes de gestion collective établis sur le territoire du Grand-Duché de Luxembourg.
+Les titres I, II, IV , IVbis et V de la présente loi, à l’exception de l’article 34, s’appliquent à tous les organismes de gestion collective établis sur le territoire du Grand-Duché de Luxembourg.
 
 (2)
 
@@ -70,17 +70,17 @@ Pour l’application de la présente loi, on entend par :
 
 « organisme de gestion collective » : tout organisme dont le seul but ou le but principal consiste à gérer le droit d’auteur ou les droits voisins pour le compte de plusieurs titulaires de droits, au profit collectif de ces derniers, qui y est autorisé par la loi ou par voie de cession, de licence ou de tout autre accord contractuel, et qui remplit les deux critères suivants ou l’un d’entre eux :
 
-1. il est détenu ou contrôlé par ses membres ;
+- il est détenu ou contrôlé par ses membres ;
 
-2. il est à but non lucratif.
+- il est à but non lucratif.
 
 2°
 
 « entité de gestion indépendante » : tout organisme dont le seul but ou le but principal consiste à gérer le droit d’auteur ou les droits voisins pour le compte de plusieurs titulaires de droits, au profit collectif de ces derniers, qui y est autorisé par la loi ou par voie de cession, de licence ou de tout autre accord contractuel, et :
 
-1. qui n’est ni détenu ni contrôlé, directement ou indirectement, en tout ou en partie, par des titulaires de droits, et
+- qui n’est ni détenu ni contrôlé, directement ou indirectement, en tout ou en partie, par des titulaires de droits, et
 
-2. qui est à but lucratif.
+- qui est à but lucratif.
 
 3°
 
@@ -102,9 +102,9 @@ Pour l’application de la présente loi, on entend par :
 
 « dirigeant » :
 
-1. lorsque la législation nationale ou les statuts de l’organisme de gestion collective prévoient une structure moniste, tout membre du conseil d’administration,
+- lorsque la législation nationale ou les statuts de l’organisme de gestion collective prévoient une structure moniste, tout membre du conseil d’administration,
 
-2. lorsque la législation nationale ou les statuts de l’organisme de gestion collective prévoient une structure dualiste, tout membre du conseil d’administration ou du conseil de surveillance.
+- lorsque la législation nationale ou les statuts de l’organisme de gestion collective prévoient une structure dualiste, tout membre du conseil d’administration ou du conseil de surveillance.
 
 8°
 
@@ -260,23 +260,23 @@ Dans un organisme de gestion collective doté d’un système dualiste, les pouv
 
 Conformément aux dispositions du titre II, chapitre II, l’assemblée générale des membres statue au moins sur les questions suivantes :
 
-1. la politique générale de distribution des sommes dues aux titulaires de droits ;
+- la politique générale de distribution des sommes dues aux titulaires de droits ;
 
-2. la politique générale d’utilisation des sommes non distribuables ;
+- la politique générale d’utilisation des sommes non distribuables ;
 
-3. la politique générale d’investissement en ce qui concerne les revenus provenant des droits et toute recette résultant de l’investissement des revenus provenant des droits ;
+- la politique générale d’investissement en ce qui concerne les revenus provenant des droits et toute recette résultant de l’investissement des revenus provenant des droits ;
 
-4. la politique générale des déductions effectuées sur les revenus provenant des droits et sur toute recette résultant de l’investissement des revenus provenant des droits ;
+- la politique générale des déductions effectuées sur les revenus provenant des droits et sur toute recette résultant de l’investissement des revenus provenant des droits ;
 
-5. l’utilisation des sommes non distribuables ;
+- l’utilisation des sommes non distribuables ;
 
-6. la politique de gestion des risques ;
+- la politique de gestion des risques ;
 
-7. l’approbation de toute acquisition, vente de biens immeubles ou d’hypothèque sur ces biens immeubles ;
+- l’approbation de toute acquisition, vente de biens immeubles ou d’hypothèque sur ces biens immeubles ;
 
-8. l’approbation des opérations de fusion ou d’alliance, de la création de filiales, et de l’acquisition d’autres entités ou de participations ou de droits dans d’autres entités ;
+- l’approbation des opérations de fusion ou d’alliance, de la création de filiales, et de l’acquisition d’autres entités ou de participations ou de droits dans d’autres entités ;
 
-9. l’approbation des opérations d’emprunt, d’octroi de prêts ou de constitution de garanties d’emprunts.
+- l’approbation des opérations d’emprunt, d’octroi de prêts ou de constitution de garanties d’emprunts.
 
 (5)
 
@@ -290,9 +290,9 @@ L’assemblée générale des membres contrôle les activités de l’organisme 
 
 Tous les membres de l’organisme de gestion collective ont le droit de participer et de voter à l’assemblée générale des membres. Néanmoins, et sous réserve que les règles impératives régissant la forme de l’organisme de gestion collective le permettent, les organismes de gestion peuvent prévoir des restrictions au droit des membres de participer et d’exercer leurs droits de vote à l’assemblée générale des membres, sur la base de l’un ou des deux critères suivants :
 
-1. la durée de l’affiliation ;
+- la durée de l’affiliation ;
 
-2. les montants reçus ou dus à un membre,
+- les montants reçus ou dus à un membre,
 
 à condition que ces critères soient déterminés et appliqués de manière équitable et proportionnée. Les critères définis aux lettres a) et b) figurent dans les statuts ou dans les conditions d’affiliation de l’organisme de gestion collective et sont rendus publics conformément à l’article 22.
 
@@ -310,9 +310,9 @@ Chaque mandat est valable pour une seule assemblée générale des membres. Le m
 
 Les pouvoirs de l’assemblée générale des membres peuvent être exercés par une assemblée de délégués élus au moins tous les quatre ans par les membres de l’organisme de gestion collective, à condition :
 
-1. que soit garantie une participation appropriée et effective des membres au processus de décision de l’organisme de gestion collective ; et
+- que soit garantie une participation appropriée et effective des membres au processus de décision de l’organisme de gestion collective ; et
 
-2. que la représentation des différentes catégories de membres au sein de l’assemblée des délégués soit juste et équilibrée.
+- que la représentation des différentes catégories de membres au sein de l’assemblée des délégués soit juste et équilibrée.
 
 Les règles prévues aux paragraphes 1er à 9 s’appliquent à l’assemblée des délégués.
 
@@ -349,9 +349,9 @@ Chaque personne exerçant la fonction de surveillance adresse à l’assemblée 
 
 L’organe exerçant la fonction de surveillance se réunit au moins une fois par an et est au moins compétent pour :
 
-1. exercer les pouvoirs qui lui sont délégués par l’assemblée générale des membres, y compris au titre de l’article 9, paragraphes 3 et 5 ;
+- exercer les pouvoirs qui lui sont délégués par l’assemblée générale des membres, y compris au titre de l’article 9, paragraphes 3 et 5 ;
 
-2. contrôler les activités et l’accomplissement des missions des personnes visées à l’article 11, y compris la mise en œuvre des décisions de l’assemblée générale des membres et, en particulier, des politiques générales énumérées à l’article 9, paragraphe 4, lettres a) à d).
+- contrôler les activités et l’accomplissement des missions des personnes visées à l’article 11, y compris la mise en œuvre des décisions de l’assemblée générale des membres et, en particulier, des politiques générales énumérées à l’article 9, paragraphe 4, lettres a) à d).
 
 (5)
 
@@ -372,13 +372,13 @@ Les organismes de gestion collective mettent en place et appliquent des procédu
 
 Les procédures visées à l’alinéa 1er prévoient une déclaration annuelle adressée individuellement par chacune des personnes visées au paragraphe 1er à l’assemblée générale des membres, sinon à l’organe de surveillance s’il n’existe pas d’assemblée générale, et l’informant :
 
-1. de tout intérêt détenu dans l’organisme de gestion collective ;
+- de tout intérêt détenu dans l’organisme de gestion collective ;
 
-2. de toute rémunération perçue, lors de l’exercice précédent, de l’organisme de gestion collective, y compris sous la forme de prestations de retraite, d’avantages en nature et d’autres types d’avantages ;
+- de toute rémunération perçue, lors de l’exercice précédent, de l’organisme de gestion collective, y compris sous la forme de prestations de retraite, d’avantages en nature et d’autres types d’avantages ;
 
-3. de tout montant éventuellement reçu, lors de l’exercice précédent, de l’organisme de gestion collective en tant que titulaire de droits ;
+- de tout montant éventuellement reçu, lors de l’exercice précédent, de l’organisme de gestion collective en tant que titulaire de droits ;
 
-4. de toute déclaration concernant tout conflit réel ou potentiel entre ses intérêts personnels et ceux de l’organisme de gestion collective ou entre ses obligations envers l’organisme de gestion collective et ses obligations envers toute autre personne physique ou morale.
+- de toute déclaration concernant tout conflit réel ou potentiel entre ses intérêts personnels et ceux de l’organisme de gestion collective ou entre ses obligations envers l’organisme de gestion collective et ses obligations envers toute autre personne physique ou morale.
 
 Cette déclaration est tenue à la disposition des membres de l'assemblée générale ou de l’organe de surveillance, s’il n’existe pas d’assemblée générale, pendant un délai de deux mois avant la réunion annuelle de cette assemblée ou organe de surveillance au siège de l'organisme de gestion collective. Les conditions de sa consultation doivent assurer le respect de la vie privée, de la protection des données personnelles et du secret des affaires.
 
@@ -397,9 +397,9 @@ Les organismes de gestion collective font preuve de diligence dans la perception
 
 Les organismes de gestion collective gèrent leurs comptes de manière à séparer :
 
-1. les revenus provenant des droits ainsi que toute recette résultant de l’investissement des revenus provenant des droits ; et
+- les revenus provenant des droits ainsi que toute recette résultant de l’investissement des revenus provenant des droits ; et
 
-2. leurs propres actifs éventuels ainsi que les revenus tirés de ces actifs, de leurs frais de gestion ou d’autres activités.
+- leurs propres actifs éventuels ainsi que les revenus tirés de ces actifs, de leurs frais de gestion ou d’autres activités.
 
 (3)
 
@@ -409,11 +409,11 @@ Les organismes de gestion collective ne sont pas autorisés à utiliser les reve
 
 Lorsqu’un organisme de gestion collective investit les revenus provenant des droits ou toute recette résultant de l’investissement des revenus provenant des droits, il le fait au mieux des intérêts des titulaires de droits dont il représente les droits, conformément à la politique générale d’investissement et de gestion des risques visée à l’article 9, paragraphe 4, lettres c) et f), et en tenant compte des règles suivantes :
 
-1. s’il existe un quelconque risque de conflit d’intérêts, l’organisme de gestion collective veille à ce que l’investissement serve le seul intérêt de ces titulaires de droits ;
+- s’il existe un quelconque risque de conflit d’intérêts, l’organisme de gestion collective veille à ce que l’investissement serve le seul intérêt de ces titulaires de droits ;
 
-2. les actifs sont investis de manière à garantir la sécurité, la qualité, la liquidité et la rentabilité de l’ensemble du portefeuille ;
+- les actifs sont investis de manière à garantir la sécurité, la qualité, la liquidité et la rentabilité de l’ensemble du portefeuille ;
 
-3. les actifs sont correctement diversifiés afin d’éviter une dépendance excessive à l’égard d’un actif particulier et l’accumulation de risques dans l’ensemble du portefeuille.
+- les actifs sont correctement diversifiés afin d’éviter une dépendance excessive à l’égard d’un actif particulier et l’accumulation de risques dans l’ensemble du portefeuille.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -465,19 +465,19 @@ Lorsque les sommes dues à des titulaires de droits ne peuvent pas être distrib
 
 L’organisme de gestion collective prend toutes les mesures nécessaires, en conformité avec le paragraphe 1er, pour identifier et localiser les titulaires de droits. En particulier, au plus tard trois mois après l’échéance du délai fixé au paragraphe 1er, l’organisme de gestion collective met des informations sur les œuvres et autres objets pour lesquels un ou plusieurs titulaires de droits n’ont pas été identifiés ou localisés à la disposition :
 
-1. des titulaires de droits qu’il représente ou des entités représentant des titulaires de droits, lorsque ces entités sont membres de l’organisme de gestion collective ; et
+- des titulaires de droits qu’il représente ou des entités représentant des titulaires de droits, lorsque ces entités sont membres de l’organisme de gestion collective ; et
 
-2. de tous les organismes de gestion collective avec lesquels il a conclu des accords de représentation.
+- de tous les organismes de gestion collective avec lesquels il a conclu des accords de représentation.
 
 Les informations visées au premier alinéa comprennent, le cas échéant, les éléments suivants :
 
-1. le titre de l’œuvre ou autre objet ;
+- le titre de l’œuvre ou autre objet ;
 
-2. le nom du titulaire de droits ;
+- le nom du titulaire de droits ;
 
-3. le nom de l’éditeur ou du producteur concerné ; et
+- le nom de l’éditeur ou du producteur concerné ; et
 
-4. toute autre information pertinente disponible qui pourrait faciliter l’identification du titulaire de droits.
+- toute autre information pertinente disponible qui pourrait faciliter l’identification du titulaire de droits.
 
 L’organisme de gestion collective vérifie également les registres visés à l’article 7, paragraphe 4, ainsi que d’autres registres facilement accessibles. Si les mesures susmentionnées ne produisent pas de résultats, l’organisme de gestion collective met ces informations à la disposition du public, au plus tard un an après l’expiration du délai de trois mois visé à l’alinéa 1er.
 
@@ -574,19 +574,19 @@ Informations fournies aux titulaires de droits sur la gestion de leurs droits
 
 Sans préjudice du paragraphe 2 du présent article, de l’article 20, et de l’article 28, paragraphe 2, les organismes de gestion collective mettent, au moins une fois par an, à la disposition de chacun des titulaires de droits auquel il a attribué des revenus provenant des droits ou versé des sommes pendant la période à la laquelle se rapportent ces informations, à tout le moins les informations suivantes :
 
-1. les coordonnées que le titulaire de droits a autorisé l’organisme de gestion collective à utiliser afin de l’identifier et de le localiser ;
+- les coordonnées que le titulaire de droits a autorisé l’organisme de gestion collective à utiliser afin de l’identifier et de le localiser ;
 
-2. des revenus provenant des droits attribués au titulaire de droits ;
+- des revenus provenant des droits attribués au titulaire de droits ;
 
-3. les sommes versées par l’organisme de gestion collective au titulaire de droits, par catégorie de droits gérés et par type d’utilisation ;
+- les sommes versées par l’organisme de gestion collective au titulaire de droits, par catégorie de droits gérés et par type d’utilisation ;
 
-4. la période au cours de laquelle a eu lieu l’utilisation pour laquelle des sommes ont été attribuées et versées au titulaire de droits, à moins que des raisons objectives relatives aux rapports des utilisateurs n’empêchent l’organisme de gestion collective de fournir ces informations ;
+- la période au cours de laquelle a eu lieu l’utilisation pour laquelle des sommes ont été attribuées et versées au titulaire de droits, à moins que des raisons objectives relatives aux rapports des utilisateurs n’empêchent l’organisme de gestion collective de fournir ces informations ;
 
-5. les déductions effectuées concernant les frais de gestion ;
+- les déductions effectuées concernant les frais de gestion ;
 
-6. les déductions effectuées à des fins autres que celles concernant les frais de gestion, y compris les déductions qui sont exigées par la loi pour la fourniture de tout service social, culturel ou éducatif ;
+- les déductions effectuées à des fins autres que celles concernant les frais de gestion, y compris les déductions qui sont exigées par la loi pour la fourniture de tout service social, culturel ou éducatif ;
 
-7. les éventuels revenus provenant des droits attribués au titulaire de droits restant dus pour toute période.
+- les éventuels revenus provenant des droits attribués au titulaire de droits restant dus pour toute période.
 
 (2)
 
@@ -599,15 +599,15 @@ Informations fournies à d’autres organismes de gestion collective sur la gest
 
 Une fois par an au moins, et par voie électronique, les organismes de gestion collective mettent à tout le moins les informations suivantes à la disposition des organismes de gestion collective pour le compte desquels ils gèrent des droits au titre d’un accord de représentation pour la période à laquelle se rapportent ces informations :
 
-1. les revenus provenant des droits attribués, les sommes versées par l’organisme de gestion collective, par catégorie de droits gérés et par type d’utilisation, pour les droits qu’il gère au titre de l’accord de représentation, ainsi que les éventuels revenus de droits attribués restant dus pour toute période ;
+- les revenus provenant des droits attribués, les sommes versées par l’organisme de gestion collective, par catégorie de droits gérés et par type d’utilisation, pour les droits qu’il gère au titre de l’accord de représentation, ainsi que les éventuels revenus de droits attribués restant dus pour toute période ;
 
-2. les déductions effectuées concernant les frais de gestion visés à l’article 16 ;
+- les déductions effectuées concernant les frais de gestion visés à l’article 16 ;
 
-3. les déductions effectuées à des fins autres que celles concernant les frais de gestion visés à l’article 16 ;
+- les déductions effectuées à des fins autres que celles concernant les frais de gestion visés à l’article 16 ;
 
-4. des informations sur toute licence octroyée ou refusée à l’égard des œuvres et autres objets couverts par l’accord de représentation ;
+- des informations sur toute licence octroyée ou refusée à l’égard des œuvres et autres objets couverts par l’accord de représentation ;
 
-5. les résolutions adoptées par l’assemblée générale des membres dans la mesure où elles concernent la gestion des droits couverts par l’accord de représentation.
+- les résolutions adoptées par l’assemblée générale des membres dans la mesure où elles concernent la gestion des droits couverts par l’accord de représentation.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -616,9 +616,9 @@ Informations fournies sur demande aux titulaires de droits, aux autres organisme
 
 Sans préjudice de l’article 25, tout organisme de gestion collective saisi d’une demande justifiée doit communiquer à tout organisme de gestion collective, pour le compte duquel il gère des droits au titre d’un accord de représentation, à tout titulaire de droits ou à tout utilisateur, sans retard indu et par voie électronique les informations suivantes :
 
-1. les œuvres ou autres objets qu’il représente, les droits qu’il gère, directement ou dans le cadre d’accords de représentation, et les territoires couverts ; ou
+- les œuvres ou autres objets qu’il représente, les droits qu’il gère, directement ou dans le cadre d’accords de représentation, et les territoires couverts ; ou
 
-2. si, en raison du champ d’activité de l’organisme de gestion collective, ces œuvres ou autres objets ne peuvent être déterminés, les types d’œuvres ou d’autres objets qu’il représente, les droits qu’il gère et les territoires couverts.
+- si, en raison du champ d’activité de l’organisme de gestion collective, ces œuvres ou autres objets ne peuvent être déterminés, les types d’œuvres ou d’autres objets qu’il représente, les droits qu’il gère et les territoires couverts.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -627,25 +627,25 @@ Publicité des informations
 
 Tout organisme de gestion collective tient à jour, sur son site internet public, les informations suivantes :
 
-1. ses statuts ;
+- ses statuts ;
 
-2. ses conditions d’affiliation et les conditions de résiliation ou de retrait de l’autorisation de gérer des droits, si celles-ci ne figurent pas dans les statuts ;
+- ses conditions d’affiliation et les conditions de résiliation ou de retrait de l’autorisation de gérer des droits, si celles-ci ne figurent pas dans les statuts ;
 
-3. des contrats de licence types et ses tarifs standard applicables, réductions comprises ;
+- des contrats de licence types et ses tarifs standard applicables, réductions comprises ;
 
-4. la liste des personnes visées à l’article 11 ;
+- la liste des personnes visées à l’article 11 ;
 
-5. sa politique générale de distribution des sommes dues aux titulaires de droits ;
+- sa politique générale de distribution des sommes dues aux titulaires de droits ;
 
-6. sa politique générale en matière de frais de gestion ;
+- sa politique générale en matière de frais de gestion ;
 
-7. sa politique générale en matière de déductions, autres que celles concernant les frais de gestion, effectuées sur les revenus provenant des droits et sur toute recette résultant de l’investissement des revenus provenant des droits, y compris aux fins de la fourniture de services sociaux, culturels et éducatifs ;
+- sa politique générale en matière de déductions, autres que celles concernant les frais de gestion, effectuées sur les revenus provenant des droits et sur toute recette résultant de l’investissement des revenus provenant des droits, y compris aux fins de la fourniture de services sociaux, culturels et éducatifs ;
 
-8. une liste des accords de représentation qu’ils ont conclus, et les noms des organismes de gestion collective avec lesquels ces accords de représentation ont été conclus ;
+- une liste des accords de représentation qu’ils ont conclus, et les noms des organismes de gestion collective avec lesquels ces accords de représentation ont été conclus ;
 
-9. la politique générale d’utilisation des sommes non distribuables ;
+- la politique générale d’utilisation des sommes non distribuables ;
 
-10. les procédures établies conformément aux articles 33, 34 et 35 pour le traitement des plaintes et le règlement des litiges.
+- les procédures établies conformément aux articles 33, 34 et 35 pour le traitement des plaintes et le règlement des litiges.
 
 <a id="art-23"></a>
 ## Art. 23.
@@ -662,71 +662,71 @@ L’organisme de gestion collective publie sur son site internet le rapport de t
 
 Le rapport de transparence annuel contient au moins les informations suivantes :
 
-1. des états financiers comprenant un bilan ou un compte de patrimoine, un compte des recettes et dépenses de l’exercice et un tableau des flux de trésorerie ;
+- des états financiers comprenant un bilan ou un compte de patrimoine, un compte des recettes et dépenses de l’exercice et un tableau des flux de trésorerie ;
 
-2. un rapport sur les activités de l’exercice ;
+- un rapport sur les activités de l’exercice ;
 
-3. des informations sur les refus d’octroyer une licence en vertu de l’article 17, paragraphe 3 ;
+- des informations sur les refus d’octroyer une licence en vertu de l’article 17, paragraphe 3 ;
 
-4. une description de la structure juridique et de gouvernance de l’organisme de gestion collective ;
+- une description de la structure juridique et de gouvernance de l’organisme de gestion collective ;
 
-5. des informations sur toutes les entités détenues ou contrôlées directement ou indirectement, en tout ou en partie, par l’organisme de gestion collective ;
+- des informations sur toutes les entités détenues ou contrôlées directement ou indirectement, en tout ou en partie, par l’organisme de gestion collective ;
 
-6. des informations concernant la somme totale de la rémunération versée au cours de l’année précédente aux personnes visées à l’article 10, paragraphe 3, et à l’article 11, ainsi que les autres avantages qui leur ont été octroyés ;
+- des informations concernant la somme totale de la rémunération versée au cours de l’année précédente aux personnes visées à l’article 10, paragraphe 3, et à l’article 11, ainsi que les autres avantages qui leur ont été octroyés ;
 
-7. les informations financières suivantes :
+- les informations financières suivantes :
 
-1. des informations financières sur les revenus provenant des droits, ventilées par catégorie de droits gérés et par type d’utilisation (par exemple, la radiodiffusion, la diffusion en ligne, l’exécution publique), y compris des informations sur les recettes résultant de l’investissement des revenus provenant des droits et l’utilisation de ces recettes (si elles sont distribuées aux titulaires de droits ou aux autres organismes de gestion collective, ou utilisées autrement) ;
+  - des informations financières sur les revenus provenant des droits, ventilées par catégorie de droits gérés et par type d’utilisation (par exemple, la radiodiffusion, la diffusion en ligne, l’exécution publique), y compris des informations sur les recettes résultant de l’investissement des revenus provenant des droits et l’utilisation de ces recettes (si elles sont distribuées aux titulaires de droits ou aux autres organismes de gestion collective, ou utilisées autrement) ;
 
-2. des informations financières sur le coût de la gestion des droits et des autres services fournis aux titulaires de droits par les organismes de gestion collective, avec une description complète au moins des éléments suivants :
+  - des informations financières sur le coût de la gestion des droits et des autres services fournis aux titulaires de droits par les organismes de gestion collective, avec une description complète au moins des éléments suivants :
 
-1. tous les frais de fonctionnement et les frais financiers, ventilés par catégorie de droits gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie pour l’attribution de ces coûts indirects ;
+    - tous les frais de fonctionnement et les frais financiers, ventilés par catégorie de droits gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie pour l’attribution de ces coûts indirects ;
 
-2. les frais de fonctionnement et les frais financiers, ventilés par catégorie de droits gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie pour l’attribution de ces coûts indirects, corres­pondant uniquement à la gestion des droits, y compris les frais de gestion déduits ou compensés à partir des revenus provenant des droits ou des recettes résultant de l’investissement des revenus provenant des droits conformément à l’article 12, paragraphe 3, et à l’article 13, paragraphes 1 er , 2 et 3 ;
+    - les frais de fonctionnement et les frais financiers, ventilés par catégorie de droits gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie pour l’attribution de ces coûts indirects, corres­pondant uniquement à la gestion des droits, y compris les frais de gestion déduits ou compensés à partir des revenus provenant des droits ou des recettes résultant de l’investissement des revenus provenant des droits conformément à l’article 12, paragraphe 3, et à l’article 13, paragraphes 1 er , 2 et 3 ;
 
-3. les frais de fonctionnement et les frais financiers relatifs aux services, autres que la gestion des droits, mais comprenant les services sociaux, culturels et éducatifs ;
+    - les frais de fonctionnement et les frais financiers relatifs aux services, autres que la gestion des droits, mais comprenant les services sociaux, culturels et éducatifs ;
 
-4. les ressources utilisées pour couvrir les coûts ;
+    - les ressources utilisées pour couvrir les coûts ;
 
-5. les déductions effectuées sur les revenus provenant des droits, ventilées par catégorie de droits gérés et par type d’utilisation, ainsi que la finalité de ces déductions, c’est-à-dire si elles correspondent à des coûts relatifs à la gestion des droits ou à des services sociaux, culturels et éducatifs ;
+    - les déductions effectuées sur les revenus provenant des droits, ventilées par catégorie de droits gérés et par type d’utilisation, ainsi que la finalité de ces déductions, c’est-à-dire si elles correspondent à des coûts relatifs à la gestion des droits ou à des services sociaux, culturels et éducatifs ;
 
-6. le pourcentage que représente le coût de la gestion des droits et des autres services fournis aux titulaires de droits par les organismes de gestion collective par rapport aux revenus provenant des droits de l’exercice concerné, par catégorie de droits gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie pour l’attribution de ces coûts indirects ;
+    - le pourcentage que représente le coût de la gestion des droits et des autres services fournis aux titulaires de droits par les organismes de gestion collective par rapport aux revenus provenant des droits de l’exercice concerné, par catégorie de droits gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie pour l’attribution de ces coûts indirects ;
 
-3. des informations financières sur les sommes dues aux titulaires de droits, accompagnées d’une description complète au moins des éléments suivants :
+  - des informations financières sur les sommes dues aux titulaires de droits, accompagnées d’une description complète au moins des éléments suivants :
 
-1. la somme totale attribuée aux titulaires de droits avec une ventilation par catégorie de droits gérés et par type d’utilisation ;
+    - la somme totale attribuée aux titulaires de droits avec une ventilation par catégorie de droits gérés et par type d’utilisation ;
 
-2. la somme totale versée aux titulaires de droits avec une ventilation par catégorie de droits gérés et par type d’utilisation ;
+    - la somme totale versée aux titulaires de droits avec une ventilation par catégorie de droits gérés et par type d’utilisation ;
 
-3. la fréquence des versements, avec une ventilation par catégorie de droits gérés et par type d’utilisation ;
+    - la fréquence des versements, avec une ventilation par catégorie de droits gérés et par type d’utilisation ;
 
-4. la somme totale perçue mais non encore attribuée aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par type d’utilisation, en indiquant l’exercice au cours duquel ces sommes ont été perçues ;
+    - la somme totale perçue mais non encore attribuée aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par type d’utilisation, en indiquant l’exercice au cours duquel ces sommes ont été perçues ;
 
-5. la somme totale attribuée mais non encore distribuée aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par type d’utilisation, en indiquant l’exercice au cours duquel ces sommes ont été perçues ;
+    - la somme totale attribuée mais non encore distribuée aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par type d’utilisation, en indiquant l’exercice au cours duquel ces sommes ont été perçues ;
 
-6. lorsqu’un organisme de gestion collective n’a pas effectué la distribution et les versements dans le délai fixé à l’article 14, paragraphe 1 er , les motifs de ce retard ;
+    - lorsqu’un organisme de gestion collective n’a pas effectué la distribution et les versements dans le délai fixé à l’article 14, paragraphe 1 er , les motifs de ce retard ;
 
-7. le total des sommes non distribuables, avec une explication de l’utilisation qui en a été faite ;
+    - le total des sommes non distribuables, avec une explication de l’utilisation qui en a été faite ;
 
-4. des informations sur les relations avec d’autres organismes de gestion collective avec une description au moins des éléments suivants :
+  - des informations sur les relations avec d’autres organismes de gestion collective avec une description au moins des éléments suivants :
 
-1. les sommes reçues d’autres organismes de gestion collective et les sommes versées à d’autres organismes de gestion collective, avec une ventilation par catégorie de droits et par type d’utilisation ainsi que par organisme ;
+    - les sommes reçues d’autres organismes de gestion collective et les sommes versées à d’autres organismes de gestion collective, avec une ventilation par catégorie de droits et par type d’utilisation ainsi que par organisme ;
 
-2. les frais de gestion et autres déductions effectuées sur les revenus provenant des droits dus à d’autres organismes de gestion collective, avec une ventilation par catégorie de droits et par type d’utilisation ainsi que par organisme ;
+    - les frais de gestion et autres déductions effectuées sur les revenus provenant des droits dus à d’autres organismes de gestion collective, avec une ventilation par catégorie de droits et par type d’utilisation ainsi que par organisme ;
 
-3. les frais de gestion et autres déductions effectuées sur les sommes versées par d’autres organismes de gestion collective, avec une ventilation par catégorie de droits et par organisme ;
+    - les frais de gestion et autres déductions effectuées sur les sommes versées par d’autres organismes de gestion collective, avec une ventilation par catégorie de droits et par organisme ;
 
-4. les sommes distribuées directement aux titulaires de droits provenant d’autres organismes de gestion collective, avec une ventilation par catégorie de droits et par organisme.
+    - les sommes distribuées directement aux titulaires de droits provenant d’autres organismes de gestion collective, avec une ventilation par catégorie de droits et par organisme.
 
-8. un rapport spécial portant sur l’utilisation des sommes déduites aux fins de services sociaux, culturels et éducatifs, contenant les informations visées au paragraphe 3.
+- un rapport spécial portant sur l’utilisation des sommes déduites aux fins de services sociaux, culturels et éducatifs, contenant les informations visées au paragraphe 3.
 
 (3)
 
 Un rapport spécial rend compte de l’utilisation des sommes déduites aux fins de la fourniture de services sociaux, culturels ou éducatifs et contient au moins les informations suivantes :
 
-1. les sommes déduites aux fins de services sociaux, culturels et éducatifs au cours de l’exercice, avec une ventilation par type de finalité, et pour chaque type de finalité avec une ventilation par catégorie de droits gérés et par type d’utilisation ;
+- les sommes déduites aux fins de services sociaux, culturels et éducatifs au cours de l’exercice, avec une ventilation par type de finalité, et pour chaque type de finalité avec une ventilation par catégorie de droits gérés et par type d’utilisation ;
 
-2. une explication de l’utilisation de ces sommes, avec une ventilation par type de finalité, y compris les frais découlant de la gestion des sommes déduites en vue de financer des services sociaux, culturels et éducatifs et les sommes distinctes utilisées aux fins de services sociaux, culturels et éducatifs.
+- une explication de l’utilisation de ces sommes, avec une ventilation par type de finalité, y compris les frais découlant de la gestion des sommes déduites en vue de financer des services sociaux, culturels et éducatifs et les sommes distinctes utilisées aux fins de services sociaux, culturels et éducatifs.
 
 (4)
 
@@ -751,13 +751,13 @@ Les organismes de gestion collective qui octroient des licences multiterritorial
 
 Aux fins du paragraphe 1er, les organismes de gestion collective doivent remplir les conditions suivantes :
 
-1. avoir la capacité d’identifier avec précision les œuvres musicales, en tout ou en partie, que l’organisme de gestion collective est autorisé à représenter ;
+- avoir la capacité d’identifier avec précision les œuvres musicales, en tout ou en partie, que l’organisme de gestion collective est autorisé à représenter ;
 
-2. avoir la capacité d’identifier avec précision, en tout ou en partie, sur chaque territoire concerné, les droits et les titulaires de droits correspondants pour chaque œuvre musicale ou partie d’œuvre musicale que l’organisme de gestion collective est autorisé à représenter ;
+- avoir la capacité d’identifier avec précision, en tout ou en partie, sur chaque territoire concerné, les droits et les titulaires de droits correspondants pour chaque œuvre musicale ou partie d’œuvre musicale que l’organisme de gestion collective est autorisé à représenter ;
 
-3. faire usage d’identifiants uniques pour identifier les titulaires de droits et les œuvres musicales, en tenant compte, dans la mesure du possible, des normes et pratiques sectorielles volontaires élaborées à l’échelle internationale ou au niveau de l’Union ;
+- faire usage d’identifiants uniques pour identifier les titulaires de droits et les œuvres musicales, en tenant compte, dans la mesure du possible, des normes et pratiques sectorielles volontaires élaborées à l’échelle internationale ou au niveau de l’Union ;
 
-4. recourir à des moyens adéquats pour déceler et lever, avec rapidité et efficacité, les incohérences dans les données détenues par d’autres organismes de gestion collective qui octroient des licences multiterritoriales de droits en ligne sur des œuvres musicales.
+- recourir à des moyens adéquats pour déceler et lever, avec rapidité et efficacité, les incohérences dans les données détenues par d’autres organismes de gestion collective qui octroient des licences multiterritoriales de droits en ligne sur des œuvres musicales.
 
 <a id="art-25"></a>
 ## Art. 25.
@@ -768,11 +768,11 @@ Transparence de l’information sur les répertoires multiterritoriaux
 
 L’organisme de gestion collective qui octroie des licences multiterritoriales de droits en ligne sur des œuvres musicales est tenu de fournir par voie électronique, en réponse à une demande dûment justifiée, aux prestataires de services en ligne, aux titulaires de droits dont il représente les droits et aux autres organismes de gestion collective des informations actualisées permettant l’identification du répertoire de musique en ligne qu’il représente. Ces informations comprennent :
 
-1. les œuvres musicales représentées ;
+- les œuvres musicales représentées ;
 
-2. les droits représentés en tout ou en partie ; et
+- les droits représentés en tout ou en partie ; et
 
-3. les territoires couverts.
+- les territoires couverts.
 
 (2)
 
@@ -833,11 +833,11 @@ Sans préjudice du paragraphe 3, un organisme de gestion collective qui octroie 
 
 Sans préjudice du paragraphe 3, l’organisme de gestion collective fournit au moins les informations suivantes aux titulaires de droits, à l’appui de chaque versement qu’il effectue au titre du paragraphe 1er :
 
-1. la période au cours de laquelle ont eu lieu les utilisations pour lesquelles des sommes sont dues aux titulaires de droits ainsi que les territoires dans lesquels ces utilisations ont eu lieu ;
+- la période au cours de laquelle ont eu lieu les utilisations pour lesquelles des sommes sont dues aux titulaires de droits ainsi que les territoires dans lesquels ces utilisations ont eu lieu ;
 
-2. les sommes perçues, les déductions effectuées et les sommes distribuées par l’organisme de gestion collective pour chaque droit en ligne sur toute œuvre musicale que les titulaires de droits ont autorisé l’organisme de gestion collective à représenter en tout ou en partie;
+- les sommes perçues, les déductions effectuées et les sommes distribuées par l’organisme de gestion collective pour chaque droit en ligne sur toute œuvre musicale que les titulaires de droits ont autorisé l’organisme de gestion collective à représenter en tout ou en partie;
 
-3. les sommes perçues pour le compte des titulaires de droits, les déductions effectuées, et les sommes distribuées par l’organisme de gestion collective en ce qui concerne chaque prestataire de services en ligne.
+- les sommes perçues pour le compte des titulaires de droits, les déductions effectuées, et les sommes distribuées par l’organisme de gestion collective en ce qui concerne chaque prestataire de services en ligne.
 
 (3)
 
@@ -929,11 +929,11 @@ Procédures de règlement extrajudiciaire des litiges en matière d’octroi de 
 
 Aux fins du seul titre III, peuvent être soumis à une médiation selon les conditions prévues à la Deuxième Partie, Livre III, Titre II, du Nouveau Code de procédure civile, les litiges entre les organismes de gestion collective établis au Grand-Duché de Luxembourg qui octroient ou proposent d’octroyer des licences multiterritoriales de droits en ligne sur des œuvres musicales et :
 
-1. un prestataire de services en ligne actuel ou futur portant sur l’application des articles 17, 25, 26 et 27 ;
+- un prestataire de services en ligne actuel ou futur portant sur l’application des articles 17, 25, 26 et 27 ;
 
-2. un ou plusieurs titulaires de droits portant sur l’application des articles 25 à 31 ;
+- un ou plusieurs titulaires de droits portant sur l’application des articles 25 à 31 ;
 
-3. un autre organisme de gestion collective portant sur l’application des articles 25 à 30.
+- un autre organisme de gestion collective portant sur l’application des articles 25 à 30.
 
 <a id="art-35"></a>
 ## Art. 35.
@@ -975,13 +975,13 @@ Le ministre ayant les droits d’auteur et les droits voisins dans ses attributi
 
 L’autorisation et l’agrément sont refusés si :
 
-1. les demandes sont incomplètes ;
+- les demandes sont incomplètes ;
 
-2. les statuts ou les activités de l’organisme de gestion collective ne sont pas conformes à la loi ;
+- les statuts ou les activités de l’organisme de gestion collective ne sont pas conformes à la loi ;
 
-3. la ou les personnes qui gèrent les activités de l’organisme de gestion collective, sinon le mandataire général ou la personne qui exerce une fonction d’administrateur ou de gérant ou toute autre fonction conférant le pouvoir d’engager le mandataire général, ne possèdent pas l’honorabilité ou la qualité professionnelle nécessaire pour exercer leurs fonctions ;
+- la ou les personnes qui gèrent les activités de l’organisme de gestion collective, sinon le mandataire général ou la personne qui exerce une fonction d’administrateur ou de gérant ou toute autre fonction conférant le pouvoir d’engager le mandataire général, ne possèdent pas l’honorabilité ou la qualité professionnelle nécessaire pour exercer leurs fonctions ;
 
-4. les ressources humaines ou les moyens matériels ou financiers de l’organisme de gestion collective ne lui permettent pas d’assurer une gestion effective et efficace des droits qui lui sont confiés.
+- les ressources humaines ou les moyens matériels ou financiers de l’organisme de gestion collective ne lui permettent pas d’assurer une gestion effective et efficace des droits qui lui sont confiés.
 
 L’autorisation ou l’agrément demandé par un organisme de gestion collective ou un mandataire général aux fins d’octroyer des licences multiterritoriales de droits en ligne sur des œuvres musicales est refusé si l’organisme de gestion collective ne possède pas la capacité suffisante, telle que décrite à l’article 24.
 
@@ -1034,13 +1034,13 @@ Lorsque la personne poursuivie le demande endéans le délai imparti, elle doit 
 
 Le ministre ayant les droits d’auteur et les droits voisins dans ses attributions peut prononcer, par décision motivée, en fonction de la gravité des faits, l’une des sanctions suivantes :
 
-1. l’avertissement ;
+- l’avertissement ;
 
-2. l’injonction, assortie éventuellement d’une astreinte d’un montant ne pouvant pas dépasser 500 euros par jour ouvrable, d’adopter, dans un délai déterminé, une ou plusieurs décisions en vue de se conformer à la loi ;
+- l’injonction, assortie éventuellement d’une astreinte d’un montant ne pouvant pas dépasser 500 euros par jour ouvrable, d’adopter, dans un délai déterminé, une ou plusieurs décisions en vue de se conformer à la loi ;
 
-3. la révocation de l’autorisation, lorsque l’organisme de gestion collective est établi sur le territoire du Grand-Duché de Luxembourg, ou la révocation de l’agrément ;
+- la révocation de l’autorisation, lorsque l’organisme de gestion collective est établi sur le territoire du Grand-Duché de Luxembourg, ou la révocation de l’agrément ;
 
-4. une sanction pécuniaire, dont le montant, qui ne peut être supérieur à 3 pour cent du chiffre d’affaires ou des recettes hors taxes de l’organisme, du mandataire ou de l’entité concernée, est fixé en fonction de la gravité des manquements commis et en relation avec les avantages ou les profits éventuellement tirés de ces manquements ; ce maximum est porté à 5 pour cent, en cas de nouvelle violation de la même obligation dans les cinq ans suivant celle où la première violation de l’obligation a été sanctionnée.
+- une sanction pécuniaire, dont le montant, qui ne peut être supérieur à 3 pour cent du chiffre d’affaires ou des recettes hors taxes de l’organisme, du mandataire ou de l’entité concernée, est fixé en fonction de la gravité des manquements commis et en relation avec les avantages ou les profits éventuellement tirés de ces manquements ; ce maximum est porté à 5 pour cent, en cas de nouvelle violation de la même obligation dans les cinq ans suivant celle où la première violation de l’obligation a été sanctionnée.
 
 Le ministre ayant les droits d’auteur et les droits voisins dans ses attributions peut encore décider, par décision motivée, de publier la sanction sur le site internet du ministère pour une durée maximale d’un an en précisant l’identité de la personne poursuivie et la nature de la violation.
 
@@ -1078,9 +1078,9 @@ Utilisation d’œuvres et autres objets protégés indisponibles dans le commer
 
 Un organisme de gestion collective, conformément aux mandats donnés par un titulaire de droits ou un producteur de base de données, peut conclure un contrat de licence non exclusive à des fins non commerciales avec une institution du patrimoine culturel, en vue de la reproduction, la distribution, la communication au public ou la mise à disposition du public d’œuvres ou d’autres objets protégés indisponibles dans le commerce qui se trouvent à titre permanent dans la collection de l’institution, indépendamment du fait que tous les titulaires de droits couverts par la licence ou les producteurs de base de données concernés aient ou non mandaté l’organisme de gestion collective à cet égard, à condition :
 
-1. que l’organisme de gestion collective soit, en vertu de ses mandats, suffisamment représentatif des titulaires de droits ou des producteurs de bases de données en ce qui concerne le type d’œuvres ou autres objets protégés concerné, d’une part, et le type de droits qui font l’objet de la licence, d’autre part ; et
+- que l’organisme de gestion collective soit, en vertu de ses mandats, suffisamment représentatif des titulaires de droits ou des producteurs de bases de données en ce qui concerne le type d’œuvres ou autres objets protégés concerné, d’une part, et le type de droits qui font l’objet de la licence, d’autre part ; et
 
-2. qu’une égalité de traitement soit garantie à tous les titulaires de droits ou aux producteurs de bases de données en ce qui concerne les conditions de la licence.
+- qu’une égalité de traitement soit garantie à tous les titulaires de droits ou aux producteurs de bases de données en ce qui concerne les conditions de la licence.
 
 Un arrêté grand-ducal pourra déterminer les organismes de gestion collective qui, au Grand-Duché de Luxembourg, sont suffisamment représentatifs des titulaires de droits ou des producteurs de bases de données au sens de la lettre a).
 
@@ -1102,11 +1102,11 @@ Les licences visées au paragraphe 1er doivent être demandées auprès d’un o
 
 Le présent article ne s’applique pas aux ensembles d’œuvres ou d’autres objets protégés indisponibles dans le commerce si, sur la base des efforts raisonnables visés au paragraphe 3, il est prouvé que ces ensembles sont principalement constitués :
 
-1. d’œuvres ou autres objets protégés, autres que des œuvres cinématographiques ou audiovisuelles, ayant été publiés pour la première fois ou, en l’absence de publication, radiodiffusés pour la première fois dans un pays tiers ;
+- d’œuvres ou autres objets protégés, autres que des œuvres cinématographiques ou audiovisuelles, ayant été publiés pour la première fois ou, en l’absence de publication, radiodiffusés pour la première fois dans un pays tiers ;
 
-2. d’œuvres cinématographiques ou audiovisuelles dont les producteurs ont leur siège ou leur résidence habituelle dans un pays tiers ; ou
+- d’œuvres cinématographiques ou audiovisuelles dont les producteurs ont leur siège ou leur résidence habituelle dans un pays tiers ; ou
 
-3. d’œuvres ou autres objets protégés de ressortissants de pays tiers, lorsque, après avoir entrepris des efforts raisonnables, aucun État membre de l’Union européenne ou pays tiers n’a pu être déterminé en vertu des lettres a) et b).
+- d’œuvres ou autres objets protégés de ressortissants de pays tiers, lorsque, après avoir entrepris des efforts raisonnables, aucun État membre de l’Union européenne ou pays tiers n’a pu être déterminé en vertu des lettres a) et b).
 
 Par dérogation à l’alinéa 1er, le présent article s’applique lorsque l’organisme de gestion collective est suffisamment représentatif, au sens du paragraphe 1er, lettre a), des titulaires de droits ou des producteurs de bases de données du pays tiers concerné.
 
@@ -1133,11 +1133,11 @@ Dispositions modificatives
 
 La loi modifiée du 18 avril 2001 sur les droits d’auteur, les droits voisins et les bases de données est modifiée comme suit :
 
-1. L’intitulé de la Partie V prend la teneur suivante : Ve PARTIE - Commissaire aux droits d’auteur et droits voisins
+- L’intitulé de la Partie V prend la teneur suivante : Ve PARTIE - Commissaire aux droits d’auteur et droits voisins
 
-2. L’article 66 prend la teneur suivante : « Art. 66. Il est institué un commissaire aux droits d’auteur et droits voisins, désigné par le ministre ayant les droits d’auteur et les droits voisins dans ses attributions. Le commissaire est membre de la commission des droits d’auteur et des droits voisins instituée à l’article 92 » .
+- L’article 66 prend la teneur suivante : « Art. 66. Il est institué un commissaire aux droits d’auteur et droits voisins, désigné par le ministre ayant les droits d’auteur et les droits voisins dans ses attributions. Le commissaire est membre de la commission des droits d’auteur et des droits voisins instituée à l’article 92 » .
 
-3. L’article 61, paragraphe 1 er , prend la teneur suivante : Art. 61. Le droit de l’auteur et des titulaires de droits voisins d’autoriser ou d’interdire la retransmission par câble ne peut être exercé que par un organisme de gestion collective valablement autorisé ou un mandataire valablement agréé à agir sur le territoire luxembourgeois.
+- L’article 61, paragraphe 1 er , prend la teneur suivante : Art. 61. Le droit de l’auteur et des titulaires de droits voisins d’autoriser ou d’interdire la retransmission par câble ne peut être exercé que par un organisme de gestion collective valablement autorisé ou un mandataire valablement agréé à agir sur le territoire luxembourgeois.
 
 <a id="art-40"></a>
 ## Art. 40.

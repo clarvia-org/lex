@@ -35,25 +35,25 @@ Le jeu de hasard sur les appareils à sous des jeux de casino peut être pratiqu
 
 Le système de cartes de jeu électroniques mis en oeuvre doit remplir les conditions suivantes:
 
-1. Les cartes de jeu électroniques permettent de comptabiliser les montants prépayés par le client ainsi que les crédits et les gains réalisés sur les appareils à sous sans qu’aucune valeur pécuniaire ne soit chargée sur les cartes elles-mêmes.
+- Les cartes de jeu électroniques permettent de comptabiliser les montants prépayés par le client ainsi que les crédits et les gains réalisés sur les appareils à sous sans qu’aucune valeur pécuniaire ne soit chargée sur les cartes elles-mêmes.
 
-2. Les cartes de jeu électroniques ne sont valables qu’au sein du casino qui les a émises. Une mention y relative doit figurer sur chaque carte émise.
+- Les cartes de jeu électroniques ne sont valables qu’au sein du casino qui les a émises. Une mention y relative doit figurer sur chaque carte émise.
 
-3. Les cartes de jeu électroniques ne sont valables que pour les appareils à sous des jeux de casino et ne peuvent être utilisées pour d’autres services offerts ou prestés par le casino.
+- Les cartes de jeu électroniques ne sont valables que pour les appareils à sous des jeux de casino et ne peuvent être utilisées pour d’autres services offerts ou prestés par le casino.
 
-4. Les cartes de jeu électroniques sont dépourvues de toutes fonctions de carte de paiement, de crédit ou de débit.
+- Les cartes de jeu électroniques sont dépourvues de toutes fonctions de carte de paiement, de crédit ou de débit.
 
-5. Si une carte de jeu électronique indique un solde au profit du client, la somme correspondante lui est payée à sa demande.
+- Si une carte de jeu électronique indique un solde au profit du client, la somme correspondante lui est payée à sa demande.
 
-6. Les cartes de jeu électroniques ont une limite maximale de 2.000 euros par personne.
+- Les cartes de jeu électroniques ont une limite maximale de 2.000 euros par personne.
 
-7. Les cartes de jeu électroniques sont nominatives. Sur demande du client, une carte de jeu électronique journalière non nominative peut être émise dont la limite maximale est de 250 euros.
+- Les cartes de jeu électroniques sont nominatives. Sur demande du client, une carte de jeu électronique journalière non nominative peut être émise dont la limite maximale est de 250 euros.
 
-8. Le transfert d’argent entre deux cartes de jeu électroniques doit être impossible.
+- Le transfert d’argent entre deux cartes de jeu électroniques doit être impossible.
 
-9. Le système des cartes de jeu électroniques est soutenu par un dispositif informatique comportant une composante de sauvegarde permettant de récupérer les données informatiques même en cas de dysfonctionnement du système informatique principal.
+- Le système des cartes de jeu électroniques est soutenu par un dispositif informatique comportant une composante de sauvegarde permettant de récupérer les données informatiques même en cas de dysfonctionnement du système informatique principal.
 
-10. Le système des cartes de jeu électroniques enregistre toutes les opérations de jeu, effectuées sur chacun des appareils à sous muni de ce système, dont la comptabilisation est nécessaire pour la réalisation des écritures comptables et fiscales prévues au titre VI du règlement grand-ducal modifié du 12 février 1979 pris en exécution des articles 6 et 12 de la loi modifiée du 20 avril 1977 relative à l’exploitation des jeux de hasard et des paris relatifs aux épreuves sportives, ci-après désigné comme le « règlement grand-ducal du 12 février 1979 ».
+- Le système des cartes de jeu électroniques enregistre toutes les opérations de jeu, effectuées sur chacun des appareils à sous muni de ce système, dont la comptabilisation est nécessaire pour la réalisation des écritures comptables et fiscales prévues au titre VI du règlement grand-ducal modifié du 12 février 1979 pris en exécution des articles 6 et 12 de la loi modifiée du 20 avril 1977 relative à l’exploitation des jeux de hasard et des paris relatifs aux épreuves sportives, ci-après désigné comme le « règlement grand-ducal du 12 février 1979 ».
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -70,27 +70,27 @@ L’exploitation du système de cartes de jeu électroniques est sans préjudice
 
 Les dispositions du règlement grand-ducal du 12 février 1979 s’appliquent au système des cartes de jeu électroniques, sous réserve des dispositions suivantes:
 
-1. Sur les appareils à sous visés à l’article 3 dudit règlement, les enjeux peuvent également être représentés par des cartes de jeu électroniques.
+- Sur les appareils à sous visés à l’article 3 dudit règlement, les enjeux peuvent également être représentés par des cartes de jeu électroniques.
 
-2. La mise en oeuvre des appareils à sous au sens de l’article 16, alinéa 1, du même règlement peut également être effectuée par l’introduction d’une carte de jeu électronique et le gain visé à l’alinéa 2 du même article peut également être délivré par sa comptabilisation à l’aide d’une carte de jeu électronique.
+- La mise en oeuvre des appareils à sous au sens de l’article 16, alinéa 1, du même règlement peut également être effectuée par l’introduction d’une carte de jeu électronique et le gain visé à l’alinéa 2 du même article peut également être délivré par sa comptabilisation à l’aide d’une carte de jeu électronique.
 
-3. Le paiement du gain sur un appareil à sous visé à l’article 18-3 point 3 du même règlement peut également se faire par sa comptabilisation à l’aide d’une carte de jeu électronique.
+- Le paiement du gain sur un appareil à sous visé à l’article 18-3 point 3 du même règlement peut également se faire par sa comptabilisation à l’aide d’une carte de jeu électronique.
 
-4. Les appareils à sous munis du système de cartes de jeu électroniques peuvent être dépourvus de compteurs de pièces et de tokens au sens de l’article 18-3 point 5 du même règlement .
+- Les appareils à sous munis du système de cartes de jeu électroniques peuvent être dépourvus de compteurs de pièces et de tokens au sens de l’article 18-3 point 5 du même règlement .
 
-5. Les appareils à sous munis du système de cartes de jeu électroniques peuvent être dépourvus de monnayeurs comparateurs visés à l’article 18-4 du même règlement .
+- Les appareils à sous munis du système de cartes de jeu électroniques peuvent être dépourvus de monnayeurs comparateurs visés à l’article 18-4 du même règlement .
 
-6. Les appareils à sous munis du système de cartes de jeu électroniques peuvent être dépourvus des deux systèmes de réception des pièces de monnaie et des tokens visés à l’article 18-5 du même règlement .
+- Les appareils à sous munis du système de cartes de jeu électroniques peuvent être dépourvus des deux systèmes de réception des pièces de monnaie et des tokens visés à l’article 18-5 du même règlement .
 
-7. L’article 18-10 du même règlement ne s’applique pas si les gains y visés ont été comptabilisés sur une carte de jeu électronique et ceci dans les limites maximales visées aux points 5) et 6) de l’article 2 du présent règlement.
+- L’article 18-10 du même règlement ne s’applique pas si les gains y visés ont été comptabilisés sur une carte de jeu électronique et ceci dans les limites maximales visées aux points 5) et 6) de l’article 2 du présent règlement.
 
-8. Les dispositions de l’article 18-12 du même règlement relatives aux orphelins s’appliquent aux cartes de jeu électroniques non nominatives. Les cartes de jeu électroniques nominatives trouvées par ou remises à un membre du personnel du casino sont gardées à disposition par le casino pendant une semaine. Après l’expiration de ce délai, et en l’absence d’une demande du titulaire ou de son ayant droit en vue de la restitution de la carte ou du solde comptabilisé, ce dernier est considéré comme orphelin.
+- Les dispositions de l’article 18-12 du même règlement relatives aux orphelins s’appliquent aux cartes de jeu électroniques non nominatives. Les cartes de jeu électroniques nominatives trouvées par ou remises à un membre du personnel du casino sont gardées à disposition par le casino pendant une semaine. Après l’expiration de ce délai, et en l’absence d’une demande du titulaire ou de son ayant droit en vue de la restitution de la carte ou du solde comptabilisé, ce dernier est considéré comme orphelin.
 
-9. Les caisses spéciales visées à l’article 18-14 du même règlement doivent être en mesure d’effectuer toutes les opérations comptables liées au système de cartes de jeu électroniques.
+- Les caisses spéciales visées à l’article 18-14 du même règlement doivent être en mesure d’effectuer toutes les opérations comptables liées au système de cartes de jeu électroniques.
 
-10. Les sommes de jeux au sens de l’article 62 du même règlement peuvent également être représentées par les cartes de jeu électroniques.
+- Les sommes de jeux au sens de l’article 62 du même règlement peuvent également être représentées par les cartes de jeu électroniques.
 
-11. Les affiches visées à l’article 74 du même règlement qui concernent les appareils à sous sont à adapter afin de renseigner également sur l’utilisation du système de cartes de jeu électroniques.
+- Les affiches visées à l’article 74 du même règlement qui concernent les appareils à sous sont à adapter afin de renseigner également sur l’utilisation du système de cartes de jeu électroniques.
 
 <a id="art-6"></a>
 ## Art. 6.

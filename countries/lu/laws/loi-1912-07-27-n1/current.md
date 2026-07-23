@@ -448,6 +448,8 @@ Les lois des 2 mars 1885, 18 mars 1896, 18 juin 1898 et 26 décembre 1908, sur l
 
 Le texte de la présente loi, imprimé dans les langues française et allemande, sera affiché dans un endroit apparent de tout local mentionné à l’art. 1er de la présente loi, sous peine de douze francs d’amende contre le débitant.
 
+Dispositions transitoires.
+
 <a id="art-38"></a>
 ## Art. 38.
 

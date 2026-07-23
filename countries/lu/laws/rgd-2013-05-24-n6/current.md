@@ -33,17 +33,17 @@ L’école de l’armée, appelée «école» dans la suite du texte, fait parti
 
 L’école a pour objectifs:
 
-1. d’offrir aux soldats ayant accompli 36 mois de service militaire, la possibilité de se préparer à intégrer le monde du travail:
+- d’offrir aux soldats ayant accompli 36 mois de service militaire, la possibilité de se préparer à intégrer le monde du travail:
 
-- en contribuant à leur orientation à une formation professionnelle;
+  - en contribuant à leur orientation à une formation professionnelle;
 
-- en leur permettant de compléter leur formation scolaire de base;
+  - en leur permettant de compléter leur formation scolaire de base;
 
-- en organisant des cours de préparation aux examens-concours;
+  - en organisant des cours de préparation aux examens-concours;
 
-- en les préparant à leurs démarches d’embauche.
+  - en les préparant à leurs démarches d’embauche.
 
-2. d’organiser sur demande des autorités militaires des cours de remise à niveau et de préparation aux examens de promotion respectivement de carrière à l’intention du personnel militaire de carrière et civil de l’Armée.
+- d’organiser sur demande des autorités militaires des cours de remise à niveau et de préparation aux examens de promotion respectivement de carrière à l’intention du personnel militaire de carrière et civil de l’Armée.
 
 #### Chapitre 2. Organisation
 
@@ -121,7 +121,7 @@ Les cours théoriques sont suivis dans un lycée technique ou un autre établiss
 <a id="art-7"></a>
 ## Art. 7.
 
-L’Armée peut autoriser des stages d’orientation et d’initiation en milieu professionnel. Ces stages constituent des activités de service pour le soldat et peuvent se dérouler entièrement ou partiellement pendant les vacances scolaires.
+L’ Armée peut autoriser des stages d’orientation et d’initiation en milieu professionnel. Ces stages constituent des activités de service pour le soldat et peuvent se dérouler entièrement ou partiellement pendant les vacances scolaires.
 
 Pendant la durée du stage, le soldat n’est pas lié à l’entreprise par un contrat de travail et ne peut prétendre à aucune rémunération.
 

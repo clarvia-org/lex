@@ -56,9 +56,9 @@ Le candidat n’est pas autorisé à apporter des pièces supplémentaires aprè
 
 Le modèle du dossier de validation tel que prévu à l’article 47 de la loi du 19 décembre 2008 portant réforme de la formation professionnelle, est arrêté par le ministre. Il comprend deux étapes:
 
-1. La demande de recevabilité du dossier
+- La demande de recevabilité du dossier
 
-2. La demande de validation sur le fond.
+- La demande de validation sur le fond.
 
 La demande de recevabilité du dossier précise pour quel brevet, diplôme ou certificat et, le cas échéant, pour quel métier ou profession, le candidat entend se faire valider son expérience.
 
@@ -142,9 +142,9 @@ Le candidat peut recourir à tout organisme d’information et d’orientation r
 
 Les indemnités des membres de la commission et des experts de validation sont fixées comme suit:
 
-1. Indemnité pour la lecture et l’analyse d’un dossier: 21,56 € (indice 100).
+- Indemnité pour la lecture et l’analyse d’un dossier: 21,56 € (indice 100).
 
-2. Indemnité pour l’entretien, la mise en situation ainsi que pour la réunion préliminaire et la réunion d’évaluation: 4,31 € (indice 100) par heure.
+- Indemnité pour l’entretien, la mise en situation ainsi que pour la réunion préliminaire et la réunion d’évaluation: 4,31 € (indice 100) par heure.
 
 Le président et le secrétaire de la commission de validation se voient augmenter ces indemnités de 4,31 € (indice 100).
 

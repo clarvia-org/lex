@@ -34,15 +34,15 @@ Définitions.
 
 Pour l’application de la présente loi on entend par:
 
-1. Spécialité pharmaceutique: Tout médicament préparé à l’avance, mis sur le marché sous une dénomination spéciale et sous un conditionnement particulier.
+- Spécialité pharmaceutique: Tout médicament préparé à l’avance, mis sur le marché sous une dénomination spéciale et sous un conditionnement particulier.
 
-2. Médicament préfabriqué: Tout médicament, à l’exception de la spécialité pharmaceutique, préparé à l’avance, mis sur le marché sous forme pharmaceutique.
+- Médicament préfabriqué: Tout médicament, à l’exception de la spécialité pharmaceutique, préparé à l’avance, mis sur le marché sous forme pharmaceutique.
 
-3. Médicament: Toute substance ou composition présentée comme possédant des propriétés curatives ou préventives à l’égard des maladies humaines ou animales. Toute substance ou composition pouvant être administrée à l’homme ou à l’animal en vue d’établir un diagnostic médical ou de restaurer, corriger ou modifier des fonctions organiques chez l’homme ou l’animal est également considérée comme médicament.
+- Médicament: Toute substance ou composition présentée comme possédant des propriétés curatives ou préventives à l’égard des maladies humaines ou animales. Toute substance ou composition pouvant être administrée à l’homme ou à l’animal en vue d’établir un diagnostic médical ou de restaurer, corriger ou modifier des fonctions organiques chez l’homme ou l’animal est également considérée comme médicament.
 
-4. Substance: Toute matière qu’elle qu’en soit l’origine, celle-ci pouvant être: humaine, telle que: le sang humain et les produits dérivés du sang humain; animale, telle que: les micro-organismes, animaux entiers, parties d’organes, sécrétions animales, toxines, substances obtenues par extraction, produits dérivés du sang, etc.; végétale, telle que: les micro-organismes, parties de plantes, sécrétions végétales, substances obtenues par extraction etc.; chimique, telle que: les éléments, matières chimiques naturelles et les produits chimiques de transformation et de synthèse.
+- Substance: Toute matière qu’elle qu’en soit l’origine, celle-ci pouvant être: humaine, telle que: le sang humain et les produits dérivés du sang humain; animale, telle que: les micro-organismes, animaux entiers, parties d’organes, sécrétions animales, toxines, substances obtenues par extraction, produits dérivés du sang, etc.; végétale, telle que: les micro-organismes, parties de plantes, sécrétions végétales, substances obtenues par extraction etc.; chimique, telle que: les éléments, matières chimiques naturelles et les produits chimiques de transformation et de synthèse.
 
-5. Forme pharmaceutique: Toutes les formes utilisées en vue de l’administration ou de l’application d’un médicament
+- Forme pharmaceutique: Toutes les formes utilisées en vue de l’administration ou de l’application d’un médicament
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -74,9 +74,9 @@ Exception.
 
 Par dérogation aux articles 3 et 4 ci-dessus est autorisée la dispensation occasionnelle par le pharmacien d’officine d’un médicament couvert dans le pays d’origine par une autorisation de mise sur le marché, lorsqu’il est en possession:
 
-1. d’une ordonnance individuelle nominale pour le traitement d’un malade; ou
+- d’une ordonnance individuelle nominale pour le traitement d’un malade; ou
 
-2. d’une ordonnance médicale collective, motivée par la gravité et l’urgence d’un traitement en milieu hospitalier.
+- d’une ordonnance médicale collective, motivée par la gravité et l’urgence d’un traitement en milieu hospitalier.
 
 Le pharmacien d’officine doit consigner ces importations dans un registre spécial tenu uniquement à cet effet. Le registre et les copies d’ordonnances sont à soumettre au pharmacien-inspecteur lors de sa visite.
 
@@ -87,35 +87,35 @@ Le pharmacien d’officine doit consigner ces importations dans un registre spé
 
 Par dérogation aux articles 3 et 4, le ministre ayant la Santé dans ses attributions, le directeur de la santé entendu en son avis, peut :
 
-1. en cas de menace transfrontière grave pour la santé au sens de l’article 3 du règlement (UE) 2022/2371 du Parlement européen et du Conseil du 23 novembre 2022 concernant les menaces transfrontières graves pour la santé et abrogeant la décision n° 1082/2013/UE ;
+- en cas de menace transfrontière grave pour la santé au sens de l’article 3 du règlement (UE) 2022/2371 du Parlement européen et du Conseil du 23 novembre 2022 concernant les menaces transfrontières graves pour la santé et abrogeant la décision n° 1082/2013/UE ;
 
-2. en cas d’urgence de santé publique de portée internationale au sens de l’article 1 er , alinéa 1 er , du règlement sanitaire international de 2005 ;
+- en cas d’urgence de santé publique de portée internationale au sens de l’article 1 er , alinéa 1 er , du règlement sanitaire international de 2005 ;
 
-3. en prévention ou en réponse à la propagation suspectée ou confirmée d’agents pathogènes, de toxines, d’agents chimiques ou de radiations nucléaires, qui sont susceptibles de causer des dommages ;
+- en prévention ou en réponse à la propagation suspectée ou confirmée d’agents pathogènes, de toxines, d’agents chimiques ou de radiations nucléaires, qui sont susceptibles de causer des dommages ;
 
-4. en cas d’une situation mettant en péril la continuité des soins ;
+- en cas d’une situation mettant en péril la continuité des soins ;
 
 autoriser :
 
-1. l’importation, l’acquisition et la livraison en vue du stockage d’un médicament ne disposant pas d’autorisation de mise sur le marché au Grand-Duché de Luxembourg ;
+- l’importation, l’acquisition et la livraison en vue du stockage d’un médicament ne disposant pas d’autorisation de mise sur le marché au Grand-Duché de Luxembourg ;
 
-2. l’usage temporaire d’un médicament ne disposant pas d’autorisation de mise sur le marché au Grand-Duché de Luxembourg ;
+- l’usage temporaire d’un médicament ne disposant pas d’autorisation de mise sur le marché au Grand-Duché de Luxembourg ;
 
-3. l’usage temporaire d’un médicament en dehors de l’autorisation de mise sur le marché.
+- l’usage temporaire d’un médicament en dehors de l’autorisation de mise sur le marché.
 
 (2)
 
 Sans préjudice des dispositions de la loi modifiée du 21 avril 1989 relative à la responsabilité civile du fait des produits défectueux, la responsabilité civile et administrative :
 
-1. du titulaire de l’autorisation de mise sur le marché ;
+- du titulaire de l’autorisation de mise sur le marché ;
 
-2. des fabricants et des importateurs disposant d’une autorisation conformément à la loi modifiée du 4 août 1975 concernant la fabrication et l’importation des médicaments ;
+- des fabricants et des importateurs disposant d’une autorisation conformément à la loi modifiée du 4 août 1975 concernant la fabrication et l’importation des médicaments ;
 
-3. des distributeurs en gros disposant d’une autorisation conformément à la loi modifiée du 6 janvier 1995 relative à la distribution en gros des médicaments ;
+- des distributeurs en gros disposant d’une autorisation conformément à la loi modifiée du 6 janvier 1995 relative à la distribution en gros des médicaments ;
 
-4. du médecin autorisé à exercer sa profession conformément à la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire ;
+- du médecin autorisé à exercer sa profession conformément à la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire ;
 
-5. du pharmacien autorisé à exercer sa profession conformément à la loi modifiée du 31 juillet 1991 déterminant les conditions d’autorisation d’exercer la profession de pharmacien
+- du pharmacien autorisé à exercer sa profession conformément à la loi modifiée du 31 juillet 1991 déterminant les conditions d’autorisation d’exercer la profession de pharmacien
 
 n’est pas engagée pour l’ensemble des conséquences résultant de la mise sur le marché et de l’usage du médicament ne disposant pas d’autorisation de mise sur le marché ou de l’usage du médicament en dehors de l’autorisation de mise sur le marché si la mise sur le marché et l’usage du médicament concerné ont été autorisés conformément au présent paragraphe.
 
@@ -206,11 +206,11 @@ Refus de l’autorisation.
 
 Le ministre de la Santé refuse l’autorisation de mise sur le marché lorsque, après vérification des renseignements et des documents prévus par la présente loi et les règlements pris en son exécution, il apparaît que;
 
-1. le médicament est nocif dans les conditions normales d’emploi;
+- le médicament est nocif dans les conditions normales d’emploi;
 
-2. l’effet thérapeutique fait défaut ou est insuffisamment justifié par le demandeur;
+- l’effet thérapeutique fait défaut ou est insuffisamment justifié par le demandeur;
 
-3. le médicament n’a pas la composition qualitative ou quantitative déclarée.
+- le médicament n’a pas la composition qualitative ou quantitative déclarée.
 
 L’autorisation est également refusée si la documentation et les renseignements présentés à l’appui de la demande ne sont pas conformes aux dispositions de la présente loi et des règlements pris en son exécution.
 
@@ -221,9 +221,9 @@ Cas spéciaux de refus.
 
 L’autorisation est également refusée lorsque:
 
-1. le nom du médicament présente une homonymie avec un médicament déjà présent sur le marché et de composition différente;
+- le nom du médicament présente une homonymie avec un médicament déjà présent sur le marché et de composition différente;
 
-2. le nom du médicament est susceptible d’induire en erreur ou de provoquer du fait d’une paronymie la confusion quant à son activité thérapeutique.
+- le nom du médicament est susceptible d’induire en erreur ou de provoquer du fait d’une paronymie la confusion quant à son activité thérapeutique.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -253,15 +253,15 @@ Suspension ou retrait de l’autorisation.
 
 Le ministre de la Santé suspend ou retire l’autorisation de mise sur le marché d’un médicament lorsqu’il apparaît que
 
-1. le médicament est nocif dans les conditions normales d’emploi
+- le médicament est nocif dans les conditions normales d’emploi
 
-2. l’effet thérapeutique fait défaut
+- l’effet thérapeutique fait défaut
 
-3. le médicament n’a pas la composition qualitative ou quantitative déclarée
+- le médicament n’a pas la composition qualitative ou quantitative déclarée
 
-4. l’autorisation n’est pas suivie d’une mise sur le marché effective du médicament endéans un délai à fixer par règlement grand-ducal, ou lorsque le médicament n’est plus effectivement maintenu sur le marché pendant une période correspondant au prédit délai.
+- l’autorisation n’est pas suivie d’une mise sur le marché effective du médicament endéans un délai à fixer par règlement grand-ducal, ou lorsque le médicament n’est plus effectivement maintenu sur le marché pendant une période correspondant au prédit délai.
 
-5. le titulaire de l’autorisation contrevient à l’une des obligations qui lui incombent en vertu de l’article 7, alinéas 2 et 3.
+- le titulaire de l’autorisation contrevient à l’une des obligations qui lui incombent en vertu de l’article 7, alinéas 2 et 3.
 
 Le ministre peut suspendre l’autorisation lorsqu’il existe une présomption grave que le médicament est nocif dans les conditions normales d’emploi.
 
@@ -276,11 +276,11 @@ Interdiction de délivrance d’un lot.
 
 Le ministre de la Santé peut interdire la délivrance d’un ou de plusieurs lots d’un médicament et ordonner au titulaire de l’autorisation leur retrait du marché lorsque:
 
-1. la composition qualitative ou quantitative effective n’est pas conforme à la composition déclarée;
+- la composition qualitative ou quantitative effective n’est pas conforme à la composition déclarée;
 
-2. il n’est pas justifié que les contrôles prescrits ont été effectués sur les composants, sur le produit fini et en cours de fabrication;
+- il n’est pas justifié que les contrôles prescrits ont été effectués sur les composants, sur le produit fini et en cours de fabrication;
 
-3. les dispositions légales relatives à l’étiquetage et à la notice n’ont pas été respectées.
+- les dispositions légales relatives à l’étiquetage et à la notice n’ont pas été respectées.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -383,9 +383,9 @@ Les autorisations de mise sur le marché accordées en vertu de la loi du 4 aoû
 
 Les autorisations de mise sur le marché en vertu de la loi du 23 mai 1958 portant
 
-1. réglementation générale de la vente, du débit et de la publicité des spécialités pharmaceutiques dans le Grand-Duché de Luxembourg;
+- réglementation générale de la vente, du débit et de la publicité des spécialités pharmaceutiques dans le Grand-Duché de Luxembourg;
 
-2. création d’un poste de pharmacien-inspecteur restent valables jusqu’au 20 mai 1990.
+- création d’un poste de pharmacien-inspecteur restent valables jusqu’au 20 mai 1990.
 
 En vue du renouvellement de l’autorisation au-delà de cette date une demande répondant aux exigences de l’article 6 ci-dessus doit être présentée au plus tard le 20 mai 1989 au ministre de la Santé. L’article 9 ci-dessus est applicable à la nouvelle autorisation.
 

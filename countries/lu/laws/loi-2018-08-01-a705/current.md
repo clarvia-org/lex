@@ -80,9 +80,9 @@ Un règlement grand-ducal détermine le fonctionnement du conseil, les méthodes
 
 Font l’objet d’une déclaration obligatoire avec transmission de données individuelles des cas diagnostiqués au directeur de la Santé ou à son délégué, ci-après « l’autorité sanitaire », par les médecins, médecins-dentistes et les responsables des laboratoires d’analyses médicales :
 
-1. les maladies qui nécessitent une intervention urgente locale, nationale ou internationale ;
+- les maladies qui nécessitent une intervention urgente locale, nationale ou internationale ;
 
-2. les maladies dont la surveillance est nécessaire à la conduite et à l’évaluation de la politique de santé publique.
+- les maladies dont la surveillance est nécessaire à la conduite et à l’évaluation de la politique de santé publique.
 
 (2)
 
@@ -101,19 +101,19 @@ Le médecin ou le médecin-dentiste, qui, dans le cadre de son activité établi
 
 La déclaration comprend au moins les données individuelles suivantes :
 
-1. nom, prénom du patient et son adresse ;
+- nom, prénom du patient et son adresse ;
 
-2. date de naissance et sexe du patient ;
+- date de naissance et sexe du patient ;
 
-3. diagnostic médical ;
+- diagnostic médical ;
 
-4. date des 1 ers symptômes ;
+- date des 1 ers symptômes ;
 
-5. date du diagnostic ;
+- date du diagnostic ;
 
-6. pays où la maladie a été contractée ;
+- pays où la maladie a été contractée ;
 
-7. source d’infection si connue.
+- source d’infection si connue.
 
 <a id="art-3bis"></a>
 ## Art. 3bis.
@@ -126,13 +126,13 @@ La personne autorisée à exercer une profession de santé au sens de la loi mod
 
 En vue de la surveillance épidémiologique, la personne visée au paragraphe 1er transmet, conformément au paragraphe 2 de l’article 2, à l’autorité sanitaire un document daté et signé contenant les données pertinentes dont elle a connaissance. Cette déclaration comprend au moins les données individuelles suivantes :
 
-1. nom, prénom du patient et son adresse ;
+- nom, prénom du patient et son adresse ;
 
-2. date de naissance et sexe du patient ;
+- date de naissance et sexe du patient ;
 
-3. date du test ;
+- date du test ;
 
-4. source d’infection si connue.
+- source d’infection si connue.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -145,15 +145,15 @@ Le responsable de laboratoire d’analyses médicales, qui dans le cadre de son 
 
 La déclaration comprend au moins les données individuelles suivantes :
 
-1. nom, prénom du patient et son adresse ;
+- nom, prénom du patient et son adresse ;
 
-2. date de naissance et sexe du patient ;
+- date de naissance et sexe du patient ;
 
-3. date de prélèvement ;
+- date de prélèvement ;
 
-4. origine du prélèvement ;
+- origine du prélèvement ;
 
-5. diagnostic médical.
+- diagnostic médical.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -204,49 +204,49 @@ Ce même règlement grand-ducal fixe pour chaque maladie une liste avec le déla
 
 Tout laboratoire national de référence doit répondre aux critères ci-après :
 
-1. Garantir une expertise nationale concernant la microbiologie, la pathologie des agents infectieux et leur sensibilité aux agents anti-infectieux, et plus particulièrement :
+- Garantir une expertise nationale concernant la microbiologie, la pathologie des agents infectieux et leur sensibilité aux agents anti-infectieux, et plus particulièrement :
 
-- identifier et caractériser les agents infectieux transférés par les laboratoires d’analyses médicales ;
+  - identifier et caractériser les agents infectieux transférés par les laboratoires d’analyses médicales ;
 
-- maintenir des collections nationales d’agents infectieux, d’antigènes, de marqueurs épidémiologiques et d’immun-sérums de référence ;
+  - maintenir des collections nationales d’agents infectieux, d’antigènes, de marqueurs épidémiologiques et d’immun-sérums de référence ;
 
-- participer à la mise au point, à l’évaluation et aux recommandations concernant les techniques de diagnostic, d’identification et de typage ;
+  - participer à la mise au point, à l’évaluation et aux recommandations concernant les techniques de diagnostic, d’identification et de typage ;
 
-- participer à la surveillance de la résistance des agents infectieux aux anti-infectieux ;
+  - participer à la surveillance de la résistance des agents infectieux aux anti-infectieux ;
 
-- maintenir un système d’assurance qualité, notamment par la participation à des contrôles de qualité externes.
+  - maintenir un système d’assurance qualité, notamment par la participation à des contrôles de qualité externes.
 
-2. Contribuer à la surveillance épidémiologique aux niveaux national et international, et plus particulièrement :
+- Contribuer à la surveillance épidémiologique aux niveaux national et international, et plus particulièrement :
 
-- participer à l’investigation de phénomènes épidémiques ;
+  - participer à l’investigation de phénomènes épidémiques ;
 
-- mettre à disposition et transmettre électroniquement des données selon les modalités déterminées par l’autorité sanitaire et des organismes internationaux ;
+  - mettre à disposition et transmettre électroniquement des données selon les modalités déterminées par l’autorité sanitaire et des organismes internationaux ;
 
-- participer aux réseaux de surveillance internationaux, notamment l’« European Centre for Disease Prevention and Control » (ECDC) et l’Organisation mondiale de la Santé (OMS) ;
+  - participer aux réseaux de surveillance internationaux, notamment l’« European Centre for Disease Prevention and Control » (ECDC) et l’Organisation mondiale de la Santé (OMS) ;
 
-- contribuer à la détection et à l’analyse d’infections nosocomiales ;
+  - contribuer à la détection et à l’analyse d’infections nosocomiales ;
 
-- surveiller l’évolution et les caractéristiques des agents infectieux ;
+  - surveiller l’évolution et les caractéristiques des agents infectieux ;
 
-- si indiqué, contribuer à l’étude de la couverture immunitaire de la population par les vaccins.
+  - si indiqué, contribuer à l’étude de la couverture immunitaire de la population par les vaccins.
 
-3. Alerter l’autorité sanitaire de toute constatation pouvant avoir des répercussions sur l’état de santé de la population, et plus particulièrement :
+- Alerter l’autorité sanitaire de toute constatation pouvant avoir des répercussions sur l’état de santé de la population, et plus particulièrement :
 
-- signaler à l’autorité sanitaire tout phénomène (plus particulièrement l’augmentation excessive des cas de maladies, détection de cas groupés, de cas isolés d’une maladie rare, d’identification d’un nouvel agent infectieux, l’apparition de nouvelles formes cliniques ou d’une variation ou mutation d’un agent infectieux connu) ;
+  - signaler à l’autorité sanitaire tout phénomène (plus particulièrement l’augmentation excessive des cas de maladies, détection de cas groupés, de cas isolés d’une maladie rare, d’identification d’un nouvel agent infectieux, l’apparition de nouvelles formes cliniques ou d’une variation ou mutation d’un agent infectieux connu) ;
 
-- informer l’autorité sanitaire concernant des évènements de même nature dans des pays étrangers ;
+  - informer l’autorité sanitaire concernant des évènements de même nature dans des pays étrangers ;
 
-- contribuer à des enquêtes à la demande de l’autorité sanitaire.
+  - contribuer à des enquêtes à la demande de l’autorité sanitaire.
 
-4. Conseiller les pouvoirs publics et les professionnels de la santé, et plus particulièrement :
+- Conseiller les pouvoirs publics et les professionnels de la santé, et plus particulièrement :
 
-- participer à l’élaboration de mesures de lutte contre les infections ;
+  - participer à l’élaboration de mesures de lutte contre les infections ;
 
-- répondre aux demandes d’expertise ;
+  - répondre aux demandes d’expertise ;
 
-- donner des conseils techniques aux professionnels de la santé.
+  - donner des conseils techniques aux professionnels de la santé.
 
-5. Satisfaire aux normes et aux réglementations légales en matière de biosécurité, ainsi qu’aux exigences fixées par la législation applicable aux laboratoires d’analyses médicales.
+- Satisfaire aux normes et aux réglementations légales en matière de biosécurité, ainsi qu’aux exigences fixées par la législation applicable aux laboratoires d’analyses médicales.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -310,37 +310,46 @@ Le montant de l'avertissement taxé ainsi que les modes du paiement sont fixés 
 
 La loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire est modifiée comme suit :
 
-1. l’article 17 est supprimé ;
+- l’article 17 est supprimé ;
 
-2. à l’article 42, au paragraphe 1 er , la référence à l’article 17 est supprimée.
+- à l’article 42, au paragraphe 1 er , la référence à l’article 17 est supprimée.
 
 <a id="art-14"></a>
 ## Art. 14.
 
-L’article 1er paragraphe 2, de la loi modifiée du 16 juillet 1984 relative aux laboratoires d’analyses médicales est complété par un deuxième alinéa, libellé comme suit :Ne constituent pas un examen biologique au sens de la présente loi un test, un recueil et un traitement de signaux biologiques, à visées de dépistage, d’orientation diagnostique ou d’adaptation thérapeutique immédiate.
+L’article 1er paragraphe 2, de la loi modifiée du 16 juillet 1984 relative aux laboratoires d’analyses médicales est complété par un deuxième alinéa, libellé comme suit :
+
+Ne constituent pas un examen biologique au sens de la présente loi un test, un recueil et un traitement de signaux biologiques, à visées de dépistage, d’orientation diagnostique ou d’adaptation thérapeutique immédiate.
 
 <a id="art-15"></a>
 ## Art. 15.
 
-À l’article 1er, paragraphe 1er, alinéa 3, de la loi modifiée du 16 janvier 1990 relative aux dispositifs médicaux est rajouté un sixième tiret libellé comme suit :prévoir une formation en vue de l’utilisation d’un tel dispositif et en définir les modalités ».
+À l’article 1er, paragraphe 1er, alinéa 3, de la loi modifiée du 16 janvier 1990 relative aux dispositifs médicaux est rajouté un sixième tiret libellé comme suit :
+
+- prévoir une formation en vue de l’utilisation d’un tel dispositif et en définir les modalités ».
 
 <a id="art-16"></a>
 ## Art. 16.
 
 La loi modifiée du 8 juin 1999 relative au Collège médical est modifiée comme suit :
 
-Entre les articles 9 et 10 est inséré un nouvel article 9bis qui prend la teneur suivante :Art. 9bis.Par dérogation à l’article 9 paragraphe 1er, les psychothérapeutes autorisés à exercer la psychothérapie au Luxembourg dans les six années qui suivent l’entrée en vigueur de la loi du 14 juillet 2015 portant création de la profession de psychothérapeute, ne doivent pas satisfaire à la condition d’exercice professionnel de cinq ans pour être éligibles.
+Entre les articles 9 et 10 est inséré un nouvel article 9bis qui prend la teneur suivante :
+
+<a id="art-9bis"></a>
+## Art. 9bis.
+
+Par dérogation à l’article 9 paragraphe 1er, les psychothérapeutes autorisés à exercer la psychothérapie au Luxembourg dans les six années qui suivent l’entrée en vigueur de la loi du 14 juillet 2015 portant création de la profession de psychothérapeute, ne doivent pas satisfaire à la condition d’exercice professionnel de cinq ans pour être éligibles.
 
 <a id="art-17"></a>
 ## Art. 17.
 
 La loi du 24 mai 2018 sur les conditions d’hygiène et de salubrité relatives à la pratique des techniques de tatouage par effraction cutanée, du perçage, du branding, cutting, ainsi que du bronzage UV est modifiée comme suit :
 
-1. À l’article 7 paragraphe 2 et à l’article 8 paragraphe 1 er point 8, la référence à l’article 7 est remplacée par la référence à l’article 6.
+- À l’article 7 paragraphe 2 et à l’article 8 paragraphe 1 er point 8, la référence à l’article 7 est remplacée par la référence à l’article 6.
 
-2. À l’article 8 paragraphe 3 point 1 et point 2, la référence à l’article 5 est remplacée par la référence à l’article 4.
+- À l’article 8 paragraphe 3 point 1 et point 2, la référence à l’article 5 est remplacée par la référence à l’article 4.
 
-3. À l’article 14, les références aux articles 10, 11, 12, 13 et 14 sont remplacées par les références aux articles 9, 10, 11, 12 et 13.
+- À l’article 14, les références aux articles 10, 11, 12, 13 et 14 sont remplacées par les références aux articles 9, 10, 11, 12 et 13.
 
 <a id="art-18"></a>
 ## Art. 18.
@@ -350,4 +359,6 @@ La présente loi entre en vigueur le 1er janvier 2019 à l’exception des artic
 <a id="art-19"></a>
 ## Art. 19.
 
-La référence à la présente loi se fait sous la forme suivante :« loi du 1er août 2018 sur la déclaration obligatoire de certaines maladies dans le cadre de la protection de la santé publique ».
+La référence à la présente loi se fait sous la forme suivante :
+
+« loi du 1er août 2018 sur la déclaration obligatoire de certaines maladies dans le cadre de la protection de la santé publique ».

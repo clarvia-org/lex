@@ -55,11 +55,11 @@ L’Administration de l’environnement met en œuvre les contrôles nécessaire
 
 Ces contrôles portent sur :
 
-1. la conformité des substances actives biocides, des produits biocides, ou des articles traités visés par la présente loi, le règlement (UE), ainsi qu’aux règlements pris en leur exécution ;
+- la conformité des substances actives biocides, des produits biocides, ou des articles traités visés par la présente loi, le règlement (UE), ainsi qu’aux règlements pris en leur exécution ;
 
-2. la mise à disposition sur le marché et l’utilisation de ces substances active biocides, produits biocides et articles ;
+- la mise à disposition sur le marché et l’utilisation de ces substances active biocides, produits biocides et articles ;
 
-3. les enregistrements prévus par l’article 3.
+- les enregistrements prévus par l’article 3.
 
 (5)
 
@@ -145,17 +145,17 @@ Un règlement grand-ducal peut préciser les modalités d’application de la pr
 
 L’accord dont question à l’article 4, paragraphe 2, alinéa 2 peut être retiré par le ministre :
 
-1. s’il prend connaissance d’éléments sérieux indiquant qu’un produit biocide notifié présente un risque inacceptable pour la santé humaine ou animale ou pour l’environnement ;
+- s’il prend connaissance d’éléments sérieux indiquant qu’un produit biocide notifié présente un risque inacceptable pour la santé humaine ou animale ou pour l’environnement ;
 
-2. s’il est établi qu’une ou plusieurs des conditions dont question à l’article 4, paragraphe 2, alinéa 2 ne sont pas respectées ;
+- s’il est établi qu’une ou plusieurs des conditions dont question à l’article 4, paragraphe 2, alinéa 2 ne sont pas respectées ;
 
-3. s’il apparaît que la notification a été acceptée sur base de données fausses ou fallacieuses ;
+- s’il apparaît que la notification a été acceptée sur base de données fausses ou fallacieuses ;
 
-4. sur demande ou communication du responsable de la mise sur le marché visé à l’article 4 ;
+- sur demande ou communication du responsable de la mise sur le marché visé à l’article 4 ;
 
-5. si un produit notifié n’entre plus dans le champ d’application du règlement (UE) et de la présente loi.
+- si un produit notifié n’entre plus dans le champ d’application du règlement (UE) et de la présente loi.
 
-6. si le responsable de la mise sur le marché ne peut plus être contacté sur base des coordonnées de contact fournies.
+- si le responsable de la mise sur le marché ne peut plus être contacté sur base des coordonnées de contact fournies.
 
 (2)
 
@@ -185,19 +185,19 @@ Les conditions et les modalités de détermination des frais réels peuvent êtr
 
 Les demandes visées ci-après sont soumises à paiement de redevances conformément à l’article 80, paragraphe 2 du règlement (UE). Elles sont introduites auprès de l’Administration de l’environnement. Elles s’appliquent aux:
 
-1. demandes d’autorisation ou de notification d’un produit biocide;
+- demandes d’autorisation ou de notification d’un produit biocide;
 
-2. demandes d’approbation ou d’inscription en annexe I du règlement (UE) d’une substance active biocide;
+- demandes d’approbation ou d’inscription en annexe I du règlement (UE) d’une substance active biocide;
 
-3. demandes de réexamen ou de modification d’autorisation d’un produit biocide;
+- demandes de réexamen ou de modification d’autorisation d’un produit biocide;
 
-4. demandes de réexamen ou de modification de notification d’un produit biocide;
+- demandes de réexamen ou de modification de notification d’un produit biocide;
 
-5. réexamens d’approbation ou d’inscription en annexe I du règlement (UE) d’une substance active biocide;
+- réexamens d’approbation ou d’inscription en annexe I du règlement (UE) d’une substance active biocide;
 
-6. renouvellements de l’approbation d’une substance active biocide;
+- renouvellements de l’approbation d’une substance active biocide;
 
-7. renouvellements d’autorisation ou de notifications d’un produit biocide.
+- renouvellements d’autorisation ou de notifications d’un produit biocide.
 
 (3)
 
@@ -253,71 +253,71 @@ Le ministre ayant la Santé dans ses attributions peut confier à un organisme, 
 
 En cas d’infraction aux dispositions de la présente loi, le ministre peut :
 
-1. interdire ou restreindre temporairement, pendant la période nécessaire au contrôle, toute mise à disposition sur le marché et utilisation de substances actives biocides, de produits biocides ou d’articles traités lorsqu’il existe des indices précis et convergents concernant leur non-conformité, et imposer les mesures d’accompagnement requises pour assurer le respect de cette interdiction ou restriction ;
+- interdire ou restreindre temporairement, pendant la période nécessaire au contrôle, toute mise à disposition sur le marché et utilisation de substances actives biocides, de produits biocides ou d’articles traités lorsqu’il existe des indices précis et convergents concernant leur non-conformité, et imposer les mesures d’accompagnement requises pour assurer le respect de cette interdiction ou restriction ;
 
-2. ordonner des mesures correctives relatives à la mise à disposition sur le marché et l’utilisation de substances actives biocides, de produits biocides ou d’articles traités ;
+- ordonner des mesures correctives relatives à la mise à disposition sur le marché et l’utilisation de substances actives biocides, de produits biocides ou d’articles traités ;
 
-3. ordonner que les personnes susceptibles d’être exposées au risque découlant de ces substances actives biocides, de produits biocides ou d’articles traités, soient averties de ce risque en temps utile et sous une forme appropriée, y compris par la publication de ces avertissements ;
+- ordonner que les personnes susceptibles d’être exposées au risque découlant de ces substances actives biocides, de produits biocides ou d’articles traités, soient averties de ce risque en temps utile et sous une forme appropriée, y compris par la publication de ces avertissements ;
 
-4. impartir respectivement au fabricant de substances actives biocides, de produits biocides ou d’articles traités, au responsable de la mise à disposition sur le marché d’un produit biocide ou d’un article traité visés par la présente loi, un délai dans lequel ces derniers doivent se conformer à la loi, au règlement (UE) et à leurs règlements d’exécution, délai qui ne peut être supérieur à quatre mois ;
+- impartir respectivement au fabricant de substances actives biocides, de produits biocides ou d’articles traités, au responsable de la mise à disposition sur le marché d’un produit biocide ou d’un article traité visés par la présente loi, un délai dans lequel ces derniers doivent se conformer à la loi, au règlement (UE) et à leurs règlements d’exécution, délai qui ne peut être supérieur à quatre mois ;
 
-5. faire suspendre, en tout ou en partie, l’activité par mesure provisoire ou faire fermer le local, l’installation ou le site, en tout ou en partie, et apposer des scellés ;
+- faire suspendre, en tout ou en partie, l’activité par mesure provisoire ou faire fermer le local, l’installation ou le site, en tout ou en partie, et apposer des scellés ;
 
-6. ordonner une mesure d’interdiction de la mise à disposition sur le marché ou d’interdiction d’utilisation de substances actives biocides, produits biocides et d’articles traités ;
+- ordonner une mesure d’interdiction de la mise à disposition sur le marché ou d’interdiction d’utilisation de substances actives biocides, produits biocides et d’articles traités ;
 
-7. enjoindre au responsable de la mise à disposition sur le marché à assurer la récupération et l’élimination des de substances actives biocides, produits biocides et d’articles traités ;
+- enjoindre au responsable de la mise à disposition sur le marché à assurer la récupération et l’élimination des de substances actives biocides, produits biocides et d’articles traités ;
 
-8. requérir la communication de l’identité de tout opérateur économique faisant partie de la chaîne de distribution de substances actives biocides, de produits biocides ou d’articles traités qui ne sont pas conformes.
+- requérir la communication de l’identité de tout opérateur économique faisant partie de la chaîne de distribution de substances actives biocides, de produits biocides ou d’articles traités qui ne sont pas conformes.
 
 (2)
 
 Le ministre peut infliger une amende administrative de 75 euros à 2 000 euros à quiconque :
 
-1. n’observe pas le régime linguistique visé à l’article 2, paragraphe 2 ;
+- n’observe pas le régime linguistique visé à l’article 2, paragraphe 2 ;
 
-2. ne procède pas à l’enregistrement en vertu de l’article 3 ;
+- ne procède pas à l’enregistrement en vertu de l’article 3 ;
 
-3. ne maintient pas à jour les informations soumises dans le cadre d’un enregistrement ou n’en informe pas le ministre conformément à l’article 3, paragraphe 4 ;
+- ne maintient pas à jour les informations soumises dans le cadre d’un enregistrement ou n’en informe pas le ministre conformément à l’article 3, paragraphe 4 ;
 
-4. met à disposition sur le marché un produit biocide sans avoir respecté les conditions afférentes dont question à l’article 4, paragraphe 2, alinéa 2 ;
+- met à disposition sur le marché un produit biocide sans avoir respecté les conditions afférentes dont question à l’article 4, paragraphe 2, alinéa 2 ;
 
-5. ne tient pas à jour les informations soumises dans le cadre d’une notification ou n’informe pas le ministre conformément à l’article 4, paragraphe 3, alinéa 2 ;
+- ne tient pas à jour les informations soumises dans le cadre d’une notification ou n’informe pas le ministre conformément à l’article 4, paragraphe 3, alinéa 2 ;
 
-6. met à disposition sur le marché un produit biocide malgré une décision de retrait en vertu de l’article 5, paragraphe 1 er ;
+- met à disposition sur le marché un produit biocide malgré une décision de retrait en vertu de l’article 5, paragraphe 1 er ;
 
-7. ne fournit pas les informations dont question à l’article 58, paragraphe 5, du règlement (UE) .
+- ne fournit pas les informations dont question à l’article 58, paragraphe 5, du règlement (UE) .
 
 (3)
 
 Le ministre peut infliger une amende administrative de 500 euros à 10 000 euros à quiconque :
 
-1. met à disposition sur le marché un produit biocide sans avoir soumis de notification préalable conformément à l’article 4 ;
+- met à disposition sur le marché un produit biocide sans avoir soumis de notification préalable conformément à l’article 4 ;
 
-2. met à disposition sur le marché un produit biocide en cas d’absence d’accord ou en cas de refus en vertu de l’article 4, paragraphe 2, alinéa 2 ;
+- met à disposition sur le marché un produit biocide en cas d’absence d’accord ou en cas de refus en vertu de l’article 4, paragraphe 2, alinéa 2 ;
 
-3. met à disposition sur le marché un produit biocide sans avoir respecté les exigences relatives à la classification, l’emballage et l’étiquetage dont question à l’article 4, paragraphe 2, alinéa 3 ;
+- met à disposition sur le marché un produit biocide sans avoir respecté les exigences relatives à la classification, l’emballage et l’étiquetage dont question à l’article 4, paragraphe 2, alinéa 3 ;
 
-4. met à disposition sur le marché un produit biocide au-delà de la période limite dont question à l’article 5, paragraphe 2 ;
+- met à disposition sur le marché un produit biocide au-delà de la période limite dont question à l’article 5, paragraphe 2 ;
 
-5. agit en violation des articles 69, 70 et 72 du règlement (UE) ;
+- agit en violation des articles 69, 70 et 72 du règlement (UE) ;
 
-6. agit en violation de l’article 58, paragraphes 3, 4 et 6 du règlement (UE) ;
+- agit en violation de l’article 58, paragraphes 3, 4 et 6 du règlement (UE) ;
 
-7. ne soumet pas les informations dont question à l’article 8 ;
+- ne soumet pas les informations dont question à l’article 8 ;
 
-8. agit en violation de l’article 17, paragraphe 5, du règlement (UE) ;
+- agit en violation de l’article 17, paragraphe 5, du règlement (UE) ;
 
-9. utilise un produit biocide en violation des articles 17, paragraphes 1 er ou 6, 27 ou 53 du règlement (UE) ;
+- utilise un produit biocide en violation des articles 17, paragraphes 1 er ou 6, 27 ou 53 du règlement (UE) ;
 
-10. utilise des produits biocides dont les substances actives ne répondent pas aux exigences de l’article 19, paragraphe 1 er , lettre a), du règlement (UE) ou de l’article 25, lettre a), du règlement (UE) ;
+- utilise des produits biocides dont les substances actives ne répondent pas aux exigences de l’article 19, paragraphe 1 er , lettre a), du règlement (UE) ou de l’article 25, lettre a), du règlement (UE) ;
 
-11. utilise un produit biocide en l’absence de l’autorisation visée à l’article 55, paragraphes 1 er , 2 ou 3 du règlement (UE) ou au-delà des périodes respectives y visées ;
+- utilise un produit biocide en l’absence de l’autorisation visée à l’article 55, paragraphes 1 er , 2 ou 3 du règlement (UE) ou au-delà des périodes respectives y visées ;
 
-12. utilise ou manque à l’obligation d’éliminer les stocks existants de produits biocides au-delà des dates butoirs visées aux articles 89, paragraphes 3 et 4, ou 93 du règlement (UE) , ou au-delà d’une période de grâce selon l’article 52 du règlement (UE) ;
+- utilise ou manque à l’obligation d’éliminer les stocks existants de produits biocides au-delà des dates butoirs visées aux articles 89, paragraphes 3 et 4, ou 93 du règlement (UE) , ou au-delà d’une période de grâce selon l’article 52 du règlement (UE) ;
 
-13. met à disposition des produits biocides au-delà des dates butoirs spécifiées aux articles 89 et 93 du règlement (UE) ;
+- met à disposition des produits biocides au-delà des dates butoirs spécifiées aux articles 89 et 93 du règlement (UE) ;
 
-14. met à disposition sur le marché un produit biocide en violation des conditions applicables à la mise à disposition, énoncées en vertu de l’article 22 du règlement (UE) dans l’autorisation afférente au produit ou en vertu des règlements pris en exécution du règlement (UE) .
+- met à disposition sur le marché un produit biocide en violation des conditions applicables à la mise à disposition, énoncées en vertu de l’article 22 du règlement (UE) dans l’autorisation afférente au produit ou en vertu des règlements pris en exécution du règlement (UE) .
 
 (4)
 
@@ -340,23 +340,23 @@ Dès qu’il a été constaté qu’il a été mis fin aux non-conformités ayan
 
 Les infractions à la présente loi et à ses règlements d’exécution sont constatées par:
 
-1. les agents de l’Administration des Douanes et Accises à partir du grade de brigadier principal,
+- les agents de l’Administration des Douanes et Accises à partir du grade de brigadier principal,
 
-2. le directeur, les directeurs adjoints et les employés et fonctionnaires des groupes de traitement A1 et A2 de l’Administration de l’environnement,
+- le directeur, les directeurs adjoints et les employés et fonctionnaires des groupes de traitement A1 et A2 de l’Administration de l’environnement,
 
-3. le directeur et les fonctionnaires de la carrière des ingénieurs et des ingénieurs techniciens de l’Administration des services techniques de l’Agriculture,
+- le directeur et les fonctionnaires de la carrière des ingénieurs et des ingénieurs techniciens de l’Administration des services techniques de l’Agriculture,
 
-4. les fonctionnaires de la carrière des ingénieurs et des ingénieurs techniciens de l’Unité de contrôle du Ministère de l’Agriculture, de la Viticulture et de la Protection du consommateur,
+- les fonctionnaires de la carrière des ingénieurs et des ingénieurs techniciens de l’Unité de contrôle du Ministère de l’Agriculture, de la Viticulture et de la Protection du consommateur,
 
-5. les fonctionnaires de la carrière du médecin vétérinaire et du vétérinaire-inspecteur de l’Administration des services vétérinaires,
+- les fonctionnaires de la carrière du médecin vétérinaire et du vétérinaire-inspecteur de l’Administration des services vétérinaires,
 
-6. les membres de l’inspectorat du travail de l’Inspection du travail et des mines,
+- les membres de l’inspectorat du travail de l’Inspection du travail et des mines,
 
-7. le directeur, les directeurs adjoints, les médecins, pharmaciens et ingénieurs de la Direction de la Santé,
+- le directeur, les directeurs adjoints, les médecins, pharmaciens et ingénieurs de la Direction de la Santé,
 
-8. le directeur, le directeur adjoint et les fonctionnaires de la carrière supérieure et les ingénieurs techniciens de l’Administration de la Gestion de l’eau,
+- le directeur, le directeur adjoint et les fonctionnaires de la carrière supérieure et les ingénieurs techniciens de l’Administration de la Gestion de l’eau,
 
-9. le directeur et les fonctionnaires de la carrière de l’ingénieur et ingénieur technicien de l’Institut luxembourgeois de la normalisation, de l’accréditation et de la sécurité et qualité des produits et services.
+- le directeur et les fonctionnaires de la carrière de l’ingénieur et ingénieur technicien de l’Institut luxembourgeois de la normalisation, de l’accréditation et de la sécurité et qualité des produits et services.
 
 (2)
 
@@ -385,23 +385,23 @@ Ils signalent leur présence au chef du local, de l’installation ou du site ou
 
 Les membres de la Police grand-ducale relevant du cadre policier et les personnes visées à l’article 10 sont habilités à:
 
-1. demander communication, dans un délai ne pouvant dépasser un mois, de tous les registres, de toutes les écritures et de tous les documents relatifs aux substances, produits et articles visés par la présente loi, les pièces rédigées dans une langue autre que le français, l’allemand ou l’anglais devant être accompagnées d’une traduction dans une de ces langues;
+- demander communication, dans un délai ne pouvant dépasser un mois, de tous les registres, de toutes les écritures et de tous les documents relatifs aux substances, produits et articles visés par la présente loi, les pièces rédigées dans une langue autre que le français, l’allemand ou l’anglais devant être accompagnées d’une traduction dans une de ces langues;
 
-2. prélever, aux fins d’examen ou d’analyse, des échantillons de substances, produits ou articles visés par la présente loi. Les échantillons sont pris contre délivrance d’un accusé de réception. Une partie de l’échantillon ou une unité du produit ou de l’article échantillonné du même lot de production, cachetée ou scellée, est remise au chef du local, de l’installation ou du site ou à celui qui le remplace, à moins que celui-ci n’y renonce expressément;
+- prélever, aux fins d’examen ou d’analyse, des échantillons de substances, produits ou articles visés par la présente loi. Les échantillons sont pris contre délivrance d’un accusé de réception. Une partie de l’échantillon ou une unité du produit ou de l’article échantillonné du même lot de production, cachetée ou scellée, est remise au chef du local, de l’installation ou du site ou à celui qui le remplace, à moins que celui-ci n’y renonce expressément;
 
-3. saisir et au besoin mettre sous séquestre ces substances, produits et articles, ainsi que les matières employées dans leur fabrication, de même que les registres, écritures et documents les concernant.
+- saisir et au besoin mettre sous séquestre ces substances, produits et articles, ainsi que les matières employées dans leur fabrication, de même que les registres, écritures et documents les concernant.
 
 (2bis)
 
 Les membres de la Police grand-ducale relevant du cadre policier et les personnes visées à l’article 10 ne sont pas tenus de signaler leur présence lors des vérifications effectuées dans les parties librement accessibles au public d’un établissement de vente lors :
 
-1. de la recherche de substances actives biocides, produits biocides et articles traités non conformes ;
+- de la recherche de substances actives biocides, produits biocides et articles traités non conformes ;
 
-2. de la vérification des étiquettes sur les substances actives biocides, produits biocides et articles traités, ou leurs emballages, sans pour autant les désemballer ;
+- de la vérification des étiquettes sur les substances actives biocides, produits biocides et articles traités, ou leurs emballages, sans pour autant les désemballer ;
 
-3. du contrôle à l’œil nu de critères de conformité facilement perceptibles sans altération, destruction ou démontage des substances actives biocides, produits biocides ou articles traités ;
+- du contrôle à l’œil nu de critères de conformité facilement perceptibles sans altération, destruction ou démontage des substances actives biocides, produits biocides ou articles traités ;
 
-4. de l’achat de substances actives biocides, produits biocides et articles traités, pour effectuer les contrôles prévus par la présente loi.
+- de l’achat de substances actives biocides, produits biocides et articles traités, pour effectuer les contrôles prévus par la présente loi.
 
 (3)
 
@@ -420,29 +420,29 @@ En cas de condamnation, les frais occasionnés par les mesures prises en vertu d
 
 Est puni d’un emprisonnement d’un à trois ans et d’une amende de 251 à 500 000 euros, ou d’une de ces peines seulement, quiconque :
 
-1. fait obstacle aux opérations de contrôle visées à l’article 11 ;
+- fait obstacle aux opérations de contrôle visées à l’article 11 ;
 
-2. ne respecte pas les mesures imposées en vertu de l’article 9, paragraphe 1 er ;
+- ne respecte pas les mesures imposées en vertu de l’article 9, paragraphe 1 er ;
 
-3. met à disposition sur le marché un produit biocide en violation des articles 17, paragraphes 1 er ou 6, 27 ou 53 du règlement (UE) ;
+- met à disposition sur le marché un produit biocide en violation des articles 17, paragraphes 1 er ou 6, 27 ou 53 du règlement (UE) ;
 
-4. met à disposition sur le marché des produits biocides dont les substances actives ne répondent pas aux exigences de l’article 19, paragraphe 1 er , lettre a), du règlement (UE) ou de l’article 25, lettre a), du règlement (UE) ;
+- met à disposition sur le marché des produits biocides dont les substances actives ne répondent pas aux exigences de l’article 19, paragraphe 1 er , lettre a), du règlement (UE) ou de l’article 25, lettre a), du règlement (UE) ;
 
-5. agit en violation de l’article 47 du règlement (UE) ;
+- agit en violation de l’article 47 du règlement (UE) ;
 
-6. agit en violation de l’article 95, paragraphe 2, du règlement (UE) ;
+- agit en violation de l’article 95, paragraphe 2, du règlement (UE) ;
 
-7. met à disposition sur le marché un produit biocide pour lequel l’autorisation a été annulée en vertu de l’article 48 du règlement (UE) ou un produit biocide qui n’est pas conforme à une autorisation modifiée en vertu du même article ;
+- met à disposition sur le marché un produit biocide pour lequel l’autorisation a été annulée en vertu de l’article 48 du règlement (UE) ou un produit biocide qui n’est pas conforme à une autorisation modifiée en vertu du même article ;
 
-8. met à disposition sur le marché un produit biocide en l’absence de l’autorisation visée à l’article 55, paragraphes 1 er , 2 ou 3 du règlement (UE) ou au-delà des périodes respectives y visées ;
+- met à disposition sur le marché un produit biocide en l’absence de l’autorisation visée à l’article 55, paragraphes 1 er , 2 ou 3 du règlement (UE) ou au-delà des périodes respectives y visées ;
 
-9. met sur le marché un produit biocide qui ne répond pas à l’autorisation afférente au produit énoncée en vertu de l’article 22 du règlement (UE) ou en vertu des règlements pris en exécution du règlement (UE) ;
+- met sur le marché un produit biocide qui ne répond pas à l’autorisation afférente au produit énoncée en vertu de l’article 22 du règlement (UE) ou en vertu des règlements pris en exécution du règlement (UE) ;
 
-10. agit en violation de l’article 56 du règlement (UE) ;
+- agit en violation de l’article 56 du règlement (UE) ;
 
-11. met à disposition sur le marché un article traité non conforme aux exigences de l’article 58, paragraphe 2, du règlement (UE) ou en violation des mesures dont question à l’article 94 du règlement (UE) ;
+- met à disposition sur le marché un article traité non conforme aux exigences de l’article 58, paragraphe 2, du règlement (UE) ou en violation des mesures dont question à l’article 94 du règlement (UE) ;
 
-12. ne tient pas le registre tel que visé aux articles 65, paragraphe 2, alinéa 2, ou 68 du règlement (UE) , ou refuse la production de ces registres.
+- ne tient pas le registre tel que visé aux articles 65, paragraphe 2, alinéa 2, ou 68 du règlement (UE) , ou refuse la production de ces registres.
 
 <a id="art-13"></a>
 ## Art. 13.

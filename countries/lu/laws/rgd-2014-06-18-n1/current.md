@@ -88,21 +88,21 @@ Pour les Luxembourgeois âgés de moins de six ans, ainsi que pour ceux qui sont
 
 La carte d'identité doit être renouvelée:
 
-1. lorsque la carte a été perdue ou volée;
+- lorsque la carte a été perdue ou volée;
 
-2. à l'expiration de la période de validité;
+- à l'expiration de la période de validité;
 
-3. en cas de déménagement;
+- en cas de déménagement;
 
-4. lorsque la photographie du titulaire n'est plus ressemblante;
+- lorsque la photographie du titulaire n'est plus ressemblante;
 
-5. lorsque la carte est détériorée;
+- lorsque la carte est détériorée;
 
-6. lorsque le titulaire change de nom ou lorsqu'il souhaite ajouter ou retirer le nom de son conjoint vivant ou prédécédé;
+- lorsque le titulaire change de nom ou lorsqu'il souhaite ajouter ou retirer le nom de son conjoint vivant ou prédécédé;
 
-7. lorsque le titulaire change son prénom ou l'un de ses deux ou trois premiers prénoms;
+- lorsque le titulaire change son prénom ou l'un de ses deux ou trois premiers prénoms;
 
-8. lorsque le titulaire reçoit un autre numéro d'identification visé à l'article 1 er de la loi du 19 juin 2013 relative à l'identification des personnes physiques.
+- lorsque le titulaire reçoit un autre numéro d'identification visé à l'article 1 er de la loi du 19 juin 2013 relative à l'identification des personnes physiques.
 
 <a id="art-5-1"></a>
 ## Art. 5-1.
@@ -127,11 +127,11 @@ Le corps de la carte se compose d’un polycarbonate et comporte des éléments 
 
 La carte d’identité comporte au bord supérieur du recto de gauche à droite :
 
-1. le code pays à deux lettres (LU) imprimé en négatif dans un rectangle bleu et entouré de douze étoiles jaunes ;
+- le code pays à deux lettres (LU) imprimé en négatif dans un rectangle bleu et entouré de douze étoiles jaunes ;
 
-2. l’entité émettrice « Grand-Duché de LUXEMBOURG - Grand-Duchy of Luxembourg - Grossherzogtum von Luxemburg - LËTZEBUERG » et ;
+- l’entité émettrice « Grand-Duché de LUXEMBOURG - Grand-Duchy of Luxembourg - Grossherzogtum von Luxemburg - LËTZEBUERG » et ;
 
-3. la mention « Carte d’identité - Identity Card - Personalausweis ».
+- la mention « Carte d’identité - Identity Card - Personalausweis ».
 
 La carte porte en outre au recto le nom, le prénom ou les deux ou trois premiers prénoms, le sexe, la nationalité, la date de naissance, le numéro de la carte d’identité, le numéro CAN (Card Access Number), la date de fin de validité ainsi que la signature numérisée du titulaire.
 

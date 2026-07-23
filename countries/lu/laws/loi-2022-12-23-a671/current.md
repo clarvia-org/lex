@@ -32,27 +32,27 @@ Définitions
 
 Au sens de la présente loi, on entend par :
 
-1. « fournisseur » : fournisseur de granulés de bois en vrac approvisionnant des bâtiments comprenant au moins une unité d’habitation au Grand-Duché du Luxembourg ;
+- « fournisseur » : fournisseur de granulés de bois en vrac approvisionnant des bâtiments comprenant au moins une unité d’habitation au Grand-Duché du Luxembourg ;
 
-2. « ministre » : le membre du Gouvernement ayant l’Énergie dans ses attributions ;
+- « ministre » : le membre du Gouvernement ayant l’Énergie dans ses attributions ;
 
-3. « tranche » : ensemble d’avances au titre de la compensation financière visée à l’article 2 correspondant à trois mois consécutifs que l’État accorde et verse aux fournisseurs inscrits au registre visé à l’article 3, conformément à un calendrier déterminé. Ainsi, on entend par :
+- « tranche » : ensemble d’avances au titre de la compensation financière visée à l’article 2 correspondant à trois mois consécutifs que l’État accorde et verse aux fournisseurs inscrits au registre visé à l’article 3, conformément à un calendrier déterminé. Ainsi, on entend par :
 
-1. « première tranche » : les avances pour les mois de janvier, février et mars 2023 ;
+  - « première tranche » : les avances pour les mois de janvier, février et mars 2023 ;
 
-2. « deuxième tranche » : les avances pour les mois d’avril, mai et juin 2023 ;
+  - « deuxième tranche » : les avances pour les mois d’avril, mai et juin 2023 ;
 
-3. « troisième tranche » : les avances pour les mois de juillet, août et septembre 2023 ;
+  - « troisième tranche » : les avances pour les mois de juillet, août et septembre 2023 ;
 
-4. « quatrième tranche » : les avances pour les mois d’octobre, novembre et décembre 2023 ;
+  - « quatrième tranche » : les avances pour les mois d’octobre, novembre et décembre 2023 ;
 
-5. « cinquième tranche » : les avances pour les mois de janvier, février et mars 2024 ;
+  - « cinquième tranche » : les avances pour les mois de janvier, février et mars 2024 ;
 
-6. « sixième tranche » : les avances pour les mois d’avril, mai et juin 2024 ;
+  - « sixième tranche » : les avances pour les mois d’avril, mai et juin 2024 ;
 
-7. « septième tranche » : les avances pour les mois de juillet, août et septembre 2024 ;
+  - « septième tranche » : les avances pour les mois de juillet, août et septembre 2024 ;
 
-8. « huitième tranche » : les avances pour les mois d’octobre, novembre et décembre 2024.
+  - « huitième tranche » : les avances pour les mois d’octobre, novembre et décembre 2024.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -82,11 +82,11 @@ Registre des fournisseurs éligibles à une compensation financière
 
 Afin de pouvoir bénéficier de la compensation financière prévue à l’article 2, paragraphe 2, les fournisseurs adressent au plus tard un mois après l’entrée en vigueur de la présente loi une demande d’inscription au registre tenu par le ministre, moyennant un formulaire spécifique mis à disposition par ce dernier et qui renseigne sur les informations suivantes :
 
-1. le nom, l’adresse, le numéro du registre de commerce et des sociétés et le numéro de TVA du fournisseur ;
+- le nom, l’adresse, le numéro du registre de commerce et des sociétés et le numéro de TVA du fournisseur ;
 
-2. l’identité bancaire du fournisseur ;
+- l’identité bancaire du fournisseur ;
 
-3. la quantité de granulés de bois livrée au cours des douze derniers mois à des bâtiments comprenant au moins une unité d’habitation ;
+- la quantité de granulés de bois livrée au cours des douze derniers mois à des bâtiments comprenant au moins une unité d’habitation ;
 
 (2)
 
@@ -105,21 +105,21 @@ Dans la décision visée à l’alinéa 1er, ou à l’article 6, paragraphe 5, 
 
 Le montant de ces avances mensuelles correspond à 200 euros par tonne appliqué à 90 pour cent de la quantité, déclarée conformément à l’article 3, paragraphe 1er, point 3°, et, le cas échéant, à l’article 6, paragraphes 2 et 5, alinéa 1er, de granulés de bois vendue par le fournisseur concerné :
 
-1. au cours des mois de janvier, février et mars 2022 pour les avances de la première tranche ;
+- au cours des mois de janvier, février et mars 2022 pour les avances de la première tranche ;
 
-2. au cours des mois d’avril, mai et juin 2022 pour les avances de la deuxième tranche ;
+- au cours des mois d’avril, mai et juin 2022 pour les avances de la deuxième tranche ;
 
-3. au cours des mois de juillet, août et septembre 2022 pour les avances de la troisième tranche ;
+- au cours des mois de juillet, août et septembre 2022 pour les avances de la troisième tranche ;
 
-4. au cours des mois d’octobre, novembre et décembre 2022 pour les avances de la quatrième tranche ;
+- au cours des mois d’octobre, novembre et décembre 2022 pour les avances de la quatrième tranche ;
 
-5. au cours des mois de janvier, février et mars 2023 pour les avances de la cinquième tranche ;
+- au cours des mois de janvier, février et mars 2023 pour les avances de la cinquième tranche ;
 
-6. au cours des mois d’avril, mai et juin 2023 pour les avances de la sixième tranche ;
+- au cours des mois d’avril, mai et juin 2023 pour les avances de la sixième tranche ;
 
-7. au cours des mois de juillet, août et septembre 2023 pour les avances de la septième tranche ;
+- au cours des mois de juillet, août et septembre 2023 pour les avances de la septième tranche ;
 
-8. au cours des mois d’octobre, novembre et décembre 2023 pour les avances de la huitième tranche.
+- au cours des mois d’octobre, novembre et décembre 2023 pour les avances de la huitième tranche.
 
 (2)
 
@@ -129,21 +129,21 @@ La décision visée au paragraphe 1er précise la date et les modalités des pro
 
 Les avances sont imputées au Fonds climat et énergie et versées par le ministre ayant l’Environnement dans ses attributions :
 
-1. dans les trois semaines après la notification de la décision visée au paragraphe 1 er pour la première tranche ;
+- dans les trois semaines après la notification de la décision visée au paragraphe 1 er pour la première tranche ;
 
-2. au plus tard le 1 er avril 2023 pour la deuxième tranche ;
+- au plus tard le 1 er avril 2023 pour la deuxième tranche ;
 
-3. au plus tard le 1 er juillet 2023 pour la troisième tranche ;
+- au plus tard le 1 er juillet 2023 pour la troisième tranche ;
 
-4. au plus tard le 1 er octobre 2023 pour la quatrième tranche ;
+- au plus tard le 1 er octobre 2023 pour la quatrième tranche ;
 
-5. au plus tard le 1 er janvier 2024 pour la cinquième tranche ;
+- au plus tard le 1 er janvier 2024 pour la cinquième tranche ;
 
-6. au plus tard le 1 er avril 2024 pour la sixième tranche ;
+- au plus tard le 1 er avril 2024 pour la sixième tranche ;
 
-7. au plus tard le 1 er juillet 2024 pour la septième tranche ;
+- au plus tard le 1 er juillet 2024 pour la septième tranche ;
 
-8. au plus tard le 1 er octobre 2024 pour la huitième tranche.
+- au plus tard le 1 er octobre 2024 pour la huitième tranche.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -152,19 +152,19 @@ Obligations de précision
 
 Les fournisseurs inscrits indiquent, sous peine d’inéligibilité des ventes concernées pour une compensation financière, de manière clairement visible sur leur facture :
 
-1. la quantité de granulés de bois vendue en tonnes ;
+- la quantité de granulés de bois vendue en tonnes ;
 
-2. le prix de vente, toutes taxes comprises, hors réduction, exprimé en euros par tonne ;
+- le prix de vente, toutes taxes comprises, hors réduction, exprimé en euros par tonne ;
 
-3. le montant de la réduction de prix appliquée et l’intitulé de la présente loi ;
+- le montant de la réduction de prix appliquée et l’intitulé de la présente loi ;
 
-4. le prix final toutes taxes comprises, après application de la réduction, exprimé en euros par tonne ;
+- le prix final toutes taxes comprises, après application de la réduction, exprimé en euros par tonne ;
 
-5. le nom, l’adresse et le numéro du registre de commerce et des sociétés du fournisseur ;
+- le nom, l’adresse et le numéro du registre de commerce et des sociétés du fournisseur ;
 
-6. le nom et l’adresse du client ;
+- le nom et l’adresse du client ;
 
-7. le cas échéant, si celle-ci ne correspond pas à l’adresse de facturation visée au point 6°, l’adresse de livraison.
+- le cas échéant, si celle-ci ne correspond pas à l’adresse de facturation visée au point 6°, l’adresse de livraison.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -175,11 +175,11 @@ Déclaration des réductions de prix appliquées et décompte intermédiaire
 
 Les fournisseurs ayant bénéficié d’avances en vertu de l’article 4, déclarent, au plus tard aux dates butoirs respectives fixées au paragraphe 2, les informations suivantes moyennant un formulaire mis à disposition par le ministre :
 
-1. les ventes réalisées dans la période respective telle que fixée au paragraphe 2 ;
+- les ventes réalisées dans la période respective telle que fixée au paragraphe 2 ;
 
-2. les réductions de prix appliquées au cours de la période prévue au point 1° ;
+- les réductions de prix appliquées au cours de la période prévue au point 1° ;
 
-3. le montant total de l’ensemble des réductions de prix appliquées pendant la période prévue au point 1°.
+- le montant total de l’ensemble des réductions de prix appliquées pendant la période prévue au point 1°.
 
 Sont jointes à cette déclaration des copies de toutes les factures portant sur les ventes visées à l’alinéa 1er, point 1°, ainsi que des déclarations sur l’honneur signées par les acheteurs confirmant la véracité des informations quant au nombre d’unités d’habitation dans le bâtiment sis à l’adresse de livraison.
 
@@ -187,21 +187,21 @@ Sont jointes à cette déclaration des copies de toutes les factures portant sur
 
 La déclaration intermédiaire prévue au paragraphe 1er :
 
-1. portant sur les ventes réalisées au cours des mois de janvier, février et mars 2023 est introduite auprès du ministre au plus tard le 1 er mai 2023 ;
+- portant sur les ventes réalisées au cours des mois de janvier, février et mars 2023 est introduite auprès du ministre au plus tard le 1 er mai 2023 ;
 
-2. portant sur les ventes réalisées au cours des mois d’avril, mai et juin 2023 est introduite auprès du ministre au plus tard le 1 er août 2023 ;
+- portant sur les ventes réalisées au cours des mois d’avril, mai et juin 2023 est introduite auprès du ministre au plus tard le 1 er août 2023 ;
 
-3. portant sur les ventes réalisées au cours des mois de juillet, août et septembre 2023 est introduite auprès du ministre au plus tard le 1 er novembre 2023 ;
+- portant sur les ventes réalisées au cours des mois de juillet, août et septembre 2023 est introduite auprès du ministre au plus tard le 1 er novembre 2023 ;
 
-4. portant sur les ventes réalisées au cours des mois d’octobre, novembre et décembre 2023 est introduite auprès du ministre au plus tard le 1 er février 2024 ;
+- portant sur les ventes réalisées au cours des mois d’octobre, novembre et décembre 2023 est introduite auprès du ministre au plus tard le 1 er février 2024 ;
 
-5. portant sur les ventes réalisées au cours des mois de janvier, février et mars 2024 est introduite auprès du ministre au plus tard le 1 er mai 2024 ;
+- portant sur les ventes réalisées au cours des mois de janvier, février et mars 2024 est introduite auprès du ministre au plus tard le 1 er mai 2024 ;
 
-6. portant sur les ventes réalisées au cours des mois d’avril, mai et juin 2024 est introduite auprès du ministre au plus tard le 1 er août 2024 ;
+- portant sur les ventes réalisées au cours des mois d’avril, mai et juin 2024 est introduite auprès du ministre au plus tard le 1 er août 2024 ;
 
-7. portant sur les ventes réalisées au cours des mois de juillet, août et septembre 2024 est introduite auprès du ministre au plus tard le 1 er novembre 2024 ;
+- portant sur les ventes réalisées au cours des mois de juillet, août et septembre 2024 est introduite auprès du ministre au plus tard le 1 er novembre 2024 ;
 
-8. portant sur les ventes réalisées au cours des mois d’octobre, novembre et décembre 2024 est introduite auprès du ministre au plus tard le 1 er février 2025.
+- portant sur les ventes réalisées au cours des mois d’octobre, novembre et décembre 2024 est introduite auprès du ministre au plus tard le 1 er février 2025.
 
 (3)
 
@@ -219,13 +219,13 @@ Afin de bénéficier de l’octroi d’une troisième et d’une quatrième tran
 
 Sauf notification contraire du fournisseur :
 
-1. la déclaration visée au paragraphe 2, point 3°, vaut demande d’octroi de la cinquième et sixième tranches ;
+- la déclaration visée au paragraphe 2, point 3°, vaut demande d’octroi de la cinquième et sixième tranches ;
 
-2. la déclaration visée au paragraphe 2, point 4°, vaut demande d’octroi de la sixième tranche ;
+- la déclaration visée au paragraphe 2, point 4°, vaut demande d’octroi de la sixième tranche ;
 
-3. la déclaration visée au paragraphe 2, point 5°, vaut demande d’octroi de la septième tranche ;
+- la déclaration visée au paragraphe 2, point 5°, vaut demande d’octroi de la septième tranche ;
 
-4. la déclaration visée au paragraphe 2, point 6°, vaut demande d’octroi de la huitième tranche.
+- la déclaration visée au paragraphe 2, point 6°, vaut demande d’octroi de la huitième tranche.
 
 Le ministre examine sommairement les informations déclarées conformément à l’alinéa 1er et prend une décision relative aux demandes visées aux alinéas 1er et 2 , qu’il notifie, dans les 15 jours qui suivent l’échéance du délai respectif pour déposer les déclarations visées à l’alinéa 1er ou 2 , au demandeur ainsi qu’au ministre ayant l’Environnement dans ses attributions aux fins de payement des avances.
 
@@ -248,9 +248,9 @@ Par dérogation à l’article 6, paragraphe 5, alinéa 1er, le fournisseur dont
 
 Par dérogation à l’article 6, paragraphe 5, alinéa 2 :
 
-1. le fournisseur dont la demande n’a pas été introduite endéans le délai prévu à l’article 6, paragraphe 2, point 3°, ne se voit accorder que la sixième tranche ;
+- le fournisseur dont la demande n’a pas été introduite endéans le délai prévu à l’article 6, paragraphe 2, point 3°, ne se voit accorder que la sixième tranche ;
 
-2. le fournisseur dont la demande n’a pas été introduite endéans le délai prévu à l’article 6, paragraphe 2, point 5°, ne se voit accorder que la huitième tranche.
+- le fournisseur dont la demande n’a pas été introduite endéans le délai prévu à l’article 6, paragraphe 2, point 5°, ne se voit accorder que la huitième tranche.
 
 Les présentes dérogations sont sans préjudice à l’obligation de déclarer les ventes réalisées et réductions de prix appliquées, conformément à l’article 6, paragraphe 1er, pour les périodes pour lesquelles aucune tranche n’a été attribuée.
 

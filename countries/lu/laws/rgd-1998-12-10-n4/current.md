@@ -75,23 +75,23 @@ Parmi les dix membres représentant les personnes physiques et morales ayant sig
 
 - 3 membres représentant les services œuvrant dans le domaine de la Famille et de l’Intégration, dont
 
-- 1 membre représentant les services œuvrant dans le domaine des personnes âgées, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+  - 1 membre représentant les services œuvrant dans le domaine des personnes âgées, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
 
-- 1 membre représentant les services œuvrant dans le domaine des personnes handicapées, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+  - 1 membre représentant les services œuvrant dans le domaine des personnes handicapées, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
 
-- 1 membre représentant les services œuvrant dans les domaines des adultes et des services d’assistance, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+  - 1 membre représentant les services œuvrant dans les domaines des adultes et des services d’assistance, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
 
 - 5 membres représentant les services œuvrant dans le domaine de l’Éducation nationale, de l’Enfance et de la Jeunesse, dont
 
-- 1 membre représentant les services œuvrant dans les domaines des structures d’accueil pour jeunes, jeunes adultes avec hébergement et internats, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+  - 1 membre représentant les services œuvrant dans les domaines des structures d’accueil pour jeunes, jeunes adultes avec hébergement et internats, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
 
-- 1 membre représentant les services œuvrant dans le domaine des structures d’accueil pour jeunes sans hébergement, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+  - 1 membre représentant les services œuvrant dans le domaine des structures d’accueil pour jeunes sans hébergement, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
 
-- 1 membre représentant les services œuvrant dans les domaines de l’assistance parentale et des familles d’accueil à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+  - 1 membre représentant les services œuvrant dans les domaines de l’assistance parentale et des familles d’accueil à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
 
-- 1 membre représentant les services œuvrant dans le domaine des maisons de jeunes, à proposer par le Daachverband vun de Lëtzebuerger Jugendstrukturen (DLJ) ;
+  - 1 membre représentant les services œuvrant dans le domaine des maisons de jeunes, à proposer par le Daachverband vun de Lëtzebuerger Jugendstrukturen (DLJ) ;
 
-- 1 membre représentant les services communaux œuvrant dans les domaines d’accueil des jeunes sans hébergement et des maisons de jeunes, à proposer par le syndicat des villes et communes luxembourgeoises (SYVICOL).
+  - 1 membre représentant les services communaux œuvrant dans les domaines d’accueil des jeunes sans hébergement et des maisons de jeunes, à proposer par le syndicat des villes et communes luxembourgeoises (SYVICOL).
 
 <a id="art-4"></a>
 ## Art. 4.

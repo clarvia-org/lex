@@ -40,11 +40,11 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement, il y a lieu d’entendre par :
 
-1. « candidat » : à la fois le fonctionnaire stagiaire appelé à suivre la formation spéciale et qui doit se soumettre à un examen de formation spéciale et le fonctionnaire appelé à suivre une formation préparatoire à l’examen de promotion et qui participe à l’examen de promotion ;
+- « candidat » : à la fois le fonctionnaire stagiaire appelé à suivre la formation spéciale et qui doit se soumettre à un examen de formation spéciale et le fonctionnaire appelé à suivre une formation préparatoire à l’examen de promotion et qui participe à l’examen de promotion ;
 
-2. « formation de promotion » : la formation préparatoire à l’examen de promotion ;
+- « formation de promotion » : la formation préparatoire à l’examen de promotion ;
 
-3. « ministre » : ministre ayant l’Administration gouvernementale dans ses attributions.
+- « ministre » : ministre ayant l’Administration gouvernementale dans ses attributions.
 
 #### Chapitre 2 Aspects organisationnels de la formation spéciale et de la formation de promotion
 
@@ -53,17 +53,17 @@ Au sens du présent règlement, il y a lieu d’entendre par :
 
 La formation spéciale et la formation de promotion peuvent être organisées sous forme de :
 
-1. cours présentiels ;
+- cours présentiels ;
 
-2. cours en ligne ;
+- cours en ligne ;
 
-3. études personnelles ;
+- études personnelles ;
 
-4. cours alternant entre les méthodes visées aux points 1° à 3° ;
+- cours alternant entre les méthodes visées aux points 1° à 3° ;
 
-5. séances d’apprentissage accompagnées sur le lieu du travail ;
+- séances d’apprentissage accompagnées sur le lieu du travail ;
 
-6. participation à des séminaires dans l’intérêt du service.
+- participation à des séminaires dans l’intérêt du service.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -361,26 +361,44 @@ En cas d’absence du certificat de présence, la note finale n’est pas commun
 
 Le règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen de l’examen de fin de formation spéciale pendant le stage et de l’examen de promotion dans les administrations et services de l’État est modifié comme suit :
 
-1. À l’article 3, paragraphe 1 er , l’alinéa 1 er est supprimé.
+- À l’article 3, paragraphe 1 er , l’alinéa 1 er est supprimé.
 
-2. À l’article 4, le paragraphe 1 er est complété par un nouvel alinéa 2, libellé comme suit : Par dérogation à l’alinéa qui précède, la règle de la double correction des épreuves ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
+- À l’article 4, le paragraphe 1 er est complété par un nouvel alinéa 2, libellé comme suit : Par dérogation à l’alinéa qui précède, la règle de la double correction des épreuves ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
 
-3. L’article 5 est modifié comme suit :
+- L’article 5 est modifié comme suit :
 
-1. Au paragraphe 3, les termes ou par voie électronique à l’adresse personnelle du président sont insérés entre les termes sous pli fermé et et avant .
+  - Au paragraphe 3, les termes ou par voie électronique à l’adresse personnelle du président sont insérés entre les termes sous pli fermé et et avant .
 
-2. Au paragraphe 4, le terme présentés est supprimé et les termes jusqu’au début de l’épreuve concernée sont ajoutés derrière le terme observé .
+  - Au paragraphe 4, le terme présentés est supprimé et les termes jusqu’au début de l’épreuve concernée sont ajoutés derrière le terme observé .
 
-3. Le paragraphe 5 est complété par un nouvel alinéa 2, libellé comme suit : L’alinéa 1er ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
+  - Le paragraphe 5 est complété par un nouvel alinéa 2, libellé comme suit : L’alinéa 1er ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
 
-4. Le paragraphe 7 est complété par un nouvel alinéa 2, libellé comme suit : L’alinéa 1er ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
+  - Le paragraphe 7 est complété par un nouvel alinéa 2, libellé comme suit : L’alinéa 1er ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
 
-5. Le paragraphe 11 est complété par un nouvel alinéa 3, libellé comme suit : Les alinéas 1er et 2 ne s’appliquent pas en cas d’épreuves standardisées effectuées par voie informatisée.
+  - Le paragraphe 11 est complété par un nouvel alinéa 3, libellé comme suit : Les alinéas 1er et 2 ne s’appliquent pas en cas d’épreuves standardisées effectuées par voie informatisée.
 
 <a id="art-24"></a>
 ## Art. 24.
 
-L’article 18 du règlement grand-ducal modifié du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État est remplacé comme suit : Art. 18. (1) Est admissible à l’examen de fin de formation spéciale, le stagiaire qui a suivi l’intégralité des formations de la formation spéciale prévues. (2) Par dérogation au paragraphe 1er, le stagiaire est admissible à l’examen de fin de formation spéciale : en cas de dispense de la participation à une ou plusieurs formations de la formation spéciale, accordée au stagiaire par le chef d’administration pour des raisons exceptionnelles dûment motivées ; en cas d’absence, lorsqu’elle est considérée comme justifiée par le président de la commission d’examen sur base d’un certificat qui lui a été transmis par le stagiaire au plus tard le jour ouvrable suivant le début de son absence. (3) L’admissibilité à l’examen de fin de formation spéciale peut être prononcée, même si le stagiaire n’a pas encore passé l’examen de fin de formation générale à l’Institut.
+L’article 18 du règlement grand-ducal modifié du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État est remplacé comme suit :
+
+Art. 18.
+
+(1)
+
+Est admissible à l’examen de fin de formation spéciale, le stagiaire qui a suivi l’intégralité des formations de la formation spéciale prévues.
+
+(2)
+
+Par dérogation au paragraphe 1er, le stagiaire est admissible à l’examen de fin de formation spéciale :
+
+- en cas de dispense de la participation à une ou plusieurs formations de la formation spéciale, accordée au stagiaire par le chef d’administration pour des raisons exceptionnelles dûment motivées ;
+
+- en cas d’absence, lorsqu’elle est considérée comme justifiée par le président de la commission d’examen sur base d’un certificat qui lui a été transmis par le stagiaire au plus tard le jour ouvrable suivant le début de son absence.
+
+(3)
+
+L’admissibilité à l’examen de fin de formation spéciale peut être prononcée, même si le stagiaire n’a pas encore passé l’examen de fin de formation générale à l’Institut.
 
 <a id="art-25"></a>
 ## Art. 25.

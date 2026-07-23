@@ -42,11 +42,11 @@ Les emprunts autorisés par la loi peuvent être émis par le Ministre ayant les
 
 Émission des emprunts négociables
 
-L’émission des emprunts négociables peut se faire par tranches individuelles (dites « stand-alone ») ou par tranches sous un programme. L’émission de tranches fongibles est également possible.
+L’émission des emprunts négociables peut se faire par tranches individuelles ( dites « stand-alone ») ou par tranches sous un programme. L’émission de tranches fongibles est également possible.
 
 Tout emprunt négociable est représenté à l’émission ou de facto de façon dématérialisée par des inscriptions en compte-titres, y compris, le cas échéant, en compte-titres tenu au sein ou par le biais d’un dispositif d’enregistrement électronique sécurisé, y compris un registre ou une base de données électronique distribués. .
 
-Pour tout emprunt négociable sous forme d’instruments au porteur ou d’instruments nominatifs, un titre global est émis pour représenter le total de l’emprunt ou une tranche de l’emprunt. Ce titre est déposé auprès d’un professionnel du secteur financier de droit luxembourgeois établi et agréé au Grand-Duché de Luxembourg, à désigner par le Ministre.
+Pour tout emprunt négociable sous forme d’instruments au porteur ou d’instruments nominatifs, un titre global est émis pour représenter le total de l’emprunt ou une tranche de l’emprunt . Ce titre est déposé auprès d’un professionnel du secteur financier de droit luxembourgeois établi et agréé au Grand-Duché de Luxembourg, à désigner par le Ministre.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -62,7 +62,7 @@ Les modalités administratives et techniques de la procédure d’adjudication s
 
 Conditions spécifiques
 
-Les conditions spécifiques des emprunts négociables, en particulier la forme, le montant nominal à émettre, la coupure, le taux d’intérêt nominal fixe ou variable, la méthode à utiliser pour calculer les intérêts courus, le prix de souscription, le prix de remboursement ainsi que les dates exactes d’émission, de refixation du taux d’intérêt en cas de taux variable, de paiement des intérêts et de remboursement, le cas échéant, l’admission à la négociation et/ou la cotation en bourse sont arrêtées par le Ministre et publiées au Journal officiel du Grand-Duché de Luxembourg.
+Les conditions spécifiques des emprunts négociables, en particulier la forme, le montant nominal à émettre, la coupure, le taux d’intérêt nominal fixe ou variable, la méthode à utiliser pour calculer les intérêts courus, le prix de souscription, le prix de remboursement ainsi que les dates exactes d’émission, de refixation du taux d’intérêt en cas de taux variable, de paiement des intérêts et de remboursement , le cas échéant, l’admission à la négociation et/ou la cotation en bourse sont arrêtées par le Ministre et publiées au Journal officiel du Grand-Duché de Luxembourg.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -87,7 +87,7 @@ Admission à la négociation et cotation en bourse
 
 Les emprunts négociables peuvent être admis à la négociation sur un marché réglementé, un système multilatéral de négociation, une infrastructure de marché DLT et/ou tout autre système ou infrastructure de négociation opéré par un acteur réglementé, ou ne faire l’objet d’aucune admission à la négociation.
 
-Le Ministre fait les diligences nécessaires pour obtenir soit l’admission des emprunts négociables de l’État à la cote officielle de la Bourse de Luxembourg, soit leur affichage sur la liste officielle des valeurs mobilières de la Bourse de Luxembourg .
+Le Ministre fait les diligences nécessaires pour obtenir soit l’admission des emprunts négociables de l’État à la cote officielle de la Bourse de Luxembourg , soit leur affichage sur la liste officielle des valeurs mobilières de la Bourse de Luxembourg .
 
 <a id="art-8"></a>
 ## Art. 8.

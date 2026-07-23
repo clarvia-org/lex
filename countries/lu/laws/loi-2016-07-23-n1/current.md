@@ -49,29 +49,29 @@ Le Haut-Commissariat à la Protection nationale est placé sous l'autorité du m
 
 Pour l'application de la présente loi, on entend par
 
-1. «concept de protection nationale»: un concept qui consiste à prévenir les crises, respectivement à protéger le pays et la population contre les effets d'une crise. En cas de survenance d'une crise, il comprend la gestion des mesures et activités destinées à faire face à la crise et à ses effets et à favoriser le retour à l'état normal;
+- «concept de protection nationale»: un concept qui consiste à prévenir les crises, respectivement à protéger le pays et la population contre les effets d'une crise. En cas de survenance d'une crise, il comprend la gestion des mesures et activités destinées à faire face à la crise et à ses effets et à favoriser le retour à l'état normal;
 
-2. «crise»: tout évènement qui, par sa nature ou ses effets, porte préjudice aux intérêts vitaux ou aux besoins essentiels de tout ou partie du pays ou de la population, qui requiert des décisions urgentes et qui exige une coordination au niveau national des actions du Gouvernement, des administrations, des services et organismes relevant des pouvoirs publics, et, si besoin en est, également au niveau international;
+- «crise»: tout évènement qui, par sa nature ou ses effets, porte préjudice aux intérêts vitaux ou aux besoins essentiels de tout ou partie du pays ou de la population, qui requiert des décisions urgentes et qui exige une coordination au niveau national des actions du Gouvernement, des administrations, des services et organismes relevant des pouvoirs publics, et, si besoin en est, également au niveau international;
 
-3. «gestion de crises»: l'ensemble des mesures et activités que le Gouvernement initie, le cas échéant avec le concours des autorités communales concernées, pour faire face à la crise et à ses effets et pour favoriser le retour à l'état normal;
+- «gestion de crises»: l'ensemble des mesures et activités que le Gouvernement initie, le cas échéant avec le concours des autorités communales concernées, pour faire face à la crise et à ses effets et pour favoriser le retour à l'état normal;
 
-4. entité critique » : une entité au sens de la loi du 5 mai 2026 sur la résilience des entités critiques ; ;
+- entité critique » : une entité au sens de la loi du 5 mai 2026 sur la résilience des entités critiques ; ;
 
-5. 4bis. « sécurité de l’information » : sécurité autour des réseaux et systèmes d’information non classifiés installés et exploités par les administrations et services de l’État ;
+- 4bis. « sécurité de l’information » : sécurité autour des réseaux et systèmes d’information non classifiés installés et exploités par les administrations et services de l’État ;
 
-6. « réseau et système d’information » : le réseau et système d’information au sens de l’article 2, point 1°, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
+- « réseau et système d’information » : le réseau et système d’information au sens de l’article 2, point 1°, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
 
-7. « cybersécurité » : la cybersécurité au sens de l’article 2, point 3°, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
+- « cybersécurité » : la cybersécurité au sens de l’article 2, point 3°, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
 
-8. « stratégie nationale en matière de cybersécurité » : un cadre cohérent fournissant des objectifs et des priorités stratégiques dans le domaine de la cybersécurité et de la gouvernance en vue de les réaliser au niveau national ;
+- « stratégie nationale en matière de cybersécurité » : un cadre cohérent fournissant des objectifs et des priorités stratégiques dans le domaine de la cybersécurité et de la gouvernance en vue de les réaliser au niveau national ;
 
-9. « incident » : l’incident au sens de l’article 2, point 5°, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
+- « incident » : l’incident au sens de l’article 2, point 5°, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
 
-10. « gestion des incidents » : gestion des incidents au sens de l’article 2, point 7°, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
+- « gestion des incidents » : gestion des incidents au sens de l’article 2, point 7°, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
 
-11. « cybermenace » : la cybermenace au sens de l’article 2, point 9°, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
+- « cybermenace » : la cybermenace au sens de l’article 2, point 9°, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
 
-12. « vulnérabilité » : la vulnérabilité au sens de l’article 2, point 14°, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité.
+- « vulnérabilité » : la vulnérabilité au sens de l’article 2, point 14°, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité.
 
 ##### Chapitre 3 Mission et attributions du Haut-Commissariat à la Protection nationale
 
@@ -82,39 +82,39 @@ Pour l'application de la présente loi, on entend par
 
 Le Haut-Commissariat à la Protection nationale a pour mission de mettre en oeuvre le concept de protection nationale tel que défini à l'article 2. Dans le cadre de cette mission, le Haut-Commissariat à la Protection nationale a pour attributions
 
-1. quant aux mesures de prévention de crises:
+- quant aux mesures de prévention de crises:
 
-1. de coordonner les contributions des ministères, administrations et services de l'État;
+  - de coordonner les contributions des ministères, administrations et services de l'État;
 
-2. de coordonner les politiques, les projets et les programmes de recherche;
+  - de coordonner les politiques, les projets et les programmes de recherche;
 
-3. de procéder à l'analyse des risques et à l'organisation d'une veille;
+  - de procéder à l'analyse des risques et à l'organisation d'une veille;
 
-4. de coordonner l'organisation des cours de formation et des exercices;
+  - de coordonner l'organisation des cours de formation et des exercices;
 
-2. quant aux mesures d'anticipation de crises:
+- quant aux mesures d'anticipation de crises:
 
-1. de développer et de coordonner une stratégie nationale de gestion de crises;
+  - de développer et de coordonner une stratégie nationale de gestion de crises;
 
-2. de définir la typologie, la structure, le corps et le format des plans déclinant les mesures et activités de prévention et de gestion de crises et de coordonner la planification;
+  - de définir la typologie, la structure, le corps et le format des plans déclinant les mesures et activités de prévention et de gestion de crises et de coordonner la planification;
 
-3. de veiller à l’exécution des mesures relatives à la résilience des entités critiques en application de la loi du 5 mai 2026 sur la résilience des entités critiques ;
+  - de veiller à l’exécution des mesures relatives à la résilience des entités critiques en application de la loi du 5 mai 2026 sur la résilience des entités critiques ;
 
-4. de coordonner et d’élaborer une stratégie nationale en matière de cybersécurité ;
+  - de coordonner et d’élaborer une stratégie nationale en matière de cybersécurité ;
 
-3. quant aux mesures de gestion de crises:
+- quant aux mesures de gestion de crises:
 
-1. d'initier, de conduire et de coordonner les tâches de gestion de crises;
+  - d'initier, de conduire et de coordonner les tâches de gestion de crises;
 
-2. 1bis. de coordonner la communication de crise en situation de crise ;
+  - 1bis. de coordonner la communication de crise en situation de crise ;
 
-3. de veiller à l'exécution de toutes les décisions prises;
+  - de veiller à l'exécution de toutes les décisions prises;
 
-4. de favoriser le plus rapidement possible le retour à l'état normal;
+  - de favoriser le plus rapidement possible le retour à l'état normal;
 
-5. de préparer un budget commun pour la gestion de crises et de veiller à son exécution;
+  - de préparer un budget commun pour la gestion de crises et de veiller à son exécution;
 
-6. de veiller à la mise en place et au fonctionnement du Centre national de crise.
+  - de veiller à la mise en place et au fonctionnement du Centre national de crise.
 
 Dans le cadre de ses attributions, le Haut-Commissariat à la Protection nationale est le point de contact du Luxembourg auprès des institutions et organisations européennes et internationales et veille à une coopération efficace avec ces entités.
 
@@ -122,57 +122,57 @@ Dans le cadre de ses attributions, le Haut-Commissariat à la Protection nationa
 
 Le Haut-Commissariat à la Protection nationale est encore chargé des missions suivantes :
 
-1. attributions dans sa fonction d’Agence nationale de la sécurité des systèmes d’information, ci-après « ANSSI » ;
+- attributions dans sa fonction d’Agence nationale de la sécurité des systèmes d’information, ci-après « ANSSI » ;
 
-2. attributions dans sa fonction de Centre gouvernemental de réponse aux incidents de sécurité informatique (CSIRT), ci-après « GOVCERT.LU » ;
+- attributions dans sa fonction de Centre gouvernemental de réponse aux incidents de sécurité informatique (CSIRT), ci-après « GOVCERT.LU » ;
 
-3. attributions dans sa fonction de Service de la communication de crise, ci-après « SCC ».
+- attributions dans sa fonction de Service de la communication de crise, ci-après « SCC ».
 
 (1ter)
 
 Dans sa fonction d’ANSSI, le Haut-Commissariat à la Protection nationale a pour missions :
 
-1. de contribuer à la mise en œuvre de la politique générale de sécurité de l’information de l’État ;
+- de contribuer à la mise en œuvre de la politique générale de sécurité de l’information de l’État ;
 
-2. de contribuer à la mise en œuvre, en concertation avec les administrations et services de l’État, des politiques et lignes directrices de sécurité de l’information portant sur les domaines de la politique générale de sécurité de l’information de l’État et des nouvelles technologies de l’information et de la communication ;
+- de contribuer à la mise en œuvre, en concertation avec les administrations et services de l’État, des politiques et lignes directrices de sécurité de l’information portant sur les domaines de la politique générale de sécurité de l’information de l’État et des nouvelles technologies de l’information et de la communication ;
 
-3. d’émettre des recommandations d’implémentation des politiques et lignes directrices de sécurité de l’information et d’assister les administrations et services de l’État au niveau de l’implémentation des mesures proposées ;
+- d’émettre des recommandations d’implémentation des politiques et lignes directrices de sécurité de l’information et d’assister les administrations et services de l’État au niveau de l’implémentation des mesures proposées ;
 
-4. de définir, en concertation avec les administrations et services de l’État, une approche de gestion des risques, en vue de constituer un plan d’évaluation et d’identification des risques concernant la sécurité de l’information et d’accompagner, à leur demande, les administrations et services de l’État dans l’analyse et la gestion des risques ;
+- de définir, en concertation avec les administrations et services de l’État, une approche de gestion des risques, en vue de constituer un plan d’évaluation et d’identification des risques concernant la sécurité de l’information et d’accompagner, à leur demande, les administrations et services de l’État dans l’analyse et la gestion des risques ;
 
-5. de conseiller l’Institut national d’administration publique, respectivement, à leur demande, les administrations et services de l’État dans la définition d’un programme de formation dans le domaine de la sécurité de l’information ;
+- de conseiller l’Institut national d’administration publique, respectivement, à leur demande, les administrations et services de l’État dans la définition d’un programme de formation dans le domaine de la sécurité de l’information ;
 
-6. de promouvoir la sécurité de l’information par le biais de mesures de sensibilisation ;
+- de promouvoir la sécurité de l’information par le biais de mesures de sensibilisation ;
 
-7. de conseiller, à leur demande, les établissements publics et les entités critiques en matière de sécurité des réseaux et systèmes d’information et des risques y liés ;
+- de conseiller, à leur demande, les établissements publics et les entités critiques en matière de sécurité des réseaux et systèmes d’information et des risques y liés ;
 
-8. d’assurer la fonction d’autorité TEMPEST en veillant à la conformité des réseaux et systèmes d’information classifiés aux stratégies et lignes directrices TEMPEST et en approuvant les contre-mesures TEMPEST pour les installations et les produits destinés à protéger des pièces classifiées jusqu’à un certain niveau de classification dans leur environnement opérationnel.
+- d’assurer la fonction d’autorité TEMPEST en veillant à la conformité des réseaux et systèmes d’information classifiés aux stratégies et lignes directrices TEMPEST et en approuvant les contre-mesures TEMPEST pour les installations et les produits destinés à protéger des pièces classifiées jusqu’à un certain niveau de classification dans leur environnement opérationnel.
 
 (1quater)
 
 Dans sa fonction de GOVCERT.LU, le Haut-Commissariat à la Protection nationale a pour missions :
 
-1. de constituer le point de contact unique dédié à la gestion des incidents affectant les réseaux et systèmes d’information des administrations et services de l’État et des établissements publics ;
+- de constituer le point de contact unique dédié à la gestion des incidents affectant les réseaux et systèmes d’information des administrations et services de l’État et des établissements publics ;
 
-2. d’assurer un service de veille, de détection, d’alerte et de réaction aux cybermenaces et aux vulnérabilités affectant les réseaux et systèmes d’information des administrations et services de l’État et, à leur demande, des établissements publics ;
+- d’assurer un service de veille, de détection, d’alerte et de réaction aux cybermenaces et aux vulnérabilités affectant les réseaux et systèmes d’information des administrations et services de l’État et, à leur demande, des établissements publics ;
 
-3. d’assurer la fonction de centre national de réponse aux incidents de sécurité informatique, dénommé « CSIRT National », en
+- d’assurer la fonction de centre national de réponse aux incidents de sécurité informatique, dénommé « CSIRT National », en
 
-1. opérant comme le point de contact officiel national pour les CSIRT nationaux et gouvernementaux étrangers ;
+  - opérant comme le point de contact officiel national pour les CSIRT nationaux et gouvernementaux étrangers ;
 
-2. opérant comme le point de contact officiel national pour la collecte, l’analyse et la distribution d’informations relatives aux cybermenaces et incidents qui concernent les réseaux et systèmes d’information implantés au Grand-Duché de Luxembourg ;
+  - opérant comme le point de contact officiel national pour la collecte, l’analyse et la distribution d’informations relatives aux cybermenaces et incidents qui concernent les réseaux et systèmes d’information implantés au Grand-Duché de Luxembourg ;
 
-3. relayant les informations collectées aux CSIRT sectoriels en charge de la cible d’une attaque ou, à défaut de CSIRT sectoriel, directement à la cible ;
+  - relayant les informations collectées aux CSIRT sectoriels en charge de la cible d’une attaque ou, à défaut de CSIRT sectoriel, directement à la cible ;
 
-4. assurant un service de veille aux cybermenaces et aux vulnérabilités et en réagissant aux incidents et en apportant une assistance aux entités critiques, le cas échéant.
+  - assurant un service de veille aux cybermenaces et aux vulnérabilités et en réagissant aux incidents et en apportant une assistance aux entités critiques, le cas échéant.
 
-4. d’assurer la fonction de centre militaire de réponse aux incidents de sécurité informatique, dénommé « MILCERT.LU », en
+- d’assurer la fonction de centre militaire de réponse aux incidents de sécurité informatique, dénommé « MILCERT.LU », en
 
-1. opérant comme le point de contact officiel national pour les CSIRT militaires étrangers ;
+  - opérant comme le point de contact officiel national pour les CSIRT militaires étrangers ;
 
-2. assurant, à partir du territoire du Grand-Duché de Luxembourg, un service de veille, de détection, d’alerte et de réaction aux cybermenaces, vulnérabilités et incidents affectant les réseaux et les systèmes d’information de l’armée ;
+  - assurant, à partir du territoire du Grand-Duché de Luxembourg, un service de veille, de détection, d’alerte et de réaction aux cybermenaces, vulnérabilités et incidents affectant les réseaux et les systèmes d’information de l’armée ;
 
-3. opérant, à partir du territoire du Grand-Duché de Luxembourg, une équipe d’intervention spécialisée capable de prendre en charge la réponse aux incidents liés à ces réseaux et systèmes d’information.
+  - opérant, à partir du territoire du Grand-Duché de Luxembourg, une équipe d’intervention spécialisée capable de prendre en charge la réponse aux incidents liés à ces réseaux et systèmes d’information.
 
 Le Haut-Commissaire à la Protection nationale peut, dans l’intérêt de l’exécution des missions du GOVCERT.LU, demander leur concours aux agents des administrations et services de l’État.
 
@@ -180,11 +180,11 @@ Le Haut-Commissaire à la Protection nationale peut, dans l’intérêt de l’e
 
 Dans sa fonction de Service de la communication de crise, le Haut-Commissariat à la Protection nationale a pour missions :
 
-1. de coordonner la communication de crise avant, pendant et après des situations de crise pouvant frapper le territoire national, par l’intermédiaire des médias, l’internet et les réseaux sociaux ;
+- de coordonner la communication de crise avant, pendant et après des situations de crise pouvant frapper le territoire national, par l’intermédiaire des médias, l’internet et les réseaux sociaux ;
 
-2. d’effectuer une communication préventive et pédagogique en sensibilisant les médias et le public sur les questions relevant de la protection du pays, de ses sites sensibles et de sa population ;
+- d’effectuer une communication préventive et pédagogique en sensibilisant les médias et le public sur les questions relevant de la protection du pays, de ses sites sensibles et de sa population ;
 
-3. de créer et de maintenir des contacts étroits et réguliers avec les services de communication de crise étrangers.
+- de créer et de maintenir des contacts étroits et réguliers avec les services de communication de crise étrangers.
 
 (2)
 
@@ -250,7 +250,7 @@ La structure des plans de sécurité et de continuité de l'activité des infras
 <a id="art-9"></a>
 ## Art. 9.
 
-En cas d'imminence ou de survenance d'une crise, le propriétaire ou opérateur d'une entité critique , qui doit être, sauf en cas d'extrême urgence, dûment averti, est tenu de donner libre accès aux agents du Haut-Commissariat à la Protection nationale aux installations, locaux, terrains, aménagements faisant partie de l'entité visée par la présente loi et les règlements à prendre en vue de son application.
+En cas d'imminence ou de survenance d'une crise, le propriétaire ou opérateur d'une entité critique , qui doit être, sauf en cas d'extrême urgence, dûment averti, est tenu de donner libre accès aux agents du Haut-Commissariat à la Protection nationale aux installations, locaux, terrains, aménagements faisant partie de l' entité visée par la présente loi et les règlements à prendre en vue de son application.
 
 Les actions de visite ou de contrôle entreprises sur place respectent le principe de proportionnalité.
 
@@ -265,45 +265,45 @@ Les dispositions reprises aux alinéas qui précèdent ne sont pas applicables a
 
 Le Haut-Commissariat à la Protection nationale adopte une stratégie nationale en matière de cybersécurité qui détermine les objectifs stratégiques, les ressources nécessaires pour atteindre ces objectifs ainsi que les mesures politiques et réglementaires appropriées, en vue de parvenir à un niveau élevé de cybersécurité et de le maintenir. La stratégie nationale en matière de cybersécurité comprend :
 
-1. les objectifs et priorités de la stratégie en matière de cybersécurité, couvrant en particulier les secteurs visés aux annexes I et II de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
+- les objectifs et priorités de la stratégie en matière de cybersécurité, couvrant en particulier les secteurs visés aux annexes I et II de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
 
-2. un cadre de gouvernance visant à atteindre les objectifs et priorités visés à la lettre a) du présent paragraphe, y compris les politiques visées au paragraphe 2 ;
+- un cadre de gouvernance visant à atteindre les objectifs et priorités visés à la lettre a) du présent paragraphe, y compris les politiques visées au paragraphe 2 ;
 
-3. un cadre de gouvernance précisant les rôles et les responsabilités des parties prenantes concernées, et sur lequel reposent la coopération et la coordination entre les autorités compétentes, le point de contact unique et les CSIRT en vertu de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité, ainsi que la coordination et la coopération entre ces organismes et les autorités compétentes en vertu d’actes juridiques sectoriels de l’Union européenne ;
+- un cadre de gouvernance précisant les rôles et les responsabilités des parties prenantes concernées, et sur lequel reposent la coopération et la coordination entre les autorités compétentes, le point de contact unique et les CSIRT en vertu de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité, ainsi que la coordination et la coopération entre ces organismes et les autorités compétentes en vertu d’actes juridiques sectoriels de l’Union européenne ;
 
-4. un mécanisme visant à déterminer les actifs pertinents et une évaluation des risques ;
+- un mécanisme visant à déterminer les actifs pertinents et une évaluation des risques ;
 
-5. un inventaire des mesures garantissant la préparation, la réaction et la récupération des services après incident, y compris la coopération entre les secteurs public et privé ;
+- un inventaire des mesures garantissant la préparation, la réaction et la récupération des services après incident, y compris la coopération entre les secteurs public et privé ;
 
-6. une liste des différents acteurs et autorités concernés par la mise en œuvre de la stratégie nationale en matière de cybersécurité ;
+- une liste des différents acteurs et autorités concernés par la mise en œuvre de la stratégie nationale en matière de cybersécurité ;
 
-7. un cadre politique visant une coordination renforcée entre les autorités compétentes en vertu de la présente loi et de la loi du 5 mai 2026 sur la résilience des entités critiques aux fins du partage d’informations relatives aux risques, aux menaces et aux incidents dans les domaines cyber et non cyber et de l’exercice des tâches de supervision, le cas échéant ;
+- un cadre politique visant une coordination renforcée entre les autorités compétentes en vertu de la présente loi et de la loi du 5 mai 2026 sur la résilience des entités critiques aux fins du partage d’informations relatives aux risques, aux menaces et aux incidents dans les domaines cyber et non cyber et de l’exercice des tâches de supervision, le cas échéant ;
 
-8. un plan comprenant les mesures nécessaires en vue d’améliorer le niveau général de sensibilisation des citoyens à la cybersécurité.
+- un plan comprenant les mesures nécessaires en vue d’améliorer le niveau général de sensibilisation des citoyens à la cybersécurité.
 
 (2)
 
 Dans le cadre de la stratégie nationale en matière de cybersécurité, le Haut-Commissariat à la Protection nationale adopte notamment des politiques portant sur les éléments suivants :
 
-1. la cybersécurité dans le cadre de la chaîne d’approvisionnement des produits et services TIC utilisés par des entités pour la fourniture de leurs services ;
+- la cybersécurité dans le cadre de la chaîne d’approvisionnement des produits et services TIC utilisés par des entités pour la fourniture de leurs services ;
 
-2. l’inclusion et la spécification d’exigences liées à la cybersécurité pour les produits et services TIC dans les marchés publics, y compris concernant la certification de cybersécurité, le chiffrement et l’utilisation de produits de cybersécurité en sources ouvertes ;
+- l’inclusion et la spécification d’exigences liées à la cybersécurité pour les produits et services TIC dans les marchés publics, y compris concernant la certification de cybersécurité, le chiffrement et l’utilisation de produits de cybersécurité en sources ouvertes ;
 
-3. la gestion des vulnérabilités, y compris la promotion et la facilitation de la divulgation coordonnée des vulnérabilités en vertu de l’article 9, paragraphe 1 er , de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
+- la gestion des vulnérabilités, y compris la promotion et la facilitation de la divulgation coordonnée des vulnérabilités en vertu de l’article 9, paragraphe 1 er , de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
 
-4. le maintien de la disponibilité générale, de l’intégrité et de la confidentialité du noyau public de l’internet ouvert, y compris, le cas échéant, la cybersécurité des câbles de communication sous-marins ;
+- le maintien de la disponibilité générale, de l’intégrité et de la confidentialité du noyau public de l’internet ouvert, y compris, le cas échéant, la cybersécurité des câbles de communication sous-marins ;
 
-5. la promotion du développement et de l’intégration de technologies avancées pertinentes visant à mettre en œuvre des mesures de pointe dans la gestion des risques en matière de cybersécurité ;
+- la promotion du développement et de l’intégration de technologies avancées pertinentes visant à mettre en œuvre des mesures de pointe dans la gestion des risques en matière de cybersécurité ;
 
-6. la promotion et le développement de l’éducation et de la formation en matière de cybersécurité, des compétences en matière de cybersécurité, des initiatives de sensibilisation et de recherche et développement en matière de cybersécurité, ainsi que des orientations sur les bonnes pratiques de cyberhygiène et les contrôles, à l’intention des citoyens, des parties prenantes et des entités ;
+- la promotion et le développement de l’éducation et de la formation en matière de cybersécurité, des compétences en matière de cybersécurité, des initiatives de sensibilisation et de recherche et développement en matière de cybersécurité, ainsi que des orientations sur les bonnes pratiques de cyberhygiène et les contrôles, à l’intention des citoyens, des parties prenantes et des entités ;
 
-7. le soutien aux institutions universitaires et de recherche visant à développer, améliorer et promouvoir le déploiement des outils de cybersécurité et à sécuriser les infrastructures de réseau ;
+- le soutien aux institutions universitaires et de recherche visant à développer, améliorer et promouvoir le déploiement des outils de cybersécurité et à sécuriser les infrastructures de réseau ;
 
-8. la mise en place de procédures pertinentes et d’outils de partage d’informations appropriés visant à soutenir le partage volontaire d’informations sur la cybersécurité entre les entités conformément au droit de l’Union européenne ;
+- la mise en place de procédures pertinentes et d’outils de partage d’informations appropriés visant à soutenir le partage volontaire d’informations sur la cybersécurité entre les entités conformément au droit de l’Union européenne ;
 
-9. le renforcement des valeurs de cyberrésilience et de cyberhygiène des petites et moyennes entreprises, en particulier celles qui sont exclues du champ d’application de la présente loi, en fournissant des orientations et un soutien facilement accessibles pour répondre à leurs besoins spécifiques ;
+- le renforcement des valeurs de cyberrésilience et de cyberhygiène des petites et moyennes entreprises, en particulier celles qui sont exclues du champ d’application de la présente loi, en fournissant des orientations et un soutien facilement accessibles pour répondre à leurs besoins spécifiques ;
 
-10. la promotion d’une cyberprotection active.
+- la promotion d’une cyberprotection active.
 
 Le Haut-Commissariat à la Protection nationale évalue régulièrement la stratégie nationale en matière de cybersécurité, et au moins tous les cinq ans, sur la base d’indicateurs clés de performance et, le cas échéant, les modifient.
 
@@ -314,17 +314,17 @@ Le Haut-Commissariat à la Protection nationale évalue régulièrement la strat
 
 Le Haut-Commissariat à la Protection nationale adopte un plan national de réaction aux crises et incidents de cybersécurité majeurs dans lequel sont définis les objectifs et les modalités de gestion des incidents de cybersécurité majeurs et des crises. Ce plan établit notamment les éléments suivants :
 
-1. les objectifs des mesures et activités nationales de préparation ;
+- les objectifs des mesures et activités nationales de préparation ;
 
-2. les tâches et responsabilités de l’autorité de gestion des crises cyber en vertu de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
+- les tâches et responsabilités de l’autorité de gestion des crises cyber en vertu de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
 
-3. les procédures de gestion des crises cyber, y compris leur intégration dans le cadre national général de gestion des crises et les canaux d’échange d’informations ;
+- les procédures de gestion des crises cyber, y compris leur intégration dans le cadre national général de gestion des crises et les canaux d’échange d’informations ;
 
-4. les mesures de préparation nationales, y compris des exercices et des activités de formation ;
+- les mesures de préparation nationales, y compris des exercices et des activités de formation ;
 
-5. les parties prenantes et les infrastructures des secteurs public et privé concernées ;
+- les parties prenantes et les infrastructures des secteurs public et privé concernées ;
 
-6. les procédures et arrangements nationaux entre les autorités et les organismes nationaux compétents visant à garantir la participation et le soutien effectifs à la gestion coordonnée des incidents de cybersécurité majeurs et des crises au niveau de l’Union européenne.
+- les procédures et arrangements nationaux entre les autorités et les organismes nationaux compétents visant à garantir la participation et le soutien effectifs à la gestion coordonnée des incidents de cybersécurité majeurs et des crises au niveau de l’Union européenne.
 
 ##### Chapitre 5 Le personnel du Haut-Commissariat à la Protection nationale
 
@@ -340,7 +340,7 @@ Le Haut-Commissaire à la Protection nationale est responsable de la gestion de 
 
 (1)
 
-Le cadre du personnel comprend un Haut-Commissaire à la Protection nationale, un Haut-Commissaire à la Protection nationale adjoint et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État.
+Le cadre du personnel comprend un Haut-Commissaire à la Protection nationale , un Haut-Commissaire à la Protection nationale adjoint et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État.
 
 (2)
 
@@ -401,20 +401,20 @@ L'actuel point 2) devient le point 3).
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État est modifiée comme suit:
 
-1. à l'article 12, paragraphe 1 er , alinéa 7, point 11°, les termes «de Haut-Commissaire à la Protection nationale,» sont insérés avant les termes «et de directeur de différentes administrations»;
+- à l'article 12, paragraphe 1 er , alinéa 7, point 11°, les termes «de Haut-Commissaire à la Protection nationale,» sont insérés avant les termes «et de directeur de différentes administrations»;
 
-2. dans l'annexe A «Classification des fonctions», Catégorie de traitement A, Groupe de traitement A1, Sousgroupe à attributions particulières, il est ajouté la mention «Haut-Commissaire à la Protection nationale» au grade 17;
+- dans l'annexe A «Classification des fonctions», Catégorie de traitement A, Groupe de traitement A1, Sousgroupe à attributions particulières, il est ajouté la mention «Haut-Commissaire à la Protection nationale» au grade 17;
 
-3. au paragraphe b) de l'article 17, il est inséré, à la suite des termes «inspecteur général de la sécurité dans la Fonction publique», la mention «Haut-Commissaire à la Protection nationale».
+- au paragraphe b) de l'article 17, il est inséré, à la suite des termes «inspecteur général de la sécurité dans la Fonction publique», la mention «Haut-Commissaire à la Protection nationale».
 
 <a id="art-18"></a>
 ## Art. 18.
 
 La loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe, est modifiée comme suit:
 
-1. au chapitre Ier, article 1 er , dernière phrase, il est ajouté en fin de phrase: «ou d'une crise, au sens de la loi portant création d'un Haut-Commissariat à la Protection nationale et modifiant a) la loi modifiée du 23 juillet 1952 concernant l'organisation militaire, b) la loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe, c) la loi modifiée du 2 août 2002 relative à la protection des personnes à l'égard du traitement des données à caractère personnel, d) la loi modifiée du 25 juin 2009 sur les marchés publics, e) la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l'État, f) la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État».
+- au chapitre Ier, article 1 er , dernière phrase, il est ajouté en fin de phrase: «ou d'une crise, au sens de la loi portant création d'un Haut-Commissariat à la Protection nationale et modifiant a) la loi modifiée du 23 juillet 1952 concernant l'organisation militaire, b) la loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe, c) la loi modifiée du 2 août 2002 relative à la protection des personnes à l'égard du traitement des données à caractère personnel, d) la loi modifiée du 25 juin 2009 sur les marchés publics, e) la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l'État, f) la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État».
 
-2. au chapitre IV, article 8 b) in fine, il est ajouté: «5) Les agents du Haut-Commissariat à la Protection nationale».
+- au chapitre IV, article 8 b) in fine, il est ajouté: «5) Les agents du Haut-Commissariat à la Protection nationale».
 
 <a id="art-19"></a>
 ## Art. 19.

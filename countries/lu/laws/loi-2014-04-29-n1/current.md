@@ -118,9 +118,9 @@ Au cours de l’année 2014, le Gouvernement est autorisé à procéder au rempl
 
 Pour l’application de cette disposition, l’effectif total du personnel comprend:
 
-1. les fonctionnaires, les employés et les ouvriers occupés à titre permanent et à tâche complète au service de l’Etat à la date du 31 décembre 2013;
+- les fonctionnaires, les employés et les ouvriers occupés à titre permanent et à tâche complète au service de l’Etat à la date du 31 décembre 2013;
 
-2. les fonctionnaires, les employés et ouvriers occupés à tâche partielle dans la limite des effectifs en hommes-heures/an au 31 décembre 2013.
+- les fonctionnaires, les employés et ouvriers occupés à tâche partielle dans la limite des effectifs en hommes-heures/an au 31 décembre 2013.
 
 Sont comprises dans l’effectif total les vacances d’emploi qui se sont produites avant le 1er janvier 2014 et qui n’ont pas pu être pourvues de titulaires à cette date.
 
@@ -128,17 +128,17 @@ Sont comprises dans l’effectif total les vacances d’emploi qui se sont produ
 
 Par dérogation aux deux paragraphes qui précèdent, le Gouvernement est autorisé à procéder au cours de l’année 2014:
 
-1. à des engagements de renforcement de personnel occupé à titre permanent et à tâche complète dans les différents services de l’Etat, dont le nombre ne peut toutefois pas dépasser de plus de 150 unités l’effectif total tel qu’il est défini au paragraphe (2) a);
+- à des engagements de renforcement de personnel occupé à titre permanent et à tâche complète dans les différents services de l’Etat, dont le nombre ne peut toutefois pas dépasser de plus de 150 unités l’effectif total tel qu’il est défini au paragraphe (2) a);
 
-2. aux engagements de personnel pour les besoins des services de l’Etat reconnus nécessaires pour l’occupation anticipée d’emplois non vacants, sans que la durée de l’occupation anticipée puisse être supérieure à six mois;
+- aux engagements de personnel pour les besoins des services de l’Etat reconnus nécessaires pour l’occupation anticipée d’emplois non vacants, sans que la durée de l’occupation anticipée puisse être supérieure à six mois;
 
-3. au remplacement à titre définitif des agents de l’Etat bénéficiant du régime de la préretraite. Lorsque le remplaçant est recruté en vue de son admission ultérieure au statut de fonctionnaire, et lorsque le cadre correspondant de l’administration concernée ne comprend pas de vacance de poste, il est placé temporairement hors cadre jusqu’au moment où les droits du fonctionnaire remplacé à l’indemnité de préretraite cessent de plein droit;
+- au remplacement à titre définitif des agents de l’Etat bénéficiant du régime de la préretraite. Lorsque le remplaçant est recruté en vue de son admission ultérieure au statut de fonctionnaire, et lorsque le cadre correspondant de l’administration concernée ne comprend pas de vacance de poste, il est placé temporairement hors cadre jusqu’au moment où les droits du fonctionnaire remplacé à l’indemnité de préretraite cessent de plein droit;
 
-4. à des engagements de renforcement de personnel occupé à titre permanent et à tâche partielle dans les différents services de l’Etat dans la limite de 800 hommes-heures/semaine;
+- à des engagements de renforcement de personnel occupé à titre permanent et à tâche partielle dans les différents services de l’Etat dans la limite de 800 hommes-heures/semaine;
 
-5. à des engagements de personnel occupé à titre permanent et à tâche complète ou partielle dans les différents services de l’Etat, dans les établissements publics et dans la Société nationale des Chemins de Fer luxembourgeois et disposant de la qualité de travailleur handicapé telle que définie par la loi modifiée du 12 septembre 2003 sur les travailleurs handicapés ainsi qu’à des réaffectations d’agents de l’Etat reconnus hors d’état de continuer leur service, mais déclarés propres à occuper un autre emploi dans l’administration par la Commission des pensions prévue par la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat et la loi du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, dans la limite de 2.200 hommes-heures/semaine;
+- à des engagements de personnel occupé à titre permanent et à tâche complète ou partielle dans les différents services de l’Etat, dans les établissements publics et dans la Société nationale des Chemins de Fer luxembourgeois et disposant de la qualité de travailleur handicapé telle que définie par la loi modifiée du 12 septembre 2003 sur les travailleurs handicapés ainsi qu’à des réaffectations d’agents de l’Etat reconnus hors d’état de continuer leur service, mais déclarés propres à occuper un autre emploi dans l’administration par la Commission des pensions prévue par la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat et la loi du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, dans la limite de 2.200 hommes-heures/semaine;
 
-6. à des engagements de personnel enseignant dans la réserve nationale visée par la loi du 29 juin 2010 portant création d’une réserve nationale de chargés d’enseignement pour les lycées et les lycées techniques, à titre permanent et à tâche complète, dont le nombre ne peut toutefois pas dépasser 30 unités.
+- à des engagements de personnel enseignant dans la réserve nationale visée par la loi du 29 juin 2010 portant création d’une réserve nationale de chargés d’enseignement pour les lycées et les lycées techniques, à titre permanent et à tâche complète, dont le nombre ne peut toutefois pas dépasser 30 unités.
 
 (4)
 
@@ -329,11 +329,11 @@ Prorogation de dispositions destinées à stimuler la croissance économique et 
 
 Sont prorogées avec effet au 1er janvier 2014 et jusqu’au 31 décembre 2014:
 
-1. les dispositions de la loi modifiée du 24 décembre 1977 autorisant le gouvernement à prendre les mesures destinées à stimuler la croissance économique et à maintenir le plein emploi;
+- les dispositions de la loi modifiée du 24 décembre 1977 autorisant le gouvernement à prendre les mesures destinées à stimuler la croissance économique et à maintenir le plein emploi;
 
-2. les dispositions de la loi modifiée du 24 janvier 1979 complétant l’article 2 de la loi modifiée du 30 juin 1976 portant 1) création d’un fonds de chômage; 2) réglementation de l’octroi des indemnités de chômage complet et complétant l’article 115 de la loi concernant l’impôt sur le revenu ;
+- les dispositions de la loi modifiée du 24 janvier 1979 complétant l’article 2 de la loi modifiée du 30 juin 1976 portant 1) création d’un fonds de chômage; 2) réglementation de l’octroi des indemnités de chômage complet et complétant l’article 115 de la loi concernant l’impôt sur le revenu ;
 
-3. les dispositions des articles 36 point II et 37 (1) de la loi du 19 décembre 1983 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1984.
+- les dispositions des articles 36 point II et 37 (1) de la loi du 19 décembre 1983 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1984.
 
 (II)
 
@@ -354,13 +354,13 @@ Dotation
 
 Le fonds communal de dotation financière institué par l’article 38 de la loi modifiée du 22 décembre 1987 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1988 est doté pour l’année 2014 d’après les règles suivantes:
 
-1. un montant de 18 pour cent du produit de l’impôt sur le revenu des personnes physiques fixé par voie d’assiette et de l’impôt retenu sur les traitements et salaires;
+- un montant de 18 pour cent du produit de l’impôt sur le revenu des personnes physiques fixé par voie d’assiette et de l’impôt retenu sur les traitements et salaires;
 
-2. un montant de 10 pour cent du produit de la taxe sur la valeur ajoutée, déduction faite des sommes dues à l’Union européenne à titre de ressources propres provenant de cette taxe;
+- un montant de 10 pour cent du produit de la taxe sur la valeur ajoutée, déduction faite des sommes dues à l’Union européenne à titre de ressources propres provenant de cette taxe;
 
-3. un montant de 20 pour cent du produit de la taxe sur les véhicules automoteurs;
+- un montant de 20 pour cent du produit de la taxe sur les véhicules automoteurs;
 
-4. un montant forfaitaire de 5.021.000 euros.
+- un montant forfaitaire de 5.021.000 euros.
 
 (2)
 
@@ -384,23 +384,23 @@ Une somme supplémentaire de 18.592 euros est attribuée à la commune pour chaq
 
 Le solde est réparti à raison de:
 
-1. 65 pour cent entre les communes d’après leur population;
+- 65 pour cent entre les communes d’après leur population;
 
-2.
+-
 
-1. 9,75 pour cent au prorata de la base d’assiette de l’impôt foncier des propriétés agricoles et forestières au sens du paragraphe 3, n° 1 de la loi sur l’impôt foncier , telle qu’elle est fixée au 1 er janvier 2009;
+  - 9,75 pour cent au prorata de la base d’assiette de l’impôt foncier des propriétés agricoles et forestières au sens du paragraphe 3, n° 1 de la loi sur l’impôt foncier , telle qu’elle est fixée au 1 er janvier 2009;
 
-2. 5,25 pour cent au prorata de la surface des terrains relatifs aux propriétés agricoles et forestières au sens du paragraphe 3, n° 1 de la loi sur l’impôt foncier , telle qu’elle est fixée au 1 er janvier 2009;
+  - 5,25 pour cent au prorata de la surface des terrains relatifs aux propriétés agricoles et forestières au sens du paragraphe 3, n° 1 de la loi sur l’impôt foncier , telle qu’elle est fixée au 1 er janvier 2009;
 
-3. 20 pour cent entre les communes à titre d’allocation régionale en fonction de la population multipliée par le degré d’urbanisation de la commune, ce degré étant défini par le rapport entre la densité de la population de chaque commune et la densité moyenne du pays.
+- 20 pour cent entre les communes à titre d’allocation régionale en fonction de la population multipliée par le degré d’urbanisation de la commune, ce degré étant défini par le rapport entre la densité de la population de chaque commune et la densité moyenne du pays.
 
-4. On entend aux termes du présent paragraphe
+- On entend aux termes du présent paragraphe
 
-- par densité, le rapport entre la population et la superficie du territoire;
+  - par densité, le rapport entre la population et la superficie du territoire;
 
-- par population, la population de résidence la plus récente calculée par le service central de la statistique et des études économiques;
+  - par population, la population de résidence la plus récente calculée par le service central de la statistique et des études économiques;
 
-- par superficie, celle publiée par le service central de la statistique et des études économiques.
+  - par superficie, celle publiée par le service central de la statistique et des études économiques.
 
 (3)
 
@@ -536,7 +536,7 @@ Au cours de l’exercice 2014, le Gouvernement est autorisé à imputer à charg
 
 Les dépenses pour frais d’études ne peuvent pas dépasser par projet le montant plafond fixé à l’article 80, paragraphe (1) sous d) de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’Etat.
 
-1. Fonds d’investissements publics administratifs:
+- Fonds d’investissements publics administratifs:
 
 - 3 e bâtiment administratif Kirchberg (Bâtiment Konrad Adenauer);
 
@@ -596,7 +596,7 @@ Les dépenses pour frais d’études ne peuvent pas dépasser par projet le mont
 
 - Centre pénitentiaire de Luxembourg à Schrassig: unité psychiatrique spéciale.
 
-1. Fonds d’investissements publics scolaires:
+- Fonds d’investissements publics scolaires:
 
 - CNFPC Ettelbruck;
 
@@ -624,7 +624,7 @@ Les dépenses pour frais d’études ne peuvent pas dépasser par projet le mont
 
 - CNFPC Centre à Luxembourg-Bonnevoie.
 
-1. Fonds d’investissements publics sanitaires et sociaux:
+- Fonds d’investissements publics sanitaires et sociaux:
 
 - CIPA Bofferdange: agrandissement;
 
@@ -1256,15 +1256,15 @@ Loi modifiée du 25 février 1979 concernant l’aide au logement
 
 La loi modifiée du 25 février 1979 concernant l’aide au logement est modifiée comme suit:
 
-1. L’article 27, alinéa 1, est modifié comme suit: L’Etat peut participer jusqu’à concurrence de soixante-dix pour cent du prix de construction, d’acquisition, de rénovation et d’assainissement de logements destinés à être loués par les promoteurs publics visés à l’article 16, alinéa 1, à des ménages à revenu modeste, à des familles nombreuses, à des personnes âgées et à des personnes handicapées.
+- L’article 27, alinéa 1, est modifié comme suit: L’Etat peut participer jusqu’à concurrence de soixante-dix pour cent du prix de construction, d’acquisition, de rénovation et d’assainissement de logements destinés à être loués par les promoteurs publics visés à l’article 16, alinéa 1, à des ménages à revenu modeste, à des familles nombreuses, à des personnes âgées et à des personnes handicapées.
 
-2. L’article 29, alinéa 2, est modifié comme suit: Pour les logements visés à l’alinéa 1, point 1., cette participation peut atteindre cent pour cent soit du coût de construction et de premier équipement, soit du coût d’acquisition, de rénovation, d’assainissement, d’aménagement et de premier équipement. Pour les logements visés à l’alinéa 1, point 2., la participation peut atteindre soixante-dix pour cent soit du coût de construction et de premier équipement, soit du coût d’acquisition, de rénovation, d’assainissement et de premier équipement.
+- L’article 29, alinéa 2, est modifié comme suit: Pour les logements visés à l’alinéa 1, point 1., cette participation peut atteindre cent pour cent soit du coût de construction et de premier équipement, soit du coût d’acquisition, de rénovation, d’assainissement, d’aménagement et de premier équipement. Pour les logements visés à l’alinéa 1, point 2., la participation peut atteindre soixante-dix pour cent soit du coût de construction et de premier équipement, soit du coût d’acquisition, de rénovation, d’assainissement et de premier équipement.
 
-3. L’article 30 ter est modifié comme suit: L’Etat peut participer jusqu’à concurrence de soixante-quinze pour cent du prix de construction, d’acquisition, de rénovation et d’assainissement de logements locatifs réalisés par des associations sans but lucratif, fondations, fabriques d’église, communautés religieuses ayant conclu une convention avec le gouvernement, les hospices civils ou offices sociaux.
+- L’article 30 ter est modifié comme suit: L’Etat peut participer jusqu’à concurrence de soixante-quinze pour cent du prix de construction, d’acquisition, de rénovation et d’assainissement de logements locatifs réalisés par des associations sans but lucratif, fondations, fabriques d’église, communautés religieuses ayant conclu une convention avec le gouvernement, les hospices civils ou offices sociaux.
 
-4. Un article 30 quater , libellé comme suit, est inséré dans la loi: Art. 30quater.- Pour garantir la restitution des aides au logement accordées par l’Etat aux promoteurs visés par les articles 27 à 30ter, l’Etat est autorisé à inscrire une hypothèque légale sur les logements pour lesquels des aides ont été versées. L’hypothèque légale est limitée au montant des aides versées pour lesdits logements. Cette hypothèque prend rang après la ou les hypothèques inscrites sur réquisition de l’établissement d’épargne et de crédit dans l’intérêt de la garantie du ou des prêts accordés pour la construction ou l’acquisition du logement. Les formalités relatives à l’inscription et à la radiation de l’hypothèque ne donnent lieu à aucune perception au profit du Trésor, sauf le salaire des formalités hypothécaires qui est à charge du bénéficiaire de la participation étatique.
+- Un article 30 quater , libellé comme suit, est inséré dans la loi: Art. 30quater.- Pour garantir la restitution des aides au logement accordées par l’Etat aux promoteurs visés par les articles 27 à 30ter, l’Etat est autorisé à inscrire une hypothèque légale sur les logements pour lesquels des aides ont été versées. L’hypothèque légale est limitée au montant des aides versées pour lesdits logements. Cette hypothèque prend rang après la ou les hypothèques inscrites sur réquisition de l’établissement d’épargne et de crédit dans l’intérêt de la garantie du ou des prêts accordés pour la construction ou l’acquisition du logement. Les formalités relatives à l’inscription et à la radiation de l’hypothèque ne donnent lieu à aucune perception au profit du Trésor, sauf le salaire des formalités hypothécaires qui est à charge du bénéficiaire de la participation étatique.
 
-5. L’article 56, alinéa 2, est modifié comme suit: La dotation du Fonds pour le développement du logement et de l’habitat peut être portée jusqu’à concurrence de deux cents millions d’euros par des crédits à inscrire au budget de l’Etat.
+- L’article 56, alinéa 2, est modifié comme suit: La dotation du Fonds pour le développement du logement et de l’habitat peut être portée jusqu’à concurrence de deux cents millions d’euros par des crédits à inscrire au budget de l’Etat.
 
 <a id="art-32"></a>
 ## Art. 32.
@@ -1420,21 +1420,21 @@ La dernière phrase de l’article 29, paragraphe 1er de la loi du 13 juin 2003 
 <a id="art-35"></a>
 ## Art. 35.
 
-Institution d’un fonds spécial pour le financement des infrastructures d’enseignement, des infrastructures socio-familiales et des infrastructures des administrations dépendant du Ministère de l’Education nationale, de l’Enfance et de la Jeunesse
+Institution d’un fonds spécial pour le financement des infrastructures d’enseignement , des infrastructures socio-familiales et des infrastructures des administrations dépendant du Ministère de l’Education nationale, de l’Enfance et de la Jeunesse
 
 (1)
 
 Il est institué un fonds spécial pour le financement de la construction, de l’extension, de la modernisation, de l’aménagement, de l’équipement, des études, des analyses et des plans dans l’intérêt des infrastructures
 
-1. des établissements d’enseignement, y inclus des établissements d’enseignement privé conformément aux dispositions de la loi modifiée du 13 juin 2003 concernant les relations entre l’Etat et l’enseignement privé ainsi que des services gérés par les organismes publics ou privés conventionnés ou dûment agréés par le ministre ayant l’Education nationale, l’Enfance et la Jeunesse dans ses attributions, ci-après désigné par «le Ministre», conformément aux dispositions de la loi du 8 septembre 1998 réglant les relations entre l’Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique;
+- des établissements d’enseignement, y inclus des établissements d’enseignement privé conformément aux dispositions de la loi modifiée du 13 juin 2003 concernant les relations entre l’Etat et l’enseignement privé ainsi que des services gérés par les organismes publics ou privés conventionnés ou dûment agréés par le ministre ayant l’Education nationale, l’Enfance et la Jeunesse dans ses attributions, ci-après désigné par «le Ministre», conformément aux dispositions de la loi du 8 septembre 1998 réglant les relations entre l’Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique;
 
-2. des mouvements associatifs, associations et communes lorsqu’elles assurent des missions dans l’intérêt des jeunes ;
+- des mouvements associatifs, associations et communes lorsqu’elles assurent des missions dans l’intérêt des jeunes ;
 
-3. d’intérêt national, créées en coopération avec des partenaires privés ou publics ;
+- d’intérêt national, créées en coopération avec des partenaires privés ou publics ;
 
-4. communales hébergeant des conservatoires, écoles de musique ou cours de musique ;
+- communales hébergeant des conservatoires, écoles de musique ou cours de musique ;
 
-5. des administrations placées sous l’autorité du Ministre.
+- des administrations placées sous l’autorité du Ministre.
 
 Le fonds est régi par les dispositions de l’article 76 de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’Etat. Les dépenses à charge du fonds peuvent viser soit des subsides accordés pour des investissements opérés par des tiers soit la prise en charge directe, totale ou partielle, d’investissements réalisés par ces mêmes tiers.
 

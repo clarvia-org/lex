@@ -35,35 +35,35 @@ Conditions et modalités d’octroi et de calcul de l’aide financière pour la
 
 Est visé un logement durable qui remplit simultanément les conditions suivantes:
 
-1. Il est contenu dans un bâtiment utilisé intégralement ou partiellement à des fins d’habitation:
+- Il est contenu dans un bâtiment utilisé intégralement ou partiellement à des fins d’habitation:
 
-1. dont la consommation d’énergie est quasi nulle tel que défini par le règlement grand-ducal modifié du 30 novembre 2007 concernant la performance énergétique des bâtiments d’habitation, et
+  - dont la consommation d’énergie est quasi nulle tel que défini par le règlement grand-ducal modifié du 30 novembre 2007 concernant la performance énergétique des bâtiments d’habitation, et
 
-2. respectant les exigences et critères déterminés à l’annexe II.
+  - respectant les exigences et critères déterminés à l’annexe II.
 
-2. Il atteint, dans chacune des trois catégories de critères de durabilité «Ecologie», «Bâtiment et installations techniques» et «Fonctionnalité», au moins 60 pour cent du nombre maximal de points effectivement réalisables par le logement faisant l’objet de la demande d’aide financière, pour la sélection de critères de durabilité repris à l’annexe II et définis par le règlement grand-ducal du 23 décembre 2016 relatif à la certification de la durabilité des logements.
+- Il atteint, dans chacune des trois catégories de critères de durabilité «Ecologie», «Bâtiment et installations techniques» et «Fonctionnalité», au moins 60 pour cent du nombre maximal de points effectivement réalisables par le logement faisant l’objet de la demande d’aide financière, pour la sélection de critères de durabilité repris à l’annexe II et définis par le règlement grand-ducal du 23 décembre 2016 relatif à la certification de la durabilité des logements.
 
-3. Il atteint 24 points pour le critère de durabilité 4.1.1 «Évaluation environnementale des matériaux de construction – indicateur environnemental I env » de la catégorie «Ecologie». Toutefois, pour les bâtiments comportant au moins trois étages au-delà du rez-de-chaussée, le nombre de points à atteindre pour le critère de durabilité 4.1.1 est réduit à 21.
+- Il atteint 24 points pour le critère de durabilité 4.1.1 «Évaluation environnementale des matériaux de construction – indicateur environnemental I env » de la catégorie «Ecologie». Toutefois, pour les bâtiments comportant au moins trois étages au-delà du rez-de-chaussée, le nombre de points à atteindre pour le critère de durabilité 4.1.1 est réduit à 21.
 
-4. Il atteint 10 points pour le critère de durabilité 5.8.1 «Montage et capacité de démontage» de la catégorie «Bâtiment et installations techniques». Toutefois:
+- Il atteint 10 points pour le critère de durabilité 5.8.1 «Montage et capacité de démontage» de la catégorie «Bâtiment et installations techniques». Toutefois:
 
-1. le nombre de points est ramené à 6 dans le cas d’un nouveau logement durable pour lequel l’autorisation de bâtir est demandée en 2017;
+  - le nombre de points est ramené à 6 dans le cas d’un nouveau logement durable pour lequel l’autorisation de bâtir est demandée en 2017;
 
-2. le nombre de points est ramené à 8 dans le cas d’un nouveau logement durable pour lequel l’autorisation de bâtir est demandée en 2018;
+  - le nombre de points est ramené à 8 dans le cas d’un nouveau logement durable pour lequel l’autorisation de bâtir est demandée en 2018;
 
-3. l´aide financière visée au paragraphe 2 est diminuée de 20 pour cent pour les nouveaux logements durables pour lesquels l’autorisation de bâtir est demandée à partir du 1 er janvier 2019 et qui atteignent seulement 8 points.
+  - l´aide financière visée au paragraphe 2 est diminuée de 20 pour cent pour les nouveaux logements durables pour lesquels l’autorisation de bâtir est demandée à partir du 1 er janvier 2019 et qui atteignent seulement 8 points.
 
 (2)
 
 Les montants alloués sont calculés sur la base de la surface de référence énergétique figurant sur le certificat de performance énergétique, établi conformément au règlement grand-ducal modifié du 30 novembre 2007 concernant la performance énergétique des bâtiments d’habitation. Pour une maison unifamiliale, la surface de référence énergétique est multipliée par le montant de l’aide financière spécifique précisée dans le tableau repris ci-dessous. Pour un logement faisant partie d’un immeuble collectif, la surface de référence énergétique du logement, abstraction faite des parties communes, est multipliée par le montant de l’aide financière spécifique précisée dans le tableau repris ci-dessous.
 
-Pour un bâtiment pour lequel l’autorisation de bâtir est demandée entre le 1er janvier 2017 et le 31 décembre 2021 inclus, les aides financières se présentent comme suit:
+Pour un bâtiment pour lequel l’autorisation de bâtir est demandée entre le 1er janvier 2017 et le 31 décembre 2021 inclus , les aides financières se présentent comme suit:
 
 | Surface de référence énergétique [m2 ] | Aide financière [euros / m2 ] |  |
 | --- | --- | --- |
 | Maison unifamiliale |  |  |
 | I | jusqu’à 150 | 160 |
-| Logement faisant partie d’un immeuble collectif ayant une surfacede référence énergétique ≤ 1000 m2 |  |  |
+| Logement faisant partie d’un immeuble collectif ayant une surface de référence énergétique ≤ 1000 m2 |  |  |
 | I | jusqu’à 80 | 140 |
 | II | entre 80 - 120 | 85 |
 | Logement faisant partie d’un immeuble collectif ayant une surface de référence énergétique > 1000 m2 |  |  |
@@ -83,9 +83,9 @@ Conditions et modalités d’octroi et de calcul de l’aide financière pour un
 
 Sont visés les bâtiments utilisés intégralement à des fins d’habitation après assainissement énergétique et les parties d’un bâtiment utilisées à des fins d’habitation après assainissement énergétique:
 
-1. âgés de plus de 10 ans lors de l’introduction de la demande d’aide financière, et
+- âgés de plus de 10 ans lors de l’introduction de la demande d’aide financière, et
 
-2. respectant les exigences et critères déterminés à l’annexe II.
+- respectant les exigences et critères déterminés à l’annexe II.
 
 Seuls sont éligibles les travaux d’assainissement réalisés sur base d’un conseil en énergie spécifié à l’article 8, et qui font l’objet d’un accompagnement ponctuel de la mise en œuvre des travaux tel que spécifié à l’article 8.
 
@@ -124,9 +124,9 @@ Les aides financières allouées conformément au paragraphe 3 peuvent être aug
 
 Le droit au bonus de l’aide financière est lié au respect simultané des deux conditions suivantes:
 
-1. L’indice de dépense d’énergie chauffage du bâtiment, après la réalisation des mesures d’assainissement énergétique, doit atteindre la catégorie d’efficacité C, B ou A selon les dispositions du règlement grand-ducal modifié du 30 novembre 2007 concernant la performance énergétique des bâtiments d’habitation.
+- L’indice de dépense d’énergie chauffage du bâtiment, après la réalisation des mesures d’assainissement énergétique, doit atteindre la catégorie d’efficacité C, B ou A selon les dispositions du règlement grand-ducal modifié du 30 novembre 2007 concernant la performance énergétique des bâtiments d’habitation.
 
-2. L’indice de dépense d’énergie chauffage du bâtiment doit être amélioré d’au moins deux catégories d’efficacité suite à l’assainissement énergétique.
+- L’indice de dépense d’énergie chauffage du bâtiment doit être amélioré d’au moins deux catégories d’efficacité suite à l’assainissement énergétique.
 
 (5)
 
@@ -136,9 +136,9 @@ Les mesures d’assainissement visées au paragraphe 3 peuvent être réalisées
 
 Pour les murs extérieurs, isolés du côté extérieur ou du côté intérieur avec des isolants thermiques qui remplissent simultanément les conditions suivantes:
 
-1. Ils présentent un indicateur écologique I eco12 dont la valeur est inférieure ou égale à 23,7 UI6/m², et
+- Ils présentent un indicateur écologique I eco12 dont la valeur est inférieure ou égale à 23,7 UI6/m², et
 
-2. Ils sont intégralement de nature minérale, y compris l’enduit,
+- Ils sont intégralement de nature minérale, y compris l’enduit,
 
 les aides reprises dans le tableau au paragraphe 3, le cas échéant augmentées du bonus précisé au paragraphe 4, peuvent être augmentées de 20 euros/m2 assaini.
 
@@ -146,11 +146,11 @@ les aides reprises dans le tableau au paragraphe 3, le cas échéant augmentées
 
 Pour les éléments assainis avec des isolants thermiques qui remplissent simultanément les conditions suivantes:
 
-1. Ils présentent un indicateur écologique I eco12 dont la valeur est inférieure ou égale à 23,7 UI6/m²,
+- Ils présentent un indicateur écologique I eco12 dont la valeur est inférieure ou égale à 23,7 UI6/m²,
 
-2. Ils sont constitués exclusivement de matériaux renouvelables, et
+- Ils sont constitués exclusivement de matériaux renouvelables, et
 
-3. Ils sont fixés exclusivement de manière mécanique, à l’exception de l’enduit,
+- Ils sont fixés exclusivement de manière mécanique, à l’exception de l’enduit,
 
 les aides reprises dans le tableau au paragraphe 3, le cas échéant augmentées du bonus précisé au paragraphe 4, peuvent être augmentées des montants indiqués dans le tableau ci-dessous:
 
@@ -181,17 +181,17 @@ La surface de référence énergétique maximale éligible s’élève à 150 m2
 
 La ventilation contrôlée sans récupération de chaleur est seulement éligible si:
 
-1. ’ensemble des fenêtres est remplacé par de nouvelles fenêtres répondant aux exigences figurant à l’annexe II, point 1 concernant l’article 2 et;
+- ’ensemble des fenêtres est remplacé par de nouvelles fenêtres répondant aux exigences figurant à l’annexe II, point 1 concernant l’article 2 et;
 
-2. le remplacement des fenêtres se fait en dehors d’un assainissement énergétique des murs extérieurs.
+- le remplacement des fenêtres se fait en dehors d’un assainissement énergétique des murs extérieurs.
 
 (10)
 
 Pour les investissements et services relatifs à des mesures d’assainissement ou à la mise en œuvre d’une ventilation mécanique contrôlée pour lesquels la première demande en vue de l’obtention d’un accord de principe est introduite entre le 20 avril 2020 et le 31 décembre 2021 inclus et dont la facture est établie au plus tard le 31 décembre 2023, les aides financières allouées conformément :
 
-1. au paragraphe 3, le cas échéant augmentées du bonus précisé au paragraphe 4 et des montants précisés aux paragraphes 6 et 7 ;
+- au paragraphe 3, le cas échéant augmentées du bonus précisé au paragraphe 4 et des montants précisés aux paragraphes 6 et 7 ;
 
-2. au paragraphe 9,
+- au paragraphe 9,
 
 sont augmentées d’un bonus financier de 50 pour cent.
 
@@ -225,17 +225,17 @@ Sont visées les installations solaires thermiques respectant les exigences et c
 
 Pour une installation solaire thermique de production d’eau chaude sanitaire, l’aide financière s’élève à 50 pour cent des coûts effectifs, sans toutefois dépasser les montants suivants:
 
-1. 2.500 euros dans le cas d’une maison unifamiliale;
+- 2.500 euros dans le cas d’une maison unifamiliale;
 
-2. 2.500 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 15.000 euros dans le cas d’un immeuble collectif.
+- 2.500 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 15.000 euros dans le cas d’un immeuble collectif.
 
 (3)
 
 Pour une installation solaire thermique de production d’eau chaude sanitaire combinée à un appoint du chauffage, l’aide financière s’élève à 50 pour cent des coûts effectifs, sans toutefois dépasser les montants suivants:
 
-1. 4.000 euros dans le cas d’une maison unifamiliale;
+- 4.000 euros dans le cas d’une maison unifamiliale;
 
-2. 4.000 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 20.000 euros dans le cas d’un immeuble collectif.
+- 4.000 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 20.000 euros dans le cas d’un immeuble collectif.
 
 (4)
 
@@ -258,9 +258,9 @@ Sont visées les pompes à chaleur respectant les exigences et critères requis 
 
 Pour une pompe à chaleur géothermique ainsi qu’une pompe à chaleur combinée à un accumulateur de chaleur latente et un collecteur solaire thermique, l’aide financière s’élève à 50 pour cent des coûts effectifs, sans toutefois dépasser les montants suivants:
 
-1. 8.000 euros dans le cas d’une maison unifamiliale;
+- 8.000 euros dans le cas d’une maison unifamiliale;
 
-2. 6.000 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 30.000 euros dans le cas d’un immeuble collectif.
+- 6.000 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 30.000 euros dans le cas d’un immeuble collectif.
 
 (3)
 
@@ -291,11 +291,11 @@ Sont visées les chaudières à bois respectant les exigences et critères requi
 
 Pour une chaudière à granulés de bois et une chaudière à plaquettes de bois, l’aide financière s’élève à 40 pour cent des coûts effectifs, sans toutefois dépasser les montants suivants:
 
-1. 5.000 euros dans le cas d’une maison unifamiliale;
+- 5.000 euros dans le cas d’une maison unifamiliale;
 
-2. 4.000 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 24.000 euros dans le cas d’un immeuble collectif;
+- 4.000 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 24.000 euros dans le cas d’un immeuble collectif;
 
-3. 4.000 euros par maison unifamiliale ou par logement faisant partie d’un immeuble collectif raccordés à un réseau de chaleur alimenté par une telle installation. Dans ce cas, l’aide financière est plafonnée à 24.000 euros.
+- 4.000 euros par maison unifamiliale ou par logement faisant partie d’un immeuble collectif raccordés à un réseau de chaleur alimenté par une telle installation. Dans ce cas, l’aide financière est plafonnée à 24.000 euros.
 
 (3)
 
@@ -353,9 +353,9 @@ Sont visées les services de conseil en énergie et d’accompagnement ponctuel 
 
 Pour la prestation d’un conseil en énergie, l’aide financière s’élève à:
 
-1. 1.000 euros pour une maison unifamiliale, sans toutefois dépasser les coûts effectifs du conseil en énergie;
+- 1.000 euros pour une maison unifamiliale, sans toutefois dépasser les coûts effectifs du conseil en énergie;
 
-2. 1.200 euros pour un immeuble collectif se composant de 2 logements, sans toutefois dépasser les coûts effectifs du conseil en énergie. A ce montant de base s’ajoute un supplément de 25 euros pour chaque logement supplémentaire. Le montant total est plafonné à 1.600 euros, sans toutefois dépasser les coûts effectifs du conseil en énergie.
+- 1.200 euros pour un immeuble collectif se composant de 2 logements, sans toutefois dépasser les coûts effectifs du conseil en énergie. A ce montant de base s’ajoute un supplément de 25 euros pour chaque logement supplémentaire. Le montant total est plafonné à 1.600 euros, sans toutefois dépasser les coûts effectifs du conseil en énergie.
 
 Cette aide financière peut, dans le cas d’un assainissement énergétique où l’indice de dépense d’énergie chauffage du bâtiment, après la réalisation des mesures d’assainissement énergétique, atteint au moins la catégorie d’efficacité C, être augmentée de 100 euros pour le calcul d’un pont thermique et des propositions de traitement afférentes, sans toutefois dépasser un montant de 500 euros.
 
@@ -420,13 +420,13 @@ Le formulaire précité est à remplir par le demandeur.
 
 Les fiches annexes précitées, spécifiques aux aides financières sollicitées, sont à valider:
 
-1. dans le cas d’un nouveau logement durable, par le conseiller en énergie tel que défini par le présent règlement, la personne ayant établi le calcul de la performance énergétique ou l’architecte responsable du projet;
+- dans le cas d’un nouveau logement durable, par le conseiller en énergie tel que défini par le présent règlement, la personne ayant établi le calcul de la performance énergétique ou l’architecte responsable du projet;
 
-2. dans le cas d’un assainissement énergétique, par le conseiller en énergie tel que défini par le présent règlement;
+- dans le cas d’un assainissement énergétique, par le conseiller en énergie tel que défini par le présent règlement;
 
-3. dans le cas d’une installation technique, par le conseiller en énergie tel que défini par le présent règlement, la personne ayant établi le calcul de la performance énergétique, l’architecte responsable du projet ou l’entreprise responsable des travaux;
+- dans le cas d’une installation technique, par le conseiller en énergie tel que défini par le présent règlement, la personne ayant établi le calcul de la performance énergétique, l’architecte responsable du projet ou l’entreprise responsable des travaux;
 
-4. dans le cas d’un conseil en énergie, par le conseiller en énergie tel que défini par le présent règlement.
+- dans le cas d’un conseil en énergie, par le conseiller en énergie tel que défini par le présent règlement.
 
 (6)
 
@@ -461,29 +461,29 @@ Modalités d’éligibilité
 
 Sont éligibles les investissements et services pour lesquels la facture est établie entre:
 
-1. le 1 er janvier 2017 et le 31 décembre 2024 inclus dans le cas d’un nouveau logement durable visé à l’article 1 er et pour lequel l’autorisation de bâtir est demandée entre le 1 er janvier 2017 et le 31 décembre 2021 inclus .
+- le 1 er janvier 2017 et le 31 décembre 2024 inclus dans le cas d’un nouveau logement durable visé à l’article 1 er et pour lequel l’autorisation de bâtir est demandée entre le 1 er janvier 2017 et le 31 décembre 2021 inclus .
 
-2. le 1 er janvier 2017 et le 31 décembre 2024 inclus dans le cas d’un assainissement énergétique d’un bâtiment utilisé à des fins d’habitation après les travaux d’assainissement énergétique ou d’une partie d’un bâtiment utilisée à des fins d’habitation après les travaux d’assainissement énergétique, sous condition que:
+- le 1 er janvier 2017 et le 31 décembre 2024 inclus dans le cas d’un assainissement énergétique d’un bâtiment utilisé à des fins d’habitation après les travaux d’assainissement énergétique ou d’une partie d’un bâtiment utilisée à des fins d’habitation après les travaux d’assainissement énergétique, sous condition que:
 
-1. l’assainissement soit réalisé sur base d’un conseil en énergie conforme au présent règlement dont la facture a été établie entre le 1 er janvier 2017 et le 31 décembre 2021 inclus , et que
+  - l’assainissement soit réalisé sur base d’un conseil en énergie conforme au présent règlement dont la facture a été établie entre le 1 er janvier 2017 et le 31 décembre 2021 inclus , et que
 
-2. l’investissement concerné, à savoir l’élément de construction de l’enveloppe thermique ou la ventilation mécanique contrôlée, ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement.
+  - l’investissement concerné, à savoir l’élément de construction de l’enveloppe thermique ou la ventilation mécanique contrôlée, ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement.
 
-3. le 1 er janvier 2017 et le 31 décembre 2021 inclus dans le cas des installations techniques visées aux articles 3 à 7 ainsi que du conseil en énergie visé à l’article 8, sous condition que l’installation technique concernée ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement. Mis à part pour les installations photovoltaïques, ce délai est prolongé jusqu’au 31 décembre 2024 inclus sous condition que les investissements et services en question soient réalisés conjointement soit avec la construction d’une nouveau logement durable visé au point 1 soit avec l’assainissement énergétique d’un bâtiment existant visé au point 2.
+- le 1 er janvier 2017 et le 31 décembre 2021 inclus dans le cas des installations techniques visées aux articles 3 à 7 ainsi que du conseil en énergie visé à l’article 8, sous condition que l’installation technique concernée ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement. Mis à part pour les installations photovoltaïques, ce délai est prolongé jusqu’au 31 décembre 2024 inclus sous condition que les investissements et services en question soient réalisés conjointement soit avec la construction d’une nouveau logement durable visé au point 1 soit avec l’assainissement énergétique d’un bâtiment existant visé au point 2.
 
 Sont également éligibles les investissements et services pour lesquels :
 
-1. dans le cas d’un assainissement énergétique, la première demande en vue de l’obtention d’un accord de principe est introduite entre le 20 avril 2020 et le 31 décembre 2021 inclus, sous condition que :
+- dans le cas d’un assainissement énergétique, la première demande en vue de l’obtention d’un accord de principe est introduite entre le 20 avril 2020 et le 31 décembre 2021 inclus, sous condition que :
 
-1. la facture est établie entre le 20 avril 2020 et le 31 décembre 2023 inclus, et que
+  - la facture est établie entre le 20 avril 2020 et le 31 décembre 2023 inclus, et que
 
-2. l’investissement concerné, à savoir l’élément de construction de l’enveloppe thermique ou la ventilation mécanique contrôlée, ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement.
+  - l’investissement concerné, à savoir l’élément de construction de l’enveloppe thermique ou la ventilation mécanique contrôlée, ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement.
 
-2. dans le cas des installations techniques visées aux articles 4 à 7 ainsi que du conseil en énergie visé à l’article 8, la date de commande est comprise entre le 20 avril 2020 et le 31 décembre 2021 inclus, sous condition que :
+- dans le cas des installations techniques visées aux articles 4 à 7 ainsi que du conseil en énergie visé à l’article 8, la date de commande est comprise entre le 20 avril 2020 et le 31 décembre 2021 inclus, sous condition que :
 
-1. la facture est établie au plus tard le 31 décembre 2023 inclus, et que
+  - la facture est établie au plus tard le 31 décembre 2023 inclus, et que
 
-2. l’installation technique concernée ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement.
+  - l’installation technique concernée ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement.
 
 (2)
 

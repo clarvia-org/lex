@@ -59,43 +59,43 @@ Définitions
 
 Aux fins du présent règlement grand-ducal, on entend par :
 
-1. «champs électromagnétiques»: des champs électriques statiques, des champs magnétiques statiques et des champs électriques, magnétiques et électromagnétiques variant dans le temps dont les fréquences vont jusqu’à 300 GHz;
+- «champs électromagnétiques»: des champs électriques statiques, des champs magnétiques statiques et des champs électriques, magnétiques et électromagnétiques variant dans le temps dont les fréquences vont jusqu’à 300 GHz;
 
-2. «effets biophysiques directs»: des effets sur l’organisme humain directement causés par sa présence dans un champ électromagnétique, y compris:
+- «effets biophysiques directs»: des effets sur l’organisme humain directement causés par sa présence dans un champ électromagnétique, y compris:
 
-1. des effets thermiques, tels que l’échauffement des tissus dû à l’absorption par ces derniers d’énergie provenant des champs électromagnétiques;
+  - des effets thermiques, tels que l’échauffement des tissus dû à l’absorption par ces derniers d’énergie provenant des champs électromagnétiques;
 
-2. des effets non thermiques ou athermiques, tels que la stimulation des muscles, des nerfs ou des organes sensoriels. Ces effets sont susceptibles d’être nocifs pour la santé mentale et physique des salariés exposés. En outre, la stimulation des organes sensoriels peut occasionner des symptômes passagers tels que vertiges ou phosphènes. Ces effets sont susceptibles de causer une gêne temporaire ou d’altérer les facultés cognitives ou d’autres fonctions cérébrales ou musculaires et peuvent, par conséquent, affecter la capacité du salarié à travailler en toute sécurité (c’est-à-dire présenter des risques pour la sécurité); ainsi que
+  - des effets non thermiques ou athermiques, tels que la stimulation des muscles, des nerfs ou des organes sensoriels. Ces effets sont susceptibles d’être nocifs pour la santé mentale et physique des salariés exposés. En outre, la stimulation des organes sensoriels peut occasionner des symptômes passagers tels que vertiges ou phosphènes. Ces effets sont susceptibles de causer une gêne temporaire ou d’altérer les facultés cognitives ou d’autres fonctions cérébrales ou musculaires et peuvent, par conséquent, affecter la capacité du salarié à travailler en toute sécurité (c’est-à-dire présenter des risques pour la sécurité); ainsi que
 
-3. des courants induits dans les membres;
+  - des courants induits dans les membres;
 
-3. «effets indirects»: des effets causés par la présence d’un objet dans un champ électromagnétique et pouvant entraîner un risque pour la sécurité ou la santé, tels que:
+- «effets indirects»: des effets causés par la présence d’un objet dans un champ électromagnétique et pouvant entraîner un risque pour la sécurité ou la santé, tels que:
 
-1. une interférence avec des équipements et dispositifs médicaux électroniques, y compris des stimulateurs cardiaques et d’autres implants ou dispositifs médicaux portés à même le corps;
+  - une interférence avec des équipements et dispositifs médicaux électroniques, y compris des stimulateurs cardiaques et d’autres implants ou dispositifs médicaux portés à même le corps;
 
-2. le risque de projection d’objets ferromagnétiques dans des champs magnétiques statiques;
+  - le risque de projection d’objets ferromagnétiques dans des champs magnétiques statiques;
 
-3. l’amorçage de dispositifs électro-explosifs (détonateurs);
+  - l’amorçage de dispositifs électro-explosifs (détonateurs);
 
-4. des incendies et explosions résultant de l’inflammation de matériaux inflammables par des étincelles causées par des champs induits, des courants de contact ou des décharges d’étincelles; ainsi que
+  - des incendies et explosions résultant de l’inflammation de matériaux inflammables par des étincelles causées par des champs induits, des courants de contact ou des décharges d’étincelles; ainsi que
 
-5. des courants de contact;
+  - des courants de contact;
 
-4. « expert agréé » : une ou plusieurs personnes physiques ou morales, de droit privé ou de droit public, agréées dans le cadre des compétences et attributions de l’Inspection du travail et des mines et conformément aux conditions d’agrément visées à l’article L.614-7 du Code du travail ;
+- « expert agréé » : une ou plusieurs personnes physiques ou morales, de droit privé ou de droit public, agréées dans le cadre des compétences et attributions de l’Inspection du travail et des mines et conformément aux conditions d’agrément visées à l’article L.614-7 du Code du travail ;
 
-5. «valeurs limites d’exposition (« VLE »)»: des valeurs établies sur la base de considérations biophysiques et biologiques, notamment sur la base des effets directs aigus et à court terme scientifiquement bien établis, c’est-à-dire des effets thermiques et la stimulation électrique des tissus;
+- «valeurs limites d’exposition (« VLE »)»: des valeurs établies sur la base de considérations biophysiques et biologiques, notamment sur la base des effets directs aigus et à court terme scientifiquement bien établis, c’est-à-dire des effets thermiques et la stimulation électrique des tissus;
 
-6. «VLE relatives aux effets sur la santé»: les « VLE » au-dessus desquelles les salariés sont susceptibles de subir des effets nocifs pour la santé, tels qu’un échauffement thermique ou une stimulation des tissus nerveux et musculaires;
+- «VLE relatives aux effets sur la santé»: les « VLE » au-dessus desquelles les salariés sont susceptibles de subir des effets nocifs pour la santé, tels qu’un échauffement thermique ou une stimulation des tissus nerveux et musculaires;
 
-7. «VLE relatives aux effets sensoriels»: les « VLE » au-dessus desquelles les salariés sont susceptibles de présenter un trouble passager des perceptions sensorielles, ainsi que des changements mineurs des fonctions cérébrales;
+- «VLE relatives aux effets sensoriels»: les « VLE » au-dessus desquelles les salariés sont susceptibles de présenter un trouble passager des perceptions sensorielles, ainsi que des changements mineurs des fonctions cérébrales;
 
-8. «valeurs déclenchant l’action (« VA »)»: les niveaux opérationnels fixés afin de simplifier le processus permettant de démontrer que les « VLE » applicables sont respectées ou, lorsqu’il y a lieu, afin de prendre les mesures de protection ou de prévention appropriées telles qu’elles sont établies dans le présent règlement grand-ducal;
+- «valeurs déclenchant l’action (« VA »)»: les niveaux opérationnels fixés afin de simplifier le processus permettant de démontrer que les « VLE » applicables sont respectées ou, lorsqu’il y a lieu, afin de prendre les mesures de protection ou de prévention appropriées telles qu’elles sont établies dans le présent règlement grand-ducal;
 
 La terminologie sur les « VA » utilisée dans l’annexe II est la suivante :
 
-1. pour les champs électriques, les «VA basses» et les «VA hautes» sont les niveaux en lien avec les mesures spécifiques de protection ou de prévention établies dans le présent règlement grand-ducal; et
+- pour les champs électriques, les «VA basses» et les «VA hautes» sont les niveaux en lien avec les mesures spécifiques de protection ou de prévention établies dans le présent règlement grand-ducal; et
 
-2. pour les champs magnétiques, les «VA basses» sont les niveaux en lien avec les « VLE » relatives aux effets sensoriels et les «VA hautes» sont les niveaux en lien avec les « VLE » relatives aux effets sur la santé.
+- pour les champs magnétiques, les «VA basses» sont les niveaux en lien avec les « VLE » relatives aux effets sensoriels et les «VA hautes» sont les niveaux en lien avec les « VLE » relatives aux effets sur la santé.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -116,49 +116,49 @@ Lorsqu’il est démontré que les « VA » pertinentes établies aux annexes II
 
 Nonobstant le premier alinéa, l’exposition peut dépasser :
 
-1. les « VA » basses pour les champs électriques (annexe II, tableau B1), lorsqu’un tel dépassement est justifié par la pratique ou le procédé utilisé, pour autant, soit que les « VLE » relatives aux effets sensoriels (annexe II, tableau A3) ne soient pas dépassées, soit que:
+- les « VA » basses pour les champs électriques (annexe II, tableau B1), lorsqu’un tel dépassement est justifié par la pratique ou le procédé utilisé, pour autant, soit que les « VLE » relatives aux effets sensoriels (annexe II, tableau A3) ne soient pas dépassées, soit que:
 
-1. les « VLE » relatives aux effets sur la santé (annexe II, tableau A2) ne soient pas dépassées;
+  - les « VLE » relatives aux effets sur la santé (annexe II, tableau A2) ne soient pas dépassées;
 
-2. les décharges d’étincelles et des courants de contacts excessifs (annexe II, tableau B3) soient évités grâce aux mesures de protection spécifiques prévues à l’article 5, paragraphe 6; et
+  - les décharges d’étincelles et des courants de contacts excessifs (annexe II, tableau B3) soient évités grâce aux mesures de protection spécifiques prévues à l’article 5, paragraphe 6; et
 
-3. les salariés aient été informés des situations visées à l’article 6, point 6.
+  - les salariés aient été informés des situations visées à l’article 6, point 6.
 
-2. les « VA » basses pour les champs magnétiques (annexe II, tableau B2), lorsqu’un tel dépassement est justifié par la pratique ou le procédé utilisé, y compris en ce qui concerne la tête et le tronc, pendant le temps de travail, et pour autant, soit que les « VLE » relatives aux effets sensoriels (annexe II, tableau A3) ne soient pas dépassées, soit que:
+- les « VA » basses pour les champs magnétiques (annexe II, tableau B2), lorsqu’un tel dépassement est justifié par la pratique ou le procédé utilisé, y compris en ce qui concerne la tête et le tronc, pendant le temps de travail, et pour autant, soit que les « VLE » relatives aux effets sensoriels (annexe II, tableau A3) ne soient pas dépassées, soit que:
 
-1. les « VLE » relatives aux effets sensoriels ne soient dépassées que de manière temporaire;
+  - les « VLE » relatives aux effets sensoriels ne soient dépassées que de manière temporaire;
 
-2. les « VLE » relatives aux effets sur la santé (annexe II, tableau A2) ne soient pas dépassées;
+  - les « VLE » relatives aux effets sur la santé (annexe II, tableau A2) ne soient pas dépassées;
 
-3. des mesures soient prises conformément à l’article 5, paragraphe 9, en cas de symptômes passagers au titre du point 1 dudit paragraphe; et
+  - des mesures soient prises conformément à l’article 5, paragraphe 9, en cas de symptômes passagers au titre du point 1 dudit paragraphe; et
 
-4. les salariés aient été informés des situations visées à l’article 6, point 6.
+  - les salariés aient été informés des situations visées à l’article 6, point 6.
 
 (4)
 
 Nonobstant les paragraphes 2 et 3, l’exposition peut dépasser:
 
-1. les « VLE » relatives aux effets sensoriels (annexe II, tableau A1) pendant le temps de travail, lorsque la pratique ou le procédé utilisé le justifient, pour autant que:
+- les « VLE » relatives aux effets sensoriels (annexe II, tableau A1) pendant le temps de travail, lorsque la pratique ou le procédé utilisé le justifient, pour autant que:
 
-1. le dépassement ne soit que temporaire;
+  - le dépassement ne soit que temporaire;
 
-2. les VLE relatives aux effets sur la santé (annexe II, tableau A1) ne soient pas dépassées;
+  - les VLE relatives aux effets sur la santé (annexe II, tableau A1) ne soient pas dépassées;
 
-3. des mesures de protection spécifiques aient été prises conformément à l’article 5, paragraphe 7;
+  - des mesures de protection spécifiques aient été prises conformément à l’article 5, paragraphe 7;
 
-4. des mesures soient prises conformément à l’article 5, paragraphe 9, en cas de symptômes passagers au titre du point 2 dudit paragraphe; et
+  - des mesures soient prises conformément à l’article 5, paragraphe 9, en cas de symptômes passagers au titre du point 2 dudit paragraphe; et
 
-5. les salariés aient été informés des situations visées à l’article 6, point 6;
+  - les salariés aient été informés des situations visées à l’article 6, point 6;
 
-2. les « VLE » relatives aux effets sensoriels (annexe II, tableau A3, et annexe III, tableau A2) pendant la période de travail, lorsque la pratique ou le procédé utilisé le justifient et pour autant que:
+- les « VLE » relatives aux effets sensoriels (annexe II, tableau A3, et annexe III, tableau A2) pendant la période de travail, lorsque la pratique ou le procédé utilisé le justifient et pour autant que:
 
-1. le dépassement ne soit que temporaire;
+  - le dépassement ne soit que temporaire;
 
-2. les « VLE » relatives aux effets sur la santé (annexe II, tableau A2, et annexe III, tableaux A1 et A3) ne soient pas dépassées;
+  - les « VLE » relatives aux effets sur la santé (annexe II, tableau A2, et annexe III, tableaux A1 et A3) ne soient pas dépassées;
 
-3. des mesures soient prises conformément à l’article 5, paragraphe 9, en cas de symptômes passagers au titre du point 1 dudit paragraphe; et
+  - des mesures soient prises conformément à l’article 5, paragraphe 9, en cas de symptômes passagers au titre du point 1 dudit paragraphe; et
 
-4. les salariés aient été informés des situations visées à l’article 6, point 6.
+  - les salariés aient été informés des situations visées à l’article 6, point 6.
 
 #### Chapitre 2 Obligations des employeurs
 
@@ -193,27 +193,27 @@ Ces données sont conservées par l’employeur sous forme de papier pendant une
 
 Lorsque l’évaluation des risques est effectuée en vertu de l’article L.312-2, paragraphe 4 du Code du travail, l’employeur prête une attention particulière aux éléments suivants :
 
-1. les « VLE » relatives aux effets sur la santé, les «VLE » relatives aux effets sensoriels et les « VA » visées à l’article 3 et aux annexes II et III ;
+- les « VLE » relatives aux effets sur la santé, les «VLE » relatives aux effets sensoriels et les « VA » visées à l’article 3 et aux annexes II et III ;
 
-2. la fréquence, le niveau, la durée et le type d’exposition, y compris la répartition dans l’organisme du salarié et dans l’espace de travail;
+- la fréquence, le niveau, la durée et le type d’exposition, y compris la répartition dans l’organisme du salarié et dans l’espace de travail;
 
-3. tous les effets biophysiques directs;
+- tous les effets biophysiques directs;
 
-4. toute incidence sur la santé et la sécurité des salariés à risques particuliers, notamment les salariés portant des dispositifs médicaux implantés, actifs ou passifs tels que des stimulateurs cardiaques, des défibrillateurs, des stimulateurs neurologiques, des valves neurologiques, des prothèses auditives, les salariés portant à même le corps des dispositifs médicaux, tels que les pompes à insuline, et les femmes enceintes;
+- toute incidence sur la santé et la sécurité des salariés à risques particuliers, notamment les salariés portant des dispositifs médicaux implantés, actifs ou passifs tels que des stimulateurs cardiaques, des défibrillateurs, des stimulateurs neurologiques, des valves neurologiques, des prothèses auditives, les salariés portant à même le corps des dispositifs médicaux, tels que les pompes à insuline, et les femmes enceintes;
 
-5. tout effet indirect;
+- tout effet indirect;
 
-6. l’existence d’équipements de remplacement conçus pour réduire le niveau d’exposition aux champs électromagnétiques;
+- l’existence d’équipements de remplacement conçus pour réduire le niveau d’exposition aux champs électromagnétiques;
 
-7. des informations appropriées obtenues du médecin du travail prévu par les articles L.325-1 à L.325-4 du Code du travail ;
+- des informations appropriées obtenues du médecin du travail prévu par les articles L.325-1 à L.325-4 du Code du travail ;
 
-8. les informations communiquées par le fabriquant de l’équipement;
+- les informations communiquées par le fabriquant de l’équipement;
 
-9. d’autres informations pertinentes concernant la santé et la sécurité;
+- d’autres informations pertinentes concernant la santé et la sécurité;
 
-10. des sources d’exposition multiples;
+- des sources d’exposition multiples;
 
-11. l’exposition simultanée à des champs de fréquences multiples.
+- l’exposition simultanée à des champs de fréquences multiples.
 
 (6)
 
@@ -238,23 +238,23 @@ La réduction des risques résultant de l’exposition à des champs électromag
 
 Sur la base de l’évaluation des risques visée à l’article 4, lorsque les « VA » pertinentes visées à l’article 3 et aux annexes II et III sont dépassées, et à moins que l’évaluation effectuée conformément à l’article 4, paragraphes 1er, 2 et 3, ne démontre que les « VLE » pertinentes ne sont pas dépassées et que tout risque pour la sécurité peut être exclu, l’employeur établit et met en œuvre un plan d’action qui inclut des mesures techniques ou organisationnelles visant à empêcher que l’exposition ne dépasse les « VLE » relatives aux effets sur la santé et les « VLE » relatives aux effets sensoriels, en tenant notamment compte des éléments suivants:
 
-1. d’autres méthodes de travail nécessitant une exposition moindre à des champs électromagnétiques;
+- d’autres méthodes de travail nécessitant une exposition moindre à des champs électromagnétiques;
 
-2. le choix d’équipements émettant des champs électromagnétiques moins intenses, en tenant compte du travail à effectuer;
+- le choix d’équipements émettant des champs électromagnétiques moins intenses, en tenant compte du travail à effectuer;
 
-3. des mesures techniques visant à réduire l’émission de champs électromagnétiques, y compris, lorsque c’est nécessaire, le recours à des mécanismes de verrouillage, de blindage ou à des mécanismes similaires de protection de la santé;
+- des mesures techniques visant à réduire l’émission de champs électromagnétiques, y compris, lorsque c’est nécessaire, le recours à des mécanismes de verrouillage, de blindage ou à des mécanismes similaires de protection de la santé;
 
-4. des mesures appropriées en matière de délimitation et d’accès tels que des signaux, un étiquetage, un marquage au sol, des barrières, afin de limiter ou de contrôler l’accès;
+- des mesures appropriées en matière de délimitation et d’accès tels que des signaux, un étiquetage, un marquage au sol, des barrières, afin de limiter ou de contrôler l’accès;
 
-5. en cas d’exposition à des champs électriques, des mesures et procédures permettant de gérer les décharges d’étincelles et les courants de contact grâce à des moyens techniques et à la formation des salariés;
+- en cas d’exposition à des champs électriques, des mesures et procédures permettant de gérer les décharges d’étincelles et les courants de contact grâce à des moyens techniques et à la formation des salariés;
 
-6. des programmes appropriés de maintenance des équipements de travail, du lieu de travail et des postes de travail;
+- des programmes appropriés de maintenance des équipements de travail, du lieu de travail et des postes de travail;
 
-7. la conception et l’agencement des lieux et postes de travail;
+- la conception et l’agencement des lieux et postes de travail;
 
-8. des limitations de la durée et de l’intensité de l’exposition; et
+- des limitations de la durée et de l’intensité de l’exposition; et
 
-9. la disponibilité d’équipements appropriés de protection individuelle.
+- la disponibilité d’équipements appropriés de protection individuelle.
 
 (3)
 
@@ -286,9 +286,9 @@ Les mesures de protection et de prévention sont conservées par l’employeur s
 
 Lorsque l’article 3, paragraphes 3 et 4, s’appliquent, et lorsque le salarié signale l’apparition des symptômes passagers, l’employeur met à jour, si nécessaire, l’évaluation des risques et les mesures préventives. Les symptômes passagers peuvent inclure:
 
-1. des perceptions sensorielles et des effets sur le fonctionnement du système nerveux central dans la tête suscités par des champs magnétiques variant dans le temps; et
+- des perceptions sensorielles et des effets sur le fonctionnement du système nerveux central dans la tête suscités par des champs magnétiques variant dans le temps; et
 
-2. des effets du champ magnétique statique, tels que des vertiges et des nausées.
+- des effets du champ magnétique statique, tels que des vertiges et des nausées.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -297,23 +297,23 @@ Information et formation des salariés
 
 Sans préjudice des articles L.312-6 et L.312-8 du Code du travail, l’employeur veille à ce que les salariés qui sont susceptibles d’être exposés à des champs électromagnétiques sur le lieu de travail ou leurs représentants reçoivent toute information nécessaire et une formation en rapport avec le résultat de l’évaluation des risques prévue à l’article 4, notamment en ce qui concerne :
 
-1. les mesures prises en application du présent règlement grand-ducal;
+- les mesures prises en application du présent règlement grand-ducal;
 
-2. les valeurs et les concepts relatifs aux « VLE » et aux « VA », les risques potentiels associés et les mesures de prévention prises;
+- les valeurs et les concepts relatifs aux « VLE » et aux « VA », les risques potentiels associés et les mesures de prévention prises;
 
-3. les effets indirects potentiels de l’exposition;
+- les effets indirects potentiels de l’exposition;
 
-4. les résultats de l’évaluation, de la mesure ou des calculs des niveaux d’exposition aux champs électromagnétiques effectués en application de l’article 4;
+- les résultats de l’évaluation, de la mesure ou des calculs des niveaux d’exposition aux champs électromagnétiques effectués en application de l’article 4;
 
-5. la manière de dépister les effets nocifs d’une exposition sur la santé et de les signaler;
+- la manière de dépister les effets nocifs d’une exposition sur la santé et de les signaler;
 
-6. la possibilité de symptômes passagers et de sensations liés aux effets sur le système nerveux central ou périphérique;
+- la possibilité de symptômes passagers et de sensations liés aux effets sur le système nerveux central ou périphérique;
 
-7. les circonstances dans lesquelles les salariés ont droit à une surveillance de la santé;
+- les circonstances dans lesquelles les salariés ont droit à une surveillance de la santé;
 
-8. des pratiques professionnelles sûres permettant de réduire les risques résultant d’une exposition;
+- des pratiques professionnelles sûres permettant de réduire les risques résultant d’une exposition;
 
-9. les salariés à risques particuliers visés à l’article 4, paragraphe 5, point 4, et à l’article 5, paragraphes 3 et 4.
+- les salariés à risques particuliers visés à l’article 4, paragraphe 5, point 4, et à l’article 5, paragraphes 3 et 4.
 
 #### Chapitre 3 Dispositions diverses
 
@@ -343,55 +343,55 @@ Sanctions
 
 Est puni d’une ou des peines prévues à l’article L.314-4 du Code du travail:
 
-1. l’employeur qui par infraction à l’article 3, paragraphe 2, ne veille pas à ce que l’exposition des salariés aux champs électromagnétiques soit limitée aux « VLE » relatives aux effets sur la santé et aux « VLE » relatives aux effets sensoriels établies à l’annexe II pour les effets non thermiques ou athermiques, et établies à l’annexe III pour les effets thermiques, à l’exception des dérogations visées à cet article;
+- l’employeur qui par infraction à l’article 3, paragraphe 2, ne veille pas à ce que l’exposition des salariés aux champs électromagnétiques soit limitée aux « VLE » relatives aux effets sur la santé et aux « VLE » relatives aux effets sensoriels établies à l’annexe II pour les effets non thermiques ou athermiques, et établies à l’annexe III pour les effets thermiques, à l’exception des dérogations visées à cet article;
 
-2. l’employeur qui par infraction à l’article 3, paragraphe 2, ne prend pas immédiatement et conformément à l’article 5, paragraphe 8, des mesures pour remédier au dépassement des « VLE »;
+- l’employeur qui par infraction à l’article 3, paragraphe 2, ne prend pas immédiatement et conformément à l’article 5, paragraphe 8, des mesures pour remédier au dépassement des « VLE »;
 
-3. l’employeur qui par infraction à l’article 3, paragraphe 3, ne prend pas les mesures prévues conformément à l’article 5, paragraphe 2, lorsque l’exposition dépasse les « VA », à l’exception des dérogations visées à cet article;
+- l’employeur qui par infraction à l’article 3, paragraphe 3, ne prend pas les mesures prévues conformément à l’article 5, paragraphe 2, lorsque l’exposition dépasse les « VA », à l’exception des dérogations visées à cet article;
 
-4. l’employeur qui par infraction à l’article 4, paragraphe 1 er , n’évalue pas tous les risques pour les salariés dus aux champs électromagnétiques sur le lieu de travail et, si nécessaire, ne mesure pas ou ne calcule pas les niveaux des champs électromagnétiques auxquels les salariés sont exposés;
+- l’employeur qui par infraction à l’article 4, paragraphe 1 er , n’évalue pas tous les risques pour les salariés dus aux champs électromagnétiques sur le lieu de travail et, si nécessaire, ne mesure pas ou ne calcule pas les niveaux des champs électromagnétiques auxquels les salariés sont exposés;
 
-5. l’employeur qui par infraction à l’article 4, paragraphe 4, ne veille pas à ce que l’évaluation, la mesure et les calculs visés aux paragraphes 1 er , 2 et 3 soient programmés et effectués par des services ou personnes compétents, à des intervalles appropriés;
+- l’employeur qui par infraction à l’article 4, paragraphe 4, ne veille pas à ce que l’évaluation, la mesure et les calculs visés aux paragraphes 1 er , 2 et 3 soient programmés et effectués par des services ou personnes compétents, à des intervalles appropriés;
 
-6. l’employeur qui par infraction à l’article 4, paragraphe 4, alinéa 2, ne conserve pas les informations y visées sous forme de papier pendant une durée de 30 ans au moins;
+- l’employeur qui par infraction à l’article 4, paragraphe 4, alinéa 2, ne conserve pas les informations y visées sous forme de papier pendant une durée de 30 ans au moins;
 
-7. l’employeur qui par infraction à l’article 4, paragraphe 4, alinéa 2, ne transmet pas les informations y visées à l’Association d’assurance accidents;
+- l’employeur qui par infraction à l’article 4, paragraphe 4, alinéa 2, ne transmet pas les informations y visées à l’Association d’assurance accidents;
 
-8. l’employeur qui par infraction à l’article 4, paragraphe 5, ne prête pas une attention particulière aux éléments cités à l’article en question lors de l’évaluation des risques y prévue;
+- l’employeur qui par infraction à l’article 4, paragraphe 5, ne prête pas une attention particulière aux éléments cités à l’article en question lors de l’évaluation des risques y prévue;
 
-9. l’employeur qui par infraction à l’article 4, paragraphe 7, ne dispose pas de l’évaluation des risques et ne détermine pas les mesures à prendre y visées;
+- l’employeur qui par infraction à l’article 4, paragraphe 7, ne dispose pas de l’évaluation des risques et ne détermine pas les mesures à prendre y visées;
 
-10. l’employeur qui par infraction à l’article 4, paragraphe 7, ne met pas à jour l’évaluation des risques dans les cas y définis;
+- l’employeur qui par infraction à l’article 4, paragraphe 7, ne met pas à jour l’évaluation des risques dans les cas y définis;
 
-11. l’employeur qui par infraction à l’article 5, paragraphe 1 er , ne prend pas les mesures nécessaires pour garantir que les risques résultant des champs électromagnétiques sur le lieu de travail soient éliminés ou réduits au minimum;
+- l’employeur qui par infraction à l’article 5, paragraphe 1 er , ne prend pas les mesures nécessaires pour garantir que les risques résultant des champs électromagnétiques sur le lieu de travail soient éliminés ou réduits au minimum;
 
-12. l’employeur qui par infraction à l’article 5 paragraphe 2, n’établit et ne met pas en œuvre le plan d’action y prévu en tenant compte des éléments énumérés;
+- l’employeur qui par infraction à l’article 5 paragraphe 2, n’établit et ne met pas en œuvre le plan d’action y prévu en tenant compte des éléments énumérés;
 
-13. l’employeur qui par infraction à l’article 5 paragraphe 3, n’élabore et n’applique pas le plan d’action y prévu concernant les salariés à risques particuliers;
+- l’employeur qui par infraction à l’article 5 paragraphe 3, n’élabore et n’applique pas le plan d’action y prévu concernant les salariés à risques particuliers;
 
-14. l’employeur qui par infraction à l’article 5 paragraphe 4, n’adapte pas les mesures y visées aux exigences des salariés à risques particuliers et, le cas échéant, aux évaluations des risques individuels à l’égard des salariés y visés ou à l’égard des salariées enceintes ayant informé leur employeur de leur état;
+- l’employeur qui par infraction à l’article 5 paragraphe 4, n’adapte pas les mesures y visées aux exigences des salariés à risques particuliers et, le cas échéant, aux évaluations des risques individuels à l’égard des salariés y visés ou à l’égard des salariées enceintes ayant informé leur employeur de leur état;
 
-15. l’employeur qui par infraction à l’article 5, paragraphe 5, n’appose pas la signalisation adéquate y prévue;
+- l’employeur qui par infraction à l’article 5, paragraphe 5, n’appose pas la signalisation adéquate y prévue;
 
-16. l’employeur qui par infraction à l’article 5, paragraphe 6, ne prend pas les mesures de protection spécifiques y visées;
+- l’employeur qui par infraction à l’article 5, paragraphe 6, ne prend pas les mesures de protection spécifiques y visées;
 
-17. l’employeur qui par infraction à l’article 5, paragraphe 7, ne prend pas les mesures de protection spécifiques y visées;
+- l’employeur qui par infraction à l’article 5, paragraphe 7, ne prend pas les mesures de protection spécifiques y visées;
 
-18. l’employeur qui par infraction à l’article 5, paragraphe 8, en cas de dépassement des « VLE » y visés, ne prend pas immédiatement des mesures pour ramener l’exposition au-dessous de celles-ci;
+- l’employeur qui par infraction à l’article 5, paragraphe 8, en cas de dépassement des « VLE » y visés, ne prend pas immédiatement des mesures pour ramener l’exposition au-dessous de celles-ci;
 
-19. l’employeur qui par infraction à l’article 5, paragraphe 8, ne détermine et ne consigne pas les causes du dépassement y visé et ne modifie pas en conséquence les mesures de protection et de prévention;
+- l’employeur qui par infraction à l’article 5, paragraphe 8, ne détermine et ne consigne pas les causes du dépassement y visé et ne modifie pas en conséquence les mesures de protection et de prévention;
 
-20. l’employeur qui par infraction à l’article 5, paragraphe 8, alinéa 2, ne conserve pas les informations y visées sous forme de papier pendant une durée de 30 ans au moins;
+- l’employeur qui par infraction à l’article 5, paragraphe 8, alinéa 2, ne conserve pas les informations y visées sous forme de papier pendant une durée de 30 ans au moins;
 
-21. l’employeur qui par infraction à l’article 5, paragraphe 8, alinéa 2, ne transmet pas les informations y visées à l’Association d’assurance accidents;
+- l’employeur qui par infraction à l’article 5, paragraphe 8, alinéa 2, ne transmet pas les informations y visées à l’Association d’assurance accidents;
 
-22. l’employeur qui par infraction à l’article 5, paragraphe 9, ne met pas à jour l’évaluation des risques et les mesures préventives;
+- l’employeur qui par infraction à l’article 5, paragraphe 9, ne met pas à jour l’évaluation des risques et les mesures préventives;
 
-23. l’employeur qui par infraction à l’article 6, ne veille pas à ce que les personnes y visées reçoivent toute information nécessaire ainsi que la formation y prévues;
+- l’employeur qui par infraction à l’article 6, ne veille pas à ce que les personnes y visées reçoivent toute information nécessaire ainsi que la formation y prévues;
 
-24. l’employeur qui par infraction à l’article 7, paragraphe 2, alinéa 2, ne veille pas à ce que le salarié concerné puisse bénéficier d’examens médicaux ou d’une surveillance médicale appropriés, conformément aux articles L.326-1 à L.327-1 du Code du travail ;
+- l’employeur qui par infraction à l’article 7, paragraphe 2, alinéa 2, ne veille pas à ce que le salarié concerné puisse bénéficier d’examens médicaux ou d’une surveillance médicale appropriés, conformément aux articles L.326-1 à L.327-1 du Code du travail ;
 
-25. l’employeur qui par infraction à l’article 7, paragraphe 2, alinéa 3, ne rend pas possible ces examens ou cette surveillance pendant les heures de travail ou ne prend pas en charge les coûts y afférents.
+- l’employeur qui par infraction à l’article 7, paragraphe 2, alinéa 3, ne rend pas possible ces examens ou cette surveillance pendant les heures de travail ou ne prend pas en charge les coûts y afférents.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -400,31 +400,31 @@ Dérogations
 
 Par dérogation à l’article 3, mais sans préjudice de l’article 5, paragraphe 1er, les dispositions suivantes s’appliquent:
 
-1. L’exposition peut dépasser les « VLE » si elle est liée à l’installation, à l’essai, à l’utilisation, au développement, à l’entretien d’équipements d’imagerie par résonance magnétique (IRM) destinés aux soins aux patients dans le secteur de la santé ou si elle est liée à la recherche dans ce domaine, pour autant que toutes les conditions suivantes soient remplies:
+- L’exposition peut dépasser les « VLE » si elle est liée à l’installation, à l’essai, à l’utilisation, au développement, à l’entretien d’équipements d’imagerie par résonance magnétique (IRM) destinés aux soins aux patients dans le secteur de la santé ou si elle est liée à la recherche dans ce domaine, pour autant que toutes les conditions suivantes soient remplies:
 
-1. l’évaluation des risques effectuée conformément à l’article 4 a montré que les « VLE » sont dépassées;
+  - l’évaluation des risques effectuée conformément à l’article 4 a montré que les « VLE » sont dépassées;
 
-2. compte tenu de l’état des connaissances du moment, toutes les mesures techniques ou organisationnelles ont été appliquées;
+  - compte tenu de l’état des connaissances du moment, toutes les mesures techniques ou organisationnelles ont été appliquées;
 
-3. les circonstances du dépassement des « VLE » sont dûment justifiées;
+  - les circonstances du dépassement des « VLE » sont dûment justifiées;
 
-4. les caractéristiques du lieu de travail, de l’équipement de travail ou des pratiques de travail ont été prises en compte; et
+  - les caractéristiques du lieu de travail, de l’équipement de travail ou des pratiques de travail ont été prises en compte; et
 
-5. l’employeur démontre que lessalariés sont encore protégés contre les effets nocifs pour la santé et les risques pour la sécurité, y compris en veillant à ce que les instructions fournies par le fabricant en vue d’une utilisation sûre conformément à la loi du 16 janvier 1990 relative aux dispositifs médicaux ainsi qu’au règlement grand-ducal modifié du 11 août 1996 relatif aux dispositifs médicaux soient suivies;
+  - l’employeur démontre que lessalariés sont encore protégés contre les effets nocifs pour la santé et les risques pour la sécurité, y compris en veillant à ce que les instructions fournies par le fabricant en vue d’une utilisation sûre conformément à la loi du 16 janvier 1990 relative aux dispositifs médicaux ainsi qu’au règlement grand-ducal modifié du 11 août 1996 relatif aux dispositifs médicaux soient suivies;
 
-2. La Direction de la santé, l’Inspection du travail et des mines, le Service national de la sécurité dans la fonction publique, l’Administration des services médicaux du secteur public ou le Service de santé de l’armée luxembourgeoise, chacun en ce qui le concerne peuvent autoriser la mise en œuvre d’un système de protection équivalent ou plus spécifique pour le personnel travaillant dans des installations militaires opérationnelles ou participant à des activités militaires, y compris des exercices militaires internationaux conjoints, pour autant qu’il permette de prévenir les effets nocifs pour la santé et les risques pour la sécurité;
+- La Direction de la santé, l’Inspection du travail et des mines, le Service national de la sécurité dans la fonction publique, l’Administration des services médicaux du secteur public ou le Service de santé de l’armée luxembourgeoise, chacun en ce qui le concerne peuvent autoriser la mise en œuvre d’un système de protection équivalent ou plus spécifique pour le personnel travaillant dans des installations militaires opérationnelles ou participant à des activités militaires, y compris des exercices militaires internationaux conjoints, pour autant qu’il permette de prévenir les effets nocifs pour la santé et les risques pour la sécurité;
 
-3. La Direction de la santé et l’Inspection du travail et des mines, chacun en ce qui le concerne peuvent autoriser, dans des circonstances dûment justifiées et aussi longtemps qu’elles le restent, un dépassement temporaire des « VLE » dans des secteurs spécifiques ou pour des activités spécifiques en dehors du champ d’application des points 1 et 2. Aux fins du présent point, on entend par « circonstances dûment justifiées » les circonstances dans lesquelles les conditions suivantes sont remplies:
+- La Direction de la santé et l’Inspection du travail et des mines, chacun en ce qui le concerne peuvent autoriser, dans des circonstances dûment justifiées et aussi longtemps qu’elles le restent, un dépassement temporaire des « VLE » dans des secteurs spécifiques ou pour des activités spécifiques en dehors du champ d’application des points 1 et 2. Aux fins du présent point, on entend par « circonstances dûment justifiées » les circonstances dans lesquelles les conditions suivantes sont remplies:
 
-1. l’évaluation des risques effectuée conformément à l’article 4 a montré que les « VLE » sont dépassées;
+  - l’évaluation des risques effectuée conformément à l’article 4 a montré que les « VLE » sont dépassées;
 
-2. compte tenu de l’état des connaissances du moment, toutes les mesures techniques ou organisationnelles ont été appliquées;
+  - compte tenu de l’état des connaissances du moment, toutes les mesures techniques ou organisationnelles ont été appliquées;
 
-3. les caractéristiques particulières du lieu de travail, du matériel de travail ou des pratiques de travail ont été prises en compte; et
+  - les caractéristiques particulières du lieu de travail, du matériel de travail ou des pratiques de travail ont été prises en compte; et
 
-4. l’employeur démontre que les salariés sont toujours protégés contre les effets nocifs pour la santé et les risques pour la sécurité, notamment en utilisant des normes et des lignes directrices comparables, plus spécifiques et reconnues au niveau international.
+  - l’employeur démontre que les salariés sont toujours protégés contre les effets nocifs pour la santé et les risques pour la sécurité, notamment en utilisant des normes et des lignes directrices comparables, plus spécifiques et reconnues au niveau international.
 
-4. Aux fins des dérogations citées aux points 1 à 3, l’employeur est tenu de faire constater par un expert agréé agissant dans le cadre des compétences et attributions de l’Inspection du travail et des mines la conformité et l’exactitude des mesures mises en œuvre par rapport aux conditions du présent article.
+- Aux fins des dérogations citées aux points 1 à 3, l’employeur est tenu de faire constater par un expert agréé agissant dans le cadre des compétences et attributions de l’Inspection du travail et des mines la conformité et l’exactitude des mesures mises en œuvre par rapport aux conditions du présent article.
 
 #### Chapitre 4 Dispositions finales
 

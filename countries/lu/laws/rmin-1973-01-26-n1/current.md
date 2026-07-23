@@ -31,13 +31,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 A partir du 1er juin 1977, le personnel ci-après énuméré de l’administration des postes et télécommunications bénéficie des indemnités forfaitaires spéciales suivantes:
 
-1. le personnel chauffeur et convoyeur des véhicules automobiles des services de transport et de distribution
+- le personnel chauffeur et convoyeur des véhicules automobiles des services de transport et de distribution
 
-1. 0,97 euros par jour, lorsque la durée des courses journalières est de 4 heures au moins,
+  - 0,97 euros par jour, lorsque la durée des courses journalières est de 4 heures au moins,
 
-2. 0,55 euros par jour, lorsque la durée des courses journalières dépasse 1 heure sans atteindre 4 heures.
+  - 0,55 euros par jour, lorsque la durée des courses journalières dépasse 1 heure sans atteindre 4 heures.
 
-2. A partir du 1 er février 1981 le personnel convoyant les transports postaux par chemin de fer, les facteurs chauffeurs et convoyeurs en service régional ainsi que les facteurs en service de distribution rurale bénéficient de l’indemnité forfaitaire spéciale ci-après: 2,16 euros par repas principal pris au dehors.
+- A partir du 1 er février 1981 le personnel convoyant les transports postaux par chemin de fer, les facteurs chauffeurs et convoyeurs en service régional ainsi que les facteurs en service de distribution rurale bénéficient de l’indemnité forfaitaire spéciale ci-après: 2,16 euros par repas principal pris au dehors.
 
 <a id="art-2"></a>
 ## Art. 2.

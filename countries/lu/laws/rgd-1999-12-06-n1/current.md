@@ -76,27 +76,27 @@ Opérations mettant en oeuvre des MGM.
 
 Les opérations mettant en oeuvre des MGM sont classées dans la catégorie 1 quand tous les critères suivants sont remplis:
 
-1. le micro-organisme récepteur ou donneur n’est pas susceptible de causer une pathologie chez l’homme, les animaux ou les végétaux;
+- le micro-organisme récepteur ou donneur n’est pas susceptible de causer une pathologie chez l’homme, les animaux ou les végétaux;
 
-2. le vecteur et l’insert sont de telle nature qu’ils ne puissent pas doter le micro-organisme génétiquement modifié d’un phénotype susceptible de causer une pathologie chez l’homme, les animaux ou les végétaux ou causer des effets négatifs sur l’environnement;
+- le vecteur et l’insert sont de telle nature qu’ils ne puissent pas doter le micro-organisme génétiquement modifié d’un phénotype susceptible de causer une pathologie chez l’homme, les animaux ou les végétaux ou causer des effets négatifs sur l’environnement;
 
-3. le micro-organisme génétiquement modifié n’est pas susceptible de causer une pathologie chez l’homme, les animaux ou les végétaux, et n’est pas susceptible de causer des effets négatifs sur l’environnement.
+- le micro-organisme génétiquement modifié n’est pas susceptible de causer une pathologie chez l’homme, les animaux ou les végétaux, et n’est pas susceptible de causer des effets négatifs sur l’environnement.
 
 2.
 
 Les opérations mettant en oeuvre des MGM sont classées dans le catégorie 2 quand les critères suivants sont remplis, sans qu’elles répondent aux conditions du paragraphe 1 ci-dessus:
 
-1. le micro-organisme récepteur et/ou donneur sont des micro-organismes appartenant au groupe 1 ou 2 et ne donnant pas lieu à des micro-organismes du groupe 3 ou 4.
+- le micro-organisme récepteur et/ou donneur sont des micro-organismes appartenant au groupe 1 ou 2 et ne donnant pas lieu à des micro-organismes du groupe 3 ou 4.
 
-2. le vecteur et l’insert sont caractérisés de façon à ce que d’après une évaluation de risque préalable, le micro-organisme génétiquement modifié ne dépasse pas la potentialité de danger du groupe 2 et ne donne pas lieu à des micro-organismes génétiquement modifiés d’un groupe supérieur.
+- le vecteur et l’insert sont caractérisés de façon à ce que d’après une évaluation de risque préalable, le micro-organisme génétiquement modifié ne dépasse pas la potentialité de danger du groupe 2 et ne donne pas lieu à des micro-organismes génétiquement modifiés d’un groupe supérieur.
 
 3.
 
 Les opérations mettant en oeuvre des MGM sont classées dans la catégorie 3 quand les critères suivantes sont remplis, sans qu’elles répondent aux conditions du paragraphe 1 et 2 ci-dessus:
 
-1. le micro-organisme récepteur et/ou donneur sont des micro-organismes appartenant au groupe 1, 2 ou 3 et ne donnant pas lieu à des micro-organismes du groupe 4.
+- le micro-organisme récepteur et/ou donneur sont des micro-organismes appartenant au groupe 1, 2 ou 3 et ne donnant pas lieu à des micro-organismes du groupe 4.
 
-2. le vecteur et l’insert sont caractérisés à ce que d’après une évaluation de risque préalable, le micro-organisme génétiquement modifié ne dépasse pas la potentialité de danger du groupe 3 et ne donne pas lieu à des micro-organismes génétiquement modifiés du groupe 4.
+- le vecteur et l’insert sont caractérisés à ce que d’après une évaluation de risque préalable, le micro-organisme génétiquement modifié ne dépasse pas la potentialité de danger du groupe 3 et ne donne pas lieu à des micro-organismes génétiquement modifiés du groupe 4.
 
 4.
 
@@ -111,27 +111,27 @@ Opérations mettant en oeuvre des OGM (animaux ou plantes).
 
 Les opérations mettant en oeuvre des OGM sont classées dans le catégorie 1 quand les critères suivants sont remplis:
 
-1. les organismes récepteurs sont des animaux ou plantes qui présentent aucun risque pour la santé humaine ou l’environnement.
+- les organismes récepteurs sont des animaux ou plantes qui présentent aucun risque pour la santé humaine ou l’environnement.
 
-2. les vecteurs viraux ne doivent pas être transmissibles par voie horizontale.
+- les vecteurs viraux ne doivent pas être transmissibles par voie horizontale.
 
-3. les vecteurs et les inserts (provenant de l’organisme donneur ou d’origine synthétique sont bien caractérisés de façon à ce que d’après une évaluation de risque préalable, l’organisme génétiquement modifié ne dépasse pas la potentialité de danger des organismes du groupe 1 et ne donne pas lieu à des OGM d’un groupe supérieur.
+- les vecteurs et les inserts (provenant de l’organisme donneur ou d’origine synthétique sont bien caractérisés de façon à ce que d’après une évaluation de risque préalable, l’organisme génétiquement modifié ne dépasse pas la potentialité de danger des organismes du groupe 1 et ne donne pas lieu à des OGM d’un groupe supérieur.
 
 2.
 
 Les opérations mettant en oeuvre des OGM sont classées dans la catégorie 2 quand les critères suivants sont remplis, sans qu’elles répondent aux conditions du paragraphe 1 ci-dessus:
 
-1. les organismes récepteurs sont des animaux ou plantes qui ne présentent qu’un risque faible pour la santé humaine et l’environnement.
+- les organismes récepteurs sont des animaux ou plantes qui ne présentent qu’un risque faible pour la santé humaine et l’environnement.
 
-2. les vecteurs et les inserts (provenant de l’organisme donneur ou d’origine synthétique sont bien caractérisés de façon à ce que d’après une évaluation de risque préalable, l’organisme génétiquement modifié ne dépasse pas la potentialité de danger des organismes de la groupe 2 et ne donne pas lieu à des OGM d’un groupe supérieur.
+- les vecteurs et les inserts (provenant de l’organisme donneur ou d’origine synthétique sont bien caractérisés de façon à ce que d’après une évaluation de risque préalable, l’organisme génétiquement modifié ne dépasse pas la potentialité de danger des organismes de la groupe 2 et ne donne pas lieu à des OGM d’un groupe supérieur.
 
 3.
 
 Les opérations mettant en oeuvre des OGM sont classées dans le catégorie 3 quand les critères suivants sont remplis, sans qu’elles répondent aux conditions du paragraphe 1 et 2 ci-dessus:
 
-1. les organismes récepteurs sont des animaux ou plantes à partir desquels il y a un risque modéré pour la santé humaine ou l’environnement.
+- les organismes récepteurs sont des animaux ou plantes à partir desquels il y a un risque modéré pour la santé humaine ou l’environnement.
 
-2. les vecteurs et les inserts (provenant de l’organisme donneur ou d’origine synthétique sont bien caractérisés de façon à ce que d’après une évaluation de risque préalable, l’organisme génétiquement modifié ne dépasse pas la potentialité de danger des organismes de la groupe 2 et ne donne pas lieu à des OGM d’un groupe supérieur.
+- les vecteurs et les inserts (provenant de l’organisme donneur ou d’origine synthétique sont bien caractérisés de façon à ce que d’après une évaluation de risque préalable, l’organisme génétiquement modifié ne dépasse pas la potentialité de danger des organismes de la groupe 2 et ne donne pas lieu à des OGM d’un groupe supérieur.
 
 4.
 

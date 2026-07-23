@@ -43,15 +43,15 @@ Pour l'application du présent règlement le terme «commune» désigne tant les
 
 Pour pouvoir être engagés en qualité d'employé communal les candidats doivent remplir les conditions suivantes:
 
-1. être ressortissant d’un Etat membre de l’Union Européenne;
+- être ressortissant d’un Etat membre de l’Union Européenne;
 
-2. jouir des droits civils et politiques;
+- jouir des droits civils et politiques;
 
-3. offrir les garanties de moralité requises;
+- offrir les garanties de moralité requises;
 
-4. satisfaire aux conditions d'aptitude et de formation requises pour exercer l'emploi brigué;
+- satisfaire aux conditions d'aptitude et de formation requises pour exercer l'emploi brigué;
 
-5. avoir fait preuve, avant l'engagement, d'une connaissance adaptée au niveau de carrière des trois langues administratives, telles que définies par la loi du 24 février 1984 sur le régime des langues;
+- avoir fait preuve, avant l'engagement, d'une connaissance adaptée au niveau de carrière des trois langues administratives, telles que définies par la loi du 24 février 1984 sur le régime des langues;
 
 La condition de nationalité ne s'applique pas à l'égard des ressortissants des Etats membres de l'Union Européenne qui sont candidats aux emplois dans les secteurs
 
@@ -84,9 +84,9 @@ La résiliation du contrat est prononcée par le conseil communal sous l'approba
 
 La résiliation du contrat résulte de plein droit:
 
-1. de la perte de la nationalité de l’un des Etats membres de l’Union Européenne;
+- de la perte de la nationalité de l’un des Etats membres de l’Union Européenne;
 
-2. des conditions qui, à l'égard des fonctionnaires communaux, entraînent la perte de l'emploi, du titre et des droits à la pension.
+- des conditions qui, à l'égard des fonctionnaires communaux, entraînent la perte de l'emploi, du titre et des droits à la pension.
 
 2.
 
@@ -112,9 +112,9 @@ La résiliation du contrat par mesure disciplinaire est prononcée par le consei
 
 Sans préjudice de l’application des dispositions de l’article 9 du présent règlement, l’employé communal en activité de service, qui bénéficie d’un contrat à durée indéterminée, a droit, pour lui-même et ses survivants, à l’application du régime de pension des fonctionnaires communaux s’il remplit une des conditions suivantes:
 
-1. s’il a à son actif vingt ans de service à compter de l’entrée en vigueur du contrat à durée indéterminée;
+- s’il a à son actif vingt ans de service à compter de l’entrée en vigueur du contrat à durée indéterminée;
 
-2. à partir de l’âge de cinquante-cinq ans.
+- à partir de l’âge de cinquante-cinq ans.
 
 Le même droit existe pour l'employé privé engagé avant l'âge de cinquante-cinq ans à partir du moment où il obtient le statut d'employé communal à la condition que les différentes périodes se succèdent sans interruption.
 
@@ -147,15 +147,15 @@ Pour l'application du présent article, les dates à considérer qui ne coïncid
 
 Seront mises en compte pour l'application des délais prévus aux articles 7 et 8 du présent règlement:
 
-1. Les périodes passées au service communal en qualité d'employé privé, à condition que ces périodes se succèdent sans interruption et qu'elles rejoignent sans interruption la période sous le statut de l'employé communal. L'interruption de cette dernière période ne nuit pas à la prise en compte des périodes antérieures passées au service communal lorsqu'il y a reprise de service ultérieure;
+- Les périodes passées au service communal en qualité d'employé privé, à condition que ces périodes se succèdent sans interruption et qu'elles rejoignent sans interruption la période sous le statut de l'employé communal. L'interruption de cette dernière période ne nuit pas à la prise en compte des périodes antérieures passées au service communal lorsqu'il y a reprise de service ultérieure;
 
-2. les périodes passées au service communal en qualité de fonctionnaire nommé à titre définitif ou provisoire ainsi que les périodes passées au service communal en qualité d'employé privé et qui précèdent sans interruption les périodes passées comme fonctionnaire visées par la présente lettre;
+- les périodes passées au service communal en qualité de fonctionnaire nommé à titre définitif ou provisoire ainsi que les périodes passées au service communal en qualité d'employé privé et qui précèdent sans interruption les périodes passées comme fonctionnaire visées par la présente lettre;
 
-3. la période de rengagement en qualité d'employé privé dans le cas visé par l'article 6, paragraphe 2, à condition qu'il n'y ait pas d'interruption entre la résiliation de plein droit visée à l'article 6, paragraphe 1. sous a), et la date du recouvrement de la nationalité de l’un des Etats membres de l’Union Européenne .
+- la période de rengagement en qualité d'employé privé dans le cas visé par l'article 6, paragraphe 2, à condition qu'il n'y ait pas d'interruption entre la résiliation de plein droit visée à l'article 6, paragraphe 1. sous a), et la date du recouvrement de la nationalité de l’un des Etats membres de l’Union Européenne .
 
-4. La période d'engagement en qualité d'employé privé qui précède sans interruption de service la date de l'engagement en qualité d'employé communal à la suite de l'acquisition de la nationalité de l’un des Etats membres de l’Union Européenne .
+- La période d'engagement en qualité d'employé privé qui précède sans interruption de service la date de l'engagement en qualité d'employé communal à la suite de l'acquisition de la nationalité de l’un des Etats membres de l’Union Européenne .
 
-5. les périodes passées au service de l’Etat en qualité de fonctionnaire ou d’employé de l’Etat à condition que ces périodes se succèdent sans interruption et qu’elles rejoignent sans interruption la période sous contrat à durée indéterminée; l’interruption de cette dernière ne nuit pas à la prise en compte des périodes antérieures passées au service d’une commune ou de l’Etat, lorsqu’il y a reprise de service ultérieure.
+- les périodes passées au service de l’Etat en qualité de fonctionnaire ou d’employé de l’Etat à condition que ces périodes se succèdent sans interruption et qu’elles rejoignent sans interruption la période sous contrat à durée indéterminée; l’interruption de cette dernière ne nuit pas à la prise en compte des périodes antérieures passées au service d’une commune ou de l’Etat, lorsqu’il y a reprise de service ultérieure.
 
 2.
 

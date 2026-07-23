@@ -56,13 +56,13 @@ Contenu de la publicité et du télé-achat
 
 La publicité télévisée ne doit pas porter un préjudice moral ou physique aux mineurs et doit, de ce fait, respecter les critères suivants pour leur protection :
 
-1. elle ne doit pas inciter directement les mineurs à l'achat d'un produit ou d'un service, en exploitant leur inexpérience ou leur crédulité;
+- elle ne doit pas inciter directement les mineurs à l'achat d'un produit ou d'un service, en exploitant leur inexpérience ou leur crédulité;
 
-2. elle ne doit pas inciter directement les mineurs à persuader leurs parents ou des tiers d'acheter les produits ou les services concernés;
+- elle ne doit pas inciter directement les mineurs à persuader leurs parents ou des tiers d'acheter les produits ou les services concernés;
 
-3. elle ne doit pas exploiter la confiance particulière que les mineurs ont dans leurs parents, leurs enseignants ou d'autres personnes;
+- elle ne doit pas exploiter la confiance particulière que les mineurs ont dans leurs parents, leurs enseignants ou d'autres personnes;
 
-4. elle ne doit pas, sans motif, présenter des mineurs en situation dangereuse.
+- elle ne doit pas, sans motif, présenter des mineurs en situation dangereuse.
 
 (2)
 
@@ -85,17 +85,17 @@ Le télé-achat concernant des médicaments faisant l'objet d'une autorisation d
 
 La publicité télévisée et le télé-achat pour les boissons alcooliques doivent respecter les critères suivants :
 
-1. elle ne peut pas être spécifiquement adressée aux mineurs et, en particulier, présenter des mineurs consommant ces boissons;
+- elle ne peut pas être spécifiquement adressée aux mineurs et, en particulier, présenter des mineurs consommant ces boissons;
 
-2. elle ne doit pas associer la consommation d'alcool à une amélioration des performances physiques ou à la conduite automobile;
+- elle ne doit pas associer la consommation d'alcool à une amélioration des performances physiques ou à la conduite automobile;
 
-3. elle ne doit pas susciter l'impression que la consommation d'alcool favorise la réussite sociale ou sexuelle;
+- elle ne doit pas susciter l'impression que la consommation d'alcool favorise la réussite sociale ou sexuelle;
 
-4. elle ne doit pas suggérer que les boissons alcooliques sont dotées de propriétés thérapeutiques ou ont un effet stimulant, sédatif ou anti-conflictuel;
+- elle ne doit pas suggérer que les boissons alcooliques sont dotées de propriétés thérapeutiques ou ont un effet stimulant, sédatif ou anti-conflictuel;
 
-5. elle ne doit pas encourager la consommation immodérée de boissons alcooliques ou donner une image négative de l'abstinence ou de la sobriété;
+- elle ne doit pas encourager la consommation immodérée de boissons alcooliques ou donner une image négative de l'abstinence ou de la sobriété;
 
-6. elle ne doit pas souligner comme qualité positive des boissons leur forte teneur en alcool.
+- elle ne doit pas souligner comme qualité positive des boissons leur forte teneur en alcool.
 
 (4)
 
@@ -110,11 +110,11 @@ Parrainage
 
 Les services de médias audiovisuels ou les programmes audiovisuels qui sont parrainés doivent répondre aux exigences suivantes :
 
-1. leur contenu et, dans le cas de services de télévision, leur programmation ne peuvent, en aucun cas, être influencés par le parrain de manière à porter atteinte à la responsabilité et à l'indépendance éditoriale du fournisseur de services de médias audiovisuels ;
+- leur contenu et, dans le cas de services de télévision, leur programmation ne peuvent, en aucun cas, être influencés par le parrain de manière à porter atteinte à la responsabilité et à l'indépendance éditoriale du fournisseur de services de médias audiovisuels ;
 
-2. ils n'incitent pas directement à l'achat ou à la location de biens ou de services, notamment en faisant des références promotionnelles spécifiques à ces produits ou services;
+- ils n'incitent pas directement à l'achat ou à la location de biens ou de services, notamment en faisant des références promotionnelles spécifiques à ces produits ou services;
 
-3. les téléspectateurs sont clairement informés de l'existence d'un accord de parrainage. Les programmes parrainés doivent être clairement identifiés en tant que tels par le nom, le logo et/ou un autre symbole du parraineur, par exemple au moyen d'une référence à ses produits ou services ou d'un signe distinctif, d'une manière adaptée au programme au début, à la fin ou pendant celui-ci.
+- les téléspectateurs sont clairement informés de l'existence d'un accord de parrainage. Les programmes parrainés doivent être clairement identifiés en tant que tels par le nom, le logo et/ou un autre symbole du parraineur, par exemple au moyen d'une référence à ses produits ou services ou d'un signe distinctif, d'une manière adaptée au programme au début, à la fin ou pendant celui-ci.
 
 (2)
 
@@ -137,9 +137,9 @@ Placement de produit
 
 Par dérogation à l'interdiction prévue à l'article 26ter (7) de la loi modifiée du 27 juillet 1991 sur les médias électroniques, le placement de produit est autorisé dans les services de médias audiovisuels
 
-1. dans les œuvres cinématographiques, films et séries réalisés pour des services de médias audiovisuels, ainsi que dans les programmes sportifs et de divertissement; ou
+- dans les œuvres cinématographiques, films et séries réalisés pour des services de médias audiovisuels, ainsi que dans les programmes sportifs et de divertissement; ou
 
-2. lorsqu'il n'y a pas de paiement mais uniquement la fourniture, à titre gratuit, de certains biens ou services, tels que des accessoires de production et des lots, en vue de leur inclusion dans un programme.
+- lorsqu'il n'y a pas de paiement mais uniquement la fourniture, à titre gratuit, de certains biens ou services, tels que des accessoires de production et des lots, en vue de leur inclusion dans un programme.
 
 La dérogation prévue sous a) ne s'applique pas aux programmes pour enfants.
 
@@ -147,13 +147,13 @@ La dérogation prévue sous a) ne s'applique pas aux programmes pour enfants.
 
 Les programmes qui comportent du placement de produit répondent au moins à toutes les exigences suivantes:
 
-1. leur contenu et leur organisation au sein d’une grille, dans le cas de la radiodiffusion télévisuelle, ou au sein d’un catalogue, dans le cas de services de médias audiovisuels à la demande ne doivent en aucun cas être influencés de manière à porter atteinte à la responsabilité et à l'indépendance éditoriale du fournisseur de services de médias audiovisuels;
+- leur contenu et leur organisation au sein d’une grille, dans le cas de la radiodiffusion télévisuelle, ou au sein d’un catalogue, dans le cas de services de médias audiovisuels à la demande ne doivent en aucun cas être influencés de manière à porter atteinte à la responsabilité et à l'indépendance éditoriale du fournisseur de services de médias audiovisuels;
 
-2. ils n'incitent pas directement à l'achat ou à la location de biens ou de services, notamment en faisant des références promotionnelles spécifiques à ces produits ou services;
+- ils n'incitent pas directement à l'achat ou à la location de biens ou de services, notamment en faisant des références promotionnelles spécifiques à ces produits ou services;
 
-3. ils ne mettent pas en avant de manière injustifiée le produit en question;
+- ils ne mettent pas en avant de manière injustifiée le produit en question;
 
-4. les spectateurs sont clairement informés de l’existence d’un placement de produit au moyen d’une identification appropriée au début et à la fin du programme, ainsi que lorsqu’un programme reprend après une interruption publicitaire, afin d’éviter toute confusion de la part du spectateur.
+- les spectateurs sont clairement informés de l’existence d’un placement de produit au moyen d’une identification appropriée au début et à la fin du programme, ainsi que lorsqu’un programme reprend après une interruption publicitaire, afin d’éviter toute confusion de la part du spectateur.
 
 Les exigences énoncées au point d) ne sont pas obligatoires si le programme concerné n'a été ni produit ni commandé par le fournisseur de services de médias audiovisuels lui-même ou par une société affiliée à ce fournisseur.
 
@@ -178,13 +178,13 @@ La proportion de spots de publicité télévisée et de spots de télé-achat au
 
 Le paragraphe (1) ne s’applique pas :
 
-1. aux messages diffusés par l’organisme de radiodiffusion télévisuelle en liaison avec ses propres programmes et les produits connexes directement dérivés de ces programmes, ou avec les programmes et services de médias audiovisuels d’autres entités appartenant au même groupe de radiodiffusion télévisuelle ;
+- aux messages diffusés par l’organisme de radiodiffusion télévisuelle en liaison avec ses propres programmes et les produits connexes directement dérivés de ces programmes, ou avec les programmes et services de médias audiovisuels d’autres entités appartenant au même groupe de radiodiffusion télévisuelle ;
 
-2. aux annonces de parrainage ;
+- aux annonces de parrainage ;
 
-3. aux placements de produits ;
+- aux placements de produits ;
 
-4. aux cartons neutres insérés entre le contenu éditorial et les spots de publicité télévisée ou de télé-achat, et entre chaque spot.
+- aux cartons neutres insérés entre le contenu éditorial et les spots de publicité télévisée ou de télé-achat, et entre chaque spot.
 
 (3)
 

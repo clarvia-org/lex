@@ -38,36 +38,36 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Aux fins du présent chapitre, on entend par:
 
-1. «entreprise»: toute organisation, autre que les pouvoirs publics, agissant dans l’exercice d’une activité économique ou professionnelle indépendante, même lorsque cette activité n’est exercée que par une seule personne;
+- «entreprise»: toute organisation, autre que les pouvoirs publics, agissant dans l’exercice d’une activité économique ou professionnelle indépendante, même lorsque cette activité n’est exercée que par une seule personne;
 
-2. «intérêts légaux pour retard de paiement»: les intérêts simples pour retard de paiement, dont le taux est égal à la somme du taux de référence et de huit points de pourcentage. Le taux applicable des intérêts légaux pour retard de paiement est publié au début de chaque semestre au Mémorial;
+- «intérêts légaux pour retard de paiement»: les intérêts simples pour retard de paiement, dont le taux est égal à la somme du taux de référence et de huit points de pourcentage. Le taux applicable des intérêts légaux pour retard de paiement est publié au début de chaque semestre au Mémorial;
 
-3. «intérêts pour retard de paiement»: les intérêts légaux pour retard de paiement ou les intérêts à un certain taux convenu par les entreprises concernées, soumis à l’article 6;
+- «intérêts pour retard de paiement»: les intérêts légaux pour retard de paiement ou les intérêts à un certain taux convenu par les entreprises concernées, soumis à l’article 6;
 
-4. «montant dû»: le montant principal, qui aurait dû être payé dans le délai de paiement contractuel ou légal, y compris les taxes, droits, redevances ou charges applicables figurant sur la facture ou la demande de paiement équivalente;
+- «montant dû»: le montant principal, qui aurait dû être payé dans le délai de paiement contractuel ou légal, y compris les taxes, droits, redevances ou charges applicables figurant sur la facture ou la demande de paiement équivalente;
 
-5. «pouvoirs publics»: tout pouvoir adjudicateur, tel que défini à l’article 2, paragraphe (1), point a), de la directive 2004/17/CE et à l’article 1 er , paragraphe (9), de la directive 2004/18/CE , indépendamment de l’objet ou de la valeur du contrat;
+- «pouvoirs publics»: tout pouvoir adjudicateur, tel que défini à l’article 2, paragraphe (1), point a), de la directive 2004/17/CE et à l’article 1 er , paragraphe (9), de la directive 2004/18/CE , indépendamment de l’objet ou de la valeur du contrat;
 
-6. «retard de paiement»: tout paiement non effectué dans le délai de paiement contractuel ou légal et lorsque les conditions spécifiées à l’article 3, paragraphe (1), ou à l’article 4, paragraphe (1) sont remplies;
+- «retard de paiement»: tout paiement non effectué dans le délai de paiement contractuel ou légal et lorsque les conditions spécifiées à l’article 3, paragraphe (1), ou à l’article 4, paragraphe (1) sont remplies;
 
-7. «taux de référence»: taux d’intérêt de la principale facilité de refinancement appliquée par la Banque centrale européenne à ses opérations principales de refinancement les plus récentes effectuées avant le 1 er jour de calendrier du semestre en question dans le cas d’appels d’offres à taux fixe. Dans l’éventualité où une opération de refinancement principale a été effectuée selon une procédure d’appels d’offre à taux variable, ce taux directeur se réfère au taux d’intérêt marginal résultant de cet appel d’offres;
+- «taux de référence»: taux d’intérêt de la principale facilité de refinancement appliquée par la Banque centrale européenne à ses opérations principales de refinancement les plus récentes effectuées avant le 1 er jour de calendrier du semestre en question dans le cas d’appels d’offres à taux fixe. Dans l’éventualité où une opération de refinancement principale a été effectuée selon une procédure d’appels d’offre à taux variable, ce taux directeur se réfère au taux d’intérêt marginal résultant de cet appel d’offres;
 
-8. «titre exécutoire»: tout(e) décision, jugement, arrêt, ordonnance ou injonction de payer prononcé(e) par un tribunal ou une autre autorité compétente, y compris les titres exécutoires par provision, que le paiement soit immédiat ou échelonné, qui permet au créancier de recouvrer sa créance auprès du débiteur par procédure d’exécution forcée;
+- «titre exécutoire»: tout(e) décision, jugement, arrêt, ordonnance ou injonction de payer prononcé(e) par un tribunal ou une autre autorité compétente, y compris les titres exécutoires par provision, que le paiement soit immédiat ou échelonné, qui permet au créancier de recouvrer sa créance auprès du débiteur par procédure d’exécution forcée;
 
-9. «transaction commerciale»: toute transaction entre des entreprises ou entre des entreprises et les pouvoirs publics qui conduit à la fourniture de marchandises ou à la prestation de services contre rémunération.
+- «transaction commerciale»: toute transaction entre des entreprises ou entre des entreprises et les pouvoirs publics qui conduit à la fourniture de marchandises ou à la prestation de services contre rémunération.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 Le présent chapitre ne s'applique pas:
 
-1. aux créances qui sont soumises à une procédure d’insolvabilité à l’encontre du débiteur, y compris les procédures tendant à une restructuration de la dette,
+- aux créances qui sont soumises à une procédure d’insolvabilité à l’encontre du débiteur, y compris les procédures tendant à une restructuration de la dette,
 
-2. aux contrats conclus entre un professionnel et un consommateur,
+- aux contrats conclus entre un professionnel et un consommateur,
 
-3. aux relations entre des pouvoirs publics, et
+- aux relations entre des pouvoirs publics, et
 
-4. aux intérêts en jeu dans des paiements effectués au titre de la législation sur les chèques et les lettres de change et les paiements effectués dans le cadre de l’indemnisation de dommages, y compris ceux effectués par les compagnies d’assurance.
+- aux intérêts en jeu dans des paiements effectués au titre de la législation sur les chèques et les lettres de change et les paiements effectués dans le cadre de l’indemnisation de dommages, y compris ceux effectués par les compagnies d’assurance.
 
 ##### Section 2. Transactions commerciales entre entreprises
 
@@ -78,33 +78,33 @@ Le présent chapitre ne s'applique pas:
 
 Dans les transactions commerciales entre entreprises, le créancier est en droit de réclamer des intérêts pour retard de paiement sans qu’un rappel soit nécessaire quand les conditions suivantes sont remplies:
 
-1. le créancier a rempli ses obligations contractuelles et légales; et
+- le créancier a rempli ses obligations contractuelles et légales; et
 
-2. le créancier n’a pas reçu le montant dû à l’échéance, sauf si le débiteur n’est pas responsable du retard.
+- le créancier n’a pas reçu le montant dû à l’échéance, sauf si le débiteur n’est pas responsable du retard.
 
 (2)
 
 Le taux de référence applicable est:
 
-1. pour le premier semestre de l’année concernée, le taux de référence en vigueur au 1 er janvier de l’année en question;
+- pour le premier semestre de l’année concernée, le taux de référence en vigueur au 1 er janvier de l’année en question;
 
-2. pour le second semestre de l’année concernée, le taux de référence en vigueur au 1 er juillet de l’année en question.
+- pour le second semestre de l’année concernée, le taux de référence en vigueur au 1 er juillet de l’année en question.
 
 (3)
 
 Lorsque les conditions spécifiées au paragraphe (1) sont remplies:
 
-1. le créancier a droit à des intérêts pour retard de paiement le jour suivant la date de paiement ou la fin du délai de paiement fixé dans le contrat;
+- le créancier a droit à des intérêts pour retard de paiement le jour suivant la date de paiement ou la fin du délai de paiement fixé dans le contrat;
 
-2. lorsque la date ou le délai de paiement n’est pas fixé dans le contrat, le créancier a droit à des intérêts pour retard de paiement dès l’expiration de l’un des délais suivants:
+- lorsque la date ou le délai de paiement n’est pas fixé dans le contrat, le créancier a droit à des intérêts pour retard de paiement dès l’expiration de l’un des délais suivants:
 
-1. trente jours après la date de réception, par le débiteur, de la facture ou d’une demande de paiement équivalente;
+  - trente jours après la date de réception, par le débiteur, de la facture ou d’une demande de paiement équivalente;
 
-2. lorsque la date de réception de la facture ou d’une demande de paiement équivalente est incertaine, trente jours après la date de réception des marchandises ou de prestation des services;
+  - lorsque la date de réception de la facture ou d’une demande de paiement équivalente est incertaine, trente jours après la date de réception des marchandises ou de prestation des services;
 
-3. lorsque le débiteur reçoit la facture ou la demande de paiement équivalente avant les marchandises ou les services, trente jours après la date de réception des marchandises ou de prestation des services;
+  - lorsque le débiteur reçoit la facture ou la demande de paiement équivalente avant les marchandises ou les services, trente jours après la date de réception des marchandises ou de prestation des services;
 
-4. lorsqu’une procédure d’acceptation ou de vérification, permettant de certifier la conformité des marchandises ou des services avec le contrat, est prévue par la loi ou dans le contrat, et si le débiteur reçoit la facture ou la demande de paiement équivalente plus tôt ou à la date de l’acceptation ou de la vérification, trente jours après cette date. La durée maximale de ladite procédure n’excède pas trente jours après la date de réception des marchandises ou de prestation des services, à moins qu’il ne soit expressément stipulé autrement par contrat et pourvu que cela ne constitue pas un abus manifeste à l’égard du créancier au sens de l’article 6.
+  - lorsqu’une procédure d’acceptation ou de vérification, permettant de certifier la conformité des marchandises ou des services avec le contrat, est prévue par la loi ou dans le contrat, et si le débiteur reçoit la facture ou la demande de paiement équivalente plus tôt ou à la date de l’acceptation ou de la vérification, trente jours après cette date. La durée maximale de ladite procédure n’excède pas trente jours après la date de réception des marchandises ou de prestation des services, à moins qu’il ne soit expressément stipulé autrement par contrat et pourvu que cela ne constitue pas un abus manifeste à l’égard du créancier au sens de l’article 6.
 
 (4)
 
@@ -123,29 +123,29 @@ Les parties peuvent convenir entre elles d’un échéancier fixant les montants
 
 Dans des transactions commerciales où le débiteur est un pouvoir public, le créancier est en droit d’obtenir, à l’expiration du délai fixé aux paragraphes (3) et (4), les intérêts légaux pour retard de paiement, sans qu’un rappel soit nécessaire, quand les conditions suivantes sont remplies:
 
-1. le créancier a rempli ses obligations contractuelles et légales; et
+- le créancier a rempli ses obligations contractuelles et légales; et
 
-2. le créancier n’a pas reçu le montant dû à l’échéance, sauf si le débiteur n’est pas responsable du retard.
+- le créancier n’a pas reçu le montant dû à l’échéance, sauf si le débiteur n’est pas responsable du retard.
 
 (2)
 
 Le taux de référence applicable est:
 
-1. pour le premier semestre de l’année concernée, le taux de référence en vigueur au 1 er janvier de l’année en question;
+- pour le premier semestre de l’année concernée, le taux de référence en vigueur au 1 er janvier de l’année en question;
 
-2. pour le second semestre de l’année concernée, le taux de référence en vigueur au 1 er juillet de l’année en question.
+- pour le second semestre de l’année concernée, le taux de référence en vigueur au 1 er juillet de l’année en question.
 
 (3)
 
 Dans des transactions commerciales où le débiteur est un pouvoir public, le délai de paiement ne doit pas excéder les durées suivantes:
 
-1. trente jours après la date de réception, par le débiteur, de la facture ou d’une demande de paiement équivalente;
+- trente jours après la date de réception, par le débiteur, de la facture ou d’une demande de paiement équivalente;
 
-2. lorsque la date de réception de la facture ou d’une demande de paiement équivalente est incertaine, trente jours après la date de réception des marchandises ou de prestation des services;
+- lorsque la date de réception de la facture ou d’une demande de paiement équivalente est incertaine, trente jours après la date de réception des marchandises ou de prestation des services;
 
-3. lorsque le débiteur reçoit la facture ou la demande de paiement équivalente avant les marchandises ou les services, trente jours après la date de réception des marchandises ou de prestation des services;
+- lorsque le débiteur reçoit la facture ou la demande de paiement équivalente avant les marchandises ou les services, trente jours après la date de réception des marchandises ou de prestation des services;
 
-4. lorsqu’une procédure d’acceptation ou de vérification, permettant de certifier la conformité des marchandises ou des services avec le contrat, est prévue par la loi ou dans le contrat, et si le débiteur reçoit la facture ou la demande de paiement équivalente plus tôt ou à la date de l’acceptation ou de la vérification, trente jours après cette date. La durée maximale de ladite procédure n’excède pas trente jours depuis la date de réception des marchandises ou de prestation des services, à moins qu’il ne soit expressément stipulé autrement par contrat et dans le dossier d’appel d’offres et pourvu que cela ne constitue pas un abus manifeste à l’égard du créancier au sens de l’article 6.
+- lorsqu’une procédure d’acceptation ou de vérification, permettant de certifier la conformité des marchandises ou des services avec le contrat, est prévue par la loi ou dans le contrat, et si le débiteur reçoit la facture ou la demande de paiement équivalente plus tôt ou à la date de l’acceptation ou de la vérification, trente jours après cette date. La durée maximale de ladite procédure n’excède pas trente jours depuis la date de réception des marchandises ou de prestation des services, à moins qu’il ne soit expressément stipulé autrement par contrat et dans le dossier d’appel d’offres et pourvu que cela ne constitue pas un abus manifeste à l’égard du créancier au sens de l’article 6.
 
 La date de réception de la facture ne peut faire l’objet d’un accord contractuel entre le débiteur et le créancier.
 
@@ -185,11 +185,11 @@ A la requête d’un créancier, le magistrat présidant la Chambre du tribunal 
 
 Pour déterminer si une clause contractuelle ou une pratique constitue un abus manifeste à l’égard du créancier, au sens du premier alinéa, tous les éléments de l’espèce sont pris en considération, y compris:
 
-1. tout écart manifeste par rapport aux bonnes pratiques et usages commerciaux, contraire à la bonne foi et à un usage loyal;
+- tout écart manifeste par rapport aux bonnes pratiques et usages commerciaux, contraire à la bonne foi et à un usage loyal;
 
-2. la nature du produit ou du service; et
+- la nature du produit ou du service; et
 
-3. si le débiteur a une quelconque raison objective de déroger au taux d’intérêt légal pour retard de paiement, aux délais de paiement visés à l’article 3, paragraphe (4), à l’article 4, paragraphe (3), alinéa 1, à l’article 4, paragraphe (4), et à l’article 4, paragraphe (5), ou au montant forfaitaire visé à l’article 5, paragraphe (1).
+- si le débiteur a une quelconque raison objective de déroger au taux d’intérêt légal pour retard de paiement, aux délais de paiement visés à l’article 3, paragraphe (4), à l’article 4, paragraphe (3), alinéa 1, à l’article 4, paragraphe (4), et à l’article 4, paragraphe (5), ou au montant forfaitaire visé à l’article 5, paragraphe (1).
 
 (2)
 

@@ -291,21 +291,21 @@ Le jury d’examen pour l’épreuve d’aptitude pour candidats à certaines fo
 
 L’épreuve d’aptitude pour:
 
-1. dirigeant d’entreprise d’assurances;
+- dirigeant d’entreprise d’assurances;
 
-2. dirigeant d’entreprises de réassurance;
+- dirigeant d’entreprises de réassurance;
 
-3. dirigeant de société de gestion d’entreprises captives d’assurances;
+- dirigeant de société de gestion d’entreprises captives d’assurances;
 
-4. dirigeant de société de gestion d’entreprises d’assurances en run-off;
+- dirigeant de société de gestion d’entreprises d’assurances en run-off;
 
-5. dirigeant de société de gestion d’entreprises de réassurance;
+- dirigeant de société de gestion d’entreprises de réassurance;
 
-6. dirigeant de société de gestion de portefeuille d’assurance;
+- dirigeant de société de gestion de portefeuille d’assurance;
 
-7. dirigeant de régleur de sinistre et
+- dirigeant de régleur de sinistre et
 
-8. régleur de sinistre;
+- régleur de sinistre;
 
 a lieu devant un jury composé de trois membres qui sont des fonctionnaires du Commissariat.
 

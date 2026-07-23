@@ -43,30 +43,30 @@ Au sens du présent règlement grand-ducal on entend par:
 
 Pour la délivrance de l'attestation d'enregistrement visée à l'article 8, paragraphe (2) de la loi, le citoyen de l'Union ainsi que le ressortissant d'un des autres Etats parties à l'Accord sur l'Espace économique européen ou de la Confédération suisse, ci-après nommés «pays assimilés», se présente à l'administration communale où il entend établir sa résidence muni de sa carte d'identité nationale ou son passeport en cours de validité et produit, selon le cas:
 
-1. un contrat de travail, une promesse d'embauche délivrée par l'employeur, ou la preuve attestant d'une activité indépendante s'il entend exercer en tant que travailleur une activité salariée ou une activité indépendante, conformément à l'article 6, paragraphe (1), point 1 de la loi ;
+- un contrat de travail, une promesse d'embauche délivrée par l'employeur, ou la preuve attestant d'une activité indépendante s'il entend exercer en tant que travailleur une activité salariée ou une activité indépendante, conformément à l'article 6, paragraphe (1), point 1 de la loi ;
 
-2. la preuve qu'il dispose pour lui et les membres de sa famille de ressources suffisantes telles que définies à l'article 2 du règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration et d'une assurance maladie s'il entend séjourner sur le territoire en tant que non-actif, conformément à l'article 6, paragraphe (1), point 2 de la loi ;
+- la preuve qu'il dispose pour lui et les membres de sa famille de ressources suffisantes telles que définies à l'article 2 du règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration et d'une assurance maladie s'il entend séjourner sur le territoire en tant que non-actif, conformément à l'article 6, paragraphe (1), point 2 de la loi ;
 
-3. la preuve de son inscription dans un établissement public ou privé agréé, une déclaration ou tout autre élément équivalent de son choix pour justifier qu'il dispose de ressources suffisantes pour lui-même et pour les membres de sa famille, telles que définies à l'article 2 du règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration, ainsi que la preuve de la souscription à une assurance maladie pour lui-même et pour les membres de sa famille, s'il entend séjourner sur le territoire en tant qu'étudiant, conformément à l'article 6, paragraphe (1), point 3 de la loi .
+- la preuve de son inscription dans un établissement public ou privé agréé, une déclaration ou tout autre élément équivalent de son choix pour justifier qu'il dispose de ressources suffisantes pour lui-même et pour les membres de sa famille, telles que définies à l'article 2 du règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration, ainsi que la preuve de la souscription à une assurance maladie pour lui-même et pour les membres de sa famille, s'il entend séjourner sur le territoire en tant qu'étudiant, conformément à l'article 6, paragraphe (1), point 3 de la loi .
 
 <a id="art-3"></a>
 ## Art. 3.
 
 Pour la délivrance de l'attestation d'enregistrement prévue à l'article 15 de la loi, les membres de la famille des personnes visées à l'article 2 qui sont eux-mêmes citoyens de l'Union ou ressortissants d'un des pays assimilés, se présentent à l'administration communale du lieu de leur résidence, munis de leur carte d'identité nationale ou de leur passeport en cours de validité et produisent, selon le cas:
 
-1. un document attestant de l'existence du mariage, du partenariat enregistré ou du lien de parenté;
+- un document attestant de l'existence du mariage, du partenariat enregistré ou du lien de parenté;
 
-2. une copie de l'attestation d'enregistrement du citoyen de l'Union ou du ressortissant d'un des pays assimilés qu'ils accompagnent ou rejoignent;
+- une copie de l'attestation d'enregistrement du citoyen de l'Union ou du ressortissant d'un des pays assimilés qu'ils accompagnent ou rejoignent;
 
-3. dans les cas visés à l'article 12, paragraphe (1), point c) et point d) de la loi , les pièces justificatives attestant que les conditions énoncées dans cette disposition sont remplies;
+- dans les cas visés à l'article 12, paragraphe (1), point c) et point d) de la loi , les pièces justificatives attestant que les conditions énoncées dans cette disposition sont remplies;
 
-4. dans les cas visés à l'article 12, paragraphe (2), point 1 de la loi , un document délivré par l'autorité compétente du pays de provenance attestant qu'ils sont à la charge ou font partie du ménage du citoyen de l'Union ou du ressortissant d'un des pays assimilés;
+- dans les cas visés à l'article 12, paragraphe (2), point 1 de la loi , un document délivré par l'autorité compétente du pays de provenance attestant qu'ils sont à la charge ou font partie du ménage du citoyen de l'Union ou du ressortissant d'un des pays assimilés;
 
-5. dans les cas visés à l'article 12, paragraphe (2), point 2 de la loi , la confirmation que le ministre autorise le membre de la famille concerné au séjour;
+- dans les cas visés à l'article 12, paragraphe (2), point 2 de la loi , la confirmation que le ministre autorise le membre de la famille concerné au séjour;
 
-6. dans les cas visés à l'article 12, paragraphe (2), point 3 de la loi, la preuve de l'existence d'une relation durable avec le citoyen de l'Union dûment constatée par le ministre; 5bis.
+- dans les cas visés à l'article 12, paragraphe (2), point 3 de la loi, la preuve de l'existence d'une relation durable avec le citoyen de l'Union dûment constatée par le ministre; 5bis.
 
-7. dans les cas visés à l'article 12, paragraphe (3) de la loi , un document attestant de l'existence du mariage, du partenariat enregistré ou du lien de parenté ainsi qu'un certificat de résidence du citoyen luxembourgeois qu'ils accompagnent ou rejoignent.
+- dans les cas visés à l'article 12, paragraphe (3) de la loi , un document attestant de l'existence du mariage, du partenariat enregistré ou du lien de parenté ainsi qu'un certificat de résidence du citoyen luxembourgeois qu'ils accompagnent ou rejoignent.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -147,31 +147,31 @@ La possession d'une attestation d'enregistrement, d'un récépissé attestant l'
 
 Afin de solliciter la délivrance du document de séjour conformément à l’article 33bis, paragraphe (1), de la loi, le ressortissant britannique bénéficiaire de l’Accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique ou le membre de famille d’un tel ressortissant britannique, qui est lui-même ressortissant britannique, se présente devant le service compétent du ministre et produit les pièces suivantes :
 
-1. une copie de sa carte d’identité nationale ou de son passeport en cours de validité ;
+- une copie de sa carte d’identité nationale ou de son passeport en cours de validité ;
 
-2. pour le ressortissant britannique et selon le cas :
+- pour le ressortissant britannique et selon le cas :
 
-1. un contrat de travail, une promesse d’embauche délivrée par l’employeur, ou la preuve attestant d’une activité indépendante s’il entend exercer en tant que travailleur une activité salariée ou une activité indépendante, conformément à l’article 6, paragraphe (1), point 1, de la loi ;
+  - un contrat de travail, une promesse d’embauche délivrée par l’employeur, ou la preuve attestant d’une activité indépendante s’il entend exercer en tant que travailleur une activité salariée ou une activité indépendante, conformément à l’article 6, paragraphe (1), point 1, de la loi ;
 
-2. la preuve qu’il dispose pour lui et les membres de sa famille de ressources suffisantes telles que définies à l’article 2 du règlement grand-ducal modifié du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration et d’une assurance maladie s’il entend séjourner sur le territoire en tant que non-actif, conformément à l’article 6, paragraphe (1), point 2, de la loi ;
+  - la preuve qu’il dispose pour lui et les membres de sa famille de ressources suffisantes telles que définies à l’article 2 du règlement grand-ducal modifié du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration et d’une assurance maladie s’il entend séjourner sur le territoire en tant que non-actif, conformément à l’article 6, paragraphe (1), point 2, de la loi ;
 
-3. la preuve de son inscription dans un établissement public ou privé agréé, une déclaration ou tout autre élément équivalent de son choix pour justifier qu’il dispose de ressources suffisantes pour lui-même et pour les membres de sa famille, telles que définies à l’article 2 du règlement grand-ducal modifié du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration, ainsi que la preuve de la souscription à une assurance maladie pour lui-même et pour les membres de sa famille, s’il entend séjourner sur le territoire en tant qu’étudiant, conformément à l’article 6, paragraphe (1), point 3, de la loi ;
+  - la preuve de son inscription dans un établissement public ou privé agréé, une déclaration ou tout autre élément équivalent de son choix pour justifier qu’il dispose de ressources suffisantes pour lui-même et pour les membres de sa famille, telles que définies à l’article 2 du règlement grand-ducal modifié du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration, ainsi que la preuve de la souscription à une assurance maladie pour lui-même et pour les membres de sa famille, s’il entend séjourner sur le territoire en tant qu’étudiant, conformément à l’article 6, paragraphe (1), point 3, de la loi ;
 
-3. pour le membre de famille du ressortissant britannique, qui est lui-même ressortissant britannique, et selon le cas :
+- pour le membre de famille du ressortissant britannique, qui est lui-même ressortissant britannique, et selon le cas :
 
-1. un document attestant de l’existence du mariage, du partenariat enregistré ou du lien de parenté ;
+  - un document attestant de l’existence du mariage, du partenariat enregistré ou du lien de parenté ;
 
-2. une copie du document de séjour du ressortissant britannique qu’il accompagne ou rejoint ou du récépissé de la demande en cours ;
+  - une copie du document de séjour du ressortissant britannique qu’il accompagne ou rejoint ou du récépissé de la demande en cours ;
 
-3. dans les cas visés à l’article 12, paragraphe (1), point c), de la loi , les pièces justificatives attestant que les conditions énoncées dans cette disposition sont remplies ;
+  - dans les cas visés à l’article 12, paragraphe (1), point c), de la loi , les pièces justificatives attestant que les conditions énoncées dans cette disposition sont remplies ;
 
-4. dans les cas visés à l’article 12, paragraphe (1), point d), et paragraphe (2), point 1, de la loi , un document délivré par l’autorité compétente du pays de provenance attestant qu’il est à la charge ou fait partie du ménage du ressortissant britannique ;
+  - dans les cas visés à l’article 12, paragraphe (1), point d), et paragraphe (2), point 1, de la loi , un document délivré par l’autorité compétente du pays de provenance attestant qu’il est à la charge ou fait partie du ménage du ressortissant britannique ;
 
-5. dans les cas visés à l’article 12, paragraphe (2), points 1 et 2, de la loi , la confirmation que le ministre autorise le membre de la famille concerné au séjour ;
+  - dans les cas visés à l’article 12, paragraphe (2), points 1 et 2, de la loi , la confirmation que le ministre autorise le membre de la famille concerné au séjour ;
 
-6. dans les cas visés à l’article 12, paragraphe (2), point 3, de la loi , l’attestation de relation durable ;
+  - dans les cas visés à l’article 12, paragraphe (2), point 3, de la loi , l’attestation de relation durable ;
 
-7. dans les cas visés à l’article 12, paragraphe (3), de la loi , un document attestant de l’existence du mariage, du partenariat enregistré ou du lien de parenté ainsi qu’un certificat de résidence du citoyen luxembourgeois qu’il accompagne ou rejoint.
+  - dans les cas visés à l’article 12, paragraphe (3), de la loi , un document attestant de l’existence du mariage, du partenariat enregistré ou du lien de parenté ainsi qu’un certificat de résidence du citoyen luxembourgeois qu’il accompagne ou rejoint.
 
 (2)
 
@@ -200,19 +200,19 @@ Pour le remplacement du document prévu par le présent article, la personne con
 
 Afin de solliciter la délivrance du document de séjour conformément à l’article 33bis, paragraphe (2), de la loi, le membre de famille d’un ressortissant britannique bénéficiaire de l’Accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique, qui est ressortissant de pays tiers, se présente devant le service compétent du ministre et produit les pièces suivantes :
 
-1. une copie de son passeport en cours de validité ;
+- une copie de son passeport en cours de validité ;
 
-2. et selon le cas :
+- et selon le cas :
 
-1. un document attestant de l’existence du mariage, du partenariat enregistré ou du lien de parenté ;
+  - un document attestant de l’existence du mariage, du partenariat enregistré ou du lien de parenté ;
 
-2. dans les cas visés à l’article 12, paragraphe (1), point c), de la loi , les pièces justificatives attestant que les conditions énoncées dans cette disposition sont remplies ;
+  - dans les cas visés à l’article 12, paragraphe (1), point c), de la loi , les pièces justificatives attestant que les conditions énoncées dans cette disposition sont remplies ;
 
-3. dans les cas visés à l’article 12, paragraphe (1), point d), et paragraphe (2), point 1, de la loi , un document délivré par l’autorité compétente du pays de provenance attestant qu’il est à la charge ou fait partie du ménage du ressortissant britannique ;
+  - dans les cas visés à l’article 12, paragraphe (1), point d), et paragraphe (2), point 1, de la loi , un document délivré par l’autorité compétente du pays de provenance attestant qu’il est à la charge ou fait partie du ménage du ressortissant britannique ;
 
-4. dans les cas visés à l’article 12, paragraphe (2), point 2, de la loi , la confirmation que le ministre autorise le membre de la famille concerné au séjour ;
+  - dans les cas visés à l’article 12, paragraphe (2), point 2, de la loi , la confirmation que le ministre autorise le membre de la famille concerné au séjour ;
 
-5. dans les cas visés à l’article 12, paragraphe (2), point 3, de la loi , l’attestation de relation durable.
+  - dans les cas visés à l’article 12, paragraphe (2), point 3, de la loi , l’attestation de relation durable.
 
 (2)
 
@@ -241,11 +241,11 @@ Pour le remplacement du document prévu par le présent article, la personne con
 
 Pour la sollicitation de la délivrance du document attestant de la permanence visée à l’article 33ter, paragraphe (3), de la loi, le ressortissant britannique bénéficiaire de l’Accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique ou le membre de famille d’un tel ressortissant britannique, qui est lui-même ressortissant britannique introduit une demande auprès du ministre. À l’appui de sa demande, il fournit les pièces suivantes :
 
-1. une copie de sa carte d’identité ou de son passeport en cours de validité ;
+- une copie de sa carte d’identité ou de son passeport en cours de validité ;
 
-2. pour le ressortissant britannique, la preuve qu’il a séjourné de façon légale et ininterrompue pendant cinq ans sur le territoire ou qu’il se trouve dans une des hypothèses visées à l’article 10 de la loi ;
+- pour le ressortissant britannique, la preuve qu’il a séjourné de façon légale et ininterrompue pendant cinq ans sur le territoire ou qu’il se trouve dans une des hypothèses visées à l’article 10 de la loi ;
 
-3. pour le membre de famille du ressortissant britannique, qui est lui-même ressortissant britannique, la preuve qu’il a séjourné avec le ressortissant britannique sur le territoire, dans les mêmes conditions de durée et de légalité que celles visées au point 2.
+- pour le membre de famille du ressortissant britannique, qui est lui-même ressortissant britannique, la preuve qu’il a séjourné avec le ressortissant britannique sur le territoire, dans les mêmes conditions de durée et de légalité que celles visées au point 2.
 
 (2)
 
@@ -270,9 +270,9 @@ Pour le remplacement du document prévu par le présent article, la personne con
 
 Pour la sollicitation de la délivrance du document attestant de la permanence, visé à l’article 33ter, paragraphe (4), de la loi, le membre de famille d’un ressortissant britannique bénéficiaire de l’Accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique, qui est ressortissant de pays tiers, introduit une demande auprès du ministre. À l’appui de sa demande, il fournit les pièces suivantes :
 
-1. une copie de son passeport en cours de validité ;
+- une copie de son passeport en cours de validité ;
 
-2. la preuve qu’il a séjourné avec le ressortissant britannique sur le territoire, dans les mêmes conditions de durée et de légalité que celles visées à l’article 8 quater, paragraphe (1).
+- la preuve qu’il a séjourné avec le ressortissant britannique sur le territoire, dans les mêmes conditions de durée et de légalité que celles visées à l’article 8 quater, paragraphe (1).
 
 (2)
 
@@ -297,11 +297,11 @@ Pour le remplacement du document prévu par le présent article, la personne con
 
 Pour la délivrance du document prévu à l’article 33quater de la loi, le travailleur frontalier concerné introduit une demande auprès du service compétent du ministre, complétée des pièces suivantes :
 
-1. une copie de sa carte d’identité ou de son passeport en cours de validité ;
+- une copie de sa carte d’identité ou de son passeport en cours de validité ;
 
-2. une copie de l’autorisation de séjour délivrée par un autre État membre de l’Union européenne ;
+- une copie de l’autorisation de séjour délivrée par un autre État membre de l’Union européenne ;
 
-3. une preuve que l’exercice de l’activité professionnelle sur le territoire a débuté avant la fin de la période de transition.
+- une preuve que l’exercice de l’activité professionnelle sur le territoire a débuté avant la fin de la période de transition.
 
 (2)
 
@@ -364,9 +364,9 @@ Pour le renouvellement du titre de séjour le ressortissant de pays tiers introd
 
 En application de l’article 40, paragraphe 4, de la loi, le ressortissant de pays tiers, victime d’un mariage forcé, peut introduire une demande auprès du ministre pour recouvrer son titre de séjour. Il joint à sa demande :
 
-1. une copie du passeport intégral ;
+- une copie du passeport intégral ;
 
-2. la preuve qu’il a été contraint de quitter le territoire luxembourgeois aux fins d’un mariage forcé ; cette preuve peut être rapportée par tous moyens ;
+- la preuve qu’il a été contraint de quitter le territoire luxembourgeois aux fins d’un mariage forcé ; cette preuve peut être rapportée par tous moyens ;
 
 (2)
 
@@ -389,15 +389,15 @@ La délivrance du titre de séjour se fait conformément à l’article 13.
 
 Le ressortissant de pays tiers qui introduit une demande en obtention du statut de résident de longue durée auprès du ministre conformément à l'article 82, paragraphe (1) de la loi, doit justifier qu'il remplit les conditions prévues à l'article 81 de la loi en produisant:
 
-1. une copie intégrale de son passeport en cours de validité;
+- une copie intégrale de son passeport en cours de validité;
 
-2. la justification qu'il réside légalement et de manière ininterrompue sur le territoire depuis au moins cinq ans, conformément à l'article 80 de la loi;
+- la justification qu'il réside légalement et de manière ininterrompue sur le territoire depuis au moins cinq ans, conformément à l'article 80 de la loi;
 
-3. la justification qu'il dispose de ressources stables, régulières et suffisantes et d'un logement approprié, tels que précisés par le règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration;
+- la justification qu'il dispose de ressources stables, régulières et suffisantes et d'un logement approprié, tels que précisés par le règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration;
 
-4. la justification qu'il bénéficie d'une assurance maladie pour lui-même et les membres de sa famille;
+- la justification qu'il bénéficie d'une assurance maladie pour lui-même et les membres de sa famille;
 
-5. un extrait récent de son casier judiciaire.
+- un extrait récent de son casier judiciaire.
 
 (2)
 
@@ -438,11 +438,11 @@ De même, lorsque le ministre accorde à un résident de longue durée la protec
 
 Dans les deux mois précédant la date d’expiration de la validité du permis de séjour de résident de longue durée - UE2, la personne concernée introduit une demande en renouvellement auprès du ministre en produisant:
 
-1. une copie intégrale de son passeport en cours de validité;
+- une copie intégrale de son passeport en cours de validité;
 
-2. la justification qu’il a continué à résider de manière ininterrompue sur le territoire;
+- la justification qu’il a continué à résider de manière ininterrompue sur le territoire;
 
-3. un extrait récent de son casier judiciaire.
+- un extrait récent de son casier judiciaire.
 
 Sur justification des pièces, le ministre accorde le renouvellement du titre et en informe la personne concernée. La délivrance se fait conformément aux dispositions de l’article 13, paragraphes (1) et (2).
 
@@ -455,9 +455,9 @@ L’expiration du permis de séjour de résident de longue durée - UE2 n’entr
 
 Le ressortissant de pays tiers qui a perdu le statut de résident de longue durée en cas d’absence prolongée telle que prévue à l’article 83, paragraphe (3) de la loi, peut introduire une demande auprès du ministre pour recouvrer son statut. Il joint à sa demande:
 
-1. une copie intégrale de son passeport en cours de validité;
+- une copie intégrale de son passeport en cours de validité;
 
-2. la justification qu’il dispose pour lui et pour les membres de sa famille de ressources suffisantes afin de ne pas devenir une charge pour le système d’assistance sociale, ainsi que d’une assurance maladie.
+- la justification qu’il dispose pour lui et pour les membres de sa famille de ressources suffisantes afin de ne pas devenir une charge pour le système d’assistance sociale, ainsi que d’une assurance maladie.
 
 (2)
 
@@ -474,15 +474,15 @@ Le ministre dispose pour examiner la demande d’un délai de quatre mois à par
 
 Le ressortissant d’un pays tiers titulaire du permis de séjour de résident de longue durée - UE1 dans un autre Etat membre de l’Union qui désire s’établir sur le territoire luxembourgeois, introduit avant son installation une demande d’autorisation de séjour auprès du ministre. Il joint à sa demande, outre les pièces justifiant qu’il rentre dans une des catégories visées à l’article 85, paragraphe (1) de la loi et remplit les conditions afférentes déterminées à l’article 85, paragraphe (2) de la loi, les documents suivants:
 
-1. une copie intégrale du passeport en cours de validité;
+- une copie intégrale du passeport en cours de validité;
 
-2. une copie certifiée conforme du permis de séjour de résident de longue durée - UE1 délivré par l’Etat membre de l’Union européenne qui lui a accordé ce statut sur son territoire;
+- une copie certifiée conforme du permis de séjour de résident de longue durée - UE1 délivré par l’Etat membre de l’Union européenne qui lui a accordé ce statut sur son territoire;
 
-3. la justification qu’il dispose de ressources stables, régulières et suffisantes, pour son entretien et le cas échéant celui des membres de sa famille, telles que précisées par le règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration;
+- la justification qu’il dispose de ressources stables, régulières et suffisantes, pour son entretien et le cas échéant celui des membres de sa famille, telles que précisées par le règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration;
 
-4. la justification qu’il bénéficie d’une assurance maladie pour lui-même et les membres de sa famille;
+- la justification qu’il bénéficie d’une assurance maladie pour lui-même et les membres de sa famille;
 
-5. un extrait récent de son casier judiciaire ou un document similaire délivré par les autorités compétentes du pays de résidence précédente.
+- un extrait récent de son casier judiciaire ou un document similaire délivré par les autorités compétentes du pays de résidence précédente.
 
 (2)
 
@@ -497,15 +497,15 @@ Le ministre dispose pour examiner la demande d’un délai de quatre mois à par
 
 Afin de solliciter la délivrance du titre de séjour visé à l’article 87, paragraphe (2) de la loi, le ressortissant de pays tiers présente, dans les trois mois qui suivent son entrée sur le territoire, au service compétent du ministre les pièces suivantes:
 
-1. une copie intégrale du passeport en cours de validité;
+- une copie intégrale du passeport en cours de validité;
 
-2. une copie de la décision ministérielle;
+- une copie de la décision ministérielle;
 
-3. le récépissé de la déclaration d’arrivée établie par l’autorité communale;
+- le récépissé de la déclaration d’arrivée établie par l’autorité communale;
 
-4. la preuve d’un logement approprié;
+- la preuve d’un logement approprié;
 
-5. la preuve du versement de la taxe de délivrance fixée à l’article 20 sur un compte du Trésor.
+- la preuve du versement de la taxe de délivrance fixée à l’article 20 sur un compte du Trésor.
 
 <a id="art-18"></a>
 ## Art. 18.

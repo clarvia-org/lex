@@ -32,23 +32,23 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement, on entend par :
 
-1. Centre : centre psycho-social et d’accompagnement scolaires ;
+- Centre : centre psycho-social et d’accompagnement scolaires ;
 
-2. demandeur : personne physique qui introduit une demande en obtention d’une subvention pour ménage à faible revenu ;
+- demandeur : personne physique qui introduit une demande en obtention d’une subvention pour ménage à faible revenu ;
 
-3. élève : personne pour qui la demande est introduite et qui est inscrite à temps plein, ou en formation concomitante, dans un établissement scolaire et qui bénéficie des allocations familiales ;
+- élève : personne pour qui la demande est introduite et qui est inscrite à temps plein, ou en formation concomitante, dans un établissement scolaire et qui bénéficie des allocations familiales ;
 
-4. élève majeur : personne ayant atteint la majorité qui introduit la demande en obtention de la subvention du maintien scolaire ;
+- élève majeur : personne ayant atteint la majorité qui introduit la demande en obtention de la subvention du maintien scolaire ;
 
-5. enfant : personne autre que l’élève faisant partie du ménage du demandeur, y étant déclarée et pour laquelle le demandeur perçoit des allocations familiales ou qui soit est inscrite à temps plein, ou en formation concomitante, dans un établissement scolaire, soit poursuit des études supérieures conformément à l’article 2 de la loi du 24 juillet 2014 concernant l’aide financière de l’État pour études supérieures. Est également considéré comme enfant l’élève de l’enseignement secondaire classique et de l’enseignement secondaire général qui est autorisé par le ministre ayant la formation professionnelle dans ses attributions à suivre sa formation professionnelle à l’étranger , ainsi que le membre résidant de fait au ménage et qui poursuit un service volontaire des jeunes en application de la loi modifiée du 31 octobre 2007 sur le service volontaire des jeunes ;
+- enfant : personne autre que l’élève faisant partie du ménage du demandeur, y étant déclarée et pour laquelle le demandeur perçoit des allocations familiales ou qui soit est inscrite à temps plein, ou en formation concomitante, dans un établissement scolaire, soit poursuit des études supérieures conformément à l’article 2 de la loi du 24 juillet 2014 concernant l’aide financière de l’État pour études supérieures. Est également considéré comme enfant l’élève de l’enseignement secondaire classique et de l’enseignement secondaire général qui est autorisé par le ministre ayant la formation professionnelle dans ses attributions à suivre sa formation professionnelle à l’étranger , ainsi que le membre résidant de fait au ménage et qui poursuit un service volontaire des jeunes en application de la loi modifiée du 31 octobre 2007 sur le service volontaire des jeunes ;
 
-6. établissement scolaire : un établissement de l’enseignement secondaire classique ou secondaire général luxembourgeois, y compris les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement luxembourgeois ;
+- établissement scolaire : un établissement de l’enseignement secondaire classique ou secondaire général luxembourgeois, y compris les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement luxembourgeois ;
 
-7. ménage : communauté domestique dans laquelle habitent le demandeur, l’élève, tout autre enfant, ainsi que toutes les personnes qui vivent dans le cadre d’un foyer commun et dont il faut admettre qu’elles disposent d’un budget commun. La situation de composition du ménage prise en compte est celle du moment de l’introduction de la demande en obtention d’une subvention pour ménage à faible revenu ou d’une subvention du maintien scolaire, dûment documentée par le registre national des personnes physiques ;
+- ménage : communauté domestique dans laquelle habitent le demandeur, l’élève, tout autre enfant, ainsi que toutes les personnes qui vivent dans le cadre d’un foyer commun et dont il faut admettre qu’elles disposent d’un budget commun. La situation de composition du ménage prise en compte est celle du moment de l’introduction de la demande en obtention d’une subvention pour ménage à faible revenu ou d’une subvention du maintien scolaire, dûment documentée par le registre national des personnes physiques ;
 
-8. ministre : ministre ayant l’Éducation nationale dans ses attributions ;
+- ministre : ministre ayant l’Éducation nationale dans ses attributions ;
 
-9. Service : service psycho-social et d’accompagnement scolaires d’un établissement de l’enseignement secondaire classique ou secondaire général ;
+- Service : service psycho-social et d’accompagnement scolaires d’un établissement de l’enseignement secondaire classique ou secondaire général ;
 
 #### Chapitre 2 La subvention pour ménage à faible revenu.
 
@@ -63,13 +63,13 @@ La demande de subvention pour ménage à faible revenu est introduite par le dem
 
 Pour pouvoir obtenir la subvention pour ménage à faible revenu, le demandeur doit :
 
-1. être une personne physique majeure au jour de l’introduction de la demande ;
+- être une personne physique majeure au jour de l’introduction de la demande ;
 
-2. résider avec l’élève pour le compte duquel la demande est introduite et être investi de l’autorité parentale ;
+- résider avec l’élève pour le compte duquel la demande est introduite et être investi de l’autorité parentale ;
 
-3. faire partie d’un ménage vivant en dessous du seuil de faible revenu, tel que fixé à l’article 4 ;
+- faire partie d’un ménage vivant en dessous du seuil de faible revenu, tel que fixé à l’article 4 ;
 
-4. introduire la demande au plus tard pour le 31 octobre de l’année scolaire pour laquelle la subvention est demandée.
+- introduire la demande au plus tard pour le 31 octobre de l’année scolaire pour laquelle la subvention est demandée.
 
 (3)
 
@@ -86,19 +86,19 @@ Le demandeur adresse la demande en obtention de la subvention pour ménage à fa
 
 La demande signée doit être accompagnée des pièces suivantes :
 
-1. un certificat d’affiliation du Centre commun de la sécurité sociale pour toute l’année calendaire précédant la date du dépôt de la demande. Un tel certificat est à présenter pour le demandeur et son époux(se), ou sa/son partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ou de sa/son concubin(e), pour autant qu’ils sont membres du ménage ;
+- un certificat d’affiliation du Centre commun de la sécurité sociale pour toute l’année calendaire précédant la date du dépôt de la demande. Un tel certificat est à présenter pour le demandeur et son époux(se), ou sa/son partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ou de sa/son concubin(e), pour autant qu’ils sont membres du ménage ;
 
-2. les attestations de revenus des trois derniers mois, hormis le mois d’août, du demandeur et le cas échéant de son époux(se), ou de sa/son partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ou de sa/son concubin(e) , ainsi que de l’élève lui-même ;
+- les attestations de revenus des trois derniers mois, hormis le mois d’août, du demandeur et le cas échéant de son époux(se), ou de sa/son partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ou de sa/son concubin(e) , ainsi que de l’élève lui-même ;
 
-3. un certificat attestant le versement des allocations familiales, ou à défaut une copie de l’extrait du dernier versement des allocations familiales. L’allocation de rentrée scolaire n’est pas prise en compte ;
+- un certificat attestant le versement des allocations familiales, ou à défaut une copie de l’extrait du dernier versement des allocations familiales. L’allocation de rentrée scolaire n’est pas prise en compte ;
 
-4. pour les personnes concernées, le plus récent certificat de revenu du bureau d’imposition attestant le revenu des indépendants, agriculteurs et viticulteurs, ou une copie du dernier relevé du Centre commun de la sécurité sociale déclarant le revenu imposable sur base duquel sont fixées les cotisations en matière de sécurité sociale ;
+- pour les personnes concernées, le plus récent certificat de revenu du bureau d’imposition attestant le revenu des indépendants, agriculteurs et viticulteurs, ou une copie du dernier relevé du Centre commun de la sécurité sociale déclarant le revenu imposable sur base duquel sont fixées les cotisations en matière de sécurité sociale ;
 
-5. pour les personnes concernées, un rapport social ou une enquête sociale du Service ou, à défaut, du Centre concernant l’élève ;
+- pour les personnes concernées, un rapport social ou une enquête sociale du Service ou, à défaut, du Centre concernant l’élève ;
 
-6. le certificat d’inscription de l’élève dans un établissement scolaire. Le tampon de l’établissement scolaire, signé et daté, apposé sur la demande vaut certificat d’inscription ;
+- le certificat d’inscription de l’élève dans un établissement scolaire. Le tampon de l’établissement scolaire, signé et daté, apposé sur la demande vaut certificat d’inscription ;
 
-7. pour les personnes concernées, un certificat d’inscription aux études post-secondaires d’autres membres du ménage.
+- pour les personnes concernées, un certificat d’inscription aux études post-secondaires d’autres membres du ménage.
 
 (3)
 
@@ -133,37 +133,37 @@ Par dérogation à l’alinéa 1er, l’élève est considéré comme adulte pou
 
 Le revenu mensuel net disponible du ménage est constitué par :
 
-1. des revenus nets visés à l’article 10 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, y compris les rémunérations pour les heures de travail supplémentaires et déduction faite des cotisations sociales, des impôts effectivement retenus et des éléments non périodiques ;
+- des revenus nets visés à l’article 10 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, y compris les rémunérations pour les heures de travail supplémentaires et déduction faite des cotisations sociales, des impôts effectivement retenus et des éléments non périodiques ;
 
-2. des indemnités de chômage ;
+- des indemnités de chômage ;
 
-3. du revenu minimum garanti et du revenu pour personnes gravement handicapées ;
+- du revenu minimum garanti et du revenu pour personnes gravement handicapées ;
 
-4. des pensions de survie ou des pensions attribuées par une caisse de pension d’un pays à l’étranger ;
+- des pensions de survie ou des pensions attribuées par une caisse de pension d’un pays à l’étranger ;
 
-5. de l’indemnité perçue pendant le congé parental ;
+- de l’indemnité perçue pendant le congé parental ;
 
-6. des pensions alimentaires perçues ;
+- des pensions alimentaires perçues ;
 
-7. des rentes d’invalidité et d’accident , ainsi que de tout autre revenu de remplacement ;
+- des rentes d’invalidité et d’accident , ainsi que de tout autre revenu de remplacement ;
 
-8. de l’allocation d’éducation ;
+- de l’allocation d’éducation ;
 
-9. des revenus provenant de la location de biens ;
+- des revenus provenant de la location de biens ;
 
-10. du forfait journalier pour le placement familial ou l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour, conformément à l’article 15 de la loi modifiée du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, limité à la part indemnisation ;
+- du forfait journalier pour le placement familial ou l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour, conformément à l’article 15 de la loi modifiée du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, limité à la part indemnisation ;
 
-11. des revenus imposables d’une activité d’indépendant, d’agriculteur ou de viticulteur, documenté par le certificat le plus récent du bureau d’imposition.
+- des revenus imposables d’une activité d’indépendant, d’agriculteur ou de viticulteur, documenté par le certificat le plus récent du bureau d’imposition.
 
-12. de l’indemnité d’apprentissage, de l’indemnité à la formation, de la prime à la formation et des indemnités versées dans le cadre de l’apprentissage pour adultes ;
+- de l’indemnité d’apprentissage, de l’indemnité à la formation, de la prime à la formation et des indemnités versées dans le cadre de l’apprentissage pour adultes ;
 
-13. des indemnités payées dans le cadre du service volontaire des jeunes ;
+- des indemnités payées dans le cadre du service volontaire des jeunes ;
 
-14. de la rente d’orphelin ;
+- de la rente d’orphelin ;
 
-15. de l’allocation mensuelle versée aux demandeurs de protection internationale ;
+- de l’allocation mensuelle versée aux demandeurs de protection internationale ;
 
-16. des allocations pour frais de vie et d’hébergement versées à l’élève majeur dans le cadre de la loi modifiée du 16 décembre 2008 relative à l’aide à l’enfance et à la famille.
+- des allocations pour frais de vie et d’hébergement versées à l’élève majeur dans le cadre de la loi modifiée du 16 décembre 2008 relative à l’aide à l’enfance et à la famille.
 
 Les pensions alimentaires versées sont déduites du revenu mensuel net disponible.
 
@@ -194,13 +194,13 @@ La demande en obtention de la subvention du maintien scolaire est introduite par
 
 La demande est accompagnée d’un rapport social et financier établi par le Service ou, à défaut, par le Centre et des pièces justificatives suivantes :
 
-1. le contrat de bail, le contrat de mise à disposition, la facture de l’internat scolaire ou la convention conclue avec un tiers, spécifiant le mode de paiement des charges locatives privatives et communes ;
+- le contrat de bail, le contrat de mise à disposition, la facture de l’internat scolaire ou la convention conclue avec un tiers, spécifiant le mode de paiement des charges locatives privatives et communes ;
 
-2. le certificat d’inscription de l’élève majeur dans un établissement scolaire. Le tampon de l’établissement scolaire, signé et daté, apposé sur la demande vaut certificat d’inscription.
+- le certificat d’inscription de l’élève majeur dans un établissement scolaire. Le tampon de l’établissement scolaire, signé et daté, apposé sur la demande vaut certificat d’inscription.
 
 (2)
 
-Le demandeur est tenu, dans un délai de dix jours ouvrables, de fournir, sur demande du Service ou du Centre, tous les renseignements et documents jugés nécessaires pour constater si les conditions d’octroi de la subvention du maintien scolaire demandée sont remplies. Il en est de même après l’octroi de la subvention du maintien scolaire. Le défaut de présentation des pièces dans les délais prévus vaut refus de la demande.
+Le demandeur est tenu , dans un délai de dix jours ouvrables, de fournir, sur demande du Service ou du Centre, tous les renseignements et documents jugés nécessaires pour constater si les conditions d’octroi de la subvention du maintien scolaire demandée sont remplies. Il en est de même après l’octroi de la subvention du maintien scolaire. Le défaut de présentation des pièces dans les délais prévus vaut refus de la demande.
 
 (3)
 
@@ -208,25 +208,25 @@ Pour l’obtention de la subvention du maintien scolaire, le revenu mensuel net 
 
 Le revenu mensuel net disponible est calculé en additionnant :
 
-1. les allocations familiales, à l’exception des allocations familiales versées pour le ou les enfant(s) du demandeur ;
+- les allocations familiales, à l’exception des allocations familiales versées pour le ou les enfant(s) du demandeur ;
 
-2. la pension alimentaire ;
+- la pension alimentaire ;
 
-3. la rente d’orphelin ;
+- la rente d’orphelin ;
 
-4. le salaire autre qu’un salaire étudiant payé dans le cadre d’un emploi étudiant ;
+- le salaire autre qu’un salaire étudiant payé dans le cadre d’un emploi étudiant ;
 
-5. la subvention loyer en application de la loi du 9 décembre 2015 portant introduction d'une subvention de loyer et modifiant : a) la loi modifiée du 25 février 1979 concernant l'aide au logement ; b) la loi modifiée du 29 avril 1999 portant création d'un droit à un revenu minimum garanti ; c) la loi modifiée du 21 septembre 2006 sur le bail à usage d'habitation et modifiant certaines dispositions du Code civil ;
+- la subvention loyer en application de la loi du 9 décembre 2015 portant introduction d'une subvention de loyer et modifiant : a) la loi modifiée du 25 février 1979 concernant l'aide au logement ; b) la loi modifiée du 29 avril 1999 portant création d'un droit à un revenu minimum garanti ; c) la loi modifiée du 21 septembre 2006 sur le bail à usage d'habitation et modifiant certaines dispositions du Code civil ;
 
-6. l’allocation de chômage, le revenu minimum garanti et l’allocation de loyer ;
+- l’allocation de chômage, le revenu minimum garanti et l’allocation de loyer ;
 
-7. tout revenu de remplacement ou indemnité non-occasionnelle , y compris les bourses d’études ;
+- tout revenu de remplacement ou indemnité non-occasionnelle , y compris les bourses d’études ;
 
-8. les intérêts et produits en capitaux ;
+- les intérêts et produits en capitaux ;
 
-9. l’indemnité d’apprentissage et l’indemnité versée dans le cadre de l’apprentissage pour adultes ;
+- l’indemnité d’apprentissage et l’indemnité versée dans le cadre de l’apprentissage pour adultes ;
 
-10. la prime et l’indemnité à la formation accordée par le Service de la formation professionnelle.
+- la prime et l’indemnité à la formation accordée par le Service de la formation professionnelle.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -237,11 +237,11 @@ Le jeune perçoit un montant de 570 euros par mois pour frais de vie.
 
 A ce montant s’ajoute un montant plafonné en fonction de la situation de logement de l’élève majeur :
 
-1. un maximum de 700 euros par mois, charges communes incluses, si l’élève loue un bien. Le montant alloué est majoré de maximum 90 euros par mois pour charges locatives privatives ;
+- un maximum de 700 euros par mois, charges communes incluses, si l’élève loue un bien. Le montant alloué est majoré de maximum 90 euros par mois pour charges locatives privatives ;
 
-2. un forfait de 300 euros par mois si l’élève est logé auprès d’un tiers, conformément aux dispositions de l’article 7, paragraphe 1 er , alinéa 2, point 1.
+- un forfait de 300 euros par mois si l’élève est logé auprès d’un tiers, conformément aux dispositions de l’article 7, paragraphe 1 er , alinéa 2, point 1.
 
-Le total mensuel obtenu par l'addition des montants ci-dessus est diminué du revenu éventuel prévu à l’article 7.
+Le total mensuel obtenu par l'addition des montants ci-dessus est diminué du revenu éventuel prévu à l’article 7 .
 
 Nonobstant le montant de la subvention du maintien scolaire accordé, l’élève majeur a droit, pour l’achat du matériel scolaire, à un montant forfaitaire de 100 euros par trimestre scolaire entamé ou subsistant. Ce montant forfaitaire s’ajoute au montant de la subvention du maintien scolaire dû et il est versé en une fois pendant l’année scolaire en cours. Le montant cumulé ne peut pas dépasser 300 euros par année scolaire. Un douzième de ce montant annuel est comptabilisé pour le calcul du plafond mensuel maximal autorisé tel que prévu par l’article 2 de la loi modifiée du 13 juillet 2006 portant organisation du Centre psycho-social et d’accompagnement scolaires.
 
@@ -262,13 +262,13 @@ Elle est versée sur le compte de l’élève majeur demandeur par tranche de tr
 
 Le droit à la subvention du maintien scolaire est maintenu pour le prochain trimestre de l’année scolaire subséquente si les conditions suivantes se trouvent toujours remplies :
 
-1. l’élève majeur poursuit sa scolarité à temps plein ou en régime concomitant ;
+- l’élève majeur poursuit sa scolarité à temps plein ou en régime concomitant ;
 
-2. l’élève majeur est suivi par le service psycho-social et d’accompagnement scolaires de son établissement scolaire ;
+- l’élève majeur est suivi par le service psycho-social et d’accompagnement scolaires de son établissement scolaire ;
 
-3. la situation de revenu reste inchangée. Au cas contraire, le montant de la subvention du maintien scolaire est revue pour le trimestre suivant compte tenu du changement des conditions de base ;
+- la situation de revenu reste inchangée. Au cas contraire, le montant de la subvention du maintien scolaire est revue pour le trimestre suivant compte tenu du changement des conditions de base ;
 
-4. L’élève majeur n’est pas en possession d’un diplôme de fin d'études secondaires, d'un diplôme de technicien, d'un diplôme d'aptitude professionnelle, d'un certificat de capacité professionnelle ou d’un diplôme du dernier degré délivré dans l’enseignement secondaire.
+- L’élève majeur n’est pas en possession d’un diplôme de fin d'études secondaires, d'un diplôme de technicien, d'un diplôme d'aptitude professionnelle, d'un certificat de capacité professionnelle ou d’un diplôme du dernier degré délivré dans l’enseignement secondaire.
 
 (2)
 

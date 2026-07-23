@@ -40,13 +40,13 @@ Le siège de l'établissement est fixé à Luxembourg.
 
 Le Centre a pour mission de gérer l'ensemble des installations au titre:
 
-1. de leur prioritaire vocation sportive dans l'intérêt des activités des fédérations sportives, du sport scolaire, de manifestations sportives de tout genre, ainsi que de la natation compétitive et récréative;
+- de leur prioritaire vocation sportive dans l'intérêt des activités des fédérations sportives, du sport scolaire, de manifestations sportives de tout genre, ainsi que de la natation compétitive et récréative;
 
-2. de leur vocation culturelle pour le déroulement d'événements et de spectacles susceptibles d'attirer un grand public;
+- de leur vocation culturelle pour le déroulement d'événements et de spectacles susceptibles d'attirer un grand public;
 
-3. d'une vocation accessoire à caractère congressiste;
+- d'une vocation accessoire à caractère congressiste;
 
-4. des possibilités et disponibilités de séjour, d'hébergement et de restauration.
+- des possibilités et disponibilités de séjour, d'hébergement et de restauration.
 
 Il peut sous-traiter par contrat l'exécution de certaines tâches relevant du domaine de l'entretien des installations, de l'hébergement et de la restauration.
 
@@ -55,31 +55,31 @@ L'affectation des terrains et bâtiments mis à la disposition du Centre, les pr
 <a id="art-3"></a>
 ## Art. 3.
 
-1. Le Centre est administré par un conseil d'administration composé de neuf membres nommés et révoqués par le Grand-Duc sur proposition du Conseil de Gouvernement, dont.
+- Le Centre est administré par un conseil d'administration composé de neuf membres nommés et révoqués par le Grand-Duc sur proposition du Conseil de Gouvernement, dont.
 
-- un membre représentant le Comité olympique et sportif luxembourgeois en tant qu'organisme central du sport;
+  - un membre représentant le Comité olympique et sportif luxembourgeois en tant qu'organisme central du sport;
 
-- un membre représentant l'organisation associative de la culture,
+  - un membre représentant l'organisation associative de la culture,
 
-- un membre représentant la Ville de Luxembourg et
+  - un membre représentant la Ville de Luxembourg et
 
-- un membre choisi pour ses compétences dans l'administration d'entreprises.
+  - un membre choisi pour ses compétences dans l'administration d'entreprises.
 
-2. Ne peuvent devenir membres du conseil d’administration le ou les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler le Centre ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs du Centre ou signent des ordonnances de paiement ou toute autre pièce administrative entraînant une dépense de l’Etat en faveur du Centre.
+- Ne peuvent devenir membres du conseil d’administration le ou les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler le Centre ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs du Centre ou signent des ordonnances de paiement ou toute autre pièce administrative entraînant une dépense de l’Etat en faveur du Centre.
 
-3. Le président et le vice-président du conseil d’administration sont désignés par le Conseil de Gouvernement.
+- Le président et le vice-président du conseil d’administration sont désignés par le Conseil de Gouvernement.
 
-4. Le conseil d’administration peut choisir un secrétaire administratif hors de son sein.
+- Le conseil d’administration peut choisir un secrétaire administratif hors de son sein.
 
-5. Les membres du conseil d’administration sont nommés pour une durée de cinq ans, renouvelable à son terme.
+- Les membres du conseil d’administration sont nommés pour une durée de cinq ans, renouvelable à son terme.
 
-6. Le conseil d’administration peut à tout moment être révoqué par le Grand-Duc. Toutefois, le Grand-Duc peut révoquer un membre avant l’expiration de son mandat sur proposition du ministre de tutelle, le conseil d’administration entendu en son avis.
+- Le conseil d’administration peut à tout moment être révoqué par le Grand-Duc. Toutefois, le Grand-Duc peut révoquer un membre avant l’expiration de son mandat sur proposition du ministre de tutelle, le conseil d’administration entendu en son avis.
 
-7. En cas de démission, de décès ou de révocation avant terme du mandat d’un administrateur, il est pourvu à son remplacement par la nomination d’un nouveau membre qui achève le mandat de celui qu’il remplace.
+- En cas de démission, de décès ou de révocation avant terme du mandat d’un administrateur, il est pourvu à son remplacement par la nomination d’un nouveau membre qui achève le mandat de celui qu’il remplace.
 
-8. Le conseil d’administration a la faculté de recourir à l’avis d’experts s’il le juge nécessaire. Les experts peuvent assister avec voix consultative aux réunions du conseil d’administration, si celui-ci le leur demande.
+- Le conseil d’administration a la faculté de recourir à l’avis d’experts s’il le juge nécessaire. Les experts peuvent assister avec voix consultative aux réunions du conseil d’administration, si celui-ci le leur demande.
 
-9. Les indemnités et jetons de présence des membres et participants aux réunions du conseil d’administration sont fixés par le Gouvernement en Conseil et sont à charge du Centre.
+- Les indemnités et jetons de présence des membres et participants aux réunions du conseil d’administration sont fixés par le Gouvernement en Conseil et sont à charge du Centre.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -135,19 +135,19 @@ Le directeur assiste aux réunions du conseil d'administration avec voix consult
 
 Les ressources du Centre proviennent notamment:
 
-1. des contributions inscrites au budget de l'Etat;
+- des contributions inscrites au budget de l'Etat;
 
-2. de la location et de la mise à disposition des installations;
+- de la location et de la mise à disposition des installations;
 
-3. du remboursement par des tiers de services et de prestations offerts;
+- du remboursement par des tiers de services et de prestations offerts;
 
-4. des revenus d'exploitations et de manifestations;
+- des revenus d'exploitations et de manifestations;
 
-5. des services commissionnés et concessionnés;
+- des services commissionnés et concessionnés;
 
-6. de dons et legs;
+- de dons et legs;
 
-7. d'emprunts.
+- d'emprunts.
 
 <a id="art-8"></a>
 ## Art. 8.

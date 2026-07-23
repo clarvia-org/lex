@@ -48,17 +48,17 @@ La délibération du conseil communal concernant la construction, l'agrandisseme
 
 Cette délibération contenant l'évaluation de la dépense envisagée et indiquant les voies et moyens destinés au financement des travaux, devra être étayée des pièces suivantes:
 
-1. une étude sur le développement de la population durant les prochaines années;
+- une étude sur le développement de la population durant les prochaines années;
 
-2. le plan de situation orienté, indiquant l'emplacement et les abords de la nouvelle construction;
+- le plan de situation orienté, indiquant l'emplacement et les abords de la nouvelle construction;
 
-3. des avis quant aux problèmes de la voirie et de la circulation, émis par le service technique communal et par l'administration des ponts et chaussées;
+- des avis quant aux problèmes de la voirie et de la circulation, émis par le service technique communal et par l'administration des ponts et chaussées;
 
-4. l'avis du médecin-inspecteur de la circonscription sanitaire;
+- l'avis du médecin-inspecteur de la circonscription sanitaire;
 
-5. l'avis de l'ingénieur-géologue de l'Etat;
+- l'avis de l'ingénieur-géologue de l'Etat;
 
-6. une information de commodo et incommodo selon les formes et prescriptions des articles 4 et 5 de l' arrêté royal grand-ducal du 17 juin 1872 concernant le régime de certains établissements réputés dangereux, insalubres ou incommodes.
+- une information de commodo et incommodo selon les formes et prescriptions des articles 4 et 5 de l' arrêté royal grand-ducal du 17 juin 1872 concernant le régime de certains établissements réputés dangereux, insalubres ou incommodes.
 
 Un règlement grand-ducal pourra modifier ou compléter les dispositions de l'alinéa qui précède.
 
@@ -124,11 +124,11 @@ Le conseil communal peut accorder dans les cimetières communaux des concessions
 
 Peuvent être inhumés dans une sépulture concédée:
 
-1. le concessionnaire et son conjoint;
+- le concessionnaire et son conjoint;
 
-2. ses descendants et ascendants avec leurs conjoints respectifs, ainsi que ses enfants adoptifs avec leurs conjoints;
+- ses descendants et ascendants avec leurs conjoints respectifs, ainsi que ses enfants adoptifs avec leurs conjoints;
 
-3. avec l'accord du concessionnaire, les personnes auxquelles l'attachent des liens de parenté, d'affection et de reconnaissance.
+- avec l'accord du concessionnaire, les personnes auxquelles l'attachent des liens de parenté, d'affection et de reconnaissance.
 
 Ces concessions sont accordées pour trente ans au plus et elles sont renouvelables.
 
@@ -143,9 +143,9 @@ Toutefois une ou plusieurs personnes intéressées au maintien de ces concession
 
 Cette déclaration doit être faite dans un délai d'une année prenant cours:
 
-1. à la date d'entrée en vigueur de la présente loi pour toutes les concessions octroyées plus de trente ans avant cette date;
+- à la date d'entrée en vigueur de la présente loi pour toutes les concessions octroyées plus de trente ans avant cette date;
 
-2. à l'expiration de la trentième année de l'octroi des concessions dans tous les autres cas.
+- à l'expiration de la trentième année de l'octroi des concessions dans tous les autres cas.
 
 Lorsque la déclaration conservatoire n'a pas été faite dans le prédit délai, l'administration communale avertit les intéressés que, faute par eux d'y procéder dans un délai supplémentaire de six mois à partir de la notification de l'avertissement, ils seront considérés comme ayant renoncé à leurs droits.
 
@@ -208,11 +208,11 @@ Deux ou plusieurs communes peuvent former un syndicat en vue de la création et 
 
 Un règlement grand-ducal déterminera les conditions applicables:
 
-1. à la création et au fonctionnement d'un four crématoire;
+- à la création et au fonctionnement d'un four crématoire;
 
-2. à l'incinération dans une commune autre que celle du décès;
+- à l'incinération dans une commune autre que celle du décès;
 
-3. au transport des cendres dans une commune autre que celle de l'incinération.
+- au transport des cendres dans une commune autre que celle de l'incinération.
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -228,9 +228,9 @@ En cas de décès à l'étranger, le juge des référés compétent pour connaî
 
 L'autorisation prévue à l'article qui précède sera accordée après production des pièces suivantes:
 
-1. un certificat médical duquel il résulte qu'il n'existe ni signes ni indices de mort violente; ce certificat sera délivré par le médecin traitant ou, à son défaut, par tout autre médecin mandé à ces fins par la famille du défunt ou les autorités publiques;
+- un certificat médical duquel il résulte qu'il n'existe ni signes ni indices de mort violente; ce certificat sera délivré par le médecin traitant ou, à son défaut, par tout autre médecin mandé à ces fins par la famille du défunt ou les autorités publiques;
 
-2. l'accord du procureur d'Etat du lieu du décès, en cas de mort violente ou de mort dont la cause est inconnue ou suspecte. Cet accord peut être subordonné à une autopsie préalable.
+- l'accord du procureur d'Etat du lieu du décès, en cas de mort violente ou de mort dont la cause est inconnue ou suspecte. Cet accord peut être subordonné à une autopsie préalable.
 
 Sauf en cas de contestation, l'autorisation devra être accordée ou refusée dans les vingt-quatre heures qui suivront la demande et le dépôt des pièces annexées.
 
@@ -243,9 +243,9 @@ L'officier de l'état civil saisit le procureur d'Etat chaque fois qu'il croit d
 
 Il le fait obligatoirement:
 
-1. lorsqu'il ne résulte pas du certificat médical prévu par le premier alinéa sub 1 de l'article qui précède qu'il n'y a ni signes ni indices de mort violente;
+- lorsqu'il ne résulte pas du certificat médical prévu par le premier alinéa sub 1 de l'article qui précède qu'il n'y a ni signes ni indices de mort violente;
 
-2. lorsqu'il existe des circonstances qui permettent de soupçonner qu'il y a eu mort violente.
+- lorsqu'il existe des circonstances qui permettent de soupçonner qu'il y a eu mort violente.
 
 <a id="art-22"></a>
 ## Art. 22.

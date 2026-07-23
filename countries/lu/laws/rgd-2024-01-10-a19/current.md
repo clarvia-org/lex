@@ -36,31 +36,31 @@ warning: 'Official consolidation: Version rectifiée applicable au 03/02/2024 : 
 
 Les fonctionnaires du groupe de traitement A2 et B1, sous-groupes militaires, dans la fonction d’infirmier militaire gradué, d’infirmier militaire et d’infirmier militaire anesthésiste de l’Armée luxembourgeoise sont autorisés à mettre en œuvre les techniques suivantes :
 
-1. libération et maintien des voies aériennes, y compris par moyens invasifs et dispositifs supra-glottiques ;
+- libération et maintien des voies aériennes, y compris par moyens invasifs et dispositifs supra-glottiques ;
 
-2. décompression en urgence d’un pneumothorax compressif ;
+- décompression en urgence d’un pneumothorax compressif ;
 
-3. obtention d’un accès intraveineux périphérique et intraosseux ;
+- obtention d’un accès intraveineux périphérique et intraosseux ;
 
-4. mise en place de perfusion liquidienne et traitement de substitution volémique ;
+- mise en place de perfusion liquidienne et traitement de substitution volémique ;
 
-5. administration médicamenteuse y compris la préparation par voies transmuqueuse et parentérale y compris à l’aide d’une pompe à perfusion ;
+- administration médicamenteuse y compris la préparation par voies transmuqueuse et parentérale y compris à l’aide d’une pompe à perfusion ;
 
-6. utilisation de moyens antihémorragiques ;
+- utilisation de moyens antihémorragiques ;
 
-7. administration d’oxygène par sonde nasale ou masque ;
+- administration d’oxygène par sonde nasale ou masque ;
 
-8. première mise en place et retrait d’une sonde vésicale ainsi que les soins liés ;
+- première mise en place et retrait d’une sonde vésicale ainsi que les soins liés ;
 
-9. pose de plâtre ou de moyens d’immobilisation similaires ;
+- pose de plâtre ou de moyens d’immobilisation similaires ;
 
-10. prélèvement de sang par ponction veineuse ou capillaire ou par dispositifs ad hoc ;
+- prélèvement de sang par ponction veineuse ou capillaire ou par dispositifs ad hoc ;
 
-11. contrôle des gaz du sang à l’aide d’appareils automatiques ;
+- contrôle des gaz du sang à l’aide d’appareils automatiques ;
 
-12. prélèvements et collectes de sécrétions et d’excrétions à l’exception de toute ponction ;
+- prélèvements et collectes de sécrétions et d’excrétions à l’exception de toute ponction ;
 
-13. enregistrement simple d’un électrocardiogramme, d’un électromyogramme, d’une électroneurographie, d’un électroencéphalogramme, et de potentiels évoqués.
+- enregistrement simple d’un électrocardiogramme, d’un électromyogramme, d’une électroneurographie, d’un électroencéphalogramme, et de potentiels évoqués.
 
 <a id="art-2"></a>
 ## Art. 2.

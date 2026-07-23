@@ -75,19 +75,19 @@ L’évolution des capacités consommées et des capacités restantes des décha
 
 Évaluation de décharges régionales pour déchets inertes
 
-1. Tout nouvel emplacement pour une décharge régionale pour déchets inertes doit être évalué par rapport aux critères d’évaluation comparative retenus à l’annexe III. Un site ne peut être retenu que s’il a obtenu au moins 45 points. Cette évaluation de nouveaux sites pour décharges régionales pour déchets inertes est à réaliser par un organisme agréé à cet effet conformément à la loi du 21 avril 1993 relative à l’agrément de personnes physiques ou morales privées ou publiques, autres que l’État pour l’accomplissement de tâches techniques d’étude et de vérification dans le domaine de l’environnement, et ce à charge du maître d’ouvrage.
+- Tout nouvel emplacement pour une décharge régionale pour déchets inertes doit être évalué par rapport aux critères d’évaluation comparative retenus à l’annexe III. Un site ne peut être retenu que s’il a obtenu au moins 45 points. Cette évaluation de nouveaux sites pour décharges régionales pour déchets inertes est à réaliser par un organisme agréé à cet effet conformément à la loi du 21 avril 1993 relative à l’agrément de personnes physiques ou morales privées ou publiques, autres que l’État pour l’accomplissement de tâches techniques d’étude et de vérification dans le domaine de l’environnement, et ce à charge du maître d’ouvrage.
 
-2. L’évaluation doit prendre position par rapport aux capacités maximales et aux seuils de capacité minimale disponible par région dont question à l’annexe II.
+- L’évaluation doit prendre position par rapport aux capacités maximales et aux seuils de capacité minimale disponible par région dont question à l’annexe II.
 
-3. Le rapport d’évaluation doit contenir les indications suivantes : L’évaluation fera partie des informations sur les caractéristiques du projet recueillies dans le cadre de la vérification préliminaire visée à l’article 4 de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement et le cas échéant du rapport d’évaluation visé à l’article 6 de la loi précitée du 15 mai 2018.
+- Le rapport d’évaluation doit contenir les indications suivantes : L’évaluation fera partie des informations sur les caractéristiques du projet recueillies dans le cadre de la vérification préliminaire visée à l’article 4 de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement et le cas échéant du rapport d’évaluation visé à l’article 6 de la loi précitée du 15 mai 2018.
 
-1. les noms, prénoms, qualité et domicile du demandeur et de l’exploitant prévus ;
+  - les noms, prénoms, qualité et domicile du demandeur et de l’exploitant prévus ;
 
-2. l’indication des parcelles cadastrales susceptibles d’accueillir la décharge régionale pour déchets inertes et de l’état du site proposé pour l’implantation de la décharge, ainsi que de la situation géographique par rapport aux zones non prioritaires reprises à l’annexe 2 du plan national de gestion des déchets et des ressources ;
+  - l’indication des parcelles cadastrales susceptibles d’accueillir la décharge régionale pour déchets inertes et de l’état du site proposé pour l’implantation de la décharge, ainsi que de la situation géographique par rapport aux zones non prioritaires reprises à l’annexe 2 du plan national de gestion des déchets et des ressources ;
 
-3. l’accord écrit des propriétaires fonciers concernés ;
+  - l’accord écrit des propriétaires fonciers concernés ;
 
-4. le rapport de l’évaluation du site suivant les critères d’évaluation comparative établie conformément à l’annexe III du présent règlement et une prise de position concernant les capacités maximales et minimales disponibles par région de l’annexe II.
+  - le rapport de l’évaluation du site suivant les critères d’évaluation comparative établie conformément à l’annexe III du présent règlement et une prise de position concernant les capacités maximales et minimales disponibles par région de l’annexe II.
 
 <a id="art-7"></a>
 ## Art. 7.

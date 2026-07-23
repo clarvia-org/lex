@@ -52,45 +52,45 @@ Définitions
 
 Au sens de la présente loi, on entend par :
 
-1. « autorité nationale de concurrence » : une autorité compétente pour appliquer les articles 101 et 102 du Traité sur le fonctionnement de l’Union européenne (ci-après : « TFUE »), désignée par un État membre en vertu de l’article 35 du règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en œuvre des règles de concurrence prévues aux articles 81 et 82 du traité , tel que modifié ;
+- « autorité nationale de concurrence » : une autorité compétente pour appliquer les articles 101 et 102 du Traité sur le fonctionnement de l’Union européenne (ci-après : « TFUE »), désignée par un État membre en vertu de l’article 35 du règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en œuvre des règles de concurrence prévues aux articles 81 et 82 du traité , tel que modifié ;
 
-2. « autorité de concurrence » : une autorité nationale de concurrence ou la Commission européenne ou les deux, selon le contexte ;
+- « autorité de concurrence » : une autorité nationale de concurrence ou la Commission européenne ou les deux, selon le contexte ;
 
-3. « réseau européen de la concurrence » : le réseau d’autorités publiques formé par les autorités nationales de concurrence et la Commission pour offrir un espace de discussion et de coopération pour l’application et la mise en œuvre des articles 101 et 102 du TFUE ;
+- « réseau européen de la concurrence » : le réseau d’autorités publiques formé par les autorités nationales de concurrence et la Commission pour offrir un espace de discussion et de coopération pour l’application et la mise en œuvre des articles 101 et 102 du TFUE ;
 
-4. « juridiction nationale » : toute juridiction nationale au sens de l’article 267 du TFUE ;
+- « juridiction nationale » : toute juridiction nationale au sens de l’article 267 du TFUE ;
 
-5. « instance de recours » : une juridiction nationale habilitée à réexaminer, par les moyens de recours ordinaires, les décisions d’une autorité nationale de concurrence ou à réexaminer les jugements se prononçant sur ces décisions, que cette juridiction soit ou non compétente elle-même pour constater une infraction au droit de la concurrence ;
+- « instance de recours » : une juridiction nationale habilitée à réexaminer, par les moyens de recours ordinaires, les décisions d’une autorité nationale de concurrence ou à réexaminer les jugements se prononçant sur ces décisions, que cette juridiction soit ou non compétente elle-même pour constater une infraction au droit de la concurrence ;
 
-6. « procédure » : la procédure devant l’Autorité de concurrence du Grand-Duché de Luxembourg pour l’application des articles 4 et 5 de la présente loi et des articles 101 et 102 du TFUE , jusqu’à ce qu’elle ait clos cette procédure en adoptant une décision en vertu de l’article 16 ou qu’elle ait conclu qu’il n’y a plus lieu qu’elle agisse ou la procédure devant la Commission européenne pour l’application de l’article 101 ou de l’article 102 du TFUE , jusqu’à ce que celle-ci ait clos cette procédure en adoptant une décision en vertu des articles 7, 9 ou 10 du règlement (CE) n° 1/2003 précité ou qu’elle ait conclu qu’il n’y a plus lieu qu’elle agisse ;
+- « procédure » : la procédure devant l’Autorité de concurrence du Grand-Duché de Luxembourg pour l’application des articles 4 et 5 de la présente loi et des articles 101 et 102 du TFUE , jusqu’à ce qu’elle ait clos cette procédure en adoptant une décision en vertu de l’article 16 ou qu’elle ait conclu qu’il n’y a plus lieu qu’elle agisse ou la procédure devant la Commission européenne pour l’application de l’article 101 ou de l’article 102 du TFUE , jusqu’à ce que celle-ci ait clos cette procédure en adoptant une décision en vertu des articles 7, 9 ou 10 du règlement (CE) n° 1/2003 précité ou qu’elle ait conclu qu’il n’y a plus lieu qu’elle agisse ;
 
-7. « entreprise » : au sens des articles 4 et 5 de la présente loi et 101 et 102 du TFUE , toute entité exerçant une activité économique, indépendamment de son statut juridique et de son mode de financement ;
+- « entreprise » : au sens des articles 4 et 5 de la présente loi et 101 et 102 du TFUE , toute entité exerçant une activité économique, indépendamment de son statut juridique et de son mode de financement ;
 
-8. « entente » : tout accord ou toute pratique concertée entre deux ou plusieurs concurrents visant à coordonner leur comportement concurrentiel sur le marché ou à influencer les paramètres de la concurrence par des pratiques consistant notamment, mais pas uniquement, à fixer ou à coordonner des prix d’achat ou de vente ou d’autres conditions de transaction, y compris au regard des droits de la propriété intellectuelle, à attribuer des quotas de production ou de vente, à répartir des marchés et des clients, notamment en présentant des soumissions concertées lors de marchés publics, à restreindre l’importation ou l’exportation ou à prendre des mesures anticoncurrentielles dirigées contre d’autres concurrents ;
+- « entente » : tout accord ou toute pratique concertée entre deux ou plusieurs concurrents visant à coordonner leur comportement concurrentiel sur le marché ou à influencer les paramètres de la concurrence par des pratiques consistant notamment, mais pas uniquement, à fixer ou à coordonner des prix d’achat ou de vente ou d’autres conditions de transaction, y compris au regard des droits de la propriété intellectuelle, à attribuer des quotas de production ou de vente, à répartir des marchés et des clients, notamment en présentant des soumissions concertées lors de marchés publics, à restreindre l’importation ou l’exportation ou à prendre des mesures anticoncurrentielles dirigées contre d’autres concurrents ;
 
-9. « entente secrète » : entente dont l’existence est partiellement ou entièrement dissimulée ;
+- « entente secrète » : entente dont l’existence est partiellement ou entièrement dissimulée ;
 
-10. « immunité d’amendes » : l’exonération d’amendes qui auraient normalement été infligées à une entreprise pour sa participation à une entente, afin de la récompenser de sa coopération avec une autorité de concurrence dans le cadre d’un programme de clémence ;
+- « immunité d’amendes » : l’exonération d’amendes qui auraient normalement été infligées à une entreprise pour sa participation à une entente, afin de la récompenser de sa coopération avec une autorité de concurrence dans le cadre d’un programme de clémence ;
 
-11. « réduction d’amendes » : le fait que l’amende infligée est réduite par rapport aux amendes qui seraient normalement infligées à une entreprise pour sa participation à une entente en récompense de sa coopération avec une autorité de concurrence dans la cadre d’un programme de clémence ;
+- « réduction d’amendes » : le fait que l’amende infligée est réduite par rapport aux amendes qui seraient normalement infligées à une entreprise pour sa participation à une entente en récompense de sa coopération avec une autorité de concurrence dans la cadre d’un programme de clémence ;
 
-12. « clémence » : à la fois l’immunité d’amendes et la réduction de leur montant ;
+- « clémence » : à la fois l’immunité d’amendes et la réduction de leur montant ;
 
-13. « programme de clémence » : un programme concernant l’application de l’article 101 du TFUE ou 4 de la loi, sur la base duquel un participant à une entente, indépendamment des autres entreprises participant à l’entente, coopère avec l’autorité de concurrence dans le cadre de son enquête en présentant spontanément des éléments concernant sa connaissance de l’entente et le rôle qu’il y joue, en échange de quoi ce participant bénéficie, par voie de décision ou du fait de l’arrêt de la procédure, d’une immunité d’amendes pour sa participation à l’entente ou de la réduction de leur montant ;
+- « programme de clémence » : un programme concernant l’application de l’article 101 du TFUE ou 4 de la loi, sur la base duquel un participant à une entente, indépendamment des autres entreprises participant à l’entente, coopère avec l’autorité de concurrence dans le cadre de son enquête en présentant spontanément des éléments concernant sa connaissance de l’entente et le rôle qu’il y joue, en échange de quoi ce participant bénéficie, par voie de décision ou du fait de l’arrêt de la procédure, d’une immunité d’amendes pour sa participation à l’entente ou de la réduction de leur montant ;
 
-14. « déclaration effectuée en vue d’obtenir la clémence » : tout exposé oral ou écrit, ou toute transcription d’un tel exposé, présenté spontanément à une autorité de concurrence par une entreprise ou une personne physique, ou en leur nom, qui décrit la connaissance qu’a cette entreprise ou cette personne physique d’une entente et qui décrit leur rôle dans cette entente, dont la présentation a été établie expressément pour être soumise à l’autorité de concurrence en vue d’obtenir une immunité d’amendes ou une réduction d’amendes dans le cadre d’un programme de clémence, toute preuve qui existe indépendamment de la procédure de mise en œuvre, qu’elle figure ou non dans le dossier d’une autorité de concurrence, en étant exclue, à savoir les informations préexistantes ;
+- « déclaration effectuée en vue d’obtenir la clémence » : tout exposé oral ou écrit, ou toute transcription d’un tel exposé, présenté spontanément à une autorité de concurrence par une entreprise ou une personne physique, ou en leur nom, qui décrit la connaissance qu’a cette entreprise ou cette personne physique d’une entente et qui décrit leur rôle dans cette entente, dont la présentation a été établie expressément pour être soumise à l’autorité de concurrence en vue d’obtenir une immunité d’amendes ou une réduction d’amendes dans le cadre d’un programme de clémence, toute preuve qui existe indépendamment de la procédure de mise en œuvre, qu’elle figure ou non dans le dossier d’une autorité de concurrence, en étant exclue, à savoir les informations préexistantes ;
 
-15. « proposition de transaction » : la présentation spontanée ou non par une entreprise, ou au nom de celle-ci , à une autorité de concurrence d’une déclaration reconnaissant la participation de cette entreprise à une violation à l’article 4 ou 5 de la présente loi ou à l’article 101 ou 102 du TFUE et sa responsabilité dans cette violation, établie spécifiquement pour permettre à l’autorité de concurrence d’appliquer une procédure simplifiée ou accélérée ;
+- « proposition de transaction » : la présentation spontanée ou non par une entreprise, ou au nom de celle-ci , à une autorité de concurrence d’une déclaration reconnaissant la participation de cette entreprise à une violation à l’article 4 ou 5 de la présente loi ou à l’article 101 ou 102 du TFUE et sa responsabilité dans cette violation, établie spécifiquement pour permettre à l’autorité de concurrence d’appliquer une procédure simplifiée ou accélérée ;
 
-16. « demandeur » : une entreprise qui demande l’immunité ou une réduction d’amendes au titre d’un programme de clémence ;
+- « demandeur » : une entreprise qui demande l’immunité ou une réduction d’amendes au titre d’un programme de clémence ;
 
-17. « autorité requérante » : une autorité nationale de concurrence qui sollicite une assistance mutuelle conformément au chapitre 16 de la présente loi ;
+- « autorité requérante » : une autorité nationale de concurrence qui sollicite une assistance mutuelle conformément au chapitre 16 de la présente loi ;
 
-18. « autorité requise » : une autorité nationale de concurrence saisie d’une demande d’assistance mutuelle conformément au chapitre 16 de la présente loi ;
+- « autorité requise » : une autorité nationale de concurrence saisie d’une demande d’assistance mutuelle conformément au chapitre 16 de la présente loi ;
 
-19. « instrument uniforme » : support fourni par une autorité requérante à une autorité requise et qui contient les éléments visés à l’article 71 ;
+- « instrument uniforme » : support fourni par une autorité requérante à une autorité requise et qui contient les éléments visés à l’article 71 ;
 
-20. « décision définitive » : une décision qui ne peut pas ou ne peut plus faire l’objet d’un recours par les voies ordinaires.
+- « décision définitive » : une décision qui ne peut pas ou ne peut plus faire l’objet d’un recours par les voies ordinaires.
 
 #### Chapitre 2 De la concurrence sur le marché
 
@@ -107,21 +107,21 @@ Les prix des biens, produits et services sont librement déterminés par le jeu 
 
 Après consultation de l’Autorité de concurrence, des mesures peuvent être prises par règlement grand-ducal dans les cas suivants en vue d’éviter des fluctuations excessives des prix et d’assurer leur stabilité à un niveau de référence :
 
-1. lorsque le jeu de la concurrence s’avère insuffisant en vue d’assurer ou de favoriser une diversité concurrentielle des prix, marges, tarifs, commissions ou autres modes de rémunération pratiqués pour des produits ou services déterminés en raison, soit de la structure, de l’organisation ou encore du fonctionnement du marché, soit d’une impossibilité pour la clientèle ou les opérateurs concernés de bénéficier des avantages du marché ;
+- lorsque le jeu de la concurrence s’avère insuffisant en vue d’assurer ou de favoriser une diversité concurrentielle des prix, marges, tarifs, commissions ou autres modes de rémunération pratiqués pour des produits ou services déterminés en raison, soit de la structure, de l’organisation ou encore du fonctionnement du marché, soit d’une impossibilité pour la clientèle ou les opérateurs concernés de bénéficier des avantages du marché ;
 
-2. lorsqu’un dysfonctionnement conjoncturel du marché consécutif à une situation de crise, à des circonstances exceptionnelles ou à une situation manifestement anormale du marché, ayant pour conséquence la formation de prix erratiques pour des produits ou services déterminés, ou leur établissement à un niveau excessif ou déficient.
+- lorsqu’un dysfonctionnement conjoncturel du marché consécutif à une situation de crise, à des circonstances exceptionnelles ou à une situation manifestement anormale du marché, ayant pour conséquence la formation de prix erratiques pour des produits ou services déterminés, ou leur établissement à un niveau excessif ou déficient.
 
 Ces règlements grand-ducaux :
 
-1. poursuivent un objectif d’intérêt général et ne vont pas au-delà de ce qui est nécessaire pour atteindre cet objectif d’intérêt général ;
+- poursuivent un objectif d’intérêt général et ne vont pas au-delà de ce qui est nécessaire pour atteindre cet objectif d’intérêt général ;
 
-2. mettent en place :
+- mettent en place :
 
-1. des barèmes, des variables, des modes de calculs, des paramètres, des tarifs et, au besoin, peuvent fixer les prix ou les marges applicables aux biens, produits ou services concernés qui sont clairement définis, transparents, non discriminatoires et vérifiables ;
+  - des barèmes, des variables, des modes de calculs, des paramètres, des tarifs et, au besoin, peuvent fixer les prix ou les marges applicables aux biens, produits ou services concernés qui sont clairement définis, transparents, non discriminatoires et vérifiables ;
 
-2. des mesures prévues par des actes juridiques de l’Union européenne ;
+  - des mesures prévues par des actes juridiques de l’Union européenne ;
 
-3. garantissent aux prestataires de services établis dans l’Union européenne un accès non-discriminatoire aux clients.
+- garantissent aux prestataires de services établis dans l’Union européenne un accès non-discriminatoire aux clients.
 
 Ces règlements grand-ducaux précisent la durée de validité des mesures prises. En aucun cas, la durée de ces règlements grand-ducaux ne peut excéder six mois.
 
@@ -144,15 +144,15 @@ Accords entre entreprises, décisions d’associations d’entreprises et pratiq
 
 Sont interdits tous accords entre entreprises, toutes décisions d’associations d’entreprises et toutes pratiques concertées qui ont pour objet ou pour effet d’empêcher, de restreindre ou de fausser le jeu de la concurrence sur un marché et notamment ceux qui consistent à :
 
-1. fixer de façon directe ou indirecte les prix d’achat ou de vente ou d’autres conditions de transaction ;
+- fixer de façon directe ou indirecte les prix d’achat ou de vente ou d’autres conditions de transaction ;
 
-2. limiter ou contrôler la production, les débouchés, le développement technique ou les investissements ;
+- limiter ou contrôler la production, les débouchés, le développement technique ou les investissements ;
 
-3. répartir les marchés ou les sources d’approvisionnement ;
+- répartir les marchés ou les sources d’approvisionnement ;
 
-4. appliquer à l’égard de partenaires commerciaux des conditions inégales à des prestations équivalentes en leur infligeant de ce fait un désavantage dans la concurrence ;
+- appliquer à l’égard de partenaires commerciaux des conditions inégales à des prestations équivalentes en leur infligeant de ce fait un désavantage dans la concurrence ;
 
-5. subordonner la conclusion de contrats à l’acceptation, par les partenaires, de prestations supplémentaires qui, par leur nature ou selon les usages commerciaux, n’ont pas de lien avec l’objet de ces contrats.
+- subordonner la conclusion de contrats à l’acceptation, par les partenaires, de prestations supplémentaires qui, par leur nature ou selon les usages commerciaux, n’ont pas de lien avec l’objet de ces contrats.
 
 (2)
 
@@ -162,15 +162,15 @@ Les accords, décisions ou pratiques concertées interdits en vertu du présent 
 
 Toutefois, les dispositions du paragraphe 1er peuvent être déclarées inapplicables :
 
-1. à tout accord ou catégorie d’accords entre entreprises ;
+- à tout accord ou catégorie d’accords entre entreprises ;
 
-2. à toute décision ou catégorie de décisions d’associations d’entreprises ; et
+- à toute décision ou catégorie de décisions d’associations d’entreprises ; et
 
-3. à toute pratique concertée ou catégorie de pratiques concertées : qui contribuent à améliorer la production ou la distribution des produits ou à promouvoir le progrès technique ou économique, tout en réservant aux utilisateurs une partie équitable du profit qui en résulte, et sans :
+- à toute pratique concertée ou catégorie de pratiques concertées : qui contribuent à améliorer la production ou la distribution des produits ou à promouvoir le progrès technique ou économique, tout en réservant aux utilisateurs une partie équitable du profit qui en résulte, et sans :
 
-1. imposer aux entreprises intéressées des restrictions qui ne sont pas indispensables pour atteindre ces objectifs ;
+  - imposer aux entreprises intéressées des restrictions qui ne sont pas indispensables pour atteindre ces objectifs ;
 
-2. donner à des entreprises la possibilité, pour une partie substantielle des produits en cause, d’éliminer la concurrence.
+  - donner à des entreprises la possibilité, pour une partie substantielle des produits en cause, d’éliminer la concurrence.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -181,13 +181,13 @@ Est interdit le fait pour une ou plusieurs entreprises d’exploiter de façon a
 
 Ces pratiques abusives peuvent notamment consister à :
 
-1. imposer de façon directe ou indirecte des prix d’achat ou de vente ou d’autres conditions de transaction non équitables ;
+- imposer de façon directe ou indirecte des prix d’achat ou de vente ou d’autres conditions de transaction non équitables ;
 
-2. limiter la production, les débouchés ou le développement technique au préjudice des consommateurs ;
+- limiter la production, les débouchés ou le développement technique au préjudice des consommateurs ;
 
-3. appliquer à l’égard de partenaires commerciaux des conditions inégales à des prestations équivalentes, en leur infligeant de ce fait un désavantage dans la concurrence ;
+- appliquer à l’égard de partenaires commerciaux des conditions inégales à des prestations équivalentes, en leur infligeant de ce fait un désavantage dans la concurrence ;
 
-4. subordonner la conclusion de contrats à l’acceptation, par les partenaires, de prestations supplémentaires qui, par leur nature ou selon les usages commerciaux, n’ont pas de lien avec l’objet de ces contrats.
+- subordonner la conclusion de contrats à l’acceptation, par les partenaires, de prestations supplémentaires qui, par leur nature ou selon les usages commerciaux, n’ont pas de lien avec l’objet de ces contrats.
 
 #### Chapitre 3 Statut et attribution de l’Autorité de concurrence du Grand-Duché de Luxembourg
 
@@ -245,13 +245,13 @@ Lorsqu’elle applique les articles 4 et 5 de la présente loi et 101 et 102 du 
 
 Les membres du Collège de l’Autorité et les agents de l’Autorité :
 
-1. s’acquittent de leurs fonctions et exercent leurs pouvoirs en vue de l’application des articles 4 et 5 de la présente loi et 101 et 102 du TFUE en toute indépendance à l’égard de toute influence extérieure, politique ou autre ;
+- s’acquittent de leurs fonctions et exercent leurs pouvoirs en vue de l’application des articles 4 et 5 de la présente loi et 101 et 102 du TFUE en toute indépendance à l’égard de toute influence extérieure, politique ou autre ;
 
-2. ne sollicitent ni n’acceptent aucune instruction du Gouvernement ou de toute autre entité publique ou privée lorsqu’ils s’acquittent de leurs fonctions et exercent leurs pouvoirs en vue de l’application des articles 4 et 5 de la présente loi et 101 et 102 du TFUE ;
+- ne sollicitent ni n’acceptent aucune instruction du Gouvernement ou de toute autre entité publique ou privée lorsqu’ils s’acquittent de leurs fonctions et exercent leurs pouvoirs en vue de l’application des articles 4 et 5 de la présente loi et 101 et 102 du TFUE ;
 
-3. s’abstiennent de toute action incompatible avec l’exécution de leurs fonctions et l’exercice de leurs pouvoirs en vue de l’application des articles 4 et 5 de la présente loi et 101 et 102 du TFUE ;
+- s’abstiennent de toute action incompatible avec l’exécution de leurs fonctions et l’exercice de leurs pouvoirs en vue de l’application des articles 4 et 5 de la présente loi et 101 et 102 du TFUE ;
 
-4. s’abstiennent pendant une période de deux ans après la cessation de leurs fonctions de traiter de procédures de mise en œuvre qui pourraient donner naissance à des conflits d’intérêts.
+- s’abstiennent pendant une période de deux ans après la cessation de leurs fonctions de traiter de procédures de mise en œuvre qui pourraient donner naissance à des conflits d’intérêts.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -260,33 +260,33 @@ Compétences de l’Autorité
 
 Les attributions de l’Autorité sont :
 
-1. la mise en œuvre des articles 4 et 5 de la présente loi, ainsi que des articles 101 et 102 du TFUE et notamment :
+- la mise en œuvre des articles 4 et 5 de la présente loi, ainsi que des articles 101 et 102 du TFUE et notamment :
 
-1. la recherche et la sanction des violations des articles 4 et 5 de la présente loi et des articles 101 et 102 du TFUE ;
+  - la recherche et la sanction des violations des articles 4 et 5 de la présente loi et des articles 101 et 102 du TFUE ;
 
-2. la réalisation d’enquêtes sectorielles ou par type d’accord ;
+  - la réalisation d’enquêtes sectorielles ou par type d’accord ;
 
-3. la rédaction d’avis, sur tout projet de texte législatif ou réglementaire ou toute autre mesure touchant à des questions de concurrence ;
+  - la rédaction d’avis, sur tout projet de texte législatif ou réglementaire ou toute autre mesure touchant à des questions de concurrence ;
 
-4. l’établissement d’un rapport annuel de ses activités reprenant les décisions importantes rendues, des informations sur sa composition, en particulier les nominations et révocations des membres du Collège de l’Autorité et sur le montant des ressources budgétaires allouées au cours de l’année concernée par rapport aux années précédentes, remis chaque année au ministre ayant l’Économie dans ses attributions, à la Chambre des Députés et à la Cour des Comptes et publié sur le site internet de l’Autorité ;
+  - l’établissement d’un rapport annuel de ses activités reprenant les décisions importantes rendues, des informations sur sa composition, en particulier les nominations et révocations des membres du Collège de l’Autorité et sur le montant des ressources budgétaires allouées au cours de l’année concernée par rapport aux années précédentes, remis chaque année au ministre ayant l’Économie dans ses attributions, à la Chambre des Députés et à la Cour des Comptes et publié sur le site internet de l’Autorité ;
 
-2. le retrait du bénéfice d’un règlement d’exemption par catégorie en application de l’article 29, paragraphe 2 du règlement (CE) n° 1/2003 précité ;
+- le retrait du bénéfice d’un règlement d’exemption par catégorie en application de l’article 29, paragraphe 2 du règlement (CE) n° 1/2003 précité ;
 
-3. l’exécution des devoirs dévolus aux autorités de concurrence nationales par le règlement (CE) n° 1/2003 précité et par le règlement (CE) n° 139/2004 du Conseil du 20 janvier 2004 relatif au contrôle des concentrations entre entreprises ;
+- l’exécution des devoirs dévolus aux autorités de concurrence nationales par le règlement (CE) n° 1/2003 précité et par le règlement (CE) n° 139/2004 du Conseil du 20 janvier 2004 relatif au contrôle des concentrations entre entreprises ;
 
-4. la représentation du Grand-Duché de Luxembourg dans le réseau européen de la concurrence ;
+- la représentation du Grand-Duché de Luxembourg dans le réseau européen de la concurrence ;
 
-5. la sensibilisation du public en matière de concurrence, en particulier aux articles 4 et 5 de la présente loi et des articles 101 et 102 du TFUE ;
+- la sensibilisation du public en matière de concurrence, en particulier aux articles 4 et 5 de la présente loi et des articles 101 et 102 du TFUE ;
 
-6. la défense des intérêts collectifs des entreprises au sens de l’article 32 de la loi modifiée du 24 mai 2011 relative aux services dans le marché intérieur ;
+- la défense des intérêts collectifs des entreprises au sens de l’article 32 de la loi modifiée du 24 mai 2011 relative aux services dans le marché intérieur ;
 
-7. la défense des intérêts collectifs des entreprises ou des utilisateurs de sites internet d’entreprise au sens de la loi du 5 mars 2021 relative à certaines modalités de mise en œuvre du règlement (UE) n° 2019/1150 du Parlement européen et du Conseil du 20 juin 2019 promouvant l’équité et la transparence pour les entreprises utilisatrices de services d’intermédiation en ligne ;
+- la défense des intérêts collectifs des entreprises ou des utilisateurs de sites internet d’entreprise au sens de la loi du 5 mars 2021 relative à certaines modalités de mise en œuvre du règlement (UE) n° 2019/1150 du Parlement européen et du Conseil du 20 juin 2019 promouvant l’équité et la transparence pour les entreprises utilisatrices de services d’intermédiation en ligne ;
 
-8. l’application de la loi du 1er juin 2021 sur les relations entre entreprises au sein de la chaîne d’approvisionnement agricole et alimentaire ;
+- l’application de la loi du 1er juin 2021 sur les relations entre entreprises au sein de la chaîne d’approvisionnement agricole et alimentaire ;
 
-9. l’exécution des devoirs issus du règlement (UE) n° 2022/1925 du Parlement et du Conseil du 14 septembre 2022 relatif aux marchés contestables et équitables dans le secteur numérique et modifiant les directives (UE) 2019/1937 et (UE) 2020/1828 (règlement sur les marchés numériques), dévolus aux autorités nationales compétentes des États membres chargées de faire appliquer les règles visées à l’article 1 er , paragraphe 6, du règlement (UE) n° 2022/1925 précité. » ;
+- l’exécution des devoirs issus du règlement (UE) n° 2022/1925 du Parlement et du Conseil du 14 septembre 2022 relatif aux marchés contestables et équitables dans le secteur numérique et modifiant les directives (UE) 2019/1937 et (UE) 2020/1828 (règlement sur les marchés numériques), dévolus aux autorités nationales compétentes des États membres chargées de faire appliquer les règles visées à l’article 1 er , paragraphe 6, du règlement (UE) n° 2022/1925 précité. » ;
 
-10. l’exécution d’inspections en application de l’article 14, paragraphes 5, 6 et 7 du règlement (UE) n° 2022/2560 du Parlement et du Conseil du 14 décembre 2022 relatif au subventions étrangères faussant le marché intérieur.
+- l’exécution d’inspections en application de l’article 14, paragraphes 5, 6 et 7 du règlement (UE) n° 2022/2560 du Parlement et du Conseil du 14 décembre 2022 relatif au subventions étrangères faussant le marché intérieur.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -331,9 +331,9 @@ Composition
 
 Le Collège de l’Autorité est un organe composé :
 
-1. de membres permanents, à savoir d’un président, d’un vice-président et de quatre conseillers effectifs ;
+- de membres permanents, à savoir d’un président, d’un vice-président et de quatre conseillers effectifs ;
 
-2. de membres suppléants, au nombre minimum de six, dont au moins l’un relève de la magistrature.
+- de membres suppléants, au nombre minimum de six, dont au moins l’un relève de la magistrature.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -416,39 +416,39 @@ Prise de décision collégiale
 
 Le Collège siégeant en formation collégiale de cinq membres, composée du président ou du vice-président et de quatre conseillers effectifs ou suppléants statue sur les points suivants :
 
-1. établissement du rapport d’activités annuel conformément à l’article 8 ;
+- établissement du rapport d’activités annuel conformément à l’article 8 ;
 
-2. émission d’avis conformément à l’article 64 ;
+- émission d’avis conformément à l’article 64 ;
 
-3. décision d’ouvrir, de clôturer et d’émettre un rapport détaillant les résultats d’une enquête sectorielle conformément à l’article 65.
+- décision d’ouvrir, de clôturer et d’émettre un rapport détaillant les résultats d’une enquête sectorielle conformément à l’article 65.
 
 (2)
 
 Le Collège siégeant en formation collégiale de trois membres, composée du président ou du vice-président et de deux conseillers effectifs ou suppléants statue sur les points suivants :
 
-1. décision de retrait du bénéfice d’un règlement d’exemption à l’article 8 ;
+- décision de retrait du bénéfice d’un règlement d’exemption à l’article 8 ;
 
-2. décision d’ouverture d’une procédure conformément à l’article 21 ;
+- décision d’ouverture d’une procédure conformément à l’article 21 ;
 
-3. décision de rejet de plainte conformément à l’article 22 ;
+- décision de rejet de plainte conformément à l’article 22 ;
 
-4. décision suite au recours contre une décision de classement du conseiller instructeur, conformément à l’article 35 ;
+- décision suite au recours contre une décision de classement du conseiller instructeur, conformément à l’article 35 ;
 
-5. renvoi de dossier au conseiller instructeur pour complément d’instruction conformément à l’article 41 ;
+- renvoi de dossier au conseiller instructeur pour complément d’instruction conformément à l’article 41 ;
 
-6. décision d’imposition de mesures provisoires conformément à l’article 44 ;
+- décision d’imposition de mesures provisoires conformément à l’article 44 ;
 
-7. décision de non-lieu conformément à l’article 45 ;
+- décision de non-lieu conformément à l’article 45 ;
 
-8. décision de constat et de cessation de violation des articles 4 et 5 de la présente loi et des articles 101 et 102 du TFUE , y compris l’imposition de toute mesure corrective, conformément à l’article 46 ;
+- décision de constat et de cessation de violation des articles 4 et 5 de la présente loi et des articles 101 et 102 du TFUE , y compris l’imposition de toute mesure corrective, conformément à l’article 46 ;
 
-9. décision de transaction conformément à l’article 47 ;
+- décision de transaction conformément à l’article 47 ;
 
-10. décision d’imposition d’astreinte et d’amende, conformément aux articles 31 et 32 et 48 et 49 ;
+- décision d’imposition d’astreinte et d’amende, conformément aux articles 31 et 32 et 48 et 49 ;
 
-11. décision acceptant des engagements ou de réouverture de la procédure suite au non-respect d’une décision acceptant des engagements à l’article 58 ;
+- décision acceptant des engagements ou de réouverture de la procédure suite au non-respect d’une décision acceptant des engagements à l’article 58 ;
 
-12. émission d’avis quant au bénéfice conditionnel du programme de clémence conformément aux articles 51 et 52.
+- émission d’avis quant au bénéfice conditionnel du programme de clémence conformément aux articles 51 et 52.
 
 (3)
 
@@ -564,15 +564,15 @@ Il est accusé réception des plaintes adressées à l’Autorité dans un déla
 
 Une plainte doit au moins comporter les éléments suivants :
 
-1. informations complètes quant à l’identité du plaignant. Si le plaignant est une entreprise, informations sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et de la portée de ses activités économiques ;
+- informations complètes quant à l’identité du plaignant. Si le plaignant est une entreprise, informations sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et de la portée de ses activités économiques ;
 
-2. indications sur la personne de contact auprès de laquelle des informations supplémentaires pourront notamment être demandées ;
+- indications sur la personne de contact auprès de laquelle des informations supplémentaires pourront notamment être demandées ;
 
-3. informations suffisantes sur l’identité de l’entreprise ou association d’entreprises visée par la plainte et, le cas échéant, sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et la portée de ses activités économiques ainsi que de la relation entretenue entre cette entité visée et le plaignant ;
+- informations suffisantes sur l’identité de l’entreprise ou association d’entreprises visée par la plainte et, le cas échéant, sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et la portée de ses activités économiques ainsi que de la relation entretenue entre cette entité visée et le plaignant ;
 
-4. description détaillée des faits dénoncés ;
+- description détaillée des faits dénoncés ;
 
-5. indications sur le fait qu’une démarche auprès d’une autre autorité de concurrence ou d’une juridiction nationale pour les mêmes motifs ou des motifs apparentés a été initiée.
+- indications sur le fait qu’une démarche auprès d’une autre autorité de concurrence ou d’une juridiction nationale pour les mêmes motifs ou des motifs apparentés a été initiée.
 
 La plainte doit être accompagnée des documents et éléments de preuve liés aux faits dénoncés dans la plainte et dont le plaignant dispose.
 
@@ -584,15 +584,15 @@ Lorsque le Collège est informé qu’une autre autorité de concurrence traite 
 
 Le Collège peut rejeter, par décision motivée, une plainte dans l’un des cas suivants :
 
-1. s’il estime que les conditions requises au paragraphe 2 ne sont pas suffisamment réunies ;
+- s’il estime que les conditions requises au paragraphe 2 ne sont pas suffisamment réunies ;
 
-2. si les faits dénoncés n’entrent pas dans le champ de ses compétences ;
+- si les faits dénoncés n’entrent pas dans le champ de ses compétences ;
 
-3. en cas de prescription des faits dénoncés ;
+- en cas de prescription des faits dénoncés ;
 
-4. en l’absence d’éléments probants suffisants ;
+- en l’absence d’éléments probants suffisants ;
 
-5. s’il ne la considère pas comme une priorité pour l’Autorité.
+- s’il ne la considère pas comme une priorité pour l’Autorité.
 
 <a id="art-23"></a>
 ## Art. 23.
@@ -673,17 +673,17 @@ L’ordonnance du juge d’instruction sera réputée caduque si elle n’a pas 
 
 Lors d’une inspection, sur autorisation délivrée au conseiller instructeur par ordonnance du juge d’instruction près le Tribunal d’arrondissement de et à Luxembourg, le conseiller instructeur peut exercer, assisté de conseillers effectifs ou enquêteurs, les pouvoirs suivants :
 
-1. accéder à tous les locaux, terrains et moyens de transport des entreprises et associations d’entreprises ;
+- accéder à tous les locaux, terrains et moyens de transport des entreprises et associations d’entreprises ;
 
-2. contrôler les livres ainsi que tout autre document liés à l’activité de l’entreprise, quel qu’en soit le support, et accéder à toutes les informations auxquelles a accès l’entité faisant l’objet de l’inspection ;
+- contrôler les livres ainsi que tout autre document liés à l’activité de l’entreprise, quel qu’en soit le support, et accéder à toutes les informations auxquelles a accès l’entité faisant l’objet de l’inspection ;
 
-3. prendre ou obtenir, sous quelque forme que ce soit, copie ou extrait de ces livres ou documents et, s’il le juge opportun, poursuivre ces recherches d’informations et la sélection des copies ou extraits dans les locaux de l’Autorité ou dans tous autres locaux qu’il désigne ;
+- prendre ou obtenir, sous quelque forme que ce soit, copie ou extrait de ces livres ou documents et, s’il le juge opportun, poursuivre ces recherches d’informations et la sélection des copies ou extraits dans les locaux de l’Autorité ou dans tous autres locaux qu’il désigne ;
 
-4. apposer des scellés sur tous les locaux commerciaux et livres ou documents pendant la durée de l’inspection et dans la mesure où cela est nécessaire aux fins de celle-ci ;
+- apposer des scellés sur tous les locaux commerciaux et livres ou documents pendant la durée de l’inspection et dans la mesure où cela est nécessaire aux fins de celle-ci ;
 
-5. demander à tout représentant ou membre du personnel de l’entreprise ou association d’entreprises des explications sur des faits ou documents en rapport avec l’objet et le but de l’inspection et enregistrer ses réponses ;
+- demander à tout représentant ou membre du personnel de l’entreprise ou association d’entreprises des explications sur des faits ou documents en rapport avec l’objet et le but de l’inspection et enregistrer ses réponses ;
 
-6. obtenir l’assistance nécessaire de la force publique ou d’une autorité disposant d’un pouvoir de contrainte équivalent, pour leur permettre d’exécuter leur mission. Cette assistance peut également être demandée à titre préventif.
+- obtenir l’assistance nécessaire de la force publique ou d’une autorité disposant d’un pouvoir de contrainte équivalent, pour leur permettre d’exécuter leur mission. Cette assistance peut également être demandée à titre préventif.
 
 Le conseiller instructeur est assisté, le cas échéant, d’officiers de police judiciaire du service de la police judiciaire compétents en matière de nouvelles technologies afin de procéder à la saisie de données stockées, traitées ou transmises dans un système de traitement ou de transmission automatisé de données.
 
@@ -817,11 +817,11 @@ Astreintes
 
 Sur demande du conseiller instructeur et après avoir informé les intéressés sur leur droit à être entendu, le Collège peut, par voie de décision, infliger aux entreprises et associations d’entreprises des astreintes jusqu’à concurrence de 5 pour cent du chiffre d’affaires journalier mondial moyen réalisé au cours du dernier exercice social clos, par jour de retard, à compter de la date qu’il fixe dans sa décision, pour les contraindre à :
 
-1. fournir de manière exacte, complète, non trompeuse et endéans le délai imposé un renseignement demandé par le conseiller instructeur en application de l’article 27 ;
+- fournir de manière exacte, complète, non trompeuse et endéans le délai imposé un renseignement demandé par le conseiller instructeur en application de l’article 27 ;
 
-2. comparaitre devant le conseiller instructeur conformément à la convocation notifiée en application de l’article 30 ;
+- comparaitre devant le conseiller instructeur conformément à la convocation notifiée en application de l’article 30 ;
 
-3. se soumettre à une inspection telle que prévue aux articles 25 et 26.
+- se soumettre à une inspection telle que prévue aux articles 25 et 26.
 
 (2)
 
@@ -834,19 +834,19 @@ Amendes
 
 Sur demande du conseiller instructeur et après avoir informé les intéressés sur leur droit à être entendus, le Collège peut, par voie de décision, infliger aux entreprises et associations d’entreprises des amendes se chiffrant jusqu’à 1 pour cent du chiffre d’affaires mondial total réalisé au cours du dernier exercice social clos lorsque, intentionnellement ou par négligence :
 
-1. en réponse à une demande de renseignements, elles fournissent un renseignement inexact, incomplet ou trompeur ou ne fournissent pas un renseignement dans le délai prescrit ;
+- en réponse à une demande de renseignements, elles fournissent un renseignement inexact, incomplet ou trompeur ou ne fournissent pas un renseignement dans le délai prescrit ;
 
-2. elles ne se soumettent pas aux opérations d’inspection autorisées par ordonnance du juge d’instruction en application des articles 25 et 26 ;
+- elles ne se soumettent pas aux opérations d’inspection autorisées par ordonnance du juge d’instruction en application des articles 25 et 26 ;
 
-3. les scellés posés durant une inspection ont été brisés ;
+- les scellés posés durant une inspection ont été brisés ;
 
-4. elles entravent le bon déroulement des inspections, notamment :
+- elles entravent le bon déroulement des inspections, notamment :
 
-1. en présentant de façon incomplète les livres, documents professionnels ou éléments d’informations requis ;
+  - en présentant de façon incomplète les livres, documents professionnels ou éléments d’informations requis ;
 
-2. en réponse à une question posée conformément à l’article 25, paragraphe 3, point 5°, en refusant de fournir un renseignement, en fournissant un renseignement inexact, incomplet ou trompeur sur des faits en rapport avec l’objet et le but d’une inspection ou en omettant de rectifier dans un délai fixé par le conseiller instructeur une réponse inexacte, incomplète ou trompeuse donnée par un membre du personnel lors d’une inspection.
+  - en réponse à une question posée conformément à l’article 25, paragraphe 3, point 5°, en refusant de fournir un renseignement, en fournissant un renseignement inexact, incomplet ou trompeur sur des faits en rapport avec l’objet et le but d’une inspection ou en omettant de rectifier dans un délai fixé par le conseiller instructeur une réponse inexacte, incomplète ou trompeuse donnée par un membre du personnel lors d’une inspection.
 
-5. lorsque celles-ci ne défèrent pas à une convocation du conseiller instructeur en application de l’article 30.
+- lorsque celles-ci ne défèrent pas à une convocation du conseiller instructeur en application de l’article 30.
 
 ##### Section 3 Traitement confidentiel
 
@@ -954,21 +954,21 @@ Les parties visées par la communication des griefs ont accès au dossier à la 
 
 Ne font pas partie du dossier :
 
-1. les documents sans lien direct avec l’enquête qui sont retournés à l’expéditeur sans délai et retirés du dossier. Seule une copie de la lettre adressée par le conseiller instructeur à l’expéditeur du document, contenant une description de celui-ci et la raison de sa réexpédition est versée au dossier ;
+- les documents sans lien direct avec l’enquête qui sont retournés à l’expéditeur sans délai et retirés du dossier. Seule une copie de la lettre adressée par le conseiller instructeur à l’expéditeur du document, contenant une description de celui-ci et la raison de sa réexpédition est versée au dossier ;
 
-2. les documents ou informations couverts par le secret des communications avocat-client.
+- les documents ou informations couverts par le secret des communications avocat-client.
 
 (3)
 
 Par dérogation au paragraphe 1er, les parties visées par la communication des griefs n’ont pas accès :
 
-1. aux informations et documents internes de l’Autorité ;
+- aux informations et documents internes de l’Autorité ;
 
-2. aux informations et documents rédigés par des autorités de concurrence ;
+- aux informations et documents rédigés par des autorités de concurrence ;
 
-3. aux correspondances et documents échangés entre le conseiller instructeur et des autorités de concurrence ;
+- aux correspondances et documents échangés entre le conseiller instructeur et des autorités de concurrence ;
 
-4. aux documents reconnus comme confidentiels conformément à l’article 34.
+- aux documents reconnus comme confidentiels conformément à l’article 34.
 
 (4)
 
@@ -1217,15 +1217,15 @@ L’Autorité peut accorder à une entreprise une immunité d’amendes au sujet
 
 Afin de pouvoir bénéficier de l’immunité d’amendes, le demandeur doit :
 
-1. remplir les conditions fixées à l’article 53 ;
+- remplir les conditions fixées à l’article 53 ;
 
-2. révéler sa participation à une entente ;
+- révéler sa participation à une entente ;
 
-3. être la première à fournir des preuves qui :
+- être la première à fournir des preuves qui :
 
-1. au moment où l’Autorité en reçoit la demande lui permettent de procéder à une inspection ciblée en rapport avec l’entente, à condition que l’Autorité n’ait pas déjà en sa possession de preuves suffisantes lui permettant de procéder à une telle inspection ou qu’elle n’ait pas déjà procédé à une telle inspection ; ou
+  - au moment où l’Autorité en reçoit la demande lui permettent de procéder à une inspection ciblée en rapport avec l’entente, à condition que l’Autorité n’ait pas déjà en sa possession de preuves suffisantes lui permettant de procéder à une telle inspection ou qu’elle n’ait pas déjà procédé à une telle inspection ; ou
 
-2. de l’avis de l’Autorité, sont suffisantes pour lui permettre de constater une violation relevant du programme de clémence, pour autant que l’Autorité n’ait pas déjà en sa possession des preuves suffisantes lui permettant de constater une telle violation et qu’aucune autre entreprise n’ait déjà rempli les conditions pour bénéficier de l’immunité d’amendes en vertu de la lettre a) pour cette entente.
+  - de l’avis de l’Autorité, sont suffisantes pour lui permettre de constater une violation relevant du programme de clémence, pour autant que l’Autorité n’ait pas déjà en sa possession des preuves suffisantes lui permettant de constater une telle violation et qu’aucune autre entreprise n’ait déjà rempli les conditions pour bénéficier de l’immunité d’amendes en vertu de la lettre a) pour cette entente.
 
 (3)
 
@@ -1244,11 +1244,11 @@ Réduction d’amendes
 
 L’Autorité peut accorder une réduction d’amendes au participant à une entente qui ne remplit pas les conditions pour bénéficier d’une immunité d’amendes à condition que :
 
-1. le demandeur remplisse les conditions prévues à l’article 53 ;
+- le demandeur remplisse les conditions prévues à l’article 53 ;
 
-2. qu’il révèle sa participation à l’entente ;
+- qu’il révèle sa participation à l’entente ;
 
-3. qu’il fournisse, avant notification de la communication des griefs, des preuves de l’entente présumée représentant une valeur ajoutée significative aux fins d’établir l’existence d’une violation relevant du programme de clémence, par rapport aux éléments de preuve déjà en la possession de l’Autorité au moment de la demande.
+- qu’il fournisse, avant notification de la communication des griefs, des preuves de l’entente présumée représentant une valeur ajoutée significative aux fins d’établir l’existence d’une violation relevant du programme de clémence, par rapport aux éléments de preuve déjà en la possession de l’Autorité au moment de la demande.
 
 (2)
 
@@ -1267,33 +1267,33 @@ Conditions générales applicables au programme de clémence
 
 Afin de pouvoir bénéficier de l’immunité ou de la réduction d’amendes, le demandeur qui révèle sa participation à une entente remplit les conditions cumulatives suivantes :
 
-1. il a mis fin à sa participation à l’entente présumée au plus tard immédiatement après avoir déposé sa demande de clémence, sauf pour ce qui serait, de l’avis de l’Autorité, raisonnablement nécessaire à la préservation de l’intégrité de son enquête ;
+- il a mis fin à sa participation à l’entente présumée au plus tard immédiatement après avoir déposé sa demande de clémence, sauf pour ce qui serait, de l’avis de l’Autorité, raisonnablement nécessaire à la préservation de l’intégrité de son enquête ;
 
-2. il coopère véritablement, pleinement, constamment et rapidement avec l’Autorité dès le dépôt de sa demande jusqu’à ce que l’Autorité ait clos sa procédure de mise en œuvre contre toutes les parties faisant l’objet de l’enquête en adoptant une décision ou ait clos sa procédure d’une autre manière ; cette coopération comprenant :
+- il coopère véritablement, pleinement, constamment et rapidement avec l’Autorité dès le dépôt de sa demande jusqu’à ce que l’Autorité ait clos sa procédure de mise en œuvre contre toutes les parties faisant l’objet de l’enquête en adoptant une décision ou ait clos sa procédure d’une autre manière ; cette coopération comprenant :
 
-1. la fourniture sans délai par le demandeur de tous les renseignements et éléments de preuve pertinents au sujet de l’entente présumée qui viendraient en la possession du demandeur ou auxquels il pourrait avoir accès, en particulier :
+  - la fourniture sans délai par le demandeur de tous les renseignements et éléments de preuve pertinents au sujet de l’entente présumée qui viendraient en la possession du demandeur ou auxquels il pourrait avoir accès, en particulier :
 
-1. le nom et l’adresse du demandeur ;
+    - le nom et l’adresse du demandeur ;
 
-2. les noms de toutes les autres entreprises qui participent ou ont participé à l’entente présumée ;
+    - les noms de toutes les autres entreprises qui participent ou ont participé à l’entente présumée ;
 
-3. une description détaillée de l’entente présumée, y compris les produits et les territoires concernés, la durée et la nature de l’entente présumée ;
+    - une description détaillée de l’entente présumée, y compris les produits et les territoires concernés, la durée et la nature de l’entente présumée ;
 
-4. des renseignements sur tout autre demande de clémence présentée par le passé ou susceptible d’être présentée à l’avenir à toutes autres autorités de concurrence ou aux autorités de concurrence de pays tiers au sujet de l’entente présumée ;
+    - des renseignements sur tout autre demande de clémence présentée par le passé ou susceptible d’être présentée à l’avenir à toutes autres autorités de concurrence ou aux autorités de concurrence de pays tiers au sujet de l’entente présumée ;
 
-2. de se tenir à la disposition de l’Autorité pour répondre à toute question pouvant contribuer à établir les faits ;
+  - de se tenir à la disposition de l’Autorité pour répondre à toute question pouvant contribuer à établir les faits ;
 
-3. de mettre à disposition de l’Autorité les directeurs, les gérants et les autres membres du personnel en vue d’entretiens et de faire des efforts raisonnables pour mettre les anciens directeurs, gérants et autres membres du personnel à disposition de l’Autorité en vue d’entretiens ;
+  - de mettre à disposition de l’Autorité les directeurs, les gérants et les autres membres du personnel en vue d’entretiens et de faire des efforts raisonnables pour mettre les anciens directeurs, gérants et autres membres du personnel à disposition de l’Autorité en vue d’entretiens ;
 
-4. de s’abstenir de détruire, de falsifier ou de dissimuler des informations ou des preuves pertinentes ; et
+  - de s’abstenir de détruire, de falsifier ou de dissimuler des informations ou des preuves pertinentes ; et
 
-5. de s’abstenir de divulguer l’existence ou la teneur de sa demande de clémence avant que l’Autorité n’ait émis des griefs dans le cadre de la procédure de mise en œuvre dont elle est saisie, sauf s’il en a été convenu autrement ;
+  - de s’abstenir de divulguer l’existence ou la teneur de sa demande de clémence avant que l’Autorité n’ait émis des griefs dans le cadre de la procédure de mise en œuvre dont elle est saisie, sauf s’il en a été convenu autrement ;
 
-3. au cours de la période où il envisage de déposer une demande de clémence auprès de l’Autorité, il ne peut avoir :
+- au cours de la période où il envisage de déposer une demande de clémence auprès de l’Autorité, il ne peut avoir :
 
-1. détruit, falsifié ou dissimulé des preuves de l’entente présumée ;
+  - détruit, falsifié ou dissimulé des preuves de l’entente présumée ;
 
-2. divulgué son intention de présenter une demande ni la teneur de celle-ci, sauf à d’autres autorités de concurrence ou à des autorités de concurrence de pays tiers.
+  - divulgué son intention de présenter une demande ni la teneur de celle-ci, sauf à d’autres autorités de concurrence ou à des autorités de concurrence de pays tiers.
 
 <a id="art-54"></a>
 ## Art. 54.
@@ -1325,17 +1325,17 @@ L’entreprise qui souhaite solliciter l’immunité ou la réduction d’amende
 
 Si elle l’estime justifié, l’Autorité accorde le marqueur demandé. L’entreprise qui soumet une telle demande fournit à l’Autorité des renseignements, lorsqu’ils sont disponibles, notamment :
 
-1. le nom et l’adresse du demandeur ;
+- le nom et l’adresse du demandeur ;
 
-2. les circonstances ayant conduit à l’introduction de la demande ;
+- les circonstances ayant conduit à l’introduction de la demande ;
 
-3. les noms de toutes les autres entreprises qui participent ou ont participé à l’entente présumée ;
+- les noms de toutes les autres entreprises qui participent ou ont participé à l’entente présumée ;
 
-4. les produits et les territoires concernés ;
+- les produits et les territoires concernés ;
 
-5. la durée et la nature de l’entente présumée ;
+- la durée et la nature de l’entente présumée ;
 
-6. des renseignements sur toute autre demande de clémence présentée par le passé ou susceptible d’être présentée à l’avenir à toute autre autorité de concurrence ou autorité de concurrence de pays tiers au sujet de l’entente présumée.
+- des renseignements sur toute autre demande de clémence présentée par le passé ou susceptible d’être présentée à l’avenir à toute autre autorité de concurrence ou autorité de concurrence de pays tiers au sujet de l’entente présumée.
 
 (3)
 
@@ -1358,17 +1358,17 @@ L’Autorité accepte les demandes sommaires adressées par des demandeurs ayant
 
 Les demandes sommaires comportent une brève description de chacun des éléments suivants :
 
-1. le nom et l’adresse du demandeur ;
+- le nom et l’adresse du demandeur ;
 
-2. les circonstances ayant conduit à l’introduction de la demande ;
+- les circonstances ayant conduit à l’introduction de la demande ;
 
-3. les noms de toutes les autres entreprises qui participent ou ont participé à l’entente présumée ;
+- les noms de toutes les autres entreprises qui participent ou ont participé à l’entente présumée ;
 
-4. les produits et les territoires concernés ;
+- les produits et les territoires concernés ;
 
-5. la durée et la nature de l’entente présumée ;
+- la durée et la nature de l’entente présumée ;
 
-6. des renseignements sur toute autre demande de clémence présentée par le passé ou susceptible d’être présentée à l’avenir à toute autre autorité de concurrence ou autorité de concurrence de pays tiers au sujet de l’entente présumée.
+- des renseignements sur toute autre demande de clémence présentée par le passé ou susceptible d’être présentée à l’avenir à toute autre autorité de concurrence ou autorité de concurrence de pays tiers au sujet de l’entente présumée.
 
 (3)
 
@@ -1422,11 +1422,11 @@ Avant d’adopter cette décision, l’Autorité sollicite l’avis du conseille
 
 L’Autorité peut rouvrir la procédure d’office ou sur demande d’une partie intéressée :
 
-1. si l’un des faits à la base desquels repose la décision visée au paragraphe 1 er subit un changement substantiel ;
+- si l’un des faits à la base desquels repose la décision visée au paragraphe 1 er subit un changement substantiel ;
 
-2. lorsque des entreprises ou associations d’entreprises contreviennent à leurs engagements ;
+- lorsque des entreprises ou associations d’entreprises contreviennent à leurs engagements ;
 
-3. lorsqu’une décision visée au paragraphe 1 er repose sur des informations incomplètes, inexactes ou trompeuses fournies par les parties.
+- lorsqu’une décision visée au paragraphe 1 er repose sur des informations incomplètes, inexactes ou trompeuses fournies par les parties.
 
 #### Chapitre 12 L’exécution des décisions
 
@@ -1450,9 +1450,9 @@ Sanction du non-respect d’une décision de l’Autorité
 
 Nonobstant une éventuelle astreinte fixée par décision de l’Autorité conformément à l’article 48, après avoir informé les intéressés sur leur droit à être entendus, l’Autorité peut, par voie de décision, infliger aux entreprises et associations d’entreprises des amendes se chiffrant jusqu’à 5 pour cent du chiffre d’affaires total réalisé au cours du dernier exercice social clos :
 
-1. lorsque celles-ci ont contrevenu à leurs engagements pris conformément à l’article 58 ; ou
+- lorsque celles-ci ont contrevenu à leurs engagements pris conformément à l’article 58 ; ou
 
-2. en cas de non-respect d’une décision imposant des mesures correctives de nature structurelle ou comportementale conformément à l’article 46.
+- en cas de non-respect d’une décision imposant des mesures correctives de nature structurelle ou comportementale conformément à l’article 46.
 
 #### Chapitre 13 De la prescription
 
@@ -1465,9 +1465,9 @@ Prescription en matière d’imposition des sanctions
 
 Le pouvoir conféré à l’Autorité en vertu des articles 31, 32, 48 et 49 est soumis aux délais de prescription suivants :
 
-1. trois ans en ce qui concerne les violations relatives à la non-coopération pendant la phase d’instruction ;
+- trois ans en ce qui concerne les violations relatives à la non-coopération pendant la phase d’instruction ;
 
-2. cinq ans en ce qui concerne les autres violations.
+- cinq ans en ce qui concerne les autres violations.
 
 (2)
 
@@ -1479,15 +1479,15 @@ L’interruption du délai de prescription prend effet à compter des actes de l
 
 Constituent des actes interrompant la prescription :
 
-1. la notification d’une demande de renseignements ;
+- la notification d’une demande de renseignements ;
 
-2. la notification d’une convocation à un entretien ;
+- la notification d’une convocation à un entretien ;
 
-3. l’institution d’une expertise ;
+- l’institution d’une expertise ;
 
-4. la décision du conseiller instructeur ordonnant une inspection ;
+- la décision du conseiller instructeur ordonnant une inspection ;
 
-5. la notification d’une communication des griefs.
+- la notification d’une communication des griefs.
 
 (4)
 
@@ -1518,9 +1518,9 @@ Le délai de prescription court à compter du jour où la décision est devenue 
 
 La prescription en matière d’exécution des sanctions est interrompue :
 
-1. par la notification d’une décision modifiant le montant initial de l’amende ou de l’astreinte ou rejetant une demande tendant à obtenir une telle modification ;
+- par la notification d’une décision modifiant le montant initial de l’amende ou de l’astreinte ou rejetant une demande tendant à obtenir une telle modification ;
 
-2. par tout acte de l’Administration de l’enregistrement, des domaines et de la TVA visant au recouvrement forcé de l’amende ou de l’astreinte.
+- par tout acte de l’Administration de l’enregistrement, des domaines et de la TVA visant au recouvrement forcé de l’amende ou de l’astreinte.
 
 (4)
 
@@ -1530,9 +1530,9 @@ Le délai de prescription court à nouveau à partir de chaque interruption.
 
 La prescription en matière d’exécution des sanctions est suspendue :
 
-1. aussi longtemps qu’un délai de paiement est accordé ;
+- aussi longtemps qu’un délai de paiement est accordé ;
 
-2. aussi longtemps que l’exécution forcée du paiement est suspendue en vertu d’une décision juridictionnelle.
+- aussi longtemps que l’exécution forcée du paiement est suspendue en vertu d’une décision juridictionnelle.
 
 #### Chapitre 14 Les voies de recours
 
@@ -1566,11 +1566,11 @@ L’Autorité émet un avis, de son initiative ou à la demande d’un ministre,
 
 L’Autorité est obligatoirement demandée en son avis pour tout projet de loi ou de règlement :
 
-1. portant modification ou application de la loi ;
+- portant modification ou application de la loi ;
 
-2. portant transposition ou exécution d’un instrument supranational touchant à des questions de concurrence ;
+- portant transposition ou exécution d’un instrument supranational touchant à des questions de concurrence ;
 
-3. instituant un régime nouveau ayant directement pour effet de soumettre l’exercice d’une profession ou l’accès à un marché à des restrictions quantitatives, d’établir des droits exclusifs dans certaines zones ou d’imposer des pratiques uniformes en matière de prix ou de conditions de vente.
+- instituant un régime nouveau ayant directement pour effet de soumettre l’exercice d’une profession ou l’accès à un marché à des restrictions quantitatives, d’établir des droits exclusifs dans certaines zones ou d’imposer des pratiques uniformes en matière de prix ou de conditions de vente.
 
 (3)
 
@@ -1619,11 +1619,11 @@ Demandes de notification des griefs préliminaires et d’autres documents adres
 
 Sans préjudice des autres formes de notification par une autorité requérante, conformément aux règles en vigueur dans son État membre, l’Autorité notifie au destinataire, à la demande de l’autorité requérante et en son nom :
 
-1. tous griefs préliminaires relatifs à l’infraction présumée aux articles 101 ou 102 du TFUE et toutes décisions appliquant ces articles ;
+- tous griefs préliminaires relatifs à l’infraction présumée aux articles 101 ou 102 du TFUE et toutes décisions appliquant ces articles ;
 
-2. tout autre acte procédural adopté dans le cadre de procédures de mise en œuvre, qui devrait être notifié conformément au droit national ; et
+- tout autre acte procédural adopté dans le cadre de procédures de mise en œuvre, qui devrait être notifié conformément au droit national ; et
 
-3. tout autre document pertinent lié à l’application des articles 101 ou 102 du TFUE , y compris les documents relatifs à l’exécution des décisions infligeant des amendes ou des astreintes.
+- tout autre document pertinent lié à l’application des articles 101 ou 102 du TFUE , y compris les documents relatifs à l’exécution des décisions infligeant des amendes ou des astreintes.
 
 <a id="art-68"></a>
 ## Art. 68.
@@ -1661,27 +1661,27 @@ L’exécution sur le territoire luxembourgeois des demandes visées aux article
 
 Les demandes visées aux articles 67 et 68 sont exécutées sans retard injustifié au moyen d’un instrument uniforme transmis par l’autorité requérante à l’Autorité, accompagné d’une copie de l’acte à notifier ou à exécuter. Ledit instrument uniforme doit contenir les éléments suivants :
 
-1. le nom, l’adresse connue du destinataire et toute autre information pertinente aux fins de l’identification de celui-ci ;
+- le nom, l’adresse connue du destinataire et toute autre information pertinente aux fins de l’identification de celui-ci ;
 
-2. un résumé des faits et circonstances pertinents ;
+- un résumé des faits et circonstances pertinents ;
 
-3. un résumé de la copie de l’acte joint à notifier ou à exécuter ;
+- un résumé de la copie de l’acte joint à notifier ou à exécuter ;
 
-4. le nom, l’adresse et les coordonnées de l’autorité requise ;
+- le nom, l’adresse et les coordonnées de l’autorité requise ;
 
-5. la période au cours de laquelle la notification ou l’exécution devrait avoir lieu, notamment les délais réglementaires ou les délais de prescription.
+- la période au cours de laquelle la notification ou l’exécution devrait avoir lieu, notamment les délais réglementaires ou les délais de prescription.
 
 (3)
 
 Outre les exigences visées au paragraphe 2, pour les demandes d’exécution de décisions imposant des amendes ou des astreintes, la demande de l’autorité requérante doit contenir :
 
-1. les informations relatives à la décision permettant l’exécution dans l’État membre de l’autorité requérante ;
+- les informations relatives à la décision permettant l’exécution dans l’État membre de l’autorité requérante ;
 
-2. la date à laquelle la décision est devenue définitive ;
+- la date à laquelle la décision est devenue définitive ;
 
-3. le montant de l’amende ou de l’astreinte ;
+- le montant de l’amende ou de l’astreinte ;
 
-4. les informations montrant que l’autorité requérante a fait des efforts raisonnables pour exécuter la décision sur son propre territoire.
+- les informations montrant que l’autorité requérante a fait des efforts raisonnables pour exécuter la décision sur son propre territoire.
 
 (4)
 
@@ -1691,9 +1691,9 @@ L’Autorité accepte l’instrument transmis dans une des langues officielles d
 
 L’Autorité n’est pas tenue d’accepter une demande d’exécution visée aux articles 67 ou 68 lorsque :
 
-1. la demande n’est pas conforme aux exigences du présent article ;
+- la demande n’est pas conforme aux exigences du présent article ;
 
-2. l’Autorité est en mesure de démontrer raisonnablement que l’exécution de la demande serait manifestement contraire à l’ordre public national.
+- l’Autorité est en mesure de démontrer raisonnablement que l’exécution de la demande serait manifestement contraire à l’ordre public national.
 
 Lorsque l’Autorité a l’intention de rejeter une demande d’assistance visée aux articles 67 et 68 ou si elle souhaite obtenir des informations complémentaires, elle contacte l’autorité requérante.
 
@@ -1747,27 +1747,27 @@ Coopération de l’Autorité en qualité d’autorité requérante
 
 L’Autorité transmet à l’autorité requise conjointement aux demandes visées aux articles 67 et 68 un instrument uniforme accompagné d’une copie de l’acte à notifier ou à exécuter. Ledit instrument uniforme doit contenir les éléments suivants :
 
-1. le nom, l’adresse connue du destinataire et toute autre information pertinente aux fins de l’identification de celui-ci ;
+- le nom, l’adresse connue du destinataire et toute autre information pertinente aux fins de l’identification de celui-ci ;
 
-2. un résumé des faits et circonstances pertinents ;
+- un résumé des faits et circonstances pertinents ;
 
-3. un résumé de la copie de l’acte joint à notifier ou à exécuter ;
+- un résumé de la copie de l’acte joint à notifier ou à exécuter ;
 
-4. le nom, l’adresse et les coordonnées de l’autorité requise ;
+- le nom, l’adresse et les coordonnées de l’autorité requise ;
 
-5. la période au cours de laquelle la notification ou l’exécution devrait avoir lieu, notamment les délais réglementaires ou les délais de prescription.
+- la période au cours de laquelle la notification ou l’exécution devrait avoir lieu, notamment les délais réglementaires ou les délais de prescription.
 
 (2)
 
 Outre les exigences visées au paragraphe 2, pour les demandes d’exécution de décisions imposant des amendes ou des astreintes, la demande de l’Autorité doit contenir :
 
-1. les informations relatives à la décision permettant l’exécution dans l’État membre de l’autorité requérante ;
+- les informations relatives à la décision permettant l’exécution dans l’État membre de l’autorité requérante ;
 
-2. la date à laquelle la décision est devenue définitive ;
+- la date à laquelle la décision est devenue définitive ;
 
-3. le montant de l’amende ou de l’astreinte ;
+- le montant de l’amende ou de l’astreinte ;
 
-4. les informations montrant que l’Autorité a fait des efforts raisonnables pour exécuter la décision sur son propre territoire.
+- les informations montrant que l’Autorité a fait des efforts raisonnables pour exécuter la décision sur son propre territoire.
 
 L’Autorité transmet l’instrument dans une des langues officielles de l’État membre de l’autorité requise ou dans une autre langue préalablement convenue au cas par cas entre l’Autorité et l’autorité requérante. L’Autorité adresse une copie des demandes d’exécution de décisions imposant des amendes ou des astreintes à l’Administration de l’enregistrement, des domaines et de la TVA.
 
@@ -1792,9 +1792,9 @@ Les litiges concernant les mesures d’exécution prises au Grand-Duché de Luxe
 
 Les litiges relèvent de la compétence des juridictions de l’ordre administratif lorsque l’Autorité est l’autorité requérante et sont régis par le droit luxembourgeois en ce qui concerne :
 
-1. la légalité d’un acte à notifier conformément à l’article 67 ou d’une décision à exécuter conformément à l’article 68 ;
+- la légalité d’un acte à notifier conformément à l’article 67 ou d’une décision à exécuter conformément à l’article 68 ;
 
-2. la légalité de l’instrument uniforme permettant l’exécution dans l’État membre de l’autorité requise.
+- la légalité de l’instrument uniforme permettant l’exécution dans l’État membre de l’autorité requise.
 
 <a id="art-73"></a>
 ## Art. 73.
@@ -1807,13 +1807,13 @@ Lorsque, après avoir informé la Commission européenne en vertu de l’article
 
 (2)
 
-L’Autorité est l’autorité compétente à l’effet de recueillir les communications et d’assumer les devoirs visés au règlement (CE) n° 1/2003 précité, au règlement (CE) n° 139/2004 du Conseil du 20 janvier 2004 relatif au contrôle des concentrations entre entreprises au règlement (UE) n° 2022/1925 précité et au règlement (UE) n° 2022/2560 précité . Les enquêteurs sont habilités à procéder aux vérifications prescrites par la Commission européenne sur la base du règlement (CE) n° 1/2003 précité, du règlement (CE) n° 139/2004 précité, du règlement (UE) n° 2022/1925 précité et du règlement (UE) n° 2022/2560 précité .
+L’Autorité est l’autorité compétente à l’effet de recueillir les communications et d’assumer les devoirs visés au règlement (CE) n° 1/2003 précité , au règlement (CE) n° 139/2004 du Conseil du 20 janvier 2004 relatif au contrôle des concentrations entre entreprises au règlement (UE) n° 2022/1925 précité et au règlement (UE) n° 2022/2560 précité . Les enquêteurs sont habilités à procéder aux vérifications prescrites par la Commission européenne sur la base du règlement (CE) n° 1/2003 précité , du règlement (CE) n° 139/2004 précité , du règlement (UE) n° 2022/1925 précité et du règlement (UE) n° 2022/2560 précité .
 
-Aux effets ci-dessus, l’Autorité adopte une décision qui indique, sous peine de nullité, l’objet et le but des enquêtes et vérifications. Les enquêteurs sont investis des pouvoirs prévus à l’article 20, paragraphe 2, du règlement (CE) n° 1/2003 précité, à l’article 13, paragraphe 2, du règlement (CE) n° 139/2004 précité à l’article 23, paragraphe 2, du règlement (UE) n° 2022/1925 précité ou à l’article 14, paragraphe 2, du règlement (UE) n° 2022/2560 précité .
+Aux effets ci-dessus, l’Autorité adopte une décision qui indique, sous peine de nullité, l’objet et le but des enquêtes et vérifications. Les enquêteurs sont investis des pouvoirs prévus à l’article 20, paragraphe 2, du règlement (CE) n° 1/2003 précité , à l’article 13, paragraphe 2, du règlement (CE) n° 139/2004 précité à l’article 23, paragraphe 2, du règlement (UE) n° 2022/1925 précité ou à l’article 14, paragraphe 2, du règlement (UE) n° 2022/2560 précité .
 
 (3)
 
-Lorsque les enquêteurs sont appelés à prêter assistance à la Commission européenne au titre de l’article 20 du règlement (CE) n° 1/2003 précité, de l’article 13 du règlement (CE) n° 139/2004 précité, de l’article 23 du règlement (UE) n° 2022/1925 précité ou de l’article 14 du règlement (UE) n° 2022/2560 précité, une autorisation délivrée par ordonnance du juge d’instruction compétent est requise pour pouvoir procéder aux inspections. La procédure applicable est celle prévue à l’article 26.
+Lorsque les enquêteurs sont appelés à prêter assistance à la Commission européenne au titre de l’article 20 du règlement (CE) n° 1/2003 précité , de l’article 13 du règlement (CE) n° 139/2004 précité, de l’article 23 du règlement (UE) n° 2022/1925 précité ou de l’article 14 du règlement (UE) n° 2022/2560 précité, une autorisation délivrée par ordonnance du juge d’instruction compétent est requise pour pouvoir procéder aux inspections. La procédure applicable est celle prévue à l’article 26.
 
 (4)
 
@@ -1832,27 +1832,27 @@ L’Autorité ne peut utiliser les informations recueillies dans l’exercice de
 
 La partie qui a obtenu l’accès au dossier de la procédure de mise en œuvre ne peut uniquement utiliser les informations tirées des déclarations effectuées en vue d’obtenir la clémence et des propositions de transaction lorsque cela est nécessaire pour l’exercice de ses droits de la défense dans le cadre de procédures devant des juridictions nationales, dans des affaires qui ont un lien direct avec celle dans laquelle l’accès a été accordé, et uniquement lorsque ces procédures concernent :
 
-1. la répartition, entre les participants à une entente, d’une amende qui leur est infligée solidairement par une autorité nationale de concurrence ; ou
+- la répartition, entre les participants à une entente, d’une amende qui leur est infligée solidairement par une autorité nationale de concurrence ; ou
 
-2. un recours contre une décision par laquelle l’Autorité a constaté une violation aux articles 4 ou 5 de la présente loi ou aux articles 101 et 102 du TFUE .
+- un recours contre une décision par laquelle l’Autorité a constaté une violation aux articles 4 ou 5 de la présente loi ou aux articles 101 et 102 du TFUE .
 
 (3)
 
 Les catégories suivantes d’informations obtenues par une partie à la procédure au cours d’une procédure devant l’Autorité ne peuvent pas être utilisées par cette partie dans des procédures juridictionnelles tant que l’Autorité n’a pas clos sa procédure contre toutes les parties concernées par l’enquête en adoptant une décision prévue aux articles 32, 43, 44 ou 45 de la présente loi :
 
-1. les informations préparées par d’autres personnes physiques ou morales expressément aux fins de la procédure de l’Autorité ;
+- les informations préparées par d’autres personnes physiques ou morales expressément aux fins de la procédure de l’Autorité ;
 
-2. les informations établies par l’Autorité et envoyées aux parties au cours de sa procédure ;
+- les informations établies par l’Autorité et envoyées aux parties au cours de sa procédure ;
 
-3. les propositions de transaction qui ont été retirées.
+- les propositions de transaction qui ont été retirées.
 
 (4)
 
 L’Autorité ne communique les déclarations effectuées en vue d’obtenir la clémence aux autorités nationales de concurrence en vertu de l’article 12 du règlement (CE) n° 1/2003 précité qu’aux conditions suivantes :
 
-1. avec l’accord du demandeur ; ou
+- avec l’accord du demandeur ; ou
 
-2. si, à l’instar de l’Autorité, l’autorité destinataire a reçu, du même demandeur, une demande de clémence concernant la même infraction, à condition qu’au moment de la transmission des informations, le demandeur n’ait pas la faculté de retirer les informations qu’il a communiquées à cette autorité destinataire.
+- si, à l’instar de l’Autorité, l’autorité destinataire a reçu, du même demandeur, une demande de clémence concernant la même infraction, à condition qu’au moment de la transmission des informations, le demandeur n’ait pas la faculté de retirer les informations qu’il a communiquées à cette autorité destinataire.
 
 (5)
 
@@ -1905,13 +1905,13 @@ Modification de la loi modifiée du 10 août 1991 sur la profession d’avocat
 
 La loi modifiée du 10 août 1991 sur la profession d’avocat est modifiée comme suit :
 
-1. à l’article 2, paragraphe 1 er , l’alinéa 2 est complété par une lettre f) nouvelle qui prend la teneur suivante : de l’Autorité de concurrence du Grand-Duché de Luxembourg de se faire représenter par son président ou un membre permanent du Collège ou un agent du groupe de traitement A1 dûment mandaté, devant les juridictions de l’ordre administratif appelées à connaître d’un recours introduit à l’encontre d’une décision rendue par l’Autorité de concurrence dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence. » ;
+- à l’article 2, paragraphe 1 er , l’alinéa 2 est complété par une lettre f) nouvelle qui prend la teneur suivante : de l’Autorité de concurrence du Grand-Duché de Luxembourg de se faire représenter par son président ou un membre permanent du Collège ou un agent du groupe de traitement A1 dûment mandaté, devant les juridictions de l’ordre administratif appelées à connaître d’un recours introduit à l’encontre d’une décision rendue par l’Autorité de concurrence dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence. » ;
 
-2. l’article 35, paragraphe 3, est modifié comme suit :
+- l’article 35, paragraphe 3, est modifié comme suit :
 
-1. à l’alinéa 1 er , les mots ou de contrôle ou d’inspection prévues respectivement aux articles 24 à 26 de la loi du 30 novembre 2022 relative à la concurrence sont insérés entre les mots instruction criminelle et les mots ou d’inspection prévue par l’article L. 311-8 ;
+  - à l’alinéa 1 er , les mots ou de contrôle ou d’inspection prévues respectivement aux articles 24 à 26 de la loi du 30 novembre 2022 relative à la concurrence sont insérés entre les mots instruction criminelle et les mots ou d’inspection prévue par l’article L. 311-8 ;
 
-2. le paragraphe est complété par un alinéa 3 nouveau qui prend la teneur suivante : « Les procès-verbaux de contrôle prévus à l’article 24, paragraphe 6, et de l’inspection prévus à l’article 26, paragraphe 8, de la loi du 30 novembre 2022 relative à la concurrence mentionnent à peine de nullité la présence du Bâtonnier ou de son représentant ou le fait qu’ils ont été dûment appelés, ainsi que les observations que le Bâtonnier ou son représentant ont estimé devoir faire. ».
+  - le paragraphe est complété par un alinéa 3 nouveau qui prend la teneur suivante : « Les procès-verbaux de contrôle prévus à l’article 24, paragraphe 6, et de l’inspection prévus à l’article 26, paragraphe 8, de la loi du 30 novembre 2022 relative à la concurrence mentionnent à peine de nullité la présence du Bâtonnier ou de son représentant ou le fait qu’ils ont été dûment appelés, ainsi que les observations que le Bâtonnier ou son représentant ont estimé devoir faire. ».
 
 <a id="art-78"></a>
 ## Art. 78.
@@ -1920,9 +1920,9 @@ Modification de la loi modifiée du 21 juin 1999 portant règlement de procédur
 
 La loi modifiée du 21 juin 1999 portant règlement de procédure devant les juridictions administratives est modifiée comme suit :
 
-1. à l’article 34, il est inséré un paragraphe 8-1 nouveau qui prend la teneur suivante : (8-1) Si l’Autorité de concurrence du Grand-Duché de Luxembourg est partie au litige le jugement est notifié au président de l’Autorité de concurrence.
+- à l’article 34, il est inséré un paragraphe 8-1 nouveau qui prend la teneur suivante : (8-1) Si l’Autorité de concurrence du Grand-Duché de Luxembourg est partie au litige le jugement est notifié au président de l’Autorité de concurrence.
 
-2. il est inséré un titre III bis nouveau, comprenant les articles 60-1 à 60-4 nouveaux, qui prend la teneur suivante : Titre IIIbis. Dispositions spécifiques en matière de concurrence Art. 60-1. Lors d’un recours introduit à l’encontre d’une décision rendue par l’Autorité de concurrence du Grand-Duché de Luxembourg dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence, les dispositions prévues aux titres Ier et II sont applicables, sauf les exceptions qui sont prévues aux dispositions des articles suivants. Art. 60-2. L’Autorité de concurrence du Grand-Duché de Luxembourg n’est pas tenue de constituer avocat, tel que prévu à l’article 5, paragraphe 1er, lors d’un recours introduit à l’encontre d’une décision rendue par celle-ci dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence. La transmission par le greffier d’un exemplaire des pièces déposées par le demandeur prévue à l’article 5, paragraphe 4, est adressée au président de l’Autorité de concurrence. Art. 60-3. Les communications entre avocats constitués et l’Autorité de concurrence du Grand-Duché de Luxembourg peuvent être faites moyennant signification par ministère d’huissier ou notification par voie postale ou par voie directe. La signification est constatée par l’apposition du cachet et de la signature de l’huissier de justice sur l’acte et sa copie avec l’indication de la date et du nom du président de l’Autorité de concurrence. La notification directe s’opère par la remise de l’acte en double exemplaire au président de l’Autorité de concurrence, lequel restitue aussitôt l’un des exemplaires après l’avoir daté et visé. Art. 60-4. Lorsque l’Autorité de concurrence interjette appel sans constituer avocat, la requête d’appel est signée par le président de l’Autorité de concurrence.
+- il est inséré un titre III bis nouveau, comprenant les articles 60-1 à 60-4 nouveaux, qui prend la teneur suivante : Titre IIIbis. Dispositions spécifiques en matière de concurrence Art. 60-1. Lors d’un recours introduit à l’encontre d’une décision rendue par l’Autorité de concurrence du Grand-Duché de Luxembourg dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence, les dispositions prévues aux titres Ier et II sont applicables, sauf les exceptions qui sont prévues aux dispositions des articles suivants. Art. 60-2. L’Autorité de concurrence du Grand-Duché de Luxembourg n’est pas tenue de constituer avocat, tel que prévu à l’article 5, paragraphe 1er, lors d’un recours introduit à l’encontre d’une décision rendue par celle-ci dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence. La transmission par le greffier d’un exemplaire des pièces déposées par le demandeur prévue à l’article 5, paragraphe 4, est adressée au président de l’Autorité de concurrence. Art. 60-3. Les communications entre avocats constitués et l’Autorité de concurrence du Grand-Duché de Luxembourg peuvent être faites moyennant signification par ministère d’huissier ou notification par voie postale ou par voie directe. La signification est constatée par l’apposition du cachet et de la signature de l’huissier de justice sur l’acte et sa copie avec l’indication de la date et du nom du président de l’Autorité de concurrence. La notification directe s’opère par la remise de l’acte en double exemplaire au président de l’Autorité de concurrence, lequel restitue aussitôt l’un des exemplaires après l’avoir daté et visé. Art. 60-4. Lorsque l’Autorité de concurrence interjette appel sans constituer avocat, la requête d’appel est signée par le président de l’Autorité de concurrence.
 
 <a id="art-79"></a>
 ## Art. 79.
@@ -1931,17 +1931,17 @@ Modification de la loi modifiée du 25 mars 2015 fixant le régime des traitemen
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
 
-1. l’article 12, paragraphe 1 er , alinéa 7, est modifié comme suit :
+- l’article 12, paragraphe 1 er , alinéa 7, est modifié comme suit :
 
-1. au point 8°, les termes et de vice-président du Conseil arbitral des assurances sociales sont remplacés par les termes de vice-président du Conseil arbitral des assurances sociales, de vice-président de l’Autorité de concurrence du Grand-Duché de Luxembourg et de membre effectif de l’Autorité de concurrence du Grand-Duché de Luxembourg ;
+  - au point 8°, les termes et de vice-président du Conseil arbitral des assurances sociales sont remplacés par les termes de vice-président du Conseil arbitral des assurances sociales, de vice-président de l’Autorité de concurrence du Grand-Duché de Luxembourg et de membre effectif de l’Autorité de concurrence du Grand-Duché de Luxembourg ;
 
-2. au point 15°, les termes président du Conseil de la concurrence sont remplacés par les termes président de l’Autorité de concurrence du Grand-Duché de Luxembourg ;
+  - au point 15°, les termes président du Conseil de la concurrence sont remplacés par les termes président de l’Autorité de concurrence du Grand-Duché de Luxembourg ;
 
-2. l’annexe A, tableau I. Administration générale, est modifiée comme suit :
+- l’annexe A, tableau I. Administration générale, est modifiée comme suit :
 
-1. dans le sous-groupe à attributions particulières, le grade 16 est complété par la fonction vice-président de l’Autorité de concurrence du Grand-Duché de Luxembourg et la fonction conseiller effectif de l’Autorité de concurrence du Grand-Duché de Luxembourg ;
+  - dans le sous-groupe à attributions particulières, le grade 16 est complété par la fonction vice-président de l’Autorité de concurrence du Grand-Duché de Luxembourg et la fonction conseiller effectif de l’Autorité de concurrence du Grand-Duché de Luxembourg ;
 
-2. dans le sous-groupe à attributions particulières, grade 17, les termes président du Conseil de la concurrence sont remplacés par les termes président de l’Autorité de concurrence du Grand-Duché de Luxembourg .
+  - dans le sous-groupe à attributions particulières, grade 17, les termes président du Conseil de la concurrence sont remplacés par les termes président de l’Autorité de concurrence du Grand-Duché de Luxembourg .
 
 <a id="art-80"></a>
 ## Art. 80.
@@ -1950,9 +1950,9 @@ Modification de la loi modifiée du 10 février 2015 relative à l’organisatio
 
 La loi modifiée du 10 février 2015 relative à l’organisation du marché de produits pétroliers est modifiée comme suit :
 
-1. À la suite de l’article 58, il est inséré un titre III nouveau, comprenant l’article 58 bis nouveau, qui prend la teneur suivante : Titre III Prix maxima des produits pétroliers Art. 58bis. (1) Le ministre peut conclure des contrats de programme avec des entreprises du secteur des produits pétroliers comportant des engagements relatifs au niveau des prix maxima. Les contrats sont conclus pour une durée indéterminée. À défaut de conclusion de contrats de programme, le ministre peut déterminer des prix de vente maxima pour différents produits pétroliers selon un mode de calcul journalier arrêté par règlement grand-ducal. Ce calcul prend en compte : les cotations des différents produits pétroliers ; le cours de change du dollar américain en euro ; les marges de distribution que le ministre négocie tous les deux ans avec le secteur pétrolier. À défaut d’accord, les dernières marges de distribution appliquées sont intégrées dans la formule de calcul ; les droits d’accise et les taxes assimilées sur les produits énergétiques ainsi que la taxe sur la valeur ajoutée ; les paramètres de la composante biofioul obligatoire. Les prix maxima ainsi calculés sont automatiquement adaptés selon un mécanisme déclencheur qui prend en compte l’évolution des écarts entre ces prix maxima et les prix maxima virtuels déterminés sur base des éléments énumérés sous les points 1° à 5°. Le règlement grand-ducal visé à l’alinéa 2 fixe les détails des modalités de cette adaptation automatique. (2) Est puni d’une amende de 251 à 50 000 euros quiconque vend, propose à la vente ou promeut des produits pétroliers à des prix en violation du règlement grand-ducal pris en application du paragraphe 1er. L’amende s’élève à un montant compris entre 251 et 2 500 euros lorsqu’un écart de prix inférieur à 5 pour cent par rapport au prix fixé par règlement grand-ducal est constaté. L’amende s’élève à un montant compris entre 2 501 et 10 000 euros lorsqu’un écart de prix compris entre 5 et 15 pour cent par rapport au prix fixé par règlement grand-ducal est constaté. L’amende s’élève à un montant compris entre 10 001 et 50 000 euros lorsqu’un écart de prix de plus de 15 pour cent par rapport au prix fixé par règlement grand-ducal est constaté.
+- À la suite de l’article 58, il est inséré un titre III nouveau, comprenant l’article 58 bis nouveau, qui prend la teneur suivante : Titre III Prix maxima des produits pétroliers Art. 58bis. (1) Le ministre peut conclure des contrats de programme avec des entreprises du secteur des produits pétroliers comportant des engagements relatifs au niveau des prix maxima. Les contrats sont conclus pour une durée indéterminée. À défaut de conclusion de contrats de programme, le ministre peut déterminer des prix de vente maxima pour différents produits pétroliers selon un mode de calcul journalier arrêté par règlement grand-ducal. Ce calcul prend en compte : les cotations des différents produits pétroliers ; le cours de change du dollar américain en euro ; les marges de distribution que le ministre négocie tous les deux ans avec le secteur pétrolier. À défaut d’accord, les dernières marges de distribution appliquées sont intégrées dans la formule de calcul ; les droits d’accise et les taxes assimilées sur les produits énergétiques ainsi que la taxe sur la valeur ajoutée ; les paramètres de la composante biofioul obligatoire. Les prix maxima ainsi calculés sont automatiquement adaptés selon un mécanisme déclencheur qui prend en compte l’évolution des écarts entre ces prix maxima et les prix maxima virtuels déterminés sur base des éléments énumérés sous les points 1° à 5°. Le règlement grand-ducal visé à l’alinéa 2 fixe les détails des modalités de cette adaptation automatique. (2) Est puni d’une amende de 251 à 50 000 euros quiconque vend, propose à la vente ou promeut des produits pétroliers à des prix en violation du règlement grand-ducal pris en application du paragraphe 1er. L’amende s’élève à un montant compris entre 251 et 2 500 euros lorsqu’un écart de prix inférieur à 5 pour cent par rapport au prix fixé par règlement grand-ducal est constaté. L’amende s’élève à un montant compris entre 2 501 et 10 000 euros lorsqu’un écart de prix compris entre 5 et 15 pour cent par rapport au prix fixé par règlement grand-ducal est constaté. L’amende s’élève à un montant compris entre 10 001 et 50 000 euros lorsqu’un écart de prix de plus de 15 pour cent par rapport au prix fixé par règlement grand-ducal est constaté.
 
-2. Suite à l’insertion du titre III nouveau, il est procédé à une renumérotation de l’ancien titre III qui prend la teneur suivante : « Titre IV Dispositions transitoires, modificatives et abrogatoires ».
+- Suite à l’insertion du titre III nouveau, il est procédé à une renumérotation de l’ancien titre III qui prend la teneur suivante : « Titre IV Dispositions transitoires, modificatives et abrogatoires ».
 
 <a id="art-81"></a>
 ## Art. 81.
@@ -1961,16 +1961,22 @@ Modification de la loi modifiée du 23 juillet 2016 relative à la profession de
 
 L’article 28, paragraphe 8, de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit est modifié comme suit :
 
-1. à l’alinéa 1 er les mots ou de contrôle ou d’inspection prévues aux articles 24 à 26 de la loi du 30 novembre 2022 relative à la concurrence sont insérés entre les mots instruction criminelle et les mots est effectuée ;
+- à l’alinéa 1 er les mots ou de contrôle ou d’inspection prévues aux articles 24 à 26 de la loi du 30 novembre 2022 relative à la concurrence sont insérés entre les mots instruction criminelle et les mots est effectuée ;
 
-2. le paragraphe est complété par un alinéa 3 nouveau qui prend la teneur suivante : « Les procès-verbaux de contrôle prévus à l’article 24, paragraphe 6, et de l’inspection prévus à l’article 26, paragraphe 8, de la loi du 30 novembre 2022 relative à la concurrence mentionnent à peine de nullité la présence du président de l’IRE ou de son représentant ou le fait qu’ils ont été dûment appelés, ainsi que les observations que le président de l’IRE ou son représentant ont estimé devoir faire. ».
+- le paragraphe est complété par un alinéa 3 nouveau qui prend la teneur suivante : « Les procès-verbaux de contrôle prévus à l’article 24, paragraphe 6, et de l’inspection prévus à l’article 26, paragraphe 8, de la loi du 30 novembre 2022 relative à la concurrence mentionnent à peine de nullité la présence du président de l’IRE ou de son représentant ou le fait qu’ils ont été dûment appelés, ainsi que les observations que le président de l’IRE ou son représentant ont estimé devoir faire. ».
 
 <a id="art-82"></a>
 ## Art. 82.
 
 Modification de la loi du 5 mars 2021 relative à certaines modalités de mise en œuvre du règlement (UE) n° 2019/1150 du Parlement européen et du Conseil du 20 juin 2019 promouvant l’équité et la transparence pour les entreprises utilisatrices de services d’intermédiation en ligne
 
-À l’article 2 de la loi du 5 mars 2021 relative à certaines modalités de mise en œuvre du règlement (UE) n° 2019/1150 du Parlement européen et du Conseil du 20 juin 2019 promouvant l’équité et la transparence pour les entreprises utilisatrices de services d’intermédiation en ligne, un nouveau paragraphe 7 est inséré qui prend la teneur suivante : (7) Conformément à l’article 14, paragraphe 5, du règlement (UE) n° 2019/1150, l’Autorité de concurrence du Grand-Duché de Luxembourg est désignée en tant qu’organisme public au sens de l’article 14, paragraphe 4, du règlement (UE) n° 2019/1150. Le ministre communique cette désignation à la Commission européenne afin de faire figurer l’Autorité de concurrence sur la liste publiée au Journal officiel de l’Union européenne en application de l’article 14, paragraphe 6, du règlement (UE) n° 2019/1150.
+À l’article 2 de la loi du 5 mars 2021 relative à certaines modalités de mise en œuvre du règlement (UE) n° 2019/1150 du Parlement européen et du Conseil du 20 juin 2019 promouvant l’équité et la transparence pour les entreprises utilisatrices de services d’intermédiation en ligne, un nouveau paragraphe 7 est inséré qui prend la teneur suivante :
+
+(7)
+
+Conformément à l’article 14, paragraphe 5, du règlement (UE) n° 2019/1150, l’Autorité de concurrence du Grand-Duché de Luxembourg est désignée en tant qu’organisme public au sens de l’article 14, paragraphe 4, du règlement (UE) n° 2019/1150.
+
+Le ministre communique cette désignation à la Commission européenne afin de faire figurer l’Autorité de concurrence sur la liste publiée au Journal officiel de l’Union européenne en application de l’article 14, paragraphe 6, du règlement (UE) n° 2019/1150.
 
 <a id="art-83"></a>
 ## Art. 83.
@@ -1979,27 +1985,27 @@ Modification de la loi du 1er juin 2021 sur les relations entre entreprises au s
 
 La loi du 1er juin 2021 sur les relations entre entreprises au sein de la chaîne d’approvisionnement agricole et alimentaire est modifiée comme suit :
 
-1. l’article 4 est modifié comme suit :
+- l’article 4 est modifié comme suit :
 
-1. il est inséré un paragraphe 2-1 nouveau qui prend la teneur suivante : « (2-1) Une plainte doit au moins comporter les éléments suivants : informations complètes quant à l’identité du plaignant. Si le plaignant est une entreprise, informations sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et de la portée de ses activités économiques ; le chiffre d’affaires du fournisseur ; indications sur la personne de contact auprès de laquelle des informations supplémentaires pourront notamment être demandées ; informations suffisantes sur l’identité de l’entreprise ou association d’entreprises visée par la plainte et, le cas échéant, sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et la portée de ses activités économiques ainsi que de la relation entretenue entre cette entité visée et le plaignant ; description détaillée des faits dénoncés et production des documents et éléments de preuves liés aux faits dénoncés dont le plaignant dispose ; indications sur le fait qu’une démarche auprès d’une autre autorité d’application ou d’une juridiction nationale pour les mêmes motifs ou des motifs apparentés a été initiée. » ;
+  - il est inséré un paragraphe 2-1 nouveau qui prend la teneur suivante : « (2-1) Une plainte doit au moins comporter les éléments suivants : informations complètes quant à l’identité du plaignant. Si le plaignant est une entreprise, informations sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et de la portée de ses activités économiques ; le chiffre d’affaires du fournisseur ; indications sur la personne de contact auprès de laquelle des informations supplémentaires pourront notamment être demandées ; informations suffisantes sur l’identité de l’entreprise ou association d’entreprises visée par la plainte et, le cas échéant, sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et la portée de ses activités économiques ainsi que de la relation entretenue entre cette entité visée et le plaignant ; description détaillée des faits dénoncés et production des documents et éléments de preuves liés aux faits dénoncés dont le plaignant dispose ; indications sur le fait qu’une démarche auprès d’une autre autorité d’application ou d’une juridiction nationale pour les mêmes motifs ou des motifs apparentés a été initiée. » ;
 
-2. au paragraphe 5, sont insérés les termes accuse réception de celle-ci dans un délai de sept jours calendaires et entre le mot plainte et le mot informe ;
+  - au paragraphe 5, sont insérés les termes accuse réception de celle-ci dans un délai de sept jours calendaires et entre le mot plainte et le mot informe ;
 
-3. il est inséré un paragraphe 6-1 nouveau qui prend la teneur suivante : « (6-1) L’Autorité de la concurrence du Grand-Duché de Luxembourg peut également rejeter une plainte si elle ne la considère pas comme une priorité. » ;
+  - il est inséré un paragraphe 6-1 nouveau qui prend la teneur suivante : « (6-1) L’Autorité de la concurrence du Grand-Duché de Luxembourg peut également rejeter une plainte si elle ne la considère pas comme une priorité. » ;
 
-4. au paragraphe 7, les mots conseiller désigné conformément à l’article 7, paragraphe 4, de la loi modifiée du 23 octobre 2011 relative à la concurrence. Le conseiller désigné mène l’enquête dans un délai raisonnable conformément à l’article 5 et rédige, le cas échéant, une communication des griefs conformément à l’article 25 de la loi précitée du 23 octobre 2011. sont remplacés par les mots conseiller instructeur conformément à l’article 23 de la loi du 30 novembre 2022 relative à la concurrence. Le conseiller instructeur mène l’enquête dans un délai raisonnable conformément à l’article 20 et rédige, le cas échéant, une communication des griefs conformément à l’article 37 de la loi précitée. ;
+  - au paragraphe 7, les mots conseiller désigné conformément à l’article 7, paragraphe 4, de la loi modifiée du 23 octobre 2011 relative à la concurrence. Le conseiller désigné mène l’enquête dans un délai raisonnable conformément à l’article 5 et rédige, le cas échéant, une communication des griefs conformément à l’article 25 de la loi précitée du 23 octobre 2011. sont remplacés par les mots conseiller instructeur conformément à l’article 23 de la loi du 30 novembre 2022 relative à la concurrence. Le conseiller instructeur mène l’enquête dans un délai raisonnable conformément à l’article 20 et rédige, le cas échéant, une communication des griefs conformément à l’article 37 de la loi précitée. ;
 
-5. il est inséré un paragraphe 7-1 nouveau qui prend la teneur suivante : « (7-1) Les parties visées par la communication des griefs ont accès au dossier à la base de la communication des griefs qui leur est adressée conformément aux articles 38 et 39 de la loi du 30 novembre 2022 relative à la concurrence. L’audition éventuelle des parties se déroule conformément à l’article 40 de la loi du 30 novembre 2022 relative à la concurrence. » ;
+  - il est inséré un paragraphe 7-1 nouveau qui prend la teneur suivante : « (7-1) Les parties visées par la communication des griefs ont accès au dossier à la base de la communication des griefs qui leur est adressée conformément aux articles 38 et 39 de la loi du 30 novembre 2022 relative à la concurrence. L’audition éventuelle des parties se déroule conformément à l’article 40 de la loi du 30 novembre 2022 relative à la concurrence. » ;
 
-2. l’article 5 est modifié comme suit :
+- l’article 5 est modifié comme suit :
 
-1. au paragraphe 1 er , les mots articles 14 à 16 et aux articles 18 et 19 de la loi du 23 octobre 2011 relative à la concurrence sont remplacés par les mots articles 24 à 30 de la loi du 30 novembre 2022 relative à la concurrence ;
+  - au paragraphe 1 er , les mots articles 14 à 16 et aux articles 18 et 19 de la loi du 23 octobre 2011 relative à la concurrence sont remplacés par les mots articles 24 à 30 de la loi du 30 novembre 2022 relative à la concurrence ;
 
-2. au paragraphe 4, les mots des mesures conservatoires conformément à l’article 12 de la loi modifiée du 23 octobre 2011 relative à la concurrence sont remplacés par les mots des mesures provisoires conformément aux articles 42 à 44 de la loi du 30 novembre 2022 relative à la concurrence ;
+  - au paragraphe 4, les mots des mesures conservatoires conformément à l’article 12 de la loi modifiée du 23 octobre 2011 relative à la concurrence sont remplacés par les mots des mesures provisoires conformément aux articles 42 à 44 de la loi du 30 novembre 2022 relative à la concurrence ;
 
-3. au paragraphe 6, les mots à l’article 7, paragraphe 5, de la loi modifiée du 23 octobre 2011 relative à la concurrence sont remplacés par les termes à l’article 8, point 1°, lettre d) de la loi du 30 novembre 2022 relative à la concurrence ;
+  - au paragraphe 6, les mots à l’article 7, paragraphe 5, de la loi modifiée du 23 octobre 2011 relative à la concurrence sont remplacés par les termes à l’article 8, point 1°, lettre d) de la loi du 30 novembre 2022 relative à la concurrence ;
 
-3. Il est inséré un article 5 bis qui prend la teneur suivante : Art. 5bis. Recours Un recours de pleine juridiction est ouvert devant le tribunal administratif à l’encontre des décisions de l’Autorité de la concurrence du Grand-Duché de Luxembourg prévues aux articles 4, paragraphe 6 et 5, paragraphes 2, 3 et 4.
+- Il est inséré un article 5 bis qui prend la teneur suivante : Art. 5bis. Recours Un recours de pleine juridiction est ouvert devant le tribunal administratif à l’encontre des décisions de l’Autorité de la concurrence du Grand-Duché de Luxembourg prévues aux articles 4, paragraphe 6 et 5, paragraphes 2, 3 et 4.
 
 <a id="art-84"></a>
 ## Art. 84.
@@ -2017,9 +2023,9 @@ Dispositions transitoires
 
 Les mandats des président, conseillers et conseillers suppléants du Conseil de la concurrence nommés selon la loi modifiée du 23 octobre 2011 relative à la concurrence cessent de plein droit au jour de l’entrée en vigueur de la présente loi. Si le mandat cesse avant l’âge légal de retraite :
 
-1. les titulaires issus de la fonction publique, qui ont été mis en congé pendant la durée de leur mandat dans leur administration d’origine, sont, sur leur demande, réintégrés dans leur administration d’origine à un emploi correspondant au traitement qu’ils ont touché précédemment, augmenté des échelons et majorations de l’indice se rapportant aux années de service passées comme président ou conseiller du Conseil jusqu’à concurrence du dernier échelon du grade. À défaut de vacance de poste, il peut être créé un emploi hors cadre, correspondant à ce traitement. Cet emploi sera supprimé de plein droit à la première vacance qui se produira dans une fonction appropriée du cadre normal ;
+- les titulaires issus de la fonction publique, qui ont été mis en congé pendant la durée de leur mandat dans leur administration d’origine, sont, sur leur demande, réintégrés dans leur administration d’origine à un emploi correspondant au traitement qu’ils ont touché précédemment, augmenté des échelons et majorations de l’indice se rapportant aux années de service passées comme président ou conseiller du Conseil jusqu’à concurrence du dernier échelon du grade. À défaut de vacance de poste, il peut être créé un emploi hors cadre, correspondant à ce traitement. Cet emploi sera supprimé de plein droit à la première vacance qui se produira dans une fonction appropriée du cadre normal ;
 
-2. les titulaires issus du secteur privé touchent, pendant la durée maximale d’un an, une indemnité d’attente de 310 points indiciaires par mois. Cette indemnité d’attente est réduite dans la mesure où les intéressés touchent un revenu professionnel ou bénéficient d’une pension personnelle.
+- les titulaires issus du secteur privé touchent, pendant la durée maximale d’un an, une indemnité d’attente de 310 points indiciaires par mois. Cette indemnité d’attente est réduite dans la mesure où les intéressés touchent un revenu professionnel ou bénéficient d’une pension personnelle.
 
 (2)
 

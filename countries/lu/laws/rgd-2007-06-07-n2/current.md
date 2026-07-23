@@ -43,84 +43,84 @@ Les personnes exerçant la profession de santé visée à l'article 1er portent 
 
 Le diplôme ou titre de formation d'orthoptiste ne peut être reconnu que:
 
-1. s'il sanctionne un cycle de formation post-secondaire à temps plein d'au moins trois années ou six semestres ou neuf trimestres, d'un institut de formation agréé par l'Etat dans lequel il a son siège et
+- s'il sanctionne un cycle de formation post-secondaire à temps plein d'au moins trois années ou six semestres ou neuf trimestres, d'un institut de formation agréé par l'Etat dans lequel il a son siège et
 
-2. si le détenteur du diplôme ou titre de formation possède les qualifications requises pour accéder à la profession d'orthoptiste dans l'Etat où le diplôme ou titre de formation a été délivré pour autant que la profession d'orthoptiste y est réglementée.
+- si le détenteur du diplôme ou titre de formation possède les qualifications requises pour accéder à la profession d'orthoptiste dans l'Etat où le diplôme ou titre de formation a été délivré pour autant que la profession d'orthoptiste y est réglementée.
 
 <a id="art-4"></a>
 ## Art. 4.
 
 Le programme des études visées doit compter au moins 3 000 heures de formation et comporte:
 
-1. Un enseignement théorique en:
+- Un enseignement théorique en:
 
-- anatomie et physiologie générale,
+  - anatomie et physiologie générale,
 
-- neurophysiologie,
+  - neurophysiologie,
 
-- physique et optique,
+  - physique et optique,
 
-- pathologie générale,
+  - pathologie générale,
 
-- hygiène,
+  - hygiène,
 
-- psychologie,
+  - psychologie,
 
-- notions élémentaires de statistiques.
+  - notions élémentaires de statistiques.
 
-2. Un enseignement théorique et technique spécifique en:
+- Un enseignement théorique et technique spécifique en:
 
-- anatomie oculaire,
+  - anatomie oculaire,
 
-- physiologie et neurophysiologie de l'oeil,
+  - physiologie et neurophysiologie de l'oeil,
 
-- optique de l'oeil et réfraction,
+  - optique de l'oeil et réfraction,
 
-- ophtalmologie générale,
+  - ophtalmologie générale,
 
-- neuro-ophtalmologie générale,
+  - neuro-ophtalmologie générale,
 
-- pathologies spécifiques:
+  - pathologies spécifiques:
 
-- strabismes,
+    - strabismes,
 
-- hétérophories,
+    - hétérophories,
 
-- troubles de vergence,
+    - troubles de vergence,
 
-- correspondance rétinienne anormale,
+    - correspondance rétinienne anormale,
 
-- amblyopie,
+    - amblyopie,
 
-- basse vision,
+    - basse vision,
 
-- vices de réfraction,
+    - vices de réfraction,
 
-- paralysies oculo-motrices,
+    - paralysies oculo-motrices,
 
-- nystagmus,
+    - nystagmus,
 
-- syndromes de rétraction,
+    - syndromes de rétraction,
 
-- syncinésies anormales,
+    - syncinésies anormales,
 
-- attitudes compensatrices,
+    - attitudes compensatrices,
 
-- pharmacologie,
+  - pharmacologie,
 
-- techniques fondamentales de l’examen ophtalmologique,
+  - techniques fondamentales de l’examen ophtalmologique,
 
-- techniques plé-orthoptiques et de basse vision,
+  - techniques plé-orthoptiques et de basse vision,
 
-- méthodes d’examen et de traitement plé-orthoptique,
+  - méthodes d’examen et de traitement plé-orthoptique,
 
-- méthodes d’examen et de rééducation et de réadaptation de la basse vision,
+  - méthodes d’examen et de rééducation et de réadaptation de la basse vision,
 
-- instrumentation,
+  - instrumentation,
 
-- législation et déontologie professionnelle de l’orthoptiste.
+  - législation et déontologie professionnelle de l’orthoptiste.
 
-3. Un enseignement pratique d'au moins 1 000 heures en milieu hospitalier ou extrahospitalier: dans un service d'orthoptie, un service de basse vision, ainsi que dans un service ou une policlinique ophtalmologique. Il s'effectue sous forme de stages dans des services agréés par les autorités compétentes du pays où se déroulent les études.
+- Un enseignement pratique d'au moins 1 000 heures en milieu hospitalier ou extrahospitalier: dans un service d'orthoptie, un service de basse vision, ainsi que dans un service ou une policlinique ophtalmologique. Il s'effectue sous forme de stages dans des services agréés par les autorités compétentes du pays où se déroulent les études.
 
 #### Chapitre 2 : Modalités de reconnaissance des diplômes étrangers
 
@@ -153,6 +153,8 @@ Pour les requérants titulaires d'un diplôme étranger bénéficiant de l'appli
 2.
 
 Pour les requérants titulaires d'un diplôme étranger tombant sous le champ d'application de la directive du Conseil 92/51/CEE relative à un deuxième système général de reconnaissance des formations professionnelles, qui complète la directive 89/48/CEE, le ministre ayant l'Education nationale dans ses attributions peut exiger du requérant de choisir entre l'accomplissement d'un stage d'adaptation et une épreuve d'aptitude, conformément aux dispositions de l'article 3 du règlement grand-ducal du 2 juin 1994 portant transposition de la directive 92/51/CEE.
+
+1. Epreuve d’aptitude
 
 <a id="art-7-20230717"></a>
 ## Art. 7.
@@ -211,6 +213,8 @@ Ces indemnités correspondent au nombre indice 100 et subissent la même adaptat
 
 Le ministre ayant l'Education nationale dans ses attributions fixe le nombre de sessions annuelles de l'épreuve d'aptitude selon les besoins.
 
+2. Stage d’adaptation
+
 <a id="art-12-20230717"></a>
 ## Art. 12.
 
@@ -258,6 +262,8 @@ Sur demande motivée du stagiaire, le ministre ayant l'Education nationale dans 
 
 En cas de rejet de la demande, le requérant soumet un nouveau projet de stage pour approbation au ministre ayant l'Education nationale dans ses attributions.
 
+3. Expérience professionnelle
+
 <a id="art-19-20230717"></a>
 ## Art. 19.
 
@@ -303,22 +309,22 @@ L'exercice de la profession d'orthoptiste est réservé au professionnel de la s
 
 L'orthoptiste est habilité à accomplir les actes professionnels suivants de façon autonome:
 
-1. les actes relatifs à la détermination subjective et objective de l'acuité visuelle;
+- les actes relatifs à la détermination subjective et objective de l'acuité visuelle;
 
-2. le conseil en matière d'ergonomie visuelle concernant le domicile, le poste de travail, le poste scolaire ainsi que les moyens de transport.
+- le conseil en matière d'ergonomie visuelle concernant le domicile, le poste de travail, le poste scolaire ainsi que les moyens de transport.
 
 <a id="art-24"></a>
 ## Art. 24.
 
 Dans le cadre d'un programme de dépistage organisé ou agréé par le ministre de la Santé, l'orthoptiste est habilité à accomplir les actes suivants:
 
-1. la détermination objective et subjective de la fixation;
+- la détermination objective et subjective de la fixation;
 
-2. le bilan des déséquilibres oculomoteurs;
+- le bilan des déséquilibres oculomoteurs;
 
-3. le dépistage des dyschromatopsies congénitales;
+- le dépistage des dyschromatopsies congénitales;
 
-4. l'établissement de la courbe d'adaptation à l'obscurité.
+- l'établissement de la courbe d'adaptation à l'obscurité.
 
 <a id="art-25"></a>
 ## Art. 25.
@@ -327,21 +333,21 @@ Dans le cadre d'un programme de dépistage organisé ou agréé par le ministre 
 
 Sur prescription médicale écrite préalable, l'orthoptiste est habilité à accomplir, outre les actes visés aux points 1, 2 et 3 de l'article 24, les actes suivants:
 
-1. le bilan et la rééducation des personnes atteintes d'amblyopie, de strabismes, d'hétérophories, d'insuffisances de convergence ou de déséquilibres binoculaires et la proposition d'aides visuelles et techniques;
+- le bilan et la rééducation des personnes atteintes d'amblyopie, de strabismes, d'hétérophories, d'insuffisances de convergence ou de déséquilibres binoculaires et la proposition d'aides visuelles et techniques;
 
-2. le bilan et la rééducation de la basse vision et des perturbations du champ visuel ainsi que la proposition d'aides visuelles et techniques.
+- le bilan et la rééducation de la basse vision et des perturbations du champ visuel ainsi que la proposition d'aides visuelles et techniques.
 
 (2)
 
 Sur prescription médicale écrite préalable et sous la réserve que le médecin prescripteur procède à l'interprétation des résultats, l'orthoptiste est habilité à accomplir les actes suivants:
 
-1. la périmétrie;
+- la périmétrie;
 
-2. la campimétrie;
+- la campimétrie;
 
-3. l'établissement de la courbe d'adaptation à l'obscurité;
+- l'établissement de la courbe d'adaptation à l'obscurité;
 
-4. l'exploration du sens chromatique.
+- l'exploration du sens chromatique.
 
 (3)
 
@@ -351,9 +357,9 @@ Sur prescription médicale, l'orthoptiste établit un bilan qui comprend le diag
 
 L'orthoptiste informe le médecin prescripteur:
 
-1. de toute information en sa possession susceptible d'être utile pour le diagnostic ou le traitement du patient;
+- de toute information en sa possession susceptible d'être utile pour le diagnostic ou le traitement du patient;
 
-2. de l'éventuelle adaptation du traitement en fonction de l'évolution de l'état de la pathologie à traiter.
+- de l'éventuelle adaptation du traitement en fonction de l'évolution de l'état de la pathologie à traiter.
 
 (5)
 
@@ -368,9 +374,9 @@ Chaque fois qu'il le juge opportun, l'orthoptiste demande des compléments d'inf
 
 L'orthoptiste est habilité à assister le médecin pour effectuer les enregistrements à l'occasion des explorations fonctionnelles suivantes:
 
-1. la rétinographie;
+- la rétinographie;
 
-2. l'électrophysiologie oculaire.
+- l'électrophysiologie oculaire.
 
 <a id="art-27"></a>
 ## Art. 27.

@@ -73,25 +73,25 @@ Les types de service visés par le présent règlement sont les suivants :
 
 Est visé tout service qui offre une prise en charge précoce au jeune enfant à besoins spéciaux ainsi qu’un soutien à la famille concernée. L’objet est de limiter les effets d’une déficience voire de compenser un retard développemental par le biais d’une rééducation fonctionnelle, d’une stimulation pédagogique, d’une guidance socio-éducative et d’un accompagnement de la famille.
 
-1. Service d'assistance à domicile: Est visé tout service qui offre en milieu familial des soins et/ou une aide matérielle et psychologique aux personnes en situation de handicap et à leurs familles. L'objet est de promouvoir le maintien à domicile et de garantir une prise en charge des situations de fin de vie adaptée aux besoins et attentes individuels des personnes concernées.
+- Service d'assistance à domicile: Est visé tout service qui offre en milieu familial des soins et/ou une aide matérielle et psychologique aux personnes en situation de handicap et à leurs familles. L'objet est de promouvoir le maintien à domicile et de garantir une prise en charge des situations de fin de vie adaptée aux besoins et attentes individuels des personnes concernées.
 
-2. Service d'hébergement: Est visé tout service qui offre un hébergement et/ou un encadrement professionnel multidisciplinaire à plus de trois personnes en situation de handicap. L'objet est d'assurer un encadrement professionnel à la personne en situation de handicap suivant une approche globale et cohérente en lui fournissant d'une part les aides et soins au sens de la loi modifiée du 19 juin 1998 portant introduction de l'assurance-dépendance et d'autre part un accompagnement socio-pédagogique et une prise en charge des situations de fin de vie adaptés à ses besoins et attentes individuels.
+- Service d'hébergement: Est visé tout service qui offre un hébergement et/ou un encadrement professionnel multidisciplinaire à plus de trois personnes en situation de handicap. L'objet est d'assurer un encadrement professionnel à la personne en situation de handicap suivant une approche globale et cohérente en lui fournissant d'une part les aides et soins au sens de la loi modifiée du 19 juin 1998 portant introduction de l'assurance-dépendance et d'autre part un accompagnement socio-pédagogique et une prise en charge des situations de fin de vie adaptés à ses besoins et attentes individuels.
 
-3. Service de formation: Est visé tout service qui offre une formation professionnelle à plus de trois personnes en situation de handicap ayant dépassé l'âge de l'obligation scolaire. L'objet est de leur procurer des connaissances de nature générale et/ou professionnelle visant une orientation ou une réorientation à la vie professionnelle.
+- Service de formation: Est visé tout service qui offre une formation professionnelle à plus de trois personnes en situation de handicap ayant dépassé l'âge de l'obligation scolaire. L'objet est de leur procurer des connaissances de nature générale et/ou professionnelle visant une orientation ou une réorientation à la vie professionnelle.
 
-4. Service d'emploi ou «atelier protégé»: Est visé tout service, créé et géré par un organisme à vocation sociale et économique, qui permet aux personnes ayant la reconnaissance de travailleur handicapé au sens de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées, et orientées par la Commission d'orientation et de reclassement professionnel vers le milieu de travail protégé, d'exercer une activité professionnelle salariée dans des conditions adaptées à leurs compétences. Le service d'emploi ou «atelier protégé» engage dans les liens d'un contrat de travail de droit commun des travailleurs handicapés qui sont orientés par la commission précitée vers le milieu de travail protégé et qui, en raison de leurs capacités de travail réduites, ne suffisent pas, ou pas encore, au moment de leur orientation ou réorientation professionnelle, aux exigences et contraintes du marché du travail ordinaire. L'objet du service d'emploi ou «atelier protégé» est le suivant:
+- Service d'emploi ou «atelier protégé»: Est visé tout service, créé et géré par un organisme à vocation sociale et économique, qui permet aux personnes ayant la reconnaissance de travailleur handicapé au sens de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées, et orientées par la Commission d'orientation et de reclassement professionnel vers le milieu de travail protégé, d'exercer une activité professionnelle salariée dans des conditions adaptées à leurs compétences. Le service d'emploi ou «atelier protégé» engage dans les liens d'un contrat de travail de droit commun des travailleurs handicapés qui sont orientés par la commission précitée vers le milieu de travail protégé et qui, en raison de leurs capacités de travail réduites, ne suffisent pas, ou pas encore, au moment de leur orientation ou réorientation professionnelle, aux exigences et contraintes du marché du travail ordinaire. L'objet du service d'emploi ou «atelier protégé» est le suivant:
 
-- mettre en place une unité économique de production de biens et/ou de services;
+  - mettre en place une unité économique de production de biens et/ou de services;
 
-- mettre en place une production à valeur marchande et une démarche commerciale permettant le marketing de celle-ci;
+  - mettre en place une production à valeur marchande et une démarche commerciale permettant le marketing de celle-ci;
 
-- promouvoir dans ce contexte les mesures permettant l'emploi du travailleur handicapé dans des conditions adaptées à ses besoins et possibilités;
+  - promouvoir dans ce contexte les mesures permettant l'emploi du travailleur handicapé dans des conditions adaptées à ses besoins et possibilités;
 
-- promouvoir les mesures d'insertion professionnelle, d'accompagnement et de suivi du travailleur handicapé sur le marché du travail ordinaire;
+  - promouvoir les mesures d'insertion professionnelle, d'accompagnement et de suivi du travailleur handicapé sur le marché du travail ordinaire;
 
-- organiser des activités socio-pédagogiques et thérapeutiques en faveur des travailleurs handicapés qui, en raison de leur déficience et/ou de leur âge, requièrent une telle prise en charge particulière.
+  - organiser des activités socio-pédagogiques et thérapeutiques en faveur des travailleurs handicapés qui, en raison de leur déficience et/ou de leur âge, requièrent une telle prise en charge particulière.
 
-5. Service d'activités de jour: Est visé tout service qui offre des activités de jour à plus de trois personnes présentant un handicap moyen ou grave ou un polyhandicap. Outre les aides et soins au sens de la loi modifiée du 19 juin 1998 portant introduction de l'assurance-dépendance, le service assure un accompagnement socio-pédagogique et thérapeutique par le biais d'activités variées et adaptées aux besoins et attentes individuels de la personne en situation de handicap. Le service accueille pendant la journée des personnes en situation de handicap qui, en raison de leur déficience et/ou de leur âge, ne peuvent pas suivre de manière continue une formation professionnelle ou un emploi ainsi que, en dehors des périodes scolaires, des mineurs en situation de handicap en âge scolaire. L'objet est d'assurer un encadrement professionnel et multidisciplinaire à la personne en situation de handicap et de soutenir les familles ayant à charge une personne en situation de handicap.
+- Service d'activités de jour: Est visé tout service qui offre des activités de jour à plus de trois personnes présentant un handicap moyen ou grave ou un polyhandicap. Outre les aides et soins au sens de la loi modifiée du 19 juin 1998 portant introduction de l'assurance-dépendance, le service assure un accompagnement socio-pédagogique et thérapeutique par le biais d'activités variées et adaptées aux besoins et attentes individuels de la personne en situation de handicap. Le service accueille pendant la journée des personnes en situation de handicap qui, en raison de leur déficience et/ou de leur âge, ne peuvent pas suivre de manière continue une formation professionnelle ou un emploi ainsi que, en dehors des périodes scolaires, des mineurs en situation de handicap en âge scolaire. L'objet est d'assurer un encadrement professionnel et multidisciplinaire à la personne en situation de handicap et de soutenir les familles ayant à charge une personne en situation de handicap.
 
 7. Service d’information, de consultation et de rencontre :
 
@@ -320,39 +320,39 @@ La demande d’agrément est adressée au ministre par la personne physique ou m
 
 La demande est accompagnée des documents et renseignements suivants :
 
-1. Une description détaillée de l’objet et du concept pédagogique de la prise en charge de la personne en situation de handicap ;
+- Une description détaillée de l’objet et du concept pédagogique de la prise en charge de la personne en situation de handicap ;
 
-2. Une description détaillée du concept de fonctionnement de la structure, de la population cible et du nombre d’usagers que la structure est prête à accompagner. Dans le cas d’un service d’emploi ou « atelier protégé », il s’y ajoute une description détaillée des points suivants:
+- Une description détaillée du concept de fonctionnement de la structure, de la population cible et du nombre d’usagers que la structure est prête à accompagner. Dans le cas d’un service d’emploi ou « atelier protégé », il s’y ajoute une description détaillée des points suivants:
 
-- concept pour la formation continue
+  - concept pour la formation continue
 
-- adaptation des postes et conditions de travail aux besoins spécifiques de la population cible
+  - adaptation des postes et conditions de travail aux besoins spécifiques de la population cible
 
-- concept de production et de commercialisation
+  - concept de production et de commercialisation
 
-- marchés obtenus et/ou envisagés
+  - marchés obtenus et/ou envisagés
 
-- mesures mises en place en faveur de l’insertion professionnelle, les mesures organisées en faveur de l’accompagnement et du suivi professionnels des travailleurs handicapés issus de l’atelier protégé sur le marché du travail ordinaire
+  - mesures mises en place en faveur de l’insertion professionnelle, les mesures organisées en faveur de l’accompagnement et du suivi professionnels des travailleurs handicapés issus de l’atelier protégé sur le marché du travail ordinaire
 
-- activités socio-pédagogiques et thérapeutiques organisées par le service ;
+  - activités socio-pédagogiques et thérapeutiques organisées par le service ;
 
-3. Le ou les noms du personnel dirigeant, les documents certifiant leur qualification et leur honorabilité ;
+- Le ou les noms du personnel dirigeant, les documents certifiant leur qualification et leur honorabilité ;
 
-4. Sur support papier ou informatique, les documents relatifs aux noms, au nombre et à la qualification des collaborateurs, salariés et/ou bénévoles, ainsi qu'un plan de travail type;
+- Sur support papier ou informatique, les documents relatifs aux noms, au nombre et à la qualification des collaborateurs, salariés et/ou bénévoles, ainsi qu'un plan de travail type;
 
-5. Le règlement d’ordre intérieur ;
+- Le règlement d’ordre intérieur ;
 
-6. En cas d’accueil, le modèle du contrat prévu à l’article 10 de la loi ; en cas d’emploi protégé, le modèle du contrat de travail prévu par la législation en vigueur ;
+- En cas d’accueil, le modèle du contrat prévu à l’article 10 de la loi ; en cas d’emploi protégé, le modèle du contrat de travail prévu par la législation en vigueur ;
 
-7. Un engagement formel du gestionnaire que le service est ouvert à tout usager indépendamment de toutes considérations d’ordre idéologique, philosophique ou religieux ;
+- Un engagement formel du gestionnaire que le service est ouvert à tout usager indépendamment de toutes considérations d’ordre idéologique, philosophique ou religieux ;
 
-8. Un plan du bâtiment indiquant pour les différents niveaux les voies de communication interne, la destination des locaux et les équipements de sécurité prévus ;
+- Un plan du bâtiment indiquant pour les différents niveaux les voies de communication interne, la destination des locaux et les équipements de sécurité prévus ;
 
-9. Pour les services désignés à l'article 3.3, 3.4, 3.5 et 3.6, un certificat attestant que l'infrastructure est connue au corps des pompiers;
+- Pour les services désignés à l'article 3.3, 3.4, 3.5 et 3.6, un certificat attestant que l'infrastructure est connue au corps des pompiers;
 
-10. Une copie des statuts et d’éventuelles modifications publiés au Mémorial ;
+- Une copie des statuts et d’éventuelles modifications publiés au Mémorial ;
 
-11. Un budget prévisionnel et les pièces attestant la situation financière.
+- Un budget prévisionnel et les pièces attestant la situation financière.
 
 Le ministre peut demander tout autre document ou renseignement indispensable à l’établissement du dossier de la demande d’agrément.
 

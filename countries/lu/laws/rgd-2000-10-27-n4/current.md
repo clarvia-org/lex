@@ -339,9 +339,9 @@ I.
 
 Sur proposition du corps enseignant, le Ministre ayant dans ses attributions la Fonction publique procède tous les trois ans à la nomination
 
-1. d’un délégué chargé de représenter les enseignants intervenant au niveau de la formation générale du personnel communal dans la commission administrative prévue à l’article 18 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique et
+- d’un délégué chargé de représenter les enseignants intervenant au niveau de la formation générale du personnel communal dans la commission administrative prévue à l’article 18 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique et
 
-2. de deux délégués chargés de représenter les enseignants intervenant au niveau de la formation générale du personnel communal dans la commission de coordination prévue à l’article 12 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.
+- de deux délégués chargés de représenter les enseignants intervenant au niveau de la formation générale du personnel communal dans la commission de coordination prévue à l’article 12 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.
 
 II.
 
@@ -375,11 +375,11 @@ Structure.
 
 Le plan d’insertion professionnelle prévu à l’article 7 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique comprend pour chaque fonctionnaire en service provisoire:
 
-1. la désignation d’un patron de stage,
+- la désignation d’un patron de stage,
 
-2. la remise d’un livret d’accueil,
+- la remise d’un livret d’accueil,
 
-3. l’établissement d’un dossier-formation pour les fonctionnaires en service provisoire des carrières visées à l’article 1er (I) du présent règlement.
+- l’établissement d’un dossier-formation pour les fonctionnaires en service provisoire des carrières visées à l’article 1er (I) du présent règlement.
 
 <a id="art-14-20210507"></a>
 ## Art. 14.
@@ -441,33 +441,33 @@ II.
 
 Le livret d’accueil comprend un volet en relation avec l’Institut et un volet en relation avec l’administration communale ou l’établissement public des communes.
 
-1. Le volet concernant l’Institut comprend les informations suivantes:
+- Le volet concernant l’Institut comprend les informations suivantes:
 
-- les principales dispositions légales et réglementaires relatives à la formation à l’Institut,
+  - les principales dispositions légales et réglementaires relatives à la formation à l’Institut,
 
-- le règlement d’ordre interne de l’Institut,
+  - le règlement d’ordre interne de l’Institut,
 
-- l’horaire détaillé des cours et l’identité des chargés de cours intervenant,
+  - l’horaire détaillé des cours et l’identité des chargés de cours intervenant,
 
-- les programmes de formation,
+  - les programmes de formation,
 
-- la composition des classes,
+  - la composition des classes,
 
-- le cas échéant, l’organisation de la partie de l’examen d’admission définitive sanctionnant la formation générale.
+  - le cas échéant, l’organisation de la partie de l’examen d’admission définitive sanctionnant la formation générale.
 
-2. Le volet concernant les administrations communales comprend les informations suivantes:
+- Le volet concernant les administrations communales comprend les informations suivantes:
 
-- la loi communale,
+  - la loi communale,
 
-- un organigramme de l’administration communale ou de l’établissement public des communes,
+  - un organigramme de l’administration communale ou de l’établissement public des communes,
 
-- une description précise des missions et des travaux qui incombent au fonctionnaire en service provisoire,
+  - une description précise des missions et des travaux qui incombent au fonctionnaire en service provisoire,
 
-- une information détaillée sur l’organisation administrative interne du service et sur les procédures d’ordre interne à respecter ainsi que, le cas échéant, sur les règles de comportement et de communication élaborées par l’administration face aux citoyens et aux usagers de l’administration,
+  - une information détaillée sur l’organisation administrative interne du service et sur les procédures d’ordre interne à respecter ainsi que, le cas échéant, sur les règles de comportement et de communication élaborées par l’administration face aux citoyens et aux usagers de l’administration,
 
-- une note sur l’organisation du temps de travail et le contrôle des présences, sur la réglementation relative aux différents types de congés et, le cas échéant, sur le système des permanences à assurer,
+  - une note sur l’organisation du temps de travail et le contrôle des présences, sur la réglementation relative aux différents types de congés et, le cas échéant, sur le système des permanences à assurer,
 
-- un plan détaillé concernant l’organisation de la formation spéciale, le programme à étudier pour l’examen de fin de formation spéciale ainsi que les dates de l’examen de fin de formation spéciale.
+  - un plan détaillé concernant l’organisation de la formation spéciale, le programme à étudier pour l’examen de fin de formation spéciale ainsi que les dates de l’examen de fin de formation spéciale.
 
 <a id="art-16-20210507"></a>
 ## Art. 16.

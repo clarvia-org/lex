@@ -126,9 +126,9 @@ Les stagiaires toucheront une indemnité de stage dont le montant sera fixé par
 
 Il est créé à Luxembourg un institut appelé Centre universitaire de Luxembourg, qui comprendra:
 
-1. les Cours universitaires, prévus à l’article 8;
+- les Cours universitaires, prévus à l’article 8;
 
-2. les Cours complémentaires, institués en vertu de l’article 9.
+- les Cours complémentaires, institués en vertu de l’article 9.
 
 Le Centre universitaire pourra recourir à des chargés de cours étrangers.
 

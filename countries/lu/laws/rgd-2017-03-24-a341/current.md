@@ -32,18 +32,18 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le montant du droit d'enregistrement dont sont grevés les permis de chasser annuels respectivement les permis d'invité, est fixé comme suit:
 
-1. permis annuel: 21 euros
+- permis annuel: 21 euros
 
-2. permis d'invité: 10 euros.
+- permis d'invité: 10 euros.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 Le montant du droit supplémentaire dont sont grevés les permis de chasser annuels respectivement les permis d'invité est fixé comme suit:
 
-1. Permis annuel : 209 euros
+- Permis annuel : 209 euros
 
-2. permis d'invité: 40 euros.
+- permis d'invité: 40 euros.
 
 <a id="art-3"></a>
 ## Art. 3.

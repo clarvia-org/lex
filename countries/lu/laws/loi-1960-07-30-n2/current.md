@@ -59,23 +59,23 @@ Le conseil d'administration représente et gère le Fonds dans toutes les affair
 
 Il lui appartient :
 
-1. de présenter au ministre ayant le fonds dans ses attributions, ci-après « ministre », le projet de budget ;
+- de présenter au ministre ayant le fonds dans ses attributions, ci-après « ministre », le projet de budget ;
 
-2. de statuer au sujet des prestations légales et des demandes en restitution ;
+- de statuer au sujet des prestations légales et des demandes en restitution ;
 
-3. d’engager, de nommer et de congédier les fonctionnaires assimilés aux fonctionnaires de l’État et les employés assimilés aux employés de l’État du fonds ;
+- d’engager, de nommer et de congédier les fonctionnaires assimilés aux fonctionnaires de l’État et les employés assimilés aux employés de l’État du fonds ;
 
-4. de statuer sur le placement de la fortune du fonds ;
+- de statuer sur le placement de la fortune du fonds ;
 
-5. de statuer sur l’acquisition et l’aliénation d’immeubles ainsi que sur la constitution de charges sur ces immeubles ;
+- de statuer sur l’acquisition et l’aliénation d’immeubles ainsi que sur la constitution de charges sur ces immeubles ;
 
-6. d’établir la planification triennale prévue par l’article 408bis du Code de la sécurité sociale et de statuer sur la mise à jour annuelle y visée ;
+- d’établir la planification triennale prévue par l’article 408bis du Code de la sécurité sociale et de statuer sur la mise à jour annuelle y visée ;
 
-7. de déterminer les règles de gouvernance prévues par l’article 408bis du Code de la sécurité sociale ;
+- de déterminer les règles de gouvernance prévues par l’article 408bis du Code de la sécurité sociale ;
 
-8. d’établir son règlement d’ordre intérieur ;
+- d’établir son règlement d’ordre intérieur ;
 
-9. d’établir un code de conduite.
+- d’établir un code de conduite.
 
 Les décisions prévues aux lettres a), d) et h) de l’alinéa 1er sont soumises à l’approbation du ministre. Le règlement d’ordre intérieur est publié au Journal officiel du Grand-Duché de Luxembourg. Le code de conduite est publié sur le site internet du fonds.
 
@@ -135,11 +135,11 @@ Les modalités d'application du présent article seront fixées par règlement d
 
 Ce règlement portera notamment sur:
 
-1. la composition du conseil d'administration;
+- la composition du conseil d'administration;
 
-2. la gestion du Fonds;
+- la gestion du Fonds;
 
-3. les droits et devoirs et les conditions de nomination, de rémunération et de retraite du président et des employés du Fonds.
+- les droits et devoirs et les conditions de nomination, de rémunération et de retraite du président et des employés du Fonds.
 
 <a id="art-16bis"></a>
 ## Art. 16bis.
@@ -161,27 +161,27 @@ Pour autant qu’il n’en est pas disposé autrement par la présente loi, sont
 
 L’application au personnel du fonds des dispositions légales et réglementaires applicables aux agents de l’État se fait conformément aux dispositions suivantes :
 
-1. le terme « administration » désigne le fonds ;
+- le terme « administration » désigne le fonds ;
 
-2. les termes « au service de l’État » sont à remplacer par les termes « au service du fonds » ;
+- les termes « au service de l’État » sont à remplacer par les termes « au service du fonds » ;
 
-3. les termes « État luxembourgeois » sont à remplacer par le terme « fonds » ;
+- les termes « État luxembourgeois » sont à remplacer par le terme « fonds » ;
 
-4. les termes « fonctionnaires de l’État » sont à remplacer par les termes « fonctionnaires assimilés aux fonctionnaires de l’État » ;
+- les termes « fonctionnaires de l’État » sont à remplacer par les termes « fonctionnaires assimilés aux fonctionnaires de l’État » ;
 
-5. les termes « fonctionnaires stagiaires de l’État » sont à remplacer par les termes « fonctionnaires stagiaires assimilés aux fonctionnaires stagiaires de l’État » ;
+- les termes « fonctionnaires stagiaires de l’État » sont à remplacer par les termes « fonctionnaires stagiaires assimilés aux fonctionnaires stagiaires de l’État » ;
 
-6. les termes « employés de l’État » sont à remplacer par les termes « employés assimilés aux employés de l’État » ;
+- les termes « employés de l’État » sont à remplacer par les termes « employés assimilés aux employés de l’État » ;
 
-7. sans préjudice des autres dispositions du présent article, les compétences dévolues au Grand-Duc, au Gouvernement, au Conseil de gouvernement, au ministre du ressort et à l’autorité investie du pouvoir de nomination sont exercées par le conseil d’administration du fonds ;
+- sans préjudice des autres dispositions du présent article, les compétences dévolues au Grand-Duc, au Gouvernement, au Conseil de gouvernement, au ministre du ressort et à l’autorité investie du pouvoir de nomination sont exercées par le conseil d’administration du fonds ;
 
-8. les compétences dévolues au ministre ayant la Fonction publique dans ses attributions par la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État sont exercées par le conseil d’administration du fonds, l’avis du ministre n’étant pas requis ;
+- les compétences dévolues au ministre ayant la Fonction publique dans ses attributions par la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État sont exercées par le conseil d’administration du fonds, l’avis du ministre n’étant pas requis ;
 
-9. les compétences dévolues au ministre ayant la Fonction publique dans ses attributions, autres que celles visées à la lettre h) concernant les employés de l’État et excepté celles concernant les examens-concours pour l’admission au stage, le changement d’administration et la commission d’appréciation des performances professionnelles, sont exercées par le ministre ;
+- les compétences dévolues au ministre ayant la Fonction publique dans ses attributions, autres que celles visées à la lettre h) concernant les employés de l’État et excepté celles concernant les examens-concours pour l’admission au stage, le changement d’administration et la commission d’appréciation des performances professionnelles, sont exercées par le ministre ;
 
-10. les attributions dévolues au chef d’administration sont exercées par le président du fonds ;
+- les attributions dévolues au chef d’administration sont exercées par le président du fonds ;
 
-11. les compétences dévolues au membre du Gouvernement pour la saisine du commissaire du Gouvernement chargé de l’instruction disciplinaire conformément à l’article 56, paragraphe 2, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, sont exercées par le président du fonds.
+- les compétences dévolues au membre du Gouvernement pour la saisine du commissaire du Gouvernement chargé de l’instruction disciplinaire conformément à l’article 56, paragraphe 2, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, sont exercées par le président du fonds.
 
 <a id="art-16quater"></a>
 ## Art. 16quater.
@@ -484,19 +484,19 @@ Les dispositions du livre 1er du code pénal à l’exception des paragraphes 2,
 
 Pour faire face à ses engagements, le Fonds dispose de moyens financiers provenant de:
 
-1. la dotation annuelle de l'Etat, fixée par la loi budgétaire, compte tenu des recettes, visées sub b à g ci-après, et des besoins du Fonds, qui se dégagent des obligations légales et réglementaires. Le crédit à inscrire dans la loi budgétaire sera non limitatif et sans distinction d'exercice;
+- la dotation annuelle de l'Etat, fixée par la loi budgétaire, compte tenu des recettes, visées sub b à g ci-après, et des besoins du Fonds, qui se dégagent des obligations légales et réglementaires. Le crédit à inscrire dans la loi budgétaire sera non limitatif et sans distinction d'exercice;
 
-2. (abrogé)
+- (abrogé)
 
-3. la quote-part dans le produit de la loterie nationale à déterminer par règlement d'administration publique;
+- la quote-part dans le produit de la loterie nationale à déterminer par règlement d'administration publique;
 
-4. les dons et legs: le Fonds peut recevoir des dons et legs conformément à l'article 910 du Code civil ;
+- les dons et legs: le Fonds peut recevoir des dons et legs conformément à l'article 910 du Code civil ;
 
-5. La perception des sommes revenant au Fonds en exécution des dispositions de la présente loi;
+- La perception des sommes revenant au Fonds en exécution des dispositions de la présente loi;
 
-6. les revenus propres;
+- les revenus propres;
 
-7. les revenus divers.
+- les revenus divers.
 
 <a id="art-32"></a>
 ## Art. 32.

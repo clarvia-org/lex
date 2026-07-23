@@ -34,9 +34,9 @@ L’État prend en charge les frais d’utilisation du réseau, y compris pour l
 
 Les clients finals disposant d’un compteur d’un flux horaire maximal égal ou supérieur à 65 mètres cubes peuvent faire une demande auprès du ministre ayant l’Énergie dans ses attributions, ci-après le « ministre », afin de bénéficier de la même prise en charge que celle visée à l’alinéa 1er pour la période du 1er mai 2022 au 31 décembre 2024. La demande est introduite moyennant un formulaire spécifique mis à disposition par le ministre et qui renseigne, à côté des coordonnées du demandeur et du bâtiment concerné, sur les informations suivantes :
 
-1. le nombre total d’unités privatives occupées dans l’immeuble en cause. On entend par « unité privative » au sens de la présente loi, une unité séparée qui est réservée à l’usage d’un occupant ou groupe d’occupants ;
+- le nombre total d’unités privatives occupées dans l’immeuble en cause. On entend par « unité privative » au sens de la présente loi, une unité séparée qui est réservée à l’usage d’un occupant ou groupe d’occupants ;
 
-2. le nombre des unités privatives occupées à des fins d’habitation.
+- le nombre des unités privatives occupées à des fins d’habitation.
 
 Le ministre accorde le bénéfice de la mesure visée à l’alinéa 1er aux demandeurs visés à l’alinéa 2 qui établissent qu’au moins 60 pour cent des unités privatives occupées de l’immeuble concerné sont utilisées à des fins d’habitation. Le ministre notifie sa décision dans les vingt jours après réception de la demande au demandeur et en transmet une copie au gestionnaire de réseau de distribution concerné.
 

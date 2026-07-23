@@ -54,13 +54,13 @@ Les candidats à la réaffectation doivent présenter une demande séparée pour
 
 Les candidats joignent à chaque demande les pièces à l’appui suivantes:
 
-1. la copie de leur diplôme d’éducateur gradué ou d’éducateur, tel que défini à l’article 13 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental;
+- la copie de leur diplôme d’éducateur gradué ou d’éducateur, tel que défini à l’article 13 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental;
 
-2. les notes d’inspection des deux dernières années scolaires précédant la date de la candidature ou une copie de ces notes. Celles-ci sont communiquées au candidat sur demande par l’inspecteur d’arrondissement qui les a établies. Les candidats qui ne sont en fonction que depuis une année présentent les notes de l’année courante;
+- les notes d’inspection des deux dernières années scolaires précédant la date de la candidature ou une copie de ces notes. Celles-ci sont communiquées au candidat sur demande par l’inspecteur d’arrondissement qui les a établies. Les candidats qui ne sont en fonction que depuis une année présentent les notes de l’année courante;
 
-3. les certificats, ou une copie de ces certificats justifiant les années de service prestées auprès de l’État;
+- les certificats, ou une copie de ces certificats justifiant les années de service prestées auprès de l’État;
 
-4. la liste de l’ordre de leurs préférences, qui est identique pour chaque demande, et qui est jointe en triple exemplaire à chaque demande.
+- la liste de l’ordre de leurs préférences, qui est identique pour chaque demande, et qui est jointe en triple exemplaire à chaque demande.
 
 Les demandes avec pièces à l’appui doivent parvenir respectivement à l’inspecteur et au ministre dans le délai prescrit lors de la publication de la liste.
 
@@ -73,9 +73,9 @@ L’inspecteur transmet les demandes de postes relevant de communes ou de syndic
 
 Pour chaque poste vacant, respectivement l’inspecteur d’arrondissement et le ministre établissent le classement des candidats d’après le total des points attribués selon les critères suivants:
 
-1. une note d’inspection qui résulte de la somme de deux notes qui portent d’un côté sur les compétences professionnelles de l’éducateur gradué ou bien de l’éducateur et de l’autre sur l’engagement professionnel dont il fait preuve. Chacun des deux domaines est coté sur une échelle allant de 5 à 10 points; la moyenne des points répondant aux notes d’inspection des deux dernières années précédant la date de la candidature est à prendre en compte; si le candidat n’est en service que depuis une année, les notes d’inspection de cette seule année sont prises en compte;
+- une note d’inspection qui résulte de la somme de deux notes qui portent d’un côté sur les compétences professionnelles de l’éducateur gradué ou bien de l’éducateur et de l’autre sur l’engagement professionnel dont il fait preuve. Chacun des deux domaines est coté sur une échelle allant de 5 à 10 points; la moyenne des points répondant aux notes d’inspection des deux dernières années précédant la date de la candidature est à prendre en compte; si le candidat n’est en service que depuis une année, les notes d’inspection de cette seule année sont prises en compte;
 
-2. l’ancienneté de service auprès de l’État pour laquelle il sera compté un point par année de service.
+- l’ancienneté de service auprès de l’État pour laquelle il sera compté un point par année de service.
 
 Si le total des points attribués à un candidat conformément aux points 1 et 2 ci-dessus renferme une fraction de points, celle-ci n’est pas à arrondir.
 
@@ -113,11 +113,11 @@ Les demandes sont faites sur formulaire dont la forme est arrêtée par le minis
 
 Peuvent présenter une demande d’affectation ou de réaffectation après la publication de la deuxième liste des postes vacants d’éducateur gradué ou d’éducateur:
 
-1. les éducateurs gradués ou éducateurs nouvellement admis au stage de ces fonctions auprès de l’État;
+- les éducateurs gradués ou éducateurs nouvellement admis au stage de ces fonctions auprès de l’État;
 
-2. les employés de l’État de la carrière de l’éducateur gradué ou de l’éducateur dans l’enseignement fondamental;
+- les employés de l’État de la carrière de l’éducateur gradué ou de l’éducateur dans l’enseignement fondamental;
 
-3. des détenteurs d’un diplôme d’éducateur gradué ou d’éducateur, postulant une admission comme employé au service de l’État dans la carrière respective.
+- des détenteurs d’un diplôme d’éducateur gradué ou d’éducateur, postulant une admission comme employé au service de l’État dans la carrière respective.
 
 Tous les candidats sub 1, 2 et 3 doivent joindre à leur demande, faite sur un formulaire dont la forme est arrêtée par le ministre, une liste précisant l’ordre de leurs préférences pour les différents postes vacants qu’ils briguent.
 

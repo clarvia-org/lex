@@ -60,11 +60,11 @@ L’autorité compétente peut déléguer la réalisation des inspections sur pl
 
 Pour l’exécution des contrôles a posteriori, réalisés selon une approche fondée sur le risque, visés à l’article 11 du règlement (UE) 2017/821, il est tenu compte :
 
-1. du volume annuel d’importation ou du volume par produit ;
+- du volume annuel d’importation ou du volume par produit ;
 
-2. de l’origine et du moyen de transport des minerais et métaux importés ;
+- de l’origine et du moyen de transport des minerais et métaux importés ;
 
-3. du fait que les minerais et métaux importés représentent d’autres risques, énumérés dans le guide de l’Organisation de coopération et de développement économiques sur le devoir de diligence, qui affectent la chaîne d’approvisionnement.
+- du fait que les minerais et métaux importés représentent d’autres risques, énumérés dans le guide de l’Organisation de coopération et de développement économiques sur le devoir de diligence, qui affectent la chaîne d’approvisionnement.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -110,47 +110,47 @@ L’autorité compétente et l’Administration des douanes et accises sont les 
 
 En vue d’exercer les contrôles a posteriori, le traitement de données à caractère personnel est autorisé pour les finalités suivantes :
 
-1. évaluer et surveiller le respect des obligations au titre du règlement (UE) 2017/821 ou de la présente loi ;
+- évaluer et surveiller le respect des obligations au titre du règlement (UE) 2017/821 ou de la présente loi ;
 
-2. suivre l’évolution du respect des obligations, y inclus au travers de suivis statistiques, d’études et de recherche ;
+- suivre l’évolution du respect des obligations, y inclus au travers de suivis statistiques, d’études et de recherche ;
 
-3. créer les cadres organisationnel et professionnel requis pour surveiller le respect des obligations au titre du règlement (UE) 2017/821 ou de la présente loi ;
+- créer les cadres organisationnel et professionnel requis pour surveiller le respect des obligations au titre du règlement (UE) 2017/821 ou de la présente loi ;
 
-4. répondre aux demandes d’informations et aux obligations de communication d’informations provenant des autorités compétentes européennes ou de la Commission européenne.
+- répondre aux demandes d’informations et aux obligations de communication d’informations provenant des autorités compétentes européennes ou de la Commission européenne.
 
 (3)
 
 Les traitements prévus au paragraphe 1er portent sur les données à caractère personnel suivantes :
 
-1. pour l’importateur de l’Union européenne :
+- pour l’importateur de l’Union européenne :
 
-1. les données d’identification (nom, prénoms, date de naissance, sexe) de la personne et de ses éventuels représentants légaux ;
+  - les données d’identification (nom, prénoms, date de naissance, sexe) de la personne et de ses éventuels représentants légaux ;
 
-2. les coordonnées de contact (numéro de téléphone, adresse et adresse électronique) ;
+  - les coordonnées de contact (numéro de téléphone, adresse et adresse électronique) ;
 
-3. le numéro EORI ;
+  - le numéro EORI ;
 
-4. le numéro TVA.
+  - le numéro TVA.
 
-2. pour le fournisseur ou l’exportateur auquel s’est adressé l’importateur de l’Union européenne :
+- pour le fournisseur ou l’exportateur auquel s’est adressé l’importateur de l’Union européenne :
 
-1. les données d’identification (nom, prénoms, date de naissance, sexe) de la personne et de ses éventuels représentants légaux ;
+  - les données d’identification (nom, prénoms, date de naissance, sexe) de la personne et de ses éventuels représentants légaux ;
 
-2. les coordonnées de contact (numéro de téléphone, adresse et adresse électronique) ;
+  - les coordonnées de contact (numéro de téléphone, adresse et adresse électronique) ;
 
-3. le numéro d’identification.
+  - le numéro d’identification.
 
-3. pour la fonderie et l’affinerie intervenant dans la chaîne d’approvisionnement de l’importateur de l’Union :
+- pour la fonderie et l’affinerie intervenant dans la chaîne d’approvisionnement de l’importateur de l’Union :
 
-1. les données d’identification (nom, prénoms, date de naissance, sexe) de la personne et de ses éventuels représentants légaux ;
+  - les données d’identification (nom, prénoms, date de naissance, sexe) de la personne et de ses éventuels représentants légaux ;
 
-2. les coordonnées de contact (numéro de téléphone, adresse, et adresse électronique).
+  - les coordonnées de contact (numéro de téléphone, adresse, et adresse électronique).
 
-4. pour l’auditeur :
+- pour l’auditeur :
 
-1. les données d’identification (nom, prénoms, date de naissance, sexe) de la personne et de ses éventuels représentants légaux ;
+  - les données d’identification (nom, prénoms, date de naissance, sexe) de la personne et de ses éventuels représentants légaux ;
 
-2. les coordonnées de contact (numéro de téléphone, adresse et adresse électronique).
+  - les coordonnées de contact (numéro de téléphone, adresse et adresse électronique).
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -161,11 +161,11 @@ Mesures correctives
 
 Après constatation que l’importateur de l’Union européenne ne s’est pas conformé aux obligations lui incombant en vertu du règlement (UE) 2017/821, l’autorité compétente dispose du pouvoir :
 
-1. de notifier à l’importateur un avis prescrivant des mesures correctives, lesquelles doivent être mises en œuvre dans un délai déterminé qui ne peut être supérieur à douze mois. L’importateur soumet un plan de mise en œuvre des mesures correctives dans un délai d’un mois après notification ;
+- de notifier à l’importateur un avis prescrivant des mesures correctives, lesquelles doivent être mises en œuvre dans un délai déterminé qui ne peut être supérieur à douze mois. L’importateur soumet un plan de mise en œuvre des mesures correctives dans un délai d’un mois après notification ;
 
-2. de demander le contrôle de la mise en œuvre effective des mesures correctives, visées au point 1, à l’Administration des douanes et accises ;
+- de demander le contrôle de la mise en œuvre effective des mesures correctives, visées au point 1, à l’Administration des douanes et accises ;
 
-3. d’ordonner un examen de vérification effectué par des tiers aux frais de l’importateur dans lequel une attention particulière doit être accordée à la mise en œuvre des mesures correctives et lequel doit être envoyé à l’Administration des douanes et accises ainsi qu’à l’autorité compétente.
+- d’ordonner un examen de vérification effectué par des tiers aux frais de l’importateur dans lequel une attention particulière doit être accordée à la mise en œuvre des mesures correctives et lequel doit être envoyé à l’Administration des douanes et accises ainsi qu’à l’autorité compétente.
 
 (2)
 
@@ -180,27 +180,27 @@ Sanctions administratives
 
 L’autorité compétente peut infliger une amende administrative d’ordre de 10 000 à 100 000 euros à tout importateur qui :
 
-1. refuse de produire ou de fournir les pièces ou renseignements demandés visés à l’article 4 ;
+- refuse de produire ou de fournir les pièces ou renseignements demandés visés à l’article 4 ;
 
-2. ne se conforme pas aux mesures correctives prévues à l’article 7 de la présente loi ;
+- ne se conforme pas aux mesures correctives prévues à l’article 7 de la présente loi ;
 
-3. ne publie pas sur internet son rapport sur les politiques et pratiques en matière de devoir de diligence à l’égard de la chaîne d’approvisionnement, conformément à l’article 7, paragraphe 3, du règlement (UE) 2017/821 .
+- ne publie pas sur internet son rapport sur les politiques et pratiques en matière de devoir de diligence à l’égard de la chaîne d’approvisionnement, conformément à l’article 7, paragraphe 3, du règlement (UE) 2017/821 .
 
 (2)
 
 Lors de la détermination du niveau du montant de l’amende administrative, l’autorité compétente tient compte de toutes les circonstances pertinentes, et s’il y a lieu :
 
-1. de la gravité et de la durée de la violation ;
+- de la gravité et de la durée de la violation ;
 
-2. du degré de responsabilité de la personne responsable de la violation ;
+- du degré de responsabilité de la personne responsable de la violation ;
 
-3. de la situation financière de la personne responsable de la violation, en tenant compte de facteurs tels que le chiffre d’affaires total dans le cas d’une personne morale ou les revenus annuels dans le cas d’une personne physique ;
+- de la situation financière de la personne responsable de la violation, en tenant compte de facteurs tels que le chiffre d’affaires total dans le cas d’une personne morale ou les revenus annuels dans le cas d’une personne physique ;
 
-4. de l’importance des gains obtenus ou des pertes évitées par la personne responsable de la violation, dans la mesure où ils peuvent être déterminés ;
+- de l’importance des gains obtenus ou des pertes évitées par la personne responsable de la violation, dans la mesure où ils peuvent être déterminés ;
 
-5. du degré de coopération dont la personne responsable de la violation a fait preuve à l’égard de l’autorité compétente et de l’Administration des douanes et accises ;
+- du degré de coopération dont la personne responsable de la violation a fait preuve à l’égard de l’autorité compétente et de l’Administration des douanes et accises ;
 
-6. de violations passées commises par la personne responsable de la violation.
+- de violations passées commises par la personne responsable de la violation.
 
 (3)
 

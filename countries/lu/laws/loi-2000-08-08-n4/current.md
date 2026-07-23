@@ -76,19 +76,19 @@ Aucun recours ne peut être introduit contre la décision du procureur général
 
 Les demandes d’entraide qui ne contiennent pas les indications suivantes sont refusées:
 
-1. l’autorité dont émane la demande,
+- l’autorité dont émane la demande,
 
-2. l’objet et le motif de la demande,
+- l’objet et le motif de la demande,
 
-3. la date et le lieu de la commission des faits, un exposé sommaire des faits et le lien entre ces faits et l’objet de l’acte d’instruction sollicité,
+- la date et le lieu de la commission des faits, un exposé sommaire des faits et le lien entre ces faits et l’objet de l’acte d’instruction sollicité,
 
-4. dans la mesure du possible, l’identité et la nationalité de la personne en cause,
+- dans la mesure du possible, l’identité et la nationalité de la personne en cause,
 
-5. le nom et l’adresse du destinataire, s’il y a lieu,
+- le nom et l’adresse du destinataire, s’il y a lieu,
 
-6. le texte de l’inculpation et des sanctions y attachées,
+- le texte de l’inculpation et des sanctions y attachées,
 
-7. une traduction en langue française, allemande ou anglaise de la demande d’entraide et des pièces à produire.
+- une traduction en langue française, allemande ou anglaise de la demande d’entraide et des pièces à produire.
 
 Est également refusée l’exécution d’une demande d’entraide si, sans devoir procéder à un examen du fond, il est prévisible, au regard des exigences énoncées à l’article 4, point c), que les moyens à mettre en oeuvre ne sont pas aptes à réaliser l’objectif visé à la demande d’entraide ou vont au-delà de ce qui est nécessaire pour l’atteindre.
 
@@ -105,15 +105,15 @@ Les demandes d’entraide qui ne répondent pas aux conditions du présent artic
 
 La demande d’entraide doit réunir les conditions suivantes:
 
-1. elle doit émaner d’une autorité judiciaire compétente en vertu du droit de l’Etat requérant;
+- elle doit émaner d’une autorité judiciaire compétente en vertu du droit de l’Etat requérant;
 
-2. le fait à la base de la demande doit être susceptible d’être qualifié de crime ou de délit, punissable d’une peine privative de liberté d’un maximum d’au moins une année en vertu de la loi luxembourgeoise et de la loi de l’Etat requérant,
+- le fait à la base de la demande doit être susceptible d’être qualifié de crime ou de délit, punissable d’une peine privative de liberté d’un maximum d’au moins une année en vertu de la loi luxembourgeoise et de la loi de l’Etat requérant,
 
-3. la personne visée par la demande ne doit pas avoir été jugée au Grand-Duché de Luxembourg pour le même fait;
+- la personne visée par la demande ne doit pas avoir été jugée au Grand-Duché de Luxembourg pour le même fait;
 
-4. la mesure sollicitée doit pouvoir être prise en vertu du droit luxembourgeois par les autorités judiciaires luxembourgeoises à des fins de recherches ou de poursuites comme s’il s’agissait d’une affaire interne analogue;
+- la mesure sollicitée doit pouvoir être prise en vertu du droit luxembourgeois par les autorités judiciaires luxembourgeoises à des fins de recherches ou de poursuites comme s’il s’agissait d’une affaire interne analogue;
 
-5. sous réserve de dispositions contraires prévues dans une norme de droit international, la prescription de l’action publique ne doit pas avoir été acquise, ni d’après la loi luxembourgeoise, ni d’après la loi de l’Etat requérant.
+- sous réserve de dispositions contraires prévues dans une norme de droit international, la prescription de l’action publique ne doit pas avoir été acquise, ni d’après la loi luxembourgeoise, ni d’après la loi de l’Etat requérant.
 
 Les actes interruptifs ou suspensifs de prescription accomplis dans l’Etat requérant selon le droit de cet Etat sont pris en compte pour le calcul du délai de prescription de l’action d’après la loi luxembourgeoise.
 
@@ -201,15 +201,15 @@ Il dépose à cette fin au greffe de la chambre du conseil du tribunal d’arron
 
 Au cas où une requête prévue aux paragraphes (1) et (2) du présent article a été déposée, il est procédé comme suit:
 
-1. Huit jours au moins avant l’audience, le greffier convoque le requérant en son domicile élu et son conseil par lettres recommandées à la poste, accompagnées d’un avis de réception, en leur faisant connaître les jours, heure et lieu de l’audience.
+- Huit jours au moins avant l’audience, le greffier convoque le requérant en son domicile élu et son conseil par lettres recommandées à la poste, accompagnées d’un avis de réception, en leur faisant connaître les jours, heure et lieu de l’audience.
 
-2. Ce délai n’est pas susceptible d’augmentation en raison de la distance.
+- Ce délai n’est pas susceptible d’augmentation en raison de la distance.
 
-3. La chambre du conseil statue par ordonnance motivée, après avoir entendu, le cas échéant, les conseils et les parties, le conseil des requérants ainsi que le procureur d’Etat en leurs conclusions.
+- La chambre du conseil statue par ordonnance motivée, après avoir entendu, le cas échéant, les conseils et les parties, le conseil des requérants ainsi que le procureur d’Etat en leurs conclusions.
 
-4. L’ordonnance de la chambre du conseil n’est exécutoire qu’après l’écoulement du délai d’appel.
+- L’ordonnance de la chambre du conseil n’est exécutoire qu’après l’écoulement du délai d’appel.
 
-5. Le greffier opère la notification de l’ordonnance de la chambre du conseil par pli fermé et recommandé à la poste, accompagné d’un avis de réception au domicile élu.
+- Le greffier opère la notification de l’ordonnance de la chambre du conseil par pli fermé et recommandé à la poste, accompagné d’un avis de réception au domicile élu.
 
 (4)
 
@@ -250,3 +250,9 @@ Cette décision n’est susceptible d’aucun recours.
 ## Art. 13.
 
 Sauf en cas de consentement de la personne concernée ou en cas de danger immédiat et sérieux pour la sécurité publique, l’État requérant ne peut utiliser les objets, documents ou informations obtenus par voie de d’entraide aux fins d’investigation ou aux fins de leur production comme moyens de preuve dans une procédure pénale ou administrative autre que celle pour laquelle l’entraide a été accordée, qu’avec l’accord du procureur général d’État.
+
+Dispositions transitoires
+
+La présente loi entre en vigueur le premier jour du mois qui suit sa publication au Mémorial.
+
+Les modifications de la loi du 8 août 2000 sur l’entraide judiciaire internationale en matière pénale, prévues par l’article 12 de la présente loi, à l’exception du point 8) dudit article, s’appliquent aux demandes d’entraide visées par la loi du 8 août 2000 dont les autorités compétentes seront saisies à partir de son entrée en vigueur.

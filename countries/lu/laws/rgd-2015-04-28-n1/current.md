@@ -38,15 +38,15 @@ Le ministre ayant l'Économie dans ses attributions (ci-après «le ministre») 
 
 La base de données des personnes soumises à une autorisation d'établissement ou à une déclaration préalable comprend, conformément aux prescriptions de l'article 32, les informations suivantes:
 
-1. les noms, prénoms, coordonnées et, le cas échéant, la raison sociale des demandeurs et bénéficiaires d'une autorisation d'établissement;
+- les noms, prénoms, coordonnées et, le cas échéant, la raison sociale des demandeurs et bénéficiaires d'une autorisation d'établissement;
 
-2. les noms, prénoms et coordonnées du gérant technique de la personne morale demandeur ou bénéficiaire d'une autorisation d'établissement;
+- les noms, prénoms et coordonnées du gérant technique de la personne morale demandeur ou bénéficiaire d'une autorisation d'établissement;
 
-3. les dates de délivrance, de prolongation, de révocation ou d'annulation des autorisations d'établissement;
+- les dates de délivrance, de prolongation, de révocation ou d'annulation des autorisations d'établissement;
 
-4. les activités autorisées dans le cadre d'une autorisation d'établissement;
+- les activités autorisées dans le cadre d'une autorisation d'établissement;
 
-5. toutes autres informations fournies par l'administré ou par d'autres administrations, qui sont requises par la loi du 2 septembre 2011 pour le traitement des dossiers d'autorisations d'établissement.
+- toutes autres informations fournies par l'administré ou par d'autres administrations, qui sont requises par la loi du 2 septembre 2011 pour le traitement des dossiers d'autorisations d'établissement.
 
 (3)
 
@@ -57,49 +57,49 @@ Le ministre a la qualité de responsable du traitement. Il peut déléguer, sous
 
 Les données à caractère personnel auxquelles le ministre peut accéder sont les suivantes:
 
-1. pour le registre général des personnes physiques et morales tel qu'il est prévu à la loi modifiée du 19 juin 2013 relative à l'identification des personnes physiques, au registre national des personnes physiques, à la carte d'identité et aux registres communaux des personnes physiques:
+- pour le registre général des personnes physiques et morales tel qu'il est prévu à la loi modifiée du 19 juin 2013 relative à l'identification des personnes physiques, au registre national des personnes physiques, à la carte d'identité et aux registres communaux des personnes physiques:
 
-1. le numéro d'identification national;
+  - le numéro d'identification national;
 
-2. le nom;
+  - le nom;
 
-3. le prénom;
+  - le prénom;
 
-4. la date et le lieu de naissance et de décès;
+  - la date et le lieu de naissance et de décès;
 
-5. l'adresse légale;
+  - l'adresse légale;
 
-6. pour l'application de l'article 36 de la loi précitée du 2 septembre 2011 , les ascendants et descendants tels que prévus à l'article 5, paragraphe 2, et de la loi précitée du 19 juin 2013 ;
+  - pour l'application de l'article 36 de la loi précitée du 2 septembre 2011 , les ascendants et descendants tels que prévus à l'article 5, paragraphe 2, et de la loi précitée du 19 juin 2013 ;
 
-2. pour le fichier du registre de commerce et des sociétés exploité en vertu de loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises, toutes les informations prévues aux articles 3 à 14 de la loi précitée du 19 décembre 2002 ;
+- pour le fichier du registre de commerce et des sociétés exploité en vertu de loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises, toutes les informations prévues aux articles 3 à 14 de la loi précitée du 19 décembre 2002 ;
 
-3. pour le fichier relatif aux recouvrements et le fichier relatif aux affiliations des salariés, des indépendants et des employeurs gérés par le Centre commun de la sécurité sociale sur la base de l'article 413 du Code de la sécurité sociale :
+- pour le fichier relatif aux recouvrements et le fichier relatif aux affiliations des salariés, des indépendants et des employeurs gérés par le Centre commun de la sécurité sociale sur la base de l'article 413 du Code de la sécurité sociale :
 
-1. la date et la durée de l'affiliation;
+  - la date et la durée de l'affiliation;
 
-2. la durée de travail hebdomadaire;
+  - la durée de travail hebdomadaire;
 
-3. les noms, prénoms, coordonnées et la raison sociale de l'employeur;
+  - les noms, prénoms, coordonnées et la raison sociale de l'employeur;
 
-4. les affiliations auprès d'employeurs antérieurs;
+  - les affiliations auprès d'employeurs antérieurs;
 
-5. les affiliations à charge de l'employeur;
+  - les affiliations à charge de l'employeur;
 
-4. pour le fichier relatif aux demandeurs d'emploi inscrits et le fichier relatif aux déclarations de postes vacants géré par l'Agence pour le développement de l'emploi:
+- pour le fichier relatif aux demandeurs d'emploi inscrits et le fichier relatif aux déclarations de postes vacants géré par l'Agence pour le développement de l'emploi:
 
-1. les données relatives à l'inscription en tant que demandeur d'emploi;
+  - les données relatives à l'inscription en tant que demandeur d'emploi;
 
-2. les qualifications professionnelles du demandeur d'emploi;
+  - les qualifications professionnelles du demandeur d'emploi;
 
-5. pour le fichier relatif aux bénéficiaires du revenu minimum garanti géré respectivement par le Fonds national de solidarité et par le Service national d'action sociale, l'information si un demandeur ou titulaire d'une autorisation d'établissement est bénéficiaire ou non d'un revenu minimum garanti;
+- pour le fichier relatif aux bénéficiaires du revenu minimum garanti géré respectivement par le Fonds national de solidarité et par le Service national d'action sociale, l'information si un demandeur ou titulaire d'une autorisation d'établissement est bénéficiaire ou non d'un revenu minimum garanti;
 
-6. pour le fichier de l'Administration de l'enregistrement et des domaines relatif aux arriérés de TVA, les montants de TVA redus;
+- pour le fichier de l'Administration de l'enregistrement et des domaines relatif aux arriérés de TVA, les montants de TVA redus;
 
-7. pour le fichier de l'Administration des contributions directes relatif aux arriérés d'impôts directs, les impôts directs exigibles;
+- pour le fichier de l'Administration des contributions directes relatif aux arriérés d'impôts directs, les impôts directs exigibles;
 
-8. pour le système d'information sur le marché intérieur, tel qu'il est prévu au règlement (UE) n° 1024/2012 du 25 octobre 2012 concernant la coopération administrative par l'intermédiaire du système d'information du marché intérieur («règlement IMI»), toutes les informations susceptibles d'être transmises par les autorités compétentes connectées au système d'information sur le marché intérieur.
+- pour le système d'information sur le marché intérieur, tel qu'il est prévu au règlement (UE) n° 1024/2012 du 25 octobre 2012 concernant la coopération administrative par l'intermédiaire du système d'information du marché intérieur («règlement IMI»), toutes les informations susceptibles d'être transmises par les autorités compétentes connectées au système d'information sur le marché intérieur.
 
-9. pour le fichier du registre des bénéficiaires effectifs exploité en vertu de la loi modifiée du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs, toutes les informations prévues à l’article 3 de la loi précitée du 13 janvier 2019 .
+- pour le fichier du registre des bénéficiaires effectifs exploité en vertu de la loi modifiée du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs, toutes les informations prévues à l’article 3 de la loi précitée du 13 janvier 2019 .
 
 <a id="art-3"></a>
 ## Art. 3.

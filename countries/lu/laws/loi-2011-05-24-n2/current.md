@@ -70,47 +70,47 @@ Le chapitre 1bis s’applique également aux intermédiaires qui n’ont ni leur
 
 Le chapitre 1er ter s’applique :
 
-1. aux investisseurs institutionnels, dans la mesure où ils investissent directement ou par l'intermédiaire d'un gestionnaire d'actifs dans des actions négociées sur un marché réglementé ;
+- aux investisseurs institutionnels, dans la mesure où ils investissent directement ou par l'intermédiaire d'un gestionnaire d'actifs dans des actions négociées sur un marché réglementé ;
 
-2. aux gestionnaires d'actifs, dans la mesure où ils investissent dans de telles actions au nom d'investisseurs ;
+- aux gestionnaires d'actifs, dans la mesure où ils investissent dans de telles actions au nom d'investisseurs ;
 
-3. aux conseillers en vote, dans la mesure où ils fournissent des services à des actionnaires en ce qui concerne les actions de sociétés qui ont leur siège social dans un État membre.
+- aux conseillers en vote, dans la mesure où ils fournissent des services à des actionnaires en ce qui concerne les actions de sociétés qui ont leur siège social dans un État membre.
 
 (6)
 
 Aux fins de la présente loi on entend par :
 
-1. « actionnaire » : toute personne physique ou morale qui est propriétaire des actions. Est présumé propriétaire celui étant inscrit en tant que tel dans le registre des actionnaires ;
+- « actionnaire » : toute personne physique ou morale qui est propriétaire des actions. Est présumé propriétaire celui étant inscrit en tant que tel dans le registre des actionnaires ;
 
-2. « conseiller en vote » : une personne morale qui analyse, sur une base professionnelle et commerciale, les communications des entreprises et, le cas échéant, d’autres informations de sociétés cotées afin d’éclairer les décisions de vote des investisseurs en effectuant des recherches, en fournissant des conseils ou en formulant des recommandations de vote concernant l’exercice des droits de vote ;
+- « conseiller en vote » : une personne morale qui analyse, sur une base professionnelle et commerciale, les communications des entreprises et, le cas échéant, d’autres informations de sociétés cotées afin d’éclairer les décisions de vote des investisseurs en effectuant des recherches, en fournissant des conseils ou en formulant des recommandations de vote concernant l’exercice des droits de vote ;
 
-3. « dirigeant » : tout membre d’un organe d’administration, de gestion ou de surveillance d’une société ainsi que le directeur général et, si une telle fonction existe au sein d’une société, le directeur général adjoint ;
+- « dirigeant » : tout membre d’un organe d’administration, de gestion ou de surveillance d’une société ainsi que le directeur général et, si une telle fonction existe au sein d’une société, le directeur général adjoint ;
 
-4. 3bis° « États membres » : les États membres de l’Union européenne et les États parties à l’Accord sur l’Espace économique européen autres que les États membres de l’Union Européenne, dans les limites définies par cet accord et les actes y afférents ;
+- 3bis° « États membres » : les États membres de l’Union européenne et les États parties à l’Accord sur l’Espace économique européen autres que les États membres de l’Union Européenne, dans les limites définies par cet accord et les actes y afférents ;
 
-5. « gestionnaire d’actifs » : une entreprise d’investissement au sens de l’article 1 er , paragraphe 1 er , point 16, de la loi du 30 mai 2018 relative aux marchés d’instruments financiers qui fournit des services de gestion de portefeuille à des investisseurs, un gestionnaire de fonds d’investissement alternatif au sens de l’article 1 er , point 46, de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs qui ne remplit pas les conditions d’exemption prévues à l’article 3 de la loi précitée du 12 juillet 2013 ou une société de gestion au sens de l’article 1 er , paragraphe 1 er , point 31), de la loi modifiée du 5 avril 1993 relative au secteur financier ou une société d’investissement qui est agréée conformément à la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, pour autant qu’elle n’ait pas confié sa gestion à une société de gestion agréée au titre de ladite loi ;
+- « gestionnaire d’actifs » : une entreprise d’investissement au sens de l’article 1 er , paragraphe 1 er , point 16, de la loi du 30 mai 2018 relative aux marchés d’instruments financiers qui fournit des services de gestion de portefeuille à des investisseurs, un gestionnaire de fonds d’investissement alternatif au sens de l’article 1 er , point 46, de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs qui ne remplit pas les conditions d’exemption prévues à l’article 3 de la loi précitée du 12 juillet 2013 ou une société de gestion au sens de l’article 1 er , paragraphe 1 er , point 31), de la loi modifiée du 5 avril 1993 relative au secteur financier ou une société d’investissement qui est agréée conformément à la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, pour autant qu’elle n’ait pas confié sa gestion à une société de gestion agréée au titre de ladite loi ;
 
-6. « informations concernant l’identité des actionnaires » : les informations permettant d’établir l’identité d’un actionnaire, y compris, au minimum , les informations suivantes :
+- « informations concernant l’identité des actionnaires » : les informations permettant d’établir l’identité d’un actionnaire, y compris, au minimum , les informations suivantes :
 
-1. le nom des actionnaires et leurs coordonnées (y compris l’adresse complète et, le cas échéant, l’adresse électronique) et, lorsqu’il s’agit de personnes morales, leur numéro de registre ou, à défaut d’un tel numéro, leur identifiant unique, tel que l’identifiant d’entité juridique ;
+  - le nom des actionnaires et leurs coordonnées (y compris l’adresse complète et, le cas échéant, l’adresse électronique) et, lorsqu’il s’agit de personnes morales, leur numéro de registre ou, à défaut d’un tel numéro, leur identifiant unique, tel que l’identifiant d’entité juridique ;
 
-2. le nombre d’actions détenues ;
+  - le nombre d’actions détenues ;
 
-3. uniquement dans la mesure où elles sont exigées par la société, une ou plusieurs des informations suivantes: les catégories ou classes des actions détenues ou la date depuis laquelle les actions sont détenues.
+  - uniquement dans la mesure où elles sont exigées par la société, une ou plusieurs des informations suivantes: les catégories ou classes des actions détenues ou la date depuis laquelle les actions sont détenues.
 
-7. « intermédiaire » : une personne telle qu’une entreprise d’investissement au sens de l’article 1 er , point 16, de la loi du 30 mai 2018 relative aux marchés d’instruments financier, un établissement de crédit au sens de l’article 1 er , point 12, de la loi modifiée du 5 avril 1993 relative au secteur financier et un dépositaire central de titres au sens de l’article 2, paragraphe 1 er , point) 1, du règlement (UE) no 909/2014 du Parlement européen et du Conseil, qui fournit des services de garde d’actions, de gestion d’actions ou de tenue de comptes de titres au nom d’actionnaires ou d’autres personnes ;
+- « intermédiaire » : une personne telle qu’une entreprise d’investissement au sens de l’article 1 er , point 16, de la loi du 30 mai 2018 relative aux marchés d’instruments financier, un établissement de crédit au sens de l’article 1 er , point 12, de la loi modifiée du 5 avril 1993 relative au secteur financier et un dépositaire central de titres au sens de l’article 2, paragraphe 1 er , point) 1, du règlement (UE) no 909/2014 du Parlement européen et du Conseil, qui fournit des services de garde d’actions, de gestion d’actions ou de tenue de comptes de titres au nom d’actionnaires ou d’autres personnes ;
 
-8. « investisseur institutionnel » :
+- « investisseur institutionnel » :
 
-1. une entreprise qui exerce des activités d’assurance vie au sens de l’article 35 de la loi modifiée du 7 décembre 2015 sur le secteur des assurances et de réassurance au sens de l’article 43, point 28, lettres a) et b), de la loi précitée du 7 décembre 2015 pour autant que ces activités couvrent les obligations d’assurance vie, et qui n’est pas exclue en vertu de la loi précitée du 7 décembre 2015 ;
+  - une entreprise qui exerce des activités d’assurance vie au sens de l’article 35 de la loi modifiée du 7 décembre 2015 sur le secteur des assurances et de réassurance au sens de l’article 43, point 28, lettres a) et b), de la loi précitée du 7 décembre 2015 pour autant que ces activités couvrent les obligations d’assurance vie, et qui n’est pas exclue en vertu de la loi précitée du 7 décembre 2015 ;
 
-2. une institution de retraite professionnelle au sens de l’article 1 er de la loi modifiée du 13 juillet 2005 concernant les activités et la surveillance des institutions de retraite professionnelle ;
+  - une institution de retraite professionnelle au sens de l’article 1 er de la loi modifiée du 13 juillet 2005 concernant les activités et la surveillance des institutions de retraite professionnelle ;
 
-9. « marché réglementé » : un marché réglementé au sens de l’article 1 er , point 31, de la loi précitée du 30 mai 2018 relative aux marchés d’instruments financiers, établi ou opérant dans un État Membre de l’Union européenne ;
+- « marché réglementé » : un marché réglementé au sens de l’article 1 er , point 31, de la loi précitée du 30 mai 2018 relative aux marchés d’instruments financiers, établi ou opérant dans un État Membre de l’Union européenne ;
 
-10. « partie liée » : une partie liée au sens des normes comptables internationales adoptées conformément au règlement (CE) no 1606/2002 du Parlement européen et du Conseil du 19 juillet 2002 sur l’application des normes comptables internationales ;
+- « partie liée » : une partie liée au sens des normes comptables internationales adoptées conformément au règlement (CE) no 1606/2002 du Parlement européen et du Conseil du 19 juillet 2002 sur l’application des normes comptables internationales ;
 
-11. 10° « procuration » : un pouvoir donné par un actionnaire à une personne physique ou morale pour exercer au nom de cet actionnaire tout ou partie de ses droits lors de l’assemblée générale.
+- 10° « procuration » : un pouvoir donné par un actionnaire à une personne physique ou morale pour exercer au nom de cet actionnaire tout ou partie de ses droits lors de l’assemblée générale.
 
 #### Chapitre 1er bis Identification des actionnaires, transmission d’informations et facilitation de l’exercice des droits des actionnaires
 
@@ -152,9 +152,9 @@ Transmission d’informations
 
 Les intermédiaires sont tenus de transmettre, sans retard, les informations suivantes de la société à l’actionnaire ou à un tiers désigné par l’actionnaire :
 
-1. les informations que la société est tenue de fournir à l’actionnaire, pour permettre à celui-ci d’exercer les droits découlant de ses actions, et qui sont adressées à tous les détenteurs d’actions de cette classe ; ou
+- les informations que la société est tenue de fournir à l’actionnaire, pour permettre à celui-ci d’exercer les droits découlant de ses actions, et qui sont adressées à tous les détenteurs d’actions de cette classe ; ou
 
-2. lorsque les informations visées au point 1 sont disponibles pour les actionnaires sur le site internet de la société, un avis indiquant à quel endroit sur ce site ces informations peuvent être trouvées.
+- lorsque les informations visées au point 1 sont disponibles pour les actionnaires sur le site internet de la société, un avis indiquant à quel endroit sur ce site ces informations peuvent être trouvées.
 
 (2)
 
@@ -181,9 +181,9 @@ Facilitation de l’exercice des droits des actionnaires
 
 Les intermédiaires doivent faciliter l’exercice par l’actionnaire de ses droits, notamment le droit de participer aux assemblées générales et d’y voter, au moyen d’une des mesures suivantes au minimum :
 
-1. l’intermédiaire prend les mesures nécessaires pour que l’actionnaire ou un tiers désigné par l’actionnaire puisse exercer les droits lui-même ;
+- l’intermédiaire prend les mesures nécessaires pour que l’actionnaire ou un tiers désigné par l’actionnaire puisse exercer les droits lui-même ;
 
-2. l’intermédiaire exerce les droits découlant des actions sur autorisation et instruction explicites de l’actionnaire et dans l’intérêt de l’actionnaire.
+- l’intermédiaire exerce les droits découlant des actions sur autorisation et instruction explicites de l’actionnaire et dans l’intérêt de l’actionnaire.
 
 (2)
 
@@ -219,9 +219,9 @@ Politique d’engagement
 
 Les investisseurs institutionnels et les gestionnaires d’actifs doivent respecter les exigences énoncées aux points 1 et 2 ou doivent rendre publique une explication claire et motivée de la raison pour laquelle ils ont choisi de ne pas respecter une ou plusieurs de ces exigences.
 
-1. Les investisseurs institutionnels et les gestionnaires d’actifs doivent élaborer et rendre publique une politique d’engagement décrivant la manière dont ils intègrent l’engagement des actionnaires dans leur stratégie d’investissement. Cette politique doit décrire la manière dont ils assurent le suivi des sociétés détenues sur des questions pertinentes, y compris la stratégie, les performances financières et non financières ainsi que le risque, la structure du capital, l’impact social et environnemental et la gouvernance d’entreprise, dialoguent avec les sociétés détenues, exercent les droits de vote et d’autres droits attachés aux actions, coopèrent avec les autres actionnaires, communiquent avec les acteurs pertinents des sociétés détenues et gèrent les conflits d’intérêts réels ou potentiels par rapport à leur engagement.
+- Les investisseurs institutionnels et les gestionnaires d’actifs doivent élaborer et rendre publique une politique d’engagement décrivant la manière dont ils intègrent l’engagement des actionnaires dans leur stratégie d’investissement. Cette politique doit décrire la manière dont ils assurent le suivi des sociétés détenues sur des questions pertinentes, y compris la stratégie, les performances financières et non financières ainsi que le risque, la structure du capital, l’impact social et environnemental et la gouvernance d’entreprise, dialoguent avec les sociétés détenues, exercent les droits de vote et d’autres droits attachés aux actions, coopèrent avec les autres actionnaires, communiquent avec les acteurs pertinents des sociétés détenues et gèrent les conflits d’intérêts réels ou potentiels par rapport à leur engagement.
 
-2. Chaque année, les investisseurs institutionnels et les gestionnaires d’actifs doivent rendre publiques les informations sur la manière dont leur politique d’engagement a été mise en œuvre, y compris une description générale de leur comportement de vote, une explication des votes les plus importants et le recours à des services de conseillers en vote. Ils doivent rendre publique la manière dont ils ont exprimé leurs votes lors des assemblées générales des sociétés dont ils détiennent des actions. Cette communication peut exclure les votes qui sont insignifiants en raison de l’objet du vote ou de la taille de la participation dans la société.
+- Chaque année, les investisseurs institutionnels et les gestionnaires d’actifs doivent rendre publiques les informations sur la manière dont leur politique d’engagement a été mise en œuvre, y compris une description générale de leur comportement de vote, une explication des votes les plus importants et le recours à des services de conseillers en vote. Ils doivent rendre publique la manière dont ils ont exprimé leurs votes lors des assemblées générales des sociétés dont ils détiennent des actions. Cette communication peut exclure les votes qui sont insignifiants en raison de l’objet du vote ou de la taille de la participation dans la société.
 
 (2)
 
@@ -246,15 +246,15 @@ Les investisseurs institutionnels doivent rendre publiques la manière dont les 
 
 Lorsqu’un gestionnaire d’actifs investit au nom d’un investisseur institutionnel, soit sur une base discrétionnaire et individualisée, soit par le biais d’un organisme de placement collectif, l’investisseur institutionnel doit rendre publiques les informations suivantes concernant son accord avec le gestionnaire d’actifs :
 
-1. la manière dont l’accord avec le gestionnaire d’actifs incite le gestionnaire d’actifs à aligner sa stratégie et ses décisions d’investissement sur le profil et la durée des engagements de l’investisseur institutionnel, notamment des engagements à long terme ;
+- la manière dont l’accord avec le gestionnaire d’actifs incite le gestionnaire d’actifs à aligner sa stratégie et ses décisions d’investissement sur le profil et la durée des engagements de l’investisseur institutionnel, notamment des engagements à long terme ;
 
-2. la manière dont cet accord incite le gestionnaire d’actifs à prendre des décisions d’investissement fondées sur des évaluations des performances à moyen et à long terme, financières et non financières, de la société détenue et à s’engager à l’égard des sociétés détenues afin d’améliorer leurs performances à moyen et à long terme ;
+- la manière dont cet accord incite le gestionnaire d’actifs à prendre des décisions d’investissement fondées sur des évaluations des performances à moyen et à long terme, financières et non financières, de la société détenue et à s’engager à l’égard des sociétés détenues afin d’améliorer leurs performances à moyen et à long terme ;
 
-3. la manière dont la méthode et l’horizon temporel de l’évaluation des performances du gestionnaire d’actifs et la rémunération des services de gestion d’actifs sont en adéquation avec le profil et la durée des engagements de l’investisseur institutionnel, notamment des engagements à long terme, et tiennent compte des performances absolues à long terme ;
+- la manière dont la méthode et l’horizon temporel de l’évaluation des performances du gestionnaire d’actifs et la rémunération des services de gestion d’actifs sont en adéquation avec le profil et la durée des engagements de l’investisseur institutionnel, notamment des engagements à long terme, et tiennent compte des performances absolues à long terme ;
 
-4. la manière dont l’investisseur institutionnel contrôle les coûts de rotation du portefeuille supportés par le gestionnaire d’actifs et la manière dont il définit et contrôle la rotation ou le taux de rotation d’un portefeuille cible ;
+- la manière dont l’investisseur institutionnel contrôle les coûts de rotation du portefeuille supportés par le gestionnaire d’actifs et la manière dont il définit et contrôle la rotation ou le taux de rotation d’un portefeuille cible ;
 
-5. la durée de l’accord avec le gestionnaire d’actifs.
+- la durée de l’accord avec le gestionnaire d’actifs.
 
 Lorsque l’accord avec le gestionnaire d’actifs ne contient pas un ou plusieurs éléments de ce type, l’investisseur institutionnel doit donner une explication claire et motivée.
 
@@ -294,19 +294,19 @@ Les informations visées au présent paragraphe sont mises gratuitement à la di
 
 Afin d’informer correctement leurs clients sur la teneur exacte et la fiabilité de leurs activités, les conseillers en vote doivent rendre publiques, au moins une fois par an toutes les informations suivantes concernant la préparation de leurs recherches, de leurs conseils et de leurs recommandations de vote :
 
-1. les éléments essentiels des méthodes et des modèles qu’ils appliquent ;
+- les éléments essentiels des méthodes et des modèles qu’ils appliquent ;
 
-2. les principales sources d’information utilisées ;
+- les principales sources d’information utilisées ;
 
-3. les procédures mises en place pour garantir la qualité des recherches, des conseils et des recommandations de vote et les qualifications du personnel concerné ;
+- les procédures mises en place pour garantir la qualité des recherches, des conseils et des recommandations de vote et les qualifications du personnel concerné ;
 
-4. le fait que les situations juridiques, réglementaires et de marché nationales, ainsi que les situations propres à la société, sont prises en compte ou non et, dans l’affirmative, la manière dont elles sont prises en compte ;
+- le fait que les situations juridiques, réglementaires et de marché nationales, ainsi que les situations propres à la société, sont prises en compte ou non et, dans l’affirmative, la manière dont elles sont prises en compte ;
 
-5. les caractéristiques essentielles des politiques de vote appliquées pour chaque marché ;
+- les caractéristiques essentielles des politiques de vote appliquées pour chaque marché ;
 
-6. le fait que des dialogues ont lieu ou non avec les sociétés qui font l’objet de leurs recherches, de leurs conseils ou de leurs recommandations de vote et avec les parties prenantes dans ces sociétés et, dans l’affirmative, la portée et la nature de ces dialogues ;
+- le fait que des dialogues ont lieu ou non avec les sociétés qui font l’objet de leurs recherches, de leurs conseils ou de leurs recommandations de vote et avec les parties prenantes dans ces sociétés et, dans l’affirmative, la portée et la nature de ces dialogues ;
 
-7. la politique en matière de prévention et de gestion des conflits d’intérêts potentiels.
+- la politique en matière de prévention et de gestion des conflits d’intérêts potentiels.
 
 Les informations visées dans le présent paragraphe sont mises gratuitement à la disposition du public sur le site internet des conseillers en vote et restent accessibles gratuitement durant au moins trois ans après la date de publication. Ces informations ne doivent pas nécessairement être communiquées séparément lorsqu’elles sont disponibles dans le cadre de la communication au public prévue au paragraphe 1er.
 
@@ -354,35 +354,35 @@ En tout état de cause, la société ne peut facturer des frais spécifiques pou
 
 La convocation visée au paragraphe 1er, contient au moins les éléments d’information suivants :
 
-1. indique de façon précise la date et le lieu de l’assemblée générale, ainsi que le projet d’ordre du jour de celle-ci ;
+- indique de façon précise la date et le lieu de l’assemblée générale, ainsi que le projet d’ordre du jour de celle-ci ;
 
-2. contient une description claire et précise des procédures que les actionnaires doivent suivre pour être en mesure de participer et de voter à l’assemblée générale. Cette description inclut des informations concernant :
+- contient une description claire et précise des procédures que les actionnaires doivent suivre pour être en mesure de participer et de voter à l’assemblée générale. Cette description inclut des informations concernant :
 
-1. les droits des actionnaires au titre de l’article 4, ainsi que le cas échéant, le délai dans lequel ces droits peuvent être exercés et l’adresse électronique à laquelle les actionnaires peuvent adresser leurs demandes. La convocation peut se limiter à indiquer les délais dans lesquels ces droits peuvent être exercés et ladite adresse électronique, à condition de mentionner que des informations plus détaillées sur ces droits sont disponibles sur le site Internet de la société ;
+  - les droits des actionnaires au titre de l’article 4, ainsi que le cas échéant, le délai dans lequel ces droits peuvent être exercés et l’adresse électronique à laquelle les actionnaires peuvent adresser leurs demandes. La convocation peut se limiter à indiquer les délais dans lesquels ces droits peuvent être exercés et ladite adresse électronique, à condition de mentionner que des informations plus détaillées sur ces droits sont disponibles sur le site Internet de la société ;
 
-2. la procédure à suivre pour voter par procuration, notamment les formulaires à utiliser pour le vote par procuration et les modalités selon lesquelles la société est prête à accepter les notifications, par voie électronique, de désignation d’un mandataire ; et
+  - la procédure à suivre pour voter par procuration, notamment les formulaires à utiliser pour le vote par procuration et les modalités selon lesquelles la société est prête à accepter les notifications, par voie électronique, de désignation d’un mandataire ; et
 
-3. le cas échéant, les procédures permettant de participer à distance à l’assemblée conformément à l’article 6 et de voter par correspondance ou par voie électronique conformément à l’article 10 ;
+  - le cas échéant, les procédures permettant de participer à distance à l’assemblée conformément à l’article 6 et de voter par correspondance ou par voie électronique conformément à l’article 10 ;
 
-3. le cas échéant, l’indication de la date d’enregistrement telle que définie à l’article 5, et de la manière dont les actionnaires doivent se faire enregistrer, ainsi que l’indication que seules les personnes qui sont actionnaires à cette date auront le droit de participer et de voter à l’assemblée générale ;
+- le cas échéant, l’indication de la date d’enregistrement telle que définie à l’article 5, et de la manière dont les actionnaires doivent se faire enregistrer, ainsi que l’indication que seules les personnes qui sont actionnaires à cette date auront le droit de participer et de voter à l’assemblée générale ;
 
-4. l’indication des adresses postale et électronique où il est possible d’obtenir le texte intégral des documents et des projets de résolution visés au paragraphe 4, lettres c) et d), et les démarches à effectuer à cet effet ;
+- l’indication des adresses postale et électronique où il est possible d’obtenir le texte intégral des documents et des projets de résolution visés au paragraphe 4, lettres c) et d), et les démarches à effectuer à cet effet ;
 
-5. l’indication de l’adresse du site Internet sur lequel les informations visées au paragraphe 4 sont disponibles.
+- l’indication de l’adresse du site Internet sur lequel les informations visées au paragraphe 4 sont disponibles.
 
 (4)
 
 Pendant une période ininterrompue commençant le jour de la publication de la convocation à l’assemblée générale et incluant le jour de l’assemblée générale, la société doit mettre à la disposition de ses actionnaires sur son site Internet au moins les informations suivantes :
 
-1. la convocation visée au paragraphe 1 er ;
+- la convocation visée au paragraphe 1 er ;
 
-2. le nombre total d’actions et de droits de vote à la date de la convocation y compris des totaux distincts pour chaque catégorie d’actions, lorsque le capital de la société est divisé en deux catégories d’actions ou plus ;
+- le nombre total d’actions et de droits de vote à la date de la convocation y compris des totaux distincts pour chaque catégorie d’actions, lorsque le capital de la société est divisé en deux catégories d’actions ou plus ;
 
-3. les documents destinés à être présentés à l’assemblée générale ;
+- les documents destinés à être présentés à l’assemblée générale ;
 
-4. un projet de résolution ou, lorsqu’il n’est pas proposé d’adopter une résolution, un commentaire émanant du conseil d’administration ou du directoire, selon le cas, pour chaque point inscrit à l’ordre du jour de l’assemblée générale proposé. En outre, les projets de résolution soumis par les actionnaires sont ajoutés au site Internet dès que possible après leur réception par la société ;
+- un projet de résolution ou, lorsqu’il n’est pas proposé d’adopter une résolution, un commentaire émanant du conseil d’administration ou du directoire, selon le cas, pour chaque point inscrit à l’ordre du jour de l’assemblée générale proposé. En outre, les projets de résolution soumis par les actionnaires sont ajoutés au site Internet dès que possible après leur réception par la société ;
 
-5. le cas échéant, les formulaires à utiliser pour voter par procuration et pour voter par correspondance, sauf si ces formulaires sont adressés directement à chaque actionnaire.
+- le cas échéant, les formulaires à utiliser pour voter par procuration et pour voter par correspondance, sauf si ces formulaires sont adressés directement à chaque actionnaire.
 
 Lorsque les formulaires visés à la lettre e) ne peuvent être rendus accessibles sur le site Internet pour des raisons techniques, la société indique sur son site Internet comment obtenir ces formulaires sous la forme papier. Dans ce cas, la société est tenue d’envoyer les formulaires par le service postal et sans frais à chaque actionnaire qui en fait la demande.
 
@@ -397,9 +397,9 @@ Droit d’inscrire des points à l’ordre du jour de l’assemblée générale 
 
 Un ou plusieurs actionnaires disposant ensemble d’au moins 5% du capital social d’une société :
 
-1. ont le droit d’inscrire des points à l’ordre du jour de l’assemblée générale ; et
+- ont le droit d’inscrire des points à l’ordre du jour de l’assemblée générale ; et
 
-2. ont le droit de déposer des projets de résolution concernant des points inscrits ou à inscrire à l’ordre du jour de l’assemblée générale.
+- ont le droit de déposer des projets de résolution concernant des points inscrits ou à inscrire à l’ordre du jour de l’assemblée générale.
 
 (2)
 
@@ -447,11 +447,11 @@ Participation à l’assemblée générale par voie électronique
 
 Les statuts peuvent prévoir que tout actionnaire peut participer à l’assemblée générale selon toute forme de participation par voie électronique offerte par la société qui assure, notamment une, plusieurs ou toutes les formes de participation ci-après :
 
-1. la transmission de l’assemblée générale en temps réel ;
+- la transmission de l’assemblée générale en temps réel ;
 
-2. la communication bidirectionnelle en temps réel permettant aux actionnaires de s’adresser à l’assemblée générale à partir d’un lieu éloigné ;
+- la communication bidirectionnelle en temps réel permettant aux actionnaires de s’adresser à l’assemblée générale à partir d’un lieu éloigné ;
 
-3. un mécanisme permettant de voter, que ce soit avant ou pendant l’assemblée générale, sans qu’il soit nécessaire de désigner un mandataire devant être physiquement présent lors de l’assemblée.
+- un mécanisme permettant de voter, que ce soit avant ou pendant l’assemblée générale, sans qu’il soit nécessaire de désigner un mandataire devant être physiquement présent lors de l’assemblée.
 
 Tout actionnaire qui participe de cette manière à l’assemblée générale est réputé présent à l’endroit où se tient l’assemblée générale pour le respect des conditions de présence et de majorité.
 
@@ -536,17 +536,17 @@ La société doit établir un rapport sur la rémunération clair et compréhens
 
 S’il y a lieu, le rapport sur la rémunération doit contenir les informations suivantes concernant la rémunération de chaque dirigeant :
 
-1. la rémunération totale ventilée par composante, la proportion relative correspondante de la rémunération fixe et variable, une explication de la manière dont la rémunération totale respecte la politique de rémunération adoptée, y compris la manière dont elle contribue aux performances à long terme de la société, et des informations sur la manière dont les critères de performance ont été appliqués ;
+- la rémunération totale ventilée par composante, la proportion relative correspondante de la rémunération fixe et variable, une explication de la manière dont la rémunération totale respecte la politique de rémunération adoptée, y compris la manière dont elle contribue aux performances à long terme de la société, et des informations sur la manière dont les critères de performance ont été appliqués ;
 
-2. l’évolution annuelle de la rémunération, des performances de la société et de la rémunération moyenne sur une base équivalent temps plein des salariés de la société autres que les dirigeants au cours des cinq exercices les plus récents au moins, présentés ensemble et d’une manière qui permette la comparaison ;
+- l’évolution annuelle de la rémunération, des performances de la société et de la rémunération moyenne sur une base équivalent temps plein des salariés de la société autres que les dirigeants au cours des cinq exercices les plus récents au moins, présentés ensemble et d’une manière qui permette la comparaison ;
 
-3. toute rémunération versée par une entreprise appartenant au même groupe, au sens de l’article 1711-1 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales ;
+- toute rémunération versée par une entreprise appartenant au même groupe, au sens de l’article 1711-1 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales ;
 
-4. le nombre d’actions et le nombre d’options sur actions octroyées ou proposées, ainsi que les principales conditions d’exercice des droits, y compris le prix et la date d’exercice et toute modification de ces conditions ;
+- le nombre d’actions et le nombre d’options sur actions octroyées ou proposées, ainsi que les principales conditions d’exercice des droits, y compris le prix et la date d’exercice et toute modification de ces conditions ;
 
-5. des informations sur l’utilisation de la possibilité de demander la restitution d’une rémunération variable ;
+- des informations sur l’utilisation de la possibilité de demander la restitution d’une rémunération variable ;
 
-6. des informations sur tout écart par rapport à la procédure de mise en œuvre de la politique de rémunération visée à l’article 7 bis , paragraphe 6, et sur toute dérogation appliquée conformément à l’article 7 bis , paragraphe 4, y compris l’explication de la nature des circonstances exceptionnelles et l’indication des éléments spécifiques auxquels il est dérogé.
+- des informations sur tout écart par rapport à la procédure de mise en œuvre de la politique de rémunération visée à l’article 7 bis , paragraphe 6, et sur toute dérogation appliquée conformément à l’article 7 bis , paragraphe 4, y compris l’explication de la nature des circonstances exceptionnelles et l’indication des éléments spécifiques auxquels il est dérogé.
 
 (2)
 
@@ -601,13 +601,13 @@ Les paragraphes 1er à 3 ne s’appliquent pas aux transactions effectuées dans
 
 Les sociétés ne sont pas soumises aux exigences des paragraphes 1er à 3 pour les transactions suivantes :
 
-1. les transactions conclues entre la société et ses filiales, pour autant qu’elles soient détenues en totalité ou qu’aucune autre partie liée de la société ne possède d’intérêt dans la filiale
+- les transactions conclues entre la société et ses filiales, pour autant qu’elles soient détenues en totalité ou qu’aucune autre partie liée de la société ne possède d’intérêt dans la filiale
 
-2. les transactions concernant la rémunération des dirigeants, ou certains éléments de la rémunération des dirigeants, octroyée ou due, conformément à l’article 7 bis ;
+- les transactions concernant la rémunération des dirigeants, ou certains éléments de la rémunération des dirigeants, octroyée ou due, conformément à l’article 7 bis ;
 
-3. les transactions conclues par des établissements de crédit sur la base de mesures visant à préserver leur stabilité, adoptées par la Commission de surveillance du secteur financier ;
+- les transactions conclues par des établissements de crédit sur la base de mesures visant à préserver leur stabilité, adoptées par la Commission de surveillance du secteur financier ;
 
-4. les transactions proposées aux mêmes conditions à tous les actionnaires, lorsque l’égalité de traitement de tous les actionnaires et la protection des intérêts de la société sont assurées.
+- les transactions proposées aux mêmes conditions à tous les actionnaires, lorsque l’égalité de traitement de tous les actionnaires et la protection des intérêts de la société sont assurées.
 
 (7)
 
@@ -634,29 +634,29 @@ Un actionnaire ne peut être représenté que par une seule personne pour une as
 
 Par dérogation à l’alinéa 1er :
 
-1. si un actionnaire détient des actions d’une société sur plus d’un compte-titres, il peut désigner un mandataire distinct pour les actions détenues sur chaque compte-titres pour une assemblée générale donnée ;
+- si un actionnaire détient des actions d’une société sur plus d’un compte-titres, il peut désigner un mandataire distinct pour les actions détenues sur chaque compte-titres pour une assemblée générale donnée ;
 
-2. la personne qualifiée d’actionnaire mais qui agit à titre professionnel pour le compte d’autres personnes physiques ou morales, peut donner procuration à chacune de ces autres personnes physiques ou morales ou à une tierce personne désignée par celles-ci.
+- la personne qualifiée d’actionnaire mais qui agit à titre professionnel pour le compte d’autres personnes physiques ou morales, peut donner procuration à chacune de ces autres personnes physiques ou morales ou à une tierce personne désignée par celles-ci.
 
 (3)
 
 En cas de conflits d’intérêts potentiels entre l’actionnaire et le mandataire qu’il a désigné :
 
-1. le mandataire doit divulguer certains faits précis qui sont pertinents pour permettre à l’actionnaire d’évaluer le risque éventuel que le mandataire puisse poursuivre un intérêt autre que l’intérêt de l’actionnaire ;
+- le mandataire doit divulguer certains faits précis qui sont pertinents pour permettre à l’actionnaire d’évaluer le risque éventuel que le mandataire puisse poursuivre un intérêt autre que l’intérêt de l’actionnaire ;
 
-2. le mandataire n’est autorisé à exercer le droit de vote pour compte de l’actionnaire qu’à la condition qu’il dispose d’instructions de vote spécifiques pour chaque résolution sur laquelle le mandataire doit voter pour compte de l’actionnaire ;
+- le mandataire n’est autorisé à exercer le droit de vote pour compte de l’actionnaire qu’à la condition qu’il dispose d’instructions de vote spécifiques pour chaque résolution sur laquelle le mandataire doit voter pour compte de l’actionnaire ;
 
-3. le transfert d’une procuration à une autre personne est interdit sans préjudice de la possibilité pour un mandataire qui est une personne morale d’exercer par l’intermédiaire d’un membre de son organe d’administration ou de gestion ou d’un de ses employés les pouvoirs qui lui sont conférés.
+- le transfert d’une procuration à une autre personne est interdit sans préjudice de la possibilité pour un mandataire qui est une personne morale d’exercer par l’intermédiaire d’un membre de son organe d’administration ou de gestion ou d’un de ses employés les pouvoirs qui lui sont conférés.
 
 Un conflit d’intérêts au sens du présent paragraphe peut notamment survenir lorsque le mandataire :
 
-1. est un actionnaire qui contrôle la société ou est une autre entité contrôlée par un tel actionnaire ;
+- est un actionnaire qui contrôle la société ou est une autre entité contrôlée par un tel actionnaire ;
 
-2. est un membre de l’organe d’administration, de gestion ou de surveillance de la société ou d’un actionnaire qui la contrôle ou d’une entité contrôlée visée au point i) ;
+- est un membre de l’organe d’administration, de gestion ou de surveillance de la société ou d’un actionnaire qui la contrôle ou d’une entité contrôlée visée au point i) ;
 
-3. est un employé ou un contrôleur légal des comptes de la société, ou de l’actionnaire qui la contrôle ou d’une entité contrôlée visée au point i) ;
+- est un employé ou un contrôleur légal des comptes de la société, ou de l’actionnaire qui la contrôle ou d’une entité contrôlée visée au point i) ;
 
-4. a un lien familial avec une personne physique visée aux points i) à iii).
+- a un lien familial avec une personne physique visée aux points i) à iii).
 
 (4)
 
@@ -696,17 +696,17 @@ Lorsque la société autorise le vote à distance, elle doit être en mesure de 
 
 Le formulaire de vote à distance doit reprendre au moins les mentions suivantes :
 
-1. le nom ou la dénomination sociale de l’actionnaire, son domicile ou son siège social ;
+- le nom ou la dénomination sociale de l’actionnaire, son domicile ou son siège social ;
 
-2. le nombre de voix que l’actionnaire souhaite exprimer à l’assemblée générale ainsi que le sens du vote ou l’abstention ;
+- le nombre de voix que l’actionnaire souhaite exprimer à l’assemblée générale ainsi que le sens du vote ou l’abstention ;
 
-3. la forme des actions détenues ;
+- la forme des actions détenues ;
 
-4. l’ordre du jour de l’assemblée, en ce compris les projets de résolution ;
+- l’ordre du jour de l’assemblée, en ce compris les projets de résolution ;
 
-5. le délai dans lequel le formulaire de vote à distance doit parvenir à la société ;
+- le délai dans lequel le formulaire de vote à distance doit parvenir à la société ;
 
-6. la signature de l’actionnaire, le cas échéant, sous la forme d’une signature électronique qui répond aux conditions des articles 1322-1 et 1322-2 du Code civil .
+- la signature de l’actionnaire, le cas échéant, sous la forme d’une signature électronique qui répond aux conditions des articles 1322-1 et 1322-2 du Code civil .
 
 (3)
 
@@ -753,21 +753,21 @@ Accessibilité des informations sur le point d’accès unique européen
 
 Les informations satisfont aux exigences suivantes :
 
-1. elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
-2. elles sont accompagnées des métadonnées suivantes :
+- elles sont accompagnées des métadonnées suivantes :
 
-1. tous les noms de l’investisseur institutionnel, du gestionnaire d’actifs, du conseiller en vote ou de la société auquel ou à laquelle les informations se rapportent ;
+  - tous les noms de l’investisseur institutionnel, du gestionnaire d’actifs, du conseiller en vote ou de la société auquel ou à laquelle les informations se rapportent ;
 
-2. l’identifiant d’entité juridique de l’investisseur institutionnel, du gestionnaire d’actifs, du conseiller en vote ou de la société, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
+  - l’identifiant d’entité juridique de l’investisseur institutionnel, du gestionnaire d’actifs, du conseiller en vote ou de la société, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
 
-3. la taille de l’investisseur institutionnel, du gestionnaire d’actifs, du conseiller en vote ou de la société, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
+  - la taille de l’investisseur institutionnel, du gestionnaire d’actifs, du conseiller en vote ou de la société, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
 
-4. les secteurs industriels des activités économiques de la société, précisés conformément à l’article 7, paragraphe 4, lettre e), du règlement (UE) 2023/2859 ;
+  - les secteurs industriels des activités économiques de la société, précisés conformément à l’article 7, paragraphe 4, lettre e), du règlement (UE) 2023/2859 ;
 
-5. le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
+  - le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
 
-6. une mention précisant si les informations contiennent des données à caractère personnel.
+  - une mention précisant si les informations contiennent des données à caractère personnel.
 
 (2)
 
@@ -793,7 +793,7 @@ La présente loi entrera en vigueur le 1er jour du 2ème mois qui suit la public
 
 La présente loi ne s'applique pas aux assemblées générales convoquées avant son entrée en vigueur. S'il y a eu plusieurs convocations ou une convocation publiée à des dates différentes, c'est la date de la première convocation ou la première date de la publication qui sera seule prise en compte.
 
-La présente loi ne s'applique pas non plus aux assemblées générales prorogées en application de l'article 450-1, paragraphe 5 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales ou convoquées une nouvelle fois en raison de l'absence de la condition de présence, à condition que les assemblées en question aient été convoquées avant son entrée en vigueur.
+La présente loi ne s'applique pas non plus aux assemblées générales prorogées en application de l' article 450-1, paragraphe 5 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales ou convoquées une nouvelle fois en raison de l'absence de la condition de présence, à condition que les assemblées en question aient été convoquées avant son entrée en vigueur.
 
 #### Chapitre 4 Intitulé de citation
 

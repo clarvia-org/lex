@@ -38,21 +38,21 @@ Il est créé une représentation nationale des parents des élèves de l’ense
 
 La représentation nationale des parents a pour missions :
 
-1. de représenter et de défendre les intérêts des parents d’élèves et de leurs enfants inscrits dans les écoles fondamentales publiques ou privées, les lycées publics ou privés, les Centres de compétences en psycho-pédagogie spécialisée et les services d’éducation et d’accueil pour enfants scolarisés ;
+- de représenter et de défendre les intérêts des parents d’élèves et de leurs enfants inscrits dans les écoles fondamentales publiques ou privées, les lycées publics ou privés, les Centres de compétences en psycho-pédagogie spécialisée et les services d’éducation et d’accueil pour enfants scolarisés ;
 
-2. de soutenir les représentations des parents dans les écoles et lycées dans leurs démarches auprès des directions ;
+- de soutenir les représentations des parents dans les écoles et lycées dans leurs démarches auprès des directions ;
 
-3. de représenter les parents auprès du ministre ayant l’Éducation nationale dans ses attributions, désigné ci-après par « le ministre », et auprès du Gouvernement ;
+- de représenter les parents auprès du ministre ayant l’Éducation nationale dans ses attributions, désigné ci-après par « le ministre », et auprès du Gouvernement ;
 
-4. d’émettre, de sa propre initiative ou sur demande du ministre, un avis sur les projets et propositions de loi et projets pédagogiques ;
+- d’émettre, de sa propre initiative ou sur demande du ministre, un avis sur les projets et propositions de loi et projets pédagogiques ;
 
-5. de formuler des propositions concernant la vie scolaire et les enseignements ;
+- de formuler des propositions concernant la vie scolaire et les enseignements ;
 
-6. de se prononcer sur toutes les questions qui touchent aux intérêts des parents et des élèves ;
+- de se prononcer sur toutes les questions qui touchent aux intérêts des parents et des élèves ;
 
-7. d’organiser des formations de deux heures par an pour les représentants des parents d’élèves ;
+- d’organiser des formations de deux heures par an pour les représentants des parents d’élèves ;
 
-8. d’élaborer un code de déontologie applicable à tous les représentants des parents d’élèves.
+- d’élaborer un code de déontologie applicable à tous les représentants des parents d’élèves.
 
 La représentation nationale des parents peut déléguer aux représentants sectoriels la mission visée à l’alinéa 1er, point 2°, ou se faire assister par ceux-ci. Elle peut également solliciter leur avis dans le cadre des missions visées à l’alinéa 1er, points 4° à 6°.
 
@@ -61,22 +61,22 @@ La représentation nationale des parents peut déléguer aux représentants sect
 
 La représentation nationale des parents est composée par des représentants sectoriels comme suit :
 
-1. quatre représentants des parents des élèves de l’enseignement fondamental ;
+- quatre représentants des parents des élèves de l’enseignement fondamental ;
 
-2. six représentants des parents des élèves de l’enseignement secondaire ;
+- six représentants des parents des élèves de l’enseignement secondaire ;
 
-3. deux représentants des parents des élèves à besoins éducatifs spécifiques.
+- deux représentants des parents des élèves à besoins éducatifs spécifiques.
 
 <a id="art-4"></a>
 ## Art. 4.
 
 La représentation nationale des parents désigne :
 
-1. deux représentants à la commission scolaire nationale de l’enseignement fondamental ;
+- deux représentants à la commission scolaire nationale de l’enseignement fondamental ;
 
-2. quatre représentants au conseil supérieur de l’Éducation nationale ;
+- quatre représentants au conseil supérieur de l’Éducation nationale ;
 
-3. un représentant au forum orientation.
+- un représentant au forum orientation.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -169,39 +169,39 @@ Le ministre a la qualité de responsable du traitement et a la faculté de sous-
 
 Il est créé un système informatique, sous l’autorité du ministre, en vue de la réalisation des finalités suivantes :
 
-1. l’organisation, le fonctionnement et la communication entre les représentants nationaux, les représentants sectoriels et les représentants des parents des élèves ;
+- l’organisation, le fonctionnement et la communication entre les représentants nationaux, les représentants sectoriels et les représentants des parents des élèves ;
 
-2. la communication du ministre à l’attention des représentants nationaux, des représentants sectoriels et des représentants des parents des élèves.
+- la communication du ministre à l’attention des représentants nationaux, des représentants sectoriels et des représentants des parents des élèves.
 
 (3)
 
 Les données des représentants nationaux, des représentants sectoriels et des représentants des parents des élèves qui sont traitées pour les finalités visées au paragraphe 2 et celles visées à l’article 7 sont les suivantes :
 
-1. le nom et le prénom ;
+- le nom et le prénom ;
 
-2. l’adresse électronique ;
+- l’adresse électronique ;
 
-3. les mandats ;
+- les mandats ;
 
-4. l’école, la commune, la direction régionale ou tout autre établissement d’enseignement ou classe tels que visés à l’article 6, paragraphe 2, dont le représentant relève, pour l’enseignement fondamental ;
+- l’école, la commune, la direction régionale ou tout autre établissement d’enseignement ou classe tels que visés à l’article 6, paragraphe 2, dont le représentant relève, pour l’enseignement fondamental ;
 
-5. le lycée ou tout autre établissement d’enseignement ou classe tels que visés à l’article 6, paragraphe 3, dont le représentant relève, pour l’enseignement secondaire ;
+- le lycée ou tout autre établissement d’enseignement ou classe tels que visés à l’article 6, paragraphe 3, dont le représentant relève, pour l’enseignement secondaire ;
 
-6. le Centre de compétences en psycho-pédagogie spécialisée, dont le représentant relève ;
+- le Centre de compétences en psycho-pédagogie spécialisée, dont le représentant relève ;
 
-7. le numéro de téléphone ;
+- le numéro de téléphone ;
 
-8. une photo de profil.
+- une photo de profil.
 
 (4)
 
 Les données qui sont traitées pour les finalités visées à l’article 9 sont les suivantes :
 
-1. pour les bénéficiaires du congé du secteur public ou privé : nom, prénom, matricule, adresse privée, adresse professionnelle, adresse électronique, numéro de téléphone, profession et certificat d’affiliation au Centre commun de la sécurité sociale ;
+- pour les bénéficiaires du congé du secteur public ou privé : nom, prénom, matricule, adresse privée, adresse professionnelle, adresse électronique, numéro de téléphone, profession et certificat d’affiliation au Centre commun de la sécurité sociale ;
 
-2. pour les bénéficiaires du congé exerçant une activité professionnelle indépendante ou libérale : nom, prénom, matricule, adresse privée, adresse professionnelle, adresse électronique, numéro de téléphone, profession, certificat de revenu et relevé d’identité bancaire ;
+- pour les bénéficiaires du congé exerçant une activité professionnelle indépendante ou libérale : nom, prénom, matricule, adresse privée, adresse professionnelle, adresse électronique, numéro de téléphone, profession, certificat de revenu et relevé d’identité bancaire ;
 
-3. dans le cadre du remboursement à l’employeur : nom de l’entreprise, adresse, numéro fiscal, matricule, numéro de téléphone, adresse électronique, fiche de salaire du bénéficiaire du congé pour la période concernée et relevé d’identité bancaire.
+- dans le cadre du remboursement à l’employeur : nom de l’entreprise, adresse, numéro fiscal, matricule, numéro de téléphone, adresse électronique, fiche de salaire du bénéficiaire du congé pour la période concernée et relevé d’identité bancaire.
 
 (5)
 
@@ -227,16 +227,18 @@ Les données spécifiées au paragraphe 3, points 1° à 6°, peuvent être trai
 
 Pour les traitements visés au paragraphe 2 et aux articles 8, paragraphe 3, et 9, les mesures techniques et organisationnelles de sécurité suivantes sont mises en place :
 
-1. l’accès aux données et la possibilité de les traiter sont gérés par un système de gestion des identités et des droits d’accès ;
+- l’accès aux données et la possibilité de les traiter sont gérés par un système de gestion des identités et des droits d’accès ;
 
-2. les informations relatives aux personnes ayant procédé au traitement ainsi que les informations traitées, la date et l’heure du traitement sont enregistrées et conservées pendant un délai de six mois à partir de leur enregistrement, afin que le motif du traitement puisse être retracé. Après ce délai, les données sont effacées, sauf lorsqu’elles font l’objet d’une procédure de contrôle ;
+- les informations relatives aux personnes ayant procédé au traitement ainsi que les informations traitées, la date et l’heure du traitement sont enregistrées et conservées pendant un délai de six mois à partir de leur enregistrement, afin que le motif du traitement puisse être retracé. Après ce délai, les données sont effacées, sauf lorsqu’elles font l’objet d’une procédure de contrôle ;
 
-3. seules les personnes qui en ont besoin dans l’exercice de leur fonction et de leurs tâches professionnelles ont accès aux données. Toute personne qui, à quelque titre que ce soit, intervient dans le cadre des opérations de gestion, de contrôle et de maintenance, et toute personne ayant plus généralement accès au système informatique, est tenue d’en respecter le caractère confidentiel, sauf pour les besoins des échanges strictement nécessaires entre les personnes intervenant dans le traitement des données.
+- seules les personnes qui en ont besoin dans l’exercice de leur fonction et de leurs tâches professionnelles ont accès aux données. Toute personne qui, à quelque titre que ce soit, intervient dans le cadre des opérations de gestion, de contrôle et de maintenance, et toute personne ayant plus généralement accès au système informatique, est tenue d’en respecter le caractère confidentiel, sauf pour les besoins des échanges strictement nécessaires entre les personnes intervenant dans le traitement des données.
 
 <a id="art-11"></a>
 ## Art. 11.
 
-L’article 91, point 14 du Code de la sécurité sociale prend la teneur suivante : les représentants des parents d’élèves participant à une réunion d’une association de parents d’élèves de l’école fondamentale ou de l’enseignement secondaire, ainsi qu’à une réunion dans le cadre de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental, dans le cadre de la loi modifiée du 25 juin 2004 portant organisation des lycées ou dans le cadre de la loi du 1er août 2018 portant création d’une représentation nationale des parents ; ».
+L’article 91, point 14 du Code de la sécurité sociale prend la teneur suivante :
+
+- les représentants des parents d’élèves participant à une réunion d’une association de parents d’élèves de l’école fondamentale ou de l’enseignement secondaire, ainsi qu’à une réunion dans le cadre de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental, dans le cadre de la loi modifiée du 25 juin 2004 portant organisation des lycées ou dans le cadre de la loi du 1er août 2018 portant création d’une représentation nationale des parents ; ».
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -248,27 +250,29 @@ Au livre II, titre III du Code du travail, le chapitre IV est complété par une
 
 L’article 4 de la loi modifiée du 31 juillet 2006 portant introduction d’un Code du travail est modifié comme suit :
 
-1. la lettre i) telle qu’introduite par la loi du 19 décembre 2008 portant réforme de la formation professionnelle devient la lettre k) ;
+- la lettre i) telle qu’introduite par la loi du 19 décembre 2008 portant réforme de la formation professionnelle devient la lettre k) ;
 
-2. les lettres l) et m) suivantes sont ajoutées : la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental ; la loi du 1er août 2018 portant création d’une représentation nationale des parents.
+- les lettres l) et m) suivantes sont ajoutées : la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental ; la loi du 1er août 2018 portant création d’une représentation nationale des parents.
 
 <a id="art-14"></a>
 ## Art. 14.
 
 La loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental est modifiée comme suit :
 
-1. À l’article 48, alinéa 1 er , les mots Tous les deux ans sont remplacés par ceux de Tous les trois ans
+- À l’article 48, alinéa 1 er , les mots Tous les deux ans sont remplacés par ceux de Tous les trois ans
 
-2. L’article 54 est modifié comme suit :
+- L’article 54 est modifié comme suit :
 
-1. À l’alinéa 1 er , point 8, les mots sur proposition de l’organisation représentative des associations des parents d’élèves sont remplacés par les mots termes sur proposition de la représentation nationale des parents ;
+  - À l’alinéa 1 er , point 8, les mots sur proposition de l’organisation représentative des associations des parents d’élèves sont remplacés par les mots termes sur proposition de la représentation nationale des parents ;
 
-2. L’alinéa 3 est supprimé.
+  - L’alinéa 3 est supprimé.
 
 <a id="art-15"></a>
 ## Art. 15.
 
-À l’article 10 de la loi du 22 juin 2017 ayant pour objet l’organisation de la Maison de l’orientation, le point 13 est remplacé par le libellé suivant : d’un représentant désigné par la représentation nationale des parents ;
+À l’article 10 de la loi du 22 juin 2017 ayant pour objet l’organisation de la Maison de l’orientation, le point 13 est remplacé par le libellé suivant :
+
+- d’un représentant désigné par la représentation nationale des parents ;
 
 <a id="art-16"></a>
 ## Art. 16.

@@ -34,143 +34,143 @@ Définitions
 
 Au sens du présent règlement, on entend par :
 
-1. « arbre biotope » : un arbre vivant, situé en forêt, qui présente un diamètre supérieur à 40 centimètres à 1,30 mètre au-dessus du sol et qui présente au moins une des caractéristiques écologiques suivantes :
+- « arbre biotope » : un arbre vivant, situé en forêt, qui présente un diamètre supérieur à 40 centimètres à 1,30 mètre au-dessus du sol et qui présente au moins une des caractéristiques écologiques suivantes :
 
-1. arbre à cavité ou arbre comportant un ou plusieurs sites de reproduction potentiels d’animaux tels qu’une aire de nidification, un trou de pic ou un trou obtenu suite à des branches pourries ;
+  - arbre à cavité ou arbre comportant un ou plusieurs sites de reproduction potentiels d’animaux tels qu’une aire de nidification, un trou de pic ou un trou obtenu suite à des branches pourries ;
 
-2. arbre avec plus de 50 pour cent de la cime cassée ;
+  - arbre avec plus de 50 pour cent de la cime cassée ;
 
-3. arbre comportant plus de 50 pour cent de branches mortes d’un diamètre supérieur à 10 centimètres ;
+  - arbre comportant plus de 50 pour cent de branches mortes d’un diamètre supérieur à 10 centimètres ;
 
-4. arbre comportant des corpuscules reproducteurs de champignons ou une tumeur sur le tronc ;
+  - arbre comportant des corpuscules reproducteurs de champignons ou une tumeur sur le tronc ;
 
-5. arbre comportant une écorce partiellement décollée sur plus d’un quart de la longueur du tronc ou des fissures susceptibles d’héberger des chauves-souris ;
+  - arbre comportant une écorce partiellement décollée sur plus d’un quart de la longueur du tronc ou des fissures susceptibles d’héberger des chauves-souris ;
 
-6. arbre d’un diamètre particulièrement important, supérieur à 100 centimètres à 1,30 mètre au-dessus du sol.
+  - arbre d’un diamètre particulièrement important, supérieur à 100 centimètres à 1,30 mètre au-dessus du sol.
 
-2. « arbre mort » : un arbre mort sur pied, situé en forêt, qui présente un diamètre supérieur à 40 centimètres à 1,30 mètre au-dessus du sol ou un arbre mort à terre, situé en forêt, qui présente un diamètre supérieur à 40 centimètres et une longueur du tronc d’au moins 3 mètres.
+- « arbre mort » : un arbre mort sur pied, situé en forêt, qui présente un diamètre supérieur à 40 centimètres à 1,30 mètre au-dessus du sol ou un arbre mort à terre, situé en forêt, qui présente un diamètre supérieur à 40 centimètres et une longueur du tronc d’au moins 3 mètres.
 
-3. « biotopes protégés forestiers » : les biotopes protégés suivants :
+- « biotopes protégés forestiers » : les biotopes protégés suivants :
 
-1. peuplements d’arbres feuillus [BK 13] ;
+  - peuplements d’arbres feuillus [BK 13] ;
 
-2. chênaies xérophiles à Campanule [BK 14] ;
+  - chênaies xérophiles à Campanule [BK 14] ;
 
-3. lisières forestières structurées [BK 15] ;
+  - lisières forestières structurées [BK 15] ;
 
-4. bosquets composés d’au moins cinquante pourcents d’espèces indigènes [BK 16] ;
+  - bosquets composés d’au moins cinquante pourcents d’espèces indigènes [BK 16] ;
 
-5. futaies mélangées de chêne [BK23].
+  - futaies mélangées de chêne [BK23].
 
-4. « habitats d’intérêt communautaire forestiers » : les habitats d’intérêt communautaire suivants :
+- « habitats d’intérêt communautaire forestiers » : les habitats d’intérêt communautaire suivants :
 
-1. hêtraies du Luzulo-Fagetum [9110] ;
+  - hêtraies du Luzulo-Fagetum [9110] ;
 
-2. hêtraies de l’ Asperulo-Fagetum [9130] ;
+  - hêtraies de l’ Asperulo-Fagetum [9130] ;
 
-3. hêtraies calcicoles médio-européennes du Cephalanthero-Fagion [9150] ;
+  - hêtraies calcicoles médio-européennes du Cephalanthero-Fagion [9150] ;
 
-4. chênaies pédonculées ou chênaies-charmaies sub-atlantiques et médio-européennes du Carpinion betuli [9160] ;
+  - chênaies pédonculées ou chênaies-charmaies sub-atlantiques et médio-européennes du Carpinion betuli [9160] ;
 
-5. forêts de pentes, éboulis ou ravins du Tilio-Acerion [9180]* ;
+  - forêts de pentes, éboulis ou ravins du Tilio-Acerion [9180]* ;
 
-6. tourbières boisées [91D0]* ;
+  - tourbières boisées [91D0]* ;
 
-7. forêts alluviales à Alnus glutinosa et Fraxinus excelsior ( Alno-Padion , Alnion incanae , Salicion albae ) [91E0]* ;
+  - forêts alluviales à Alnus glutinosa et Fraxinus excelsior ( Alno-Padion , Alnion incanae , Salicion albae ) [91E0]* ;
 
-8. formations stables xérothermophiles à Buxus sempervirens des pentes rocheuses (Berberidion p.p.) [5110].
+  - formations stables xérothermophiles à Buxus sempervirens des pentes rocheuses (Berberidion p.p.) [5110].
 
-5. « biotopes protégés des milieux ouverts » : les biotopes protégés suivants :
+- « biotopes protégés des milieux ouverts » : les biotopes protégés suivants :
 
-1. complexes de pelouses pionnières et maigres des zones d’extraction [BK03] ;
+  - complexes de pelouses pionnières et maigres des zones d’extraction [BK03] ;
 
-2. magnocariçaies [BK04] ;
+  - magnocariçaies [BK04] ;
 
-3. roselières ( Phragmition , Phalaridion , Sparganio-Glycerion ) [BK06] ;
+  - roselières ( Phragmition , Phalaridion , Sparganio-Glycerion ) [BK06] ;
 
-4. pelouses maigres sur sols sableux et siliceux [BK07] ;
+  - pelouses maigres sur sols sableux et siliceux [BK07] ;
 
-5. vergers à hautes tiges [BK09] ;
+  - vergers à hautes tiges [BK09] ;
 
-6. prairies humides du Calthion [BK10] ;
+  - prairies humides du Calthion [BK10] ;
 
-7. haies vives et broussailles [BK17] ;
+  - haies vives et broussailles [BK17] ;
 
-8. arbres solitaires, groupes et rangées d’arbres [BK18] ;
+  - arbres solitaires, groupes et rangées d’arbres [BK18] ;
 
-9. chemins ruraux non stabilisés à caractère permanent, incluant les bandes et talus herbacés ou boisés en accotement [BK19].
+  - chemins ruraux non stabilisés à caractère permanent, incluant les bandes et talus herbacés ou boisés en accotement [BK19].
 
-6. « habitats d’intérêt communautaire des milieux ouverts » :
+- « habitats d’intérêt communautaire des milieux ouverts » :
 
-1. landes sèches européennes [4030] ;
+  - landes sèches européennes [4030] ;
 
-2. formations à Juniperus communis sur landes ou pelouses calcaires [5130] ;
+  - formations à Juniperus communis sur landes ou pelouses calcaires [5130] ;
 
-3. pelouses sèches semi-naturelles et faciès d’embuissonnement sur calcaires ( Festuco-Brometalia ) [6210] (*sites d’orchidées remarquables) ;
+  - pelouses sèches semi-naturelles et faciès d’embuissonnement sur calcaires ( Festuco-Brometalia ) [6210] (*sites d’orchidées remarquables) ;
 
-4. formations herbeuses à Nardus , riches en espèces, sur substrats siliceux des zones montagnardes (et des zones submontagnardes de l’Europe continentale) [6230]* ;
+  - formations herbeuses à Nardus , riches en espèces, sur substrats siliceux des zones montagnardes (et des zones submontagnardes de l’Europe continentale) [6230]* ;
 
-5. prairies à Molinia sur sols calcaires, tourbeux ou argilo-limoneux ( Molinion caeruleae ) [6410] ;
+  - prairies à Molinia sur sols calcaires, tourbeux ou argilo-limoneux ( Molinion caeruleae ) [6410] ;
 
-6. prairies maigres de fauche de basse altitude ( Alopecurus pratensis , Sanguisorba officinalis ) [6510].
+  - prairies maigres de fauche de basse altitude ( Alopecurus pratensis , Sanguisorba officinalis ) [6510].
 
-7. « biotopes protégés humides ou aquatiques » :
+- « biotopes protégés humides ou aquatiques » :
 
-1. sources [BK05] ;
+  - sources [BK05] ;
 
-2. eaux stagnantes [BK08] ;
+  - eaux stagnantes [BK08] ;
 
-3. friches humides, marais des sources, bas marais et végétation à petites Laîches [BK11] ;
+  - friches humides, marais des sources, bas marais et végétation à petites Laîches [BK11] ;
 
-4. cours d’eau naturels [BK12].
+  - cours d’eau naturels [BK12].
 
-8. « habitats d’intérêt communautaire humides ou aquatiques » :
+- « habitats d’intérêt communautaire humides ou aquatiques » :
 
-1. eaux stagnantes, oligotrophes à mésotrophes avec végétation du Littorelletea uniflorae et/ou de l’ Isoëto-Nanojuncetea [3130] ;
+  - eaux stagnantes, oligotrophes à mésotrophes avec végétation du Littorelletea uniflorae et/ou de l’ Isoëto-Nanojuncetea [3130] ;
 
-2. eaux oligo-mésotrophes calcaires avec végétation benthique à Chara spp . [3140] ;
+  - eaux oligo-mésotrophes calcaires avec végétation benthique à Chara spp . [3140] ;
 
-3. lacs et plans d’eaux eutrophes naturels avec végétation du Magnopotamion ou Hydrocharition [3150] ;
+  - lacs et plans d’eaux eutrophes naturels avec végétation du Magnopotamion ou Hydrocharition [3150] ;
 
-4. rivières des étages planitiaire à montagnard avec végétation du Ranunculion fluitantis et du Callitricho-Batrachion [3260] ;
+  - rivières des étages planitiaire à montagnard avec végétation du Ranunculion fluitantis et du Callitricho-Batrachion [3260] ;
 
-5. mégaphorbiaies hygrophiles d’ourlets planitiaires et des étages montagnard à alpin [6430] ;
+  - mégaphorbiaies hygrophiles d’ourlets planitiaires et des étages montagnard à alpin [6430] ;
 
-6. tourbières de transition et tremblantes [7140] ; sources pétrifiantes avec formation de travertins (Cratoneurion) [7220]*.
+  - tourbières de transition et tremblantes [7140] ; sources pétrifiantes avec formation de travertins (Cratoneurion) [7220]*.
 
-9. « biotopes protégés rocheux » :
+- « biotopes protégés rocheux » :
 
-1. complexes de parois rocheuses des zones d’extraction [BK01] ;
+  - complexes de parois rocheuses des zones d’extraction [BK01] ;
 
-2. complexes d’éboulis et de blocs rocheux de zones d’extraction [BK02] ;
+  - complexes d’éboulis et de blocs rocheux de zones d’extraction [BK02] ;
 
-3. murs en pierres sèches [BK20] ;
+  - murs en pierres sèches [BK20] ;
 
-4. cairns et murgiers [BK21] ;
+  - cairns et murgiers [BK21] ;
 
-5. cavités souterraines, mines et galeries [BK22].
+  - cavités souterraines, mines et galeries [BK22].
 
-10. « habitats d’intérêt communautaire rocheux » :
+- « habitats d’intérêt communautaire rocheux » :
 
-1. pelouses rupicoles calcaires ou basiphiles de l’ Alysso-Sedion albi [6110]* ;
+  - pelouses rupicoles calcaires ou basiphiles de l’ Alysso-Sedion albi [6110]* ;
 
-2. éboulis médio-européens siliceux des régions hautes [8150] ;
+  - éboulis médio-européens siliceux des régions hautes [8150] ;
 
-3. éboulis médio-européens calcaires des étages collinéen à montagnard [8160]* ;
+  - éboulis médio-européens calcaires des étages collinéen à montagnard [8160]* ;
 
-4. pentes rocheuses calcaires avec végétation chasmophytique [8210] ;
+  - pentes rocheuses calcaires avec végétation chasmophytique [8210] ;
 
-5. pentes rocheuses siliceuses avec végétation chasmophytique [8220] ;
+  - pentes rocheuses siliceuses avec végétation chasmophytique [8220] ;
 
-6. roches siliceuses avec végétation pionnière du Sedo-Scleranthion ou du Sedo albi-Veronicion dillenii [8230] ;
+  - roches siliceuses avec végétation pionnière du Sedo-Scleranthion ou du Sedo albi-Veronicion dillenii [8230] ;
 
-7. grottes non exploitées par le tourisme [8310].
+  - grottes non exploitées par le tourisme [8310].
 
-11. « habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation a été évalué non favorable » : habitats des espèces d’intérêt communautaire visés par la protection de l’article 17 de la loi modifiée du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles correspondant à tous les biotopes ou habitats occupés par lesdites espèces, sous condition que leur venue y est régulière et qu’un lien fonctionnel direct existe entre l’habitat et les spécimens de ces espèces. Outre les sites de reproduction, y inclus tous les habitats essentiels à la reproduction, et les aires de repos, qui sont soumis à une protection particulière par l’article 21 de la loi précitée du 18 juillet 2018 , les habitats des espèces animales d’intérêt communautaire ayant un état de conservation non favorable, visés par l’article 17 de la prédite loi correspondent également aux habitats de chasse ou de recherche de nourriture, ainsi qu’aux couloirs écologiques, régulièrement visités ou occupés.
+- « habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation a été évalué non favorable » : habitats des espèces d’intérêt communautaire visés par la protection de l’article 17 de la loi modifiée du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles correspondant à tous les biotopes ou habitats occupés par lesdites espèces, sous condition que leur venue y est régulière et qu’un lien fonctionnel direct existe entre l’habitat et les spécimens de ces espèces. Outre les sites de reproduction, y inclus tous les habitats essentiels à la reproduction, et les aires de repos, qui sont soumis à une protection particulière par l’article 21 de la loi précitée du 18 juillet 2018 , les habitats des espèces animales d’intérêt communautaire ayant un état de conservation non favorable, visés par l’article 17 de la prédite loi correspondent également aux habitats de chasse ou de recherche de nourriture, ainsi qu’aux couloirs écologiques, régulièrement visités ou occupés.
 
-12. « plan de gestion dûment approuvé » : tout plan arrêté ou approuvé par le ministre en vertu de la loi modifiée du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles, déterminant la gestion à appliquer en fonction de la situation spécifique afin de préserver, voire améliorer l’état de conservation du biotope protégé ou habitat visé.
+- « plan de gestion dûment approuvé » : tout plan arrêté ou approuvé par le ministre en vertu de la loi modifiée du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles, déterminant la gestion à appliquer en fonction de la situation spécifique afin de préserver, voire améliorer l’état de conservation du biotope protégé ou habitat visé.
 
-13. « ministre » : le ministre ayant l’Environnement dans ses attributions.
+- « ministre » : le ministre ayant l’Environnement dans ses attributions.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -181,19 +181,19 @@ Les caractéristiques des biotopes protégés, ainsi que des habitats d’intér
 
 Une évaluation d’un biotope protégé ou d’un habitat d’intérêt communautaire est réalisée au moyen des trois paramètres suivants :
 
-1. la structure et l’aspect général et, selon le type de biotope protégé ou d’habitat d’intérêt communautaire, la stratification ;
+- la structure et l’aspect général et, selon le type de biotope protégé ou d’habitat d’intérêt communautaire, la stratification ;
 
-2. le nombre et la composition en essences ou espèces caractéristiques et, selon le type de biotope protégé ou d’habitat d’intérêt communautaire, leur abondance et leur taux de recouvrement ;
+- le nombre et la composition en essences ou espèces caractéristiques et, selon le type de biotope protégé ou d’habitat d’intérêt communautaire, leur abondance et leur taux de recouvrement ;
 
-3. le degré des détériorations éventuelles.
+- le degré des détériorations éventuelles.
 
 Sur base d’une évaluation, un biotope protégé ou un habitat d’intérêt communautaire est classé dans une des catégories d’état de conservation suivantes :
 
-1. « A » ; équivalant à un excellent état de conservation ;
+- « A » ; équivalant à un excellent état de conservation ;
 
-2. « B » ; équivalant à un bon état de conservation ;
+- « B » ; équivalant à un bon état de conservation ;
 
-3. « C » ; équivalant à un état de conservation moyen à mauvais.
+- « C » ; équivalant à un état de conservation moyen à mauvais.
 
 Les habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation a été évalué non favorable, visés par la protection de l’article 17 de la loi précitée du 18 juillet 2018 correspondent à tous les biotopes ou habitats occupés par lesdites espèces, sous condition que leur venue y est régulière et qu’un lien fonctionnel direct existe entre l’habitat et les spécimens de ces espèces. Outre les sites de reproduction, y inclus tous les habitats essentiels à la reproduction, et les aires de repos, qui sont soumis à une protection particulière par l’article 21 de la loi précitée du 18 juillet 2018, les habitats des espèces animales d’intérêt communautaire ayant un état de conservation non favorable, visés par l’article 17 de la prédite loi correspondent également aux habitats de chasse ou de recherche de nourriture, ainsi qu’aux couloirs écologiques, régulièrement visités ou occupés.
 
@@ -206,75 +206,75 @@ Mesures relatives aux biotopes protégés et habitats forestiers
 
 Les mesures générales de réduction, de destruction ou de détérioration des biotopes protégés forestiers et des habitats d’intérêt communautaire forestiers, et interdites par l’article 17 de la loi précitée du 18 juillet 2018, sont :
 
-1. l’emploi de biocides ou de pesticides ;
+- l’emploi de biocides ou de pesticides ;
 
-2. le pâturage ou le panage, à l’exception des bosquets composés d'au moins cinquante pour cent d'espèces indigènes [BK16] ;
+- le pâturage ou le panage, à l’exception des bosquets composés d'au moins cinquante pour cent d'espèces indigènes [BK16] ;
 
-3. l’enlèvement de la litière forestière ;
+- l’enlèvement de la litière forestière ;
 
-4. le remblayage ou le déblayage ;
+- le remblayage ou le déblayage ;
 
-5. le travail du sol dans la couche minérale ;
+- le travail du sol dans la couche minérale ;
 
-6. l’amendement, le chaulage ou la fertilisation ;
+- l’amendement, le chaulage ou la fertilisation ;
 
-7. le dessouchage ;
+- le dessouchage ;
 
-8. le broyage surfacique de la végétation ;
+- le broyage surfacique de la végétation ;
 
-9. l’essartement à feu courant ;
+- l’essartement à feu courant ;
 
-10. le changement du régime hydrique, le drainage ou le curage ;
+- le changement du régime hydrique, le drainage ou le curage ;
 
-11. la circulation à engins lourds en dehors des chemins forestiers et des layons de débardage ;
+- la circulation à engins lourds en dehors des chemins forestiers et des layons de débardage ;
 
-12. la coupe excessive ne préservant pas, pour chaque hectare, une surface terrière d’au moins quinze mètres carrés dans les futaies et d’au moins dix mètres carrés dans les taillis sous futaie et les taillis ; la superficie d’un hectare visée ci-dessus s’étend d’un seul tenant et appartient à un même propriétaire ;
+- la coupe excessive ne préservant pas, pour chaque hectare, une surface terrière d’au moins quinze mètres carrés dans les futaies et d’au moins dix mètres carrés dans les taillis sous futaie et les taillis ; la superficie d’un hectare visée ci-dessus s’étend d’un seul tenant et appartient à un même propriétaire ;
 
-13. la récolte de l’arbre entier par l’enlèvement du tronc et des branches ;
+- la récolte de l’arbre entier par l’enlèvement du tronc et des branches ;
 
-14. l’enlèvement d’arbres biotopes en-dessous du seuil de deux arbres par hectare ;
+- l’enlèvement d’arbres biotopes en-dessous du seuil de deux arbres par hectare ;
 
-15. l’enlèvement d’arbres morts sur pied ou à terre en-dessous du seuil d’un arbre par hectare ;
+- l’enlèvement d’arbres morts sur pied ou à terre en-dessous du seuil d’un arbre par hectare ;
 
-16. les mesures sylvicoles qui ont pour effet de réduire le taux de recouvrement des essences forestières feuillues adaptées à la station en-dessous du seuil de cinquante pourcent ;
+- les mesures sylvicoles qui ont pour effet de réduire le taux de recouvrement des essences forestières feuillues adaptées à la station en-dessous du seuil de cinquante pourcent ;
 
-17. les plantations réalisées avec des essences résineuses sur plus de cinquante pourcent de la surface ;
+- les plantations réalisées avec des essences résineuses sur plus de cinquante pourcent de la surface ;
 
-18. les plantations réalisées avec des essences résineuses par groupe ou paquet supérieur à dix ares ;
+- les plantations réalisées avec des essences résineuses par groupe ou paquet supérieur à dix ares ;
 
-19. la destruction de la régénération de feuillus, à l’exception des opérations sylvicoles de nettoiement et de dépressage ;
+- la destruction de la régénération de feuillus, à l’exception des opérations sylvicoles de nettoiement et de dépressage ;
 
-20. l’élagage des branches des lisières sur une hauteur de plus de 4,5 mètres du sol.
+- l’élagage des branches des lisières sur une hauteur de plus de 4,5 mètres du sol.
 
 Font partie des biotopes protégés et habitats forestiers visés par l’alinéa 1er :
 
-1. les habitats d’intérêt communautaire forestiers :
+- les habitats d’intérêt communautaire forestiers :
 
-1. hêtraies du Luzulo-Fagetum [9110] ;
+  - hêtraies du Luzulo-Fagetum [9110] ;
 
-2. hêtraies de l’Asperulo-Fagetum [9130] ;
+  - hêtraies de l’Asperulo-Fagetum [9130] ;
 
-3. hêtraies calcicoles médio-européennes du Cephalanthero-Fagion [9150] ;
+  - hêtraies calcicoles médio-européennes du Cephalanthero-Fagion [9150] ;
 
-4. chênaies pédonculées ou chênaies-charmaies sub-atlantiques et médio-européennes du Carpinion betuli [9160] ;
+  - chênaies pédonculées ou chênaies-charmaies sub-atlantiques et médio-européennes du Carpinion betuli [9160] ;
 
-5. forêts de pentes, éboulis ou ravins du Tilio-Acerion * [9180] ;
+  - forêts de pentes, éboulis ou ravins du Tilio-Acerion * [9180] ;
 
-6. tourbières boisées * [91D0] ;
+  - tourbières boisées * [91D0] ;
 
-7. forêts alluviales à Alnus glutinosa et Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae) * [91E0] ;
+  - forêts alluviales à Alnus glutinosa et Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae) * [91E0] ;
 
-8. formations stables xérothermophiles à Buxus sempervirens des pentes rocheuses (Berberidion p.p.) [5110].
+  - formations stables xérothermophiles à Buxus sempervirens des pentes rocheuses (Berberidion p.p.) [5110].
 
-2. les biotopes protégés forestiers :
+- les biotopes protégés forestiers :
 
-1. peuplements d’arbres feuillus [BK13] ;
+  - peuplements d’arbres feuillus [BK13] ;
 
-2. chênaies xérophiles à Campanule [BK14] ;
+  - chênaies xérophiles à Campanule [BK14] ;
 
-3. lisières forestières structurées [BK15] ;
+  - lisières forestières structurées [BK15] ;
 
-4. bosquets composés d'au moins cinquante pour cent d'espèces indigènes [BK16].
+  - bosquets composés d'au moins cinquante pour cent d'espèces indigènes [BK16].
 
 De manière additionnelle à ces mesures générales précitées, des mesures de réduction, de destruction ou de détérioration spécifiques à certains biotopes protégés et habitats d’intérêt communautaire des milieux forestiers sont définies en annexe 2.
 
@@ -285,67 +285,67 @@ Mesures relatives aux biotopes protégés et habitats des milieux ouverts
 
 Les mesures générales de réduction, de destruction ou de détérioration des biotopes protégés et des habitats d’intérêt communautaires des milieux ouverts, et interdites par l’article 17 de la loi précitée du 18 juillet 2018, sont :
 
-1. l’emploi de biocides ou de pesticides ;
+- l’emploi de biocides ou de pesticides ;
 
-2. l’emploi de boues d’épuration, de purin ou de lisier , ainsi que l’emploi de fertilisants minéraux ;
+- l’emploi de boues d’épuration, de purin ou de lisier , ainsi que l’emploi de fertilisants minéraux ;
 
-3. la réduction du nombre, de l’abondance ou du taux de recouvrement des espèces caractéristiques du biotope ou habitat concerné, notamment par un apport inadapté de fertilisant, de chaux ou de tout autre matériau dans le but de modifier la structure ou la fertilité du sol ;
+- la réduction du nombre, de l’abondance ou du taux de recouvrement des espèces caractéristiques du biotope ou habitat concerné, notamment par un apport inadapté de fertilisant, de chaux ou de tout autre matériau dans le but de modifier la structure ou la fertilité du sol ;
 
-4. le travail du sol, le retournement ou le labourage ; les réparations des dégâts de gibier pouvant se faire selon les instructions de l’Administration de la nature et des forêts ;
+- le travail du sol, le retournement ou le labourage ; les réparations des dégâts de gibier pouvant se faire selon les instructions de l’Administration de la nature et des forêts ;
 
-5. le remblayage ou le déblayage ;
+- le remblayage ou le déblayage ;
 
-6. la construction incorporée au sol ou non ;
+- la construction incorporée au sol ou non ;
 
-7. le réensemencement ou le sursemis ;
+- le réensemencement ou le sursemis ;
 
-8. le changement du régime hydrique, le drainage ou le curage ;
+- le changement du régime hydrique, le drainage ou le curage ;
 
-9. l’essartement à feu courant ;
+- l’essartement à feu courant ;
 
-10. le broyage surfacique de la végétation, à l’exception de la lutte mécanique localisée contre les adventices de l’agriculture dans le contexte de la conditionnalité ;
+- le broyage surfacique de la végétation, à l’exception de la lutte mécanique localisée contre les adventices de l’agriculture dans le contexte de la conditionnalité ;
 
-11. l’affouragement du bétail sur la surface même du biotope protégé ou de l’habitat d’intérêt communautaire ;
+- l’affouragement du bétail sur la surface même du biotope protégé ou de l’habitat d’intérêt communautaire ;
 
-12. la surexploitation par fauchage ou par pâturage ;
+- la surexploitation par fauchage ou par pâturage ;
 
-13. le changement d’occupation du sol par reforestation.
+- le changement d’occupation du sol par reforestation.
 
 Font partie des biotopes protégés et habitats des milieux ouverts visés par l’alinéa 1er :
 
-1. les habitats d’intérêt communautaire des milieux ouverts :
+- les habitats d’intérêt communautaire des milieux ouverts :
 
-1. landes sèches européennes [4030] ;
+  - landes sèches européennes [4030] ;
 
-2. formations à Juniperus communis sur landes ou pelouses calcaires [5130] ;
+  - formations à Juniperus communis sur landes ou pelouses calcaires [5130] ;
 
-3. pelouses sèches semi-naturelles et faciès d’embuissonnement sur calcaires (Festuco-Brometalia) [6210] (* sites d’orchidées remarquables) ;
+  - pelouses sèches semi-naturelles et faciès d’embuissonnement sur calcaires (Festuco-Brometalia) [6210] (* sites d’orchidées remarquables) ;
 
-4. formations herbeuses à Nardus, riches en espèces, sur substrats siliceux des zones montagnardes (et des zones submontagnardes de l’Europe continentale) [6230] * ;
+  - formations herbeuses à Nardus, riches en espèces, sur substrats siliceux des zones montagnardes (et des zones submontagnardes de l’Europe continentale) [6230] * ;
 
-5. prairies à Molinia sur sols calcaires, tourbeux ou argilo-limoneux (Molinion caeruleae) [6410] ;
+  - prairies à Molinia sur sols calcaires, tourbeux ou argilo-limoneux (Molinion caeruleae) [6410] ;
 
-6. prairies maigres de fauche de basse altitude (Alopecurus pratensis, Sanguisorba officinalis) [6510].
+  - prairies maigres de fauche de basse altitude (Alopecurus pratensis, Sanguisorba officinalis) [6510].
 
-2. les biotopes protégés des milieux ouverts :
+- les biotopes protégés des milieux ouverts :
 
-1. complexes de pelouses pionnières et maigres des zones d’extraction [BK03] ;
+  - complexes de pelouses pionnières et maigres des zones d’extraction [BK03] ;
 
-2. magnocariçaies [BK04] ;
+  - magnocariçaies [BK04] ;
 
-3. roselières (Phragmition, Phalaridion, Sparganio-Glycerion) [BK06] ;
+  - roselières (Phragmition, Phalaridion, Sparganio-Glycerion) [BK06] ;
 
-4. pelouses maigres sur sols sableux et siliceux [BK07] ;
+  - pelouses maigres sur sols sableux et siliceux [BK07] ;
 
-5. vergers à hautes tiges [BK09] ;
+  - vergers à hautes tiges [BK09] ;
 
-6. prairies humides du Calthion [BK10] ;
+  - prairies humides du Calthion [BK10] ;
 
-7. haies vives et broussailles [BK17] ;
+  - haies vives et broussailles [BK17] ;
 
-8. groupes et rangées d’arbres [BK18] ;
+  - groupes et rangées d’arbres [BK18] ;
 
-9. chemins ruraux non stabilisés à caractère permanent, incluant les bandes et talus herbacés ou boisés en accotement [BK19].
+  - chemins ruraux non stabilisés à caractère permanent, incluant les bandes et talus herbacés ou boisés en accotement [BK19].
 
 De manière additionnelle à ces mesures générales précitées, des mesures de réduction, de destruction ou de détérioration spécifiques à certains biotopes protégés et habitats d’intérêt communautaire des milieux ouverts sont définies en annexe 2.
 
@@ -356,53 +356,53 @@ Mesures relatives aux biotopes protégés et habitats humides ou aquatiques
 
 Les mesures générales de réduction, de destruction ou de détérioration des biotopes protégés et des habitats d’intérêt communautaires humides ou aquatiques, et interdites par l’article 17 de la loi de la loi précitée du 18 juillet 2018, sont :
 
-1. l’emploi de biocides ou de pesticides ;
+- l’emploi de biocides ou de pesticides ;
 
-2. l’amendement, le chaulage ou la fertilisation ;
+- l’amendement, le chaulage ou la fertilisation ;
 
-3. le travail du sol, le retournement ou le labourage ; les réparations des dégâts de gibier pouvant se faire selon les instructions de l’Administration de la nature et des forêts ;
+- le travail du sol, le retournement ou le labourage ; les réparations des dégâts de gibier pouvant se faire selon les instructions de l’Administration de la nature et des forêts ;
 
-4. le remblayage ou le déblayage ;
+- le remblayage ou le déblayage ;
 
-5. la construction incorporée au sol ou non ;
+- la construction incorporée au sol ou non ;
 
-6. le réensemencement ou le sursemis ;
+- le réensemencement ou le sursemis ;
 
-7. l’affouragement du bétail ou l’appâtage du gibier sur la surface même ou dans un rayon de dix mètres autour du biotope protégé ou de l’habitat d’intérêt communautaire ;
+- l’affouragement du bétail ou l’appâtage du gibier sur la surface même ou dans un rayon de dix mètres autour du biotope protégé ou de l’habitat d’intérêt communautaire ;
 
-8. le changement du régime hydrique, la prise d’eau, le captage, le pompage, la dérivation directe ou indirecte, le drainage ou le curage ;
+- le changement du régime hydrique, la prise d’eau, le captage, le pompage, la dérivation directe ou indirecte, le drainage ou le curage ;
 
-9. le broyage surfacique de la végétation, à l’exception de la lutte mécanique localisée contre les adventices de l’agriculture dans le contexte de la conditionnalité ;
+- le broyage surfacique de la végétation, à l’exception de la lutte mécanique localisée contre les adventices de l’agriculture dans le contexte de la conditionnalité ;
 
-10. l’introduction de spécimens de plantes ou d’animaux, indigènes ou non, hormis le repeuplement en poissons indigènes des cours d’eau naturels.
+- l’introduction de spécimens de plantes ou d’animaux, indigènes ou non, hormis le repeuplement en poissons indigènes des cours d’eau naturels.
 
 Font partie des biotopes protégés et habitats humides ou aquatiques visés par l’alinéa 1er :
 
-1. les habitats d’intérêt communautaire humides ou aquatiques :
+- les habitats d’intérêt communautaire humides ou aquatiques :
 
-1. eaux stagnantes, oligotrophes à mésotrophes avec végétation du Littorelletea uniflorae et/ou de l'Isoëto-Nanojuncetea [3130] ;
+  - eaux stagnantes, oligotrophes à mésotrophes avec végétation du Littorelletea uniflorae et/ou de l'Isoëto-Nanojuncetea [3130] ;
 
-2. eaux oligo-mésotrophes calcaires avec végétation benthique à Chara spp. [3140] ;
+  - eaux oligo-mésotrophes calcaires avec végétation benthique à Chara spp. [3140] ;
 
-3. lacs et plans d’eaux eutrophes naturels avec végétation du Magnopotamion ou Hydrocharition [3150] ;
+  - lacs et plans d’eaux eutrophes naturels avec végétation du Magnopotamion ou Hydrocharition [3150] ;
 
-4. rivières des étages planitiaire à montagnard avec végétation du Ranunculion fluitantis et du Callitricho-Batrachion [3260] ;
+  - rivières des étages planitiaire à montagnard avec végétation du Ranunculion fluitantis et du Callitricho-Batrachion [3260] ;
 
-5. mégaphorbiaies hygrophiles d’ourlets planitiaires et des étages montagnard à alpin [6430] ;
+  - mégaphorbiaies hygrophiles d’ourlets planitiaires et des étages montagnard à alpin [6430] ;
 
-6. tourbières de transition et tremblantes [7140] ;
+  - tourbières de transition et tremblantes [7140] ;
 
-7. sources pétrifiantes avec formation de travertins (Cratoneurion) [7220] *.
+  - sources pétrifiantes avec formation de travertins (Cratoneurion) [7220] *.
 
-2. les biotopes protégés humides ou aquatiques :
+- les biotopes protégés humides ou aquatiques :
 
-1. sources [BK05] ;
+  - sources [BK05] ;
 
-2. eaux stagnantes [BK08] ;
+  - eaux stagnantes [BK08] ;
 
-3. friches humides, marais des sources, bas marais et végétation à petites Laîches [BK11] ;
+  - friches humides, marais des sources, bas marais et végétation à petites Laîches [BK11] ;
 
-4. cours d'eau naturels [BK12].
+  - cours d'eau naturels [BK12].
 
 De manière additionnelle à ces mesures générales précitées, des mesures de réduction, de destruction ou de détérioration spécifiques à certains biotopes protégés et habitats d’intérêt communautaire, humides ou aquatiques, sont définies en annexe 2.
 
@@ -413,53 +413,53 @@ Mesures relatives aux biotopes protégés et habitats rocheux
 
 Les mesures générales de réduction, de destruction ou de détérioration des biotopes protégés rocheux et des habitats d’intérêt communautaire rocheux, et interdites par l’article 17 de la loi de la loi précitée du 18 juillet 2018, sont :
 
-1. l’emploi de biocides ou de pesticides ;
+- l’emploi de biocides ou de pesticides ;
 
-2. le remblayage ou le déblayage ;
+- le remblayage ou le déblayage ;
 
-3. la construction incorporée au sol ou non ;
+- la construction incorporée au sol ou non ;
 
-4. le jointage ou le calfeutrement des fentes et fissures ;
+- le jointage ou le calfeutrement des fentes et fissures ;
 
-5. l’amendement, le chaulage ou la fertilisation ;
+- l’amendement, le chaulage ou la fertilisation ;
 
-6. le changement du régime hydrique ;
+- le changement du régime hydrique ;
 
-7. l’essartement à feu courant ;
+- l’essartement à feu courant ;
 
-8. le broyage surfacique de la végétation ;
+- le broyage surfacique de la végétation ;
 
-9. la reforestation.
+- la reforestation.
 
 Font partie des biotopes protégés et des habitats rocheux visés par l’alinéa 1er :
 
-1. les habitats d’intérêt communautaire rocheux :
+- les habitats d’intérêt communautaire rocheux :
 
-1. pelouses rupicoles calcaires ou basiphiles de l’Alysso-Sedion albi [6110] * ;
+  - pelouses rupicoles calcaires ou basiphiles de l’Alysso-Sedion albi [6110] * ;
 
-2. eboulis médio-européens siliceux des régions hautes [8150] ;
+  - eboulis médio-européens siliceux des régions hautes [8150] ;
 
-3. eboulis médio-européens calcaires des étages collinéen à montagnard [8160] * ;
+  - eboulis médio-européens calcaires des étages collinéen à montagnard [8160] * ;
 
-4. pentes rocheuses calcaires avec végétation chasmophytique [8210] ;
+  - pentes rocheuses calcaires avec végétation chasmophytique [8210] ;
 
-5. pentes rocheuses siliceuses avec végétation chasmophytique [8220] ;
+  - pentes rocheuses siliceuses avec végétation chasmophytique [8220] ;
 
-6. roches siliceuses avec végétation pionnière du Sedo-Scleranthion ou du Sedo albi-Veronicion dillenii [8230] ;
+  - roches siliceuses avec végétation pionnière du Sedo-Scleranthion ou du Sedo albi-Veronicion dillenii [8230] ;
 
-7. grottes non exploitées par le tourisme [8310].
+  - grottes non exploitées par le tourisme [8310].
 
-2. les biotopes protégés rocheux :
+- les biotopes protégés rocheux :
 
-1. complexes de parois rocheuses des zones d’extraction [BK01] ;
+  - complexes de parois rocheuses des zones d’extraction [BK01] ;
 
-2. complexes d'éboulis et de blocs rocheux de zones d’extraction [BK02] ;
+  - complexes d'éboulis et de blocs rocheux de zones d’extraction [BK02] ;
 
-3. murs en pierres sèches [BK21] ;
+  - murs en pierres sèches [BK21] ;
 
-4. cairns et murgiers [BK22] ;
+  - cairns et murgiers [BK22] ;
 
-5. cavités souterraines, mines et galeries [BK23].
+  - cavités souterraines, mines et galeries [BK23].
 
 De manière additionnelle à ces mesures générales précitées, des mesures de réduction, de destruction ou de détérioration spécifiques à certains biotopes protégés rocheux et habitats d’intérêt communautaire rocheux sont définies en annexe 2.
 

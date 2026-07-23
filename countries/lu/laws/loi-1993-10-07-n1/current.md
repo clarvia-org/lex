@@ -47,15 +47,15 @@ Le SCRIPT a pour mission de promouvoir, de mettre en œuvre et de coordonner dan
 
 Le SCRIPT comprend six divisions :
 
-1. une division de l’innovation pédagogique et technologique ;
+- une division de l’innovation pédagogique et technologique ;
 
-2. une division de la coordination d’initiatives et de programmes pédagogiques ;
+- une division de la coordination d’initiatives et de programmes pédagogiques ;
 
-3. une division du développement du curriculum ;
+- une division du développement du curriculum ;
 
-4. une division du développement de matériels didactiques ;
+- une division du développement de matériels didactiques ;
 
-5. une division du traitement de données sur la qualité de l’encadrement et de l’offre scolaire et éducative ;
+- une division du traitement de données sur la qualité de l’encadrement et de l’offre scolaire et éducative ;
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -64,55 +64,55 @@ Le SCRIPT comprend six divisions :
 
 La division de l’innovation pédagogique et technologique a pour missions :
 
-1. de contribuer au développement de réformes scolaires et éducatives, et de réaliser dans ce contexte des études de prospection et de faisabilité, ainsi que des projets pilotes ;
+- de contribuer au développement de réformes scolaires et éducatives, et de réaliser dans ce contexte des études de prospection et de faisabilité, ainsi que des projets pilotes ;
 
-2. de coordonner, soutenir et évaluer des projets d’innovation pédagogique et technologique en mettant à la disposition des écoles et lycées, des structures éducatives et des groupes de travail nommés par le ministre, les ressources et l’appui méthodologique nécessaires ;
+- de coordonner, soutenir et évaluer des projets d’innovation pédagogique et technologique en mettant à la disposition des écoles et lycées, des structures éducatives et des groupes de travail nommés par le ministre, les ressources et l’appui méthodologique nécessaires ;
 
-3. de favoriser et de soutenir l’innovation pédagogique et technologique dans les écoles, lycées et structures éducatives en identifiant, documentant et diffusant des exemples de bonne pratique ;
+- de favoriser et de soutenir l’innovation pédagogique et technologique dans les écoles, lycées et structures éducatives en identifiant, documentant et diffusant des exemples de bonne pratique ;
 
-4. de mettre les écoles, les lycées et les structures éducatives en réseau en organisant des réunions d’échanges et des journées d’innovation.
+- de mettre les écoles, les lycées et les structures éducatives en réseau en organisant des réunions d’échanges et des journées d’innovation.
 
 (2)
 
 La division de la coordination d’initiatives et de programmes pédagogiques a pour missions :
 
-1. de promouvoir, coordonner et organiser dans les écoles et les lycées des activités, projets et événements relatifs à la vie publique et sociale de l’élève, et de mettre à disposition des écoles et lycées des ressources financières, méthodologiques et humaines adéquates à cette fin ;
+- de promouvoir, coordonner et organiser dans les écoles et les lycées des activités, projets et événements relatifs à la vie publique et sociale de l’élève, et de mettre à disposition des écoles et lycées des ressources financières, méthodologiques et humaines adéquates à cette fin ;
 
-2. de collaborer, dans le cadre de conventions, avec les associations et institutions du milieu social et culturel, ayant pour objectif de favoriser le développement des compétences personnelles, sociales et communicatives des élèves ;
+- de collaborer, dans le cadre de conventions, avec les associations et institutions du milieu social et culturel, ayant pour objectif de favoriser le développement des compétences personnelles, sociales et communicatives des élèves ;
 
-3. de promouvoir, coordonner et organiser dans les écoles et les lycées des activités relatives à la promotion des sciences et des technologies ;
+- de promouvoir, coordonner et organiser dans les écoles et les lycées des activités relatives à la promotion des sciences et des technologies ;
 
-4. de soutenir des projets de collaboration entre écoles, lycées et structures éducatives.
+- de soutenir des projets de collaboration entre écoles, lycées et structures éducatives.
 
 (3)
 
 La division du développement du curriculum a pour missions :
 
-1. de soutenir et de coordonner les travaux des commissions nationales des programmes et des commissions nationales des formations selon les modalités des articles 7 et 10 de la loi du 13 mars 2018 portant sur le développement curriculaire de l’Éducation nationale ;
+- de soutenir et de coordonner les travaux des commissions nationales des programmes et des commissions nationales des formations selon les modalités des articles 7 et 10 de la loi du 13 mars 2018 portant sur le développement curriculaire de l’Éducation nationale ;
 
-2. de coordonner, soutenir et évaluer des projets d’élaboration et de développement du curriculum en mettant à la dispo- sition des groupes de travail nommés par le ministre, les ressources et l’appui méthodologique nécessaires ;
+- de coordonner, soutenir et évaluer des projets d’élaboration et de développement du curriculum en mettant à la dispo- sition des groupes de travail nommés par le ministre, les ressources et l’appui méthodologique nécessaires ;
 
-3. de collaborer avec l’Université du Luxembourg et les organisations et partenaires nationaux et internationaux ayant dans leurs missions le développement curriculaire.
+- de collaborer avec l’Université du Luxembourg et les organisations et partenaires nationaux et internationaux ayant dans leurs missions le développement curriculaire.
 
-4. de collaborer avec le Conseil national des programmes dans l’organisation de forums selon les modalités fixées à l’article 3 de la loi du 13 mars 2018 portant sur le développement curriculaire de l’Éducation nationale et de mettre à disposition de ce conseil les ressources financières, méthodologiques et humaines adéquates selon l’article 5 de la même loi »
+- de collaborer avec le Conseil national des programmes dans l’organisation de forums selon les modalités fixées à l’article 3 de la loi du 13 mars 2018 portant sur le développement curriculaire de l’Éducation nationale et de mettre à disposition de ce conseil les ressources financières, méthodologiques et humaines adéquates selon l’article 5 de la même loi »
 
 (4)
 
 La division du développement de matériels didactiques a pour missions :
 
-1. de coordonner, soutenir et évaluer des projets d’élaboration de matériels didactiques en mettant à la disposition des groupes de travail nommés par le ministre, les ressources et l’appui méthodologique nécessaires ;
+- de coordonner, soutenir et évaluer des projets d’élaboration de matériels didactiques en mettant à la disposition des groupes de travail nommés par le ministre, les ressources et l’appui méthodologique nécessaires ;
 
-2. de collaborer avec l’Université du Luxembourg et les organisations et partenaires nationaux et internationaux ayant dans leurs missions le développement de matériels didactiques.
+- de collaborer avec l’Université du Luxembourg et les organisations et partenaires nationaux et internationaux ayant dans leurs missions le développement de matériels didactiques.
 
 (5)
 
 La division du traitement de données sur la qualité de l’encadrement et de l’offre scolaire et éducative a pour missions :
 
-1. le recueil, l’analyse et la mise à disposition de données sur la qualité de l’offre scolaire et éducative dans les écoles, les lycées et les structures éducatives ;
+- le recueil, l’analyse et la mise à disposition de données sur la qualité de l’offre scolaire et éducative dans les écoles, les lycées et les structures éducatives ;
 
-2. d’accompagner les structures éducatives, les écoles et les lycées dans leurs démarches d’analyse et d’évaluation de leurs pratiques pédagogiques et de leur enseignement ;
+- d’accompagner les structures éducatives, les écoles et les lycées dans leurs démarches d’analyse et d’évaluation de leurs pratiques pédagogiques et de leur enseignement ;
 
-3. de collaborer avec l’Observatoire national de la qualité scolaire, l’Université du Luxembourg et les autres organisations et partenaires nationaux et internationaux ayant un mandat pour contribuer, par des études, à l’évaluation et l’analyse de la qualité de l’encadrement et de l’offre scolaire et éducative dans les écoles, les lycées et les structures éducatives.
+- de collaborer avec l’Observatoire national de la qualité scolaire, l’Université du Luxembourg et les autres organisations et partenaires nationaux et internationaux ayant un mandat pour contribuer, par des études, à l’évaluation et l’analyse de la qualité de l’encadrement et de l’offre scolaire et éducative dans les écoles, les lycées et les structures éducatives.
 
 ##### Direction et personnel
 
@@ -189,21 +189,21 @@ Dans le cadre des missions définies à l’article suivant, le Centre est comp�
 
 Le Centre a pour mission :
 
-1. de promouvoir l’étude, la conception, le développement et l’exploitation d’applications informatiques pour les besoins de l’administration de l’Éducation nationale;
+- de promouvoir l’étude, la conception, le développement et l’exploitation d’applications informatiques pour les besoins de l’administration de l’Éducation nationale;
 
-2. d’encourager le conseil technique en matière d’acquisitions, d’installations, d’équipements et de maintenance;
+- d’encourager le conseil technique en matière d’acquisitions, d’installations, d’équipements et de maintenance;
 
-3. d’assumer la gestion et le traitement des données des élèves, du personnel et de l’administration de l’Éducation nationale;
+- d’assumer la gestion et le traitement des données des élèves, du personnel et de l’administration de l’Éducation nationale;
 
-4. de garantir la sécurité de l’informatique et le respect de la protection des données à caractère personnel;
+- de garantir la sécurité de l’informatique et le respect de la protection des données à caractère personnel;
 
-5. de gérer la mise en place et l’exploitation de plateformes internet, intranet et extranet;
+- de gérer la mise en place et l’exploitation de plateformes internet, intranet et extranet;
 
-6. d’assurer le suivi et l’évolution de l’outil informatique, y compris la fixation des standards technologiques et la veille technologique;
+- d’assurer le suivi et l’évolution de l’outil informatique, y compris la fixation des standards technologiques et la veille technologique;
 
-7. de faciliter les relations avec des services et organismes luxembourgeois ou étrangers ayant des missions similaires.
+- de faciliter les relations avec des services et organismes luxembourgeois ou étrangers ayant des missions similaires.
 
-8. de coordonner et de financer l’acquisition, l’installation, la maintenance et l’assistance technique concernant le matériel relatif aux technologies de l’information et de la communication dans les établissements de l’enseignement secondaire public.
+- de coordonner et de financer l’acquisition, l’installation, la maintenance et l’assistance technique concernant le matériel relatif aux technologies de l’information et de la communication dans les établissements de l’enseignement secondaire public.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -221,31 +221,31 @@ Le Centre comprend deux divisions:
 
 La division «Études et développements» a pour missions:
 
-1. la promotion et l’organisation de l’informatisation, notamment en ce qui concerne la collecte, la transmission et le traitement des données;
+- la promotion et l’organisation de l’informatisation, notamment en ce qui concerne la collecte, la transmission et le traitement des données;
 
-2. l’étude, le développement, la maîtrise d’ouvrage, la maintenance, l’hébergement et l’exploitation d’applications existantes ou à développer;
+- l’étude, le développement, la maîtrise d’ouvrage, la maintenance, l’hébergement et l’exploitation d’applications existantes ou à développer;
 
-3. le support organisationnel et l’accompagnement de projets informatiques;
+- le support organisationnel et l’accompagnement de projets informatiques;
 
-4. la recherche de synergies et l’optimisation des échanges d’informations;
+- la recherche de synergies et l’optimisation des échanges d’informations;
 
-5. la mise en place et l’exploitation de plateformes de collaboration et d’information;
+- la mise en place et l’exploitation de plateformes de collaboration et d’information;
 
-6. la spécification, la traduction, le contrôle et la mise en œuvre des besoins fonctionnels en projets informatiques.
+- la spécification, la traduction, le contrôle et la mise en œuvre des besoins fonctionnels en projets informatiques.
 
 La division «Informatique distribuée et support» assure en collaboration étroite avec le Centre des Technologies de l’Information de l’État:
 
-1. l’acquisition, la gestion et l’inventaire d’équipements informatiques et bureautiques;
+- l’acquisition, la gestion et l’inventaire d’équipements informatiques et bureautiques;
 
-2. le conseil et l’assistance techniques de l’administration de l’Éducation nationale dans l’exécution des travaux courants d’informatique notamment en matière d’installations, d’équipements et de maintenance;
+- le conseil et l’assistance techniques de l’administration de l’Éducation nationale dans l’exécution des travaux courants d’informatique notamment en matière d’installations, d’équipements et de maintenance;
 
-3. la gestion des équipements informatiques appropriés à l’accomplissement de ses attributions;
+- la gestion des équipements informatiques appropriés à l’accomplissement de ses attributions;
 
-4. la sécurité au sein du réseau informatique commun RESTENA en collaboration avec le CRT gouvernemental (Computer Emergency Response Team, GOVCERT.LU) et RESTENA-CSIRT;
+- la sécurité au sein du réseau informatique commun RESTENA en collaboration avec le CRT gouvernemental (Computer Emergency Response Team, GOVCERT.LU) et RESTENA-CSIRT;
 
-5. la sécurité de l’informatique et le respect des dispositions de la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel, dans les limites de ses attributions;
+- la sécurité de l’informatique et le respect des dispositions de la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel, dans les limites de ses attributions;
 
-6. la gestion d’un centre de support destiné aux utilisateurs internes et externes des systèmes d’informations gérés par le Centre.
+- la gestion d’un centre de support destiné aux utilisateurs internes et externes des systèmes d’informations gérés par le Centre.
 
 Pour l’exécution de ces missions, le Centre s’engage à respecter les normes de qualité et de sécurité déterminées par le Centre des Technologies de l’Information de l’État.
 
@@ -305,13 +305,13 @@ Il est créé sous l’autorité du ministre un Conseil scientifique auprès du 
 
 Le Conseil a pour mission:
 
-1. d’aviser les programmes d’action et les rapports d’activités de chaque division du SCRIPT;
+- d’aviser les programmes d’action et les rapports d’activités de chaque division du SCRIPT;
 
-2. de proposer au ministre des critères d’évaluation de la qualité du système éducatif ainsi que des sujets susceptibles de faire l’objet d’une évaluation;
+- de proposer au ministre des critères d’évaluation de la qualité du système éducatif ainsi que des sujets susceptibles de faire l’objet d’une évaluation;
 
-3. d’entériner les documents se rapportant à l’évaluation du système éducatif élaborés par l’institut universitaire;
+- d’entériner les documents se rapportant à l’évaluation du système éducatif élaborés par l’institut universitaire;
 
-4. de donner son avis sur toutes les questions qui lui sont soumises par le ministre. Il peut de sa propre initiative faire des recommandations au ministre.
+- de donner son avis sur toutes les questions qui lui sont soumises par le ministre. Il peut de sa propre initiative faire des recommandations au ministre.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -338,15 +338,15 @@ Il est créé sous l’autorité du ministre un Comité de gouvernance informati
 
 Le Comité a pour missions:
 
-1. de donner son avis sur les questions qui lui sont soumises par le ministre;
+- de donner son avis sur les questions qui lui sont soumises par le ministre;
 
-2. de présenter de sa propre initiative au ministre des propositions, suggestions et informations en relation avec les actions et les mesures à prendre en matière de gouvernance électronique;
+- de présenter de sa propre initiative au ministre des propositions, suggestions et informations en relation avec les actions et les mesures à prendre en matière de gouvernance électronique;
 
-3. de soumettre au ministre un programme d’actions annuel en matière de gestion informatique de l’administration de l’Éducation nationale;
+- de soumettre au ministre un programme d’actions annuel en matière de gestion informatique de l’administration de l’Éducation nationale;
 
-4. d’aviser les projets d’informatisation des processus de l’administration de l’Éducation nationale et d’en assurer le suivi;
+- d’aviser les projets d’informatisation des processus de l’administration de l’Éducation nationale et d’en assurer le suivi;
 
-5. de conseiller, d’office ou sur demande, les responsables des services de l’administration de l’Éducation nationale et le directeur du Centre sur toute question relative à l’organisation et l’automatisation de l’administration.
+- de conseiller, d’office ou sur demande, les responsables des services de l’administration de l’Éducation nationale et le directeur du Centre sur toute question relative à l’organisation et l’automatisation de l’administration.
 
 <a id="art-23ter"></a>
 ## Art. 23ter.
@@ -386,21 +386,21 @@ Le personnel du SCRIPT et du Centre peut comprendre en outre des stagiaires, des
 <a id="art-29"></a>
 ## Art. 29.
 
-1. Les modifications et additions ci-après sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des fonctionnaires de l’État:
+- Les modifications et additions ci-après sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des fonctionnaires de l’État:
 
-1. L’annexe A - Classification des fonctions - est modifiée comme suit:
+  - L’annexe A - Classification des fonctions - est modifiée comme suit:
 
-- Rubrique I. Administration générale: Au grade 9, la mention «Différents établissements scolaires - bibliothécaire-documentaliste [II-26,VI-13 a]» est remplacée par la mention «Différentes administrations - bibliothécaire-documentaliste [II-26,VI-13a]».
+    - Rubrique I. Administration générale: Au grade 9, la mention «Différents établissements scolaires - bibliothécaire-documentaliste [II-26,VI-13 a]» est remplacée par la mention «Différentes administrations - bibliothécaire-documentaliste [II-26,VI-13a]».
 
-- Rubrique IV. Enseignement: à ajouter au grade E8 la mention «Centre de Technologie de l’Éducation - directeur».
+    - Rubrique IV. Enseignement: à ajouter au grade E8 la mention «Centre de Technologie de l’Éducation - directeur».
 
-2. L’annexe D - Détermination est modifiée comme suit: - Rubrique IV. Enseignement: à ajouter au grade E8 la mention «Directeur du Centre de Technologie de l’Éducation - grade de computation de la bonification d’ancienneté: E7».
+  - L’annexe D - Détermination est modifiée comme suit: - Rubrique IV. Enseignement: à ajouter au grade E8 la mention «Directeur du Centre de Technologie de l’Éducation - grade de computation de la bonification d’ancienneté: E7».
 
-1. des carrières inférieures, moyennes et supérieures;
+    - des carrières inférieures, moyennes et supérieures;
 
-2. du grade de computation de la bonification d’ancienneté de service pour la fixation du traitement initial;
+    - du grade de computation de la bonification d’ancienneté de service pour la fixation du traitement initial;
 
-2. L’article 13, paragraphe 10, de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’État, telle qu’elle a été modifiée et nouvellement coordonnée par la loi du 29 juillet 1988, est complété comme suit : Il en est de même du fonctionnaire-directeur du Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques bénéficiaire du supplément de traitement prévu à l’article 29 de la loi du 7 octobre 1993 portant sur a. la création d’un Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques, b. la création d’un Centre de Technologie de l’Éducation, c. l’institution d’une Commission d’Innovation et de Recherche en Éducation, en raison d’un trentième pour chaque année de jouissance.
+- L’article 13, paragraphe 10, de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’État, telle qu’elle a été modifiée et nouvellement coordonnée par la loi du 29 juillet 1988, est complété comme suit : Il en est de même du fonctionnaire-directeur du Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques bénéficiaire du supplément de traitement prévu à l’article 29 de la loi du 7 octobre 1993 portant sur a. la création d’un Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques, b. la création d’un Centre de Technologie de l’Éducation, c. l’institution d’une Commission d’Innovation et de Recherche en Éducation, en raison d’un trentième pour chaque année de jouissance.
 
 <a id="art-30"></a>
 ## Art. 30.

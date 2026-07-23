@@ -48,42 +48,42 @@ Par dérogation à l’article 10, paragraphe 2 du même règlement, l’obtenti
 
 Par dérogation à l’article 11, paragraphe 1er, alinéa 2 du même règlement, l’examen pour l’obtention du premier prix comprend, pour l’année scolaire 2019/2020, en sus des modalités définies à l’article 57, les épreuves suivantes :
 
-1. une mise en loge de cinq heures qui compte pour un tiers de la note finale ;
+- une mise en loge de cinq heures qui compte pour un tiers de la note finale ;
 
-2. une mise en loge de cinq heures qui compte pour la moitié de la note finale ;
+- une mise en loge de cinq heures qui compte pour la moitié de la note finale ;
 
-3. une épreuve orale qui compte pour un sixième de la note finale. Le temps de préparation de l’élève pour cette épreuve est de trente minutes.
+- une épreuve orale qui compte pour un sixième de la note finale. Le temps de préparation de l’élève pour cette épreuve est de trente minutes.
 
 <a id="art-5"></a>
 ## Art. 5.
 
 Par dérogation à l’article 54, paragraphes 2 et 3 du même règlement, chaque examen comporte, pour l’année scolaire 2019/2020, une épreuve technique à huis clos dont le contenu est fixé pour chaque branche dans les programmes d’études respectifs, à l’exception des branches suivantes pour lesquelles un dossier d’évaluation de l’élève est élaboré par l’enseignant, lequel propose une note finale à valider par le directeur ou chargé de la direction de l’établissement. Le contenu du dossier d’évaluation est défini par le directeur ou chargé de la direction de l’établissement en fonction des matières prévues dans le programme d’études respectif et celles traitées en cours :
 
-1. formation musicale visée à l’annexe 4,
+- formation musicale visée à l’annexe 4,
 
-2. analyse musicale visée à l’annexe 9,
+- analyse musicale visée à l’annexe 9,
 
-3. contrepoint visé à l’annexe 10,
+- contrepoint visé à l’annexe 10,
 
-4. lecture-déchiffrage visée à l’annexe 47,
+- lecture-déchiffrage visée à l’annexe 47,
 
-5. musique de chambre visée à l’annexe 49,
+- musique de chambre visée à l’annexe 49,
 
-6. art lyrique visé à l’annexe 52,
+- art lyrique visé à l’annexe 52,
 
-7. direction visée aux annexes 54 et 55,
+- direction visée aux annexes 54 et 55,
 
-8. analyse jazz visée à l’annexe 59,
+- analyse jazz visée à l’annexe 59,
 
-9. déchiffrage jazz visé à l’annexe 60,
+- déchiffrage jazz visé à l’annexe 60,
 
-10. harmonie jazz visée à l’annexe 61,
+- harmonie jazz visée à l’annexe 61,
 
-11. art dramatique visé aux annexes 65 et 66,
+- art dramatique visé aux annexes 65 et 66,
 
-12. danse visée aux annexes 68 à 70,
+- danse visée aux annexes 68 à 70,
 
-13. formation musicale pour danseurs visée à l’annexe 71.
+- formation musicale pour danseurs visée à l’annexe 71.
 
 L’épreuve et la note finale dans le dossier d’évaluation sont cotées chacune sur un maximum de soixante points.
 
@@ -96,25 +96,25 @@ Par dérogation à l’alinéa 3, la note finale de la formation musicale se com
 
 Par dérogation à l’article 57, paragraphe 2 et paragraphe 3, alinéa 4 du même règlement, l’examen comprend, pour l’année scolaire 2019/2020, une épreuve technique à huis clos dont le contenu est fixé pour chaque branche dans les programmes d’études respectifs et une épreuve définie par la direction de l’établissement, à l’exception des branches suivantes dont chaque épreuve d’examen est définie par l’établissement en fonction des matières prévues dans les programmes d’études respectifs et traitées en cours avant l’épreuve d’examen :
 
-1. formation musicale visée à l’annexe 4,
+- formation musicale visée à l’annexe 4,
 
-2. analyse musicale visée à l’annexe 9,
+- analyse musicale visée à l’annexe 9,
 
-3. contrepoint visé à l’annexe 10,
+- contrepoint visé à l’annexe 10,
 
-4. musique de chambre visée à l’annexe 49,
+- musique de chambre visée à l’annexe 49,
 
-5. art lyrique visé à l’annexe 52,
+- art lyrique visé à l’annexe 52,
 
-6. direction visée aux annexes 54 et 55,
+- direction visée aux annexes 54 et 55,
 
-7. analyse jazz visée à l’annexe 59,
+- analyse jazz visée à l’annexe 59,
 
-8. harmonie jazz visée à l’annexe 61,
+- harmonie jazz visée à l’annexe 61,
 
-9. art dramatique visé aux annexes 65 et 66,
+- art dramatique visé aux annexes 65 et 66,
 
-10. danse visée aux annexes 68 à 70.
+- danse visée aux annexes 68 à 70.
 
 La composition de ces épreuves ainsi que de la note finale sont définies, pour l’année scolaire 2019/2020, par le directeur ou chargé de la direction de l’établissement.
 
@@ -123,9 +123,9 @@ La composition de ces épreuves ainsi que de la note finale sont définies, pour
 
 Par dérogation à l’article 63 du même règlement :
 
-1. L’inscription pour les épreuves prévues se fait, pour l’année scolaire 2019/2020, par l’enseignant auprès du conservatoire de l’élève avant le 1 er novembre pour l’épreuve ayant lieu en février ou mars de la même année scolaire et avant le 1 er juin pour l’épreuve ayant lieu en juin, juillet ou septembre. Dans les branches pour lesquelles sont prévues une épreuve d’admission et un examen, l’élève peut choisir entre deux périodes pour les épreuves, soit au mois de février ou mars, soit au mois de juin, juillet ou septembre tout en respectant le nombre total d’années d’études autorisées en division supérieure. L’inscription, accompagnée des diplômes ou certifications attestant les résultats obtenus des études accomplies de l’élève, est envoyée début novembre ou début juin, en fonction des périodes choisies, par le conservatoire au commissaire pour contrôle et validation. En cas d’une irrégularité constatée par le commissaire, le conservatoire est informé, au plus tard, dans un délai d’un mois après la réception de l’inscription de l’élève.
+- L’inscription pour les épreuves prévues se fait, pour l’année scolaire 2019/2020, par l’enseignant auprès du conservatoire de l’élève avant le 1 er novembre pour l’épreuve ayant lieu en février ou mars de la même année scolaire et avant le 1 er juin pour l’épreuve ayant lieu en juin, juillet ou septembre. Dans les branches pour lesquelles sont prévues une épreuve d’admission et un examen, l’élève peut choisir entre deux périodes pour les épreuves, soit au mois de février ou mars, soit au mois de juin, juillet ou septembre tout en respectant le nombre total d’années d’études autorisées en division supérieure. L’inscription, accompagnée des diplômes ou certifications attestant les résultats obtenus des études accomplies de l’élève, est envoyée début novembre ou début juin, en fonction des périodes choisies, par le conservatoire au commissaire pour contrôle et validation. En cas d’une irrégularité constatée par le commissaire, le conservatoire est informé, au plus tard, dans un délai d’un mois après la réception de l’inscription de l’élève.
 
-2. La date et le lieu de l’examen pour l’obtention du diplôme supérieur sont fixés, pour l’année scolaire 2019/2020, d’un commun accord entre les directeurs des conservatoires et le commissaire. La date et le lieu sont communiqués à l’élève par le directeur de son conservatoire. Le jury de l’examen est composé de cinq membres au plus, dont au moins un membre est un directeur ou un directeur adjoint ou un enseignant d’un autre conservatoire et au moins un membre est un spécialiste de la branche concernée qui n’appartient pas au personnel enseignant d’un des conservatoires. Le directeur du conservatoire organisateur, ou son délégué, assure la présidence du jury. Aucun membre du jury ne peut prendre part à l’examen d’un de ses élèves, de son conjoint ou partenaire au titre de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, ou encore d’un parent ou allié jusqu’au quatrième degré inclus. La composition du jury, laquelle est à soumettre pour avis au commissaire, le déroulement des délibérations et le financement sont organisés et assurés par la commune du conservatoire organisateur.
+- La date et le lieu de l’examen pour l’obtention du diplôme supérieur sont fixés, pour l’année scolaire 2019/2020, d’un commun accord entre les directeurs des conservatoires et le commissaire. La date et le lieu sont communiqués à l’élève par le directeur de son conservatoire. Le jury de l’examen est composé de cinq membres au plus, dont au moins un membre est un directeur ou un directeur adjoint ou un enseignant d’un autre conservatoire et au moins un membre est un spécialiste de la branche concernée qui n’appartient pas au personnel enseignant d’un des conservatoires. Le directeur du conservatoire organisateur, ou son délégué, assure la présidence du jury. Aucun membre du jury ne peut prendre part à l’examen d’un de ses élèves, de son conjoint ou partenaire au titre de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, ou encore d’un parent ou allié jusqu’au quatrième degré inclus. La composition du jury, laquelle est à soumettre pour avis au commissaire, le déroulement des délibérations et le financement sont organisés et assurés par la commune du conservatoire organisateur.
 
 <a id="art-8"></a>
 ## Art. 8.

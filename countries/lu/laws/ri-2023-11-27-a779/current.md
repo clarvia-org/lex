@@ -93,13 +93,13 @@ Chaque membre du Gouvernement prend directement les décisions qui concernent le
 
 Sont délibérées en Conseil :
 
-1. les affaires à soumettre à la signature du Grand-Duc, à l’exception des actes relatifs à l’exercice des droits régaliens ;
+- les affaires à soumettre à la signature du Grand-Duc, à l’exception des actes relatifs à l’exercice des droits régaliens ;
 
-2. les affaires qui concernent à la fois plusieurs départements ;
+- les affaires qui concernent à la fois plusieurs départements ;
 
-3. les affaires qui concernent le Gouvernement sur proposition du Premier ministre ;
+- les affaires qui concernent le Gouvernement sur proposition du Premier ministre ;
 
-4. les affaires qui concernent le département d’un membre du Gouvernement et pour lesquelles ce dernier propose une décision du Conseil.
+- les affaires qui concernent le département d’un membre du Gouvernement et pour lesquelles ce dernier propose une décision du Conseil.
 
 En application des articles 76 et 95, alinéa 1er de la Constitution, les avant-projets de lois qui sont soumis au Conseil de Gouvernement pour approbation font l’objet d’un dépôt à la Chambre des Députés et d’une saisine simultanée du Conseil d’État par voie d’arrêté du Premier ministre.
 

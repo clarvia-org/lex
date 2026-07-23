@@ -32,41 +32,41 @@ Définitions.
 
 Aux fins du présent règlement grand-ducal, il y a lieu d'entendre par:
 
-1. «la loi»: la loi du 12 novembre 2002 relative aux activités privées de gardiennage et de surveillance;
+- «la loi»: la loi du 12 novembre 2002 relative aux activités privées de gardiennage et de surveillance;
 
-2. «entreprise»: toute personne physique ou morale étant titulaire de l'autorisation prévue à l'article 1 er de la loi, l'habilitant à exercer une ou plusieurs des activités prévues à l'article 2 de la loi;
+- «entreprise»: toute personne physique ou morale étant titulaire de l'autorisation prévue à l'article 1 er de la loi, l'habilitant à exercer une ou plusieurs des activités prévues à l'article 2 de la loi;
 
-3. «agent»: toute personne physique qui a été engagée par une entreprise pour effectuer les missions prévues à l'article 2 de la loi et qui est titulaire de l'autorisation prévue à l'article 8 de la loi;
+- «agent»: toute personne physique qui a été engagée par une entreprise pour effectuer les missions prévues à l'article 2 de la loi et qui est titulaire de l'autorisation prévue à l'article 8 de la loi;
 
-4. «agent-transporteur»: tout agent tel que visé au point 3 ci-dessus qui est affecté par l'entreprise, de façon permanente ou occasionnelle, à des transports de fonds et valeurs tels que visés à l'article 22 de la loi;
+- «agent-transporteur»: tout agent tel que visé au point 3 ci-dessus qui est affecté par l'entreprise, de façon permanente ou occasionnelle, à des transports de fonds et valeurs tels que visés à l'article 22 de la loi;
 
-5. «client»: toute personne, physique ou morale, qui prend recours à une entreprise visée à l'article 22 de la loi pour faire transporter des fonds et valeurs;
+- «client»: toute personne, physique ou morale, qui prend recours à une entreprise visée à l'article 22 de la loi pour faire transporter des fonds et valeurs;
 
-6. «point d'arrêt»: les points de départ et de destination des transports où les fonds et valeurs sont déposés ou collectés;
+- «point d'arrêt»: les points de départ et de destination des transports où les fonds et valeurs sont déposés ou collectés;
 
-7. «valeurs de la classe 1»: tous genres de titres ou valeurs mobilières représentant d'une quelconque manière un droit de propriété ou de créance qui sont individuellement identifiables et qui peuvent être invalidés, annulés ou rendus inopposables et reconstitués par la suite; sont compris dans cette classe notamment les actions, obligations, effets de commerce, bons de caisse, lettres de change, connaissements, cautions, billets à ordre, certificats, chèques nominatifs, chèques barrés nominatifs et au porteur, coupons estampillés et/ou perforés qui, après avoir été honorés sont envoyés à l'organisme émetteur en vue de la récupération des montants avancés;
+- «valeurs de la classe 1»: tous genres de titres ou valeurs mobilières représentant d'une quelconque manière un droit de propriété ou de créance qui sont individuellement identifiables et qui peuvent être invalidés, annulés ou rendus inopposables et reconstitués par la suite; sont compris dans cette classe notamment les actions, obligations, effets de commerce, bons de caisse, lettres de change, connaissements, cautions, billets à ordre, certificats, chèques nominatifs, chèques barrés nominatifs et au porteur, coupons estampillés et/ou perforés qui, après avoir été honorés sont envoyés à l'organisme émetteur en vue de la récupération des montants avancés;
 
-8. «fonds et valeurs de la classe 2A»: tous effets de monnaie fiduciaire représentés par des billets de banque ou d'autres instruments similaires, les coupons autres que ceux visés au point numéro 7 ci-avant, titres au porteur, chèques au porteur non barrés, ainsi que les valeurs similaires qui ne peuvent être invalidés, annulés ou rendus inopposables et reconstitués par la suite; 1 Règlement grand-ducal annulé par un jugement du Tribunal administratif du 13 juin 2007, n° 22111 du rôle. - Références: Mém. A - 183 du 3 octobre 2007, p.
+- «fonds et valeurs de la classe 2A»: tous effets de monnaie fiduciaire représentés par des billets de banque ou d'autres instruments similaires, les coupons autres que ceux visés au point numéro 7 ci-avant, titres au porteur, chèques au porteur non barrés, ainsi que les valeurs similaires qui ne peuvent être invalidés, annulés ou rendus inopposables et reconstitués par la suite; 1 Règlement grand-ducal annulé par un jugement du Tribunal administratif du 13 juin 2007, n° 22111 du rôle. - Références: Mém. A - 183 du 3 octobre 2007, p.
 
-9. «fonds et valeurs de la classe 2B»: tous effets de monnaie fiduciaire constitués de pièces métalliques, les lingots d'or, ainsi que tous genres de bijoux, pierres, métaux ou autres matières précieuses qui ne sauraient être rendus impropres à leur usage ou dévalorisés en raison de la nature des matériaux dont ils sont constitués ou fabriqués; ne sont pas visés par le présent règlement grand-ducal les objets dont la valeur est principalement déterminée par le savoir-faire artistique ou artisanal de leur créateur ou par l'époque de leur création tels que notamment les objets d'art, les tableaux de peintres, meubles, sculptures;
+- «fonds et valeurs de la classe 2B»: tous effets de monnaie fiduciaire constitués de pièces métalliques, les lingots d'or, ainsi que tous genres de bijoux, pierres, métaux ou autres matières précieuses qui ne sauraient être rendus impropres à leur usage ou dévalorisés en raison de la nature des matériaux dont ils sont constitués ou fabriqués; ne sont pas visés par le présent règlement grand-ducal les objets dont la valeur est principalement déterminée par le savoir-faire artistique ou artisanal de leur créateur ou par l'époque de leur création tels que notamment les objets d'art, les tableaux de peintres, meubles, sculptures;
 
-10. «fourgon blindé»: un véhicule utilisé pour les transports de fonds et valeurs, équipé et ayant été agréé conformément aux dispositions de l'article 3 du présent règlement grand-ducal;
+- «fourgon blindé»: un véhicule utilisé pour les transports de fonds et valeurs, équipé et ayant été agréé conformément aux dispositions de l'article 3 du présent règlement grand-ducal;
 
-11. «valise sécurisée»: un coffre fermé, conçu pour le transport de fonds et valeurs effectué selon l'article 3 du présent règlement grand-ducal et qui, lorsqu'il est tenté de l'ouvrir de force, déclenche un mécanisme marquant les fonds et valeurs afin de les rendre impropres à l'usage;
+- «valise sécurisée»: un coffre fermé, conçu pour le transport de fonds et valeurs effectué selon l'article 3 du présent règlement grand-ducal et qui, lorsqu'il est tenté de l'ouvrir de force, déclenche un mécanisme marquant les fonds et valeurs afin de les rendre impropres à l'usage;
 
-12. «système de sécurité»: un système technique, certifié conformément à l'article 5 du présent règlement grand-ducal, conçu spécialement pour la protection de fonds et valeurs lors de leurs transports en ce sens qu'il sécurise ces transports contre le vol des fonds et valeurs par la mise en oeuvre coordonnée et conjointe des valises et des fourgons intelligents tels que définis aux points 13 et 14 ci-dessous;
+- «système de sécurité»: un système technique, certifié conformément à l'article 5 du présent règlement grand-ducal, conçu spécialement pour la protection de fonds et valeurs lors de leurs transports en ce sens qu'il sécurise ces transports contre le vol des fonds et valeurs par la mise en oeuvre coordonnée et conjointe des valises et des fourgons intelligents tels que définis aux points 13 et 14 ci-dessous;
 
-13. «valise intelligente»: un récipient conçu spécialement pour le transport de fonds et valeurs faisant partie intégrante d'un système de sécurité, capable d'enregistrer électroniquement des instructions relatives aux conditions de transport et d'accessibilité des fonds et valeurs transportés, de vérifier le respect de ces instructions et, en cas de non-respect de celles-ci, de déclencher un système de neutralisation rendant les fonds et valeurs impropres à leur usage;
+- «valise intelligente»: un récipient conçu spécialement pour le transport de fonds et valeurs faisant partie intégrante d'un système de sécurité, capable d'enregistrer électroniquement des instructions relatives aux conditions de transport et d'accessibilité des fonds et valeurs transportés, de vérifier le respect de ces instructions et, en cas de non-respect de celles-ci, de déclencher un système de neutralisation rendant les fonds et valeurs impropres à leur usage;
 
-14. «fourgon intelligent»: un véhicule utilisé pour les transports de fonds et valeurs, équipé et aménagé conformément à l'article 4 paragraphe (1) du présent règlement grand-ducal, faisant partie intégrante d'un système de sécurité tel que défini au point 12 ci-dessus, qui est surveillé à distance par le central de l'entreprise afin de protéger les fonds et valeurs transportés contre le vol;
+- «fourgon intelligent»: un véhicule utilisé pour les transports de fonds et valeurs, équipé et aménagé conformément à l'article 4 paragraphe (1) du présent règlement grand-ducal, faisant partie intégrante d'un système de sécurité tel que défini au point 12 ci-dessus, qui est surveillé à distance par le central de l'entreprise afin de protéger les fonds et valeurs transportés contre le vol;
 
-15. «certificat d'agréation»: mention inscrite à la rubrique 30 de la carte d'immatriculation d'un fourgon comportant entre autres son numéro d'agrément; pour les fourgons non immatriculés au Luxembourg, cette mention étant remplacée par un certificat délivré par la Société Nationale de Contrôle Technique;
+- «certificat d'agréation»: mention inscrite à la rubrique 30 de la carte d'immatriculation d'un fourgon comportant entre autres son numéro d'agrément; pour les fourgons non immatriculés au Luxembourg, cette mention étant remplacée par un certificat délivré par la Société Nationale de Contrôle Technique;
 
-16. «la loi d'établissement»: la loi modifiée du 28 décembre 1988 réglementant l'accès aux professions d'artisan, de commerçant, d'industriel ainsi qu'à certaines professions libérales;
+- «la loi d'établissement»: la loi modifiée du 28 décembre 1988 réglementant l'accès aux professions d'artisan, de commerçant, d'industriel ainsi qu'à certaines professions libérales;
 
-17. «sas fourgon»: un local permettant l'entrée et le stationnement momentané d'un fourgon blindé, de sorte que son chargement et déchargement puissent se faire à l'abri du public;
+- «sas fourgon»: un local permettant l'entrée et le stationnement momentané d'un fourgon blindé, de sorte que son chargement et déchargement puissent se faire à l'abri du public;
 
-18. «voie publique»: les routes et chemins ouverts à la circulation publique, conformément à l'article 2-2° de l'arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques, sous réserve des dispositions des articles 13 paragraphe (6) et 15 paragraphe (1) du présent règlement grand-ducal.
+- «voie publique»: les routes et chemins ouverts à la circulation publique, conformément à l'article 2-2° de l'arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques, sous réserve des dispositions des articles 13 paragraphe (6) et 15 paragraphe (1) du présent règlement grand-ducal.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -94,61 +94,61 @@ Dispositions particulières relatives aux fourgons blindés et aux transports ef
 
 Les fourgons blindés doivent être équipés selon les dispositions suivantes:
 
-1. Un moteur de propulsion à carburant du type gazole.
+- Un moteur de propulsion à carburant du type gazole.
 
-2. Un triple compartimentage de l'habitacle séparant strictement la cabine de conduite, le sas d'entrée et le compartiment destiné à recevoir les fonds et valeurs.
+- Un triple compartimentage de l'habitacle séparant strictement la cabine de conduite, le sas d'entrée et le compartiment destiné à recevoir les fonds et valeurs.
 
-3. Un système de gestion des portes qui coordonne l'ouverture et la fermeture des différentes portes de façon à garantir une séparation permanente des trois compartiments, sauf à l'intérieur de l'enceinte de l'entreprise utilisant le fourgon en question ou à l'intérieur d'enceintes sécurisées fermées, destinées au chargement et au déchargement du fourgon blindé ou le système peut être mis hors service par le central de l'entreprise.
+- Un système de gestion des portes qui coordonne l'ouverture et la fermeture des différentes portes de façon à garantir une séparation permanente des trois compartiments, sauf à l'intérieur de l'enceinte de l'entreprise utilisant le fourgon en question ou à l'intérieur d'enceintes sécurisées fermées, destinées au chargement et au déchargement du fourgon blindé ou le système peut être mis hors service par le central de l'entreprise.
 
-4. Des vitrages résistant au tir d'armes à feu automatiques correspondant:
+- Des vitrages résistant au tir d'armes à feu automatiques correspondant:
 
-1. au moins au niveau BR4 de la norme européenne EN 1063 et résistant par ailleurs à des projectiles de carabine du calibre 7,62x39 PS (chemisés en acier, noyau en acier doux) en ce qui concerne le pare-brise, les autres vitres de la cabine de conduite, les vitres du sas d'entrée et de la cloison entre la cabine et le sas d'entrée, et
+  - au moins au niveau BR4 de la norme européenne EN 1063 et résistant par ailleurs à des projectiles de carabine du calibre 7,62x39 PS (chemisés en acier, noyau en acier doux) en ce qui concerne le pare-brise, les autres vitres de la cabine de conduite, les vitres du sas d'entrée et de la cloison entre la cabine et le sas d'entrée, et
 
-2. au moins au niveau BR3 de la norme européenne EN 1063 pour les vitres du compartiment des fonds et valeurs.
+  - au moins au niveau BR3 de la norme européenne EN 1063 pour les vitres du compartiment des fonds et valeurs.
 
-5. Une superstructure résistant au tir d'armes à feu automatiques correspondant:
+- Une superstructure résistant au tir d'armes à feu automatiques correspondant:
 
-1. au moins au niveau FB4 de la norme européenne EN 1522 en ce qui concerne la face avant inférieure au pare-brise, le toit de la cabine et du sas d'entrée, la cloison entre la cabine de conduite et le sas d'entrée ainsi que la porte dans celle-ci et résistant par ailleurs à des projectiles de carabine du calibre 7,62x39 PS (chemisés en acier, noyau en acier doux) en ce qui concerne la face avant supérieure au pare-brise, les faces latérales de la cabine et du sas d'entrée, la cloison entre le compartiment des fonds et valeurs et le sas d'entrée et la porte dans celle-ci ainsi que la porte d'accès au sas d'entrée, et
+  - au moins au niveau FB4 de la norme européenne EN 1522 en ce qui concerne la face avant inférieure au pare-brise, le toit de la cabine et du sas d'entrée, la cloison entre la cabine de conduite et le sas d'entrée ainsi que la porte dans celle-ci et résistant par ailleurs à des projectiles de carabine du calibre 7,62x39 PS (chemisés en acier, noyau en acier doux) en ce qui concerne la face avant supérieure au pare-brise, les faces latérales de la cabine et du sas d'entrée, la cloison entre le compartiment des fonds et valeurs et le sas d'entrée et la porte dans celle-ci ainsi que la porte d'accès au sas d'entrée, et
 
-2. au moins au niveau FB3 de la norme européenne EN 1522 en ce qui concerne les faces latérales, le toit, le plancher et la face arrière du compartiment des fonds et valeurs et, le cas échéant, la porte d'accès située dans la face arrière.
+  - au moins au niveau FB3 de la norme européenne EN 1522 en ce qui concerne les faces latérales, le toit, le plancher et la face arrière du compartiment des fonds et valeurs et, le cas échéant, la porte d'accès située dans la face arrière.
 
-6. Un plancher renforcé, résistant aux grenades défensives du type DM 51 en ce qui concerne la cabine de conduite et le sas d'entrée, pour autant que ce dernier dispose d'une place assise, ainsi que de roues permettant au fourgon blindé en cas de tir dans ses pneumatiques et de dégonflage subséquent de ceux-ci, de se déplacer, même après un arrêt momentané, à une vitesse d'au moins 40 km/h pendant au moins 10 kilomètres.
+- Un plancher renforcé, résistant aux grenades défensives du type DM 51 en ce qui concerne la cabine de conduite et le sas d'entrée, pour autant que ce dernier dispose d'une place assise, ainsi que de roues permettant au fourgon blindé en cas de tir dans ses pneumatiques et de dégonflage subséquent de ceux-ci, de se déplacer, même après un arrêt momentané, à une vitesse d'au moins 40 km/h pendant au moins 10 kilomètres.
 
-7. Un pare-chocs renforcé ou un bouclier pouvant servir de tampon pour forcer des barrages ou pour déplacer des véhicules jusqu'à une tonne et demie, placés en travers de la route, l'impact ne devant pas générer des entraves pour le déplacement ultérieur du fourgon blindé, pour autant que la vitesse d'impact n'ait pas dépassé 15 km/h.
+- Un pare-chocs renforcé ou un bouclier pouvant servir de tampon pour forcer des barrages ou pour déplacer des véhicules jusqu'à une tonne et demie, placés en travers de la route, l'impact ne devant pas générer des entraves pour le déplacement ultérieur du fourgon blindé, pour autant que la vitesse d'impact n'ait pas dépassé 15 km/h.
 
-8. Un extincteur d'une capacité de 6 kg au moins de poudre polyvalente du type «ABC», soumis à un contrôle au moins annuel, documenté par une vignette de contrôle dûment plombée, apposée sur l'extincteur et en cours de validité. La prédite capacité de 6 kg peut être répartie sur deux extincteurs, chacun des deux devant alors répondre aux critères mentionnés ci-avant.
+- Un extincteur d'une capacité de 6 kg au moins de poudre polyvalente du type «ABC», soumis à un contrôle au moins annuel, documenté par une vignette de contrôle dûment plombée, apposée sur l'extincteur et en cours de validité. La prédite capacité de 6 kg peut être répartie sur deux extincteurs, chacun des deux devant alors répondre aux critères mentionnés ci-avant.
 
-9. Un système d'aération, de ventilation et de conditionnement de l'air de l'habitacle dont les orifices sont disposés en chicane empêchant l'introduction directe d'objets ou de projectiles pour empêcher l'introduction de gazes toxiques ou de substances fumigènes.
+- Un système d'aération, de ventilation et de conditionnement de l'air de l'habitacle dont les orifices sont disposés en chicane empêchant l'introduction directe d'objets ou de projectiles pour empêcher l'introduction de gazes toxiques ou de substances fumigènes.
 
-10. Un système d'alarme sonore générant un niveau sonore d'au moins 120 dB(A) fonctionnant conjointement avec les clignotants et les phares du fourgon blindé. Le niveau sonore du système d'alarme est déterminé suivant les modalités décrites à l'annexe 1 de la directive 70/388/CEE concernant le rapprochement des législations des Etats membres relatives à l'avertisseur acoustique des véhicules à moteur.
+- Un système d'alarme sonore générant un niveau sonore d'au moins 120 dB(A) fonctionnant conjointement avec les clignotants et les phares du fourgon blindé. Le niveau sonore du système d'alarme est déterminé suivant les modalités décrites à l'annexe 1 de la directive 70/388/CEE concernant le rapprochement des législations des Etats membres relatives à l'avertisseur acoustique des véhicules à moteur.
 
-11. Un téléphone mobile ainsi qu'un système de liaison radio disposant d'une alimentation autonome, permettant d'entrer en contact avec le central de l'entreprise et le véhicule d'accompagnement et de transmettre des alarmes.
+- Un téléphone mobile ainsi qu'un système de liaison radio disposant d'une alimentation autonome, permettant d'entrer en contact avec le central de l'entreprise et le véhicule d'accompagnement et de transmettre des alarmes.
 
-12. Un système de positionnement permettant au central de l'entreprise de localiser géographiquement le fourgon à tout instant, de suivre son avancement et de déceler tous mouvements du fourgon qui ne correspondent pas au trajet programmé de celui-ci. L'aptitude du prédit émetteur à transmettre la position du fourgon blindé au central doit être certifiée par l'entreprise.
+- Un système de positionnement permettant au central de l'entreprise de localiser géographiquement le fourgon à tout instant, de suivre son avancement et de déceler tous mouvements du fourgon qui ne correspondent pas au trajet programmé de celui-ci. L'aptitude du prédit émetteur à transmettre la position du fourgon blindé au central doit être certifiée par l'entreprise.
 
-13. Un système anti-démarrage et coupe-circuit moteur (système «antivol») pouvant être commandé depuis la cabine de conduite et rendant nécessaire l'utilisation de la clef de contact pour le déverrouillage.
+- Un système anti-démarrage et coupe-circuit moteur (système «antivol») pouvant être commandé depuis la cabine de conduite et rendant nécessaire l'utilisation de la clef de contact pour le déverrouillage.
 
-14. Un lave-glace puissant dont le(s) réservoir(s) a (ont) une capacité minimale de 5 litres et contenant au moins 4 litres d'un solvant savonneux permettant de rétablir en toute circonstance la vue par le pare-brise.
+- Un lave-glace puissant dont le(s) réservoir(s) a (ont) une capacité minimale de 5 litres et contenant au moins 4 litres d'un solvant savonneux permettant de rétablir en toute circonstance la vue par le pare-brise.
 
-15. Une batterie protégée qui est placée à l'intérieur de la partie blindée du fourgon. Pour autant que la batterie soit placée dans la cabine de conduite ou dans le sas d'entrée, son emplacement doit être pourvu d'une aération appropriée.
+- Une batterie protégée qui est placée à l'intérieur de la partie blindée du fourgon. Pour autant que la batterie soit placée dans la cabine de conduite ou dans le sas d'entrée, son emplacement doit être pourvu d'une aération appropriée.
 
-16. Une fermeture spéciale de l'orifice de remplissage du réservoir de carburant, composée d'un bouchon situé derrière un clapet résistant au tir d'armes à feu automatiques correspondant au moins au niveau FB3 de la norme européenne EN 1522. Le clapet ou le bouchon doit être muni d'une fermeture à clef.
+- Une fermeture spéciale de l'orifice de remplissage du réservoir de carburant, composée d'un bouchon situé derrière un clapet résistant au tir d'armes à feu automatiques correspondant au moins au niveau FB3 de la norme européenne EN 1522. Le clapet ou le bouchon doit être muni d'une fermeture à clef.
 
-17. Le circuit du carburant d'un fourgon blindé doit comporter un deuxième réservoir d'une capacité d'au moins 2 litres, pourvu d'un dispositif anti-retour et situé en amont du réservoir principal et des conduites d'alimentation au compartiment moteur, dans une partie blindée correspondant au moins au niveau FB3 de la norme européenne EN 1522.
+- Le circuit du carburant d'un fourgon blindé doit comporter un deuxième réservoir d'une capacité d'au moins 2 litres, pourvu d'un dispositif anti-retour et situé en amont du réservoir principal et des conduites d'alimentation au compartiment moteur, dans une partie blindée correspondant au moins au niveau FB3 de la norme européenne EN 1522.
 
-18. Une issue de secours sous forme d'une trappe d'évacuation, se trouvant sur une autre face du fourgon blindé que celle comportant la porte d'accès au sas d'entrée.
+- Une issue de secours sous forme d'une trappe d'évacuation, se trouvant sur une autre face du fourgon blindé que celle comportant la porte d'accès au sas d'entrée.
 
-19. Le marquage du nom de l'entreprise moyennant des caractères ayant une hauteur minimale de 7 cm sur les quatre côtés du fourgon et de 18 cm sur son toit, et d'une couleur contrastant de façon évidente avec la couleur de fond du fourgon blindé.
+- Le marquage du nom de l'entreprise moyennant des caractères ayant une hauteur minimale de 7 cm sur les quatre côtés du fourgon et de 18 cm sur son toit, et d'une couleur contrastant de façon évidente avec la couleur de fond du fourgon blindé.
 
-20. Aucun des éléments d'un fourgon blindé ne doit faire office de marchepied lorsqu'il est en marche à l'exception toutefois du pare-chocs renforcé ou du bouclier dont il doit être équipé obligatoirement sur base des dispositions du point 7 du présent paragraphe.
+- Aucun des éléments d'un fourgon blindé ne doit faire office de marchepied lorsqu'il est en marche à l'exception toutefois du pare-chocs renforcé ou du bouclier dont il doit être équipé obligatoirement sur base des dispositions du point 7 du présent paragraphe.
 
-21. Des plaques blindées de protection des pneumatiques arrières se situant dans la prolongation des bas de carrosserie et résistant au tir d'armes à feu automatiques correspondant au moins au niveau FB3 de la norme européenne EN 1522.
+- Des plaques blindées de protection des pneumatiques arrières se situant dans la prolongation des bas de carrosserie et résistant au tir d'armes à feu automatiques correspondant au moins au niveau FB3 de la norme européenne EN 1522.
 
-22. Une caméra qui ne peut être obturée et qui doit fonctionner lorsque le véhicule est soit en marche ou à l'arrêt pour cause de chargement ou de déchargement, soit dans des circonstances particulières de la circulation (feux rouge etc.), et qui a un champ de captage couvrant au moins l'espace inclus entre le gabarit arrière du fourgon blindé, sur une distance minimale de 2,5 m à partir de sa face arrière. L'écran sur lequel sont projetés les enregistrements de la caméra doit obligatoirement être visible à partir d'au moins un siège du fourgon blindé autre que celui du conducteur.
+- Une caméra qui ne peut être obturée et qui doit fonctionner lorsque le véhicule est soit en marche ou à l'arrêt pour cause de chargement ou de déchargement, soit dans des circonstances particulières de la circulation (feux rouge etc.), et qui a un champ de captage couvrant au moins l'espace inclus entre le gabarit arrière du fourgon blindé, sur une distance minimale de 2,5 m à partir de sa face arrière. L'écran sur lequel sont projetés les enregistrements de la caméra doit obligatoirement être visible à partir d'au moins un siège du fourgon blindé autre que celui du conducteur.
 
-23. Un système pouvant déclencher le verrouillage du compartiment des valeurs ainsi que le déverrouillage simultané de la porte d'accès au sas d'entrée et de la porte dans la cloison entre le sas d'entrée et la cabine de conduite; ce système doit pouvoir être commandé depuis la cabine de conduite et il ne doit pouvoir être neutralisé par après que moyennant l'utilisation d'une clé codée ou d'un autre système équivalent, cette clé ou ce système ne devant pas se trouver dans le fourgon blindé pendant son utilisation pour effectuer des transports de fonds.
+- Un système pouvant déclencher le verrouillage du compartiment des valeurs ainsi que le déverrouillage simultané de la porte d'accès au sas d'entrée et de la porte dans la cloison entre le sas d'entrée et la cabine de conduite; ce système doit pouvoir être commandé depuis la cabine de conduite et il ne doit pouvoir être neutralisé par après que moyennant l'utilisation d'une clé codée ou d'un autre système équivalent, cette clé ou ce système ne devant pas se trouver dans le fourgon blindé pendant son utilisation pour effectuer des transports de fonds.
 
-24. Chaque membre de l'équipage du fourgon blindé, qui doit comporter au moins deux agents-transporteurs, doit être armé d'une arme à feu de poing et doit porter une veste pare-balles à l'occasion de tout transport visé au présent article.
+- Chaque membre de l'équipage du fourgon blindé, qui doit comporter au moins deux agents-transporteurs, doit être armé d'une arme à feu de poing et doit porter une veste pare-balles à l'occasion de tout transport visé au présent article.
 
 (2)
 
@@ -183,23 +183,23 @@ Conception et équipement des fourgons et valises intelligents.
 
 Les fourgons intelligents doivent correspondre aux prescriptions suivantes:
 
-1. Un moteur de propulsion à carburant du type gazole.
+- Un moteur de propulsion à carburant du type gazole.
 
-2. Toutes les vitres de la cabine de conduite doivent présenter une résistance au tir d'armes à feu automatiques correspondant au moins au niveau BR4 de la norme européenne EN 1063 et résistant par ailleurs à des projectiles de carabine du calibre 7,62x39 PS (chemisés en acier, noyau en acier doux).
+- Toutes les vitres de la cabine de conduite doivent présenter une résistance au tir d'armes à feu automatiques correspondant au moins au niveau BR4 de la norme européenne EN 1063 et résistant par ailleurs à des projectiles de carabine du calibre 7,62x39 PS (chemisés en acier, noyau en acier doux).
 
-3. Les surfaces non vitrées de la cabine de conduite doivent présenter une résistance au tir d'armes à feu automatiques correspondant au moins au niveau FB4 de la norme européenne EN 1522 en ce qui concerne la face avant inférieure au pare-brise, le toit de la cabine, la cloison entre la cabine de conduite et le compartiment des valeurs, y inclus la porte de cette cloison si cette dernière en est pourvue, et résistant par ailleurs à des projectiles de carabine du calibre 7,62x39 PS (chemisés en acier, noyau en acier doux) en ce qui concerne la face avant supérieure au pare-brise, les faces latérales de la cabine et la cloison entre la cabine de conduite et le compartiment des fonds et valeurs, y inclus la porte de cette cloison si cette dernière en est pourvue.
+- Les surfaces non vitrées de la cabine de conduite doivent présenter une résistance au tir d'armes à feu automatiques correspondant au moins au niveau FB4 de la norme européenne EN 1522 en ce qui concerne la face avant inférieure au pare-brise, le toit de la cabine, la cloison entre la cabine de conduite et le compartiment des valeurs, y inclus la porte de cette cloison si cette dernière en est pourvue, et résistant par ailleurs à des projectiles de carabine du calibre 7,62x39 PS (chemisés en acier, noyau en acier doux) en ce qui concerne la face avant supérieure au pare-brise, les faces latérales de la cabine et la cloison entre la cabine de conduite et le compartiment des fonds et valeurs, y inclus la porte de cette cloison si cette dernière en est pourvue.
 
-4. Le plancher de la cabine de conduite doit être renforcé afin de présenter une résistance aux grenades défensives du type DM 51.
+- Le plancher de la cabine de conduite doit être renforcé afin de présenter une résistance aux grenades défensives du type DM 51.
 
-5. Le compartiment des fonds et valeurs doit être dépourvu d'une place assise.
+- Le compartiment des fonds et valeurs doit être dépourvu d'une place assise.
 
-6. Un téléphone mobile ainsi qu'un système de liaison radio disposant d'une alimentation autonome, permettant d'entrer en contact avec le central de l'entreprise et de transmettre des alarmes.
+- Un téléphone mobile ainsi qu'un système de liaison radio disposant d'une alimentation autonome, permettant d'entrer en contact avec le central de l'entreprise et de transmettre des alarmes.
 
-7. Un système de positionnement permettant au central de l'entreprise de localiser géographiquement le fourgon à tout instant, de suivre son avancement et de déceler tous mouvements du fourgon qui ne correspondent pas au trajet programmé de celui-ci. L'aptitude du prédit émetteur à transmettre la position du fourgon au central doit être certifiée par l'entreprise.
+- Un système de positionnement permettant au central de l'entreprise de localiser géographiquement le fourgon à tout instant, de suivre son avancement et de déceler tous mouvements du fourgon qui ne correspondent pas au trajet programmé de celui-ci. L'aptitude du prédit émetteur à transmettre la position du fourgon au central doit être certifiée par l'entreprise.
 
-8. Le marquage du nom de l'entreprise moyennant des caractères ayant une hauteur minimale de 7 cm sur les quatre côtés du fourgon et de 18 cm sur son toit, et d'une couleur contrastant de façon évidente avec la couleur de fond du fourgon blindé.
+- Le marquage du nom de l'entreprise moyennant des caractères ayant une hauteur minimale de 7 cm sur les quatre côtés du fourgon et de 18 cm sur son toit, et d'une couleur contrastant de façon évidente avec la couleur de fond du fourgon blindé.
 
-9. Chaque membre de l'équipage du fourgon, qui doit comporter au moins deux agents-transporteurs, peut être armé d'une arme à feu de poing et doit porter une veste pare-balles à l'occasion de tout transport visé au présent article.
+- Chaque membre de l'équipage du fourgon, qui doit comporter au moins deux agents-transporteurs, peut être armé d'une arme à feu de poing et doit porter une veste pare-balles à l'occasion de tout transport visé au présent article.
 
 (2)
 
@@ -209,17 +209,17 @@ La conformité des blindages visés ci-dessus aux points 2, 3 et 4 par rapport a
 
 Les valises intelligentes utilisées lors de transports effectués par un fourgon intelligent, tel qu'il est défini au paragraphe (1), doivent répondre aux critères suivants:
 
-1. La valise intelligente doit être programmable de manière qu'elle ne puisse être ouverte que sur un point d'arrêt préprogrammé et endéans la période de travail préprogrammée, sauf lorsqu'elle est vide.
+- La valise intelligente doit être programmable de manière qu'elle ne puisse être ouverte que sur un point d'arrêt préprogrammé et endéans la période de travail préprogrammée, sauf lorsqu'elle est vide.
 
-2. Le système de neutralisation doit se déclencher chaque fois qu'il est tenté d'ouvrir la valise intelligente par la force, ailleurs que sur un point d'arrêt préprogrammé ou en dehors de la période de travail préprogrammée, même si elle se trouve encore dans le fourgon.
+- Le système de neutralisation doit se déclencher chaque fois qu'il est tenté d'ouvrir la valise intelligente par la force, ailleurs que sur un point d'arrêt préprogrammé ou en dehors de la période de travail préprogrammée, même si elle se trouve encore dans le fourgon.
 
-3. Aucun agent-transporteur ne doit être en mesure d'ouvrir la valise intelligente, d'influencer la programmation du système de neutralisation ou d'avoir une quelconque autre emprise sur les fonds et valeurs y enfermés ailleurs que sur un point d'arrêt.
+- Aucun agent-transporteur ne doit être en mesure d'ouvrir la valise intelligente, d'influencer la programmation du système de neutralisation ou d'avoir une quelconque autre emprise sur les fonds et valeurs y enfermés ailleurs que sur un point d'arrêt.
 
-4. En cas d'agression ou de non-respect de la programmation du système de neutralisation, celui-ci doit se déclencher sans qu'une quelconque intervention humaine ne soit nécessaire, peu importe si la valise intelligente se trouve dans un fourgon ou non.
+- En cas d'agression ou de non-respect de la programmation du système de neutralisation, celui-ci doit se déclencher sans qu'une quelconque intervention humaine ne soit nécessaire, peu importe si la valise intelligente se trouve dans un fourgon ou non.
 
-5. Le système de neutralisation doit être conçu de sorte qu'il affecte, par un procédé chimique ou technique, immédiatement et de façon irréversible la totalité des fonds et valeurs contenus dans la valise intelligente, et cela sur une surface minimale de 10% de tous les fonds et valeurs.
+- Le système de neutralisation doit être conçu de sorte qu'il affecte, par un procédé chimique ou technique, immédiatement et de façon irréversible la totalité des fonds et valeurs contenus dans la valise intelligente, et cela sur une surface minimale de 10% de tous les fonds et valeurs.
 
-6. Le système de sécurité doit prévoir un moyen électronique permettant au seul central de l'entreprise, en cas de nécessité, de retarder ou d'empêcher le déclenchement du système de neutralisation.
+- Le système de sécurité doit prévoir un moyen électronique permettant au seul central de l'entreprise, en cas de nécessité, de retarder ou d'empêcher le déclenchement du système de neutralisation.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -262,17 +262,17 @@ Dispositions particulières relatives aux transports de fonds et valeurs spécia
 
 (Règl. g.-d. du 1er août 2014)
 
-1. Les personnes physiques et morales légalement établies dans un autre Etat membre de l'Union européenne comme entreprise de transports de fonds et valeurs peuvent être autorisées, moyennant une procédure simplifiée, à effectuer sur le territoire du Grand-Duché de Luxembourg des transports de fonds qui ne relèvent pas du champ d'application des licences de transport de fonds transfrontaliers d'euros en espèces visées à l'article 27-1 de la loi.
+- Les personnes physiques et morales légalement établies dans un autre Etat membre de l'Union européenne comme entreprise de transports de fonds et valeurs peuvent être autorisées, moyennant une procédure simplifiée, à effectuer sur le territoire du Grand-Duché de Luxembourg des transports de fonds qui ne relèvent pas du champ d'application des licences de transport de fonds transfrontaliers d'euros en espèces visées à l'article 27-1 de la loi.
 
-2. Ces autorisations peuvent être assorties de conditions à déterminer par le ministre de la Justice. Elles ne peuvent être délivrées que pour des transports internationaux dont le point de départ ou le point de destination est situé sur le territoire du Grand-Duché de Luxembourg, auquel cas les mêmes fonds et valeurs ne peuvent être chargés et déchargés au Grand-Duché de Luxembourg, ainsi que pour des transports internationaux qui ne font que transiter par le Grand-Duché de Luxembourg.
+- Ces autorisations peuvent être assorties de conditions à déterminer par le ministre de la Justice. Elles ne peuvent être délivrées que pour des transports internationaux dont le point de départ ou le point de destination est situé sur le territoire du Grand-Duché de Luxembourg, auquel cas les mêmes fonds et valeurs ne peuvent être chargés et déchargés au Grand-Duché de Luxembourg, ainsi que pour des transports internationaux qui ne font que transiter par le Grand-Duché de Luxembourg.
 
-3. Les fourgons utilisés pour effectuer ces transports doivent en tout état de cause être conformes aux prescriptions légales et réglementaires de l'Etat membre de l'Union européenne d'origine. Les transports effectués avec des fourgons non surveillés à partir de l'Etat membre d'origine par un système de sécurité similaire à celui prévu par le présent règlement grand-ducal et au cours desquels ne sont pas utilisées des valises intelligentes doivent en tout état de cause être effectués conformément aux paragraphes (3) à (6) de l'article 3. Les agents-transporteurs effectuant ces transports doivent avoir bénéficié d'une formation au moins équivalente à celle des agents-transporteurs agréés au Grand-Duché de Luxembourg.
+- Les fourgons utilisés pour effectuer ces transports doivent en tout état de cause être conformes aux prescriptions légales et réglementaires de l'Etat membre de l'Union européenne d'origine. Les transports effectués avec des fourgons non surveillés à partir de l'Etat membre d'origine par un système de sécurité similaire à celui prévu par le présent règlement grand-ducal et au cours desquels ne sont pas utilisées des valises intelligentes doivent en tout état de cause être effectués conformément aux paragraphes (3) à (6) de l'article 3. Les agents-transporteurs effectuant ces transports doivent avoir bénéficié d'une formation au moins équivalente à celle des agents-transporteurs agréés au Grand-Duché de Luxembourg.
 
-4. Les personnes physiques et morales ayant introduit au Grand-Duché de Luxembourg une demande en vue d'être autorisées à exercer l'activité prévue à l'article 2 point 3 de la loi, et auxquelles l'accord de principe prévu à l'article 5 alinéa 2 de la loi a été délivré, peuvent être autorisées à effectuer un ou plusieurs transports de fonds et effectués conformément aux dispositions de la loi et du présent règlement grand-ducal.
+- Les personnes physiques et morales ayant introduit au Grand-Duché de Luxembourg une demande en vue d'être autorisées à exercer l'activité prévue à l'article 2 point 3 de la loi, et auxquelles l'accord de principe prévu à l'article 5 alinéa 2 de la loi a été délivré, peuvent être autorisées à effectuer un ou plusieurs transports de fonds et effectués conformément aux dispositions de la loi et du présent règlement grand-ducal.
 
-5. La demande en vue de l'obtention de l'autorisation visée au paragraphe précédent doit indiquer: 1. le jour et les heures du début et de la fin du ou des transports envisagés; 2. le nom et l'adresse du ou des clients concernés; 3. les nom, prénom et date de naissance des agents chargés d'effectuer le ou les transports; 4. la marque, le modèle, le calibre et le numéro de série des armes à feu portées le cas échéant par les agents; 5. la marque, le modèle et les numéros minéralogiques du ou des véhicules utilisés; 6. la description du trajet sur lequel le ou les transports sont effectués.
+- La demande en vue de l'obtention de l'autorisation visée au paragraphe précédent doit indiquer: 1. le jour et les heures du début et de la fin du ou des transports envisagés; 2. le nom et l'adresse du ou des clients concernés; 3. les nom, prénom et date de naissance des agents chargés d'effectuer le ou les transports; 4. la marque, le modèle, le calibre et le numéro de série des armes à feu portées le cas échéant par les agents; 5. la marque, le modèle et les numéros minéralogiques du ou des véhicules utilisés; 6. la description du trajet sur lequel le ou les transports sont effectués.
 
-6. Pour les transports effectués sur base de l'autorisation prévue au paragraphe (1) du présent article, l'information de la Police grand-ducale visée à l'article 2 paragraphe (3) du présent règlement grand-ducal doit comporter les informations visées au paragraphe (5) du présent article, ainsi que l'heure et le point de frontière où le transport en question entre sur le territoire du Grand-Duché de Luxembourg. Ces informations sont à fournir pour chaque transport individuellement, sauf lorsqu'il s'agit d'un même transport effectué de façon répétitive; dans ce cas, les informations visées ne sont à fournir que pour le premier transport, accompagnées ou suivies des dates et heures des transports subséquents.
+- Pour les transports effectués sur base de l'autorisation prévue au paragraphe (1) du présent article, l'information de la Police grand-ducale visée à l'article 2 paragraphe (3) du présent règlement grand-ducal doit comporter les informations visées au paragraphe (5) du présent article, ainsi que l'heure et le point de frontière où le transport en question entre sur le territoire du Grand-Duché de Luxembourg. Ces informations sont à fournir pour chaque transport individuellement, sauf lorsqu'il s'agit d'un même transport effectué de façon répétitive; dans ce cas, les informations visées ne sont à fournir que pour le premier transport, accompagnées ou suivies des dates et heures des transports subséquents.
 
 (Règl. g.-d. du 1er août 2014) Art. 7-1 Dispositions particulières relatives aux transports de fonds transfrontaliers d'euros en espèces (1) Les dispositions prévues à l'article 2 paragraphe 3, troisième et quatrième phrase, ainsi qu'à l'article 3 paragraphe 4 du présent règlement sont applicables aux transports de fonds effectués au Luxembourg sur base d'une licence de transports de fonds transfrontaliers d'euros en espèces visée à l'article 27-1 de la loi. (2) La notification prévue à l'article 27-1, alinéa 2, de la loi comporte les informations suivantes: le jour et l'heure du début et de la fin du transport envisagé; l'heure et le point de frontière où le transport en question entre sur le territoire du Grand-Duché de Luxembourg; le nom et l'adresse du ou des clients concernés; les nom, prénom et date de naissance des agents chargés d'effectuer le transport; la marque, le modèle, le calibre et le numéro de série des armes à feu portées le cas échéant par les agents; la marque, le modèle et les numéros minéralogiques du ou des véhicules utilisés; la description du trajet sur lequel le ou les transports sont effectués. (3) Les informations visées au paragraphe 2 sont à fournir pour chaque transport individuellement, sauf lorsqu'il s'agit d'un même transport effectué de façon répétitive; dans ce cas, ces informations ne sont à fournir que pour le premier transport, accompagnées ou suivies des dates et heures des transports subséquents.
 
@@ -289,27 +289,27 @@ Les entreprises sont tenues d'offrir à chaque nouvel agent-transporteur une for
 
 Les formations visées au paragraphe (1) doivent comprendre au moins les éléments suivants:
 
-1. Une formation de base, comportant une partie théorique et une partie pratique dont chacune d'une durée minimale d'une semaine, portant sur les matières suivantes:
+- Une formation de base, comportant une partie théorique et une partie pratique dont chacune d'une durée minimale d'une semaine, portant sur les matières suivantes:
 
-1. les dispositions légales et réglementaires relatives aux activités privées de gardiennage et de surveillance, aux armes à feu, à la légitime défense et à l'organisation de la Police grand-ducale et des services de secours;
+  - les dispositions légales et réglementaires relatives aux activités privées de gardiennage et de surveillance, aux armes à feu, à la légitime défense et à l'organisation de la Police grand-ducale et des services de secours;
 
-2. les procédures appliquées au sein de l'entreprise concernant le dispositif opérationnel, les techniques de transport de fonds et valeurs et les moyens techniques en matière de communication et de sécurité;
+  - les procédures appliquées au sein de l'entreprise concernant le dispositif opérationnel, les techniques de transport de fonds et valeurs et les moyens techniques en matière de communication et de sécurité;
 
-3. techniques d'observation, approche psychologique des conflits et techniques de défense;
+  - techniques d'observation, approche psychologique des conflits et techniques de défense;
 
-4. techniques de premiers secours et d'intervention en cas d'incendie et d'accidents de la circulation;
+  - techniques de premiers secours et d'intervention en cas d'incendie et d'accidents de la circulation;
 
-5. formation de tir aux armes à feu, comportant des exercices de tir, manipulation des armes, stockage, comportement en public, 4 séances à 1 heure étant obligatoires pour les agents étant titulaires d'un permis de port d'armes;
+  - formation de tir aux armes à feu, comportant des exercices de tir, manipulation des armes, stockage, comportement en public, 4 séances à 1 heure étant obligatoires pour les agents étant titulaires d'un permis de port d'armes;
 
-6. des cours de conduite spéciaux avec un fourgon homologué, intelligent ou blindé.
+  - des cours de conduite spéciaux avec un fourgon homologué, intelligent ou blindé.
 
-2. Une formation continue, comportant également une partie théorique et une partie pratique, dont chacune d'une durée minimale d'un jour par an, portant sur les matières suivantes:
+- Une formation continue, comportant également une partie théorique et une partie pratique, dont chacune d'une durée minimale d'un jour par an, portant sur les matières suivantes:
 
-1. des exercices pratiques et théoriques en matière de premiers secours et techniques d'observation;
+  - des exercices pratiques et théoriques en matière de premiers secours et techniques d'observation;
 
-2. 4 séances de tir dont chacune d'une durée minimale de 1 heure, espacées chaque fois d'un mois;
+  - 4 séances de tir dont chacune d'une durée minimale de 1 heure, espacées chaque fois d'un mois;
 
-3. des études de cas pratiques dans différentes matières en fonction des difficultés rencontrées par l'agent transporteur dans l'exercice de ses fonctions.
+  - des études de cas pratiques dans différentes matières en fonction des difficultés rencontrées par l'agent transporteur dans l'exercice de ses fonctions.
 
 (3)
 
@@ -361,51 +361,51 @@ Les centraux visés aux articles 15, 19 et 23 de la loi doivent être sécurisé
 
 L'immeuble, ou la partie de l'immeuble, hébergeant le central doit être aménagé comme suit:
 
-1. Les portes, fenêtres et autres ouvertures donnant accès à cet immeuble, ou à cette partie de l'immeuble, doivent être sécurisées par un système déclenchant l'alarme en cas d'effraction ou d'entrée non autorisée.
+- Les portes, fenêtres et autres ouvertures donnant accès à cet immeuble, ou à cette partie de l'immeuble, doivent être sécurisées par un système déclenchant l'alarme en cas d'effraction ou d'entrée non autorisée.
 
-2. Les portes qui donnent accès à l'immeuble, ou à cette partie de l'immeuble, qui sont destinées à l'usage du public doivent être sécurisées par un système d'ouverture à 2 portes télécommandé qui ne peuvent s'ouvrir concomitamment. Ces portes doivent, de façon permanente, être sous vidéosurveillance ou se trouver dans le champ de vision d'un employé de l'entreprise.
+- Les portes qui donnent accès à l'immeuble, ou à cette partie de l'immeuble, qui sont destinées à l'usage du public doivent être sécurisées par un système d'ouverture à 2 portes télécommandé qui ne peuvent s'ouvrir concomitamment. Ces portes doivent, de façon permanente, être sous vidéosurveillance ou se trouver dans le champ de vision d'un employé de l'entreprise.
 
-3. Lorsque l'immeuble, ou la partie de l'immeuble hébergeant le central, dispose de portes d'entrée extérieures réservées au personnel de l'entreprise, celles-ci doivent être équipées d'un système de sécurité qui permet l'identification individuelle de chaque salarié au moment de son entrée et qui empêche l'entrée de deux ou de plusieurs personnes au bâtiment sous le couvert de l'identité d'un seul salarié.
+- Lorsque l'immeuble, ou la partie de l'immeuble hébergeant le central, dispose de portes d'entrée extérieures réservées au personnel de l'entreprise, celles-ci doivent être équipées d'un système de sécurité qui permet l'identification individuelle de chaque salarié au moment de son entrée et qui empêche l'entrée de deux ou de plusieurs personnes au bâtiment sous le couvert de l'identité d'un seul salarié.
 
-4. Les portes et fenêtres des immeubles visés par le présent paragraphe doivent correspondre aux normes ENV 1627 WK4, respectivement aux normes EN 356 P5B pour leur vitrage.
+- Les portes et fenêtres des immeubles visés par le présent paragraphe doivent correspondre aux normes ENV 1627 WK4, respectivement aux normes EN 356 P5B pour leur vitrage.
 
 (3)
 
 L'immeuble, ou la partie de l'immeuble, hébergeant le central fortifié doit être équipé d'un système de vidéosurveillance qui doit correspondre aux dispositions suivantes:
 
-1. Les caméras doivent être installées en nombre suffisant pour couvrir entièrement les alentours de l'immeuble et toutes les portes, fenêtres et autres ouvertures pouvant donner accès à l'immeuble de l'extérieur.
+- Les caméras doivent être installées en nombre suffisant pour couvrir entièrement les alentours de l'immeuble et toutes les portes, fenêtres et autres ouvertures pouvant donner accès à l'immeuble de l'extérieur.
 
-2. Les images capturées doivent être transmises en temps réel à un poste de surveillance occupé de façon permanente par un des 2 employés occupant le central de l'entreprise.
+- Les images capturées doivent être transmises en temps réel à un poste de surveillance occupé de façon permanente par un des 2 employés occupant le central de l'entreprise.
 
-3. La conception technique du système et l'éclairage des lieux filmés doivent permettre la réalisation de photos d'une qualité suffisante permettant, dans la mesure du possible, l'identification de la personne filmée même pendant la nuit.
+- La conception technique du système et l'éclairage des lieux filmés doivent permettre la réalisation de photos d'une qualité suffisante permettant, dans la mesure du possible, l'identification de la personne filmée même pendant la nuit.
 
-4. A l'entrée du central fortifié, au moins une caméra doit être installée:
+- A l'entrée du central fortifié, au moins une caméra doit être installée:
 
-1. à la hauteur des yeux;
+  - à la hauteur des yeux;
 
-2. à un endroit où la personne en cause est obligée de diriger son regard pour pénétrer dans le central;
+  - à un endroit où la personne en cause est obligée de diriger son regard pour pénétrer dans le central;
 
-3. de sorte qu'il n'y ait pas de contre-jour ou de reflets de lumière nuisibles à la qualité des images capturées.
+  - de sorte qu'il n'y ait pas de contre-jour ou de reflets de lumière nuisibles à la qualité des images capturées.
 
-5. Les images capturées doivent être enregistrées de façon permanente. Ces enregistrements doivent indiquer la date et l'heure de la capture des images et être conservés au moins pendant une semaine dans les locaux techniques de l'entreprise.
+- Les images capturées doivent être enregistrées de façon permanente. Ces enregistrements doivent indiquer la date et l'heure de la capture des images et être conservés au moins pendant une semaine dans les locaux techniques de l'entreprise.
 
 (4)
 
 Le central fortifié proprement dit doit être aménagé comme suit:
 
-1. L'accès au central fortifié doit être géré par un sas d'entrée commandé par le central fortifié. Le système de gestion des portes doit être conçu de sorte à éviter que la porte d'accès au sas et la porte de communication avec le central fortifié ne puissent être ouvertes simultanément. Le sas d'entrée doit être construit avec des matériaux présentant le même niveau de sécurité que ceux avec lesquels le central fortifié a été construit.
+- L'accès au central fortifié doit être géré par un sas d'entrée commandé par le central fortifié. Le système de gestion des portes doit être conçu de sorte à éviter que la porte d'accès au sas et la porte de communication avec le central fortifié ne puissent être ouvertes simultanément. Le sas d'entrée doit être construit avec des matériaux présentant le même niveau de sécurité que ceux avec lesquels le central fortifié a été construit.
 
-2. Les murs du central doivent être construits en maçonnerie de béton d'une épaisseur minimale de 115 millimètres répondant aux normes ENV 1522 FB4.
+- Les murs du central doivent être construits en maçonnerie de béton d'une épaisseur minimale de 115 millimètres répondant aux normes ENV 1522 FB4.
 
-3. Les portes du central fortifié doivent correspondre aux normes ENV 1522 FB4 et ENV 1627 WK6. Elles doivent être de qualité antieffraction et pare-balles et tous les composants tels que notamment panneau, chambranle, charnières, serrure ou gâche doivent offrir une résistance au moins équivalente à celle des parois et vitrages.
+- Les portes du central fortifié doivent correspondre aux normes ENV 1522 FB4 et ENV 1627 WK6. Elles doivent être de qualité antieffraction et pare-balles et tous les composants tels que notamment panneau, chambranle, charnières, serrure ou gâche doivent offrir une résistance au moins équivalente à celle des parois et vitrages.
 
-4. Le vitrage du central doit correspondre aux normes EN 1063 BR4 et EN 356 P5B. Aucune porte ou fenêtre du central ne doit communiquer en direct avec l'extérieur de l'immeuble lorsque le central est installé au rez-de-chaussée d'un immeuble. Chaque fenêtre qui, pour des raisons de droit ou de fait, ne saurait être condamnée conformément à la phrase précédente doit être pourvue de barres en acier d'un diamètre de deux centimètres, croisées horizontalement et verticalement, soudées aux points de croisement et ancrées à leurs extrémités dans la maçonnerie du mur sur une longueur minimale de huit centimètres. L'écart entre deux barres ne doit être supérieur à 12 centimètres.
+- Le vitrage du central doit correspondre aux normes EN 1063 BR4 et EN 356 P5B. Aucune porte ou fenêtre du central ne doit communiquer en direct avec l'extérieur de l'immeuble lorsque le central est installé au rez-de-chaussée d'un immeuble. Chaque fenêtre qui, pour des raisons de droit ou de fait, ne saurait être condamnée conformément à la phrase précédente doit être pourvue de barres en acier d'un diamètre de deux centimètres, croisées horizontalement et verticalement, soudées aux points de croisement et ancrées à leurs extrémités dans la maçonnerie du mur sur une longueur minimale de huit centimètres. L'écart entre deux barres ne doit être supérieur à 12 centimètres.
 
-5. Le central fortifié doit disposer d'une ligne téléphonique directe vers l'extérieur de l'immeuble, non reliée au central téléphonique de l'entreprise, et être doté d'un dispositif d'alarme silencieux, relié directement au Centre d'intervention national de la Police grand-ducale.
+- Le central fortifié doit disposer d'une ligne téléphonique directe vers l'extérieur de l'immeuble, non reliée au central téléphonique de l'entreprise, et être doté d'un dispositif d'alarme silencieux, relié directement au Centre d'intervention national de la Police grand-ducale.
 
-6. En cas d'installation d'un passe-document ou d'un tiroir-caisse, celui-ci doit résister à l'enfoncement ou à l'arrachage. La hauteur de l'ouverture de la fente ne doit pas être supérieure à 50 millimètres et le matériel utilisé pour sa construction doit correspondre aux normes EN 1522 FB4.
+- En cas d'installation d'un passe-document ou d'un tiroir-caisse, celui-ci doit résister à l'enfoncement ou à l'arrachage. La hauteur de l'ouverture de la fente ne doit pas être supérieure à 50 millimètres et le matériel utilisé pour sa construction doit correspondre aux normes EN 1522 FB4.
 
-7. Le central doit être doté d'un système d'aération, de ventilation ou de conditionnement de l'air dont au moins les orifices communiquant avec l'extérieur de l'immeuble sont conçus de sorte à empêcher l'introduction d'objets contenant des gaz toxiques ou des substances fumigènes.
+- Le central doit être doté d'un système d'aération, de ventilation ou de conditionnement de l'air dont au moins les orifices communiquant avec l'extérieur de l'immeuble sont conçus de sorte à empêcher l'introduction d'objets contenant des gaz toxiques ou des substances fumigènes.
 
 (5)
 
@@ -435,11 +435,11 @@ Hormis les dispositions de l'article 10, la partie de l'immeuble hébergeant l'a
 
 La partie de l'immeuble en cause doit être aménagée de sorte qu'elle comporte au moins les pièces distinctes suivantes:
 
-1. un central fortifié;
+- un central fortifié;
 
-2. un local destiné aux opérations de chargement et de déchargement des fourgons, ci-après désigné comme «local fourgons»;
+- un local destiné aux opérations de chargement et de déchargement des fourgons, ci-après désigné comme «local fourgons»;
 
-3. un local destiné à la manipulation, à la préparation et au stockage des fonds et valeurs, ci-après désigné comme «salle des coffres».
+- un local destiné à la manipulation, à la préparation et au stockage des fonds et valeurs, ci-après désigné comme «salle des coffres».
 
 (3)
 
@@ -462,31 +462,31 @@ Conditions de sécurité relatives aux endroits sécurisés
 
 Le chargement et le déchargement des fonds et valeurs auprès d'un client doit toujours se faire dans le local sécurisé prévu à l'article 29 point 2 de la loi qui doit être aménagé et équipé comme suit:
 
-1. Le chemin à parcourir par l'agent-transporteur entre le fourgon et le local sécurisé qui mène par une zone accessible au public doit être aussi court que possible.
+- Le chemin à parcourir par l'agent-transporteur entre le fourgon et le local sécurisé qui mène par une zone accessible au public doit être aussi court que possible.
 
-2. Avant de pouvoir accéder au local sécurisé, ou après en être sorti, l'agent-transporteur ne doit être exposé à aucun délai d'attente pendant lequel il se trouverait sur la voie publique ou dans des zones accessibles au public.
+- Avant de pouvoir accéder au local sécurisé, ou après en être sorti, l'agent-transporteur ne doit être exposé à aucun délai d'attente pendant lequel il se trouverait sur la voie publique ou dans des zones accessibles au public.
 
-3. Le local sécurisé doit être inaccessible au public, du moins pendant le déroulement des opérations de dépôt et de collecte des fonds et valeurs; ces opérations doivent en tout état de cause se dérouler à l'abri de la vue du public.
+- Le local sécurisé doit être inaccessible au public, du moins pendant le déroulement des opérations de dépôt et de collecte des fonds et valeurs; ces opérations doivent en tout état de cause se dérouler à l'abri de la vue du public.
 
-4. Aucune fenêtre du local sécurisé ne doit communiquer avec l'extérieur de l'immeuble lorsque le local est installé au rez-de-chaussée d'un immeuble. Chaque fenêtre qui, pour des raisons de droit ou de fait, ne saurait être condamnée conformément à la phrase précédente doit être aménagée de sorte à empêcher toute vue de l'extérieur dans le local sécurisé, du moins pendant les opérations de dépôt et de collecte des fonds et valeurs, et doit être pourvue d'un système déclenchant l'alarme en cas d'effraction.
+- Aucune fenêtre du local sécurisé ne doit communiquer avec l'extérieur de l'immeuble lorsque le local est installé au rez-de-chaussée d'un immeuble. Chaque fenêtre qui, pour des raisons de droit ou de fait, ne saurait être condamnée conformément à la phrase précédente doit être aménagée de sorte à empêcher toute vue de l'extérieur dans le local sécurisé, du moins pendant les opérations de dépôt et de collecte des fonds et valeurs, et doit être pourvue d'un système déclenchant l'alarme en cas d'effraction.
 
-5. Aucune porte du local sécurisé ne doit communiquer en direct avec l'extérieur de l'immeuble. En cas d'impossibilité de droit ou de fait, la ou les portes doivent être dotées d'un système déclenchant l'alarme en cas d'effraction et doivent correspondre aux normes ENV 1627 WK4, respectivement aux normes EN 356 P5B lorsqu'elles comportent un vitrage.
+- Aucune porte du local sécurisé ne doit communiquer en direct avec l'extérieur de l'immeuble. En cas d'impossibilité de droit ou de fait, la ou les portes doivent être dotées d'un système déclenchant l'alarme en cas d'effraction et doivent correspondre aux normes ENV 1627 WK4, respectivement aux normes EN 356 P5B lorsqu'elles comportent un vitrage.
 
 (2)
 
 Lorsqu'un employé du client n'a pas une vue directe, réelle et permanente sur l'agent-transporteur selon les conditions décrites au présent paragraphe, point 1 litt. a) à d), la surveillance visée à l'article 29 point 3 de la loi doit être effectuée moyennant un dispositif comprenant une ou plusieurs vidéo-caméras qui doit être conçu et installé conformément aux dispositions suivantes:
 
-1. Les caméras doivent couvrir:
+- Les caméras doivent couvrir:
 
-1. le fourgon ou l'agent-transporteur dès que celui-ci quitte la voie publique en vue des opérations de dépôt et de collecte des fonds et valeurs, jusqu'au moment où il la regagne;
+  - le fourgon ou l'agent-transporteur dès que celui-ci quitte la voie publique en vue des opérations de dépôt et de collecte des fonds et valeurs, jusqu'au moment où il la regagne;
 
-2. les alentours directs du lieu où le fourgon s'arrête pour les opérations de dépôt et de collecte des fonds et valeurs lorsque le fourgon quitte la voie publique pour ce faire;
+  - les alentours directs du lieu où le fourgon s'arrête pour les opérations de dépôt et de collecte des fonds et valeurs lorsque le fourgon quitte la voie publique pour ce faire;
 
-3. l'intégralité du parcours emprunté à pied par l'agent-transporteur;
+  - l'intégralité du parcours emprunté à pied par l'agent-transporteur;
 
-4. l'intégralité des opérations de dépôt et de collecte des fonds et valeurs.
+  - l'intégralité des opérations de dépôt et de collecte des fonds et valeurs.
 
-2. Les images capturées doivent pouvoir être visualisées en temps réel par un employé du client. Elles doivent être enregistrées et conservées par le client pendant au moins une semaine. La conception technique du système et l'éclairage des lieux filmés doivent être d'une qualité suffisante afin de permettre, dans la mesure du possible, l'identification de la personne filmée.
+- Les images capturées doivent pouvoir être visualisées en temps réel par un employé du client. Elles doivent être enregistrées et conservées par le client pendant au moins une semaine. La conception technique du système et l'éclairage des lieux filmés doivent être d'une qualité suffisante afin de permettre, dans la mesure du possible, l'identification de la personne filmée.
 
 (3)
 
@@ -521,11 +521,11 @@ Les opérations d'alimentation des distributeurs automatiques de billets doivent
 
 Les dispositions du présent article ne sont pas applicables:
 
-1. aux distributeurs automatiques de billets installés dans un immeuble permettant leur alimentation en l'absence et à l'abri de la vue du public par un local technique situé à l'intérieur du bâtiment,
+- aux distributeurs automatiques de billets installés dans un immeuble permettant leur alimentation en l'absence et à l'abri de la vue du public par un local technique situé à l'intérieur du bâtiment,
 
-2. aux distributeurs automatiques de billets qui sont installés dans des immeubles, ou des zones d'immeubles, auxquels l'accès est réservé à des personnes déterminées ou pour lesquels un contrôle d'entrée individuel est effectué préalablement à l'accès, et
+- aux distributeurs automatiques de billets qui sont installés dans des immeubles, ou des zones d'immeubles, auxquels l'accès est réservé à des personnes déterminées ou pour lesquels un contrôle d'entrée individuel est effectué préalablement à l'accès, et
 
-3. aux distributeurs automatiques de billets conçus et équipés de façon à ce qu'ils puissent être alimentés moyennant un dispositif qui permet à l'agent-transporteur d'introduire dans le distributeur une cassette, contenant les billets de banque, qui présente des garanties de sécurité équivalentes aux valises intelligentes telles que visées à l'article 4 paragraphe (3) du présent règlement grand-ducal.
+- aux distributeurs automatiques de billets conçus et équipés de façon à ce qu'ils puissent être alimentés moyennant un dispositif qui permet à l'agent-transporteur d'introduire dans le distributeur une cassette, contenant les billets de banque, qui présente des garanties de sécurité équivalentes aux valises intelligentes telles que visées à l'article 4 paragraphe (3) du présent règlement grand-ducal.
 
 <a id="art-15"></a>
 ## Art. 15.

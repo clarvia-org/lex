@@ -48,19 +48,19 @@ Exclusions du champ d'application
 
 Sont exclus du champ d'application de la présente loi:
 
-1. les effluents gazeux émis dans l’atmosphère
+- les effluents gazeux émis dans l’atmosphère
 
-2. les sols non pollués et autres matériaux géologiques naturels excavés au cours d'activités de construction lorsqu'il est certain que les matériaux seront utilisés aux fins de construction dans leur état naturel sur le site même de leur excavation;
+- les sols non pollués et autres matériaux géologiques naturels excavés au cours d'activités de construction lorsqu'il est certain que les matériaux seront utilisés aux fins de construction dans leur état naturel sur le site même de leur excavation;
 
-3. les déchets radioactifs;
+- les déchets radioactifs;
 
-4. les explosifs déclassés;
+- les explosifs déclassés;
 
-5. les matières fécales, à condition qu'elles ne relèvent pas du paragraphe (3), point b), la paille et autres matières naturelles non dangereuses issues de l'agriculture ou de la sylviculture et qui sont utilisées dans le cadre de l'exploitation agricole ou sylvicole ou pour la production d'énergie à partir d'une telle biomasse au moyen de procédés ou de méthodes qui ne nuisent pas à l'environnement et ne mettent pas en danger la santé humaine.
+- les matières fécales, à condition qu'elles ne relèvent pas du paragraphe (3), point b), la paille et autres matières naturelles non dangereuses issues de l'agriculture ou de la sylviculture et qui sont utilisées dans le cadre de l'exploitation agricole ou sylvicole ou pour la production d'énergie à partir d'une telle biomasse au moyen de procédés ou de méthodes qui ne nuisent pas à l'environnement et ne mettent pas en danger la santé humaine.
 
-6. Les sols in situ non pollués ;
+- Les sols in situ non pollués ;
 
-7. les bâtiments reliés au sol de manière permanente.
+- les bâtiments reliés au sol de manière permanente.
 
 (2)
 
@@ -70,17 +70,17 @@ Les sols in situ, y compris les sols pollués non excavés et les bâtiments rel
 
 Sont exclus du champ d'application de la présente loi, dans la mesure où ils sont déjà couverts par d'autres dispositions légales ou réglementaires:
 
-1. les eaux usées;
+- les eaux usées;
 
-2. les sous-produits animaux, y compris les produits transformés couverts par la réglementation européenne (UE) établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine, à l'exception de ceux qui sont destinés à l'incinération, la mise en décharge ou l'utilisation dans une installation de biogaz ou de compostage;
+- les sous-produits animaux, y compris les produits transformés couverts par la réglementation européenne (UE) établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine, à l'exception de ceux qui sont destinés à l'incinération, la mise en décharge ou l'utilisation dans une installation de biogaz ou de compostage;
 
-3. les carcasses d'animaux morts autrement que par abattage, y compris les animaux mis à mort pour l'éradication d'une épizootie, et qui ont été éliminées conformément à la réglementation européenne (UE) établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine;
+- les carcasses d'animaux morts autrement que par abattage, y compris les animaux mis à mort pour l'éradication d'une épizootie, et qui ont été éliminées conformément à la réglementation européenne (UE) établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine;
 
-4. les déchets résultant de la prospection, de l'extraction, du traitement et du stockage de ressources minérales, ainsi que de l'exploitation des carrières, couverts par la loi du 26 novembre 2008 concernant la gestion des déchets de l'industrie extractive.
+- les déchets résultant de la prospection, de l'extraction, du traitement et du stockage de ressources minérales, ainsi que de l'exploitation des carrières, couverts par la loi du 26 novembre 2008 concernant la gestion des déchets de l'industrie extractive.
 
-5. les substances qui sont destinées à être utilisées comme matières premières pour aliments des animaux au sens de l’article 3, paragraphe 2, lettre g), du règlement (CE) n° 767/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant la mise sur le marché et l’utilisation des aliments pour animaux, modifiant le règlement (CE) n° 1831/2003 du Parlement européen et du Conseil et abrogeant la directive 79/373/CEE du Conseil, la directive 80/511/CEE de la Commission, les directives 82/471/CEE , 83/228/CEE , 93/74/CEE , 93/113/CE et 96/25/CE du Conseil, ainsi que la décision 2004/217/CE de la Commission et qui ne sont pas constituées de sous-produits animaux ou ne contiennent pas de sous-produits animaux.
+- les substances qui sont destinées à être utilisées comme matières premières pour aliments des animaux au sens de l’article 3, paragraphe 2, lettre g), du règlement (CE) n° 767/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant la mise sur le marché et l’utilisation des aliments pour animaux, modifiant le règlement (CE) n° 1831/2003 du Parlement européen et du Conseil et abrogeant la directive 79/373/CEE du Conseil, la directive 80/511/CEE de la Commission, les directives 82/471/CEE , 83/228/CEE , 93/74/CEE , 93/113/CE et 96/25/CE du Conseil, ainsi que la décision 2004/217/CE de la Commission et qui ne sont pas constituées de sous-produits animaux ou ne contiennent pas de sous-produits animaux.
 
-6. les sols in situ pollués.
+- les sols in situ pollués.
 
 (4)
 
@@ -104,117 +104,117 @@ Définitions
 
 Aux fins de la présente loi, on entend par :
 
-1. « biodéchets » : les déchets biodégradables de jardin ou de parc, les déchets alimentaires ou de cuisine provenant des ménages, des bureaux, des restaurants, du commerce de gros, des cantines, des traiteurs ou des magasins de vente au détail, ainsi que les déchets comparables provenant des usines de transformation de denrées alimentaires ;
+- « biodéchets » : les déchets biodégradables de jardin ou de parc, les déchets alimentaires ou de cuisine provenant des ménages, des bureaux, des restaurants, du commerce de gros, des cantines, des traiteurs ou des magasins de vente au détail, ainsi que les déchets comparables provenant des usines de transformation de denrées alimentaires ;
 
-2. « centre de ressources » : une infrastructure fixe ouverte au public destinée à la collecte séparée de produits en vue de leur réemploi et de déchets municipaux en vue de leur préparation à la réutilisation, recyclage de qualité élevée, autres formes de valorisation et élimination ainsi qu’à la sensibilisation et à l’information du public sur la gestion des déchets et des ressources ;
+- « centre de ressources » : une infrastructure fixe ouverte au public destinée à la collecte séparée de produits en vue de leur réemploi et de déchets municipaux en vue de leur préparation à la réutilisation, recyclage de qualité élevée, autres formes de valorisation et élimination ainsi qu’à la sensibilisation et à l’information du public sur la gestion des déchets et des ressources ;
 
-3. « collecte » : le ramassage des déchets en porte-à-porte ou l’apport volontaire, y compris leur tri et stockage préliminaires, en vue de leur transport vers une installation de traitement des déchets ;
+- « collecte » : le ramassage des déchets en porte-à-porte ou l’apport volontaire, y compris leur tri et stockage préliminaires, en vue de leur transport vers une installation de traitement des déchets ;
 
-4. « collecte séparée » : une collecte dans le cadre de laquelle un flux de déchets est conservé séparément en fonction de son type et de sa nature afin de faciliter un traitement spécifique ;
+- « collecte séparée » : une collecte dans le cadre de laquelle un flux de déchets est conservé séparément en fonction de son type et de sa nature afin de faciliter un traitement spécifique ;
 
-5. « courtier » : toute entreprise qui organise la valorisation ou l’élimination de déchets pour le compte de tiers, y compris les courtiers qui ne prennent pas physiquement possession des déchets ;
+- « courtier » : toute entreprise qui organise la valorisation ou l’élimination de déchets pour le compte de tiers, y compris les courtiers qui ne prennent pas physiquement possession des déchets ;
 
-6. « déchets » : toute substance ou tout objet dont le détenteur se défait ou dont il a l’intention ou l’obligation de se défaire ;
+- « déchets » : toute substance ou tout objet dont le détenteur se défait ou dont il a l’intention ou l’obligation de se défaire ;
 
-7. « déchets alimentaires »: toutes les denrées alimentaires au sens de l’article 2 du règlement (CE) n° 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire, instituant l’Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées alimentaires qui sont devenues des déchets ;
+- « déchets alimentaires »: toutes les denrées alimentaires au sens de l’article 2 du règlement (CE) n° 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire, instituant l’Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées alimentaires qui sont devenues des déchets ;
 
-8. « déchets dangereux » : tout déchet qui présente une ou plusieurs des propriétés dangereuses énumérées à l’annexe V ;
+- « déchets dangereux » : tout déchet qui présente une ou plusieurs des propriétés dangereuses énumérées à l’annexe V ;
 
-9. « déchets de construction et de déconstruction » : les déchets produits par les activités de construction et de déconstruction, y compris de rénovation ;
+- « déchets de construction et de déconstruction » : les déchets produits par les activités de construction et de déconstruction, y compris de rénovation ;
 
-10. « déchets de verdure » : les déchets végétaux d’espaces naturels ou agricoles, autres que de jardins et de parcs ;
+- « déchets de verdure » : les déchets végétaux d’espaces naturels ou agricoles, autres que de jardins et de parcs ;
 
-11. « déchets encombrants » : les déchets municipaux ménagers solides dont les dimensions ne permettent pas le ramassage moyennant les mêmes récipients que ceux destinés à la collecte des autres déchets municipaux ménagers ;
+- « déchets encombrants » : les déchets municipaux ménagers solides dont les dimensions ne permettent pas le ramassage moyennant les mêmes récipients que ceux destinés à la collecte des autres déchets municipaux ménagers ;
 
-12. « déchets inertes » : les déchets qui ne subissent aucune modification physique, chimique ou biologique importante. Les déchets inertes ne se décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne détériorent pas d’autres matières avec lesquelles ils entrent en contact, d’une manière susceptible d’entraîner une pollution de l’environnement ou de nuire à la santé humaine. La production totale de lixiviats et la teneur des déchets en polluants ainsi que l’écotoxicité des lixiviats doivent être négligeables et, en particulier, ne doivent pas porter atteinte à la qualité des eaux de surface ou des eaux souterraines ;
+- « déchets inertes » : les déchets qui ne subissent aucune modification physique, chimique ou biologique importante. Les déchets inertes ne se décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne détériorent pas d’autres matières avec lesquelles ils entrent en contact, d’une manière susceptible d’entraîner une pollution de l’environnement ou de nuire à la santé humaine. La production totale de lixiviats et la teneur des déchets en polluants ainsi que l’écotoxicité des lixiviats doivent être négligeables et, en particulier, ne doivent pas porter atteinte à la qualité des eaux de surface ou des eaux souterraines ;
 
-13. « déchets municipaux » : les déchets en mélange et les déchets collectés séparément :
+- « déchets municipaux » : les déchets en mélange et les déchets collectés séparément :
 
-1. provenant des ménages, y compris le papier et le carton, le verre, les métaux, les matières plastiques, les biodéchets, le bois, les textiles, les emballages, les déchets d’équipements électriques et électroniques, les déchets de piles et d’accumulateurs, ainsi que les déchets encombrants, y compris les matelas et les meubles,
+  - provenant des ménages, y compris le papier et le carton, le verre, les métaux, les matières plastiques, les biodéchets, le bois, les textiles, les emballages, les déchets d’équipements électriques et électroniques, les déchets de piles et d’accumulateurs, ainsi que les déchets encombrants, y compris les matelas et les meubles,
 
-2. provenant d’autres sources lorsque ces déchets sont similaires par leur nature et leur composition aux déchets provenant des ménages. Les déchets municipaux n’incluent pas les déchets provenant de la production, de l’agriculture, de la sylviculture, de la pêche, des fosses septiques et des réseaux d’égouts et des stations d’épuration, y compris les boues d’épuration, les véhicules hors d’usage ou les déchets de construction et de déconstruction. Cette définition est sans préjudice de la répartition des compétences en matière de gestion des déchets entre les acteurs publics et privés ;
+  - provenant d’autres sources lorsque ces déchets sont similaires par leur nature et leur composition aux déchets provenant des ménages. Les déchets municipaux n’incluent pas les déchets provenant de la production, de l’agriculture, de la sylviculture, de la pêche, des fosses septiques et des réseaux d’égouts et des stations d’épuration, y compris les boues d’épuration, les véhicules hors d’usage ou les déchets de construction et de déconstruction. Cette définition est sans préjudice de la répartition des compétences en matière de gestion des déchets entre les acteurs publics et privés ;
 
-14. « déchets municipaux ménagers » : Les déchets municipaux provenant :
+- « déchets municipaux ménagers » : Les déchets municipaux provenant :
 
-1. des ménages ;
+  - des ménages ;
 
-2. des copropriétés au sens de la loi modifiée du 16 mai 1975 portant statut de la copropriété des immeubles bâtis comportant au moins un lot à caractère résidentiel, y inclus les structures d’habitations multiples, à l’exception des établissements publics ou privés qui disposent de leurs propres infrastructures de collecte de déchets clairement séparées ;
+  - des copropriétés au sens de la loi modifiée du 16 mai 1975 portant statut de la copropriété des immeubles bâtis comportant au moins un lot à caractère résidentiel, y inclus les structures d’habitations multiples, à l’exception des établissements publics ou privés qui disposent de leurs propres infrastructures de collecte de déchets clairement séparées ;
 
-3. d’établissements tels que, commerces, artisans, collectivités, structures d’accueil, établissements scolaires et parascolaires, dans la mesure où les déchets de ceux-ci sont, compte tenu de leurs caractéristiques et quantités, susceptibles d’être collectés et traités sans sujétions techniques particulières dans les mêmes conditions que les déchets provenant des ménages.
+  - d’établissements tels que, commerces, artisans, collectivités, structures d’accueil, établissements scolaires et parascolaires, dans la mesure où les déchets de ceux-ci sont, compte tenu de leurs caractéristiques et quantités, susceptibles d’être collectés et traités sans sujétions techniques particulières dans les mêmes conditions que les déchets provenant des ménages.
 
-15. « déchets municipaux non ménagers » : Les déchets municipaux autres que les déchets municipaux ménagers ;
+- « déchets municipaux non ménagers » : Les déchets municipaux autres que les déchets municipaux ménagers ;
 
-16. « déchets non dangereux » : les déchets qui ne sont pas couverts par le point 8° ;
+- « déchets non dangereux » : les déchets qui ne sont pas couverts par le point 8° ;
 
-17. « déchets problématiques » : les déchets générateurs potentiels de nuisances, qui, en raison de leur nature, nécessitent une gestion particulière. Les déchets problématiques incluent les déchets dangereux ;
+- « déchets problématiques » : les déchets générateurs potentiels de nuisances, qui, en raison de leur nature, nécessitent une gestion particulière. Les déchets problématiques incluent les déchets dangereux ;
 
-18. « déchets ultimes » : toute substance, matériau, produit ou objet résultant ou non du traitement d’un déchet, qui n’est plus susceptible d’être valorisé ou d’être préparé en vue de la réutilisation, par extraction de la part valorisable ou par réduction de son caractère polluant ou dangereux, en tenant compte de la meilleure technologie disponible au moment du dépôt et dont l’application n’entraîne pas de coûts excessifs ;
+- « déchets ultimes » : toute substance, matériau, produit ou objet résultant ou non du traitement d’un déchet, qui n’est plus susceptible d’être valorisé ou d’être préparé en vue de la réutilisation, par extraction de la part valorisable ou par réduction de son caractère polluant ou dangereux, en tenant compte de la meilleure technologie disponible au moment du dépôt et dont l’application n’entraîne pas de coûts excessifs ;
 
-19. « déconstruction » : travaux qui impliquent un enlèvement partiel ou total des éléments d’un bâtiment ;
+- « déconstruction » : travaux qui impliquent un enlèvement partiel ou total des éléments d’un bâtiment ;
 
-20. « détenteur de déchets » : le producteur des déchets ou la personne physique ou morale qui a les déchets en sa possession ;
+- « détenteur de déchets » : le producteur des déchets ou la personne physique ou morale qui a les déchets en sa possession ;
 
-21. « élimination » : toute opération qui n’est pas de la valorisation même lorsque ladite opération a comme conséquence secondaire la récupération de substances ou d’énergie. L’annexe I énumère une liste non exhaustive d’opérations d’élimination ;
+- « élimination » : toute opération qui n’est pas de la valorisation même lorsque ladite opération a comme conséquence secondaire la récupération de substances ou d’énergie. L’annexe I énumère une liste non exhaustive d’opérations d’élimination ;
 
-22. « gestion des déchets » : la collecte, le transport, la valorisation, y compris le tri, et l’élimination des déchets, y compris la surveillance de ces opérations ainsi que la surveillance des sites de décharge après leur fermeture et les actions menées en tant que négociant ou courtier ;
+- « gestion des déchets » : la collecte, le transport, la valorisation, y compris le tri, et l’élimination des déchets, y compris la surveillance de ces opérations ainsi que la surveillance des sites de décharge après leur fermeture et les actions menées en tant que négociant ou courtier ;
 
-23. « huiles usagées » : toutes les huiles minérales ou synthétiques, lubrifiantes ou industrielles, qui sont devenues impropres à l’usage auquel elles étaient initialement destinées, telles que les huiles usagées des moteurs à combustion et des systèmes de transmission, les huiles lubrifiantes, les huiles pour turbines et celles pour systèmes hydrauliques ;
+- « huiles usagées » : toutes les huiles minérales ou synthétiques, lubrifiantes ou industrielles, qui sont devenues impropres à l’usage auquel elles étaient initialement destinées, telles que les huiles usagées des moteurs à combustion et des systèmes de transmission, les huiles lubrifiantes, les huiles pour turbines et celles pour systèmes hydrauliques ;
 
-24. « matière naturelle » : toute matière biosourcée qui peut être retrouvée dans l’état où elle se présente dans l’environnement naturel et qui n’a pas subi un processus de transformation ;
+- « matière naturelle » : toute matière biosourcée qui peut être retrouvée dans l’état où elle se présente dans l’environnement naturel et qui n’a pas subi un processus de transformation ;
 
-25. « meilleures techniques disponibles » : celles qui sont définies à l’article 2, point 9 de la loi modifiée du 10 juin 1999 relative aux établissements classés ;
+- « meilleures techniques disponibles » : celles qui sont définies à l’article 2, point 9 de la loi modifiée du 10 juin 1999 relative aux établissements classés ;
 
-26. « microplastique » : particule contenant un ou plusieurs polymères solides, auxquels des additifs ou autres substances ont pu être ajoutés, et pour lequel un pourcentage égal ou supérieur à 1 en poids/poids des particules remplit l’un des deux critères suivants :
+- « microplastique » : particule contenant un ou plusieurs polymères solides, auxquels des additifs ou autres substances ont pu être ajoutés, et pour lequel un pourcentage égal ou supérieur à 1 en poids/poids des particules remplit l’un des deux critères suivants :
 
-1. toutes dimensions inférieures ou égales à 5 millimètres, ou
+  - toutes dimensions inférieures ou égales à 5 millimètres, ou
 
-2. une longueur supérieure ou égale à 0,3 micromètres et inférieure ou égale à 15 millimètres et un rapport longueur diamètre supérieur à 3 ;
+  - une longueur supérieure ou égale à 0,3 micromètres et inférieure ou égale à 15 millimètres et un rapport longueur diamètre supérieur à 3 ;
 
-27. « mise à disposition sur le marché » : la fourniture d’un produit destiné à être distribué, consommé ou utilisé sur le marché luxembourgeois dans le cadre d’une activité commerciale, que ce soit à titre onéreux ou gratuit ;
+- « mise à disposition sur le marché » : la fourniture d’un produit destiné à être distribué, consommé ou utilisé sur le marché luxembourgeois dans le cadre d’une activité commerciale, que ce soit à titre onéreux ou gratuit ;
 
-28. « mise sur le marché » : la première mise à disposition d’un produit sur le marché luxembourgeois ;
+- « mise sur le marché » : la première mise à disposition d’un produit sur le marché luxembourgeois ;
 
-29. « négociant » : toute entreprise qui entreprend pour son propre compte l’acquisition et la vente ultérieure de déchets, y compris les négociants qui ne prennent pas physiquement possession des déchets ;
+- « négociant » : toute entreprise qui entreprend pour son propre compte l’acquisition et la vente ultérieure de déchets, y compris les négociants qui ne prennent pas physiquement possession des déchets ;
 
-30. « préparation à la réutilisation » : toute opération de contrôle, de nettoyage ou de réparation en vue de la valorisation, par laquelle des produits ou des composants de produits qui sont devenus des déchets sont préparés de manière à être réutilisés sans autre opération de prétraitement ;
+- « préparation à la réutilisation » : toute opération de contrôle, de nettoyage ou de réparation en vue de la valorisation, par laquelle des produits ou des composants de produits qui sont devenus des déchets sont préparés de manière à être réutilisés sans autre opération de prétraitement ;
 
-31. « prévention » : les mesures prises avant qu’une substance, une matière ou un produit ne devienne un déchet et réduisant ;
+- « prévention » : les mesures prises avant qu’une substance, une matière ou un produit ne devienne un déchet et réduisant ;
 
-1. la quantité de déchets, y compris par l’intermédiaire du réemploi ou de la prolongation de la durée de vie des produits ;
+  - la quantité de déchets, y compris par l’intermédiaire du réemploi ou de la prolongation de la durée de vie des produits ;
 
-2. les effets nocifs des déchets produits sur l’environnement et la santé humaine; ou ;
+  - les effets nocifs des déchets produits sur l’environnement et la santé humaine; ou ;
 
-3. la teneur en substances dangereuses des matières et produits.
+  - la teneur en substances dangereuses des matières et produits.
 
-32. « producteur de déchets » : toute personne dont l’activité produit des déchets (producteur de déchets initial) ou toute personne qui effectue des opérations de prétraitement, de mélange ou autres conduisant à un changement de nature ou de composition de ces déchets ;
+- « producteur de déchets » : toute personne dont l’activité produit des déchets (producteur de déchets initial) ou toute personne qui effectue des opérations de prétraitement, de mélange ou autres conduisant à un changement de nature ou de composition de ces déchets ;
 
-33. « producteur de produits » : toute personne physique ou morale :
+- « producteur de produits » : toute personne physique ou morale :
 
-1. établie au Grand-Duché de Luxembourg qui, à titre professionnel, fabrique, remplit ou vend directement au Grand-Duché de Luxembourg, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L 222-1 du Code de la consommation , et met sur le marché luxembourgeois des produits ; ou
+  - établie au Grand-Duché de Luxembourg qui, à titre professionnel, fabrique, remplit ou vend directement au Grand-Duché de Luxembourg, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L 222-1 du Code de la consommation , et met sur le marché luxembourgeois des produits ; ou
 
-2. qui est le premier acteur à réceptionner, à titre professionnel, des produits importés au Grand-Duché de Luxembourg par toute personne physique ou morale établie ou non au Grand-Duché de Luxembourg, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L 222-1 du Code de la consommation , et met sur le marché luxembourgeois des produits ; ou
+  - qui est le premier acteur à réceptionner, à titre professionnel, des produits importés au Grand-Duché de Luxembourg par toute personne physique ou morale établie ou non au Grand-Duché de Luxembourg, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L 222-1 du Code de la consommation , et met sur le marché luxembourgeois des produits ; ou
 
-3. établie en-dehors du Grand-Duché de Luxembourg qui, à titre professionnel, vend des produits au Grand-Duché de Luxembourg directement à des ménages ou à des utilisateurs autres que des ménages, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L 222-1 du Code de la consommation ;
+  - établie en-dehors du Grand-Duché de Luxembourg qui, à titre professionnel, vend des produits au Grand-Duché de Luxembourg directement à des ménages ou à des utilisateurs autres que des ménages, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L 222-1 du Code de la consommation ;
 
-34. « recyclage » : toute opération de valorisation par laquelle les déchets sont retraités en produits, matières ou substances aux fins de leur fonction initiale ou à d’autres fins. Cela inclut le retraitement des matières organiques, mais n’inclut pas la valorisation énergétique, la conversion pour l’utilisation comme combustible ou pour des opérations de remblayage ;
+- « recyclage » : toute opération de valorisation par laquelle les déchets sont retraités en produits, matières ou substances aux fins de leur fonction initiale ou à d’autres fins. Cela inclut le retraitement des matières organiques, mais n’inclut pas la valorisation énergétique, la conversion pour l’utilisation comme combustible ou pour des opérations de remblayage ;
 
-35. « recyclage de qualité élevée » : toute opération de gestion des déchets qui permet d’assurer un recyclage garantissant le maintien de la qualité des matières le plus longtemps possible dans le circuit économique et d’atteindre ainsi un niveau élevé d’efficacité des ressources ;
+- « recyclage de qualité élevée » : toute opération de gestion des déchets qui permet d’assurer un recyclage garantissant le maintien de la qualité des matières le plus longtemps possible dans le circuit économique et d’atteindre ainsi un niveau élevé d’efficacité des ressources ;
 
-36. « réemploi » : toute opération par laquelle des produits ou des composants qui ne sont pas des déchets sont utilisés de nouveau pour un usage identique à celui pour lequel ils avaient été conçus ;
+- « réemploi » : toute opération par laquelle des produits ou des composants qui ne sont pas des déchets sont utilisés de nouveau pour un usage identique à celui pour lequel ils avaient été conçus ;
 
-37. « régénération des huiles usagées » : toute opération de recyclage permettant de produire des huiles de base par un raffinage d’huiles usagées, impliquant notamment l’extraction des contaminants, des produits d’oxydation et des additifs contenus dans ces huiles ;
+- « régénération des huiles usagées » : toute opération de recyclage permettant de produire des huiles de base par un raffinage d’huiles usagées, impliquant notamment l’extraction des contaminants, des produits d’oxydation et des additifs contenus dans ces huiles ;
 
-38. « régime de responsabilité élargie des producteurs » : un ensemble de mesures prises pour veiller à ce que les producteurs de produits assument la responsabilité financière ou la responsabilité financière et organisationnelle de la prévention, du réemploi et de la gestion de la phase « déchet » du cycle de vie d’un produit ;
+- « régime de responsabilité élargie des producteurs » : un ensemble de mesures prises pour veiller à ce que les producteurs de produits assument la responsabilité financière ou la responsabilité financière et organisationnelle de la prévention, du réemploi et de la gestion de la phase « déchet » du cycle de vie d’un produit ;
 
-39. « remblayage »: toute opération de valorisation par laquelle des déchets appropriés non dangereux sont utilisés à des fins de remise en état dans des zones excavées ou, en ingénierie, pour des travaux d’aménagement paysager. Les déchets utilisés pour le remblayage doivent remplacer des matières qui ne sont pas des déchets, être adaptés aux fins susvisées et limités aux quantités strictement nécessaires pour parvenir à ces fins ;
+- « remblayage »: toute opération de valorisation par laquelle des déchets appropriés non dangereux sont utilisés à des fins de remise en état dans des zones excavées ou, en ingénierie, pour des travaux d’aménagement paysager. Les déchets utilisés pour le remblayage doivent remplacer des matières qui ne sont pas des déchets, être adaptés aux fins susvisées et limités aux quantités strictement nécessaires pour parvenir à ces fins ;
 
-40. « réutilisation » : toute opération par laquelle des substances, matières ou produits qui sont devenus des déchets sont utilisés de nouveau ;
+- « réutilisation » : toute opération par laquelle des substances, matières ou produits qui sont devenus des déchets sont utilisés de nouveau ;
 
-41. « traitement » : toute opération de valorisation ou d’élimination, y compris la préparation qui précède la valorisation ou l’élimination ;
+- « traitement » : toute opération de valorisation ou d’élimination, y compris la préparation qui précède la valorisation ou l’élimination ;
 
-42. « valorisation » : toute opération dont le résultat principal est que des déchets servent à des fins utiles en remplaçant d’autres matières ou produits qui auraient été utilisées à une fin particulière, ou que des déchets soient préparés pour être utilisés à cette fin, dans l’usine ou dans l’ensemble de l’économie. L’annexe II énumère une liste non exhaustive d’opérations de valorisation ;
+- « valorisation » : toute opération dont le résultat principal est que des déchets servent à des fins utiles en remplaçant d’autres matières ou produits qui auraient été utilisées à une fin particulière, ou que des déchets soient préparés pour être utilisés à cette fin, dans l’usine ou dans l’ensemble de l’économie. L’annexe II énumère une liste non exhaustive d’opérations de valorisation ;
 
-43. « valorisation matière » : toute opération de valorisation autre que la valorisation énergétique et le retraitement en matières destinées à servir de combustible ou d’autre moyen de produire de l’énergie. Elle comprend notamment la préparation à la réutilisation, le recyclage et le remblayage.
+- « valorisation matière » : toute opération de valorisation autre que la valorisation énergétique et le retraitement en matières destinées à servir de combustible ou d’autre moyen de produire de l’énergie. Elle comprend notamment la préparation à la réutilisation, le recyclage et le remblayage.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -240,13 +240,13 @@ Sous-produits
 
 Une substance ou un objet issu d’un processus de production dont le but premier n’est pas la production dudit bien est considéré comme un sous-produit et non pas comme un déchet au sens de l’article 4 lorsque les conditions suivantes sont remplies.
 
-1. l'utilisation ultérieure de la substance ou de l'objet est certaine;
+- l'utilisation ultérieure de la substance ou de l'objet est certaine;
 
-2. la substance ou l'objet peut être utilisé directement sans traitement supplémentaire autre que les pratiques industrielles courantes;
+- la substance ou l'objet peut être utilisé directement sans traitement supplémentaire autre que les pratiques industrielles courantes;
 
-3. la substance ou l'objet est produit en faisant partie intégrante d'un processus de production; et
+- la substance ou l'objet est produit en faisant partie intégrante d'un processus de production; et
 
-4. l'utilisation ultérieure est légale, c'est-à-dire que la substance ou l'objet répond à toutes les prescriptions pertinentes relatives au produit, à l'environnement et à la protection de la santé prévues pour l'utilisation spécifique et n'aura pas d'incidences globales nocives pour l'environnement ou la santé humaine.
+- l'utilisation ultérieure est légale, c'est-à-dire que la substance ou l'objet répond à toutes les prescriptions pertinentes relatives au produit, à l'environnement et à la protection de la santé prévues pour l'utilisation spécifique et n'aura pas d'incidences globales nocives pour l'environnement ou la santé humaine.
 
 (2)
 
@@ -261,13 +261,13 @@ Fin du statut de déchet
 
 Les déchets cessent d’être des déchets au sens de l’article 4, point 6° lorsqu’ils ont subi une opération de valorisation ou de recyclage et répondent à des critères spécifiques à définir dans le respect des conditions suivantes :
 
-1. la substance ou l’objet doit être utilisé à des fins spécifiques ;
+- la substance ou l’objet doit être utilisé à des fins spécifiques ;
 
-2. il existe un marché ou une demande pour une telle substance ou un tel objet;
+- il existe un marché ou une demande pour une telle substance ou un tel objet;
 
-3. la substance ou l'objet remplit les exigences techniques aux fins spécifiques et respecte la législation et les normes applicables aux produits; et
+- la substance ou l'objet remplit les exigences techniques aux fins spécifiques et respecte la législation et les normes applicables aux produits; et
 
-4. l'utilisation de la substance ou de l'objet n'aura pas d'effets globaux nocifs pour l'environnement ou la santé humaine.
+- l'utilisation de la substance ou de l'objet n'aura pas d'effets globaux nocifs pour l'environnement ou la santé humaine.
 
 Les critères comprennent des valeurs limites pour les polluants, si nécessaire, et tiennent compte de tout effet environnemental préjudiciable éventuel de la substance ou de l'objet.
 
@@ -287,9 +287,9 @@ Les déchets qui cessent d'être des déchets conformément aux paragraphes (1) 
 
 Toute personne physique ou morale qui :
 
-1. utilise pour la première fois une matière qui a cessé d’être un déchet et qui n’a pas été mise sur le marché ; ou
+- utilise pour la première fois une matière qui a cessé d’être un déchet et qui n’a pas été mise sur le marché ; ou
 
-2. qui met pour la première fois sur le marché une matière après qu’elle a cessé d’être un déchet,
+- qui met pour la première fois sur le marché une matière après qu’elle a cessé d’être un déchet,
 
 veille à ce que cette matière respecte les exigences pertinentes de la législation applicable sur les substances chimiques et les produits. Les conditions énoncées au paragraphe 1er doivent être remplies avant que la législation sur les substances chimiques et les produits ne s’applique à la matière qui a cessé d’être un déchet.
 
@@ -331,15 +331,15 @@ Hiérarchie des déchets
 
 La hiérarchie des déchets ci-après s'applique par ordre de priorité dans la législation et la politique en matière de prévention et de gestion des déchets:
 
-1. la prévention;
+- la prévention;
 
-2. la préparation à la réutilisation ;
+- la préparation à la réutilisation ;
 
-3. le recyclage;
+- le recyclage;
 
-4. toute autre valorisation, notamment valorisation énergétique; et
+- toute autre valorisation, notamment valorisation énergétique; et
 
-5. l'élimination.
+- l'élimination.
 
 (2)
 
@@ -360,11 +360,11 @@ Protection de la santé humaine et de l'environnement
 
 La gestion des déchets doit se faire sans mettre en danger la santé humaine et sans nuire à l'environnement, et notamment:
 
-1. sans créer de risque pour l'eau, l'air, le sol, la faune ou la flore;
+- sans créer de risque pour l'eau, l'air, le sol, la faune ou la flore;
 
-2. sans provoquer de nuisances sonores ou olfactives; et
+- sans provoquer de nuisances sonores ou olfactives; et
 
-3. sans porter atteinte aux paysages et aux sites présentant un intérêt particulier.
+- sans porter atteinte aux paysages et aux sites présentant un intérêt particulier.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -384,9 +384,9 @@ Prévention des déchets
 
 Lors de la conception ou de la production de produits ou de la fourniture de prestations, les fabricants ou les prestataires de services sont tenus de prendre toutes les mesures qui s'imposent pour que:
 
-1. la production de leurs produits ou la conception de leurs prestations et
+- la production de leurs produits ou la conception de leurs prestations et
 
-2. la consommation du produit ou le recours aux prestations tiennent compte de la prévention des déchets au sens de l’article 4, point 21.
+- la consommation du produit ou le recours aux prestations tiennent compte de la prévention des déchets au sens de l’article 4, point 21.
 
 (2)
 
@@ -394,13 +394,13 @@ Aux fins de la prévention des déchets il doit être recouru, dans la mesure du
 
 Des règlements grand-ducaux peuvent:
 
-1. restreindre, limiter ou interdire l'utilisation en tout ou en partie de certains produits ou substances;
+- restreindre, limiter ou interdire l'utilisation en tout ou en partie de certains produits ou substances;
 
-2. restreindre, limiter ou interdire certaines pratiques génératrices de déchets.
+- restreindre, limiter ou interdire certaines pratiques génératrices de déchets.
 
-3. déterminer les objectifs qualitatifs ou quantitatifs et les indicateurs qui permettent de surveiller et d’évaluer la mise en œuvre des mesures de prévention des déchets et de réemploi, ainsi que déterminer les acteurs, les modalités et la fréquence de la transmission de ces informations à l’administration compétente ;
+- déterminer les objectifs qualitatifs ou quantitatifs et les indicateurs qui permettent de surveiller et d’évaluer la mise en œuvre des mesures de prévention des déchets et de réemploi, ainsi que déterminer les acteurs, les modalités et la fréquence de la transmission de ces informations à l’administration compétente ;
 
-4. déterminer les qualités que doivent respecter des produits ou des composants pour permettre leur réemploi.
+- déterminer les qualités que doivent respecter des produits ou des composants pour permettre leur réemploi.
 
 (3)
 
@@ -412,9 +412,9 @@ Les dons alimentaires et les autres formes de redistribution en vue de la consom
 
 Afin de prévenir et de limiter la production de déchets alimentaires :
 
-1. les supermarchés d’une surface de vente d’au moins 400 mètres carrés doivent élaborer, mettre en œuvre et tenir à jour un plan de prévention des déchets alimentaires. Les supermarchés qui font partie d’une même enseigne commerciale peuvent élaborer un plan pour l’ensemble de leurs supermarchés. Ce plan doit comprendre une méthodologie et des mesures pour diminuer les déchets alimentaires. Il peut faire partie intégrante du plan de prévention et de gestion des déchets visé à l’article 27, paragraphe 3. Le plan de prévention des déchets alimentaires doit être communiqué annuellement à l’administration compétente pour le 31 octobre au plus tard de l’année qui précède l’année à laquelle le plan s’applique. Les supermarchés concernés publient les plans sur un site internet accessible au public.
+- les supermarchés d’une surface de vente d’au moins 400 mètres carrés doivent élaborer, mettre en œuvre et tenir à jour un plan de prévention des déchets alimentaires. Les supermarchés qui font partie d’une même enseigne commerciale peuvent élaborer un plan pour l’ensemble de leurs supermarchés. Ce plan doit comprendre une méthodologie et des mesures pour diminuer les déchets alimentaires. Il peut faire partie intégrante du plan de prévention et de gestion des déchets visé à l’article 27, paragraphe 3. Le plan de prévention des déchets alimentaires doit être communiqué annuellement à l’administration compétente pour le 31 octobre au plus tard de l’année qui précède l’année à laquelle le plan s’applique. Les supermarchés concernés publient les plans sur un site internet accessible au public.
 
-2. Tout client d’un restaurant a le droit à ce que ses restes de repas lui soient remis pour être emportés.
+- Tout client d’un restaurant a le droit à ce que ses restes de repas lui soient remis pour être emportés.
 
 (5)
 
@@ -426,9 +426,9 @@ Tout fournisseur d’un article au sens de l’article 3, point 33), du règleme
 
 En vue de prévenir l’abandon de déchets :
 
-1. Le dépôt d’imprimés publicitaires sur les véhicules est interdit ;
+- Le dépôt d’imprimés publicitaires sur les véhicules est interdit ;
 
-2. Le lancement sur la voie publique, de confettis, serpentins et autres projectiles festifs, lorsqu’ils contiennent du plastique ou du métal, est interdit.
+- Le lancement sur la voie publique, de confettis, serpentins et autres projectiles festifs, lorsqu’ils contiennent du plastique ou du métal, est interdit.
 
 (7)
 
@@ -446,25 +446,25 @@ En vue de prévenir l’abandon de déchets :
 
 Afin de lutter contre la dispersion de microplastiques :
 
-1. À compter du 1 er janvier 2025, les lave-linges neufs sont dotés d’un filtre à microfibres plastiques. Un règlement grand-ducal précise les modalités d’application du présent article.
+- À compter du 1 er janvier 2025, les lave-linges neufs sont dotés d’un filtre à microfibres plastiques. Un règlement grand-ducal précise les modalités d’application du présent article.
 
-2. La mise sur le marché de toute substance à l’état de microplastique, telle quelle ou en mélange, présente de manière intentionnelle en concentration égale ou supérieure à 0,01 % pour cent, considérée comme le rapport entre la masse de microplastique et la masse totale de l’échantillon de matière considéré contenant ce microplastique est interdite. Les microplastiques naturels qui n’ont pas été modifiés chimiquement ou biodégradables ne sont pas concernés. Cette interdiction s’applique : Cette interdiction ne s’applique pas aux substances et mélanges :
+- La mise sur le marché de toute substance à l’état de microplastique, telle quelle ou en mélange, présente de manière intentionnelle en concentration égale ou supérieure à 0,01 % pour cent, considérée comme le rapport entre la masse de microplastique et la masse totale de l’échantillon de matière considéré contenant ce microplastique est interdite. Les microplastiques naturels qui n’ont pas été modifiés chimiquement ou biodégradables ne sont pas concernés. Cette interdiction s’applique : Cette interdiction ne s’applique pas aux substances et mélanges :
 
-1. Aux produits cosmétiques rincés à usage d’exfoliation ou de nettoyage comportant des particules plastiques solides, à l’exception des particules d’origine naturelle non susceptibles de subsister dans les milieux, d’y propager des principes actifs chimiques ou biologiques ou d’affecter les chaînes trophiques animales ;
+  - Aux produits cosmétiques rincés à usage d’exfoliation ou de nettoyage comportant des particules plastiques solides, à l’exception des particules d’origine naturelle non susceptibles de subsister dans les milieux, d’y propager des principes actifs chimiques ou biologiques ou d’affecter les chaînes trophiques animales ;
 
-2. Aux dispositifs médicaux et aux dispositifs médicaux de diagnostic in vitro , à compter du 1 er janvier 2024 ;
+  - Aux dispositifs médicaux et aux dispositifs médicaux de diagnostic in vitro , à compter du 1 er janvier 2024 ;
 
-3. Aux produits cosmétiques rincés autres que ceux mentionnés au point 1° er à compter du 1 er janvier 2026 ;
+  - Aux produits cosmétiques rincés autres que ceux mentionnés au point 1° er à compter du 1 er janvier 2026 ;
 
-1. Lorsqu’ils sont utilisés sur un site industriel ;
+  - Lorsqu’ils sont utilisés sur un site industriel ;
 
-2. Lorsqu’ils sont utilisés dans la fabrication de médicaments à usage humain ou vétérinaire ;
+  - Lorsqu’ils sont utilisés dans la fabrication de médicaments à usage humain ou vétérinaire ;
 
-3. Lorsque les microplastiques sont rigoureusement confinés par des moyens techniques tout au long de leur cycle de vie pour éviter leur rejet dans l’environnement et que les microplastiques sont contenus dans des déchets destinés à être incinérés ou éliminés comme déchets dangereux ;
+  - Lorsque les microplastiques sont rigoureusement confinés par des moyens techniques tout au long de leur cycle de vie pour éviter leur rejet dans l’environnement et que les microplastiques sont contenus dans des déchets destinés à être incinérés ou éliminés comme déchets dangereux ;
 
-4. Lorsque les propriétés physiques des microplastiques sont modifiées de façon permanente quand la substance ou le mélange sont utilisés de telle manière que les polymères ne correspondent plus à la définition de microplastique ;
+  - Lorsque les propriétés physiques des microplastiques sont modifiées de façon permanente quand la substance ou le mélange sont utilisés de telle manière que les polymères ne correspondent plus à la définition de microplastique ;
 
-5. Lorsque les microplastiques sont incorporés de façon permanente dans une matrice solide lors de leur utilisation.
+  - Lorsque les microplastiques sont incorporés de façon permanente dans une matrice solide lors de leur utilisation.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -483,41 +483,41 @@ Afin de faciliter ou d’améliorer la préparation en vue de la réutilisation,
 
 La collecte séparée mentionnée à l’alinéa 1er doit être instaurée au moins pour les fractions de déchets suivantes :
 
-1. le papier et le carton ;
+- le papier et le carton ;
 
-2. le verre ;
+- le verre ;
 
-3. les métaux ;
+- les métaux ;
 
-4. les matières plastiques ;
+- les matières plastiques ;
 
-5. les biodéchets ;
+- les biodéchets ;
 
-6. le bois ;
+- le bois ;
 
-7. les textiles ;
+- les textiles ;
 
-8. les emballages au sens de l’article 3, point 7 de la loi modifiée du 21 mars 2017 relative aux emballages et aux déchets d’emballages ;
+- les emballages au sens de l’article 3, point 7 de la loi modifiée du 21 mars 2017 relative aux emballages et aux déchets d’emballages ;
 
-9. les déchets problématiques des ménages ;
+- les déchets problématiques des ménages ;
 
-10. les équipements électriques et électroniques au sens de la loi du 9 juin 2022 relative aux déchets d’équipements électriques et électronique ;
+- les équipements électriques et électroniques au sens de la loi du 9 juin 2022 relative aux déchets d’équipements électriques et électronique ;
 
-11. les piles et accumulateurs au sens de la loi modifiée du 19 décembre 2008 relative aux piles et accumulateurs ainsi qu’aux déchets de piles et d’accumulateur ;
+- les piles et accumulateurs au sens de la loi modifiée du 19 décembre 2008 relative aux piles et accumulateurs ainsi qu’aux déchets de piles et d’accumulateur ;
 
-12. les pneus.
+- les pneus.
 
 (3)
 
 Le ministre peut accorder une dérogation au paragraphe 2 si au moins une des conditions suivantes est remplie :
 
-1. la collecte conjointe de certains types de déchets n’affecte pas leur capacité à faire l’objet d’une préparation à la réutilisation, d’un recyclage ou d’autres opérations de valorisation conformément à l’article 9, paragraphe 1 et produit, à l’issue de ces opérations, un résultat de qualité comparable à celui obtenu au moyen d’une collecte séparée ;
+- la collecte conjointe de certains types de déchets n’affecte pas leur capacité à faire l’objet d’une préparation à la réutilisation, d’un recyclage ou d’autres opérations de valorisation conformément à l’article 9, paragraphe 1 et produit, à l’issue de ces opérations, un résultat de qualité comparable à celui obtenu au moyen d’une collecte séparée ;
 
-2. la collecte séparée ne produit pas le meilleur résultat sur le plan de l’environnement si l’on tient compte de l’incidence globale de la gestion des flux de déchets concernés sur l’environnement ;
+- la collecte séparée ne produit pas le meilleur résultat sur le plan de l’environnement si l’on tient compte de l’incidence globale de la gestion des flux de déchets concernés sur l’environnement ;
 
-3. la collecte séparée n’est pas techniquement réalisable compte tenu des bonnes pratiques de collecte des déchets ;
+- la collecte séparée n’est pas techniquement réalisable compte tenu des bonnes pratiques de collecte des déchets ;
 
-4. la collecte séparée entraînerait des coûts économiques disproportionnés compte tenu du coût des incidences négatives de la collecte et du traitement de déchets en mélange sur l’environnement et la santé, des possibilités d’amélioration de l’efficacité de la collecte et du traitement des déchets, des recettes tirées des ventes de matières premières secondaires ainsi que de l’application du principe du pollueur-payeur et de la responsabilité élargie des producteurs.
+- la collecte séparée entraînerait des coûts économiques disproportionnés compte tenu du coût des incidences négatives de la collecte et du traitement de déchets en mélange sur l’environnement et la santé, des possibilités d’amélioration de l’efficacité de la collecte et du traitement des déchets, des recettes tirées des ventes de matières premières secondaires ainsi que de l’application du principe du pollueur-payeur et de la responsabilité élargie des producteurs.
 
 La personne qui souhaite obtenir une dérogation au sens du présent paragraphe doit introduire auprès de l’administration compétente une demande qui reprend les éléments nécessaires pour pouvoir juger si au moins l’une des conditions reprises ci-dessus est respectée.
 
@@ -553,9 +553,9 @@ Sans préjudice de la responsabilité élargie des producteurs visée à l’art
 
 L’administration compétente peut interdire la réalisation de la campagne de collecte si :
 
-1. la campagne ne permet pas de respecter la hiérarchie des déchets selon l’article 9, paragraphe 1 er ;
+- la campagne ne permet pas de respecter la hiérarchie des déchets selon l’article 9, paragraphe 1 er ;
 
-2. les informations dont il est question à l’alinéa 1 er ne sont pas fournies dans le délai y indiqué.
+- les informations dont il est question à l’alinéa 1 er ne sont pas fournies dans le délai y indiqué.
 
 (9)
 
@@ -578,13 +578,13 @@ Réemploi et recyclage
 
 Les producteurs visés à l’article 19, les communes et l’État, chacun en ce qui le concerne, sont tenus de prendre les mesures nécessaires pour promouvoir le réemploi et la préparation à la réutilisation, moyennant :
 
-1. des activités de préparation à la réutilisation, dont la mise en place et le soutien de réseaux de réemploi, de réparation et de réutilisation ;
+- des activités de préparation à la réutilisation, dont la mise en place et le soutien de réseaux de réemploi, de réparation et de réutilisation ;
 
-2. la facilitation de la prise en compte du réemploi et de la préparation à la réutilisation dans les marchés publics, tel que prévu aux termes de l’article 22 ;
+- la facilitation de la prise en compte du réemploi et de la préparation à la réutilisation dans les marchés publics, tel que prévu aux termes de l’article 22 ;
 
-3. l’utilisation d’instruments économiques et d’objectifs quantitatifs ou d’autres mesures ;
+- l’utilisation d’instruments économiques et d’objectifs quantitatifs ou d’autres mesures ;
 
-4. la facilitation, lorsque c’est compatible avec la bonne gestion des déchets, de l’accès aux déchets qui sont détenus par les systèmes ou les installations de collecte et qui sont susceptibles de faire l’objet d’une préparation en vue de la réutilisation mais qui ne sont pas destinés à faire l’objet d’une telle préparation par le système ou l’installation de collecte en question.
+- la facilitation, lorsque c’est compatible avec la bonne gestion des déchets, de l’accès aux déchets qui sont détenus par les systèmes ou les installations de collecte et qui sont susceptibles de faire l’objet d’une préparation en vue de la réutilisation mais qui ne sont pas destinés à faire l’objet d’une telle préparation par le système ou l’installation de collecte en question.
 
 (2)
 
@@ -598,15 +598,15 @@ Les collectes séparées des déchets doivent avoir pour but d’assurer leur pr
 
 Afin de se conformer aux objectifs de la présente loi et d’effectuer une transition vers une économie circulaire avec un niveau élevé d’efficacité des ressources, les différents acteurs concernés par la production et la gestion des déchets doivent prendre les mesures nécessaires afin de parvenir aux objectifs suivants :
 
-1. d’ici 2020, la préparation en vue de la réutilisation et le recyclage des déchets tels que, au moins, le papier, le métal, le plastique et le verre contenus dans les déchets ménagers et, éventuellement, dans les déchets d’autres origines pour autant que ces flux de déchets soient assimilés aux déchets ménagers, passent à un minimum de 50 pour cent en poids global ;
+- d’ici 2020, la préparation en vue de la réutilisation et le recyclage des déchets tels que, au moins, le papier, le métal, le plastique et le verre contenus dans les déchets ménagers et, éventuellement, dans les déchets d’autres origines pour autant que ces flux de déchets soient assimilés aux déchets ménagers, passent à un minimum de 50 pour cent en poids global ;
 
-2. d’ici 2020, la préparation en vue de la réutilisation, le recyclage et les autres formules de valorisation de matière, y compris les opérations de remblayage qui utilisent des déchets au lieu d’autres matériaux, des déchets non dangereux de construction et de déconstruction, à l’exclusion des matériaux géologiques naturels définis dans la catégorie 17 05 04 de la liste des déchets, passent à un minimum de 70 pour cent en poids ;
+- d’ici 2020, la préparation en vue de la réutilisation, le recyclage et les autres formules de valorisation de matière, y compris les opérations de remblayage qui utilisent des déchets au lieu d’autres matériaux, des déchets non dangereux de construction et de déconstruction, à l’exclusion des matériaux géologiques naturels définis dans la catégorie 17 05 04 de la liste des déchets, passent à un minimum de 70 pour cent en poids ;
 
-3. d’ici 2023, la préparation en vue de la réutilisation et le recyclage des déchets municipaux passent à un minimum de 55 pour cent en poids ;
+- d’ici 2023, la préparation en vue de la réutilisation et le recyclage des déchets municipaux passent à un minimum de 55 pour cent en poids ;
 
-4. d’ici 2030, la préparation en vue de la réutilisation et le recyclage des déchets municipaux passent à un minimum de 60 pour cent en poids ;
+- d’ici 2030, la préparation en vue de la réutilisation et le recyclage des déchets municipaux passent à un minimum de 60 pour cent en poids ;
 
-5. d’ici 2035, la préparation en vue de la réutilisation et le recyclage des déchets municipaux passent à un minimum de 65 pour cent en poids.
+- d’ici 2035, la préparation en vue de la réutilisation et le recyclage des déchets municipaux passent à un minimum de 65 pour cent en poids.
 
 L’administration compétente fait le calcul des taux de recyclage. Les modalités de calcul de ces taux ainsi que les données à fournir par les différents acteurs concernés, peuvent être déterminées par règlement grand-ducal.
 
@@ -619,11 +619,11 @@ Règles applicables au calcul visant à évaluer la réalisation des objectifs
 
 Aux fins du calcul visant à déterminer si les objectifs fixés à l’article 14, paragraphe 4, points 3°, 4° et 5° ont été atteints :
 
-1. le poids des déchets municipaux produits et préparés en vue de la réutilisation ou recyclés au cours d’une année civile donnée est calculé ;
+- le poids des déchets municipaux produits et préparés en vue de la réutilisation ou recyclés au cours d’une année civile donnée est calculé ;
 
-2. le poids des déchets municipaux préparés en vue de la réutilisation est calculé comme étant le poids des produits ou des composants de produits qui sont devenus des déchets municipaux et qui ont été soumis à toutes les opérations nécessaires de contrôle, de nettoyage ou de réparation nécessaires pour permettre leur réutilisation sans autre tri ni prétraitement ;
+- le poids des déchets municipaux préparés en vue de la réutilisation est calculé comme étant le poids des produits ou des composants de produits qui sont devenus des déchets municipaux et qui ont été soumis à toutes les opérations nécessaires de contrôle, de nettoyage ou de réparation nécessaires pour permettre leur réutilisation sans autre tri ni prétraitement ;
 
-3. le poids des déchets municipaux recyclés est calculé comme étant le poids des déchets qui, après avoir été soumis à toutes les opérations nécessaires de contrôle, de tri et autres opérations préliminaires nécessaires pour retirer les déchets qui ne sont pas visés par les procédés de retraitement ultérieurs et assurer un recyclage de qualité élevée, entrent dans l’opération de recyclage au cours de laquelle les déchets sont effectivement retraités en produits, matières ou substances.
+- le poids des déchets municipaux recyclés est calculé comme étant le poids des déchets qui, après avoir été soumis à toutes les opérations nécessaires de contrôle, de tri et autres opérations préliminaires nécessaires pour retirer les déchets qui ne sont pas visés par les procédés de retraitement ultérieurs et assurer un recyclage de qualité élevée, entrent dans l’opération de recyclage au cours de laquelle les déchets sont effectivement retraités en produits, matières ou substances.
 
 (2)
 
@@ -631,9 +631,9 @@ Aux fins du paragraphe 1, point 3°, le poids des déchets municipaux recyclés 
 
 Par dérogation au premier alinéa, le poids des déchets municipaux peut être mesuré à la sortie de toute opération de tri, à condition que :
 
-1. ces déchets, après être sortis de l’opération de tri, soient ensuite recyclés ;
+- ces déchets, après être sortis de l’opération de tri, soient ensuite recyclés ;
 
-2. le poids des matières ou des substances qui sont retirées par d’autres opérations précédant celle de recyclage et qui ne sont pas ensuite recyclées ne soit pas compris dans le poids des déchets déclarés comme ayant été recyclés.
+- le poids des matières ou des substances qui sont retirées par d’autres opérations précédant celle de recyclage et qui ne sont pas ensuite recyclées ne soit pas compris dans le poids des déchets déclarés comme ayant été recyclés.
 
 (3)
 
@@ -689,11 +689,11 @@ Principes d'autosuffisance et de proximité
 
 (1)
 
-1. L'élimination et la valorisation des déchets municipaux en mélange collectées auprès des ménages privés, y compris lorsque cette collecte concerne également de tels déchets provenant d'autres producteurs, se fait moyennant un réseau intégré et adéquat d'installations tenant compte des meilleures techniques disponibles. Lorsque cela s'avère nécessaire ou opportun le réseau peut être établi en coopération avec d'autres Etats membres. Ce réseau doit être dûment approuvé par le ministre. Les transferts de déchets municipaux en mélange vers des opérations de valorisation ou d'élimination situées hors du Luxembourg sont interdits sauf dans les cas de force majeure dûment constatés par le ministre, ou lorsque l'installation située dans un autre Etat membre fait partie intégrante du réseau mentionné à l'alinéa précédent.
+- L'élimination et la valorisation des déchets municipaux en mélange collectées auprès des ménages privés, y compris lorsque cette collecte concerne également de tels déchets provenant d'autres producteurs, se fait moyennant un réseau intégré et adéquat d'installations tenant compte des meilleures techniques disponibles. Lorsque cela s'avère nécessaire ou opportun le réseau peut être établi en coopération avec d'autres Etats membres. Ce réseau doit être dûment approuvé par le ministre. Les transferts de déchets municipaux en mélange vers des opérations de valorisation ou d'élimination situées hors du Luxembourg sont interdits sauf dans les cas de force majeure dûment constatés par le ministre, ou lorsque l'installation située dans un autre Etat membre fait partie intégrante du réseau mentionné à l'alinéa précédent.
 
-2. Par dérogation au règlement (CE) n° 1013/2006 , l'administration compétente peut, en vue de protéger le réseau national, limiter les importations de déchets destinés aux incinérateurs et relevant de la valorisation, lorsqu'il a été établi que de telles importations auraient pour conséquence de devoir éliminer des déchets nationaux ou que ces déchets devraient être traités d'une manière qui n'est pas conforme au plan général de gestion des déchets. L'administration compétente notifie toute décision de ce type à la Commission européenne.
+- Par dérogation au règlement (CE) n° 1013/2006 , l'administration compétente peut, en vue de protéger le réseau national, limiter les importations de déchets destinés aux incinérateurs et relevant de la valorisation, lorsqu'il a été établi que de telles importations auraient pour conséquence de devoir éliminer des déchets nationaux ou que ces déchets devraient être traités d'une manière qui n'est pas conforme au plan général de gestion des déchets. L'administration compétente notifie toute décision de ce type à la Commission européenne.
 
-3. Les transferts de déchets inertes vers des opérations d'élimination situées hors du Luxembourg sont interdits sauf dans les cas de force majeure dûment constatés par le ministre.
+- Les transferts de déchets inertes vers des opérations d'élimination situées hors du Luxembourg sont interdits sauf dans les cas de force majeure dûment constatés par le ministre.
 
 (2)
 
@@ -773,9 +773,9 @@ Si, en application de la présente loi, plusieurs personnes sont responsables du
 
 Le producteur n'est pas responsable s'il prouve:
 
-1. que le dommage résulte de la faute de la victime ou d'une personne dont celle-ci est responsable, ou
+- que le dommage résulte de la faute de la victime ou d'une personne dont celle-ci est responsable, ou
 
-2. que le dommage résulte d'un cas de force majeure.
+- que le dommage résulte d'un cas de force majeure.
 
 La responsabilité du producteur ne peut être limitée ou écartée à l'égard de la victime par une clause limitative ou exonératoire de responsabilité. Le producteur ne peut se dégager de sa responsabilité par le seul fait d'être muni d'une autorisation des pouvoirs publics.
 
@@ -816,29 +816,29 @@ Ces organismes doivent être agréés au préalable par le ministre.
 
 L’agrément mentionné au paragraphe 5 ne peut être accordé qu’à des personnes morales qui remplissent les conditions suivantes :
 
-1. avoir comme objet principal la prise en charge pour le compte de leurs membres des obligations, selon les cas, de reprise et de collecte séparée, de traitement, de recyclage, de réemploi, de la préparation à la réutilisation, de financement et d’information découlant des dispositions légales et réglementaires spécifiques aux divers flux de produits et de déchets ;
+- avoir comme objet principal la prise en charge pour le compte de leurs membres des obligations, selon les cas, de reprise et de collecte séparée, de traitement, de recyclage, de réemploi, de la préparation à la réutilisation, de financement et d’information découlant des dispositions légales et réglementaires spécifiques aux divers flux de produits et de déchets ;
 
-2. avoir comme membres les personnes visées au paragraphe 1 er qu’elles représentent ;
+- avoir comme membres les personnes visées au paragraphe 1 er qu’elles représentent ;
 
-3. être constituées sous une forme qui ne poursuit pas un but lucratif ;
+- être constituées sous une forme qui ne poursuit pas un but lucratif ;
 
-4. ne compter parmi leurs administrateurs ou parmi les personnes pouvant engager l’association que des personnes jouissant de leurs droits civils et politiques ;
+- ne compter parmi leurs administrateurs ou parmi les personnes pouvant engager l’association que des personnes jouissant de leurs droits civils et politiques ;
 
-5. disposer des moyens financiers et organisationnels suffisants, y compris assurances et garanties financières pour les cas visés au dernier alinéa , pour accomplir les obligations en question et disposer d’une couverture géographique nationale ;
+- disposer des moyens financiers et organisationnels suffisants, y compris assurances et garanties financières pour les cas visés au dernier alinéa , pour accomplir les obligations en question et disposer d’une couverture géographique nationale ;
 
-6. représenter une quantité minimale de 30 pour cent en poids du total des produits mis annuellement sur le marché national pour lesquels l’organisme a introduit une demande d’agrément. Pour le cas où ces produits sont subdivisés en diverses catégories, le taux de 30 pour cent est déterminé par l’addition du poids des produits mis annuellement sur le marché dans chacune des catégories pour lesquelles l’organisme a introduit une demande d’agrément. Dans ce cas, l’organisme doit en outre représenter un minimum de 5 pour cent en poids du total des produits mis annuellement sur le marché national dans l’ensemble des catégories respectives.
+- représenter une quantité minimale de 30 pour cent en poids du total des produits mis annuellement sur le marché national pour lesquels l’organisme a introduit une demande d’agrément. Pour le cas où ces produits sont subdivisés en diverses catégories, le taux de 30 pour cent est déterminé par l’addition du poids des produits mis annuellement sur le marché dans chacune des catégories pour lesquelles l’organisme a introduit une demande d’agrément. Dans ce cas, l’organisme doit en outre représenter un minimum de 5 pour cent en poids du total des produits mis annuellement sur le marché national dans l’ensemble des catégories respectives.
 
 La demande d’agrément doit :
 
-1. mentionner l’identité du requérant ;
+- mentionner l’identité du requérant ;
 
-2. être accompagnée d’une copie des statuts ;
+- être accompagnée d’une copie des statuts ;
 
-3. indiquer les noms, prénoms et qualités des administrateurs, gérants et autres personnes pouvant engager l’organisme et documenter les connaissances professionnelles de ces derniers ;
+- indiquer les noms, prénoms et qualités des administrateurs, gérants et autres personnes pouvant engager l’organisme et documenter les connaissances professionnelles de ces derniers ;
 
-4. énumérer les produits pour lesquels l’agrément est demandé ;
+- énumérer les produits pour lesquels l’agrément est demandé ;
 
-5. le cas échéant, décrire les méthodes de reprise et de collecte séparée pour les différents types de déchets ainsi que les filières de traitement des différents types de déchets, en incluant les destinataires intermédiaires et finaux ;
+- le cas échéant, décrire les méthodes de reprise et de collecte séparée pour les différents types de déchets ainsi que les filières de traitement des différents types de déchets, en incluant les destinataires intermédiaires et finaux ;
 
 La demande d’agrément est introduite auprès de l’administration compétente.
 
@@ -854,37 +854,37 @@ En cas de dissolution, de cessation d’activité ou de non prolongation, caduci
 
 L’organisme agréé est tenu :
 
-1. de se conformer aux conditions fixées dans l’agrément ;
+- de se conformer aux conditions fixées dans l’agrément ;
 
-2. de conclure un contrat ou une convention avec les producteurs, les distributeurs ou les tiers agissant pour leur compte pour prendre en charge leurs obligations ;
+- de conclure un contrat ou une convention avec les producteurs, les distributeurs ou les tiers agissant pour leur compte pour prendre en charge leurs obligations ;
 
-3. de conclure un contrat d’assurance couvrant les dommages susceptibles d’être causés par son activité ;
+- de conclure un contrat d’assurance couvrant les dommages susceptibles d’être causés par son activité ;
 
-4. de présenter chaque année ses bilans et comptes pour l’année écoulée et ses projets de budget pour l’année suivante dans les délais fixés par l’agrément ;
+- de présenter chaque année ses bilans et comptes pour l’année écoulée et ses projets de budget pour l’année suivante dans les délais fixés par l’agrément ;
 
-5. d’accepter comme membre tout producteur de produits qui en fait la demande ;
+- d’accepter comme membre tout producteur de produits qui en fait la demande ;
 
-6. de percevoir auprès de ses membres les contributions nécessaires pour couvrir le coût de l’ensemble des obligations qui lui incombent en vertu de la présente loi ainsi que de la législation ou réglementation spécifique régissant le ou les produits soumis au régime de la responsabilité élargie des producteurs pour lequel ou lesquels il est désigné ;
+- de percevoir auprès de ses membres les contributions nécessaires pour couvrir le coût de l’ensemble des obligations qui lui incombent en vertu de la présente loi ainsi que de la législation ou réglementation spécifique régissant le ou les produits soumis au régime de la responsabilité élargie des producteurs pour lequel ou lesquels il est désigné ;
 
-7. d’introduire une modulation des contributions demandées à ses membres, conformément aux dispositions du paragraphe 11, alinéa 4 ;
+- d’introduire une modulation des contributions demandées à ses membres, conformément aux dispositions du paragraphe 11, alinéa 4 ;
 
-8. de mettre en place un mécanisme d’autocontrôle approprié, reposant, le cas échéant, sur des audits indépendants réguliers, afin d’évaluer sa gestion financière, y compris le respect des exigences énoncées au paragraphe 46, alinéa 1 er et la qualité des données recueillies et communiquées conformément au présent article et aux exigences du règlement (CE) n°1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets ;
+- de mettre en place un mécanisme d’autocontrôle approprié, reposant, le cas échéant, sur des audits indépendants réguliers, afin d’évaluer sa gestion financière, y compris le respect des exigences énoncées au paragraphe 46, alinéa 1 er et la qualité des données recueillies et communiquées conformément au présent article et aux exigences du règlement (CE) n°1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets ;
 
-9. de réaliser des mesures de sensibilisation et d’information en rapport avec le régime de responsabilité élargie du producteur.
+- de réaliser des mesures de sensibilisation et d’information en rapport avec le régime de responsabilité élargie du producteur.
 
 Il est en outre tenu, selon les cas :
 
-1. de réaliser des mesures de prévention et de réemploi en concertation avec l’administration compétente ;
+- de réaliser des mesures de prévention et de réemploi en concertation avec l’administration compétente ;
 
-2. d’assurer le traitement des déchets conformément à l’article 10 ;
+- d’assurer le traitement des déchets conformément à l’article 10 ;
 
-3. d’assurer la transparence des flux de déchets, en terme de quantités et de destinations, de méthodes de traitement et de taux de collecte de recyclage et de valorisation ;
+- d’assurer la transparence des flux de déchets, en terme de quantités et de destinations, de méthodes de traitement et de taux de collecte de recyclage et de valorisation ;
 
-4. de fonctionner dans toute la mesure du possible sur base d’appels d’offres ;
+- de fonctionner dans toute la mesure du possible sur base d’appels d’offres ;
 
-5. d’enregistrer ses membres auprès de l’administration compétente et d’en actualiser la liste ;
+- d’enregistrer ses membres auprès de l’administration compétente et d’en actualiser la liste ;
 
-6. de réaliser, pour l’ensemble des personnes ayant contracté avec lui et dans les délais prévus, au moins les objectifs imposés, le cas échéant, par la réglementation spécifique. Pour cela, il doit veiller à la remontée des données et à leur qualité par l’ensemble des personnes ayant contracté avec lui ainsi que des destinataires intermédiaires et finaux.
+- de réaliser, pour l’ensemble des personnes ayant contracté avec lui et dans les délais prévus, au moins les objectifs imposés, le cas échéant, par la réglementation spécifique. Pour cela, il doit veiller à la remontée des données et à leur qualité par l’ensemble des personnes ayant contracté avec lui ainsi que des destinataires intermédiaires et finaux.
 
 (8)
 
@@ -904,23 +904,23 @@ Le système individuel est soumis aux mêmes exigences que le système collectif
 
 Les producteurs de produits publient les informations sur la réalisation des objectifs de gestion des déchets et lorsque les obligations de responsabilité élargie des producteurs sont remplies collectivement, chaque organisme agréé rend également publiques les informations sur :
 
-1. ses propriétaires et les membres adhérents de chaque organisme ;
+- ses propriétaires et les membres adhérents de chaque organisme ;
 
-2. les contributions financières versées par les producteurs de produits par unité vendue ou par tonne de produits mis sur le marché ;
+- les contributions financières versées par les producteurs de produits par unité vendue ou par tonne de produits mis sur le marché ;
 
-3. la procédure de sélection des organismes de gestion des déchets.
+- la procédure de sélection des organismes de gestion des déchets.
 
 (11)
 
 Les contributions financières versées par les personnes visées au paragraphe 1er pour se conformer aux obligations de responsabilité élargie doivent couvrir les coûts suivants pour les produits mis sur le marché :
 
-1. les coûts de collecte séparée des déchets et de leur transport et traitement ultérieurs, y compris le traitement nécessaire pour atteindre les objectifs de gestion des déchets, ainsi que les coûts nécessaires pour atteindre les objectifs déterminés par les législations spécifiques en la matière, compte tenu des recettes tirées de la préparation à la réutilisation, des ventes des matières premières secondaires issues de ses produits, les recettes mentionnées au paragraphe 8, alinéa 1 er et, le cas échéant, des droits de consigne non réclamés ;
+- les coûts de collecte séparée des déchets et de leur transport et traitement ultérieurs, y compris le traitement nécessaire pour atteindre les objectifs de gestion des déchets, ainsi que les coûts nécessaires pour atteindre les objectifs déterminés par les législations spécifiques en la matière, compte tenu des recettes tirées de la préparation à la réutilisation, des ventes des matières premières secondaires issues de ses produits, les recettes mentionnées au paragraphe 8, alinéa 1 er et, le cas échéant, des droits de consigne non réclamés ;
 
-2. les coûts mentionnés au paragraphe 8, alinéas 2 et 3 ;
+- les coûts mentionnés au paragraphe 8, alinéas 2 et 3 ;
 
-3. les coûts découlant de la fourniture d’informations adéquates aux détenteurs de déchets conformément au paragraphe 7, point 9 ;
+- les coûts découlant de la fourniture d’informations adéquates aux détenteurs de déchets conformément au paragraphe 7, point 9 ;
 
-4. les coûts de la collecte et de la communication des données.
+- les coûts de la collecte et de la communication des données.
 
 Les dispositions de l’alinéa 1er ne s’appliquent pas aux régimes de responsabilité élargie des producteurs mis en place par les législations relatives aux équipements électriques et électroniques, aux véhicules hors d’usage et aux piles et accumulateurs, et de leurs déchets.
 
@@ -942,7 +942,7 @@ Les systèmes de responsabilité élargie des producteurs existants doivent se c
 
 (14)
 
-L’information du public en vertu du présent article ne porte pas atteinte à la protection de la confidentialité des informations commercialement sensibles conformément au droit national et au droit de l’Union européenne applicables.
+L’information du public en vertu du présent article ne porte pas atteinte à la protection de la confidentialité des informations commercialement sensibles conformément au droit national et au droit de l’Union européenne applicables .
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -1001,11 +1001,11 @@ Les communes appliquent pour les services rendus des taxes qui respectent les di
 
 Des règlements communaux déterminent:
 
-1. les modalités de gestion des déchets pour lesquels les communes sont responsables, y inclus les mesures visant à prévenir les déchets;
+- les modalités de gestion des déchets pour lesquels les communes sont responsables, y inclus les mesures visant à prévenir les déchets;
 
-2. les taxes et tarifs applicables à la gestion des déchets.
+- les taxes et tarifs applicables à la gestion des déchets.
 
-3. les modalités de gestion des déchets que les communes peuvent accepter conformément au paragraphe 1 er , alinéa 2.
+- les modalités de gestion des déchets que les communes peuvent accepter conformément au paragraphe 1 er , alinéa 2.
 
 Sauf les cas d’urgence, les règlements sont pris sur avis préalable de l’administration compétente. En cas d’absence d’avis dans un délai de deux mois, le conseil communal peut procéder à l’adoption du règlement. Les règlements sont publiés par les autorités communales sur un site internet accessible au public.
 
@@ -1032,17 +1032,17 @@ Sans préjudice des obligations imposées aux producteurs, détenteurs, importat
 
 Le ministre fait élaborer par l'administration compétente:
 
-1. les statistiques relatives à la gestion des déchets;
+- les statistiques relatives à la gestion des déchets;
 
-2. des études relatives à des aspects spécifiques de la gestion des déchets avec les objectifs:
+- des études relatives à des aspects spécifiques de la gestion des déchets avec les objectifs:
 
-- de constituer des bases de données pertinentes;
+  - de constituer des bases de données pertinentes;
 
-- de mieux comprendre certains phénomènes particuliers;
+  - de mieux comprendre certains phénomènes particuliers;
 
-- de rechercher certaines mesures spécifiques de gestion des déchets et d'essayer leur mise en œuvre par le biais de projets pilotes.
+  - de rechercher certaines mesures spécifiques de gestion des déchets et d'essayer leur mise en œuvre par le biais de projets pilotes.
 
-3. tous les trois ans une analyse de la composition des déchets municipaux ménagers afin d'évaluer l'impact des différentes mesures de gestion mises en œuvre et de définir les flux de déchets prioritaires où des mesures sont encore à prendre pour atteindre les objectifs de la présente loi.
+- tous les trois ans une analyse de la composition des déchets municipaux ménagers afin d'évaluer l'impact des différentes mesures de gestion mises en œuvre et de définir les flux de déchets prioritaires où des mesures sont encore à prendre pour atteindre les objectifs de la présente loi.
 
 Les statistiques ainsi que les résultats des études, des analyses et des projets sont rendus publics, le cas échéant sous forme agrégée, par publication sur Internet.
 
@@ -1077,9 +1077,9 @@ Obligations spécifiques des personnes morales de droit public
 
 Les personnes morales de droit public sont tenues d’utiliser pour les besoins de leurs propres services ou de prescrire l’utilisation dans le cadre de marchés publics de travaux, de fournitures et de services, en tenant compte des dispositions de l’article 36, paragraphe 1er, de la loi modifiée du 8 avril 2018 sur les marchés publics, relatives aux spécifications techniques et labels, rapports d’essais, certifications ou autres moyens de preuve :
 
-1. des services qui contribuent d’une façon générale à la prévention des déchets par la prise en compte du réemploi et de la préparation à la réutilisation et qui assurent une collecte séparée et un recyclage de qualité élevée des déchets produits ;
+- des services qui contribuent d’une façon générale à la prévention des déchets par la prise en compte du réemploi et de la préparation à la réutilisation et qui assurent une collecte séparée et un recyclage de qualité élevée des déchets produits ;
 
-2. des produits et substances qui se caractérisent par une longévité certaine, une réparabilité ou se prêtent à un réemploi ou une préparation en vue de la réutilisation, qui, en comparaison avec d’autres produits et substances, donnent lieu à moins de déchets, à des déchets moins dangereux ou à des déchets plus faciles à éliminer ou à valoriser et qui sont fabriqués à partir de matières premières secondaires ou selon des procédés utilisant des technologies propres.
+- des produits et substances qui se caractérisent par une longévité certaine, une réparabilité ou se prêtent à un réemploi ou une préparation en vue de la réutilisation, qui, en comparaison avec d’autres produits et substances, donnent lieu à moins de déchets, à des déchets moins dangereux ou à des déchets plus faciles à éliminer ou à valoriser et qui sont fabriqués à partir de matières premières secondaires ou selon des procédés utilisant des technologies propres.
 
 Il peut être fait exception à cette obligation en raison de circonstances relatives à l’objet du marché ou à la situation de concurrence des opérateurs économiques, ou encore pour des raisons propres au pouvoir adjudicateur. Pour les marchés publics relevant du champ d’application du L livre II de la loi modifiée du 8 avril 2018 sur les marchés publics, les personnes morales de droit public indiquent, dans les documents de marchés et dans le rapport individuel à dresser en application de l’article 195 du règlement grand-ducal d’exécution modifié du 8 avril 2018 de la loi du 8 avril 2018 sur les marchés publics, les principaux motifs justifiant la décision qu’elles ont prise, le cas échéant, de ne pas prendre en compte le réemploi et la préparation à la réutilisation dans le cadre du marché public concerné.
 
@@ -1106,11 +1106,11 @@ Il est interdit de mélanger des déchets dangereux avec d'autres catégories de
 
 Par dérogation à l'alinéa qui précède le ministre peut autoriser le mélange à condition que:
 
-1. l'opération de mélange soit effectuée par un établissement ou une entreprise titulaire d'une autorisation conformément à l'article 30;
+- l'opération de mélange soit effectuée par un établissement ou une entreprise titulaire d'une autorisation conformément à l'article 30;
 
-2. les dispositions de l'article 10 soient remplies et que les effets nocifs de la gestion des déchets sur la santé humaine et l'environnement ne soient pas aggravés; et
+- les dispositions de l'article 10 soient remplies et que les effets nocifs de la gestion des déchets sur la santé humaine et l'environnement ne soient pas aggravés; et
 
-3. l'opération de mélange s'effectue selon les meilleures techniques disponibles.
+- l'opération de mélange s'effectue selon les meilleures techniques disponibles.
 
 (4)
 
@@ -1139,11 +1139,11 @@ Huiles usagées
 
 Sans préjudice des obligations relatives à la gestion des déchets dangereux énoncées à l’article 23 :
 
-1. les huiles usagées sont collectées séparément, à moins qu’une collecte séparée ne soit pas techniquement faisable ;
+- les huiles usagées sont collectées séparément, à moins qu’une collecte séparée ne soit pas techniquement faisable ;
 
-2. les huiles usagées sont traitées, en donnant la priorité à la régénération ou à d’autres opérations de recyclage fournissant des résultats d’ensemble sur le plan environnemental équivalents à ceux de la régénération ou meilleurs que ceux-ci, conformément aux articles 9 et 10 ;
+- les huiles usagées sont traitées, en donnant la priorité à la régénération ou à d’autres opérations de recyclage fournissant des résultats d’ensemble sur le plan environnemental équivalents à ceux de la régénération ou meilleurs que ceux-ci, conformément aux articles 9 et 10 ;
 
-3. les huiles usagées dotées de caractéristiques différentes ne sont pas mélangées entre elles ni les huiles usagées avec d’autres déchets ou substances, si un tel mélange empêche leur régénération ou une autre opération de recyclage fournissant des résultats d’ensemble sur le plan environnemental équivalents à ceux de la régénération ou meilleurs que ceux-ci.
+- les huiles usagées dotées de caractéristiques différentes ne sont pas mélangées entre elles ni les huiles usagées avec d’autres déchets ou substances, si un tel mélange empêche leur régénération ou une autre opération de recyclage fournissant des résultats d’ensemble sur le plan environnemental équivalents à ceux de la régénération ou meilleurs que ceux-ci.
 
 (2)
 
@@ -1256,15 +1256,15 @@ Les exploitants d'établissements ou d'entreprises sont tenus de veiller à ce q
 
 Les exploitants d'établissements ou d'entreprises mettent en place une gestion des déchets qui tient compte des éléments suivants:
 
-1. de l'utilisation de procédés et la mise en œuvre de produits permettant de prévenir la production de déchets;
+- de l'utilisation de procédés et la mise en œuvre de produits permettant de prévenir la production de déchets;
 
-2. de la collecte séparée des différentes fractions de déchets en vue d'assurer un recyclage de qualité des différentes fractions;
+- de la collecte séparée des différentes fractions de déchets en vue d'assurer un recyclage de qualité des différentes fractions;
 
-3. de la valorisation ou l'élimination des différentes fractions de déchets dans des filières répondant aux meilleures techniques disponibles;
+- de la valorisation ou l'élimination des différentes fractions de déchets dans des filières répondant aux meilleures techniques disponibles;
 
-4. de la documentation appropriée en vue d'assurer la transparence des flux de déchets;
+- de la documentation appropriée en vue d'assurer la transparence des flux de déchets;
 
-5. de la formation et la sensibilisation du personnel en matière de gestion des déchets.
+- de la formation et la sensibilisation du personnel en matière de gestion des déchets.
 
 (3)
 
@@ -1311,17 +1311,17 @@ Délivrance des autorisations
 
 Sont soumis à l'autorisation du ministre:
 
-1. les établissements ou entreprises assurant la collecte ou le transport de déchets à titre professionnel;
+- les établissements ou entreprises assurant la collecte ou le transport de déchets à titre professionnel;
 
-2. les négociants de déchets;
+- les négociants de déchets;
 
-3. les courtiers de déchets;
+- les courtiers de déchets;
 
-4. les établissements ou entreprises qui effectuent les opérations visées aux annexes I et II;
+- les établissements ou entreprises qui effectuent les opérations visées aux annexes I et II;
 
-5. l'implantation ou l'exploitation d'une installation ou d'un site servant aux opérations visées aux annexes I et II ainsi que les modifications substantielles de ces installations ou sites;
+- l'implantation ou l'exploitation d'une installation ou d'un site servant aux opérations visées aux annexes I et II ainsi que les modifications substantielles de ces installations ou sites;
 
-6. l'importation de déchets en provenance de et l'exportation de déchets vers des pays non membres de l'Union européenne à des fins de valorisation ou d'élimination.
+- l'importation de déchets en provenance de et l'exportation de déchets vers des pays non membres de l'Union européenne à des fins de valorisation ou d'élimination.
 
 Pour les établissements qui en même temps:
 
@@ -1335,21 +1335,21 @@ Pour les établissements, entreprises, installations ou opérations mentionnées
 
 Ces autorisations tiennent compte des meilleures techniques disponibles et déterminent au moins:
 
-1. les types de déchets couverts par l'autorisation;
+- les types de déchets couverts par l'autorisation;
 
-2. les prescriptions techniques et toutes autres prescriptions applicables au site concerné;
+- les prescriptions techniques et toutes autres prescriptions applicables au site concerné;
 
-3. les mesures de sécurité et de précaution à prendre;
+- les mesures de sécurité et de précaution à prendre;
 
-4. les opérations de suivi et de contrôle, selon les besoins.
+- les opérations de suivi et de contrôle, selon les besoins.
 
 Pour les activités mentionnées au point d) et e) du paragraphe (1) du présent article, les autorisations mentionnent en outre:
 
-1. les quantités de déchets pouvant être traités;
+- les quantités de déchets pouvant être traités;
 
-2. la méthode à utiliser pour chaque type d'opération;
+- la méthode à utiliser pour chaque type d'opération;
 
-3. les dispositions relatives à la fermeture et à la surveillance après fermeture qui s'avèrent nécessaires.
+- les dispositions relatives à la fermeture et à la surveillance après fermeture qui s'avèrent nécessaires.
 
 Un règlement grand-ducal peut préciser les conditions et modalités d'application du présent point, et plus particulièrement les normes techniques minimales à respecter.
 
@@ -1365,15 +1365,15 @@ Les autorisations peuvent être accordées pour une durée déterminée et être
 
 Une autorisation devient caduque
 
-1. si dans le délai fixé par l’autorisation, l’installation ou le site ne sont pas mis en service ou que l’activité afférente n’a pas commencé ;
+- si dans le délai fixé par l’autorisation, l’installation ou le site ne sont pas mis en service ou que l’activité afférente n’a pas commencé ;
 
-2. lorsque l’installation ou le site ont chômé pendant trois années consécutives ;
+- lorsque l’installation ou le site ont chômé pendant trois années consécutives ;
 
-3. lorsque l’installation ou le site ont été détruits ou mis hors d’usage en tout ou en partie par un accident quelconque. Si une partie seulement de l’installation ou du site a été détruite ou mise hors d’usage, la nouvelle demande d’autorisation est limitée à la partie en question ;
+- lorsque l’installation ou le site ont été détruits ou mis hors d’usage en tout ou en partie par un accident quelconque. Si une partie seulement de l’installation ou du site a été détruite ou mise hors d’usage, la nouvelle demande d’autorisation est limitée à la partie en question ;
 
-4. lorsque l’autorisation délivrée est venue à échéance ;
+- lorsque l’autorisation délivrée est venue à échéance ;
 
-5. lorsque la cessation d’activité de l’installation ou du site est effective.
+- lorsque la cessation d’activité de l’installation ou du site est effective.
 
 (6)
 
@@ -1427,21 +1427,21 @@ Enregistrements
 
 Par dérogation aux dispositions de l’article 30, sont soumis à l’enregistrement auprès de l’administration compétente :
 
-1. les établissements ou entreprises qui transportent des déchets à titre d’importation sur le territoire du Grand-Duché de Luxembourg ;
+- les établissements ou entreprises qui transportent des déchets à titre d’importation sur le territoire du Grand-Duché de Luxembourg ;
 
-2. les établissements ou entreprises qui collectent ou transportent des déchets inertes provenant de travaux routiers, d’excavation ou de déconstruction ;
+- les établissements ou entreprises qui collectent ou transportent des déchets inertes provenant de travaux routiers, d’excavation ou de déconstruction ;
 
-3. les établissements ou entreprises, y inclus les exploitations agricoles et sylvicoles, qui collectent ou transportent des déchets constitués de matières naturelles non dangereuses issues de l’exploitation agricole ou sylvicole, de fumier ou de lisier, des boues d’épuration, des déchets de verdure ou des déchets biodégradables de jardin et de parc ;
+- les établissements ou entreprises, y inclus les exploitations agricoles et sylvicoles, qui collectent ou transportent des déchets constitués de matières naturelles non dangereuses issues de l’exploitation agricole ou sylvicole, de fumier ou de lisier, des boues d’épuration, des déchets de verdure ou des déchets biodégradables de jardin et de parc ;
 
-4. les établissements ou entreprises qui collectent ou transportent des déchets provenant de leurs propres activités ;
+- les établissements ou entreprises qui collectent ou transportent des déchets provenant de leurs propres activités ;
 
-5. les établissements ou entreprises qui fournissent des produits et qui reprennent auprès de leurs clients les mêmes produits devenus déchets en vue d’un regroupement et d’une valorisation ou d’une élimination appropriée ;
+- les établissements ou entreprises qui fournissent des produits et qui reprennent auprès de leurs clients les mêmes produits devenus déchets en vue d’un regroupement et d’une valorisation ou d’une élimination appropriée ;
 
-6. les infrastructures de collectes visées à l’article 13, paragraphe 7 ;
+- les infrastructures de collectes visées à l’article 13, paragraphe 7 ;
 
-7. les centres de ressources ;
+- les centres de ressources ;
 
-8. les points de collecte de déchets municipaux non dangereux repris au chapitre 20 01 de la liste des déchets visée à l’article 8, paragraphe 1 er en vue de leur préparation à la réutilisation ainsi que les établissements procédant à la préparation à la réutilisation de ces déchets.
+- les points de collecte de déchets municipaux non dangereux repris au chapitre 20 01 de la liste des déchets visée à l’article 8, paragraphe 1 er en vue de leur préparation à la réutilisation ainsi que les établissements procédant à la préparation à la réutilisation de ces déchets.
 
 (2)
 
@@ -1451,17 +1451,17 @@ L'administration compétente a le droit de demander des renseignements suppléme
 
 Pour chaque type d'activité mentionnée au paragraphe (1) du présent article, des règlements grand-ducaux peuvent déterminer:
 
-1. les types et les quantités de déchets pouvant faire l'objet d'un enregistrement;
+- les types et les quantités de déchets pouvant faire l'objet d'un enregistrement;
 
-2. la méthode de traitement à utiliser et autres modalités à mettre en œuvre afin de garantir le respect des dispositions de l'article 10 et l'application des meilleures techniques disponibles;
+- la méthode de traitement à utiliser et autres modalités à mettre en œuvre afin de garantir le respect des dispositions de l'article 10 et l'application des meilleures techniques disponibles;
 
-3. les valeurs limites concernant la teneur des déchets en substances dangereuses ainsi que les valeurs limites d'émission;
+- les valeurs limites concernant la teneur des déchets en substances dangereuses ainsi que les valeurs limites d'émission;
 
-4. les modalités générales en relation avec l'enregistrement.
+- les modalités générales en relation avec l'enregistrement.
 
-5. les modalités d’aménagement, de fonctionnement et de gestion ;
+- les modalités d’aménagement, de fonctionnement et de gestion ;
 
-6. les modalités de tenue de registres et de transmission des rapports.
+- les modalités de tenue de registres et de transmission des rapports.
 
 (4)
 
@@ -1499,9 +1499,9 @@ Tenue des registres
 
 Les établissements et entreprises visés à l’article 30, paragraphe 1er et les producteurs de déchets, à l’exception des ménages, tiennent un registre chronologique indiquant :
 
-1. la quantité, la nature et l’origine de ces déchets et la quantité de produits et de matières issus de la préparation à la réutilisation, du recyclage ou d’autres opérations de valorisation ;
+- la quantité, la nature et l’origine de ces déchets et la quantité de produits et de matières issus de la préparation à la réutilisation, du recyclage ou d’autres opérations de valorisation ;
 
-2. s’il y a lieu, la destination, la fréquence de collecte, le moyen de transport et le mode de traitement envisagé pour ces déchets.
+- s’il y a lieu, la destination, la fréquence de collecte, le moyen de transport et le mode de traitement envisagé pour ces déchets.
 
 Ils mettent ces données à la disposition des autorités compétentes au moyen du registre électronique dont il est question au paragraphe 4.
 
@@ -1517,13 +1517,13 @@ Les pièces justificatives concernant l'exécution des opérations de gestion so
 
 (3)
 
-1. Le cadastre des sites exploités ou anciennement exploités, ayant servi à des opérations d'élimination de déchets ainsi que des sites contaminés par des activités en cours d'exploitation ou abandonnés établi selon les dispositions de l'article 16 de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets reste valable. Il est géré par l'administration compétente.
+- Le cadastre des sites exploités ou anciennement exploités, ayant servi à des opérations d'élimination de déchets ainsi que des sites contaminés par des activités en cours d'exploitation ou abandonnés établi selon les dispositions de l'article 16 de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets reste valable. Il est géré par l'administration compétente.
 
-2. Les investissements nécessaires pour assainir et réhabiliter les sites contaminés sont à charge des autorités publiques notamment dans les cas où
+- Les investissements nécessaires pour assainir et réhabiliter les sites contaminés sont à charge des autorités publiques notamment dans les cas où
 
-- l'identification du ou des responsables s'avère impossible;
+  - l'identification du ou des responsables s'avère impossible;
 
-- le ou les responsables sont insolvables ou ne sont pas couverts par une assurance ou une autre garantie financière suffisante.
+  - le ou les responsables sont insolvables ou ne sont pas couverts par une assurance ou une autre garantie financière suffisante.
 
 (4)
 
@@ -1550,15 +1550,15 @@ Les établissements ou entreprises visés à l'article 32 sont dispensés de la 
 
 Pour le 30 avril au plus tard, les acteurs économiques visés à l'article 19 dont plus particulièrement les producteurs, les distributeurs, les tiers agissant pour leur compte ou les organismes agréés remettent pour ce qui est de leur domaine de compétence un rapport relatif à l'année écoulée à l'administration compétente renseignant sur les informations, y compris les estimations motivées, suivantes:
 
-1. les quantités et les catégories de produits mis sur le marché;
+- les quantités et les catégories de produits mis sur le marché;
 
-2. les quantités et les catégories de produits devenus déchets collectés par les différents systèmes de collecte;
+- les quantités et les catégories de produits devenus déchets collectés par les différents systèmes de collecte;
 
-3. les quantités et les catégories de produits devenus déchets réutilisés, recyclés ou valorisés avec indication des destinataires intermédiaires et finaux des différents produits devenus déchets;
+- les quantités et les catégories de produits devenus déchets réutilisés, recyclés ou valorisés avec indication des destinataires intermédiaires et finaux des différents produits devenus déchets;
 
-4. les quantités et les catégories de produits devenus déchets exportés;
+- les quantités et les catégories de produits devenus déchets exportés;
 
-5. les taux de valorisation effectifs.
+- les taux de valorisation effectifs.
 
 Les données en question sont exprimées en poids ou, si cela n'est pas possible, en unités d'équipements.
 
@@ -1599,43 +1599,43 @@ Le plan national de gestion des déchets et des ressources établit une analyse 
 
 Le plan national de gestion des déchets et des ressources contient au moins les éléments suivants :
 
-1. le type, la quantité et la source des déchets produits sur le territoire national, les déchets susceptibles d’être transférés au départ ou à destination du territoire national et une évaluation de l’évolution future des flux de déchets ;
+- le type, la quantité et la source des déchets produits sur le territoire national, les déchets susceptibles d’être transférés au départ ou à destination du territoire national et une évaluation de l’évolution future des flux de déchets ;
 
-2. les principales installations d’élimination et de valorisation existantes, y compris toutes les dispositions particulières concernant les huiles usagées, les déchets dangereux, les déchets contenant des quantités non négligeables de matières premières critiques, ou les flux de déchets visés par des dispositions spécifiques nationales ou par des dispositions spécifiques de la législation de l’Union européenne ;
+- les principales installations d’élimination et de valorisation existantes, y compris toutes les dispositions particulières concernant les huiles usagées, les déchets dangereux, les déchets contenant des quantités non négligeables de matières premières critiques, ou les flux de déchets visés par des dispositions spécifiques nationales ou par des dispositions spécifiques de la législation de l’Union européenne ;
 
-3. une évaluation des besoins en matière de fermeture d’infrastructures de traitement des déchets existantes et en matière d’installations supplémentaires de traitement des déchets conformément à l’article 16 ; Il est veillé à la réalisation d’une évaluation des investissements et des autres moyens financiers, y compris pour les autorités locales, nécessaires pour satisfaire ces besoins. Cette évaluation est incluse dans le plan de gestion des déchets et des ressources pertinent ou dans d’autres documents stratégiques couvrant l’ensemble du territoire national ;
+- une évaluation des besoins en matière de fermeture d’infrastructures de traitement des déchets existantes et en matière d’installations supplémentaires de traitement des déchets conformément à l’article 16 ; Il est veillé à la réalisation d’une évaluation des investissements et des autres moyens financiers, y compris pour les autorités locales, nécessaires pour satisfaire ces besoins. Cette évaluation est incluse dans le plan de gestion des déchets et des ressources pertinent ou dans d’autres documents stratégiques couvrant l’ensemble du territoire national ;
 
-4. des informations suffisantes sur les critères d’emplacement pour l’identification des sites et la capacité des futures installations d’élimination ou grandes installations de valorisation, si nécessaire ;
+- des informations suffisantes sur les critères d’emplacement pour l’identification des sites et la capacité des futures installations d’élimination ou grandes installations de valorisation, si nécessaire ;
 
-5. les grandes orientations en matière de gestion des déchets et de réemploi, y compris les méthodes et technologies de gestion des déchets prévues, ou des orientations en matière de gestion d’autres déchets posant des problèmes particuliers de gestion ;
+- les grandes orientations en matière de gestion des déchets et de réemploi, y compris les méthodes et technologies de gestion des déchets prévues, ou des orientations en matière de gestion d’autres déchets posant des problèmes particuliers de gestion ;
 
-6. les aspects organisationnels de la gestion des déchets et de réemploi, y compris une description de la répartition des compétences entre les acteurs publics et privés assurant la gestion des déchets ;
+- les aspects organisationnels de la gestion des déchets et de réemploi, y compris une description de la répartition des compétences entre les acteurs publics et privés assurant la gestion des déchets ;
 
-7. une évaluation de l’utilité et de la validité de l’utilisation d’instruments économiques ou autres pour résoudre divers problèmes en matière de déchets et des ressources, en promouvant la transition vers une économie circulaire, tout en tenant compte de la nécessité d’assurer le bon fonctionnement du marché intérieur ;
+- une évaluation de l’utilité et de la validité de l’utilisation d’instruments économiques ou autres pour résoudre divers problèmes en matière de déchets et des ressources, en promouvant la transition vers une économie circulaire, tout en tenant compte de la nécessité d’assurer le bon fonctionnement du marché intérieur ;
 
-8. la mise en œuvre de campagnes de sensibilisation et d’information à l’intention du grand public ou de catégories particulières de consommateurs ;
+- la mise en œuvre de campagnes de sensibilisation et d’information à l’intention du grand public ou de catégories particulières de consommateurs ;
 
-9. des informations sur les mesures à prendre pour assurer qu’aucun des déchets susceptibles d’être recyclés ou valorisés, en particulier les déchets municipaux, ne soit admis dans une décharge, à l’exception des déchets dont la mise en décharge produit le meilleur résultat sur le plan de l’environnement conformément à l’article 9 ;
+- des informations sur les mesures à prendre pour assurer qu’aucun des déchets susceptibles d’être recyclés ou valorisés, en particulier les déchets municipaux, ne soit admis dans une décharge, à l’exception des déchets dont la mise en décharge produit le meilleur résultat sur le plan de l’environnement conformément à l’article 9 ;
 
-10. une évaluation des systèmes existants de collecte des déchets, y compris en ce qui concerne la couverture matérielle et territoriale de la collecte séparée et des mesures destinées à en améliorer le fonctionnement, de toute dérogation accordée conformément à l’article 13, paragraphe 3, et de la nécessité de nouveaux systèmes de collecte ;
+- une évaluation des systèmes existants de collecte des déchets, y compris en ce qui concerne la couverture matérielle et territoriale de la collecte séparée et des mesures destinées à en améliorer le fonctionnement, de toute dérogation accordée conformément à l’article 13, paragraphe 3, et de la nécessité de nouveaux systèmes de collecte ;
 
-11. les mesures visant à empêcher et prévenir toute forme de dépôt sauvage de déchets et faire disparaître tous les types de déchets sauvages ;
+- les mesures visant à empêcher et prévenir toute forme de dépôt sauvage de déchets et faire disparaître tous les types de déchets sauvages ;
 
-12. des indicateurs et des objectifs qualitatifs ou quantitatifs appropriés, en ce qui concerne la quantité de déchets produits et leur traitement ainsi que les déchets municipaux qui sont éliminés ou font l’objet d’une valorisation énergétique.
+- des indicateurs et des objectifs qualitatifs ou quantitatifs appropriés, en ce qui concerne la quantité de déchets produits et leur traitement ainsi que les déchets municipaux qui sont éliminés ou font l’objet d’une valorisation énergétique.
 
 (4)
 
 Le plan de gestion des déchets et des ressources doit être conforme :
 
-1. aux exigences relatives à la gestion des déchets établies par la loi du 21 mars 2017 relative aux emballages et aux déchets d’emballages ;
+- aux exigences relatives à la gestion des déchets établies par la loi du 21 mars 2017 relative aux emballages et aux déchets d’emballages ;
 
-2. aux objectifs fixés à l’article 14 ;
+- aux objectifs fixés à l’article 14 ;
 
-3. aux exigences relatives à la gestion des déchets établies par le règlement grand-ducal modifié du 24 février 2003 concernant la mise en décharge des déchets, aux fins de la prévention des déchets sauvages ;
+- aux exigences relatives à la gestion des déchets établies par le règlement grand-ducal modifié du 24 février 2003 concernant la mise en décharge des déchets, aux fins de la prévention des déchets sauvages ;
 
-4. aux dispositions de la loi modifiée du 8 septembre 1997 portant approbation de la Convention pour la protection du milieu marin de l’Atlantique du Nord-Est, signée à Paris, le 22 septembre 1992 des Annexes I à IV des Appendices 1 et 2 de la Déclaration finale de la réunion ministérielle des Commissions d’Oslo et de Paris des 21-22 septembre 1992 ;
+- aux dispositions de la loi modifiée du 8 septembre 1997 portant approbation de la Convention pour la protection du milieu marin de l’Atlantique du Nord-Est, signée à Paris, le 22 septembre 1992 des Annexes I à IV des Appendices 1 et 2 de la Déclaration finale de la réunion ministérielle des Commissions d’Oslo et de Paris des 21-22 septembre 1992 ;
 
-5. à l’article 28 de la loi modifiée du 19 décembre 2008 relative à l’eau.
+- à l’article 28 de la loi modifiée du 19 décembre 2008 relative à l’eau.
 
 (5)
 
@@ -1712,13 +1712,13 @@ Mesures préventives et curatives
 
 En cas de risque pour la santé humaine ou d’atteinte à celle-ci ou à l’environnement, le ministre peut prendre toutes les mesures que la situation requiert. Il peut :
 
-1. exiger des analyses, expertises ou épreuves techniques ;
+- exiger des analyses, expertises ou épreuves techniques ;
 
-2. ordonner la fermeture de l’installation ou du site ;
+- ordonner la fermeture de l’installation ou du site ;
 
-3. prescrire la suspension de l’activité susceptible d’être à l’origine d’une telle atteinte ;
+- prescrire la suspension de l’activité susceptible d’être à l’origine d’une telle atteinte ;
 
-4. ordonner des travaux visant à quantifier, à arrêter, à réparer et à enlever les atteintes à l’environnement.
+- ordonner des travaux visant à quantifier, à arrêter, à réparer et à enlever les atteintes à l’environnement.
 
 <a id="art-44"></a>
 ## Art. 44.
@@ -1729,13 +1729,13 @@ Inspections
 
 Sans préjudice des dispositions de l'article 45, l'administration compétente, le cas échéant en collaboration avec d'autres administrations, procède à des inspections périodiques appropriées:
 
-1. des établissements ou entreprises qui effectuent des opérations de traitement de déchets;
+- des établissements ou entreprises qui effectuent des opérations de traitement de déchets;
 
-2. des établissements ou entreprises qui assurent à titre professionnel la collecte ou le transport de déchets;
+- des établissements ou entreprises qui assurent à titre professionnel la collecte ou le transport de déchets;
 
-3. les courtiers et les négociants de déchets;
+- les courtiers et les négociants de déchets;
 
-4. les établissements ou les entreprises qui produisent des déchets dangereux.
+- les établissements ou les entreprises qui produisent des déchets dangereux.
 
 (2)
 
@@ -1788,13 +1788,13 @@ Toutefois, et sans préjudice de l’article 33 paragraphe 1er du Code de procé
 
 Dans l’exercice des attributions prévues aux paragraphes 1er et 2, les personnes concernées sont autorisées :
 
-1. à exiger la production de tous documents concernant l'installation, le site, le point de vente ou le transfert de déchets;
+- à exiger la production de tous documents concernant l'installation, le site, le point de vente ou le transfert de déchets;
 
-2. à exiger tous documents concernant la mise en œuvre du régime élargie de la responsabilité des producteurs;
+- à exiger tous documents concernant la mise en œuvre du régime élargie de la responsabilité des producteurs;
 
-3. à prélever des échantillons, aux fins d'examen ou d'analyse, des produits, matières ou substances en relation avec les installations et sites ou transferts visés par la présente loi. Les échantillons sont pris contre délivrance d'un accusé de réception. Une partie de l'échantillon, cachetée ou scellée, est remise à l'exploitant de l'installation, du site ou du moyen de transport ou au détenteur pour le compte de celui-ci à moins que celui-ci n'y renonce expressément;
+- à prélever des échantillons, aux fins d'examen ou d'analyse, des produits, matières ou substances en relation avec les installations et sites ou transferts visés par la présente loi. Les échantillons sont pris contre délivrance d'un accusé de réception. Une partie de l'échantillon, cachetée ou scellée, est remise à l'exploitant de l'installation, du site ou du moyen de transport ou au détenteur pour le compte de celui-ci à moins que celui-ci n'y renonce expressément;
 
-4. à saisir et au besoin mettre sous séquestre les produits, matières ou substances précités ainsi que les écritures et documents les concernant.
+- à saisir et au besoin mettre sous séquestre les produits, matières ou substances précités ainsi que les écritures et documents les concernant.
 
 (4)
 
@@ -1819,79 +1819,79 @@ Sanctions pénales
 
 Sont punies d’une peine d’emprisonnement de huit jours à trois ans et d’une amende de 251 euros à 750 000 euros ou d’une de ces peines seulement, les infractions à :
 
-1. l’article 13 paragraphe 9 ;
+- l’article 13 paragraphe 9 ;
 
-2. l’article 15, paragraphes 1 er et 2 ;
+- l’article 15, paragraphes 1 er et 2 ;
 
-3. l’article 18, paragraphes 1 et 3 ;
+- l’article 18, paragraphes 1 et 3 ;
 
-4. l’article 23, paragraphes 1 er , 3 et 4 ;
+- l’article 23, paragraphes 1 er , 3 et 4 ;
 
-5. l’article 24, paragraphes 1 er et 2 ;
+- l’article 24, paragraphes 1 er et 2 ;
 
-6. l’article 26, paragraphe 9, alinéa 3 ;
+- l’article 26, paragraphe 9, alinéa 3 ;
 
-7. l’article 42, pour autant qu’il s’agit de déchets dangereux.
+- l’article 42, pour autant qu’il s’agit de déchets dangereux.
 
 Les mêmes sanctions s’appliquent en cas d’entrave aux ou en cas de non-respect des mesures administratives prises en vertu des articles 43 ou 49.
 
 Il en est de même des infractions commises à l’encontre des prescriptions prévues au règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets :
 
-1. toute personne qui effectue un transfert illicite tel que défini à l’article 2, point 35 ;
+- toute personne qui effectue un transfert illicite tel que défini à l’article 2, point 35 ;
 
-2. toute personne qui procède au mélange de déchets pendant le transfert en violation des dispositions de l’article 19 ;
+- toute personne qui procède au mélange de déchets pendant le transfert en violation des dispositions de l’article 19 ;
 
-3. toute personne qui viole une décision prise par l’autorité compétente au titre de l’article 24, paragraphes 2 et 3.
+- toute personne qui viole une décision prise par l’autorité compétente au titre de l’article 24, paragraphes 2 et 3.
 
 (2)
 
 Sont punies d’une peine d’emprisonnement de huit jours à six mois et d’une amende de 251 euros à 150 000 euros ou d’une de ces peines seulement, les infractions à :
 
-1. l’article 13, paragraphes 1 er et 10 ;
+- l’article 13, paragraphes 1 er et 10 ;
 
-2. l’article 14, paragraphe 2 ;
+- l’article 14, paragraphe 2 ;
 
-3. l’article 16, paragraphe 1 er , lettre a) alinéa 2 et lettre c), et paragraphe 4 ;
+- l’article 16, paragraphe 1 er , lettre a) alinéa 2 et lettre c), et paragraphe 4 ;
 
-4. l’article 19, paragraphes 9 et 13 ;
+- l’article 19, paragraphes 9 et 13 ;
 
-5. l’article 20, paragraphe 7 ;
+- l’article 20, paragraphe 7 ;
 
-6. l’article 25, paragraphe 4 ;
+- l’article 25, paragraphe 4 ;
 
-7. l’article 30, paragraphe 1 er alinéa 1 er .
+- l’article 30, paragraphe 1 er alinéa 1 er .
 
 (2bis)
 
 Sont punies d’une amende de 24 euros à 10 000 euros, les contraventions suivantes à :
 
-1. l’article 12, paragraphes 6, 7 et 10 ;
+- l’article 12, paragraphes 6, 7 et 10 ;
 
-2. l’article 23, paragraphe 5, pour autant que l’infraction s’est faite sur une voie publique ;
+- l’article 23, paragraphe 5, pour autant que l’infraction s’est faite sur une voie publique ;
 
-3. l’article 25, paragraphe 1 er ;
+- l’article 25, paragraphe 1 er ;
 
-4. l’article 30, paragraphes 9 et 10 ;
+- l’article 30, paragraphes 9 et 10 ;
 
-5. l’article 32, paragraphe 1 er points 1 er à 5 et paragraphe 4 ;
+- l’article 32, paragraphe 1 er points 1 er à 5 et paragraphe 4 ;
 
-6. l’article 42, pour autant qu’il s’agit de déchets non dangereux ;
+- l’article 42, pour autant qu’il s’agit de déchets non dangereux ;
 
-7. l’article 42, pour autant qu’il s’agit de mégots.
+- l’article 42, pour autant qu’il s’agit de mégots.
 
 Il en est de même des infractions commises aux prescriptions qui suivent du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets :
 
-1. tout notifiant et tout destinataire qui n’a pas conclu un contrat valable conformément à l’article 5 ou à l’article 18, paragraphe 2 ;
+- tout notifiant et tout destinataire qui n’a pas conclu un contrat valable conformément à l’article 5 ou à l’article 18, paragraphe 2 ;
 
-2. toute personne qui n’a pas conclu une garantie financière ou une assurance équivalente conformément à l’article 6 ;
+- toute personne qui n’a pas conclu une garantie financière ou une assurance équivalente conformément à l’article 6 ;
 
-3. toute personne qui n’a pas procédé aux opérations de valorisation ou d’élimination dans les délais fixés par l’article 9, paragraphe 7 , deuxième phrase ;
+- toute personne qui n’a pas procédé aux opérations de valorisation ou d’élimination dans les délais fixés par l’article 9, paragraphe 7 , deuxième phrase ;
 
-4. tout exploitant d’une opération de valorisation ou d’élimination intermédiaire qui n’a pas certifié dans les délais fixés par l’article 15 la réception des déchets ou le fait que l’opération de valorisation ou d’élimination intermédiaire a été menée à son terme ;
+- tout exploitant d’une opération de valorisation ou d’élimination intermédiaire qui n’a pas certifié dans les délais fixés par l’article 15 la réception des déchets ou le fait que l’opération de valorisation ou d’élimination intermédiaire a été menée à son terme ;
 
-5. toute personne qui, après consentement à un transfert, ne respecte pas les exigences en matière de documents de mouvements mentionnés à l’article 16 ;
+- toute personne qui, après consentement à un transfert, ne respecte pas les exigences en matière de documents de mouvements mentionnés à l’article 16 ;
 
-6. toute personne qui effectue le transfert de déchets visés à l’article 3, paragraphes 2 et 4, sans que les déchets soient accompagnés des informations visées à l’article 18, paragraphe 1 er , lettre a).
+- toute personne qui effectue le transfert de déchets visés à l’article 3, paragraphes 2 et 4, sans que les déchets soient accompagnés des informations visées à l’article 18, paragraphe 1 er , lettre a).
 
 (3)
 
@@ -1903,11 +1903,11 @@ Cette confiscation peut également concerner les produits, éléments ou matéri
 
 Les officiers de la police judiciaire de la Police grand-ducale, les agents de la Police grand-ducale, les agents de l'Administration des douanes et accises, les agents de l’Administration de l’environnement qui constatent l'infraction ont le droit de saisir les engins, instruments et matériaux susceptibles d'une confiscation ultérieure; cette saisie ne pourra être maintenue que si elle est validée dans les huit jours par ordonnance du juge d'instruction. La mainlevée de la saisie prononcée par ordonnance du juge d'instruction peut être demandée en tout état de cause, à savoir:
 
-1. à la chambre du Conseil du tribunal d'arrondissement pendant l'instruction;
+- à la chambre du Conseil du tribunal d'arrondissement pendant l'instruction;
 
-2. à la chambre correctionnelle du tribunal d'arrondissement lorsque celle-ci se trouve saisie par l'ordonnance de renvoi ou par la citation directe;
+- à la chambre correctionnelle du tribunal d'arrondissement lorsque celle-ci se trouve saisie par l'ordonnance de renvoi ou par la citation directe;
 
-3. à la chambre correctionnelle de la cour d'appel si appel a été interjeté ou s'il a été formé un pourvoi en cassation.
+- à la chambre correctionnelle de la cour d'appel si appel a été interjeté ou s'il a été formé un pourvoi en cassation.
 
 La requête sera déposée au greffe de la juridiction appelée à statuer. Il y sera statué d'urgence et au plus tard dans les trois jours du dépôt, le ministère public et l'inculpé ou son défenseur entendus en leurs explications orales ou dûment appelés.
 
@@ -1932,11 +1932,11 @@ L’avertissement taxé est subordonné à la condition soit que le contrevenant
 
 L’avertissement taxé est remplacé par un procès-verbal ordinaire :
 
-1. si le contrevenant n’a pas payé dans le délai imparti ;
+- si le contrevenant n’a pas payé dans le délai imparti ;
 
-2. si le contrevenant déclare ne pas vouloir ou ne pas pouvoir payer les taxes ;
+- si le contrevenant déclare ne pas vouloir ou ne pas pouvoir payer les taxes ;
 
-3. si le contrevenant est mineur au moment de l’infraction.
+- si le contrevenant est mineur au moment de l’infraction.
 
 Le montant de l’avertissement taxé ainsi que les modes du paiement sont fixés par règlement grand-ducal qui détermine aussi les modalités d’application du présent article et qui établira un catalogue groupant les contraventions suivant le montant des avertissements taxés à percevoir.
 
@@ -1955,9 +1955,9 @@ Mesures administratives
 
 En cas de non-respect des dispositions des articles 12 à 16, 18, 19, paragraphes 7, 9, 10, 11 et 13, 23 à 27, 30, 32 à 35, 42 et 54, paragraphe 2, le ministre peut :
 
-1. impartir à l’exploitant d’un établissement ou à un producteur ou un détenteur, importateur ou distributeur un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans ;
+- impartir à l’exploitant d’un établissement ou à un producteur ou un détenteur, importateur ou distributeur un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans ;
 
-2. faire suspendre en tout ou en partie l’activité de négociant, de courtier, de collecteur ou de transporteur de déchets, l’exploitation de l’établissement ou les travaux de chantier par mesure provisoire ou faire fermer l’établissement ou le chantier en tout ou en partie et apposer des scellés.
+- faire suspendre en tout ou en partie l’activité de négociant, de courtier, de collecteur ou de transporteur de déchets, l’exploitation de l’établissement ou les travaux de chantier par mesure provisoire ou faire fermer l’établissement ou le chantier en tout ou en partie et apposer des scellés.
 
 (2)
 
@@ -1978,27 +1978,27 @@ Amendes administratives
 
 Le ministre peut infliger une amende administrative de 250 euros à 10 000 euros en cas de violation de :
 
-1. l’article 12, paragraphes 3, deuxième phrase et 4, point 1° er , paragraphe 5, alinéa 2 et paragraphes 8 et 9 ;
+- l’article 12, paragraphes 3, deuxième phrase et 4, point 1° er , paragraphe 5, alinéa 2 et paragraphes 8 et 9 ;
 
-2. l’article 13, paragraphe 2, alinéa 1 er et paragraphes 4, 5 et 8 ;
+- l’article 13, paragraphe 2, alinéa 1 er et paragraphes 4, 5 et 8 ;
 
-3. l’article 17, paragraphe 3 ;
+- l’article 17, paragraphe 3 ;
 
-4. l’article 19, paragraphes 7, 10 et 11 ;
+- l’article 19, paragraphes 7, 10 et 11 ;
 
-5. l’article 23, paragraphe 2 et paragraphe 5, hormis les cas visés à l’article 47, paragraphe 3 ;
+- l’article 23, paragraphe 2 et paragraphe 5, hormis les cas visés à l’article 47, paragraphe 3 ;
 
-6. l’article 26, paragraphes 1 er , 2 et 3 ;
+- l’article 26, paragraphes 1 er , 2 et 3 ;
 
-7. l’article 27, paragraphe 2, lettre b) et d) ;
+- l’article 27, paragraphe 2, lettre b) et d) ;
 
-8. l’article 32, paragraphe 1 er , points 6° à 8 ;
+- l’article 32, paragraphe 1 er , points 6° à 8 ;
 
-9. l’article 33, paragraphes 2 et 3 ;
+- l’article 33, paragraphes 2 et 3 ;
 
-10. l’article 34, paragraphe 1 er , alinéas 1 er et 2 et paragraphe 2 ;
+- l’article 34, paragraphe 1 er , alinéas 1 er et 2 et paragraphe 2 ;
 
-11. l’article 35, paragraphes 1 er et 2 ;
+- l’article 35, paragraphes 1 er et 2 ;
 
 Les amendes sont payables dans les deux mois de la notification de la décision écrite.
 
@@ -2054,7 +2054,9 @@ La loi du 19 décembre 2008 a) relative aux piles et accumulateurs ainsi qu'aux 
 
 - l’article 21 est remplacé comme suit: «Art. 21. La Commission de suivi pluripartite instituée en application de l’article 19, paragraphe (9), de la loi du 21 mars 2012 relative aux déchets assume le rôle de Commission de suivi pluripartite pour les besoins de la présente loi.»
 
-L’article 11, paragraphe (8), point b) 1) de la loi du 24 mai 2011 relative aux services dans le marché intérieur est remplacé comme suit: l’article 30 de la loi du 21 mars 2012 relative aux déchets.
+L’article 11, paragraphe (8), point b) 1) de la loi du 24 mai 2011 relative aux services dans le marché intérieur est remplacé comme suit:
+
+- l’article 30 de la loi du 21 mars 2012 relative aux déchets.
 
 <a id="art-52"></a>
 ## Art. 52.

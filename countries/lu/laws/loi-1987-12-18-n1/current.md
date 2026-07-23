@@ -60,7 +60,7 @@ Un administrateur est désigné par le Conseil communal de Mondorf-les-Bains, pa
 
 Un représentant du personnel est élu au scrutin direct et secret parmi les salariés employés par le centre ou détachés auprès de lui. L´élection du représentant du personnel a lieu dans le mois qui précède le renouvellement du mandat. La première élection a lieu au plus tard dix mois après l´entrée en vigueur de la présente loi.
 
-Les membres du conseil sont nommés pour un terme renouvelable de six ans., à l’exception du mandat du membre du collège des bourgmestre et échevins, qui prend fin avec l’entrée en fonctions d’un nouveau conseil communal ou de la nomination d’un nouveau collège des bourgmestre et échevins.
+Les membres du conseil sont nommés pour un terme renouvelable de six ans. , à l’exception du mandat du membre du collège des bourgmestre et échevins, qui prend fin avec l’entrée en fonctions d’un nouveau conseil communal ou de la nomination d’un nouveau collège des bourgmestre et échevins.
 
 Le conseil d´administration peut, à tout moment, être révoqué par le Grand-Duc.
 
@@ -203,7 +203,11 @@ L´application de l´article 150 de la loi du 4 décembre 1967 concernant l´imp
 
 Les actes passés au nom et en faveur du centre thermal et de santé sont exempts des droits de timbre, d´enregistrement, d´hypothèque et de succession.
 
-Les dons en espèces faits au centre sont déductibles comme dépenses spéciales conformément à l´article 109 de la loi du 4 décembre 1967 concernant l´impôt sur le revenu. A cet effet, l´article 112, alinéa 1er, numéro 1 de la loi précitée est modifié comme suit: 1. les dons en espèces à des organismes reconnus d´utilité publique par une loi spéciale ou en vertu des articles 27 et suivants de la loi du 21 avril 1928 concernant les associations sans but lucratif et les établissements d´utilité publique pour autant qu´ils seront désignés par règlement grand-ducal, aux bureaux de bienfaisance et hospices civils, au Centre hospitalier de Luxembourg, au Fonds d´aide au développement, au centre thermal et de santé de Mondorf-les-Bains.
+Les dons en espèces faits au centre sont déductibles comme dépenses spéciales conformément à l´article 109 de la loi du 4 décembre 1967 concernant l´impôt sur le revenu. A cet effet, l´article 112, alinéa 1er, numéro 1 de la loi précitée est modifié comme suit:
+
+1. les dons en espèces à des organismes reconnus d´utilité publique par une loi spéciale ou en vertu des articles 27 et suivants de la loi du 21 avril 1928 concernant les associations sans but lucratif et les établissements d´utilité publique pour autant qu´ils seront désignés par règlement grand-ducal, aux bureaux de bienfaisance et hospices civils, au Centre hospitalier de Luxembourg, au Fonds d´aide au développement, au centre thermal et de santé de Mondorf-les-Bains.
+
+Dispositions financières
 
 <a id="art-17"></a>
 ## Art. 17
@@ -225,6 +229,8 @@ L´Etat fournit au centre thermal et de santé une dotation initiale de 300 mill
 A cet effet il est ajouté un article 44.1.81.00 au budget des recettes et des dépenses de l´Etat pour l´exercice 1987, libellé 17.2. Dotation du centre thermal et de santé, d´un montant de 300 millions.
 
 La moitié de cette somme est remboursable au Trésor sur décision du Gouvernement en conseil.
+
+Dispositions transitoires et diverses
 
 <a id="art-20"></a>
 ## Art. 20

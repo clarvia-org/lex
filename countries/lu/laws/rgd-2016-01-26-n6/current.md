@@ -37,71 +37,71 @@ Le ministre ayant l’Aménagement du territoire dans ses attributions, désign�
 
 Le groupe de travail se compose de trente-quatre membres effectifs :
 
-1. deux représentants du ministre ayant l’Aménagement du territoire dans ses attributions ;
+- deux représentants du ministre ayant l’Aménagement du territoire dans ses attributions ;
 
-2. un représentant du ministre ayant l’Énergie dans ses attributions ;
+- un représentant du ministre ayant l’Énergie dans ses attributions ;
 
-3. un représentant du ministre ayant l’Environnement, le Climat et le Développement durable dans ses attributions ;
+- un représentant du ministre ayant l’Environnement, le Climat et le Développement durable dans ses attributions ;
 
-4. un représentant du ministre ayant les Travaux publics dans ses attributions ;
+- un représentant du ministre ayant les Travaux publics dans ses attributions ;
 
-5. un représentant du ministre ayant la Mobilité dans ses attributions ;
+- un représentant du ministre ayant la Mobilité dans ses attributions ;
 
-6. un représentant du ministre ayant l’Intérieur dans ses attributions ;
+- un représentant du ministre ayant l’Intérieur dans ses attributions ;
 
-7. un représentant du ministre ayant l’Économie dans ses attributions ;
+- un représentant du ministre ayant l’Économie dans ses attributions ;
 
-8. un représentant du ministre ayant le Tourisme dans ses attributions ;
+- un représentant du ministre ayant le Tourisme dans ses attributions ;
 
-9. un représentant du ministre ayant les Classes moyennes dans ses attributions ;
+- un représentant du ministre ayant les Classes moyennes dans ses attributions ;
 
-10. un représentant du ministre ayant l’Agriculture, la Viticulture et le Développement rural dans ses attributions ;
+- un représentant du ministre ayant l’Agriculture, la Viticulture et le Développement rural dans ses attributions ;
 
-11. un représentant du ministre ayant la Protection des consommateurs dans ses attributions ;
+- un représentant du ministre ayant la Protection des consommateurs dans ses attributions ;
 
-12. un représentant du ministre ayant le Logement dans ses attributions ;
+- un représentant du ministre ayant le Logement dans ses attributions ;
 
-13. un représentant du ministre ayant la Santé dans ses attributions ;
+- un représentant du ministre ayant la Santé dans ses attributions ;
 
-14. un représentant du ministre ayant la Culture dans ses attributions ;
+- un représentant du ministre ayant la Culture dans ses attributions ;
 
-15. un représentant du ministre ayant le Travail, l’Emploi et l’Économie sociale et solidaire dans ses attributions ;
+- un représentant du ministre ayant le Travail, l’Emploi et l’Économie sociale et solidaire dans ses attributions ;
 
-16. un représentant du ministre ayant les Sports dans ses attributions ;
+- un représentant du ministre ayant les Sports dans ses attributions ;
 
-17. un représentant du ministre ayant la Famille et l’Intégration dans ses attributions ;
+- un représentant du ministre ayant la Famille et l’Intégration dans ses attributions ;
 
-18. un représentant du ministre ayant la Grande Région dans ses attributions ;
+- un représentant du ministre ayant la Grande Région dans ses attributions ;
 
-19. un représentant du ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions ;
+- un représentant du ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions ;
 
-20. un représentant du ministre de l’Enseignement supérieur et de la Recherche dans ses attributions ;
+- un représentant du ministre de l’Enseignement supérieur et de la Recherche dans ses attributions ;
 
-21. un représentant du ministre ayant les Finances dans ses attributions ;
+- un représentant du ministre ayant les Finances dans ses attributions ;
 
-22. un représentant du ministre ayant la Digitalisation dans ses attributions ;
+- un représentant du ministre ayant la Digitalisation dans ses attributions ;
 
-23. un représentant du ministre ayant le Haut - Commissariat à la Protection nationale dans ses attributions ;
+- un représentant du ministre ayant le Haut - Commissariat à la Protection nationale dans ses attributions ;
 
-24. un représentant du ministre ayant les Communications et les Médias dans ses attributions ;
+- un représentant du ministre ayant les Communications et les Médias dans ses attributions ;
 
-25. un représentant du ministre ayant les Affaires étrangères et européennes dans ses attributions ;
+- un représentant du ministre ayant les Affaires étrangères et européennes dans ses attributions ;
 
-26. un représentant de l’Administration de la nature et des forêts ;
+- un représentant de l’Administration de la nature et des forêts ;
 
-27. un représentant de l’Administration de l’environnement ;
+- un représentant de l’Administration de l’environnement ;
 
-28. un représentant de l’Administration de la gestion de l’eau ;
+- un représentant de l’Administration de la gestion de l’eau ;
 
-29. un représentant de l’Administration des ponts et chaussées ;
+- un représentant de l’Administration des ponts et chaussées ;
 
-30. un représentant de l’Administration des services techniques de l’agriculture ;
+- un représentant de l’Administration des services techniques de l’agriculture ;
 
-31. un représentant de l’Inspection du travail et des mines ;
+- un représentant de l’Inspection du travail et des mines ;
 
-32. un représentant de la Société nationale des chemins de fer luxembourgeois ;
+- un représentant de la Société nationale des chemins de fer luxembourgeois ;
 
-33. un représentant du Syndicat des villes et des communes luxembourgeoises.
+- un représentant du Syndicat des villes et des communes luxembourgeoises.
 
 (2)
 

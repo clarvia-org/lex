@@ -137,25 +137,25 @@ La demande est adressée directement au collège des bourgmestre et échevins, q
 
 Le fonctionnaire communal qui désire changer de groupe de traitement peut se présenter à tout emploi du groupe de traitement immédiatement supérieur à son groupe de traitement initial déclaré vacant, s’il remplit les conditions suivantes :
 
-1. avoir au moins dix années de service depuis la date de sa nomination définitive ;
+- avoir au moins dix années de service depuis la date de sa nomination définitive ;
 
-2. avoir réussi à l’examen de promotion de son sous-groupe de traitement initial, si un tel examen y est prévu ;
+- avoir réussi à l’examen de promotion de son sous-groupe de traitement initial, si un tel examen y est prévu ;
 
-3. avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire au groupe de traitement et d’indemnité supérieur organisés par l’Institut national d’administration publique ou par le ministre de l’Intérieur ou en être dispensé par le Ministre de l’Intérieur ; Lorsque le fonctionnaire communal du groupe de traitement B1, qui a accédé au groupe de traitement A2 en application des dispositions du présent règlement, désire ensuite accéder au groupe de traitement A1 conformément au présent règlement, il est dispensé de la condition d’avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire y relatif.
+- avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire au groupe de traitement et d’indemnité supérieur organisés par l’Institut national d’administration publique ou par le ministre de l’Intérieur ou en être dispensé par le Ministre de l’Intérieur ; Lorsque le fonctionnaire communal du groupe de traitement B1, qui a accédé au groupe de traitement A2 en application des dispositions du présent règlement, désire ensuite accéder au groupe de traitement A1 conformément au présent règlement, il est dispensé de la condition d’avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire y relatif.
 
-4. être occupé auprès de son administration depuis au moins cinq années.
+- être occupé auprès de son administration depuis au moins cinq années.
 
 (2)
 
 L’employé communal qui désire changer de groupe d’indemnité peut se présenter à tout emploi du groupe d’indemnité immédiatement supérieur à son groupe d’indemnité initial déclaré vacant, s’il remplit les conditions suivantes :
 
-1. avoir au moins dix années de service depuis son début de carrière ;
+- avoir au moins dix années de service depuis son début de carrière ;
 
-2. avoir réussi à l’examen de carrière de son sous-groupe d’indemnité initial, si un tel examen y est prévu ;
+- avoir réussi à l’examen de carrière de son sous-groupe d’indemnité initial, si un tel examen y est prévu ;
 
-3. avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire au groupe de traitement et d’indemnité supérieur organisés par l’Institut national d’administration publique ou par le ministre de l’Intérieur ou en être dispensé par le ministre de l’Intérieur ; Lorsque l’employé de communal du groupe d’indemnité B1, qui a accédé au groupe d’indemnité A2 en application des dispositions du présent règlement, désire ensuite accéder au groupe d’indemnité A1 conformément au présent règlement, il est dispensé de la condition d’avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire y relatif.
+- avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire au groupe de traitement et d’indemnité supérieur organisés par l’Institut national d’administration publique ou par le ministre de l’Intérieur ou en être dispensé par le ministre de l’Intérieur ; Lorsque l’employé de communal du groupe d’indemnité B1, qui a accédé au groupe d’indemnité A2 en application des dispositions du présent règlement, désire ensuite accéder au groupe d’indemnité A1 conformément au présent règlement, il est dispensé de la condition d’avoir suivi et passé avec succès les cours et épreuves du cycle de formation préparatoire y relatif.
 
-4. être occupé auprès de son administration depuis au moins cinq années.
+- être occupé auprès de son administration depuis au moins cinq années.
 
 (3)
 
@@ -172,13 +172,13 @@ La publication du poste en question doit préciser à chaque fois si la vacance 
 
 Il est institué auprès du ministre de l’Intérieur une commission de contrôle dont la mission consiste à :
 
-1. émettre son avis sur le respect de la procédure de demande de changement de groupe de traitement ou de changement de groupe d’indemnité introduite en vertu de l’article 6 ou de la procédure de demande de changement de groupe temporaire introduite en vertu de l’article 51 du règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux ou en vertu de l’article 71 du règlement grand-ducal du 28 juillet 2017 déterminant le régime et les indemnités des employés communaux ;
+- émettre son avis sur le respect de la procédure de demande de changement de groupe de traitement ou de changement de groupe d’indemnité introduite en vertu de l’article 6 ou de la procédure de demande de changement de groupe temporaire introduite en vertu de l’article 51 du règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux ou en vertu de l’article 71 du règlement grand-ducal du 28 juillet 2017 déterminant le régime et les indemnités des employés communaux ;
 
-2. veiller à ce que les limites et conditions prévues par le présent règlement et plus particulièrement par les articles 2, 3, 4, 5 et 7 respectivement les conditions d’éligibilité fixées par l’article 51 du règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux soient respectées et veiller à ce que les limites et conditions d’éligibilité fixées par l’article 71 du règlement grand-ducal du 28 juillet 2017 déterminant le régime et les indemnités des employés communaux soient respectées pour toute demande introduite en vertu de cet article ;
+- veiller à ce que les limites et conditions prévues par le présent règlement et plus particulièrement par les articles 2, 3, 4, 5 et 7 respectivement les conditions d’éligibilité fixées par l’article 51 du règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux soient respectées et veiller à ce que les limites et conditions d’éligibilité fixées par l’article 71 du règlement grand-ducal du 28 juillet 2017 déterminant le régime et les indemnités des employés communaux soient respectées pour toute demande introduite en vertu de cet article ;
 
-3. évaluer les compétences du candidat par rapport aux missions et exigences du poste brigué ;
+- évaluer les compétences du candidat par rapport aux missions et exigences du poste brigué ;
 
-4. évaluer le travail de réflexion prévu à l’article 51 du règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux.
+- évaluer le travail de réflexion prévu à l’article 51 du règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -234,13 +234,13 @@ Les membres de la commission, le secrétaire et les experts prévus à l’artic
 
 (1)
 
-1. Le fonctionnaire ou l’employé communal admis à changer de groupe de traitement ou d’indemnité doit se présenter à l’examen de promotion du sous-groupe de traitement brigué respectivement à l’examen de carrière du groupe d’indemnité brigué.
+- Le fonctionnaire ou l’employé communal admis à changer de groupe de traitement ou d’indemnité doit se présenter à l’examen de promotion du sous-groupe de traitement brigué respectivement à l’examen de carrière du groupe d’indemnité brigué.
 
-2. Lorsque le changement de groupe de traitement ou d’indemnité du fonctionnaire ou de l’employé communal concerne un groupe de traitement ou d’indemnité qui ne comporte pas d’examen de promotion ou de carrière, l’agent doit se soumettre à l’examen suivant : Le mémoire est présenté oralement par le fonctionnaire ou par l’employé communal devant une commission d’examen à nommer par le ministre de l’Intérieur, qui en définit le sujet et qui qui attribue, séance tenante, une mention soit suffisante, soit insuffisante. À ce titre, la partie écrite et la partie orale du mémoire sont prises en compte à raison de cinquante pour cent chacune. Pour le sous-groupe administratif et sous-groupe à attributions particulières pour les fonctions et emplois autres que celles de receveur :
+- Lorsque le changement de groupe de traitement ou d’indemnité du fonctionnaire ou de l’employé communal concerne un groupe de traitement ou d’indemnité qui ne comporte pas d’examen de promotion ou de carrière, l’agent doit se soumettre à l’examen suivant : Le mémoire est présenté oralement par le fonctionnaire ou par l’employé communal devant une commission d’examen à nommer par le ministre de l’Intérieur, qui en définit le sujet et qui qui attribue, séance tenante, une mention soit suffisante, soit insuffisante. À ce titre, la partie écrite et la partie orale du mémoire sont prises en compte à raison de cinquante pour cent chacune. Pour le sous-groupe administratif et sous-groupe à attributions particulières pour les fonctions et emplois autres que celles de receveur :
 
-- 1. Lorsque le changement de groupe de traitement ou d’indemnité se fait vers le groupe de traitement ou d’indemnité A2, l’agent intéressé doit rédiger dans un délai de six mois à partir de la décision prévue à l’article 12 un mémoire.
+  - 1. Lorsque le changement de groupe de traitement ou d’indemnité se fait vers le groupe de traitement ou d’indemnité A2, l’agent intéressé doit rédiger dans un délai de six mois à partir de la décision prévue à l’article 12 un mémoire.
 
-- 2. Lorsque le changement de groupe de traitement ou d’indemnité se fait vers le groupe de traitement ou d’indemnité A1, l’agent doit se présenter à l’examen suivant :
+  - 2. Lorsque le changement de groupe de traitement ou d’indemnité se fait vers le groupe de traitement ou d’indemnité A1, l’agent doit se présenter à l’examen suivant :
 
 |  | 1) | Épreuves à livre ouvert : (360 points) |  |
 | --- | --- | --- | --- |
@@ -275,7 +275,7 @@ Sous-groupe scientifique et technique :
 |  |  | e) Gestion du personnel | 60 points |
 |  | 2) | Élaboration et défense d’un mémoire devant une commission d’examen | 60 points |
 
-1. Sont applicables aux examens prévus par le présent article sous 1. (b) 2. les articles 2, 7 a) et 8 du règlement grand-ducal du 27 octobre 2006 fixant les conditions d’admission et les modalités d’organisation et de déroulement de l’examen de promotion des fonctionnaires communaux relevant des carrières de l’expéditionnaire administratif, du rédacteur et de l’ingénieur-technicien et modifiant le règlement grand-ducal du 20 décembre 1990 portant fixation des conditions d’admission et d’examen des fonctionnaires communaux.
+- Sont applicables aux examens prévus par le présent article sous 1. (b) 2. les articles 2, 7 a) et 8 du règlement grand-ducal du 27 octobre 2006 fixant les conditions d’admission et les modalités d’organisation et de déroulement de l’examen de promotion des fonctionnaires communaux relevant des carrières de l’expéditionnaire administratif, du rédacteur et de l’ingénieur-technicien et modifiant le règlement grand-ducal du 20 décembre 1990 portant fixation des conditions d’admission et d’examen des fonctionnaires communaux.
 
 (2)
 

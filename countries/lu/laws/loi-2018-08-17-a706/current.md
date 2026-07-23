@@ -40,27 +40,27 @@ La présente loi a pour objet de régler l’archivage dans l’intérêt public
 
 Pour l’application de la présente loi, l’on entend par :
 
-1. « archives » : l'ensemble des documents, y compris les données, quels que soient leur date, leur lieu de conservation, leur forme matérielle et leur support, produits ou reçus par toute personne physique ou morale et par tout service ou organisme public ou privé dans l'exercice de leur activité ;
+- « archives » : l'ensemble des documents, y compris les données, quels que soient leur date, leur lieu de conservation, leur forme matérielle et leur support, produits ou reçus par toute personne physique ou morale et par tout service ou organisme public ou privé dans l'exercice de leur activité ;
 
-2. « archives publiques » : les documents visés au point 1. produits ou reçus par les administrations et services de l’État, les communes, les syndicats de communes, les établissements publics de l’État et des communes, la Chambre des députés, le Conseil d’État, le Médiateur, la Cour des comptes, l’Institut grand-ducal, la Cour grand-ducale pour ce qui est des documents relevant de la fonction du chef d’État, l’Archevêché de Luxembourg, les Consistoires de l’Église protestante et de l’Église protestante réformée du Luxembourg, le Consistoire administratif de l’Église protestante du Luxembourg, le Consistoire israélite, l’Église anglicane du Luxembourg, l’Église orthodoxe au Luxembourg, les Églises orthodoxes hellénique, roumaine, serbe et russe établies au Luxembourg, la Shoura, assemblée de la Communauté musulmane du Grand-Duché de Luxembourg ainsi que le Fonds de gestion des édifices religieux et autres biens relevant du culte catholique. Sont également visés les minutes et répertoires des notaires ;
+- « archives publiques » : les documents visés au point 1. produits ou reçus par les administrations et services de l’État, les communes, les syndicats de communes, les établissements publics de l’État et des communes, la Chambre des députés, le Conseil d’État, le Médiateur, la Cour des comptes, l’Institut grand-ducal, la Cour grand-ducale pour ce qui est des documents relevant de la fonction du chef d’État, l’Archevêché de Luxembourg, les Consistoires de l’Église protestante et de l’Église protestante réformée du Luxembourg, le Consistoire administratif de l’Église protestante du Luxembourg, le Consistoire israélite, l’Église anglicane du Luxembourg, l’Église orthodoxe au Luxembourg, les Églises orthodoxes hellénique, roumaine, serbe et russe établies au Luxembourg, la Shoura, assemblée de la Communauté musulmane du Grand-Duché de Luxembourg ainsi que le Fonds de gestion des édifices religieux et autres biens relevant du culte catholique. Sont également visés les minutes et répertoires des notaires ;
 
-3. « archives privées » : les documents visés au point 1. qui n’entrent pas dans le champ d’application du point 2. ;
+- « archives privées » : les documents visés au point 1. qui n’entrent pas dans le champ d’application du point 2. ;
 
-4. « dossier » : ensemble de documents regroupés par un producteur pour son usage courant parce qu'ils concernent un même sujet ou une même affaire ;
+- « dossier » : ensemble de documents regroupés par un producteur pour son usage courant parce qu'ils concernent un même sujet ou une même affaire ;
 
-5. « versement » : la transmission de la conservation, de la gestion et de la responsabilité du traitement des archives publiques y compris des données à caractère personnel ;
+- « versement » : la transmission de la conservation, de la gestion et de la responsabilité du traitement des archives publiques y compris des données à caractère personnel ;
 
-6. « transfert d’archives privées » : la transmission de la gestion d’archives privées par voie de dépôt, de don ou de legs respectivement par voie d’acquisition ;
+- « transfert d’archives privées » : la transmission de la gestion d’archives privées par voie de dépôt, de don ou de legs respectivement par voie d’acquisition ;
 
-7. « tableau de tri » : document décrivant toutes les archives d’un producteur ou détenteur d’archives publiques et qui mentionne pour chaque catégorie d’archives les informations suivantes : la typologie, l’intitulé ou la description du contenu, la durée d’utilité administrative et le sort final. Le tableau de tri est accessible au public. Exception est faite pour les tableaux de tri référençant des documents qui ont trait à la défense nationale, à la sécurité du Grand-Duché de Luxembourg ou à la sécurité des États étrangers ou des organisations internationales ou supranationales avec lesquelles le Luxembourg poursuit des objectifs communs sur base d’accords ou de conventions ;
+- « tableau de tri » : document décrivant toutes les archives d’un producteur ou détenteur d’archives publiques et qui mentionne pour chaque catégorie d’archives les informations suivantes : la typologie, l’intitulé ou la description du contenu, la durée d’utilité administrative et le sort final. Le tableau de tri est accessible au public. Exception est faite pour les tableaux de tri référençant des documents qui ont trait à la défense nationale, à la sécurité du Grand-Duché de Luxembourg ou à la sécurité des États étrangers ou des organisations internationales ou supranationales avec lesquelles le Luxembourg poursuit des objectifs communs sur base d’accords ou de conventions ;
 
-8. « sort final » : sort réservé aux archives à l’expiration de la durée d’utilité administrative et consistant soit en la conservation définitive et intégrale des documents, soit en la destruction définitive et intégrale des documents ;
+- « sort final » : sort réservé aux archives à l’expiration de la durée d’utilité administrative et consistant soit en la conservation définitive et intégrale des documents, soit en la destruction définitive et intégrale des documents ;
 
-9. « durée d’utilité administrative » : la durée légale ou pratique pendant laquelle des archives sont susceptibles d'être utilisées par le producteur ou le détenteur, au terme de laquelle est appliquée la décision concernant leur sort final ;
+- « durée d’utilité administrative » : la durée légale ou pratique pendant laquelle des archives sont susceptibles d'être utilisées par le producteur ou le détenteur, au terme de laquelle est appliquée la décision concernant leur sort final ;
 
-10. « recommandations » : les bonnes pratiques élaborées par les Archives nationales dans le cadre de leur mission d’encadrement en ce qui concerne la gestion, la conservation et la communication des archives publiques ainsi que les conseils émis par les Archives nationales suite à leurs inspections dans le cadre de leur mission d’encadrement ;
+- « recommandations » : les bonnes pratiques élaborées par les Archives nationales dans le cadre de leur mission d’encadrement en ce qui concerne la gestion, la conservation et la communication des archives publiques ainsi que les conseils émis par les Archives nationales suite à leurs inspections dans le cadre de leur mission d’encadrement ;
 
-11. « fonds d’archives » : l’ensemble de documents de toute nature constitué de façon organique par un producteur ou détenteur d’archives dans l'exercice de ses activités et en fonction de ses attributions.
+- « fonds d’archives » : l’ensemble de documents de toute nature constitué de façon organique par un producteur ou détenteur d’archives dans l'exercice de ses activités et en fonction de ses attributions.
 
 #### Chapitre II Proposition de versement des archives publiques aux Archives nationales
 
@@ -90,21 +90,21 @@ Par dérogation au paragraphe 1er de l’article 3, les archives publiques class
 
 Les producteurs ou détenteurs d’archives publiques suivants conservent et gèrent eux-mêmes leurs archives publiques conformément aux principes de la présente loi :
 
-1. la Chambre des députés ;
+- la Chambre des députés ;
 
-2. le Conseil d’État ;
+- le Conseil d’État ;
 
-3. les juridictions luxembourgeoises ;
+- les juridictions luxembourgeoises ;
 
-4. la Cour grand-ducale ;
+- la Cour grand-ducale ;
 
-5. le Médiateur ;
+- le Médiateur ;
 
-6. la Cour des comptes ;
+- la Cour des comptes ;
 
-7. les établissements publics de l’État ;
+- les établissements publics de l’État ;
 
-8. l’Institut Grand-Ducal.
+- l’Institut Grand-Ducal.
 
 Au cas où ces producteurs ou détenteurs d’archives publiques ne peuvent pas conserver eux-mêmes leurs archives publiques, les Archives nationales conservent leurs archives publiques après expiration de la durée d’utilité administrative.
 
@@ -137,11 +137,11 @@ Afin de pouvoir bénéficier d’un archivage autonome, les producteurs ou déte
 
 À ce titre les producteurs ou détenteurs d’archives publiques doivent disposer :
 
-1. d’un service d’archives publiques au sein de leur administration et disposer de personnel qualifié en matière d’archivage. Le chef du service d’archives doit être diplômé en archivistique et tout autre agent de ce service doit au moins avoir suivi le cours d’initiation à l’archivistique proposé par l’Institut national d’administration publique ;
+- d’un service d’archives publiques au sein de leur administration et disposer de personnel qualifié en matière d’archivage. Le chef du service d’archives doit être diplômé en archivistique et tout autre agent de ce service doit au moins avoir suivi le cours d’initiation à l’archivistique proposé par l’Institut national d’administration publique ;
 
-2. d’une infrastructure et de mesures de sécurité ;
+- d’une infrastructure et de mesures de sécurité ;
 
-3. d’un plan d’urgence mettant à l’abri les archives publiques en cas d’incident mettant en cause leur sécurité.
+- d’un plan d’urgence mettant à l’abri les archives publiques en cas d’incident mettant en cause leur sécurité.
 
 Tout producteur ou détenteur d’archives publiques qui s’est vu accorder le régime dérogatoire relatif à l’archivage établit des inventaires de ses archives et les rend accessibles pour une consultation en ligne via le moteur de recherche des Archives nationales.
 
@@ -268,11 +268,11 @@ Toute personne détentrice d’archives publiques en violation du paragraphe 1er
 
 Sans préjudice des autres formalités à respecter en vertu de la législation nationale ou du droit de l’Union européenne, l’exportation des archives publiques, conservées auprès d’un producteur ou détenteur d’archives publiques bénéficiant d’un régime dérogatoire en matière d’archivage conformément aux articles 4, paragraphe 2, et 5 ne peut être autorisée par le directeur des Archives nationales que si :
 
-1. les conditions de l’exportation sont telles qu’il existe des garanties suffisantes pour que la sécurité physique des archives ne soit pas affectée ;
+- les conditions de l’exportation sont telles qu’il existe des garanties suffisantes pour que la sécurité physique des archives ne soit pas affectée ;
 
-2. l’exportation n’est que temporaire ;
+- l’exportation n’est que temporaire ;
 
-3. les coordonnées du destinataire et la date de retour des archives sont préalablement communiquées aux Archives nationales.
+- les coordonnées du destinataire et la date de retour des archives sont préalablement communiquées aux Archives nationales.
 
 La demande d’autorisation d’exportation dûment motivée est formulée auprès du directeur des Archives nationales. Saisi d’une demande d’autorisation d’exportation, le directeur des Archives nationales devra se prononcer dans le délai de six semaines. Passé ce délai, l’autorisation est censée accordée.
 
@@ -377,25 +377,25 @@ Le classement peut donner lieu au paiement d’une indemnité représentative du
 
 Sont punis d'une amende de 500 à 45.000 euros s’ils ont été commis intentionnellement :
 
-1. La destruction d’archives privées classées ou en instance de classement ;
+- La destruction d’archives privées classées ou en instance de classement ;
 
-2. L’exportation hors du Luxembourg d’archives privées classées ou en instance de classement en infraction aux dispositions du paragraphe 4 ;
+- L’exportation hors du Luxembourg d’archives privées classées ou en instance de classement en infraction aux dispositions du paragraphe 4 ;
 
 (8)
 
 Sont également punis d'une amende de 500 à 45.000 euros s’ils ont été commis intentionnellement :
 
-1. Le refus de présentation d'archives privées classées ou en instance de classement aux agents mentionnés au paragraphe 4 ;
+- Le refus de présentation d'archives privées classées ou en instance de classement aux agents mentionnés au paragraphe 4 ;
 
-2. L'aliénation d'archives privées classées ou en instance de classement en violation des dispositions du paragraphe 4 ;
+- L'aliénation d'archives privées classées ou en instance de classement en violation des dispositions du paragraphe 4 ;
 
-3. L'absence de notification d'une aliénation d'archives privées classées ou en instance de classement en violation des dispositions du paragraphe 4 ;
+- L'absence de notification d'une aliénation d'archives privées classées ou en instance de classement en violation des dispositions du paragraphe 4 ;
 
-4. Le déplacement d'archives privées classées ou en instance de classement d'un lieu dans un autre à l’intérieur du pays en violation des dispositions du paragraphe 4 ;
+- Le déplacement d'archives privées classées ou en instance de classement d'un lieu dans un autre à l’intérieur du pays en violation des dispositions du paragraphe 4 ;
 
-5. Le démembrement d’archives privées classées ou en instance de classement en violation des dispositions du paragraphe 4 ;
+- Le démembrement d’archives privées classées ou en instance de classement en violation des dispositions du paragraphe 4 ;
 
-6. La réalisation, sans l'autorisation prévue au paragraphe 6, de toute opération susceptible de modifier ou d'altérer des archives privées classées ou en instance de classement.
+- La réalisation, sans l'autorisation prévue au paragraphe 6, de toute opération susceptible de modifier ou d'altérer des archives privées classées ou en instance de classement.
 
 (9)
 
@@ -416,13 +416,13 @@ La gratuité de la communication des archives ne fait pas obstacle à la factura
 
 Par dérogation au paragraphe précédent, le délai de communication est de cinquante ans à partir de la date du document le plus récent inclus dans le dossier pour les archives publiques :
 
-1. dont la communication porterait atteinte aux relations extérieures, à la sécurité du Grand-Duché de Luxembourg ou à l’ordre public ;
+- dont la communication porterait atteinte aux relations extérieures, à la sécurité du Grand-Duché de Luxembourg ou à l’ordre public ;
 
-2. ayant trait aux affaires portées devant les instances juridictionnelles, extrajudiciaires ou disciplinaires ;
+- ayant trait aux affaires portées devant les instances juridictionnelles, extrajudiciaires ou disciplinaires ;
 
-3. ayant trait à la prévention, à la recherche ou à la poursuite de faits punissables ;
+- ayant trait à la prévention, à la recherche ou à la poursuite de faits punissables ;
 
-4. dont la communication porterait atteinte au caractère confidentiel des informations commerciales et industrielles.
+- dont la communication porterait atteinte au caractère confidentiel des informations commerciales et industrielles.
 
 Le délai de communication est de cent ans à partir de la date du document le plus récent inclus dans le dossier pour les archives publiques qui sont couvertes par le secret fiscal.
 
@@ -475,9 +475,9 @@ Le directeur des Archives nationales, sur avis du Conseil des archives, peut aut
 
 Le directeur des Archives nationales, après l’accord de l’entité versante, autorise la communication des archives publiques conservées aux Archives nationales avant l’expiration des délais de communication dans les cas suivants :
 
-1. la communication des archives publiques visées à l’article 16, paragraphe 2 avant l’expiration du délai de communication est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive aux intérêts protégés par ladite disposition ;
+- la communication des archives publiques visées à l’article 16, paragraphe 2 avant l’expiration du délai de communication est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive aux intérêts protégés par ladite disposition ;
 
-2. la communication des archives publiques visées à l’article 16, paragraphe 3 avant l’expiration des délais de communication est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive à la vie privée de la personne concernée.
+- la communication des archives publiques visées à l’article 16, paragraphe 3 avant l’expiration des délais de communication est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive à la vie privée de la personne concernée.
 
 (5)
 
@@ -572,17 +572,17 @@ Sans préjudice des dispositions relatives au dépôt légal, tel que défini da
 
 Il est institué un Conseil des archives dont les missions sont :
 
-1. de fonctionner comme organe consultatif et de se prononcer sur toute question en matière d’archives qui lui est soumise par le ministre ;
+- de fonctionner comme organe consultatif et de se prononcer sur toute question en matière d’archives qui lui est soumise par le ministre ;
 
-2. de fonctionner comme organe de réflexion et d’impulsion dans le domaine des archives et de formuler des avis et des propositions au ministre ;
+- de fonctionner comme organe de réflexion et d’impulsion dans le domaine des archives et de formuler des avis et des propositions au ministre ;
 
-3. de proposer des mesures en matière de politique archivistique sur le plan national ;
+- de proposer des mesures en matière de politique archivistique sur le plan national ;
 
-4. de promouvoir l’archivage ;
+- de promouvoir l’archivage ;
 
-5. de se prononcer sur les propositions de classement d’archives privées comme archives privées historiques ;
+- de se prononcer sur les propositions de classement d’archives privées comme archives privées historiques ;
 
-6. d’émettre un avis dans le cas d’un refus de communication d’archives publiques avant l’expiration des délais de communication.
+- d’émettre un avis dans le cas d’un refus de communication d’archives publiques avant l’expiration des délais de communication.
 
 (2)
 
@@ -601,9 +601,9 @@ Le président du Conseil des archives est désigné parmi ses membres par le min
 
 La loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État est modifiée comme suit :
 
-1. L’article 3 est remplacé par le texte suivant : Art. 3.Sans préjudice des missions spécifiques définies pour chaque institut, les missions générales des instituts culturels de l’État, dans le domaine propre à chacun, sont l’étude, la conservation et l’épanouissement du patrimoine culturel et intellectuel, des activités de sensibilisation, d’éducation et de formation, ainsi que des activités de recherche, telles que définies à l’article 3, paragraphe 8, 3e tiret, de la loi modifiée du 31 mai 1999 portant création d’un fonds national de la recherche dans le secteur public.Les instituts culturels de l’État :peuvent rechercher la collaboration d’instituts similaires au niveau international et collaborer à des projets internationaux ;peuvent faire appel à des experts et chercheurs ;peuvent entreprendre des activités de recherche, en relation avec leurs missions et leurs collections. Ils peuvent à cette fin collaborer avec des partenaires du secteur public ou du secteur privé ;peuvent publier des ouvrages scientifiques et didactiques sans préjudice des dispositions légales en vigueur ;constituent et entretiennent des collections. Ils peuvent accepter des prêts ainsi que prendre en dépôt des objets et, avec l’approbation du ministre ainsi que sous réserve des conditions prévues à l’article 910 du Code Civil, accepter des dons et des legs faits au profit de l’État.
+- L’article 3 est remplacé par le texte suivant : Art. 3. Sans préjudice des missions spécifiques définies pour chaque institut, les missions générales des instituts culturels de l’État, dans le domaine propre à chacun, sont l’étude, la conservation et l’épanouissement du patrimoine culturel et intellectuel, des activités de sensibilisation, d’éducation et de formation, ainsi que des activités de recherche, telles que définies à l’article 3, paragraphe 8, 3e tiret, de la loi modifiée du 31 mai 1999 portant création d’un fonds national de la recherche dans le secteur public. Les instituts culturels de l’État : peuvent rechercher la collaboration d’instituts similaires au niveau international et collaborer à des projets internationaux ; peuvent faire appel à des experts et chercheurs ; peuvent entreprendre des activités de recherche, en relation avec leurs missions et leurs collections. Ils peuvent à cette fin collaborer avec des partenaires du secteur public ou du secteur privé ; peuvent publier des ouvrages scientifiques et didactiques sans préjudice des dispositions légales en vigueur ; constituent et entretiennent des collections. Ils peuvent accepter des prêts ainsi que prendre en dépôt des objets et, avec l’approbation du ministre ainsi que sous réserve des conditions prévues à l’article 910 du Code Civil, accepter des dons et des legs faits au profit de l’État.
 
-2. L’article 7 est remplacé par le texte suivant : Art. 7.Les Archives nationales ont pour missions :de collecter, de réunir, de conserver, de classer, d’inventorier, d’étudier et de communiquer des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ;de conseiller les producteurs ou détenteurs d’archives, publiques ou privées, sur le classement, l’inventorisation et la conservation de leurs archives ;d’assurer l’encadrement et d’élaborer des recommandations sur la manière d’organiser, de gérer, de conserver les archives publiques et de les verser aux Archives nationales ;d’accepter des archives privées par don, legs ou dépôt en vue de leur intégration ou de leur mise en dépôt aux Archives nationales et d’acquérir au profit de l’État des archives privées d’intérêt historique, scientifique, économique, sociétal ou culturel ;d’assurer la protection et la préservation des archives publiques et des archives privées classées conformément à la loi sur l’archivage ;d’organiser des expositions temporaires, des colloques, des conférences ainsi que des activités pédagogiques qui sont en rapport avec ses activités dans le but de valoriser le patrimoine archivistique national et de sensibiliser le public à l’importance de la conservation de ce patrimoine ;de sensibiliser les institutions, administrations et services publics aux techniques de l’archivage et à la conservation des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ;de contribuer au développement de l’archivistique au niveau national et au niveau international.
+- L’article 7 est remplacé par le texte suivant : Art. 7. Les Archives nationales ont pour missions : de collecter, de réunir, de conserver, de classer, d’inventorier, d’étudier et de communiquer des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ; de conseiller les producteurs ou détenteurs d’archives, publiques ou privées, sur le classement, l’inventorisation et la conservation de leurs archives ; d’assurer l’encadrement et d’élaborer des recommandations sur la manière d’organiser, de gérer, de conserver les archives publiques et de les verser aux Archives nationales ; d’accepter des archives privées par don, legs ou dépôt en vue de leur intégration ou de leur mise en dépôt aux Archives nationales et d’acquérir au profit de l’État des archives privées d’intérêt historique, scientifique, économique, sociétal ou culturel ; d’assurer la protection et la préservation des archives publiques et des archives privées classées conformément à la loi sur l’archivage ; d’organiser des expositions temporaires, des colloques, des conférences ainsi que des activités pédagogiques qui sont en rapport avec ses activités dans le but de valoriser le patrimoine archivistique national et de sensibiliser le public à l’importance de la conservation de ce patrimoine ; de sensibiliser les institutions, administrations et services publics aux techniques de l’archivage et à la conservation des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ; de contribuer au développement de l’archivistique au niveau national et au niveau international.
 
 <a id="art-24"></a>
 ## Art. 24.
@@ -613,7 +613,9 @@ Aux articles 225 et 261 de la loi électorale modifiée du 18 février 2003, les
 <a id="art-25"></a>
 ## Art. 25.
 
-À l’article 56 du décret modifié du 18 juin 1811 contenant règlement pour l’administration de la justice en matière criminelle, de police correctionnelle et de simple police, et tarif général des frais est ajouté un deuxième paragraphe qui se lit comme suit :« En matière criminelle, correctionnelle et de simple police, le Procureur général d’État peut autoriser toute personne présentant un intérêt légitime à consulter, reproduire ou publier les dossiers répressifs déposés aux Archives nationales, sans déplacement et sur demande spécialement motivée par rapport aux dossiers concernés, avant l’expiration des délais de communication prévus par la loi du 17 août 2018 sur l’archivage et ses règlements d’exécution ».
+À l’article 56 du décret modifié du 18 juin 1811 contenant règlement pour l’administration de la justice en matière criminelle, de police correctionnelle et de simple police, et tarif général des frais est ajouté un deuxième paragraphe qui se lit comme suit :
+
+« En matière criminelle, correctionnelle et de simple police, le Procureur général d’État peut autoriser toute personne présentant un intérêt légitime à consulter, reproduire ou publier les dossiers répressifs déposés aux Archives nationales, sans déplacement et sur demande spécialement motivée par rapport aux dossiers concernés, avant l’expiration des délais de communication prévus par la loi du 17 août 2018 sur l’archivage et ses règlements d’exécution ».
 
 #### Chapitre XV Dispositions transitoires
 

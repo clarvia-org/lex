@@ -61,33 +61,33 @@ Des restrictions aux dispositions prévues par la présente loi ou des modalité
 
 La sécurité visée par la présente loi étend ses effets notamment sur:
 
-1. l’implantation, l’exécution, l’agencement, l’aménagement et l’équipement des bâtiments ainsi que leurs alentours et leur environnement immédiat,
+- l’implantation, l’exécution, l’agencement, l’aménagement et l’équipement des bâtiments ainsi que leurs alentours et leur environnement immédiat,
 
-2. la prévention des accidents et des maladies professionnelles,
+- la prévention des accidents et des maladies professionnelles,
 
-3. la protection contre les risques d’incendie et contre les autres sinistres ou catastrophes possibles,
+- la protection contre les risques d’incendie et contre les autres sinistres ou catastrophes possibles,
 
-4. la prévention du vandalisme, des agressions et des actes de malveillance sur les lieux de travail et d’activités,
+- la prévention du vandalisme, des agressions et des actes de malveillance sur les lieux de travail et d’activités,
 
-5. l’évacuation des lieux en cas de danger et la prévention des risques de panique,
+- l’évacuation des lieux en cas de danger et la prévention des risques de panique,
 
-6. le travail dans les ateliers, les laboratoires et les autres locaux, lieux et espaces prévus pour des activités spécialisées, à l’intérieur et à l’extérieur des établissements,
+- le travail dans les ateliers, les laboratoires et les autres locaux, lieux et espaces prévus pour des activités spécialisées, à l’intérieur et à l’extérieur des établissements,
 
-7. le bon fonctionnement et la sécurité des machines, installations et équipements dangereux de même que la fiabilité des installations, équipements et dispositifs de sécurité,
+- le bon fonctionnement et la sécurité des machines, installations et équipements dangereux de même que la fiabilité des installations, équipements et dispositifs de sécurité,
 
-8. l’hygiène et la salubrité de l’environnement des postes et lieux d’activités,
+- l’hygiène et la salubrité de l’environnement des postes et lieux d’activités,
 
-9. l’aménagement des postes et lieux d’activités de même que l’ergonomie,
+- l’aménagement des postes et lieux d’activités de même que l’ergonomie,
 
-10. les premiers secours,
+- les premiers secours,
 
-11. la circulation sur les terrains d’implantation des établissements visés, ainsi que, en ce qui concerne les écoles, la sécurité routière à leurs abords immédiats,
+- la circulation sur les terrains d’implantation des établissements visés, ainsi que, en ce qui concerne les écoles, la sécurité routière à leurs abords immédiats,
 
-12. le chemin de l’école et les transports scolaires,
+- le chemin de l’école et les transports scolaires,
 
-13. l’information, la formation et l’entraînement des intéressés,
+- l’information, la formation et l’entraînement des intéressés,
 
-14. l’éducation sanitaire.
+- l’éducation sanitaire.
 
 Un règlement grand-ducal détermine les mesures et directives à mettre en oeuvre.
 
@@ -226,21 +226,21 @@ Le personnel du service peut comprendre en partie des employés et ouvriers de l
 
 Le directeur de l’Inspection du travail et des mines a notamment les attributions ci-après:
 
-1. surveiller l’application des dispositions légales et réglementaires dans tous les établissements assujettis à la présente loi, en particulier lors de leur implantation, de leur construction, de leur équipement, de leur occupation, de leur acquisition ou de leur location de même qu’à l’occasion de réaménagements importants,
+- surveiller l’application des dispositions légales et réglementaires dans tous les établissements assujettis à la présente loi, en particulier lors de leur implantation, de leur construction, de leur équipement, de leur occupation, de leur acquisition ou de leur location de même qu’à l’occasion de réaménagements importants,
 
-2. effectuer ou faire effectuer des expertises en vue de l’homologation des établissements en fonctionnement ou en construction au moment de la mise en vigueur de la présente loi,
+- effectuer ou faire effectuer des expertises en vue de l’homologation des établissements en fonctionnement ou en construction au moment de la mise en vigueur de la présente loi,
 
-3. effectuer des contrôles à la demande du ministre compétent, du responsable ou de son délégué ainsi qu’à la demande de la représentation du personnel concernée,
+- effectuer des contrôles à la demande du ministre compétent, du responsable ou de son délégué ainsi qu’à la demande de la représentation du personnel concernée,
 
-4. référer au ministre de la fonction publique et au ministre de l’éducation nationale et de la jeunesse ainsi que, à la suite de chaque visite, examen, réception, expertise et contrôle, au ministre compétent respectif,
+- référer au ministre de la fonction publique et au ministre de l’éducation nationale et de la jeunesse ainsi que, à la suite de chaque visite, examen, réception, expertise et contrôle, au ministre compétent respectif,
 
-5. conseiller et soutenir les responsables et leurs délégués,
+- conseiller et soutenir les responsables et leurs délégués,
 
-6. assurer, en collaboration avec les responsables, l’organisation des formations de base et des formations continues notamment des délégués, des membres des comités locaux de sécurité et des équipes de sécurité,
+- assurer, en collaboration avec les responsables, l’organisation des formations de base et des formations continues notamment des délégués, des membres des comités locaux de sécurité et des équipes de sécurité,
 
-7. surveiller la sécurité du fonctionnement normal des établissements de même que l’entretien et le contrôle de leurs installations et équipements,
+- surveiller la sécurité du fonctionnement normal des établissements de même que l’entretien et le contrôle de leurs installations et équipements,
 
-8. assurer la gestion administrative du service.
+- assurer la gestion administrative du service.
 
 Le directeur de l’Inspection du travail et des mines peut recourir aux services d’experts et d’organismes agréés en vue de la réception et du contrôle des installations techniques.
 

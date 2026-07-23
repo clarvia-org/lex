@@ -68,19 +68,19 @@ Mis à part pour les murs contre sol et les dalles inférieures contre sol, aucu
 
 Par « isolant thermique minéral, catégorie b. », on entend au titre du présent règlement les isolants qui remplissent simultanément les conditions suivantes :
 
-1. ils présentent un indicateur écologique I eco12 dont la valeur est inférieure ou égale à 23,7 UI6/m²,
+- ils présentent un indicateur écologique I eco12 dont la valeur est inférieure ou égale à 23,7 UI6/m²,
 
-2. ils sont intégralement de nature minérale, y compris l’enduit,
+- ils sont intégralement de nature minérale, y compris l’enduit,
 
-3. ils sont fixés majoritairement de manière mécanique, à l’exception de l’enduit.
+- ils sont fixés majoritairement de manière mécanique, à l’exception de l’enduit.
 
 Par « isolant thermique écologique, catégorie c. », on entend au titre du présent règlement les isolants qui remplissent simultanément les conditions suivantes :
 
-1. ils présentent un indicateur écologique I eco12 dont la valeur est inférieure ou égale à 23,7 UI6/m² ;
+- ils présentent un indicateur écologique I eco12 dont la valeur est inférieure ou égale à 23,7 UI6/m² ;
 
-2. ils sont constitués exclusivement de matériaux renouvelables ;
+- ils sont constitués exclusivement de matériaux renouvelables ;
 
-3. ils sont fixés exclusivement de manière mécanique, à l’exception de l’enduit.
+- ils sont fixés exclusivement de manière mécanique, à l’exception de l’enduit.
 
 Pour la position 3 du tableau, les mesures extérieures des cadres sont prises en compte pour le calcul des montants alloués.
 
@@ -88,11 +88,11 @@ Pour la position 3 du tableau, les mesures extérieures des cadres sont prises e
 
 Pour les éléments repris aux positions 1 et 2 du tableau du paragraphe 3, assainis avec des isolants thermiques qui remplissent une des conditions suivantes :
 
-1. ils sont des isolants fossiles composés à plus de 50 pour cent de matières recyclées ;
+- ils sont des isolants fossiles composés à plus de 50 pour cent de matières recyclées ;
 
-2. ils sont des isolants minéraux composés à plus de 50 pour cent de matières recyclées ;
+- ils sont des isolants minéraux composés à plus de 50 pour cent de matières recyclées ;
 
-3. ils sont des isolants écologiques dont les composants proviennent de cultures certifiées durables, répondant aux critères « Forest Stewardship Council », ci-après « Certificat FSC », « Programme for Endorsement of Forest Certification », ci-après « Certificat PEFC », « Sustainable Forestry Initiative », ci-après « Certificat SFI », ou tout autre certificat équivalent ;
+- ils sont des isolants écologiques dont les composants proviennent de cultures certifiées durables, répondant aux critères « Forest Stewardship Council », ci-après « Certificat FSC », « Programme for Endorsement of Forest Certification », ci-après « Certificat PEFC », « Sustainable Forestry Initiative », ci-après « Certificat SFI », ou tout autre certificat équivalent ;
 
 les aides reprises dans le tableau au paragraphe 3 peuvent être augmentées de 15 euros/m2 assaini.
 
@@ -110,9 +110,9 @@ Le bonus est déterminé conformément au tableau suivant :
 
 Le droit au bonus de l’aide financière est lié au respect simultané des deux conditions suivantes :
 
-1. la valeur spécifique du besoin en chaleur de chauffage du bâtiment, après la réalisation des mesures d’assainissement énergétique, doit atteindre la classe d’isolation thermique C, B ou A selon les dispositions du règlement grand-ducal du 9 juin 2021 concernant la performance énergétique des bâtiments ;
+- la valeur spécifique du besoin en chaleur de chauffage du bâtiment, après la réalisation des mesures d’assainissement énergétique, doit atteindre la classe d’isolation thermique C, B ou A selon les dispositions du règlement grand-ducal du 9 juin 2021 concernant la performance énergétique des bâtiments ;
 
-2. la valeur spécifique du besoin en chaleur de chauffage du bâtiment doit être améliorée d’au moins deux classes d’isolation thermique suite à l’assainissement énergétique.
+- la valeur spécifique du besoin en chaleur de chauffage du bâtiment doit être améliorée d’au moins deux classes d’isolation thermique suite à l’assainissement énergétique.
 
 (6)
 
@@ -133,9 +133,9 @@ La surface de référence énergétique maximale éligible s’élève à 150 m2
 
 Pour les investissements et services relatifs à des travaux d’assainissement énergétique ou à la mise en œuvre d’une ventilation mécanique contrôlée pour lesquels la première demande en vue de l’obtention d’un accord de principe est introduite entre le 1er novembre 2022 et le 31 décembre 2025 inclus et dont la facture est établie au plus tard le 31 décembre 2029 , les aides financières allouées conformément :
 
-1. au paragraphe 3, le cas échéant augmentées du montant précisé au paragraphe 4 et du bonus précisé au paragraphe 5 ;
+- au paragraphe 3, le cas échéant augmentées du montant précisé au paragraphe 4 et du bonus précisé au paragraphe 5 ;
 
-2. au paragraphe 7,
+- au paragraphe 7,
 
 sont augmentées d’un bonus financier de 25 pour cent.
 
@@ -184,29 +184,29 @@ Sont visées les pompes à chaleur respectant les exigences et critères requis 
 
 Pour une pompe à chaleur géothermique ainsi qu’une pompe à chaleur combinée à un accumulateur de chaleur latente et un collecteur solaire thermique, le montant de l’aide financière s’élève à :
 
-1. 8 000 euros pour les installations dont la puissance nominative ne dépasse pas 10 kW thermique dans le cas d’une maison unifamiliale ;
+- 8 000 euros pour les installations dont la puissance nominative ne dépasse pas 10 kW thermique dans le cas d’une maison unifamiliale ;
 
-2. 800 euros par kW thermique pour les installations d’une puissance nominative de plus de 10 kW thermique dans le cas d’une maison unifamiliale, sans toutefois dépasser 12 000 euros ;
+- 800 euros par kW thermique pour les installations d’une puissance nominative de plus de 10 kW thermique dans le cas d’une maison unifamiliale, sans toutefois dépasser 12 000 euros ;
 
-3. 7 500 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 37 500 euros dans le cas d’un immeuble collectif ;
+- 7 500 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 37 500 euros dans le cas d’un immeuble collectif ;
 
-4. 7 500 euros par maison unifamiliale ou par logement faisant partie d’un immeuble collectif raccordés à un réseau de chaleur alimenté par une telle installation. Dans ce cas, l’aide financière est plafonnée à 37 500 euros.
+- 7 500 euros par maison unifamiliale ou par logement faisant partie d’un immeuble collectif raccordés à un réseau de chaleur alimenté par une telle installation. Dans ce cas, l’aide financière est plafonnée à 37 500 euros.
 
 (3)
 
 Pour une pompe à chaleur air-eau ou un appareil compact comprenant la ventilation mécanique contrôlée et la pompe à chaleur air rejeté-eau dans un nouveau bâtiment utilisé à des fins d’habitation, le montant de l’aide financière s’élève à :
 
-1. 3 000 euros dans le cas d’une maison unifamiliale ;
+- 3 000 euros dans le cas d’une maison unifamiliale ;
 
-2. 2 000 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 10 000 euros dans le cas d’un immeuble collectif.
+- 2 000 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 10 000 euros dans le cas d’un immeuble collectif.
 
 (4)
 
 Pour une pompe à chaleur air-eau ou un appareil compact comprenant la ventilation mécanique contrôlée et la pompe à chaleur air rejeté-eau dans un bâtiment utilisé à des fins d’habitation existant, le montant de l’aide financière s’élève à :
 
-1. 5 000 euros pour les installations dont la puissance nominative ne dépasse pas 10 kW thermique ;
+- 5 000 euros pour les installations dont la puissance nominative ne dépasse pas 10 kW thermique ;
 
-2. 500 euros par kW thermique pour les installations d’une puissance nominative de plus de 10 kW thermique , sans toutefois dépasser 12 000 euros.
+- 500 euros par kW thermique pour les installations d’une puissance nominative de plus de 10 kW thermique , sans toutefois dépasser 12 000 euros.
 
 (5)
 
@@ -235,11 +235,11 @@ Seuls les chaudières à bois et les filtres à particules qui sont installés d
 
 Pour une chaudière à granulés de bois et une chaudière à plaquettes de bois, le montant de l’aide financière s’élève à :
 
-1. 750 euros par kW thermique dans le cas d’une maison unifamiliale, sans toutefois dépasser 7 500 euros ;
+- 750 euros par kW thermique dans le cas d’une maison unifamiliale, sans toutefois dépasser 7 500 euros ;
 
-2. 750 euros par kW thermique dans le cas d’un immeuble collectif. L’aide financière est plafonnée à 30 000 euros dans le cas d’un immeuble collectif ;
+- 750 euros par kW thermique dans le cas d’un immeuble collectif. L’aide financière est plafonnée à 30 000 euros dans le cas d’un immeuble collectif ;
 
-3. 750 euros par kW thermique par maison unifamiliale ou par logement faisant partie d’un immeuble collectif raccordés à un réseau de chaleur alimenté par une telle installation. Dans ce cas, l’aide financière est plafonnée à 30 000 euros.
+- 750 euros par kW thermique par maison unifamiliale ou par logement faisant partie d’un immeuble collectif raccordés à un réseau de chaleur alimenté par une telle installation. Dans ce cas, l’aide financière est plafonnée à 30 000 euros.
 
 (3)
 
@@ -293,9 +293,9 @@ Sont visés les services de conseil en énergie et d’accompagnement ponctuel d
 
 Pour la prestation d’un conseil en énergie, l’aide financière s’élève à :
 
-1. 1 500 euros pour une maison unifamiliale, sans toutefois dépasser les coûts effectifs du conseil en énergie ;
+- 1 500 euros pour une maison unifamiliale, sans toutefois dépasser les coûts effectifs du conseil en énergie ;
 
-2. 1 800 euros pour un immeuble collectif se composant de deux logements, sans toutefois dépasser les coûts effectifs du conseil en énergie. À ce montant de base s’ajoute un supplément de 50 euros pour chaque logement supplémentaire. Le montant total est plafonné à 2 600 euros, sans toutefois dépasser les coûts effectifs du conseil en énergie.
+- 1 800 euros pour un immeuble collectif se composant de deux logements, sans toutefois dépasser les coûts effectifs du conseil en énergie. À ce montant de base s’ajoute un supplément de 50 euros pour chaque logement supplémentaire. Le montant total est plafonné à 2 600 euros, sans toutefois dépasser les coûts effectifs du conseil en énergie.
 
 Cette aide financière peut, dans le cas où la valeur spécifique du besoin en chaleur de chauffage du bâtiment, après la réalisation des mesures d’assainissement énergétique, atteint au moins la classe d’isolation thermique C, être augmentée de 140 euros pour le calcul d’un pont thermique et des propositions de traitement afférentes, sans toutefois dépasser un montant de 700 euros.
 
@@ -342,7 +342,7 @@ En cas d’adaptation du concept d’assainissement ou, pour les travaux d’ass
 
 (3)
 
-Pour un immeuble collectif, un seul dossier de demande est à soumettre à l’Administration de l’environnement, sauf pour les aides visées à l’article 2 .
+Pour un immeuble collectif, un seul dossier de demande est à soumettre à l’Administration de l’environnement , sauf pour les aides visées à l’article 2 .
 
 (4)
 
@@ -352,11 +352,11 @@ Le formulaire précité est à remplir par le demandeur.
 
 Les fiches annexes précitées, spécifiques aux aides financières sollicitées, sont à valider :
 
-1. dans le cas d’un assainissement énergétique, par le conseiller en énergie tel que défini par le présent règlement ou, pour les travaux d’assainissement se limitant à un seul élément de construction de l’enveloppe thermique, par l’entreprise qui exécute les travaux d’assainissement, laquelle est une personne agréée au titre de la loi du 21 avril 1993 relative à l’agrément de personnes physiques ou morales, privées ou publiques, autres que l’État, pour l’accomplissement de tâches techniques d’étude et de vérification dans le domaine de l’environnement ;
+- dans le cas d’un assainissement énergétique, par le conseiller en énergie tel que défini par le présent règlement ou, pour les travaux d’assainissement se limitant à un seul élément de construction de l’enveloppe thermique, par l’entreprise qui exécute les travaux d’assainissement, laquelle est une personne agréée au titre de la loi du 21 avril 1993 relative à l’agrément de personnes physiques ou morales, privées ou publiques, autres que l’État, pour l’accomplissement de tâches techniques d’étude et de vérification dans le domaine de l’environnement ;
 
-2. dans le cas d’une installation technique, par le conseiller en énergie tel que défini par le présent règlement, la personne ayant établi le calcul de la performance énergétique, l’architecte responsable du projet ou l’entreprise responsable des travaux ;
+- dans le cas d’une installation technique, par le conseiller en énergie tel que défini par le présent règlement, la personne ayant établi le calcul de la performance énergétique, l’architecte responsable du projet ou l’entreprise responsable des travaux ;
 
-3. dans le cas d’un conseil en énergie, par le conseiller en énergie tel que défini par le présent règlement.
+- dans le cas d’un conseil en énergie, par le conseiller en énergie tel que défini par le présent règlement.
 
 (6)
 
@@ -364,23 +364,23 @@ La demande doit être accompagnée de factures détaillées et précises, quant 
 
 Par dérogation à l’alinéa 1er, première phrase, les demandes portant sur les aides visées à l’article 2 sont accompagnées :
 
-1. d’une facture, acquittée en due forme, précisant expressément et de manière clairement visible :
+- d’une facture, acquittée en due forme, précisant expressément et de manière clairement visible :
 
-1. le cas échéant, la puissance électrique de crête totale de l’installation solaire photovoltaïque montée ;
+  - le cas échéant, la puissance électrique de crête totale de l’installation solaire photovoltaïque montée ;
 
-2. le cas échéant, la capacité utile de l’installation de stockage montée ;
+  - le cas échéant, la capacité utile de l’installation de stockage montée ;
 
-2. d’une offre signée par le demandeur ou tout autre document confirmant la date de commande des installations qui font l’objet d’une demande ;
+- d’une offre signée par le demandeur ou tout autre document confirmant la date de commande des installations qui font l’objet d’une demande ;
 
-3. pour les installations pour lesquelles les conditions techniques de raccordement aux réseaux de basse tension visées par l’article 5, paragraphe 2, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité en exigent, d’une copie de la notification de fin de travaux pour les installations montées dûment envoyée au gestionnaire de réseau concerné.
+- pour les installations pour lesquelles les conditions techniques de raccordement aux réseaux de basse tension visées par l’article 5, paragraphe 2, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité en exigent, d’une copie de la notification de fin de travaux pour les installations montées dûment envoyée au gestionnaire de réseau concerné.
 
 Au cas où le demandeur est une entreprise, l’aide financière est octroyée en vertu du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne aux aides de minimis. Le plafond établi à l’article 3, paragraphe 2, dudit règlement ne doit pas être atteint. À cette fin, l’entreprise concernée doit remettre une déclaration au sujet des autres aides de minimis éventuelles relevant du règlement précité ou d’autres règlements de minimis qu’elle a reçues au cours des deux exercices fiscaux précédents et de l’exercice fiscal en cours.
 
 Si les demandes visées aux alinéas 1er et 2 sont introduites par l’intermédiaire d’un crédit-bailleur, elles sont accompagnées :
 
-1. du mandat donné par le crédit-preneur autorisant celui-ci à demander l’aide et en obtenir le paiement au nom et pour le compte du crédit-preneur ;
+- du mandat donné par le crédit-preneur autorisant celui-ci à demander l’aide et en obtenir le paiement au nom et pour le compte du crédit-preneur ;
 
-2. du contrat de crédit-bail conclu avec le crédit-preneur indiquant clairement la base légale et le montant de l’aide octroyée au crédit-preneur ainsi que le montant des versements échelonnés dus par le crédit-preneur avec et sans l’aide.
+- du contrat de crédit-bail conclu avec le crédit-preneur indiquant clairement la base légale et le montant de l’aide octroyée au crédit-preneur ainsi que le montant des versements échelonnés dus par le crédit-preneur avec et sans l’aide.
 
 (7)
 
@@ -411,13 +411,13 @@ Modalités d’éligibilité
 
 Sont éligibles les investissements et services pour lesquels la facture est établie entre :
 
-1. le 1 er janvier 2022 et le 31 décembre 2029 inclus dans le cas d’un assainissement énergétique d’un bâtiment utilisé à des fins d’habitation après les travaux d’assainissement énergétique ou d’une partie d’un bâtiment utilisée à des fins d’habitation après les travaux d’assainissement énergétique, sous condition que :
+- le 1 er janvier 2022 et le 31 décembre 2029 inclus dans le cas d’un assainissement énergétique d’un bâtiment utilisé à des fins d’habitation après les travaux d’assainissement énergétique ou d’une partie d’un bâtiment utilisée à des fins d’habitation après les travaux d’assainissement énergétique, sous condition que :
 
-1. la première demande en vue de l’obtention d’un accord de principe est introduite entre le 1 er janvier 2022 et le 31 décembre 2025 inclus ;
+  - la première demande en vue de l’obtention d’un accord de principe est introduite entre le 1 er janvier 2022 et le 31 décembre 2025 inclus ;
 
-2. l’investissement concerné, à savoir l’élément de construction de l’enveloppe thermique ou la ventilation mécanique contrôlée, ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement ni sous le règlement grand-ducal modifié du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement.
+  - l’investissement concerné, à savoir l’élément de construction de l’enveloppe thermique ou la ventilation mécanique contrôlée, ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement ni sous le règlement grand-ducal modifié du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement.
 
-2. le 1 er janvier 2022 et le 31 décembre 2025 inclus dans le cas des installations techniques visées aux articles 3 à 6 ainsi que du conseil en énergie visé à l’article 7, sous condition que l’installation technique concernée ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement ni sous le règlement grand-ducal modifié du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement. Mis à part pour les installations photovoltaïques, ce délai est prolongé jusqu’au 31 décembre 2029 inclus sous condition que les investissements et services en question soient réalisés conjointement avec l’assainissement énergétique d’un bâtiment existant visé au point 2.
+- le 1 er janvier 2022 et le 31 décembre 2025 inclus dans le cas des installations techniques visées aux articles 3 à 6 ainsi que du conseil en énergie visé à l’article 7, sous condition que l’installation technique concernée ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement ni sous le règlement grand-ducal modifié du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement. Mis à part pour les installations photovoltaïques, ce délai est prolongé jusqu’au 31 décembre 2029 inclus sous condition que les investissements et services en question soient réalisés conjointement avec l’assainissement énergétique d’un bâtiment existant visé au point 2.
 
 (2)
 

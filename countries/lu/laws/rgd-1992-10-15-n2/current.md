@@ -121,7 +121,7 @@ Chaque liste est surmontée d'une case réservée au vote par suffrage de liste.
 
 Les bulletins sont imprimés en utilisant une encre noire et la case placée en tête de chaque liste doit présenter au milieu un petit cercle de la couleur du papier.
 
-L'estampille des élections est imprimée au verso des bulletins de vote. Cette estampille porte la mention «Elections des représentants du personnel salarié » au conseil d'administration de l'entreprise des postes et télécommunications».
+L'estampille des élections est imprimée au verso des bulletins de vote. Cette estampille porte la mention « Elections des représentants du personnel salarié » au conseil d'administration de l'entreprise des postes et télécommunications».
 
 Les bulletins employés doivent être absolument identiques sous le rapport du papier, du format et de l'impression.
 

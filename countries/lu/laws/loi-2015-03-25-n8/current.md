@@ -47,17 +47,17 @@ Dans les dispositions qui suivent, l’employé de l’Etat est désigné par le
 
 Pour être admis au service de l’Etat l’employé doit remplir les conditions suivantes:
 
-1. être ressortissant d’un Etat membre de l’Union européenne;
+- être ressortissant d’un Etat membre de l’Union européenne;
 
-2. jouir des droits civils et politiques;
+- jouir des droits civils et politiques;
 
-3. offrir les garanties de moralité requises;
+- offrir les garanties de moralité requises;
 
-4. satisfaire aux conditions d’aptitude physique et psychique requises pour l’exercice de son emploi, à attester par un certificat médical établi par le médecin du travail dans la Fonction publique;
+- satisfaire aux conditions d’aptitude physique et psychique requises pour l’exercice de son emploi, à attester par un certificat médical établi par le médecin du travail dans la Fonction publique;
 
-5. faire preuve d’une connaissance adaptée au niveau de carrière des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues, sauf pour les emplois, à déterminer par règlement grand-ducal, pour lesquels la connaissance de l’une ou de l’autre de ces langues n’est pas reconnue nécessaire en raison de la nature et du niveau de responsabilité de ces emplois;
+- faire preuve d’une connaissance adaptée au niveau de carrière des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues, sauf pour les emplois, à déterminer par règlement grand-ducal, pour lesquels la connaissance de l’une ou de l’autre de ces langues n’est pas reconnue nécessaire en raison de la nature et du niveau de responsabilité de ces emplois;
 
-6. satisfaire aux conditions d’études et de formation professionnelle requises.
+- satisfaire aux conditions d’études et de formation professionnelle requises.
 
 (2)
 
@@ -124,9 +124,9 @@ Au moins deux mois avant l’écoulement du délai de six mois d’absences pour
 
 Sans préjudice de l’application des dispositions de l’article 9, l’employé qui bénéficie d’un contrat à durée indéterminée a droit pour lui-même et ses survivants, à l’application du régime de pension des fonctionnaires de l’Etat dans l’une des conditions suivantes:
 
-1. après douze années de service à compter de l’entrée en vigueur du contrat à durée indéterminée;
+- après douze années de service à compter de l’entrée en vigueur du contrat à durée indéterminée;
 
-2. à partir de l’âge de cinquante-cinq ans.
+- à partir de l’âge de cinquante-cinq ans.
 
 (2)
 
@@ -137,17 +137,17 @@ Pour l’application du présent article, les dates à considérer qui ne coïnc
 
 Sont mises en compte pour l’application des délais prévus aux articles 7 et 8:
 
-1. les périodes passées au service de l’Etat en qualité d’employé sous contrat à durée déterminée;
+- les périodes passées au service de l’Etat en qualité d’employé sous contrat à durée déterminée;
 
-2. les périodes passées au service de l’Etat en qualité de fonctionnaire ou de fonctionnaire stagiaire;
+- les périodes passées au service de l’Etat en qualité de fonctionnaire ou de fonctionnaire stagiaire;
 
-3. les périodes passées au service d’une commune en qualité d’employé ou de fonctionnaire communal;
+- les périodes passées au service d’une commune en qualité d’employé ou de fonctionnaire communal;
 
-4. les périodes passées au service de l’Etat en qualité de salarié;
+- les périodes passées au service de l’Etat en qualité de salarié;
 
-5. le temps de service comme volontaire de l’Armée;
+- le temps de service comme volontaire de l’Armée;
 
-6. les temps considérés comme périodes d’activité de service intégrale dans les conditions prévues par les articles 28 à 30 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.
+- les temps considérés comme périodes d’activité de service intégrale dans les conditions prévues par les articles 28 à 30 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.
 
 Les périodes visées aux points a), c) et d) sont mises en compte à condition qu’elles se succèdent sans interruption et qu’elles rejoignent sans interruption la période prestée en qualité d’employé de l’Etat sous contrat à durée indéterminée. L’interruption de cette dernière période ne nuit pas à la prise en compte des périodes antérieures passées au service d’une commune ou de l’Etat, lorsqu’il y a reprise de service ultérieure.
 
@@ -304,7 +304,7 @@ Sans préjudice de l’application des dispositions de l’article 19, il est re
 
 (2)
 
-Sans préjudice des restrictions légales, l’employé bénéficie des avancements en grade conformément aux dispositions des articles 42 à 49, dans le respect d’un délai minimal d’une année entre deux avancements en grade .
+Sans préjudice des restrictions légales, l’employé bénéficie des avancements en grade conformément aux dispositions des articles 42 à 49 , dans le respect d’un délai minimal d’une année entre deux avancements en grade .
 
 Par avancement en grade au sens de la présente loi, il y a lieu d’entendre l’accès de l’employé à un grade hiérarchiquement supérieur de son sous-groupe d’indemnité après un nombre déterminé d’années de bons et loyaux services à compter du début de carrière.
 
@@ -364,7 +364,7 @@ L’employé dont l’indemnité allouée au début de carrière est inférieure
 
 (3)
 
-Pour le fonctionnaire ou le fonctionnaire stagiaire de l’Etat ou d’une commune ou l’employé communal qui est engagé en qualité d’employé de l’Etat, les temps de service occupés en qualité de fonctionnaire, fonctionnaire stagiaire ou employé communal ainsi que l’examen de promotion réussi dans l’une de ces qualités sont mis en compte pour le calcul de la nouvelle indemnité ainsi que pour le calcul des avancements en échelon et en grade, sous réserve qu’ils restent classés dans le même groupe de traitement ou d’indemnité . Si l’indemnité prévue à l’article 16 est inférieure à son ancien traitement, à son indemnité de stage ou à son indemnité d’employé, l’employé bénéficie d’un supplément personnel d’indemnité égal à la différence entre l’indemnité prévue à l’article 16 et respectivement son traitement, son indemnité de stage ou son indemnité d’employé antérieurement perçu, sous réserve qu’il est classé dans le même groupe de traitement ou d’indemnité ou à un groupe de traitement ou d’indemnité supérieur . Le supplément d’indemnité personnel diminue en fonction de la réduction de cette différence sous l’effet de l’augmentation de l’indemnité prévue à l’article 16 par accomplissement des conditions d’années de service, d’âge et d’examen.
+Pour le fonctionnaire ou le fonctionnaire stagiaire de l’Etat ou d’une commune ou l’employé communal qui est engagé en qualité d’employé de l’Etat, les temps de service occupés en qualité de fonctionnaire, fonctionnaire stagiaire ou employé communal ainsi que l’examen de promotion réussi dans l’une de ces qualités sont mis en compte pour le calcul de la nouvelle indemnité ainsi que pour le calcul des avancements en échelon et en grade , sous réserve qu’ils restent classés dans le même groupe de traitement ou d’indemnité . Si l’indemnité prévue à l’article 16 est inférieure à son ancien traitement, à son indemnité de stage ou à son indemnité d’employé, l’employé bénéficie d’un supplément personnel d’indemnité égal à la différence entre l’indemnité prévue à l’article 16 et respectivement son traitement, son indemnité de stage ou son indemnité d’employé antérieurement perçu , sous réserve qu’il est classé dans le même groupe de traitement ou d’indemnité ou à un groupe de traitement ou d’indemnité supérieur . Le supplément d’indemnité personnel diminue en fonction de la réduction de cette différence sous l’effet de l’augmentation de l’indemnité prévue à l’article 16 par accomplissement des conditions d’années de service, d’âge et d’examen.
 
 <a id="art-29"></a>
 ## Art. 29.
@@ -377,15 +377,15 @@ Le nombre des postes à responsabilités particulières est limité à 30 pour c
 
 Dans ces cas et pour la durée de l’occupation d’un tel poste, les échelons respectifs sont augmentés dans leurs grades des valeurs suivantes:
 
-1. dans le groupe d’indemnité A1 de 37 points indiciaires;
+- dans le groupe d’indemnité A1 de 37 points indiciaires;
 
-2. dans le groupe d’indemnité A2 de 34 points indiciaires;
+- dans le groupe d’indemnité A2 de 34 points indiciaires;
 
-3. dans le groupe d’indemnité B1 de 32 points indiciaires;
+- dans le groupe d’indemnité B1 de 32 points indiciaires;
 
-4. dans le groupe d’indemnité C1 de 27 points indiciaires;
+- dans le groupe d’indemnité C1 de 27 points indiciaires;
 
-5. dans le groupe d’indemnité C2 de 22 points indiciaires.
+- dans le groupe d’indemnité C2 de 22 points indiciaires.
 
 Toute fraction dans le calcul du nombre des postes au sens du présent article est arrondie à l’unité immédiatement supérieure à cette fraction.
 
@@ -400,11 +400,11 @@ L’employé engagé à tâche complète bénéficie de la totalité d’une all
 
 L’employé engagé à tâche partielle bénéficie de l’allocation de repas réduite:
 
-1. de vingt-cinq pour cent en cas d’un degré d’occupation mensuel inférieur à cent pour cent et supérieur ou égal à soixante-quinze pour cent,
+- de vingt-cinq pour cent en cas d’un degré d’occupation mensuel inférieur à cent pour cent et supérieur ou égal à soixante-quinze pour cent,
 
-2. de cinquante pour cent en cas d’un degré d’occupation mensuel inférieur à soixante-quinze pour cent et supérieur ou égal à cinquante pour cent,
+- de cinquante pour cent en cas d’un degré d’occupation mensuel inférieur à soixante-quinze pour cent et supérieur ou égal à cinquante pour cent,
 
-3. de soixante-quinze pour cent en cas d’un degré d’occupation mensuel inférieur à cinquante pour cent et supérieur ou égal à vingt-cinq pour cent.
+- de soixante-quinze pour cent en cas d’un degré d’occupation mensuel inférieur à cinquante pour cent et supérieur ou égal à vingt-cinq pour cent.
 
 Aucune allocation n’est due lorsque le degré d’occupation est inférieur à vingt-cinq pour cent d’une tâche complète.
 
@@ -533,15 +533,15 @@ Par années de grade aux sens de la présente disposition, il y a lieu d’enten
 
 La catégorie d’indemnité A, groupe d’indemnité A1, comprend les cinq sous-groupes suivants:
 
-1. un sous-groupe administratif;
+- un sous-groupe administratif;
 
-2. un sous-groupe scientifique et technique;
+- un sous-groupe scientifique et technique;
 
-3. un sous-groupe éducatif et psycho-social;
+- un sous-groupe éducatif et psycho-social;
 
-4. un sous-groupe à attributions particulières;
+- un sous-groupe à attributions particulières;
 
-5. un sous-groupe de l’enseignement.
+- un sous-groupe de l’enseignement.
 
 (2)
 
@@ -590,13 +590,13 @@ Pour les employés visés par le présent paragraphe, le grade 12 est allongé d
 
 La catégorie d’indemnité A, groupe d’indemnité A2, comprend les quatre sous-groupes suivants:
 
-1. un sous-groupe administratif;
+- un sous-groupe administratif;
 
-2. un sous-groupe scientifique et technique;
+- un sous-groupe scientifique et technique;
 
-3. un sous-groupe éducatif et psycho-social;
+- un sous-groupe éducatif et psycho-social;
 
-4. un sous-groupe de l’enseignement.
+- un sous-groupe de l’enseignement.
 
 (2)
 
@@ -604,7 +604,7 @@ Pour être classé à un emploi d’un des sous-groupes visés au paragraphe 1er
 
 Pour ces sous-groupes, le niveau général comprend les grades 10, 11 et 12, et les avancements aux grades 11 et 12 se font après respectivement 4 et 7 années de grade depuis le début de carrière.
 
-Le niveau supérieur comprend le grade 13, et l’avancement à ce grade intervient, sous réserve que toutes les conditions prévues par la loi soient remplies, après 20 années de grade depuis le début de carrière.Cet avancement est en outre lié à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis soit par l’Institut national d’administration publique pour les employés d’un des sous-groupes visés aux points a), b) ou c), soit par l’Institut de formation de l’éducation nationale pour les employés du sous-groupe de l’enseignement, ou d’avoir suivi une autre formation reconnue équivalente ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre compétent.
+Le niveau supérieur comprend le grade 13, et l’avancement à ce grade intervient, sous réserve que toutes les conditions prévues par la loi soient remplies, après 20 années de grade depuis le début de carrière. Cet avancement est en outre lié à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis soit par l’Institut national d’administration publique pour les employés d’un des sous-groupes visés aux points a), b) ou c), soit par l’Institut de formation de l’éducation nationale pour les employés du sous-groupe de l’enseignement, ou d’avoir suivi une autre formation reconnue équivalente ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre compétent.
 
 (3)
 
@@ -623,15 +623,15 @@ Pour les employés de ce sous-groupe, le grade 11 est allongé d’un douzième 
 
 La catégorie d’indemnité B, groupe d’indemnité B1, comprend les cinq sous-groupes suivants:
 
-1. un sous-groupe administratif;
+- un sous-groupe administratif;
 
-2. un sous-groupe scientifique et technique;
+- un sous-groupe scientifique et technique;
 
-3. un sous-groupe éducatif et psycho-social;
+- un sous-groupe éducatif et psycho-social;
 
-4. un sous-groupe à attributions particulières;
+- un sous-groupe à attributions particulières;
 
-5. un sous-groupe de l’enseignement.
+- un sous-groupe de l’enseignement.
 
 (2)
 
@@ -668,15 +668,15 @@ Le niveau supérieur comprend le grade 10, et l’avancement à ce grade intervi
 
 La catégorie d’indemnité C, groupe d’indemnité C1, comprend les cinq sous-groupes suivants:
 
-1. un sous-groupe administratif;
+- un sous-groupe administratif;
 
-2. un sous-groupe scientifique et technique;
+- un sous-groupe scientifique et technique;
 
-3. un sous-groupe éducatif et psycho-social;
+- un sous-groupe éducatif et psycho-social;
 
-4. un sous-groupe de l’enseignement;
+- un sous-groupe de l’enseignement;
 
-5. un sous-groupe à attributions particulières.
+- un sous-groupe à attributions particulières.
 
 (2)
 
@@ -709,11 +709,11 @@ Pour les employés de ce sous-groupe, les dispositions prévues au paragraphe 1e
 
 La catégorie d’indemnité C, groupe d’indemnité C2, comprend les trois sous-groupes suivants :
 
-1. un sous-groupe administratif ;
+- un sous-groupe administratif ;
 
-2. un sous-groupe technique ;
+- un sous-groupe technique ;
 
-3. un sous-groupe éducatif et psycho-social.
+- un sous-groupe éducatif et psycho-social.
 
 L’accès au groupe d’indemnité C2 n’est soumis à aucune condition d’études.
 
@@ -730,11 +730,11 @@ Pour les employés de ce groupe d’indemnité, le grade 5 est allongé d’un d
 
 La catégorie d’indemnité D, groupe d’indemnité D2, comprend les trois sous-groupes suivants:
 
-1. un sous-groupe administratif;
+- un sous-groupe administratif;
 
-2. un sous-groupe technique;
+- un sous-groupe technique;
 
-3. un sous-groupe éducatif et psycho-social.
+- un sous-groupe éducatif et psycho-social.
 
 Pour être classé à un emploi de l’un de ces sous-groupes, l’employé doit soit avoir accompli avec succès, dans l’enseignement public luxembourgeois, deux années d’études à plein temps dans l’enseignement secondaire ou secondaire technique, soit présenter un certificat sanctionnant des études reconnues équivalentes correspondant à la formation exigée pour la vacance de poste sollicitée.
 
@@ -751,9 +751,9 @@ Pour les employés de ce groupe d’indemnité, le grade 6 est allongé d’un d
 
 La catégorie d’indemnité D, groupe d’indemnité D3, comprend les deux sous-groupes suivants:
 
-1. un sous-groupe administratif;
+- un sous-groupe administratif;
 
-2. un sous-groupe technique.
+- un sous-groupe technique.
 
 Sont classés à un emploi de l’un de ces sous-groupes les employés ne remplissant pas les conditions d’accès pour le classement dans l’un des groupes d’indemnité A1, A2, B1, C1, D1 et D2.
 
@@ -846,25 +846,25 @@ Les anciennes dénominations de carrières sont remplacées par les catégories,
 
 1. Catégorie d’indemnité A:
 
-1. groupe d’indemnité A1:
+- groupe d’indemnité A1:
 
-- les sous-groupes administratif, scientifique et technique ainsi qu’éducatif et psycho-social comprennent l’ancienne carrière S;
+  - les sous-groupes administratif, scientifique et technique ainsi qu’éducatif et psycho-social comprennent l’ancienne carrière S;
 
-- le sous-groupe à attributions particulières regroupe les anciennes carrières du médecin, du médecin vétérinaire et du pharmacien;
+  - le sous-groupe à attributions particulières regroupe les anciennes carrières du médecin, du médecin vétérinaire et du pharmacien;
 
-- le sous-groupe de l’enseignement visé par le paragraphe 4 de l’article 43 regroupe les anciennes carrières de chargés de cours classés aux grades E5, E6 et E7;
+  - le sous-groupe de l’enseignement visé par le paragraphe 4 de l’article 43 regroupe les anciennes carrières de chargés de cours classés aux grades E5, E6 et E7;
 
-- le sous-groupe de l’enseignement visé par le paragraphe 5 de l’article 43 regroupe les anciennes carrières du chargé d’éducation et du chargé de cours de la formation des adultes classés au grade E3 ter ;
+  - le sous-groupe de l’enseignement visé par le paragraphe 5 de l’article 43 regroupe les anciennes carrières du chargé d’éducation et du chargé de cours de la formation des adultes classés au grade E3 ter ;
 
-2. groupe d’indemnité A2:
+- groupe d’indemnité A2:
 
-- le sous-groupe administratif est nouvellement créé;
+  - le sous-groupe administratif est nouvellement créé;
 
-- le sous-groupe scientifique et technique regroupe l’ancienne carrière E et les anciennes carrières du cytotechnicien, du laborantin, du chimiste et du bibliothécaire documentaliste;
+  - le sous-groupe scientifique et technique regroupe l’ancienne carrière E et les anciennes carrières du cytotechnicien, du laborantin, du chimiste et du bibliothécaire documentaliste;
 
-- le sous-groupe éducatif et psycho-social regroupe les anciennes carrières d’assistant d’hygiène sociale, d’assistant social, de diététicien, d’ergothérapeute, d’infirmier gradué, de masseur-kinésithérapeute, d’orthophoniste, d’orthoptiste, de pédagogue curatif, de rééducateur en psychomotricité, d’éducateur gradué et d’éducateur sanitaire;
+  - le sous-groupe éducatif et psycho-social regroupe les anciennes carrières d’assistant d’hygiène sociale, d’assistant social, de diététicien, d’ergothérapeute, d’infirmier gradué, de masseur-kinésithérapeute, d’orthophoniste, d’orthoptiste, de pédagogue curatif, de rééducateur en psychomotricité, d’éducateur gradué et d’éducateur sanitaire;
 
-- le sous-groupe de l’enseignement regroupe les anciennes carrières de chargés de cours classés aux grades E3 et E4, ainsi que l’ancienne carrière de chargé d’éducation classé au grade E3;
+  - le sous-groupe de l’enseignement regroupe les anciennes carrières de chargés de cours classés aux grades E3 et E4, ainsi que l’ancienne carrière de chargé d’éducation classé au grade E3;
 
 2. Catégorie d’indemnité B:
 
@@ -894,19 +894,19 @@ Groupe d’indemnité C1:
 
 4. Catégorie d’indemnité D:
 
-1. groupe d’indemnité D1:
+- groupe d’indemnité D1:
 
-- les sous-groupes administratif et technique comprennent l’ancienne carrière B1;
+  - les sous-groupes administratif et technique comprennent l’ancienne carrière B1;
 
-- le sous-groupe éducatif et psycho-social comprend l’ancienne carrière de l’aide-éducateur;
+  - le sous-groupe éducatif et psycho-social comprend l’ancienne carrière de l’aide-éducateur;
 
-2. groupe d’indemnité D2:
+- groupe d’indemnité D2:
 
-- les sous-groupes administratif et technique comprennent l’ancienne carrière B;
+  - les sous-groupes administratif et technique comprennent l’ancienne carrière B;
 
-3. groupe d’indemnité D3:
+- groupe d’indemnité D3:
 
-- les sous-groupes administratif et technique comprennent l’ancienne carrière A.
+  - les sous-groupes administratif et technique comprennent l’ancienne carrière A.
 
 <a id="art-59"></a>
 ## Art. 59.
@@ -1020,11 +1020,11 @@ Pour les employés en service, en congé de maternité, en congé parental ou en
 
 Pour pouvoir bénéficier de ce mécanisme temporaire de changement de groupe, l’employé doit remplir les conditions d’éligibilité suivantes:
 
-1. avoir accompli quinze années de service depuis son début de carrière;
+- avoir accompli quinze années de service depuis son début de carrière;
 
-2. être classé à un grade relevant du niveau supérieur;
+- être classé à un grade relevant du niveau supérieur;
 
-3. occuper un poste qui comporte l’exercice de fonctions et attributions supérieures à celles revenant à son groupe d’indemnité initial.
+- occuper un poste qui comporte l’exercice de fonctions et attributions supérieures à celles revenant à son groupe d’indemnité initial.
 
 Le changement de groupe d’indemnité dans le cadre du présent article ne peut se faire qu’une seule fois et dans les limites de l’article 3 de la loi fixant les conditions et modalités d’accès du fonctionnaire à un groupe de traitement supérieur au sien et de l’employé de l’Etat à un groupe d’indemnité supérieur au sien, et uniquement à l’intérieur de l’administration dont relève l’employé.
 

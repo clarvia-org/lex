@@ -72,11 +72,11 @@ Les propriétaires intéressés pourront exercer un recours contre les décision
 
 Pourront être incorporés dans une opération de remembrement sans autorisation préalable:
 
-1. les terrains appartenant au domaine privé de l'Etat et des communes;
+- les terrains appartenant au domaine privé de l'Etat et des communes;
 
-2. les terrains appartenant aux fabriques d'église;
+- les terrains appartenant aux fabriques d'église;
 
-3. les biens de cure.
+- les biens de cure.
 
 Ne peuvent être incorporés dans une opération de remembrement qu'en vertu d'une loi spéciale les terrains affectés à des buts militaires.
 
@@ -218,11 +218,11 @@ Il est dressé acte devant notaire des conventions conclues entre les propriéta
 
 A l'acte notarié visé par l'alinéa qui précède sont annexés:
 
-1. une expédition de l'arrêté ministériel et un extrait du plan cadastral, visés à l'article13;
+- une expédition de l'arrêté ministériel et un extrait du plan cadastral, visés à l'article13;
 
-2. un plan des propriétés remembrées indiquant le nouveau lotissement des terrains et leur classement;
+- un plan des propriétés remembrées indiquant le nouveau lotissement des terrains et leur classement;
 
-3. une copie de l'approbation de l'Office national du remembrement.
+- une copie de l'approbation de l'Office national du remembrement.
 
 Une expédition de l'acte est déposée à l'Office national du remembrement. Le notaire devant lequel est dressé l'acte est choisi par les propriétaires intéressés, à la majorité relative. En cas de partage des voix, la majorité relative des surfaces est déterminante.
 
@@ -243,9 +243,9 @@ La demande est à présenter par écrit à l'Office national du remembrement.
 
 L'enquête est faite par cet Office et comprend:
 
-1. une consultation des propriétaires et autres détenteurs de droits réels;
+- une consultation des propriétaires et autres détenteurs de droits réels;
 
-2. une délibération de l'assemblée générale de l'association syndicale de remembrement.
+- une délibération de l'assemblée générale de l'association syndicale de remembrement.
 
 <a id="art-16"></a>
 ## Art. 16.

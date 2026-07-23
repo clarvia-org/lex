@@ -381,15 +381,15 @@ La production standard totale correspondant aux parts détenues par le jeune agr
 
 Le plan d’entreprise de l’exploitation prévu à l’article 11 de la loi précitée du 27 juin 2016 comprend les éléments suivants:
 
-1. une description de la situation initiale de l’exploitation, indiquant la production standard totale de l’exploitation, la main-d’oeuvre travaillant sur l’exploitation, la formation du jeune agriculteur, l’orientation technico-économique de l’exploitation et la dimension de l’exploitation en ce qui concerne au moins la surface agricole utile et le cheptel mort et vif;
+- une description de la situation initiale de l’exploitation, indiquant la production standard totale de l’exploitation, la main-d’oeuvre travaillant sur l’exploitation, la formation du jeune agriculteur, l’orientation technico-économique de l’exploitation et la dimension de l’exploitation en ce qui concerne au moins la surface agricole utile et le cheptel mort et vif;
 
-2. une analyse des forces, faiblesses, opportunités et menaces de l’exploitation retraçant le contexte dans lequel se trouve l’exploitation;
+- une analyse des forces, faiblesses, opportunités et menaces de l’exploitation retraçant le contexte dans lequel se trouve l’exploitation;
 
-3. une description des objectifs à atteindre;
+- une description des objectifs à atteindre;
 
-4. une description des mesures à mettre en oeuvre en vue de réaliser ces objectifs; ces mesures comportent, le cas échéant, des projets d’investissement, des mesures de formation et de consultation, de services de conseil, au niveau technico-économique et environnemental;
+- une description des mesures à mettre en oeuvre en vue de réaliser ces objectifs; ces mesures comportent, le cas échéant, des projets d’investissement, des mesures de formation et de consultation, de services de conseil, au niveau technico-économique et environnemental;
 
-5. une description des étapes à franchir pour la réalisation du plan d’entreprise et un calcul économique indiquant l’effet prévisible des mesures d’investissement sur les résultats économiques.
+- une description des étapes à franchir pour la réalisation du plan d’entreprise et un calcul économique indiquant l’effet prévisible des mesures d’investissement sur les résultats économiques.
 
 <a id="art-17"></a>
 ## Art. 17.

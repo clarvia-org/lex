@@ -44,16 +44,16 @@ Le Ministre accorde les concessions, assorties des cahiers des charges, au nom d
 <a id="art-4"></a>
 ## Art. 4.
 
-1. Les concessions sont d'une durée limitée, mais elles peuvent être renouvelées au profit du même bénéficiaire. Les dispositions de la nouvelle concession et du cahier des charges peuvent être différentes de celles applicables antérieurement.
+- Les concessions sont d'une durée limitée, mais elles peuvent être renouvelées au profit du même bénéficiaire. Les dispositions de la nouvelle concession et du cahier des charges peuvent être différentes de celles applicables antérieurement.
 
-2. Une concession peut porter sur un ou plusieurs services .
+- Une concession peut porter sur un ou plusieurs services .
 
 <a id="art-5"></a>
 ## Art. 5.
 
-1. Les cahiers des charges assortis aux concessions seront conformes à l'article 21 de la loi .
+- Les cahiers des charges assortis aux concessions seront conformes à l'article 21 de la loi .
 
-2. Si la concession porte sur plusieurs services , le cahier des charges pourra comprendre des dispositions communes concernant tous les services et des dispositions particulières concernant chacun des services visés par la concession.
+- Si la concession porte sur plusieurs services , le cahier des charges pourra comprendre des dispositions communes concernant tous les services et des dispositions particulières concernant chacun des services visés par la concession.
 
 <a id="art-6"></a>
 ## Art. 6.

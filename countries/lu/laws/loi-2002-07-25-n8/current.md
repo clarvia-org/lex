@@ -34,25 +34,25 @@ L'Administration du cadastre et de la topographie est placée sous l'autorité d
 
 L’administration a les attributions suivantes:
 
-1. la publicité en matière de propriété et de copropriété foncières, sur la base de la documentation cadastrale, appelée documentation par la suite, et se composant des registres et des fichiers fonciers ainsi que du plan cadastral se présentant sous forme analogue, numérisée et numérique;
+- la publicité en matière de propriété et de copropriété foncières, sur la base de la documentation cadastrale, appelée documentation par la suite, et se composant des registres et des fichiers fonciers ainsi que du plan cadastral se présentant sous forme analogue, numérisée et numérique;
 
-2. la conservation, la mise à jour et la rénovation de cette documentation;
+- la conservation, la mise à jour et la rénovation de cette documentation;
 
-3. les travaux ayant trait aux limites d’Etat du Grand-Duché de Luxembourg, des cantons, des communes et des sections;
+- les travaux ayant trait aux limites d’Etat du Grand-Duché de Luxembourg, des cantons, des communes et des sections;
 
-4. sans préjudice des compétences conférées à tous les géomètres officiels, la délimitation et le bornage des limites de propriétés, l’établissement de plans de propriété à joindre aux actes et décisions judiciaires, translatifs, déclaratifs, constitutifs ou extinctifs de droits réels immobiliers et les travaux de remembrement urbain et rural lui confiés en vertu des dispositions légales et réglementaires. Toute opération de fixation de nouvelles limites de propriété immobilière, notamment par suite de division, de partage, de morcellement, de lotissement ou d’échange;
+- sans préjudice des compétences conférées à tous les géomètres officiels, la délimitation et le bornage des limites de propriétés, l’établissement de plans de propriété à joindre aux actes et décisions judiciaires, translatifs, déclaratifs, constitutifs ou extinctifs de droits réels immobiliers et les travaux de remembrement urbain et rural lui confiés en vertu des dispositions légales et réglementaires. Toute opération de fixation de nouvelles limites de propriété immobilière, notamment par suite de division, de partage, de morcellement, de lotissement ou d’échange;
 
-5. les travaux en matière d’aménagement du territoire en vertu des dispositions légales et réglementaires;
+- les travaux en matière d’aménagement du territoire en vertu des dispositions légales et réglementaires;
 
-6. la création, la gestion, la diffusion, la mise à jour et la conservation des bases de données foncières et topographiques nationales;
+- la création, la gestion, la diffusion, la mise à jour et la conservation des bases de données foncières et topographiques nationales;
 
-7. la création, la gestion, la diffusion et la mise à jour d’un registre national des localités et des rues, constitué de la dénomination des localités et des rues et de la numérotation des immeubles construits;
+- la création, la gestion, la diffusion et la mise à jour d’un registre national des localités et des rues, constitué de la dénomination des localités et des rues et de la numérotation des immeubles construits;
 
-8. l’établissement, la gestion, la tenue à jour et la diffusion de la documentation cartographique du territoire se présentant sous forme analogue ou digitale;
+- l’établissement, la gestion, la tenue à jour et la diffusion de la documentation cartographique du territoire se présentant sous forme analogue ou digitale;
 
-9. l’établissement, la densification et la conservation des réseaux géodésiques nationaux en planimétrie, en altimétrie et en gravimétrie;
+- l’établissement, la densification et la conservation des réseaux géodésiques nationaux en planimétrie, en altimétrie et en gravimétrie;
 
-10. l’organisation de la partie du stage professionnel à l’administration des géomètres officiels stagiaires.
+- l’organisation de la partie du stage professionnel à l’administration des géomètres officiels stagiaires.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -61,11 +61,11 @@ L’immatriculation et la description des immeubles aux nouveaux registres et pl
 
 La nouvelle mensuration du territoire d’une commune ou d’une partie de commune comprend:
 
-1. la mise en place d’un canevas de repères fixes rattachés au système géodésique national;
+- la mise en place d’un canevas de repères fixes rattachés au système géodésique national;
 
-2. la mensuration parcellaire et le levé des détails;
+- la mensuration parcellaire et le levé des détails;
 
-3. la confection des nouveaux plans cadastraux numériques.
+- la confection des nouveaux plans cadastraux numériques.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -155,21 +155,21 @@ L’exécution technique des mensurations réalisées par le géomètre officiel
 
 L’administration est seule autorisée:
 
-1. à délivrer des extraits et des copies de plans de mesurages ou de documents cadastraux;
+- à délivrer des extraits et des copies de plans de mesurages ou de documents cadastraux;
 
-2. à faire reproduire et à délivrer des cartes dont l’établissement et la tenue à jour lui sont confiés en vertu des dispositions légales et réglementaires ainsi que les clichés photographiques qui ont servi de base à leur établissement;
+- à faire reproduire et à délivrer des cartes dont l’établissement et la tenue à jour lui sont confiés en vertu des dispositions légales et réglementaires ainsi que les clichés photographiques qui ont servi de base à leur établissement;
 
-3. à délivrer les données planimétriques, altimétriques et gravimétriques des réseaux géodésiques nationaux;
+- à délivrer les données planimétriques, altimétriques et gravimétriques des réseaux géodésiques nationaux;
 
-4. à assurer la constitution, la gestion, la distribution et l’octroi de la concession de reproduction des bases de données numériques, issues de la documentation cadastrale et géographique dans le cadre de la banque de données nationale – système d’information du territoire.
+- à assurer la constitution, la gestion, la distribution et l’octroi de la concession de reproduction des bases de données numériques, issues de la documentation cadastrale et géographique dans le cadre de la banque de données nationale – système d’information du territoire.
 
 Les demandes sollicitant:
 
-1. la délivrance de données cadastrales, topographiques et cartographiques;
+- la délivrance de données cadastrales, topographiques et cartographiques;
 
-2. l’accès aux banques de données de l’administration;
+- l’accès aux banques de données de l’administration;
 
-3. les autres prestations de services; doivent être adressées par écrit au directeur de l’administration.
+- les autres prestations de services; doivent être adressées par écrit au directeur de l’administration.
 
 Les tarifs, conditions et modalités de délivrance ou d’accès à appliquer aux prestations et produits susvisés font l’objet d’un règlement grand-ducal.
 
@@ -192,27 +192,27 @@ L’administration comprend la direction, le département des services centraux,
 
 Le département des services centraux comprend:
 
-1. la division des services administratifs composée du service du personnel, du service de la gestion administrative, du service de la comptabilité, du service de la publicité foncière et géographique, du service des archives et du service du matériel et charroi;
+- la division des services administratifs composée du service du personnel, du service de la gestion administrative, du service de la comptabilité, du service de la publicité foncière et géographique, du service des archives et du service du matériel et charroi;
 
-2. la division des services techniques composée du service de la vérification et du contrôle, du service de l’informatique, du service photographique, du service des reproductions et du service des missions spéciales.
+- la division des services techniques composée du service de la vérification et du contrôle, du service de l’informatique, du service photographique, du service des reproductions et du service des missions spéciales.
 
 (5)
 
 Le département du cadastre comprend:
 
-1. la division de la conservation composée du service des documents cadastraux, du service de la copropriété bâtie, du service du registre national des localités et des rues et du service des mutations;
+- la division de la conservation composée du service des documents cadastraux, du service de la copropriété bâtie, du service du registre national des localités et des rues et du service des mutations;
 
-2. la division de la mensuration composée des bureaux régionaux et du service des «grands travaux»;
+- la division de la mensuration composée des bureaux régionaux et du service des «grands travaux»;
 
-3. la division de l’aménagement foncier composée du service du remembrement urbain et rural, du service de l’utilisation du sol et du service de la rénovation cadastrale.
+- la division de l’aménagement foncier composée du service du remembrement urbain et rural, du service de l’utilisation du sol et du service de la rénovation cadastrale.
 
 (6)
 
 Le département de la topographie comprend:
 
-1. la division de la documentation géographique composée du service de l’information du territoire et du service de la cartographie;
+- la division de la documentation géographique composée du service de l’information du territoire et du service de la cartographie;
 
-2. la division de la géodésie composée du service des réseaux géodésiques nationaux et du service des limites d’Etat.
+- la division de la géodésie composée du service des réseaux géodésiques nationaux et du service des limites d’Etat.
 
 (7)
 
@@ -242,9 +242,9 @@ Sans préjudice des conditions générales d’admission au service de l’Etat,
 
 Les fonctionnaires de la carrière supérieure de la filière de l’ingénieur ou de celle du chargé d’étudesinformaticien doivent être:
 
-1. détenteurs d’un certificat de fin d’études secondaires, luxembourgeois ou étranger reconnu équivalent suivant la réglementation luxembourgeoise en vigueur;
+- détenteurs d’un certificat de fin d’études secondaires, luxembourgeois ou étranger reconnu équivalent suivant la réglementation luxembourgeoise en vigueur;
 
-2. détenteurs d’un diplôme d’ingénieur portant notamment sur une des spécialités suivantes: géodésie, topographie, photogrammétrie, cartographie, géomatique ou informatique.
+- détenteurs d’un diplôme d’ingénieur portant notamment sur une des spécialités suivantes: géodésie, topographie, photogrammétrie, cartographie, géomatique ou informatique.
 
 Ce diplôme doit être délivré par une université ou un établissement d’enseignement supérieur à caractère universitaire après un cycle d’études sur place d’au moins quatre années et être inscrit au registre des diplômes prévu à l’article 1er de la loi du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur.
 

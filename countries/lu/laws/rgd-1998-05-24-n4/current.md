@@ -37,17 +37,17 @@ Le présent règlement fixe les conditions que devront remplir les eaux extraite
 
 Conditions de commercialisation d'eaux provenant de l'étranger
 
-1. Pour pouvoir être commercialisées au Luxembourg les eaux minérales naturelles extraites dans un pays tiers doivent faire l'objet d'une reconnaissance par le ministre ayant la Santé dans ses attributions ou par l’autorité responsable d’un État membre . Ces eaux ne peuvent faire l'objet d'une reconnaissance au Luxembourg que s'il a été certifié par l'autorité habilitée à cet effet dans le pays d'extraction qu'elles sont conformes à l'annexe I partie I et qu'il est procédé au contrôle permanent de l'application de l'annexe II paragraphe 1. La durée de validité de la certification visée au deuxième alinéa ne peut excéder une durée de cinq ans. Il n'y a pas lieu de procéder à une nouvelle reconnaissance si la certification a été renouvelée avant la fin de ladite période.
+- Pour pouvoir être commercialisées au Luxembourg les eaux minérales naturelles extraites dans un pays tiers doivent faire l'objet d'une reconnaissance par le ministre ayant la Santé dans ses attributions ou par l’autorité responsable d’un État membre . Ces eaux ne peuvent faire l'objet d'une reconnaissance au Luxembourg que s'il a été certifié par l'autorité habilitée à cet effet dans le pays d'extraction qu'elles sont conformes à l'annexe I partie I et qu'il est procédé au contrôle permanent de l'application de l'annexe II paragraphe 1. La durée de validité de la certification visée au deuxième alinéa ne peut excéder une durée de cinq ans. Il n'y a pas lieu de procéder à une nouvelle reconnaissance si la certification a été renouvelée avant la fin de ladite période.
 
-2. Pour pouvoir être commercialisées au Luxembourg les eaux minérales naturelles extraites dans un Etat membre de la Communauté Européenne doivent avoir fait l'objet d'une reconnaissance par l'autorité compétente de cet Etat ainsi que d'une publication officielle dans ce même Etat.
+- Pour pouvoir être commercialisées au Luxembourg les eaux minérales naturelles extraites dans un Etat membre de la Communauté Européenne doivent avoir fait l'objet d'une reconnaissance par l'autorité compétente de cet Etat ainsi que d'une publication officielle dans ce même Etat.
 
-3. Le présent règlement n'est pas applicable:
+- Le présent règlement n'est pas applicable:
 
-- aux eaux qui sont présentées comme des médicaments au sens de la loi modifiée du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des médicaments,
+  - aux eaux qui sont présentées comme des médicaments au sens de la loi modifiée du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des médicaments,
 
-- aux eaux minérales naturelles utilisées à des fins curatives à la source dans les établissements thermaux ou hydrominéraux.
+  - aux eaux minérales naturelles utilisées à des fins curatives à la source dans les établissements thermaux ou hydrominéraux.
 
-- aux eaux minérales naturelles destinées à être exportées vers les pays tiers.
+  - aux eaux minérales naturelles destinées à être exportées vers les pays tiers.
 
 <a id="art-3"></a>
 ## Art. 3. -
@@ -70,44 +70,44 @@ Les eaux extraites du sol sur le territoire du Grand-Duché de Luxembourg et rec
 
 Prescriptions concernant le traitement des eaux minérales naturelles
 
-1. Une eau minérale naturelle, telle qu'elle se présente à l'émergence, ne peut faire l'objet d'aucun traitement autre que:
+- Une eau minérale naturelle, telle qu'elle se présente à l'émergence, ne peut faire l'objet d'aucun traitement autre que:
 
-1. la séparation des éléments instables, tels que les composés du fer et du soufre, par filtration ou décantation, éventuellement précédée d'une oxygénation, dans la mesure où ce traitement ne modifie pas la composition de cette eau quant aux constituants essentiels qui lui confèrent ses propriétés,
+  - la séparation des éléments instables, tels que les composés du fer et du soufre, par filtration ou décantation, éventuellement précédée d'une oxygénation, dans la mesure où ce traitement ne modifie pas la composition de cette eau quant aux constituants essentiels qui lui confèrent ses propriétés,
 
-2. la séparation des composés du fer, du manganèse et du soufre, ainsi que de l'arsenic, de certaines eaux minérales naturelles à l'aide d'un traitement par l'air enrichi en ozone, dans la mesure où ce traitement ne modifie pas la composition de l'eau quant aux constituants essentiels qui lui confèrent ses propriétés,
+  - la séparation des composés du fer, du manganèse et du soufre, ainsi que de l'arsenic, de certaines eaux minérales naturelles à l'aide d'un traitement par l'air enrichi en ozone, dans la mesure où ce traitement ne modifie pas la composition de l'eau quant aux constituants essentiels qui lui confèrent ses propriétés,
 
-3. la séparation des constituants indésirables autres que ceux spécifiés au point a) ou b), dans la mesure où ce traitement ne modifie pas la composition de l'eau quant aux constituants essentiels qui lui confèrent ses propriétés, Les traitements énumérés sous b) et c) doivent d'une part être notifiés au ministre ayant la Santé dans ses attributions et faire l'objet d'un contrôle spécifique de la part de celui-ci, et d'autre part, satisfaire aux conditions d'utilisation à déterminer par la Commission conformément à l'article 12 du présent règlement,
+  - la séparation des constituants indésirables autres que ceux spécifiés au point a) ou b), dans la mesure où ce traitement ne modifie pas la composition de l'eau quant aux constituants essentiels qui lui confèrent ses propriétés, Les traitements énumérés sous b) et c) doivent d'une part être notifiés au ministre ayant la Santé dans ses attributions et faire l'objet d'un contrôle spécifique de la part de celui-ci, et d'autre part, satisfaire aux conditions d'utilisation à déterminer par la Commission conformément à l'article 12 du présent règlement,
 
-4. l'élimination totale ou partielle du gaz carbonique libre par des procédés exclusivement physiques.
+  - l'élimination totale ou partielle du gaz carbonique libre par des procédés exclusivement physiques.
 
-2. Une eau minérale naturelle, telle qu'elle se présente à l'émergence, ne peut faire l'objet d'aucune adjonction autre que l'incorporation ou la réincorporation de gaz carbonique dans les conditions prévues à l'annexe I point III.
+- Une eau minérale naturelle, telle qu'elle se présente à l'émergence, ne peut faire l'objet d'aucune adjonction autre que l'incorporation ou la réincorporation de gaz carbonique dans les conditions prévues à l'annexe I point III.
 
-3. En particulier, tout traitement de désinfection par quelque moyen que ce soit et, sous réserve du paragraphe 2, l'adjonction d'éléments bactériostatiques ou tout autre traitement de nature à modifier le microbisme de l'eau minérale naturelle sont interdits.
+- En particulier, tout traitement de désinfection par quelque moyen que ce soit et, sous réserve du paragraphe 2, l'adjonction d'éléments bactériostatiques ou tout autre traitement de nature à modifier le microbisme de l'eau minérale naturelle sont interdits.
 
-4. Le paragraphe 1 er ne fait pas obstacle à l'utilisation d'eaux minérales naturelles ou d'eaux de source pour la fabrication de boissons rafraîchissantes sans alcool.
+- Le paragraphe 1 er ne fait pas obstacle à l'utilisation d'eaux minérales naturelles ou d'eaux de source pour la fabrication de boissons rafraîchissantes sans alcool.
 
 <a id="art-6"></a>
 ## Art. 6.-
 
 Critères microbiologiques
 
-1. A l'émergence, la teneur totale en micro-organismes revivifiables d'une eau minérale naturelle doit être conforme à son microbisme normal et témoigner d'une protection efficace de la source contre toute contamination. Elle doit être déterminée dans les conditions prévues à l'annexe I partie II point 1.3.3. Après l'embouteillage, cette teneur ne peut dépasser 100 par millilitre à 20-22 degrés Celsius en 72 heures sur agar-agar ou mélange agar-gélatine et 20 par millilitre à 37 degrés Celsius en 24 heures sur agar-agar. Cette teneur doit être mesurée dans les 12 heures suivant l'embouteillage, l'eau étant maintenue à 4 degrés Celsius à environ 1 degré Celsius pendant cette période de 12 heures. A l'émergence, ces valeurs devraient normalement ne pas dépasser respectivement 20 par millilitre à 20-22 degrés Celsius en 72 heures et 5 par millilitre à 37 degrés Celsius en 24 heures, étant entendu que ces valeurs doivent être considérées comme des nombres guides et non comme des concentrations maximales.
+- A l'émergence, la teneur totale en micro-organismes revivifiables d'une eau minérale naturelle doit être conforme à son microbisme normal et témoigner d'une protection efficace de la source contre toute contamination. Elle doit être déterminée dans les conditions prévues à l'annexe I partie II point 1.3.3. Après l'embouteillage, cette teneur ne peut dépasser 100 par millilitre à 20-22 degrés Celsius en 72 heures sur agar-agar ou mélange agar-gélatine et 20 par millilitre à 37 degrés Celsius en 24 heures sur agar-agar. Cette teneur doit être mesurée dans les 12 heures suivant l'embouteillage, l'eau étant maintenue à 4 degrés Celsius à environ 1 degré Celsius pendant cette période de 12 heures. A l'émergence, ces valeurs devraient normalement ne pas dépasser respectivement 20 par millilitre à 20-22 degrés Celsius en 72 heures et 5 par millilitre à 37 degrés Celsius en 24 heures, étant entendu que ces valeurs doivent être considérées comme des nombres guides et non comme des concentrations maximales.
 
-2. A l'émergence et au cours de sa commercialisation, une eau minérale naturelle doit être exempte:
+- A l'émergence et au cours de sa commercialisation, une eau minérale naturelle doit être exempte:
 
-1. de parasites et micro-organismes pathogènes;
+  - de parasites et micro-organismes pathogènes;
 
-2. d'Eschérichia coli et d'autres coliformes et de streptocoques fécaux, dans 250 millilitres de l'échantillon examiné;
+  - d'Eschérichia coli et d'autres coliformes et de streptocoques fécaux, dans 250 millilitres de l'échantillon examiné;
 
-3. d'anaérobies sporulés sulfito-réducteurs, dans 50 millilitres de l'échantillon examiné;
+  - d'anaérobies sporulés sulfito-réducteurs, dans 50 millilitres de l'échantillon examiné;
 
-4. de Pseudomonas aeruginosa, dans 250 millilitres de l'échantillon examiné.
+  - de Pseudomonas aeruginosa, dans 250 millilitres de l'échantillon examiné.
 
-3. Sans préjudice des paragraphes 1 et 2 ainsi que des conditions d'exploitation prévues à l'annexe II, au stade de la commercialisation:
+- Sans préjudice des paragraphes 1 et 2 ainsi que des conditions d'exploitation prévues à l'annexe II, au stade de la commercialisation:
 
-- la teneur totale en micro-organismes revivifiables de l'eau minérale ne peut résulter que de l'évolution normale de sa teneur en germes à l'émergence,
+  - la teneur totale en micro-organismes revivifiables de l'eau minérale ne peut résulter que de l'évolution normale de sa teneur en germes à l'émergence,
 
-- l'eau minérale naturelle ne peut présenter aucun défaut du point de vue organoleptique.
+  - l'eau minérale naturelle ne peut présenter aucun défaut du point de vue organoleptique.
 
 <a id="art-7"></a>
 ## Art. 7. -
@@ -123,55 +123,55 @@ Les récipients et les emballages contenant des eaux minérales naturelles ne do
 
 Etiquetage
 
-1. La dénomination de vente des eaux minérales naturelles est "eau minérale naturelle" ou, s'il s'agit d'une eau minérale naturelle effervescente définie à l'annexe I partie III, selon le cas, "eau minérale naturellement gazeuse", "eau minérale naturelle renforcée au gaz de la source", "eau minérale naturelle avec adjonction de gaz carbonique. La dénomination de vente des eaux minérales naturelles ayant subi un traitement visé à l'article 5 paragraphe 1 sous b) est, selon le cas, complétée par les mentions "totalement dégazéifiée" ou "partiellement dégazéifiée".
+- La dénomination de vente des eaux minérales naturelles est "eau minérale naturelle" ou, s'il s'agit d'une eau minérale naturelle effervescente définie à l'annexe I partie III, selon le cas, "eau minérale naturellement gazeuse", "eau minérale naturelle renforcée au gaz de la source", "eau minérale naturelle avec adjonction de gaz carbonique. La dénomination de vente des eaux minérales naturelles ayant subi un traitement visé à l'article 5 paragraphe 1 sous b) est, selon le cas, complétée par les mentions "totalement dégazéifiée" ou "partiellement dégazéifiée".
 
-2. sans préjudice des dispositions du règlement grand-ducal du 16 avril 1992 concernant l'étiquetage et la présentation des denrées alimentaires ainsi que la publicité faite à leur égard, l'étiquetage des eaux minérales naturelles doit comporter également les renseignements obligatoires suivants:
+- sans préjudice des dispositions du règlement grand-ducal du 16 avril 1992 concernant l'étiquetage et la présentation des denrées alimentaires ainsi que la publicité faite à leur égard, l'étiquetage des eaux minérales naturelles doit comporter également les renseignements obligatoires suivants:
 
-1. la mention de la composition analytique, précisant les constituants caractéristiques;
+  - la mention de la composition analytique, précisant les constituants caractéristiques;
 
-2. le lieu où est exploitée la source et le nom de celle-ci;
+  - le lieu où est exploitée la source et le nom de celle-ci;
 
-3. l'indication des traitements éventuels visés à l'article 5 paragraphe 1 points b) et c).
+  - l'indication des traitements éventuels visés à l'article 5 paragraphe 1 points b) et c).
 
 <a id="art-9"></a>
 ## Art. 9. -
 
 Désignations commerciales
 
-1. Un nom de localité, de hameau ou de lieu-dit peut entrer dans le libellé d'une désignation commerciale à condition de se rapporter à une eau minérale naturelle dont la source est exploitée à l'endroit indiqué par cette désignation commerciale et à condition que cela n'induise pas en erreur sur le lieu d'exploitation de la source.
+- Un nom de localité, de hameau ou de lieu-dit peut entrer dans le libellé d'une désignation commerciale à condition de se rapporter à une eau minérale naturelle dont la source est exploitée à l'endroit indiqué par cette désignation commerciale et à condition que cela n'induise pas en erreur sur le lieu d'exploitation de la source.
 
-2. La commercialisation sous plusieurs désignations commerciales d'une eau minérale naturelle provenant d'une même source est interdite.
+- La commercialisation sous plusieurs désignations commerciales d'une eau minérale naturelle provenant d'une même source est interdite.
 
-3. Lorsque les étiquettes ou inscriptions apposées sur les récipients dans lesquels les eaux minérales naturelles sont offertes à la vente comportent l'indication d'une désignation commerciale qui diffère du nom de la source ou du lieu de son exploitation, l'indication de ce lieu ou le nom de la source doit être porté en caractères dont la hauteur et la largeur sont au moins égales à une fois et demi celles du plus grand des caractères utilisés pour l'indication de cette désignation commerciale. Le premier alinéa est applicable mutatis mutandis et dans le même esprit en ce qui concerne l'importance donnée au nom de la source ou au lieu de son exploitation, par rapport à l'indication de la désignation commerciale dans la publicité, sous quelque forme que ce soit, relative aux eaux minérales naturelles.
+- Lorsque les étiquettes ou inscriptions apposées sur les récipients dans lesquels les eaux minérales naturelles sont offertes à la vente comportent l'indication d'une désignation commerciale qui diffère du nom de la source ou du lieu de son exploitation, l'indication de ce lieu ou le nom de la source doit être porté en caractères dont la hauteur et la largeur sont au moins égales à une fois et demi celles du plus grand des caractères utilisés pour l'indication de cette désignation commerciale. Le premier alinéa est applicable mutatis mutandis et dans le même esprit en ce qui concerne l'importance donnée au nom de la source ou au lieu de son exploitation, par rapport à l'indication de la désignation commerciale dans la publicité, sous quelque forme que ce soit, relative aux eaux minérales naturelles.
 
 <a id="art-10"></a>
 ## Art. 10. -
 
 Tromperie et référence à la santé
 
-1. Est interdite, tant sur les emballages ou étiquettes que dans la publicité sous quelque forme que ce soit, l'utilisation d'indications, de dénominations, de marques de fabrique ou de commerce, d'images ou autres signes figuratifs ou non qui:
+- Est interdite, tant sur les emballages ou étiquettes que dans la publicité sous quelque forme que ce soit, l'utilisation d'indications, de dénominations, de marques de fabrique ou de commerce, d'images ou autres signes figuratifs ou non qui:
 
-1. concernant une eau minérale naturelle, suggèrent une caractéristique que celle-ci ne possède pas, en ce qui concerne notamment l'origine, la date de l'autorisation d'exploiter, les résultats des analyses ou toutes références analogues aux garanties d'authenticité;
+  - concernant une eau minérale naturelle, suggèrent une caractéristique que celle-ci ne possède pas, en ce qui concerne notamment l'origine, la date de l'autorisation d'exploiter, les résultats des analyses ou toutes références analogues aux garanties d'authenticité;
 
-2. concernant une eau potable conditionnée ne répondant pas aux dispositions de l'annexe I, sont susceptibles de créer une confusion avec une eau minérale naturelle, et notamment la mention "eau minérale".
+  - concernant une eau potable conditionnée ne répondant pas aux dispositions de l'annexe I, sont susceptibles de créer une confusion avec une eau minérale naturelle, et notamment la mention "eau minérale".
 
-2.
+-
 
-1. Sont interdites toutes les indications attribuant à une eau minérale naturelle des propriétés de prévention, de traitement ou de guérison d'une maladie humaine.
+  - Sont interdites toutes les indications attribuant à une eau minérale naturelle des propriétés de prévention, de traitement ou de guérison d'une maladie humaine.
 
-2. Sont cependant autorisées les mentions figurant à l'annexe III, pour autant que soient respectés les correspondants qui y sont fixés ou, en leur absence, les critères fixés par le ministre ayant la Santé dans ses attributions , sur base des analyses physico-chimiques et, si nécessaire, des examens pharmacologiques, physiologiques et cliniques opérés selon des méthodes scientifiquement reconnues, en conformité avec l'annexe I partie I paragraphe 2.
+  - Sont cependant autorisées les mentions figurant à l'annexe III, pour autant que soient respectés les correspondants qui y sont fixés ou, en leur absence, les critères fixés par le ministre ayant la Santé dans ses attributions , sur base des analyses physico-chimiques et, si nécessaire, des examens pharmacologiques, physiologiques et cliniques opérés selon des méthodes scientifiquement reconnues, en conformité avec l'annexe I partie I paragraphe 2.
 
-3. Le ministre ayant la Santé dans ses attributions peut autoriser d'autres mentions pour autant qu'elles ne soient pas en contradiction avec les principes énoncés sous a) et qu'elles soient compatibles avec les principes énoncés sous b).
+  - Le ministre ayant la Santé dans ses attributions peut autoriser d'autres mentions pour autant qu'elles ne soient pas en contradiction avec les principes énoncés sous a) et qu'elles soient compatibles avec les principes énoncés sous b).
 
-4. Sans préjudice du règlement grand-ducal modifié du 7 octobre 2002 relatif à la qualité des eaux destinées à la consommation humaine, la mention « convient pour la préparation des aliments des nourrissons » est autorisée dans l’étiquetage et la publicité des eaux minérales naturelles et des eaux de source autant que soient respectés les critères visés à l’article 10, paragraphe 2, lettre b).
+  - Sans préjudice du règlement grand-ducal modifié du 7 octobre 2002 relatif à la qualité des eaux destinées à la consommation humaine, la mention « convient pour la préparation des aliments des nourrissons » est autorisée dans l’étiquetage et la publicité des eaux minérales naturelles et des eaux de source autant que soient respectés les critères visés à l’article 10, paragraphe 2, lettre b).
 
-3. Les termes «eau de source» sont réservés à une eau destinée à la consommation humaine dans son état naturel et mise en bouteille à la source, qui: En outre, les eaux de source doivent satisfaire aux dispositions du règlement grand-ducal du 7 octobre 2002 relatif à la qualité des eaux destinées à la consommation humaine.
+- Les termes «eau de source» sont réservés à une eau destinée à la consommation humaine dans son état naturel et mise en bouteille à la source, qui: En outre, les eaux de source doivent satisfaire aux dispositions du règlement grand-ducal du 7 octobre 2002 relatif à la qualité des eaux destinées à la consommation humaine.
 
-- satisfait aux conditions d'exploitation indiquées à l'annexe II points 1 et 2, qui sont entièrement applicables aux eaux de source,
+  - satisfait aux conditions d'exploitation indiquées à l'annexe II points 1 et 2, qui sont entièrement applicables aux eaux de source,
 
-- satisfait aux exigences en matière d'étiquetage indiquées à l'article 8 paragraphe 2 points b) et c) et à l'article 9,
+  - satisfait aux exigences en matière d'étiquetage indiquées à l'article 8 paragraphe 2 points b) et c) et à l'article 9,
 
-- n'a pas subi de traitement autre que ceux visés à l'article 5.
+  - n'a pas subi de traitement autre que ceux visés à l'article 5.
 
 <a id="art-11"></a>
 ## Art. 11. -

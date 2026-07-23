@@ -32,23 +32,23 @@ Définitions
 
 Aux fins du présent règlement, on entend par :
 
-1. « service agréé » : tout service de formation, d’emploi ou d’activité de jour pour personnes en situation de handicap ainsi que tout centre psycho-gériatrique pour personnes âgées agréés conformément à l’article 1er, alinéa 2, de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique, ci-après appelée « loi ASFT » ; « service agréé » :
+- « service agréé » : tout service de formation, d’emploi ou d’activité de jour pour personnes en situation de handicap ainsi que tout centre psycho-gériatrique pour personnes âgées agréés conformément à l’article 1er, alinéa 2, de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique, ci-après appelée « loi ASFT » ; « service agréé » :
 
-1. tout service de formation, d’emploi ou d’activité de jour pour personnes en situation de handicap ainsi que tout centre psycho-gériatrique pour personnes âgées agréés conformément à l’article 1 er , alinéa 2, de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique, ci-après appelée « loi ASFT » ;
+  - tout service de formation, d’emploi ou d’activité de jour pour personnes en situation de handicap ainsi que tout centre psycho-gériatrique pour personnes âgées agréés conformément à l’article 1 er , alinéa 2, de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique, ci-après appelée « loi ASFT » ;
 
-2. tout service comparable à ceux énumérés à la lettre a) agréé par une autorité compétente d’un État membre de l’Union européenne.
+  - tout service comparable à ceux énumérés à la lettre a) agréé par une autorité compétente d’un État membre de l’Union européenne.
 
-2. « ministre » : le ministre ayant la Politique pour personnes handicapées et la Famille dans ses attributions ;
+- « ministre » : le ministre ayant la Politique pour personnes handicapées et la Famille dans ses attributions ;
 
-3. « la personne majeure en situation de handicap » : toute personne en situation de handicap, âgée d’au moins dix-huit ans, cliente d’un service agréé ;
+- « la personne majeure en situation de handicap » : toute personne en situation de handicap, âgée d’au moins dix-huit ans, cliente d’un service agréé ;
 
-4. « personne âgée » : toute personne âgée faisant l’objet d’une perte d’autonomie d’une particulière gravité, cliente d’un service agréé ;
+- « personne âgée » : toute personne âgée faisant l’objet d’une perte d’autonomie d’une particulière gravité, cliente d’un service agréé ;
 
-5. « salarié » : toute personne engagée par un employeur du secteur privé dont les relations de travail sont régies par le statut de salarié tel qu’il résulte du livre premier, titre II du Code du travail ;
+- « salarié » : toute personne engagée par un employeur du secteur privé dont les relations de travail sont régies par le statut de salarié tel qu’il résulte du livre premier, titre II du Code du travail ;
 
-6. « travailleur indépendant » : toute personne qui exerce au Grand-Duché de Luxembourg pour son propre compte une activité professionnelle ressortissant de la chambre des métiers, de la chambre de commerce ou de la chambre d’agriculture ou une activité professionnelle ayant un caractère principalement intellectuel et non commercial ;
+- « travailleur indépendant » : toute personne qui exerce au Grand-Duché de Luxembourg pour son propre compte une activité professionnelle ressortissant de la chambre des métiers, de la chambre de commerce ou de la chambre d’agriculture ou une activité professionnelle ayant un caractère principalement intellectuel et non commercial ;
 
-7. « congé pour soutien familial » : un congé rémunéré pouvant être attribué à un salarié ou à un travailleur indépendant qui s’occupe d’une personne handicapée ou âgée dans le cadre de la lutte contre le Covid-19 suite à la fermeture temporaire d’un service agréé.
+- « congé pour soutien familial » : un congé rémunéré pouvant être attribué à un salarié ou à un travailleur indépendant qui s’occupe d’une personne handicapée ou âgée dans le cadre de la lutte contre le Covid-19 suite à la fermeture temporaire d’un service agréé.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -61,11 +61,11 @@ Peut prétendre au congé pour soutien familial, le salarié ou le travailleur i
 
 Peut prétendre au congé pour soutien familial, le salarié ou le travailleur indépendant lorsque les conditions cumulatives suivantes sont remplies :
 
-1. le service agréé a notifié au ministre l’arrêt de ses activités ou d’une partie de ses activités dans le contexte de l’état de crise ; le service agréé a procédé à l’arrêt de ses activités ou d’une partie de ses activités dans le contexte de l’état de crise ;
+- le service agréé a notifié au ministre l’arrêt de ses activités ou d’une partie de ses activités dans le contexte de l’état de crise ; le service agréé a procédé à l’arrêt de ses activités ou d’une partie de ses activités dans le contexte de l’état de crise ;
 
-2. le salarié ou le travailleur indépendant s’occupe à domicile de la personne majeure en situation de handicap ou de la personne âgée avec laquelle il réside. ;
+- le salarié ou le travailleur indépendant s’occupe à domicile de la personne majeure en situation de handicap ou de la personne âgée avec laquelle il réside. ;
 
-3. ni le salarié ou le travailleur demandeur, ni un autre membre du ménage en question ne tombe sous le régime du chômage partiel prévu aux articles L. 511-1 et suivants du Code du travail pendant la période pour laquelle le congé est sollicité et aucun autre moyen de garde n’est disponible. ni le salarié, ni le travailleur indépendant, ni un autre membre du ménage en question ne tombe sous le régime du chômage partiel prévu aux articles L. 511-1 et suivants du Code du travail pendant la période pour laquelle le congé est sollicité et aucun autre moyen de garde n’est disponible.
+- ni le salarié ou le travailleur demandeur, ni un autre membre du ménage en question ne tombe sous le régime du chômage partiel prévu aux articles L. 511-1 et suivants du Code du travail pendant la période pour laquelle le congé est sollicité et aucun autre moyen de garde n’est disponible. ni le salarié, ni le travailleur indépendant, ni un autre membre du ménage en question ne tombe sous le régime du chômage partiel prévu aux articles L. 511-1 et suivants du Code du travail pendant la période pour laquelle le congé est sollicité et aucun autre moyen de garde n’est disponible.
 
 (2)
 

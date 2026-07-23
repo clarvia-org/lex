@@ -24,6 +24,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 25/12/2021 : Règlement grand-ducal du 6 novembre 2009 fixant l'organisation de l'administration des contributions directes.
 
+1. Direction
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
@@ -32,7 +34,7 @@ L’administration des contributions directes est placée sous les ordres du dir
 <a id="art-2"></a>
 ## Art. 2.
 
-La direction de l'administration des contributions directes comprend les divisions suivantes: 1. juridique, 2. économique, 3. législation, 4. contentieux, 5. gracieux, 6. relations internationales, 7. révisions, 8. retenue d'impôt sur les rémunérations, 9. évaluations immobilières, 10. inspection et organisation du service d'imposition, 11. inspection et organisation du service de recette, 12. affaires générales, 13. informatique, 14. échange de renseignements et retenue d'impôt sur les intérêts, 15. secrétariat de direction.
+La direction de l'administration des contributions directes comprend les divisions suivantes: 1. juridique, 2. économique, 3. législation, 4. contentieux, 5. gracieux, 6. relations internationales, 7. révisions, 8. retenue d'impôt sur les rémunérations, 9. évaluations immobilières, 10. inspection et organisation du service d'imposition, 11. inspection et organisation du service de recette, 12. affaires générales, 13. informatique, 14. échange de renseignements et retenue d'impôt sur les intérêts , 15. secrétariat de direction.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -51,6 +53,8 @@ En cas de vacance d’un poste de chef de division ou de chef de division adjoin
 ## Art. 4.
 
 Le directeur peut déléguer celles de ses attributions, pour lesquelles une délégation n’est pas prévue par une loi, aux fonctionnaires ou employés de l’État qui font partie de droit de la direction.
+
+2. Service d’imposition
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -111,10 +115,14 @@ La section des évaluations immobilières est constituée par un bureau dont le 
 
 La section de la retenue d'impôt sur les intérêts est constituée par un bureau dont le siège est à Luxembourg. Ce bureau est placé sous l'autorité immédiate du chef de la division échange de renseignements et retenue d'impôt sur les intérêts.
 
+3. Service de révision
+
 <a id="art-10"></a>
 ## Art. 10.
 
 Le service de révision, dont le siège est à Luxembourg, est composé de fonctionnaires de la catégorie A avec les groupes de traitement A1 et A2, de la catégorie B avec le groupe de traitement B1 et d’employés de l’État.
+
+4. Service de recette
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -134,6 +142,8 @@ La gestion des bureaux de recette est confiée à des inspecteurs principaux pre
 (4)
 
 Les préposés des bureaux de recette peuvent être assistés pour la gestion de leur bureau d’un ou de plusieurs préposés adjoints dont les attributions sont fixées par le directeur.
+
+5. Dispositions finales
 
 <a id="art-12"></a>
 ## Art. 12.

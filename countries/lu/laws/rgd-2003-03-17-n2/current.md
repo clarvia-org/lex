@@ -38,53 +38,53 @@ Définitions
 
 Aux fins du présent règlement, on entend par:
 
-1. «véhicule»: tout véhicule des catégories M1 ou N1 définies à l’annexe II, partie A, de la directive modifiée 70/156/CEE ainsi que les véhicules à deux ou trois roues définis dans la directive 2002/24/CE;
+- «véhicule»: tout véhicule des catégories M1 ou N1 définies à l’annexe II, partie A, de la directive modifiée 70/156/CEE ainsi que les véhicules à deux ou trois roues définis dans la directive 2002/24/CE;
 
-2. «véhicule hors d’usage»: un véhicule qui constitue un déchet au sens de l’article 3, point a), de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets, dénommée ci-après «la loi modifiée du 17 juin 1994 »;
+- «véhicule hors d’usage»: un véhicule qui constitue un déchet au sens de l’article 3, point a), de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets, dénommée ci-après «la loi modifiée du 17 juin 1994 »;
 
-3. «producteur»: le constructeur d’un véhicule ou l’importateur professionnel d’un véhicule au Luxembourg;
+- «producteur»: le constructeur d’un véhicule ou l’importateur professionnel d’un véhicule au Luxembourg;
 
-4. «prévention»: les mesures visant à la réduction de la quantité et de la nocivité pour l’environnement des véhicules hors d’usage, de leurs matériaux et de leurs substances;
+- «prévention»: les mesures visant à la réduction de la quantité et de la nocivité pour l’environnement des véhicules hors d’usage, de leurs matériaux et de leurs substances;
 
-5. «traitement»: toute activité intervenant après que le véhicule hors d’usage a été remis à une installation de dépollution, de démontage, de découpage, de broyage, de valorisation ou de préparation à l’élimination des déchets broyés ainsi que toute autre opération effectuée en vue de la valorisation et/ou de l’élimination du véhicule hors d’usage et de ses composants;
+- «traitement»: toute activité intervenant après que le véhicule hors d’usage a été remis à une installation de dépollution, de démontage, de découpage, de broyage, de valorisation ou de préparation à l’élimination des déchets broyés ainsi que toute autre opération effectuée en vue de la valorisation et/ou de l’élimination du véhicule hors d’usage et de ses composants;
 
-6. «réutilisation»: toute opération par laquelle les composants de véhicules hors d’usage servent au même usage que celui pour lequel ils ont été conçus;
+- «réutilisation»: toute opération par laquelle les composants de véhicules hors d’usage servent au même usage que celui pour lequel ils ont été conçus;
 
-7. «recyclage»: le retraitement, dans un processus de production, des déchets, soit en vue de la même utilisation que celle d’origine, soit à d’autres fins, mais à l’exclusion de la valorisation énergétique; par «valorisation énergétique», on entend l’utilisation de déchets combustibles en tant que moyen de production d’énergie, par incinération directe avec ou sans autres déchets, mais avec récupération de la chaleur;
+- «recyclage»: le retraitement, dans un processus de production, des déchets, soit en vue de la même utilisation que celle d’origine, soit à d’autres fins, mais à l’exclusion de la valorisation énergétique; par «valorisation énergétique», on entend l’utilisation de déchets combustibles en tant que moyen de production d’énergie, par incinération directe avec ou sans autres déchets, mais avec récupération de la chaleur;
 
-8. «valorisation»: toute opération énumérée à l’annexe III de la loi modifiée du 17 juin 1994 ;
+- «valorisation»: toute opération énumérée à l’annexe III de la loi modifiée du 17 juin 1994 ;
 
-9. «élimination»: toute opération énumérée à l’annexe II de la loi modifiée du 17 juin 1994 ;
+- «élimination»: toute opération énumérée à l’annexe II de la loi modifiée du 17 juin 1994 ;
 
-10. «opérateurs économiques»: les producteurs, les distributeurs, les collecteurs, les compagnies d’assurances automobiles, les démonteurs, les broyeurs, les récupérateurs, les recycleurs de véhicules et les autres intervenants dans le traitement des véhicules hors d’usage, y compris celui de leurs composants et matériaux;
+- «opérateurs économiques»: les producteurs, les distributeurs, les collecteurs, les compagnies d’assurances automobiles, les démonteurs, les broyeurs, les récupérateurs, les recycleurs de véhicules et les autres intervenants dans le traitement des véhicules hors d’usage, y compris celui de leurs composants et matériaux;
 
 (Règl. g.-d. du 3 décembre 2010)
 
-1. «substance dangereuse»: toute substance qui répond aux critères des classes ou catégories de danger suivantes, visées à l’annexe I du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges:
+- «substance dangereuse»: toute substance qui répond aux critères des classes ou catégories de danger suivantes, visées à l’annexe I du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges:
 
-1. les classes de danger 2.1 à 2.4, 2.6 et 2.7, 2.8 types A et B, 2.9, 2.10, 2.12, 2.13 catégories 1 et 2, 2.14 catégories 1 et 2, 2.15 types A à F;
+  - les classes de danger 2.1 à 2.4, 2.6 et 2.7, 2.8 types A et B, 2.9, 2.10, 2.12, 2.13 catégories 1 et 2, 2.14 catégories 1 et 2, 2.15 types A à F;
 
-2. les classes de danger 3.1 à 3.6, 3.7 effets néfastes sur la fonction sexuelle et la fertilité ou sur le développement, 3.8 effets autres que des effets narcotiques, 3.9 et 3.10;
+  - les classes de danger 3.1 à 3.6, 3.7 effets néfastes sur la fonction sexuelle et la fertilité ou sur le développement, 3.8 effets autres que des effets narcotiques, 3.9 et 3.10;
 
-3. la classe de danger 4.1;
+  - la classe de danger 4.1;
 
-4. la classe de danger 5.1.»;
+  - la classe de danger 5.1.»;
 
-2. «broyeur»: tout dispositif utilisé pour couper en morceaux ou fragmenter les véhicules hors d’usage, y compris en vue d’obtenir des ferrailles directement réutilisables;
+- «broyeur»: tout dispositif utilisé pour couper en morceaux ou fragmenter les véhicules hors d’usage, y compris en vue d’obtenir des ferrailles directement réutilisables;
 
-3. «dépollution»: la collecte sélective de tous les liquides, composants polluants, nocifs ou dangereux, tels que les batteries, filtres airbags (parties pyrotechniques) catalyseurs, en vue de leur traitement;
+- «dépollution»: la collecte sélective de tous les liquides, composants polluants, nocifs ou dangereux, tels que les batteries, filtres airbags (parties pyrotechniques) catalyseurs, en vue de leur traitement;
 
-4. «point de reprise»: un établissement ou une entreprise qui est autorisé(e) à reprendre les véhicules hors d’usage en vue de leur acheminement vers une installation de traitement et qui est habilité(e) à délivrer un certificat de destruction;
+- «point de reprise»: un établissement ou une entreprise qui est autorisé(e) à reprendre les véhicules hors d’usage en vue de leur acheminement vers une installation de traitement et qui est habilité(e) à délivrer un certificat de destruction;
 
-5. «installation de traitement»: un établissement ou une entreprise qui est autorisé(e) à traiter les véhicules hors d’usage et qui est habilité(e) à délivrer un certificat de destruction;
+- «installation de traitement»: un établissement ou une entreprise qui est autorisé(e) à traiter les véhicules hors d’usage et qui est habilité(e) à délivrer un certificat de destruction;
 
-6. «information concernant le démontage»: toutes les informations requises pour permettre le traitement approprié et compatible avec l’environnement des véhicules hors d’usage. Ces informations sont mises à la disposition des installations de traitement autorisées par les constructeurs de véhicules et par les producteurs de composants sous forme de manuels ou par le canal des médias électroniques;
+- «information concernant le démontage»: toutes les informations requises pour permettre le traitement approprié et compatible avec l’environnement des véhicules hors d’usage. Ces informations sont mises à la disposition des installations de traitement autorisées par les constructeurs de véhicules et par les producteurs de composants sous forme de manuels ou par le canal des médias électroniques;
 
-7. «accord environnemental»: tout accord formel entre le Ministre et les secteurs économiques concernés qui doit être ouvert à tous les opérateurs économiques souhaitant se conformer aux conditions fixées par l’accord afin de contribuer à la réalisation des objectifs dont question à l’article 1 er ;
+- «accord environnemental»: tout accord formel entre le Ministre et les secteurs économiques concernés qui doit être ouvert à tous les opérateurs économiques souhaitant se conformer aux conditions fixées par l’accord afin de contribuer à la réalisation des objectifs dont question à l’article 1 er ;
 
-8. «administration»: l’Administration de l’Environnement;
+- «administration»: l’Administration de l’Environnement;
 
-9. «Ministre»: le membre du Gouvernement ayant l’environnement dans ses attributions.
+- «Ministre»: le membre du Gouvernement ayant l’environnement dans ses attributions.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -131,11 +131,11 @@ Prévention
 
 Afin de promouvoir la prévention des déchets, des accords environnementaux encouragent en particulier:»
 
-1. les constructeurs de véhicules, en liaison avec les fabricants de matériaux et d’équipements, à limiter l’utilisation de substances dangereuses dans les véhicules et à la réduire autant que possible dès la conception des véhicules, en particulier afin de prévenir le rejet de ces substances dans l’environnement, de faciliter le recyclage et d’éviter d’avoir à éliminer des déchets dangereux;
+- les constructeurs de véhicules, en liaison avec les fabricants de matériaux et d’équipements, à limiter l’utilisation de substances dangereuses dans les véhicules et à la réduire autant que possible dès la conception des véhicules, en particulier afin de prévenir le rejet de ces substances dans l’environnement, de faciliter le recyclage et d’éviter d’avoir à éliminer des déchets dangereux;
 
-2. la conception et la construction de nouveaux véhicules qui prennent pleinement en considération et facilitent le démontage, la réutilisation et la valorisation, en particulier le recyclage, des véhicules hors d’usage, de leurs composants et matériaux;
+- la conception et la construction de nouveaux véhicules qui prennent pleinement en considération et facilitent le démontage, la réutilisation et la valorisation, en particulier le recyclage, des véhicules hors d’usage, de leurs composants et matériaux;
 
-3. les constructeurs de véhicules, en liaison avec les fabricants de matériaux et d’équipements, à intégrer une part croissante de matériaux recyclés dans les véhicules et autres produits afin de développer les marchés des matériaux recyclés.
+- les constructeurs de véhicules, en liaison avec les fabricants de matériaux et d’équipements, à intégrer une part croissante de matériaux recyclés dans les véhicules et autres produits afin de développer les marchés des matériaux recyclés.
 
 2.
 
@@ -201,11 +201,11 @@ Stockage et traitement
 
 Sans préjudice d’autres dispositions en matière de santé et d’environnement, ces établissements ou entreprises doivent se conformer aux exigences de la loi modifiée du 17 juin 1994 et satisfaire aux obligations suivantes, conformément à l’annexe I:»
 
-1. les véhicules hors d’usage sont démontés avant tout autre traitement, ou des dispositions équivalentes sont prises afin de réduire toute incidence négative sur l’environnement. Les composants ou matériaux visés à l’annexe II qui sont étiquetés ou rendus identifiables par d’autres moyens appropriés sont également retirés avant tout autre traitement;
+- les véhicules hors d’usage sont démontés avant tout autre traitement, ou des dispositions équivalentes sont prises afin de réduire toute incidence négative sur l’environnement. Les composants ou matériaux visés à l’annexe II qui sont étiquetés ou rendus identifiables par d’autres moyens appropriés sont également retirés avant tout autre traitement;
 
-2. les matériaux et composants dangereux sont retirés et isolés de manière sélective afin qu’ils ne contaminent pas les déchets broyés ultérieurement des véhicules hors d’usage;
+- les matériaux et composants dangereux sont retirés et isolés de manière sélective afin qu’ils ne contaminent pas les déchets broyés ultérieurement des véhicules hors d’usage;
 
-3. les opérations de démontage et de stockage sont effectuées de manière à garantir que les composants pourront être réutilisés et valorisés, et en particulier recyclés.
+- les opérations de démontage et de stockage sont effectuées de manière à garantir que les composants pourront être réutilisés et valorisés, et en particulier recyclés.
 
 Le traitement en vue de la dépollution des véhicules hors d’usage visé à l’annexe I, point 3, est effectué dans les meilleurs délais.
 
@@ -228,9 +228,9 @@ Le Ministre, l’administration et les secteurs économiques concernés prennent
 
 Les objectifs suivants doivent être atteints par les opérateurs économiques:
 
-1. au plus tard le 1 er janvier 2006, pour tous les véhicules hors d’usage, le taux de réutilisation et de valorisation est porté à un minimum de 85% en poids moyen par véhicule et par an. Dans le même délai, le taux de réutilisation et de recyclage est porté à un minimum de 80% en poids moyen par véhicule et par an;
+- au plus tard le 1 er janvier 2006, pour tous les véhicules hors d’usage, le taux de réutilisation et de valorisation est porté à un minimum de 85% en poids moyen par véhicule et par an. Dans le même délai, le taux de réutilisation et de recyclage est porté à un minimum de 80% en poids moyen par véhicule et par an;
 
-2. au plus tard le 1 er janvier 2015, pour tous les véhicules hors d’usage, le taux de réutilisation et de valorisation est porté à un minimum de 95% en poids moyen par véhicule et par an. Dans le même délai, le taux de réutilisation et de recyclage est porté à un minimum de 85% en poids moyen par véhicule et par an.
+- au plus tard le 1 er janvier 2015, pour tous les véhicules hors d’usage, le taux de réutilisation et de valorisation est porté à un minimum de 95% en poids moyen par véhicule et par an. Dans le même délai, le taux de réutilisation et de recyclage est porté à un minimum de 85% en poids moyen par véhicule et par an.
 
 3.
 

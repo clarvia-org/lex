@@ -49,39 +49,39 @@ Sans préjudice du volet de la protection temporaire prévue à l’article 14, 
 
 Aux fins de la présente loi, on entend par:
 
-1. «demande de protection internationale»: toute demande de protection internationale telle que définie à l’article 2, point b) de la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire;
+- «demande de protection internationale»: toute demande de protection internationale telle que définie à l’article 2, point b) de la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire;
 
-2. «demandeur»: tout ressortissant d’un pays tiers ou tout apatride ayant présenté une demande de protection internationale sur laquelle aucune décision finale n’a encore été prise;
+- «demandeur»: tout ressortissant d’un pays tiers ou tout apatride ayant présenté une demande de protection internationale sur laquelle aucune décision finale n’a encore été prise;
 
-3. «membres de la famille»: dans la mesure où la famille était déjà fondée dans le pays d’origine, les membres ci-après de la famille du demandeur qui sont présents au Grand-Duché de Luxembourg en raison de la demande de protection internationale:
+- «membres de la famille»: dans la mesure où la famille était déjà fondée dans le pays d’origine, les membres ci-après de la famille du demandeur qui sont présents au Grand-Duché de Luxembourg en raison de la demande de protection internationale:
 
-- le conjoint du demandeur de protection internationale ou son partenaire non marié engagé dans une communauté de vie reconnue par le pays d’origine de l’un des partenaires;
+  - le conjoint du demandeur de protection internationale ou son partenaire non marié engagé dans une communauté de vie reconnue par le pays d’origine de l’un des partenaires;
 
-- les enfants mineurs du couple visés au premier tiret ou du demandeur à condition qu’ils soient non mariés sans tenir compte du fait qu’ils sont légitimes, nés hors mariage ou adoptés;
+  - les enfants mineurs du couple visés au premier tiret ou du demandeur à condition qu’ils soient non mariés sans tenir compte du fait qu’ils sont légitimes, nés hors mariage ou adoptés;
 
-- le père ou la mère du demandeur ou tout autre adulte qui en est responsable de par le droit en vigueur au Grand-Duché de Luxembourg, lorsque ledit demandeur est mineur et non marié;
+  - le père ou la mère du demandeur ou tout autre adulte qui en est responsable de par le droit en vigueur au Grand-Duché de Luxembourg, lorsque ledit demandeur est mineur et non marié;
 
-4. «mineur»: un ressortissant de pays tiers ou apatride âgé de moins de dix-huit ans;
+- «mineur»: un ressortissant de pays tiers ou apatride âgé de moins de dix-huit ans;
 
-5. «mineur non accompagné»: un mineur qui entre sur le territoire sans être accompagné d’un adulte qui est responsable de lui par le droit en vigueur au Grand-Duché de Luxembourg et tant qu’il n’est pas effectivement pris en charge par une telle personne; cette expression couvre aussi le mineur qui a été laissé seul après être entré sur le territoire;
+- «mineur non accompagné»: un mineur qui entre sur le territoire sans être accompagné d’un adulte qui est responsable de lui par le droit en vigueur au Grand-Duché de Luxembourg et tant qu’il n’est pas effectivement pris en charge par une telle personne; cette expression couvre aussi le mineur qui a été laissé seul après être entré sur le territoire;
 
-6. «conditions d’accueil»: l’ensemble des mesures prises en faveur des demandeurs conformément à la présente loi;
+- «conditions d’accueil»: l’ensemble des mesures prises en faveur des demandeurs conformément à la présente loi;
 
-7. « conditions matérielles d’accueil » : les conditions d’accueil comprenant principalement le logement, l’alimentation, l’hygiène et l’habillement, fournis en nature, en espèces ou sous forme de bons, ou en combinant ces trois formules, ainsi qu’une allocation pécuniaire et les soins médicaux ;
+- « conditions matérielles d’accueil » : les conditions d’accueil comprenant principalement le logement, l’alimentation, l’hygiène et l’habillement, fournis en nature, en espèces ou sous forme de bons, ou en combinant ces trois formules, ainsi qu’une allocation pécuniaire et les soins médicaux ;
 
-8. «structure d’hébergement»: la structure communautaire ou individuelle où sont hébergés les demandeurs;
+- «structure d’hébergement»: la structure communautaire ou individuelle où sont hébergés les demandeurs;
 
-9. «représentant»: toute personne ou organisation désignée par le juge des tutelles, afin d’assister et de représenter un mineur non accompagné au cours des procédures prévues par la présente loi, afin de garantir l’intérêt supérieur de l’enfant et, le cas échéant, d’accomplir des actes juridiques pour le mineur. Lorsqu’une organisation est désignée comme représentant, elle désigne une personne chargée de s’acquitter des obligations de ce représentant à l’égard du mineur non accompagné, conformément à la présente loi;
+- «représentant»: toute personne ou organisation désignée par le juge des tutelles, afin d’assister et de représenter un mineur non accompagné au cours des procédures prévues par la présente loi, afin de garantir l’intérêt supérieur de l’enfant et, le cas échéant, d’accomplir des actes juridiques pour le mineur. Lorsqu’une organisation est désignée comme représentant, elle désigne une personne chargée de s’acquitter des obligations de ce représentant à l’égard du mineur non accompagné, conformément à la présente loi;
 
-10. «demandeur ayant des besoins particuliers en matière d’accueil»: toute personne vulnérable, conformément à l’article 15 ayant besoin de garanties particulières pour bénéficier des droits et remplir les obligations prévus par la présente loi;
+- «demandeur ayant des besoins particuliers en matière d’accueil»: toute personne vulnérable, conformément à l’article 15 ayant besoin de garanties particulières pour bénéficier des droits et remplir les obligations prévus par la présente loi;
 
-11. «ministre»: le ministre ayant l’Asile dans ses attributions;
+- «ministre»: le ministre ayant l’Asile dans ses attributions;
 
-12. «OLAI»: l’Office luxembourgeois de l’accueil et de l’intégration;
+- «OLAI»: l’Office luxembourgeois de l’accueil et de l’intégration;
 
-13. «directeur»: le directeur de l’Office luxembourgeois de l’accueil et de l’intégration;
+- «directeur»: le directeur de l’Office luxembourgeois de l’accueil et de l’intégration;
 
-14. «protection temporaire»: une procédure de caractère exceptionnel assurant, en cas d’afflux massif ou d’afflux massif imminent de personnes déplacées en provenance de pays tiers qui ne peuvent rentrer dans leur pays d’origine, une protection immédiate et temporaire à ces personnes, notamment si le système d’asile risque également de ne pouvoir traiter cet afflux sans provoquer d’effets contraires à son bon fonctionnement, dans l’intérêt des personnes concernées et celui des autres personnes demandant une protection.
+- «protection temporaire»: une procédure de caractère exceptionnel assurant, en cas d’afflux massif ou d’afflux massif imminent de personnes déplacées en provenance de pays tiers qui ne peuvent rentrer dans leur pays d’origine, une protection immédiate et temporaire à ces personnes, notamment si le système d’asile risque également de ne pouvoir traiter cet afflux sans provoquer d’effets contraires à son bon fonctionnement, dans l’intérêt des personnes concernées et celui des autres personnes demandant une protection.
 
 ##### Chapitre 2. Dispositions générales relatives aux conditions d’accueil
 
@@ -155,9 +155,9 @@ L’autorisation d’occupation temporaire perd sa validité soit à l’échéa
 
 Par dérogation à l’alinéa 1er, l’autorisation d’occupation temporaire :
 
-1. est renouvelée durant les procédures de recours, lorsqu’un recours formé contre une décision de refus de la demande de protection internationale a un effet suspensif, jusqu’au moment de la notification de la décision rendue par la juridiction administrative ayant acquis force de chose jugée ;
+- est renouvelée durant les procédures de recours, lorsqu’un recours formé contre une décision de refus de la demande de protection internationale a un effet suspensif, jusqu’au moment de la notification de la décision rendue par la juridiction administrative ayant acquis force de chose jugée ;
 
-2. peut être renouvelée en cas d’une prolongation exceptionnelle du délai de l’obligation de quitter le territoire au sens de l’article 111 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.
+- peut être renouvelée en cas d’une prolongation exceptionnelle du délai de l’obligation de quitter le territoire au sens de l’article 111 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.
 
 (7)
 
@@ -209,19 +209,19 @@ Pour l’instruction du dossier, le directeur procède, pour autant que de besoi
 
 Le demandeur est logé dans une des structures d’hébergement suivantes:
 
-1. structures d’hébergement publiques;
+- structures d’hébergement publiques;
 
-2. structures d’hébergement privées.
+- structures d’hébergement privées.
 
 (2)
 
 Lors de son séjour dans une structure d’hébergement:
 
-1. le demandeur a droit au respect et à la protection de sa vie privée et familiale;
+- le demandeur a droit au respect et à la protection de sa vie privée et familiale;
 
-2. le demandeur a la possibilité de communiquer avec sa famille, ses conseils juridiques ou conseillers, les représentants du Haut-Commissariat des Nations Unies pour les réfugiés (UNHCR) et d’autres organismes nationaux, internationaux et non gouvernementaux compétents;
+- le demandeur a la possibilité de communiquer avec sa famille, ses conseils juridiques ou conseillers, les représentants du Haut-Commissariat des Nations Unies pour les réfugiés (UNHCR) et d’autres organismes nationaux, internationaux et non gouvernementaux compétents;
 
-3. les conseils juridiques ou conseillers du demandeur, les représentants du Haut-Commissariat des Nations Unies pour les réfugiés (UNHCR) et d’autres organismes nationaux, internationaux et non gouvernementaux compétents ont accès aux structures d’hébergement en vue d’aider le demandeur. Le directeur peut imposer des limites à cet accès uniquement aux fins de sécurité des structures d’hébergement et du demandeur.
+- les conseils juridiques ou conseillers du demandeur, les représentants du Haut-Commissariat des Nations Unies pour les réfugiés (UNHCR) et d’autres organismes nationaux, internationaux et non gouvernementaux compétents ont accès aux structures d’hébergement en vue d’aider le demandeur. Le directeur peut imposer des limites à cet accès uniquement aux fins de sécurité des structures d’hébergement et du demandeur.
 
 (3)
 
@@ -262,9 +262,9 @@ Le montant de l’allocation pécuniaire est fixé à 29 euros par mois.
 
 Outre l’allocation pécuniaire prévue à l’article 12, le demandeur bénéficie chaque mois :
 
-1. d’une aide pour l’alimentation d’un montant de 226,27 euros, pour autant que la fourniture de repas n’est pas assurée par l’ONA ;
+- d’une aide pour l’alimentation d’un montant de 226,27 euros, pour autant que la fourniture de repas n’est pas assurée par l’ONA ;
 
-2. d’une aide pour l’hygiène d’un montant de 45 euros.
+- d’une aide pour l’hygiène d’un montant de 45 euros.
 
 Ces aides sont complétées par des aides qui couvrent les frais d’hébergement, les frais d’habillement, les frais inhérents aux besoins nutritionnels spécifiques, aux besoins des enfants nouveau-nés, à la garde d’enfants et au matériel scolaire et pédagogique, ainsi que les frais médicaux.
 
@@ -315,7 +315,7 @@ Les bénéficiaires de la protection temporaire ont accès à la formation profe
 
 (9)
 
-Les bénéficiaires de la protection temporaire ont accès aux conditions matérielles d’accueil définies à l’article 2, point g), dans les conditions et sous les réserves énoncées aux articles 9 et 23, paragraphe 3 .
+Les bénéficiaires de la protection temporaire ont accès aux conditions matérielles d’accueil définies à l’article 2, point g) , dans les conditions et sous les réserves énoncées aux articles 9 et 23, paragraphe 3 .
 
 ##### Chapitre 4. Personnes vulnérables
 
@@ -364,13 +364,13 @@ Le directeur veille à accorder une attention primordiale à l’intérêt supé
 
 En évaluant l’intérêt supérieur de l’enfant, il est tenu compte:
 
-1. des possibilités de regroupement familial;
+- des possibilités de regroupement familial;
 
-2. du bien-être et du développement social du mineur, en accordant une attention particulière à la situation personnelle du mineur;
+- du bien-être et du développement social du mineur, en accordant une attention particulière à la situation personnelle du mineur;
 
-3. des considérations tenant à la sûreté et à la sécurité, en particulier lorsque le mineur est susceptible d’être une victime de la traite des êtres humains;
+- des considérations tenant à la sûreté et à la sécurité, en particulier lorsque le mineur est susceptible d’être une victime de la traite des êtres humains;
 
-4. de l’avis du mineur, en fonction de son âge et de sa maturité.
+- de l’avis du mineur, en fonction de son âge et de sa maturité.
 
 (3)
 
@@ -388,13 +388,13 @@ Afin de garantir l’intérêt supérieur de l’enfant, le mineur non accompagn
 
 Les mineurs non accompagnés âgés de moins de 16 ans sont hébergés à compter de la date à laquelle ils sont admis sur le territoire:
 
-1. auprès de membres adultes de leur famille;
+- auprès de membres adultes de leur famille;
 
-2. au sein d’une famille d’accueil;
+- au sein d’une famille d’accueil;
 
-3. dans des structures spécialisées dans l’accueil des mineurs en difficulté;
+- dans des structures spécialisées dans l’accueil des mineurs en difficulté;
 
-4. dans d’autres lieux d’hébergement convenant pour les mineurs.
+- dans d’autres lieux d’hébergement convenant pour les mineurs.
 
 Les mineurs non accompagnés âgés de 16 ans ou plus peuvent être placés dans des structures d’hébergement pour demandeurs de protection internationale adultes.
 
@@ -415,17 +415,17 @@ Afin de veiller à l’intérêt supérieur du mineur non accompagné, les membr
 
 Le directeur peut limiter ou retirer le bénéfice des conditions matérielles d’accueil lorsque le demandeur:
 
-1. dissimule ses ressources financières et bénéficie indûment des conditions matérielles d’accueil. Les aides indûment touchées, suite à une fausse déclaration ou suite à l’omission par le demandeur de déclarer le changement intervenu dans la composition de son ménage, respectivement suite à l’allégation de faits inexacts, seront récupérées à charge du demandeur;
+- dissimule ses ressources financières et bénéficie indûment des conditions matérielles d’accueil. Les aides indûment touchées, suite à une fausse déclaration ou suite à l’omission par le demandeur de déclarer le changement intervenu dans la composition de son ménage, respectivement suite à l’allégation de faits inexacts, seront récupérées à charge du demandeur;
 
-2. se comporte de manière violente ou menaçante envers les personnes assurant l’encadrement des demandeurs ou bien envers des personnes exerçant des activités de gestion ou de surveillance dans une structure d’hébergement ou envers d’autres personnes hébergées dans les structures;
+- se comporte de manière violente ou menaçante envers les personnes assurant l’encadrement des demandeurs ou bien envers des personnes exerçant des activités de gestion ou de surveillance dans une structure d’hébergement ou envers d’autres personnes hébergées dans les structures;
 
-3. abandonne la structure d’hébergement sans en avoir informé l’autorité compétente ou si une autorisation est nécessaire à cet effet, sans l’avoir obtenue;
+- abandonne la structure d’hébergement sans en avoir informé l’autorité compétente ou si une autorisation est nécessaire à cet effet, sans l’avoir obtenue;
 
-4. ne respecte pas l’obligation de se présenter aux entretiens et convocations fixés par les autorités;
+- ne respecte pas l’obligation de se présenter aux entretiens et convocations fixés par les autorités;
 
-5. a déjà introduit une demande de protection internationale au Grand-Duché de Luxembourg;
+- a déjà introduit une demande de protection internationale au Grand-Duché de Luxembourg;
 
-6. commet un manquement grave au règlement d’ordre intérieur des structures d’hébergement établi par le directeur qui en détermine les modalités d’exercice. Le règlement d’ordre intérieur est expliqué au demandeur dans une langue qu’il comprend, où dont il est raisonnable de supposer qu’il la comprend.
+- commet un manquement grave au règlement d’ordre intérieur des structures d’hébergement établi par le directeur qui en détermine les modalités d’exercice. Le règlement d’ordre intérieur est expliqué au demandeur dans une langue qu’il comprend, où dont il est raisonnable de supposer qu’il la comprend.
 
 (2)
 
@@ -478,9 +478,9 @@ Le personnel chargé des mineurs non accompagnés a eu ou reçoit une formation 
 
 Dans le cadre de leurs missions respectives définies par la présente loi, l’OLAI et la Direction de la Santé ont accès direct, par un système informatique, aux traitements de données à caractère personnel ci-dessous énumérés selon les modalités de la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel:
 
-1. le fichier des étrangers exploité pour le compte du service des étrangers du ministre ayant l’Immigration dans ses attributions;
+- le fichier des étrangers exploité pour le compte du service des étrangers du ministre ayant l’Immigration dans ses attributions;
 
-2. le fichier des demandeurs de protection internationale exploité pour le compte du service des réfugiés du ministre ayant l’Immigration dans ses attributions.
+- le fichier des demandeurs de protection internationale exploité pour le compte du service des réfugiés du ministre ayant l’Immigration dans ses attributions.
 
 <a id="art-27"></a>
 ## Art. 27.

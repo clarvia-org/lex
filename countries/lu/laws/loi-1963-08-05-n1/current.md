@@ -30,19 +30,19 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour l'application de la présente loi, il y a lieu d'entendre:
 
-1. Par marchandises: tout ce qui est considéré comme tel pour l'application de la législation douanière, ainsi que la technologie y afférente, à l'exception:
+- Par marchandises: tout ce qui est considéré comme tel pour l'application de la législation douanière, ainsi que la technologie y afférente, à l'exception:
 
-2.
+-
 
-1. des armes, munitions et matériel spécialement conçu pour un usage militaire et de la technologie y afférente, tels que visés à l'article 1 er de la loi relative à l'importation, à l'exportation et au transit d'armes, de munitions et de matériel spécialement conçu pour un usage militaire et de la technologie y afférente;
+  - des armes, munitions et matériel spécialement conçu pour un usage militaire et de la technologie y afférente, tels que visés à l'article 1 er de la loi relative à l'importation, à l'exportation et au transit d'armes, de munitions et de matériel spécialement conçu pour un usage militaire et de la technologie y afférente;
 
-2. des monnaies tant métalliques que fiduciaires ayant cours légal au Luxembourg ou à l'étranger, ainsi que de toutes valeurs quelconques, luxembourgeoises ou étrangères, publiques ou privées, ayant le caractère de titres ou d'effets au porteur;
+  - des monnaies tant métalliques que fiduciaires ayant cours légal au Luxembourg ou à l'étranger, ainsi que de toutes valeurs quelconques, luxembourgeoises ou étrangères, publiques ou privées, ayant le caractère de titres ou d'effets au porteur;
 
-3. par technologie: toute information spécifique nécessaire au développement, à la production ou à l'utilisation de marchandises, y compris celle qui est fournie par un acte de prestation de services;
+- par technologie: toute information spécifique nécessaire au développement, à la production ou à l'utilisation de marchandises, y compris celle qui est fournie par un acte de prestation de services;
 
-4. par importation, exportation et transit: les opérations considérées comme telles pour l'application de la réglementation douanière;
+- par importation, exportation et transit: les opérations considérées comme telles pour l'application de la réglementation douanière;
 
-5. par autorisation préalable: une licence, une autorisation, un permis ou tout autre acte de l'autorité ayant une portée similaire.
+- par autorisation préalable: une licence, une autorisation, un permis ou tout autre acte de l'autorité ayant une portée similaire.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -109,11 +109,11 @@ Sont assimilés aux tentatives d'infraction visées au premier alinéa, toute ex
 
 Sans préjudice des pouvoirs des officiers de Police Judiciaire et des agents de la Gendarmerie et de la Police, sont commissionnés pour rechercher et constater, même seuls, les infractions aux dispositions prises en vertu de la présente loi et de ses règlements d'exécution:
 
-1. les agents de l'administration des Douanes et Accises;
+- les agents de l'administration des Douanes et Accises;
 
-2. les fonctionnaires des carrières moyenne et supérieure de la Division de la Radioprotection de la Direction de la Santé;
+- les fonctionnaires des carrières moyenne et supérieure de la Division de la Radioprotection de la Direction de la Santé;
 
-3. les fonctionnaires des carrières moyenne et supérieure de l'Office des Licences;
+- les fonctionnaires des carrières moyenne et supérieure de l'Office des Licences;
 
 En vue de rechercher et de constater les infractions, les contrôles à effectuer portent sur tous les stades de la production et de la commercialisation, ainsi que sur le transport et l'entreposage:
 
@@ -132,13 +132,13 @@ Les entraves apportées à l'exercice des droits reconnus aux agents visés au p
 
 Sans préjudice des dispositions prévues à l'article 9, l'autorisation préalable d'importation, d'exportation ou de transit peut être refusée pendant une période de un à six mois, à l'égard de toute personne physique ou morale qui:
 
-1. sans autorisation préalable a importé, exporté ou fait passer en transit ou a tenté d'importer, d'exporter ou de faire passer en transit des marchandises ou technologies soumises aux dispositions prises en vertu de la présente loi;
+- sans autorisation préalable a importé, exporté ou fait passer en transit ou a tenté d'importer, d'exporter ou de faire passer en transit des marchandises ou technologies soumises aux dispositions prises en vertu de la présente loi;
 
-2. s'est livré ou a participé à un détournement de trafic pour des marchandises ou technologies soumises aux dispositions prises en vertu de la présente loi;
+- s'est livré ou a participé à un détournement de trafic pour des marchandises ou technologies soumises aux dispositions prises en vertu de la présente loi;
 
-3. a fourni des informations inexactes ou incomplètes en vue d'obtenir des autorisations préalables d'importer, d'exporter ou de faire passer en transit des marchandises ou technologies soumises aux dispositions prises en vertu de la présente loi;
+- a fourni des informations inexactes ou incomplètes en vue d'obtenir des autorisations préalables d'importer, d'exporter ou de faire passer en transit des marchandises ou technologies soumises aux dispositions prises en vertu de la présente loi;
 
-4. s'abstient de fournir les informations et documents visés à l'article 7bis de la présente loi ou fournit ces informations et ces documents sous une forme inexacte ou incomplète».
+- s'abstient de fournir les informations et documents visés à l'article 7bis de la présente loi ou fournit ces informations et ces documents sous une forme inexacte ou incomplète».
 
 <a id="art-10"></a>
 ## Art. 10.

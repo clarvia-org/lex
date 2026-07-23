@@ -36,21 +36,21 @@ Les organes de presse bénéficiaires sont ceux qui répondent depuis un an au m
 
 Est à considérer comme organe de presse au sens de la présente loi toute publication imprimée
 
-1. éditée au Grand-Duché de Luxembourg et y paraissant au moins une fois par semaine sans interruption sauf cas de force majeure ou cas fortuit;
+- éditée au Grand-Duché de Luxembourg et y paraissant au moins une fois par semaine sans interruption sauf cas de force majeure ou cas fortuit;
 
-2. éditée par une personne physique ou morale établie au Grand-Duché de Luxembourg, dont le but déclaré est le commerce de l’information;
+- éditée par une personne physique ou morale établie au Grand-Duché de Luxembourg, dont le but déclaré est le commerce de l’information;
 
 (Loi du 11 avril 2010)
 
-1. dotée d’une équipe rédactionnelle d’un minimum de cinq journalistes professionnels à plein temps liés à l’éditeur par un contrat de travail à durée indéterminée, étant entendu que deux journalistes professionnels à mi-temps équivalent à un journaliste professionnel à plein temps;»
+- dotée d’une équipe rédactionnelle d’un minimum de cinq journalistes professionnels à plein temps liés à l’éditeur par un contrat de travail à durée indéterminée, étant entendu que deux journalistes professionnels à mi-temps équivalent à un journaliste professionnel à plein temps;»
 
-1. susceptible par sa diffusion de toucher l’ensemble de la population et ayant recours principalement aux langues luxembourgeoise, française ou allemande;
+- susceptible par sa diffusion de toucher l’ensemble de la population et ayant recours principalement aux langues luxembourgeoise, française ou allemande;
 
-2. offrant une information générale aussi bien nationale qu’internationale et relevant à la fois des domaines politique, économique, social et culturel;
+- offrant une information générale aussi bien nationale qu’internationale et relevant à la fois des domaines politique, économique, social et culturel;
 
-3. financée essentiellement par le produit de la vente et le cas échéant la mise à disposition d’emplacements publicitaires ne dépassant pas en moyenne 50% de la surface totale;
+- financée essentiellement par le produit de la vente et le cas échéant la mise à disposition d’emplacements publicitaires ne dépassant pas en moyenne 50% de la surface totale;
 
-4. dont l’achat ou l’abonnement n’est pas lié exclusivement à l’affiliation à une association ou organisation quelconque.
+- dont l’achat ou l’abonnement n’est pas lié exclusivement à l’affiliation à une association ou organisation quelconque.
 
 Est toutefois exclue du bénéfice de la présente loi toute édition luxembourgeoise d’une publication étrangère, à moins que cette dernière ne bénéficie à l’étranger d’aucune aide à la presse, directe ou indirecte, quelles que soient les modalités d’une telle aide.
 
@@ -96,9 +96,9 @@ Une commission de six membres, à savoir le président et deux membres représen
 
 La loi du 20 décembre 1979 relative à la reconnaissance et à la protection du titre professionnel de journaliste est modifiée comme suit:
 
-1. Il est ajouté un art. 1bis libellé comme suit: «Art. 1bis. Les personnes remplissant toutes les conditions énumérées à l’article 1er à l’exception de la condition prévue au point d) ont le droit de porter le titre professionnel de journaliste stagiaire.»
+- Il est ajouté un art. 1bis libellé comme suit: «Art. 1bis. Les personnes remplissant toutes les conditions énumérées à l’article 1er à l’exception de la condition prévue au point d) ont le droit de porter le titre professionnel de journaliste stagiaire.»
 
-2. La première phrase de l’art. 2 est remplacée comme suit: «Il est institué un Conseil de Presse chargé de statuer sur l’existence ou la perte éventuelle dans le chef des intéressés, des conditions exigées par l’article 1er ou l’article 1bis pour l’admission au titre de journaliste ou de journaliste stagiaire.»
+- La première phrase de l’art. 2 est remplacée comme suit: «Il est institué un Conseil de Presse chargé de statuer sur l’existence ou la perte éventuelle dans le chef des intéressés, des conditions exigées par l’article 1er ou l’article 1bis pour l’admission au titre de journaliste ou de journaliste stagiaire.»
 
 <a id="art-7"></a>
 ## Art. 7.

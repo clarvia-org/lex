@@ -30,22 +30,24 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 L’article 2 du règlement grand-ducal du 24 août 2016 concernant le statut du personnel du Centre commun de la sécurité sociale est modifié comme suit :
 
-1. Le paragraphe 2 est modifié comme suit :
+- Le paragraphe 2 est modifié comme suit :
 
-1. À l’alinéa 2, les termes soixante-quinze unités sont remplacés par les termes cent seize unités et les termes trois unités sont remplacés par les termes treize unités .
+  - À l’alinéa 2, les termes soixante-quinze unités sont remplacés par les termes cent seize unités et les termes trois unités sont remplacés par les termes treize unités .
 
-2. À l’alinéa 3, les termes quatre-vingt-quinze unités sont remplacés par les termes quatre-vingt-dix-huit unités .
+  - À l’alinéa 3, les termes quatre-vingt-quinze unités sont remplacés par les termes quatre-vingt-dix-huit unités .
 
-3. À l’alinéa 4, les termes dix-huit unités sont remplacés par les termes vingt-cinq unités .
+  - À l’alinéa 4, les termes dix-huit unités sont remplacés par les termes vingt-cinq unités .
 
-4. À l’alinéa 5, les termes huit unités sont remplacés par les termes six unités .
+  - À l’alinéa 5, les termes huit unités sont remplacés par les termes six unités .
 
-2. Au paragraphe 3, les termes deux cent soixante unités sont remplacés par les termes trois cent vingt-neuf unités et les termes vingt-sept unités sont remplacés par les termes quarante-huit unités .
+- Au paragraphe 3, les termes deux cent soixante unités sont remplacés par les termes trois cent vingt-neuf unités et les termes vingt-sept unités sont remplacés par les termes quarante-huit unités .
 
 <a id="art-2"></a>
 ## Art. 2.
 
-À l’article 6, il est inséré un nouvel alinéa 3 qui prend la teneur suivante :Par dérogation aux dispositions de l’article 19, paragraphe 1er du règlement grand-ducal modifié du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État ainsi que du cycle de formation de début de carrière des employés de l’État, le maximum des points à attribuer dans les différentes matières des examens de fin de stage est fixé selon les articles 7 à 10 du présent règlement.
+À l’article 6, il est inséré un nouvel alinéa 3 qui prend la teneur suivante :
+
+Par dérogation aux dispositions de l’article 19, paragraphe 1er du règlement grand-ducal modifié du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État ainsi que du cycle de formation de début de carrière des employés de l’État, le maximum des points à attribuer dans les différentes matières des examens de fin de stage est fixé selon les articles 7 à 10 du présent règlement.
 
 <a id="art-3"></a>
 ## Art. 3.

@@ -40,11 +40,11 @@ Pour être admis à la fonction de notaire l’accomplissement d’un stage prof
 
 Le stage professionnel comprend:
 
-1. une période de cours complémentaires pour tous les stagiaires,
+- une période de cours complémentaires pour tous les stagiaires,
 
-2. le stage judiciaire pour l’accès au barreau,
+- le stage judiciaire pour l’accès au barreau,
 
-3. le stage notarial pour l’accès à la fonction du notaire.
+- le stage notarial pour l’accès à la fonction du notaire.
 
 #### Chapitre 1. De l’accès à la profession d’avocat:
 
@@ -258,19 +258,19 @@ La date de l’ouverture des sessions est fixée par le Ministre de la Justice e
 
 Pour être admis à l’examen de fin de stage judiciaire, le candidat adresse une demande au Ministre de la Justice dans le délai prescrit chaque année en y joignant:
 
-1. un certificat du greffe attestant la prestation du serment d’avocat;
+- un certificat du greffe attestant la prestation du serment d’avocat;
 
-2. un certificat du ou des patron(s) de stage attestant que le stagiaire y a effectué son stage avec assiduité pendant la durée totale du stage;
+- un certificat du ou des patron(s) de stage attestant que le stagiaire y a effectué son stage avec assiduité pendant la durée totale du stage;
 
-3. une preuve de l’identité du candidat:
+- une preuve de l’identité du candidat:
 
-- lorsque le candidat est luxembourgeois ou ressortissant de l’Union européenne: une copie de la carte d’identité
+  - lorsque le candidat est luxembourgeois ou ressortissant de l’Union européenne: une copie de la carte d’identité
 
-- un candidat ressortissant d’un Etat non-membre de l’Union Européenne ou un candidat qui a le statut de réfugié reconnu au sens de la Convention de Genève du 28 juillet 1951 ou d’apatride au sens de la Convention de New York du 28 septembre 1954 se trouvant régulièrement au pays, peut être dispensé de cette condition; il verse une pièce officielle attestant la nationalité de l’Etat tiers ou à défaut une copie certifiée conforme du passeport ou du titre de séjour;
+  - un candidat ressortissant d’un Etat non-membre de l’Union Européenne ou un candidat qui a le statut de réfugié reconnu au sens de la Convention de Genève du 28 juillet 1951 ou d’apatride au sens de la Convention de New York du 28 septembre 1954 se trouvant régulièrement au pays, peut être dispensé de cette condition; il verse une pièce officielle attestant la nationalité de l’Etat tiers ou à défaut une copie certifiée conforme du passeport ou du titre de séjour;
 
-4. les certificats d’assistance aux conférences obligatoires délivrées par l’organisateur de ces conférences;
+- les certificats d’assistance aux conférences obligatoires délivrées par l’organisateur de ces conférences;
 
-5. un certificat de réussite des cours obligatoires suivis pendant le stage judiciaire.
+- un certificat de réussite des cours obligatoires suivis pendant le stage judiciaire.
 
 Si un candidat n’a pas déposé dans le délai prescrit une demande complète, l’admissibilité à l’examen de fin de stage peut être refusée.
 
@@ -340,15 +340,15 @@ Les candidats sont dispensés des épreuves de langues luxembourgeoise, françai
 
 Les candidats sont dispensés de l’épreuve de langue française s’ils ont obtenu:
 
-1. dans un pays ou une région de langue française, un diplôme leur permettant l’accès à des études d’enseignement supérieur;
+- dans un pays ou une région de langue française, un diplôme leur permettant l’accès à des études d’enseignement supérieur;
 
-2. un diplôme de baccalauréat européen de la section française d’une École Européenne, visée par la loi du 23 décembre 1998 portant approbation de la Convention portant statut des Écoles Européennes, leur permettant l’accès à des études d’enseignement supérieur.
+- un diplôme de baccalauréat européen de la section française d’une École Européenne, visée par la loi du 23 décembre 1998 portant approbation de la Convention portant statut des Écoles Européennes, leur permettant l’accès à des études d’enseignement supérieur.
 
 Les candidats sont dispensés de l’épreuve de langue allemande s’ils ont obtenu:
 
-1. dans un pays ou une région de langue allemande, un diplôme leur permettant l’accès à des études d’enseignement supérieur;
+- dans un pays ou une région de langue allemande, un diplôme leur permettant l’accès à des études d’enseignement supérieur;
 
-2. un diplôme de baccalauréat européen de la section allemande d’une École Européenne, visée par la loi du 23 décembre 1998 portant approbation de la Convention portant statut des Écoles Européennes, leur permettant l’accès à des études d’enseignement supérieur.
+- un diplôme de baccalauréat européen de la section allemande d’une École Européenne, visée par la loi du 23 décembre 1998 portant approbation de la Convention portant statut des Écoles Européennes, leur permettant l’accès à des études d’enseignement supérieur.
 
 La commission du stage visée à l’article 20 peut accorder les dispenses.
 
@@ -405,15 +405,15 @@ Les dispositions des alinéas 2 et 3 de l’article 18 du règlement grand-ducal
 
 Les épreuves écrites portent principalement sur les matières suivantes:
 
-1. la rédaction d’actes notariés en français et en allemand;
+- la rédaction d’actes notariés en français et en allemand;
 
-2. la rédaction d’une liquidation;
+- la rédaction d’une liquidation;
 
-3. le droit fiscal pour autant qu’il intéresse le notariat;
+- le droit fiscal pour autant qu’il intéresse le notariat;
 
-4. les matières de droit civil intéressant plus particulièrement le notariat;
+- les matières de droit civil intéressant plus particulièrement le notariat;
 
-5. l’organisation du notariat.
+- l’organisation du notariat.
 
 <a id="art-31"></a>
 ## Art. 31.
@@ -439,11 +439,11 @@ Le jury désigne parmi ses membres son président et son secrétaire.
 
 Pour être admis à l’examen, le candidat adresse une demande au Ministre de la Justice dans le délai prescrit chaque année en y joignant:
 
-1. un certificat de stage de la commission du stage,
+- un certificat de stage de la commission du stage,
 
-2. un certificat du patron du stage notarial,
+- un certificat du patron du stage notarial,
 
-3. une copie de la carte d’identité du candidat prouvant la nationalité luxembourgeoise ou la nationalité d’un autre Etat membre de l’Union européenne.
+- une copie de la carte d’identité du candidat prouvant la nationalité luxembourgeoise ou la nationalité d’un autre Etat membre de l’Union européenne.
 
 <a id="art-35"></a>
 ## Art. 35.

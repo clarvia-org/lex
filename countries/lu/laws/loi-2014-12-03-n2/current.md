@@ -40,27 +40,27 @@ Définitions
 
 Aux fins de la présente loi et des règlements grand-ducaux pris en son exécution, on entend par:
 
-1. «Chercheur»: un spécialiste travaillant à la conception ou à la création de connaissances, de produits, de procédés, de méthodes et de systèmes nouveaux et à la gestion des projets concernés;
+- «Chercheur»: un spécialiste travaillant à la conception ou à la création de connaissances, de produits, de procédés, de méthodes et de systèmes nouveaux et à la gestion des projets concernés;
 
-2. «Congé scientifique»: congé dont peut se prévaloir un salarié à des fins de ressourcement professionnel après avoir accumulé un nombre déterminé d'années d'ancienneté;
+- «Congé scientifique»: congé dont peut se prévaloir un salarié à des fins de ressourcement professionnel après avoir accumulé un nombre déterminé d'années d'ancienneté;
 
-3. «Projet de recherche, de développement et d'innovation»: un investissement ou une opération de recherchedéveloppement- innovation se caractérisant par un objectif, une durée et des moyens établis au moment de sa définition en vue de sa mise en oeuvre;
+- «Projet de recherche, de développement et d'innovation»: un investissement ou une opération de recherchedéveloppement- innovation se caractérisant par un objectif, une durée et des moyens établis au moment de sa définition en vue de sa mise en oeuvre;
 
-4. «Recherche appliquée»: recherche qui consiste en des travaux originaux entrepris en vue d'acquérir des connaissances nouvelles. Cependant, elle est surtout dirigée vers un but ou un objectif pratique déterminé;
+- «Recherche appliquée»: recherche qui consiste en des travaux originaux entrepris en vue d'acquérir des connaissances nouvelles. Cependant, elle est surtout dirigée vers un but ou un objectif pratique déterminé;
 
-5. «Recherche compétitive»: activités effectuées dans le cadre de programmes scientifiques compétitifs nationaux et internationaux;
+- «Recherche compétitive»: activités effectuées dans le cadre de programmes scientifiques compétitifs nationaux et internationaux;
 
-6. «Recherche contractuelle»: activités effectuées à la demande et pour le compte d'un bailleur de fonds, sur base d'un contrat ou d'un autre lien contractuel assimilable;
+- «Recherche contractuelle»: activités effectuées à la demande et pour le compte d'un bailleur de fonds, sur base d'un contrat ou d'un autre lien contractuel assimilable;
 
-7. 6bis. « Recherche collaborative » : activités autres que la recherche contractuelle et la fourniture de services de recherche, effectuées entre au moins deux parties indépendantes l’une de l’autre et visant à échanger des connaissances ou des technologies, ou à atteindre un objectif commun, fondées sur une division du travail impliquant que les parties définissent conjointement la portée du projet de recherche collaboratif, contribuent à sa réalisation et en partagent les risques et les résultats ;
+- 6bis. « Recherche collaborative » : activités autres que la recherche contractuelle et la fourniture de services de recherche, effectuées entre au moins deux parties indépendantes l’une de l’autre et visant à échanger des connaissances ou des technologies, ou à atteindre un objectif commun, fondées sur une division du travail impliquant que les parties définissent conjointement la portée du projet de recherche collaboratif, contribuent à sa réalisation et en partagent les risques et les résultats ;
 
-8. «Recherche-développement-innovation»: les travaux de création entrepris de façon systématique en vue d'accroître la somme de connaissances, y compris la connaissance de l'homme, de la culture et de la société, ainsi que l'utilisation de cette somme de connaissances pour de nouvelles applications, qu'il s'agisse de produits, de services, de procédés, de méthodes ou d'organisations et l'ensemble du processus menant à l'introduction d'un produit ou service nouveau ou fortement amélioré sur le marché ou à l'application pratique d'un procédé, d'une méthode ou organisation nouvelle ou fortement améliorée;
+- «Recherche-développement-innovation»: les travaux de création entrepris de façon systématique en vue d'accroître la somme de connaissances, y compris la connaissance de l'homme, de la culture et de la société, ainsi que l'utilisation de cette somme de connaissances pour de nouvelles applications, qu'il s'agisse de produits, de services, de procédés, de méthodes ou d'organisations et l'ensemble du processus menant à l'introduction d'un produit ou service nouveau ou fortement amélioré sur le marché ou à l'application pratique d'un procédé, d'une méthode ou organisation nouvelle ou fortement améliorée;
 
-9. «Recherche fondamentale orientée»: recherche qui est exécutée dans l'espoir qu'elle aboutira à l'établissement d'une large base de connaissances permettant de résoudre les problèmes ou de concrétiser les opportunités qui se présentent actuellement ou sont susceptibles de se présenter ultérieurement;
+- «Recherche fondamentale orientée»: recherche qui est exécutée dans l'espoir qu'elle aboutira à l'établissement d'une large base de connaissances permettant de résoudre les problèmes ou de concrétiser les opportunités qui se présentent actuellement ou sont susceptibles de se présenter ultérieurement;
 
-10. «Secteur public»: le secteur regroupant toutes les activités économiques et sociales prises en charge par les administrations, les établissements publics et les organismes publics;
+- «Secteur public»: le secteur regroupant toutes les activités économiques et sociales prises en charge par les administrations, les établissements publics et les organismes publics;
 
-11. «Secteur privé»: toute activité économique ou non économique qui ne relève pas du secteur public.
+- «Secteur privé»: toute activité économique ou non économique qui ne relève pas du secteur public.
 
 ### TITRE II Statut, objectifs et missions des centres de recherche publics
 
@@ -107,29 +107,29 @@ Missions
 
 Les centres de recherche publics ont pour missions générales:
 
-1. de développer et d'entreprendre des activités de recherche fondamentale orientée et de recherche appliquée, support nécessaire aux activités de recherche, de développement et d'innovation;
+- de développer et d'entreprendre des activités de recherche fondamentale orientée et de recherche appliquée, support nécessaire aux activités de recherche, de développement et d'innovation;
 
-2. d'opérer le transfert de connaissances et de technologies vers le secteur public et le secteur privé.
+- d'opérer le transfert de connaissances et de technologies vers le secteur public et le secteur privé.
 
 (2)
 
 Dans l'accomplissement de leurs missions, les centres de recherche publics sont appelés à:
 
-1. stimuler et entreprendre des activités de recherche, de développement et d'innovation en vue de maintenir et de développer leurs compétences scientifiques et technologiques;
+- stimuler et entreprendre des activités de recherche, de développement et d'innovation en vue de maintenir et de développer leurs compétences scientifiques et technologiques;
 
-2. réaliser au plan national et international des activités de recherche contractuelle et de recherche collaborative avec des organismes, des institutions, des sociétés et des établissements de recherche, de développement et d'innovation ainsi que de la recherche compétitive via des programmes de recherche, de développement et d'innovation nationaux, européens ou internationaux;
+- réaliser au plan national et international des activités de recherche contractuelle et de recherche collaborative avec des organismes, des institutions, des sociétés et des établissements de recherche, de développement et d'innovation ainsi que de la recherche compétitive via des programmes de recherche, de développement et d'innovation nationaux, européens ou internationaux;
 
-3. favoriser la valorisation scientifique, économique et socio-économique de leurs résultats de recherche, de développement et d'innovation et le déploiement de nouvelles activités économiques;
+- favoriser la valorisation scientifique, économique et socio-économique de leurs résultats de recherche, de développement et d'innovation et le déploiement de nouvelles activités économiques;
 
-4. réaliser des activités d'études, d'expertises ainsi que de conseil lors de la mise en oeuvre de technologies, produits, processus et services nouveaux en se basant sur leur recherche fondamentale orientée et recherche appliquée;
+- réaliser des activités d'études, d'expertises ainsi que de conseil lors de la mise en oeuvre de technologies, produits, processus et services nouveaux en se basant sur leur recherche fondamentale orientée et recherche appliquée;
 
-5. contribuer à la formation du personnel de recherche par l'encadrement des doctorants et la participation à des écoles doctorales ainsi qu'à favoriser la mobilité de leur personnel de recherche;
+- contribuer à la formation du personnel de recherche par l'encadrement des doctorants et la participation à des écoles doctorales ainsi qu'à favoriser la mobilité de leur personnel de recherche;
 
-6. contribuer à l'apprentissage et à l'actualisation des connaissances tout au long de la vie dans les domaines qui relèvent de leur compétence;
+- contribuer à l'apprentissage et à l'actualisation des connaissances tout au long de la vie dans les domaines qui relèvent de leur compétence;
 
-7. contribuer au développement de la culture scientifique;
+- contribuer au développement de la culture scientifique;
 
-8. contribuer par leurs activités de recherche, de développement et d'innovation à la définition, à la mise en oeuvre et à l'évaluation des politiques nationales.
+- contribuer par leurs activités de recherche, de développement et d'innovation à la définition, à la mise en oeuvre et à l'évaluation des politiques nationales.
 
 (3)
 
@@ -152,17 +152,17 @@ Organes
 
 Les organes d'administration des centres de recherche publics sont:
 
-1. le conseil d'administration;
+- le conseil d'administration;
 
-2. l e directeur général.
+- l e directeur général.
 
 (2)
 
 Les organes consultatifs des centres de recherche publics sont:
 
-1. le conseil de concertation;
+- le conseil de concertation;
 
-2. la délégation du personnel telle que définie au Code du travail .
+- la délégation du personnel telle que définie au Code du travail .
 
 (3)
 
@@ -183,29 +183,29 @@ Le conseil d'administration arrête la politique générale, les choix stratégi
 
 Il assume les fonctions suivantes:
 
-1. il engage et licencie le directeur général et le directeur général adjoint ;
+- il engage et licencie le directeur général et le directeur général adjoint ;
 
-2. il engage et licencie les directeurs de département , le directeur administratif et financier, le directeur des systèmes d’information et le directeur des ressources humaines, sur proposition du directeur général;
+- il engage et licencie les directeurs de département , le directeur administratif et financier, le directeur des systèmes d’information et le directeur des ressources humaines, sur proposition du directeur général;
 
-3. il arrête le règlement d'ordre intérieur du centre de recherche public;
+- il arrête le règlement d'ordre intérieur du centre de recherche public;
 
-4. il arrête la politique des rémunérations et des ressources humaines et en particulier la politique des carrières des chercheurs;
+- il arrête la politique des rémunérations et des ressources humaines et en particulier la politique des carrières des chercheurs;
 
-5. il décide sur les prises de participation, la création de filiales et l'acceptation de dons et de legs;
+- il décide sur les prises de participation, la création de filiales et l'acceptation de dons et de legs;
 
-6. il arrête l'organigramme du centre de recherche public et institue les départements et unités de recherche;
+- il arrête l'organigramme du centre de recherche public et institue les départements et unités de recherche;
 
-7. il arrête le programme pluriannuel et le projet de convention pluriannuelle à conclure avec l'Etat et il organise et surveille le suivi de la convention pluriannuelle ;
+- il arrête le programme pluriannuel et le projet de convention pluriannuelle à conclure avec l'Etat et il organise et surveille le suivi de la convention pluriannuelle ;
 
-8. il arrête le budget annuel et les comptes annuels;
+- il arrête le budget annuel et les comptes annuels;
 
-9. il arrête le rapport d'activités;
+- il arrête le rapport d'activités;
 
-10. il conclut et résilie tout contrat et toute convention et il peut déléguer cette attribution, selon les modalités arrêtées à cette fin par le règlement d’ordre intérieur, au directeur général, à condition que la valeur ne dépasse pas 100 000 euros à la cote 100 de l’indice des prix à la consommation national au 1 er janvier 1948, ainsi qu’au directeur général adjoint, au directeur administratif et financier, au directeur des systèmes d’information, au directeur des ressources humaines et aux directeurs de département, à condition que la valeur ne dépasse pas 50 000 euros à la cote 100 de l’indice des prix à la consommation national au 1 er janvier 1948. Ces délégations sont susceptibles de subdélégation si cette faculté est prévue dans l’acte de délégation qui en fixe les conditions et les limites. Les modalités de ces subdélégations sont fixées dans le règlement d’ordre intérieur ;
+- il conclut et résilie tout contrat et toute convention et il peut déléguer cette attribution, selon les modalités arrêtées à cette fin par le règlement d’ordre intérieur, au directeur général, à condition que la valeur ne dépasse pas 100 000 euros à la cote 100 de l’indice des prix à la consommation national au 1 er janvier 1948, ainsi qu’au directeur général adjoint, au directeur administratif et financier, au directeur des systèmes d’information, au directeur des ressources humaines et aux directeurs de département, à condition que la valeur ne dépasse pas 50 000 euros à la cote 100 de l’indice des prix à la consommation national au 1 er janvier 1948. Ces délégations sont susceptibles de subdélégation si cette faculté est prévue dans l’acte de délégation qui en fixe les conditions et les limites. Les modalités de ces subdélégations sont fixées dans le règlement d’ordre intérieur ;
 
-11. il approuve les acquisitions, aliénations et échanges d'immeubles ainsi que les conditions de baux à contracter;
+- il approuve les acquisitions, aliénations et échanges d'immeubles ainsi que les conditions de baux à contracter;
 
-12. il approuve les emprunts.
+- il approuve les emprunts.
 
 (3)
 
@@ -242,13 +242,13 @@ Le conseil d’administration est composé de onze membres, dont dix sont nommé
 
 Neuf membres sont proposés par le ministre conformément aux critères ci-après :
 
-1. les membres doivent disposer de compétences en matière de recherche et d’expérience en matière de gestion de programmes et de projets scientifiques ainsi que de valorisation de la recherche et du développement économique ou de compétences en matière de gestion et de gouvernance ;
+- les membres doivent disposer de compétences en matière de recherche et d’expérience en matière de gestion de programmes et de projets scientifiques ainsi que de valorisation de la recherche et du développement économique ou de compétences en matière de gestion et de gouvernance ;
 
-2. les membres ne peuvent exercer aucune autre fonction auprès du centre de recherche public ;
+- les membres ne peuvent exercer aucune autre fonction auprès du centre de recherche public ;
 
-3. la proportion des membres du conseil d’administration de chaque sexe ne peut être inférieure à 40 pour cent ;
+- la proportion des membres du conseil d’administration de chaque sexe ne peut être inférieure à 40 pour cent ;
 
-4. ne peuvent devenir membres du conseil d’administration les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler le centre de recherche public ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs du centre de recherche public ou signent des ordonnances de paiement ou toute autre pièce administrative entraînant une dépense de l’État en faveur de l’établissement.
+- ne peuvent devenir membres du conseil d’administration les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler le centre de recherche public ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs du centre de recherche public ou signent des ordonnances de paiement ou toute autre pièce administrative entraînant une dépense de l’État en faveur de l’établissement.
 
 Un membre est proposé par le conseil de concertation prévu au chapitre III. Ce membre est choisi par le conseil de concertation en son sein parmi les membres visés à l’article 11, paragraphe 1er, lettres a) et b). Son mandat au conseil d’administration prend fin au moment où il cesse d’exercer le mandat de membre du conseil de concertation.
 
@@ -323,11 +323,11 @@ Le directeur général est engagé sous un régime de droit privé régi par les
 
 Le candidat au poste de directeur général doit remplir les conditions suivantes :
 
-1. être titulaire d’un doctorat ;
+- être titulaire d’un doctorat ;
 
-2. se prévaloir d’une renommée internationalement reconnue sur base de la qualité de ses travaux de recherche et d’innovation ;
+- se prévaloir d’une renommée internationalement reconnue sur base de la qualité de ses travaux de recherche et d’innovation ;
 
-3. avoir des compétences en matière de gestion et de gouvernance.
+- avoir des compétences en matière de gestion et de gouvernance.
 
 (3)
 
@@ -377,11 +377,11 @@ Recrutement du directeur général adjoint
 
 Le candidat au poste de directeur général adjoint doit remplir les conditions suivantes :
 
-1. être titulaire d’un doctorat ;
+- être titulaire d’un doctorat ;
 
-2. se prévaloir d’une renommée internationalement reconnue sur base de la qualité de ses travaux de recherche et d’innovation ;
+- se prévaloir d’une renommée internationalement reconnue sur base de la qualité de ses travaux de recherche et d’innovation ;
 
-3. avoir des compétences en matière de gestion et de gouvernance.
+- avoir des compétences en matière de gestion et de gouvernance.
 
 (2)
 
@@ -417,13 +417,13 @@ Composition et fonctionnement
 
 Le conseil de concertation se compose de:
 
-1. cinq représentants des chercheurs, élus pour un mandat de cinq ans par les chercheurs;
+- cinq représentants des chercheurs, élus pour un mandat de cinq ans par les chercheurs;
 
-2. un représentant du personnel des spécialistes de la valorisation et de support à la recherche, élu pour un mandat de cinq ans par le personnel des spécialistes de la valorisation et de support à la recherche;
+- un représentant du personnel des spécialistes de la valorisation et de support à la recherche, élu pour un mandat de cinq ans par le personnel des spécialistes de la valorisation et de support à la recherche;
 
-3. deux représentants du personnel nommés par la délégation du personnel pour un mandat de cinq ans.
+- deux représentants du personnel nommés par la délégation du personnel pour un mandat de cinq ans.
 
-Le directeur général, le directeur général adjoint, le directeur administratif et financier, le directeur des systèmes d’information, le directeur des ressources humaines et les directeurs des départements assistent aux réunions du conseil de concertation avec voix consultative.
+Le directeur général , le directeur général adjoint, le directeur administratif et financier, le directeur des systèmes d’information, le directeur des ressources humaines et les directeurs des départements assistent aux réunions du conseil de concertation avec voix consultative.
 
 (2)
 
@@ -468,11 +468,11 @@ Le centre de recherche public peut mettre en place des plates-formes technologiq
 
 Le centre de recherche public se dote d’une administration centrale qui regroupe les services suivants, nécessaires à l’exécution des tâches d’administration et de gestion qui lui incombent :
 
-1. service administratif, financier et technique ;
+- service administratif, financier et technique ;
 
-2. service des systèmes d'information ;
+- service des systèmes d'information ;
 
-3. service des ressources humaines.
+- service des ressources humaines.
 
 (5)
 
@@ -480,9 +480,9 @@ Sous l’autorité directe du directeur général, l’administration centrale e
 
 Le directeur administratif et financier doit remplir les conditions suivantes :
 
-1. être titulaire au moins d’un diplôme de master ou équivalent ;
+- être titulaire au moins d’un diplôme de master ou équivalent ;
 
-2. avoir une expérience professionnelle établie en matière de gestion administrative et financière.
+- avoir une expérience professionnelle établie en matière de gestion administrative et financière.
 
 (6)
 
@@ -496,17 +496,17 @@ Par dérogation aux paragraphes 4 et 5, le conseil d’administration peut, sur 
 
 Le directeur des systèmes d’information doit remplir les conditions suivantes :
 
-1. être titulaire au moins d’un diplôme de master ou équivalent ;
+- être titulaire au moins d’un diplôme de master ou équivalent ;
 
-2. avoir une expérience professionnelle établie en matière de gestion de systèmes d’information.
+- avoir une expérience professionnelle établie en matière de gestion de systèmes d’information.
 
 (9)
 
 Le directeur des ressources humaines doit remplir les conditions suivantes :
 
-1. être titulaire au moins d’un diplôme de master ou équivalent ;
+- être titulaire au moins d’un diplôme de master ou équivalent ;
 
-2. avoir une expérience professionnelle établie en matière de gestion des ressources humaines.
+- avoir une expérience professionnelle établie en matière de gestion des ressources humaines.
 
 (10)
 
@@ -543,9 +543,9 @@ Les modalités de la procédure de recrutement sont arrêtées au règlement d'o
 
 Le chef d'unité doit:
 
-1. soit être un chercheur titulaire d'un doctorat et auteur de plusieurs travaux de recherche, de développement et d'innovation dans des ouvrages reconnus;
+- soit être un chercheur titulaire d'un doctorat et auteur de plusieurs travaux de recherche, de développement et d'innovation dans des ouvrages reconnus;
 
-2. soit pouvoir se prévaloir de compétences de recherche, de développement et d'innovation et d'une expérience équivalentes.
+- soit pouvoir se prévaloir de compétences de recherche, de développement et d'innovation et d'une expérience équivalentes.
 
 ### TITRE IV Personnel
 
@@ -558,11 +558,11 @@ Statut du personnel
 
 Le personnel du centre de recherche public comprend:
 
-1. les chercheurs;
+- les chercheurs;
 
-2. les spécialistes de la valorisation et de support à la recherche, au développement et à l'innovation;
+- les spécialistes de la valorisation et de support à la recherche, au développement et à l'innovation;
 
-3. le personnel scientifique, administratif et technique.
+- le personnel scientifique, administratif et technique.
 
 (2)
 
@@ -587,13 +587,13 @@ Fonctions et charte des chercheurs
 
 Les fonctions des chercheurs et des spécialistes de la valorisation et de support à la recherche, au développement et à l'innovation s'exercent dans les domaines suivants:
 
-1. activités et projets de recherche, de développement et d'innovation;
+- activités et projets de recherche, de développement et d'innovation;
 
-2. encadrement de thèses pour les chercheurs;
+- encadrement de thèses pour les chercheurs;
 
-3. diffusion, valorisation des connaissances et liaison avec l'environnement socio-économique et la société civile;
+- diffusion, valorisation des connaissances et liaison avec l'environnement socio-économique et la société civile;
 
-4. enseignement incluant formation initiale, avancée et continue, tutorat et contrôle des connaissances.
+- enseignement incluant formation initiale, avancée et continue, tutorat et contrôle des connaissances.
 
 (2)
 
@@ -663,7 +663,7 @@ Convention pluriannuelle
 
 (1)
 
-Le développement du centre de recherche public fait l'objet d'une convention pluriannuelle négociée entre l'Etat, représenté par le ministre, et le centre de recherche public, représenté par le conseil d'administration. La convention pluriannuelle est conclue pour une durée de quatre ans. Cette convention pluriannuelle est établie sur la base d'un programme pluriannuel arrêté par le conseil d'administration du centre de recherche public et portant sur sa politique générale, ses choix stratégiques, ses objectifs, ses domaines d’activités, ses indicateurs de performance et ses activités de recherche, de développement et d'innovation et de l'administration. Elle détermine les moyens et les effectifs nécessaires pour la mise en oeuvre des activités du centre de recherche public et définit les engagements financiers de l'Etat. La convention pluriannuelle est soumise pour approbation au Gouvernement en conseil.
+Le développement du centre de recherche public fait l'objet d'une convention pluriannuelle négociée entre l'Etat , représenté par le ministre , et le centre de recherche public , représenté par le conseil d'administration. La convention pluriannuelle est conclue pour une durée de quatre ans. Cette convention pluriannuelle est établie sur la base d'un programme pluriannuel arrêté par le conseil d'administration du centre de recherche public et portant sur sa politique générale, ses choix stratégiques, ses objectifs, ses domaines d’activités, ses indicateurs de performance et ses activités de recherche, de développement et d'innovation et de l'administration. Elle détermine les moyens et les effectifs nécessaires pour la mise en oeuvre des activités du centre de recherche public et définit les engagements financiers de l'Etat. La convention pluriannuelle est soumise pour approbation au Gouvernement en conseil.
 
 La contribution financière de l'Etat est accordée dans la limite des crédits budgétaires disponibles.
 
@@ -691,25 +691,25 @@ Ressources
 
 Le centre de recherche public peut disposer des ressources suivantes:
 
-1. les biens meubles, immeubles et immatériels dont il est doté par l'Etat à sa constitution;
+- les biens meubles, immeubles et immatériels dont il est doté par l'Etat à sa constitution;
 
-2. les biens meubles, immeubles et immatériels qu'il recueille du ou des centres de recherche publics auxquels il succède en droit;
+- les biens meubles, immeubles et immatériels qu'il recueille du ou des centres de recherche publics auxquels il succède en droit;
 
-3. une contribution financière annuelle inscrite au budget des recettes et des dépenses de l'Etat;
+- une contribution financière annuelle inscrite au budget des recettes et des dépenses de l'Etat;
 
-4. des contributions financières annuelles inscrites au budget des recettes et des dépenses de l'Etat, réservées à l'exécution de missions déterminées ayant fait l'objet d'une convention préalable entre le Gouvernement et le centre de recherche public;
+- des contributions financières annuelles inscrites au budget des recettes et des dépenses de l'Etat, réservées à l'exécution de missions déterminées ayant fait l'objet d'une convention préalable entre le Gouvernement et le centre de recherche public;
 
-5. des revenus provenant de ses activités de recherche, de développement et d'innovation;
+- des revenus provenant de ses activités de recherche, de développement et d'innovation;
 
-6. des revenus provenant de l'exécution d'un contrat ou d'une convention conclus avec une institution, un organisme ou une société externes;
+- des revenus provenant de l'exécution d'un contrat ou d'une convention conclus avec une institution, un organisme ou une société externes;
 
-7. des dons et legs en espèces ou en nature;
+- des dons et legs en espèces ou en nature;
 
-8. des revenus provenant de la gestion et de la valorisation de son patrimoine ainsi que de ses prises de participation;
+- des revenus provenant de la gestion et de la valorisation de son patrimoine ainsi que de ses prises de participation;
 
-9. des revenus provenant d'une cession des droits de propriété ou d'une attribution de licence;
+- des revenus provenant d'une cession des droits de propriété ou d'une attribution de licence;
 
-10. des contributions financières du fonds national de la recherche et celles d'autres bailleurs de fonds et de l'Union européenne.
+- des contributions financières du fonds national de la recherche et celles d'autres bailleurs de fonds et de l'Union européenne.
 
 (2)
 
@@ -991,9 +991,9 @@ Dispositions abrogatoires
 
 Sont abrogées:
 
-1. la loi modifiée du 9 mars 1987 ayant pour objet 1. l'organisation de la recherche et du développement technologique dans le secteur public; 2. le transfert de technologie et la coopération scientifique et technique entre les entreprises et le secteur public;
+- la loi modifiée du 9 mars 1987 ayant pour objet 1. l'organisation de la recherche et du développement technologique dans le secteur public; 2. le transfert de technologie et la coopération scientifique et technique entre les entreprises et le secteur public;
 
-2. la loi du 10 novembre 1989 portant création d'un Centre d'Etudes de Populations, de Pauvreté et de Politiques Socio-Economiques auprès du Ministre d'Etat.
+- la loi du 10 novembre 1989 portant création d'un Centre d'Etudes de Populations, de Pauvreté et de Politiques Socio-Economiques auprès du Ministre d'Etat.
 
 ### TITRE XII Dissolution de la Fondation «Integrated BioBank of Luxembourg»
 

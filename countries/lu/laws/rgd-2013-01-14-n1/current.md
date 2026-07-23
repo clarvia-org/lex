@@ -40,15 +40,15 @@ Toute personne, qui désire s'établir au Luxembourg et y exercer la profession 
 
 À cette demande sont joints les documents justificatifs suivants :
 
-1. une copie d’une pièce d’identité en cours de validité ; et le cas échéant un document attestant le bénéfice des dispositions de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles ;
+- une copie d’une pièce d’identité en cours de validité ; et le cas échéant un document attestant le bénéfice des dispositions de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles ;
 
-2. une copie des diplômes, attestations, certificats ou autres titres de médecin, de médecin-dentiste ou de médecin-vétérinaire cités aux articles 1 er , 8 et 21 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire, respectivement à l’article 1 er de la loi modifiée du 31 juillet 1991 déterminant les conditions d'autorisation d'exercer la profession de pharmacien ;
+- une copie des diplômes, attestations, certificats ou autres titres de médecin, de médecin-dentiste ou de médecin-vétérinaire cités aux articles 1 er , 8 et 21 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire, respectivement à l’article 1 er de la loi modifiée du 31 juillet 1991 déterminant les conditions d'autorisation d'exercer la profession de pharmacien ;
 
-3. l’attestation relative à la santé physique et psychique visée à l’article 3 du présent règlement ;
+- l’attestation relative à la santé physique et psychique visée à l’article 3 du présent règlement ;
 
-4. l’attestation de moralité et d’honorabilité visée à l’article 4 du présent règlement ;
+- l’attestation de moralité et d’honorabilité visée à l’article 4 du présent règlement ;
 
-5. tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession ;
+- tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession ;
 
 (3)
 
@@ -192,15 +192,15 @@ Le ressortissant d’un pays tiers ou un apatride qui désire s’établir au Lu
 
 A cette demande sont joints les documents justificatifs suivants:
 
-1. une copie d’une pièce d’identité en cours de validité ou un certificat attestant le statut d’apatride;
+- une copie d’une pièce d’identité en cours de validité ou un certificat attestant le statut d’apatride;
 
-2. une copie des diplômes, certificats ou autres titres de médecin, de médecin-dentiste ou de médecin-vétérinaire prévus aux articles 1er, 8 et 21 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire et, le cas échéant, les attestations visées à l’article 2 du présent règlement;
+- une copie des diplômes, certificats ou autres titres de médecin, de médecin-dentiste ou de médecin-vétérinaire prévus aux articles 1er, 8 et 21 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire et, le cas échéant, les attestations visées à l’article 2 du présent règlement;
 
-3. l’attestation relative à la santé physique et psychique visée à l’article 3 (1) du présent règlement;
+- l’attestation relative à la santé physique et psychique visée à l’article 3 (1) du présent règlement;
 
-4. un extrait du casier judiciaire ou un certificat délivré par une autorité compétente de l’Etat d’origine ou de provenance attestant que l’intéressé remplit les conditions de moralité et d’honorabilité nécessaires pour l’accès à l’activité de médecin, de médecin-dentiste ou de médecin-vétérinaire dans cet Etat;
+- un extrait du casier judiciaire ou un certificat délivré par une autorité compétente de l’Etat d’origine ou de provenance attestant que l’intéressé remplit les conditions de moralité et d’honorabilité nécessaires pour l’accès à l’activité de médecin, de médecin-dentiste ou de médecin-vétérinaire dans cet Etat;
 
-5. tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
+- tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
 
 (3)
 

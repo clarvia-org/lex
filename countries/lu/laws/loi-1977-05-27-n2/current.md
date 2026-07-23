@@ -133,11 +133,11 @@ En ce qui concerne la demande de brevet issue de la transformation, les disposit
 
 Dans la mesure où un brevet luxembourgeois ayant pour objet une invention identique à une autre pour laquelle un brevet européen a été délivré au même inventeur ou à son ayant cause avec la même date de priorité, ce brevet national, pour autant qu’il couvre la même invention que le brevet européen, cesse de produire ses effets à la date à laquelle:
 
-1. le délai prévu pour la formation de l’opposition au brevet européen est expiré sans qu’une opposition ait été formée,
+- le délai prévu pour la formation de l’opposition au brevet européen est expiré sans qu’une opposition ait été formée,
 
-2. la procédure d’opposition a définitivement abouti au maintien en vigueur du brevet européen,
+- la procédure d’opposition a définitivement abouti au maintien en vigueur du brevet européen,
 
-3. il a été délivré si cette date est postérieure à celle visée aux lettres a) ou b) , suivant le cas.
+- il a été délivré si cette date est postérieure à celle visée aux lettres a) ou b) , suivant le cas.
 
 Le brevet qui s’est ainsi éteint ne renaît pas lorsque le brevet européen tombe ultérieurement en déchéance ou que sa nullité est prononcée.
 

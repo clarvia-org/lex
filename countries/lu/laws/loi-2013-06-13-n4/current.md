@@ -34,9 +34,9 @@ Il est créé un lycée à Clervaux.
 
 L'offre scolaire comporte:
 
-1. selon les besoins et les infrastructures, les enseignements secondaires prévus à l’article 1 bis de la loi modifiée du 25 juin 2004 portant organisation des lycées, dénommée ci-après « loi modifiée du 25 juin 2004 » ;
+- selon les besoins et les infrastructures, les enseignements secondaires prévus à l’article 1 bis de la loi modifiée du 25 juin 2004 portant organisation des lycées, dénommée ci-après « loi modifiée du 25 juin 2004 » ;
 
-2. une structure d’accueil pour élèves à besoins spécifiques.
+- une structure d’accueil pour élèves à besoins spécifiques.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -51,11 +51,11 @@ Il peut être complété par des fonctionnaires stagiaires, des employés et des
 
 Le cadre prévu au paragraphe 1er peut, suivant les besoins du service, dans les limites des crédits budgétaires et par dérogation à l’article 3, paragraphe 1er, point e), de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, être complété par des employés enseignants qui remplissent les conditions particulières suivantes :
 
-1. avoir eu accès à la fonction enseignante ou d’encadrement socio-éducatif ou psycho-social dans un pays membre de l’Union européenne ou de l’Association européenne de libre-échange ;
+- avoir eu accès à la fonction enseignante ou d’encadrement socio-éducatif ou psycho-social dans un pays membre de l’Union européenne ou de l’Association européenne de libre-échange ;
 
-2. se prévaloir d’une expérience professionnelle d’au moins cinq ans dans la fonction enseignante ou dans une fonction d’encadrement socio-éducatif ou psycho-social en relation avec l’apprentissage ou l’enseignement ;
+- se prévaloir d’une expérience professionnelle d’au moins cinq ans dans la fonction enseignante ou dans une fonction d’encadrement socio-éducatif ou psycho-social en relation avec l’apprentissage ou l’enseignement ;
 
-3. prouver par des certificats qu’ils ont atteint le niveau B2 du cadre européen commun de référence des langues dans au moins une des langues administratives définies par la loi du 24 février 1984 sur le régime des langues.
+- prouver par des certificats qu’ils ont atteint le niveau B2 du cadre européen commun de référence des langues dans au moins une des langues administratives définies par la loi du 24 février 1984 sur le régime des langues.
 
 (3)
 
@@ -71,29 +71,29 @@ Sans préjudice des dispositions applicables à l’école européenne, les ense
 
 Le Gouvernement est autorisé à procéder aux engagements de renforcement à titre permanent suivants:
 
-1. 1 psychologue;
+- 1 psychologue;
 
-2. 1 assistant social ou d'hygiène sociale;
+- 1 assistant social ou d'hygiène sociale;
 
-3. 2 éducateurs gradués;
+- 2 éducateurs gradués;
 
-4. 1 bibliothécaire-documentaliste;
+- 1 bibliothécaire-documentaliste;
 
-5. 1 rédacteur faisant fonction de secrétaire;
+- 1 rédacteur faisant fonction de secrétaire;
 
-6. 3 éducateurs;
+- 3 éducateurs;
 
-7. 5 artisans;
+- 5 artisans;
 
-8. 1 concierge;
+- 1 concierge;
 
-9. 2 garçons de salle;
+- 2 garçons de salle;
 
-10. 2 employés de l'État de la carrière D;
+- 2 employés de l'État de la carrière D;
 
-11. 1 employé de l'État de la carrière C;
+- 1 employé de l'État de la carrière C;
 
-12. 3 ouvriers à tâche artisanale.
+- 3 ouvriers à tâche artisanale.
 
 <a id="art-6-20210915"></a>
 ## Art. 6.
@@ -115,11 +115,11 @@ L’École a pour mission l’éducation et l’enseignement communs d’élève
 
 L’offre scolaire de l’École peut comporter :
 
-1. le cycle de deux années de l’enseignement « early éducation - maternel » européen ;
+- le cycle de deux années de l’enseignement « early éducation - maternel » européen ;
 
-2. le cycle de cinq années de l’enseignement primaire européen ;
+- le cycle de cinq années de l’enseignement primaire européen ;
 
-3. le cycle de sept années de l’enseignement secondaire européen.
+- le cycle de sept années de l’enseignement secondaire européen.
 
 Il est offert au moins deux sections linguistiques choisies parmi la section anglophone, la section francophone et la section germanophone. Un règlement grand-ducal peut élargir l’offre des sections linguistiques à d’autres sections prévues par l’annexe II de la Convention portant statut des Écoles Européennes, signée à Luxembourg, le 21 juin 1994 et approuvée par la loi du 23 décembre 1998. Dans chaque cycle sont offerts des cours obligatoires de langue luxembourgeoise.
 
@@ -141,10 +141,10 @@ Par dérogation à l’article 10, paragraphe 1er, l’École n’est pas soumis
 
 Les nouvelles admissions à l’École sont réglées comme suit :
 
-1. les élèves sont admis à la première année du cycle « early éducation - maternel » européen, s’ils ont atteint l’âge de 4 ans révolus au 1 er septembre précédant leur scolarisation ;
+- les élèves sont admis à la première année du cycle « early éducation - maternel » européen, s’ils ont atteint l’âge de 4 ans révolus au 1 er septembre précédant leur scolarisation ;
 
-2. les élèves sont admis à la première année de l’enseignement primaire européen à la fin du cycle 1.2 de l’enseignement fondamental luxembourgeois ;
+- les élèves sont admis à la première année de l’enseignement primaire européen à la fin du cycle 1.2 de l’enseignement fondamental luxembourgeois ;
 
-3. les élèves qui ont suivi l’enseignement fondamental luxembourgeois sont admis à la première année de l’enseignement secondaire européen en fonction de la décision d’orientation qui leur a été délivrée à la fin du cycle 4.2 de l’enseignement fondamental luxembourgeois et les admettant à une classe de 7 e de l’enseignement secondaire classique ou secondaire général luxembourgeois ;
+- les élèves qui ont suivi l’enseignement fondamental luxembourgeois sont admis à la première année de l’enseignement secondaire européen en fonction de la décision d’orientation qui leur a été délivrée à la fin du cycle 4.2 de l’enseignement fondamental luxembourgeois et les admettant à une classe de 7 e de l’enseignement secondaire classique ou secondaire général luxembourgeois ;
 
-4. des inscriptions en cours de scolarité peuvent être faites conformément à l’article 39 de la loi modifiée du 25 juin 2004 .
+- des inscriptions en cours de scolarité peuvent être faites conformément à l’article 39 de la loi modifiée du 25 juin 2004 .

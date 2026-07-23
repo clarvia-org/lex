@@ -63,13 +63,13 @@ Aux articles 28 et 54 de la même loi, les termes «inspecteur général» sont 
 
 À l'article 60 de la même loi sont apportées les modifications suivantes:
 
-1. L'alinéa 1 est complété comme suit: Il surveille également, dans son arrondissement, l'enseignement fondamental dispensé dans les instituts et les centres d'éducation différenciée ainsi que dans les classes relevant du Centre de logopédie.
+- L'alinéa 1 est complété comme suit: Il surveille également, dans son arrondissement, l'enseignement fondamental dispensé dans les instituts et les centres d'éducation différenciée ainsi que dans les classes relevant du Centre de logopédie.
 
-2. L'alinéa 2 est complété comme suit: Il a le droit de visiter librement toutes les écoles qui relèvent de son arrondissement, et toutes les classes qui relèvent de ces écoles.
+- L'alinéa 2 est complété comme suit: Il a le droit de visiter librement toutes les écoles qui relèvent de son arrondissement, et toutes les classes qui relèvent de ces écoles.
 
-3. L'alinéa 3 est complété comme suit: À cet effet, il convoque les présidents des comités d'école de son arrondissement en réunion plénière au moins une fois par trimestre.
+- L'alinéa 3 est complété comme suit: À cet effet, il convoque les présidents des comités d'école de son arrondissement en réunion plénière au moins une fois par trimestre.
 
-4. Sont insérés à la suite de l'alinéa 8, un alinéa 9 et un alinéa 10 dont la teneur est la suivante: Un inspecteur de l'enseignement fondamental est chargé de l'inspection de l'enseignement fondamental dans les écoles européennes, les écoles internationales ainsi que dans les écoles à régime linguistique spécial, dans le respect des lois et des accords internationaux existants. Dans l'accomplissement de ses tâches de gestion et d'organisation, l'inspecteur de l'enseignement fondamental peut être assisté par un instituteur, détaché au ministère de l'Éducation nationale à tâche complète ou partielle par le ministre pour un mandat renouvelable d'une année.
+- Sont insérés à la suite de l'alinéa 8, un alinéa 9 et un alinéa 10 dont la teneur est la suivante: Un inspecteur de l'enseignement fondamental est chargé de l'inspection de l'enseignement fondamental dans les écoles européennes, les écoles internationales ainsi que dans les écoles à régime linguistique spécial, dans le respect des lois et des accords internationaux existants. Dans l'accomplissement de ses tâches de gestion et d'organisation, l'inspecteur de l'enseignement fondamental peut être assisté par un instituteur, détaché au ministère de l'Éducation nationale à tâche complète ou partielle par le ministre pour un mandat renouvelable d'une année.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -148,15 +148,15 @@ Entre l'article 14 et l'article 15 de la même loi sont insérés les articles 1
 
 La réserve de suppléants des éducateurs gradués et éducateurs peut comprendre:
 
-1. des éducateurs gradués et des éducateurs engagés sous le statut du fonctionnaire de l'État;
+- des éducateurs gradués et des éducateurs engagés sous le statut du fonctionnaire de l'État;
 
-2. des éducateurs gradués engagés à durée indéterminée et à tâche complète ou partielle sous le régime de l'employé de l'État, détenteurs soit d'un diplôme luxembourgeois de bachelor en sciences sociales et éducatives, soit d'un diplôme luxembourgeois d'éducateur gradué, soit d'un diplôme, certificat ou titre étranger reconnu équivalent par le membre du Gouvernement ayant l'enseignement supérieur dans ses attributions;
+- des éducateurs gradués engagés à durée indéterminée et à tâche complète ou partielle sous le régime de l'employé de l'État, détenteurs soit d'un diplôme luxembourgeois de bachelor en sciences sociales et éducatives, soit d'un diplôme luxembourgeois d'éducateur gradué, soit d'un diplôme, certificat ou titre étranger reconnu équivalent par le membre du Gouvernement ayant l'enseignement supérieur dans ses attributions;
 
-3. des éducateurs engagés à durée indéterminée et à tâche complète ou partielle sous le régime de l'employé de l'État, détenteurs d'un diplôme luxembourgeois d'éducateur ou d'un diplôme, certificat ou titre étranger reconnu équivalent par le ministre;
+- des éducateurs engagés à durée indéterminée et à tâche complète ou partielle sous le régime de l'employé de l'État, détenteurs d'un diplôme luxembourgeois d'éducateur ou d'un diplôme, certificat ou titre étranger reconnu équivalent par le ministre;
 
-4. des éducateurs gradués engagés à durée déterminée et à tâche complète ou partielle sous le régime de l'employé de l'État, détenteurs soit d'un diplôme luxembourgeois de bachelor en sciences sociales et éducatives, soit d'un diplôme luxembourgeois d'éducateur gradué, soit d'un diplôme, certificat ou titre étranger reconnu équivalent par le membre du Gouvernement ayant l'enseignement supérieur dans ses attributions;
+- des éducateurs gradués engagés à durée déterminée et à tâche complète ou partielle sous le régime de l'employé de l'État, détenteurs soit d'un diplôme luxembourgeois de bachelor en sciences sociales et éducatives, soit d'un diplôme luxembourgeois d'éducateur gradué, soit d'un diplôme, certificat ou titre étranger reconnu équivalent par le membre du Gouvernement ayant l'enseignement supérieur dans ses attributions;
 
-5. des éducateurs engagés à durée déterminée et à tâche complète ou partielle sous le régime de l'employé de l'État, détenteurs d'un diplôme luxembourgeois d'éducateur ou d'un diplôme, certificat ou titre étranger reconnu équivalent par le ministre. Le ministre affecte les membres de cette réserve à un bureau régional de l'inspection de l'enseignement fondamental ou bien à un arrondissement d'inspection de l'enseignement fondamental. L'inspecteur d'arrondissement concerné les charge soit de remplacer temporairement un éducateur gradué ou un éducateur absent, soit d'occuper temporairement un poste d'éducateur gradué ou d'éducateur resté vacant. Pendant les périodes où les membres de cette réserve n'assurent aucune ou seulement une tâche partielle, ils sont chargés d'assurer des tâches administratives ou autres dans l'intérêt de l'enseignement par l'inspecteur d'arrondissement concerné. Les modalités d'affectation et de réaffectation des membres de cette réserve sont déterminées par règlement grand-ducal.
+- des éducateurs engagés à durée déterminée et à tâche complète ou partielle sous le régime de l'employé de l'État, détenteurs d'un diplôme luxembourgeois d'éducateur ou d'un diplôme, certificat ou titre étranger reconnu équivalent par le ministre. Le ministre affecte les membres de cette réserve à un bureau régional de l'inspection de l'enseignement fondamental ou bien à un arrondissement d'inspection de l'enseignement fondamental. L'inspecteur d'arrondissement concerné les charge soit de remplacer temporairement un éducateur gradué ou un éducateur absent, soit d'occuper temporairement un poste d'éducateur gradué ou d'éducateur resté vacant. Pendant les périodes où les membres de cette réserve n'assurent aucune ou seulement une tâche partielle, ils sont chargés d'assurer des tâches administratives ou autres dans l'intérêt de l'enseignement par l'inspecteur d'arrondissement concerné. Les modalités d'affectation et de réaffectation des membres de cette réserve sont déterminées par règlement grand-ducal.
 
 <a id="art-14quater"></a>
 ## Art. 14quater.
@@ -257,20 +257,20 @@ Entre les articles 45 et 46 de la même loi, il est inséré un article 45bis do
 
 La loi modifiée du 16 août 1968 portant création d'un centre de logopédie et de services audiométrique et orthophonique est modifiée comme suit:
 
-1. Aux articles 4 et 18, les termes «inspecteur de l'enseignement primaire du ressort» sont remplacés par ceux de «inspecteur d'arrondissement de l'enseignement fondamental».
+- Aux articles 4 et 18, les termes «inspecteur de l'enseignement primaire du ressort» sont remplacés par ceux de «inspecteur d'arrondissement de l'enseignement fondamental».
 
-2. À l'article 8, les termes «inspecteur de l'enseignement primaire» sont remplacés par les termes «inspecteur de l'enseignement fondamental».
+- À l'article 8, les termes «inspecteur de l'enseignement primaire» sont remplacés par les termes «inspecteur de l'enseignement fondamental».
 
-3. À l'article 25, les termes «inspecteur principal de l'enseignement primaire» sont remplacés par ceux de «président du collège des inspecteurs».
+- À l'article 25, les termes «inspecteur principal de l'enseignement primaire» sont remplacés par ceux de «président du collège des inspecteurs».
 
 <a id="art-38"></a>
 ## Art. 38.
 
 La loi modifiée du 14 mars 1973 portant création d'instituts et de services d'éducation différenciée est modifiée comme suit:
 
-1. À l'article 3, à l'alinéa énumérant les membres de la commission médico-psycho-pédagogique nationale, les termes «inspecteur principal de l'enseignement primaire» sont remplacés par ceux de «deux inspecteurs de l'enseignement fondamental», les termes «inspecteur du ressort» sont remplacés par ceux de «inspecteur d'arrondissement».
+- À l'article 3, à l'alinéa énumérant les membres de la commission médico-psycho-pédagogique nationale, les termes «inspecteur principal de l'enseignement primaire» sont remplacés par ceux de «deux inspecteurs de l'enseignement fondamental», les termes «inspecteur du ressort» sont remplacés par ceux de «inspecteur d'arrondissement».
 
-2. À l'article 19, section II, points 1.a) et 1.b), les termes «inspecteur de l'enseignement primaire» sont remplacés par les termes «inspecteur de l'enseignement fondamental».
+- À l'article 19, section II, points 1.a) et 1.b), les termes «inspecteur de l'enseignement primaire» sont remplacés par les termes «inspecteur de l'enseignement fondamental».
 
 <a id="art-39"></a>
 ## Art. 39.
@@ -292,11 +292,11 @@ L'article 1er, alinéa 2, de la loi du 9 décembre 2005 déterminant les conditi
 
 La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'État est modifiée comme suit:
 
-1. À l'article 22, section VIII, point b), les termes «inspecteur général de l'enseignement primaire» sont remplacés par ceux de «inspecteur de l'enseignement fondamental en charge d'un arrondissement, inspecteur de l'enseignement primaire en charge d'un arrondissement, inspecteur-attaché».
+- À l'article 22, section VIII, point b), les termes «inspecteur général de l'enseignement primaire» sont remplacés par ceux de «inspecteur de l'enseignement fondamental en charge d'un arrondissement, inspecteur de l'enseignement primaire en charge d'un arrondissement, inspecteur-attaché».
 
-2. À l'annexe A, rubrique IV, grade E8, la fonction d'inspecteur général est supprimée.
+- À l'annexe A, rubrique IV, grade E8, la fonction d'inspecteur général est supprimée.
 
-3. À l'annexe D, rubrique IV, grade E8, la fonction d'inspecteur général est supprimée.
+- À l'annexe D, rubrique IV, grade E8, la fonction d'inspecteur général est supprimée.
 
 <a id="art-43"></a>
 ## Art. 43.
@@ -341,9 +341,9 @@ Par dérogation à l'article 35 de la loi modifiée du 6 février 2009 concernan
 
 Le Gouvernement est autorisé à procéder pour l'année scolaire 2013/2014 aux engagements de renforcement à titre permanent suivants:
 
-1. dix agents de la carrière de l'éducateur;
+- dix agents de la carrière de l'éducateur;
 
-2. deux agents des carrières moyennes de l'État sous le statut de fonctionnaire ou d'employé de l'État.
+- deux agents des carrières moyennes de l'État sous le statut de fonctionnaire ou d'employé de l'État.
 
 (2)
 

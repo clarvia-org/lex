@@ -39,21 +39,21 @@ Définitions.
 
 Aux fins du présent règlement on entend par:
 
-1. «cellules reproductrices»: tous les tissus et cellules destinés à être utilisés à des fins de procréation assistée;
+- «cellules reproductrices»: tous les tissus et cellules destinés à être utilisés à des fins de procréation assistée;
 
-2. «don entre partenaires»: un don de cellules reproductrices entre un homme et une femme qui déclarent entretenir une relation physique intime;
+- «don entre partenaires»: un don de cellules reproductrices entre un homme et une femme qui déclarent entretenir une relation physique intime;
 
-3. «usage direct»: toute procédure en vertu de laquelle les cellules sont données et utilisées sans passer par une banque;
+- «usage direct»: toute procédure en vertu de laquelle les cellules sont données et utilisées sans passer par une banque;
 
-4. «système de qualité»: la structure organisationnelle, les responsabilités, procédures, processus et ressources définis pour la mise en oeuvre de la gestion de la qualité et incluant toutes les activités contribuant à la qualité, directement ou indirectement;
+- «système de qualité»: la structure organisationnelle, les responsabilités, procédures, processus et ressources définis pour la mise en oeuvre de la gestion de la qualité et incluant toutes les activités contribuant à la qualité, directement ou indirectement;
 
-5. «modes opératoires normalisés (MON)»: instructions écrites décrivant les étapes d’un processus spécifique, y compris le matériel et les méthodes utilisés et le produit final attendu;
+- «modes opératoires normalisés (MON)»: instructions écrites décrivant les étapes d’un processus spécifique, y compris le matériel et les méthodes utilisés et le produit final attendu;
 
-6. «validation» (ou «homologation» pour l’équipement ou l’environnement): apporter la preuve, documents à l’appui, qu’un processus, des MON, un équipement ou un environnement spécifiques permettront, avec un degré de certitude élevé, de fabriquer invariablement un produit conforme à ses spécifications et qualités déterminées au préalable; un processus est validé pour évaluer le fonctionnement d’un système sur la base de son efficacité par rapport à son utilisation prévue;
+- «validation» (ou «homologation» pour l’équipement ou l’environnement): apporter la preuve, documents à l’appui, qu’un processus, des MON, un équipement ou un environnement spécifiques permettront, avec un degré de certitude élevé, de fabriquer invariablement un produit conforme à ses spécifications et qualités déterminées au préalable; un processus est validé pour évaluer le fonctionnement d’un système sur la base de son efficacité par rapport à son utilisation prévue;
 
-7. «traçabilité»: capacité de localiser et d’identifier le tissu/la cellule à toutes les étapes du processus, depuis l’obtention jusqu’à la distribution au receveur ou la destruction, en passant par la transformation, le contrôle et le stockage; cela implique la capacité d’identifier le donneur et l’établissement de tissus ou l’installation de production qui reçoivent, transforment ou stockent les tissus/cellules, et la capacité d’identifier le(s) receveur(s) dans le ou les service(s) de soins transplantant les tissus/cellules à ce(s) dernier(s); la traçabilité couvre également la capacité de localiser et d’identifier toutes les données pertinentes concernant des produits et des matériaux entrant en contact avec ces tissus/cellules;
+- «traçabilité»: capacité de localiser et d’identifier le tissu/la cellule à toutes les étapes du processus, depuis l’obtention jusqu’à la distribution au receveur ou la destruction, en passant par la transformation, le contrôle et le stockage; cela implique la capacité d’identifier le donneur et l’établissement de tissus ou l’installation de production qui reçoivent, transforment ou stockent les tissus/cellules, et la capacité d’identifier le(s) receveur(s) dans le ou les service(s) de soins transplantant les tissus/cellules à ce(s) dernier(s); la traçabilité couvre également la capacité de localiser et d’identifier toutes les données pertinentes concernant des produits et des matériaux entrant en contact avec ces tissus/cellules;
 
-8. «organisme d’obtention»: un établissement hospitalier ou un autre organisme qui intervient dans l’obtention de tissus et de cellules d’origine humaine et qui peut ne pas être agréé, désigné, autorisé ou titulaire d’une licence en tant qu’établissement de tissus.
+- «organisme d’obtention»: un établissement hospitalier ou un autre organisme qui intervient dans l’obtention de tissus et de cellules d’origine humaine et qui peut ne pas être agréé, désigné, autorisé ou titulaire d’une licence en tant qu’établissement de tissus.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -82,13 +82,13 @@ L’établissement de tissus ou l’organisme d’obtention doit avoir conclu un
 
 Des modes opératoires normalisés (MON) s’appliquent pour la vérification:
 
-1. de l’identité du donneur;
+- de l’identité du donneur;
 
-2. des renseignements relatifs au consentement ou à l’autorisation du donneur ou de sa famille;
+- des renseignements relatifs au consentement ou à l’autorisation du donneur ou de sa famille;
 
-3. de l’évaluation des critères de sélection des donneurs, décrits à l’article 4;
+- de l’évaluation des critères de sélection des donneurs, décrits à l’article 4;
 
-4. de l’évaluation des examens de laboratoire requis pour les donneurs, décrits à l’article 5.
+- de l’évaluation des examens de laboratoire requis pour les donneurs, décrits à l’article 5.
 
 Des modes opératoires normalisés doivent également être définis concernant les procédures d’obtention, de conditionnement, d’étiquetage et de transport des tissus et des cellules jusqu’à leur destination à l’établissement de tissus ou, en cas de distribution directe des tissus ou des cellules, à l’équipe clinique chargée de leur utilisation, ou encore, dans le cas d’échantillons de tissus/cellules, au laboratoire chargé d’effectuer les analyses, conformément à l’article 6 de la présente directive.
 
@@ -127,9 +127,9 @@ Critères de sélection applicables aux donneurs de tissus et de cellules.
 
 Les donneurs doivent répondre aux critères de sélection établis à:
 
-1. l’annexe I pour les donneurs de tissus et de cellules autres que les donneurs de cellules reproductrices;
+- l’annexe I pour les donneurs de tissus et de cellules autres que les donneurs de cellules reproductrices;
 
-2. l’annexe III pour les donneurs de cellules reproductrices.
+- l’annexe III pour les donneurs de cellules reproductrices.
 
 <a id="art-5"></a>
 ## Art. 5.

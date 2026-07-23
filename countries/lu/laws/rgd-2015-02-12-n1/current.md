@@ -36,11 +36,11 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Aux fins du présent règlement grand-ducal, on entend par:
 
-1. «date de délivrance du passeport»: la date à laquelle le passeport a été personnalisé;
+- «date de délivrance du passeport»: la date à laquelle le passeport a été personnalisé;
 
-2. «personnalisation du passeport»: le processus par lequel les données personnelles sont introduites de manière physique et électronique dans le passeport ainsi que le contrôle de ces données et la validation du passeport;
+- «personnalisation du passeport»: le processus par lequel les données personnelles sont introduites de manière physique et électronique dans le passeport ainsi que le contrôle de ces données et la validation du passeport;
 
-3. «remise du passeport»: la transmission physique du passeport à son destinataire ou à son titulaire ou à la personne autorisée à récupérer le passeport en vertu du présent règlement grand-ducal.
+- «remise du passeport»: la transmission physique du passeport à son destinataire ou à son titulaire ou à la personne autorisée à récupérer le passeport en vertu du présent règlement grand-ducal.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -66,15 +66,15 @@ Le passeport biométrique comporte trente-deux (32) pages.
 
 Est incorporée dans le passeport une puce électronique stockant:
 
-1. l’image faciale du titulaire,
+- l’image faciale du titulaire,
 
-2. la signature du titulaire,
+- la signature du titulaire,
 
-3. les empreintes digitales du titulaire,
+- les empreintes digitales du titulaire,
 
-4. les données alphanumériques du titulaire ,
+- les données alphanumériques du titulaire ,
 
-5. l’autorité et la date de délivrance du passeport.
+- l’autorité et la date de délivrance du passeport.
 
 ##### Section II. - Conditions de remise et durée de validité du passeport
 

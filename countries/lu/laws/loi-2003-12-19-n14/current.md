@@ -161,6 +161,8 @@ Le Centre est affranchi de tous impôts et taxes au profit de l’Etat et des co
 
 Les dons en espèces faits au Centre sont déductibles comme dépenses spéciales conformément à l’article 109 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu. A cet effet, l’article 112 alinéa 1er, numéro 1 de la loi précitée est complété par l’ajout des termes «au Centre national de rééducation fonctionnelle et de réadaptation».
 
+Dispositions transitoires
+
 <a id="art-11"></a>
 ## Art. 11.
 
@@ -169,6 +171,8 @@ Les employés et ouvriers en service auprès des Hospices Civils de la Ville de 
 S’ils n’ont pas fait connaître leur option endéans ledit délai par lettre recommandée au président du conseil d’administration, ils sont censés avoir opté pour leur statut actuel. Ils conservent les emplois et fonctions ainsi que les modalités fixés dans leur contrat originaire.
 
 L’établissement public rembourse aux Hospices Civils de la Ville de Luxembourg les traitements, indemnités, salaires et charges sociales patronales des agents publics communaux ayant opté pour leur statut actuel.
+
+Dispositions finales
 
 <a id="art-12"></a>
 ## Art. 12.

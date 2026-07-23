@@ -78,17 +78,17 @@ Les dispenses et réductions de stage sont accordées par le Ministre du ressort
 
 Le stage se termine par un examen d’admission définitive qui comporte des épreuves écrites et des épreuves pratiques. Il porte sur les matières suivantes:
 
-1. dictée en langue française ou allemande;
+- dictée en langue française ou allemande;
 
-2. notions élémentaires sur le statut général des fonctionnaires de l’Etat;
+- notions élémentaires sur le statut général des fonctionnaires de l’Etat;
 
-3. notions approfondies sur le contrat collectif des ouvriers de l’Etat;
+- notions approfondies sur le contrat collectif des ouvriers de l’Etat;
 
-4. surveillance des bâtiments;
+- surveillance des bâtiments;
 
-5. sécurité dans les administrations;
+- sécurité dans les administrations;
 
-6. organisation du travail des garçons de bureau et du personnel de charge.
+- organisation du travail des garçons de bureau et du personnel de charge.
 
 #### B. Promotions
 
@@ -97,13 +97,13 @@ Le stage se termine par un examen d’admission définitive qui comporte des ép
 
 L’examen de promotion requis pour l’accès aux fonctions supérieures à celles de concierge par l’article 17, section VII de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat porte sur les matières suivantes:
 
-1. rédaction d’un rapport de service en langue allemande ou française;
+- rédaction d’un rapport de service en langue allemande ou française;
 
-2. mesures préventives contre les accidents;
+- mesures préventives contre les accidents;
 
-3. notions sur le statut des fonctionnaires de l’Etat;
+- notions sur le statut des fonctionnaires de l’Etat;
 
-4. exécution d’un travail pratique.
+- exécution d’un travail pratique.
 
 <a id="art-12"></a>
 ## Art. 12.

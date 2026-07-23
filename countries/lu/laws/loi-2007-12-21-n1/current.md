@@ -46,13 +46,13 @@ Toute discrimination directe ou indirecte fondée sur le sexe, y compris un trai
 
 Aux fins des paragraphes (1) et (3), on entend par:
 
-1. «discrimination directe»: la situation dans laquelle une personne est traitée de manière moins favorable en raison de son sexe qu’une autre ne l’est, ne l’a été ou ne le serait dans une situation comparable;
+- «discrimination directe»: la situation dans laquelle une personne est traitée de manière moins favorable en raison de son sexe qu’une autre ne l’est, ne l’a été ou ne le serait dans une situation comparable;
 
-2. «discrimination indirecte»: la situation dans laquelle une disposition, un critère ou une pratique apparemment neutre désavantagerait particulièrement des personnes d’un sexe par rapport à des personnes de l’autre sexe, à moins que cette disposition, ce critère ou cette pratique ne soit objectivement justifié par un but légitime et que les moyens pour parvenir à ce but ne soient appropriés et nécessaires;
+- «discrimination indirecte»: la situation dans laquelle une disposition, un critère ou une pratique apparemment neutre désavantagerait particulièrement des personnes d’un sexe par rapport à des personnes de l’autre sexe, à moins que cette disposition, ce critère ou cette pratique ne soit objectivement justifié par un but légitime et que les moyens pour parvenir à ce but ne soient appropriés et nécessaires;
 
-3. «harcèlement»: la situation dans laquelle un comportement non désiré lié au sexe d’une personne survient avec pour objet ou pour effet de porter atteinte à la dignité d’une personne et de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant;
+- «harcèlement»: la situation dans laquelle un comportement non désiré lié au sexe d’une personne survient avec pour objet ou pour effet de porter atteinte à la dignité d’une personne et de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant;
 
-4. «harcèlement sexuel»: la situation dans laquelle un comportement non désiré à connotation sexuelle, s’exprimant physiquement, verbalement ou non verbalement, survient avec pour objet ou pour effet de porter atteinte à la dignité d’une personne et, en particulier, de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant.
+- «harcèlement sexuel»: la situation dans laquelle un comportement non désiré à connotation sexuelle, s’exprimant physiquement, verbalement ou non verbalement, survient avec pour objet ou pour effet de porter atteinte à la dignité d’une personne et, en particulier, de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant.
 
 (3)
 
@@ -204,15 +204,15 @@ Aux fins du paragraphe (1) on entend par parties prenantes:
 
 Le Centre pour l’égalité de traitement visé au chapitre 3 de la loi du 28 novembre 2006 portant
 
-1. transposition de la directive 2000/43/CE du Conseil du 29 juin 2000 relative à la mise en œuvre du principe de l’égalité de traitement entre les personnes sans distinction de race ou d’origine ethnique;
+- transposition de la directive 2000/43/CE du Conseil du 29 juin 2000 relative à la mise en œuvre du principe de l’égalité de traitement entre les personnes sans distinction de race ou d’origine ethnique;
 
-2. transposition de la directive 2000/78/CE du Conseil du 27 novembre 2000 portant création d’un cadre général en faveur de l’égalité de traitement en matière d’emploi et de travail;
+- transposition de la directive 2000/78/CE du Conseil du 27 novembre 2000 portant création d’un cadre général en faveur de l’égalité de traitement en matière d’emploi et de travail;
 
-3. modification du Code du travail et portant introduction dans le livre II d’un nouveau titre V relatif à l’égalité de traitement en matière d’emploi et de travail;
+- modification du Code du travail et portant introduction dans le livre II d’un nouveau titre V relatif à l’égalité de traitement en matière d’emploi et de travail;
 
-4. modification des articles 454 et 455 du Code pénal ;
+- modification des articles 454 et 455 du Code pénal ;
 
-5. modification de la loi du 12 septembre 2003 relative aux personnes handicapées;
+- modification de la loi du 12 septembre 2003 relative aux personnes handicapées;
 
 tient lieu d’organisme chargé de la promotion de l’égalité de traitement entre les femmes et les hommes ayant pour objet entre autres, de promouvoir, d’analyser et de surveiller l’égalité de traitement entre toutes les personnes sans discrimination fondée sur le sexe, notamment dans les domaines de l’accès à des biens et services et de la fourniture de biens et services.
 
@@ -223,18 +223,35 @@ tient lieu d’organisme chargé de la promotion de l’égalité de traitement 
 
 L’article 455 du Code pénal est modifié comme suit:
 
-1. Au paragraphe 1) de l’article 455 du Code pénal sont insérés après les termes la fourniture ou la jouissance d’un bien les termes et/ou l’accès à un bien
+- Au paragraphe 1) de l’article 455 du Code pénal sont insérés après les termes la fourniture ou la jouissance d’un bien les termes et/ou l’accès à un bien
 
-2. Au paragraphe 2) de l’article 455 du Code pénal sont insérés après les termes la fourniture d’un service les termes et/ou l’accès à un service
+- Au paragraphe 2) de l’article 455 du Code pénal sont insérés après les termes la fourniture d’un service les termes et/ou l’accès à un service
 
-3. Au paragraphe 3) de l’article 455 du Code pénal sont ajoutés après les termes la fourniture d’un bien ou d’un service les termes et/ou l’accès à un bien ou à un service .
+- Au paragraphe 3) de l’article 455 du Code pénal sont ajoutés après les termes la fourniture d’un bien ou d’un service les termes et/ou l’accès à un bien ou à un service .
 
 <a id="art-14"></a>
 ## Art. 14.
 
 La loi modifiée du 27 juillet 1997 sur le contrat d’assurance est modifiée comme suit:
 
-Il est ajouté à la suite de l’article 15 un article 15-1 de la teneur suivante: Art. 15-1. Egalité de traitement entre les femmes et les hommes (1) Dans tous les nouveaux contrats d’assurance conclus après le 20 décembre 2007, le sexe ne peut pas être utilisé comme facteur de différenciation dans le calcul des primes et des prestations d’assurances. (2) Des différences proportionnelles en matière de primes et de prestations sont toutefois autorisées, lorsque le sexe est un facteur déterminant dans l’évaluation des risques, sur la base de données actuarielles et statistiques pertinentes et précises. (3) Pour les contrats conclus après le 20 décembre 2009, les frais liés à la grossesse et à la maternité ne peuvent en aucun cas entraîner de différences en matière de primes et de prestations d’assurances.
+Il est ajouté à la suite de l’article 15 un article 15-1 de la teneur suivante:
+
+<a id="art-15-1"></a>
+## Art. 15-1.
+
+Egalité de traitement entre les femmes et les hommes
+
+(1)
+
+Dans tous les nouveaux contrats d’assurance conclus après le 20 décembre 2007, le sexe ne peut pas être utilisé comme facteur de différenciation dans le calcul des primes et des prestations d’assurances.
+
+(2)
+
+Des différences proportionnelles en matière de primes et de prestations sont toutefois autorisées, lorsque le sexe est un facteur déterminant dans l’évaluation des risques, sur la base de données actuarielles et statistiques pertinentes et précises.
+
+(3)
+
+Pour les contrats conclus après le 20 décembre 2009, les frais liés à la grossesse et à la maternité ne peuvent en aucun cas entraîner de différences en matière de primes et de prestations d’assurances.
 
 #### Chapitre 5 Dispositions finales
 

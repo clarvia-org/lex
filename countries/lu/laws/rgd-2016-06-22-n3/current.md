@@ -35,11 +35,11 @@ Objet et champ d'application
 
 Le présent règlement précise les modalités du contrôle d'étanchéité des équipements suivants, dénommés par la suite «équipement»:
 
-1. les équipements fixes de climatisation, de réfrigération et les pompes à chaleur fixes ayant une charge en fluide réfrigérant HCFC ou CFC supérieure à 3 kg, à l'exception des équipements comportant des systèmes hermétiquement scellés étiquetés comme tels et contenant moins de 6 kg de fluide;
+- les équipements fixes de climatisation, de réfrigération et les pompes à chaleur fixes ayant une charge en fluide réfrigérant HCFC ou CFC supérieure à 3 kg, à l'exception des équipements comportant des systèmes hermétiquement scellés étiquetés comme tels et contenant moins de 6 kg de fluide;
 
-2. les équipements fixes de climatisation, de réfrigération, les pompes à chaleur fixes et les cycles organiques de Rankine ayant une charge en fluide réfrigérant HFC supérieure ou égale à 5 tonnes équivalent CO 2 , à l'exception des équipements comportant des systèmes hermétiquement scellés étiquetés comme tels et contenant des fluides réfrigérants de moins de 10 tonnes équivalents CO 2 ;
+- les équipements fixes de climatisation, de réfrigération, les pompes à chaleur fixes et les cycles organiques de Rankine ayant une charge en fluide réfrigérant HFC supérieure ou égale à 5 tonnes équivalent CO 2 , à l'exception des équipements comportant des systèmes hermétiquement scellés étiquetés comme tels et contenant des fluides réfrigérants de moins de 10 tonnes équivalents CO 2 ;
 
-3. les unités de réfrigération des camions et remorques frigorifiques ayant une charge en fluide réfrigérant HFC supérieure ou égale à 5 tonnes équivalent CO 2 , à l'exception des équipements comportant des systèmes hermétiquement scellés étiquetés comme tels et contenant des fluides réfrigérants de moins de 10 tonnes équivalents CO 2 .
+- les unités de réfrigération des camions et remorques frigorifiques ayant une charge en fluide réfrigérant HFC supérieure ou égale à 5 tonnes équivalent CO 2 , à l'exception des équipements comportant des systèmes hermétiquement scellés étiquetés comme tels et contenant des fluides réfrigérants de moins de 10 tonnes équivalents CO 2 .
 
 (2)
 
@@ -52,33 +52,33 @@ Définitions
 
 Au sens du présent règlement, on entend par:
 
-1. transformation importante: le changement du type de fluide réfrigérant ou de la quantité de fluide réfrigérant ou, dans le cas d'un équipement fixe, le transfert de l'équipement;
+- transformation importante: le changement du type de fluide réfrigérant ou de la quantité de fluide réfrigérant ou, dans le cas d'un équipement fixe, le transfert de l'équipement;
 
-2. CFC: les chlorofluorocarbures;
+- CFC: les chlorofluorocarbures;
 
-3. HCFC: les hydrochlorofluorocarbures;
+- HCFC: les hydrochlorofluorocarbures;
 
-4. HFC: les hydrofluorocarbures;
+- HFC: les hydrofluorocarbures;
 
-5. bâtiment: une construction dotée d'un toit et de murs, dans laquelle de l'énergie est utilisée pour régler le climat intérieur;
+- bâtiment: une construction dotée d'un toit et de murs, dans laquelle de l'énergie est utilisée pour régler le climat intérieur;
 
-6. système de climatisation: une combinaison de composantes nécessaires pour assurer une forme de traitement de l'air intérieur, par laquelle la température est contrôlée ou peut être abaissée;
+- système de climatisation: une combinaison de composantes nécessaires pour assurer une forme de traitement de l'air intérieur, par laquelle la température est contrôlée ou peut être abaissée;
 
-7. puissance nominale utile: la puissance calorifique maximale, exprimée en kW, fixée et garantie par le constructeur comme pouvant être fournie en marche continue tout en respectant les rendements utiles annoncées par le constructeur;
+- puissance nominale utile: la puissance calorifique maximale, exprimée en kW, fixée et garantie par le constructeur comme pouvant être fournie en marche continue tout en respectant les rendements utiles annoncées par le constructeur;
 
-8. exploitant: le propriétaire ou le locataire d'un bâtiment dans lequel sont utilisés les équipements de climatisation dont question à l'article 1 er ;
+- exploitant: le propriétaire ou le locataire d'un bâtiment dans lequel sont utilisés les équipements de climatisation dont question à l'article 1 er ;
 
-9. pompe à chaleur: une machine, un dispositif ou une installation qui transfère de la chaleur du milieu naturel environnant, comme l'air, l'eau ou le sol, vers des bâtiments ou des applications industrielles en renversant le flux naturel de chaleur de façon qu'il aille d'une température plus basse vers une température plus élevée. Dans le cas de pompes à chaleur réversibles, le transfert de la chaleur peut aussi se faire du bâtiment vers le milieu naturel ;
+- pompe à chaleur: une machine, un dispositif ou une installation qui transfère de la chaleur du milieu naturel environnant, comme l'air, l'eau ou le sol, vers des bâtiments ou des applications industrielles en renversant le flux naturel de chaleur de façon qu'il aille d'une température plus basse vers une température plus élevée. Dans le cas de pompes à chaleur réversibles, le transfert de la chaleur peut aussi se faire du bâtiment vers le milieu naturel ;
 
-10. contrat de performance énergétique : un accord contractuel entre le bénéficiaire et le fournisseur d’une mesure visant à améliorer l’efficacité énergétique, vérifiée et surveillée pendant toute la durée du contrat, aux termes duquel les investissements (travaux, fournitures ou services) dans cette mesure sont rémunérés en fonction d’un niveau d’amélioration de l’efficacité énergétique qui est contractuellement défini ou d’un autre critère de performance énergétique convenu, tel que des économies financières ;
+- contrat de performance énergétique : un accord contractuel entre le bénéficiaire et le fournisseur d’une mesure visant à améliorer l’efficacité énergétique, vérifiée et surveillée pendant toute la durée du contrat, aux termes duquel les investissements (travaux, fournitures ou services) dans cette mesure sont rémunérés en fonction d’un niveau d’amélioration de l’efficacité énergétique qui est contractuellement défini ou d’un autre critère de performance énergétique convenu, tel que des économies financières ;
 
-11. amélioration de l’efficacité énergétique : un accroissement de l’efficacité énergétique à la suite de modifications d’ordre technologique, comportemental et/ou économique ;
+- amélioration de l’efficacité énergétique : un accroissement de l’efficacité énergétique à la suite de modifications d’ordre technologique, comportemental et/ou économique ;
 
-12. efficacité énergétique : le rapport entre les résultats, le service, la marchandise ou l’énergie que l’on obtient et l’énergie consacrée à cet effet ;
+- efficacité énergétique : le rapport entre les résultats, le service, la marchandise ou l’énergie que l’on obtient et l’énergie consacrée à cet effet ;
 
-13. système d’automatisation et de contrôle des bâtiments : un système comprenant tous les produits, logiciels et services d’ingénierie à même de soutenir le fonctionnement efficace sur le plan énergétique, économique et sûr des systèmes techniques de bâtiment au moyen de commandes automatiques et en facilitant la gestion manuelle de ces systèmes techniques de bâtiment ;
+- système d’automatisation et de contrôle des bâtiments : un système comprenant tous les produits, logiciels et services d’ingénierie à même de soutenir le fonctionnement efficace sur le plan énergétique, économique et sûr des systèmes techniques de bâtiment au moyen de commandes automatiques et en facilitant la gestion manuelle de ces systèmes techniques de bâtiment ;
 
-14. système technique de bâtiment : un équipement technique de chauffage des locaux, de refroidissement des locaux, de ventilation, de production d’eau chaude sanitaire, d’éclairage intégré, d’automatisation et de contrôle des bâtiments, de production d’électricité sur site d’un bâtiment ou d’une unité de bâtiment, ou combinant plusieurs de ces systèmes, y compris les systèmes utilisant une énergie produite à partir de sources renouvelables.
+- système technique de bâtiment : un équipement technique de chauffage des locaux, de refroidissement des locaux, de ventilation, de production d’eau chaude sanitaire, d’éclairage intégré, d’automatisation et de contrôle des bâtiments, de production d’électricité sur site d’un bâtiment ou d’une unité de bâtiment, ou combinant plusieurs de ces systèmes, y compris les systèmes utilisant une énergie produite à partir de sources renouvelables.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -87,9 +87,9 @@ Fuites
 
 Les fuites de fluides réfrigérants ne doivent pas dépasser au cours d'une année les pourcentages de la charge à la mise en service de l'équipement suivants:
 
-1. 5 pour cent dans le cas des équipements fixes;
+- 5 pour cent dans le cas des équipements fixes;
 
-2. 15 pour cent dans le cas des unités de réfrigération des camions et remorques frigorifiques.
+- 15 pour cent dans le cas des unités de réfrigération des camions et remorques frigorifiques.
 
 Les fuites sont établies sur base de la quantité rechargée au cours de l'année précédant le contrôle d'étanchéité dont question à l'article 5, y compris la quantité rechargée lors du contrôle.
 
@@ -114,13 +114,13 @@ La réception est effectuée dans un délai maximal de trois mois à compter de 
 
 Lors de la réception, les agents vérifient:
 
-1. la présence du registre auprès de l'équipement;
+- la présence du registre auprès de l'équipement;
 
-2. l'indication de la charge de l'équipement;
+- l'indication de la charge de l'équipement;
 
-3. l'exécution d'un contrôle d'étanchéité immédiatement après la mise en service de l'installation et, le cas échéant, l'indication de la cause des fuites et des travaux de réparation des fuites;
+- l'exécution d'un contrôle d'étanchéité immédiatement après la mise en service de l'installation et, le cas échéant, l'indication de la cause des fuites et des travaux de réparation des fuites;
 
-4. l'absence d'une fuite manifeste.
+- l'absence d'une fuite manifeste.
 
 (5)
 
@@ -182,9 +182,9 @@ Cette inspection doit comprendre une évaluation du rendement de la climatisatio
 
 L'inspection est réalisée par:
 
-1. une personne physique indépendante qui est titulaire d'une certification ou;
+- une personne physique indépendante qui est titulaire d'une certification ou;
 
-2. du personnel certifié employé auprès d'une personne morale indépendante qui est elle-même titulaire d'une certification.
+- du personnel certifié employé auprès d'une personne morale indépendante qui est elle-même titulaire d'une certification.
 
 (4)
 
@@ -206,11 +206,11 @@ Pour les systèmes de climatisation tombant sous le champ d’application défin
 
 Sont également exemptées de l’obligation de contrôle du rendement de la climatisation dans le cadre des inspections régulières prévues au présent article, les systèmes de climatisation tombant sous le champ d’application défini par l’article 1er, paragraphe 2 et ayant une puissance nominale utile supérieure à 70 kW installés dans des bâtiments équipés d’un système d’automatisation et de contrôle du bâtiment capable :
 
-1. de suivre, d’enregistrer et d’analyser en continu la consommation énergétique et de permettre de l’ajuster en continu ;
+- de suivre, d’enregistrer et d’analyser en continu la consommation énergétique et de permettre de l’ajuster en continu ;
 
-2. de situer l’efficacité énergétique du bâtiment par rapport à des valeurs de référence, de détecter les pertes d’efficacité des systèmes techniques de bâtiment et d’informer la personne responsable des installations ou de la gérance technique du bâtiment des possibilités d’amélioration de l’efficacité énergétique ;
+- de situer l’efficacité énergétique du bâtiment par rapport à des valeurs de référence, de détecter les pertes d’efficacité des systèmes techniques de bâtiment et d’informer la personne responsable des installations ou de la gérance technique du bâtiment des possibilités d’amélioration de l’efficacité énergétique ;
 
-3. de permettre la communication avec les systèmes techniques de bâtiment connectés et d’autres appareils à l’intérieur du bâtiment, et d’être interopérables avec des systèmes techniques de bâtiment impliquant différents types de technologies brevetées, de dispositifs et de fabricants.
+- de permettre la communication avec les systèmes techniques de bâtiment connectés et d’autres appareils à l’intérieur du bâtiment, et d’être interopérables avec des systèmes techniques de bâtiment impliquant différents types de technologies brevetées, de dispositifs et de fabricants.
 
 <a id="art-7"></a>
 ## Art. 7.

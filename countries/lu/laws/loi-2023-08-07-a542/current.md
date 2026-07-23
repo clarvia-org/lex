@@ -47,25 +47,25 @@ Les personnes physiques, dont les ressources sont insuffisantes, ont droit à un
 
 Aux fins de la présente loi, on entend par :
 
-1. « assistance judiciaire » : l’assistance judiciaire totale et l’assistance judiciaire partielle ;
+- « assistance judiciaire » : l’assistance judiciaire totale et l’assistance judiciaire partielle ;
 
-2. « assistance judiciaire totale » : la prise en charge par l’État de l’indemnisation de l’avocat désigné par le bâtonnier ainsi que du remboursement des frais exposés ;
+- « assistance judiciaire totale » : la prise en charge par l’État de l’indemnisation de l’avocat désigné par le bâtonnier ainsi que du remboursement des frais exposés ;
 
-3. « assistance judiciaire partielle » : la prise en charge par l’État du remboursement des frais exposés ainsi que de l’indemnisation de l’avocat désigné par le bâtonnier, le tout à concurrence de cinquante pour cent ou bien à concurrence de vingt-cinq pour cent.
+- « assistance judiciaire partielle » : la prise en charge par l’État du remboursement des frais exposés ainsi que de l’indemnisation de l’avocat désigné par le bâtonnier, le tout à concurrence de cinquante pour cent ou bien à concurrence de vingt-cinq pour cent.
 
 (2)
 
 Les personnes visées au paragraphe 1er peuvent bénéficier de l’assistance judiciaire à condition qu’il s’agisse :
 
-1. de ressortissants luxembourgeois, ou ;
+- de ressortissants luxembourgeois, ou ;
 
-2. de ressortissants étrangers autorisés à s’établir au pays, ou ;
+- de ressortissants étrangers autorisés à s’établir au pays, ou ;
 
-3. de ressortissants d’un État membre de l’Union européenne, ou ;
+- de ressortissants d’un État membre de l’Union européenne, ou ;
 
-4. de ressortissants étrangers assimilés aux ressortissants luxembourgeois en matière d’assistance judiciaire par l’effet d’un traité international, ou ;
+- de ressortissants étrangers assimilés aux ressortissants luxembourgeois en matière d’assistance judiciaire par l’effet d’un traité international, ou ;
 
-5. de ressortissants de pays tiers en séjour irrégulier en vue du recouvrement des rémunérations dues en application de l’article L. 572-7 du Code du travail .
+- de ressortissants de pays tiers en séjour irrégulier en vue du recouvrement des rémunérations dues en application de l’article L. 572-7 du Code du travail .
 
 (3)
 
@@ -131,15 +131,15 @@ Afin de déterminer le pourcentage applicable au demandeur de l’assistance jud
 
 Dans les tableaux reproduits au paragraphe 4, les lettres « a », « b », « c », « d » et « e » correspondent aux valeurs forfaitaires suivantes :
 
-1. La lettre « a » correspond à un montant forfaitaire de base par adulte s’élevant à quatre-vingt-quinze euros et cinquante cents ;
+- La lettre « a » correspond à un montant forfaitaire de base par adulte s’élevant à quatre-vingt-quinze euros et cinquante cents ;
 
-2. La lettre « b » correspond à un montant forfaitaire de base s’élevant à vingt-neuf euros et soixante-cinq cents pour chaque enfant pour lequel un membre de la communauté domestique bénéficie des allocations familiales ;
+- La lettre « b » correspond à un montant forfaitaire de base s’élevant à vingt-neuf euros et soixante-cinq cents pour chaque enfant pour lequel un membre de la communauté domestique bénéficie des allocations familiales ;
 
-3. La lettre « c » correspond à un montant forfaitaire de base tel que défini à la lettre « b » majoré d’un montant de huit euros et soixante-seize cents pour chaque enfant vivant dans une communauté domestique composée d’un seul membre adulte et qui bénéficie des allocations familiales pour cet enfant ;
+- La lettre « c » correspond à un montant forfaitaire de base tel que défini à la lettre « b » majoré d’un montant de huit euros et soixante-seize cents pour chaque enfant vivant dans une communauté domestique composée d’un seul membre adulte et qui bénéficie des allocations familiales pour cet enfant ;
 
-4. La lettre « d » correspond à un montant couvrant les frais communs du ménage s’élevant à quatre-vingt-quinze euros et cinquante cents par communauté domestique ;
+- La lettre « d » correspond à un montant couvrant les frais communs du ménage s’élevant à quatre-vingt-quinze euros et cinquante cents par communauté domestique ;
 
-5. La lettre « e » correspond à un montant couvrant les frais communs du ménage majoré d’un montant de quatorze euros et trente-trois cents au cas où un ou plusieurs enfants font partie de la communauté domestique pour lesquels un membre adulte bénéficie des allocations familiales.
+- La lettre « e » correspond à un montant couvrant les frais communs du ménage majoré d’un montant de quatorze euros et trente-trois cents au cas où un ou plusieurs enfants font partie de la communauté domestique pour lesquels un membre adulte bénéficie des allocations familiales.
 
 Les montants visés aux lettres « a » à « e » correspondent au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et sont adaptés suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’État.
 
@@ -342,31 +342,31 @@ Pour bénéficier de l’assistance judiciaire, le requérant doit remplir et si
 
 La réponse au formulaire indique obligatoirement :
 
-1. les noms, prénoms, profession, lieu et date de naissance, numéro d’identification national, domicile, état civil, nationalité du requérant et, le cas échéant, de l’autre partie du litige. Une copie d’une pièce d’identité du requérant est à joindre ;
+- les noms, prénoms, profession, lieu et date de naissance, numéro d’identification national, domicile, état civil, nationalité du requérant et, le cas échéant, de l’autre partie du litige. Une copie d’une pièce d’identité du requérant est à joindre ;
 
-2. la nature du litige et l’exposé sommaire des faits ou, en cas de demande de consultation juridique, la nature du problème juridique, pièces justificatives à l’appui ;
+- la nature du litige et l’exposé sommaire des faits ou, en cas de demande de consultation juridique, la nature du problème juridique, pièces justificatives à l’appui ;
 
-3. les renseignements suivants sur la situation de famille du requérant :
+- les renseignements suivants sur la situation de famille du requérant :
 
-- les noms, prénoms, âge et profession du conjoint et des enfants ;
+  - les noms, prénoms, âge et profession du conjoint et des enfants ;
 
-- les noms, prénoms, âge et profession d’autres personnes vivant dans le cadre d’un foyer commun ;
+  - les noms, prénoms, âge et profession d’autres personnes vivant dans le cadre d’un foyer commun ;
 
-4. la situation de fortune du requérant et des personnes vivant avec lui en communauté domestique, hormis le cas visé à l’article 5, alinéa 1 er , deuxième phrase. Les éléments suivants sont à indiquer, pièces justificatives à l’appui :
+- la situation de fortune du requérant et des personnes vivant avec lui en communauté domestique, hormis le cas visé à l’article 5, alinéa 1 er , deuxième phrase. Les éléments suivants sont à indiquer, pièces justificatives à l’appui :
 
-- si la communauté domestique bénéficie du revenu d’inclusion sociale, le requérant doit joindre à sa demande un certificat justificatif délivré par le fonds national de solidarité comportant des détails de calcul pour l’évaluation du montant de l’allocation ;
+  - si la communauté domestique bénéficie du revenu d’inclusion sociale, le requérant doit joindre à sa demande un certificat justificatif délivré par le fonds national de solidarité comportant des détails de calcul pour l’évaluation du montant de l’allocation ;
 
-- les revenus mensuels bruts de toute nature perçus au cours des trois mois précédant la demande d’assistance judiciaire. Un certificat d’affiliation du Centre commun de la sécurité sociale est à joindre ;
+  - les revenus mensuels bruts de toute nature perçus au cours des trois mois précédant la demande d’assistance judiciaire. Un certificat d’affiliation du Centre commun de la sécurité sociale est à joindre ;
 
-- la fortune immobilière et mobilière au Grand-Duché de Luxembourg ou à l’étranger. Un certificat de propriété de l’Administration des contributions directes est à joindre ;
+  - la fortune immobilière et mobilière au Grand-Duché de Luxembourg ou à l’étranger. Un certificat de propriété de l’Administration des contributions directes est à joindre ;
 
-- le loyer ;
+  - le loyer ;
 
-5. le cas échéant, les nom et adresse de l’avocat et des officiers publics ou ministériels qui prêtent leurs concours au requérant ou qu’il entend choisir pour prêter leurs concours ;
+- le cas échéant, les nom et adresse de l’avocat et des officiers publics ou ministériels qui prêtent leurs concours au requérant ou qu’il entend choisir pour prêter leurs concours ;
 
-6. la déclaration que le requérant n’est pas en droit d’obtenir d’un tiers le remboursement des frais à couvrir par l’assistance judiciaire ;
+- la déclaration que le requérant n’est pas en droit d’obtenir d’un tiers le remboursement des frais à couvrir par l’assistance judiciaire ;
 
-7. le cas échéant, tous renseignements et pièces justificatives de nature à établir un cas de rigueur susceptible de relever le requérant d’une exclusion du bénéfice de l’assistance judiciaire.
+- le cas échéant, tous renseignements et pièces justificatives de nature à établir un cas de rigueur susceptible de relever le requérant d’une exclusion du bénéfice de l’assistance judiciaire.
 
 Le bâtonnier ou l’un de ses délégués peut entendre le requérant en ses explications.
 
@@ -463,29 +463,29 @@ Les dispositions des alinéas 1er et 2 ne portent pas préjudice au droit évent
 
 L’assistance judiciaire s’étend à tous les frais relatifs aux instances, procédures ou actes pour lesquels elle a été accordée, à savoir aux :
 
-1. droits de timbre et d’enregistrement ;
+- droits de timbre et d’enregistrement ;
 
-2. frais de greffe ;
+- frais de greffe ;
 
-3. émoluments des avocats ;
+- émoluments des avocats ;
 
-4. droits et frais d’huissiers de justice ;
+- droits et frais d’huissiers de justice ;
 
-5. frais et honoraires des notaires ;
+- frais et honoraires des notaires ;
 
-6. frais et honoraires des techniciens ;
+- frais et honoraires des techniciens ;
 
-7. taxes de témoins ;
+- taxes de témoins ;
 
-8. honoraires des traducteurs et interprètes ;
+- honoraires des traducteurs et interprètes ;
 
-9. frais pour certificats de coutume ;
+- frais pour certificats de coutume ;
 
-10. frais de déplacement ;
+- frais de déplacement ;
 
-11. droits et frais des formalités d’inscriptions, d’hypothèques et de nantissement ;
+- droits et frais des formalités d’inscriptions, d’hypothèques et de nantissement ;
 
-12. frais d’insertion dans les journaux ;
+- frais d’insertion dans les journaux ;
 
 le tout sous réserve, le cas échéant, du complément de frais à charge du bénéficiaire de l’assistance judiciaire partielle proportionnellement au pourcentage qui n’est pas pris en charge par l’assistance judiciaire partielle.
 
@@ -554,35 +554,35 @@ Dans son décompte final, l’avocat chargé de l’assistance judiciaire doit l
 
 Les prestations suivantes ne sont pas prises en charge par l’assistance judiciaire :
 
-1. les lettres adressées au bâtonnier, à son délégué ou à l’ordre des avocats dans le cadre de l’assistance judiciaire pour les besoins du dossier ;
+- les lettres adressées au bâtonnier, à son délégué ou à l’ordre des avocats dans le cadre de l’assistance judiciaire pour les besoins du dossier ;
 
-2. les courriers relatifs au mandat ;
+- les courriers relatifs au mandat ;
 
-3. les frais de secrétariat tels que les frais postaux y compris les frais de recommandés, les frais de copie et les frais d’ouverture de dossier ;
+- les frais de secrétariat tels que les frais postaux y compris les frais de recommandés, les frais de copie et les frais d’ouverture de dossier ;
 
-4. les explications de dossier données à un stagiaire, et celles reçues d’un patron de stage ;
+- les explications de dossier données à un stagiaire, et celles reçues d’un patron de stage ;
 
-5. le temps employé pour établir la demande d’assistance judiciaire, y compris la demande de certificat de détention ;
+- le temps employé pour établir la demande d’assistance judiciaire, y compris la demande de certificat de détention ;
 
-6. le temps employé pour établir l’état de frais et émoluments ;
+- le temps employé pour établir l’état de frais et émoluments ;
 
-7. le temps employé pour décompter le dossier ;
+- le temps employé pour décompter le dossier ;
 
-8. le temps employé pour faire des copies, fixer un rendez-vous, réceptionner un courrier indépendamment d’une analyse juridique, inscrire une date au calepin ;
+- le temps employé pour faire des copies, fixer un rendez-vous, réceptionner un courrier indépendamment d’une analyse juridique, inscrire une date au calepin ;
 
-9. le temps et les frais de déplacement dans les villes de Luxembourg et d’Esch-sur-Alzette, à l’exception des déplacements vers les juridictions administratives, vers le centre de rétention ainsi que des déplacements qui ont lieu la nuit, le week-end et les jours fériés, à condition qu’ils soient strictement nécessaires et que l’avocat précise la date, le lieu et l’heure du déplacement dans le décompte final ;
+- le temps et les frais de déplacement dans les villes de Luxembourg et d’Esch-sur-Alzette, à l’exception des déplacements vers les juridictions administratives, vers le centre de rétention ainsi que des déplacements qui ont lieu la nuit, le week-end et les jours fériés, à condition qu’ils soient strictement nécessaires et que l’avocat précise la date, le lieu et l’heure du déplacement dans le décompte final ;
 
-10. les prestations sans rapport avec la nature de l’affaire pour laquelle l’assistance judiciaire a été accordée ou étendue ;
+- les prestations sans rapport avec la nature de l’affaire pour laquelle l’assistance judiciaire a été accordée ou étendue ;
 
-11. les prestations effectuées en dehors de la période couverte par l’assistance judiciaire ;
+- les prestations effectuées en dehors de la période couverte par l’assistance judiciaire ;
 
-12. les prestations ayant déjà fait l’objet d’une facturation dans le cadre d’un autre dossier d’assistance judiciaire ;
+- les prestations ayant déjà fait l’objet d’une facturation dans le cadre d’un autre dossier d’assistance judiciaire ;
 
-13. les prestations facturées vides de tout contenu juridique ;
+- les prestations facturées vides de tout contenu juridique ;
 
-14. les prestations facturées mais qui ne sont ni utiles ni nécessaires pour la défense des intérêts du bénéficiaire de l’assistance judiciaire ;
+- les prestations facturées mais qui ne sont ni utiles ni nécessaires pour la défense des intérêts du bénéficiaire de l’assistance judiciaire ;
 
-15. les prestations facturées mais non corroborées par les éléments du dossier.
+- les prestations facturées mais non corroborées par les éléments du dossier.
 
 (4)
 

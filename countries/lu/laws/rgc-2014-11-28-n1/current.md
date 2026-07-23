@@ -48,7 +48,7 @@ Ses tâches comprennent notamment:
 <a id="art-3"></a>
 ## Art. 3.
 
-La Commission nationale d'éthique se compose de quinze membres dont un président et un vice-président, nommés et révoqués par le Gouvernement en conseil sur proposition du ministre ayant l'enseignement supérieur dans ses attributions, ci-après « ministre » . Un membre peut être révoqué avant l'expiration de son mandat. Les membres sont nommés pour une durée de cinq ans, renouvelable à son terme. Aucun membre de la Commission nationale d'éthique ne peut exercer plus de deux mandats entiers.
+La Commission nationale d'éthique se compose de quinze membres dont un président et un vice-président, nommés et révoqués par le Gouvernement en conseil sur proposition du ministre ayant l'enseignement supérieur dans ses attributions , ci-après « ministre » . Un membre peut être révoqué avant l'expiration de son mandat. Les membres sont nommés pour une durée de cinq ans, renouvelable à son terme. Aucun membre de la Commission nationale d'éthique ne peut exercer plus de deux mandats entiers.
 
 <a id="art-4"></a>
 ## Art. 4.

@@ -35,9 +35,9 @@ Les autorités judiciaires compétentes du Grand-Duché de Luxembourg peuvent co
 
 Une équipe commune d'enquête peut notamment être créée lorsque:
 
-1. dans le cadre d'une enquête ou instruction préparatoire menée par le Grand-Duché de Luxembourg ou par un autre Etat membre de l'Union européenne, il y a lieu d'effectuer des enquêtes difficiles et impliquant la mobilisation d'importants moyens, qui concernent aussi, dans le premier cas, d'autres Etats membres, dans le second cas, le Grand-Duché de Luxembourg;
+- dans le cadre d'une enquête ou instruction préparatoire menée par le Grand-Duché de Luxembourg ou par un autre Etat membre de l'Union européenne, il y a lieu d'effectuer des enquêtes difficiles et impliquant la mobilisation d'importants moyens, qui concernent aussi, dans le premier cas, d'autres Etats membres, dans le second cas, le Grand-Duché de Luxembourg;
 
-2. le Grand-Duché de Luxembourg et un ou plusieurs Etats membres de l'Union européenne effectuent des enquêtes ou instructions préparatoires concernant des infractions pénales qui, en raison des faits qui sont à l'origine de celles-ci, exigent une action coordonnée et concertée sur le territoire du Grand-Duché de Luxembourg ou sur le territoire du ou des Etats membres.
+- le Grand-Duché de Luxembourg et un ou plusieurs Etats membres de l'Union européenne effectuent des enquêtes ou instructions préparatoires concernant des infractions pénales qui, en raison des faits qui sont à l'origine de celles-ci, exigent une action coordonnée et concertée sur le territoire du Grand-Duché de Luxembourg ou sur le territoire du ou des Etats membres.
 
 3.
 
@@ -78,21 +78,21 @@ Lorsqu'une équipe commune d'enquête comprend des membres luxembourgeois et des
 
 Les demandes d'entraide qui tendent à la création d'une équipe commune d'enquête comportent les indications suivantes:
 
-1. l'autorité judiciaire dont émane la demande;
+- l'autorité judiciaire dont émane la demande;
 
-2. l'objet et le motif de la demande;
+- l'objet et le motif de la demande;
 
-3. un exposé sommaire des faits;
+- un exposé sommaire des faits;
 
-4. dans la mesure du possible, l'identité et la nationalité de la ou des personnes en cause;
+- dans la mesure du possible, l'identité et la nationalité de la ou des personnes en cause;
 
-5. le nom et l'adresse du destinataire, s'il y a lieu;
+- le nom et l'adresse du destinataire, s'il y a lieu;
 
-6. le texte de l'inculpation et des sanctions y attachées;
+- le texte de l'inculpation et des sanctions y attachées;
 
-7. une traduction en langue française, allemande ou anglaise de la demande d'entraide et des pièces à produire;
+- une traduction en langue française, allemande ou anglaise de la demande d'entraide et des pièces à produire;
 
-8. les propositions relatives à la composition de l'équipe.
+- les propositions relatives à la composition de l'équipe.
 
 4.
 
@@ -147,25 +147,25 @@ Les membres luxembourgeois détachés auprès de l'équipe commune d'enquête pe
 
 Les informations obtenues de manière régulière par un membre luxembourgeois dans le cadre de sa participation à une équipe commune d'enquête dans un autre Etat partie à l'accord ayant créé l'équipe et qui ne peuvent pas être obtenues d'une autre manière par les autorités compétentes luxembourgeoises peuvent être utilisées aux fins suivantes:
 
-1. aux fins pour lesquelles l'équipe a été créée;
+- aux fins pour lesquelles l'équipe a été créée;
 
-2. pour rechercher, enquêter sur et poursuivre d'autres infractions pénales sous réserve du consentement préalable de l'autre Etat partie à l'accord où les informations ont été obtenues;
+- pour rechercher, enquêter sur et poursuivre d'autres infractions pénales sous réserve du consentement préalable de l'autre Etat partie à l'accord où les informations ont été obtenues;
 
-3. pour prévenir un danger immédiat et sérieux pour la sécurité publique et sans préjudice des dispositions du point b) si, par la suite, une enquête ou instruction préparatoire est ouverte;
+- pour prévenir un danger immédiat et sérieux pour la sécurité publique et sans préjudice des dispositions du point b) si, par la suite, une enquête ou instruction préparatoire est ouverte;
 
-4. à d'autres fins, pour autant que cela ait été convenu par les Etats qui ont créé l'équipe.
+- à d'autres fins, pour autant que cela ait été convenu par les Etats qui ont créé l'équipe.
 
 2.
 
 Les informations obtenues de manière régulière par un membre étranger détaché auprès de l'équipe commune d'enquête dans le cadre de sa participation à l'équipe au Grand-Duché de Luxembourg, et qui ne peuvent pas être obtenues d'une autre manière par les autorités compétentes de cet Etat, peuvent être utilisées aux fins suivantes:
 
-1. aux fins pour lesquelles l'équipe a été créée;
+- aux fins pour lesquelles l'équipe a été créée;
 
-2. pour rechercher, enquêter sur et poursuivre d'autres infractions pénales, sous réserve du consentement préalable du Grand-Duché de Luxembourg. Le consentement ne peut être refusé que dans les cas où une telle utilisation représenterait un danger pour les enquêtes ou instructions préparatoires menées au Grand-Duché de Luxembourg, ou dans lesquels le Grand-Duché de Luxembourg pourrait refuser l'entraide;
+- pour rechercher, enquêter sur et poursuivre d'autres infractions pénales, sous réserve du consentement préalable du Grand-Duché de Luxembourg. Le consentement ne peut être refusé que dans les cas où une telle utilisation représenterait un danger pour les enquêtes ou instructions préparatoires menées au Grand-Duché de Luxembourg, ou dans lesquels le Grand-Duché de Luxembourg pourrait refuser l'entraide;
 
-3. pour prévenir un danger immédiat et sérieux pour la sécurité publique et sans préjudice des dispositions du point b) si, par la suite, une enquête pénale est ouverte;
+- pour prévenir un danger immédiat et sérieux pour la sécurité publique et sans préjudice des dispositions du point b) si, par la suite, une enquête pénale est ouverte;
 
-4. à d'autres fins, pour autant que cela ait été convenu par les Etats qui ont créé l'équipe.
+- à d'autres fins, pour autant que cela ait été convenu par les Etats qui ont créé l'équipe.
 
 3.
 
@@ -181,12 +181,12 @@ Les membres étrangers détachés auprès de l'équipe commune d'enquête agissa
 
 1.
 
-1. Lorsque les membres luxembourgeois participant à une équipe commune d'enquête se trouvent en mission sur le territoire d'un autre Etat partie à l'accord ayant créé l'équipe, le Grand-Duché de Luxembourg est responsable des dommages qu'ils y causent pendant le déroulement de la mission, conformément au droit de l'Etat sur le territoire duquel ils opèrent.
+- Lorsque les membres luxembourgeois participant à une équipe commune d'enquête se trouvent en mission sur le territoire d'un autre Etat partie à l'accord ayant créé l'équipe, le Grand-Duché de Luxembourg est responsable des dommages qu'ils y causent pendant le déroulement de la mission, conformément au droit de l'Etat sur le territoire duquel ils opèrent.
 
-2. Lorsque les membres luxembourgeois ayant participé à une équipe commune d'enquête ont causé des dommages à quiconque sur le territoire d'un autre Etat partie à l'accord ayant créé l'équipe, le Grand-Duché de Luxembourg rembourse intégralement à cet Etat les sommes qu'il a versées aux victimes ou à leurs ayants droit.
+- Lorsque les membres luxembourgeois ayant participé à une équipe commune d'enquête ont causé des dommages à quiconque sur le territoire d'un autre Etat partie à l'accord ayant créé l'équipe, le Grand-Duché de Luxembourg rembourse intégralement à cet Etat les sommes qu'il a versées aux victimes ou à leurs ayants droit.
 
 2.
 
-1. Le Grand-Duché de Luxembourg assume, dans les conditions applicables aux dommages causés par les membres luxembourgeois, la réparation des dommages causés sur son territoire par les membres étrangers détachés auprès de l'équipe pendant le déroulement de leur mission et dans le cadre de leur participation à celle-ci.
+- Le Grand-Duché de Luxembourg assume, dans les conditions applicables aux dommages causés par les membres luxembourgeois, la réparation des dommages causés sur son territoire par les membres étrangers détachés auprès de l'équipe pendant le déroulement de leur mission et dans le cadre de leur participation à celle-ci.
 
-2. Sans préjudice de l'exercice de ses droits à l'égard des tiers et à l'exception du remboursement intégral par l'autre Etat partie à un accord ayant créé une équipe commune d'enquête des sommes versées en application de la lettre a) du présent paragraphe aux victimes ou à leurs ayants droit, le Grand-Duché de Luxembourg renoncera à demander à cet Etat le remboursement du montant des dommages qu'il a subis et qui ont été causés par les membres étrangers détachés auprès de l'équipe dans le cadre de leur participation à celle-ci, lorsqu'ils se sont trouvés en mission sur son territoire et pendant le déroulement de leur mission.
+- Sans préjudice de l'exercice de ses droits à l'égard des tiers et à l'exception du remboursement intégral par l'autre Etat partie à un accord ayant créé une équipe commune d'enquête des sommes versées en application de la lettre a) du présent paragraphe aux victimes ou à leurs ayants droit, le Grand-Duché de Luxembourg renoncera à demander à cet Etat le remboursement du montant des dommages qu'il a subis et qui ont été causés par les membres étrangers détachés auprès de l'équipe dans le cadre de leur participation à celle-ci, lorsqu'ils se sont trouvés en mission sur son territoire et pendant le déroulement de leur mission.

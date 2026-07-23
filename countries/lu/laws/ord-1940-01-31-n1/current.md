@@ -25,6 +25,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 01/01/2002 : Dritte Verordnung zur Durchführung des Gewerbesteuergesetzes Vom 31. Januar 1940.\nOrdonnance d’exécution du 31 janvier 1940 relative à la loi de l’impôt commercial communal.
 
+Auf Grund der §§ 12 und 13 der Abgabenordnung wird im Einvernehmen mit dem Minister des Innern hierdurch verordnet:
+
 #### Zum § 2 des Gesetzes.
 
 <a id="art-p-1"></a>
@@ -309,15 +311,15 @@ Gewerbesteuererklärung.
 
 Eine Gewerbesteuererklärjung zur Festsetzung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital ist abzugeben:
 
-1. für alle gewerbesteuerpflichtigen Unternehmen, deren Gewerbeertrag im Wirtschaftsjahr den Betrag von (4.000 RM) 40.000 Franken oder deren Gewerbekapital an dem massgebenden Feststellungszeitpunkt den Betrag von (20.000 RM) 200.000 Franken überstiegen hat;
+- für alle gewerbesteuerpflichtigen Unternehmen, deren Gewerbeertrag im Wirtschaftsjahr den Betrag von (4.000 RM) 40.000 Franken oder deren Gewerbekapital an dem massgebenden Feststellungszeitpunkt den Betrag von (20.000 RM) 200.000 Franken überstiegen hat;
 
-2. für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschränkter Haftung);
+- für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschränkter Haftung);
 
-3. für Erwerbs- und Wirtschaftsgenossenschaften und für Versicherungsvereine auf Gegenseitigkeit. Für sonstige juristische Personen des privaten Rechts und für nichtrechtsfähige Vereine ist eine Gewerbesteuererklärung nur abzugeben, soweit diese Unternehmen einen wirtschaftlichen Geschäftsbetrieb (ausgenommen Land- und Fortswirtschaft) unterhalten, der über den Rahmen einer Vermögensverwaltung hinausgeht;
+- für Erwerbs- und Wirtschaftsgenossenschaften und für Versicherungsvereine auf Gegenseitigkeit. Für sonstige juristische Personen des privaten Rechts und für nichtrechtsfähige Vereine ist eine Gewerbesteuererklärung nur abzugeben, soweit diese Unternehmen einen wirtschaftlichen Geschäftsbetrieb (ausgenommen Land- und Fortswirtschaft) unterhalten, der über den Rahmen einer Vermögensverwaltung hinausgeht;
 
-4. ohne Rücksicht auf die Höhe des Gewerbeertrags oder die Höhe des Gewerbekapitals für alle gewerbesteuerpflichtigen Unternehmen, bei denen der Gewinn auf Grund eines Buchabschlusses zu ermitteln ist oder ermittelt wird;
+- ohne Rücksicht auf die Höhe des Gewerbeertrags oder die Höhe des Gewerbekapitals für alle gewerbesteuerpflichtigen Unternehmen, bei denen der Gewinn auf Grund eines Buchabschlusses zu ermitteln ist oder ermittelt wird;
 
-5. für alle gewerbesteuerpflichtigen Unternehmen, für die von der Steuerverwaltung eine Gewerbesteuererklärung besonders verlangt wird.
+- für alle gewerbesteuerpflichtigen Unternehmen, für die von der Steuerverwaltung eine Gewerbesteuererklärung besonders verlangt wird.
 
 (2)
 
@@ -351,9 +353,9 @@ Wareneinzelhandelsunternehmen im Sinn des § 17 des Gesetzes sind Unternehmen, d
 
 Lieferungen im Einzelhandel im Sinn des Absatzes 1 sind
 
-1. die im § 11 Absatz 3 der Durchführungsbestimmungen zum Umsatzsteuergesetz vom 23. Dezember 1938 bezeichneten Lieferungen,
+- die im § 11 Absatz 3 der Durchführungsbestimmungen zum Umsatzsteuergesetz vom 23. Dezember 1938 bezeichneten Lieferungen,
 
-2. Lieferungen im Grosshandel, sonstige Leistungen und Eigenverbrauch, die als solche aus der Buchführung nicht eindeutig und leicht nachprüfbar ersichtlich sind.
+- Lieferungen im Grosshandel, sonstige Leistungen und Eigenverbrauch, die als solche aus der Buchführung nicht eindeutig und leicht nachprüfbar ersichtlich sind.
 
 (3)
 
@@ -420,11 +422,11 @@ Wohnungs- und Siedlungsunternehmen.
 
 Von der Gewerbesteuer sind befreit:
 
-1. Wohnungsunternehmen, solange sie auf Grund der Gemeinnützigkeitsverordnung vom 1. Dezember 1930 und der sie ergänzenden Bestimmungen als gemeinnützig anerkannt sind.
+- Wohnungsunternehmen, solange sie auf Grund der Gemeinnützigkeitsverordnung vom 1. Dezember 1930 und der sie ergänzenden Bestimmungen als gemeinnützig anerkannt sind.
 
-2. Unternehmen, solange sie als Organe der staatlichen Wohnungspolitik (§ 28 der Gemeinnützigkeitsverordnung) anerkannt sind.
+- Unternehmen, solange sie als Organe der staatlichen Wohnungspolitik (§ 28 der Gemeinnützigkeitsverordnung) anerkannt sind.
 
-3. die von den obersten Landesbehörden zur Ausgabe von Heimstätten zugelassenen gemeinnützigen Unternehmen im sinn des Heimstättengesetzes.
+- die von den obersten Landesbehörden zur Ausgabe von Heimstätten zugelassenen gemeinnützigen Unternehmen im sinn des Heimstättengesetzes.
 
 <a id="art-p-38"></a>
 ## § 38

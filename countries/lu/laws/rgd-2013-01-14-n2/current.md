@@ -51,15 +51,15 @@ En cas de renouvellement l’intéressé doit fournir également les information
 
 Lors de la première prestation de services ou en cas de changement matériel relatif à la situation établie par les documents, la déclaration doit être accompagnée des documents suivants:
 
-1. une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de la directive 2003/109/CE ou 2004/38/CE , au titre de l’article 52 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin vétérinaire;
+- une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de la directive 2003/109/CE ou 2004/38/CE , au titre de l’article 52 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin vétérinaire;
 
-2. une attestation certifiant que le détenteur est légalement établi dans cet Etat pour y exercer les activités de médecin ou de médecin-dentiste et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer;
+- une attestation certifiant que le détenteur est légalement établi dans cet Etat pour y exercer les activités de médecin ou de médecin-dentiste et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer;
 
-3. une copie du diplôme, certificat ou autre titre requis pour la prestation de services en cause;
+- une copie du diplôme, certificat ou autre titre requis pour la prestation de services en cause;
 
-4. une copie de la couverture d’assurance concernant la responsabilité professionnelle découlant de l’exercice de la profession;
+- une copie de la couverture d’assurance concernant la responsabilité professionnelle découlant de l’exercice de la profession;
 
-5. tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
+- tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
 
 En cas de renouvellement de la prestation de services et lorsque cette dernière remonte à plus de douze mois, le document visé au point 2. du présent article doit être produit sur demande du ministre et ne peut dater de plus de trois mois lors de sa production.
 
@@ -109,15 +109,15 @@ En cas de renouvellement l’intéressé doit fournir également les information
 
 Lors de la première prestation de services ou en cas de changement matériel relatif à la situation établie par les documents, la déclaration doit être accompagnée des documents suivants:
 
-1. une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de la directive 2003/109/CE ou 2004/38/CE , au titre de l’article 52 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire;
+- une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de la directive 2003/109/CE ou 2004/38/CE , au titre de l’article 52 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire;
 
-2. une attestation certifiant que le détenteur est légalement établi dans cet Etat pour y exercer les activités de médecin-vétérinaire et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer;
+- une attestation certifiant que le détenteur est légalement établi dans cet Etat pour y exercer les activités de médecin-vétérinaire et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer;
 
-3. une copie du diplôme, certificat ou autre titre requis pour la prestation de services en cause;
+- une copie du diplôme, certificat ou autre titre requis pour la prestation de services en cause;
 
-4. une copie de la couverture d’assurance concernant la responsabilité professionnelle découlant de l’exercice de la profession;
+- une copie de la couverture d’assurance concernant la responsabilité professionnelle découlant de l’exercice de la profession;
 
-5. tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
+- tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
 
 En cas de renouvellement de la prestation de services et lorsque cette dernière remonte à plus de douze mois, le document visé au point 2. du présent article doit être produit sur demande du ministre et ne peut dater de plus de trois mois lors de sa production.
 
@@ -169,15 +169,15 @@ En cas de renouvellement l’intéressé doit fournir également les information
 
 Lors de la première prestation de services ou en cas de changement matériel relatif à la situation établie par les documents, la déclaration doit être accompagnée des documents suivants:
 
-1. une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de l’article 21 de la loi modifiée du 31 juillet 1991 déterminant les conditions d’autorisation d’exercer la profession de pharmacien ;
+- une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de l’article 21 de la loi modifiée du 31 juillet 1991 déterminant les conditions d’autorisation d’exercer la profession de pharmacien ;
 
-2. une attestation certifiant que le détenteur est légalement établi dans cet État pour y exercer les activités de pharmacien et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer ;
+- une attestation certifiant que le détenteur est légalement établi dans cet État pour y exercer les activités de pharmacien et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer ;
 
-3. une copie du diplôme, certificat ou autre titre requis pour la prestation de services en cause ;
+- une copie du diplôme, certificat ou autre titre requis pour la prestation de services en cause ;
 
-4. une copie de la couverture d’assurance concernant la responsabilité professionnelle découlant de l’exercice de la profession ;
+- une copie de la couverture d’assurance concernant la responsabilité professionnelle découlant de l’exercice de la profession ;
 
-5. tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
+- tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
 
 En cas de renouvellement de la prestation de services et lorsque cette dernière remonte à plus de douze mois, le document visé au point 2. du présent article doit être produit sur demande du ministre et ne peut dater de plus de trois mois lors de sa production.
 
@@ -204,15 +204,15 @@ La copie de la déclaration est transmise aux organismes de sécurité sociale.
 
 Lors de la première prestation de services ou en cas de changement matériel relatif à la situation établie par les documents, la déclaration doit être accompagnée des documents suivants:
 
-1. une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de l’article 9 de la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé ;
+- une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de l’article 9 de la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé ;
 
-2. une attestation certifiant que le professionnel de santé est légalement établi dans cet État pour y exercer ses activités professionnelles et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer ;
+- une attestation certifiant que le professionnel de santé est légalement établi dans cet État pour y exercer ses activités professionnelles et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer ;
 
-3. une copie du diplôme, certificat ou autre titre requis pour la prestation de services en cause reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles ;
+- une copie du diplôme, certificat ou autre titre requis pour la prestation de services en cause reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles ;
 
-4. une copie de la couverture d’assurance concernant la responsabilité professionnelle découlant de l’exercice de la profession ;
+- une copie de la couverture d’assurance concernant la responsabilité professionnelle découlant de l’exercice de la profession ;
 
-5. tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
+- tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
 
 En cas de renouvellement de la prestation de services et lorsque cette dernière remonte à plus de douze mois, le document visé au point 2. du présent article doit être produit sur demande du ministre et ne peut dater de plus de trois mois lors de sa production.
 

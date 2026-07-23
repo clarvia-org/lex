@@ -31,17 +31,17 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens de la présente loi, on entend par:
 
-1. «classe»: un ensemble d'élèves placés sous l'autorité d'un même régent;
+- «classe»: un ensemble d'élèves placés sous l'autorité d'un même régent;
 
-2. «communauté scolaire»: les élèves, les enseignants, les membres de la direction, les membres des différents services du lycée, tels que définis au chapitre 8 et les parents des élèves;
+- «communauté scolaire»: les élèves, les enseignants, les membres de la direction, les membres des différents services du lycée, tels que définis au chapitre 8 et les parents des élèves;
 
-3. «enseignant»: la personne qui est chargée d'une tâche d'enseignement dans un lycée;
+- «enseignant»: la personne qui est chargée d'une tâche d'enseignement dans un lycée;
 
-4. «ministre»: le ministre ayant l'éducation nationale dans ses attributions;
+- «ministre»: le ministre ayant l'éducation nationale dans ses attributions;
 
-5. «parents»: la ou les personne(s) investie(s) du droit d'éducation de l'élève.
+- «parents»: la ou les personne(s) investie(s) du droit d'éducation de l'élève.
 
-6. «élève à besoins éducatifs spécifiques» : un enfant ou un jeune qui selon les classifications internationales présente des déficiences ou difficultés ou qui a, de manière significative, plus de mal à apprendre que la majorité des enfants ou jeunes du même âge. Est également un élève à besoins éducatifs spécifiques, un enfant ou un jeune à haut potentiel qui nécessite une prise en charge spécialisée lui permettant de déployer au maximum ses facultés ou son potentiel.
+- «élève à besoins éducatifs spécifiques» : un enfant ou un jeune qui selon les classifications internationales présente des déficiences ou difficultés ou qui a, de manière significative, plus de mal à apprendre que la majorité des enfants ou jeunes du même âge. Est également un élève à besoins éducatifs spécifiques, un enfant ou un jeune à haut potentiel qui nécessite une prise en charge spécialisée lui permettant de déployer au maximum ses facultés ou son potentiel.
 
 Dans la suite du texte, le masculin du nom désigne indistinctement les personnes de sexe féminin et de sexe masculin de la communauté scolaire.
 
@@ -52,11 +52,11 @@ Dans la suite du texte, le masculin du nom désigne indistinctement les personne
 
 L'enseignement secondaire fait suite à l'enseignement fondamental et se compose des ordres d'enseignement suivants :
 
-1. l'enseignement secondaire classique qui prépare aux études supérieures et qui est régi par la loi modifiée du 10 mai 1968 portant réforme de l'enseignement (Titre VI: de l'enseignement secondaire) ;
+- l'enseignement secondaire classique qui prépare aux études supérieures et qui est régi par la loi modifiée du 10 mai 1968 portant réforme de l'enseignement (Titre VI: de l'enseignement secondaire) ;
 
-2. l'enseignement secondaire général qui prépare aux études supérieures et à la formation professionnelle et qui est régi par la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue ;
+- l'enseignement secondaire général qui prépare aux études supérieures et à la formation professionnelle et qui est régi par la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue ;
 
-3. la formation professionnelle, régie par la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle.
+- la formation professionnelle, régie par la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle.
 
 L'enseignement secondaire classique et l'enseignement secondaire général comprennent chacun sept années d'études numérotées de 7e, 6e, 5e, 4e, 3e, 2e et 1re, appelées aussi classe de 7e, classe de 6e, classe de 5e, classe de 4e, classe de 3e, classe de 2e et classe de 1re, et se soldent par un examen de fin d'études secondaires sanctionné en cas de réussite par le diplôme de fin d'études secondaires.
 
@@ -148,23 +148,23 @@ La démarche des lycées
 
 Les lycées assurent une démarche commune et cohérente, documentée dans le PDS, qui répond aux spécificités locales de la population scolaire dans les domaines suivants :
 
-1. l'organisation de l'appui scolaire tel que défini à l'article 14 ;
+- l'organisation de l'appui scolaire tel que défini à l'article 14 ;
 
-2. l'encadrement des élèves à besoins éducatifs spécifiques ;
+- l'encadrement des élèves à besoins éducatifs spécifiques ;
 
-3. l'accompagnement psycho-social des élèves ;
+- l'accompagnement psycho-social des élèves ;
 
-4. l'orientation et l'intégration scolaires des élèves, conformément à l'article 12, paragraphe 2 ;
+- l'orientation et l'intégration scolaires des élèves, conformément à l'article 12, paragraphe 2 ;
 
-5. la coopération avec les parents d'élèves ;
+- la coopération avec les parents d'élèves ;
 
-6. l'intégration des technologies de l'information et de communication ;
+- l'intégration des technologies de l'information et de communication ;
 
-7. l'éducation non-formelle et l'offre périscolaire ;
+- l'éducation non-formelle et l'offre périscolaire ;
 
-8. la participation des élèves.
+- la participation des élèves.
 
-9. le développement de compétences interculturelles et l'encadrement les élèves issus d'un contexte migratoire.
+- le développement de compétences interculturelles et l'encadrement les élèves issus d'un contexte migratoire.
 
 À la rentrée scolaire, les lycées portent à la connaissance des parents et élèves leurs démarches.
 
@@ -177,15 +177,15 @@ L'élaboration et la mise en œuvre de la démarche des lycées
 
 La promotion, le soutien et la coordination de l'élaboration et de la mise en œuvre de la démarche des lycées incombe, selon le domaine concerné, aux services suivants :
 
-1. au service psycho-social et d'accompagnement scolaires du lycée prévue à l'article 28 bis , pour le domaine de l'accompagnement psycho-social des élèves ;
+- au service psycho-social et d'accompagnement scolaires du lycée prévue à l'article 28 bis , pour le domaine de l'accompagnement psycho-social des élèves ;
 
-2. au service socio-éducatif du lycée prévu à l'article 28 ter , pour le domaine de la participation des élèves ;
+- au service socio-éducatif du lycée prévu à l'article 28 ter , pour le domaine de la participation des élèves ;
 
-3. au service socio-éducatif du lycée prévu à l'article 28 ter et à l'internat prévu à l'article 32, pour les domaines de l'éducation non-formelle et de l'offre périscolaire ;
+- au service socio-éducatif du lycée prévu à l'article 28 ter et à l'internat prévu à l'article 32, pour les domaines de l'éducation non-formelle et de l'offre périscolaire ;
 
-4. à l'équipe de soutien des élèves à besoins éducatifs spécifiques, ci-après « ESEB » prévue à l'article 28 quater , pour le domaine de l'encadrement des élèves à besoins éducatifs spécifiques ;
+- à l'équipe de soutien des élèves à besoins éducatifs spécifiques, ci-après « ESEB » prévue à l'article 28 quater , pour le domaine de l'encadrement des élèves à besoins éducatifs spécifiques ;
 
-5. à la cellule d'orientation et d'intégration scolaires prévue à l'article 28 quinquies , pour les domaines de l'orientation et de l'intégration scolaires des élèves.
+- à la cellule d'orientation et d'intégration scolaires prévue à l'article 28 quinquies , pour les domaines de l'orientation et de l'intégration scolaires des élèves.
 
 <a id="art-3quinquies"></a>
 ## Art. 3quinquies.
@@ -194,11 +194,11 @@ Les services-ressources des services du lycée
 
 Les services du lycée sont soutenus dans leurs missions relatives à l'élaboration et la mise en œuvre de la démarche des lycées par les services-ressources suivants :
 
-1. le service psycho-social et d'accompagnement scolaires et le service socio-éducatif et l'internat, par le Centre psycho-social et d'accompagnement scolaires ;
+- le service psycho-social et d'accompagnement scolaires et le service socio-éducatif et l'internat, par le Centre psycho-social et d'accompagnement scolaires ;
 
-2. l'ESEB par le Service national de l'éducation inclusive ;
+- l'ESEB par le Service national de l'éducation inclusive ;
 
-3. la cellule d'orientation et d'intégration scolaires par le Service de coordination de la Maison de l'orientation concernant le volet de l'orientation et par le service en charge de l'intégration et de l'accueil scolaires concernant le volet de l'intégration.
+- la cellule d'orientation et d'intégration scolaires par le Service de coordination de la Maison de l'orientation concernant le volet de l'orientation et par le service en charge de l'intégration et de l'accueil scolaires concernant le volet de l'intégration.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -310,13 +310,13 @@ Dans l'intérêt de l'organisation des classes à objectifs spéciaux et des cla
 
 Le cadre du personnel des lycées et classes spécialisées de l'enseignement secondaire pour les classes à régime linguistique spécifique et des classes de réintégration peut être complété par des employés enseignants et socio-éducatifs suivant les besoins du service et dans les limites des crédits budgétaires, sous les conditions suivantes:
 
-1. avoir eu accès à la fonction enseignante dans un pays européen ;
+- avoir eu accès à la fonction enseignante dans un pays européen ;
 
-2. se prévaloir d'une expérience professionnelle d'au moins cinq ans dans la fonction enseignante ;
+- se prévaloir d'une expérience professionnelle d'au moins cinq ans dans la fonction enseignante ;
 
-3. démontrer un niveau de connaissances suffisant dans une des trois langues administratives du pays telles que définies par la loi du 24 février 1984 sur le régime des langues et
+- démontrer un niveau de connaissances suffisant dans une des trois langues administratives du pays telles que définies par la loi du 24 février 1984 sur le régime des langues et
 
-4. se soumettre à cet effet à une épreuve vérifiant ces connaissances.
+- se soumettre à cet effet à une épreuve vérifiant ces connaissances.
 
 Pour bénéficier d'un classement dans la catégorie A, groupe d'indemnité A1, sous-groupe de l'enseignement tel que prévu à l'article 43, paragraphe 4 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l'État, l'employé doit remplir les conditions de diplôme pour l'admission au concours de recrutement pour une fonction enseignante du groupe de traitement correspondant du régime de traitement des fonctionnaires de l'État ou pour l'admission au stage de cette fonction.
 
@@ -349,9 +349,9 @@ Les objectifs et les mesures de l'encadrement de l'élève dont les résultats s
 
 Le directeur du lycée prend les mesures nécessaires pour que l'élève dont les résultats scolaires risquent de compromettre la réussite en fin d'année scolaire puisse :
 
-1. soit réaliser les objectifs prévus par les programmes en bénéficiant de mesures d'appui ou d'aménagements raisonnables ;
+- soit réaliser les objectifs prévus par les programmes en bénéficiant de mesures d'appui ou d'aménagements raisonnables ;
 
-2. soit réaliser une partie des objectifs prévus, par un plan individualisé permettant l'accès à certaines formations.
+- soit réaliser une partie des objectifs prévus, par un plan individualisé permettant l'accès à certaines formations.
 
 (2)
 
@@ -359,15 +359,15 @@ L'appui peut être déclaré obligatoire par le conseil de classe. Le refus de r
 
 L'appui consiste en :
 
-1. des mesures de remédiation ou d'approfondissement individualisées, organisées au lycée ;
+- des mesures de remédiation ou d'approfondissement individualisées, organisées au lycée ;
 
-2. la participation à des cours de remédiation, de mise à niveau ou d'approfondissement ;
+- la participation à des cours de remédiation, de mise à niveau ou d'approfondissement ;
 
-3. la participation à des cours de méthodes d'apprentissage ;
+- la participation à des cours de méthodes d'apprentissage ;
 
-4. des études surveillées au lycée ;
+- des études surveillées au lycée ;
 
-5. des travaux à réaliser à domicile.
+- des travaux à réaliser à domicile.
 
 Le conseil de classe peut autoriser l'élève à remplacer l'appui obligatoire par des activités pédagogiques extrascolaires.
 
@@ -375,9 +375,9 @@ Le conseil de classe peut autoriser l'élève à remplacer l'appui obligatoire p
 
 L'appui facultatif est une offre qui peut consister en :
 
-1. la participation à des cours de répétition, de mise à niveau ou d'approfondissement ;
+- la participation à des cours de répétition, de mise à niveau ou d'approfondissement ;
 
-2. l'inscription à des études surveillées.
+- l'inscription à des études surveillées.
 
 L'élève qui ne réalise pas les travaux qui lui sont indiqués et qui s'absente de manière injustifiée des cours et études auxquels il s'est inscrit, peut être exclu de l'appui facultatif.
 
@@ -402,23 +402,23 @@ La commission d'inclusion de l'enseignement secondaire
 
 Il est créé, dans chaque lycée, une commission d'inclusion de l'enseignement secondaire, ci-après « commission d'inclusion », comprenant les membres suivants, nommés par le ministre pour un mandat renouvelable d'une durée de trois ans :
 
-1. un membre de la direction, proposé par le directeur ;
+- un membre de la direction, proposé par le directeur ;
 
-2. le chef du département éducatif et psycho-social du lycée ;
+- le chef du département éducatif et psycho-social du lycée ;
 
-3. un membre du personnel du lycée comme secrétaire ;
+- un membre du personnel du lycée comme secrétaire ;
 
-4. un psychologue du lycée ;
+- un psychologue du lycée ;
 
-5. un assistant social du lycée ;
+- un assistant social du lycée ;
 
-6. un membre de l'ESEB ;
+- un membre de l'ESEB ;
 
-7. deux enseignants, proposés par le directeur ;
+- deux enseignants, proposés par le directeur ;
 
-8. un représentant des Centres de compétences en psycho-pédagogie spécialisée ;
+- un représentant des Centres de compétences en psycho-pédagogie spécialisée ;
 
-9. le médecin scolaire ou son délégué, désigné par le ministre ayant la Santé dans ses attributions.
+- le médecin scolaire ou son délégué, désigné par le ministre ayant la Santé dans ses attributions.
 
 Le ministre charge le membre de la direction de la présidence. Le président peut inviter des experts à assister aux séances de la commission d'inclusion.
 
@@ -428,29 +428,29 @@ Le fonctionnement de la commission d'inclusion est fixé par règlement grand-du
 
 La commission d'inclusion a les missions suivantes :
 
-1. définir soit à la demande des parents ou de l'élève majeur, soit à la demande du directeur, soit de l'un des services mentionnés à l'article 28 bi s et à l'article 28 quater et pour autant que les parents ou l'élève majeur aient marqué leur accord, les mesures mentionnées à l'article 14 ter , paragraphe 1 er ;
+- définir soit à la demande des parents ou de l'élève majeur, soit à la demande du directeur, soit de l'un des services mentionnés à l'article 28 bi s et à l'article 28 quater et pour autant que les parents ou l'élève majeur aient marqué leur accord, les mesures mentionnées à l'article 14 ter , paragraphe 1 er ;
 
-2. désigner, pour chaque élève pour lequel elle est saisie, une personne de référence qui est l'interlocuteur entre l'élève, ses parents et les personnes chargées de la mise en œuvre du plan de formation individualisé ;
+- désigner, pour chaque élève pour lequel elle est saisie, une personne de référence qui est l'interlocuteur entre l'élève, ses parents et les personnes chargées de la mise en œuvre du plan de formation individualisé ;
 
-3. charger l'ESEB de l'établissement d'un diagnostic des besoins de l'élève concerné, si, au vu des informations contenues dans la demande mentionnée sous le point 1°, elle ne peut pas se prononcer sur la suite à lui réserver ;
+- charger l'ESEB de l'établissement d'un diagnostic des besoins de l'élève concerné, si, au vu des informations contenues dans la demande mentionnée sous le point 1°, elle ne peut pas se prononcer sur la suite à lui réserver ;
 
-4. veiller à la mise en œuvre du plan de formation individualisé de l'élève et charger l'ESEB de la réévaluation des besoins de l'élève lorsqu'elle l'estime nécessaire ;
+- veiller à la mise en œuvre du plan de formation individualisé de l'élève et charger l'ESEB de la réévaluation des besoins de l'élève lorsqu'elle l'estime nécessaire ;
 
-5. saisir la Commission des aménagements raisonnables, pour autant que les parents ou l'élève majeur aient marqué leur accord, si elle estime que l'élève requiert des aménagements raisonnables, autres que ceux visés à l'article 14 ter , paragraphe 1 er et veiller à la mise en œuvre des aménagements raisonnables décidés ;
+- saisir la Commission des aménagements raisonnables, pour autant que les parents ou l'élève majeur aient marqué leur accord, si elle estime que l'élève requiert des aménagements raisonnables, autres que ceux visés à l'article 14 ter , paragraphe 1 er et veiller à la mise en œuvre des aménagements raisonnables décidés ;
 
-6. saisir la Commission nationale d'inclusion, pour autant que les parents ou l'élève majeur aient marqué leur accord, si elle estime que l'élève requiert une prise en charge spécialisée conformément à la loi modifiée du 20 juillet 2018 en faveur de l'inclusion scolaire.
+- saisir la Commission nationale d'inclusion, pour autant que les parents ou l'élève majeur aient marqué leur accord, si elle estime que l'élève requiert une prise en charge spécialisée conformément à la loi modifiée du 20 juillet 2018 en faveur de l'inclusion scolaire.
 
 (2bis)
 
 La commission d'inclusion établit un dossier personnel pour l'élève concerné qui comprend les éléments suivants :
 
-1. le diagnostic des besoins de l'élève, et le cas échéant ;
+- le diagnostic des besoins de l'élève, et le cas échéant ;
 
-2. le plan de formation individualisé ;
+- le plan de formation individualisé ;
 
-3. la description des aménagements raisonnables ;
+- la description des aménagements raisonnables ;
 
-4. le dossier élaboré par la commission d'inclusion de l'enseignement fondamental.
+- le dossier élaboré par la commission d'inclusion de l'enseignement fondamental.
 
 (3)
 
@@ -467,31 +467,31 @@ Le plan de formation individualisé
 
 Les mesures qui font l'objet d'un plan de formation individualisé peuvent consister en :
 
-1. l'appui scolaire tel que défini à l'article 14, paragraphe 2 ;
+- l'appui scolaire tel que défini à l'article 14, paragraphe 2 ;
 
-2. l'adaptation de l'enseignement en classe assuré par le régent et les autres enseignants en collaboration avec les membres de l'équipe de soutien des élèves à besoins éducatifs spécifiques ;
+- l'adaptation de l'enseignement en classe assuré par le régent et les autres enseignants en collaboration avec les membres de l'équipe de soutien des élèves à besoins éducatifs spécifiques ;
 
-3. l'adaptation du contenu de l'enseignement pour l'élève ne pouvant pas suivre le rythme scolaire de sa voie de formation ;
+- l'adaptation du contenu de l'enseignement pour l'élève ne pouvant pas suivre le rythme scolaire de sa voie de formation ;
 
-4. la prise en charge de l'élève par des membres de l'équipe de soutien des élèves à besoins éducatifs spécifiques ;
+- la prise en charge de l'élève par des membres de l'équipe de soutien des élèves à besoins éducatifs spécifiques ;
 
-5. la réorientation partielle ou totale vers d'autres voies de formation ou des classes spécialisées, prévues à l'article 9 ;
+- la réorientation partielle ou totale vers d'autres voies de formation ou des classes spécialisées, prévues à l'article 9 ;
 
-6. l'obtention, la modification et la suspension des aménagements raisonnables suivants :
+- l'obtention, la modification et la suspension des aménagements raisonnables suivants :
 
-1. l'aménagement de la salle de classe et de la place de l'élève,
+  - l'aménagement de la salle de classe et de la place de l'élève,
 
-2. la mise à disposition d'une salle séparée pour passer des épreuves ou des examens,
+  - la mise à disposition d'une salle séparée pour passer des épreuves ou des examens,
 
-3. une présentation adaptée des questionnaires ;
+  - une présentation adaptée des questionnaires ;
 
-7. en concertation avec le conseil de classe, l'obtention, la modification et la suspension des aménagements raisonnables suivants :
+- en concertation avec le conseil de classe, l'obtention, la modification et la suspension des aménagements raisonnables suivants :
 
-1. la dispense d'une partie des épreuves prévues par un trimestre ou semestre,
+  - la dispense d'une partie des épreuves prévues par un trimestre ou semestre,
 
-2. le remplacement d'une partie des épreuves prévues par une seule épreuve de fin de trimestre ou de semestre,
+  - le remplacement d'une partie des épreuves prévues par une seule épreuve de fin de trimestre ou de semestre,
 
-3. la prise en considération, pour les résultats annuels, des résultats scolaires portant uniquement sur un ou deux trimestres ou sur un semestre.
+  - la prise en considération, pour les résultats annuels, des résultats scolaires portant uniquement sur un ou deux trimestres ou sur un semestre.
 
 (2)
 
@@ -516,13 +516,13 @@ Le complément au bulletin
 
 Pour les élèves disposant d'un plan de formation individualisé et n'ayant pas réussi à toutes les épreuves, le conseil de classe élabore un complément au bulletin de l'élève qui renseigne sur :
 
-1. les acquis de l'élève ;
+- les acquis de l'élève ;
 
-2. les performances et les progrès de l'élève ;
+- les performances et les progrès de l'élève ;
 
-3. les cours facultatifs, les activités périscolaires et les stages auxquels a participé l'élève ;
+- les cours facultatifs, les activités périscolaires et les stages auxquels a participé l'élève ;
 
-4. l'attitude face au travail et les compétences sociales et personnelles de l'élève.
+- l'attitude face au travail et les compétences sociales et personnelles de l'élève.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -612,13 +612,13 @@ Les membres des conseils des classes inférieures se réunissent également avec
 
 Dans les classes inférieures, le conseil de classe restreint regroupe les enseignants désignés par le directeur. Le régent convoque le conseil de classe restreint et le préside. Il peut y inviter d'autres membres du conseil de classe. Le conseil de classe restreint a les attributions suivantes :
 
-1. il se concerte sur la mise en œuvre des enseignements ;
+- il se concerte sur la mise en œuvre des enseignements ;
 
-2. il suit les progrès des élèves et les informe sur les progrès réalisés ;
+- il suit les progrès des élèves et les informe sur les progrès réalisés ;
 
-3. il surveille l'attitude au travail et la discipline des élèves ;
+- il surveille l'attitude au travail et la discipline des élèves ;
 
-4. il recommande ou impose des appuis en cas de difficultés scolaires.
+- il recommande ou impose des appuis en cas de difficultés scolaires.
 
 Les délégués des classes supérieures ou de la formation professionnelle peuvent être consultés par le conseil de classe à leur demande ou à l'initiative du conseil de classe pour ce qui est de la délibération sur les progrès des élèves, sur l'attitude au travail et la discipline des élèves.
 
@@ -746,15 +746,15 @@ Le département éducatif et psycho-social
 
 Il est créé, dans chaque lycée, un département éducatif et psycho-social. Le département se compose des services suivants qui collaborent étroitement :
 
-1. du service psycho-social et d'accompagnement scolaires ;
+- du service psycho-social et d'accompagnement scolaires ;
 
-2. du service socio-éducatif ;
+- du service socio-éducatif ;
 
-3. de l'ESEB ;
+- de l'ESEB ;
 
-4. de la cellule d'orientation et d'intégration scolaires ; et s'il y a lieu
+- de la cellule d'orientation et d'intégration scolaires ; et s'il y a lieu
 
-5. de l'internat.
+- de l'internat.
 
 (2)
 
@@ -762,15 +762,15 @@ Un chef de département, nommé par le ministre sur proposition du directeur, es
 
 Le chef de département a les missions suivantes :
 
-1. diriger et coordonner les services du département dans le respect des missions qui leur sont attribuées par la loi ;
+- diriger et coordonner les services du département dans le respect des missions qui leur sont attribuées par la loi ;
 
-2. définir les concepts d'intervention des services en fonction des cadres de référence respectifs, en collaboration avec les acteurs de la communauté scolaire ;
+- définir les concepts d'intervention des services en fonction des cadres de référence respectifs, en collaboration avec les acteurs de la communauté scolaire ;
 
-3. gérer les services respectifs sur un plan administratif et établir les plans de travail individuels des agents des services ;
+- gérer les services respectifs sur un plan administratif et établir les plans de travail individuels des agents des services ;
 
-4. être l'interlocuteur des services auprès de la direction du lycée ;
+- être l'interlocuteur des services auprès de la direction du lycée ;
 
-5. favoriser les échanges entre les services du département.
+- favoriser les échanges entre les services du département.
 
 (3)
 
@@ -786,13 +786,13 @@ L'élève mineur est en droit de s'adresser sur simple demande, sans l'autorisat
 
 Parmi le personnel du service psycho-social et d'accompagnement scolaires ou parmi le personnel du service socio-éducatif, le directeur désigne des délégués à la protection des élèves, ci-après « DPE », dont les missions sont les suivantes :
 
-1. promouvoir le respect des droits de l'élève et la prévention et la protection contre toute forme de maltraitance et de danger allant à l'encontre du bien-être de l'élève ;
+- promouvoir le respect des droits de l'élève et la prévention et la protection contre toute forme de maltraitance et de danger allant à l'encontre du bien-être de l'élève ;
 
-2. être l'interlocuteur privilégié qui soutient et conseille la communauté scolaire et les parents des élèves, en matière de protection des élèves contre toute forme de maltraitance et de danger allant à l'encontre du bien-être de l'élève ;
+- être l'interlocuteur privilégié qui soutient et conseille la communauté scolaire et les parents des élèves, en matière de protection des élèves contre toute forme de maltraitance et de danger allant à l'encontre du bien-être de l'élève ;
 
-3. informer et conseiller l'ensemble des professionnels de la communauté scolaire sur la gestion d'informations relatives à des situations susceptibles d'aller à l'encontre du bien-être des élèves ou de mettre en danger les droits des élèves, ainsi que sur le transfert de ces informations aux autorités judiciaires ;
+- informer et conseiller l'ensemble des professionnels de la communauté scolaire sur la gestion d'informations relatives à des situations susceptibles d'aller à l'encontre du bien-être des élèves ou de mettre en danger les droits des élèves, ainsi que sur le transfert de ces informations aux autorités judiciaires ;
 
-4. développer et organiser des formations continues pour les membres du personnel du lycée portant sur le respect des droits de l'élève, la prévention et la protection contre toute forme de maltraitance et de danger allant à l'encontre du bien-être de l'élève.
+- développer et organiser des formations continues pour les membres du personnel du lycée portant sur le respect des droits de l'élève, la prévention et la protection contre toute forme de maltraitance et de danger allant à l'encontre du bien-être de l'élève.
 
 Les DPE ne peuvent siéger au sein du conseil de discipline du lycée.
 
@@ -809,27 +809,27 @@ Il est créé, dans chaque lycée, au sein du département éducatif et psycho-s
 
 Le service a les missions suivantes :
 
-1. informer les élèves sur les offres proposées ;
+- informer les élèves sur les offres proposées ;
 
-2. assurer la guidance psychologique et sociale des élèves et de leur entourage familial et soutenir le développement de leur résilience dans le contexte de situations psycho-sociales difficiles ;
+- assurer la guidance psychologique et sociale des élèves et de leur entourage familial et soutenir le développement de leur résilience dans le contexte de situations psycho-sociales difficiles ;
 
-3. assister les élèves en situation de vulnérabilité, de discrimination ou d'harcèlement et contribuer à la promotion du respect des droits des élèves ;
+- assister les élèves en situation de vulnérabilité, de discrimination ou d'harcèlement et contribuer à la promotion du respect des droits des élèves ;
 
-4. mettre en place un accompagnement des élèves en risque de décrochage scolaire, en promouvant leurs ressources personnelles, favorables à un apprentissage et à la réussite scolaire ;
+- mettre en place un accompagnement des élèves en risque de décrochage scolaire, en promouvant leurs ressources personnelles, favorables à un apprentissage et à la réussite scolaire ;
 
-5. contribuer à améliorer les conditions de vie socio-économiques de l'entourage familial des élèves, afin qu'elles soient favorables à la réussite scolaire et accompagner les élèves dans les démarches relatives aux subventions scolaires, telles que prévues à l'article 2 de la loi modifiée du 13 juillet 2006 portant organisation du Centre psycho-social et d'accompagnement scolaires ;
+- contribuer à améliorer les conditions de vie socio-économiques de l'entourage familial des élèves, afin qu'elles soient favorables à la réussite scolaire et accompagner les élèves dans les démarches relatives aux subventions scolaires, telles que prévues à l'article 2 de la loi modifiée du 13 juillet 2006 portant organisation du Centre psycho-social et d'accompagnement scolaires ;
 
-6. mettre en place, en collaboration avec le service socio-éducatif, des activités :
+- mettre en place, en collaboration avec le service socio-éducatif, des activités :
 
-1. de prévention, visant le développement des compétences socio-émotionnelles des élèves dans le but de favoriser une bonne santé mentale ;
+  - de prévention, visant le développement des compétences socio-émotionnelles des élèves dans le but de favoriser une bonne santé mentale ;
 
-2. de prévention, visant la réduction des dangers liés aux médias sociaux ;
+  - de prévention, visant la réduction des dangers liés aux médias sociaux ;
 
-3. de promotion de la gestion des risques et de réduction des addictions ;
+  - de promotion de la gestion des risques et de réduction des addictions ;
 
-4. de promotion d'une santé affective et sexuelle positive ;
+  - de promotion d'une santé affective et sexuelle positive ;
 
-5. de promotion de la communication non-violente pour réduire la violence et le harcèlement.
+  - de promotion de la communication non-violente pour réduire la violence et le harcèlement.
 
 (3)
 
@@ -848,27 +848,27 @@ Il est créé, dans chaque lycée, au sein du département éducatif et psycho-s
 
 Le service a les missions suivantes :
 
-1. proposer des activités d'éducation non-formelle, en collaboration avec des organisations de jeunes, des organisations agissant en faveur de la jeunesse et des services pour jeunes, tels que définis à l'article 3 de la loi modifiée du 4 juillet 2008 sur la jeunesse, et des tiers ;
+- proposer des activités d'éducation non-formelle, en collaboration avec des organisations de jeunes, des organisations agissant en faveur de la jeunesse et des services pour jeunes, tels que définis à l'article 3 de la loi modifiée du 4 juillet 2008 sur la jeunesse, et des tiers ;
 
-2. encadrer les élèves au sein du « Jugendtreff », espace de rencontre et d'éducation non-formelle et y proposer des activités éducatives de manière régulière ;
+- encadrer les élèves au sein du « Jugendtreff », espace de rencontre et d'éducation non-formelle et y proposer des activités éducatives de manière régulière ;
 
-3. coordonner et mettre en œuvre, en collaboration avec les autres services du département et le personnel enseignant, une offre périscolaire, y compris les séjours pédagogiques avec et sans nuitées ;
+- coordonner et mettre en œuvre, en collaboration avec les autres services du département et le personnel enseignant, une offre périscolaire, y compris les séjours pédagogiques avec et sans nuitées ;
 
-4. coordonner les activités liées à la participation des élèves à la vie du lycée, aux décisions les concernant et promouvoir la culture démocratique en milieu scolaire ;
+- coordonner les activités liées à la participation des élèves à la vie du lycée, aux décisions les concernant et promouvoir la culture démocratique en milieu scolaire ;
 
-5. accompagner la mise en place des activités des comités d'élèves, des délégués de classe et veiller au bon fonctionnement de ces structures de représentation ;
+- accompagner la mise en place des activités des comités d'élèves, des délégués de classe et veiller au bon fonctionnement de ces structures de représentation ;
 
-6. mettre en place, en collaboration avec le service psycho-social et d'accompagnement scolaires, des activités :
+- mettre en place, en collaboration avec le service psycho-social et d'accompagnement scolaires, des activités :
 
-1. de prévention visant le développement des compétences socio-émotionnelles des élèves dans le but de favoriser une bonne santé mentale ;
+  - de prévention visant le développement des compétences socio-émotionnelles des élèves dans le but de favoriser une bonne santé mentale ;
 
-2. de prévention visant la réduction des dangers liés aux médias sociaux ;
+  - de prévention visant la réduction des dangers liés aux médias sociaux ;
 
-3. de promotion de la gestion des risques et de la réduction des addictions ;
+  - de promotion de la gestion des risques et de la réduction des addictions ;
 
-4. de promotion d'une santé affective et sexuelle positive ;
+  - de promotion d'une santé affective et sexuelle positive ;
 
-5. de promotion de la communication non-violente pour réduire la violence et le harcèlement.
+  - de promotion de la communication non-violente pour réduire la violence et le harcèlement.
 
 Ces activités ont lieu pendant ou en dehors des heures de classe.
 
@@ -889,25 +889,25 @@ Il est créé, dans chaque lycée, au sein du département éducatif et psycho-s
 
 Le service a les missions suivantes :
 
-1. assurer le conseil et la guidance psychologique, personnelle et sociale des élèves à besoins éducatifs spécifiques, afin de favoriser leur bien-être, leur autonomie, leur épanouissement personnel et leur participation à la vie scolaire ;
+- assurer le conseil et la guidance psychologique, personnelle et sociale des élèves à besoins éducatifs spécifiques, afin de favoriser leur bien-être, leur autonomie, leur épanouissement personnel et leur participation à la vie scolaire ;
 
-2. établir, sur demande de la commission d'inclusion, endéans quatre semaines de période scolaire à partir de la demande, un diagnostic qui renseigne sur les besoins des élèves en question et les mesures à mettre en œuvre et qui tient compte des contributions des parents, des enseignants et, le cas échéant, des membres d'organismes agréés œuvrant dans le domaine social, familial et thérapeutique ayant assuré ou assurant une prise en charge de l'élève ;
+- établir, sur demande de la commission d'inclusion, endéans quatre semaines de période scolaire à partir de la demande, un diagnostic qui renseigne sur les besoins des élèves en question et les mesures à mettre en œuvre et qui tient compte des contributions des parents, des enseignants et, le cas échéant, des membres d'organismes agréés œuvrant dans le domaine social, familial et thérapeutique ayant assuré ou assurant une prise en charge de l'élève ;
 
-3. assurer la prise en charge des élèves à besoins éducatifs spécifiques, en collaboration avec les enseignants et les parents des élèves concernés, telle que définie par la commission d'inclusion ;
+- assurer la prise en charge des élèves à besoins éducatifs spécifiques, en collaboration avec les enseignants et les parents des élèves concernés, telle que définie par la commission d'inclusion ;
 
-4. contribuer à l'adaptation du matériel didactique des élèves à besoins éducatifs spécifiques ;
+- contribuer à l'adaptation du matériel didactique des élèves à besoins éducatifs spécifiques ;
 
-5. procéder à une réévaluation des besoins éducatifs spécifiques des élèves, sur demande de la commission d'inclusion, qu'il présente dans les quatre semaines calendriers de la période scolaire suivant la date de la décision de la commission d'inclusion ;
+- procéder à une réévaluation des besoins éducatifs spécifiques des élèves, sur demande de la commission d'inclusion, qu'il présente dans les quatre semaines calendriers de la période scolaire suivant la date de la décision de la commission d'inclusion ;
 
-6. conseiller les membres de la communauté scolaire, ainsi que les parents des élèves à besoins éducatifs spécifiques, sur la mise en œuvre du plan de formation individualisé, tel que défini par la commission d'inclusion ;
+- conseiller les membres de la communauté scolaire, ainsi que les parents des élèves à besoins éducatifs spécifiques, sur la mise en œuvre du plan de formation individualisé, tel que défini par la commission d'inclusion ;
 
-7. collaborer étroitement, tant avec les enseignants, les membres de la direction et les membres des autres services de la communauté scolaire du lycée, qu'avec les Centres de compétences en psycho-pédagogie spécialisée, l'Office national de l'enfance, d'autres entités étatiques et les organismes agréés œuvrant dans les domaines social, familial et thérapeutique ;
+- collaborer étroitement, tant avec les enseignants, les membres de la direction et les membres des autres services de la communauté scolaire du lycée, qu'avec les Centres de compétences en psycho-pédagogie spécialisée, l'Office national de l'enfance, d'autres entités étatiques et les organismes agréés œuvrant dans les domaines social, familial et thérapeutique ;
 
-8. promouvoir, soutenir et coordonner l'élaboration et la mise en œuvre de la démarche relative à l'encadrement des élèves à besoins éducatifs spécifiques du lycée ;
+- promouvoir, soutenir et coordonner l'élaboration et la mise en œuvre de la démarche relative à l'encadrement des élèves à besoins éducatifs spécifiques du lycée ;
 
-9. conceptualiser et initier des actions d'information et de sensibilisation sur la thématique de la psycho-pédagogie spécialisée et des disciplines adjuvantes ;
+- conceptualiser et initier des actions d'information et de sensibilisation sur la thématique de la psycho-pédagogie spécialisée et des disciplines adjuvantes ;
 
-10. s'impliquer dans la mise en réseau des ESEB de l'enseignement secondaire.
+- s'impliquer dans la mise en réseau des ESEB de l'enseignement secondaire.
 
 <a id="art-28quinquies"></a>
 ## Art. 28quinquies.
@@ -922,13 +922,13 @@ Il est créé, dans chaque lycée, au sein du département éducatif et psycho-s
 
 Le service a les missions suivantes :
 
-1. mettre en place, à l'intention de tous les élèves, des activités permettant :
+- mettre en place, à l'intention de tous les élèves, des activités permettant :
 
-1. d'apprendre à prendre des décisions et planifier les projets professionnels, afin de réussir son parcours scolaire ;
+  - d'apprendre à prendre des décisions et planifier les projets professionnels, afin de réussir son parcours scolaire ;
 
-2. de connaître le monde du travail et de découvrir les études et formations ;
+  - de connaître le monde du travail et de découvrir les études et formations ;
 
-2. soutenir l'intégration scolaire des élèves.
+- soutenir l'intégration scolaire des élèves.
 
 (3)
 
@@ -936,13 +936,13 @@ La cellule d'orientation et d'intégration scolaires est chargée de la mise en 
 
 Ce cadre de référence décrit :
 
-1. les objectifs à atteindre par l'orientation et l'intégration scolaires ;
+- les objectifs à atteindre par l'orientation et l'intégration scolaires ;
 
-2. les mesures à prendre pour atteindre ces objectifs ;
+- les mesures à prendre pour atteindre ces objectifs ;
 
-3. les services spécialisés ou intervenants externes sollicités pour informer sur le monde socio-économique ;
+- les services spécialisés ou intervenants externes sollicités pour informer sur le monde socio-économique ;
 
-4. l'implication des membres de la communauté scolaire dans la démarche d'orientation et d'intégration scolaires.
+- l'implication des membres de la communauté scolaire dans la démarche d'orientation et d'intégration scolaires.
 
 Le cadre de référence pour l'orientation et l'intégration scolaires, est élaboré par le Service de coordination de la Maison de l'orientation, conjointement avec le Service de Coordination de la Recherche et de l'Innovation pédagogiques et technologiques et le service en charge de l'intégration et de l'accueil scolaires et est arrêté par le ministre.
 
@@ -994,9 +994,9 @@ Un internat peut être rattaché à un lycée. Ce service accueille, dans le cad
 
 L'internat a les missions suivantes :
 
-1. offrir des conditions de logement et de vie commune favorables à la réussite scolaire ;
+- offrir des conditions de logement et de vie commune favorables à la réussite scolaire ;
 
-2. accompagner la transition vers la vie adulte et l'acquisition des compétences transversales, nécessaires à la gestion de la vie quotidienne.
+- accompagner la transition vers la vie adulte et l'acquisition des compétences transversales, nécessaires à la gestion de la vie quotidienne.
 
 L'hébergement à l'internat est payant. Un règlement grand-ducal détermine les conditions de l'encadrement des élèves hébergés à l'internat, le fonctionnement de l'internat et le montant de la contribution due pour l'hébergement d'un élève à l'internat.
 
@@ -1130,17 +1130,17 @@ La cellule de développement scolaire
 
 Il est créé une cellule de développement scolaire dans chaque lycée. Les missions de la cellule de développement scolaire sont les suivantes:
 
-1. analyser et interpréter les données scolaires du lycée;
+- analyser et interpréter les données scolaires du lycée;
 
-2. identifier les besoins prioritaires du lycée;
+- identifier les besoins prioritaires du lycée;
 
-3. définir des stratégies de développement scolaire;
+- définir des stratégies de développement scolaire;
 
-4. élaborer la charte scolaire, le profil et le plan de développement scolaire en concertation avec le conseil d'éducation;
+- élaborer la charte scolaire, le profil et le plan de développement scolaire en concertation avec le conseil d'éducation;
 
-5. assurer la communication interne et externe;
+- assurer la communication interne et externe;
 
-6. élaborer, en concertation avec les délégués à la formation du lycée, un plan trisannuel de la formation continue du personnel du lycée, actualisé chaque année.
+- élaborer, en concertation avec les délégués à la formation du lycée, un plan trisannuel de la formation continue du personnel du lycée, actualisé chaque année.
 
 La cellule de développement scolaire est composée de membres de la direction et de membres de la conférence du lycée désignés par le directeur pour une durée de trois ans renouvelables. La cellule de développement scolaire est présidée par le directeur ou un directeur adjoint.
 
@@ -1223,25 +1223,25 @@ En cas de manquements aux règles de conduite, l'élève peut faire l'objet de m
 
 Les mesures éducatives suivantes peuvent être prises par un enseignant, un membre de la direction ou une personne exerçant la surveillance :
 
-1. le rappel à l'ordre ou le blâme ;
+- le rappel à l'ordre ou le blâme ;
 
-2. le travail d'intérêt pédagogique ;
+- le travail d'intérêt pédagogique ;
 
-3. l'exclusion temporaire de la leçon avec une surveillance adéquate ;
+- l'exclusion temporaire de la leçon avec une surveillance adéquate ;
 
-4. la retenue en dehors des heures de classe, sous surveillance, et avec l'obligation de faire un devoir imposé par l'enseignant ou le surveillant ;
+- la retenue en dehors des heures de classe, sous surveillance, et avec l'obligation de faire un devoir imposé par l'enseignant ou le surveillant ;
 
-5. la confiscation temporaire d'un objet qui est interdit dans l'enceinte du lycée ou au cours. L'objet est rendu après le cours à l'intéressé ou remis au directeur qui le rend au parent ou à l'élève majeur qui se présente dans son bureau.
+- la confiscation temporaire d'un objet qui est interdit dans l'enceinte du lycée ou au cours. L'objet est rendu après le cours à l'intéressé ou remis au directeur qui le rend au parent ou à l'élève majeur qui se présente dans son bureau.
 
 (2)
 
 Les mesures éducatives suivantes peuvent être prises par le directeur, le conseil de classe et pour les élèves à besoins éducatifs spécifiques, la commission d'inclusion demandés en leur avis :
 
-1. une activité dans l'intérêt de la communauté scolaire, en relation avec le manquement ;
+- une activité dans l'intérêt de la communauté scolaire, en relation avec le manquement ;
 
-2. le transfert temporaire ou définitif à une autre classe du même établissement ;
+- le transfert temporaire ou définitif à une autre classe du même établissement ;
 
-3. l'exclusion de tous les cours pendant une durée de un jour à deux semaines. Pour l'élève mineur, elle est accompagnée, pendant l'horaire normal de la classe de l'élève sanctionné, de mesures destinées à garantir la poursuite de la scolarité de l'élève.
+- l'exclusion de tous les cours pendant une durée de un jour à deux semaines. Pour l'élève mineur, elle est accompagnée, pendant l'horaire normal de la classe de l'élève sanctionné, de mesures destinées à garantir la poursuite de la scolarité de l'élève.
 
 (3)
 
@@ -1251,27 +1251,27 @@ La mesure éducative est inscrite au livre de classe. Une mesure éducative déc
 
 Les mesures éducatives sont prises suite aux manquements suivants :
 
-1. les actes d'incivilité et d'impertinence commis à l'égard des membres de la communauté scolaire ;
+- les actes d'incivilité et d'impertinence commis à l'égard des membres de la communauté scolaire ;
 
-2. le refus d'obéissance ;
+- le refus d'obéissance ;
 
-3. le refus d'assister aux cours ou de composer ;
+- le refus d'assister aux cours ou de composer ;
 
-4. l'absence injustifiée des cours durant au plus soixante leçons au cours d'une même année scolaire, ou au plus trente leçons pour les élèves des classes concomitantes, et les retards réitérés ainsi que l'absence injustifiée à l'appui auquel l'élève s'est inscrit ou la non-réalisation des travaux qui lui sont indiqués ;
+- l'absence injustifiée des cours durant au plus soixante leçons au cours d'une même année scolaire, ou au plus trente leçons pour les élèves des classes concomitantes, et les retards réitérés ainsi que l'absence injustifiée à l'appui auquel l'élève s'est inscrit ou la non-réalisation des travaux qui lui sont indiqués ;
 
-5. la présence au lycée en état d'ébriété ou sous l'emprise de stupéfiants prohibés ;
+- la présence au lycée en état d'ébriété ou sous l'emprise de stupéfiants prohibés ;
 
-6. la détention ou la consommation d'alcool dans l'enceinte du lycée ;
+- la détention ou la consommation d'alcool dans l'enceinte du lycée ;
 
-7. la consommation de tabac à l'intérieur du lycée et dans son enceinte ;
+- la consommation de tabac à l'intérieur du lycée et dans son enceinte ;
 
-8. la fraude ;
+- la fraude ;
 
-9. l'incitation au désordre ou à un manquement ;
+- l'incitation au désordre ou à un manquement ;
 
-10. l'organisation, dans l'enceinte du lycée, de manifestations non autorisées par le directeur ;
+- l'organisation, dans l'enceinte du lycée, de manifestations non autorisées par le directeur ;
 
-11. les infractions visées à l'article 43 qui ne justifient pas le renvoi.
+- les infractions visées à l'article 43 qui ne justifient pas le renvoi.
 
 (5)
 
@@ -1288,37 +1288,37 @@ Le conseil de discipline peut prononcer la sanction du renvoi à l'encontre d'un
 
 Le conseil de discipline peut prononcer la sanction du renvoi pour les faits suivants :
 
-1. les voies de fait, l'incitation à la violence, la menace et les actes de violence commis à l'égard d'un membre de la communauté scolaire ;
+- les voies de fait, l'incitation à la violence, la menace et les actes de violence commis à l'égard d'un membre de la communauté scolaire ;
 
-2. l'insulte grave ;
+- l'insulte grave ;
 
-3. l'enregistrement ou la diffusion de scènes de violence ou d'humiliation concernant les personnes de la communauté scolaire ;
+- l'enregistrement ou la diffusion de scènes de violence ou d'humiliation concernant les personnes de la communauté scolaire ;
 
-4. l'atteinte aux bonnes mœurs ;
+- l'atteinte aux bonnes mœurs ;
 
-5. le port d'armes ;
+- le port d'armes ;
 
-6. les incitations et agissements discriminatoires, de nature xénophobe ou envers l'appartenance ethnique, le sexe ou l'identité du genre, le handicap, l'âge, l'orientation sexuelle, la religion ;
+- les incitations et agissements discriminatoires, de nature xénophobe ou envers l'appartenance ethnique, le sexe ou l'identité du genre, le handicap, l'âge, l'orientation sexuelle, la religion ;
 
-7. le harcèlement moral ou sexuel ;
+- le harcèlement moral ou sexuel ;
 
-8. la dégradation ou la destruction de propriétés au détriment soit de l'Etat, soit de particuliers ;
+- la dégradation ou la destruction de propriétés au détriment soit de l'Etat, soit de particuliers ;
 
-9. le vol dans l'enceinte du lycée ou lors d'un déplacement scolaire ou d'une activité périscolaire ;
+- le vol dans l'enceinte du lycée ou lors d'un déplacement scolaire ou d'une activité périscolaire ;
 
-10. le faux en écriture, la falsification de documents ;
+- le faux en écriture, la falsification de documents ;
 
-11. le refus d'observer les mesures de sécurité ;
+- le refus d'observer les mesures de sécurité ;
 
-12. le déclenchement d'une fausse alerte ou l'annonce d'un danger inexistant avec l'intention de déclencher une fausse alerte ;
+- le déclenchement d'une fausse alerte ou l'annonce d'un danger inexistant avec l'intention de déclencher une fausse alerte ;
 
-13. la présence répétée au lycée en état d'ébriété ou sous l'emprise de stupéfiants prohibés ;
+- la présence répétée au lycée en état d'ébriété ou sous l'emprise de stupéfiants prohibés ;
 
-14. la détention ou la consommation ou le trafic, dans l'enceinte du lycée, de stupéfiants prohibés ;
+- la détention ou la consommation ou le trafic, dans l'enceinte du lycée, de stupéfiants prohibés ;
 
-15. l'absence injustifiée des cours durant plus de soixante leçons au cours d'une même année scolaire ou plus de trente leçons pour les élèves des classes concomitantes ;
+- l'absence injustifiée des cours durant plus de soixante leçons au cours d'une même année scolaire ou plus de trente leçons pour les élèves des classes concomitantes ;
 
-16. trois exclusions, pendant une même année scolaire, de tous les cours pour chaque fois au moins une journée; à la suite de la deuxième exclusion, l'élève majeur ou les parents de l'élève mineur sont avertis par écrit qu'en cas de récidive le renvoi est possible.
+- trois exclusions, pendant une même année scolaire, de tous les cours pour chaque fois au moins une journée; à la suite de la deuxième exclusion, l'élève majeur ou les parents de l'élève mineur sont avertis par écrit qu'en cas de récidive le renvoi est possible.
 
 La décision du conseil de discipline est motivée et arrêtée par écrit. Elle est notifiée à l'élève majeur ou aux parents de l'élève mineur ainsi que, le cas échéant, au patron formateur et aux chambres professionnelles concernées, par lettre recommandée. La décision du renvoi mentionne les voies de recours.
 
@@ -1333,15 +1333,15 @@ Le conseil de discipline est saisi par le directeur qui fixe la date de la séan
 
 Il convoque également à la séance et en respectant les mêmes délais :
 
-1. par lettre recommandée l'élève majeur ou l'élève mineur et ses parents ;
+- par lettre recommandée l'élève majeur ou l'élève mineur et ses parents ;
 
-2. le régent de la classe de l'élève ;
+- le régent de la classe de l'élève ;
 
-3. le cas échéant, la personne de référence ;
+- le cas échéant, la personne de référence ;
 
-4. le cas échéant, le conseiller à l'apprentissage pour les élèves des classes à enseignement concomitant de la formation professionnelle ;
+- le cas échéant, le conseiller à l'apprentissage pour les élèves des classes à enseignement concomitant de la formation professionnelle ;
 
-5. toute personne susceptible d'éclairer le conseil de discipline sur la situation de l'élève ou sur les faits reprochés à l'élève. Ces personnes peuvent être entendues au préalable. Un rapport écrit est joint au dossier de l'élève soumis au conseil de discipline.
+- toute personne susceptible d'éclairer le conseil de discipline sur la situation de l'élève ou sur les faits reprochés à l'élève. Ces personnes peuvent être entendues au préalable. Un rapport écrit est joint au dossier de l'élève soumis au conseil de discipline.
 
 La convocation doit contenir une description des faits et des infractions qui sont reprochés à l'élève.
 
@@ -1411,11 +1411,11 @@ Les dispositions du chapitre 11 s'appliquent également aux écoles privées qui
 
 Sont abrogées toutes les dispositions légales contraires à la présente loi et notamment:
 
-1. en ce qui concerne la loi modifiée du 10 mai 1968 portant réforme de l'enseignement (Titre VI: de l'enseignement secondaire classique) l'article 45, dernier alinéa (conseil de classe) l'article 54, alinéa 1 (conseil d'éducation) l'article 54, alinéa 2 (conférence des professeurs)
+- en ce qui concerne la loi modifiée du 10 mai 1968 portant réforme de l'enseignement (Titre VI: de l'enseignement secondaire classique) l'article 45, dernier alinéa (conseil de classe) l'article 54, alinéa 1 (conseil d'éducation) l'article 54, alinéa 2 (conférence des professeurs)
 
-2. en ce qui concerne la loi du 22 juin 1989 portant modification de la loi modifiée du 10 mai 1968 portant réforme de l'enseignement (Titre VI: de l'enseignement secondaire classique) l'article 3, paragraphe 6, alinéa 2 (directeur) l'article 3, paragraphe 6, alinéa 4 (directeur adjoint)
+- en ce qui concerne la loi du 22 juin 1989 portant modification de la loi modifiée du 10 mai 1968 portant réforme de l'enseignement (Titre VI: de l'enseignement secondaire classique) l'article 3, paragraphe 6, alinéa 2 (directeur) l'article 3, paragraphe 6, alinéa 4 (directeur adjoint)
 
-3. en ce qui concerne la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire général et de la formation professionnelle continue l'article 6, paragraphe 2, alinéa 2 (inscriptions) l'article 28, dernier alinéa (conseil de classe) l'article 30 (classes spéciales) l'article 35 (conférence des professeurs) l'article 39 (conseil d'éducation) l'article 41 (projet d'établissement) l'article 45 bis (comité des élèves) l'article 55, alinéa 2 (directeur) l'article 55, alinéa 4 (directeur-adjoint).
+- en ce qui concerne la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire général et de la formation professionnelle continue l'article 6, paragraphe 2, alinéa 2 (inscriptions) l'article 28, dernier alinéa (conseil de classe) l'article 30 (classes spéciales) l'article 35 (conférence des professeurs) l'article 39 (conseil d'éducation) l'article 41 (projet d'établissement) l'article 45 bis (comité des élèves) l'article 55, alinéa 2 (directeur) l'article 55, alinéa 4 (directeur-adjoint).
 
 #### Chapitre 13. Disposition transitoire
 

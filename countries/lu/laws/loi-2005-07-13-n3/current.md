@@ -34,83 +34,83 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour l'application de la présente loi, on entend par :
 
-1. « institution de retraite professionnelle » ou « IRP » : « un établissement, quelle que soit sa forme juridique, qui fonctionne selon le principe du financement par capitalisation et qui est établi séparément de toute entreprise ou groupement d'affiliation dans le but de fournir des prestations de retraite liées à une activité professionnelle, sur la base d'un accord ou d'un contrat : et qui exerce des activités qui découlent directement de ce but ;
+- « institution de retraite professionnelle » ou « IRP » : « un établissement, quelle que soit sa forme juridique, qui fonctionne selon le principe du financement par capitalisation et qui est établi séparément de toute entreprise ou groupement d'affiliation dans le but de fournir des prestations de retraite liées à une activité professionnelle, sur la base d'un accord ou d'un contrat : et qui exerce des activités qui découlent directement de ce but ;
 
-2. 1°bis « IRP qui transfère » : « une IRP, autre qu'un fonds de pension au sens du point 2, qui transfère, en tout ou partie, des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, à un fonds de pension au sens du point 2 » ;
+- 1°bis « IRP qui transfère » : « une IRP, autre qu'un fonds de pension au sens du point 2, qui transfère, en tout ou partie, des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, à un fonds de pension au sens du point 2 » ;
 
-3. 1°ter « fonds de pension qui transfère » : « un fonds de pension au sens du point 2, qui transfère, en tout ou partie, des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, à un fonds de pension au sens du point 2, ou à un fonds de pension soumis à la surveillance du Commissariat aux assurances, désigné ci-après « CAA », ou à une IRP enregistrée ou agréée dans un autre État membre » ;
+- 1°ter « fonds de pension qui transfère » : « un fonds de pension au sens du point 2, qui transfère, en tout ou partie, des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, à un fonds de pension au sens du point 2, ou à un fonds de pension soumis à la surveillance du Commissariat aux assurances, désigné ci-après « CAA », ou à une IRP enregistrée ou agréée dans un autre État membre » ;
 
-4. 1°quater « IRP destinataire » : « une IRP, autre qu'un fonds de pension au sens du point 2, qui reçoit, en tout ou partie, des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, d'un fonds de pension au sens du point 2 » ;
+- 1°quater « IRP destinataire » : « une IRP, autre qu'un fonds de pension au sens du point 2, qui reçoit, en tout ou partie, des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, d'un fonds de pension au sens du point 2 » ;
 
-5. 1°quinquies « fonds de pension destinataire » : « un fonds de pension au sens du point 2, qui reçoit, en tout ou partie, des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, d'un fonds de pension au sens du point 2 ou d'un fonds de pension soumis à la surveillance du CAA ou à une IRP enregistrée ou agréée dans un autre État membre » ;
+- 1°quinquies « fonds de pension destinataire » : « un fonds de pension au sens du point 2, qui reçoit, en tout ou partie, des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, d'un fonds de pension au sens du point 2 ou d'un fonds de pension soumis à la surveillance du CAA ou à une IRP enregistrée ou agréée dans un autre État membre » ;
 
-6. « fonds de pension » : « une IRP au sens des articles 5 et 25 de la présente loi » ;
+- « fonds de pension » : « une IRP au sens des articles 5 et 25 de la présente loi » ;
 
-7. « sepcav » : « une IRP sous forme de société d'épargne-pension à capital variable » ;
+- « sepcav » : « une IRP sous forme de société d'épargne-pension à capital variable » ;
 
-8. « assep » : « une IRP sous forme d'association d'épargne-pension » ;
+- « assep » : « une IRP sous forme d'association d'épargne-pension » ;
 
-9. « CSSF » : « la Commission de surveillance du secteur financier » ;
+- « CSSF » : « la Commission de surveillance du secteur financier » ;
 
-10. « régime de retraite » : « un contrat, un accord, un acte de fiducie ou des règles stipulant quelles prestations de retraite sont fournies, et selon quelles modalités » ;
+- « régime de retraite » : « un contrat, un accord, un acte de fiducie ou des règles stipulant quelles prestations de retraite sont fournies, et selon quelles modalités » ;
 
-11. « prestations de retraite » : « des prestations attribuées par référence à la retraite ou à la perspective d'atteindre la retraite ou, lorsqu'elles viennent en complément desdites prestations et sont fournies à titre accessoire, sous la forme de versements en cas de décès, d'invalidité ou de cessation d'activité, ou sous la forme d'aides ou de services en cas de maladie, d'indigence ou de décès ; ces prestations peuvent revêtir la forme d'une rente viagère, d'une rente temporaire ou d'un capital unique « , ou toute combinaison de ces différentes possibilités » ;
+- « prestations de retraite » : « des prestations attribuées par référence à la retraite ou à la perspective d'atteindre la retraite ou, lorsqu'elles viennent en complément desdites prestations et sont fournies à titre accessoire, sous la forme de versements en cas de décès, d'invalidité ou de cessation d'activité, ou sous la forme d'aides ou de services en cas de maladie, d'indigence ou de décès ; ces prestations peuvent revêtir la forme d'une rente viagère, d'une rente temporaire ou d'un capital unique « , ou toute combinaison de ces différentes possibilités » ;
 
-12. « affiliés » : « les personnes autres que les bénéficiaires ou les affiliés potentiels auxquelles leur activité professionnelle passée ou présente donne ou donnera droit à des prestations de retraite conformément aux dispositions d'un régime de retraite » ;
+- « affiliés » : « les personnes autres que les bénéficiaires ou les affiliés potentiels auxquelles leur activité professionnelle passée ou présente donne ou donnera droit à des prestations de retraite conformément aux dispositions d'un régime de retraite » ;
 
-13. 8°bis « affiliés potentiels » : « les personnes remplissant les conditions pour s'affilier à un régime de retraite » ; »
+- 8°bis « affiliés potentiels » : « les personnes remplissant les conditions pour s'affilier à un régime de retraite » ; »
 
-14. « bénéficiaires » : « les personnes recevant des prestations de retraite » ;
+- « bénéficiaires » : « les personnes recevant des prestations de retraite » ;
 
-15. « cotisant » : « une entreprise d'affiliation ou un affilié versant des cotisations personnelles » ;
+- « cotisant » : « une entreprise d'affiliation ou un affilié versant des cotisations personnelles » ;
 
-16. « entreprise d'affiliation » (sponsor) : « toute entreprise ou tout autre organisme, qu'il comporte ou soit composé d'une ou de plusieurs personnes morales ou physiques, qui agit en qualité d'employeur ou en qualité d'indépendant, ou d'une combinaison de ces deux qualités et qui propose un régime de retraite ou verse des cotisations à une IRP » ;
+- « entreprise d'affiliation » (sponsor) : « toute entreprise ou tout autre organisme, qu'il comporte ou soit composé d'une ou de plusieurs personnes morales ou physiques, qui agit en qualité d'employeur ou en qualité d'indépendant, ou d'une combinaison de ces deux qualités et qui propose un régime de retraite ou verse des cotisations à une IRP » ;
 
-17. « risques biométriques » : « les risques liés au décès, à l'invalidité et à la longévité » ;
+- « risques biométriques » : « les risques liés au décès, à l'invalidité et à la longévité » ;
 
-18. 12°bis « support durable » : « un instrument permettant à un affilié ou à un bénéficiaire de stocker des informations qui lui sont adressées personnellement d'une manière permettant de s'y reporter à l'avenir et pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l'identique des informations stockées » ;
+- 12°bis « support durable » : « un instrument permettant à un affilié ou à un bénéficiaire de stocker des informations qui lui sont adressées personnellement d'une manière permettant de s'y reporter à l'avenir et pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l'identique des informations stockées » ;
 
-19. 12°ter « fonction clé » : « dans un système de gouvernance, une capacité d'accomplir des tâches concrètes, y compris la fonction de gestion des risques, la fonction d'audit interne et la fonction actuarielle » ;
+- 12°ter « fonction clé » : « dans un système de gouvernance, une capacité d'accomplir des tâches concrètes, y compris la fonction de gestion des risques, la fonction d'audit interne et la fonction actuarielle » ;
 
-20. « Etat membre » : « un Etat membre de l'Union européenne. « Sont assimilés aux États membres de l'Union européenne les États parties à l'Accord sur l'Espace économique européen autres que les États membres de l'Union européenne, dans les limites définies par cet accord et les actes y aaafférents ;
+- « Etat membre » : « un Etat membre de l'Union européenne. « Sont assimilés aux États membres de l'Union européenne les États parties à l'Accord sur l'Espace économique européen autres que les États membres de l'Union européenne, dans les limites définies par cet accord et les actes y aaafférents ;
 
-21. « État membre d'origine » : « l'État membre dans lequel une IRP a été enregistrée ou agréée et où se trouve son administration principale » ;
+- « État membre d'origine » : « l'État membre dans lequel une IRP a été enregistrée ou agréée et où se trouve son administration principale » ;
 
-22. « État membre d'accueil » : « l'Etat membre dont la législation sociale et la législation du travail pertinentes en matière de régimes de retraite professionnelle sont applicables à la relation entre l'entreprise d'affiliation et les affiliés ou les bénéficiaires » ;
+- « État membre d'accueil » : « l'Etat membre dont la législation sociale et la législation du travail pertinentes en matière de régimes de retraite professionnelle sont applicables à la relation entre l'entreprise d'affiliation et les affiliés ou les bénéficiaires » ;
 
-23. 15°bis « activité transfrontalière » : « la gestion d'un régime de retraite dans le cadre duquel la relation entre l'entreprise d'affiliation et les affiliés et bénéficiaires concernés est régie par le droit social et le droit du travail pertinents en matière de régimes de retraite professionnelle d'un État membre autre que l'État membre d'origine » ;
+- 15°bis « activité transfrontalière » : « la gestion d'un régime de retraite dans le cadre duquel la relation entre l'entreprise d'affiliation et les affiliés et bénéficiaires concernés est régie par le droit social et le droit du travail pertinents en matière de régimes de retraite professionnelle d'un État membre autre que l'État membre d'origine » ;
 
-24. « autorités compétentes » : « les autorités nationales désignées pour exercer les fonctions prévues par la directive (UE) 2016/2341 » ;
+- « autorités compétentes » : « les autorités nationales désignées pour exercer les fonctions prévues par la directive (UE) 2016/2341 » ;
 
-25. « autorités d'origine » : « les autorités nationales désignées par l'Etat membre d'origine pour exercer les fonctions prévues par la directive (UE) 2016/2341 en tant qu'Etat membre d'origine de l'IRP » ;
+- « autorités d'origine » : « les autorités nationales désignées par l'Etat membre d'origine pour exercer les fonctions prévues par la directive (UE) 2016/2341 en tant qu'Etat membre d'origine de l'IRP » ;
 
-26. « autorités d'accueil » : « les autorités nationales désignées par l'Etat membre d'accueil pour exercer les missions prévues par la directive (UE) 2016/2341 en tant qu'Etat membre d'accueil de l'IRP » ;
+- « autorités d'accueil » : « les autorités nationales désignées par l'Etat membre d'accueil pour exercer les missions prévues par la directive (UE) 2016/2341 en tant qu'Etat membre d'accueil de l'IRP » ;
 
-27. 18°bis « AEAPP » : « l'Autorité européenne des assurances et des pensions professionnelles instituée par le règlement (UE) n° 1094/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des assurances et des pensions professionnelles), modifiant la décision n° 716/2009/CE et abrogeant la décision 2009/79/CE de la Commission » ;
+- 18°bis « AEAPP » : « l'Autorité européenne des assurances et des pensions professionnelles instituée par le règlement (UE) n° 1094/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des assurances et des pensions professionnelles), modifiant la décision n° 716/2009/CE et abrogeant la décision 2009/79/CE de la Commission » ;
 
-28. 18°ter « marché réglementé » : « un marché réglementé tel que défini à l'article 1er, point 31, de la loi du 30 mai 2018 relative aux marchés d'instruments financiers » ;
+- 18°ter « marché réglementé » : « un marché réglementé tel que défini à l'article 1er, point 31, de la loi du 30 mai 2018 relative aux marchés d'instruments financiers » ;
 
-29. 18°quater « système multilatéral de négociation » ou « MTF » : « un système multilatéral de négociation ou MTF tel que défini à l'article 1er, point 32, de la loi du 30 mai 2018 relative aux marchés d'instruments financiers » ;
+- 18°quater « système multilatéral de négociation » ou « MTF » : « un système multilatéral de négociation ou MTF tel que défini à l'article 1er, point 32, de la loi du 30 mai 2018 relative aux marchés d'instruments financiers » ;
 
-30. 18°quinquies « système organisé de négociation » ou « OTF » : « un système organisé de négociation ou OTF tel que défini à l'article 1er, point 38, de la loi du 30 mai 2018 relative aux marchés d'instruments financiers » ; » ;
+- 18°quinquies « système organisé de négociation » ou « OTF » : « un système organisé de négociation ou OTF tel que défini à l'article 1er, point 38, de la loi du 30 mai 2018 relative aux marchés d'instruments financiers » ; » ;
 
-31. « directive 2009/138/CE » : « la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l'accès aux activités de l'assurance et de la réassurance et leur exercice (solvabilité II) » ;
+- « directive 2009/138/CE » : « la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l'accès aux activités de l'assurance et de la réassurance et leur exercice (solvabilité II) » ;
 
-32. « directive 2009/65/CE »: « la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) » ;
+- « directive 2009/65/CE »: « la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) » ;
 
-33. « directive 2014/65/UE » : « la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE » ;
+- « directive 2014/65/UE » : « la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE » ;
 
-34. « directive 2013/36/UE » : « la directive 2013/36/UE du Parlement européen et du Conseil du 26 juin 2013 concernant l'accès à l'activité des établissements de crédit et la surveillance prudentielle des établissements de crédit et des entreprises d'investissement, modifiant la directive 2002/87/CE et abrogeant les directives 2006/48/CE et 2006/49/CE » ;
+- « directive 2013/36/UE » : « la directive 2013/36/UE du Parlement européen et du Conseil du 26 juin 2013 concernant l'accès à l'activité des établissements de crédit et la surveillance prudentielle des établissements de crédit et des entreprises d'investissement, modifiant la directive 2002/87/CE et abrogeant les directives 2006/48/CE et 2006/49/CE » ;
 
-35. « directive (UE) 2016/2341 » : « la directive (UE) 2016/2341 du Parlement européen et du Conseil du 14 décembre 2016 concernant les activités et la surveillance des institutions de retraite professionnelle (IRP) » ;
+- « directive (UE) 2016/2341 » : « la directive (UE) 2016/2341 du Parlement européen et du Conseil du 14 décembre 2016 concernant les activités et la surveillance des institutions de retraite professionnelle (IRP) » ;
 
-36. 24bis « directive 2011/61/UE » : « la directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d'investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) n°1060/2009 et (UE) n° 1095/2010 ; ».
+- 24bis « directive 2011/61/UE » : « la directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d'investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) n°1060/2009 et (UE) n° 1095/2010 ; ».
 
-37. « règlement (CE) n° 883/2004 » : « le règlement (CE) n° 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale » ;
+- « règlement (CE) n° 883/2004 » : « le règlement (CE) n° 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale » ;
 
-38. « règlement (CE) n° 987/2009 » : « le règlement (CE) n° 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d'application du règlement (CE) n° 883/2004 portant sur la coordination des systèmes de sécurité sociale » ;
+- « règlement (CE) n° 987/2009 » : « le règlement (CE) n° 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d'application du règlement (CE) n° 883/2004 portant sur la coordination des systèmes de sécurité sociale » ;
 
-39. « règlement (UE) 2023/2859 » : « le règlement (UE) 2023/2859 du Parlement européen et du Conseil du 13 décembre 2023 établissant un point d’accès unique européen fournissant un accès centralisé aux informations publiées utiles pour les services financiers, les marchés des capitaux et la durabilité ».
+- « règlement (UE) 2023/2859 » : « le règlement (UE) 2023/2859 du Parlement européen et du Conseil du 13 décembre 2023 établissant un point d’accès unique européen fournissant un accès centralisé aux informations publiées utiles pour les services financiers, les marchés des capitaux et la durabilité ».
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -388,13 +388,13 @@ Les actions de la sepcav ne donnent pas droit à distribution.
 
 Tous les actes, factures, annonces, publications, lettres, notes de commande et autres documents émanant d'une société tombant sous l'application de la présente partie doivent contenir :
 
-1. la dénomination de la sepcav ;
+- la dénomination de la sepcav ;
 
-2. la mention « société d'épargne-pension à capital variable », reproduite lisiblement et en toutes lettres ou en abrégé « sepcav », placée immédiatement avant ou après la dénomination sociale ;
+- la mention « société d'épargne-pension à capital variable », reproduite lisiblement et en toutes lettres ou en abrégé « sepcav », placée immédiatement avant ou après la dénomination sociale ;
 
-3. l'indication précise du siège de la sepcav ;
+- l'indication précise du siège de la sepcav ;
 
-4. les mots « Registre de commerce et des sociétés, Luxembourg » ou les initiales « R.C.S. Luxembourg » suivis du numéro d'immatriculation.
+- les mots « Registre de commerce et des sociétés, Luxembourg » ou les initiales « R.C.S. Luxembourg » suivis du numéro d'immatriculation.
 
 #### Chapitre 2 Le dépositaire
 
@@ -411,13 +411,13 @@ Dans le cas d'une sepcav à compartiments multiples, les statuts peuvent prévoi
 
 Le dépositaire doit en outre :
 
-1. s'assurer que dans les opérations portant sur les actifs de la sepcav relatifs à un régime de retraite, la contrepartie lui est remise dans les délais d'usage ;
+- s'assurer que dans les opérations portant sur les actifs de la sepcav relatifs à un régime de retraite, la contrepartie lui est remise dans les délais d'usage ;
 
-2. s'assurer que les revenus produits par les actifs reçoivent l'affectation conforme aux statuts et au règlement de pension ;
+- s'assurer que les revenus produits par les actifs reçoivent l'affectation conforme aux statuts et au règlement de pension ;
 
-3. exécuter les instructions de la sepcav sauf si elles sont en contradiction avec la loi, les statuts de la sepcav ou le règlement de pension ;
+- exécuter les instructions de la sepcav sauf si elles sont en contradiction avec la loi, les statuts de la sepcav ou le règlement de pension ;
 
-4. contrôler si le ou les cotisants procèdent ponctuellement au versement des cotisations.
+- contrôler si le ou les cotisants procèdent ponctuellement au versement des cotisations.
 
 (3)
 
@@ -457,13 +457,13 @@ Le dépositaire est responsable, selon le droit luxembourgeois, à l'égard de l
 
 Les fonctions du dépositaire de la sepcav prennent fin :
 
-1. en cas de démission ou de révocation par la sepcav ; en attendant son remplacement qui doit avoir lieu dans les deux mois, le dépositaire doit prendre toutes les mesures nécessaires à la bonne conservation des intérêts des actionnaires ;
+- en cas de démission ou de révocation par la sepcav ; en attendant son remplacement qui doit avoir lieu dans les deux mois, le dépositaire doit prendre toutes les mesures nécessaires à la bonne conservation des intérêts des actionnaires ;
 
-2. lorsque le dépositaire a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
+- lorsque le dépositaire a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
 
-3. lorsque son agrément, conformément à la directive 2013/36/UE ou à la directive 2014/65/UE, ou en tant que dépositaire aux fins de la directive 2009/65/CE ou de la directive 2011/61/UE est retiré ;
+- lorsque son agrément, conformément à la directive 2013/36/UE ou à la directive 2014/65/UE, ou en tant que dépositaire aux fins de la directive 2009/65/CE ou de la directive 2011/61/UE est retiré ;
 
-4. dans tous les autres cas prévus par les statuts.
+- dans tous les autres cas prévus par les statuts.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -498,13 +498,13 @@ Lorsque la délégation à un gestionnaire d'actif a été rendue obligatoire pa
 
 Les fonctions du gestionnaire d'actif de la sepcav prennent fin :
 
-1. en cas de démission ou de révocation par la sepcav ; en attendant son remplacement qui doit avoir lieu dans les deux mois, le gestionnaire d'actif doit prendre toutes les mesures nécessaires à la bonne conservation des intérêts des actionnaires ;
+- en cas de démission ou de révocation par la sepcav ; en attendant son remplacement qui doit avoir lieu dans les deux mois, le gestionnaire d'actif doit prendre toutes les mesures nécessaires à la bonne conservation des intérêts des actionnaires ;
 
-2. lorsque le gestionnaire d'actif a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
+- lorsque le gestionnaire d'actif a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
 
-3. lorsque son agrément selon les dispositions du paragraphe (1) est retiré ;
+- lorsque son agrément selon les dispositions du paragraphe (1) est retiré ;
 
-4. dans tous les autres cas prévus par les statuts.
+- dans tous les autres cas prévus par les statuts.
 
 (5)
 
@@ -540,13 +540,13 @@ Les sepcav conservent l'entière responsabilité du respect des obligations qui 
 
 L'externalisation de fonctions clés ou d'autres activités n'est pas effectuée d'une manière susceptible d'entraîner l'une des conséquences suivantes :
 
-1. compromettre la qualité du système de gouvernance de la sepcav concernée ;
+- compromettre la qualité du système de gouvernance de la sepcav concernée ;
 
-2. accroître indûment le risque opérationnel ;
+- accroître indûment le risque opérationnel ;
 
-3. compromettre la capacité de la CSSF de vérifier que la sepcav concernée se conforme à ses obligations ;
+- compromettre la capacité de la CSSF de vérifier que la sepcav concernée se conforme à ses obligations ;
 
-4. nuire à la prestation continue d'un service satisfaisant à l'égard des affiliés et bénéficiaires.
+- nuire à la prestation continue d'un service satisfaisant à l'égard des affiliés et bénéficiaires.
 
 (4)
 
@@ -590,27 +590,27 @@ L'assep peut agir comme mandataire ou intermédiaire en vue de la transformation
 
 Les statuts d'une assep doivent mentionner :
 
-1. la dénomination et le siège social. Ce siège social doit être fixé dans le Grand-Duché ;
+- la dénomination et le siège social. Ce siège social doit être fixé dans le Grand-Duché ;
 
-2. l'objet social ;
+- l'objet social ;
 
-3. le nombre minimum des associés. Il ne peut être inférieur à trois et doit au minimum compter un représentant des affiliés, un représentant des bénéficiaires et un représentant du ou des cotisants. A défaut de bénéficiaire, l'assep comptera au moins deux représentants des affiliés parmi ses associés. L'assep pourra compter parmi ses associés des personnes morales ;
+- le nombre minimum des associés. Il ne peut être inférieur à trois et doit au minimum compter un représentant des affiliés, un représentant des bénéficiaires et un représentant du ou des cotisants. A défaut de bénéficiaire, l'assep comptera au moins deux représentants des affiliés parmi ses associés. L'assep pourra compter parmi ses associés des personnes morales ;
 
-4. les nom, prénoms, profession, domicile ou siège social des fondateurs ;
+- les nom, prénoms, profession, domicile ou siège social des fondateurs ;
 
-5. les conditions mises à l'entrée et à la sortie des associés ;
+- les conditions mises à l'entrée et à la sortie des associés ;
 
-6. les attributions et le mode de convocation de l'assemblée générale, ainsi que les conditions dans lesquelles ses résolutions sont portées à la connaissance des associés et des tiers ;
+- les attributions et le mode de convocation de l'assemblée générale, ainsi que les conditions dans lesquelles ses résolutions sont portées à la connaissance des associés et des tiers ;
 
-7. le mode de nomination et les pouvoirs des administrateurs ;
+- le mode de nomination et les pouvoirs des administrateurs ;
 
-8. les règles à suivre pour modifier les statuts et celles pour modifier le règlement de pension ;
+- les règles à suivre pour modifier les statuts et celles pour modifier le règlement de pension ;
 
-9. la durée ;
+- la durée ;
 
-10. les cas de dissolution ;
+- les cas de dissolution ;
 
-11. la date de clôture des comptes.
+- la date de clôture des comptes.
 
 (2)
 
@@ -649,13 +649,13 @@ prénoms, et domiciles des administrateurs désignés en conformité avec les st
 
 Tous les actes, factures, annonces, publications, lettres, notes de commande et autres documents émanant d'une association tombant sous l'application de la présente partie doivent contenir :
 
-1. la dénomination de l'association ;
+- la dénomination de l'association ;
 
-2. la mention « association d'épargne-pension », reproduite lisiblement et en toutes lettres ou en abrégé « assep », placée immédiatement avant ou après la dénomination sociale ;
+- la mention « association d'épargne-pension », reproduite lisiblement et en toutes lettres ou en abrégé « assep », placée immédiatement avant ou après la dénomination sociale ;
 
-3. l'indication précise du siège de l'association ;
+- l'indication précise du siège de l'association ;
 
-4. les mots « Registre de commerce et des sociétés, Luxembourg » ou les initiales « R.C.S. Luxembourg » suivis du numéro d'immatriculation.
+- les mots « Registre de commerce et des sociétés, Luxembourg » ou les initiales « R.C.S. Luxembourg » suivis du numéro d'immatriculation.
 
 <a id="art-28"></a>
 ## Art. 28.
@@ -679,13 +679,13 @@ La convocation doit se faire de façon que l'assemblée soit tenue dans le déla
 
 Une délibération de l'assemblée générale est nécessaire pour les décisions suivantes :
 
-1. la modification des statuts ;
+- la modification des statuts ;
 
-2. la nomination et la révocation d'administrateurs ;
+- la nomination et la révocation d'administrateurs ;
 
-3. l'approbation des comptes ;
+- l'approbation des comptes ;
 
-4. la dissolution de l'assep.
+- la dissolution de l'assep.
 
 <a id="art-30"></a>
 ## Art. 30.
@@ -816,13 +816,13 @@ Dans le cas d'une assep à compartiments multiples, les statuts peuvent prévoir
 
 Le dépositaire doit en outre :
 
-1. s'assurer que dans les opérations portant sur les actifs de l'assep relatifs à un régime de retraite, la contrepartie lui est remise dans les délais d'usage ;
+- s'assurer que dans les opérations portant sur les actifs de l'assep relatifs à un régime de retraite, la contrepartie lui est remise dans les délais d'usage ;
 
-2. s'assurer que « les revenus produits par les actifs reçoivent l'affectation conforme aux statuts, au règlement de pension et à la note technique du régime de retraite ;
+- s'assurer que « les revenus produits par les actifs reçoivent l'affectation conforme aux statuts, au règlement de pension et à la note technique du régime de retraite ;
 
-3. exécuter les instructions de l'assep sauf si elles sont en contradiction avec la loi, le règlement de pension ou la note technique ;
+- exécuter les instructions de l'assep sauf si elles sont en contradiction avec la loi, le règlement de pension ou la note technique ;
 
-4. contrôler si le ou les cotisants procèdent ponctuellement au versement des cotisations.
+- contrôler si le ou les cotisants procèdent ponctuellement au versement des cotisations.
 
 (3)
 
@@ -870,13 +870,13 @@ A l'égard des affiliés et des bénéficiaires, la responsabilité est mise en 
 
 Les fonctions du dépositaire de l'assep prennent fin :
 
-1. en cas de démission ou de révocation par l'assep ; en attendant son remplacement qui doit avoir lieu dans les deux mois, le dépositaire doit prendre toutes les mesures nécessaires à la bonne conservation des intérêts des affiliés et des bénéficiaires ;
+- en cas de démission ou de révocation par l'assep ; en attendant son remplacement qui doit avoir lieu dans les deux mois, le dépositaire doit prendre toutes les mesures nécessaires à la bonne conservation des intérêts des affiliés et des bénéficiaires ;
 
-2. lorsque le dépositaire a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
+- lorsque le dépositaire a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
 
-3. lorsque son agrément, conformément à la directive 2013/36/UE ou à la directive 2014/65/UE, ou en tant que dépositaire aux fins de la directive 2009/65/CE ou de la directive 2011/61/UE est retiré ;
+- lorsque son agrément, conformément à la directive 2013/36/UE ou à la directive 2014/65/UE, ou en tant que dépositaire aux fins de la directive 2009/65/CE ou de la directive 2011/61/UE est retiré ;
 
-4. dans tous les autres cas prévus par les statuts.
+- dans tous les autres cas prévus par les statuts.
 
 <a id="art-46"></a>
 ## Art. 46.
@@ -911,13 +911,13 @@ Lorsque la délégation a été rendue obligatoire par les statuts, l'assep ne p
 
 Les fonctions du gestionnaire d'actif de l'assep prennent fin :
 
-1. en cas de démission ou de révocation par l'assep ; en attendant son remplacement qui doit avoir lieu dans les deux mois, le gestionnaire d'actif doit prendre toutes les mesures nécessaires à la bonne conservation des intérêts des affiliés et des bénéficiaires ;
+- en cas de démission ou de révocation par l'assep ; en attendant son remplacement qui doit avoir lieu dans les deux mois, le gestionnaire d'actif doit prendre toutes les mesures nécessaires à la bonne conservation des intérêts des affiliés et des bénéficiaires ;
 
-2. lorsque le gestionnaire d'actif a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
+- lorsque le gestionnaire d'actif a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
 
-3. lorsque son agrément selon les dispositions du paragraphe (1) est retiré ;
+- lorsque son agrément selon les dispositions du paragraphe (1) est retiré ;
 
-4. dans tous les autres cas prévus par les statuts.
+- dans tous les autres cas prévus par les statuts.
 
 (5)
 
@@ -963,13 +963,13 @@ Dans cette hypothèse, l'assep ne peut pas elle-même gérer son passif.
 
 Les fonctions du gestionnaire de passif de l'assep prennent fin :
 
-1. en cas de démission ou de révocation par l'assep ; en attendant son remplacement qui doit avoir lieu dans les deux mois, le gestionnaire de passif doit prendre toutes les mesures nécessaires à la bonne conservation des intérêts des affiliés et des bénéficiaires ;
+- en cas de démission ou de révocation par l'assep ; en attendant son remplacement qui doit avoir lieu dans les deux mois, le gestionnaire de passif doit prendre toutes les mesures nécessaires à la bonne conservation des intérêts des affiliés et des bénéficiaires ;
 
-2. lorsque le gestionnaire de passif a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
+- lorsque le gestionnaire de passif a été déclaré en faillite, admis au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d'une mesure analogue ou mis en liquidation ;
 
-3. lorsque son agrément en tant que gestionnaire de passif est retiré ;
+- lorsque son agrément en tant que gestionnaire de passif est retiré ;
 
-4. dans tous les autres cas prévus par les statuts.
+- dans tous les autres cas prévus par les statuts.
 
 (6)
 
@@ -1085,13 +1085,13 @@ Les assep conservent l'entière responsabilité du respect des obligations qui l
 
 L'externalisation de fonctions clés ou d'autres activités n'est pas effectuée d'une manière susceptible d'entraîner l'une des conséquences suivantes :
 
-1. compromettre la qualité du système de gouvernance de l'assep concernée ;
+- compromettre la qualité du système de gouvernance de l'assep concernée ;
 
-2. accroître indûment le risque opérationnel ;
+- accroître indûment le risque opérationnel ;
 
-3. compromettre la capacité de la CSSF de vérifier que l'assep concernée se conforme à ses obligations ;
+- compromettre la capacité de la CSSF de vérifier que l'assep concernée se conforme à ses obligations ;
 
-4. nuire à la prestation continue d'un service satisfaisant à l'égard des affiliés et bénéficiaires.
+- nuire à la prestation continue d'un service satisfaisant à l'égard des affiliés et bénéficiaires.
 
 (4)
 
@@ -1174,19 +1174,19 @@ L'administration centrale du fonds de pension où sont prises les principales d�
 
 Les informations satisfont aux exigences suivantes :
 
-1. elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
-2. elles sont accompagnées des métadonnées suivantes :
+- elles sont accompagnées des métadonnées suivantes :
 
-1. tous les noms du fonds de pension auquel les informations se rapportent ;
+  - tous les noms du fonds de pension auquel les informations se rapportent ;
 
-2. l’identifiant d’entité juridique du fonds de pension, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
+  - l’identifiant d’entité juridique du fonds de pension, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
 
-3. la taille du fonds de pension, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
+  - la taille du fonds de pension, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
 
-4. le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
+  - le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
 
-5. une mention précisant si les informations contiennent des données à caractère personnel.
+  - une mention précisant si les informations contiennent des données à caractère personnel.
 
 Aux fins de l’alinéa 2, lettre b), point ii), les fonds de pension obtiennent un identifiant d’entité juridique.
 
@@ -1197,13 +1197,13 @@ Aux fins de l’alinéa 2, lettre b), point ii), les fonds de pension obtiennent
 
 Les fonds de pension veillent à ce que les personnes qui gèrent effectivement le fonds de pension, les personnes qui exercent des fonctions clés et, le cas échéant, les personnes ou les entités auprès desquelles une fonction clé a été externalisée conformément à l'article 24-1 ou à l'article 52-1, satisfassent aux exigences suivantes dans l'exercice de leurs missions :
 
-1. l'exigence de compétence :
+- l'exigence de compétence :
 
-1. pour les personnes qui gèrent effectivement le fonds de pension, qui exercent des fonctions clés actuarielles ou d'audit interne, cela signifie que leurs qualifications, connaissances et expérience sont propres à leur permettre d'assurer collectivement une gestion saine et prudente du fonds de pension ;
+  - pour les personnes qui gèrent effectivement le fonds de pension, qui exercent des fonctions clés actuarielles ou d'audit interne, cela signifie que leurs qualifications, connaissances et expérience sont propres à leur permettre d'assurer collectivement une gestion saine et prudente du fonds de pension ;
 
-2. pour les personnes qui exercent d'autres fonctions clés, cela signifie que leurs qualifications, connaissances et expérience sont propres à leur permettre d'exécuter correctement leurs fonctions clés ;
+  - pour les personnes qui exercent d'autres fonctions clés, cela signifie que leurs qualifications, connaissances et expérience sont propres à leur permettre d'exécuter correctement leurs fonctions clés ;
 
-2. l'exigence d'honorabilité telle que visée à l'article 53, paragraphe (5).
+- l'exigence d'honorabilité telle que visée à l'article 53, paragraphe (5).
 
 (2)
 
@@ -1309,19 +1309,19 @@ Les fonds de pension publient régulièrement des informations utiles concernant
 
 Lorsqu'ils établissent et appliquent la politique de rémunération visée au paragraphe (1), les fonds de pension respectent les principes suivants :
 
-1. la politique de rémunération est établie, mise en œuvre et tenue à jour en tenant compte des activités, du profil de risque, des objectifs, des intérêts à long terme, de la stabilité financière et du fonctionnement du fonds de pension dans son ensemble, et favorise une gestion saine, prudente et efficace des fonds de pension ;
+- la politique de rémunération est établie, mise en œuvre et tenue à jour en tenant compte des activités, du profil de risque, des objectifs, des intérêts à long terme, de la stabilité financière et du fonctionnement du fonds de pension dans son ensemble, et favorise une gestion saine, prudente et efficace des fonds de pension ;
 
-2. la politique de rémunération est conforme aux intérêts à long terme des affiliés et des bénéficiaires des régimes de retraite gérés par le fonds de pension ;
+- la politique de rémunération est conforme aux intérêts à long terme des affiliés et des bénéficiaires des régimes de retraite gérés par le fonds de pension ;
 
-3. la politique de rémunération inclut des mesures visant à éviter les conflits d'intérêts ;
+- la politique de rémunération inclut des mesures visant à éviter les conflits d'intérêts ;
 
-4. la politique de rémunération est conforme à une gestion des risques saine et effective et n'encourage pas une prise de risque qui serait incompatible avec les profils de risque et les règles du fonds de pension ;
+- la politique de rémunération est conforme à une gestion des risques saine et effective et n'encourage pas une prise de risque qui serait incompatible avec les profils de risque et les règles du fonds de pension ;
 
-5. la politique de rémunération s'applique au fonds de pension et aux prestataires de services visés à l'article 24-1, paragraphe (1) ou 52-1, paragraphe (1), à moins que ces prestataires de services ne relèvent de l'article 2, paragraphe (3), lettre b) de la loi modifiée du 13 juillet 2005 concernant les activités et la surveillance des institutions de retraite professionnelle ;
+- la politique de rémunération s'applique au fonds de pension et aux prestataires de services visés à l'article 24-1, paragraphe (1) ou 52-1, paragraphe (1), à moins que ces prestataires de services ne relèvent de l'article 2, paragraphe (3), lettre b) de la loi modifiée du 13 juillet 2005 concernant les activités et la surveillance des institutions de retraite professionnelle ;
 
-6. le fonds de pension établit les principes généraux de la politique de rémunération, la réexamine et l'actualise au moins tous les trois ans, et est responsable de sa mise en œuvre ;
+- le fonds de pension établit les principes généraux de la politique de rémunération, la réexamine et l'actualise au moins tous les trois ans, et est responsable de sa mise en œuvre ;
 
-7. la rémunération et sa surveillance sont soumises à une gouvernance claire, transparente et effective.
+- la rémunération et sa surveillance sont soumises à une gouvernance claire, transparente et effective.
 
 (4)
 
@@ -1329,19 +1329,19 @@ Lorsqu'ils établissent et appliquent la politique de rémunération visée au p
 
 Les informations satisfont aux exigences suivantes :
 
-1. elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
-2. elles sont accompagnées des métadonnées suivantes :
+- elles sont accompagnées des métadonnées suivantes :
 
-1. tous les noms du fonds de pension auquel les informations se rapportent ;
+  - tous les noms du fonds de pension auquel les informations se rapportent ;
 
-2. l’identifiant d’entité juridique du fonds de pension, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
+  - l’identifiant d’entité juridique du fonds de pension, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
 
-3. la taille du fonds de pension, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
+  - la taille du fonds de pension, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
 
-4. le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
+  - le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
 
-5. une mention précisant si les informations contiennent des données à caractère personnel.
+  - une mention précisant si les informations contiennent des données à caractère personnel.
 
 Aux fins de l’alinéa 2, lettre b), point ii), les fonds de pension obtiennent un identifiant d’entité juridique.
 
@@ -1352,11 +1352,11 @@ Aux fins de l’alinéa 2, lettre b), point ii), les fonds de pension obtiennent
 
 Les fonds de pension doivent mettre en place les fonctions clés suivantes :
 
-1. une fonction de gestion des risques,
+- une fonction de gestion des risques,
 
-2. une fonction d'audit interne et,
+- une fonction d'audit interne et,
 
-3. une fonction actuarielle, si les conditions de l'article 57-6 sont remplies. Les fonds de pension veillent à ce que les titulaires de fonctions clés puissent exercer leurs missions de manière objective, équitable et indépendante.
+- une fonction actuarielle, si les conditions de l'article 57-6 sont remplies. Les fonds de pension veillent à ce que les titulaires de fonctions clés puissent exercer leurs missions de manière objective, équitable et indépendante.
 
 (2)
 
@@ -1374,9 +1374,9 @@ Les titulaires d'une fonction clé doivent communiquer toute conclusion et recom
 
 Sans préjudice du privilège de ne pas s'incriminer, le titulaire d'une fonction clé doit informer la CSSF si l'organe d'administration, de gestion ou de surveillance du fonds de pension ne prend pas en temps utile les mesures correctives appropriées dans les cas suivants :
 
-1. lorsque la personne ou unité organisationnelle exerçant la fonction clé a constaté que le fonds de pension risque de ne pas respecter une obligation légale et qu'elle a fait part de son constat à l'organe d'administration, de gestion ou de surveillance du fonds de pension et lorsque cela pourrait avoir des incidences significatives sur les intérêts des affiliés et des bénéficiaires ; ou
+- lorsque la personne ou unité organisationnelle exerçant la fonction clé a constaté que le fonds de pension risque de ne pas respecter une obligation légale et qu'elle a fait part de son constat à l'organe d'administration, de gestion ou de surveillance du fonds de pension et lorsque cela pourrait avoir des incidences significatives sur les intérêts des affiliés et des bénéficiaires ; ou
 
-2. lorsque la personne ou unité organisationnelle exerçant la fonction clé a constaté une infraction matérielle à la législation applicable au fonds de pension et à ses activités dans le cadre de l'exercice de sa fonction clé, et qu'elle a fait part de son constat à l'organe d'administration, de gestion ou de surveillance du fonds de pension.
+- lorsque la personne ou unité organisationnelle exerçant la fonction clé a constaté une infraction matérielle à la législation applicable au fonds de pension et à ses activités dans le cadre de l'exercice de sa fonction clé, et qu'elle a fait part de son constat à l'organe d'administration, de gestion ou de surveillance du fonds de pension.
 
 (6)
 
@@ -1395,19 +1395,19 @@ Ce système de gestion des risques doit être efficace et bien intégré à la s
 
 Le système de gestion des risques doit couvrir, d'une manière proportionnée à la taille et à l'organisation interne des fonds de pension, ainsi qu'à la taille, la nature, l'ampleur et la complexité de leurs activités, les risques susceptibles de survenir dans les fonds de pension ou dans des organismes auprès desquels des tâches ou des activités d'un fonds de pension ont été externalisées au moins dans les domaines suivants, si applicable :
 
-1. la souscription et le provisionnement ;
+- la souscription et le provisionnement ;
 
-2. la gestion actif-passif ;
+- la gestion actif-passif ;
 
-3. les investissements, en particulier dans les instruments dérivés, titrisations et engagements similaires ;
+- les investissements, en particulier dans les instruments dérivés, titrisations et engagements similaires ;
 
-4. la gestion du risque de liquidité et de concentration ;
+- la gestion du risque de liquidité et de concentration ;
 
-5. la gestion du risque opérationnel ;
+- la gestion du risque opérationnel ;
 
-6. l'assurance et les autres techniques d'atténuation du risque ;
+- l'assurance et les autres techniques d'atténuation du risque ;
 
-7. les risques environnementaux, sociaux et en matière de gouvernance liés au portefeuille de placements et à la gestion de celui-ci.
+- les risques environnementaux, sociaux et en matière de gouvernance liés au portefeuille de placements et à la gestion de celui-ci.
 
 (3)
 
@@ -1425,21 +1425,21 @@ Les fonds de pension doivent, d'une manière proportionnée à leur taille et à
 
 Lorsqu'un fonds de pension couvre lui-même les risques biométriques ou garantit soit le rendement des placements soit un niveau donné de prestations, le fonds de pension doit prévoir une fonction actuarielle efficace pour :
 
-1. coordonner et superviser le calcul des provisions techniques ;
+- coordonner et superviser le calcul des provisions techniques ;
 
-2. évaluer le caractère adéquat des méthodologies et des modèles sous-jacents utilisés dans le calcul des provisions techniques et des hypothèses retenues à cette fin ;
+- évaluer le caractère adéquat des méthodologies et des modèles sous-jacents utilisés dans le calcul des provisions techniques et des hypothèses retenues à cette fin ;
 
-3. apprécier le caractère suffisant et la qualité des données utilisées dans le calcul des provisions techniques ;
+- apprécier le caractère suffisant et la qualité des données utilisées dans le calcul des provisions techniques ;
 
-4. comparer les hypothèses sous-tendant le calcul des provisions techniques aux observations empiriques ;
+- comparer les hypothèses sous-tendant le calcul des provisions techniques aux observations empiriques ;
 
-5. informer l'organe d'administration, de gestion ou de surveillance du fonds de pension de la fiabilité et du caractère adéquat du calcul des provisions techniques ;
+- informer l'organe d'administration, de gestion ou de surveillance du fonds de pension de la fiabilité et du caractère adéquat du calcul des provisions techniques ;
 
-6. émettre un avis sur la politique globale de souscription, si le fonds de pension dispose d'une telle politique ;
+- émettre un avis sur la politique globale de souscription, si le fonds de pension dispose d'une telle politique ;
 
-7. émettre un avis sur le caractère adéquat des dispositions en matière d'assurance, si le fonds de pension a pris de telles dispositions ;
+- émettre un avis sur le caractère adéquat des dispositions en matière d'assurance, si le fonds de pension a pris de telles dispositions ;
 
-8. contribuer à la mise en œuvre effective du système de gestion des risques.
+- contribuer à la mise en œuvre effective du système de gestion des risques.
 
 (2)
 
@@ -1458,25 +1458,25 @@ Cette évaluation des risques est effectuée au moins tous les trois ans ou imm�
 
 Compte tenu de la taille et de l'organisation interne du fonds de pension, ainsi que de la taille, de la nature, de l'ampleur et de la complexité des activités du fonds de pension, l'évaluation des risques visée au paragraphe (1) comporte les éléments suivants :
 
-1. une description de la manière dont l'évaluation interne des risques est intégrée dans le processus de gestion et les procédures de prise de décision du fonds de pension ;
+- une description de la manière dont l'évaluation interne des risques est intégrée dans le processus de gestion et les procédures de prise de décision du fonds de pension ;
 
-2. une évaluation de l'efficacité du système de gestion des risques ;
+- une évaluation de l'efficacité du système de gestion des risques ;
 
-3. une description de la manière dont le fonds de pension prévient les conflits d'intérêts avec l'entreprise d'affiliation, lorsqu'il externalise des fonctions clés à cette entreprise d'affiliation conformément à l'article 57-3, paragraphe (3) ;
+- une description de la manière dont le fonds de pension prévient les conflits d'intérêts avec l'entreprise d'affiliation, lorsqu'il externalise des fonctions clés à cette entreprise d'affiliation conformément à l'article 57-3, paragraphe (3) ;
 
-4. une évaluation des besoins globaux de financement du fonds de pension, y compris une description du plan de redressement, le cas échéant ;
+- une évaluation des besoins globaux de financement du fonds de pension, y compris une description du plan de redressement, le cas échéant ;
 
-5. une évaluation des risques pour les affiliés et les bénéficiaires en ce qui concerne le versement de leurs prestations de retraite et l'efficacité de toute mesure corrective, en tenant compte, le cas échéant :
+- une évaluation des risques pour les affiliés et les bénéficiaires en ce qui concerne le versement de leurs prestations de retraite et l'efficacité de toute mesure corrective, en tenant compte, le cas échéant :
 
-1. des mécanismes d'indexation ;
+  - des mécanismes d'indexation ;
 
-2. des mécanismes de réduction des prestations, y compris dans quelle mesure les prestations de retraite accumulées peuvent être réduites, selon quelles modalités et par qui ;
+  - des mécanismes de réduction des prestations, y compris dans quelle mesure les prestations de retraite accumulées peuvent être réduites, selon quelles modalités et par qui ;
 
-6. une évaluation qualitative des mécanismes protégeant les prestations de retraite, notamment, le cas échéant, les garanties, les clauses ou tout autre type de soutien financier de l'entreprise d'affiliation, l'assurance ou la réassurance proposée par une entreprise relevant de la directive 2009/138/CE ou la couverture par un régime de protection des retraites, en faveur du fonds de pension ou des affiliés et des bénéficiaires ;
+- une évaluation qualitative des mécanismes protégeant les prestations de retraite, notamment, le cas échéant, les garanties, les clauses ou tout autre type de soutien financier de l'entreprise d'affiliation, l'assurance ou la réassurance proposée par une entreprise relevant de la directive 2009/138/CE ou la couverture par un régime de protection des retraites, en faveur du fonds de pension ou des affiliés et des bénéficiaires ;
 
-7. une évaluation qualitative des risques opérationnels ;
+- une évaluation qualitative des risques opérationnels ;
 
-8. si les facteurs environnementaux, sociaux et de gouvernance sont pris en compte lors des décisions de placement, une évaluation des risques nouveaux ou émergents, notamment des risques liés au changement climatique, à l'utilisation des ressources et à l'environnement, des risques sociaux, ainsi que des risques liés à la dépréciation des actifs due à l'évolution du cadre réglementaire.
+- si les facteurs environnementaux, sociaux et de gouvernance sont pris en compte lors des décisions de placement, une évaluation des risques nouveaux ou émergents, notamment des risques liés au changement climatique, à l'utilisation des ressources et à l'environnement, des risques sociaux, ainsi que des risques liés à la dépréciation des actifs due à l'évolution du cadre réglementaire.
 
 (3)
 
@@ -1522,11 +1522,11 @@ La CSSF examine les stratégies, les processus et les procédures de communicati
 
 Cet examen, dont la fréquence et la portée sont définies par la CSSF, tient compte des circonstances dans lesquelles les fonds de pension exercent leurs activités et, le cas échéant, des tiers qui exercent pour elles des fonctions clés ou d'autres activités externalisées. L'examen comprend les éléments suivants :
 
-1. une appréciation des exigences qualitatives relatives au système de gouvernance ;
+- une appréciation des exigences qualitatives relatives au système de gouvernance ;
 
-2. une appréciation des risques auxquels le fonds de pension est exposé ;
+- une appréciation des risques auxquels le fonds de pension est exposé ;
 
-3. une appréciation de la capacité du fonds de pension à évaluer et à gérer ces risques.
+- une appréciation de la capacité du fonds de pension à évaluer et à gérer ces risques.
 
 (2)
 
@@ -1575,33 +1575,33 @@ Le paragraphe (1) ne fait pas obstacle à ce que la CSSF échange des informatio
 
 Les informations confidentielles reçues par la CSSF au titre de la présente loi, ne peuvent être utilisées qu'aux fins suivantes :
 
-1. pour vérifier que les fonds de pension satisfont aux conditions d'accès à l'activité de fourniture de retraite professionnelle régies par la présente loi avant de commencer leurs activités ;
+- pour vérifier que les fonds de pension satisfont aux conditions d'accès à l'activité de fourniture de retraite professionnelle régies par la présente loi avant de commencer leurs activités ;
 
-2. pour faciliter le contrôle des activités des fonds de pension, y compris le contrôle des provisions techniques, de la solvabilité, du système de gouvernance et des informations fournies aux affiliés et bénéficiaires ;
+- pour faciliter le contrôle des activités des fonds de pension, y compris le contrôle des provisions techniques, de la solvabilité, du système de gouvernance et des informations fournies aux affiliés et bénéficiaires ;
 
-3. pour l'imposition de mesures correctrices, y inclus des sanctions administratives ;
+- pour l'imposition de mesures correctrices, y inclus des sanctions administratives ;
 
-4. dans le cadre d'un recours administratif contre une décision de la CSSF ; ou
+- dans le cadre d'un recours administratif contre une décision de la CSSF ; ou
 
-5. dans le cadre de procédures judiciaires concernant les dispositions de la présente loi.
+- dans le cadre de procédures judiciaires concernant les dispositions de la présente loi.
 
 (5)
 
 Les paragraphes (1) et (4) ne font pas obstacle aux activités suivantes :
 
-1. au Luxembourg, pour l'accomplissement de leurs missions de contrôle, l'échange d'informations entre la CSSF et
+- au Luxembourg, pour l'accomplissement de leurs missions de contrôle, l'échange d'informations entre la CSSF et
 
-1. le CAA, l'Inspection générale de la sécurité sociale, désignée ci-après « IGSS » et le Comité du risque systémique ;
+  - le CAA, l'Inspection générale de la sécurité sociale, désignée ci-après « IGSS » et le Comité du risque systémique ;
 
-2. les organes impliqués dans la liquidation d'un régime de retraite et dans d'autres procédures similaires ;
+  - les organes impliqués dans la liquidation d'un régime de retraite et dans d'autres procédures similaires ;
 
-3. les personnes chargées du contrôle légal des comptes des institutions de retraite professionnelle, ci-après « IRP », des entreprises d'assurances, des établissements de crédit, des entreprises d'investissement et d'autres établissements financiers,
+  - les personnes chargées du contrôle légal des comptes des institutions de retraite professionnelle, ci-après « IRP », des entreprises d'assurances, des établissements de crédit, des entreprises d'investissement et d'autres établissements financiers,
 
-2. l'échange d'information entre la CSSF et les gestionnaires d'actif et les gestionnaires de passif des IRP,
+- l'échange d'information entre la CSSF et les gestionnaires d'actif et les gestionnaires de passif des IRP,
 
-3. à l'intérieur de l'Union européenne, l'échange d'informations entre la CSSF et les autorités compétentes d'autres États membres, pour l'accomplissement de leur mission de contrôle au titre de la directive (UE) 2016/2341,
+- à l'intérieur de l'Union européenne, l'échange d'informations entre la CSSF et les autorités compétentes d'autres États membres, pour l'accomplissement de leur mission de contrôle au titre de la directive (UE) 2016/2341,
 
-4. la transmission des informations nécessaires à l'accomplissement de la mission des organes impliqués dans la liquidation, la faillite, d'autres procédures similaires d'un régime de retraite et de toute entreprise qui concourt à l'activité de celui-ci.
+- la transmission des informations nécessaires à l'accomplissement de la mission des organes impliqués dans la liquidation, la faillite, d'autres procédures similaires d'un régime de retraite et de toute entreprise qui concourt à l'activité de celui-ci.
 
 La communication d'informations par la CSSF, autorisée par le présent paragraphe, est soumise à la condition que ces informations tombent sous le secret professionnel des autorités, organismes et personnes qui les reçoivent, et, n'est autorisée que dans la mesure où le secret professionnel de ces autorités, organismes et personnes offre des garanties au moins équivalentes au secret professionnel auquel est soumise la CSSF. En particulier, les autorités qui reçoivent des informations de la part de la CSSF ne peuvent les utiliser qu'aux fins pour lesquelles elles leur ont été communiquées et doivent être en mesure d'assurer qu'aucun autre usage n'en sera fait.
 
@@ -1619,13 +1619,13 @@ Les paragraphes (1) et (4) ne font pas obstacle aux échanges d'informations, à
 
 L'échange d'information au titre des paragraphes (5) et (6) et la transmission d'informations par la CSSF au titre du paragraphe (7) sont soumis aux conditions suivantes :
 
-1. les informations transmises ou échangées doivent être destinées à l'accomplissement de la mission de surveillance ou de la fonction de contrôle des autorités qui les reçoivent,
+- les informations transmises ou échangées doivent être destinées à l'accomplissement de la mission de surveillance ou de la fonction de contrôle des autorités qui les reçoivent,
 
-2. les informations communiquées doivent être couvertes par le secret professionnel des autorités qui les reçoivent et le secret professionnel de ces autorités doit offrir des garanties au moins équivalentes à celui visé au paragraphe (1),
+- les informations communiquées doivent être couvertes par le secret professionnel des autorités qui les reçoivent et le secret professionnel de ces autorités doit offrir des garanties au moins équivalentes à celui visé au paragraphe (1),
 
-3. les autorités qui reçoivent des informations de la part de la CSSF ne peuvent les utiliser qu'aux fins pour lesquelles elles leur ont été communiquées et doivent être en mesure d'assurer qu'aucun autre usage n'en sera fait,
+- les autorités qui reçoivent des informations de la part de la CSSF ne peuvent les utiliser qu'aux fins pour lesquelles elles leur ont été communiquées et doivent être en mesure d'assurer qu'aucun autre usage n'en sera fait,
 
-4. la divulgation par la CSSF d'informations reçues de la part d'autorités de surveillance visées aux paragraphes (2) et (3) ne peut se faire qu'avec l'accord explicite de ces autorités et, le cas échéant, exclusivement aux fins pour lesquelles ces autorités ont marqué leur accord.
+- la divulgation par la CSSF d'informations reçues de la part d'autorités de surveillance visées aux paragraphes (2) et (3) ne peut se faire qu'avec l'accord explicite de ces autorités et, le cas échéant, exclusivement aux fins pour lesquelles ces autorités ont marqué leur accord.
 
 (6ter)
 
@@ -1633,11 +1633,11 @@ Le paragraphe (4) ne fait pas obstacle à ce que, dans le but de renforcer la st
 
 Les conditions suivantes doivent au moins être réunies :
 
-1. les informations doivent être destinées à la détection des infractions et aux enquêtes visées à l'alinéa 1 ;
+- les informations doivent être destinées à la détection des infractions et aux enquêtes visées à l'alinéa 1 ;
 
-2. les informations reçues doivent être soumises à un secret professionnel qui offre des garanties équivalentes à celui visé au paragraphe (1) ;
+- les informations reçues doivent être soumises à un secret professionnel qui offre des garanties équivalentes à celui visé au paragraphe (1) ;
 
-3. lorsque les informations proviennent d'un autre État membre, elles ne sont divulguées qu'avec l'accord explicite de l'autorité compétente dont elles proviennent et, le cas échéant, exclusivement aux fins pour lesquelles ladite autorité a donné son accord.
+- lorsque les informations proviennent d'un autre État membre, elles ne sont divulguées qu'avec l'accord explicite de l'autorité compétente dont elles proviennent et, le cas échéant, exclusivement aux fins pour lesquelles ladite autorité a donné son accord.
 
 Si les autorités ou organes visés à l'alinéa 1 accomplissent, au Luxembourg, leur mission de détection ou d'enquête en faisant appel, au vu de leur compétence spécifique, à des personnes mandatées à cet effet et n'appartenant pas au secteur public, la possibilité d'échanges d'informations prévue à l'alinéa 1 peut être étendue à ces personnes aux conditions prévues à l'alinéa 2.
 
@@ -1645,11 +1645,11 @@ Si les autorités ou organes visés à l'alinéa 1 accomplissent, au Luxembourg,
 
 Les paragraphes (1) et (4) ne font pas obstacle à ce que la CSSF transmette aux entités suivantes des informations destinées à l'accomplissement de leur mission respective :
 
-1. aux banques centrales et aux autres organismes à vocation similaire en tant qu'autorités monétaires ;
+- aux banques centrales et aux autres organismes à vocation similaire en tant qu'autorités monétaires ;
 
-2. le cas échéant, à d'autres autorités publiques chargées de la surveillance des systèmes de paiement ;
+- le cas échéant, à d'autres autorités publiques chargées de la surveillance des systèmes de paiement ;
 
-3. au Comité européen du risque systémique, à l'AEAPP, à l'Autorité européenne de surveillance (Autorité bancaire européenne) instituée par le règlement (UE) n° 1093/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité bancaire européenne), modifiant la décision n° 716/2009/CE et abrogeant la décision 2009/78/CE de la Commission et à l'Autorité européenne de surveillance (Autorité européenne des marchés financiers) instituée par le règlement (UE) n° 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers), modifiant la décision n° 716/2009/CE et abrogeant la décision 2009/77/CE de la Commission.
+- au Comité européen du risque systémique, à l'AEAPP, à l'Autorité européenne de surveillance (Autorité bancaire européenne) instituée par le règlement (UE) n° 1093/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité bancaire européenne), modifiant la décision n° 716/2009/CE et abrogeant la décision 2009/78/CE de la Commission et à l'Autorité européenne de surveillance (Autorité européenne des marchés financiers) instituée par le règlement (UE) n° 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers), modifiant la décision n° 716/2009/CE et abrogeant la décision 2009/77/CE de la Commission.
 
 La communication d'informations par la CSSF, autorisée par le présent paragraphe, est soumise à la condition que ces informations tombent sous le secret professionnel des autorités qui les reçoivent, et, n'est autorisée que dans la mesure où le secret professionnel de ces autorités offre des garanties au moins équivalentes au secret professionnel auquel est soumise la CSSF. En particulier, les autorités qui reçoivent des informations de la part de la CSSF, ne peuvent les utiliser qu'aux fins pour lesquelles elles leur ont été communiquées et doivent être en mesure d'assurer qu'aucun autre usage n'en sera fait.
 
@@ -1732,39 +1732,39 @@ Aux fins de l'application de la présente loi, la CSSF est investie de tous les 
 
 Sans préjudice de l'application des dispositions de l'article 61 et des dispositions des paragraphes (2), (3) et (4), les pouvoirs de la CSSF incluent le droit :
 
-1. d'accéder à tout document et à toute donnée, sous quelque forme que ce soit, et d'en recevoir ou d'en prendre une copie, y compris :
+- d'accéder à tout document et à toute donnée, sous quelque forme que ce soit, et d'en recevoir ou d'en prendre une copie, y compris :
 
-1. l'évaluation interne des risques ;
+  - l'évaluation interne des risques ;
 
-2. la déclaration relative aux principes fondant la politique de placement ;
+  - la déclaration relative aux principes fondant la politique de placement ;
 
-3. les comptes annuels ;
+  - les comptes annuels ;
 
-4. les rapports annuels ;
+  - les rapports annuels ;
 
-2. d'exiger de toute personne soumise à sa surveillance au titre de la présente loi qu'elle fournisse des informations et, si nécessaire, convoquer et entendre toute personne pour en obtenir des informations ;
+- d'exiger de toute personne soumise à sa surveillance au titre de la présente loi qu'elle fournisse des informations et, si nécessaire, convoquer et entendre toute personne pour en obtenir des informations ;
 
-3. d'exiger la communication des enregistrements des échanges téléphoniques ou des communications électroniques ou d'autres échanges informatiques existants détenus par un fonds de pension, un gestionnaire d'actif, un gestionnaire de passif ou un dépositaire ;
+- d'exiger la communication des enregistrements des échanges téléphoniques ou des communications électroniques ou d'autres échanges informatiques existants détenus par un fonds de pension, un gestionnaire d'actif, un gestionnaire de passif ou un dépositaire ;
 
-4. d'enjoindre à toute personne soumise à sa surveillance au titre de la présente loi de respecter les dispositions de la présente loi et les mesures arrêtées pour son exécution et de s'abstenir de répéter tout comportement qui constitue une violation à la présente loi ou aux mesures prises pour son exécution ;
+- d'enjoindre à toute personne soumise à sa surveillance au titre de la présente loi de respecter les dispositions de la présente loi et les mesures arrêtées pour son exécution et de s'abstenir de répéter tout comportement qui constitue une violation à la présente loi ou aux mesures prises pour son exécution ;
 
-5. d'arrêter tout type de mesure propre à assurer que les fonds de pension, les gestionnaires d'actif, les gestionnaires de passif et les dépositaires se conforment aux exigences de la présente loi ;
+- d'arrêter tout type de mesure propre à assurer que les fonds de pension, les gestionnaires d'actif, les gestionnaires de passif et les dépositaires se conforment aux exigences de la présente loi ;
 
-6. de retirer l'agrément d'un fonds de pension, d'un gestionnaire d'actif, d'un gestionnaire de passif ou d'un dépositaire ;
+- de retirer l'agrément d'un fonds de pension, d'un gestionnaire d'actif, d'un gestionnaire de passif ou d'un dépositaire ;
 
-7. de transmettre des informations au procureur d'État en vue de poursuites pénales ;
+- de transmettre des informations au procureur d'État en vue de poursuites pénales ;
 
-8. de donner instruction à des réviseurs d'entreprises agréés ou des experts d'effectuer des vérifications ou des enquêtes ;
+- de donner instruction à des réviseurs d'entreprises agréés ou des experts d'effectuer des vérifications ou des enquêtes ;
 
-9. de procéder à des inspections sur place auprès des personnes soumises à sa surveillance.
+- de procéder à des inspections sur place auprès des personnes soumises à sa surveillance.
 
 (2)
 
 La CSSF peut restreindre ou interdire le droit d'un fonds de pension à disposer de ses actifs, notamment lorsque :
 
-1. il n'a pas enregistré l'ensemble de ses engagements ou n'a pas constitué des provisions techniques suffisantes eu égard à l'ensemble de son activité ou dispose d'actifs insuffisants pour couvrir ses provisions techniques ;
+- il n'a pas enregistré l'ensemble de ses engagements ou n'a pas constitué des provisions techniques suffisantes eu égard à l'ensemble de son activité ou dispose d'actifs insuffisants pour couvrir ses provisions techniques ;
 
-2. il ne détient pas les actifs de couverture supplémentaires prévus à l'article 77.
+- il ne détient pas les actifs de couverture supplémentaires prévus à l'article 77.
 
 A cette fin, la CSSF peut demander aux instances compétentes des autres Etats membres d'interdire la libre disposition d'actifs d'un fonds de pension détenus par un dépositaire ou un conservateur établi sur leur territoire.
 
@@ -1778,13 +1778,13 @@ Afin de protéger les intérêts des affiliés et bénéficiaires, la CSSF peut 
 
 La CSSF peut interdire ou restreindre les activités d'un fonds de pension, notamment si :
 
-1. il ne protège pas de manière adéquate les intérêts des affiliés et des bénéficiaires ;
+- il ne protège pas de manière adéquate les intérêts des affiliés et des bénéficiaires ;
 
-2. il ne respecte plus les conditions de fonctionnement ;
+- il ne respecte plus les conditions de fonctionnement ;
 
-3. il manque gravement aux obligations qui sont les siennes en vertu des règles auxquelles il est soumis ;
+- il manque gravement aux obligations qui sont les siennes en vertu des règles auxquelles il est soumis ;
 
-4. en cas d'activité transfrontalière, il ne respecte pas les exigences pertinentes du droit social et du droit du travail de l'Etat membre d'accueil en matière de retraite professionnelle.
+- en cas d'activité transfrontalière, il ne respecte pas les exigences pertinentes du droit social et du droit du travail de l'Etat membre d'accueil en matière de retraite professionnelle.
 
 <a id="art-63"></a>
 ## Art. 63.
@@ -1809,35 +1809,35 @@ Le retrait de l'agrément d'un fonds de pension entraîne le retrait de la liste
 
 Les fonds de pension, gestionnaires d'actif, gestionnaires de passif et dépositaires soumis à la surveillance de la CSSF au titre de la présente loi, les administrateurs ou dirigeants des entités précitées ainsi que les liquidateurs en cas de liquidation volontaire d'un fonds de pension peuvent être sanctionnés par la CSSF au cas où :
 
-1. ils ne respectent pas les obligations prévues par les articles 3, 6, paragraphes (5) et (7), 7, paragraphe (2), 8 à 10, 14, 15, 16, paragraphes (2) et (3), 17 à 19-1, 22, 22-1, 23, paragraphes (3) et (6), 24, 24-1, paragraphes (3) à (6), 26 à 33, 35, 38 à 43-1, 46, 46-1, 47, paragraphes (3) et (6), 48, 49, paragraphes et (4), 50, 51, paragraphes (1) et (2), 52, paragraphe (13), 52-1, paragraphes (3) à (6), 53, paragraphes (2bis) à (3), (6) et (7), 53-1, paragraphe (1), 57-1 à 57-7, 60, 68, 69, paragraphe (1), 70 à 74, 77, paragraphe (1), 77-1 à 78, 84 à 90, 94, paragraphes (1) et (2), 97, 98-1, 98-2, 98-3, 98-4 et 99 de la présente loi ou par les mesures d'exécution relatives à ces articles ;
+- ils ne respectent pas les obligations prévues par les articles 3, 6, paragraphes (5) et (7), 7, paragraphe (2), 8 à 10, 14, 15, 16, paragraphes (2) et (3), 17 à 19-1, 22, 22-1, 23, paragraphes (3) et (6), 24, 24-1, paragraphes (3) à (6), 26 à 33, 35, 38 à 43-1, 46, 46-1, 47, paragraphes (3) et (6), 48, 49, paragraphes et (4), 50, 51, paragraphes (1) et (2), 52, paragraphe (13), 52-1, paragraphes (3) à (6), 53, paragraphes (2bis) à (3), (6) et (7), 53-1, paragraphe (1), 57-1 à 57-7, 60, 68, 69, paragraphe (1), 70 à 74, 77, paragraphe (1), 77-1 à 78, 84 à 90, 94, paragraphes (1) et (2), 97, 98-1, 98-2, 98-3, 98-4 et 99 de la présente loi ou par les mesures d'exécution relatives à ces articles ;
 
-2. ils refusent de fournir les documents comptables ou autres renseignements demandés, nécessaires à la CSSF pour les besoins de l'application de la présente loi ;
+- ils refusent de fournir les documents comptables ou autres renseignements demandés, nécessaires à la CSSF pour les besoins de l'application de la présente loi ;
 
-3. ils fournissent des documents ou autres renseignements qui se révèlent être incomplets, inexacts ou faux ;
+- ils fournissent des documents ou autres renseignements qui se révèlent être incomplets, inexacts ou faux ;
 
-4. ils font obstacle à l'exercice des pouvoirs de surveillance, d'inspection et d'enquête de la CSSF ;
+- ils font obstacle à l'exercice des pouvoirs de surveillance, d'inspection et d'enquête de la CSSF ;
 
-5. ils contreviennent aux règles régissant la publication des bilans et situations comptables ;
+- ils contreviennent aux règles régissant la publication des bilans et situations comptables ;
 
-6. ils ne donnent pas suite aux injonctions de la CSSF prononcées en vertu de l'article 62, paragraphe (1), lettre d) ou e) ;
+- ils ne donnent pas suite aux injonctions de la CSSF prononcées en vertu de l'article 62, paragraphe (1), lettre d) ou e) ;
 
-7. ils risquent, par leur comportement, de mettre en péril la gestion saine et prudente de l'établissement concerné.
+- ils risquent, par leur comportement, de mettre en péril la gestion saine et prudente de l'établissement concerné.
 
 (2)
 
 Peuvent être prononcés par la CSSF, classés par ordre de gravité :
 
-1. un avertissement,
+- un avertissement,
 
-2. un blâme,
+- un blâme,
 
-3. une amende d'ordre de 250 à 250 000 euros, et
+- une amende d'ordre de 250 à 250 000 euros, et
 
-4. dans les cas visés au paragraphe (1), lettres d), f) et g), une ou plusieurs des mesures suivantes :
+- dans les cas visés au paragraphe (1), lettres d), f) et g), une ou plusieurs des mesures suivantes :
 
-1. l'interdiction limitée dans le temps ou définitive d'effectuer une ou plusieurs opérations ou activités ainsi que toutes autres restrictions à l'activité ;
+  - l'interdiction limitée dans le temps ou définitive d'effectuer une ou plusieurs opérations ou activités ainsi que toutes autres restrictions à l'activité ;
 
-2. l'interdiction professionnelle limitée dans le temps ou définitive des administrateurs et dirigeants des personnes et entités soumises à la surveillance de la CSSF au titre de la présente loi.
+  - l'interdiction professionnelle limitée dans le temps ou définitive des administrateurs et dirigeants des personnes et entités soumises à la surveillance de la CSSF au titre de la présente loi.
 
 <a id="art-66"></a>
 ## Art. 66.
@@ -1892,15 +1892,15 @@ La CSSF publie sur son site internet les décisions n'ayant fait l'objet d'aucun
 
 Cependant, si la publication de l'identité des personnes morales ou des données à caractère personnel des personnes physiques est jugée disproportionnée par la CSSF à l'issue d'une évaluation au cas par cas menée sur la proportionnalité de la publication de telles données ou si une telle publication compromet la stabilité des marchés financiers ou une enquête en cours, la CSSF :
 
-1. retarde la publication de la décision imposant la sanction ou mesure jusqu'au moment où les motifs de la non-publication cessent d'exister ;
+- retarde la publication de la décision imposant la sanction ou mesure jusqu'au moment où les motifs de la non-publication cessent d'exister ;
 
-2. publie la décision imposant la sanction ou la mesure de manière anonyme, en conformité avec la législation applicable, si une telle publication anonyme garantit une réelle protection des données à caractère personnel en cause ; ou
+- publie la décision imposant la sanction ou la mesure de manière anonyme, en conformité avec la législation applicable, si une telle publication anonyme garantit une réelle protection des données à caractère personnel en cause ; ou
 
-3. ne publie pas la décision imposant une sanction ou une mesure, lorsque les options envisagées aux lettres a) et b) sont jugées insuffisantes :
+- ne publie pas la décision imposant une sanction ou une mesure, lorsque les options envisagées aux lettres a) et b) sont jugées insuffisantes :
 
-1. pour éviter que la stabilité des marchés financiers ne soit compromise ; ou
+  - pour éviter que la stabilité des marchés financiers ne soit compromise ; ou
 
-2. pour garantir la proportionnalité de la publication de ces décisions, lorsque les mesures concernées sont jugées mineures.
+  - pour garantir la proportionnalité de la publication de ces décisions, lorsque les mesures concernées sont jugées mineures.
 
 Au cas où la CSSF décide de publier une sanction ou une mesure de manière anonyme, la publication des données pertinentes peut être différée pendant une période raisonnable s'il est prévu que, au cours de cette période, les motifs de la publication anonyme cesseront d'exister.
 
@@ -1916,17 +1916,17 @@ Les données à caractère personnel des personnes physiques contenues dans les 
 
 Les informations satisfont aux exigences suivantes :
 
-1. elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 ;
 
-2. elles sont accompagnées des métadonnées suivantes :
+- elles sont accompagnées des métadonnées suivantes :
 
-1. tous les noms de la personne visée par la sanction ou autre mesure administrative à laquelle les informations se rapportent ;
+  - tous les noms de la personne visée par la sanction ou autre mesure administrative à laquelle les informations se rapportent ;
 
-2. s’il est disponible, l’identifiant d’entité juridique de la personne visée par la sanction ou autre mesure administrative, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
+  - s’il est disponible, l’identifiant d’entité juridique de la personne visée par la sanction ou autre mesure administrative, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
 
-3. le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
+  - le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
 
-4. une mention précisant si les informations contiennent des données à caractère personnel.
+  - une mention précisant si les informations contiennent des données à caractère personnel.
 
 <a id="art-67-2"></a>
 ## Art. 67-2.
@@ -1939,15 +1939,15 @@ La CSSF exerce ses fonctions d'une manière transparente et en rendant compte de
 
 La CSSF publie les informations suivantes :
 
-1. le texte de la présente loi et des mesures prises pour son exécution ainsi que le texte des orientations générales en matière de régimes de retraite professionnelle, ainsi que les informations indiquant si la directive (UE) 2016/2341 s'applique en vertu de ses articles 4 et 5 ;
+- le texte de la présente loi et des mesures prises pour son exécution ainsi que le texte des orientations générales en matière de régimes de retraite professionnelle, ainsi que les informations indiquant si la directive (UE) 2016/2341 s'applique en vertu de ses articles 4 et 5 ;
 
-2. les informations relatives au processus de contrôle prudentiel prévu à l'article 58-1 ;
+- les informations relatives au processus de contrôle prudentiel prévu à l'article 58-1 ;
 
-3. des données statistiques agrégées sur les principaux aspects de l'application du cadre prudentiel ;
+- des données statistiques agrégées sur les principaux aspects de l'application du cadre prudentiel ;
 
-4. le principal objectif du contrôle prudentiel et des informations sur les principales fonctions et activités des autorités compétentes ;
+- le principal objectif du contrôle prudentiel et des informations sur les principales fonctions et activités des autorités compétentes ;
 
-5. les règles relatives aux sanctions administratives et autres mesures applicables.
+- les règles relatives aux sanctions administratives et autres mesures applicables.
 
 ## PARTIE V Conditions de fonctionnement des fonds de pension
 
@@ -1985,41 +1985,41 @@ Toutefois si l'affilié est aussi un cotisant ou si son acceptation le rend autr
 
 Le règlement de pension contient pour chaque régime de retraite au moins les indications suivantes :
 
-1. le cercle des personnes susceptibles de devenir affiliés et bénéficiaires,
+- le cercle des personnes susceptibles de devenir affiliés et bénéficiaires,
 
-2. 1°bis le nom du fonds de pension, le fait qu'il est agréé au Luxembourg et surveillé par la CSSF,
+- 1°bis le nom du fonds de pension, le fait qu'il est agréé au Luxembourg et surveillé par la CSSF,
 
-3. la définition des cotisants et, le cas échéant, des institutions financières assumant des engagements tels que prévus aux articles 74 et 76,
+- la définition des cotisants et, le cas échéant, des institutions financières assumant des engagements tels que prévus aux articles 74 et 76,
 
-4. les droits et obligation des parties au régime de retraite, y inclus :
+- les droits et obligation des parties au régime de retraite, y inclus :
 
-5. 3°bis le mode de calcul et la périodicité du calcul des droits accumulés de chaque affilié et bénéficiaire et les règles relatives à la communication d'informations sur ces droits,
+- 3°bis le mode de calcul et la périodicité du calcul des droits accumulés de chaque affilié et bénéficiaire et les règles relatives à la communication d'informations sur ces droits,
 
-6. les conditions d'affiliation et de sortie des affiliés et bénéficiaires et, s'il y a lieu, la définition de la période de carence,
+- les conditions d'affiliation et de sortie des affiliés et bénéficiaires et, s'il y a lieu, la définition de la période de carence,
 
-7. 7°bis les mécanismes de protection des droits accumulés et les mécanismes de réduction des prestations, le cas échéant,
+- 7°bis les mécanismes de protection des droits accumulés et les mécanismes de réduction des prestations, le cas échéant,
 
-8. les conditions et modalités relatives au maintien, au transfert et au rachat des droits acquis des affiliés, y inclus en cas de cessation d'emploi et en cas de non-acceptation du règlement de pension ou d'une clause ou modification apportée à celui-ci,
+- les conditions et modalités relatives au maintien, au transfert et au rachat des droits acquis des affiliés, y inclus en cas de cessation d'emploi et en cas de non-acceptation du règlement de pension ou d'une clause ou modification apportée à celui-ci,
 
-9. 8°bis les informations sur le profil d'investissement,
+- 8°bis les informations sur le profil d'investissement,
 
-10. une information sur les risques financiers et techniques et les autres risques liés au régime de retraite, ainsi que sur la nature et la répartition de ces risques, y compris la déclaration des principes fondant la politique de placement au sens de l'article 53, paragraphe (6),
+- une information sur les risques financiers et techniques et les autres risques liés au régime de retraite, ainsi que sur la nature et la répartition de ces risques, y compris la déclaration des principes fondant la politique de placement au sens de l'article 53, paragraphe (6),
 
-11. 9°bis les conditions concernant les garanties totales ou partielles au titre du régime de retraite ou d'un niveau donné de prestations ou, lorsque aucune garantie n'est prévue au titre du régime de retraite, une déclaration à cet effet,
+- 9°bis les conditions concernant les garanties totales ou partielles au titre du régime de retraite ou d'un niveau donné de prestations ou, lorsque aucune garantie n'est prévue au titre du régime de retraite, une déclaration à cet effet,
 
-12. pour les régimes où le risque d'investissement est supporté par les affiliés ou où des décisions de placement peuvent être prises par les affiliés :
+- pour les régimes où le risque d'investissement est supporté par les affiliés ou où des décisions de placement peuvent être prises par les affiliés :
 
-1. la définition de la politique de placement, des buts spécifiques qu'elle se propose et des critères dont elle s'inspire,
+  - la définition de la politique de placement, des buts spécifiques qu'elle se propose et des critères dont elle s'inspire,
 
-2. en cas d'options entre plusieurs profils d'investissement, l'information des conditions en ce qui concerne l'éventail des options d'investissement disponibles et, le cas échéant, l'option d'investissement par défaut et des dispositions du régime de retraite régissant l'attribution d'un affilié donné à une option d'investissement,
+  - en cas d'options entre plusieurs profils d'investissement, l'information des conditions en ce qui concerne l'éventail des options d'investissement disponibles et, le cas échéant, l'option d'investissement par défaut et des dispositions du régime de retraite régissant l'attribution d'un affilié donné à une option d'investissement,
 
-13. 10°bis la structure des coûts supportés par les affiliés et les bénéficiaires, pour les régimes qui ne prévoient pas un niveau donné de prestations,
+- 10°bis la structure des coûts supportés par les affiliés et les bénéficiaires, pour les régimes qui ne prévoient pas un niveau donné de prestations,
 
-14. les options à la disposition des affiliés et des bénéficiaires pour obtenir le versement de leur prestation de retraite,
+- les options à la disposition des affiliés et des bénéficiaires pour obtenir le versement de leur prestation de retraite,
 
-15. les modalités d'établissement et de modification du règlement de pension, de la note technique et du relevé des droits à retraite telles qu'elles ont été arrêtées dans les statuts,
+- les modalités d'établissement et de modification du règlement de pension, de la note technique et du relevé des droits à retraite telles qu'elles ont été arrêtées dans les statuts,
 
-16. pour les assep, une description des principes régissant l'affectation d'un éventuel surplus subsistant lors de la liquidation du régime de retraite.
+- pour les assep, une description des principes régissant l'affectation d'un éventuel surplus subsistant lors de la liquidation du régime de retraite.
 
 (2)
 
@@ -2030,29 +2030,29 @@ Par dérogation au paragraphe (1), la CSSF peut accepter que le règlement de pe
 
 La note technique contient pour chaque régime de retraite au moins les indications suivantes :
 
-1. le plan de financement au sens de l'article 53, paragraphe (4),
+- le plan de financement au sens de l'article 53, paragraphe (4),
 
-2. pour les régimes à prestations définies, la définition de la politique de placemen, des buts spécifiques qu'elle se propose et des critères dont elle s'inspire,
+- pour les régimes à prestations définies, la définition de la politique de placemen, des buts spécifiques qu'elle se propose et des critères dont elle s'inspire,
 
-3. l'obligation de désigner un gestionnaire d'actif, s'il y a lieu,
+- l'obligation de désigner un gestionnaire d'actif, s'il y a lieu,
 
-4. l'obligation de désigner un gestionnaire du passif, s'il y a lieu,
+- l'obligation de désigner un gestionnaire du passif, s'il y a lieu,
 
-5. les rémunérations et les dépenses que les gestionnaires d'actif et de passif sont habilités à prélever sur le fonds de pension, ainsi que le mode de calcul de ces rémunérations,
+- les rémunérations et les dépenses que les gestionnaires d'actif et de passif sont habilités à prélever sur le fonds de pension, ainsi que le mode de calcul de ces rémunérations,
 
-6. les règles d'évaluation de l'actif et la périodicité du calcul de la valeur nette d'inventaire,
+- les règles d'évaluation de l'actif et la périodicité du calcul de la valeur nette d'inventaire,
 
-7. les règles d'évaluation du passif ainsi que le mode de calcul des droits des affiliés et bénéficiaires dans les situations visées « au paragraphe (1), point 3°, lettre c) de l'article 69,
+- les règles d'évaluation du passif ainsi que le mode de calcul des droits des affiliés et bénéficiaires dans les situations visées « au paragraphe (1), point 3°, lettre c) de l'article 69,
 
-8. les mesures prises en cas où le cotisant n'est plus en mesure de continuer à remplir ses obligations,
+- les mesures prises en cas où le cotisant n'est plus en mesure de continuer à remplir ses obligations,
 
-9. pour les assep ayant bénéficié d'un apport tel que prévu à l'article 28, paragraphe (1), une description des modalités d'amortissement éventuelles de cet apport,
+- pour les assep ayant bénéficié d'un apport tel que prévu à l'article 28, paragraphe (1), une description des modalités d'amortissement éventuelles de cet apport,
 
-10. pour les fonds de pension gérant des régimes de retraite pour plusieurs entreprises d'affiliation, les conditions et modalités de sortie d'une ou plusieurs entreprises d'affiliation,
+- pour les fonds de pension gérant des régimes de retraite pour plusieurs entreprises d'affiliation, les conditions et modalités de sortie d'une ou plusieurs entreprises d'affiliation,
 
-11. pour les fonds de pension gérant des régimes de retraite pour plusieurs entreprises d'affiliation, des règles de répartition des actifs en cas de départ ou en cas d'insolvabilité d'une ou de plusieurs entreprises d'affiliation,
+- pour les fonds de pension gérant des régimes de retraite pour plusieurs entreprises d'affiliation, des règles de répartition des actifs en cas de départ ou en cas d'insolvabilité d'une ou de plusieurs entreprises d'affiliation,
 
-12. pour les fonds de pension assumant des risques biométriques et/ou financiers réunissant dans un même fonds de pension ou compartiment plusieurs entreprises d'affiliation appartenant ou non à un même groupe, les obligations de chacune des entreprises en cas de sous-financement du fonds de pension et en cas d'insolvabilité d'une ou de plusieurs entreprises d'affiliation.
+- pour les fonds de pension assumant des risques biométriques et/ou financiers réunissant dans un même fonds de pension ou compartiment plusieurs entreprises d'affiliation appartenant ou non à un même groupe, les obligations de chacune des entreprises en cas de sous-financement du fonds de pension et en cas d'insolvabilité d'une ou de plusieurs entreprises d'affiliation.
 
 <a id="art-71"></a>
 ## Art. 71.
@@ -2098,17 +2098,17 @@ La CSSF peut soumettre le calcul des provisions techniques à des exigences addi
 
 Le calcul des provisions techniques doit être effectué « et certifié par un actuaire ou par un autre spécialiste de ce domaine, y compris un commissaire aux comptes, sur la base de méthodes actuarielles reconnues par la CSSF, conformément aux principes suivants :
 
-1. le montant minimum des provisions techniques est calculé au moyen d'une évaluation actuarielle suffisamment prudente, tenant compte de tous les engagements contractés en matière de prestations et de cotisations au titre des régimes de retraite gérés par le fonds de pension. Il doit être suffisant à la fois pour que les retraites et les prestations en cours de service continuent d'être versées à leurs bénéficiaires et pour refléter les engagements qui découlent des droits à la retraite accumulés par les affiliés. Les hypothèses économiques et actuarielles retenues pour l'évaluation des engagements sont également choisies avec prudence, en tenant compte, le cas échéant, d'une marge adéquate pour variations défavorables ;
+- le montant minimum des provisions techniques est calculé au moyen d'une évaluation actuarielle suffisamment prudente, tenant compte de tous les engagements contractés en matière de prestations et de cotisations au titre des régimes de retraite gérés par le fonds de pension. Il doit être suffisant à la fois pour que les retraites et les prestations en cours de service continuent d'être versées à leurs bénéficiaires et pour refléter les engagements qui découlent des droits à la retraite accumulés par les affiliés. Les hypothèses économiques et actuarielles retenues pour l'évaluation des engagements sont également choisies avec prudence, en tenant compte, le cas échéant, d'une marge adéquate pour variations défavorables ;
 
-2. les taux d'intérêt maximaux utilisés sont choisis avec prudence. Ces taux d'intérêt prudents sont déterminés en tenant compte :
+- les taux d'intérêt maximaux utilisés sont choisis avec prudence. Ces taux d'intérêt prudents sont déterminés en tenant compte :
 
-- du rendement des actifs correspondants détenus par le fonds de pension ainsi que du rendement projeté des investissements futurs et/ou
+  - du rendement des actifs correspondants détenus par le fonds de pension ainsi que du rendement projeté des investissements futurs et/ou
 
-- des rendements des obligations de haute qualité, des obligations d'État, des obligations du Mécanisme européen de stabilité, des obligations de la Banque européenne d'investissement, désigné ci-après « BEI », ou des obligations du Fonds européen de stabilité financière ;
+  - des rendements des obligations de haute qualité, des obligations d'État, des obligations du Mécanisme européen de stabilité, des obligations de la Banque européenne d'investissement, désigné ci-après « BEI », ou des obligations du Fonds européen de stabilité financière ;
 
-3. les tables biométriques utilisées pour le calcul des provisions techniques se fondent sur des principes de prudence, tenant compte des principales caractéristiques du groupe d'affiliés et des régimes de retraite, notamment de l'évolution attendue des risques concernés ;
+- les tables biométriques utilisées pour le calcul des provisions techniques se fondent sur des principes de prudence, tenant compte des principales caractéristiques du groupe d'affiliés et des régimes de retraite, notamment de l'évolution attendue des risques concernés ;
 
-4. la méthode et les bases du calcul des provisions techniques restent, en général, constantes d'un exercice à l'autre. Une modification peut cependant être justifiée par un changement des données juridiques, démographiques ou économiques sur lesquelles se fondent les hypothèses.
+- la méthode et les bases du calcul des provisions techniques restent, en général, constantes d'un exercice à l'autre. Une modification peut cependant être justifiée par un changement des données juridiques, démographiques ou économiques sur lesquelles se fondent les hypothèses.
 
 #### Chapitre 3 Financement des provisions techniques
 
@@ -2125,11 +2125,11 @@ Pour assurer le respect de cette exigence, la CSSF peut exiger un cantonnement d
 
 Un fonds de pension peut à titre temporaire ne pas disposer d'actifs suffisants pour couvrir les provisions techniques. Dans ce cas, la CSSF fait obligation au fonds de pension d'adopter un plan de redressement concret et réalisable, assorti d'un calendrier, pour garantir que les dispositions du paragraphe (1) soient de nouveau respectées. Le plan est soumis aux conditions suivantes :
 
-1. le fonds de pension élabore un plan concret et réalisable de rétablissement des actifs requis pour couvrir intégralement ses provisions techniques en temps voulu. Ce plan est soumis à l'approbation de la CSSF ;
+- le fonds de pension élabore un plan concret et réalisable de rétablissement des actifs requis pour couvrir intégralement ses provisions techniques en temps voulu. Ce plan est soumis à l'approbation de la CSSF ;
 
-2. l'élaboration de ce plan tient compte de la situation particulière du fonds de pension, notamment la structure de ses actifs et de ses passif, son profil de risque, son plan de liquidité, la répartition par âge des affiliés titulaires de droits aux prestations de retraite, la spécificité des régimes en phase de démarrage et des régimes passant d'une situation de couverture inexistante ou partielle à une situation de couverture intégrale ;
+- l'élaboration de ce plan tient compte de la situation particulière du fonds de pension, notamment la structure de ses actifs et de ses passif, son profil de risque, son plan de liquidité, la répartition par âge des affiliés titulaires de droits aux prestations de retraite, la spécificité des régimes en phase de démarrage et des régimes passant d'une situation de couverture inexistante ou partielle à une situation de couverture intégrale ;
 
-3. en cas de liquidation d'un régime de retraite durant la période visée à la première phrase du présent paragraphe, le fonds de pension en informe la CSSF. Le fonds de pension met au point une procédure permettant de transférer les actifs et les passifs correspondants de ce régime à une autre IRP, à une autre entreprise d'assurance ou à un autre organisme approprié. Cette procédure est communiquée à la CSSF et les grandes lignes de la procédure sont mises à la disposition des affiliés, ou, le cas échéant, de leurs représentants, conformément au principe de confidentialité.
+- en cas de liquidation d'un régime de retraite durant la période visée à la première phrase du présent paragraphe, le fonds de pension en informe la CSSF. Le fonds de pension met au point une procédure permettant de transférer les actifs et les passifs correspondants de ce régime à une autre IRP, à une autre entreprise d'assurance ou à un autre organisme approprié. Cette procédure est communiquée à la CSSF et les grandes lignes de la procédure sont mises à la disposition des affiliés, ou, le cas échéant, de leurs représentants, conformément au principe de confidentialité.
 
 (3)
 
@@ -2188,41 +2188,41 @@ Les fonds de pension visées à l'article 77, paragraphe (1) doivent détenir à
 
 La marge de solvabilité disponible est constituée par les actifs du fonds de pension, libres de tout engagement prévisible et déduction faite des éléments incorporels, y compris :
 
-1. la fraction versée du capital social ;
+- la fraction versée du capital social ;
 
-2. les réserves légales et libres ne correspondant pas aux engagements souscrits ;
+- les réserves légales et libres ne correspondant pas aux engagements souscrits ;
 
-3. le bénéfice ou la perte reportés, déduction faite des dividendes à verser ;
+- le bénéfice ou la perte reportés, déduction faite des dividendes à verser ;
 
-4. les réserves de bénéfices figurant au bilan, lorsqu'elles peuvent être utilisées pour couvrir des pertes éventuelles et qu'elles n'ont pas été affectées pour distribution aux membres ou aux bénéficiaires. La marge de solvabilité disponible est diminuée du montant des actions propres détenues directement par le fonds de pension.
+- les réserves de bénéfices figurant au bilan, lorsqu'elles peuvent être utilisées pour couvrir des pertes éventuelles et qu'elles n'ont pas été affectées pour distribution aux membres ou aux bénéficiaires. La marge de solvabilité disponible est diminuée du montant des actions propres détenues directement par le fonds de pension.
 
 (3)
 
 La marge de solvabilité disponible peut également être constituée :
 
-1. par des actions préférentielles cumulatives et des emprunts subordonnés à concurrence de 50 % du montant le plus faible de la marge de solvabilité disponible ou de l'exigence de marge de solvabilité, dont 25 % au maximum sont constitués d'emprunts subordonnés à échéance fixe ou d'actions préférentielles cumulatives à durée déterminée, pour autant que les statuts, le contrat d'émission ou le contrat d'emprunt prévoient que, en cas de faillite ou de liquidation du fonds de pension, les emprunts subordonnés ou les actions préférentielles occupent un rang inférieur à celui des créances de tous les autres créanciers et ne sont remboursés qu'après règlement de toutes les autres dettes en cours à ce moment. Les emprunts subordonnés remplissent les conditions suivantes :
+- par des actions préférentielles cumulatives et des emprunts subordonnés à concurrence de 50 % du montant le plus faible de la marge de solvabilité disponible ou de l'exigence de marge de solvabilité, dont 25 % au maximum sont constitués d'emprunts subordonnés à échéance fixe ou d'actions préférentielles cumulatives à durée déterminée, pour autant que les statuts, le contrat d'émission ou le contrat d'emprunt prévoient que, en cas de faillite ou de liquidation du fonds de pension, les emprunts subordonnés ou les actions préférentielles occupent un rang inférieur à celui des créances de tous les autres créanciers et ne sont remboursés qu'après règlement de toutes les autres dettes en cours à ce moment. Les emprunts subordonnés remplissent les conditions suivantes :
 
-1. il n'est tenu compte que des fonds effectivement versés ;
+  - il n'est tenu compte que des fonds effectivement versés ;
 
-2. pour les emprunts à échéance fixe, l'échéance initiale est fixée à au moins cinq ans. Au plus tard un an avant la date de remboursement, le fonds de pension soumet à la CSSF, pour approbation, un plan indiquant comment la marge de solvabilité disponible sera maintenue ou amenée au niveau voulu à l'échéance, à moins que le montant d'emprunt entrant dans la composition de la marge de solvabilité disponible ne soit progressivement abaissé durant au moins les cinq années précédant la date de remboursement. La CSSF peut autoriser le remboursement anticipé de ces emprunts, à condition que le fonds de pension émetteur en ait fait la demande et que sa marge de solvabilité disponible ne tombe pas au-dessous du niveau requis ;
+  - pour les emprunts à échéance fixe, l'échéance initiale est fixée à au moins cinq ans. Au plus tard un an avant la date de remboursement, le fonds de pension soumet à la CSSF, pour approbation, un plan indiquant comment la marge de solvabilité disponible sera maintenue ou amenée au niveau voulu à l'échéance, à moins que le montant d'emprunt entrant dans la composition de la marge de solvabilité disponible ne soit progressivement abaissé durant au moins les cinq années précédant la date de remboursement. La CSSF peut autoriser le remboursement anticipé de ces emprunts, à condition que le fonds de pension émetteur en ait fait la demande et que sa marge de solvabilité disponible ne tombe pas au-dessous du niveau requis ;
 
-3. les emprunts sans échéance fixe ne sont remboursables que moyennant un préavis de cinq ans, à moins qu'ils ne soient plus considérés comme une composante de la marge de solvabilité disponible ou que l'accord préalable de la CSSF soit formellement requis pour leur remboursement anticipé. Dans ce dernier cas, le fonds de pension informe la CSSF au moins six mois avant la date de remboursement prévue, en indiquant à celle-ci le montant de la marge de solvabilité disponible et celui de l'exigence de marge de solvabilité tant avant qu'après ce remboursement. La CSSF n'autorise celui-ci que lorsque la marge de solvabilité disponible du fonds de pension ne tombera pas au-dessous du niveau requis ;
+  - les emprunts sans échéance fixe ne sont remboursables que moyennant un préavis de cinq ans, à moins qu'ils ne soient plus considérés comme une composante de la marge de solvabilité disponible ou que l'accord préalable de la CSSF soit formellement requis pour leur remboursement anticipé. Dans ce dernier cas, le fonds de pension informe la CSSF au moins six mois avant la date de remboursement prévue, en indiquant à celle-ci le montant de la marge de solvabilité disponible et celui de l'exigence de marge de solvabilité tant avant qu'après ce remboursement. La CSSF n'autorise celui-ci que lorsque la marge de solvabilité disponible du fonds de pension ne tombera pas au-dessous du niveau requis ;
 
-4. le contrat d'emprunt ne comporte aucune clause prévoyant que, dans des circonstances déterminées autres que la liquidation du fonds de pension, la dette devra être remboursée avant les dates de remboursement convenues ;
+  - le contrat d'emprunt ne comporte aucune clause prévoyant que, dans des circonstances déterminées autres que la liquidation du fonds de pension, la dette devra être remboursée avant les dates de remboursement convenues ;
 
-5. le contrat d'emprunt ne peut être modifié qu'après que la CSSF a déclaré ne pas s'opposer à cette modification.
+  - le contrat d'emprunt ne peut être modifié qu'après que la CSSF a déclaré ne pas s'opposer à cette modification.
 
-2. par des titres à durée indéterminée et des autres instruments, y compris les actions préférentielles cumulatives autres que celles visées à la lettre a), à condition qu'ils remplissent les conditions suivantes :
+- par des titres à durée indéterminée et des autres instruments, y compris les actions préférentielles cumulatives autres que celles visées à la lettre a), à condition qu'ils remplissent les conditions suivantes :
 
-1. ils ne peuvent être remboursés à l'initiative du porteur ou sans l'accord préalable de la CSSF ;
+  - ils ne peuvent être remboursés à l'initiative du porteur ou sans l'accord préalable de la CSSF ;
 
-2. le contrat d'émission donne au fonds de pension la possibilité de différer le paiement des intérêts de l'emprunt ;
+  - le contrat d'émission donne au fonds de pension la possibilité de différer le paiement des intérêts de l'emprunt ;
 
-3. les créances du prêteur sur le fonds de pension sont entièrement subordonnées à celles de tous les créanciers non subordonnés ;
+  - les créances du prêteur sur le fonds de pension sont entièrement subordonnées à celles de tous les créanciers non subordonnés ;
 
-4. les documents régissant l'émission des titres prévoient la capacité de la dette et des intérêts non versés à absorber les pertes, tout en permettant au fonds de pension de poursuivre ses activités ;
+  - les documents régissant l'émission des titres prévoient la capacité de la dette et des intérêts non versés à absorber les pertes, tout en permettant au fonds de pension de poursuivre ses activités ;
 
-5. il n'est tenu compte que des montants effectivement versés.
+  - il n'est tenu compte que des montants effectivement versés.
 
 Le montant total des titres et instruments mentionnés à la présente lettre et à la lettre a) inclus dans le calcul de la marge de solvabilité disponible est limité à maximum 50 % de la marge de solvabilité disponible ou de l'exigence de marge de solvabilité, le plus petit des deux montants étant retenu.
 
@@ -2233,9 +2233,9 @@ Le montant total des titres et instruments mentionnés à la présente lettre et
 
 L'exigence de marge de solvabilité, selon les engagements souscrits, est égale à la somme des résultats suivants :
 
-1. premier résultat : il est obtenu en multipliant une fraction correspondant à 4 % des provisions mathématiques relatives aux opérations directes et aux acceptations en réassurance, sans déduction des cessions en réassurance, par le rapport, égal ou supérieur à 85 %, existant, pour l'exercice précédent, entre le montant total des provisions mathématiques après déduction des cessions en réassurance et le montant brut total des provisions mathématiques ;
+- premier résultat : il est obtenu en multipliant une fraction correspondant à 4 % des provisions mathématiques relatives aux opérations directes et aux acceptations en réassurance, sans déduction des cessions en réassurance, par le rapport, égal ou supérieur à 85 %, existant, pour l'exercice précédent, entre le montant total des provisions mathématiques après déduction des cessions en réassurance et le montant brut total des provisions mathématiques ;
 
-2. second résultat : pour les polices dont les capitaux sous risque ne sont pas négatifs, il est obtenu en multipliant une fraction correspondant à 0,3 % du montant de ces capitaux à charge du fonds de pension par le rapport, égal ou supérieur à 50 %, existant, pour l'exercice précédent, entre le montant total des capitaux sous risque demeurant à charge du fonds de pension après cession et rétrocession en réassurance et le montant total des capitaux sous risque sans déduction de la réassurance. Pour les assurances temporaires en cas de décès, dont la durée n'est pas supérieure à trois ans, cette fraction est de 0,1 %. Pour celles dont la durée dépasse trois ans, mais n'est pas supérieure à cinq ans, cette fraction est de 0,15 %.
+- second résultat : pour les polices dont les capitaux sous risque ne sont pas négatifs, il est obtenu en multipliant une fraction correspondant à 0,3 % du montant de ces capitaux à charge du fonds de pension par le rapport, égal ou supérieur à 50 %, existant, pour l'exercice précédent, entre le montant total des capitaux sous risque demeurant à charge du fonds de pension après cession et rétrocession en réassurance et le montant total des capitaux sous risque sans déduction de la réassurance. Pour les assurances temporaires en cas de décès, dont la durée n'est pas supérieure à trois ans, cette fraction est de 0,1 %. Pour celles dont la durée dépasse trois ans, mais n'est pas supérieure à cinq ans, cette fraction est de 0,15 %.
 
 (2)
 
@@ -2253,13 +2253,13 @@ Pour les opérations visées à l'article 2, paragraphe (3), lettre b), point i)
 
 Pour les assurances liées à des fonds d'investissement et visées à l'article 2, paragraphe (3), lettre a), points i) et ii), de la directive 2009/138/CE et pour les opérations visées à l'article 2, paragraphe (3), lettre b), points iii), iv) et v), de ladite directive, l'exigence de marge de solvabilité est égale à la somme des facteurs suivants :
 
-1. dans la mesure où le fonds de pension assume un risque de placement, une fraction correspondant à 4 % des provisions techniques, calculée conformément au paragraphe (1), lettre a) ;
+- dans la mesure où le fonds de pension assume un risque de placement, une fraction correspondant à 4 % des provisions techniques, calculée conformément au paragraphe (1), lettre a) ;
 
-2. dans la mesure où le fonds de pension n'assume pas de risque de placement, mais où le montant destiné à couvrir les frais de gestion est fixé pour une période supérieure à cinq ans, une fraction correspondant à 1 % des provisions techniques, calculée conformément au paragraphe (1), lettre a) ;
+- dans la mesure où le fonds de pension n'assume pas de risque de placement, mais où le montant destiné à couvrir les frais de gestion est fixé pour une période supérieure à cinq ans, une fraction correspondant à 1 % des provisions techniques, calculée conformément au paragraphe (1), lettre a) ;
 
-3. dans la mesure où le fonds de pension n'assume pas de risque de placement et où le montant destiné à couvrir les frais de gestion n'est pas fixé pour une période supérieure à cinq ans, un montant équivalent à 25 % des dépenses administratives nettes relatives à ces assurances et opérations pour l'exercice précédent ;
+- dans la mesure où le fonds de pension n'assume pas de risque de placement et où le montant destiné à couvrir les frais de gestion n'est pas fixé pour une période supérieure à cinq ans, un montant équivalent à 25 % des dépenses administratives nettes relatives à ces assurances et opérations pour l'exercice précédent ;
 
-4. dans la mesure où le fonds de pension assume un risque de mortalité, une fraction correspondant à 0,3 % du capital sous risque, calculée conformément au paragraphe (1), lettre b).
+- dans la mesure où le fonds de pension assume un risque de mortalité, une fraction correspondant à 0,3 % du capital sous risque, calculée conformément au paragraphe (1), lettre b).
 
 <a id="art-77-3"></a>
 ## Art. 77-3.
@@ -2313,19 +2313,19 @@ Lorsque l'exigence de marge de solvabilité calculée conformément aux paragrap
 
 Les fonds de pension doivent placer leurs actifs conformément au principe de prudence (« prudent person rule ») et, notamment, conformément aux règles suivantes :
 
-1. les actifs doivent être placés au mieux des intérêts à long terme de l'ensemble des affiliés et des bénéficiaires en tenant compte du principe d'une répartition équitable des risques et des profits entre générations. En cas de conflit d'intérêt potentiel, le fonds de pension ou le gestionnaire d'actif qui gère son portefeuille veille à ce que l'investissement soit effectué dans le seul intérêt des affiliés et des bénéficiaires ;
+- les actifs doivent être placés au mieux des intérêts à long terme de l'ensemble des affiliés et des bénéficiaires en tenant compte du principe d'une répartition équitable des risques et des profits entre générations. En cas de conflit d'intérêt potentiel, le fonds de pension ou le gestionnaire d'actif qui gère son portefeuille veille à ce que l'investissement soit effectué dans le seul intérêt des affiliés et des bénéficiaires ;
 
-2. les actifs doivent être placés de façon à assurer la sécurité, la qualité, la liquidité et la rentabilité du portefeuille dans son ensemble ;
+- les actifs doivent être placés de façon à assurer la sécurité, la qualité, la liquidité et la rentabilité du portefeuille dans son ensemble ;
 
-3. les actifs doivent principalement être placés sur des marchés réglementés. Les placements en actifs qui ne sont pas négociables sur un marché financier réglementé doivent en tout état de cause rester à un niveau prudent ;
+- les actifs doivent principalement être placés sur des marchés réglementés. Les placements en actifs qui ne sont pas négociables sur un marché financier réglementé doivent en tout état de cause rester à un niveau prudent ;
 
-4. les placements en instruments dérivés sont possibles dans la mesure où ils contribuent à une réduction du risque d'investissement ou facilitent une gestion efficace du portefeuille. Ils doivent être évalués avec prudence, en tenant compte de l'actif sous-jacent, et inclus dans l'évaluation des actifs du fonds de pension. Le fonds de pension doit par ailleurs éviter une exposition excessive aux risques liés à une seule contrepartie et à d'autres opérations dérivées ;
+- les placements en instruments dérivés sont possibles dans la mesure où ils contribuent à une réduction du risque d'investissement ou facilitent une gestion efficace du portefeuille. Ils doivent être évalués avec prudence, en tenant compte de l'actif sous-jacent, et inclus dans l'évaluation des actifs du fonds de pension. Le fonds de pension doit par ailleurs éviter une exposition excessive aux risques liés à une seule contrepartie et à d'autres opérations dérivées ;
 
-5. les actifs doivent être correctement diversifiés afin d'éviter une dépendance excessive à l'égard d'un actif, d'un émetteur ou d'un groupe d'entreprises particulier ainsi que des concentrations de risques dans l'ensemble du portefeuille. Les placements en actifs émanant du même émetteur ou des émetteurs d'un même groupe ne doivent pas exposer le fonds de pension à une concentration excessive des risques. La politique de placement est toujours soumise au principe de la répartition des risques, mais pourra prévoir l'investissement de l'intégralité des avoirs dans un ou plusieurs véhicules d'accumulation d'actifs à condition de respecter la politique de placement prévue par le règlement de pension du régime de retraite ;
+- les actifs doivent être correctement diversifiés afin d'éviter une dépendance excessive à l'égard d'un actif, d'un émetteur ou d'un groupe d'entreprises particulier ainsi que des concentrations de risques dans l'ensemble du portefeuille. Les placements en actifs émanant du même émetteur ou des émetteurs d'un même groupe ne doivent pas exposer le fonds de pension à une concentration excessive des risques. La politique de placement est toujours soumise au principe de la répartition des risques, mais pourra prévoir l'investissement de l'intégralité des avoirs dans un ou plusieurs véhicules d'accumulation d'actifs à condition de respecter la politique de placement prévue par le règlement de pension du régime de retraite ;
 
-6. les placements en instruments émis par l'entreprise d'affiliation ne doivent pas dépasser 5% de l'ensemble du portefeuille et, lorsque l'entreprise d'affiliation appartient à un groupe, les placements en instruments émis par les entreprises appartenant au même groupe que l'entreprise d'affiliation ne doivent pas dépasser 10% du portefeuille ;
+- les placements en instruments émis par l'entreprise d'affiliation ne doivent pas dépasser 5% de l'ensemble du portefeuille et, lorsque l'entreprise d'affiliation appartient à un groupe, les placements en instruments émis par les entreprises appartenant au même groupe que l'entreprise d'affiliation ne doivent pas dépasser 10% du portefeuille ;
 
-7. dans le respect du principe de prudence, les fonds de pension prennent en compte l'incidence potentielle à long terme des décisions de placement sur les facteurs environnementaux, sociaux et de gouvernance.
+- dans le respect du principe de prudence, les fonds de pension prennent en compte l'incidence potentielle à long terme des décisions de placement sur les facteurs environnementaux, sociaux et de gouvernance.
 
 Quand le fonds de pension opère pour le compte de plusieurs entreprises d'affiliation, les placements en instruments émis par ces entreprises sont effectués avec prudence, compte tenu de la nécessité d'une diversification adéquate.
 
@@ -2351,15 +2351,15 @@ La CSSF peut fixer des coefficients de structure que les fonds de pension soumis
 
 Un règlement grand-ducal peut, la CSSF demandée en son avis ou sur sa proposition, fixer :
 
-1. les périodicités minimales du calcul de la valeur nette d'inventaire par action de la sepcav ;
+- les périodicités minimales du calcul de la valeur nette d'inventaire par action de la sepcav ;
 
-2. le pourcentage minimal des actifs du fonds de pension devant consister en liquidités ;
+- le pourcentage minimal des actifs du fonds de pension devant consister en liquidités ;
 
-3. le pourcentage maximal à concurrence duquel les actifs du fonds de pension peuvent être investis dans des actions, des titres ou valeurs négociables assimilées à des actions et des obligations d'entreprises non négociables sur un marché réglementé ou sur un autre marché organisé fournissant des garanties comparables ;
+- le pourcentage maximal à concurrence duquel les actifs du fonds de pension peuvent être investis dans des actions, des titres ou valeurs négociables assimilées à des actions et des obligations d'entreprises non négociables sur un marché réglementé ou sur un autre marché organisé fournissant des garanties comparables ;
 
-4. le pourcentage maximal des titres de même nature émis par une même collectivité que le fonds de pension peut posséder ;
+- le pourcentage maximal des titres de même nature émis par une même collectivité que le fonds de pension peut posséder ;
 
-5. le pourcentage maximal des actifs du fonds de pension qui peut être investi en titres d'une même collectivité.
+- le pourcentage maximal des actifs du fonds de pension qui peut être investi en titres d'une même collectivité.
 
 (2)
 
@@ -2378,13 +2378,13 @@ Lorsque les pourcentages maximaux, fixés par référence aux literas c), d), et
 
 Les règlements grand-ducaux et réglementations prudentielles pris en application des articles 79 et 80 ne peuvent toutefois pas empêcher les fonds de pension :
 
-1. de placer jusqu'à 70% des actifs représentatifs des provisions techniques ou de l'ensemble du portefeuille pour les régimes dans lesquels le risque d'investissement est supporté par les affiliés et bénéficiaires, dans des actions, des titres ou valeurs négociables assimilées à des actions et des obligations d'entreprises négociables sur des marchés réglementés, des MTF ou des OTF, et de décider eux-mêmes du poids relatif de ces titres dans leur portefeuille de placements. Si les règles prudentielles le justifient, une limite plus basse, non inférieure à 35 % peut toutefois être appliquée aux fonds de pension qui gèrent des régimes de retraite avec une garantie de taux d'intérêt à long terme, supportent eux-mêmes le risque d'investissement et fournissent eux-mêmes la garantie ;
+- de placer jusqu'à 70% des actifs représentatifs des provisions techniques ou de l'ensemble du portefeuille pour les régimes dans lesquels le risque d'investissement est supporté par les affiliés et bénéficiaires, dans des actions, des titres ou valeurs négociables assimilées à des actions et des obligations d'entreprises négociables sur des marchés réglementés, des MTF ou des OTF, et de décider eux-mêmes du poids relatif de ces titres dans leur portefeuille de placements. Si les règles prudentielles le justifient, une limite plus basse, non inférieure à 35 % peut toutefois être appliquée aux fonds de pension qui gèrent des régimes de retraite avec une garantie de taux d'intérêt à long terme, supportent eux-mêmes le risque d'investissement et fournissent eux-mêmes la garantie ;
 
-2. de placer jusqu'à 30% des actifs représentatifs des provisions techniques dans des actifs libellés en monnaies autres que celles dans lesquelles sont exprimés les engagements ;
+- de placer jusqu'à 30% des actifs représentatifs des provisions techniques dans des actifs libellés en monnaies autres que celles dans lesquelles sont exprimés les engagements ;
 
-3. de placer leurs actifs dans des instruments d'investissement à long terme et qui ne sont pas négociés sur les marchés réglementés, des MTF ou des OTF ;
+- de placer leurs actifs dans des instruments d'investissement à long terme et qui ne sont pas négociés sur les marchés réglementés, des MTF ou des OTF ;
 
-4. d'investir dans des instruments qui sont émis ou garantis par la BEI dans le cadre du Fonds européen pour les investissements stratégiques, des fonds européens d'investissement à long terme, des fonds d'entrepreneuriat social européens et des fonds de capital-risque européens.
+- d'investir dans des instruments qui sont émis ou garantis par la BEI dans le cadre du Fonds européen pour les investissements stratégiques, des fonds européens d'investissement à long terme, des fonds d'entrepreneuriat social européens et des fonds de capital-risque européens.
 
 <a id="art-82"></a>
 ## Art. 82.
@@ -2407,27 +2407,27 @@ Le fonds de pension peut toutefois contracter, exclusivement à des fins de liqu
 
 Sans préjudice du règlement de pension du régime de retraite, et en tenant compte de la nature du régime de retraite instauré, chaque fonds de pension doit fournir aux
 
-1. affiliés potentiels au moins les informations prévues à l'article 87-1 ;
+- affiliés potentiels au moins les informations prévues à l'article 87-1 ;
 
-2. affiliés au moins les informations prévues aux articles 69, 85-1, 87-2, 88 et 89 ;
+- affiliés au moins les informations prévues aux articles 69, 85-1, 87-2, 88 et 89 ;
 
-3. bénéficiaires au minimum les informations prévues aux articles 69, 88 et 89-1.
+- bénéficiaires au minimum les informations prévues aux articles 69, 88 et 89-1.
 
 (2)
 
 Les informations visées au paragraphe (1) sont :
 
-1. mises à jour régulièrement ;
+- mises à jour régulièrement ;
 
-2. rédigées de manière claire, dans un langage clair, succinct et compréhensible, et en évitant le jargon et l'emploi de termes techniques lorsque des mots du langage courant peuvent être utilisés à la place ;
+- rédigées de manière claire, dans un langage clair, succinct et compréhensible, et en évitant le jargon et l'emploi de termes techniques lorsque des mots du langage courant peuvent être utilisés à la place ;
 
-3. non trompeuses et leur vocabulaire et leur contenu sont cohérents ;
+- non trompeuses et leur vocabulaire et leur contenu sont cohérents ;
 
-4. présentées d'une manière qui en rend la lecture aisée ;
+- présentées d'une manière qui en rend la lecture aisée ;
 
-5. disponibles dans une langue officielle de l'État membre dont le droit social et le droit du travail en matière de régimes de retraite professionnelle s'applique au régime de retraite concerné ;
+- disponibles dans une langue officielle de l'État membre dont le droit social et le droit du travail en matière de régimes de retraite professionnelle s'applique au régime de retraite concerné ;
 
-6. mises gratuitement à la disposition des affiliés potentiels, des affiliés et des bénéficiaires, par voie électronique, y compris un support durable ou un site internet, ou sur papier.
+- mises gratuitement à la disposition des affiliés potentiels, des affiliés et des bénéficiaires, par voie électronique, y compris un support durable ou un site internet, ou sur papier.
 
 <a id="art-85-1"></a>
 ## Art. 85-1.
@@ -2452,31 +2452,31 @@ Tout changement important dans les informations contenues dans le relevé des dr
 
 Le relevé des droits à retraite contient au moins les informations clés suivantes pour les affiliés :
 
-1. les données personnelles concernant l'affilié, y compris, une indication claire, le cas échéant, de l'âge légal de départ à la retraite fixé dans le régime de retraite ou estimé par l'IRP, ou l'âge de départ à la retraite fixé par l'affilié, selon le cas ;
+- les données personnelles concernant l'affilié, y compris, une indication claire, le cas échéant, de l'âge légal de départ à la retraite fixé dans le régime de retraite ou estimé par l'IRP, ou l'âge de départ à la retraite fixé par l'affilié, selon le cas ;
 
-2. le nom du fonds de pension et son adresse de contact et l'identification du régime de retraite de l'affilié ;
+- le nom du fonds de pension et son adresse de contact et l'identification du régime de retraite de l'affilié ;
 
-3. le cas échéant, toute information concernant des garanties totales ou partielles au titre du régime de retraite et, dans ce cas, l'endroit où trouver de plus amples informations ;
+- le cas échéant, toute information concernant des garanties totales ou partielles au titre du régime de retraite et, dans ce cas, l'endroit où trouver de plus amples informations ;
 
-4. des informations relatives aux projections en matière de retraites fondées sur l'âge de la retraite fixé à la lettre a), et une clause de non-responsabilité selon laquelle ces projections peuvent différer du montant final des prestations perçues. Si les projections en matière de retraites sont fondées sur des scénarios économiques, ces informations contiennent également le meilleur scénario et un scénario moins favorable, en tenant compte de la nature propre du régime de retraite ;
+- des informations relatives aux projections en matière de retraites fondées sur l'âge de la retraite fixé à la lettre a), et une clause de non-responsabilité selon laquelle ces projections peuvent différer du montant final des prestations perçues. Si les projections en matière de retraites sont fondées sur des scénarios économiques, ces informations contiennent également le meilleur scénario et un scénario moins favorable, en tenant compte de la nature propre du régime de retraite ;
 
-5. des informations relatives aux droits accumulés et au capital accumulé, tenant compte de la nature propre du régime de retraite ;
+- des informations relatives aux droits accumulés et au capital accumulé, tenant compte de la nature propre du régime de retraite ;
 
-6. des informations sur les cotisations versées par l'entreprise d'affiliation et l'affilié dans le régime de retraite au moins au cours des douze derniers mois, tenant compte de la nature propre du régime de retraite ;
+- des informations sur les cotisations versées par l'entreprise d'affiliation et l'affilié dans le régime de retraite au moins au cours des douze derniers mois, tenant compte de la nature propre du régime de retraite ;
 
-7. une ventilation des coûts déduits par les fonds de pension au moins au cours des douze derniers mois ;
+- une ventilation des coûts déduits par les fonds de pension au moins au cours des douze derniers mois ;
 
-8. des informations sur le niveau de financement du régime de retraite dans son ensemble.
+- des informations sur le niveau de financement du régime de retraite dans son ensemble.
 
 Afin de déterminer les hypothèses sur lesquelles se fondent les projections visées à l'alinéa 1, lettre d), les fonds de pension doivent tenir compte des règles suivantes :
 
-1. ils doivent privilégier des sources officielles ;
+- ils doivent privilégier des sources officielles ;
 
-2. ils doivent choisir leurs sources en tenant compte de la qualité et de l'actualité des données ;
+- ils doivent choisir leurs sources en tenant compte de la qualité et de l'actualité des données ;
 
-3. ils doivent prendre des mesures adéquates pour déceler et gérer des conflits d'intérêts potentiels liés au choix des sources ;
+- ils doivent prendre des mesures adéquates pour déceler et gérer des conflits d'intérêts potentiels liés au choix des sources ;
 
-4. ils doivent être en mesure de fournir des informations sur les sources, les méthodes et les procédures qu'ils utilisent.
+- ils doivent être en mesure de fournir des informations sur les sources, les méthodes et les procédures qu'ils utilisent.
 
 Ces règles sont appliquées par les fonds de pension pour déterminer, le cas échéant, le taux annuel de rendement nominal des investissements, le taux d'inflation annuel et l'évolution future des salaires.
 
@@ -2484,13 +2484,13 @@ Ces règles sont appliquées par les fonds de pension pour déterminer, le cas �
 
 Le relevé des droits à retraite précise où et comment obtenir des informations supplémentaires, notamment :
 
-1. de plus amples informations pratiques sur les options offertes aux affiliés par le régime de retraite ;
+- de plus amples informations pratiques sur les options offertes aux affiliés par le régime de retraite ;
 
-2. les informations visées aux articles 87, paragraphe (1) et 53, paragraphe (6) ;
+- les informations visées aux articles 87, paragraphe (1) et 53, paragraphe (6) ;
 
-3. le cas échéant, des informations sur les hypothèses utilisées pour estimer les montants exprimés en rente viagère, en particulier le taux de rente, le type de prestataire et la durée de la rente ;
+- le cas échéant, des informations sur les hypothèses utilisées pour estimer les montants exprimés en rente viagère, en particulier le taux de rente, le type de prestataire et la durée de la rente ;
 
-4. des informations sur le niveau des prestations en cas de cessation d'emploi.
+- des informations sur le niveau des prestations en cas de cessation d'emploi.
 
 (7)
 
@@ -2524,19 +2524,19 @@ Les comptes annuels et rapports annuels tels que prévus aux paragraphes (1) et 
 
 Les informations satisfont aux exigences suivantes :
 
-1. elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
-2. elles sont accompagnées des métadonnées suivantes :
+- elles sont accompagnées des métadonnées suivantes :
 
-1. tous les noms du fonds de pension auquel les informations se rapportent ;
+  - tous les noms du fonds de pension auquel les informations se rapportent ;
 
-2. l’identifiant d’entité juridique du fonds de pension, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
+  - l’identifiant d’entité juridique du fonds de pension, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
 
-3. la taille du fonds de pension, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
+  - la taille du fonds de pension, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
 
-4. le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
+  - le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
 
-5. une mention précisant si les informations contiennent des données à caractère personnel.
+  - une mention précisant si les informations contiennent des données à caractère personnel.
 
 Aux fins de l’alinéa 2, lettre b), point ii), les fonds de pension obtiennent un identifiant d’entité juridique.
 
@@ -2547,21 +2547,21 @@ Aux fins de l’alinéa 2, lettre b), point ii), les fonds de pension obtiennent
 
 Les fonds de pension doivent veiller à ce que les affiliés potentiels à un régime de retraite soient informés des éléments suivants :
 
-1. les options pertinentes dont ils disposent, y compris les options d'investissement ;
+- les options pertinentes dont ils disposent, y compris les options d'investissement ;
 
-2. les caractéristiques pertinentes du régime de retraite, y compris le type de prestations ;
+- les caractéristiques pertinentes du régime de retraite, y compris le type de prestations ;
 
-3. des informations indiquant si et de quelle manière les facteurs environnementaux, climatiques, sociaux et de gouvernance d'entreprise sont pris en considération dans la stratégie d'investissement ;
+- des informations indiquant si et de quelle manière les facteurs environnementaux, climatiques, sociaux et de gouvernance d'entreprise sont pris en considération dans la stratégie d'investissement ;
 
-4. où il est possible de trouver des informations supplémentaires.
+- où il est possible de trouver des informations supplémentaires.
 
 (2)
 
 Les informations visées au paragraphe (1) doivent être fournies aux affiliés potentiels :
 
-1. avant leur affiliation si celle-ci ne s'effectue pas d'office ; ou
+- avant leur affiliation si celle-ci ne s'effectue pas d'office ; ou
 
-2. immédiatement après l'affiliation si celle-ci s'opère d'office.
+- immédiatement après l'affiliation si celle-ci s'opère d'office.
 
 (3)
 
@@ -2579,11 +2579,11 @@ Les informations visées à l'alinéa 1 doivent être fournies à chaque affili�
 
 À la demande d'un affilié, d'un bénéficiaire ou de son représentant, le fonds de pension fournit les informations supplémentaires suivantes :
 
-1. les comptes annuels et rapports annuels visés à l'article 87 ou, lorsqu'un fonds de pension est responsable de plusieurs régimes, les comptes et rapports afférents à leur propre régime de retraite ;
+- les comptes annuels et rapports annuels visés à l'article 87 ou, lorsqu'un fonds de pension est responsable de plusieurs régimes, les comptes et rapports afférents à leur propre régime de retraite ;
 
-2. la déclaration des principes fondant la politique de placement visée à l'article 53, paragraphe (6) ;
+- la déclaration des principes fondant la politique de placement visée à l'article 53, paragraphe (6) ;
 
-3. toute autre information sur les hypothèses utilisées pour établir les projections figurant au relevé des droits à retraite.
+- toute autre information sur les hypothèses utilisées pour établir les projections figurant au relevé des droits à retraite.
 
 Les entreprises d'affiliation pourront également, sur demande, avoir communication des comptes et rapports annuels du fonds de pension.
 
@@ -2596,13 +2596,13 @@ Par dérogation à l'article 73 de la loi modifiée du 10 août 1915 concernant 
 
 Sans préjudice de dispositions plus contraignantes figurant au règlement de pension du régime de retraite ou au relevé des droits à retraite, chaque affilié reçoit également sur demande des informations détaillées et substantielles sur :
 
-1. le niveau que les prestations de retraite doivent atteindre, le cas échéant ;
+- le niveau que les prestations de retraite doivent atteindre, le cas échéant ;
 
-2. le niveau des prestations en cas de cessation d'emploi ;
+- le niveau des prestations en cas de cessation d'emploi ;
 
-3. lorsque l'affilié supporte le risque de placement, l'éventail des options éventuelles de placement et le portefeuille de placements existant, avec une description des risques et des coûts relatifs à ces placements ;
+- lorsque l'affilié supporte le risque de placement, l'éventail des options éventuelles de placement et le portefeuille de placements existant, avec une description des risques et des coûts relatifs à ces placements ;
 
-4. les modalités du transfert des droits à la retraite à une autre IRP en cas de résiliation du contrat de travail.
+- les modalités du transfert des droits à la retraite à une autre IRP en cas de résiliation du contrat de travail.
 
 (2)
 
@@ -2694,11 +2694,11 @@ En ordonnant la liquidation, le tribunal nomme un juge-commissaire ainsi qu'un o
 
 Les créanciers sont payés dans l'ordre suivant :
 
-1. les créanciers autres que les affiliés et les bénéficiaires ;
+- les créanciers autres que les affiliés et les bénéficiaires ;
 
-2. les affiliés et les bénéficiaires ;
+- les affiliés et les bénéficiaires ;
 
-3. la ou les entreprises d'affiliation.
+- la ou les entreprises d'affiliation.
 
 (2)
 
@@ -2732,9 +2732,9 @@ Les sommes ou valeurs revenant aux affiliés et bénéficiaires et aux autres cr
 
 Lorsque la liquidation est terminée, le ou les liquidateurs font rapport au tribunal sur l'emploi des valeurs du fonds de pension et soumettent les comptes et pièces à l'appui. Le tribunal nomme des commissaires pour examiner les documents. Le tribunal statue, après le rapport des commissaires, sur la gestion du ou des liquidateurs et sur la clôture de la liquidation. Celle-ci est publiée conformément au paragraphe (5) ci-dessus. Cette publication comprend en outre :
 
-1. l'indication de l'endroit désigné par le tribunal où les livres et documents du fonds de pension doivent être déposés pendant cinq ans au moins ;
+- l'indication de l'endroit désigné par le tribunal où les livres et documents du fonds de pension doivent être déposés pendant cinq ans au moins ;
 
-2. l'indication des mesures prises conformément au paragraphe (7) qui précède en vue de la consignation des sommes et valeurs revenant aux affiliés et bénéficiaires et aux autres créanciers dont la remise n'aurait pu leur être faite.
+- l'indication des mesures prises conformément au paragraphe (7) qui précède en vue de la consignation des sommes et valeurs revenant aux affiliés et bénéficiaires et aux autres créanciers dont la remise n'aurait pu leur être faite.
 
 (9)
 
@@ -2803,11 +2803,11 @@ Un fonds de pension souhaitant fournir ses services à une ou plusieurs entrepri
 
 Le dossier de notification comprend les informations suivantes :
 
-1. le ou les Etat(s) membre(s) d'accueil identifiés, le cas échéant, par l'entreprise d'affiliation ;
+- le ou les Etat(s) membre(s) d'accueil identifiés, le cas échéant, par l'entreprise d'affiliation ;
 
-2. le nom de la ou des entreprise(s) d'affiliation et le lieu de son ou de leur administration principale ;
+- le nom de la ou des entreprise(s) d'affiliation et le lieu de son ou de leur administration principale ;
 
-3. les principales caractéristiques du régime de retraite à gérer pour la ou les entreprise(s) d'affiliation.
+- les principales caractéristiques du régime de retraite à gérer pour la ou les entreprise(s) d'affiliation.
 
 (4)
 
@@ -2863,9 +2863,9 @@ Les coûts d'un transfert ne sont pas supportés par les affiliés et les béné
 
 Le transfert est soumis à l'accord préalable :
 
-1. d'une majorité des affiliés et d'une majorité des bénéficiaires concernés de l'IRP qui transfère ou, s'il y a lieu, d'une majorité de leurs représentants, définie selon le droit national de l'État membre de l'IRP qui transfère. Les informations sur les conditions du transfert sont mises à la disposition des affiliés et des bénéficiaires concernés et, s'il y a lieu, de leurs représentants, en temps utile par l'IRP qui transfère, avant la présentation de la demande visée au paragraphe (4) ;
+- d'une majorité des affiliés et d'une majorité des bénéficiaires concernés de l'IRP qui transfère ou, s'il y a lieu, d'une majorité de leurs représentants, définie selon le droit national de l'État membre de l'IRP qui transfère. Les informations sur les conditions du transfert sont mises à la disposition des affiliés et des bénéficiaires concernés et, s'il y a lieu, de leurs représentants, en temps utile par l'IRP qui transfère, avant la présentation de la demande visée au paragraphe (4) ;
 
-2. de l'entreprise d'affiliation, le cas échéant.
+- de l'entreprise d'affiliation, le cas échéant.
 
 (4)
 
@@ -2875,19 +2875,19 @@ Le transfert de tout ou partie des engagements, des provisions techniques et d'a
 
 La demande d'autorisation du transfert visée au paragraphe (4) contient les informations suivantes :
 
-1. l'accord écrit entre l'IRP qui transfère et le fonds de pension destinataire, précisant les conditions du transfert ;
+- l'accord écrit entre l'IRP qui transfère et le fonds de pension destinataire, précisant les conditions du transfert ;
 
-2. une description des principales caractéristiques du régime de retraite ;
+- une description des principales caractéristiques du régime de retraite ;
 
-3. une description des engagements ou des provisions techniques à transférer, et des autres obligations et droits, ainsi que des actifs correspondants, ou leurs équivalents en trésorerie ;
+- une description des engagements ou des provisions techniques à transférer, et des autres obligations et droits, ainsi que des actifs correspondants, ou leurs équivalents en trésorerie ;
 
-4. le nom et le lieu d'implantation au Luxembourg de l'administration principale du fonds de pension destinataire et le nom et le lieu d'implantation de l'administration principale de l'IRP qui transfère et l'État membre dans lequel l'IRP qui transfère est enregistrée ou agréée ;
+- le nom et le lieu d'implantation au Luxembourg de l'administration principale du fonds de pension destinataire et le nom et le lieu d'implantation de l'administration principale de l'IRP qui transfère et l'État membre dans lequel l'IRP qui transfère est enregistrée ou agréée ;
 
-5. le lieu d'implantation de l'administration principale de l'entreprise d'affiliation et son nom ;
+- le lieu d'implantation de l'administration principale de l'entreprise d'affiliation et son nom ;
 
-6. la preuve de l'accord préalable conformément au paragraphe (3) ;
+- la preuve de l'accord préalable conformément au paragraphe (3) ;
 
-7. le cas échéant, les noms des États membres dont le droit social et le droit du travail pertinents en matière de régimes de retraite professionnelle sont applicables au régime de retraite concerné.
+- le cas échéant, les noms des États membres dont le droit social et le droit du travail pertinents en matière de régimes de retraite professionnelle sont applicables au régime de retraite concerné.
 
 (6)
 
@@ -2897,15 +2897,15 @@ La CSSF transmet la demande visée au paragraphe (4) à l'autorité compétente 
 
 La CSSF, en sa qualité d'autorité compétente du fonds de pension destinataire, vérifie uniquement si :
 
-1. toutes les informations visées au paragraphe (5) ont été communiquées par le fonds de pension destinataire ;
+- toutes les informations visées au paragraphe (5) ont été communiquées par le fonds de pension destinataire ;
 
-2. les structures administratives, la situation financière du fonds de pension destinataire et l'honorabilité et la compétence ou l'expérience professionnelle de ses dirigeants sont compatibles avec le transfert proposé ;
+- les structures administratives, la situation financière du fonds de pension destinataire et l'honorabilité et la compétence ou l'expérience professionnelle de ses dirigeants sont compatibles avec le transfert proposé ;
 
-3. les intérêts à long terme des affiliés et des bénéficiaires du fonds de pension destinataire et de la partie transférée du régime sont dûment protégés pendant et après le transfert ;
+- les intérêts à long terme des affiliés et des bénéficiaires du fonds de pension destinataire et de la partie transférée du régime sont dûment protégés pendant et après le transfert ;
 
-4. les provisions techniques du fonds de pension destinataire sont intégralement couvertes à la date du transfert, lorsque celui-ci donne lieu à une activité transfrontalière ;
+- les provisions techniques du fonds de pension destinataire sont intégralement couvertes à la date du transfert, lorsque celui-ci donne lieu à une activité transfrontalière ;
 
-5. les actifs à transférer sont suffisants et appropriés pour couvrir les engagements et les provisions techniques, ainsi que les autres obligations et droits à transférer, conformément à la présente loi et aux mesures prises pour son exécution.
+- les actifs à transférer sont suffisants et appropriés pour couvrir les engagements et les provisions techniques, ainsi que les autres obligations et droits à transférer, conformément à la présente loi et aux mesures prises pour son exécution.
 
 (8)
 
@@ -2944,9 +2944,9 @@ Les coûts d'un tel transfert ne sont pas supportés par les affiliés et les b�
 
 Le transfert est soumis à l'accord préalable :
 
-1. d'une majorité des affiliés et d'une majorité des bénéficiaires concernés ou, s'il y a lieu, d'une majorité de leurs représentants, conformément aux conditions de présence et de majorité requises par l'article 450-3, paragraphe 2, de la loi modifiée du 10 août 1915 concernant les sociétés commerciales pour les sepcav et par l'article 33 de la présente loi pour les assep. Les informations sur les conditions du transfert sont mises à la disposition des affiliés et des bénéficiaires concernés et, s'il y a lieu, de leurs représentants, en temps utile par le fonds de pension qui transfère, avant la présentation de la demande visée au paragraphe (4) ;
+- d'une majorité des affiliés et d'une majorité des bénéficiaires concernés ou, s'il y a lieu, d'une majorité de leurs représentants, conformément aux conditions de présence et de majorité requises par l'article 450-3, paragraphe 2, de la loi modifiée du 10 août 1915 concernant les sociétés commerciales pour les sepcav et par l'article 33 de la présente loi pour les assep. Les informations sur les conditions du transfert sont mises à la disposition des affiliés et des bénéficiaires concernés et, s'il y a lieu, de leurs représentants, en temps utile par le fonds de pension qui transfère, avant la présentation de la demande visée au paragraphe (4) ;
 
-2. de l'entreprise d'affiliation, le cas échéant.
+- de l'entreprise d'affiliation, le cas échéant.
 
 (4)
 
@@ -2956,11 +2956,11 @@ Le transfert de tout ou partie des engagements, des provisions techniques et d'a
 
 Lorsque la CSSF, en sa qualité d'autorité compétente du fonds de pension qui transfère, se voit transmettre la demande visée à l'article 12, paragraphe (4) de la directive (UE) 2016/2341 par l'autorité compétente de l'État membre d'origine de l'IRP destinataire, elle vérifie uniquement si :
 
-1. dans le cas d'un transfert partiel des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, les intérêts à long terme des affiliés et des bénéficiaires de la partie restante du régime sont dûment protégés ;
+- dans le cas d'un transfert partiel des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, les intérêts à long terme des affiliés et des bénéficiaires de la partie restante du régime sont dûment protégés ;
 
-2. les droits individuels des affiliés et des bénéficiaires sont au moins identiques après le transfert ;
+- les droits individuels des affiliés et des bénéficiaires sont au moins identiques après le transfert ;
 
-3. les actifs correspondant au régime de retraite à transférer sont suffisants et appropriés pour couvrir les engagements et les provisions techniques, ainsi que les autres obligations et droits à transférer, conformément aux règles applicables au Luxembourg.
+- les actifs correspondant au régime de retraite à transférer sont suffisants et appropriés pour couvrir les engagements et les provisions techniques, ainsi que les autres obligations et droits à transférer, conformément aux règles applicables au Luxembourg.
 
 (6)
 
@@ -2993,9 +2993,9 @@ Les coûts d'un tel transfert ne sont pas supportés par les affiliés et les b�
 
 Le transfert est soumis à l'accord préalable :
 
-1. d'une majorité des affiliés et d'une majorité des bénéficiaires concernés ou, s'il y a lieu, d'une majorité de leurs représentants, conformément aux conditions de présence et de majorité requises par l'article 450-3, paragraphe 2 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales pour les sepcav et par l'article 33 de la présente loi pour les assep. Les informations sur les conditions du transfert sont mises à la disposition des affiliés et des bénéficiaires concernés et, s'il y a lieu, de leurs représentants, en temps utile par le fonds de pension, avant la présentation de la demande visée au paragraphe (4) ;
+- d'une majorité des affiliés et d'une majorité des bénéficiaires concernés ou, s'il y a lieu, d'une majorité de leurs représentants, conformément aux conditions de présence et de majorité requises par l'article 450-3, paragraphe 2 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales pour les sepcav et par l'article 33 de la présente loi pour les assep. Les informations sur les conditions du transfert sont mises à la disposition des affiliés et des bénéficiaires concernés et, s'il y a lieu, de leurs représentants, en temps utile par le fonds de pension, avant la présentation de la demande visée au paragraphe (4) ;
 
-2. de l'entreprise d'affiliation, le cas échéant.
+- de l'entreprise d'affiliation, le cas échéant.
 
 (4)
 
@@ -3005,43 +3005,43 @@ Le transfert de tout ou partie des engagements, des provisions techniques et d'a
 
 La demande d'autorisation du transfert visée au paragraphe (4) contient les informations suivantes ;
 
-1. l'accord écrit entre le fonds de pension et l'IRP destinataire, précisant les conditions du transfert ;
+- l'accord écrit entre le fonds de pension et l'IRP destinataire, précisant les conditions du transfert ;
 
-2. une description des principales caractéristiques du régime de retraite ;
+- une description des principales caractéristiques du régime de retraite ;
 
-3. une description des engagements ou des provisions techniques à transférer, et des autres obligations et droits, ainsi que des actifs correspondants, ou leurs équivalents en trésorerie ;
+- une description des engagements ou des provisions techniques à transférer, et des autres obligations et droits, ainsi que des actifs correspondants, ou leurs équivalents en trésorerie ;
 
-4. le nom et le lieu d'implantation au Luxembourg de l'administration principale de l'IRP destinataire et le nom et le lieu d'implantation de l'administration principale du fonds de pension ;
+- le nom et le lieu d'implantation au Luxembourg de l'administration principale de l'IRP destinataire et le nom et le lieu d'implantation de l'administration principale du fonds de pension ;
 
-5. le lieu d'implantation de l'administration principale de l'entreprise d'affiliation et son nom ;
+- le lieu d'implantation de l'administration principale de l'entreprise d'affiliation et son nom ;
 
-6. la preuve de l'accord préalable conformément au paragraphe (3) ;
+- la preuve de l'accord préalable conformément au paragraphe (3) ;
 
-7. le cas échéant, les noms des États membres dont le droit social et le droit du travail pertinents en matière de régimes de retraite professionnelle sont applicables au régime de retraite concerné.
+- le cas échéant, les noms des États membres dont le droit social et le droit du travail pertinents en matière de régimes de retraite professionnelle sont applicables au régime de retraite concerné.
 
 (6)
 
 Le CAA vérifie si :
 
-1. toutes les informations visées au paragraphe (5) ont été communiquées ;
+- toutes les informations visées au paragraphe (5) ont été communiquées ;
 
-2. les structures administratives, la situation financière de l'IRP destinataire et l'honorabilité et la compétence ou l'expérience professionnelle de ses dirigeants sont compatibles avec le transfert proposé ;
+- les structures administratives, la situation financière de l'IRP destinataire et l'honorabilité et la compétence ou l'expérience professionnelle de ses dirigeants sont compatibles avec le transfert proposé ;
 
-3. les intérêts à long terme des affiliés et des bénéficiaires de l'IRP destinataire et de la partie transférée du régime sont dûment protégés pendant et après le transfert ;
+- les intérêts à long terme des affiliés et des bénéficiaires de l'IRP destinataire et de la partie transférée du régime sont dûment protégés pendant et après le transfert ;
 
-4. les provisions techniques de l'IRP destinataire sont intégralement couvertes à la date du transfert, lorsque celui-ci donne lieu à une activité transfrontalière ;
+- les provisions techniques de l'IRP destinataire sont intégralement couvertes à la date du transfert, lorsque celui-ci donne lieu à une activité transfrontalière ;
 
-5. les actifs à transférer sont suffisants et appropriés pour couvrir les engagements et les provisions techniques, ainsi que les autres obligations et droits à transférer, conformément à la loi modifiée du 7 décembre 2015 sur le secteur des assurances et aux mesures prises pour son exécution.
+- les actifs à transférer sont suffisants et appropriés pour couvrir les engagements et les provisions techniques, ainsi que les autres obligations et droits à transférer, conformément à la loi modifiée du 7 décembre 2015 sur le secteur des assurances et aux mesures prises pour son exécution.
 
 (7)
 
 La CSSF vérifie si :
 
-1. dans le cas d'un transfert partiel des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, les intérêts à long terme des affiliés et des bénéficiaires de la partie restante du régime sont dûment protégés ;
+- dans le cas d'un transfert partiel des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, les intérêts à long terme des affiliés et des bénéficiaires de la partie restante du régime sont dûment protégés ;
 
-2. les droits individuels des affiliés et des bénéficiaires sont au moins identiques après le transfert ;
+- les droits individuels des affiliés et des bénéficiaires sont au moins identiques après le transfert ;
 
-3. les actifs correspondant au régime de retraite à transférer sont suffisants et appropriés pour couvrir les engagements et les provisions techniques, ainsi que les autres obligations et droits à transférer.
+- les actifs correspondant au régime de retraite à transférer sont suffisants et appropriés pour couvrir les engagements et les provisions techniques, ainsi que les autres obligations et droits à transférer.
 
 (8)
 
@@ -3084,9 +3084,9 @@ Les coûts d'un tel transfert ne sont pas supportés par les affiliés et les b�
 
 Le transfert est soumis à l'accord préalable :
 
-1. d'une majorité des affiliés et d'une majorité des bénéficiaires concernés ou, s'il y a lieu, d'une majorité de leurs représentants, conformément aux conditions de présence et de majorité requises par l'article 450-3, paragraphe 2 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales pour les sepcav et par l'article 33 de la présente loi pour les assep. Les informations sur les conditions du transfert sont mises à la disposition des affiliés et des bénéficiaires concernés et, s'il y a lieu, de leurs représentants, en temps utile par le fonds de pension qui transfère, avant la présentation de la demande visée au paragraphe (4) ;
+- d'une majorité des affiliés et d'une majorité des bénéficiaires concernés ou, s'il y a lieu, d'une majorité de leurs représentants, conformément aux conditions de présence et de majorité requises par l'article 450-3, paragraphe 2 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales pour les sepcav et par l'article 33 de la présente loi pour les assep. Les informations sur les conditions du transfert sont mises à la disposition des affiliés et des bénéficiaires concernés et, s'il y a lieu, de leurs représentants, en temps utile par le fonds de pension qui transfère, avant la présentation de la demande visée au paragraphe (4) ;
 
-2. de l'entreprise d'affiliation, le cas échéant.
+- de l'entreprise d'affiliation, le cas échéant.
 
 (4)
 
@@ -3096,31 +3096,31 @@ Le transfert de tout ou partie des engagements, des provisions techniques et d'a
 
 La demande d'autorisation du transfert visée au paragraphe (4) contient les informations suivantes :
 
-1. l'accord écrit entre le fonds de pension qui transfère et le fonds de pension destinataire, précisant les conditions du transfert ;
+- l'accord écrit entre le fonds de pension qui transfère et le fonds de pension destinataire, précisant les conditions du transfert ;
 
-2. une description des engagements ou des provisions techniques à transférer, et des autres obligations et droits, ainsi que des actifs correspondants, ou leurs équivalents en trésorerie ;
+- une description des engagements ou des provisions techniques à transférer, et des autres obligations et droits, ainsi que des actifs correspondants, ou leurs équivalents en trésorerie ;
 
-3. la preuve de l'accord préalable conformément au paragraphe (3) ;
+- la preuve de l'accord préalable conformément au paragraphe (3) ;
 
-4. le cas échéant, les noms des États membres dont le droit social et le droit du travail pertinents en matière de régimes de retraite professionnelle sont applicables au régime de retraite concerné.
+- le cas échéant, les noms des États membres dont le droit social et le droit du travail pertinents en matière de régimes de retraite professionnelle sont applicables au régime de retraite concerné.
 
 (6)
 
 La CSSF vérifie si :
 
-1. les structures administratives, la situation financière du fonds de pension destinataire et l'honorabilité et la compétence ou l'expérience professionnelle de ses dirigeants sont compatibles avec le transfert proposé ;
+- les structures administratives, la situation financière du fonds de pension destinataire et l'honorabilité et la compétence ou l'expérience professionnelle de ses dirigeants sont compatibles avec le transfert proposé ;
 
-2. les intérêts à long terme des affiliés et des bénéficiaires du fonds de pension destinataire et de la partie transférée du régime sont dûment protégés pendant et après le transfert ;
+- les intérêts à long terme des affiliés et des bénéficiaires du fonds de pension destinataire et de la partie transférée du régime sont dûment protégés pendant et après le transfert ;
 
-3. les provisions techniques du fonds de pension destinataire sont intégralement couvertes à la date du transfert, lorsque celui-ci donne lieu à une activité transfrontalière ;
+- les provisions techniques du fonds de pension destinataire sont intégralement couvertes à la date du transfert, lorsque celui-ci donne lieu à une activité transfrontalière ;
 
-4. les actifs à transférer sont suffisants et appropriés pour couvrir les engagements et les provisions techniques, ainsi que les autres obligations et droits à transférer, conformément à la présente loi et aux mesures prises pour son exécution ;
+- les actifs à transférer sont suffisants et appropriés pour couvrir les engagements et les provisions techniques, ainsi que les autres obligations et droits à transférer, conformément à la présente loi et aux mesures prises pour son exécution ;
 
-5. dans le cas d'un transfert partiel des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, les intérêts à long terme des affiliés et des bénéficiaires de la partie restante du régime sont dûment protégés ;
+- dans le cas d'un transfert partiel des engagements, des provisions techniques et d'autres obligations et droits d'un régime de retraite, ainsi que des actifs correspondants ou leurs équivalents en trésorerie, les intérêts à long terme des affiliés et des bénéficiaires de la partie restante du régime sont dûment protégés ;
 
-6. les droits individuels des affiliés et des bénéficiaires sont au moins identiques après le transfert ;
+- les droits individuels des affiliés et des bénéficiaires sont au moins identiques après le transfert ;
 
-7. les actifs correspondant au régime de retraite à transférer sont suffisants et appropriés pour couvrir les engagements et les provisions techniques, ainsi que les autres obligations et droits à transférer.
+- les actifs correspondant au régime de retraite à transférer sont suffisants et appropriés pour couvrir les engagements et les provisions techniques, ainsi que les autres obligations et droits à transférer.
 
 (8)
 
@@ -3156,15 +3156,15 @@ Les fonds de pension peuvent fournir leurs services à des entreprises d'affilia
 
 Sont punis d'une peine d'emprisonnement d'un mois à un an et d'une amende de cinq cents à vingt-cinq mille euros ou d'une de ces peines seulement :
 
-1. ceux qui ont procédé ou fait procéder à l'émission ou au rachat des actions d'une sepcav en violation d'une des dispositions de la présente loi ou en violation des statuts ou du règlement de pension ;
+- ceux qui ont procédé ou fait procéder à l'émission ou au rachat des actions d'une sepcav en violation d'une des dispositions de la présente loi ou en violation des statuts ou du règlement de pension ;
 
-2. ceux qui ont émis ou racheté des actions d'une sepcav à un prix différent de celui qui résulterait de l'application des critères prévus aux paragraphes (2) et (4) de l'article 10 ;
+- ceux qui ont émis ou racheté des actions d'une sepcav à un prix différent de celui qui résulterait de l'application des critères prévus aux paragraphes (2) et (4) de l'article 10 ;
 
-3. ceux qui ont accordé des droits de pension ou procédé ou fait procéder au paiement d'un capital ou d'une rente par une assep en violation d'une des dispositions de la présente loi ou en violation des statuts ou du règlement de pension ;
+- ceux qui ont accordé des droits de pension ou procédé ou fait procéder au paiement d'un capital ou d'une rente par une assep en violation d'une des dispositions de la présente loi ou en violation des statuts ou du règlement de pension ;
 
-4. ceux qui, comme dirigeants d'une sepcav ou du dépositaire, ont fait des prêts ou avances au moyen d'avoirs de la société sur des actions de celle-ci, ou qui ont fait, par un moyen quelconque, aux frais de la société, des versements en libération des actions ou admis comme faits des versements qui ne se sont pas effectués réellement ;
+- ceux qui, comme dirigeants d'une sepcav ou du dépositaire, ont fait des prêts ou avances au moyen d'avoirs de la société sur des actions de celle-ci, ou qui ont fait, par un moyen quelconque, aux frais de la société, des versements en libération des actions ou admis comme faits des versements qui ne se sont pas effectués réellement ;
 
-5. ceux qui, comme dirigeants d'une assep ou du dépositaire, ont fait des prêts ou avances au moyen d'avoirs de l'assep contre nantissement de créances contre l'assep ou admis comme faits des paiements de cotisations qui ne se sont pas effectués réellement.
+- ceux qui, comme dirigeants d'une assep ou du dépositaire, ont fait des prêts ou avances au moyen d'avoirs de l'assep contre nantissement de créances contre l'assep ou admis comme faits des paiements de cotisations qui ne se sont pas effectués réellement.
 
 <a id="art-101"></a>
 ## Art. 101.
@@ -3173,9 +3173,9 @@ Sont punis d'une peine d'emprisonnement d'un mois à un an et d'une amende de ci
 
 Sont punis d'un emprisonnement d'un mois à six mois et d'une amende de cinq cents à vingt-cinq mille euros ou d'une de ces deux peines seulement :
 
-1. les dirigeants d'un fonds de pension qui ont omis d'informer sans retard la CSSF que le fonds de pension projette sa mise en liquidation en conformité aux articles 14, 28 ou 94 ;
+- les dirigeants d'un fonds de pension qui ont omis d'informer sans retard la CSSF que le fonds de pension projette sa mise en liquidation en conformité aux articles 14, 28 ou 94 ;
 
-2. les dirigeants d'un fonds de pension ou du gestionnaire du passif ou du gestionnaire d'actif qui ont contrevenu aux dispositions du règlement de pension relatives à la politique de placement, aux règles d'évaluation de l'actif, au plan de financement et aux règles d'évaluation du passif.
+- les dirigeants d'un fonds de pension ou du gestionnaire du passif ou du gestionnaire d'actif qui ont contrevenu aux dispositions du règlement de pension relatives à la politique de placement, aux règles d'évaluation de l'actif, au plan de financement et aux règles d'évaluation du passif.
 
 (2)
 
@@ -3200,9 +3200,9 @@ Sont punis d'une peine d'emprisonnement d'un mois à un an et d'une amende de ci
 
 Le paragraphe 3, alinéa 1 de la loi modifiée du 16 octobre 1934 concernant l'impôt sur la fortune est complété par les numéros 9 et 10 qui sont libellés comme suit :
 
-1. les sociétés d'épargne-pension à capital variable (sepcav) constituées sous la forme d'une société coopérative organisée comme une société anonyme de droit luxembourgeois, sous réserve de l'impôt sur la fortune minimum déterminé conformément aux dispositions du § 8, alinéa 2 ;
+- les sociétés d'épargne-pension à capital variable (sepcav) constituées sous la forme d'une société coopérative organisée comme une société anonyme de droit luxembourgeois, sous réserve de l'impôt sur la fortune minimum déterminé conformément aux dispositions du § 8, alinéa 2 ;
 
-2. les associations d'épargne-pension (assep) constituées sous la forme juridique d'une association d'épargne-pension, sous réserve de l'impôt sur la fortune minimum déterminé conformément aux dispositions du § 8, alinéa 2.
+- les associations d'épargne-pension (assep) constituées sous la forme juridique d'une association d'épargne-pension, sous réserve de l'impôt sur la fortune minimum déterminé conformément aux dispositions du § 8, alinéa 2.
 
 (2)
 
@@ -3221,7 +3221,7 @@ Un règlement grand-ducal pourra déterminer les modalités et règles relatives
 
 Il est ajouté un numéro 7 à l'article 167, alinéa 1er de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu :
 
-1. les sommes correspondant à la dotation des réserves réglementaires opérées par les associations d'épargne-pension en vue de la constitution des actifs de couverture supplémentaires prévus à l'article 77 de la loi relative aux institutions de retraite professionnelle sous forme de sepcav et assep.
+- les sommes correspondant à la dotation des réserves réglementaires opérées par les associations d'épargne-pension en vue de la constitution des actifs de couverture supplémentaires prévus à l'article 77 de la loi relative aux institutions de retraite professionnelle sous forme de sepcav et assep.
 
 <a id="art-106"></a>
 ## Art. 106.

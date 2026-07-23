@@ -58,17 +58,17 @@ Les agents des différents services et administrations publics, et, s’il y a l
 
 La Maison de l’orientation a comme mission :
 
-1. de faire fonction de guichet unique pour les citoyens cherchant information et conseil par rapport à l’orientation scolaire et professionnelle ainsi que pour les institutions, services et associations externes à la Maison de l’orientation qui agissent dans le domaine de l’orien­tation scolaire et professionnelle ;
+- de faire fonction de guichet unique pour les citoyens cherchant information et conseil par rapport à l’orientation scolaire et professionnelle ainsi que pour les institutions, services et associations externes à la Maison de l’orientation qui agissent dans le domaine de l’orien­tation scolaire et professionnelle ;
 
-2. d’assurer une démarche concertée et cohérente dans le domaine de l’orientation scolaire et professionnelle des parties prenantes de la Maison de l’orientation par rapport aux citoyens et aux insti­tutions, services et associations externes ;
+- d’assurer une démarche concertée et cohérente dans le domaine de l’orientation scolaire et professionnelle des parties prenantes de la Maison de l’orientation par rapport aux citoyens et aux insti­tutions, services et associations externes ;
 
-3. de développer des outils d’information communs, standardisés à partir des données fournies par les institutions et organismes procédant à des études et analyses du marché de l’emploi ;
+- de développer des outils d’information communs, standardisés à partir des données fournies par les institutions et organismes procédant à des études et analyses du marché de l’emploi ;
 
-4. de mettre en place un programme d’activités de sensibilisation et d’information sur les besoins et perspectives du monde socio-économique dans les établissements scolaires et en milieu extrascolaire ;
+- de mettre en place un programme d’activités de sensibilisation et d’information sur les besoins et perspectives du monde socio-économique dans les établissements scolaires et en milieu extrascolaire ;
 
-5. de proposer des modules de formation continue sur l’orientation scolaire et professionnelle aux personnes travaillant dans ce domaine ;
+- de proposer des modules de formation continue sur l’orientation scolaire et professionnelle aux personnes travaillant dans ce domaine ;
 
-6. de collaborer à l’élaboration du cadre de référence pour les établissements scolaires prévu à l’article 12, paragraphe 2 de la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques.
+- de collaborer à l’élaboration du cadre de référence pour les établissements scolaires prévu à l’article 12, paragraphe 2 de la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques.
 
 #### Chapitre 2 Le Service de coordination de la Maison de l’orientation
 
@@ -79,41 +79,41 @@ Il est créé un Service de coordination de la Maison de l’orientation, désig
 
 Le Service a pour missions :
 
-1. de coordonner la mise en œuvre des missions de la Maison de l’orientation en concertation avec les parties prenantes ;
+- de coordonner la mise en œuvre des missions de la Maison de l’orientation en concertation avec les parties prenantes ;
 
-2. de représenter la Maison de l’orientation ;
+- de représenter la Maison de l’orientation ;
 
-3. de coordonner le travail conceptuel pour l’orientation scolaire et professionnelle et de veiller à la cohérence de sa mise en œuvre en concertation avec les parties prenantes ;
+- de coordonner le travail conceptuel pour l’orientation scolaire et professionnelle et de veiller à la cohérence de sa mise en œuvre en concertation avec les parties prenantes ;
 
-4. d’assurer la cohérence des activités de sensibilisation et d’information de la Maison de l’orientation dans les lycées et en milieu extrascolaire ;
+- d’assurer la cohérence des activités de sensibilisation et d’information de la Maison de l’orientation dans les lycées et en milieu extrascolaire ;
 
-5. de compléter l’offre existante au niveau de l’orientation scolaire et professionnelle ;
+- de compléter l’offre existante au niveau de l’orientation scolaire et professionnelle ;
 
-6. de fournir un soutien conceptuel et logistique lors d’activités d’information et de sensibilisation organisées dans le domaine de l’orientation scolaire et professionnelle par des tiers ;
+- de fournir un soutien conceptuel et logistique lors d’activités d’information et de sensibilisation organisées dans le domaine de l’orientation scolaire et professionnelle par des tiers ;
 
-7. de soutenir les travaux du Forum orientation créé à l’article 9.
+- de soutenir les travaux du Forum orientation créé à l’article 9.
 
 Dans le cadre de ces missions, le Service assure les tâches suivantes :
 
-1. il assure le bon fonctionnement de la Maison de l’orientation ;
+- il assure le bon fonctionnement de la Maison de l’orientation ;
 
-2. il gère les locaux attribués à la Maison de l’orientation ;
+- il gère les locaux attribués à la Maison de l’orientation ;
 
-3. il organise l’accueil des visiteurs de la Maison de l’orientation ;
+- il organise l’accueil des visiteurs de la Maison de l’orientation ;
 
-4. il assure la concertation de la Maison de l’orientation avec les organes publics ou privés agissant dans le domaine de l’orientation scolaire et professionnelle et qui ne participent pas à la Maison de l’orientation ;
+- il assure la concertation de la Maison de l’orientation avec les organes publics ou privés agissant dans le domaine de l’orientation scolaire et professionnelle et qui ne participent pas à la Maison de l’orientation ;
 
-5. il coordonne la participation aux activités des réseaux européens et internationaux portant sur l’orientation scolaire et professionnelle ;
+- il coordonne la participation aux activités des réseaux européens et internationaux portant sur l’orientation scolaire et professionnelle ;
 
-6. il assure la communication de la Maison de l’orientation ;
+- il assure la communication de la Maison de l’orientation ;
 
-7. il coordonne les travaux de conception, de rédaction et de publication de la Maison de l’orientation ;
+- il coordonne les travaux de conception, de rédaction et de publication de la Maison de l’orientation ;
 
-8. il coordonne les actions de sensibilisation et d’information de la Maison de l’orientation ;
+- il coordonne les actions de sensibilisation et d’information de la Maison de l’orientation ;
 
-9. il coordonne le portail internet sur les professions et les formations ;
+- il coordonne le portail internet sur les professions et les formations ;
 
-10. il coordonne l’élaboration du cadre de référence pour les établissements de l’enseignement secondaire, de l’enseignement secondaire technique et de la formation professionnelle.
+- il coordonne l’élaboration du cadre de référence pour les établissements de l’enseignement secondaire, de l’enseignement secondaire technique et de la formation professionnelle.
 
 Le Service peut être chargé par le ministre d’autres tâches dans le domaine de l’orientation scolaire et professionnelle.
 
@@ -150,50 +150,50 @@ Les agents de la Maison de l’orientation suivent des modules de formation d’
 
 Il est créé un Forum orientation, qui a pour missions :
 
-1. d’être une plateforme d’échanges, de concertation et de coordination pour les acteurs de l’orientation scolaire et professionnelle ;
+- d’être une plateforme d’échanges, de concertation et de coordination pour les acteurs de l’orientation scolaire et professionnelle ;
 
-2. de collaborer à la mise en place d’une stratégie nationale de l’information et de l’orientation scolaire et professionnelle et de suivre sa mise en œuvre ;
+- de collaborer à la mise en place d’une stratégie nationale de l’information et de l’orientation scolaire et professionnelle et de suivre sa mise en œuvre ;
 
-3. d’identifier des lacunes éventuelles au niveau de l’offre d’orientation scolaire et professionnelle ;
+- d’identifier des lacunes éventuelles au niveau de l’offre d’orientation scolaire et professionnelle ;
 
-4. de conseiller le Gouvernement sur les initiatives à prendre pour mettre en œuvre l’orientation scolaire et professionnelle.
+- de conseiller le Gouvernement sur les initiatives à prendre pour mettre en œuvre l’orientation scolaire et professionnelle.
 
 <a id="art-10"></a>
 ## Art. 10.
 
 Le Forum orientation se compose :
 
-1. d’un représentant du ministre ayant l’Education nationale dans ses attributions ;
+- d’un représentant du ministre ayant l’Education nationale dans ses attributions ;
 
-2. d’un représentant du ministre ayant la Formation professionnelle dans ses attributions ;
+- d’un représentant du ministre ayant la Formation professionnelle dans ses attributions ;
 
-3. d’un représentant du ministre ayant l’Enseignement supérieur dans ses attributions ;
+- d’un représentant du ministre ayant l’Enseignement supérieur dans ses attributions ;
 
-4. d’un représentant du ministre ayant la Jeunesse dans ses attributions ;
+- d’un représentant du ministre ayant la Jeunesse dans ses attributions ;
 
-5. de deux représentants du ministre ayant l’Emploi dans ses attributions ;
+- de deux représentants du ministre ayant l’Emploi dans ses attributions ;
 
-6. d’un représentant du ministre ayant l’Economie dans ses attributions ;
+- d’un représentant du ministre ayant l’Economie dans ses attributions ;
 
-7. d’un représentant du ministre ayant l’Egalité des chances dans ses attributions ;
+- d’un représentant du ministre ayant l’Egalité des chances dans ses attributions ;
 
-8. d’un représentant du ministre ayant la Famille dans ses attributions ;
+- d’un représentant du ministre ayant la Famille dans ses attributions ;
 
-9. d’un représentant du Collège des directeurs de l’ enseignement secondaire classique ;
+- d’un représentant du Collège des directeurs de l’ enseignement secondaire classique ;
 
-10. d’un représentant du Collège des directeurs de l’ enseignement secondaire général ;
+- d’un représentant du Collège des directeurs de l’ enseignement secondaire général ;
 
-11. d’un représentant du Collège des inspecteurs de l’enseignement fondamental ;
+- d’un représentant du Collège des inspecteurs de l’enseignement fondamental ;
 
-12. d’un représentant de chacune des Chambres professionnelles ;
+- d’un représentant de chacune des Chambres professionnelles ;
 
-13. d’un représentant désigné par la représentation nationale des parents ;
+- d’un représentant désigné par la représentation nationale des parents ;
 
-14. d’un représentant de la Conférence nationale des élèves ;
+- d’un représentant de la Conférence nationale des élèves ;
 
-15. d’un représentant de l’association des étudiants la plus représentative sur le plan national ;
+- d’un représentant de l’association des étudiants la plus représentative sur le plan national ;
 
-16. du directeur du Service.
+- du directeur du Service.
 
 Le Forum orientation est présidé par le directeur du Service. Les membres sont nommés, sur proposition des personnes ou instances représentées, par le ministre ayant l’Education nationale dans ses attributions pour un mandat renouvelable de trois ans. Pour chaque représentant il est désigné un suppléant.
 
@@ -206,20 +206,78 @@ Le président convoque le Forum orientation en indiquant l’ordre du jour. Le F
 
 La loi modifiée du 13 juillet 2006 portant réorganisation du Centre de psychologie et d’orientation scolaires est modifiée comme suit :
 
-1. L’intitulé de la loi est remplacé par l’intitulé suivant : loi du 13 juillet 2006 portant organisation du Centre psycho-social et d’accompagnement scolaires .
+- L’intitulé de la loi est remplacé par l’intitulé suivant : loi du 13 juillet 2006 portant organisation du Centre psycho-social et d’accompagnement scolaires .
 
-2. L’article 1 er est remplacé comme suit : Art. 1er . Le Centre psycho-social et d’accompagnement scolaires, désigné ci-après par « le Centre », relève de l’autorité du ministre ayant l’Education nationale dans ses attributions, désigné ci-après par « le ministre ». Le Centre a pour mission d’être le centre de ressources psycho-sociales pour les lycées, de com­pléter l’offre d’accompagnement psycho-social des lycées et de faire office de médiateur scolaire. Dans le cadre de cette mission, le Centre assure les tâches suivantes : il élabore un cadre de référence pour l’offre d’accompagnement psycho-social des élèves par les lycées à valider par le ministre ; il organise des réunions de concertation avec les services chargés au sein des lycées de l’accompagnement psycho-social des élèves afin de permettre un échange des bonnes pratiques et rédige un rapport annuel d’évaluation de l’offre d’accompagnement psycho-social des élèves par les établissements scolaires ; il réunit un savoir et savoir-faire dans des matières relevant de la prise en charge des troubles psychologiques et d’apprentissage des élèves et développe des stratégies de prévention et de prise en charge de ces troubles en assurant la diffusion de celles-ci à travers des formations, des publications et des conférences ; il met à disposition des services chargés de l’accompagnement psycho-social des élèves un centre de docu­mentation et des outils spécialisés ; à la demande des services chargés de l’accompagnement psycho-social des élèves, il prend en charge des élèves qui nécessitent un accompagnement et un soutien psycho-social spécialisés ; il contribue à l’offre de formation continue organisée par l’Institut de formation de l’Education nationale ; il contribue à l’élaboration de recommandations et à la réalisation des actions d’information et d’orientation scolaires et professionnelles ; à la demande des directeurs des lycées, il les assiste lors du recrutement des personnels des carrières éducatives et psycho-sociales ; il assure une assistance en cas de crise aiguë à la demande des directeurs ; il évalue individuellement les demandes de subvention lui adressées en application de l’article 2 de la présente loi ; il complète l’offre d’accompagnement psycho-social des élèves ou étudiants pour lesquels un tel service n’est pas assuré. Il complète l’offre de conseil aux parents d’élèves au sujet de problèmes psycho-sociaux concernant leurs enfants ; il offre un conseil professionnel et psychologique aux membres du personnel des écoles fonda­mentales et des lycées qui en font la demande au directeur du Centre ; dans sa fonction de médiateur scolaire il reçoit les réclamations des élèves, des parents d’élèves ou des enseignants, formulées à l’occasion d’une affaire qui les concerne. La saisine du Centre doit avoir été précédée de démarches auprès de l’inspecteur de l’enseignement fondamental, de la commission scolaire, du régent de classe et du directeur du lycée. Lorsque les réclamations lui paraissent fondées, le Centre émet des recommandations aux concernés qui l’informent des suites qu’ils leur ont données.
+- L’article 1 er est remplacé comme suit : Art. 1er . Le Centre psycho-social et d’accompagnement scolaires, désigné ci-après par « le Centre », relève de l’autorité du ministre ayant l’Education nationale dans ses attributions, désigné ci-après par « le ministre ». Le Centre a pour mission d’être le centre de ressources psycho-sociales pour les lycées, de com­pléter l’offre d’accompagnement psycho-social des lycées et de faire office de médiateur scolaire. Dans le cadre de cette mission, le Centre assure les tâches suivantes : il élabore un cadre de référence pour l’offre d’accompagnement psycho-social des élèves par les lycées à valider par le ministre ; il organise des réunions de concertation avec les services chargés au sein des lycées de l’accompagnement psycho-social des élèves afin de permettre un échange des bonnes pratiques et rédige un rapport annuel d’évaluation de l’offre d’accompagnement psycho-social des élèves par les établissements scolaires ; il réunit un savoir et savoir-faire dans des matières relevant de la prise en charge des troubles psychologiques et d’apprentissage des élèves et développe des stratégies de prévention et de prise en charge de ces troubles en assurant la diffusion de celles-ci à travers des formations, des publications et des conférences ; il met à disposition des services chargés de l’accompagnement psycho-social des élèves un centre de docu­mentation et des outils spécialisés ; à la demande des services chargés de l’accompagnement psycho-social des élèves, il prend en charge des élèves qui nécessitent un accompagnement et un soutien psycho-social spécialisés ; il contribue à l’offre de formation continue organisée par l’Institut de formation de l’Education nationale ; il contribue à l’élaboration de recommandations et à la réalisation des actions d’information et d’orientation scolaires et professionnelles ; à la demande des directeurs des lycées, il les assiste lors du recrutement des personnels des carrières éducatives et psycho-sociales ; il assure une assistance en cas de crise aiguë à la demande des directeurs ; il évalue individuellement les demandes de subvention lui adressées en application de l’article 2 de la présente loi ; il complète l’offre d’accompagnement psycho-social des élèves ou étudiants pour lesquels un tel service n’est pas assuré. Il complète l’offre de conseil aux parents d’élèves au sujet de problèmes psycho-sociaux concernant leurs enfants ; il offre un conseil professionnel et psychologique aux membres du personnel des écoles fonda­mentales et des lycées qui en font la demande au directeur du Centre ; dans sa fonction de médiateur scolaire il reçoit les réclamations des élèves, des parents d’élèves ou des enseignants, formulées à l’occasion d’une affaire qui les concerne. La saisine du Centre doit avoir été précédée de démarches auprès de l’inspecteur de l’enseignement fondamental, de la commission scolaire, du régent de classe et du directeur du lycée. Lorsque les réclamations lui paraissent fondées, le Centre émet des recommandations aux concernés qui l’informent des suites qu’ils leur ont données.
 
-3. L’article 2 est remplacé comme suit : Art. 2. (1) Une subvention est accordée par le ministre aux ménages à faible revenu qui ont un ou plusieurs enfants inscrits dans un établissement de l’enseignement secondaire ou secondaire technique public luxembourgeois, ainsi que les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois. La subvention pour ménages à faible revenu est destinée à l’acquisition de matériel scolaire et à la participation aux frais d’activités périscolaires et parascolaires. La subvention pour ménages à faible revenu est calculée en fonction de la composition du ménage, du nombre d’enfants à charge et du revenu mensuel net disponible. La composition du ménage à prendre en considération pour la détermination de l’aide est celle existant à la date de la demande de subvention. Le revenu mensuel net disponible à prendre en considération pour le calcul de la subvention est la moyenne arithmétique du revenu net disponible des trois derniers mois qui précèdent la date de la demande, le mois d’août n’étant pas considéré. Pour les indépendants, le revenu est calculé sur base du certificat le plus récent du bureau d’imposition. Le montant maximum de la subvention est limité à 1.500 euros par année scolaire et par élève. Le montant peut être versé en deux tranches. La demande de subvention est à introduire auprès du service psycho-social et d’accompagnement scolaires du lycée dans lequel est inscrit l’élève ou à défaut auprès du Centre. (2) Une subvention de maintien scolaire est accordée par le ministre aux élèves ayant atteint la majorité : inscrits à plein temps ou en formation concomitante dans un établissement de l’enseignement secondaire ou secondaire technique public luxembourgeois, ainsi que les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois ; âgés de moins de 30 ans à la date de la demande ; vivant seuls ; en situation de détresse psycho-sociale ; suivis par un service psycho-social et d’accompagnement scolaires ou le Centre ; et ayant un loyer à payer. La subvention de maintien scolaire a comme objectif de permettre à l’élève de poursuivre la scolarité jusqu’à l’obtention d’un diplôme de fin d’études secondaires, d’un diplôme de fin d’études secondaires techniques, d’un diplôme de technicien, d’un diplôme d’aptitude professionnelle ou d’un certificat de capacité professionnelle. La situation de détresse psycho-sociale est constatée par le service psycho-social et d’accompagnement scolaires du lycée dans lequel est inscrit l’élève ou par le Centre. L’appréciation est individuelle et discrétionnaire basée sur une enquête sociale. La subvention de maintien scolaire est calculée en fonction des frais de vie, frais de loyer, des charges locatives et des revenus de l’élève. Les revenus à prendre en considération sont : allocations familiales, pension alimentaire, rente d’orphelin, indemnités d’apprentissage, salaires autres qu’un salaire étudiant payé dans le cadre d’un emploi étudiant, tout revenu de remplacement ou indemnité non-occasionnelle, allocation de chômage, revenu minimum garanti et allocation de loyer, intérêts et produits en capitaux, subvention de loyer et l’aide ou l’indemnité à la formation payée par le Service de la formation professionnelle. Le montant maximum de la subvention est limité à 1.500 euros par mois. La subvention de maintien scolaire n’est pas cumulable avec la subvention pour ménages à faible revenu décrite au paragraphe 1er du présent article. (3) Un règlement grand-ducal fixe les modalités d’octroi et de calcul de la subvention pour ménages à faible revenu et de la subvention de maintien scolaire décrites aux paragraphes 1er et 2 du présent article. (4) Le Centre est chargé de la gestion des dossiers.
+- L’article 2 est remplacé comme suit : Art. 2. (1) Une subvention est accordée par le ministre aux ménages à faible revenu qui ont un ou plusieurs enfants inscrits dans un établissement de l’enseignement secondaire ou secondaire technique public luxembourgeois, ainsi que les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois. La subvention pour ménages à faible revenu est destinée à l’acquisition de matériel scolaire et à la participation aux frais d’activités périscolaires et parascolaires. La subvention pour ménages à faible revenu est calculée en fonction de la composition du ménage, du nombre d’enfants à charge et du revenu mensuel net disponible. La composition du ménage à prendre en considération pour la détermination de l’aide est celle existant à la date de la demande de subvention. Le revenu mensuel net disponible à prendre en considération pour le calcul de la subvention est la moyenne arithmétique du revenu net disponible des trois derniers mois qui précèdent la date de la demande, le mois d’août n’étant pas considéré. Pour les indépendants, le revenu est calculé sur base du certificat le plus récent du bureau d’imposition. Le montant maximum de la subvention est limité à 1.500 euros par année scolaire et par élève. Le montant peut être versé en deux tranches. La demande de subvention est à introduire auprès du service psycho-social et d’accompagnement scolaires du lycée dans lequel est inscrit l’élève ou à défaut auprès du Centre. (2) Une subvention de maintien scolaire est accordée par le ministre aux élèves ayant atteint la majorité : inscrits à plein temps ou en formation concomitante dans un établissement de l’enseignement secondaire ou secondaire technique public luxembourgeois, ainsi que les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois ; âgés de moins de 30 ans à la date de la demande ; vivant seuls ; en situation de détresse psycho-sociale ; suivis par un service psycho-social et d’accompagnement scolaires ou le Centre ; et ayant un loyer à payer. La subvention de maintien scolaire a comme objectif de permettre à l’élève de poursuivre la scolarité jusqu’à l’obtention d’un diplôme de fin d’études secondaires, d’un diplôme de fin d’études secondaires techniques, d’un diplôme de technicien, d’un diplôme d’aptitude professionnelle ou d’un certificat de capacité professionnelle. La situation de détresse psycho-sociale est constatée par le service psycho-social et d’accompagnement scolaires du lycée dans lequel est inscrit l’élève ou par le Centre. L’appréciation est individuelle et discrétionnaire basée sur une enquête sociale. La subvention de maintien scolaire est calculée en fonction des frais de vie, frais de loyer, des charges locatives et des revenus de l’élève. Les revenus à prendre en considération sont : allocations familiales, pension alimentaire, rente d’orphelin, indemnités d’apprentissage, salaires autres qu’un salaire étudiant payé dans le cadre d’un emploi étudiant, tout revenu de remplacement ou indemnité non-occasionnelle, allocation de chômage, revenu minimum garanti et allocation de loyer, intérêts et produits en capitaux, subvention de loyer et l’aide ou l’indemnité à la formation payée par le Service de la formation professionnelle. Le montant maximum de la subvention est limité à 1.500 euros par mois. La subvention de maintien scolaire n’est pas cumulable avec la subvention pour ménages à faible revenu décrite au paragraphe 1er du présent article. (3) Un règlement grand-ducal fixe les modalités d’octroi et de calcul de la subvention pour ménages à faible revenu et de la subvention de maintien scolaire décrites aux paragraphes 1er et 2 du présent article. (4) Le Centre est chargé de la gestion des dossiers.
 
-1. L’article 3 est abrogé.
+  - L’article 3 est abrogé.
 
 <a id="art-12"></a>
 ## Art. 12.
 
 La loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques est modifiée comme suit :
 
-1. L’article 12 est remplacé comme suit : Art. 12. L’orientation des élèves (1) Les établissements d’enseignement secondaire et secondaire technique, y compris les éta­blissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois, désignés ci-après par « les lycées », prennent en charge des élèves au niveau de l’orientation scolaire et professionnelle. La démarche d’orientation mise en œuvre par les lycées et adaptée aux besoins spécifiques de sa population scolaire vise : à informer sur le système scolaire et les voies de formation, y inclues les possibilités d’études supé­rieures tant au Luxembourg qu’à l’étranger ; à faire connaître le monde socio-économique, en particulier le marché de l’emploi ; à développer les compétences permettant de prendre les décisions sur les voies de formation à choisir et d’élaborer un projet d’études personnel. Le directeur de lycée met en place, au sein de son lycée, une cellule d’orientation qui est composée d’au moins deux membres du personnel enseignant, d’au moins deux membres du personnel éducatif ou psycho-social et d’au moins un enseignant du régime préparatoire au cas où celui-ci est offert par le lycée. La cellule d’orientation peut être complétée par le directeur du lycée jusqu’à un nombre maximal de 10 personnes parmi le personnel énuméré ci-dessus ainsi que les membres de la direction. La cellule d’orientation est chargée de la mise en œuvre de la démarche d’orientation scolaire et professionnelle selon le cadre de référence. Les membres de la cellule d’orientation suivent des modules de formation continue d’au moins 8 heures par an, organisés par les participants à la Maison de l’orientation en collaboration avec l’Institut de formation de l’Education nationale et le Service. Le directeur du lycée désigne parmi les membres de la cellule un correspondant de la Maison de l’orientation dont la tâche est de coordonner la cellule d’orientation et d’être la personne de contact pour la Maison de l’orientation dans le lycée. Les correspondants au sein des lycées participent à au moins une réunion de concertation par an avec le Service, convoquée par ce dernier. (2) La démarche d’orientation doit être conforme à un cadre de référence fixant des standards minima à respecter par les lycées au niveau de la démarche d’orientation scolaire et professionnelle. Ce cadre de référence décrit : les objectifs à atteindre par l’orientation scolaire et professionnelle ; les mesures à prendre pour atteindre ces objectifs ; les services spécialisés ou intervenants externes sollicités pour informer sur le monde socio-économique ; l’implication des membres de la communauté scolaire dans la démarche d’orientation. Le cadre de référence pour l’orientation scolaire et professionnelle est élaboré par le Service de coordination de la Maison de l’orientation en collaboration avec les parties prenantes de la Maison de l’orientation et le Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques et est arrêté par le ministre. A l’article 13, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires. A l’article 20, alinéa 2, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux deservice psycho-social et d’accompagnement scolaires A l’article 21, alinéa 3, les motsservice de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires Dans l’intitulé de l’article 28, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux deservice psycho-social et d’accompagnement scolaires Les alinéas 1er et 2 de l’article 28 sont remplacés par les alinéas suivants : Il est créé dans chaque lycée un service psycho-social et d’accompagnement scolaires placé sous l’autorité du directeur du lycée. Le cadre de référence, élaboré par le Centre psycho-social et d’accompagnement scolaires et arrêté par le ministre, décrit les orientations d’action générales et les programmes d’activités des services. La mise en œuvre des programmes est évaluée par le Centre psycho-social et d’accompagnement scolaires. Aux alinéas 3 et 5 de l’article 28, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires A l’alinéa 4 de l’article 28, le 9e tiret est supprimé.
+1. L’article 12 est remplacé comme suit :
+
+Art. 12.
+
+L’orientation des élèves
+
+(1)
+
+Les établissements d’enseignement secondaire et secondaire technique, y compris les éta­blissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois, désignés ci-après par « les lycées », prennent en charge des élèves au niveau de l’orientation scolaire et professionnelle.
+
+La démarche d’orientation mise en œuvre par les lycées et adaptée aux besoins spécifiques de sa population scolaire vise :
+
+- à informer sur le système scolaire et les voies de formation, y inclues les possibilités d’études supé­rieures tant au Luxembourg qu’à l’étranger ;
+
+- à faire connaître le monde socio-économique, en particulier le marché de l’emploi ;
+
+- à développer les compétences permettant de prendre les décisions sur les voies de formation à choisir et d’élaborer un projet d’études personnel.
+
+Le directeur de lycée met en place, au sein de son lycée, une cellule d’orientation qui est composée d’au moins deux membres du personnel enseignant, d’au moins deux membres du personnel éducatif ou psycho-social et d’au moins un enseignant du régime préparatoire au cas où celui-ci est offert par le lycée.
+
+La cellule d’orientation peut être complétée par le directeur du lycée jusqu’à un nombre maximal de 10 personnes parmi le personnel énuméré ci-dessus ainsi que les membres de la direction.
+
+La cellule d’orientation est chargée de la mise en œuvre de la démarche d’orientation scolaire et professionnelle selon le cadre de référence.
+
+Les membres de la cellule d’orientation suivent des modules de formation continue d’au moins 8 heures par an, organisés par les participants à la Maison de l’orientation en collaboration avec l’Institut de formation de l’Education nationale et le Service.
+
+Le directeur du lycée désigne parmi les membres de la cellule un correspondant de la Maison de l’orientation dont la tâche est de coordonner la cellule d’orientation et d’être la personne de contact pour la Maison de l’orientation dans le lycée.
+
+Les correspondants au sein des lycées participent à au moins une réunion de concertation par an avec le Service, convoquée par ce dernier.
+
+(2)
+
+La démarche d’orientation doit être conforme à un cadre de référence fixant des standards minima à respecter par les lycées au niveau de la démarche d’orientation scolaire et professionnelle.
+
+Ce cadre de référence décrit :
+
+- les objectifs à atteindre par l’orientation scolaire et professionnelle ;
+
+- les mesures à prendre pour atteindre ces objectifs ;
+
+- les services spécialisés ou intervenants externes sollicités pour informer sur le monde socio-économique ;
+
+- l’implication des membres de la communauté scolaire dans la démarche d’orientation.
+
+Le cadre de référence pour l’orientation scolaire et professionnelle est élaboré par le Service de coordination de la Maison de l’orientation en collaboration avec les parties prenantes de la Maison de l’orientation et le Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques et est arrêté par le ministre.
+
+- A l’article 13, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires.
+
+- A l’article 20, alinéa 2, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires
+
+- A l’article 21, alinéa 3, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires
+
+- Dans l’intitulé de l’article 28, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires
+
+- Les alinéas 1 er et 2 de l’article 28 sont remplacés par les alinéas suivants : Il est créé dans chaque lycée un service psycho-social et d’accompagnement scolaires placé sous l’autorité du directeur du lycée. Le cadre de référence, élaboré par le Centre psycho-social et d’accompagnement scolaires et arrêté par le ministre, décrit les orientations d’action générales et les programmes d’activités des services. La mise en œuvre des programmes est évaluée par le Centre psycho-social et d’accompagnement scolaires.
+
+- Aux alinéas 3 et 5 de l’article 28, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires
+
+- A l’alinéa 4 de l’article 28, le 9 e tiret est supprimé.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -241,9 +299,9 @@ A l’article 4, point 2, de la loi modifiée du 2 décembre 1987 portant régle
 
 La loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation professionnelle continue est modifiée comme suit :
 
-1. A l’article 6, paragraphe 5, les termes service de psychologie et d’orientation scolaires (SPOS) sont remplacés par ceux de service psycho-social et d’accompagnement scolaires
+- A l’article 6, paragraphe 5, les termes service de psychologie et d’orientation scolaires (SPOS) sont remplacés par ceux de service psycho-social et d’accompagnement scolaires
 
-2. A l’article 38, alinéa 2, les mots Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires .
+- A l’article 38, alinéa 2, les mots Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires .
 
 <a id="art-17"></a>
 ## Art. 17.
@@ -260,20 +318,20 @@ A l’article 5, alinéa 1er, de la loi modifiée du 19 décembre 2008 portant r
 
 La loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental est modifiée comme suit :
 
-1. A l’article 26, paragraphe 4, alinéa 4, point 5, les termes Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires
+- A l’article 26, paragraphe 4, alinéa 4, point 5, les termes Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires
 
-2. A l’article 26, paragraphe 4, alinéa 6, les termes Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires
+- A l’article 26, paragraphe 4, alinéa 6, les termes Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires
 
-3. A l’article 32, les termes Service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires .
+- A l’article 32, les termes Service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires .
 
 <a id="art-20"></a>
 ## Art. 20.
 
 La loi modifiée du 15 juillet 2011 visant l’accès aux qualifications scolaires et professionnelles des élèves à besoins éducatifs particuliers est modifiée comme suit :
 
-1. A l’article 7, alinéa 1 er , les mots Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires et les mots Service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires ;
+- A l’article 7, alinéa 1 er , les mots Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires et les mots Service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires ;
 
-2. Aux articles 8, 9 et 10, les mots Service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires .
+- Aux articles 8, 9 et 10, les mots Service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires .
 
 <a id="art-21"></a>
 ## Art. 21.

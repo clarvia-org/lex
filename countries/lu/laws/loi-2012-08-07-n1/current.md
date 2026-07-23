@@ -78,9 +78,9 @@ Dans le cadre de ses attributions, l'établissement développe des activités de
 
 L’établissement gère le centre de diagnostic dans les domaines :
 
-1. de la génétique humaine, constitutionnelle et somatique, y compris l’interprétation de ces examens et le conseil génétique ;
+- de la génétique humaine, constitutionnelle et somatique, y compris l’interprétation de ces examens et le conseil génétique ;
 
-2. de l’anatomie pathologique assurant au niveau national les examens cytologiques et histologiques visés à l’article 6 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière.
+- de l’anatomie pathologique assurant au niveau national les examens cytologiques et histologiques visés à l’article 6 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière.
 
 <a id="art-2-1"></a>
 ## Art. 2-1.
@@ -410,13 +410,13 @@ Le personnel salarié est lié à l'établissement par un contrat de travail ré
 
 Les membres du personnel engagés comme fonctionnaires, employés ou ouvriers de l'Etat avant l'entrée en vigueur de la présente loi et actuellement en service auprès du Laboratoire national de santé sont repris par l'établissement suivant les modalités ci-après:
 
-1. Les membres du personnel engagés comme fonctionnaires, fonctionnaires stagiaires, employés de l'Etat ou ouvriers de l'Etat, en service au Laboratoire national de santé à la date d'entrée en vigueur de la présente loi, peuvent opter entre leur statut actuel et le nouveau régime établi par la présente loi. A cette fin, ils disposent d'un délai de trois mois après l'entrée en vigueur de la présente loi pour exprimer leur option par lettre recommandée au directeur de l'établissement. Les membres du personnel qui ne se sont pas valablement exprimés avant l'expiration de ce délai sont censés avoir opté pour le statut dont ils disposaient avant l'entrée en vigueur de la présente loi.
+- Les membres du personnel engagés comme fonctionnaires, fonctionnaires stagiaires, employés de l'Etat ou ouvriers de l'Etat, en service au Laboratoire national de santé à la date d'entrée en vigueur de la présente loi, peuvent opter entre leur statut actuel et le nouveau régime établi par la présente loi. A cette fin, ils disposent d'un délai de trois mois après l'entrée en vigueur de la présente loi pour exprimer leur option par lettre recommandée au directeur de l'établissement. Les membres du personnel qui ne se sont pas valablement exprimés avant l'expiration de ce délai sont censés avoir opté pour le statut dont ils disposaient avant l'entrée en vigueur de la présente loi.
 
-2. Pour les membres du personnel engagés comme fonctionnaires, employés ou ouvriers de l'Etat avant l'entrée en vigueur de la présente loi et actuellement en service auprès du Laboratoire national de santé qui n'ont pas opté pour le nouveau régime établi par la présente loi, les lois ou règlements régissant leur statut restent applicables. Les fonctionnaires obtiennent une nomination auprès de l'établissement au niveau des fonctions qu'ils occupent au moment de l'entrée en vigueur de la présente loi, en conservant leur ancienneté de service et d'échelon acquis. Les fonctionnaires stagiaires obtiennent une admission au stage dans leur carrière respective. Ils bénéficient d'une réduction de stage égale à la période de stage accomplie auprès de l'ancienne administration. Les carrières sont soumises, en ce qui concerne les différentes fonctions qu'elles comportent, le nombre d'emplois, les fonctions de promotion ainsi que les conditions et la forme des nominations à la législation et à la réglementation en vigueur et applicables au fonctionnaire de l'Etat. Le nombre des fonctions du cadre fermé et des grades de substitution est arrêté pour l'établissement au niveau du nombre des emplois occupés au moment de la mise en vigueur de la présente loi. Les modifications législatives, apportées ultérieurement aux carrières, sont applicables aux agents précités de l'établissement. Les membres du personnel engagés comme employés et ouvriers de l'Etat conservent leur statut actuel et les emplois et fonctions, fixés par leur contrat de travail originaire, qu'ils sont appelés à accomplir dans l'établissement. Les conditions particulières d'admission, de nomination et de promotion du personnel n'ayant pas opté pour le nouveau régime qui ne sont pas fixées par la présente loi sont déterminées par règlement grand-ducal.
+- Pour les membres du personnel engagés comme fonctionnaires, employés ou ouvriers de l'Etat avant l'entrée en vigueur de la présente loi et actuellement en service auprès du Laboratoire national de santé qui n'ont pas opté pour le nouveau régime établi par la présente loi, les lois ou règlements régissant leur statut restent applicables. Les fonctionnaires obtiennent une nomination auprès de l'établissement au niveau des fonctions qu'ils occupent au moment de l'entrée en vigueur de la présente loi, en conservant leur ancienneté de service et d'échelon acquis. Les fonctionnaires stagiaires obtiennent une admission au stage dans leur carrière respective. Ils bénéficient d'une réduction de stage égale à la période de stage accomplie auprès de l'ancienne administration. Les carrières sont soumises, en ce qui concerne les différentes fonctions qu'elles comportent, le nombre d'emplois, les fonctions de promotion ainsi que les conditions et la forme des nominations à la législation et à la réglementation en vigueur et applicables au fonctionnaire de l'Etat. Le nombre des fonctions du cadre fermé et des grades de substitution est arrêté pour l'établissement au niveau du nombre des emplois occupés au moment de la mise en vigueur de la présente loi. Les modifications législatives, apportées ultérieurement aux carrières, sont applicables aux agents précités de l'établissement. Les membres du personnel engagés comme employés et ouvriers de l'Etat conservent leur statut actuel et les emplois et fonctions, fixés par leur contrat de travail originaire, qu'ils sont appelés à accomplir dans l'établissement. Les conditions particulières d'admission, de nomination et de promotion du personnel n'ayant pas opté pour le nouveau régime qui ne sont pas fixées par la présente loi sont déterminées par règlement grand-ducal.
 
-3. Nonobstant les dispositions contenues dans la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat et concernant notamment la protection et la discipline, et celles contenues dans la loi modifiée du 27 janvier 1972 fixant le régime des employés de l'Etat et concernant notamment la résiliation du contrat, les décisions et interventions que les lois ou règlements régissant le statut de ce personnel attribuent au Gouvernement en conseil ou à un membre du Gouvernement sont prises respectivement soit par le ministre compétent, soit par le conseil d'administration.
+- Nonobstant les dispositions contenues dans la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat et concernant notamment la protection et la discipline, et celles contenues dans la loi modifiée du 27 janvier 1972 fixant le régime des employés de l'Etat et concernant notamment la résiliation du contrat, les décisions et interventions que les lois ou règlements régissant le statut de ce personnel attribuent au Gouvernement en conseil ou à un membre du Gouvernement sont prises respectivement soit par le ministre compétent, soit par le conseil d'administration.
 
-4. L'établissement rembourse au Trésor les traitements, indemnités, salaires et charges sociales patronales des agents publics qui ont été avancés par l'Etat.
+- L'établissement rembourse au Trésor les traitements, indemnités, salaires et charges sociales patronales des agents publics qui ont été avancés par l'Etat.
 
 <a id="art-18"></a>
 ## Art. 18.
@@ -425,27 +425,27 @@ Les membres du personnel engagés comme fonctionnaires, employés ou ouvriers de
 
 Les dispositions attribuant la qualité d'officier de police judiciaire à des fonctionnaires du Laboratoire national de santé sont abrogées. A cette fin, les dispositions légales ci-après sont ainsi modifiées:
 
-1. L'article 12 de la loi modifiée du 16 juillet 1984 relative aux laboratoires d'analyses médicales est remplacé par la disposition suivante: «Le contrôle général des laboratoires d'analyses de biologie médicale est assuré par les médecins, ingénieurs et les pharmaciens-inspecteurs de la Direction de la Santé. Ils peuvent se faire accompagner d'un expert à cette fin. Dans l'exécution de leur mission ils ont la qualité d'officier de police judiciaire.»
+- L'article 12 de la loi modifiée du 16 juillet 1984 relative aux laboratoires d'analyses médicales est remplacé par la disposition suivante: «Le contrôle général des laboratoires d'analyses de biologie médicale est assuré par les médecins, ingénieurs et les pharmaciens-inspecteurs de la Direction de la Santé. Ils peuvent se faire accompagner d'un expert à cette fin. Dans l'exécution de leur mission ils ont la qualité d'officier de police judiciaire.»
 
-2. A l'alinéa premier de l'article 29 de la loi modifiée du 15 juin 1994 relative à la classification, l'emballage et l'étiquetage des substances dangereuses, modifiant la loi du 11 mars 1981 portant réglementation de la mise sur le marché et de l'emploi de certaines substances et préparations dangereuses, les termes et du Laboratoire national de santé sont supprimés.
+- A l'alinéa premier de l'article 29 de la loi modifiée du 15 juin 1994 relative à la classification, l'emballage et l'étiquetage des substances dangereuses, modifiant la loi du 11 mars 1981 portant réglementation de la mise sur le marché et de l'emploi de certaines substances et préparations dangereuses, les termes et du Laboratoire national de santé sont supprimés.
 
-3. L'article 39 de la loi modifiée du 13 janvier 1997 relative au contrôle de l'utilisation et de la dissémination des organismes génétiquement modifiés est ainsi modifié:
+- L'article 39 de la loi modifiée du 13 janvier 1997 relative au contrôle de l'utilisation et de la dissémination des organismes génétiquement modifiés est ainsi modifié:
 
-1. à l'alinéa premier les termes et les médecins, pharmaciens et ingénieurs du Laboratoire national de santé sont supprimés;
+  - à l'alinéa premier les termes et les médecins, pharmaciens et ingénieurs du Laboratoire national de santé sont supprimés;
 
-2. à l'alinéa second les termes de la Direction de la Santé et du Laboratoire national de santé sont remplacés par les termes de la Direction de la Santé .
+  - à l'alinéa second les termes de la Direction de la Santé et du Laboratoire national de santé sont remplacés par les termes de la Direction de la Santé .
 
-4. L'article 13 de la loi modifiée du 24 décembre 2002 relative aux produits biocides est ainsi modifié:
+- L'article 13 de la loi modifiée du 24 décembre 2002 relative aux produits biocides est ainsi modifié:
 
-1. à l'alinéa premier les termes et les médecins, pharmaciens et ingénieurs du Laboratoire national de santé sont supprimés;
+  - à l'alinéa premier les termes et les médecins, pharmaciens et ingénieurs du Laboratoire national de santé sont supprimés;
 
-2. à l'alinéa second les termes de la Direction de la Santé et du Laboratoire national de santé sont remplacés par les termes de la Direction de la Santé .
+  - à l'alinéa second les termes de la Direction de la Santé et du Laboratoire national de santé sont remplacés par les termes de la Direction de la Santé .
 
-5. L'article 14 de la loi du 3 août 2005 relative à la classification, à l'emballage et à l'étiquetage des préparations dangereuses est ainsi modifié:
+- L'article 14 de la loi du 3 août 2005 relative à la classification, à l'emballage et à l'étiquetage des préparations dangereuses est ainsi modifié:
 
-1. à l'alinéa premier les termes et du Laboratoire national de santé sont supprimés;
+  - à l'alinéa premier les termes et du Laboratoire national de santé sont supprimés;
 
-2. à l'alinéa second les termes ainsi que du Laboratoire national de santé sont supprimés.
+  - à l'alinéa second les termes ainsi que du Laboratoire national de santé sont supprimés.
 
 (2)
 

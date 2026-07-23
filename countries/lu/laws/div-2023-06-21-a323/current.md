@@ -26,3 +26,5 @@ warning: 'Official consolidation: Version rectifiée applicable au 17/06/2024 : 
 ---
 
 # Version rectifiée applicable au 17/06/2024 : Acte final de la Conférence sur la Charte Européenne de l’Énergie et de ses Annexes, signés à Lisbonne, le 17 décembre 1994 - Dénonciation par le Grand-Duché de Luxembourg.
+
+Conformément à l’article 47 de l’accord désigné ci-dessus, le Luxembourg a dénoncé l’accord avec effet au 17 juin 2024.

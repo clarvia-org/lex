@@ -38,13 +38,13 @@ Toutefois, lorsqu’un chemin vicinal intéresse plusieurs communes, elles conco
 
 Les communes pourvoient aux dépenses relatives aux chemins vicinaux, au moyen d’une imposition répartie d’après les bases suivantes :
 
-1. D’une prestation d’une journée de travail à fournir par chaque habitant valide du sexe masculin, de l’âge de 18 à 60 ans accomplis ;
+- D’une prestation d’une journée de travail à fournir par chaque habitant valide du sexe masculin, de l’âge de 18 à 60 ans accomplis ;
 
-2. D’une prestation d’une journée de travail d’homme par chaque cheval de trait ou de selle, au service des habitants ou des établissements dans la commune ;
+- D’une prestation d’une journée de travail d’homme par chaque cheval de trait ou de selle, au service des habitants ou des établissements dans la commune ;
 
-3. D’une journée de travail d’homme par chaque bœuf employé aux attelages ;
+- D’une journée de travail d’homme par chaque bœuf employé aux attelages ;
 
-4. De dix centièmes en addition au principal des contributions directes payées dans la commune.
+- De dix centièmes en addition au principal des contributions directes payées dans la commune.
 
 Les prestations des trois premières bases seront converties et exigibles, comme celle de la quatrième, en argent.
 
@@ -177,9 +177,9 @@ Les dispositions des deux articles précédents ne sont pas applicables dans les
 
 Les fonds réalisés en vertu de la présente loi seront appliqués :
 
-1. A la construction, à la réparation et à l’entretien des chemins de première classe, et à l’entretien de tous les chemins actuellement construits ;
+- A la construction, à la réparation et à l’entretien des chemins de première classe, et à l’entretien de tous les chemins actuellement construits ;
 
-2. A la construction des chemins de la deuxième classe.
+- A la construction des chemins de la deuxième classe.
 
 Le Conseil de Gouvernement pourra, lorsque les circonstances l’exigeront impérieusement, permettre de déroger à cette règle.
 

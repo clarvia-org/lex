@@ -28,7 +28,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-La formation des juges et des arbitres dans l'intérêt des fédérations et sociétés sportives est assurée à l'Institut national de l’activité physique et des sports, ci-après « INAPS » en collaboration avec les fédérations intéressées.
+La formation des juges et des arbitres dans l'intérêt des fédérations et sociétés sportives est assurée à l' Institut national de l’activité physique et des sports, ci-après « INAPS » en collaboration avec les fédérations intéressées.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -47,17 +47,17 @@ La formation des juges et arbitres comprend un ou plusieurs cycles de cours thé
 
 Les programmes de formation sont déterminés en accord avec la fédération respective. Ils portent en principe sur les matières suivantes appliquées à la discipline sportive concernée
 
-1. cours théoriques et pratiques sur les règles régissant la discipline sportive en question;
+- cours théoriques et pratiques sur les règles régissant la discipline sportive en question;
 
-2. organisation administrative sur le plan fédéral;
+- organisation administrative sur le plan fédéral;
 
-3. historique général, évolution sur le plan national;
+- historique général, évolution sur le plan national;
 
-4. aspects psychologiques, sociologiques et pédagogiques de l'arbitrage;
+- aspects psychologiques, sociologiques et pédagogiques de l'arbitrage;
 
-5. sciences biologiques appliquées aux sports;
+- sciences biologiques appliquées aux sports;
 
-6. bases générales de la théorie de l'entraînement avec applications pratiques.
+- bases générales de la théorie de l'entraînement avec applications pratiques.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -80,7 +80,7 @@ Sur initiative de la fédération concernée, l'admission aux cours des différe
 <a id="art-7"></a>
 ## Art. 7.
 
-Les demandes d'admission pour chacun des cycles sont à adresser à l'INAPS . En cas de non-admission, l'intéressé en est informé avec indication des motifs du refus.
+Les demandes d'admission pour chacun des cycles sont à adresser à l' INAPS . En cas de non-admission, l'intéressé en est informé avec indication des motifs du refus.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -102,13 +102,13 @@ L'examen pour l'obtention des brevets sanctionnant la formation de chaque cycle 
 
 Le jury d'examen se compose:
 
-1. du commissaire du Gouvernement à l'éducation physique et aux sports
+- du commissaire du Gouvernement à l'éducation physique et aux sports
 
-2. du directeur de l' INAPS
+- du directeur de l' INAPS
 
-3. du président de la fédération
+- du président de la fédération
 
-4. de membres du corps chargé de l'enseignement dans la formation concernée.
+- de membres du corps chargé de l'enseignement dans la formation concernée.
 
 Les nominations des membres du jury d'examen ainsi que celles des chargés de cours sont faites par le ministre compétent sur proposition de la fédération concernée.
 

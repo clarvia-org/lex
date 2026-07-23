@@ -36,59 +36,59 @@ Le présent règlement concerne le transfert national de déchets, c'est-à-dire
 
 Au sens du présent règlement, on entend par:
 
-1. «mélange de déchets», un déchet qui résulte du mélange délibéré ou involontaire d'au moins deux différents déchets lorsqu'il n'existe pas de rubrique propre dans les annexes II, II B, III et III A pour ce mélange. Un déchet transféré dans un transfert unique de déchets, composé d'au moins deux déchets, dans lequel chaque déchet est séparé, ne constitue pas un mélange de déchets;
+- «mélange de déchets», un déchet qui résulte du mélange délibéré ou involontaire d'au moins deux différents déchets lorsqu'il n'existe pas de rubrique propre dans les annexes II, II B, III et III A pour ce mélange. Un déchet transféré dans un transfert unique de déchets, composé d'au moins deux déchets, dans lequel chaque déchet est séparé, ne constitue pas un mélange de déchets;
 
-2. «élimination intermédiaire», les opérations d'élimination D13 à D15 définies à l'annexe II de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets, dénommée ci-après «loi modifiée du 17 juin 1994»;
+- «élimination intermédiaire», les opérations d'élimination D13 à D15 définies à l'annexe II de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets, dénommée ci-après «loi modifiée du 17 juin 1994»;
 
-3. «valorisation intermédiaire», les opérations de valorisation R12 et R13 définies à l'annexe III de la loi modifiée du 17 juin 1994;
+- «valorisation intermédiaire», les opérations de valorisation R12 et R13 définies à l'annexe III de la loi modifiée du 17 juin 1994;
 
-4. «collecteur», toute personne qui effectue la collecte de déchets, telle que définie à l'article 3, point r), de la loi modifiée du 17 juin 1994;
+- «collecteur», toute personne qui effectue la collecte de déchets, telle que définie à l'article 3, point r), de la loi modifiée du 17 juin 1994;
 
-5. «négociant», toute personne qui entreprend pour son propre compte l'acquisition et la vente subséquente de déchets, y compris les négociants qui ne prennent pas physiquement possession des déchets;
+- «négociant», toute personne qui entreprend pour son propre compte l'acquisition et la vente subséquente de déchets, y compris les négociants qui ne prennent pas physiquement possession des déchets;
 
-6. «courtier», toute personne qui organise la valorisation ou l'élimination de déchets pour le compte de tiers, y compris les courtiers qui ne prennent pas physiquement possession des déchets;
+- «courtier», toute personne qui organise la valorisation ou l'élimination de déchets pour le compte de tiers, y compris les courtiers qui ne prennent pas physiquement possession des déchets;
 
-7. «destinataire», la personne ou l'entreprise à laquelle les déchets sont transférés en vue de leur valorisation ou de leur élimination;
+- «destinataire», la personne ou l'entreprise à laquelle les déchets sont transférés en vue de leur valorisation ou de leur élimination;
 
-8. «notifiant», toute personne physique ou morale qui se propose de transférer ou de faire transférer des déchets et à qui incombe l'obligation de notifier. Le notifiant est l'une des personnes ou l'un des organismes énumérés ci-dessous, conformément à la hiérarchie établie par la présente liste: Si un notifiant visé aux points iv) ou v) omet de s'acquitter de toute obligation de reprise visée aux articles 19 à 22, le producteur initial, nouveau producteur ou collecteur agréé visé aux points i), ii) ou iii) respectivement celui qui a autorisé ce négociant ou courtier à agir en son nom est considéré comme étant le notifiant aux fins desdites obligations de reprise. En cas de transfert illicite, notifié par un négociant ou courtier visé au point iv) ou v), la personne visée sous i), ii) ou iii) qui a autorisé ce négociant ou courtier à agir en son nom est considérée comme étant le notifiant aux fins du présent règlement;
+- «notifiant», toute personne physique ou morale qui se propose de transférer ou de faire transférer des déchets et à qui incombe l'obligation de notifier. Le notifiant est l'une des personnes ou l'un des organismes énumérés ci-dessous, conformément à la hiérarchie établie par la présente liste: Si un notifiant visé aux points iv) ou v) omet de s'acquitter de toute obligation de reprise visée aux articles 19 à 22, le producteur initial, nouveau producteur ou collecteur agréé visé aux points i), ii) ou iii) respectivement celui qui a autorisé ce négociant ou courtier à agir en son nom est considéré comme étant le notifiant aux fins desdites obligations de reprise. En cas de transfert illicite, notifié par un négociant ou courtier visé au point iv) ou v), la personne visée sous i), ii) ou iii) qui a autorisé ce négociant ou courtier à agir en son nom est considérée comme étant le notifiant aux fins du présent règlement;
 
-1. le producteur initial; ou
+  - le producteur initial; ou
 
-2. le nouveau producteur habilité à effectuer des opérations avant leur transfert; ou
+  - le nouveau producteur habilité à effectuer des opérations avant leur transfert; ou
 
-3. un collecteur agréé qui a réuni plusieurs petites quantités de déchets appartenant au même type de déchets et provenant de sources différentes aux fins du transfert qui a un point de départ notifié unique; ou
+  - un collecteur agréé qui a réuni plusieurs petites quantités de déchets appartenant au même type de déchets et provenant de sources différentes aux fins du transfert qui a un point de départ notifié unique; ou
 
-4. un négociant enregistré, qui a été autorisé par écrit par le producteur initial, le nouveau producteur ou le collecteur agréé visés respectivement aux points i), ii) et iii), à agir en son nom en tant que notifiant;
+  - un négociant enregistré, qui a été autorisé par écrit par le producteur initial, le nouveau producteur ou le collecteur agréé visés respectivement aux points i), ii) et iii), à agir en son nom en tant que notifiant;
 
-5. un courtier enregistré qui a été autorisé par écrit par le producteur initial, le nouveau producteur ou le collecteur agréé visés respectivement aux points i), ii) et iii), à agir en son nom en tant que notifiant;
+  - un courtier enregistré qui a été autorisé par écrit par le producteur initial, le nouveau producteur ou le collecteur agréé visés respectivement aux points i), ii) et iii), à agir en son nom en tant que notifiant;
 
-6. lorsque toutes les personnes visées aux points i), ii), iii) iv), et v) le cas échéant, sont inconnues ou insolvables, le détenteur.
+  - lorsque toutes les personnes visées aux points i), ii), iii) iv), et v) le cas échéant, sont inconnues ou insolvables, le détenteur.
 
-9. «autorité compétente», l'Administration de l'environnement;
+- «autorité compétente», l'Administration de l'environnement;
 
-10. «transport», le déplacement de déchets par quelque moyen que ce soit;
+- «transport», le déplacement de déchets par quelque moyen que ce soit;
 
-11. «transfert», le transport de déchets destinés à être éliminés ou valorisés;
+- «transfert», le transport de déchets destinés à être éliminés ou valorisés;
 
-12. «transfert illicite», tout transfert de déchets:
+- «transfert illicite», tout transfert de déchets:
 
-1. effectué sans notification à l'autorité compétente en application du présent règlement; o
+  - effectué sans notification à l'autorité compétente en application du présent règlement; o
 
-2. effectué sans le consentement de l'autorité compétente en application du présent règlement; ou
+  - effectué sans le consentement de l'autorité compétente en application du présent règlement; ou
 
-3. effectué alors que le consentement de l'autorité compétente a été obtenu par le recours à la falsification, à une présentation erronée des faits ou à la fraude; ou
+  - effectué alors que le consentement de l'autorité compétente a été obtenu par le recours à la falsification, à une présentation erronée des faits ou à la fraude; ou
 
-4. effectué d'une manière qui n'est pas matériellement indiquée dans la notification ou les documents de mouvement; ou
+  - effectué d'une manière qui n'est pas matériellement indiquée dans la notification ou les documents de mouvement; ou
 
-5. effectué d'une manière ayant pour résultat la valorisation ou l'élimination en violation de la réglementation en vigueur; ou
+  - effectué d'une manière ayant pour résultat la valorisation ou l'élimination en violation de la réglementation en vigueur; ou
 
-6. au sujet duquel, pour ce qui est des transferts de déchets visés à l'article 4, paragraphes 2 et 4:
+  - au sujet duquel, pour ce qui est des transferts de déchets visés à l'article 4, paragraphes 2 et 4:
 
-1. il a été découvert que les déchets ne figurent pas aux annexes II, II A ou II B du présent règlement; ou
+    - il a été découvert que les déchets ne figurent pas aux annexes II, II A ou II B du présent règlement; ou
 
-2. les dispositions de l'article 4, paragraphe 4, n'ont pas été respectées;
+    - les dispositions de l'article 4, paragraphe 4, n'ont pas été respectées;
 
-3. le transfert est effectué selon des modalités qui ne sont pas spécifiées concrètement dans le document figurant à l'annexe IV.
+    - le transfert est effectué selon des modalités qui ne sont pas spécifiées concrètement dans le document figurant à l'annexe IV.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -113,25 +113,25 @@ Font partie intégrante du présent règlement les annexes suivantes:
 
 Sont soumis à la procédure de notification et de consentement écrits préalables, conformément aux dispositions du présent règlement, les transferts ayant pour objet les déchets suivants:
 
-1. s'il s'agit de déchets destinés à être éliminés: tous les déchets;
+- s'il s'agit de déchets destinés à être éliminés: tous les déchets;
 
-2. s'il s'agit de déchets destinés à être valorisés:
+- s'il s'agit de déchets destinés à être valorisés:
 
-1. les déchets figurant à l'annexe III, laquelle comprend notamment les déchets énumérés aux annexes II et VIII de la Convention de Bâle du 22 mars 1989 sur le contrôle des mouvements transfrontières de déchets dangereux et de leur élimination;
+  - les déchets figurant à l'annexe III, laquelle comprend notamment les déchets énumérés aux annexes II et VIII de la Convention de Bâle du 22 mars 1989 sur le contrôle des mouvements transfrontières de déchets dangereux et de leur élimination;
 
-2. les déchets figurant à l'annexe III A;
+  - les déchets figurant à l'annexe III A;
 
-3. les déchets pour lesquels il n'existe pas de rubrique propre dans les annexes II, II B, III ou III A;
+  - les déchets pour lesquels il n'existe pas de rubrique propre dans les annexes II, II B, III ou III A;
 
-4. les mélanges de déchets pour lesquels il n'existe pas de rubrique propre dans les annexes II, II B, III ou III A, sauf s'ils figurent à l'annexe II A.
+  - les mélanges de déchets pour lesquels il n'existe pas de rubrique propre dans les annexes II, II B, III ou III A, sauf s'ils figurent à l'annexe II A.
 
 2.
 
 Sont soumis aux exigences générales en matière d'information fixées à l'article 16, les transferts ayant pour objet les déchets suivants destinés à être valorisés, si la quantité de déchets transférés est supérieure à 20 kilogrammes:
 
-1. les déchets figurant à l'annexe II ou II B;
+- les déchets figurant à l'annexe II ou II B;
 
-2. les mélanges, pour lesquels il n'existe pas de rubrique propre dans l'annexe II, d'au moins deux déchets énumérés à l'annexe II, à condition que la composition de ces mélanges ne compromette pas leur valorisation dans le respect de l'environnement, et à condition que ces mélanges figurent à l'annexe II A; (Règlement grand-ducal du 23 octobre 2014 les boues résiduaires issues de stations d'épuration traitant des eaux usées domestiques ou urbaines et d'autres stations d'épuration traitant des eaux usées de composition similaire aux eaux usées domestiques et urbaines; les boues provenant des fosses septiques; les boues résiduaires issues de stations d'épuration autres que celles visées aux points c et d; .
+- les mélanges, pour lesquels il n'existe pas de rubrique propre dans l'annexe II, d'au moins deux déchets énumérés à l'annexe II, à condition que la composition de ces mélanges ne compromette pas leur valorisation dans le respect de l'environnement, et à condition que ces mélanges figurent à l'annexe II A; (Règlement grand-ducal du 23 octobre 2014 les boues résiduaires issues de stations d'épuration traitant des eaux usées domestiques ou urbaines et d'autres stations d'épuration traitant des eaux usées de composition similaire aux eaux usées domestiques et urbaines; les boues provenant des fosses septiques; les boues résiduaires issues de stations d'épuration autres que celles visées aux points c et d; .
 
 3.
 
@@ -177,11 +177,11 @@ Les déchets qui font l'objet de plusieurs notifications ne peuvent être mélan
 
 Le notifiant peut soumettre une notification générale couvrant plusieurs transferts de déchets si, dans le cas de chaque transfert:
 
-1. les déchets présentent des caractéristiques physiques et chimiques essentiellement similaires; et
+- les déchets présentent des caractéristiques physiques et chimiques essentiellement similaires; et
 
-2. les déchets sont transférés au même destinataire et à la même installation; et
+- les déchets sont transférés au même destinataire et à la même installation; et
 
-3. l'itinéraire du transfert figurant dans les documents de notification est identique.
+- l'itinéraire du transfert figurant dans les documents de notification est identique.
 
 2.
 
@@ -212,11 +212,11 @@ Le contrat doit être conclu et effectif au moment de la notification et pour la
 
 Le contrat doit prévoir l'obligation:
 
-1. pour le notifiant de reprendre les déchets si le transfert ou la valorisation ou l'élimination n'a pas été mené à son terme comme prévu ou s'il a été effectué en tant que transfert illicite, conformément à l'article 19 et à l'article 21, paragraphe 1;
+- pour le notifiant de reprendre les déchets si le transfert ou la valorisation ou l'élimination n'a pas été mené à son terme comme prévu ou s'il a été effectué en tant que transfert illicite, conformément à l'article 19 et à l'article 21, paragraphe 1;
 
-2. pour le destinataire de valoriser ou d'éliminer les déchets si ceux-ci ont fait l'objet d'un transfert illicite, conformément à l'article 21, paragraphe 2; et
+- pour le destinataire de valoriser ou d'éliminer les déchets si ceux-ci ont fait l'objet d'un transfert illicite, conformément à l'article 21, paragraphe 2; et
 
-3. pour l'installation, de fournir conformément à l'article 15, point 4), un certificat attestant que les déchets ont été valorisés ou éliminés conformément à la notification et à ses conditions, ainsi qu'aux dispositions du présent règlement.
+- pour l'installation, de fournir conformément à l'article 15, point 4), un certificat attestant que les déchets ont été valorisés ou éliminés conformément à la notification et à ses conditions, ainsi qu'aux dispositions du présent règlement.
 
 Si les déchets transférés sont destinés à faire l'objet d'opérations intermédiaires de valorisation ou d'élimination, le contrat prévoit en outre l'obligation pour l'installation de destination de fournir conformément à l'article 15 point 4, les certificats indiquant que les déchets ont été valorisés ou éliminés conformément à la notification et à ses conditions, ainsi qu'aux dispositions du présent règlement.
 
@@ -238,25 +238,25 @@ Lorsque le notifiant a l'intention de transférer des déchets visés à l'artic
 
 Les notifications doivent répondre aux exigences suivantes:
 
-1. Documents de notification et de mouvement: La notification est effectuée au moyen des documents suivants: Pour procéder à une notification, le notifiant remplit le document de notification et, le cas échéant, le document de mouvement. Lorsque le notifiant n'est pas le producteur initial au sens de l'article 2, point 8, i), le notifiant veille à ce que ledit producteur ou une des personnes visées à l'article 2, point 8, ii) ou iii), lorsque cela est matériellement possible, signe également le document de notification. Le document de notification et le document de mouvement sont délivrés au notifiant par l'autorité compétente.
+- Documents de notification et de mouvement: La notification est effectuée au moyen des documents suivants: Pour procéder à une notification, le notifiant remplit le document de notification et, le cas échéant, le document de mouvement. Lorsque le notifiant n'est pas le producteur initial au sens de l'article 2, point 8, i), le notifiant veille à ce que ledit producteur ou une des personnes visées à l'article 2, point 8, ii) ou iii), lorsque cela est matériellement possible, signe également le document de notification. Le document de notification et le document de mouvement sont délivrés au notifiant par l'autorité compétente.
 
-1. le document de notification et
+  - le document de notification et
 
-2. le document de mouvement.
+  - le document de mouvement.
 
-2. Informations et documents accompagnant les documents de notification et de mouvement: Le notifiant inscrit sur le document de notification ou y annexe les informations et les documents énumérés à l'annexe I, partie 1. Le notifiant inscrit dans le document de mouvement ou y annexe les informations et les documents énumérés à l'annexe I, partie 2, dans la mesure du possible au moment de la notification. Une notification est considérée comme étant en bonne et due forme lorsque l'autorité compétente constate que le document de notification et le document de mouvement ont été remplis conformément à l'alinéa qui précède.
+- Informations et documents accompagnant les documents de notification et de mouvement: Le notifiant inscrit sur le document de notification ou y annexe les informations et les documents énumérés à l'annexe I, partie 1. Le notifiant inscrit dans le document de mouvement ou y annexe les informations et les documents énumérés à l'annexe I, partie 2, dans la mesure du possible au moment de la notification. Une notification est considérée comme étant en bonne et due forme lorsque l'autorité compétente constate que le document de notification et le document de mouvement ont été remplis conformément à l'alinéa qui précède.
 
-3. Informations et documents supplémentaires: Si l'autorité compétente en fait la demande, le notifiant est tenu de fournir des informations et des documents supplémentaires. Une liste des informations et des documents supplémentaires susceptibles d'être réclamés est établie à l'annexe I, partie 3. Une notification est considérée comme étant en bonne et due forme lorsque l'autorité compétente constate que le notifiant a rempli le document de notification et le document de mouvement et fourni les informations et les documents énumérés à l'annexe I, parties 1 et 2, ainsi que toute information et tout document supplémentaire demandé conformément au présent paragraphe et figurant à l'annexe I, partie 3.
+- Informations et documents supplémentaires: Si l'autorité compétente en fait la demande, le notifiant est tenu de fournir des informations et des documents supplémentaires. Une liste des informations et des documents supplémentaires susceptibles d'être réclamés est établie à l'annexe I, partie 3. Une notification est considérée comme étant en bonne et due forme lorsque l'autorité compétente constate que le notifiant a rempli le document de notification et le document de mouvement et fourni les informations et les documents énumérés à l'annexe I, parties 1 et 2, ainsi que toute information et tout document supplémentaire demandé conformément au présent paragraphe et figurant à l'annexe I, partie 3.
 
-4. Conclusion d'un contrat entre le notifiant et le destinataire: Le notifiant conclut un contrat avec le destinataire, conformément aux modalités définies à l'article 7, concernant la valorisation ou l'élimination des déchets notifiés. La preuve de l'existence de ce contrat ou une déclaration certifiant son existence conformément à l'annexe I partie 1 doit être fournie à l'autorité compétente au moment de la notification. Le notifiant ou le destinataire fournit, à la demande de l'autorité compétente, une copie du contrat ou une preuve de l'existence de celui-ci jugée suffisante par ladite autorité.
+- Conclusion d'un contrat entre le notifiant et le destinataire: Le notifiant conclut un contrat avec le destinataire, conformément aux modalités définies à l'article 7, concernant la valorisation ou l'élimination des déchets notifiés. La preuve de l'existence de ce contrat ou une déclaration certifiant son existence conformément à l'annexe I partie 1 doit être fournie à l'autorité compétente au moment de la notification. Le notifiant ou le destinataire fournit, à la demande de l'autorité compétente, une copie du contrat ou une preuve de l'existence de celui-ci jugée suffisante par ladite autorité.
 
-5. (...) (Abrogé par le règlement grand-ducal du 23 octobre 2014)
+- (...) (Abrogé par le règlement grand-ducal du 23 octobre 2014)
 
-6. Portée de la notification: La notification couvre le transfert de déchets à partir de leur lieu d'expédition initial, y compris leur valorisation ou élimination intermédiaire et non intermédiaire. Chaque notification doit porter sur un seul code d'identification des déchets, sauf lorsqu'il s'agit de:
+- Portée de la notification: La notification couvre le transfert de déchets à partir de leur lieu d'expédition initial, y compris leur valorisation ou élimination intermédiaire et non intermédiaire. Chaque notification doit porter sur un seul code d'identification des déchets, sauf lorsqu'il s'agit de:
 
-1. déchets pour lesquels il n'existe pas de rubrique propre dans les annexes II, II B, III ou III A du présent règlement. Dans ce cas, un seul type de déchets doit être spécifié;
+  - déchets pour lesquels il n'existe pas de rubrique propre dans les annexes II, II B, III ou III A du présent règlement. Dans ce cas, un seul type de déchets doit être spécifié;
 
-2. mélanges de déchets pour lesquels il n'existe pas de rubrique propre dans les annexes II, II B, III ou III A à moins qu'ils ne figurent à l'annexe II A du présent règlement. Dans ce cas, le code relatif à chaque partie de ces déchets doit être spécifié par ordre d'importance.
+  - mélanges de déchets pour lesquels il n'existe pas de rubrique propre dans les annexes II, II B, III ou III A à moins qu'ils ne figurent à l'annexe II A du présent règlement. Dans ce cas, le code relatif à chaque partie de ces déchets doit être spécifié par ordre d'importance.
 
 <a id="art-10"></a>
 ## Art 10
@@ -276,11 +276,11 @@ Si, dans les trente jours suivant la réception de la notification, l'autorité 
 
 L'autorité compétente dispose de trente jours à compter de la date de transmission de l'accusé de réception, conformément à l'article 9, pour prendre par écrit l'une des décisions motivées suivantes en ce qui concerne le transfert notifié:
 
-1. consentement sans conditions;
+- consentement sans conditions;
 
-2. consentement avec conditions conformément à l'article 12; ou
+- consentement avec conditions conformément à l'article 12; ou
 
-3. objections conformément aux articles 13 et 14.
+- objections conformément aux articles 13 et 14.
 
 2.
 
@@ -306,13 +306,13 @@ Les opérations de valorisation ou d'élimination de déchets en rapport avec un
 
 L'autorité compétente retire son consentement si elle a connaissance du fait que:
 
-1. la composition des déchets n'est pas conforme à la description qui en est donnée dans la notification; ou
+- la composition des déchets n'est pas conforme à la description qui en est donnée dans la notification; ou
 
-2. les conditions auxquelles le transfert est soumis ne sont pas respectées; ou
+- les conditions auxquelles le transfert est soumis ne sont pas respectées; ou
 
-3. les déchets ne sont pas valorisés ou éliminés conformément à l'autorisation dont est titulaire l'installation qui exécute l'opération; ou
+- les déchets ne sont pas valorisés ou éliminés conformément à l'autorisation dont est titulaire l'installation qui exécute l'opération; ou
 
-4. les déchets doivent être ou ont été transférés, valorisés ou éliminés d'une manière qui n'est pas conforme aux informations inscrites dans les documents de notification et de mouvement ou y annexées.
+- les déchets doivent être ou ont été transférés, valorisés ou éliminés d'une manière qui n'est pas conforme aux informations inscrites dans les documents de notification et de mouvement ou y annexées.
 
 8.
 
@@ -338,11 +338,11 @@ Les conditions sont énumérées dans le document de notification ou y sont anne
 
 En cas de notification concernant un transfert envisagé de déchets destinés à être éliminés, l'autorité compétente peut, dans les trente jours suivant la date de transmission de l'accusé de réception, conformément à l'article 10, formuler des objections motivées en se fondant sur l'un au moins des motifs suivants:
 
-1. le transfert ou l'élimination prévu ne serait pas conforme aux dispositions législatives et réglementaires nationales en matière de protection de l'environnement, d'ordre public, de sécurité publique ou de protection de la santé; ou
+- le transfert ou l'élimination prévu ne serait pas conforme aux dispositions législatives et réglementaires nationales en matière de protection de l'environnement, d'ordre public, de sécurité publique ou de protection de la santé; ou
 
-2. le notifiant ou le destinataire a fait l'objet, dans le passé, d'une condamnation pour transfert de déchets illicite ou autre acte illicite au regard de la protection de l'environnement. Dans ce cas, l'autorité compétente peut refuser tout transfert dans lequel intervient la personne en question; ou
+- le notifiant ou le destinataire a fait l'objet, dans le passé, d'une condamnation pour transfert de déchets illicite ou autre acte illicite au regard de la protection de l'environnement. Dans ce cas, l'autorité compétente peut refuser tout transfert dans lequel intervient la personne en question; ou
 
-3. le notifiant ou l'installation, à plusieurs reprises, n'a pas respecté les dispositions de l'article 15 dans le cadre de transferts précédents; ou
+- le notifiant ou l'installation, à plusieurs reprises, n'a pas respecté les dispositions de l'article 15 dans le cadre de transferts précédents; ou
 
 2.
 
@@ -359,21 +359,21 @@ Si les problèmes motivant les objections n'ont pas été résolus dans le déla
 
 En cas de notification concernant un transfert envisagé de déchets destinés à être valorisés, l'autorité compétente peut, dans les trente jours suivant la date de transmission de l'accusé de réception conformément à l'article 10, formuler des objections motivées en se fondant sur l'un ou plusieurs des motifs suivants:
 
-1. le transfert ou la valorisation prévu ne serait pas conforme à la loi modifiée du 17 juin 1994, et notamment à ses articles 1, 5 et 10; ou
+- le transfert ou la valorisation prévu ne serait pas conforme à la loi modifiée du 17 juin 1994, et notamment à ses articles 1, 5 et 10; ou
 
-2. le transfert ou la valorisation prévu ne serait pas conforme aux dispositions législatives et réglementaires en matière de protection de l'environnement, d'ordre public, de sécurité publique ou de protection de la santé; ou
+- le transfert ou la valorisation prévu ne serait pas conforme aux dispositions législatives et réglementaires en matière de protection de l'environnement, d'ordre public, de sécurité publique ou de protection de la santé; ou
 
-3. le transfert ou la valorisation prévu ne serait pas conforme aux dispositions législatives et réglementaires nationales en matière de valorisation des déchets;
+- le transfert ou la valorisation prévu ne serait pas conforme aux dispositions législatives et réglementaires nationales en matière de valorisation des déchets;
 
-4. le notifiant ou le destinataire a fait l'objet, dans le passé, d'une condamnation pour transfert illicite de déchets ou autre acte illicite au regard de la protection de l'environnement. Dans ce cas, l'autorité compétente peut refuser tout transfert dans lequel intervient la personne en question; ou
+- le notifiant ou le destinataire a fait l'objet, dans le passé, d'une condamnation pour transfert illicite de déchets ou autre acte illicite au regard de la protection de l'environnement. Dans ce cas, l'autorité compétente peut refuser tout transfert dans lequel intervient la personne en question; ou
 
-5. le notifiant ou l'installation, à plusieurs reprises, n'a pas respecté les dispositions de l'article 15 dans le cadre de transferts précédents;
+- le notifiant ou l'installation, à plusieurs reprises, n'a pas respecté les dispositions de l'article 15 dans le cadre de transferts précédents;
 
-6. le rapport entre les déchets valorisables et non valorisables, la valeur estimée des matières qui seront finalement valorisées ou le coût de la valorisation et le coût de l'élimination de la partie non valorisable sont tels que la valorisation ne se justifie pas d'un point de vue économique et/ou écologique; ou
+- le rapport entre les déchets valorisables et non valorisables, la valeur estimée des matières qui seront finalement valorisées ou le coût de la valorisation et le coût de l'élimination de la partie non valorisable sont tels que la valorisation ne se justifie pas d'un point de vue économique et/ou écologique; ou
 
-7. les déchets transférés ne sont pas destinés à la valorisation, mais à l'élimination; ou
+- les déchets transférés ne sont pas destinés à la valorisation, mais à l'élimination; ou
 
-8. les déchets en question ne seront pas traités conformément au plan général de gestion des déchets élaboré conformément à la loi modifiée du 17 juin 1994.
+- les déchets en question ne seront pas traités conformément au plan général de gestion des déchets élaboré conformément à la loi modifiée du 17 juin 1994.
 
 2.
 
@@ -388,13 +388,13 @@ Si les problèmes motivant les objections n'ont pas été résolus dans le déla
 
 Une fois que l'autorité compétente a consenti à un transfert, toutes les personnes concernées remplissent le document de mouvement aux points indiqués, le signent et en conservent une copie. Les exigences ci-après doivent être respectées:
 
-1. Au plus tard un jour ouvrable avant le transfert, le notifiant envoie à l'autorité compétente une copie du document de mouvement dûment complété conjointement avec le transporteur.
+- Au plus tard un jour ouvrable avant le transfert, le notifiant envoie à l'autorité compétente une copie du document de mouvement dûment complété conjointement avec le transporteur.
 
-2. Le notifiant conserve une copie du document complété et remet l'original au transporteur. Chaque transport est accompagné du document de mouvement et d'une copie du document de notification contenant le consentement écrit de l'autorité compétente et les conditions établies par elle.
+- Le notifiant conserve une copie du document complété et remet l'original au transporteur. Chaque transport est accompagné du document de mouvement et d'une copie du document de notification contenant le consentement écrit de l'autorité compétente et les conditions établies par elle.
 
-3. Dans un délai de trois jours ouvrables à compter de la réception des déchets destinés à être éliminés ou valorisés, l'installation transmet au notifiant et à l'autorité compétente une copie du document de mouvement dûment rempli et signé à la case prévue à cet effet.
+- Dans un délai de trois jours ouvrables à compter de la réception des déchets destinés à être éliminés ou valorisés, l'installation transmet au notifiant et à l'autorité compétente une copie du document de mouvement dûment rempli et signé à la case prévue à cet effet.
 
-4. Le plus tôt possible, mais au plus tard une année civile après la réception des déchets, l'installation certifie, sous sa responsabilité que l'opération de valorisation ou d'élimination a été mené à son terme et transmet au notifiant et à l'autorité compétente une copie du document de mouvement dûment rempli et signé à la case prévue à cet effet.
+- Le plus tôt possible, mais au plus tard une année civile après la réception des déchets, l'installation certifie, sous sa responsabilité que l'opération de valorisation ou d'élimination a été mené à son terme et transmet au notifiant et à l'autorité compétente une copie du document de mouvement dûment rempli et signé à la case prévue à cet effet.
 
 <a id="art-16"></a>
 ## Art. 16.
@@ -403,17 +403,17 @@ Une fois que l'autorité compétente a consenti à un transfert, toutes les pers
 
 Les déchets visés à l'article 4, paragraphes 2 et 4, destinés à être transférés sont soumis aux exigences de procédure suivantes:
 
-1. Afin de faciliter le suivi des transferts de ces déchets, la personne qui organise le transfert veille à ce que les déchets soient accompagnés du document figurant à l'annexe IV.
+- Afin de faciliter le suivi des transferts de ces déchets, la personne qui organise le transfert veille à ce que les déchets soient accompagnés du document figurant à l'annexe IV.
 
-2. Le document figurant à l'annexe IV est signé par la personne qui organise le transfert avant que le transfert n'ait lieu et est signé par l'installation de valorisation ou le laboratoire et le destinataire au moment de la réception des déchets en question.
+- Le document figurant à l'annexe IV est signé par la personne qui organise le transfert avant que le transfert n'ait lieu et est signé par l'installation de valorisation ou le laboratoire et le destinataire au moment de la réception des déchets en question.
 
 2.
 
 Le contrat visé à l'annexe IV conclu entre la personne qui organise le transfert et le destinataire concernant la valorisation des déchets doit être effectif dès le début du transfert et prévoit, lorsque le transfert de déchets ou leur valorisation ne peut pas être mené à son terme comme prévu ou a été effectué de manière illégale, l'obligation pour la personne qui organise le transfert ou, lorsque cette personne n'est pas en mesure de mener le transfert des déchets ou leur valorisation à son terme (par exemple, est insolvable), pour le destinataire, de:
 
-1. reprendre les déchets ou d'assurer leur valorisation par d'autres moyens; et
+- reprendre les déchets ou d'assurer leur valorisation par d'autres moyens; et
 
-2. prévoir, si nécessaire, leur stockage dans l'intervalle.
+- prévoir, si nécessaire, leur stockage dans l'intervalle.
 
 A la demande de l'autorité compétente, la personne qui organise le transfert ou le destinataire sont tenus de produire une copie du contrat.
 
@@ -473,13 +473,13 @@ Lorsque la présence de déchets provenant d'un transfert qui n'a pas pu être m
 
 Les frais afférents à la reprise des déchets d'un transfert qui ne peut pas être mené à son terme, y compris les frais de transport, leur valorisation ou leur élimination conformément à l'article 19 paragraphes 1 et 2 et, à compter de la date à laquelle l'autorité compétente a constaté qu'un transfert était illicite, les coûts du stockage conformément à l'article 19, paragraphe 5, sont imputés:
 
-1. au notifiant identifié conformément à la hiérarchie établie par l'article 2, point 8; ou, si cela est impossible,
+- au notifiant identifié conformément à la hiérarchie établie par l'article 2, point 8; ou, si cela est impossible,
 
-2. à d'autres personnes physiques ou morales, le cas échéant; ou, si cela est impossible,
+- à d'autres personnes physiques ou morales, le cas échéant; ou, si cela est impossible,
 
-3. à l'autorité compétente; ou, si cela est impossible,
+- à l'autorité compétente; ou, si cela est impossible,
 
-4. selon d'autres modalités arrêtées par l'autorité compétente.
+- selon d'autres modalités arrêtées par l'autorité compétente.
 
 2.
 
@@ -492,13 +492,13 @@ Le présent article ne porte pas atteinte aux dispositions applicables en matiè
 
 Si le transfert illicite est le fait du notifiant, l'autorité compétente veille à ce que les déchets en question soient:
 
-1. repris par le notifiant de fait; ou, si aucune notification n'a été effectuée,
+- repris par le notifiant de fait; ou, si aucune notification n'a été effectuée,
 
-2. repris par le notifiant de droit; ou, si cela est impossible,
+- repris par le notifiant de droit; ou, si cela est impossible,
 
-3. valorisés ou éliminés d'une autre manière par l'autorité compétente elle-même ou par une personne physique ou morale agissant en son nom; ou, si cela est impossible,
+- valorisés ou éliminés d'une autre manière par l'autorité compétente elle-même ou par une personne physique ou morale agissant en son nom; ou, si cela est impossible,
 
-4. valorisés ou éliminés d'une autre manière dans un autre pays par l'autorité compétente elle-même ou par une personne physique ou morale agissant en son nom.
+- valorisés ou éliminés d'une autre manière dans un autre pays par l'autorité compétente elle-même ou par une personne physique ou morale agissant en son nom.
 
 La reprise, valorisation ou élimination doit avoir lieu dans les trente jours ou dans tout autre délai pouvant être fixé par l'autorité compétente après avoir eu connaissance du transfert illicite et avoir été informée des raisons le justifiant.
 
@@ -510,9 +510,9 @@ La nouvelle notification est effectuée par le notifiant.
 
 Si le transfert illicite est le fait du destinataire, l'autorité compétente veille à ce que les déchets en question soient valorisés ou éliminés selon des méthodes écologiquement rationnelles:
 
-1. par le destinataire; ou, si cela est impossible,
+- par le destinataire; ou, si cela est impossible,
 
-2. par l'autorité compétente elle-même ou par une personne physique ou morale agissant en son nom.
+- par l'autorité compétente elle-même ou par une personne physique ou morale agissant en son nom.
 
 La valorisation ou l'élimination doit avoir lieu dans les trente jours ou dans tout autre délai pouvant être fixé par l'autorité compétente après que l'autorité compétente a eu connaissance du transfert illicite et a été informée des raisons le justifiant.
 
@@ -539,29 +539,29 @@ Le présent article ne porte pas atteinte aux dispositions applicables en matiè
 
 Les frais afférents à la reprise des déchets d'un transfert illicite, y compris les frais de transport, leur valorisation ou leur élimination conformément à l'article 19, paragraphe 1, et, à compter de la date à laquelle l'autorité compétente a constaté qu'un transfert était illicite, les coûts du stockage conformément à l'article 19, paragraphe 5, sont imputés:
 
-1. au notifiant de fait, identifié conformément à la hiérarchie établie par l'article 2, point 8; ou, si aucune notification n'a été effectuée,
+- au notifiant de fait, identifié conformément à la hiérarchie établie par l'article 2, point 8; ou, si aucune notification n'a été effectuée,
 
-2. au notifiant de droit, ou à d'autres personnes physiques ou morales, le cas échéant; ou, si cela est impossible,
+- au notifiant de droit, ou à d'autres personnes physiques ou morales, le cas échéant; ou, si cela est impossible,
 
-3. à l'autorité compétente.
+- à l'autorité compétente.
 
 2.
 
 Les frais afférents à la valorisation ou à l'élimination conformément à l'article 19, paragraphe 2, y compris les éventuels coûts de transport et de stockage conformément à l'article 19, paragraphe 5, des déchets faisant l'objet d'un transfert illicite sont imputés:
 
-1. au destinataire; ou, si cela est impossible,
+- au destinataire; ou, si cela est impossible,
 
-2. à l'autorité compétente.
+- à l'autorité compétente.
 
 3.
 
 Les frais afférents à la valorisation ou l'élimination conformément à l'article 19, paragraphe 3, y compris les éventuels coûts de transport et de stockage conformément à l'article 19, paragraphe 5, des déchets faisant l'objet d'un transfert illicite sont imputés:
 
-1. au notifiant, identifié conformément à la hiérarchie établie par l'article 2, point 8, et/ou au destinataire en fonction de la décision prise par l'autorité compétente; ou, si cela est impossible,
+- au notifiant, identifié conformément à la hiérarchie établie par l'article 2, point 8, et/ou au destinataire en fonction de la décision prise par l'autorité compétente; ou, si cela est impossible,
 
-2. aux autres personnes physiques ou morales, le cas échéant; ou, si cela est impossible,
+- aux autres personnes physiques ou morales, le cas échéant; ou, si cela est impossible,
 
-3. à l'autorité compétente.
+- à l'autorité compétente.
 
 4.
 
@@ -576,9 +576,9 @@ Le présent article ne porte pas atteinte aux dispositions applicables en matiè
 
 Les points 1 et 2 de l'article 1er du règlement grand-ducal du 19 novembre 2002 déterminant les taxes à percevoir lors de la présentation des demandes en obtention des formules prescrites pour le transfert de déchets sont remplacés comme suit:
 
-1. 12 euros pour un exemplaire du document de notification;
+- 12 euros pour un exemplaire du document de notification;
 
-2. 2 euros pour chaque exemplaire du document de mouvement.
+- 2 euros pour chaque exemplaire du document de mouvement.
 
 L'annexe du règlement grand-ducal du 19 novembre 2002 déterminant les taxes à percevoir lors de la présentation des demandes en obtention des formules prescrites pour le transfert de déchets est remplacée par l'annexe VI du présent règlement.
 

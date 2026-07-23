@@ -28,7 +28,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Le crédit d'impôt pour salariés (ci-après dénommé « CIS » ) et un crédit d’impôt CO2 pour salariés (ci-après dénommé « CI-CO2 salarié ») sont bonifiés par l'employeur à ses salariés qui disposent d'une fiche de retenue d'impôt et sur laquelle se trouve l'inscription CIS. L'employeur détermine le montant du CIS et du CI-CO2 salarié à accorder en fonction du montant du salaire brut versé en application de l'article 154quater.
+Le crédit d'impôt pour salariés ( ci-après dénommé « CIS » ) et un crédit d’impôt CO2 pour salariés (ci-après dénommé « CI-CO2 salarié ») sont bonifiés par l'employeur à ses salariés qui disposent d'une fiche de retenue d'impôt et sur laquelle se trouve l'inscription CIS. L'employeur détermine le montant du CIS et du CI-CO2 salarié à accorder en fonction du montant du salaire brut versé en application de l'article 154quater.
 
 <a id="art-2"></a>
 ## Art. 2.

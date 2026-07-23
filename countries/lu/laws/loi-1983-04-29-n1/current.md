@@ -33,15 +33,15 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Sous réserve des dispositions prévues aux articles 2 et 4 et sans préjudice de l’article 7, paragraphe 2 de la présente loi, l’accès aux activités de médecin et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre ayant la Santé dans ses attributions, désigné ci-après par «le ministre», qui est délivrée aux conditions suivantes:
 
-1. le candidat doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+- le candidat doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
-2. il doit disposer d’un titre de formation médicale de base reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+- il doit disposer d’un titre de formation médicale de base reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
-3. il doit disposer d’un titre de formation de médecin-généraliste ou de médecin-spécialiste reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+- il doit disposer d’un titre de formation de médecin-généraliste ou de médecin-spécialiste reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
-4. il doit remplir les conditions de moralité et d’honorabilité ainsi que de santé physique et psychique nécessaires à l’exercice de la profession de médecin;
+- il doit remplir les conditions de moralité et d’honorabilité ainsi que de santé physique et psychique nécessaires à l’exercice de la profession de médecin;
 
-5. il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège médical. Le président du Collège médical ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 3.
+- il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège médical. Le président du Collège médical ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 3.
 
 (2)
 
@@ -54,17 +54,17 @@ Un règlement grand-ducal détermine la liste des disciplines reconnues comme sp
 
 Par dérogation aux dispositions de l’article 1er, paragraphe 1er sous c) et paragraphe 2, l’accès aux activités de médecin-spécialiste en médecine légale et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre, qui est délivrée aux conditions suivantes:
 
-1. le candidat dispose d’un titre de formation de médecin-spécialiste dans la discipline de la médecine légale. Ce titre doit sanctionner une formation de spécialisation en médecine légale, conférant à l’intéressé le droit d’exercer la médecine en qualité de médecin-spécialiste en médecine légale dans le pays d’obtention du diplôme;
+- le candidat dispose d’un titre de formation de médecin-spécialiste dans la discipline de la médecine légale. Ce titre doit sanctionner une formation de spécialisation en médecine légale, conférant à l’intéressé le droit d’exercer la médecine en qualité de médecin-spécialiste en médecine légale dans le pays d’obtention du diplôme;
 
-2. il remplit les conditions prévues aux points a), b), d) et e) du paragraphe 1 er de l’article 1 er .
+- il remplit les conditions prévues aux points a), b), d) et e) du paragraphe 1 er de l’article 1 er .
 
 (2)
 
 Par dérogation aux dispositions de l’article 1er, paragraphe 1er sous c) et paragraphe 2, l’accès aux activités de médecin-spécialiste en neuropathologie et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre, qui est délivrée aux conditions suivantes:
 
-1. le candidat dispose d’un titre de formation de médecin-spécialiste dans la discipline de la neuropathologie. Ce titre doit sanctionner une formation de spécialisation en neuropathologie, conférant à l’intéressé le droit d’exercer la médecine en qualité de médecin-spécialiste en neuropathologie dans le pays d’obtention du diplôme;
+- le candidat dispose d’un titre de formation de médecin-spécialiste dans la discipline de la neuropathologie. Ce titre doit sanctionner une formation de spécialisation en neuropathologie, conférant à l’intéressé le droit d’exercer la médecine en qualité de médecin-spécialiste en neuropathologie dans le pays d’obtention du diplôme;
 
-2. il remplit les conditions prévues aux points a), b), d) et e) du paragraphe 1 er de l’article 1 er .
+- il remplit les conditions prévues aux points a), b), d) et e) du paragraphe 1 er de l’article 1 er .
 
 <a id="art-1er-ter"></a>
 ## Art. 1er ter.
@@ -192,11 +192,11 @@ Il met en œuvre tous les moyens qui sont à sa disposition pour permettre au pa
 
 Exerce illégalement la médecine:
 
-1. toute personne qui pratique ou prend part, même en présence du médecin, à l’établissement d’un diagnostic ou au traitement d’affections pathologiques, réelles ou supposées, ou à un accouchement, par actes personnels, consultations verbales ou écrites ou par tous autres procédés quels qu’ils soient, sans être autorisée à exercer la profession de médecin, sauf le cas d’urgence avérée;
+- toute personne qui pratique ou prend part, même en présence du médecin, à l’établissement d’un diagnostic ou au traitement d’affections pathologiques, réelles ou supposées, ou à un accouchement, par actes personnels, consultations verbales ou écrites ou par tous autres procédés quels qu’ils soient, sans être autorisée à exercer la profession de médecin, sauf le cas d’urgence avérée;
 
-2. toute personne qui, munie d’un titre régulier, prête son concours aux personnes visées sous a) à l’effet de les soustraire aux prescriptions de la présente loi;
+- toute personne qui, munie d’un titre régulier, prête son concours aux personnes visées sous a) à l’effet de les soustraire aux prescriptions de la présente loi;
 
-3. tout médecin qui accomplit un acte professionnel pendant la durée d’une peine de suspension ou d’interdiction de l’exercice de la profession.
+- tout médecin qui accomplit un acte professionnel pendant la durée d’une peine de suspension ou d’interdiction de l’exercice de la profession.
 
 - tout médecin qui effectue une prestation de services sans remplir les conditions prévues à l’article 4 de la présente loi.
 
@@ -226,13 +226,13 @@ Les modalités d’obtention et la durée de la validité de la carte de médeci
 
 Sous réserve des dispositions prévues aux articles 9 et 11, et sans préjudice de l’article 14, paragraphe 2 de la présente loi, l’accès aux activités de médecin-dentiste et médecin-dentiste spécialiste et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre qui est délivrée aux conditions suivantes:
 
-1. le candidat doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+- le candidat doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
-2. il doit disposer d’un titre de formation de médecin-dentiste ou d’un titre de formation de médecin-dentiste spécialiste reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+- il doit disposer d’un titre de formation de médecin-dentiste ou d’un titre de formation de médecin-dentiste spécialiste reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
-3. il doit remplir les conditions de moralité et d’honorabilité ainsi que de santé physique et psychique nécessaires à l’exercice de la profession;
+- il doit remplir les conditions de moralité et d’honorabilité ainsi que de santé physique et psychique nécessaires à l’exercice de la profession;
 
-4. il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège médical. Le président du Collège médical ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 10.
+- il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège médical. Le président du Collège médical ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 10.
 
 (2)
 
@@ -360,11 +360,11 @@ Il met en œuvre tous les moyens qui sont à sa disposition pour permettre au pa
 
 Exerce illégalement la médecine dentaire
 
-1. toute personne qui prend part, même en présence du médecin-dentiste, à la pratique de la médecine dentaire sans remplir les conditions prévues aux articles 8 et 9 de la présente loi, sauf le cas d’urgence avérée;
+- toute personne qui prend part, même en présence du médecin-dentiste, à la pratique de la médecine dentaire sans remplir les conditions prévues aux articles 8 et 9 de la présente loi, sauf le cas d’urgence avérée;
 
-2. toute personne qui, munie d’un titre régulier prête son concours aux personnes visées sous a) à l’effet de les soustraire aux prescriptions de la présente loi;
+- toute personne qui, munie d’un titre régulier prête son concours aux personnes visées sous a) à l’effet de les soustraire aux prescriptions de la présente loi;
 
-3. tout médecin-dentiste qui accomplit un acte professionnel pendant la durée d’une peine de suspension ou d’interdiction de l’exercice de la profession.
+- tout médecin-dentiste qui accomplit un acte professionnel pendant la durée d’une peine de suspension ou d’interdiction de l’exercice de la profession.
 
 - tout médecin-dentiste qui effectue une prestation de services sans remplir les conditions prévues à l’article 11 de la présente loi.
 
@@ -437,13 +437,13 @@ Est nulle toute convention conclue par les membres des professions de médecin e
 
 Sous réserve des dispositions prévues à l’article 25 de la présente loi, l’accès aux activités de médecin-vétérinaire et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre qui est délivrée aux conditions suivantes:
 
-1. le candidat doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+- le candidat doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
-2. il doit disposer d’un titre de formation de médecin-vétérinaire reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+- il doit disposer d’un titre de formation de médecin-vétérinaire reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
-3. il doit remplir les conditions de moralité et d’honorabilité ainsi que de santé physique et psychique nécessaires à l’exercice de la profession de médecin-vétérinaire;
+- il doit remplir les conditions de moralité et d’honorabilité ainsi que de santé physique et psychique nécessaires à l’exercice de la profession de médecin-vétérinaire;
 
-4. il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège vétérinaire. Le président du Collège vétérinaire ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 23.
+- il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège vétérinaire. Le président du Collège vétérinaire ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 23.
 
 <a id="art-21bis"></a>
 ## Art. 21bis.
@@ -591,13 +591,13 @@ Un code de déontologie de la profession de médecin-vétérinaire est édicté 
 
 Exerce illégalement la médecine vétérinaire:
 
-1. toute personne qui exerce la médecine vétérinaire, même en présence d’un médecin-vétérinaire, sans remplir les conditions prévues aux articles 21, 22, ou 25 de la présente loi, sauf le cas d’urgence avérée;
+- toute personne qui exerce la médecine vétérinaire, même en présence d’un médecin-vétérinaire, sans remplir les conditions prévues aux articles 21, 22, ou 25 de la présente loi, sauf le cas d’urgence avérée;
 
-2. toute personne qui, munie d’un titre régulier prête son concours aux personnes visées sous a), à l’effet de les soustraire aux prescriptions de la présente loi;
+- toute personne qui, munie d’un titre régulier prête son concours aux personnes visées sous a), à l’effet de les soustraire aux prescriptions de la présente loi;
 
-3. tout médecin-vétérinaire qui accomplit un acte professionnel pendant la durée d’une peine de suspension ou d’interdiction de l’exercice de la profession.
+- tout médecin-vétérinaire qui accomplit un acte professionnel pendant la durée d’une peine de suspension ou d’interdiction de l’exercice de la profession.
 
-1. tout médecin-vétérinaire qui effectue une prestation de services sans remplir les conditions prévues à l’article 25 de la présente loi.
+- tout médecin-vétérinaire qui effectue une prestation de services sans remplir les conditions prévues à l’article 25 de la présente loi.
 
 (2)
 

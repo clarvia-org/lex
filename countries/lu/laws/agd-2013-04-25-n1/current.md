@@ -143,7 +143,7 @@ Gouvernance
 
 (1)
 
-La Cellule est dotée d'un comité d'accompagnement composé de fonctionnaires ou employé(e)s de l'administration gouvernementale désigné(e)s par et agissant en représentation respectivement des ministres en charge de l'aménagement du territoire, de l'environnement, des travaux publics, de l'Inspection du Travail et des Mines, de l'aménagement communal, de la gestion de l'eau, du logement , ainsi que du(de la) chargé(e) de direction de la Cellule.
+La Cellule est dotée d'un comité d'accompagnement composé de fonctionnaires ou employé(e)s de l'administration gouvernementale désigné(e)s par et agissant en représentation respectivement des ministres en charge de l'aménagement du territoire, de l'environnement, des travaux publics, de l'Inspection du Travail et des Mines, de l'aménagement communal, de la gestion de l'eau , du logement , ainsi que du(de la) chargé(e) de direction de la Cellule.
 
 (2)
 

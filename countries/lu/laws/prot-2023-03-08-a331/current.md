@@ -52,3 +52,7 @@ Compte tenu de la mise en application de la mesure avec effet au 1er juillet 202
 ## Art. 4.
 
 Le présent protocole d’accord ainsi que son annexe font partie intégrante de la convention signée entre parties en date du 10 juin 2015.
+
+En foi de ce qui précède, les soussignés dûment autorisés par leurs mandants, ont signé le présent protocole d’accord.
+
+Fait à Luxembourg, le 28 juin 2023 en deux exemplaires.

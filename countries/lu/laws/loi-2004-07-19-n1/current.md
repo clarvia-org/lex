@@ -46,17 +46,17 @@ Objectifs
 
 Les communes ont pour mission de garantir le respect de l’intérêt général en assurant à la population de la commune des conditions de vie optimales par une mise en valeur harmonieuse et un développement durable de toutes les parties du territoire communal par:
 
-1. une utilisation rationnelle du sol et de l’espace tant urbain que rural en garantissant la complémentarité entre les objectifs économiques, écologiques et sociaux;
+- une utilisation rationnelle du sol et de l’espace tant urbain que rural en garantissant la complémentarité entre les objectifs économiques, écologiques et sociaux;
 
-2. un développement harmonieux des structures urbaines et rurales, y compris les réseaux de communication et d’approvisionnement compte tenu des spécificités respectives de ces structures, et en exécution des objectifs de l’aménagement général du territoire;
+- un développement harmonieux des structures urbaines et rurales, y compris les réseaux de communication et d’approvisionnement compte tenu des spécificités respectives de ces structures, et en exécution des objectifs de l’aménagement général du territoire;
 
-3. une utilisation rationnelle de l’énergie, des économies d’énergie et une utilisation des énergies renouvelables;
+- une utilisation rationnelle de l’énergie, des économies d’énergie et une utilisation des énergies renouvelables;
 
-4. le développement, dans le cadre des structures urbaines et rurales, d’une mixité et d’une densification permettant d’améliorer à la fois la qualité de vie de la population et la qualité urbanistique des localités;
+- le développement, dans le cadre des structures urbaines et rurales, d’une mixité et d’une densification permettant d’améliorer à la fois la qualité de vie de la population et la qualité urbanistique des localités;
 
-5. le respect du patrimoine culturel et un niveau élevé de protection de l’environnement naturel et du paysage lors de la poursuite des objectifs définis ci-dessus;
+- le respect du patrimoine culturel et un niveau élevé de protection de l’environnement naturel et du paysage lors de la poursuite des objectifs définis ci-dessus;
 
-6. la garantie de la sécurité, la salubrité et l’hygiène publiques.
+- la garantie de la sécurité, la salubrité et l’hygiène publiques.
 
 ### Titre 2 Les organes compétents
 
@@ -143,11 +143,11 @@ Il est interdit à la personne qualifiée d’avoir par elle-même ou par person
 
 Le projet d’aménagement général est élaboré sur base d’une étude préparatoire qui se compose :
 
-1. d’une analyse de la situation existante ;
+- d’une analyse de la situation existante ;
 
-2. d’un concept de développement ;
+- d’un concept de développement ;
 
-3. de schémas directeurs couvrant l’ensemble des zones soumises à l’élaboration d’un plan d’aménagement particulier «nouveau quartier» tels que définis à l’article 25. Les dépenses engendrées par l’élaboration de schémas directeurs sont préfinancées par la commune et sont récupérées auprès des initiateurs des projets d’aménagement particulier «nouveau quartier» dans le cadre de la convention prévue à l’article 36.
+- de schémas directeurs couvrant l’ensemble des zones soumises à l’élaboration d’un plan d’aménagement particulier «nouveau quartier» tels que définis à l’article 25. Les dépenses engendrées par l’élaboration de schémas directeurs sont préfinancées par la commune et sont récupérées auprès des initiateurs des projets d’aménagement particulier «nouveau quartier» dans le cadre de la convention prévue à l’article 36.
 
 Un règlement grand-ducal précise le contenu de l’étude préparatoire.
 
@@ -167,7 +167,7 @@ Contenu du plan d’aménagement général
 
 Le plan d’aménagement général d’une commune se compose d’une partie écrite et d’une partie graphique qui se complètent réciproquement.
 
-L’échelle du plan d’aménagement général, le contenu de ses parties graphique et écrite, notamment les définitions des diverses zones, le mode et degré d’utilisation du sol, les exigences en termes de détermination du nombre d’emplacements de stationnement et le pictogramme de la légende-type correspondante, sont arrêtés par règlement grand-ducal.
+L’échelle du plan d’aménagement général, le contenu de ses parties graphique et écrite, notamment les définitions des diverses zones, le mode et degré d’utilisation du sol , les exigences en termes de détermination du nombre d’emplacements de stationnement et le pictogramme de la légende-type correspondante, sont arrêtés par règlement grand-ducal.
 
 Tout plan d’aménagement général est accompagné d’une fiche de présentation résumant les orientations fondamentales.
 
@@ -482,13 +482,13 @@ Les logements abordables visés au paragraphe 2 constituent des logements destin
 
 Ne déclenche pas l’application du mécanisme prévu au présent article, la construction de logements situés dans les :
 
-1. structures médicales ou paramédicales ;
+- structures médicales ou paramédicales ;
 
-2. structures d’hébergement pour personnes âgées et centres de jour pour personnes âgées au sens de la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées ;
+- structures d’hébergement pour personnes âgées et centres de jour pour personnes âgées au sens de la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées ;
 
-3. structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale, de réfugiés, de personnes pouvant bénéficier de la protection subsidiaire et de personnes pouvant bénéficier de la protection temporaire ;
+- structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale, de réfugiés, de personnes pouvant bénéficier de la protection subsidiaire et de personnes pouvant bénéficier de la protection temporaire ;
 
-4. internats.
+- internats.
 
 (2)
 
@@ -498,11 +498,11 @@ Pour chaque plan d’aménagement particulier « nouveau quartier », qui prévo
 
 Lorsque le plan d’aménagement particulier « nouveau quartier » couvre des fonds reclassés d’une zone autre qu’une zone d’habitation ou zone mixte en une zone d’habitation ou une zone mixte par une modification du plan d’aménagement général, la part de la surface construite brute de ces fonds à réserver à la réalisation de logements abordables est portée à 20 pour cent .
 
-1. à 20 pour cent si le plan d’aménagement particulier « nouveau quartier » prévoit un nombre de logements supérieur à 25 unités ;
+- à 20 pour cent si le plan d’aménagement particulier « nouveau quartier » prévoit un nombre de logements supérieur à 25 unités ;
 
-2. à 15 pour cent si le plan d’aménagement particulier « nouveau quartier » prévoit un nombre de logements entre 10 et 25 unités ;
+- à 15 pour cent si le plan d’aménagement particulier « nouveau quartier » prévoit un nombre de logements entre 10 et 25 unités ;
 
-3. à 10 pour cent si le plan d’aménagement particulier « nouveau quartier » prévoit un nombre de logements entre 5 et 9 unités.
+- à 10 pour cent si le plan d’aménagement particulier « nouveau quartier » prévoit un nombre de logements entre 5 et 9 unités.
 
 Le plan d’aménagement général donne des renseignements sur les fonds visés par l’alinéa 3, dont le contenu sera défini dans un règlement grand-ducal.
 
@@ -530,7 +530,7 @@ Le plan d’aménagement général ne doit pas être modifié conformément aux 
 
 Les modalités et la valeur de la cession des logements abordables, prévue au paragraphe 4, avec leur quote-part de fonds correspondante sont fixées dans une convention à établir entre le propriétaire et la commune, le cas échéant dans la convention d’exécution prévue à l’article 36. Les conventions précitées doivent également contenir les plans de réalisation des prédits logements ainsi qu’un cahier des charges définissant leur niveau de finition et d’équipement.
 
-La valeur de la cession des logements abordables tient compte du prix de réalisation, sans pouvoir dépasser les montants maximaux éligibles prévus à l’article 14 de la loi modifiée du 7 août 2023 relative au logement abordable, et la quote-part de fonds correspondante est cédée conformément au paragraphe 5 , alinéa 2 .
+La valeur de la cession des logements abordables tient compte du prix de réalisation , sans pouvoir dépasser les montants maximaux éligibles prévus à l’article 14 de la loi modifiée du 7 août 2023 relative au logement abordable, et la quote-part de fonds correspondante est cédée conformément au paragraphe 5 , alinéa 2 .
 
 Si les parties ne s’entendent pas sur la valeur des logements abordables à céder, elles désignent chacune un expert. Si les experts sont partagés, les parties font appel à un arbitre. En cas de désaccord sur l’arbitre, celui-ci est nommé par le président du tribunal d’arrondissement du lieu des fonds concernés.
 
@@ -848,11 +848,11 @@ On entend par zone de développement toute partie du territoire communal urbanis
 
 Avant de procéder à la création d’une zone de développement, le collège des bourgmestre et échevins procède à une étude qui devra tenir compte des critères et conditions suivants:
 
-1. l’état initial de la zone visée et de son environnement humain, social, économique, physique et naturel;
+- l’état initial de la zone visée et de son environnement humain, social, économique, physique et naturel;
 
-2. les besoins de la commune et des zones limitrophes notamment en matière d’habitat, de travail, de mobilité, de récréation et d’espaces verts;
+- les besoins de la commune et des zones limitrophes notamment en matière d’habitat, de travail, de mobilité, de récréation et d’espaces verts;
 
-3. la capacité d’insertion du ou des projets dans le tissu urbain, économique et social local existant.
+- la capacité d’insertion du ou des projets dans le tissu urbain, économique et social local existant.
 
 <a id="art-44"></a>
 ## Art. 44.
@@ -861,11 +861,11 @@ Déclaration
 
 Dans le cadre des objectifs définis aux articles 2 et 42 et des conclusions de l’étude réalisée conformément à l’article 43, le conseil communal peut procéder par déclaration à la création d’une zone de développement en tenant compte des critères suivants:
 
-1. la création de la zone de développement doit répondre à des besoins d’intérêt général, notamment pour faire face à des besoins croissants en matière de création de logements et d’emplois, pour permettre la réalisation d’équipements et d’installations publics ou pour permettre la mise en valeur de terrains désaffectés à usage industriel, urbain, militaire ou autre sur lesquels l’activité a cessé, quelle qu’en soit la cause;
+- la création de la zone de développement doit répondre à des besoins d’intérêt général, notamment pour faire face à des besoins croissants en matière de création de logements et d’emplois, pour permettre la réalisation d’équipements et d’installations publics ou pour permettre la mise en valeur de terrains désaffectés à usage industriel, urbain, militaire ou autre sur lesquels l’activité a cessé, quelle qu’en soit la cause;
 
-2. les mesures destinées à garantir la concrétisation de la zone de développement doivent pouvoir être réalisées dans un délai raisonnable;
+- les mesures destinées à garantir la concrétisation de la zone de développement doivent pouvoir être réalisées dans un délai raisonnable;
 
-3. la création de la zone de développement doit s’effectuer en tenant compte de manière équilibrée de l’intérêt général et des intérêts privés.
+- la création de la zone de développement doit s’effectuer en tenant compte de manière équilibrée de l’intérêt général et des intérêts privés.
 
 <a id="art-45"></a>
 ## Art. 45.
@@ -874,13 +874,13 @@ Justification
 
 Avec la déclaration de zone de développement la commune présente les documents suivants:
 
-1. un plan cadastral de la zone avec indication des sections et numéros cadastraux, des noms et adresses des propriétaires tels qu’ils sont inscrits au cadastre, des noms et adresses des ayants droit;
+- un plan cadastral de la zone avec indication des sections et numéros cadastraux, des noms et adresses des propriétaires tels qu’ils sont inscrits au cadastre, des noms et adresses des ayants droit;
 
-2. un mémoire explicatif des motifs de la déclaration de zone de développement avec indications des objectifs visés et des mesures projetées ainsi que des développements escomptés en matière d’habitat, de travail, de mobilité, de récréation et d’espaces verts;
+- un mémoire explicatif des motifs de la déclaration de zone de développement avec indications des objectifs visés et des mesures projetées ainsi que des développements escomptés en matière d’habitat, de travail, de mobilité, de récréation et d’espaces verts;
 
-3. un programme du déroulement de l’opération et en particulier un mémoire explicatif détaillé sur les travaux nécessaires;
+- un programme du déroulement de l’opération et en particulier un mémoire explicatif détaillé sur les travaux nécessaires;
 
-4. un mémoire précisant les mesures d’exécution retenues avec indication le cas échéant des propriétaires susceptibles de faire l’objet de mesures d’expropriation et désignation du titulaire du droit de préemption prévu à l’article 54.
+- un mémoire précisant les mesures d’exécution retenues avec indication le cas échéant des propriétaires susceptibles de faire l’objet de mesures d’expropriation et désignation du titulaire du droit de préemption prévu à l’article 54.
 
 <a id="art-46"></a>
 ## Art. 46.
@@ -997,33 +997,33 @@ Avant de procéder à la création d’une zone à restructurer, le collège des
 
 L’étude devra en outre tenir compte des éléments suivants:
 
-1. des conditions d’habitat et de travail ainsi que des conditions de sécurité, de salubrité et d’hygiène publiques des personnes habitant ou travaillant dans la zone en question, notamment:
+- des conditions d’habitat et de travail ainsi que des conditions de sécurité, de salubrité et d’hygiène publiques des personnes habitant ou travaillant dans la zone en question, notamment:
 
-1. l’éclairage, l’ensoleillement et l’aération des logements et lieux de travail,
+  - l’éclairage, l’ensoleillement et l’aération des logements et lieux de travail,
 
-2. le degré d’entretien respectivement de vétusté des bâtiments et équipements existants,
+  - le degré d’entretien respectivement de vétusté des bâtiments et équipements existants,
 
-3. l’accessibilité des terrains,
+  - l’accessibilité des terrains,
 
-4. les problèmes éventuels résultant du voisinage dans le quartier concerné des fonctions de logement et d’activités économiques,
+  - les problèmes éventuels résultant du voisinage dans le quartier concerné des fonctions de logement et d’activités économiques,
 
-5. le mode et le degré de l’utilisation des sols,
+  - le mode et le degré de l’utilisation des sols,
 
-6. l’impact éventuel des constructions et exploitations, respectivement d’installations ou d’infrastructures routières et ferroviaires sur le voisinage en ce qui concerne notamment le bruit, la pollution atmosphérique et les vibrations,
+  - l’impact éventuel des constructions et exploitations, respectivement d’installations ou d’infrastructures routières et ferroviaires sur le voisinage en ce qui concerne notamment le bruit, la pollution atmosphérique et les vibrations,
 
-7. les mesures de rénovation déjà appliquées,
+  - les mesures de rénovation déjà appliquées,
 
-8. la présence éventuelle d’éléments du patrimoine architectural.
+  - la présence éventuelle d’éléments du patrimoine architectural.
 
-2. de la fonctionnalité de la zone en ce qui concerne notamment:
+- de la fonctionnalité de la zone en ce qui concerne notamment:
 
-1. les problèmes de circulation,
+  - les problèmes de circulation,
 
-2. les possibilités de stationnement,
+  - les possibilités de stationnement,
 
-3. la situation économique de la zone ainsi que sa capacité de développement économique compte tenu de la situation économique communale, régionale voire nationale,
+  - la situation économique de la zone ainsi que sa capacité de développement économique compte tenu de la situation économique communale, régionale voire nationale,
 
-4. la viabilisation, l’aménagement d’espaces verts, d’équipements de sport et de loisirs ainsi que d’installations d’intérêts commun compte tenu de l’intérêt social et culturel du quartier pour les zones limitrophes.
+  - la viabilisation, l’aménagement d’espaces verts, d’équipements de sport et de loisirs ainsi que d’installations d’intérêts commun compte tenu de l’intérêt social et culturel du quartier pour les zones limitrophes.
 
 <a id="art-57"></a>
 ## Art. 57.
@@ -1333,15 +1333,15 @@ Après l’accomplissement de ces formalités, l’acte de remembrement est dres
 
 L’acte de remembrement est signé par le ministre ou son délégué. Il constate notamment:
 
-1. l’attribution des nouvelles parcelles avec leurs indications cadastrales, sur la base d’un plan de l’ancienne et de la nouvelle situation;
+- l’attribution des nouvelles parcelles avec leurs indications cadastrales, sur la base d’un plan de l’ancienne et de la nouvelle situation;
 
-2. la fixation des soultes et des indemnités pour plus-values ou moins-values;
+- la fixation des soultes et des indemnités pour plus-values ou moins-values;
 
-3. les dates et les conditions de l’entrée en jouissance des nouvelles parcelles, déterminées par le ministre;
+- les dates et les conditions de l’entrée en jouissance des nouvelles parcelles, déterminées par le ministre;
 
-4. le règlement des autres droits réels et personnels;
+- le règlement des autres droits réels et personnels;
 
-5. les conditions et délais dans lesquels a lieu le règlement des soultes, des indemnités et des frais incombant aux propriétaires dans le coût des travaux.
+- les conditions et délais dans lesquels a lieu le règlement des soultes, des indemnités et des frais incombant aux propriétaires dans le coût des travaux.
 
 L’acte de remembrement forme titre des droits de propriété et des autres droits réels et de créances qui y sont réglés.
 
@@ -1601,11 +1601,11 @@ Au lieu d’entamer la procédure d’expropriation, la commune peut percevoir d
 
 La commune est également autorisée à fixer la taxe dans les cas suivants:
 
-1. si les travaux d’infrastructure visés au premier alinéa ne sont pas achevés dans un délai de deux ans après le début des travaux; la commune peut toutefois, sur demande motivée respectivement du propriétaire du terrain ou de son mandataire, de l’emphytéote ou du superficiaire, accorder un délai supplémentaire unique de deux ans;
+- si les travaux d’infrastructure visés au premier alinéa ne sont pas achevés dans un délai de deux ans après le début des travaux; la commune peut toutefois, sur demande motivée respectivement du propriétaire du terrain ou de son mandataire, de l’emphytéote ou du superficiaire, accorder un délai supplémentaire unique de deux ans;
 
-2. aux terrains à bâtir pour lesquels une affectation à la construction a été ordonnée par le conseil communal, si dans les trois ans, suite à l’achèvement des travaux d’infrastructure visés au premier alinéa, le début des travaux de construction n’a pas eu lieu; le conseil communal peut toutefois, sur demande motivée respectivement du propriétaire du terrain, de l’emphytéote ou du superficiaire, accorder un délai supplémentaire unique de deux ans;
+- aux terrains à bâtir pour lesquels une affectation à la construction a été ordonnée par le conseil communal, si dans les trois ans, suite à l’achèvement des travaux d’infrastructure visés au premier alinéa, le début des travaux de construction n’a pas eu lieu; le conseil communal peut toutefois, sur demande motivée respectivement du propriétaire du terrain, de l’emphytéote ou du superficiaire, accorder un délai supplémentaire unique de deux ans;
 
-3. en cas de procédure d’expropriation, pendant toute la durée de la procédure.
+- en cas de procédure d’expropriation, pendant toute la durée de la procédure.
 
 En cas de cession des terrains visés à l’alinéa ci-avant, les délais de deux respectivement trois ans commencent à courir à partir de la date de la vente des terrains.
 
@@ -1724,7 +1724,30 @@ L’article 29bis, dans sa teneur avant l’entrée en vigueur de la loi du 27 j
 
 Dispositions modificatives
 
-Il est inséré dans le Titre II, Chapitre 8, de la loi communale modifiée du 13 décembre 1988 une section 5 libellée comme suit: Section 5. Du service technique Art. 99bis. Chaque commune de 10.000 habitants au moins est tenue d’avoir un service technique communal comprenant au moins un architecte ou un ingénieur diplômé qualifié en aménagement du territoire et en urbanisme occupé à plein temps ainsi qu’un ou plusieurs fonctionnaires communaux de la carrière de l’ingénieur technicien. Le service technique communal a pour mission de veiller à l’application de la loi concernant l’aménagement communal et le développement urbain, de ses règlements d’exécution et en particulier du règlement sur les bâtisses, les sites et les voies publiques. Il conseille à ces fins les communes dans l’application de la prédite loi en préparant et en contrôlant les aspects techniques des dossiers relatifs aux projets et plans d’aménagement en collaboration avec la personne qualifiée visée à l’alinéa 1 du présent article. Art. 99ter. Chaque commune de moins de 10.000 habitants peut décider d’avoir un architecte urbaniste affecté à son service technique. Deux ou trois communes peuvent décider, sous l’approbation du ministre de l’Intérieur, qu’elles ont un architecte ou un ingénieur diplômé qualifié en aménagement du territoire et en urbanisme en commun, occupé à plein temps, le tout selon les modalités de l’article 88 ci-dessus. Art. 99quater. Sans préjudice de l’obligation prévue à l’article 99 bis, chaque commune de 3.000 habitants au moins est tenue d’avoir au moins un fonctionnaire communal de la carrière de l’ingénieur technicien, chargé de la mission prévue à l’article 99 bis alinéa 2.
+Il est inséré dans le Titre II, Chapitre 8, de la loi communale modifiée du 13 décembre 1988 une section 5 libellée comme suit:
+
+##### Section 5. Du service technique
+
+<a id="art-99bis"></a>
+## Art. 99bis.
+
+Chaque commune de 10.000 habitants au moins est tenue d’avoir un service technique communal comprenant au moins un architecte ou un ingénieur diplômé qualifié en aménagement du territoire et en urbanisme occupé à plein temps ainsi qu’un ou plusieurs fonctionnaires communaux de la carrière de l’ingénieur technicien.
+
+Le service technique communal a pour mission de veiller à l’application de la loi concernant l’aménagement communal et le développement urbain, de ses règlements d’exécution et en particulier du règlement sur les bâtisses, les sites et les voies publiques.
+
+Il conseille à ces fins les communes dans l’application de la prédite loi en préparant et en contrôlant les aspects techniques des dossiers relatifs aux projets et plans d’aménagement en collaboration avec la personne qualifiée visée à l’alinéa 1 du présent article.
+
+<a id="art-99ter"></a>
+## Art. 99ter.
+
+Chaque commune de moins de 10.000 habitants peut décider d’avoir un architecte urbaniste affecté à son service technique.
+
+Deux ou trois communes peuvent décider, sous l’approbation du ministre de l’Intérieur, qu’elles ont un architecte ou un ingénieur diplômé qualifié en aménagement du territoire et en urbanisme en commun, occupé à plein temps, le tout selon les modalités de l’article 88 ci-dessus.
+
+<a id="art-99quater"></a>
+## Art. 99quater.
+
+Sans préjudice de l’obligation prévue à l’article 99 bis, chaque commune de 3.000 habitants au moins est tenue d’avoir au moins un fonctionnaire communal de la carrière de l’ingénieur technicien, chargé de la mission prévue à l’article 99 bis alinéa 2.
 
 ### Titre 10 Dispositions abrogatoires
 

@@ -41,7 +41,7 @@ Les médicaments détaillés répondant aux codes ATC et aux substances actives 
 
 (1)
 
-Les médicaments énumérésen annexe Ia sont destinés aux soins palliatifs et les médicaments énumérés en annexe Ib sont destinés aux soins urgents. des personnes hébergées dans un établissement relevant de la loi modifiée du 23 décembre 1998 portant création de deux établissements publics dénommés 1) Centres, Foyers et Services pour personnes âgées ; 2) Centres de gériatrie ou dans un établissement relevant de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique.
+Les médicaments énumérés en annexe Ia sont destinés aux soins palliatifs et les médicaments énumérés en annexe Ib sont destinés aux soins urgents. des personnes hébergées dans un établissement relevant de la loi modifiée du 23 décembre 1998 portant création de deux établissements publics dénommés 1) Centres, Foyers et Services pour personnes âgées ; 2) Centres de gériatrie ou dans un établissement relevant de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique.
 
 (2)
 

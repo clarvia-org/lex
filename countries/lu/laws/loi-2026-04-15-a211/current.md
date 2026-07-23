@@ -42,17 +42,17 @@ Le directeur peut être assisté de directeurs adjoints auxquels il peut délég
 
 L’Administration est chargée des missions suivantes :
 
-1. instruire les dossiers relatifs aux aides individuelles au logement ;
+- instruire les dossiers relatifs aux aides individuelles au logement ;
 
-2. assurer la mise en œuvre de textes législatifs et réglementaires en matière d’aides individuelles au logement et exécuter les décisions du ministre en cette matière ;
+- assurer la mise en œuvre de textes législatifs et réglementaires en matière d’aides individuelles au logement et exécuter les décisions du ministre en cette matière ;
 
-3. extraire de ses bases de données pour le ministre des données statistiques anonymisées nécessaires à la politique du logement ;
+- extraire de ses bases de données pour le ministre des données statistiques anonymisées nécessaires à la politique du logement ;
 
-4. participer à l’élaboration de la réglementation dans son domaine de compétence ;
+- participer à l’élaboration de la réglementation dans son domaine de compétence ;
 
-5. élaborer des propositions en matière d’aides individuelles au logement pour le ministre ;
+- élaborer des propositions en matière d’aides individuelles au logement pour le ministre ;
 
-6. assurer auprès du public ainsi que des acteurs publics et privés l’information et le conseil en matière d’aides individuelles au logement, à l’aide des moyens de communication et des technologies appropriés.
+- assurer auprès du public ainsi que des acteurs publics et privés l’information et le conseil en matière d’aides individuelles au logement, à l’aide des moyens de communication et des technologies appropriés.
 
 <a id="art-4"></a>
 ## Art. 4.

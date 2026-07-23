@@ -58,9 +58,9 @@ Dispositions spécifiques aux agents de la catégorie A (groupes A1 et A2)
 
 Dans la catégorie de traitement ou d’indemnité A, groupes de traitement ou d’indemnité A1 et A2, la période de service provisoire est réduite d’une durée maximale d’un an :
 
-1. pour l'agent en service provisoire ayant passé l’examen de fin de stage judiciaire ;
+- pour l'agent en service provisoire ayant passé l’examen de fin de stage judiciaire ;
 
-2. pour l'agent en service provisoire qui, en dehors des diplômes requis pour l’admission au service d'une commune, d'un syndicat de communes ou d'un établissement public placés sous la surveillance des communes est titulaire d’un diplôme universitaire supplémentaire dans une matière qui concerne spécialement la fonction ou l’emploi occupé.
+- pour l'agent en service provisoire qui, en dehors des diplômes requis pour l’admission au service d'une commune, d'un syndicat de communes ou d'un établissement public placés sous la surveillance des communes est titulaire d’un diplôme universitaire supplémentaire dans une matière qui concerne spécialement la fonction ou l’emploi occupé.
 
 Pour l'agent en service provisoire qui a acquis une formation pratique par une activité professionnelle correspondant à sa formation universitaire, autre que le stage judiciaire, exercée à plein temps, la réduction du service provisoire est calculée à raison d’un mois de réduction pour quatre mois d’activité professionnelle accomplis. Ne sont pas prises en compte les périodes de service inférieures à quatre mois.
 

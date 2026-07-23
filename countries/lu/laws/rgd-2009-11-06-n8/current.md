@@ -31,11 +31,11 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Sont soumises au dépôt légal en faveur de la Bibliothèque nationale les publications suivantes éditées sur le territoire national:
 
-1. les publications imprimées et graphiques à savoir les livres et brochures, les journaux et périodiques, les calendriers, les affiches, les cartes postales illustrées, les estampes et gravures, les programmes de spectacle et d'autres manifestations publiques, les cartes géographiques et plans, les partitions musicales, les chorégraphies, les pièces de théâtre, les publications en braille, les thèses, les travaux de candidature et autres mémoires de recherche ainsi que tout autre document imprimé et graphique ayant trait à la vie politique, économique, sociale, culturelle, scientifique, religieuse ou touristique du Grand-Duché de Luxembourg;
+- les publications imprimées et graphiques à savoir les livres et brochures, les journaux et périodiques, les calendriers, les affiches, les cartes postales illustrées, les estampes et gravures, les programmes de spectacle et d'autres manifestations publiques, les cartes géographiques et plans, les partitions musicales, les chorégraphies, les pièces de théâtre, les publications en braille, les thèses, les travaux de candidature et autres mémoires de recherche ainsi que tout autre document imprimé et graphique ayant trait à la vie politique, économique, sociale, culturelle, scientifique, religieuse ou touristique du Grand-Duché de Luxembourg;
 
-2. les publications numériques sur support matériel quelle que soit la nature de ce support, à savoir les publications visées au paragraphe précédent produites par un procédé autre que l'imprimerie, en ce compris les systèmes d'experts et autres produits de l'intelligence artificielle, les bases de données, les logiciels et progiciels;
+- les publications numériques sur support matériel quelle que soit la nature de ce support, à savoir les publications visées au paragraphe précédent produites par un procédé autre que l'imprimerie, en ce compris les systèmes d'experts et autres produits de l'intelligence artificielle, les bases de données, les logiciels et progiciels;
 
-3. les publications sans support matériel mises à disposition du public à travers un réseau électronique, notamment les sites et contenus Internet, ainsi que tous les signes, signaux, écrits, images, sons ou messages de toute nature, en ce compris toutes les publications visées aux deux paragraphes précédents.
+- les publications sans support matériel mises à disposition du public à travers un réseau électronique, notamment les sites et contenus Internet, ainsi que tous les signes, signaux, écrits, images, sons ou messages de toute nature, en ce compris toutes les publications visées aux deux paragraphes précédents.
 
 Les rééditions, adaptations, nouvelles versions et versions différentes et les traductions des publications telles que visées sont également soumises au dépôt légal.
 
@@ -57,11 +57,11 @@ Les publications suivantes ne sont pas visées par le dépôt légal, quel que s
 
 Est considérée comme éditée sur le territoire national:
 
-1. toute publication d'un éditeur, personne physique ou morale, ou de toute autre personne qui en tient lieu, ou à leur défaut, de tout imprimeur, producteur ou auteur, résidant ou ayant son siège au Grand-Duché de Luxembourg;
+- toute publication d'un éditeur, personne physique ou morale, ou de toute autre personne qui en tient lieu, ou à leur défaut, de tout imprimeur, producteur ou auteur, résidant ou ayant son siège au Grand-Duché de Luxembourg;
 
-2. toute publication d'un éditeur ou de toute autre personne qui en tient lieu, ou à leur défaut, de tout imprimeur, producteur ou auteur, résidant ou ayant son siège à l'étranger, réalisée au Grand-Duché de Luxembourg;
+- toute publication d'un éditeur ou de toute autre personne qui en tient lieu, ou à leur défaut, de tout imprimeur, producteur ou auteur, résidant ou ayant son siège à l'étranger, réalisée au Grand-Duché de Luxembourg;
 
-3. toute publication, toute thèse et tout mémoire de recherche dont la production a été soutenue par un organisme du secteur public au Luxembourg.
+- toute publication, toute thèse et tout mémoire de recherche dont la production a été soutenue par un organisme du secteur public au Luxembourg.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -142,9 +142,9 @@ La Bibliothèque nationale constitue annuellement la bibliographie nationale des
 
 Les documents audiovisuels et sonores et les oeuvres audiovisuelles multimédias suivants sont soumis au dépôt légal en faveur du Centre national de l'audiovisuel, ci-après appelé «CNA»:
 
-1. les documents audiovisuels et sonores et les oeuvres audiovisuelles multimédias produits sur quelque support que ce soit, à savoir les courts, moyens et longs métrages, les documentaires et fictions, les séries, les jeux et documents vidéo, les documents publicitaires ou promotionnels, les phonogrammes, les émissions de télévision et radiophoniques ainsi que tous les documents audiovisuels et sonores et les œuvres multimédias ayant trait à la vie politique, économique, sociale, culturelle, scientifique, religieuse, sportive ou touristique du Grand-Duché de Luxembourg;
+- les documents audiovisuels et sonores et les oeuvres audiovisuelles multimédias produits sur quelque support que ce soit, à savoir les courts, moyens et longs métrages, les documentaires et fictions, les séries, les jeux et documents vidéo, les documents publicitaires ou promotionnels, les phonogrammes, les émissions de télévision et radiophoniques ainsi que tous les documents audiovisuels et sonores et les œuvres multimédias ayant trait à la vie politique, économique, sociale, culturelle, scientifique, religieuse, sportive ou touristique du Grand-Duché de Luxembourg;
 
-2. les documents audiovisuels ou sonores et les oeuvres audiovisuelles multimédias tels qu'énumérés au paragraphe précédent, diffusés sans support matériel à travers un réseau d'ondes ou un réseau électronique, à savoir les sites et contenus Internet, ainsi que tous les signes, signaux, écrits, images, sons ou messages de toute nature.
+- les documents audiovisuels ou sonores et les oeuvres audiovisuelles multimédias tels qu'énumérés au paragraphe précédent, diffusés sans support matériel à travers un réseau d'ondes ou un réseau électronique, à savoir les sites et contenus Internet, ainsi que tous les signes, signaux, écrits, images, sons ou messages de toute nature.
 
 Sont exclues de l'obligation de dépôt les émissions de télévision ou radiophoniques dont la diffusion est destinée à un public essentiellement non-résident sauf si ces émissions sont diffusées sur base d'une licence luxembourgeoise accordée à l'opérateur assumant la responsabilité éditoriale de l'émission conformément à la loi modifiée du 21 juillet 1991 sur les médias électroniques .
 
@@ -155,11 +155,11 @@ Les rééditions, les adaptations, les versions restaurées, les nouvelles versi
 
 Sont à déposer les documents audiovisuels et sonores et les oeuvres multimédias produits sur le territoire national. Est considéré comme produit sur le territoire national:
 
-1. tout document et toute oeuvre produits ou co-produits par une personne physique ou morale résidant ou ayant son siège au Grand-Duché de Luxembourg;
+- tout document et toute oeuvre produits ou co-produits par une personne physique ou morale résidant ou ayant son siège au Grand-Duché de Luxembourg;
 
-2. tout document et toute oeuvre dont la production a été soutenue par l'Etat du Grand-Duché de Luxembourg;
+- tout document et toute oeuvre dont la production a été soutenue par l'Etat du Grand-Duché de Luxembourg;
 
-3. tout document et toute œuvre produits par une personne physique ou morale résidant ou ayant son siège à l’étranger, réalisés en tout ou en partie au Grand-Duché de Luxembourg.
+- tout document et toute œuvre produits par une personne physique ou morale résidant ou ayant son siège à l’étranger, réalisés en tout ou en partie au Grand-Duché de Luxembourg.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -171,49 +171,49 @@ La personne physique ou morale devant effectuer le dépôt légal est le product
 
 Le dépôt légal des documents audiovisuels et sonores et des œuvres audiovisuelles multimédias s’opère selon les modalités définies comme suit :
 
-1. Pour les documents audiovisuels, sont à déposer :
+- Pour les documents audiovisuels, sont à déposer :
 
-1. un négatif photochimique, ou à défaut, un élément intermédiaire photochimique, ou à défaut, une copie positive photochimique non sous-titrée, ou à défaut, une copie d’exploitation photochimique, ou à défaut, deux exemplaires physiques du document, s’ils existent ;
+  - un négatif photochimique, ou à défaut, un élément intermédiaire photochimique, ou à défaut, une copie positive photochimique non sous-titrée, ou à défaut, une copie d’exploitation photochimique, ou à défaut, deux exemplaires physiques du document, s’ils existent ;
 
-2. une copie numérique du master original ;
+  - une copie numérique du master original ;
 
-3. un exemplaire numérique de consultation ;
+  - un exemplaire numérique de consultation ;
 
-4. le matériel d’accompagnement, une fiche de renseignement portant sur les paramètres techniques et artistiques et sur la nature et la portée exacte des droits de propriété intellectuelle, tels que définis par le CNA.
+  - le matériel d’accompagnement, une fiche de renseignement portant sur les paramètres techniques et artistiques et sur la nature et la portée exacte des droits de propriété intellectuelle, tels que définis par le CNA.
 
-2. Pour les émissions de télévision, sont à déposer :
+- Pour les émissions de télévision, sont à déposer :
 
-1. une copie antenne ;
+  - une copie antenne ;
 
-2. une copie de la conduite d’antenne et
+  - une copie de la conduite d’antenne et
 
-3. le matériel d’accompagnement, une fiche de renseignement portant sur les paramètres techniques et artistiques et sur la nature et la portée exacte des droits de propriété intellectuelle, tels que définis par le CNA.
+  - le matériel d’accompagnement, une fiche de renseignement portant sur les paramètres techniques et artistiques et sur la nature et la portée exacte des droits de propriété intellectuelle, tels que définis par le CNA.
 
-3. Pour les documents sonores, sont à déposer :
+- Pour les documents sonores, sont à déposer :
 
-1. un exemplaire du document dans le format mis à disposition du public ;
+  - un exemplaire du document dans le format mis à disposition du public ;
 
-2. un exemplaire du fichier numérique ;
+  - un exemplaire du fichier numérique ;
 
-3. le matériel d’accompagnement, une fiche de renseignement portant sur les paramètres techniques et artistiques et sur la nature et la portée exacte des droits de propriété intellectuelle, tels que définis par le CNA.
+  - le matériel d’accompagnement, une fiche de renseignement portant sur les paramètres techniques et artistiques et sur la nature et la portée exacte des droits de propriété intellectuelle, tels que définis par le CNA.
 
-4. Pour les documents radiophoniques, sont à déposer :
+- Pour les documents radiophoniques, sont à déposer :
 
-1. un exemplaire du document radiophonique ;
+  - un exemplaire du document radiophonique ;
 
-2. une copie de la conduite d’antenne et
+  - une copie de la conduite d’antenne et
 
-3. une fiche de renseignement portant sur les paramètres techniques et artistiques et sur la nature et la portée exacte des droits de propriété intellectuelle, tels que définis par le CNA.
+  - une fiche de renseignement portant sur les paramètres techniques et artistiques et sur la nature et la portée exacte des droits de propriété intellectuelle, tels que définis par le CNA.
 
-5. Pour les œuvres audiovisuelles multimédias, sont à déposer :
+- Pour les œuvres audiovisuelles multimédias, sont à déposer :
 
-1. un exemplaire du document multimédia édité en version originale ;
+  - un exemplaire du document multimédia édité en version originale ;
 
-2. une copie numérique du master original ;
+  - une copie numérique du master original ;
 
-3. un exemplaire numérique de consultation ;
+  - un exemplaire numérique de consultation ;
 
-4. le matériel d’accompagnement, une fiche de renseignement portant sur les paramètres techniques et artistiques et sur la nature et la portée exacte des droits de propriété intellectuelle, tels que définis par le CNA.
+  - le matériel d’accompagnement, une fiche de renseignement portant sur les paramètres techniques et artistiques et sur la nature et la portée exacte des droits de propriété intellectuelle, tels que définis par le CNA.
 
 Les documents audiovisuels et sonores et les œuvres audiovisuelles multimédias à soumettre mentionnés ci-dessus doivent être déposés dans les formats déterminés par le CNA.
 

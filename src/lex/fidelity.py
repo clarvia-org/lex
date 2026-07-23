@@ -1,38 +1,88 @@
 """Offline Markdown ↔ retained-source fidelity checks.
 
-Catches silent projection bugs (empty articles, dropped lists, truncated bodies)
-that SHA-256 of the source file alone cannot detect.
+Primary gate: statutory word-token parity between retained source body and
+normalized Markdown. Fuzzy per-article ratios are intentionally not used —
+omitted legal prose must fail the check.
 """
 
 from __future__ import annotations
 
 import re
-from dataclasses import dataclass
+from collections import Counter
 from pathlib import Path
 
 from lxml import etree, html
 
 from lex.errors import ErrorCode, LexError
 from lex.frontmatter import parse_frontmatter
-from lex.markdown import normalize_anchor
 
 AKN_NS = "http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13"
 SCL_NS = "http://www.scl.lu"
 
-_BODY_CHILD_TAGS = frozenset({"alinea", "paragraph", "content", "p", "ol", "ul", "list", "table"})
-_SKIP_TAGS = frozenset({"JOLUXWork", "indexterms", "meta", "preface", "num", "heading"})
-_LIST_ITEM_RE = re.compile(r"^\s*(?:[-*]|\d+[.)]|[a-zA-Z][.)]|\([0-9a-zA-Z]+\))\s+\S")
+# Allow tiny structural noise (list markers already stripped; residual MD/XML
+# tokenization edge cases). Absolute legal target is ~0 omitted words.
+WORD_COUNT_MARGIN = 0.005
+WORD_RE = re.compile(r"\b[a-zA-ZÀ-ÿ0-9]+\b", re.UNICODE)
 
+_SKIP_TAGS = frozenset(
+    {
+        "meta",
+        "preface",
+        "toc",
+        "JOLUXWork",
+        "JOLUXComplexWork",
+        "JOLUXLegalResource",
+        "JOLUXExpression",
+        "JOLUXManifestation",
+        "indexterms",
+        "indexterm",
+        "jolux",
+        "rdf",
+        "label",
+    }
+)
 
-@dataclass(frozen=True)
-class ArticleInventory:
-    anchor: str
-    text_chars: int
-    list_items: int
+# Block-ish elements: insert a word boundary so article/paragraph edges are not glued.
+_BLOCK_BOUNDARY_TAGS = frozenset(
+    {
+        "article",
+        "paragraph",
+        "subparagraph",
+        "alinea",
+        "section",
+        "subsection",
+        "chapter",
+        "title",
+        "book",
+        "part",
+        "heading",
+        "num",
+        "content",
+        "p",
+        "li",
+        "ol",
+        "ul",
+        "list",
+        "point",
+        "table",
+        "tr",
+        "td",
+        "th",
+        "tocItem",
+        "authorialNote",
+        "wrapUp",
+        "intro",
+        "quotedStructure",
+        "subdivision",
+        "subchapter",
+        "subFlow",
+        "embeddedText",
+    }
+)
 
 
 def check_law_fidelity(md_path: Path, *, rel_path: str | Path | None = None) -> list[LexError]:
-    """Compare retained source structure/text mass to normalized Markdown bodies."""
+    """Fail when normalized Markdown omits statutory words present in retained source."""
     rel = rel_path if rel_path is not None else md_path
     text = md_path.read_text(encoding="utf-8")
     meta, body = parse_frontmatter(text)
@@ -46,9 +96,12 @@ def check_law_fidelity(md_path: Path, *, rel_path: str | Path | None = None) -> 
     suffix = source_path.suffix.lower()
     try:
         if suffix == ".xml":
-            source_articles = _inventory_xml(source_path.read_bytes())
+            source_words = xml_body_words(source_path.read_bytes())
         elif suffix in {".html", ".htm"}:
-            source_articles = _inventory_html(source_path.read_bytes())
+            source_words = html_body_words(source_path.read_bytes())
+            # Synthetic / non-Legilux HTML fixtures are outside the LU AKN contract.
+            if len(source_words) < 50:
+                return []
         else:
             return []
     except etree.XMLSyntaxError as exc:
@@ -60,244 +113,195 @@ def check_law_fidelity(md_path: Path, *, rel_path: str | Path | None = None) -> 
             )
         ]
 
-    md_articles = _inventory_markdown(body)
-    md_by_anchor = {item.anchor: item for item in md_articles}
-    errors: list[LexError] = []
-
-    for src in source_articles:
-        md = md_by_anchor.get(src.anchor)
-        if md is None:
-            errors.append(
-                LexError(
-                    ErrorCode.LEX_INVALID_DATA,
-                    rel,
-                    f"Fidelity: source article '{src.anchor}' missing from Markdown",
-                )
-            )
-            continue
-        if src.text_chars >= 80 and md.text_chars < 20:
-            errors.append(
-                LexError(
-                    ErrorCode.LEX_INVALID_DATA,
-                    rel,
-                    f"Fidelity: article '{src.anchor}' empty/near-empty in Markdown "
-                    f"(source≈{src.text_chars} chars, md={md.text_chars})",
-                )
-            )
-            continue
-        if src.text_chars >= 200 and md.text_chars < int(src.text_chars * 0.25):
-            errors.append(
-                LexError(
-                    ErrorCode.LEX_INVALID_DATA,
-                    rel,
-                    f"Fidelity: article '{src.anchor}' truncated in Markdown "
-                    f"(source≈{src.text_chars} chars, md={md.text_chars})",
-                )
-            )
-            continue
-        if src.list_items >= 3 and md.list_items < max(1, int(src.list_items * 0.3)):
-            # Require accompanying text loss so table-rendered lists do not false-fail.
-            if md.text_chars < max(40, int(src.text_chars * 0.5)):
-                errors.append(
-                    LexError(
-                        ErrorCode.LEX_INVALID_DATA,
-                        rel,
-                        f"Fidelity: article '{src.anchor}' lost list items "
-                        f"(source={src.list_items}, md={md.list_items})",
-                    )
-                )
-    return errors
+    md_words = markdown_body_words(body)
+    return _compare_word_streams(source_words, md_words, rel=rel)
 
 
-def _inventory_xml(content: bytes) -> list[ArticleInventory]:
+def xml_body_words(content: bytes) -> list[str]:
     parser = etree.XMLParser(huge_tree=True, recover=True)
     root = etree.fromstring(content, parser=parser)
-    articles = root.xpath(f"//*[local-name()='article' and namespace-uri()='{AKN_NS}']")
-    if not articles:
-        articles = root.xpath("//*[local-name()='article']")
-    out: list[ArticleInventory] = []
-    seen: set[str] = set()
-    for article in articles:
-        # Nested / quoted articles are not independent published provisions.
-        if _has_intervening_article_ancestor(article):
-            continue
-        # Attachments/components are outside akn:body and are not projected today.
-        if not _under_main_body(article):
-            continue
-        xml_id = article.get("id")
-        if not xml_id:
-            # Without an official @id, anchors collide across annexes; skip for mass checks.
-            continue
-        anchor = _normalize_xml_article_id(xml_id)
-        if not anchor or anchor in seen:
-            continue
-        seen.add(anchor)
-        text = _xml_article_text(article)
-        list_items = _xml_list_item_count(article)
-        out.append(ArticleInventory(anchor=anchor, text_chars=len(text), list_items=list_items))
-    return out
+    bodies = root.xpath(f"//*[local-name()='body' and namespace-uri()='{AKN_NS}']")
+    if not bodies:
+        bodies = root.xpath("//*[local-name()='body']")
+    if not bodies:
+        return []
+    return tokenize(_statutory_text(bodies[0]))
 
 
-def _under_main_body(el: etree._Element) -> bool:
-    parent = el.getparent()
-    while parent is not None:
-        tag = etree.QName(parent).localname
-        if tag == "body":
-            return True
-        if tag in {"attachments", "attachment", "components", "component"}:
-            return False
-        parent = parent.getparent()
-    return False
-
-
-def _has_intervening_article_ancestor(el: etree._Element) -> bool:
-    parent = el.getparent()
-    while parent is not None:
-        if etree.QName(parent).localname == "article":
-            return True
-        parent = parent.getparent()
-    return False
-
-
-def _xml_article_anchor(article: etree._Element) -> str:
-    xml_id = article.get("id")
-    if xml_id:
-        return _normalize_xml_article_id(xml_id)
-    num_el = article.find(f"{{{AKN_NS}}}num")
-    if num_el is not None:
-        num = " ".join("".join(num_el.itertext()).split())
-        if num:
-            return normalize_anchor(num)
-    return ""
-
-
-def _normalize_xml_article_id(xml_id: str) -> str:
-    lowered = xml_id.strip().lower()
-    trailing_marker = bool(re.search(r"[^a-z0-9]+$", lowered))
-    collapsed = re.sub(r"[^a-z0-9]+", "-", lowered).strip("-")
-    if trailing_marker and collapsed:
-        return f"{collapsed}-"
-    return collapsed
-
-
-def _xml_article_text(article: etree._Element) -> str:
-    chunks: list[str] = []
-    for child in article:
-        tag = etree.QName(child).localname
-        ns = etree.QName(child).namespace
-        if ns == SCL_NS or tag in _SKIP_TAGS or tag == "article":
-            continue
-        if tag in _BODY_CHILD_TAGS or tag in {
-            "paragraph",
-            "alinea",
-            "heading",
-            "section",
-            "subsection",
-            "chapter",
-            "title",
-            "book",
-            "part",
-        }:
-            chunks.append(_text_excluding_nested_articles(child))
-    return " ".join(" ".join(chunks).split())
-
-
-def _text_excluding_nested_articles(el: etree._Element) -> str:
-    parts: list[str] = []
-    if el.text:
-        parts.append(el.text)
-    for child in el:
-        if etree.QName(child).localname == "article":
-            if child.tail:
-                parts.append(child.tail)
-            continue
-        parts.append(_text_excluding_nested_articles(child))
-        if child.tail:
-            parts.append(child.tail)
-    return "".join(parts)
-
-
-def _xml_list_item_count(article: etree._Element) -> int:
-    count = 0
-    for el in article.iter():
-        if el is article:
-            continue
-        if _has_intervening_article(article, el):
-            continue
-        # Table-encoded Legilux lists are projected as tables, not md bullets.
-        if _inside_table(el):
-            continue
-        tag = etree.QName(el).localname
-        if tag in {"li", "point"}:
-            text = " ".join("".join(el.itertext()).split())
-            if text:
-                count += 1
-    return count
-
-
-def _inside_table(el: etree._Element) -> bool:
-    parent = el.getparent()
-    while parent is not None:
-        if etree.QName(parent).localname == "table":
-            return True
-        parent = parent.getparent()
-    return False
-
-
-def _has_intervening_article(root_article: etree._Element, el: etree._Element) -> bool:
-    parent = el.getparent()
-    while parent is not None and parent is not root_article:
-        if etree.QName(parent).localname == "article":
-            return True
-        parent = parent.getparent()
-    return False
-
-
-def _inventory_html(content: bytes) -> list[ArticleInventory]:
+def html_body_words(content: bytes) -> list[str]:
     try:
         doc = etree.fromstring(content)
     except etree.XMLSyntaxError:
         doc = html.fromstring(content)
     articles = doc.xpath("//*[local-name()='div' and contains(@class,'richtext_article')]")
-    out: list[ArticleInventory] = []
-    for article in articles:
-        raw_id = article.get("id") or ""
-        anchor = normalize_anchor(raw_id) if raw_id else ""
-        if not anchor:
+    if not articles:
+        return tokenize(_statutory_text(doc))
+    parts = [_statutory_text(article) for article in articles]
+    return tokenize(" ".join(parts))
+
+
+def markdown_body_words(body: str) -> list[str]:
+    lines_out: list[str] = []
+    skipped_title = False
+    for line in body.splitlines():
+        stripped = line.strip()
+        if not skipped_title and stripped.startswith("# "):
+            # Main document title — not part of akn:body comparison.
+            skipped_title = True
             continue
-        # Exclude num_article paragraphs from mass? include all visible text under alineas.
-        text_chunks: list[str] = []
-        list_items = 0
-        for alinea in article.xpath(
-            ".//*[local-name()='div' and contains(@class,'richtext_alinea')]"
-        ):
-            text_chunks.append("".join(alinea.itertext()))
-            list_items += len(alinea.xpath(".//*[local-name()='li']")) + len(
-                alinea.xpath(".//*[local-name()='tr' and contains(@class,'richtext_elementLI')]")
-            )
-        text = " ".join(" ".join(text_chunks).split())
-        out.append(ArticleInventory(anchor=anchor, text_chars=len(text), list_items=list_items))
+        if re.fullmatch(r'<a\s+id="[^"]*"></a>', stripped):
+            continue
+        stripped = re.sub(r"^#{1,6}\s+", "", stripped)
+        # Strip only bullet markers we invent; keep real numerals from source.
+        stripped = re.sub(r"^[-*+]\s+", "", stripped)
+        stripped = stripped.replace("|", " ")
+        lines_out.append(stripped)
+    return tokenize("\n".join(lines_out))
+
+
+def tokenize(text: str) -> list[str]:
+    words = WORD_RE.findall(text.casefold())
+    words = _split_alpha_digit_runs(words)
+    return _merge_ordinal_splits(words)
+
+
+def _split_alpha_digit_runs(words: list[str]) -> list[str]:
+    """Split ``m3`` / ``5verre`` so unit and numeral tokens align across XML/MD."""
+    out: list[str] = []
+    for word in words:
+        parts = re.findall(r"[a-zà-ÿ]+|\d+", word, flags=re.IGNORECASE)
+        if parts:
+            out.extend(part.casefold() for part in parts)
+        else:
+            out.append(word)
     return out
 
 
-def _inventory_markdown(body: str) -> list[ArticleInventory]:
-    out: list[ArticleInventory] = []
-    matches = list(re.finditer(r'<a\s+id="([^"]+)"></a>', body))
-    for i, match in enumerate(matches):
-        anchor = match.group(1)
-        start = match.end()
-        end = matches[i + 1].start() if i + 1 < len(matches) else len(body)
-        section = body[start:end]
-        lines = section.splitlines()
-        body_lines: list[str] = []
-        seen_heading = False
-        for line in lines:
-            if not seen_heading:
-                if line.startswith("#"):
-                    seen_heading = True
+def _merge_ordinal_splits(words: list[str]) -> list[str]:
+    """Merge ``1``+``er`` / ``32``+``bis`` splits so XML/MD tokenization aligns."""
+    suffixes = frozenset(
+        {
+            "er",
+            "re",
+            "e",
+            "ème",
+            "eme",
+            "èmes",
+            "emes",
+            "bis",
+            "ter",
+            "quater",
+            "quinquies",
+            "sexies",
+            "ère",
+            "ere",
+            "ères",
+            "eres",
+        }
+    )
+    out: list[str] = []
+    i = 0
+    while i < len(words):
+        if i + 1 < len(words) and words[i].isdigit() and words[i + 1] in suffixes:
+            out.append(words[i] + words[i + 1])
+            i += 2
+            continue
+        out.append(words[i])
+        i += 1
+    return out
+
+
+# Inline wrappers: keep text glued (``1``+``er``, ``ij``+``a``). Space only at
+# non-inline element edges so parent text does not merge with nested blocks.
+_INLINE_TEXT_TAGS = frozenset(
+    {
+        "a",
+        "abbr",
+        "b",
+        "del",
+        "em",
+        "embeddedText",
+        "i",
+        "inline",
+        "ins",
+        "ref",
+        "s",
+        "small",
+        "span",
+        "strong",
+        "sub",
+        "sup",
+        "u",
+    }
+)
+
+
+def _statutory_text(element: etree._Element) -> str:
+    """Concatenate descendant text with spaces at block edges only.
+
+    Inline wrappers (sup/b/i/ref/…) stay glued so ``1``+``er`` → ``1er``.
+    Block edges get a space so ``… et`` + nested ``sections…`` do not become
+    ``etsections``, and ``…finales`` + ``Art.`` do not become ``finalesart``.
+    """
+    parts: list[str] = []
+
+    def walk(node: etree._Element) -> None:
+        qname = etree.QName(node)
+        if qname.namespace == SCL_NS or qname.localname in _SKIP_TAGS:
+            return
+        if node.text:
+            parts.append(node.text)
+        for child in node:
+            if not isinstance(child.tag, str):
                 continue
-            body_lines.append(line)
-        text = " ".join(" ".join(body_lines).split())
-        list_items = sum(1 for line in body_lines if _LIST_ITEM_RE.match(line))
-        out.append(ArticleInventory(anchor=anchor, text_chars=len(text), list_items=list_items))
-    return out
+            child_tag = etree.QName(child).localname
+            if child_tag not in _INLINE_TEXT_TAGS:
+                parts.append(" ")
+            walk(child)
+            if child.tail:
+                if child_tag not in _INLINE_TEXT_TAGS:
+                    parts.append(" ")
+                parts.append(child.tail)
+
+    walk(element)
+    return " ".join("".join(parts).split()).replace("\u200b", "").replace("\ufeff", "").strip()
+
+
+def _compare_word_streams(
+    source_words: list[str],
+    md_words: list[str],
+    *,
+    rel: str | Path,
+) -> list[LexError]:
+    """Fail when Markdown omits >0.5% of source statutory word tokens.
+
+    Compares the full token multiset (letters and digits). List markers are
+    stripped on the Markdown side and must not be invented by the adapter.
+    """
+    if not source_words:
+        return []
+    src_n = len(source_words)
+    md_n = len(md_words)
+    src_counts = Counter(source_words)
+    md_counts = Counter(md_words)
+    missing = src_counts - md_counts
+    extra = md_counts - src_counts
+    missing_n = sum(missing.values())
+    extra_n = sum(extra.values())
+    omission_ratio = missing_n / src_n
+    if omission_ratio <= WORD_COUNT_MARGIN:
+        return []
+
+    top_missing = ", ".join(f"{w}×{c}" for w, c in missing.most_common(8)) or "—"
+    top_extra = ", ".join(f"{w}×{c}" for w, c in extra.most_common(5)) or "—"
+    return [
+        LexError(
+            ErrorCode.LEX_INVALID_DATA,
+            rel,
+            "Fidelity: statutory word parity failed "
+            f"(source={src_n} words, md={md_n}, "
+            f"missing_tokens={missing_n} ({omission_ratio:.2%}), "
+            f"extra_tokens={extra_n}; "
+            f"top_missing=[{top_missing}]; top_extra=[{top_extra}])",
+        )
+    ]

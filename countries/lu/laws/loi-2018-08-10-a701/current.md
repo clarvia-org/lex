@@ -38,45 +38,45 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 L'Administration de l'enregistrement, des domaines et de la TVA, désignée ci-après par le terme « Administration », a dans ses attributions l'exécution de la législation relative aux matières ci-après, sans préjudice des dispositions légales et réglementaires fixant les attributions d'autres organes et établissements publics de l'État :
 
-1. En matière de fiscalité indirecte,
+- En matière de fiscalité indirecte,
 
-1. les impôts, droits et taxes assis sur la circulation juridique des biens et frappant notamment :
+  - les impôts, droits et taxes assis sur la circulation juridique des biens et frappant notamment :
 
-1. les actes et mutations entre vifs ;
+    - les actes et mutations entre vifs ;
 
-2. les successions et mutations par décès ;
+    - les successions et mutations par décès ;
 
-3. la consolidation de la propriété et les sûretés hypothécaires ;
+    - la consolidation de la propriété et les sûretés hypothécaires ;
 
-4. les organismes de placement collectif, les fonds d'investissement spécialisés, les fonds d'investissement alternatifs réservés et les sociétés de gestion de patrimoine familial ;
+    - les organismes de placement collectif, les fonds d'investissement spécialisés, les fonds d'investissement alternatifs réservés et les sociétés de gestion de patrimoine familial ;
 
-2. la taxe sur la valeur ajoutée (TVA) ;
+  - la taxe sur la valeur ajoutée (TVA) ;
 
-3. l'impôt sur les assurances, l'impôt dans l'intérêt du service d'incendie et l'impôt dans l'intérêt des services de secours ;
+  - l'impôt sur les assurances, l'impôt dans l'intérêt du service d'incendie et l'impôt dans l'intérêt des services de secours ;
 
-4. la contribution du timbre fiscal et la gestion du magasin du timbre.
+  - la contribution du timbre fiscal et la gestion du magasin du timbre.
 
-2. En matière domaniale, la confection des actes administratifs de l'État, l'administration des propriétés de l'État et le recouvrement des droits et revenus domaniaux de toute espèce.
+- En matière domaniale, la confection des actes administratifs de l'État, l'administration des propriétés de l'État et le recouvrement des droits et revenus domaniaux de toute espèce.
 
-3. En matière hypothécaire,
+- En matière hypothécaire,
 
-1. le service de la publicité hypothécaire ;
+  - le service de la publicité hypothécaire ;
 
-2. le service de l'immatriculation des bateaux de navigation intérieure et des hypothèques fluviales ;
+  - le service de l'immatriculation des bateaux de navigation intérieure et des hypothèques fluviales ;
 
-3. le service de la publicité des hypothèques aériennes et maritimes.
+  - le service de la publicité des hypothèques aériennes et maritimes.
 
-4. La gestion du registre des dispositions de dernière volonté et du système d'échange d'informations dans le cadre de l'association du réseau européen des registres testamentaires.
+- La gestion du registre des dispositions de dernière volonté et du système d'échange d'informations dans le cadre de l'association du réseau européen des registres testamentaires.
 
-5. L'exercice de la mission de surveillance et de contrôle dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme , ainsi que de la surveillance des mesures restrictives en matière financière prises à l’endroit des personnes qui relèvent de la compétence de l’Administration .
+- L'exercice de la mission de surveillance et de contrôle dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme , ainsi que de la surveillance des mesures restrictives en matière financière prises à l’endroit des personnes qui relèvent de la compétence de l’Administration .
 
 (2)
 
 L'Administration prête son concours aux opérations ci-après :
 
-1. le recouvrement des amendes, des frais de justice et des confiscations en matière pénale ;
+- le recouvrement des amendes, des frais de justice et des confiscations en matière pénale ;
 
-2. la surveillance en ce qui concerne les obligations des notaires, des huissiers de justice et des marchands de biens.
+- la surveillance en ce qui concerne les obligations des notaires, des huissiers de justice et des marchands de biens.
 
 (3)
 
@@ -104,25 +104,25 @@ Le cadre du personnel comprend un directeur, quatre directeurs adjoints et des f
 
 Sans préjudice de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État, les titres ci-après peuvent être accordés, par arrêté ministériel, aux fonctionnaires de l'Administration :
 
-1. chef de service ;
+- chef de service ;
 
-2. chef de service adjoint ;
+- chef de service adjoint ;
 
-3. auditeur ;
+- auditeur ;
 
-4. préposé ;
+- préposé ;
 
-5. préposé adjoint ;
+- préposé adjoint ;
 
-6. receveur ;
+- receveur ;
 
-7. receveur adjoint ;
+- receveur adjoint ;
 
-8. agent des poursuites ;
+- agent des poursuites ;
 
-9. responsable du service des poursuites ;
+- responsable du service des poursuites ;
 
-10. garde-magasin du timbre.
+- garde-magasin du timbre.
 
 #### Chapitre 2 La direction
 
@@ -189,11 +189,11 @@ La recette des droits à percevoir sur les actes à enregistrer et les déclarat
 
 Le service de la taxe sur la valeur ajoutée et des impôts sur les assurances comprend trois sections :
 
-1. la section d'assiette et de surveillance de la taxe sur la valeur ajoutée et des impôts sur les assurances ;
+- la section d'assiette et de surveillance de la taxe sur la valeur ajoutée et des impôts sur les assurances ;
 
-2. la section de contrôle, dénommée « service anti-fraude » ;
+- la section de contrôle, dénommée « service anti-fraude » ;
 
-3. la recette centrale.
+- la recette centrale.
 
 (2)
 
@@ -303,7 +303,9 @@ Sans préjudice des dispositions particulières, les procès-verbaux et les rapp
 <a id="art-15"></a>
 ## Art. 15.
 
-L'article 64, alinéa 1er de la loi modifiée du 22 frimaire an VII organique de l'enregistrement prend la teneur suivante : Le premier acte de poursuite pour le recouvrement des droits d'enregistrement, de succession et de mutation par décès, d'hypothèque et de timbre ainsi que le paiement des peines et amendes prononcées sur base des dispositions légales régissant les droits précités sera une contrainte, décernée par le receveur du bureau d'enregistrement et de recette. Elle sera visée et déclarée exécutoire par le directeur de l'Administration de l'enregistrement, des domaines et de la TVA ou son délégué, et elle sera signifiée par envoi recommandé ou par exploit d'huissier de justice.
+L'article 64, alinéa 1er de la loi modifiée du 22 frimaire an VII organique de l'enregistrement prend la teneur suivante :
+
+Le premier acte de poursuite pour le recouvrement des droits d'enregistrement, de succession et de mutation par décès, d'hypothèque et de timbre ainsi que le paiement des peines et amendes prononcées sur base des dispositions légales régissant les droits précités sera une contrainte, décernée par le receveur du bureau d'enregistrement et de recette. Elle sera visée et déclarée exécutoire par le directeur de l'Administration de l'enregistrement, des domaines et de la TVA ou son délégué, et elle sera signifiée par envoi recommandé ou par exploit d'huissier de justice.
 
 #### Chapitre 11 Modification de la loi modifiée d u 28 janvier 1948 tendant à assurer la justeet exacte perception des droits d'enregistrement et de succession
 
@@ -331,9 +333,9 @@ Les modifications suivantes sont apportées à la loi modifiée du 25 mars 2015 
 
 À l'annexe A - « Classification des fonctions », la rubrique « Administration générale », catégorie de traitement A, groupe de traitement A1, sous-groupe à attributions particulières, est modifiée et complétée comme suit :
 
-1. Au grade 17, les mots directeur adjoint de l'administration de l'enregistrement, des domaines et de la TVA sont ajoutés après les mots directeur adjoint de la santé, .
+- Au grade 17, les mots directeur adjoint de l'administration de l'enregistrement, des domaines et de la TVA sont ajoutés après les mots directeur adjoint de la santé, .
 
-2. Au grade 18, les mots directeur de l'Administration de l'enregistrement et des domaines sont remplacés par les mots directeur de l'Administration de l'enregistrement, des domaines et de la TVA .
+- Au grade 18, les mots directeur de l'Administration de l'enregistrement et des domaines sont remplacés par les mots directeur de l'Administration de l'enregistrement, des domaines et de la TVA .
 
 #### Chapitre 13 Dispositions abrogatoires et finales
 

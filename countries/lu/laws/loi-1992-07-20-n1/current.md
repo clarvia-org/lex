@@ -96,13 +96,13 @@ Une matière biologique isolée de son environnement naturel ou produite à l'ai
 
 Ne sont pas considérés comme des inventions au sens du paragraphe 1er notamment:
 
-1. les découvertes ainsi que les théories scientifiques et les méthodes mathématiques;
+- les découvertes ainsi que les théories scientifiques et les méthodes mathématiques;
 
-2. les créations esthétiques;
+- les créations esthétiques;
 
-3. les plans, principes et méthodes dans l'exercice d'activités intellectuelles, en matière de jeu ou dans le domaine des activités économiques, ainsi que les programmes d'ordinateurs;
+- les plans, principes et méthodes dans l'exercice d'activités intellectuelles, en matière de jeu ou dans le domaine des activités économiques, ainsi que les programmes d'ordinateurs;
 
-4. les présentations d'informations.
+- les présentations d'informations.
 
 3.
 
@@ -125,13 +125,13 @@ Ne sont pas brevetables les inventions dont l'exploitation commerciale serait co
 
 Au titre du paragraphe 1er ne sont notamment pas brevetables:
 
-1. les procédés de clonage des êtres humains;
+- les procédés de clonage des êtres humains;
 
-2. les procédés de modification de l'identité génétique germinale de l'être humain;
+- les procédés de modification de l'identité génétique germinale de l'être humain;
 
-3. les utilisations d'embryons humains à des fins industrielles ou commerciales;
+- les utilisations d'embryons humains à des fins industrielles ou commerciales;
 
-4. les procédés de modification de l'identité génétique des animaux de nature à provoquer chez eux des souffrances sans utilité médicale substantielle pour l'homme ou l'animal, ainsi que les animaux issus de tels procédés.
+- les procédés de modification de l'identité génétique des animaux de nature à provoquer chez eux des souffrances sans utilité médicale substantielle pour l'homme ou l'animal, ainsi que les animaux issus de tels procédés.
 
 <a id="art-5bis"></a>
 ## Art. 5bis.
@@ -140,9 +140,9 @@ Au titre du paragraphe 1er ne sont notamment pas brevetables:
 
 Ne sont pas brevetables:
 
-1. les variétés végétales et les races animales;
+- les variétés végétales et les races animales;
 
-2. les procédés essentiellement biologiques pour l'obtention de végétaux ou d'animaux.
+- les procédés essentiellement biologiques pour l'obtention de végétaux ou d'animaux.
 
 2.
 
@@ -197,9 +197,9 @@ Divulgations non opposables
 
 Pour l'application de l'article 6, une divulgation de l'invention n'est pas prise en considération si elle n'est pas intervenue plus tôt que six mois avant le dépôt de la demande de brevet et si elle résulte directement ou indirectement:
 
-1. d'un abus évident à l'égard du demandeur ou de son prédécesseur en droit ou
+- d'un abus évident à l'égard du demandeur ou de son prédécesseur en droit ou
 
-2. du fait que le demandeur ou son prédécesseur en droit a exposé l'invention dans des expositions officielles ou officiellement reconnues au sens de la Convention concernant les expositions internationales, signée à Paris le 22 novembre 1928 et révisée en dernier lieu le 30 novembre 1972.
+- du fait que le demandeur ou son prédécesseur en droit a exposé l'invention dans des expositions officielles ou officiellement reconnues au sens de la Convention concernant les expositions internationales, signée à Paris le 22 novembre 1928 et révisée en dernier lieu le 30 novembre 1972.
 
 2.
 
@@ -289,25 +289,25 @@ Toute décision portant versement de rémunérations spéciales peut prévoir le
 
 En déterminant le montant de la rémunération spéciale revenant au salarié le tribunal prend en considération toutes les circonstances dans lesquelles l'invention a été faite, notamment:
 
-1. l'importance économique de l'invention et les conditions dans lesquelles le bénéfice notable a été réalisé;
+- l'importance économique de l'invention et les conditions dans lesquelles le bénéfice notable a été réalisé;
 
-2. la nature des tâches du salarié, son salaire et les autres avantages qu'il retire ou qu'il a retires de son emploi, de la mission inventive ou de l'invention;
+- la nature des tâches du salarié, son salaire et les autres avantages qu'il retire ou qu'il a retires de son emploi, de la mission inventive ou de l'invention;
 
-3. les efforts et le savoir-faire personnels du salarié dans la réalisation de l'invention;
+- les efforts et le savoir-faire personnels du salarié dans la réalisation de l'invention;
 
-4. les efforts et le savoir-faire qu'une autre personne a déployés conjointement avec le salarié en cause ainsi que l'assistance et les conseils fournis par d'autres salariés ne bénéficiant pas eux-mêmes de la qualité d'inventeur;
+- les efforts et le savoir-faire qu'une autre personne a déployés conjointement avec le salarié en cause ainsi que l'assistance et les conseils fournis par d'autres salariés ne bénéficiant pas eux-mêmes de la qualité d'inventeur;
 
-5. la contribution de l'employeur à la réalisation, au développement et à l'exploitation industrielle et commerciale de l'invention;
+- la contribution de l'employeur à la réalisation, au développement et à l'exploitation industrielle et commerciale de l'invention;
 
-6. la nature et les dimensions de l'entreprise.
+- la nature et les dimensions de l'entreprise.
 
 7.
 
 Sans préjudice de la loi du 9 mars 1987 ayant pour objet
 
-1. l'organisation de la recherche et du développement technologique dans le secteur public;
+- l'organisation de la recherche et du développement technologique dans le secteur public;
 
-2. le transfert de technologie et la coopération scientifique et technique entre tes entreprises et le secteur public, les dispositions du présent article sont également applicables aux agents de l'Etat, des collectivités publiques, des établissements publics ainsi que de toutes personnes murales de droit public.
+- le transfert de technologie et la coopération scientifique et technique entre tes entreprises et le secteur public, les dispositions du présent article sont également applicables aux agents de l'Etat, des collectivités publiques, des établissements publics ainsi que de toutes personnes murales de droit public.
 
 8.
 
@@ -332,11 +332,11 @@ Sous peine d'irrecvabilité, l'introduction d'une demande en justice fait l'obje
 
 Si une décision passée en force de chose jugée a reconnu le droit à l'obtention du brevet à une personne visée à l'article 12, paragraphe 1er, autre que le demandeur, et à condition que le brevet n'ait pas encore été délivré, cette personne peut, dans les trois mois après que la décision est passée en force de chose jugée:
 
-1. poursuivre aux lieu et place du demandeur, la procédure relative à la demande, en prenant cette demande à son compte;
+- poursuivre aux lieu et place du demandeur, la procédure relative à la demande, en prenant cette demande à son compte;
 
-2. déposer une nouvelle demande pour la même invention, et
+- déposer une nouvelle demande pour la même invention, et
 
-3. demander le rejet de la demande.
+- demander le rejet de la demande.
 
 3.
 
@@ -376,9 +376,9 @@ Lorsqu'un changement intégral de propriété d'un brevet est intervenu à la su
 
 Si, avant l'inscription de l'introduction de la demande en justice,
 
-1. le titulaire du brevet a exploité l'invention ou fait des préparatifs effectifs et sérieux à cette fin, ou si
+- le titulaire du brevet a exploité l'invention ou fait des préparatifs effectifs et sérieux à cette fin, ou si
 
-2. le titulaire d'une licence l'a obtenue et a exploité l'invention sur le territoire luxembourgeois ou fait des préparatifs effectifs et sérieux à cette fin,
+- le titulaire d'une licence l'a obtenue et a exploité l'invention sur le territoire luxembourgeois ou fait des préparatifs effectifs et sérieux à cette fin,
 
 il peut poursuivre cette exploitation, à condition de demander une licence non exclusive au nouveau titulaire inscrit au registre. Il dispose, pour ce faire, d'un délai de deux mois à compter de la décision judiciaire, dans le cas prévu sub a) et de quatre mois à compter de l'inscription de la décision au registre, dans le cas prévu sub b). La licence doit être concédée pour une période et à des conditions raisonnables.
 
@@ -419,15 +419,15 @@ Conditions auxquelles doit satisfaire la demande de brevet
 
 La demande de brevet doit contenir:
 
-1. une requête en délivrance d'un brevet;
+- une requête en délivrance d'un brevet;
 
-2. une description de l'invention;
+- une description de l'invention;
 
-3. une ou plusieurs revendications;
+- une ou plusieurs revendications;
 
-4. les dessins auxquels se réfèrent la description ou les revendications;
+- les dessins auxquels se réfèrent la description ou les revendications;
 
-5. un abrégé.
+- un abrégé.
 
 2.
 
@@ -437,19 +437,19 @@ La demande de brevet donne lieu au paiement de la taxe de dépôt et de la taxe 
 
 La demande doit satisfaire en outre aux conditions légales et réglementaires et notamment être complétée par
 
-1. une traduction en langue française ou allemande partant sur les revendications, lorsque celle-ci ne sont pas rédigées en langue française, allemande ou luxembourgeoise;
+- une traduction en langue française ou allemande partant sur les revendications, lorsque celle-ci ne sont pas rédigées en langue française, allemande ou luxembourgeoise;
 
-2. le cas échéant, la déclaration de priorité visée à l'article 27;
+- le cas échéant, la déclaration de priorité visée à l'article 27;
 
-3. la désignation de l'inventeur;
+- la désignation de l'inventeur;
 
-4. le cas échéant, la déclaration par laquelle l'inventeur s'oppose à la divulgation de son identité conformément à l'article 17;
+- le cas échéant, la déclaration par laquelle l'inventeur s'oppose à la divulgation de son identité conformément à l'article 17;
 
-5. à la demande du set-vice, si le demandeur n'est pas l'inventeur ou l'unique inventeur, une déclaration indiquant l'origine du droit au brevet;
+- à la demande du set-vice, si le demandeur n'est pas l'inventeur ou l'unique inventeur, une déclaration indiquant l'origine du droit au brevet;
 
-6. le cas échéant, la déclaration et l'attestation visées à 'article 7, paragraphe2;
+- le cas échéant, la déclaration et l'attestation visées à 'article 7, paragraphe2;
 
-7. la preuve du paiement des taxes visées au paragraphe 2 du présent article.
+- la preuve du paiement des taxes visées au paragraphe 2 du présent article.
 
 4.
 
@@ -466,11 +466,11 @@ Date de dépôt
 
 La date de dépôt de la demande est celle à laquelle le demandeur a produit les documents qui contiennent:
 
-1. une indication selon laquelle un brevet est demandé;
+- une indication selon laquelle un brevet est demandé;
 
-2. les indications qui permettent d'identifier le demandeur;
+- les indications qui permettent d'identifier le demandeur;
 
-3. une description et une ou plusieurs revendications rédigées en langue française, allemande, anglaise ou luxembourgeoise.
+- une description et une ou plusieurs revendications rédigées en langue française, allemande, anglaise ou luxembourgeoise.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -485,11 +485,11 @@ La demande de brevet ne peut concerner qu'une invention ou une pluralité d'inve
 
 Le paragraphe précédent est entendu comme permettant notamment d'inclure dans une même demande de brevet:
 
-1. outre une revendication indépendante pour un produit, une revendication indépendante pour un procédé conçu spécialement pour la fabrication de ce produit et une revendication indépendante pour une utilisation de ce produit, ou
+- outre une revendication indépendante pour un produit, une revendication indépendante pour un procédé conçu spécialement pour la fabrication de ce produit et une revendication indépendante pour une utilisation de ce produit, ou
 
-2. outre une revendication indépendante pour un procédé, une revendication indépendante pour un dispositif ou moyen spécialement conçu pour la mise en oeuvre de ce procédé, ou
+- outre une revendication indépendante pour un procédé, une revendication indépendante pour un dispositif ou moyen spécialement conçu pour la mise en oeuvre de ce procédé, ou
 
-3. outre une revendication indépendante pour un produit, une revendication indépendante pour un procédé conçu spécialement pour la fabrication de ce produit et une revendication indépendante pour un dispositif ou moyen spécialement conçu pour la mise en oeuvre de ce procédé.
+- outre une revendication indépendante pour un produit, une revendication indépendante pour un procédé conçu spécialement pour la fabrication de ce produit et une revendication indépendante pour un dispositif ou moyen spécialement conçu pour la mise en oeuvre de ce procédé.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -719,17 +719,17 @@ Recherche documentaire
 
 Dans un délai de 18 mois à compter de la date de dépôt de la demande de brevet ou, si une priorité a été revendiquée, à partir de la date de priorité, le déposant doit produire
 
-1. soit une requête en vue de l'établissement, par un 0rganisme international à désigner par arrêté grand-ducal, d'un rapport de recherche;
+- soit une requête en vue de l'établissement, par un 0rganisme international à désigner par arrêté grand-ducal, d'un rapport de recherche;
 
-2. soit un ou plusieurs rapports de recherche établis par un organisme international désigné par arrêté grand-ducal, pour autant que ces rapports sont basés sur une ou des demandes de brevet ou titre de propriété industrielle analogue accompagnés d'une copie certifiée conforme desdites demandes de brevet ou titre de propriété industrielle analogue, s'il s'agit de demandes étrangères ou régionales, ainsi que d'une traduction de celle-ci dans les cas prévus par le règlement grand-ducal;
+- soit un ou plusieurs rapports de recherche établis par un organisme international désigné par arrêté grand-ducal, pour autant que ces rapports sont basés sur une ou des demandes de brevet ou titre de propriété industrielle analogue accompagnés d'une copie certifiée conforme desdites demandes de brevet ou titre de propriété industrielle analogue, s'il s'agit de demandes étrangères ou régionales, ainsi que d'une traduction de celle-ci dans les cas prévus par le règlement grand-ducal;
 
-1. dont la ou les priorités sont revendiquées par la demande de brevet luxembourgeois, ou
+  - dont la ou les priorités sont revendiquées par la demande de brevet luxembourgeois, ou
 
-2. qui revendiquent la même ou les mêmes priorités que la demande de brevet luxembourgeois, ou
+  - qui revendiquent la même ou les mêmes priorités que la demande de brevet luxembourgeois, ou
 
-3. qui revendiquent la priorité de la demande de brevet luxembourgeois,
+  - qui revendiquent la priorité de la demande de brevet luxembourgeois,
 
-3. soit encore un rapport de recherche établi par un organisme international désigné par arrêté grand-ducal, pour autant que ce rapport est basé, directement sur le contenu de la demande de brevet luxembourgeois, objet de la recherche.
+- soit encore un rapport de recherche établi par un organisme international désigné par arrêté grand-ducal, pour autant que ce rapport est basé, directement sur le contenu de la demande de brevet luxembourgeois, objet de la recherche.
 
 1bis.
 
@@ -777,11 +777,11 @@ Modification des revendications, de la description et des dessins
 
 Le titulaire de la demande a le droit d'apporter des modifications aux revendications, à la description et aux dessins,
 
-1. une fois, soit jusqu'à l'introduction de la requête en vue de l'établissement du rapport de recherche, soit jusqu'à la réception par le service des pièces visées à l'article 35, paragraphe 1 er , litt. b) ou c)
+- une fois, soit jusqu'à l'introduction de la requête en vue de l'établissement du rapport de recherche, soit jusqu'à la réception par le service des pièces visées à l'article 35, paragraphe 1 er , litt. b) ou c)
 
-2. une fois, soit comme suite à la réception par le service des pièces visées à l'article 35, paragraphe 1 er litt. b) ou c), soit comme suite à la transmission au titulaire de la demande de brevet du rapport de recherche sollicité par celui-ci conformément à l'article 35 ,
+- une fois, soit comme suite à la réception par le service des pièces visées à l'article 35, paragraphe 1 er litt. b) ou c), soit comme suite à la transmission au titulaire de la demande de brevet du rapport de recherche sollicité par celui-ci conformément à l'article 35 ,
 
-3. une fois, en cas de dépôt d'une demande divisionnaire.
+- une fois, en cas de dépôt d'une demande divisionnaire.
 
 2.
 
@@ -829,9 +829,9 @@ Si l'instruction de la requête en vue de l'établissement d'un rapport de reche
 
 Si l'organisme chargé de l'établissement du rapport de recherche estime
 
-1. que la description, les revendications ou les dessins ne remplissent pas les conditions prescrites, dans une mesure telle qu'une recherche significative ne peut pas être effectuée, ou
+- que la description, les revendications ou les dessins ne remplissent pas les conditions prescrites, dans une mesure telle qu'une recherche significative ne peut pas être effectuée, ou
 
-2. que la demande de brevet concerne un objet ne répondant pas à la notion d'invention ou de matière brevetable ou à l'égard duquel il n'est pas tenu, pour d'autres raisons, de procéder à la recherche, et déclare qu'un rapport de recherche ne sera pas établi, le service transmet la déclaration y relative au demandeur, auquel il impartit un délai de quatre mois pour corriger les éléments défectueux de la demande de brevet par application de l'article 37 et renouveler la requête en vue de l'établissement du rapport de recherche.
+- que la demande de brevet concerne un objet ne répondant pas à la notion d'invention ou de matière brevetable ou à l'égard duquel il n'est pas tenu, pour d'autres raisons, de procéder à la recherche, et déclare qu'un rapport de recherche ne sera pas établi, le service transmet la déclaration y relative au demandeur, auquel il impartit un délai de quatre mois pour corriger les éléments défectueux de la demande de brevet par application de l'article 37 et renouveler la requête en vue de l'établissement du rapport de recherche.
 
 Si, après le renouvellement de la requête en vue de l'établissement du rapport de recherche, l'organisme international estime ne pas être en mesure de modifier ses conclusions au regard de la demande de brevet, telle que corrigée une première fois, le demandeur peut introduire une pétition par laquelle il sollicite d'emblée la délivrance de son brevet, ainsi qu'une brève justification de cette pétition. La pétition n'est recevable que sous la condition qu'elle soit remise avant l'expiration du nouveau délai imparti par le service conformément à l'alinéa 1er, pour autant toutefois que ce nouveau délai expire postérieurement au terme d'un délai à fixer par règlement grand-ducal ou, à défaut, postérieurement au terme du délai qui est visé à l'article 35, paragraphe 1er.
 
@@ -953,11 +953,11 @@ Interdiction de l'exploitation directe de l'invention
 
 Le brevet confère le droit d'interdire à tout tiers, en l'absence du consentement du titulaire du brevet:
 
-1. la fabrication, l'offre, la mise dans le commerce, l'utilisation ou bien l'importation ou la détention aux fins précitées du produit objet du brevet;
+- la fabrication, l'offre, la mise dans le commerce, l'utilisation ou bien l'importation ou la détention aux fins précitées du produit objet du brevet;
 
-2. l'utilisation d'un procédé objet du brevet ou, lorsque le tiers sait ou lorsque les circonstances rendent évident que l'utilisation du procédé est interdite sans le consentement du titulaire du brevet, l'offre de son utilisation sur le territoire luxembourgeois;
+- l'utilisation d'un procédé objet du brevet ou, lorsque le tiers sait ou lorsque les circonstances rendent évident que l'utilisation du procédé est interdite sans le consentement du titulaire du brevet, l'offre de son utilisation sur le territoire luxembourgeois;
 
-3. l'offre, la mise dans le commerce ou l'utilisation ou bien l'importation ou la détention aux fins précitées du produit obtenu directement par le procédé objet du brevet.
+- l'offre, la mise dans le commerce ou l'utilisation ou bien l'importation ou la détention aux fins précitées du produit obtenu directement par le procédé objet du brevet.
 
 <a id="art-46"></a>
 ## Art. 46.
@@ -983,17 +983,17 @@ Limitation des effets du brevet
 
 Les droits conférés par le brevet ne s'étendent pas:
 
-1. aux actes accomplis dans un cadre privé et à des fins non commerciales;
+- aux actes accomplis dans un cadre privé et à des fins non commerciales;
 
-2. aux actes accomplis à titre expérimental qui portent sur l'objet de l'invention brevetée;
+- aux actes accomplis à titre expérimental qui portent sur l'objet de l'invention brevetée;
 
-3. à la préparation de médicaments faite extemporanément et par unité dans les officines de pharmacie, sur ordonnance médicale ni aux actes concernant les médicaments ainsi préparés;
+- à la préparation de médicaments faite extemporanément et par unité dans les officines de pharmacie, sur ordonnance médicale ni aux actes concernant les médicaments ainsi préparés;
 
-4. à l'emploi, à bord des navires des pays de l'Union de Paris pour la protection de la propriété industrielle autre que le Luxembourg, de l'objet de l'invention brevetée, dans le corps du navire, dans les machines, agrès, apparaux et autres accessoires, lorsque ces navires pénètrent temporairement ou accidentellement dans les eaux du Luxembourg, sous réserve que ledit objet y soit employé exclusivement pour les besoins du navire;
+- à l'emploi, à bord des navires des pays de l'Union de Paris pour la protection de la propriété industrielle autre que le Luxembourg, de l'objet de l'invention brevetée, dans le corps du navire, dans les machines, agrès, apparaux et autres accessoires, lorsque ces navires pénètrent temporairement ou accidentellement dans les eaux du Luxembourg, sous réserve que ledit objet y soit employé exclusivement pour les besoins du navire;
 
-5. à l'emploi de l'objet de l'invention brevetée dans la construction ou le fonctionnement des engins de locomotion aérienne ou terrestre des pays de l'Union de Paris pour la protection de la propriété industrielle autre que le Luxembourg, ou des accessoires de ces engins, lorsque ceux-ci pénètrent temporairement ou accidentellement sur le territoire luxembourgeois;
+- à l'emploi de l'objet de l'invention brevetée dans la construction ou le fonctionnement des engins de locomotion aérienne ou terrestre des pays de l'Union de Paris pour la protection de la propriété industrielle autre que le Luxembourg, ou des accessoires de ces engins, lorsque ceux-ci pénètrent temporairement ou accidentellement sur le territoire luxembourgeois;
 
-6. aux actes prévus par l'article 27 de la Convention du 7 décembre 1944 relative à l'aviation civile internationale, lorsque ces actes concernent des aéronefs d'un Etat, autre que le Luxembourg, bénéficiant des dispositions de cet article.
+- aux actes prévus par l'article 27 de la Convention du 7 décembre 1944 relative à l'aviation civile internationale, lorsque ces actes concernent des aéronefs d'un Etat, autre que le Luxembourg, bénéficiant des dispositions de cet article.
 
 <a id="art-47bis"></a>
 ## Art. 47bis.
@@ -1107,9 +1107,9 @@ La demande de brevet ainsi que le brevet auquel elle a donné lieu sont réputé
 
 Sous réserve de l'application des principes relatifs soit aux recours en réparation du préjudice causé par la faute ou la mauvaise foi du titulaire du brevet, soit à l'enrichissement sans cause, l'effet rétroactif de la nullité du brevet n'affecte pas:
 
-1. les décisions en matière de contrefaçon passées en force de chose jugée et exécutées antérieurement à la décision de nullité;
+- les décisions en matière de contrefaçon passées en force de chose jugée et exécutées antérieurement à la décision de nullité;
 
-2. les contrats conclus antérieurement à la décision de nullité, dans la mesure où ils ont été exécutés antérieurement à cette décision; toutefois, la restitution de sommes versées en vertu du contrat peut être réclamée pour des raisons d'équité, dans la mesure où les circonstances le justifient.
+- les contrats conclus antérieurement à la décision de nullité, dans la mesure où ils ont été exécutés antérieurement à cette décision; toutefois, la restitution de sommes versées en vertu du contrat peut être réclamée pour des raisons d'équité, dans la mesure où les circonstances le justifient.
 
 ##### TITREVI - De la demande de brevet ou du brevet comme objet de propriété
 
@@ -1122,15 +1122,15 @@ Régime de copropriété
 
 La copropriété d'une demande de brevet ou d'un brevet est régie par les dispositions suivantes:
 
-1. Chacun des copropriétaires peut exploiter l'invention à son profit, sauf à indemniser équitablement les autres copropriétaires qui n'exploitent pas personnellement l'invention ou qui n'ont pas concédé de licence d'exploitation. A défaut d'accord amiable, cette indemnité est fixée par le tribunal.
+- Chacun des copropriétaires peut exploiter l'invention à son profit, sauf à indemniser équitablement les autres copropriétaires qui n'exploitent pas personnellement l'invention ou qui n'ont pas concédé de licence d'exploitation. A défaut d'accord amiable, cette indemnité est fixée par le tribunal.
 
-2. Chacun des copropriétaires peut agir en contrefaçon à son seul profit. Le copropriétaire qui agit en contre-façon doit notifier aux autres copropriétaires l'assignation donnée à sa requête; il est sursis à statuer sur l'action, tant qu'il n'est pas justifié de cette notification.
+- Chacun des copropriétaires peut agir en contrefaçon à son seul profit. Le copropriétaire qui agit en contre-façon doit notifier aux autres copropriétaires l'assignation donnée à sa requête; il est sursis à statuer sur l'action, tant qu'il n'est pas justifié de cette notification.
 
-3. Chacun des copropriétaires peut à son profit concéder à un tiers une licence d'exploitation non exclusive, sauf à indemniser équitablement les autres copropriétaires qui n'exploitent pas personnellement l'invention ou qui n'ont pas concédé de licence d'exploitation. A défaut d'accord amiable, cette indemnité est fixée par le tribunal. Toutefois, le projet de concession de licence doit être notifié aux autres copropriétaires accompagné d'une offre de cession de la quote-part à un prix déterminé. Dans les trois mois qui suivent cette notification, chacun des autres copropriétaires peut s'opposer à la concession à la condition de présenter l'offre d'acquérir la quote-part de celui qui désire accorder la licence. A défaut d'accord dans le délai prévu à l'alinéa précédent, le prix est fixé par le tribunal. Les parties disposent d'un délai d'un mois à compter de la signification du jugement ou, en cas d'appel, de l'arrêt à intervenir, pour renoncer à la concession de la licence ou à l'acquisition de la part de copropriété, le tout sans préjudice des dommages-intérêts qui peuvent être dus; les dépens sont mis à la charge de la partie qui renonce.
+- Chacun des copropriétaires peut à son profit concéder à un tiers une licence d'exploitation non exclusive, sauf à indemniser équitablement les autres copropriétaires qui n'exploitent pas personnellement l'invention ou qui n'ont pas concédé de licence d'exploitation. A défaut d'accord amiable, cette indemnité est fixée par le tribunal. Toutefois, le projet de concession de licence doit être notifié aux autres copropriétaires accompagné d'une offre de cession de la quote-part à un prix déterminé. Dans les trois mois qui suivent cette notification, chacun des autres copropriétaires peut s'opposer à la concession à la condition de présenter l'offre d'acquérir la quote-part de celui qui désire accorder la licence. A défaut d'accord dans le délai prévu à l'alinéa précédent, le prix est fixé par le tribunal. Les parties disposent d'un délai d'un mois à compter de la signification du jugement ou, en cas d'appel, de l'arrêt à intervenir, pour renoncer à la concession de la licence ou à l'acquisition de la part de copropriété, le tout sans préjudice des dommages-intérêts qui peuvent être dus; les dépens sont mis à la charge de la partie qui renonce.
 
-4. Une licence d'exploitation exclusive ne peut être accordée qu'avec l'accord de tous les copropriétaires ou par un seul copropriétaire sur autorisation de justice.
+- Une licence d'exploitation exclusive ne peut être accordée qu'avec l'accord de tous les copropriétaires ou par un seul copropriétaire sur autorisation de justice.
 
-5. Chaque copropriétaire peut, à tout moment, céder sa quote-part. Les copropriétaires disposent d'un droit de préemption pendant un délai de trois mois à compter de la notification du projet de cession. A défaut d'accord sur le prix, celui-ci est fixé par le tribunal. Les parties disposent d'un délai d'un mois à compter de la notification du jugement, ou, en cas d'appel, de l'arrêt, pour renoncer à la vente ou à l'achat de la part de copropriété sans préjudice des dommages-intérêts qui peuvent être dus; les dépens sont à la charge de la partie qui renonce.
+- Chaque copropriétaire peut, à tout moment, céder sa quote-part. Les copropriétaires disposent d'un droit de préemption pendant un délai de trois mois à compter de la notification du projet de cession. A défaut d'accord sur le prix, celui-ci est fixé par le tribunal. Les parties disposent d'un délai d'un mois à compter de la notification du jugement, ou, en cas d'appel, de l'arrêt, pour renoncer à la vente ou à l'achat de la part de copropriété sans préjudice des dommages-intérêts qui peuvent être dus; les dépens sont à la charge de la partie qui renonce.
 
 2.
 
@@ -1163,9 +1163,9 @@ Tous les faits et actes transmettant ou affectant les droits attachés à une de
 
 La notification au service doit être accompagnée:
 
-1. des pièces justificatives originales ou copies certifiées conformes de l'accomplissement des faits et actes visés au paragraphe 1 er ;
+- des pièces justificatives originales ou copies certifiées conformes de l'accomplissement des faits et actes visés au paragraphe 1 er ;
 
-2. de la preuve du paiement de la taxe administrative due pour l'inscription et la publication d'un tel fait ou acte.
+- de la preuve du paiement de la taxe administrative due pour l'inscription et la publication d'un tel fait ou acte.
 
 4.
 
@@ -1285,9 +1285,9 @@ Licence obligatoire
 
 Toute personne de droit public ou privé peut, à l'expiration d'un délai de trois ans après la délivrance d'un brevet, ou de quatre ans à compter de la date de dépôt de la demande de brevet, le délai qui expire le plus tard devant être pris en considération, obtenir une licence obligatoire de ce brevet, dans les conditions prévues aux articles suivants, si, au moment de la requête, et sauf excuses légitimes, le propriétaire du brevet ou son ayant cause:
 
-1. n'a pas commencé à exploiter ou fait des préparatifs effectifs et sérieux pour exploiter l'invention objet du brevet sur le territoire du Grand-Duché ou d'un autre Etat partie à l'Accord instituant l'OMC;
+- n'a pas commencé à exploiter ou fait des préparatifs effectifs et sérieux pour exploiter l'invention objet du brevet sur le territoire du Grand-Duché ou d'un autre Etat partie à l'Accord instituant l'OMC;
 
-2. n'a pas exploité l'invention objet du brevet de manière suffisante pour approvisionner le marché luxembourgeois.
+- n'a pas exploité l'invention objet du brevet de manière suffisante pour approvisionner le marché luxembourgeois.
 
 2.
 
@@ -1355,7 +1355,7 @@ Le brevet est soumis à un régime de licence d'office pour autant qu'un arrêt�
 
 2.
 
-Du jour de la publication de l'arrêté soumettant le brevet au régime de la licence d'office toute personne qualifiée peut demander au ministre l'octroi d'une licence d'exploitation. Cette licence, qui ne peut être que non exclusive, est accordée par arrêté du ministre à des conditions déterminées, en particulier quant à sa durée et son champ d'application, mais non quant aux redevances auxquelles elle donne lieu. La licence est accordée principalement pour l'approvisionnement du marché luxembourgeois. Elle prend effet à la date de la notification de l'arrêté aux parties.
+Du jour de la publication de l'arrêté soumettant le brevet au régime de la licence d'office toute personne qualifiée peut demander au ministre l'octroi d'une licence d'exploitation. Cette licence , qui ne peut être que non exclusive, est accordée par arrêté du ministre à des conditions déterminées, en particulier quant à sa durée et son champ d'application, mais non quant aux redevances auxquelles elle donne lieu. La licence est accordée principalement pour l'approvisionnement du marché luxembourgeois. Elle prend effet à la date de la notification de l'arrêté aux parties.
 
 3.
 
@@ -1498,15 +1498,15 @@ Causes de nullité du brevet
 
 La demande en nullité d'un brevet ne peut être fondée que sur les motifs selon lesquels:
 
-1. l'objet du brevet n'est pas brevetable aux termes des articles 4 à 9 de la présente loi;
+- l'objet du brevet n'est pas brevetable aux termes des articles 4 à 9 de la présente loi;
 
-2. le brevet n'expose pas l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter;
+- le brevet n'expose pas l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter;
 
-3. l'objet du brevet s'étend au-delà du contenu de la demande de brevet telle qu'elle a été déposée ou, lorsque le brevet a été délivré sur la base d'une demande divisionnaire ou d'une nouvelle demande de brevet déposée conformément aux dispositions de l'article 14, l'objet du brevet s'étend au-delà du contenu de la demande initiale telle qu'elle a été déposée;
+- l'objet du brevet s'étend au-delà du contenu de la demande de brevet telle qu'elle a été déposée ou, lorsque le brevet a été délivré sur la base d'une demande divisionnaire ou d'une nouvelle demande de brevet déposée conformément aux dispositions de l'article 14, l'objet du brevet s'étend au-delà du contenu de la demande initiale telle qu'elle a été déposée;
 
-4. la protection conférée par le brevet a été étendue;
+- la protection conférée par le brevet a été étendue;
 
-5. le titulaire du brevet n'avait pas le droit de l'obtenir aux termes de l'article 12.
+- le titulaire du brevet n'avait pas le droit de l'obtenir aux termes de l'article 12.
 
 2.
 
@@ -1613,9 +1613,9 @@ Sans préjudice des droits découlant du brevet ou de la demande de brevet penda
 
 Entre les dates visées au paragraphe précédent et le jour de la délivrance du brevet:
 
-1. le brevet n'est opposable que dans la mesure où les revendications n'ont pas été étendues après la première de ces dates;
+- le brevet n'est opposable que dans la mesure où les revendications n'ont pas été étendues après la première de ces dates;
 
-2. lorsque le brevet concerne l'utilisation d'un micro-organisme, il n'est opposable qu'à compter du jour où le micro-organisme est mis à la disposition du public.
+- lorsque le brevet concerne l'utilisation d'un micro-organisme, il n'est opposable qu'à compter du jour où le micro-organisme est mis à la disposition du public.
 
 3.
 
@@ -1649,9 +1649,9 @@ Si l’action en contrefaçon est reconnue fondée, la partie lésée a droit à
 
 La juridiction qui fixe les dommages et intérêts:
 
-1. prend en considération tous les aspects appropriés tels que les conséquences économiques négatives, notamment le manque à gagner, subies par la partie lésée, les bénéfices injustement réalisés par le contrevenant et, dans des cas appropriés, des éléments autres que des facteurs économiques, comme le préjudice moral causé au titulaire du droit du fait de l’atteinte,
+- prend en considération tous les aspects appropriés tels que les conséquences économiques négatives, notamment le manque à gagner, subies par la partie lésée, les bénéfices injustement réalisés par le contrevenant et, dans des cas appropriés, des éléments autres que des facteurs économiques, comme le préjudice moral causé au titulaire du droit du fait de l’atteinte,
 
-2. à titre d’alternative, la juridiction peut décider, dans des cas appropriés, de fixer un montant forfaitaire de dommages-intérêts, sur la base d’éléments tels que, au moins, le montant des redevances ou droits qui auraient été dus si le contrevenant avait demandé l’autorisation d’utiliser le droit de propriété intellectuelle en question.
+- à titre d’alternative, la juridiction peut décider, dans des cas appropriés, de fixer un montant forfaitaire de dommages-intérêts, sur la base d’éléments tels que, au moins, le montant des redevances ou droits qui auraient été dus si le contrevenant avait demandé l’autorisation d’utiliser le droit de propriété intellectuelle en question.
 
 5.
 
@@ -1668,9 +1668,9 @@ Brevets de procédé: charge de la preuve
 
 Si le brevet a pour objet un procédé d'obtention d'un produit, la juridiction saisie d'une action en contrefaçon pourra ordonner au défendeur de prouver que le procédé utilisé pour obtenir un produit identique est différent du procédé breveté. Faute pour le défendeur de rapporter cette preuve, tout produit identique fabriqué sans le consentement du titulaire du brevet sera présumé avoir été obtenu par le procédé breveté:
 
-1. si le produit obtenu par le procédé breveté est nouveau;
+- si le produit obtenu par le procédé breveté est nouveau;
 
-2. ou si la probabilité est grande que le produit identique a été obtenu par le procédé breveté, alors que le titulaire du brevet n'a pas pu, en dépit d'efforts raisonnables, déterminer quel procédé a été en fait utilisé.
+- ou si la probabilité est grande que le produit identique a été obtenu par le procédé breveté, alors que le titulaire du brevet n'a pas pu, en dépit d'efforts raisonnables, déterminer quel procédé a été en fait utilisé.
 
 2.
 
@@ -1708,21 +1708,21 @@ Lorsque dans le cadre d’une action en contrefaçon, la juridiction constate un
 
 Une même injonction peut être faite à la personne
 
-1. qui a été trouvée en possession des biens contrefaisants à l’échelle commerciale,
+- qui a été trouvée en possession des biens contrefaisants à l’échelle commerciale,
 
-2. qui a été trouvée en train d’utiliser des services contrefaisants à l’échelle commerciale,
+- qui a été trouvée en train d’utiliser des services contrefaisants à l’échelle commerciale,
 
-3. qui a été trouvée en train de fournir, à l’échelle commerciale, des services utilisés dans les activités contrefaisantes,
+- qui a été trouvée en train de fournir, à l’échelle commerciale, des services utilisés dans les activités contrefaisantes,
 
-4. qui a été signalée, par la personne visée aux points a), b) ou c), comme intervenant dans la production, la fabrication ou la distribution des marchandises ou la fourniture des services.
+- qui a été signalée, par la personne visée aux points a), b) ou c), comme intervenant dans la production, la fabrication ou la distribution des marchandises ou la fourniture des services.
 
 3.
 
 Les informations visées comprennent, selon les cas:
 
-1. les noms et adresses des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des marchandises ou des services, ainsi que des grossistes destinataires et des détaillants;
+- les noms et adresses des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des marchandises ou des services, ainsi que des grossistes destinataires et des détaillants;
 
-2. des renseignements sur les quantités produites, fabriquées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les marchandises ou services en question.
+- des renseignements sur les quantités produites, fabriquées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les marchandises ou services en question.
 
 4.
 
@@ -1817,9 +1817,9 @@ Il est tenu au service un registre des mandataires agréés en matière de breve
 
 Sous réserve des dispositions du paragraphe 2 de l'article 83, sont considérés comme mandataires agréés, avec domicile réel au Grand-Duché de Luxembourg au sens de la deuxième phrase du paragraphe 4 de l'article 83, outre les avocats inscrits aux tableaux de l'Ordre auprès des tribunaux luxembourgeois, les personnes physiques autorisées à exercer la profession de conseil en propriété industrielle en vertu de la loi du 28 décembre 1988
 
-1. réglementant l'accès aux professions d'artisan, de commerçant, d'industriel ainsi qu'à certaines professions libérales;
+- réglementant l'accès aux professions d'artisan, de commerçant, d'industriel ainsi qu'à certaines professions libérales;
 
-2. modifiant l'article 4 de la loi du 2 juillet 1935 portant réglementation des conditions d'obtention du titre et du brevet de maîtrise dans l'exercice des métiers, sans préjudice aux droits acquis réservés en vertu du litt. b) de l'article 5 du règlement grand-ducal du 12 janvier 1977 déterminant la qualification professionnelle requise pour l'accès à la profession de conseil en propriété industrielle.
+- modifiant l'article 4 de la loi du 2 juillet 1935 portant réglementation des conditions d'obtention du titre et du brevet de maîtrise dans l'exercice des métiers, sans préjudice aux droits acquis réservés en vertu du litt. b) de l'article 5 du règlement grand-ducal du 12 janvier 1977 déterminant la qualification professionnelle requise pour l'accès à la profession de conseil en propriété industrielle.
 
 3.
 
@@ -1870,13 +1870,13 @@ Après la publication de la demande de brevet, les dossiers d'une telle demande 
 
 Le service peut, avant même la publication de la demande de brevet, communiquer à des tiers et publier les indications suivantes:
 
-1. le numéro de la demande;
+- le numéro de la demande;
 
-2. la date du dépôt de la demande de brevet, et, si la priorité d'une demande antérieure a été revendiquée, la date, l'Etat et le numéro de la demande antérieure;
+- la date du dépôt de la demande de brevet, et, si la priorité d'une demande antérieure a été revendiquée, la date, l'Etat et le numéro de la demande antérieure;
 
-3. le nom du demandeur;
+- le nom du demandeur;
 
-4. le titre de l'invention.
+- le titre de l'invention.
 
 6.
 
@@ -1899,13 +1899,13 @@ Un règlement grand-ducal établira le barème des différentes taxes et surtaxe
 
 Outre les taxes le remboursement des frais est dû:
 
-1. pour tous travaux accessoires du service, tels que copies, attestations, recherches;
+- pour tous travaux accessoires du service, tels que copies, attestations, recherches;
 
-2. pour les frais de publication au Mémorial;
+- pour les frais de publication au Mémorial;
 
-3. pour le rapport de recherche visé à l'article 31, paragraphe 4, à l'article 35, paragraphe 1 er , litt.
+- pour le rapport de recherche visé à l'article 31, paragraphe 4, à l'article 35, paragraphe 1 er , litt.
 
-4. et à l'article 36.
+- et à l'article 36.
 
 4.
 
@@ -2056,9 +2056,9 @@ Confirmation des inscriptions anciennes au registre des mandataires agréés
 
 Les personnes inscrites au registre des mandataires agréés prévu par l'article 5 de la loi du 31 octobre 1978 portant
 
-1. approbation de la Convention relative au brevet européen pour le Marché Commun, signée à Luxembourg, le 15 décembre 1975
+- approbation de la Convention relative au brevet européen pour le Marché Commun, signée à Luxembourg, le 15 décembre 1975
 
-2. adaptation de la législation nationale en matière de brevets demeurent valablement inscrites sous le régime de la présente loi.
+- adaptation de la législation nationale en matière de brevets demeurent valablement inscrites sous le régime de la présente loi.
 
 <a id="art-99"></a>
 ## Art. 99.
@@ -2083,21 +2083,21 @@ Dispositions abrogatoires
 
 Sous réserve de certaines des dispositions transitoires faisant l'objet des articles 96 et 98,sont abrogés:
 
-1. la loi du 30 juin 1880 sur les brevets d'invention,
+- la loi du 30 juin 1880 sur les brevets d'invention,
 
-2. la loi du 27 avril 1922 concernant l'accession du Grand-Duché de Luxembourg à l'Union internationale pour la protection de la propriété industrielle, pour autant qu'elle a modifié la loi du 30 juin 1880 ,
+- la loi du 27 avril 1922 concernant l'accession du Grand-Duché de Luxembourg à l'Union internationale pour la protection de la propriété industrielle, pour autant qu'elle a modifié la loi du 30 juin 1880 ,
 
-3. l'arrêté grand-ducal du 13 octobre 1945 ayant pour objet de modifier et compléter la législation sur les brevets d'invention,
+- l'arrêté grand-ducal du 13 octobre 1945 ayant pour objet de modifier et compléter la législation sur les brevets d'invention,
 
-4. la loi du 25 juin 1957 portant approbation de la Convention européenne relative aux formalités prescrites pour les demandes de brevet, signée à Paris, le 11 décembre 1953,
+- la loi du 25 juin 1957 portant approbation de la Convention européenne relative aux formalités prescrites pour les demandes de brevet, signée à Paris, le 11 décembre 1953,
 
-5. les articles 4,5 et 6 de la loi du 31 octobre 1978 portant
+- les articles 4,5 et 6 de la loi du 31 octobre 1978 portant
 
-1. approbation de la Convention relative au brevet européen pour le Marché Commun, signée à Luxembourg le 15 décembre 1975,
+  - approbation de la Convention relative au brevet européen pour le Marché Commun, signée à Luxembourg le 15 décembre 1975,
 
-2. adaptation de la législation nationale en matière de brevets,
+  - adaptation de la législation nationale en matière de brevets,
 
-6. toutes dispositions contraires à la présente loi.
+- toutes dispositions contraires à la présente loi.
 
 <a id="art-102"></a>
 ## Art. 102.

@@ -33,17 +33,17 @@ Demande d’autorisation de fabrication
 
 Les indications que doit contenir la demande en obtention de l’autorisation de fabrication présentée conformément à l’article 3 de la loi du 4 août 1975 concernant la fabrication et l’importation des médicaments sont les suivantes:
 
-1. les noms, prénoms ou raison sociale, le domicile ou siège social du demandeur;
+- les noms, prénoms ou raison sociale, le domicile ou siège social du demandeur;
 
-2. la désignation du ou des endroits où les opérations sont effectuées;
+- la désignation du ou des endroits où les opérations sont effectuées;
 
-3. la nature de ces opérations;
+- la nature de ces opérations;
 
-4. la liste des médicaments qui seront fabriqués ainsi que le type de ces fabrications;
+- la liste des médicaments qui seront fabriqués ainsi que le type de ces fabrications;
 
-5. la description des locaux, de l’outillage industriel et de l’appareillage scientifique dont dispose le demandeur; il ajoutera un plan au 1/50e des ateliers, laboratoires et locaux servant à la fabrication et à la conservation des médicaments;
+- la description des locaux, de l’outillage industriel et de l’appareillage scientifique dont dispose le demandeur; il ajoutera un plan au 1/50e des ateliers, laboratoires et locaux servant à la fabrication et à la conservation des médicaments;
 
-6. la qualification du personnel technique que le demandeur emploie.
+- la qualification du personnel technique que le demandeur emploie.
 
 La Division de la Pharmacie et des Médicaments s’assure qu’une copie de toute autorisation émise est transmise à l’Agence européenne des médicaments.
 
@@ -56,29 +56,29 @@ Pharmacien responsable de la fabrication
 
 Le pharmacien responsable de la fabrication prévu à l’article 4 de la loi du 4 août 1975 concernant la fabrication et l’importation des médicaments au Grand-Duché de Luxembourg est tenu:
 
-1. d’analyser ou de faire analyser sous sa surveillance effective les matières premières;
+- d’analyser ou de faire analyser sous sa surveillance effective les matières premières;
 
-2. de surveiller la fabrication y compris le conditionnement et l’apposition des étiquettes;
+- de surveiller la fabrication y compris le conditionnement et l’apposition des étiquettes;
 
-3. de prendre toutes les mesures nécessaires pour éviter des substitutions ou des souillures des matières premières, des produits semi-fabriqués et des produits finis;
+- de prendre toutes les mesures nécessaires pour éviter des substitutions ou des souillures des matières premières, des produits semi-fabriqués et des produits finis;
 
-4. d’analyser ou de faire analyser sous sa surveillance effective le lot terminé;
+- d’analyser ou de faire analyser sous sa surveillance effective le lot terminé;
 
-5. de faire effectuer par un laboratoire agréé les contrôles et analyses pour lesquels il ne dispose pas de l’appareillage scientifique adéquat et pour lesquels le détenteur d’autorisation a reçu une dérogation du ministre ayant la Santé dans ses attributions, désigné ci-après par «le ministre»;
+- de faire effectuer par un laboratoire agréé les contrôles et analyses pour lesquels il ne dispose pas de l’appareillage scientifique adéquat et pour lesquels le détenteur d’autorisation a reçu une dérogation du ministre ayant la Santé dans ses attributions, désigné ci-après par «le ministre»;
 
-6. de tenir un document pour chaque lot de fabrication. Ce document reprendra notamment le nom du médicament, le numéro de lot, la composition, la quantité de matières premières utilisées avec le numéro de protocole d’analyse correspondant, la quantité fabriquée, la date du début et de la fin de fabrication. Ce document, qui doit être tenu à jour au fur et à mesure des opérations effectuées, accompagnera la fabrication du médicament jusques et y compris l’apposition des étiquettes légales et portera la signature du pharmacien responsable;
+- de tenir un document pour chaque lot de fabrication. Ce document reprendra notamment le nom du médicament, le numéro de lot, la composition, la quantité de matières premières utilisées avec le numéro de protocole d’analyse correspondant, la quantité fabriquée, la date du début et de la fin de fabrication. Ce document, qui doit être tenu à jour au fur et à mesure des opérations effectuées, accompagnera la fabrication du médicament jusques et y compris l’apposition des étiquettes légales et portera la signature du pharmacien responsable;
 
-7. le pharmacien responsable consigne dans le document visé sub 6. les opérations et analyses de contrôle effectuées, ainsi que leurs résultats. II résume ces derniers par les mots «conforme» ou «non conforme» et signe ses conclusions;
+- le pharmacien responsable consigne dans le document visé sub 6. les opérations et analyses de contrôle effectuées, ainsi que leurs résultats. II résume ces derniers par les mots «conforme» ou «non conforme» et signe ses conclusions;
 
-8. le pharmacien responsable veille à ce qu’un échantillon représentatif soit prélevé de toutes les matières premières utilisées ainsi que des produits finis dont il atteste la conformité. Ces échantillons seront scellés et devront être suffisants pour en effectuer l’analyse. En ce qui concerne le produit fini, l’échantillon devra être représentatif du lot de fabrication et sera constitué d’au moins un exemplaire du conditionnement tel qu’il est mis sur le marché. Les échantillons seront convenablement conservés et tenus à la disposition des pharmaciens-inspecteurs de la Direction de la Santé pendant la durée de validité du médicament et au maximum pendant cinq ans.
+- le pharmacien responsable veille à ce qu’un échantillon représentatif soit prélevé de toutes les matières premières utilisées ainsi que des produits finis dont il atteste la conformité. Ces échantillons seront scellés et devront être suffisants pour en effectuer l’analyse. En ce qui concerne le produit fini, l’échantillon devra être représentatif du lot de fabrication et sera constitué d’au moins un exemplaire du conditionnement tel qu’il est mis sur le marché. Les échantillons seront convenablement conservés et tenus à la disposition des pharmaciens-inspecteurs de la Direction de la Santé pendant la durée de validité du médicament et au maximum pendant cinq ans.
 
-9. de s’assurer si le personnel employé par le détenteur de l’autorisation a la qualification requise pour effectuer les opérations qui lui sont imparties.
+- de s’assurer si le personnel employé par le détenteur de l’autorisation a la qualification requise pour effectuer les opérations qui lui sont imparties.
 
-10. de respecter les principes et lignes directrices relatifs aux bonnes pratiques de fabrication des médicaments et d’utiliser seulement en tant que matières premières des substances actives fabriquées conformément aux lignes directrices détaillées relatives aux bonnes pratiques de fabrication des matières premières. Au sens du présent règlement on entend par «substance active»: toute substance ou tout mélange de substances destiné à être utilisé pour la fabrication d’un médicament et qui, lorsqu’utilisé pour sa production, devient un composant actif dudit médicament exerçant une action pharmacologique, immunologique ou métabolique en vue de restaurer, corriger ou modifier des fonctions physiologiques, ou d’établir un diagnostic médical.
+- de respecter les principes et lignes directrices relatifs aux bonnes pratiques de fabrication des médicaments et d’utiliser seulement en tant que matières premières des substances actives fabriquées conformément aux lignes directrices détaillées relatives aux bonnes pratiques de fabrication des matières premières. Au sens du présent règlement on entend par «substance active»: toute substance ou tout mélange de substances destiné à être utilisé pour la fabrication d’un médicament et qui, lorsqu’utilisé pour sa production, devient un composant actif dudit médicament exerçant une action pharmacologique, immunologique ou métabolique en vue de restaurer, corriger ou modifier des fonctions physiologiques, ou d’établir un diagnostic médical.
 
-11. de s’assurer dans le cas de médicaments en provenance de pays tiers, même si la fabrication a été effectuée dans la Communauté, que chaque lot de fabrication importé a fait l’objet, dans un État membre, d’une analyse qualitative complète, d’une analyse quantitative d’au moins toutes les substances actives et de tous les autres essais ou vérifications nécessaires pour assurer la qualité des médicaments dans le respect des exigences retenues pour l’autorisation de mise sur le marché.
+- de s’assurer dans le cas de médicaments en provenance de pays tiers, même si la fabrication a été effectuée dans la Communauté, que chaque lot de fabrication importé a fait l’objet, dans un État membre, d’une analyse qualitative complète, d’une analyse quantitative d’au moins toutes les substances actives et de tous les autres essais ou vérifications nécessaires pour assurer la qualité des médicaments dans le respect des exigences retenues pour l’autorisation de mise sur le marché.
 
-12. de veiller, dans le cas de médicaments destinés à être mis sur le marché dans l’Union européenne, à ce que les dispositifs de sécurité visés à l’article 10, paragraphe 1 er , point o) du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments, aient été apposés sur l’emballage.
+- de veiller, dans le cas de médicaments destinés à être mis sur le marché dans l’Union européenne, à ce que les dispositifs de sécurité visés à l’article 10, paragraphe 1 er , point o) du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments, aient été apposés sur l’emballage.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -87,19 +87,19 @@ Obligations du détenteur d’autorisation
 
 Le détenteur d’une autorisation de fabrication est tenu:
 
-1. de notifier sans retard au ministre par lettre recommandée à la poste l’identité et l’adresse du pharmacien qu’il désire engager, la date de son entrée en service ou de la cessation de ses fonctions;
+- de notifier sans retard au ministre par lettre recommandée à la poste l’identité et l’adresse du pharmacien qu’il désire engager, la date de son entrée en service ou de la cessation de ses fonctions;
 
-2. de prendre toutes les dispositions utiles pour que le pharmacien responsable puisse assumer pleinement sa mission;
+- de prendre toutes les dispositions utiles pour que le pharmacien responsable puisse assumer pleinement sa mission;
 
-3. de ne pas livrer les médicaments fabriqués avant que la qualité et la conformité aux lois et règlements en aient été attestés par le pharmacien responsable dans le document prévu à l’article 2 sub 6 ou par un laboratoire agréé conformément à l’article 7 ci-après;
+- de ne pas livrer les médicaments fabriqués avant que la qualité et la conformité aux lois et règlements en aient été attestés par le pharmacien responsable dans le document prévu à l’article 2 sub 6 ou par un laboratoire agréé conformément à l’article 7 ci-après;
 
-4. de veiller à ce que le médicament qu’il fournit soit convenablement conditionné et scellé de telle sorte que le conditionnement ou le récipient renfermant le médicament ne puisse être ouvert sans que le scellé soit endommagé de façon apparente.
+- de veiller à ce que le médicament qu’il fournit soit convenablement conditionné et scellé de telle sorte que le conditionnement ou le récipient renfermant le médicament ne puisse être ouvert sans que le scellé soit endommagé de façon apparente.
 
-5. d’informer immédiatement le ministre de la Santé et le titulaire de l’autorisation de mise sur le marché de toute information indiquant que les médicaments couverts par son autorisation de fabrication sont falsifiés ou soupçonnés de l’être, que ces produits soient distribués via la chaîne d’approvisionnement légale ou par des moyens illégaux, y compris la vente illégale au moyen de services de la société de l’information;
+- d’informer immédiatement le ministre de la Santé et le titulaire de l’autorisation de mise sur le marché de toute information indiquant que les médicaments couverts par son autorisation de fabrication sont falsifiés ou soupçonnés de l’être, que ces produits soient distribués via la chaîne d’approvisionnement légale ou par des moyens illégaux, y compris la vente illégale au moyen de services de la société de l’information;
 
-6. de vérifier que les fabricants, les importateurs ou les distributeurs auprès de qui il obtient des substances actives sont enregistrés auprès de l’autorité compétente de l’Etat membre dans lequel ils sont établis;
+- de vérifier que les fabricants, les importateurs ou les distributeurs auprès de qui il obtient des substances actives sont enregistrés auprès de l’autorité compétente de l’Etat membre dans lequel ils sont établis;
 
-7. de vérifier l’authenticité et la qualité des substances actives et des excipients. Au sens du présent règlement on entend par «excipient»: tout composant d’un médicament, autre qu’une substance active et les matériaux d’emballage.
+- de vérifier l’authenticité et la qualité des substances actives et des excipients. Au sens du présent règlement on entend par «excipient»: tout composant d’un médicament, autre qu’une substance active et les matériaux d’emballage.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -158,13 +158,13 @@ Les pharmaciens-inspecteurs de la Division de la Pharmacie et des Médicaments p
 
 Sans préjudice des pouvoirs conférés par d’autres dispositions légales, les pharmaciens-inspecteurs sont habilités à:
 
-1. procéder à des inspections des établissements commerciaux ou de fabrication de médicaments ou de substances actives ou d’excipients utilisées comme matières premières dans la fabrication des médicaments ainsi que des laboratoires chargés par le titulaire de l’autorisation de fabrication d’effectuer des contrôles;
+- procéder à des inspections des établissements commerciaux ou de fabrication de médicaments ou de substances actives ou d’excipients utilisées comme matières premières dans la fabrication des médicaments ainsi que des laboratoires chargés par le titulaire de l’autorisation de fabrication d’effectuer des contrôles;
 
-2. prélever des échantillons notamment en vue d’analyses indépendantes par un laboratoire officiel pour le contrôle des médicaments ou par un laboratoire désigné à cet effet par le ministre de la Santé ou l’autorité compétente d’un autre Etat membre;
+- prélever des échantillons notamment en vue d’analyses indépendantes par un laboratoire officiel pour le contrôle des médicaments ou par un laboratoire désigné à cet effet par le ministre de la Santé ou l’autorité compétente d’un autre Etat membre;
 
-3. examiner tous les documents se rapportant à l’objet des inspections;
+- examiner tous les documents se rapportant à l’objet des inspections;
 
-4. inspecter les locaux, les archives, les documents et le dossier permanent du système de pharmacovigilance des titulaires d’autorisations de mise sur le marché ou de toute entreprise chargée par le titulaire de l’autorisation de mise sur le marché de réaliser les activités visées au chapitre 5-1 du règlement grand-ducal du 15 décembre 1992 relatif à la mise sur le marché des médicaments.
+- inspecter les locaux, les archives, les documents et le dossier permanent du système de pharmacovigilance des titulaires d’autorisations de mise sur le marché ou de toute entreprise chargée par le titulaire de l’autorisation de mise sur le marché de réaliser les activités visées au chapitre 5-1 du règlement grand-ducal du 15 décembre 1992 relatif à la mise sur le marché des médicaments.
 
 2.
 
@@ -203,11 +203,11 @@ Les importateurs, les fabricants et les distributeurs de substances actives qui 
 
 Le formulaire d’enregistrement comprend les renseignements suivants:
 
-1. le nom, la raison sociale et l’adresse permanente;
+- le nom, la raison sociale et l’adresse permanente;
 
-2. les substances actives à importer, fabriquer ou distribuer;
+- les substances actives à importer, fabriquer ou distribuer;
 
-3. les caractéristiques des locaux et des équipements techniques utilisés dans le cadre de leur activité.
+- les caractéristiques des locaux et des équipements techniques utilisés dans le cadre de leur activité.
 
 3.
 
@@ -251,13 +251,13 @@ Demande d’autorisation
 
 La demande d’autorisation doit spécifier:
 
-1. les types de médicaments et les formes pharmaceutiques à fabriquer ou importer. Sont visés par la désignation «types de médicaments»: les produits sanguins, produits immunologiques, produits de thérapie cellulaire, produits de thérapie génique, produits biotechnologiques, produits d’origine humaine ou animale, produits à base de plantes, produits homéopathiques, produits radiopharmaceutiques et produits contenant des substances actives chimiques;
+- les types de médicaments et les formes pharmaceutiques à fabriquer ou importer. Sont visés par la désignation «types de médicaments»: les produits sanguins, produits immunologiques, produits de thérapie cellulaire, produits de thérapie génique, produits biotechnologiques, produits d’origine humaine ou animale, produits à base de plantes, produits homéopathiques, produits radiopharmaceutiques et produits contenant des substances actives chimiques;
 
-2. les opérations de fabrication ou d’importation concernées;
+- les opérations de fabrication ou d’importation concernées;
 
-3. le cas échéant notamment en cas d’inactivation d’agents viraux ou non conventionnels, le procédé de fabrication;
+- le cas échéant notamment en cas d’inactivation d’agents viraux ou non conventionnels, le procédé de fabrication;
 
-4. l’endroit où les médicaments doivent être fabriqués ou disposer, pour leur fabrication ou leur importation, de locaux, de l’équipement technique et de possibilités de contrôle appropriés et suffisants.
+- l’endroit où les médicaments doivent être fabriqués ou disposer, pour leur fabrication ou leur importation, de locaux, de l’équipement technique et de possibilités de contrôle appropriés et suffisants.
 
 (2)
 
@@ -276,11 +276,11 @@ Le demandeur doit documenter qu’il dispose en permanence d’au moins un pharm
 
 Le pharmacien responsable doit veiller:
 
-1. dans le cas de médicaments expérimentaux fabriqués au Luxembourg, que chaque lot de médicament a été fabriqué et contrôlé conformément aux exigences du chapitre deux ci-après, au dossier de spécification du produit et à la demande d’autorisation;
+- dans le cas de médicaments expérimentaux fabriqués au Luxembourg, que chaque lot de médicament a été fabriqué et contrôlé conformément aux exigences du chapitre deux ci-après, au dossier de spécification du produit et à la demande d’autorisation;
 
-2. dans le cas de médicaments expérimentaux fabriqués dans un pays tiers, que chaque lot de fabrication a été fabriqué et contrôlé selon des normes de bonnes pratiques de fabrication au moins équivalentes à celles prévues par la législation en matière de fabrication de médicaments et de médicaments expérimentaux, conformément au dossier de spécification du produit et que chaque lot de fabrication a été contrôlé conformément à la demande d’autorisation;
+- dans le cas de médicaments expérimentaux fabriqués dans un pays tiers, que chaque lot de fabrication a été fabriqué et contrôlé selon des normes de bonnes pratiques de fabrication au moins équivalentes à celles prévues par la législation en matière de fabrication de médicaments et de médicaments expérimentaux, conformément au dossier de spécification du produit et que chaque lot de fabrication a été contrôlé conformément à la demande d’autorisation;
 
-3. dans le cas d’un médicament expérimental qui est un médicament de comparaison en provenance de pays tiers et ayant une autorisation de mise sur le marché, lorsque la documentation attestant que chaque lot de fabrication a été fabriqué selon des normes de bonnes pratiques de fabrication au moins équivalentes à celles précitées ne peut être obtenue, que chaque lot de fabrication a fait l’objet de toutes les analyses, essais ou vérifications pertinents et nécessaires pour confirmer sa qualité conformément à la demande d’autorisation. Si les points a), b) ou c) sont respectés dans un autre Etat membre, les médicaments expérimentaux sont dispensés des contrôles ultérieurs lorsqu’ils sont importés au Luxembourg, accompagnés des certificats de libération des lots signés par la personne qualifiée.
+- dans le cas d’un médicament expérimental qui est un médicament de comparaison en provenance de pays tiers et ayant une autorisation de mise sur le marché, lorsque la documentation attestant que chaque lot de fabrication a été fabriqué selon des normes de bonnes pratiques de fabrication au moins équivalentes à celles précitées ne peut être obtenue, que chaque lot de fabrication a fait l’objet de toutes les analyses, essais ou vérifications pertinents et nécessaires pour confirmer sa qualité conformément à la demande d’autorisation. Si les points a), b) ou c) sont respectés dans un autre Etat membre, les médicaments expérimentaux sont dispensés des contrôles ultérieurs lorsqu’ils sont importés au Luxembourg, accompagnés des certificats de libération des lots signés par la personne qualifiée.
 
 (3)
 
@@ -303,15 +303,15 @@ L’autorisation peut être assortie, pour garantir le respect des conditions du
 
 Le titulaire de l’autorisation doit au moins respecter les obligations suivantes:
 
-1. disposer du personnel répondant aux exigences légales en matière à la fois de fabrication et de contrôle;
+- disposer du personnel répondant aux exigences légales en matière à la fois de fabrication et de contrôle;
 
-2. ne céder les médicaments expérimentaux/autorisés qu’en conformité avec la législation nationale ou le cas échéant celle de l’Etat membre de destination concerné;
+- ne céder les médicaments expérimentaux/autorisés qu’en conformité avec la législation nationale ou le cas échéant celle de l’Etat membre de destination concerné;
 
-3. informer préalablement le ministre de toute modification qu’il désirerait apporter aux renseignements fournis à l’appui de la demande;
+- informer préalablement le ministre de toute modification qu’il désirerait apporter aux renseignements fournis à l’appui de la demande;
 
-4. permettre aux médecins et pharmaciens-inspecteurs de la Direction de la Santé et aux agents et experts spécialement désignés par le ministre d’accéder à ses locaux à tout moment;
+- permettre aux médecins et pharmaciens-inspecteurs de la Direction de la Santé et aux agents et experts spécialement désignés par le ministre d’accéder à ses locaux à tout moment;
 
-5. respecter les principes et lignes directrices de bonnes pratiques de fabrication des médicaments et les lignes directrices détaillées conformes aux principes visés dans la version la plus récente disponible, publiée par la Commission dans le document «La réglementation des médicaments dans l’Union européenne». La Direction de la Santé, Division de la Pharmacie et des Médicaments, tient à disposition du demandeur ces lignes directrices détaillées.
+- respecter les principes et lignes directrices de bonnes pratiques de fabrication des médicaments et les lignes directrices détaillées conformes aux principes visés dans la version la plus récente disponible, publiée par la Commission dans le document «La réglementation des médicaments dans l’Union européenne». La Direction de la Santé, Division de la Pharmacie et des Médicaments, tient à disposition du demandeur ces lignes directrices détaillées.
 
 <a id="art-7-4"></a>
 ## Art. 7-4.
@@ -652,35 +652,35 @@ Le titulaire d’une autorisation de distribution conserve une documentation soi
 
 Le titulaire d’une autorisation de distribution est tenu:
 
-1. de vérifier que les médicaments reçus n’ont pas été falsifiés en contrôlant les dispositifs de sécurité sur l’emballage extérieur, conformément aux exigences établies dans le règlement délégué (UE) 2016/161 de la Commission complétant la directive 2001/83/CE du Parlement européen et du Conseil en fixant les modalités des dispositifs de sécurité figurant sur l’emballage des médicaments à usage humain au Journal officiel de l’Union européenne.
+- de vérifier que les médicaments reçus n’ont pas été falsifiés en contrôlant les dispositifs de sécurité sur l’emballage extérieur, conformément aux exigences établies dans le règlement délégué (UE) 2016/161 de la Commission complétant la directive 2001/83/CE du Parlement européen et du Conseil en fixant les modalités des dispositifs de sécurité figurant sur l’emballage des médicaments à usage humain au Journal officiel de l’Union européenne.
 
-2. de maintenir un système de qualité établissant les responsabilités, les procédures et les mesures de gestion du risque en ce qui concerne ses activités.
+- de maintenir un système de qualité établissant les responsabilités, les procédures et les mesures de gestion du risque en ce qui concerne ses activités.
 
-3. d’informer immédiatement le ministre de la Santé et, le cas échéant, le titulaire de l’autorisation de mise sur le marché des médicaments qu’il reçoit ou qui lui sont proposés et qu’il identifie comme étant falsifiés ou qu’il soupçonne d’être falsifiés.
+- d’informer immédiatement le ministre de la Santé et, le cas échéant, le titulaire de l’autorisation de mise sur le marché des médicaments qu’il reçoit ou qui lui sont proposés et qu’il identifie comme étant falsifiés ou qu’il soupçonne d’être falsifiés.
 
-4. de vérifier les dispositifs de sécurité et de désactiver l’identifiant unique d’un médicament, sur décision du ministre de la Santé et pour des raisons particulières de la chaîne d’approvisionnement, avant de le délivrer à l’une des personnes ou institutions suivantes :
+- de vérifier les dispositifs de sécurité et de désactiver l’identifiant unique d’un médicament, sur décision du ministre de la Santé et pour des raisons particulières de la chaîne d’approvisionnement, avant de le délivrer à l’une des personnes ou institutions suivantes :
 
-- les personnes autorisées ou habilitées à délivrer des médicaments au public, qui n’exercent pas leur activité dans un établissement de santé ou dans une pharmacie ;
+  - les personnes autorisées ou habilitées à délivrer des médicaments au public, qui n’exercent pas leur activité dans un établissement de santé ou dans une pharmacie ;
 
-- les vétérinaires et les détaillants de médicaments vétérinaires ;
+  - les vétérinaires et les détaillants de médicaments vétérinaires ;
 
-- les praticiens de l’art dentaire ;
+  - les praticiens de l’art dentaire ;
 
-- les optométristes et opticiens ;
+  - les optométristes et opticiens ;
 
-- le personnel paramédical et les médecins urgentistes ;
+  - le personnel paramédical et les médecins urgentistes ;
 
-- les forces armées, la police et d’autres institutions gouvernementales qui conservent des stocks de médicaments aux fins de la protection civile et de la lutte contre les catastrophes ;
+  - les forces armées, la police et d’autres institutions gouvernementales qui conservent des stocks de médicaments aux fins de la protection civile et de la lutte contre les catastrophes ;
 
-- les universités et autres établissements d’enseignement supérieur qui utilisent des médicaments à des fins de recherche et d’éducation, à l’exception des établissements de santé ;
+  - les universités et autres établissements d’enseignement supérieur qui utilisent des médicaments à des fins de recherche et d’éducation, à l’exception des établissements de santé ;
 
-- les établissements pénitentiaires ;
+  - les établissements pénitentiaires ;
 
-- les écoles ;
+  - les écoles ;
 
-- les hospices ;
+  - les hospices ;
 
-- les maisons de soins.
+  - les maisons de soins.
 
 <a id="art-22sexies"></a>
 ## Art. 22sexies.
@@ -689,15 +689,15 @@ Le titulaire d’une autorisation de distribution est tenu:
 
 Les substances actives ne peuvent être importées que si les conditions suivantes sont remplies:
 
-1. les substances actives ont été fabriquées conformément à des normes de bonnes pratiques de fabrication visées à l’article 11, paragraphe 1 er au moins équivalentes à celles visées à l’article 11, paragraphe 1 er ; et
+- les substances actives ont été fabriquées conformément à des normes de bonnes pratiques de fabrication visées à l’article 11, paragraphe 1 er au moins équivalentes à celles visées à l’article 11, paragraphe 1 er ; et
 
-2. les substances actives sont accompagnées d’une confirmation écrite de l’autorité compétente du pays tiers exportateur attestant que:
+- les substances actives sont accompagnées d’une confirmation écrite de l’autorité compétente du pays tiers exportateur attestant que:
 
-1. les normes de bonnes pratiques de fabrication applicables à l’établissement qui fabrique la substance active exportée sont au moins équivalentes à celles visées à l’article 11, paragraphe 1 er ;
+  - les normes de bonnes pratiques de fabrication applicables à l’établissement qui fabrique la substance active exportée sont au moins équivalentes à celles visées à l’article 11, paragraphe 1 er ;
 
-2. l’établissement de fabrication concerné fait l’objet de contrôles réguliers, stricts et transparents et de mesures efficaces d’exécution des bonnes pratiques de fabrication, y compris d’inspections répétées et inopinées, garantissant une protection de la santé publique au moins équivalente à celle assurée par l’Union européenne; et
+  - l’établissement de fabrication concerné fait l’objet de contrôles réguliers, stricts et transparents et de mesures efficaces d’exécution des bonnes pratiques de fabrication, y compris d’inspections répétées et inopinées, garantissant une protection de la santé publique au moins équivalente à celle assurée par l’Union européenne; et
 
-3. dans le cas où une non-conformité serait constatée, les informations relatives à cette constatation seront immédiatement communiquées à l’Union européenne par le pays tiers exportateur.
+  - dans le cas où une non-conformité serait constatée, les informations relatives à cette constatation seront immédiatement communiquées à l’Union européenne par le pays tiers exportateur.
 
 Cette confirmation écrite s’entend sans préjudice des obligations visées à l’article 11, paragraphe 1er.
 
@@ -776,27 +776,27 @@ Le présent article s’entend sans préjudice de l’article 7-1.
 
 Les personnes exerçant des activités de courtage de médicaments sont tenues:
 
-1. de posséder un plan d’urgence qui garantisse la mise en œuvre effective de toute action de retrait du marché ordonnée par le ministre de la Santé ou engagée en coopération avec le fabricant du médicament concerné ou le titulaire de l’autorisation de mise sur le marché pour ledit médicament;
+- de posséder un plan d’urgence qui garantisse la mise en œuvre effective de toute action de retrait du marché ordonnée par le ministre de la Santé ou engagée en coopération avec le fabricant du médicament concerné ou le titulaire de l’autorisation de mise sur le marché pour ledit médicament;
 
-2. conserver une documentation soit sous forme de factures d’achats-ventes ou sous forme informatisée, soit sous toute autre forme, comportant pour toute transaction de courtage de médicaments au moins les renseignements suivants:
+- conserver une documentation soit sous forme de factures d’achats-ventes ou sous forme informatisée, soit sous toute autre forme, comportant pour toute transaction de courtage de médicaments au moins les renseignements suivants:
 
-- la date,
+  - la date,
 
-- la dénomination du médicament,
+  - la dénomination du médicament,
 
-- la quantité reçue, fournie ou ayant fait l’objet d’un courtage,
+  - la quantité reçue, fournie ou ayant fait l’objet d’un courtage,
 
-- le nom et l’adresse du fournisseur ou du destinataire, selon le cas,
+  - le nom et l’adresse du fournisseur ou du destinataire, selon le cas,
 
-- le numéro de lot des médicaments, au moins pour les médicaments portant les dispositifs de sécurité visés à l’article 10, paragraphe 1 er , point o);
+  - le numéro de lot des médicaments, au moins pour les médicaments portant les dispositifs de sécurité visés à l’article 10, paragraphe 1 er , point o);
 
-3. tenir la documentation visée au point b) à la disposition des pharmaciens-inspecteurs une période de cinq ans;
+- tenir la documentation visée au point b) à la disposition des pharmaciens-inspecteurs une période de cinq ans;
 
-4. se conformer aux principes et aux lignes directrices concernant les bonnes pratiques de distribution prévues à l’article 22decies, paragraphe 6;
+- se conformer aux principes et aux lignes directrices concernant les bonnes pratiques de distribution prévues à l’article 22decies, paragraphe 6;
 
-5. maintenir un système de qualité établissant les responsabilités, les procédures et les mesures de gestion du risque en ce qui concerne leurs activités;
+- maintenir un système de qualité établissant les responsabilités, les procédures et les mesures de gestion du risque en ce qui concerne leurs activités;
 
-6. informer immédiatement le ministre de la Santé et, le cas échéant, le titulaire de l’autorisation de mise sur le marché des médicaments qu’ils reçoivent ou qui leur sont proposés et qu’ils identifient comme étant falsifiés ou qu’ils soupçonnent d’être falsifiés.
+- informer immédiatement le ministre de la Santé et, le cas échéant, le titulaire de l’autorisation de mise sur le marché des médicaments qu’ils reçoivent ou qui leur sont proposés et qu’ils identifient comme étant falsifiés ou qu’ils soupçonnent d’être falsifiés.
 
 <a id="art-22duodecies"></a>
 ## Art. 22duodecies.

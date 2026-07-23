@@ -24,12 +24,16 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Texte coordonné du 11 août 2010 de la loi du 8 juillet 1986 portant réglementation de la mise sur le marché des détergents.
 
+(Loi du 3 août 2010)
+
 <a id="art-1er"></a>
 ## «Art. 1er.
 
 Objet.
 
 La présente loi a pour objet de compléter les dispositions du règlement (CE) n° 648/2004 du Parlement européen et du Conseil du 31 mars 2004 relatif aux détergents.»
+
+(Loi du 3 août 2010)
 
 <a id="art-1bis"></a>
 ## «Art. 1bis.
@@ -59,6 +63,8 @@ Biodégradabilité des agents de surfaces contenus dans les détergents.
 
 (Abrogé par la loi du 3 août 2010)
 
+(Loi du 3 août 2010)
+
 <a id="art-5"></a>
 ## «Art. 5.
 
@@ -71,7 +77,9 @@ Il est interdit de mettre sur le marché des détergents dont la teneur en phosp
 
 Organismes agréés pour l’analyse du taux de la biodégradabilité des agents de surface et de la teneur en phosphates.
 
-Au sens de la présente loi, sont habilités à effectuer les analyses du taux de biodégradabilité des agents de surface ou de la teneur en phosphates l’«Administration de la gestion de l’eau» et tout autre organisme agréé à cet effet par arrêté du «ministre ayant dans ses attributions la gestion de l’eau».
+Au sens de la présente loi, sont habilités à effectuer les analyses du taux de biodégradabilité des agents de surface ou de la teneur en phosphates l’«Administration de la gestion de l’eau» et tout autre organisme agréé à cet effet par arrêté du «ministre ayant dans ses attributions la gestion de l’eau» .
+
+(Loi du 3 août 2010)
 
 <a id="art-7"></a>
 ## «Art. 7.
@@ -99,6 +107,8 @@ Constatation des infractions.
 Avant d’entrer en fonction, ils prêtent devant le tribunal d’arrondissement de leur domicile, siégeant en matière civile, le serment suivant: «Je jure de remplir mes fonctions avec intégrité, exactitude et impartialité». L’article 458 du Code pénal leur est applicable.
 
 Les procès-verbaux rédigés par les personnes visées au présent article font foi jusqu’à preuve du contraire.
+
+(Loi du 3 août 2010)
 
 <a id="art-10"></a>
 ## «Art. 10.

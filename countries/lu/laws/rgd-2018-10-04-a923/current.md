@@ -40,29 +40,29 @@ Le présent règlement ne s’applique pas aux dispositifs d’autodiagnostic se
 
 Un test rapide peut être réalisé chez toute personne, soit dans son intérêt et pour son seul bénéfice, soit dans un objectif de santé publique , après l'avoir informée et avoir recueilli son consentement libre et éclairé, par :
 
-1. un médecin ;
+- un médecin ;
 
-2. un infirmier ;
+- un infirmier ;
 
-3. un laborantin exerçant dans un laboratoire d’analyses médicales ;
+- un laborantin exerçant dans un laboratoire d’analyses médicales ;
 
-4. une sage-femme ;
+- une sage-femme ;
 
-5. un assistant social ;
+- un assistant social ;
 
-6. un salarié ou un bénévole relevant du champ d’application de loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé, désigné par une association agréée par le ministre ayant la Santé dans ses attributions, ci-après « le ministre » et , ayant suivi la formation prévue à l’article 5 , qui réalisent le test rapide sous la direction et sous la responsabilité d’un médecin.
+- un salarié ou un bénévole relevant du champ d’application de loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé, désigné par une association agréée par le ministre ayant la Santé dans ses attributions, ci-après « le ministre » et , ayant suivi la formation prévue à l’article 5 , qui réalisent le test rapide sous la direction et sous la responsabilité d’un médecin.
 
 (2)
 
 Le test rapide réalisé à des fins de détection d’une infection au virus SARS-CoV-2 peut, en sus des personnes visées au paragraphe 1er, être réalisé par :
 
-1. un pompier volontaire ou professionnel, affecté au Corps grand-ducal d’incendie et de secours ;
+- un pompier volontaire ou professionnel, affecté au Corps grand-ducal d’incendie et de secours ;
 
-2. un psychologue ;
+- un psychologue ;
 
-3. un psychothérapeute ;
+- un psychothérapeute ;
 
-4. une pharmacien.
+- une pharmacien.
 
 (3)
 
@@ -108,15 +108,15 @@ La présente disposition ne s’applique pas au test rapide visé à l’article
 
 Toute personne visée à l’article 2, paragraphes 1 er et 2, qui constate un résultat positif d’un test rapide de l’infection au SARS-CoV-2, est tenue d’en faire la déclaration le jour même au directeur de la Santé ou à son délégué. Cette déclaration comprend au moins les données individuelles suivantes :
 
-1. nom, prénom du patient et son adresse,
+- nom, prénom du patient et son adresse,
 
-2. date de naissance et sexe du patient,
+- date de naissance et sexe du patient,
 
-3. date du test,
+- date du test,
 
-4. date des premiers symptômes, si connue,
+- date des premiers symptômes, si connue,
 
-5. source d’infection si connue.
+- source d’infection si connue.
 
 <a id="art-5"></a>
 ## Art. 5.

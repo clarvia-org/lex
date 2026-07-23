@@ -41,19 +41,19 @@ Le volume de la tâche hebdomadaire normale des enseignants est fixé par règle
 
 Peuvent être pris en considération pour le calcul d'une tâche les éléments suivants:
 
-1. les leçons d'enseignement, y compris celles assumées dans le cadre de la pédagogie de soutien ou de l'éducation des adultes;
+- les leçons d'enseignement, y compris celles assumées dans le cadre de la pédagogie de soutien ou de l'éducation des adultes;
 
-2. les activités de recherche pédagogique, scientifique ou culturelle;
+- les activités de recherche pédagogique, scientifique ou culturelle;
 
-3. les activités concernant la formation pédagogique des aspirants-professeurs ainsi que les activités de formation continue des enseignants en service;
+- les activités concernant la formation pédagogique des aspirants-professeurs ainsi que les activités de formation continue des enseignants en service;
 
-4. les activités de guidance des élèves;
+- les activités de guidance des élèves;
 
-5. les activités d'animation socio-culturelle et sportive;
+- les activités d'animation socio-culturelle et sportive;
 
-6. les activités administratives;
+- les activités administratives;
 
-7. les activités de surveillance et de remplacement.
+- les activités de surveillance et de remplacement.
 
 Le mode de computation des différents éléments est fixé par le même règlement grand-ducal qui tient compte des années de service et d'âge de l'enseignant, du niveau de performance obtenu à l'occasion de l'appréciation de ses compétences professionnelles, de l'effectif et du niveau des classes, de la somme de travail à consacrer à la préparation du travail en classe, à la correction des devoirs, à la formation permanente, aux exigences de la collaboration pédagogique et aux réunions de service découlant de la fonction occupée.
 
@@ -92,11 +92,11 @@ Le recrutement de stagiaires des différentes fonctions et spécialités se fait
 
 Les modalités du concours de recrutement, la composition du jury et la notation des épreuves sont établies par règlement grand-ducal sous réserve des dispositions suivantes:
 
-1. le concours comporte les épreuves de classement portant sur la matière dans laquelle le candidat a obtenu le diplôme requis pour l'admission au stage;
+- le concours comporte les épreuves de classement portant sur la matière dans laquelle le candidat a obtenu le diplôme requis pour l'admission au stage;
 
-2. l'admissibilité aux épreuves de classement est subordonnée à l'obtention de résultats satisfaisants aux épreuves préliminaires;
+- l'admissibilité aux épreuves de classement est subordonnée à l'obtention de résultats satisfaisants aux épreuves préliminaires;
 
-3. dans chaque fonction et spécialité, le classement final des candidats est établi sur la base des résultats obtenus aux épreuves de classement.
+- dans chaque fonction et spécialité, le classement final des candidats est établi sur la base des résultats obtenus aux épreuves de classement.
 
 Dans la fonction et spécialité concernées, les candidats sont admis au stage dans l’ordre de leur classement jusqu’à concurrence du nombre des admissions au stage arrêté conformément au paragraphe Ier du présent article.
 
@@ -130,9 +130,9 @@ En collaboration avec les directeurs, le ministre prend toutes mesures de coordi
 
 Le ministre pourra notamment
 
-1. transférer des élèves d'un établissement à un autre, dans le respect des projets d'études et des intérêts légitimes des élèves et de leurs parents;
+- transférer des élèves d'un établissement à un autre, dans le respect des projets d'études et des intérêts légitimes des élèves et de leurs parents;
 
-2. détacher partiellement ou totalement des enseignants à un ou plusieurs établissements différents de leur établissement de nomination selon les besoins du service. Un règlement grand-ducal fixe les modalités et les conditions suivant lesquelles des frais de route sont accordés en cas de détachement partiel.
+- détacher partiellement ou totalement des enseignants à un ou plusieurs établissements différents de leur établissement de nomination selon les besoins du service. Un règlement grand-ducal fixe les modalités et les conditions suivant lesquelles des frais de route sont accordés en cas de détachement partiel.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -156,17 +156,17 @@ Chaque année, trois mois au plus tard avant le début de la période quinquenna
 
 Pour la détermination des besoins actuels et l'évaluation des besoins futurs de la période sous examen, la commission tient compte notamment:
 
-1. des besoins spécifiques déclarés et justifiés par les directeurs des divers établissements d'enseignement;
+- des besoins spécifiques déclarés et justifiés par les directeurs des divers établissements d'enseignement;
 
-2. des normes pédagogiques communément admises en matière d'effectifs par classe ou cours;
+- des normes pédagogiques communément admises en matière d'effectifs par classe ou cours;
 
-3. de l'évolution démographique générale et régionale et plus particulièrement de celle des effectifs scolaires globaux prévisibles;
+- de l'évolution démographique générale et régionale et plus particulièrement de celle des effectifs scolaires globaux prévisibles;
 
-4. de la tâche des enseignants telle qu'elle aura été fixée en exécution des dispositions de la présente loi;
+- de la tâche des enseignants telle qu'elle aura été fixée en exécution des dispositions de la présente loi;
 
-5. de la réalisation progressive de la mission des établissements d'enseignement telle qu'elle est définie à l'art. 2 ci-avant, ainsi que par les dispositions légales et réglementaires spécifiques aux divers ordres d'enseignement;
+- de la réalisation progressive de la mission des établissements d'enseignement telle qu'elle est définie à l'art. 2 ci-avant, ainsi que par les dispositions légales et réglementaires spécifiques aux divers ordres d'enseignement;
 
-6. des besoins de la formation pédagogique initiale et des activités de formation pédagogique et scientifique continue des enseignants.
+- des besoins de la formation pédagogique initiale et des activités de formation pédagogique et scientifique continue des enseignants.
 
 <a id="art-13"></a>
 ## Art. 13.

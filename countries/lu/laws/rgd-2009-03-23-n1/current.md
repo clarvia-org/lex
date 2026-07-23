@@ -149,9 +149,9 @@ Lorsqu’un instituteur assure un service à temps partiel correspondant à 50% 
 
 La tâche de l’instituteur de l’enseignement fondamental peut également comprendre des activités connexes à autoriser par le ministre pour la durée renouvelable d’une année scolaire consistant en:
 
-1. des activités dans l’intérêt du fonctionnement de l’école non comprises dans les activités définies à l’article 4;
+- des activités dans l’intérêt du fonctionnement de l’école non comprises dans les activités définies à l’article 4;
 
-2. des activités dans l’intérêt de l’enseignement en général.
+- des activités dans l’intérêt de l’enseignement en général.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -224,9 +224,9 @@ Les leçons supplémentaires assurées uniquement pendant une partie du mois son
 
 La formule générale de l’indemnité pour une leçon supplémentaire est fixée comme suit :
 
-1. Pour les instituteurs assurant une tâche aux deuxième, troisième ou quatrième cycles : 1/23 x le traitement de base x nombre indice x valeur du point indiciaire applicable aux éléments de rémunération non pensionnables.
+- Pour les instituteurs assurant une tâche aux deuxième, troisième ou quatrième cycles : 1/23 x le traitement de base x nombre indice x valeur du point indiciaire applicable aux éléments de rémunération non pensionnables.
 
-2. Pour les instituteurs assurant une tâche au premier cycle : 1/25 x le traitement de base x nombre indice x valeur du point indiciaire applicable aux éléments de rémunération non pensionnables.
+- Pour les instituteurs assurant une tâche au premier cycle : 1/25 x le traitement de base x nombre indice x valeur du point indiciaire applicable aux éléments de rémunération non pensionnables.
 
 Toutefois, le montant alloué à titre d’indemnité pour une leçon supplémentaire ne peut être inférieur à 6,52 € N.I. 100.
 
@@ -241,11 +241,11 @@ La période de référence des instituteurs nommés après le 1er septembre 2016
 
 Par dérogation à l’article 6, alinéa 4, l’instituteur peut faire valoir pour le calcul de la période de référence débutant le 1er septembre 2016 :
 
-1. soit les heures de formation continue dépassant 24 heures, accomplies au cours de la période s’étendant du 1er septembre 2013 au 31 août 2016 ;
+- soit les heures de formation continue dépassant 24 heures, accomplies au cours de la période s’étendant du 1er septembre 2013 au 31 août 2016 ;
 
-2. soit les heures de formation continue dépassant 16 heures, accomplies au cours de la période s’étendant du 1er septembre 2014 au 31 août 2016 ;
+- soit les heures de formation continue dépassant 16 heures, accomplies au cours de la période s’étendant du 1er septembre 2014 au 31 août 2016 ;
 
-3. soit les heures de formation continue dépassant 8 heures, accomplies au cours de la période du 1er septembre 2015 au 31 août 2016.
+- soit les heures de formation continue dépassant 8 heures, accomplies au cours de la période du 1er septembre 2015 au 31 août 2016.
 
 L’instituteur peut opter pour le mode de comptabilisation qui lui est le plus favorable. Il remet « au directeur de région » pour le 15 mars 2017 au plus tard un relevé des heures de formation prestées conformément aux dispositions de l’alinéa 3. Le nombre d’heures pris en compte pour la période de référence qui débute le 1er septembre 2016 est acté d’un commun accord entre l’instituteur et « le directeur de région ».
 

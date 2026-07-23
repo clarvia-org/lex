@@ -47,11 +47,11 @@ Sans préjudice des missions spécifiques définies pour chaque institut, les mi
 
 Les instituts culturels de l’État peuvent :
 
-1. rechercher la collaboration d’instituts similaires au niveau national et international ;
+- rechercher la collaboration d’instituts similaires au niveau national et international ;
 
-2. faire appel à des experts et chercheurs ;
+- faire appel à des experts et chercheurs ;
 
-3. publier des ouvrages scientifiques et didactiques sans préjudice des dispositions légales en vigueur.
+- publier des ouvrages scientifiques et didactiques sans préjudice des dispositions légales en vigueur.
 
 (3)
 
@@ -101,21 +101,21 @@ Des règlements grand-ducaux peuvent créer des sections, départements, divisio
 
 Les Archives nationales ont pour missions :
 
-1. de collecter, de réunir, de conserver, de classer, d’inventorier, d’étudier et de communiquer des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ;
+- de collecter, de réunir, de conserver, de classer, d’inventorier, d’étudier et de communiquer des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ;
 
-2. de conseiller les producteurs ou détenteurs d’archives, publiques ou privées, sur le classement, l’inventorisation et la conservation de leurs archives ;
+- de conseiller les producteurs ou détenteurs d’archives, publiques ou privées, sur le classement, l’inventorisation et la conservation de leurs archives ;
 
-3. d’assurer l’encadrement et d’élaborer des recommandations sur la manière d’organiser, de gérer, de conserver les archives publiques et de les verser aux Archives nationales ;
+- d’assurer l’encadrement et d’élaborer des recommandations sur la manière d’organiser, de gérer, de conserver les archives publiques et de les verser aux Archives nationales ;
 
-4. d’accepter des archives privées par don, legs ou dépôt en vue de leur intégration ou de leur mise en dépôt aux Archives nationales et d’acquérir au profit de l’État des archives privées d’intérêt historique, scientifique, économique, sociétal ou culturel ;
+- d’accepter des archives privées par don, legs ou dépôt en vue de leur intégration ou de leur mise en dépôt aux Archives nationales et d’acquérir au profit de l’État des archives privées d’intérêt historique, scientifique, économique, sociétal ou culturel ;
 
-5. d’assurer la protection et la préservation des archives publiques et des archives privées classées conformément à la loi sur l’archivage ;
+- d’assurer la protection et la préservation des archives publiques et des archives privées classées conformément à la loi sur l’archivage ;
 
-6. d’organiser des expositions temporaires, des colloques, des conférences ainsi que des activités pédagogiques qui sont en rapport avec ses activités dans le but de valoriser le patrimoine archivistique national et de sensibiliser le public à l’importance de la conservation de ce patrimoine ;
+- d’organiser des expositions temporaires, des colloques, des conférences ainsi que des activités pédagogiques qui sont en rapport avec ses activités dans le but de valoriser le patrimoine archivistique national et de sensibiliser le public à l’importance de la conservation de ce patrimoine ;
 
-7. de sensibiliser les institutions, administrations et services publics aux techniques de l’archivage et à la conservation des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ;
+- de sensibiliser les institutions, administrations et services publics aux techniques de l’archivage et à la conservation des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ;
 
-8. de contribuer au développement de l’archivistique au niveau national et au niveau international.
+- de contribuer au développement de l’archivistique au niveau national et au niveau international.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -129,39 +129,39 @@ Les Archives nationales ont pour missions :
 
 La Bibliothèque nationale du Luxembourg a pour missions :
 
-1. en sa qualité de bibliothèque patrimoniale, de collecter, de décrire, de documenter, d’étudier, d’enrichir, de conserver, de préserver, de valoriser et de rendre accessible au public le patrimoine culturel par tous les moyens et méthodes nécessaires, y compris les technologies du numérique ; à ce titre :
+- en sa qualité de bibliothèque patrimoniale, de collecter, de décrire, de documenter, d’étudier, d’enrichir, de conserver, de préserver, de valoriser et de rendre accessible au public le patrimoine culturel par tous les moyens et méthodes nécessaires, y compris les technologies du numérique ; à ce titre :
 
-1. elle exerce ses missions relatives au dépôt légal tel que défini à l’article 10 et gère les fonds, constituant les collections de la Bibliothèque nationale du Luxembourg, qui en sont issus ;
+  - elle exerce ses missions relatives au dépôt légal tel que défini à l’article 10 et gère les fonds, constituant les collections de la Bibliothèque nationale du Luxembourg, qui en sont issus ;
 
-2. elle complète ces fonds par l’acquisition des publications, imprimées ou produites par un autre procédé que l’imprimerie, anciennes ou contemporaines, parues à l’étranger et se rapportant au Grand-Duché de Luxembourg, à ses ressortissants ou à ses habitants, ou créées par des auteurs luxembourgeois ou liés au Grand-Duché ;
+  - elle complète ces fonds par l’acquisition des publications, imprimées ou produites par un autre procédé que l’imprimerie, anciennes ou contemporaines, parues à l’étranger et se rapportant au Grand-Duché de Luxembourg, à ses ressortissants ou à ses habitants, ou créées par des auteurs luxembourgeois ou liés au Grand-Duché ;
 
-3. elle constitue et diffuse la bibliographie nationale des publications entrées par dépôt légal et acquis en complément du dépôt légal ;
+  - elle constitue et diffuse la bibliographie nationale des publications entrées par dépôt légal et acquis en complément du dépôt légal ;
 
-4. elle gère les fonds spéciaux des manuscrits, des imprimés rares et précieux, des documents musicaux, des documents iconographiques (gravures, estampes, livres illustrés et d’artiste), des cartes, plans, atlas et vues, des affiches, des cartes postales, des documents éphémères et de l’histoire des bibliothèques et du livre au Luxembourg.
+  - elle gère les fonds spéciaux des manuscrits, des imprimés rares et précieux, des documents musicaux, des documents iconographiques (gravures, estampes, livres illustrés et d’artiste), des cartes, plans, atlas et vues, des affiches, des cartes postales, des documents éphémères et de l’histoire des bibliothèques et du livre au Luxembourg.
 
-2. en sa qualité de bibliothèque scientifique et de recherche, de collecter, de décrire, de documenter, d’étudier, d’enrichir, de conserver et de valoriser des collections d’origine non luxembourgeoise d’imprimés, de publications numériques, de bases de données, et de documents audiovisuels et sonores ;
+- en sa qualité de bibliothèque scientifique et de recherche, de collecter, de décrire, de documenter, d’étudier, d’enrichir, de conserver et de valoriser des collections d’origine non luxembourgeoise d’imprimés, de publications numériques, de bases de données, et de documents audiovisuels et sonores ;
 
-3. d’assurer l’accès du plus grand nombre aux collections, y compris par le prêt, la consultation en salles de lecture et à distance, en utilisant les technologies les plus modernes de transmission de données ;
+- d’assurer l’accès du plus grand nombre aux collections, y compris par le prêt, la consultation en salles de lecture et à distance, en utilisant les technologies les plus modernes de transmission de données ;
 
-4. de gérer les systèmes informatiques de bibliothèques et les outils de gestion connexes utilisés en commun par les bibliothèques membres du réseau national des bibliothèques luxembourgeoises et par les bibliothèques membres du consortium luxembourgeois pour l’acquisition et la gestion de publications numériques ;
+- de gérer les systèmes informatiques de bibliothèques et les outils de gestion connexes utilisés en commun par les bibliothèques membres du réseau national des bibliothèques luxembourgeoises et par les bibliothèques membres du consortium luxembourgeois pour l’acquisition et la gestion de publications numériques ;
 
-5. de gérer et de publier le fichier national des données fondées sur la description en entités (personnes, collectivités, œuvres et expressions) ;
+- de gérer et de publier le fichier national des données fondées sur la description en entités (personnes, collectivités, œuvres et expressions) ;
 
-6. de coordonner le réseau national des bibliothèques luxembourgeoises et le consortium luxembourgeois pour l’acquisition et la gestion de publications numériques ;
+- de coordonner le réseau national des bibliothèques luxembourgeoises et le consortium luxembourgeois pour l’acquisition et la gestion de publications numériques ;
 
-7. de coordonner la gestion des métadonnées (catalogage, indexation, autorités) et de mettre en application les standards, normes et protocoles bibliothéconomiques homogènes, compatibles avec les standards internationaux, en vue de gérer le catalogue collectif national de ces bibliothèques ;
+- de coordonner la gestion des métadonnées (catalogage, indexation, autorités) et de mettre en application les standards, normes et protocoles bibliothéconomiques homogènes, compatibles avec les standards internationaux, en vue de gérer le catalogue collectif national de ces bibliothèques ;
 
-8. d’assurer la formation permanente des membres du réseau national des bibliothèques luxembourgeoises en rapport avec l’utilisation des outils et services informatiques et bibliothéconomiques du réseau ;
+- d’assurer la formation permanente des membres du réseau national des bibliothèques luxembourgeoises en rapport avec l’utilisation des outils et services informatiques et bibliothéconomiques du réseau ;
 
-9. de gérer les agences nationales ISBN, ISSN, ISMN et d’assurer l’enregistrement et la gestion d’identifiants numériques, y compris ISNI et ARK ;
+- de gérer les agences nationales ISBN, ISSN, ISMN et d’assurer l’enregistrement et la gestion d’identifiants numériques, y compris ISNI et ARK ;
 
-10. de contribuer au développement de la bibliothéconomie au niveau national et au niveau international ;
+- de contribuer au développement de la bibliothéconomie au niveau national et au niveau international ;
 
-11. de gérer le service de bibliothèque circulante ;
+- de gérer le service de bibliothèque circulante ;
 
-12. de mener des projets de recherches scientifiques sur ses propres collections et activités en relation avec ses missions par la publication d’ouvrages scientifiques, par l’organisation de colloques et d’expositions temporaires, ou encore par la création de bourses d’études ;
+- de mener des projets de recherches scientifiques sur ses propres collections et activités en relation avec ses missions par la publication d’ouvrages scientifiques, par l’organisation de colloques et d’expositions temporaires, ou encore par la création de bourses d’études ;
 
-13. d’organiser des conférences ainsi que des activités pédagogiques et culturelles.
+- d’organiser des conférences ainsi que des activités pédagogiques et culturelles.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -188,23 +188,23 @@ Un règlement grand-ducal détermine tout ce qui a trait à la mise en oeuvre du
 
 Le Musée national d’archéologie, d’histoire et d’art a pour missions :
 
-1. de réunir, d’étudier, de conserver, de développer, d’exposer, de publier et de valoriser des collections nationales et internationales dans les domaines des beaux-arts, des arts appliqués, de l’archéologie, de la numismatique et de l’histoire ;
+- de réunir, d’étudier, de conserver, de développer, d’exposer, de publier et de valoriser des collections nationales et internationales dans les domaines des beaux-arts, des arts appliqués, de l’archéologie, de la numismatique et de l’histoire ;
 
-2. d’organiser sur les différents sites muséaux qu’il gère des expositions temporaires, des colloques, des conférences ainsi que des activités scientifiques, pédagogiques et éducatives en rapport avec ses activités ;
+- d’organiser sur les différents sites muséaux qu’il gère des expositions temporaires, des colloques, des conférences ainsi que des activités scientifiques, pédagogiques et éducatives en rapport avec ses activités ;
 
-3. de réunir et de conserver des archives ainsi que des bibliothèques thématiques en rapport avec ses activités ;
+- de réunir et de conserver des archives ainsi que des bibliothèques thématiques en rapport avec ses activités ;
 
-4. de mener des recherches scientifiques en relation avec les collections qui lui sont confiées ;
+- de mener des recherches scientifiques en relation avec les collections qui lui sont confiées ;
 
-5. dans le cadre du Centre de documentation sur la Forteresse de Luxembourg, de mener des recherches scientifiques ayant trait à la forteresse, à l’histoire moderne et à l’identité nationale du Luxembourg valorisées au sein du Musée de la Forteresse dénommé « Musée Dräi Eechelen » ;
+- dans le cadre du Centre de documentation sur la Forteresse de Luxembourg, de mener des recherches scientifiques ayant trait à la forteresse, à l’histoire moderne et à l’identité nationale du Luxembourg valorisées au sein du Musée de la Forteresse dénommé « Musée Dräi Eechelen » ;
 
-6. dans le cadre du Centre de documentation sur les arts plastiques dénommé « Lëtzebuerger Konschtarchiv », de documenter et de répertorier la production dans le domaine des arts plastiques, de mener des recherches scientifiques sur les arts plastiques au Luxembourg et de développer un dictionnaire des arts plastiques au Luxembourg ;
+- dans le cadre du Centre de documentation sur les arts plastiques dénommé « Lëtzebuerger Konschtarchiv », de documenter et de répertorier la production dans le domaine des arts plastiques, de mener des recherches scientifiques sur les arts plastiques au Luxembourg et de développer un dictionnaire des arts plastiques au Luxembourg ;
 
-7. de collaborer à la création et à la gestion de musées régionaux et locaux d’histoire, d’archéologie et d’art ;
+- de collaborer à la création et à la gestion de musées régionaux et locaux d’histoire, d’archéologie et d’art ;
 
-8. de coopérer avec la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels ;
+- de coopérer avec la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels ;
 
-9. de gérer les sites, le « Nationalmusée Um Fëschmaart - Archéologie, Histoire, Art » à Luxembourg-Ville-Haute, le Musée de la Forteresse dénommé « Musée Dräi Eechelen - Forteresse, Histoire, Identités » à Luxembourg-Kirchberg et la Villa romaine à Echternach ainsi que d’autres dépendances muséales, éducatives, scientifiques et techniques.
+- de gérer les sites, le « Nationalmusée Um Fëschmaart - Archéologie, Histoire, Art » à Luxembourg-Ville-Haute, le Musée de la Forteresse dénommé « Musée Dräi Eechelen - Forteresse, Histoire, Identités » à Luxembourg-Kirchberg et la Villa romaine à Echternach ainsi que d’autres dépendances muséales, éducatives, scientifiques et techniques.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -218,19 +218,19 @@ Le Musée national d’archéologie, d’histoire et d’art a pour missions :
 
 Le Musée national d’histoire naturelle a pour missions :
 
-1. d’étudier et de documenter le patrimoine naturel et de contribuer à la conservation de la biodiversité et de la géodiversité ;
+- d’étudier et de documenter le patrimoine naturel et de contribuer à la conservation de la biodiversité et de la géodiversité ;
 
-2. de gérer, de conserver, de préserver et de développer les collections nationales du patrimoine naturel et la base nationale de données scientifiques sur la biodiversité et de les rendre accessibles au public ;
+- de gérer, de conserver, de préserver et de développer les collections nationales du patrimoine naturel et la base nationale de données scientifiques sur la biodiversité et de les rendre accessibles au public ;
 
-3. d’effectuer des inventaires, d’entreprendre des prospections et de procéder à des fouilles paléontologiques, minéralogiques et géologiques, de surveiller de telles fouilles pratiquées par des organismes publics ou privés et des particuliers en collaboration étroite avec l’Institut national de recherches archéologiques ;
+- d’effectuer des inventaires, d’entreprendre des prospections et de procéder à des fouilles paléontologiques, minéralogiques et géologiques, de surveiller de telles fouilles pratiquées par des organismes publics ou privés et des particuliers en collaboration étroite avec l’Institut national de recherches archéologiques ;
 
-4. d’initier, de réaliser et de soutenir des travaux de recherche et des publications scientifiques et de collaborer avec des particuliers, des organismes publics ou privés concernés ;
+- d’initier, de réaliser et de soutenir des travaux de recherche et des publications scientifiques et de collaborer avec des particuliers, des organismes publics ou privés concernés ;
 
-5. de contribuer à la promotion de la culture scientifique et de sensibiliser le public à la connaissance et à la conservation du patrimoine naturel national et international par l’exploitation d’un musée et par la présentation de thèmes de sciences naturelles grâce à des expositions, des publications, des formations, des conférences, des colloques et des activités éducatives ;
+- de contribuer à la promotion de la culture scientifique et de sensibiliser le public à la connaissance et à la conservation du patrimoine naturel national et international par l’exploitation d’un musée et par la présentation de thèmes de sciences naturelles grâce à des expositions, des publications, des formations, des conférences, des colloques et des activités éducatives ;
 
-6. de collaborer avec des musées régionaux et locaux ;
+- de collaborer avec des musées régionaux et locaux ;
 
-7. de gérer des dépendances scientifiques, muséales, éducatives et techniques.
+- de gérer des dépendances scientifiques, muséales, éducatives et techniques.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -268,31 +268,31 @@ L’Institut national pour le patrimoine architectural a pour missions :
 
 Le Centre national de l’audiovisuel a pour missions :
 
-1. de collecter, de conserver, de cataloguer, d’enrichir, de numériser, de pérenniser et de rendre accessible au public, dans le respect de la politique de collecte du Centre national de l’audiovisuel, les documents ayant trait au patrimoine audiovisuel, photographique et sonore national auxquels peuvent être joints des documents produits à l’étranger et notamment ceux présentant une importance significative pour ce même patrimoine ;
+- de collecter, de conserver, de cataloguer, d’enrichir, de numériser, de pérenniser et de rendre accessible au public, dans le respect de la politique de collecte du Centre national de l’audiovisuel, les documents ayant trait au patrimoine audiovisuel, photographique et sonore national auxquels peuvent être joints des documents produits à l’étranger et notamment ceux présentant une importance significative pour ce même patrimoine ;
 
-2. de mener des recherches scientifiques en relation avec les collections qui lui sont confiées ;
+- de mener des recherches scientifiques en relation avec les collections qui lui sont confiées ;
 
-3. de mener, en collaboration avec les instances concernées, des activités de sensibilisation, d’éducation et de formation à l’image et aux médias pour le public, les enseignants et les professionnels ;
+- de mener, en collaboration avec les instances concernées, des activités de sensibilisation, d’éducation et de formation à l’image et aux médias pour le public, les enseignants et les professionnels ;
 
-4. de produire ou faire produire des œuvres et publications relevant des domaines audiovisuel, photographique et sonore présentant un intérêt culturel significatif pour la communauté nationale et internationale ou qui s’avèrent nécessaires pour l’accomplissement des missions dévolues à l’établissement ;
+- de produire ou faire produire des œuvres et publications relevant des domaines audiovisuel, photographique et sonore présentant un intérêt culturel significatif pour la communauté nationale et internationale ou qui s’avèrent nécessaires pour l’accomplissement des missions dévolues à l’établissement ;
 
-5. de soutenir la création et la diffusion de projets, œuvres et publications relevant des domaines audiovisuel, photographique et sonore ;
+- de soutenir la création et la diffusion de projets, œuvres et publications relevant des domaines audiovisuel, photographique et sonore ;
 
-6. d’organiser ou promouvoir des manifestations publiques à caractère artistique et éducatif qui relèvent des domaines audiovisuel, photographique et sonore ;
+- d’organiser ou promouvoir des manifestations publiques à caractère artistique et éducatif qui relèvent des domaines audiovisuel, photographique et sonore ;
 
-7. d’organiser sur les différents sites de l’institut et sur d’autres établissements de l’État et d’institutions ou organismes culturels au niveau national et international des expositions temporaires ou permanentes, des colloques, des projections, des conférences ainsi que d’autres manifestations en rapport avec ses activités ;
+- d’organiser sur les différents sites de l’institut et sur d’autres établissements de l’État et d’institutions ou organismes culturels au niveau national et international des expositions temporaires ou permanentes, des colloques, des projections, des conférences ainsi que d’autres manifestations en rapport avec ses activités ;
 
-8. d’acquérir et de rendre accessibles au grand public et à un public spécialisé une documentation nationale et internationale relative aux domaines de l’audiovisuel, de la photographie et du sonore sur différents supports, physiques et numériques ;
+- d’acquérir et de rendre accessibles au grand public et à un public spécialisé une documentation nationale et internationale relative aux domaines de l’audiovisuel, de la photographie et du sonore sur différents supports, physiques et numériques ;
 
-9. de documenter, sans distinction de langue, la production et la diffusion audiovisuelle, photographique et sonore au Luxembourg ;
+- de documenter, sans distinction de langue, la production et la diffusion audiovisuelle, photographique et sonore au Luxembourg ;
 
-10. de gérer les différents sites se composant d’un bâtiment principal à Dudelange, le site du château d’eau à Dudelange, l’ancienne Brasserie de Lannoy, appelée « Brahaus », à Clervaux ainsi que la partie du château de Clervaux mis à sa disposition ;
+- de gérer les différents sites se composant d’un bâtiment principal à Dudelange, le site du château d’eau à Dudelange, l’ancienne Brasserie de Lannoy, appelée « Brahaus », à Clervaux ainsi que la partie du château de Clervaux mis à sa disposition ;
 
-11. de conseiller les administrations publiques et communales sur les procédés de collecte, de circulation, de traitement et d’archivage des documents audiovisuels, photographiques et sonores ;
+- de conseiller les administrations publiques et communales sur les procédés de collecte, de circulation, de traitement et d’archivage des documents audiovisuels, photographiques et sonores ;
 
-12. de collaborer, dans l’exécution des travaux courants, avec les établissements de l’État et des communes et de coordonner ses activités avec celles des autres institutions culturelles dans l’intérêt de la mise en valeur du patrimoine national ;
+- de collaborer, dans l’exécution des travaux courants, avec les établissements de l’État et des communes et de coordonner ses activités avec celles des autres institutions culturelles dans l’intérêt de la mise en valeur du patrimoine national ;
 
-13. de collaborer avec des instituts et associations au niveau national et international.
+- de collaborer avec des instituts et associations au niveau national et international.
 
 La Médiathèque du Centre national de l’audiovisuel a un rôle de promotion de l’audiovisuel, de la photographie et du son. La Médiathèque est intégrée au réseau national des bibliothèques luxembourgeoises et fait partie du conseil supérieur des bibliothèques.
 
@@ -315,37 +315,37 @@ Un règlement grand-ducal détermine la mise en œuvre du dépôt légal. Il dé
 
 Le Centre national de littérature a pour missions :
 
-1. de collecter, de conserver, de cataloguer, de numériser et de rendre accessible au public tout ce qui a trait au patrimoine national de la littérature et des arts du spectacle ;
+- de collecter, de conserver, de cataloguer, de numériser et de rendre accessible au public tout ce qui a trait au patrimoine national de la littérature et des arts du spectacle ;
 
-2. d’assurer, sans distinction de langue, la documentation et la recherche sur la littérature, les arts du spectacle et la vie littéraire du Luxembourg, notamment :
+- d’assurer, sans distinction de langue, la documentation et la recherche sur la littérature, les arts du spectacle et la vie littéraire du Luxembourg, notamment :
 
-1. par la recherche fondamentale et appliquée sur les auteurs et professionnels du théâtre, l’histoire et les genres littéraires ;
+  - par la recherche fondamentale et appliquée sur les auteurs et professionnels du théâtre, l’histoire et les genres littéraires ;
 
-2. par le biais de publications ;
+  - par le biais de publications ;
 
-3. par le biais d’expositions ;
+  - par le biais d’expositions ;
 
-4. par le biais de projets d’édition ;
+  - par le biais de projets d’édition ;
 
-5. par des projets dans le domaine des humanités numériques ;
+  - par des projets dans le domaine des humanités numériques ;
 
-6. par la mise à la disposition de chercheurs luxembourgeois et étrangers des informations nécessaires et en les assistant dans leurs travaux.
+  - par la mise à la disposition de chercheurs luxembourgeois et étrangers des informations nécessaires et en les assistant dans leurs travaux.
 
-3. de promouvoir la création, la traduction, la diffusion ainsi que la réception d’œuvres littéraires luxembourgeoises ;
+- de promouvoir la création, la traduction, la diffusion ainsi que la réception d’œuvres littéraires luxembourgeoises ;
 
-4. de proposer son expertise en matière de questions de littérature et des arts du spectacle ;
+- de proposer son expertise en matière de questions de littérature et des arts du spectacle ;
 
-5. de soutenir les initiatives visant à la promotion de la littérature luxembourgeoise, de la lecture et du théâtre au Luxembourg et à l’étranger, notamment :
+- de soutenir les initiatives visant à la promotion de la littérature luxembourgeoise, de la lecture et du théâtre au Luxembourg et à l’étranger, notamment :
 
-1. en conseillant et en assistant dans le domaine en question les organismes publics et privés ainsi que les particuliers qui en font la demande ;
+  - en conseillant et en assistant dans le domaine en question les organismes publics et privés ainsi que les particuliers qui en font la demande ;
 
-2. en collaborant à des manifestations et à des projets liés au domaine littéraire ;
+  - en collaborant à des manifestations et à des projets liés au domaine littéraire ;
 
-3. en soutenant la concertation publique en matière de littérature multilingue ;
+  - en soutenant la concertation publique en matière de littérature multilingue ;
 
-6. d’offrir au public un programme d’animation socioculturelle, notamment en organisant des expositions et des représentations publiques ainsi que des conférences, des colloques et des manifestations à caractère scientifique et culturel en rapport avec ses missions ;
+- d’offrir au public un programme d’animation socioculturelle, notamment en organisant des expositions et des représentations publiques ainsi que des conférences, des colloques et des manifestations à caractère scientifique et culturel en rapport avec ses missions ;
 
-7. d’assurer, en collaboration avec les instances concernées, un programme éducatif et pédagogique, dont la formation continue pour enseignants et acteurs du secteur littéraire, théâtral et archivistique ainsi que des activités spécifiques pour des groupes d’étudiants, d’élèves et de jeunes en visite.
+- d’assurer, en collaboration avec les instances concernées, un programme éducatif et pédagogique, dont la formation continue pour enseignants et acteurs du secteur littéraire, théâtral et archivistique ainsi que des activités spécifiques pour des groupes d’étudiants, d’élèves et de jeunes en visite.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -377,35 +377,35 @@ Un règlement grand-ducal détermine les modalités de fonctionnement du Conseil
 
 L’Institut national de recherches archéologiques a pour missions :
 
-1. d’étudier, de protéger, de conserver et de valoriser le patrimoine archéologique national ;
+- d’étudier, de protéger, de conserver et de valoriser le patrimoine archéologique national ;
 
-2. d’organiser et de promouvoir toutes formes de recherches scientifiques en archéologie ;
+- d’organiser et de promouvoir toutes formes de recherches scientifiques en archéologie ;
 
-3. de traiter les dossiers relatifs à l’archéologie préventive et les demandes d’évaluation archéologique qui lui sont adressées dans le cadre de la loi du 25 février 2022 relative au patrimoine culturel ;
+- de traiter les dossiers relatifs à l’archéologie préventive et les demandes d’évaluation archéologique qui lui sont adressées dans le cadre de la loi du 25 février 2022 relative au patrimoine culturel ;
 
-4. d’aviser le ministre dans l’exécution des articles 5 et 6 de la loi du 25 février 2022 relative au patrimoine culturel;
+- d’aviser le ministre dans l’exécution des articles 5 et 6 de la loi du 25 février 2022 relative au patrimoine culturel;
 
-5. d’entreprendre des recherches, des prospections et des fouilles archéologiques ;
+- d’entreprendre des recherches, des prospections et des fouilles archéologiques ;
 
-6. d’assurer le contrôle scientifique et technique d’organismes privés agréés et publics effectuant des opérations ou recherches archéologiques ;
+- d’assurer le contrôle scientifique et technique d’organismes privés agréés et publics effectuant des opérations ou recherches archéologiques ;
 
-7. de veiller à la protection, à l’entretien et à la mise en valeur des sites archéologiques conservés antérieurs à l’époque médiévale, et de conseiller l’Institut national pour le patrimoine architectural ce qui concerne l’entretien et la mise en valeur des sites archéologiques d’époque médiévale et moderne ;
+- de veiller à la protection, à l’entretien et à la mise en valeur des sites archéologiques conservés antérieurs à l’époque médiévale, et de conseiller l’Institut national pour le patrimoine architectural ce qui concerne l’entretien et la mise en valeur des sites archéologiques d’époque médiévale et moderne ;
 
-8. d’instruire les demandes d’autorisation de recherche archéologique préventive et programmée adressées au ministre ;
+- d’instruire les demandes d’autorisation de recherche archéologique préventive et programmée adressées au ministre ;
 
-9. de réaliser un inventaire du patrimoine archéologique, de gérer et actualiser le recensement cartographié du patrimoine archéologique ;
+- de réaliser un inventaire du patrimoine archéologique, de gérer et actualiser le recensement cartographié du patrimoine archéologique ;
 
-10. d’assurer les analyses post-fouilles, la gestion et la conservation du mobilier archéologique issu de toutes investigations archéologiques ;
+- d’assurer les analyses post-fouilles, la gestion et la conservation du mobilier archéologique issu de toutes investigations archéologiques ;
 
-11. de soutenir et conseiller les initiatives bénévoles et associatives visant à promouvoir et protéger le patrimoine archéologique ;
+- de soutenir et conseiller les initiatives bénévoles et associatives visant à promouvoir et protéger le patrimoine archéologique ;
 
-12. de gérer des dépendances scientifiques, didactiques et techniques en relation avec le patrimoine archéologique et de collaborer à la création et à la gestion d’infrastructures régionales et locales concernant le patrimoine archéologique ;
+- de gérer des dépendances scientifiques, didactiques et techniques en relation avec le patrimoine archéologique et de collaborer à la création et à la gestion d’infrastructures régionales et locales concernant le patrimoine archéologique ;
 
-13. de coopérer avec le Musée national d’archéologie, d’histoire et d’art et plus particulièrement en ce qui concerne les collections archéologiques ;
+- de coopérer avec le Musée national d’archéologie, d’histoire et d’art et plus particulièrement en ce qui concerne les collections archéologiques ;
 
-14. de coopérer avec l’Institut national pour le patrimoine architectural et la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels au cas où leurs activités concerneraient aussi le patrimoine archéologique ;
+- de coopérer avec l’Institut national pour le patrimoine architectural et la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels au cas où leurs activités concerneraient aussi le patrimoine archéologique ;
 
-15. de coopérer avec le Musée national d’histoire naturelle pour la sauvegarde et la valorisation du patrimoine qu’il a en charge et toutes autres entités chargées de l’archéologie nationale
+- de coopérer avec le Musée national d’histoire naturelle pour la sauvegarde et la valorisation du patrimoine qu’il a en charge et toutes autres entités chargées de l’archéologie nationale
 
 (2)
 

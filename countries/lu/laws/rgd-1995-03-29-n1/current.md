@@ -25,6 +25,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 02/07/2007 : Règlement grand-ducal du 29 mars 1995 portant détermination des modalités de désignation des représentants des étrangers au Conseil National pour Etrangers, ainsi que leur répartition par nationalités.
 
+I- Répartition des représentants des étrangers au conseil national pour étrangers par nationalités
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
@@ -59,14 +61,16 @@ En cas de décès ou de démission d’un membre du conseil, son suppléant le r
 
 Le mandat individuel d’un représentant des étrangers prend fin, hormis le cas de décès ou de démission, dès qu’il acquiert la nationalité luxembourgeoise. Il en est de même en cas de transfert du domicile en dehors du territoire du Grand-Duché. Dans ces cas le membre suppléant est remplacé, suivant les dispositions prévues aux articles 29 et suivants, de façcon à respecter les modalités de représentation fixées aux articles précédents.
 
+II. Associations admises à proposer les représentants des étrangers au ministre ayant dans ses attributions la famille.
+
 <a id="art-5"></a>
 ## Art. 5.
 
 Sont admises à proposer les représentants des étrangers au ministre ayant dans ses attributions la famille, d’après les modalités ci-après désignées:
 
-1. les associations des étrangers ayant une activité sociale, culturelle ou sportive, l’association des étrangers étant celle dont soit la majorité des membres fondateurs, soit la majorité des membres actuels, sont d’une nationalité autre que luxembourgeoise;
+- les associations des étrangers ayant une activité sociale, culturelle ou sportive, l’association des étrangers étant celle dont soit la majorité des membres fondateurs, soit la majorité des membres actuels, sont d’une nationalité autre que luxembourgeoise;
 
-2. les associations oeuvrant, à titre principal, en faveur des étrangers.
+- les associations oeuvrant, à titre principal, en faveur des étrangers.
 
 Les associations visées à l’alinéa qui précède doivent être inscrites au Commissariat du Gouvernement aux étrangers au plus tard le quinzième jour avant le jour du scrutin défini à l’article 15.
 
@@ -82,11 +86,11 @@ Pour les premières élections il suffit que les statuts de l’association aien
 
 La demande d’inscription se fait sur papier libre, adressée au Commissariat du Gouvernement aux étrangers en joignant:
 
-1. une copie conforme de l’acte de constitution
+- une copie conforme de l’acte de constitution
 
-2. une copie conforme attestant la publication des statuts au Mémorial C, recueil spécial des sociétés et associations. Pour les premières élections une copie conforme attestant le dépôt des statuts aux fins de publication suffit.
+- une copie conforme attestant la publication des statuts au Mémorial C, recueil spécial des sociétés et associations. Pour les premières élections une copie conforme attestant le dépôt des statuts aux fins de publication suffit.
 
-3. la liste des administrateurs désignés en conformité des statuts pour l’exercice en cours.
+- la liste des administrateurs désignés en conformité des statuts pour l’exercice en cours.
 
 Afin d’examiner la conformité de l’association aux articles 5 et 6, le Commissariat du Gouvernement aux étrangers peut exiger la production de la liste des membres, établie conformément à l’article 10 de la loi du 21 avril 1928 précitée.
 
@@ -104,10 +108,14 @@ La liste des inscriptions est révisée annuellement avec effet au 1er juillet.
 
 Toutes les associations inscrites auprès du Commissariat du Gouvernement aux étrangers sont admises à proposer les représentants des étrangers au ministre ayant dans ses attributions la famille.
 
+III. Modalités de désignation des candidats parmi lesquels sont élus les représentants des étrangers à proposer au ministre compétant.
+
 <a id="art-10"></a>
 ## Art. 10.
 
 Les représentants des étrangers à proposer au ministre compétent sont élus parmi les personnes figurant sur la liste des candidats déclarés, sauf ce qui est prévu aux articles 30 et suivants.
+
+A. Les candidatures
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -138,11 +146,11 @@ Les candidats doivent se déclarer ou être déclarés auprès du Commissariat d
 
 La déclaration de candidature est accompagnée:
 
-1. d’un acte de naissance
+- d’un acte de naissance
 
-2. d’une pièce documentant la nationalité du candidat
+- d’une pièce documentant la nationalité du candidat
 
-3. d’un extrait du casier judiciaire.
+- d’un extrait du casier judiciaire.
 
 La liste des candidats déclarés est affichée au Commissariat du Gouvernement aux étrangers du quinzième jour précédant les élections jusqu’au jour fixé pour les élections. Elle est provisoire jusqu’au huitième jour précédant les élections, où elle est arrêtée définitivement. Elle peut être consultée par tout intéressé.
 
@@ -152,6 +160,8 @@ La liste des candidats déclarés est affichée au Commissariat du Gouvernement 
 Celui qui ne remplit pas les conditions des articles 11 et 13 ci-dessus n’est pas éligible. Il ne peut se porter candidat et peut retirer sa candidature.
 
 Si l’éligibilité d’un candidat, du point de vue des condamnations encourues, paraît être douteuse, le Commissaire du Gouvernement aux étrangers fait réviser d’urgence les conditions d’éligibilité par le Parquet et invite le candidat à présenter ses observations. Lorsque sur le vu des extraits de casier judiciaire ou de tous autres renseignements produits par le Parquet, l’inéligibilité est constatée, le Commissaire doit rayer le candidat en question.
+
+B. Le scrutin
 
 <a id="art-15"></a>
 ## Art. 15.

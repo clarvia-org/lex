@@ -27,11 +27,11 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-1. Les laboratoires dans lesquels sont effectuées des analyses de biologie médicale doivent répondre aux conditions prévues par la présente loi.
+- Les laboratoires dans lesquels sont effectuées des analyses de biologie médicale doivent répondre aux conditions prévues par la présente loi.
 
-2. Sont considérées comme analyses de biologie médicale les examens biologiques qui concourent à la prévention, au diagnostic et au traitement des maladies humaines ou qui font apparaître toute autre modification de l´état physiologique; ces analyses ne peuvent être effectuées que dans les laboratoires mentionnés à l´alinéa 1 er sous la responsabilité des personnes visées à l´article 4 de la présente loi. Ces laboratoires sont seuls autorisés à utiliser l´appellation de laboratoire d´analyses de biologie médicale. Ne constituent pas un examen biologique au sens de la présente loi un test, un recueil et un traitement de signaux biologiques, à visées de dépistage, d’orientation diagnostique ou d’adaptation thérapeutique immédiate.
+- Sont considérées comme analyses de biologie médicale les examens biologiques qui concourent à la prévention, au diagnostic et au traitement des maladies humaines ou qui font apparaître toute autre modification de l´état physiologique; ces analyses ne peuvent être effectuées que dans les laboratoires mentionnés à l´alinéa 1 er sous la responsabilité des personnes visées à l´article 4 de la présente loi. Ces laboratoires sont seuls autorisés à utiliser l´appellation de laboratoire d´analyses de biologie médicale. Ne constituent pas un examen biologique au sens de la présente loi un test, un recueil et un traitement de signaux biologiques, à visées de dépistage, d’orientation diagnostique ou d’adaptation thérapeutique immédiate.
 
-3. Un laboratoire d´analyses de biologie médicale peut comporter plusieurs disciplines dont la liste est fixée par règlement grand-ducal. Un laboratoire peut exercer ses activités soit dans toutes ces disciplines, soit dans l´une ou plusieurs d´entre elles seulement. Les examens relevant de l’anatomopathologie et de la génétique humaine sont effectués exclusivement dans le centre de diagnostic visé à l’article 2, paragraphe 4 de la loi du 7 août 2012 portant création de l’établissement public « Laboratoire national de santé.
+- Un laboratoire d´analyses de biologie médicale peut comporter plusieurs disciplines dont la liste est fixée par règlement grand-ducal. Un laboratoire peut exercer ses activités soit dans toutes ces disciplines, soit dans l´une ou plusieurs d´entre elles seulement. Les examens relevant de l’anatomopathologie et de la génétique humaine sont effectués exclusivement dans le centre de diagnostic visé à l’article 2, paragraphe 4 de la loi du 7 août 2012 portant création de l’établissement public « Laboratoire national de santé.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -57,17 +57,17 @@ Lorsque le laboratoire est exploité par une personne morale, celle-ci désigne 
 <a id="art-3"></a>
 ## Art. 3.
 
-1. L´ouverture et l´exploitation d´un laboratoire d´analyses de biologie médicale doivent être autorisées par le Ministre de la Santé, le Collège médical entendu en son avis. Cette autorisation sera délivrée si la création du laboratoire répond à un besoin sur le plan national, régional ou local et si les conditions prévues par la présente loi et ses règlements d´exécution sont remplies.
+- L´ouverture et l´exploitation d´un laboratoire d´analyses de biologie médicale doivent être autorisées par le Ministre de la Santé, le Collège médical entendu en son avis. Cette autorisation sera délivrée si la création du laboratoire répond à un besoin sur le plan national, régional ou local et si les conditions prévues par la présente loi et ses règlements d´exécution sont remplies.
 
-2. Toute modification survenue postérieurement à la décision d´autorisation, soit dans la personne du responsable du laboratoire, soit dans les activités du laboratoire, doit faire l´objet d´une déclaration et d´une nouvelle autorisation du Ministre de la Santé.
+- Toute modification survenue postérieurement à la décision d´autorisation, soit dans la personne du responsable du laboratoire, soit dans les activités du laboratoire, doit faire l´objet d´une déclaration et d´une nouvelle autorisation du Ministre de la Santé.
 
-3. L´autorisation est retirée lorsque les conditions légales et réglementaires cessent d´être remplies. Le Ministre de la Santé sur rapport de la personne chargée d´effectuer le contrôle des laboratoires visé à l´article 12 de la présente loi, met l´exploitant en demeure de se conformer aux conditions fixées dans un délai qu´il détermine et qui ne peut dépasser trois mois. Passé ce délai et à défaut par l´exploitant de s´être conformé aux prescriptions, l´autorisation est retirée. Lorsque des raisons urgentes de santé publique le justifient, le Ministre de la Santé, sur avis des personnes visées ci-dessus, et après avoir entendu l´exploitant en ses explications, peut ordonner la fermeture immédiate du laboratoire pour une période qui ne peut dépasser deux mois. A l´expiration de ce délai le Ministre prend une décision définitive de retrait ou non de l´autorisation.
+- L´autorisation est retirée lorsque les conditions légales et réglementaires cessent d´être remplies. Le Ministre de la Santé sur rapport de la personne chargée d´effectuer le contrôle des laboratoires visé à l´article 12 de la présente loi, met l´exploitant en demeure de se conformer aux conditions fixées dans un délai qu´il détermine et qui ne peut dépasser trois mois. Passé ce délai et à défaut par l´exploitant de s´être conformé aux prescriptions, l´autorisation est retirée. Lorsque des raisons urgentes de santé publique le justifient, le Ministre de la Santé, sur avis des personnes visées ci-dessus, et après avoir entendu l´exploitant en ses explications, peut ordonner la fermeture immédiate du laboratoire pour une période qui ne peut dépasser deux mois. A l´expiration de ce délai le Ministre prend une décision définitive de retrait ou non de l´autorisation.
 
-4. Le refus ou le retrait de l´autorisation est motivé.
+- Le refus ou le retrait de l´autorisation est motivé.
 
-5. Un recours peut être introduit auprès du Conseil d´Etat, comité du contentieux, contre une décision de refus ou de retait d´autorisation d´exploitation d´un laboratoire d´analyses de biologie médicale. Le comité du contentieux statue en dernière instance et comme juge de fond.
+- Un recours peut être introduit auprès du Conseil d´Etat, comité du contentieux, contre une décision de refus ou de retait d´autorisation d´exploitation d´un laboratoire d´analyses de biologie médicale. Le comité du contentieux statue en dernière instance et comme juge de fond.
 
-6. Les décisions concernant l´octroi, le refus ou le retrait de l´autorisation sont prises sur avis du Collège médical et de la Commission consultative des laboratoires visée à l´article 14 de la présente loi.
+- Les décisions concernant l´octroi, le refus ou le retrait de l´autorisation sont prises sur avis du Collège médical et de la Commission consultative des laboratoires visée à l´article 14 de la présente loi.
 
 <a id="art-3bis"></a>
 ## Art. 3bis.
@@ -76,11 +76,11 @@ Lorsque le laboratoire est exploité par une personne morale, celle-ci désigne 
 
 Un examen de biologie médicale se déroule en trois phases:
 
-1. La phase pré-analytique, qui comprend le prélèvement d’un échantillon biologique sur un être humain, le recueil des éléments cliniques pertinents, la préparation, le transport et la conservation de l’échantillon biologique jusqu’à l’endroit où il est analysé;
+- La phase pré-analytique, qui comprend le prélèvement d’un échantillon biologique sur un être humain, le recueil des éléments cliniques pertinents, la préparation, le transport et la conservation de l’échantillon biologique jusqu’à l’endroit où il est analysé;
 
-2. La phase analytique, qui est le processus technique permettant l’obtention d’un résultat d’analyse biologique;
+- La phase analytique, qui est le processus technique permettant l’obtention d’un résultat d’analyse biologique;
 
-3. La phase post-analytique, qui comprend la validation, l’interprétation contextuelle du résultat ainsi que la communication appropriée du résultat au prescripteur et le cas échéant au patient.
+- La phase post-analytique, qui comprend la validation, l’interprétation contextuelle du résultat ainsi que la communication appropriée du résultat au prescripteur et le cas échéant au patient.
 
 (2)
 
@@ -91,9 +91,9 @@ Le responsable d’un laboratoire d’analyses médicales qui délègue une part
 <a id="art-4"></a>
 ## Art. 4.
 
-1. Un laboratoire d´analyses de biologie médicale doit être placé sous la direction responsable, personnelle et effective des personnes visées à l´article 2 alinéa 2. Le responsable d´un laboratoire d´analyses de biologie médicale ne peut exercer ses fonctions dans un autre laboratoire, ni exercer une autre activité professionnelle régulière, à l´exception des actes médicaux et prescriptions pharmacologiques directement liés à l´exercice de la biologie ainsi que des fonctions d´enseignement exercées à titre accessoire.
+- Un laboratoire d´analyses de biologie médicale doit être placé sous la direction responsable, personnelle et effective des personnes visées à l´article 2 alinéa 2. Le responsable d´un laboratoire d´analyses de biologie médicale ne peut exercer ses fonctions dans un autre laboratoire, ni exercer une autre activité professionnelle régulière, à l´exception des actes médicaux et prescriptions pharmacologiques directement liés à l´exercice de la biologie ainsi que des fonctions d´enseignement exercées à titre accessoire.
 
-2. Des dérogations à l´interdiction du cumul d´activités peuvent être accordées à titre exceptionnel par le Ministre de la Santé, après avis de la Commission consultative des laboratoires, en tenant compte de conditions géographiques particulières, soit de l´organisation de l´établissement sanitaire dans lequel est implanté le laboratoire, soit des nécessités inhérentes à certains moyens de diagnostic ou à certaines thérapeutiques. L´autorisation peut être limitée dans le temps et être assortie d´une liste limitative d´actes de laboratoire pouvant être effectués.
+- Des dérogations à l´interdiction du cumul d´activités peuvent être accordées à titre exceptionnel par le Ministre de la Santé, après avis de la Commission consultative des laboratoires, en tenant compte de conditions géographiques particulières, soit de l´organisation de l´établissement sanitaire dans lequel est implanté le laboratoire, soit des nécessités inhérentes à certains moyens de diagnostic ou à certaines thérapeutiques. L´autorisation peut être limitée dans le temps et être assortie d´une liste limitative d´actes de laboratoire pouvant être effectués.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -138,16 +138,16 @@ Un règlement grand-ducal fixe les conditions dans lesquelles, par dérogation a
 <a id="art-9"></a>
 ## Art. 9.
 
-1. Un laboratoire d´analyses de biologie médicale doit être doté d´un personnel qualifié en nombre suffisant compte tenu de l´activité globale du laboratoire. II doit comporter les locaux, installations et équipements nécessaires pour garantir l´exercice efficace des activités envisagées. Un règlement grand-ducal, pris sur avis du Collège médical, détermine les critères minima à observer.
+- Un laboratoire d´analyses de biologie médicale doit être doté d´un personnel qualifié en nombre suffisant compte tenu de l´activité globale du laboratoire. II doit comporter les locaux, installations et équipements nécessaires pour garantir l´exercice efficace des activités envisagées. Un règlement grand-ducal, pris sur avis du Collège médical, détermine les critères minima à observer.
 
-2. Les dispositions de l´article 8 de la loi du 29 août 1976 portant planification et organisation hospitalières sont applicables aux laboratoires d´analyses de biologie médicale.
+- Les dispositions de l´article 8 de la loi du 29 août 1976 portant planification et organisation hospitalières sont applicables aux laboratoires d´analyses de biologie médicale.
 
 <a id="art-10"></a>
 ## Art. 10.
 
-1. Le personnel d´un laboratoire d´analyses de biologie médicale travaille sôus la responsabilité du responsable de laboratoire.
+- Le personnel d´un laboratoire d´analyses de biologie médicale travaille sôus la responsabilité du responsable de laboratoire.
 
-2. Les attributions des laborantins et assistants techniques médicaux sont déterminées par les loi et règlements régissant ces deux professions.
+- Les attributions des laborantins et assistants techniques médicaux sont déterminées par les loi et règlements régissant ces deux professions.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -176,15 +176,17 @@ Cette commission a pour mission de fournir au Ministre de la Santé des avis con
 <a id="art-15"></a>
 ## Art. 15.
 
-1. Sous réserve des dispositions prévues aux alinéas 2 et 4 du présent article les infractions aux dispositions de la présente loi et des règlements pris en son exécution sont punies d´un emprisonnement de 8 jours à 6 mois et d´une amende de trente mille à trois cent mille francs ou d´une de ces peines seulement. Le tribunal peut en outre ordonner la confiscation du matériel ayant servi à l´activité illégale ainsi que la fermeture totale ou partielle du laboratoire.
+- Sous réserve des dispositions prévues aux alinéas 2 et 4 du présent article les infractions aux dispositions de la présente loi et des règlements pris en son exécution sont punies d´un emprisonnement de 8 jours à 6 mois et d´une amende de trente mille à trois cent mille francs ou d´une de ces peines seulement. Le tribunal peut en outre ordonner la confiscation du matériel ayant servi à l´activité illégale ainsi que la fermeture totale ou partielle du laboratoire.
 
-2. Les infractions aux dispositions des articles 11 et 13 sont punies d´une amende de cinq mille à cinquante mille francs.
+- Les infractions aux dispositions des articles 11 et 13 sont punies d´une amende de cinq mille à cinquante mille francs.
 
-3. En cas de récidive les peines prévues aux alinéas qui précédent peuvent être portées au double.
+- En cas de récidive les peines prévues aux alinéas qui précédent peuvent être portées au double.
 
-4. Les infractions aux dispositions de l´article 10 sont punies des peines prévues par la loi du 18 novembre 1967 portant réglementation de certaines professions paramédicales.
+- Les infractions aux dispositions de l´article 10 sont punies des peines prévues par la loi du 18 novembre 1967 portant réglementation de certaines professions paramédicales.
 
-5. Les dispositions du livre 1 er du code pénal et de la loi du 18 juin 1879 portant attribution aux cour et tribunaux de l´appréciation des circonstances atténuantes, telle qu´elle a été modifiée par la loi du 16 mai 1904 , sont applicables aux infractions prévues au présent article.
+- Les dispositions du livre 1 er du code pénal et de la loi du 18 juin 1879 portant attribution aux cour et tribunaux de l´appréciation des circonstances atténuantes, telle qu´elle a été modifiée par la loi du 16 mai 1904 , sont applicables aux infractions prévues au présent article.
+
+Dispositions transitoires.
 
 <a id="art-16"></a>
 ## Art. 16.

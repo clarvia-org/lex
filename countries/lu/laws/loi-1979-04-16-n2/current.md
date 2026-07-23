@@ -49,9 +49,9 @@ En dehors de son président, magistrat de l'ordre judiciaire, la commission de c
 
 Le président est nommé par le Grand-Duc pour une période de trois ans; les représentants de l'autorité publique sont désignés par le Gouvernement en conseil ; les représentants des organisations syndicales sont désignés par celles-ci, compte tenu des critères suivants:
 
-1. lorsque le litige collectif est généralisé, l'organisation ou les organisations syndicales les plus représentatives sur le plan national pour les secteurs visés par la présente loi auront seules le droit de désigner les cinq représentants parmi leurs membres;
+- lorsque le litige collectif est généralisé, l'organisation ou les organisations syndicales les plus représentatives sur le plan national pour les secteurs visés par la présente loi auront seules le droit de désigner les cinq représentants parmi leurs membres;
 
-2. lorsque le litige collectif n'est pas généralisé, mais qu'il est limité soit à l'une ou l'autre administration, soit à l’un ou l’autre sous-groupe de traitement, respectivement à l’une ou l’autre fonction d’un même métier de ce sous-groupe , l'organisation ou les organisations syndicales les plus représentatives sur le plan national désigneront trois représentants, l'organisation ou les organisations syndicales représentant pour le secteur concerné plus particulièrement les agents en litige, désigneront les deux autres.
+- lorsque le litige collectif n'est pas généralisé, mais qu'il est limité soit à l'une ou l'autre administration, soit à l’un ou l’autre sous-groupe de traitement, respectivement à l’une ou l’autre fonction d’un même métier de ce sous-groupe , l'organisation ou les organisations syndicales les plus représentatives sur le plan national désigneront trois représentants, l'organisation ou les organisations syndicales représentant pour le secteur concerné plus particulièrement les agents en litige, désigneront les deux autres.
 
 2.
 

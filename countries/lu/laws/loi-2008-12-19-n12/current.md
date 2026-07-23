@@ -45,59 +45,59 @@ Définitions
 
 Aux fins de la présente loi, on entend par:
 
-1. «amélioration de la performance environnementale»: le processus d’amélioration de la performance environnementale d’un produit lié à l’énergie au cours des générations successives, même si toutes les caractéristiques environnementales du produit ne sont pas nécessairement concernées en même temps;
+- «amélioration de la performance environnementale»: le processus d’amélioration de la performance environnementale d’un produit lié à l’énergie au cours des générations successives, même si toutes les caractéristiques environnementales du produit ne sont pas nécessairement concernées en même temps;
 
-2. «caractéristique environnementale»: tout élément ou fonction d’un produit lié à l’énergie pouvant, au cours de son cycle de vie, interagir avec l’environnement;
+- «caractéristique environnementale»: tout élément ou fonction d’un produit lié à l’énergie pouvant, au cours de son cycle de vie, interagir avec l’environnement;
 
-3. «composants et sous-ensembles»: les pièces prévues pour être intégrées dans des produits liés à l’énergie qui ne sont pas mises sur le marché et mises en service sous forme de pièces détachées destinées aux utilisateurs finaux ou dont la performance environnementale ne peut pas être évaluée de manière indépendante;
+- «composants et sous-ensembles»: les pièces prévues pour être intégrées dans des produits liés à l’énergie qui ne sont pas mises sur le marché et mises en service sous forme de pièces détachées destinées aux utilisateurs finaux ou dont la performance environnementale ne peut pas être évaluée de manière indépendante;
 
-4. «conception du produit»: l’ensemble des processus transformant en spécifications techniques d’un produit lié à l’énergie les exigences à remplir par le produit lié à l’énergie au niveau juridique, technique, de la sécurité, du fonctionnement, du marché ou autre;
+- «conception du produit»: l’ensemble des processus transformant en spécifications techniques d’un produit lié à l’énergie les exigences à remplir par le produit lié à l’énergie au niveau juridique, technique, de la sécurité, du fonctionnement, du marché ou autre;
 
-5. «cycle de vie»: les étapes successives et interdépendantes d’un produit lié à l’énergie, depuis l’utilisation des matières premières jusqu’à l’élimination finale;
+- «cycle de vie»: les étapes successives et interdépendantes d’un produit lié à l’énergie, depuis l’utilisation des matières premières jusqu’à l’élimination finale;
 
-6. «déchet»: toute substance ou tout objet entrant dans les catégories définies à l’annexe I de la directive 2006/12/CE que le détenteur met, se propose de mettre ou est tenu de mettre au rebut;
+- «déchet»: toute substance ou tout objet entrant dans les catégories définies à l’annexe I de la directive 2006/12/CE que le détenteur met, se propose de mettre ou est tenu de mettre au rebut;
 
-7. «déchets dangereux»: tout déchet couvert par l’article 1er, paragraphe 4, de la directive 91/689/CEE du Conseil du 12 décembre 1991 relative aux déchets dangereux;
+- «déchets dangereux»: tout déchet couvert par l’article 1er, paragraphe 4, de la directive 91/689/CEE du Conseil du 12 décembre 1991 relative aux déchets dangereux;
 
-8. «écoconception»: l’intégration des caractéristiques environnementales dans la conception du produit en vue d’améliorer la performance environnementale du produit lié à l’énergie tout au long de son cycle de vie;
+- «écoconception»: l’intégration des caractéristiques environnementales dans la conception du produit en vue d’améliorer la performance environnementale du produit lié à l’énergie tout au long de son cycle de vie;
 
-9. «exigence d’écoconception»: toute exigence relative à un produit lié à l’énergie ou à sa conception et visant à améliorer sa performance environnementale, ou toute exigence relative à la fourniture d’informations concernant les caractéristiques environnementales d’un produit lié à l’énergie;
+- «exigence d’écoconception»: toute exigence relative à un produit lié à l’énergie ou à sa conception et visant à améliorer sa performance environnementale, ou toute exigence relative à la fourniture d’informations concernant les caractéristiques environnementales d’un produit lié à l’énergie;
 
-10. «exigence d’écoconception générique»: toute exigence d’écoconception reposant sur le profil écologique dans son ensemble du produit lié à l’énergie sans valeurs limites fixes pour des caractéristiques environnementales particulières;
+- «exigence d’écoconception générique»: toute exigence d’écoconception reposant sur le profil écologique dans son ensemble du produit lié à l’énergie sans valeurs limites fixes pour des caractéristiques environnementales particulières;
 
-11. «exigence d’écoconception spécifique»: toute exigence d’écoconception quantifiée et mesurable relative à une caractéristique environnementale particulière du produit lié à l’énergie, telle que sa consommation d’énergie en fonctionnement, calculée pour une unité donnée de performance de sortie;
+- «exigence d’écoconception spécifique»: toute exigence d’écoconception quantifiée et mesurable relative à une caractéristique environnementale particulière du produit lié à l’énergie, telle que sa consommation d’énergie en fonctionnement, calculée pour une unité donnée de performance de sortie;
 
-12. «fabricant»: toute personne physique ou morale qui réalise des produits liés à l’énergie entrant dans le champ d’application de la présente loi et qui est responsable de leur conformité avec la présente loi en vue de leur mise sur le marché et de leur mise en service sous le nom du fabricant ou sous sa marque, ou pour l’usage propre du fabricant. A défaut de fabricant tel que défini ci-avant ou d’importateur tel que défini au point 14, toute personne physique ou morale qui met sur le marché et met en service des produits liés à l’énergie entrant dans le champ d’application de la présente loi est considérée comme fabricant;
+- «fabricant»: toute personne physique ou morale qui réalise des produits liés à l’énergie entrant dans le champ d’application de la présente loi et qui est responsable de leur conformité avec la présente loi en vue de leur mise sur le marché et de leur mise en service sous le nom du fabricant ou sous sa marque, ou pour l’usage propre du fabricant. A défaut de fabricant tel que défini ci-avant ou d’importateur tel que défini au point 14, toute personne physique ou morale qui met sur le marché et met en service des produits liés à l’énergie entrant dans le champ d’application de la présente loi est considérée comme fabricant;
 
-13. «impact sur l’environnement»: toute modification de l’environnement, provoquée totalement ou partiellement par un produit lié à l’énergie au cours de son cycle de vie;
+- «impact sur l’environnement»: toute modification de l’environnement, provoquée totalement ou partiellement par un produit lié à l’énergie au cours de son cycle de vie;
 
-14. «importateur»: toute personne physique ou morale établie dans la Communauté européenne qui, dans le cadre de ses activités professionnelles, met un produit provenant d’un pays tiers sur le marché communautaire;
+- «importateur»: toute personne physique ou morale établie dans la Communauté européenne qui, dans le cadre de ses activités professionnelles, met un produit provenant d’un pays tiers sur le marché communautaire;
 
-15. «mandataire»: toute personne physique ou morale établie dans la Communauté européenne ayant reçu un mandat écrit du fabricant pour accomplir en son nom tout ou partie des obligations et formalités liées à la présente loi;
+- «mandataire»: toute personne physique ou morale établie dans la Communauté européenne ayant reçu un mandat écrit du fabricant pour accomplir en son nom tout ou partie des obligations et formalités liées à la présente loi;
 
-16. «matériaux»: toutes les matières utilisées au cours du cycle de vie d’un produit lié à l’énergie;
+- «matériaux»: toutes les matières utilisées au cours du cycle de vie d’un produit lié à l’énergie;
 
-17. «mesures d’exécution»: les mesures arrêtées en application de la présente loi établissant des exigences d’écoconception pour des produits définis ou leurs caractéristiques environnementales;
+- «mesures d’exécution»: les mesures arrêtées en application de la présente loi établissant des exigences d’écoconception pour des produits définis ou leurs caractéristiques environnementales;
 
-18. «mise en service»: la première utilisation d’un produit lié à l’énergie, aux fins pour lesquelles il a été conçu, par un utilisateur final;
+- «mise en service»: la première utilisation d’un produit lié à l’énergie, aux fins pour lesquelles il a été conçu, par un utilisateur final;
 
-19. «mise sur le marché»: la première mise à disposition sur le marché d’un produit lié à l’énergie en vue de sa distribution ou de son utilisation, à titre onéreux ou gratuit, indépendamment de la technique de vente mise en œuvre;
+- «mise sur le marché»: la première mise à disposition sur le marché d’un produit lié à l’énergie en vue de sa distribution ou de son utilisation, à titre onéreux ou gratuit, indépendamment de la technique de vente mise en œuvre;
 
-20. «norme harmonisée»: une spécification technique adoptée par un organisme de normalisation reconnu dans le cadre d’un mandat délivré par la Commission européenne, conformément à la procédure établie par la directive 98/34/CE du Parlement européen et du Conseil du 22 juin 1998 prévoyant une procédure d’information dans le domaine des normes et réglementations techniques, en vue de l’élaboration d’une exigence européenne, dont le respect n’est pas obligatoire;
+- «norme harmonisée»: une spécification technique adoptée par un organisme de normalisation reconnu dans le cadre d’un mandat délivré par la Commission européenne, conformément à la procédure établie par la directive 98/34/CE du Parlement européen et du Conseil du 22 juin 1998 prévoyant une procédure d’information dans le domaine des normes et réglementations techniques, en vue de l’élaboration d’une exigence européenne, dont le respect n’est pas obligatoire;
 
-21. «performance environnementale» d’un produit lié à l’énergie: le résultat de la gestion des caractéristiques environnementales du produit par le fabricant, comme il ressort de son dossier de documentation technique;
+- «performance environnementale» d’un produit lié à l’énergie: le résultat de la gestion des caractéristiques environnementales du produit par le fabricant, comme il ressort de son dossier de documentation technique;
 
-22. «produit lié à l’énergie»: tout bien ayant un impact sur la consommation d’énergie durant son utilisation qui est mis sur le marché et mis en service, y compris les pièces prévues pour être intégrées dans un produit lié à l’énergie visé par la présente loi et qui sont mises sur le marché et mises en service sous forme de pièces détachées destinées aux utilisateurs finals et dont la performance environnementale peut être évaluée de manière indépendante;
+- «produit lié à l’énergie»: tout bien ayant un impact sur la consommation d’énergie durant son utilisation qui est mis sur le marché et mis en service, y compris les pièces prévues pour être intégrées dans un produit lié à l’énergie visé par la présente loi et qui sont mises sur le marché et mises en service sous forme de pièces détachées destinées aux utilisateurs finals et dont la performance environnementale peut être évaluée de manière indépendante;
 
-23. «profil écologique»: la description, conformément à la mesure d’exécution applicable au produit lié à l’énergie, des intrants et extrants (tels que les matières premières, les émissions et les déchets) associés à un produit lié à l’énergie tout au long de son cycle de vie, qui sont significatifs du point de vue de son impact sur l’environnement et sont exprimés en quantités physiques mesurables;
+- «profil écologique»: la description, conformément à la mesure d’exécution applicable au produit lié à l’énergie, des intrants et extrants (tels que les matières premières, les émissions et les déchets) associés à un produit lié à l’énergie tout au long de son cycle de vie, qui sont significatifs du point de vue de son impact sur l’environnement et sont exprimés en quantités physiques mesurables;
 
-24. «récupération»: toute opération applicable prévue à l’annexe II B de la directive 2006/12/CE du Parlement européen et du Conseil du 5 avril 2006 relative aux déchets;
+- «récupération»: toute opération applicable prévue à l’annexe II B de la directive 2006/12/CE du Parlement européen et du Conseil du 5 avril 2006 relative aux déchets;
 
-25. «réemploi»: toute opération par laquelle un produit lié à l’énergie ou ses composants ayant atteint le terme de leur première utilisation sont utilisés aux mêmes fins que celles pour lesquelles ils ont été conçus, y compris l’usage continu d’un produit lié à l’énergie rapporté à un point de collecte, distributeur, organisme de recyclage ou fabricant, ainsi que la réutilisation d’un produit lié à l’énergie après sa remise à neuf;
+- «réemploi»: toute opération par laquelle un produit lié à l’énergie ou ses composants ayant atteint le terme de leur première utilisation sont utilisés aux mêmes fins que celles pour lesquelles ils ont été conçus, y compris l’usage continu d’un produit lié à l’énergie rapporté à un point de collecte, distributeur, organisme de recyclage ou fabricant, ainsi que la réutilisation d’un produit lié à l’énergie après sa remise à neuf;
 
-26. «recyclage»: le retraitement de déchets, dans un processus de production, aux fins de leur fonction initiale ou à d’autres fins mais à l’exclusion de la valorisation énergétique;
+- «recyclage»: le retraitement de déchets, dans un processus de production, aux fins de leur fonction initiale ou à d’autres fins mais à l’exclusion de la valorisation énergétique;
 
-27. «valorisation énergétique»: l’utilisation de déchets combustibles comme moyen de génération d’énergie par incinération directe avec ou sans autres déchets mais avec récupération de la chaleur.
+- «valorisation énergétique»: l’utilisation de déchets combustibles comme moyen de génération d’énergie par incinération directe avec ou sans autres déchets mais avec récupération de la chaleur.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -112,11 +112,11 @@ Les produits liés à l’énergie couverts par des mesures d’exécution ne pe
 
 L’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services est désigné autorité compétente, responsable de la surveillance du marché. Il organise et assure la surveillance du marché conformément aux articles 10 et 14 à 19 de la loi du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services. Il est chargé de:
 
-1. organiser des vérifications appropriées de la conformité des produits liés à l’énergie, sur une échelle suffisante, et d’obliger le fabricant ou son mandataire à retirer du marché les produits liés à l’énergie non conformes, conformément à l’article 7;
+- organiser des vérifications appropriées de la conformité des produits liés à l’énergie, sur une échelle suffisante, et d’obliger le fabricant ou son mandataire à retirer du marché les produits liés à l’énergie non conformes, conformément à l’article 7;
 
-2. prélever des échantillons de produits pour les soumettre à des vérifications de conformité;
+- prélever des échantillons de produits pour les soumettre à des vérifications de conformité;
 
-3. exiger des parties concernées qu’elles fournissent toutes les informations requises dans les mesures d’exécution.
+- exiger des parties concernées qu’elles fournissent toutes les informations requises dans les mesures d’exécution.
 
 (3)
 
@@ -160,9 +160,9 @@ L’apposition sur un produit lié à l’énergie de marquages susceptibles d�
 
 Les informations à fournir doivent être rédigées dans une au moins des trois langues administratives désignées dans la loi du 24 février 1984 sur le régime des langues lorsque le produit lié à l’énergie parvient à l’utilisateur final, tout en prenant en considération:
 
-1. le fait que les informations puissent ou non être communiquées sous forme de symboles harmonisés, de codes reconnus ou d’autres mesures;
+- le fait que les informations puissent ou non être communiquées sous forme de symboles harmonisés, de codes reconnus ou d’autres mesures;
 
-2. le type d’utilisateur auquel le produit lié à l’énergie est destiné et la nature des informations à fournir.
+- le type d’utilisateur auquel le produit lié à l’énergie est destiné et la nature des informations à fournir.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -200,11 +200,11 @@ Cette décision est notifiée immédiatement à l’intéressé, qui est en mêm
 
 L’autorité compétente informe immédiatement la Commission européenne et les autres Etats membres de toute décision prise en application du paragraphe 1er, en indiquant les raisons de sa décision et notamment si la nonconformité est due à:
 
-1. un manquement aux exigences de la mesure d’exécution applicable;
+- un manquement aux exigences de la mesure d’exécution applicable;
 
-2. l’application incorrecte de normes harmonisées visées à l’article 9, paragraphe 2;
+- l’application incorrecte de normes harmonisées visées à l’article 9, paragraphe 2;
 
-3. des lacunes dans des normes harmonisées visées à l’article 9, paragraphe 2.
+- des lacunes dans des normes harmonisées visées à l’article 9, paragraphe 2.
 
 (4)
 

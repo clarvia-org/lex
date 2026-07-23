@@ -31,46 +31,46 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La demande d’admission au bénéfice des aides à caractère social en faveur des artistes professionnels indépendants est adressée par écrit au ministre ayant la Culture dans ses attributions. Elle doit contenir les nom, prénom(s), date de naissance et adresse du requérant. À cette demande est joint un dossier qui doit contenir:
 
-1. un curriculum vitæ artistique détaillé avec copie de tous les documents et pièces dont y est fait référence,
+- un curriculum vitæ artistique détaillé avec copie de tous les documents et pièces dont y est fait référence,
 
-2. le cas échéant, une copie du diplôme universitaire et la preuve d’inscription au registre des titres d’enseignement supérieur prévu par la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles,
+- le cas échéant, une copie du diplôme universitaire et la preuve d’inscription au registre des titres d’enseignement supérieur prévu par la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles,
 
-3. un certificat d’affiliation qui a été établi par le Centre commun de la sécurité sociale pas plus tard que deux semaines avant la date de la demande d’admission au bénéfice des aides à caractère social en faveur des artistes professionnels indépendants et renseignant sur la date de début d’affiliation ainsi que sur la nature de l’activité,
+- un certificat d’affiliation qui a été établi par le Centre commun de la sécurité sociale pas plus tard que deux semaines avant la date de la demande d’admission au bénéfice des aides à caractère social en faveur des artistes professionnels indépendants et renseignant sur la date de début d’affiliation ainsi que sur la nature de l’activité,
 
-4. une déclaration du requérant qui doit comporter le libellé suivant: «Je déclare être artiste professionnel(le) indépendant(e), je crée / interprète (à choisir la notion qui convient) des œuvres pour mon compte. Mon travail en tant qu’artiste indépendant(e) est mon activité principale.», l’artiste y décrit encore la nature de son travail artistique, donne un descriptif des œuvres créées ou des projets réalisés pendant les deux années précédant la demande et indique ses projets pour l’avenir ,
+- une déclaration du requérant qui doit comporter le libellé suivant: «Je déclare être artiste professionnel(le) indépendant(e), je crée / interprète (à choisir la notion qui convient) des œuvres pour mon compte. Mon travail en tant qu’artiste indépendant(e) est mon activité principale.», l’artiste y décrit encore la nature de son travail artistique, donne un descriptif des œuvres créées ou des projets réalisés pendant les deux années précédant la demande et indique ses projets pour l’avenir ,
 
-5. des photos, reproductions ou publications de ses œuvres, respectivement un inventaire de son répertoire,
+- des photos, reproductions ou publications de ses œuvres, respectivement un inventaire de son répertoire,
 
-6. une liste détaillée des revenus obtenus pendant les deux années précédant la demande, ventilée par année et par activité, indiquant les dates de paiement et accompagnée des contrats, factures, preuves de paiement et autres pièces justificatives,
+- une liste détaillée des revenus obtenus pendant les deux années précédant la demande, ventilée par année et par activité, indiquant les dates de paiement et accompagnée des contrats, factures, preuves de paiement et autres pièces justificatives,
 
-7. un récent certificat de revenu délivré par l’Administration des contributions directes,
+- un récent certificat de revenu délivré par l’Administration des contributions directes,
 
-8. trois témoignages concernant le travail et l’engagement dans la scène artistique et culturelle luxembourgeoise du requérant, établis soit par des pairs du postulant, soit par des diffuseurs, distributeurs ou éditeurs, soit par tout professionnel en relation avec le marché de l’art, respectivement avec les marchés de communication audiovisuelle,
+- trois témoignages concernant le travail et l’engagement dans la scène artistique et culturelle luxembourgeoise du requérant, établis soit par des pairs du postulant, soit par des diffuseurs, distributeurs ou éditeurs, soit par tout professionnel en relation avec le marché de l’art, respectivement avec les marchés de communication audiovisuelle,
 
-9. le cas échéant, un dossier de presse,
+- le cas échéant, un dossier de presse,
 
-10. une déclaration du requérant qui doit comporter le libellé suivant: «Je déclare ne pas percevoir de revenu de remplacement au titre de la loi luxembourgeoise ou étrangère.»,
+- une déclaration du requérant qui doit comporter le libellé suivant: «Je déclare ne pas percevoir de revenu de remplacement au titre de la loi luxembourgeoise ou étrangère.»,
 
-11. toute autre pièce ou tout autre document que le requérant estime utile à l’appui de sa demande.
+- toute autre pièce ou tout autre document que le requérant estime utile à l’appui de sa demande.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 La demande d’admission au bénéfice des aides à caractère social en faveur des intermittents du spectacle est adressée par écrit au ministre ayant la Culture dans ses attributions. Elle doit contenir les nom, prénom(s), date de naissance et adresse du requérant. À cette demande est joint un dossier qui doit contenir:
 
-1. une copie des contrats de travail et des fiches de salaire y afférentes ,
+- une copie des contrats de travail et des fiches de salaire y afférentes ,
 
-2. une copie des contrats d’entreprise , des factures émises et des preuves de paiement ,
+- une copie des contrats d’entreprise , des factures émises et des preuves de paiement ,
 
-3. les inscriptions au carnet de travail de l’intermittent du spectacle relatives aux contrats invoqués,
+- les inscriptions au carnet de travail de l’intermittent du spectacle relatives aux contrats invoqués,
 
-4. un certificat d’affiliation récent et complet, établi par le Centre commun de la sécurité sociale datant de moins de deux semaines et renseignant sur les occupations des trois cent soixante-cinq jours précédant la demande ,
+- un certificat d’affiliation récent et complet, établi par le Centre commun de la sécurité sociale datant de moins de deux semaines et renseignant sur les occupations des trois cent soixante-cinq jours précédant la demande ,
 
-5. une déclaration du requérant qui doit comporter le libellé suivant: «Je déclare ne pas percevoir de revenu de remplacement au titre de la loi luxembourgeoise ou étrangère.»,
+- une déclaration du requérant qui doit comporter le libellé suivant: «Je déclare ne pas percevoir de revenu de remplacement au titre de la loi luxembourgeoise ou étrangère.»,
 
-6. une liste détaillée ou un calendrier reprenant toutes les activités et prestations réalisées au cours des trois cent soixante-cinq jours précédant la demande,
+- une liste détaillée ou un calendrier reprenant toutes les activités et prestations réalisées au cours des trois cent soixante-cinq jours précédant la demande,
 
-7. toute autre pièce ou tout autre document que le requérant estimera utile à l’appui de sa demande.
+- toute autre pièce ou tout autre document que le requérant estimera utile à l’appui de sa demande.
 
 <a id="art-2bis"></a>
 ## Art. 2bis.
@@ -79,9 +79,9 @@ Le versement des aides a lieu sur présentation d’une déclaration mensuelle �
 
 Cette déclaration est accompagnée :
 
-1. d’un certificat d’affiliation à la sécurité sociale qui couvre la totalité du mois pour lequel l’aide est demandée ;
+- d’un certificat d’affiliation à la sécurité sociale qui couvre la totalité du mois pour lequel l’aide est demandée ;
 
-2. pour les artistes professionnels indépendants, des pièces justificatives de l’ensemble des ressources financières du mois pour lequel l’aide est demandée.
+- pour les artistes professionnels indépendants, des pièces justificatives de l’ensemble des ressources financières du mois pour lequel l’aide est demandée.
 
 <a id="art-3"></a>
 ## Art. 3.

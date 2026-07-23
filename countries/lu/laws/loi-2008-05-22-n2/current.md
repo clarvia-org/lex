@@ -31,21 +31,21 @@ Définitions
 
 Au sens de la présente loi, on entend par:
 
-1. «plans et programmes»: les plans et programmes, y compris ceux qui sont cofinancés par la Communauté européenne, ainsi que leurs modifications:
+- «plans et programmes»: les plans et programmes, y compris ceux qui sont cofinancés par la Communauté européenne, ainsi que leurs modifications:
 
-- élaborés et/ou adoptés par une autorité au niveau national ou communal ou élaborés par une autorité en vue de leur adoption par la Chambre des Députés ou par le Gouvernement, par le biais d’une procédure législative, et
+  - élaborés et/ou adoptés par une autorité au niveau national ou communal ou élaborés par une autorité en vue de leur adoption par la Chambre des Députés ou par le Gouvernement, par le biais d’une procédure législative, et
 
-- exigés par des dispositions législatives, réglementaires ou administratives;
+  - exigés par des dispositions législatives, réglementaires ou administratives;
 
-2. «évaluation environnementale»: l’élaboration, sous la responsabilité de l’autorité responsable du plan ou programme, d’un rapport sur les incidences environnementales, la réalisation de consultations, la prise en compte dudit rapport et des résultats des consultations lors de la prise de décision, ainsi que la communication d’informations sur la décision, conformément aux articles 4 à 10;
+- «évaluation environnementale»: l’élaboration, sous la responsabilité de l’autorité responsable du plan ou programme, d’un rapport sur les incidences environnementales, la réalisation de consultations, la prise en compte dudit rapport et des résultats des consultations lors de la prise de décision, ainsi que la communication d’informations sur la décision, conformément aux articles 4 à 10;
 
-3. «rapport sur les incidences environnementales»: la partie de la documentation relative au plan ou programme contenant les informations prévues à l’article 5;
+- «rapport sur les incidences environnementales»: la partie de la documentation relative au plan ou programme contenant les informations prévues à l’article 5;
 
-4. «ministre»: le membre du gouvernement ayant la protection de l’environnement dans ses attributions;
+- «ministre»: le membre du gouvernement ayant la protection de l’environnement dans ses attributions;
 
-5. «autorité responsable du plan ou programme»: une autorité au niveau national ou communal qui prend l’initiative d’élaborer un plan ou programme au sens de la présente loi;
+- «autorité responsable du plan ou programme»: une autorité au niveau national ou communal qui prend l’initiative d’élaborer un plan ou programme au sens de la présente loi;
 
-6. «public»: une ou plusieurs personnes physiques ou morales, ainsi que les associations et groupes rassemblant ces personnes.
+- «public»: une ou plusieurs personnes physiques ou morales, ainsi que les associations et groupes rassemblant ces personnes.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -60,9 +60,9 @@ Les plans et programmes visés aux paragraphes 2, 3 et 4 sont soumis préalablem
 
 Sous réserve du paragraphe 3, une évaluation environnementale est effectuée pour tous les plans et programmes:
 
-1. qui sont élaborés pour les secteurs de l’agriculture, de la sylviculture, de la pêche, de l’énergie, de l’industrie, des transports, de la gestion des déchets, de la gestion de l’eau, des télécommunications, du tourisme, de l’aménagement du territoire urbain et rural ou de l’affectation des sols et qui définissent le cadre dans lequel la mise en œuvre des projets énumérés aux annexes I et II de la directive modifiée 85/337/CEE concernant l’évaluation des incidences de certains projets publics et privés sur l’environnement pourra être autorisée à l’avenir, ou
+- qui sont élaborés pour les secteurs de l’agriculture, de la sylviculture, de la pêche, de l’énergie, de l’industrie, des transports, de la gestion des déchets, de la gestion de l’eau, des télécommunications, du tourisme, de l’aménagement du territoire urbain et rural ou de l’affectation des sols et qui définissent le cadre dans lequel la mise en œuvre des projets énumérés aux annexes I et II de la directive modifiée 85/337/CEE concernant l’évaluation des incidences de certains projets publics et privés sur l’environnement pourra être autorisée à l’avenir, ou
 
-2. pour lesquels, étant donné les incidences qu’ils sont susceptibles d’avoir sur des sites, une évaluation est requise en vertu de l’article 12 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles.
+- pour lesquels, étant donné les incidences qu’ils sont susceptibles d’avoir sur des sites, une évaluation est requise en vertu de l’article 12 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles.
 
 3.
 
@@ -88,9 +88,9 @@ Les conclusions prises en vertu du paragraphe 6, y compris les raisons de ne pas
 
 Les plans et programmes suivants ne sont pas couverts par la présente loi:
 
-1. les plans et programmes destinés uniquement à des fins de défense nationale et de protection civile,
+- les plans et programmes destinés uniquement à des fins de défense nationale et de protection civile,
 
-2. les plans et programmes financiers ou budgétaires.
+- les plans et programmes financiers ou budgétaires.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -125,11 +125,11 @@ Les caractéristiques des incidences et de la zone susceptible d’être touché
 
 - la valeur et la vulnérabilité de la zone susceptible d’être touchée, en raison:
 
-1. de caractéristiques naturelles ou d’un patrimoine culturel particuliers,
+  - de caractéristiques naturelles ou d’un patrimoine culturel particuliers,
 
-2. d’un dépassement des normes de qualité environnementales ou des valeurs limites,
+  - d’un dépassement des normes de qualité environnementales ou des valeurs limites,
 
-3. de l’exploitation intensive des sols,
+  - de l’exploitation intensive des sols,
 
 - les incidences pour des zones ou des paysages jouissant d’un statut de protection reconnu au niveau national, communautaire ou international.
 
@@ -163,25 +163,25 @@ Lorsqu’une évaluation environnementale est requise en vertu de l’article 2,
 
 Sous réserve des paragraphes 1 et 2 de l’article 6, les informations à fournir en vertu du présent article sont les suivantes:
 
-1. un résumé du contenu, les objectifs principaux du plan ou du programme et les liens avec d’autres plans et programmes pertinents;
+- un résumé du contenu, les objectifs principaux du plan ou du programme et les liens avec d’autres plans et programmes pertinents;
 
-2. les aspects pertinents de la situation environnementale ainsi que son évolution probable si le plan ou programme n’est pas mis en œuvre;
+- les aspects pertinents de la situation environnementale ainsi que son évolution probable si le plan ou programme n’est pas mis en œuvre;
 
-3. les caractéristiques environnementales des zones susceptibles d’être touchées de manière notable;
+- les caractéristiques environnementales des zones susceptibles d’être touchées de manière notable;
 
-4. les problèmes environnementaux liés au plan ou au programme, en particulier ceux qui concernent les zones revêtant une importance particulière pour l’environnement telles que celles désignées conformément aux directives 79/409/CEE et 92/43/CEE ;
+- les problèmes environnementaux liés au plan ou au programme, en particulier ceux qui concernent les zones revêtant une importance particulière pour l’environnement telles que celles désignées conformément aux directives 79/409/CEE et 92/43/CEE ;
 
-5. les objectifs de la protection de l’environnement, établis au niveau international, communautaire ou national, qui sont pertinents pour le plan ou le programme et la manière dont ces objectifs et les considérations environnementales ont été pris en considération au cours de leur élaboration;
+- les objectifs de la protection de l’environnement, établis au niveau international, communautaire ou national, qui sont pertinents pour le plan ou le programme et la manière dont ces objectifs et les considérations environnementales ont été pris en considération au cours de leur élaboration;
 
-6. les effets notables probables sur l’environnement incluant les effets secondaires, cumulatifs, synergiques, à court, à moyen et à long termes, permanents et temporaires, tant positifs que négatifs, et comprenant les thèmes de la diversité biologique, de la population, de la santé humaine, de la faune, de la flore, des sols, des eaux, de l’air, des facteurs climatiques, des biens matériels, du patrimoine culturel, architectural et archéologique, des paysages et des interactions entre ces facteurs;
+- les effets notables probables sur l’environnement incluant les effets secondaires, cumulatifs, synergiques, à court, à moyen et à long termes, permanents et temporaires, tant positifs que négatifs, et comprenant les thèmes de la diversité biologique, de la population, de la santé humaine, de la faune, de la flore, des sols, des eaux, de l’air, des facteurs climatiques, des biens matériels, du patrimoine culturel, architectural et archéologique, des paysages et des interactions entre ces facteurs;
 
-7. les mesures envisagées pour éviter, réduire et, dans la mesure du possible, compenser toute incidence négative notable de la mise en œuvre du plan ou du programme sur l’environnement;
+- les mesures envisagées pour éviter, réduire et, dans la mesure du possible, compenser toute incidence négative notable de la mise en œuvre du plan ou du programme sur l’environnement;
 
-8. une déclaration résumant les raisons pour lesquelles les autres solutions envisagées ont été sélectionnées, et une description de la manière dont l’évaluation a été effectuée, y compris toute difficulté rencontrée (les déficiences techniques ou le manque de savoir-faire) lors de la collecte des informations requises;
+- une déclaration résumant les raisons pour lesquelles les autres solutions envisagées ont été sélectionnées, et une description de la manière dont l’évaluation a été effectuée, y compris toute difficulté rencontrée (les déficiences techniques ou le manque de savoir-faire) lors de la collecte des informations requises;
 
-9. une description des mesures de suivi envisagées conformément à l’article 11;
+- une description des mesures de suivi envisagées conformément à l’article 11;
 
-10. un résumé non technique des informations visées aux points ci-dessus.
+- un résumé non technique des informations visées aux points ci-dessus.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -256,11 +256,11 @@ La publicité est effectuée sur support électronique et par voie de publicatio
 
 Dans ce cadre, sont mis à disposition dans un délai d’un mois à partir de la date d’adoption du plan ou programme:
 
-1. le plan ou le programme tel qu’il a été adopté;
+- le plan ou le programme tel qu’il a été adopté;
 
-2. un exposé résumant la manière dont les considérations environnementales ont été intégrées dans le plan ou le programme et dont le rapport sur les incidences environnementales élaboré conformément aux articles 5 et 6, les observations et suggestions exprimées en vertu de l’article 7 et les résultats des consultations effectuées au titre de l’article 8 ont été pris en considération comme le prévoit l’article 9, ainsi que les raisons du choix du plan ou du programme tel qu’adopté, compte tenu des autres solutions raisonnables qui avaient été envisagées;
+- un exposé résumant la manière dont les considérations environnementales ont été intégrées dans le plan ou le programme et dont le rapport sur les incidences environnementales élaboré conformément aux articles 5 et 6, les observations et suggestions exprimées en vertu de l’article 7 et les résultats des consultations effectuées au titre de l’article 8 ont été pris en considération comme le prévoit l’article 9, ainsi que les raisons du choix du plan ou du programme tel qu’adopté, compte tenu des autres solutions raisonnables qui avaient été envisagées;
 
-3. les mesures arrêtées concernant le suivi conformément à l’article 11.
+- les mesures arrêtées concernant le suivi conformément à l’article 11.
 
 <a id="art-11"></a>
 ## Art. 11.

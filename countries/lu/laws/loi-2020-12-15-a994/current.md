@@ -36,25 +36,25 @@ Objet
 
 La présente loi contribue à la mise en œuvre :
 
-1. de la Convention-Cadre des Nations unies sur les changements climatiques, à New York le 9 mai 1992, approuvé par la loi du 4 mars 1994 ;
+- de la Convention-Cadre des Nations unies sur les changements climatiques, à New York le 9 mai 1992, approuvé par la loi du 4 mars 1994 ;
 
-2. du Protocole de Kyoto à la Convention-Cadre des Nations unies sur les changements climatiques, et de ses annexes A et B, adopté à Kyoto le 11 décembre 1997, approuvé par la loi du 29 novembre 2001 ;
+- du Protocole de Kyoto à la Convention-Cadre des Nations unies sur les changements climatiques, et de ses annexes A et B, adopté à Kyoto le 11 décembre 1997, approuvé par la loi du 29 novembre 2001 ;
 
-3. de l’amendement au Protocole de Kyoto à la Convention-cadre des Nations unies sur les changements climatiques, adopté à Doha le 8 décembre 2012, approuvé par la loi du 27 février 2015 ;
+- de l’amendement au Protocole de Kyoto à la Convention-cadre des Nations unies sur les changements climatiques, adopté à Doha le 8 décembre 2012, approuvé par la loi du 27 février 2015 ;
 
-4. de l’Accord de Paris, adopté à Paris le 12 décembre 2015, approuvé par la loi du 28 octobre 2016 ;
+- de l’Accord de Paris, adopté à Paris le 12 décembre 2015, approuvé par la loi du 28 octobre 2016 ;
 
-5. des directives, règlements et décisions de l’Union européenne adoptés en exécution des obligations de droit international précitées.
+- des directives, règlements et décisions de l’Union européenne adoptés en exécution des obligations de droit international précitées.
 
 (2)
 
 Le chapitre 2 vise à mettre en place un cadre institutionnel pour la politique climatique et à établir un régime pour l’adoption :
 
-1. du plan national intégré en matière d’énergie et de climat ;
+- du plan national intégré en matière d’énergie et de climat ;
 
-2. de la stratégie d’adaptation aux effets du changement climatique ;
+- de la stratégie d’adaptation aux effets du changement climatique ;
 
-3. de la stratégie à long terme pour la réduction des émissions de gaz à effet de serre ;
+- de la stratégie à long terme pour la réduction des émissions de gaz à effet de serre ;
 
 aux fins d’exécution du règlement (UE) 2018/1999 du Parlement européen et du Conseil du 11 décembre 2018 sur la gouvernance de l’union de l’énergie et de l’action pour le climat, modifiant les règlements (CE) n° 663/2009 et (CE) n° 715/2009 du Parlement européen et du Conseil, les directives 94/22/CE, 98/70/CE, 2009/31/CE, 2009/73/CE, 2010/31/UE, 2012/27/UE et 2013/30/UE du Parlement européen et du Conseil, les directives 2009/119/CE et (UE) 2015/652 du Conseil et abrogeant le règlement (UE) n° 525/2013 du Parlement européen et du Conseil ;
 
@@ -77,77 +77,77 @@ Définitions
 
 Aux fins de la présente loi, on entend par :
 
-1. « quota » : le quota autorisant à émettre une tonne d’équivalent-dioxyde de carbone au cours d’une période spécifiée, valable uniquement pour respecter les exigences de la présente loi, et transférable conformément aux dispositions de la présente loi ;
+- « quota » : le quota autorisant à émettre une tonne d’équivalent-dioxyde de carbone au cours d’une période spécifiée, valable uniquement pour respecter les exigences de la présente loi, et transférable conformément aux dispositions de la présente loi ;
 
-2. « émissions » : le rejet dans l’atmosphère de gaz à effet de serre ;
+- « émissions » : le rejet dans l’atmosphère de gaz à effet de serre ;
 
-3. « émissions SEQE » : le rejet de gaz à effet de serre, à partir de sources situées dans une installation, ou le rejet, à partir d’un aéronef effectuant une activité aérienne visée à l’annexe I, ou d’un navire effectuant une activité de transport maritime visée à l’annexe I, de gaz spécifiés en rapport avec cette activité, ou le rejet de gaz à effet de serre correspondant à l’activité visée à l’annexe III ;
+- « émissions SEQE » : le rejet de gaz à effet de serre, à partir de sources situées dans une installation, ou le rejet, à partir d’un aéronef effectuant une activité aérienne visée à l’annexe I, ou d’un navire effectuant une activité de transport maritime visée à l’annexe I, de gaz spécifiés en rapport avec cette activité, ou le rejet de gaz à effet de serre correspondant à l’activité visée à l’annexe III ;
 
-4. « zéro émissions nettes» : l’état dans lequel toute émission anthropique résiduelle de gaz à effet de serre est contrebalancée par des absorptions anthropiques équivalentes ;
+- « zéro émissions nettes» : l’état dans lequel toute émission anthropique résiduelle de gaz à effet de serre est contrebalancée par des absorptions anthropiques équivalentes ;
 
-5. « gaz à effet de serre » : les gaz énumérés à l’annexe II de la directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d’échange de quotas d’émission de gaz à effet de serre dans l’Union et modifiant la directive 96/61/CE du Conseil, telle que modifiée par acte délégué de la Commission européenne pris en conformité des articles 22 et 23 de cette directive, et les autres composants gazeux de l’atmosphère, tant naturels qu’anthropiques, qui absorbent et renvoient un rayonnement infrarouge ;
+- « gaz à effet de serre » : les gaz énumérés à l’annexe II de la directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d’échange de quotas d’émission de gaz à effet de serre dans l’Union et modifiant la directive 96/61/CE du Conseil, telle que modifiée par acte délégué de la Commission européenne pris en conformité des articles 22 et 23 de cette directive, et les autres composants gazeux de l’atmosphère, tant naturels qu’anthropiques, qui absorbent et renvoient un rayonnement infrarouge ;
 
-6. « autorisation d’émettre des gaz à effet de serre » : l’autorisation délivrée conformément aux articles 24, 25 et 41 ter ;
+- « autorisation d’émettre des gaz à effet de serre » : l’autorisation délivrée conformément aux articles 24, 25 et 41 ter ;
 
-7. « installation» : une unité technique fixe où se déroulent une ou plusieurs des activités indiquées à l’annexe I ainsi que toute autre activité s’y rapportant directement qui est liée techniquement aux activités exercées sur le site et qui est susceptible d’avoir des incidences sur les émissions et la pollution ;
+- « installation» : une unité technique fixe où se déroulent une ou plusieurs des activités indiquées à l’annexe I ainsi que toute autre activité s’y rapportant directement qui est liée techniquement aux activités exercées sur le site et qui est susceptible d’avoir des incidences sur les émissions et la pollution ;
 
-8. « exploitant» : toute personne qui exploite ou contrôle une installation ou toute personne à qui un pouvoir économique déterminant sur le fonctionnement technique de l’installation a été délégué ;
+- « exploitant» : toute personne qui exploite ou contrôle une installation ou toute personne à qui un pouvoir économique déterminant sur le fonctionnement technique de l’installation a été délégué ;
 
-9. « personne» : toute personne physique ou morale ;
+- « personne» : toute personne physique ou morale ;
 
-10. « nouvel entrant »: toute installation poursuivant une ou plusieurs des activités énumérées à l’annexe I, qui a obtenu une autorisation d’émettre des gaz à effet de serre pour la première fois au cours du délai commençant à courir trois mois avant la date prévue pour la présentation de la liste visée à l’article 31, paragraphe 2 , et expirant trois mois avant la date prévue pour la présentation de la liste suivante au titre dudit article ;
+- « nouvel entrant »: toute installation poursuivant une ou plusieurs des activités énumérées à l’annexe I, qui a obtenu une autorisation d’émettre des gaz à effet de serre pour la première fois au cours du délai commençant à courir trois mois avant la date prévue pour la présentation de la liste visée à l’article 31, paragraphe 2 , et expirant trois mois avant la date prévue pour la présentation de la liste suivante au titre dudit article ;
 
-11. « public» : une ou plusieurs personnes ainsi que les associations, organisations ou groupes constitués par ces personnes ;
+- « public» : une ou plusieurs personnes ainsi que les associations, organisations ou groupes constitués par ces personnes ;
 
-12. « tonne d’équivalent-dioxyde de carbone» : une tonne métrique de dioxyde de carbone (CO 2 ) ou une quantité de tout autre gaz à effet de serre visé à l’annexe II ayant un potentiel de réchauffement planétaire équivalent ;
+- « tonne d’équivalent-dioxyde de carbone» : une tonne métrique de dioxyde de carbone (CO 2 ) ou une quantité de tout autre gaz à effet de serre visé à l’annexe II ayant un potentiel de réchauffement planétaire équivalent ;
 
-13. « activité de projet»: une activité de projet approuvée par une ou plusieurs parties visées à l’annexe I de la Convention cadre des Nations-Unies sur les changements climatiques, faite à New York, le 9 mai 1992, telle qu’approuvée par une loi du 4 mars 1994 , et dénommée ci-après « CCNUCC », conformément à l’article 6 ou 12 du Protocole à ladite Convention, fait à Kyoto, le 11 décembre 1997, tel qu’approuvé par une loi du 29 novembre 2001 et dénommé ci-après le « Protocole » et aux décisions adoptées en vertu de la CCNUCC ou du Protocole, pour autant que lesdites parties aient ratifié le Protocole ;
+- « activité de projet»: une activité de projet approuvée par une ou plusieurs parties visées à l’annexe I de la Convention cadre des Nations-Unies sur les changements climatiques, faite à New York, le 9 mai 1992, telle qu’approuvée par une loi du 4 mars 1994 , et dénommée ci-après « CCNUCC », conformément à l’article 6 ou 12 du Protocole à ladite Convention, fait à Kyoto, le 11 décembre 1997, tel qu’approuvé par une loi du 29 novembre 2001 et dénommé ci-après le « Protocole » et aux décisions adoptées en vertu de la CCNUCC ou du Protocole, pour autant que lesdites parties aient ratifié le Protocole ;
 
-14. « unité de réduction des émissions » ou « URE » : une unité délivrée en application de l’article 6 du Protocole, et des décisions adoptées en vertu de la CCNUCC ou du Protocole ;
+- « unité de réduction des émissions » ou « URE » : une unité délivrée en application de l’article 6 du Protocole, et des décisions adoptées en vertu de la CCNUCC ou du Protocole ;
 
-15. « réduction d’émissions certifiées » ou « REC » : une unité délivrée en application de l’article 12 du Protocole et des décisions adoptées en vertu de la CCNUCC ou du Protocole ;
+- « réduction d’émissions certifiées » ou « REC » : une unité délivrée en application de l’article 12 du Protocole et des décisions adoptées en vertu de la CCNUCC ou du Protocole ;
 
-16. « exploitant d’aéronef » : la personne qui exploite un aéronef au moment où il effectue une activité aérienne visée à l’annexe I ou, lorsque cette personne n’est pas connue ou n’est pas identifiée par le propriétaire de l’aéronef, le propriétaire de l’aéronef lui-même ;
+- « exploitant d’aéronef » : la personne qui exploite un aéronef au moment où il effectue une activité aérienne visée à l’annexe I ou, lorsque cette personne n’est pas connue ou n’est pas identifiée par le propriétaire de l’aéronef, le propriétaire de l’aéronef lui-même ;
 
-17. « transporteur aérien commercial » : un exploitant qui fournit au public, contre rémunération, des services réguliers ou non réguliers de transport aérien pour l’acheminement de passagers, de fret ou de courrier ;
+- « transporteur aérien commercial » : un exploitant qui fournit au public, contre rémunération, des services réguliers ou non réguliers de transport aérien pour l’acheminement de passagers, de fret ou de courrier ;
 
-18. « émissions SEQE de l’aviation attribuées » : les émissions SEQE de tous les vols relevant des activités aériennes visées à l’annexe I au départ d’un aérodrome situé sur le territoire d’un État membre ou à l’arrivée dans un tel aérodrome en provenance des pays tiers ;
+- « émissions SEQE de l’aviation attribuées » : les émissions SEQE de tous les vols relevant des activités aériennes visées à l’annexe I au départ d’un aérodrome situé sur le territoire d’un État membre ou à l’arrivée dans un tel aérodrome en provenance des pays tiers ;
 
-19. « émissions SEQE historiques du secteur de l’aviation » : la moyenne arithmétique des émissions SEQE annuelles produites pendant les années civiles 2004, 2005 et 2006 par les aéronefs effectuant une activité aérienne visée à l’annexe I ;
+- « émissions SEQE historiques du secteur de l’aviation » : la moyenne arithmétique des émissions SEQE annuelles produites pendant les années civiles 2004, 2005 et 2006 par les aéronefs effectuant une activité aérienne visée à l’annexe I ;
 
-20. « Commission » : la Commission européenne ;
+- « Commission » : la Commission européenne ;
 
-21. « combustion » : toute oxydation de combustibles quelle que soit l’utilisation faite de la chaleur, de l’énergie électrique ou mécanique produite par ce processus et toutes autres activités s’y rapportant, y compris la destruction des effluents gazeux ;
+- « combustion » : toute oxydation de combustibles quelle que soit l’utilisation faite de la chaleur, de l’énergie électrique ou mécanique produite par ce processus et toutes autres activités s’y rapportant, y compris la destruction des effluents gazeux ;
 
-22. « producteur d’électricité » : une installation qui, à la date du 1er janvier 2005 ou ultérieurement, a produit de l’électricité destinée à la vente à des tiers et dans laquelle n’a lieu aucune activité énumérée dans l’annexe I, autre que la « combustion de combustibles » ;
+- « producteur d’électricité » : une installation qui, à la date du 1er janvier 2005 ou ultérieurement, a produit de l’électricité destinée à la vente à des tiers et dans laquelle n’a lieu aucune activité énumérée dans l’annexe I, autre que la « combustion de combustibles » ;
 
-23. « Accord de Paris » : Accord universel sur le climat tel qu’approuvé par la loi du 28 octobre 2016 portant approbation de l’Accord de Paris sur le changement climatique, adopté à Paris le 12 décembre 2015 ;
+- « Accord de Paris » : Accord universel sur le climat tel qu’approuvé par la loi du 28 octobre 2016 portant approbation de l’Accord de Paris sur le changement climatique, adopté à Paris le 12 décembre 2015 ;
 
-24. « effets hors CO 2 de l’aviation » : les effets sur le climat du rejet, lors de la combustion de carburant, d’oxydes d’azote (NOx), de particules de suie et d’espèces de soufre oxydées, ainsi que les effets de la vapeur d’eau, notamment des traînées de condensation, provenant d’un aéronef effectuant une activité aérienne visée à l’annexe I ;
+- « effets hors CO 2 de l’aviation » : les effets sur le climat du rejet, lors de la combustion de carburant, d’oxydes d’azote (NOx), de particules de suie et d’espèces de soufre oxydées, ainsi que les effets de la vapeur d’eau, notamment des traînées de condensation, provenant d’un aéronef effectuant une activité aérienne visée à l’annexe I ;
 
-25. « compagnie maritime » : le propriétaire du navire ou tout autre organisme ou personne, tel que l’armateur gérant ou l’affréteur coque nue, auquel le propriétaire du navire a confié la responsabilité de l’exploitation du navire et qui, en assumant cette responsabilité, a accepté de s’acquitter des tâches et des obligations imposées par le code international de gestion pour la sécurité de l’exploitation des navires et la prévention de la pollution, figurant à l’annexe I du règlement (CE) n° 336/2006 du Parlement européen et du Conseil du 15 février 2006 relatif à l’application du code international de gestion de la sécurité dans la Communauté et abrogeant le règlement (CE) n° 3051/95 du Conseil, tel que modifié ;
+- « compagnie maritime » : le propriétaire du navire ou tout autre organisme ou personne, tel que l’armateur gérant ou l’affréteur coque nue, auquel le propriétaire du navire a confié la responsabilité de l’exploitation du navire et qui, en assumant cette responsabilité, a accepté de s’acquitter des tâches et des obligations imposées par le code international de gestion pour la sécurité de l’exploitation des navires et la prévention de la pollution, figurant à l’annexe I du règlement (CE) n° 336/2006 du Parlement européen et du Conseil du 15 février 2006 relatif à l’application du code international de gestion de la sécurité dans la Communauté et abrogeant le règlement (CE) n° 3051/95 du Conseil, tel que modifié ;
 
-26. « voyage » : un voyage au sens de l’article 3, lettre c), du règlement (UE) 2015/757 du Parlement européen et du Conseil du 29 avril 2015 concernant la surveillance, la déclaration et la vérification des émissions de gaz à effet de serre du transport maritime et modifiant la directive 2009/16/CE , tel que modifié ;
+- « voyage » : un voyage au sens de l’article 3, lettre c), du règlement (UE) 2015/757 du Parlement européen et du Conseil du 29 avril 2015 concernant la surveillance, la déclaration et la vérification des émissions de gaz à effet de serre du transport maritime et modifiant la directive 2009/16/CE , tel que modifié ;
 
-27. « port d’escale » : le port dans lequel s’arrête un navire pour charger ou décharger des marchandises ou pour embarquer ou débarquer des passagers, ou le port dans lequel un navire de haute mer s’arrête pour changer d’équipage, les arrêts uniquement destinés au ravitaillement en combustible, à l’approvisionnement, au changement d’équipage d’un navire autre qu’ un navire de haute mer , à la mise en cale sèche ou à des réparations à effectuer sur le navire, ses équipements ou les deux, les arrêts dans un port dus au fait que le navire a besoin d’assistance ou est en détresse, les transferts de navire à navire effectués en dehors des ports, les arrêts effectués à seule fin de trouver abri par mauvais temps ou rendus nécessaires par des activités de recherche et de sauvetage, ainsi que les arrêts de porte-conteneurs effectués dans un port voisin de transbordement de conteneurs recensé dans l’acte d’exécution de la Commission européenne adopté conformément à l’article 3 octies bis , paragraphe 2, de la directive 2003/87/CE précitée, sont exclus ;
+- « port d’escale » : le port dans lequel s’arrête un navire pour charger ou décharger des marchandises ou pour embarquer ou débarquer des passagers, ou le port dans lequel un navire de haute mer s’arrête pour changer d’équipage, les arrêts uniquement destinés au ravitaillement en combustible, à l’approvisionnement, au changement d’équipage d’un navire autre qu’ un navire de haute mer , à la mise en cale sèche ou à des réparations à effectuer sur le navire, ses équipements ou les deux, les arrêts dans un port dus au fait que le navire a besoin d’assistance ou est en détresse, les transferts de navire à navire effectués en dehors des ports, les arrêts effectués à seule fin de trouver abri par mauvais temps ou rendus nécessaires par des activités de recherche et de sauvetage, ainsi que les arrêts de porte-conteneurs effectués dans un port voisin de transbordement de conteneurs recensé dans l’acte d’exécution de la Commission européenne adopté conformément à l’article 3 octies bis , paragraphe 2, de la directive 2003/87/CE précitée, sont exclus ;
 
-28. « navire de croisière » : un navire à passagers sans pont à cargaison, et qui est conçu exclusivement pour le transport commercial de passagers hébergés pour un voyage en mer ;
+- « navire de croisière » : un navire à passagers sans pont à cargaison, et qui est conçu exclusivement pour le transport commercial de passagers hébergés pour un voyage en mer ;
 
-29. « entité réglementée » : aux fins du chapitre 4, section 4 bis , toute personne physique ou morale, à l’exclusion de tout consommateur final des carburants, qui exerce l’activité visée à l’annexe III et qui relève d’une des catégories suivantes :
+- « entité réglementée » : aux fins du chapitre 4, section 4 bis , toute personne physique ou morale, à l’exclusion de tout consommateur final des carburants, qui exerce l’activité visée à l’annexe III et qui relève d’une des catégories suivantes :
 
-1. lorsque le carburant passe par un entrepôt fiscal tel que défini à l’article 5, paragraphe 1 er , point 9°, de l’annexe dénommée « loi belge modifiée du 22 décembre 2009 relative au régime général d’accise transposant la Directive 2008/118/CE du Conseil du 16 décembre 2008 et abrogeant la Directive 92/12/CEE en la matière » publiée par le règlement ministériel modifié du 18 mars 2010 portant publication de la loi belge du 22 décembre 2009 relative au régime général d’accise transposant la Directive 2008/118/CE du Conseil du 16 décembre 2008 et abrogeant la Directive 92/12/CEE en la matière, l’entrepositaire agréé au sens de l’article 5, paragraphe 1 er , point 8°, du règlement ministériel précité du 18 mars 2010 , qui est redevable des droits d’accise devenus exigibles en vertu de l’article 7 du règlement ministériel précité du 18 mars 2010 ;
+  - lorsque le carburant passe par un entrepôt fiscal tel que défini à l’article 5, paragraphe 1 er , point 9°, de l’annexe dénommée « loi belge modifiée du 22 décembre 2009 relative au régime général d’accise transposant la Directive 2008/118/CE du Conseil du 16 décembre 2008 et abrogeant la Directive 92/12/CEE en la matière » publiée par le règlement ministériel modifié du 18 mars 2010 portant publication de la loi belge du 22 décembre 2009 relative au régime général d’accise transposant la Directive 2008/118/CE du Conseil du 16 décembre 2008 et abrogeant la Directive 92/12/CEE en la matière, l’entrepositaire agréé au sens de l’article 5, paragraphe 1 er , point 8°, du règlement ministériel précité du 18 mars 2010 , qui est redevable des droits d’accise devenus exigibles en vertu de l’article 7 du règlement ministériel précité du 18 mars 2010 ;
 
-2. si la lettre a) n’est pas applicable, toute autre personne redevable des droits d’accise devenus exigibles en vertu de l’article 7 du règlement ministériel précité du 18 mars 2010 ou des articles 416 et 417 de l’annexe dénommée « loi-programme belge du 27 décembre 2004 » publiée par le règlement ministériel modifié du 29 mars 2005 portant publication de la loi-programme belge du 27 décembre 2004 pour les carburants qui relèvent du chapitre 4, section 4 bis ;
+  - si la lettre a) n’est pas applicable, toute autre personne redevable des droits d’accise devenus exigibles en vertu de l’article 7 du règlement ministériel précité du 18 mars 2010 ou des articles 416 et 417 de l’annexe dénommée « loi-programme belge du 27 décembre 2004 » publiée par le règlement ministériel modifié du 29 mars 2005 portant publication de la loi-programme belge du 27 décembre 2004 pour les carburants qui relèvent du chapitre 4, section 4 bis ;
 
-3. si les lettres a) et b) ne sont pas applicables, toute autre personne devant être enregistrée par l’Administration des douanes et accises en vue d’être redevable des droits d’accise, y compris toute personne exonérée du paiement des droits d’accise, conformément à l’article 422 de l’annexe dénommée de la « loi-programme belge du 27 décembre 2004 » publiée par le règlement ministériel précité du 29 mars 2005 ;
+  - si les lettres a) et b) ne sont pas applicables, toute autre personne devant être enregistrée par l’Administration des douanes et accises en vue d’être redevable des droits d’accise, y compris toute personne exonérée du paiement des droits d’accise, conformément à l’article 422 de l’annexe dénommée de la « loi-programme belge du 27 décembre 2004 » publiée par le règlement ministériel précité du 29 mars 2005 ;
 
-4. si les lettres a), b) et c) ne sont pas applicables, ou si plusieurs personnes sont tenues conjointement et solidairement au paiement des mêmes droits d’accise, toute autre personne désignée par l’administration ;
+  - si les lettres a), b) et c) ne sont pas applicables, ou si plusieurs personnes sont tenues conjointement et solidairement au paiement des mêmes droits d’accise, toute autre personne désignée par l’administration ;
 
-30. « l’administration » : l’Administration de l’environnement ;
+- « l’administration » : l’Administration de l’environnement ;
 
-31. « carburant » : aux fins du chapitre 4, section 4 bis , tout produit énergétique visé à l’article 415, paragraphe 1 er , de l’annexe dénommée « loi-programme belge du 27 décembre 2004 » publiée par le règlement ministériel précité du 29 mars 2005 , en ce compris les carburants énumérés à l’article 419 de ladite annexe, ainsi que tout autre produit destiné à être utilisé, mis en vente ou utilisé comme carburant ou comme combustible, comme énoncé aux articles 416 et 417 de ladite annexe, y compris pour la production d’électricité ;
+- « carburant » : aux fins du chapitre 4, section 4 bis , tout produit énergétique visé à l’article 415, paragraphe 1 er , de l’annexe dénommée « loi-programme belge du 27 décembre 2004 » publiée par le règlement ministériel précité du 29 mars 2005 , en ce compris les carburants énumérés à l’article 419 de ladite annexe, ainsi que tout autre produit destiné à être utilisé, mis en vente ou utilisé comme carburant ou comme combustible, comme énoncé aux articles 416 et 417 de ladite annexe, y compris pour la production d’électricité ;
 
-32. « mise à la consommation » : aux fins du chapitre 4, section 4 bis , la mise à la consommation telle qu’elle est définie à l’article 6, paragraphe 2, de l’annexe dénommée « loi belge du 22 décembre 2009 relative au régime général d’accise » publiée par le règlement ministériel précité du 18 mars 2010 .
+- « mise à la consommation » : aux fins du chapitre 4, section 4 bis , la mise à la consommation telle qu’elle est définie à l’article 6, paragraphe 2, de l’annexe dénommée « loi belge du 22 décembre 2009 relative au régime général d’accise » publiée par le règlement ministériel précité du 18 mars 2010 .
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -179,9 +179,9 @@ La présente loi établit un cadre pour un climat sûr et sain pour l’humain e
 
 La présente loi contribue à la mise en œuvre des objectifs de l’Accord de Paris. À cette fin, elle vise :
 
-1. l’objectif à long terme de la neutralité climatique, qui consiste à atteindre le « zéro émissions nettes » au Luxembourg, d’ici 2050 au plus tard ;
+- l’objectif à long terme de la neutralité climatique, qui consiste à atteindre le « zéro émissions nettes » au Luxembourg, d’ici 2050 au plus tard ;
 
-2. l’objectif intermédiaire qui consiste à réduire de 55 pour cent d’ici à 2030 par rapport aux niveaux de 2005 les émissions attribuées au Luxembourg au titre du règlement (UE) 2018/842 du Parlement européen et du Conseil du 30 mai 2018 relatif aux réductions annuelles contraignantes des émissions de gaz à effet de serre par les États membres de 2021 à 2030 contribuant à l’action pour le climat afin de respecter les engagements pris dans le cadre de l’Accord de Paris et modifiant le règlement (UE) 525/2013 .
+- l’objectif intermédiaire qui consiste à réduire de 55 pour cent d’ici à 2030 par rapport aux niveaux de 2005 les émissions attribuées au Luxembourg au titre du règlement (UE) 2018/842 du Parlement européen et du Conseil du 30 mai 2018 relatif aux réductions annuelles contraignantes des émissions de gaz à effet de serre par les États membres de 2021 à 2030 contribuant à l’action pour le climat afin de respecter les engagements pris dans le cadre de l’Accord de Paris et modifiant le règlement (UE) 525/2013 .
 
 (3)
 
@@ -196,15 +196,15 @@ Objectifs climatiques sectoriels
 
 Les objectifs de réduction des émissions sont fixés dans les secteurs suivants :
 
-1. industries de l’énergie et manufacturières, construction ;
+- industries de l’énergie et manufacturières, construction ;
 
-2. transports ;
+- transports ;
 
-3. bâtiments résidentiels et tertiaires ;
+- bâtiments résidentiels et tertiaires ;
 
-4. agriculture et sylviculture ;
+- agriculture et sylviculture ;
 
-5. traitement des déchets et des eaux usées.
+- traitement des déchets et des eaux usées.
 
 L’annexe II délimite les secteurs visés à l’alinéa 1er
 
@@ -214,11 +214,11 @@ Un règlement grand-ducal détermine les allocations d’émissions annuelles de
 
 Les allocations d’émissions annuelles seront déterminées :
 
-1. de façon à ce que les émissions de ces secteurs diminuent de manière régulière et continue selon le mécanisme visé à l’article 4 du règlement (UE) 2018/842 précité ;
+- de façon à ce que les émissions de ces secteurs diminuent de manière régulière et continue selon le mécanisme visé à l’article 4 du règlement (UE) 2018/842 précité ;
 
-2. en tenant compte du potentiel de réduction des différents secteurs ;
+- en tenant compte du potentiel de réduction des différents secteurs ;
 
-3. en fonction de l’impact social, économique et budgétaire.
+- en fonction de l’impact social, économique et budgétaire.
 
 (3)
 
@@ -245,17 +245,17 @@ En exécution de l’article 11 du règlement (UE) 2018/1999 précité, il est c
 
 La Plateforme climat a pour mission :
 
-1. d’être un forum de discussion sur le climat ;
+- d’être un forum de discussion sur le climat ;
 
-2. de proposer des recherches et des études dans tous les domaines ayant trait au climat ;
+- de proposer des recherches et des études dans tous les domaines ayant trait au climat ;
 
-3. d’établir des liens avec les comités comparables des États membres de l’Union européenne ;
+- d’établir des liens avec les comités comparables des États membres de l’Union européenne ;
 
-4. d’instaurer un dialogue multiniveaux entre des représentants des communes, d’organisations de la société civile, du monde des entreprises, des investisseurs et d’autres parties prenantes concernées ainsi que du grand public ;
+- d’instaurer un dialogue multiniveaux entre des représentants des communes, d’organisations de la société civile, du monde des entreprises, des investisseurs et d’autres parties prenantes concernées ainsi que du grand public ;
 
-5. de participer à l’élaboration de l’avant-projet de plan national intégré en matière d’énergie et de climat ;
+- de participer à l’élaboration de l’avant-projet de plan national intégré en matière d’énergie et de climat ;
 
-6. d’émettre des avis, sur demande du Gouvernement en conseil, relatives à la politique nationale climatique prises ou envisagées, notamment sur l’exécution des engagements internationaux ou d’étudier de sa propre initiative l’opportunité de nouvelles mesures ou de modifications de mesures en place.
+- d’émettre des avis, sur demande du Gouvernement en conseil, relatives à la politique nationale climatique prises ou envisagées, notamment sur l’exécution des engagements internationaux ou d’étudier de sa propre initiative l’opportunité de nouvelles mesures ou de modifications de mesures en place.
 
 (2)
 
@@ -278,13 +278,13 @@ Observatoire de la politique climatique
 
 Il est créé un Observatoire du climat, ci-après dénommé « l’Observatoire », qui a pour missions :
 
-1. de conseiller en matière de projets, actions ou mesures susceptibles d’avoir un impact sur la politique climatique ;
+- de conseiller en matière de projets, actions ou mesures susceptibles d’avoir un impact sur la politique climatique ;
 
-2. d’évaluer scientifiquement les mesures réalisées ou envisagées en matière de politique climatique et d’en analyser l’efficacité, ainsi que de proposer de nouvelles mesures ;
+- d’évaluer scientifiquement les mesures réalisées ou envisagées en matière de politique climatique et d’en analyser l’efficacité, ainsi que de proposer de nouvelles mesures ;
 
-3. de rédiger à l’attention du Gouvernement un rapport annuel sur la mise en œuvre de la politique climatique ; et
+- de rédiger à l’attention du Gouvernement un rapport annuel sur la mise en œuvre de la politique climatique ; et
 
-4. de proposer des recherches et études dans tous les domaines ayant trait au climat.
+- de proposer des recherches et études dans tous les domaines ayant trait au climat.
 
 (2)
 
@@ -319,7 +319,7 @@ Au plus tard le 1er septembre 2027 et tous les dix ans par la suite et sur déci
 
 (2)
 
-Le projet de plan national intégré en matière d’énergie et de climat visé au paragraphe 1er tient compte des avis et de l’enquête publique visés au paragraphe 1er, alinéa 2, et est approuvé par le Gouvernement en conseil.
+Le projet de plan national intégré en matière d’énergie et de climat visé au paragraphe 1er tient compte des avis et de l’enquête publique visés au paragraphe 1er, alinéa 2 , et est approuvé par le Gouvernement en conseil.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -416,11 +416,11 @@ Le financement des projets se fait conformément à la programmation financière
 
 Le fonds a pour objet de contribuer au financement :
 
-1. des mesures nationales qui sont mises en œuvre pour lutter contre le changement climatique, et pour promouvoir les énergies renouvelables ;
+- des mesures nationales qui sont mises en œuvre pour lutter contre le changement climatique, et pour promouvoir les énergies renouvelables ;
 
-2. des mesures de lutte contre le changement climatique dans les pays en développement ; et
+- des mesures de lutte contre le changement climatique dans les pays en développement ; et
 
-3. des mécanismes de flexibilité créés par le protocole de Kyoto et par l’Accord de Paris, ceux prévus par la décision n° 406/2009/CE du Parlement européen et du Conseil du 23 avril 2009 relative à l’effort à fournir par les États membres pour réduire leurs émissions de gaz à effet de serre afin de respecter les engagements de l’Union en matière de réduction de ces émissions jusqu’en 2020, ainsi que ceux prévus par le règlement (UE) 2018/842 précité.
+- des mécanismes de flexibilité créés par le protocole de Kyoto et par l’Accord de Paris, ceux prévus par la décision n° 406/2009/CE du Parlement européen et du Conseil du 23 avril 2009 relative à l’effort à fournir par les États membres pour réduire leurs émissions de gaz à effet de serre afin de respecter les engagements de l’Union en matière de réduction de ces émissions jusqu’en 2020, ainsi que ceux prévus par le règlement (UE) 2018/842 précité.
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -431,69 +431,69 @@ Investissements éligibles
 
 Le fonds intervient dans les domaines suivants :
 
-1. projets, programmes, activités, rapports et autres mesures visant la réduction des émissions ;
+- projets, programmes, activités, rapports et autres mesures visant la réduction des émissions ;
 
-2. mesures d’adaptation aux changements climatiques ;
+- mesures d’adaptation aux changements climatiques ;
 
-3. frais d’un programme de réduction des émissions par une subvention variable annuelle, une prime unique, les frais des conseillers climat ainsi que les frais de fonctionnement dans le cadre d’un tel programme, selon les critères, modalités et montants maxima fixés par la loi du 25 juin 2021 portant création d’un pacte climat 2.0 avec les communes ;
+- frais d’un programme de réduction des émissions par une subvention variable annuelle, une prime unique, les frais des conseillers climat ainsi que les frais de fonctionnement dans le cadre d’un tel programme, selon les critères, modalités et montants maxima fixés par la loi du 25 juin 2021 portant création d’un pacte climat 2.0 avec les communes ;
 
-4. financement de la lutte contre le changement climatique dans les pays en développement ;
+- financement de la lutte contre le changement climatique dans les pays en développement ;
 
-5. financement de projets d’énergies renouvelables et d’efficacité énergétique dans les pays en développement et au Luxembourg ;
+- financement de projets d’énergies renouvelables et d’efficacité énergétique dans les pays en développement et au Luxembourg ;
 
-6. échange de droits d’émission et projets communs concernant la réduction des émissions dans le cadre d’un accord avec un ou plusieurs pays respectivement une ou plusieurs entités privées ;
+- échange de droits d’émission et projets communs concernant la réduction des émissions dans le cadre d’un accord avec un ou plusieurs pays respectivement une ou plusieurs entités privées ;
 
-7. activités de projet de mise en œuvre conjointe (MOC) réalisées dans les pays membres de l’OCDE et les pays à économie de transition, y compris l’achat et la vente de droits d’émission ;
+- activités de projet de mise en œuvre conjointe (MOC) réalisées dans les pays membres de l’OCDE et les pays à économie de transition, y compris l’achat et la vente de droits d’émission ;
 
-8. activités de projet de mécanisme de développement propre (MDP) dans des pays en développement, l’achat et la vente de droits d’émission ;
+- activités de projet de mécanisme de développement propre (MDP) dans des pays en développement, l’achat et la vente de droits d’émission ;
 
-9. mécanisme de réduction des émissions prévu par l’Accord de Paris ;
+- mécanisme de réduction des émissions prévu par l’Accord de Paris ;
 
-10. participation à des fonds multilatéraux gérés par des organismes internationaux ou régionaux qui ont pour mission notamment d’appuyer financièrement lesdits activités et projets communs ;
+- participation à des fonds multilatéraux gérés par des organismes internationaux ou régionaux qui ont pour mission notamment d’appuyer financièrement lesdits activités et projets communs ;
 
-11. mécanisme de compensation tel que prévu par l’article 7 de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
+- mécanisme de compensation tel que prévu par l’article 7 de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
 
-12. mesures de coopération prévues par la directive 2009/28/CE du Parlement européen et du Conseil du 23 avril 2009 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives 2001/77/CE et 2003/30/CE et par la directive 2018/2001/UE du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables ;
+- mesures de coopération prévues par la directive 2009/28/CE du Parlement européen et du Conseil du 23 avril 2009 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives 2001/77/CE et 2003/30/CE et par la directive 2018/2001/UE du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables ;
 
-13. projets, programmes, activités, rapports et autres mesures visant la promotion de la construction et de l’habitat durables ;
+- projets, programmes, activités, rapports et autres mesures visant la promotion de la construction et de l’habitat durables ;
 
-14. projets, actions et mesures visant la finance durable ; et
+- projets, actions et mesures visant la finance durable ; et
 
-15. la promotion des véhicules routiers à zéro ou à faibles émissions de CO 2 à travers :
+- la promotion des véhicules routiers à zéro ou à faibles émissions de CO 2 à travers :
 
-1. la prise en charge partielle de l’acquisition d’un :
+  - la prise en charge partielle de l’acquisition d’un :
 
-1. véhicule automoteur électrique pur ;
+    - véhicule automoteur électrique pur ;
 
-2. véhicule automoteur à pile à combustible à hydrogène ;
+    - véhicule automoteur à pile à combustible à hydrogène ;
 
-3. véhicule automoteur électrique hybride rechargeable dont les émissions de CO 2 sont inférieures ou égales à 50 grammes par kilomètre.
+    - véhicule automoteur électrique hybride rechargeable dont les émissions de CO 2 sont inférieures ou égales à 50 grammes par kilomètre.
 
-2. la prise en charge partielle des coûts d’acquisition et d’installation de bornes de charge pour véhicules électriques ainsi que des systèmes collectifs de gestion intelligente de charge déterminés par une disposition légale ;
+  - la prise en charge partielle des coûts d’acquisition et d’installation de bornes de charge pour véhicules électriques ainsi que des systèmes collectifs de gestion intelligente de charge déterminés par une disposition légale ;
 
-3. la prise en charge partielle de :
+  - la prise en charge partielle de :
 
-1. l’acquisition d’un cycle à pédalage assisté électrique ou d’un cycle ;
+    - l’acquisition d’un cycle à pédalage assisté électrique ou d’un cycle ;
 
-2. l’acquisition d’un cycle à pédalage assisté électrique ou d’un cycle permettant de transporter, à l’arrière ou à l’avant du conducteur, des charges de personnes ou de marchandises, disposant d’une charge utile d’au moins 140 kilogrammes et présentant des possibilités de transport indissociables du cycle à pédalage assisté électrique ou du cycle
+    - l’acquisition d’un cycle à pédalage assisté électrique ou d’un cycle permettant de transporter, à l’arrière ou à l’avant du conducteur, des charges de personnes ou de marchandises, disposant d’une charge utile d’au moins 140 kilogrammes et présentant des possibilités de transport indissociables du cycle à pédalage assisté électrique ou du cycle
 
 (2)
 
 Le fonds intervient :
 
-1. soit par le financement ou le cofinancement des domaines visés sous les points 1 à 5 et 7 à 14, sous la forme :
+- soit par le financement ou le cofinancement des domaines visés sous les points 1 à 5 et 7 à 14, sous la forme :
 
-1. d’investissements ;
+  - d’investissements ;
 
-2. d’études ou de conseils portant sur les modalités d’investissement ;
+  - d’études ou de conseils portant sur les modalités d’investissement ;
 
-3. d’études ou de conseils portant sur la faisabilité et l’éligibilité d’activités de projet, y compris des projets pilotes ;
+  - d’études ou de conseils portant sur la faisabilité et l’éligibilité d’activités de projet, y compris des projets pilotes ;
 
-4. d’études portant sur les potentiels de réduction des émissions et d’énergies renouvelables ; ou
+  - d’études portant sur les potentiels de réduction des émissions et d’énergies renouvelables ; ou
 
-5. de participations financières directes.
+  - de participations financières directes.
 
-2. soit par l’achat ou la vente de crédits d’émission de gaz à effet de serre ou par leur transfert statistique entre pays.
+- soit par l’achat ou la vente de crédits d’émission de gaz à effet de serre ou par leur transfert statistique entre pays.
 
 (3)
 
@@ -508,21 +508,21 @@ Alimentation du fonds
 
 Le fonds est alimenté par :
 
-1. des dotations budgétaires annuelles ;
+- des dotations budgétaires annuelles ;
 
-2. des dotations spécifiques à charge du budget de l’État ;
+- des dotations spécifiques à charge du budget de l’État ;
 
-3. le produit de la vente de crédits d’émissions SEQE ;
+- le produit de la vente de crédits d’émissions SEQE ;
 
-4. des dons ;
+- des dons ;
 
-5. par une partie du droit d’accise autonome additionnel dénommé Taxe CO 2 ;
+- par une partie du droit d’accise autonome additionnel dénommé Taxe CO 2 ;
 
-6. une partie du produit de la taxe sur les véhicules routiers fixée au budget ; et
+- une partie du produit de la taxe sur les véhicules routiers fixée au budget ; et
 
-7. les contributions forfaitaires et les pénalités sous le mécanisme d’obligations en matière d’efficacité énergétique.
+- les contributions forfaitaires et les pénalités sous le mécanisme d’obligations en matière d’efficacité énergétique.
 
-8. les recettes de la mise aux enchères des quotas pour l’aviation.
+- les recettes de la mise aux enchères des quotas pour l’aviation.
 
 (2)
 
@@ -541,11 +541,11 @@ Conditions d’octroi
 
 Il est créé dans les limites des fonds disponibles, et dans les conditions développées dans la section 1re et dans la présente sous-section, une aide financière qui peut être allouée sous forme de subvention en capital aux personnes visées au paragraphe 2 pour l’acquisition d’un des véhicules routiers neufs suivants :
 
-1. les véhicules automoteurs électriques purs ;
+- les véhicules automoteurs électriques purs ;
 
-2. les véhicules automoteurs à pile à combustible à hydrogène ;
+- les véhicules automoteurs à pile à combustible à hydrogène ;
 
-3. les véhicules automoteurs électriques hybrides rechargeables avec des émissions de CO 2 inférieures ou égales à 50 grammes/kilomètre.
+- les véhicules automoteurs électriques hybrides rechargeables avec des émissions de CO 2 inférieures ou égales à 50 grammes/kilomètre.
 
 Constitue un véhicule routier neuf au sens du présent chapitre, le véhicule routier qui n’a pas encore été immatriculé, ni au Luxembourg, ni à l’étranger.
 
@@ -561,23 +561,23 @@ L’aide financière n’est attribuée qu’une seule fois par véhicule.
 
 L’aide financière pour les véhicules visés au paragraphe 1er, points 1° et 2°, n’est allouée que pour les acquisitions dont :
 
-1. la date de la conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing, intervient au plus tard le 30 juin 2026 inclusivement ;
+- la date de la conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing, intervient au plus tard le 30 juin 2026 inclusivement ;
 
-2. la date de la première mise en circulation se situe entre le 1 er janvier 2019 et le 30 juin 2027 inclusivement.
+- la date de la première mise en circulation se situe entre le 1 er janvier 2019 et le 30 juin 2027 inclusivement.
 
 (4)
 
 L’aide financière pour les véhicules visés au paragraphe 1er, point 3°, n’est allouée que pour les acquisitions dont :
 
-1. la date de la conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing, se situe au plus tard le 31 décembre 2021 inclusivement ;
+- la date de la conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing, se situe au plus tard le 31 décembre 2021 inclusivement ;
 
-2. la date de la première mise en circulation se situe entre le 1 er janvier 2019 et le 31 décembre 2021 inclusivement.
+- la date de la première mise en circulation se situe entre le 1 er janvier 2019 et le 31 décembre 2021 inclusivement.
 
 Toutefois, la date limite de la première mise en circulation visée à l’alinéa 1er, point 2°, est portée au 31 décembre 2023 lorsque le véhicule remplit simultanément les conditions suivantes :
 
-1. la date de conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing du véhicule se situe au plus tard le 30 septembre 2021 inclusivement ;
+- la date de conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing du véhicule se situe au plus tard le 30 septembre 2021 inclusivement ;
 
-2. la date de livraison initialement prévue du véhicule, renseignée sur le contrat de vente ou, en cas de leasing, sur le contrat de location ou de leasing du véhicule, se situe au plus tard le 31 décembre 2021 inclusivement.
+- la date de livraison initialement prévue du véhicule, renseignée sur le contrat de vente ou, en cas de leasing, sur le contrat de location ou de leasing du véhicule, se situe au plus tard le 31 décembre 2021 inclusivement.
 
 (5)
 
@@ -610,71 +610,71 @@ Montants
 
 Pour les véhicules visés à l’article 15-1, paragraphe 1er, point 1°, le montant de l’aide financière s’élève à :
 
-1. 5 000 euros, lorsque le véhicule est une voiture automobile à personnes ou une camionnette ;
+- 5 000 euros, lorsque le véhicule est une voiture automobile à personnes ou une camionnette ;
 
-2. 25 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 500 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
+- 25 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 500 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
 
 Toutefois, lorsque la date de conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing du véhicule visé à l’alinéa 1er est comprise entre le 11 mai 2020 et le 31 mars 2021 inclusivement, et que le véhicule est mis en circulation pour la première fois entre le 11 mai 2020 et le 31 décembre 2023 inclusivement, le montant de l’aide financière s’élève à :
 
-1. 8 000 euros, lorsque le véhicule est une voiture automobile à personnes ou une camionnette, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule ;
+- 8 000 euros, lorsque le véhicule est une voiture automobile à personnes ou une camionnette, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule ;
 
-2. 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 1 000 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
+- 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 1 000 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
 
 Lorsque la date de conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing du véhicule visé à l’alinéa 1er est comprise entre le 1er avril 2021 et le 30 septembre 2024 inclusivement, et que le véhicule est mis en circulation pour la première fois au plus tard le 30 septembre 2025 inclusivement, le montant de l’aide financière s’élève à :
 
-1. 8 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes dont la consommation d’énergie électrique ne dépasse pas 180 wattheure/kilomètre ;
+- 8 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes dont la consommation d’énergie électrique ne dépasse pas 180 wattheure/kilomètre ;
 
-2. 8 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes remplissant simultanément les conditions suivantes :
+- 8 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes remplissant simultanément les conditions suivantes :
 
-1. sa consommation d’énergie électrique ne dépasse pas 200 wattheure/kilomètre ;
+  - sa consommation d’énergie électrique ne dépasse pas 200 wattheure/kilomètre ;
 
-2. la puissance nette maximale de son système de propulsion est inférieure ou égale à 150 kilowatt ;
+  - la puissance nette maximale de son système de propulsion est inférieure ou égale à 150 kilowatt ;
 
-3. la date de conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing du véhicule est comprise entre le 1 er avril 2022 et le 30 septembre 2024 inclusivement ;
+  - la date de conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing du véhicule est comprise entre le 1 er avril 2022 et le 30 septembre 2024 inclusivement ;
 
-3. 8 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes dont la consommation d’énergie électrique dépasse 180 wattheure/kilomètre, sous réserve qu’il comporte au moins sept places assises, y compris celle du conducteur, et que le requérant de l’aide financière ou, dans le cas d’un contrat de location ou de leasing, le détenteur du véhicule inscrit sur le certificat d’immatriculation ou identifié sur le contrat de location ou de leasing, est une personne physique faisant partie d’un ménage qui se compose d’au moins cinq personnes ;
+- 8 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes dont la consommation d’énergie électrique dépasse 180 wattheure/kilomètre, sous réserve qu’il comporte au moins sept places assises, y compris celle du conducteur, et que le requérant de l’aide financière ou, dans le cas d’un contrat de location ou de leasing, le détenteur du véhicule inscrit sur le certificat d’immatriculation ou identifié sur le contrat de location ou de leasing, est une personne physique faisant partie d’un ménage qui se compose d’au moins cinq personnes ;
 
-4. 3 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes ne répondant pas aux conditions visées aux points 1°, 2° et 3 ;
+- 3 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes ne répondant pas aux conditions visées aux points 1°, 2° et 3 ;
 
-5. 8 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une camionnette ;
+- 8 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une camionnette ;
 
-6. 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 1 000 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
+- 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 1 000 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
 
 Lorsque la date de conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing du véhicule visé à l’alinéa 1er est comprise entre le 1er octobre 2024 et le 30 juin 2026 inclusivement, et que le véhicule est mis en circulation pour la première fois au plus tard le 30 juin 2027 inclusivement, le montant de l’aide financière s’élève à :
 
-1. 6 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes dont la consommation d’énergie électrique ne dépasse pas 160 wattheure/kilomètre ;
+- 6 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes dont la consommation d’énergie électrique ne dépasse pas 160 wattheure/kilomètre ;
 
-2. 6 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes dont la consommation d’énergie électrique dépasse 160 wattheure/kilomètre, sous réserve qu’il comporte au moins sept places assises, y compris celle du conducteur, et que le requérant de l’aide financière ou, dans le cas d’un contrat de location ou de leasing, le détenteur du véhicule inscrit sur le certificat d’immatriculation ou identifié sur le contrat de location ou de leasing, est une personne physique faisant partie d’un ménage qui se compose d’au moins cinq personnes ;
+- 6 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes dont la consommation d’énergie électrique dépasse 160 wattheure/kilomètre, sous réserve qu’il comporte au moins sept places assises, y compris celle du conducteur, et que le requérant de l’aide financière ou, dans le cas d’un contrat de location ou de leasing, le détenteur du véhicule inscrit sur le certificat d’immatriculation ou identifié sur le contrat de location ou de leasing, est une personne physique faisant partie d’un ménage qui se compose d’au moins cinq personnes ;
 
-3. 3 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes remplissant une des conditions suivantes :
+- 3 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes remplissant une des conditions suivantes :
 
-1. sa consommation d’énergie électrique ne dépasse pas 180 wattheure/kilomètre ;
+  - sa consommation d’énergie électrique ne dépasse pas 180 wattheure/kilomètre ;
 
-2. sa consommation d’énergie électrique ne dépasse pas 200 wattheure/kilomètre et la puissance nette maximale de son système de propulsion est inférieure ou égale à 150 kilowatt ;
+  - sa consommation d’énergie électrique ne dépasse pas 200 wattheure/kilomètre et la puissance nette maximale de son système de propulsion est inférieure ou égale à 150 kilowatt ;
 
-4. 6 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une camionnette ;
+- 6 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une camionnette ;
 
-5. 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 1 000 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
+- 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 1 000 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
 
 (2)
 
 Pour les véhicules visés à l’article 15-1, paragraphe 1er, point 2°, le montant de l’aide financière s’élève à :
 
-1. 5 000 euros, lorsque le véhicule est une voiture automobile à personnes ou une camionnette ;
+- 5 000 euros, lorsque le véhicule est une voiture automobile à personnes ou une camionnette ;
 
-2. 25 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 500 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
+- 25 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 500 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
 
 Toutefois, lorsque la date de conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing du véhicule visé à l’alinéa 1er est comprise entre le 11 mai 2020 et le 30 septembre 2024 inclusivement, et que le véhicule est mis en circulation pour la première fois au plus tard le 30 septembre 2025 inclusivement, le montant de l’aide financière s’élève à :
 
-1. 8 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes ou une camionnette ;
+- 8 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes ou une camionnette ;
 
-2. 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 1 000 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
+- 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 1 000 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
 
 Lorsque la date de conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing du véhicule visé à l’alinéa 1er est comprise entre le 1er octobre 2024 et le 30 juin 2026 inclusivement, et que le véhicule est mis en circulation pour la première fois au plus tard le 30 juin 2027 inclusivement, le montant de l’aide financière s’élève à :
 
-1. 6 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes ou une camionnette ;
+- 6 000 euros, sans pour autant dépasser 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, lorsque le véhicule est une voiture automobile à personnes ou une camionnette ;
 
-2. 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 1 000 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
+- 50 pour cent du coût hors taxe sur la valeur ajoutée du véhicule, sans toutefois dépasser 1 000 euros, lorsque le véhicule est un quadricycle, un motocycle ou un cyclomoteur.
 
 (3)
 
@@ -709,9 +709,9 @@ Par dérogation à l’alinéa 1er, pour les véhicules de location sans chauffe
 
 Les délais visés aux alinéas 1er et 2 ne sont pas d’application lorsque :
 
-1. le requérant de l’aide financière est une personne physique propriétaire du véhicule ; ou
+- le requérant de l’aide financière est une personne physique propriétaire du véhicule ; ou
 
-2. la date de conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing du véhicule se situe à partir du 1 er octobre 2024.
+- la date de conclusion du contrat de vente ou, en cas de leasing, du contrat de location ou de leasing du véhicule se situe à partir du 1 er octobre 2024.
 
 (3)
 
@@ -736,9 +736,9 @@ Conditions d’octroi
 
 Il est créé dans les limites des fonds disponibles, et dans les conditions développées dans la section 1re et la présente sous-section, une aide financière qui peut être allouée sous forme de subvention en capital aux personnes visées au paragraphe 2 pour l’acquisition d’un des véhicules routiers suivants âgés d’au minimum trois années au moment de l’acquisition :
 
-1. les véhicules automoteurs électriques purs ;
+- les véhicules automoteurs électriques purs ;
 
-2. les véhicules automoteurs à pile à combustible à hydrogène.
+- les véhicules automoteurs à pile à combustible à hydrogène.
 
 L’aide financière est allouée pour des voitures automobiles à personnes et des camionnettes.
 
@@ -807,7 +807,7 @@ Conditions
 
 Il est créé dans les limites des fonds disponibles, et dans les conditions développées dans la section 1re et la présente sous-section, une aide financière qui peut être allouée sous forme de subvention en capital aux personnes visées au paragraphe 2 pour l’acquisition d’un des véhicules routiers neufs suivants :
 
-1. les cycles à pédalage assisté électrique ou cycles permettant de transporter, à l’arrière ou à l’avant du conducteur, des charges de personnes ou de marchandises, disposant d’une charge utile d’au moins 140 kilogrammes et présentant des possibilités de transport qui sont indissociables du cycle à pédalage assisté électrique ou du cycle.
+- les cycles à pédalage assisté électrique ou cycles permettant de transporter, à l’arrière ou à l’avant du conducteur, des charges de personnes ou de marchandises, disposant d’une charge utile d’au moins 140 kilogrammes et présentant des possibilités de transport qui sont indissociables du cycle à pédalage assisté électrique ou du cycle.
 
 <a id="art-15-8"></a>
 ## Art. 15-8.
@@ -897,13 +897,13 @@ Les quotas réservés au titre de l’alinéa 1er sont alloués pour couvrir tou
 
 Les quotas alloués au titre du présent paragraphe couvrent :
 
-1. 70 pour cent de l’écart de prix restant entre l’utilisation de kérosène fossile et d’hydrogène produit à partir de sources d’énergie renouvelables, et de biocarburants avancés tels qu’ils sont définis dans les règlements grand-ducaux pris en exécution de l’article 12 de la loi modifiée du 5 août 1993 concernant l’utilisation rationnelle de l’Énergie, pour lesquels le facteur d’émission est égal à zéro au titre de l’annexe IV de la directive 2003/87/CE précitée ou de l’acte d’exécution de la Commission européenne adopté conformément à l’article 14 de cette directive ;
+- 70 pour cent de l’écart de prix restant entre l’utilisation de kérosène fossile et d’hydrogène produit à partir de sources d’énergie renouvelables, et de biocarburants avancés tels qu’ils sont définis dans les règlements grand-ducaux pris en exécution de l’article 12 de la loi modifiée du 5 août 1993 concernant l’utilisation rationnelle de l’Énergie, pour lesquels le facteur d’émission est égal à zéro au titre de l’annexe IV de la directive 2003/87/CE précitée ou de l’acte d’exécution de la Commission européenne adopté conformément à l’article 14 de cette directive ;
 
-2. 95 pour cent de l’écart de prix restant entre l’utilisation de kérosène fossile et de carburants renouvelables d’origine non biologique conformes à l’article 1 er , paragraphe 1 er , de la loi modifiée du 17 décembre 2010 fixant les droits d’accise et les taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques, utilisés dans l’aviation, pour lesquels le facteur d’émission est égal à zéro au titre de l’annexe IV de la directive 2003/87/CE précitée ou de l’acte d’exécution de la Commission européenne adopté conformément à l’article 14 de cette directive ;
+- 95 pour cent de l’écart de prix restant entre l’utilisation de kérosène fossile et de carburants renouvelables d’origine non biologique conformes à l’article 1 er , paragraphe 1 er , de la loi modifiée du 17 décembre 2010 fixant les droits d’accise et les taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques, utilisés dans l’aviation, pour lesquels le facteur d’émission est égal à zéro au titre de l’annexe IV de la directive 2003/87/CE précitée ou de l’acte d’exécution de la Commission européenne adopté conformément à l’article 14 de cette directive ;
 
-3. 100 pour cent de l’écart de prix restant entre l’utilisation de kérosène fossile et de tout carburant d’aviation admissible qui n’est pas dérivé de combustibles fossiles couverts par l’alinéa 1 er , dans des aéroports situés sur des îles de moins de 10 000 kilomètres carrés qui ne sont pas reliées au continent par une liaison routière ou ferroviaire, dans des aéroports qui ne sont pas suffisamment grands pour être définis comme des aéroports de l’Union européenne conformément au règlement visé à l’article 3 quater , paragraphe 6, alinéa 3, lettre c), de la directive 2003/87/CE précitée, et dans des aéroports situés dans une région ultrapériphérique ;
+- 100 pour cent de l’écart de prix restant entre l’utilisation de kérosène fossile et de tout carburant d’aviation admissible qui n’est pas dérivé de combustibles fossiles couverts par l’alinéa 1 er , dans des aéroports situés sur des îles de moins de 10 000 kilomètres carrés qui ne sont pas reliées au continent par une liaison routière ou ferroviaire, dans des aéroports qui ne sont pas suffisamment grands pour être définis comme des aéroports de l’Union européenne conformément au règlement visé à l’article 3 quater , paragraphe 6, alinéa 3, lettre c), de la directive 2003/87/CE précitée, et dans des aéroports situés dans une région ultrapériphérique ;
 
-4. dans les cas autres que ceux visés aux points 1°, 2° et 3°, 50 pour cent de l’écart de prix restant entre l’utilisation de kérosène fossile et de tout carburant d’aviation admissible qui n’est pas dérivé de combustibles fossiles couverts par l’alinéa 1 er .
+- dans les cas autres que ceux visés aux points 1°, 2° et 3°, 50 pour cent de l’écart de prix restant entre l’utilisation de kérosène fossile et de tout carburant d’aviation admissible qui n’est pas dérivé de combustibles fossiles couverts par l’alinéa 1 er .
 
 Sur une base annuelle, les exploitants d’aéronefs commerciaux peuvent demander au ministre une allocation de quotas sur la base de la quantité de chaque carburant d’aviation admissible visé au présent paragraphe utilisé sur des vols pour lesquels des quotas doivent être restitués conformément à l’article 34, paragraphe 4, point 2°, entre le 1er janvier 2024 et le 31 décembre 2030, à l’exclusion des vols pour lesquels cette exigence est considérée comme satisfaite en vertu de l’article 34bis. Si, pour une année donnée, la demande de quotas pour l’utilisation de ces carburants est supérieure aux quotas disponibles, la quantité de quotas est réduite de manière uniforme pour tous les exploitants d’aéronefs concernés par l’allocation pour ladite année.
 
@@ -941,15 +941,15 @@ Pour chacune des périodes visées à l’article 17, chaque exploitant d’aér
 
 Quinze mois au moins avant le début de chacune des périodes visées à l’article 17, la Commission calcule et adopte une décision indiquant :
 
-1. la quantité totale de quotas à allouer pour cette période conformément à l’article 17,
+- la quantité totale de quotas à allouer pour cette période conformément à l’article 17,
 
-2. le nombre de quotas à mettre aux enchères pour cette période conformément à l’article 18,
+- le nombre de quotas à mettre aux enchères pour cette période conformément à l’article 18,
 
-3. le nombre de quotas à prévoir au titre de la réserve spéciale pour les exploitants d’aéronefs pour cette période conformément à l’article 20, paragraphe 1er,
+- le nombre de quotas à prévoir au titre de la réserve spéciale pour les exploitants d’aéronefs pour cette période conformément à l’article 20, paragraphe 1er,
 
-4. le nombre de quotas à délivrer gratuitement pour cette période, obtenu en soustrayant le nombre de quotas visé aux points 2° et 3° de la quantité totale de quotas déterminée en application du point 1° ; et
+- le nombre de quotas à délivrer gratuitement pour cette période, obtenu en soustrayant le nombre de quotas visé aux points 2° et 3° de la quantité totale de quotas déterminée en application du point 1° ; et
 
-5. le référentiel à utiliser pour allouer à titre gratuit des quotas aux exploitants d’aéronefs dont les demandes ont été soumises conformément au paragraphe 2.
+- le référentiel à utiliser pour allouer à titre gratuit des quotas aux exploitants d’aéronefs dont les demandes ont été soumises conformément au paragraphe 2.
 
 Le référentiel, exprimé en quotas par tonnes-kilomètres, est calculé en divisant le nombre de quotas visé au point 4° par la somme des tonnes-kilomètres consignées dans les demandes soumises à la Commission au titre du paragraphe 2.
 
@@ -957,9 +957,9 @@ Le référentiel, exprimé en quotas par tonnes-kilomètres, est calculé en div
 
 Dans les trois mois suivant l’adoption, par la Commission, d’une décision au titre du paragraphe 3, le ministre charge l’administration de l’environnement, ci-après l’« administration » du calcul et de la publicité, notamment par voie électronique :
 
-1. du total des quotas alloués pour la période concernée à chaque exploitant d’aéronefs dont la demande est soumise à la Commission conformément au paragraphe 2, calculé en multipliant les tonnes-kilomètres consignées dans la demande par le référentiel visé au paragraphe 3, point 5° ; et
+- du total des quotas alloués pour la période concernée à chaque exploitant d’aéronefs dont la demande est soumise à la Commission conformément au paragraphe 2, calculé en multipliant les tonnes-kilomètres consignées dans la demande par le référentiel visé au paragraphe 3, point 5° ; et
 
-2. des quotas alloués à chaque exploitant d’aéronefs pour chaque année, ce chiffre étant déterminé en divisant le total des quotas pour la période en question, calculé conformément au point 1°, par le nombre d’années dans la période pour laquelle cet exploitant d’aéronefs réalise une des activités aériennes visées à l’annexe I.
+- des quotas alloués à chaque exploitant d’aéronefs pour chaque année, ce chiffre étant déterminé en divisant le total des quotas pour la période en question, calculé conformément au point 1°, par le nombre d’années dans la période pour laquelle cet exploitant d’aéronefs réalise une des activités aériennes visées à l’annexe I.
 
 (4)
 
@@ -974,9 +974,9 @@ Réserve spéciale pour certains exploitants d’aéronefs
 
 Pour chaque période visée à l’article 17, 3 pour cent de la quantité totale des quotas à allouer sont versés dans une réserve spéciale constituée pour les exploitants d’aéronefs :
 
-1. qui commencent à exercer une activité aérienne relevant de l’annexe I après l’année de surveillance pour laquelle les données relatives aux tonnes-kilomètres ont été communiquées conformément à l’article 19, paragraphe 1er, pour une période visée à l’article 17 ;ou
+- qui commencent à exercer une activité aérienne relevant de l’annexe I après l’année de surveillance pour laquelle les données relatives aux tonnes-kilomètres ont été communiquées conformément à l’article 19, paragraphe 1er, pour une période visée à l’article 17 ;ou
 
-2. dont les données relatives aux tonnes-kilomètres traduisent une augmentation annuelle moyenne supérieure à 18 pour cent entre l’année de surveillance pour laquelle les données relatives aux tonnes-kilomètres ont été communiquées conformément à l’article 19, paragraphe 1er, pour une période visée à l’article 17, et la deuxième année civile de cette période ;
+- dont les données relatives aux tonnes-kilomètres traduisent une augmentation annuelle moyenne supérieure à 18 pour cent entre l’année de surveillance pour laquelle les données relatives aux tonnes-kilomètres ont été communiquées conformément à l’article 19, paragraphe 1er, pour une période visée à l’article 17, et la deuxième année civile de cette période ;
 
 et dont les activités visées au point 1°, ou le surcroît d’activités visées au point 2°, ne s’inscrivent pas, pour une partie ou dans leur intégralité, dans le cadre de la poursuite d’une activité aérienne exercée auparavant par un autre exploitant d’aéronef.
 
@@ -990,29 +990,29 @@ En application du paragraphe 1er, point 2°, un exploitant de lignes aériennes 
 
 Une demande présentée au titre du paragraphe 2 :
 
-1. contient les données relatives aux tonnes-kilomètres vérifiées, conformément aux annexes précisées par règlement grand-ducal, pour les activités aériennes relevant de l’annexe I et exercées par l’exploitant durant la deuxième année civile de la période visée à l’article 17, à laquelle la demande se rapporte ;
+- contient les données relatives aux tonnes-kilomètres vérifiées, conformément aux annexes précisées par règlement grand-ducal, pour les activités aériennes relevant de l’annexe I et exercées par l’exploitant durant la deuxième année civile de la période visée à l’article 17, à laquelle la demande se rapporte ;
 
-2. apporte la preuve que les critères d’admissibilité visés au paragraphe 1er sont remplis ;
+- apporte la preuve que les critères d’admissibilité visés au paragraphe 1er sont remplis ;
 
-3. dans le cas d’un exploitant d’aéronef relevant du paragraphe 1er, point 1°, indique :
+- dans le cas d’un exploitant d’aéronef relevant du paragraphe 1er, point 1°, indique :
 
-1. le taux d’augmentation exprimé en tonnes-kilomètres se rapportant aux activités de cet exploitant d’aéronef entre l’année de surveillance pour laquelle les données relatives aux tonnes-kilomètres ont été communiquées conformément à l’article 19, paragraphe 1er, pour une période visée à l’article 17, et la deuxième année civile de cette période ;
+  - le taux d’augmentation exprimé en tonnes-kilomètres se rapportant aux activités de cet exploitant d’aéronef entre l’année de surveillance pour laquelle les données relatives aux tonnes-kilomètres ont été communiquées conformément à l’article 19, paragraphe 1er, pour une période visée à l’article 17, et la deuxième année civile de cette période ;
 
-2. l’augmentation en termes absolus exprimée en tonnes-kilomètres se rapportant aux activités de cet exploitant d’aéronef entre l’année de surveillance pour laquelle les données relatives aux tonnes-kilomètres ont été communiquées conformément à l’article 19, paragraphe 1er, pour une période visée à l’article 17, et la deuxième année civile de cette période ;
+  - l’augmentation en termes absolus exprimée en tonnes-kilomètres se rapportant aux activités de cet exploitant d’aéronef entre l’année de surveillance pour laquelle les données relatives aux tonnes-kilomètres ont été communiquées conformément à l’article 19, paragraphe 1er, pour une période visée à l’article 17, et la deuxième année civile de cette période ;
 
-3. la part de l’augmentation en termes absolus exprimée en tonnes-kilomètres se rapportant aux activités de cet exploitant d’aéronef entre l’année de surveillance pour laquelle les données relatives aux tonnes-kilomètres ont été communiquées conformément à l’article 19, paragraphe 1er, pour une période visée à l’article 17, et la deuxième année civile de cette période qui dépasse le pourcentage indiqué au paragraphe 1er, point 2°.
+  - la part de l’augmentation en termes absolus exprimée en tonnes-kilomètres se rapportant aux activités de cet exploitant d’aéronef entre l’année de surveillance pour laquelle les données relatives aux tonnes-kilomètres ont été communiquées conformément à l’article 19, paragraphe 1er, pour une période visée à l’article 17, et la deuxième année civile de cette période qui dépasse le pourcentage indiqué au paragraphe 1er, point 2°.
 
 (4)
 
 Dans les trois mois suivant l’adoption, par la Commission, d’une décision au titre de l’article 3septies, (5) de la directive 2003/87/CE précitée, le ministre charge l’administration du calcul et de la publicité, notamment par voie électronique :
 
-1. de l’allocation de quotas provenant de la réserve spéciale à chaque exploitant d’aéronef dont la demande a été soumise à la Commission. Cette allocation est calculée en multipliant le référentiel visé au paragraphe 5 :
+- de l’allocation de quotas provenant de la réserve spéciale à chaque exploitant d’aéronef dont la demande a été soumise à la Commission. Cette allocation est calculée en multipliant le référentiel visé au paragraphe 5 :
 
-1. dans le cas d’un exploitant d’aéronef relevant du paragraphe 1er, point 1°, par les données relatives aux tonnes-kilomètres consignées dans la demande soumise à la Commission conformément au paragraphe 3, point 2°, et à l’article 3septies, 4) de la directive 2003/87/CE précitée ;
+  - dans le cas d’un exploitant d’aéronef relevant du paragraphe 1er, point 1°, par les données relatives aux tonnes-kilomètres consignées dans la demande soumise à la Commission conformément au paragraphe 3, point 2°, et à l’article 3septies, 4) de la directive 2003/87/CE précitée ;
 
-2. dans le cas d’un exploitant d’aéronef relevant du paragraphe 1er, point 2°, par la part de l’augmentation en termes absolus exprimée en tonnes-kilomètres qui dépasse le pourcentage indiqué au paragraphe 1er, point 2°, consignée dans la demande soumise à la Commission conformément au paragraphe 3, point 3°, iii), et à l’article 3septies, 4) de la directive 2003/87/CE précitée ; et
+  - dans le cas d’un exploitant d’aéronef relevant du paragraphe 1er, point 2°, par la part de l’augmentation en termes absolus exprimée en tonnes-kilomètres qui dépasse le pourcentage indiqué au paragraphe 1er, point 2°, consignée dans la demande soumise à la Commission conformément au paragraphe 3, point 3°, iii), et à l’article 3septies, 4) de la directive 2003/87/CE précitée ; et
 
-2. de l’allocation de quotas à chaque exploitant d’aéronefs pour chaque année, qui est déterminée en divisant l’allocation de quotas au titre du point 1° par le nombre d’années civiles complètes restantes pour la période visée à l’article 17 à laquelle l’allocation se rapporte.
+- de l’allocation de quotas à chaque exploitant d’aéronefs pour chaque année, qui est déterminée en divisant l’allocation de quotas au titre du point 1° par le nombre d’années civiles complètes restantes pour la période visée à l’article 17 à laquelle l’allocation se rapporte.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -1030,13 +1030,13 @@ Chaque exploitant d’aéronef soumet à l’administration un programme énonç
 
 L’État membre d’un exploitant d’aéronef est :
 
-1. dans le cas d’un exploitant d’aéronef titulaire d’une licence d’exploitation en cours de validité délivrée par un État membre conformément aux dispositions du Règlement (CE) n° 1008/2008 du Parlement européen et du Conseil du 24 septembre 2008 établissant des règles communes pour l’exploitation de services aériens dans la Communauté, l’État membre qui a délivré la licence d’exploitation à l’exploitant d’aéronef en question et
+- dans le cas d’un exploitant d’aéronef titulaire d’une licence d’exploitation en cours de validité délivrée par un État membre conformément aux dispositions du Règlement (CE) n° 1008/2008 du Parlement européen et du Conseil du 24 septembre 2008 établissant des règles communes pour l’exploitation de services aériens dans la Communauté, l’État membre qui a délivré la licence d’exploitation à l’exploitant d’aéronef en question et
 
-2. dans tous les autres cas, l’État membre pour lequel l’estimation des émissions SEQE de l’aviation qui lui sont attribuées liées aux vols effectués par l’exploitant d’aéronef en question pendant l’année de base est la plus élevée.
+- dans tous les autres cas, l’État membre pour lequel l’estimation des émissions SEQE de l’aviation qui lui sont attribuées liées aux vols effectués par l’exploitant d’aéronef en question pendant l’année de base est la plus élevée.
 
 (2)
 
-Lorsque pendant les deux premières années de la période visée à l’article 35 , aucune des émissions SEQE de l’aviation attribuées aux vols effectués par un exploitant d’aéronef relevant du paragraphe 1er, point 2°, n’est attribuée à son État membre responsable, l’exploitant d’aéronef est transféré à un autre État membre responsable pour la période suivante. Le nouvel État membre responsable est l’État membre pour lequel l’estimation des émissions SEQE de l’aviation qui lui sont attribuées liées aux vols effectués par l’exploitant d’aéronef en question pendant les deux premières années de la période précédente est la plus élevée.
+Lorsque pendant les deux premières années de la période visée à l’article 35 , aucune des émissions SEQE de l’aviation attribuées aux vols effectués par un exploitant d’aéronef relevant du paragraphe 1er, point 2° , n’est attribuée à son État membre responsable, l’exploitant d’aéronef est transféré à un autre État membre responsable pour la période suivante. Le nouvel État membre responsable est l’État membre pour lequel l’estimation des émissions SEQE de l’aviation qui lui sont attribuées liées aux vols effectués par l’exploitant d’aéronef en question pendant les deux premières années de la période précédente est la plus élevée.
 
 (3)
 
@@ -1058,11 +1058,11 @@ Introduction progressive des exigences applicables
 
 Les compagnies maritimes sont tenues de restituer des quotas selon le calendrier suivant :
 
-1. 40 pour cent des émissions SEQE vérifiées déclarées pour 2024 soumises à des exigences en matière de restitution conformément à l’article 34 ;
+- 40 pour cent des émissions SEQE vérifiées déclarées pour 2024 soumises à des exigences en matière de restitution conformément à l’article 34 ;
 
-2. 70 pour cent des émissions SEQE vérifiées déclarées pour 2025 soumises à des exigences en matière de restitution conformément à l’article 34 ;
+- 70 pour cent des émissions SEQE vérifiées déclarées pour 2025 soumises à des exigences en matière de restitution conformément à l’article 34 ;
 
-3. 100 pour cent des émissions SEQE vérifiées déclarées pour 2026 et chaque année par la suite conformément à l’article 34.
+- 100 pour cent des émissions SEQE vérifiées déclarées pour 2026 et chaque année par la suite conformément à l’article 34.
 
 <a id="art-22quater"></a>
 ## Art. 22quater.
@@ -1102,11 +1102,11 @@ Autorité responsable d’une compagnie maritime
 
 L’autorité responsable d’une compagnie maritime est :
 
-1. pour une compagnie maritime immatriculée dans un État membre, l’État membre dans lequel cette compagnie est immatriculée ;
+- pour une compagnie maritime immatriculée dans un État membre, l’État membre dans lequel cette compagnie est immatriculée ;
 
-2. pour une compagnie maritime qui n’est pas immatriculée dans un État membre, l’État membre qui totalise le plus grand nombre estimé d’escales lors des voyages effectués par cette compagnie au cours des quatre années de surveillance précédentes et tombant sous le coup de l’article 22 bis ;
+- pour une compagnie maritime qui n’est pas immatriculée dans un État membre, l’État membre qui totalise le plus grand nombre estimé d’escales lors des voyages effectués par cette compagnie au cours des quatre années de surveillance précédentes et tombant sous le coup de l’article 22 bis ;
 
-3. pour une compagnie maritime qui n’est pas immatriculée dans un État membre et qui n’a effectué aucun voyage relevant du champ d’application défini à l’article 22 bis au cours des quatre années de surveillance précédentes, l’État membre dans lequel un navire de la compagnie maritime a commencé ou terminé son premier voyage relevant du champ d’application défini dans ledit article.
+- pour une compagnie maritime qui n’est pas immatriculée dans un État membre et qui n’a effectué aucun voyage relevant du champ d’application défini à l’article 22 bis au cours des quatre années de surveillance précédentes, l’État membre dans lequel un navire de la compagnie maritime a commencé ou terminé son premier voyage relevant du champ d’application défini dans ledit article.
 
 (2)
 
@@ -1132,13 +1132,13 @@ Demande d’autorisation d’émettre des gaz à effet de serre
 
 Toute demande d’autorisation d’émettre des gaz à effet de serre adressée au ministre comprend une description :
 
-1. de l’installation et de ses activités ainsi que des technologies utilisées;
+- de l’installation et de ses activités ainsi que des technologies utilisées;
 
-2. des matières premières et auxiliaires dont l’emploi est susceptible d’entraîner des émissions SEQE des gaz énumérés à l’annexe II de la directive 2003/87/CE précitée telle que modifiée par les actes délégués de la Commission européenne pris en conformité des articles 22 et 23 de cette directive ;
+- des matières premières et auxiliaires dont l’emploi est susceptible d’entraîner des émissions SEQE des gaz énumérés à l’annexe II de la directive 2003/87/CE précitée telle que modifiée par les actes délégués de la Commission européenne pris en conformité des articles 22 et 23 de cette directive ;
 
-3. des sources d’émission des gaz énumérés à l’annexe II de la directive 2003/87/CE précitée telle que modifiée par les actes délégués de la Commission européenne pris en conformité des articles 22 et 23 de cette directive de l’installation ;
+- des sources d’émission des gaz énumérés à l’annexe II de la directive 2003/87/CE précitée telle que modifiée par les actes délégués de la Commission européenne pris en conformité des articles 22 et 23 de cette directive de l’installation ;
 
-4. des mesures prévues pour surveiller et déclarer les émissions SEQE conformément au règlement (UE) 2018/2066 précité. La demande comprend également un résumé non technique des informations visées à l’alinéa 1 er .
+- des mesures prévues pour surveiller et déclarer les émissions SEQE conformément au règlement (UE) 2018/2066 précité. La demande comprend également un résumé non technique des informations visées à l’alinéa 1 er .
 
 (2)
 
@@ -1159,15 +1159,15 @@ Une autorisation d’émettre des gaz à effet de serre peut couvrir une ou plus
 
 L’autorisation d’émettre des gaz à effet de serre contient les éléments suivants :
 
-1. le nom et l’adresse de l’exploitant ;
+- le nom et l’adresse de l’exploitant ;
 
-2. une description des activités et des émissions SEQE de l’installation ;
+- une description des activités et des émissions SEQE de l’installation ;
 
-3. un programme de surveillance qui répond aux exigences du règlement d’exécution (UE) 2018/2066 précité. Le ministre peut autoriser l’actualisation des programmes de surveillance des exploitants sans modifier leur autorisation. Les exploitants soumettent tout programme de surveillance actualisé au ministre pour approbation ;
+- un programme de surveillance qui répond aux exigences du règlement d’exécution (UE) 2018/2066 précité. Le ministre peut autoriser l’actualisation des programmes de surveillance des exploitants sans modifier leur autorisation. Les exploitants soumettent tout programme de surveillance actualisé au ministre pour approbation ;
 
-4. les exigences en matière de déclaration ;
+- les exigences en matière de déclaration ;
 
-5. l’obligation de restituer, dans le délai fixé à l’article 34, paragraphe 4 , des quotas correspondant aux émissions SEQE totales de l’installation au cours de l’année civile écoulée, telles qu’elles ont été vérifiées conformément à l’article 37.
+- l’obligation de restituer, dans le délai fixé à l’article 34, paragraphe 4 , des quotas correspondant aux émissions SEQE totales de l’installation au cours de l’année civile écoulée, telles qu’elles ont été vérifiées conformément à l’article 37.
 
 (3)
 
@@ -1225,29 +1225,29 @@ Les recettes de la mise aux enchères sont portées directement en recette au fo
 
 Un pourcentage minimal de 50 pour cent des recettes tirées de la mise aux enchères des quotas visés au paragraphe 2, y compris l’intégralité des recettes des enchères visées à l’article 10, paragraphe 2, lettre b), de la directive 2003/87/CE précitée ou l’équivalent en valeur financière de ces recettes, sera utilisé pour une ou plusieurs des fins suivantes :
 
-1. réduction des émissions SEQE de gaz à effet de serre, notamment en contribuant au Fonds mondial pour la promotion de l’efficacité énergétique et des énergies renouvelables et au Fonds d’adaptation rendu opérationnel par la conférence sur le changement climatique de Poznan (COP 14 et COP/MOP 4), adaptation aux conséquences du changement climatique et financement d’activités de recherche et de développement ainsi que de projets de démonstration en vue de la réduction des émissions SEQE et de l’adaptation au changement climatique, y compris la participation à des initiatives s’inscrivant dans le cadre du plan stratégique européen pour les technologies énergétiques et des plates-formes technologiques européennes ;
+- réduction des émissions SEQE de gaz à effet de serre, notamment en contribuant au Fonds mondial pour la promotion de l’efficacité énergétique et des énergies renouvelables et au Fonds d’adaptation rendu opérationnel par la conférence sur le changement climatique de Poznan (COP 14 et COP/MOP 4), adaptation aux conséquences du changement climatique et financement d’activités de recherche et de développement ainsi que de projets de démonstration en vue de la réduction des émissions SEQE et de l’adaptation au changement climatique, y compris la participation à des initiatives s’inscrivant dans le cadre du plan stratégique européen pour les technologies énergétiques et des plates-formes technologiques européennes ;
 
-2. développement des énergies renouvelables pour respecter l’engagement de l’Union en matière d’énergies renouvelables, ainsi que développement d’autres technologies qui contribuent à la transition vers une économie sobre en carbone sûre et durable, et contribution au respect de l’engagement de l’Union d’augmenter son efficacité énergétique pour l’amener aux niveaux convenus dans des actes législatifs pertinents ;
+- développement des énergies renouvelables pour respecter l’engagement de l’Union en matière d’énergies renouvelables, ainsi que développement d’autres technologies qui contribuent à la transition vers une économie sobre en carbone sûre et durable, et contribution au respect de l’engagement de l’Union d’augmenter son efficacité énergétique pour l’amener aux niveaux convenus dans des actes législatifs pertinents ;
 
-3. mesures destinées à éviter le déboisement et à accroître le boisement au Luxembourg et le boisement dans les pays en développement ayant ratifié l’accord international ;
+- mesures destinées à éviter le déboisement et à accroître le boisement au Luxembourg et le boisement dans les pays en développement ayant ratifié l’accord international ;
 
-4. transfert de technologies et facilitation de l’adaptation aux effets néfastes du changement climatique dans ces pays ;
+- transfert de technologies et facilitation de l’adaptation aux effets néfastes du changement climatique dans ces pays ;
 
-5. piégeage par la sylviculture dans l’UE ;
+- piégeage par la sylviculture dans l’UE ;
 
-6. captage et stockage géologique, dans des conditions de sécurité pour environnement, du CO 2 , en particulier en provenance des centrales à combustibles fossiles solides et d’une gamme de secteurs et de sous-secteurs industriels, y compris dans les pays tiers ;
+- captage et stockage géologique, dans des conditions de sécurité pour environnement, du CO 2 , en particulier en provenance des centrales à combustibles fossiles solides et d’une gamme de secteurs et de sous-secteurs industriels, y compris dans les pays tiers ;
 
-7. incitation à adopter des moyens de transport à faible émission et les transports publics ;
+- incitation à adopter des moyens de transport à faible émission et les transports publics ;
 
-8. financement des activités de recherche et de développement en matière d’efficacité énergétique et de technologies propres dans les secteurs couverts par la présente loi ;
+- financement des activités de recherche et de développement en matière d’efficacité énergétique et de technologies propres dans les secteurs couverts par la présente loi ;
 
-9. mesures destinées à améliorer l’efficacité énergétique, les systèmes de chauffage urbain et l’isolation ou à fournir un soutien financier afin de prendre en considération les aspects sociaux en ce qui concerne les ménages à revenus faibles et moyens ;
+- mesures destinées à améliorer l’efficacité énergétique, les systèmes de chauffage urbain et l’isolation ou à fournir un soutien financier afin de prendre en considération les aspects sociaux en ce qui concerne les ménages à revenus faibles et moyens ;
 
-10. couverture des frais administratifs liés à la gestion du SEQE de l’UE ;
+- couverture des frais administratifs liés à la gestion du SEQE de l’UE ;
 
-11. financement des actions climatiques dans les pays tiers vulnérables, notamment pour l’adaptation aux conséquences du changement climatique ;
+- financement des actions climatiques dans les pays tiers vulnérables, notamment pour l’adaptation aux conséquences du changement climatique ;
 
-12. promotion de l’acquisition de compétences et de la réaffectation de la main-d’œuvre afin de contribuer à une transition juste vers une économie sobre en carbone, en particulier dans les régions les plus concernées par la transition professionnelle, en étroite collaboration avec les partenaires sociaux.
+- promotion de l’acquisition de compétences et de la réaffectation de la main-d’œuvre afin de contribuer à une transition juste vers une économie sobre en carbone, en particulier dans les régions les plus concernées par la transition professionnelle, en étroite collaboration avec les partenaires sociaux.
 
 <a id="art-30"></a>
 ## Art. 30.
@@ -1264,11 +1264,11 @@ Si une installation est concernée par l’obligation d’effectuer un audit én
 
 Outre les exigences énoncées à l’alinéa 1er, la réduction de 20 pour cent visée audit alinéa s’applique lorsque, au 1er mai 2024, les exploitants d’installations dont les niveaux d’émission de gaz à effet de serre sont supérieurs au 80e percentile des niveaux d’émission pour les référentiels de produits concernés n’ont pas établi de plan de neutralité climatique pour chacune de ces installations pour leurs activités couvertes par la présente loi. Ce plan est établi conformément aux actes d’exécution de la Commission européenne prévus à l’article 10ter, paragraphe 4, de la directive 2003/87/CE précitée et contient les éléments suivants :
 
-1. des mesures et des investissements visant à atteindre la neutralité climatique d’ici à 2050 au niveau de l’installation, à l’exclusion de l’utilisation de crédits de compensation carbone ;
+- des mesures et des investissements visant à atteindre la neutralité climatique d’ici à 2050 au niveau de l’installation, à l’exclusion de l’utilisation de crédits de compensation carbone ;
 
-2. des valeurs cibles et des jalons intermédiaires permettant de mesurer, avant le 31 décembre 2025 au plus tard, puis au 31 décembre de chaque cinquième année, les progrès accomplis en vue de parvenir à la neutralité climatique conformément au point 1° ;
+- des valeurs cibles et des jalons intermédiaires permettant de mesurer, avant le 31 décembre 2025 au plus tard, puis au 31 décembre de chaque cinquième année, les progrès accomplis en vue de parvenir à la neutralité climatique conformément au point 1° ;
 
-3. une estimation de l’incidence de chacune des mesures et des investissements visés au point 1° en ce qui concerne la réduction des émissions de gaz à effet de serre. La réalisation des valeurs cibles et des jalons visés à l’alinéa 2, point 2°, est vérifiée pour la période allant jusqu’au 31 décembre 2025, puis pour chaque période allant jusqu’au 31 décembre de chaque cinquième année, conformément aux procédures de vérification et d’accréditation prévues à l’article 37. Aucun quota n’est alloué à titre gratuit au-delà de 80 pour cent si la réalisation des valeurs cibles et des jalons intermédiaires n’a pas été vérifiée pour la période allant jusqu’à la fin de 2025 ou pour la période allant de 2026 à 2030.
+- une estimation de l’incidence de chacune des mesures et des investissements visés au point 1° en ce qui concerne la réduction des émissions de gaz à effet de serre. La réalisation des valeurs cibles et des jalons visés à l’alinéa 2, point 2°, est vérifiée pour la période allant jusqu’au 31 décembre 2025, puis pour chaque période allant jusqu’au 31 décembre de chaque cinquième année, conformément aux procédures de vérification et d’accréditation prévues à l’article 37. Aucun quota n’est alloué à titre gratuit au-delà de 80 pour cent si la réalisation des valeurs cibles et des jalons intermédiaires n’a pas été vérifiée pour la période allant jusqu’à la fin de 2025 ou pour la période allant de 2026 à 2030.
 
 (1ter)
 
@@ -1300,9 +1300,9 @@ Par dérogation au paragraphe 4, une quantité supplémentaire s’élevant, au 
 
 Lorsque moins de 3 pour cent de la quantité totale des quotas sont nécessaires pour augmenter la quantité maximale disponible au titre du paragraphe 4 :
 
-1. 50 millions de quotas au maximum sont utilisés pour augmenter la quantité de quotas disponibles pour soutenir l’innovation conformément à l’article 10 bis , paragraphe 8 de la directive 2003/87/CE précitée ;
+- 50 millions de quotas au maximum sont utilisés pour augmenter la quantité de quotas disponibles pour soutenir l’innovation conformément à l’article 10 bis , paragraphe 8 de la directive 2003/87/CE précitée ;
 
-2. 0,5 pour cent au maximum de la quantité totale de quotas est utilisé pour augmenter la quantité de quotas disponibles afin de moderniser les systèmes énergétiques de certains États membres conformément à l’article 10 quinquies de la directive 2003/87/CE précitée.
+- 0,5 pour cent au maximum de la quantité totale de quotas est utilisé pour augmenter la quantité de quotas disponibles afin de moderniser les systèmes énergétiques de certains États membres conformément à l’article 10 quinquies de la directive 2003/87/CE précitée.
 
 (7)
 
@@ -1374,9 +1374,9 @@ Transfert, restitution, suspension, annulation et réclamation de quotas
 
 Les quotas peuvent être transférés entre :
 
-1. personnes dans l’Union européenne ;
+- personnes dans l’Union européenne ;
 
-2. personnes dans l’Union européenne et personnes dans des pays tiers où ces quotas sont reconnus mutuellement en application d’accords conclus entre l’Union européenne et lesdits pays, sans restrictions autres que celles contenues dans la présente loi ou adoptées en application de celle-ci.
+- personnes dans l’Union européenne et personnes dans des pays tiers où ces quotas sont reconnus mutuellement en application d’accords conclus entre l’Union européenne et lesdits pays, sans restrictions autres que celles contenues dans la présente loi ou adoptées en application de celle-ci.
 
 (2)
 
@@ -1390,11 +1390,11 @@ Le ministre s’assure que, au plus tard le 30 avril de chaque année, chaque ex
 
 Le 30 septembre de chaque année au plus tard :
 
-1. tout exploitant d’une installation restitue au sein du registre un nombre de quotas correspondant aux émissions SEQE totales de cette installation au cours de l’année civile précédente, telles qu’elles ont été vérifiées conformément à l’article 37 ;
+- tout exploitant d’une installation restitue au sein du registre un nombre de quotas correspondant aux émissions SEQE totales de cette installation au cours de l’année civile précédente, telles qu’elles ont été vérifiées conformément à l’article 37 ;
 
-2. tout exploitant d’aéronef restitue au sein du registre un nombre de quotas correspondant à ses émissions SEQE totales au cours de l’année civile précédente, telles qu’elles ont été vérifiées conformément à l’article 37 ;
+- tout exploitant d’aéronef restitue au sein du registre un nombre de quotas correspondant à ses émissions SEQE totales au cours de l’année civile précédente, telles qu’elles ont été vérifiées conformément à l’article 37 ;
 
-3. toute compagnie maritime restitue au sein du registre un nombre de quotas correspondant à ses émissions SEQE totales au cours de l’année civile précédente, telles qu’elles ont été vérifiées conformément à l’article 22 sexies .
+- toute compagnie maritime restitue au sein du registre un nombre de quotas correspondant à ses émissions SEQE totales au cours de l’année civile précédente, telles qu’elles ont été vérifiées conformément à l’article 22 sexies .
 
 Le ministre annule ensuite les quotas restitués conformément à l’alinéa 1er.
 
@@ -1446,23 +1446,23 @@ L’administration calcule également les exigences de compensation totales fina
 
 L’administration communique le niveau de compensation aux exploitants d’aéronefs qui remplissent l’ensemble des conditions suivantes :
 
-1. les exploitants d’aéronef sont titulaires d’un certificat de transporteur aérien délivré par un État membre ou sont enregistrés dans un État membre, y compris dans les régions ultrapériphériques, les dépendances et les territoires de cet État membre ;
+- les exploitants d’aéronef sont titulaires d’un certificat de transporteur aérien délivré par un État membre ou sont enregistrés dans un État membre, y compris dans les régions ultrapériphériques, les dépendances et les territoires de cet État membre ;
 
-2. ils produisent des émissions annuelles de CO 2 supérieures à 10 000 tonnes, qui proviennent de l’utilisation d’avions ayant une masse maximale certifiée au décollage supérieure à 5 700 kg et effectuant des vols relevant de l’annexe I, autres que ceux au départ et à l’arrivée dans le même État membre, y compris les régions ultrapériphériques du même État membre, à partir du 1 er janvier 2021.
+- ils produisent des émissions annuelles de CO 2 supérieures à 10 000 tonnes, qui proviennent de l’utilisation d’avions ayant une masse maximale certifiée au décollage supérieure à 5 700 kg et effectuant des vols relevant de l’annexe I, autres que ceux au départ et à l’arrivée dans le même État membre, y compris les régions ultrapériphériques du même État membre, à partir du 1 er janvier 2021.
 
 Aux fins de l’alinéa 3, point 2°, les émissions de CO2 des types de vols suivants ne sont pas prises en compte :
 
-1. vols d’État ;
+- vols d’État ;
 
-2. vols humanitaires ;
+- vols humanitaires ;
 
-3. vols médicaux ;
+- vols médicaux ;
 
-4. vols militaires ;
+- vols militaires ;
 
-5. vols de lutte contre le feu ;
+- vols de lutte contre le feu ;
 
-6. vols précédant ou suivant un vol humanitaire, médical ou de lutte contre le feu, à condition que lesdits vols aient été effectués avec le même aéronef et aient été nécessaires à l’accomplissement des activités humanitaires, médicales ou de lutte contre le feu correspondantes ou au repositionnement de l’aéronef après ces activités en vue de sa prochaine activité.
+- vols précédant ou suivant un vol humanitaire, médical ou de lutte contre le feu, à condition que lesdits vols aient été effectués avec le même aéronef et aient été nécessaires à l’accomplissement des activités humanitaires, médicales ou de lutte contre le feu correspondantes ou au repositionnement de l’aéronef après ces activités en vue de sa prochaine activité.
 
 (7ter)
 
@@ -1497,9 +1497,9 @@ Dérogations applicables avant la mise en œuvre obligatoire du mécanisme de ma
 
 Par dérogation à l’article 34, paragraphe 4, point 2°, l’article 36, paragraphe 1er, l’article 42 et l’article 43, le ministre considère que les exigences énoncées dans lesdites dispositions sont satisfaites et ne prend aucune mesure à l’encontre des exploitants d’aéronefs en ce qui concerne :
 
-1. toutes les émissions SEQE de vols à destination et en provenance d’aérodromes situés dans des États en dehors de l’EEE, à l’exception des vols à destination d’aérodromes situés au Royaume-Uni ou en Suisse, pour chaque année civile du 1 er janvier 2021 au 31 décembre 2026, sous réserve du réexamen visé à l’article 28 ter de la directive 2003/87/CE précitée ;
+- toutes les émissions SEQE de vols à destination et en provenance d’aérodromes situés dans des États en dehors de l’EEE, à l’exception des vols à destination d’aérodromes situés au Royaume-Uni ou en Suisse, pour chaque année civile du 1 er janvier 2021 au 31 décembre 2026, sous réserve du réexamen visé à l’article 28 ter de la directive 2003/87/CE précitée ;
 
-2. toutes les émissions SEQE de vols reliant un aérodrome situé dans une région ultrapériphérique au sens de l’article 349 du traité sur le fonctionnement de l’Union européenne et un aérodrome situé dans une autre région de l’EEE, pour chaque année civile du 1 er janvier 2013 au 31 décembre 2023, sous réserve du réexamen visé à l’article 28 ter de la directive 2003/87/CE précitée.
+- toutes les émissions SEQE de vols reliant un aérodrome situé dans une région ultrapériphérique au sens de l’article 349 du traité sur le fonctionnement de l’Union européenne et un aérodrome situé dans une autre région de l’EEE, pour chaque année civile du 1 er janvier 2013 au 31 décembre 2023, sous réserve du réexamen visé à l’article 28 ter de la directive 2003/87/CE précitée.
 
 Aux fins des articles 34 et 36 et de l’article 11 bis de la directive 2003/87/CE précitée, les émissions SEQE vérifiées résultant de vols autres que ceux visés à l’alinéa 1er sont considérées comme les émissions SEQE vérifiées de l’exploitant d’aéronef.
 
@@ -1547,11 +1547,11 @@ Pour la publication de la Commission européenne visée à l’article 14, parag
 
 Jusqu’au 31 décembre 2023, les combustibles solides et gazeux, produits à partir de la biomasse et utilisés pour la production d’énergie, pour lesquels il n’est pas possible d’obtenir une preuve au sens de l’article 14 du règlement grand-ducal du 3 février 2023 fixant les critères de durabilité et de réduction des émissions de gaz à effet de serre pour les biocarburants, les bioliquides et les combustibles issus de la biomasse, sont présumés conformes aux critères de durabilité et de réduction des émissions de gaz à effet de serre visés à l’article 38, paragraphe 5, du règlement d’exécution (UE) 2018/2066 de la Commission du 19 décembre 2018 relatif à la surveillance et à la déclaration des émissions de gaz à effet de serre au titre de la directive 2003/87/CE du Parlement européen et du Conseil et modifiant le règlement (UE) n°601/2012 de la Commission, tel que modifié, si pour les combustibles concernés, l’exploitant d’installation joint à sa déclaration tous les éléments de preuve :
 
-1. démontrant qu’il a tout mis en œuvre pour obtenir ou émettre au plus vite les preuves nécessaires et les raisons pour lesquelles il n’a pas été raisonnablement possible de les obtenir ;
+- démontrant qu’il a tout mis en œuvre pour obtenir ou émettre au plus vite les preuves nécessaires et les raisons pour lesquelles il n’a pas été raisonnablement possible de les obtenir ;
 
-2. démontrant les raisons pour lesquelles il n’a pas pu développer d’alternatives raisonnables pour accéder à d’autres sources de biomasse pour lesquelles une preuve aurait pu être obtenue ;
+- démontrant les raisons pour lesquelles il n’a pas pu développer d’alternatives raisonnables pour accéder à d’autres sources de biomasse pour lesquelles une preuve aurait pu être obtenue ;
 
-3. démontrant dans quelle mesure la biomasse concernée offre des caractéristiques qui lui permettent de répondre aux critères de durabilité et de réduction des émissions de gaz à effet de serre, en fournissant également le bilan massique.
+- démontrant dans quelle mesure la biomasse concernée offre des caractéristiques qui lui permettent de répondre aux critères de durabilité et de réduction des émissions de gaz à effet de serre, en fournissant également le bilan massique.
 
 <a id="art-37"></a>
 ## Art. 37.
@@ -1634,17 +1634,17 @@ L’administration est l’administrateur national chargé de gérer une série 
 
 L’administration peut exiger que les exploitants, les exploitants d’aéronefs et les vérificateurs utilisent des modèles électroniques ou des formats de fichiers spécifiques pour soumettre :
 
-1. les demandes en vue d’une allocation à titre gratuit ;
+- les demandes en vue d’une allocation à titre gratuit ;
 
-2. la déclaration visée à l’article 26, paragraphes 1 et 2 ;
+- la déclaration visée à l’article 26, paragraphes 1 et 2 ;
 
-3. les déclarations relatives aux données de référence, les plans méthodologiques de surveillance et les rapports de vérification visés à l’article 4, paragraphe 2 du règlement délégué (UE) 2019/331 de la Commission du 19 décembre 2018 définissant des règles transitoires pour l’ensemble de l’Union concernant l’allocation harmonisée de quotas d’émission à titre gratuit conformément à l’article 10 bis de la directive 2003/87/CE du Parlement européen et du Conseil ;
+- les déclarations relatives aux données de référence, les plans méthodologiques de surveillance et les rapports de vérification visés à l’article 4, paragraphe 2 du règlement délégué (UE) 2019/331 de la Commission du 19 décembre 2018 définissant des règles transitoires pour l’ensemble de l’Union concernant l’allocation harmonisée de quotas d’émission à titre gratuit conformément à l’article 10 bis de la directive 2003/87/CE du Parlement européen et du Conseil ;
 
-4. les déclarations des données de nouveaux entrants, les plans méthodologiques de surveillance et les rapports de vérification visés à l’article 5, paragraphe 2, du règlement délégué (UE) 2019/331 précité ;
+- les déclarations des données de nouveaux entrants, les plans méthodologiques de surveillance et les rapports de vérification visés à l’article 5, paragraphe 2, du règlement délégué (UE) 2019/331 précité ;
 
-5. les plans de surveillance et les corrections apportées à ces plans, ainsi que la remise des déclarations annuelles d’émissions SEQE et de données relatives aux tonnes-kilomètres, les rapports de vérification et les rapports relatifs aux améliorations apportées dont question au règlement d’exécution (UE) 2018/2066 précité, sous réserve de l’article 3, paragraphe 3, alinéa 3 du règlement d’exécution (UE) 2019/1842 précité ;
+- les plans de surveillance et les corrections apportées à ces plans, ainsi que la remise des déclarations annuelles d’émissions SEQE et de données relatives aux tonnes-kilomètres, les rapports de vérification et les rapports relatifs aux améliorations apportées dont question au règlement d’exécution (UE) 2018/2066 précité, sous réserve de l’article 3, paragraphe 3, alinéa 3 du règlement d’exécution (UE) 2019/1842 précité ;
 
-6. Les rapports de vérification visés par le règlement d’exécution (UE) 2018/2067 précité.
+- Les rapports de vérification visés par le règlement d’exécution (UE) 2018/2067 précité.
 
 ##### Section 4bis. Système d’échange de quotas d’émission pour les bâtiments, le transport routier et d’autres secteurs
 
@@ -1668,15 +1668,15 @@ Autorisations d’émettre des gaz à effet de serre
 
 Une demande d’autorisation d’émettre des gaz à effet de serre adressée conformément au paragraphe 1er au ministre par l’entité réglementée au titre de la présente section comprend une description :
 
-1. de l’entité réglementée ;
+- de l’entité réglementée ;
 
-2. du type de carburants qu’elle met à la consommation et qui sont utilisés pour la combustion dans les secteurs visés à l’annexe III, ainsi que les moyens par lesquels elle met ces carburants à la consommation ;
+- du type de carburants qu’elle met à la consommation et qui sont utilisés pour la combustion dans les secteurs visés à l’annexe III, ainsi que les moyens par lesquels elle met ces carburants à la consommation ;
 
-3. de la ou des utilisations finales des carburants mis à la consommation aux fins de l’activité visée à l’annexe III ;
+- de la ou des utilisations finales des carburants mis à la consommation aux fins de l’activité visée à l’annexe III ;
 
-4. des mesures prévues pour surveiller et déclarer les émissions SEQE, conformément aux actes d’exécution de la Commission européenne visés aux articles 14 et 30 septies de la directive 2003/87/CE précitée ;
+- des mesures prévues pour surveiller et déclarer les émissions SEQE, conformément aux actes d’exécution de la Commission européenne visés aux articles 14 et 30 septies de la directive 2003/87/CE précitée ;
 
-5. un résumé non technique des informations visées aux points 1° à 4°.
+- un résumé non technique des informations visées aux points 1° à 4°.
 
 (3)
 
@@ -1686,17 +1686,17 @@ Le ministre délivre une autorisation d’émettre des gaz à effet de serre à 
 
 L’autorisation d’émettre des gaz à effet de serre contient les éléments suivants :
 
-1. le nom et l’adresse de l’entité réglementée ;
+- le nom et l’adresse de l’entité réglementée ;
 
-2. une description des moyens par lesquels l’entité réglementée met les carburants à la consommation dans les secteurs régis par la présente section ;
+- une description des moyens par lesquels l’entité réglementée met les carburants à la consommation dans les secteurs régis par la présente section ;
 
-3. une liste des carburants mis à la consommation par l’entité réglementée dans les secteurs régis par la présente section ;
+- une liste des carburants mis à la consommation par l’entité réglementée dans les secteurs régis par la présente section ;
 
-4. un programme de surveillance conforme aux exigences prévues par les actes d’exécution de la Commission européenne visés à l’article 14 de la directive 2003/87/CE précitée ;
+- un programme de surveillance conforme aux exigences prévues par les actes d’exécution de la Commission européenne visés à l’article 14 de la directive 2003/87/CE précitée ;
 
-5. les exigences en matière de déclaration prévues par les actes d’exécution de la Commission européenne visés à l’article 14 de la directive 2003/87/CE précitée ;
+- les exigences en matière de déclaration prévues par les actes d’exécution de la Commission européenne visés à l’article 14 de la directive 2003/87/CE précitée ;
 
-6. l’obligation de restituer les quotas délivrés au titre de la présente section correspondant aux émissions SEQE totales de cette année, vérifiées conformément à l’article 37, jusqu’au 31 mai de l’année suivante.
+- l’obligation de restituer les quotas délivrés au titre de la présente section correspondant aux émissions SEQE totales de cette année, vérifiées conformément à l’article 37, jusqu’au 31 mai de l’année suivante.
 
 (5)
 
@@ -1715,15 +1715,15 @@ Demande d’autorisation d’émettre des gaz à effet de serre
 
 Toute demande d’autorisation d’émettre des gaz à effet de serre adressée au ministre par l’entité réglementée au titre de la présente section comprend une description :
 
-1. de l’entité réglementée ;
+- de l’entité réglementée ;
 
-2. du type de carburants qu’elle met à la consommation et qui sont utilisés pour la combustion dans les secteurs visés à l’annexe III, ainsi que les moyens par lesquels elle met ces carburants à la consommation ;
+- du type de carburants qu’elle met à la consommation et qui sont utilisés pour la combustion dans les secteurs visés à l’annexe III, ainsi que les moyens par lesquels elle met ces carburants à la consommation ;
 
-3. des utilisations finales des carburants mis à la consommation aux fins de l’activité visée à l’annexe III ;
+- des utilisations finales des carburants mis à la consommation aux fins de l’activité visée à l’annexe III ;
 
-4. des mesures prévues pour surveiller et déclarer les émissions SEQE, conformément aux actes d’exécution de la Commission européenne visés aux articles 14 et 30 septies de la directive 2003/87/CE précitée ;
+- des mesures prévues pour surveiller et déclarer les émissions SEQE, conformément aux actes d’exécution de la Commission européenne visés aux articles 14 et 30 septies de la directive 2003/87/CE précitée ;
 
-5. un résumé non technique des informations visées aux points 1° à 4°.
+- un résumé non technique des informations visées aux points 1° à 4°.
 
 Les entités réglementées soumettent leur demande d’autorisation au ministre au plus tard le 31 octobre 2024 ou au moins deux mois avant le début de l’exercice des activités visées à l’annexe III.
 
@@ -1740,17 +1740,17 @@ Le ministre délivre une autorisation d’émettre des gaz à effet de serre à 
 
 L’autorisation d’émettre des gaz à effet de serre contient les éléments suivants :
 
-1. le nom et l’adresse de l’entité réglementée ;
+- le nom et l’adresse de l’entité réglementée ;
 
-2. une description des moyens par lesquels l’entité réglementée met les carburants à la consommation dans les secteurs régis par la présente section ;
+- une description des moyens par lesquels l’entité réglementée met les carburants à la consommation dans les secteurs régis par la présente section ;
 
-3. une liste des carburants mis à la consommation par l’entité réglementée dans les secteurs régis par la présente section ;
+- une liste des carburants mis à la consommation par l’entité réglementée dans les secteurs régis par la présente section ;
 
-4. un programme de surveillance conforme aux exigences prévues par les actes d’exécution de la Commission européenne visés à l’article 14 de la directive 2003/87/CE précitée ;
+- un programme de surveillance conforme aux exigences prévues par les actes d’exécution de la Commission européenne visés à l’article 14 de la directive 2003/87/CE précitée ;
 
-5. les exigences en matière de déclaration prévues par les actes d’exécution de la Commission européenne visés à l’article 14 de la directive 2003/87/CE précitée ;
+- les exigences en matière de déclaration prévues par les actes d’exécution de la Commission européenne visés à l’article 14 de la directive 2003/87/CE précitée ;
 
-6. l’obligation de restituer les quotas délivrés au titre de la présente section correspondant aux émissions SEQE totales de cette année, vérifiées conformément à l’article 41 decies , jusqu’au 31 mai de l’année suivante.
+- l’obligation de restituer les quotas délivrés au titre de la présente section correspondant aux émissions SEQE totales de cette année, vérifiées conformément à l’article 41 decies , jusqu’au 31 mai de l’année suivante.
 
 (3)
 
@@ -1776,9 +1776,9 @@ Transfert et reconnaissance de quotas
 
 Les quotas relevant de la présente section peuvent être transférés entre :
 
-1. personnes dans l’Union européenne ;
+- personnes dans l’Union européenne ;
 
-2. personnes dans l’Union européenne et personnes dans des pays tiers où ces quotas sont reconnus mutuellement en application d’accords conclus entre l’Union européenne et lesdits pays, sans restrictions autres que celles contenues dans la présente loi ou adoptées en application de celle-ci.
+- personnes dans l’Union européenne et personnes dans des pays tiers où ces quotas sont reconnus mutuellement en application d’accords conclus entre l’Union européenne et lesdits pays, sans restrictions autres que celles contenues dans la présente loi ou adoptées en application de celle-ci.
 
 (2)
 
@@ -1854,13 +1854,13 @@ Références
 
 Les articles 35, 38, 39, 40 et 41 s’appliquent aux émissions SEQE, aux entités réglementées et aux quotas couverts par la présente section. À cette fin :
 
-1. toute référence aux émissions SEQE est lue comme une référence aux émissions SEQE relevant de la présente section ;
+- toute référence aux émissions SEQE est lue comme une référence aux émissions SEQE relevant de la présente section ;
 
-2. toute référence aux exploitants est lue comme une référence aux entités réglementées relevant de la présente section ;
+- toute référence aux exploitants est lue comme une référence aux entités réglementées relevant de la présente section ;
 
-3. toute référence aux quotas est lue comme une référence aux quotas relevant de la présente section ;
+- toute référence aux quotas est lue comme une référence aux quotas relevant de la présente section ;
 
-4. la référence à l’article 26, paragraphes 1 er et 2, figurant à l’article 41, paragraphe 2, point 2°, est lue comme une référence à l’article 41 sexies .
+- la référence à l’article 26, paragraphes 1 er et 2, figurant à l’article 41, paragraphe 2, point 2°, est lue comme une référence à l’article 41 sexies .
 
 #### Chapitre 5 Dispositions diverses
 
@@ -1901,7 +1901,7 @@ Le paiement de l’amende ne libère pas l’exploitant, l’exploitant d’aér
 
 Si les obligations ne sont pas respectées malgré l’amende prononcée, l’exploitant, l’exploitant d’aéronefs, la compagnie maritime ou l’entité réglementée s’expose aux mesures administratives prévues à l’article 43.
 
-Les amendes sont perçues par l’Administration de l’enregistrement, des domaines et de la TVA. Le recouvrement se fait comme en matière de droits d’enregistrement. Les amendes sont portées directement en recette au fonds dont question au chapitre III.
+Les amendes sont perçues par l’Administration de l’enregistrement, des domaines et de la TVA . Le recouvrement se fait comme en matière de droits d’enregistrement. Les amendes sont portées directement en recette au fonds dont question au chapitre III.
 
 (6)
 
@@ -1916,9 +1916,9 @@ Mesures administratives
 
 En cas de non-respect des dispositions des articles 21, 23, 24, paragraphe 2, 25, paragraphe 3, 26, 30, paragraphe 11, 34, 36, 37, 40, paragraphe 3, 41ter, 41quater, paragraphe 2, 41quinquies, paragraphe 3, 41sexies, 41septies, 41octies, 41nonies et 41decies, le ministre peut, selon le cas :
 
-1. impartir à l’exploitant, à l’exploitant d’un aéronef, à la compagnie maritime ou à l’entité réglementée un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans ;
+- impartir à l’exploitant, à l’exploitant d’un aéronef, à la compagnie maritime ou à l’entité réglementée un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans ;
 
-2. faire suspendre, en tout ou en partie, l’exploitation d’une installation, d’une activité aérienne ou de l’activité d’une entité réglementée par mesure provisoire ou faire fermer l’installation ou l’entrepôt, en tout ou en partie et apposer des scellés.
+- faire suspendre, en tout ou en partie, l’exploitation d’une installation, d’une activité aérienne ou de l’activité d’une entité réglementée par mesure provisoire ou faire fermer l’installation ou l’entrepôt, en tout ou en partie et apposer des scellés.
 
 Tout intéressé peut demander l’application des mesures visées à l’alinéa 1er.
 
@@ -1934,13 +1934,13 @@ Si le ministre constate qu’un exploitant d’aéronef ne se conforme pas à l�
 
 Toute demande formulée en application du présent paragraphe comporte :
 
-1. des éléments démontrant que l’exploitant d’aéronef ne s’est pas conformé aux obligations qui lui incombent en vertu de la présente loi ;
+- des éléments démontrant que l’exploitant d’aéronef ne s’est pas conformé aux obligations qui lui incombent en vertu de la présente loi ;
 
-2. des précisions sur les mesures coercitives prises pour assurer le respect de la loi ;
+- des précisions sur les mesures coercitives prises pour assurer le respect de la loi ;
 
-3. une justification de l’imposition d’une interdiction d’exploitation au niveau communautaire ; et
+- une justification de l’imposition d’une interdiction d’exploitation au niveau communautaire ; et
 
-4. une recommandation quant à la portée d’une interdiction d’exploitation au niveau communautaire et aux conditions éventuelles qui devraient être appliquées.
+- une recommandation quant à la portée d’une interdiction d’exploitation au niveau communautaire et aux conditions éventuelles qui devraient être appliquées.
 
 Lorsque la Commission envisage de prendre une décision faisant suite à une demande introduite en vertu du présent paragraphe, elle communique à l’exploitant d’aéronef concerné les faits et considérations essentiels qui justifient cette décision. L’exploitant d’aéronef concerné a la possibilité de soumettre à la Commission des observations par écrit dans un délai de dix jours ouvrables à compter de la date de la communication de ces faits et considérations.
 
@@ -1994,11 +1994,11 @@ Toutefois, et sans préjudice de l’article 33, paragraphe 1er, du Code de proc
 
 Dans l’exercice des attributions prévues aux paragraphes 1 et 2, les membres du cadre policier ayant la qualité d’officier de police judiciaire et les agents visés à l’article 44 sont autorisés à :
 
-1. constater les infractions par des procès-verbaux faisant foi jusqu’à preuve contraire ;
+- constater les infractions par des procès-verbaux faisant foi jusqu’à preuve contraire ;
 
-2. accéder à tous locaux, terrains ou installations à usage professionnel, prendre ou obtenir la communication des livres, factures et tous autres documents professionnels et en prendre copie, recueillir, sur convocation ou sur place, les renseignements et justifications ;
+- accéder à tous locaux, terrains ou installations à usage professionnel, prendre ou obtenir la communication des livres, factures et tous autres documents professionnels et en prendre copie, recueillir, sur convocation ou sur place, les renseignements et justifications ;
 
-3. prélever des échantillons aux fins d’analyser la quantité des émissions SEQE de gaz à effet de serre visés à l’annexe II de la directive 2003/87/CE précitée telle que modifiée par les actes délégués de la Commission européenne pris en conformité des articles 22 et 23 de cette directive. Ces échantillons sont pris contre délivrance d’un accusé de réception. Une partie de l’échantillon, cachetée ou scellée, est remise à l’exploitant de l’établissement ou au détenteur pour le compte de celui-ci, à moins que l’exploitant ou le détenteur n’y renoncent expressément.
+- prélever des échantillons aux fins d’analyser la quantité des émissions SEQE de gaz à effet de serre visés à l’annexe II de la directive 2003/87/CE précitée telle que modifiée par les actes délégués de la Commission européenne pris en conformité des articles 22 et 23 de cette directive. Ces échantillons sont pris contre délivrance d’un accusé de réception. Une partie de l’échantillon, cachetée ou scellée, est remise à l’exploitant de l’établissement ou au détenteur pour le compte de celui-ci, à moins que l’exploitant ou le détenteur n’y renoncent expressément.
 
 (4)
 
@@ -2015,27 +2015,27 @@ Sanctions pénales
 
 Est punie d’une peine d’emprisonnement de huit jours à trois ans et d’une amende de 251 euros à 1 000 000 euros ou d’une de ces peines seulement :
 
-1. Toute personne qui par infraction à l’article 34, paragraphe 10 , ne restitue pas les quotas y visés ;
+- Toute personne qui par infraction à l’article 34, paragraphe 10 , ne restitue pas les quotas y visés ;
 
-2. Toute personne qui par infraction à l’article 12, paragraphe 1 er , du règlement d’exécution (UE) 2018/2066 précité ne déclare pas les émissions SEQE ;
+- Toute personne qui par infraction à l’article 12, paragraphe 1 er , du règlement d’exécution (UE) 2018/2066 précité ne déclare pas les émissions SEQE ;
 
-3. Toute personne qui par infraction à l’article 23, paragraphe 2, du règlement d’exécution (UE) 2018/2066 précité n’informe pas immédiatement l’autorité compétente de son impossibilité à mettre en œuvre une surveillance conforme au plan de surveillance approuvé par l’autorité compétente ;
+- Toute personne qui par infraction à l’article 23, paragraphe 2, du règlement d’exécution (UE) 2018/2066 précité n’informe pas immédiatement l’autorité compétente de son impossibilité à mettre en œuvre une surveillance conforme au plan de surveillance approuvé par l’autorité compétente ;
 
-4. Toute personne qui par infraction à l’article 25, paragraphe 3, ou à l’article 41 quinquies , paragraphe 3, ne délivre pas les informations y visées ;
+- Toute personne qui par infraction à l’article 25, paragraphe 3, ou à l’article 41 quinquies , paragraphe 3, ne délivre pas les informations y visées ;
 
-5. Toute personne qui par infraction à l’article 26, paragraphe 2, ou à l’article 41 sexies n’informe pas l’administration des changements ou modifications y visés ;
+- Toute personne qui par infraction à l’article 26, paragraphe 2, ou à l’article 41 sexies n’informe pas l’administration des changements ou modifications y visés ;
 
-6. Toute personne qui par infraction à l’article 34, paragraphe 4, ou à l’article 41 octies , paragraphe 1 er , ne restitue pas les quotas avant l’écoulement des délais y visés ;
+- Toute personne qui par infraction à l’article 34, paragraphe 4, ou à l’article 41 octies , paragraphe 1 er , ne restitue pas les quotas avant l’écoulement des délais y visés ;
 
-7. Toute personne qui par infraction à l’article 36 ne déclare pas les émissions SEQE conformément au règlement d’exécution (UE) 2018/2066 précité ;
+- Toute personne qui par infraction à l’article 36 ne déclare pas les émissions SEQE conformément au règlement d’exécution (UE) 2018/2066 précité ;
 
-8. Toute personne qui entrave ou ne respecte pas les mesures administratives prises en application de l’article 43 ;
+- Toute personne qui entrave ou ne respecte pas les mesures administratives prises en application de l’article 43 ;
 
-9. Toute personne qui par infraction à l’article 8 du règlement (UE) 2015/757 précité et dans les conditions prévues aux articles 9 ou 10 de ce règlement ne surveille pas les émissions de gaz à effet de serre ;
+- Toute personne qui par infraction à l’article 8 du règlement (UE) 2015/757 précité et dans les conditions prévues aux articles 9 ou 10 de ce règlement ne surveille pas les émissions de gaz à effet de serre ;
 
-10. Toute personne qui par infraction à l’article 11, paragraphes 1 er à 3, l’article 11 bis , paragraphes 1 er à 3, ou l’article 12, paragraphe 1 er , du règlement (UE) 2015/757 précité ne déclare pas les émissions de gaz à effet de serre ;
+- Toute personne qui par infraction à l’article 11, paragraphes 1 er à 3, l’article 11 bis , paragraphes 1 er à 3, ou l’article 12, paragraphe 1 er , du règlement (UE) 2015/757 précité ne déclare pas les émissions de gaz à effet de serre ;
 
-11. Toute personne qui par infraction à l’article 41 nonies , paragraphe 1 er , alinéa 2, ne déclare pas les émissions SEQE conformément aux actes d’exécution de la Commission européenne visés à l’article 14, paragraphe 1 er , de la directive 2003/87/CE précitée .
+- Toute personne qui par infraction à l’article 41 nonies , paragraphe 1 er , alinéa 2, ne déclare pas les émissions SEQE conformément aux actes d’exécution de la Commission européenne visés à l’article 14, paragraphe 1 er , de la directive 2003/87/CE précitée .
 
 <a id="art-47"></a>
 ## Art. 47.

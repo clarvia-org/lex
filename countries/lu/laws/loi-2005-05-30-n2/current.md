@@ -40,15 +40,15 @@ Les définitions fournies par le Règlement des radiocommunications dans sa vers
 
 Au sens de la présente loi, il y a lieu d’entendre par :
 
-1. « licence » : autorisation administrative accordée à une personne physique ou morale pour l’utilisation d’une ou de plusieurs fréquences ou d’un ou de plusieurs canaux radioélectriques ;
+- « licence » : autorisation administrative accordée à une personne physique ou morale pour l’utilisation d’une ou de plusieurs fréquences ou d’un ou de plusieurs canaux radioélectriques ;
 
-2. « ministre » : le ministre ayant les Radiocommunications et la Gestion du spectre radioélectrique dans ses attributions ;
+- « ministre » : le ministre ayant les Radiocommunications et la Gestion du spectre radioélectrique dans ses attributions ;
 
-3. « utilisation partagée » : utilisation commune d’une fréquence ou d’un canal radioélectrique déterminés par deux ou plusieurs détenteurs de licence ;
+- « utilisation partagée » : utilisation commune d’une fréquence ou d’un canal radioélectrique déterminés par deux ou plusieurs détenteurs de licence ;
 
-4. « Institut » : l’Institut luxembourgeois de régulation, tel que défini par la loi du 30 mai 2005 portant organisation de l’Institut Luxembourgeois de Régulation ;
+- « Institut » : l’Institut luxembourgeois de régulation, tel que défini par la loi du 30 mai 2005 portant organisation de l’Institut Luxembourgeois de Régulation ;
 
-5. « parties de spectre des fréquences utilisables sans assignation spécifique » : parties de spectre dont l’utilisation n’est pas soumise à l’octroi d’une licence.
+- « parties de spectre des fréquences utilisables sans assignation spécifique » : parties de spectre dont l’utilisation n’est pas soumise à l’octroi d’une licence.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -103,13 +103,13 @@ Toute utilisation d’un tel dispositif fixe ou mobile doit être limitée dans 
 
 Toute utilisation d’un tel dispositif fixe ou mobile doit être notifiée au moins quatorze jours au préalable par courrier électronique adressé à l’Institut. La notification contient les informations suivantes :
 
-1. l’emplacement du dispositif ;
+- l’emplacement du dispositif ;
 
-2. un bref descriptif du dispositif ;
+- un bref descriptif du dispositif ;
 
-3. la durée de l’émission ;
+- la durée de l’émission ;
 
-4. la partie du spectre radioélectrique planifiée à être utilisée.
+- la partie du spectre radioélectrique planifiée à être utilisée.
 
 L’Institut informe sans délai le ministre de toute utilisation. L’Institut informe sans délai la Direction de l’aviation civile si l’utilisation d’un tel dispositif fixe ou mobile risque d’affecter ou affecte la sûreté de l’aviation civile.
 
@@ -169,21 +169,21 @@ Les titulaires de licence ayant accepté l'utilisation partagée d'une ou de plu
 
 Les obligations suivantes peuvent être associées aux licences:
 
-1. Obligation de fournir un service ou d’utiliser un type de technologie pour lesquels les droits d’utilisation de la fréquence ont été accordés, y compris, le cas échéant, des exigences de couverture et de qualité ;
+- Obligation de fournir un service ou d’utiliser un type de technologie pour lesquels les droits d’utilisation de la fréquence ont été accordés, y compris, le cas échéant, des exigences de couverture et de qualité ;
 
-2. Exigences en vue d’une utilisation effective et efficace des fréquences notamment par la prescription de délais impératifs pour l’exploitation effective des droits d’utilisation par leur titulaire ;
+- Exigences en vue d’une utilisation effective et efficace des fréquences notamment par la prescription de délais impératifs pour l’exploitation effective des droits d’utilisation par leur titulaire ;
 
-3. Conditions techniques et opérationnelles nécessaires pour éviter le brouillage préjudiciable, sans préjudice de dispositions prises pour protéger la santé publique contre les champs électromagnétiques ou pour réaliser un objectif d’intérêt général ;
+- Conditions techniques et opérationnelles nécessaires pour éviter le brouillage préjudiciable, sans préjudice de dispositions prises pour protéger la santé publique contre les champs électromagnétiques ou pour réaliser un objectif d’intérêt général ;
 
-4. Durée maximale d’utilisation sous réserve de toute modification du plan national de fréquences. La durée est adaptée au service concerné eu égard à l’objectif poursuivi, en tenant dûment compte de la nécessité de prévoir une période appropriée pour l’amortissement de l’investissement ;
+- Durée maximale d’utilisation sous réserve de toute modification du plan national de fréquences. La durée est adaptée au service concerné eu égard à l’objectif poursuivi, en tenant dûment compte de la nécessité de prévoir une période appropriée pour l’amortissement de l’investissement ;
 
-5. Engagements pris lors d'une procédure de sélection concurrentielle ou comparative par le titulaire ayant obtenu la licence ;
+- Engagements pris lors d'une procédure de sélection concurrentielle ou comparative par le titulaire ayant obtenu la licence ;
 
-6. Contraintes au titre d'accords internationaux pertinents ayant trait à l'utilisation des fréquences ;
+- Contraintes au titre d'accords internationaux pertinents ayant trait à l'utilisation des fréquences ;
 
-7. Procédure à respecter en cas d’autorisation de transfert des droits d’utilisation à l’initiative du titulaire de ces droits et conditions applicables au transfert.
+- Procédure à respecter en cas d’autorisation de transfert des droits d’utilisation à l’initiative du titulaire de ces droits et conditions applicables au transfert.
 
-8. Obligations spécifiques à l’utilisation expérimentale de radiofréquences.
+- Obligations spécifiques à l’utilisation expérimentale de radiofréquences.
 
 (2)
 

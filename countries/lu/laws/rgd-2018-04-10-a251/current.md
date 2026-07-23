@@ -157,7 +157,7 @@ Matières sanctionnées par un examen en fin de formation :
 
 | Matière | Durée de formation | Points |
 | --- | --- | --- |
-| Législation :Connaissances générales de la loi modifiée du 21 novembre 1980 portant organisation de la Direction de la santéLes législations et règlements grand-ducaux d’exécution spécifiques relevant du domaine de l’affectation et des attributions du candidat | 20 heures | 60 |
+| Législation : Connaissances générales de la loi modifiée du 21 novembre 1980 portant organisation de la Direction de la santé Les législations et règlements grand-ducaux d’exécution spécifiques relevant du domaine de l’affectation et des attributions du candidat | 20 heures | 60 |
 | Rédaction d’un mémoire d’étude en relation avec les attributions du candidat | - | 60 |
 | La protection des données, la sécurité informatique et la sécurité au travail | 8 heures | 60 |
 
@@ -184,7 +184,7 @@ Matières sanctionnées par un examen en fin de formation :
 
 | Matière | Durée de formation | Points |
 | --- | --- | --- |
-| Législation :Connaissances générales de la loi modifiée du 21 novembre 1980 portant organisation de la Direction de la santéLes législations et règlements grand-ducaux d’exécution spécifiques relevant du domaine de l’affectation et des attributions du candidat | 20 heures | 60 |
+| Législation : Connaissances générales de la loi modifiée du 21 novembre 1980 portant organisation de la Direction de la santé Les législations et règlements grand-ducaux d’exécution spécifiques relevant du domaine de l’affectation et des attributions du candidat | 20 heures | 60 |
 | Rédaction d’un rapport de service en relation avec les attributions du candidat | - | 60 |
 | La protection des données, la sécurité informatique et la sécurité au travail | 8 heures | 60 |
 
@@ -195,11 +195,11 @@ Matières sanctionnées par un examen en fin de formation :
 
 L’examen de promotion de la catégorie de traitement B, groupe de traitement B1 comporte :
 
-1. l’élaboration d’un travail de conception et d’analyse en relation avec le domaine d’activité et les attributions du candidat (120 points) ;
+- l’élaboration d’un travail de conception et d’analyse en relation avec le domaine d’activité et les attributions du candidat (120 points) ;
 
-2. un rapport écrit sur un thème ayant trait à la gestion de l’administration (60 points) ;
+- un rapport écrit sur un thème ayant trait à la gestion de l’administration (60 points) ;
 
-3. une épreuve écrite portant sur la législation et la règlementation générales de l’administration et la législation et la règlementation spécifiques relatives au domaine d’activité et aux attributions du candidat (60 points).
+- une épreuve écrite portant sur la législation et la règlementation générales de l’administration et la législation et la règlementation spécifiques relatives au domaine d’activité et aux attributions du candidat (60 points).
 
 Le sujet du travail de conception et d’analyse et du rapport écrit de même que les matières de l’épreuve écrite à apprendre pour l’examen de promotion sont fixés par la commission d’examen respective au plus tard trois mois avant la date fixée pour l’examen de promotion.
 
@@ -208,11 +208,11 @@ Le sujet du travail de conception et d’analyse et du rapport écrit de même q
 
 L’examen de promotion de la catégorie de traitement C, groupe de traitement C1 comporte :
 
-1. l’élaboration d’un travail de conception et d’analyse en relation avec le domaine d’activité et les attributions du candidat (120 points) ;
+- l’élaboration d’un travail de conception et d’analyse en relation avec le domaine d’activité et les attributions du candidat (120 points) ;
 
-2. un rapport écrit sur un thème ayant trait à la gestion de l’administration (60 points) ;
+- un rapport écrit sur un thème ayant trait à la gestion de l’administration (60 points) ;
 
-3. une épreuve écrite portant sur la législation et la règlementation générales de l’administration et la législation et la règlementation spécifiques relatives au domaine d’activité et aux attributions du candidat (60 points).
+- une épreuve écrite portant sur la législation et la règlementation générales de l’administration et la législation et la règlementation spécifiques relatives au domaine d’activité et aux attributions du candidat (60 points).
 
 Le sujet du travail de conception et d’analyse et du rapport écrit de même que les matières de l’épreuve écrite à apprendre pour l’examen de promotion sont fixés par la commission d’examen respective au plus tard trois mois avant la date fixée pour l’examen de promotion.
 
@@ -221,9 +221,9 @@ Le sujet du travail de conception et d’analyse et du rapport écrit de même q
 
 L’examen de promotion de la catégorie de traitement D, groupes de traitement D1, D2 et D3 comporte :
 
-1. un rapport écrit sur un thème ayant trait à la gestion de l’administration (60 points) ;
+- un rapport écrit sur un thème ayant trait à la gestion de l’administration (60 points) ;
 
-2. une épreuve écrite portant sur la législation et la règlementation générales de l’administration et la législation et la règlementation spécifiques relatives au domaine d’activité et aux attributions du candidat (60 points).
+- une épreuve écrite portant sur la législation et la règlementation générales de l’administration et la législation et la règlementation spécifiques relatives au domaine d’activité et aux attributions du candidat (60 points).
 
 Le sujet du rapport écrit de même que les matières de l’épreuve écrite à apprendre pour l’examen de promotion sont fixés par la commission d’examen respective au plus tard trois mois avant la date fixée pour l’examen de promotion.
 

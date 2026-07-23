@@ -36,13 +36,13 @@ La demande en paiement est adressée par le créancier ou par son représentant 
 
 Cette demande est admise par le président ou par son délégué si le créancier justifie:
 
-1. qu'il a son domicile légal dans le pays et que lui-même ou son représentant légal y réside depuis cinq ans;
+- qu'il a son domicile légal dans le pays et que lui-même ou son représentant légal y réside depuis cinq ans;
 
-2. que sa pension allmentaire est fixée par une décision judiciaire exécutoire au Grand-Duché de Luxembourg;
+- que sa pension allmentaire est fixée par une décision judiciaire exécutoire au Grand-Duché de Luxembourg;
 
-3. que le recouvrement total ou partiel de la pension n'a pu être obtenu par une voie d'exécution de droit privé effectivement exercée;
+- que le recouvrement total ou partiel de la pension n'a pu être obtenu par une voie d'exécution de droit privé effectivement exercée;
 
-4. qu'il se trouve dans une situation économique difficile.
+- qu'il se trouve dans une situation économique difficile.
 
 Encore que la condition énoncée sous c) ne soit pas remplie, la demande est admise, lorsque le recours aux voies d'exécution paraît voué à l'échec ou lorsque le débiteur réside à l'étranger.
 
@@ -155,15 +155,15 @@ L'Etat met à la disposition du Fonds un fonds de roulement de deux cent quarant
 
 Pour faire face aux engagements qui résultent de la présente loi, le Fonds dispose des moyens financiers suivants:
 
-1. recouvrement de pensions alimentaires en exécution de la présente loi;
+- recouvrement de pensions alimentaires en exécution de la présente loi;
 
-2. dons et legs adressés au Fonds dans le but de couvrir les dépenses résultant de l'application de la présente loi;
+- dons et legs adressés au Fonds dans le but de couvrir les dépenses résultant de l'application de la présente loi;
 
-3. dotation annuelle de l'Etat fixée par la loi budgétaire;
+- dotation annuelle de l'Etat fixée par la loi budgétaire;
 
-4. frais de recouvrement récupérés sur les débiteurs des pensions alimentaires;
+- frais de recouvrement récupérés sur les débiteurs des pensions alimentaires;
 
-5. revenus provenant du placement temporaire de tout ou partie du fonds de roulement.
+- revenus provenant du placement temporaire de tout ou partie du fonds de roulement.
 
 A la fin de chaque exercice le Fonds verse au Trésor les frais de recouvrement des pensions alimentaires effectivement récupérées sur les débiteurs ainsi que les revenus provenant du placement de tout ou partie du fonds de roulement.
 

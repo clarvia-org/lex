@@ -65,13 +65,13 @@ Les membres du conseil de classe peuvent consulter les évaluations des classes 
 
 Le nombre des modules obligatoires par semestre est de :
 
-1. 9 à 11 modules obligatoires pour les formations préparant au Diplôme de technicien, designé ci-après par « DT » ;
+- 9 à 11 modules obligatoires pour les formations préparant au Diplôme de technicien, designé ci-après par « DT » ;
 
-2. 5 à 7 modules obligatoires pour les formations préparant au Diplôme d’aptitude professionnelle, designé ci-après par « DAP », avec un contrat d’apprentissage ;
+- 5 à 7 modules obligatoires pour les formations préparant au Diplôme d’aptitude professionnelle, designé ci-après par « DAP », avec un contrat d’apprentissage ;
 
-3. 7 à 9 modules obligatoires pour les formations DAP organisées à plein temps dans un établissement scolaire ;
+- 7 à 9 modules obligatoires pour les formations DAP organisées à plein temps dans un établissement scolaire ;
 
-4. 3 à 5 modules pour les formations préparant au Certificat de capacité professionnelle, désigné ci-après par « CCP ».
+- 3 à 5 modules pour les formations préparant au Certificat de capacité professionnelle, désigné ci-après par « CCP ».
 
 Une dérogation peut être demandée auprès de la direction du service de la formation professionnelle.
 
@@ -81,13 +81,13 @@ Les modules « stage » et « projet intégré » ne sont pas pris en compte pou
 
 Un module comporte entre trois et dix compétences obligatoires. Chaque compétence est évaluée en tenant compte de l’indice de pondération suivant :
 
-1. 40 % équivalent à 24 points ;
+- 40 % équivalent à 24 points ;
 
-2. 30 % équivalent à 18 points ;
+- 30 % équivalent à 18 points ;
 
-3. 20 % équivalent à 12 points ;
+- 20 % équivalent à 12 points ;
 
-4. 10 % équivalent à 6 points.
+- 10 % équivalent à 6 points.
 
 (9)
 
@@ -100,21 +100,21 @@ Le Bulletin
 
 Le bulletin semestriel renseigne sur les éléments suivants :
 
-1. les résultats d’évaluation de tous les modules que l’élève a fréquentés ou rattrapés au cours du semestre écoulé ;
+- les résultats d’évaluation de tous les modules que l’élève a fréquentés ou rattrapés au cours du semestre écoulé ;
 
-2. les modules à rattraper ;
+- les modules à rattraper ;
 
-3. le nombre de leçons d’absence excusée et non excusée ;
+- le nombre de leçons d’absence excusée et non excusée ;
 
-4. une appréciation du comportement de l’élève ;
+- une appréciation du comportement de l’élève ;
 
-5. le cas échéant, la décision de promotion ;
+- le cas échéant, la décision de promotion ;
 
-6. le cas échéant, les mesures de remédiation décidées par le conseil de classe ;
+- le cas échéant, les mesures de remédiation décidées par le conseil de classe ;
 
-7. le cas échéant, la décision du conseil de classe de réorienter l’élève ;
+- le cas échéant, la décision du conseil de classe de réorienter l’élève ;
 
-8. le cas échéant, des informations concernant les activités périscolaires auxquelles a participé l’élève.
+- le cas échéant, des informations concernant les activités périscolaires auxquelles a participé l’élève.
 
 Le bulletin porte la date du conseil de classe et la signature du régent.
 
@@ -177,33 +177,33 @@ Le bilan intermédiaire
 
 Le bilan intermédiaire d’une formation d’une durée normale de trois ans menant respectivement au DAP ou au DT, est réussi si les quatre conditions cumulatives suivantes sont remplies :
 
-1. l’élève a au moins réussi 85 pour cent des modules obligatoires ;
+- l’élève a au moins réussi 85 pour cent des modules obligatoires ;
 
-2. l’élève a au moins réussi 85 pour cent des modules obligatoires de l’enseignement professionnel ;
+- l’élève a au moins réussi 85 pour cent des modules obligatoires de l’enseignement professionnel ;
 
-3. tout module obligatoire a été évalué à au moins 20 points ;
+- tout module obligatoire a été évalué à au moins 20 points ;
 
-4. l’élève a réussi tous les modules fondamentaux.
+- l’élève a réussi tous les modules fondamentaux.
 
 (2)
 
 Le bilan intermédiaire d’une formation menant respectivement au DAP ou au DT autre que celles évoquées au paragraphe précédent porte sur les modules obligatoires prévus par le programme de deux années scolaires ; il est réussi si les quatre conditions cumulatives suivantes sont remplies :
 
-1. l’élève a au moins réussi 90 pour cent des modules obligatoires ;
+- l’élève a au moins réussi 90 pour cent des modules obligatoires ;
 
-2. l’élève a au moins réussi 90 pour cent des modules obligatoires de l’enseignement professionnel ;
+- l’élève a au moins réussi 90 pour cent des modules obligatoires de l’enseignement professionnel ;
 
-3. tout module obligatoire a été évalué à au moins 20 points ;
+- tout module obligatoire a été évalué à au moins 20 points ;
 
-4. l’élève a réussi tous les modules fondamentaux.
+- l’élève a réussi tous les modules fondamentaux.
 
 (3)
 
 Le bilan intermédiaire d’une formation menant au CCP est réussi si les deux conditions cumulatives suivantes sont remplies :
 
-1. l’élève a au moins atteint 80 pour cent des modules obligatoires ;
+- l’élève a au moins atteint 80 pour cent des modules obligatoires ;
 
-2. tout module obligatoire a été évalué à au moins 20 points.
+- tout module obligatoire a été évalué à au moins 20 points.
 
 (4)
 
@@ -230,33 +230,33 @@ Le bilan final
 
 Le bilan final d’une formation d’une durée normale d’une année menant respectivement au DAP ou au DT, est réussi si les quatre conditions cumulatives suivantes sont remplies :
 
-1. l’élève a au moins réussi 85 pour cent des modules obligatoires ;
+- l’élève a au moins réussi 85 pour cent des modules obligatoires ;
 
-2. l’élève a au moins réussi 85 pour cent des modules obligatoires de l’enseignement professionnel ;
+- l’élève a au moins réussi 85 pour cent des modules obligatoires de l’enseignement professionnel ;
 
-3. tout module obligatoire non réussi a été évalué au minimum 20 points ;
+- tout module obligatoire non réussi a été évalué au minimum 20 points ;
 
-4. l’élève a réussi tous les modules fondamentaux, à l’exception d’un seul module de stage.
+- l’élève a réussi tous les modules fondamentaux, à l’exception d’un seul module de stage.
 
 (2)
 
 Le bilan final d’une formation DAP ou DT autres que celles évoquées au paragraphe premier est réussi si les quatre conditions cumulatives suivantes sont remplies :
 
-1. l’élève a au moins réussi 90 pour cent des modules obligatoires ;
+- l’élève a au moins réussi 90 pour cent des modules obligatoires ;
 
-2. l’élève a au moins réussi 90 pour cent des modules obligatoires de l’enseignement professionnel ;
+- l’élève a au moins réussi 90 pour cent des modules obligatoires de l’enseignement professionnel ;
 
-3. tout module obligatoire a été évalué à au moins 20 points ;
+- tout module obligatoire a été évalué à au moins 20 points ;
 
-4. l’élève a réussi tous les modules fondamentaux.
+- l’élève a réussi tous les modules fondamentaux.
 
 (3)
 
 Le bilan final d’une formation menant au CCP est réussi si les deux conditions cumulatives sont remplies :
 
-1. l’élève a au moins réussi 80 pour cent des modules obligatoires ;
+- l’élève a au moins réussi 80 pour cent des modules obligatoires ;
 
-2. tout module obligatoire non réussi a été évalué à au moins 20 points.
+- tout module obligatoire non réussi a été évalué à au moins 20 points.
 
 (4)
 
@@ -287,11 +287,11 @@ La décision de progression
 
 Le conseil de classe prend une décision de promotion appelée décision de progression au terme :
 
-1. de la première et de la troisième année scolaire d’une formation d’une durée normale de quatre ans ;
+- de la première et de la troisième année scolaire d’une formation d’une durée normale de quatre ans ;
 
-2. de la deuxième année scolaire d’une formation d’une durée normale de trois ans ;
+- de la deuxième année scolaire d’une formation d’une durée normale de trois ans ;
 
-3. de la première année scolaire d’une formation d’une durée normale de deux ans.
+- de la première année scolaire d’une formation d’une durée normale de deux ans.
 
 La décision se fonde sur les résultats de l’élève aux modules obligatoires prévus par le programme de l’année scolaire. Pour cette décision ne sont pas pris en considération ni les modules de stage, ni le projet intégré intermédiaire éventuels.
 
@@ -299,11 +299,11 @@ La décision se fonde sur les résultats de l’élève aux modules obligatoires
 
 Lors de la décision de progression d’une formation menant respectivement au DAP ou au DT, le conseil de classe autorise l’élève à progresser à la classe subséquente si les trois conditions cumulatives suivantes sont remplies :
 
-1. le nombre de modules obligatoires non réussis lors de la décision de progression est au plus égal au nombre maximal de modules obligatoires non réussis, calculé selon les dispositions de l’article 5 pour la décision du bilan intermédiaire ou de l’article 6 pour le bilan final sanctionnant l’année scolaire qui suit la décision de progression.
+- le nombre de modules obligatoires non réussis lors de la décision de progression est au plus égal au nombre maximal de modules obligatoires non réussis, calculé selon les dispositions de l’article 5 pour la décision du bilan intermédiaire ou de l’article 6 pour le bilan final sanctionnant l’année scolaire qui suit la décision de progression.
 
-2. le nombre de modules obligatoires de l’enseignement professionnel non réussis lors de la décision de progression est au plus égal au nombre maximal de modules obligatoires de l’enseignement professionnel non réussis, calculé selon les dispositions des articles 5 ou 6 pour la décision du bilan intermédiaire ou final sanctionnant l’année scolaire qui suit la décision de progression.
+- le nombre de modules obligatoires de l’enseignement professionnel non réussis lors de la décision de progression est au plus égal au nombre maximal de modules obligatoires de l’enseignement professionnel non réussis, calculé selon les dispositions des articles 5 ou 6 pour la décision du bilan intermédiaire ou final sanctionnant l’année scolaire qui suit la décision de progression.
 
-3. l’élève a réussi tous les modules fondamentaux, ou il les a tous réussis, à l’exception d’un seul module fondamental figurant au programme du dernier semestre.
+- l’élève a réussi tous les modules fondamentaux, ou il les a tous réussis, à l’exception d’un seul module fondamental figurant au programme du dernier semestre.
 
 Lors de la décision de progression d’une formation menant au CCP, le conseil de classe autorise l’élève à progresser à l’année d’études subséquente, si l’élève remplit la première des trois conditions précitées.
 
@@ -324,15 +324,15 @@ Les mesures de remédiation aident l’élève en difficulté à être plus effi
 
 Les mesures de remédiation décidées par le conseil de classe peuvent être :
 
-1. des travaux adaptés de révision ou d’approfondissement ;
+- des travaux adaptés de révision ou d’approfondissement ;
 
-2. une participation à des cours de révision, de mise à niveau ou d’approfondissement, ou à des modules facultatifs ;
+- une participation à des cours de révision, de mise à niveau ou d’approfondissement, ou à des modules facultatifs ;
 
-3. une inscription à des études surveillées ;
+- une inscription à des études surveillées ;
 
-4. une formation aux techniques d’apprentissage ;
+- une formation aux techniques d’apprentissage ;
 
-5. le séjour temporaire dans une classe spécifique.
+- le séjour temporaire dans une classe spécifique.
 
 (3)
 
@@ -363,9 +363,9 @@ Le directeur du lycée ou le responsable du centre de formation public offre au 
 
 À l’exception des modules « projet intégré », des modules « stage » et des modules en organisme de formation, le rattrapage d’un module « non réussi » est organisé selon les deux modèles suivants :
 
-1. le rattrapage « complet » est une réévaluation de toutes les compétences du module « non réussi » ;
+- le rattrapage « complet » est une réévaluation de toutes les compétences du module « non réussi » ;
 
-2. le rattrapage « partiel » est une réévaluation des compétences « non acquises » du module « non réussi ».
+- le rattrapage « partiel » est une réévaluation des compétences « non acquises » du module « non réussi ».
 
 (5)
 
@@ -383,9 +383,9 @@ Le directeur ou le responsable du centre de formation public décide pour chaque
 
 L’évaluation du rattrapage d’un module « non réussi » se fait selon les dispositions suivantes :
 
-1. le rattrapage « complet » est évalué suivant les dispositions de l’article 1 er . Le résultat obtenu lors de ce type de rattrapage remplace celui obtenu lors de l’inscription initiale ;
+- le rattrapage « complet » est évalué suivant les dispositions de l’article 1 er . Le résultat obtenu lors de ce type de rattrapage remplace celui obtenu lors de l’inscription initiale ;
 
-2. le rattrapage « partiel » porte sur les compétences déclarées non acquises lors de l’évaluation initiale. Par analogie au paragraphe 9 de l’article 1 er , la note attribuée en cas de réussite du rattrapage partiel correspond à 30 points.
+- le rattrapage « partiel » porte sur les compétences déclarées non acquises lors de l’évaluation initiale. Par analogie au paragraphe 9 de l’article 1 er , la note attribuée en cas de réussite du rattrapage partiel correspond à 30 points.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -411,29 +411,29 @@ Le projet intégré
 
 Le projet intégré assure la liaison entre les compétences des différents modules. Il s’appuie sur des situations de travail concrètes et porte sur des compétences retenues dans le profil de formation. Il se compose des parties suivantes, à pondérer selon les spécificités des différents métiers ou professions :
 
-1. réflexions théoriques en relation avec la réalisation pratique du projet intégré ;
+- réflexions théoriques en relation avec la réalisation pratique du projet intégré ;
 
-2. réalisation pratique de l’objet du projet ;
+- réalisation pratique de l’objet du projet ;
 
-3. présentation orale du projet ;
+- présentation orale du projet ;
 
-4. entretien professionnel sur le projet.
+- entretien professionnel sur le projet.
 
 (2)
 
 Le projet intégré comprend les phases suivantes :
 
-1. information ;
+- information ;
 
-2. planification ;
+- planification ;
 
-3. décision ;
+- décision ;
 
-4. réalisation ;
+- réalisation ;
 
-5. contrôle ;
+- contrôle ;
 
-6. évaluation.
+- évaluation.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -459,19 +459,19 @@ Le contrôle général du projet intégré est assuré par le directeur à la fo
 
 L’équipe d’évaluation comprend, comme membres effectifs :
 
-1. un représentant de la chambre professionnelle patronale, ou un représentant du ministre pour les formations qui ne dépendent d’aucune chambre professionnelle ;
+- un représentant de la chambre professionnelle patronale, ou un représentant du ministre pour les formations qui ne dépendent d’aucune chambre professionnelle ;
 
-2. un représentant de la Chambre des salariés ;
+- un représentant de la Chambre des salariés ;
 
-3. un enseignant.
+- un enseignant.
 
 Lorsque la formation est organisée sans contrat d’apprentissage, l’équipe d’évaluation comprend comme membres effectifs :
 
-1. un représentant de la chambre professionnelle patronale, ou un représentant du ministre pour les formations qui ne dépendent d’aucune chambre professionnelle ;
+- un représentant de la chambre professionnelle patronale, ou un représentant du ministre pour les formations qui ne dépendent d’aucune chambre professionnelle ;
 
-2. un représentant de la Chambre des salariés ;
+- un représentant de la Chambre des salariés ;
 
-3. quatre enseignants.
+- quatre enseignants.
 
 Pour chaque membre effectif est nommé un membre suppléant.
 
@@ -538,9 +538,9 @@ Le déroulement du projet intégré
 
 Le projet intégré final est organisé à la fin du deuxième semestre de l’année terminale, d’après les modèles suivants :
 
-1. sous forme de projet simulant une situation professionnelle concrète ;
+- sous forme de projet simulant une situation professionnelle concrète ;
 
-2. sous forme de soutenance d’un projet élaboré dans le cadre de modules « projet » de l’année terminale ; dans ce cas, l’équipe d’évaluation participe à l’évaluation des modules « projet ».
+- sous forme de soutenance d’un projet élaboré dans le cadre de modules « projet » de l’année terminale ; dans ce cas, l’équipe d’évaluation participe à l’évaluation des modules « projet ».
 
 (2)
 
@@ -644,13 +644,13 @@ Les mentions
 
 L’autorité nationale pour la certification professionnelle décerne les mentions suivantes au CCP, au DAP ou au DT, sur la base des modules qui sont prévus par les programmes des deux dernières années de la formation ou, le cas échéant, pendant la seule année de formation, y compris le projet intégré final, et qui ont été évalués :
 
-1. la mention « excellent » si la moyenne générale des notes des modules est supérieure ou égale à 52 points ;
+- la mention « excellent » si la moyenne générale des notes des modules est supérieure ou égale à 52 points ;
 
-2. la mention « très bien » si la moyenne générale des notes des modules est supérieure ou égale à 48 points ;
+- la mention « très bien » si la moyenne générale des notes des modules est supérieure ou égale à 48 points ;
 
-3. la mention « bien » si la moyenne générale des notes des modules est supérieure ou égale à 40 points ;
+- la mention « bien » si la moyenne générale des notes des modules est supérieure ou égale à 40 points ;
 
-4. La mention « assez bien » si la moyenne générale des notes des modules est supérieure ou égale à 36 points.
+- La mention « assez bien » si la moyenne générale des notes des modules est supérieure ou égale à 36 points.
 
 (2)
 
@@ -665,11 +665,11 @@ Disposition transitoire
 
 Les mentions attribuées à des modules avant l’entrée en vigueur du présent règlement bénéficient des équivalences suivantes :
 
-1. un module réussi sans mention correspond à un module réussi avec la note de 39 points ;
+- un module réussi sans mention correspond à un module réussi avec la note de 39 points ;
 
-2. un module réussi avec la mention « bien » correspond à un module réussi avec la note de 49 points ;
+- un module réussi avec la mention « bien » correspond à un module réussi avec la note de 49 points ;
 
-3. un module réussi avec la mention « très bien » correspond à un module réussi avec la note de 60 points.
+- un module réussi avec la mention « très bien » correspond à un module réussi avec la note de 60 points.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -687,9 +687,9 @@ Mise en vigueur
 
 Le présent règlement grand-ducal est applicable :
 
-1. à partir de l’année scolaire 2019-2020 pour les élèves admis en première année de formation et en première année après le bilan intermédiaire ;
+- à partir de l’année scolaire 2019-2020 pour les élèves admis en première année de formation et en première année après le bilan intermédiaire ;
 
-2. à partir de l’année scolaire 2020-2021 pour tous les autres élèves.
+- à partir de l’année scolaire 2020-2021 pour tous les autres élèves.
 
 <a id="art-24"></a>
 ## Art. 24.

@@ -319,23 +319,23 @@ Principes généraux de prévention
 
 Le responsable met en oeuvre les mesures prévues dans le présent règlement sur la base des principes généraux de prévention suivants:
 
-1. éviter les risques;
+- éviter les risques;
 
-2. évaluer les risques qui ne peuvent pas être évités;
+- évaluer les risques qui ne peuvent pas être évités;
 
-3. combattre les risques à la source;
+- combattre les risques à la source;
 
-4. adapter le travail à l’homme, en particulier en ce qui concerne la conception des postes de travail ainsi que le choix des équipements de travail et des méthodes de travail et de production, en vue notamment d’atténuer le travail monotone et le travail cadencé et de réduire les effets de ceux-ci sur la santé;
+- adapter le travail à l’homme, en particulier en ce qui concerne la conception des postes de travail ainsi que le choix des équipements de travail et des méthodes de travail et de production, en vue notamment d’atténuer le travail monotone et le travail cadencé et de réduire les effets de ceux-ci sur la santé;
 
-5. tenir compte de l’état d’évolution de la technique;
+- tenir compte de l’état d’évolution de la technique;
 
-6. remplacer ce qui est dangereux par ce qui n’est pas dangereux ou par ce qui est moins dangereux;
+- remplacer ce qui est dangereux par ce qui n’est pas dangereux ou par ce qui est moins dangereux;
 
-7. planifier la prévention en visant un ensemble cohérent qui intègre dans la prévention la technique, l’organisation du travail, les conditions de travail, les relations sociales et l’influence des facteurs ambiants au travail;
+- planifier la prévention en visant un ensemble cohérent qui intègre dans la prévention la technique, l’organisation du travail, les conditions de travail, les relations sociales et l’influence des facteurs ambiants au travail;
 
-8. prendre des mesures de protection collective par priorité à des mesures de protection individuelle;
+- prendre des mesures de protection collective par priorité à des mesures de protection individuelle;
 
-9. donner les instructions appropriées aux personnes concernées.
+- donner les instructions appropriées aux personnes concernées.
 
 <a id="art-1-12"></a>
 ## Art. 1.12.
@@ -366,11 +366,11 @@ Ces personnes faisant partie de l’équipe de sécurité au sens de l’article
 
 Le responsable doit en plus:
 
-1. informer le plus tôt possible toutes les personnes qui sont ou qui peuvent être exposées à un risque de danger grave et immédiat sur ce risque et sur les dispositions prises ou à prendre en matière de protection;
+- informer le plus tôt possible toutes les personnes qui sont ou qui peuvent être exposées à un risque de danger grave et immédiat sur ce risque et sur les dispositions prises ou à prendre en matière de protection;
 
-2. prendre des mesures et donner les instructions pour permettre aux personnes concernées, en cas de danger grave, immédiat et qui ne peut être évité, d’arrêter leur activité et/ou de se mettre en sécurité en quittant immédiatement le lieu de travail ou de séjour;
+- prendre des mesures et donner les instructions pour permettre aux personnes concernées, en cas de danger grave, immédiat et qui ne peut être évité, d’arrêter leur activité et/ou de se mettre en sécurité en quittant immédiatement le lieu de travail ou de séjour;
 
-3. sauf exception dûment motivée, s’abstenir de demander aux personnes concernées de reprendre leur activité dans une situation où persiste un danger grave et immédiat.
+- sauf exception dûment motivée, s’abstenir de demander aux personnes concernées de reprendre leur activité dans une situation où persiste un danger grave et immédiat.
 
 (1.12.05)
 
@@ -389,13 +389,13 @@ Evaluation des risques
 
 Sans préjudice des dispositions de la loi et des autres prescriptions du présent règlement, le responsable doit:
 
-1. disposer d’une évaluation des risques pour la sécurité et la santé au travail, y compris ceux concernant les groupes de personnes à risques particuliers;
+- disposer d’une évaluation des risques pour la sécurité et la santé au travail, y compris ceux concernant les groupes de personnes à risques particuliers;
 
-2. déterminer les mesures de protection à prendre et, si nécessaire, le matériel de protection à utiliser;
+- déterminer les mesures de protection à prendre et, si nécessaire, le matériel de protection à utiliser;
 
-3. tenir une liste des accidents de travail ayant entraîné pour le blessé une incapacité de travail supérieure à trois jours de travail;
+- tenir une liste des accidents de travail ayant entraîné pour le blessé une incapacité de travail supérieure à trois jours de travail;
 
-4. établir, conformément aux dispositions de l’article 1.9. ci-dessus, des rapports concernant les accidents de travail dont ont été victimes les personnes dont il répond en ce qui concerne la sécurité.
+- établir, conformément aux dispositions de l’article 1.9. ci-dessus, des rapports concernant les accidents de travail dont ont été victimes les personnes dont il répond en ce qui concerne la sécurité.
 
 (1.13.02)
 
@@ -405,17 +405,17 @@ Le responsable doit tenir un registre de sécurité local aux termes de l’arti
 
 Sans préjudice des dispositions de la loi et des autres dispositions du présent règlement, le responsable doit en plus, compte tenu de la nature des activités de l’établissement:
 
-1. évaluer les risques pour la sécurité et la santé des personnes concernées, y compris dans le choix des équipements de travail, des substances ou préparations chimiques et dans l’aménagement des lieux de travail. A la suite de cette évaluation, et en tant que de besoin, les activités de prévention ainsi que les méthodes de travail et de production mises en oeuvre doivent:
+- évaluer les risques pour la sécurité et la santé des personnes concernées, y compris dans le choix des équipements de travail, des substances ou préparations chimiques et dans l’aménagement des lieux de travail. A la suite de cette évaluation, et en tant que de besoin, les activités de prévention ainsi que les méthodes de travail et de production mises en oeuvre doivent:
 
-- garantir un meilleur niveau de protection de la sécurité et de la santé des personnes,
+  - garantir un meilleur niveau de protection de la sécurité et de la santé des personnes,
 
-- être intégrées dans l’ensemble des activités de l’établissement et à tous les niveaux de l’encadrement;
+  - être intégrées dans l’ensemble des activités de l’établissement et à tous les niveaux de l’encadrement;
 
-2. lorsqu’il confie des tâches à un membre du personnel, prendre en considération les capacités de celui-ci en matière de sécurité et de santé;
+- lorsqu’il confie des tâches à un membre du personnel, prendre en considération les capacités de celui-ci en matière de sécurité et de santé;
 
-3. faire en sorte que la planification et l’introduction de nouvelles technologies fassent l’objet de consultations avec les personnes concernées ou avec leurs représentants dans l’établissement, notamment au sein du comité local prévu à l’article 1.18. ci-après, en ce qui concerne les conséquences sur la sécurité et la santé des personnes, liées au choix des équipements, à l’aménagement des conditions de travail et à l’impact des facteurs ambiants au travail;
+- faire en sorte que la planification et l’introduction de nouvelles technologies fassent l’objet de consultations avec les personnes concernées ou avec leurs représentants dans l’établissement, notamment au sein du comité local prévu à l’article 1.18. ci-après, en ce qui concerne les conséquences sur la sécurité et la santé des personnes, liées au choix des équipements, à l’aménagement des conditions de travail et à l’impact des facteurs ambiants au travail;
 
-4. prendre les mesures appropriées pour que seules les personnes qui ont reçu des instructions adéquates puissent accéder aux zones de risque grave et spécifique.
+- prendre les mesures appropriées pour que seules les personnes qui ont reçu des instructions adéquates puissent accéder aux zones de risque grave et spécifique.
 
 (1.13.04)
 
@@ -682,15 +682,15 @@ Dans des cas spéciaux, dans des établissements de plus grande taille, en cas d
 
 Le comité est consulté au préalable et en temps utile par le responsable sur:
 
-1. toute action qui peut avoir des effets substantiels sur la sécurité et la protection de la santé;
+- toute action qui peut avoir des effets substantiels sur la sécurité et la protection de la santé;
 
-2. la désignation des délégués à la sécurité et des membres des équipes de sécurité, ainsi que sur les activités de protection et les activités de prévention à mettre en oeuvre au sens du présent règlement;
+- la désignation des délégués à la sécurité et des membres des équipes de sécurité, ainsi que sur les activités de protection et les activités de prévention à mettre en oeuvre au sens du présent règlement;
 
-3. l’évaluation des risques, les mesures de protection, la liste des accidents et les rapports concernant ces accidents aux sens des spécifications afférentes de l’article 7 de la loi, de même que sur l’information du personnel au sens de l’article 1.19. ci-après;
+- l’évaluation des risques, les mesures de protection, la liste des accidents et les rapports concernant ces accidents aux sens des spécifications afférentes de l’article 7 de la loi, de même que sur l’information du personnel au sens de l’article 1.19. ci-après;
 
-4. l’appel, prévu aux paragraphes (1.16.01) et (1.16.02) ci-dessus, le cas échéant, à des compétences (personnes ou services) extérieures à l’établissement;
+- l’appel, prévu aux paragraphes (1.16.01) et (1.16.02) ci-dessus, le cas échéant, à des compétences (personnes ou services) extérieures à l’établissement;
 
-5. la conception et l’organisation de la formation du personnel prévues à l’article 1.20. ci-dessous.
+- la conception et l’organisation de la formation du personnel prévues à l’article 1.20. ci-dessous.
 
 (1.18.04)
 
@@ -712,17 +712,17 @@ Les charges du comité local peuvent être assumées par un autre organe consult
 
 Sans préjudice de ses droits de consultation spécifiés au paragraphe (1.18.03) ci-dessus, le comité local peut se charger de missions en rapport avec notamment:
 
-1. la surveillance générale des dispositions légales et réglementaires en vigueur;
+- la surveillance générale des dispositions légales et réglementaires en vigueur;
 
-2. le dépouillement des déclarations d’accidents et des rapports d’enquêtes ainsi que l’élaboration des conclusions à tirer de ces rapports;
+- le dépouillement des déclarations d’accidents et des rapports d’enquêtes ainsi que l’élaboration des conclusions à tirer de ces rapports;
 
-3. le soutien du responsable, du délégué et des membres de l’équipe de sécurité dans l’accomplissement de leurs missions;
+- le soutien du responsable, du délégué et des membres de l’équipe de sécurité dans l’accomplissement de leurs missions;
 
-4. le dépouillement des doléances et réclamations, leur évaluation et leur reprise dans la liste des priorités et urgences;
+- le dépouillement des doléances et réclamations, leur évaluation et leur reprise dans la liste des priorités et urgences;
 
-5. l’avis sur la liste des priorités et urgences;
+- l’avis sur la liste des priorités et urgences;
 
-6. l’avis sur les propositions budgétaires intéressant la sécurité.
+- l’avis sur les propositions budgétaires intéressant la sécurité.
 
 (1.18.09)
 
@@ -759,9 +759,9 @@ Information du personnel
 
 Le responsable prend les mesures appropriées pour que les membres du personnel et/ou leurs représentants dans l’établissement reçoivent, tout en tenant compte en particulier de la taille de l’établissement,toutes les informations nécessaires concernant:
 
-1. les risques pour la sécurité et la santé ainsi que les mesures et activités de protection et de prévention concernant tant l’établissement en général que chaque type de poste de travail et/ou de fonction;
+- les risques pour la sécurité et la santé ainsi que les mesures et activités de protection et de prévention concernant tant l’établissement en général que chaque type de poste de travail et/ou de fonction;
 
-2. les mesures prises conformément aux dispositions du présent règlement et en particulier aux dispositions matérielles/techniques et d’organisation en rapport avec les premiers secours, la lutte contre l’incendie et l’évacuation rapide, facile et sûre des personnes en cas de danger.
+- les mesures prises conformément aux dispositions du présent règlement et en particulier aux dispositions matérielles/techniques et d’organisation en rapport avec les premiers secours, la lutte contre l’incendie et l’évacuation rapide, facile et sûre des personnes en cas de danger.
 
 (1.19.02)
 
@@ -771,21 +771,21 @@ Le responsable prend les mesures appropriées pour que les employeurs des travai
 
 Le responsable prend les mesures appropriées pour que les délégués à la sécurité, les membres des comités locaux de sécurité et les membres des équipes de sécurité, aient accès, pour l’accomplissement de leur fonction et conformément aux besoins spécifiques de l’établissement:
 
-1. à l’évaluation des risques et aux mesures de protection à mettre en oeuvre par le responsable au sens de l’article 7 de la loi ainsi qu’au sens des articles 1.11., 1.12. et 1.13. du présent règlement;
+- à l’évaluation des risques et aux mesures de protection à mettre en oeuvre par le responsable au sens de l’article 7 de la loi ainsi qu’au sens des articles 1.11., 1.12. et 1.13. du présent règlement;
 
-2. à la liste des accidents et aux rapports sur ces accidents à tenir et à établir au sens de l’article 7 de la loi et au sens de l’article 1.13. du présent règlement;
+- à la liste des accidents et aux rapports sur ces accidents à tenir et à établir au sens de l’article 7 de la loi et au sens de l’article 1.13. du présent règlement;
 
-3. à l’information provenant tant des activités de protection et de prévention que des services de l’inspecteur et des experts et organismes agréés.
+- à l’information provenant tant des activités de protection et de prévention que des services de l’inspecteur et des experts et organismes agréés.
 
 (1.19.04)
 
 Le responsable doit:
 
-1. informer le plus tôt possible tous les membres du personnel et toutes les autres personnes qui sont ou qui peuvent être exposés à un risque de danger grave et immédiat sur ce risque et sur les dispositions prises ou à prendre en matière de protection;
+- informer le plus tôt possible tous les membres du personnel et toutes les autres personnes qui sont ou qui peuvent être exposés à un risque de danger grave et immédiat sur ce risque et sur les dispositions prises ou à prendre en matière de protection;
 
-2. prendre des mesures et donner des instructions pour permettre aux membres du personnel et à toutes les autres personnes éventuellement exposées, en cas de danger grave, immédiat et qui ne peut être évité, d’arrêter leur activité et/ou de se mettre en sécurité en quittant immédiatement le lieu de travail;
+- prendre des mesures et donner des instructions pour permettre aux membres du personnel et à toutes les autres personnes éventuellement exposées, en cas de danger grave, immédiat et qui ne peut être évité, d’arrêter leur activité et/ou de se mettre en sécurité en quittant immédiatement le lieu de travail;
 
-3. sauf exception dûment motivée, s’abstenir de demander aux membres du personnel et à toutes les autres personnes éventuellement exposées, de reprendre leur activité dans une situation où persiste un danger grave et immédiat.
+- sauf exception dûment motivée, s’abstenir de demander aux membres du personnel et à toutes les autres personnes éventuellement exposées, de reprendre leur activité dans une situation où persiste un danger grave et immédiat.
 
 <a id="art-1-20"></a>
 ## Art. 1.20.
@@ -843,17 +843,17 @@ Il incombe à chaque membre du personnel de prendre soin, selon ses possibilité
 
 Afin de réaliser ces objectifs, les membres du personnel doivent en particulier, conformément à leur formation et aux instructions du responsable notamment:
 
-1. utiliser correctement les machines, appareils, outils, substances dangereuses, équipements de transport et autres moyens;
+- utiliser correctement les machines, appareils, outils, substances dangereuses, équipements de transport et autres moyens;
 
-2. utiliser correctement l’équipement de protection individuelle mis à leur disposition et, après utilisation, le ranger à sa place;
+- utiliser correctement l’équipement de protection individuelle mis à leur disposition et, après utilisation, le ranger à sa place;
 
-3. ne pas mettre hors service, changer ou déplacer arbitrairement les dispositifs de sécurité propres notamment aux machines, appareils, outils, installations et bâtiments, et utiliser de tels dispositifs de sécurité correctement;
+- ne pas mettre hors service, changer ou déplacer arbitrairement les dispositifs de sécurité propres notamment aux machines, appareils, outils, installations et bâtiments, et utiliser de tels dispositifs de sécurité correctement;
 
-4. signaler immédiatement, au responsable, au délégué ou à une autre personne prédésignée à cette fin, toute situation de travail dont ils ont un motif raisonnable de penser qu’elle présente un danger grave et immédiat pour la sécurité et la santé ainsi que toute défectuosité constatée dans les systèmes de protection;
+- signaler immédiatement, au responsable, au délégué ou à une autre personne prédésignée à cette fin, toute situation de travail dont ils ont un motif raisonnable de penser qu’elle présente un danger grave et immédiat pour la sécurité et la santé ainsi que toute défectuosité constatée dans les systèmes de protection;
 
-5. concourir, avec le responsable, avec le délégué et avec les autres personnes prédésignées à cette fin, aussi longtemps que nécessaire, pour permettre l’accomplissement de toutes les tâches ou exigences imposées par le présent règlement et par les règles de l’art afin de protéger la sécurité et la santé des travailleurs au travail;
+- concourir, avec le responsable, avec le délégué et avec les autres personnes prédésignées à cette fin, aussi longtemps que nécessaire, pour permettre l’accomplissement de toutes les tâches ou exigences imposées par le présent règlement et par les règles de l’art afin de protéger la sécurité et la santé des travailleurs au travail;
 
-6. concourir, avec le responsable, avec le délégué et avec les autres personnes prédésignées à cette fin, aussi longtemps que nécessaire, pour permettre au responsable d’assurer que le milieu et les conditions de travail sont sûrs et sans risques pour la sécurité et la santé à l’intérieur de leur champ d’activité.
+- concourir, avec le responsable, avec le délégué et avec les autres personnes prédésignées à cette fin, aussi longtemps que nécessaire, pour permettre au responsable d’assurer que le milieu et les conditions de travail sont sûrs et sans risques pour la sécurité et la santé à l’intérieur de leur champ d’activité.
 
 <a id="art-1-22"></a>
 ## Art. 1.22.
@@ -4085,13 +4085,13 @@ Les lieux de travail à l’air libre doivent être éclairés suffisamment à l
 
 Si des membres du personnel sont employés à des postes de travail extérieurs, ces derniers doivent être, dans la mesure du possible, aménagés de telle façon que ces personnes:
 
-1. soient protégées contre les influences atmosphériques et, si nécessaire, contre la chute d’objets;
+- soient protégées contre les influences atmosphériques et, si nécessaire, contre la chute d’objets;
 
-2. ne soient pas exposées à des niveaux sonores nocifs ni à une influence extérieure nocive, en l’occurrence à des gaz, vapeurs ou poussières;
+- ne soient pas exposées à des niveaux sonores nocifs ni à une influence extérieure nocive, en l’occurrence à des gaz, vapeurs ou poussières;
 
-3. puissent rapidement quitter leur poste de travail en cas de danger ou puissent rapidement être secourues;
+- puissent rapidement quitter leur poste de travail en cas de danger ou puissent rapidement être secourues;
 
-4. ne puissent glisser ou chuter.
+- ne puissent glisser ou chuter.
 
 #### Chapitre 14. Sécurité dans les laboratoires et les ateliers, Sécurité du travail
 
@@ -4386,13 +4386,13 @@ Un équipement de protection individuelle doit être conforme aux dispositions, 
 
 Dans tous les cas, un équipement de protection individuelle doit:
 
-1. être approprié par rapport aux risques à prévenir, sans induire lui-même un risque accru;
+- être approprié par rapport aux risques à prévenir, sans induire lui-même un risque accru;
 
-2. répondre aux conditions existant sur le lieu de travail;
+- répondre aux conditions existant sur le lieu de travail;
 
-3. tenir compte des exigences ergonomiques et de santé du travailleur;
+- tenir compte des exigences ergonomiques et de santé du travailleur;
 
-4. convenir au porteur, après tout ajustement nécessaire.
+- convenir au porteur, après tout ajustement nécessaire.
 
 (14.9.05)
 
@@ -4410,11 +4410,11 @@ Avant le choix d’un équipement de protection individuelle, le responsable est
 
 Cette appréciation comprend:
 
-1. l’analyse et l’évaluation des risques qui ne peuvent pas être évités par d’autres moyens;
+- l’analyse et l’évaluation des risques qui ne peuvent pas être évités par d’autres moyens;
 
-2. la définition des caractéristiques nécessaires pour que les équipements de protection individuelle répondent aux risques visés au point a), compte tenu des éventuelles sources de risques que peuvent constituer les équipements de protection individuelle;
+- la définition des caractéristiques nécessaires pour que les équipements de protection individuelle répondent aux risques visés au point a), compte tenu des éventuelles sources de risques que peuvent constituer les équipements de protection individuelle;
 
-3. l’évaluation des caractéristiques des équipements de protection individuelle concernés qui sont disponibles, en comparaison avec les caractéristiques visées au point b).
+- l’évaluation des caractéristiques des équipements de protection individuelle concernés qui sont disponibles, en comparaison avec les caractéristiques visées au point b).
 
 L’appréciation ci-dessus doit être revue en fonction des changements intervenant dans les éléments qui la composent.
 
@@ -4722,9 +4722,9 @@ Lorsque la nécessité d’une manutention manuelle de charges ne peut être év
 
 Dans tous les cas où la nécessité d’une manutention manuelle de charges par le personnel ne peut être évitée, le responsable organise les postes de travail de telle façon que cette manutention soit la plus sûre et la plus saine possible, et:
 
-1. évalue, si possible préalablement, les conditions de sécurité et de santé pour le type de travail concerné, en considérant notamment les caractéristiques de la charge;
+- évalue, si possible préalablement, les conditions de sécurité et de santé pour le type de travail concerné, en considérant notamment les caractéristiques de la charge;
 
-2. veille à éviter ou à réduire les risques notamment dorso-lombaires des personnes en prenant les mesures appropriées, en considérant notamment les caractéristiques du milieu de travail et les exigences de l’activité.
+- veille à éviter ou à réduire les risques notamment dorso-lombaires des personnes en prenant les mesures appropriées, en considérant notamment les caractéristiques du milieu de travail et les exigences de l’activité.
 
 (14.19.05)
 
@@ -4797,15 +4797,15 @@ Il s’appuie sur les normes et règles de l’art au sens de l’article 1.3. c
 
 Pour l’élaboration, le choix, l’achat et la modification de logiciels ainsi que pour la définition des tâches impliquant l’utilisation d’écrans de visualisation, le responsable tiendra compte des facteurs suivants:
 
-1. le logiciel doit être adapté à la tâche à exécuter;
+- le logiciel doit être adapté à la tâche à exécuter;
 
-2. le logiciel doit être d’un usage facile et doit, le cas échéant, pouvoir être adapté au niveau de connaissance et d’expérience de l’utilisateur; aucun dispositif de contrôle quantitatif ou qualitatif ne peut être utilisé à l’insu des membres du personnel;
+- le logiciel doit être d’un usage facile et doit, le cas échéant, pouvoir être adapté au niveau de connaissance et d’expérience de l’utilisateur; aucun dispositif de contrôle quantitatif ou qualitatif ne peut être utilisé à l’insu des membres du personnel;
 
-3. les systèmes doivent fournir aux membres du personnel des indications sur leur déroulement;
+- les systèmes doivent fournir aux membres du personnel des indications sur leur déroulement;
 
-4. les systèmes doivent afficher l’information dans un format et à un rythme adaptés aux opérateurs;
+- les systèmes doivent afficher l’information dans un format et à un rythme adaptés aux opérateurs;
 
-5. les principes d’ergonomie doivent être appliqués en particulier au traitement de l’information par l’homme.
+- les principes d’ergonomie doivent être appliqués en particulier au traitement de l’information par l’homme.
 
 <a id="art-14-21"></a>
 ## Art. 14.21.
@@ -4852,49 +4852,49 @@ Si l’application d’un système clos n’est pas techniquement possible, le r
 
 Dans tous les cas d’utilisation d’un agent cancérigène, le responsable applique toutes les mesures suivantes:
 
-1. la limitation des quantités d’un agent cancérigène sur le lieu de travail;
+- la limitation des quantités d’un agent cancérigène sur le lieu de travail;
 
-2. la limitation, au niveau le plus bas possible, du nombre de personnes exposées ou susceptibles de l’être;
+- la limitation, au niveau le plus bas possible, du nombre de personnes exposées ou susceptibles de l’être;
 
-3. la conception des processus de travail et des mesures techniques, l’objectifétant d’éviter ou de minimiser le dégagement d’agents cancérigènes dans le lieu de travail;
+- la conception des processus de travail et des mesures techniques, l’objectifétant d’éviter ou de minimiser le dégagement d’agents cancérigènes dans le lieu de travail;
 
-4. l’évacuation des agents cancérigènes à la source, l’aspiration locale ou la ventilation générale appropriées compatibles avec le besoin de protéger la santé publique et l’environnement;
+- l’évacuation des agents cancérigènes à la source, l’aspiration locale ou la ventilation générale appropriées compatibles avec le besoin de protéger la santé publique et l’environnement;
 
-5. l’utilisation de méthodes existantes appropriées de mesure des agents cancérigènes, en particulier pour la détection précoce des expositions anormales résultant d’un événement imprévisible ou d’un accident;
+- l’utilisation de méthodes existantes appropriées de mesure des agents cancérigènes, en particulier pour la détection précoce des expositions anormales résultant d’un événement imprévisible ou d’un accident;
 
-6. l’application de procédures et de méthodes de travail appropriées;
+- l’application de procédures et de méthodes de travail appropriées;
 
-7. des mesures de protection collectives et/ou, lorsque l’exposition ne peut être évitée par d’autres moyens, des mesures de protection individuelle;
+- des mesures de protection collectives et/ou, lorsque l’exposition ne peut être évitée par d’autres moyens, des mesures de protection individuelle;
 
-8. des mesures d’hygiène, notamment de nettoyage régulier des sols, murs et autres surfaces;
+- des mesures d’hygiène, notamment de nettoyage régulier des sols, murs et autres surfaces;
 
-9. l’information des personnes;
+- l’information des personnes;
 
-10. la délimitation des zones à risque et l’utilisation de signaux adéquats d’avertissement et de sécurité, y compris les signaux «défense de fumer» dans les zones où les personnes sont exposées ou susceptibles d’être exposées à des agents cancérigènes;
+- la délimitation des zones à risque et l’utilisation de signaux adéquats d’avertissement et de sécurité, y compris les signaux «défense de fumer» dans les zones où les personnes sont exposées ou susceptibles d’être exposées à des agents cancérigènes;
 
-11. la mise en place des dispositifs pour les cas d’urgence susceptibles d’entraîner des expositions anormalement élevées;
+- la mise en place des dispositifs pour les cas d’urgence susceptibles d’entraîner des expositions anormalement élevées;
 
-12. les moyens permettant le stockage, la manipulation et le transport sans risque, notamment par l’emploi de récipients hermétiques et étiquetés de manière claire, nette et visible;
+- les moyens permettant le stockage, la manipulation et le transport sans risque, notamment par l’emploi de récipients hermétiques et étiquetés de manière claire, nette et visible;
 
-13. les moyens permettant la collecte, le stockage et l’évacuation sûrs des déchets par les personnes concernées, y compris l’utilisation de récipients hermétiques étiquetés de manière claire, nette et visible.
+- les moyens permettant la collecte, le stockage et l’évacuation sûrs des déchets par les personnes concernées, y compris l’utilisation de récipients hermétiques étiquetés de manière claire, nette et visible.
 
 (14.21.08)
 
 Si les résultats de l’appréciation visée au paragraphe (14.21.03) ci-dessus révèlent un risque concernant la sécurité ou la santé des personnes, le responsable met à la disposition de l’inspecteur, sur demande, des informations appropriées sur:
 
-1. les activités et/ou les procédés mis en oeuvre, y compris les raisons pour lesquelles des agents cancérigènes sont utilisés;
+- les activités et/ou les procédés mis en oeuvre, y compris les raisons pour lesquelles des agents cancérigènes sont utilisés;
 
-2. les quantités fabriquées ou utilisées de substances ou préparations qui contiennent des agents cancérigènes;
+- les quantités fabriquées ou utilisées de substances ou préparations qui contiennent des agents cancérigènes;
 
-3. le nombre de personnes exposées;
+- le nombre de personnes exposées;
 
-4. les mesures de prévention prises;
+- les mesures de prévention prises;
 
-5. le type d’équipement de protection à utiliser;
+- le type d’équipement de protection à utiliser;
 
-6. la nature et le degré de l’exposition;
+- la nature et le degré de l’exposition;
 
-7. le cas de substitution.
+- le cas de substitution.
 
 (14.21.09)
 
@@ -4902,11 +4902,11 @@ En cas d’événements imprévisibles ou d’accidents susceptibles d’entraî
 
 Jusqu’au rétablissement normal de la situation et tant que les causes de l’exposition anormale ne sont pas éliminées:
 
-1. seules les personnes indispensables pour l’exécution des réparations et d’autres travaux nécessaires sont autorisées à travailler dans la zone touchée;
+- seules les personnes indispensables pour l’exécution des réparations et d’autres travaux nécessaires sont autorisées à travailler dans la zone touchée;
 
-2. un vêtement de protection et un équipement individuel de protection respiratoire sont mis à la disposition des personnes concernées et doivent être portés par celles-ci; l’exposition ne peut pas être permanente et est limitée au strict nécessaire pour chaque membre du personnel concerné;
+- un vêtement de protection et un équipement individuel de protection respiratoire sont mis à la disposition des personnes concernées et doivent être portés par celles-ci; l’exposition ne peut pas être permanente et est limitée au strict nécessaire pour chaque membre du personnel concerné;
 
-3. les personnes non protégées ne sont pas autorisées à travailler dans la zone touchée.
+- les personnes non protégées ne sont pas autorisées à travailler dans la zone touchée.
 
 (14.21.10)
 
@@ -4926,27 +4926,27 @@ Les mesures appropriées sont prises parles responsables pour que les zones où 
 
 Les responsables sont tenus, pour toutes les activités pour lesquelles il existe un risque de contamination par des agents cancérigènes, de prendre des mesures appropriées aux fins suivantes:
 
-1. faire en sorte que les personnes exposées ne mangent pas, ne boivent pas et ne fument pas dans les zones de travail où il existe un risque de contamination par des agents cancérigènes;
+- faire en sorte que les personnes exposées ne mangent pas, ne boivent pas et ne fument pas dans les zones de travail où il existe un risque de contamination par des agents cancérigènes;
 
-2. fournir aux personnes concernées des vêtements de protection appropriés ou d’autres vêtements particuliers appropriés; prévoir des emplacements séparés pour le rangement des vêtements de travail ou de protection, d’une part, et des vêtements de ville, d’autre part;
+- fournir aux personnes concernées des vêtements de protection appropriés ou d’autres vêtements particuliers appropriés; prévoir des emplacements séparés pour le rangement des vêtements de travail ou de protection, d’une part, et des vêtements de ville, d’autre part;
 
-3. mettre à la disposition des personnes des sanitaires et des salles d’eau appropriés et adéquats;
+- mettre à la disposition des personnes des sanitaires et des salles d’eau appropriés et adéquats;
 
-4. placer correctement les équipements de protection dans un endroit déterminé; vérifier et nettoyer ceux-ci si possible avant et, en tout cas, après chaque utilisation; réparer ou remplacer les équipements défectueux avant une nouvelle utilisation. Le coût de ces mesures ne peut pas être mis à la charge des membres du personnel.
+- placer correctement les équipements de protection dans un endroit déterminé; vérifier et nettoyer ceux-ci si possible avant et, en tout cas, après chaque utilisation; réparer ou remplacer les équipements défectueux avant une nouvelle utilisation. Le coût de ces mesures ne peut pas être mis à la charge des membres du personnel.
 
 (14.21.14)
 
 Le responsable prend les mesures appropriées pour que les membres du personnel et/ou leurs représentants dans l’établissement reçoivent une formation à la fois suffisante et adéquate, sur la base de tous renseignements disponibles, notamment sous forme d’informations et d’instructions, concernant:
 
-1. les risques potentiels pour la santé, y compris les risques additionnels dus à la consommation du tabac;
+- les risques potentiels pour la santé, y compris les risques additionnels dus à la consommation du tabac;
 
-2. les précautions à prendre pour prévenir l’exposition;
+- les précautions à prendre pour prévenir l’exposition;
 
-3. les prescriptions en matière d’hygiène;
+- les prescriptions en matière d’hygiène;
 
-4. le port et l’emploi des équipements et des vêtements de protection;
+- le port et l’emploi des équipements et des vêtements de protection;
 
-5. les mesures à prendre par les membres du personnel, notamment par le personnel d’intervention, en cas d’incident et pour la prévention d’incidents.
+- les mesures à prendre par les membres du personnel, notamment par le personnel d’intervention, en cas d’incident et pour la prévention d’incidents.
 
 (14.21.15)
 
@@ -4964,21 +4964,21 @@ Les responsables sont tenus d’informer les personnes concernées sur les insta
 
 Des mesures appropriées doivent être prises pour assurer que:
 
-1. les membres du personnel et/ou leurs représentants dans l’établissement peuvent vérifier que les dispositions du présent règlement sont appliquées, ou peuvent être associées à cette application, en ce qui concerne notamment:
+- les membres du personnel et/ou leurs représentants dans l’établissement peuvent vérifier que les dispositions du présent règlement sont appliquées, ou peuvent être associées à cette application, en ce qui concerne notamment:
 
-1. les conséquences sur la sécurité et la santé des personnes exposées, liées aux choix, au port et à l’utilisation des vêtements et des équipements de protection, sans préjudice des obligations du responsable pour déterminer l’efficacité des vêtements et des équipements de protection;
+  - les conséquences sur la sécurité et la santé des personnes exposées, liées aux choix, au port et à l’utilisation des vêtements et des équipements de protection, sans préjudice des obligations du responsable pour déterminer l’efficacité des vêtements et des équipements de protection;
 
-2. les mesures déterminées sur la base des dispositions du paragraphe (14.21.09) ci-dessus, sans préjudice des obligations du responsable pour déterminer ces mesures;
+  - les mesures déterminées sur la base des dispositions du paragraphe (14.21.09) ci-dessus, sans préjudice des obligations du responsable pour déterminer ces mesures;
 
-2. les membres du personnel et/ou leurs représentants dans l’établissement sont informés le plus rapidement possible d’expositions anormales, y compris celles visées au paragraphe (14.21.09) ci-dessus, de leurs causes et des mesures prises ou à prendre pour remédier à la situation;
+- les membres du personnel et/ou leurs représentants dans l’établissement sont informés le plus rapidement possible d’expositions anormales, y compris celles visées au paragraphe (14.21.09) ci-dessus, de leurs causes et des mesures prises ou à prendre pour remédier à la situation;
 
-3. le responsable tient une liste actualisée des membres du personnel employés aux activités au sujet desquelles les résultats de l’appréciation visée au paragraphe (14.21.03) ci-dessus révèlent un risque concernant la sécurité ou la santé des personnes avec indication, si cette information est disponible, de l’exposition à laquelle elles ont été soumises;
+- le responsable tient une liste actualisée des membres du personnel employés aux activités au sujet desquelles les résultats de l’appréciation visée au paragraphe (14.21.03) ci-dessus révèlent un risque concernant la sécurité ou la santé des personnes avec indication, si cette information est disponible, de l’exposition à laquelle elles ont été soumises;
 
-4. les personnes responsables de la sécurité ou de la santé sur le lieu de travail ont accès à la liste visée au point c);
+- les personnes responsables de la sécurité ou de la santé sur le lieu de travail ont accès à la liste visée au point c);
 
-5. chaque membre du personnel a accès aux informations contenues dans la liste et le concernant personnellement;
+- chaque membre du personnel a accès aux informations contenues dans la liste et le concernant personnellement;
 
-6. les membres du personnel et/ou leurs représentant dans l’établissement ont accès aux informations collectives anonymes.
+- les membres du personnel et/ou leurs représentant dans l’établissement ont accès aux informations collectives anonymes.
 
 (14.21.18)
 
@@ -5009,13 +5009,13 @@ On entend par «agents biologiques», les micro-organismes, y compris les micro-
 
 Les agents biologiques sont classés en quatre groupes de risque en fonction de l’importance du risque d’infection qu’ils présentent:
 
-1. un agent biologique du groupe 1 n’est pas susceptible de provoquer une maladie chez l’homme;
+- un agent biologique du groupe 1 n’est pas susceptible de provoquer une maladie chez l’homme;
 
-2. un agent biologique du groupe 2 peut provoquer une maladie chez l’homme et constituer un danger pour les membres du personnel; sa propagation dans la collectivité est improbable; il existe généralement une prophylaxie ou un traitement efficace;
+- un agent biologique du groupe 2 peut provoquer une maladie chez l’homme et constituer un danger pour les membres du personnel; sa propagation dans la collectivité est improbable; il existe généralement une prophylaxie ou un traitement efficace;
 
-3. un agent biologique du groupe 3 peut provoquer une maladie grave chez l’homme et constituer un danger sérieux pour les membres du personnel; il peut présenter un risque de propagation dans la collectivité, mais il existe généralement une prophylaxie ou un traitement efficace;
+- un agent biologique du groupe 3 peut provoquer une maladie grave chez l’homme et constituer un danger sérieux pour les membres du personnel; il peut présenter un risque de propagation dans la collectivité, mais il existe généralement une prophylaxie ou un traitement efficace;
 
-4. un agent biologique du groupe 4 provoque des maladies graves chez l’homme et constitue un danger sérieux pour les membres du personnel; il peut présenter un risque élevé de propagation dans la collectivité; il n’existe généralement pas de prophylaxie ni de traitement efficace.
+- un agent biologique du groupe 4 provoque des maladies graves chez l’homme et constitue un danger sérieux pour les membres du personnel; il peut présenter un risque élevé de propagation dans la collectivité; il n’existe généralement pas de prophylaxie ni de traitement efficace.
 
 (14.22.04)
 
@@ -5041,23 +5041,23 @@ Si les résultats de l’évaluation visée au paragraphe (14.22.04) ci-dessus r
 
 Quand cela n’est pas techniquement faisable, compte tenu de l’activité et de l’évaluation du risque visée au paragraphe (14.22.04) le risque d’exposition doit être réduit à un niveau suffisamment bas pour protéger de manière adéquate la santé et la sécurité des personnes concernées, en particulier par l’application, à la lumière du résultat de l’évaluation visée au paragraphe (14.22.04) ci-dessus, des mesures suivantes:
 
-1. la limitation, au niveau le plus bas possible, du nombre d’opérateurs exposés ou susceptibles de l’être;
+- la limitation, au niveau le plus bas possible, du nombre d’opérateurs exposés ou susceptibles de l’être;
 
-2. une conception des processus de travail et des mesures de contrôle technique visant à éviter ou à minimiser la dissémination d’agents biologiques sur le lieu de travail;
+- une conception des processus de travail et des mesures de contrôle technique visant à éviter ou à minimiser la dissémination d’agents biologiques sur le lieu de travail;
 
-3. des mesures de protection collective et/ou, lorsque l’exposition ne peut être évitée par d’autres moyens, des mesures de protection individuelle;
+- des mesures de protection collective et/ou, lorsque l’exposition ne peut être évitée par d’autres moyens, des mesures de protection individuelle;
 
-4. des mesures d’hygiène compatibles avec l’objectif de prévention ou de réduction du transport ou du rejet accidentel d’un agent biologique hors du lieu de travail;
+- des mesures d’hygiène compatibles avec l’objectif de prévention ou de réduction du transport ou du rejet accidentel d’un agent biologique hors du lieu de travail;
 
-5. l’utilisation des panneaux signalant les risques biologiques et d’autres signaux avertisseurs pertinents;
+- l’utilisation des panneaux signalant les risques biologiques et d’autres signaux avertisseurs pertinents;
 
-6. l’établissement de plans à mettre en oeuvre en cas d’accidents mettant en jeu des agents biologiques;
+- l’établissement de plans à mettre en oeuvre en cas d’accidents mettant en jeu des agents biologiques;
 
-7. la détection, si elle est nécessaire et techniquement possible, de la présence, en dehors du confinement physique primaire, d’agents biologiques utilisés au travail;
+- la détection, si elle est nécessaire et techniquement possible, de la présence, en dehors du confinement physique primaire, d’agents biologiques utilisés au travail;
 
-8. les moyens permettant, en toute sécurité et, le cas échéant, après un traitement approprié, la collecte, le stockage et l’élimination des déchets par le personnel, y compris l’utilisation de récipients sûrs et indentifiables;
+- les moyens permettant, en toute sécurité et, le cas échéant, après un traitement approprié, la collecte, le stockage et l’élimination des déchets par le personnel, y compris l’utilisation de récipients sûrs et indentifiables;
 
-9. des mesures permettant, sur le lieu de travail, de manipuler et de transporter sans risque des agents biologiques.
+- des mesures permettant, sur le lieu de travail, de manipuler et de transporter sans risque des agents biologiques.
 
 (14.22.09)
 
@@ -5083,21 +5083,21 @@ Le responsable doit informer immédiatement les autorités compétentes de tout 
 
 Le responsable est tenu, pour toutes les activités mettant en jeu des agents biologiques qui constituent un risque pour la sécurité ou la santé des personnes, de prendre des mesures appropriées aux fins suivantes:
 
-1. faire en sorte que les personnes exposées ne mangent ni ne boivent dans les zones de travail où existe un risque de contamination par des agents biologiques;
+- faire en sorte que les personnes exposées ne mangent ni ne boivent dans les zones de travail où existe un risque de contamination par des agents biologiques;
 
-2. fournir aux personnes concernées des vêtements de protection appropriés ou d’autres vêtements particuliers appropriés;
+- fournir aux personnes concernées des vêtements de protection appropriés ou d’autres vêtements particuliers appropriés;
 
-3. mettre à la disposition des personnes des sanitaires et des salles d’eau appropriés et adéquats, pouvant comprendre des gouttes pour les yeux et/ou des antiseptiques pour la peau;
+- mettre à la disposition des personnes des sanitaires et des salles d’eau appropriés et adéquats, pouvant comprendre des gouttes pour les yeux et/ou des antiseptiques pour la peau;
 
-4. faire en sorte que tout équipement de protection nécessaire soit:
+- faire en sorte que tout équipement de protection nécessaire soit:
 
-- placé correctement dans un endroit déterminé,
+  - placé correctement dans un endroit déterminé,
 
-- vérifié et nettoyé si possible avant et, en tout cas, après chaque utilisation,
+  - vérifié et nettoyé si possible avant et, en tout cas, après chaque utilisation,
 
-- réparé ou remplacé avant une nouvelle utilisation, s’il est défectueux;
+  - réparé ou remplacé avant une nouvelle utilisation, s’il est défectueux;
 
-5. mettre au point des procédures concernant la prise, la manipulation et le traitement d’échantillons d’origine humaine ou animale.
+- mettre au point des procédures concernant la prise, la manipulation et le traitement d’échantillons d’origine humaine ou animale.
 
 Les vêtements de travail et les équipements de protection, y compris les vêtements de protection visés au point b) ci-dessus, qui peuvent être contaminés par des agents biologiques doivent être enlevés lorsque la personne concernée quitte la zone de travail et, avant que les mesures prévues à l’alinéa ci-dessous ne soient prises, rangés à l’écart des autres vêtements.
 
@@ -5109,13 +5109,13 @@ Il n’est pas permis d’imputer au personnel le coût des mesures prises en ap
 
 Sans préjudice des dispositions des articles 1.19. et 1.20. concernant respectivement l’information et la formation du personnel, le responsable prend les mesures appropriées pour que le personnel et/ou ses représentants dans l’établissement reçoivent, notamment sous forme d’informations et d’instructions, une formation suffisante et adéquate, se fondant sur tous les renseignements disponibles, concernant:
 
-1. les risques éventuels pour la santé;
+- les risques éventuels pour la santé;
 
-2. les précautions à prendre pour éviter l’exposition;
+- les précautions à prendre pour éviter l’exposition;
 
-3. les prescriptions en matière d’hygiène;
+- les prescriptions en matière d’hygiène;
 
-4. le ports et l’emploi des équipements et des vêtements de protection; e)les mesures que le personnel doit prendre en cas d’incident et pour prévenir les incidents.
+- le ports et l’emploi des équipements et des vêtements de protection; e)les mesures que le personnel doit prendre en cas d’incident et pour prévenir les incidents.
 
 Cette formation doit être dispensée lorsque la personne exposée commence à exercer une activité impliquant le contact avec des agents biologiques. Elle doit être adaptée à l’apparition de risques nouveaux ou à l’évolution des risques et elle doit être répétée périodiquement si nécessaire.
 
@@ -5171,15 +5171,15 @@ Une nouvelle notification doit être effectuée chaque fois que les procédés e
 
 La notification visée au présent paragraphe contient:
 
-1. le nom et l’adresse de l’établissement;
+- le nom et l’adresse de l’établissement;
 
-2. le nom et les compétences de la personne responsable de la sécurité et de la santé sur le lieu de travail;
+- le nom et les compétences de la personne responsable de la sécurité et de la santé sur le lieu de travail;
 
-3. le résultat de l’évaluation visée au paragraphe (14.22.04) ci-dessus;
+- le résultat de l’évaluation visée au paragraphe (14.22.04) ci-dessus;
 
-4. l’espèce de l’agent biologique;
+- l’espèce de l’agent biologique;
 
-5. les mesures de protection et de prévention envisagées.
+- les mesures de protection et de prévention envisagées.
 
 (14.22.20)
 
@@ -5210,11 +5210,11 @@ En cas de travaux dans des canaux, citernes ou puits en présence d’un manque 
 
 Sans préjudice du respect strict des règles de l’art et des autres prescriptions du présent règlement, chaque travailleur doit en plus, conformément à sa formation et aux instructions du responsable:
 
-1. s’abstenir de commencer des travaux à risques particuliers avant d’avoir rempli toutes les conditions prévues aux permis et autorisations respectivement de travail et de feu et avant d’avoir reçu un ordre formel de la part de ses supérieurs;
+- s’abstenir de commencer des travaux à risques particuliers avant d’avoir rempli toutes les conditions prévues aux permis et autorisations respectivement de travail et de feu et avant d’avoir reçu un ordre formel de la part de ses supérieurs;
 
-2. respecter scrupuleusement les consignes de sécurité, d’hygiène et de santé prises et communiquées par le responsable;
+- respecter scrupuleusement les consignes de sécurité, d’hygiène et de santé prises et communiquées par le responsable;
 
-3. obtempérer immédiatement aux injonctions des supérieurs en matière d’évacuation d’un lieu dangereux, d’utilisation des moyens de protection, d’emploi des équipements auxiliaires, de manutention ou de manipulation correctes de même qu’en matière de tout autre ordre visant à éliminer ou à diminuer un risque.
+- obtempérer immédiatement aux injonctions des supérieurs en matière d’évacuation d’un lieu dangereux, d’utilisation des moyens de protection, d’emploi des équipements auxiliaires, de manutention ou de manipulation correctes de même qu’en matière de tout autre ordre visant à éliminer ou à diminuer un risque.
 
 <a id="art-14-24"></a>
 ## Art. 14.24.
@@ -6179,15 +6179,15 @@ Sans préjudice des autres dispositions du présent règlement et sans préjudic
 
 On entend par notamment:
 
-1. «chantier temporaire ou mobile», ci-après dénommé «chantier»: tout chantier où s’effectuent des travaux du bâtiment ou de génie civil;
+- «chantier temporaire ou mobile», ci-après dénommé «chantier»: tout chantier où s’effectuent des travaux du bâtiment ou de génie civil;
 
-2. «maître d’ouvrage»: toute personne physique ou morale pour le compte de laquelle un ouvrage est réalisé;
+- «maître d’ouvrage»: toute personne physique ou morale pour le compte de laquelle un ouvrage est réalisé;
 
-3. «maître d’oeuvre»: toute personne physique ou morale chargée de la conception et/ou de l’exécution et/ou du contrôle de l’exécution de l’ouvrage pour le compte du maître d’ouvrage;
+- «maître d’oeuvre»: toute personne physique ou morale chargée de la conception et/ou de l’exécution et/ou du contrôle de l’exécution de l’ouvrage pour le compte du maître d’ouvrage;
 
-4. «coordinateur en matière de sécurité et de santé pendant l’élaboration du projet de l’ouvrage»: toute personne physique ou morale chargée par le maître d’ouvrage et/ou le maître d’oeuvre d’exécuter, pendant l’élaboration du projet de l’ouvrage, les tâches visées à l’article 21.3. ci-après;
+- «coordinateur en matière de sécurité et de santé pendant l’élaboration du projet de l’ouvrage»: toute personne physique ou morale chargée par le maître d’ouvrage et/ou le maître d’oeuvre d’exécuter, pendant l’élaboration du projet de l’ouvrage, les tâches visées à l’article 21.3. ci-après;
 
-5. «coordinateur en matière de sécurité et de santé pendant la réalisation de l’ouvrage»: toute personne physique ou morale chargée par le maître d’ouvrage et/ou le maître d’oeuvre d’exécuter, pendant la réalisation de l’ouvrage, les tâches visées à l’article 21.4. ci-après.
+- «coordinateur en matière de sécurité et de santé pendant la réalisation de l’ouvrage»: toute personne physique ou morale chargée par le maître d’ouvrage et/ou le maître d’oeuvre d’exécuter, pendant la réalisation de l’ouvrage, les tâches visées à l’article 21.4. ci-après.
 
 <a id="art-21-2"></a>
 ## Art. 21.2.
@@ -6223,19 +6223,19 @@ Elaboration du projet de l’ouvrage: tâches des coordinateurs
 
 Le ou les coordinateurs en matière de sécurité et de santé pendant l’élaboration du projet de l’ouvrage:
 
-1. coordonnent la mise en oeuvre des dispositions concernant notamment:
+- coordonnent la mise en oeuvre des dispositions concernant notamment:
 
-- les principes généraux de prévention en matière de sécurité et de santé,
+  - les principes généraux de prévention en matière de sécurité et de santé,
 
-- le déroulement simultané ou successif des différents travaux,
+  - le déroulement simultané ou successif des différents travaux,
 
-- les choix architecturaux, techniques et/ou organisationnels,
+  - les choix architecturaux, techniques et/ou organisationnels,
 
-- la durée impartie à la réalisation des différents travaux et des différentes phases de travail;
+  - la durée impartie à la réalisation des différents travaux et des différentes phases de travail;
 
-2. établissent ou font établir un plan de sécurité et de santé précisant les règles applicables au chantier concerné, en tenant compte, le cas échéant, des activités d’exploitation ayant lieu sur le site; ce plan doit, en outre, comporter des mesures spécifiques concernant les travaux à risques accrus;
+- établissent ou font établir un plan de sécurité et de santé précisant les règles applicables au chantier concerné, en tenant compte, le cas échéant, des activités d’exploitation ayant lieu sur le site; ce plan doit, en outre, comporter des mesures spécifiques concernant les travaux à risques accrus;
 
-3. établissent un dossier adapté aux caractéristiques de l’ouvrage reprenant les éléments utiles en matière de sécurité et de santé à prendre en compte lors d’éventuels travaux ultérieurs.
+- établissent un dossier adapté aux caractéristiques de l’ouvrage reprenant les éléments utiles en matière de sécurité et de santé à prendre en compte lors d’éventuels travaux ultérieurs.
 
 <a id="art-21-4"></a>
 ## Art. 21.4.
@@ -6246,25 +6246,25 @@ Réalisation de l’ouvrage: tâches des coordinateurs
 
 Le ou les coordinateurs en matière de sécurité et de santé pendant la réalisation du projet de l’ouvrage:
 
-1. coordonnent la mise en oeuvre des principes généraux de prévention et de sécurité:
+- coordonnent la mise en oeuvre des principes généraux de prévention et de sécurité:
 
-- lors des choix techniques et/ou organisationnels afin de planifier les différents travaux ou phases de travail qui se déroulent simultanément ou successivement,
+  - lors des choix techniques et/ou organisationnels afin de planifier les différents travaux ou phases de travail qui se déroulent simultanément ou successivement,
 
-- lors de la prévision de la durée impartie à la réalisation de ces différents travaux ou phases de travail;
+  - lors de la prévision de la durée impartie à la réalisation de ces différents travaux ou phases de travail;
 
-2. coordonnent la mise en oeuvre des dispositions pertinentes, afin d’assurer que les responsables intervenants:
+- coordonnent la mise en oeuvre des dispositions pertinentes, afin d’assurer que les responsables intervenants:
 
-- mettent en oeuvre de façon cohérente les principes visés à l’article 21.6. ci-après,
+  - mettent en oeuvre de façon cohérente les principes visés à l’article 21.6. ci-après,
 
-- appliquent, lorsqu’il est requis, le plan de sécurité et de santé visé à l’article précédent;
+  - appliquent, lorsqu’il est requis, le plan de sécurité et de santé visé à l’article précédent;
 
-3. procèdent ou font procéder aux adaptations éventuelles du plan de sécurité et de santé et du dossier visés à l’article précédent, en fonction de l’évolution des travaux et des modifications éventuelles intervenues;
+- procèdent ou font procéder aux adaptations éventuelles du plan de sécurité et de santé et du dossier visés à l’article précédent, en fonction de l’évolution des travaux et des modifications éventuelles intervenues;
 
-4. organisent entre les intervenants, y compris ceux qui se succèdent sur le chantier, la coopération et la coordination des activités en vue de la protection des travailleurs et de la prévention des accidents et des risques professionnels d’atteinte à la santé, ainsi que leur information mutuelle prévue au paragraphe (1.13.04) du présent règlement;
+- organisent entre les intervenants, y compris ceux qui se succèdent sur le chantier, la coopération et la coordination des activités en vue de la protection des travailleurs et de la prévention des accidents et des risques professionnels d’atteinte à la santé, ainsi que leur information mutuelle prévue au paragraphe (1.13.04) du présent règlement;
 
-5. coordonnent la surveillance de l’application correcte des procédures de travail;
+- coordonnent la surveillance de l’application correcte des procédures de travail;
 
-6. prennent les mesures nécessaires pour que seules les personnes autorisées puissent accéder au chantier.
+- prennent les mesures nécessaires pour que seules les personnes autorisées puissent accéder au chantier.
 
 <a id="art-21-5"></a>
 ## Art. 21.5.
@@ -6288,25 +6288,25 @@ Principes de prévention
 
 Sans préjudice des dispositions de l’article 1.11. concernant les principes généraux de prévention du présent règlement, des principes particuliers sont mis en oeuvre sur les chantiers, notamment en ce qui concerne:
 
-1. la maintenance du chantier en bon ordre et en état de salubrité satisfaisant;
+- la maintenance du chantier en bon ordre et en état de salubrité satisfaisant;
 
-2. le choix de l’emplacement des postes de travail, en prenant en compte les conditions d’accès à ces postes, et la détermination des voies ou zones de déplacement ou de circulation;
+- le choix de l’emplacement des postes de travail, en prenant en compte les conditions d’accès à ces postes, et la détermination des voies ou zones de déplacement ou de circulation;
 
-3. les conditions de manutention des différents matériaux;
+- les conditions de manutention des différents matériaux;
 
-4. l’entretien, le contrôle avant mise en service et le contrôle périodique des installations et dispositifs afin d’éliminer les défectuosités susceptibles d’affecter la sécurité et la santé des travailleurs;
+- l’entretien, le contrôle avant mise en service et le contrôle périodique des installations et dispositifs afin d’éliminer les défectuosités susceptibles d’affecter la sécurité et la santé des travailleurs;
 
-5. la délimitation et l’aménagement des zones de stockage et d’entreposage des différents matériaux, en particulier s’il s’agit de matières ou de substances dangereuses;
+- la délimitation et l’aménagement des zones de stockage et d’entreposage des différents matériaux, en particulier s’il s’agit de matières ou de substances dangereuses;
 
-6. les conditions de l’enlèvement des matériaux dangereux utilisés;
+- les conditions de l’enlèvement des matériaux dangereux utilisés;
 
-7. le stockage et l’élimination ou l’évacuation des déchets et des décombres;
+- le stockage et l’élimination ou l’évacuation des déchets et des décombres;
 
-8. l’adaptation, en fonction de l’évolution du chantier, de la durée effective à consacrer aux différents types de travaux ou phases de travail;
+- l’adaptation, en fonction de l’évolution du chantier, de la durée effective à consacrer aux différents types de travaux ou phases de travail;
 
-9. la coopération entre les employeurs et les indépendants;
+- la coopération entre les employeurs et les indépendants;
 
-10. les interactions avec des activités d’exploitation sur le site à l’intérieur ou à proximité duquel est implanté le chantier.
+- les interactions avec des activités d’exploitation sur le site à l’intérieur ou à proximité duquel est implanté le chantier.
 
 (21.6.02)
 

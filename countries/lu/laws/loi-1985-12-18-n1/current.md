@@ -29,43 +29,43 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour l'application de la présente loi on entend par:
 
-1. spécialité pharmaceutique: tout médicament préparé à l'avance, mis sur le marché sous une dénomination spéciale et sous un conditionnement particulier.
+- spécialité pharmaceutique: tout médicament préparé à l'avance, mis sur le marché sous une dénomination spéciale et sous un conditionnement particulier.
 
-2. médicament préfabriqué: tout médicament, à l'exception de la spécialité pharmaceutique, préparé à l'avance, mis sur le marché sous forme pharmaceutique.
+- médicament préfabriqué: tout médicament, à l'exception de la spécialité pharmaceutique, préparé à l'avance, mis sur le marché sous forme pharmaceutique.
 
-3. médicament:
+- médicament:
 
-- toute substance ou composition présentée comme possédant des propriétés curatives ou préventives à l'égard des maladies humaines ou animales.
+  - toute substance ou composition présentée comme possédant des propriétés curatives ou préventives à l'égard des maladies humaines ou animales.
 
-- toute substance ou composition pouvant être administrée à l'homme ou à l'animal en vue d'établir un diagnostic médical ou de restaurer, corriger ou modifier des fonctions organiques chez l'homme ou l'animal est également considérée comme médicament.
+  - toute substance ou composition pouvant être administrée à l'homme ou à l'animal en vue d'établir un diagnostic médical ou de restaurer, corriger ou modifier des fonctions organiques chez l'homme ou l'animal est également considérée comme médicament.
 
-4. médicament vétérinaire: tout médicament destiné aux animaux.
+- médicament vétérinaire: tout médicament destiné aux animaux.
 
-5. substance: toute matière qu'elle qu'en soit l'origine, celle-ci pouvant être:
+- substance: toute matière qu'elle qu'en soit l'origine, celle-ci pouvant être:
 
-- humaine, telle que:
+  - humaine, telle que:
 
-- le sang humain et les produits dérivés du sang humain;
+    - le sang humain et les produits dérivés du sang humain;
 
-- animale, telle que:
+  - animale, telle que:
 
-- les micro-organismes, animaux entiers, parties d'organes, sécrétions animales, toxines, substances obtenues par extraction, produits dérivés du sang etc.;
+    - les micro-organismes, animaux entiers, parties d'organes, sécrétions animales, toxines, substances obtenues par extraction, produits dérivés du sang etc.;
 
-- végétale, telle que:
+  - végétale, telle que:
 
-- les micro-organismes, parties de plantes, sécrétions végétales, substances obtenues par extraction etc.;
+    - les micro-organismes, parties de plantes, sécrétions végétales, substances obtenues par extraction etc.;
 
-- chimique, telle que:
+  - chimique, telle que:
 
-- les éléments, matières chimiques naturelles et les produits chimiques de transformation et de synthèse.
+    - les éléments, matières chimiques naturelles et les produits chimiques de transformation et de synthèse.
 
-6. Forme pharmaceutique: toutes les formes utilisées en vue de l'administration ou de l'application d'un médicament.
+- Forme pharmaceutique: toutes les formes utilisées en vue de l'administration ou de l'application d'un médicament.
 
-7. médicament vétérinaire préfabriqué: tout médicament vétérinaire préparé à l'avance et ne répondant pas à la définition des spécialités pharmaceutiques, mis sur le marché sous une forme pharmaceutique utilisable sans transformation.
+- médicament vétérinaire préfabriqué: tout médicament vétérinaire préparé à l'avance et ne répondant pas à la définition des spécialités pharmaceutiques, mis sur le marché sous une forme pharmaceutique utilisable sans transformation.
 
-8. prémélange pour aliments médicamenteux: tout médicament vétérinaire préparé à l'avance en vue de la fabrication ultérieure d'aliments médicamenteux.
+- prémélange pour aliments médicamenteux: tout médicament vétérinaire préparé à l'avance en vue de la fabrication ultérieure d'aliments médicamenteux.
 
-9. aliments médicamenteux: tout mélange de médicament(s) vétérinaire(s) et d'aliment(s) préparé préalablement à sa mise sur le marché et destiné à être administré aux animaux sans transformation, en raison des propriétés curatives ou préventives ou des autres propriétés du médicament visées sous 3 ci-dessus.
+- aliments médicamenteux: tout mélange de médicament(s) vétérinaire(s) et d'aliment(s) préparé préalablement à sa mise sur le marché et destiné à être administré aux animaux sans transformation, en raison des propriétés curatives ou préventives ou des autres propriétés du médicament visées sous 3 ci-dessus.
 
 Les additifs incorporés aux aliments des animaux et aux aliments complémentaires des animaux, tels qu'ils sont définis à la directive 70/524/CEE du 23 novembre 1970 concernant les additifs dans les aliments des animaux ne sont pas à considérer comme médicaments vétérinaires au sens de la présente loi.
 
@@ -97,24 +97,24 @@ La dérogation aux articles 3 et 4 de la loi du 11 avril 1983 portant réglement
 
 Sans préjudice des motifs de refus visés à l'article 10 de la loi du 11 avril 1983 précitée, l'autorisation de mise sur le marché est encore refusée lorsqu'il apparaît:
 
-1. dans le cas d'un médicament pour animaux dont la viande et/ou les produits sont destinés à la consommatio n humaine, que le temps d'attente indiqué par le demandeur est insuffisant pour que les denrées alimentaires provenant de l'animal traité soient exemptes de résidus pouvant présenter des dangers pour la santé du consommateur ou est insuffisamment justifié;
+- dans le cas d'un médicament pour animaux dont la viande et/ou les produits sont destinés à la consommatio n humaine, que le temps d'attente indiqué par le demandeur est insuffisant pour que les denrées alimentaires provenant de l'animal traité soient exemptes de résidus pouvant présenter des dangers pour la santé du consommateur ou est insuffisamment justifié;
 
-2. que le médicament est présenté pour une utilisation interdite en vertu de dispositions nationales ou communautaires;
+- que le médicament est présenté pour une utilisation interdite en vertu de dispositions nationales ou communautaires;
 
-3. que cette mesure est nécessaire pour assurer la protection de la santé publique, des consommateurs, ou de la santé des animaux.
+- que cette mesure est nécessaire pour assurer la protection de la santé publique, des consommateurs, ou de la santé des animaux.
 
 <a id="art-6"></a>
 ## Art. 6.
 
 Sans préjudice des motifs de suspension et de retrait visés à l'article 13 de la loi précitée l'autorisation de mise sur le marché est encore suspendue ou retirée lorsqu'il apparaît:
 
-1. que le temps d'attente est insuffisant pour que les denrées alimentaires provenant de l'animal traité soient exemptes de résidus pouvant présenter des dangers pour la santé du consommateur;
+- que le temps d'attente est insuffisant pour que les denrées alimentaires provenant de l'animal traité soient exemptes de résidus pouvant présenter des dangers pour la santé du consommateur;
 
-2. que le médicament est présenté pour une utilisation interdite en vertu d'autres dispositions nationales ou communautaires;
+- que le médicament est présenté pour une utilisation interdite en vertu d'autres dispositions nationales ou communautaires;
 
-3. que cette mesure est nécessaire pour assurer la protection de la santé publique, des consommateurs, ou de la santé des animaux;
+- que cette mesure est nécessaire pour assurer la protection de la santé publique, des consommateurs, ou de la santé des animaux;
 
-4. que l'obligation visée au dernier alinéa de l'article 3 ci-dessus n'a pas été respectée.
+- que l'obligation visée au dernier alinéa de l'article 3 ci-dessus n'a pas été respectée.
 
 <a id="art-7"></a>
 ## Art. 7.

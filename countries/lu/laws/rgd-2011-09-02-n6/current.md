@@ -26,6 +26,18 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # TEXTE COORDONNE du règlement grand-ducal du 2 septembre 2011 relatif \na) aux contrôles d'équipements de réfrigération, de climatisation et de pompes à chaleur fonctionnant aux fluides réfrigérants du type HFC, HCFC ou CFC \nb) à l'inspection des systèmes de climatisation.
 
+(Mém. A - 197 du 20 septembre 2011, p. 3587)
+
+modifié par:
+
+Règlement grand-ducal du 26 décembre 2012.
+
+(Mém. A - 282 du 31 décembre 2012, p. 4438)
+
+Texte coordonné au 31 décembre 2012
+
+(Règl. g.-d. du 26 décembre 2012)
+
 <a id="art-1er"></a>
 ## «Art. 1er.
 
@@ -42,23 +54,23 @@ Définitions
 
 Au sens du présent règlement, on entend par:
 
-1. transformation importante: le changement du type de fluide réfrigérant ou de la quantité de fluide réfrigérant ou le transfert de l’équipement;
+- transformation importante: le changement du type de fluide réfrigérant ou de la quantité de fluide réfrigérant ou le transfert de l’équipement;
 
-2. CFC: les chlorofluorocarbures;
+- CFC: les chlorofluorocarbures;
 
-3. HCFC: les hydrochlorofluorocarbures;
+- HCFC: les hydrochlorofluorocarbures;
 
-4. HFC: les hydrofluorocarbures.
+- HFC: les hydrofluorocarbures.
 
 (Règl. g.-d. du 26 décembre 2012)
 
-1. bâtiment: une construction dotée d’un toit et de murs, dans laquelle de l’énergie est utilisée pour réguler le climat intérieur;
+- bâtiment: une construction dotée d’un toit et de murs, dans laquelle de l’énergie est utilisée pour réguler le climat intérieur;
 
-2. système de climatisation: une combinaison de composantes nécessaires pour assurer une forme de traitement de l’air intérieur, par laquelle la température est contrôlée ou peut être abaissée;
+- système de climatisation: une combinaison de composantes nécessaires pour assurer une forme de traitement de l’air intérieur, par laquelle la température est contrôlée ou peut être abaissée;
 
-3. puissance nominale utile: la puissance calorifique maximale, exprimée en kW, fixée et garantie par le constructeur comme pouvant être fournie en marche continue tout en respectant les rendements utiles annoncés par le constructeur;
+- puissance nominale utile: la puissance calorifique maximale, exprimée en kW, fixée et garantie par le constructeur comme pouvant être fournie en marche continue tout en respectant les rendements utiles annoncés par le constructeur;
 
-4. exploitant: le propriétaire ou le locataire d’un bâtiment dans lequel sont utilisés les équipements ou les systèmes de climatisation dont question à l’article 1 er .»
+- exploitant: le propriétaire ou le locataire d’un bâtiment dans lequel sont utilisés les équipements ou les systèmes de climatisation dont question à l’article 1 er .»
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -101,13 +113,13 @@ La réception est effectuée dans un délai maximal de trois mois à compter de 
 
 Lors de la réception, les agents vérifient:
 
-1. la présence du registre auprès de l’équipement;
+- la présence du registre auprès de l’équipement;
 
-2. l’indication de la charge de l’équipement;
+- l’indication de la charge de l’équipement;
 
-3. l’exécution d’un contrôle d’étanchéité immédiatement après la mise en service de l’installation et, le cas échéant, l’indication de la cause des fuites et des travaux de réparation des fuites;
+- l’exécution d’un contrôle d’étanchéité immédiatement après la mise en service de l’installation et, le cas échéant, l’indication de la cause des fuites et des travaux de réparation des fuites;
 
-4. l’absence d’une fuite manifeste.
+- l’absence d’une fuite manifeste.
 
 5.
 
@@ -151,6 +163,8 @@ Lorsque le nouveau contrôle d’étanchéité n’est pas effectué dans le dé
 4.
 
 Les entreprises certifiées tiennent les registres des procès-verbaux des contrôles d’étanchéité effectués par leur personnel. Sur demande, les registres doivent être mis à la disposition de l’Administration de l’environnement. Pour le 31 mars de chaque année, chaque entreprise certifiée fait parvenir à l’Administration de l’environnement un relevé de tous les procès-verbaux effectués au cours de l’année écoulée. L’Administration de l’environnement met à disposition des entreprises une solution pour la notification électronique des informations exigées.
+
+(Règl. g.-d. du 26 décembre 2012)
 
 <a id="art-7"></a>
 ## «Art. 7.
@@ -196,6 +210,8 @@ Un équipement qui est mis définitivement hors service doit être vidé de son 
 Contrôle et surveillance
 
 L’exploitant est tenu de présenter sur demande aux agents visés respectivement par la loi modifiée du 21 juin 1976 relative à la lutte contre la pollution atmosphérique, la loi du 28 juillet 2011 relative aux installations contenant certains gaz à effet de serre fluorés et la loi du 11 août 2011 relative aux substances qui appauvrissent la couche d’ozone, le registre de l’équipement comprenant le procès-verbal de réception et les procès-verbaux des contrôles d’étanchéité.
+
+(Règl. g.-d. du 26 décembre 2012)
 
 <a id="art-10"></a>
 ## «Art. 10.

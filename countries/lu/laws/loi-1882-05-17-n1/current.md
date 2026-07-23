@@ -34,13 +34,13 @@ Le système métrique décimal des poids et mesures, établi par la loi du 21 ao
 
 Les mesures d'unité admises pour les transactions, annonces et prix-courants sont:
 
-1. Pour les mesures de longueur: le mètre avec ses multiples de dix, cent, mille et dix mille, suivant les dénominations admises dans la loi du 14 octobre 1842 , et avec ses subdivisions décimales pour les excédants du mètre seulement ou pour les fractions qui ne peuvent atteindre celte mesure dans une transaction.
+- Pour les mesures de longueur: le mètre avec ses multiples de dix, cent, mille et dix mille, suivant les dénominations admises dans la loi du 14 octobre 1842 , et avec ses subdivisions décimales pour les excédants du mètre seulement ou pour les fractions qui ne peuvent atteindre celte mesure dans une transaction.
 
-2. Pour les mesures de surface et agraires: le hectare, l'are et le centiare, avec exclusion de toute mesure intermédiaire comme unité.
+- Pour les mesures de surface et agraires: le hectare, l'are et le centiare, avec exclusion de toute mesure intermédiaire comme unité.
 
-3. Pour les mesures de capacité: le litre et le hectolitre, avec leurs multiples et subdivisions.
+- Pour les mesures de capacité: le litre et le hectolitre, avec leurs multiples et subdivisions.
 
-4. Pour les mesures de poids: le kilogramme et le gramme, avec leurs subdivisions et leurs multiples.
+- Pour les mesures de poids: le kilogramme et le gramme, avec leurs subdivisions et leurs multiples.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -120,13 +120,13 @@ Sans préjudice des articles 31 à 39 du Code d'Instruction criminelle, les offi
 
 Dans les mêmes conditions, les fonctionnaires enquêteurs sont autorisés:
 
-1. à organiser, pour tout instrument de mesure relevant de la métrologie légale, les vérifications de conformité aux dispositions légales et réglementaires sur une échelle suffisante;
+- à organiser, pour tout instrument de mesure relevant de la métrologie légale, les vérifications de conformité aux dispositions légales et réglementaires sur une échelle suffisante;
 
-2. à prélever à leur choix des échantillons de produits en préemballage ou d'instruments de mesure pour les soumettre à des vérifications de leur conformité aux dispositions en vigueur en matière de métrologie légale et à procéder ou à faire procéder aux étalonnages requis;
+- à prélever à leur choix des échantillons de produits en préemballage ou d'instruments de mesure pour les soumettre à des vérifications de leur conformité aux dispositions en vigueur en matière de métrologie légale et à procéder ou à faire procéder aux étalonnages requis;
 
-3. à demander communication de tous livres, registres et fichiers relatifs aux instruments de mesures en vue d'en vérifier la conformité, à les copier et à en établir des extraits;
+- à demander communication de tous livres, registres et fichiers relatifs aux instruments de mesures en vue d'en vérifier la conformité, à les copier et à en établir des extraits;
 
-4. à saisir et, au besoin, à mettre sous séquestre les produits et instruments de mesure qui sont de nature à comporter une non-conformité par rapport aux prescriptions de la présente loi.
+- à saisir et, au besoin, à mettre sous séquestre les produits et instruments de mesure qui sont de nature à comporter une non-conformité par rapport aux prescriptions de la présente loi.
 
 (3)
 
@@ -165,8 +165,8 @@ Les autres mesures d'exécution seront prises par le membre du Gouvernement du s
 
 Des règlements grand-ducaux déterminent:
 
-1. les méthodes de contrôle métrologique et de vérification pour les produits en préemballages et pour les instruments de mesure fabriqués neufs, transformés, réparés et ceux en usage, de même que les conditions techniques et caractéristiques métrologiques auxquelles doivent satisfaire les produits en préemballages et les instruments de mesure lors des opérations de contrôle et de vérification;
+- les méthodes de contrôle métrologique et de vérification pour les produits en préemballages et pour les instruments de mesure fabriqués neufs, transformés, réparés et ceux en usage, de même que les conditions techniques et caractéristiques métrologiques auxquelles doivent satisfaire les produits en préemballages et les instruments de mesure lors des opérations de contrôle et de vérification;
 
-2. les modalités relatives à l'organisation des contrôles métrologiques et des vérifications primitives et ultérieures des instruments de mesure, en ce qui concerne l'assujettissement, la périodicité, les marques de contrôle et de scellement ainsi que les conditions selon lesquelles certaines tâches relevant du service de métrologie peuvent être déléguées à des organismes tiers et les critères à observer par ces organismes;
+- les modalités relatives à l'organisation des contrôles métrologiques et des vérifications primitives et ultérieures des instruments de mesure, en ce qui concerne l'assujettissement, la périodicité, les marques de contrôle et de scellement ainsi que les conditions selon lesquelles certaines tâches relevant du service de métrologie peuvent être déléguées à des organismes tiers et les critères à observer par ces organismes;
 
-3. le tarif des rémunérations à percevoir pour les diverses opérations de contrôle et vérifications opérées par le service de métrologie ainsi que pour la mise à disposition de poids et masses étalons et autres prestations accessoires.
+- le tarif des rémunérations à percevoir pour les diverses opérations de contrôle et vérifications opérées par le service de métrologie ainsi que pour la mise à disposition de poids et masses étalons et autres prestations accessoires.

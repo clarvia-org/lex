@@ -48,11 +48,11 @@ Par dérogation à l’alinéa qui précède ne sont pas à considérer comme he
 
 Par cas d’urgence au sens du paragraphe premier, alinéa premier, de l’article 21 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux on comprend:
 
-1. Les travaux découlant d’un cas de force majeure, dans la mesure nécessaire pour éviter une entrave sérieuse à la marche normale de l’administration ou du service.
+- Les travaux découlant d’un cas de force majeure, dans la mesure nécessaire pour éviter une entrave sérieuse à la marche normale de l’administration ou du service.
 
-2. Les travaux à entreprendre pour faire face aux suites d’un accident ou pour prévenir un accident imminent.
+- Les travaux à entreprendre pour faire face aux suites d’un accident ou pour prévenir un accident imminent.
 
-3. Les travaux qui s’imposent dans l’intérêt public à la suite d’événements exceptionnels et imprévisibles.
+- Les travaux qui s’imposent dans l’intérêt public à la suite d’événements exceptionnels et imprévisibles.
 
 2.
 
@@ -109,15 +109,15 @@ Si, pour des raisons de service, une compensation s’avère impossible, il est 
 
 A) Astreintes de nuit (entre dix-neuf et sept heures):
 
-1. Les jours ouvrables: 0,62 euros au nombre-indice cent par astreinte;
+- Les jours ouvrables: 0,62 euros au nombre-indice cent par astreinte;
 
-2. Les samedis, les dimanches et les jours fériés: 1,24 euros au nombre indice cent par astreinte.
+- Les samedis, les dimanches et les jours fériés: 1,24 euros au nombre indice cent par astreinte.
 
 B) Astreintes de jour (de sept à dix-neuf heures):
 
-1. Les jours ouvrables: 0,62 euros au nombre-indice cent par astreinte;
+- Les jours ouvrables: 0,62 euros au nombre-indice cent par astreinte;
 
-2. Les samedis, les dimanches et les jours fériés: 1,24 euros au nombre-indice cent par astreinte.
+- Les samedis, les dimanches et les jours fériés: 1,24 euros au nombre-indice cent par astreinte.
 
 #### Chapitre VI. Dispositions transitoire et finale
 

@@ -41,21 +41,21 @@ Sont visés tous les types de taxes et impôts prélevés par l’Etat et les co
 
 Nonobstant le paragraphe (1), ne sont pas visés:
 
-1. la taxe sur la valeur ajoutée;
+- la taxe sur la valeur ajoutée;
 
-2. les droits de douane;
+- les droits de douane;
 
-3. les droits d’accises couverts par d’autres textes de législation de l’Union relatifs à la coopération administrative entre Etats membres;
+- les droits d’accises couverts par d’autres textes de législation de l’Union relatifs à la coopération administrative entre Etats membres;
 
-4. les cotisations sociales obligatoires dues à l’Etat du Grand-Duché de Luxembourg ou à un autre Etat membre, à une de leurs entités ou aux organismes de sécurité sociale de droit public.
+- les cotisations sociales obligatoires dues à l’Etat du Grand-Duché de Luxembourg ou à un autre Etat membre, à une de leurs entités ou aux organismes de sécurité sociale de droit public.
 
 (3)
 
 Les taxes et impôts visés au paragraphe (1) ne sauraient en aucun cas être interprétés comme incluant:
 
-1. les droits tels que les droits perçus pour des certificats ou d’autres documents délivrés par les pouvoirs publics; ou
+- les droits tels que les droits perçus pour des certificats ou d’autres documents délivrés par les pouvoirs publics; ou
 
-2. les droits de nature contractuelle, tels que la contrepartie versée pour un service public.
+- les droits de nature contractuelle, tels que la contrepartie versée pour un service public.
 
 (4)
 
@@ -66,87 +66,87 @@ Les taxes et impôts visés au paragraphe (1) sont ceux perçus sur le territoir
 
 Aux fins de la présente loi, on entend par:
 
-1. «administration fiscale»: l’Administration des contributions directes, l’Administration de l’enregistrement et des domaines, l’Administration des douanes et accises;
+- «administration fiscale»: l’Administration des contributions directes, l’Administration de l’enregistrement et des domaines, l’Administration des douanes et accises;
 
-2. «autorité compétente» d’un Etat membre: l’autorité désignée en tant que telle par un Etat membre de l’Union européenne. Le bureau central de liaison, un service de liaison ou un fonctionnaire compétent sont également considérés comme une autorité compétente par délégation;
+- «autorité compétente» d’un Etat membre: l’autorité désignée en tant que telle par un Etat membre de l’Union européenne. Le bureau central de liaison, un service de liaison ou un fonctionnaire compétent sont également considérés comme une autorité compétente par délégation;
 
-3. «bureau central de liaison»: le bureau qui a été désigné comme tel et qui est le responsable privilégié des contacts avec les autres Etats membres dans le domaine de la coopération administrative;
+- «bureau central de liaison»: le bureau qui a été désigné comme tel et qui est le responsable privilégié des contacts avec les autres Etats membres dans le domaine de la coopération administrative;
 
-4. «service de liaison»: tout bureau autre que le bureau central de liaison qui a été désigné comme tel pour échanger directement des informations;
+- «service de liaison»: tout bureau autre que le bureau central de liaison qui a été désigné comme tel pour échanger directement des informations;
 
-5. «fonctionnaire compétent»: tout fonctionnaire qui est autorisé à échanger directement des informations;
+- «fonctionnaire compétent»: tout fonctionnaire qui est autorisé à échanger directement des informations;
 
-6. «autorité requérante»: le bureau central de liaison, un service de liaison ou tout fonctionnaire compétent d’un autre Etat membre qui formule une demande d’assistance au nom de l’autorité compétente;
+- «autorité requérante»: le bureau central de liaison, un service de liaison ou tout fonctionnaire compétent d’un autre Etat membre qui formule une demande d’assistance au nom de l’autorité compétente;
 
-7. «autorité requérante luxembourgeoise»: l’administration fiscale qui formule une demande d’assistance au nom de l’autorité compétente luxembourgeoise;
+- «autorité requérante luxembourgeoise»: l’administration fiscale qui formule une demande d’assistance au nom de l’autorité compétente luxembourgeoise;
 
-8. «autorité requise»: le bureau central de liaison, un service de liaison ou tout fonctionnaire compétent d’un autre Etat membre qui reçoit une demande d’assistance au nom de l’autorité compétente;
+- «autorité requise»: le bureau central de liaison, un service de liaison ou tout fonctionnaire compétent d’un autre Etat membre qui reçoit une demande d’assistance au nom de l’autorité compétente;
 
-9. «autorité requise luxembourgeoise»: l’administration fiscale qui reçoit une demande d’assistance au nom de l’autorité compétente luxembourgeoise;
+- «autorité requise luxembourgeoise»: l’administration fiscale qui reçoit une demande d’assistance au nom de l’autorité compétente luxembourgeoise;
 
-10. «enquête administrative»: l’ensemble des contrôles, vérifications et actions réalisés par les Etats membres dans l’exercice de leurs responsabilités en vue d’assurer la bonne application de la législation fiscale;
+- «enquête administrative»: l’ensemble des contrôles, vérifications et actions réalisés par les Etats membres dans l’exercice de leurs responsabilités en vue d’assurer la bonne application de la législation fiscale;
 
-11. «échange d’informations sur demande»: tout échange d’informations réalisé sur la base d’une demande introduite par l’Etat membre requérant auprès de l’Etat membre requis dans un cas particulier;
+- «échange d’informations sur demande»: tout échange d’informations réalisé sur la base d’une demande introduite par l’Etat membre requérant auprès de l’Etat membre requis dans un cas particulier;
 
-12. «échange spontané»: la communication ponctuelle, à tout moment et sans demande préalable, d’informations à un autre Etat membre;
+- «échange spontané»: la communication ponctuelle, à tout moment et sans demande préalable, d’informations à un autre Etat membre;
 
-13. «personne»:
+- «personne»:
 
-1. une personne physique,
+  - une personne physique,
 
-2. une personne morale,
+  - une personne morale,
 
-3. lorsque la législation en vigueur le prévoit, une association de personnes à laquelle est reconnue la capacité d’accomplir des actes juridiques, mais qui ne possède pas le statut de personne morale, ou
+  - lorsque la législation en vigueur le prévoit, une association de personnes à laquelle est reconnue la capacité d’accomplir des actes juridiques, mais qui ne possède pas le statut de personne morale, ou
 
-4. toute autre construction juridique quelles que soient sa nature et sa forme, dotée ou non de la personnalité juridique, possédant ou gérant des actifs qui, y compris le revenu qui en dérive, sont soumis à l’un des impôts visés à l’article 1 er ;
+  - toute autre construction juridique quelles que soient sa nature et sa forme, dotée ou non de la personnalité juridique, possédant ou gérant des actifs qui, y compris le revenu qui en dérive, sont soumis à l’un des impôts visés à l’article 1 er ;
 
-14. «par voie électronique»: au moyen d’équipements électroniques de traitement, y compris la compression numérique, et de stockage des données, par liaison filaire, radio, procédés optiques ou tout autre procédé électromagnétique;
+- «par voie électronique»: au moyen d’équipements électroniques de traitement, y compris la compression numérique, et de stockage des données, par liaison filaire, radio, procédés optiques ou tout autre procédé électromagnétique;
 
-15. «réseau CCN»: la plate-forme commune fondée sur le réseau commun de communication (CCN), mise au point par l’Union pour assurer toutes les transmissions par voie électronique entre autorités compétentes dans les domaines douanier et fiscal ;
+- «réseau CCN»: la plate-forme commune fondée sur le réseau commun de communication (CCN), mise au point par l’Union pour assurer toutes les transmissions par voie électronique entre autorités compétentes dans les domaines douanier et fiscal ;
 
-16. «échange automatique»:
+- «échange automatique»:
 
-1. aux fins de l’article 9 bis , paragraphe 1 er , et de l’article 9 ter , la communication systématique à un autre État membre, sans demande préalable, d’informations prédéfinies, à intervalles réguliers préalablement fixés. Aux fins de l’article 9 bis , paragraphe 1 er , les informations disponibles concernent des informations figurant dans les dossiers fiscaux de l’État membre qui communique les informations et pouvant être consultées conformément aux procédures de collecte et de traitement des informations applicables dans cet État membre;
+  - aux fins de l’article 9 bis , paragraphe 1 er , et de l’article 9 ter , la communication systématique à un autre État membre, sans demande préalable, d’informations prédéfinies, à intervalles réguliers préalablement fixés. Aux fins de l’article 9 bis , paragraphe 1 er , les informations disponibles concernent des informations figurant dans les dossiers fiscaux de l’État membre qui communique les informations et pouvant être consultées conformément aux procédures de collecte et de traitement des informations applicables dans cet État membre;
 
-2. aux fins de toutes les dispositions de la présente loi autres que l’article 9bis, paragraphe 1er, et l’article 9ter, la communication systématique des informations prédéfinies fournies conformément au point 1. de la présente lettre;
+  - aux fins de toutes les dispositions de la présente loi autres que l’article 9bis, paragraphe 1er, et l’article 9ter, la communication systématique des informations prédéfinies fournies conformément au point 1. de la présente lettre;
 
-17. «décision fiscale anticipée en matière transfrontière»: tout accord, toute communication, ou tout autre instrument ou action ayant des effets similaires, y compris lorsqu’il est émis, modifié ou renouvelé dans le contexte d’un contrôle fiscal, et qui remplit les conditions suivantes: L’opération transfrontière peut inclure, mais sans s’y limiter, la réalisation d’investissements, la fourniture de biens, services et financements ou l’utilisation d’actifs corporels ou incorporels et ne doit pas nécessairement faire intervenir directement la personne destinataire de la décision fiscale anticipée en matière transfrontière;
+- «décision fiscale anticipée en matière transfrontière»: tout accord, toute communication, ou tout autre instrument ou action ayant des effets similaires, y compris lorsqu’il est émis, modifié ou renouvelé dans le contexte d’un contrôle fiscal, et qui remplit les conditions suivantes: L’opération transfrontière peut inclure, mais sans s’y limiter, la réalisation d’investissements, la fourniture de biens, services et financements ou l’utilisation d’actifs corporels ou incorporels et ne doit pas nécessairement faire intervenir directement la personne destinataire de la décision fiscale anticipée en matière transfrontière;
 
-1. est émis, modifié ou renouvelé par ou pour le compte du Gouvernement du Grand-Duché de Luxembourg ou de l’Administration des contributions directes, que ces décisions soient effectivement utilisées ou non;
+  - est émis, modifié ou renouvelé par ou pour le compte du Gouvernement du Grand-Duché de Luxembourg ou de l’Administration des contributions directes, que ces décisions soient effectivement utilisées ou non;
 
-2. est émis, modifié ou renouvelé, à l’intention d’une personne spécifique ou d’un groupe de personnes, et pour autant que cette personne ou ce groupe de personnes ait le droit de s’en prévaloir;
+  - est émis, modifié ou renouvelé, à l’intention d’une personne spécifique ou d’un groupe de personnes, et pour autant que cette personne ou ce groupe de personnes ait le droit de s’en prévaloir;
 
-3. porte sur l’interprétation ou l’application d’une disposition législative ou administrative concernant l’administration ou l’application de la législation nationale relative aux taxes et impôts du Grand-Duché de Luxembourg;
+  - porte sur l’interprétation ou l’application d’une disposition législative ou administrative concernant l’administration ou l’application de la législation nationale relative aux taxes et impôts du Grand-Duché de Luxembourg;
 
-4. se rapporte à une opération transfrontière ou à la question de savoir si les activités exercées par une personne dans une autre juridiction créent ou non un établissement stable , ou à la question de savoir si une personne physique est ou non résidente fiscale au Grand-Duché du Luxembourg ; et
+  - se rapporte à une opération transfrontière ou à la question de savoir si les activités exercées par une personne dans une autre juridiction créent ou non un établissement stable , ou à la question de savoir si une personne physique est ou non résidente fiscale au Grand-Duché du Luxembourg ; et
 
-5. est établi préalablement aux opérations ou aux activités menées dans une autre juridiction susceptibles de créer un établissement stable, ou préalablement au dépôt d’une déclaration fiscale couvrant la période au cours de laquelle l’opération, la série d’opérations ou les activités ont eu lieu.
+  - est établi préalablement aux opérations ou aux activités menées dans une autre juridiction susceptibles de créer un établissement stable, ou préalablement au dépôt d’une déclaration fiscale couvrant la période au cours de laquelle l’opération, la série d’opérations ou les activités ont eu lieu.
 
-18. «accord préalable en matière de prix de transfert»: tout accord, toute communication, ou tout autre instrument ou action ayant des effets similaires, y compris lorsqu’il est émis, modifié ou renouvelé dans le contexte d’un contrôle fiscal, et qui remplit les conditions suivantes: Des entreprises sont des entreprises associées lorsqu’une entreprise participe directement ou indirectement à la gestion, au contrôle ou au capital d’une autre entreprise ou lorsque la même personne participe directement ou indirectement à la gestion, au contrôle ou au capital des entreprises. Les prix de transfert sont les prix auxquels une entreprise transfère des biens corporels et des biens incorporels ou fournit des services à des entreprises associées, et la «fixation des prix de transfert» doit être entendue dans le même sens;
+- «accord préalable en matière de prix de transfert»: tout accord, toute communication, ou tout autre instrument ou action ayant des effets similaires, y compris lorsqu’il est émis, modifié ou renouvelé dans le contexte d’un contrôle fiscal, et qui remplit les conditions suivantes: Des entreprises sont des entreprises associées lorsqu’une entreprise participe directement ou indirectement à la gestion, au contrôle ou au capital d’une autre entreprise ou lorsque la même personne participe directement ou indirectement à la gestion, au contrôle ou au capital des entreprises. Les prix de transfert sont les prix auxquels une entreprise transfère des biens corporels et des biens incorporels ou fournit des services à des entreprises associées, et la «fixation des prix de transfert» doit être entendue dans le même sens;
 
-1. est émis, modifié ou renouvelé par ou pour le compte du Gouvernement du Grand-Duché de Luxembourg ou de l’Administration des contributions directes, qu’il soit effectivement utilisé ou non;
+  - est émis, modifié ou renouvelé par ou pour le compte du Gouvernement du Grand-Duché de Luxembourg ou de l’Administration des contributions directes, qu’il soit effectivement utilisé ou non;
 
-2. est émis, modifié ou renouvelé, à l’intention d’une personne spécifique ou d’un groupe de personnes, et pour autant que cette personne ou ce groupe de personnes ait le droit de s’en prévaloir; et
+  - est émis, modifié ou renouvelé, à l’intention d’une personne spécifique ou d’un groupe de personnes, et pour autant que cette personne ou ce groupe de personnes ait le droit de s’en prévaloir; et
 
-3. détermine préalablement aux opérations transfrontières entre entreprises associées, un ensemble de critères appropriés afin de définir les méthodes de fixation des prix de transfert applicables à ces opérations ou détermine l’imputation des bénéfices à un établissement stable.
+  - détermine préalablement aux opérations transfrontières entre entreprises associées, un ensemble de critères appropriés afin de définir les méthodes de fixation des prix de transfert applicables à ces opérations ou détermine l’imputation des bénéfices à un établissement stable.
 
-19. Aux fins de la lettre q), on entend par «opération transfrontière», une opération ou une série d’opérations:
+- Aux fins de la lettre q), on entend par «opération transfrontière», une opération ou une série d’opérations:
 
-1. dans lesquelles toutes les parties à l’opération ou à la série d’opérations ne sont pas résidentes fiscales sur le territoire du Grand-Duché de Luxembourg;
+  - dans lesquelles toutes les parties à l’opération ou à la série d’opérations ne sont pas résidentes fiscales sur le territoire du Grand-Duché de Luxembourg;
 
-2. dans lesquelles l’une des parties à l’opération ou à la série d’opérations est résidente fiscale dans plus d’une juridiction simultanément;
+  - dans lesquelles l’une des parties à l’opération ou à la série d’opérations est résidente fiscale dans plus d’une juridiction simultanément;
 
-3. dans lesquelles l’une des parties à l’opération ou à la série d’opérations exerce son activité dans une autre juridiction par l’intermédiaire d’un établissement stable, l’opération ou la série d’opérations constituant une partie ou la totalité de l’activité de l’établissement stable. Une opération transfrontière ou une série d’opérations transfrontières comprennent également les dispositions prises par une personne en ce qui concerne les activités commerciales que cette personne exerce dans une autre juridiction par l’intermédiaire d’un établissement stable; ou
+  - dans lesquelles l’une des parties à l’opération ou à la série d’opérations exerce son activité dans une autre juridiction par l’intermédiaire d’un établissement stable, l’opération ou la série d’opérations constituant une partie ou la totalité de l’activité de l’établissement stable. Une opération transfrontière ou une série d’opérations transfrontières comprennent également les dispositions prises par une personne en ce qui concerne les activités commerciales que cette personne exerce dans une autre juridiction par l’intermédiaire d’un établissement stable; ou
 
-4. lorsque cette opération ou série d’opérations a une incidence transfrontière. Aux fins de la lettre r), on entend par «opération transfrontière», une opération ou une série d’opérations faisant intervenir des entreprises associées qui ne sont pas toutes résidentes fiscales sur le territoire de la même juridiction, ou une opération ou une série d’opérations qui a une incidence transfrontière;
+  - lorsque cette opération ou série d’opérations a une incidence transfrontière. Aux fins de la lettre r), on entend par «opération transfrontière», une opération ou une série d’opérations faisant intervenir des entreprises associées qui ne sont pas toutes résidentes fiscales sur le territoire de la même juridiction, ou une opération ou une série d’opérations qui a une incidence transfrontière;
 
-20. Aux fins des lettres r) et s), on entend par «entreprise», toute forme d’exercice d’une activité commerciale ;
+- Aux fins des lettres r) et s), on entend par «entreprise», toute forme d’exercice d’une activité commerciale ;
 
-21. « contrôle conjoint » : une enquête administrative menée conjointement par les autorités compétentes du Grand-Duché de Luxembourg et d’un ou plusieurs autres États membres, et liée à une ou plusieurs personnes présentant un intérêt commun ou complémentaire pour ces autorités compétentes ;
+- « contrôle conjoint » : une enquête administrative menée conjointement par les autorités compétentes du Grand-Duché de Luxembourg et d’un ou plusieurs autres États membres, et liée à une ou plusieurs personnes présentant un intérêt commun ou complémentaire pour ces autorités compétentes ;
 
-22. « violation de données » : une violation de la sécurité entraînant la destruction, la perte, l’altération ou tout incident occasionnant un accès inapproprié ou non autorisé, la divulgation ou l’utilisation d’informations, y compris, mais sans s’y limiter, de données à caractère personnel transmises, stockées ou traitées d’une autre manière, à la suite d’actes illicites délibérés, de négligences ou d’accidents. Une violation de données peut concerner la confidentialité, la disponibilité et l’intégrité des données ;
+- « violation de données » : une violation de la sécurité entraînant la destruction, la perte, l’altération ou tout incident occasionnant un accès inapproprié ou non autorisé, la divulgation ou l’utilisation d’informations, y compris, mais sans s’y limiter, de données à caractère personnel transmises, stockées ou traitées d’une autre manière, à la suite d’actes illicites délibérés, de négligences ou d’accidents. Une violation de données peut concerner la confidentialité, la disponibilité et l’intégrité des données ;
 
-23. produits d’assurance sur la vie non soumis à échange d’informations : les contrats d’assurance autres que les contrats d’assurance avec valeur de rachat devant faire l’objet d’une déclaration au titre de l’annexe I, section I de la loi modifiée du 18 décembre 2015 relative à la Norme commune de déclaration (NCD), lorsque les prestations en vertu des contrats sont dues au moment du décès de l’assuré.
+- produits d’assurance sur la vie non soumis à échange d’informations : les contrats d’assurance autres que les contrats d’assurance avec valeur de rachat devant faire l’objet d’une déclaration au titre de l’annexe I, section I de la loi modifiée du 18 décembre 2015 relative à la Norme commune de déclaration (NCD), lorsque les prestations en vertu des contrats sont dues au moment du décès de l’assuré.
 
 #### Chapitre 2 Organisation
 
@@ -209,21 +209,21 @@ Aux fins d’une demande visée aux articles 5 et 6, les informations demandées
 
 Dans le but de démontrer la pertinence vraisemblable des informations demandées, l’autorité requérante fournit au moins les informations suivantes à l’autorité requise :
 
-1. la finalité fiscale des informations demandées ; et
+- la finalité fiscale des informations demandées ; et
 
-2. la spécification des informations nécessaires à l’administration ou à l’application de son droit national.
+- la spécification des informations nécessaires à l’administration ou à l’application de son droit national.
 
 (3)
 
 Dans les cas où une demande visée aux articles 5 et 6 concerne un groupe de contribuables qui ne peuvent pas être identifiés individuellement, l’autorité requérante fournit au moins les informations suivantes à l’autorité requise :
 
-1. une description détaillée du groupe ;
+- une description détaillée du groupe ;
 
-2. une explication du droit applicable et des faits sur la base desquels il existe des raisons de penser que les contribuables du groupe n’ont pas respecté le droit applicable ;
+- une explication du droit applicable et des faits sur la base desquels il existe des raisons de penser que les contribuables du groupe n’ont pas respecté le droit applicable ;
 
-3. une explication de la manière dont les informations demandées contribueraient à déterminer le respect, par les contribuables du groupe, de leurs obligations ; et
+- une explication de la manière dont les informations demandées contribueraient à déterminer le respect, par les contribuables du groupe, de leurs obligations ; et
 
-4. le cas échéant, les faits et circonstances relatifs à l’intervention d’un tiers qui a activement contribué au non-respect potentiel du droit applicable par les contribuables du groupe.
+- le cas échéant, les faits et circonstances relatifs à l’intervention d’un tiers qui a activement contribué au non-respect potentiel du droit applicable par les contribuables du groupe.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -287,11 +287,11 @@ Les demandes d’informations introduites par application de l’échange d’in
 
 L’Administration des contributions directes communique à l’autorité compétente d’un autre Etat membre, dans le cadre de l’échange automatique, les informations se rapportant aux périodes imposables à compter du 1er janvier 2014 dont elle dispose au sujet des personnes résidant dans cet autre Etat membre et qui concernent les catégories suivantes spécifiques de revenu et de capital:
 
-1. les revenus provenant d’une occupation salariée au sens de l’article 95 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu qui sont passibles de la retenue à la source au titre de l’impôt sur le revenu en vertu de l’article 136, alinéa 1 de cette loi ;
+- les revenus provenant d’une occupation salariée au sens de l’article 95 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu qui sont passibles de la retenue à la source au titre de l’impôt sur le revenu en vertu de l’article 136, alinéa 1 de cette loi ;
 
-2. les revenus au sens de l’article 91, alinéa 1, numéro 2 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu qui sont passibles de la retenue d’impôt sur les tantièmes en vertu de l’article 152, titre 2 de cette loi ;
+- les revenus au sens de l’article 91, alinéa 1, numéro 2 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu qui sont passibles de la retenue d’impôt sur les tantièmes en vertu de l’article 152, titre 2 de cette loi ;
 
-3. les revenus résultant de pensions ou de rentes au sens de l’article 96, alinéa 1, numéros 1 et 2 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu qui sont passibles de la retenue à la source au titre de l’impôt sur le revenu en vertu de l’article 144 de cette loi .
+- les revenus résultant de pensions ou de rentes au sens de l’article 96, alinéa 1, numéros 1 et 2 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu qui sont passibles de la retenue à la source au titre de l’impôt sur le revenu en vertu de l’article 144 de cette loi .
 
 (1bis)
 
@@ -340,11 +340,11 @@ Toutefois, dans les cas où les accords préalables bilatéraux ou multilatérau
 
 (4)
 
-Les paragraphes 1er et 2 ne s’appliquent pas dans le cas où une décision fiscale anticipée en matière transfrontière concerne et implique exclusivement les affaires fiscales d’une ou de plusieurs personnes physiques, sauf lorsque cette décision a été émise, modifiée ou renouvelée après le 1er janvier 2026 et lorsque :
+Les paragraphes 1er et 2 ne s’appliquent pas dans le cas où une décision fiscale anticipée en matière transfrontière concerne et implique exclusivement les affaires fiscales d’une ou de plusieurs personnes physiques , sauf lorsque cette décision a été émise, modifiée ou renouvelée après le 1er janvier 2026 et lorsque :
 
-1. le montant de l’opération ou de la série d’opérations sur laquelle porte la décision fiscale anticipée en matière transfrontière dépasse 1 500 000 euros, ou un montant équivalent dans une autre devise, si un tel montant est visé dans la décision fiscale anticipée en matière transfrontière ; ou
+- le montant de l’opération ou de la série d’opérations sur laquelle porte la décision fiscale anticipée en matière transfrontière dépasse 1 500 000 euros, ou un montant équivalent dans une autre devise, si un tel montant est visé dans la décision fiscale anticipée en matière transfrontière ; ou
 
-2. la décision fiscale anticipée en matière transfrontière détermine si une personne est ou non résidente fiscale en application du droit interne luxembourgeois.
+- la décision fiscale anticipée en matière transfrontière détermine si une personne est ou non résidente fiscale en application du droit interne luxembourgeois.
 
 Aux fins de l’alinéa 1er, lettre a), et sans préjudice du montant visé dans la décision fiscale anticipée en matière transfrontière, dans une série d’opérations portant sur différents biens, services ou actifs, le montant de la décision anticipée en matière transfrontière comprend la valeur sous-jacente totale. Les montants ne sont pas agrégés si les mêmes biens, services ou actifs font l’objet de plusieurs transactions.
 
@@ -354,39 +354,39 @@ Nonobstant l’alinéa 1er, lettre b), l’échange d’informations sur les dé
 
 L’échange d’informations est effectué comme suit:
 
-1. pour les informations échangées en application du paragraphe 1 er : sans tarder après l’émission, la modification ou le renouvellement des décisions fiscales anticipées en matière transfrontière ou des accords préalables en matière de prix de transfert et au plus tard trois mois après la fin du semestre de l’année civile au cours duquel les décisions fiscales anticipées en matière transfrontière ou les accords préalables en matière de prix de transfert ont été émis, modifiés ou renouvelés ;
+- pour les informations échangées en application du paragraphe 1 er : sans tarder après l’émission, la modification ou le renouvellement des décisions fiscales anticipées en matière transfrontière ou des accords préalables en matière de prix de transfert et au plus tard trois mois après la fin du semestre de l’année civile au cours duquel les décisions fiscales anticipées en matière transfrontière ou les accords préalables en matière de prix de transfert ont été émis, modifiés ou renouvelés ;
 
-2. pour les informations échangées en application du paragraphe 2: avant le 1 er janvier 2018.
+- pour les informations échangées en application du paragraphe 2: avant le 1 er janvier 2018.
 
 (6)
 
 Les informations qui doivent être communiquées par le Grand-Duché de Luxembourg en application des paragraphes 1er et 2, comprennent les éléments suivants:
 
-1. l’identification de la personne, autre qu’une personne physique, et, le cas échéant, du groupe de personnes auquel celle-ci appartient;
+- l’identification de la personne, autre qu’une personne physique, et, le cas échéant, du groupe de personnes auquel celle-ci appartient;
 
-2. un résumé de la décision fiscale anticipée en matière transfrontière ou de l’accord préalable en matière de prix de transfert, y compris une description des activités commerciales, opérations ou séries d’opérations concernées et toute autre information qui pourrait aider l’autorité compétente à évaluer un risque fiscal potentiel, sans donner lieu à la divulgation d’un secret commercial, industriel ou professionnel, d’un procédé commercial ou d’informations dont la divulgation serait contraire à l’ordre public ;
+- un résumé de la décision fiscale anticipée en matière transfrontière ou de l’accord préalable en matière de prix de transfert, y compris une description des activités commerciales, opérations ou séries d’opérations concernées et toute autre information qui pourrait aider l’autorité compétente à évaluer un risque fiscal potentiel, sans donner lieu à la divulgation d’un secret commercial, industriel ou professionnel, d’un procédé commercial ou d’informations dont la divulgation serait contraire à l’ordre public ;
 
-3. les dates de l’émission, de la modification ou du renouvellement de la décision fiscale anticipée en matière transfrontière ou de l’accord préalable en matière de prix de transfert;
+- les dates de l’émission, de la modification ou du renouvellement de la décision fiscale anticipée en matière transfrontière ou de l’accord préalable en matière de prix de transfert;
 
-4. la date de début de la période de validité de la décision fiscale anticipée en matière transfrontière ou de l’accord préalable en matière de prix de transfert, si elle est spécifiée;
+- la date de début de la période de validité de la décision fiscale anticipée en matière transfrontière ou de l’accord préalable en matière de prix de transfert, si elle est spécifiée;
 
-5. la date de la fin de la période de validité de la décision fiscale anticipée en matière transfrontière ou de l’accord préalable en matière de prix de transfert, si elle est spécifiée;
+- la date de la fin de la période de validité de la décision fiscale anticipée en matière transfrontière ou de l’accord préalable en matière de prix de transfert, si elle est spécifiée;
 
-6. le type de décision fiscale anticipée en matière transfrontière ou d’accord préalable en matière de prix de transfert;
+- le type de décision fiscale anticipée en matière transfrontière ou d’accord préalable en matière de prix de transfert;
 
-7. le montant de l’opération ou de la série d’opérations sur laquelle porte la décision fiscale anticipée en matière transfrontière ou l’accord préalable en matière de prix de transfert, si un tel montant est visé dans la décision fiscale anticipée en matière transfrontière ou dans l’accord préalable en matière de prix de transfert;
+- le montant de l’opération ou de la série d’opérations sur laquelle porte la décision fiscale anticipée en matière transfrontière ou l’accord préalable en matière de prix de transfert, si un tel montant est visé dans la décision fiscale anticipée en matière transfrontière ou dans l’accord préalable en matière de prix de transfert;
 
-8. la description de l’ensemble des critères utilisés pour déterminer la méthode de fixation du prix de transfert ou le prix de transfert lui-même dans le cas d’un accord préalable en matière de prix de transfert;
+- la description de l’ensemble des critères utilisés pour déterminer la méthode de fixation du prix de transfert ou le prix de transfert lui-même dans le cas d’un accord préalable en matière de prix de transfert;
 
-9. la description de la méthode utilisée pour déterminer la méthode de fixation du prix de transfert ou le prix de transfert lui-même dans le cas d’un accord préalable en matière de prix de transfert;
+- la description de la méthode utilisée pour déterminer la méthode de fixation du prix de transfert ou le prix de transfert lui-même dans le cas d’un accord préalable en matière de prix de transfert;
 
-10. l’identification des autres États membres, le cas échéant, qui seraient susceptibles d’être concernés par la décision fiscale anticipée en matière transfrontière ou l’accord préalable en matière de prix de transfert;
+- l’identification des autres États membres, le cas échéant, qui seraient susceptibles d’être concernés par la décision fiscale anticipée en matière transfrontière ou l’accord préalable en matière de prix de transfert;
 
-11. l’identification, dans les autres États membres, le cas échéant, de toute personne, autre qu’une personne physique, susceptible d’être concernée par la décision fiscale anticipée en matière transfrontière ou l’accord préalable en matière de prix de transfert en indiquant à quels États membres les personnes concernées sont liées; et
+- l’identification, dans les autres États membres, le cas échéant, de toute personne, autre qu’une personne physique, susceptible d’être concernée par la décision fiscale anticipée en matière transfrontière ou l’accord préalable en matière de prix de transfert en indiquant à quels États membres les personnes concernées sont liées; et
 
-12. une mention précisant si les informations communiquées sont basées sur la décision fiscale anticipée en matière transfrontière ou l’accord préalable en matière de prix de transfert proprement dits ou sur la demande visée au paragraphe 3, deuxième alinéa du présent article ;
+- une mention précisant si les informations communiquées sont basées sur la décision fiscale anticipée en matière transfrontière ou l’accord préalable en matière de prix de transfert proprement dits ou sur la demande visée au paragraphe 3, deuxième alinéa du présent article ;
 
-13. Pour les périodes imposables à partir du 1 er janvier 2028, le NIF des personnes visées aux lettres a) et k) du présent paragraphe, lorsqu’il a été obtenu.
+- Pour les périodes imposables à partir du 1 er janvier 2028, le NIF des personnes visées aux lettres a) et k) du présent paragraphe, lorsqu’il a été obtenu.
 
 Par dérogation aux lettres a) et k), lorsque la décision fiscale anticipée concerne une personne physique et est communiquée conformément aux paragraphes 1er et 4, l’identification de la personne physique et, le cas échéant, du groupe de personnes auquel celle-ci appartient, doivent également être communiquées par le Grand-Duché de Luxembourg en application des paragraphes 1er et 2.
 
@@ -413,11 +413,11 @@ Le Grand-Duché de Luxembourg et les autres États membres peuvent, conformémen
 
 Aux fins du présent article et de l’article 9bis, paragraphe 1quater, on entend par :
 
-1. « produits d’assurance sur la vie non soumis à échange d’informations » : les contrats d’assurance dont les prestations sont dues au moment du décès de l’assuré, autres que les contrats d’assurance avec valeur de rachat au sens de la loi modifiée du 18 décembre 2015 relative à la Norme commune de déclaration (NCD) et devant faire l’objet d’une déclaration au titre de cette loi ;
+- « produits d’assurance sur la vie non soumis à échange d’informations » : les contrats d’assurance dont les prestations sont dues au moment du décès de l’assuré, autres que les contrats d’assurance avec valeur de rachat au sens de la loi modifiée du 18 décembre 2015 relative à la Norme commune de déclaration (NCD) et devant faire l’objet d’une déclaration au titre de cette loi ;
 
-2. « bénéficiaire » : la personne en faveur de laquelle les prestations sont versées en vertu d’un contrat d’assurance ;
+- « bénéficiaire » : la personne en faveur de laquelle les prestations sont versées en vertu d’un contrat d’assurance ;
 
-3. « entreprise d’assurance » : i) toute entreprise d’assurance résidente du Luxembourg dont le siège social est établi au Grand-Duché de Luxembourg, à l’exclusion de toute succursale de cette entreprise d’assurance située en dehors du territoire du Luxembourg ; ii) toute succursale d’une entreprise d’assurance non résidente du Luxembourg si cette succursale est établie au Luxembourg.
+- « entreprise d’assurance » : i) toute entreprise d’assurance résidente du Luxembourg dont le siège social est établi au Grand-Duché de Luxembourg, à l’exclusion de toute succursale de cette entreprise d’assurance située en dehors du territoire du Luxembourg ; ii) toute succursale d’une entreprise d’assurance non résidente du Luxembourg si cette succursale est établie au Luxembourg.
 
 (2)
 
@@ -427,17 +427,17 @@ Aux fins de l’article 9bis, paragraphe 1quater, les entreprises d’assurance 
 
 Conformément au paragraphe 2, les entreprises d’assurance communiquent les informations suivantes, au moins une fois par an et au plus tard le 30 juin suivant la fin de l’année civile au cours de laquelle des prestations ont été versées dans le cadre de produits d’assurance sur la vie non soumis à échange d’informations :
 
-1. dans le cas d’une personne physique : le nom, l’adresse, le NIF et la date de naissance de chaque bénéficiaire ; dans le cas d’une entité qui est bénéficiaire : le nom, l’adresse et le NIF de l’entité.
+- dans le cas d’une personne physique : le nom, l’adresse, le NIF et la date de naissance de chaque bénéficiaire ; dans le cas d’une entité qui est bénéficiaire : le nom, l’adresse et le NIF de l’entité.
 
-2. le numéro du contrat d’assurance ou son équivalent fonctionnel en l’absence de numéro du contrat d’assurance ;
+- le numéro du contrat d’assurance ou son équivalent fonctionnel en l’absence de numéro du contrat d’assurance ;
 
-3. le nom et le numéro d’identification (éventuel) de l’entreprise d’assurance ;
+- le nom et le numéro d’identification (éventuel) de l’entreprise d’assurance ;
 
-4. l’identifiant IBAN et le code BIC des comptes sur lesquels les prestations ont été versées au profit de chaque bénéficiaire ;
+- l’identifiant IBAN et le code BIC des comptes sur lesquels les prestations ont été versées au profit de chaque bénéficiaire ;
 
-5. le montant brut total des prestations versées à chaque bénéficiaire dans la devise spécifiée dans le contrat d’assurance ;
+- le montant brut total des prestations versées à chaque bénéficiaire dans la devise spécifiée dans le contrat d’assurance ;
 
-6. la date du versement des prestations.
+- la date du versement des prestations.
 
 (4)
 
@@ -463,9 +463,9 @@ Les entreprises d’assurances sont considérées comme des responsables du trai
 
 Chaque entreprise d’assurance a l’obligation :
 
-1. d’informer chaque personne physique concernée que des informations la concernant seront recueillies et transférées conformément au présent article et à l’article 9 bis , paragraphe 1 quater ;
+- d’informer chaque personne physique concernée que des informations la concernant seront recueillies et transférées conformément au présent article et à l’article 9 bis , paragraphe 1 quater ;
 
-2. de transmettre à chaque personne physique concernée toutes les informations auxquelles elle peut avoir accès qui proviennent du responsable du traitement dans un délai suffisant pour lui permettre d’exercer ses droits en matière de protection des données et, en tout état de cause, avant que les informations ne soient communiquées à l’Administration des contributions directes.
+- de transmettre à chaque personne physique concernée toutes les informations auxquelles elle peut avoir accès qui proviennent du responsable du traitement dans un délai suffisant pour lui permettre d’exercer ses droits en matière de protection des données et, en tout état de cause, avant que les informations ne soient communiquées à l’Administration des contributions directes.
 
 #### Chapitre 4 Echange spontané d’informations
 
@@ -476,15 +476,15 @@ Chaque entreprise d’assurance a l’obligation :
 
 L’autorité compétente luxembourgeoise communique les informations vraisemblablement pertinentes pour l’administration et l’application de la législation interne d’un autre Etat membre relative aux taxes et impôts visés à l’article 1er à l’autorité compétente de tout autre Etat membre intéressé, dans les cas suivants:
 
-1. l’autorité compétente luxembourgeoise a des raisons de supposer qu’il peut exister une perte d’impôt ou de taxe dans l’autre Etat membre;
+- l’autorité compétente luxembourgeoise a des raisons de supposer qu’il peut exister une perte d’impôt ou de taxe dans l’autre Etat membre;
 
-2. un contribuable obtient, au Grand-Duché de Luxembourg, une réduction ou une exonération de taxe ou d’impôt qui devrait entraîner pour lui une augmentation de taxe ou d’impôt ou un assujettissement à une taxe ou à l’impôt dans l’autre Etat membre;
+- un contribuable obtient, au Grand-Duché de Luxembourg, une réduction ou une exonération de taxe ou d’impôt qui devrait entraîner pour lui une augmentation de taxe ou d’impôt ou un assujettissement à une taxe ou à l’impôt dans l’autre Etat membre;
 
-3. des affaires entre un contribuable du Grand-Duché de Luxembourg et un contribuable d’un autre Etat membre sont traitées dans un ou plusieurs pays, de manière à pouvoir entraîner une diminution de taxe ou d’impôt dans l’un ou l’autre Etat membre ou dans les deux;
+- des affaires entre un contribuable du Grand-Duché de Luxembourg et un contribuable d’un autre Etat membre sont traitées dans un ou plusieurs pays, de manière à pouvoir entraîner une diminution de taxe ou d’impôt dans l’un ou l’autre Etat membre ou dans les deux;
 
-4. l’autorité compétente luxembourgeoise a des raisons de supposer qu’il peut exister une diminution de taxe ou d’impôt résultant de transferts fictifs de bénéfices à l’intérieur de groupes d’entreprises;
+- l’autorité compétente luxembourgeoise a des raisons de supposer qu’il peut exister une diminution de taxe ou d’impôt résultant de transferts fictifs de bénéfices à l’intérieur de groupes d’entreprises;
 
-5. au Grand-Duché de Luxembourg, à la suite des informations communiquées par l’autorité compétente de l’autre Etat membre, sont recueillies des informations qui peuvent être utiles à l’établissement d’une taxe ou de l’impôt dans cet autre Etat membre.
+- au Grand-Duché de Luxembourg, à la suite des informations communiquées par l’autorité compétente de l’autre Etat membre, sont recueillies des informations qui peuvent être utiles à l’établissement d’une taxe ou de l’impôt dans cet autre Etat membre.
 
 (2)
 
@@ -535,11 +535,11 @@ L’autorité compétente luxembourgeoise désigne un représentant chargé de s
 
 Aux fins de l’échange des informations vraisemblablement pertinentes pour l’administration et l’application de la législation interne de l’État membre requérant relative aux taxes et impôts visés à l’article 1er et conformément aux modalités de procédure définies par l’autorité requise luxembourgeoise, des fonctionnaires habilités par l’autorité requérante peuvent, sur demande de celle-ci :
 
-1. être présents dans les bureaux où les autorités administratives luxembourgeoises exécutent leurs tâches ;
+- être présents dans les bureaux où les autorités administratives luxembourgeoises exécutent leurs tâches ;
 
-2. assister aux enquêtes administratives réalisées sur le territoire du Grand-Duché de Luxembourg ;
+- assister aux enquêtes administratives réalisées sur le territoire du Grand-Duché de Luxembourg ;
 
-3. participer aux enquêtes administratives menées par l’autorité requise luxembourgeoise en utilisant des moyens de communications électroniques, le cas échéant.
+- participer aux enquêtes administratives menées par l’autorité requise luxembourgeoise en utilisant des moyens de communications électroniques, le cas échéant.
 
 L’autorité requise luxembourgeoise répond à une demande présentée conformément à l’alinéa 1er dans un délai de 60 jours suivant la réception de la demande, afin de confirmer son accord ou de signifier à l’autorité requérante son refus en le motivant.
 
@@ -580,11 +580,11 @@ Lorsque les activités d’un contrôle conjoint se déroulent au Grand-Duché d
 
 Sans préjudice du paragraphe 3,
 
-1. les fonctionnaires d’autres États membres qui participent aux activités du contrôle conjoint sont autorisés à interroger des personnes et à examiner des documents en coopération avec les fonctionnaires du Grand-Duché de Luxembourg, conformément aux modalités de procédure définies dans la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung ») ;
+- les fonctionnaires d’autres États membres qui participent aux activités du contrôle conjoint sont autorisés à interroger des personnes et à examiner des documents en coopération avec les fonctionnaires du Grand-Duché de Luxembourg, conformément aux modalités de procédure définies dans la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung ») ;
 
-2. les éléments de preuve recueillis au cours des activités du contrôle conjoint peuvent être évalués, y compris en ce qui concerne leur recevabilité, dans les mêmes conditions juridiques que celles qui s’appliquent dans le cas d’un contrôle effectué au Grand-Duché de Luxembourg avec la seule participation des fonctionnaires du Grand-Duché de Luxembourg, y compris au cours d’une procédure de réclamation, de réexamen ou de recours ; et
+- les éléments de preuve recueillis au cours des activités du contrôle conjoint peuvent être évalués, y compris en ce qui concerne leur recevabilité, dans les mêmes conditions juridiques que celles qui s’appliquent dans le cas d’un contrôle effectué au Grand-Duché de Luxembourg avec la seule participation des fonctionnaires du Grand-Duché de Luxembourg, y compris au cours d’une procédure de réclamation, de réexamen ou de recours ; et
 
-3. la ou les personnes faisant l’objet d’un contrôle conjoint ou affectées par celui-ci jouissent des mêmes droits et ont les mêmes obligations que ceux qui s’appliquent dans le cas d’un contrôle qui se déroulerait avec la seule participation des fonctionnaires du Grand-Duché de Luxembourg, y compris au cours de toute procédure de réclamation, de réexamen ou de recours.
+- la ou les personnes faisant l’objet d’un contrôle conjoint ou affectées par celui-ci jouissent des mêmes droits et ont les mêmes obligations que ceux qui s’appliquent dans le cas d’un contrôle qui se déroulerait avec la seule participation des fonctionnaires du Grand-Duché de Luxembourg, y compris au cours de toute procédure de réclamation, de réexamen ou de recours.
 
 (5)
 
@@ -725,9 +725,9 @@ Les formulaires types peuvent être accompagnés de rapports, d’attestations e
 
 Les formulaires types visés au paragraphe 1er comportent au moins les informations suivantes, que doit fournir l’autorité requérante :
 
-1. l’identité de la personne faisant l’objet d’un contrôle ou d’une enquête et, dans le cas de demandes concernant un groupe visées à l’article 6 bis , paragraphe 3, une description détaillée du groupe ;
+- l’identité de la personne faisant l’objet d’un contrôle ou d’une enquête et, dans le cas de demandes concernant un groupe visées à l’article 6 bis , paragraphe 3, une description détaillée du groupe ;
 
-2. la finalité fiscale des informations demandées.
+- la finalité fiscale des informations demandées.
 
 L’autorité requérante peut, dans la mesure où ils sont connus et conformément à l’évolution de la situation internationale, fournir les nom et adresse de toute personne dont il y a lieu de penser qu’elle est en possession des informations demandées, ainsi que tout élément susceptible de faciliter la collecte des informations par l’autorité requise.
 
@@ -786,9 +786,9 @@ Lorsque des informations vraisemblablement pertinentes pour l’administration e
 
 L’autorité compétente luxembourgeoise peut transmettre à un pays tiers, conformément à ses dispositions internes applicables à la communication de données à caractère personnel à des pays tiers, les informations obtenues, pour autant que l’ensemble des conditions suivantes soient remplies:
 
-1. l’autorité compétente de l’Etat membre d’où proviennent les informations a donné son accord préalable;
+- l’autorité compétente de l’Etat membre d’où proviennent les informations a donné son accord préalable;
 
-2. le pays tiers concerné s’est engagé à coopérer pour réunir des éléments prouvant le caractère irrégulier ou illégal des opérations qui paraissent être contraires ou constituer une infraction à la législation fiscale.
+- le pays tiers concerné s’est engagé à coopérer pour réunir des éléments prouvant le caractère irrégulier ou illégal des opérations qui paraissent être contraires ou constituer une infraction à la législation fiscale.
 
 #### Chapitre 8 Dispositions générales et finales
 

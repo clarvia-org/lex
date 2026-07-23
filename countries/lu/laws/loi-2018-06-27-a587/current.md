@@ -33,37 +33,37 @@ Définitions
 
 Aux fins de la présente loi, on entend par :
 
-1. « accès aux études » : procédure consistant à vérifier qu’un usager remplit les conditions générales en vue d’entreprendre des études supérieures à un niveau donné ;
+- « accès aux études » : procédure consistant à vérifier qu’un usager remplit les conditions générales en vue d’entreprendre des études supérieures à un niveau donné ;
 
-2. « admission » : procédure consistant à vérifier qu’un usager remplit les conditions spécifiques en vue de suivre un programme d’études donné. L’admission est entérinée par l’inscription effective au programme d’études visé ;
+- « admission » : procédure consistant à vérifier qu’un usager remplit les conditions spécifiques en vue de suivre un programme d’études donné. L’admission est entérinée par l’inscription effective au programme d’études visé ;
 
-3. « année académique » : année d’études subdivisée en deux semestres, désignés de « semestre d’hiver » et « semestre d’été » ;
+- « année académique » : année d’études subdivisée en deux semestres, désignés de « semestre d’hiver » et « semestre d’été » ;
 
-4. « bachelor » : grade sanctionnant des études universitaires de premier niveau d’au moins 180 crédits ECTS et d’au plus 240 crédits ECTS ;
+- « bachelor » : grade sanctionnant des études universitaires de premier niveau d’au moins 180 crédits ECTS et d’au plus 240 crédits ECTS ;
 
-5. « crédit ECTS » : unité correspondant au temps consacré par l’usager, au sein d’un programme d’études, à une activité d’apprentissage dans un cours déterminé. Les crédits sont octroyés à l’usager après évaluation favorable des connaissances et compétences acquises. Un crédit correspond à une prestation d’études exigeant entre 25 et 30 heures de travail ;
+- « crédit ECTS » : unité correspondant au temps consacré par l’usager, au sein d’un programme d’études, à une activité d’apprentissage dans un cours déterminé. Les crédits sont octroyés à l’usager après évaluation favorable des connaissances et compétences acquises. Un crédit correspond à une prestation d’études exigeant entre 25 et 30 heures de travail ;
 
-6. « docteur » : grade sanctionnant des études universitaires de troisième niveau consacrées à des travaux de recherche et à l’acquisition de compétences scientifiques, méthodologiques et transversales, débouchant sur la soutenance d’une thèse ;
+- « docteur » : grade sanctionnant des études universitaires de troisième niveau consacrées à des travaux de recherche et à l’acquisition de compétences scientifiques, méthodologiques et transversales, débouchant sur la soutenance d’une thèse ;
 
-7. 6bis°« docteur en médecine » : grade sanctionnant les études spécialisées en médecine telles que définies par la loi modifiée du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg, conféré conjointement avec le diplôme d’études spécialisées en médecine »
+- 6bis°« docteur en médecine » : grade sanctionnant les études spécialisées en médecine telles que définies par la loi modifiée du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg, conféré conjointement avec le diplôme d’études spécialisées en médecine »
 
-8. « liberté académique » : liberté de pensée et d’expression dans l’enseignement et la recherche en l’absence de toute emprise politique, économique, religieuse et idéologique ;
+- « liberté académique » : liberté de pensée et d’expression dans l’enseignement et la recherche en l’absence de toute emprise politique, économique, religieuse et idéologique ;
 
-9. « master » : grade sanctionnant des études universitaires de deuxième niveau d’au moins 60 crédits ECTS et d’au plus 180 crédits ECTS ;
+- « master » : grade sanctionnant des études universitaires de deuxième niveau d’au moins 60 crédits ECTS et d’au plus 180 crédits ECTS ;
 
-10. « prétitularisation conditionnelle » : procédure qui permet l’engagement d’un professeur assistant avec possibilité de titularisation au rang de professeur adjoint ou l’engagement d’un professeur adjoint avec possibilité de titularisation au rang de professeur ordinaire après une évaluation favorable, conformément aux dispositions de l’article 25, paragraphe 4 ;
+- « prétitularisation conditionnelle » : procédure qui permet l’engagement d’un professeur assistant avec possibilité de titularisation au rang de professeur adjoint ou l’engagement d’un professeur adjoint avec possibilité de titularisation au rang de professeur ordinaire après une évaluation favorable, conformément aux dispositions de l’article 25, paragraphe 4 ;
 
-11. « unité d’enseignement » : séquence d’enseignement théorique ou pratique de quarante-cinq minutes ;
+- « unité d’enseignement » : séquence d’enseignement théorique ou pratique de quarante-cinq minutes ;
 
-12. « usager » : toute personne inscrite à l’Université du Luxembourg, désignée ci-après par « Université », ou autorisée à y suivre des enseignements. Parmi les usagers, il y a lieu de distinguer les catégories suivantes : À l’exception des étudiants poursuivant des études spécialisées en médecine, les usagers visés aux lettres a) et b) peuvent solliciter le statut d’étudiant ou d’auditeur à temps partiel. Les modalités pré­sidant à la procédure afférente ainsi qu’au changement de statut à l’intérieur d’un niveau d’études donné sont précisées dans le règlement des études de l’Université ;
+- « usager » : toute personne inscrite à l’Université du Luxembourg, désignée ci-après par « Université », ou autorisée à y suivre des enseignements. Parmi les usagers, il y a lieu de distinguer les catégories suivantes : À l’exception des étudiants poursuivant des études spécialisées en médecine, les usagers visés aux lettres a) et b) peuvent solliciter le statut d’étudiant ou d’auditeur à temps partiel. Les modalités pré­sidant à la procédure afférente ainsi qu’au changement de statut à l’intérieur d’un niveau d’études donné sont précisées dans le règlement des études de l’Université ;
 
-1. étudiant : personne inscrite à l’Université en vue d’obtenir un grade de bachelor, de master ou de docteur ou en vue d’obtenir un diplôme d’études spécialisées en médecine et remplissant les conditions d’accès visées à l’article 32 ;
+  - étudiant : personne inscrite à l’Université en vue d’obtenir un grade de bachelor, de master ou de docteur ou en vue d’obtenir un diplôme d’études spécialisées en médecine et remplissant les conditions d’accès visées à l’article 32 ;
 
-2. auditeur : personne inscrite à l’Université en vue d’obtenir un certificat visé à l’article 31, para­graphe 4 , et remplissant les conditions d’accès visées à l’article 32, paragraphe 5 ;
+  - auditeur : personne inscrite à l’Université en vue d’obtenir un certificat visé à l’article 31, para­graphe 4 , et remplissant les conditions d’accès visées à l’article 32, paragraphe 5 ;
 
-3. auditeur libre : personne autorisée, sur décision du doyen de la faculté concernée, à suivre certains enseignements sans pour autant être autorisée à se présenter à un examen menant à la validation de crédits ECTS.
+  - auditeur libre : personne autorisée, sur décision du doyen de la faculté concernée, à suivre certains enseignements sans pour autant être autorisée à se présenter à un examen menant à la validation de crédits ECTS.
 
-13. « usager à besoins éducatifs particuliers » : tout usager présentant une déficience ou une incapacité particulière dont les répercussions entravent une progression normale dans les études ou l’empêchent de faire valoir, lors des épreuves d’évaluation, les connaissances et compétences acquises et qui est telle que ces entraves et empêchements puissent être palliés par les aménagements raisonnables prévus à l’article 39.
+- « usager à besoins éducatifs particuliers » : tout usager présentant une déficience ou une incapacité particulière dont les répercussions entravent une progression normale dans les études ou l’empêchent de faire valoir, lors des épreuves d’évaluation, les connaissances et compétences acquises et qui est telle que ces entraves et empêchements puissent être palliés par les aménagements raisonnables prévus à l’article 39.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -95,25 +95,25 @@ Missions
 
 L’Université a pour missions :
 
-1. de dispenser des formations d’enseignement supérieur sanctionnées par des grades, des diplômes et des certificats ;
+- de dispenser des formations d’enseignement supérieur sanctionnées par des grades, des diplômes et des certificats ;
 
-2. d’entreprendre des activités de recherche ;
+- d’entreprendre des activités de recherche ;
 
-3. de contribuer au développement social, culturel et économique du Luxembourg.
+- de contribuer au développement social, culturel et économique du Luxembourg.
 
 (2)
 
 En vue de la réalisation de ses missions, l’Université est appelée à :
 
-1. mener des coopérations avec des universités, des organismes, des institutions et des établissements d’enseignement supérieur et de recherche nationaux et internationaux ;
+- mener des coopérations avec des universités, des organismes, des institutions et des établissements d’enseignement supérieur et de recherche nationaux et internationaux ;
 
-2. participer à des programmes d’enseignement supérieur, de recherche et d’innovation nationaux, européens ou internationaux ;
+- participer à des programmes d’enseignement supérieur, de recherche et d’innovation nationaux, européens ou internationaux ;
 
-3. veiller à la qualité de l’enseignement supérieur et de la recherche et à mettre en place un système d’assurance de la qualité ;
+- veiller à la qualité de l’enseignement supérieur et de la recherche et à mettre en place un système d’assurance de la qualité ;
 
-4. assurer l’encadrement pédagogique et scientifique des étudiants et à encourager leur mobilité ;
+- assurer l’encadrement pédagogique et scientifique des étudiants et à encourager leur mobilité ;
 
-5. assurer un lien entre les activités d’enseignement et de recherche, ainsi qu’à opérer le transfert de connaissances et de technologies et la valorisation de ses résultats de recherche et à contribuer au développement de la culture scientifique.
+- assurer un lien entre les activités d’enseignement et de recherche, ainsi qu’à opérer le transfert de connaissances et de technologies et la valorisation de ses résultats de recherche et à contribuer au développement de la culture scientifique.
 
 (3)
 
@@ -136,11 +136,11 @@ Organes de l’Université
 
 Les organes de l’Université sont :
 
-1. le conseil de gouvernance ;
+- le conseil de gouvernance ;
 
-2. le recteur ;
+- le recteur ;
 
-3. le conseil universitaire.
+- le conseil universitaire.
 
 (2)
 
@@ -161,39 +161,39 @@ Attributions du conseil de gouvernance
 
 Le conseil de gouvernance exerce les attributions suivantes :
 
-1. il arrête la politique générale et la stratégie de l’Université et exerce le contrôle sur les activités de l’Université ;
+- il arrête la politique générale et la stratégie de l’Université et exerce le contrôle sur les activités de l’Université ;
 
-2. il nomme et révoque le recteur, les vice-recteurs, les doyens, les directeurs des centres interdisci­plinaires, les professeurs affiliés, les professeurs invités et les professeurs à titre honoraire ;
+- il nomme et révoque le recteur, les vice-recteurs, les doyens, les directeurs des centres interdisci­plinaires, les professeurs affiliés, les professeurs invités et les professeurs à titre honoraire ;
 
-3. il élabore et arrête le règlement d’ordre intérieur de l’Université ;
+- il élabore et arrête le règlement d’ordre intérieur de l’Université ;
 
-4. il arrête la politique des rémunérations, des ressources humaines et des carrières des enseignants-chercheurs, ainsi que la politique de l’égalité du genre ;
+- il arrête la politique des rémunérations, des ressources humaines et des carrières des enseignants-chercheurs, ainsi que la politique de l’égalité du genre ;
 
-5. il arrête le règlement des études, ainsi que les frais d’inscription ;
+- il arrête le règlement des études, ainsi que les frais d’inscription ;
 
-6. il arrête les prises de participation et la création de filiales à l’étranger et approuve les emprunts à contracter ;
+- il arrête les prises de participation et la création de filiales à l’étranger et approuve les emprunts à contracter ;
 
-7. il arrête l’organigramme des organes de l’Université, des facultés, des centres interdisciplinaires, de leurs départements, des écoles doctorales et de l’administration centrale ;
+- il arrête l’organigramme des organes de l’Université, des facultés, des centres interdisciplinaires, de leurs départements, des écoles doctorales et de l’administration centrale ;
 
-8. il arrête le programme pluriannuel de l’Université ;
+- il arrête le programme pluriannuel de l’Université ;
 
-9. il arrête le projet de convention pluriannuelle à conclure avec l’État, et il organise et surveille le suivi de la convention pluriannuelle ;
+- il arrête le projet de convention pluriannuelle à conclure avec l’État, et il organise et surveille le suivi de la convention pluriannuelle ;
 
-10. il arrête le budget annuel et les comptes annuels, ainsi que l’acceptation de dons et de legs, et il propose au ministre un réviseur d’entreprises agréé ;
+- il arrête le budget annuel et les comptes annuels, ainsi que l’acceptation de dons et de legs, et il propose au ministre un réviseur d’entreprises agréé ;
 
-11. il arrête le rapport d’activités annuel ;
+- il arrête le rapport d’activités annuel ;
 
-12. il arrête la création, le maintien et la suppression des facultés, des centres interdisciplinaires, de leurs départements et des écoles doctorales, ainsi que des programmes d’études ;
+- il arrête la création, le maintien et la suppression des facultés, des centres interdisciplinaires, de leurs départements et des écoles doctorales, ainsi que des programmes d’études ;
 
-13. il arrête les descriptions de postes et les profils des professeurs à recruter ;
+- il arrête les descriptions de postes et les profils des professeurs à recruter ;
 
-14. il engage et licencie le directeur administratif et financier et les professeurs ordinaires. Il peut déléguer l’engagement des professeurs ordinaires recrutés selon les dispositions de l’article 25, paragraphe 1 er , au recteur selon les modalités arrêtées à cette fin par le règlement d’ordre intérieur ;
+- il engage et licencie le directeur administratif et financier et les professeurs ordinaires. Il peut déléguer l’engagement des professeurs ordinaires recrutés selon les dispositions de l’article 25, paragraphe 1 er , au recteur selon les modalités arrêtées à cette fin par le règlement d’ordre intérieur ;
 
-15. il conclut et résilie tout contrat et toute convention et il peut déléguer cette attribution, selon les modalités arrêtées à cette fin par le règlement d’ordre intérieur, au recteur, à condition que la valeur ne dépasse pas cent mille euros à la cote 100 de l’indice des prix à la consommation national au 1 er janvier 1948, ainsi qu’aux vice-recteurs, au directeur administratif et financier, aux doyens et aux directeurs des centres interdisciplinaires, à condition que la valeur ne dépasse pas cinquante mille euros à la cote 100 de l’indice des prix à la consommation national au 1 er janvier 1948. Ces délégations ne sont susceptibles de subdélégation que si cette faculté est prévue dans l’acte de délégation qui en fixe les conditions et les limites ;
+- il conclut et résilie tout contrat et toute convention et il peut déléguer cette attribution, selon les modalités arrêtées à cette fin par le règlement d’ordre intérieur, au recteur, à condition que la valeur ne dépasse pas cent mille euros à la cote 100 de l’indice des prix à la consommation national au 1 er janvier 1948, ainsi qu’aux vice-recteurs, au directeur administratif et financier, aux doyens et aux directeurs des centres interdisciplinaires, à condition que la valeur ne dépasse pas cinquante mille euros à la cote 100 de l’indice des prix à la consommation national au 1 er janvier 1948. Ces délégations ne sont susceptibles de subdélégation que si cette faculté est prévue dans l’acte de délégation qui en fixe les conditions et les limites ;
 
-16. il saisit le rectorat de toutes les questions concernant la gestion et le développement de l’Université ;
+- il saisit le rectorat de toutes les questions concernant la gestion et le développement de l’Université ;
 
-17. il approuve les acquisitions, aliénations et échanges d’immeubles autres que ceux mis à disposition par l’État ou transférés par l’État à l’Université, ainsi que les conditions de baux à contracter.
+- il approuve les acquisitions, aliénations et échanges d’immeubles autres que ceux mis à disposition par l’État ou transférés par l’État à l’Université, ainsi que les conditions de baux à contracter.
 
 (2)
 
@@ -224,27 +224,27 @@ Le conseil de gouvernance est composé de treize membres, dont onze sont nommés
 
 Neuf membres sont proposés par le ministre conformément aux critères ci-après :
 
-1. cinq membres au moins doivent avoir le rang de professeur d’université ;
+- cinq membres au moins doivent avoir le rang de professeur d’université ;
 
-2. les membres ne peuvent exercer aucune autre fonction auprès de l’Université ;
+- les membres ne peuvent exercer aucune autre fonction auprès de l’Université ;
 
-3. les membres doivent disposer d’une expérience et compétence en matière d’enseignement supérieur et de recherche ou en matière de gestion et de gouvernance ;
+- les membres doivent disposer d’une expérience et compétence en matière d’enseignement supérieur et de recherche ou en matière de gestion et de gouvernance ;
 
-4. la proportion des membres de chaque sexe ne peut être inférieure à quarante pour cent ;
+- la proportion des membres de chaque sexe ne peut être inférieure à quarante pour cent ;
 
-5. ne peuvent devenir membres du conseil de gouvernance les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler l’Université ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs de l’Université ou signent des ordonnances de paie­ment ou toute autre pièce administrative entraînant une dépense de l’État en faveur de l’établissement.
+- ne peuvent devenir membres du conseil de gouvernance les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler l’Université ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs de l’Université ou signent des ordonnances de paie­ment ou toute autre pièce administrative entraînant une dépense de l’État en faveur de l’établissement.
 
 (3)
 
 Deux membres sont proposés par le conseil universitaire conformément aux critères ci-après :
 
-1. un membre au moins doit avoir le rang de professeur d’université ;
+- un membre au moins doit avoir le rang de professeur d’université ;
 
-2. les membres doivent disposer d’une expérience et compétence en matière d’enseignement supérieur et de recherche ou en matière de gestion et de gouvernance ;
+- les membres doivent disposer d’une expérience et compétence en matière d’enseignement supérieur et de recherche ou en matière de gestion et de gouvernance ;
 
-3. la proportion des membres de chaque sexe doit être paritaire ;
+- la proportion des membres de chaque sexe doit être paritaire ;
 
-4. ne peuvent devenir membres du conseil de gouvernance les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler l’Université ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs de l’Université ou signent des ordonnances de paie­ment ou toute autre pièce administrative entraînant une dépense de l’État en faveur de l’établissement.
+- ne peuvent devenir membres du conseil de gouvernance les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler l’Université ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs de l’Université ou signent des ordonnances de paie­ment ou toute autre pièce administrative entraînant une dépense de l’État en faveur de l’établissement.
 
 (4)
 
@@ -317,53 +317,53 @@ Attributions du recteur
 
 Le recteur exerce les attributions suivantes :
 
-1. il préside le rectorat ;
+- il préside le rectorat ;
 
-2. il est le chef hiérarchique du personnel de l’Université ;
+- il est le chef hiérarchique du personnel de l’Université ;
 
-3. il délivre les grades, les diplômes et les certificats ;
+- il délivre les grades, les diplômes et les certificats ;
 
-4. il exécute les décisions du conseil de gouvernance et lui en rend compte ;
+- il exécute les décisions du conseil de gouvernance et lui en rend compte ;
 
-5. il rend compte au conseil de gouvernance de sa gestion et sur les activités de l’Université selon les modalités précisées au règlement d’ordre intérieur ;
+- il rend compte au conseil de gouvernance de sa gestion et sur les activités de l’Université selon les modalités précisées au règlement d’ordre intérieur ;
 
-6. il élabore et propose la politique générale et la stratégie de l’Université ;
+- il élabore et propose la politique générale et la stratégie de l’Université ;
 
-7. il élabore le programme pluriannuel et négocie la convention pluriannuelle avec l’État ;
+- il élabore le programme pluriannuel et négocie la convention pluriannuelle avec l’État ;
 
-8. il élabore le règlement des études et contribue à l’élaboration du règlement d’ordre intérieur ;
+- il élabore le règlement des études et contribue à l’élaboration du règlement d’ordre intérieur ;
 
-9. il élabore la politique des rémunérations, des ressources humaines et des carrières du personnel de l’Université ainsi que la politique de l’égalité du genre ;
+- il élabore la politique des rémunérations, des ressources humaines et des carrières du personnel de l’Université ainsi que la politique de l’égalité du genre ;
 
-10. il élabore le budget annuel et les décomptes annuels ;
+- il élabore le budget annuel et les décomptes annuels ;
 
-11. il élabore le rapport d’activités annuel ;
+- il élabore le rapport d’activités annuel ;
 
-12. il nomme les vice-doyens, les directeurs adjoints des centres interdisciplinaires, les chefs de dépar­tement et les directeurs des programmes d’études menant au grade de docteur ;
+- il nomme les vice-doyens, les directeurs adjoints des centres interdisciplinaires, les chefs de dépar­tement et les directeurs des programmes d’études menant au grade de docteur ;
 
-13. il propose les vice-recteurs, les doyens, les directeurs des centres interdisciplinaires, le directeur administratif et financier, les professeurs invités, les professeurs affiliés et les professeurs à titre honoraire ;
+- il propose les vice-recteurs, les doyens, les directeurs des centres interdisciplinaires, le directeur administratif et financier, les professeurs invités, les professeurs affiliés et les professeurs à titre honoraire ;
 
-14. il élabore les descriptions de poste et les profils des professeurs, engage et licencie les professeurs dans le cadre des procédures de recrutement et de promotion, à l’exception des professeurs ordinaires ;
+- il élabore les descriptions de poste et les profils des professeurs, engage et licencie les professeurs dans le cadre des procédures de recrutement et de promotion, à l’exception des professeurs ordinaires ;
 
-15. il conclut et résilie tout contrat et toute convention dans les limites des compétences lui déléguées à cet effet aux termes de l’article 5, paragraphe 1 er , point 15° ;
+- il conclut et résilie tout contrat et toute convention dans les limites des compétences lui déléguées à cet effet aux termes de l’article 5, paragraphe 1 er , point 15° ;
 
-16. il nomme les membres des commissions d’évaluation visées à l’article 21, paragraphe 2, et à l’article 25, paragraphes 3, 4 et 5, et des commissions de recrutement visées à l’article 25, para­graphe 1 er , et en désigne le président ;
+- il nomme les membres des commissions d’évaluation visées à l’article 21, paragraphe 2, et à l’article 25, paragraphes 3, 4 et 5, et des commissions de recrutement visées à l’article 25, para­graphe 1 er , et en désigne le président ;
 
-17. il propose la création, le maintien et la suppression de facultés, de centres interdisciplinaires, de leurs départements et des écoles doctorales, ainsi que de programmes d’études conformément aux orientations arrêtées par le conseil universitaire ;
+- il propose la création, le maintien et la suppression de facultés, de centres interdisciplinaires, de leurs départements et des écoles doctorales, ainsi que de programmes d’études conformément aux orientations arrêtées par le conseil universitaire ;
 
-18. il propose la signature d’accords et de conventions, les prises de participation, la création de filiales à l’étranger, l’acceptation de dons et de legs ainsi que les acquisitions, aliénations et échanges d’immeubles et les conditions de baux à contracter ;
+- il propose la signature d’accords et de conventions, les prises de participation, la création de filiales à l’étranger, l’acceptation de dons et de legs ainsi que les acquisitions, aliénations et échanges d’immeubles et les conditions de baux à contracter ;
 
-19. il affecte aux différentes composantes de l’Université le personnel administratif, financier et technique ;
+- il affecte aux différentes composantes de l’Université le personnel administratif, financier et technique ;
 
-20. il veille à la mise en application du règlement d’ordre intérieur ;
+- il veille à la mise en application du règlement d’ordre intérieur ;
 
-21. il est responsable du maintien de l’ordre dans les locaux de l’Université et exerce le pouvoir dis­ciplinaire en première instance ;
+- il est responsable du maintien de l’ordre dans les locaux de l’Université et exerce le pouvoir dis­ciplinaire en première instance ;
 
-22. il représente l’Université à l’égard des tiers ainsi qu’en justice ;
+- il représente l’Université à l’égard des tiers ainsi qu’en justice ;
 
-23. il est l’ordonnateur des recettes et des dépenses de l’Université et il assure la gestion du patrimoine de l’Université.
+- il est l’ordonnateur des recettes et des dépenses de l’Université et il assure la gestion du patrimoine de l’Université.
 
-24. il arrête la création, le maintien et la suppression des certificats.
+- il arrête la création, le maintien et la suppression des certificats.
 
 (2)
 
@@ -382,11 +382,11 @@ Nomination du recteur
 
 Le candidat au poste de recteur doit remplir les conditions suivantes :
 
-1. avoir le rang de professeur auprès de l’Université ou auprès d’une autre université ;
+- avoir le rang de professeur auprès de l’Université ou auprès d’une autre université ;
 
-2. se prévaloir d’une excellence scientifique internationalement reconnue sur base de la qualité de ses travaux de recherche ;
+- se prévaloir d’une excellence scientifique internationalement reconnue sur base de la qualité de ses travaux de recherche ;
 
-3. avoir des compétences en matière de gestion et de gouvernance.
+- avoir des compétences en matière de gestion et de gouvernance.
 
 (2)
 
@@ -425,11 +425,11 @@ Le rectorat peut s’adjoindre des conseillers ou des chargés de missions dont 
 
 Le candidat au poste de vice-recteur doit remplir les conditions suivantes :
 
-1. avoir le rang de professeur auprès de l’Université ou auprès d’une autre université ;
+- avoir le rang de professeur auprès de l’Université ou auprès d’une autre université ;
 
-2. se prévaloir d’une réputation et expertise internationalement reconnues sur base de la qualité de ses travaux de recherche ;
+- se prévaloir d’une réputation et expertise internationalement reconnues sur base de la qualité de ses travaux de recherche ;
 
-3. avoir des compétences en matière de gestion et de gouvernance.
+- avoir des compétences en matière de gestion et de gouvernance.
 
 (3)
 
@@ -472,33 +472,33 @@ Attributions du conseil universitaire
 
 Le conseil universitaire exerce les attributions suivantes :
 
-1. il assiste le recteur dans l’organisation des activités d’enseignement et de recherche de l’Université ;
+- il assiste le recteur dans l’organisation des activités d’enseignement et de recherche de l’Université ;
 
-2. il arrête les orientations des programmes d’études ;
+- il arrête les orientations des programmes d’études ;
 
-3. il émet un avis concernant le règlement d’ordre intérieur et contribue à l’élaboration du règlement des études ;
+- il émet un avis concernant le règlement d’ordre intérieur et contribue à l’élaboration du règlement des études ;
 
-4. il émet un avis concernant la proposition de nomination du recteur et des vice-recteurs ;
+- il émet un avis concernant la proposition de nomination du recteur et des vice-recteurs ;
 
-5. il émet un avis concernant le programme pluriannuel ;
+- il émet un avis concernant le programme pluriannuel ;
 
-6. il émet un avis concernant le budget annuel et les décomptes annuels ;
+- il émet un avis concernant le budget annuel et les décomptes annuels ;
 
-7. il émet un avis concernant le rapport d’activités annuel ;
+- il émet un avis concernant le rapport d’activités annuel ;
 
-8. il émet un avis concernant la création, le maintien et la suppression de facultés, de centres inter­disciplinaires et de leurs départements, ainsi que des écoles doctorales ;
+- il émet un avis concernant la création, le maintien et la suppression de facultés, de centres inter­disciplinaires et de leurs départements, ainsi que des écoles doctorales ;
 
-9. il émet un avis concernant les accords et les conventions de coopération scientifique et pédagogique ;
+- il émet un avis concernant les accords et les conventions de coopération scientifique et pédagogique ;
 
-10. il nomme le président et les membres de la commission des litiges ;
+- il nomme le président et les membres de la commission des litiges ;
 
-11. il nomme les membres de la commission d’égalité du genre, dont la composition, les attributions et le fonctionnement sont précisés par le règlement d’ordre intérieur ;
+- il nomme les membres de la commission d’égalité du genre, dont la composition, les attributions et le fonctionnement sont précisés par le règlement d’ordre intérieur ;
 
-12. il nomme les membres de la commission des aménagements raisonnables ;
+- il nomme les membres de la commission des aménagements raisonnables ;
 
-13. il nomme les membres de la commission consultative d’éthique, chargée de promouvoir le respect des valeurs éthiques dans la vie universitaire, et dont la composition, les attributions et le fonc­tionnement sont précisés par le règlement d’ordre intérieur ;
+- il nomme les membres de la commission consultative d’éthique, chargée de promouvoir le respect des valeurs éthiques dans la vie universitaire, et dont la composition, les attributions et le fonc­tionnement sont précisés par le règlement d’ordre intérieur ;
 
-14. il peut en tout temps décider de soumettre au recteur une proposition ou une question d’intérêt général à laquelle celui-ci doit donner une réponse écrite dans un délai de trois mois.
+- il peut en tout temps décider de soumettre au recteur une proposition ou une question d’intérêt général à laquelle celui-ci doit donner une réponse écrite dans un délai de trois mois.
 
 Pour les points 3°, 5° à 9°, le conseil universitaire doit émettre son avis dans les trente-cinq jours qui suivent la réception de la demande transmise par le recteur. Si le conseil universitaire n’a pas émis son avis dans le délai précité, le recteur peut passer outre et transmettre sa proposition au conseil de gouvernance.
 
@@ -513,17 +513,17 @@ Composition du conseil universitaire
 
 Le conseil universitaire est composé de :
 
-1. deux représentants des professeurs par faculté, élus par les professeurs de la faculté concernée ;
+- deux représentants des professeurs par faculté, élus par les professeurs de la faculté concernée ;
 
-2. deux représentants des professeurs des centres interdisciplinaires, élus par les professeurs des centres interdisciplinaires ;
+- deux représentants des professeurs des centres interdisciplinaires, élus par les professeurs des centres interdisciplinaires ;
 
-3. deux représentants des assistants-chercheurs par faculté, élus par les assistants-chercheurs de la faculté concernée ;
+- deux représentants des assistants-chercheurs par faculté, élus par les assistants-chercheurs de la faculté concernée ;
 
-4. deux représentants des assistants-chercheurs des centres interdisciplinaires, élus par les assistants-chercheurs des centres interdisciplinaires ;
+- deux représentants des assistants-chercheurs des centres interdisciplinaires, élus par les assistants-chercheurs des centres interdisciplinaires ;
 
-5. deux représentants du personnel administratif, financier et technique, élus par le personnel adminis­tratif, financier et technique ;
+- deux représentants du personnel administratif, financier et technique, élus par le personnel adminis­tratif, financier et technique ;
 
-6. six étudiants élus par la délégation des étudiants.
+- six étudiants élus par la délégation des étudiants.
 
 (2)
 
@@ -556,11 +556,11 @@ Composantes de l’Université
 
 Les composantes de l’Université sont :
 
-1. la faculté ;
+- la faculté ;
 
-2. le centre interdisciplinaire ;
+- le centre interdisciplinaire ;
 
-3. l’administration centrale.
+- l’administration centrale.
 
 (2)
 
@@ -680,15 +680,15 @@ Statut du personnel
 
 Le personnel de l’Université comprend :
 
-1. le personnel enseignant-chercheur, qui est regroupé dans les catégories suivantes :
+- le personnel enseignant-chercheur, qui est regroupé dans les catégories suivantes :
 
-1. professeurs ;
+  - professeurs ;
 
-2. assistants-chercheurs ;
+  - assistants-chercheurs ;
 
-3. enseignants-chercheurs associés ;
+  - enseignants-chercheurs associés ;
 
-2. le personnel administratif, financier et technique.
+- le personnel administratif, financier et technique.
 
 (2)
 
@@ -786,15 +786,15 @@ Fonctions des professeurs
 
 Dans le cadre des missions de l’Université visées à l’article 3, les fonctions des professeurs comprennent les domaines suivants :
 
-1. enseignement ;
+- enseignement ;
 
-2. recherche ;
+- recherche ;
 
-3. diffusion des connaissances et des résultats de recherche ;
+- diffusion des connaissances et des résultats de recherche ;
 
-4. coopération nationale, européenne et internationale ;
+- coopération nationale, européenne et internationale ;
 
-5. administration et gestion.
+- administration et gestion.
 
 (2)
 
@@ -833,9 +833,9 @@ Sur la base d’un avis favorable de la commission d’évaluation, le recteur p
 
 Par dérogation aux dispositions du paragraphe 1er, alinéa 1er, il peut être procédé pour un maxi­mum de vingt-cinq pour cent des nouvelles nominations à la promotion d’un maître-assistant au poste de professeur assistant si les deux conditions suivantes sont remplies :
 
-1. le candidat est engagé au moins soixante mois auprès de l’Université ;
+- le candidat est engagé au moins soixante mois auprès de l’Université ;
 
-2. le candidat a poursuivi depuis le doctorat une période obligatoire d’au moins un an auprès d’une université ou d’une institution de recherche publique à l’étranger.
+- le candidat a poursuivi depuis le doctorat une période obligatoire d’au moins un an auprès d’une université ou d’une institution de recherche publique à l’étranger.
 
 La proposition de promotion est faite par le recteur au conseil de gouvernance sur base d’un rapport d’éva­luation de l’exercice des fonctions du candidat telles que définies à l’article 24. Ce rapport est établi par une commission d’évaluation instituée par le recteur et composée d’au moins cinq membres externes et indépendants de l’Université qui ont le rang de professeur d’université. Le recteur nomme le président de la commission.
 
@@ -908,11 +908,11 @@ Le titre de professeur affilié peut être conféré à un chercheur engagé aup
 
 Sont éligibles les organismes ci-après, établis au Grand-Duché de Luxembourg :
 
-1. les établissements publics pour lesquels la recherche constitue une mission légale ;
+- les établissements publics pour lesquels la recherche constitue une mission légale ;
 
-2. les organismes publics entreprenant, dans les domaines qui les concernent, des activités de recherche ;
+- les organismes publics entreprenant, dans les domaines qui les concernent, des activités de recherche ;
 
-3. les associations et les fondations sans but lucratif régies par les dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif entreprenant, dans les domaines qui les concernent, des activités de recherche.
+- les associations et les fondations sans but lucratif régies par les dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif entreprenant, dans les domaines qui les concernent, des activités de recherche.
 
 Le professeur affilié est électeur aux fonctions statutaires au sein de l’Université, dans la faculté concernée ou dans le centre interdisciplinaire concerné, sans être éligible. Il peut être amené à assumer les fonctions d’un professeur telles que visées à l’article 24.
 
@@ -975,11 +975,11 @@ Principes de mise en œuvre
 
 L’Université organise les trois niveaux d’études suivants :
 
-1. bachelor ;
+- bachelor ;
 
-2. master ;
+- master ;
 
-3. doctorat.
+- doctorat.
 
 Les trois niveaux d’études mènent respectivement aux grades de bachelor, de master et de docteur figurant aux niveaux 6, 7 et 8 du cadre luxembourgeois des qualifications défini à l’article 69 de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles.
 
@@ -1014,11 +1014,11 @@ Accès aux études
 
 L’accès aux études menant au grade de bachelor est ouvert aux détenteurs :
 
-1. d’un diplôme luxembourgeois de fin d’études secondaires ou secondaires techniques, ou d’un diplôme luxembourgeois de fin d’études secondaires classiques ou secondaires générales ;
+- d’un diplôme luxembourgeois de fin d’études secondaires ou secondaires techniques, ou d’un diplôme luxembourgeois de fin d’études secondaires classiques ou secondaires générales ;
 
-2. du diplôme d’accès aux études supérieures luxembourgeois ;
+- du diplôme d’accès aux études supérieures luxembourgeois ;
 
-3. de diplômes ou certificats étrangers reconnus équivalents par le ministre ayant l’Éducation nationale dans ses attributions.
+- de diplômes ou certificats étrangers reconnus équivalents par le ministre ayant l’Éducation nationale dans ses attributions.
 
 Les détenteurs d’un diplôme luxembourgeois de technicien ayant réussi tous les modules prépara­toires prescrits tels que visés par l’article 35 de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle, ainsi que les détenteurs d’un diplôme étranger reconnu équivalent au diplôme de technicien par le ministre ayant l’Éducation nationale dans ses attributions sont admissibles aux programmes de formation dans la spécialité correspondante qui mènent au grade de bachelor.
 
@@ -1063,17 +1063,17 @@ Par dérogation aux dispositions de l’article 32, une validation des acquis de
 
 Pour l’accès aux études menant au grade de bachelor, peuvent être pris en compte :
 
-1. les études d’enseignement secondaire, d’enseignement secondaire technique, d’enseignement secondaire classique, d’enseignement secondaire général ou de formation pro­fessionnelle, désignées ci-après par « études d’enseignement secondaire », suivies par le candidat et ne répondant pas aux conditions visées à l’article 32, paragraphe 1 er ;
+- les études d’enseignement secondaire, d’enseignement secondaire technique, d’enseignement secondaire classique, d’enseignement secondaire général ou de formation pro­fessionnelle, désignées ci-après par « études d’enseignement secondaire », suivies par le candidat et ne répondant pas aux conditions visées à l’article 32, paragraphe 1 er ;
 
-2. les études d’enseignement supérieur antérieurement suivies par le candidat ;
+- les études d’enseignement supérieur antérieurement suivies par le candidat ;
 
-3. les acquis de l’expérience correspondant à l’exercice, continu ou non, pendant une durée cumulée d’au moins trois ans équivalent temps plein, d’une activité professionnelle, salariée, non salariée ou bénévole, en rapport avec l’objet de la demande du candidat.
+- les acquis de l’expérience correspondant à l’exercice, continu ou non, pendant une durée cumulée d’au moins trois ans équivalent temps plein, d’une activité professionnelle, salariée, non salariée ou bénévole, en rapport avec l’objet de la demande du candidat.
 
 Pour l’accès aux études menant au grade de master, peuvent être pris en compte :
 
-1. les études d’enseignement supérieur antérieurement suivies par le candidat et ne répondant pas aux conditions visées à l’article 32, paragraphe 2 ;
+- les études d’enseignement supérieur antérieurement suivies par le candidat et ne répondant pas aux conditions visées à l’article 32, paragraphe 2 ;
 
-2. les acquis de l’expérience correspondant à l’exercice, continu ou non, pendant une durée cumulée d’au moins trois ans équivalent temps plein, d’une activité professionnelle, salariée, non salariée ou bénévole, en rapport avec l’objet de la demande du candidat.
+- les acquis de l’expérience correspondant à l’exercice, continu ou non, pendant une durée cumulée d’au moins trois ans équivalent temps plein, d’une activité professionnelle, salariée, non salariée ou bénévole, en rapport avec l’objet de la demande du candidat.
 
 (2)
 
@@ -1081,9 +1081,9 @@ Une validation des acquis de l’expérience peut être effectuée en vue de jus
 
 Dans le cadre des études menant aux grades de bachelor ou de master, peuvent être pris en compte :
 
-1. les études d’enseignement supérieur antérieurement suivies par le candidat ;
+- les études d’enseignement supérieur antérieurement suivies par le candidat ;
 
-2. les acquis de l’expérience correspondant à l’exercice, continu ou non, pendant une durée cumulée d’au moins trois ans équivalent temps plein, d’une activité professionnelle, salariée, non salariée ou bénévole, en rapport avec l’objet de la demande du candidat.
+- les acquis de l’expérience correspondant à l’exercice, continu ou non, pendant une durée cumulée d’au moins trois ans équivalent temps plein, d’une activité professionnelle, salariée, non salariée ou bénévole, en rapport avec l’objet de la demande du candidat.
 
 Dans le cadre des études menant au diplôme d’études spécialisées en médecine, peuvent être prises en compte des études de formation médicale spécialisées conformément aux prescriptions de l’ar­ticle 25, paragraphe 3, de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles.
 
@@ -1116,11 +1116,11 @@ Admission aux programmes d’études
 
 Outre les conditions d’accès visées aux articles 32, 33 et 37, l’admission des candidats à un programme d’études peut être sujette à une procédure d’admission qui implique une évaluation des connaissances et des compétences des candidats sur base d’un ou de plusieurs des éléments suivants :
 
-1. dossier d’admission ;
+- dossier d’admission ;
 
-2. entretien ou mise en situation ;
+- entretien ou mise en situation ;
 
-3. épreuve écrite.
+- épreuve écrite.
 
 Des informations concernant l’évaluation susvisée sont publiées au moins trois mois avant qu’elles ne fassent l’objet d’un contrôle.
 
@@ -1159,29 +1159,29 @@ Chaque programme d’études menant à l’obtention du grade de bachelor ou du 
 
 Pour chaque programme d’études, le directeur de programme définit les éléments suivants :
 
-1. les contenus, les objectifs et les acquis d’apprentissage ;
+- les contenus, les objectifs et les acquis d’apprentissage ;
 
-2. les prérequis ;
+- les prérequis ;
 
-3. les modalités d’organisation des cours et le nombre de crédits ECTS dont est affecté chaque cours ;
+- les modalités d’organisation des cours et le nombre de crédits ECTS dont est affecté chaque cours ;
 
-4. le plan d’études fixant la répartition des différents modules dans le temps par année d’études ;
+- le plan d’études fixant la répartition des différents modules dans le temps par année d’études ;
 
-5. les modalités d’évaluation, étant entendu que l’évaluation vise à confirmer la participation active de l’étudiant aux cours ou à vérifier les acquis d’apprentissage ;
+- les modalités d’évaluation, étant entendu que l’évaluation vise à confirmer la participation active de l’étudiant aux cours ou à vérifier les acquis d’apprentissage ;
 
-6. l’opportunité de prévoir un ou plusieurs des éléments suivants :
+- l’opportunité de prévoir un ou plusieurs des éléments suivants :
 
-1. des exigences particulières concernant les connaissances linguistiques des candidats ;
+  - des exigences particulières concernant les connaissances linguistiques des candidats ;
 
-2. des éléments de travail, de participation ou de présence qui ne font pas l’objet d’une évaluation débouchant sur une note mais dont la réalisation est nécessaire en vue de la validation d’un cours ou d’un module ;
+  - des éléments de travail, de participation ou de présence qui ne font pas l’objet d’une évaluation débouchant sur une note mais dont la réalisation est nécessaire en vue de la validation d’un cours ou d’un module ;
 
-3. des cours fondamentaux faisant partie du plan d’études des deux premiers semestres d’un pro­gramme d’études et pour lesquels l’étudiant doit avoir obtenu, sous peine d’exclusion dudit programme d’études, une note finale supérieure ou égale à 10 points au terme du quatrième semestre, étant entendu que, par dérogation à l’article 36, paragraphe 1 er , alinéa 2, il ne peut se soumettre que deux fois aux modalités d’évaluation prévues ;
+  - des cours fondamentaux faisant partie du plan d’études des deux premiers semestres d’un pro­gramme d’études et pour lesquels l’étudiant doit avoir obtenu, sous peine d’exclusion dudit programme d’études, une note finale supérieure ou égale à 10 points au terme du quatrième semestre, étant entendu que, par dérogation à l’article 36, paragraphe 1 er , alinéa 2, il ne peut se soumettre que deux fois aux modalités d’évaluation prévues ;
 
-4. des cours consécutifs dont le premier doit avoir été validé avec une note supérieure ou égale à 10 points avant que l’étudiant ne puisse s’inscrire au second cours ;
+  - des cours consécutifs dont le premier doit avoir été validé avec une note supérieure ou égale à 10 points avant que l’étudiant ne puisse s’inscrire au second cours ;
 
-5. des modalités de compensation entre les notes des différents cours faisant partie d’un même module ;
+  - des modalités de compensation entre les notes des différents cours faisant partie d’un même module ;
 
-6. un examen-concours pendant ou à la fin du programme d’études.
+  - un examen-concours pendant ou à la fin du programme d’études.
 
 (4)
 
@@ -1210,9 +1210,9 @@ Dans le cas où un module est régi par le principe de la compensation entre les
 
 Subit un échec définitif et est exclu du programme d’études auquel il est inscrit :
 
-1. l’étudiant qui, à l’issue de la première année d’études, n’a pas obtenu au moins 50 pour cent des crédits ECTS attribués à l’ensemble des cours faisant partie du plan d’études de la première année d’études du programme visé ;
+- l’étudiant qui, à l’issue de la première année d’études, n’a pas obtenu au moins 50 pour cent des crédits ECTS attribués à l’ensemble des cours faisant partie du plan d’études de la première année d’études du programme visé ;
 
-2. l’étudiant qui, dans un programme d’études impliquant un examen-concours, ne s’est pas classé en rang utile lors de cet examen-concours.
+- l’étudiant qui, dans un programme d’études impliquant un examen-concours, ne s’est pas classé en rang utile lors de cet examen-concours.
 
 (3)
 
@@ -1230,11 +1230,11 @@ Aucun membre du jury ne peut prendre part à l’examen de son conjoint ou parte
 
 Le jury d’examen est chargé :
 
-1. de valider des crédits ECTS acquis au cours d’études d’enseignement supérieur antérieures suivies dans une institution d’enseignement supérieur, pour autant qu’il s’agisse de moins de 60 crédits ECTS ;
+- de valider des crédits ECTS acquis au cours d’études d’enseignement supérieur antérieures suivies dans une institution d’enseignement supérieur, pour autant qu’il s’agisse de moins de 60 crédits ECTS ;
 
-2. de valider les notes et les crédits ECTS obtenus par l’étudiant dans les cours et les modules suivis ;
+- de valider les notes et les crédits ECTS obtenus par l’étudiant dans les cours et les modules suivis ;
 
-3. de décider de la progression de l’étudiant dans le programme d’études ou de l’exclusion d’un étu­diant du programme d’études, conformément aux dispositions des paragraphes 2, 3 et 7.
+- de décider de la progression de l’étudiant dans le programme d’études ou de l’exclusion d’un étu­diant du programme d’études, conformément aux dispositions des paragraphes 2, 3 et 7.
 
 Les modalités de fonctionnement du jury d’examen sont précisées par le règlement des études de l’Université.
 
@@ -1276,41 +1276,41 @@ L’étudiant exclu d’un programme d’études sur base des dispositions des a
 
 Les grades sont décernés lorsque le total des crédits ECTS attribués au programme d’études est validé. Le grade est décerné avec une des mentions suivantes :
 
-1. « passable » si la moyenne pondérée des notes finales de tous les modules est supérieure ou égale à 10 points sur 20 et inférieure à 12 points sur 20 ;
+- « passable » si la moyenne pondérée des notes finales de tous les modules est supérieure ou égale à 10 points sur 20 et inférieure à 12 points sur 20 ;
 
-2. « assez bien » si la moyenne pondérée des notes finales de tous les modules est supérieure ou égale à 12 points sur 20 et inférieure à 14 points sur 20 ;
+- « assez bien » si la moyenne pondérée des notes finales de tous les modules est supérieure ou égale à 12 points sur 20 et inférieure à 14 points sur 20 ;
 
-3. « bien » si la moyenne pondérée des notes finales de tous les modules est supérieure ou égale à 14 points sur 20 et inférieure à 16 points sur 20 ;
+- « bien » si la moyenne pondérée des notes finales de tous les modules est supérieure ou égale à 14 points sur 20 et inférieure à 16 points sur 20 ;
 
-4. « très bien » si la moyenne pondérée des notes finales de tous les modules est supérieure ou égale à 16 points sur 20 et inférieure à 18 points sur 20 ;
+- « très bien » si la moyenne pondérée des notes finales de tous les modules est supérieure ou égale à 16 points sur 20 et inférieure à 18 points sur 20 ;
 
-5. « excellent » si la moyenne pondérée des notes finales de tous les modules est supérieure ou égale à 18 points sur 20.
+- « excellent » si la moyenne pondérée des notes finales de tous les modules est supérieure ou égale à 18 points sur 20.
 
 Sur le diplôme figurent au moins le nom et le prénom, la date et le lieu de naissance du détenteur, le grade décerné, l’intitulé du programme d’études et la signature du recteur. Le diplôme est accom­pagné d’un supplément au diplôme qui décrit les connaissances et compétences acquises par le détenteur.
 
 Le supplément au diplôme comporte au moins les éléments suivants :
 
-1. informations sur le détenteur du diplôme : nom, prénom, date de naissance ;
+- informations sur le détenteur du diplôme : nom, prénom, date de naissance ;
 
-2. informations sur le diplôme : intitulé du programme d’études et, si applicable, grade ou titre conféré, principaux domaines d’études couverts par le diplôme, nom et statut de l’établissement ayant délivré le diplôme, langues d’enseignement ;
+- informations sur le diplôme : intitulé du programme d’études et, si applicable, grade ou titre conféré, principaux domaines d’études couverts par le diplôme, nom et statut de l’établissement ayant délivré le diplôme, langues d’enseignement ;
 
-3. informations sur le niveau de qualification, la durée d’études régulière du programme exprimée en années d’études et en crédits ECTS, les conditions d’accès au programme d’études ;
+- informations sur le niveau de qualification, la durée d’études régulière du programme exprimée en années d’études et en crédits ECTS, les conditions d’accès au programme d’études ;
 
-4. informations sur le contenu du programme d’études et le résultat obtenu : forme d’organisation des études, acquis d’apprentissage, système de notation, notes et crédits ECTS obtenus ;
+- informations sur le contenu du programme d’études et le résultat obtenu : forme d’organisation des études, acquis d’apprentissage, système de notation, notes et crédits ECTS obtenus ;
 
-5. informations sur la fonction de la qualification : accès à un niveau d’études supérieur et, si applicable, accès à une profession réglementée ;
+- informations sur la fonction de la qualification : accès à un niveau d’études supérieur et, si applicable, accès à une profession réglementée ;
 
-6. date de délivrance et signature ;
+- date de délivrance et signature ;
 
-7. informations générales sur le système national d’enseignement supérieur.
+- informations générales sur le système national d’enseignement supérieur.
 
 (10bis)
 
 Les grades visés au paragraphe 10 sont inscrits d’office au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles. À cet effet, l’Université du Luxembourg communique annuellement au ministre, pour le 31 décembre au plus tard, les informations suivantes par rapport aux étudiants ayant obtenu leur diplôme au cours de l’année en question :
 
-1. le nom et le prénom, le sexe, la date et le lieu de naissance de l’étudiant ;
+- le nom et le prénom, le sexe, la date et le lieu de naissance de l’étudiant ;
 
-2. l’intitulé du programme d’études, le grade conféré, la mention attribuée et la date et lieu de délivrance du diplôme.
+- l’intitulé du programme d’études, le grade conféré, la mention attribuée et la date et lieu de délivrance du diplôme.
 
 (11)
 
@@ -1339,9 +1339,9 @@ Après approbation d’un programme d’études par le conseil de gouvernance, l
 
 Les études menant au grade de docteur comprennent les éléments suivants :
 
-1. la rédaction d’un travail de recherche dans le champ disciplinaire ou interdisciplinaire choisi par le candidat, désigné ci-après par « thèse », ainsi qu’une soutenance de thèse orale devant un jury suivie d’une discussion ;
+- la rédaction d’un travail de recherche dans le champ disciplinaire ou interdisciplinaire choisi par le candidat, désigné ci-après par « thèse », ainsi qu’une soutenance de thèse orale devant un jury suivie d’une discussion ;
 
-2. la participation à des cours faisant partie du programme d’études concerné et consacrés à l’acquisi­tion de compétences méthodologiques et transversales. Pour chaque programme d’études, le direc­teur du programme définit le nombre de crédits ECTS dont est affecté chaque cours ainsi que les formes de participation et d’évaluation.
+- la participation à des cours faisant partie du programme d’études concerné et consacrés à l’acquisi­tion de compétences méthodologiques et transversales. Pour chaque programme d’études, le direc­teur du programme définit le nombre de crédits ECTS dont est affecté chaque cours ainsi que les formes de participation et d’évaluation.
 
 L’admission aux programmes d’études menant au grade de docteur est décidée par le recteur sur proposition du directeur de thèse visé au paragraphe 4. En vue de l’admission est prise en considération, outre les conditions d’accès visées à l’article 32, paragraphe 3, l’aptitude du candidat au travail de recherche scientifique et au travail autonome.
 
@@ -1393,15 +1393,15 @@ La délibération du jury se déroule à huis clos. Le jury évalue la thèse et
 
 Les critères utilisés par le jury de thèse en vue de l’évaluation de la thèse et la soutenance sont les suivants :
 
-1. contribution importante à l’avancement des connaissances scientifiques ;
+- contribution importante à l’avancement des connaissances scientifiques ;
 
-2. autonomie de recherche du doctorant et pertinence des méthodes scientifiques utilisées ;
+- autonomie de recherche du doctorant et pertinence des méthodes scientifiques utilisées ;
 
-3. plan de travail et bibliographie ;
+- plan de travail et bibliographie ;
 
-4. qualité de la présentation matérielle de la thèse et qualité de la langue utilisée ;
+- qualité de la présentation matérielle de la thèse et qualité de la langue utilisée ;
 
-5. qualité de la présentation et défense orales de la thèse.
+- qualité de la présentation et défense orales de la thèse.
 
 Un rapport de thèse se prononçant sur l'admission ou non du doctorant au titre de docteur de l'Université du Luxembourg est signé par tous les membres du jury, et communiqué au recteur et au candidat.
 
@@ -1423,27 +1423,27 @@ Le diplôme de doctorat est accompagné d’un supplément au diplôme qui décr
 
 Le supplément au diplôme comporte au moins les éléments suivants :
 
-1. informations sur le détenteur du diplôme : nom, prénom, date de naissance ;
+- informations sur le détenteur du diplôme : nom, prénom, date de naissance ;
 
-2. informations sur le diplôme : intitulé du programme d’études et, si applicable, grade ou titre conféré, principaux domaines d’études couverts par le diplôme, nom et statut de l’établissement ayant délivré le diplôme, langues d’enseignement ;
+- informations sur le diplôme : intitulé du programme d’études et, si applicable, grade ou titre conféré, principaux domaines d’études couverts par le diplôme, nom et statut de l’établissement ayant délivré le diplôme, langues d’enseignement ;
 
-3. informations sur le niveau de qualification, la durée d’études régulière du programme exprimée en années d’études et en crédits ECTS, les conditions d’accès au programme d’études ;
+- informations sur le niveau de qualification, la durée d’études régulière du programme exprimée en années d’études et en crédits ECTS, les conditions d’accès au programme d’études ;
 
-4. informations sur le contenu du programme d’études et le résultat obtenu : acquis d’apprentissage, système de notation, notes et crédits ECTS obtenus ;
+- informations sur le contenu du programme d’études et le résultat obtenu : acquis d’apprentissage, système de notation, notes et crédits ECTS obtenus ;
 
-5. informations sur la fonction de la qualification et, si applicable, accès à une profession réglementée ;
+- informations sur la fonction de la qualification et, si applicable, accès à une profession réglementée ;
 
-6. date de délivrance et signature ;
+- date de délivrance et signature ;
 
-7. informations générales sur le système national d’enseignement supérieur.
+- informations générales sur le système national d’enseignement supérieur.
 
 (8bis)
 
 Le grade visé au paragraphe 8 est inscrit d’office au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles. À cet effet, l’Université du Luxembourg communique annuellement au ministre, pour le 31 décembre au plus tard, les informations suivantes par rapport aux étudiants ayant obtenu leur diplôme au cours de l’année en question :
 
-1. le nom et le prénom, le sexe, la date et le lieu de naissance de l’étudiant ;
+- le nom et le prénom, le sexe, la date et le lieu de naissance de l’étudiant ;
 
-2. l’intitulé du programme d’études, le grade conféré et la date et lieu de délivrance du diplôme.
+- l’intitulé du programme d’études, le grade conféré et la date et lieu de délivrance du diplôme.
 
 (9)
 
@@ -1462,13 +1462,13 @@ Composition de la commission des aménagements raisonnables
 
 La commission des aménagements raisonnables se compose :
 
-1. du délégué aux aménagements raisonnables ;
+- du délégué aux aménagements raisonnables ;
 
-2. d’un membre du rectorat ;
+- d’un membre du rectorat ;
 
-3. d’un directeur de programme par faculté ;
+- d’un directeur de programme par faculté ;
 
-4. de deux membres de la délégation des étudiants.
+- de deux membres de la délégation des étudiants.
 
 Les membres de la commission des aménagements raisonnables sont nommés par le conseil univer­sitaire pour un terme renouvelable de trois ans.
 
@@ -1487,31 +1487,31 @@ Aménagements raisonnables
 
 La commission des aménagements raisonnables peut arrêter, adapter ou suspendre les aménagements raisonnables suivants :
 
-1. l’aménagement des auditoires ou salles de séminaire ;
+- l’aménagement des auditoires ou salles de séminaire ;
 
-2. une salle séparée pour les épreuves d’évaluation ;
+- une salle séparée pour les épreuves d’évaluation ;
 
-3. une présentation adaptée des questionnaires ;
+- une présentation adaptée des questionnaires ;
 
-4. une majoration du temps lors des épreuves d’évaluation ;
+- une majoration du temps lors des épreuves d’évaluation ;
 
-5. des pauses supplémentaires lors des épreuves d’évaluation ;
+- des pauses supplémentaires lors des épreuves d’évaluation ;
 
-6. le recours à des aides technologiques et à des aides humaines, permettant de compenser les défi­ciences particulières ;
+- le recours à des aides technologiques et à des aides humaines, permettant de compenser les défi­ciences particulières ;
 
-7. l’étalement des épreuves d’évaluation sur deux sessions d’examen ;
+- l’étalement des épreuves d’évaluation sur deux sessions d’examen ;
 
-8. le remplacement d’une partie des modalités d’évaluation prévues pour un cours ;
+- le remplacement d’une partie des modalités d’évaluation prévues pour un cours ;
 
-9. la dispense d’une partie des épreuves d’évaluation ou des éléments de travail, de participation ou de présence prévus pour un cours ;
+- la dispense d’une partie des épreuves d’évaluation ou des éléments de travail, de participation ou de présence prévus pour un cours ;
 
-10. une dérogation par rapport aux critères concernant le pourcentage de crédits ECTS devant être réussis à l’issue de la première année d’études et une prolongation de la durée maximale des études telle que visée à l’article 36, paragraphe 7, et à l’article 37, paragraphe 5 ;
+- une dérogation par rapport aux critères concernant le pourcentage de crédits ECTS devant être réussis à l’issue de la première année d’études et une prolongation de la durée maximale des études telle que visée à l’article 36, paragraphe 7, et à l’article 37, paragraphe 5 ;
 
-11. une dispense de l’obligation de mobilité pendant les études menant au grade de bachelor prévue à l’article 36, paragraphe 6 ;
+- une dispense de l’obligation de mobilité pendant les études menant au grade de bachelor prévue à l’article 36, paragraphe 6 ;
 
-12. la délocalisation des épreuves d’évaluation hors de l’Université ;
+- la délocalisation des épreuves d’évaluation hors de l’Université ;
 
-13. la réalisation de l’apprentissage de certains éléments ou de tous les éléments d’un programme d’études hors de l’Université.
+- la réalisation de l’apprentissage de certains éléments ou de tous les éléments d’un programme d’études hors de l’Université.
 
 ##### Section V Droits et devoirs des usagers
 
@@ -1535,9 +1535,9 @@ La mission de la délégation des étudiants est de représenter les étudiants 
 
 La délégation des étudiants se compose de :
 
-1. représentants des étudiants inscrits dans les programmes d’études menant au grade bachelor ou de master, élus par les étudiants des facultés respectives. Le nombre de représentants par faculté cor­respond à un délégué par tranche entière de cinq cents étudiants inscrits dans la faculté concernée ;
+- représentants des étudiants inscrits dans les programmes d’études menant au grade bachelor ou de master, élus par les étudiants des facultés respectives. Le nombre de représentants par faculté cor­respond à un délégué par tranche entière de cinq cents étudiants inscrits dans la faculté concernée ;
 
-2. représentants des doctorants, élus par les étudiants inscrits dans les programmes d’études menant au grade de docteur. Leur nombre correspond à un délégué par tranche entière de cinq cents étudiants inscrits dans les programmes d’études menant au grade de docteur.
+- représentants des doctorants, élus par les étudiants inscrits dans les programmes d’études menant au grade de docteur. Leur nombre correspond à un délégué par tranche entière de cinq cents étudiants inscrits dans les programmes d’études menant au grade de docteur.
 
 La délégation des étudiants désigne parmi ses membres un président.
 
@@ -1566,25 +1566,25 @@ Procédure disciplinaire
 
 Une procédure disciplinaire peut être engagée à l’égard des usagers pour les infractions suivantes :
 
-1. l’insulte grave, la menace, les voies de fait et les actes de violence ;
+- l’insulte grave, la menace, les voies de fait et les actes de violence ;
 
-2. le port d’armes ;
+- le port d’armes ;
 
-3. le refus d’observer les mesures de sécurité et la contravention au règlement d’ordre intérieur ;
+- le refus d’observer les mesures de sécurité et la contravention au règlement d’ordre intérieur ;
 
-4. le vol, la dégradation ou la destruction de propriétés au détriment soit de l’État, soit de l’Université, soit de particuliers ;
+- le vol, la dégradation ou la destruction de propriétés au détriment soit de l’État, soit de l’Université, soit de particuliers ;
 
-5. l’atteinte aux bonnes mœurs ;
+- l’atteinte aux bonnes mœurs ;
 
-6. la consommation et le trafic de stupéfiants prohibés ;
+- la consommation et le trafic de stupéfiants prohibés ;
 
-7. toute discrimination directe ou indirecte fondée sur la religion ou les convictions, le handicap, l’âge, le sexe, l’orientation sexuelle, l’appartenance ou non appartenance, vraie ou supposée, à une race ou ethnie ;
+- toute discrimination directe ou indirecte fondée sur la religion ou les convictions, le handicap, l’âge, le sexe, l’orientation sexuelle, l’appartenance ou non appartenance, vraie ou supposée, à une race ou ethnie ;
 
-8. l’incitation à la haine raciale, à la xénophobie et à l’intolérance religieuse ;
+- l’incitation à la haine raciale, à la xénophobie et à l’intolérance religieuse ;
 
-9. le harcèlement moral ou sexuel ;
+- le harcèlement moral ou sexuel ;
 
-10. la fraude, la tentative de fraude et le plagiat.
+- la fraude, la tentative de fraude et le plagiat.
 
 <a id="art-43"></a>
 ## Art. 43.
@@ -1595,19 +1595,19 @@ Sanctions
 
 Les sanctions qui peuvent être prononcées à l’encontre des usagers sont les suivantes :
 
-1. le blâme ;
+- le blâme ;
 
-2. l’avertissement ;
+- l’avertissement ;
 
-3. l’exclusion temporaire d’un ou de plusieurs cours. La durée de cette exclusion ne peut excéder un semestre ;
+- l’exclusion temporaire d’un ou de plusieurs cours. La durée de cette exclusion ne peut excéder un semestre ;
 
-4. l’exclusion temporaire de l’établissement ou de l’un de ses services annexes. La durée de cette exclusion ne peut excéder un semestre ;
+- l’exclusion temporaire de l’établissement ou de l’un de ses services annexes. La durée de cette exclusion ne peut excéder un semestre ;
 
-5. l’exclusion définitive de l’établissement ou de l’un de ses services annexes ;
+- l’exclusion définitive de l’établissement ou de l’un de ses services annexes ;
 
-6. en cas de fraude, de tentative de fraude ou de plagiat : la nullité du groupe d’épreuves du module ou de la session d’examen ou l’interdiction pour une durée maximum de cinq ans de subir tout examen conduisant à l’obtention d’un grade, diplôme ou certificat délivré par l’Université ;
+- en cas de fraude, de tentative de fraude ou de plagiat : la nullité du groupe d’épreuves du module ou de la session d’examen ou l’interdiction pour une durée maximum de cinq ans de subir tout examen conduisant à l’obtention d’un grade, diplôme ou certificat délivré par l’Université ;
 
-7. en cas de fraude ou de plagiat : le retrait à titre rétroactif du grade, diplôme ou certificat délivré par l’Université.
+- en cas de fraude ou de plagiat : le retrait à titre rétroactif du grade, diplôme ou certificat délivré par l’Université.
 
 (2)
 
@@ -1674,19 +1674,19 @@ Commission des litiges
 
 Il est institué auprès du conseil universitaire une commission des litiges ayant les attributions suivantes :
 
-1. statuer sur l’appel de la décision d’une sanction disciplinaire prononcée par le recteur ;
+- statuer sur l’appel de la décision d’une sanction disciplinaire prononcée par le recteur ;
 
-2. statuer sur les réclamations contre les décisions prises sur base des dispositions prévues aux articles 32 à 37 ainsi qu’à l’article 39.
+- statuer sur les réclamations contre les décisions prises sur base des dispositions prévues aux articles 32 à 37 ainsi qu’à l’article 39.
 
 (2)
 
 La commission des litiges est composée de :
 
-1. deux représentants des professeurs ;
+- deux représentants des professeurs ;
 
-2. deux représentants de la délégation des étudiants ;
+- deux représentants de la délégation des étudiants ;
 
-3. un représentant du personnel administratif, financier et technique.
+- un représentant du personnel administratif, financier et technique.
 
 (3)
 
@@ -1729,15 +1729,15 @@ Principes de mise en œuvre
 
 Dans le cadre des missions de l’Université visées à l’article 3, les activités de recherche sont régies par :
 
-1. la qualité scientifique de la recherche ;
+- la qualité scientifique de la recherche ;
 
-2. l’intégrité scientifique et les bonnes pratiques scientifiques ;
+- l’intégrité scientifique et les bonnes pratiques scientifiques ;
 
-3. la diversité des méthodes scientifiques ;
+- la diversité des méthodes scientifiques ;
 
-4. la liberté de la recherche dans les limites des devoirs inhérents aux différentes fonctions du personnel enseignant-chercheur ;
+- la liberté de la recherche dans les limites des devoirs inhérents aux différentes fonctions du personnel enseignant-chercheur ;
 
-5. l’encouragement de la relève scientifique.
+- l’encouragement de la relève scientifique.
 
 Les principes visés au présent paragraphe sont précisés dans la charte du personnel enseignant-chercheur visée à l’article 20.
 
@@ -1815,25 +1815,25 @@ Ressources
 
 L’Université peut disposer des ressources suivantes :
 
-1. les biens meubles, immeubles et immatériels mis à disposition par l’État et dont l’affectation, les principes relatifs à leur jouissance et les obligations incombant aux parties sont régis par une convention à conclure entre l’État et l’Université ;
+- les biens meubles, immeubles et immatériels mis à disposition par l’État et dont l’affectation, les principes relatifs à leur jouissance et les obligations incombant aux parties sont régis par une convention à conclure entre l’État et l’Université ;
 
-2. une contribution financière annuelle inscrite au budget des recettes et des dépenses de l’État ;
+- une contribution financière annuelle inscrite au budget des recettes et des dépenses de l’État ;
 
-3. des contributions financières annuelles inscrites au budget des recettes et des dépenses de l’État, réservées à l’exécution de missions déterminées ayant fait l’objet d’une convention préalable entre l’État et l’Université ;
+- des contributions financières annuelles inscrites au budget des recettes et des dépenses de l’État, réservées à l’exécution de missions déterminées ayant fait l’objet d’une convention préalable entre l’État et l’Université ;
 
-4. des revenus provenant de ses activités d’enseignement et de recherche ;
+- des revenus provenant de ses activités d’enseignement et de recherche ;
 
-5. des revenus provenant de l’exécution d’un contrat ou d’une convention conclus avec des personnes physiques ou morales ;
+- des revenus provenant de l’exécution d’un contrat ou d’une convention conclus avec des personnes physiques ou morales ;
 
-6. des dons et legs en espèces ou en nature ;
+- des dons et legs en espèces ou en nature ;
 
-7. des revenus provenant de la gestion et de la valorisation de son patrimoine ainsi que de ses prises de participation ;
+- des revenus provenant de la gestion et de la valorisation de son patrimoine ainsi que de ses prises de participation ;
 
-8. des revenus provenant d’une cession des droits de propriété intellectuelle ou d’une attribution de licence ;
+- des revenus provenant d’une cession des droits de propriété intellectuelle ou d’une attribution de licence ;
 
-9. une intervention financière du fonds national de la recherche ou d’autres bailleurs de fonds ;
+- une intervention financière du fonds national de la recherche ou d’autres bailleurs de fonds ;
 
-10. les frais d’inscription perçus.
+- les frais d’inscription perçus.
 
 <a id="art-54"></a>
 ## Art. 54.
@@ -1863,15 +1863,15 @@ Sous réserve de la compatibilité avec son objet et ses missions, l’Universit
 
 Le « Centre de gestion pour la formation continue et professionnelle universitaire GIE », établi par acte notarié du 9 mars 2018 et dont les statuts sont déposés au registre de commerce et des sociétés sous le numéro C145 et qui est désigné ci-après par « Centre », agissant sous la haute surveillance de l’Université en collaboration avec le ministre, est chargé :
 
-1. de gérer, en tout ou en partie, la formation continue et professionnelle de l’Université, visée à l’article 31, paragraphe 4 ;
+- de gérer, en tout ou en partie, la formation continue et professionnelle de l’Université, visée à l’article 31, paragraphe 4 ;
 
-2. de gérer, en tout ou en partie, des programmes d’études de l’Université menant au grade de bachelor visés à l’article 35 ;
+- de gérer, en tout ou en partie, des programmes d’études de l’Université menant au grade de bachelor visés à l’article 35 ;
 
-3. de gérer, en tout ou en partie, la validation des acquis de l’expérience en vue de l’accès aux études menant au grade de bachelor ou en vue de justifier une partie des connaissances et compétences exigées pour l’obtention d’un diplôme de bachelor, visée à l’article 33 ;
+- de gérer, en tout ou en partie, la validation des acquis de l’expérience en vue de l’accès aux études menant au grade de bachelor ou en vue de justifier une partie des connaissances et compétences exigées pour l’obtention d’un diplôme de bachelor, visée à l’article 33 ;
 
-4. d’étudier et d’analyser, à la demande du ministre ou de l’Université, toute question ayant trait à la formation continue et professionnelle universitaire ;
+- d’étudier et d’analyser, à la demande du ministre ou de l’Université, toute question ayant trait à la formation continue et professionnelle universitaire ;
 
-5. de collaborer pour l’exercice des missions visées aux points 1 ° à 4 ° susvisés avec d’autres organismes de formation continue et professionnelle universitaire.
+- de collaborer pour l’exercice des missions visées aux points 1 ° à 4 ° susvisés avec d’autres organismes de formation continue et professionnelle universitaire.
 
 Les modalités et les moyens de mise en œuvre des missions du Centre définies à l’alinéa 1er sont réglés par voie de conventions entre l’Université, l’État et le Centre, à approuver par le Gouvernement en conseil.
 
@@ -1960,11 +1960,11 @@ Pour la nomination du premier conseil de gouvernance après l’entrée en vigue
 
 Le personnel enseignant-chercheur en fonction le jour de l’entrée en vigueur de la présente loi et engagé selon les dispositions de la loi modifiée du 12 août 2003 portant création de l’Université du Luxembourg est reclassé comme suit :
 
-1. le professeur est reclassé en professeur ordinaire ;
+- le professeur est reclassé en professeur ordinaire ;
 
-2. l’assistant-professeur est reclassé en professeur adjoint ;
+- l’assistant-professeur est reclassé en professeur adjoint ;
 
-3. le chargé de cours est reclassé en professeur assistant s’il remplit les conditions en termes de qualifications visées à l’article 23, paragraphe 4.
+- le chargé de cours est reclassé en professeur assistant s’il remplit les conditions en termes de qualifications visées à l’article 23, paragraphe 4.
 
 Par dérogation à l’article 23, paragraphe 1er, les chargés de cours en fonction le jour de l’entrée en vigueur de la présente loi et engagés selon les dispositions de la loi modifiée du 12 août 2003 portant création de l’Université du Luxembourg, qui ne remplissent pas les conditions visées au point 3° continuent à faire partie du corps professoral de l’Université, sans que les dispositions relatives aux professeurs prévues aux articles 21, 25, 26 et 27 ne leur soient applicables.
 

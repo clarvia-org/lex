@@ -42,19 +42,19 @@ Définitions
 
 Pour l’application du présent règlement ministériel, les abréviations et termes ci-dessous ont les significations suivantes :
 
-1. « ANA » : Administration de la navigation aérienne ;
+- « ANA » : Administration de la navigation aérienne ;
 
-2. « DAC » : Direction de l’aviation civile ;
+- « DAC » : Direction de l’aviation civile ;
 
-3. « GPS » : système mondial de positionnement par satellite ;
+- « GPS » : système mondial de positionnement par satellite ;
 
-4. « m » : mètres ;
+- « m » : mètres ;
 
-5. « NSPA » : de l’anglais « NATO Support and Procurement Agency », Agence OTAN de soutien et d’acquisition ;
+- « NSPA » : de l’anglais « NATO Support and Procurement Agency », Agence OTAN de soutien et d’acquisition ;
 
-6. « Règlement (UE) n° 2019/947 » : Règlement d’exécution (UE) 2019/947 de la Commission du 24 mai 2019 concernant les règles et procédures applicables à l’exploitation d’aéronefs sans équipage à bord ;
+- « Règlement (UE) n° 2019/947 » : Règlement d’exécution (UE) 2019/947 de la Commission du 24 mai 2019 concernant les règles et procédures applicables à l’exploitation d’aéronefs sans équipage à bord ;
 
-7. « UAS » : système d’aéronef sans équipage à bord.
+- « UAS » : système d’aéronef sans équipage à bord.
 
 (2)
 
@@ -67,17 +67,17 @@ Exceptions
 
 Les interdictions et restrictions prévues au présent règlement ne sont pas applicables aux opérations spéciales suivantes effectuées dans l’intérêt public :
 
-1. missions policières et douanières ;
+- missions policières et douanières ;
 
-2. surveillance de la circulation et poursuites ;
+- surveillance de la circulation et poursuites ;
 
-3. recherche et sauvetage ;
+- recherche et sauvetage ;
 
-4. vols médicaux ;
+- vols médicaux ;
 
-5. évacuations ;
+- évacuations ;
 
-6. lutte contre les incendies.
+- lutte contre les incendies.
 
 Une coordination est cependant obligatoire avec les services de contrôle de l’ANA à l’intérieur des zones géographiques prévues par les articles 8 et 10.
 
@@ -94,9 +94,9 @@ EL-UAS-A1-1-VFRN
 
 La zone géographique désignée « EL-UAS-A1-1-VFRN » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 50 m ;
+- limites verticales : du sol jusqu’à une hauteur de 50 m ;
 
-2. limites latérales : 493900N 0061449E - 493659N 0060924E - 493755N 0060834E - 493956N 0061359E - 493900N 0061449E.
+- limites latérales : 493900N 0061449E - 493659N 0060924E - 493755N 0060834E - 493956N 0061359E - 493900N 0061449E.
 
 (2)
 
@@ -116,15 +116,15 @@ Chaque vol est notifié par courrier électronique au moins 24 heures avant le d
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -135,9 +135,9 @@ EL-UAS-A1-2-VFRN
 
 La zone géographique désignée « EL-UAS-A1-2-VFRN » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 493900N 0061449E - 493659N 0060924E - 493755N 0060834E - 493956N 0061359E - 493900N 0061449E.
+- limites latérales : 493900N 0061449E - 493659N 0060924E - 493755N 0060834E - 493956N 0061359E - 493900N 0061449E.
 
 (2)
 
@@ -157,15 +157,15 @@ Chaque vol est notifié par courrier électronique au moins 24 heures avant le d
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -180,9 +180,9 @@ EL-UAS-A1-1-VFRS
 
 La zone géographique désignée « EL-UAS-A1-1-VFRS » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 50 m ;
+- limites verticales : du sol jusqu’à une hauteur de 50 m ;
 
-2. limites latérales : 493805N 0061538E - 493603N 0061014E - 493507N 0061104E - 493709N 0061628E - 493805N 0061538E.
+- limites latérales : 493805N 0061538E - 493603N 0061014E - 493507N 0061104E - 493709N 0061628E - 493805N 0061538E.
 
 (2)
 
@@ -202,15 +202,15 @@ Chaque vol est notifié par courrier électronique au moins 24 heures avant le d
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -221,9 +221,9 @@ EL-UAS-A1-2-VFRS
 
 La zone géographique désignée « EL-UAS-A1-2-VFRS » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 493805N 0061538E - 493603N 0061014E - 493507N 0061104E - 493709N 0061628E - 493805N 0061538E.
+- limites latérales : 493805N 0061538E - 493603N 0061014E - 493507N 0061104E - 493709N 0061628E - 493805N 0061538E.
 
 (2)
 
@@ -243,15 +243,15 @@ Chaque vol est notifié par courrier électronique au moins 24 heures avant le d
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -266,9 +266,9 @@ EL-UAS-A1-ELLX0
 
 La zone géographique désignée « EL-UAS-A1-ELLX0 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 493659N 0060924E - 493900N 0061449E - 493805N 0061538E - 493603N 0061014E - 493659N 0060924E.
+- limites latérales : 493659N 0060924E - 493900N 0061449E - 493805N 0061538E - 493603N 0061014E - 493659N 0060924E.
 
 (2)
 
@@ -280,17 +280,17 @@ Tout vol dans cette zone géographique fait l’objet d’une autorisation préa
 
 Cette demande comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission ;
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission ;
 
-6. l’objet et une description détaillée de la mission.
+- l’objet et une description détaillée de la mission.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -301,9 +301,9 @@ EL-UAS-A1-1-APP06
 
 La zone géographique désignée « EL-UAS-A1-1-APP06 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 50 m ;
+- limites verticales : du sol jusqu’à une hauteur de 50 m ;
 
-2. limites latérales : 493659N 0060924E - 493627N 0060757E - 493531N 0060847E - 493603N 0061014E - 493659N 0060924E.
+- limites latérales : 493659N 0060924E - 493627N 0060757E - 493531N 0060847E - 493603N 0061014E - 493659N 0060924E.
 
 (2)
 
@@ -323,15 +323,15 @@ Chaque vol est notifié par courrier électronique au moins 24 heures avant le d
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -342,9 +342,9 @@ EL-UAS-A1-2-APP06
 
 La zone géographique désignée « EL-UAS-A1-2-APP06 » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 493659N 0060924E - 493555N 0060630E - 493459N 0060721E - 493603N 0061014E - 493659N 0060924E.
+- limites latérales : 493659N 0060924E - 493555N 0060630E - 493459N 0060721E - 493603N 0061014E - 493659N 0060924E.
 
 (2)
 
@@ -356,17 +356,17 @@ Tout vol dans cette zone géographique fait l’objet d’une autorisation préa
 
 Cette demande comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission ;
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission ;
 
-6. l’objet et une description détaillée de la mission.
+- l’objet et une description détaillée de la mission.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -377,9 +377,9 @@ EL-UAS-A1-2-APP24
 
 La zone géographique désignée « EL-UAS-A1-2-APP24 » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 494045N 0061931E - 493950N 0062020E - 493805N 0061538E - 493900N 0061449E - 494045N 0061931E.
+- limites latérales : 494045N 0061931E - 493950N 0062020E - 493805N 0061538E - 493900N 0061449E - 494045N 0061931E.
 
 (2)
 
@@ -399,15 +399,15 @@ Chaque vol est notifié par courrier électronique au moins 24 heures avant le d
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -424,9 +424,9 @@ EL-UAS-A2-1
 
 La zone géographique désignée « EL-UAS-A2-1 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 50 m ;
+- limites verticales : du sol jusqu’à une hauteur de 50 m ;
 
-2. limites latérales : 494607N 0055915E - 494551N 0055912E - 494604N 0055643E - 494620N 0055646E- 494607N 0055915E.
+- limites latérales : 494607N 0055915E - 494551N 0055912E - 494604N 0055643E - 494620N 0055646E- 494607N 0055915E.
 
 (2)
 
@@ -441,9 +441,9 @@ EL-UAS-A2-2
 
 La zone géographique désignée « EL-UAS-A2-2 » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 2 500 m de rayon, centré sur 494604N 0055803E.
+- limites latérales : un cercle de 2 500 m de rayon, centré sur 494604N 0055803E.
 
 (2)
 
@@ -460,9 +460,9 @@ EL-UAS-A3-1
 
 La zone géographique désignée « EL-UAS-A3-1 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 50 m ;
+- limites verticales : du sol jusqu’à une hauteur de 50 m ;
 
-2. limites latérales : 495914N 0055631E - 495859N 0055638E - 495828N 0055340E - 495844N 0055333E - 495914N 0055631E.
+- limites latérales : 495914N 0055631E - 495859N 0055638E - 495828N 0055340E - 495844N 0055333E - 495914N 0055631E.
 
 (2)
 
@@ -477,9 +477,9 @@ EL-UAS-A3-2
 
 La zone géographique désignée « EL-UAS-A3-2 » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 2 500 m de rayon, centré sur 495852N 0055504E.
+- limites latérales : un cercle de 2 500 m de rayon, centré sur 495852N 0055504E.
 
 (2)
 
@@ -498,9 +498,9 @@ EL-UAS-H1-1
 
 La zone géographique désignée « EL-UAS-H1-1 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 50 m ;
+- limites verticales : du sol jusqu’à une hauteur de 50 m ;
 
-2. limites latérales : un cercle de 400 m de rayon, centré sur 493758N 0061038E.
+- limites latérales : un cercle de 400 m de rayon, centré sur 493758N 0061038E.
 
 (2)
 
@@ -518,21 +518,21 @@ Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispo
 
 Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :
 
-1. Hôpitaux Robert Schuman ;
+- Hôpitaux Robert Schuman ;
 
-2. Luxembourg Air Rescue.
+- Luxembourg Air Rescue.
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -547,9 +547,9 @@ EL-UAS-H1-2
 
 La zone géographique désignée « EL-UAS-H1-2 » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 1 200 m de rayon, centré sur 493758N 0061038E.
+- limites latérales : un cercle de 1 200 m de rayon, centré sur 493758N 0061038E.
 
 (2)
 
@@ -567,21 +567,21 @@ Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispo
 
 Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :
 
-1. Hôpitaux Robert Schuman ;
+- Hôpitaux Robert Schuman ;
 
-2. Luxembourg Air Rescue.
+- Luxembourg Air Rescue.
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -598,9 +598,9 @@ EL-UAS-H2-1
 
 La zone géographique désignée « EL-UAS-H2-1 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 50 m ;
+- limites verticales : du sol jusqu’à une hauteur de 50 m ;
 
-2. limites latérales : un cercle de 300 m de rayon, centré sur 493612N 0060741E.
+- limites latérales : un cercle de 300 m de rayon, centré sur 493612N 0060741E.
 
 (2)
 
@@ -618,21 +618,21 @@ Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispo
 
 Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :
 
-1. Hôpitaux Robert Schuman ;
+- Hôpitaux Robert Schuman ;
 
-2. Luxembourg Air Rescue.
+- Luxembourg Air Rescue.
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -647,9 +647,9 @@ EL-UAS-H2-2
 
 La zone géographique désignée « EL-UAS-H2-2 » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 800 m de rayon, centré sur 493612N 0060741E.
+- limites latérales : un cercle de 800 m de rayon, centré sur 493612N 0060741E.
 
 (2)
 
@@ -667,21 +667,21 @@ Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispo
 
 Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :
 
-1. Hôpitaux Robert Schuman ;
+- Hôpitaux Robert Schuman ;
 
-2. Luxembourg Air Rescue.
+- Luxembourg Air Rescue.
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -698,9 +698,9 @@ EL-UAS-H3-1
 
 La zone géographique désignée « EL-UAS-H3-1 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 50 m ;
+- limites verticales : du sol jusqu’à une hauteur de 50 m ;
 
-2. limites latérales : un cercle de 500 m de rayon, centré sur 493709N 0060609E.
+- limites latérales : un cercle de 500 m de rayon, centré sur 493709N 0060609E.
 
 (2)
 
@@ -718,21 +718,21 @@ Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispo
 
 Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :
 
-1. Centre Hospitalier de Luxembourg ;
+- Centre Hospitalier de Luxembourg ;
 
-2. Luxembourg Air Rescue.
+- Luxembourg Air Rescue.
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -747,9 +747,9 @@ EL-UAS-H3-2
 
 La zone géographique désignée « EL-UAS-H3-2 » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 1 200 m de rayon, centré sur 493709N 0060609E.
+- limites latérales : un cercle de 1 200 m de rayon, centré sur 493709N 0060609E.
 
 (2)
 
@@ -767,21 +767,21 @@ Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispo
 
 Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :
 
-1. Centre Hospitalier de Luxembourg ;
+- Centre Hospitalier de Luxembourg ;
 
-2. Luxembourg Air Rescue.
+- Luxembourg Air Rescue.
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -798,9 +798,9 @@ EL-UAS-H4-1
 
 La zone géographique désignée « EL-UAS-H4-1 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 50 m ;
+- limites verticales : du sol jusqu’à une hauteur de 50 m ;
 
-2. limites latérales : un cercle de 500 m de rayon, centré sur 495116N 0060540E.
+- limites latérales : un cercle de 500 m de rayon, centré sur 495116N 0060540E.
 
 (2)
 
@@ -818,21 +818,21 @@ Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispo
 
 Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :
 
-1. Centre Hospitalier du Nord ;
+- Centre Hospitalier du Nord ;
 
-2. Luxembourg Air Rescue.
+- Luxembourg Air Rescue.
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -847,9 +847,9 @@ EL-UAS-H4-2
 
 La zone géographique désignée « EL-UAS-H4-2 » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 1 500 m de rayon, centré sur 495116N 0060540E.
+- limites latérales : un cercle de 1 500 m de rayon, centré sur 495116N 0060540E.
 
 (2)
 
@@ -867,21 +867,21 @@ Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispo
 
 Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :
 
-1. Centre Hospitalier du Nord ;
+- Centre Hospitalier du Nord ;
 
-2. Luxembourg Air Rescue.
+- Luxembourg Air Rescue.
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -898,9 +898,9 @@ EL-UAS-H5-1
 
 La zone géographique désignée « EL-UAS-H5-1 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 50 m ;
+- limites verticales : du sol jusqu’à une hauteur de 50 m ;
 
-2. limites latérales : un cercle de 500 m de rayon, centré sur 493003N 0055856E.
+- limites latérales : un cercle de 500 m de rayon, centré sur 493003N 0055856E.
 
 (2)
 
@@ -918,21 +918,21 @@ Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispo
 
 Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :
 
-1. Centre Hospitalier Emile Mayrisch ;
+- Centre Hospitalier Emile Mayrisch ;
 
-2. Luxembourg Air Rescue.
+- Luxembourg Air Rescue.
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -947,9 +947,9 @@ EL-UAS-H5-2
 
 La zone géographique désignée « EL-UAS-H5-2 » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 1 500 m de rayon, centré sur 493003N 0055856E.
+- limites latérales : un cercle de 1 500 m de rayon, centré sur 493003N 0055856E.
 
 (2)
 
@@ -967,21 +967,21 @@ Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispo
 
 Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :
 
-1. Centre Hospitalier Emile Mayrisch ;
+- Centre Hospitalier Emile Mayrisch ;
 
-2. Luxembourg Air Rescue.
+- Luxembourg Air Rescue.
 
 Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission.
 
 (6)
 
@@ -1000,9 +1000,9 @@ EL-UAS-S1
 
 La zone géographique désignée « EL-UAS-S1 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 300 m de rayon, centré sur 493635N 0061439E.
+- limites latérales : un cercle de 300 m de rayon, centré sur 493635N 0061439E.
 
 (2)
 
@@ -1019,9 +1019,9 @@ EL-UAS-S2
 
 La zone géographique désignée « EL-UAS-S2 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 250 m de rayon, centré sur 494452N 0062841E.
+- limites latérales : un cercle de 250 m de rayon, centré sur 494452N 0062841E.
 
 (2)
 
@@ -1038,9 +1038,9 @@ EL-UAS-S3
 
 La zone géographique désignée « EL-UAS-S3 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 250 m de rayon, centré sur 493230N 0055639E.
+- limites latérales : un cercle de 250 m de rayon, centré sur 493230N 0055639E.
 
 (2)
 
@@ -1057,9 +1057,9 @@ EL-UAS-S4
 
 La zone géographique désignée « EL-UAS-S4 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 493729N 0061136E - 493726N 0061138E- 493722N 0061125E - 493726N 0061123E - 493729N 0061136E.
+- limites latérales : 493729N 0061136E - 493726N 0061138E- 493722N 0061125E - 493726N 0061123E - 493729N 0061136E.
 
 (2)
 
@@ -1074,9 +1074,9 @@ EL-UAS-S5
 
 La zone géographique désignée « EL-UAS-S5 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 493648N 0060957E - 493646N 0061000E - 493643N 0060954E - 493645N 0060952E - 493648N 0060957E.
+- limites latérales : 493648N 0060957E - 493646N 0061000E - 493643N 0060954E - 493645N 0060952E - 493648N 0060957E.
 
 (2)
 
@@ -1091,9 +1091,9 @@ EL-UAS-S6
 
 La zone géographique désignée « EL-UAS-S6 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 493626N 0060835E - 493621N 0060835E - 463619N 0060827E - 463618N 0060820E - 493623N 0060819E - 493626N 0060835E.
+- limites latérales : 493626N 0060835E - 493621N 0060835E - 463619N 0060827E - 463618N 0060820E - 493623N 0060819E - 493626N 0060835E.
 
 (2)
 
@@ -1110,9 +1110,9 @@ EL-UAS-S7
 
 La zone géographique désignée « EL-UAS-S7 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 100 m de rayon, centré sur 493639N 0060759E.
+- limites latérales : un cercle de 100 m de rayon, centré sur 493639N 0060759E.
 
 (2)
 
@@ -1127,9 +1127,9 @@ EL-UAS-S8
 
 La zone géographique désignée « EL-UAS-S8 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 200 m de rayon, centré sur 494451N 0061117E.
+- limites latérales : un cercle de 200 m de rayon, centré sur 494451N 0061117E.
 
 (2)
 
@@ -1144,9 +1144,9 @@ EL-UAS-S9-1
 
 La zone géographique désignée « EL-UAS-S9-1 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 400 m de rayon, centré sur 494854N 0060528E.
+- limites latérales : un cercle de 400 m de rayon, centré sur 494854N 0060528E.
 
 (2)
 
@@ -1161,9 +1161,9 @@ EL-UAS-S9-2
 
 La zone géographique désignée « EL-UAS-S9-2 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 100 m de rayon, centré sur 494904N 0060504E.
+- limites latérales : un cercle de 100 m de rayon, centré sur 494904N 0060504E.
 
 (2)
 
@@ -1180,9 +1180,9 @@ EL-UAS-S10
 
 La zone géographique désignée « EL-UAS-S10 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 494158N 0062858E - 494151N 0062849E - 494148N 0062843E - 494137N 0062810E - 494132N 0062739E - 494125N 0062726E - 494113N 0062719E - 494101N 0062708E - 494105N 0062700E - 494125N 0062719E - 494129N 0062725E -494135N 0062737E - 494143N 0062801E - 494151N 0062812E - 494202N 0062819E - 494207N 0062824E - 494206N 0062825E - 494203N 0062827E - 494156N 0062843E - 494157N 0062847E - 494155N 0062851E - 494158N 0062858E.
+- limites latérales : 494158N 0062858E - 494151N 0062849E - 494148N 0062843E - 494137N 0062810E - 494132N 0062739E - 494125N 0062726E - 494113N 0062719E - 494101N 0062708E - 494105N 0062700E - 494125N 0062719E - 494129N 0062725E -494135N 0062737E - 494143N 0062801E - 494151N 0062812E - 494202N 0062819E - 494207N 0062824E - 494206N 0062825E - 494203N 0062827E - 494156N 0062843E - 494157N 0062847E - 494155N 0062851E - 494158N 0062858E.
 
 (2)
 
@@ -1199,9 +1199,9 @@ EL-UAS-S18
 
 La zone géographique désignée « EL-UAS-S18 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 500 mètres de rayon, centré sur 494135N 0061951E.
+- limites latérales : un cercle de 500 mètres de rayon, centré sur 494135N 0061951E.
 
 (2)
 
@@ -1218,9 +1218,9 @@ EL-UAS-S19
 
 La zone géographique désignée « EL-UAS-S19 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 493710N 0060811E – 493715N 0060812E – 493728N 0060834E – 493726N 0060836E – 493732N 0060852E – 493729N 0060855E – 493727N 0060851E – 493724N 0060854E – 493726N 0060858E – 493721N 0060903E – 493719N 0060858E – 493716N 0060900E - 493711N 0060837E – 493709N 0060822E – 493710N 0060811E.
+- limites latérales : 493710N 0060811E – 493715N 0060812E – 493728N 0060834E – 493726N 0060836E – 493732N 0060852E – 493729N 0060855E – 493727N 0060851E – 493724N 0060854E – 493726N 0060858E – 493721N 0060903E – 493719N 0060858E – 493716N 0060900E - 493711N 0060837E – 493709N 0060822E – 493710N 0060811E.
 
 (2)
 
@@ -1228,9 +1228,9 @@ Les vols dans cette zone géographique sont interdits, sauf autorisation préala
 
 Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol au point de contact unique des institutions européennes. Cette notification comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations.
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations.
 
 #### Chapitre 8 NSPA
 
@@ -1243,9 +1243,9 @@ EL-UAS-S11
 
 La zone géographique désignée « EL-UAS-S11 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 493834N 0055922E - 493822N 0055927E - 493817N 0055926E - 493819N 0055902E - 493822N 0055907E - 493823N 0055903E - 493826N 0055904E - 493837N 0055903E - 493836N 0055914E - 493834N 0055914E - 493834N 0055922E.
+- limites latérales : 493834N 0055922E - 493822N 0055927E - 493817N 0055926E - 493819N 0055902E - 493822N 0055907E - 493823N 0055903E - 493826N 0055904E - 493837N 0055903E - 493836N 0055914E - 493834N 0055914E - 493834N 0055922E.
 
 (2)
 
@@ -1262,9 +1262,9 @@ EL-UAS-S12
 
 La zone géographique désignée « EL-UAS-S12 » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 300 m de rayon, centré sur 493656N 0060635E.
+- limites latérales : un cercle de 300 m de rayon, centré sur 493656N 0060635E.
 
 (2)
 
@@ -1279,9 +1279,9 @@ EL-UAS-S13
 
 La zone géographique désignée « EL-UAS-S13 » a les dimensions suivantes :
 
-1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
+- limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : un cercle de 350 m de rayon, centré sur 493437N 0060653E.
+- limites latérales : un cercle de 350 m de rayon, centré sur 493437N 0060653E.
 
 (2)
 
@@ -1298,9 +1298,9 @@ EL-UAS-S14
 
 La zone géographique désignée « EL-UAS-S14 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 493249N 0055652E - 493244N 0055709E - 493234N 0055725E - 493220N 0055706E - 493233N 0055651E - 493246N 0055647E - 493249N 0055652E.
+- limites latérales : 493249N 0055652E - 493244N 0055709E - 493234N 0055725E - 493220N 0055706E - 493233N 0055651E - 493246N 0055647E - 493249N 0055652E.
 
 (2)
 
@@ -1317,9 +1317,9 @@ EL-UAS-S15
 
 La zone géographique désignée « EL-UAS-S15 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 493902N 0061006E - 493916N 0061033E - 493914N 0061056E - 493854N 0061022E - 493902N 0061006E.
+- limites latérales : 493902N 0061006E - 493916N 0061033E - 493914N 0061056E - 493854N 0061022E - 493902N 0061006E.
 
 (2)
 
@@ -1327,17 +1327,17 @@ Tout vol dans cette zone géographique fait l’objet d’une autorisation préa
 
 Cette demande comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission ;
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission ;
 
-6. l’objet et une description détaillée de la mission.
+- l’objet et une description détaillée de la mission.
 
 <a id="art-39quater"></a>
 ## 39quater .
@@ -1348,9 +1348,9 @@ EL-UAS-S16
 
 La zone géographique désignée « EL-UAS-S16 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 495246N 0060935E - 495255N 0061018E - 495226N 0061026E - 495218N 0061000E - 495246N 0060935E.
+- limites latérales : 495246N 0060935E - 495255N 0061018E - 495226N 0061026E - 495218N 0061000E - 495246N 0060935E.
 
 (2)
 
@@ -1358,17 +1358,17 @@ Tout vol dans cette zone géographique fait l’objet d’une autorisation préa
 
 Cette demande comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission ;
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission ;
 
-6. l’objet et une description détaillée de la mission.
+- l’objet et une description détaillée de la mission.
 
 <a id="art-39quinquies"></a>
 ## Art. 39quinquies .
@@ -1379,9 +1379,9 @@ EL-UAS-S17
 
 La zone géographique désignée « EL-UAS-S17 » a les dimensions suivantes :
 
-1. limites verticales : du sol jusqu’à une hauteur de 120 m ;
+- limites verticales : du sol jusqu’à une hauteur de 120 m ;
 
-2. limites latérales : 495616N 0060509E - 495614N 0060518E - 495630N 0060547E - 495638N 0060526E - 495616N 0060509E.
+- limites latérales : 495616N 0060509E - 495614N 0060518E - 495630N 0060547E - 495638N 0060526E - 495616N 0060509E.
 
 (2)
 
@@ -1389,17 +1389,17 @@ Tout vol dans cette zone géographique fait l’objet d’une autorisation préa
 
 Cette demande comprend les éléments suivants :
 
-1. le prénom et le nom du pilote à distance ;
+- le prénom et le nom du pilote à distance ;
 
-2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
+- le numéro de téléphone auquel le pilote sera joignable durant les opérations ;
 
-3. le point de décollage sous format de coordonnées GPS ;
+- le point de décollage sous format de coordonnées GPS ;
 
-4. la hauteur prévue à partir du sol ;
+- la hauteur prévue à partir du sol ;
 
-5. la date et l’heure de décollage prévue, ainsi que la durée de la mission ;
+- la date et l’heure de décollage prévue, ainsi que la durée de la mission ;
 
-6. l’objet et une description détaillée de la mission.
+- l’objet et une description détaillée de la mission.
 
 #### Chapitre 10 Dispositions finales
 

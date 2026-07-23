@@ -36,21 +36,21 @@ Le présent règlement détermine les conditions de formation, d’admission aux
 
 Peuvent être engagés en qualité de chargé de cours de l’enseignement musical ou comme chargé de direction d’une école de musique dans le secteur communal sous le statut de l’employé communal les candidats qui remplissent les conditions suivantes:
 
-1. être ressortissant d’un pays de l’Union Européenne,
+- être ressortissant d’un pays de l’Union Européenne,
 
-2. jouir des droits civils et politiques,
+- jouir des droits civils et politiques,
 
-3. offrir les garanties de moralité requises,
+- offrir les garanties de moralité requises,
 
-4. avoir fait preuve d’une connaissance adaptée au niveau de carrière des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues, conformément aux dispositions du règlement grand-ducal du 1er juillet 1996 modifiant le règlement grand-ducal du 20 décembre 1990 fixant les conditions d’admission et d’examen des fonctionnaires communaux ainsi que du règlement ministériel du 14 octobre 1996 fixant les critères d’évaluation de la connaissance des trois langues administratives pour les candidats aux postes de fonctionnaire communal. Exceptionnellement, pour des raisons dûment motivées tenant à l’intérêt du service et aux nécessités de son fonctionnement, des dispenses individuelles du contrôle de la connaissance d’une de ces langues au maximum pourront être accordées par décision du Ministre de l’Intérieur.
+- avoir fait preuve d’une connaissance adaptée au niveau de carrière des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues, conformément aux dispositions du règlement grand-ducal du 1er juillet 1996 modifiant le règlement grand-ducal du 20 décembre 1990 fixant les conditions d’admission et d’examen des fonctionnaires communaux ainsi que du règlement ministériel du 14 octobre 1996 fixant les critères d’évaluation de la connaissance des trois langues administratives pour les candidats aux postes de fonctionnaire communal. Exceptionnellement, pour des raisons dûment motivées tenant à l’intérêt du service et aux nécessités de son fonctionnement, des dispenses individuelles du contrôle de la connaissance d’une de ces langues au maximum pourront être accordées par décision du Ministre de l’Intérieur.
 
-5. bénéficier d’une tâche hebdomadaire égale ou supérieure à la moitié d’une tâche hebdomadaire de référence, telle qu’elle est définie à l’article 7 du présent règlement grand-ducal.
+- bénéficier d’une tâche hebdomadaire égale ou supérieure à la moitié d’une tâche hebdomadaire de référence, telle qu’elle est définie à l’article 7 du présent règlement grand-ducal.
 
-6.
+-
 
-1. être au moins détenteur d’un diplôme du 1 er prix visé aux articles 3 et 4 de la loi du 28 avril 1998 portant harmonisation de l’enseignement musical dans le secteur communal et modifiant l’article 5 de la loi du 24 mai 1989 sur le contrat de travail ou d’un diplôme étranger reconnu équivalent par le Ministre ayant l’Enseignement supérieur dans ses attributions, sinon
+  - être au moins détenteur d’un diplôme du 1 er prix visé aux articles 3 et 4 de la loi du 28 avril 1998 portant harmonisation de l’enseignement musical dans le secteur communal et modifiant l’article 5 de la loi du 24 mai 1989 sur le contrat de travail ou d’un diplôme étranger reconnu équivalent par le Ministre ayant l’Enseignement supérieur dans ses attributions, sinon
 
-2. pouvoir se prévaloir d’un certificat spécial tel que défini à l’article 4, point d) du présent règlement.
+  - pouvoir se prévaloir d’un certificat spécial tel que défini à l’article 4, point d) du présent règlement.
 
 Peuvent être engagés en qualité de chargé de cours de l’enseignement musical dans le secteur communal sous le statut de l’employé privé les candidats remplissant les conditions définies sub 2, 3, 4 et 6 du présent article.
 
@@ -75,15 +75,15 @@ Les chargés de cours de l’enseignement musical ou les chargés de direction d
 
 Les décisions individuelles de classement sont prises par les conseils communaux ou par les comités des syndicats de communes, en tenant compte des règles suivantes:
 
-1. le chargé de cours de l’enseignement musical ou le chargé de direction d’une école de musique remplissant toutes les conditions d’admission aux concours de recrutement pour la fonction de professeur de conservatoire est classé au grade E3ter;
+- le chargé de cours de l’enseignement musical ou le chargé de direction d’une école de musique remplissant toutes les conditions d’admission aux concours de recrutement pour la fonction de professeur de conservatoire est classé au grade E3ter;
 
-2. le chargé de cours de l’enseignement musical ou le chargé de direction d’une école de musique titulaire d’un diplôme ou certificat de fin d’études délivré après au moins trois années d’études par un établissement d’enseignement supérieur de musique, de danse ou d’art dramatique, reconnu par le le Ministre ayant l’Enseignement supérieur dans ses attributions, est classé dans le grade E3;
+- le chargé de cours de l’enseignement musical ou le chargé de direction d’une école de musique titulaire d’un diplôme ou certificat de fin d’études délivré après au moins trois années d’études par un établissement d’enseignement supérieur de musique, de danse ou d’art dramatique, reconnu par le le Ministre ayant l’Enseignement supérieur dans ses attributions, est classé dans le grade E3;
 
-3. le chargé de cours de l’enseignement musical ou le chargé de direction d’une école de musique titulaire d’un diplôme du degré supérieur d’un conservatoire de musique luxembourgeois ou d’un diplôme étranger reconnu équivalent par le Ministre ayant l’Enseignement supérieur dans ses attributions est classé au grade E2. Il en est de même du chargé de cours de l’enseignement musical ou du chargé de direction d’une école de musique titulaire d’un diplôme de fin d’études secondaires et d’un diplôme du 1 er prix d’un conservatoire de musique luxembourgeois ou d’un diplôme étranger reconnu équivalent par le Ministre de l’Education Nationale.
+- le chargé de cours de l’enseignement musical ou le chargé de direction d’une école de musique titulaire d’un diplôme du degré supérieur d’un conservatoire de musique luxembourgeois ou d’un diplôme étranger reconnu équivalent par le Ministre ayant l’Enseignement supérieur dans ses attributions est classé au grade E2. Il en est de même du chargé de cours de l’enseignement musical ou du chargé de direction d’une école de musique titulaire d’un diplôme de fin d’études secondaires et d’un diplôme du 1 er prix d’un conservatoire de musique luxembourgeois ou d’un diplôme étranger reconnu équivalent par le Ministre de l’Education Nationale.
 
-4. le chargé de cours de l’enseignement musical, titulaire d’un certificat spécial attestant les compétences nécessaires pour enseigner une matière déterminée à un niveau déterminé de l’enseignement musical, sans toutefois être titulaire d’un des diplômes visés sous les points a), b) et c) du présent article, et engagé pour une tâche partielle et à durée déterminée pour enseigner la branche en question, est classé dans un des grades E1, E2 ou E3 selon la proposition incluse dans le certificat spécial. Le certificat peut être délivré sur demande par le Ministre ayant la culture dans ses attributions, le Commissaire à l’enseignement musical entendu en son avis;
+- le chargé de cours de l’enseignement musical, titulaire d’un certificat spécial attestant les compétences nécessaires pour enseigner une matière déterminée à un niveau déterminé de l’enseignement musical, sans toutefois être titulaire d’un des diplômes visés sous les points a), b) et c) du présent article, et engagé pour une tâche partielle et à durée déterminée pour enseigner la branche en question, est classé dans un des grades E1, E2 ou E3 selon la proposition incluse dans le certificat spécial. Le certificat peut être délivré sur demande par le Ministre ayant la culture dans ses attributions, le Commissaire à l’enseignement musical entendu en son avis;
 
-5. le chargé de cours de l’enseignement musical ne remplissant pas les conditions d’accès aux grades E3ter, E3 ou E2, est classé au grade E1.
+- le chargé de cours de l’enseignement musical ne remplissant pas les conditions d’accès aux grades E3ter, E3 ou E2, est classé au grade E1.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -109,9 +109,9 @@ Lorsque la date de début de carrière se situe après l’âge fictif de début
 
 Cette différence lui est bonifiée comme ancienneté de service:
 
-1. pour la totalité du temps passé au service des communes, des syndicats de communes, de l’Etat, au service de la couronne, des établissements publics et de la société nationale des chemins de fer luxembourgeois, à tâche complète, avant la date de début de carrière comme chargé de cours de l’enseignement musical ou chargé de direction d’une école de musique.
+- pour la totalité du temps passé au service des communes, des syndicats de communes, de l’Etat, au service de la couronne, des établissements publics et de la société nationale des chemins de fer luxembourgeois, à tâche complète, avant la date de début de carrière comme chargé de cours de l’enseignement musical ou chargé de direction d’une école de musique.
 
-2. pour la moitié du temps passé ailleurs qu’au service des communes, des syndicats de communes, de l’Etat, au service de la couronne, des établissements publics et de la société nationale des chemins de fer luxembourgeois, à tâche complète, avant la date de début de carrière comme chargé de cours de l’enseignement musical ou chargé de direction d’une école de musique.
+- pour la moitié du temps passé ailleurs qu’au service des communes, des syndicats de communes, de l’Etat, au service de la couronne, des établissements publics et de la société nationale des chemins de fer luxembourgeois, à tâche complète, avant la date de début de carrière comme chargé de cours de l’enseignement musical ou chargé de direction d’une école de musique.
 
 La bonification se compte par mois entiers, la période ne couvrant pas un mois étant négligée. Elle ne peut dépasser douze ans.
 

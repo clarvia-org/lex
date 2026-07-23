@@ -35,17 +35,17 @@ Objet
 
 Le présent règlement établit des mesures visant:
 
-1. à définir et à fixer des objectifs concernant la qualité de l'air ambiant, afin d'éviter, de prévenir ou de réduire les effets nocifs pour la santé humaine et pour l'environnement dans son ensemble;
+- à définir et à fixer des objectifs concernant la qualité de l'air ambiant, afin d'éviter, de prévenir ou de réduire les effets nocifs pour la santé humaine et pour l'environnement dans son ensemble;
 
-2. à évaluer la qualité de l'air ambiant sur la base de méthodes et de critères arrêtés;
+- à évaluer la qualité de l'air ambiant sur la base de méthodes et de critères arrêtés;
 
-3. à obtenir des informations sur la qualité de l'air ambiant afin de contribuer à lutter contre la pollution de l'air et les nuisances et de surveiller les tendances à long terme et les améliorations obtenues grâce aux mesures nationales et communautaires;
+- à obtenir des informations sur la qualité de l'air ambiant afin de contribuer à lutter contre la pollution de l'air et les nuisances et de surveiller les tendances à long terme et les améliorations obtenues grâce aux mesures nationales et communautaires;
 
-4. à faire en sorte que ces informations sur la qualité de l'air ambiant soient mises à la disposition du public;
+- à faire en sorte que ces informations sur la qualité de l'air ambiant soient mises à la disposition du public;
 
-5. à préserver la qualité de l'air ambiant, lorsqu'elle est bonne, et à l'améliorer dans les autres cas;
+- à préserver la qualité de l'air ambiant, lorsqu'elle est bonne, et à l'améliorer dans les autres cas;
 
-6. à promouvoir une coopération accrue entre les Etats membres en vue de réduire la pollution atmosphérique.
+- à promouvoir une coopération accrue entre les Etats membres en vue de réduire la pollution atmosphérique.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -54,65 +54,65 @@ Définitions
 
 Aux fins du présent règlement, on entend par:
 
-1. «air ambiant»: l'air extérieur de la troposphère, à l'exclusion des lieux de travail tels que définis par la réglementation applicable en la matière, auxquels s'appliquent les dispositions en matière de santé et de sécurité au travail et auxquels le public n'a normalement pas accès;
+- «air ambiant»: l'air extérieur de la troposphère, à l'exclusion des lieux de travail tels que définis par la réglementation applicable en la matière, auxquels s'appliquent les dispositions en matière de santé et de sécurité au travail et auxquels le public n'a normalement pas accès;
 
-2. «polluant»: toute substance présente dans l'air ambiant et susceptible d'avoir des effets nocifs sur la santé humaine et/ou sur l'environnement dans son ensemble;
+- «polluant»: toute substance présente dans l'air ambiant et susceptible d'avoir des effets nocifs sur la santé humaine et/ou sur l'environnement dans son ensemble;
 
-3. «niveau»: la concentration d'un polluant dans l'air ambiant ou son dépôt sur les surfaces en un temps donné;
+- «niveau»: la concentration d'un polluant dans l'air ambiant ou son dépôt sur les surfaces en un temps donné;
 
-4. «évaluation»: toute méthode utilisée pour mesurer, calculer, prévoir ou estimer des niveaux;
+- «évaluation»: toute méthode utilisée pour mesurer, calculer, prévoir ou estimer des niveaux;
 
-5. «valeur limite»: un niveau fixé sur la base des connaissances scientifiques, dans le but d'éviter, de prévenir ou de réduire les effets nocifs sur la santé humaine et/ou l'environnement dans son ensemble, à atteindre dans un délai donné et à ne pas dépasser une fois atteint;
+- «valeur limite»: un niveau fixé sur la base des connaissances scientifiques, dans le but d'éviter, de prévenir ou de réduire les effets nocifs sur la santé humaine et/ou l'environnement dans son ensemble, à atteindre dans un délai donné et à ne pas dépasser une fois atteint;
 
-6. «niveau critique»: un niveau fixé sur la base des connaissances scientifiques, au-delà duquel des effets nocifs directs peuvent se produire sur certains récepteurs, tels que arbres, autres plantes ou écosystèmes naturels, mais pas sur des êtres humains;
+- «niveau critique»: un niveau fixé sur la base des connaissances scientifiques, au-delà duquel des effets nocifs directs peuvent se produire sur certains récepteurs, tels que arbres, autres plantes ou écosystèmes naturels, mais pas sur des êtres humains;
 
-7. «marge de dépassement»: le pourcentage de la valeur limite dont cette valeur peut être dépassée dans les conditions fixées par le présent règlement;
+- «marge de dépassement»: le pourcentage de la valeur limite dont cette valeur peut être dépassée dans les conditions fixées par le présent règlement;
 
-8. «plans relatifs à la qualité de l'air»: les plans énonçant au moins des mesures visant à atteindre les valeurs limites ou valeurs cibles;
+- «plans relatifs à la qualité de l'air»: les plans énonçant au moins des mesures visant à atteindre les valeurs limites ou valeurs cibles;
 
-9. «valeur cible»: un niveau fixé dans le but d'éviter, de prévenir ou de réduire les effets nocifs sur la santé humaine et/ou l'environnement dans son ensemble, à atteindre dans la mesure du possible sur une période donnée;
+- «valeur cible»: un niveau fixé dans le but d'éviter, de prévenir ou de réduire les effets nocifs sur la santé humaine et/ou l'environnement dans son ensemble, à atteindre dans la mesure du possible sur une période donnée;
 
-10. «seuil d'alerte»: un niveau au-delà duquel une exposition de courte durée présente un risque pour la santé humaine de l'ensemble de la population et à partir duquel des mesures doivent immédiatement être prises;
+- «seuil d'alerte»: un niveau au-delà duquel une exposition de courte durée présente un risque pour la santé humaine de l'ensemble de la population et à partir duquel des mesures doivent immédiatement être prises;
 
-11. «seuil d'information»: un niveau au-delà duquel une exposition de courte durée présente un risque pour la santé humaine des groupes particulièrement sensibles de la population et pour lequel des informations immédiates et adéquates sont nécessaires;
+- «seuil d'information»: un niveau au-delà duquel une exposition de courte durée présente un risque pour la santé humaine des groupes particulièrement sensibles de la population et pour lequel des informations immédiates et adéquates sont nécessaires;
 
-12. «seuil d'évaluation supérieur»: un niveau en deçà duquel il est permis, pour évaluer la qualité de l'air ambiant, d'utiliser une combinaison de mesures fixes et de techniques de modélisation et/ou de mesures indicatives;
+- «seuil d'évaluation supérieur»: un niveau en deçà duquel il est permis, pour évaluer la qualité de l'air ambiant, d'utiliser une combinaison de mesures fixes et de techniques de modélisation et/ou de mesures indicatives;
 
-13. «seuil d'évaluation inférieur»: un niveau en deçà duquel il est suffisant, pour évaluer la qualité de l'air ambiant, d'utiliser des techniques de modélisation ou d'estimation objective;
+- «seuil d'évaluation inférieur»: un niveau en deçà duquel il est suffisant, pour évaluer la qualité de l'air ambiant, d'utiliser des techniques de modélisation ou d'estimation objective;
 
-14. «objectif à long terme»: un niveau à atteindre à long terme, sauf lorsque cela n'est pas réalisable par des mesures proportionnées, afin d'assurer une protection efficace de la santé humaine et de l'environnement;
+- «objectif à long terme»: un niveau à atteindre à long terme, sauf lorsque cela n'est pas réalisable par des mesures proportionnées, afin d'assurer une protection efficace de la santé humaine et de l'environnement;
 
-15. «contributions des sources naturelles»: les émissions de polluants qui ne résultent pas directement ou indirectement des activités humaines, mais qui sont notamment dues à des événements naturels tels que les éruptions volcaniques, les activités sismiques, les activités géothermiques, les feux de terres non cultivées, les vents violents, les embruns marins, la resuspension atmosphérique ou le transport de particules naturelles provenant de régions désertiques;
+- «contributions des sources naturelles»: les émissions de polluants qui ne résultent pas directement ou indirectement des activités humaines, mais qui sont notamment dues à des événements naturels tels que les éruptions volcaniques, les activités sismiques, les activités géothermiques, les feux de terres non cultivées, les vents violents, les embruns marins, la resuspension atmosphérique ou le transport de particules naturelles provenant de régions désertiques;
 
-16. «zone»: une partie délimitée du territoire luxembourgeois aux fins de l'évaluation et de la gestion de la qualité de l'air;
+- «zone»: une partie délimitée du territoire luxembourgeois aux fins de l'évaluation et de la gestion de la qualité de l'air;
 
-17. «agglomération»: une zone qui constitue une conurbation caractérisée par une population supérieure à 250.000 habitants ou, lorsque la population est inférieure ou égale à 250.000 habitants, par une densité d'habitants au kilomètre carré à établir par règlement ministériel;
+- «agglomération»: une zone qui constitue une conurbation caractérisée par une population supérieure à 250.000 habitants ou, lorsque la population est inférieure ou égale à 250.000 habitants, par une densité d'habitants au kilomètre carré à établir par règlement ministériel;
 
-18. «PM 10 »: les particules passant dans un orifice d'entrée calibré tel que défini dans la méthode de référence pour l'échantillonnage et la mesure du PM 10 , norme EN 12 341, avec un rendement de séparation de 50% pour un diamètre aérodynamique de 10 µm ;
+- «PM 10 »: les particules passant dans un orifice d'entrée calibré tel que défini dans la méthode de référence pour l'échantillonnage et la mesure du PM 10 , norme EN 12 341, avec un rendement de séparation de 50% pour un diamètre aérodynamique de 10 µm ;
 
-19. «PM 2,5 »: les particules passant dans un orifice d'entrée calibré tel que défini dans la méthode de référence pour l'échantillonnage et la mesure du PM 2,5, norme EN 14907, avec un rendement de séparation de 50% pour un diamètre aérodynamique de 2,5 µm ;
+- «PM 2,5 »: les particules passant dans un orifice d'entrée calibré tel que défini dans la méthode de référence pour l'échantillonnage et la mesure du PM 2,5, norme EN 14907, avec un rendement de séparation de 50% pour un diamètre aérodynamique de 2,5 µm ;
 
-20. «indicateur d'exposition moyenne»: un niveau moyen déterminé sur la base des mesures effectuées dans des lieux caractéristiques de la pollution de fond urbaine sur l'ensemble du territoire national et qui reflète l'exposition de la population. Il est utilisé afin de calculer l'objectif national de réduction de l'exposition et l'obligation en matière de concentration relative à l'exposition;
+- «indicateur d'exposition moyenne»: un niveau moyen déterminé sur la base des mesures effectuées dans des lieux caractéristiques de la pollution de fond urbaine sur l'ensemble du territoire national et qui reflète l'exposition de la population. Il est utilisé afin de calculer l'objectif national de réduction de l'exposition et l'obligation en matière de concentration relative à l'exposition;
 
-21. «obligation en matière de concentration relative à l'exposition»: le niveau fixé sur la base de l'indicateur d'exposition moyenne, à atteindre dans un délai donné, afin de réduire l'impact négatif sur la santé humaine;
+- «obligation en matière de concentration relative à l'exposition»: le niveau fixé sur la base de l'indicateur d'exposition moyenne, à atteindre dans un délai donné, afin de réduire l'impact négatif sur la santé humaine;
 
-22. «objectif national de réduction de l'exposition»: un pourcentage de réduction de l'indicateur d'exposition moyenne de la population du Grand-Duché, fixé pour l'année de référence, dans le but de réduire les effets nocifs sur la santé humaine, à atteindre dans la mesure du possible sur une période donnée;
+- «objectif national de réduction de l'exposition»: un pourcentage de réduction de l'indicateur d'exposition moyenne de la population du Grand-Duché, fixé pour l'année de référence, dans le but de réduire les effets nocifs sur la santé humaine, à atteindre dans la mesure du possible sur une période donnée;
 
-23. «lieux caractéristiques de la pollution de fond urbaine»: des lieux situés dans des zones urbaines où les niveaux sont représentatifs de l'exposition de la population urbaine en général;
+- «lieux caractéristiques de la pollution de fond urbaine»: des lieux situés dans des zones urbaines où les niveaux sont représentatifs de l'exposition de la population urbaine en général;
 
-24. «oxydes d'azote»: la somme du rapport de mélange en volume (ppbv) de monoxyde d'azote (oxyde nitrique) et de dioxyde d'azote, exprimé en unités de concentration massique de dioxyde d'azote (µg/m 3 );
+- «oxydes d'azote»: la somme du rapport de mélange en volume (ppbv) de monoxyde d'azote (oxyde nitrique) et de dioxyde d'azote, exprimé en unités de concentration massique de dioxyde d'azote (µg/m 3 );
 
-25. «mesures fixes»: des mesures effectuées à des endroits fixes, soit en continu, soit par échantillonnage aléatoire, afin de déterminer les niveaux conformément aux objectifs de qualité des données applicables;
+- «mesures fixes»: des mesures effectuées à des endroits fixes, soit en continu, soit par échantillonnage aléatoire, afin de déterminer les niveaux conformément aux objectifs de qualité des données applicables;
 
-26. «mesures indicatives»: des mesures qui respectent des objectifs de qualité des données moins stricts que ceux qui sont requis pour les mesures fixes;
+- «mesures indicatives»: des mesures qui respectent des objectifs de qualité des données moins stricts que ceux qui sont requis pour les mesures fixes;
 
-27. «composés organiques volatils» (COV): les composés organiques provenant de sources anthropiques et biogènes, autres que le méthane, capables de produire des oxydants photochimiques par réaction avec des oxydes d'azote sous l'effet du rayonnement solaire;
+- «composés organiques volatils» (COV): les composés organiques provenant de sources anthropiques et biogènes, autres que le méthane, capables de produire des oxydants photochimiques par réaction avec des oxydes d'azote sous l'effet du rayonnement solaire;
 
-28. «précurseurs de l'ozone»: des substances qui contribuent à la formation d'ozone troposphérique, dont certaines sont énumérées à l'annexe X;
+- «précurseurs de l'ozone»: des substances qui contribuent à la formation d'ozone troposphérique, dont certaines sont énumérées à l'annexe X;
 
-29. «ministre»: le membre du Gouvernement ayant l'environnement dans ses attributions;
+- «ministre»: le membre du Gouvernement ayant l'environnement dans ses attributions;
 
-30. «administration»: l'administration de l'Environnement.
+- «administration»: l'administration de l'Environnement.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -149,17 +149,17 @@ Mise en œuvre
 
 L'administration est chargée:
 
-1. d'évaluer la qualité de l'air ambiant;
+- d'évaluer la qualité de l'air ambiant;
 
-2. de veiller à ce que des dispositifs de mesure (méthodes, appareils, réseaux et agréés soient utilisés;
+- de veiller à ce que des dispositifs de mesure (méthodes, appareils, réseaux et agréés soient utilisés;
 
-3. de garantir l'exactitude des mesures;
+- de garantir l'exactitude des mesures;
 
-4. de veiller à ce que les méthodes d'évaluation soient analysées;
+- de veiller à ce que les méthodes d'évaluation soient analysées;
 
-5. de coordonner sur le territoire national les éventuels programmes communautaires d'assurance de la qualité organisés par la Commission européenne, dénommée ci-après «Commission»;
+- de coordonner sur le territoire national les éventuels programmes communautaires d'assurance de la qualité organisés par la Commission européenne, dénommée ci-après «Commission»;
 
-6. de l'élaboration des plans relatifs à la qualité de l'air.
+- de l'élaboration des plans relatifs à la qualité de l'air.
 
 2.
 
@@ -224,13 +224,13 @@ Dans toutes les zones et agglomérations où le niveau de polluants visé au par
 
 En plus des évaluations visées aux paragraphes 2, 3 et 4, des mesures sont effectuées dans des lieux ruraux caractéristiques de la pollution de fond à l'écart des sources importantes de pollution atmosphérique, dans le but de fournir, au minimum, des informations sur la concentration totale en masse et les concentrations évaluées par spéciation chimique des particules fines (PM2,5) en moyenne annuelle, selon les critères suivants:
 
-1. un point de prélèvement est installé par 100.000 km 2 ;
+- un point de prélèvement est installé par 100.000 km 2 ;
 
-2. il est créé au moins une station de mesure ou il est convenu avec les Etats membres limitrophes de créer une ou plusieurs stations de mesure communes, couvrant les zones contiguës concernées, afin d'atteindre la résolution spatiale nécessaire;
+- il est créé au moins une station de mesure ou il est convenu avec les Etats membres limitrophes de créer une ou plusieurs stations de mesure communes, couvrant les zones contiguës concernées, afin d'atteindre la résolution spatiale nécessaire;
 
-3. le cas échéant, la surveillance est coordonnée avec la stratégie de surveillance et le programme de mesure du programme concerté de surveillance continue et d'évaluation du transport à longue distance des polluants atmosphériques en Europe (EMEP);
+- le cas échéant, la surveillance est coordonnée avec la stratégie de surveillance et le programme de mesure du programme concerté de surveillance continue et d'évaluation du transport à longue distance des polluants atmosphériques en Europe (EMEP);
 
-4. l'annexe I, sections A et C, s'applique en ce qui concerne les objectifs de qualité des données pour les mesures de concentration de la masse des particules, et l'annexe IV s'applique dans son intégralité.
+- l'annexe I, sections A et C, s'applique en ce qui concerne les objectifs de qualité des données pour les mesures de concentration de la masse des particules, et l'annexe IV s'applique dans son intégralité.
 
 La Commission est informée par l'administration des méthodes de mesure utilisées pour mesurer la composition chimique des particules fines (PM2,5).
 
@@ -251,9 +251,9 @@ Dans chaque zone ou agglomération où les mesures fixes constituent la seule so
 
 Dans les zones et agglomérations dans lesquelles les renseignements fournis par les points de prélèvement pour les mesures fixes sont complétés par des informations provenant de la modélisation et/ou de mesures indicatives, le nombre total de points de prélèvement indiqué à l'annexe V, section A, peut être réduit de 50% au maximum, pour autant que les conditions suivantes soient remplies:
 
-1. les méthodes complémentaires fournissent des informations suffisantes pour évaluer la qualité de l'air en ce qui concerne les valeurs limites ou les seuils d'alerte, ainsi que des renseignements adéquats pour le public;
+- les méthodes complémentaires fournissent des informations suffisantes pour évaluer la qualité de l'air en ce qui concerne les valeurs limites ou les seuils d'alerte, ainsi que des renseignements adéquats pour le public;
 
-2. le nombre de points de prélèvement à installer et la résolution spatiale des autres techniques sont suffisants pour établir la concentration du polluant concerné conformément aux objectifs de qualité des données indiqués à l'annexe I, section A, et permettent aux résultats de l'évaluation de respecter les critères indiqués à l'annexe section B.
+- le nombre de points de prélèvement à installer et la résolution spatiale des autres techniques sont suffisants pour établir la concentration du polluant concerné conformément aux objectifs de qualité des données indiqués à l'annexe I, section A, et permettent aux résultats de l'évaluation de respecter les critères indiqués à l'annexe section B.
 
 Les résultats provenant de la modélisation et/ou de mesures indicatives sont pris en compte pour l'évaluation de la qualité de l'air en ce qui concerne les valeurs cibles.
 
@@ -302,13 +302,13 @@ Dans chaque zone ou agglomération où les mesures constituent la seule source d
 
 Dans les zones et agglomérations dans lesquelles les renseignements fournis par les points de prélèvement pour les mesures fixes sont complétés par des informations provenant de la modélisation et/ou de mesures indicatives, le nombre de points de prélèvement indiqué à l'annexe IX, section A, peut être réduit, pour autant que les conditions suivantes soient remplies:
 
-1. les méthodes complémentaires fournissent des informations suffisantes pour évaluer la qualité de l'air en ce qui concerne les valeurs cibles, les objectifs à long terme, les seuils d'information et d'alerte;
+- les méthodes complémentaires fournissent des informations suffisantes pour évaluer la qualité de l'air en ce qui concerne les valeurs cibles, les objectifs à long terme, les seuils d'information et d'alerte;
 
-2. le nombre de points de prélèvement à installer et la résolution spatiale des autres techniques sont suffisants pour établir la concentration de l'ozone conformément aux objectifs de qualité des données indiqués à l'annexe I, section A, et permettent aux résultats de l'évaluation de respecter les critères indiqués à l'annexe I, section B;
+- le nombre de points de prélèvement à installer et la résolution spatiale des autres techniques sont suffisants pour établir la concentration de l'ozone conformément aux objectifs de qualité des données indiqués à l'annexe I, section A, et permettent aux résultats de l'évaluation de respecter les critères indiqués à l'annexe I, section B;
 
-3. le nombre de points de prélèvement dans chaque zone ou agglomération est d'au moins un point de prélèvement pour deux millions d'habitants ou d'un point de prélèvement pour 50.000 km 2 , le nombre retenu étant le plus élevé des deux, mais il ne doit pas être inférieur à un point de prélèvement dans chaque zone ou agglomération;
+- le nombre de points de prélèvement dans chaque zone ou agglomération est d'au moins un point de prélèvement pour deux millions d'habitants ou d'un point de prélèvement pour 50.000 km 2 , le nombre retenu étant le plus élevé des deux, mais il ne doit pas être inférieur à un point de prélèvement dans chaque zone ou agglomération;
 
-4. le dioxyde d'azote est mesuré dans tous les points de prélèvement restants, à l'exception des stations consacrées à la pollution de fond rurale, visées à l'annexe VIII, section A.
+- le dioxyde d'azote est mesuré dans tous les points de prélèvement restants, à l'exception des stations consacrées à la pollution de fond rurale, visées à l'annexe VIII, section A.
 
 Les résultats provenant de la modélisation et/ou de mesures indicatives sont pris en compte pour l'évaluation de la qualité de l'air en ce qui concerne les valeurs cibles.
 
@@ -538,11 +538,11 @@ Lorsque des plans relatifs à la qualité de l'air doivent être élaborés ou m
 
 La cohérence avec les autres plans requis au titre des dispositions législatives et règlementaires suivantes est assurée dans la mesure du possible:
 
-1. la loi modifiée du 9 mai 2014 relative aux émissions industrielles ;
+- la loi modifiée du 9 mai 2014 relative aux émissions industrielles ;
 
-2. le règlement grand-ducal modifié du 8 novembre 2002 portant application de la directive 2001/81/ CE fixant des plafonds d'émission nationaux pour certains polluants atmosphériques,
+- le règlement grand-ducal modifié du 8 novembre 2002 portant application de la directive 2001/81/ CE fixant des plafonds d'émission nationaux pour certains polluants atmosphériques,
 
-3. le règlement grand-ducal modifié du 2 août 2006 portant application de la directive 2002/49/CE du Parlement européen et du Conseil du 25 juin 2002 relative à l'évaluation et à la gestion du bruit dans l'environnement.
+- le règlement grand-ducal modifié du 2 août 2006 portant application de la directive 2002/49/CE du Parlement européen et du Conseil du 25 juin 2002 relative à l'évaluation et à la gestion du bruit dans l'environnement.
 
 <a id="art-25"></a>
 ## Art. 25.
@@ -598,13 +598,13 @@ Information du public
 
 Le public et les organismes appropriés, tels que les organismes de protection de l'environnement, les associations de consommateurs, les organismes représentant les intérêts des groupes sensibles de la population, les autres organismes de santé concernés et les organisations professionnelles concernées, sont informés, de manière adéquate et en temps utile:
 
-1. de la qualité de l'air ambiant conformément à l'annexe XVI;
+- de la qualité de l'air ambiant conformément à l'annexe XVI;
 
-2. de toute décision de report en vertu de l'article 23, paragraphe 1;
+- de toute décision de report en vertu de l'article 23, paragraphe 1;
 
-3. de toute exemption en vertu de l'article 23, paragraphe 2;
+- de toute exemption en vertu de l'article 23, paragraphe 2;
 
-4. des plans relatifs à la qualité de l'air visés à l'article 23, paragraphe 1, et à l'article 24, ainsi que du programme national visé à l'article 18, paragraphe 2.
+- des plans relatifs à la qualité de l'air visés à l'article 23, paragraphe 1, et à l'article 24, ainsi que du programme national visé à l'article 18, paragraphe 2.
 
 Les informations sont mises gratuitement à disposition à l'aide d'un média d'accès facile, y compris l'internet ou tout autre moyen approprié de télécommunication, et tiennent compte des dispositions prévues par la loi du 26 juillet 2010 portant transposition de la directive 2007/2/CE du Parlement européen et du Conseil du 14 mars 2007 établissant une infrastructure d'information géographique dans la Communauté européenne (INSPIRE) en droit national.
 

@@ -66,21 +66,21 @@ Les commissions nationales ont pour mission de conseiller le ministre dans toute
 
 Les commissions nationales émettent des avis ou font des propositions, soit de leur propre initiative soit à la demande du ministre. Ces avis et propositions concernent notamment:
 
-1. les objectifs de l'enseignement, les programmes d'enseignement, les compétences disciplinaires et transversales,
+- les objectifs de l'enseignement, les programmes d'enseignement, les compétences disciplinaires et transversales,
 
-2. les grilles horaires,
+- les grilles horaires,
 
-3. les méthodes d'enseignement, les mesures de différenciation et de soutien aux élèves,
+- les méthodes d'enseignement, les mesures de différenciation et de soutien aux élèves,
 
-4. la langue véhiculaire,
+- la langue véhiculaire,
 
-5. les manuels et tout autre matériel didactique,
+- les manuels et tout autre matériel didactique,
 
-6. les modalités d'évaluation des élèves,
+- les modalités d'évaluation des élèves,
 
-7. les épreuves communes,
+- les épreuves communes,
 
-8. les évaluations externes qui assurent le monitoring de qualité de l'enseignement luxembourgeois.
+- les évaluations externes qui assurent le monitoring de qualité de l'enseignement luxembourgeois.
 
 2.
 
@@ -276,9 +276,9 @@ Dispositions spéciales
 
 Le présent règlement s'applique à l'instruction religieuse et morale sous réserve des dispositions spéciales suivantes:
 
-1. des commissions nationales composées chacune d'un président et de plusieurs membres sont nommées par le ministre sur proposition du chef du culte concerné;
+- des commissions nationales composées chacune d'un président et de plusieurs membres sont nommées par le ministre sur proposition du chef du culte concerné;
 
-2. les avis et propositions émanant des commissions nationales pour l'instruction religieuse et morale sont transmis obligatoirement au chef du culte concerné; ils n'engagent ce dernier que dans la mesure où il a marqué son accord.
+- les avis et propositions émanant des commissions nationales pour l'instruction religieuse et morale sont transmis obligatoirement au chef du culte concerné; ils n'engagent ce dernier que dans la mesure où il a marqué son accord.
 
 <a id="art-11"></a>
 ## Art. 11.

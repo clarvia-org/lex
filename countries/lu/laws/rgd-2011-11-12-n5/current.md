@@ -24,6 +24,18 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Règlement grand-ducal modifié du 12 novembre 2011 portant fixation de la durée normale de travail et des modalités de l'horaire de travail mobile dans les administrations de l'Etat, - TEXTE COORDONNÉ
 
+(Mém. A – 240 du 25 novembre 2011, p. 4024)
+
+modifié par:
+
+Règlement grand-ducal du 8 février 2012.
+
+(Mém. A – 28 du 16 février 2012, p. 351)
+
+Texte coordonné au 16 février 2012
+
+Version applicable à partir du 16 février 2012
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
@@ -87,9 +99,9 @@ Les périodes de la plage mobile se situent entre 7.00 heures et 9.00 heures, 11
 
 Par coupure, il y a lieu d’entendre une interruption dans la durée du travail et qui est obligatoire pour tout le personnel. Il y a deux types de coupures:
 
-1. la coupure de midi qui est une interruption d’une heure au moins s’intercalant dans la plage mobile de 11.30 heures à 14.30 heures, sans distinction du degré de la tâche de l’agent;
+- la coupure de midi qui est une interruption d’une heure au moins s’intercalant dans la plage mobile de 11.30 heures à 14.30 heures, sans distinction du degré de la tâche de l’agent;
 
-2. la coupure de repos journalière qui est la durée minimale de repos située entre deux jours de travail consécutifs et qui est fixée au moins à douze heures consécutives.
+- la coupure de repos journalière qui est la durée minimale de repos située entre deux jours de travail consécutifs et qui est fixée au moins à douze heures consécutives.
 
 Par dérogation au point a), le chef d’administration peut, par voie de règlement interne, prévoir que les agents travaillant à tâche partielle à raison de six heures par jour peuvent, dans l’intérêt du service, travailler sans devoir observer la coupure de midi.
 

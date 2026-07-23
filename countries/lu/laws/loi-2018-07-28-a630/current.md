@@ -45,9 +45,9 @@ Il est institué un revenu d’inclusion sociale qui confère, à toute personne
 
 Le revenu d’inclusion sociale, dénommé ci-après « Revis », peut être composé de :
 
-1. l'allocation d'inclusion, destinée à parfaire la différence entre les montants maxima définis à l'article 5 et la somme des ressources dont la communauté domestique dispose ;
+- l'allocation d'inclusion, destinée à parfaire la différence entre les montants maxima définis à l'article 5 et la somme des ressources dont la communauté domestique dispose ;
 
-2. l'allocation d'activation destinée à soutenir une personne participant à une mesure d'activation définie au chapitre 3.
+- l'allocation d'activation destinée à soutenir une personne participant à une mesure d'activation définie au chapitre 3.
 
 (2)
 
@@ -62,15 +62,15 @@ La charge des composantes du Revis incombe au Fonds national de solidarité, dé
 
 Peut prétendre au Revis, toute personne qui remplit les conditions suivantes :
 
-1. bénéficier d'un droit au séjour, être inscrite au registre principal du registre national des personnes physiques et résider effectivement au lieu où est établi sa résidence habituelle ;
+- bénéficier d'un droit au séjour, être inscrite au registre principal du registre national des personnes physiques et résider effectivement au lieu où est établi sa résidence habituelle ;
 
-2. être âgée de vingt-cinq ans au moins ;
+- être âgée de vingt-cinq ans au moins ;
 
-3. disposer de ressources, telles que définies au chapitre 2, sections 1 et 2, d’un montant inférieur aux limites fixées à l’article 5, soit à titre individuel, soit ensemble avec les personnes avec lesquelles elle forme une communauté domestique ;
+- disposer de ressources, telles que définies au chapitre 2, sections 1 et 2, d’un montant inférieur aux limites fixées à l’article 5, soit à titre individuel, soit ensemble avec les personnes avec lesquelles elle forme une communauté domestique ;
 
-4. rechercher un travail tout en étant et restant inscrite comme demandeur d'emploi à l'Agence pour le développement de l'emploi ;
+- rechercher un travail tout en étant et restant inscrite comme demandeur d'emploi à l'Agence pour le développement de l'emploi ;
 
-5. être prête à épuiser toutes les possibilités non encore utilisées dans la législation luxembourgeoise ou étrangère afin d'améliorer sa situation.
+- être prête à épuiser toutes les possibilités non encore utilisées dans la législation luxembourgeoise ou étrangère afin d'améliorer sa situation.
 
 (2)
 
@@ -88,37 +88,37 @@ Cette disposition ne s'applique pas aux travailleurs salariés ou non-salariés 
 
 Peut prétendre au Revis sans avoir atteint l'âge de vingt-cinq ans :
 
-1. la personne qui élève un enfant pour lequel elle touche des allocations familiales et la femme enceinte au cours des huit semaines précédant la date d'accouchement théorique moyennant un certificat médical indiquant la date présumée de l'accouchement ;
+- la personne qui élève un enfant pour lequel elle touche des allocations familiales et la femme enceinte au cours des huit semaines précédant la date d'accouchement théorique moyennant un certificat médical indiquant la date présumée de l'accouchement ;
 
-2. la personne majeure qui, par suite de maladie ou de handicap n'est pas en état de gagner sa vie dans les limites prévues à l'article 5 ;
+- la personne majeure qui, par suite de maladie ou de handicap n'est pas en état de gagner sa vie dans les limites prévues à l'article 5 ;
 
-3. l'aidant au sens de l'article 350, paragraphe 7, du Code de la sécurité sociale .
+- l'aidant au sens de l'article 350, paragraphe 7, du Code de la sécurité sociale .
 
 (5)
 
 Peut prétendre au Revis sans remplir la condition de l'article 2, paragraphe 1er, lettre d) la personne :
 
-1. salariée à temps plein ;
+- salariée à temps plein ;
 
-2. empêchée pour des raisons de santé physique ou psychique moyennant avis médical établi par un médecin mandaté par le président du Fonds ;
+- empêchée pour des raisons de santé physique ou psychique moyennant avis médical établi par un médecin mandaté par le président du Fonds ;
 
-3. disposant d’un avis motivé, élaboré au plus tard un mois à partir de la date d’admissibilité de la demande du Revis, de l’Agence pour le développement de l’emploi relatif à l’incapacité de la personne à intégrer le marché de l’emploi ordinaire. Cette incapacité est évaluée en fonction de la situation personnelle, des connaissances linguistiques et du parcours professionnel de la personne ;
+- disposant d’un avis motivé, élaboré au plus tard un mois à partir de la date d’admissibilité de la demande du Revis, de l’Agence pour le développement de l’emploi relatif à l’incapacité de la personne à intégrer le marché de l’emploi ordinaire. Cette incapacité est évaluée en fonction de la situation personnelle, des connaissances linguistiques et du parcours professionnel de la personne ;
 
-4. bénéficiaire d'une pension de vieillesse ou d'une pension d'invalidité ;
+- bénéficiaire d'une pension de vieillesse ou d'une pension d'invalidité ;
 
-5. âgée de plus de soixante-cinq ans ;
+- âgée de plus de soixante-cinq ans ;
 
-6. bénéficiaire de l'indemnité pécuniaire de maladie ou de maternité ;
+- bénéficiaire de l'indemnité pécuniaire de maladie ou de maternité ;
 
-7. bénéficiaire du congé parental détenteur d'un contrat de travail, dont la durée de travail est égale à la durée normale de travail applicable dans l'établissement ou l'entreprise en vertu de la loi ou de la convention collective ;
+- bénéficiaire du congé parental détenteur d'un contrat de travail, dont la durée de travail est égale à la durée normale de travail applicable dans l'établissement ou l'entreprise en vertu de la loi ou de la convention collective ;
 
-8. aidant au sens de l'article 350, paragraphe 7, du Code de la sécurité sociale ;
+- aidant au sens de l'article 350, paragraphe 7, du Code de la sécurité sociale ;
 
-9. qui achève des études de l'enseignement secondaire classique ou de l'enseignement secondaire général ;
+- qui achève des études de l'enseignement secondaire classique ou de l'enseignement secondaire général ;
 
-10. qui exerce une activité à titre d’indépendant pendant une période de six mois renouvelable une fois, qui ne génère pas, à l’issue de cette période un revenu professionnel supérieur ou égal au taux du salaire social minimum non qualifié ;
+- qui exerce une activité à titre d’indépendant pendant une période de six mois renouvelable une fois, qui ne génère pas, à l’issue de cette période un revenu professionnel supérieur ou égal au taux du salaire social minimum non qualifié ;
 
-11. qui exerce une activité à titre d’indépendant et dont le revenu professionnel est supérieur ou égal au taux du salaire social minimum non qualifié.
+- qui exerce une activité à titre d’indépendant et dont le revenu professionnel est supérieur ou égal au taux du salaire social minimum non qualifié.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -127,29 +127,29 @@ Peut prétendre au Revis sans remplir la condition de l'article 2, paragraphe 1e
 
 Ne peut prétendre au Revis, la personne qui :
 
-1. a abandonné ou réduit de plein gré son activité professionnelle ;
+- a abandonné ou réduit de plein gré son activité professionnelle ;
 
-2. a été licenciée pour faute grave ;
+- a été licenciée pour faute grave ;
 
-3. ne respecte pas la convention de collaboration signée avec l’Agence pour le développement de l’emploi ou a refusé de participer à une mesure active en faveur de l’emploi proposée par les services de l’Agence pour le développement de l’emploi ;
+- ne respecte pas la convention de collaboration signée avec l’Agence pour le développement de l’emploi ou a refusé de participer à une mesure active en faveur de l’emploi proposée par les services de l’Agence pour le développement de l’emploi ;
 
-4. refuse de collaborer avec l’Office national d’inclusion sociale ;
+- refuse de collaborer avec l’Office national d’inclusion sociale ;
 
-5. s’est vue retirer le bénéfice de l’indemnité de chômage ;
+- s’est vue retirer le bénéfice de l’indemnité de chômage ;
 
-6. a fait une déclaration incomplète ou inexacte au Fonds ;
+- a fait une déclaration incomplète ou inexacte au Fonds ;
 
-7. omet d’avertir le Fonds endéans un mois d’une circonstance pouvant entraîner une modification de l’allocation ;
+- omet d’avertir le Fonds endéans un mois d’une circonstance pouvant entraîner une modification de l’allocation ;
 
-8. bénéficie d’un congé sans solde ou d’un congé pour travail à temps partiel soit dans le secteur public, soit dans le secteur privé ;
+- bénéficie d’un congé sans solde ou d’un congé pour travail à temps partiel soit dans le secteur public, soit dans le secteur privé ;
 
-9. a quitté le territoire national pendant une période dépassant trente-cinq jours calendrier au cours d’une même année civile ou ne respecte pas les convocations du Fonds visant le contrôle des conditions d’accès au Revis ;
+- a quitté le territoire national pendant une période dépassant trente-cinq jours calendrier au cours d’une même année civile ou ne respecte pas les convocations du Fonds visant le contrôle des conditions d’accès au Revis ;
 
-10. fait l’objet d’une mesure de détention préventive ou d’une peine privative de liberté, sauf pendant la période où elle est soumise au régime de la semi-liberté ou qu’elle bénéficie d’une suspension de l’exécution de la peine, d’une libération conditionnelle ou d’un placement sous surveillance électronique tel que prévu aux articles 107, alinéa 3, et 688 et suivants du Code de procédure pénale ;
+- fait l’objet d’une mesure de détention préventive ou d’une peine privative de liberté, sauf pendant la période où elle est soumise au régime de la semi-liberté ou qu’elle bénéficie d’une suspension de l’exécution de la peine, d’une libération conditionnelle ou d’un placement sous surveillance électronique tel que prévu aux articles 107, alinéa 3, et 688 et suivants du Code de procédure pénale ;
 
-11. poursuit des études supérieures ;
+- poursuit des études supérieures ;
 
-12. est bénéficiaire d'une attestation de prise en charge telle que prévue par l'article 4 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l'immigration.
+- est bénéficiaire d'une attestation de prise en charge telle que prévue par l'article 4 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l'immigration.
 
 (2)
 
@@ -174,9 +174,9 @@ Un règlement grand-ducal précise les preuves matérielles à fournir relatives
 
 Lorsque, dans une communauté domestique déterminée conformément au paragraphe 1er, le Revis n'est pas dû ou n'est pas demandé, les personnes suivantes bénéficient d'une allocation d'inclusion réduite définie à l'article 5, paragraphe 3 :
 
-1. les personnes vivant dans la communauté domestique de leurs descendants majeurs ;
+- les personnes vivant dans la communauté domestique de leurs descendants majeurs ;
 
-2. les personnes majeures visées à l'article 2, paragraphe 4, lettre b) qui vivent dans la communauté domestique de leurs ascendants ou de leur frère ou soeur.
+- les personnes majeures visées à l'article 2, paragraphe 4, lettre b) qui vivent dans la communauté domestique de leurs ascendants ou de leur frère ou soeur.
 
 (3)
 
@@ -195,15 +195,15 @@ Pendant l'exécution d'une peine privative de liberté supérieure à un mois qu
 
 L'allocation d'inclusion mensuelle maximale se compose :
 
-1. d'un montant forfaitaire de base par adulte s'élevant à 97,98 euros ;
+- d'un montant forfaitaire de base par adulte s'élevant à 97,98 euros ;
 
-2. d'un montant forfaitaire de base s'élevant à 30,42 euros pour chaque enfant pour lequel un membre de la communauté domestique bénéficie des allocations familiales ;
+- d'un montant forfaitaire de base s'élevant à 30,42 euros pour chaque enfant pour lequel un membre de la communauté domestique bénéficie des allocations familiales ;
 
-3. d'un montant forfaitaire de base tel que défini à la lettre b) majoré d'un montant de 8,99 euros pour chaque enfant vivant dans une communauté domestique composée d'un seul membre adulte et qui bénéficie des allocations familiales pour cet enfant ;
+- d'un montant forfaitaire de base tel que défini à la lettre b) majoré d'un montant de 8,99 euros pour chaque enfant vivant dans une communauté domestique composée d'un seul membre adulte et qui bénéficie des allocations familiales pour cet enfant ;
 
-4. d'un montant couvrant les frais communs du ménage s'élevant à 97,98 euros par communauté domestique ;
+- d'un montant couvrant les frais communs du ménage s'élevant à 97,98 euros par communauté domestique ;
 
-5. d'un montant couvrant les frais communs du ménage majoré d'un montant de 14,70 euros au cas où un ou plusieurs enfants font partie de la communauté domestique pour lesquels un membre adulte bénéficie des allocations familiales.
+- d'un montant couvrant les frais communs du ménage majoré d'un montant de 14,70 euros au cas où un ou plusieurs enfants font partie de la communauté domestique pour lesquels un membre adulte bénéficie des allocations familiales.
 
 (2)
 
@@ -308,9 +308,9 @@ La valeur de la fortune mobilière est déterminée selon sa valeur vénale. Il 
 
 La valeur de la fortune immobilière, située au Luxembourg, est déterminée comme suit :
 
-1. les valeurs unitaires telles qu'elles sont fixées par l'Administration des contributions directes pour établir la base d'assiette de l'impôt foncier des terrains agricoles ou forestiers sont multipliées par le coefficient de cent-vingt ;
+- les valeurs unitaires telles qu'elles sont fixées par l'Administration des contributions directes pour établir la base d'assiette de l'impôt foncier des terrains agricoles ou forestiers sont multipliées par le coefficient de cent-vingt ;
 
-2. les valeurs unitaires telles qu'elles sont fixées par l'Administration des contributions directes pour établir la base d'assiette de l'impôt foncier de tous les immeubles non visés à l'alinéa qui précède sont multipliées par le coefficient de deux-cents.
+- les valeurs unitaires telles qu'elles sont fixées par l'Administration des contributions directes pour établir la base d'assiette de l'impôt foncier de tous les immeubles non visés à l'alinéa qui précède sont multipliées par le coefficient de deux-cents.
 
 En cas de désaccord sur la valeur ainsi déterminée, celle-ci peut être déterminée par un acte notarié récent ou une expertise établie par un expert assermenté.
 
@@ -414,11 +414,11 @@ Dans le mois qui suit son élaboration par l’agent régional d’inclusion soc
 
 Dans le plan d'activation figurent :
 
-1. tous les éléments utiles à l'élaboration, de concert avec l'intéressé, d'un projet visant son activation sociale ou professionnelle ;
+- tous les éléments utiles à l'élaboration, de concert avec l'intéressé, d'un projet visant son activation sociale ou professionnelle ;
 
-2. la nature des engagements réciproques et le calendrier des démarches qu'implique la réalisation de ce projet et les conditions d'évaluation, avec l'intéressé, des différents résultats obtenus ;
+- la nature des engagements réciproques et le calendrier des démarches qu'implique la réalisation de ce projet et les conditions d'évaluation, avec l'intéressé, des différents résultats obtenus ;
 
-3. la nature des facilités qui peuvent être offertes à l'intéressé pour soutenir son projet et ses démarches.
+- la nature des facilités qui peuvent être offertes à l'intéressé pour soutenir son projet et ses démarches.
 
 Le plan d'activation, dont la durée ne peut excéder un an, est renouvelable. En cas de besoin, un nouveau plan d'activation peut être établi à tout moment.
 
@@ -429,9 +429,9 @@ Le plan d'activation, dont la durée ne peut excéder un an, est renouvelable. E
 
 Les mesures d'activation prennent la forme :
 
-1. d'activités de stabilisation sociale ou de préparation à l'activité visée à la lettre b) ;
+- d'activités de stabilisation sociale ou de préparation à l'activité visée à la lettre b) ;
 
-2. d'affectation temporaire à des travaux d'utilité collective auprès de l'État, des communes, des établissements publics, des établissements d'utilité publique, de tout autre organisme, institution ou groupement de personnes poursuivant un but non lucratif ainsi que les organismes gestionnaires fonctionnant sous le régime du droit privé dont les frais sont principalement à charge du budget de l'État. Les modalités pratiques d’affectation de la personne concernée à l’un des organismes visés à la première phrase dont le type d’activité, le début et la fin de la période d’affectation, la nature du travail à fournir, le nombre d’heures à effectuer, l’horaire et les obligations dans le cadre d’une absence pour cause de maladie, sont définies dans une convention d’activation à signer par la personne affectée, l’organisme d’affectation concerné et l’Office. La convention d’activation, dont la durée ne peut excéder un an, est renouvelable. En cas de besoin, une nouvelle convention d’activation peut être établie à tout moment.
+- d'affectation temporaire à des travaux d'utilité collective auprès de l'État, des communes, des établissements publics, des établissements d'utilité publique, de tout autre organisme, institution ou groupement de personnes poursuivant un but non lucratif ainsi que les organismes gestionnaires fonctionnant sous le régime du droit privé dont les frais sont principalement à charge du budget de l'État. Les modalités pratiques d’affectation de la personne concernée à l’un des organismes visés à la première phrase dont le type d’activité, le début et la fin de la période d’affectation, la nature du travail à fournir, le nombre d’heures à effectuer, l’horaire et les obligations dans le cadre d’une absence pour cause de maladie, sont définies dans une convention d’activation à signer par la personne affectée, l’organisme d’affectation concerné et l’Office. La convention d’activation, dont la durée ne peut excéder un an, est renouvelable. En cas de besoin, une nouvelle convention d’activation peut être établie à tout moment.
 
 (2)
 
@@ -503,13 +503,13 @@ Pour la vérification de la condition définie à l’article 2, paragraphe 1er,
 
 Peut être dispensée, partiellement ou totalement, le cas échéant sur avis d'experts du domaine médical, psychologique, pédagogique, social ou de l'orientation professionnelle mandatés par le directeur de l'Office et compétents pour procéder à des examens d'évaluation de l'état de santé physique ou psychique ou de la situation sociale ou familiale, de la participation à une ou plusieurs des mesures énumérées à l'article 17 :
 
-1. la personne qui élève un enfant pour lequel elle touche des allocations familiales, lorsque des motifs sérieux par rapport à l'enfant s'opposent à l'accomplissement des mesures énumérées à l'article 17 ;
+- la personne qui élève un enfant pour lequel elle touche des allocations familiales, lorsque des motifs sérieux par rapport à l'enfant s'opposent à l'accomplissement des mesures énumérées à l'article 17 ;
 
-2. la personne qualifiée d'aidant au sens de l'article 350, paragraphe 7 du Code de la sécurité sociale ;
+- la personne qualifiée d'aidant au sens de l'article 350, paragraphe 7 du Code de la sécurité sociale ;
 
-3. la personne dont l'état de santé physique ou psychique ou la situation sociale ou familiale sont tels que l'accomplissement des mesures de l'article 17 s'avère temporairement contre-indiqué ou irréalisable ;
+- la personne dont l'état de santé physique ou psychique ou la situation sociale ou familiale sont tels que l'accomplissement des mesures de l'article 17 s'avère temporairement contre-indiqué ou irréalisable ;
 
-4. la personne qui achève des études de l'enseignement secondaire classique ou de l'enseignement secondaire général.
+- la personne qui achève des études de l'enseignement secondaire classique ou de l'enseignement secondaire général.
 
 (2)
 
@@ -537,15 +537,15 @@ S'il ressort de l'évaluation d'une mesure d'activation telle que définie à l'
 
 L’Office notifie un avertissement à la personne tombant sous l’application du présent chapitre pour laquelle il a constaté un des comportements suivants pendant la durée du plan d’activation :
 
-1. non-respect des engagements visés à l’article 16, alinéa 1 er , lettre b) ;
+- non-respect des engagements visés à l’article 16, alinéa 1 er , lettre b) ;
 
-2. non-respect du calendrier des démarches visé à l’article 16, alinéa 1 er , lettre b) ;
+- non-respect du calendrier des démarches visé à l’article 16, alinéa 1 er , lettre b) ;
 
-3. refus de participer aux mesures d’activation visées à l’article 17, paragraphe 1 er ;
+- refus de participer aux mesures d’activation visées à l’article 17, paragraphe 1 er ;
 
-4. non-respect des modalités de la convention visée à l’article 17, paragraphe 1 er , lettre b) ;
+- non-respect des modalités de la convention visée à l’article 17, paragraphe 1 er , lettre b) ;
 
-5. absence non justifiée à un rendez-vous fixé par lettre recommandée de l’Office.
+- absence non justifiée à un rendez-vous fixé par lettre recommandée de l’Office.
 
 (2)
 
@@ -624,11 +624,11 @@ L'allocation d'inclusion est supprimée si les conditions qui l'ont motivée vie
 
 L'allocation d'inclusion est relevée, réduite ou retirée avec effet rétroactif si :
 
-1. les éléments de calcul de l'allocation d'inclusion se modifient ou s'il est constaté qu'elle a été accordée par suite d'une erreur matérielle ;
+- les éléments de calcul de l'allocation d'inclusion se modifient ou s'il est constaté qu'elle a été accordée par suite d'une erreur matérielle ;
 
-2. le bénéficiaire a fait une déclaration incomplète ou inexacte au Fonds ;
+- le bénéficiaire a fait une déclaration incomplète ou inexacte au Fonds ;
 
-3. le bénéficiaire a omis d'avertir le Fonds endéans un mois d'une circonstance pouvant entraîner une modification de l'allocation ou s'il ne respecte pas les convocations du Fonds visant le contrôle des conditions d'accès au Revis.
+- le bénéficiaire a omis d'avertir le Fonds endéans un mois d'une circonstance pouvant entraîner une modification de l'allocation ou s'il ne respecte pas les convocations du Fonds visant le contrôle des conditions d'accès au Revis.
 
 (2)
 
@@ -649,19 +649,19 @@ Le Fonds ne peut prendre une décision concernant la restitution qu'après avoir
 
 Le Fonds réclame la somme par lui versée au titre d'allocation d'inclusion :
 
-1. contre le bénéficiaire revenu à meilleure fortune par des circonstances autres que les mesures d'activation prévues à l'article 17 et les revenus provenant d'une occupation professionnelle ;
+- contre le bénéficiaire revenu à meilleure fortune par des circonstances autres que les mesures d'activation prévues à l'article 17 et les revenus provenant d'une occupation professionnelle ;
 
-2. contre le donataire du bénéficiaire du Revis lorsque ce dernier a fait la donation directe ou indirecte postérieurement à la demande du Revis, ou dans les dix ans qui ont précédé cette demande, ou après l'âge de cinquante ans accomplis, au maximum jusqu'à concurrence de la valeur des biens au jour de la donation ;
+- contre le donataire du bénéficiaire du Revis lorsque ce dernier a fait la donation directe ou indirecte postérieurement à la demande du Revis, ou dans les dix ans qui ont précédé cette demande, ou après l'âge de cinquante ans accomplis, au maximum jusqu'à concurrence de la valeur des biens au jour de la donation ;
 
-3. contre le légataire du bénéficiaire du Revis, au maximum jusqu'à concurrence de la valeur des biens à lui légués au jour de l'ouverture de la succession.
+- contre le légataire du bénéficiaire du Revis, au maximum jusqu'à concurrence de la valeur des biens à lui légués au jour de l'ouverture de la succession.
 
 (2)
 
 À l'égard de la succession du bénéficiaire de l'allocation d'inclusion, le Fonds réclame la restitution des sommes versées suivant les modalités ci-après :
 
-1. lorsque la succession d'un bénéficiaire échoit en tout ou en partie au conjoint survivant ou à des successeurs en ligne directe, le Fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l'actif de la succession fixée à vingt-neuf mille sept cent quarante-sept euros au nombre 100 de l'indice pondéré du coût de la vie au 1 er janvier 1948. Lorsque le conjoint survivant ou un autre successeur en ligne directe d'un bénéficiaire du Revis continue à habiter dans un immeuble ayant appartenu soit au bénéficiaire seul, soit conjointement au bénéficiaire du Revis et à son conjoint, le Fonds ne peut pas, tant que dure cette situation, faire valoir une demande en restitution sur cet immeuble et sur les meubles meublants le garnissant. Toutefois, pour garantir les droits à une restitution ultérieure, l'immeuble est grevé d'une hypothèque légale dont l'inscription est requise par le Fonds.
+- lorsque la succession d'un bénéficiaire échoit en tout ou en partie au conjoint survivant ou à des successeurs en ligne directe, le Fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l'actif de la succession fixée à vingt-neuf mille sept cent quarante-sept euros au nombre 100 de l'indice pondéré du coût de la vie au 1 er janvier 1948. Lorsque le conjoint survivant ou un autre successeur en ligne directe d'un bénéficiaire du Revis continue à habiter dans un immeuble ayant appartenu soit au bénéficiaire seul, soit conjointement au bénéficiaire du Revis et à son conjoint, le Fonds ne peut pas, tant que dure cette situation, faire valoir une demande en restitution sur cet immeuble et sur les meubles meublants le garnissant. Toutefois, pour garantir les droits à une restitution ultérieure, l'immeuble est grevé d'une hypothèque légale dont l'inscription est requise par le Fonds.
 
-2. À défaut de successeurs en ligne directe et de conjoint survivant, le Fonds ne peut faire valoir aucune demande en restitution pour une tranche d'arrérages de mille sept cents euros, sans distinction du nombre de successeurs entrant en ligne de compte.
+- À défaut de successeurs en ligne directe et de conjoint survivant, le Fonds ne peut faire valoir aucune demande en restitution pour une tranche d'arrérages de mille sept cents euros, sans distinction du nombre de successeurs entrant en ligne de compte.
 
 <a id="art-31"></a>
 ## Art. 31.
@@ -696,7 +696,7 @@ Les formalités à accomplir, découlant du paragraphe 1er, ne donnent lieu à a
 
 L'allocation d'inclusion ne peut être ni cédée, ni mise en gage, ni saisie.
 
-Le Fonds peut retenir, sur demande motivée de l'office social compétent pour l'ayant droit, l'allocation d'inclusion jusqu'à concurrence du montant couvrant les frais communs pour couvrir la fourniture minimale d'énergie et d'eau et pour rembourser des dettes en relation avec les frais d'acquisition ou d'entretien d'un logement occupé par le bénéficiaire.
+Le Fonds peut retenir, sur demande motivée de l' office social compétent pour l'ayant droit, l'allocation d'inclusion jusqu'à concurrence du montant couvrant les frais communs pour couvrir la fourniture minimale d'énergie et d'eau et pour rembourser des dettes en relation avec les frais d'acquisition ou d'entretien d'un logement occupé par le bénéficiaire.
 
 Les arrérages peuvent cependant être cédés, mis en gage et saisis sans limitation pour couvrir les avances faites sur l'allocation d'inclusion et les avances de pensions alimentaires versées en vertu de la loi modifiée du 26 juillet 1980 concernant l'avance et le recouvrement de pensions alimentaires par le Fonds national de solidarité ou la restitution de l'allocation d'inclusion indûment touchée.
 
@@ -794,43 +794,51 @@ L’article 307, paragraphe 6, du Code de la sécurité sociale est abrogé.
 <a id="art-43"></a>
 ## Art. 43.
 
-À l'article L. 621-1 du Code du travail, il est inséré après le point 15, un point 15bis) qui prend la teneur suivante : dans le cadre d'une demande du revenu d'inclusion sociale prévue par la loi du 28 juillet 2018, donner des avis motivés prévus par le paragraphe 5 de l'article 2 et par le paragraphe 1er de l'article 13 de cette même loi.
+À l'article L. 621-1 du Code du travail, il est inséré après le point 15, un point 15bis) qui prend la teneur suivante :
+
+- dans le cadre d'une demande du revenu d'inclusion sociale prévue par la loi du 28 juillet 2018, donner des avis motivés prévus par le paragraphe 5 de l'article 2 et par le paragraphe 1er de l'article 13 de cette même loi.
 
 <a id="art-44"></a>
 ## Art. 44.
 
 L’article 29 de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées est modifié comme suit :
 
-1. Le paragraphe 1 er prend la teneur suivante : (1) La révision de la décision d'attribution du revenu pour personnes gravement handicapées se fait selon les conditions et modalités prévues par les articles 28 et 29 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
+- Le paragraphe 1 er prend la teneur suivante : (1) La révision de la décision d'attribution du revenu pour personnes gravement handicapées se fait selon les conditions et modalités prévues par les articles 28 et 29 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
 
-2. Au paragraphe 2, la dernière phrase est modifiée comme suit : Cette garantie est opérée selon les conditions et modalités prévues à l'article 32 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
+- Au paragraphe 2, la dernière phrase est modifiée comme suit : Cette garantie est opérée selon les conditions et modalités prévues à l'article 32 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
 
 <a id="art-45"></a>
 ## Art. 45.
 
-L'article 13 de la loi modifiée du 26 juillet 1980 concernant l'avance et le recouvrement de pensions alimentaires par le Fonds national de solidarité est modifié comme suit : Art. 13. Le fonds peut réclamer au créancier ainsi qu'aux héritiers, donataires et légataires des créancier ou débiteur la restitution des pensions alimentaires par lui versées, sous les conditions et dans les limites fixées à l'article 30 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale. Pour garantir la restitution des pensions alimentaires versées, les immeubles appartenant au créancier ou au débiteur sont grevés d'une hypothèque légale régie par les dispositions de l'article 32 de la loi précitée.
+L'article 13 de la loi modifiée du 26 juillet 1980 concernant l'avance et le recouvrement de pensions alimentaires par le Fonds national de solidarité est modifié comme suit :
+
+Art. 13.
+
+Le fonds peut réclamer au créancier ainsi qu'aux héritiers, donataires et légataires des créancier ou débiteur la restitution des pensions alimentaires par lui versées, sous les conditions et dans les limites fixées à l'article 30 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
+
+Pour garantir la restitution des pensions alimentaires versées, les immeubles appartenant au créancier ou au débiteur sont grevés d'une hypothèque légale régie par les dispositions de l'article 32 de la loi précitée.
 
 <a id="art-46"></a>
 ## Art. 46.
 
 La loi modifiée du 30 avril 2004 autorisant le Fonds national de solidarité à participer aux prix des prestations fournies dans le cadre de l'accueil aux personnes admises dans un centre intégré pour personnes âgées, une maison de soins ou un autre établissement médico-social assurant un accueil de jour et de nuit est modifiée comme suit :
 
-1. À l'article 7, alinéa 2, les termes législation portant sur le droit à un revenu minimum garanti sont remplacés par loi du 28 juillet 2018 relative au revenu d'inclusion sociale .
+- À l'article 7, alinéa 2, les termes législation portant sur le droit à un revenu minimum garanti sont remplacés par loi du 28 juillet 2018 relative au revenu d'inclusion sociale .
 
-2. L'article 12, alinéa 1 er , prend la teneur suivante : Si l’un des époux d'un couple est admis dans un des établissements ou centres énumérés à l'article 2 précité, le Fonds national de solidarité évalue les ressources personnelles du bénéficiaire de l'accueil de sorte à ce que l'autre conjoint bénéficie au moins des mêmes avantages que le bénéficiaire de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
+- L'article 12, alinéa 1 er , prend la teneur suivante : Si l’un des époux d'un couple est admis dans un des établissements ou centres énumérés à l'article 2 précité, le Fonds national de solidarité évalue les ressources personnelles du bénéficiaire de l'accueil de sorte à ce que l'autre conjoint bénéficie au moins des mêmes avantages que le bénéficiaire de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
 
-3. À l'article 20, le deuxième tiret est remplacé comme suit : les articles 28 à 31 et 33 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale ; »
+- À l'article 20, le deuxième tiret est remplacé comme suit : les articles 28 à 31 et 33 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale ; »
 
 <a id="art-47"></a>
 ## Art. 47.
 
 La loi modifiée du 18 décembre 2009 organisant l’aide sociale est modifiée comme suit :
 
-1. À la suite de l’article 33, est inséré un article 33 bis qui prend la teneur suivante : Art. 33bis. Les offices sociaux, sur autorisation de leur autorité de tutelle, communiquent, par des procédés informatisés ou non, des données pseudonymisées contenues dans leurs fichiers de données collectées dans le cadre de leurs missions à l'Inspection générale de la sécurité sociale qui peut en disposer aux fins de l'exécution de ses missions telles que décrites à l'article 423, point 4 du Code de la sécurité sociale.
+- À la suite de l’article 33, est inséré un article 33 bis qui prend la teneur suivante : Art. 33bis. Les offices sociaux, sur autorisation de leur autorité de tutelle, communiquent, par des procédés informatisés ou non, des données pseudonymisées contenues dans leurs fichiers de données collectées dans le cadre de leurs missions à l'Inspection générale de la sécurité sociale qui peut en disposer aux fins de l'exécution de ses missions telles que décrites à l'article 423, point 4 du Code de la sécurité sociale.
 
-2. L’article 7 est complété par un alinéa 8 qui prend la teneur suivante : Les modalités de collaboration entre l’Office social et l’Office national d’inclusion sociale ainsi que le financement des obligations incombant à l’Office social dans la mise en œuvre du chapitre 3 de la loi du 28 juillet 2018 relative au revenu d’inclusion sociale sont réglées par convention à conclure entre l’Office social et le ministre ayant l’aide sociale dans ses attributions.
+- L’article 7 est complété par un alinéa 8 qui prend la teneur suivante : Les modalités de collaboration entre l’Office social et l’Office national d’inclusion sociale ainsi que le financement des obligations incombant à l’Office social dans la mise en œuvre du chapitre 3 de la loi du 28 juillet 2018 relative au revenu d’inclusion sociale sont réglées par convention à conclure entre l’Office social et le ministre ayant l’aide sociale dans ses attributions.
 
-3. À l’article 23, paragraphe 1 er un nouvel alinéa 3 prend la teneur suivante : L'État prend entièrement en charge les frais de personnel et les frais de fonctionnement résultant des conventions conclues entre le Gouvernement et l’Office national d’inclusion sociale pour la mise en œuvre du chapitre 3 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
+- À l’article 23, paragraphe 1 er un nouvel alinéa 3 prend la teneur suivante : L'État prend entièrement en charge les frais de personnel et les frais de fonctionnement résultant des conventions conclues entre le Gouvernement et l’Office national d’inclusion sociale pour la mise en œuvre du chapitre 3 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
 
 <a id="art-48"></a>
 ## Art. 48.
@@ -856,13 +864,13 @@ Par dérogation à l'alinéa qui précède, les communautés domestiques dont l'
 
 Les communautés domestiques dont les seuls revenus sont constitués par une ou plusieurs pensions au titre de la législation luxembourgeoise ou étrangère ou par le forfait d'éducation la veille de l'entrée en vigueur de la présente loi, et dont l'allocation d'inclusion sociale due en vertu des nouvelles dispositions est inférieure à l'allocation complémentaire dont les ayants droit bénéficient la veille de l'entrée en vigueur de la présente loi, continuent à bénéficier d'un montant qui est déterminé en fonction de la composition de la communauté domestique au moment de l'entrée en vigueur de la loi. Par dérogation à l'article 5, paragraphe 1er, le montant Revis est fixé à :
 
-1. 195,81 euros pour une personne seule ;
+- 195,81 euros pour une personne seule ;
 
-2. 293,73 euros pour la communauté domestique composée de deux adultes ;
+- 293,73 euros pour la communauté domestique composée de deux adultes ;
 
-3. 56,03 euros pour l'adulte supplémentaire vivant dans la communauté domestique ;
+- 56,03 euros pour l'adulte supplémentaire vivant dans la communauté domestique ;
 
-4. 17,81 euros pour chaque enfant ayant droit à des allocations familiales qui vit dans la communauté domestique.
+- 17,81 euros pour chaque enfant ayant droit à des allocations familiales qui vit dans la communauté domestique.
 
 Les montants susvisés correspondent au nombre indice cent de l'indice pondéré du coût de la vie au 1er janvier 1948 et sont adaptés suivant les modalités applicables aux traitements et pensions des fonctionnaires de l'État.
 

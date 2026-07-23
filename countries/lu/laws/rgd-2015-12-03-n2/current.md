@@ -31,43 +31,43 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Aux fins du présent règlement grand-ducal, on entend par:
 
-1. «borne de charge»: un dispositif électrique, connecté directement ou indirectement au réseau de distribution basse ou moyenne tension, permettant à un utilisateur final de procéder à la recharge de son véhicule électrique en le connectant sur l’un de ses points de charge;
+- «borne de charge»: un dispositif électrique, connecté directement ou indirectement au réseau de distribution basse ou moyenne tension, permettant à un utilisateur final de procéder à la recharge de son véhicule électrique en le connectant sur l’un de ses points de charge;
 
-2. «borne de charge publique»: une borne de charge installée par les gestionnaires de réseau de distribution et faisant partie de l’infrastructure publique liée à la mobilité électrique conformément à la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité , et à laquelle les utilisateurs ont accès de façon non discriminatoire. L’accès non discriminatoire à cette borne n’empêche pas d’imposer certaines conditions en termes d’authentification, d’utilisation et de paiement ;
+- «borne de charge publique»: une borne de charge installée par les gestionnaires de réseau de distribution et faisant partie de l’infrastructure publique liée à la mobilité électrique conformément à la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité , et à laquelle les utilisateurs ont accès de façon non discriminatoire. L’accès non discriminatoire à cette borne n’empêche pas d’imposer certaines conditions en termes d’authentification, d’utilisation et de paiement ;
 
-3. «fournisseur physique»: un fournisseur choisi et mandaté par les gestionnaires de réseau de distribution pour la fourniture en électricité de toutes les bornes de charge publiques;
+- «fournisseur physique»: un fournisseur choisi et mandaté par les gestionnaires de réseau de distribution pour la fourniture en électricité de toutes les bornes de charge publiques;
 
-4. «fournisseur de service de charge»: une personne physique ou morale proposant à l’utilisateur un service de charge. Il peut s’agir d’un fournisseur ou d’un opérateur de toute autre nature lié contractuellement à un fournisseur pour couvrir la fourniture d’électricité nécessaire à l’offre d’un service de charge;
+- «fournisseur de service de charge»: une personne physique ou morale proposant à l’utilisateur un service de charge. Il peut s’agir d’un fournisseur ou d’un opérateur de toute autre nature lié contractuellement à un fournisseur pour couvrir la fourniture d’électricité nécessaire à l’offre d’un service de charge;
 
-5. «infrastructure publique liée à la mobilité électrique»: l’ensemble composé par toutes les bornes de charge publiques, y inclus le système central commun;
+- «infrastructure publique liée à la mobilité électrique»: l’ensemble composé par toutes les bornes de charge publiques, y inclus le système central commun;
 
-6. «système de remboursement»: un mécanisme qui permet de réaffecter les coûts relatifs aux consommations d’électricité des utilisateurs finals fournie par le fournisseur physique aux fournisseurs de service de charge que les utilisateurs finals ont choisi. La réaffectation des coûts consiste en un paiement au fournisseur physique par chacun des fournisseurs de service de charge concernés des montants correspondants à l’électricité consommée par leurs utilisateurs finals sur les bornes de charge alimentées par le fournisseur physique;
+- «système de remboursement»: un mécanisme qui permet de réaffecter les coûts relatifs aux consommations d’électricité des utilisateurs finals fournie par le fournisseur physique aux fournisseurs de service de charge que les utilisateurs finals ont choisi. La réaffectation des coûts consiste en un paiement au fournisseur physique par chacun des fournisseurs de service de charge concernés des montants correspondants à l’électricité consommée par leurs utilisateurs finals sur les bornes de charge alimentées par le fournisseur physique;
 
-7. «ministres»: le ministre ayant l’Énergie dans ses attributions et le ministre ayant les Transports dans ses attributions;
+- «ministres»: le ministre ayant l’Énergie dans ses attributions et le ministre ayant les Transports dans ses attributions;
 
-8. «point de charge»: une interface sur la borne de charge qui permet d’effectuer la charge lente, accélérée ou rapide d’un véhicule électrique;
+- «point de charge»: une interface sur la borne de charge qui permet d’effectuer la charge lente, accélérée ou rapide d’un véhicule électrique;
 
-9. «charge lente»: l’alimentation directe en électricité d’un véhicule électrique à une puissance inférieure ou égale à 3,7 kW;
+- «charge lente»: l’alimentation directe en électricité d’un véhicule électrique à une puissance inférieure ou égale à 3,7 kW;
 
-10. «charge accélérée»: l’alimentation directe en électricité d’un véhicule électrique à une puissance supérieure à 3,7 kW et inférieure ou égale à 22 kW;
+- «charge accélérée»: l’alimentation directe en électricité d’un véhicule électrique à une puissance supérieure à 3,7 kW et inférieure ou égale à 22 kW;
 
-11. «charge rapide»: l’alimentation directe en électricité d’un véhicule électrique à une puissance supérieure à 22 kW;
+- «charge rapide»: l’alimentation directe en électricité d’un véhicule électrique à une puissance supérieure à 22 kW;
 
-12. «système central commun»: solution informatique commune, comprenant matériel et logiciel, utilisée ensemble par les gestionnaires de réseau de distribution pour gérer électroniquement les bornes de charge publiques et pour fournir les fonctionnalités informatiques requises aux utilisateurs de l’infrastructure publique liée à la mobilité électrique;
+- «système central commun»: solution informatique commune, comprenant matériel et logiciel, utilisée ensemble par les gestionnaires de réseau de distribution pour gérer électroniquement les bornes de charge publiques et pour fournir les fonctionnalités informatiques requises aux utilisateurs de l’infrastructure publique liée à la mobilité électrique;
 
-13. «point d’intérêt communal»: pôle d’attraction d’une commune tel que les quartiers centraux d’une localité, zones d’activité, infrastructures scolaires, sites touristiques, culturels ou sportifs, hôpitaux, commerces, mairies et administrations;
+- «point d’intérêt communal»: pôle d’attraction d’une commune tel que les quartiers centraux d’une localité, zones d’activité, infrastructures scolaires, sites touristiques, culturels ou sportifs, hôpitaux, commerces, mairies et administrations;
 
-14. «emplacement de stationnement public»: espace sur la voie publique destiné au stationnement d’automobiles au sens de l’ arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques;
+- «emplacement de stationnement public»: espace sur la voie publique destiné au stationnement d’automobiles au sens de l’ arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques;
 
-15. «parking public»: espace ouvert à la circulation publique et spécifiquement aménagé pour le parcage d’automobiles au sens de l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques;
+- «parking public»: espace ouvert à la circulation publique et spécifiquement aménagé pour le parcage d’automobiles au sens de l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques;
 
-16. «parking relais»: parking public duquel les usagers peuvent emprunter un service de transports publics par rail ou un service régulier de transports publics par route au sens de la loi modifiée du 29 juin 2004 sur les transports publics;
+- «parking relais»: parking public duquel les usagers peuvent emprunter un service de transports publics par rail ou un service régulier de transports publics par route au sens de la loi modifiée du 29 juin 2004 sur les transports publics;
 
-17. «parking de co-voiturage»: parking public destiné à la pratique du co-voiturage.
+- «parking de co-voiturage»: parking public destiné à la pratique du co-voiturage.
 
-18. « aire de service autoroutière » : aire de repos ou de ravitaillement ouverte à la circulation publique et aménagée en bordure d’une autoroute. Le terme « autoroute » s’entend tel que défini à l’article 2, point 1.6., de l’ arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques ;
+- « aire de service autoroutière » : aire de repos ou de ravitaillement ouverte à la circulation publique et aménagée en bordure d’une autoroute. Le terme « autoroute » s’entend tel que défini à l’article 2, point 1.6., de l’ arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques ;
 
-19. « aire de service routière » : aire de repos ou de ravitaillement ouverte à la circulation publique et aménagée en bordure d’une route pour véhicules automoteurs. Les termes « route pour véhicules automoteurs » s’entendent tels que définis à l’article 2, point 1.7., de l’ arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques.
+- « aire de service routière » : aire de repos ou de ravitaillement ouverte à la circulation publique et aménagée en bordure d’une route pour véhicules automoteurs. Les termes « route pour véhicules automoteurs » s’entendent tels que définis à l’article 2, point 1.7., de l’ arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques.
 
 ##### Chapitre II Tâches des gestionnaires de réseau de distribution
 
@@ -76,25 +76,25 @@ Aux fins du présent règlement grand-ducal, on entend par:
 
 Dans le cadre du déploiement d’une infrastructure publique liée à la mobilité électrique sur le territoire défini par leur concession, les gestionnaires de réseau de distribution sont investis des tâches suivantes:
 
-1. assurer l’installation, l’exploitation et l’évolution des bornes de charge publiques et du système central commun;
+- assurer l’installation, l’exploitation et l’évolution des bornes de charge publiques et du système central commun;
 
-2. assurer la maintenance préventive et curative des bornes de charge publiques et du système central commun;
+- assurer la maintenance préventive et curative des bornes de charge publiques et du système central commun;
 
-3. entretenir en conditions opérationnelles et en état propre l’infrastructure publique liée à la mobilité électrique;
+- entretenir en conditions opérationnelles et en état propre l’infrastructure publique liée à la mobilité électrique;
 
-4. désigner, suivant des critères transparents, au moins tous les trois ans un fournisseur comme fournisseur physique;
+- désigner, suivant des critères transparents, au moins tous les trois ans un fournisseur comme fournisseur physique;
 
-5. gérer les moyens d’identification des utilisateurs finals;
+- gérer les moyens d’identification des utilisateurs finals;
 
-6. gérer et mettre à disposition des fournisseurs de service de charge un service de réservation des points de charge faisant partie de l’infrastructure publique liée à la mobilité électrique;
+- gérer et mettre à disposition des fournisseurs de service de charge un service de réservation des points de charge faisant partie de l’infrastructure publique liée à la mobilité électrique;
 
-7. gérer le système de remboursement et les relations avec les fournisseurs physiques et les fournisseurs de service de charge qui en résultent;
+- gérer le système de remboursement et les relations avec les fournisseurs physiques et les fournisseurs de service de charge qui en résultent;
 
-8. offrir aux utilisateurs finals des services d’informations techniques et organisationnelles ainsi que des informations sur la localisation et la disponibilité des points de charge des bornes de charge publiques sur leur site internet ; Lorsqu’elles existent, les données relatives aux points de charge peuvent comprendre des informations sur leur accessibilité en temps réel ainsi que des informations historiques et en temps réel en matière de recharge ;
+- offrir aux utilisateurs finals des services d’informations techniques et organisationnelles ainsi que des informations sur la localisation et la disponibilité des points de charge des bornes de charge publiques sur leur site internet ; Lorsqu’elles existent, les données relatives aux points de charge peuvent comprendre des informations sur leur accessibilité en temps réel ainsi que des informations historiques et en temps réel en matière de recharge ;
 
-9. mettre à la disposition de la Police grand-ducale, des services de secours et des agents des administrations communales des services techniques nécessaires dans le cadre de la sécurité et de la surveillance des emplacements;
+- mettre à la disposition de la Police grand-ducale, des services de secours et des agents des administrations communales des services techniques nécessaires dans le cadre de la sécurité et de la surveillance des emplacements;
 
-10. mettre à disposition l’espace publicitaire sur les bornes de charge publiques et/ou le cas échéant sur les panneaux attenants. Les recettes nettes éventuelles issues de cette activité publicitaire sont à considérer entièrement comme éléments réducteurs de coûts et sont à prendre en considération lors du calcul des tarifs d’utilisation des réseaux.
+- mettre à disposition l’espace publicitaire sur les bornes de charge publiques et/ou le cas échéant sur les panneaux attenants. Les recettes nettes éventuelles issues de cette activité publicitaire sont à considérer entièrement comme éléments réducteurs de coûts et sont à prendre en considération lors du calcul des tarifs d’utilisation des réseaux.
 
 Ces tâches sont exécutées aux conditions économiquement les plus avantageuses et, le cas échéant, en coopération avec les propriétaires ou exploitants des emplacements sur lesquels les bornes de charge publiques sont installées.
 
@@ -136,15 +136,15 @@ Les bornes de charge publiques prévoient, en outre, la possibilité d’une rec
 
 Dans leur communication avec le système central commun, les bornes de charge publiques doivent être capables de:
 
-1. transmettre des demandes d’identification;
+- transmettre des demandes d’identification;
 
-2. recevoir l’autorisation de charge émise par le système central commun après demande d’identification;
+- recevoir l’autorisation de charge émise par le système central commun après demande d’identification;
 
-3. transmettre les données de consommation à la fin de chaque opération de charge;
+- transmettre les données de consommation à la fin de chaque opération de charge;
 
-4. transmettre leur statut dès qu’une opération de charge est lancée (borne occupée) puis à la fin de la charge (borne libre);
+- transmettre leur statut dès qu’une opération de charge est lancée (borne occupée) puis à la fin de la charge (borne libre);
 
-5. recevoir un ordre de réservation.
+- recevoir un ordre de réservation.
 
 (5)
 
@@ -154,17 +154,17 @@ Les bornes de charge publiques doivent être suffisamment adaptables pour permet
 
 Le système central commun doit être capable de:
 
-1. recevoir une demande d’identification;
+- recevoir une demande d’identification;
 
-2. transmettre une autorisation de charge suite à une demande d’identification;
+- transmettre une autorisation de charge suite à une demande d’identification;
 
-3. recevoir les données de consommation;
+- recevoir les données de consommation;
 
-4. recevoir les données concernant le statut des points de charge (libre/utilisé);
+- recevoir les données concernant le statut des points de charge (libre/utilisé);
 
-5. le cas échéant, émettre un ordre de réservation d’un point de charge par un utilisateur final;
+- le cas échéant, émettre un ordre de réservation d’un point de charge par un utilisateur final;
 
-6. émettre un ordre de blocage/déblocage d’un point de charge.
+- émettre un ordre de blocage/déblocage d’un point de charge.
 
 ##### Chapitre IV Installation de bornes de charge publiques
 
@@ -230,15 +230,15 @@ Les frais réels encourus par chaque gestionnaire de réseau pour le déploiemen
 
 Les critères suivants doivent être respectés pour l’installation des bornes de charge publiques:
 
-1. une place de stationnement est assignée à chaque point de charge d’une borne de charge publique et réservée aux voitures électriques pour se raccorder aux points de charge au sens de l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques;
+- une place de stationnement est assignée à chaque point de charge d’une borne de charge publique et réservée aux voitures électriques pour se raccorder aux points de charge au sens de l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques;
 
-2. les bornes de charge publiques doivent être aménagées sur les emplacements de stationnement publics et parkings publics à proximité (<300 m) des points d’intérêts communaux;
+- les bornes de charge publiques doivent être aménagées sur les emplacements de stationnement publics et parkings publics à proximité (<300 m) des points d’intérêts communaux;
 
-3. les bornes de charge publiques doivent être accessibles aux utilisateurs pendant les heures d’ouverture des parkings respectifs;
+- les bornes de charge publiques doivent être accessibles aux utilisateurs pendant les heures d’ouverture des parkings respectifs;
 
-4. les bornes de charge publiques doivent être aménagées sur les parkings à un endroit proche de l’accès carrossable et facilement visible pour les utilisateurs potentiels;
+- les bornes de charge publiques doivent être aménagées sur les parkings à un endroit proche de l’accès carrossable et facilement visible pour les utilisateurs potentiels;
 
-5. le type de charge à prévoir est en fonction de la localisation des bornes, sous réserve de la faisabilité technique et de coûts raisonnables. Sur les parkings relais respectivement parkings de co-voiturage, la charge lente est à privilégier. Sur les autres emplacements, le type de charge est à choisir en fonction de la durée de chargement moyenne attendu respectivement de la limitation de durée de stationnement sur cet emplacement.
+- le type de charge à prévoir est en fonction de la localisation des bornes, sous réserve de la faisabilité technique et de coûts raisonnables. Sur les parkings relais respectivement parkings de co-voiturage, la charge lente est à privilégier. Sur les autres emplacements, le type de charge est à choisir en fonction de la durée de chargement moyenne attendu respectivement de la limitation de durée de stationnement sur cet emplacement.
 
 ##### Chapitre V Disposition finale
 

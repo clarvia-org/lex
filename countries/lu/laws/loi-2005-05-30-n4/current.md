@@ -41,33 +41,33 @@ Définitions
 
 Aux fins de la présente loi on entend par:
 
-1. «abonné»: une personne physique ou morale partie à un contrat avec une entreprise offrant des services de communications électroniques accessibles au public, pour la fourniture de tels services;
+- «abonné»: une personne physique ou morale partie à un contrat avec une entreprise offrant des services de communications électroniques accessibles au public, pour la fourniture de tels services;
 
-2. (abrogé)
+- (abrogé)
 
-3. (b) «consentement»: toute manifestation de volonté libre, spécifique et informée par laquelle la personne concernée ou son représentant légal, judiciaire ou statutaire accepte que les données à caractère personnel la concernant fassent l’objet d’un traitement;
+- (b) «consentement»: toute manifestation de volonté libre, spécifique et informée par laquelle la personne concernée ou son représentant légal, judiciaire ou statutaire accepte que les données à caractère personnel la concernant fassent l’objet d’un traitement;
 
-4. (c) «communication»: toute information échangée ou acheminée entre un nombre fini de parties au moyen d’un service de communications électroniques accessible au public à l’exception des informations qui sont acheminées dans le cadre d’un service de radiodiffusion au public par l’intermédiaire d’un réseau de communications électroniques sauf si et dans la mesure où un lien peut être établi entre l’information et l’abonné ou l’utilisateur identifiable qui la reçoit;
+- (c) «communication»: toute information échangée ou acheminée entre un nombre fini de parties au moyen d’un service de communications électroniques accessible au public à l’exception des informations qui sont acheminées dans le cadre d’un service de radiodiffusion au public par l’intermédiaire d’un réseau de communications électroniques sauf si et dans la mesure où un lien peut être établi entre l’information et l’abonné ou l’utilisateur identifiable qui la reçoit;
 
-5. (d) «courrier électronique»: tout message sous forme de texte, de voix, de son ou d’image envoyé par un réseau de communications public qui peut être stocké dans le réseau ou dans l’équipement terminal du destinataire jusqu’à ce que ce dernier le récupère;
+- (d) «courrier électronique»: tout message sous forme de texte, de voix, de son ou d’image envoyé par un réseau de communications public qui peut être stocké dans le réseau ou dans l’équipement terminal du destinataire jusqu’à ce que ce dernier le récupère;
 
-6. (e) «données relatives au trafic»: toutes les données traitées en vue de l’acheminement d’une communication par un réseau de communications électroniques ou de sa facturation;
+- (e) «données relatives au trafic»: toutes les données traitées en vue de l’acheminement d’une communication par un réseau de communications électroniques ou de sa facturation;
 
-7. (f) «données de localisation»: toutes les données traitées dans un réseau de communications électroniques ou par un service de communications électroniques indiquant la position géographique de l’équipement terminal d’un utilisateur d’un service de communications électroniques accessible au public;
+- (f) «données de localisation»: toutes les données traitées dans un réseau de communications électroniques ou par un service de communications électroniques indiquant la position géographique de l’équipement terminal d’un utilisateur d’un service de communications électroniques accessible au public;
 
-8. (g) «Institut»: l’Institut Luxembourgeois de Régulation;
+- (g) «Institut»: l’Institut Luxembourgeois de Régulation;
 
-9. (h) «réseau de communications électroniques»: les systèmes de transmission et, le cas échéant, les équipements de commutation ou de routage et les autres ressources qui permettent l’acheminement de signaux par câble, par voie hertzienne, par moyen optique ou par d’autres moyens électromagnétiques comprenant les réseaux satellitaires, les réseaux terrestres fixes (avec commutation de circuits ou de paquets, y compris l’Internet) et mobiles, les systèmes utilisant le réseau électrique, pour autant qu’ils servent à la transmission de signaux, les réseaux utilisés pour la radiodiffusion sonore et télévisuelle et les réseaux câblés de télévision, quel que soit le type d’information transmise;
+- (h) «réseau de communications électroniques»: les systèmes de transmission et, le cas échéant, les équipements de commutation ou de routage et les autres ressources qui permettent l’acheminement de signaux par câble, par voie hertzienne, par moyen optique ou par d’autres moyens électromagnétiques comprenant les réseaux satellitaires, les réseaux terrestres fixes (avec commutation de circuits ou de paquets, y compris l’Internet) et mobiles, les systèmes utilisant le réseau électrique, pour autant qu’ils servent à la transmission de signaux, les réseaux utilisés pour la radiodiffusion sonore et télévisuelle et les réseaux câblés de télévision, quel que soit le type d’information transmise;
 
-10. (i) «réseau de communications public»: un réseau de communications électroniques utilisé entièrement ou principalement pour la fourniture de services de communications électroniques accessibles au public. Le fournisseur du réseau de communications public est dénommé ci-après «opérateur»;
+- (i) «réseau de communications public»: un réseau de communications électroniques utilisé entièrement ou principalement pour la fourniture de services de communications électroniques accessibles au public. Le fournisseur du réseau de communications public est dénommé ci-après «opérateur»;
 
-11. (j) «service de communications électroniques»: un service fourni normalement contre rémunération qui consiste entièrement ou principalement en la transmission de signaux sur les réseaux de communications électroniques, y compris les services de télécommunications et les services de transmission sur des réseaux utilisés pour la radiodiffusion, mais qui exclut les services consistant à fournir des contenus à l’aide de réseaux et de services de communications électroniques ou à exercer une responsabilité éditoriale sur ces contenus; il ne comprend pas les services de la société de l’information qui ne consistent pas entièrement ou principalement en la transmission de signaux sur des réseaux de communications électroniques. Le fournisseur de services de communications électroniques est dénommé ci-après «fournisseur de services»;
+- (j) «service de communications électroniques»: un service fourni normalement contre rémunération qui consiste entièrement ou principalement en la transmission de signaux sur les réseaux de communications électroniques, y compris les services de télécommunications et les services de transmission sur des réseaux utilisés pour la radiodiffusion, mais qui exclut les services consistant à fournir des contenus à l’aide de réseaux et de services de communications électroniques ou à exercer une responsabilité éditoriale sur ces contenus; il ne comprend pas les services de la société de l’information qui ne consistent pas entièrement ou principalement en la transmission de signaux sur des réseaux de communications électroniques. Le fournisseur de services de communications électroniques est dénommé ci-après «fournisseur de services»;
 
-12. (k) «service à valeur ajoutée»: tout service qui exige le traitement de données relatives au trafic ou à la localisation, à l’exclusion des données qui ne sont pas indispensables pour la transmission d’une communication ou sa facturation;
+- (k) «service à valeur ajoutée»: tout service qui exige le traitement de données relatives au trafic ou à la localisation, à l’exclusion des données qui ne sont pas indispensables pour la transmission d’une communication ou sa facturation;
 
-13. (l) «utilisateur»: une personne physique ou morale qui utilise ou demande un service de communications électroniques accessible au public à des fins privées ou professionnelles sans être nécessairement abonnée à ce service;
+- (l) «utilisateur»: une personne physique ou morale qui utilise ou demande un service de communications électroniques accessible au public à des fins privées ou professionnelles sans être nécessairement abonnée à ce service;
 
-14. «violation de données à caractère personnel»: une violation de la sécurité entraînant accidentellement ou de manière illicite la destruction, la perte, l’altération, la divulgation ou l’accès non autorisés de données à caractère personnel transmises, stockées ou traitées d’une autre manière en relation avec la fourniture de services de communications électroniques accessibles au public.
+- «violation de données à caractère personnel»: une violation de la sécurité entraînant accidentellement ou de manière illicite la destruction, la perte, l’altération, la divulgation ou l’accès non autorisés de données à caractère personnel transmises, stockées ou traitées d’une autre manière en relation avec la fourniture de services de communications électroniques accessibles au public.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -135,15 +135,15 @@ Il est interdit à toute autre personne que l’utilisateur concerné d’écout
 
 Le paragraphe (2):
 
-1. n’empêche pas le stockage technique nécessaire à l’acheminement d’une communication, sans préjudice du principe de confidentialité;
+- n’empêche pas le stockage technique nécessaire à l’acheminement d’une communication, sans préjudice du principe de confidentialité;
 
-2. ne s’applique pas aux autorités judiciaires agissant dans le cadre des compétences leur attribuées par la loi et celles compétentes en vertu des articles 88-1 à 88-4 du Code d’instruction criminelle pour sauvegarder la sûreté de l’Etat, la défense, la sécurité publique et pour la prévention, la recherche, la constatation et la poursuite des infractions pénales;
+- ne s’applique pas aux autorités judiciaires agissant dans le cadre des compétences leur attribuées par la loi et celles compétentes en vertu des articles 88-1 à 88-4 du Code d’instruction criminelle pour sauvegarder la sûreté de l’Etat, la défense, la sécurité publique et pour la prévention, la recherche, la constatation et la poursuite des infractions pénales;
 
-3. ne s’applique pas aux communications et aux données relatives au trafic y afférentes, effectuées à destination du numéro d’appel d’urgence unique européen 112 et des numéros d’urgence déterminés par l’Institut dans le seul but de permettre (a) la réécoute de messages lors de problèmes de compréhension ou d’ambiguïté entre l’appelant et l’appelé, (b) la documentation de fausses alertes, de menaces et d’appels abusifs et (c) la production de preuves lors de contestation sur le déroulement d’actions de secours. Les données relatives au trafic afférentes aux communications visées ci-dessus, y compris les données de localisation, sont à effacer une fois le secours apporté. Le contenu des communications est à effacer après un délai de 6 mois au plus;
+- ne s’applique pas aux communications et aux données relatives au trafic y afférentes, effectuées à destination du numéro d’appel d’urgence unique européen 112 et des numéros d’urgence déterminés par l’Institut dans le seul but de permettre (a) la réécoute de messages lors de problèmes de compréhension ou d’ambiguïté entre l’appelant et l’appelé, (b) la documentation de fausses alertes, de menaces et d’appels abusifs et (c) la production de preuves lors de contestation sur le déroulement d’actions de secours. Les données relatives au trafic afférentes aux communications visées ci-dessus, y compris les données de localisation, sont à effacer une fois le secours apporté. Le contenu des communications est à effacer après un délai de 6 mois au plus;
 
-4. n’affecte pas l’enregistrement de communications et des données relatives au trafic y afférentes, lorsqu’il est effectué dans le cadre des usages professionnels licites, afin de fournir la preuve d’une transaction commerciale ou de toute autre communication commerciale. Les parties aux transactions ou à toutes autres communications commerciales sont informées au préalable de ce que des enregistrements sont susceptibles d’être effectués, de la ou des raisons pour lesquelles les communications sont enregistrées et de la durée de conservation maximale des enregistrements. Les communications enregistrées sont à effacer dès que la finalité est atteinte, et en tout état de cause, lors de l’expiration du délai légal de recours contre la transaction;
+- n’affecte pas l’enregistrement de communications et des données relatives au trafic y afférentes, lorsqu’il est effectué dans le cadre des usages professionnels licites, afin de fournir la preuve d’une transaction commerciale ou de toute autre communication commerciale. Les parties aux transactions ou à toutes autres communications commerciales sont informées au préalable de ce que des enregistrements sont susceptibles d’être effectués, de la ou des raisons pour lesquelles les communications sont enregistrées et de la durée de conservation maximale des enregistrements. Les communications enregistrées sont à effacer dès que la finalité est atteinte, et en tout état de cause, lors de l’expiration du délai légal de recours contre la transaction;
 
-5. ne s’applique pas au stockage d’informations, ou l’obtention de l’accès à des informations déjà stockées, dans l’équipement terminal d’un abonné ou d’un utilisateur à condition que l’abonné ou l’utilisateur ait donné son accord, après avoir reçu une information claire et complète, entre autres sur les finalités du traitement. Les méthodes retenues pour fournir l’information et offrir le droit de refus devraient être les plus conviviales possibles. Lorsque cela est techniquement possible et effectif, l’accord de l’abonné ou de l’utilisateur peut être exprimé par l’utilisation des paramètres appropriés d’un navigateur ou d’une autre application. Cette disposition ne fait pas obstacle à un stockage ou à un accès techniques visant exclusivement à effectuer la transmission d’une communication par la voie d’un réseau de communications électroniques, ou strictement nécessaires au fournisseur pour la fourniture d’un service de la société de l’information expressément demandé par l’abonné ou l’utilisateur.
+- ne s’applique pas au stockage d’informations, ou l’obtention de l’accès à des informations déjà stockées, dans l’équipement terminal d’un abonné ou d’un utilisateur à condition que l’abonné ou l’utilisateur ait donné son accord, après avoir reçu une information claire et complète, entre autres sur les finalités du traitement. Les méthodes retenues pour fournir l’information et offrir le droit de refus devraient être les plus conviviales possibles. Lorsque cela est techniquement possible et effectif, l’accord de l’abonné ou de l’utilisateur peut être exprimé par l’utilisation des paramètres appropriés d’un navigateur ou d’une autre application. Cette disposition ne fait pas obstacle à un stockage ou à un accès techniques visant exclusivement à effectuer la transmission d’une communication par la voie d’un réseau de communications électroniques, ou strictement nécessaires au fournisseur pour la fourniture d’un service de la société de l’information expressément demandé par l’abonné ou l’utilisateur.
 
 (4)
 
@@ -356,11 +356,11 @@ Le fichier est hébergé auprès du Centre des technologies de l’information d
 
 Les entreprises notifiées auprès de l’Institut conformément à la loi du 27 février 2011 sur les réseaux et les services de communications électroniques qui fournissent un service de communications électroniques accessible au public en ayant recours à des ressources de numérotation luxembourgeois (ci-après : « les entreprises notifiées ») transmettent d’office et gratuitement à l’Institut par voie électronique et au moyen d’un interface sécurisé, les données suivantes :
 
-1. pour les personnes physiques : le nom, le prénom, le lieu de résidence habituelle, la date et le lieu de naissance ainsi que le numéro de contact de l’abonné ; pour les personnes morales : la dénomination ou raison sociale, l’adresse du lieu d’établissement ainsi que le numéro de contact ;
+- pour les personnes physiques : le nom, le prénom, le lieu de résidence habituelle, la date et le lieu de naissance ainsi que le numéro de contact de l’abonné ; pour les personnes morales : la dénomination ou raison sociale, l’adresse du lieu d’établissement ainsi que le numéro de contact ;
 
-2. le nom de l’entreprise notifiée, la nature du service fourni par celle-ci, le numéro d’appel alloué pour lequel le service en question a été souscrit et, si disponible, la date de la fin de la relation contractuelle ou en cas de prépaiement la date de désactivation du numéro d’appel.
+- le nom de l’entreprise notifiée, la nature du service fourni par celle-ci, le numéro d’appel alloué pour lequel le service en question a été souscrit et, si disponible, la date de la fin de la relation contractuelle ou en cas de prépaiement la date de désactivation du numéro d’appel.
 
-3. pour les personnes physiques, le type, le pays de délivrance et le numéro de la pièce d’identité ou de l’attestation de dépôt d’une demande de protection internationale de l’abonné en cas de service à prépaiement.
+- pour les personnes physiques, le type, le pays de délivrance et le numéro de la pièce d’identité ou de l’attestation de dépôt d’une demande de protection internationale de l’abonné en cas de service à prépaiement.
 
 Ces données doivent être actualisées au moins une fois par jour, même en l’absence de changement.
 
@@ -441,15 +441,15 @@ La Commission nationale pour la protection des données instituée par l’artic
 
 Action en cessation
 
-1. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale, à la requête de la Commission nationale pour la protection des données, peut ordonner toute mesure destinée à suspendre provisoirement ou à faire cesser tout traitement contraire aux dispositions de la présente loi.
+- Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale, à la requête de la Commission nationale pour la protection des données, peut ordonner toute mesure destinée à suspendre provisoirement ou à faire cesser tout traitement contraire aux dispositions de la présente loi.
 
-2. L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée.
+- L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée.
 
-3. L’action en cessation est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge de fond. Le délai d’appel est de quinze jours.
+- L’action en cessation est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge de fond. Le délai d’appel est de quinze jours.
 
-4. L’affichage de la décision peut être ordonné à l’intérieur ou à l’extérieur de l’établissement du contrevenant et aux frais de celui-ci. La décision précise la durée de l’affichage et elle peut également ordonner la publication, en totalité ou par extrait aux frais du contrevenant, par la voie des journaux ou de toute autre manière. Il ne peut être procédé à l’affichage et à la publication qu’en vertu d’une décision judiciaire coulée en force de chose jugée.
+- L’affichage de la décision peut être ordonné à l’intérieur ou à l’extérieur de l’établissement du contrevenant et aux frais de celui-ci. La décision précise la durée de l’affichage et elle peut également ordonner la publication, en totalité ou par extrait aux frais du contrevenant, par la voie des journaux ou de toute autre manière. Il ne peut être procédé à l’affichage et à la publication qu’en vertu d’une décision judiciaire coulée en force de chose jugée.
 
-5. Tout manquement aux injonctions ou interdictions portées par une décision judiciaire prononcée en vertu du présent article et coulée en force de chose jugée est puni d’une amende de 251 à 50.000 euros.
+- Tout manquement aux injonctions ou interdictions portées par une décision judiciaire prononcée en vertu du présent article et coulée en force de chose jugée est puni d’une amende de 251 à 50.000 euros.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -465,21 +465,21 @@ Dispositions modificatives
 
 Les articles suivants du Code d’instruction criminelle sont modifiés comme suit:
 
-1. Art. 88-2: Les alinéas 1, 2, 3 et 5 de l’article 88-2 du Code d’instruction criminelle sont modifiés comme suit:
+- Art. 88-2: Les alinéas 1, 2, 3 et 5 de l’article 88-2 du Code d’instruction criminelle sont modifiés comme suit:
 
-1. Les décisions par lesquelles le juge d’instruction ou le président de la chambre du conseil de la Cour d’appel auront ordonné la surveillance et le contrôle de télécommunications ainsi que de correspondances confiées à la poste seront notifiées aux opérateurs des postes ou télécommunications qui feront sans retard procéder à leur exécution.
+  - Les décisions par lesquelles le juge d’instruction ou le président de la chambre du conseil de la Cour d’appel auront ordonné la surveillance et le contrôle de télécommunications ainsi que de correspondances confiées à la poste seront notifiées aux opérateurs des postes ou télécommunications qui feront sans retard procéder à leur exécution.
 
-2. Ces décisions et les suites qui leur auront été données seront inscrites sur un registre spécial tenu par chaque opérateur des postes ou télécommunications.
+  - Ces décisions et les suites qui leur auront été données seront inscrites sur un registre spécial tenu par chaque opérateur des postes ou télécommunications.
 
-3. Les télécommunications enregistrées et les correspondances ainsi que les données ou renseignements obtenus par d’autres moyens techniques de surveillance et de contrôle sur la base de l’article 88-1 seront remis sous scellés et contre récépissé au juge d’instruction qui dressera procès-verbal de leur remise. Il fera copier les correspondances pouvant servir à conviction ou à décharge et versera ces copies, les enregistrements ainsi que tous autres données et renseignements reçus au dossier. Il renverra les écrits qu’il ne juge pas nécessaire de saisir aux opérateurs des postes qui les remettront sans délai au destinataire.
+  - Les télécommunications enregistrées et les correspondances ainsi que les données ou renseignements obtenus par d’autres moyens techniques de surveillance et de contrôle sur la base de l’article 88-1 seront remis sous scellés et contre récépissé au juge d’instruction qui dressera procès-verbal de leur remise. Il fera copier les correspondances pouvant servir à conviction ou à décharge et versera ces copies, les enregistrements ainsi que tous autres données et renseignements reçus au dossier. Il renverra les écrits qu’il ne juge pas nécessaire de saisir aux opérateurs des postes qui les remettront sans délai au destinataire.
 
-4. Les communications avec des personnes liées par le secret professionnel au sens de l’article 458 du Code pénal et non suspectes d’avoir elles-mêmes commis l’infraction ou d’y avoir participé ne pourront être utilisées. Leur enregistrement et leur transcription seront immédiatement détruits par le juge d’instruction.
+  - Les communications avec des personnes liées par le secret professionnel au sens de l’article 458 du Code pénal et non suspectes d’avoir elles-mêmes commis l’infraction ou d’y avoir participé ne pourront être utilisées. Leur enregistrement et leur transcription seront immédiatement détruits par le juge d’instruction.
 
-2. Art. 88-4: Les alinéas 1 et 4 de l’article 88-4 du Code d’instruction criminelle sont modifiés comme suit:
+- Art. 88-4: Les alinéas 1 et 4 de l’article 88-4 du Code d’instruction criminelle sont modifiés comme suit:
 
-1. Les décisions par lesquelles le Président du Gouvernement aura ordonné la surveillance et le contrôle de télécommunications ainsi que de correspondances seront notifiées aux opérateurs des postes ou télécommunications qui feront procéder sans retard à leur exécution.
+  - Les décisions par lesquelles le Président du Gouvernement aura ordonné la surveillance et le contrôle de télécommunications ainsi que de correspondances seront notifiées aux opérateurs des postes ou télécommunications qui feront procéder sans retard à leur exécution.
 
-2. Les correspondances seront remises sous scellés et contre récépissé au service de renseignements. Le chef du service fera photocopier les correspondances pouvant servir à charge ou à décharge et renverra les écrits qu’il ne juge pas nécessaire de retenir aux opérateurs des postes qui les feront remettre au destinataire.
+  - Les correspondances seront remises sous scellés et contre récépissé au service de renseignements. Le chef du service fera photocopier les correspondances pouvant servir à charge ou à décharge et renverra les écrits qu’il ne juge pas nécessaire de retenir aux opérateurs des postes qui les feront remettre au destinataire.
 
 <a id="art-15"></a>
 ## Art. 15.

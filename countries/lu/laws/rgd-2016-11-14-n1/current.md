@@ -53,27 +53,27 @@ Définitions
 
 Aux fins du présent règlement grand-ducal, on entend par:
 
-1. «agent chimique»: tout élément ou composé chimique, seul ou mélangé, tel qu’il se présente à l’état naturel ou tel qu’il est produit, utilisé ou libéré, notamment sous forme de déchet, du fait d’une activité professionnelle, qu’il soit ou non produit intentionnellement et qu’il soit ou non mis sur le marché;
+- «agent chimique»: tout élément ou composé chimique, seul ou mélangé, tel qu’il se présente à l’état naturel ou tel qu’il est produit, utilisé ou libéré, notamment sous forme de déchet, du fait d’une activité professionnelle, qu’il soit ou non produit intentionnellement et qu’il soit ou non mis sur le marché;
 
-2. «agent chimique dangereux»:
+- «agent chimique dangereux»:
 
-1. tout agent chimique qui satisfait aux critères de classification en tant que dangereux dans l’une des classes de dangers physiques et/ou de dangers pour la santé énoncées dans le Règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006 , dénommé ci-après «règlement CLP», que cet agent chimique soit ou non classé au titre dudit règlement;
+  - tout agent chimique qui satisfait aux critères de classification en tant que dangereux dans l’une des classes de dangers physiques et/ou de dangers pour la santé énoncées dans le Règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006 , dénommé ci-après «règlement CLP», que cet agent chimique soit ou non classé au titre dudit règlement;
 
-2. tout agent chimique qui, bien que ne satisfaisant pas aux critères de classification en tant que dangereux conformément au présent article, paragraphe 2 point 2, peut présenter un risque pour la sécurité et la santé des salariés en raison de ses propriétés physico- chimiques, chimiques ou toxicologiques et de par la manière dont il est utilisé ou présent sur le lieu de travail, y compris tout agent chimique auquel est affectée une valeur limite d’exposition professionnelle en vertu de l’article 3;
+  - tout agent chimique qui, bien que ne satisfaisant pas aux critères de classification en tant que dangereux conformément au présent article, paragraphe 2 point 2, peut présenter un risque pour la sécurité et la santé des salariés en raison de ses propriétés physico- chimiques, chimiques ou toxicologiques et de par la manière dont il est utilisé ou présent sur le lieu de travail, y compris tout agent chimique auquel est affectée une valeur limite d’exposition professionnelle en vertu de l’article 3;
 
-3. «activité impliquant des agents chimiques»: tout travail dans lequel des agents chimiques sont utilisés ou destinés à être utilisés dans tout processus, y compris la production, la manutention, le stockage, le transport ou l’élimination et le traitement, ou au cours duquel de tels agents sont produits;
+- «activité impliquant des agents chimiques»: tout travail dans lequel des agents chimiques sont utilisés ou destinés à être utilisés dans tout processus, y compris la production, la manutention, le stockage, le transport ou l’élimination et le traitement, ou au cours duquel de tels agents sont produits;
 
-4. «valeur limite d’exposition professionnelle»: sauf indication contraire, la limite de la moyenne pondérée en fonction du temps de la concentration d’un agent chimique dans l’air de la zone de respiration d’un salarié au cours d’une période de référence déterminée;
+- «valeur limite d’exposition professionnelle»: sauf indication contraire, la limite de la moyenne pondérée en fonction du temps de la concentration d’un agent chimique dans l’air de la zone de respiration d’un salarié au cours d’une période de référence déterminée;
 
-5. «valeur limite biologique»: la limite de concentration dans le milieu biologique approprié de l’agent concerné, de ses métabolites ou d’un indicateur d’effet;
+- «valeur limite biologique»: la limite de concentration dans le milieu biologique approprié de l’agent concerné, de ses métabolites ou d’un indicateur d’effet;
 
-6. «surveillance de la santé»: l’évaluation de l’état de santé d’un salarié en fonction de son exposition à des agents chimiques spécifiques sur le lieu de travail;
+- «surveillance de la santé»: l’évaluation de l’état de santé d’un salarié en fonction de son exposition à des agents chimiques spécifiques sur le lieu de travail;
 
-7. «danger»: propriété intrinsèque d’un agent chimique susceptible d’avoir un effet nuisible;
+- «danger»: propriété intrinsèque d’un agent chimique susceptible d’avoir un effet nuisible;
 
-8. «risque»: la probabilité que le potentiel de nuisance soit atteint dans les conditions d’utilisation ou d’exposition;
+- «risque»: la probabilité que le potentiel de nuisance soit atteint dans les conditions d’utilisation ou d’exposition;
 
-9. «autorité compétente»: les autorités compétentes sont celles définies à l’article L. 314-3 du Code du travail .
+- «autorité compétente»: les autorités compétentes sont celles définies à l’article L. 314-3 du Code du travail .
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -93,19 +93,19 @@ Détermination et évaluation des risques des agents chimiques dangereux
 
 Dans l’accomplissement des obligations définies à l’article L. 312-2 paragraphe 4 point 1 et à l’article L. 312-5 paragraphe 1er du Code du travail, l’employeur détermine tout d’abord si des agents chimiques dangereux sont présents sur le lieu de travail. Si tel est le cas, il évalue tout risque pour la sécurité et la santé des salariés résultant de la présence de ces agents chimiques, en tenant compte des éléments suivants:
 
-1. leurs propriétés dangereuses;
+- leurs propriétés dangereuses;
 
-2. les informations relatives à la sécurité et à la santé qui sont communiquées par le fournisseur dans le cadre du Règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE , 93/67/CEE , 93/105/CE et 2000/21/CE de la Commission, dénommé ci-après «règlement REACH»;
+- les informations relatives à la sécurité et à la santé qui sont communiquées par le fournisseur dans le cadre du Règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE , 93/67/CEE , 93/105/CE et 2000/21/CE de la Commission, dénommé ci-après «règlement REACH»;
 
-3. le niveau, le type et la durée d’exposition;
+- le niveau, le type et la durée d’exposition;
 
-4. les conditions dans lesquelles se déroule le travail impliquant ces agents, y compris leur quantité;
+- les conditions dans lesquelles se déroule le travail impliquant ces agents, y compris leur quantité;
 
-5. les valeurs limites d’exposition professionnelle ou les valeurs limites biologiques figurant aux annexes I et II;
+- les valeurs limites d’exposition professionnelle ou les valeurs limites biologiques figurant aux annexes I et II;
 
-6. l’effet des mesures de prévention prises ou à prendre;
+- l’effet des mesures de prévention prises ou à prendre;
 
-7. lorsqu’elles sont disponibles, les conclusions à tirer d’une surveillance de la santé déjà effectuée. L’employeur obtient du fournisseur ou d’autres sources aisément accessibles les renseignements complémentaires qui sont nécessaires pour l’évaluation des risques.
+- lorsqu’elles sont disponibles, les conclusions à tirer d’une surveillance de la santé déjà effectuée. L’employeur obtient du fournisseur ou d’autres sources aisément accessibles les renseignements complémentaires qui sont nécessaires pour l’évaluation des risques.
 
 (2)
 
@@ -140,19 +140,19 @@ Dans l’accomplissement de son obligation de veiller à la santé et à la séc
 
 Les risques que présente pour la santé et la sécurité des salariés une activité impliquant des agents chimiques dangereux sont supprimés ou réduits au minimum:
 
-1. par la conception et l’organisation des méthodes de travail sur le lieu de travail;
+- par la conception et l’organisation des méthodes de travail sur le lieu de travail;
 
-2. en prévoyant un matériel adéquat pour les opérations impliquant des agents chimiques ainsi que des procédures d’entretien qui protègent la santé et la sécurité des salariés pendant le travail;
+- en prévoyant un matériel adéquat pour les opérations impliquant des agents chimiques ainsi que des procédures d’entretien qui protègent la santé et la sécurité des salariés pendant le travail;
 
-3. en réduisant au minimum le nombre des salariés exposés ou susceptibles d’être exposés;
+- en réduisant au minimum le nombre des salariés exposés ou susceptibles d’être exposés;
 
-4. en réduisant au minimum la durée et l’intensité de l’exposition;
+- en réduisant au minimum la durée et l’intensité de l’exposition;
 
-5. par des mesures d’hygiène appropriées;
+- par des mesures d’hygiène appropriées;
 
-6. en réduisant la quantité d’agents chimiques présents sur le lieu de travail au minimum nécessaire pour le type de travail concerné;
+- en réduisant la quantité d’agents chimiques présents sur le lieu de travail au minimum nécessaire pour le type de travail concerné;
 
-7. par des procédures de travail adéquates, notamment des dispositions assurant la sécurité lors de la manutention, du stockage et du transport sur le lieu de travail des agents chimiques dangereux et des déchets contenant de tels agents.
+- par des procédures de travail adéquates, notamment des dispositions assurant la sécurité lors de la manutention, du stockage et du transport sur le lieu de travail des agents chimiques dangereux et des déchets contenant de tels agents.
 
 (3)
 
@@ -177,11 +177,11 @@ Pour l’application du paragraphe 1er, l’employeur aura de préférence recou
 
 Lorsque la nature de l’activité ne permet pas de supprimer les risques par substitution, eu égard à l’activité et à l’évaluation des risques visée à l’article 4, l’employeur fait en sorte que les risques soient réduits au minimum en appliquant des mesures de protection et de prévention en rapport avec l’évaluation des risques effectuée en application de l’article 4. Ces mesures consisteront, par ordre de priorité:
 
-1. à concevoir des procédés de travail et des contrôles techniques appropriés et à utiliser des équipements et des matériels adéquats de manière à éviter ou à réduire le plus possible la libération d’agents chimiques dangereux pouvant présenter des risques pour la sécurité et la santé des salariés sur le lieu de travail;
+- à concevoir des procédés de travail et des contrôles techniques appropriés et à utiliser des équipements et des matériels adéquats de manière à éviter ou à réduire le plus possible la libération d’agents chimiques dangereux pouvant présenter des risques pour la sécurité et la santé des salariés sur le lieu de travail;
 
-2. à appliquer des mesures de protection collective à la source du risque, telles qu’une bonne ventilation et des mesures organisationnelles appropriées;
+- à appliquer des mesures de protection collective à la source du risque, telles qu’une bonne ventilation et des mesures organisationnelles appropriées;
 
-3. si l’exposition ne peut être empêchée par d’autres moyens, à appliquer des mesures de protection individuelle, y compris un équipement de protection individuel.
+- si l’exposition ne peut être empêchée par d’autres moyens, à appliquer des mesures de protection individuelle, y compris un équipement de protection individuel.
 
 (3)
 
@@ -203,11 +203,11 @@ En tout état de cause, si une valeur limite d’exposition professionnelle a é
 
 Sur la base de l’évaluation globale des risques et des principes généraux de prévention définis aux articles 4 et 5, l’employeur prend les mesures techniques ou organisationnelles adaptées à la nature de l’opération, y compris l’entreposage, l’isolement d’agents chimiques incompatibles et la manutention, et assurant la protection des salariés contre les dangers découlant des propriétés physico-chimiques des agents chimiques. Il prend notamment des mesures, dans l’ordre de priorité suivant, pour:
 
-1. empêcher la présence sur le lieu de travail de concentrations dangereuses de substances inflammables ou de quantités dangereuses de substances chimiques instables ou, lorsque la nature de l’activité ne le permet pas;
+- empêcher la présence sur le lieu de travail de concentrations dangereuses de substances inflammables ou de quantités dangereuses de substances chimiques instables ou, lorsque la nature de l’activité ne le permet pas;
 
-2. éviter la présence de sources d’ignition susceptibles de provoquer des incendies et des explosions ou l’existence de conditions défavorables pouvant rendre des substances ou des mélanges de substances chimiques instables susceptibles d’avoir des effets physiques dangereux;
+- éviter la présence de sources d’ignition susceptibles de provoquer des incendies et des explosions ou l’existence de conditions défavorables pouvant rendre des substances ou des mélanges de substances chimiques instables susceptibles d’avoir des effets physiques dangereux;
 
-3. atténuer les effets nuisibles pour la santé et la sécurité des salariés en cas d’incendie ou d’explosion résultant de l’inflammation de substances inflammables ou les effets physiques dangereux dus aux substances ou aux mélanges de substances chimiques instables.
+- atténuer les effets nuisibles pour la santé et la sécurité des salariés en cas d’incendie ou d’explosion résultant de l’inflammation de substances inflammables ou les effets physiques dangereux dus aux substances ou aux mélanges de substances chimiques instables.
 
 L’employeur prend des mesures pour assurer un contrôle suffisant des installations, de l’équipement et des machines ou met à disposition des extincteurs à déclenchement rapide ou des dispositifs limiteurs de pression.
 
@@ -224,9 +224,9 @@ Sans préjudice des obligations visées à l’article L. 312-4 du Code du trava
 
 Lorsqu’une situation visée au paragraphe 1er se présente, l’employeur prend immédiatement des mesures pour atténuer les effets de la situation et en informer les salariés concernés. Afin de rétablir la situation normale:
 
-1. l’employeur met en oeuvre des mesures adéquates pour remédier le plus rapidement possible à la situation;
+- l’employeur met en oeuvre des mesures adéquates pour remédier le plus rapidement possible à la situation;
 
-2. seuls les salariés indispensables à l’exécution des réparations et autres travaux nécessaires sont autorisés à travailler dans la zone touchée.
+- seuls les salariés indispensables à l’exécution des réparations et autres travaux nécessaires sont autorisés à travailler dans la zone touchée.
 
 (3)
 
@@ -242,9 +242,9 @@ Sans préjudice de l’article L. 312-4 du Code du travail, l’employeur prend 
 
 L’employeur veille à ce que les informations relatives aux mesures d’urgence se rapportant à des agents chimiques dangereux soient disponibles. Les services internes et externes compétents en cas d’accident et d’urgence ont accès à ces informations, qui comprennent:
 
-1. un avertissement préalable des dangers de l’activité, des mesures d’identification du danger, des précautions et des procédures pertinentes afin que les services d’urgence puissent préparer leurs propres procédures d’intervention et mesures de précaution;
+- un avertissement préalable des dangers de l’activité, des mesures d’identification du danger, des précautions et des procédures pertinentes afin que les services d’urgence puissent préparer leurs propres procédures d’intervention et mesures de précaution;
 
-2. toute information disponible sur les dangers spécifiques se présentant ou susceptibles de se présenter lors d’un accident ou d’une urgence, y compris les informations relatives aux procédures préparées en application du présent article.
+- toute information disponible sur les dangers spécifiques se présentant ou susceptibles de se présenter lors d’un accident ou d’une urgence, y compris les informations relatives aux procédures préparées en application du présent article.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -255,17 +255,17 @@ Information et formation des salariés
 
 Sans préjudice de l’article L. 312-8 du Code du travail, l’employeur veille à ce que les salariés et leurs représentants:
 
-1. reçoivent les données obtenues en application de l’article 4 du présent règlement grand-ducal, et soient en outre informés chaque fois qu’un changement important survenu sur le lieu de travail entraîne une modification de ces données;
+- reçoivent les données obtenues en application de l’article 4 du présent règlement grand-ducal, et soient en outre informés chaque fois qu’un changement important survenu sur le lieu de travail entraîne une modification de ces données;
 
-2. reçoivent des informations sur les agents chimiques dangereux se trouvant sur le lieu de travail, telles que leurs noms, les risques pour la sécurité et la santé qu’ils comportent, les valeurs limites d’exposition professionnelle applicables et autres dispositions législatives;
+- reçoivent des informations sur les agents chimiques dangereux se trouvant sur le lieu de travail, telles que leurs noms, les risques pour la sécurité et la santé qu’ils comportent, les valeurs limites d’exposition professionnelle applicables et autres dispositions législatives;
 
-3. reçoivent une formation et des informations quant aux précautions appropriées et aux mesures à prendre afin de se protéger et de protéger les autres salariés sur le lieu de travail,
+- reçoivent une formation et des informations quant aux précautions appropriées et aux mesures à prendre afin de se protéger et de protéger les autres salariés sur le lieu de travail,
 
-4. aient accès à la fiche de données de sécurité communiquée par le fournisseur conformément à l’article 31 du règlement REACH; et à ce que l’information soit
+- aient accès à la fiche de données de sécurité communiquée par le fournisseur conformément à l’article 31 du règlement REACH; et à ce que l’information soit
 
-5. fournie sous une forme écrite appropriée, compte tenu du résultat de l’évaluation des risques visée à l’article 4 du présent règlement grand-ducal;
+- fournie sous une forme écrite appropriée, compte tenu du résultat de l’évaluation des risques visée à l’article 4 du présent règlement grand-ducal;
 
-6. actualisée pour tenir compte de nouvelles conditions éventuelles.
+- actualisée pour tenir compte de nouvelles conditions éventuelles.
 
 (2)
 
@@ -288,11 +288,11 @@ Afin de prévenir l’exposition des salariés aux risques sanitaires présenté
 
 L’Inspection du travail et des mines peut autoriser des dérogations aux exigences visées au paragraphe 1er dans les cas suivants:
 
-1. à des fins exclusives de recherche et d’essai scientifiques, y compris l’analyse;
+- à des fins exclusives de recherche et d’essai scientifiques, y compris l’analyse;
 
-2. pour des activités visant à éliminer les agents chimiques qui sont présents sous la forme de sous-produits ou de déchets;
+- pour des activités visant à éliminer les agents chimiques qui sont présents sous la forme de sous-produits ou de déchets;
 
-3. pour la production des agents chimiques visés au paragraphe 1 er destinés à servir de produits intermédiaires, ainsi que pour leur utilisation.
+- pour la production des agents chimiques visés au paragraphe 1 er destinés à servir de produits intermédiaires, ainsi que pour leur utilisation.
 
 L’exposition des salariés aux agents chimiques visés au paragraphe 1er doit être évitée, notamment grâce à des mesures qui prévoient que la production et l’utilisation la plus rapide possible de ces agents chimiques en tant que produits intermédiaires doivent avoir lieu dans un seul système fermé, dont ces agents chimiques ne peuvent être prélevés que dans la mesure nécessaire au contrôle du processus ou à l’entretien du système.
 
@@ -300,19 +300,19 @@ L’exposition des salariés aux agents chimiques visés au paragraphe 1er doit 
 
 Chaque demande de dérogation doit comprendre un dossier renfermant les informations suivantes:
 
-1. la raison pour laquelle une dérogation est demandée;
+- la raison pour laquelle une dérogation est demandée;
 
-2. les quantités de l’agent chimique qui seront utilisées annuellement;
+- les quantités de l’agent chimique qui seront utilisées annuellement;
 
-3. les activités ou réactions ou processus impliqués;
+- les activités ou réactions ou processus impliqués;
 
-4. le nombre de salariés susceptibles d’être concernés;
+- le nombre de salariés susceptibles d’être concernés;
 
-5. les précautions envisagées pour protéger la sécurité et la santé des salariés concernés;
+- les précautions envisagées pour protéger la sécurité et la santé des salariés concernés;
 
-6. les mesures techniques et organisationnelles prises pour prévenir l’exposition des salariés,;
+- les mesures techniques et organisationnelles prises pour prévenir l’exposition des salariés,;
 
-7. une analyse des risques.
+- une analyse des risques.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -327,11 +327,11 @@ L’Inspection du travail et des mines et la Direction de la santé prennent des
 
 La surveillance de la santé des salariés est appropriée lorsque:
 
-1. il est possible d’établir un lien entre l’exposition du salarié, un agent chimique dangereux et une maladie ou une affection identifiable;
+- il est possible d’établir un lien entre l’exposition du salarié, un agent chimique dangereux et une maladie ou une affection identifiable;
 
-2. la maladie ou l’affection risque de survenir dans des conditions particulières liées à l’activité du salarié;
+- la maladie ou l’affection risque de survenir dans des conditions particulières liées à l’activité du salarié;
 
-3. qu’il existe des techniques d’investigations valables de détection de la maladie ou de l’affection et qui présentent un risque faible pour les salariés.
+- qu’il existe des techniques d’investigations valables de détection de la maladie ou de l’affection et qui présentent un risque faible pour les salariés.
 
 La surveillance de la santé est obligatoire dans le cas d’activités impliquant l’agent chimique comportant une valeur biologique contraignante fixée à l’annexe Il, conformément aux procédures décrites à ladite annexe. Les salariés sont informés de cette exigence avant d’être affectés à la tâche comportant des risques d’exposition à l’agent chimique dangereux indiqué.
 
@@ -351,23 +351,23 @@ Les résultats de la surveillance de la santé des salariés soumis doivent êtr
 
 Lorsque la surveillance de la santé fait apparaître:
 
-1. qu’un salarié souffre d’une maladie ou d’une affection identifiable considérée par un médecin du travail comme résultant d’une exposition à un agent chimique dangereux sur le lieu de travail ou
+- qu’un salarié souffre d’une maladie ou d’une affection identifiable considérée par un médecin du travail comme résultant d’une exposition à un agent chimique dangereux sur le lieu de travail ou
 
-2. qu’une valeur limite biologique contraignante a été dépassée:
+- qu’une valeur limite biologique contraignante a été dépassée:
 
-1. le salarié est informé par le médecin du travail compétent du résultat qui le concerne personnellement; il reçoit notamment des informations et des conseils concernant la surveillance de la santé à laquelle il devra se soumettre après la fin de l’exposition.
+  - le salarié est informé par le médecin du travail compétent du résultat qui le concerne personnellement; il reçoit notamment des informations et des conseils concernant la surveillance de la santé à laquelle il devra se soumettre après la fin de l’exposition.
 
-2. l’employeur doit:
+  - l’employeur doit:
 
-- revoir l’évaluation des risques effectuée conformément à l’article 4,
+    - revoir l’évaluation des risques effectuée conformément à l’article 4,
 
-- revoir les mesures prévues pour supprimer ou réduire les risques conformément aux articles 5 et 6,
+    - revoir les mesures prévues pour supprimer ou réduire les risques conformément aux articles 5 et 6,
 
-- tenir compte de l’avis du médecin du travail ou de l’Inspection du travail et des mines ou de la Direction de la santé, pour la mise en oeuvre de toute mesure jugée nécessaire pour supprimer ou réduire les risques conformément à l’article 6, y compris l’éventuelle affectation du salarié à un autre poste ne comportant plus de risques d’exposition, et
+    - tenir compte de l’avis du médecin du travail ou de l’Inspection du travail et des mines ou de la Direction de la santé, pour la mise en oeuvre de toute mesure jugée nécessaire pour supprimer ou réduire les risques conformément à l’article 6, y compris l’éventuelle affectation du salarié à un autre poste ne comportant plus de risques d’exposition, et
 
-- organiser une surveillance continue de la santé par le médecin du travail et prendre les mesures pour que l’état de santé de tout autre salarié ayant subi une exposition semblable soit assurée, sans préjudice d’autres dispositions légales en matière de périodicité de surveillance de santé au travail. Dans ce cas, le médecin du travail ou la Direction de la santé ou l’Inspection du travail et des mines peuvent proposer que les personnes exposées soient soumises à un examen médical,
+    - organiser une surveillance continue de la santé par le médecin du travail et prendre les mesures pour que l’état de santé de tout autre salarié ayant subi une exposition semblable soit assurée, sans préjudice d’autres dispositions légales en matière de périodicité de surveillance de santé au travail. Dans ce cas, le médecin du travail ou la Direction de la santé ou l’Inspection du travail et des mines peuvent proposer que les personnes exposées soient soumises à un examen médical,
 
-- informer la Direction de la santé et l’Inspection du travail et des mines des mesures mises en oeuvre.
+    - informer la Direction de la santé et l’Inspection du travail et des mines des mesures mises en oeuvre.
 
 (6)
 

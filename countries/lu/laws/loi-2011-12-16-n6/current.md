@@ -33,9 +33,9 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le membre du gouvernement ayant l’Environnement dans ses attributions, ci-après désigné le ministre, exerce les attributions de l’autorité compétente aux fins de l’application:
 
-1. du règlement (CE) no 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) no 793/93 du Conseil et le règlement (CE) no 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE , 93/67/CEE , 93/105/CE et 2000/21/CE de la Commission, dénommé ci-après «règlement REACH»;
+- du règlement (CE) no 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) no 793/93 du Conseil et le règlement (CE) no 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE , 93/67/CEE , 93/105/CE et 2000/21/CE de la Commission, dénommé ci-après «règlement REACH»;
 
-2. du règlement (CE) no 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) no 1907/2006 , dénommé ci-après «règlement CLP».
+- du règlement (CE) no 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) no 1907/2006 , dénommé ci-après «règlement CLP».
 
 Lorsque plusieurs autorités sont compétentes, le ministre coordonne les activités des différentes autorités compétentes.
 
@@ -71,19 +71,19 @@ Le comité REACH-CLP élabore lui-même son règlement d’organisation interne 
 
 En cas de non-respect d’un ou plusieurs des articles énumérés aux paragraphes 1er et 2 de l’article 9 de la présente loi le ministre peut :
 
-1. interdire temporairement, pendant la période nécessaire aux différents contrôles, la mise sur le marché et l’utilisation d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article lorsqu’il existe des indices précis et convergents concernant leur non-conformité aux dispositions visées à l’article 1 er ;
+- interdire temporairement, pendant la période nécessaire aux différents contrôles, la mise sur le marché et l’utilisation d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article lorsqu’il existe des indices précis et convergents concernant leur non-conformité aux dispositions visées à l’article 1 er ;
 
-2. ordonner des mesures correctives relatives à la mise sur le marché et l’utilisation d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article par rapport à sa non-conformité à un ou plusieurs des articles énumérés à l’article 9, paragraphes 1 er et 2 ;
+- ordonner des mesures correctives relatives à la mise sur le marché et l’utilisation d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article par rapport à sa non-conformité à un ou plusieurs des articles énumérés à l’article 9, paragraphes 1 er et 2 ;
 
-3. ordonner à l’opérateur économique que les personnes susceptibles d’être exposées au risque imminent découlant d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article, qui n’est pas conforme aux dispositions visées à l’article 1 er , soient averties de ce risque en temps utile et sous une forme appropriée, y compris par la publication de ces avertissements ;
+- ordonner à l’opérateur économique que les personnes susceptibles d’être exposées au risque imminent découlant d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article, qui n’est pas conforme aux dispositions visées à l’article 1 er , soient averties de ce risque en temps utile et sous une forme appropriée, y compris par la publication de ces avertissements ;
 
-4. impartir à l’opérateur économique un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans ;
+- impartir à l’opérateur économique un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans ;
 
-5. faire suspendre, en tout ou en partie l’activité par mesure provisoire ou faire fermer le local, l’installation ou le site en tout ou en partie et apposer des scellés ;
+- faire suspendre, en tout ou en partie l’activité par mesure provisoire ou faire fermer le local, l’installation ou le site en tout ou en partie et apposer des scellés ;
 
-6. ordonner, coordonner ou, le cas échéant, organiser avec les opérateurs économiques, la récupération et l’élimination d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article qui n’est pas conforme aux dispositions visées à l’article 1 er , du marché ou auprès des consommateurs et sa destruction dans les conditions adéquates ;
+- ordonner, coordonner ou, le cas échéant, organiser avec les opérateurs économiques, la récupération et l’élimination d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article qui n’est pas conforme aux dispositions visées à l’article 1 er , du marché ou auprès des consommateurs et sa destruction dans les conditions adéquates ;
 
-7. interdire ou restreindre la mise sur le marché d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article qui n’est pas conforme aux dispositions visées à l’article 1 er et prendre les mesures d’accompagnement requises pour assurer le respect de cette interdiction.
+- interdire ou restreindre la mise sur le marché d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article qui n’est pas conforme aux dispositions visées à l’article 1 er et prendre les mesures d’accompagnement requises pour assurer le respect de cette interdiction.
 
 (2)
 
@@ -104,11 +104,11 @@ Dès qu’il a été constaté qu’il a été mis fin aux non-conformités ayan
 
 Le ministre peut infliger une amende administrative de 250 euros à 15 000 euros à l’opérateur économique :
 
-1. dont les étiquettes ou les emballages ne sont pas conformes aux dispositions des articles 17 à 33 et 35 du règlement CLP ;
+- dont les étiquettes ou les emballages ne sont pas conformes aux dispositions des articles 17 à 33 et 35 du règlement CLP ;
 
-2. dont les fiches de données de sécurité ne sont pas conformes aux dispositions de l’article 4 de la présente loi et de l’article 31 du règlement REACH ;
+- dont les fiches de données de sécurité ne sont pas conformes aux dispositions de l’article 4 de la présente loi et de l’article 31 du règlement REACH ;
 
-3. qui refuse de fournir les documents et informations ou autres renseignements demandés dans le cadre de la surveillance du marché.
+- qui refuse de fournir les documents et informations ou autres renseignements demandés dans le cadre de la surveillance du marché.
 
 (2)
 
@@ -176,13 +176,13 @@ Toutefois, et sans préjudice de l’article 33 (1) du Code d’instruction crim
 
 Les membres de la Police grand-ducale ayant la qualité d’officier de police judiciaire et les personnes visées à l’article 5 ne sont pas tenus de signaler leur présence lors des vérifications effectuées dans les parties librement accessibles au public d’un établissement de vente lors :
 
-1. de la recherche de substances, telles quelles ou contenues dans un mélange, mélanges et articles non conformes ;
+- de la recherche de substances, telles quelles ou contenues dans un mélange, mélanges et articles non conformes ;
 
-2. de la vérification des étiquettes sur les substances, telles quelles ou contenues dans un mélange, mélanges ou articles, ou leurs emballages, sans pour autant les désemballer ;
+- de la vérification des étiquettes sur les substances, telles quelles ou contenues dans un mélange, mélanges ou articles, ou leurs emballages, sans pour autant les désemballer ;
 
-3. du contrôle à l’œil nu de critères de conformité facilement perceptibles sans altération, destruction ou démontage des substances, mélanges ou articles ;
+- du contrôle à l’œil nu de critères de conformité facilement perceptibles sans altération, destruction ou démontage des substances, mélanges ou articles ;
 
-4. de l’achat de substances, telles quelles ou contenues dans un mélange, mélanges ou articles, pour effectuer les contrôles prévus par la présente loi.
+- de l’achat de substances, telles quelles ou contenues dans un mélange, mélanges ou articles, pour effectuer les contrôles prévus par la présente loi.
 
 (4)
 
@@ -197,11 +197,11 @@ En cas de constatation d’un manquement aux dispositions de la législation app
 
 Les membres de la Police grand-ducale ayant la qualité d’officier de police judiciaire et les personnes visées à l’article 5 sont habilités :
 
-1. à demander aux personnes visées à l’article 7, alinéa 2 toutes documentations et toutes informations qu’ils jugent nécessaires pour constater les infractions aux dispositions visées à l’article 9, les pièces rédigées dans une langue autre que le luxembourgeois, le français, l’allemand ou l’anglais devant être accompagnées d’une traduction dans une de ces langues ;
+- à demander aux personnes visées à l’article 7, alinéa 2 toutes documentations et toutes informations qu’ils jugent nécessaires pour constater les infractions aux dispositions visées à l’article 9, les pièces rédigées dans une langue autre que le luxembourgeois, le français, l’allemand ou l’anglais devant être accompagnées d’une traduction dans une de ces langues ;
 
-2. à prélever, aux fins d’examen ou d’analyse, des échantillons des substances, telles quelles ou contenues dans un mélange, mélanges et articles, les échantillons étant pris contre délivrance d’un accusé de réception et une partie de l’échantillon, cachetée ou scellée, étant remise à l’opérateur économique ou à son représentant, à moins que celui-ci y renonce expressément ;
+- à prélever, aux fins d’examen ou d’analyse, des échantillons des substances, telles quelles ou contenues dans un mélange, mélanges et articles, les échantillons étant pris contre délivrance d’un accusé de réception et une partie de l’échantillon, cachetée ou scellée, étant remise à l’opérateur économique ou à son représentant, à moins que celui-ci y renonce expressément ;
 
-3. à saisir et au besoin à mettre sous séquestre ces substances, telles quelles ou contenues dans un mélange, et mélanges et articles, ainsi que les registres, écritures et documents les concernant.
+- à saisir et au besoin à mettre sous séquestre ces substances, telles quelles ou contenues dans un mélange, et mélanges et articles, ainsi que les registres, écritures et documents les concernant.
 
 Tout opérateur économique est tenu, à la réquisition des membres de la Police grand-ducale ayant la qualité d’officier de police judiciaire ou des personnes visées à l’article 5, de faciliter les opérations auxquelles ceux-ci procèdent en vertu de la présente loi.
 
@@ -244,9 +244,9 @@ Le ministre ayant la Santé dans ses attributions est chargé de la réception d
 
 Les informations reçues restent confidentielles et ne peuvent être utilisées à d’autres fins que:
 
-1. pour répondre à une demande d’ordre médical en vue de mesures préventives et curatives, en particulier en cas d’urgence et
+- pour répondre à une demande d’ordre médical en vue de mesures préventives et curatives, en particulier en cas d’urgence et
 
-2. lorsqu’elles sont requises par un Etat membre, pour entreprendre une analyse statistique afin de déterminer s’il peut être nécessaire d’améliorer les mesures de gestion des risques.
+- lorsqu’elles sont requises par un Etat membre, pour entreprendre une analyse statistique afin de déterminer s’il peut être nécessaire d’améliorer les mesures de gestion des risques.
 
 (3)
 

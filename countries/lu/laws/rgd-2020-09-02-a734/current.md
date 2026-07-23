@@ -30,21 +30,21 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le présent règlement détermine les modalités des épreuves de l’examen de fin d’études secondaires classiques pour les sections suivantes et leurs variantes :
 
-1. sections latin – langues vivantes / langues vivantes (A) et sections latin – langues vivantes / langues vivantes (A), variante « mathématiques » ;
+- sections latin – langues vivantes / langues vivantes (A) et sections latin – langues vivantes / langues vivantes (A), variante « mathématiques » ;
 
-2. sections latin – mathématiques – informatique / mathématiques – informatique (B) et sections latin – mathématiques – informatique / mathématiques – informatique (B), variante « quatrième langue vivante » ;
+- sections latin – mathématiques – informatique / mathématiques – informatique (B) et sections latin – mathématiques – informatique / mathématiques – informatique (B), variante « quatrième langue vivante » ;
 
-3. sections latin – sciences naturelles – mathématiques / sciences naturelles – mathématiques (C) et sections latin – sciences naturelles – mathématiques / sciences naturelles – mathématiques (C), variante « quatrième langue vivante » ;
+- sections latin – sciences naturelles – mathématiques / sciences naturelles – mathématiques (C) et sections latin – sciences naturelles – mathématiques / sciences naturelles – mathématiques (C), variante « quatrième langue vivante » ;
 
-4. sections latin – sciences économiques – mathématiques / sciences économiques – mathématiques (D) et sections latin – sciences économiques – mathématiques / sciences économiques – mathématiques (D), variante « quatrième langue vivante » ;
+- sections latin – sciences économiques – mathématiques / sciences économiques – mathématiques (D) et sections latin – sciences économiques – mathématiques / sciences économiques – mathématiques (D), variante « quatrième langue vivante » ;
 
-5. sections latin – arts plastiques / arts plastiques (E) et sections latin – arts plastiques / arts plastiques (E), variantes « quatrième langue vivante » et « mathématiques niveau fort » ;
+- sections latin – arts plastiques / arts plastiques (E) et sections latin – arts plastiques / arts plastiques (E), variantes « quatrième langue vivante » et « mathématiques niveau fort » ;
 
-6. sections latin – musique / musique (F) ;
+- sections latin – musique / musique (F) ;
 
-7. sections latin – sciences humaines et sociales / sciences humaines et sociales (G) et sections latin – sciences humaines et sociales / sciences humaines et sociales (G), variantes « quatrième langue vivante », « communication et médias » et « architecture et urbanisme » ;
+- sections latin – sciences humaines et sociales / sciences humaines et sociales (G) et sections latin – sciences humaines et sociales / sciences humaines et sociales (G), variantes « quatrième langue vivante », « communication et médias » et « architecture et urbanisme » ;
 
-8. sections latin – informatique – communication / informatique – communication (I).
+- sections latin – informatique – communication / informatique – communication (I).
 
 <a id="art-2"></a>
 ## Art. 2.

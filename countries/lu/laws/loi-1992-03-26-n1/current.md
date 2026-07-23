@@ -35,49 +35,49 @@ Champ d’application.
 
 La présente loi s’applique aux professions de santé suivantes :
 
-1. infirmier ;
+- infirmier ;
 
-2. infirmier en anesthésie et réanimation ;
+- infirmier en anesthésie et réanimation ;
 
-3. infirmier en pédiatrie ;
+- infirmier en pédiatrie ;
 
-4. infirmier psychiatrique ;
+- infirmier psychiatrique ;
 
-5. infirmier gradué ;
+- infirmier gradué ;
 
-6. sage-femme ;
+- sage-femme ;
 
-7. aide-soignant ;
+- aide-soignant ;
 
-8. assistant technique médical ;
+- assistant technique médical ;
 
-9. laborantin ;
+- laborantin ;
 
-10. assistant d’hygiène sociale ;
+- assistant d’hygiène sociale ;
 
-11. assistant social ;
+- assistant social ;
 
-12. pédagogue curatif ;
+- pédagogue curatif ;
 
-13. diététicien ;
+- diététicien ;
 
-14. ergothérapeute ;
+- ergothérapeute ;
 
-15. rééducateur en psychomotricité ;
+- rééducateur en psychomotricité ;
 
-16. masseur ;
+- masseur ;
 
-17. masseur-kinésithérapeute ;
+- masseur-kinésithérapeute ;
 
-18. ostéopathe ;
+- ostéopathe ;
 
-19. orthophoniste ;
+- orthophoniste ;
 
-20. orthoptiste ;
+- orthoptiste ;
 
-21. podologue ;
+- podologue ;
 
-22. conseiller en génétique.
+- conseiller en génétique.
 
 (2)
 
@@ -90,17 +90,17 @@ Définitions
 
 Pour l’application de la présente loi, on entend par :
 
-1. « professionnel de santé » : la personne physique visée à l’article 2, lettre d), de la loi modifiée du 24 juillet 2014 relative aux droits et obligations du patient ;
+- « professionnel de santé » : la personne physique visée à l’article 2, lettre d), de la loi modifiée du 24 juillet 2014 relative aux droits et obligations du patient ;
 
-2. « dossier patient » : le dossier patient au sens de l’article 2, lettre f), de la loi modifiée du 24 juillet 2014 relative aux droits et obligations du patient ;
+- « dossier patient » : le dossier patient au sens de l’article 2, lettre f), de la loi modifiée du 24 juillet 2014 relative aux droits et obligations du patient ;
 
-3. « protocole » : descriptif écrit et daté, validé par l’équipe médicale ou le médecin responsable, présenté sous forme synthétique, centré sur une population ou un groupe de personnes cible et visant les soins et les actes techniques à appliquer ou les procédures ou consignes à observer par les professionnels de santé visés par la présente loi dans les situations de soins visées par les annexes ou lors de la réalisation d’un tel soin ;
+- « protocole » : descriptif écrit et daté, validé par l’équipe médicale ou le médecin responsable, présenté sous forme synthétique, centré sur une population ou un groupe de personnes cible et visant les soins et les actes techniques à appliquer ou les procédures ou consignes à observer par les professionnels de santé visés par la présente loi dans les situations de soins visées par les annexes ou lors de la réalisation d’un tel soin ;
 
-4. « urgence » : situation d’une personne ou d’un patient dont la vie ou l’état de santé est en danger imminent et exige une intervention rapide et adaptée d’un professionnel de santé ;
+- « urgence » : situation d’une personne ou d’un patient dont la vie ou l’état de santé est en danger imminent et exige une intervention rapide et adaptée d’un professionnel de santé ;
 
-5. « patient » : la personne physique visée à l’article 2, lettre b), de la loi modifiée du 24 juillet 2014 relative aux droits et obligations du patient ;
+- « patient » : la personne physique visée à l’article 2, lettre b), de la loi modifiée du 24 juillet 2014 relative aux droits et obligations du patient ;
 
-6. « ministre » : le ministre ayant la Santé dans ses attributions.
+- « ministre » : le ministre ayant la Santé dans ses attributions.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -111,15 +111,15 @@ Autorisation d’exercer
 
 Sous réserve des dispositions de l’article 4 ci-après, l’exercice d’une de ces professions est subordonné à une autorisation du ministre qui est délivrée aux conditions suivantes:
 
-1. le candidat doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+- le candidat doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
-2. il doit être titulaire d’un diplôme luxembourgeois relatif à la profession concernée, soit d’un diplôme étranger reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+- il doit être titulaire d’un diplôme luxembourgeois relatif à la profession concernée, soit d’un diplôme étranger reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
-3. il doit remplir les conditions de santé physique et psychique nécessaires à l’exercice de la profession;
+- il doit remplir les conditions de santé physique et psychique nécessaires à l’exercice de la profession;
 
-4. il doit répondre aux conditions d’honorabilité et de moralité nécessaires à l’exercice de la profession;
+- il doit répondre aux conditions d’honorabilité et de moralité nécessaires à l’exercice de la profession;
 
-5. il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite par le ministre.
+- il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite par le ministre.
 
 (2)
 
@@ -338,25 +338,25 @@ Sanctions pénales
 
 Est puni d’un emprisonnement de huit jours à trois mois et d’une amende de 251 à 5.000 euros ou d’une de ces peines seulement:
 
-1. celui qui exerce, sans y être autorisé, une de ces professions, sauf le cas d’urgence avérée;
+- celui qui exerce, sans y être autorisé, une de ces professions, sauf le cas d’urgence avérée;
 
-2. celui qui, sans y avoir droit, pose un acte rentrant dans les attributions d’une de ces professions, sauf le cas d’urgence avérée;
+- celui qui, sans y avoir droit, pose un acte rentrant dans les attributions d’une de ces professions, sauf le cas d’urgence avérée;
 
-3. celui qui s’attribue, sans y avoir droit, un titre désignant une de ces professions ou un autre titre pouvant prêter à confusion;
+- celui qui s’attribue, sans y avoir droit, un titre désignant une de ces professions ou un autre titre pouvant prêter à confusion;
 
-4. celui qui attribue le titre d’une de ces professions aux personnes qu’il emploie, soit à titre bénévole, soit moyennant salaire, sans que ces personnes soient munies du diplôme ou de l’autorisation afférente;
+- celui qui attribue le titre d’une de ces professions aux personnes qu’il emploie, soit à titre bénévole, soit moyennant salaire, sans que ces personnes soient munies du diplôme ou de l’autorisation afférente;
 
-5. celui qui occupe pour le service de ces mêmes professions des personnes non autorisées à cet effet;
+- celui qui occupe pour le service de ces mêmes professions des personnes non autorisées à cet effet;
 
-6. celui qui, en vertu de son autorité, oblige un professionnel à effectuer des actes qui ne rentrent pas dans ses attributions.
+- celui qui, en vertu de son autorité, oblige un professionnel à effectuer des actes qui ne rentrent pas dans ses attributions.
 
 (2)
 
 Est puni d’une amende de 251 à 5.000 euros:
 
-1. celui qui manque aux obligations qui lui sont imposées en vertu des dispositions de l’article 8 de la présente loi et de ses règlements d’exécution;
+- celui qui manque aux obligations qui lui sont imposées en vertu des dispositions de l’article 8 de la présente loi et de ses règlements d’exécution;
 
-2. celui qui empêche les personnes qu’il occupe de satisfaire aux obligations prévues à l’article 12 de la présente loi.
+- celui qui empêche les personnes qu’il occupe de satisfaire aux obligations prévues à l’article 12 de la présente loi.
 
 (3)
 
@@ -484,11 +484,11 @@ Les membres du conseil qui veulent s’abstenir pour d’autres motifs sont tenu
 
 Le conseil de discipline exerce le pouvoir de discipline sur toutes les personnes relevant de la présente loi pour:
 
-1. violation des prescriptions légales et réglementaires concernant l’exercice de la profession;
+- violation des prescriptions légales et réglementaires concernant l’exercice de la profession;
 
-2. erreurs et négligences professionnelles;
+- erreurs et négligences professionnelles;
 
-3. faits contraires à l’honorabilité et à la dignité professionnelles, le tout sans préjudice de l’action judiciaire et de l’action disciplinaire prévue par le statut général des fonctionnaires de l’Etat et celui des fonctionnaires communaux pouvant naître des mêmes faits.
+- faits contraires à l’honorabilité et à la dignité professionnelles, le tout sans préjudice de l’action judiciaire et de l’action disciplinaire prévue par le statut général des fonctionnaires de l’Etat et celui des fonctionnaires communaux pouvant naître des mêmes faits.
 
 L’action disciplinaire se prescrit par cinq ans à compter du jour où les contraventions, tant à la présente loi, qu’aux autres lois, arrêtés et règlements en la matière, ont été commises.
 
@@ -497,15 +497,15 @@ L’action disciplinaire se prescrit par cinq ans à compter du jour où les con
 
 Les peines disciplinaires sont dans l’ordre de leur gravité:
 
-1. l’avertissement;
+- l’avertissement;
 
-2. la réprimande;
+- la réprimande;
 
-3. la privation du droit de vote pour le conseil supérieur des professions de santé et du droit d’en faire partie, pendant six ans au maximum;
+- la privation du droit de vote pour le conseil supérieur des professions de santé et du droit d’en faire partie, pendant six ans au maximum;
 
-4. l’amende de cinq cent un à sept mille cinq cents euros;
+- l’amende de cinq cent un à sept mille cinq cents euros;
 
-5. la suspension de l’exercice de la profession ou d’autres professions visées par la présente loi pour un terme qui ne peut être inférieur à quinze jours ni excéder cinq ans.
+- la suspension de l’exercice de la profession ou d’autres professions visées par la présente loi pour un terme qui ne peut être inférieur à quinze jours ni excéder cinq ans.
 
 Au cas où une sanction est prononcée, les frais provoqués par la poursuite disciplinaire sont mis à charge du condamné; dans le cas contraire ils restent à charge de l’Etat.
 
@@ -675,13 +675,13 @@ Suppléments de traitement.
 
 L’article 25bis de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifié comme suit:
 
-1. Les fonctionnaires exerçant la profession de médecin, de psychologue ou d’agent paramédical de la carrière moyenne de l’administration dans un hôpital neuropsychiatrique, au Centre du Rham ou dans une maison de soins bénéficient d’un supplément de traitement annuel de quinze points indiciaires.
+- Les fonctionnaires exerçant la profession de médecin, de psychologue ou d’agent paramédical de la carrière moyenne de l’administration dans un hôpital neuropsychiatrique, au Centre du Rham ou dans une maison de soins bénéficient d’un supplément de traitement annuel de quinze points indiciaires.
 
-2.
+-
 
-- Les fonctionnaires exerçant une profession de santé de la carrière inférieure de l’administration bénéficient d’un supplément de traitement de quinze points indiciaires.
+  - Les fonctionnaires exerçant une profession de santé de la carrière inférieure de l’administration bénéficient d’un supplément de traitement de quinze points indiciaires.
 
-- Pour les fonctionnaires de ces carrières exerçant leur profession dans un hôpital neuropsychiatrique, au Centre du Rham ou dans une maison de soins, le supplément est fixé à 30 points indiciaires.
+  - Pour les fonctionnaires de ces carrières exerçant leur profession dans un hôpital neuropsychiatrique, au Centre du Rham ou dans une maison de soins, le supplément est fixé à 30 points indiciaires.
 
 <a id="art-45"></a>
 ## Art. 45.

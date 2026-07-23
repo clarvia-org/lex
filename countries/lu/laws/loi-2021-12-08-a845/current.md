@@ -46,91 +46,91 @@ Définitions
 
 Aux fins de la présente loi, il y a lieu d’entendre par :
 
-1. « actifs de couverture » : les actifs qui font partie d’une masse de couverture ;
+- « actifs de couverture » : les actifs qui font partie d’une masse de couverture ;
 
-2. « actifs de couverture ordinaires » : les actifs de couverture dominants qui déterminent la nature d’une masse de couverture déterminée ;
+- « actifs de couverture ordinaires » : les actifs de couverture dominants qui déterminent la nature d’une masse de couverture déterminée ;
 
-3. « actifs de remplacement » : les actifs de couverture qui contribuent au respect des exigences de couverture, autres que les actifs de couverture ordinaires ;
+- « actifs de remplacement » : les actifs de couverture qui contribuent au respect des exigences de couverture, autres que les actifs de couverture ordinaires ;
 
-4. « actifs utilisés comme sûreté » : les actifs physiques et les actifs sous forme d’expositions qui garantissent les actifs de couverture ;
+- « actifs utilisés comme sûreté » : les actifs physiques et les actifs sous forme d’expositions qui garantissent les actifs de couverture ;
 
-5. « autre forme de certification » : une forme de certification de la propriété d’un actif physique utilisé comme sûreté et des créances sur celui-ci, autre qu’un registre public, et qui permet aux tiers intéressés d’avoir accès aux informations relatives à l’identification de l’actif physique utilisé comme sûreté grevé, à l’attribution de la propriété, au recensement et à l’attribution des grèvements et au caractère exécutoire des sûretés, reconnue par un État membre conformément à l’article 6, paragraphe 3, alinéa 3, de la directive (UE) 2019/2162 du Parlement européen et du Conseil du 27 novembre 2019 concernant l’émission d’obligations garanties et la surveillance publique des obligations garanties et modifiant les directives 2009/65/CE et 2014/59/UE , ci-après dénommée « directive (UE) 2019/2162 » ;
+- « autre forme de certification » : une forme de certification de la propriété d’un actif physique utilisé comme sûreté et des créances sur celui-ci, autre qu’un registre public, et qui permet aux tiers intéressés d’avoir accès aux informations relatives à l’identification de l’actif physique utilisé comme sûreté grevé, à l’attribution de la propriété, au recensement et à l’attribution des grèvements et au caractère exécutoire des sûretés, reconnue par un État membre conformément à l’article 6, paragraphe 3, alinéa 3, de la directive (UE) 2019/2162 du Parlement européen et du Conseil du 27 novembre 2019 concernant l’émission d’obligations garanties et la surveillance publique des obligations garanties et modifiant les directives 2009/65/CE et 2014/59/UE , ci-après dénommée « directive (UE) 2019/2162 » ;
 
-6. « biens générateurs d’énergies renouvelables » : tout contrat de projet essentiel d’une entreprise productrice d’énergies renouvelables, tout revenu d’une telle entreprise, y inclus notamment toutes créances de revenus existantes ou futures et tous paiements reçus, générés par les sources d’énergies renouvelables et tout équipement nécessaire pour la production, le stockage et la transmission, y inclus les installations de stockage d’électricité, transformateurs, lignes électriques, qu’elles soient en construction ou finalisées, utilisés pour produire cette énergie produite à partir de sources renouvelables, dans la mesure où : Sont également visés les droits d’accès à et d’usage de l’équipement décrit ci-avant, le droit d’alimenter les énergies renouvelables dans le réseau électrique ainsi que tous les droits relatifs à la commercialisation des énergies renouvelables ;
+- « biens générateurs d’énergies renouvelables » : tout contrat de projet essentiel d’une entreprise productrice d’énergies renouvelables, tout revenu d’une telle entreprise, y inclus notamment toutes créances de revenus existantes ou futures et tous paiements reçus, générés par les sources d’énergies renouvelables et tout équipement nécessaire pour la production, le stockage et la transmission, y inclus les installations de stockage d’électricité, transformateurs, lignes électriques, qu’elles soient en construction ou finalisées, utilisés pour produire cette énergie produite à partir de sources renouvelables, dans la mesure où : Sont également visés les droits d’accès à et d’usage de l’équipement décrit ci-avant, le droit d’alimenter les énergies renouvelables dans le réseau électrique ainsi que tous les droits relatifs à la commercialisation des énergies renouvelables ;
 
-1. cet équipement de production est utilisé exclusivement en relation avec des énergies renouvelables ; et
+  - cet équipement de production est utilisé exclusivement en relation avec des énergies renouvelables ; et
 
-2. l’équipement de stockage ou de transmission est utilisé à concurrence de plus de 50 pour cent de son utilisation effective de stockage ou de transmission en relation avec des énergies renouvelables.
+  - l’équipement de stockage ou de transmission est utilisé à concurrence de plus de 50 pour cent de son utilisation effective de stockage ou de transmission en relation avec des énergies renouvelables.
 
-7. « collectivités de droit public » : les États, en ce compris les institutions ou organes, les administrations centrales, les autorités régionales ou locales, les autres autorités publiques, les autres organismes ou entreprises publics de chaque État :
+- « collectivités de droit public » : les États, en ce compris les institutions ou organes, les administrations centrales, les autorités régionales ou locales, les autres autorités publiques, les autres organismes ou entreprises publics de chaque État :
 
-1. qui sont membres de l’Union européenne, de l’Espace économique européen, et de l’Organisation de coopération et de développement économiques, dénommée ci-après « OCDE » ;
+  - qui sont membres de l’Union européenne, de l’Espace économique européen, et de l’Organisation de coopération et de développement économiques, dénommée ci-après « OCDE » ;
 
-2. qui ne sont pas visés à la lettre a), mais qui bénéficient :
+  - qui ne sont pas visés à la lettre a), mais qui bénéficient :
 
-1. soit du premier échelon de qualité du crédit accordé par une agence de notation qui est enregistrée sur la liste des agences de notation de crédit de l’Autorité européenne des marchés financiers, dénommée ci-après « AEMF », en vertu du règlement (CE) n° 1060/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur les agences de notation de crédit, dénommé ci-après « règlement (CE) n° 1060/2009 », si la masse de couverture des lettres de gage publiques, hypothécaires, mobilières et énergies renouvelables de l’établissement de crédit comprend au maximum 50 pour cent des expositions cumulées sur ces États ;
+    - soit du premier échelon de qualité du crédit accordé par une agence de notation qui est enregistrée sur la liste des agences de notation de crédit de l’Autorité européenne des marchés financiers, dénommée ci-après « AEMF », en vertu du règlement (CE) n° 1060/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur les agences de notation de crédit, dénommé ci-après « règlement (CE) n° 1060/2009 », si la masse de couverture des lettres de gage publiques, hypothécaires, mobilières et énergies renouvelables de l’établissement de crédit comprend au maximum 50 pour cent des expositions cumulées sur ces États ;
 
-2. soit du second échelon de qualité du crédit accordé par une agence de notation qui est enregistrée sur la liste des agences de notation de crédit de l’AEMF en vertu du règlement (CE) n° 1060/2009 , si la masse de couverture des lettres de gage publiques, hypothécaires, mobilières et énergies renouvelables de l’établissement de crédit comprend au maximum 10 pour cent des expositions cumulées sur ces États ;
+    - soit du second échelon de qualité du crédit accordé par une agence de notation qui est enregistrée sur la liste des agences de notation de crédit de l’AEMF en vertu du règlement (CE) n° 1060/2009 , si la masse de couverture des lettres de gage publiques, hypothécaires, mobilières et énergies renouvelables de l’établissement de crédit comprend au maximum 10 pour cent des expositions cumulées sur ces États ;
 
-8. « contrat de projet essentiel » : tous les contrats de projet, conventions, droits, créances et engagements suivants, liés au secteur des énergies renouvelables :
+- « contrat de projet essentiel » : tous les contrats de projet, conventions, droits, créances et engagements suivants, liés au secteur des énergies renouvelables :
 
-1. les polices d’assurance ;
+  - les polices d’assurance ;
 
-2. si l’entreprise productrice d’énergies renouvelables n’est pas propriétaire du terrain, les droits de superficie et autres droits d’accès et d’usage des terrains ;
+  - si l’entreprise productrice d’énergies renouvelables n’est pas propriétaire du terrain, les droits de superficie et autres droits d’accès et d’usage des terrains ;
 
-3. pendant la phase de construction, les contrats de construction et d’approvisionnement en équipement ;
+  - pendant la phase de construction, les contrats de construction et d’approvisionnement en équipement ;
 
-4. les contrats d’achat d’électricité conclus avec des acheteurs autorisés, ou d’autres accords d’exploitation ou d’autres arrangements commerciaux ;
+  - les contrats d’achat d’électricité conclus avec des acheteurs autorisés, ou d’autres accords d’exploitation ou d’autres arrangements commerciaux ;
 
-5. les accords de connexion au réseau et les contrats d’utilisation de la connexion au réseau ; et
+  - les accords de connexion au réseau et les contrats d’utilisation de la connexion au réseau ; et
 
-6. les contrats d’exploitation, de service et d’entretien ;
+  - les contrats d’exploitation, de service et d’entretien ;
 
-9. « droit de substitution » : le droit, légal ou contractuel, permettant à l’établissement de crédit émetteur d’être substitué dans la position de l’entreprise productrice d’énergies renouvelables résultant d’un contrat de projet essentiel dans l’hypothèse où l’entreprise productrice d’énergies renouvelables a été en défaut sous le crédit qui lui a été accordé ;
+- « droit de substitution » : le droit, légal ou contractuel, permettant à l’établissement de crédit émetteur d’être substitué dans la position de l’entreprise productrice d’énergies renouvelables résultant d’un contrat de projet essentiel dans l’hypothèse où l’entreprise productrice d’énergies renouvelables a été en défaut sous le crédit qui lui a été accordé ;
 
-10. « droits réels immobiliers » : le droit de propriété et ses démembrements, le droit de superficie, le droit d’emphytéose ainsi que tous autres droits réels immobiliers similaires prévus par les droits des États membres de l’Union européenne, de l’Espace économique européen, ou de l’OCDE ou d’un autre État visé au point 7°, lettre b), et conférant un droit sur un bien immobilier situé dans un de ces États inscrit dans un registre public de cet État ou certifié par une autre forme de certification et opposable aux tiers. Pour ce qui est des droits réels portant sur des biens immobiliers générateurs d’énergies renouvelables, des avis juridiques indépendants, écrits et dûment motivés confirment la validité juridique de ces droits et leur opposabilité aux tiers dans toutes les juridictions concernées eu égard à l’article 12, paragraphes 1 er et 2, si l’inscription des droits réels concernés dans un registre public n’est pas exigée par la loi ou s’il n’existe pas d’autre forme de certification ;
+- « droits réels immobiliers » : le droit de propriété et ses démembrements, le droit de superficie, le droit d’emphytéose ainsi que tous autres droits réels immobiliers similaires prévus par les droits des États membres de l’Union européenne, de l’Espace économique européen, ou de l’OCDE ou d’un autre État visé au point 7°, lettre b), et conférant un droit sur un bien immobilier situé dans un de ces États inscrit dans un registre public de cet État ou certifié par une autre forme de certification et opposable aux tiers. Pour ce qui est des droits réels portant sur des biens immobiliers générateurs d’énergies renouvelables, des avis juridiques indépendants, écrits et dûment motivés confirment la validité juridique de ces droits et leur opposabilité aux tiers dans toutes les juridictions concernées eu égard à l’article 12, paragraphes 1 er et 2, si l’inscription des droits réels concernés dans un registre public n’est pas exigée par la loi ou s’il n’existe pas d’autre forme de certification ;
 
-11. « droits réels mobiliers » : le droit de propriété et ses démembrements, ainsi que tous autres droits réels mobiliers similaires prévus par les droits des États membres de l’Union européenne, de l’Espace économique européen, ou de l’OCDE ou d’un autre État visé au point 7°, lettre b), et conférant un droit sur un bien mobilier inscrit dans un registre public de cet État ou certifié par une autre forme de certification, et opposable aux tiers. Pour ce qui est des droits réels portant sur des biens mobiliers générateurs d’énergies renouvelables, des avis juridiques indépendants, écrits et dûment motivés confirment la validité juridique de ces droits et leur opposabilité aux tiers dans toutes les juridictions concernées eu égard à l’article 12, paragraphes 1 er et 2, si l’inscription des droits réels concernés dans un registre public n’est pas exigée par la loi ou s’il n’existe pas d’autre forme de certification ;
+- « droits réels mobiliers » : le droit de propriété et ses démembrements, ainsi que tous autres droits réels mobiliers similaires prévus par les droits des États membres de l’Union européenne, de l’Espace économique européen, ou de l’OCDE ou d’un autre État visé au point 7°, lettre b), et conférant un droit sur un bien mobilier inscrit dans un registre public de cet État ou certifié par une autre forme de certification, et opposable aux tiers. Pour ce qui est des droits réels portant sur des biens mobiliers générateurs d’énergies renouvelables, des avis juridiques indépendants, écrits et dûment motivés confirment la validité juridique de ces droits et leur opposabilité aux tiers dans toutes les juridictions concernées eu égard à l’article 12, paragraphes 1 er et 2, si l’inscription des droits réels concernés dans un registre public n’est pas exigée par la loi ou s’il n’existe pas d’autre forme de certification ;
 
-12. « énergies renouvelables » : toute énergie produite à partir de sources non fossiles renouvelables, telles que l’énergie éolienne, solaire, aérothermique, géothermique, hydrothermique, marine et hydroélectrique, biomasse, gaz de décharge, gaz des stations d’épuration d’eaux usées et biogaz, et l’énergie produite à partir de sources similaires ;
+- « énergies renouvelables » : toute énergie produite à partir de sources non fossiles renouvelables, telles que l’énergie éolienne, solaire, aérothermique, géothermique, hydrothermique, marine et hydroélectrique, biomasse, gaz de décharge, gaz des stations d’épuration d’eaux usées et biogaz, et l’énergie produite à partir de sources similaires ;
 
-13. « entreprise publique » : une entreprise au sens de l’article 2, lettre b), de la directive 2006/111/CE de la Commission du 16 novembre 2006 relative à la transparence des relations financières entre les États membres et les entreprises publiques ainsi qu’à la transparence financière dans certaines entreprises ;
+- « entreprise publique » : une entreprise au sens de l’article 2, lettre b), de la directive 2006/111/CE de la Commission du 16 novembre 2006 relative à la transparence des relations financières entre les États membres et les entreprises publiques ainsi qu’à la transparence financière dans certaines entreprises ;
 
-14. « établissement de crédit » : un établissement de crédit au sens de l’article 4, paragraphe 1 er , point 1, du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et modifiant le règlement (UE) n° 648/2012 , dénommé ci-après « règlement (UE) n° 575/2013 » ;
+- « établissement de crédit » : un établissement de crédit au sens de l’article 4, paragraphe 1 er , point 1, du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et modifiant le règlement (UE) n° 648/2012 , dénommé ci-après « règlement (UE) n° 575/2013 » ;
 
-15. « établissement de crédit émetteur » : un établissement de crédit visé à l’article 2 qui émet des lettres de gage en application de la présente loi ;
+- « établissement de crédit émetteur » : un établissement de crédit visé à l’article 2 qui émet des lettres de gage en application de la présente loi ;
 
-16. « groupe » : un groupe au sens de l’article 4, paragraphe 1 er , point 138, du règlement (UE) n° 575/2013 ;
+- « groupe » : un groupe au sens de l’article 4, paragraphe 1 er , point 138, du règlement (UE) n° 575/2013 ;
 
-17. « lettre de gage » : un titre de créance émis conformément aux dispositions de la présente loi, y compris les obligations garanties, et qui est garanti par des actifs de couverture auxquels les investisseurs en lettres de gage et les contreparties de contrats dérivés respectant les dispositions de l’article 7, paragraphe 3, peuvent directement avoir recours en tant que créanciers privilégiés ;
+- « lettre de gage » : un titre de créance émis conformément aux dispositions de la présente loi, y compris les obligations garanties, et qui est garanti par des actifs de couverture auxquels les investisseurs en lettres de gage et les contreparties de contrats dérivés respectant les dispositions de l’article 7, paragraphe 3, peuvent directement avoir recours en tant que créanciers privilégiés ;
 
-18. « masse de couverture » : un ensemble clairement défini d’actifs de couverture qui garantissent le respect des obligations de paiement associées aux lettres de gage, et qui sont séparés des autres actifs détenus par l’établissement de crédit émetteur conformément à l’article 7, paragraphe 1 er ;
+- « masse de couverture » : un ensemble clairement défini d’actifs de couverture qui garantissent le respect des obligations de paiement associées aux lettres de gage, et qui sont séparés des autres actifs détenus par l’établissement de crédit émetteur conformément à l’article 7, paragraphe 1 er ;
 
-19. « obligation garantie » : une lettre de gage émise conformément aux dispositions de la présente loi et qui est garantie par des actifs de couverture qui sont conformes à l’article 4 auxquels les investisseurs en obligations garanties et les contreparties de contrats dérivés respectant les dispositions de l’article 7, paragraphe 3, peuvent directement avoir recours en tant que créanciers privilégiés. Sont des obligations garanties, les obligations garanties européennes et les obligations garanties européennes (de qualité supérieure) ;
+- « obligation garantie » : une lettre de gage émise conformément aux dispositions de la présente loi et qui est garantie par des actifs de couverture qui sont conformes à l’article 4 auxquels les investisseurs en obligations garanties et les contreparties de contrats dérivés respectant les dispositions de l’article 7, paragraphe 3, peuvent directement avoir recours en tant que créanciers privilégiés. Sont des obligations garanties, les obligations garanties européennes et les obligations garanties européennes (de qualité supérieure) ;
 
-20. « programme d’émission » : les caractéristiques structurelles d’une émission de lettres de gage résultant des dispositions de la présente loi et des dispositions contractuelles du programme d’émission concerné, conformément à l’autorisation octroyée à l’établissement de crédit émetteur. Un programme d’émission est associé à une seule catégorie de lettres de gage telles que visées à l’article 3, paragraphe 1 er , et vise exclusivement soit des obligations garanties européennes, soit des obligations garanties européennes (de qualité supérieure), soit des lettres de gage autres que des obligations garanties ;
+- « programme d’émission » : les caractéristiques structurelles d’une émission de lettres de gage résultant des dispositions de la présente loi et des dispositions contractuelles du programme d’émission concerné, conformément à l’autorisation octroyée à l’établissement de crédit émetteur. Un programme d’émission est associé à une seule catégorie de lettres de gage telles que visées à l’article 3, paragraphe 1 er , et vise exclusivement soit des obligations garanties européennes, soit des obligations garanties européennes (de qualité supérieure), soit des lettres de gage autres que des obligations garanties ;
 
-21. « résolution » : la résolution au sens de l’article 1 er , point 101, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement ;
+- « résolution » : la résolution au sens de l’article 1 er , point 101, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement ;
 
-22. « ségrégation » : les mesures prises par un établissement de crédit émetteur pour identifier les actifs de couverture et les mettre juridiquement hors de la portée des créanciers autres que les investisseurs en lettres de gage et les contreparties de contrats dérivés respectant les dispositions de l’article 7, paragraphe 3 ;
+- « ségrégation » : les mesures prises par un établissement de crédit émetteur pour identifier les actifs de couverture et les mettre juridiquement hors de la portée des créanciers autres que les investisseurs en lettres de gage et les contreparties de contrats dérivés respectant les dispositions de l’article 7, paragraphe 3 ;
 
-23. « sorties nettes de trésorerie » : l’ensemble des flux de paiement sortants arrivant à échéance un jour, incluant le paiement du principal et des intérêts et les paiements liés aux contrats dérivés du programme d’émission de lettres de gage, net de tous les flux de paiement entrants arrivant à échéance le même jour au titre des créances liées aux actifs de couverture ;
+- « sorties nettes de trésorerie » : l’ensemble des flux de paiement sortants arrivant à échéance un jour, incluant le paiement du principal et des intérêts et les paiements liés aux contrats dérivés du programme d’émission de lettres de gage, net de tous les flux de paiement entrants arrivant à échéance le même jour au titre des créances liées aux actifs de couverture ;
 
-24. « sources gratuites d’énergies renouvelables » : toute source d’énergies renouvelables disponible sans coûts inhérents additionnels, telles que le vent et le soleil ;
+- « sources gratuites d’énergies renouvelables » : toute source d’énergies renouvelables disponible sans coûts inhérents additionnels, telles que le vent et le soleil ;
 
-25. « structure d’échéance prorogeable » : un mécanisme qui prévoit la possibilité de proroger l’échéance prévue des lettres de gage pendant une durée prédéterminée et dans le cas où un événement déclencheur particulier se produit ;
+- « structure d’échéance prorogeable » : un mécanisme qui prévoit la possibilité de proroger l’échéance prévue des lettres de gage pendant une durée prédéterminée et dans le cas où un événement déclencheur particulier se produit ;
 
-26. « structure de regroupement d’obligations garanties intragroupe » : structure par laquelle des obligations garanties émises par un établissement de crédit appartenant à un groupe à l’intérieur de ce groupe, ci-après dénommées « obligations garanties émises à l’intérieur du groupe », sont utilisées comme actifs de couverture aux fins de l’émission, par un établissement de crédit émetteur appartenant au même groupe, d’obligations garanties destinées à des investisseurs en dehors du groupe, ci-après dénommées « obligations garanties destinées aux investisseurs en dehors du groupe » ;
+- « structure de regroupement d’obligations garanties intragroupe » : structure par laquelle des obligations garanties émises par un établissement de crédit appartenant à un groupe à l’intérieur de ce groupe, ci-après dénommées « obligations garanties émises à l’intérieur du groupe », sont utilisées comme actifs de couverture aux fins de l’émission, par un établissement de crédit émetteur appartenant au même groupe, d’obligations garanties destinées à des investisseurs en dehors du groupe, ci-après dénommées « obligations garanties destinées aux investisseurs en dehors du groupe » ;
 
-27. « sûretés réelles immobilières » : l’hypothèque, l’antichrèse ainsi que toutes autres sûretés réelles immobilières similaires prévues par les droits des États membres de l’Union européenne, de l’Espace économique européen ou de l’OCDE ou d’un autre État visé au point 7°, lettre b), et conférant une sûreté réelle sur un bien immobilier situé dans un de ces États inscrit dans un registre public de cet État ou certifiés par une autre forme de certification, et opposable aux tiers. Pour ce qui est des sûretés réelles immobilières portant sur des biens immobiliers générateurs d’énergies renouvelables, des avis juridiques indépendants, écrits et dûment motivés confirment la validité juridique de ces droits et leur opposabilité aux tiers dans toutes les juridictions concernées eu égard à l’article 12, paragraphes 1 er et 2, si l’inscription des droits réels concernés dans un registre public n’est pas exigée par la loi ou s’ils ne sont pas certifiés par une autre forme de certification ;
+- « sûretés réelles immobilières » : l’hypothèque, l’antichrèse ainsi que toutes autres sûretés réelles immobilières similaires prévues par les droits des États membres de l’Union européenne, de l’Espace économique européen ou de l’OCDE ou d’un autre État visé au point 7°, lettre b), et conférant une sûreté réelle sur un bien immobilier situé dans un de ces États inscrit dans un registre public de cet État ou certifiés par une autre forme de certification, et opposable aux tiers. Pour ce qui est des sûretés réelles immobilières portant sur des biens immobiliers générateurs d’énergies renouvelables, des avis juridiques indépendants, écrits et dûment motivés confirment la validité juridique de ces droits et leur opposabilité aux tiers dans toutes les juridictions concernées eu égard à l’article 12, paragraphes 1 er et 2, si l’inscription des droits réels concernés dans un registre public n’est pas exigée par la loi ou s’ils ne sont pas certifiés par une autre forme de certification ;
 
-28. « sûretés réelles mobilières » : le gage, le nantissement et toutes autres sûretés réelles mobilières prévues par les droits des États membres de l’Union européenne, de l’Espace économique européen, de l’OCDE ou d’un autre État visé au point 7, lettre b), conférant une sûreté réelle sur un bien mobilier opposable aux tiers. Les sûretés réelles mobilières doivent être certifiées par une autre forme de certification, ou être inscrites dans un registre public situé dans un État membre de l’Union européenne, de l’Espace économique européen, de l’OCDE ou d’un autre État visé au point 7°, lettre b). Pour les sûretés réelles mobilières portant sur des biens mobiliers générateurs d’énergies renouvelables, des avis juridiques indépendants, écrits et dûment motivés confirment la validité juridique de ces droits et leur opposabilité aux tiers dans toutes les juridictions concernées eu égard à l’article 12, paragraphes 1 er et 2, si l’inscription des droits réels concernés dans un registre public n’est pas exigée par la loi ou s’il n’existe pas d’autre forme de certification ;
+- « sûretés réelles mobilières » : le gage, le nantissement et toutes autres sûretés réelles mobilières prévues par les droits des États membres de l’Union européenne, de l’Espace économique européen, de l’OCDE ou d’un autre État visé au point 7, lettre b), conférant une sûreté réelle sur un bien mobilier opposable aux tiers. Les sûretés réelles mobilières doivent être certifiées par une autre forme de certification, ou être inscrites dans un registre public situé dans un État membre de l’Union européenne, de l’Espace économique européen, de l’OCDE ou d’un autre État visé au point 7°, lettre b). Pour les sûretés réelles mobilières portant sur des biens mobiliers générateurs d’énergies renouvelables, des avis juridiques indépendants, écrits et dûment motivés confirment la validité juridique de ces droits et leur opposabilité aux tiers dans toutes les juridictions concernées eu égard à l’article 12, paragraphes 1 er et 2, si l’inscription des droits réels concernés dans un registre public n’est pas exigée par la loi ou s’il n’existe pas d’autre forme de certification ;
 
-29. « surnantissement » : la totalité du niveau légal de sûreté visé à l’article 6, paragraphe 2, alinéas 2 à 4, et, le cas échéant, du niveau contractuel ou volontaire de sûreté, qui excède les exigences de couverture prévues à l’article 6, paragraphe 1 er , ou paragraphe 2, alinéa 1 er ;
+- « surnantissement » : la totalité du niveau légal de sûreté visé à l’article 6, paragraphe 2, alinéas 2 à 4, et, le cas échéant, du niveau contractuel ou volontaire de sûreté, qui excède les exigences de couverture prévues à l’article 6, paragraphe 1 er , ou paragraphe 2, alinéa 1 er ;
 
-30. « valeur de marché » : pour un bien immobilier, la valeur de marché au sens de l’article 4, paragraphe 1 er , point 76, du règlement (UE) n° 575/2013 ;
+- « valeur de marché » : pour un bien immobilier, la valeur de marché au sens de l’article 4, paragraphe 1 er , point 76, du règlement (UE) n° 575/2013 ;
 
-31. « valeur hypothécaire » : pour un bien immobilier, la valeur hypothécaire au sens de l’article 4, paragraphe 1 er , point 74, du règlement (UE) n° 575/2013 .
+- « valeur hypothécaire » : pour un bien immobilier, la valeur hypothécaire au sens de l’article 4, paragraphe 1 er , point 74, du règlement (UE) n° 575/2013 .
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -139,9 +139,9 @@ Conditions d’exercice de l’activité d’émission de lettres de gage
 
 Seules les personnes qui répondent à l’une des conditions suivantes peuvent exercer l’activité d’émission de lettres de gage au sens de la présente loi :
 
-1. il s’agit d’une banque d’émission de lettres de gage au sens de l’article 1 er , point 2 ter -1, de la loi modifiée du 5 avril 1993 relative au secteur financier ; ou
+- il s’agit d’une banque d’émission de lettres de gage au sens de l’article 1 er , point 2 ter -1, de la loi modifiée du 5 avril 1993 relative au secteur financier ; ou
 
-2. il s’agit d’un établissement de crédit de droit luxembourgeois, autre qu’une banque d’émission de lettres de gage visée au point 1°, qui a mis en place les mesures nécessaires pour assurer que le total des masses de couverture liées aux lettres de gage émises ne dépasse, à aucun moment, 20 pour cent du total de ses engagements figurant au bilan , fonds propres compris, déduction faite des dépôts éligibles tels que visés à l’article 1 er , point 37, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement.
+- il s’agit d’un établissement de crédit de droit luxembourgeois, autre qu’une banque d’émission de lettres de gage visée au point 1°, qui a mis en place les mesures nécessaires pour assurer que le total des masses de couverture liées aux lettres de gage émises ne dépasse, à aucun moment, 20 pour cent du total de ses engagements figurant au bilan , fonds propres compris, déduction faite des dépôts éligibles tels que visés à l’article 1 er , point 37, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -152,27 +152,27 @@ Activité d’émission de lettres de gage
 
 L’activité d’émission de lettres de gage consiste à :
 
-1. accorder des prêts qui sont garantis par des droits réels immobiliers ou par des sûretés réelles immobilières, et émettre sur cette base des titres de créance garantis par ces droits ou ces sûretés dénommés « lettres de gage hypothécaires » ;
+- accorder des prêts qui sont garantis par des droits réels immobiliers ou par des sûretés réelles immobilières, et émettre sur cette base des titres de créance garantis par ces droits ou ces sûretés dénommés « lettres de gage hypothécaires » ;
 
-2. accorder des prêts qui sont garantis par des obligations ou par d’autres titres de créance semblables répondant aux exigences du paragraphe 2, qui sont à leur tour assortis des garanties indiquées au point 1°, et émettre sur cette base des titres de créance bénéficiant de ces mêmes garanties dénommés « lettres de gage hypothécaires » ;
+- accorder des prêts qui sont garantis par des obligations ou par d’autres titres de créance semblables répondant aux exigences du paragraphe 2, qui sont à leur tour assortis des garanties indiquées au point 1°, et émettre sur cette base des titres de créance bénéficiant de ces mêmes garanties dénommés « lettres de gage hypothécaires » ;
 
-3. accorder des prêts à des collectivités de droit public, et émettre sur cette base des titres de créance garantis par les créances résultant de ces prêts dénommés « lettres de gage publiques » ;
+- accorder des prêts à des collectivités de droit public, et émettre sur cette base des titres de créance garantis par les créances résultant de ces prêts dénommés « lettres de gage publiques » ;
 
-4. accorder des prêts qui sont garantis par : et émettre sur cette base des titres de créance garantis par les créances résultant de ces prêts dénommés « lettres de gage publiques » ;
+- accorder des prêts qui sont garantis par : et émettre sur cette base des titres de créance garantis par les créances résultant de ces prêts dénommés « lettres de gage publiques » ;
 
-1. des collectivités de droit public ;
+  - des collectivités de droit public ;
 
-2. des obligations émises par des collectivités de droit public ;
+  - des obligations émises par des collectivités de droit public ;
 
-3. des obligations répondant aux exigences du paragraphe 2 et émises par des établissements de crédit établis dans un État membre de l’Union européenne, de l’Espace économique européen ou de l’OCDE, ou dans un autre État visé à l’article 1 er , point 7°, lettre b), lesquelles obligations sont à leur tour garanties par des créances sur des collectivités de droit public ;
+  - des obligations répondant aux exigences du paragraphe 2 et émises par des établissements de crédit établis dans un État membre de l’Union européenne, de l’Espace économique européen ou de l’OCDE, ou dans un autre État visé à l’article 1 er , point 7°, lettre b), lesquelles obligations sont à leur tour garanties par des créances sur des collectivités de droit public ;
 
-4. d’autres engagements pris sous quelque forme que ce soit par des collectivités de droit public,
+  - d’autres engagements pris sous quelque forme que ce soit par des collectivités de droit public,
 
-5. accorder des prêts qui sont garantis par des droits réels mobiliers ou par des sûretés réelles mobilières, et émettre sur cette base des titres de créance garantis par ces droits ou ces sûretés dénommés « lettres de gage mobilières » suivi du nom de la catégorie d’actifs visée à l’article 8, paragraphe 1 er , alinéa 2, qui compose la masse de couverture liée à la catégorie d’actifs en question ;
+- accorder des prêts qui sont garantis par des droits réels mobiliers ou par des sûretés réelles mobilières, et émettre sur cette base des titres de créance garantis par ces droits ou ces sûretés dénommés « lettres de gage mobilières » suivi du nom de la catégorie d’actifs visée à l’article 8, paragraphe 1 er , alinéa 2, qui compose la masse de couverture liée à la catégorie d’actifs en question ;
 
-6. accorder des prêts qui sont garantis par des obligations ou par d’autres titres de créance semblables répondant aux exigences du paragraphe 2, qui sont à leur tour assortis des garanties indiquées au 5°, et émettre sur cette base des titres de créance bénéficiant de ces mêmes garanties dénommés « lettres de gage mobilières » suivi du nom de la catégorie d’actifs visée à l’article 8, paragraphe 1 er , alinéa 2, qui compose la masse de couverture liée à la catégorie d’actifs en question ;
+- accorder des prêts qui sont garantis par des obligations ou par d’autres titres de créance semblables répondant aux exigences du paragraphe 2, qui sont à leur tour assortis des garanties indiquées au 5°, et émettre sur cette base des titres de créance bénéficiant de ces mêmes garanties dénommés « lettres de gage mobilières » suivi du nom de la catégorie d’actifs visée à l’article 8, paragraphe 1 er , alinéa 2, qui compose la masse de couverture liée à la catégorie d’actifs en question ;
 
-7. accorder des prêts qui sont garantis par des droits réels mobiliers ou immobiliers ou des sûretés réelles mobilières ou immobilières portant sur des biens générateurs d’énergies renouvelables et par des droits de substitution dans les contrats de projet essentiels, et émettre sur cette base des titres de créance garantis par les créances résultant de ces prêts dénommés « lettres de gage énergies renouvelables ».
+- accorder des prêts qui sont garantis par des droits réels mobiliers ou immobiliers ou des sûretés réelles mobilières ou immobilières portant sur des biens générateurs d’énergies renouvelables et par des droits de substitution dans les contrats de projet essentiels, et émettre sur cette base des titres de créance garantis par les créances résultant de ces prêts dénommés « lettres de gage énergies renouvelables ».
 
 (2)
 
@@ -180,11 +180,11 @@ Les prêts accordés conformément au paragraphe 1er peuvent l’être sous quel
 
 Ces obligations et autres titres de créances semblables visés à l’alinéa 1er sont soit :
 
-1. des obligations garanties émises dans le cadre de structures de regroupement d’obligations garanties intragroupe conformément à l’article 13, et assorties des garanties visées au paragraphe 1 er , points 1° à 7° ;
+- des obligations garanties émises dans le cadre de structures de regroupement d’obligations garanties intragroupe conformément à l’article 13, et assorties des garanties visées au paragraphe 1 er , points 1° à 7° ;
 
-2. garantis par des collectivités de droit public ; ou
+- garantis par des collectivités de droit public ; ou
 
-3. émis par un émetteur autre qu’un véhicule de titrisation ou un compartiment d’un véhicule de titrisation dont les produits de l’émission sont à concurrence de 50 pour cent au moins utilisés pour le refinancement de biens générateurs d’énergies renouvelables, si la masse de couverture des lettres de gage énergies renouvelables de l’établissement de crédit émetteur comprend au maximum 20 pour cent de tels titres. Ces obligations ou titres de créance doivent bénéficier au moins du deuxième échelon de qualité du crédit accordé par une agence de notation qui est enregistrée sur la liste des agences de notation de crédit de l’AEMF en vertu du règlement (CE) n° 1060/2009 . Les biens faisant partie de la masse de couverture des lettres de gage énergies renouvelables de l’établissement de crédit émetteur ne doivent pas être constitués à hauteur de plus de 20 pour cent par des obligations ou autres titres de créance tels que visés au présent point.
+- émis par un émetteur autre qu’un véhicule de titrisation ou un compartiment d’un véhicule de titrisation dont les produits de l’émission sont à concurrence de 50 pour cent au moins utilisés pour le refinancement de biens générateurs d’énergies renouvelables, si la masse de couverture des lettres de gage énergies renouvelables de l’établissement de crédit émetteur comprend au maximum 20 pour cent de tels titres. Ces obligations ou titres de créance doivent bénéficier au moins du deuxième échelon de qualité du crédit accordé par une agence de notation qui est enregistrée sur la liste des agences de notation de crédit de l’AEMF en vertu du règlement (CE) n° 1060/2009 . Les biens faisant partie de la masse de couverture des lettres de gage énergies renouvelables de l’établissement de crédit émetteur ne doivent pas être constitués à hauteur de plus de 20 pour cent par des obligations ou autres titres de créance tels que visés au présent point.
 
 (3)
 
@@ -205,9 +205,9 @@ Conditions s upplémentaires à respecter pour la qualification d’« obligatio
 
 Pour se qualifier d’« obligations garanties européennes », les lettres de gage doivent à tout moment être garanties par :
 
-1. des actifs utilisés comme sûreté conformément au paragraphe 2 ; ou
+- des actifs utilisés comme sûreté conformément au paragraphe 2 ; ou
 
-2. des actifs sous forme de prêts consentis à des entreprises publiques ou garantis par celles-ci, conformément au paragraphe 3.
+- des actifs sous forme de prêts consentis à des entreprises publiques ou garantis par celles-ci, conformément au paragraphe 3.
 
 Pour se qualifier d’« obligations garanties européennes (de qualité supérieure) », les lettres de gage doivent à tout moment être garanties par des actifs éligibles conformément à l’article 129, paragraphe 1er, du règlement (UE) n° 575/2013, sous réserve du respect des conditions visées à l’article 129, paragraphes 1bis à 3, dudit règlement.
 
@@ -215,25 +215,25 @@ Pour se qualifier d’« obligations garanties européennes (de qualité supéri
 
 Les actifs utilisés comme sûreté visés au paragraphe 1er, alinéa 1er, point 1°, respectent l’une des conditions suivantes :
 
-1. pour les actifs physiques utilisés comme sûreté, il existe un registre public qui recense la propriété de ces actifs physiques et les créances sur ceux-ci ou une autre forme de certification telle que visée à l’article 1 er , point 5° ; ou
+- pour les actifs physiques utilisés comme sûreté, il existe un registre public qui recense la propriété de ces actifs physiques et les créances sur ceux-ci ou une autre forme de certification telle que visée à l’article 1 er , point 5° ; ou
 
-2. pour les actifs sous forme d’expositions, la fiabilité et la solidité de la contrepartie de l’exposition découle soit pour les collectivités de droit public de pouvoirs de lever des impôts ou des taxes, soit d’une surveillance publique portant sur la solidité opérationnelle et la solvabilité financière de la contrepartie.
+- pour les actifs sous forme d’expositions, la fiabilité et la solidité de la contrepartie de l’exposition découle soit pour les collectivités de droit public de pouvoirs de lever des impôts ou des taxes, soit d’une surveillance publique portant sur la solidité opérationnelle et la solvabilité financière de la contrepartie.
 
 (3)
 
 Aux fins du paragraphe 1er, alinéa 1er, point 2°, les prêts consentis à des entreprises publiques ou garantis par celles-ci en tant qu’actifs de couverture ordinaires respectent l’ensemble des conditions suivantes :
 
-1. les entreprises publiques fournissent des services publics essentiels sur la base d’un agrément, d’un contrat de concession ou d’une autre forme de délégation octroyée par une autorité publique ;
+- les entreprises publiques fournissent des services publics essentiels sur la base d’un agrément, d’un contrat de concession ou d’une autre forme de délégation octroyée par une autorité publique ;
 
-2. les entreprises publiques font l’objet d’une surveillance publique ; et
+- les entreprises publiques font l’objet d’une surveillance publique ; et
 
-3. les entreprises publiques disposent de capacités de génération de revenus suffisantes, garanties par le fait qu’elles :
+- les entreprises publiques disposent de capacités de génération de revenus suffisantes, garanties par le fait qu’elles :
 
-1. ont suffisamment de souplesse dans la collecte et l’augmentation des redevances, charges et créances aux fins du service fourni pour garantir leur solidité et leur solvabilité financières ;
+  - ont suffisamment de souplesse dans la collecte et l’augmentation des redevances, charges et créances aux fins du service fourni pour garantir leur solidité et leur solvabilité financières ;
 
-2. reçoivent suffisamment de subventions légalement prévues en contrepartie de la prestation de services publics essentiels pour garantir leur solidité et leur solvabilité financières ; ou
+  - reçoivent suffisamment de subventions légalement prévues en contrepartie de la prestation de services publics essentiels pour garantir leur solidité et leur solvabilité financières ; ou
 
-3. ont conclu un accord de transfert de pertes et profits avec une autorité publique.
+  - ont conclu un accord de transfert de pertes et profits avec une autorité publique.
 
 (4)
 
@@ -285,25 +285,25 @@ Les lettres de gage visées à l’article 3, paragraphe 1er, points 3° et 4°,
 
 Les engagements liés aux lettres de gage en circulation visés au paragraphe 1er, sont constitués des éléments suivants :
 
-1. les obligations de paiement du montant du principal de l’encours des lettres de gage ;
+- les obligations de paiement du montant du principal de l’encours des lettres de gage ;
 
-2. les obligations de paiement de tout intérêt sur l’encours des lettres de gage ;
+- les obligations de paiement de tout intérêt sur l’encours des lettres de gage ;
 
-3. les obligations de paiement associées aux contrats dérivés détenus conformément à l’article 7, paragraphe 3 ; et
+- les obligations de paiement associées aux contrats dérivés détenus conformément à l’article 7, paragraphe 3 ; et
 
-4. les coûts prévus de maintenance et de gestion pour mettre fin au programme de lettres de gage. L’établissement de crédit émetteur peut déterminer les coûts prévus de maintenance et de gestion sur base d’un montant forfaitaire fixé à 2 pour cent de la valeur actualisée des engagements liés aux lettres de gage en circulation .
+- les coûts prévus de maintenance et de gestion pour mettre fin au programme de lettres de gage. L’établissement de crédit émetteur peut déterminer les coûts prévus de maintenance et de gestion sur base d’un montant forfaitaire fixé à 2 pour cent de la valeur actualisée des engagements liés aux lettres de gage en circulation .
 
 (4)
 
 Les actifs de couverture visés aux paragraphes 1er et 2 sont constitués par :
 
-1. les actifs de couverture ordinaires ;
+- les actifs de couverture ordinaires ;
 
-2. les actifs de remplacement visés au paragraphe 6 ;
+- les actifs de remplacement visés au paragraphe 6 ;
 
-3. les actifs liquides visés à l’article 9 ; et
+- les actifs liquides visés à l’article 9 ; et
 
-4. les créances associées aux contrats dérivés détenus conformément à l’article 7, paragraphe 3.
+- les créances associées aux contrats dérivés détenus conformément à l’article 7, paragraphe 3.
 
 Les créances non garanties, s’il y a eu défaut conformément à l’article 178 du règlement (UE) n° 575/2013, ne contribuent pas à la couverture.
 
@@ -319,13 +319,13 @@ Ne sont éligibles comme actifs de couverture pour les lettres de gage publiques
 
 Les actifs de remplacement visés au paragraphe 4, alinéa 1er, point 2°, sont constitués par :
 
-1. de l’argent comptant ;
+- de l’argent comptant ;
 
-2. des avoirs sous toute forme y compris des instruments financiers émis par ou de créances à l’encontre de banques centrales ou d’établissements de crédit établis dans un État membre de l’Union européenne, de l’Espace économique européen, de l’OCDE ou d’un autre État visé à l’article 1 er , point 7°, lettre b) ;
+- des avoirs sous toute forme y compris des instruments financiers émis par ou de créances à l’encontre de banques centrales ou d’établissements de crédit établis dans un État membre de l’Union européenne, de l’Espace économique européen, de l’OCDE ou d’un autre État visé à l’article 1 er , point 7°, lettre b) ;
 
-3. des obligations garanties émises dans le cadre de structures de regroupement d’obligations garanties intragroupe conformément à l’article 13 ;
+- des obligations garanties émises dans le cadre de structures de regroupement d’obligations garanties intragroupe conformément à l’article 13 ;
 
-4. des engagements de collectivités de droit public sous toute forme tels que prévus à l’article 3, paragraphe 1 er , points 3° et 4°.
+- des engagements de collectivités de droit public sous toute forme tels que prévus à l’article 3, paragraphe 1 er , points 3° et 4°.
 
 Dans chacune des masses de couverture, les actifs de couverture ordinaires peuvent être remplacés à hauteur de 20 pour cent de la valeur nominale des lettres de gage en circulation par des actifs de remplacement.
 
@@ -342,13 +342,13 @@ Les actifs de couverture forment autant de masses de couverture faisant l’obje
 
 Les actifs peuvent uniquement être inclus dans la masse de couverture si la créance liée aux actifs de couverture respecte les conditions suivantes :
 
-1. l’actif représente une créance en numéraire qui a une valeur minimale qui peut être déterminée à tout moment, qui est juridiquement valable et exécutoire, qui n’est pas soumise à des conditions autres que celle de son exigibilité à une date future, et qui est garantie par une hypothèque, un droit, un privilège ou toute autre garantie ;
+- l’actif représente une créance en numéraire qui a une valeur minimale qui peut être déterminée à tout moment, qui est juridiquement valable et exécutoire, qui n’est pas soumise à des conditions autres que celle de son exigibilité à une date future, et qui est garantie par une hypothèque, un droit, un privilège ou toute autre garantie ;
 
-2. l’hypothèque, le droit, le privilège ou toute autre garantie sécurisant la créance est exécutoire ;
+- l’hypothèque, le droit, le privilège ou toute autre garantie sécurisant la créance est exécutoire ;
 
-3. toutes les exigences légales relatives à la constitution de l’hypothèque, du droit, du privilège ou de toute autre garantie sécurisant la créance ont été respectées ; et
+- toutes les exigences légales relatives à la constitution de l’hypothèque, du droit, du privilège ou de toute autre garantie sécurisant la créance ont été respectées ; et
 
-4. l’hypothèque, le droit, le privilège ou toute autre garantie sécurisant la créance permet à l’établissement de crédit émetteur de recouvrer la valeur de la créance sans retard injustifié.
+- l’hypothèque, le droit, le privilège ou toute autre garantie sécurisant la créance permet à l’établissement de crédit émetteur de recouvrer la valeur de la créance sans retard injustifié.
 
 L’établissement de crédit émetteur évalue le caractère exécutoire des créances et la possibilité de réaliser des actifs utilisés comme sûreté avant de les inclure dans la masse de couverture. L’établissement de crédit émetteur documente cette évaluation.
 
@@ -356,15 +356,15 @@ L’établissement de crédit émetteur évalue le caractère exécutoire des cr
 
 L’établissement de crédit émetteur inclut des créances résultant de contrats dérivés dans la masse de couverture uniquement lorsque les conditions suivantes sont respectées :
 
-1. les contrats dérivés sont exclusivement conclus à des fins de couverture des risques, leur volume est adapté en cas de réduction du risque couvert et ils sont retirés lorsque le risque couvert disparaît ;
+- les contrats dérivés sont exclusivement conclus à des fins de couverture des risques, leur volume est adapté en cas de réduction du risque couvert et ils sont retirés lorsque le risque couvert disparaît ;
 
-2. les contrats dérivés sont suffisamment documentés conformément à l’alinéa 2 ;
+- les contrats dérivés sont suffisamment documentés conformément à l’alinéa 2 ;
 
-3. les contrats dérivés, y compris toute sûreté reçue en rapport avec des positions sur contrats dérivés, suivent les règles en matière de ségrégation visées au paragraphe 1 er ;
+- les contrats dérivés, y compris toute sûreté reçue en rapport avec des positions sur contrats dérivés, suivent les règles en matière de ségrégation visées au paragraphe 1 er ;
 
-4. les contrats dérivés ne doivent être ni résiliés ni résiliables par la contrepartie de l’établissement de crédit émetteur en raison de l’ouverture d’une procédure de sursis de paiement ou de liquidation judiciaire prévus par la partie II de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement, ou en raison de l’ouverture d’une procédure de résolution à l’égard de l’établissement de crédit émetteur ;
+- les contrats dérivés ne doivent être ni résiliés ni résiliables par la contrepartie de l’établissement de crédit émetteur en raison de l’ouverture d’une procédure de sursis de paiement ou de liquidation judiciaire prévus par la partie II de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement, ou en raison de l’ouverture d’une procédure de résolution à l’égard de l’établissement de crédit émetteur ;
 
-5. les contrats dérivés sont conclus avec des contreparties respectant les critères d’éligibilité visés à l’alinéa 2.
+- les contrats dérivés sont conclus avec des contreparties respectant les critères d’éligibilité visés à l’alinéa 2.
 
 La CSSF précise par voie de règlement la documentation nécessaire à fournir au sujet des contrats dérivés visée à l’alinéa 1er, point 2°, ainsi que les critères d’éligibilité pour les contreparties dans les opérations de couverture visées à l’alinéa 1er, point 5°, fondés sur les éventuels liens entre l’établissement de crédit émetteur et la contrepartie, la qualité de crédit de la contrepartie, la nature des contrats dérivés et l’existence éventuelle d’appels de marge au titre de ces contrats dérivés.
 
@@ -383,11 +383,11 @@ En ce qui concerne les actifs physiques immeubles pouvant être utilisés comme 
 
 En ce qui concerne les actifs physiques meubles pouvant être utilisés comme sûretés aux fins de l’article 3, paragraphe 1er, point 5° ou 6°, peuvent servir de garantie les catégories d’actifs suivantes :
 
-1. aéronefs ;
+- aéronefs ;
 
-2. navires et bateaux ;
+- navires et bateaux ;
 
-3. objets ferroviaires.
+- objets ferroviaires.
 
 En ce qui concerne les actifs physiques immeubles pouvant être utilisés comme sûretés aux fins de l’article 3, paragraphe 1er, point 7°, peuvent servir de garantie des biens immeubles relatifs à des projets générateurs d’énergies renouvelables.
 
@@ -413,11 +413,11 @@ L’établissement de crédit émetteur valorise les actifs physiques utilisés 
 
 Les méthodes et les procédures de valorisation des actifs physiques utilisés comme sûreté visés à l’alinéa 1er garantissent que :
 
-1. pour chaque actif physique utilisé comme sûreté, il existe, au moment de l’inclusion de l’actif de couverture dans la masse de couverture, une valorisation courante qui est égale ou inférieure à la valeur de marché ou à la valeur hypothécaire ;
+- pour chaque actif physique utilisé comme sûreté, il existe, au moment de l’inclusion de l’actif de couverture dans la masse de couverture, une valorisation courante qui est égale ou inférieure à la valeur de marché ou à la valeur hypothécaire ;
 
-2. la valorisation est réalisée par un évaluateur qui possède les qualifications, la capacité et l’expérience nécessaires ; et
+- la valorisation est réalisée par un évaluateur qui possède les qualifications, la capacité et l’expérience nécessaires ; et
 
-3. l’évaluateur est indépendant de la procédure de prise de décision quant au crédit, ne tient pas compte des éléments spéculatifs dans l’évaluation de la valeur des actifs physiques utilisés comme sûreté et établit la valeur de l’actif physique utilisé comme sûreté de manière claire et transparente.
+- l’évaluateur est indépendant de la procédure de prise de décision quant au crédit, ne tient pas compte des éléments spéculatifs dans l’évaluation de la valeur des actifs physiques utilisés comme sûreté et établit la valeur de l’actif physique utilisé comme sûreté de manière claire et transparente.
 
 Un règlement de la CSSF précise les modalités techniques de l’alinéa 2, points 1° à 3°.
 
@@ -438,9 +438,9 @@ En vue de garantir la liquidité de la masse de couverture couvrant les sorties 
 
 L’établissement de crédit émetteur calcule chaque jour le total des différences journalières pour les 180 jours à venir entre ces créances et dettes arrivant à échéance. Afin d’assurer la liquidité sur chaque masse de couverture, l’établissement de crédit émetteur maintient un coussin de liquidité qui équivaut à la valeur négative la plus élevée en valeur absolue des totaux calculés pour les 180 jours à venir. Le coussin de liquidité est composé d’actifs qui :
 
-1. sont des actifs de niveau 1, 2A ou 2B au sens du règlement délégué (UE) 2015/61 de la Commission du 10 octobre 2014 complétant le règlement (UE) n° 575/2013 du Parlement européen et du Conseil en ce qui concerne l’exigence de couverture des besoins de liquidité pour les établissements de crédit, qui sont valorisés conformément audit règlement délégué et qui ne sont pas émis par l’établissement de crédit émetteur, par son entreprise mère, à moins qu’il ne s’agisse d’une entité du secteur public qui n’est pas un établissement de crédit, par sa filiale ou une autre filiale de son entreprise mère ou par une SSPE au sens de l’article 4, paragraphe 1 er , point 66, du règlement (UE) n° 575/2013 avec laquelle il a des liens étroits ; ou
+- sont des actifs de niveau 1, 2A ou 2B au sens du règlement délégué (UE) 2015/61 de la Commission du 10 octobre 2014 complétant le règlement (UE) n° 575/2013 du Parlement européen et du Conseil en ce qui concerne l’exigence de couverture des besoins de liquidité pour les établissements de crédit, qui sont valorisés conformément audit règlement délégué et qui ne sont pas émis par l’établissement de crédit émetteur, par son entreprise mère, à moins qu’il ne s’agisse d’une entité du secteur public qui n’est pas un établissement de crédit, par sa filiale ou une autre filiale de son entreprise mère ou par une SSPE au sens de l’article 4, paragraphe 1 er , point 66, du règlement (UE) n° 575/2013 avec laquelle il a des liens étroits ; ou
 
-2. sont des expositions à court terme sur des établissements de crédit relevant du premier ou du deuxième échelon de qualité de crédit, ou des dépôts à court terme auprès d’établissements de crédit relevant du premier, du deuxième ou du troisième échelon de qualité de crédit, conformément à l’article 129, paragraphe 1 er , lettre c), du règlement (UE) n° 575/2013 .
+- sont des expositions à court terme sur des établissements de crédit relevant du premier ou du deuxième échelon de qualité de crédit, ou des dépôts à court terme auprès d’établissements de crédit relevant du premier, du deuxième ou du troisième échelon de qualité de crédit, conformément à l’article 129, paragraphe 1 er , lettre c), du règlement (UE) n° 575/2013 .
 
 L’établissement de crédit émetteur veille à ce que les créances non garanties, s’il y a eu défaut conformément à l’article 178 du règlement (UE) n° 575/2013, ne contribuent pas au coussin de liquidité de la masse de couverture.
 
@@ -484,17 +484,17 @@ Structures de regroupement d’obligations garanties intragroupe
 
 L’établissement de crédit émetteur peut avoir recours à des structures de regroupement d’obligations garanties intragroupe. Les structures de regroupement d’obligations garanties intragroupe respectent les exigences suivantes :
 
-1. les obligations garanties émises à l’intérieur du groupe sont vendues à l’établissement de crédit qui émet les obligations garanties destinées aux investisseurs en dehors du groupe ;
+- les obligations garanties émises à l’intérieur du groupe sont vendues à l’établissement de crédit qui émet les obligations garanties destinées aux investisseurs en dehors du groupe ;
 
-2. les obligations garanties émises à l’intérieur du groupe sont utilisées comme actifs de couverture dans la masse de couverture pour les obligations garanties destinées aux investisseurs en dehors du groupe et sont inscrites au bilan de l’établissement de crédit qui émet les obligations garanties destinées aux investisseurs en dehors du groupe ;
+- les obligations garanties émises à l’intérieur du groupe sont utilisées comme actifs de couverture dans la masse de couverture pour les obligations garanties destinées aux investisseurs en dehors du groupe et sont inscrites au bilan de l’établissement de crédit qui émet les obligations garanties destinées aux investisseurs en dehors du groupe ;
 
-3. la masse de couverture pour les obligations garanties destinées aux investisseurs en dehors du groupe ne contient que des obligations garanties émises à l’intérieur du groupe par un établissement de crédit unique au sein du groupe ;
+- la masse de couverture pour les obligations garanties destinées aux investisseurs en dehors du groupe ne contient que des obligations garanties émises à l’intérieur du groupe par un établissement de crédit unique au sein du groupe ;
 
-4. l’établissement de crédit qui émet les obligations garanties destinées aux investisseurs en dehors du groupe a l’intention de les vendre à des investisseurs en obligations garanties n’appartenant pas au groupe ;
+- l’établissement de crédit qui émet les obligations garanties destinées aux investisseurs en dehors du groupe a l’intention de les vendre à des investisseurs en obligations garanties n’appartenant pas au groupe ;
 
-5. tant les obligations garanties émises à l’intérieur du groupe que les obligations garanties destinées aux investisseurs en dehors du groupe relèvent du premier échelon de qualité de crédit prévu à la troisième partie, titre II, chapitre 2, du règlement (UE) n° 575/2013 au moment de l’émission et sont garanties par des actifs de couverture éligibles visés à l’article 4 ;
+- tant les obligations garanties émises à l’intérieur du groupe que les obligations garanties destinées aux investisseurs en dehors du groupe relèvent du premier échelon de qualité de crédit prévu à la troisième partie, titre II, chapitre 2, du règlement (UE) n° 575/2013 au moment de l’émission et sont garanties par des actifs de couverture éligibles visés à l’article 4 ;
 
-6. en cas de structures de regroupement d’obligations garanties intragroupe transfrontalières, les actifs de couverture des obligations garanties émises à l’intérieur du groupe respectent les exigences d’éligibilité et de couverture applicables aux obligations garanties destinées aux investisseurs en dehors du groupe.
+- en cas de structures de regroupement d’obligations garanties intragroupe transfrontalières, les actifs de couverture des obligations garanties émises à l’intérieur du groupe respectent les exigences d’éligibilité et de couverture applicables aux obligations garanties destinées aux investisseurs en dehors du groupe.
 
 Aux fins de l’alinéa 1er, point 5°, la CSSF peut autoriser que les obligations garanties relevant du deuxième échelon de qualité de crédit à la suite d’un changement qui aboutit à l’abaissement de l’échelon de qualité de crédit des obligations garanties restent incluses dans une structure de regroupement d’obligations garanties intragroupe, sous réserve que la CSSF conclue que le changement d’échelon de qualité de crédit n’est pas dû à une violation des exigences relatives à l’autorisation prévues à l’article 14, paragraphe 2. La CSSF notifie à l’Autorité bancaire européenne, dénommée ci-après « ABE », toute décision adoptée en application du présent alinéa.
 
@@ -517,15 +517,15 @@ La demande d’autorisation pour un programme d’émission de lettres de gage e
 
 La demande d’autorisation contient les éléments suivants :
 
-1. un programme d’activité concernant l’émission des lettres de gage, y compris la catégorie et si elles relèvent de l’article 4, le volume de lettres de gage prévu, ainsi qu’une description des actifs de couverture en termes de caractéristiques structurelles, durée de vie et de profil de risque ;
+- un programme d’activité concernant l’émission des lettres de gage, y compris la catégorie et si elles relèvent de l’article 4, le volume de lettres de gage prévu, ainsi qu’une description des actifs de couverture en termes de caractéristiques structurelles, durée de vie et de profil de risque ;
 
-2. le descriptif des politiques, processus et méthodes visant à garantir la protection des investisseurs en ce qui concerne l’autorisation, la modification, le renouvellement et le refinancement des prêts inclus dans la masse de couverture ;
+- le descriptif des politiques, processus et méthodes visant à garantir la protection des investisseurs en ce qui concerne l’autorisation, la modification, le renouvellement et le refinancement des prêts inclus dans la masse de couverture ;
 
-3. le descriptif des ressources en personnel, y compris la direction, se consacrant au programme d’émission de lettres de gage qui possèdent les qualifications et les connaissances nécessaires concernant l’émission des lettres de gage et la gestion du programme d’émission de lettres de gage ;
+- le descriptif des ressources en personnel, y compris la direction, se consacrant au programme d’émission de lettres de gage qui possèdent les qualifications et les connaissances nécessaires concernant l’émission des lettres de gage et la gestion du programme d’émission de lettres de gage ;
 
-4. le cadre administratif de la masse de couverture, et les mesures mises en place en vue du suivi de cette dernière conformément aux exigences applicables énoncées dans la présente loi ;
+- le cadre administratif de la masse de couverture, et les mesures mises en place en vue du suivi de cette dernière conformément aux exigences applicables énoncées dans la présente loi ;
 
-5. dans le cas d’un établissement de crédit visé à l’article 2, point 2°, un descriptif détaillé et circonstancié des mesures visées à l’article 2, point 2°.
+- dans le cas d’un établissement de crédit visé à l’article 2, point 2°, un descriptif détaillé et circonstancié des mesures visées à l’article 2, point 2°.
 
 (3)
 
@@ -553,19 +553,19 @@ Communication à la CSSF
 
 L’établissement de crédit émetteur communique au moins une fois par an à la CSSF les informations sur les programmes d’émission de lettres de gage concernant :
 
-1. l’éligibilité des actifs et les exigences concernant la masse de couverture conformément aux articles 3, 4, 6, 7, 8, 12 et 13 ;
+- l’éligibilité des actifs et les exigences concernant la masse de couverture conformément aux articles 3, 4, 6, 7, 8, 12 et 13 ;
 
-2. la ségrégation des actifs de couverture conformément à l’article 7, paragraphe 1 er ;
+- la ségrégation des actifs de couverture conformément à l’article 7, paragraphe 1 er ;
 
-3. la mission du réviseur d’entreprises agréé spécial conformément à l’article 17 ;
+- la mission du réviseur d’entreprises agréé spécial conformément à l’article 17 ;
 
-4. les exigences en matière de couverture conformément à l’article 6 ;
+- les exigences en matière de couverture conformément à l’article 6 ;
 
-5. les exigences en matière de liquidité conformément à l’article 9 ;
+- les exigences en matière de liquidité conformément à l’article 9 ;
 
-6. en ce qui concerne les établissements de crédit émetteurs visés à l’article 2, point 2°, le total des masses de couverture liées aux lettres de gage émises, le total des engagements figurant au bilan , fonds propres compris, ainsi que le total des dépôts éligibles ;
+- en ce qui concerne les établissements de crédit émetteurs visés à l’article 2, point 2°, le total des masses de couverture liées aux lettres de gage émises, le total des engagements figurant au bilan , fonds propres compris, ainsi que le total des dépôts éligibles ;
 
-7. en ce qui concerne les établissements de crédit émetteurs visés à l’article 2, point 2°, les mesures mises en place par l’établissement de crédit émetteur pour assurer le respect de l’article 2, point 2°.
+- en ce qui concerne les établissements de crédit émetteurs visés à l’article 2, point 2°, les mesures mises en place par l’établissement de crédit émetteur pour assurer le respect de l’article 2, point 2°.
 
 La CSSF précise par voie de règlement les modalités techniques de la communication des informations visées à l’alinéa 1er, y compris la fréquence de cette communication.
 
@@ -625,27 +625,27 @@ Information des investisseurs en lettres de gage
 
 L’établissement de crédit émetteur fournit aux investisseurs en lettres de gage des informations sur ses programmes d’émission de lettres de gage suffisamment détaillées pour permettre aux investisseurs en lettres de gage d’apprécier le profil et les risques de ces programmes et fait preuve de la diligence appropriée à cet égard. À cette fin, il communique au moins tous les trimestres les informations suivantes aux investisseurs en lettres de gage :
 
-1. la valeur de la masse de couverture et de l’encours des lettres de gage ;
+- la valeur de la masse de couverture et de l’encours des lettres de gage ;
 
-2. une liste des numéros internationaux d’identification des titres, dénommés ci-après « codes ISIN », pour toutes les émissions de lettres de gage au titre de ce programme auxquelles un code ISIN a été attribué ;
+- une liste des numéros internationaux d’identification des titres, dénommés ci-après « codes ISIN », pour toutes les émissions de lettres de gage au titre de ce programme auxquelles un code ISIN a été attribué ;
 
-3. la répartition géographique et le type d’actifs de couverture, le montant du prêt et la méthode de valorisation ;
+- la répartition géographique et le type d’actifs de couverture, le montant du prêt et la méthode de valorisation ;
 
-4. le risque de marché, notamment le risque de taux d’intérêt et le risque monétaire, et les risques de crédit et de liquidité, présentés de façon détaillée ;
+- le risque de marché, notamment le risque de taux d’intérêt et le risque monétaire, et les risques de crédit et de liquidité, présentés de façon détaillée ;
 
-5. la structure des échéances des actifs de couverture et des lettres de gage ;
+- la structure des échéances des actifs de couverture et des lettres de gage ;
 
-6. les niveaux de couverture requis et disponibles, ainsi que les niveaux de surnantissement légal, contractuel et volontaire ;
+- les niveaux de couverture requis et disponibles, ainsi que les niveaux de surnantissement légal, contractuel et volontaire ;
 
-7. le pourcentage de prêts pour lesquels il y a eu défaut conformément à l’article 178 du règlement (UE) n° 575/2013 et, en tout état de cause, lorsque les prêts sont en arriéré de paiement depuis plus de 90 jours ;
+- le pourcentage de prêts pour lesquels il y a eu défaut conformément à l’article 178 du règlement (UE) n° 575/2013 et, en tout état de cause, lorsque les prêts sont en arriéré de paiement depuis plus de 90 jours ;
 
-8. une description détaillée des informations suivantes :
+- une description détaillée des informations suivantes :
 
-1. les modalités de la prorogation d’échéance visée à l’article 152-4, paragraphe 3, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement ;
+  - les modalités de la prorogation d’échéance visée à l’article 152-4, paragraphe 3, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement ;
 
-2. les conséquences de l’insolvabilité ou de la résolution de l’établissement de crédit émetteur sur l’échéance ;
+  - les conséquences de l’insolvabilité ou de la résolution de l’établissement de crédit émetteur sur l’échéance ;
 
-3. le rôle de la CSSF et de l’administrateur en ce qui concerne la prorogation d’échéance.
+  - le rôle de la CSSF et de l’administrateur en ce qui concerne la prorogation d’échéance.
 
 Pour les obligations garanties destinées aux investisseurs en dehors du groupe émises dans le cadre de structures de regroupement d’obligations garanties intragroupe visées à l’article 13, l’établissement de crédit émetteur communique aux investisseurs en dehors du groupe les informations visées à l’alinéa 1er, ou un lien vers ces informations, au sujet de toutes les obligations garanties émises à l’intérieur du groupe. L’établissement de crédit émetteur communique ces informations aux investisseurs au moins sous forme agrégée.
 
@@ -657,19 +657,19 @@ Les informations visées à l’alinéa 1er, point 8°, lettres a) et b), figure
 
 Les informations satisfont aux exigences suivantes :
 
-1. elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine, au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine, au sens de l’article 2, point 4), dudit règlement ;
 
-2. elles sont accompagnées des métadonnées suivantes :
+- elles sont accompagnées des métadonnées suivantes :
 
-1. tous les noms de l’établissement de crédit émetteur auquel les informations se rapportent ;
+  - tous les noms de l’établissement de crédit émetteur auquel les informations se rapportent ;
 
-2. l’identifiant d’entité juridique de l’établissement de crédit émetteur, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
+  - l’identifiant d’entité juridique de l’établissement de crédit émetteur, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
 
-3. la taille de l’établissement de crédit émetteur, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
+  - la taille de l’établissement de crédit émetteur, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
 
-4. le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
+  - le type d’informations concerné, suivant la classification prévue à l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
 
-5. une mention précisant si les informations contiennent des données à caractère personnel.
+  - une mention précisant si les informations contiennent des données à caractère personnel.
 
 Aux fins de l’alinéa 6, point 2°, lettre b), les établissements de crédit émetteurs obtiennent un identifiant d’entité juridique.
 
@@ -689,29 +689,29 @@ Pouvoirs de la CSSF
 
 Aux fins de l’application de la présente loi et des mesures prises pour son exécution, la CSSF est investie des pouvoirs de surveillance et d’enquête nécessaires à l’exercice de sa mission. Les pouvoirs sont les suivants :
 
-1. avoir accès à tout document ou à toute donnée, sous quelque forme que ce soit, que la CSSF juge susceptible d’être pertinent pour l’accomplissement de sa mission de surveillance et d’enquête, et d’en recevoir ou d’en prendre une copie ;
+- avoir accès à tout document ou à toute donnée, sous quelque forme que ce soit, que la CSSF juge susceptible d’être pertinent pour l’accomplissement de sa mission de surveillance et d’enquête, et d’en recevoir ou d’en prendre une copie ;
 
-2. examiner régulièrement le programme d’émission de lettres de gage ;
+- examiner régulièrement le programme d’émission de lettres de gage ;
 
-3. demander ou exiger la fourniture d’informations à toute personne liée à l’activité d’émission de lettres de gage et, si nécessaire, convoquer une personne et l’entendre ;
+- demander ou exiger la fourniture d’informations à toute personne liée à l’activité d’émission de lettres de gage et, si nécessaire, convoquer une personne et l’entendre ;
 
-4. procéder à des inspections sur place ou des enquêtes auprès des établissements de crédit émetteurs ;
+- procéder à des inspections sur place ou des enquêtes auprès des établissements de crédit émetteurs ;
 
-5. enjoindre de cesser toute pratique contraire aux dispositions de la présente loi, et prendre des mesures pour en prévenir la répétition ;
+- enjoindre de cesser toute pratique contraire aux dispositions de la présente loi, et prendre des mesures pour en prévenir la répétition ;
 
-6. requérir auprès du président du Tribunal d’arrondissement de et à Luxembourg statuant sur requête le gel ou la mise sous séquestre d’actifs ;
+- requérir auprès du président du Tribunal d’arrondissement de et à Luxembourg statuant sur requête le gel ou la mise sous séquestre d’actifs ;
 
-7. examiner sur une base continue les mesures mises en place par les établissements de crédit émetteurs concernés en vue du respect de l’article 2, point 2° ;
+- examiner sur une base continue les mesures mises en place par les établissements de crédit émetteurs concernés en vue du respect de l’article 2, point 2° ;
 
-8. exiger du réviseur d’entreprises agréé spécial qu’il fournisse des informations recueillies dans l’exercice de ses fonctions ;
+- exiger du réviseur d’entreprises agréé spécial qu’il fournisse des informations recueillies dans l’exercice de ses fonctions ;
 
-9. transmettre des informations au procureur d’État en vue de poursuites pénales ;
+- transmettre des informations au procureur d’État en vue de poursuites pénales ;
 
-10. instruire des réviseurs d’entreprises agréés ou des experts d’effectuer des vérifications sur place ou des enquêtes auprès des établissements de crédit émetteurs. Ces vérifications et enquêtes se font aux frais de l’établissement de crédit émetteur concerné ;
+- instruire des réviseurs d’entreprises agréés ou des experts d’effectuer des vérifications sur place ou des enquêtes auprès des établissements de crédit émetteurs. Ces vérifications et enquêtes se font aux frais de l’établissement de crédit émetteur concerné ;
 
-11. émettre une communication au public ;
+- émettre une communication au public ;
 
-12. suspendre l’émission de lettres de gage pour une durée maximale de trois mois, renouvelable si la cause de la suspension perdure, sans toutefois dépasser un total de douze mois.
+- suspendre l’émission de lettres de gage pour une durée maximale de trois mois, renouvelable si la cause de la suspension perdure, sans toutefois dépasser un total de douze mois.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -739,15 +739,15 @@ Obligations en matière de publicité
 
 La CSSF publie et tient à jour à jour sur son site internet les informations suivantes :
 
-1. les lois, règlements grand-ducaux, règlements et circulaires adoptés par la CSSF en lien avec l’émission de lettres de gage ;
+- les lois, règlements grand-ducaux, règlements et circulaires adoptés par la CSSF en lien avec l’émission de lettres de gage ;
 
-2. la liste des établissements de crédit autorisés à émettre des lettres de gage ;
+- la liste des établissements de crédit autorisés à émettre des lettres de gage ;
 
-3. la liste des lettres de gage qui ont le droit d’utiliser le label « obligation garantie européenne » ;
+- la liste des lettres de gage qui ont le droit d’utiliser le label « obligation garantie européenne » ;
 
-4. la liste des lettres de gage qui ont le droit d’utiliser le label « obligation garantie européenne (de qualité supérieure) » ;
+- la liste des lettres de gage qui ont le droit d’utiliser le label « obligation garantie européenne (de qualité supérieure) » ;
 
-5. la liste des lettres de gage autres que celles visées aux points 3° et 4°, en spécifiant les catégories visées à l’article 3, paragraphe 1 er .
+- la liste des lettres de gage autres que celles visées aux points 3° et 4°, en spécifiant les catégories visées à l’article 3, paragraphe 1 er .
 
 (2)
 
@@ -759,17 +759,17 @@ La CSSF communique à l’ABE, sur une base annuelle, les listes visées au para
 
 Les informations satisfont aux exigences suivantes :
 
-1. elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 ;
 
-2. elles sont accompagnées des métadonnées suivantes :
+- elles sont accompagnées des métadonnées suivantes :
 
-1. tous les noms de l’établissement de crédit autorisé à émettre des obligations garanties auquel les informations se rapportent ;
+  - tous les noms de l’établissement de crédit autorisé à émettre des obligations garanties auquel les informations se rapportent ;
 
-2. s’il est disponible, l’identifiant d’entité juridique de l’établissement de crédit autorisé à émettre des obligations garanties, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
+  - s’il est disponible, l’identifiant d’entité juridique de l’établissement de crédit autorisé à émettre des obligations garanties, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
 
-3. le type d’informations concerné, suivant la classification prévue par l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
+  - le type d’informations concerné, suivant la classification prévue par l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
 
-4. une mention précisant si les informations contiennent des données à caractère personnel.
+  - une mention précisant si les informations contiennent des données à caractère personnel.
 
 <a id="art-23"></a>
 ## Art. 23.
@@ -780,59 +780,59 @@ Sanctions administratives et autres mesures administratives
 
 La CSSF peut prononcer les sanctions administratives et prendre les mesures administratives visées au paragraphe 2 dans les situations suivantes :
 
-1. lorsqu’un établissement de crédit émetteur a acquis une autorisation pour un programme d’émission de lettres de gage au moyen de fausses déclarations ou par tout autre moyen irrégulier ;
+- lorsqu’un établissement de crédit émetteur a acquis une autorisation pour un programme d’émission de lettres de gage au moyen de fausses déclarations ou par tout autre moyen irrégulier ;
 
-2. lorsqu’un établissement de crédit émetteur ne remplit plus les conditions d’octroi de l’autorisation pour un programme d’émission de lettres de gage ;
+- lorsqu’un établissement de crédit émetteur ne remplit plus les conditions d’octroi de l’autorisation pour un programme d’émission de lettres de gage ;
 
-3. lorsqu’un établissement de crédit émet des lettres de gage sans y être autorisé conformément à l’article 2 ou 14 ;
+- lorsqu’un établissement de crédit émet des lettres de gage sans y être autorisé conformément à l’article 2 ou 14 ;
 
-4. lorsqu’un établissement de crédit émetteur agit en violation de l’article 5 ;
+- lorsqu’un établissement de crédit émetteur agit en violation de l’article 5 ;
 
-5. lorsqu’un établissement de crédit émetteur émet des lettres de gage qui ne respectent pas les exigences énoncées à l’article 11 ;
+- lorsqu’un établissement de crédit émetteur émet des lettres de gage qui ne respectent pas les exigences énoncées à l’article 11 ;
 
-6. lorsqu’un établissement de crédit émetteur émet des obligations garanties qui ne sont pas assorties d’une sûreté conformément à l’article 4 ;
+- lorsqu’un établissement de crédit émetteur émet des obligations garanties qui ne sont pas assorties d’une sûreté conformément à l’article 4 ;
 
-7. lorsqu’un établissement de crédit émetteur émet des lettres de gage dont les actifs de couverture ne respectent pas les exigences de l’article 3, paragraphes 1 er , 2 et 4, et des articles 6, 8 et 12, paragraphes 1 er et 2 ;
+- lorsqu’un établissement de crédit émetteur émet des lettres de gage dont les actifs de couverture ne respectent pas les exigences de l’article 3, paragraphes 1 er , 2 et 4, et des articles 6, 8 et 12, paragraphes 1 er et 2 ;
 
-8. lorsqu’un établissement de crédit émetteur assortit les obligations garanties d’actifs de couverture au sein d’une structure d’obligations garanties intragroupe en ne respectant pas les exigences de l’article 13, alinéa 1 er ;
+- lorsqu’un établissement de crédit émetteur assortit les obligations garanties d’actifs de couverture au sein d’une structure d’obligations garanties intragroupe en ne respectant pas les exigences de l’article 13, alinéa 1 er ;
 
-9. lorsqu’un établissement de crédit émetteur ne respecte pas les conditions visées à l’article 3, paragraphe 3, alinéa 2, applicables aux prêts émis par une entreprise autre qu’un établissement de crédit et acquis par l’établissement de crédit émetteur en vue de leur utilisation comme actifs de couverture ;
+- lorsqu’un établissement de crédit émetteur ne respecte pas les conditions visées à l’article 3, paragraphe 3, alinéa 2, applicables aux prêts émis par une entreprise autre qu’un établissement de crédit et acquis par l’établissement de crédit émetteur en vue de leur utilisation comme actifs de couverture ;
 
-10. lorsqu’un établissement de crédit émetteur ne respecte pas les exigences prévues à l’article 6 ;
+- lorsqu’un établissement de crédit émetteur ne respecte pas les exigences prévues à l’article 6 ;
 
-11. lorsqu’un établissement de crédit émetteur ne respecte pas les exigences relatives aux contrats dérivés prévues à l’article 7, paragraphe 3, alinéa 1 er ;
+- lorsqu’un établissement de crédit émetteur ne respecte pas les exigences relatives aux contrats dérivés prévues à l’article 7, paragraphe 3, alinéa 1 er ;
 
-12. lorsqu’un établissement de crédit émetteur ne respecte pas les exigences de ségrégation des actifs de couverture prévues à l’article 7, paragraphe 1 er , ou d’inscription des actifs de couverture dans le registre des gages visée à l’article 15 ;
+- lorsqu’un établissement de crédit émetteur ne respecte pas les exigences de ségrégation des actifs de couverture prévues à l’article 7, paragraphe 1 er , ou d’inscription des actifs de couverture dans le registre des gages visée à l’article 15 ;
 
-13. lorsqu’un établissement de crédit émetteur manque à l’obligation de transmettre des informations ou fournit des informations incomplètes ou inexactes en violation de l’article 18 ;
+- lorsqu’un établissement de crédit émetteur manque à l’obligation de transmettre des informations ou fournit des informations incomplètes ou inexactes en violation de l’article 18 ;
 
-14. lorsqu’un établissement de crédit émetteur manque de manière répétée ou persistante à l’obligation de maintenir un coussin de liquidité en violation de l’article 9, alinéas 1 er à 4 ;
+- lorsqu’un établissement de crédit émetteur manque de manière répétée ou persistante à l’obligation de maintenir un coussin de liquidité en violation de l’article 9, alinéas 1 er à 4 ;
 
-15. lorsqu’un établissement de crédit émetteur émet des lettres de gage dotées de structures d’échéance prorogeable en violation de l’article 10 ;
+- lorsqu’un établissement de crédit émetteur émet des lettres de gage dotées de structures d’échéance prorogeable en violation de l’article 10 ;
 
-16. lorsqu’un établissement de crédit émetteur manque à l’obligation de transmettre des informations ou fournit des informations incomplètes ou inexactes en violation de l’article 16, alinéas 1 er et 3 ;
+- lorsqu’un établissement de crédit émetteur manque à l’obligation de transmettre des informations ou fournit des informations incomplètes ou inexactes en violation de l’article 16, alinéas 1 er et 3 ;
 
-17. contre ceux qui font obstacle à l’exercice de ses pouvoirs de surveillance et d’enquête, qui ne donnent pas suite à ses injonctions prononcées en vertu de l’article 20, point 5°, ou qui lui auront sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 20, points 1°, 3° et 4°.
+- contre ceux qui font obstacle à l’exercice de ses pouvoirs de surveillance et d’enquête, qui ne donnent pas suite à ses injonctions prononcées en vertu de l’article 20, point 5°, ou qui lui auront sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 20, points 1°, 3° et 4°.
 
 (2)
 
 Pour les violations visées au paragraphe 1er, la CSSF peut prononcer les sanctions et prendre les mesures administratives suivantes contre l’établissement de crédit émetteur, contre les membres de l’organe de direction ou contre toute autre personne responsable de la violation :
 
-1. le retrait de l’autorisation pour un programme d’émission de lettres de gage ;
+- le retrait de l’autorisation pour un programme d’émission de lettres de gage ;
 
-2. une déclaration publique qui indique l’identité de la personne physique ou morale et la nature de la violation conformément à l’article 25 ;
+- une déclaration publique qui indique l’identité de la personne physique ou morale et la nature de la violation conformément à l’article 25 ;
 
-3. une injonction ordonnant à la personne physique ou morale de mettre un terme au comportement en cause et lui interdisant de le réitérer ;
+- une injonction ordonnant à la personne physique ou morale de mettre un terme au comportement en cause et lui interdisant de le réitérer ;
 
-4. une interdiction temporaire d’exercer des fonctions de direction au sein d’un établissement de crédit, à l’égard de tout membre de l’organe de direction de l’établissement de crédit émetteur ;
+- une interdiction temporaire d’exercer des fonctions de direction au sein d’un établissement de crédit, à l’égard de tout membre de l’organe de direction de l’établissement de crédit émetteur ;
 
-5. des amendes administratives d’un montant maximal de deux fois l’avantage retiré de la violation, si celui-ci peut être déterminé, même si ce montant dépasse les montants maximaux prévus aux points 6° et 7° ;
+- des amendes administratives d’un montant maximal de deux fois l’avantage retiré de la violation, si celui-ci peut être déterminé, même si ce montant dépasse les montants maximaux prévus aux points 6° et 7° ;
 
-6. dans le cas d’une personne physique, une amende administrative d’un montant maximal de 5 000 000 euros ;
+- dans le cas d’une personne physique, une amende administrative d’un montant maximal de 5 000 000 euros ;
 
-7. dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou 10 pour cent du chiffre d’affaires total annuel net de la personne morale tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE , le chiffre d’affaires total annuel net à prendre en considération est le chiffre d’affaires total annuel tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime ;
+- dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou 10 pour cent du chiffre d’affaires total annuel net de la personne morale tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE , le chiffre d’affaires total annuel net à prendre en considération est le chiffre d’affaires total annuel tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime ;
 
-8. prononcer l’interdiction temporaire de procéder à des émissions dans le cadre d’un programme d’émission de lettres de gage.
+- prononcer l’interdiction temporaire de procéder à des émissions dans le cadre d’un programme d’émission de lettres de gage.
 
 (3)
 
@@ -840,23 +840,23 @@ Les sanctions administratives et autres mesures administratives sont effectives,
 
 Lorsque la CSSF détermine le type de sanctions administratives ou autres mesures administratives et le niveau des sanctions pécuniaires administratives, elle tient compte de toutes les circonstances, et notamment, le cas échéant :
 
-1. de la gravité et la durée de la violation ;
+- de la gravité et la durée de la violation ;
 
-2. du degré de responsabilité de la personne physique ou morale responsable de la violation ;
+- du degré de responsabilité de la personne physique ou morale responsable de la violation ;
 
-3. de la situation financière de la personne physique ou morale responsable de la violation, telle qu’elle ressort, par exemple, du chiffre d’affaires total de la personne morale en cause ou des revenus annuels de la personne physique en cause ;
+- de la situation financière de la personne physique ou morale responsable de la violation, telle qu’elle ressort, par exemple, du chiffre d’affaires total de la personne morale en cause ou des revenus annuels de la personne physique en cause ;
 
-4. de l’importance des gains obtenus ou des pertes évitées par la personne physique ou morale responsable de la violation, dans la mesure où ils peuvent être déterminés ;
+- de l’importance des gains obtenus ou des pertes évitées par la personne physique ou morale responsable de la violation, dans la mesure où ils peuvent être déterminés ;
 
-5. des préjudices subis par des tiers du fait de la violation, dans la mesure où ils peuvent être déterminés ;
+- des préjudices subis par des tiers du fait de la violation, dans la mesure où ils peuvent être déterminés ;
 
-6. du degré de coopération avec la CSSF dont a fait preuve la personne physique ou morale responsable de la violation, sans préjudice de la nécessité de veiller à la restitution des gains obtenus ou des pertes évitées par cette personne ;
+- du degré de coopération avec la CSSF dont a fait preuve la personne physique ou morale responsable de la violation, sans préjudice de la nécessité de veiller à la restitution des gains obtenus ou des pertes évitées par cette personne ;
 
-7. des violations antérieures commises par la personne physique ou morale responsable de la violation ;
+- des violations antérieures commises par la personne physique ou morale responsable de la violation ;
 
-8. des conséquences systémiques réelles ou potentielles de la violation;
+- des conséquences systémiques réelles ou potentielles de la violation;
 
-9. des mesures prises par la personne responsable de la violation pour éviter sa répétition.
+- des mesures prises par la personne responsable de la violation pour éviter sa répétition.
 
 Les décisions prises par la CSSF dans l’exercice de ses pouvoirs de sanction sont motivées.
 
@@ -880,11 +880,11 @@ La CSSF publie sur son site internet les sanctions administratives et les autres
 
 Par dérogation au paragraphe 1er, la CSSF publie les décisions infligeant des sanctions ou des mesures administratives de manière anonyme dans chacune des situations suivantes :
 
-1. lorsque, dans le cas d’une sanction ou d’une mesure infligée à une personne physique, la publication des données à caractère personnel est jugée disproportionnée ;
+- lorsque, dans le cas d’une sanction ou d’une mesure infligée à une personne physique, la publication des données à caractère personnel est jugée disproportionnée ;
 
-2. lorsqu’une telle publication compromettrait la stabilité des marchés financiers ou une enquête pénale en cours ;
+- lorsqu’une telle publication compromettrait la stabilité des marchés financiers ou une enquête pénale en cours ;
 
-3. lorsque la publication causerait, pour autant que l’on puisse le déterminer, un préjudice disproportionné aux personnes en cause.
+- lorsque la publication causerait, pour autant que l’on puisse le déterminer, un préjudice disproportionné aux personnes en cause.
 
 Alternativement, lorsque les situations visées à l’alinéa 1er sont susceptibles de cesser d’exister dans un délai raisonnable, la publication en vertu du paragraphe 1er peut être différée pendant ce délai.
 
@@ -902,17 +902,17 @@ La CSSF informe l’ABE de toutes les sanctions administratives et des autres me
 
 Les informations satisfont aux exigences suivantes :
 
-1. elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 ;
 
-2. elles sont accompagnées des métadonnées suivantes :
+- elles sont accompagnées des métadonnées suivantes :
 
-1. tous les noms de l’établissement de crédit émetteur auquel les informations se rapportent ;
+  - tous les noms de l’établissement de crédit émetteur auquel les informations se rapportent ;
 
-2. s’il est disponible, l’identifiant d’entité juridique de l’établissement de crédit émetteur, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
+  - s’il est disponible, l’identifiant d’entité juridique de l’établissement de crédit émetteur, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
 
-3. le type d’informations concerné, suivant la classification prévue par l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
+  - le type d’informations concerné, suivant la classification prévue par l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
 
-4. une mention précisant si les informations contiennent des données à caractère personnel.
+  - une mention précisant si les informations contiennent des données à caractère personnel.
 
 <a id="art-26"></a>
 ## Art. 26.
@@ -921,11 +921,11 @@ Sanctions pénales
 
 Sont punis d’un emprisonnement de huit jours à cinq ans et d’une amende de 5 000 à 125 000 euros ou d’une de ces peines seulement, ceux qui :
 
-1. émettent ou tentent d’émettre des lettres de gage sans y être autorisés conformément à l’article 2 ;
+- émettent ou tentent d’émettre des lettres de gage sans y être autorisés conformément à l’article 2 ;
 
-2. intentionnellement, omettent de constituer ou de maintenir les actifs de couverture prévus par l’article 6, ou constituent des actifs de couverture dont ils savent qu’ils sont insuffisants ;
+- intentionnellement, omettent de constituer ou de maintenir les actifs de couverture prévus par l’article 6, ou constituent des actifs de couverture dont ils savent qu’ils sont insuffisants ;
 
-3. ne respectent pas la protection de la dénomination « lettre de gage » et des labels « obligation garantie européenne » et « obligation garantie européenne (de qualité supérieure) » prévue à l’article 27.
+- ne respectent pas la protection de la dénomination « lettre de gage » et des labels « obligation garantie européenne » et « obligation garantie européenne (de qualité supérieure) » prévue à l’article 27.
 
 #### Chapitre 4 Protection de la dénomination
 
@@ -953,7 +953,9 @@ Nul ne peut émettre au Luxembourg des lettres de gage sous le label « obligati
 <a id="art-28"></a>
 ## Art. 28.
 
-À l’article 1er de la loi modifiée du 5 avril 1993 relative au secteur financier, il est inséré un nouveau point 2ter-1, libellé comme suit : « 2ter-1)« banque d’émission de lettres de gage » : un établissement de crédit qui a comme activité principale l’activité d’émission de lettres de gage conformément à l’article 12-1 ; ».
+À l’article 1er de la loi modifiée du 5 avril 1993 relative au secteur financier, il est inséré un nouveau point 2ter-1, libellé comme suit :
+
+- « 2ter-1)« banque d’émission de lettres de gage » : un établissement de crédit qui a comme activité principale l’activité d’émission de lettres de gage conformément à l’article 12-1 ; ».
 
 <a id="art-29"></a>
 ## Art. 29.
@@ -963,20 +965,27 @@ Nul ne peut émettre au Luxembourg des lettres de gage sous le label « obligati
 <a id="art-30"></a>
 ## Art. 30.
 
-L’article 12-1 de la même loi prend la teneur suivante : « Art. 12-1. Dispositions particulières aux banques d’émission de lettres de gage. Sont des banques d’émission de lettres de gage les établissements de crédit qui ont comme activité principale l’activité d’émission de lettres de gage telle que visée à l’article 3 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage. Les banques d’émission de lettres de gage ne peuvent exercer d’autres activités que conformément à l’article 12-2. ».
+L’article 12-1 de la même loi prend la teneur suivante :
+
+<a id="art-12-1"></a>
+## « Art. 12-1.
+
+Dispositions particulières aux banques d’émission de lettres de gage.
+
+Sont des banques d’émission de lettres de gage les établissements de crédit qui ont comme activité principale l’activité d’émission de lettres de gage telle que visée à l’article 3 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage. Les banques d’émission de lettres de gage ne peuvent exercer d’autres activités que conformément à l’article 12-2. ».
 
 <a id="art-31"></a>
 ## Art. 31.
 
 L’article 12-2 de la même loi est modifié comme suit :
 
-1. Au paragraphe 1 er , alinéa 2, lettre b), les mots l’article 12-1 paragraphe (1) et les mots l’article 12-1, paragraphe (1) sont remplacés par les mots l’article 3 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage ;
+- Au paragraphe 1 er , alinéa 2, lettre b), les mots l’article 12-1 paragraphe (1) et les mots l’article 12-1, paragraphe (1) sont remplacés par les mots l’article 3 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage ;
 
-2. Au paragraphe 1 er , alinéa 2, lettre d), les mots l’article 12-1 sont remplacés par les mots l’article 3 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage ;
+- Au paragraphe 1 er , alinéa 2, lettre d), les mots l’article 12-1 sont remplacés par les mots l’article 3 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage ;
 
-3. Au paragraphe 1 er , alinéa 2, lettre e), les mots l’article 12-1 sont remplacés par les mots l’article 3 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage ;
+- Au paragraphe 1 er , alinéa 2, lettre e), les mots l’article 12-1 sont remplacés par les mots l’article 3 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage ;
 
-4. Au paragraphe 2, lettre b), les mots , lettres de gages mobilières et lettres de gage mutuelles sont remplacés par les mots et lettres de gage mobilières .
+- Au paragraphe 2, lettre b), les mots , lettres de gages mobilières et lettres de gage mutuelles sont remplacés par les mots et lettres de gage mobilières .
 
 <a id="art-32"></a>
 ## Art. 32.
@@ -993,12 +1002,18 @@ Les articles 12-3 et 12-4, et les sous-sections 2 et 3 de la partie Ire, chapitr
 <a id="art-34"></a>
 ## Art. 34.
 
-À l’article 2 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, il est inséré un nouveau paragraphe 2ter, libellé comme suit : « (2ter) La CSSF est l’autorité compétente pour la surveillance des lettres de gage, y compris des obligations garanties, et pour l’autorisation et la surveillance des programmes d’émission de lettres de gage conformément à la loi du 8 décembre 2021 relative à l’émission de lettres de gage. ».
+À l’article 2 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, il est inséré un nouveau paragraphe 2ter, libellé comme suit :
+
+« (2ter)
+
+La CSSF est l’autorité compétente pour la surveillance des lettres de gage, y compris des obligations garanties, et pour l’autorisation et la surveillance des programmes d’émission de lettres de gage conformément à la loi du 8 décembre 2021 relative à l’émission de lettres de gage. ».
 
 <a id="art-35"></a>
 ## Art. 35.
 
-À l’article 24 de la même loi, le paragraphe 1er est complété par un nouvel alinéa, libellé comme suit : « La CSSF est autorisée à prélever la contrepartie de ses frais de fonctionnement par des taxes à percevoir auprès des personnes qui sollicitent l’approbation d’un programme d’émission de lettres de gage. ».
+À l’article 24 de la même loi, le paragraphe 1er est complété par un nouvel alinéa, libellé comme suit :
+
+« La CSSF est autorisée à prélever la contrepartie de ses frais de fonctionnement par des taxes à percevoir auprès des personnes qui sollicitent l’approbation d’un programme d’émission de lettres de gage. ».
 
 #### Chapitre 3 Modification de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif
 
@@ -1007,35 +1022,205 @@ Les articles 12-3 et 12-4, et les sous-sections 2 et 3 de la partie Ire, chapitr
 
 L’article 43, paragraphe 4, de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif est modifié comme suit :
 
-1. À l’alinéa 1 er , les mots les obligations garanties telles que définies à l’article 3, point 1, de la directive (UE) 2019/2162 du Parlement européen et du Conseil du 27 novembre 2019 concernant l’émission d’obligations garanties et la surveillance publique des obligations garanties et modifiant les directives 2009/65/CE et 2014/59/UE (ci-après dénommée « directive (UE) 2019/2162 »), et pour sont insérés entre le mot pour et les mots certaines obligations , les mots avant le 8 juillet 2022 sont insérés entre les mots sont émises et par un établissement de crédit , et les mots émises avant le 8 juillet 2022 sont insérés entre les mots de ces obligations et les mots doivent être investies ;
+- À l’alinéa 1 er , les mots les obligations garanties telles que définies à l’article 3, point 1, de la directive (UE) 2019/2162 du Parlement européen et du Conseil du 27 novembre 2019 concernant l’émission d’obligations garanties et la surveillance publique des obligations garanties et modifiant les directives 2009/65/CE et 2014/59/UE (ci-après dénommée « directive (UE) 2019/2162 »), et pour sont insérés entre le mot pour et les mots certaines obligations , les mots avant le 8 juillet 2022 sont insérés entre les mots sont émises et par un établissement de crédit , et les mots émises avant le 8 juillet 2022 sont insérés entre les mots de ces obligations et les mots doivent être investies ;
 
-2. L’alinéa 3 est supprimé.
+- L’alinéa 3 est supprimé.
 
 #### Chapitre 4 Modification de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement
 
 <a id="art-37"></a>
 ## Art. 37.
 
-À l’article 1er, alinéa 1er, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement, le point 91 prend la teneur suivante : « obligation garantie » : une obligation garantie au sens de l’article 3, point 1, de la directive (UE) 2019/2162 du Parlement européen et du Conseil du 27 novembre 2019 concernant l’émission d’obligations garanties et la surveillance publique des obligations garanties et modifiant les directives 2009/65/CE et 2014/59/UE, dénommée ci-après « directive (UE) 2019/2162 », ou, en ce qui concerne un instrument qui a été émis avant le 8 juillet 2022, une obligation visée à l’article 52, paragraphe 4, de la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM), dénommée ci-après « directive 2009/65/CE » , tel qu’applicable à la date de son émission ; ».
+À l’article 1er, alinéa 1er, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement, le point 91 prend la teneur suivante :
+
+- « obligation garantie » : une obligation garantie au sens de l’article 3, point 1, de la directive (UE) 2019/2162 du Parlement européen et du Conseil du 27 novembre 2019 concernant l’émission d’obligations garanties et la surveillance publique des obligations garanties et modifiant les directives 2009/65/CE et 2014/59/UE , dénommée ci-après « directive (UE) 2019/2162 », ou, en ce qui concerne un instrument qui a été émis avant le 8 juillet 2022, une obligation visée à l’article 52, paragraphe 4, de la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM), dénommée ci-après « directive 2009/65/CE » , tel qu’applicable à la date de son émission ; ».
 
 <a id="art-38"></a>
 ## Art. 38.
 
-À l’article 35, paragraphe 1er, de la même loi, le mot et est supprimé au point 8, le point final à la fin du point 9 est remplacé par un point-virgule suivi du mot et, et il est ajouté un nouveau point 10, libellé comme suit : la mesure de résolution n’a pas pour effet de produire une exigibilité anticipée automatique, telle que définie à l’article 120, alinéa 2, point 7bis., des lettres de gage et des autres créances bénéficiant du droit de préférence visé à l’article 5 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage. ».
+À l’article 35, paragraphe 1er, de la même loi, le mot et est supprimé au point 8, le point final à la fin du point 9 est remplacé par un point-virgule suivi du mot et, et il est ajouté un nouveau point 10, libellé comme suit :
+
+- la mesure de résolution n’a pas pour effet de produire une exigibilité anticipée automatique, telle que définie à l’article 120, alinéa 2, point 7 bis. , des lettres de gage et des autres créances bénéficiant du droit de préférence visé à l’article 5 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage. ».
 
 <a id="art-39"></a>
 ## Art. 39.
 
 L’article 120, alinéa 2, de la même loi est modifié comme suit :
 
-1. Il est inséré un nouveau point 1 bis, libellé comme suit : « 1bis. « administrateur spécial » : la personne ou l’entité désignée en vertu du jugement visé à l’article 152-2, paragraphe 1er, pour administrer un ou plusieurs compartiments d’un établissement de crédit émetteur en activité limitée conformément à l’article 152-3 ; » ;
+- Il est inséré un nouveau point 1 bis, libellé comme suit : « 1bis. « administrateur spécial » : la personne ou l’entité désignée en vertu du jugement visé à l’article 152-2, paragraphe 1er, pour administrer un ou plusieurs compartiments d’un établissement de crédit émetteur en activité limitée conformément à l’article 152-3 ; » ;
 
-2. Il est inséré un nouveau point 7 bis, libellé comme suit : « 7bis. « exigibilité anticipée automatique » : une situation dans laquelle une lettre de gage devient d’office immédiatement échue et exigible en cas d’insolvabilité ou de résolution de l’établissement de crédit émetteur, et dans laquelle les investisseurs en lettres de gage ont un droit exécutoire à être remboursés de façon anticipée par rapport à l’échéance initiale ; ».
+- Il est inséré un nouveau point 7 bis, libellé comme suit : « 7bis. « exigibilité anticipée automatique » : une situation dans laquelle une lettre de gage devient d’office immédiatement échue et exigible en cas d’insolvabilité ou de résolution de l’établissement de crédit émetteur, et dans laquelle les investisseurs en lettres de gage ont un droit exécutoire à être remboursés de façon anticipée par rapport à l’échéance initiale ; ».
 
 <a id="art-40"></a>
 ## Art. 40.
 
-La partie II de la même loi est complétée par un titre V, libellé comme suit : « Titre V Dispositions particulières concernant les établissements de crédit émetteurs de lettres de gage Art. 152-2. Séparation du patrimoine de l’établissement de crédit émetteur suite au jugement de sursis de paiement ou de liquidation et maintien de l’agrément pour une activité limitée (1) Est un établissement de crédit émetteur en activité limitée un établissement de crédit émetteur au sens de l’article 1er, point 15°, de la loi du 8 décembre 2021 relative à l’émission de lettres de gage pour lequel le jugement du Tribunal prononce conformément à l’article 122 ou à l’article 129, soit le sursis de paiement soit la liquidation, qui a pour objet d’assurer la gestion des compartiments patrimoniaux visés à l’alinéa 2, point 1., du présent paragraphe, ainsi que l’exécution intégrale et à échéance des obligations résultant des lettres de gage. Le jugement du Tribunal prononçant conformément à l’article 122 ou à l’article 129, soit le sursis de paiement soit la liquidation, entraîne de plein droit la séparation du patrimoine de cet établissement de crédit émetteur comme suit : les différentes catégories de lettres de gage, avec leurs actifs de couverture, et les réserves y afférentes déposées auprès de la banque centrale, formant autant de masses séparées en vertu de l’article 7, paragraphe 1er, de la loi du 8 décembre 2021 relative à l’émission de lettres de gage, constituent autant de compartiments patrimoniaux séparés et distincts. Le patrimoine de l’établissement de crédit émetteur en activité limitée comprend également l’ensemble des sommes provenant du recouvrement, du remboursement ou du paiement des actifs ou de la réalisation des actifs de couverture inscrits dans le registre visé à l’article 15 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage ou de garanties qui, sous quelque forme et dénomination que ce soit, ont été fournies en relation avec les actifs de couverture. Ces compartiments patrimoniaux séparés n’ont pas de personnalité juridique distincte de celle de l’établissement de crédit émetteur en activité limitée. Aux compartiments patrimoniaux s’appliquent les garanties et droit de préférence des investisseurs en lettres de gage et contreparties de contrats dérivés qui respectent les conditions de l’article 7, paragraphe 3, de la loi du 8 décembre 2021 relative à l’émission de lettres de gage, prévus à l’article 5 de la loi précitée du 8 décembre 2021. Les titres II et III de la présente partie ne s’appliquent pas aux compartiments patrimoniaux de l’établissement de crédit émetteur en activité limitée ; la masse restante d’un établissement de crédit émetteur visé à l’article 2, point 2°, de la loi du 8 décembre 2021 relative à l’émission de lettres de gage, liée à l’activité autre que l’activité d’émission de lettres de gage ou, pour les banques d’émission de lettres de gage visées à l’article 1er, point 2ter-1), de la loi modifiée du 5 avril 1993 relative au secteur financier, l’activité accessoire visée à l’article 12-2 de la loi modifiée du 5 avril 1993 relative au secteur financier. Les titres II et III de la présente partie s’appliquent à cette masse restante. La liquidation de la masse restante de l’établissement de crédit émetteur ne pourra le cas échéant pas être clôturée, aussi longtemps que la liquidation du ou des compartiments patrimoniaux n’aura pas été terminée. (2) Aucun actif de couverture lié à un quelconque compartiment patrimonial ne fait partie de la masse restante de l’établissement de crédit émetteur visée au paragraphe 1er, alinéa 2, point 2., jusqu’à ce que les créances privilégiées visées à l’article 5 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage, ont été satisfaites, dans la limite du montant total des obligations de paiement associées aux lettres de gage. (3) Nonobstant les dispositions de l’article 450 du Code de commerce, le jugement visé au paragraphe 1er n’a pas pour effet de produire une exigibilité anticipée automatique des lettres de gage et des autres créances bénéficiant du droit de préférence visé à l’article 5 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage, à moins que le compartiment patrimonial ne fasse l’objet d’une procédure de liquidation au titre de l’article 152-5. Les dispositions des articles 444, alinéa 2, et 445 du Code de commerce ne sont pas applicables aux contrats conclus par ou avec l’établissement de crédit émetteur, ni aux actes juridiques accomplis par l’établissement de crédit émetteur ou à son profit, lorsque ces contrats ou ces actes sont directement liés aux opérations prévues à l’article 3 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage et aux contrats dérivés s’y rapportant. (4) Sauf décision contraire de la Banque centrale européenne, l’agrément initial de l’établissement de crédit émetteur délivré en vertu de l’article 2 de la loi modifiée du 5 avril 1993 relative au secteur financier est maintenu de plein droit dans le chef de l’établissement de crédit émetteur en activité limitée pour l’exécution de son objet défini au paragraphe 1er, alinéa 1er. Les établissements de crédit émetteurs en activité limitée restent soumis au respect des dispositions légales et réglementaires qui sont applicables aux établissements de crédit émetteurs. (5) Lorsque le Tribunal, en application des articles 152-4 ou 152-5, ouvre une procédure de sursis de paiement ou de liquidation à l’égard d’un compartiment patrimonial, l’établissement de crédit émetteur en activité limitée poursuit son activité avec les compartiments patrimoniaux restants. Art. 152-3. Administration des compartiments patrimoniaux d’un établissement de crédit émetteur en activité limitée (1) Le jugement visé à l’article 152-2, paragraphe 1er, nomme pour l’établissement de crédit émetteur en activité limitée, un ou plusieurs administrateurs spéciaux agissant collégialement, pour garantir le respect des droits et intérêts des investisseurs en lettres de gage, pour effectuer les opérations nécessaires à la bonne administration et pour assurer la gestion continue et rigoureuse du ou des compartiments patrimoniaux de l’établissement de crédit émetteur en activité limitée, et pour exécuter les obligations résultant des lettres de gage y liées à leurs échéances respectives. La fonction de l’administrateur spécial est exercée aussi longtemps que les procédures d’assainissement ou de liquidation qui sont mises en œuvre à la suite du jugement visé à l’article 152-2, paragraphe 1er, produisent leurs effets. (2) À la requête de la CSSF, le jugement peut prévoir une liste de fonctions et de ressources, techniques ou humaines, essentielles et nécessaires pour l’administration du ou des compartiments patrimoniaux de l’établissement de crédit émetteur en activité limitée auxquelles l’administrateur spécial peut recourir. (3) L’administrateur spécial exerce la fonction de gestionnaire pour les compartiments patrimoniaux de l’établissement de crédit émetteur en activité limitée visés à l’article 152-2, paragraphe 1er, alinéa 2, point 1., qui ne font pas l’objet d’une mesure au titre des articles 152-4 ou 152-5. Il représente judiciairement et extrajudiciairement l’établissement de crédit émetteur en activité limitée ainsi que ses compartiments patrimoniaux, y compris à l’égard de l’administrateur ou du liquidateur de la masse visée à l’article 152-2, paragraphe 1er, alinéa 2, point 2. (4) L’administrateur spécial présente toutes les garanties d’honorabilité et de qualification professionnelles. Le Tribunal nomme l’administrateur spécial visé au paragraphe 1er après avoir entendu la CSSF quant au respect des garanties d’honorabilité et de qualification professionnelles dans le chef de l’administrateur spécial. Le Tribunal révoque l’administrateur spécial sur requête de la CSSF. La rémunération de l’administrateur spécial est fixée par le Tribunal. La rémunération de l’administrateur spécial et les frais autres en relation avec l’administration sont garantis par un privilège précédant les autres créances, y compris celui des investisseurs en lettres de gage. La responsabilité de l’administrateur spécial est régie selon les dispositions relatives à la responsabilité des administrateurs. La rémunération en contrepartie des services fournis par l’administrateur spécial conformément au paragraphe 2, de même que les frais autres en relation avec l’administration, sont supportés par l’établissement de crédit émetteur en activité limitée. L’administrateur spécial informe régulièrement, et au moins tous les six mois ou à leur demande, la CSSF et le Tribunal de l’état de sa mission. L’administrateur spécial établit un bilan au moment de son entrée en fonction. Il établit annuellement un bilan et un rapport sur la situation de l’établissement de crédit émetteur en activité limitée ainsi que sur les compartiments patrimoniaux. (5) La gestion d’un compartiment patrimonial se fait de manière indépendante et distincte dans le seul intérêt des investisseurs en lettres de gage. L’administrateur spécial gère les actifs de couverture, exerce au fur et à mesure de leurs échéances les droits des investisseurs en lettres de gage sur les actifs de couverture au nom des investisseurs en lettres de gage et au nom de l’établissement de crédit émetteur, au nom ou pour le compte duquel ces actifs sont détenus par des tiers ou inscrits ou enregistrés auprès de tiers ou sur des registres publics. (6) Sans préjudice des modalités prévues par le jugement qui le nomme, et sans préjudice des pouvoirs de la CSSF, l’administrateur spécial pose tous les actes par rapport à l’établissement de crédit émetteur en activité limitée pour autant que ceux-ci soient nécessaires à la gestion des compartiments patrimoniaux et que ces actes soient dans l’intérêt du paiement intégral à l’échéance respective des lettres de gage. L’administrateur spécial peut émettre de nouvelles lettres de gage pour le compte de l’établissement de crédit émetteur en activité limitée. L’administrateur spécial peut lancer des procédures visant à réincorporer des actifs dans les masses de couverture. L’administrateur spécial peut transférer des actifs de couverture résiduels vers la masse restante de l’établissement de crédit émetteur en activité limitée, après que tous les engagements liés aux lettres de gage ont été apurés. (7) L’administrateur spécial peut conclure avec un établissement de crédit faisant l’objet d’une surveillance publique des obligations garanties, telle que prévue à l’article 3, point 18, de la directive (UE) 2019/2162, par une autorité compétente d’un État membre de l’Union européenne ou de l’Espace économique européen, un contrat de service portant sur la gestion des lettres de gage et la réalisation des actifs de couverture au fur et à mesure des échéances des lettres de gage. La validité de ce contrat de service est soumise à une approbation préalable et écrite de la CSSF. L’administrateur spécial peut transférer l’ensemble constitué par les lettres de gage et les actifs de couverture à un tel établissement de crédit. Ce transfert est soumis à l’autorisation préalable et écrite de la CSSF. Sur requête de l’administrateur spécial et préalablement au transfert, le Tribunal doit homologuer le transfert, la CSSF et l’administrateur spécial préalablement entendus. Le Tribunal statue à bref délai. Le contrat établi par acte authentique, conclu au nom et pour le compte de l’établissement de crédit émetteur en activité limitée par l’administrateur spécial avec l’établissement à qui les compartiments patrimoniaux sont transférés, doit au moins couvrir les points suivants : le nom, le siège et l’adresse des parties cédantes et cessionnaires ; l’accord concernant le transfert de la globalité des actifs inscrits dans le registre ainsi que les obligations résultant des lettres de gage ainsi que leurs contreparties le cas échéant ; une description détaillée des actifs à transférer et des obligations résultant des lettres de gage. L’administrateur spécial et le représentant de l’établissement de crédit cessionnaire inscrivent le transfert dans les registres du commerce et des sociétés du siège du cédant et du cessionnaire. Une copie authentique de l’accord de transfert est jointe à l’inscription. L’inscription doit se faire dans le registre de commerce et des sociétés du cessionnaire, ensuite dans le registre du cédant. L’inscription est publiée au Recueil électronique des sociétés et associations. L’inscription de la cession dans le registre de commerce et des sociétés du siège du cédant entraîne le transfert des actifs et obligations contenus dans le contrat de transfert. (8) La CSSF continue d’exercer sa mission de surveillance ainsi que la plénitude des pouvoirs dont elle dispose à l’égard d’établissements de crédit émetteurs en vertu de la loi modifiée du 5 avril 1993 relative au secteur financier et de la loi du 8 décembre 2021 relative à l’émission de lettres de gage par rapport à l’établissement de crédit émetteur en activité limitée et par rapport à l’administrateur spécial. (9) La CSSF peut échanger toutes informations qu’elle juge utile avec l’administrateur spécial aux fins de l’accomplissement de leurs missions respectives. Art. 152-4. Sursis de paiement d’un compartiment patrimonial (1) Si un compartiment patrimonial d’un établissement de crédit émetteur en activité limitée se trouve dans une situation où sa liquidité est menacée, son engagement face aux investisseurs en lettres de gage est compromis, ou l’exécution de la mission de l’administrateur spécial visé à l’article 152-3 est compromise en raison de la situation économique du compartiment patrimonial, le Tribunal peut prononcer, à la requête de la CSSF, de l’administrateur spécial nommé en application de l’article 152-3 ou du Parquet, la CSSF préalablement avertie, le sursis de paiement par rapport à ce compartiment patrimonial. (2) Le jugement visé au paragraphe 1er nomme un administrateur, tel que visé à l’article 122, paragraphe 14, pour ce compartiment patrimonial. Le jugement peut également indiquer une période renouvelable de sursis de paiement, ainsi que les conditions et les modalités du sursis de paiement. (3) L’administrateur peut proroger la date de l’échéance initialement fixée visant le paiement du principal et des intérêts des lettres de gage pour une durée maximale d’un mois, si l’échéance initiale se trouvait endéans une période d’un mois suivant la nomination de l’administrateur en vertu du jugement visé au paragraphe 1er. L’administrateur peut proroger la date de l’échéance initiale du paiement du principal pour une durée maximale de douze mois, en prenant en compte, le cas échéant, la prorogation d’un mois prévue à l’alinéa 1er, à condition que : la prorogation de l’échéance permet d’éviter l’insolvabilité du compartiment patrimonial concerné ; et il existe des raisons objectives qui sont susceptibles de démontrer que la prorogation de l’échéance permettra de respecter la nouvelle échéance. Toute prorogation de l’échéance prévue au présent paragraphe doit être autorisée au préalable par le Tribunal statuant à bref délai sur la requête de l’administrateur, la CSSF et l’administrateur préalablement entendus. La durée d’une prorogation de la date de l’échéance est fonction du délai nécessaire pour atteindre les objectifs visés à l’alinéa 2, points 1. et 2. La prorogation de la date de l’échéance initiale n’affecte pas le classement des investisseurs en lettres de gage et n’inverse pas l’ordre de l’échéancier initial du programme d’émission de lettres de gage. Pour maintenir le classement des investisseurs en lettres de gage ou l’ordre de l’échéancier, l’administrateur proroge dans la même proportion les lettres de gage qui viennent à échéance pendant la durée de la prorogation. La prorogation d’une échéance n’affecte pas les caractéristiques structurelles des lettres de gage pour ce qui est du double recours visé à l’article 5 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage et de l’absence d’une exigibilité anticipée automatique. Lorsque l’administrateur proroge la date de l’échéance initiale du paiement du principal conformément aux dispositions du présent paragraphe, il est tenu compte de la nouvelle échéance aux fins du calcul visé à l’article 9. (4) Sans préjudice des dispositions du présent article, les dispositions prévues aux articles 122, paragraphes 2 à 24, à l’exception du paragraphe 10, 123 et 124 sont applicables pour le sursis de paiement d’un compartiment patrimonial. Art. 152-5. Dissolution et liquidation d’un compartiment patrimonial (1) La dissolution et la liquidation d’un compartiment patrimonial d’un établissement de crédit émetteur en activité limitée peuvent intervenir lorsque : il appert que le régime de sursis de paiement prévu par l’article 152-4, antérieurement décidé ne permet pas de redresser la situation qui a justifié celui-ci ; sa liquidité est irrémédiablement menacée ; ou que ses engagements à l’égard investisseurs en lettres de gage ne peuvent plus être satisfaits. (2) Seuls la CSSF ou le Parquet, la CSSF dûment appelée en cause, peuvent demander au Tribunal de prononcer la dissolution et la liquidation visée au paragraphe 1er. (3) Sans préjudice des dispositions du présent article, l’article 129, paragraphes 2 à 20, est applicable pour la liquidation d’un compartiment patrimonial d’un établissement de crédit émetteur en activité limitée. (4) Si la créance privilégiée visée à l’article 5 de la loi du 8 décembre 2021 relative aux lettres de gage ne peut être entièrement satisfaite dans le cadre de la procédure de liquidation ouverte visée aux paragraphes 2 et 3 du présent article, les investisseurs en lettres de gage et les contreparties de contrats dérivés respectant l’article 7, paragraphe 3, de la loi du 8 décembre 2021 relative à l’émission de lettres de gage disposent d’une créance sur la masse restante visée à l’article 152-2, paragraphe 1er, alinéa 2, point 2, qui aura le même rang que celui des créances des créanciers ordinaires non garantis de l’établissement de crédit. ».
+La partie II de la même loi est complétée par un titre V, libellé comme suit :
+
+### « Titre V Dispositions particulières concernant les établissements de crédit émetteurs de lettres de gage
+
+<a id="art-152-2"></a>
+## Art. 152-2.
+
+Séparation du patrimoine de l’établissement de crédit émetteur suite au jugement de sursis de paiement ou de liquidation et maintien de l’agrément pour une activité limitée
+
+(1)
+
+Est un établissement de crédit émetteur en activité limitée un établissement de crédit émetteur au sens de l’article 1er, point 15°, de la loi du 8 décembre 2021 relative à l’émission de lettres de gage pour lequel le jugement du Tribunal prononce conformément à l’article 122 ou à l’article 129, soit le sursis de paiement soit la liquidation, qui a pour objet d’assurer la gestion des compartiments patrimoniaux visés à l’alinéa 2, point 1., du présent paragraphe, ainsi que l’exécution intégrale et à échéance des obligations résultant des lettres de gage.
+
+Le jugement du Tribunal prononçant conformément à l’article 122 ou à l’article 129, soit le sursis de paiement soit la liquidation, entraîne de plein droit la séparation du patrimoine de cet établissement de crédit émetteur comme suit :
+
+- les différentes catégories de lettres de gage, avec leurs actifs de couverture, et les réserves y afférentes déposées auprès de la banque centrale, formant autant de masses séparées en vertu de l’article 7, paragraphe 1 er , de la loi du 8 décembre 2021 relative à l’émission de lettres de gage, constituent autant de compartiments patrimoniaux séparés et distincts. Le patrimoine de l’établissement de crédit émetteur en activité limitée comprend également l’ensemble des sommes provenant du recouvrement, du remboursement ou du paiement des actifs ou de la réalisation des actifs de couverture inscrits dans le registre visé à l’article 15 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage ou de garanties qui, sous quelque forme et dénomination que ce soit, ont été fournies en relation avec les actifs de couverture. Ces compartiments patrimoniaux séparés n’ont pas de personnalité juridique distincte de celle de l’établissement de crédit émetteur en activité limitée. Aux compartiments patrimoniaux s’appliquent les garanties et droit de préférence des investisseurs en lettres de gage et contreparties de contrats dérivés qui respectent les conditions de l’article 7, paragraphe 3, de la loi du 8 décembre 2021 relative à l’émission de lettres de gage, prévus à l’article 5 de la loi précitée du 8 décembre 2021 . Les titres II et III de la présente partie ne s’appliquent pas aux compartiments patrimoniaux de l’établissement de crédit émetteur en activité limitée ;
+
+- la masse restante d’un établissement de crédit émetteur visé à l’article 2, point 2°, de la loi du 8 décembre 2021 relative à l’émission de lettres de gage, liée à l’activité autre que l’activité d’émission de lettres de gage ou, pour les banques d’émission de lettres de gage visées à l’article 1 er , point 2 ter -1), de la loi modifiée du 5 avril 1993 relative au secteur financier, l’activité accessoire visée à l’article 12-2 de la loi modifiée du 5 avril 1993 relative au secteur financier. Les titres II et III de la présente partie s’appliquent à cette masse restante.
+
+La liquidation de la masse restante de l’établissement de crédit émetteur ne pourra le cas échéant pas être clôturée, aussi longtemps que la liquidation du ou des compartiments patrimoniaux n’aura pas été terminée.
+
+(2)
+
+Aucun actif de couverture lié à un quelconque compartiment patrimonial ne fait partie de la masse restante de l’établissement de crédit émetteur visée au paragraphe 1er, alinéa 2, point 2., jusqu’à ce que les créances privilégiées visées à l’article 5 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage, ont été satisfaites, dans la limite du montant total des obligations de paiement associées aux lettres de gage.
+
+(3)
+
+Nonobstant les dispositions de l’article 450 du Code de commerce, le jugement visé au paragraphe 1er n’a pas pour effet de produire une exigibilité anticipée automatique des lettres de gage et des autres créances bénéficiant du droit de préférence visé à l’article 5 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage, à moins que le compartiment patrimonial ne fasse l’objet d’une procédure de liquidation au titre de l’article 152-5.
+
+Les dispositions des articles 444, alinéa 2, et 445 du Code de commerce ne sont pas applicables aux contrats conclus par ou avec l’établissement de crédit émetteur, ni aux actes juridiques accomplis par l’établissement de crédit émetteur ou à son profit, lorsque ces contrats ou ces actes sont directement liés aux opérations prévues à l’article 3 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage et aux contrats dérivés s’y rapportant.
+
+(4)
+
+Sauf décision contraire de la Banque centrale européenne, l’agrément initial de l’établissement de crédit émetteur délivré en vertu de l’article 2 de la loi modifiée du 5 avril 1993 relative au secteur financier est maintenu de plein droit dans le chef de l’établissement de crédit émetteur en activité limitée pour l’exécution de son objet défini au paragraphe 1er, alinéa 1er. Les établissements de crédit émetteurs en activité limitée restent soumis au respect des dispositions légales et réglementaires qui sont applicables aux établissements de crédit émetteurs.
+
+(5)
+
+Lorsque le Tribunal, en application des articles 152-4 ou 152-5, ouvre une procédure de sursis de paiement ou de liquidation à l’égard d’un compartiment patrimonial, l’établissement de crédit émetteur en activité limitée poursuit son activité avec les compartiments patrimoniaux restants.
+
+<a id="art-152-3"></a>
+## Art. 152-3.
+
+Administration des compartiments patrimoniaux d’un établissement de crédit émetteur en activité limitée
+
+(1)
+
+Le jugement visé à l’article 152-2, paragraphe 1er, nomme pour l’établissement de crédit émetteur en activité limitée, un ou plusieurs administrateurs spéciaux agissant collégialement, pour garantir le respect des droits et intérêts des investisseurs en lettres de gage, pour effectuer les opérations nécessaires à la bonne administration et pour assurer la gestion continue et rigoureuse du ou des compartiments patrimoniaux de l’établissement de crédit émetteur en activité limitée, et pour exécuter les obligations résultant des lettres de gage y liées à leurs échéances respectives. La fonction de l’administrateur spécial est exercée aussi longtemps que les procédures d’assainissement ou de liquidation qui sont mises en œuvre à la suite du jugement visé à l’article 152-2, paragraphe 1er, produisent leurs effets.
+
+(2)
+
+À la requête de la CSSF, le jugement peut prévoir une liste de fonctions et de ressources, techniques ou humaines, essentielles et nécessaires pour l’administration du ou des compartiments patrimoniaux de l’établissement de crédit émetteur en activité limitée auxquelles l’administrateur spécial peut recourir.
+
+(3)
+
+L’administrateur spécial exerce la fonction de gestionnaire pour les compartiments patrimoniaux de l’établissement de crédit émetteur en activité limitée visés à l’article 152-2, paragraphe 1er, alinéa 2, point 1., qui ne font pas l’objet d’une mesure au titre des articles 152-4 ou 152-5. Il représente judiciairement et extrajudiciairement l’établissement de crédit émetteur en activité limitée ainsi que ses compartiments patrimoniaux, y compris à l’égard de l’administrateur ou du liquidateur de la masse visée à l’article 152-2, paragraphe 1er, alinéa 2, point 2.
+
+(4)
+
+L’administrateur spécial présente toutes les garanties d’honorabilité et de qualification professionnelles. Le Tribunal nomme l’administrateur spécial visé au paragraphe 1er après avoir entendu la CSSF quant au respect des garanties d’honorabilité et de qualification professionnelles dans le chef de l’administrateur spécial. Le Tribunal révoque l’administrateur spécial sur requête de la CSSF. La rémunération de l’administrateur spécial est fixée par le Tribunal. La rémunération de l’administrateur spécial et les frais autres en relation avec l’administration sont garantis par un privilège précédant les autres créances, y compris celui des investisseurs en lettres de gage. La responsabilité de l’administrateur spécial est régie selon les dispositions relatives à la responsabilité des administrateurs. La rémunération en contrepartie des services fournis par l’administrateur spécial conformément au paragraphe 2, de même que les frais autres en relation avec l’administration, sont supportés par l’établissement de crédit émetteur en activité limitée.
+
+L’administrateur spécial informe régulièrement, et au moins tous les six mois ou à leur demande, la CSSF et le Tribunal de l’état de sa mission. L’administrateur spécial établit un bilan au moment de son entrée en fonction. Il établit annuellement un bilan et un rapport sur la situation de l’établissement de crédit émetteur en activité limitée ainsi que sur les compartiments patrimoniaux.
+
+(5)
+
+La gestion d’un compartiment patrimonial se fait de manière indépendante et distincte dans le seul intérêt des investisseurs en lettres de gage. L’administrateur spécial gère les actifs de couverture, exerce au fur et à mesure de leurs échéances les droits des investisseurs en lettres de gage sur les actifs de couverture au nom des investisseurs en lettres de gage et au nom de l’établissement de crédit émetteur, au nom ou pour le compte duquel ces actifs sont détenus par des tiers ou inscrits ou enregistrés auprès de tiers ou sur des registres publics.
+
+(6)
+
+Sans préjudice des modalités prévues par le jugement qui le nomme, et sans préjudice des pouvoirs de la CSSF, l’administrateur spécial pose tous les actes par rapport à l’établissement de crédit émetteur en activité limitée pour autant que ceux-ci soient nécessaires à la gestion des compartiments patrimoniaux et que ces actes soient dans l’intérêt du paiement intégral à l’échéance respective des lettres de gage.
+
+L’administrateur spécial peut émettre de nouvelles lettres de gage pour le compte de l’établissement de crédit émetteur en activité limitée.
+
+L’administrateur spécial peut lancer des procédures visant à réincorporer des actifs dans les masses de couverture.
+
+L’administrateur spécial peut transférer des actifs de couverture résiduels vers la masse restante de l’établissement de crédit émetteur en activité limitée, après que tous les engagements liés aux lettres de gage ont été apurés.
+
+(7)
+
+L’administrateur spécial peut conclure avec un établissement de crédit faisant l’objet d’une surveillance publique des obligations garanties, telle que prévue à l’article 3, point 18, de la directive (UE) 2019/2162, par une autorité compétente d’un État membre de l’Union européenne ou de l’Espace économique européen, un contrat de service portant sur la gestion des lettres de gage et la réalisation des actifs de couverture au fur et à mesure des échéances des lettres de gage. La validité de ce contrat de service est soumise à une approbation préalable et écrite de la CSSF.
+
+L’administrateur spécial peut transférer l’ensemble constitué par les lettres de gage et les actifs de couverture à un tel établissement de crédit. Ce transfert est soumis à l’autorisation préalable et écrite de la CSSF.
+
+Sur requête de l’administrateur spécial et préalablement au transfert, le Tribunal doit homologuer le transfert, la CSSF et l’administrateur spécial préalablement entendus. Le Tribunal statue à bref délai.
+
+Le contrat établi par acte authentique, conclu au nom et pour le compte de l’établissement de crédit émetteur en activité limitée par l’administrateur spécial avec l’établissement à qui les compartiments patrimoniaux sont transférés, doit au moins couvrir les points suivants :
+
+- le nom, le siège et l’adresse des parties cédantes et cessionnaires ;
+
+- l’accord concernant le transfert de la globalité des actifs inscrits dans le registre ainsi que les obligations résultant des lettres de gage ainsi que leurs contreparties le cas échéant ;
+
+- une description détaillée des actifs à transférer et des obligations résultant des lettres de gage.
+
+L’administrateur spécial et le représentant de l’établissement de crédit cessionnaire inscrivent le transfert dans les registres du commerce et des sociétés du siège du cédant et du cessionnaire. Une copie authentique de l’accord de transfert est jointe à l’inscription. L’inscription doit se faire dans le registre de commerce et des sociétés du cessionnaire, ensuite dans le registre du cédant. L’inscription est publiée au Recueil électronique des sociétés et associations.
+
+L’inscription de la cession dans le registre de commerce et des sociétés du siège du cédant entraîne le transfert des actifs et obligations contenus dans le contrat de transfert.
+
+(8)
+
+La CSSF continue d’exercer sa mission de surveillance ainsi que la plénitude des pouvoirs dont elle dispose à l’égard d’établissements de crédit émetteurs en vertu de la loi modifiée du 5 avril 1993 relative au secteur financier et de la loi du 8 décembre 2021 relative à l’émission de lettres de gage par rapport à l’établissement de crédit émetteur en activité limitée et par rapport à l’administrateur spécial.
+
+(9)
+
+La CSSF peut échanger toutes informations qu’elle juge utile avec l’administrateur spécial aux fins de l’accomplissement de leurs missions respectives.
+
+<a id="art-152-4"></a>
+## Art. 152-4.
+
+Sursis de paiement d’un compartiment patrimonial
+
+(1)
+
+Si un compartiment patrimonial d’un établissement de crédit émetteur en activité limitée se trouve dans une situation où sa liquidité est menacée, son engagement face aux investisseurs en lettres de gage est compromis, ou l’exécution de la mission de l’administrateur spécial visé à l’article 152-3 est compromise en raison de la situation économique du compartiment patrimonial, le Tribunal peut prononcer, à la requête de la CSSF, de l’administrateur spécial nommé en application de l’article 152-3 ou du Parquet, la CSSF préalablement avertie, le sursis de paiement par rapport à ce compartiment patrimonial.
+
+(2)
+
+Le jugement visé au paragraphe 1er nomme un administrateur, tel que visé à l’article 122, paragraphe 14, pour ce compartiment patrimonial. Le jugement peut également indiquer une période renouvelable de sursis de paiement, ainsi que les conditions et les modalités du sursis de paiement.
+
+(3)
+
+L’administrateur peut proroger la date de l’échéance initialement fixée visant le paiement du principal et des intérêts des lettres de gage pour une durée maximale d’un mois, si l’échéance initiale se trouvait endéans une période d’un mois suivant la nomination de l’administrateur en vertu du jugement visé au paragraphe 1er.
+
+L’administrateur peut proroger la date de l’échéance initiale du paiement du principal pour une durée maximale de douze mois, en prenant en compte, le cas échéant, la prorogation d’un mois prévue à l’alinéa 1er, à condition que :
+
+- la prorogation de l’échéance permet d’éviter l’insolvabilité du compartiment patrimonial concerné ; et
+
+- il existe des raisons objectives qui sont susceptibles de démontrer que la prorogation de l’échéance permettra de respecter la nouvelle échéance.
+
+Toute prorogation de l’échéance prévue au présent paragraphe doit être autorisée au préalable par le Tribunal statuant à bref délai sur la requête de l’administrateur, la CSSF et l’administrateur préalablement entendus.
+
+La durée d’une prorogation de la date de l’échéance est fonction du délai nécessaire pour atteindre les objectifs visés à l’alinéa 2, points 1. et 2.
+
+La prorogation de la date de l’échéance initiale n’affecte pas le classement des investisseurs en lettres de gage et n’inverse pas l’ordre de l’échéancier initial du programme d’émission de lettres de gage. Pour maintenir le classement des investisseurs en lettres de gage ou l’ordre de l’échéancier, l’administrateur proroge dans la même proportion les lettres de gage qui viennent à échéance pendant la durée de la prorogation.
+
+La prorogation d’une échéance n’affecte pas les caractéristiques structurelles des lettres de gage pour ce qui est du double recours visé à l’article 5 de la loi du 8 décembre 2021 relative à l’émission de lettres de gage et de l’absence d’une exigibilité anticipée automatique.
+
+Lorsque l’administrateur proroge la date de l’échéance initiale du paiement du principal conformément aux dispositions du présent paragraphe, il est tenu compte de la nouvelle échéance aux fins du calcul visé à l’article 9.
+
+(4)
+
+Sans préjudice des dispositions du présent article, les dispositions prévues aux articles 122, paragraphes 2 à 24, à l’exception du paragraphe 10, 123 et 124 sont applicables pour le sursis de paiement d’un compartiment patrimonial.
+
+<a id="art-152-5"></a>
+## Art. 152-5.
+
+Dissolution et liquidation d’un compartiment patrimonial
+
+(1)
+
+La dissolution et la liquidation d’un compartiment patrimonial d’un établissement de crédit émetteur en activité limitée peuvent intervenir lorsque :
+
+- il appert que le régime de sursis de paiement prévu par l’article 152-4, antérieurement décidé ne permet pas de redresser la situation qui a justifié celui-ci ;
+
+- sa liquidité est irrémédiablement menacée ; ou que
+
+- ses engagements à l’égard investisseurs en lettres de gage ne peuvent plus être satisfaits.
+
+(2)
+
+Seuls la CSSF ou le Parquet, la CSSF dûment appelée en cause, peuvent demander au Tribunal de prononcer la dissolution et la liquidation visée au paragraphe 1er.
+
+(3)
+
+Sans préjudice des dispositions du présent article, l’article 129, paragraphes 2 à 20, est applicable pour la liquidation d’un compartiment patrimonial d’un établissement de crédit émetteur en activité limitée.
+
+(4)
+
+Si la créance privilégiée visée à l’article 5 de la loi du 8 décembre 2021 relative aux lettres de gage ne peut être entièrement satisfaite dans le cadre de la procédure de liquidation ouverte visée aux paragraphes 2 et 3 du présent article, les investisseurs en lettres de gage et les contreparties de contrats dérivés respectant l’article 7, paragraphe 3, de la loi du 8 décembre 2021 relative à l’émission de lettres de gage disposent d’une créance sur la masse restante visée à l’article 152-2, paragraphe 1er, alinéa 2, point 2, qui aura le même rang que celui des créances des créanciers ordinaires non garantis de l’établissement de crédit. ».
 
 #### Chapitre 5 Dispositions transitoires et finales
 
@@ -1053,7 +1238,9 @@ La CSSF contrôle le respect, par les lettres de gage et les banques d’émissi
 
 Intitulé de citation
 
-La référence à la présente loi se fait sous la forme suivante : « loi du 8 décembre 2021 relative à l’émission de lettres de gage ».
+La référence à la présente loi se fait sous la forme suivante :
+
+« loi du 8 décembre 2021 relative à l’émission de lettres de gage ».
 
 <a id="art-43"></a>
 ## Art. 43.

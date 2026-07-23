@@ -37,13 +37,13 @@ Le présent règlement grand-ducal établit des mesures pour la protection des a
 
 A cet effet, il fixe des règles relatives aux aspects suivants:
 
-1. le remplacement et la réduction de l’utilisation d’animaux dans les procédures et le raffinement des conditions d’élevage, d’hébergement, de soins et d’utilisation des animaux dans ces procédures;
+- le remplacement et la réduction de l’utilisation d’animaux dans les procédures et le raffinement des conditions d’élevage, d’hébergement, de soins et d’utilisation des animaux dans ces procédures;
 
-2. l’origine, l’élevage, le marquage, les soins, l’hébergement et la mise à mort des animaux;
+- l’origine, l’élevage, le marquage, les soins, l’hébergement et la mise à mort des animaux;
 
-3. les opérations des éleveurs, fournisseurs et utilisateurs;
+- les opérations des éleveurs, fournisseurs et utilisateurs;
 
-4. l’évaluation et l’autorisation de projets impliquant l’utilisation d’animaux dans des procédures.
+- l’évaluation et l’autorisation de projets impliquant l’utilisation d’animaux dans des procédures.
 
 2.
 
@@ -55,13 +55,13 @@ Le présent règlement grand-ducal s’applique jusqu’à ce que les animaux vi
 
 Le présent règlement grand-ducal s’applique aux animaux suivants:
 
-1. animaux vertébrés non humains vivants, y compris:
+- animaux vertébrés non humains vivants, y compris:
 
-1. les formes larvaires autonomes; et
+  - les formes larvaires autonomes; et
 
-2. les formes fœtales de mammifères à partir du dernier tiers de leur développement normal;
+  - les formes fœtales de mammifères à partir du dernier tiers de leur développement normal;
 
-2. les céphalopodes vivants.
+- les céphalopodes vivants.
 
 4.
 
@@ -71,17 +71,17 @@ Le présent règlement grand-ducal s’applique aux animaux qui sont utilisés d
 
 Le présent règlement grand-ducal ne s’applique pas:
 
-1. aux actes pratiqués dans les exploitations agricoles à des fins non expérimentales;
+- aux actes pratiqués dans les exploitations agricoles à des fins non expérimentales;
 
-2. à la pratique de la médecine vétérinaire à des fins non expérimentales;
+- à la pratique de la médecine vétérinaire à des fins non expérimentales;
 
-3. aux essais cliniques vétérinaires nécessaires aux fins d’une autorisation de mise sur le marché d’un médicament vétérinaire;
+- aux essais cliniques vétérinaires nécessaires aux fins d’une autorisation de mise sur le marché d’un médicament vétérinaire;
 
-4. aux actes pratiqués à des fins d’élevage reconnues;
+- aux actes pratiqués à des fins d’élevage reconnues;
 
-5. aux actes pratiqués dans le but premier d’identifier un animal;
+- aux actes pratiqués dans le but premier d’identifier un animal;
 
-6. aux pratiques qui ne sont pas susceptibles de causer une douleur, une souffrance, une angoisse ou des dommages durables équivalents ou supérieurs à ceux causés par l’introduction d’une aiguille conformément aux bonnes pratiques vétérinaires.
+- aux pratiques qui ne sont pas susceptibles de causer une douleur, une souffrance, une angoisse ou des dommages durables équivalents ou supérieurs à ceux causés par l’introduction d’une aiguille conformément aux bonnes pratiques vétérinaires.
 
 6.
 
@@ -94,21 +94,21 @@ Définitions
 
 Aux fins du présent règlement grand-ducal, on entend par:
 
-1. «procédure», toute utilisation, invasive ou non, d’un animal à des fins expérimentales ou à d’autres fins scientifiques, dont les résultats sont connus ou inconnus, ou à des fins éducatives, susceptible de causer à cet animal une douleur, une souffrance, une angoisse ou des dommages durables équivalents ou supérieurs à ceux causés par l’introduction d’une aiguille conformément aux bonnes pratiques vétérinaires. Ceci inclut toute intervention destinée ou de nature à aboutir à la naissance ou à l’éclosion d’un animal ou à la création et à la conservation d’une lignée d’animaux génétiquement modifiés dans l’une de ces conditions, mais exclut la mise à mort d’animaux à la seule fin d’utiliser leurs organes ou tissus;
+- «procédure», toute utilisation, invasive ou non, d’un animal à des fins expérimentales ou à d’autres fins scientifiques, dont les résultats sont connus ou inconnus, ou à des fins éducatives, susceptible de causer à cet animal une douleur, une souffrance, une angoisse ou des dommages durables équivalents ou supérieurs à ceux causés par l’introduction d’une aiguille conformément aux bonnes pratiques vétérinaires. Ceci inclut toute intervention destinée ou de nature à aboutir à la naissance ou à l’éclosion d’un animal ou à la création et à la conservation d’une lignée d’animaux génétiquement modifiés dans l’une de ces conditions, mais exclut la mise à mort d’animaux à la seule fin d’utiliser leurs organes ou tissus;
 
-2. «projet», un programme de travail ayant un objectif scientifique défini et impliquant une ou plusieurs procédures;
+- «projet», un programme de travail ayant un objectif scientifique défini et impliquant une ou plusieurs procédures;
 
-3. «établissement», toute installation, tout bâtiment, tout groupe de bâtiments ou tout autre local, y compris, le cas échéant, un endroit non totalement clos ou couvert, ainsi que des installations mobiles;
+- «établissement», toute installation, tout bâtiment, tout groupe de bâtiments ou tout autre local, y compris, le cas échéant, un endroit non totalement clos ou couvert, ainsi que des installations mobiles;
 
-4. «éleveur», toute personne physique ou morale élevant des animaux visés à l’annexe I en vue de leur utilisation dans des procédures ou en vue de l’utilisation de leurs tissus ou organes à des fins scientifiques, ou élevant d’autres animaux principalement aux fins susmentionnées, dans un but lucratif ou non;
+- «éleveur», toute personne physique ou morale élevant des animaux visés à l’annexe I en vue de leur utilisation dans des procédures ou en vue de l’utilisation de leurs tissus ou organes à des fins scientifiques, ou élevant d’autres animaux principalement aux fins susmentionnées, dans un but lucratif ou non;
 
-5. «fournisseur», toute personne physique ou morale autre qu’un éleveur, fournissant des animaux en vue de leur utilisation dans des procédures ou en vue de l’utilisation de leurs tissus ou organes à des fins scientifiques, dans un but lucratif ou non;
+- «fournisseur», toute personne physique ou morale autre qu’un éleveur, fournissant des animaux en vue de leur utilisation dans des procédures ou en vue de l’utilisation de leurs tissus ou organes à des fins scientifiques, dans un but lucratif ou non;
 
-6. «utilisateur», toute personne physique ou morale utilisant des animaux dans des procédures, dans un but lucratif ou non;
+- «utilisateur», toute personne physique ou morale utilisant des animaux dans des procédures, dans un but lucratif ou non;
 
-7. «autorité compétente», le Ministre ayant l’agriculture dans ses compétences;
+- «autorité compétente», le Ministre ayant l’agriculture dans ses compétences;
 
-8. «administration compétente», l’Administration des services vétérinaires.
+- «administration compétente», l’Administration des services vétérinaires.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -138,25 +138,25 @@ Finalités des procédures
 
 Seules sont admises les procédures qui ont pour objet:
 
-1. la recherche fondamentale;
+- la recherche fondamentale;
 
-2. des recherches translationnelles ou appliquées menées dans l’un des objectifs suivants:
+- des recherches translationnelles ou appliquées menées dans l’un des objectifs suivants:
 
-1. la prévention, la prophylaxie, le diagnostic ou le traitement de maladies, de mauvais états de santé ou d’autres anomalies ou de leurs effets chez l’homme, les animaux ou les plantes;
+  - la prévention, la prophylaxie, le diagnostic ou le traitement de maladies, de mauvais états de santé ou d’autres anomalies ou de leurs effets chez l’homme, les animaux ou les plantes;
 
-2. l’évaluation, la détection, le contrôle ou les modifications des conditions physiologiques chez l’homme, les animaux ou les plantes; ou
+  - l’évaluation, la détection, le contrôle ou les modifications des conditions physiologiques chez l’homme, les animaux ou les plantes; ou
 
-3. le bien-être des animaux et l’amélioration des conditions de production des animaux élevés à des fins agronomiques;
+  - le bien-être des animaux et l’amélioration des conditions de production des animaux élevés à des fins agronomiques;
 
-3. l’une des finalités visées au point b) lors de la mise au point, de la production ou des essais de qualité, d’efficacité et d’innocuité de médicaments, de denrées alimentaires, d’aliments pour animaux et d’autres substances ou produits;
+- l’une des finalités visées au point b) lors de la mise au point, de la production ou des essais de qualité, d’efficacité et d’innocuité de médicaments, de denrées alimentaires, d’aliments pour animaux et d’autres substances ou produits;
 
-4. la protection de l’environnement naturel dans l’intérêt de la santé ou du bien-être de l’homme ou de l’animal;
+- la protection de l’environnement naturel dans l’intérêt de la santé ou du bien-être de l’homme ou de l’animal;
 
-5. la recherche en vue de la conservation des espèces;
+- la recherche en vue de la conservation des espèces;
 
-6. l’enseignement supérieur ou la formation en vue de l’acquisition, de l’entretien ou de l’amélioration de compétences professionnelles;
+- l’enseignement supérieur ou la formation en vue de l’acquisition, de l’entretien ou de l’amélioration de compétences professionnelles;
 
-7. les enquêtes médicolégales.
+- les enquêtes médicolégales.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -181,9 +181,9 @@ Pour les animaux visés par l’annexe IV, la méthode appropriée de mise à mo
 
 L’autorité compétente peut accorder des dérogations à l’exigence visée au paragraphe 3:
 
-1. afin d’autoriser le recours à une autre méthode pour autant que, sur la base de données scientifiques, cette méthode soit considérée comme étant au moins aussi «douce»; ou
+- afin d’autoriser le recours à une autre méthode pour autant que, sur la base de données scientifiques, cette méthode soit considérée comme étant au moins aussi «douce»; ou
 
-2. sur la base d’éléments scientifiques démontrant que la finalité de la procédure ne peut être atteinte par le recours à une méthode de mise à mort spécifiée à l’annexe IV.
+- sur la base d’éléments scientifiques démontrant que la finalité de la procédure ne peut être atteinte par le recours à une méthode de mise à mort spécifiée à l’annexe IV.
 
 5.
 
@@ -200,9 +200,9 @@ Espèces menacées
 
 Les spécimens des espèces menacées énumérées à l’annexe A du règlement (CE) n° 338/97 du Conseil du 9 décembre 1996 relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce qui ne relèvent pas du champ d’application de l’article 7 paragraphe 1er , dudit règlement ne sont pas utilisés dans des procédures, à l’exception de procédures répondant aux conditions suivantes:
 
-1. la procédure poursuit l’une des finalités visées à l’article 4, point b) i), c) ou e), du présent règlement grand-ducal, et
+- la procédure poursuit l’une des finalités visées à l’article 4, point b) i), c) ou e), du présent règlement grand-ducal, et
 
-2. il existe des éléments scientifiques démontrant que la finalité de la procédure ne peut être atteinte en utilisant d’autres espèces que celles énumérées dans cette annexe.
+- il existe des éléments scientifiques démontrant que la finalité de la procédure ne peut être atteinte en utilisant d’autres espèces que celles énumérées dans cette annexe.
 
 2.
 
@@ -217,13 +217,13 @@ Primates non humains
 
 Sous réserve du paragraphe 2, les spécimens des primates non humains ne sont pas utilisés dans des procédures, à l’exception de procédures répondant aux conditions suivantes:
 
-1. la procédure poursuit l’une des finalités visées: et
+- la procédure poursuit l’une des finalités visées: et
 
-1. à l’article 4, point b) i) ou c), du présent règlement grand-ducal et est appliquée en vue de la prévention, de la prophylaxie, du diagnostic ou du traitement d’affections humaines invalidantes ou potentiellement mortelles; ou
+  - à l’article 4, point b) i) ou c), du présent règlement grand-ducal et est appliquée en vue de la prévention, de la prophylaxie, du diagnostic ou du traitement d’affections humaines invalidantes ou potentiellement mortelles; ou
 
-2. à l’article 4, point a) ou e);
+  - à l’article 4, point a) ou e);
 
-2. il existe des éléments scientifiques démontrant que la finalité de la procédure ne peut être atteinte en utilisant d’autres espèces que celles de primates non humains.
+- il existe des éléments scientifiques démontrant que la finalité de la procédure ne peut être atteinte en utilisant d’autres espèces que celles de primates non humains.
 
 Aux fins du présent règlement grand-ducal, on entend par «condition clinique invalidante», une diminution des capacités physiques ou psychologiques normales d’une personne.
 
@@ -231,13 +231,13 @@ Aux fins du présent règlement grand-ducal, on entend par «condition clinique 
 
 Les spécimens des primates non humains énumérés à l’annexe A du règlement (CE) no 338/97 précité qui ne relèvent pas du champ d’application de l’article 7 paragraphe 1er , dudit règlement ne sont pas utilisés dans des procédures, à l’exception de procédures répondant aux conditions suivantes:
 
-1. la procédure poursuit l’une des finalités visées: et
+- la procédure poursuit l’une des finalités visées: et
 
-1. à l’article 4, point b) i) ou c), du présent règlement grand-ducal et est appliquée en vue de la prévention, de la prophylaxie, du diagnostic ou du traitement d’affections humaines invalidantes ou potentiellement mortelles; ou
+  - à l’article 4, point b) i) ou c), du présent règlement grand-ducal et est appliquée en vue de la prévention, de la prophylaxie, du diagnostic ou du traitement d’affections humaines invalidantes ou potentiellement mortelles; ou
 
-2. à l’article 4, point e);
+  - à l’article 4, point e);
 
-2. il existe des éléments scientifiques démontrant que la finalité de la procédure ne peut être atteinte en utilisant d’autres espèces que celles de primates non humains et en utilisant des espèces non énumérées dans cette annexe.
+- il existe des éléments scientifiques démontrant que la finalité de la procédure ne peut être atteinte en utilisant d’autres espèces que celles de primates non humains et en utilisant des espèces non énumérées dans cette annexe.
 
 3.
 
@@ -292,9 +292,9 @@ Les animaux d’espèces domestiques errants ou devenus sauvages ne sont pas uti
 
 L’autorité compétente ne peut accorder des dérogations au paragraphe 1er que pour autant que les conditions suivantes soient satisfaites:
 
-1. il existe une nécessité essentielle de mener des études sur la santé et le bien-être de ces animaux ou sur des menaces sérieuses pour l’environnement ou la santé humaine ou animale; et
+- il existe une nécessité essentielle de mener des études sur la santé et le bien-être de ces animaux ou sur des menaces sérieuses pour l’environnement ou la santé humaine ou animale; et
 
-2. il existe des éléments scientifiques démontrant que la finalité de la procédure ne peut être atteinte qu’en utilisant un animal errant ou devenu sauvage.
+- il existe des éléments scientifiques démontrant que la finalité de la procédure ne peut être atteinte qu’en utilisant un animal errant ou devenu sauvage.
 
 #### CHAPITRE III PROCEDURES
 
@@ -326,11 +326,11 @@ Sans préjudice de la législation nationale interdisant certains types de méth
 
 Le choix entre les procédures est guidé par le souci de sélectionner celles qui satisfont le mieux aux exigences suivantes:
 
-1. utiliser le moins d’animaux possible;
+- utiliser le moins d’animaux possible;
 
-2. utiliser les animaux les moins susceptibles de ressentir de la douleur, de la souffrance, de l’angoisse ou de subir des dommages durables;
+- utiliser les animaux les moins susceptibles de ressentir de la douleur, de la souffrance, de l’angoisse ou de subir des dommages durables;
 
-3. causer le moins possible de douleur, de souffrance, d’angoisse ou de dommages durables,
+- causer le moins possible de douleur, de souffrance, d’angoisse ou de dommages durables,
 
 et sont les plus susceptibles de fournir des résultats satisfaisants.
 
@@ -338,9 +338,9 @@ et sont les plus susceptibles de fournir des résultats satisfaisants.
 
 Dans la mesure du possible, la mort doit être évitée en tant que point limite dans une procédure et remplacée par des points limites précoces adaptés. Lorsque la mort ne peut être évitée en tant que point limite, la procédure est conçue de façon:
 
-1. à entraîner la mort du plus petit nombre d’animaux possible; et
+- à entraîner la mort du plus petit nombre d’animaux possible; et
 
-2. à réduire le plus possible la durée et l’intensité de la souffrance de l’animal et, autant que faire se peut, à lui assurer une mort sans douleur.
+- à réduire le plus possible la durée et l’intensité de la souffrance de l’animal et, autant que faire se peut, à lui assurer une mort sans douleur.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -357,9 +357,9 @@ Les procédures entraînant des lésions graves susceptibles de causer une doule
 
 La décision relative à l’opportunité de recourir à l’anesthésie tient compte des éléments suivants:
 
-1. si l’anesthésie est jugée plus traumatisante pour l’animal que la procédure elle-même; et
+- si l’anesthésie est jugée plus traumatisante pour l’animal que la procédure elle-même; et
 
-2. si l’anesthésie est incompatible avec la finalité de la procédure.
+- si l’anesthésie est incompatible avec la finalité de la procédure.
 
 3.
 
@@ -397,13 +397,13 @@ Réutilisation
 
 Un animal déjà utilisé dans une ou plusieurs procédures ne doit pas être réutilisé dans une nouvelle procédure, lorsqu’un autre animal, auquel aucune procédure n’a été appliquée précédemment, pourrait aussi être utilisé, que si les conditions suivantes sont satisfaites:
 
-1. la gravité réelle des procédures précédentes était «légère» ou «modérée»;
+- la gravité réelle des procédures précédentes était «légère» ou «modérée»;
 
-2. il est démontré que l’animal a pleinement retrouvé son état de santé et de bien-être général;
+- il est démontré que l’animal a pleinement retrouvé son état de santé et de bien-être général;
 
-3. la nouvelle procédure est de classe «légère», «modérée» ou «sans réveil» et
+- la nouvelle procédure est de classe «légère», «modérée» ou «sans réveil» et
 
-4. la procédure est conforme à l’avis vétérinaire, en prenant en considération le sort de l’animal concerné sur toute sa durée de vie.
+- la procédure est conforme à l’avis vétérinaire, en prenant en considération le sort de l’animal concerné sur toute sa durée de vie.
 
 2.
 
@@ -440,11 +440,11 @@ Mise en liberté et placement des animaux
 
 L’autorité compétente peut autoriser que les animaux utilisés ou destinés à être utilisés dans des procédures soient placés ou relâchés dans un habitat approprié ou un système d’élevage adapté à l’espèce, pour autant que les conditions suivantes soient satisfaites:
 
-1. l’état de santé de l’animal le permet;
+- l’état de santé de l’animal le permet;
 
-2. il n’y a pas de danger pour la santé publique, la santé animale ou l’environnement; et
+- il n’y a pas de danger pour la santé publique, la santé animale ou l’environnement; et
 
-3. des mesures appropriées ont été prises pour préserver le bien-être de l’animal.
+- des mesures appropriées ont été prises pour préserver le bien-être de l’animal.
 
 #### CHAPITRE IV AGREMENT
 
@@ -516,13 +516,13 @@ Tout éleveur, fournisseur ou utilisateur doit disposer, sur place, d’un perso
 
 Le personnel doit disposer d’un niveau d’études et de formation adéquat avant d’exercer l’une des fonctions ci-après:
 
-1. l’application de procédures aux animaux;
+- l’application de procédures aux animaux;
 
-2. la conception de procédures et de projets;
+- la conception de procédures et de projets;
 
-3. le soin des animaux; ou
+- le soin des animaux; ou
 
-4. la mise à mort des animaux.
+- la mise à mort des animaux.
 
 Les personnes exerçant les fonctions visées au point b) doivent bénéficier d’une formation relevant d’une discipline scientifique ayant trait au travail effectué et doivent disposer de connaissances spécifiques à l’espèce concernée.
 
@@ -543,19 +543,19 @@ Exigences spécifiques applicables au personnel
 
 Tout éleveur, fournisseur ou utilisateur doit disposer, sur place, d’une ou de plusieurs personnes qui:
 
-1. sont responsables de la surveillance du bien-être des animaux dans l’établissement et des soins qui leur sont donnés;
+- sont responsables de la surveillance du bien-être des animaux dans l’établissement et des soins qui leur sont donnés;
 
-2. veillent à ce que le personnel s’occupant des animaux ait accès aux informations spécifiques aux espèces hébergées dans l’établissement;
+- veillent à ce que le personnel s’occupant des animaux ait accès aux informations spécifiques aux espèces hébergées dans l’établissement;
 
-3. sont responsables de veiller à ce que le personnel dispose d’un niveau d’études, des compétences et d’une formation continue adéquats et qu’il soit supervisé jusqu’à ce qu’il ait démontré qu’il possède les compétences requises.
+- sont responsables de veiller à ce que le personnel dispose d’un niveau d’études, des compétences et d’une formation continue adéquats et qu’il soit supervisé jusqu’à ce qu’il ait démontré qu’il possède les compétences requises.
 
 2.
 
 Les personnes visées à l’article 39, paragraphe 2, point b) doivent:
 
-1. s’assurer que toute douleur, souffrance, angoisse ou tout dommage durable inutile infligé à un animal lors d’une procédure sont interrompus; et
+- s’assurer que toute douleur, souffrance, angoisse ou tout dommage durable inutile infligé à un animal lors d’une procédure sont interrompus; et
 
-2. s’assurer que les projets sont exécutés conformément à l’autorisation du projet ou, dans les cas visés à l’article 41, conformément à la demande adressée à l’autorité compétente ou à toute décision arrêtée par celle-ci et, en cas de non-conformité, veiller à ce que les mesures appropriées afin d’y remédier soient prises et consignées par écrit.
+- s’assurer que les projets sont exécutés conformément à l’autorisation du projet ou, dans les cas visés à l’article 41, conformément à la demande adressée à l’autorité compétente ou à toute décision arrêtée par celle-ci et, en cas de non-conformité, veiller à ce que les mesures appropriées afin d’y remédier soient prises et consignées par écrit.
 
 <a id="art-24"></a>
 ## Art. 24.
@@ -590,15 +590,15 @@ Tâches de la structure chargée du bien-être des animaux
 
 La structure chargée du bien-être des animaux s’acquitte, au minimum, des tâches suivantes:
 
-1. conseiller le personnel qui s’occupe des animaux sur des questions relatives au bien-être des animaux dans le cadre de l’acquisition, de l’hébergement, des soins et de l’utilisation d’animaux;
+- conseiller le personnel qui s’occupe des animaux sur des questions relatives au bien-être des animaux dans le cadre de l’acquisition, de l’hébergement, des soins et de l’utilisation d’animaux;
 
-2. conseiller le personnel sur l’application des exigences de remplacement, de réduction et de raffinement et le tenir informé des développements techniques et scientifiques relatifs à l’application de ces exigences;
+- conseiller le personnel sur l’application des exigences de remplacement, de réduction et de raffinement et le tenir informé des développements techniques et scientifiques relatifs à l’application de ces exigences;
 
-3. établir et réviser les processus opérationnels internes de contrôle, de rapport et de suivi en ce qui concerne le bien-être des animaux hébergés ou utilisés dans l’établissement;
+- établir et réviser les processus opérationnels internes de contrôle, de rapport et de suivi en ce qui concerne le bien-être des animaux hébergés ou utilisés dans l’établissement;
 
-4. suivre l’évolution et les résultats des projets en tenant compte des effets sur les animaux utilisés, en recensant les éléments qui contribuent au remplacement, à la réduction et au raffinement, et en fournissant des conseils en la matière; et
+- suivre l’évolution et les résultats des projets en tenant compte des effets sur les animaux utilisés, en recensant les éléments qui contribuent au remplacement, à la réduction et au raffinement, et en fournissant des conseils en la matière; et
 
-5. fournir des conseils sur les programmes de placement des animaux, y compris sur la nécessité de socialiser les animaux à placer.
+- fournir des conseils sur les programmes de placement des animaux, y compris sur la nécessité de socialiser les animaux à placer.
 
 2.
 
@@ -629,19 +629,19 @@ Registres des animaux
 
 Les éleveurs, fournisseurs et utilisateurs doivent tenir des registres dans lesquels sont consignés au moins:
 
-1. le nombre et les espèces d’animaux élevés, acquis, fournis, utilisés dans des procédures, mis en liberté ou placés;
+- le nombre et les espèces d’animaux élevés, acquis, fournis, utilisés dans des procédures, mis en liberté ou placés;
 
-2. l’origine des animaux, en précisant notamment s’ils sont élevés en vue d’une utilisation dans des procédures;
+- l’origine des animaux, en précisant notamment s’ils sont élevés en vue d’une utilisation dans des procédures;
 
-3. les dates d’acquisition, de fourniture, de mise en liberté ou de placement des animaux;
+- les dates d’acquisition, de fourniture, de mise en liberté ou de placement des animaux;
 
-4. les établissements ayant fourni les animaux;
+- les établissements ayant fourni les animaux;
 
-5. les nom et adresse du destinataire des animaux;
+- les nom et adresse du destinataire des animaux;
 
-6. le nombre et les espèces d’animaux qui sont morts ou ont été mis à mort dans chaque établissement. Dans le cas d’animaux qui sont morts, les causes de la mort, si elles sont connues, sont indiquées; et
+- le nombre et les espèces d’animaux qui sont morts ou ont été mis à mort dans chaque établissement. Dans le cas d’animaux qui sont morts, les causes de la mort, si elles sont connues, sont indiquées; et
 
-7. pour ce qui est des utilisateurs, les projets dans lesquels des animaux sont utilisés.
+- pour ce qui est des utilisateurs, les projets dans lesquels des animaux sont utilisés.
 
 2.
 
@@ -656,13 +656,13 @@ Informations relatives aux chiens, chats et primates non humains
 
 Tous les éleveurs, fournisseurs et utilisateurs doivent conserver les informations suivantes sur chaque chien, chat ou primate non humain:
 
-1. identité;
+- identité;
 
-2. lieu et date de naissance, si ces informations sont disponibles;
+- lieu et date de naissance, si ces informations sont disponibles;
 
-3. si l’animal est élevé en vue d’une utilisation dans des procédures; et
+- si l’animal est élevé en vue d’une utilisation dans des procédures; et
 
-4. dans le cas d’un primate non humain, s’il est issu de primates non humains élevés en captivité.
+- dans le cas d’un primate non humain, s’il est issu de primates non humains élevés en captivité.
 
 2.
 
@@ -706,15 +706,15 @@ Soins et hébergement
 
 En ce qui concerne les soins et l’hébergement des animaux:
 
-1. tous les animaux doivent bénéficier d’un logement, d’un environnement, d’une alimentation, d’un apport en eau et de soins appropriés à leur santé et à leur bien-être;
+- tous les animaux doivent bénéficier d’un logement, d’un environnement, d’une alimentation, d’un apport en eau et de soins appropriés à leur santé et à leur bien-être;
 
-2. toute restriction de la capacité d’un animal de satisfaire ses besoins physiologiques et éthologiques doit être limitée au strict minimum;
+- toute restriction de la capacité d’un animal de satisfaire ses besoins physiologiques et éthologiques doit être limitée au strict minimum;
 
-3. les conditions physiques dans lesquelles les animaux sont élevés, détenus ou utilisés doivent faire l’objet d’un contrôle journalier;
+- les conditions physiques dans lesquelles les animaux sont élevés, détenus ou utilisés doivent faire l’objet d’un contrôle journalier;
 
-4. des mesures doivent être prises pour mettre fin, dans les délais les plus brefs, à toute anomalie ou à toute douleur, toute souffrance, toute angoisse ou tout dommage durable constaté qui pourrait être évité; et
+- des mesures doivent être prises pour mettre fin, dans les délais les plus brefs, à toute anomalie ou à toute douleur, toute souffrance, toute angoisse ou tout dommage durable constaté qui pourrait être évité; et
 
-5. les animaux doivent être transportés dans des conditions appropriées.
+- les animaux doivent être transportés dans des conditions appropriées.
 
 2.
 
@@ -739,13 +739,13 @@ L’administration compétente procède à l’inspection régulière de tous le
 
 L’administration compétente adapte la fréquence des inspections en fonction d’une analyse des risques propre à chaque établissement, en tenant compte:
 
-1. du nombre d’animaux hébergés et de leur espèce;
+- du nombre d’animaux hébergés et de leur espèce;
 
-2. des antécédents de l’éleveur, du fournisseur ou de l’utilisateur en matière de conformité avec les exigences du présent règlement grand-ducal;
+- des antécédents de l’éleveur, du fournisseur ou de l’utilisateur en matière de conformité avec les exigences du présent règlement grand-ducal;
 
-3. du nombre et du type des projets menés par l’utilisateur en question; et
+- du nombre et du type des projets menés par l’utilisateur en question; et
 
-4. de toute information pouvant indiquer une non-conformité.
+- de toute information pouvant indiquer une non-conformité.
 
 3.
 
@@ -800,11 +800,11 @@ Demande d’autorisation de projet
 
 L’utilisateur ou la personne responsable du projet doit introduire une demande d’autorisation de projet, dans une des langues officielles du pays, auprès de l’autorité compétente. La demande comporte au moins:
 
-1. la proposition de projet;
+- la proposition de projet;
 
-2. un résumé non technique du projet; et
+- un résumé non technique du projet; et
 
-3. des informations sur les éléments figurant à l’annexe VI.
+- des informations sur les éléments figurant à l’annexe VI.
 
 2.
 
@@ -819,39 +819,39 @@ Evaluation des projets
 
 L’évaluation des projets s’effectue avec un niveau de détail approprié au type de projet et vérifie que le projet satisfait aux critères suivants:
 
-1. le projet est justifié du point de vue scientifique ou éducatif;
+- le projet est justifié du point de vue scientifique ou éducatif;
 
-2. les objectifs du projet justifient l’utilisation d’animaux; et
+- les objectifs du projet justifient l’utilisation d’animaux; et
 
-3. le projet est conçu pour permettre le déroulement des procédures dans les conditions les plus respectueuses de l’animal et de l’environnement.
+- le projet est conçu pour permettre le déroulement des procédures dans les conditions les plus respectueuses de l’animal et de l’environnement.
 
 2.
 
 L’évaluation des projets comporte en particulier:
 
-1. une évaluation des objectifs du projet, des avantages scientifiques escomptés ou de sa valeur éducative;
+- une évaluation des objectifs du projet, des avantages scientifiques escomptés ou de sa valeur éducative;
 
-2. une appréciation de la conformité du projet avec les exigences de remplacement, de réduction et de raffinement;
+- une appréciation de la conformité du projet avec les exigences de remplacement, de réduction et de raffinement;
 
-3. une appréciation de la classification des procédures selon leur degré de gravité;
+- une appréciation de la classification des procédures selon leur degré de gravité;
 
-4. une analyse dommage-avantage du projet, visant à apprécier si le dommage infligé aux animaux en termes de souffrance, de douleur et d’angoisse, est justifié par les résultats escomptés, compte tenu de considérations éthiques, et pourra, en définitive, bénéficier aux êtres humains, aux animaux ou à l’environnement;
+- une analyse dommage-avantage du projet, visant à apprécier si le dommage infligé aux animaux en termes de souffrance, de douleur et d’angoisse, est justifié par les résultats escomptés, compte tenu de considérations éthiques, et pourra, en définitive, bénéficier aux êtres humains, aux animaux ou à l’environnement;
 
-5. une appréciation des éléments visés aux articles 5 à 11 et aux articles 13, 15 et 32; et
+- une appréciation des éléments visés aux articles 5 à 11 et aux articles 13, 15 et 32; et
 
-6. une détermination de la nécessité de procéder à une appréciation rétrospective du projet et le moment auquel celle-ci doit intervenir.
+- une détermination de la nécessité de procéder à une appréciation rétrospective du projet et le moment auquel celle-ci doit intervenir.
 
 3.
 
 L’administration compétente procédant à l’évaluation du projet prend en considération les avis d’experts, en particulier dans les domaines suivants:
 
-1. les champs d’application scientifiques pour lesquels les animaux seront utilisés, y compris le remplacement, la réduction et le raffinement dans chaque domaine;
+- les champs d’application scientifiques pour lesquels les animaux seront utilisés, y compris le remplacement, la réduction et le raffinement dans chaque domaine;
 
-2. la conception d’expériences, incluant, le cas échéant, des statistiques;
+- la conception d’expériences, incluant, le cas échéant, des statistiques;
 
-3. la pratique vétérinaire dans le domaine des animaux de laboratoire ou, le cas échéant, la pratique vétérinaire dans le domaine de la faune sauvage;
+- la pratique vétérinaire dans le domaine des animaux de laboratoire ou, le cas échéant, la pratique vétérinaire dans le domaine de la faune sauvage;
 
-4. l’élevage des animaux et les soins qui leur sont donnés, en rapport avec les espèces destinées à être utilisées.
+- l’élevage des animaux et les soins qui leur sont donnés, en rapport avec les espèces destinées à être utilisées.
 
 4.
 
@@ -868,11 +868,11 @@ Appréciation rétrospective
 
 L’appréciation rétrospective, lorsqu’elle est déterminée conformément à l’article 37, paragraphe 2, point f), elle est effectuée par l’administration compétente qui, sur la base de la documentation nécessaire soumise par l’utilisateur, évalue:
 
-1. si les objectifs du projet ont été réalisés;
+- si les objectifs du projet ont été réalisés;
 
-2. les dommages infligés aux animaux, y compris le nombre et les espèces des animaux utilisés et la gravité des procédures; et
+- les dommages infligés aux animaux, y compris le nombre et les espèces des animaux utilisés et la gravité des procédures; et
 
-3. les éléments qui peuvent contribuer à renforcer l’application des exigences de remplacement, de réduction et de raffinement.
+- les éléments qui peuvent contribuer à renforcer l’application des exigences de remplacement, de réduction et de raffinement.
 
 2.
 
@@ -891,21 +891,21 @@ Octroi de l’autorisation de projet
 
 L’autorisation de projet est limitée aux procédures qui ont fait l’objet:
 
-1. d’une évaluation de projet, et
+- d’une évaluation de projet, et
 
-2. d’une classification en fonction de leur degré de gravité.
+- d’une classification en fonction de leur degré de gravité.
 
 2.
 
 L’autorisation de projet précise:
 
-1. l’utilisateur qui exécute le projet;
+- l’utilisateur qui exécute le projet;
 
-2. les personnes responsables de la mise en œuvre générale du projet et de sa conformité à l’autorisation du projet;
+- les personnes responsables de la mise en œuvre générale du projet et de sa conformité à l’autorisation du projet;
 
-3. les établissements où le projet sera exécuté, le cas échéant; et
+- les établissements où le projet sera exécuté, le cas échéant; et
 
-4. toutes les conditions spécifiques résultant de l’évaluation du projet, y compris la nécessité de le soumettre à une appréciation rétrospective et le moment auquel celle-ci doit intervenir.
+- toutes les conditions spécifiques résultant de l’évaluation du projet, y compris la nécessité de le soumettre à une appréciation rétrospective et le moment auquel celle-ci doit intervenir.
 
 3.
 
@@ -945,11 +945,11 @@ Une procédure administrative simplifiée est prévue pour les projets contenant
 
 Lors de la procédure administrative simplifiée, les dispositions suivantes s’appliquent:
 
-1. la demande contient les éléments visés à l’article 39, paragraphe 2, points a), b) et c);
+- la demande contient les éléments visés à l’article 39, paragraphe 2, points a), b) et c);
 
-2. une évaluation de projet est réalisée conformément à l’article 37; et
+- une évaluation de projet est réalisée conformément à l’article 37; et
 
-3. le délai visé à l’article 40, paragraphe 1 er , n’est pas dépassé.
+- le délai visé à l’article 40, paragraphe 1 er , n’est pas dépassé.
 
 3.
 
@@ -968,9 +968,9 @@ Résumés non techniques des projets
 
 Sous réserve de garantir le respect de la propriété intellectuelle et de la confidentialité des informations, le résumé non technique du projet fournit:
 
-1. des informations sur les objectifs du projet, y compris les dommages et les avantages escomptés, ainsi que sur le nombre et les types d’animaux à utiliser;
+- des informations sur les objectifs du projet, y compris les dommages et les avantages escomptés, ainsi que sur le nombre et les types d’animaux à utiliser;
 
-2. une démonstration de la conformité avec les exigences de remplacement, de réduction et de raffinement.
+- une démonstration de la conformité avec les exigences de remplacement, de réduction et de raffinement.
 
 Le résumé non technique du projet est anonyme et ne contient ni le nom ni l’adresse de l’utilisateur ou des membres de son personnel.
 

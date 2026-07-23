@@ -1,38 +1,88 @@
-"""Public Markdown ↔ source fidelity gate."""
+"""Word-parity fidelity gate tests."""
 
 from __future__ import annotations
 
+import importlib.util
+import sys
 from pathlib import Path
 
-from lex.fidelity import check_law_fidelity
-from lex.frontmatter import parse_frontmatter
+from lex.fidelity import (
+    WORD_COUNT_MARGIN,
+    check_law_fidelity,
+    markdown_body_words,
+    xml_body_words,
+)
+from lex.frontmatter import parse_frontmatter, serialize_frontmatter
 
 FIXTURES = Path("countries/lu/fixtures")
 LAW = Path("countries/lu/laws/loi-2000-06-29-n2")
+CODE = Path("countries/lu/laws/code-consommation")
+
+
+def _load_adapter():  # type: ignore[no-untyped-def]
+    path = Path("countries/lu/adapter.py")
+    spec = importlib.util.spec_from_file_location("lu_adapter_word_parity", path)
+    assert spec is not None and spec.loader is not None
+    module = importlib.util.module_from_spec(spec)
+    sys.modules["lu_adapter_word_parity"] = module
+    spec.loader.exec_module(module)
+    return module.adapter
 
 
 def test_fidelity_fails_on_broken_projection(tmp_path: Path) -> None:
-    """Saved pre-fix truncated body must fail against retained source.xml."""
     source = (LAW / "source.xml").read_bytes()
     original = (LAW / "current.md").read_text(encoding="utf-8")
     meta, _ = parse_frontmatter(original)
     broken_body = (FIXTURES / "broken-loi-2000-body.md").read_text(encoding="utf-8")
-    # Rebuild with real frontmatter pointing at source.xml beside the temp md.
-    from lex.frontmatter import serialize_frontmatter
-
     md_text = serialize_frontmatter(meta) + "\n" + broken_body
     (tmp_path / "source.xml").write_bytes(source)
     md_path = tmp_path / "current.md"
     md_path.write_text(md_text, encoding="utf-8")
 
     errors = check_law_fidelity(md_path)
-    assert errors, "expected fidelity failures on truncated projection"
-    messages = " | ".join(err.message for err in errors)
-    assert "art-3" in messages or "art-7" in messages or "art-13" in messages
+    assert errors, "expected word-parity failure on truncated projection"
+    assert "word parity" in errors[0].message.casefold()
 
 
-def test_fidelity_passes_on_published_loi_2000() -> None:
-    md = LAW / "current.md"
-    assert md.is_file()
-    errors = check_law_fidelity(md)
-    assert not errors, [err.message for err in errors]
+def test_renormalized_loi_2000_within_margin(tmp_path: Path) -> None:
+    adapter = _load_adapter()
+    source = (LAW / "source.xml").read_bytes()
+    body = adapter.normalize_bytes(source).body
+    original = (LAW / "current.md").read_text(encoding="utf-8")
+    meta, _ = parse_frontmatter(original)
+    (tmp_path / "source.xml").write_bytes(source)
+    md_path = tmp_path / "current.md"
+    md_path.write_text(serialize_frontmatter(meta) + "\n" + body, encoding="utf-8")
+    errors = check_law_fidelity(md_path)
+    assert not errors, [e.message for e in errors]
+
+
+def test_renormalized_code_consommation_word_parity() -> None:
+    adapter = _load_adapter()
+    source = (CODE / "source.xml").read_bytes()
+    body = adapter.normalize_bytes(source, title="Code de la consommation").body
+    src_words = xml_body_words(source)
+    md_words = markdown_body_words(body)
+    assert src_words
+    from collections import Counter
+
+    missing = sum((Counter(src_words) - Counter(md_words)).values())
+    assert missing / len(src_words) <= WORD_COUNT_MARGIN, (
+        f"omission failed: source={len(src_words)} missing={missing}"
+    )
+
+
+def test_renormalized_code_fonction_publique_word_parity() -> None:
+    adapter = _load_adapter()
+    law = Path("countries/lu/laws/code-fonction-publique")
+    source = (law / "source.xml").read_bytes()
+    body = adapter.normalize_bytes(source, title="Code de la fonction publique").body
+    src_words = xml_body_words(source)
+    md_words = markdown_body_words(body)
+    assert src_words
+    from collections import Counter
+
+    missing = sum((Counter(src_words) - Counter(md_words)).values())
+    assert missing / len(src_words) <= WORD_COUNT_MARGIN, (
+        f"omission failed: source={len(src_words)} missing={missing}"
+    )

@@ -36,11 +36,11 @@ L'identification nominative des personnes est complétée par une identification
 
 Un numéro d'identité est attribué:
 
-1. à chaque personne physique domiciliée au Grand-Duché, dès la naissance ou l'immigration,
+- à chaque personne physique domiciliée au Grand-Duché, dès la naissance ou l'immigration,
 
-2. à chaque personne morale de droit luxembourgeois, dès la constitution,
+- à chaque personne morale de droit luxembourgeois, dès la constitution,
 
-3. à toute autre personne physique ou morale inscrite sur un rôle d'une administration publique ou d'un établissement de sécurité sociale luxembourgeois, tenus par une disposition légale ou réglementaire d'employer ce numéro,
+- à toute autre personne physique ou morale inscrite sur un rôle d'une administration publique ou d'un établissement de sécurité sociale luxembourgeois, tenus par une disposition légale ou réglementaire d'employer ce numéro,
 
 (2)
 
@@ -69,41 +69,41 @@ Pour la conservation des numéros d'identité il est établi un répertoire gén
 
 Sont répertoriées, outre le numéro d'identité, les données suivantes qui doivent être constamment tenues à jour;
 
-1. en ce qui concerne les personnes physiques
+- en ce qui concerne les personnes physiques
 
-1. les nom et prénoms,
+  - les nom et prénoms,
 
-2. le sexe,
+  - le sexe,
 
-3. les date et lieu de naissance,
+  - les date et lieu de naissance,
 
-4. l'état civil,
+  - l'état civil,
 
-5. la date de décès,
+  - la date de décès,
 
-6. le domicile,
+  - le domicile,
 
-7. la nationalité,
+  - la nationalité,
 
-8. pour les personnes mariées et pour les veufs et les veuves, les nom et prénoms du conjoint vivant ou prédécédé,
+  - pour les personnes mariées et pour les veufs et les veuves, les nom et prénoms du conjoint vivant ou prédécédé,
 
-9. pour les personnes dont les données répertoriées sous les lettres a, b, et c) sont identiques, un ou plusieurs autres critères constants d'identification,
+  - pour les personnes dont les données répertoriées sous les lettres a, b, et c) sont identiques, un ou plusieurs autres critères constants d'identification,
 
-10. les numéros d'identité des père et mère à l'égard desquels la filiation est établie, pour autant que ces numéros ont été attribués.
+  - les numéros d'identité des père et mère à l'égard desquels la filiation est établie, pour autant que ces numéros ont été attribués.
 
-2. en ce qui concerne les personnes morales
+- en ce qui concerne les personnes morales
 
-1. la dénomination,
+  - la dénomination,
 
-2. la forme,
+  - la forme,
 
-3. le siège social,
+  - le siège social,
 
-4. l'année de constitution ou, pour les personnes morales étrangères, celle de la première activité au Grand-Duché,
+  - l'année de constitution ou, pour les personnes morales étrangères, celle de la première activité au Grand-Duché,
 
-5. l'activité principale,
+  - l'activité principale,
 
-6. la date de dissolution.
+  - la date de dissolution.
 
 (3)
 
@@ -118,15 +118,15 @@ Les données périmées de même que les modifications du répertoire général 
 
 Le numéro d'identité et les autres données y relatives du répertoire général ainsi que leurs modifications sont communiqués:
 
-1. à la personne désignée par le numéro en question,
+- à la personne désignée par le numéro en question,
 
-2. en tout ou en partie à dans la mesure où ces organismes ou personnes sont tenus, par une disposition légale ou réglementaire, d’avoir recours au numéro d’identité ou à d’autres données enregistrées au répertoire. Un règlement grand-ducal déterminera les personnes sub 2) qui ont accès et les modalités d’accès au répertoire dans le cadre de leurs missions respectives.
+- en tout ou en partie à dans la mesure où ces organismes ou personnes sont tenus, par une disposition légale ou réglementaire, d’avoir recours au numéro d’identité ou à d’autres données enregistrées au répertoire. Un règlement grand-ducal déterminera les personnes sub 2) qui ont accès et les modalités d’accès au répertoire dans le cadre de leurs missions respectives.
 
-1. tout service public,
+  - tout service public,
 
-2. tout officier public et tout créateur ou exécuteur d’acte translatif de propriété immobilière ou de constitution d’hypothèque,
+  - tout officier public et tout créateur ou exécuteur d’acte translatif de propriété immobilière ou de constitution d’hypothèque,
 
-3. tout établissement de sécurité sociale luxembourgeois,
+  - tout établissement de sécurité sociale luxembourgeois,
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -138,15 +138,15 @@ Des règlements grand-ducaux pris détermineront les actes, documents, fichiers,
 
 Un règlement grand-ducal fixera les modalités d'application de la présente loi, notamment en ce qui concerne
 
-1. la structure des numéros d'identité,
+- la structure des numéros d'identité,
 
-2. la collaboration des services publics pour la détermination des numéros et pour la communication des changements des données figurant au répertoire général,
+- la collaboration des services publics pour la détermination des numéros et pour la communication des changements des données figurant au répertoire général,
 
-3. la procédure d'attribution et de conservation des numéros,
+- la procédure d'attribution et de conservation des numéros,
 
-4. l'agencement, la tenue à jour et la gestion du répertoire général,
+- l'agencement, la tenue à jour et la gestion du répertoire général,
 
-5. les modalités de la communication des données du répertoire.
+- les modalités de la communication des données du répertoire.
 
 <a id="art-7"></a>
 ## Art. 7.

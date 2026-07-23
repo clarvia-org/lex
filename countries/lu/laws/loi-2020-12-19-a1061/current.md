@@ -113,27 +113,58 @@ La loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu est mod
 
 (1)
 
-L’article 32ter est remplacé par la disposition suivante : « Art. 32ter. (1) Un amortissement accéléré au taux de 4 pour cent est admis à l’endroit d’immeubles ou parties d’immeubles bâtis, affectés au logement locatif, lorsque l’achèvement de l’immeuble ou de la partie d’immeuble remonte au début de l’exercice d’exploitation à moins de cinq ans. (2) Ces dispositions sont d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation d’un logement ancien, à condition qu’elles dépassent 20 pour cent du prix d’acquisition ou de revient du bâtiment. (3) Lorsqu’un immeuble ou une partie d’immeuble bâti, affecté au logement locatif, a été soumis à une rénovation énergétique durable dont l’achèvement remonte au 1er janvier de l’année d’imposition à moins de 9 ans, un taux d’amortissement de 6 pour cent applicable aux dépenses d’investissement effectuées relatives à cette rénovation énergétique durable est, par dérogation aux alinéas précédents, admis. Par rénovation énergétique durable au sens de la phrase qui précède, il y a lieu de comprendre les mesures d’assainissement énergétique durable d’un logement locatif pour lesquelles une aide financière visée à l’article 4 de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement est accordée. (4) Par dérogation aux alinéas précédents, un amortissement accéléré au taux de 6 pour cent est admis à l’endroit d’immeubles ou parties d’immeubles bâtis, acquis ou constitués avant le 1er janvier 2021 et affectés au logement locatif, lorsque l’achèvement remonte au début de l’exercice d’exploitation à moins de 6 ans. Cette disposition est d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation achevée avant le 1er janvier 2021 d’un logement ancien, à condition qu’elles dépassent 20 pour cent du prix d’acquisition ou de revient du bâtiment. (5) L’amortissement accéléré n’est toutefois pas permis, lorsque l’exploitant a opté pour l’amortissement séparé des parties constitutives de l’immeuble. ».
+L’article 32ter est remplacé par la disposition suivante :
+
+<a id="art-32ter"></a>
+## « Art. 32ter.
+
+(1)
+
+Un amortissement accéléré au taux de 4 pour cent est admis à l’endroit d’immeubles ou parties d’immeubles bâtis, affectés au logement locatif, lorsque l’achèvement de l’immeuble ou de la partie d’immeuble remonte au début de l’exercice d’exploitation à moins de cinq ans.
 
 (2)
 
-À l’article 46, numéro 14, le point final est remplacé par un point-virgule et il est inséré un numéro 15 nouveau, libellé comme suit : la prime participative payée au salarié au sens du numéro 13a. de l’article 115. ».
+Ces dispositions sont d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation d’un logement ancien, à condition qu’elles dépassent 20 pour cent du prix d’acquisition ou de revient du bâtiment.
 
 (3)
 
-L’article 95, alinéa 5, est remplacé par l’alinéa suivant : « (5) Sous réserve des dispositions de l’article 115, sont considérés comme revenus d’une occupation salariée notamment : les traitements, les salaires, gratifications, tantièmes, les traitements d’attente ou de disponibilité, les indemnités de séjour, les indemnités de chômage, les primes participatives en fonction du résultat de l’employeur, ainsi que la contrepartie rémunérée du temps gardé sur un compte épargne-temps prévue par une disposition légale ou réglementaire, une convention collective ou tout autre contrat collectif de travail. ».
+Lorsqu’un immeuble ou une partie d’immeuble bâti, affecté au logement locatif, a été soumis à une rénovation énergétique durable dont l’achèvement remonte au 1er janvier de l’année d’imposition à moins de 9 ans, un taux d’amortissement de 6 pour cent applicable aux dépenses d’investissement effectuées relatives à cette rénovation énergétique durable est, par dérogation aux alinéas précédents, admis. Par rénovation énergétique durable au sens de la phrase qui précède, il y a lieu de comprendre les mesures d’assainissement énergétique durable d’un logement locatif pour lesquelles une aide financière visée à l’article 4 de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement est accordée.
 
 (4)
 
-À l’article 106, l’alinéa 4 est complété comme suit : « Cette fixation forfaitaire pourra tenir compte de critères écologiques. ».
+Par dérogation aux alinéas précédents, un amortissement accéléré au taux de 6 pour cent est admis à l’endroit d’immeubles ou parties d’immeubles bâtis, acquis ou constitués avant le 1er janvier 2021 et affectés au logement locatif, lorsque l’achèvement remonte au début de l’exercice d’exploitation à moins de 6 ans. Cette disposition est d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation achevée avant le 1er janvier 2021 d’un logement ancien, à condition qu’elles dépassent 20 pour cent du prix d’acquisition ou de revient du bâtiment.
+
+(5)
+
+L’amortissement accéléré n’est toutefois pas permis, lorsque l’exploitant a opté pour l’amortissement séparé des parties constitutives de l’immeuble. ».
+
+(2)
+
+À l’article 46, numéro 14, le point final est remplacé par un point-virgule et il est inséré un numéro 15 nouveau, libellé comme suit :
+
+- la prime participative payée au salarié au sens du numéro 13a. de l’article 115. ».
+
+(3)
+
+L’article 95, alinéa 5, est remplacé par l’alinéa suivant :
+
+« (5)
+
+Sous réserve des dispositions de l’article 115, sont considérés comme revenus d’une occupation salariée notamment : les traitements, les salaires, gratifications, tantièmes, les traitements d’attente ou de disponibilité, les indemnités de séjour, les indemnités de chômage, les primes participatives en fonction du résultat de l’employeur, ainsi que la contrepartie rémunérée du temps gardé sur un compte épargne-temps prévue par une disposition légale ou réglementaire, une convention collective ou tout autre contrat collectif de travail. ».
+
+(4)
+
+À l’article 106, l’alinéa 4 est complété comme suit :
+
+« Cette fixation forfaitaire pourra tenir compte de critères écologiques. ».
 
 (5)
 
 L’article 115 est modifié comme suit :
 
-1. Il est inséré un nouveau numéro 13a libellé comme suit : « 13a. 50 pour cent de la prime établie en fonction du résultat positif de l’exercice d’exploitation de l’employeur, dénommée ci-après « la prime participative », que l’employeur accorde à un salarié qui est personnellement affilié pour ce salaire en tant qu’assuré obligatoire à un régime de sécurité sociale luxembourgeois ou étranger visé par un instrument bi- ou multilatéral de sécurité sociale. L’exemption de la prime participative au sens du présent numéro est limitée à 25 pour cent du montant brut de la rémunération annuelle, avant incorporation des avantages en espèces et en nature, de l’année d’imposition au cours de laquelle la prime participative est allouée au salarié. Pour que la prime participative puisse bénéficier de l’exemption visée ci-avant, les conditions suivantes doivent être remplies au niveau de l’employeur : Il réalise des revenus relevant d’une des catégories de revenus visées à l’article 10, numéros 1 à 3 ; Il tient une comptabilité régulière au cours de l’année d’imposition d’octroi de la prime participative ainsi que de celle précédant l’année d’imposition d’octroi ; Le montant total de la prime participative qui peut être allouée aux salariés est limité à 5 pour cent du résultat positif de l’exercice d’exploitation qui précède immédiatement celui au titre duquel la prime participative est allouée aux salariés ; Au moment de la mise à disposition, l’employeur est tenu de communiquer dans la forme prescrite au préposé du bureau d’imposition RTS compétent pour la vérification de l’employeur une liste nominative des salariés bénéficiant au cours de l’année d’imposition de la présente mesure. Ce document comprendra par ailleurs tous les éléments permettant de vérifier que les conditions relatives à l’exemption sont remplies. ».
+- Il est inséré un nouveau numéro 13a libellé comme suit : « 13a. 50 pour cent de la prime établie en fonction du résultat positif de l’exercice d’exploitation de l’employeur, dénommée ci-après « la prime participative », que l’employeur accorde à un salarié qui est personnellement affilié pour ce salaire en tant qu’assuré obligatoire à un régime de sécurité sociale luxembourgeois ou étranger visé par un instrument bi- ou multilatéral de sécurité sociale. L’exemption de la prime participative au sens du présent numéro est limitée à 25 pour cent du montant brut de la rémunération annuelle, avant incorporation des avantages en espèces et en nature, de l’année d’imposition au cours de laquelle la prime participative est allouée au salarié. Pour que la prime participative puisse bénéficier de l’exemption visée ci-avant, les conditions suivantes doivent être remplies au niveau de l’employeur : Il réalise des revenus relevant d’une des catégories de revenus visées à l’article 10, numéros 1 à 3 ; Il tient une comptabilité régulière au cours de l’année d’imposition d’octroi de la prime participative ainsi que de celle précédant l’année d’imposition d’octroi ; Le montant total de la prime participative qui peut être allouée aux salariés est limité à 5 pour cent du résultat positif de l’exercice d’exploitation qui précède immédiatement celui au titre duquel la prime participative est allouée aux salariés ; Au moment de la mise à disposition, l’employeur est tenu de communiquer dans la forme prescrite au préposé du bureau d’imposition RTS compétent pour la vérification de l’employeur une liste nominative des salariés bénéficiant au cours de l’année d’imposition de la présente mesure. Ce document comprendra par ailleurs tous les éléments permettant de vérifier que les conditions relatives à l’exemption sont remplies. ».
 
-2. Il est inséré un nouveau numéro 13b libellé comme suit : « 13b. dans le chef d’un impatrié, les coûts suivants générés par son déménagement de l’étranger vers le Grand-Duché et pris en charge par son employeur : les frais de déménagement pour transférer le domicile de l’impatrié de l’étranger vers le Grand-Duché ; les frais pour l’aménagement d’un logement au Grand-Duché ; les frais de voyage à la suite de circonstances spéciales liées à la situation familiale de l’impatrié ; les frais de retour définitif dans l’État d’origine à l’issue de l’affectation de l’impatrié, y compris les frais occasionnés par le déménagement ; les frais de logement de la résidence au Grand-Duché si l’ancienne résidence habituelle de l’impatrié reste maintenue dans son État d’origine ou, si tel n’est pas le cas, le différentiel du coût du logement ; les frais d’un voyage annuel entre le Grand-Duché et l’État d’origine pour le salarié lui-même, son conjoint ou partenaire et les enfants de son ménage ; l’égalisation fiscale des impôts indigènes en vue de compenser le différentiel de la charge fiscale entre le Grand-Duché et l’État d’origine ; les frais supplémentaires de scolarité pour l’enseignement des enfants de l’impatrié, de son conjoint ou partenaire, lorsqu’ils déménagent avec leurs parents ou l’un d’eux et qu’ils doivent par conséquent changer d’école ; 50 pour cent de la prime d’impatriation ne dépassant pas 30 pour cent du montant brut de la rémunération annuelle avant incorporation des avantages en espèces et en nature. Par prime d’impatriation, il y a lieu d’entendre une prime additionnelle forfaitaire payée par l’employeur à un impatrié en raison du différentiel du coût de la vie entre l’État d’accueil et l’État d’origine, ainsi que d’autres frais divers liés au déménagement non mentionnés aux lettres a) à h) à condition que l’impatrié soit une personne physique ayant son domicile fiscal ou son séjour habituel au Grand-Duché ; l’impatrié n’ait ni été fiscalement domicilié au Grand-Duché, ni n’ait habité à une distance inférieure à 150 km de la frontière, ni n’y ait été soumis à l’impôt sur le revenu des personnes physiques du chef de revenus professionnels au cours des 5 années d’imposition précédant celle de son entrée en service au Grand-Duché ; l’impatrié exerce son activité professionnelle à titre principal ; l’impatrié touche une rémunération annuelle fixe au moins égale à 100 000 euros, la rémunération fixe à prendre en considération étant le montant brut avant incorporation des avantages en espèces et en nature ; l’impatrié ne remplace pas un ou plusieurs autres salariés non considérés comme impatriés remplissant les conditions mentionnées au présent numéro 13b et ayant droit aux exemptions visées au même numéro ; dans le cas d’un détachement, l’impatrié détaché justifie d’une ancienneté d’au moins cinq ans dans le groupe international ou ait acquis une expérience professionnelle spécialisée d’au moins cinq ans dans le secteur concerné, qu’une relation de travail existe entre l’entreprise d’envoi et le salarié pendant la période de détachement, que l’affectation temporaire du salarié détaché soit obligatoirement assortie d’un droit de retour à l’établissement détachant à l’issue de la période de détachement et qu’un contrat relatif au détachement du salarié, conclu entre l’entreprise d’envoi et l’entreprise indigène, existe ; dans le cas de recrutement, l’impatrié ait acquis une spécialisation approfondie dans le secteur concerné ; et que le nombre d’impatriés ayant droit aux exemptions visées au présent numéro 13b ne dépasse pas 30 pour cent de l’effectif total (emplois à temps plein) de l’entreprise indigène dans laquelle l’impatrié exerce son activité. Cette condition n’est pas exigée pour les entreprises qui existent depuis moins de dix ans. En ce qui concerne les points a) à h), n’est visé par l’exemption que l’excédent des frais engendrés par le déménagement du salarié sur les frais qu’il aurait dû assumer s’il était resté dans son État d’origine et que pour autant que les sommes exposées par l’employeur ne dépassent pas un montant raisonnable. Un règlement grand-ducal pourra préciser les éléments de rémunérations énumérés aux lettres a) à i) du présent numéro 13b. Les charges répétitives énumérées aux lettres e) à g) ne peuvent dépasser ni 50 000 euros par année, ni 30 pour cent du total annuel des rémunérations fixes de l’impatrié. Lorsque l’impatrié partage un domicile ou une résidence commun avec son conjoint ou partenaire, la limite de 50 000 euros est portée à 80 000 euros. Par impatrié au sens de la présente disposition, il y a lieu d’entendre : le salarié qui, travaillant habituellement à l’étranger, est détaché d’une entreprise d’un groupe international située hors du Grand-Duché pour exercer une activité salariée dans une entreprise indigène appartenant au même groupe international ; le salarié directement recruté à l’étranger par une entreprise indigène ou par une entreprise établie dans un autre État partie à l’Accord sur l’Espace économique européen, pour exercer une activité salariée dans l’entreprise. Les exemptions visées aux lettres a) à i) sont applicables aux impatriés pendant toute la durée de l’affectation du salarié en question, mais tout au plus jusqu’à la fin de la 8e année d’imposition suivant celle de l’entrée en service du salarié au Grand-Duché. Elles ne sont plus applicables lorsque l’une des conditions mentionnées ci-avant tenant à l’impatrié, à son emploi ou à son employeur cesse d’être remplie. Au début de chaque année et au plus tard le 31 janvier de l’année, l’employeur est tenu de communiquer à l’Administration des contributions directes dans la forme prescrite une liste nominative des salariés bénéficiant au cours de l’année d’imposition de la présente mesure. Dans le cas où l’employeur non résident n’est pas obligé de procéder à la retenue à la source et à la bonification des crédits d’impôt et ne l’a pas fait sur une base volontaire, le salarié est passible de l’imposition par voie d’assiette. Le présent numéro 13b ne s’applique pas aux salariés embauchés sur la base d’un contrat de mise à disposition par un entrepreneur de travail intérimaire ou dans le cadre du prêt de main-d’œuvre. ».
+- Il est inséré un nouveau numéro 13b libellé comme suit : « 13b. dans le chef d’un impatrié, les coûts suivants générés par son déménagement de l’étranger vers le Grand-Duché et pris en charge par son employeur : les frais de déménagement pour transférer le domicile de l’impatrié de l’étranger vers le Grand-Duché ; les frais pour l’aménagement d’un logement au Grand-Duché ; les frais de voyage à la suite de circonstances spéciales liées à la situation familiale de l’impatrié ; les frais de retour définitif dans l’État d’origine à l’issue de l’affectation de l’impatrié, y compris les frais occasionnés par le déménagement ; les frais de logement de la résidence au Grand-Duché si l’ancienne résidence habituelle de l’impatrié reste maintenue dans son État d’origine ou, si tel n’est pas le cas, le différentiel du coût du logement ; les frais d’un voyage annuel entre le Grand-Duché et l’État d’origine pour le salarié lui-même, son conjoint ou partenaire et les enfants de son ménage ; l’égalisation fiscale des impôts indigènes en vue de compenser le différentiel de la charge fiscale entre le Grand-Duché et l’État d’origine ; les frais supplémentaires de scolarité pour l’enseignement des enfants de l’impatrié, de son conjoint ou partenaire, lorsqu’ils déménagent avec leurs parents ou l’un d’eux et qu’ils doivent par conséquent changer d’école ; 50 pour cent de la prime d’impatriation ne dépassant pas 30 pour cent du montant brut de la rémunération annuelle avant incorporation des avantages en espèces et en nature. Par prime d’impatriation, il y a lieu d’entendre une prime additionnelle forfaitaire payée par l’employeur à un impatrié en raison du différentiel du coût de la vie entre l’État d’accueil et l’État d’origine, ainsi que d’autres frais divers liés au déménagement non mentionnés aux lettres a) à h) à condition que l’impatrié soit une personne physique ayant son domicile fiscal ou son séjour habituel au Grand-Duché ; l’impatrié n’ait ni été fiscalement domicilié au Grand-Duché, ni n’ait habité à une distance inférieure à 150 km de la frontière, ni n’y ait été soumis à l’impôt sur le revenu des personnes physiques du chef de revenus professionnels au cours des 5 années d’imposition précédant celle de son entrée en service au Grand-Duché ; l’impatrié exerce son activité professionnelle à titre principal ; l’impatrié touche une rémunération annuelle fixe au moins égale à 100 000 euros, la rémunération fixe à prendre en considération étant le montant brut avant incorporation des avantages en espèces et en nature ; l’impatrié ne remplace pas un ou plusieurs autres salariés non considérés comme impatriés remplissant les conditions mentionnées au présent numéro 13b et ayant droit aux exemptions visées au même numéro ; dans le cas d’un détachement, l’impatrié détaché justifie d’une ancienneté d’au moins cinq ans dans le groupe international ou ait acquis une expérience professionnelle spécialisée d’au moins cinq ans dans le secteur concerné, qu’une relation de travail existe entre l’entreprise d’envoi et le salarié pendant la période de détachement, que l’affectation temporaire du salarié détaché soit obligatoirement assortie d’un droit de retour à l’établissement détachant à l’issue de la période de détachement et qu’un contrat relatif au détachement du salarié, conclu entre l’entreprise d’envoi et l’entreprise indigène, existe ; dans le cas de recrutement, l’impatrié ait acquis une spécialisation approfondie dans le secteur concerné ; et que le nombre d’impatriés ayant droit aux exemptions visées au présent numéro 13b ne dépasse pas 30 pour cent de l’effectif total (emplois à temps plein) de l’entreprise indigène dans laquelle l’impatrié exerce son activité. Cette condition n’est pas exigée pour les entreprises qui existent depuis moins de dix ans. En ce qui concerne les points a) à h), n’est visé par l’exemption que l’excédent des frais engendrés par le déménagement du salarié sur les frais qu’il aurait dû assumer s’il était resté dans son État d’origine et que pour autant que les sommes exposées par l’employeur ne dépassent pas un montant raisonnable. Un règlement grand-ducal pourra préciser les éléments de rémunérations énumérés aux lettres a) à i) du présent numéro 13b. Les charges répétitives énumérées aux lettres e) à g) ne peuvent dépasser ni 50 000 euros par année, ni 30 pour cent du total annuel des rémunérations fixes de l’impatrié. Lorsque l’impatrié partage un domicile ou une résidence commun avec son conjoint ou partenaire, la limite de 50 000 euros est portée à 80 000 euros. Par impatrié au sens de la présente disposition, il y a lieu d’entendre : le salarié qui, travaillant habituellement à l’étranger, est détaché d’une entreprise d’un groupe international située hors du Grand-Duché pour exercer une activité salariée dans une entreprise indigène appartenant au même groupe international ; le salarié directement recruté à l’étranger par une entreprise indigène ou par une entreprise établie dans un autre État partie à l’Accord sur l’Espace économique européen, pour exercer une activité salariée dans l’entreprise. Les exemptions visées aux lettres a) à i) sont applicables aux impatriés pendant toute la durée de l’affectation du salarié en question, mais tout au plus jusqu’à la fin de la 8e année d’imposition suivant celle de l’entrée en service du salarié au Grand-Duché. Elles ne sont plus applicables lorsque l’une des conditions mentionnées ci-avant tenant à l’impatrié, à son emploi ou à son employeur cesse d’être remplie. Au début de chaque année et au plus tard le 31 janvier de l’année, l’employeur est tenu de communiquer à l’Administration des contributions directes dans la forme prescrite une liste nominative des salariés bénéficiant au cours de l’année d’imposition de la présente mesure. Dans le cas où l’employeur non résident n’est pas obligé de procéder à la retenue à la source et à la bonification des crédits d’impôt et ne l’a pas fait sur une base volontaire, le salarié est passible de l’imposition par voie d’assiette. Le présent numéro 13b ne s’applique pas aux salariés embauchés sur la base d’un contrat de mise à disposition par un entrepreneur de travail intérimaire ou dans le cadre du prêt de main-d’œuvre. ».
 
 (6)
 
@@ -141,33 +172,107 @@ L’article 129d est abrogé.
 
 (7)
 
-Il est inséré un article 129e nouveau libellé comme suit : « Art. 129e. (1) Le contribuable qui réalise un revenu net au sens de l’article 10, numéros 1, 2, 3 ou 7 imposable au Grand-Duché et déterminé par la prise en compte d’un amortissement accéléré de 4 pour cent en vertu de l’article 32ter, alinéa 1er ou de l’article 106, alinéa 4 en raison d’un immeuble ou d’une partie d’immeuble bâti acquis ou constitué après le 31 décembre 2020 et affecté au logement locatif dont l’achèvement remonte au 1er janvier de l’année d’imposition à moins de cinq ans a droit à un abattement de revenu imposable qualifié d’abattement immobilier spécial. (2) Le montant de l’abattement s’élève à 1 pour cent de la somme des valeurs qui se trouvent à la base du calcul des amortissements accélérés de 4 pour cent mentionnés ci-avant, sans toutefois pouvoir dépasser 10 000 euros. (3) L’abattement immobilier spécial est porté en déduction du revenu imposable, diminué le cas échéant de l’abattement pour charges extraordinaires prévu par les articles 127 et 127bis et de l’abattement extraprofessionnel prévu par l’article 129b. (4) En cas d’imposition collective, chaque conjoint ou partenaire obtient le bénéfice de l’abattement immobilier spécial dans les conditions définies ci-dessus. ».
+Il est inséré un article 129e nouveau libellé comme suit :
+
+<a id="art-129e"></a>
+## « Art. 129e.
+
+(1)
+
+Le contribuable qui réalise un revenu net au sens de l’article 10, numéros 1, 2, 3 ou 7 imposable au Grand-Duché et déterminé par la prise en compte d’un amortissement accéléré de 4 pour cent en vertu de l’article 32ter, alinéa 1er ou de l’article 106, alinéa 4 en raison d’un immeuble ou d’une partie d’immeuble bâti acquis ou constitué après le 31 décembre 2020 et affecté au logement locatif dont l’achèvement remonte au 1er janvier de l’année d’imposition à moins de cinq ans a droit à un abattement de revenu imposable qualifié d’abattement immobilier spécial.
+
+(2)
+
+Le montant de l’abattement s’élève à 1 pour cent de la somme des valeurs qui se trouvent à la base du calcul des amortissements accélérés de 4 pour cent mentionnés ci-avant, sans toutefois pouvoir dépasser 10 000 euros.
+
+(3)
+
+L’abattement immobilier spécial est porté en déduction du revenu imposable, diminué le cas échéant de l’abattement pour charges extraordinaires prévu par les articles 127 et 127bis et de l’abattement extraprofessionnel prévu par l’article 129b.
+
+(4)
+
+En cas d’imposition collective, chaque conjoint ou partenaire obtient le bénéfice de l’abattement immobilier spécial dans les conditions définies ci-dessus. ».
 
 (8)
 
 L’article 143 est modifié comme suit :
 
-1. L’alinéa 1 er est remplacé par le libellé suivant : « (1) Il sera établi pour chaque salarié, sauf les exceptions à prévoir par règlement grand-ducal, une fiche de retenue d’impôt destinée à recevoir l’inscription par l’Administration des contributions directes de toutes les prescriptions à observer lors de la détermination de la retenue et des crédits d’impôt. L’employeur est tenu de déterminer la retenue et les crédits d’impôt sur la base de ces prescriptions. ».
+- L’alinéa 1 er est remplacé par le libellé suivant : « (1) Il sera établi pour chaque salarié, sauf les exceptions à prévoir par règlement grand-ducal, une fiche de retenue d’impôt destinée à recevoir l’inscription par l’Administration des contributions directes de toutes les prescriptions à observer lors de la détermination de la retenue et des crédits d’impôt. L’employeur est tenu de déterminer la retenue et les crédits d’impôt sur la base de ces prescriptions. ».
 
-2. Il est inséré un alinéa 3b nouveau libellé comme suit : « (3b) L’Administration des contributions directes est également habilitée à mettre la fiche de retenue d’impôt du salarié sous forme électronique à la disposition de l’employeur. ».
+- Il est inséré un alinéa 3b nouveau libellé comme suit : « (3b) L’Administration des contributions directes est également habilitée à mettre la fiche de retenue d’impôt du salarié sous forme électronique à la disposition de l’employeur. ».
 
-3. L’alinéa 4 est remplacé par le libellé suivant : « (4) Des règlements grand-ducaux peuvent régler l’exécution du présent article, notamment en ce qui concerne la transmission et la mise à disposition électroniques, la délivrance, la forme et le contenu des inscriptions, les obligations des employeurs et des salariés relativement à l’établissement et la remise des fiches ainsi que les obligations à observer par les employeurs relativement à la détermination de la retenue et des crédits d’impôt. ».
+- L’alinéa 4 est remplacé par le libellé suivant : « (4) Des règlements grand-ducaux peuvent régler l’exécution du présent article, notamment en ce qui concerne la transmission et la mise à disposition électroniques, la délivrance, la forme et le contenu des inscriptions, les obligations des employeurs et des salariés relativement à l’établissement et la remise des fiches ainsi que les obligations à observer par les employeurs relativement à la détermination de la retenue et des crédits d’impôt. ».
 
 (9)
 
-L’article 143 est remplacé comme suit : « Art. 143. (1) Il sera établi pour chaque salarié, sauf les exceptions à prévoir par règlement grand-ducal, une fiche de retenue d’impôt destinée à recevoir l’inscription par l’Administration des contributions directes de toutes les prescriptions à observer lors de la détermination de la retenue et des crédits d’impôt. L’employeur est tenu de déterminer la retenue et les crédits d’impôt sur la base de ces prescriptions. (2) La fiche de retenue d’impôt du salarié est mise à disposition par l’Administration des contributions directes à l’employeur ainsi qu’au salarié. La mise à disposition à l’employeur se fait sous forme électronique. (3) À défaut d’une fiche de retenue d’impôt, l’employeur devra opérer la retenue pour le salarié concerné d’après les dispositions tarifaires les plus onéreuses, à moins qu’il n’en soit dispensé par l’Administration des contributions directes. (4) L’employeur est obligé au moins une fois par mois de calendrier d’accéder aux fiches de retenue d’impôt lui mises à disposition sous forme électronique et de consulter toutes les fiches non encore consultées au moment de son accès. Si l’employeur ne remplit pas son obligation de consultation prévue à la phrase qui précède, le bureau compétent pour la vérification de la retenue d’impôt sur traitements et salaires de l’employeur peut enjoindre l’employeur de consulter les fiches non encore consultées sous peine d’une astreinte en vertu du paragraphe 202a de la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung »). (5) Des règlements grand-ducaux peuvent régler l’exécution du présent article, notamment en ce qui concerne la mise à disposition électronique, la délivrance, la forme et le contenu des inscriptions, les obligations des employeurs et des salariés relativement à l’établissement des fiches ainsi que les obligations à observer par les employeurs relativement à la détermination de la retenue et des crédits d’impôt. ».
+L’article 143 est remplacé comme suit :
+
+<a id="art-143"></a>
+## « Art. 143.
+
+(1)
+
+Il sera établi pour chaque salarié, sauf les exceptions à prévoir par règlement grand-ducal, une fiche de retenue d’impôt destinée à recevoir l’inscription par l’Administration des contributions directes de toutes les prescriptions à observer lors de la détermination de la retenue et des crédits d’impôt. L’employeur est tenu de déterminer la retenue et les crédits d’impôt sur la base de ces prescriptions.
+
+(2)
+
+La fiche de retenue d’impôt du salarié est mise à disposition par l’Administration des contributions directes à l’employeur ainsi qu’au salarié. La mise à disposition à l’employeur se fait sous forme électronique.
+
+(3)
+
+À défaut d’une fiche de retenue d’impôt, l’employeur devra opérer la retenue pour le salarié concerné d’après les dispositions tarifaires les plus onéreuses, à moins qu’il n’en soit dispensé par l’Administration des contributions directes.
+
+(4)
+
+L’employeur est obligé au moins une fois par mois de calendrier d’accéder aux fiches de retenue d’impôt lui mises à disposition sous forme électronique et de consulter toutes les fiches non encore consultées au moment de son accès. Si l’employeur ne remplit pas son obligation de consultation prévue à la phrase qui précède, le bureau compétent pour la vérification de la retenue d’impôt sur traitements et salaires de l’employeur peut enjoindre l’employeur de consulter les fiches non encore consultées sous peine d’une astreinte en vertu du paragraphe 202a de la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung »).
+
+(5)
+
+Des règlements grand-ducaux peuvent régler l’exécution du présent article, notamment en ce qui concerne la mise à disposition électronique, la délivrance, la forme et le contenu des inscriptions, les obligations des employeurs et des salariés relativement à l’établissement des fiches ainsi que les obligations à observer par les employeurs relativement à la détermination de la retenue et des crédits d’impôt. ».
 
 (10)
 
-L’article 152ter, alinéa 2, première phrase, est remplacée comme suit : « Le crédit d’impôt pour indépendants est fixé comme suit : pour un bénéfice net, y compris le bénéfice exonéré suivant l’article 134, se situant entre 936 euros et 11.265 euros, le CII s’élève à [396 + (bénéfice net - 936) x 0,029] euros par an, 11.266 euros et 40.000 euros, le CII s’élève à 696 euros par an, 40.001 euros et 79.999 euros, le CII s’élève à [696 - (bénéfice net - 40.000) x 0,0174] euros par an. ».
+L’article 152ter, alinéa 2, première phrase, est remplacée comme suit :
+
+« Le crédit d’impôt pour indépendants est fixé comme suit :
+
+pour un bénéfice net, y compris le bénéfice exonéré suivant l’article 134, se situant entre
+
+- 936 euros et 11.265 euros, le CII s’élève à [396 + (bénéfice net - 936) x 0,029] euros par an,
+
+- 11.266 euros et 40.000 euros, le CII s’élève à 696 euros par an,
+
+- 40.001 euros et 79.999 euros, le CII s’élève à [696 - (bénéfice net - 40.000) x 0,0174] euros par an. ».
 
 (11)
 
-L’article 154quater, alinéa 2, première phrase, est remplacée comme suit : « Le crédit d’impôt pour salariés est fixé comme suit : pour un salaire brut, y compris le salaire exonéré suivant l’article 134, se situant de 936 euros à 11.265 euros, le CIS s’élève à [396 + (salaire brut - 936) x 0,029] euros par an, de 11.266 euros à 40.000 euros, le CIS s’élève à 696 euros par an, de 40.001 euros à 79.999 euros, le CIS s’élève à [696 - (salaire brut - 40.000) x 0,0174] euros par an. ».
+L’article 154quater, alinéa 2, première phrase, est remplacée comme suit :
+
+« Le crédit d’impôt pour salariés est fixé comme suit :
+
+pour un salaire brut, y compris le salaire exonéré suivant l’article 134, se situant
+
+- de 936 euros à 11.265 euros, le CIS s’élève à [396 + (salaire brut - 936) x 0,029] euros par an,
+
+- de 11.266 euros à 40.000 euros, le CIS s’élève à 696 euros par an,
+
+- de 40.001 euros à 79.999 euros, le CIS s’élève à [696 - (salaire brut - 40.000) x 0,0174] euros par an. ».
 
 (12)
 
-L’article 154quinquies, alinéa 2, première phrase, est remplacée comme suit : « Le crédit d’impôt pour pensionnés est fixé comme suit : pour une pension ou rente brute, y compris la pension ou la rente exonérée suivant l’article 134, se situant de 300 à 935 euros, le CIP s’élève à 396 euros par an, de 936 euros à 11.265 euros, le CIP s’élève à [396 + (pension/rente brute - 936) x 0,029] euros par an, de 11.266 euros à 40.000 euros, le CIP s’élève à 696 euros par an, de 40.001 euros à 79.999 euros, le CIP s’élève à [696 - (pension/rente brute - 40.000) x 0,0174] euros par an. ».
+L’article 154quinquies, alinéa 2, première phrase, est remplacée comme suit :
+
+« Le crédit d’impôt pour pensionnés est fixé comme suit :
+
+pour une pension ou rente brute, y compris la pension ou la rente exonérée suivant l’article 134, se situant
+
+- de 300 à 935 euros, le CIP s’élève à 396 euros par an,
+
+- de 936 euros à 11.265 euros, le CIP s’élève à [396 + (pension/rente brute - 936) x 0,029] euros par an,
+
+- de 11.266 euros à 40.000 euros, le CIP s’élève à 696 euros par an,
+
+- de 40.001 euros à 79.999 euros, le CIP s’élève à [696 - (pension/rente brute - 40.000) x 0,0174] euros par an. ».
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -182,85 +287,85 @@ Il est introduit un prélèvement sur les revenus provenant d’un bien immobili
 
 Au sens du présent article, on entend par :
 
-1. « bien immobilier » : un immeuble au sens des articles 517 à 526 du Code civil ;
+- « bien immobilier » : un immeuble au sens des articles 517 à 526 du Code civil ;
 
-2. « revenu provenant d’un bien immobilier » : les revenus suivants :
+- « revenu provenant d’un bien immobilier » : les revenus suivants :
 
-1. un revenu provenant de la location d’un bien immobilier sis au Grand-Duché de Luxembourg,
+  - un revenu provenant de la location d’un bien immobilier sis au Grand-Duché de Luxembourg,
 
-2. une plus-value résultant de l’aliénation d’un bien immobilier sis au Grand-Duché de Luxembourg, et
+  - une plus-value résultant de l’aliénation d’un bien immobilier sis au Grand-Duché de Luxembourg, et
 
-3. un revenu résultant de l’aliénation de parts ;
+  - un revenu résultant de l’aliénation de parts ;
 
-3. « revenu provenant de la location d’un bien immobilier » : le loyer brut, hors taxe sur la valeur ajoutée, provenant de la location et de l’affermage de biens immobiliers ;
+- « revenu provenant de la location d’un bien immobilier » : le loyer brut, hors taxe sur la valeur ajoutée, provenant de la location et de l’affermage de biens immobiliers ;
 
-4. « plus-value résultant de l’aliénation d’un bien immobilier » : la différence positive entre le prix du bien immobilier qui figure dans l’acte notarié dressé lors de l’aliénation du bien immobilier et le prix retenu au moment de l’acquisition, de l’apport ou de la constitution du bien immobilier qui est aliéné ;
+- « plus-value résultant de l’aliénation d’un bien immobilier » : la différence positive entre le prix du bien immobilier qui figure dans l’acte notarié dressé lors de l’aliénation du bien immobilier et le prix retenu au moment de l’acquisition, de l’apport ou de la constitution du bien immobilier qui est aliéné ;
 
-5. « aliénation » : le transfert de propriété qui est réalisé lors d’opérations telles que la vente, l’échange, l’apport, la fusion, la scission, la liquidation ou la dissolution ;
+- « aliénation » : le transfert de propriété qui est réalisé lors d’opérations telles que la vente, l’échange, l’apport, la fusion, la scission, la liquidation ou la dissolution ;
 
-6. « revenu résultant de l’aliénation de parts » : la différence positive entre le prix de l’aliénation des parts correspondant à la proportion de la valeur du bien immobilier sis au Grand-Duché de Luxembourg au moment de l’aliénation des parts et le prix d’acquisition de ces parts correspondant à la proportion de la valeur de ce bien immobilier au moment de l’acquisition de ces parts ou, en cas d’acquisition, de constitution ou d’apport du bien immobilier sis au Grand-Duché de Luxembourg dans le chef de l’organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou du fonds commun de placement ultérieurement à l’acquisition des parts, correspondant à la proportion de la valeur du bien immobilier au moment de cette acquisition, apport, ou constitution du bien immobilier dans le chef de cet organisme ou de ce fonds commun de placement ;
+- « revenu résultant de l’aliénation de parts » : la différence positive entre le prix de l’aliénation des parts correspondant à la proportion de la valeur du bien immobilier sis au Grand-Duché de Luxembourg au moment de l’aliénation des parts et le prix d’acquisition de ces parts correspondant à la proportion de la valeur de ce bien immobilier au moment de l’acquisition de ces parts ou, en cas d’acquisition, de constitution ou d’apport du bien immobilier sis au Grand-Duché de Luxembourg dans le chef de l’organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou du fonds commun de placement ultérieurement à l’acquisition des parts, correspondant à la proportion de la valeur du bien immobilier au moment de cette acquisition, apport, ou constitution du bien immobilier dans le chef de cet organisme ou de ce fonds commun de placement ;
 
-7. « véhicule d’investissement » : les entités suivantes, ayant une personnalité juridique distincte de celle de leurs associés :
+- « véhicule d’investissement » : les entités suivantes, ayant une personnalité juridique distincte de celle de leurs associés :
 
-1. les organismes de placement collectif relevant de la partie II de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, à l’exception de ceux qui sont constitués sous la forme d’une société en commandite simple ;
+  - les organismes de placement collectif relevant de la partie II de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, à l’exception de ceux qui sont constitués sous la forme d’une société en commandite simple ;
 
-2. les fonds d’investissement spécialisés visés par la loi modifiée du 13 février 2007 relative aux fonds d’investissement spécialisés, à l’exception de ceux qui sont constitués sous la forme d’une société en commandite simple ;
+  - les fonds d’investissement spécialisés visés par la loi modifiée du 13 février 2007 relative aux fonds d’investissement spécialisés, à l’exception de ceux qui sont constitués sous la forme d’une société en commandite simple ;
 
-3. les fonds d’investissement alternatifs réservés visés à l’article 1 er de la loi modifiée du 23 juillet 2016 relative aux fonds d’investissement alternatifs réservés, à l’exception de ceux qui sont constitués sous la forme d’une société en commandite simple.
+  - les fonds d’investissement alternatifs réservés visés à l’article 1 er de la loi modifiée du 23 juillet 2016 relative aux fonds d’investissement alternatifs réservés, à l’exception de ceux qui sont constitués sous la forme d’une société en commandite simple.
 
 (3)
 
 Les revenus provenant d’un bien immobilier sis au Grand-Duché de Luxembourg sont soumis au prélèvement immobilier selon les modalités suivantes :
 
-1. Le prélèvement immobilier est dû sur les revenus provenant d’un bien immobilier sis au Grand-Duché de Luxembourg s’ils sont perçus ou réalisés par un véhicule d’investissement.
+- Le prélèvement immobilier est dû sur les revenus provenant d’un bien immobilier sis au Grand-Duché de Luxembourg s’ils sont perçus ou réalisés par un véhicule d’investissement.
 
-2. Lorsqu’un revenu provenant d’un bien immobilier sis au Grand-Duché de Luxembourg est perçu ou réalisé par un organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou par un fonds commun de placement, et qu’un véhicule d’investissement détient des parts dans cet organisme ou ce fonds commun de placement ou qu’il les détient à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, ce revenu est considéré comme étant perçu ou réalisé par le véhicule d’investissement, dans les conditions précisées aux paragraphes ci-après.
+- Lorsqu’un revenu provenant d’un bien immobilier sis au Grand-Duché de Luxembourg est perçu ou réalisé par un organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou par un fonds commun de placement, et qu’un véhicule d’investissement détient des parts dans cet organisme ou ce fonds commun de placement ou qu’il les détient à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, ce revenu est considéré comme étant perçu ou réalisé par le véhicule d’investissement, dans les conditions précisées aux paragraphes ci-après.
 
 (4)
 
 Les revenus provenant de la location d’un bien immobilier sis au Grand-Duché de Luxembourg sont attribués au véhicule d’investissement selon les modalités suivantes :
 
-1. Les revenus provenant de la location d’un bien immobilier sis au Grand-Duché de Luxembourg et perçus par le véhicule d’investissement sont intégralement soumis au prélèvement immobilier.
+- Les revenus provenant de la location d’un bien immobilier sis au Grand-Duché de Luxembourg et perçus par le véhicule d’investissement sont intégralement soumis au prélèvement immobilier.
 
-2. Aux fins de l’application du paragraphe 3, numéro 2, et de la détermination des revenus provenant de la location d’un bien immobilier sis au Grand-Duché de Luxembourg à attribuer au véhicule d’investissement, il y a lieu de prendre en compte la proportion de ces revenus correspondant à la quote-part de parts que détient ce véhicule d’investissement pendant l’année civile dans l’organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans le fonds commun de placement ou à la quote-part de parts qu’il en détient pendant l’année civile à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement. La proportion correspondant à cette quote-part est soumise au prélèvement immobilier. Cette quote-part est déterminée, en ce qui concerne les détentions à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, en multipliant les taux de détention successivement aux différents niveaux.
+- Aux fins de l’application du paragraphe 3, numéro 2, et de la détermination des revenus provenant de la location d’un bien immobilier sis au Grand-Duché de Luxembourg à attribuer au véhicule d’investissement, il y a lieu de prendre en compte la proportion de ces revenus correspondant à la quote-part de parts que détient ce véhicule d’investissement pendant l’année civile dans l’organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans le fonds commun de placement ou à la quote-part de parts qu’il en détient pendant l’année civile à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement. La proportion correspondant à cette quote-part est soumise au prélèvement immobilier. Cette quote-part est déterminée, en ce qui concerne les détentions à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, en multipliant les taux de détention successivement aux différents niveaux.
 
 (5)
 
 La plus-value résultant de l’aliénation d’un bien immobilier sis au Grand-Duché de Luxembourg est attribuée au véhicule d’investissement selon les modalités suivantes :
 
-1. La plus-value résultant de l’aliénation d’un bien immobilier sis au Grand-Duché de Luxembourg et réalisée par un véhicule d’investissement est intégralement soumise au prélèvement immobilier.
+- La plus-value résultant de l’aliénation d’un bien immobilier sis au Grand-Duché de Luxembourg et réalisée par un véhicule d’investissement est intégralement soumise au prélèvement immobilier.
 
-2. Aux fins de l’application du paragraphe 3, numéro 2, et de la détermination de la plus-value résultant de l’aliénation d’un bien immobilier sis au Grand-Duché de Luxembourg à attribuer au véhicule d’investissement, il y a lieu de prendre en compte la proportion de cette plus-value correspondant à la quote-part de parts que détient le véhicule d’investissement dans l’organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans le fonds commun de placement ou à la quote-part de parts qu’il en détient à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement. La proportion correspondant à cette quote-part est soumise au prélèvement immobilier. Cette quote-part est déterminée, en ce qui concerne les détentions à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, en multipliant les taux de détention successivement aux différents niveaux. La détermination de la quote-part au sens du présent numéro se fait au moment de la réalisation de la plus-value résultant de l’aliénation d’un bien immobilier sis au Grand-Duché de Luxembourg.
+- Aux fins de l’application du paragraphe 3, numéro 2, et de la détermination de la plus-value résultant de l’aliénation d’un bien immobilier sis au Grand-Duché de Luxembourg à attribuer au véhicule d’investissement, il y a lieu de prendre en compte la proportion de cette plus-value correspondant à la quote-part de parts que détient le véhicule d’investissement dans l’organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans le fonds commun de placement ou à la quote-part de parts qu’il en détient à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement. La proportion correspondant à cette quote-part est soumise au prélèvement immobilier. Cette quote-part est déterminée, en ce qui concerne les détentions à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, en multipliant les taux de détention successivement aux différents niveaux. La détermination de la quote-part au sens du présent numéro se fait au moment de la réalisation de la plus-value résultant de l’aliénation d’un bien immobilier sis au Grand-Duché de Luxembourg.
 
 (6)
 
 Le revenu résultant de l’aliénation de parts est attribué au véhicule d’investissement selon les modalités suivantes :
 
-1. L’aliénation de parts détenues par un véhicule d’investissement dans un organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans un fonds commun de placement, lorsque cet organisme ou ce fonds commun de placement détient un bien immobilier sis au Grand-Duché de Luxembourg ainsi que l’aliénation de parts détenues par un véhicule d’investissement dans un organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans un fonds commun de placement, lorsque cet organisme ou ce fonds commun de placement détient un bien immobilier sis au Grand-Duché de Luxembourg à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, sont à considérer comme aliénation de ce bien immobilier. Le revenu résultant de l’aliénation de parts est soumis au prélèvement immobilier dans la mesure de la quote-part de parts que détient ce véhicule d’investissement dans ce premier organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans ce premier fonds commun de placement. La détermination de la quote-part au sens du présent numéro se fait au moment de la réalisation du revenu résultant de l’aliénation de parts.
+- L’aliénation de parts détenues par un véhicule d’investissement dans un organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans un fonds commun de placement, lorsque cet organisme ou ce fonds commun de placement détient un bien immobilier sis au Grand-Duché de Luxembourg ainsi que l’aliénation de parts détenues par un véhicule d’investissement dans un organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans un fonds commun de placement, lorsque cet organisme ou ce fonds commun de placement détient un bien immobilier sis au Grand-Duché de Luxembourg à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, sont à considérer comme aliénation de ce bien immobilier. Le revenu résultant de l’aliénation de parts est soumis au prélèvement immobilier dans la mesure de la quote-part de parts que détient ce véhicule d’investissement dans ce premier organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans ce premier fonds commun de placement. La détermination de la quote-part au sens du présent numéro se fait au moment de la réalisation du revenu résultant de l’aliénation de parts.
 
-2. Aux fins de l’application du paragraphe 3, numéro 2, le revenu provenant de l’aliénation de parts est attribué au véhicule d’investissement comme suit : L’aliénation de parts par un organisme visé à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou par un fonds commun de placement, dans un organisme visé à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans un fonds commun de placement, lorsque cet organisme ou ce fonds commun de placement détient un bien immobilier sis au Grand-Duché de Luxembourg ainsi que lorsque cet organisme ou ce fonds commun de placement détient un bien immobilier sis au Grand-Duché de Luxembourg à travers un ou plusieurs organismes visés à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, et pour autant qu’un véhicule d’investissement détient des parts dans ce premier organisme ou dans ce premier fonds commun de placement ou qu’il les détient à travers un ou plusieurs organismes visés à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, est à considérer comme aliénation de ce bien immobilier. Le revenu résultant de l’aliénation de parts est soumis au prélèvement immobilier dans la mesure de la quote-part de parts que détient ce véhicule d’investissement dans l’organisme visé à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans le fonds commun de placement qui a aliéné des parts ou à la quote-part de parts qu’il en détient à travers un ou plusieurs organismes visés à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement. Cette quote-part est déterminée, en ce qui concerne les détentions à travers un ou plusieurs organismes visés à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, en multipliant les taux de détention successivement aux différents niveaux. La détermination de la quote-part au sens du présent numéro se fait au moment de la réalisation du revenu résultant de l’aliénation de parts.
+- Aux fins de l’application du paragraphe 3, numéro 2, le revenu provenant de l’aliénation de parts est attribué au véhicule d’investissement comme suit : L’aliénation de parts par un organisme visé à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou par un fonds commun de placement, dans un organisme visé à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans un fonds commun de placement, lorsque cet organisme ou ce fonds commun de placement détient un bien immobilier sis au Grand-Duché de Luxembourg ainsi que lorsque cet organisme ou ce fonds commun de placement détient un bien immobilier sis au Grand-Duché de Luxembourg à travers un ou plusieurs organismes visés à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, et pour autant qu’un véhicule d’investissement détient des parts dans ce premier organisme ou dans ce premier fonds commun de placement ou qu’il les détient à travers un ou plusieurs organismes visés à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, est à considérer comme aliénation de ce bien immobilier. Le revenu résultant de l’aliénation de parts est soumis au prélèvement immobilier dans la mesure de la quote-part de parts que détient ce véhicule d’investissement dans l’organisme visé à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou dans le fonds commun de placement qui a aliéné des parts ou à la quote-part de parts qu’il en détient à travers un ou plusieurs organismes visés à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement. Cette quote-part est déterminée, en ce qui concerne les détentions à travers un ou plusieurs organismes visés à l’article 175, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, en multipliant les taux de détention successivement aux différents niveaux. La détermination de la quote-part au sens du présent numéro se fait au moment de la réalisation du revenu résultant de l’aliénation de parts.
 
 (7)
 
 Le prélèvement immobilier est à déclarer et payer par le véhicule d’investissement soumis au prélèvement immobilier selon les modalités suivantes :
 
-1. Le taux du prélèvement immobilier est fixé à 20 pour cent du montant des revenus provenant d’un bien immobilier sis au Grand-Duché de Luxembourg soumis au prélèvement immobilier.
+- Le taux du prélèvement immobilier est fixé à 20 pour cent du montant des revenus provenant d’un bien immobilier sis au Grand-Duché de Luxembourg soumis au prélèvement immobilier.
 
-2. Le véhicule d’investissement soumis au prélèvement immobilier est tenu de déclarer au bureau de la retenue d’impôt sur les intérêts de l’Administration des contributions directes le prélèvement immobilier après la fin de chaque année civile, au plus tard le 31 mai qui suit l’année civile de la perception ou de la réalisation des revenus provenant d’un bien immobilier, pour l’ensemble des revenus provenant d’un bien immobilier soumis au prélèvement immobilier, perçus ou réalisés pendant l’année civile, et déterminés selon les dispositions du présent article. Le véhicule d’investissement est tenu de verser le prélèvement immobilier au bureau de recette Ettelbruck de l’Administration des contributions directes au plus tard le 10 juin qui suit.
+- Le véhicule d’investissement soumis au prélèvement immobilier est tenu de déclarer au bureau de la retenue d’impôt sur les intérêts de l’Administration des contributions directes le prélèvement immobilier après la fin de chaque année civile, au plus tard le 31 mai qui suit l’année civile de la perception ou de la réalisation des revenus provenant d’un bien immobilier, pour l’ensemble des revenus provenant d’un bien immobilier soumis au prélèvement immobilier, perçus ou réalisés pendant l’année civile, et déterminés selon les dispositions du présent article. Le véhicule d’investissement est tenu de verser le prélèvement immobilier au bureau de recette Ettelbruck de l’Administration des contributions directes au plus tard le 10 juin qui suit.
 
-3. La déclaration par le véhicule d’investissement soumis au prélèvement immobilier se fait dans la forme prescrite et contient les revenus provenant d’un bien immobilier soumis au prélèvement immobilier, une ventilation par bien immobilier, ainsi que le montant du prélèvement immobilier opéré. Le véhicule d’investissement doit joindre à la déclaration un rapport dans lequel un réviseur d’entreprises agréé certifie que les revenus provenant d’un bien immobilier ont été déterminés conformément aux dispositions du présent article et fournit le détail des calculs y relatifs.
+- La déclaration par le véhicule d’investissement soumis au prélèvement immobilier se fait dans la forme prescrite et contient les revenus provenant d’un bien immobilier soumis au prélèvement immobilier, une ventilation par bien immobilier, ainsi que le montant du prélèvement immobilier opéré. Le véhicule d’investissement doit joindre à la déclaration un rapport dans lequel un réviseur d’entreprises agréé certifie que les revenus provenant d’un bien immobilier ont été déterminés conformément aux dispositions du présent article et fournit le détail des calculs y relatifs.
 
-4. En cas de non-déclaration, de déclaration tardive, ou de déclaration incomplète ou inexacte par le véhicule d’investissement soumis au prélèvement immobilier, le bureau de la retenue d’impôt sur les intérêts de l’Administration des contributions directes fixe le montant de l’insuffisance par un bulletin d’impôt au sens du paragraphe 211 de la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung »).
+- En cas de non-déclaration, de déclaration tardive, ou de déclaration incomplète ou inexacte par le véhicule d’investissement soumis au prélèvement immobilier, le bureau de la retenue d’impôt sur les intérêts de l’Administration des contributions directes fixe le montant de l’insuffisance par un bulletin d’impôt au sens du paragraphe 211 de la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung »).
 
-5. Sur demande du bureau de la retenue d’impôt sur les intérêts de l’Administration des contributions directes, le véhicule d’investissement soumis au prélèvement immobilier ainsi que l’organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, dans lequel le véhicule d’investissement soumis au prélèvement immobilier détient des parts ou dans lequel le véhicule d’investissement détient des parts à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, doivent être en mesure de fournir tout élément pertinent pour étayer les montants des revenus provenant d’un bien immobilier et du prélèvement immobilier déclaré. Par dérogation au paragraphe 178 bis de la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung »), la disposition prévue à la phrase qui précède est d’application correspondante au fonds commun de placement dans lequel le véhicule d’investissement soumis au prélèvement immobilier détient des parts ou dans lequel le véhicule d’investissement détient des parts à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement.
+- Sur demande du bureau de la retenue d’impôt sur les intérêts de l’Administration des contributions directes, le véhicule d’investissement soumis au prélèvement immobilier ainsi que l’organisme visé à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, dans lequel le véhicule d’investissement soumis au prélèvement immobilier détient des parts ou dans lequel le véhicule d’investissement détient des parts à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement, doivent être en mesure de fournir tout élément pertinent pour étayer les montants des revenus provenant d’un bien immobilier et du prélèvement immobilier déclaré. Par dérogation au paragraphe 178 bis de la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung »), la disposition prévue à la phrase qui précède est d’application correspondante au fonds commun de placement dans lequel le véhicule d’investissement soumis au prélèvement immobilier détient des parts ou dans lequel le véhicule d’investissement détient des parts à travers un ou plusieurs organismes visés à l’article 175, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ou à travers un ou plusieurs fonds communs de placement.
 
-6. Au cas où le prélèvement immobilier a été payé à tort ou si un montant trop élevé a été payé, le remboursement du prélèvement versé indûment pourra être effectué, sur demande à présenter jusqu’à la fin de l’année civile qui suit l’année civile du versement du montant du prélèvement immobilier en question, par le véhicule d’investissement au bureau de la retenue d’impôt sur les intérêts de l’Administration des contributions directes.
+- Au cas où le prélèvement immobilier a été payé à tort ou si un montant trop élevé a été payé, le remboursement du prélèvement versé indûment pourra être effectué, sur demande à présenter jusqu’à la fin de l’année civile qui suit l’année civile du versement du montant du prélèvement immobilier en question, par le véhicule d’investissement au bureau de la retenue d’impôt sur les intérêts de l’Administration des contributions directes.
 
-7. Le défaut de paiement du prélèvement immobilier par le véhicule d’investissement soumis au prélèvement immobilier endéans les délais requis rend exigible l’intérêt de retard prévu par l’article 155 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
+- Le défaut de paiement du prélèvement immobilier par le véhicule d’investissement soumis au prélèvement immobilier endéans les délais requis rend exigible l’intérêt de retard prévu par l’article 155 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
 
-8. Le Trésor a pour le recouvrement du prélèvement immobilier les droits d’exécution, privilèges et hypothèques prévus par la législation concernant le recouvrement des contributions directes.
+- Le Trésor a pour le recouvrement du prélèvement immobilier les droits d’exécution, privilèges et hypothèques prévus par la législation concernant le recouvrement des contributions directes.
 
-9. Le prélèvement immobilier n’est pas déductible lors de la détermination du montant des revenus provenant d’un bien immobilier, ni imputable ni déductible par quiconque.
+- Le prélèvement immobilier n’est pas déductible lors de la détermination du montant des revenus provenant d’un bien immobilier, ni imputable ni déductible par quiconque.
 
 (8)
 
@@ -309,13 +414,13 @@ Introduction d’une disposition spécifique relative à l’article 164bis de l
 
 Lorsque l’octroi du régime d’intégration fiscale au sens de l’article 164bis, alinéa 3, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu entraîne la dissolution d’un groupe intégré existant au sens de l’article 164bis, alinéa 2 de cette même loi, le changement du régime d’intégration fiscale se fait exceptionnellement sans entraîner des conséquences fiscales au niveau de l’imposition des membres individuels du groupe intégré dissous si les conditions suivantes se trouvent simultanément remplies :
 
-1. la société mère intégrante du groupe intégré dissous devient la société filiale intégrante du nouveau groupe intégré ;
+- la société mère intégrante du groupe intégré dissous devient la société filiale intégrante du nouveau groupe intégré ;
 
-2. le changement de régime s’opère au plus tard au titre de l’année d’imposition 2022 ;
+- le changement de régime s’opère au plus tard au titre de l’année d’imposition 2022 ;
 
-3. le changement de régime élargit le périmètre du groupe intégré dissous ;
+- le changement de régime élargit le périmètre du groupe intégré dissous ;
 
-4. les membres du nouveau groupe intégré se lient pour une période devant couvrir au moins 5 exercices d’exploitation. Pour ceux qui faisaient déjà partie du groupe intégré dissous, la détermination de la période minimale des cinq exercices d’exploitation est faite comme si le changement de régime n’avait pas eu lieu.
+- les membres du nouveau groupe intégré se lient pour une période devant couvrir au moins 5 exercices d’exploitation. Pour ceux qui faisaient déjà partie du groupe intégré dissous, la détermination de la période minimale des cinq exercices d’exploitation est faite comme si le changement de régime n’avait pas eu lieu.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -324,19 +429,78 @@ Introduction d’une Taxe CO2
 
 (1)
 
-L’article 4 de la loi modifiée du 17 décembre 2010 fixant les droits d’accise et les taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques est remplacé comme suit : « Art. 4. Droit d’accise autonome additionnel dénommé « Taxe CO2 » (1) Lorsqu’ils sont mis à la consommation dans le pays, les produits énergétiques et le gaz naturel ci-après sont soumis à un droit d’accise autonome additionnel dénommé « Taxe CO2 » ne pouvant dépasser les taux suivants : a) essence au plomb 97,00 € par 1.000 litres à 15 °C b) essence sans plomb 97,00 € par 1.000 litres à 15 °C c) gasoil i) utilisé comme carburant 115,00 € par 1.000 litres à 15 °C ii) utilisé comme carburant pour des utilisations industrielles et commerciales 100,00 € par 1.000 litres à 15 °C iii) utilisé comme combustible 100,00 € par 1.000 litres à 15 °C iv) utilisé comme carburant ou combustible dans les activités couvertes par le système d’échange de quotas d’émission de gaz à effet de serre au sens de la loi du 15 décembre 2020 relative au climat 0,00 € par 1.000 litres à 15 °C d) pétrole lampant i) utilisé comme carburant 100,00 € par 1.000 litres à 15 °C ii) utilisé comme carburant pour des utilisations industrielles et commerciales 100,00 € par 1.000 litres à 15 °C iii) utilisé comme combustible 100,00 € par 1.000 litres à 15 °C iv) utilisé comme carburant ou combustible dans les activités couvertes par le système d’échange de quotas d’émission de gaz à effet de serre au sens de la loi du 15 décembre 2020 relative au climat 0,00 € par 1.000 litres à 15 °C e) fioul lourd i) non utilisé comme carburant ou combustible dans les activités couvertes par le système d’échange de quotas d’émission de gaz à effet de serre au sens de la loi du 15 décembre 2020 relative au climat 100,00 € par 1.000 kg ii) utilisé comme carburant ou combustible dans les activités couvertes par le système d’échange de quotas d’émission de gaz à effet de serre au sens de la loi du 15 décembre 2020 relative au climat 0,00 € par 1.000 kg f) gaz de pétrole liquéfiés et méthane i) utilisé comme carburant 100,00 € par 1.000 kg ii) utilisé comme carburant pour des utilisations industrielles et commerciales 100,00 € par 1.000 kg iii) utilisé comme combustible 100,00 € par 1.000 kg iv) utilisé comme carburant ou combustible dans les activités couvertes par le système d’échange de quotas d’émission de gaz à effet de serre au sens de la loi du 15 décembre 2020 relative au climat 0,00 € par 1.000 kg g) gaz naturel i) utilisé comme carburant 10,00 € par MWh ii) utilisé comme combustible - consommation/an ≤ 550 MWh (=Cat. A) 10,00 € par MWh - consommation/an > 550 MWh (=Cat. B) 10,00 € par MWh - consommation/an > 4100 MWh (=Cat. C1) 10,00 € par MWh - consommation/an > 4100 MWh (=Cat. C2) 10,00 € par MWh iii) utilisé comme combustible - consommation/an > 4100 MWh (=Cat. C1bis) 0,00 € par MWh (2) Les taux sont arrêtés par voie de règlement grand-ducal. (3) Par dérogation aux taux du droit d’accise autonome additionnel dénommé « Taxe CO2 » tels que fixés au paragraphe 1er, lettre c), sous iv), lettre d), sous iv), lettre e), sous ii), lettre f), sous iv), et lettre g), sous iii), et pendant une période transitoire du 1er janvier 2021 au 31 mars 2021 au cours de laquelle les taux y mentionnés ne trouvent pas application, l’accise prélevée sur base des autres dispositions du paragraphe 1er sur les produits énergétiques utilisés dans les installations fixes est remboursée à l’exploitant de l’installation fixe pour ce qui concerne les activités couvertes par le système d’échange de quotas d’émission de gaz à effet de serre au sens de la loi du 15 décembre 2020 relative au climat. (4) Sont applicables au droit d’accise autonome les dispositions légales et réglementaires relatives au droit d’accise sur les produits énergétiques et celles relatives à la taxe sur la consommation de gaz naturel. ».
+L’article 4 de la loi modifiée du 17 décembre 2010 fixant les droits d’accise et les taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques est remplacé comme suit :
+
+« Art. 4.
+
+Droit d’accise autonome additionnel dénommé « Taxe CO2 »
+
+(1)
+
+Lorsqu’ils sont mis à la consommation dans le pays, les produits énergétiques et le gaz naturel ci-après sont soumis à un droit d’accise autonome additionnel dénommé « Taxe CO2 » ne pouvant dépasser les taux suivants :
+
+| a) | essence au plomb | 97,00 € par 1.000 litres à 15 °C |  |  |
+| --- | --- | --- | --- | --- |
+| b) | essence sans plomb | 97,00 € par 1.000 litres à 15 °C |  |  |
+| c) | gasoil |  |  |  |
+|  | i) | utilisé comme carburant | 115,00 € par 1.000 litres à 15 °C |  |
+|  | ii) | utilisé comme carburant pour des utilisations industrielles et commerciales | 100,00 € par 1.000 litres à 15 °C |  |
+|  | iii) | utilisé comme combustible | 100,00 € par 1.000 litres à 15 °C |  |
+|  | iv) | utilisé comme carburant ou combustible dans les activités couvertes par le système d’échange de quotas d’émission de gaz à effet de serre au sens de la loi du 15 décembre 2020 relative au climat | 0,00 € par 1.000 litres à 15 °C |  |
+| d) | pétrole lampant |  |  |  |
+|  | i) | utilisé comme carburant | 100,00 € par 1.000 litres à 15 °C |  |
+|  | ii) | utilisé comme carburant pour des utilisations industrielles et commerciales | 100,00 € par 1.000 litres à 15 °C |  |
+|  | iii) | utilisé comme combustible | 100,00 € par 1.000 litres à 15 °C |  |
+|  | iv) | utilisé comme carburant ou combustible dans les activités couvertes par le système d’échange de quotas d’émission de gaz à effet de serre au sens de la loi du 15 décembre 2020 relative au climat | 0,00 € par 1.000 litres à 15 °C |  |
+| e) | fioul lourd |  |  |  |
+|  | i) | non utilisé comme carburant ou combustible dans les activités couvertes par le système d’échange de quotas d’émission de gaz à effet de serre au sens de la loi du 15 décembre 2020 relative au climat | 100,00 € par 1.000 kg |  |
+|  | ii) | utilisé comme carburant ou combustible dans les activités couvertes par le système d’échange de quotas d’émission de gaz à effet de serre au sens de la loi du 15 décembre 2020 relative au climat | 0,00 € par 1.000 kg |  |
+| f) | gaz de pétrole liquéfiés et méthane |  |  |  |
+|  | i) | utilisé comme carburant | 100,00 € par 1.000 kg |  |
+|  | ii) | utilisé comme carburant pour des utilisations industrielles et commerciales | 100,00 € par 1.000 kg |  |
+|  | iii) | utilisé comme combustible | 100,00 € par 1.000 kg |  |
+|  | iv) | utilisé comme carburant ou combustible dans les activités couvertes par le système d’échange de quotas d’émission de gaz à effet de serre au sens de la loi du 15 décembre 2020 relative au climat | 0,00 € par 1.000 kg |  |
+| g) | gaz naturel |  |  |  |
+|  | i) | utilisé comme carburant | 10,00 € par MWh |  |
+|  | ii) | utilisé comme combustible |  |  |
+|  |  | - | consommation/an ≤ 550 MWh (=Cat. A) | 10,00 € par MWh |
+|  |  | - | consommation/an > 550 MWh (=Cat. B) | 10,00 € par MWh |
+|  |  | - | consommation/an > 4100 MWh (=Cat. C1) | 10,00 € par MWh |
+|  |  | - | consommation/an > 4100 MWh (=Cat. C2) | 10,00 € par MWh |
+|  | iii) | utilisé comme combustible |  |  |
+|  |  | - | consommation/an > 4100 MWh (=Cat. C1bis) | 0,00 € par MWh |
 
 (2)
 
-À l’article 7, paragraphe 1er, de la même loi, la lettre c) est remplacée comme suit : « c) les points de comptage affichant une consommation annuelle supérieure à quatre mille cent mégawattheure ou utilisant le gaz naturel principalement pour la réduction chimique ou dans les procédés métallurgiques ou minéralogiques font partie de la catégorie C1 ; c)bis les points de comptage affichant une consommation annuelle supérieure à quatre mille cent mégawattheure et participant au système d’échange de quotas d’émission de gaz à effet de serre, au sens de la loi du 15 décembre 2020 relative au climat, hormis ceux de la catégorie D, font partie de la catégorie C1bis ; ».
+Les taux sont arrêtés par voie de règlement grand-ducal.
 
 (3)
 
-À l’article 11, paragraphe 1er, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État, l’alinéa 3 est remplacé comme suit : « Le montant de la contribution sociale visée à l’article 7bis de la loi modifiée du 30 juin 1976 portant : 1. création d’un fonds pour l’emploi ; 2. réglementation de l’octroi des indemnités de chômage complet, et qui s’applique aux biens spécifiés audit article, la taxe CO2 perçue sur les produits énergétiques au sens de l’article 4 de la loi modifiée du 17 décembre 2010 fixant les droits d’accise et les taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques et la taxe de prélèvement d’eau et de la taxe de rejet des eaux usées introduites en vertu des articles 12, 15, 16 et 17 de la loi du 19 décembre 2008 relative à l’eau, viennent en déduction des prix de ces biens relevés par le STATEC pour l’établissement de l’indice des prix à la consommation publié sur la base 100 au 1er janvier 1948. ».
+Par dérogation aux taux du droit d’accise autonome additionnel dénommé « Taxe CO2 » tels que fixés au paragraphe 1er, lettre c), sous iv), lettre d), sous iv), lettre e), sous ii), lettre f), sous iv), et lettre g), sous iii), et pendant une période transitoire du 1er janvier 2021 au 31 mars 2021 au cours de laquelle les taux y mentionnés ne trouvent pas application, l’accise prélevée sur base des autres dispositions du paragraphe 1er sur les produits énergétiques utilisés dans les installations fixes est remboursée à l’exploitant de l’installation fixe pour ce qui concerne les activités couvertes par le système d’échange de quotas d’émission de gaz à effet de serre au sens de la loi du 15 décembre 2020 relative au climat.
 
 (4)
 
-À l’article 3, paragraphe 1er, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, l’alinéa 3 est remplacé comme suit : « Le montant de la contribution sociale visée à l’article 7bis de la loi modifiée du 30 juin 1976 portant : 1. création d’un fonds pour l’emploi ; 2. réglementation de l’octroi des indemnités de chômage complet, et qui s’applique aux biens spécifiés audit article, la taxe CO2 perçue sur les produits énergétiques au sens de l’article 4 de la loi modifiée du 17 décembre 2010 fixant les droits d’accise et les taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques et la taxe de prélèvement d’eau et de la taxe de rejet des eaux usées introduites en vertu des articles 12, 15, 16 et 17 de la loi du 19 décembre 2008 relative à l’eau, viennent en déduction des prix de ces biens relevés par le STATEC pour l’établissement de l’indice des prix à la consommation publié sur la base 100 au 1er janvier 1948. ».
+Sont applicables au droit d’accise autonome les dispositions légales et réglementaires relatives au droit d’accise sur les produits énergétiques et celles relatives à la taxe sur la consommation de gaz naturel. ».
+
+(2)
+
+À l’article 7, paragraphe 1er, de la même loi, la lettre c) est remplacée comme suit :
+
+« c) les points de comptage affichant une consommation annuelle supérieure à quatre mille cent mégawattheure ou utilisant le gaz naturel principalement pour la réduction chimique ou dans les procédés métallurgiques ou minéralogiques font partie de la catégorie C1 ;
+
+c)bis les points de comptage affichant une consommation annuelle supérieure à quatre mille cent mégawattheure et participant au système d’échange de quotas d’émission de gaz à effet de serre, au sens de la loi du 15 décembre 2020 relative au climat, hormis ceux de la catégorie D, font partie de la catégorie C1bis ; ».
+
+(3)
+
+À l’article 11, paragraphe 1er, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État, l’alinéa 3 est remplacé comme suit :
+
+« Le montant de la contribution sociale visée à l’article 7bis de la loi modifiée du 30 juin 1976 portant : 1. création d’un fonds pour l’emploi ; 2. réglementation de l’octroi des indemnités de chômage complet, et qui s’applique aux biens spécifiés audit article, la taxe CO2 perçue sur les produits énergétiques au sens de l’article 4 de la loi modifiée du 17 décembre 2010 fixant les droits d’accise et les taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques et la taxe de prélèvement d’eau et de la taxe de rejet des eaux usées introduites en vertu des articles 12, 15, 16 et 17 de la loi du 19 décembre 2008 relative à l’eau, viennent en déduction des prix de ces biens relevés par le STATEC pour l’établissement de l’indice des prix à la consommation publié sur la base 100 au 1er janvier 1948. ».
+
+(4)
+
+À l’article 3, paragraphe 1er, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, l’alinéa 3 est remplacé comme suit :
+
+« Le montant de la contribution sociale visée à l’article 7bis de la loi modifiée du 30 juin 1976 portant : 1. création d’un fonds pour l’emploi ; 2. réglementation de l’octroi des indemnités de chômage complet, et qui s’applique aux biens spécifiés audit article, la taxe CO2 perçue sur les produits énergétiques au sens de l’article 4 de la loi modifiée du 17 décembre 2010 fixant les droits d’accise et les taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques et la taxe de prélèvement d’eau et de la taxe de rejet des eaux usées introduites en vertu des articles 12, 15, 16 et 17 de la loi du 19 décembre 2008 relative à l’eau, viennent en déduction des prix de ces biens relevés par le STATEC pour l’établissement de l’indice des prix à la consommation publié sur la base 100 au 1er janvier 1948. ».
 
 (5)
 
@@ -347,7 +511,23 @@ L’article 4 de la loi modifiée du 17 décembre 2010 fixant les droits d’acc
 
 Modification de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif
 
-À l’article 174 de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, il est ajouté un paragraphe 3, libellé comme suit : « (3) Si la part des avoirs nets d’un OPC ou d’un compartiment individuel d’un OPC à compartiments multiples investis dans des activités économique durables telles que définies à l’article 3 du règlement (UE) 2020/852 du Parlement européen et du Conseil du 18 juin 2020 sur l’établissement d’un cadre visant à favoriser les investissements durables et modifiant le règlement (UE) 2019/2088 (ci-après, « règlement (UE) 2020/852 »), qui est publiée conformément audit règlement, représente au moins 5 pour cent de la totalité des avoirs nets de l’OPC ou du compartiment individuel d’un OPC à compartiments multiples, ce taux est de 0,04 pour cent pour la part des avoirs nets telle que définie à l’alinéa 6. Si la part des avoirs nets d’un OPC ou d’un compartiment individuel d’un OPC à compartiments multiples investis dans des activités économiques durables telles que définies à l’article 3 du règlement (UE) 2020/852, qui est publiée conformément audit règlement, représente au moins 20 pour cent de la totalité des avoirs nets de l’OPC ou du compartiment individuel d’un OPC à compartiments multiples, ce taux est de 0,03 pour cent pour la part des avoirs nets telle que définie à l’alinéa 6. Si la part des avoirs nets d’un OPC ou d’un compartiment individuel d’un OPC à compartiments multiples investis dans des activités économiques durables telles que définies à l’article 3 du règlement (UE) 2020/852, qui est publiée conformément audit règlement, représente au moins 35 pour cent de la totalité des avoirs nets de l’OPC ou du compartiment individuel d’un OPC à compartiments multiples, ce taux est de 0,02 pour cent pour la part des avoirs nets telle que définie à l’alinéa 6. Si la part des avoirs nets d’un OPC ou d’un compartiment individuel d’un OPC à compartiments multiples investis dans des activités économiques durables telles que définies à l’article 3 du règlement (UE) 2020/852, qui est publiée conformément audit règlement, représente au moins 50 pour cent de la totalité des avoirs nets de l’OPC ou du compartiment individuel d’un OPC à compartiments multiples, ce taux est de 0,01 pour cent pour la part des avoirs nets telle que définie à l’alinéa 6. Afin de pouvoir bénéficier d’un des taux visés aux alinéas 1er à 4, la part des avoirs nets investis dans des activités économiques durables telles que définies à l’article 3 du règlement (UE) 2020/852, au dernier jour de l’exercice de l’OPC, et qui est publiée conformément au règlement (UE) 2020/852, est contrôlée conformément aux exigences découlant de l’article 154, paragraphe 1er, par un réviseur d’entreprises agréé, ou, le cas échéant, attestée par un réviseur d’entreprises agréé dans le cadre d’une mission d’assurance raisonnable selon la norme d’audit internationale adoptée par l’Institut des réviseurs d’entreprises en vertu de l’article 62, lettre b), de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit. Cette part et le pourcentage correspondant à cette part par rapport à la totalité des avoirs nets de l’OPC ou du compartiment individuel d’un OPC à compartiments multiples sont à inclure dans le rapport annuel ou dans un rapport d’assurance. Une attestation certifiée par le réviseur d’entreprises agréé, qui contient le pourcentage des avoirs nets investis dans des activités économiques durables tel que déterminé dans le rapport annuel ou le rapport d’assurance établis conformément aux exigences énoncées à l’alinéa 5, est transmise à l’Administration de l’enregistrement, des domaines et de la TVA lors de la première déclaration pour la taxe d’abonnement qui suit la finalisation du rapport annuel, ou le cas échéant du rapport d’assurance. Sans préjudice de l’article 177, le pourcentage des avoirs nets investis dans des activités économiques durables figurant dans l’attestation transmise sert de base pour déterminer le taux de taxation qui sera applicable à la part des avoirs nets investis dans des activités économiques durables telles que définies à l’article 3 du règlement (UE) 2020/852, publiée conformément au règlement (UE) 2020/852, et évaluée au dernier jour de chaque trimestre, pour les quatre trimestres qui suivent la transmission de l’attestation à l’Administration de l’enregistrement, des domaines et de la TVA. Pour une période transitoire prenant fin le 1er janvier 2022, les déclarants voulant bénéficier des taux visés aux alinéas 1er à 4, soumettront par voie électronique leur déclaration trimestrielle au taux de 0,05 pour cent, ainsi qu’une déclaration rectificative sur une formule mise à disposition sous forme papier ou sous forme électronique par l’Administration de l’enregistrement, des domaines et de la TVA. ».
+À l’article 174 de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, il est ajouté un paragraphe 3, libellé comme suit :
+
+« (3)
+
+Si la part des avoirs nets d’un OPC ou d’un compartiment individuel d’un OPC à compartiments multiples investis dans des activités économique durables telles que définies à l’article 3 du règlement (UE) 2020/852 du Parlement européen et du Conseil du 18 juin 2020 sur l’établissement d’un cadre visant à favoriser les investissements durables et modifiant le règlement (UE) 2019/2088 (ci-après, « règlement (UE) 2020/852 »), qui est publiée conformément audit règlement, représente au moins 5 pour cent de la totalité des avoirs nets de l’OPC ou du compartiment individuel d’un OPC à compartiments multiples, ce taux est de 0,04 pour cent pour la part des avoirs nets telle que définie à l’alinéa 6.
+
+Si la part des avoirs nets d’un OPC ou d’un compartiment individuel d’un OPC à compartiments multiples investis dans des activités économiques durables telles que définies à l’article 3 du règlement (UE) 2020/852, qui est publiée conformément audit règlement, représente au moins 20 pour cent de la totalité des avoirs nets de l’OPC ou du compartiment individuel d’un OPC à compartiments multiples, ce taux est de 0,03 pour cent pour la part des avoirs nets telle que définie à l’alinéa 6.
+
+Si la part des avoirs nets d’un OPC ou d’un compartiment individuel d’un OPC à compartiments multiples investis dans des activités économiques durables telles que définies à l’article 3 du règlement (UE) 2020/852, qui est publiée conformément audit règlement, représente au moins 35 pour cent de la totalité des avoirs nets de l’OPC ou du compartiment individuel d’un OPC à compartiments multiples, ce taux est de 0,02 pour cent pour la part des avoirs nets telle que définie à l’alinéa 6.
+
+Si la part des avoirs nets d’un OPC ou d’un compartiment individuel d’un OPC à compartiments multiples investis dans des activités économiques durables telles que définies à l’article 3 du règlement (UE) 2020/852, qui est publiée conformément audit règlement, représente au moins 50 pour cent de la totalité des avoirs nets de l’OPC ou du compartiment individuel d’un OPC à compartiments multiples, ce taux est de 0,01 pour cent pour la part des avoirs nets telle que définie à l’alinéa 6.
+
+Afin de pouvoir bénéficier d’un des taux visés aux alinéas 1er à 4, la part des avoirs nets investis dans des activités économiques durables telles que définies à l’article 3 du règlement (UE) 2020/852, au dernier jour de l’exercice de l’OPC, et qui est publiée conformément au règlement (UE) 2020/852, est contrôlée conformément aux exigences découlant de l’article 154, paragraphe 1er, par un réviseur d’entreprises agréé, ou, le cas échéant, attestée par un réviseur d’entreprises agréé dans le cadre d’une mission d’assurance raisonnable selon la norme d’audit internationale adoptée par l’Institut des réviseurs d’entreprises en vertu de l’article 62, lettre b), de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit. Cette part et le pourcentage correspondant à cette part par rapport à la totalité des avoirs nets de l’OPC ou du compartiment individuel d’un OPC à compartiments multiples sont à inclure dans le rapport annuel ou dans un rapport d’assurance.
+
+Une attestation certifiée par le réviseur d’entreprises agréé, qui contient le pourcentage des avoirs nets investis dans des activités économiques durables tel que déterminé dans le rapport annuel ou le rapport d’assurance établis conformément aux exigences énoncées à l’alinéa 5, est transmise à l’Administration de l’enregistrement, des domaines et de la TVA lors de la première déclaration pour la taxe d’abonnement qui suit la finalisation du rapport annuel, ou le cas échéant du rapport d’assurance. Sans préjudice de l’article 177, le pourcentage des avoirs nets investis dans des activités économiques durables figurant dans l’attestation transmise sert de base pour déterminer le taux de taxation qui sera applicable à la part des avoirs nets investis dans des activités économiques durables telles que définies à l’article 3 du règlement (UE) 2020/852, publiée conformément au règlement (UE) 2020/852, et évaluée au dernier jour de chaque trimestre, pour les quatre trimestres qui suivent la transmission de l’attestation à l’Administration de l’enregistrement, des domaines et de la TVA.
+
+Pour une période transitoire prenant fin le 1er janvier 2022, les déclarants voulant bénéficier des taux visés aux alinéas 1er à 4, soumettront par voie électronique leur déclaration trimestrielle au taux de 0,05 pour cent, ainsi qu’une déclaration rectificative sur une formule mise à disposition sous forme papier ou sous forme électronique par l’Administration de l’enregistrement, des domaines et de la TVA. ».
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -360,15 +540,17 @@ Le chapitre Ier, paragraphe III, point 2°, de l’annexe de la loi modifiée du
 
 (2)
 
-Le chapitre Ier, paragraphe VI, de l’annexe de la loi précitée du 23 décembre 1913 est complété par un point 5° libellé comme suit : « 5° L’apport à une société civile ou commerciale d’un immeuble situé à l’intérieur du pays, rémunéré par l’attribution de droits sociaux. ».
+Le chapitre Ier, paragraphe VI, de l’annexe de la loi précitée du 23 décembre 1913 est complété par un point 5° libellé comme suit :
+
+« 5° L’apport à une société civile ou commerciale d’un immeuble situé à l’intérieur du pays, rémunéré par l’attribution de droits sociaux. ».
 
 (3)
 
 La loi du 19 décembre 2008 – portant révision du régime applicable à certains actes de société en matière de droits d’enregistrement – portant transposition de la directive 2008/7/CE du Conseil du 12 février 2008 concernant les impôts indirects frappant les rassemblements de capitaux – modifiant : • la loi modifiée du 7 août 1920, portant majoration des droits d’enregistrement, de timbre, de succession, etc. • la loi modifiée du 20 décembre 2002 concernant les organismes de placement collectif • la loi du 22 mars 2004 relative à la titrisation • la loi modifiée du 15 juin 2004 relative à la société d’investissement en capital à risque (SICAR) • la loi modifiée du 13 juillet 2005 relative aux institutions de retraite professionnelle sous forme de sepcav et assep • la loi du 13 février 2007 relative aux fonds d’investissement spécialisés – et abrogeant la loi modifiée du 29 décembre 1971 concernant l’impôt frappant les rassemblements de capitaux dans les sociétés civiles et commerciales et portant révision de certaines dispositions législatives régissant la perception des droits d’enregistrement, est modifiée comme suit :
 
-1. L’article 4, alinéa 1 er , est modifié comme suit : « L’apport à une société civile ou commerciale d’un immeuble situé à l’intérieur du pays, rémunéré par l’attribution de droits sociaux, donne ouverture aux droits d’enregistrement au taux fixé au chapitre Ier, paragraphe VI, de l’annexe à la loi modifiée du 23 décembre 1913 concernant la révision de la législation qui régit les impôts dont le recouvrement est attribué à l’administration de l’enregistrement et des domaines et aux droits de transcription au taux fixé au chapitre II, paragraphe III, de ladite annexe à la loi précitée du 23 décembre 1913. ».
+- L’article 4, alinéa 1 er , est modifié comme suit : « L’apport à une société civile ou commerciale d’un immeuble situé à l’intérieur du pays, rémunéré par l’attribution de droits sociaux, donne ouverture aux droits d’enregistrement au taux fixé au chapitre Ier, paragraphe VI, de l’annexe à la loi modifiée du 23 décembre 1913 concernant la révision de la législation qui régit les impôts dont le recouvrement est attribué à l’administration de l’enregistrement et des domaines et aux droits de transcription au taux fixé au chapitre II, paragraphe III, de ladite annexe à la loi précitée du 23 décembre 1913. ».
 
-2. À l’article 7, alinéa 1 er , le terme cinq est remplacé par le terme dix .
+- À l’article 7, alinéa 1 er , le terme cinq est remplacé par le terme dix .
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -379,18 +561,32 @@ La loi modifiée du 11 mai 2007 relative à la création d’une société de ge
 
 (1)
 
-À l’article 2 est ajouté un troisième paragraphe, libellé comme suit : « (3) Il est interdit à la SPF de détenir des biens immobiliers à travers les organismes visés au paragraphe 11bis de la loi modifiée d’adaptation fiscale du 16 octobre 1934 (« Steueranpassungsgesetz ») ou à travers un ou plusieurs fonds communs de placement. ».
+À l’article 2 est ajouté un troisième paragraphe, libellé comme suit :
+
+« (3)
+
+Il est interdit à la SPF de détenir des biens immobiliers à travers les organismes visés au paragraphe 11bis de la loi modifiée d’adaptation fiscale du 16 octobre 1934 (« Steueranpassungsgesetz ») ou à travers un ou plusieurs fonds communs de placement. ».
 
 (2)
 
-L’article 5, paragraphe 3, alinéa 1er, est complété comme suit : « Les déclarations sont à transférer et à déposer auprès de l’administration par transfert électronique de fichier suivant un procédé mis en place par celle-ci, garantissant l’authenticité de l’origine et l’intégrité, la non-répudiation et la confidentialité du contenu. ».
+L’article 5, paragraphe 3, alinéa 1er, est complété comme suit :
+
+« Les déclarations sont à transférer et à déposer auprès de l’administration par transfert électronique de fichier suivant un procédé mis en place par celle-ci, garantissant l’authenticité de l’origine et l’intégrité, la non-répudiation et la confidentialité du contenu. ».
 
 <a id="art-12"></a>
 ## Art. 12.
 
 Modification de la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung »)
 
-Il est inséré un nouveau paragraphe 202a dans la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung ») libellé comme suit : « § 202a. (1) Le bureau compétent pour la vérification de la retenue d’impôt sur traitements et salaires peut prononcer une astreinte à l’encontre de l’employeur qui ne remplit pas son obligation de consultation prévue par l’article 143, alinéa 4, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu. (2) L’astreinte individuelle ne dépasse pas 10 000 euros. Lorsque plusieurs astreintes sont prononcées, un délai minimum d’un mois doit être observé entre deux astreintes. (3) Les dispositions des alinéas 5, 6 et 7 du paragraphe 202 s’appliquent à l’astreinte prononcée en vertu du présent paragraphe. ».
+Il est inséré un nouveau paragraphe 202a dans la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung ») libellé comme suit :
+
+« § 202a.
+
+(1) Le bureau compétent pour la vérification de la retenue d’impôt sur traitements et salaires peut prononcer une astreinte à l’encontre de l’employeur qui ne remplit pas son obligation de consultation prévue par l’article 143, alinéa 4, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
+
+(2) L’astreinte individuelle ne dépasse pas 10 000 euros. Lorsque plusieurs astreintes sont prononcées, un délai minimum d’un mois doit être observé entre deux astreintes.
+
+(3) Les dispositions des alinéas 5, 6 et 7 du paragraphe 202 s’appliquent à l’astreinte prononcée en vertu du présent paragraphe. ».
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -412,14 +608,50 @@ La loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée e
 
 Modification de la loi modifiée du 28 janvier 1948 tendant à assurer la juste et exacte perception des droits d’enregistrement et de succession
 
-L’article 28 de la loi modifiée du 28 janvier 1948 tendant à assurer la juste et exacte perception des droits d’enregistrement et de succession est complété comme suit : « La preuve de la qualité d’héritier à l’égard de tout tiers détenteur de biens de la succession résulte de ce certificat indiquant la part échue à tout héritier dans la succession. Le certificat ainsi établi fait foi jusqu’à preuve du contraire. ».
+L’article 28 de la loi modifiée du 28 janvier 1948 tendant à assurer la juste et exacte perception des droits d’enregistrement et de succession est complété comme suit :
+
+« La preuve de la qualité d’héritier à l’égard de tout tiers détenteur de biens de la succession résulte de ce certificat indiquant la part échue à tout héritier dans la succession. Le certificat ainsi établi fait foi jusqu’à preuve du contraire. ».
 
 <a id="art-15"></a>
 ## Art. 15.
 
 Modification de la loi modifiée du 9 juillet 1937 sur l’impôt sur les assurances (« Versicherungsteuergesetz »)
 
-Sont insérés dans la loi modifiée du 9 juillet 1937 sur l’impôt sur les assurances (« Versicherungsteuergesetz ») les articles 9bis et 9ter nouveaux, libellés comme suit : « Art. 9bis : Obligations déclaratives. (1) Doit être déposée une déclaration dans laquelle figurent toutes les données nécessaires pour constater le montant de l’impôt devenu exigible respectivement restituable au cours de la période imposable, par une des personnes suivantes : l’assureur ; le représentant fiscal tenu au paiement de l’impôt sur les assurances en vertu de l’article 8, paragraphe 2, au nom et pour compte de l’assureur ; le preneur d’assurances tenu au paiement de l’impôt sur les assurances en vertu de l’article 8, paragraphe 3. (2) La déclaration visée au paragraphe 1er est à établir pour chaque période d’imposition qui correspond au trimestre civil. Elle doit être transmise avant le quinzième jour du mois qui suit la période imposable à l’Administration de l’enregistrement, des domaines et de la TVA par transfert électronique de fichier, suivant un procédé à autoriser par ladite administration, garantissant l’authenticité de l’origine et l’intégrité, la non-répudiation et la confidentialité du contenu. (3) L’Administration de l’enregistrement, des domaines et de la TVA peut autoriser le déclarant visé au paragraphe 1er, point c) à transmettre la déclaration par courriel à une adresse électronique désignée par elle. Art. 9ter : Obligations de paiement. La personne visée à l’article 9bis, paragraphe 1er, doit payer à l’Administration de l’enregistrement, des domaines et de la TVA le montant de l’impôt devenu exigible lors du dépôt de la déclaration prévue à l’article 9bis, si elle est déposée dans le délai prévu à l’article 9bis, paragraphe 2 ; le jour où expire le délai visé au point a), en l’absence de dépôt de la déclaration dans ce délai. ».
+Sont insérés dans la loi modifiée du 9 juillet 1937 sur l’impôt sur les assurances (« Versicherungsteuergesetz ») les articles 9bis et 9ter nouveaux, libellés comme suit :
+
+<a id="art-9bis"></a>
+## « Art. 9bis :
+
+Obligations déclaratives.
+
+(1)
+
+Doit être déposée une déclaration dans laquelle figurent toutes les données nécessaires pour constater le montant de l’impôt devenu exigible respectivement restituable au cours de la période imposable, par une des personnes suivantes :
+
+- l’assureur ;
+
+- le représentant fiscal tenu au paiement de l’impôt sur les assurances en vertu de l’article 8, paragraphe 2, au nom et pour compte de l’assureur ;
+
+- le preneur d’assurances tenu au paiement de l’impôt sur les assurances en vertu de l’article 8, paragraphe 3.
+
+(2)
+
+La déclaration visée au paragraphe 1er est à établir pour chaque période d’imposition qui correspond au trimestre civil. Elle doit être transmise avant le quinzième jour du mois qui suit la période imposable à l’Administration de l’enregistrement, des domaines et de la TVA par transfert électronique de fichier, suivant un procédé à autoriser par ladite administration, garantissant l’authenticité de l’origine et l’intégrité, la non-répudiation et la confidentialité du contenu.
+
+(3)
+
+L’Administration de l’enregistrement, des domaines et de la TVA peut autoriser le déclarant visé au paragraphe 1er, point c) à transmettre la déclaration par courriel à une adresse électronique désignée par elle.
+
+<a id="art-9ter"></a>
+## Art. 9ter :
+
+Obligations de paiement.
+
+La personne visée à l’article 9bis, paragraphe 1er, doit payer à l’Administration de l’enregistrement, des domaines et de la TVA le montant de l’impôt devenu exigible
+
+- lors du dépôt de la déclaration prévue à l’article 9bis, si elle est déposée dans le délai prévu à l’article 9 bis , paragraphe 2 ;
+
+- le jour où expire le délai visé au point a), en l’absence de dépôt de la déclaration dans ce délai. ».
 
 <a id="art-16"></a>
 ## Art. 16.
@@ -430,18 +662,54 @@ La loi modifiée du 1er février 1939 dite « Feuerschutzsteuergesetz » est mod
 
 (1)
 
-L’article 6 est remplacé par la disposition suivante : « Art. 6 : Exigibilité. Le montant de l’impôt, déterminé conformément aux dispositions de l’article 3, devient exigible le premier jour du mois qui suit le trimestre civil visé à l’article 3, paragraphe 1er. ».
+L’article 6 est remplacé par la disposition suivante :
+
+« Art. 6 :
+
+Exigibilité.
+
+Le montant de l’impôt, déterminé conformément aux dispositions de l’article 3, devient exigible le premier jour du mois qui suit le trimestre civil visé à l’article 3, paragraphe 1er. ».
 
 (2)
 
-Sont insérés les articles 6bis et 6ter rédigés comme suit : « Art. 6bis : Obligations déclaratives. Doit être déposée une déclaration dans laquelle figurent toutes les données nécessaires pour constater le montant de l’impôt devenu exigible respectivement restituable au cours de la période imposable, par une des personnes suivantes : l’assureur ; le représentant fiscal tenu au paiement de l’impôt dans l’intérêt du service d’incendie en vertu de l’article 5, paragraphe 2, au nom et pour compte de l’assureur. La déclaration visée à l’alinéa 1er est à établir pour chaque période d’imposition qui correspond au trimestre civil. Elle doit être transmise avant le quinzième jour du mois qui suit la période imposable à l’Administration de l’enregistrement, des domaines et de la TVA par transfert électronique de fichier, suivant un procédé à autoriser par ladite administration, garantissant l’authenticité de l’origine et l’intégrité, la non-répudiation et la confidentialité du contenu. Art. 6ter : Obligations de paiement. La personne visée à l’article 6bis, alinéa 1er, doit payer à l’Administration de l’enregistrement, des domaines et de la TVA le montant de l’impôt devenu exigible lors du dépôt de la déclaration prévue à l’article 6bis, si elle est déposée dans le délai prévu à l’article 6bis, alinéa 2 ; le jour où expire le délai visé au point a), en l’absence de dépôt de la déclaration dans ce délai. ».
+Sont insérés les articles 6bis et 6ter rédigés comme suit :
+
+<a id="art-6bis"></a>
+## « Art. 6bis :
+
+Obligations déclaratives.
+
+Doit être déposée une déclaration dans laquelle figurent toutes les données nécessaires pour constater le montant de l’impôt devenu exigible respectivement restituable au cours de la période imposable, par une des personnes suivantes :
+
+- l’assureur ;
+
+- le représentant fiscal tenu au paiement de l’impôt dans l’intérêt du service d’incendie en vertu de l’article 5, paragraphe 2, au nom et pour compte de l’assureur.
+
+La déclaration visée à l’alinéa 1er est à établir pour chaque période d’imposition qui correspond au trimestre civil. Elle doit être transmise avant le quinzième jour du mois qui suit la période imposable à l’Administration de l’enregistrement, des domaines et de la TVA par transfert électronique de fichier, suivant un procédé à autoriser par ladite administration, garantissant l’authenticité de l’origine et l’intégrité, la non-répudiation et la confidentialité du contenu.
+
+<a id="art-6ter"></a>
+## Art. 6ter :
+
+Obligations de paiement.
+
+La personne visée à l’article 6bis, alinéa 1er, doit payer à l’Administration de l’enregistrement, des domaines et de la TVA le montant de l’impôt devenu exigible
+
+- lors du dépôt de la déclaration prévue à l’article 6 bis , si elle est déposée dans le délai prévu à l’article 6 bis , alinéa 2 ;
+
+- le jour où expire le délai visé au point a), en l’absence de dépôt de la déclaration dans ce délai. ».
 
 <a id="art-17"></a>
 ## Art. 17.
 
 Modification de la loi du 23 juillet 2016 portant création d’un impôt dans l’intérêt des services de secours
 
-L’article 8 de la loi du 23 juillet 2016 portant création d’un impôt dans l’intérêt des services de secours est remplacé par la disposition suivante : « Art. 8. Le redevable de l’impôt doit déposer une déclaration dans laquelle figurent toutes les données nécessaires pour constater le montant de l’impôt devenu exigible respectivement restituable au cours de la période imposable. La déclaration visée à l’alinéa 1er doit être transmise à l’Administration de l’enregistrement, des domaines et de la TVA par transfert électronique de fichier, suivant un procédé à autoriser par ladite administration, garantissant l’authenticité de l’origine et l’intégrité, la non-répudiation et la confidentialité du contenu. ».
+L’article 8 de la loi du 23 juillet 2016 portant création d’un impôt dans l’intérêt des services de secours est remplacé par la disposition suivante :
+
+« Art. 8.
+
+Le redevable de l’impôt doit déposer une déclaration dans laquelle figurent toutes les données nécessaires pour constater le montant de l’impôt devenu exigible respectivement restituable au cours de la période imposable.
+
+La déclaration visée à l’alinéa 1er doit être transmise à l’Administration de l’enregistrement, des domaines et de la TVA par transfert électronique de fichier, suivant un procédé à autoriser par ladite administration, garantissant l’authenticité de l’origine et l’intégrité, la non-répudiation et la confidentialité du contenu. ».
 
 <a id="art-18"></a>
 ## Art. 18.
@@ -457,9 +725,9 @@ Modification de la loi modifiée du 17 décembre 2010 fixant les droits d’acci
 
 L’article 1er, paragraphe 1er, de la loi modifiée du 17 décembre 2010 fixant les droits d’accise et taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques, est modifié comme suit :
 
-1. À l’alinéa 1 er , les mots directive 2009/28/CE du Parlement européen et du Conseil du 23 avril 2009, relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives 2001/77/CE et 2003/30/CE sont remplacés par les mots directive 2018/2001/UE du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables .
+- À l’alinéa 1 er , les mots directive 2009/28/CE du Parlement européen et du Conseil du 23 avril 2009, relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives 2001/77/CE et 2003/30/CE sont remplacés par les mots directive 2018/2001/UE du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables .
 
-2. Aux alinéas 2 et 3 du même paragraphe, les mots directive modifiée 2009/28/CE sont remplacés par directive 2018/2001/UE .
+- Aux alinéas 2 et 3 du même paragraphe, les mots directive modifiée 2009/28/CE sont remplacés par directive 2018/2001/UE .
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -505,31 +773,31 @@ Sont comprises dans l’effectif total les vacances d’emploi qui se sont produ
 
 Par dérogation aux paragraphes 1er et 2, le Gouvernement est autorisé à procéder au cours de l’année 2021 :
 
-1. à des engagements de renforcement de personnel occupé à titre permanent et à tâche complète dans les différents services de l’État ainsi que dans les différents ordres d’enseignement dont le nombre ne peut toutefois pas dépasser de plus de 1026 unités l’effectif total tel qu’il est défini au paragraphe 2 ;
+- à des engagements de renforcement de personnel occupé à titre permanent et à tâche complète dans les différents services de l’État ainsi que dans les différents ordres d’enseignement dont le nombre ne peut toutefois pas dépasser de plus de 1026 unités l’effectif total tel qu’il est défini au paragraphe 2 ;
 
-2. aux engagements de personnel pour les besoins des services de l’État reconnus nécessaires pour l’occupation anticipée d’emplois non vacants, sans que la durée de l’occupation anticipée puisse être supérieure à six mois ;
+- aux engagements de personnel pour les besoins des services de l’État reconnus nécessaires pour l’occupation anticipée d’emplois non vacants, sans que la durée de l’occupation anticipée puisse être supérieure à six mois ;
 
-3. au remplacement à titre définitif des agents de l’État bénéficiant du régime de la préretraite. Lorsque le remplaçant est recruté en vue de son admission ultérieure au statut de fonctionnaire, et lorsque le cadre correspondant de l’administration concernée ne comprend pas de vacance de poste, il est placé temporairement hors cadre jusqu’au moment où les droits du fonctionnaire remplacé à l’indemnité de préretraite cessent de plein droit ;
+- au remplacement à titre définitif des agents de l’État bénéficiant du régime de la préretraite. Lorsque le remplaçant est recruté en vue de son admission ultérieure au statut de fonctionnaire, et lorsque le cadre correspondant de l’administration concernée ne comprend pas de vacance de poste, il est placé temporairement hors cadre jusqu’au moment où les droits du fonctionnaire remplacé à l’indemnité de préretraite cessent de plein droit ;
 
-4. à des engagements de renforcement de personnel occupé à titre permanent et à tâche partielle dans les différents services de l’État dans la limite de 800 heures-hommes par semaine ;
+- à des engagements de renforcement de personnel occupé à titre permanent et à tâche partielle dans les différents services de l’État dans la limite de 800 heures-hommes par semaine ;
 
-5. dans la limite de 2 200 heures-hommes par semaine :
+- dans la limite de 2 200 heures-hommes par semaine :
 
-1. à des engagements de personnel occupé à titre permanent et à tâche complète ou partielle dans les différents services de l’État, dans les établissements publics et dans la Société nationale des chemins de fer luxembourgeois disposant de la qualité de travailleur handicapé telle que définie par la loi modifiée du 12 septembre 2003 relative aux personnes handicapées ;
+  - à des engagements de personnel occupé à titre permanent et à tâche complète ou partielle dans les différents services de l’État, dans les établissements publics et dans la Société nationale des chemins de fer luxembourgeois disposant de la qualité de travailleur handicapé telle que définie par la loi modifiée du 12 septembre 2003 relative aux personnes handicapées ;
 
-2. à des réintégrations à tâche complète ou dans le cadre d’un service à temps partiel d’agents qui ne sont plus sujet à des infirmités qui les mettraient hors d’état de continuer leur service à un degré de tâche déterminé par la Commission des pensions prévue par la loi modifiée du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois et la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois ;
+  - à des réintégrations à tâche complète ou dans le cadre d’un service à temps partiel d’agents qui ne sont plus sujet à des infirmités qui les mettraient hors d’état de continuer leur service à un degré de tâche déterminé par la Commission des pensions prévue par la loi modifiée du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois et la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois ;
 
-3. à des réaffectations d’agents de l’État reconnus hors d’état de continuer leur service, mais déclarés propres à occuper un autre emploi dans l’administration par la Commission des pensions prévue par la loi modifiée du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois et la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois ;
+  - à des réaffectations d’agents de l’État reconnus hors d’état de continuer leur service, mais déclarés propres à occuper un autre emploi dans l’administration par la Commission des pensions prévue par la loi modifiée du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois et la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois ;
 
-4. à des reclassements internes d’employés et salariés de l’État suite à une décision de la Commission mixte prévue à l’article L. 552-1 du Code du travail ;
+  - à des reclassements internes d’employés et salariés de l’État suite à une décision de la Commission mixte prévue à l’article L. 552-1 du Code du travail ;
 
-5. à des déplacements d’agents de l’État prononcés par le Conseil de discipline conformément à l’article 47, paragraphe 4 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État ;
+  - à des déplacements d’agents de l’État prononcés par le Conseil de discipline conformément à l’article 47, paragraphe 4 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État ;
 
-6. à des réintégrations de fonctionnaires et employés de l’État suite à l’arrivée à terme d’un congé sans traitement ou d’un congé pour travail à mi-temps conformément aux articles 30 et 31 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État ;
+  - à des réintégrations de fonctionnaires et employés de l’État suite à l’arrivée à terme d’un congé sans traitement ou d’un congé pour travail à mi-temps conformément aux articles 30 et 31 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État ;
 
-7. à des réaffectations d’agents de l’État préconisés à titre de mesure préventive par le Service psychosocial de la fonction publique pour faire cesser un comportement de harcèlement.
+  - à des réaffectations d’agents de l’État préconisés à titre de mesure préventive par le Service psychosocial de la fonction publique pour faire cesser un comportement de harcèlement.
 
-6. à l’engagement de 443 agents actuellement occupés, à tâche complète ou partielle, par différents services de l’État et engagés à durée déterminée ou sous d’autres régimes, respectivement par la Cour Grand-Ducale ou par l’établissement public dénommé Communauté des transports.
+- à l’engagement de 443 agents actuellement occupés, à tâche complète ou partielle, par différents services de l’État et engagés à durée déterminée ou sous d’autres régimes, respectivement par la Cour Grand-Ducale ou par l’établissement public dénommé Communauté des transports.
 
 (4)
 
@@ -673,9 +941,9 @@ Prorogation de dispositions destinées à stimuler la croissance économique et 
 
 Sont prorogées avec effet au 1er janvier 2021 et jusqu’au 31 décembre 2021 :
 
-1. les dispositions de la loi modifiée du 24 décembre 1977 autorisant le Gouvernement à prendre les mesures destinées à stimuler la croissance économique et à maintenir le plein emploi ;
+- les dispositions de la loi modifiée du 24 décembre 1977 autorisant le Gouvernement à prendre les mesures destinées à stimuler la croissance économique et à maintenir le plein emploi ;
 
-2. les dispositions de la loi modifiée du 24 janvier 1979 complétant l’article 2 de la loi modifiée du 30 juin 1976 portant 1. création d’un fonds de chômage ; 2. réglementation de l’octroi des indemnités de chômage complet et complétant l’article 115 de la loi concernant l’impôt sur le revenu.
+- les dispositions de la loi modifiée du 24 janvier 1979 complétant l’article 2 de la loi modifiée du 30 juin 1976 portant 1. création d’un fonds de chômage ; 2. réglementation de l’octroi des indemnités de chômage complet et complétant l’article 115 de la loi concernant l’impôt sur le revenu.
 
 (2)
 
@@ -710,9 +978,17 @@ Sous réserve des dispositions qui précèdent, aucune commune ne peut prétendr
 <a id="art-38"></a>
 ## Art. 38.
 
-Modification de la loi modifiée du 28 avril 1998 portant a) harmonisation de l’enseignement musical dans le secteur communal ;b) modification de l’article 5 de la loi du 24 mai 1989 sur le contrat de travail ;c) modification de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires
+Modification de la loi modifiée du 28 avril 1998 portant a) harmonisation de l’enseignement musical dans le secteur communal ; b) modification de l’article 5 de la loi du 24 mai 1989 sur le contrat de travail ; c) modification de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires
 
-À l’article 12, paragraphe 2, les alinéas 2 à 4 de la loi modifiée du 28 avril 1998 portant a) harmonisation de l’enseignement musical dans le secteur communal ; b) modification de l’article 5 de la loi du 24 mai 1989 sur le contrat de travail ; c) modification de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires sont remplacés comme suit : « Pour les cours individuels des branches qui sont déterminées par règlement grand-ducal, la durée hebdomadaire à prendre en considération est la durée effective du cours dispensé par l’enseignant à l’élève, sans dépasser la durée hebdomadaire fixée par règlement grand-ducal. Pour les cours collectifs des branches déterminées par règlement grand-ducal, la durée hebdomadaire à prendre en considération est fixée à : la durée effective du cours dispensé par l’enseignant pour les cours de musique de chambre, sans dépasser la durée hebdomadaire déterminée par règlement grand-ducal ; quatre minutes d’enseignement par élève par heure de cours pour tous les autres cours collectifs, sans dépasser la durée hebdomadaire déterminée par règlement grand-ducal. Les orchestres, les chorales et les ensembles qui fonctionnent comme tels ne sont pas pris en considération. Cette durée unitaire par heure de cours varie proportionnellement à la durée hebdomadaire déterminée par règlement grand-ducal. ».
+À l’article 12, paragraphe 2, les alinéas 2 à 4 de la loi modifiée du 28 avril 1998 portant a) harmonisation de l’enseignement musical dans le secteur communal ; b) modification de l’article 5 de la loi du 24 mai 1989 sur le contrat de travail ; c) modification de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires sont remplacés comme suit :
+
+« Pour les cours individuels des branches qui sont déterminées par règlement grand-ducal, la durée hebdomadaire à prendre en considération est la durée effective du cours dispensé par l’enseignant à l’élève, sans dépasser la durée hebdomadaire fixée par règlement grand-ducal. Pour les cours collectifs des branches déterminées par règlement grand-ducal, la durée hebdomadaire à prendre en considération est fixée à :
+
+- la durée effective du cours dispensé par l’enseignant pour les cours de musique de chambre, sans dépasser la durée hebdomadaire déterminée par règlement grand-ducal ;
+
+- quatre minutes d’enseignement par élève par heure de cours pour tous les autres cours collectifs, sans dépasser la durée hebdomadaire déterminée par règlement grand-ducal. Les orchestres, les chorales et les ensembles qui fonctionnent comme tels ne sont pas pris en considération.
+
+Cette durée unitaire par heure de cours varie proportionnellement à la durée hebdomadaire déterminée par règlement grand-ducal. ».
 
 #### Chapitre 8 Dispositions concernant les fonds d’investissements
 
@@ -723,23 +999,54 @@ Dispositions concernant le fonds spécial pour le financement des infrastructure
 
 À l’article 50, paragraphe 1er, alinéa 1er, de la loi modifiée du 21 décembre 1998 concernant le budget des recettes et des dépenses de l’État pour l’exercice 1999, les modifications suivantes sont apportées :
 
-1. La lettre b) est remplacée par le libellé suivant : des communes, établissements, organismes, institutions et groupements visés à l’article 20 de la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale » ;
+- La lettre b) est remplacée par le libellé suivant : des communes, établissements, organismes, institutions et groupements visés à l’article 20 de la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale » ;
 
-2. La lettre c) est remplacée par le libellé suivant : des communes et organismes visés à l’article 14 de la loi modifiée du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg. ».
+- La lettre c) est remplacée par le libellé suivant : des communes et organismes visés à l’article 14 de la loi modifiée du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg. ».
 
 <a id="art-40"></a>
 ## Art. 40.
 
 Modification de la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale
 
-Un article 20bis, libellé comme suit, est inséré dans la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale : « Art. 20bis. Le Gouvernement est autorisé à participer aux dépenses d’investissements concernant l’acquisition, la construction, la transformation, la modernisation, l’aménagement et l’équipement d’immeubles des communes, établissements, organismes, institutions et groupements visés à l’article 20. Si le bénéficiaire est une personne morale de droit privé, celle-ci doit être constituée soit en vertu d’une disposition légale particulière, soit selon les dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations, soit selon les dispositions de la loi modifiée du 10 août 1915 concernant les sociétés commerciales. La participation aux dépenses d’investissements prévue à l’alinéa qui précède peut atteindre cinquante pour cent. Au cas où le projet répond à un besoin urgent au plan régional ou national dûment constaté par le Gouvernement en conseil, le taux peut être porté jusqu’à quatre-vingt pour cent ; ce taux peut être porté jusqu’à cent pour cent dans le cas où l’État doit prendre l’initiative d’un projet pour répondre à un manque d’infrastructure auquel l’activité des communes, établissements, organismes, institutions et groupements visés s’est révélée impuissante à pourvoir. L’État peut en outre garantir, en principal, intérêts et accessoires, le remboursement d’emprunts contractés aux mêmes fins par les bénéficiaires ayant le statut d’une personne morale de droit privé ; au cas où ceux-ci sont obligés de contracter un emprunt pour assurer le préfinancement de la part des frais d’investissements qui leur sera versée par l’État, ce dernier peut en prendre à sa charge les intérêts. Si pour une raison quelconque, le bénéficiaire arrête les travaux énumérés ci-avant ou décide d’affecter l’objet subsidié à d’autres fins que celles pour lesquelles la subvention a été allouée, sans l’accord préalable du ministre compétent et ce avant l’expiration d’un délai à fixer par le contrat, délai qui ne peut toutefois être inférieur à quinze ans, l’État, après la mise en demeure par le ministre compétent, peut exiger le remboursement des montants alloués avec les intérêts au taux légal en vigueur à partir du jour du versement jusqu’au remboursement. Pour garantir la restitution de sa participation financière prévue par le présent article, les immeubles ayant fait l’objet d’une participation financière sont grevés d’une hypothèque légale dont l’inscription est requise par le ministre ayant alloué les participations financières précitées. L’hypothèque dont le montant ne peut pas dépasser le montant des aides accordées par l’État est requise pour une durée de dix ans au moins, dans la forme et de la manière prescrites par les dispositions légales en vigueur. Les conditions, les modalités et le montant de la participation de l’État sont fixés dans un contrat à conclure entre le bénéficiaire et l’État. ».
+Un article 20bis, libellé comme suit, est inséré dans la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale :
+
+<a id="art-20bis"></a>
+## « Art. 20bis.
+
+Le Gouvernement est autorisé à participer aux dépenses d’investissements concernant l’acquisition, la construction, la transformation, la modernisation, l’aménagement et l’équipement d’immeubles des communes, établissements, organismes, institutions et groupements visés à l’article 20.
+
+Si le bénéficiaire est une personne morale de droit privé, celle-ci doit être constituée soit en vertu d’une disposition légale particulière, soit selon les dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations, soit selon les dispositions de la loi modifiée du 10 août 1915 concernant les sociétés commerciales.
+
+La participation aux dépenses d’investissements prévue à l’alinéa qui précède peut atteindre cinquante pour cent.
+
+Au cas où le projet répond à un besoin urgent au plan régional ou national dûment constaté par le Gouvernement en conseil, le taux peut être porté jusqu’à quatre-vingt pour cent ; ce taux peut être porté jusqu’à cent pour cent dans le cas où l’État doit prendre l’initiative d’un projet pour répondre à un manque d’infrastructure auquel l’activité des communes, établissements, organismes, institutions et groupements visés s’est révélée impuissante à pourvoir.
+
+L’État peut en outre garantir, en principal, intérêts et accessoires, le remboursement d’emprunts contractés aux mêmes fins par les bénéficiaires ayant le statut d’une personne morale de droit privé ; au cas où ceux-ci sont obligés de contracter un emprunt pour assurer le préfinancement de la part des frais d’investissements qui leur sera versée par l’État, ce dernier peut en prendre à sa charge les intérêts.
+
+Si pour une raison quelconque, le bénéficiaire arrête les travaux énumérés ci-avant ou décide d’affecter l’objet subsidié à d’autres fins que celles pour lesquelles la subvention a été allouée, sans l’accord préalable du ministre compétent et ce avant l’expiration d’un délai à fixer par le contrat, délai qui ne peut toutefois être inférieur à quinze ans, l’État, après la mise en demeure par le ministre compétent, peut exiger le remboursement des montants alloués avec les intérêts au taux légal en vigueur à partir du jour du versement jusqu’au remboursement.
+
+Pour garantir la restitution de sa participation financière prévue par le présent article, les immeubles ayant fait l’objet d’une participation financière sont grevés d’une hypothèque légale dont l’inscription est requise par le ministre ayant alloué les participations financières précitées. L’hypothèque dont le montant ne peut pas dépasser le montant des aides accordées par l’État est requise pour une durée de dix ans au moins, dans la forme et de la manière prescrites par les dispositions légales en vigueur. Les conditions, les modalités et le montant de la participation de l’État sont fixés dans un contrat à conclure entre le bénéficiaire et l’État. ».
 
 <a id="art-41"></a>
 ## Art. 41.
 
 Modification de la loi modifiée du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg
 
-L’article 16 de la loi modifiée du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg est rétabli dans la teneur suivante : « Art. 16. Le Gouvernement est autorisé à participer aux dépenses d’investissements concernant l’acquisition, la construction, la transformation, la modernisation, l’aménagement et l’équipement d’immeubles des communes et des organismes visés à l’article 14. La participation aux dépenses d’investissements prévue à l’alinéa qui précède peut atteindre cinquante pour cent. Au cas où le projet répond à un besoin urgent au plan régional ou national dûment constaté par le Gouvernement en conseil, le taux peut être porté jusqu’à quatre-vingt pour cent ; ce taux peut être porté jusqu’à cent pour cent dans le cas où l’État doit prendre l’initiative d’un projet pour répondre à un manque d’infrastructure auquel l’activité des communes et organismes s’est révélée impuissante à pourvoir. L’État peut en outre garantir, en principal, intérêts et accessoires, le remboursement d’emprunts contractés aux mêmes fins par les bénéficiaires ayant le statut d’une personne morale de droit privé ; au cas où ceux-ci sont obligés de contracter un emprunt pour assurer le préfinancement de la part des frais d’investissements qui leur sera versée par l’État, ce dernier peut en prendre à sa charge les intérêts. Si pour une raison quelconque, le bénéficiaire arrête les travaux énumérés ci-avant ou décide d’affecter l’objet subsidié à d’autres fins que celles pour lesquelles la subvention a été allouée, sans l’accord préalable du ministre compétent et ce avant l’expiration d’un délai à fixer par le contrat, délai qui ne peut toutefois être inférieur à quinze ans, l’État, après la mise en demeure par le ministre compétent, peut exiger le remboursement des montants alloués avec les intérêts au taux légal en vigueur à partir du jour du versement jusqu’au remboursement. Pour garantir la restitution de sa participation financière prévue par le présent article, les immeubles ayant fait l’objet d’une participation financière sont grevés d’une hypothèque légale dont l’inscription est requise par le ministre ayant alloué les participations financières précitées. L’hypothèque dont le montant ne peut pas dépasser le montant des aides accordées par l’État est requise pour une durée de dix ans au moins, dans la forme et de la manière prescrites par les dispositions légales en vigueur. Les conditions, les modalités et le montant de la participation de l’État sont fixés dans un contrat à conclure entre le bénéficiaire et l’État. ».
+L’article 16 de la loi modifiée du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg est rétabli dans la teneur suivante :
+
+« Art. 16.
+
+Le Gouvernement est autorisé à participer aux dépenses d’investissements concernant l’acquisition, la construction, la transformation, la modernisation, l’aménagement et l’équipement d’immeubles des communes et des organismes visés à l’article 14.
+
+La participation aux dépenses d’investissements prévue à l’alinéa qui précède peut atteindre cinquante pour cent.
+
+Au cas où le projet répond à un besoin urgent au plan régional ou national dûment constaté par le Gouvernement en conseil, le taux peut être porté jusqu’à quatre-vingt pour cent ; ce taux peut être porté jusqu’à cent pour cent dans le cas où l’État doit prendre l’initiative d’un projet pour répondre à un manque d’infrastructure auquel l’activité des communes et organismes s’est révélée impuissante à pourvoir.
+
+L’État peut en outre garantir, en principal, intérêts et accessoires, le remboursement d’emprunts contractés aux mêmes fins par les bénéficiaires ayant le statut d’une personne morale de droit privé ; au cas où ceux-ci sont obligés de contracter un emprunt pour assurer le préfinancement de la part des frais d’investissements qui leur sera versée par l’État, ce dernier peut en prendre à sa charge les intérêts.
+
+Si pour une raison quelconque, le bénéficiaire arrête les travaux énumérés ci-avant ou décide d’affecter l’objet subsidié à d’autres fins que celles pour lesquelles la subvention a été allouée, sans l’accord préalable du ministre compétent et ce avant l’expiration d’un délai à fixer par le contrat, délai qui ne peut toutefois être inférieur à quinze ans, l’État, après la mise en demeure par le ministre compétent, peut exiger le remboursement des montants alloués avec les intérêts au taux légal en vigueur à partir du jour du versement jusqu’au remboursement.
+
+Pour garantir la restitution de sa participation financière prévue par le présent article, les immeubles ayant fait l’objet d’une participation financière sont grevés d’une hypothèque légale dont l’inscription est requise par le ministre ayant alloué les participations financières précitées. L’hypothèque dont le montant ne peut pas dépasser le montant des aides accordées par l’État est requise pour une durée de dix ans au moins, dans la forme et de la manière prescrites par les dispositions légales en vigueur. Les conditions, les modalités et le montant de la participation de l’État sont fixés dans un contrat à conclure entre le bénéficiaire et l’État. ».
 
 <a id="art-42"></a>
 ## Art. 42.
@@ -1869,15 +2176,15 @@ Modification de la loi modifiée du 23 décembre 2016 instituant un régime d’
 
 La loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement est modifiée comme suit :
 
-1. L’article 4, paragraphe 5, alinéa 2, est modifié comme suit : « Toutefois, pour les travaux d’assainissement énergétique visés à l’article 4, paragraphe 1er, y compris les travaux relatifs à la ventilation mécanique contrôlée pour lesquels la première demande en vue de l’obtention d’un accord de principe est introduite entre le 20 avril 2020 et le 31 décembre 2021 inclus et dont la facture est établie au plus tard le 31 décembre 2023 : l’aide financière calculée conformément au paragraphe 3 est plafonnée à 75 pour cent des coûts effectifs des mesures d’assainissement ; l’aide financière pour la ventilation mécanique contrôlée est plafonnée à 75 pour cent des coûts effectifs. ».
+- L’article 4, paragraphe 5, alinéa 2, est modifié comme suit : « Toutefois, pour les travaux d’assainissement énergétique visés à l’article 4, paragraphe 1er, y compris les travaux relatifs à la ventilation mécanique contrôlée pour lesquels la première demande en vue de l’obtention d’un accord de principe est introduite entre le 20 avril 2020 et le 31 décembre 2021 inclus et dont la facture est établie au plus tard le 31 décembre 2023 : l’aide financière calculée conformément au paragraphe 3 est plafonnée à 75 pour cent des coûts effectifs des mesures d’assainissement ; l’aide financière pour la ventilation mécanique contrôlée est plafonnée à 75 pour cent des coûts effectifs. ».
 
-2. L’article 5, paragraphe 2, est modifié comme suit :
+- L’article 5, paragraphe 2, est modifié comme suit :
 
-1. L’alinéa 2, dernière phrase, est modifié comme suit : « Ce plafond est porté à 62,5 pour cent des coûts effectifs pour les investissements relatifs à une installation solaire thermique, une pompe à chaleur et une chaudière à bois qui remplissent simultanément les conditions suivantes : la date de commande est comprise entre le 20 avril 2020 et le 31 décembre 2021 inclus, et la facture est établie au plus tard le 31 décembre 2023. » ;
+  - L’alinéa 2, dernière phrase, est modifié comme suit : « Ce plafond est porté à 62,5 pour cent des coûts effectifs pour les investissements relatifs à une installation solaire thermique, une pompe à chaleur et une chaudière à bois qui remplissent simultanément les conditions suivantes : la date de commande est comprise entre le 20 avril 2020 et le 31 décembre 2021 inclus, et la facture est établie au plus tard le 31 décembre 2023. » ;
 
-2. L’alinéa 4, dernière phrase, est modifié comme suit : « Toutefois, pour les investissements pour lesquels la date de commande est comprise entre le 20 avril 2020 et le 31 décembre 2021 inclus et la facture est établie au plus tard le 31 décembre 2023 : l’aide financière pour un réseau de chaleur alimenté par des sources d’énergies renouvelables est plafonnée à 37,5 pour cent des coûts effectifs ; l’aide financière pour le raccordement d’un bâtiment d’habitation à un réseau de chaleur est plafonnée à 62,5 euros par kilowatt. ».
+  - L’alinéa 4, dernière phrase, est modifié comme suit : « Toutefois, pour les investissements pour lesquels la date de commande est comprise entre le 20 avril 2020 et le 31 décembre 2021 inclus et la facture est établie au plus tard le 31 décembre 2023 : l’aide financière pour un réseau de chaleur alimenté par des sources d’énergies renouvelables est plafonnée à 37,5 pour cent des coûts effectifs ; l’aide financière pour le raccordement d’un bâtiment d’habitation à un réseau de chaleur est plafonnée à 62,5 euros par kilowatt. ».
 
-3. L’article 6, paragraphe 2, alinéa 3, est modifié comme suit : « Toutefois, pour les travaux d’assainissement énergétique pour lesquels la première demande en vue de l’obtention d’un accord de principe est introduite entre le 20 avril 2020 et le 31 décembre 2021 inclus, l’aide financière est plafonnée : dans le cas d’une maison unifamiliale, à 3 300 euros, sans toutefois dépasser les coûts effectifs du conseil en énergie ; dans le cas d’un immeuble collectif, à 4 200 euros par immeuble, sans toutefois dépasser les coûts effectifs du conseil en énergie, sous condition que la facture des services de conseil en énergie et d’accompagnement ponctuel de la mise en œuvre des travaux est établie entre le 20 avril 2020 et le 31 décembre 2023 inclus. ».
+- L’article 6, paragraphe 2, alinéa 3, est modifié comme suit : « Toutefois, pour les travaux d’assainissement énergétique pour lesquels la première demande en vue de l’obtention d’un accord de principe est introduite entre le 20 avril 2020 et le 31 décembre 2021 inclus, l’aide financière est plafonnée : dans le cas d’une maison unifamiliale, à 3 300 euros, sans toutefois dépasser les coûts effectifs du conseil en énergie ; dans le cas d’un immeuble collectif, à 4 200 euros par immeuble, sans toutefois dépasser les coûts effectifs du conseil en énergie, sous condition que la facture des services de conseil en énergie et d’accompagnement ponctuel de la mise en œuvre des travaux est établie entre le 20 avril 2020 et le 31 décembre 2023 inclus. ».
 
 <a id="art-51"></a>
 ## Art. 51.
@@ -1886,137 +2193,137 @@ Constitution de services de l’État à gestion séparée
 
 Les administrations suivantes sont constituées comme services de l’État à gestion séparée :
 
-1. Administrations dépendant du Ministère de la Culture :
+- Administrations dépendant du Ministère de la Culture :
 
-- Musée national d’histoire et d’art ;
+  - Musée national d’histoire et d’art ;
 
-- Musée national d’histoire naturelle ;
+  - Musée national d’histoire naturelle ;
 
-- Centre national de l’audiovisuel ;
+  - Centre national de l’audiovisuel ;
 
-- Bibliothèque nationale ;
+  - Bibliothèque nationale ;
 
-- Archives nationales ;
+  - Archives nationales ;
 
-- Centre national de littérature
+  - Centre national de littérature
 
-2. Administrations dépendant du Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse :
+- Administrations dépendant du Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse :
 
-- Centre de logopédie ;
+  - Centre de logopédie ;
 
-- Athénée de Luxembourg ;
+  - Athénée de Luxembourg ;
 
-- Lycée classique de Diekirch ;
+  - Lycée classique de Diekirch ;
 
-- Lycée classique d’Echternach ;
+  - Lycée classique d’Echternach ;
 
-- Lycée de garçons de Luxembourg ;
+  - Lycée de garçons de Luxembourg ;
 
-- Lycée de garçons d’Esch-sur-Alzette ;
+  - Lycée de garçons d’Esch-sur-Alzette ;
 
-- Lycée Robert Schuman ;
+  - Lycée Robert Schuman ;
 
-- Lycée Michel Rodange ;
+  - Lycée Michel Rodange ;
 
-- Lycée Hubert Clément ;
+  - Lycée Hubert Clément ;
 
-- Lycée Aline Mayrisch ;
+  - Lycée Aline Mayrisch ;
 
-- Lycée technique agricole ;
+  - Lycée technique agricole ;
 
-- Lycée des Arts et Métiers ;
+  - Lycée des Arts et Métiers ;
 
-- Lycée Guillaume Kroll ;
+  - Lycée Guillaume Kroll ;
 
-- Lycée technique d’Ettelbruck ;
+  - Lycée technique d’Ettelbruck ;
 
-- Lycée du Nord ;
+  - Lycée du Nord ;
 
-- Maacher Lycée ;
+  - Maacher Lycée ;
 
-- Lycée technique de Bonnevoie ;
+  - Lycée technique de Bonnevoie ;
 
-- École d’hôtellerie et de tourisme du Luxembourg ;
+  - École d’hôtellerie et de tourisme du Luxembourg ;
 
-- Lycée Michel Lucius ;
+  - Lycée Michel Lucius ;
 
-- Lycée technique Mathias Adam ;
+  - Lycée technique Mathias Adam ;
 
-- Lycée Nic Biever ;
+  - Lycée Nic Biever ;
 
-- École de commerce et de gestion – School of Business and Management ;
+  - École de commerce et de gestion – School of Business and Management ;
 
-- Lycée technique pour professions de santé ;
+  - Lycée technique pour professions de santé ;
 
-- Lycée technique du Centre ;
+  - Lycée technique du Centre ;
 
-- Lycée Josy Barthel ;
+  - Lycée Josy Barthel ;
 
-- Lycée technique de Lallange ;
+  - Lycée technique de Lallange ;
 
-- Atert-Lycée ;
+  - Atert-Lycée ;
 
-- Lycée Ermesinde ;
+  - Lycée Ermesinde ;
 
-- Lycée technique pour professions éducatives et sociales ;
+  - Lycée technique pour professions éducatives et sociales ;
 
-- Service des restaurants scolaires ;
+  - Service des restaurants scolaires ;
 
-- Nordstad-Lycée ;
+  - Nordstad-Lycée ;
 
-- École préscolaire et primaire de recherche fondée sur la pédagogie inclusive (Eis Schoul) ;
+  - École préscolaire et primaire de recherche fondée sur la pédagogie inclusive (Eis Schoul) ;
 
-- Service de la formation professionnelle ;
+  - Service de la formation professionnelle ;
 
-- Institut national des langues ;
+  - Institut national des langues ;
 
-- École nationale pour adultes ;
+  - École nationale pour adultes ;
 
-- Lycée Bel-Val ;
+  - Lycée Bel-Val ;
 
-- Sportlycée ;
+  - Sportlycée ;
 
-- Service de la formation des adultes ;
+  - Service de la formation des adultes ;
 
-- Lënster Lycée ;
+  - Lënster Lycée ;
 
-- Centre de gestion informatique de l’éducation nationale ;
+  - Centre de gestion informatique de l’éducation nationale ;
 
-- Service national de la jeunesse ;
+  - Service national de la jeunesse ;
 
-- Lycée Edward Steichen ;
+  - Lycée Edward Steichen ;
 
-- École internationale Differdange et Esch-sur-Alzette ;
+  - École internationale Differdange et Esch-sur-Alzette ;
 
-- Service de coordination de la recherche et de l’innovation pédagogiques et technologiques ;
+  - Service de coordination de la recherche et de l’innovation pédagogiques et technologiques ;
 
-- Lycée à Mondorf-les-Bains ;
+  - Lycée à Mondorf-les-Bains ;
 
-- Centre pour le développement des compétences relatives à la vue.
+  - Centre pour le développement des compétences relatives à la vue.
 
-3. Administration dépendant du Ministère de l’Économie :
+- Administration dépendant du Ministère de l’Économie :
 
-- Commissariat aux affaires maritimes
+  - Commissariat aux affaires maritimes
 
-4. Administration dépendant du Ministère des Sports :
+- Administration dépendant du Ministère des Sports :
 
-- École nationale de l’éducation physique et des sports
+  - École nationale de l’éducation physique et des sports
 
-5. Administration dépendant du Ministère de la Mobilité et des Travaux publics :-
+- Administration dépendant du Ministère de la Mobilité et des Travaux publics :-
 
-- Administration de la navigation aérienne
+  - Administration de la navigation aérienne
 
-6. Administration dépendant du Ministère de la Digitalisation :
+- Administration dépendant du Ministère de la Digitalisation :
 
-- Centre des technologies de l’information de l’État
+  - Centre des technologies de l’information de l’État
 
-7. Administration dépendant du Ministère du Travail, de l’Emploi et de l’Économie sociale et solidaire :
+- Administration dépendant du Ministère du Travail, de l’Emploi et de l’Économie sociale et solidaire :
 
-- Agence pour le développement de l’emploi
+  - Agence pour le développement de l’emploi
 
-8. Administration dépendant du Ministère d’État
+- Administration dépendant du Ministère d’État
 
-- Autorité nationale de sécurité
+  - Autorité nationale de sécurité
 
 <a id="art-52"></a>
 ## Art. 52.
@@ -2036,14 +2343,18 @@ Pour l’exercice 2021, par dérogation à l’article 73, paragraphe 1er, de la
 
 Modification de la loi modifiée du 25 février 1979 concernant l’aide au logement
 
-L’article 66-3, alinéa 3, de la loi modifiée du 25 février 1979 concernant l’aide au logement est modifié comme suit : « Une participation aux frais de gestion est accordée à l’organisme exerçant la gestion locative sociale ayant signé une convention avec l’État représenté par le ministre ayant le Logement dans ses attributions. La participation aux frais ne peut pas dépasser 120 euros par mois et par logement pour un premier contrat de mise à disposition. Ce plafond est augmenté de 20 euros par mois et par contrat de mise à disposition supplémentaire si plusieurs ménages occupent de façon simultanée un même logement. ».
+L’article 66-3, alinéa 3, de la loi modifiée du 25 février 1979 concernant l’aide au logement est modifié comme suit :
+
+« Une participation aux frais de gestion est accordée à l’organisme exerçant la gestion locative sociale ayant signé une convention avec l’État représenté par le ministre ayant le Logement dans ses attributions. La participation aux frais ne peut pas dépasser 120 euros par mois et par logement pour un premier contrat de mise à disposition. Ce plafond est augmenté de 20 euros par mois et par contrat de mise à disposition supplémentaire si plusieurs ménages occupent de façon simultanée un même logement. ».
 
 <a id="art-54"></a>
 ## Art. 54.
 
 Modification de la loi modifiée du 27 juillet 1997 sur le contrat d’assurance
 
-À l’article 2, paragraphe 1er, de la loi modifiée du 27 juillet 1997 sur le contrat d’assurance, il est inséré un nouvel alinéa qui prend la teneur suivante : « Un contrat d’assurance reste valable et son exécution reste soumise à la présente loi, au cas où une entreprise d’assurance de l’Espace économique européen ou d’un pays tiers perd son autorisation de pratiquer des opérations d’assurance directe au Grand-Duché de Luxembourg tout en gardant son agrément dans son État d’origine et que ce contrat a été valablement émis ou reconduit par une entreprise autorisée à travailler au Grand-Duché de Luxembourg en régime de libre établissement ou de libre prestation de services au moment de l’émission ou de la reconduction de ce contrat. Un tel contrat ne peut toutefois faire l’objet d’une reconduction ni d’aucune opération d’assurance directe donnant lieu à l’émission de primes postérieurement à la perte de l’autorisation. ».
+À l’article 2, paragraphe 1er, de la loi modifiée du 27 juillet 1997 sur le contrat d’assurance, il est inséré un nouvel alinéa qui prend la teneur suivante :
+
+« Un contrat d’assurance reste valable et son exécution reste soumise à la présente loi, au cas où une entreprise d’assurance de l’Espace économique européen ou d’un pays tiers perd son autorisation de pratiquer des opérations d’assurance directe au Grand-Duché de Luxembourg tout en gardant son agrément dans son État d’origine et que ce contrat a été valablement émis ou reconduit par une entreprise autorisée à travailler au Grand-Duché de Luxembourg en régime de libre établissement ou de libre prestation de services au moment de l’émission ou de la reconduction de ce contrat. Un tel contrat ne peut toutefois faire l’objet d’une reconduction ni d’aucune opération d’assurance directe donnant lieu à l’émission de primes postérieurement à la perte de l’autorisation. ».
 
 <a id="art-55"></a>
 ## Art. 55.
@@ -2089,14 +2400,14 @@ Entrée en vigueur
 
 La présente loi entre en vigueur le 1er janvier 2021, à l’exception :
 
-1. des articles 5 à 7 qui produisent leurs effets à partir de l’année d’imposition 2020 ;
+- des articles 5 à 7 qui produisent leurs effets à partir de l’année d’imposition 2020 ;
 
-2. de l’article 3, paragraphes 1 à 7 et paragraphes 10 à 12 qui sont applicables à partir de l’année d’imposition 2021 ;
+- de l’article 3, paragraphes 1 à 7 et paragraphes 10 à 12 qui sont applicables à partir de l’année d’imposition 2021 ;
 
-3. de l’article 3, paragraphe 8, qui est applicable pour l’année d’imposition 2021 ;
+- de l’article 3, paragraphe 8, qui est applicable pour l’année d’imposition 2021 ;
 
-4. de l’article 8, paragraphe 2, qui entre en vigueur le 1 er avril 2021 ;
+- de l’article 8, paragraphe 2, qui entre en vigueur le 1 er avril 2021 ;
 
-5. de l’article 11 qui entre en vigueur le 1 er juillet 2021 ;
+- de l’article 11 qui entre en vigueur le 1 er juillet 2021 ;
 
-6. de l’article 3, paragraphe 9, et de l’article 12, qui entrent en vigueur à partir de l’année d’imposition 2022.
+- de l’article 3, paragraphe 9, et de l’article 12, qui entrent en vigueur à partir de l’année d’imposition 2022.

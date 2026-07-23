@@ -30,21 +30,21 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Aux fins du présent règlement, on entend par :
 
-1. « borne de charge » : un dispositif électrique fixe dédié au chargement de véhicules électriques raccordé au réseau de distribution basse tension et équipé d’un ou de plusieurs points de charge consistant soit en une prise de chargement pour un véhicule électrique, soit en un câble fixe avec connecteur pour un véhicule électrique, chacun de ces points de charge communiquant avec le véhicule pour piloter la puissance de la charge , à l’exclusion des dispositifs d’une puissance de sortie inférieure ou égale à 3,7 kilowatt. Un tel dispositif peut contenir certains éléments pouvant être détachés pour fonctionner comme dispositif de recharge mobile ;
+- « borne de charge » : un dispositif électrique fixe dédié au chargement de véhicules électriques raccordé au réseau de distribution basse tension et équipé d’un ou de plusieurs points de charge consistant soit en une prise de chargement pour un véhicule électrique, soit en un câble fixe avec connecteur pour un véhicule électrique, chacun de ces points de charge communiquant avec le véhicule pour piloter la puissance de la charge , à l’exclusion des dispositifs d’une puissance de sortie inférieure ou égale à 3,7 kilowatt. Un tel dispositif peut contenir certains éléments pouvant être détachés pour fonctionner comme dispositif de recharge mobile ;
 
-2. « borne de charge OCPP » : borne de charge équipée avec une interface intégrée ou externe compatible avec le standard « Open Charge Point Protocol (OCPP) » version 1.6 ou supérieure ;
+- « borne de charge OCPP » : borne de charge équipée avec une interface intégrée ou externe compatible avec le standard « Open Charge Point Protocol (OCPP) » version 1.6 ou supérieure ;
 
-3. « demandeur » : une personne qui introduit et signe une demande en obtention d’une aide financière visée par le présent règlement et qui réunit dans son chef la pleine et entière propriété de la borne de charge ou a souscrit à un contrat de crédit-bail remplissant les conditions énoncées à l’article 2, paragraphe 5 ;
+- « demandeur » : une personne qui introduit et signe une demande en obtention d’une aide financière visée par le présent règlement et qui réunit dans son chef la pleine et entière propriété de la borne de charge ou a souscrit à un contrat de crédit-bail remplissant les conditions énoncées à l’article 2, paragraphe 5 ;
 
-4. « logement » : un local d’habitation distinct et indépendant ;
+- « logement » : un local d’habitation distinct et indépendant ;
 
-5. « local professionnel » : un local professionnel distinct et indépendant ;
+- « local professionnel » : un local professionnel distinct et indépendant ;
 
-6. « emplacement » : un emplacement de stationnement sur le territoire du Grand-Duché de Luxembourg non ouvert au public, situé à l’intérieur ou à l’extérieur d’un bâtiment ;
+- « emplacement » : un emplacement de stationnement sur le territoire du Grand-Duché de Luxembourg non ouvert au public, situé à l’intérieur ou à l’extérieur d’un bâtiment ;
 
-7. « système collectif de gestion intelligente de charge » : un système qui gère l’ensemble des bornes de charge derrière un même point de raccordement de façon à limiter le prélèvement simultané de puissance à une valeur qui ne peut pas dépasser la capacité mise à disposition par le gestionnaire de réseau au point de raccordement. Ce système doit être capable d’intégrer un nombre de bornes de charge équivalent au nombre d’emplacements situés à l’intérieur ou à l’extérieur du bâtiment pouvant être éligibles pour l’aide financière prévue par le présent règlement et doit permettre un raccordement non-discriminatoire des futurs utilisateurs ;
+- « système collectif de gestion intelligente de charge » : un système qui gère l’ensemble des bornes de charge derrière un même point de raccordement de façon à limiter le prélèvement simultané de puissance à une valeur qui ne peut pas dépasser la capacité mise à disposition par le gestionnaire de réseau au point de raccordement. Ce système doit être capable d’intégrer un nombre de bornes de charge équivalent au nombre d’emplacements situés à l’intérieur ou à l’extérieur du bâtiment pouvant être éligibles pour l’aide financière prévue par le présent règlement et doit permettre un raccordement non-discriminatoire des futurs utilisateurs ;
 
-8. « personne morale éligible » : une association sans but lucratif, une fondation ou une société civile qui n’exercent pas d’activité économique ainsi qu’un syndicat des copropriétaires dans lequel au moins la moitié des quotes-parts des parties communes sont détenues par des personnes physiques, associations sans but lucratif, fondations ou sociétés civiles qui n’exercent pas d’activité économique.
+- « personne morale éligible » : une association sans but lucratif, une fondation ou une société civile qui n’exercent pas d’activité économique ainsi qu’un syndicat des copropriétaires dans lequel au moins la moitié des quotes-parts des parties communes sont détenues par des personnes physiques, associations sans but lucratif, fondations ou sociétés civiles qui n’exercent pas d’activité économique.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -73,21 +73,21 @@ Toutefois, en cas de changement de propriétaire ou de locataire d’un emplacem
 
 Il ne peut être alloué qu’une seule aide financière à un même demandeur pour un même bâtiment. Toutefois, si le demandeur est propriétaire ou locataire de plusieurs emplacements rattachés à un même bâtiment ou si le demandeur est le syndicat des copropriétaires, il peut cumuler des aides financières pour :
 
-1. un emplacement par logement ;
+- un emplacement par logement ;
 
-2. un emplacement par local professionnel, ainsi que pour chaque deuxième emplacement supplémentaire affecté à ce même local professionnel, sans néanmoins dépasser 15 bornes de charge par bâtiment installées sur des emplacements affectés à des locaux professionnels ;
+- un emplacement par local professionnel, ainsi que pour chaque deuxième emplacement supplémentaire affecté à ce même local professionnel, sans néanmoins dépasser 15 bornes de charge par bâtiment installées sur des emplacements affectés à des locaux professionnels ;
 
-3. un emplacement faisant partie des parties communes, ainsi que pour chaque deuxième emplacement supplémentaire faisant partie des parties communes, sans néanmoins dépasser 25 bornes de charge par bâtiment installées sur des emplacements faisant partie des parties communes.
+- un emplacement faisant partie des parties communes, ainsi que pour chaque deuxième emplacement supplémentaire faisant partie des parties communes, sans néanmoins dépasser 25 bornes de charge par bâtiment installées sur des emplacements faisant partie des parties communes.
 
 (5)
 
 Lorsque les conditions suivantes sont réunies, l’aide financière peut être octroyée aux personnes visées au paragraphe 2 par l’intermédiaire d’un crédit-bailleur :
 
-1. Le demandeur, en tant que crédit-preneur, a mandaté le crédit-bailleur pour demander l’aide financière et en obtenir le paiement au nom et pour le compte du crédit-preneur ;
+- Le demandeur, en tant que crédit-preneur, a mandaté le crédit-bailleur pour demander l’aide financière et en obtenir le paiement au nom et pour le compte du crédit-preneur ;
 
-2. L’aide financière est entièrement transférée au crédit-preneur, qui en est le seul bénéficiaire, au moyen d’une réduction du prix du crédit-bail. À cet effet, le contrat de crédit-bail fait référence au présent règlement et indique une estimation du montant de l’aide financière octroyée au crédit-preneur ainsi que du montant des versements échelonnés dus par le crédit-preneur reflétant de façon transparente le montant de l’aide financière. Ces montants incluent uniquement les coûts de la borne de charge et de son installation. Le contrat de crédit-bail indique l’adresse d’installation de la borne ;
+- L’aide financière est entièrement transférée au crédit-preneur, qui en est le seul bénéficiaire, au moyen d’une réduction du prix du crédit-bail. À cet effet, le contrat de crédit-bail fait référence au présent règlement et indique une estimation du montant de l’aide financière octroyée au crédit-preneur ainsi que du montant des versements échelonnés dus par le crédit-preneur reflétant de façon transparente le montant de l’aide financière. Ces montants incluent uniquement les coûts de la borne de charge et de son installation. Le contrat de crédit-bail indique l’adresse d’installation de la borne ;
 
-3. Le crédit-preneur acquiert la propriété de la borne de charge subventionnée au plus tard à la fin du contrat de crédit-bail.
+- Le crédit-preneur acquiert la propriété de la borne de charge subventionnée au plus tard à la fin du contrat de crédit-bail.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -150,17 +150,17 @@ Les demandes en vue de l’obtention de l’aide financière sont à introduire 
 
 Les demandes doivent comporter l’ensemble des pièces justificatives suivantes :
 
-1. une copie des factures acquittées en due forme, attestant l’achat ou l’installation de la borne de charge ;
+- une copie des factures acquittées en due forme, attestant l’achat ou l’installation de la borne de charge ;
 
-2. un extrait cadastral indiquant la propriété, si le demandeur est propriétaire de l’emplacement sur lequel la borne de charge est installée ;
+- un extrait cadastral indiquant la propriété, si le demandeur est propriétaire de l’emplacement sur lequel la borne de charge est installée ;
 
-3. une copie du contrat de bail portant sur l’emplacement où la borne de charge pour laquelle l’aide financière est demandée est installée, si le demandeur n’est pas propriétaire dudit emplacement ;
+- une copie du contrat de bail portant sur l’emplacement où la borne de charge pour laquelle l’aide financière est demandée est installée, si le demandeur n’est pas propriétaire dudit emplacement ;
 
-4. pour le cas de bornes de charge dont certains éléments peuvent être détachés pour fonctionner comme dispositif de recharge mobile, le numéro de série du dispositif de recharge mobile ;
+- pour le cas de bornes de charge dont certains éléments peuvent être détachés pour fonctionner comme dispositif de recharge mobile, le numéro de série du dispositif de recharge mobile ;
 
-5. le certificat de conformité établi par le gestionnaire de réseau de distribution ou, pour le cas où le gestionnaire de réseau de distribution n’émet pas de tels certificats, une copie de la notification de fin de travaux adressée au gestionnaire de réseau pour les bornes avec une puissance de charge maximale supérieure à 7,4 kW ;
+- le certificat de conformité établi par le gestionnaire de réseau de distribution ou, pour le cas où le gestionnaire de réseau de distribution n’émet pas de tels certificats, une copie de la notification de fin de travaux adressée au gestionnaire de réseau pour les bornes avec une puissance de charge maximale supérieure à 7,4 kW ;
 
-6. pour le cas où l’aide est octroyée par l’intermédiaire d’un crédit-bailleur, une copie signée du contrat de crédit-bail répondant aux conditions énoncées à l’article 2, paragraphe 5.
+- pour le cas où l’aide est octroyée par l’intermédiaire d’un crédit-bailleur, une copie signée du contrat de crédit-bail répondant aux conditions énoncées à l’article 2, paragraphe 5.
 
 (4)
 

@@ -33,9 +33,9 @@ Champ d'application
 
 Le présent règlement s'applique aux équipements électriques et électroniques comme suit:
 
-1. jusqu'au 14 août 2018 aux EEE relevant des catégories énumérées à l'annexe I. L'annexe II contient une liste indicative d'EEE relevant des catégories énumérées à l'annexe I;
+- jusqu'au 14 août 2018 aux EEE relevant des catégories énumérées à l'annexe I. L'annexe II contient une liste indicative d'EEE relevant des catégories énumérées à l'annexe I;
 
-2. à compter du 15 août 2018, sous réserve des paragraphes (3) et (4), à tous les EEE. Tous les EEE sont classés dans les catégories énumérées à l'annexe III. L'annexe IV contient une liste non exhaustive d'EEE relevant des catégories énumérées à l'annexe III.
+- à compter du 15 août 2018, sous réserve des paragraphes (3) et (4), à tous les EEE. Tous les EEE sont classés dans les catégories énumérées à l'annexe III. L'annexe IV contient une liste non exhaustive d'EEE relevant des catégories énumérées à l'annexe III.
 
 (2)
 
@@ -45,29 +45,29 @@ Le présent règlement s'applique sans préjudice des exigences législatives et
 
 Le présent règlement ne s'applique pas aux EEE suivants:
 
-1. les équipements qui sont nécessaires à la protection des intérêts essentiels de sécurité de l'Etat, y compris les armes, les munitions et le matériel de guerre destinés à des fins spécifiquement militaires;
+- les équipements qui sont nécessaires à la protection des intérêts essentiels de sécurité de l'Etat, y compris les armes, les munitions et le matériel de guerre destinés à des fins spécifiquement militaires;
 
-2. les équipements qui sont spécifiquement conçus et installés pour s'intégrer dans un autre type d'équipement exclu du champ d'application du présent règlement ou n'en relevant pas, et qui ne peuvent remplir leur fonction que s'ils font partie de cet équipement;
+- les équipements qui sont spécifiquement conçus et installés pour s'intégrer dans un autre type d'équipement exclu du champ d'application du présent règlement ou n'en relevant pas, et qui ne peuvent remplir leur fonction que s'ils font partie de cet équipement;
 
-3. les ampoules à filament.
+- les ampoules à filament.
 
 (4)
 
 Outre les équipements visés au paragraphe (3), à compter du 15 août 2018, le présent règlement ne s'applique pas aux EEE suivants:
 
-1. les équipements destinés à être envoyés dans l'espace;
+- les équipements destinés à être envoyés dans l'espace;
 
-2. les gros outils industriels fixes;
+- les gros outils industriels fixes;
 
-3. les grosses installations fixes, à l'exception de tout équipement qui est présent dans de telles installations, mais n'est pas spécifiquement conçu et monté pour s'intégrer dans lesdites installations;
+- les grosses installations fixes, à l'exception de tout équipement qui est présent dans de telles installations, mais n'est pas spécifiquement conçu et monté pour s'intégrer dans lesdites installations;
 
-4. les moyens de transport de personnes ou de marchandises, à l'exception des véhicules électriques à deux roues qui ne sont pas homologués;
+- les moyens de transport de personnes ou de marchandises, à l'exception des véhicules électriques à deux roues qui ne sont pas homologués;
 
-5. les engins mobiles non routiers destinés exclusivement à un usage professionnel;
+- les engins mobiles non routiers destinés exclusivement à un usage professionnel;
 
-6. les équipements spécifiquement conçus aux seules fins de recherche et de développement, et qui sont disponibles uniquement dans un contexte interentreprises;
+- les équipements spécifiquement conçus aux seules fins de recherche et de développement, et qui sont disponibles uniquement dans un contexte interentreprises;
 
-7. les dispositifs médicaux et les dispositifs médicaux de diagnostic in vitro, lorsque ces dispositifs deviennent normalement infectieux avant la fin de leur cycle de vie, ainsi que les dispositifs médicaux implantables actifs.
+- les dispositifs médicaux et les dispositifs médicaux de diagnostic in vitro, lorsque ces dispositifs deviennent normalement infectieux avant la fin de leur cycle de vie, ainsi que les dispositifs médicaux implantables actifs.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -78,51 +78,51 @@ Définitions
 
 Aux fins du présent règlement, on entend par:
 
-1. «équipements électriques et électroniques» ou «EEE»: les équipements fonctionnant grâce à des courants électriques ou à des champs électromagnétiques et les équipements de production, de transfert et de mesure de ces courants et champs, conçus pour être utilisés à une tension ne dépassant pas 1.000 volts en courant alternatif et 1.500 volts en courant continu;
+- «équipements électriques et électroniques» ou «EEE»: les équipements fonctionnant grâce à des courants électriques ou à des champs électromagnétiques et les équipements de production, de transfert et de mesure de ces courants et champs, conçus pour être utilisés à une tension ne dépassant pas 1.000 volts en courant alternatif et 1.500 volts en courant continu;
 
-2. «gros outils industriels fixes»: un ensemble de grande ampleur de machines, d'équipements et/ou de composants, qui fonctionnent ensemble pour une application spécifique, installés de façon permanente et démontés par des professionnels dans un lieu donné, et utilisés et entretenus par des professionnels dans un centre de fabrication industrielle ou un établissement de recherche et développement;
+- «gros outils industriels fixes»: un ensemble de grande ampleur de machines, d'équipements et/ou de composants, qui fonctionnent ensemble pour une application spécifique, installés de façon permanente et démontés par des professionnels dans un lieu donné, et utilisés et entretenus par des professionnels dans un centre de fabrication industrielle ou un établissement de recherche et développement;
 
-3. «grosse installation fixe»: une combinaison de grande ampleur de plusieurs types d'appareils et, le cas échéant, d'autres dispositifs, qui:
+- «grosse installation fixe»: une combinaison de grande ampleur de plusieurs types d'appareils et, le cas échéant, d'autres dispositifs, qui:
 
-1. sont assemblés, installés et démontés par des professionnels;
+  - sont assemblés, installés et démontés par des professionnels;
 
-2. sont destinés à être utilisés de façon permanente comme partie intégrante d'une construction ou d'une structure à un endroit prédéfini et dédié; et
+  - sont destinés à être utilisés de façon permanente comme partie intégrante d'une construction ou d'une structure à un endroit prédéfini et dédié; et
 
-3. ne peuvent être remplacés que par le même équipement spécifiquement conçu;
+  - ne peuvent être remplacés que par le même équipement spécifiquement conçu;
 
-4. «engins mobiles non routiers»: engins disposant d'un bloc d'alimentation embarqué, dont le fonctionnement nécessite soit la mobilité, soit un déplacement continu ou semi-continu entre une succession d'emplacements de travail fixes pendant le travail;
+- «engins mobiles non routiers»: engins disposant d'un bloc d'alimentation embarqué, dont le fonctionnement nécessite soit la mobilité, soit un déplacement continu ou semi-continu entre une succession d'emplacements de travail fixes pendant le travail;
 
-5. «déchets d'équipements électriques et électroniques» ou «DEEE»: les équipements électriques et électroniques constituant des déchets au sens de l'article 4, point (1) de la loi du 21 mars 2012 relative aux déchets, y compris tous les composants, sous-ensembles et produits consommables faisant partie intégrante du produit au moment de la mise au rebut;
+- «déchets d'équipements électriques et électroniques» ou «DEEE»: les équipements électriques et électroniques constituant des déchets au sens de l'article 4, point (1) de la loi du 21 mars 2012 relative aux déchets, y compris tous les composants, sous-ensembles et produits consommables faisant partie intégrante du produit au moment de la mise au rebut;
 
-6. «producteur»: toute personne physique ou morale qui, quelle que soit la technique de vente utilisée, y compris par communication à distance au sens de la loi du 14 août 2000 relative au commerce électronique: Est assimilée au producteur toute personne qui est établie dans un autre Etat membre ou dans un pays tiers et qui, à titre professionnel, fournit des EEE directement à un utilisateur au Luxembourg. Une personne qui assure exclusivement un financement en vertu de ou conformément à un contrat de financement n'est pas considérée comme «producteur» à moins qu'elle n'agisse aussi comme producteur au sens des points i) à iv);
+- «producteur»: toute personne physique ou morale qui, quelle que soit la technique de vente utilisée, y compris par communication à distance au sens de la loi du 14 août 2000 relative au commerce électronique: Est assimilée au producteur toute personne qui est établie dans un autre Etat membre ou dans un pays tiers et qui, à titre professionnel, fournit des EEE directement à un utilisateur au Luxembourg. Une personne qui assure exclusivement un financement en vertu de ou conformément à un contrat de financement n'est pas considérée comme «producteur» à moins qu'elle n'agisse aussi comme producteur au sens des points i) à iv);
 
-1. est établie au Luxembourg et fabrique des EEE sous son propre nom ou sa propre marque, ou fait concevoir ou fabriquer des EEE, et les commercialise sous son propre nom ou sa propre marque sur le territoire luxembourgeois;
+  - est établie au Luxembourg et fabrique des EEE sous son propre nom ou sa propre marque, ou fait concevoir ou fabriquer des EEE, et les commercialise sous son propre nom ou sa propre marque sur le territoire luxembourgeois;
 
-2. est établie au Luxembourg et revend, sur le territoire luxembourgeois, sous son propre nom ou sa propre marque des équipements produits par d'autres fournisseurs, le revendeur ne devant pas être considéré comme «producteur» lorsque la marque du producteur figure sur l'équipement conformément au point i);
+  - est établie au Luxembourg et revend, sur le territoire luxembourgeois, sous son propre nom ou sa propre marque des équipements produits par d'autres fournisseurs, le revendeur ne devant pas être considéré comme «producteur» lorsque la marque du producteur figure sur l'équipement conformément au point i);
 
-3. est établie au Luxembourg et met sur le marché luxembourgeois, à titre professionnel, des EEE provenant d'un pays tiers ou d'un autre Etat membre de l'Union européenne, dénommés ci-après respectivement «Etat membre» et «Union»; ou
+  - est établie au Luxembourg et met sur le marché luxembourgeois, à titre professionnel, des EEE provenant d'un pays tiers ou d'un autre Etat membre de l'Union européenne, dénommés ci-après respectivement «Etat membre» et «Union»; ou
 
-4. vend au Luxembourg des EEE par communication à distance directement aux ménages ou à des utilisateurs autres que les ménages, et est établie dans un autre Etat membre ou dans un pays tiers.
+  - vend au Luxembourg des EEE par communication à distance directement aux ménages ou à des utilisateurs autres que les ménages, et est établie dans un autre Etat membre ou dans un pays tiers.
 
-7. «distributeur»: toute personne physique ou morale dans la chaîne d'approvisionnement, qui met des EEE à disposition sur le marché. Cette définition n'empêche pas un distributeur d'être également producteur au sens du point 6);
+- «distributeur»: toute personne physique ou morale dans la chaîne d'approvisionnement, qui met des EEE à disposition sur le marché. Cette définition n'empêche pas un distributeur d'être également producteur au sens du point 6);
 
-8. «DEEE provenant des ménages»: les DEEE provenant des ménages et les DEEE d'origine commerciale, industrielle, institutionnelle et autre qui, en raison de leur nature et de leur quantité, sont similaires à ceux des ménages. Les déchets provenant d'EEE qui sont susceptibles d'être utilisés à la fois par les ménages et par des utilisateurs autres que les ménages sont en tout état de cause considérés comme étant des DEEE provenant des ménages;
+- «DEEE provenant des ménages»: les DEEE provenant des ménages et les DEEE d'origine commerciale, industrielle, institutionnelle et autre qui, en raison de leur nature et de leur quantité, sont similaires à ceux des ménages. Les déchets provenant d'EEE qui sont susceptibles d'être utilisés à la fois par les ménages et par des utilisateurs autres que les ménages sont en tout état de cause considérés comme étant des DEEE provenant des ménages;
 
-9. «contrat de financement»: tout contrat ou accord de prêt, de leasing, de location ou de vente différée concernant un équipement quelconque, qu'il soit prévu ou non dans les conditions de ce contrat ou accord ou de tout contrat ou accord accessoire qu'un transfert de propriété de cet équipement aura ou pourra avoir lieu;
+- «contrat de financement»: tout contrat ou accord de prêt, de leasing, de location ou de vente différée concernant un équipement quelconque, qu'il soit prévu ou non dans les conditions de ce contrat ou accord ou de tout contrat ou accord accessoire qu'un transfert de propriété de cet équipement aura ou pourra avoir lieu;
 
-10. «mise à disposition sur le marché»: toute fourniture d'un produit destiné à être distribué, consommé ou utilisé sur le marché luxembourgeois dans le cadre d'une activité commerciale, à titre onéreux ou gratuit;
+- «mise à disposition sur le marché»: toute fourniture d'un produit destiné à être distribué, consommé ou utilisé sur le marché luxembourgeois dans le cadre d'une activité commerciale, à titre onéreux ou gratuit;
 
-11. «mise sur le marché»: la première mise à disposition d'un produit sur le marché luxembourgeois, à titre professionnel;
+- «mise sur le marché»: la première mise à disposition d'un produit sur le marché luxembourgeois, à titre professionnel;
 
-12. «extraction»: un traitement manuel, mécanique, chimique ou métallurgique à l'issue duquel les substances, mélanges et composants dangereux se trouvent rassemblés en un flux identifiable ou dans une partie identifiable d'un flux au cours du processus de traitement. Une substance, un mélange ou un composant est identifiable s'il est possible de le contrôler pour attester que son traitement est respectueux de l'environnement;
+- «extraction»: un traitement manuel, mécanique, chimique ou métallurgique à l'issue duquel les substances, mélanges et composants dangereux se trouvent rassemblés en un flux identifiable ou dans une partie identifiable d'un flux au cours du processus de traitement. Une substance, un mélange ou un composant est identifiable s'il est possible de le contrôler pour attester que son traitement est respectueux de l'environnement;
 
-13. «dispositif médical»: un dispositif médical ou accessoire d'un dispositif médical au sens de l'article 1 er , paragraphe (3) , point a) ou b), respectivement, de la loi modifiée du 16 juin 1990 relative aux dispositifs médicaux, et qui est un EEE;
+- «dispositif médical»: un dispositif médical ou accessoire d'un dispositif médical au sens de l'article 1 er , paragraphe (3) , point a) ou b), respectivement, de la loi modifiée du 16 juin 1990 relative aux dispositifs médicaux, et qui est un EEE;
 
-14. «dispositif médical de diagnostic in vitro»: un dispositif médical de diagnostic in vitro ou accessoire d'un dispositif médical de diagnostic in vitro au sens de l'article 1 er , point b) ou c), respectivement, du règlement grand-ducal modifié du 24 juillet 2001 relatif aux dispositifs médicaux de diagnostic in vitro, et qui est un EEE;
+- «dispositif médical de diagnostic in vitro»: un dispositif médical de diagnostic in vitro ou accessoire d'un dispositif médical de diagnostic in vitro au sens de l'article 1 er , point b) ou c), respectivement, du règlement grand-ducal modifié du 24 juillet 2001 relatif aux dispositifs médicaux de diagnostic in vitro, et qui est un EEE;
 
-15. «dispositif médical implantable actif»: un dispositif médical implantable actif au sens de l'article 1 er , paragraphe 2, point c), du règlement grand-ducal modifié du 5 février 1993 relatif aux dispositifs médicaux implantables actifs et qui est un EEE;
+- «dispositif médical implantable actif»: un dispositif médical implantable actif au sens de l'article 1 er , paragraphe 2, point c), du règlement grand-ducal modifié du 5 février 1993 relatif aux dispositifs médicaux implantables actifs et qui est un EEE;
 
-16. «accord environnemental»: tout accord formel entre le ministre ayant l'environnement dans ses attributions, désigné ci-après par «le ministre», et les secteurs économiques concernés qui doit être ouvert à tous les opérateurs économiques souhaitant se conformer aux conditions fixées par l'accord afin de contribuer à la réalisation des objectifs du présent règlement.
+- «accord environnemental»: tout accord formel entre le ministre ayant l'environnement dans ses attributions, désigné ci-après par «le ministre», et les secteurs économiques concernés qui doit être ouvert à tous les opérateurs économiques souhaitant se conformer aux conditions fixées par l'accord afin de contribuer à la réalisation des objectifs du présent règlement.
 
 (2)
 
@@ -150,21 +150,21 @@ En vue de réduire au minimum l'élimination des DEEE sous la forme de déchets 
 
 Pour les DEEE provenant des ménages,
 
-1. les communes et, pour autant qu'il s'agit de déchets problématiques, la SuperDreckskëscht doivent assurer la disponibilité et l'accessibilité d'infrastructures publiques de collecte sélective des DEEE permettant aux détenteurs finals et aux distributeurs de rapporter au moins gratuitement ces déchets;
+- les communes et, pour autant qu'il s'agit de déchets problématiques, la SuperDreckskëscht doivent assurer la disponibilité et l'accessibilité d'infrastructures publiques de collecte sélective des DEEE permettant aux détenteurs finals et aux distributeurs de rapporter au moins gratuitement ces déchets;
 
-2. les distributeurs, lorsqu'ils fournissent un nouveau produit, sont tenus de faire en sorte que les déchets puissent leur être rapportés, au moins gratuitement et sur une base d'un pour un, pour autant que l'équipement soit de type équivalent et ait rempli les mêmes fonctions que l'équipement fourni. Au cas où la reprise en question ne peut se faire en raison notamment de capacités de stockage insuffisantes, les distributeurs peuvent décider de ne pas reprendre les DEEE à condition de veiller à ce que le retour des DEEE ne soit pas, de ce fait, rendu plus difficile pour le détenteur final et demeure gratuit pour celui-ci. Ils sont tenus d'informer leurs clients sur les possibilités qui existent pour la remise des DEEE.
+- les distributeurs, lorsqu'ils fournissent un nouveau produit, sont tenus de faire en sorte que les déchets puissent leur être rapportés, au moins gratuitement et sur une base d'un pour un, pour autant que l'équipement soit de type équivalent et ait rempli les mêmes fonctions que l'équipement fourni. Au cas où la reprise en question ne peut se faire en raison notamment de capacités de stockage insuffisantes, les distributeurs peuvent décider de ne pas reprendre les DEEE à condition de veiller à ce que le retour des DEEE ne soit pas, de ce fait, rendu plus difficile pour le détenteur final et demeure gratuit pour celui-ci. Ils sont tenus d'informer leurs clients sur les possibilités qui existent pour la remise des DEEE.
 
-3. les distributeurs assurent, dans les magasins de détail disposant d'espaces de vente consacrés aux EEE d'une toutes les dimensions extérieures sont inférieures ou égales à 25 cm) gratuitement pour les utilisateurs finals et sans obligation d'acheter un EEE de type équivalent, à moins qu'une évaluation démontre que d'autres systèmes de collecte existants sont susceptibles d'être au moins aussi efficaces. Ces évaluations sont rendues publiques. Les DEEE collectés feront l'objet d'un traitement adéquat, conformément à l'article 7. Les points de collecte destinés aux DEEE de très petit volume installés dans les magasins de détail en question ne sont pas soumis à autorisation au titre de l'article 30 de la loi du 21 mars 2012 relative aux déchets;
+- les distributeurs assurent, dans les magasins de détail disposant d'espaces de vente consacrés aux EEE d'une toutes les dimensions extérieures sont inférieures ou égales à 25 cm) gratuitement pour les utilisateurs finals et sans obligation d'acheter un EEE de type équivalent, à moins qu'une évaluation démontre que d'autres systèmes de collecte existants sont susceptibles d'être au moins aussi efficaces. Ces évaluations sont rendues publiques. Les DEEE collectés feront l'objet d'un traitement adéquat, conformément à l'article 7. Les points de collecte destinés aux DEEE de très petit volume installés dans les magasins de détail en question ne sont pas soumis à autorisation au titre de l'article 30 de la loi du 21 mars 2012 relative aux déchets;
 
-4. en fonction des quantités respectives, les distributeurs visés aux points b) et c) sont autorisés à remettre gratuitement les DEEE ainsi collectés aux points de collecte sélective faisant partie des infrastructures dont question au point a);
+- en fonction des quantités respectives, les distributeurs visés aux points b) et c) sont autorisés à remettre gratuitement les DEEE ainsi collectés aux points de collecte sélective faisant partie des infrastructures dont question au point a);
 
-5. les producteurs ou les tiers agissant pour leur compte sont autorisés à organiser et à exploiter des systèmes de reprise de ces déchets, alternatifs ou complémentaires, provenant des ménages à condition que ces systèmes soient conformes aux objectifs du présent règlement, garantissent la même couverture territoriale que la collecte séparée visée au point a) et assurent la reprise au moins gratuite des DEEE;
+- les producteurs ou les tiers agissant pour leur compte sont autorisés à organiser et à exploiter des systèmes de reprise de ces déchets, alternatifs ou complémentaires, provenant des ménages à condition que ces systèmes soient conformes aux objectifs du présent règlement, garantissent la même couverture territoriale que la collecte séparée visée au point a) et assurent la reprise au moins gratuite des DEEE;
 
-6. en fonction des normes en matière de santé et de sécurité, les exploitants des infrastructures dont question au point a) peuvent décider de ne pas reprendre les DEEE qui, à la suite d'une contamination, présentent un risque pour la santé et la sécurité du personnel et tout particulièrement
+- en fonction des normes en matière de santé et de sécurité, les exploitants des infrastructures dont question au point a) peuvent décider de ne pas reprendre les DEEE qui, à la suite d'une contamination, présentent un risque pour la santé et la sécurité du personnel et tout particulièrement
 
-- les déchets qui contiennent des substances ou matériaux putrescibles, pouvant présenter un risque d'infection, radioactifs, dangereux, autres que ceux qui font partie intégrante de l'équipement électrique et électronique mis au rebut,
+  - les déchets qui contiennent des substances ou matériaux putrescibles, pouvant présenter un risque d'infection, radioactifs, dangereux, autres que ceux qui font partie intégrante de l'équipement électrique et électronique mis au rebut,
 
-- les déchets qui sont dans un état technique tel que leur manipulation ne peut pas se faire sans mesures de protection particulières.
+  - les déchets qui sont dans un état technique tel que leur manipulation ne peut pas se faire sans mesures de protection particulières.
 
 Les détenteurs sont tenus soit d'évacuer ou de faire évacuer ces substances ou matériaux conformément aux dispositions applicables en la matière soit de prendre des mesures afin de garantir que les DEEE ne présentent pas les risques susmentionnés.
 
@@ -220,11 +220,11 @@ Jusqu'au 31 décembre 2015, un taux moyen de collecte séparée d'au moins quatr
 
 Afin d'établir si le taux de collecte minimal a été atteint, les informations relatives aux DEEE collectés séparément conformément à l'article 4 leur sont transmises gratuitement à l'administration de l'Environnement, désignée ci-après par «administration», y compris au minimum les informations sur les DEEE qui ont été:
 
-1. reçus par les infrastructures dont question à l'article 4, paragraphe (2), point et les installations de traitement;
+- reçus par les infrastructures dont question à l'article 4, paragraphe (2), point et les installations de traitement;
 
-2. reçus par les distributeurs;
+- reçus par les distributeurs;
 
-3. collectés séparément par les producteurs ou par des tiers agissant pour le compte des producteurs.
+- collectés séparément par les producteurs ou par des tiers agissant pour le compte des producteurs.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -357,15 +357,15 @@ Les producteurs sont autorisés à informer les acheteurs, lors de la vente de n
 
 Les utilisateurs d'EEE dans les ménages obtiennent de la part respectivement des producteurs, des distributeurs et de l'administration les informations nécessaires suivantes:
 
-1. l'obligation de ne pas se débarrasser des DEEE avec les déchets municipaux non triés et de procéder à la collecte séparée des DEEE;
+- l'obligation de ne pas se débarrasser des DEEE avec les déchets municipaux non triés et de procéder à la collecte séparée des DEEE;
 
-2. les systèmes de reprise et de collecte mis à leur disposition, encourageant la coordination des informations sur les points de collecte à disposition, quel que soit le producteur ou l'opérateur qui les met en place;
+- les systèmes de reprise et de collecte mis à leur disposition, encourageant la coordination des informations sur les points de collecte à disposition, quel que soit le producteur ou l'opérateur qui les met en place;
 
-3. leur rôle dans le réemploi, le recyclage et les autres formes de valorisation des DEEE;
+- leur rôle dans le réemploi, le recyclage et les autres formes de valorisation des DEEE;
 
-4. les effets potentiels sur l'environnement et la santé humaine en raison de la présence de substances dangereuses dans les EEE;
+- les effets potentiels sur l'environnement et la santé humaine en raison de la présence de substances dangereuses dans les EEE;
 
-5. la signification du symbole figurant à l'annexe IX.
+- la signification du symbole figurant à l'annexe IX.
 
 (3)
 
@@ -468,11 +468,11 @@ L'administration procède à des inspections et des contrôles appropriés pour 
 
 Ces inspections portent au minimum sur:
 
-1. les informations déclarées dans le cadre du registre des producteurs;
+- les informations déclarées dans le cadre du registre des producteurs;
 
-2. les transferts, et en particulier les exportations de DEEE hors de l'Union conformément aux règlements (CE) n° 1013/2006 et (CE) n° 1418/2007; et
+- les transferts, et en particulier les exportations de DEEE hors de l'Union conformément aux règlements (CE) n° 1013/2006 et (CE) n° 1418/2007; et
 
-3. les opérations réalisées dans les installations de traitement conformément à la loi du 21 mars 2012 relative aux déchets et à l'annexe VII du présent règlement.
+- les opérations réalisées dans les installations de traitement conformément à la loi du 21 mars 2012 relative aux déchets et à l'annexe VII du présent règlement.
 
 (2)
 

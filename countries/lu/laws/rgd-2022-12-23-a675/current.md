@@ -40,9 +40,9 @@ Les centrales visées à l’article 15 du même règlement dont les travaux de 
 
 L’article 23bis, est modifié comme suit :
 
-1. à la fin de la deuxième formule, le point final est remplacé par un point-virgule ;
+- à la fin de la deuxième formule, le point final est remplacé par un point-virgule ;
 
-2. à suite de la deuxième formule, est inséré une troisième formule libellée comme suit : « n = 2022 à partir du 1er janvier 2023, jusqu’au 31 décembre 2023. ».
+- à suite de la deuxième formule, est inséré une troisième formule libellée comme suit : « n = 2022 à partir du 1er janvier 2023, jusqu’au 31 décembre 2023. ».
 
 <a id="art-4"></a>
 ## Art. 4.

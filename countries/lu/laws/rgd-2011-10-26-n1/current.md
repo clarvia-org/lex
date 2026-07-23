@@ -29,11 +29,11 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le Conseil scientifique se compose de huit membres, désignés par arrêté conjoint des ministres ayant dans leurs attributions la Santé et la Sécurité sociale comme suit:
 
-1. deux représentants de la Direction de la santé;
+- deux représentants de la Direction de la santé;
 
-2. deux représentants du Contrôle médical de la sécurité sociale;
+- deux représentants du Contrôle médical de la sécurité sociale;
 
-3. quatre médecins sur proposition du groupement représentatif des médecins et médecins-dentistes.
+- quatre médecins sur proposition du groupement représentatif des médecins et médecins-dentistes.
 
 Les agents affectés ou détachés à la Cellule d'expertise médicale ne peuvent pas être membres du Conseil scientifique.
 

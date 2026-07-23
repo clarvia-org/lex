@@ -32,17 +32,17 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour être admis au concours d’admission au stage préparant à l’une des fonctions de formateur d’adultes, le candidat doit remplir les conditions suivantes:
 
-1. être détenteur d’un diplôme tel qu’il est prévu à l’article 63 de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle ou à l’article 9 de la loi du 22 mai 2009 portant création d’un Institut national des langues et reconnu comme tel par le ministre ayant l’Éducation nationale dans ses attributions, dénommé ci-après «ministre», la commission consultative prévue à l’article 2 entendue en son avis;
+- être détenteur d’un diplôme tel qu’il est prévu à l’article 63 de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle ou à l’article 9 de la loi du 22 mai 2009 portant création d’un Institut national des langues et reconnu comme tel par le ministre ayant l’Éducation nationale dans ses attributions, dénommé ci-après «ministre», la commission consultative prévue à l’article 2 entendue en son avis;
 
-2. avoir réussi les épreuves préliminaires visant à vérifier les connaissances linguistiques dans les trois langues administratives du pays prévues à l'article 4 du présent règlement;
+- avoir réussi les épreuves préliminaires visant à vérifier les connaissances linguistiques dans les trois langues administratives du pays prévues à l'article 4 du présent règlement;
 
-3. être ressortissant d’un État membre de l’Union européenne;
+- être ressortissant d’un État membre de l’Union européenne;
 
-4. jouir des droits civils et politiques;
+- jouir des droits civils et politiques;
 
-5. offrir les garanties de moralité requises;
+- offrir les garanties de moralité requises;
 
-6. satisfaire aux conditions d’aptitude physique requises pour l’exercice de la fonction.
+- satisfaire aux conditions d’aptitude physique requises pour l’exercice de la fonction.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -77,9 +77,9 @@ Des dispenses aux épreuves préliminaires sont accordées suivant les dispositi
 
 À l’issue des épreuves préliminaires, ne sont pas admissibles au concours les candidats
 
-1. dont la moyenne des notes de l’épreuve écrite et orale des épreuves préliminaires est inférieure à 10 points sur 20, ou
+- dont la moyenne des notes de l’épreuve écrite et orale des épreuves préliminaires est inférieure à 10 points sur 20, ou
 
-2. ayant obtenu une note inférieure à 7 points sur 20 soit à l’épreuve écrite, soit à l’épreuve orale des épreuves préliminaires.
+- ayant obtenu une note inférieure à 7 points sur 20 soit à l’épreuve écrite, soit à l’épreuve orale des épreuves préliminaires.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -91,9 +91,9 @@ Les épreuves du concours d’admission au stage prévues au présent règlement
 
 Le concours d’admission au stage comporte deux parties dont
 
-1. la première comprend deux épreuves écrites;
+- la première comprend deux épreuves écrites;
 
-2. la deuxième comprend une épreuve orale ou pratique.
+- la deuxième comprend une épreuve orale ou pratique.
 
 Chaque épreuve est évaluée sur un total de 20 points.
 
@@ -153,9 +153,9 @@ Le stage peut être suspendu par le ministre soit d’office, soit à la demande
 
 Le stage comprend:
 
-1. une formation pédagogique d’ordre pratique et théorique, dénommée ci-après «formation pédagogique» avec une insertion dans une tâche d’enseignement;
+- une formation pédagogique d’ordre pratique et théorique, dénommée ci-après «formation pédagogique» avec une insertion dans une tâche d’enseignement;
 
-2. une période probatoire avec une tâche d’enseignement qui donne accès à la carrière.
+- une période probatoire avec une tâche d’enseignement qui donne accès à la carrière.
 
 La tâche peut comprendre des éléments de permanence, de surveillance, de guidance ainsi que d’encadrement des apprenants.
 
@@ -166,9 +166,9 @@ Pendant la durée de son stage, le stagiaire est placé sous l’autorité du di
 
 La tâche du stagiaire comprend:
 
-1. la participation à des modules de formation, d’une durée totale de 240 heures réparties sur trois semestres, qui sont définis en termes de compétences et qui portent sur les sciences de l’éducation, l’éducation des adultes, la didactique générale, l’information et l’orientation des apprenants adultes, ainsi que la profession du formateur d’adultes. En vertu du principe de l’alternance, les modules impliquent l’application pratique dans les établissements. En vue de la participation à ces modules de formation, à des activités de concertation entre stagiaires ainsi qu’avec le conseiller pédagogique et de la constitution du dossier visé à l’article 16, le stagiaire bénéficie d’une décharge de 8 leçons hebdomadaires;
+- la participation à des modules de formation, d’une durée totale de 240 heures réparties sur trois semestres, qui sont définis en termes de compétences et qui portent sur les sciences de l’éducation, l’éducation des adultes, la didactique générale, l’information et l’orientation des apprenants adultes, ainsi que la profession du formateur d’adultes. En vertu du principe de l’alternance, les modules impliquent l’application pratique dans les établissements. En vue de la participation à ces modules de formation, à des activités de concertation entre stagiaires ainsi qu’avec le conseiller pédagogique et de la constitution du dossier visé à l’article 16, le stagiaire bénéficie d’une décharge de 8 leçons hebdomadaires;
 
-2. une tâche d’enseignement qui correspond à la tâche régulière du formateur d’adultes dans sa carrière, diminuée de la décharge visée sub a). Dans l’exécution de sa tâche, le stagiaire est assisté par un conseiller pédagogique qui l’accompagne, le guide et le conseille dans sa démarche didactique.
+- une tâche d’enseignement qui correspond à la tâche régulière du formateur d’adultes dans sa carrière, diminuée de la décharge visée sub a). Dans l’exécution de sa tâche, le stagiaire est assisté par un conseiller pédagogique qui l’accompagne, le guide et le conseille dans sa démarche didactique.
 
 <a id="art-12-20160905"></a>
 ## Art. 12.
@@ -199,13 +199,13 @@ Le cadre de la formation et les principes d’organisation de la formation sont 
 
 L’Institut de formation:
 
-1. conçoit et met en œuvre les modules de formation et leurs contenus,
+- conçoit et met en œuvre les modules de formation et leurs contenus,
 
-2. propose le parcours de formation du stagiaire,
+- propose le parcours de formation du stagiaire,
 
-3. organise les modules de la partie théorique,
+- organise les modules de la partie théorique,
 
-4. assure en concertation avec les directeurs des établissements concernés la coordination entre la partie théorique, la partie pratique et la supervision par le ou les conseillers pédagogiques.
+- assure en concertation avec les directeurs des établissements concernés la coordination entre la partie théorique, la partie pratique et la supervision par le ou les conseillers pédagogiques.
 
 Le ministre fixe, sur proposition de l’Institut de formation et des directeurs des établissements concernés:
 
@@ -218,17 +218,17 @@ Le ministre fixe, sur proposition de l’Institut de formation et des directeurs
 
 Interviennent dans la formation pédagogique avec les missions définies ci-après:
 
-1. le personnel désigné par l’Institut de formation:
+- le personnel désigné par l’Institut de formation:
 
-- un coordinateur pédagogique qui assure l’organisation et la gestion de la partie théorique;
+  - un coordinateur pédagogique qui assure l’organisation et la gestion de la partie théorique;
 
-- un ou plusieurs formateurs qui assurent l’enseignement des modules de la partie théorique;
+  - un ou plusieurs formateurs qui assurent l’enseignement des modules de la partie théorique;
 
-- le cas échéant un ou plusieurs experts qui assurent notamment l’ouverture sur le monde non scolaire et qui établissent les liens avec le monde de la recherche scientifique;
+  - le cas échéant un ou plusieurs experts qui assurent notamment l’ouverture sur le monde non scolaire et qui établissent les liens avec le monde de la recherche scientifique;
 
-2. le personnel désigné par le directeur de l’établissement d’affectation du stagiaire:
+- le personnel désigné par le directeur de l’établissement d’affectation du stagiaire:
 
-- un ou plusieurs conseillers pédagogiques par établissement qui assurent la supervision de tous les stagiaires y affectés.
+  - un ou plusieurs conseillers pédagogiques par établissement qui assurent la supervision de tous les stagiaires y affectés.
 
 Le coordinateur, les formateurs et les conseillers pédagogiques doivent avoir suivi ou suivre une formation continue organisée ou agréée par l’Institut de formation. Les fonctions de conseiller pédagogique et de formateur sont compatibles entre elles.
 

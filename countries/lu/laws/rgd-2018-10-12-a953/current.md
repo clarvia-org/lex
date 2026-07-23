@@ -34,15 +34,15 @@ Champ d’application
 
 Le présent règlement a pour objet de déterminer la composition et le fonctionnement de la Commission consultative en matière d’aides d’État, ci-après « la commission », chargée de donner son avis sur les demandes d’aides et prévue :
 
-1. à l’article 15 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
+- à l’article 15 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
 
-2. à l’article 9 de la loi modifiée du 20 juillet 2017 ayant pour objet la mise en place d’un régime d’aide à l’investissement à finalité régionale ;
+- à l’article 9 de la loi modifiée du 20 juillet 2017 ayant pour objet la mise en place d’un régime d’aide à l’investissement à finalité régionale ;
 
-3. à l’article 19 de la loi du 15 décembre 2017 relative à un régime d’aides à la protection de l’environnement ;
+- à l’article 19 de la loi du 15 décembre 2017 relative à un régime d’aides à la protection de l’environnement ;
 
-4. à l’article 16 de la loi du 9 août 2018 relative à un régime d’aides en faveur des petites et moyennes entreprises pour autant que la demande concerne une entreprise qui tombe sous la compétence du ministre ayant l’Économie dans ses attributions. ;
+- à l’article 16 de la loi du 9 août 2018 relative à un régime d’aides en faveur des petites et moyennes entreprises pour autant que la demande concerne une entreprise qui tombe sous la compétence du ministre ayant l’Économie dans ses attributions. ;
 
-5. à l’article 6 de la loi du 15 juillet 2022 instaurant un régime d’aides dans le contexte du système d’échange de quotas d’émission de gaz à effet de serre pour la période 2021-2030.
+- à l’article 6 de la loi du 15 juillet 2022 instaurant un régime d’aides dans le contexte du système d’échange de quotas d’émission de gaz à effet de serre pour la période 2021-2030.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -57,25 +57,25 @@ La commission se compose de onze membres effectifs dont un président et deux vi
 
 La composition de la commission est arrêtée comme suit :
 
-1. deux représentants du ministre ;
+- deux représentants du ministre ;
 
-2. un représentant du ministre ayant les Classes moyennes dans ses attributions ;
+- un représentant du ministre ayant les Classes moyennes dans ses attributions ;
 
-3. un représentant du ministre ayant le Tourisme dans ses attributions ;
+- un représentant du ministre ayant le Tourisme dans ses attributions ;
 
-4. un représentant du ministre ayant l’Énergie dans ses attributions ;
+- un représentant du ministre ayant l’Énergie dans ses attributions ;
 
-5. deux représentants du ministre ayant les Finances dans ses attributions ;
+- deux représentants du ministre ayant les Finances dans ses attributions ;
 
-6. un représentant du ministre ayant l’Emploi dans ses attributions ;
+- un représentant du ministre ayant l’Emploi dans ses attributions ;
 
-7. un représentant du ministre ayant l’Environnement dans ses attributions ;
+- un représentant du ministre ayant l’Environnement dans ses attributions ;
 
-8. un représentant du ministre ayant l’Intérieur dans ses attributions ;
+- un représentant du ministre ayant l’Intérieur dans ses attributions ;
 
-9. un représentant du ministre ayant la Recherche publique dans ses attributions ;
+- un représentant du ministre ayant la Recherche publique dans ses attributions ;
 
-10. un représentant du ministre ayant les Communications et médias dans ses attributions.
+- un représentant du ministre ayant les Communications et médias dans ses attributions.
 
 (3)
 
@@ -187,9 +187,9 @@ Dispositions abrogatoires
 
 Sont abrogés :
 
-1. le règlement grand-ducal modifié du 27 août 2008 déterminant la composition et le fonctionnement de la commission chargée de l’examen des demandes d’aide en faveur de l’investissement et de la recherche-développement des entreprises ;
+- le règlement grand-ducal modifié du 27 août 2008 déterminant la composition et le fonctionnement de la commission chargée de l’examen des demandes d’aide en faveur de l’investissement et de la recherche-développement des entreprises ;
 
-2. le règlement grand-ducal du 30 mai 2005 déterminant le fonctionnement et la composition de la commission prévue à l’article 13 de la loi du 30 juin 2004 portant création d’un cadre général des régimes d’aides en faveur du secteur des classes moyennes.
+- le règlement grand-ducal du 30 mai 2005 déterminant le fonctionnement et la composition de la commission prévue à l’article 13 de la loi du 30 juin 2004 portant création d’un cadre général des régimes d’aides en faveur du secteur des classes moyennes.
 
 <a id="art-7"></a>
 ## Art. 7.

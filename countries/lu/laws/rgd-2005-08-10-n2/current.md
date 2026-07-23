@@ -76,13 +76,13 @@ La participation des élèves et des parents d’élèves à la vie du lycée-pi
 
 En sus des dispositions concernant la représentation des élèves et des parents d’élèves déterminées par la loi du 25 juin 2004 portant organisation des lycées et lycées techniques, les élèves et les parents d’élèves sont associés à la vie du lycée-pilote de la manière suivante:
 
-1. Les élèves participent activement à l’élaboration de leur projet scolaire et personnel. Ils s’informent continuellement de leurs progrès, de leurs faiblesses et de leurs points forts. Ils ont le droit de demander à être entendus à ce sujet par l’équipe pédagogique.
+- Les élèves participent activement à l’élaboration de leur projet scolaire et personnel. Ils s’informent continuellement de leurs progrès, de leurs faiblesses et de leurs points forts. Ils ont le droit de demander à être entendus à ce sujet par l’équipe pédagogique.
 
-2. Ensemble avec l’équipe pédagogique et plus particulièrement avec les éducateurs gradués, les élèves d’une classe élaborent un code de vie visant à fixer les droits et devoirs de chacun dans un contexte de vie lycéenne fondée sur la coopération et la participation.
+- Ensemble avec l’équipe pédagogique et plus particulièrement avec les éducateurs gradués, les élèves d’une classe élaborent un code de vie visant à fixer les droits et devoirs de chacun dans un contexte de vie lycéenne fondée sur la coopération et la participation.
 
-3. Les parents qui ont inscrit leur enfant au lycée-pilote sont informés régulièrement des progrès scolaires réalisés par leur enfant. Ils peuvent s’adresser à un membre de l’équipe pédagogique pendant les heures de disponibilité.
+- Les parents qui ont inscrit leur enfant au lycée-pilote sont informés régulièrement des progrès scolaires réalisés par leur enfant. Ils peuvent s’adresser à un membre de l’équipe pédagogique pendant les heures de disponibilité.
 
-4. Les parents sont associés à l’orientation de leur enfant conformément aux dispositions des articles 9 et 10 de la loi portant création du lycée pilote .
+- Les parents sont associés à l’orientation de leur enfant conformément aux dispositions des articles 9 et 10 de la loi portant création du lycée pilote .
 
 <a id="art-4"></a>
 ## Art. 4.

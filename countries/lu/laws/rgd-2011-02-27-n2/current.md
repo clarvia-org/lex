@@ -38,11 +38,11 @@ Le présent règlement s’applique, sauf disposition contraire, aux navires d�
 
 Sauf disposition contraire, le présent règlement ne s’applique pas:
 
-1. aux navires de guerre, aux navires de guerre auxiliaires ou autres navires battant pavillon luxembourgeois ou exploités par le Luxembourg et utilisés pour un service public non commercial;
+- aux navires de guerre, aux navires de guerre auxiliaires ou autres navires battant pavillon luxembourgeois ou exploités par le Luxembourg et utilisés pour un service public non commercial;
 
-2. aux navires de pêche, aux bateaux traditionnels et aux bateaux de plaisance d’une longueur inférieure à 45 mètres;
+- aux navires de pêche, aux bateaux traditionnels et aux bateaux de plaisance d’une longueur inférieure à 45 mètres;
 
-3. aux soutes des navires d’une jauge brute inférieure à 1.000 et à l’avitaillement et au matériel d’armement de tous les navires destinés à être utilisés à bord.
+- aux soutes des navires d’une jauge brute inférieure à 1.000 et à l’avitaillement et au matériel d’armement de tous les navires destinés à être utilisés à bord.
 
 <a id="art-2"></a>
 ## Art. 2
@@ -51,97 +51,97 @@ Sauf disposition contraire, le présent règlement ne s’applique pas:
 
 Aux fins du présent règlement, on entend par:
 
-1. «Instruments internationaux pertinents» les instruments suivants, dans leur version actualisée, tels qu’ils ont été adoptés par la loi modifiée du 9 novembre 1990 portant approbation de certaines conventions internationales en matière maritime:
+- «Instruments internationaux pertinents» les instruments suivants, dans leur version actualisée, tels qu’ils ont été adoptés par la loi modifiée du 9 novembre 1990 portant approbation de certaines conventions internationales en matière maritime:
 
-- «MARPOL»: la convention internationale de 1973 pour la prévention de la pollution par les navires et son protocole de 1978;
+  - «MARPOL»: la convention internationale de 1973 pour la prévention de la pollution par les navires et son protocole de 1978;
 
-- «SOLAS»: la convention internationale pour la sauvegarde de la vie humaine en mer, ainsi que les protocoles et modifications y afférents;
+  - «SOLAS»: la convention internationale pour la sauvegarde de la vie humaine en mer, ainsi que les protocoles et modifications y afférents;
 
-- la convention internationale de 1969 sur le jaugeage des navires;
+  - la convention internationale de 1969 sur le jaugeage des navires;
 
-- la convention internationale de 1969 sur l’intervention en haute mer en cas d’accident entraînant ou pouvant entraîner une pollution par les hydrocarbures et le protocole de 1973 sur l’intervention en haute mer en cas de pollution par des substances autres que les hydrocarbures;
+  - la convention internationale de 1969 sur l’intervention en haute mer en cas d’accident entraînant ou pouvant entraîner une pollution par les hydrocarbures et le protocole de 1973 sur l’intervention en haute mer en cas de pollution par des substances autres que les hydrocarbures;
 
-- «convention SAR»: la convention internationale de 1979 sur la recherche et le sauvetage maritimes;
+  - «convention SAR»: la convention internationale de 1979 sur la recherche et le sauvetage maritimes;
 
-- «code ISM»: le code international de gestion de la sécurité;
+  - «code ISM»: le code international de gestion de la sécurité;
 
-- «code IMDG»: le code maritime international des marchandises dangereuses;
+  - «code IMDG»: le code maritime international des marchandises dangereuses;
 
-- «recueil IBC»: le recueil international de règles relatives à la construction et à l’équipement des navires transportant des produits chimiques dangereux en vrac, de l’OMI;
+  - «recueil IBC»: le recueil international de règles relatives à la construction et à l’équipement des navires transportant des produits chimiques dangereux en vrac, de l’OMI;
 
-- «recueil IGC»: le recueil international de l’OMI de règles relatives à la construction et à l’équipement des navires transportant des gaz liquéfiés en vrac;
+  - «recueil IGC»: le recueil international de l’OMI de règles relatives à la construction et à l’équipement des navires transportant des gaz liquéfiés en vrac;
 
-- «recueil BC»: le recueil de l’OMI de règles pratiques pour la sécurité du transport des cargaisons solides en vrac;
+  - «recueil BC»: le recueil de l’OMI de règles pratiques pour la sécurité du transport des cargaisons solides en vrac;
 
-- «recueil INF»: le recueil de l’OMI relatif aux règles de sécurité pour le transport de combustible nucléaire irradié, de plutonium et de déchets fortement radioactifs en fûts à bord de navires;
+  - «recueil INF»: le recueil de l’OMI relatif aux règles de sécurité pour le transport de combustible nucléaire irradié, de plutonium et de déchets fortement radioactifs en fûts à bord de navires;
 
-- «résolution A.851 (20) de l’OMI», la résolution 851 (20) de l’Organisation maritime internationale intitulée «Principes généraux applicables aux systèmes de comptes rendus de navires et aux prescriptions en matière de notification, y compris les directives concernant la notification des événements mettant en cause des marchandises dangereuses, des substances nuisibles et/ou des polluants marins»;
+  - «résolution A.851 (20) de l’OMI», la résolution 851 (20) de l’Organisation maritime internationale intitulée «Principes généraux applicables aux systèmes de comptes rendus de navires et aux prescriptions en matière de notification, y compris les directives concernant la notification des événements mettant en cause des marchandises dangereuses, des substances nuisibles et/ou des polluants marins»;
 
-- «résolution A.917 (22) de l’OMI», la résolution 917 (22) de l’Organisation maritime internationale intitulée «Directives pour l’exploitation, à bord des navires, des systèmes d’identification automatique (AIS)», telle que modifiée par la résolution A.956 (23) de l’OMI;
+  - «résolution A.917 (22) de l’OMI», la résolution 917 (22) de l’Organisation maritime internationale intitulée «Directives pour l’exploitation, à bord des navires, des systèmes d’identification automatique (AIS)», telle que modifiée par la résolution A.956 (23) de l’OMI;
 
-- «résolution A.949 (23) de l’OMI», la résolution 949 (23) de l’Organisation maritime internationale portant «Directives sur les lieux de refuge pour les navires ayant besoin d’assistance»;
+  - «résolution A.949 (23) de l’OMI», la résolution 949 (23) de l’Organisation maritime internationale portant «Directives sur les lieux de refuge pour les navires ayant besoin d’assistance»;
 
-- «résolution A.950 (23) de l’OMI», la résolution 950 (23) de l’Organisation maritime internationale intitulée «Services d’assistance maritime (MAS)»;
+  - «résolution A.950 (23) de l’OMI», la résolution 950 (23) de l’Organisation maritime internationale intitulée «Services d’assistance maritime (MAS)»;
 
-- «directives de l’OMI sur le traitement équitable des gens de mer en cas d’accident maritime», les directives annexées à la résolution LEG.3(91) du comité juridique de l’OMI du 27 avril 2006 telles qu’approuvées par le conseil d’administration de l’Organisation internationale du travail lors de sa 296 ème session du 12 au 16 juin 2006;
+  - «directives de l’OMI sur le traitement équitable des gens de mer en cas d’accident maritime», les directives annexées à la résolution LEG.3(91) du comité juridique de l’OMI du 27 avril 2006 telles qu’approuvées par le conseil d’administration de l’Organisation internationale du travail lors de sa 296 ème session du 12 au 16 juin 2006;
 
-2. «exploitant»: l’armateur ou le gérant du navire;
+- «exploitant»: l’armateur ou le gérant du navire;
 
-3. «agent»: toute personne mandatée ou autorisée à délivrer l’information au nom de l’exploitant du navire;
+- «agent»: toute personne mandatée ou autorisée à délivrer l’information au nom de l’exploitant du navire;
 
-4. «chargeur»: toute personne par laquelle, au nom de laquelle ou pour le compte de laquelle un contrat de transport de marchandises est conclu avec un transporteur;
+- «chargeur»: toute personne par laquelle, au nom de laquelle ou pour le compte de laquelle un contrat de transport de marchandises est conclu avec un transporteur;
 
-5. «compagnie»: une compagnie au sens de la règle 1, paragraphe 2, du chapitre IX de la convention SOLAS;
+- «compagnie»: une compagnie au sens de la règle 1, paragraphe 2, du chapitre IX de la convention SOLAS;
 
-6. «navire»: tout bâtiment de mer ou engin marin battant pavillon luxembourgeois;
+- «navire»: tout bâtiment de mer ou engin marin battant pavillon luxembourgeois;
 
-7. «marchandises dangereuses»: Sont également incluses, les marchandises pour le transport desquelles les conditions préliminaires appropriées ont été prescrites conformément au paragraphe 1.1.3 du recueil IBC ou au paragraphe 1.1.6 du recueil ICG;
+- «marchandises dangereuses»: Sont également incluses, les marchandises pour le transport desquelles les conditions préliminaires appropriées ont été prescrites conformément au paragraphe 1.1.3 du recueil IBC ou au paragraphe 1.1.6 du recueil ICG;
 
-- les marchandises mentionnées dans le code IMDG;
+  - les marchandises mentionnées dans le code IMDG;
 
-- les substances liquides dangereuses énumérées au chapitre 17 du recueil IBC;
+  - les substances liquides dangereuses énumérées au chapitre 17 du recueil IBC;
 
-- les gaz liquéfiés énumérés au chapitre 19 du recueil ICG;
+  - les gaz liquéfiés énumérés au chapitre 19 du recueil ICG;
 
-- les matières solides visées par l’appendice B du recueil BC.
+  - les matières solides visées par l’appendice B du recueil BC.
 
-8. «marchandises polluantes»:
+- «marchandises polluantes»:
 
-- les hydrocarbures tels que définis à l’annexe I de la Convention MARPOL;
+  - les hydrocarbures tels que définis à l’annexe I de la Convention MARPOL;
 
-- les substances liquides nocives telles que définies à l’annexe II de la Convention MARPOL;
+  - les substances liquides nocives telles que définies à l’annexe II de la Convention MARPOL;
 
-- les substances nuisibles telles que définies à l’annexe III de la Convention MARPOL;
+  - les substances nuisibles telles que définies à l’annexe III de la Convention MARPOL;
 
-9. «unité de transport de cargaison»: un véhicule destiné au transport de marchandises par route, un wagon destiné au transport de marchandises par rail, un conteneur, un véhicule citerne routier, un wagon de chemin de fer ou une citerne portative;
+- «unité de transport de cargaison»: un véhicule destiné au transport de marchandises par route, un wagon destiné au transport de marchandises par rail, un conteneur, un véhicule citerne routier, un wagon de chemin de fer ou une citerne portative;
 
-10. «adresse»: le nom et les liens de communication permettant d’établir un contact en cas de besoin avec l’exploitant, l’agent, l’autorité portuaire, l’autorité compétente ou toute autre personne ou tout autre service habilité, en possession des informations détaillées concernant la cargaison du navire;
+- «adresse»: le nom et les liens de communication permettant d’établir un contact en cas de besoin avec l’exploitant, l’agent, l’autorité portuaire, l’autorité compétente ou toute autre personne ou tout autre service habilité, en possession des informations détaillées concernant la cargaison du navire;
 
-11. «autorités compétentes»: les autorités et les organisations désignées par les Etats membres de l’Union européenne pour exercer les fonctions prévues par le présent règlement;
+- «autorités compétentes»: les autorités et les organisations désignées par les Etats membres de l’Union européenne pour exercer les fonctions prévues par le présent règlement;
 
-12. «autorité portuaire»: l’autorité ou le service compétent désigné par les Etats membres côtiers de l’Union européenne pour chaque port pour recevoir et mettre à disposition les informations notifiées en vertu du présent règlement;
+- «autorité portuaire»: l’autorité ou le service compétent désigné par les Etats membres côtiers de l’Union européenne pour chaque port pour recevoir et mettre à disposition les informations notifiées en vertu du présent règlement;
 
-13. «lieu de refuge»: un port, une partie d’un port ou un autre mouillage ou ancrage de protection ou toute autre zone abritée désignée par un Etat membre de l’Union européenne pour accueillir des navires en détresse;
+- «lieu de refuge»: un port, une partie d’un port ou un autre mouillage ou ancrage de protection ou toute autre zone abritée désignée par un Etat membre de l’Union européenne pour accueillir des navires en détresse;
 
-14. «centre côtier»: le service de trafic maritime, l’installation à terre en charge d’un système de compte rendu obligatoire approuvé par l’OMI ou l’organisme en charge de coordonner les opérations de recherche et de sauvetage ou de lutte contre la pollution en mer désignés par les Etats membres de l’Union européenne;
+- «centre côtier»: le service de trafic maritime, l’installation à terre en charge d’un système de compte rendu obligatoire approuvé par l’OMI ou l’organisme en charge de coordonner les opérations de recherche et de sauvetage ou de lutte contre la pollution en mer désignés par les Etats membres de l’Union européenne;
 
-15. «service de trafic maritime (STM)»: un service destiné à améliorer la sécurité et l’efficacité du trafic maritime et à protéger l’environnement, qui est en mesure d’intervenir dans le trafic et de réagir à des situations affectant le trafic qui se présentent dans la zone STM qu’il couvre;
+- «service de trafic maritime (STM)»: un service destiné à améliorer la sécurité et l’efficacité du trafic maritime et à protéger l’environnement, qui est en mesure d’intervenir dans le trafic et de réagir à des situations affectant le trafic qui se présentent dans la zone STM qu’il couvre;
 
-16. «système d’organisation du trafic»: tout système couvrant un ou plusieurs itinéraires ou mesures d’organisation du trafic destiné à réduire le risque d’accidents; il comporte des systèmes de séparation du trafic, des itinéraires à double sens, des routes recommandées, des zones à éviter, des zones de trafic côtier, des zones de contournement, des zones de précaution et des routes de haute mer;
+- «système d’organisation du trafic»: tout système couvrant un ou plusieurs itinéraires ou mesures d’organisation du trafic destiné à réduire le risque d’accidents; il comporte des systèmes de séparation du trafic, des itinéraires à double sens, des routes recommandées, des zones à éviter, des zones de trafic côtier, des zones de contournement, des zones de précaution et des routes de haute mer;
 
-17. «bateaux traditionnels»: tout type de bateau historique ainsi que les répliques de ces bateaux, y compris ceux conçus pour encourager et promouvoir les métiers et la navigation traditionnels, qui servent également de monuments culturels vivants, exploités selon les principes traditionnels de la navigation et de la technique et battant pavillon luxembourgeois;
+- «bateaux traditionnels»: tout type de bateau historique ainsi que les répliques de ces bateaux, y compris ceux conçus pour encourager et promouvoir les métiers et la navigation traditionnels, qui servent également de monuments culturels vivants, exploités selon les principes traditionnels de la navigation et de la technique et battant pavillon luxembourgeois;
 
-18. «accident»: un accident au sens du code d’enquête de l’OMI sur les accidents et les incidents maritimes;
+- «accident»: un accident au sens du code d’enquête de l’OMI sur les accidents et les incidents maritimes;
 
-19. «SafeSeaNet»: le système communautaire d’échange d’informations maritimes élaboré par la Commission européenne en collaboration avec les Etats membres afin d’assurer la mise en œuvre de la législation communautaire;
+- «SafeSeaNet»: le système communautaire d’échange d’informations maritimes élaboré par la Commission européenne en collaboration avec les Etats membres afin d’assurer la mise en œuvre de la législation communautaire;
 
-20. «service régulier»: une série de traversées organisée de façon à desservir deux mêmes ports ou davantage, soit selon un horaire publié, soit avec une régularité ou une fréquence telle qu’elle constitue une série systématique reconnaissable;
+- «service régulier»: une série de traversées organisée de façon à desservir deux mêmes ports ou davantage, soit selon un horaire publié, soit avec une régularité ou une fréquence telle qu’elle constitue une série systématique reconnaissable;
 
-21. «navire de pêche»: tout navire équipé pour l’exploitation commerciale des ressources aquatiques vivantes, battant pavillon luxembourgeois;
+- «navire de pêche»: tout navire équipé pour l’exploitation commerciale des ressources aquatiques vivantes, battant pavillon luxembourgeois;
 
-22. «navire ayant besoin d’assistance»: sans préjudice des dispositions de la convention SAR sur le sauvetage des personnes, un navire battant pavillon luxembourgeois se trouvant dans une situation qui pourrait entraîner la perte du navire ou constituer une menace pour l’environnement ou pour la navigation;
+- «navire ayant besoin d’assistance»: sans préjudice des dispositions de la convention SAR sur le sauvetage des personnes, un navire battant pavillon luxembourgeois se trouvant dans une situation qui pourrait entraîner la perte du navire ou constituer une menace pour l’environnement ou pour la navigation;
 
-23. «LRIT»: un système d’identification et de suivi à distance des navires conformément à la règle SOLAS V / 19-1.
+- «LRIT»: un système d’identification et de suivi à distance des navires conformément à la règle SOLAS V / 19-1.
 
 <a id="art-3"></a>
 ## Art. 3
@@ -152,11 +152,11 @@ Aux fins du présent règlement, on entend par:
 
 L’exploitant, l’agent ou le capitaine d’un navire faisant route vers un port d’un Etat membre de l’Union européenne notifie les informations prévues à l’annexe I, point 1 à l’autorité portuaire:
 
-1. au moins 24 heures à l’avance, ou
+- au moins 24 heures à l’avance, ou
 
-2. au plus tard au moment où le navire quitte le port précédent, si la durée du voyage est inférieure à 24 heures, ou
+- au plus tard au moment où le navire quitte le port précédent, si la durée du voyage est inférieure à 24 heures, ou
 
-3. si le port d’escale n’est pas connu ou s’il est modifié durant le voyage, dès que cette information est disponible.
+- si le port d’escale n’est pas connu ou s’il est modifié durant le voyage, dès que cette information est disponible.
 
 2.
 
@@ -237,11 +237,11 @@ Sans préjudice des dispositions de la loi précitée du 30 avril 2008, les disp
 
 Les marchandises dangereuses ou polluantes ne peuvent être présentées pour le transport ou chargées à bord d’un navire, quelles que soient ses dimensions, dans le port d’un Etat membre de l’Union européenne que si le capitaine ou l’exploitant a reçu avant que les marchandises soient chargées à bord une déclaration comportant les informations suivantes:
 
-1. les informations énumérées à l’annexe I, point 2;
+- les informations énumérées à l’annexe I, point 2;
 
-2. pour les substances visées à l’annexe I de la convention MARPOL, la fiche de données de sécurité détaillant les caractéristiques physico-chimiques des produits y compris, le cas échéant, la viscosité exprimée en cSt à 50 °C et la densité à 15 °C, ainsi que les autres données qui, conformément à la résolution MSC.286(86) de l’OMI, figurent sur la fiche de données de sécurité.
+- pour les substances visées à l’annexe I de la convention MARPOL, la fiche de données de sécurité détaillant les caractéristiques physico-chimiques des produits y compris, le cas échéant, la viscosité exprimée en cSt à 50 °C et la densité à 15 °C, ainsi que les autres données qui, conformément à la résolution MSC.286(86) de l’OMI, figurent sur la fiche de données de sécurité.
 
-3. les numéros d’appel d’urgence du chargeur ou de toute autre personne ou organisme en possession des informations sur les caractéristiques physicochimiques des produits et sur les mesures à prendre en cas d’urgence.
+- les numéros d’appel d’urgence du chargeur ou de toute autre personne ou organisme en possession des informations sur les caractéristiques physicochimiques des produits et sur les mesures à prendre en cas d’urgence.
 
 2.
 
@@ -281,13 +281,13 @@ Les informations doivent être transmises par voies électroniques lorsque c’e
 
 Les services réguliers assurés peuvent être exemptés des exigences énoncées aux articles 3 et 11, pour autant que les conditions suivantes aient été remplies:
 
-1. la compagnie exploitant ces services réguliers établit et tient à jour une liste des navires concernés et la transmet à l’autorité compétente concernée;
+- la compagnie exploitant ces services réguliers établit et tient à jour une liste des navires concernés et la transmet à l’autorité compétente concernée;
 
-2. pour chaque voyage effectué, les informations prévues à l’annexe I, point 1 ou point 3, selon le cas, sont tenues à la disposition de l’autorité compétente à sa demande. La compagnie établit un système interne qui garantit, 24 heures sur 24, la transmission sous forme électronique et sans délai de ces informations à l’autorité compétente, conformément à l’article 3, paragraphe 1, ou à l’article 11, paragraphe 3, selon le cas;
+- pour chaque voyage effectué, les informations prévues à l’annexe I, point 1 ou point 3, selon le cas, sont tenues à la disposition de l’autorité compétente à sa demande. La compagnie établit un système interne qui garantit, 24 heures sur 24, la transmission sous forme électronique et sans délai de ces informations à l’autorité compétente, conformément à l’article 3, paragraphe 1, ou à l’article 11, paragraphe 3, selon le cas;
 
-3. toute différence par rapport à l’heure d’arrivée probable au port de destination ou à la station de pilotage, égale ou supérieure à trois heures, est notifiée au port de destination ou à l’autorité compétente conformément à l’article 3, ou à l’article 11, selon le cas;
+- toute différence par rapport à l’heure d’arrivée probable au port de destination ou à la station de pilotage, égale ou supérieure à trois heures, est notifiée au port de destination ou à l’autorité compétente conformément à l’article 3, ou à l’article 11, selon le cas;
 
-4. des exemptions ne sont accordées qu’à des navires déterminés pour ce qui concerne un service spécifique.
+- des exemptions ne sont accordées qu’à des navires déterminés pour ce qui concerne un service spécifique.
 
 Aux fins du premier alinéa, le service n’est réputé être un service régulier que s’il est prévu de l’assurer pendant un mois au minimum. Les exemptions aux exigences des articles 3 et 11 sont limitées à des voyages d’une durée maximale prévue de douze heures.
 
@@ -306,13 +306,13 @@ Le Commissariat aux affaires maritimes communique la liste des compagnies et des
 
 En vue de permettre la prévention ou l’atténuation de tout risque significatif pour la sécurité maritime, la sécurité des personnes ou l’environnement, et conformément aux exigences du droit international, le capitaine d’un navire naviguant dans la zone de recherche et de sauvetage, la zone économique exclusive ou une zone équivalente d’un Etat membre de l’Union européenne, doit signaler immédiatement au centre côtier géographiquement compétent:
 
-1. tout incident ou accident portant atteinte à la sécurité du navire, tel qu’abordage, échouement, avarie, défaillance ou panne, envahissement ou ripage de cargaison, toutes défectuosités dans la coque ou défaillance de structure;
+- tout incident ou accident portant atteinte à la sécurité du navire, tel qu’abordage, échouement, avarie, défaillance ou panne, envahissement ou ripage de cargaison, toutes défectuosités dans la coque ou défaillance de structure;
 
-2. tout incident ou accident qui compromet la sécurité de la navigation, tel que défaillances susceptibles d’affecter les capacités de manœuvre ou de navigation du navire, ou toute défectuosité affectant les systèmes de propulsion ou appareils à gouverner, l’installation de production d’électricité, les équipements de navigation ou de communication;
+- tout incident ou accident qui compromet la sécurité de la navigation, tel que défaillances susceptibles d’affecter les capacités de manœuvre ou de navigation du navire, ou toute défectuosité affectant les systèmes de propulsion ou appareils à gouverner, l’installation de production d’électricité, les équipements de navigation ou de communication;
 
-3. toute situation susceptible de conduire à une pollution des eaux ou du littoral d’un Etat membre de l’Union européenne, telle qu’un rejet ou un risque de rejet de produits polluants à la mer;
+- toute situation susceptible de conduire à une pollution des eaux ou du littoral d’un Etat membre de l’Union européenne, telle qu’un rejet ou un risque de rejet de produits polluants à la mer;
 
-4. toute nappe de produits polluants et tout conteneur ou colis dérivant observé en mer.
+- toute nappe de produits polluants et tout conteneur ou colis dérivant observé en mer.
 
 2.
 

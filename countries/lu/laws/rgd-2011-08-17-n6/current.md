@@ -34,11 +34,11 @@ Les forfaits journaliers, prévus aux points 1, 2, 3 et 6 de l’article 15 de l
 
 Les facteurs suivants sont pris en compte pour la détermination des frais de personnel:
 
-1. les frais salariaux selon les dispositions légales, réglementaires et conventionnelles en vigueur;
+- les frais salariaux selon les dispositions légales, réglementaires et conventionnelles en vigueur;
 
-2. la quote-part pour les «frais généraux» comprenant les frais liés au personnel de direction et d’administration;
+- la quote-part pour les «frais généraux» comprenant les frais liés au personnel de direction et d’administration;
 
-3. la quote-part pour les frais de personnel logistique et technique;
+- la quote-part pour les frais de personnel logistique et technique;
 
 Les facteurs suivants sont pris en compte pour la détermination des frais d’entretien: les frais réels et l’évolution de l’indice du coût de la vie.
 
@@ -135,13 +135,13 @@ Des experts peuvent être invités aux séances de la commission. La présidence
 
 Dans le contexte des placements institutionnels ou des mesures d’accueil socio-éducatif en institution de jour et de nuit au Luxembourg ou à l’étranger, de même que dans le contexte du placement familial ou de l’accueil socio-éducatif en famille d’accueil de jour et de nuit, la participation financière des parents est déterminée de la manière suivante:
 
-1. La participation est le résultat d’une quote-part Q exprimée en un pourcentage du revenu semi-net R moins une constante C exprimée en valeur absolue: QR – C.
+- La participation est le résultat d’une quote-part Q exprimée en un pourcentage du revenu semi-net R moins une constante C exprimée en valeur absolue: QR – C.
 
-2. Est à considérer comme revenu semi-net, le 12e de l’ensemble des revenus annuels, de quelque nature qu’ils soient, dont disposent les parents, déduction faite des éléments qui, selon les dispositions de la loi concernant l’impôt sur le revenu, sont mis en compte pour la détermination du revenu imposable au cas où l’ensemble de ces revenus serait soumis à l’impôt. Les seuls revenus qui sont à exclure de l’ensemble des revenus sont les prestations familiales.
+- Est à considérer comme revenu semi-net, le 12e de l’ensemble des revenus annuels, de quelque nature qu’ils soient, dont disposent les parents, déduction faite des éléments qui, selon les dispositions de la loi concernant l’impôt sur le revenu, sont mis en compte pour la détermination du revenu imposable au cas où l’ensemble de ces revenus serait soumis à l’impôt. Les seuls revenus qui sont à exclure de l’ensemble des revenus sont les prestations familiales.
 
-3. La constante C est de 64,45 €.
+- La constante C est de 64,45 €.
 
-4. Si aucun enfant ne reste à charge des parents, la quote-part Q est de 18%. Si un enfant reste à charge des parents, la quote-part Q est de 16%. Si deux enfants restent à charge des parents, la quote-part Q est de 14%. Si trois enfants restent à charge des parents, la quote-part Q est de 12%. Si quatre enfants ou plus restent à charge des parents, la quote-part est de 10%.
+- Si aucun enfant ne reste à charge des parents, la quote-part Q est de 18%. Si un enfant reste à charge des parents, la quote-part Q est de 16%. Si deux enfants restent à charge des parents, la quote-part Q est de 14%. Si trois enfants restent à charge des parents, la quote-part Q est de 12%. Si quatre enfants ou plus restent à charge des parents, la quote-part est de 10%.
 
 Les bases de calcul pour ces participations et pour la facturation en rapport sont le mois-calendrier et les périodes de présence. Sauf en cas d’accueil de moins de 8 jours au cours d’un mois-calendrier, la participation est due pour le mois entier.
 

@@ -168,13 +168,13 @@ Les scrutateurs font le recensement et en tiennent note séparément. Ces notes 
 
 Est nul tout bulletin qui:
 
-1. ne contient l'expression d'aucun suffrage;
+- ne contient l'expression d'aucun suffrage;
 
-2. contient plus de suffrages qu'il y a de membres à élire;
+- contient plus de suffrages qu'il y a de membres à élire;
 
-3. porte une marque quelconque;
+- porte une marque quelconque;
 
-4. fait connaître le votant.
+- fait connaître le votant.
 
 ##### Section 6 Attribution des sièges
 

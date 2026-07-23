@@ -38,32 +38,32 @@ Un formulaire est mis à la disposition des demandeurs par l’Administration de
 
 La demande d’autorisation comprend:
 
-1.
+-
 
-1. pour les personnes physiques: l’indication des nom, prénom et domicile du demandeur, de l’entreprise responsable de la pulvérisation aérienne et de l’opérateur;
+  - pour les personnes physiques: l’indication des nom, prénom et domicile du demandeur, de l’entreprise responsable de la pulvérisation aérienne et de l’opérateur;
 
-2. pour les personnes morales: l’indication de la dénomination sociale, de la forme sociale et du siège social du demandeur et de l’entreprise responsable de la pulvérisation aérienne;
+  - pour les personnes morales: l’indication de la dénomination sociale, de la forme sociale et du siège social du demandeur et de l’entreprise responsable de la pulvérisation aérienne;
 
-2. une copie du certificat prévu à l’article 9, paragraphe 1 er , point 4, de la loi du 19 décembre 2014 relative aux produits phytopharmaceutiques;
+- une copie du certificat prévu à l’article 9, paragraphe 1 er , point 4, de la loi du 19 décembre 2014 relative aux produits phytopharmaceutiques;
 
-3. une copie du certificat prévu à l’article 9, paragraphe 1 er , point 3, de la loi précitée du 19 décembre 2014 ;
+- une copie du certificat prévu à l’article 9, paragraphe 1 er , point 3, de la loi précitée du 19 décembre 2014 ;
 
-4. un extrait d’une carte topographique récente permettant d’identifier l’emplacement du terrain d’atterrissage de l’aéronef;
+- un extrait d’une carte topographique récente permettant d’identifier l’emplacement du terrain d’atterrissage de l’aéronef;
 
-5. une carte topographique récente précisant les parcelles concernées;
+- une carte topographique récente précisant les parcelles concernées;
 
-6. les maladies fongiques principales à combattre par la pulvérisation aérienne;
+- les maladies fongiques principales à combattre par la pulvérisation aérienne;
 
-7. une liste indiquant le nombre de pulvérisations aériennes prévues avec l’indication, pour chaque application, des produits phytopharmaceutiques utilisés, de leur numéro d’agrément, de la quantité et de la période d’application.
+- une liste indiquant le nombre de pulvérisations aériennes prévues avec l’indication, pour chaque application, des produits phytopharmaceutiques utilisés, de leur numéro d’agrément, de la quantité et de la période d’application.
 
 <a id="art-3"></a>
 ## Art. 3.
 
 La demande d’autorisation isolée comprend, outre les points 1 à 5 de l’article 2:
 
-1. une description de la circonstance particulière relevant de l’urgence ou d’une situation exceptionnelle;
+- une description de la circonstance particulière relevant de l’urgence ou d’une situation exceptionnelle;
 
-2. l’indication de la date prévisionnelle de l’application, le nom des produits phytopharmaceutiques appliqués, leur numéro d’agrément et la quantité.
+- l’indication de la date prévisionnelle de l’application, le nom des produits phytopharmaceutiques appliqués, leur numéro d’agrément et la quantité.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -92,17 +92,17 @@ La réalisation de la pulvérisation aérienne est interdite si la vitesse du ve
 
 L’opérateur doit respecter une distance de sécurité de 20 mètres vis-à-vis des lieux suivants :
 
-1. zones visées à l’article 9, paragraphe 1 er , point 5 et à l’article 11, paragraphe 2, point 1, de la loi précitée du 19 décembre 2014 ;
+- zones visées à l’article 9, paragraphe 1 er , point 5 et à l’article 11, paragraphe 2, point 1, de la loi précitée du 19 décembre 2014 ;
 
-2. parcs d'élevage de gibier ;
+- parcs d'élevage de gibier ;
 
-3. points d'eau et captages d'eau potable ;
+- points d'eau et captages d'eau potable ;
 
-4. bassins de pisciculture et d'aquaculture ;
+- bassins de pisciculture et d'aquaculture ;
 
-5. surfaces cultivées conformément au règlement (CE) n° 834/2007 du Conseil du 28 juin 2007 relatif à la production biologique et à l’étiquetage des produits biologiques, si les produits épandus ne sont pas agréés selon ce règlement ;
+- surfaces cultivées conformément au règlement (CE) n° 834/2007 du Conseil du 28 juin 2007 relatif à la production biologique et à l’étiquetage des produits biologiques, si les produits épandus ne sont pas agréés selon ce règlement ;
 
-6. surfaces agricoles, viticoles, arboricoles ou horticoles pour lesquelles l’exploitant a demandé le respect du maintien d’une distance de sécurité.
+- surfaces agricoles, viticoles, arboricoles ou horticoles pour lesquelles l’exploitant a demandé le respect du maintien d’une distance de sécurité.
 
 Les exploitants des surfaces mentionnées aux points 5 et 6 communiquent l’emplacement exact de ces surfaces au ministre avant le 1er septembre de l’année précédant la saison de pulvérisation aérienne.
 

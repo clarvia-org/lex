@@ -43,87 +43,87 @@ Le certificat contient une évaluation de durabilité du logement selon des crit
 
 La catégorie relative à l’implantation géographique du logement comporte des critères évalués en fonction des sous-catégories:
 
-1. Commune dans laquelle est sis le logement;
+- Commune dans laquelle est sis le logement;
 
-2. Intégration du logement dans le concept urbain;
+- Intégration du logement dans le concept urbain;
 
-3. Utilisation des surfaces constructibles et espaces verts publics;
+- Utilisation des surfaces constructibles et espaces verts publics;
 
-4. Raccordement au réseau routier;
+- Raccordement au réseau routier;
 
-5. Accessibilité aux infrastructures sociales;
+- Accessibilité aux infrastructures sociales;
 
-6. Ensoleillement;
+- Ensoleillement;
 
-7. Qualités du site sur lequel se trouve le logement.
+- Qualités du site sur lequel se trouve le logement.
 
 La catégorie relative aux aspects sociaux du logement comporte des critères évalués en fonction des sous-catégories:
 
-1. Disponibilité de fonctions sociales au sein des immeubles collectifs;
+- Disponibilité de fonctions sociales au sein des immeubles collectifs;
 
-2. Utilisation du sol.
+- Utilisation du sol.
 
 La catégorie relative à l’économie du logement comporte un critère évalué en fonction de la consommation d’énergie du logement.
 
 La catégorie relative à l’écologie du logement comporte des critères évalués en fonction des sous-catégories:
 
-1. Évaluation environnementale des matériaux de construction;
+- Évaluation environnementale des matériaux de construction;
 
-2. Besoin en énergie primaire au cours du cycle de vie du logement;
+- Besoin en énergie primaire au cours du cycle de vie du logement;
 
-3. Évaluation de la ressource du bois;
+- Évaluation de la ressource du bois;
 
-4. Besoin en eau potable et de la quantité d’eau usée;
+- Besoin en eau potable et de la quantité d’eau usée;
 
-5. Utilisation d’énergie renouvelable;
+- Utilisation d’énergie renouvelable;
 
-6. Autoconsommation électrique;
+- Autoconsommation électrique;
 
-7. Consommation économe en énergie des appareils électroménagers;
+- Consommation économe en énergie des appareils électroménagers;
 
-8. Plantation et intégration de facteurs naturels;
+- Plantation et intégration de facteurs naturels;
 
-9. Revitalisation de bâtiments existants.
+- Revitalisation de bâtiments existants.
 
 La catégorie relative au bâtiment et aux installations techniques du logement comporte des critères évalués en fonction des sous-catégories:
 
-1. Isolation acoustique;
+- Isolation acoustique;
 
-2. Hygrothermie du bâtiment;
+- Hygrothermie du bâtiment;
 
-3. Étanchéité à l’air du bâtiment;
+- Étanchéité à l’air du bâtiment;
 
-4. Facilité du nettoyage et de l’entretien du bâtiment;
+- Facilité du nettoyage et de l’entretien du bâtiment;
 
-5. Mise en œuvre de la construction;
+- Mise en œuvre de la construction;
 
-6. Planification intégrale des immeubles collectifs;
+- Planification intégrale des immeubles collectifs;
 
-7. Mise en service et documentation des installations techniques;
+- Mise en service et documentation des installations techniques;
 
-8. Montage et capacité de démontage.
+- Montage et capacité de démontage.
 
 La catégorie relative à la fonctionnalité du logement comporte des critères évalués en fonction des sous-catégories:
 
-1. Aspects fonctionnels;
+- Aspects fonctionnels;
 
-2. Sécurité;
+- Sécurité;
 
-3. Conception universelle;
+- Conception universelle;
 
-4. Réglage des installations techniques;
+- Réglage des installations techniques;
 
-5. Confort visuel;
+- Confort visuel;
 
-6. Confort thermique en hiver;
+- Confort thermique en hiver;
 
-7. Confort thermique en été;
+- Confort thermique en été;
 
-8. Santé et qualité de l’air intérieur;
+- Santé et qualité de l’air intérieur;
 
-9. Équipement limitant la pollution électromagnétique;
+- Équipement limitant la pollution électromagnétique;
 
-10. Etat de la construction existante.
+- Etat de la construction existante.
 
 (3)
 
@@ -137,11 +137,11 @@ Le ministre ayant le Logement dans ses attributions tient un registre des certif
 
 Un règlement grand-ducal fixe:
 
-1. Les critères de durabilité d’un logement, la pondération de ces critères regroupés en sous-catégories, elles-mêmes regroupées en catégories, et les méthodes d’évaluation de ces mêmes critères;
+- Les critères de durabilité d’un logement, la pondération de ces critères regroupés en sous-catégories, elles-mêmes regroupées en catégories, et les méthodes d’évaluation de ces mêmes critères;
 
-2. La procédure de l’établissement, la validité et la disposition du certificat de durabilité des logements et ses annexes;
+- La procédure de l’établissement, la validité et la disposition du certificat de durabilité des logements et ses annexes;
 
-3. La procédure de demande de l’aide financière pour l’établissement d’un certificat de durabilité d’un logement et le contenu du dossier de demande.
+- La procédure de demande de l’aide financière pour l’établissement d’un certificat de durabilité d’un logement et le contenu du dossier de demande.
 
 <a id="art-66-20240601"></a>
 ## Art. 66.

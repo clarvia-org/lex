@@ -33,21 +33,21 @@ La profession d’avocat est une profession libérale et indépendante.
 
 Sont incompatibles avec l’exercice de cette profession:
 
-1. les fonctions de magistrat;
+- les fonctions de magistrat;
 
-2. les fonctions de greffier et d’huissier de justice;
+- les fonctions de greffier et d’huissier de justice;
 
-3. les fonctions de notaire;
+- les fonctions de notaire;
 
-4. les professions de réviseurs d’entreprises et d’expert-comptable;
+- les professions de réviseurs d’entreprises et d’expert-comptable;
 
-5. les emplois salariés du secteur public ou du secteur privé; sont toutefois compatibles l’emploi en tant qu’avocat auprès d’un avocat et en tant que collaborateur au sens de l’article 126, 9. de la loi électorale modifiée du 18 février 2003 ainsi que, pendant la durée du stage, l’emploi admis comme équivalent au stage judiciaire par la réglementation en vigueur, à condition que ces emplois ne comportent pas abandon de la liberté d’agir selon la conscience professionnelle;
+- les emplois salariés du secteur public ou du secteur privé; sont toutefois compatibles l’emploi en tant qu’avocat auprès d’un avocat et en tant que collaborateur au sens de l’article 126, 9. de la loi électorale modifiée du 18 février 2003 ainsi que, pendant la durée du stage, l’emploi admis comme équivalent au stage judiciaire par la réglementation en vigueur, à condition que ces emplois ne comportent pas abandon de la liberté d’agir selon la conscience professionnelle;
 
-6. les fonctions de directeur d’entreprise, de gérant ou d’administrateur-délégué de sociétés commerciales à objet commercial, artisanal ou industriel et de mandataire général ou d’agent de compagnie d’assurances;
+- les fonctions de directeur d’entreprise, de gérant ou d’administrateur-délégué de sociétés commerciales à objet commercial, artisanal ou industriel et de mandataire général ou d’agent de compagnie d’assurances;
 
-7. l’exercice d’une activité commerciale ou artisanale;
+- l’exercice d’une activité commerciale ou artisanale;
 
-8. toute activité de nature à porter atteinte à l’indépendance de l’avocat ou à la dignité de la profession.
+- toute activité de nature à porter atteinte à l’indépendance de l’avocat ou à la dignité de la profession.
 
 La profession d’avocat peut être exercée à titre individuel. Les avocats peuvent s’associer librement. Ils peuvent encore exercer la profession d’avocat sous forme de personne morale conformément aux dispositions de la présente loi.
 
@@ -60,17 +60,17 @@ Les avocats seuls peuvent assister ou représenter les parties, postuler et plai
 
 Les dispositions de l’alinéa précédent ne font pas obstacle à l’application de dispositions législatives spéciales et à la faculté:
 
-1. des assurés sociaux de se faire représenter ou assister, devant le Conseil arbitral de la sécurité sociale ou le Conseil supérieur de la sécurité sociale, par un délégué de leur organisation professionnelle ou syndicale, leur conjoint ou partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, leurs parents ou alliés en ligne directe ou leurs parents ou alliés en ligne collatérale jusqu’au troisième degré inclus; les représentants doivent justifier d’un pouvoir spécial;
+- des assurés sociaux de se faire représenter ou assister, devant le Conseil arbitral de la sécurité sociale ou le Conseil supérieur de la sécurité sociale, par un délégué de leur organisation professionnelle ou syndicale, leur conjoint ou partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, leurs parents ou alliés en ligne directe ou leurs parents ou alliés en ligne collatérale jusqu’au troisième degré inclus; les représentants doivent justifier d’un pouvoir spécial;
 
-2. de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics, de la Caisse de maladie des fonctionnaires et employés communaux, de l’Entraide médicale de la société nationale des chemins de fer luxembourgeois, de la Mutualité des employeurs, de l’Association d’assurance accident, de la Caisse nationale d’assurance pension, du Fonds de compensation, de la Caisse nationale des prestations familiales, du Centre commun de la sécurité sociale, du Fonds national de solidarité, des offices sociaux et de tout autre administration ou service de l’Etat de se faire représenter ou assister par un de leurs agents, dûment mandaté par le ministre du ressort respectivement le président de l’organisme concerné, devant le Conseil arbitral de la sécurité sociale ou le Conseil supérieur de la sécurité sociale;
+- de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics, de la Caisse de maladie des fonctionnaires et employés communaux, de l’Entraide médicale de la société nationale des chemins de fer luxembourgeois, de la Mutualité des employeurs, de l’Association d’assurance accident, de la Caisse nationale d’assurance pension, du Fonds de compensation, de la Caisse nationale des prestations familiales, du Centre commun de la sécurité sociale, du Fonds national de solidarité, des offices sociaux et de tout autre administration ou service de l’Etat de se faire représenter ou assister par un de leurs agents, dûment mandaté par le ministre du ressort respectivement le président de l’organisme concerné, devant le Conseil arbitral de la sécurité sociale ou le Conseil supérieur de la sécurité sociale;
 
-3. des justiciables d’agir par eux-mêmes ou de se faire représenter ou assister par un expert-comptable ou un réviseur d’entreprises, dûment autorisé à exercer sa profession, devant le tribunal administratif appelé à connaître d’un recours en matière de contributions directes;
+- des justiciables d’agir par eux-mêmes ou de se faire représenter ou assister par un expert-comptable ou un réviseur d’entreprises, dûment autorisé à exercer sa profession, devant le tribunal administratif appelé à connaître d’un recours en matière de contributions directes;
 
-4. de l’Etat, des communes et des autres personnes morales de droit public de se faire représenter ou assister par un fonctionnaire ou un agent de leur administration, dûment mandaté, devant la justice de paix, devant le président du tribunal d’arrondissement ou le juge qui le remplace, statuant en matière de référé;
+- de l’Etat, des communes et des autres personnes morales de droit public de se faire représenter ou assister par un fonctionnaire ou un agent de leur administration, dûment mandaté, devant la justice de paix, devant le président du tribunal d’arrondissement ou le juge qui le remplace, statuant en matière de référé;
 
-5. du ministère public, de représenter des parties en justice dans les cas prévus par la loi.
+- du ministère public, de représenter des parties en justice dans les cas prévus par la loi.
 
-6. de l’Autorité de concurrence du Grand-Duché de Luxembourg de se faire représenter par son président ou un membre permanent du Collège ou un agent du groupe de traitement A1 dûment mandaté, devant les juridictions de l’ordre administratif appelées à connaître d’un recours introduit à l’encontre d’une décision rendue par l’Autorité de concurrence dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence.
+- de l’Autorité de concurrence du Grand-Duché de Luxembourg de se faire représenter par son président ou un membre permanent du Collège ou un agent du groupe de traitement A1 dûment mandaté, devant les juridictions de l’ordre administratif appelées à connaître d’un recours introduit à l’encontre d’une décision rendue par l’Autorité de concurrence dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence.
 
 (2)
 
@@ -82,15 +82,15 @@ Les consultations écrites, portant en tout ou en partie sur des matières jurid
 
 Les dispositions du paragraphe (2) ne font pas obstacle à la faculté:
 
-1. pour les administrations publiques et les personnes de droit public de fournir des renseignements et avis juridiques relevant soit de leurs attributions soit de leurs obligations découlant de conventions internationales;
+- pour les administrations publiques et les personnes de droit public de fournir des renseignements et avis juridiques relevant soit de leurs attributions soit de leurs obligations découlant de conventions internationales;
 
-2. pour les personnes exerçant une autre activité professionnelle réglementée par la loi ou une profession dont l’accès et l’objet sont réglementés par la loi de donner des renseignements sur le droit applicable au Luxembourg relevant directement de leur activité ou profession et de rédiger des actes juridiques qui constituent l’accessoire nécessaire de la prestation fournie;
+- pour les personnes exerçant une autre activité professionnelle réglementée par la loi ou une profession dont l’accès et l’objet sont réglementés par la loi de donner des renseignements sur le droit applicable au Luxembourg relevant directement de leur activité ou profession et de rédiger des actes juridiques qui constituent l’accessoire nécessaire de la prestation fournie;
 
-3. pour les juristes d’entreprises, exerçant leurs activités en exécution d’un contrat d’emploi au sein d’une entreprise, d’une société ou d’un groupe de sociétés, de donner tous les conseils et d’effectuer toutes les opérations d’ordre juridique nécessaires à l’activité et en rapport direct avec les activités de leur employeur;
+- pour les juristes d’entreprises, exerçant leurs activités en exécution d’un contrat d’emploi au sein d’une entreprise, d’une société ou d’un groupe de sociétés, de donner tous les conseils et d’effectuer toutes les opérations d’ordre juridique nécessaires à l’activité et en rapport direct avec les activités de leur employeur;
 
-4. pour les personnes morales à but non lucratif et pour les syndicats de donner à leurs membres les renseignements relatifs aux questions juridiques se rapportant directement à leur objet, ces personnes morales à but non lucratif ou syndicats devant par ailleurs, au cas où ils reçoivent des subventions de la part de l’Etat et prennent en charge les frais d’avocat relatifs à la représentation ou l’assistance de leurs membres devant une juridiction, garantir à leurs membres le libre choix de l’avocat qui doit les représenter ou les assister;
+- pour les personnes morales à but non lucratif et pour les syndicats de donner à leurs membres les renseignements relatifs aux questions juridiques se rapportant directement à leur objet, ces personnes morales à but non lucratif ou syndicats devant par ailleurs, au cas où ils reçoivent des subventions de la part de l’Etat et prennent en charge les frais d’avocat relatifs à la représentation ou l’assistance de leurs membres devant une juridiction, garantir à leurs membres le libre choix de l’avocat qui doit les représenter ou les assister;
 
-5. pour les professeurs et maîtres de conférence d’un enseignement juridique dans les universités et les unités de formation et de recherche de niveau universitaire ou post-universitaire, actifs ou émérites, de donner occasionnellement et contre rémunération des consultations juridiques et de rédiger des avis juridiques.
+- pour les professeurs et maîtres de conférence d’un enseignement juridique dans les universités et les unités de formation et de recherche de niveau universitaire ou post-universitaire, actifs ou émérites, de donner occasionnellement et contre rémunération des consultations juridiques et de rédiger des avis juridiques.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -120,11 +120,11 @@ Nul ne peut exercer la profession d’avocat s’il n’est inscrit au tableau d
 
 Pour être inscrit au tableau comme avocat exerçant à titre individuel, il faut:
 
-1. présenter la garantie nécessaire d’honorabilité.
+- présenter la garantie nécessaire d’honorabilité.
 
-2. Justifier de l’accomplissement des conditions d’admission au stage ou remplir les conditions pour être inscrit comme avocat exerçant au Grand-Duché de Luxembourg sous son titre professionnel d’origine, en application de la loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise. Exceptionnellement, le Conseil de l’ordre peut dispenser les personnes ayant accompli leur stage professionnel dans leur Etat d’origine et pouvant attester d’une pratique professionnelle d’au moins cinq ans, de certaines conditions d’admission au stage.
+- Justifier de l’accomplissement des conditions d’admission au stage ou remplir les conditions pour être inscrit comme avocat exerçant au Grand-Duché de Luxembourg sous son titre professionnel d’origine, en application de la loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise. Exceptionnellement, le Conseil de l’ordre peut dispenser les personnes ayant accompli leur stage professionnel dans leur Etat d’origine et pouvant attester d’une pratique professionnelle d’au moins cinq ans, de certaines conditions d’admission au stage.
 
-4. maîtriser la langue de la législation et les langues administratives et judiciaires au sens de la loi du 24 février 1984 sur le régime des langues sans préjudice de l’article 31-1. Le niveau de compétences à atteindre pour les langues luxembourgeoise et allemande est celui du niveau B2 du Cadre européen commun de référence pour la compréhension orale et du niveau B1 pour l’expression orale et pour la langue allemande le niveau B2 pour la compréhension écrite. Pour la langue française le niveau B2 du même cadre est exigé tant pour la compréhension que pour l’expression écrite et orale. Par dérogation à l’alinéa qui précède, les avocats européens visés à l’article 10 de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise ainsi que les avocats visés par la Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles telle que modifiée par le Directive 2013/55/UE du Parlement européen et du Conseil du 20 novembre 2013, au moment de leur admission à la liste I du tableau d’un Ordre des avocats doivent maîtriser la langue de la législation au sens de la loi du 24 février 1984 sur le régime des langues dans la mesure où ils limitent leurs activités professionnelles à celles qui ne nécessitent pas la maîtrise des autres langues au sens de la loi du 24 février 1984. Le niveau de connaissances des langues exigé est celui indiqué à l’alinéa qui précède.
+- maîtriser la langue de la législation et les langues administratives et judiciaires au sens de la loi du 24 février 1984 sur le régime des langues sans préjudice de l’article 31-1. Le niveau de compétences à atteindre pour les langues luxembourgeoise et allemande est celui du niveau B2 du Cadre européen commun de référence pour la compréhension orale et du niveau B1 pour l’expression orale et pour la langue allemande le niveau B2 pour la compréhension écrite. Pour la langue française le niveau B2 du même cadre est exigé tant pour la compréhension que pour l’expression écrite et orale. Par dérogation à l’alinéa qui précède, les avocats européens visés à l’article 10 de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise ainsi que les avocats visés par la Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles telle que modifiée par le Directive 2013/55/UE du Parlement européen et du Conseil du 20 novembre 2013, au moment de leur admission à la liste I du tableau d’un Ordre des avocats doivent maîtriser la langue de la législation au sens de la loi du 24 février 1984 sur le régime des langues dans la mesure où ils limitent leurs activités professionnelles à celles qui ne nécessitent pas la maîtrise des autres langues au sens de la loi du 24 février 1984. Le niveau de connaissances des langues exigé est celui indiqué à l’alinéa qui précède.
 
 (2)
 
@@ -152,19 +152,19 @@ Le tableau des avocats de chaque Ordre est tenu par le Conseil de l’ordre.
 
 Le tableau des avocats comprend sept listes:
 
-1. la liste I des avocats qui remplissent les conditions des articles 5 et 6 et qui sont détenteurs du diplôme de l’examen de fin de stage judiciaire;
+- la liste I des avocats qui remplissent les conditions des articles 5 et 6 et qui sont détenteurs du diplôme de l’examen de fin de stage judiciaire;
 
-2. la liste II des avocats qui remplissent les conditions des articles 5 et 6;
+- la liste II des avocats qui remplissent les conditions des articles 5 et 6;
 
-3. la liste III des avocats honoraires;
+- la liste III des avocats honoraires;
 
-4. la liste IV des avocats exerçant sous leur titre professionnel d’origine;
+- la liste IV des avocats exerçant sous leur titre professionnel d’origine;
 
-5. la liste V des personnes morales exerçant la profession d’avocat et ayant un ou plusieurs associés inscrits à la liste I exerçant une influence significative sur l’activité de la personne morale au Grand-Duché de Luxembourg;
+- la liste V des personnes morales exerçant la profession d’avocat et ayant un ou plusieurs associés inscrits à la liste I exerçant une influence significative sur l’activité de la personne morale au Grand-Duché de Luxembourg;
 
-6. la liste VI des autres personnes morales exerçant la profession d’avocat ;
+- la liste VI des autres personnes morales exerçant la profession d’avocat ;
 
-7. la liste VII des avocats portant un titre professionnel d’origine tel que visé à l’article 193, lettre d), sous ii) de l’ Accord de commerce et de coopération entre l’Union européenne et la Communauté européenne de l’énergie atomique, d’une part, et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, d’autre part , fait à Bruxelles et à Londres, le 30 décembre 2020, et en date du 24 décembre 2020 autorisés, en vertu de l’article 194 de l’ accord précité , à fournir les services juridiques visés à l’article 193, points a) et g) de l’ accord précité .
+- la liste VII des avocats portant un titre professionnel d’origine tel que visé à l’article 193, lettre d), sous ii) de l’ Accord de commerce et de coopération entre l’Union européenne et la Communauté européenne de l’énergie atomique, d’une part, et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, d’autre part , fait à Bruxelles et à Londres, le 30 décembre 2020, et en date du 24 décembre 2020 autorisés, en vertu de l’article 194 de l’ accord précité , à fournir les services juridiques visés à l’article 193, points a) et g) de l’ accord précité .
 
 (4)
 
@@ -178,11 +178,11 @@ Les personnes morales exerçant la profession d’avocat sont inscrites au table
 
 Une demande d’inscription à la liste V ou VI du tableau des avocats est adressée par lettre recommandée au Bâtonnier de l’Ordre des avocats auprès duquel la personne morale sera inscrite. Elle est accompagnée d’un dossier qui doit comprendre, à peine d’irrecevabilité de la demande:
 
-1. une copie certifiée conforme des documents constitutifs;
+- une copie certifiée conforme des documents constitutifs;
 
-2. la liste des associés avec, pour chaque associé, son nom, prénom, domicile et l’indication de l’Ordre ou de l’autorité compétente étrangère auprès de laquelle il est inscrit;
+- la liste des associés avec, pour chaque associé, son nom, prénom, domicile et l’indication de l’Ordre ou de l’autorité compétente étrangère auprès de laquelle il est inscrit;
 
-3. pour les personnes morales de droit étranger, une preuve que cette personne morale est habilitée à exercer la profession d’avocat dans son Etat d’origine.
+- pour les personnes morales de droit étranger, une preuve que cette personne morale est habilitée à exercer la profession d’avocat dans son Etat d’origine.
 
 La liste prévue sous le point 2 et la preuve visée sous le point 3 doivent être reproduites tous les ans, au cours du premier mois de l’année, auprès du Bâtonnier de l’Ordre des avocats auprès duquel la personne morale est inscrite.
 
@@ -379,17 +379,17 @@ Les attributions qui ne sont pas réservées par la loi à d’autres organes de
 
 Le Conseil de l’ordre peut arrêter des règlements d’ordre intérieur qui déterminent les règles professionnelles, relatives notamment:
 
-1. à la déontologie entre avocats et à l’égard des clients et des tiers;
+- à la déontologie entre avocats et à l’égard des clients et des tiers;
 
-2. au secret professionnel;
+- au secret professionnel;
 
-3. aux honoraires et frais;
+- aux honoraires et frais;
 
-4. à l’information du public concernant les avocats et leur activité professionnelle;
+- à l’information du public concernant les avocats et leur activité professionnelle;
 
-5. à la protection des intérêts des clients et des tiers; les règlements y relatifs peuvent prévoir des mesures d’assurance individuelle ou collective facultatives ou obligataires ainsi que les prescriptions concernant la conservation des fonds de tiers;
+- à la protection des intérêts des clients et des tiers; les règlements y relatifs peuvent prévoir des mesures d’assurance individuelle ou collective facultatives ou obligataires ainsi que les prescriptions concernant la conservation des fonds de tiers;
 
-6. aux obligations professionnelles découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme ainsi qu’aux procédures de contrôle, notamment de contrôle sur place auprès des membres de l’ordre.
+- aux obligations professionnelles découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme ainsi qu’aux procédures de contrôle, notamment de contrôle sur place auprès des membres de l’ordre.
 
 ##### Section III. Le Bâtonnier de l’ordre
 
@@ -584,17 +584,17 @@ Les minutes des décisions sont déposées et conservées aux archives du Consei
 
 Outre les sanctions prévues à l’article 30-1, le Conseil disciplinaire et administratif peut, suivant l’exigence des cas, prononcer les sanctions suivantes :
 
-1. l’avertissement ;
+- l’avertissement ;
 
-2. la réprimande ;
+- la réprimande ;
 
-3. 2 bis ) l’amende inférieure à 1 000 euros ;
+- 2 bis ) l’amende inférieure à 1 000 euros ;
 
-4. l’amende de 1 000 à 100 000 euros ;
+- l’amende de 1 000 à 100 000 euros ;
 
-5. la suspension de l’exercice de la profession pour un terme qui ne peut excéder cinq ans ;
+- la suspension de l’exercice de la profession pour un terme qui ne peut excéder cinq ans ;
 
-6. l’interdiction à vie de l’exercice de la profession.
+- l’interdiction à vie de l’exercice de la profession.
 
 (2)
 
@@ -618,11 +618,11 @@ Toutes les peines sont mentionnées dans un registre qui est tenu par le Bâtonn
 
 Le Bâtonnier veille à ce que :
 
-1. les données à caractère personnel de ce registre soient traitées loyalement et licitement ;
+- les données à caractère personnel de ce registre soient traitées loyalement et licitement ;
 
-2. les données à caractère personnel soient collectées pour la finalité déterminée par le présent article ;
+- les données à caractère personnel soient collectées pour la finalité déterminée par le présent article ;
 
-3. les mesures techniques et une organisation appropriées soient mises en œuvre en vue d’assurer la sécurité et la confidentialité des données à caractère personnel.
+- les mesures techniques et une organisation appropriées soient mises en œuvre en vue d’assurer la sécurité et la confidentialité des données à caractère personnel.
 
 Le Bâtonnier compétent a la qualité de responsable du traitement des données au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) tel que modifié.
 
@@ -681,9 +681,9 @@ Le pourvoi est introduit, instruit et jugé comme en matière civile. Le délai 
 
 Les sanctions suivantes sont effacées de plein droit après une période de cinq ans à compter du moment où elles ont acquis autorité de chose décidée :
 
-1. l’avertissement, la réprimande et l’amende inférieure à 1000 euros, prévues à l’article 27, paragraphe (1) ;
+- l’avertissement, la réprimande et l’amende inférieure à 1000 euros, prévues à l’article 27, paragraphe (1) ;
 
-2. l’avertissement, le blâme, la déclaration publique qui précise l’identité de la personne physique ou morale et la nature de la violation, prévues à l’article 8-10 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et le financement du terrorisme.
+- l’avertissement, le blâme, la déclaration publique qui précise l’identité de la personne physique ou morale et la nature de la violation, prévues à l’article 8-10 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et le financement du terrorisme.
 
 (2)
 
@@ -933,15 +933,15 @@ L’avocat figurant sur cette liste ne peut pas refuser son ministère sans moti
 
 Les personnes physiques dont les ressources sont insuffisantes ont droit à une assistance judiciaire pour la défense de leurs intérêts au Grand-Duché de Luxembourg, à condition qu’il s’agisse:
 
-1. de ressortissants luxembourgeois, ou
+- de ressortissants luxembourgeois, ou
 
-2. de ressortissants étrangers autorisés à s’établir au pays, ou
+- de ressortissants étrangers autorisés à s’établir au pays, ou
 
-3. de ressortissants d’un Etat membre de l’Union européenne, ou
+- de ressortissants d’un Etat membre de l’Union européenne, ou
 
-4. de ressortissants étrangers assimilés aux ressortissants luxembourgeois en matière d’assistance judiciaire par l’effet d’un traité international
+- de ressortissants étrangers assimilés aux ressortissants luxembourgeois en matière d’assistance judiciaire par l’effet d’un traité international
 
-5. de ressortissants de pays tiers en séjour irrégulier en vue du recouvrement des rémunérations dues en application de l’article L. 572-7 du Code du travail.
+- de ressortissants de pays tiers en séjour irrégulier en vue du recouvrement des rémunérations dues en application de l’article L. 572-7 du Code du travail.
 
 Ont également droit à l’assistance judiciaire, pour toute procédure en matière civile et commerciale dans les affaires transfrontalières visées par la directive 2003/8/CE du Conseil du 27 janvier 2003 visant à améliorer l’accès à la justice dans les affaires transfrontalières par l’établissement de règles minimales communes relatives à l’aide judiciaire accordée dans le cadre de telles affaires, les ressortissants étrangers qui ont leur domicile ou leur résidence dans un autre Etat membre de l’Union européenne, à l’exception du Danemark.
 
@@ -1130,44 +1130,44 @@ Les infractions à l’article 35, paragraphes (1) à (3) sont punies des peines
 
 Sont abrogés:
 
-1. Le décret impérial du 19 juillet 1810 sur la postulation,
+- Le décret impérial du 19 juillet 1810 sur la postulation,
 
-2. Le décret impérial du 14 décembre 1810 contenant règlement sur l’exercice de la profession d’avocat et la discipline du barreau. Les peines y prévues restent cependant applicables aux faits commis sous son empire.
+- Le décret impérial du 14 décembre 1810 contenant règlement sur l’exercice de la profession d’avocat et la discipline du barreau. Les peines y prévues restent cependant applicables aux faits commis sous son empire.
 
-3. La loi du 23 août 1882 sur la discipline du barreau,
+- La loi du 23 août 1882 sur la discipline du barreau,
 
-4. Les articles 30, 31, 40.5 et 91 à 95 de la loi du 7 mars 1980 sur l’organisation judiciaire,
+- Les articles 30, 31, 40.5 et 91 à 95 de la loi du 7 mars 1980 sur l’organisation judiciaire,
 
-5. L’article 592 du code de commerce ,
+- L’article 592 du code de commerce ,
 
-6. La loi du 10 avril 1911 sur l’exercice de la profession de fondé de pouvoir devant les tribunaux cantonaux et l’ arrêté grand-ducal du 14 août 1911 portant règlement d’exécution de cette loi ,
+- La loi du 10 avril 1911 sur l’exercice de la profession de fondé de pouvoir devant les tribunaux cantonaux et l’ arrêté grand-ducal du 14 août 1911 portant règlement d’exécution de cette loi ,
 
-7. Le règlement grand-ducal du 27 mars 1964 portant création de l’honorariat de la profession d’avocat.
+- Le règlement grand-ducal du 27 mars 1964 portant création de l’honorariat de la profession d’avocat.
 
 <a id="art-43"></a>
 ## Art. 43.
 
 Sont modifiés comme suit:
 
-2. La loi du 7 mars 1980 sur l’organisation judiciaire. Le troisième alinéa de l’article 134 est modifié comme suit: A défaut de juge ou de juge suppléant, on appelle dans les tribunaux d’arrondissement un avocat de nationalité luxembourgeoise, âgé de vingt-cinq ans accomplis, inscrit à la liste I du tableau des avocats en suivant l’ordre du tableau pour compléter le tribunal, de manière qu’il y ait toujours un juge titulaire et que les juges titulaires ou suppléants y soient toujours en majorité. L’article 172 est modifié par l’ajout de la disposition suivante: La disposition qui précède n’est pas applicable aux avocats. Toutefois, ceux-ci peuvent, si à l’audience ils contreviennent aux devoirs qui leur sont imposés par l’article 33 de la loi sur la profession d’avocat, recevoir des injonctions et être renvoyés de l’audience, selon la gravité des circonstances, avec information au Bâtonnier qui prendra telles mesures que de droit.
+- La loi du 7 mars 1980 sur l’organisation judiciaire. Le troisième alinéa de l’article 134 est modifié comme suit: A défaut de juge ou de juge suppléant, on appelle dans les tribunaux d’arrondissement un avocat de nationalité luxembourgeoise, âgé de vingt-cinq ans accomplis, inscrit à la liste I du tableau des avocats en suivant l’ordre du tableau pour compléter le tribunal, de manière qu’il y ait toujours un juge titulaire et que les juges titulaires ou suppléants y soient toujours en majorité. L’article 172 est modifié par l’ajout de la disposition suivante: La disposition qui précède n’est pas applicable aux avocats. Toutefois, ceux-ci peuvent, si à l’audience ils contreviennent aux devoirs qui leur sont imposés par l’article 33 de la loi sur la profession d’avocat, recevoir des injonctions et être renvoyés de l’audience, selon la gravité des circonstances, avec information au Bâtonnier qui prendra telles mesures que de droit.
 
-3. La loi du 29 avril 1980 réglant l’activité en prestations de service, au Grand-Duché de Luxembourg, des avocats habilités à exercer leurs activités dans un autre Etat membre des Communautés Européennes. L’article 6 est remplacé par la disposition suivante: En cas de manquement aux obligations en vigueur dans le Grand-Duché de Luxembourg, le Conseil disciplinaire et administratif statue suivant les dispositions de la loi sur la profession d’avocat. Le Conseil peut obtenir communication des renseignements professionnels utiles concernant la personne susceptible de sanction auprès des autorités compétentes de l’Etat dont celle-ci relève. Il informe cette autorité de toute décision prise, le tout sous le couvert du caractère confidentiel de ces informations.
+- La loi du 29 avril 1980 réglant l’activité en prestations de service, au Grand-Duché de Luxembourg, des avocats habilités à exercer leurs activités dans un autre Etat membre des Communautés Européennes. L’article 6 est remplacé par la disposition suivante: En cas de manquement aux obligations en vigueur dans le Grand-Duché de Luxembourg, le Conseil disciplinaire et administratif statue suivant les dispositions de la loi sur la profession d’avocat. Le Conseil peut obtenir communication des renseignements professionnels utiles concernant la personne susceptible de sanction auprès des autorités compétentes de l’Etat dont celle-ci relève. Il informe cette autorité de toute décision prise, le tout sous le couvert du caractère confidentiel de ces informations.
 
-4. La loi du 8 février 1961 portant organisation du Conseil d’Etat, telle qu’elle a été modifiée: A l’article 13, alinéa 2, les termes avocats inscrits aux tableaux dressés annuellement par les conseils de discipline ou par les tribunaux d’arrondissement sont remplacés par avocats inscrits à la liste visée sous 1 de l’article 8, paragraphe (3) de la loi sur la profession d’avocat .
+- La loi du 8 février 1961 portant organisation du Conseil d’Etat, telle qu’elle a été modifiée: A l’article 13, alinéa 2, les termes avocats inscrits aux tableaux dressés annuellement par les conseils de discipline ou par les tribunaux d’arrondissement sont remplacés par avocats inscrits à la liste visée sous 1 de l’article 8, paragraphe (3) de la loi sur la profession d’avocat .
 
-5. L’arrêté royal grand-ducal du 21 août 1866 portant règlement de procédure en matière de contentieux devant le Conseil d’Etat, tel qu’il a été modifié.
+- L’arrêté royal grand-ducal du 21 août 1866 portant règlement de procédure en matière de contentieux devant le Conseil d’Etat, tel qu’il a été modifié.
 
-1. A l’article premier, premier alinéa, les termes avocat inscrit à l’un des tableaux dressés annuellement par les conseils de discipline ou par les tribunaux d’arrondissement sont remplacés par avocat inscrit à la liste visée sous 1 de l’article 8, paragraphe (3) de la loi sur la profession d’avocat .
+  - A l’article premier, premier alinéa, les termes avocat inscrit à l’un des tableaux dressés annuellement par les conseils de discipline ou par les tribunaux d’arrondissement sont remplacés par avocat inscrit à la liste visée sous 1 de l’article 8, paragraphe (3) de la loi sur la profession d’avocat .
 
-2. Le troisième alinéa de l’article premier est supprimé.
+  - Le troisième alinéa de l’article premier est supprimé.
 
-3. A l’article 35, les termes avocats désignés au § 2 de l’article 13 de la loi du 16 janvier 1866 sont remplacés par avocats inscrits à la liste visée sous 1 de l’article 8, paragraphe (3) de la loi sur la profession d’avocat .
+  - A l’article 35, les termes avocats désignés au § 2 de l’article 13 de la loi du 16 janvier 1866 sont remplacés par avocats inscrits à la liste visée sous 1 de l’article 8, paragraphe (3) de la loi sur la profession d’avocat .
 
-4. A l’article 46, les termes avocats inscrits au tableau dressé chaque année par le Tribunal d’arrondissement, à Luxembourg, sont remplacés par avocats inscrits à la liste visée sous 1 de l’article 8, paragraphe (3) de la loi sur la profession d’avocat .
+  - A l’article 46, les termes avocats inscrits au tableau dressé chaque année par le Tribunal d’arrondissement, à Luxembourg, sont remplacés par avocats inscrits à la liste visée sous 1 de l’article 8, paragraphe (3) de la loi sur la profession d’avocat .
 
-6. Le code de procédure civile. A l’article 421 les termes par le ministère d’un fondé de procuration spéciale sont remplacés par par le ministère d’un avocat.
+- Le code de procédure civile. A l’article 421 les termes par le ministère d’un fondé de procuration spéciale sont remplacés par par le ministère d’un avocat.
 
-7. La loi électorale du 31 juillet 1924 telle qu’elle a été modifiée. A l’alinéa 1er du point 9) de l’article 97 il est ajouté la phrase suivante: Le contrat de travail peut être remplacé par une convention d’honoraires dans le cas où il s’agit de l’engagement d’un avocat inscrit au tableau de l’un des ordres des avocats ou d’un membre d’une autre profession indépendante dont l’accès et l’exercice sont réglementés.
+- La loi électorale du 31 juillet 1924 telle qu’elle a été modifiée. A l’alinéa 1er du point 9) de l’article 97 il est ajouté la phrase suivante: Le contrat de travail peut être remplacé par une convention d’honoraires dans le cas où il s’agit de l’engagement d’un avocat inscrit au tableau de l’un des ordres des avocats ou d’un membre d’une autre profession indépendante dont l’accès et l’exercice sont réglementés.
 
 #### Chapitre VIII.- Entrée en vigueur
 

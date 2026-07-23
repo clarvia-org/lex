@@ -31,41 +31,41 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Les attributions de la commission médico-psycho-pédagogique nationale sont les suivantes:
 
-1. Attributions en général:
+- Attributions en général:
 
-1. conseiller le ministre de l'Education nationale et de la Formation professionnelle sur les mesures à prendre en faveur des enfants qui, par l'effet de problèmes mentaux, caractériels, moteurs, sensoriels ou sociaux, éprouvent des difficultés au cours de l'éducation préscolaire, de l'enseignement primaire ou de l'enseignement spécial ainsi que dans le cadre de l'éducation différenciée;
+  - conseiller le ministre de l'Education nationale et de la Formation professionnelle sur les mesures à prendre en faveur des enfants qui, par l'effet de problèmes mentaux, caractériels, moteurs, sensoriels ou sociaux, éprouvent des difficultés au cours de l'éducation préscolaire, de l'enseignement primaire ou de l'enseignement spécial ainsi que dans le cadre de l'éducation différenciée;
 
-2. veiller, dans les classes de l'éducation préscolaire et de l'enseignement primaire, au dépistage des enfants devant bénéficier de mesures préventives ou d'appui;
+  - veiller, dans les classes de l'éducation préscolaire et de l'enseignement primaire, au dépistage des enfants devant bénéficier de mesures préventives ou d'appui;
 
-3. faire assister toute personne ayant la garde d'un enfant présentant de telles difficultés ou étant responsable de son éducation;
+  - faire assister toute personne ayant la garde d'un enfant présentant de telles difficultés ou étant responsable de son éducation;
 
-4. recommander des mesures préventives et des mesures d'appui pédagogique dans l'intérêt d'enfants susceptibles d'éprouver ou éprouvant des difficultés d'ordre scolaire et à surveiller l'exécution de ces mesures.
+  - recommander des mesures préventives et des mesures d'appui pédagogique dans l'intérêt d'enfants susceptibles d'éprouver ou éprouvant des difficultés d'ordre scolaire et à surveiller l'exécution de ces mesures.
 
-2. Attributions dans l'orientation et le suivi scolaires des enfants visés à l'article 1 er de la loi modifiée du 14 mars 1973:
+- Attributions dans l'orientation et le suivi scolaires des enfants visés à l'article 1 er de la loi modifiée du 14 mars 1973:
 
-1. organiser le dépistage de ces enfants;
+  - organiser le dépistage de ces enfants;
 
-2. recueillir les informations nécessaires à leur orientation, conformément à l'article 10 de la loi modifiée du 14 mars 1973. La commission nationale fait constituer, par tous les moyens qu'elle juge appropriés, et pour chaque enfant concerné, un dossier renfermant les pièces suivantes:
+  - recueillir les informations nécessaires à leur orientation, conformément à l'article 10 de la loi modifiée du 14 mars 1973. La commission nationale fait constituer, par tous les moyens qu'elle juge appropriés, et pour chaque enfant concerné, un dossier renfermant les pièces suivantes:
 
-- des rapports renseignant sur le handicap spécifique éventuel, établis par des spécialistes;
+    - des rapports renseignant sur le handicap spécifique éventuel, établis par des spécialistes;
 
-- un bilan psychologique établi par un membre du service de guidance compétent respectivement par un psychologue attaché à un Centre d'éducation différenciée;
+    - un bilan psychologique établi par un membre du service de guidance compétent respectivement par un psychologue attaché à un Centre d'éducation différenciée;
 
-- des rapports émanant de services ayant assuré une prise en charge de l'enfant avant sa scolarisation;
+    - des rapports émanant de services ayant assuré une prise en charge de l'enfant avant sa scolarisation;
 
-- un rapport pédagogique, rédigé par un pédagogue du Service rééducatif ambulatoire, renseignant sur les possibilités de scolarisation et les mesures d'accompagnement éventuellement à envisager;
+    - un rapport pédagogique, rédigé par un pédagogue du Service rééducatif ambulatoire, renseignant sur les possibilités de scolarisation et les mesures d'accompagnement éventuellement à envisager;
 
-- unun rapport sur l'audition des parents de l'enfant concerné rédigé par un membre des services de l'Education différenciée; rapport d'un assistant social ou assistant d'hygiène sociale du service social concerné;
+    - unun rapport sur l'audition des parents de l'enfant concerné rédigé par un membre des services de l'Education différenciée; rapport d'un assistant social ou assistant d'hygiène sociale du service social concerné;
 
-- un bilan scolaire élaboré sous la responsabilité de l'inspecteur;
+    - un bilan scolaire élaboré sous la responsabilité de l'inspecteur;
 
-3. émettre une proposition d'orientation parmi les possibilités prévues à l'article 3, alinéa 2 de la loi modifiée du 14 mars 1973;
+  - émettre une proposition d'orientation parmi les possibilités prévues à l'article 3, alinéa 2 de la loi modifiée du 14 mars 1973;
 
-4. transmettre cette proposition d'orientation aux parents ou à la personne investie de l'autorité parentale qui décident parmi les possibilités que leur offre l'article 3, alinéa 2 de la loi précitée;
+  - transmettre cette proposition d'orientation aux parents ou à la personne investie de l'autorité parentale qui décident parmi les possibilités que leur offre l'article 3, alinéa 2 de la loi précitée;
 
-5. recevoir la demande de transfert vers une classe de l'éducation préscolaire ou de l'enseignement primaire ou de l'enseignement spécial d'un enfant placé dans le cadre de l'éducation différenciée et la transmettre au ministre de l'Education nationale et de la Formation professionnelle, accompagnée de son avis, conformément à l'article 12 de la loi modifiée du 14 mars 1973;
+  - recevoir la demande de transfert vers une classe de l'éducation préscolaire ou de l'enseignement primaire ou de l'enseignement spécial d'un enfant placé dans le cadre de l'éducation différenciée et la transmettre au ministre de l'Education nationale et de la Formation professionnelle, accompagnée de son avis, conformément à l'article 12 de la loi modifiée du 14 mars 1973;
 
-6. émettre un avis lors de la prolongation de l'éducation d'un enfant au-delà de la scolarité obligatoire et à propos de demandes de dispense de l'obligation scolaire pour raison de santé.
+  - émettre un avis lors de la prolongation de l'éducation d'un enfant au-delà de la scolarité obligatoire et à propos de demandes de dispense de l'obligation scolaire pour raison de santé.
 
 <a id="art-2"></a>
 ## Art. 2.

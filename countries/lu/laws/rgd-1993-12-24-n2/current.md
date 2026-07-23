@@ -138,13 +138,13 @@ Les notes au plumitif sont signées par le greffier. Elles mentionnent le lieu e
 
 Les notes au plumitif doivent mentionner :
 
-1. les déclarations des parties ayant pour objet le retrait du recours, les déclarations de désistement et les déclarations ou arrangements ayant pour but de mettre fin au litige;
+- les déclarations des parties ayant pour objet le retrait du recours, les déclarations de désistement et les déclarations ou arrangements ayant pour but de mettre fin au litige;
 
-2. les demandes et déclarations qui diffèrent de celles faites antérieurement par les intéressés;
+- les demandes et déclarations qui diffèrent de celles faites antérieurement par les intéressés;
 
-3. l’avis émis par le médecin-expert du conseil arbitral;
+- l’avis émis par le médecin-expert du conseil arbitral;
 
-4. le dispositif de la décision et son prononcé.
+- le dispositif de la décision et son prononcé.
 
 Un extrait du plumitif est délivré en copie à la partie au litige qui en fait la demande.
 

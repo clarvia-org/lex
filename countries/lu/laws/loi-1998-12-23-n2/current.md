@@ -166,15 +166,15 @@ La CSSF effectue les tâches opérationnelles liées aux missions du CPDI défin
 
 Dans l’exercice de ses fonctions, la CSSF:
 
-1. examine et statue sur toute demande d’agrément émanant d'entreprises ou de personnes désireuses de s'établir au Grand-Duché de Luxembourg pour y exercer une ou plusieurs des activités énumérées à l'article 2;
+- examine et statue sur toute demande d’agrément émanant d'entreprises ou de personnes désireuses de s'établir au Grand-Duché de Luxembourg pour y exercer une ou plusieurs des activités énumérées à l'article 2;
 
-2. établit des statistiques et est autorisée à recueillir à cet effet les données nécessaires auprès de toutes les personnes soumises à sa surveillance;
+- établit des statistiques et est autorisée à recueillir à cet effet les données nécessaires auprès de toutes les personnes soumises à sa surveillance;
 
-4. suit les dossiers et participe aux négociations, sur le plan communautaire et international, relatifs aux problèmes touchant le secteur financier;
+- suit les dossiers et participe aux négociations, sur le plan communautaire et international, relatifs aux problèmes touchant le secteur financier;
 
-5. présente au Gouvernement toutes suggestions susceptibles d'améliorer l'environnement législatif et réglementaire du secteur financier;
+- présente au Gouvernement toutes suggestions susceptibles d'améliorer l'environnement législatif et réglementaire du secteur financier;
 
-6. examine toutes autres questions ayant trait à l'activité financière que le ministre ayant dans ses attributions la «CSSF» lui soumettra.
+- examine toutes autres questions ayant trait à l'activité financière que le ministre ayant dans ses attributions la «CSSF» lui soumettra.
 
 <a id="art-3-1"></a>
 ## Art. 3-1.
@@ -223,17 +223,17 @@ Les organes de la CSSF sont le conseil, la direction, le conseil de résolution 
 
 Le conseil a les compétences suivantes:
 
-1. Il arrête annuellement le budget, y compris le budget du conseil de résolution, et approuve les comptes financiers et le rapport de gestion de la direction qui lui sont soumis avant leur présentation au Gouvernement pour approbation.
+- Il arrête annuellement le budget, y compris le budget du conseil de résolution, et approuve les comptes financiers et le rapport de gestion de la direction qui lui sont soumis avant leur présentation au Gouvernement pour approbation.
 
-2. Il propose au Gouvernement la nomination d’un réviseur d’entreprises agréé pour la «CSSF».
+- Il propose au Gouvernement la nomination d’un réviseur d’entreprises agréé pour la «CSSF».
 
-3. Il met un avis sur les orientations générales relatives aux conditions et tarifs de la «CSSF», notamment celles ayant trait aux conditions de remboursement des frais de personnel et de fonctionnement de la «CSSF» par les entreprises et les personnes soumises à sa surveillance.
+- Il met un avis sur les orientations générales relatives aux conditions et tarifs de la «CSSF», notamment celles ayant trait aux conditions de remboursement des frais de personnel et de fonctionnement de la «CSSF» par les entreprises et les personnes soumises à sa surveillance.
 
-4. Il approuve le règlement d'ordre intérieur de la direction.
+- Il approuve le règlement d'ordre intérieur de la direction.
 
-5. Il doit donner son avis avant toute décision de révocation d'un membre de la direction.
+- Il doit donner son avis avant toute décision de révocation d'un membre de la direction.
 
-6. Il arrête la politique générale ainsi que les programmes d’investissement annuels et pluriannuels qui lui sont soumis par la direction avant que ceux-ci soient soumis pour approbation au Ministre ayant la «CSSF» dans ses attributions. La politique générale et les programmes d’investissement annuels et pluriannuels tiennent compte des besoins du service résolution.
+- Il arrête la politique générale ainsi que les programmes d’investissement annuels et pluriannuels qui lui sont soumis par la direction avant que ceux-ci soient soumis pour approbation au Ministre ayant la «CSSF» dans ses attributions. La politique générale et les programmes d’investissement annuels et pluriannuels tiennent compte des besoins du service résolution.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -398,15 +398,15 @@ Par dérogation à l’article 9, paragraphe 6, le conseil de résolution repré
 
 Le conseil de résolution est composé de 5 membres:
 
-1. le directeur résolution visé à l’article 12-7;
+- le directeur résolution visé à l’article 12-7;
 
-2. un fonctionnaire du département ministériel du Ministère des Finances nommé par le Grand-Duc sur proposition du Gouvernement en conseil;
+- un fonctionnaire du département ministériel du Ministère des Finances nommé par le Grand-Duc sur proposition du Gouvernement en conseil;
 
-3. le directeur général de la Banque centrale du Luxembourg;
+- le directeur général de la Banque centrale du Luxembourg;
 
-4. le directeur de la CSSF en charge de la surveillance bancaire; et
+- le directeur de la CSSF en charge de la surveillance bancaire; et
 
-5. un magistrat nommé par le Grand-Duc sur proposition du Gouvernement en conseil.
+- un magistrat nommé par le Grand-Duc sur proposition du Gouvernement en conseil.
 
 (2)
 
@@ -545,9 +545,9 @@ Les modalités des échanges d’informations et de la coopération entre le con
 
 Dans le respect des compétences et de l’indépendance de la Banque centrale du Luxembourg et sans préjudice de l’article 37 des Statuts du système européen des banques centrales et de la Banque centrale européenne, le conseil de résolution peut:
 
-1. échanger des informations et coopérer avec la Banque centrale du Luxembourg lorsque cela est nécessaire à l’accomplissement de leurs missions respectives;
+- échanger des informations et coopérer avec la Banque centrale du Luxembourg lorsque cela est nécessaire à l’accomplissement de leurs missions respectives;
 
-2. demander à la Banque centrale du Luxembourg toute information nécessaire à l’accomplissement de sa mission, moyennant à chaque fois une décision unanime des membres du conseil de résolution.
+- demander à la Banque centrale du Luxembourg toute information nécessaire à l’accomplissement de sa mission, moyennant à chaque fois une décision unanime des membres du conseil de résolution.
 
 (3)
 
@@ -561,23 +561,23 @@ Le conseil de résolution peut échanger des informations avec les administrateu
 
 Le conseil de résolution peut échanger des informations et coopérer avec les autorités et organismes suivants des autres Etats membres, des pays tiers et de l’Union européenne:
 
-1. les autorités de résolution;
+- les autorités de résolution;
 
-2. les autorités de surveillance des établissements de crédit et entreprises d’investissement;
+- les autorités de surveillance des établissements de crédit et entreprises d’investissement;
 
-3. les autorités désignées visées à l’article 163 de la loi du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement;
+- les autorités désignées visées à l’article 163 de la loi du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement;
 
-4. les dispositifs de financement pour la résolution visés à l’article 100 de la directive 2014/59/UE du Parlement européen et du Conseil du 15 mai 2014 établissant un cadre pour le redressement et la résolution des établissements de crédit et des entreprises d’investissement et modifiant la directive 82/891/CEE du Conseil ainsi que les directives du Parlement européen et du Conseil 2001/24/CE , 2002/47/CE , 2004/25/CE , 2005/56/CE , 2007/36/CE , 2011/35/UE , 2012/30/UE et 2013/36/UE et les règlements du Parlement européen et du Conseil (UE) n° 1093/2010 et (UE) n° 648/2012 ;
+- les dispositifs de financement pour la résolution visés à l’article 100 de la directive 2014/59/UE du Parlement européen et du Conseil du 15 mai 2014 établissant un cadre pour le redressement et la résolution des établissements de crédit et des entreprises d’investissement et modifiant la directive 82/891/CEE du Conseil ainsi que les directives du Parlement européen et du Conseil 2001/24/CE , 2002/47/CE , 2004/25/CE , 2005/56/CE , 2007/36/CE , 2011/35/UE , 2012/30/UE et 2013/36/UE et les règlements du Parlement européen et du Conseil (UE) n° 1093/2010 et (UE) n° 648/2012 ;
 
-5. les systèmes de garantie des dépôts;
+- les systèmes de garantie des dépôts;
 
-6. le Conseil de résolution unique;
+- le Conseil de résolution unique;
 
-7. le Fonds de résolution unique;
+- le Fonds de résolution unique;
 
-8. la Banque centrale européenne; et
+- la Banque centrale européenne; et
 
-9. l’Autorité bancaire européenne, lorsque cela est nécessaire à l’accomplissement de leurs missions respectives au titre de la directive 2014/59/UE et du règlement (UE) n° 806/2014 .
+- l’Autorité bancaire européenne, lorsque cela est nécessaire à l’accomplissement de leurs missions respectives au titre de la directive 2014/59/UE et du règlement (UE) n° 806/2014 .
 
 Lorsque le conseil de résolution communique des informations aux autorités ou organismes visés à l’alinéa 1, il peut indiquer, au moment de la communication, que les informations communiquées ne peuvent être divulguées sans son accord exprès, auquel cas ces informations peuvent être échangées uniquement aux fins pour lesquelles le conseil de résolution a donné son accord.
 
@@ -617,15 +617,15 @@ Par dérogation à l’article 9, paragraphe 6, le CPDI représente la CSSF judi
 
 Le CPDI est composé de 4 à 5 membres :
 
-1. le directeur de la CSSF en charge du service visé à l’article 12-15;
+- le directeur de la CSSF en charge du service visé à l’article 12-15;
 
-2. un fonctionnaire du département ministériel du Ministère des Finances nommé par le Grand-Duc sur proposition du Gouvernement en conseil;
+- un fonctionnaire du département ministériel du Ministère des Finances nommé par le Grand-Duc sur proposition du Gouvernement en conseil;
 
-3. le directeur général de la Banque centrale du Luxembourg;
+- le directeur général de la Banque centrale du Luxembourg;
 
-4. le directeur de la CSSF en charge de la surveillance bancaire s’il est différent du directeur visé à la lettre a);
+- le directeur de la CSSF en charge de la surveillance bancaire s’il est différent du directeur visé à la lettre a);
 
-6. un magistrat nommé par le Grand-Duc sur proposition du Gouvernement en Conseil.
+- un magistrat nommé par le Grand-Duc sur proposition du Gouvernement en Conseil.
 
 (2)
 
@@ -723,9 +723,9 @@ Les alinéas 3 et 4 de l’article 12-9, paragraphe 1er, sont d’application.
 
 Dans le respect des compétences et de l’indépendance de la Banque centrale du Luxembourg et sans préjudice de l’article 37 des Statuts du système européen des banques centrales et de la Banque centrale européenne, le CPDI peut:
 
-1. échanger des informations et coopérer avec la Banque centrale du Luxembourg lorsque cela est nécessaire à l’accomplissement de leurs missions respectives;
+- échanger des informations et coopérer avec la Banque centrale du Luxembourg lorsque cela est nécessaire à l’accomplissement de leurs missions respectives;
 
-2. demander à la Banque centrale du Luxembourg toute information nécessaire à l’accomplissement de sa mission, moyennant à chaque fois une décision unanime des membres du CPDI.
+- demander à la Banque centrale du Luxembourg toute information nécessaire à l’accomplissement de sa mission, moyennant à chaque fois une décision unanime des membres du CPDI.
 
 (3)
 
@@ -739,21 +739,21 @@ Le CPDI peut échanger des informations avec les administrateurs et les liquidat
 
 Le CPDI peut échanger des informations et coopérer avec les autorités et organismes suivants des autres Etats membres, des pays tiers et de l’Union européenne:
 
-1. les autorités de surveillance des établissements de crédit et entreprises d’investissement;
+- les autorités de surveillance des établissements de crédit et entreprises d’investissement;
 
-2. les autorités de résolution;
+- les autorités de résolution;
 
-3. les autorités désignées visées à l’article 163 de la loi du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement;
+- les autorités désignées visées à l’article 163 de la loi du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement;
 
-4. les systèmes de garantie des dépôts;
+- les systèmes de garantie des dépôts;
 
-5. les systèmes d’indemnisation des investisseurs;
+- les systèmes d’indemnisation des investisseurs;
 
-6. le Conseil de résolution unique;
+- le Conseil de résolution unique;
 
-7. la Banque centrale européenne; et
+- la Banque centrale européenne; et
 
-8. l’Autorité bancaire européenne, lorsque cela est nécessaire à l’accomplissement de leurs missions respectives.
+- l’Autorité bancaire européenne, lorsque cela est nécessaire à l’accomplissement de leurs missions respectives.
 
 Lorsque le CPDI communique des informations aux autorités ou organismes visés à l’alinéa 1, il peut indiquer, au moment de la communication, que les informations communiquées ne peuvent être divulguées sans son accord exprès, auquel cas ces informations peuvent être échangées uniquement aux fins pour lesquelles le CPDI a donné son accord.
 
@@ -844,11 +844,11 @@ Un membre du comité consultatif de la réglementation prudentielle peut saisir 
 
 Le comité consultatif de la réglementation prudentielle est composé des membres suivants:
 
-1. le Ministre compétent ou un représentant nommé par celui-ci;
+- le Ministre compétent ou un représentant nommé par celui-ci;
 
-2. la direction de la CSSF considérée comme collège et comptant comme un membre;
+- la direction de la CSSF considérée comme collège et comptant comme un membre;
 
-3. six membres désignés par le Ministre compétent pour représenter respectivement les banques, les OPC, les autres professionnels et les bourses soumis à la surveillance prudentielle de la «CSSF».
+- six membres désignés par le Ministre compétent pour représenter respectivement les banques, les OPC, les autres professionnels et les bourses soumis à la surveillance prudentielle de la «CSSF».
 
 (4)
 
@@ -873,21 +873,21 @@ Un membre du comité consultatif de la profession de l’audit peut saisir celui
 
 Le comité consultatif de la profession de l’audit est composé des membres suivants:
 
-1. le Ministre de la Justice ou un représentant nommé par celui-ci;
+- le Ministre de la Justice ou un représentant nommé par celui-ci;
 
-2. le Ministre des Finances ou un représentant nommé par celui-ci;
+- le Ministre des Finances ou un représentant nommé par celui-ci;
 
-3. la direction de la CSSF considérée comme collège et comptant comme un membre;
+- la direction de la CSSF considérée comme collège et comptant comme un membre;
 
-4. un membre de la direction du Commissariat aux assurances désigné à cet effet par ce dernier ou un représentant nommé par ce dernier;
+- un membre de la direction du Commissariat aux assurances désigné à cet effet par ce dernier ou un représentant nommé par ce dernier;
 
-5. trois membres de l’Institut des réviseurs d’entreprises désignés à cet effet par ce dernier;
+- trois membres de l’Institut des réviseurs d’entreprises désignés à cet effet par ce dernier;
 
-6. un membre de l’Association des banques et banquiers, Luxembourg (ABBL) désigné à cet effet par cette dernière;
+- un membre de l’Association des banques et banquiers, Luxembourg (ABBL) désigné à cet effet par cette dernière;
 
-7. un membre de l’Association luxembourgeoise des fonds d’investissement (ALFI), désigné à cet effet par cette dernière;
+- un membre de l’Association luxembourgeoise des fonds d’investissement (ALFI), désigné à cet effet par cette dernière;
 
-8. un membre de la Chambre de Commerce désigné à cet effet par cette dernière.
+- un membre de la Chambre de Commerce désigné à cet effet par cette dernière.
 
 (4)
 
@@ -912,15 +912,15 @@ Un membre du comité consultatif de la résolution peut saisir celui-ci de la mi
 
 Le comité consultatif de la résolution est composé des membres suivants:
 
-1. le ministre ayant la Place financière dans ses attributions ou un représentant nommé par celui-ci;
+- le ministre ayant la Place financière dans ses attributions ou un représentant nommé par celui-ci;
 
-2. le conseil de résolution considéré comme collège et comptant comme un membre, le cas échéant représenté par le directeur résolution;
+- le conseil de résolution considéré comme collège et comptant comme un membre, le cas échéant représenté par le directeur résolution;
 
-3. le directeur de la CSSF en charge du service visé à l’article 12-15;
+- le directeur de la CSSF en charge du service visé à l’article 12-15;
 
-4. quatre membres désignés par le ministre ayant la Place financière dans ses attributions pour représenter respectivement les banques et les entreprises d’investissement;
+- quatre membres désignés par le ministre ayant la Place financière dans ses attributions pour représenter respectivement les banques et les entreprises d’investissement;
 
-5. un membre de l’Institut des réviseurs d’entreprises désigné à cet effet par ce dernier.
+- un membre de l’Institut des réviseurs d’entreprises désigné à cet effet par ce dernier.
 
 (4)
 
@@ -964,11 +964,11 @@ Dans tous les cas où une loi spécifique régissant la surveillance n’autoris
 
 Au moment de la création de la «CSSF», le patrimoine de celle-ci est constitué par:
 
-1. l'apport par le Commissariat aux Bourses de tout son patrimoine;
+- l'apport par le Commissariat aux Bourses de tout son patrimoine;
 
-2. l'apport par la Banque centrale des biens mobiliers, des documents et des archives en relation avec la surveillance prudentielle des entreprises et des personnes surveillée;
+- l'apport par la Banque centrale des biens mobiliers, des documents et des archives en relation avec la surveillance prudentielle des entreprises et des personnes surveillée;
 
-3. une dotation en espèces de cinq millions d’euros à faire par le budget de l'Etat.
+- une dotation en espèces de cinq millions d’euros à faire par le budget de l'Etat.
 
 (2)
 

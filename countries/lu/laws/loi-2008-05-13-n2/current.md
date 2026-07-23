@@ -62,11 +62,11 @@ Chaque membre de l'équipe est responsable sur le plan pédagogique des sujets s
 
 L'organisation scolaire comprend:
 
-1. des séquences d'enseignement, de travail individuel et de travail en groupe;
+- des séquences d'enseignement, de travail individuel et de travail en groupe;
 
-2. des plages de récréation;
+- des plages de récréation;
 
-3. un encadrement et des activités complémentaires sportives, créatives, manuelles et ludiques.
+- un encadrement et des activités complémentaires sportives, créatives, manuelles et ludiques.
 
 Les séquences d'enseignement, de travail individuel et de travail en groupe et les plages de récréation sont organisées pendant cinq jours par semaine, du lundi au vendredi. Les élèves participent aux séquences d'enseignement, de travail individuel et de travail en groupe et aux plages de récréation, y compris la prise en commun des repas à l'Ecole. La participation aux activités complémentaires reste facultative. La prise en charge, comportant les activités principales et complémentaires, ne peut pas dépasser onze heures et demie par jour. Les repas et les activités complémentaires peuvent donner lieu à une participation financière des parents.
 
@@ -88,17 +88,17 @@ Des objectifs spécifiques supplémentaires peuvent être développés et introd
 
 L'enseignement est offert dans le cadre de domaines de développement et d'apprentissage qui englobent entre autres les disciplines évoquées dans les plans cadres de l'éducation précoce et de l'éducation préscolaire et dans le plan d'études de l'enseignement primaire:
 
-1. le domaine «langues» qui comprend les langues allemande, française, luxembourgeoise et l'éveil aux langues;
+- le domaine «langues» qui comprend les langues allemande, française, luxembourgeoise et l'éveil aux langues;
 
-2. le domaine «mathématiques»;
+- le domaine «mathématiques»;
 
-3. le domaine «sciences» qui comprend l'éveil aux sciences, les sciences naturelles, l'histoire et la géographie;
+- le domaine «sciences» qui comprend l'éveil aux sciences, les sciences naturelles, l'histoire et la géographie;
 
-4. le domaine «corps et santé» qui comprend la psychomotricité, l'expression corporelle, les sports et la santé;
+- le domaine «corps et santé» qui comprend la psychomotricité, l'expression corporelle, les sports et la santé;
 
-5. le domaine «arts» qui comprend l'expression créatrice, l'éveil esthétique et culturel, les arts et la musique;
+- le domaine «arts» qui comprend l'expression créatrice, l'éveil esthétique et culturel, les arts et la musique;
 
-6. le domaine «vie en commun et valeurs» qui comprend l'éducation aux valeurs démocratiques et à la citoyenneté démocratique ainsi que l'éducation morale et sociale ou l'instruction religieuse et morale.
+- le domaine «vie en commun et valeurs» qui comprend l'éducation aux valeurs démocratiques et à la citoyenneté démocratique ainsi que l'éducation morale et sociale ou l'instruction religieuse et morale.
 
 L'Ecole peut utiliser des manuels scolaires qui ne figurent pas sur la liste établie par la Commission d'instruction.
 
@@ -107,19 +107,19 @@ L'Ecole peut utiliser des manuels scolaires qui ne figurent pas sur la liste ét
 
 Il est constitué pour chaque élève un portfolio qui comprend:
 
-1. un dossier qui documente les productions de l'élève et rend compte de son parcours d'apprentissage. L'équipe multiprofessionnelle y réunit avec l'élève les documents représentatifs des travaux qu'il réalise;
+- un dossier qui documente les productions de l'élève et rend compte de son parcours d'apprentissage. L'équipe multiprofessionnelle y réunit avec l'élève les documents représentatifs des travaux qu'il réalise;
 
-2. un journal de bord où l'élève commente son parcours scolaire et son projet personnel de formation. Il sert d'outil d'auto-évaluation à l'élève;
+- un journal de bord où l'élève commente son parcours scolaire et son projet personnel de formation. Il sert d'outil d'auto-évaluation à l'élève;
 
-3. le bilan établi, au moins deux fois par an, par l'équipe multiprofessionnelle. Dans celui-ci figurent:
+- le bilan établi, au moins deux fois par an, par l'équipe multiprofessionnelle. Dans celui-ci figurent:
 
-1. les performances et les acquis de l'élève relatifs à une période donnée;
+  - les performances et les acquis de l'élève relatifs à une période donnée;
 
-2. un rapport du progrès d'apprentissage;
+  - un rapport du progrès d'apprentissage;
 
-3. les commentaires sur les travaux réunis dans le dossier;
+  - les commentaires sur les travaux réunis dans le dossier;
 
-4. un travail de fin d'études primaires.
+- un travail de fin d'études primaires.
 
 Le portfolio est présenté lors d'un entretien avec les parents et l'élève chaque fois qu'un bilan est établi.
 
@@ -147,31 +147,31 @@ Chaque groupe d'élèves est placé sous la responsabilité d'un sous-groupe de 
 
 La tâche de l'équipe multiprofessionnelle comporte entre autres:
 
-1. l'enseignement, son organisation et l'encadrement des élèves;
+- l'enseignement, son organisation et l'encadrement des élèves;
 
-2. la concertation au sein de l'équipe multiprofessionnelle;
+- la concertation au sein de l'équipe multiprofessionnelle;
 
-3. des travaux de préparation, d'évaluation et de réflexion;
+- des travaux de préparation, d'évaluation et de réflexion;
 
-4. le soutien d'un ou des membres de l'équipe dans le cadre de la prise en charge des difficultés rencontrées dans
+- le soutien d'un ou des membres de l'équipe dans le cadre de la prise en charge des difficultés rencontrées dans
 
-5. le travail et la vie avec les enfants;
+- le travail et la vie avec les enfants;
 
-6. des travaux de tutorat;
+- des travaux de tutorat;
 
-7. des travaux de recherche;
+- des travaux de recherche;
 
-8. le contact avec les parents;
+- le contact avec les parents;
 
-9. la participation aux assemblées du personnel;
+- la participation aux assemblées du personnel;
 
-10. la participation à des activités de formation continue;
+- la participation à des activités de formation continue;
 
-11. l'organisation de l'encadrement des élèves pendant les heures situées en dehors des séquences d'enseignement;
+- l'organisation de l'encadrement des élèves pendant les heures situées en dehors des séquences d'enseignement;
 
-12. l'élaboration des avis d'orientation des élèves à la fin de l'enseignement primaire;
+- l'élaboration des avis d'orientation des élèves à la fin de l'enseignement primaire;
 
-13. des travaux d'administration.
+- des travaux d'administration.
 
 Le volume des tâches des membres de l'équipe multiprofessionnelle est fixé par règlement grand-ducal.
 
@@ -195,33 +195,33 @@ Le comité d'école se dote d'un règlement interne qui fixe les modalités de f
 
 Le comité d'école a les missions suivantes:
 
-1. coordonner les travaux de l'équipe multiprofessionnelle;
+- coordonner les travaux de l'équipe multiprofessionnelle;
 
-2. élaborer une proposition d'organisation de l'Ecole avec indication du nombre de postes requis pour assurer l'enseignement et l'encadrement des élèves;
+- élaborer une proposition d'organisation de l'Ecole avec indication du nombre de postes requis pour assurer l'enseignement et l'encadrement des élèves;
 
-3. proposer et gérer le budget de l'Ecole;
+- proposer et gérer le budget de l'Ecole;
 
-4. organiser les activités de recherche de l'équipe multiprofessionnelle;
+- organiser les activités de recherche de l'équipe multiprofessionnelle;
 
-5. préparer les assemblées du personnel;
+- préparer les assemblées du personnel;
 
-6. gérer le matériel didactique et informatique de l'Ecole;
+- gérer le matériel didactique et informatique de l'Ecole;
 
-7. coordonner les plans horaires;
+- coordonner les plans horaires;
 
-8. rassembler les données concernant les élèves;
+- rassembler les données concernant les élèves;
 
-9. assurer le contact avec le Ministère et la commune d'implantation;
+- assurer le contact avec le Ministère et la commune d'implantation;
 
-10. préparer un rapport d'activité annuel de l'Ecole;
+- préparer un rapport d'activité annuel de l'Ecole;
 
-11. convoquer les réunions du conseil d'école;
+- convoquer les réunions du conseil d'école;
 
-12. informer le ou la ministre de toute absence d'élève dont le motif n'est pas reconnu valable;
+- informer le ou la ministre de toute absence d'élève dont le motif n'est pas reconnu valable;
 
-13. accorder les dispenses de fréquentation scolaire pour une durée dépassant une journée;
+- accorder les dispenses de fréquentation scolaire pour une durée dépassant une journée;
 
-14. planifier des formations continues.
+- planifier des formations continues.
 
 Le comité d'école délègue deux membres dans le conseil scientifique prévu à l'article 15 et un membre dans le conseil d'école.
 
@@ -259,13 +259,13 @@ Le conseil d'école se réunit au moins trois fois par année scolaire et chaque
 
 Il est constitué un conseil scientifique, composé de:
 
-1. deux membres du comité d'école;
+- deux membres du comité d'école;
 
-2. un membre du comité des parents;
+- un membre du comité des parents;
 
-3. deux membres du personnel enseignant-chercheur ou du personnel scientifique de l'institution universitaire visée à l'article 1 er intervenant à l'Ecole, désignés par l'institution universitaire;
+- deux membres du personnel enseignant-chercheur ou du personnel scientifique de l'institution universitaire visée à l'article 1 er intervenant à l'Ecole, désignés par l'institution universitaire;
 
-4. un représentant du Ministère désigné par le ou la ministre.
+- un représentant du Ministère désigné par le ou la ministre.
 
 Les membres sont désignés pour la durée de trois ans.
 
@@ -276,15 +276,15 @@ Le conseil scientifique assure la coordination des projets et rapports de recher
 
 La coopération entre l'Ecole et l'institution universitaire visée à l'article 1er concerne:
 
-1. le développement de la qualité de l'enseignement;
+- le développement de la qualité de l'enseignement;
 
-2. la recherche sur l'Ecole;
+- la recherche sur l'Ecole;
 
-3. le développement professionnel continu des membres de l'équipe multiprofessionnelle;
+- le développement professionnel continu des membres de l'équipe multiprofessionnelle;
 
-4. la publication et diffusion des résultats de recherche;
+- la publication et diffusion des résultats de recherche;
 
-5. le développement durable de l'Ecole.
+- le développement durable de l'Ecole.
 
 Les modalités de cette coopération font l'objet d'une convention à conclure entre le ou la ministre et l'institution universitaire.
 
@@ -300,25 +300,25 @@ Afin de promouvoir la coopération entre les différents partenaires et de crée
 
 Le cadre du personnel de l'Ecole peut comprendre:
 
-1. des instituteurs et des institutrices de l'éducation préscolaire et de l'enseignement primaire,
+- des instituteurs et des institutrices de l'éducation préscolaire et de l'enseignement primaire,
 
-2. des pédagogues,
+- des pédagogues,
 
-3. des psychologues,
+- des psychologues,
 
-4. des pédagogues curatifs et des pédagogues curatives,
+- des pédagogues curatifs et des pédagogues curatives,
 
-5. des orthophonistes,
+- des orthophonistes,
 
-6. des psychorééducateurs et des psychorééducatrices,
+- des psychorééducateurs et des psychorééducatrices,
 
-7. des ergothérapeutes,
+- des ergothérapeutes,
 
-8. des assistants sociaux et des assistantes sociales,
+- des assistants sociaux et des assistantes sociales,
 
-9. des éducateurs gradués et des éducatrices graduées,
+- des éducateurs gradués et des éducatrices graduées,
 
-10. des éducateurs et des éducatrices.
+- des éducateurs et des éducatrices.
 
 (2)
 
@@ -328,11 +328,11 @@ En dehors des fonctionnaires énumérés ci-dessus, le cadre du personnel de l'E
 
 En dehors des fonctionnaires et des stagiaires, l'Ecole peut également avoir recours, suivant les besoins du ser- vice et dans la limite des crédits budgétaires, à
 
-1. des chargés de cours et des chargées de cours engagés à tâche complète ou partielle et à durée indéterminée ou déterminée;
+- des chargés de cours et des chargées de cours engagés à tâche complète ou partielle et à durée indéterminée ou déterminée;
 
-2. des employés et des employées des carrières administratives ou techniques engagés à tâche complète ou partielle et à durée indéterminée ou déterminée;
+- des employés et des employées des carrières administratives ou techniques engagés à tâche complète ou partielle et à durée indéterminée ou déterminée;
 
-3. des ouvriers et des ouvrières engagés à tâche complète ou partielle et à durée indéterminée ou déterminée.
+- des ouvriers et des ouvrières engagés à tâche complète ou partielle et à durée indéterminée ou déterminée.
 
 (4)
 
@@ -352,11 +352,11 @@ Les conditions d'admission à la fonction d'instituteur de l'éducation préscol
 
 Les conditions d'admission au stage et de nomination des autres membres du personnel de l'Ecole sont celles fixées pour les fonctions correspondantes par
 
-1. la loi du 29 juin 2005 fixant les cadres du personnel des établissements d'enseignement secondaire et secondaire technique;
+- la loi du 29 juin 2005 fixant les cadres du personnel des établissements d'enseignement secondaire et secondaire technique;
 
-2. la loi modifiée du 14 mars 1973 portant création d'instituts et de services d'éducation différenciée;
+- la loi modifiée du 14 mars 1973 portant création d'instituts et de services d'éducation différenciée;
 
-3. les règlements d'exécution relatifs aux lois précitées et les règlements grand-ducaux modifiés du 30 janvier 2004 applicables pour le recrutement dans les administrations et services de l'Etat
+- les règlements d'exécution relatifs aux lois précitées et les règlements grand-ducaux modifiés du 30 janvier 2004 applicables pour le recrutement dans les administrations et services de l'Etat
 
 .
 
@@ -373,19 +373,19 @@ Le ou la ministre peut accorder des décharges pour des travaux de recherche, de
 
 Le Gouvernement est autorisé à procéder aux engagements de renforcement à titre permanent suivants:
 
-1. 10 instituteurs ou institutrices de l'éducation préscolaire et de l'enseignement primaire;
+- 10 instituteurs ou institutrices de l'éducation préscolaire et de l'enseignement primaire;
 
-2. 6 éducateurs gradués ou éducatrices graduées;
+- 6 éducateurs gradués ou éducatrices graduées;
 
-3. 1 psychologue;
+- 1 psychologue;
 
-4. 1 pédagogue curatif ou pédagogue curative;
+- 1 pédagogue curatif ou pédagogue curative;
 
-5. 7 éducateurs ou éducatrices;
+- 7 éducateurs ou éducatrices;
 
-6. 1 rédacteur ou une rédactrice faisant fonction de secrétaire;
+- 1 rédacteur ou une rédactrice faisant fonction de secrétaire;
 
-7. 6 ouvriers ou ouvrières de l'Etat.
+- 6 ouvriers ou ouvrières de l'Etat.
 
 L'agent de la carrière de rédacteur appelé à remplir la fonction de secrétaire à l'Ecole est recruté parmi les fonctionnaires ou stagiaires de la même carrière de l'administration gouvernementale et détaché à l'Ecole.
 

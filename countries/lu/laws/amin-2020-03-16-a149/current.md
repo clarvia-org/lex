@@ -121,33 +121,33 @@ Les personnes et prestataires visés à l’alinéa 1 communiquent quotidienneme
 
 - Pour les structures d’hébergement :
 
-- le nombre de lits totaux ;
+  - le nombre de lits totaux ;
 
-- le nombre de lits totaux occupés ;
+  - le nombre de lits totaux occupés ;
 
-- le nombre de lits occupés par résidents en isolement (avec infection COVID-19 confirmée) ;
+  - le nombre de lits occupés par résidents en isolement (avec infection COVID-19 confirmée) ;
 
-- le cas échéant, les matricules de résidents atteints du COVID-19 (infection confirmée) ;
+  - le cas échéant, les matricules de résidents atteints du COVID-19 (infection confirmée) ;
 
-- le nombre de lits occupés par résidents en auto-isolement (symptômes compatibles avec la maladie Covid-19 mais infection COVID-19 non confirmée) ;
+  - le nombre de lits occupés par résidents en auto-isolement (symptômes compatibles avec la maladie Covid-19 mais infection COVID-19 non confirmée) ;
 
-- le nombre de lits occupés par résidents en auto-quarantaine (personnes ayant eu un contact intime avec une personne dont l’infection Covid-19 est confirmée) ;
+  - le nombre de lits occupés par résidents en auto-quarantaine (personnes ayant eu un contact intime avec une personne dont l’infection Covid-19 est confirmée) ;
 
-- le nombre de lits occupés par résidents guéris du COVID-19 ;
+  - le nombre de lits occupés par résidents guéris du COVID-19 ;
 
-- le cas échéant, les matricules de résidents guéris du COVID-19.
+  - le cas échéant, les matricules de résidents guéris du COVID-19.
 
 - Pour les réseaux de soins :
 
-- le nombre de clients ;
+  - le nombre de clients ;
 
-- le nombre et, le cas échéant le matricule, de clients en isolement (clients avec infection Covid-19 confirmée) ;
+  - le nombre et, le cas échéant le matricule, de clients en isolement (clients avec infection Covid-19 confirmée) ;
 
-- le nombre de clients en auto-isolement (clients ayant des symptômes compatibles avec la maladie Covid-19 mais sans infection COVID-19 confirmée) ;
+  - le nombre de clients en auto-isolement (clients ayant des symptômes compatibles avec la maladie Covid-19 mais sans infection COVID-19 confirmée) ;
 
-- le nombre de clients en auto-quarantaine (personnes ayant eu un contact intime avec une personne dont l’infection Covid-19 est confirmée) ;
+  - le nombre de clients en auto-quarantaine (personnes ayant eu un contact intime avec une personne dont l’infection Covid-19 est confirmée) ;
 
-- le nombre et, le cas échéant le matricule, de clients guéris du COVID-19.
+  - le nombre et, le cas échéant le matricule, de clients guéris du COVID-19.
 
 - Le matériel de protection personnelle disponible, notamment les masques chirurgicaux, les masques FFP2, les gants, les blouses de protection perméables, les lunettes de protection, les combinaisons de protection Tyvek, les solutions hydroalcooliques (litres) ;
 

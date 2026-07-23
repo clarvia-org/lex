@@ -26,10 +26,14 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 ### Titre Ier. LISTES ELECTORALES
 
+Date des élections
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
 La date des élections pour la chambre des salariés est fixée par arrêté du ministre ayant le travail dans ses attributions et publiée au Mémorial.
+
+Mode électoral
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -52,6 +56,8 @@ La composition numérique, la répartition sectorielle et la répartition des si
 | Groupe 9: | Bénéficiaires d’une pension de vieillesse et d’invalidité à l’exception des agents retraités de la CFL et des agents de la CFL bénéficiant d’une pension d’invalidité : 6 sièges |
 
 Si un employeur s'est vu attribuer plusieurs codes NACE, celui de l'activité principale est déterminant pour le classement des salariés dans les différents groupes.
+
+Liste électorale
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -112,16 +118,18 @@ Une copie des listes électorales définitivement arrêtées est transmise, dans
 
 ### Titre II. CANDIDATURES
 
+Déclaration de candidature
+
 <a id="art-8"></a>
 ## Art. 8.
 
 Pour chaque groupe les listes de candidats sont présentées par dix électeurs inscrits dans ce groupe. La présentation des listes de candidats doit être accompagnée, outre les preuves requises par l'article 6 de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective:
 
-1. d'une attestation délivrée à chaque candidat par le ministre ayant le travail dans ses attributions et certifiant qu'il est électeur et dans quel groupe;
+- d'une attestation délivrée à chaque candidat par le ministre ayant le travail dans ses attributions et certifiant qu'il est électeur et dans quel groupe;
 
-2. d'une déclaration signée par les candidats et attestant qu'ils acceptent la candidature dans ce groupe ;
+- d'une déclaration signée par les candidats et attestant qu'ils acceptent la candidature dans ce groupe ;
 
-3. d’un bulletin n°3 du casier judiciaire de chaque candidat voire un extrait du casier judiciaire équivalent pour les candidats qui n’habitent pas sur le territoire du Grand-Duché du Luxembourg.
+- d’un bulletin n°3 du casier judiciaire de chaque candidat voire un extrait du casier judiciaire équivalent pour les candidats qui n’habitent pas sur le territoire du Grand-Duché du Luxembourg.
 
 Chaque liste porte la désignation d'un mandataire choisi parmi les signataires de la présentation à l'effet de faire le dépôt de la liste et de remplir les autres devoirs lui imposés par les articles suivants.
 
@@ -174,6 +182,8 @@ Le juge de paix directeur de Luxembourg transmet les noms des témoins et des t�
 
 A l'expiration du terme fixé à l'article 10, alinéa 1er, le juge de paix directeur de Luxembourg ou son délégué arrête les listes de candidats présentées par les différents groupes.
 
+Dispense d’élection
+
 <a id="art-14"></a>
 ## Art. 14.
 
@@ -219,6 +229,8 @@ Aucun candidat ne peut siéger au bureau.
 
 ### Titre IV. OPERATIONS ELECTORALES
 
+Bulletins de vote
+
 <a id="art-21"></a>
 ## Art. 21.
 
@@ -227,6 +239,8 @@ Le président du bureau électoral établit la formule des bulletins de vote qui
 Les bulletins sont uniformes pour tous les électeurs d'un même groupe.
 
 Chaque liste est surmontée d'une case réservée au vote, deux autres cases se trouvant à la suite des nom et prénoms de chaque candidat. La case de tête est noire et présente au milieu un cercle de la couleur du papier.
+
+Du vote
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -257,6 +271,8 @@ Les réclamations pour défaut d'envoi d'un bulletin doivent être présentées 
 
 Après avoir exprimé son vote, l'électeur plie le bulletin, à angle droit, et le place dans l'enveloppe neutre qui est fermée. L'électeur place celle-ci dans l'enveloppe de renvoi portant l'adresse du président du bureau électoral, signe à l'endroit indiqué sur cette enveloppe pour la signature de l'électeur, ferme l'enveloppe et la remet à la poste dans un délai suffisant pour qu'elle puisse parvenir dans les conditions fixées à l'article 25.
 
+Dépouillement des bulletins
+
 <a id="art-25"></a>
 ## Art. 25.
 
@@ -286,17 +302,19 @@ Par dérogation à l'alinéa qui précède, le bureau électoral peut décider d
 
 Est nul
 
-1. tout bulletin qui n'a pas été envoyé ou remis aux électeurs par le président;
+- tout bulletin qui n'a pas été envoyé ou remis aux électeurs par le président;
 
-2. tout bulletin qui
+- tout bulletin qui
 
-1. ne contient l'expression d'aucun suffrage;
+  - ne contient l'expression d'aucun suffrage;
 
-2. contient plus de suffrages qu'il n'y a de membres à élire;
+  - contient plus de suffrages qu'il n'y a de membres à élire;
 
-3. porte une marque quelconque;
+  - porte une marque quelconque;
 
-4. fait connaître le votant.
+  - fait connaître le votant.
+
+Attribution des sièges
 
 <a id="art-28"></a>
 ## Art. 28.
@@ -354,6 +372,8 @@ Il est mis sous enveloppe cachetée, qui porte pour suscription le nom du bureau
 
 Le tout est envoyé par le président du bureau au ministre ayant le travail dans ses attributions.
 
+Contestations
+
 <a id="art-34"></a>
 ## Art. 34.
 
@@ -362,6 +382,8 @@ Toutes les contestations qui surgissent au sein du bureau électoral au cours du
 Ces contestations et décisions sont relatées succinctement au procès-verbal.
 
 A l’expiration des délais prévus pour l’introduction des réclamations, tous les documents relatifs à l’élection sont détruits.
+
+Dispositions finales et abrogatoires
 
 <a id="art-35"></a>
 ## Art. 35.

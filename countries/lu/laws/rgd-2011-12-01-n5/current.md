@@ -32,27 +32,27 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour l’application de l’article 22ter du Code de la sécurité sociale, on entend par:
 
-1. «médicament»: toute substance ou composition présentée comme possédant des propriétés curatives ou préventives à l’égard des maladies humaines ainsi que toute substance ou composition pouvant être administrée à l’homme en vue d’établir un diagnostic médical ou de restaurer, corriger ou modifier des fonctions physiologiques chez l’homme et disposant d’une autorisation de mise sur le marché conformément aux dispositions légales en vigueur;
+- «médicament»: toute substance ou composition présentée comme possédant des propriétés curatives ou préventives à l’égard des maladies humaines ainsi que toute substance ou composition pouvant être administrée à l’homme en vue d’établir un diagnostic médical ou de restaurer, corriger ou modifier des fonctions physiologiques chez l’homme et disposant d’une autorisation de mise sur le marché conformément aux dispositions légales en vigueur;
 
-2. «présentation»: unité formée par le médicament avec son conditionnement primaire et l’emballage extérieur;
+- «présentation»: unité formée par le médicament avec son conditionnement primaire et l’emballage extérieur;
 
-3. «pays de provenance»: le pays ayant attribué un code national à la présentation;
+- «pays de provenance»: le pays ayant attribué un code national à la présentation;
 
-4. «code national»: l’identifiant national attribué à la présentation par l’autorité compétente du pays de provenance;
+- «code national»: l’identifiant national attribué à la présentation par l’autorité compétente du pays de provenance;
 
-5. «numéro national»: le numéro d’identification attribué par le ministre ayant la Santé dans ses attributions à une présentation d’un médicament lors de l’attribution de l’autorisation de mise sur le marché;
+- «numéro national»: le numéro d’identification attribué par le ministre ayant la Santé dans ses attributions à une présentation d’un médicament lors de l’attribution de l’autorisation de mise sur le marché;
 
-6. «titulaire»: le titulaire de l’autorisation de mise sur le marché d’un médicament ou son représentant dûment mandaté à cet effet;
+- «titulaire»: le titulaire de l’autorisation de mise sur le marché d’un médicament ou son représentant dûment mandaté à cet effet;
 
-7. «grossiste»: toute personne en possession d’une autorisation d’exercer l’activité de grossiste en médicaments conformément aux dispositions légales en vigueur;
+- «grossiste»: toute personne en possession d’une autorisation d’exercer l’activité de grossiste en médicaments conformément aux dispositions légales en vigueur;
 
-8. «prix ex-usine»: le prix de vente hors taxes du titulaire de l’autorisation de mise sur le marché d’un médicament ou de son représentant dûment mandaté à cet effet;
+- «prix ex-usine»: le prix de vente hors taxes du titulaire de l’autorisation de mise sur le marché d’un médicament ou de son représentant dûment mandaté à cet effet;
 
-9. «prix d’achat du pharmacien»: le prix de vente hors taxes appliqué par le grossiste aux pharmacies hospitalières ou ouvertes au public;
+- «prix d’achat du pharmacien»: le prix de vente hors taxes appliqué par le grossiste aux pharmacies hospitalières ou ouvertes au public;
 
-10. «prix au public»: le prix de vente hors taxes en pharmacie ouverte au public;
+- «prix au public»: le prix de vente hors taxes en pharmacie ouverte au public;
 
-11. «les prix d’une présentation»: le prix ex-usine et le cas échéant, le prix d’achat du pharmacien et le prix au public relatifs à une seule présentation d’un médicament, identifiée par son numéro national.
+- «les prix d’une présentation»: le prix ex-usine et le cas échéant, le prix d’achat du pharmacien et le prix au public relatifs à une seule présentation d’un médicament, identifiée par son numéro national.
 
 <a id="art-2"></a>
 ## Art. 2.

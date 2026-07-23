@@ -37,9 +37,9 @@ Les bibliothèques, établissements d’enseignement, musées accessibles au pub
 
 La présente loi s’applique aux oeuvres orphelines, au sens de l’article 2, qui ont été initialement publiées ou radiodiffusées dans un État membre de l’Union européenne et qui appartiennent à l’une des catégories suivantes:
 
-1. les oeuvres publiées sous la forme de livres, revues, journaux, magazines ou autres écrits faisant partie des collections des bibliothèques, des musées accessibles au public, des services d’archives, des institutions dépositaires du patrimoine cinématographique ou sonore ou des établissements d’enseignement;
+- les oeuvres publiées sous la forme de livres, revues, journaux, magazines ou autres écrits faisant partie des collections des bibliothèques, des musées accessibles au public, des services d’archives, des institutions dépositaires du patrimoine cinématographique ou sonore ou des établissements d’enseignement;
 
-2. les oeuvres cinématographiques ou audiovisuelles et les phonogrammes faisant partie de ces collections ou qui ont été produits par des organismes de radiodiffusion de service public avant le 1 er janvier 2003 et qui font partie de leurs archives.
+- les oeuvres cinématographiques ou audiovisuelles et les phonogrammes faisant partie de ces collections ou qui ont été produits par des organismes de radiodiffusion de service public avant le 1 er janvier 2003 et qui font partie de leurs archives.
 
 (3)
 
@@ -91,21 +91,21 @@ S’il existe des éléments de preuve suggérant que des informations pertinent
 
 Les organismes visés à l’article 1er, paragraphe 1er doivent tenir un registre de leurs recherches diligentes comportant au moins les informations suivantes:
 
-1. les sources consultées et les résultats obtenus, et
+- les sources consultées et les résultats obtenus, et
 
-2. la date à laquelle la consultation a été opérée.
+- la date à laquelle la consultation a été opérée.
 
 (7)
 
 Les organismes visés à l’article 1er, paragraphe 1er communiquent au ministre ayant les droits d’auteur et les droits voisins dans ses attributions:
 
-1. les résultats des recherches diligentes que les organismes ont effectuées et qui ont permis de conclure qu’une oeuvre ou un phonogramme sont considérés comme des oeuvres orphelines;
+- les résultats des recherches diligentes que les organismes ont effectuées et qui ont permis de conclure qu’une oeuvre ou un phonogramme sont considérés comme des oeuvres orphelines;
 
-2. l’utilisation que ces organismes font d’oeuvres orphelines au sens de la présente loi;
+- l’utilisation que ces organismes font d’oeuvres orphelines au sens de la présente loi;
 
-3. toute modification, conformément à l’article 5, du statut d’oeuvre orpheline des oeuvres et phonogrammes utilisés par les organisations;
+- toute modification, conformément à l’article 5, du statut d’oeuvre orpheline des oeuvres et phonogrammes utilisés par les organisations;
 
-4. leur dénomination officielle, adresse postale, numéros de téléphone et de télécopieur et adresse de courrier électronique.
+- leur dénomination officielle, adresse postale, numéros de téléphone et de télécopieur et adresse de courrier électronique.
 
 (8)
 
@@ -156,9 +156,9 @@ Utilisations autorisées des oeuvres orphelines.
 
 Les organismes visés à l’article 1er, paragraphe 1er sont autorisés:
 
-1. à mettre les oeuvres orphelines présentes dans leurs collections à disposition du public sans être tenus au respect des articles 4, 44 , 53 et 56 bis de la loi modifiée du 18 avril 2001 sur les droits d’auteur, les droits voisins et les bases de données;
+- à mettre les oeuvres orphelines présentes dans leurs collections à disposition du public sans être tenus au respect des articles 4, 44 , 53 et 56 bis de la loi modifiée du 18 avril 2001 sur les droits d’auteur, les droits voisins et les bases de données;
 
-2. à reproduire les oeuvres orphelines présentes dans leurs collections à des fins de numérisation, de mise à disposition, d’indexation, de catalogage, de préservation ou de restauration sans être tenus au respect des articles 3, 43 , 53 et 56 bis de la loi précitée du 18 avril 2001 .
+- à reproduire les oeuvres orphelines présentes dans leurs collections à des fins de numérisation, de mise à disposition, d’indexation, de catalogage, de préservation ou de restauration sans être tenus au respect des articles 3, 43 , 53 et 56 bis de la loi précitée du 18 avril 2001 .
 
 (2)
 

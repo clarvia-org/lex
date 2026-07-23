@@ -55,15 +55,15 @@ Les affaires pendantes devant la Cour constitutionnelle, la Cour de cassation et
 
 Pour les besoins de l’application de la procédure prévue aux articles 191 à 228 du Nouveau Code de procédure civile, les règles suivantes s’appliquent :
 
-1. au plus tard quarante-huit heures avant l’audience fixée pour les plaidoiries, la juridiction saisie informe les mandataires des parties par la voie électronique de la composition du siège ;
+- au plus tard quarante-huit heures avant l’audience fixée pour les plaidoiries, la juridiction saisie informe les mandataires des parties par la voie électronique de la composition du siège ;
 
-2. au plus tard quarante-huit heures avant l’audience fixée pour les plaidoiries, les mandataires des parties font connaître par écrit, y compris la voie électronique, à la juridiction saisie le nombre de corps de conclusions échangés et s’ils entendent plaider l’affaire. Dans ce cas, les plaidoiries sont remises à horaire fixe ;
+- au plus tard quarante-huit heures avant l’audience fixée pour les plaidoiries, les mandataires des parties font connaître par écrit, y compris la voie électronique, à la juridiction saisie le nombre de corps de conclusions échangés et s’ils entendent plaider l’affaire. Dans ce cas, les plaidoiries sont remises à horaire fixe ;
 
-3. à défaut d’avoir sollicité d’être entendus en leurs plaidoiries, les mandataires des parties sont réputés avoir réitéré leurs moyens à l’audience de plaidoiries et ils sont dispensés de se présenter à l’audience fixée à cette fin. Ils déposent leurs fardes de procédure au greffe de la juridiction saisie dans les deux jours ouvrables suivant celle-ci ;
+- à défaut d’avoir sollicité d’être entendus en leurs plaidoiries, les mandataires des parties sont réputés avoir réitéré leurs moyens à l’audience de plaidoiries et ils sont dispensés de se présenter à l’audience fixée à cette fin. Ils déposent leurs fardes de procédure au greffe de la juridiction saisie dans les deux jours ouvrables suivant celle-ci ;
 
-4. par dérogation à l’article 226 du Nouveau Code de procédure civile , aucun rapport n’est fait ;
+- par dérogation à l’article 226 du Nouveau Code de procédure civile , aucun rapport n’est fait ;
 
-5. par dérogation à l’article 227 du Nouveau Code de procédure civile , l’audience de plaidoiries est toujours tenue par le président du siège seul, sinon par le magistrat par lui délégué seul, à charge pour lui de rendre compte à la juridiction saisie dans son délibéré. À l’issue de l’audience, les mandataires des parties sont informés par la voie électronique de la composition de la juridiction et de la date du prononcé.
+- par dérogation à l’article 227 du Nouveau Code de procédure civile , l’audience de plaidoiries est toujours tenue par le président du siège seul, sinon par le magistrat par lui délégué seul, à charge pour lui de rendre compte à la juridiction saisie dans son délibéré. À l’issue de l’audience, les mandataires des parties sont informés par la voie électronique de la composition de la juridiction et de la date du prononcé.
 
 En complément des communications par la voie électronique visées aux points 1° et 5°, le greffe adresse aux mandataires des parties une copie de cette communication par écrit. Les mêmes règles dérogatoires s’appliquent par analogie à la procédure en instance d’appel telle que régie par les articles 598 à 611 du Nouveau Code de procédure civile.
 
@@ -81,9 +81,9 @@ Par dérogation aux articles 18 et 46 de la loi précitée du 18 février 1885, 
 
 Est suspendue l’exécution :
 
-1. des déguerpissements ordonnés en matière de bail à usage d’habitation ;
+- des déguerpissements ordonnés en matière de bail à usage d’habitation ;
 
-2. des déguerpissements pris en vertu de l’article 253 du Code civil et de l’article 1007-45 du Nouveau Code de procédure civile .
+- des déguerpissements pris en vertu de l’article 253 du Code civil et de l’article 1007-45 du Nouveau Code de procédure civile .
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -107,9 +107,9 @@ Par dérogation à l’article 55 du Code civil, les déclarations de naissance 
 
 La loi du 25 novembre 2020 portant modification : 1° de la loi modifiée du 23 septembre 2020 portant des mesures concernant la tenue de réunions dans les sociétés et dans les autres personnes morales 2° de la loi du 20 juin 2020 portant 1° prorogation de mesures concernant a) la tenue d’audiences publiques pendant l’état de crise devant les juridictions dans les affaires soumises à la procédure écrite ; b) certaines adaptations de la procédure de référé exceptionnel devant le juge aux affaires familiales ; c) la suspension des délais en matière juridictionnelle, et d) d’autres modalités procédurales ; 2° dérogation temporaire aux articles 74 à 76 et 83 de la loi modifiée du 9 décembre 1976 relative à l’organisation du notariat ; 3° dérogation temporaire aux articles 15 et 16 de la loi modifiée du 10 août 1991 sur la profession d’avocat ; et 4° modification de l’article 89 de la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise et portant suspension du délai prévu à l’article 55 du Code civil est modifiée comme suit :
 
-1. À l’intitulé, les termes et portant suspension du délai prévu à l’article 55 du Code civil sont supprimés.
+- À l’intitulé, les termes et portant suspension du délai prévu à l’article 55 du Code civil sont supprimés.
 
-2. L’article III, est abrogé. »
+- L’article III, est abrogé. »
 
 <a id="art-9"></a>
 ## Art. 9.

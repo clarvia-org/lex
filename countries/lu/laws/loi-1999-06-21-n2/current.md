@@ -44,15 +44,15 @@ Tout recours, en matière contentieuse, introduit devant le tribunal administrat
 
 La requête, qui porte date, contient:
 
-1. les noms, prénoms et domicile du requérant,
+- les noms, prénoms et domicile du requérant,
 
-2. la désignation de la décision contre laquelle le recours est dirigé,
+- la désignation de la décision contre laquelle le recours est dirigé,
 
-3. l’exposé sommaire des faits et des moyens invoqués,
+- l’exposé sommaire des faits et des moyens invoqués,
 
-4. l’objet de la demande, et
+- l’objet de la demande, et
 
-5. le relevé des pièces dont le requérant entend se servir.
+- le relevé des pièces dont le requérant entend se servir.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -299,17 +299,17 @@ Le recours est introduit sous forme de requête.
 
 La requête écrite et datée contient :
 
-1. les noms, prénoms et domicile du requérant ;
+- les noms, prénoms et domicile du requérant ;
 
-2. l’objet de la demande ;
+- l’objet de la demande ;
 
-3. la désignation et la date de la décision contre laquelle le recours est dirigé ;
+- la désignation et la date de la décision contre laquelle le recours est dirigé ;
 
-4. l’exposé sommaire des faits et des moyens invoqués ;
+- l’exposé sommaire des faits et des moyens invoqués ;
 
-5. les noms, prénoms et domicile des témoins que le requérant entend appeler le cas échéant ; et
+- les noms, prénoms et domicile des témoins que le requérant entend appeler le cas échéant ; et
 
-6. le relevé des pièces dont le requérant entend se servir.
+- le relevé des pièces dont le requérant entend se servir.
 
 (4)
 
@@ -838,28 +838,34 @@ Lorsque l’Autorité de concurrence interjette appel sans constituer avocat, la
 
 La loi du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif est modifiée comme suit:
 
-1. Au paragraphe (1 er ) de l’article 7, les termes La Cour administrative sont remplacés par les termes Le tribunal administratif .
+- Au paragraphe (1 er ) de l’article 7, les termes La Cour administrative sont remplacés par les termes Le tribunal administratif .
 
-2. L’article 7, paragraphe (3) est supprimé.
+- L’article 7, paragraphe (3) est supprimé.
 
-3. Le dernier paragraphe actuel de l’article 7 devient le paragraphe (3) et est remplacé par le texte suivant: «(3) La décision prononçant l’annulation est publiée de la même manière que l’acte administratif à caractère réglementaire attaqué, dès qu’elle est coulée en force de chose jugée. L’annulation a un caractère absolu, à partir du jour où elle est coulée en force de chose jugée.»
+- Le dernier paragraphe actuel de l’article 7 devient le paragraphe (3) et est remplacé par le texte suivant: «(3) La décision prononçant l’annulation est publiée de la même manière que l’acte administratif à caractère réglementaire attaqué, dès qu’elle est coulée en force de chose jugée. L’annulation a un caractère absolu, à partir du jour où elle est coulée en force de chose jugée.»
 
-4. Un paragraphe (4) nouveau est ajouté à l’article 7, libellé comme suit: «Sauf disposition contraire de la loi, appel peut être interjeté devant la Cour administrative contre les décisions visées au paragraphe 1er.»
+- Un paragraphe (4) nouveau est ajouté à l’article 7, libellé comme suit: «Sauf disposition contraire de la loi, appel peut être interjeté devant la Cour administrative contre les décisions visées au paragraphe 1er.»
 
-5. L’article 8, paragraphe (3), point 5 est supprimé.
+- L’article 8, paragraphe (3), point 5 est supprimé.
 
-6. A l’article 68, alinéa 2, le terme premier est supprimé.
+- A l’article 68, alinéa 2, le terme premier est supprimé.
 
-7. L’article 98, alinéa (2) est abrogé.
+- L’article 98, alinéa (2) est abrogé.
 
-8. L’article 99 est abrogé.
+- L’article 99 est abrogé.
 
-9. A l’article 100, alinéa (2), les termes Par dérogation à l’alinéa 1er, sont supprimés.
+- A l’article 100, alinéa (2), les termes Par dérogation à l’alinéa 1er, sont supprimés.
 
 <a id="art-62"></a>
 ## Art. 62.
 
-L’article 10 de la loi modifiée du 13 mars 1993 relative à l’exécution en droit luxembourgeois de la directive n° 89/665 du Conseil du 21 décembre 1989 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des procédures de recours en matière de marchés publics est remplacé par la disposition suivante: «Art. 10. L’ordonnance est exécutoire dès sa notification. Elle n’est susceptible d’aucune voie de recours. Elle cesse ses effets lorsque le tribunal a définitivement statué au fond. Le juge qui a connu de la demande d’effet suspensif du recours ne peut plus siéger au fond.»
+L’article 10 de la loi modifiée du 13 mars 1993 relative à l’exécution en droit luxembourgeois de la directive n° 89/665 du Conseil du 21 décembre 1989 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des procédures de recours en matière de marchés publics est remplacé par la disposition suivante:
+
+«Art. 10.
+
+L’ordonnance est exécutoire dès sa notification. Elle n’est susceptible d’aucune voie de recours. Elle cesse ses effets lorsque le tribunal a définitivement statué au fond.
+
+Le juge qui a connu de la demande d’effet suspensif du recours ne peut plus siéger au fond.»
 
 <a id="art-63"></a>
 ## Art. 63.
@@ -871,33 +877,35 @@ A l’article 1er, alinéa 2 de la loi du 27 août 1977 concernant le statut des
 
 La loi générale des impôts est modifée comme suit:
 
-1. Au § 84 A0 le délai de 6 semaines est porté à 3 mois.
+- Au § 84 A0 le délai de 6 semaines est porté à 3 mois.
 
-2. Les § 107 alinéa 7, 107a et 21o alinéa 3 A0 sont abrogés. Les dispositions de la loi générale des impôts relatives à la contrainte par corps sont abrogées.
+- Les § 107 alinéa 7, 107a et 21o alinéa 3 A0 sont abrogés. Les dispositions de la loi générale des impôts relatives à la contrainte par corps sont abrogées.
 
-3. Au § 131 A0 sont intercalés entre les termes le directeur de l’Administration des contributions directes et accordera , les termes ou son délégué .
+- Au § 131 A0 sont intercalés entre les termes le directeur de l’Administration des contributions directes et accordera , les termes ou son délégué .
 
-4. Le § 228 A0 est modifié comme suit:
+- Le § 228 A0 est modifié comme suit:
 
-1. La référence au § 168 est supprimée.
+  - La référence au § 168 est supprimée.
 
-2. La première phrase est complétée comme suit: ou son délégué .
+  - La première phrase est complétée comme suit: ou son délégué .
 
-5. Le § 237 A0 est modifié comme suit:
+- Le § 237 A0 est modifié comme suit:
 
-1. La référence au § 168 est supprimée.
+  - La référence au § 168 est supprimée.
 
-2. Le terme Finanzbehörden est remplacé par celui de Steuerbehörden .
+  - Le terme Finanzbehörden est remplacé par celui de Steuerbehörden .
 
-3. Le paragraphe est complété comme suit: Die Frist beträgt drei Monate.
+  - Le paragraphe est complété comme suit: Die Frist beträgt drei Monate.
 
-6. L’alinéa 1 du § 245 est rétabli avec le teneur suivante:
+- L’alinéa 1 du § 245 est rétabli avec le teneur suivante:
 
 «Le délai de recours est de trois mois pour les réclamations (§ 228 A0) et de trois mois au contentieux des actes détachables (§ 237 A0).»
 
-L’alinéa 2 du § 245 A0 est rétabli dans sa version antérieure: «Lorsque le dernier jour du délai est un samedi, un dimanche, un jour férié légal ou un jour férié de rechange, ce délai est prorogé jusqu’au prochain jour ouvrable.»
+L’alinéa 2 du § 245 A0 est rétabli dans sa version antérieure:
 
-1. Les alinéas 1 et 4 du § 299 A0 sont abrogés.
+«Lorsque le dernier jour du délai est un samedi, un dimanche, un jour férié légal ou un jour férié de rechange, ce délai est prorogé jusqu’au prochain jour ouvrable.»
+
+- Les alinéas 1 et 4 du § 299 A0 sont abrogés.
 
 Dans l’alinéa 2, la référence au § 94 Absätze 1 und 2 est supprimée.
 
@@ -906,9 +914,9 @@ Dans l’alinéa 2, la référence au § 94 Absätze 1 und 2 est supprimée.
 
 L’article 7 de la loi du 1er mars 1952 modifiant certaines dispositions relatives aux impôts directs est modifié comme suit:
 
-1. Au deuxième alinéa, le terme réclamation est remplacé par celui de décision .
+- Au deuxième alinéa, le terme réclamation est remplacé par celui de décision .
 
-2. L’article est complété comme suit: En matière de ventilation (§ 388 A0) le recours est porté directement devant le tribunal.
+- L’article est complété comme suit: En matière de ventilation (§ 388 A0) le recours est porté directement devant le tribunal.
 
 <a id="art-66"></a>
 ## Art. 66.

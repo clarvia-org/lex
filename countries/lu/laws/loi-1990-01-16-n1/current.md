@@ -55,17 +55,17 @@ Aux fins de la présente loi les accessoires sont traités comme des dispositifs
 
 Aux fins de la présente loi on entend par:
 
-1. dispositif médical: tout instrument, appareil, équipement, matière ou autre article, utilisé seul ou en association, y compris le logiciel nécessaire pour le bon fonctionnement de celui-ci, destiné par le fabricant à être utilisé chez l’homme ou l’animal à des fins: et dont l’action principale voulue dans ou sur le corps humain ou animal n’est pas obtenue par des moyens pharmacologiques ou immunologiques, mais dont la fonction peut être assistée par de tels moyens;
+- dispositif médical: tout instrument, appareil, équipement, matière ou autre article, utilisé seul ou en association, y compris le logiciel nécessaire pour le bon fonctionnement de celui-ci, destiné par le fabricant à être utilisé chez l’homme ou l’animal à des fins: et dont l’action principale voulue dans ou sur le corps humain ou animal n’est pas obtenue par des moyens pharmacologiques ou immunologiques, mais dont la fonction peut être assistée par de tels moyens;
 
-- de diagnostic, prévention, contrôle, traitement ou atténuation d’une maladie,
+  - de diagnostic, prévention, contrôle, traitement ou atténuation d’une maladie,
 
-- de diagnostic, contrôle, traitement, atténuation ou compensation d’une blessure ou d’un handicap,
+  - de diagnostic, contrôle, traitement, atténuation ou compensation d’une blessure ou d’un handicap,
 
-- d’étude ou de remplacement ou modification de l’anatomie ou d’un processus physiologique,
+  - d’étude ou de remplacement ou modification de l’anatomie ou d’un processus physiologique,
 
-- de maîtrise de la conception,
+  - de maîtrise de la conception,
 
-2. accessoire: tout article qui, bien que n’étant pas un dispositif, est destiné spécifiquement par son fabricant à être utilisé avec un dispositif pour permettre l’utilisation dudit dispositif conformément aux intentions du fabricant de ce dispositif;
+- accessoire: tout article qui, bien que n’étant pas un dispositif, est destiné spécifiquement par son fabricant à être utilisé avec un dispositif pour permettre l’utilisation dudit dispositif conformément aux intentions du fabricant de ce dispositif;
 
 (4)
 
@@ -76,7 +76,7 @@ La présente loi s’applique également aux dispositifs médicaux de diagnostic
 
 Un règlement grand-ducal pris sur avis du Conseil d’Etat répartira les dispositifs médicaux en différentes classes, notamment suivant leur mode d’utilisation et leur degré de complexité, ainsi que suivant le risque que leur utilisation comporte pour le personnel et pour le patient.
 
-Les règles dont question à l’article 1er peuvent différer pour chaque classe d’ dispositifs médicaux.
+Les règles dont question à l’article 1er peuvent différer pour chaque classe d’ dispositifs médicaux .
 
 <a id="art-2-1"></a>
 ## Art. 2-1.

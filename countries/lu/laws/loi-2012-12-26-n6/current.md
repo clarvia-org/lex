@@ -31,47 +31,47 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens de la présente loi, on entend par:
 
-1. courrier transfrontière – le courrier en provenance ou à destination d’un autre Etat membre de l’Union européenne ou d’un pays tiers;
+- courrier transfrontière – le courrier en provenance ou à destination d’un autre Etat membre de l’Union européenne ou d’un pays tiers;
 
-2. distribution - le processus allant du tri au centre de distribution jusqu’à la remise des envois postaux aux destinataires;
+- distribution - le processus allant du tri au centre de distribution jusqu’à la remise des envois postaux aux destinataires;
 
-3. envoi à valeur déclarée – un service consistant à assurer l’envoi postal à concurrence de la valeur déclarée par l’expéditeur en cas de perte, vol ou détérioration;
+- envoi à valeur déclarée – un service consistant à assurer l’envoi postal à concurrence de la valeur déclarée par l’expéditeur en cas de perte, vol ou détérioration;
 
-4. envoi de correspondance – une communication écrite sur un support physique quelconque qui doit être acheminée et remise à l’adresse indiquée par l’expéditeur sur l’envoi lui-même ou sur son conditionnement. Les livres, catalogues, journaux et périodiques ne sont pas considérés comme des envois de correspondance;
+- envoi de correspondance – une communication écrite sur un support physique quelconque qui doit être acheminée et remise à l’adresse indiquée par l’expéditeur sur l’envoi lui-même ou sur son conditionnement. Les livres, catalogues, journaux et périodiques ne sont pas considérés comme des envois de correspondance;
 
-5. envoi postal – un envoi portant une adresse sous la forme définitive dans laquelle il doit être acheminé par le prestataire de services postaux. Il s’agit, en plus des envois de correspondance, par exemple de livres, de catalogues, de journaux, de périodiques et de colis postaux contenant des marchandises avec ou sans valeur commerciale;
+- envoi postal – un envoi portant une adresse sous la forme définitive dans laquelle il doit être acheminé par le prestataire de services postaux. Il s’agit, en plus des envois de correspondance, par exemple de livres, de catalogues, de journaux, de périodiques et de colis postaux contenant des marchandises avec ou sans valeur commerciale;
 
-6. envoi recommandé – un service consistant à garantir forfaitairement contre les risques de perte, vol ou détérioration et fournissant à l’expéditeur, le cas échéant à sa demande, une preuve du dépôt de l’envoi postal et/ou de sa remise au destinataire;
+- envoi recommandé – un service consistant à garantir forfaitairement contre les risques de perte, vol ou détérioration et fournissant à l’expéditeur, le cas échéant à sa demande, une preuve du dépôt de l’envoi postal et/ou de sa remise au destinataire;
 
-7. exigences essentielles – les raisons générales de nature non économique qui peuvent amener un Etat membre à imposer des conditions pour la prestation de services postaux. Ces raisons sont la confidentialité de la correspondance, la sécurité du réseau en ce qui concerne le transport de matières dangereuses, le respect des conditions de travail et des régimes de sécurité sociale prévus par des dispositions législatives, réglementaires ou administratives et/ou par les conventions collectives négociées entre partenaires sociaux au niveau national, conformément au droit communautaire et à la législation nationale et, dans les cas justifiés, la protection des données, la protection de l’environnement et l’aménagement du territoire. La protection des données peut comprendre la protection des données à caractère personnel, la confidentialité des informations transmises ou stockées, ainsi que la protection de la vie privée;
+- exigences essentielles – les raisons générales de nature non économique qui peuvent amener un Etat membre à imposer des conditions pour la prestation de services postaux. Ces raisons sont la confidentialité de la correspondance, la sécurité du réseau en ce qui concerne le transport de matières dangereuses, le respect des conditions de travail et des régimes de sécurité sociale prévus par des dispositions législatives, réglementaires ou administratives et/ou par les conventions collectives négociées entre partenaires sociaux au niveau national, conformément au droit communautaire et à la législation nationale et, dans les cas justifiés, la protection des données, la protection de l’environnement et l’aménagement du territoire. La protection des données peut comprendre la protection des données à caractère personnel, la confidentialité des informations transmises ou stockées, ainsi que la protection de la vie privée;
 
-8. expéditeur – une personne physique ou morale qui est à l’origine des envois postaux;
+- expéditeur – une personne physique ou morale qui est à l’origine des envois postaux;
 
-9. frais terminaux – la rémunération du prestataire du service postal universel au titre de la distribution du courrier transfrontière entrant constitué par les envois postaux provenant d’un autre pays;
+- frais terminaux – la rémunération du prestataire du service postal universel au titre de la distribution du courrier transfrontière entrant constitué par les envois postaux provenant d’un autre pays;
 
-10. Institut – l’Institut Luxembourgeois de Régulation, en abrégé ILR;
+- Institut – l’Institut Luxembourgeois de Régulation, en abrégé ILR;
 
-11. levée – l’opération consistant pour un prestataire de services postaux à collecter les envois postaux;
+- levée – l’opération consistant pour un prestataire de services postaux à collecter les envois postaux;
 
-12. prestataire de services postaux - une entreprise qui fournit un ou plusieurs services postaux;
+- prestataire de services postaux - une entreprise qui fournit un ou plusieurs services postaux;
 
-13. prestataire du service postal universel - le prestataire de services postaux public ou privé chargé sur base de la présente loi d’assurer la totalité ou une partie du service postal universel et dont l’identité est communiquée à la Commission européenne;
+- prestataire du service postal universel - le prestataire de services postaux public ou privé chargé sur base de la présente loi d’assurer la totalité ou une partie du service postal universel et dont l’identité est communiquée à la Commission européenne;
 
-14. point d’accès - les installations physiques, notamment les boîtes aux lettres mises à la disposition du public soit sur la voie publique, soit dans les locaux du prestataire de services postaux, où les envois postaux peuvent être confiés au réseau postal par des expéditeurs;
+- point d’accès - les installations physiques, notamment les boîtes aux lettres mises à la disposition du public soit sur la voie publique, soit dans les locaux du prestataire de services postaux, où les envois postaux peuvent être confiés au réseau postal par des expéditeurs;
 
-15. réseau postal – l’ensemble de l’organisation et des moyens de toute nature mis en oeuvre par le prestataire du service postal universel, en vue notamment de:
+- réseau postal – l’ensemble de l’organisation et des moyens de toute nature mis en oeuvre par le prestataire du service postal universel, en vue notamment de:
 
-- la levée des envois postaux couverts par une obligation de service postal universel aux points d’accès sur l’ensemble du territoire,
+  - la levée des envois postaux couverts par une obligation de service postal universel aux points d’accès sur l’ensemble du territoire,
 
-- l’acheminement et le traitement de ces envois du point d’accès du réseau postal jusqu’au centre de distribution,
+  - l’acheminement et le traitement de ces envois du point d’accès du réseau postal jusqu’au centre de distribution,
 
-- la distribution à l’adresse indiquée sur l’envoi;
+  - la distribution à l’adresse indiquée sur l’envoi;
 
-16. services postaux – des services qui consistent en la levée, le tri, l’acheminement et la distribution des envois postaux;
+- services postaux – des services qui consistent en la levée, le tri, l’acheminement et la distribution des envois postaux;
 
-17. services prestés au tarif unitaire – les services postaux dont le tarif est établi dans les conditions générales du prestataire du service postal universel pour les envois postaux individuels;
+- services prestés au tarif unitaire – les services postaux dont le tarif est établi dans les conditions générales du prestataire du service postal universel pour les envois postaux individuels;
 
-18. utilisateur – toute personne physique ou morale bénéficiaire d’une prestation de service postal en tant qu’expéditeur ou destinataire.
+- utilisateur – toute personne physique ou morale bénéficiaire d’une prestation de service postal en tant qu’expéditeur ou destinataire.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -103,15 +103,15 @@ L’activité de fourniture de services postaux s’exerce librement.
 
 Toute prestation de services postaux est soumise au respect des exigences essentielles et aux règles suivantes:
 
-1. Garantir la sécurité des usagers, des personnels et des installations du prestataire de services postaux;
+- Garantir la sécurité des usagers, des personnels et des installations du prestataire de services postaux;
 
-2. Garantir la confidentialité des envois de correspondance et l’intégrité de leur contenu;
+- Garantir la confidentialité des envois de correspondance et l’intégrité de leur contenu;
 
-3. Assurer la protection des données à caractère personnel dont peut être dépositaire le prestataire de services postaux, ainsi que la protection de la vie privée des usagers de ces services;
+- Assurer la protection des données à caractère personnel dont peut être dépositaire le prestataire de services postaux, ainsi que la protection de la vie privée des usagers de ces services;
 
-4. Assurer la protection de l’environnement et respecter l’aménagement du territoire;
+- Assurer la protection de l’environnement et respecter l’aménagement du territoire;
 
-5. Respecter les obligations légales et conventionnelles applicables en matière de droit du travail et la législation de sécurité sociale en vigueur, sans préjudice des dispositions spécifiques applicables aux personnels ayant, le cas échéant, le statut de fonctionnaire.
+- Respecter les obligations légales et conventionnelles applicables en matière de droit du travail et la législation de sécurité sociale en vigueur, sans préjudice des dispositions spécifiques applicables aux personnels ayant, le cas échéant, le statut de fonctionnaire.
 
 (2)
 
@@ -250,9 +250,9 @@ Tout titulaire de l’autorisation prévue à l’article 7 proposant des machin
 
 Tout envoi distribué par un prestataire de services postaux doit porter une marque extérieure visible permettant:
 
-1. l’identification sans équivoque du ou des prestataires ayant traité l’envoi;
+- l’identification sans équivoque du ou des prestataires ayant traité l’envoi;
 
-2. l’identification de la date d’entrée dans le réseau du ou des prestataires en cause respectivement de la prise en charge de l’envoi par le ou les prestataires - au jour près.
+- l’identification de la date d’entrée dans le réseau du ou des prestataires en cause respectivement de la prise en charge de l’envoi par le ou les prestataires - au jour près.
 
 (2)
 
@@ -362,11 +362,11 @@ Toute dérogation à la présente est notifiée par l’Institut à la Commissio
 
 La prestation du service postal universel doit répondre aux exigences suivantes:
 
-1. être disponible sans discrimination, sous quelque forme que ce soit, notamment pour des raisons d’ordre politique, religieux ou idéologique;
+- être disponible sans discrimination, sous quelque forme que ce soit, notamment pour des raisons d’ordre politique, religieux ou idéologique;
 
-2. ne pas être interrompue ou arrêtée, sauf cas de force majeure;
+- ne pas être interrompue ou arrêtée, sauf cas de force majeure;
 
-3. évoluer en fonction de l’environnement technique, économique et social ainsi que des besoins des utilisateurs.
+- évoluer en fonction de l’environnement technique, économique et social ainsi que des besoins des utilisateurs.
 
 (2)
 
@@ -402,11 +402,11 @@ La mission de fourniture du service postal universel est confiée par l’Instit
 
 Avant :
 
-1. l’expiration du délai fixé à l’article 45, paragraphe 2, ou
+- l’expiration du délai fixé à l’article 45, paragraphe 2, ou
 
-2. la fin d’une mission de fourniture du service postal universel confiée en vertu de l’article 20, paragraphe 4, ou en vertu du présent paragraphe, ou
+- la fin d’une mission de fourniture du service postal universel confiée en vertu de l’article 20, paragraphe 4, ou en vertu du présent paragraphe, ou
 
-3. la fin d’une mission de service public imposée par l’Institut à un prestataire en vertu de l’article 21,
+- la fin d’une mission de service public imposée par l’Institut à un prestataire en vertu de l’article 21,
 
 l’Institut procède à une consultation publique du marché. La consultation publique a pour objet de vérifier si un ou plusieurs prestataires de services postaux manifestent leur intérêt à effectuer la fourniture de la mission de service postal universel en question pour une durée déterminée.
 
@@ -449,9 +449,9 @@ Le coût net correspond à la différence entre le coût supporté par le presta
 
 Le calcul du coût net se fonde sur les coûts imputables aux postes suivants:
 
-1. aux éléments de services ne pouvant être fournis qu’à perte ou à des coûts s’écartant des conditions normales d’exploitation commerciale;
+- aux éléments de services ne pouvant être fournis qu’à perte ou à des coûts s’écartant des conditions normales d’exploitation commerciale;
 
-2. aux utilisateurs finals ou groupes d’utilisateurs finals particuliers qui, compte tenu du coût de la fourniture du service mentionné, des recettes obtenues et de l’uniformisation des prix éventuellement imposée, ne peuvent être servis qu’à perte ou à des coûts s’écartant des conditions commerciales normales.
+- aux utilisateurs finals ou groupes d’utilisateurs finals particuliers qui, compte tenu du coût de la fourniture du service mentionné, des recettes obtenues et de l’uniformisation des prix éventuellement imposée, ne peuvent être servis qu’à perte ou à des coûts s’écartant des conditions commerciales normales.
 
 (3)
 
@@ -482,23 +482,23 @@ Le prestataire du service postal universel édite au moins une fois par an sous 
 
 Cette publication contient au moins:
 
-1. les conditions générales de fourniture des services offerts dans le cadre du service postal universel;
+- les conditions générales de fourniture des services offerts dans le cadre du service postal universel;
 
-2. la liste des prix en vigueur de tous les services offerts dans le cadre du service postal universel;
+- la liste des prix en vigueur de tous les services offerts dans le cadre du service postal universel;
 
-3. les moyens d’affranchissement admis en dehors des timbres-poste;
+- les moyens d’affranchissement admis en dehors des timbres-poste;
 
-4. les durées garanties d’acheminement pour les différents services offerts dans le cadre du service postal universel;
+- les durées garanties d’acheminement pour les différents services offerts dans le cadre du service postal universel;
 
-5. le détail des garanties forfaitaires ou individuelles rattachées à certains services;
+- le détail des garanties forfaitaires ou individuelles rattachées à certains services;
 
-6. un relevé géographique de toutes les boîtes aux lettres avec indication des plages horaires de levée;
+- un relevé géographique de toutes les boîtes aux lettres avec indication des plages horaires de levée;
 
-7. un relevé des locaux accessibles au public, avec indication des adresses et des heures d’ouverture;
+- un relevé des locaux accessibles au public, avec indication des adresses et des heures d’ouverture;
 
-8. l’adresse du service de réclamation du prestataire du service postal universel ainsi que la procédure à suivre et suivie en cas de réclamation;
+- l’adresse du service de réclamation du prestataire du service postal universel ainsi que la procédure à suivre et suivie en cas de réclamation;
 
-9. l’accord de l’Institut qui déclare avoir approuvé la forme de la publication.
+- l’accord de l’Institut qui déclare avoir approuvé la forme de la publication.
 
 (3)
 
@@ -612,17 +612,17 @@ Le prestataire du service postal universel tient dans sa comptabilité interne d
 
 Sans préjudice du paragraphe 3, la comptabilité visée au paragraphe 1er répartit les coûts comme suit:
 
-1. les coûts qui peuvent être directement affectés à un service ou un produit particulier le sont;
+- les coûts qui peuvent être directement affectés à un service ou un produit particulier le sont;
 
-2. les coûts communs, c’est-à-dire ceux qui ne peuvent pas être directement affectés à un service ou produit particulier, sont répartis comme suit:
+- les coûts communs, c’est-à-dire ceux qui ne peuvent pas être directement affectés à un service ou produit particulier, sont répartis comme suit:
 
-1. chaque fois que cela est possible, les coûts communs sont répartis sur la base d’une analyse directe de l’origine des coûts eux-mêmes;
+  - chaque fois que cela est possible, les coûts communs sont répartis sur la base d’une analyse directe de l’origine des coûts eux-mêmes;
 
-2. lorsqu’une analyse directe n’est pas possible, les catégories de coûts communs sont affectées sur la base d’un rapport indirect à une autre catégorie de coûts ou à un autre groupe de catégories de coûts pour lesquels une affectation ou imputation directe est possible; le rapport indirect est fondé sur des structures de coût comparables;
+  - lorsqu’une analyse directe n’est pas possible, les catégories de coûts communs sont affectées sur la base d’un rapport indirect à une autre catégorie de coûts ou à un autre groupe de catégories de coûts pour lesquels une affectation ou imputation directe est possible; le rapport indirect est fondé sur des structures de coût comparables;
 
-3. lorsqu’il n’y a pas moyen de procéder à une imputation directe ou indirecte, la catégorie de coûts est imputée sur la base d’un facteur de répartition général calculé en établissant le rapport entre, d’une part, toutes les dépenses directement ou indirectement affectées ou imputées à chacun des services réservés et, d’autre part, toutes les dépenses directement ou indirectement affectées ou imputées aux autres services;
+  - lorsqu’il n’y a pas moyen de procéder à une imputation directe ou indirecte, la catégorie de coûts est imputée sur la base d’un facteur de répartition général calculé en établissant le rapport entre, d’une part, toutes les dépenses directement ou indirectement affectées ou imputées à chacun des services réservés et, d’autre part, toutes les dépenses directement ou indirectement affectées ou imputées aux autres services;
 
-4. les coûts communs nécessaires pour assurer à la fois les services universels et non universels sont imputés de la manière qu’il convient; les mêmes facteurs de coût sont appliqués aux services tant universels que non universels. Elle est soumise à l’approbation de l’Institut.
+  - les coûts communs nécessaires pour assurer à la fois les services universels et non universels sont imputés de la manière qu’il convient; les mêmes facteurs de coût sont appliqués aux services tant universels que non universels. Elle est soumise à l’approbation de l’Institut.
 
 (3)
 
@@ -658,17 +658,17 @@ L’Institut représente le Luxembourg au comité institué par l’article 21 d
 
 En matière de services postaux, l’Institut a pour mission:
 
-1. de veiller au respect des obligations de service postal universel imposées au prestataire du service postal universel;
+- de veiller au respect des obligations de service postal universel imposées au prestataire du service postal universel;
 
-2. d’assurer:
+- d’assurer:
 
-- la surveillance du marché des services postaux;
+  - la surveillance du marché des services postaux;
 
-- le maintien d’un service postal universel de qualité;
+  - le maintien d’un service postal universel de qualité;
 
-- la protection des usagers en matière de services postaux;
+  - la protection des usagers en matière de services postaux;
 
-- l’information, notamment à l’égard des organismes nationaux, internationaux et communautaires des opérateurs et utilisateurs de services postaux.
+  - l’information, notamment à l’égard des organismes nationaux, internationaux et communautaires des opérateurs et utilisateurs de services postaux.
 
 <a id="art-35"></a>
 ## Art. 35.
@@ -690,25 +690,25 @@ En cas d’opposition à la mesure envisagée, l’Institut renonce à cette mes
 
 Dans le cadre de sa mission de surveillance du marché postal, l’Institut:
 
-1. Etablit annuellement un rapport sur la qualité du service postal universel sur base d’un contrôle de performances de qualité du prestataire du service postal universel désigné conformément à l’article 20, 21 ou 45 paragraphe 2, et du prestataire ayant des obligations de fourniture du service postal universel dans son autorisation. Ce rapport, qui peut contenir des recommandations, est transmis au Gouvernement et à la Chambre des Députés avant d’être publié par l’Institut. Les frais encourus par l’Institut pour l’établissement du rapport sont à charge du prestataire du service postal universel désigné. En cas d’exécution défaillante du service postal universel dûment constatée l’Institut est en droit d’imposer des mesures correctrices au prestataire en cause.
+- Etablit annuellement un rapport sur la qualité du service postal universel sur base d’un contrôle de performances de qualité du prestataire du service postal universel désigné conformément à l’article 20, 21 ou 45 paragraphe 2, et du prestataire ayant des obligations de fourniture du service postal universel dans son autorisation. Ce rapport, qui peut contenir des recommandations, est transmis au Gouvernement et à la Chambre des Députés avant d’être publié par l’Institut. Les frais encourus par l’Institut pour l’établissement du rapport sont à charge du prestataire du service postal universel désigné. En cas d’exécution défaillante du service postal universel dûment constatée l’Institut est en droit d’imposer des mesures correctrices au prestataire en cause.
 
-2. Approuve la forme des publications imposées aux prestataires du service postal.
+- Approuve la forme des publications imposées aux prestataires du service postal.
 
-3. Le cas échéant, approuve et certifie conforme le système interne de comptabilité analytique du prestataire du service postal universel désigné conformément à l’article 20, 21 ou 45 paragraphe 2. Cette approbation et cette certification se font sur base d’un rapport d’un organisme compétent, indépendant de l’exploitant et commandité par l’Institut. Une déclaration attestant la conformité du système interne de comptabilité analytique des prestataires d’un service postal universel aux exigences de la présente loi est publiée biennalement par l’Institut. Les frais encourus par l’Institut pour l’établissement du rapport sont à charge du prestataire du service postal universel désigné.
+- Le cas échéant, approuve et certifie conforme le système interne de comptabilité analytique du prestataire du service postal universel désigné conformément à l’article 20, 21 ou 45 paragraphe 2. Cette approbation et cette certification se font sur base d’un rapport d’un organisme compétent, indépendant de l’exploitant et commandité par l’Institut. Une déclaration attestant la conformité du système interne de comptabilité analytique des prestataires d’un service postal universel aux exigences de la présente loi est publiée biennalement par l’Institut. Les frais encourus par l’Institut pour l’établissement du rapport sont à charge du prestataire du service postal universel désigné.
 
-4. Approuve le plan de répartition des points d’accès au réseau du prestataire du service universel désigné conformément à l’article 20, 21 ou 45 paragraphe 2 ainsi que la plage des horaires de levée appliqués.
+- Approuve le plan de répartition des points d’accès au réseau du prestataire du service universel désigné conformément à l’article 20, 21 ou 45 paragraphe 2 ainsi que la plage des horaires de levée appliqués.
 
-5. Arrête la définition du premier échelon de poids des envois postaux du service postal universel ainsi que le tarif appliqué à cet échelon par le prestataire du service postal universel désigné conformément à l’article 20, 21 ou 45 paragraphe 2, et conformément aux règles déterminées au titre VII.
+- Arrête la définition du premier échelon de poids des envois postaux du service postal universel ainsi que le tarif appliqué à cet échelon par le prestataire du service postal universel désigné conformément à l’article 20, 21 ou 45 paragraphe 2, et conformément aux règles déterminées au titre VII.
 
-6. Surveille les accords sur les frais terminaux négociés par les prestataires d’un service postal universel. Cette surveillance se limite au contrôle du respect des principes énoncés à l’article 31.
+- Surveille les accords sur les frais terminaux négociés par les prestataires d’un service postal universel. Cette surveillance se limite au contrôle du respect des principes énoncés à l’article 31.
 
-7. Vérifie, le cas échéant, l’application par le prestataire du service postal de normes techniques contraignantes dans son secteur. Si ces normes touchent directement aux intérêts des utilisateurs, référence doit en être faite dans toute publication destinée à l’utilisateur.
+- Vérifie, le cas échéant, l’application par le prestataire du service postal de normes techniques contraignantes dans son secteur. Si ces normes touchent directement aux intérêts des utilisateurs, référence doit en être faite dans toute publication destinée à l’utilisateur.
 
-8. Tient le registre des marques d’identification des différents prestataires de services postaux telles que prévues à l’article 12 et le registre des machines d’affranchissement approuvées par les prestataires de services postaux conformément à l’article 11. Ces registres sont accessibles au public.
+- Tient le registre des marques d’identification des différents prestataires de services postaux telles que prévues à l’article 12 et le registre des machines d’affranchissement approuvées par les prestataires de services postaux conformément à l’article 11. Ces registres sont accessibles au public.
 
-9. Etablit une procédure de gestion des envois postaux déclarés non distribuables par les prestataires d’un service postal. Dans le cadre de cette procédure les fonctionnaires assermentés de l’Institut ne sont autorisés à ouvrir ces envois postaux que pour en déterminer l’ayant droit.
+- Etablit une procédure de gestion des envois postaux déclarés non distribuables par les prestataires d’un service postal. Dans le cadre de cette procédure les fonctionnaires assermentés de l’Institut ne sont autorisés à ouvrir ces envois postaux que pour en déterminer l’ayant droit.
 
-10. Homologue les vignettes à utiliser par les utilisateurs dans le cadre de l’article 13, paragraphe 2.
+- Homologue les vignettes à utiliser par les utilisateurs dans le cadre de l’article 13, paragraphe 2.
 
 Les dispositions de l’article 7 s’appliquent par analogie quant à la procédure à suivre et quant aux délais à respecter pour les approbations requises en vertu des points b), c), d), e) et j).
 
@@ -829,21 +829,21 @@ En cas de non-communication par un prestataire de services postaux, dans le dél
 
 Lorsque l’Institut constate un manquement aux obligations qui découlent :
 
-1. de l’article 5, paragraphe 2, de l’article 6, paragraphes 1 er et 2, de l’article 7, paragraphes 1 er et 2, de l’article 10, de l’article 11, paragraphes 2 et 4, de l’article 12, de l’article 13, paragraphe 3, de l’article 14, paragraphe 3, de l’article 15, paragraphe 4, de l’article 17, paragraphes 1 er , 2 et 4, de l’article 18, de l’article 24, de l’article 26, paragraphes 2 et 3, de l’article 28, de l’article 29, de l’article 30, de l’article 31, troisième tiret, de l’article 32, paragraphes 1 er , 2, 3, 4 et 5, de l’article 37 de la présente loi ou des mesures prises en exécution de ces articles, ou
+- de l’article 5, paragraphe 2, de l’article 6, paragraphes 1 er et 2, de l’article 7, paragraphes 1 er et 2, de l’article 10, de l’article 11, paragraphes 2 et 4, de l’article 12, de l’article 13, paragraphe 3, de l’article 14, paragraphe 3, de l’article 15, paragraphe 4, de l’article 17, paragraphes 1 er , 2 et 4, de l’article 18, de l’article 24, de l’article 26, paragraphes 2 et 3, de l’article 28, de l’article 29, de l’article 30, de l’article 31, troisième tiret, de l’article 32, paragraphes 1 er , 2, 3, 4 et 5, de l’article 37 de la présente loi ou des mesures prises en exécution de ces articles, ou
 
-2. du règlement de l’Institut pris en vertu de l’article 9 de la présente loi, ou
+- du règlement de l’Institut pris en vertu de l’article 9 de la présente loi, ou
 
-3. de l’article 4, paragraphes 1 er , 2, 3, 5 et 7, de l’article 5, paragraphe 1 er , de l’article 6, paragraphes 5 et 6 du règlement (UE) 2018/644 du Parlement européen et du Conseil du 18 avril 2018 relatif aux services de livraison transfrontière de colis,
+- de l’article 4, paragraphes 1 er , 2, 3, 5 et 7, de l’article 5, paragraphe 1 er , de l’article 6, paragraphes 5 et 6 du règlement (UE) 2018/644 du Parlement européen et du Conseil du 18 avril 2018 relatif aux services de livraison transfrontière de colis,
 
 il peut frapper tout prestataire de services postaux d’une ou de plusieurs des sanctions suivantes :
 
-1. un avertissement ;
+- un avertissement ;
 
-2. un blâme ;
+- un blâme ;
 
-3. une amende d’ordre allant de 1.000 euros à 500.000 euros ;
+- une amende d’ordre allant de 1.000 euros à 500.000 euros ;
 
-4. une interdiction temporaire allant jusqu’à un an d’effectuer certaines activités postales.
+- une interdiction temporaire allant jusqu’à un an d’effectuer certaines activités postales.
 
 (2)
 

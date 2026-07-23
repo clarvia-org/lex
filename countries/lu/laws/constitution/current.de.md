@@ -601,13 +601,13 @@ Es besteht Wahlpflicht. Die Wahlen sind geheim. Die Modalitäten werden per Gese
 
 Das Land ist in vier Wahlbezirke eingeteilt:
 
-1. Süden mit den Kantonen Esch-an-der-Alzette und Capellen;
+- Süden mit den Kantonen Esch-an-der-Alzette und Capellen;
 
-2. Zentrum mit den Kantonen Luxemburg und Mersch;
+- Zentrum mit den Kantonen Luxemburg und Mersch;
 
-3. Norden mit den Kantonen Diekirch, Redingen, Wiltz, Clerf und Vianden;
+- Norden mit den Kantonen Diekirch, Redingen, Wiltz, Clerf und Vianden;
 
-4. Osten mit den Kantonen Grevenmacher, Remich und Echternach.
+- Osten mit den Kantonen Grevenmacher, Remich und Echternach.
 
 Ein mit qualifizierter Mehrheit verabschiedetes Gesetz legt die Zahl der in jedem Wahlbezirk zu wählenden Abgeordneten fest.
 
@@ -729,13 +729,13 @@ Die Regierungsmitglieder haben Zutritt zur Abgeordnetenkammer. Auf ihre Anfrage 
 
 Zwecks Ausübung der in Artikel 62 vorgesehenen Aufgaben kann die Abgeordnetenkammer:
 
-1. die Anwesenheit eines oder mehrerer Regierungsmitglieder verlangen;
+- die Anwesenheit eines oder mehrerer Regierungsmitglieder verlangen;
 
-2. Fragen und Anfragen an die Regierung stellen, zu deren Beantwortung die Regierung verpflichtet ist;
+- Fragen und Anfragen an die Regierung stellen, zu deren Beantwortung die Regierung verpflichtet ist;
 
-3. von der Regierung sämtliche Informationen und Dokumente verlangen;
+- von der Regierung sämtliche Informationen und Dokumente verlangen;
 
-4. gegenüber der Regierung einen Vertrauens- oder Misstrauensantrag annehmen.
+- gegenüber der Regierung einen Vertrauens- oder Misstrauensantrag annehmen.
 
 Die Ausübung dieser Befugnisse wird durch die Geschäftsordnung der Abgeordnetenkammer geregelt.
 
@@ -1064,13 +1064,13 @@ Die Zuständigkeiten des Verfassungsgerichtshofs können durch ein Gesetz erweit
 
 Der Verfassungsgerichtshof besteht aus:
 
-1. neun ordentlichen Mitgliedern:
+- neun ordentlichen Mitgliedern:
 
-1. dem Vorsitzenden des Obersten Gerichtshofs und dem Vorsitzenden des Verwaltungsgerichtshofs;
+  - dem Vorsitzenden des Obersten Gerichtshofs und dem Vorsitzenden des Verwaltungsgerichtshofs;
 
-2. zwei Richtern am Kassationsgerichtshof und fünf vom Großherzog nach Zustimmung des Obersten Gerichtshofs und des Verwaltungsgerichtshofs ernannten Richtern;
+  - zwei Richtern am Kassationsgerichtshof und fünf vom Großherzog nach Zustimmung des Obersten Gerichtshofs und des Verwaltungsgerichtshofs ernannten Richtern;
 
-2. sieben stellvertretenden Mitgliedern, die vom Großherzog nach Zustimmung des Obersten Gerichtshofs und des Verwaltungsgerichtshofs ernannt werden.
+- sieben stellvertretenden Mitgliedern, die vom Großherzog nach Zustimmung des Obersten Gerichtshofs und des Verwaltungsgerichtshofs ernannt werden.
 
 (6)
 

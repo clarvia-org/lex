@@ -35,7 +35,7 @@ Les dates d’ouverture et de clôture des deux prochaines périodes de vente en
 
 - Soldes de l’été 2023 :
 
-- début : samedi, le 24 juin 2023, clôture : samedi, le 22 juillet 2023 inclus.
+  - début : samedi, le 24 juin 2023, clôture : samedi, le 22 juillet 2023 inclus.
 
 <a id="art-2"></a>
 ## Art. 2.

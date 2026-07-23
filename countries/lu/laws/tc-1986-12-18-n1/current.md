@@ -55,29 +55,29 @@ Les membres du Gouvernement ont leur entrée au conseil; ils peuvent s'y faire r
 
 Le conseil se compose de vingt-neuf membres effectifs et d'autant de suppléants à savoir:
 
-1. Les représentants prédésignés sont nommés par le Conseil de Gouvernement sur propositions des organisations professionnelles les plus représentatives.
+- Les représentants prédésignés sont nommés par le Conseil de Gouvernement sur propositions des organisations professionnelles les plus représentatives.
 
-- deux représentants de l'industrie lourde;
+  - deux représentants de l'industrie lourde;
 
-- deux représentants de la petite et moyenne industrie;
+  - deux représentants de la petite et moyenne industrie;
 
-- deux représentants du secteur commercial;
+  - deux représentants du secteur commercial;
 
-- deux représentants du secteur artisanal;
+  - deux représentants du secteur artisanal;
 
-- deux représentants de l'agriculture;
+  - deux représentants de l'agriculture;
 
-- un représentant de la viticulture;
+  - un représentant de la viticulture;
 
-- six représentants ouvriers;
+  - six représentants ouvriers;
 
-- deux représentants des employés du secteur privé;
+  - deux représentants des employés du secteur privé;
 
-- deux fonctionnaires ou employés du secteur public;
+  - deux fonctionnaires ou employés du secteur public;
 
-- un agent du secteur des «transports».
+  - un agent du secteur des «transports».
 
-2. Sept membres jouissant d'une compétence particulière en matière économique et sociale, d'une complète indépendance à l'égard des organisations professionnelles déjà représentées au Conseil, dont au moins un membre à choisir au sein des professions libérales. Quatre de ces membres sont cooptés par les membres du conseil désignés dans l'alinéa qui précède; trois sont nommés par le Conseil de Gouvernement.
+- Sept membres jouissant d'une compétence particulière en matière économique et sociale, d'une complète indépendance à l'égard des organisations professionnelles déjà représentées au Conseil, dont au moins un membre à choisir au sein des professions libérales. Quatre de ces membres sont cooptés par les membres du conseil désignés dans l'alinéa qui précède; trois sont nommés par le Conseil de Gouvernement.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -129,3 +129,5 @@ Les membres effectifs et suppléants ainsi que le secrétaire général et le pe
 ## Art. 11.
 
 L'arrêté grand-ducal du 10 novembre 1944 portant création d'une conférence nationale du travail, d'une commission paritaire du marché de travail et d'une commission paritaire de conciliation, de même que l'arrêté grand-ducal du 4 août 1945 portant création d'un conseil de l'économie nationale, tel qu'il a été modifié par l'arrêté grand-ducal du 1er octobre 1951, sont abrogés.
+
+Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne.

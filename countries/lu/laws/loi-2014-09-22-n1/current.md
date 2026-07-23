@@ -45,27 +45,27 @@ Mission
 
 Le Fonds a pour mission:
 
-1. d'encourager la création cinématographique et audiovisuelle et de promouvoir le développement du secteur de la production audiovisuelle au Grand-Duché de Luxembourg notamment par le biais de subventions, d'aides financières, de subsides, de bourses et de récompenses;
+- d'encourager la création cinématographique et audiovisuelle et de promouvoir le développement du secteur de la production audiovisuelle au Grand-Duché de Luxembourg notamment par le biais de subventions, d'aides financières, de subsides, de bourses et de récompenses;
 
-2. de mettre en oeuvre la politique de soutien au secteur de la production audiovisuelle du Gouvernement;
+- de mettre en oeuvre la politique de soutien au secteur de la production audiovisuelle du Gouvernement;
 
-3. d'attribuer les aides financières sélectives à la production audiovisuelle et les aides de minimis créées par la présente loi;
+- d'attribuer les aides financières sélectives à la production audiovisuelle et les aides de minimis créées par la présente loi;
 
-4. de favoriser le rayonnement et la promotion des oeuvres audiovisuelles luxembourgeoises au Grand-Duché de Luxembourg et à l'étranger;
+- de favoriser le rayonnement et la promotion des oeuvres audiovisuelles luxembourgeoises au Grand-Duché de Luxembourg et à l'étranger;
 
-5. d'assurer la gestion et le suivi des oeuvres bénéficiant d'une ou de plusieurs aides prévues par la présente loi;
+- d'assurer la gestion et le suivi des oeuvres bénéficiant d'une ou de plusieurs aides prévues par la présente loi;
 
-6. d'établir des statistiques relatives au secteur de la production audiovisuelle;
+- d'établir des statistiques relatives au secteur de la production audiovisuelle;
 
-7. d'assister le(s) ministre(s) de tutelle notamment dans la définition des objectifs et dans l'exécution de la politique de soutien à la production audiovisuelle ainsi que dans la préparation de la réglementation du secteur concerné;
+- d'assister le(s) ministre(s) de tutelle notamment dans la définition des objectifs et dans l'exécution de la politique de soutien à la production audiovisuelle ainsi que dans la préparation de la réglementation du secteur concerné;
 
-8. d'assurer le contact avec les organismes et institutions internationaux qui relèvent du secteur de la production cinématographique et audiovisuelle et de représenter le Grand-Duché de Luxembourg auprès de celles-ci;
+- d'assurer le contact avec les organismes et institutions internationaux qui relèvent du secteur de la production cinématographique et audiovisuelle et de représenter le Grand-Duché de Luxembourg auprès de celles-ci;
 
-9. d'organiser la remise du prix du film luxembourgeois, dénommé «Lëtzebuerger Filmpräis», et ceci en collaboration avec les associations professionnelles du secteur de la production audiovisuelle au Grand-Duché de Luxembourg;
+- d'organiser la remise du prix du film luxembourgeois, dénommé «Lëtzebuerger Filmpräis», et ceci en collaboration avec les associations professionnelles du secteur de la production audiovisuelle au Grand-Duché de Luxembourg;
 
-10. d'exécuter toutes autres missions lui confiées par les lois et règlements;
+- d'exécuter toutes autres missions lui confiées par les lois et règlements;
 
-11. d'encourager la mise en oeuvre d'un fonds structurel destiné à favoriser l'investissement privé dans la production audiovisuelle.
+- d'encourager la mise en oeuvre d'un fonds structurel destiné à favoriser l'investissement privé dans la production audiovisuelle.
 
 #### Chapitre 2: Organisation
 
@@ -78,33 +78,33 @@ Le Fonds est administré par un conseil d’administration, ci-après le « Cons
 
 Les attributions du Conseil sont les suivantes :
 
-1. il arrête le budget annuel ;
+- il arrête le budget annuel ;
 
-2. il arrête les comptes annuels ;
+- il arrête les comptes annuels ;
 
-3. il détermine la politique générale et veille à sa mise en œuvre ;
+- il détermine la politique générale et veille à sa mise en œuvre ;
 
-4. il adopte l’organigramme, la grille des emplois ainsi que les conditions et modalités de rémunération des agents du Fonds ;
+- il adopte l’organigramme, la grille des emplois ainsi que les conditions et modalités de rémunération des agents du Fonds ;
 
-5. il engage et licencie le directeur et le personnel dirigeant ;
+- il engage et licencie le directeur et le personnel dirigeant ;
 
-6. il nomme les membres du Comité de sélection visé à l’article 11 ;
+- il nomme les membres du Comité de sélection visé à l’article 11 ;
 
-7. il approuve le règlement d’ordre intérieur du Comité de sélection ;
+- il approuve le règlement d’ordre intérieur du Comité de sélection ;
 
-8. il statue sur l’acceptation des dons et des legs ;
+- il statue sur l’acceptation des dons et des legs ;
 
-9. il prend les décisions concernant les actions judiciaires à intenter et les transactions à conclure ;
+- il prend les décisions concernant les actions judiciaires à intenter et les transactions à conclure ;
 
-10. il approuve la convention pluriannuelle visée à l’article 16 bis et les autres conventions à conclure avec l’État ;
+- il approuve la convention pluriannuelle visée à l’article 16 bis et les autres conventions à conclure avec l’État ;
 
-11. il approuve les partenariats à conclure ;
+- il approuve les partenariats à conclure ;
 
-12. il approuve les modèles des conventions relatives aux aides financières et aux aides de minimis ;
+- il approuve les modèles des conventions relatives aux aides financières et aux aides de minimis ;
 
-13. il arrête les appels à projets à lancer ;
+- il arrête les appels à projets à lancer ;
 
-14. il établit la politique d‘achat et les procédures internes en matière de passation des marchés publics.
+- il établit la politique d‘achat et les procédures internes en matière de passation des marchés publics.
 
 La décision du Conseil prévue au point 2° est soumise au Gouvernement en conseil pour approbation.
 
@@ -140,13 +140,13 @@ Un agent du Fonds assume le rôle d’agent de conformité du Fonds et supervise
 
 Le Conseil peut, à tout moment, requérir du directeur toutes les explications ou informations et procéder à toutes les vérifications qui lui paraissent nécessaires dans le cadre de l’exercice de ses attributions.
 
-Le Conseil arrête le règlement d'ordre intérieur du Fonds , qui est soumis à l'approbation du (des) ministre(s) de tutelle, et qui au moins :
+Le Conseil arrête le règlement d'ordre intérieur du Fonds , qui est soumis à l'approbation du (des) ministre(s) de tutelle , et qui au moins :
 
-1. précise le fonctionnement du Fonds et les règles gouvernant son contrôle ;
+- précise le fonctionnement du Fonds et les règles gouvernant son contrôle ;
 
-2. définit les pratiques en matière de procuration et de délégation de signature ;
+- définit les pratiques en matière de procuration et de délégation de signature ;
 
-3. définit l’intervention du Conseil dans le cadre des marchés publics du Fonds. » ; .
+- définit l’intervention du Conseil dans le cadre des marchés publics du Fonds. » ; .
 
 Les participants au Conseil bénéficient d'un jeton de présence à charge du Fonds qui est fixé par voie de règlement grand-ducal en fonction de l'ampleur et de l'importance de leurs tâches.
 
@@ -192,11 +192,11 @@ Les actionnaires ou associés directs ou indirects y compris les bénéficiaires
 
 L'aide financière sélective peut prendre la forme:
 
-1. d’une aide à la production d’œuvres audiovisuelles ;
+- d’une aide à la production d’œuvres audiovisuelles ;
 
-2. d’une aide à la pré-production ;
+- d’une aide à la pré-production ;
 
-3. d’une aide à la distribution.
+- d’une aide à la distribution.
 
 Sauf dérogation à déterminer, l'aide financière sélective est en principe remboursable et capitalisée dans le but d'un réinvestissement dans des projets futurs de l’entité juridique bénéficiaire.
 
@@ -215,21 +215,21 @@ Conditions d'éligibilité des oeuvres
 
 Les oeuvres audiovisuelles susceptibles de bénéficier d'une aide financière sélective doivent:
 
-1. contribuer au développement du secteur de la production audiovisuelle européenne et en particulier luxembourgeoise, compte tenu d'une proportionnalité raisonnable entre les avantages consentis et les retombées culturelles, économiques, et sociales à long terme de la production de ces oeuvres;
+- contribuer au développement du secteur de la production audiovisuelle européenne et en particulier luxembourgeoise, compte tenu d'une proportionnalité raisonnable entre les avantages consentis et les retombées culturelles, économiques, et sociales à long terme de la production de ces oeuvres;
 
-2. être conçues pour être réalisées principalement au sein d'un ou de plusieurs pays membre(s) de l'Union européenne, des pays de l'Espace économique européen et de la Suisse et en particulier sur le territoire du Grand-Duché de Luxembourg;
+- être conçues pour être réalisées principalement au sein d'un ou de plusieurs pays membre(s) de l'Union européenne, des pays de l'Espace économique européen et de la Suisse et en particulier sur le territoire du Grand-Duché de Luxembourg;
 
-3. être exploitées ou co-exploitées par l’entité bénéficiaire, notamment par le biais de la détention effective et durable d'une part significative des droits d'exploitation cinématographique ou audiovisuelle.
+- être exploitées ou co-exploitées par l’entité bénéficiaire, notamment par le biais de la détention effective et durable d'une part significative des droits d'exploitation cinématographique ou audiovisuelle.
 
 (2)
 
 Sont exclus d'office du bénéfice de l'aide financière sélective:
 
-1. les oeuvres pornographiques, incitatrices à la violence ou à la haine raciale, apologétique de crimes contre l'humanité et, de manière générale, contrevenant à l'ordre public et aux bonnes moeurs;
+- les oeuvres pornographiques, incitatrices à la violence ou à la haine raciale, apologétique de crimes contre l'humanité et, de manière générale, contrevenant à l'ordre public et aux bonnes moeurs;
 
-2. les oeuvres destinées ou utilisées à des fins de publicité;
+- les oeuvres destinées ou utilisées à des fins de publicité;
 
-3. les programmes d'information, débats d'actualité ou les émissions sportives.
+- les programmes d'information, débats d'actualité ou les émissions sportives.
 
 (3)
 
@@ -257,27 +257,27 @@ Les demandes en obtention d'une aide financière sélective sont adressées au F
 
 Les demandes s’inscrivent dans le cadre d’un appel à projets du Fonds. Elles sont présentées sous forme écrite et contiennent les informations suivantes :
 
-1. le nom et la taille de l’entité bénéficiaire ;
+- le nom et la taille de l’entité bénéficiaire ;
 
-2. une description du projet de production audiovisuelle et du bénéficiaire, y compris ses dates de début et de fin ;
+- une description du projet de production audiovisuelle et du bénéficiaire, y compris ses dates de début et de fin ;
 
-3. le scénario, le traitement, le concept ou le synopsis ;
+- le scénario, le traitement, le concept ou le synopsis ;
 
-4. une description des modalités d’exploitation du projet ;
+- une description des modalités d’exploitation du projet ;
 
-5. la localisation des travaux de pré-production, de production et de postproduction du projet pays par pays ;
+- la localisation des travaux de pré-production, de production et de postproduction du projet pays par pays ;
 
-6. le budget et le plan de financement, y compris le cofinancement d’autres États membres de l’Union européenne ;
+- le budget et le plan de financement, y compris le cofinancement d’autres États membres de l’Union européenne ;
 
-7. une liste des coûts admissibles ;
+- une liste des coûts admissibles ;
 
-8. les bénéfices et coûts d’exploitation, s’il y a lieu ;
+- les bénéfices et coûts d’exploitation, s’il y a lieu ;
 
-9. le montant du financement public nécessaire pour réaliser le projet ;
+- le montant du financement public nécessaire pour réaliser le projet ;
 
-10. la stratégie de promotion et de marketing de l’œuvre ;
+- la stratégie de promotion et de marketing de l’œuvre ;
 
-11. tout élément pertinent permettant au Comité de sélection d’apprécier les qualités ou spécificités du projet.
+- tout élément pertinent permettant au Comité de sélection d’apprécier les qualités ou spécificités du projet.
 
 Le directeur, le secrétaire du Comité et les agents du Fonds en charge de l'examen des demandes en obtention d'une aide financière sélective préparent les travaux du Comité. Après avoir constaté que les dossiers de demande sont complets, et conformes aux règles et critères en vigueur, le directeur les transmet pour décision au Comité.
 
@@ -285,15 +285,15 @@ Le Comité vérifie les conditions d'éligibilité des oeuvres telles que défin
 
 Il évalue les demandes sur base:
 
-1. de critères de qualité artistique et culturelle;
+- de critères de qualité artistique et culturelle;
 
-2. de critères de production et de l'impact sur le développement du secteur de la production audiovisuelle;
+- de critères de production et de l'impact sur le développement du secteur de la production audiovisuelle;
 
-3. de l'intérêt pour le patrimoine socioculturel et historique national et de la mémoire collective;
+- de l'intérêt pour le patrimoine socioculturel et historique national et de la mémoire collective;
 
-4. des perspectives de distribution, de circulation, de commercialisation et d'exploitation, tant sur le plan national qu'international;
+- des perspectives de distribution, de circulation, de commercialisation et d'exploitation, tant sur le plan national qu'international;
 
-5. de la promotion du Luxembourg par le biais de la stratégie de distribution et d'exploitation de l’entité requérante.
+- de la promotion du Luxembourg par le biais de la stratégie de distribution et d'exploitation de l’entité requérante.
 
 Ces critères d'évaluation sont précisés par règlement grand-ducal.
 
@@ -324,9 +324,9 @@ L’intensité de l’aide financière sélective à la pré-production d’œuv
 
 L’intensité de l’aide financière sélective à la production d’œuvres audiovisuelles ne peut excéder 50 pour cent des coûts admissibles. Toutefois, elle peut être portée à :
 
-1. 60 pour cent des coûts admissibles pour les productions transfrontières financées par plus d’un État membre de l’Union européenne et faisant intervenir des producteurs de plus d’un État membre de l’Union européenne ;
+- 60 pour cent des coûts admissibles pour les productions transfrontières financées par plus d’un État membre de l’Union européenne et faisant intervenir des producteurs de plus d’un État membre de l’Union européenne ;
 
-2. 100 pour cent des coûts admissibles pour les œuvres audiovisuelles difficiles et les coproductions faisant intervenir des pays de la liste du Comité d’aide au développement de l’OCDE.
+- 100 pour cent des coûts admissibles pour les œuvres audiovisuelles difficiles et les coproductions faisant intervenir des pays de la liste du Comité d’aide au développement de l’OCDE.
 
 L’intensité de l’aide à la distribution d’œuvres audiovisuelles est la même que l’intensité de l’aide à la production de celle-ci.
 
@@ -334,11 +334,11 @@ Par « œuvre audiovisuelle difficile », on entend les œuvres audiovisuelles q
 
 Par « coûts admissibles », on entend :
 
-1. pour les aides à la pré-production : les coûts de l’écriture de scénarios et du développement d’œuvres audiovisuelles ;
+- pour les aides à la pré-production : les coûts de l’écriture de scénarios et du développement d’œuvres audiovisuelles ;
 
-2. pour les aides à la production : les coûts globaux de la production d’œuvres audiovisuelles, y compris les coûts destinés à améliorer l’accessibilité pour les personnes handicapées ;
+- pour les aides à la production : les coûts globaux de la production d’œuvres audiovisuelles, y compris les coûts destinés à améliorer l’accessibilité pour les personnes handicapées ;
 
-3. pour les aides à la distribution : les coûts de la distribution et de la promotion d’œuvres audiovisuelles.
+- pour les aides à la distribution : les coûts de la distribution et de la promotion d’œuvres audiovisuelles.
 
 Par coûts exposés au sens de la présente loi, on entend les charges effectivement décaissées figurant dans la comptabilité de l'oeuvre concernée, et considérées comme appropriées et utiles à la réalisation d'oeuvres cinématographiques ou audiovisuelles et conformes aux objectifs de la présente loi.
 
@@ -373,29 +373,29 @@ Lorsqu’une entreprise réalise un projet ayant vocation à encourager la créa
 
 Par « entreprise unique », on entend toutes entreprises qui entretiennent entre elles au moins l’une des relations suivantes :
 
-1. une entreprise a la majorité des droits de vote des actionnaires ou associés d’une autre entreprise ;
+- une entreprise a la majorité des droits de vote des actionnaires ou associés d’une autre entreprise ;
 
-2. une entreprise a le droit de nommer ou de révoquer la majorité des membres de l’organe d’administration, de direction ou de surveillance d’une autre entreprise ;
+- une entreprise a le droit de nommer ou de révoquer la majorité des membres de l’organe d’administration, de direction ou de surveillance d’une autre entreprise ;
 
-3. une entreprise a le droit d’exercer une influence dominante sur une autre entreprise en vertu d’un contrat conclu avec celle-ci ou en vertu d’une clause des statuts de celle-ci ;
+- une entreprise a le droit d’exercer une influence dominante sur une autre entreprise en vertu d’un contrat conclu avec celle-ci ou en vertu d’une clause des statuts de celle-ci ;
 
-4. une entreprise actionnaire ou associée d’une autre entreprise contrôle seule, en vertu d’un accord conclu avec d’autres actionnaires ou associés de cette autre entreprise, la majorité des droits de vote des actionnaires ou associés de celle-ci.
+- une entreprise actionnaire ou associée d’une autre entreprise contrôle seule, en vertu d’un accord conclu avec d’autres actionnaires ou associés de cette autre entreprise, la majorité des droits de vote des actionnaires ou associés de celle-ci.
 
 Les entreprises qui entretiennent au moins une des relations visées à l’alinéa 2 à travers une ou plusieurs autres entreprises sont également considérées comme une entreprise unique.
 
 Les demandes s’inscrivent dans le cadre d’un appel à projets du Fonds. Elles sont présentées sous forme écrite et contiennent les informations suivantes :
 
-1. le nom de l’entreprise requérante ;
+- le nom de l’entreprise requérante ;
 
-2. les éventuelles relations formant une entreprise unique ;
+- les éventuelles relations formant une entreprise unique ;
 
-3. une description du projet, y compris ses dates de début et de fin ;
+- une description du projet, y compris ses dates de début et de fin ;
 
-4. une liste des coûts éligibles du projet ;
+- une liste des coûts éligibles du projet ;
 
-5. tout élément pertinent permettant au Fonds d’apprécier les qualités ou spécificités du projet ;
+- tout élément pertinent permettant au Fonds d’apprécier les qualités ou spécificités du projet ;
 
-6. une déclaration des autres aides de minimis éventuelles que l’entreprise unique a reçues au cours des deux exercices fiscaux précédents et de l’exercice fiscal en cours.
+- une déclaration des autres aides de minimis éventuelles que l’entreprise unique a reçues au cours des deux exercices fiscaux précédents et de l’exercice fiscal en cours.
 
 Les demandes sont analysées par une commission composée de membres de l’administration du Fonds et, le cas échéant, de consultants experts externes. Les membres de la commission sont nommés par le Conseil et la composition varie en fonction du sujet de l’appel à projets.
 
@@ -455,13 +455,13 @@ Ressources
 
 Le Fonds peut disposer des ressources suivantes:
 
-1. des recettes pour prestations fournies;
+- des recettes pour prestations fournies;
 
-2. d'une contribution financière annuelle provenant du budget des recettes et des dépenses de l'Etat et attribuée sur la base du programme d'activités présenté par le Fonds;
+- d'une contribution financière annuelle provenant du budget des recettes et des dépenses de l'Etat et attribuée sur la base du programme d'activités présenté par le Fonds;
 
-3. des contributions financières provenant du budget des recettes et des dépenses de l'Etat et réservées à l'exécution de projets déterminés ayant fait l'objet d'une convention préalable entre le Gouvernement et le Fonds;
+- des contributions financières provenant du budget des recettes et des dépenses de l'Etat et réservées à l'exécution de projets déterminés ayant fait l'objet d'une convention préalable entre le Gouvernement et le Fonds;
 
-4. de dons et legs en espèces et en nature.
+- de dons et legs en espèces et en nature.
 
 <a id="art-18"></a>
 ## Art. 18.
@@ -569,13 +569,13 @@ Dispositions modificatives
 
 La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat est modifiée comme suit:
 
-1. A l'article 22, section IV, sous 9° est ajoutée la mention «le directeur du Fonds national de soutien à la production audiovisuelle».
+- A l'article 22, section IV, sous 9° est ajoutée la mention «le directeur du Fonds national de soutien à la production audiovisuelle».
 
-2. Les annexes sont modifiées comme suit:
+- Les annexes sont modifiées comme suit:
 
-1. A l'annexe A - classification des fonctions - sous la rubrique I - Administration générale - est ajoutée au grade 17 la mention «directeur du Fonds national de soutien à la production audiovisuelle»;
+  - A l'annexe A - classification des fonctions - sous la rubrique I - Administration générale - est ajoutée au grade 17 la mention «directeur du Fonds national de soutien à la production audiovisuelle»;
 
-2. A l'annexe D - détermination - sous la rubrique I - Administration générale est ajoutée, à la carrière supérieure de l'administration - grade 12 de la computation de la bonification d'ancienneté, au grade 17 la dénomination «directeur du Fonds national de soutien à la production audiovisuelle».
+  - A l'annexe D - détermination - sous la rubrique I - Administration générale est ajoutée, à la carrière supérieure de l'administration - grade 12 de la computation de la bonification d'ancienneté, au grade 17 la dénomination «directeur du Fonds national de soutien à la production audiovisuelle».
 
 (2)
 

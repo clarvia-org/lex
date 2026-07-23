@@ -44,9 +44,9 @@ L’épreuve spéciale est organisée par le directeur général du Corps grand-
 
 Pour être admis à l’épreuve spéciale, le candidat doit :
 
-1. avoir réussi à l’épreuve d’aptitude générale prévue à l’article 1 er ;
+- avoir réussi à l’épreuve d’aptitude générale prévue à l’article 1 er ;
 
-2. avoir une présentation compatible avec l’exercice de la fonction et le port de l’uniforme. Les modifications corporelles telles que scarifications ou incisions, marquages de fer, stretchings, les tatouages qu’ils soient permanents ou provisoires, ne peuvent ni illustrer l’appartenance à une organisation politique, syndicale, confessionnelle ou associative, ni porter atteinte aux obligations de réserve, de loyauté et d’exemplarité, en particulier pour les modifications corporelles visibles du public.
+- avoir une présentation compatible avec l’exercice de la fonction et le port de l’uniforme. Les modifications corporelles telles que scarifications ou incisions, marquages de fer, stretchings, les tatouages qu’ils soient permanents ou provisoires, ne peuvent ni illustrer l’appartenance à une organisation politique, syndicale, confessionnelle ou associative, ni porter atteinte aux obligations de réserve, de loyauté et d’exemplarité, en particulier pour les modifications corporelles visibles du public.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -61,37 +61,37 @@ Les inscriptions se font par voie électronique.
 
 Le candidat fournit avec sa demande d’inscription :
 
-1. une notice biographique renseignant les informations suivantes : Les informations fournies doivent être complètes et véritables ;
+- une notice biographique renseignant les informations suivantes : Les informations fournies doivent être complètes et véritables ;
 
-1. ses nom et prénoms ;
+  - ses nom et prénoms ;
 
-2. son numéro d’identification ;
+  - son numéro d’identification ;
 
-3. sa nationalité ;
+  - sa nationalité ;
 
-4. son adresse électronique ;
+  - son adresse électronique ;
 
-5. la liste des établissements d’enseignement fréquentés et leur pays d’implantation ;
+  - la liste des établissements d’enseignement fréquentés et leur pays d’implantation ;
 
-6. ses diplômes ;
+  - ses diplômes ;
 
-7. son expérience professionnelle ;
+  - son expérience professionnelle ;
 
-8. ses connaissances en langues parlées et écrites ;
+  - ses connaissances en langues parlées et écrites ;
 
-9. ses expériences dans les services de secours.
+  - ses expériences dans les services de secours.
 
-2. une copie de sa carte d’identité ;
+- une copie de sa carte d’identité ;
 
-3. une copie des diplômes obtenus et, s’il y a lieu, une copie de la décision de reconnaissance de leur équivalence ;
+- une copie des diplômes obtenus et, s’il y a lieu, une copie de la décision de reconnaissance de leur équivalence ;
 
-4. s’il y a lieu, une copie de la décision d’inscription au registre des titres ;
+- s’il y a lieu, une copie de la décision d’inscription au registre des titres ;
 
-5. une copie du permis de conduire de la catégorie B en cours de validité ;
+- une copie du permis de conduire de la catégorie B en cours de validité ;
 
-6. une attestation médicale indiquant que le candidat satisfait aux conditions d’aptitude physique pour participer à l’épreuve sportive. Le certificat médical, datant de moins de deux mois, est établi par un médecin au choix du candidat ;
+- une attestation médicale indiquant que le candidat satisfait aux conditions d’aptitude physique pour participer à l’épreuve sportive. Le certificat médical, datant de moins de deux mois, est établi par un médecin au choix du candidat ;
 
-7. une déclaration certifiée sincère renseignant sur d’éventuelles modifications corporelles.
+- une déclaration certifiée sincère renseignant sur d’éventuelles modifications corporelles.
 
 (3)
 
@@ -145,9 +145,9 @@ La fixation des dates et délais en rapport avec l’organisation pratique de l�
 
 Le président est tenu de réunir la commission au préalable :
 
-1. si un membre au moins de la commission ou l’observateur en fait la demande ;
+- si un membre au moins de la commission ou l’observateur en fait la demande ;
 
-2. en cas de changements dans la composition de la commission ou des modalités d’organisation de l’épreuve spéciale et des épreuves visées aux articles 16, 17 et 19.
+- en cas de changements dans la composition de la commission ou des modalités d’organisation de l’épreuve spéciale et des épreuves visées aux articles 16, 17 et 19.
 
 Si la commission n’est pas convoquée au préalable, les membres de la commission et l’observateur sont informés par le président des modalités pratiques relatives à l’épreuve spéciale et aux épreuves visées aux articles 16, 17 et 19.
 
@@ -197,27 +197,27 @@ Le président informe les candidats des résultats obtenus.
 
 L’épreuve spéciale pour l’admission au stage de la catégorie de traitement A comporte :
 
-1. un examen linguistique testant le niveau des langues selon le cadre européen commun de référence pour les langues : L’échec à l’un des tests de langue visés aux lettres a) à c) équivaut à un échec à l’examen linguistique.
+- un examen linguistique testant le niveau des langues selon le cadre européen commun de référence pour les langues : L’échec à l’un des tests de langue visés aux lettres a) à c) équivaut à un échec à l’examen linguistique.
 
-1. test de langue française, dont le niveau minimal à obtenir est :
+  - test de langue française, dont le niveau minimal à obtenir est :
 
-1. soit C1, si le niveau B2 du test de langue allemande est atteint ;
+    - soit C1, si le niveau B2 du test de langue allemande est atteint ;
 
-2. soit B2, si le niveau C1 du test de langue allemande est atteint.
+    - soit B2, si le niveau C1 du test de langue allemande est atteint.
 
-2. test de langue allemande, dont le niveau minimal à obtenir est :
+  - test de langue allemande, dont le niveau minimal à obtenir est :
 
-1. soit C1, si le niveau B2 du test de langue française est atteint ;
+    - soit C1, si le niveau B2 du test de langue française est atteint ;
 
-2. soit B2, si le niveau C1 du test de langue française est atteint.
+    - soit B2, si le niveau C1 du test de langue française est atteint.
 
-3. test de langue anglaise, dont le niveau minimal à obtenir est B1.
+  - test de langue anglaise, dont le niveau minimal à obtenir est B1.
 
-2. un examen sportif, dont le déroulement, les tests et critères de réussite sont déterminés aux annexes I et III ;
+- un examen sportif, dont le déroulement, les tests et critères de réussite sont déterminés aux annexes I et III ;
 
-3. un examen psychologique qui comprend une série de tests psychotechniques écrits ou informatisés permettant de vérifier la capacité de raisonnement fluide, l’esprit d’analyse et de synthèse, le travail méthodique et les facteurs d’intelligence des candidats ;
+- un examen psychologique qui comprend une série de tests psychotechniques écrits ou informatisés permettant de vérifier la capacité de raisonnement fluide, l’esprit d’analyse et de synthèse, le travail méthodique et les facteurs d’intelligence des candidats ;
 
-4. un entretien de sélection en langue luxembourgeoise destiné à évaluer la concordance entre le profil du candidat et les exigences spécifiques de l’emploi brigué, exprimé en termes de traits de caractère, intérêts, aptitudes, attitudes et valeurs.
+- un entretien de sélection en langue luxembourgeoise destiné à évaluer la concordance entre le profil du candidat et les exigences spécifiques de l’emploi brigué, exprimé en termes de traits de caractère, intérêts, aptitudes, attitudes et valeurs.
 
 L’échec à l’un des examens ou entretiens visés à l’alinéa 1er est éliminatoire et ne permet plus au candidat d’accéder aux autres examens au cours de la même session.
 
@@ -228,19 +228,19 @@ L’échec à l’un des examens ou entretiens visés à l’alinéa 1er est él
 
 L’épreuve spéciale pour l’admission au stage du groupe de traitement B1 comporte :
 
-1. un examen linguistique testant le niveau des langues selon le cadre européen commun de référence pour les langues : L’échec à l’un des tests de langue visés aux lettres a) à c) équivaut à un échec à l’examen linguistique.
+- un examen linguistique testant le niveau des langues selon le cadre européen commun de référence pour les langues : L’échec à l’un des tests de langue visés aux lettres a) à c) équivaut à un échec à l’examen linguistique.
 
-1. test de langue française, dont le niveau minimal à obtenir est B2 ;
+  - test de langue française, dont le niveau minimal à obtenir est B2 ;
 
-2. test de langue allemande, dont le niveau minimal à obtenir est B2 ;
+  - test de langue allemande, dont le niveau minimal à obtenir est B2 ;
 
-3. test de langue anglaise, dont le niveau minimal à obtenir est A2.
+  - test de langue anglaise, dont le niveau minimal à obtenir est A2.
 
-2. un examen sportif, dont le déroulement, les tests et critères de réussite sont déterminés aux annexes I et III ;
+- un examen sportif, dont le déroulement, les tests et critères de réussite sont déterminés aux annexes I et III ;
 
-3. un examen psychologique qui comprend une série de tests psychotechniques écrits ou informatisés permettant de vérifier la capacité de raisonnement fluide, l’esprit d’analyse et de synthèse, le travail méthodique et les facteurs d’intelligence des candidats ;
+- un examen psychologique qui comprend une série de tests psychotechniques écrits ou informatisés permettant de vérifier la capacité de raisonnement fluide, l’esprit d’analyse et de synthèse, le travail méthodique et les facteurs d’intelligence des candidats ;
 
-4. un entretien de sélection en langue luxembourgeoise destiné à évaluer la concordance entre le profil du candidat et les exigences spécifiques de l’emploi brigué, exprimé en termes de traits de caractère, intérêts, aptitudes, attitudes et valeurs.
+- un entretien de sélection en langue luxembourgeoise destiné à évaluer la concordance entre le profil du candidat et les exigences spécifiques de l’emploi brigué, exprimé en termes de traits de caractère, intérêts, aptitudes, attitudes et valeurs.
 
 L’échec à l’un des examens ou entretiens visés à l’alinéa 1er est éliminatoire et ne permet plus au candidat d’accéder aux autres examens au cours de la même session.
 
@@ -251,19 +251,19 @@ L’échec à l’un des examens ou entretiens visés à l’alinéa 1er est él
 
 L’épreuve spéciale pour l’admission au stage du groupe de de traitement C1 comporte :
 
-1. un examen linguistique testant le niveau des langues selon le cadre européen commun de référence pour les langues : L’échec à l’un des tests de langue visés aux lettres a) à c) équivaut à un échec à l’examen linguistique.
+- un examen linguistique testant le niveau des langues selon le cadre européen commun de référence pour les langues : L’échec à l’un des tests de langue visés aux lettres a) à c) équivaut à un échec à l’examen linguistique.
 
-1. test de langue française, dont le niveau minimal à obtenir est A2 ;
+  - test de langue française, dont le niveau minimal à obtenir est A2 ;
 
-2. test de langue allemande, dont le niveau minimal à obtenir est B2 ;
+  - test de langue allemande, dont le niveau minimal à obtenir est B2 ;
 
-3. test de langue anglaise, dont le niveau minimal à obtenir est A1.
+  - test de langue anglaise, dont le niveau minimal à obtenir est A1.
 
-2. un examen sportif, dont le déroulement, les tests et critères de réussite sont déterminés aux annexes I et III ;
+- un examen sportif, dont le déroulement, les tests et critères de réussite sont déterminés aux annexes I et III ;
 
-3. un examen psychologique qui comprend une série de tests psychotechniques écrits ou informatisés permettant de vérifier la capacité de raisonnement fluide, l’esprit d’analyse et de synthèse, le travail méthodique et les facteurs d’intelligence des candidats ;
+- un examen psychologique qui comprend une série de tests psychotechniques écrits ou informatisés permettant de vérifier la capacité de raisonnement fluide, l’esprit d’analyse et de synthèse, le travail méthodique et les facteurs d’intelligence des candidats ;
 
-4. un entretien de sélection en langue luxembourgeoise destiné à évaluer la concordance entre le profil du candidat et les exigences spécifiques de l’emploi brigué, exprimé en termes de traits de caractère, intérêts, aptitudes, attitudes et valeurs.
+- un entretien de sélection en langue luxembourgeoise destiné à évaluer la concordance entre le profil du candidat et les exigences spécifiques de l’emploi brigué, exprimé en termes de traits de caractère, intérêts, aptitudes, attitudes et valeurs.
 
 L’échec à l’un des examens ou entretiens visés à l’alinéa 1er est éliminatoire et ne permet plus au candidat d’accéder aux autres examens au cours de la même session.
 
@@ -276,11 +276,11 @@ L’échec à l’un des examens ou entretiens visés à l’alinéa 1er est él
 
 Avant l’admission au stage, tout candidat doit remplir les conditions suivantes :
 
-1. fournir un extrait du casier judiciaire datant de moins de deux mois ;
+- fournir un extrait du casier judiciaire datant de moins de deux mois ;
 
-2. être titulaire du permis de conduire de la catégorie B en cours de validité ;
+- être titulaire du permis de conduire de la catégorie B en cours de validité ;
 
-3. être reconnu apte selon les modalités du règlement grand-ducal du 27 juin 2018 relatif au contrôle médical des pompiers du Corps grand-ducal d’incendie et de secours.
+- être reconnu apte selon les modalités du règlement grand-ducal du 27 juin 2018 relatif au contrôle médical des pompiers du Corps grand-ducal d’incendie et de secours.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -322,15 +322,15 @@ Le programme de la phase de formation théorique et pratique des stagiaires est 
 
 |  | Modules |
 | --- | --- |
-| 1° | Initiation incendie et sauvetage & secours à personnes théorie |
-| 2° | Initiation incendie et sauvetage & secours à personnes pratique |
-| 3° | Incendie et sauvetage théorie |
-| 4° | Secours à personnes théorie |
-| 5° | Pratique des techniques d’incendie et appareil respiratoire isolant |
-| 6° | Pratique des techniques de sauvetage |
-| 7° | Pratique de la réanimation cardio-pulmonaire |
-| 8° | Pratique des techniques du secours à personnes |
-| 9° | Épreuve sportive suivant les annexes II et III |
+| 1 ° | Initiation incendie et sauvetage & secours à personnes théorie |
+| 2 ° | Initiation incendie et sauvetage & secours à personnes pratique |
+| 3 ° | Incendie et sauvetage théorie |
+| 4 ° | Secours à personnes théorie |
+| 5 ° | Pratique des techniques d’incendie et appareil respiratoire isolant |
+| 6 ° | Pratique des techniques de sauvetage |
+| 7 ° | Pratique de la réanimation cardio-pulmonaire |
+| 8 ° | Pratique des techniques du secours à personnes |
+| 9 ° | Épreuve sportive suivant les annexes II et III |
 
 Les modules visés aux points 1° et 2° sont sanctionnés par des épreuves qui ont lieu au cours de la formation.
 
@@ -377,11 +377,11 @@ En cas d’absence lors d’une épreuve de la phase de formation théorique et 
 
 La phase d’initiation et de perfectionnement a lieu au sein de l’INFS et des différents centres d’incendies et de secours et est constitué des modules suivants :
 
-1. un stage de minimum 720 heures dans le domaine du secours à personnes ;
+- un stage de minimum 720 heures dans le domaine du secours à personnes ;
 
-2. un stage de minimum 560 heures dans le domaine de l’incendie et sauvetage ;
+- un stage de minimum 560 heures dans le domaine de l’incendie et sauvetage ;
 
-3. une formation de perfectionnement, organisée par l’INFS, d’une durée minimale de 320 heures.
+- une formation de perfectionnement, organisée par l’INFS, d’une durée minimale de 320 heures.
 
 La phase d’initiation et de perfectionnement consiste en des épreuves qui ont lieu en cours de formation.
 
@@ -391,13 +391,13 @@ Le programme de la phase d’initiation et de perfectionnement des fonctionnaire
 
 |  | Modules |
 | --- | --- |
-| 1° | Évaluation du stage de perfectionnement secours à personnes |
-| 2° | Évaluation du stage de perfectionnement incendie et sauvetage |
-| 3° | Mise en situation pratique secours à personnes |
-| 4° | Mise en situation pratique incendie et sauvetage |
-| 5° | Perfectionnement secours à personnes & incendie et sauvetage théorie |
-| 6° | Épreuve sportive suivant les annexes II et III |
-| 7° | Théorie sur les lois et règlements relatifs aux services de secours et le fonctionnement de la fonction publique |
+| 1 ° | Évaluation du stage de perfectionnement secours à personnes |
+| 2 ° | Évaluation du stage de perfectionnement incendie et sauvetage |
+| 3 ° | Mise en situation pratique secours à personnes |
+| 4 ° | Mise en situation pratique incendie et sauvetage |
+| 5 ° | Perfectionnement secours à personnes & incendie et sauvetage théorie |
+| 6 ° | Épreuve sportive suivant les annexes II et III |
+| 7 ° | Théorie sur les lois et règlements relatifs aux services de secours et le fonctionnement de la fonction publique |
 
 Les modules visés aux points 1° à 4° sont sanctionnés par des épreuves qui ont lieu au cours de la formation ou de la phase d’initiation.
 
@@ -457,15 +457,15 @@ Le programme de la formation professionnelle est fixée à un minimum de 3200 he
 
 |  | Modules |
 | --- | --- |
-| 1° | Compréhension secours à personnes théorie |
-| 2° | Compréhension incendie et sauvetage & Appareil respiratoire isolant théorie |
-| 3° | Pratique de la réanimation cardio-pulmonaire |
-| 4° | Commandement théorie |
-| 5° | Commandement pratique |
-| 6° | Théorie sur les lois et règlements relatifs aux services de secours et le fonctionnement de la fonction publique |
-| 7° | Volet managérial |
-| 8° | Épreuve sportive suivant les annexes I et III |
-| 9° | Travail de fin de formation / mémoire |
+| 1 ° | Compréhension secours à personnes théorie |
+| 2 ° | Compréhension incendie et sauvetage & Appareil respiratoire isolant théorie |
+| 3 ° | Pratique de la réanimation cardio-pulmonaire |
+| 4 ° | Commandement théorie |
+| 5 ° | Commandement pratique |
+| 6 ° | Théorie sur les lois et règlements relatifs aux services de secours et le fonctionnement de la fonction publique |
+| 7 ° | Volet managérial |
+| 8 ° | Épreuve sportive suivant les annexes I et III |
+| 9 ° | Travail de fin de formation / mémoire |
 
 (2)
 
@@ -520,7 +520,9 @@ Cette nomination confère au pompier professionnel un grade fonctionnel.
 <a id="art-22"></a>
 ## Art. 22.
 
-Au règlement grand-ducal modifié du 30 septembre 2015 fixant les conditions et modalités d’inscription et d’organisation des examens-concours d’admission au stage dans les administrations et services de l’État, l’article 5bis, paragraphe 2, est complété par un nouvel alinéa qui prend la teneur suivante : « Par dérogation aux alinéas 1er à 6, l’épreuve spéciale en vue de l’admission au stage des pompiers professionnels dans les catégories énumérées à l’article 1er, lettres a) à c) est organisée conformément aux dispositions du règlement grand-ducal du 30 juin 2021 fixant les conditions de recrutement des pompiers professionnels. ».
+Au règlement grand-ducal modifié du 30 septembre 2015 fixant les conditions et modalités d’inscription et d’organisation des examens-concours d’admission au stage dans les administrations et services de l’État, l’article 5bis, paragraphe 2, est complété par un nouvel alinéa qui prend la teneur suivante :
+
+« Par dérogation aux alinéas 1er à 6, l’épreuve spéciale en vue de l’admission au stage des pompiers professionnels dans les catégories énumérées à l’article 1er, lettres a) à c) est organisée conformément aux dispositions du règlement grand-ducal du 30 juin 2021 fixant les conditions de recrutement des pompiers professionnels. ».
 
 <a id="art-23"></a>
 ## Art. 23.
@@ -532,15 +534,15 @@ Le règlement grand-ducal du 15 juin 2018 fixant les conditions de recrutement, 
 
 Les agents, tels que définis à l’article 32 de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile, qui ont été repris par le CGDIS dès l’entrée en vigueur de ladite loi et qui sont susceptibles de bénéficier d’une nomination dans un des groupes ou sous-groupes de traitement de la carrière du pompier professionnel tels que définis aux articles 51 à 53 de la même loi, doivent remplir les conditions suivantes :
 
-1. sans préjudice des dispositions de l’article 118 de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile, avoir atteint le niveau de formation scolaire requis pour le poste brigué conformément aux articles 14, 16, 18 et 20 du règlement grand-ducal modifié du 30 septembre 2015 fixant les conditions et modalités d’inscription et d’organisation des examens-concours d’admission au stage dans les administrations et services de l’État ;
+- sans préjudice des dispositions de l’article 118 de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile, avoir atteint le niveau de formation scolaire requis pour le poste brigué conformément aux articles 14, 16, 18 et 20 du règlement grand-ducal modifié du 30 septembre 2015 fixant les conditions et modalités d’inscription et d’organisation des examens-concours d’admission au stage dans les administrations et services de l’État ;
 
-2. être titulaire d’un permis de conduire de la catégorie C en cours de validité.
+- être titulaire d’un permis de conduire de la catégorie C en cours de validité.
 
 Outre les conditions précitées :
 
-1. les agents susceptibles de bénéficier d’une nomination dans le cadre de base doivent avoir atteint un niveau de formation leur permettant d’occuper à la fois la fonction de chef de binôme en matière de secours à personne et la fonction de chef de binôme en matière d’incendie et de sauvetage, ou une fonction équivalente ;
+- les agents susceptibles de bénéficier d’une nomination dans le cadre de base doivent avoir atteint un niveau de formation leur permettant d’occuper à la fois la fonction de chef de binôme en matière de secours à personne et la fonction de chef de binôme en matière d’incendie et de sauvetage, ou une fonction équivalente ;
 
-2. les agents susceptibles de bénéficier d’une nomination dans les cadres moyen et supérieur doivent avoir atteint un niveau de formation leur permettant d’occuper la fonction de chef de peloton ou une fonction équivalente.
+- les agents susceptibles de bénéficier d’une nomination dans les cadres moyen et supérieur doivent avoir atteint un niveau de formation leur permettant d’occuper la fonction de chef de peloton ou une fonction équivalente.
 
 <a id="art-25-20220519"></a>
 ## Art. 25.
@@ -552,19 +554,19 @@ Les agents qui se trouvent en période de stage au moment de l’entrée en vigu
 
 Les agents visés à l’article 32 de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile et bénéficiant d’une nomination dans un des groupes ou sous-groupes de traitement prévus aux articles 51 à 53 de cette même loi, sont classés conformément aux dispositions suivantes :
 
-1. L’agent revêtant au moment de sa nomination le statut de fonctionnaire de l’État ou de fonctionnaire communal bénéficie d’un classement défini comme suit :
+- L’agent revêtant au moment de sa nomination le statut de fonctionnaire de l’État ou de fonctionnaire communal bénéficie d’un classement défini comme suit :
 
-1. Lorsque sa nomination se fait dans son groupe de traitement initial, il est classé au grade et échelon acquis la veille de sa nomination. Il bénéficie des reports d’ancienneté de grade et d’échelon prévus par les articles 7 et 12 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+  - Lorsque sa nomination se fait dans son groupe de traitement initial, il est classé au grade et échelon acquis la veille de sa nomination. Il bénéficie des reports d’ancienneté de grade et d’échelon prévus par les articles 7 et 12 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
 
-2. Lorsque sa nomination se fait dans un groupe de traitement supérieur à son groupe de traitement initial, il est classé au grade qui correspond à l’ancienneté de service acquise depuis sa première nomination respectivement sa nomination définitive et sur base des conditions et délais d’avancement fixés à l’article 12 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État. Le classement dans le grade ainsi déterminé correspond à la valeur de l’échelon barémique atteint la veille de la nouvelle nomination ou à défaut, à la valeur de l’échelon barémique immédiatement supérieur, sans préjudice du report de l’ancienneté d’échelon acquise la veille de la nouvelle nomination. Toutefois, le fonctionnaire a droit, dans son nouveau grade, au même numéro d’échelon, diminué d’un échelon, lorsque son classement se fait dans un grade supérieur à celui atteint la veille de sa nomination, à défaut d’un tel échelon, le fonctionnaire est classé au dernier échelon du grade, le cas échéant allongé, auquel il a été classé. Lorsque le dernier avancement en grade avant le reclassement du fonctionnaire communal visé par le présent article a eu pour effet de le classer dans un grade qui, dans le tableau indiciaire, n’est pas immédiatement supérieur à son grade précédent, le reclassement est effectué d’après les modalités suivantes : Le point 1°, lettre b), alinéa 3 ne s’applique pas lorsqu’un reclassement sur base du point 1°, lettre b), alinéa 2 donnerait un résultat plus favorable pour le fonctionnaire concerné.
+  - Lorsque sa nomination se fait dans un groupe de traitement supérieur à son groupe de traitement initial, il est classé au grade qui correspond à l’ancienneté de service acquise depuis sa première nomination respectivement sa nomination définitive et sur base des conditions et délais d’avancement fixés à l’article 12 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État. Le classement dans le grade ainsi déterminé correspond à la valeur de l’échelon barémique atteint la veille de la nouvelle nomination ou à défaut, à la valeur de l’échelon barémique immédiatement supérieur, sans préjudice du report de l’ancienneté d’échelon acquise la veille de la nouvelle nomination. Toutefois, le fonctionnaire a droit, dans son nouveau grade, au même numéro d’échelon, diminué d’un échelon, lorsque son classement se fait dans un grade supérieur à celui atteint la veille de sa nomination, à défaut d’un tel échelon, le fonctionnaire est classé au dernier échelon du grade, le cas échéant allongé, auquel il a été classé. Lorsque le dernier avancement en grade avant le reclassement du fonctionnaire communal visé par le présent article a eu pour effet de le classer dans un grade qui, dans le tableau indiciaire, n’est pas immédiatement supérieur à son grade précédent, le reclassement est effectué d’après les modalités suivantes : Le point 1°, lettre b), alinéa 3 ne s’applique pas lorsqu’un reclassement sur base du point 1°, lettre b), alinéa 2 donnerait un résultat plus favorable pour le fonctionnaire concerné.
 
-1. le dernier avancement en grade obtenu avant le reclassement est rapporté en partant des grade et échelon atteints la veille de ce reclassement ;
+    - le dernier avancement en grade obtenu avant le reclassement est rapporté en partant des grade et échelon atteints la veille de ce reclassement ;
 
-2. à partir des grade et échelon ainsi obtenus, le reclassement est effectué au grade atteint la veille du reclassement et calculé d’après les modalités prévues au point 1°, lettre b), alinéa 2 ;
+    - à partir des grade et échelon ainsi obtenus, le reclassement est effectué au grade atteint la veille du reclassement et calculé d’après les modalités prévues au point 1°, lettre b), alinéa 2 ;
 
-3. il est ajouté un avancement en grade avec effet au jour du reclassement.
+    - il est ajouté un avancement en grade avec effet au jour du reclassement.
 
-2. L’agent revêtant au moment de sa nomination un statut autre que celui de fonctionnaire de l’État ou de fonctionnaire communal, est classé par le conseil d’administration à un grade et échelon du groupe de traitement auquel il appartient en fonction des dispositions de l’article 19. Cette décision de classement peut déroger au déroulement des carrières ainsi qu’aux autres règles relatives à la détermination du traitement prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État et ceci en fonction de l’expérience acquise par l’agent intéressé notamment en matière du secours à personne et de lutte contre l’incendie.
+- L’agent revêtant au moment de sa nomination un statut autre que celui de fonctionnaire de l’État ou de fonctionnaire communal, est classé par le conseil d’administration à un grade et échelon du groupe de traitement auquel il appartient en fonction des dispositions de l’article 19. Cette décision de classement peut déroger au déroulement des carrières ainsi qu’aux autres règles relatives à la détermination du traitement prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État et ceci en fonction de l’expérience acquise par l’agent intéressé notamment en matière du secours à personne et de lutte contre l’incendie.
 
 <a id="art-27"></a>
 ## Art. 27.

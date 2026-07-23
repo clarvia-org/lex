@@ -43,11 +43,11 @@ L’importation et l’exportation des produits ci-dessus visés ne peuvent avoi
 
 Nul ne peut détenir, délivrer ou acquérir, à titre onéreux ou gratuit, les substances ou préparations visées à l’article précédent, s’il n’a obtenu l’autorisation préalable du Ministre de la Santé, excepté les catégories de personnes et établissements suivants:
 
-1. Les pharmaciens tenant officine ouverte au public,
+- Les pharmaciens tenant officine ouverte au public,
 
-2. Les hôpitaux et établissements hospitaliers spécialisés visées par la loi du 28 août 1998 sur les établissements hospitaliers et disposant d’une pharmacie hospitalière.
+- Les hôpitaux et établissements hospitaliers spécialisés visées par la loi du 28 août 1998 sur les établissements hospitaliers et disposant d’une pharmacie hospitalière.
 
-3. les médecins et médecins-vétérinaires autorisés à détenir des médicaments dans la limite d’une provision pour les soins urgents en vertu de l’article 9 ci-après.
+- les médecins et médecins-vétérinaires autorisés à détenir des médicaments dans la limite d’une provision pour les soins urgents en vertu de l’article 9 ci-après.
 
 A l’exception des personnes visées à l’alinéa 1er sous 1), nul ne peut vendre ou offrir en vente les substances ou préparations visées à l’article 1er, s’il n’en a pas reçu l’autorisation préalable du Ministre de la Santé.
 

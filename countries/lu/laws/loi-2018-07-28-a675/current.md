@@ -54,49 +54,49 @@ L’autorité compétente
 
 Le ministre ayant l’Agriculture dans ses attributions ; ci-après « ministre », exerce les attributions de l’autorité compétente aux fins de l’application :
 
-1. du règlement (CE) n° 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire, instituant l’Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées alimentaires ci-après désigné par « règlement (CE) n° 178/2002 » ;
+- du règlement (CE) n° 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire, instituant l’Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées alimentaires ci-après désigné par « règlement (CE) n° 178/2002 » ;
 
-2. du règlement (CE) n° 852/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif à l’hygiène des denrées alimentaires ci-après désigné par « règlement (CE) n° 852/2004 » ;
+- du règlement (CE) n° 852/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif à l’hygiène des denrées alimentaires ci-après désigné par « règlement (CE) n° 852/2004 » ;
 
-3. du règlement (CE) n° 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale ci-après désigné par « règlement (CE) n° 853/2004 » ;
+- du règlement (CE) n° 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale ci-après désigné par « règlement (CE) n° 853/2004 » ;
 
-4. du règlement (CE) n° 854/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant les règles spécifiques d’organisation des contrôles officiels concernant les produits d’origine animale destinés à la consommation humaine ci-après désigné par « règlement (CE) n° 854/2004 » ;
+- du règlement (CE) n° 854/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant les règles spécifiques d’organisation des contrôles officiels concernant les produits d’origine animale destinés à la consommation humaine ci-après désigné par « règlement (CE) n° 854/2004 » ;
 
-5. du règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n° 999/2001 , (CE) n° 396/2005 , (CE) n° 1069/2009 , (CE) n° 1107/2009 , (UE) n° 1151/2012 , (UE) n° 652/2014 , (UE) 2016/429 et (UE) 2016/2031 , les règlements du Conseil (CE) n° 1/2005 et (CE) n° 1099/2009 ainsi que les directives du Conseil 98/58/CE , 1999/74/CE , 2007/43/CE , 2008/119/CE et 2008/120/CE , et abrogeant les règlements du Parlement européen et du Conseil (CE) n° 854/2004 et (CE) n° 882/2004 , les directives du Conseil 89/608/CEE , 89/662/CEE , 90/425/CEE , 91/496/CEE , 96/23/CE , 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels), ci-après désigné par « règlement (UE) 2017/625 » ;
+- du règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n° 999/2001 , (CE) n° 396/2005 , (CE) n° 1069/2009 , (CE) n° 1107/2009 , (UE) n° 1151/2012 , (UE) n° 652/2014 , (UE) 2016/429 et (UE) 2016/2031 , les règlements du Conseil (CE) n° 1/2005 et (CE) n° 1099/2009 ainsi que les directives du Conseil 98/58/CE , 1999/74/CE , 2007/43/CE , 2008/119/CE et 2008/120/CE , et abrogeant les règlements du Parlement européen et du Conseil (CE) n° 854/2004 et (CE) n° 882/2004 , les directives du Conseil 89/608/CEE , 89/662/CEE , 90/425/CEE , 91/496/CEE , 96/23/CE , 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels), ci-après désigné par « règlement (UE) 2017/625 » ;
 
-6. du règlement CEE n° 315/93 du 8 février 1993 portant établissement des procédures communautaires relatives aux contaminants dans les denrées alimentaires ci-après désigné par « règlement (CE) n° 315/93 » ;
+- du règlement CEE n° 315/93 du 8 février 1993 portant établissement des procédures communautaires relatives aux contaminants dans les denrées alimentaires ci-après désigné par « règlement (CE) n° 315/93 » ;
 
-7. du règlement (CE) n° 396/2005 du Parlement européen et du Conseil du 23 février 2005 concernant les limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d'origine végétale et animale et modifiant la directive 91/414/CEE du Conseil ci-après désigné par « règlement (CE) n° 396/2005 » ;
+- du règlement (CE) n° 396/2005 du Parlement européen et du Conseil du 23 février 2005 concernant les limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d'origine végétale et animale et modifiant la directive 91/414/CEE du Conseil ci-après désigné par « règlement (CE) n° 396/2005 » ;
 
-8. du règlement (UE) n° 1169/2011 du Parlement européen et du Conseil du 25 octobre 2011 concernant l’information des consommateurs sur les denrées alimentaires, modifiant les règlements (CE) n° 1924/2006 et (CE) n° 1925/2006 du Parlement européen et du Conseil et abrogeant la directive 87/250/CEE de la Commission, la directive 90/496/CEE du Conseil, la directive 1999/10/CE de la Commission, la directive 2000/13/CE du Parlement européen et du Conseil, les directives 2002/67/CE et 2008/5/CE de la Commission et le règlement (CE) n° 608/2004 de la Commission ci-après désigné par « règlement (UE) n° 1169/2011 » ;
+- du règlement (UE) n° 1169/2011 du Parlement européen et du Conseil du 25 octobre 2011 concernant l’information des consommateurs sur les denrées alimentaires, modifiant les règlements (CE) n° 1924/2006 et (CE) n° 1925/2006 du Parlement européen et du Conseil et abrogeant la directive 87/250/CEE de la Commission, la directive 90/496/CEE du Conseil, la directive 1999/10/CE de la Commission, la directive 2000/13/CE du Parlement européen et du Conseil, les directives 2002/67/CE et 2008/5/CE de la Commission et le règlement (CE) n° 608/2004 de la Commission ci-après désigné par « règlement (UE) n° 1169/2011 » ;
 
-9. du règlement (CE) n° 1924/2006 du Parlement européen et du Conseil du 20 décembre 2006 concernant les allégations nutritionnelles et de santé portant sur les denrées alimentaires ci-après désigné par « règlement (CE) n° 1924/2006 » ;
+- du règlement (CE) n° 1924/2006 du Parlement européen et du Conseil du 20 décembre 2006 concernant les allégations nutritionnelles et de santé portant sur les denrées alimentaires ci-après désigné par « règlement (CE) n° 1924/2006 » ;
 
-10. du règlement (CE) n° 1333/2008 du Parlement européen et du Conseil du 16 décembre 2008 sur les additifs alimentaires ci-après désigné par « règlement (CE) n° 1333/2008 » ;
+- du règlement (CE) n° 1333/2008 du Parlement européen et du Conseil du 16 décembre 2008 sur les additifs alimentaires ci-après désigné par « règlement (CE) n° 1333/2008 » ;
 
-11. du règlement (CE) n° 1334/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif aux arômes et à certains ingrédients alimentaires possédant des propriétés aromatisantes qui sont destinés à être utilisés dans et sur les denrées alimentaires et modifiant le règlement (CEE) n° 1601/91 du Conseil, les règlements (CE) n° 2232/96 et (CE) n° 110/2008 et la directive 2000/13/CE ci-après désigné par « règlement (CE) n° 1334/2008 » ;
+- du règlement (CE) n° 1334/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif aux arômes et à certains ingrédients alimentaires possédant des propriétés aromatisantes qui sont destinés à être utilisés dans et sur les denrées alimentaires et modifiant le règlement (CEE) n° 1601/91 du Conseil, les règlements (CE) n° 2232/96 et (CE) n° 110/2008 et la directive 2000/13/CE ci-après désigné par « règlement (CE) n° 1334/2008 » ;
 
-12. du règlement (CE) n° 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires et modifiant la directive 83/417/CEE du Conseil, le règlement (CE) n° 1493/1999 du Conseil, la directive 2000/13/CE , la directive 2001/112/CE du Conseil et le règlement (CE) n° 258/97 ci-après désigné par « règlement (CE) n° 1332/2008 » ;
+- du règlement (CE) n° 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires et modifiant la directive 83/417/CEE du Conseil, le règlement (CE) n° 1493/1999 du Conseil, la directive 2000/13/CE , la directive 2001/112/CE du Conseil et le règlement (CE) n° 258/97 ci-après désigné par « règlement (CE) n° 1332/2008 » ;
 
-13. du règlement (CE) n° 1331/2008 du Parlement européen et du Conseil du 16 décembre 2008 établissant une procédure d’autorisation uniforme pour les additifs, enzymes et arômes alimentaires ci-après désigné par « règlement (CE) n° 1331/2008 » ;
+- du règlement (CE) n° 1331/2008 du Parlement européen et du Conseil du 16 décembre 2008 établissant une procédure d’autorisation uniforme pour les additifs, enzymes et arômes alimentaires ci-après désigné par « règlement (CE) n° 1331/2008 » ;
 
-14. du règlement (UE) 2015/2283 du Parlement européen et du Conseil du 25 novembre 2015 relatif aux nouveaux aliments, modifiant le règlement (UE) n° 1169/2011 du Parlement européen et du Conseil et abrogeant le règlement (CE) n° 258/97 du Parlement européen et du Conseil et le règlement (CE) n° 1852/2001 de la Commission, ci-après désigné par « règlement (UE) 2015/2283 » ;
+- du règlement (UE) 2015/2283 du Parlement européen et du Conseil du 25 novembre 2015 relatif aux nouveaux aliments, modifiant le règlement (UE) n° 1169/2011 du Parlement européen et du Conseil et abrogeant le règlement (CE) n° 258/97 du Parlement européen et du Conseil et le règlement (CE) n° 1852/2001 de la Commission, ci-après désigné par « règlement (UE) 2015/2283 » ;
 
-15. du règlement (UE) n° 609/2013 du Parlement européen et du Conseil du 12 juin 2013 concernant les denrées alimentaires destinées aux nourrissons et aux enfants en bas âge, les denrées alimentaires destinées à des fins médicales spéciales et les substituts de la ration journalière totale pour contrôle du poids et abrogeant la directive 92/52/CEE du Conseil, les directives 96/8/CE , 1999/21/CE , 2006/125/CE et 2006/141/CE de la Commission, la directive 2009/39/CE du Parlement européen et du Conseil et les règlements (CE) n° 41/2009 et (CE) n° 953/2009 de la Commission ci-après désigné par « règlement (CE) n° 609/2013 » ;
+- du règlement (UE) n° 609/2013 du Parlement européen et du Conseil du 12 juin 2013 concernant les denrées alimentaires destinées aux nourrissons et aux enfants en bas âge, les denrées alimentaires destinées à des fins médicales spéciales et les substituts de la ration journalière totale pour contrôle du poids et abrogeant la directive 92/52/CEE du Conseil, les directives 96/8/CE , 1999/21/CE , 2006/125/CE et 2006/141/CE de la Commission, la directive 2009/39/CE du Parlement européen et du Conseil et les règlements (CE) n° 41/2009 et (CE) n° 953/2009 de la Commission ci-après désigné par « règlement (CE) n° 609/2013 » ;
 
-16. du règlement (CE) n° 1925/2006 du Parlement européen et du Conseil du 20 décembre 2006 concernant l'adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires ci-après désigné par « règlement (CE) n° 1925/2006 » ;
+- du règlement (CE) n° 1925/2006 du Parlement européen et du Conseil du 20 décembre 2006 concernant l'adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires ci-après désigné par « règlement (CE) n° 1925/2006 » ;
 
-17. du règlement (CE) n° 2065/2003 du Parlement européen et du Conseil du 10 novembre 2003 relatif aux arômes de fumée utilisés ou destinés à être utilisés dans ou sur les denrées alimentaires ci-après désigné par « règlement (CE) n° 2065/2003 » ;
+- du règlement (CE) n° 2065/2003 du Parlement européen et du Conseil du 10 novembre 2003 relatif aux arômes de fumée utilisés ou destinés à être utilisés dans ou sur les denrées alimentaires ci-après désigné par « règlement (CE) n° 2065/2003 » ;
 
-18. du règlement (CE) n° 1935/2004 du Parlement européen et du Conseil du 27 octobre 2004 concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires et abrogeant les directives 80/590/CEE et 89/109/CEE ci-après désigné par « règlement (CE) n° 1935/2004 ».
+- du règlement (CE) n° 1935/2004 du Parlement européen et du Conseil du 27 octobre 2004 concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires et abrogeant les directives 80/590/CEE et 89/109/CEE ci-après désigné par « règlement (CE) n° 1935/2004 ».
 
-19. le règlement (CE) n° 1760/2000 du Parlement européen et du Conseil du 17 juillet 2000 établissant un système d’identification et d’enregistrement des bovins et concernant l’étiquetage de la viande bovine et des produits à base de viande bovine, et abrogeant le règlement (CE) n° 820/97 du Conseil, ci-après dénommé « règlement (CE) n° 1760/2000 » ;
+- le règlement (CE) n° 1760/2000 du Parlement européen et du Conseil du 17 juillet 2000 établissant un système d’identification et d’enregistrement des bovins et concernant l’étiquetage de la viande bovine et des produits à base de viande bovine, et abrogeant le règlement (CE) n° 820/97 du Conseil, ci-après dénommé « règlement (CE) n° 1760/2000 » ;
 
-20. le chapitre V du règlement (CE) n° 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles, ciaprès dénommé « règlement (CE) n° 999/2001 » ;
+- le chapitre V du règlement (CE) n° 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles, ciaprès dénommé « règlement (CE) n° 999/2001 » ;
 
-21. le règlement (CE) n° 2160/2003 du Parlement européen et du Conseil du 17 novembre 2003 sur le contrôle des salmonelles et d’autres agents zoonotiques spécifiques présents dans la chaîne alimentaire, ci-après dénommé « règlement (CE) n° 2160/2003 » ;
+- le règlement (CE) n° 2160/2003 du Parlement européen et du Conseil du 17 novembre 2003 sur le contrôle des salmonelles et d’autres agents zoonotiques spécifiques présents dans la chaîne alimentaire, ci-après dénommé « règlement (CE) n° 2160/2003 » ;
 
-22. le règlement (CE) n° 470/2009 du Parlement européen et du Conseil du 6 mai 2009 établissant des procédures communautaires pour la fixation des limites de résidus des substances pharmacologiquement actives dans les aliments d’origine animale, abrogeant le règlement (CEE) n° 2377/90 du Conseil et modifiant la directive 2001/82/CE du Parlement européen et du Conseil et le règlement (CE) n° 726/2004 du Parlement européen et du Conseil, ci-après dénommé « règlement (CE) n° 470/2009 ».
+- le règlement (CE) n° 470/2009 du Parlement européen et du Conseil du 6 mai 2009 établissant des procédures communautaires pour la fixation des limites de résidus des substances pharmacologiquement actives dans les aliments d’origine animale, abrogeant le règlement (CEE) n° 2377/90 du Conseil et modifiant la directive 2001/82/CE du Parlement européen et du Conseil et le règlement (CE) n° 726/2004 du Parlement européen et du Conseil, ci-après dénommé « règlement (CE) n° 470/2009 ».
 
 (2)
 
@@ -117,31 +117,31 @@ Il est créé un commissariat du Gouvernement à la qualité, à la fraude et à
 
 Le commissariat est chargé des missions suivantes :
 
-1. l’organisation et la coordination, en étroite collaboration avec les administrations et les agents énumérés à l’article 11 paragraphe 1er, des missions de surveillance et de contrôle des denrées alimentaires ;
+- l’organisation et la coordination, en étroite collaboration avec les administrations et les agents énumérés à l’article 11 paragraphe 1er, des missions de surveillance et de contrôle des denrées alimentaires ;
 
-2. d’harmoniser les procédures de contrôles des établissements du secteur alimentaire effectués par les agents visés à l’article 11 paragraphe 1er ;
+- d’harmoniser les procédures de contrôles des établissements du secteur alimentaire effectués par les agents visés à l’article 11 paragraphe 1er ;
 
-3. l’élaboration, l’intégration, la gestion, ainsi que la mise à jour du plan de contrôle pluriannuel intégré suivant les dispositions des articles 41 à 44 du règlement (CE) n° 882/2004 ;
+- l’élaboration, l’intégration, la gestion, ainsi que la mise à jour du plan de contrôle pluriannuel intégré suivant les dispositions des articles 41 à 44 du règlement (CE) n° 882/2004 ;
 
-4. l’exercice des fonctions de point de contact pour le Luxembourg du système d’alerte rapide des aliments pour animaux et des denrées alimentaires créées en vertu de l’article 50 du règlement (CE) n° 178/2002, incluant la gestion dudit système ;
+- l’exercice des fonctions de point de contact pour le Luxembourg du système d’alerte rapide des aliments pour animaux et des denrées alimentaires créées en vertu de l’article 50 du règlement (CE) n° 178/2002, incluant la gestion dudit système ;
 
-5. l’élaboration, la gestion et la mise à jour du plan de gestion de crise prévue à l’article 13 du règlement (CE) n° 882/2004 ;
+- l’élaboration, la gestion et la mise à jour du plan de gestion de crise prévue à l’article 13 du règlement (CE) n° 882/2004 ;
 
-6. l’information des citoyens en application de l’article 10 du règlement (CE) n° 178/2002 ;
+- l’information des citoyens en application de l’article 10 du règlement (CE) n° 178/2002 ;
 
-7. la coordination de la formation continue des agents chargés de procéder aux contrôles officiels en application de l’article 6 du règlement (CE) n° 882/2004 ;
+- la coordination de la formation continue des agents chargés de procéder aux contrôles officiels en application de l’article 6 du règlement (CE) n° 882/2004 ;
 
-8. la gestion et/ou l’évaluation des audits réalisés en vertu de l’article 4 du règlement (CE) n° 882/2004 et la proposition des mesures qui en découlent visées à l’article 2 du même règlement ;
+- la gestion et/ou l’évaluation des audits réalisés en vertu de l’article 4 du règlement (CE) n° 882/2004 et la proposition des mesures qui en découlent visées à l’article 2 du même règlement ;
 
-9. la coordination des registres dans lesquels les établissements du secteur alimentaire doivent être enregistrés ou agrées conformément aux articles 6 et 7 ;
+- la coordination des registres dans lesquels les établissements du secteur alimentaire doivent être enregistrés ou agrées conformément aux articles 6 et 7 ;
 
-10. l’émission d’avis sur toutes les questions scientifiques et techniques ayant trait à la qualité, à la fraude et à sécurité alimentaire qui lui sont soumises par les ministres ayant respectivement la Santé et la Protection des consommateurs dans leurs attributions ;
+- l’émission d’avis sur toutes les questions scientifiques et techniques ayant trait à la qualité, à la fraude et à sécurité alimentaire qui lui sont soumises par les ministres ayant respectivement la Santé et la Protection des consommateurs dans leurs attributions ;
 
-11. l’étude et la proposition de sa propre initiative de toute mesure ou amélioration en matière de qualité, de fraude et de sécurité alimentaire qu’il jugera utile ;
+- l’étude et la proposition de sa propre initiative de toute mesure ou amélioration en matière de qualité, de fraude et de sécurité alimentaire qu’il jugera utile ;
 
-12. l’exercice des fonctions de coordination des réunions qui concernent le contrôle officiel en matière de législation relative aux aliments pour animaux et aux denrées alimentaires ainsi que des dispositions concernant la santé animale et le bien-être des animaux, organisées au niveau des institutions de l’Union européenne ;
+- l’exercice des fonctions de coordination des réunions qui concernent le contrôle officiel en matière de législation relative aux aliments pour animaux et aux denrées alimentaires ainsi que des dispositions concernant la santé animale et le bien-être des animaux, organisées au niveau des institutions de l’Union européenne ;
 
-13. l’exercice des fonctions de point de contact avec la Commission européenne conformément à la décision (CE) de la Commission du 21 mai 2007 établissant des lignes directrices pour aider les États membres à élaborer le plan de contrôle national pluriannuel intégré unique prévu par le règlement (CE) n° 882/2004 du Parlement européen et du Conseil ;
+- l’exercice des fonctions de point de contact avec la Commission européenne conformément à la décision (CE) de la Commission du 21 mai 2007 établissant des lignes directrices pour aider les États membres à élaborer le plan de contrôle national pluriannuel intégré unique prévu par le règlement (CE) n° 882/2004 du Parlement européen et du Conseil ;
 
 (2)
 
@@ -195,7 +195,7 @@ Agrément
 
 (1)
 
-Avant de pouvoir exercer son activité, l’établissement du secteur alimentaire visé à l’article 4, paragraphe 3 du règlement (CE) n° 852/2004 est agréé par le ministre , l’avis de l’ALVA ayant été demandé.
+Avant de pouvoir exercer son activité, l’établissement du secteur alimentaire visé à l’article 4, paragraphe 3 du règlement (CE) n° 852/2004 est agréé par le ministre , l’avis de l’ ALVA ayant été demandé.
 
 (2)
 
@@ -289,11 +289,11 @@ Les agents mentionnés au paragraphe 1er ont le droit de requérir directement a
 
 Les résultats des contrôles officiels sont regroupés par l’ALVA en trois niveaux d'hygiène qui sont établies comme suit :
 
-1. « Bon niveau d'hygiène » pour les établissements ne présentant pas de non-conformité ou présentant uniquement des non-conformités mineures ;
+- « Bon niveau d'hygiène » pour les établissements ne présentant pas de non-conformité ou présentant uniquement des non-conformités mineures ;
 
-2. « Niveau d'hygiène acceptable » pour les établissements ne relevant pas de la catégorie définie sous a) et ne présentant pas de non-conformité impliquant la mise en œuvre d'une mise en demeure par les agents qui procèdent au contrôle ;
+- « Niveau d'hygiène acceptable » pour les établissements ne relevant pas de la catégorie définie sous a) et ne présentant pas de non-conformité impliquant la mise en œuvre d'une mise en demeure par les agents qui procèdent au contrôle ;
 
-3. « Niveau d'hygiène à améliorer ; mesures correctives requises » pour les établissements mis en demeure de procéder à des mesures correctives.
+- « Niveau d'hygiène à améliorer ; mesures correctives requises » pour les établissements mis en demeure de procéder à des mesures correctives.
 
 Un règlement grand-ducal précise les données des établissements du secteur alimentaire détermine les logos représentant les trois niveaux d’hygiène qui sont rendus publics, la durée ainsi que les modalités de la publication des résultats de contrôle publiés sur le site internet de l’ALVA .
 
@@ -314,21 +314,21 @@ Prérogatives de contrôle
 
 Les membres de la Police grand-ducale et les agents mentionnés à l’article 9 sont habilités :
 
-1. à demander communication et recevoir toutes les informations relatives à des denrées alimentaires des animaux producteurs de denrées alimentaires et des matériaux et objets destinés à entrer en contact avec des denrées alimentaires ;
+- à demander communication et recevoir toutes les informations relatives à des denrées alimentaires des animaux producteurs de denrées alimentaires et des matériaux et objets destinés à entrer en contact avec des denrées alimentaires ;
 
-2. à demander communication et recevoir tous les livres, registres, fichiers et tous les documents papiers ou électroniques relatifs à des denrées alimentaires et des matériaux et objets destinés à entrer en contact avec des denrées alimentaires et à en prendre copie, les pièces rédigées dans une langue autre que le luxembourgeois, le français, l’allemand ou l’anglais devant être accompagnées d’une traduction dans une de ces langues ;
+- à demander communication et recevoir tous les livres, registres, fichiers et tous les documents papiers ou électroniques relatifs à des denrées alimentaires et des matériaux et objets destinés à entrer en contact avec des denrées alimentaires et à en prendre copie, les pièces rédigées dans une langue autre que le luxembourgeois, le français, l’allemand ou l’anglais devant être accompagnées d’une traduction dans une de ces langues ;
 
-3. à photographier ou faire photographier des denrées alimentaires et des matériaux et objets destinés à entrer en contact avec des denrées alimentaires, des installations, locaux et moyens de transports soumis à la présente loi ;
+- à photographier ou faire photographier des denrées alimentaires et des matériaux et objets destinés à entrer en contact avec des denrées alimentaires, des installations, locaux et moyens de transports soumis à la présente loi ;
 
-4. à effectuer ou faire effectuer des mesurages de nature technique et scientifique afin d’en vérifier la conformité des installations, locaux et moyens de transport ;
+- à effectuer ou faire effectuer des mesurages de nature technique et scientifique afin d’en vérifier la conformité des installations, locaux et moyens de transport ;
 
-5. à prélever ou à faire prélever, aux fins d’examen ou d’analyse, des échantillons des denrées alimentaires et des matériaux et objets destinés à entrer en contact avec des denrées alimentaires, les échantillons étant pris contre délivrance d’un accusé de réception. Une partie de l’échantillon, cachetée ou scellée, est mise à disposition du fabricant, du producteur, de l’importateur, du distributeur, du destinataire, de l’exploitant du secteur alimentaire et des matériaux et objets destinés à entrer en contact avec des denrées alimentaires ou de son représentant à moins que celui-ci n’y renonce expressément. Le propriétaire ou détenteur des échantillons prélevés sera indemnisé au prix courant de la valeur de ces échantillons ;
+- à prélever ou à faire prélever, aux fins d’examen ou d’analyse, des échantillons des denrées alimentaires et des matériaux et objets destinés à entrer en contact avec des denrées alimentaires, les échantillons étant pris contre délivrance d’un accusé de réception. Une partie de l’échantillon, cachetée ou scellée, est mise à disposition du fabricant, du producteur, de l’importateur, du distributeur, du destinataire, de l’exploitant du secteur alimentaire et des matériaux et objets destinés à entrer en contact avec des denrées alimentaires ou de son représentant à moins que celui-ci n’y renonce expressément. Le propriétaire ou détenteur des échantillons prélevés sera indemnisé au prix courant de la valeur de ces échantillons ;
 
-6. à saisir et au besoin mettre sous séquestre des denrées alimentaires et matériaux et objets destinés à entrer en contact avec des denrées alimentaires ainsi que tous les registres, écritures ou documents les concernant ;
+- à saisir et au besoin mettre sous séquestre des denrées alimentaires et matériaux et objets destinés à entrer en contact avec des denrées alimentaires ainsi que tous les registres, écritures ou documents les concernant ;
 
-7. le cas échéant, à appliquer, s’ils en sont requis par l’autorité compétente, les décisions prises en vertu de l’article 14 de la présente loi.
+- le cas échéant, à appliquer, s’ils en sont requis par l’autorité compétente, les décisions prises en vertu de l’article 14 de la présente loi.
 
-8. à procéder à des achats-tests de biens ou de services, si nécessaire sans s’identifier, afin de détecter des infractions et d’obtenir des éléments de preuve, y compris le pouvoir d’inspecter, d’observer, d’étudier, de démonter ou de tester les biens et services. Au cas où un échantillon du bien est nécessaire, les dispositions du point e) s’appliquent.
+- à procéder à des achats-tests de biens ou de services, si nécessaire sans s’identifier, afin de détecter des infractions et d’obtenir des éléments de preuve, y compris le pouvoir d’inspecter, d’observer, d’étudier, de démonter ou de tester les biens et services. Au cas où un échantillon du bien est nécessaire, les dispositions du point e) s’appliquent.
 
 (2)
 
@@ -387,9 +387,9 @@ Taxes
 
 Afin de couvrir les coûts des contrôles officiels des denrées alimentaires et des matériaux et objets destinés à entrer en contact avec les denrées alimentaires effectués par les agents visés à l’article 11 dans le cadre de l’exécution des missions visées par les règlements européens mentionnés à l’article 2, les exploitants du secteur alimentaire sont redevables :
 
-1. des taxes pour les contrôles officiels visés à article 79, paragraphe 1 er , du règlement (UE) 2017/625 appliquées conformément aux montants indiqués à l’annexe IV du règlement précité ;
+- des taxes pour les contrôles officiels visés à article 79, paragraphe 1 er , du règlement (UE) 2017/625 appliquées conformément aux montants indiqués à l’annexe IV du règlement précité ;
 
-2. des taxes pour les contrôles officiels visés à article 79, paragraphe 2, lettres a) et c), du règlement (UE) 2017/625 .
+- des taxes pour les contrôles officiels visés à article 79, paragraphe 2, lettres a) et c), du règlement (UE) 2017/625 .
 
 (2)
 
@@ -493,11 +493,11 @@ Mesures d’adaptations des annexes des règlements (CE) 852/2004, 853/2004 et 8
 
 Des règlements grand-ducaux peuvent fixer des mesures à respecter pour permettre l’utilisation des méthodes traditionnelles à toute étape de la production, de la transformation ou de la distribution des denrées alimentaires ainsi que des mesures pour répondre aux besoins des établissements du secteur alimentaire situés dans des régions soumises à des contraintes géographiques particulières de même que des mesures s’appliquant uniquement à la construction, à la configuration et à l’équipement des établissements du secteur alimentaire en adaptant :
 
-1. les dispositions de l’annexe II du règlement (CE) n° 852/2004 conformément à l’article 13, paragraphe 3, du même règlement ;
+- les dispositions de l’annexe II du règlement (CE) n° 852/2004 conformément à l’article 13, paragraphe 3, du même règlement ;
 
-2. les dispositions de l’annexe III du règlement (CE) n° 853/2004 conformément à l’article 10 du même règlement ;
+- les dispositions de l’annexe III du règlement (CE) n° 853/2004 conformément à l’article 10 du même règlement ;
 
-3. les dispositions de l’annexe I du règlement (CE) n° 854/2004 conformément à l’article 17, paragraphe 3, du même règlement.
+- les dispositions de l’annexe I du règlement (CE) n° 854/2004 conformément à l’article 17, paragraphe 3, du même règlement.
 
 <a id="art-18"></a>
 ## Art. 18.
@@ -506,17 +506,17 @@ Modification de la loi modifiée du 25 septembre 1953 ayant pour objet la réorg
 
 La loi modifiée du 25 septembre 1953 ayant pour objet la réorganisation du contrôle des denrées alimentaires, boissons et produits usuels est modifiée comme suit :
 
-1. L’article 1 er est remplacé par le texte suivant : « Dans l’intérêt de la santé publique sont soumis à la surveillance des autorités, d’après les dispositions de la présente loi, la fabrication, la préparation, la transformation, le commerce et la distribution des objets de consommation et d’habillement ; des produits cosmétiques et articles de toilette ; des objets et produits usuels employés dans le ménage, tels que jouets, tapis, meubles, tapisseries, ustensiles, couleurs, essences et autres substances liquides ou solides.
+- L’article 1 er est remplacé par le texte suivant : « Dans l’intérêt de la santé publique sont soumis à la surveillance des autorités, d’après les dispositions de la présente loi, la fabrication, la préparation, la transformation, le commerce et la distribution des objets de consommation et d’habillement ; des produits cosmétiques et articles de toilette ; des objets et produits usuels employés dans le ménage, tels que jouets, tapis, meubles, tapisseries, ustensiles, couleurs, essences et autres substances liquides ou solides.
 
-2. À la fin de l’article 2, alinéa 2, point 1, les termes et des denrées alimentaires sont à ajouter ;
+- À la fin de l’article 2, alinéa 2, point 1, les termes et des denrées alimentaires sont à ajouter ;
 
-3. À l’article 4 alinéa 1, les termes les denrées et boissons alimentaires sont supprimés ;
+- À l’article 4 alinéa 1, les termes les denrées et boissons alimentaires sont supprimés ;
 
-4. À l’article 11, le point 1 l’article 11 est supprimé ;
+- À l’article 11, le point 1 l’article 11 est supprimé ;
 
-5. À l’article 11, point 3, les termes denrées et boissons sont supprimés ;
+- À l’article 11, point 3, les termes denrées et boissons sont supprimés ;
 
-6. L’article 14 est supprimé.
+- L’article 14 est supprimé.
 
 <a id="art-19"></a>
 ## Art. 19.

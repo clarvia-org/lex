@@ -39,9 +39,9 @@ Ce complément, qui est défini à l'article 3, est dû dans la mesure où les d
 
 Peuvent prétendre au complément:
 
-1. les personnes admises à durée indéterminée dans les centres intégrés pour personnes âgées, les maisons de soins, ou les autres établissements médico-sociaux assurant un accueil de jour et de nuit dûment agréés conformément à la loi du 8 septembre 1998 réglant les relations entre l'Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique;
+- les personnes admises à durée indéterminée dans les centres intégrés pour personnes âgées, les maisons de soins, ou les autres établissements médico-sociaux assurant un accueil de jour et de nuit dûment agréés conformément à la loi du 8 septembre 1998 réglant les relations entre l'Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique;
 
-2. les personnes séjournant dans un hôpital et considérées comme cas de simple hébergement au sens de l'article 17 du code des assurances sociales .
+- les personnes séjournant dans un hôpital et considérées comme cas de simple hébergement au sens de l'article 17 du code des assurances sociales .
 
 <a id="art-3"></a>
 ## Art. 3.-
@@ -57,11 +57,11 @@ Le complément est versé par le Fonds national de solidarité.
 
 Le montant du complément est déterminé en fonction:
 
-1. des ressources personnelles du bénéficiaire de l'accueil, déterminées conformément aux articles 6 à 10;
+- des ressources personnelles du bénéficiaire de l'accueil, déterminées conformément aux articles 6 à 10;
 
-2. d'un montant mensuel immunisé sur les ressources du bénéficiaire, destiné à couvrir ses besoins personnels;
+- d'un montant mensuel immunisé sur les ressources du bénéficiaire, destiné à couvrir ses besoins personnels;
 
-3. d'un montant qui représente le prix de base mensuel des prestations de l'accueil, ci-après appelé montant minimum mensuel de référence.
+- d'un montant qui représente le prix de base mensuel des prestations de l'accueil, ci-après appelé montant minimum mensuel de référence.
 
 Le montant indiqué sous b) est fixé par règlement grand-ducal.
 
@@ -102,15 +102,15 @@ Le revenu mensuel est obtenu en divisant par douze le montant total des revenus 
 
 Sont également à considérer comme ressources personnelles au sens de l'article 1er et à utiliser pour le paiement du prix des prestations fournies dans le cadre de l'accueil, prioritairement avant toute autre prise en charge par le Fonds national de solidarité:
 
-1. l'argent comptant, les avoirs en compte et, d'une façon générale, tous les moyens de paiement selon leur valeur nominale;
+- l'argent comptant, les avoirs en compte et, d'une façon générale, tous les moyens de paiement selon leur valeur nominale;
 
-2. les actions, les parts de société, les obligations selon leur valeur boursière;
+- les actions, les parts de société, les obligations selon leur valeur boursière;
 
-3. les objets de luxe ou d'art, les collections, selon leur valeur vénale;
+- les objets de luxe ou d'art, les collections, selon leur valeur vénale;
 
-4. le gros bétail selon sa valeur marchande;
+- le gros bétail selon sa valeur marchande;
 
-5. en général, tous les autres biens meubles, selon leur valeur vénale.
+- en général, tous les autres biens meubles, selon leur valeur vénale.
 
 Les éléments énumérés ci-avant ne sont pris en compte que pour la part qui dépasse le montant de 2.500 euros.
 
@@ -127,9 +127,9 @@ Dans ce cas, l'article 17 est applicable.
 
 La valeur vénale de la fortune immobilière, située au Grand-Duché de Luxembourg, est déterminée comme suit:
 
-1. les valeurs unitaires telles qu'elles sont fixées par l'Administration des contributions pour la fixation de l'impôt sur la fortune des terrains agricoles et forestiers sont multipliées par le coefficient 60;
+- les valeurs unitaires telles qu'elles sont fixées par l'Administration des contributions pour la fixation de l'impôt sur la fortune des terrains agricoles et forestiers sont multipliées par le coefficient 60;
 
-2. les valeurs unitaires telles qu'elles sont fixées par l'Administration des contributions pour la fixation de l'impôt sur la fortune de tous les immeubles qui ne sont pas visés sous a) ci-avant sont multipliées par le coefficient 100.
+- les valeurs unitaires telles qu'elles sont fixées par l'Administration des contributions pour la fixation de l'impôt sur la fortune de tous les immeubles qui ne sont pas visés sous a) ci-avant sont multipliées par le coefficient 100.
 
 Si le requérant conteste la valeur ainsi déterminée, celle-ci est évaluée par voie d'expertise.
 
@@ -244,13 +244,13 @@ La décision doit être motivée.
 
 Le Fonds national de solidarité réclame dans les limites à fixer par un règlement grand-ducal la restitution des sommes par lui versées au titre du complément:
 
-1. contre le bénéficiaire revenu à meilleure fortune;
+- contre le bénéficiaire revenu à meilleure fortune;
 
-2. contre la succession du bénéficiaire, au maximum jusqu'à concurrence de l'actif de la succession;
+- contre la succession du bénéficiaire, au maximum jusqu'à concurrence de l'actif de la succession;
 
-3. contre le donataire du bénéficiaire, lorsque ce dernier a fait la donation directe ou indirecte postérieurement à la demande du complément, ou dans les dix ans qui ont précédé cette demande ou après l’âge de cinquante ans accomplis , au maximum jusqu'à concurrence de la valeur des biens, au jour de la donation;
+- contre le donataire du bénéficiaire, lorsque ce dernier a fait la donation directe ou indirecte postérieurement à la demande du complément, ou dans les dix ans qui ont précédé cette demande ou après l’âge de cinquante ans accomplis , au maximum jusqu'à concurrence de la valeur des biens, au jour de la donation;
 
-4. contre le légataire du bénéficiaire, au maximum jusqu'à concurrence de la valeur des biens à lui légués au jour de l'ouverture de la succession.
+- contre le légataire du bénéficiaire, au maximum jusqu'à concurrence de la valeur des biens à lui légués au jour de l'ouverture de la succession.
 
 Les montants touchés par le Fonds en lieu et place du bénéficiaire, en exécution du paragraphe 4 de l'article 10 de la présente loi, sont à déduire du montant à récupérer en vertu du présent article. Il en est de même des montants dont les descendants se sont acquittés à l'égard du bénéficiaire en raison de l'obligation alimentaire résultant des articles 205 et 206 du code civil.
 
@@ -292,7 +292,7 @@ Le complément ne peut être cédé, ni mis en gage, ni saisi.
 <a id="art-19"></a>
 ## Art. 19.-
 
-Contre les décisions prises par le Fonds national de solidarité, la personne concernée dispose d'un recours devant le conseil arbitral et, conformément aux articles 454 à 456 du Code de la sécurité sociale devant le Conseil arbitral de la sécurité sociale et, en appel, devant le Conseil supérieur de la sécurité sociale. La procédure à suivre et les frais de justice sont régis par le règlement grand-ducal du 24 décembre 1993 déterminant en application de l'article 294 du code des assurances sociales la procédure à suivre devant le conseil arbitral et le conseil supérieur des assurances sociales, ainsi que les délais et frais de justice.
+Contre les décisions prises par le Fonds national de solidarité, la personne concernée dispose d'un recours devant le conseil arbitral et , conformément aux articles 454 à 456 du Code de la sécurité sociale devant le Conseil arbitral de la sécurité sociale et, en appel, devant le Conseil supérieur de la sécurité sociale. La procédure à suivre et les frais de justice sont régis par le règlement grand-ducal du 24 décembre 1993 déterminant en application de l'article 294 du code des assurances sociales la procédure à suivre devant le conseil arbitral et le conseil supérieur des assurances sociales, ainsi que les délais et frais de justice.
 
 <a id="art-20"></a>
 ## Art. 20.-

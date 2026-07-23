@@ -56,75 +56,75 @@ Conformément aux dispositions des articles 14 et 70 de la loi modifiée du 30 j
 
 Les neuf domaines de compétences professionnelles sont constitués des compétences suivantes qui précisent les objectifs de formation et les critères d’évaluation :
 
-1. Agir en professionnel :
+- Agir en professionnel :
 
-1. Contribuer à l’éducation des élèves, affronter les dilemmes éthiques de la profession et faire preuve de conscience professionnelle
+  - Contribuer à l’éducation des élèves, affronter les dilemmes éthiques de la profession et faire preuve de conscience professionnelle
 
-1. dans le respect de la personne et des convictions de chaque élève et des parents d’élèves ;
+    - dans le respect de la personne et des convictions de chaque élève et des parents d’élèves ;
 
-2. dans le respect de la solidarité et de l’équité entre les élèves ;
+    - dans le respect de la solidarité et de l’équité entre les élèves ;
 
-3. dans le respect de la liberté d’opinion ;
+    - dans le respect de la liberté d’opinion ;
 
-4. dans le respect de la confidentialité liée à l’environnement professionnel (élèves, parents d’élèves, institution et personnel des établissements scolaires) ;
+    - dans le respect de la confidentialité liée à l’environnement professionnel (élèves, parents d’élèves, institution et personnel des établissements scolaires) ;
 
-5. dans son engagement à promouvoir l’épanouissement de l’élève.
+    - dans son engagement à promouvoir l’épanouissement de l’élève.
 
-2. Avoir le sens des responsabilités
+  - Avoir le sens des responsabilités
 
-1. dans le cadre des obligations réglementaires et des textes officiels en tant que fonctionnaire ou employé de l’État ;
+    - dans le cadre des obligations réglementaires et des textes officiels en tant que fonctionnaire ou employé de l’État ;
 
-2. dans le suivi de l’évolution du système éducatif ;
+    - dans le suivi de l’évolution du système éducatif ;
 
-3. dans sa volonté de s’inscrire dans un processus de formation tout au long de la vie.
+    - dans sa volonté de s’inscrire dans un processus de formation tout au long de la vie.
 
-2. Inscrire son action dans une dynamique collective :
+- Inscrire son action dans une dynamique collective :
 
-1. Participer au développement de l’établissement scolaire.
+  - Participer au développement de l’établissement scolaire.
 
-2. Inscrire son action au-delà de l’espace-classe pour décloisonner l’apprentissage.
+  - Inscrire son action au-delà de l’espace-classe pour décloisonner l’apprentissage.
 
-3. Mobiliser les dispositifs d’aide - internes et externes à l’établissement scolaire - en cas de difficultés d’apprentissage.
+  - Mobiliser les dispositifs d’aide - internes et externes à l’établissement scolaire - en cas de difficultés d’apprentissage.
 
-3. Coopérer avec les parents d’élèves :
+- Coopérer avec les parents d’élèves :
 
-1. Instaurer une relation d’échange avec les parents d’élèves.
+  - Instaurer une relation d’échange avec les parents d’élèves.
 
-2. Nourrir le dialogue d’éléments pertinents liés à l’évolution de l’élève.
+  - Nourrir le dialogue d’éléments pertinents liés à l’évolution de l’élève.
 
-4. Concevoir et mettre en œuvre des situations d’apprentissage :
+- Concevoir et mettre en œuvre des situations d’apprentissage :
 
-1. Enseigner sur la base des principes d’une approche par compétences.
+  - Enseigner sur la base des principes d’une approche par compétences.
 
-2. Maîtriser les conditions d’un enseignement efficace et différencié.
+  - Maîtriser les conditions d’un enseignement efficace et différencié.
 
-5. Organiser le fonctionnement du groupe-classe :
+- Organiser le fonctionnement du groupe-classe :
 
-1. Établir un cadre de travail stimulant et sécurisant propice à l’apprentissage.
+  - Établir un cadre de travail stimulant et sécurisant propice à l’apprentissage.
 
-2. Organiser et gérer de manière efficace et équilibrée un groupe-classe.
+  - Organiser et gérer de manière efficace et équilibrée un groupe-classe.
 
-6. Évaluer les apprentissages :
+- Évaluer les apprentissages :
 
-1. Placer l’évaluation au service des apprentissages.
+  - Placer l’évaluation au service des apprentissages.
 
-2. Communiquer les résultats des évaluations de façon compréhensible auprès de tous les acteurs concernés : élèves, parents d’élèves, équipes pédagogiques.
+  - Communiquer les résultats des évaluations de façon compréhensible auprès de tous les acteurs concernés : élèves, parents d’élèves, équipes pédagogiques.
 
-7. Maîtriser les savoirs psychopédagogiques et disciplinaires :
+- Maîtriser les savoirs psychopédagogiques et disciplinaires :
 
-1. Maîtriser les bases du développement psychologique de l’enfant et de l’adolescent.
+  - Maîtriser les bases du développement psychologique de l’enfant et de l’adolescent.
 
-2. Maîtriser les savoirs disciplinaires enseignés.
+  - Maîtriser les savoirs disciplinaires enseignés.
 
-3. Savoir mobiliser les compétences transversales.
+  - Savoir mobiliser les compétences transversales.
 
-8. Communiquer avec les élèves et les partenaires internes et externes à l’établissement scolaire :
+- Communiquer avec les élèves et les partenaires internes et externes à l’établissement scolaire :
 
-1. Communiquer de manière régulière, consensuelle et cohérente dans le respect des règles d’usage, auprès des élèves et des partenaires internes et externes.
+  - Communiquer de manière régulière, consensuelle et cohérente dans le respect des règles d’usage, auprès des élèves et des partenaires internes et externes.
 
-9. Maîtriser les technologies de l’information et de la communication appliquées à l’enseignement (TICE) :
+- Maîtriser les technologies de l’information et de la communication appliquées à l’enseignement (TICE) :
 
-1. Intégrer de manière adaptée les technologies de l’information et de la communication dans ses pratiques pédagogiques.
+  - Intégrer de manière adaptée les technologies de l’information et de la communication dans ses pratiques pédagogiques.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -133,87 +133,87 @@ Conformément aux dispositions des articles 15 et 71 de la loi du 30 juillet 201
 
 Les neuf domaines de compétences professionnelles sont constitués des compétences suivantes qui précisent les objectifs de formation et les critères d’évaluation :
 
-1. Agir en professionnel :
+- Agir en professionnel :
 
-1. Contribuer à l’éducation des enfants et des jeunes, affronter les dilemmes éthiques de la profession et faire preuve de conscience professionnelle
+  - Contribuer à l’éducation des enfants et des jeunes, affronter les dilemmes éthiques de la profession et faire preuve de conscience professionnelle
 
-1. dans le respect de la personne et des convictions de chaque enfant, de chaque jeune ainsi que de leurs parents ;
+    - dans le respect de la personne et des convictions de chaque enfant, de chaque jeune ainsi que de leurs parents ;
 
-2. dans le respect de la solidarité et de l’équité entre les enfants et entre les jeunes ;
+    - dans le respect de la solidarité et de l’équité entre les enfants et entre les jeunes ;
 
-3. dans le respect de la liberté d’opinion ;
+    - dans le respect de la liberté d’opinion ;
 
-4. dans le respect de la confidentialité liée à l’environnement professionnel (enfants, jeunes, parents, institution et personnel des établissements) ;
+    - dans le respect de la confidentialité liée à l’environnement professionnel (enfants, jeunes, parents, institution et personnel des établissements) ;
 
-5. dans son engagement à promouvoir l’épanouissement de l’enfant ou du jeune.
+    - dans son engagement à promouvoir l’épanouissement de l’enfant ou du jeune.
 
-2. Avoir le sens des responsabilités
+  - Avoir le sens des responsabilités
 
-1. dans le cadre des obligations réglementaires et des textes officiels en tant que fonctionnaire ou employé de l’État ;
+    - dans le cadre des obligations réglementaires et des textes officiels en tant que fonctionnaire ou employé de l’État ;
 
-2. dans le suivi de l’évolution du système éducatif et psycho-social ;
+    - dans le suivi de l’évolution du système éducatif et psycho-social ;
 
-3. dans sa volonté de s’inscrire dans un processus de formation tout au long de la vie.
+    - dans sa volonté de s’inscrire dans un processus de formation tout au long de la vie.
 
-2. Inscrire son action pédagogique dans une dynamique collective :
+- Inscrire son action pédagogique dans une dynamique collective :
 
-1. Coopérer en équipe multiprofessionnelle.
+  - Coopérer en équipe multiprofessionnelle.
 
-2. Participer au développement de l’équipe.
+  - Participer au développement de l’équipe.
 
-3. Participer au développement conceptuel et organisationnel de l’établissement.
+  - Participer au développement conceptuel et organisationnel de l’établissement.
 
-3. Développer les partenariats et instaurer un dialogue avec le milieu familial et social des enfants et des jeunes :
+- Développer les partenariats et instaurer un dialogue avec le milieu familial et social des enfants et des jeunes :
 
-1. Planifier et mettre en œuvre dans un esprit de respect et d’ouverture des mesures de soutien adaptées aux familles en intégrant les ressources du milieu social.
+  - Planifier et mettre en œuvre dans un esprit de respect et d’ouverture des mesures de soutien adaptées aux familles en intégrant les ressources du milieu social.
 
-2. Communiquer avec les personnes issues du milieu familial et social des enfants et des jeunes.
+  - Communiquer avec les personnes issues du milieu familial et social des enfants et des jeunes.
 
-4. Stimuler et soutenir les processus de développement des enfants et des jeunes :
+- Stimuler et soutenir les processus de développement des enfants et des jeunes :
 
-1. Développer et gérer la relation pédagogique avec les enfants et les jeunes.
+  - Développer et gérer la relation pédagogique avec les enfants et les jeunes.
 
-2. Baser l’action éducative et psycho-sociale sur la compréhension du monde à travers le savoir, le savoir-faire et les valeurs.
+  - Baser l’action éducative et psycho-sociale sur la compréhension du monde à travers le savoir, le savoir-faire et les valeurs.
 
-3. Développer la personnalité des enfants et des jeunes par le développement de leurs facultés de perception et d’expression motrices, langagières et créatives.
+  - Développer la personnalité des enfants et des jeunes par le développement de leurs facultés de perception et d’expression motrices, langagières et créatives.
 
-4. Promouvoir le développement et l’éducation des enfants et des jeunes dans une vue inclusive et systémique.
+  - Promouvoir le développement et l’éducation des enfants et des jeunes dans une vue inclusive et systémique.
 
-5. Favoriser la participation des enfants et des jeunes en basant son action professionnelle sur leurs intérêts et besoins.
+  - Favoriser la participation des enfants et des jeunes en basant son action professionnelle sur leurs intérêts et besoins.
 
-6. Organiser l’apprentissage des enfants et des jeunes en groupe sur un mode coopératif.
+  - Organiser l’apprentissage des enfants et des jeunes en groupe sur un mode coopératif.
 
-5. Considérer la pluralité des contextes sociaux et des biographies des enfants et des jeunes :
+- Considérer la pluralité des contextes sociaux et des biographies des enfants et des jeunes :
 
-1. Considérer la diversité et l’individualité du développement de chaque enfant et jeune.
+  - Considérer la diversité et l’individualité du développement de chaque enfant et jeune.
 
-2. Considérer les spécificités socio-économiques, linguistiques, culturelles, religieuses, familiales et sexuelles des enfants et des jeunes.
+  - Considérer les spécificités socio-économiques, linguistiques, culturelles, religieuses, familiales et sexuelles des enfants et des jeunes.
 
-3. Viser une participation équitable à la vie en société des enfants et des jeunes, indépendamment de leurs origines et de leurs milieux de vie.
+  - Viser une participation équitable à la vie en société des enfants et des jeunes, indépendamment de leurs origines et de leurs milieux de vie.
 
-6. Coopérer en réseau pour aménager les transitions :
+- Coopérer en réseau pour aménager les transitions :
 
-1. Organiser les transitions dans le processus de développement des enfants et des jeunes.
+  - Organiser les transitions dans le processus de développement des enfants et des jeunes.
 
-2. Coopérer avec les services d’aide socio-éducative.
+  - Coopérer avec les services d’aide socio-éducative.
 
-7. Maîtriser les savoirs psychopédagogiques et disciplinaires :
+- Maîtriser les savoirs psychopédagogiques et disciplinaires :
 
-1. Connaître les fondements du développement, de l’éducation et de la socialisation de l’enfant et de l’adolescent.
+  - Connaître les fondements du développement, de l’éducation et de la socialisation de l’enfant et de l’adolescent.
 
-2. Savoir observer et analyser les milieux de vie des enfants et des jeunes pour orienter son action socio-éducative aux ressources des enfants et des jeunes.
+  - Savoir observer et analyser les milieux de vie des enfants et des jeunes pour orienter son action socio-éducative aux ressources des enfants et des jeunes.
 
-3. Connaître les fondements de la dynamique des groupes.
+  - Connaître les fondements de la dynamique des groupes.
 
-8. Avoir une posture et une pratique réflexives par une réflexion dans et sur l’action :
+- Avoir une posture et une pratique réflexives par une réflexion dans et sur l’action :
 
-1. Adopter une démarche réflexive sur son propre agir, en situation ou après l’action, pour mobiliser des savoirs théoriques à acquérir ou déjà acquis.
+  - Adopter une démarche réflexive sur son propre agir, en situation ou après l’action, pour mobiliser des savoirs théoriques à acquérir ou déjà acquis.
 
-2. S’intéresser à soi en tant qu’acteur dans toute situation professionnelle vécue pour mieux se connaître et mieux connaître sa manière d’agir dans des circonstances données.
+  - S’intéresser à soi en tant qu’acteur dans toute situation professionnelle vécue pour mieux se connaître et mieux connaître sa manière d’agir dans des circonstances données.
 
-9. Maîtriser les technologies de l’information et de la communication et les intégrer à l’exercice de la pratique professionnelle :
+- Maîtriser les technologies de l’information et de la communication et les intégrer à l’exercice de la pratique professionnelle :
 
-1. Intégrer de manière adaptée les technologies de l’information et de la communication dans ses pratiques professionnelles.
+  - Intégrer de manière adaptée les technologies de l’information et de la communication dans ses pratiques professionnelles.
 
 #### Chapitre 2 Composition et fonctionnement de la commission de validation prévue à l’article 44 de la loi du 30 juillet 2015
 
@@ -222,13 +222,13 @@ Les neuf domaines de compétences professionnelles sont constitués des compéte
 
 La commission de validation prévue à l’article 44, paragraphe 7, de la loi du 30 juillet 2015 comprend :
 
-1. le directeur de l’Institut ;
+- le directeur de l’Institut ;
 
-2. les trois responsables de division des stages de l’Institut ;
+- les trois responsables de division des stages de l’Institut ;
 
-3. quatre formateurs ;
+- quatre formateurs ;
 
-4. deux conseillers didactiques.
+- deux conseillers didactiques.
 
 Les membres de la commission de validation sont nommés par le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions, ci-après « ministre », pour une durée de trois ans et leur mandat est renouvelable.
 
@@ -249,39 +249,39 @@ Les membres des commissions consultatives visées au chapitre 2, section 19, art
 
 La commission consultative de réduction de stage et de dispense de formation des stagiaires visés à l’article 5 et des employés visés à l’article 66, sous-groupe de l’enseignement fondamental, de la loi du 30 juillet 2015 comprend cinq membres :
 
-1. deux représentants du ministre ;
+- deux représentants du ministre ;
 
-2. le directeur de l’Institut ;
+- le directeur de l’Institut ;
 
-3. le responsable de la division du stage des enseignants de l’enseignement fondamental de l’Institut ;
+- le responsable de la division du stage des enseignants de l’enseignement fondamental de l’Institut ;
 
-4. un directeur de région.
+- un directeur de région.
 
 (3)
 
 La commission consultative de réduction de stage et de dispense de formation des stagiaires visés aux articles 6 et 7 et des employés visés à l’article 66, sous-groupe de l’enseignement secondaire, de la loi du 30 juillet 2015 comprend cinq membres :
 
-1. deux représentants du ministre ;
+- deux représentants du ministre ;
 
-2. le directeur de l’Institut ;
+- le directeur de l’Institut ;
 
-3. le responsable de la division du stage des enseignants de l’enseignement secondaire et des formateurs d’adultes de l’Institut ;
+- le responsable de la division du stage des enseignants de l’enseignement secondaire et des formateurs d’adultes de l’Institut ;
 
-4. un directeur d’établissement.
+- un directeur d’établissement.
 
 (4)
 
 La commission consultative de réduction de stage et de dispense de formation des stagiaires visés à l’article 8 et des employés visés à l’article 67 de la loi du 30 juillet 2015 comprend six membres :
 
-1. deux représentants du ministre ;
+- deux représentants du ministre ;
 
-2. le directeur de l’Institut ;
+- le directeur de l’Institut ;
 
-3. le responsable de la division du stage du personnel éducatif et psycho-social de l’Institut ;
+- le responsable de la division du stage du personnel éducatif et psycho-social de l’Institut ;
 
-4. un directeur de région ;
+- un directeur de région ;
 
-5. un directeur d’établissement.
+- un directeur d’établissement.
 
 (5)
 
@@ -319,11 +319,11 @@ Les commissions consultatives arrêtent leur règlement interne sur approbation 
 
 La commission consultative prévue au chapitre 3, section 9, article 88 de la loi du 30 juillet 2015 comprend cinq membres nommés par le ministre :
 
-1. un représentant du ministre ;
+- un représentant du ministre ;
 
-2. les trois chefs de division de l’Institut ;
+- les trois chefs de division de l’Institut ;
 
-3. le directeur de l’Institut.
+- le directeur de l’Institut.
 
 Les membres de la commission consultative sont nommés pour une durée de trois ans et leur mandat est renouvelable.
 
@@ -342,12 +342,20 @@ La commission consultative arrête son règlement interne sur approbation du min
 <a id="art-7"></a>
 ## Art. 7.
 
-L’intitulé du règlement grand-ducal modifié du 7 avril 2011 déterminant 1. les conditions d’admission au stage, les modalités du stage ainsi que les conditions de nomination des éducateurs et éducateurs gradués intervenant dans l’enseignement fondamental ou affectés aux lycées, au Centre de psychologie et d’orientation scolaires, à l’Action locale pour jeunes, à l’École de la 2e Chance et au Centre national de formation professionnelle continue; 2. les modalités de l’examen de promotion de l’éducateur est remplacé par l’intitulé suivant : « Règlement grand-ducal modifié du 7 avril 2011 déterminant les modalités de l’examen de promotion de l’éducateur »
+L’intitulé du règlement grand-ducal modifié du 7 avril 2011 déterminant 1. les conditions d’admission au stage, les modalités du stage ainsi que les conditions de nomination des éducateurs et éducateurs gradués intervenant dans l’enseignement fondamental ou affectés aux lycées, au Centre de psychologie et d’orientation scolaires, à l’Action locale pour jeunes, à l’École de la 2e Chance et au Centre national de formation professionnelle continue; 2. les modalités de l’examen de promotion de l’éducateur est remplacé par l’intitulé suivant :
+
+« Règlement grand-ducal modifié du 7 avril 2011 déterminant les modalités de l’examen de promotion de l’éducateur »
 
 <a id="art-8"></a>
 ## Art. 8.
 
-L’article 1er du règlement grand-ducal modifié du 7 avril 2011 déterminant les modalités de l’examen de promotion de l’éducateur est remplacé par la disposition suivante : Art. 1er. Champ d’application Le présent règlement fixe les modalités de l’examen de promotion de l’éducateur intervenant dans les établissements scolaires et socio-éducatifs de l’Éducation nationale.
+L’article 1er du règlement grand-ducal modifié du 7 avril 2011 déterminant les modalités de l’examen de promotion de l’éducateur est remplacé par la disposition suivante :
+
+Art. 1er.
+
+Champ d’application
+
+Le présent règlement fixe les modalités de l’examen de promotion de l’éducateur intervenant dans les établissements scolaires et socio-éducatifs de l’Éducation nationale.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -368,15 +376,15 @@ Les articles 2 à 10 du même règlement grand-ducal sont abrogés.
 
 Sont abrogés :
 
-1. le règlement grand-ducal modifié du 11 juin 1985 portant fixation des indemnités dues aux membres des commissions pour les examens de fin de stage des enseignants de l’enseignement secondaire et de l’enseignement secondaire technique ;
+- le règlement grand-ducal modifié du 11 juin 1985 portant fixation des indemnités dues aux membres des commissions pour les examens de fin de stage des enseignants de l’enseignement secondaire et de l’enseignement secondaire technique ;
 
-2. le règlement grand-ducal modifié du 3 août 2010 concernant la formation théorique et pratique ainsi que la période probatoire des enseignants de l’enseignement postprimaire ;
+- le règlement grand-ducal modifié du 3 août 2010 concernant la formation théorique et pratique ainsi que la période probatoire des enseignants de l’enseignement postprimaire ;
 
-3. le règlement grand-ducal modifié du 16 mars 2012 déterminant pour les chargés d’éducation des lycées et lycées techniques 1. l’échelle d’évaluation par le directeur, 2. les modalités d’organisation et le programme de la formation en cours d’emploi, 3. les modalités d’obtention du certificat de qualification sanctionnant la formation en cours d’emploi ;
+- le règlement grand-ducal modifié du 16 mars 2012 déterminant pour les chargés d’éducation des lycées et lycées techniques 1. l’échelle d’évaluation par le directeur, 2. les modalités d’organisation et le programme de la formation en cours d’emploi, 3. les modalités d’obtention du certificat de qualification sanctionnant la formation en cours d’emploi ;
 
-4. le règlement grand-ducal modifié du 25 août 2015 déterminant 1. le référentiel des compétences professionnelles, 2. les décharges accordées aux enseignants stagiaires, aux employés et aux intervenants, 3. la composition et le fonctionnement des jurys et commissions d’évaluation, 4. la composition et le fonctionnement des commissions de validation, 5. les indemnités des évaluateurs, des membres de jurys et de la commission du bilan de fin de formation à la pratique professionnelle, 6. la composition et le fonctionnement des commissions consultatives du stage des fonctionnaires-stagiaires et de la période de stage des employés de l’Éducation nationale ;
+- le règlement grand-ducal modifié du 25 août 2015 déterminant 1. le référentiel des compétences professionnelles, 2. les décharges accordées aux enseignants stagiaires, aux employés et aux intervenants, 3. la composition et le fonctionnement des jurys et commissions d’évaluation, 4. la composition et le fonctionnement des commissions de validation, 5. les indemnités des évaluateurs, des membres de jurys et de la commission du bilan de fin de formation à la pratique professionnelle, 6. la composition et le fonctionnement des commissions consultatives du stage des fonctionnaires-stagiaires et de la période de stage des employés de l’Éducation nationale ;
 
-5. le règlement grand-ducal du 23 août 2018 déterminant les modalités des épreuves et des formations théorique et pratique prévues à l’article 20bis de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental.
+- le règlement grand-ducal du 23 août 2018 déterminant les modalités des épreuves et des formations théorique et pratique prévues à l’article 20bis de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental.
 
 #### Chapitre 8 Dispositions finales
 

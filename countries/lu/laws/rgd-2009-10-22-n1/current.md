@@ -56,7 +56,7 @@ Fonctionnement
 
 Les centres de traitement et les centres de vaccination sont opérés sous l’autorité de l’Etat. Les missions des différents intervenants sont fixées au règlement ministériel prévu à l’article 2.
 
-L’Etat se charge de doter les centres de traitement et les centres de vaccination du personnel de santé, médecins et membres des autres professions de santé, en nombre suffisant pour garantir leur fonctionnement. Il met à leur disposition le matériel médical, les vaccins et médicaments, ainsi que le système informatique nécessaires aux mêmes fins.
+L’Etat se charge de doter les centres de traitement et les centres de vaccination du personnel de santé, médecins et membres des autres professions de santé, en nombre suffisant pour garantir leur fonctionnement. Il met à leur disposition le matériel médical, les vaccins et médicaments , ainsi que le système informatique nécessaires aux mêmes fins.
 
 L’État et les communes sont chargés d’assumer, avec les moyens qui leur sont propres, les travaux administratifs et logistiques relatifs au fonctionnement des centres en y affectant notamment le personnel nécessaire. Ils mettent en outre à disposition les infrastructures administratives et logistiques non-médicales nécessaires au fonctionnement des centres.
 
@@ -100,7 +100,7 @@ Les centres de traitement et les centres de vaccination cesseront de fonctionner
 
 Dispositions modificatives
 
-L’article 1er, point 1, du règlement grand-ducal modifié du 18 octobre 2001 déterminant la liste des vaccinations recommandées est complété par une ligne, libellée comme suit:«la grippe A(H1N1) variante».
+L’article 1er, point 1, du règlement grand-ducal modifié du 18 octobre 2001 déterminant la liste des vaccinations recommandées est complété par une ligne, libellée comme suit: «la grippe A(H1N1) variante».
 
 <a id="art-8"></a>
 ## Art. 8.

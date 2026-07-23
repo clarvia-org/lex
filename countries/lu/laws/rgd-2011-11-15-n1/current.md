@@ -85,9 +85,9 @@ Le mandat individuel d’un représentant des étrangers prend fin, hormis le ca
 
 Sont admises à proposer les représentants des étrangers au ministre ayant dans ses attributions l’Intégration, désigné par la suite «le ministre», d’après les modalités ci-après désignées:
 
-1. les associations des étrangers ayant une activité sociale, culturelle ou sportive, l’association des étrangers étant celle dont soit la majorité des membres fondateurs, soit la majorité des membres actuels, sont d’une nationalité autre que luxembourgeoise;
+- les associations des étrangers ayant une activité sociale, culturelle ou sportive, l’association des étrangers étant celle dont soit la majorité des membres fondateurs, soit la majorité des membres actuels, sont d’une nationalité autre que luxembourgeoise;
 
-2. les associations œuvrant, à titre principal, en faveur des étrangers.
+- les associations œuvrant, à titre principal, en faveur des étrangers.
 
 Les associations visées à l’alinéa qui précède doivent être inscrites auprès du département de l’intégration du Ministère de la famille, de l’intégration et à la Grande Région, ci-après « Ministère » au plus tard le quinzième jour avant le jour du scrutin et avoir produit le rapport d’activité annuel de l’exercice précédant le vote du nouveau conseil ainsi que la liste actuelle des membres.
 
@@ -98,11 +98,11 @@ Sont inscrites auprès du Ministère en vue d’exercer le droit de vote pour le
 
 La demande d’inscription se fait sur papier libre, adressée au Ministère en joignant:
 
-1. une copie de l’acte de constitution
+- une copie de l’acte de constitution
 
-2. une copie attestant la publication des statuts au Mémorial, Recueil des Sociétés et Associations
+- une copie attestant la publication des statuts au Mémorial, Recueil des Sociétés et Associations
 
-3. la liste des administrateurs désignés en conformité des statuts pour l’exercice en cours.
+- la liste des administrateurs désignés en conformité des statuts pour l’exercice en cours.
 
 Le Ministère donne acte à l’association de son inscription en cas de décision positive.
 
@@ -124,15 +124,15 @@ Les représentants des étrangers à proposer au ministre sont élus parmi les p
 
 Pour être candidat sur une liste électorale, il faut:
 
-1. être d’une nationalité autre que luxembourgeoise
+- être d’une nationalité autre que luxembourgeoise
 
-2. être âgé de 18 ans accomplis le jour du scrutin
+- être âgé de 18 ans accomplis le jour du scrutin
 
-3. être domicilié au Grand-Duché de Luxembourg
+- être domicilié au Grand-Duché de Luxembourg
 
-4. ne pas être placé sous un régime de tutelle des majeurs
+- ne pas être placé sous un régime de tutelle des majeurs
 
-5. ne pas avoir subi de condamnation à une peine criminelle ou une condamnation en matière correctionnelle emportant privation du droit de vote.
+- ne pas avoir subi de condamnation à une peine criminelle ou une condamnation en matière correctionnelle emportant privation du droit de vote.
 
 La candidature peut être posée par la personne concernée elle-même ou par une ou plusieurs associations inscrites auprès du Ministère avec l’accord écrit du concerné.
 
@@ -150,11 +150,11 @@ Les candidats figurant sur les listes doivent se déclarer ou être déclarés a
 
 La déclaration de candidature est accompagnée:
 
-1. d’un acte de naissance
+- d’un acte de naissance
 
-2. d’une pièce documentant la nationalité du candidat
+- d’une pièce documentant la nationalité du candidat
 
-3. d’un extrait du casier judiciaire.
+- d’un extrait du casier judiciaire.
 
 La liste des candidats déclarés est affichée au Ministère du quinzième jour précédant les élections jusqu’au jour fixé pour les élections. Elle est provisoire jusqu’au huitième jour précédant les élections où elle est arrêtée définitivement. Elle peut être consultée par tout intéressé.
 
@@ -247,11 +247,11 @@ Chaque candidat ne peut obtenir qu’une seule voix.
 
 Sont nuls:
 
-1. les bulletins qui expriment plus de suffrages qu’il n’y a de représentants à élire
+- les bulletins qui expriment plus de suffrages qu’il n’y a de représentants à élire
 
-2. les bulletins qui ne contiennent l’expression d’aucun suffrage
+- les bulletins qui ne contiennent l’expression d’aucun suffrage
 
-3. les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque quelconque.
+- les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque quelconque.
 
 <a id="art-24"></a>
 ## Art. 24.

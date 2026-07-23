@@ -37,33 +37,33 @@ Le présent règlement grand-ducal établit un cadre pour la promotion et la ré
 
 Aux fins du présent règlement grand-ducal, on entend par:
 
-1. «centrale»: installation technique indépendante pour la production d’électricité et de chaleur à partir de la cogénération située sur un site géographique défini et intégrant toutes les composantes qui sont nécessaires pour la production d’électricité et de chaleur. Plusieurs de ces installations de même type sont à considérer comme une seule installation si elles sont raccordées à un même point de raccordement ou liées moyennant des infrastructures communes requises pour leur fonctionnement;
+- «centrale»: installation technique indépendante pour la production d’électricité et de chaleur à partir de la cogénération située sur un site géographique défini et intégrant toutes les composantes qui sont nécessaires pour la production d’électricité et de chaleur. Plusieurs de ces installations de même type sont à considérer comme une seule installation si elles sont raccordées à un même point de raccordement ou liées moyennant des infrastructures communes requises pour leur fonctionnement;
 
-2. «chaleur utile»: la chaleur produite dans un processus de cogénération en vue de satisfaire une demande économiquement justifiable de production de chaleur ou de froid, c’est-à-dire que la demande qui ne dépasse pas les besoins en chaleur ou en froid et qui, autrement, serait satisfaite aux conditions du marché par des processus de production d’énergie autres que la cogénération;
+- «chaleur utile»: la chaleur produite dans un processus de cogénération en vue de satisfaire une demande économiquement justifiable de production de chaleur ou de froid, c’est-à-dire que la demande qui ne dépasse pas les besoins en chaleur ou en froid et qui, autrement, serait satisfaite aux conditions du marché par des processus de production d’énergie autres que la cogénération;
 
-3. «cogénération»: la production simultanée, dans un seul processus, d’énergie thermique et électrique et/ou mécanique;
+- «cogénération»: la production simultanée, dans un seul processus, d’énergie thermique et électrique et/ou mécanique;
 
-4. «cogénération à haut rendement»: la cogénération satisfaisant aux critères décrits à l’annexe I;
+- «cogénération à haut rendement»: la cogénération satisfaisant aux critères décrits à l’annexe I;
 
-5. «électricité issue de la cogénération»: l’électricité produite dans le cadre d’un processus lié à la production de chaleur utile et calculée conformément à la méthode indiquée à l’annexe II;
+- «électricité issue de la cogénération»: l’électricité produite dans le cadre d’un processus lié à la production de chaleur utile et calculée conformément à la méthode indiquée à l’annexe II;
 
-6. «électricité jour»: l’électricité fournie au réseau entre 6 heures à 22 heures;
+- «électricité jour»: l’électricité fournie au réseau entre 6 heures à 22 heures;
 
-7. «électricité nuit»: l’électricité fournie au réseau entre 22 heures à 6 heures;
+- «électricité nuit»: l’électricité fournie au réseau entre 22 heures à 6 heures;
 
-8. «producteur d’énergie»: l’exploitant d’une centrale;
+- «producteur d’énergie»: l’exploitant d’une centrale;
 
-9. «production par cogénération»: la somme de l’électricité, de l’énergie mécanique et de la chaleur utile issues de la cogénération;
+- «production par cogénération»: la somme de l’électricité, de l’énergie mécanique et de la chaleur utile issues de la cogénération;
 
-10. «rapport électricité/chaleur»: le rapport entre l’électricité issue de la cogénération et la chaleur utile lors d’un fonctionnement uniquement en mode de cogénération utilisant des données opérationnelles d’une centrale spécifique;
+- «rapport électricité/chaleur»: le rapport entre l’électricité issue de la cogénération et la chaleur utile lors d’un fonctionnement uniquement en mode de cogénération utilisant des données opérationnelles d’une centrale spécifique;
 
-11. «rendement»: le rendement calculé sur la base du pouvoir calorifique inférieur des combustibles;
+- «rendement»: le rendement calculé sur la base du pouvoir calorifique inférieur des combustibles;
 
-12. «rendement global»: la somme annuelle de la production d’électricité et d’énergie mécanique et de la production de chaleur utile divisée par la consommation de combustible aux fins de la production de chaleur dans un processus de cogénération et de la production brute d’électricité et d’énergie mécanique;
+- «rendement global»: la somme annuelle de la production d’électricité et d’énergie mécanique et de la production de chaleur utile divisée par la consommation de combustible aux fins de la production de chaleur dans un processus de cogénération et de la production brute d’électricité et d’énergie mécanique;
 
-13. «sources d’énergie renouvelables»: les sources d’énergie non fossiles renouvelables (énergie éolienne, solaire, géothermique, houlomotrice, marémotrice et hydroélectrique, biomasse, gaz de décharge, gaz des stations d’épuration d’eaux usées et biogaz);
+- «sources d’énergie renouvelables»: les sources d’énergie non fossiles renouvelables (énergie éolienne, solaire, géothermique, houlomotrice, marémotrice et hydroélectrique, biomasse, gaz de décharge, gaz des stations d’épuration d’eaux usées et biogaz);
 
-14. «valeur de rendement de référence pour la production séparée»: le rendement des productions séparées de chaleur et d’électricité que le processus de cogénération est destiné à remplacer.
+- «valeur de rendement de référence pour la production séparée»: le rendement des productions séparées de chaleur et d’électricité que le processus de cogénération est destiné à remplacer.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -83,31 +83,31 @@ Il est établi un système de garantie d’origine pour l’électricité produi
 
 La garantie d’origine précise au minimum pour l’électricité produite à partir de la cogénération à haut rendement:
 
-1. le nom, l’adresse ou le siège social et la qualité du producteur de l’électricité;
+- le nom, l’adresse ou le siège social et la qualité du producteur de l’électricité;
 
-2. le nom, l’emplacement, le type et la puissance thermique et électrique de la centrale dans laquelle l’énergie a été produite;
+- le nom, l’emplacement, le type et la puissance thermique et électrique de la centrale dans laquelle l’énergie a été produite;
 
-3. la source d’énergie utilisée pour produire l’électricité;
+- la source d’énergie utilisée pour produire l’électricité;
 
-4. les dates et les lieux de production;
+- les dates et les lieux de production;
 
-5. la valeur calorifique la plus faible de la source de combustible à partir de laquelle a été produite l’électricité;
+- la valeur calorifique la plus faible de la source de combustible à partir de laquelle a été produite l’électricité;
 
-6. la quantité de chaleur générée parallèlement à l’électricité, et son utilisation;
+- la quantité de chaleur générée parallèlement à l’électricité, et son utilisation;
 
-7. la quantité d’électricité produite par cogénération à haut rendement, conformément à l’annexe II, couverte par la garantie;
+- la quantité d’électricité produite par cogénération à haut rendement, conformément à l’annexe II, couverte par la garantie;
 
-8. les économies d’énergie primaire calculées conformément à l’annexe I sur la base des valeurs harmonisées de rendement de référence indiquées à l’annexe I, points d), e) et f);
+- les économies d’énergie primaire calculées conformément à l’annexe I sur la base des valeurs harmonisées de rendement de référence indiquées à l’annexe I, points d), e) et f);
 
-9. le rendement nominal électrique et thermique de la centrale;
+- le rendement nominal électrique et thermique de la centrale;
 
-10. si et dans quelle mesure la centrale a bénéficié d’une aide à l’investissement, si et dans quelle mesure l’unité d’électricité a bénéficié d’une autre manière d’un régime d’aide national, et le type de régime d’aide;
+- si et dans quelle mesure la centrale a bénéficié d’une aide à l’investissement, si et dans quelle mesure l’unité d’électricité a bénéficié d’une autre manière d’un régime d’aide national, et le type de régime d’aide;
 
-11. la date à laquelle la centrale est entrée en service;
+- la date à laquelle la centrale est entrée en service;
 
-12. les dates de début et de fin d’injection d’électricité dans le réseau d’un gestionnaire de réseau;
+- les dates de début et de fin d’injection d’électricité dans le réseau d’un gestionnaire de réseau;
 
-13. la date et le pays d’émission de la garantie d’origine et un numéro d’identification unique.
+- la date et le pays d’émission de la garantie d’origine et un numéro d’identification unique.
 
 La garantie d’origine doit être utilisée dans les douze mois suivant la fin d’injection d’électricité correspondante et est annulée dès qu’elle a été utilisée. Elle correspond à un volume type de 1 MWh. Elle correspond à la production nette d’électricité mesurée aux bornes de sortie de la centrale et injectée dans le réseau. Au maximum, une garantie d’origine est émise pour chaque unité d’électricité produite.
 
@@ -134,25 +134,25 @@ Sauf en cas de fraude, une garantie d’origine délivrée par un organisme comp
 
 Le présent règlement grand-ducal vise les technologies de cogénération suivantes:
 
-1. Turbine à gaz à cycle combiné avec récupération de chaleur;
+- Turbine à gaz à cycle combiné avec récupération de chaleur;
 
-2. Turbine à vapeur à contrepression;
+- Turbine à vapeur à contrepression;
 
-3. Turbine d’extraction à condensation de vapeur;
+- Turbine d’extraction à condensation de vapeur;
 
-4. Turbine à gaz avec récupération de chaleur;
+- Turbine à gaz avec récupération de chaleur;
 
-5. Moteurs à combustion interne;
+- Moteurs à combustion interne;
 
-6. Microturbines;
+- Microturbines;
 
-7. Moteurs stirling;
+- Moteurs stirling;
 
-8. Piles à combustible;
+- Piles à combustible;
 
-9. Moteurs à vapeur et
+- Moteurs à vapeur et
 
-10. Tout autre type de technologie ou de combinaison de technologies relevant de la définition de l’article 3, paragraphe (3).
+- Tout autre type de technologie ou de combinaison de technologies relevant de la définition de l’article 3, paragraphe (3).
 
 #### CHAPITRE IV RACCORDEMENT AU RESEAU ET FOURNITURE D’ELECTRICITE
 

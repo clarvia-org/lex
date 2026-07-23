@@ -29,15 +29,15 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 L'administration des services techniques de l'agriculture, dénommée ci-après «l'administration», a, dans les limites fixées par les lois et règlements et sans préjudice des dispositions légales et réglementaires fixant les attributions d'autres organismes de l'Etat, notamment pour attributions:
 
-1. de propager le progrès technique en agriculture, d'orienter et de développer les productions animales et végétales, d'encourager la productivité et de stimuler la coopération dans le secteur agricole;
+- de propager le progrès technique en agriculture, d'orienter et de développer les productions animales et végétales, d'encourager la productivité et de stimuler la coopération dans le secteur agricole;
 
-2. de s'occuper de problèmes touchant le sol agricole, les bâtiments de ferme, la mécanisation des exploitations agricoles, l'aménagement foncier et rural, la voirie rurale, la météorologie et l'environnement dans le domaine agricole;
+- de s'occuper de problèmes touchant le sol agricole, les bâtiments de ferme, la mécanisation des exploitations agricoles, l'aménagement foncier et rural, la voirie rurale, la météorologie et l'environnement dans le domaine agricole;
 
-3. de promouvoir la qualité des produits agricoles et d'effectuer les analyses concernant la composition et la qualité de produits et de moyens de production agricole;
+- de promouvoir la qualité des produits agricoles et d'effectuer les analyses concernant la composition et la qualité de produits et de moyens de production agricole;
 
-4. d'assurer l'application des dispositions législatives et réglementaires en matière de produits agricoles, de moyens de production agricole, de protection des végétaux et produits végétaux; de surveiller l'application de la législation en matière d'associations agricoles et syndicales;
+- d'assurer l'application des dispositions législatives et réglementaires en matière de produits agricoles, de moyens de production agricole, de protection des végétaux et produits végétaux; de surveiller l'application de la législation en matière d'associations agricoles et syndicales;
 
-5. de participer à l'élaboration et à l'application de la réglementation communautaire.
+- de participer à l'élaboration et à l'application de la réglementation communautaire.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -142,9 +142,9 @@ Sans préjudice des conditions générales d'admission au service de l'Etat et p
 
 Les candidats aux fonctions d'ingénieur doivent être détenteurs:
 
-1. du diplôme de fin d'études secondaires luxembourgeois ou du diplôme d'ingénieur technicien délivré par l'école technique de Luxembourg ou d'un certificat d'études équivalent dûment homologué par le ministre de l'éducation nationale et
+- du diplôme de fin d'études secondaires luxembourgeois ou du diplôme d'ingénieur technicien délivré par l'école technique de Luxembourg ou d'un certificat d'études équivalent dûment homologué par le ministre de l'éducation nationale et
 
-2. d'un diplôme d'ingénieur ou de docteur en sciences agronomiques ou chimiques ou d'un diplôme équivalent portant sur la spécialité du service auquel le candidat se destine. Ces diplômes doivent être délivrés par une université ou une école d'enseignement supérieur à caractère universitaire, après un cycle d'études sur place d'au moins quatre années, et être inscrits au registre des diplômes prévu à l'article 1 er de la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur.
+- d'un diplôme d'ingénieur ou de docteur en sciences agronomiques ou chimiques ou d'un diplôme équivalent portant sur la spécialité du service auquel le candidat se destine. Ces diplômes doivent être délivrés par une université ou une école d'enseignement supérieur à caractère universitaire, après un cycle d'études sur place d'au moins quatre années, et être inscrits au registre des diplômes prévu à l'article 1 er de la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur.
 
 (2)
 
@@ -195,13 +195,13 @@ La fonction de chimiste est classée au grade 10 de la rubrique «Administration
 
 Les modifications et additions ci-après sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat.
 
-1. L'article 22 est modifié comme indiqué ci-après:
+- L'article 22 est modifié comme indiqué ci-après:
 
-- A la section II, au numéro 9° est supprimée la mention des ponts et chaussées;
+  - A la section II, au numéro 9° est supprimée la mention des ponts et chaussées;
 
-- A la section IV, au numéro 4° est supprimée la mention des ponts et chaussées;
+  - A la section IV, au numéro 4° est supprimée la mention des ponts et chaussées;
 
-2. L'Annexe A - Classification des fonctions - Rubrique I «Administration générale» est modifiée comme suit: au grade 10 est ajoutée la mention différentes administrations - ° chimiste est supprimée la mention ponts et chaussées - ° chimiste.
+- L'Annexe A - Classification des fonctions - Rubrique I «Administration générale» est modifiée comme suit: au grade 10 est ajoutée la mention différentes administrations - ° chimiste est supprimée la mention ponts et chaussées - ° chimiste.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -214,6 +214,8 @@ Avant d'entrer en fonction, ils prêtent devant le tribunal d'arrondissement de 
 ## Art. 13.
 
 Le montant des taxes à percevoir notamment pour le contrôle officiel des semences, des pépinières d'arbres fruitiers, du miel luxembourgeois et pour des travaux de laboratoire ainsi que les modalités de perception de ces taxes sont fixés par règlement grand-ducal.
+
+Dispositions transitoires
 
 <a id="art-14"></a>
 ## Art. 14.
