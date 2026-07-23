@@ -465,21 +465,21 @@ def _candidate_boundary_splits(glued: str) -> list[tuple[str, ...]]:
         if not prefix.isalpha() or not rest.isalpha():
             continue
         if rest in _BOUNDARY_PROCLITICS:
-            candidate = (prefix, rest)
-            if _is_recognized_split(candidate):
-                out.append(candidate)
+            pair = (prefix, rest)
+            if _is_recognized_split(pair):
+                out.append(pair)
         for proclitic in _BOUNDARY_PROCLITICS:
             if not rest.startswith(proclitic):
                 continue
             rest2 = rest[len(proclitic) :]
             if rest2 and rest2.isalpha():
-                candidate = (prefix, proclitic, rest2)
-                if _is_recognized_split(candidate):
-                    out.append(candidate)
+                triple = (prefix, proclitic, rest2)
+                if _is_recognized_split(triple):
+                    out.append(triple)
             elif not rest2:
-                candidate = (prefix, proclitic)
-                if _is_recognized_split(candidate):
-                    out.append(candidate)
+                pair = (prefix, proclitic)
+                if _is_recognized_split(pair):
+                    out.append(pair)
 
     seen: set[tuple[str, ...]] = set()
     unique: list[tuple[str, ...]] = []

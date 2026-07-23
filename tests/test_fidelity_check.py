@@ -5,6 +5,7 @@ from __future__ import annotations
 import importlib.util
 import sys
 from pathlib import Path
+from typing import Any
 
 from lex.fidelity import (
     WORD_COUNT_MARGIN,
@@ -21,7 +22,7 @@ LAW = Path("countries/lu/laws/loi-2000-06-29-n2")
 CODE = Path("countries/lu/laws/code-consommation")
 
 
-def _load_adapter():  # type: ignore[no-untyped-def]
+def _load_adapter() -> Any:
     path = Path("countries/lu/adapter.py")
     spec = importlib.util.spec_from_file_location("lu_adapter_word_parity", path)
     assert spec is not None and spec.loader is not None
