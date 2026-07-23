@@ -254,6 +254,7 @@ LAWS_BY_ID: dict[str, LawSpec] = {spec.id: spec for spec in LAWS}
 
 class LuxembourgAdapter:
     country_code = "lu"
+    _seen_anchors: set[str]
 
     def discover(self, client: HttpClient) -> Sequence[LawRef]:
         refs: list[LawRef] = []

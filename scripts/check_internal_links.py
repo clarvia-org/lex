@@ -19,12 +19,14 @@ def main() -> None:
         for match in link_pattern.finditer(content):
             link = match.group(2)
 
-            # Skip external URLs and anchors
+            # Skip external URLs, anchors, and prose text containing spaces
             if (
                 link.startswith("http://")
                 or link.startswith("https://")
                 or link.startswith("#")
                 or link.startswith("mailto:")
+                or " " in link
+                or "\n" in link
             ):
                 continue
 
