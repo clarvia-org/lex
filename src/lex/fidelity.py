@@ -153,10 +153,7 @@ class FidelityReport:
     def ok(self) -> bool:
         if self.source_tokens == 0:
             return True
-        return (
-            self.unexplained_source_only_tokens / self.source_tokens
-            <= WORD_COUNT_MARGIN
-        )
+        return self.unexplained_source_only_tokens / self.source_tokens <= WORD_COUNT_MARGIN
 
     def format_public(self) -> str:
         return "\n".join(
@@ -227,9 +224,7 @@ def analyze_law_fidelity(md_path: Path) -> FidelityReport | None:
         xml_articles = xml_article_word_streams(source_bytes)
         md_articles = markdown_article_word_streams(body)
         article_diffs = tuple(
-            first_article_differences(
-                xml_articles, md_articles, limit=_FIRST_DIFF_REPORT_LIMIT
-            )
+            first_article_differences(xml_articles, md_articles, limit=_FIRST_DIFF_REPORT_LIMIT)
         )
     elif suffix in {".html", ".htm"}:
         source_words = html_body_words(source_bytes)
@@ -327,6 +322,9 @@ def _classify_boundary_differences(
     Split parts may be drawn from the full Markdown multiset (``md_budget``),
     not only from markdown-only residuals — otherwise ``erbis`` fails when
     ``er``/``bis`` already exact-matched other source tokens.
+
+    Ordinal bridges (``1``+``erbis`` ↔ ``1er``+``bis``) run before peeling
+    bare ``erbis`` → ``er``+``bis``, which would strand the leading digit.
     """
     src = Counter(source_only)
     md_only = Counter(markdown_only)
@@ -335,26 +333,8 @@ def _classify_boundary_differences(
     progress = True
     while progress:
         progress = False
-        for glued in sorted(list(src.keys()), key=len, reverse=True):
-            while src[glued] > 0:
-                split = _find_consumable_split(glued, budget)
-                if split is None:
-                    break
-                for part in split:
-                    budget[part] -= 1
-                    if budget[part] <= 0:
-                        del budget[part]
-                    if md_only[part] > 0:
-                        md_only[part] -= 1
-                        if md_only[part] <= 0:
-                            del md_only[part]
-                src[glued] -= 1
-                if src[glued] <= 0:
-                    del src[glued]
-                recognized += 1
-                progress = True
 
-        # Ordinal bridge: ``1``+``erbis`` ↔ ``1er``+``bis`` (same characters).
+        # Ordinal bridge first: ``1``+``erbis`` ↔ ``1er``+``bis`` (same characters).
         for digit in [t for t in list(src) if t.isdigit()]:
             for glued in [t for t in list(src) if t.startswith("er") and len(t) > 2]:
                 md_left = digit + "er"
@@ -383,6 +363,25 @@ def _classify_boundary_differences(
                     recognized += 1
                     progress = True
 
+        for glued in sorted(list(src.keys()), key=len, reverse=True):
+            while src[glued] > 0:
+                split = _find_consumable_split(glued, budget)
+                if split is None:
+                    break
+                for part in split:
+                    budget[part] -= 1
+                    if budget[part] <= 0:
+                        del budget[part]
+                    if md_only[part] > 0:
+                        md_only[part] -= 1
+                        if md_only[part] <= 0:
+                            del md_only[part]
+                src[glued] -= 1
+                if src[glued] <= 0:
+                    del src[glued]
+                recognized += 1
+                progress = True
+
     # Symmetric: Markdown-only glued tokens explained by source-only parts.
     src_budget = Counter(src)  # remaining unexplained source tokens as parts
     for glued in sorted(list(md_only.keys()), key=len, reverse=True):
@@ -406,9 +405,7 @@ def _classify_boundary_differences(
     return recognized, sum(src.values()), sum(md_only.values())
 
 
-def _find_consumable_split(
-    glued: str, parts_available: Counter[str]
-) -> tuple[str, ...] | None:
+def _find_consumable_split(glued: str, parts_available: Counter[str]) -> tuple[str, ...] | None:
     for split in _candidate_boundary_splits(glued):
         need: Counter[str] = Counter(split)
         if all(parts_available[p] >= n for p, n in need.items()):
